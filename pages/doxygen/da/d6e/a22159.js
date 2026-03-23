@@ -1,6 +1,5 @@
 var a22159 =
 [
-    [ "npc_lake_frogAI", "da/d6e/a22163.html", "da/d6e/a22163" ],
-    [ "npc_lake_frog", "da/d6e/a22159.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
-    [ "GetAI", "da/d6e/a22159.html#a9730da684a81fced304f10b2806c10e5", null ]
+    [ "go_finklestein_cauldron", "da/d6e/a22159.html#a8aa352319c54526069588dacd75ab883", null ],
+    [ "OnGossipHello", "da/d6e/a22159.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
 ];

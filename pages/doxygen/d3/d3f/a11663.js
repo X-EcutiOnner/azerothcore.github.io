@@ -1,4 +1,5 @@
 var a11663 =
 [
-    [ "operator()", "d3/d3f/a11663.html#a92cee61e659d819612af9d8f340661ab", null ]
+    [ "WorldObjectSpellTrajTargetCheck", "d3/d3f/a11663.html#a0c08b6b4c7878678eb419a556f718be0", null ],
+    [ "operator()", "d3/d3f/a11663.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
 ];

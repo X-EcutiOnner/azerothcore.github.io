@@ -1,9 +1,6 @@
 var a27387 =
 [
-    [ "emerald_dragonAI", "d2/daf/a27387.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "d2/daf/a27387.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "d2/daf/a27387.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "d2/daf/a27387.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "d2/daf/a27387.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "d2/daf/a27387.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "HandleAuraApply", "d2/daf/a27387.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
+    [ "PrepareAuraScript", "d2/daf/a27387.html#a6eedadacba366104fdca2791862be216", null ],
+    [ "Register", "d2/daf/a27387.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
 ];

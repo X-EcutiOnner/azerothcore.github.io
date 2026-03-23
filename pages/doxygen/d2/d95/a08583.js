@@ -1,7 +1,12 @@
 var a08583 =
 [
-    [ "IsInSpec", "d2/d95/a08583.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
-    [ "Active", "d2/d95/a08583.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
-    [ "specMask", "d2/d95/a08583.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
-    [ "State", "d2/d95/a08583.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
+    [ "QuaternionData", "d2/d95/a08583.html#a8a582c133d5fba901470a776c7144432", null ],
+    [ "QuaternionData", "d2/d95/a08583.html#a7f68a7bf3da861de017168eef5b8c6a0", null ],
+    [ "FromEulerAnglesZYX", "d2/d95/a08583.html#a4c5f4bc5c0bd4fff3f3ad77e6fd74c09", null ],
+    [ "IsUnit", "d2/d95/a08583.html#ab0330c115f97ff6368d8e8ab9820191e", null ],
+    [ "ToEulerAnglesZYX", "d2/d95/a08583.html#a65c564f6ae82c8f1bfb8f7786b5f0b90", null ],
+    [ "w", "d2/d95/a08583.html#a1f5567b478ebb94161786c85a29ad66a", null ],
+    [ "x", "d2/d95/a08583.html#aca37b701a67eefbf72922a5e7bf98cb2", null ],
+    [ "y", "d2/d95/a08583.html#ac222999cbb4681893fe591a5afc3587d", null ],
+    [ "z", "d2/d95/a08583.html#a7418b0e143cc32169864d77870db5ad7", null ]
 ];

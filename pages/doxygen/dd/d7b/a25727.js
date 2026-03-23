@@ -1,8 +1,6 @@
 var a25727 =
 [
-    [ "HandleFinish", "dd/d7b/a25727.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "dd/d7b/a25727.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "dd/d7b/a25727.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "dd/d7b/a25727.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "dd/d7b/a25727.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "HandleScript", "dd/d7b/a25727.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
+    [ "PrepareSpellScript", "dd/d7b/a25727.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
+    [ "Register", "dd/d7b/a25727.html#ad75843039e582b64da28b4818f48aeb3", null ]
 ];

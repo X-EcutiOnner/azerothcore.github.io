@@ -1,6 +1,8 @@
 var a13319 =
 [
-    [ "boss_darkmaster_gandlingAI", "d1/d90/a13323.html", "d1/d90/a13323" ],
-    [ "boss_darkmaster_gandling", "d4/dd6/a13319.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "d4/dd6/a13319.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "DelayedSummonEvent", "d4/dd6/a13319.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
+    [ "Execute", "d4/dd6/a13319.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
+    [ "_entry", "d4/dd6/a13319.html#a24d72110a070eb0bd03af081ef616de4", null ],
+    [ "_owner", "d4/dd6/a13319.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
+    [ "_pos", "d4/dd6/a13319.html#aef19987803a1cce47cbd8d9005a288ac", null ]
 ];

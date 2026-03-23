@@ -1,6 +1,6 @@
 var a21823 =
 [
-    [ "npc_thassarian2AI", "d9/dbe/a21827.html", "d9/dbe/a21827" ],
-    [ "npc_thassarian2", "d8/d27/a21823.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
-    [ "GetAI", "d8/d27/a21823.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
+    [ "ChangeSummonPos", "d8/d27/a21823.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d8/d27/a21823.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d8/d27/a21823.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

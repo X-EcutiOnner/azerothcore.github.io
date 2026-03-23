@@ -1,15 +1,11 @@
 var a13343 =
 [
-    [ "boss_kormok", "d2/d6d/a13343.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
-    [ "DamageTaken", "d2/d6d/a13343.html#a2aa7fedea09b4d0526028826be2cb360", null ],
-    [ "IsSummonedBy", "d2/d6d/a13343.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
-    [ "JustDied", "d2/d6d/a13343.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
-    [ "JustEngagedWith", "d2/d6d/a13343.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
-    [ "JustSummoned", "d2/d6d/a13343.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
-    [ "Reset", "d2/d6d/a13343.html#a70252bf1680510294f62e2c42220156e", null ],
-    [ "SummonedCreatureDespawn", "d2/d6d/a13343.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
-    [ "UpdateAI", "d2/d6d/a13343.html#aea5651a98492885eb4d598714df4fd40", null ],
-    [ "_mages", "d2/d6d/a13343.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
-    [ "_scheduler", "d2/d6d/a13343.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
-    [ "_summons", "d2/d6d/a13343.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
+    [ "npc_valkyr_battle_maidenAI", "d2/d6d/a13343.html#a859b63621c500c7a36150fadbb460b2b", null ],
+    [ "Reset", "d2/d6d/a13343.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
+    [ "UpdateAI", "d2/d6d/a13343.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
+    [ "FlyBackTimer", "d2/d6d/a13343.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
+    [ "phase", "d2/d6d/a13343.html#abd5d71272aa575be8583254217194e49", null ],
+    [ "x", "d2/d6d/a13343.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
+    [ "y", "d2/d6d/a13343.html#acccea63fedf38de14f7818016830a0a9", null ],
+    [ "z", "d2/d6d/a13343.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
 ];

@@ -1,6 +1,6 @@
 var a14871 =
 [
-    [ "FilterTargets", "d4/dc7/a14871.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
-    [ "PrepareSpellScript", "d4/dc7/a14871.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
-    [ "Register", "d4/dc7/a14871.html#a6375482bd9d1fc6c6941607273c506dc", null ]
+    [ "HandleScriptEffect", "d4/dc7/a14871.html#aebd700897688157ca62405c92fe58680", null ],
+    [ "PrepareSpellScript", "d4/dc7/a14871.html#a09e11d1938279a2302fb8805e71c6c36", null ],
+    [ "Register", "d4/dc7/a14871.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
 ];

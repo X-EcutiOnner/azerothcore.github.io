@@ -1,13 +1,9 @@
 var a29579 =
 [
-    [ "ConfigPolicy", "d3/dbd/a05213.html", "d3/dbd/a05213" ],
-    [ "ConfigMgr", "d9/d28/a05217.html", "d9/d28/a05217" ],
-    [ "ConfigException", "de/d4f/a05221.html", "de/d4f/a05221" ],
-    [ "sConfigMgr", "dc/dde/a29579.html#a7236988e98bdd405bf435a029b70a26f", null ],
-    [ "ConfigSeverity", "dc/dde/a29579.html#a05eaca858744a1f9f0e309e7867383e3", [
-      [ "Skip", "dc/dde/a29579.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c", null ],
-      [ "Warn", "dc/dde/a29579.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17", null ],
-      [ "Error", "dc/dde/a29579.html#a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd", null ],
-      [ "Fatal", "dc/dde/a29579.html#a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4", null ]
-    ] ]
+    [ "CreateSpellInfo", "dc/dde/a29579.html#a83fe2676ce2ae1374600de46967aeae5", null ],
+    [ "SetUp", "dc/dde/a29579.html#abd89fcaf8f8c38b5d992a21430f9ecdb", null ],
+    [ "TearDown", "dc/dde/a29579.html#acb5697251398888a4cc282c359cfc4ec", null ],
+    [ "_originalWorld", "dc/dde/a29579.html#ae44f699ee1acedae6ead179c3f012594", null ],
+    [ "_spellInfos", "dc/dde/a29579.html#ac06654664782d249c4233f79990c817b", null ],
+    [ "_worldMock", "dc/dde/a29579.html#a98d5f98dfc4d63705920b7b164530022", null ]
 ];

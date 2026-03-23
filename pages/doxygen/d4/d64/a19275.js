@@ -1,6 +1,15 @@
 var a19275 =
 [
-    [ "npc_gothik_triggerAI", "df/dda/a19279.html", "df/dda/a19279" ],
-    [ "npc_gothik_trigger", "d4/d64/a19275.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
-    [ "GetAI", "d4/d64/a19275.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
+    [ "boss_heigan", "d4/d64/a19275.html#a402b76bd927dd738bdbdf7faff93394c", null ],
+    [ "CheckSafetyDance", "d4/d64/a19275.html#a378397cc91408b812c76f657a96285e1", null ],
+    [ "JustDied", "d4/d64/a19275.html#a259c99e12b92ccb99af16949e37b5c48", null ],
+    [ "JustEngagedWith", "d4/d64/a19275.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
+    [ "KilledUnit", "d4/d64/a19275.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
+    [ "Reset", "d4/d64/a19275.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
+    [ "StartFightPhase", "d4/d64/a19275.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
+    [ "UpdateAI", "d4/d64/a19275.html#a36c0bc5abff61b435f2a8163687b122a", null ],
+    [ "_currentPhase", "d4/d64/a19275.html#a1065c6221b30536344e7d4d0779abd17", null ],
+    [ "_currentSection", "d4/d64/a19275.html#adcf2448a0868ea3e900609c8e7e34154", null ],
+    [ "_eruptionScheduler", "d4/d64/a19275.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
+    [ "_moveRight", "d4/d64/a19275.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
 ];

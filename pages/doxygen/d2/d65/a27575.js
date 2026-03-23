@@ -1,5 +1,7 @@
 var a27575 =
 [
-    [ "go_sacred_fire_of_life", "d2/d65/a27575.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d2/d65/a27575.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "HandleDummy", "d2/d65/a27575.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "d2/d65/a27575.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "d2/d65/a27575.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "d2/d65/a27575.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

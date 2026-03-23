@@ -1,5 +1,8 @@
 var a24055 =
 [
-    [ "npc_telonicus", "dd/d11/a24055.html#af8ba6be2d39463725bbbaf7770319a93", null ],
-    [ "ScheduleEvents", "dd/d11/a24055.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
+    [ "go_skull_pile", "dd/d11/a24055.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "dd/d11/a24055.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "dd/d11/a24055.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "dd/d11/a24055.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "dd/d11/a24055.html#af74fcd75404c0886128401d661067394", null ]
 ];

@@ -1,9 +1,8 @@
 var a26383 =
 [
-    [ "CountTargets", "d7/dbd/a26383.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
-    [ "HandleDummy", "d7/dbd/a26383.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
-    [ "PrepareSpellScript", "d7/dbd/a26383.html#adfb7e3fbb52aa349573b95c457823900", null ],
-    [ "Register", "d7/dbd/a26383.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
-    [ "Validate", "d7/dbd/a26383.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
-    [ "_targetCount", "d7/dbd/a26383.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
+    [ "HandleEffectApply", "d7/dbd/a26383.html#a1182bd57a03ad093b53e3864bdff127c", null ],
+    [ "HandleEffectRemove", "d7/dbd/a26383.html#a6374ece2a04c3d5bc81bb31cc5bc78e1", null ],
+    [ "PrepareAuraScript", "d7/dbd/a26383.html#acbe4a19f4f2502fc1ae4e13a2c8906ab", null ],
+    [ "Register", "d7/dbd/a26383.html#ac3a9249da3071736026d66a9551ca16d", null ],
+    [ "Validate", "d7/dbd/a26383.html#a0ebac0cb6933ac4c562c3c91e06614dd", null ]
 ];

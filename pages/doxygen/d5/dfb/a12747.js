@@ -1,6 +1,7 @@
 var a12747 =
 [
-    [ "boss_shazzrahAI", "d5/dfb/a12747.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
-    [ "ExecuteEvent", "d5/dfb/a12747.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
-    [ "JustEngagedWith", "d5/dfb/a12747.html#aaa8111d42cacd58f767513026976668c", null ]
+    [ "HandleHit", "d5/dfb/a12747.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "d5/dfb/a12747.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "d5/dfb/a12747.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "d5/dfb/a12747.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

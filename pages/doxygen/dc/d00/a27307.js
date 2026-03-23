@@ -1,5 +1,6 @@
 var a27307 =
 [
-    [ "achievement_everything_counts", "dc/d00/a27307.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
-    [ "OnCheck", "dc/d00/a27307.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
+    [ "HandleProc", "dc/d00/a27307.html#a933975b17f340d9f458dc95b77aa43ac", null ],
+    [ "PrepareAuraScript", "dc/d00/a27307.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
+    [ "Register", "dc/d00/a27307.html#a54dd9a2a6646282897cabec00f092525", null ]
 ];

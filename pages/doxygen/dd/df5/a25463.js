@@ -1,7 +1,6 @@
 var a25463 =
 [
-    [ "HandleEffectPeriodic", "dd/df5/a25463.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
-    [ "PrepareAuraScript", "dd/df5/a25463.html#affc698127fe0656df25bd094c02a7e50", null ],
-    [ "Register", "dd/df5/a25463.html#a4707bfaeb86b3540920a6772e1726e26", null ],
-    [ "Validate", "dd/df5/a25463.html#aef839f163d7e623a54b163e1c27542cd", null ]
+    [ "HandleFinish", "dd/df5/a25463.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
+    [ "PrepareSpellScript", "dd/df5/a25463.html#a62920503172dc58ac864a23e90a98dd9", null ],
+    [ "Register", "dd/df5/a25463.html#ab40419508a1903869aa2b36a590301ba", null ]
 ];

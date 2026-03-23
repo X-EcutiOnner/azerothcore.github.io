@@ -1,7 +1,9 @@
 var a11135 =
 [
-    [ "TimeQueryResponse", "df/dd5/a11135.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
-    [ "Write", "df/dd5/a11135.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
-    [ "ServerTime", "df/dd5/a11135.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
-    [ "TimeResponse", "df/dd5/a11135.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
+    [ "SwapItem", "df/dd5/a11135.html#a603871bfd69a2bcc2083de350f48875a", null ],
+    [ "Read", "df/dd5/a11135.html#a475122a155c96446ecad1b92ef5c7a19", null ],
+    [ "DestinationBag", "df/dd5/a11135.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
+    [ "DestinationSlot", "df/dd5/a11135.html#a0cf0b21ebfccb843ee23831e17982081", null ],
+    [ "SourceBag", "df/dd5/a11135.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
+    [ "SourceSlot", "df/dd5/a11135.html#ab080d55f63eb07c8db090123260bee23", null ]
 ];

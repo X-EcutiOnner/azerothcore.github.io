@@ -1,11 +1,12 @@
 var a11247 =
 [
-    [ "Player", "d5/d4d/a11247.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d5/d4d/a11247.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Face", "d5/d4d/a11247.html#a6334464eea38be514f3faa7538b39a5a", null ],
-    [ "FacialHair", "d5/d4d/a11247.html#a44643270b211d275eb94283842791407", null ],
-    [ "Gender", "d5/d4d/a11247.html#a14321ea3595debe2836eceab8a82f944", null ],
-    [ "HairColor", "d5/d4d/a11247.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
-    [ "HairStyle", "d5/d4d/a11247.html#ade5b2dff213547ab4d707070f8979085", null ],
-    [ "Skin", "d5/d4d/a11247.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
+    [ "StartMirrorTimer", "d5/d4d/a11247.html#a86039d4a721636477f266712682883f0", null ],
+    [ "StartMirrorTimer", "d5/d4d/a11247.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
+    [ "Write", "d5/d4d/a11247.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
+    [ "MaxValue", "d5/d4d/a11247.html#a3f26c682d547be40d2800eff2189348d", null ],
+    [ "Paused", "d5/d4d/a11247.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
+    [ "Scale", "d5/d4d/a11247.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
+    [ "SpellID", "d5/d4d/a11247.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
+    [ "Timer", "d5/d4d/a11247.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
+    [ "Value", "d5/d4d/a11247.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
 ];

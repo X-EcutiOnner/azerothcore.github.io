@@ -1,6 +1,7 @@
 var a02354 =
 [
-    [ "BG_SA_BOAT_START", "d3/d12/a02354.html#a2ec6635cf59771fcfd56b16cd670eebc", null ],
-    [ "BG_SA_ROUNDLENGTH", "d3/d12/a02354.html#a1197e8f288608511601a41e8e8ea80ce", null ],
-    [ "BG_SA_WARMUPLENGTH", "d3/d12/a02354.html#a7447506b77b9babea7568349335ea705", null ]
+    [ "Movement::TransportPathTransform", "dd/dd8/a10375.html", "dd/dd8/a10375" ],
+    [ "Movement::HoverMovementTransform", "d4/d29/a10379.html", "d4/d29/a10379" ],
+    [ "Movement::MoveSplineInit", "dc/ded/a10383.html", "dc/ded/a10383" ],
+    [ "SelectSpeedType", "d3/d12/a02354.html#a1f10281929f445f6d8150dc510bf1f2f", null ]
 ];

@@ -1,6 +1,6 @@
 var a21659 =
 [
-    [ "npc_azure_stalkerAI", "d3/d28/a21663.html", "d3/d28/a21663" ],
-    [ "npc_azure_stalker", "d3/d2e/a21659.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
-    [ "GetAI", "d3/d2e/a21659.html#a1c067809f98a4d7845d2fb4269742274", null ]
+    [ "npc_lake_frogAI", "d3/d28/a21663.html", "d3/d28/a21663" ],
+    [ "npc_lake_frog", "d3/d2e/a21659.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "d3/d2e/a21659.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

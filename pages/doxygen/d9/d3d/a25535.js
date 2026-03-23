@@ -1,5 +1,6 @@
 var a25535 =
 [
-    [ "PrepareSpellScript", "d9/d3d/a25535.html#a096ce1292821f201af5f294877ee25e0", null ],
-    [ "Register", "d9/d3d/a25535.html#a804d6dec38ea4e59a72ed09882dc9e95", null ]
+    [ "OnBaseRemove", "d9/d3d/a25535.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "PrepareAuraScript", "d9/d3d/a25535.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "d9/d3d/a25535.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

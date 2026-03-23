@@ -1,25 +1,22 @@
 var a01106 =
 [
-    [ "PlayerDump", "db/d59/a11904.html", "db/d59/a11904" ],
-    [ "PlayerDumpWriter", "d4/d20/a11908.html", "d4/d20/a11908" ],
-    [ "PlayerDumpReader", "dc/dce/a11912.html", "dc/dce/a11912" ],
-    [ "DumpReturn", "da/d4e/a01106.html#a4471667403db9bc7532f371d28743866", [
-      [ "DUMP_SUCCESS", "da/d4e/a01106.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
-      [ "DUMP_FILE_OPEN_ERROR", "da/d4e/a01106.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
-      [ "DUMP_TOO_MANY_CHARS", "da/d4e/a01106.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
-      [ "DUMP_FILE_BROKEN", "da/d4e/a01106.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "da/d4e/a01106.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
-    ] ],
-    [ "DumpTableType", "da/d4e/a01106.html#ad4739d865080bb5590831b606365e7ef", [
-      [ "DTT_CHARACTER", "da/d4e/a01106.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
-      [ "DTT_CHAR_TABLE", "da/d4e/a01106.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
-      [ "DTT_EQSET_TABLE", "da/d4e/a01106.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
-      [ "DTT_INVENTORY", "da/d4e/a01106.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
-      [ "DTT_MAIL", "da/d4e/a01106.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
-      [ "DTT_MAIL_ITEM", "da/d4e/a01106.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
-      [ "DTT_ITEM", "da/d4e/a01106.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
-      [ "DTT_ITEM_GIFT", "da/d4e/a01106.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
-      [ "DTT_PET", "da/d4e/a01106.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
-      [ "DTT_PET_TABLE", "da/d4e/a01106.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
+    [ "ScriptPointMove", "d5/d21/a10751.html", "d5/d21/a10751" ],
+    [ "SystemMgr", "dc/d00/a10755.html", "dc/d00/a10755" ],
+    [ "sScriptSystemMgr", "da/d4e/a01106.html#a95cfdf568913b08b669f19b401f888a7", null ],
+    [ "TEXT_SOURCE_RANGE", "da/d4e/a01106.html#a55d384db121a9bd513042ebdeb40e602", null ],
+    [ "ScriptPointVector", "da/d4e/a01106.html#aab50bb2bd1f4c2c015d1ed573408733a", null ],
+    [ "eEscortFaction", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476", [
+      [ "FACTION_ESCORT_A_NEUTRAL_PASSIVE", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476ae8f5cc64dc2681d7820b83cf2706b6d9", null ],
+      [ "FACTION_ESCORT_H_NEUTRAL_PASSIVE", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476a76f714900c0c47ea2066410f61de6bea", null ],
+      [ "FACTION_ESCORT_N_NEUTRAL_PASSIVE", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476a19efd80bb177a094d312d3ad2c957e54", null ],
+      [ "FACTION_ESCORT_A_NEUTRAL_ACTIVE", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476a38e0e3e6e5620e31120d084e73b63cf1", null ],
+      [ "FACTION_ESCORT_H_NEUTRAL_ACTIVE", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476aa2786ec02fa5514ae8d0091a51d8dd04", null ],
+      [ "FACTION_ESCORT_N_NEUTRAL_ACTIVE", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476aed8fe9002c1d3c315038f7df31c6f7ae", null ],
+      [ "FACTION_ESCORT_N_FRIEND_PASSIVE", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476aac0cf8b8049ca4f1750637f7eaa1d96b", null ],
+      [ "FACTION_ESCORT_N_FRIEND_ACTIVE", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476af9b814fa1617dc2a10a9764234998470", null ],
+      [ "FACTION_ESCORT_A_PASSIVE", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476a569c2ddb2269af72a41a1a3cd525b013", null ],
+      [ "FACTION_ESCORT_H_PASSIVE", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476ad766637f2bae4d1bbb75b2ac4ffd7e73", null ],
+      [ "FACTION_ESCORT_N_ACTIVE", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476a088789de59f359faa6e7270fbc3282cb", null ],
+      [ "FACTION_ESCORT_H_ACTIVE", "da/d4e/a01106.html#a3c2424ea523bc5d5e44a7fa49a67f476aa84d311b43a21c70f8891649f42f48cb", null ]
     ] ]
 ];

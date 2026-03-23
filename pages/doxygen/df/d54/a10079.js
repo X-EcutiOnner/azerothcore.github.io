@@ -1,11 +1,7 @@
 var a10079 =
 [
-    [ "EffectMovementGenerator", "df/d54/a10079.html#a5b00ae06964d5c572bf2c6d14c82147e", null ],
-    [ "Finalize", "df/d54/a10079.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
-    [ "GetMovementGeneratorType", "df/d54/a10079.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
-    [ "Initialize", "df/d54/a10079.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
-    [ "Reset", "df/d54/a10079.html#a9627573a7206e12ff469e8e6e076862b", null ],
-    [ "Update", "df/d54/a10079.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
-    [ "i_spline", "df/d54/a10079.html#a35b92e440aa2af623f62d4fe8ecf216e", null ],
-    [ "m_Id", "df/d54/a10079.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
+    [ "resetNotify", "df/d54/a10079.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
+    [ "Visit", "df/d54/a10079.html#adfcdcf148b002c641638ddc70d577b14", null ],
+    [ "Visit", "df/d54/a10079.html#adf95512d4304962a5740b38c32ea28a7", null ],
+    [ "Visit", "df/d54/a10079.html#a725fc2c2504eecaa15841c27b367cd55", null ]
 ];

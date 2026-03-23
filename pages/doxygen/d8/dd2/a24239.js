@@ -1,7 +1,7 @@
 var a24239 =
 [
-    [ "HandleDummy", "d8/dd2/a24239.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d8/dd2/a24239.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d8/dd2/a24239.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d8/dd2/a24239.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "HandleProc", "d8/dd2/a24239.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "d8/dd2/a24239.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "d8/dd2/a24239.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "d8/dd2/a24239.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

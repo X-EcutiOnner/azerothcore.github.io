@@ -1,6 +1,6 @@
 var a21159 =
 [
-    [ "FilterTargets", "da/d78/a21159.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "da/d78/a21159.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "da/d78/a21159.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "npc_azure_invaderAI", "d7/d38/a21163.html", "d7/d38/a21163" ],
+    [ "npc_azure_invader", "da/d78/a21159.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
+    [ "GetAI", "da/d78/a21159.html#a19c000084ea74a401ece81ee0e20b65c", null ]
 ];

@@ -1,6 +1,6 @@
 var a16047 =
 [
-    [ "HandleApply", "da/d00/a16047.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "da/d00/a16047.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "da/d00/a16047.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "d5/dc9/a16051.html", "d5/dc9/a16051" ],
+    [ "instance_zulfarrak", "da/d00/a16047.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "da/d00/a16047.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

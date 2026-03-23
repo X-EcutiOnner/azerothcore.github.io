@@ -1,6 +1,7 @@
 var a19511 =
 [
-    [ "npc_scion_of_eternityAI", "d1/d99/a19515.html", "d1/d99/a19515" ],
-    [ "npc_scion_of_eternity", "d2/df8/a19511.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
-    [ "GetAI", "d2/df8/a19511.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
+    [ "boss_commander_stoutbeard", "d2/df8/a19511.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "d2/df8/a19511.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "d2/df8/a19511.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "d2/df8/a19511.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

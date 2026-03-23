@@ -1,7 +1,6 @@
 var a12859 =
 [
-    [ "boss_maiden_of_virtue", "d1/d7e/a12859.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "d1/d7e/a12859.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "d1/d7e/a12859.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "d1/d7e/a12859.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "d1/dee/a12863.html", "d1/dee/a12863" ],
+    [ "instance_gnomeregan", "d1/d7e/a12859.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
+    [ "GetInstanceScript", "d1/d7e/a12859.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
 ];

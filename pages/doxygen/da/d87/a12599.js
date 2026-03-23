@@ -1,7 +1,9 @@
 var a12599 =
 [
-    [ "HandleRemove", "da/d87/a12599.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "da/d87/a12599.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "da/d87/a12599.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "da/d87/a12599.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "npc_vaelastrasz_the_red", "da/d87/a12599.html#a28ba5ca91e61707360c8a1f9a8550567", null ],
+    [ "IsSummonedBy", "da/d87/a12599.html#ad5f2aeaee704c436e60bc5c5400c0f75", null ],
+    [ "UpdateAI", "da/d87/a12599.html#a95b48026759f9e5e5f0c452a8019ef03", null ],
+    [ "_combatEnabled", "da/d87/a12599.html#a373fe15d1e754f11db59186517783a40", null ],
+    [ "_events2", "da/d87/a12599.html#acecc982854e9d587112e9117e7d7a3fa", null ],
+    [ "_victorGUID", "da/d87/a12599.html#a0e5d6bd095c980a45dcfe68faf2c7b3f", null ]
 ];

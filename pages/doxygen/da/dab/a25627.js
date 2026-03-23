@@ -1,7 +1,6 @@
 var a25627 =
 [
-    [ "HandleScript", "da/dab/a25627.html#a4788a8ce7c88378c8b55d1fe60200b71", null ],
-    [ "PrepareSpellScript", "da/dab/a25627.html#a3317bfc299c6c8c81ef6dfd75ff773f0", null ],
-    [ "Register", "da/dab/a25627.html#a1a44bfb68010c34470ee72c9dcdfc3b4", null ],
-    [ "Validate", "da/dab/a25627.html#ad242bd4bb5f9be8767b170fd2cc9c444", null ]
+    [ "HandlePeriodicTick", "da/dab/a25627.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "da/dab/a25627.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "da/dab/a25627.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

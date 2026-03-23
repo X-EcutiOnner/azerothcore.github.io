@@ -1,10 +1,9 @@
 var a10327 =
 [
-    [ "ArenaScript", "df/deb/a10327.html#acba88d9008e08873f3f20b92d69e8912", null ],
-    [ "CanAddMember", "df/deb/a10327.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveToDB", "df/deb/a10327.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "df/deb/a10327.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnArenaStart", "df/deb/a10327.html#ae67b000b16f56309da56f672a9f2b423", null ],
-    [ "OnBeforeArenaCheckWinConditions", "df/deb/a10327.html#a2b46190a3243f2306a74295975dca317", null ],
-    [ "OnGetPoints", "df/deb/a10327.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "PathMovementBase", "df/deb/a10327.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
+    [ "PathMovementBase", "df/deb/a10327.html#a953fcda0cf7764f659fc5a4a19408550", null ],
+    [ "~PathMovementBase", "df/deb/a10327.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
+    [ "GetCurrentNode", "df/deb/a10327.html#a7ceb52928f2198392980c3926516fd82", null ],
+    [ "i_currentNode", "df/deb/a10327.html#a5420aef90d3529881ef41362ebb29934", null ],
+    [ "i_path", "df/deb/a10327.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
 ];

@@ -1,6 +1,6 @@
 var a09095 =
 [
-    [ "Conditions", "d1/d1f/a09095.html#a93edc2f0d71164b683c844b713befa85", null ],
-    [ "MenuID", "d1/d1f/a09095.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
-    [ "TextID", "d1/d1f/a09095.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
+    [ "Condition", "d1/d1f/a09095.html#a78172859719e85a21c0a39e41c692cf4", null ],
+    [ "EventId", "d1/d1f/a09095.html#aa5d7e88828c9f44b5913d4593496894f", null ],
+    [ "Num", "d1/d1f/a09095.html#a7cf6141e00b1a33063409c9828773b94", null ]
 ];

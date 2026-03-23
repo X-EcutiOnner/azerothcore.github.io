@@ -1,12 +1,8 @@
 var a11371 =
 [
-    [ "WorldObjectSpellTargetCheck", "df/d72/a11371.html#a370a66c484d486ac6d2d3419a019c7cd", null ],
-    [ "~WorldObjectSpellTargetCheck", "df/d72/a11371.html#a1d519b04f171d230b21da3cc637497cf", null ],
-    [ "operator()", "df/d72/a11371.html#a2ae263977948d2195b22a737c36bad20", null ],
-    [ "_caster", "df/d72/a11371.html#ac090f8e47bcdfccb85fb791856355827", null ],
-    [ "_condList", "df/d72/a11371.html#a70b9331b5871e2e4d92d642715c8192a", null ],
-    [ "_condSrcInfo", "df/d72/a11371.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
-    [ "_referer", "df/d72/a11371.html#a1a24eaafdf716de984a5943e049d10f7", null ],
-    [ "_spellInfo", "df/d72/a11371.html#a66bd07338943ee307be19f22326b29b7", null ],
-    [ "_targetSelectionType", "df/d72/a11371.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
+    [ "PetSpellAutocast", "df/d72/a11371.html#ab858647d14031a2a6109d1e923402d08", null ],
+    [ "Read", "df/d72/a11371.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
+    [ "AutocastEnabled", "df/d72/a11371.html#a3c04543dcd5382682654b3860b84c6a3", null ],
+    [ "PetGUID", "df/d72/a11371.html#aeed828abebf683078ee61204c91e28c9", null ],
+    [ "SpellID", "df/d72/a11371.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
 ];

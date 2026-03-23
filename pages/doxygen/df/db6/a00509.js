@@ -1,7 +1,6 @@
 var a00509 =
 [
-    [ "Acore::Impl::MPSCQueueNonIntrusive< T >", "db/d7d/a05625.html", "db/d7d/a05625" ],
-    [ "Acore::Impl::MPSCQueueNonIntrusive< T >::Node", "d9/d36/a05629.html", "d9/d36/a05629" ],
-    [ "Acore::Impl::MPSCQueueIntrusive< T, IntrusiveLink >", "d1/d03/a05633.html", "d1/d03/a05633" ],
-    [ "MPSCQueue", "df/db6/a00509.html#a6443361dced56bb64db991f954b2df47", null ]
+    [ "CONFIG_HIGH_PRIORITY", "df/db6/a00509.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
+    [ "CONFIG_PROCESSOR_AFFINITY", "df/db6/a00509.html#a714853b6677573f2aa289978eee5b83f", null ],
+    [ "SetProcessPriority", "df/db6/a00509.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
 ];

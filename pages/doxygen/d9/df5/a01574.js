@@ -1,4 +1,4 @@
 var a01574 =
 [
-    [ "GridCell< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "d7/de3/a09341.html", "d7/de3/a09341" ]
+    [ "MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "da/d96/a09447.html", "da/d96/a09447" ]
 ];

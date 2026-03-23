@@ -1,7 +1,6 @@
 var a12823 =
 [
-    [ "npc_kernobeeAI", "d0/d5b/a12827.html", "d0/d5b/a12827" ],
-    [ "npc_kernobee", "d9/daf/a12823.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
-    [ "GetAI", "d9/daf/a12823.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
-    [ "OnQuestAccept", "d9/daf/a12823.html#aa830285cf19211b8233620257735ab62", null ]
+    [ "bossId", "d9/daf/a12823.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
+    [ "circleId", "d9/daf/a12823.html#aaa379e61fda2f7225ab4089757df5d24", null ],
+    [ "runeId", "d9/daf/a12823.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
 ];

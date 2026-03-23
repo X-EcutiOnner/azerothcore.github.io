@@ -1,7 +1,5 @@
 var a27883 =
 [
-    [ "npc_steam_tonkAI", "d6/d5e/a27883.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "d6/d5e/a27883.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "d6/d5e/a27883.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "d6/d5e/a27883.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "go_arena_ready_marker", "d6/d5e/a27883.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "d6/d5e/a27883.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

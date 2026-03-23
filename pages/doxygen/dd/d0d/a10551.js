@@ -1,6 +1,6 @@
 var a10551 =
 [
-    [ "ShowBank", "dd/d0d/a10551.html#a57c189db7f6338f73d4e0028d846cfcf", null ],
-    [ "Write", "dd/d0d/a10551.html#a39e1b86a7d4d6163ab504797be1af505", null ],
-    [ "Banker", "dd/d0d/a10551.html#aeceda879d837508d95b79fbd3ee8d892", null ]
+    [ "AreaTriggerScript", "dd/d0d/a10551.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "IsDatabaseBound", "dd/d0d/a10551.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
+    [ "OnTrigger", "dd/d0d/a10551.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
 ];

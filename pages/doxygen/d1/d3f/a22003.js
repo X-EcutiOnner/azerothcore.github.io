@@ -1,7 +1,9 @@
 var a22003 =
 [
-    [ "HandleApplyEffect", "d1/d3f/a22003.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d1/d3f/a22003.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d1/d3f/a22003.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d1/d3f/a22003.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "HandlePeriodic", "d1/d3f/a22003.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "d1/d3f/a22003.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "d1/d3f/a22003.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "d1/d3f/a22003.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "d1/d3f/a22003.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "d1/d3f/a22003.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

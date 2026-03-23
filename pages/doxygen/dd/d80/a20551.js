@@ -1,6 +1,12 @@
 var a20551 =
 [
-    [ "boss_kologarn_armsAI", "db/d87/a20555.html", "db/d87/a20555" ],
-    [ "boss_kologarn_arms", "dd/d80/a20551.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
-    [ "GetAI", "dd/d80/a20551.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
+    [ "npc_xt002_boombot", "dd/d80/a20551.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
+    [ "DamageTaken", "dd/d80/a20551.html#a6686960dcf9050c62f707f80f8e378e9", null ],
+    [ "Explode", "dd/d80/a20551.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
+    [ "JustDied", "dd/d80/a20551.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
+    [ "MovementInform", "dd/d80/a20551.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
+    [ "Reset", "dd/d80/a20551.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
+    [ "UpdateAI", "dd/d80/a20551.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
+    [ "_boomed", "dd/d80/a20551.html#a4307aaf92856d146095497cf74ef3e67", null ],
+    [ "_locked", "dd/d80/a20551.html#ad46600f129729931422b5c9c70568e3f", null ]
 ];

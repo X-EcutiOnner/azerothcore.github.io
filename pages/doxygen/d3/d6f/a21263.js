@@ -1,6 +1,6 @@
 var a21263 =
 [
-    [ "HandleEffectPeriodic", "d3/d6f/a21263.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "d3/d6f/a21263.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "d3/d6f/a21263.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "npc_nerubar_victimAI", "dc/d9b/a21267.html", "dc/d9b/a21267" ],
+    [ "npc_nerubar_victim", "d3/d6f/a21263.html#a4fe80597d3e56776f0f04965fc706097", null ],
+    [ "GetAI", "d3/d6f/a21263.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
 ];

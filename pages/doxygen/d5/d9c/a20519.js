@@ -1,6 +1,6 @@
 var a20519 =
 [
-    [ "boss_ignisAI", "d6/deb/a20523.html", "d6/deb/a20523" ],
-    [ "boss_ignis", "d5/d9c/a20519.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
-    [ "GetAI", "d5/d9c/a20519.html#ac11ff148e9cbc985875f859268a3de01", null ]
+    [ "OnPeriodic", "d5/d9c/a20519.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "d5/d9c/a20519.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "d5/d9c/a20519.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

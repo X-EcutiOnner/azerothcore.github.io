@@ -1,6 +1,7 @@
 var a27927 =
 [
-    [ "npc_stable_masterAI", "dc/d4e/a27931.html", "dc/d4e/a27931" ],
-    [ "npc_stable_master", "db/de6/a27927.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "db/de6/a27927.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "go_bear_trapAI", "db/de6/a27927.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "db/de6/a27927.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "db/de6/a27927.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "db/de6/a27927.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

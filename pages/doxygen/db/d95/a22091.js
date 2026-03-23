@@ -1,8 +1,7 @@
 var a22091 =
 [
-    [ "AfterApply", "db/d95/a22091.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "db/d95/a22091.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "db/d95/a22091.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "db/d95/a22091.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "db/d95/a22091.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "npc_wg_quest_giver", "db/d95/a22091.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "db/d95/a22091.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "db/d95/a22091.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "db/d95/a22091.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

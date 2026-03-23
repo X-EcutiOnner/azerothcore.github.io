@@ -1,7 +1,6 @@
 var a23655 =
 [
-    [ "HandleScript", "d6/da5/a23655.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "d6/da5/a23655.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "d6/da5/a23655.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "d6/da5/a23655.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "instance_mechanar_InstanceMapScript", "d6/d9b/a23659.html", "d6/d9b/a23659" ],
+    [ "instance_mechanar", "d6/da5/a23655.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d6/da5/a23655.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

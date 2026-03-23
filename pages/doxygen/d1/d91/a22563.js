@@ -1,7 +1,7 @@
 var a22563 =
 [
-    [ "HandleScript", "d1/d91/a22563.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
-    [ "PrepareSpellScript", "d1/d91/a22563.html#a8400fb2e0955444aee21b994d78b78c3", null ],
-    [ "Register", "d1/d91/a22563.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
-    [ "Validate", "d1/d91/a22563.html#aa9c2280cbb38db2620db9869e4959153", null ]
+    [ "PrepareAuraScript", "d1/d91/a22563.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "d1/d91/a22563.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "d1/d91/a22563.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "d1/d91/a22563.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

@@ -1,4 +1,4 @@
 var a00947 =
 [
-    [ "ScriptRegistry< MiscScript >", "d3/d29/a00947.html#a925ee1bbb5e173c3d816d0ae35b38a67", null ]
+    [ "ScriptRegistry< AccountScript >", "d3/d29/a00947.html#a737db11e5096ba1c596f469d64c2cc97", null ]
 ];

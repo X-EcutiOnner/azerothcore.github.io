@@ -1,12 +1,7 @@
 var a15975 =
 [
-    [ "DialogueHelper", "d9/d13/a15975.html#a3566655e8781bf5f9dff514fcd659421", null ],
-    [ "DialogueUpdate", "d9/d13/a15975.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
-    [ "DoNextDialogueStep", "d9/d13/a15975.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
-    [ "GetSpeakerByEntry", "d9/d13/a15975.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
-    [ "JustDidDialogueStep", "d9/d13/a15975.html#a79e80634f1780895669f5c810958fd4f", null ],
-    [ "StartNextDialogueText", "d9/d13/a15975.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
-    [ "_actionTimer", "d9/d13/a15975.html#a33b8551c136bcbc896b29d935c155a75", null ],
-    [ "_currentEntry", "d9/d13/a15975.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
-    [ "_dialogueArray", "d9/d13/a15975.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
+    [ "npc_paoka_swiftmountainAI", "db/da5/a15979.html", "db/da5/a15979" ],
+    [ "npc_paoka_swiftmountain", "d9/d13/a15975.html#abb3f6fab7cca158c2e139159430f880a", null ],
+    [ "GetAI", "d9/d13/a15975.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
+    [ "OnQuestAccept", "d9/d13/a15975.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
 ];

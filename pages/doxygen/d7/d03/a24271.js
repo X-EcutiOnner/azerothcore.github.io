@@ -1,9 +1,7 @@
 var a24271 =
 [
-    [ "npc_fel_guard_houndAI", "d7/d03/a24271.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "d7/d03/a24271.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "d7/d03/a24271.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "d7/d03/a24271.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "d7/d03/a24271.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "d7/d03/a24271.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "CheckProc", "d7/d03/a24271.html#a7d829589ea098e002206b72f789c95df", null ],
+    [ "PrepareAuraScript", "d7/d03/a24271.html#a04258b702d79372c0e9c2e1845a6563e", null ],
+    [ "Register", "d7/d03/a24271.html#af62e0a7a43a6762e8e067931e7ec09af", null ],
+    [ "Validate", "d7/d03/a24271.html#a56eaad6f2b1d14cea5fe3f7f27cdb877", null ]
 ];

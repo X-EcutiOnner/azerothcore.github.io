@@ -1,7 +1,5 @@
 var a12719 =
 [
-    [ "HandlePeriodic", "d0/d0d/a12719.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "d0/d0d/a12719.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "d0/d0d/a12719.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "d0/d0d/a12719.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "at_orb_of_command", "d0/d0d/a12719.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "d0/d0d/a12719.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

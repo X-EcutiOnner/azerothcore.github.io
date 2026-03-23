@@ -1,5 +1,5 @@
 var a21835 =
 [
-    [ "npc_leryssaAI", "db/d26/a21835.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
-    [ "MovementInform", "db/d26/a21835.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
+    [ "npc_guardian_pavilionAI", "db/d26/a21835.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "db/d26/a21835.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

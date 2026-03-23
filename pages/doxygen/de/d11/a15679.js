@@ -1,6 +1,7 @@
 var a15679 =
 [
-    [ "npc_tiger_matriarch_creditAI", "de/d11/a15679.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "de/d11/a15679.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "de/d11/a15679.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "npc_kerlonianAI", "d6/dad/a15683.html", "d6/dad/a15683" ],
+    [ "npc_kerlonian", "de/d11/a15679.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
+    [ "GetAI", "de/d11/a15679.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
+    [ "OnQuestAccept", "de/d11/a15679.html#a257d24295318605ac2fd5554315dfd63", null ]
 ];

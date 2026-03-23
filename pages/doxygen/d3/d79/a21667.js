@@ -1,6 +1,7 @@
 var a21667 =
 [
-    [ "npc_azure_spellbreakerAI", "d9/d37/a21671.html", "d9/d37/a21671" ],
-    [ "npc_azure_spellbreaker", "d3/d79/a21667.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
-    [ "GetAI", "d3/d79/a21667.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
+    [ "HandleScript", "d3/d79/a21667.html#a95de3ae27cfd764380ab1648b49af38d", null ],
+    [ "Load", "d3/d79/a21667.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
+    [ "PrepareSpellScript", "d3/d79/a21667.html#a442138710213b9b120d8ce57b733205a", null ],
+    [ "Register", "d3/d79/a21667.html#af9d8f764a6a02737f8b559f067156df6", null ]
 ];

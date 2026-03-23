@@ -1,6 +1,6 @@
 var a12275 =
 [
-    [ "boss_drakkisathAI", "d6/d91/a12279.html", "d6/d91/a12279" ],
-    [ "boss_drakkisath", "de/d9f/a12275.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
-    [ "GetAI", "de/d9f/a12275.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
+    [ "player_settings_commandscript", "de/d9f/a12275.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "de/d9f/a12275.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "de/d9f/a12275.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

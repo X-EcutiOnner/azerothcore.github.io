@@ -1,8 +1,18 @@
 var a20343 =
 [
-    [ "OnApply", "d6/d6c/a20343.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "d6/d6c/a20343.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "d6/d6c/a20343.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "d6/d6c/a20343.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "d6/d6c/a20343.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "npc_ulduar_leviathan_mkii", "d6/d6c/a20343.html#ac38c065bfdcd0496c3a7da58b1fcf833", null ],
+    [ "DamageTaken", "d6/d6c/a20343.html#ac2443db8d15b5ee3597fefdc6389f114", null ],
+    [ "EnterEvadeMode", "d6/d6c/a20343.html#a47ceec21f91030a1810392ecc0adafd2", null ],
+    [ "GetS3", "d6/d6c/a20343.html#aba4be715815acca2ace025002750277e", null ],
+    [ "KilledUnit", "d6/d6c/a20343.html#a8f40ca6bd9515e6d645e6140f21adb06", null ],
+    [ "MoveInLineOfSight", "d6/d6c/a20343.html#abb2cbb6e0999fbd0eacba4c414458b8a", null ],
+    [ "PassengerBoarded", "d6/d6c/a20343.html#a2ea5689299a108e729bde24de63e71aa", null ],
+    [ "Reset", "d6/d6c/a20343.html#afaa3072c296341693ef4803330a13929", null ],
+    [ "SetData", "d6/d6c/a20343.html#a83a6d7d5c94c4cf8b76474ef8f3b0608", null ],
+    [ "SpellHit", "d6/d6c/a20343.html#a790900963d9e073f4f8e4a0546721f52", null ],
+    [ "UpdateAI", "d6/d6c/a20343.html#a79b9146be412e5862b47cd34073a2fd7", null ],
+    [ "_events", "d6/d6c/a20343.html#a8569f601aa9a6963d41d00e30f041727", null ],
+    [ "_isEvading", "d6/d6c/a20343.html#a61fed1e77c98422cda155255dc7730d7", null ],
+    [ "_phase", "d6/d6c/a20343.html#aadcf5849e2a2098e8183aebbc3c16c91", null ],
+    [ "instance", "d6/d6c/a20343.html#a1756b869c05920f3b9d64931c036fdb7", null ]
 ];

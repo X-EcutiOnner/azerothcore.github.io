@@ -1,5 +1,5 @@
 var a04670 =
 [
-    [ "reset_commandscript", "df/da7/a12249.html", "df/da7/a12249" ],
-    [ "AddSC_reset_commandscript", "d8/dca/a04670.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ]
+    [ "HandleLearnSpellCommand", "d8/dca/a04670.html#acbe37f872cbc981a27671ebdf10904de", null ],
+    [ "HandleUnlearnSpellCommand", "d8/dca/a04670.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
 ];

@@ -1,7 +1,12 @@
 var a18703 =
 [
-    [ "AuraRemoveEvent", "d8/df0/a18703.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d8/df0/a18703.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d8/df0/a18703.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d8/df0/a18703.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "npc_risen_archmageAI", "d8/df0/a18703.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "d8/df0/a18703.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "d8/df0/a18703.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEngagedWith", "d8/df0/a18703.html#aef3a1631b4bb8d28d4056036981b0192", null ],
+    [ "JustSummoned", "d8/df0/a18703.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "d8/df0/a18703.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "d8/df0/a18703.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "d8/df0/a18703.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "d8/df0/a18703.html#a1b4e12b199bf3ada517c895c5f387c4a", null ]
 ];

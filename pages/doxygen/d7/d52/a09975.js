@@ -1,10 +1,7 @@
 var a09975 =
 [
-    [ "ID", "d7/d52/a09975.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "d7/d52/a09975.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "d7/d52/a09975.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "d7/d52/a09975.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "d7/d52/a09975.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "d7/d52/a09975.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "d7/d52/a09975.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "QuestItem", "d7/d52/a09975.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
+    [ "QuestItem", "d7/d52/a09975.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
+    [ "index", "d7/d52/a09975.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
+    [ "is_looted", "d7/d52/a09975.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
 ];

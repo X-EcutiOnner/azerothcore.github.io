@@ -1,6 +1,5 @@
 var a20583 =
 [
-    [ "OnRemoveStun", "df/d4b/a20583.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "df/d4b/a20583.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "df/d4b/a20583.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "achievement_xt002_nerf_engineering", "df/d4b/a20583.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "df/d4b/a20583.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

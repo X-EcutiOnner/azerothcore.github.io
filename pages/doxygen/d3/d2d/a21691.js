@@ -1,6 +1,7 @@
 var a21691 =
 [
-    [ "npc_azure_saboteurAI", "d3/db7/a21695.html", "d3/db7/a21695" ],
-    [ "npc_azure_saboteur", "d3/d2d/a21691.html#ae60362727a7a246b7c6c923ed96c7be7", null ],
-    [ "GetAI", "d3/d2d/a21691.html#a69b552fb6f725d00ac4b0303d36a7138", null ]
+    [ "HandleScript", "d3/d2d/a21691.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "d3/d2d/a21691.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "d3/d2d/a21691.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "d3/d2d/a21691.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

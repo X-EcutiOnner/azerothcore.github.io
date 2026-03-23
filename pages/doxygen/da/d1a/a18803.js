@@ -1,6 +1,6 @@
 var a18803 =
 [
-    [ "PeriodicTick", "da/d1a/a18803.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
-    [ "PrepareAuraScript", "da/d1a/a18803.html#a0767ac60151517b803e871a0fcb25967", null ],
-    [ "Register", "da/d1a/a18803.html#afd1e28b224035aef5ac109f38d7e118d", null ]
+    [ "CaptainSurviveTalk", "da/d1a/a18803.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "da/d1a/a18803.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "da/d1a/a18803.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

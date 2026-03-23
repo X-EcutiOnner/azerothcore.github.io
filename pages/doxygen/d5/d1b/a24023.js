@@ -1,6 +1,7 @@
 var a24023 =
 [
-    [ "OnApply", "d5/d1b/a24023.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "d5/d1b/a24023.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "d5/d1b/a24023.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "HandleSendEvent", "d5/d1b/a24023.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "d5/d1b/a24023.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "d5/d1b/a24023.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "d5/d1b/a24023.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

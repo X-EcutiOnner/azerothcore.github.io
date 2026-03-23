@@ -1,9 +1,14 @@
 var a22931 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d5/d50/a22931.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "d5/d50/a22931.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "d5/d50/a22931.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "d5/d50/a22931.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "d5/d50/a22931.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "d5/d50/a22931.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "boss_the_lurker_below", "d5/d50/a22931.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
+    [ "AttackStart", "d5/d50/a22931.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
+    [ "DamageTaken", "d5/d50/a22931.html#ae7c05744013753b29072ec1b5d9f2570", null ],
+    [ "DoAction", "d5/d50/a22931.html#a30e07055aa632066a75ad48f3e8109e2", null ],
+    [ "EnterEvadeMode", "d5/d50/a22931.html#a522164e819db5062225f7d5704cdaa36", null ],
+    [ "JustEngagedWith", "d5/d50/a22931.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
+    [ "Reset", "d5/d50/a22931.html#ae592707182d64689e6578813b3617ee3", null ],
+    [ "SchedulerPhaseOne", "d5/d50/a22931.html#a42dd2ed36209e7be61788d054e2754b5", null ],
+    [ "SchedulerPhaseTwo", "d5/d50/a22931.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
+    [ "SummonedCreatureDies", "d5/d50/a22931.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
+    [ "UpdateAI", "d5/d50/a22931.html#a92d854cb21b272bd09674c724b1aa862", null ]
 ];

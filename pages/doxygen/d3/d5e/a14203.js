@@ -1,5 +1,9 @@
 var a14203 =
 [
-    [ "go_gong_of_bethekk", "d3/d5e/a14203.html#ae261467be63f1a744eb20f81473c2239", null ],
-    [ "OnGossipHello", "d3/d5e/a14203.html#a82072ff8c030aec1a5ed447865680788", null ]
+    [ "npc_amanishi_lookout", "d3/d5e/a14203.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "d3/d5e/a14203.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "d3/d5e/a14203.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "d3/d5e/a14203.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "d3/d5e/a14203.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "d3/d5e/a14203.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

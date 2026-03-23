@@ -1,6 +1,5 @@
 var a20147 =
 [
-    [ "boss_flame_leviathan_safety_containerAI", "d1/de1/a20151.html", "d1/de1/a20151" ],
-    [ "boss_flame_leviathan_safety_container", "d1/df2/a20147.html#ae14b2e13bd6358ad03d568f2bef042b7", null ],
-    [ "GetAI", "d1/df2/a20147.html#a6bcbc4e65214a0c667875271ff9aa0dd", null ]
+    [ "achievement_smell_saronite", "d1/df2/a20147.html#a42dce2aefa2561952dcf5289126035a8", null ],
+    [ "OnCheck", "d1/df2/a20147.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
 ];

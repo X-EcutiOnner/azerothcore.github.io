@@ -1,6 +1,7 @@
 var a25827 =
 [
-    [ "HandleDummy", "dd/dcd/a25827.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
-    [ "PrepareSpellScript", "dd/dcd/a25827.html#a80b89fbd2506191b897dcf367ff11500", null ],
-    [ "Register", "dd/dcd/a25827.html#a522730e5ba844728c0b3d6f423cd123a", null ]
+    [ "HandleDummy", "dd/dcd/a25827.html#ac3486a646322ef1b6098eeeedaec7d4b", null ],
+    [ "PrepareSpellScript", "dd/dcd/a25827.html#a455bdb8fb98431d47b3e414dc3b59b13", null ],
+    [ "Register", "dd/dcd/a25827.html#acdade97c38a75439b3da751a0c348e37", null ],
+    [ "Validate", "dd/dcd/a25827.html#a2081334e6b7a4191801bc0556e26198c", null ]
 ];

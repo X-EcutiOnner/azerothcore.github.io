@@ -1,8 +1,10 @@
 var a19607 =
 [
-    [ "npc_crystal_spike", "da/db8/a19607.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "da/db8/a19607.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "da/db8/a19607.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "da/db8/a19607.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "da/db8/a19607.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "npc_oculus_drakegiverAI", "d2/d41/a19611.html", "d2/d41/a19611" ],
+    [ "npc_oculus_drakegiver", "da/db8/a19607.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
+    [ "GetAI", "da/db8/a19607.html#aa26a2b82c5e4076ce704d5884895d903", null ],
+    [ "OnGossipHello", "da/db8/a19607.html#ac00d09d2d81121d562e3303704229c18", null ],
+    [ "OnGossipSelect", "da/db8/a19607.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
+    [ "RemoveEssence", "da/db8/a19607.html#a70513d873111c590ca4e33cb446a4438", null ],
+    [ "StoreEssence", "da/db8/a19607.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
 ];

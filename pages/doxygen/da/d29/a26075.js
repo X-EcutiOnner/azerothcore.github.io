@@ -1,7 +1,7 @@
 var a26075 =
 [
-    [ "HandleDummy", "da/d29/a26075.html#a4e78ce5b1275860304eba414f8e66442", null ],
-    [ "PrepareSpellScript", "da/d29/a26075.html#a155fa844714aadadd0a6c31dc86748f3", null ],
-    [ "Register", "da/d29/a26075.html#a3ea6786e2fa76917bcb4baa42d2be1f1", null ],
-    [ "Validate", "da/d29/a26075.html#a08838d940e413d83f4c48854260c3e1b", null ]
+    [ "HandleProc", "da/d29/a26075.html#ac00d9d4e8eee65a66b3429809debbda1", null ],
+    [ "PrepareAuraScript", "da/d29/a26075.html#a5def77211bfb06120a05999d7defbea3", null ],
+    [ "Register", "da/d29/a26075.html#a38afbc38532160763df6db8b37c33163", null ],
+    [ "Validate", "da/d29/a26075.html#ad59dce623cc1569bb4d9867f528a4fa8", null ]
 ];

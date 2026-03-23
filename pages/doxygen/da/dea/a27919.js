@@ -1,6 +1,6 @@
 var a27919 =
 [
-    [ "npc_spring_rabbitAI", "d4/d53/a27923.html", "d4/d53/a27923" ],
-    [ "npc_spring_rabbit", "da/dea/a27919.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "da/dea/a27919.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "go_heatAI", "da/dea/a27919.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
+    [ "UpdateAI", "da/dea/a27919.html#a2332206ee47b2cea9e4707d16ea79325", null ],
+    [ "timer", "da/dea/a27919.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
 ];

@@ -1,10 +1,8 @@
 var a12811 =
 [
-    [ "instance_deadmines_InstanceMapScript", "de/d9d/a12811.html#afa12491c1b276d0d643822da562320c3", null ],
-    [ "GetSaveData", "de/d9d/a12811.html#a775c7d564b931e157a32b0909efed859", null ],
-    [ "Initialize", "de/d9d/a12811.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
-    [ "Load", "de/d9d/a12811.html#afff7e04cc632e2d4ddb438d03e561560", null ],
-    [ "OnGameObjectCreate", "de/d9d/a12811.html#a095202af8915f8a1d8888c045e18d6c4", null ],
-    [ "SetData", "de/d9d/a12811.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
-    [ "_encounters", "de/d9d/a12811.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
+    [ "FilterTargets", "de/d9d/a12811.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "de/d9d/a12811.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "de/d9d/a12811.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "de/d9d/a12811.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "de/d9d/a12811.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

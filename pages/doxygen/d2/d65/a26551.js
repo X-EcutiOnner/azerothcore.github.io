@@ -1,6 +1,8 @@
 var a26551 =
 [
-    [ "HandleDummyEffect", "d2/d65/a26551.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
-    [ "PrepareSpellScript", "d2/d65/a26551.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
-    [ "Register", "d2/d65/a26551.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
+    [ "CheckCast", "d2/d65/a26551.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
+    [ "PrepareSpellScript", "d2/d65/a26551.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
+    [ "Register", "d2/d65/a26551.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
+    [ "TriggerDebuffs", "d2/d65/a26551.html#a1579b28071e2194625f722a29ded39b8", null ],
+    [ "Validate", "d2/d65/a26551.html#a767853d4b05e055cb32991bfe8c6516a", null ]
 ];

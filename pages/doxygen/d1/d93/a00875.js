@@ -1,5 +1,8 @@
 var a00875 =
 [
-    [ "ScriptRegistry< AllItemScript >", "d1/d93/a00875.html#a0f69164743e657905c670df85e97a29c", null ],
-    [ "ScriptRegistry< ItemScript >", "d1/d93/a00875.html#a9f258d1e2f9fb6ce144923451b63f995", null ]
+    [ "GameObjectScript", "d9/dd2/a10619.html", "d9/dd2/a10619" ],
+    [ "GenericGameObjectScript< AI >", "d6/d28/a10623.html", "d6/d28/a10623" ],
+    [ "FactoryGameObjectScript< AI, AIFactory >", "df/ddc/a10627.html", "df/ddc/a10627" ],
+    [ "RegisterGameObjectAI", "d1/d93/a00875.html#a87397a2ba2a1acd88f62793eae9aa30e", null ],
+    [ "RegisterGameObjectAIWithFactory", "d1/d93/a00875.html#a1614f98721d8a94351c4be15a72e499f", null ]
 ];

@@ -1,9 +1,6 @@
 var a24807 =
 [
-    [ "CheckCast", "d0/d57/a24807.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "d0/d57/a24807.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "d0/d57/a24807.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "d0/d57/a24807.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "d0/d57/a24807.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "d0/d57/a24807.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "HandleScriptEffect", "d0/d57/a24807.html#a142d6a512ba6e937985a9c21725d8d33", null ],
+    [ "PrepareSpellScript", "d0/d57/a24807.html#af46fd8adaf8fef92984376ad6aa4f9a2", null ],
+    [ "Register", "d0/d57/a24807.html#a9cbf1c0678bd0775a452aa3270dff6a0", null ]
 ];

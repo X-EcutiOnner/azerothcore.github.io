@@ -1,6 +1,7 @@
 var a16923 =
 [
-    [ "OnPeriodic", "d5/d8f/a16923.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "d5/d8f/a16923.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "d5/d8f/a16923.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "HandleAfterEffectAbsorb", "d5/d8f/a16923.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
+    [ "PrepareAuraScript", "d5/d8f/a16923.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
+    [ "Register", "d5/d8f/a16923.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
+    [ "Validate", "d5/d8f/a16923.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
 ];

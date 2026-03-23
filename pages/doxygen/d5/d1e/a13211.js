@@ -1,5 +1,7 @@
 var a13211 =
 [
-    [ "go_acherus_soul_prison", "d5/d1e/a13211.html#a13c858f74080b8f7963fdacc4b554019", null ],
-    [ "OnGossipHello", "d5/d1e/a13211.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
+    [ "HandleScriptEffect", "d5/d1e/a13211.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "d5/d1e/a13211.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "d5/d1e/a13211.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "d5/d1e/a13211.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

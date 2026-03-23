@@ -1,5 +1,7 @@
 var a27675 =
 [
-    [ "item_incendiary_explosives", "d8/de9/a27675.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d8/de9/a27675.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "HandleProc", "d8/de9/a27675.html#a39a69b837c5844d345f5a311f5760bf6", null ],
+    [ "PrepareAuraScript", "d8/de9/a27675.html#a673557238631dbca8954f516718f0eb2", null ],
+    [ "Register", "d8/de9/a27675.html#aa9f71fd65dd63f66a7ff3c7757174e67", null ],
+    [ "Validate", "d8/de9/a27675.html#aedf17c34772c0e2030388fc9b17aec38", null ]
 ];

@@ -1,6 +1,6 @@
 var a21831 =
 [
-    [ "npc_leryssaAI", "db/d26/a21835.html", "db/d26/a21835" ],
-    [ "npc_leryssa", "d0/dcd/a21831.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
-    [ "GetAI", "d0/dcd/a21831.html#a4725831580b206d91dbd8c21a703893f", null ]
+    [ "npc_guardian_pavilionAI", "db/d26/a21835.html", "db/d26/a21835" ],
+    [ "npc_guardian_pavilion", "d0/dcd/a21831.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d0/dcd/a21831.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

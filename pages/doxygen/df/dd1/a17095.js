@@ -1,6 +1,6 @@
 var a17095 =
 [
-    [ "boss_marwynAI", "dc/d66/a17099.html", "dc/d66/a17099" ],
-    [ "boss_marwyn", "df/dd1/a17095.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "df/dd1/a17095.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "entry", "df/dd1/a17095.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "df/dd1/a17095.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "df/dd1/a17095.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

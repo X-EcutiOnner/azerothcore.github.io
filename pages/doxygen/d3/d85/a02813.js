@@ -1,69 +1,61 @@
 var a02813 =
 [
-    [ "HalaaIds", "d5/d05/a22513.html", "d5/d05/a22513" ],
-    [ "OPvPCapturePointNA", "dc/d14/a22517.html", "dc/d14/a22517" ],
-    [ "OutdoorPvPNA", "d2/da4/a22521.html", "d2/da4/a22521" ],
-    [ "HalaaNPCS", "d3/d85/a02813.html#a3951c5b11bab0eeb9b06c1e19b25c036", null ],
-    [ "ControlGOTypes", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19", [
-      [ "NA_ROOST_S", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad", null ],
-      [ "NA_ROOST_W", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623", null ],
-      [ "NA_ROOST_N", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520", null ],
-      [ "NA_ROOST_E", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c", null ],
-      [ "NA_BOMB_WAGON_S", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e", null ],
-      [ "NA_BOMB_WAGON_W", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb", null ],
-      [ "NA_BOMB_WAGON_N", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8", null ],
-      [ "NA_BOMB_WAGON_E", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870", null ],
-      [ "NA_DESTROYED_ROOST_S", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099", null ],
-      [ "NA_DESTROYED_ROOST_W", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf", null ],
-      [ "NA_DESTROYED_ROOST_N", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f", null ],
-      [ "NA_DESTROYED_ROOST_E", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e", null ],
-      [ "NA_CONTROL_GO_NUM", "d3/d85/a02813.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "d7/d89/a27763.html", "d7/d89/a27763" ],
+    [ "AreaTrigger_at_legion_teleporter", "d4/df0/a27767.html", "d4/df0/a27767" ],
+    [ "AreaTrigger_at_stormwright_shelf", "d5/da6/a27771.html", "d5/da6/a27771" ],
+    [ "AreaTrigger_at_scent_larkorwi", "dd/d42/a27775.html", "dd/d42/a27775" ],
+    [ "AreaTrigger_at_last_rites", "db/d5e/a27779.html", "db/d5e/a27779" ],
+    [ "AreaTrigger_at_nats_landing", "d7/d2d/a27783.html", "d7/d2d/a27783" ],
+    [ "AreaTrigger_at_sentry_point", "db/d05/a27787.html", "db/d05/a27787" ],
+    [ "AreaTrigger_at_brewfest", "de/d77/a27791.html", "de/d77/a27791" ],
+    [ "AreaTrigger_at_area_52_entrance", "d2/dd9/a27795.html", "d2/dd9/a27795" ],
+    [ "Area52Entrance", "d3/d85/a02813.html#a7ef276a75040392ab3315082a3518c67", [
+      [ "SPELL_A52_NEURALYZER", "d3/d85/a02813.html#a7ef276a75040392ab3315082a3518c67afa491a434774607e1e712c2f79ac322a", null ],
+      [ "NPC_SPOTLIGHT", "d3/d85/a02813.html#a7ef276a75040392ab3315082a3518c67acded8211c601c5b237d60a58f65b56ac", null ],
+      [ "SUMMON_COOLDOWN", "d3/d85/a02813.html#a7ef276a75040392ab3315082a3518c67aa4b7173ec61f2859f8649f0adcbb37d1", null ],
+      [ "AT_AREA_52_SOUTH", "d3/d85/a02813.html#a7ef276a75040392ab3315082a3518c67ac9b6a7b98c7a4b2013ccd61f637851f9", null ],
+      [ "AT_AREA_52_NORTH", "d3/d85/a02813.html#a7ef276a75040392ab3315082a3518c67a7eb1ed4b6c4f3ef99e5cdd9b1505a09e", null ],
+      [ "AT_AREA_52_WEST", "d3/d85/a02813.html#a7ef276a75040392ab3315082a3518c67a69d8c4647a15efe238a70b1f049ff97f", null ],
+      [ "AT_AREA_52_EAST", "d3/d85/a02813.html#a7ef276a75040392ab3315082a3518c67a3173f419da9cf80efa68ca3e99c10528", null ]
     ] ],
-    [ "FlightSpellsNA", "d3/d85/a02813.html#a68fd902d513cc8e7bf37946f9d26a80b", [
-      [ "NA_SPELL_FLY_SOUTH", "d3/d85/a02813.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f", null ],
-      [ "NA_SPELL_FLY_WEST", "d3/d85/a02813.html#a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2", null ],
-      [ "NA_SPELL_FLY_NORTH", "d3/d85/a02813.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3", null ],
-      [ "NA_SPELL_FLY_EAST", "d3/d85/a02813.html#a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d", null ]
+    [ "AtLastRites", "d3/d85/a02813.html#aedd9d40d0b524b4a5da323938c6f1c99", [
+      [ "QUEST_LAST_RITES", "d3/d85/a02813.html#aedd9d40d0b524b4a5da323938c6f1c99af622e93bef1f891f43c910aec65feef2", null ],
+      [ "QUEST_BREAKING_THROUGH", "d3/d85/a02813.html#aedd9d40d0b524b4a5da323938c6f1c99a0d528966459def04c2372cb96fb03057", null ]
     ] ],
-    [ "HalaaCreaturesSpawn", "d3/d85/a02813.html#a394f453184d3eefd51298b772b4c789a", [
-      [ "NA_HALAA_CREATURES", "d3/d85/a02813.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910", null ],
-      [ "NA_HALAA_CREATURE_TEAM_SPAWN", "d3/d85/a02813.html#a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94", null ],
-      [ "NA_HALAA_MAX_CREATURE_SPAWN", "d3/d85/a02813.html#a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553", null ]
+    [ "Brewfest", "d3/d85/a02813.html#a9b234b18092b711f6f11cda755fe0bfd", [
+      [ "NPC_TAPPER_SWINDLEKEG", "d3/d85/a02813.html#a9b234b18092b711f6f11cda755fe0bfda91dfef2ce070232ed51a69d9c6399130", null ],
+      [ "NPC_IPFELKOFER_IRONKEG", "d3/d85/a02813.html#a9b234b18092b711f6f11cda755fe0bfda39440d09522df095e726cb1da7ab817e", null ],
+      [ "AT_BREWFEST_DUROTAR", "d3/d85/a02813.html#a9b234b18092b711f6f11cda755fe0bfda6dbf4e730fdb44d7ceb232e60cee3091", null ],
+      [ "AT_BREWFEST_DUN_MOROGH", "d3/d85/a02813.html#a9b234b18092b711f6f11cda755fe0bfda91d9e35e7360f1d853d2f54f54548c61", null ],
+      [ "SAY_WELCOME", "d3/d85/a02813.html#a9b234b18092b711f6f11cda755fe0bfda53e43b5d6a57facfdbe1b6559295a32f", null ],
+      [ "AREATRIGGER_TALK_COOLDOWN", "d3/d85/a02813.html#a9b234b18092b711f6f11cda755fe0bfda7105e5d2474e31860a9bc9f5075c31e4", null ]
     ] ],
-    [ "HalaaGuardsNA", "d3/d85/a02813.html#a4e91f98214fe304c148fea20beaa5fae", [
-      [ "NA_HALAANI_GUARD_A", "d3/d85/a02813.html#a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0", null ],
-      [ "NA_HALAANI_GUARD_H", "d3/d85/a02813.html#a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304", null ]
+    [ "CoilfangGOs", "d3/d85/a02813.html#a9670aee8aef02c60b84d4c3d11c963b5", [
+      [ "GO_COILFANG_WATERFALL", "d3/d85/a02813.html#a9670aee8aef02c60b84d4c3d11c963b5a30520dfb9388b8cc7b4cbc9b3420d65d", null ]
     ] ],
-    [ "HalaaStates", "d3/d85/a02813.html#a2c40def86e302e716c09a15f01e5b809", [
-      [ "HALAA_N", "d3/d85/a02813.html#a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76", null ],
-      [ "HALAA_N_A", "d3/d85/a02813.html#a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba", null ],
-      [ "HALAA_A", "d3/d85/a02813.html#a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799", null ],
-      [ "HALAA_N_H", "d3/d85/a02813.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889", null ],
-      [ "HALAA_H", "d3/d85/a02813.html#a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547", null ]
+    [ "LegionTeleporter", "d3/d85/a02813.html#ad9a6ea877cb24dbb530ccf0e03cb7012", [
+      [ "SPELL_TELE_A_TO", "d3/d85/a02813.html#ad9a6ea877cb24dbb530ccf0e03cb7012a09569d3491e5bf73c2d9e897077cd162", null ],
+      [ "QUEST_GAINING_ACCESS_A", "d3/d85/a02813.html#ad9a6ea877cb24dbb530ccf0e03cb7012a1746dcba888866f4914d5fa112323879", null ],
+      [ "SPELL_TELE_H_TO", "d3/d85/a02813.html#ad9a6ea877cb24dbb530ccf0e03cb7012a0373689ced7bf6fcd5453719eff7dff9", null ],
+      [ "QUEST_GAINING_ACCESS_H", "d3/d85/a02813.html#ad9a6ea877cb24dbb530ccf0e03cb7012a90bff047b5c92fa8418685d95440c5ea", null ]
     ] ],
-    [ "OutdoorPvPNASpells", "d3/d85/a02813.html#a933dca48e43f02c2e7846375e0e3a3e2", [
-      [ "NA_KILL_TOKEN_ALLIANCE", "d3/d85/a02813.html#a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413", null ],
-      [ "NA_KILL_TOKEN_HORDE", "d3/d85/a02813.html#a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c", null ],
-      [ "NA_CAPTURE_BUFF", "d3/d85/a02813.html#a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c", null ]
+    [ "NatsLanding", "d3/d85/a02813.html#a5ee4c50b08414290f73ada43c1c71151", [
+      [ "QUEST_NATS_BARGAIN", "d3/d85/a02813.html#a5ee4c50b08414290f73ada43c1c71151aeff02bfb540090dbb759b896b3b3627e", null ],
+      [ "SPELL_FISH_PASTE", "d3/d85/a02813.html#a5ee4c50b08414290f73ada43c1c71151a84c85ea415f324f0acec6a0e8d8eb8a6", null ],
+      [ "NPC_LURKING_SHARK", "d3/d85/a02813.html#a5ee4c50b08414290f73ada43c1c71151af67d7adb069812fe8e3d79aff3f18900", null ]
     ] ],
-    [ "WyvernStates", "d3/d85/a02813.html#a408ccf9c409baffb9c6d03f2edde557c", [
-      [ "WYVERN_NEU_HORDE", "d3/d85/a02813.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5", null ],
-      [ "WYVERN_NEU_ALLIANCE", "d3/d85/a02813.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200", null ],
-      [ "WYVERN_HORDE", "d3/d85/a02813.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578", null ],
-      [ "WYVERN_ALLIANCE", "d3/d85/a02813.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e", null ]
+    [ "ScentLarkorwi", "d3/d85/a02813.html#a743ca0b810fe5b376233e725f346d416", [
+      [ "QUEST_SCENT_OF_LARKORWI", "d3/d85/a02813.html#a743ca0b810fe5b376233e725f346d416a105afbe1f1e3510efdd8ef9fbfe153ee", null ],
+      [ "NPC_LARKORWI_MATE", "d3/d85/a02813.html#a743ca0b810fe5b376233e725f346d416adb746f23675f0b248d264a0557ceff5d", null ]
     ] ],
-    [ "AllianceControlGOs", "d3/d85/a02813.html#a6da5d6b9a0ecd5b15ced61c27d1c8aa4", null ],
-    [ "FLIGHT_NODES_NUM", "d3/d85/a02813.html#a767a89853ad9fbcea5e94bae963b3168", null ],
-    [ "FlightPathEndNodes", "d3/d85/a02813.html#aa4cf9c47955c274ca0bdce61e98a3a5a", null ],
-    [ "FlightPathStartNodes", "d3/d85/a02813.html#ac9bda252b1c34c9a478d3251069384b8", null ],
-    [ "HordeControlGOs", "d3/d85/a02813.html#a2ca90cdca32c0c9a0fef5ece362bb3e6", null ],
-    [ "NA_BUFF_ZONE", "d3/d85/a02813.html#ae9287f13e383331fe53c5a514989ca99", null ],
-    [ "NA_CREDIT_MARKER", "d3/d85/a02813.html#a8c04516b1462a78d64563849fe3136a1", null ],
-    [ "NA_GUARD_CHECK_TIME", "d3/d85/a02813.html#a0f69597d7fce786cae5202cb06be06cf", null ],
-    [ "NA_GUARDS_MAX", "d3/d85/a02813.html#a3fba4585a3d42e96191aa62b6938472f", null ],
-    [ "NA_HALAA_BOMB", "d3/d85/a02813.html#a793a1d2d8d6683df19de9b728d2af1de", null ],
-    [ "NA_HALAA_GRAVEYARD", "d3/d85/a02813.html#a23eddcc072a261674acb3acb48f637cb", null ],
-    [ "NA_HALAA_GRAVEYARD_ZONE", "d3/d85/a02813.html#a74f493038b14c5e7e5a00c661339278e", null ],
-    [ "NA_RESPAWN_TIME", "d3/d85/a02813.html#a6fd5686dd6cf4251b3b33513928f44bd", null ],
-    [ "PatrolCreatureEntry", "d3/d85/a02813.html#aac17891901d073bcbdc4b9b919bb8f43", null ]
+    [ "SentryPoint", "d3/d85/a02813.html#a24ef89c28423d02750eff95a35b3a275", [
+      [ "SPELL_TELEPORT_VISUAL", "d3/d85/a02813.html#a24ef89c28423d02750eff95a35b3a275a73cc106ecf58fcd3a75fa23f9ff7a21c", null ],
+      [ "QUEST_MISSING_DIPLO_PT14", "d3/d85/a02813.html#a24ef89c28423d02750eff95a35b3a275a378a874d36260f01327d51d537b33d94", null ],
+      [ "NPC_TERVOSH", "d3/d85/a02813.html#a24ef89c28423d02750eff95a35b3a275a0ef56679b82214bad2e052fb8e979c50", null ]
+    ] ],
+    [ "StormwrightShelf", "d3/d85/a02813.html#abdd676bd524ed3ea6915b8b1348861dd", [
+      [ "QUEST_STRENGTH_OF_THE_TEMPEST", "d3/d85/a02813.html#abdd676bd524ed3ea6915b8b1348861ddae6b91cb73e581fe9558469357a90ec24", null ],
+      [ "SPELL_CREATE_TRUE_POWER_OF_THE_TEMPEST", "d3/d85/a02813.html#abdd676bd524ed3ea6915b8b1348861dda55079b9b218f67c0dcae1b7da0dcb277", null ]
+    ] ],
+    [ "AddSC_areatrigger_scripts", "d3/d85/a02813.html#a992f2da647f1f8748c7c9239b52079ad", null ]
 ];

@@ -1,5 +1,11 @@
 var a12847 =
 [
-    [ "npc_chess_move_trigger", "db/d84/a12847.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "db/d84/a12847.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "boss_mr_smiteAI", "db/d84/a12847.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
+    [ "JustEngagedWith", "db/d84/a12847.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
+    [ "MovementInform", "db/d84/a12847.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
+    [ "Reset", "db/d84/a12847.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
+    [ "UpdateAI", "db/d84/a12847.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
+    [ "events", "db/d84/a12847.html#a3471692c39233f3c25cdc875c0078f2c", null ],
+    [ "health34", "db/d84/a12847.html#adc83683c2f6a7073469cd2f5aa325717", null ],
+    [ "health67", "db/d84/a12847.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
 ];

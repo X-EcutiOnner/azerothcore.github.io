@@ -1,6 +1,6 @@
 var a22787 =
 [
-    [ "a", "db/d36/a22787.html#af01321c0fa24acf26086f7dccb326640", null ],
-    [ "h", "db/d36/a22787.html#a0b9b712fc851286077ee5bbd8136a413", null ],
-    [ "n", "db/d36/a22787.html#aad82b0a6ff47c6997a6b8d5492748b63", null ]
+    [ "HandleScriptEffect", "db/d36/a22787.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "db/d36/a22787.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "db/d36/a22787.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

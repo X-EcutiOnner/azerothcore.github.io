@@ -1,6 +1,9 @@
 var a25891 =
 [
-    [ "HandleSummon", "d1/d5f/a25891.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "d1/d5f/a25891.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "d1/d5f/a25891.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "OnEffectHitTargetDisarm", "d1/d5f/a25891.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d1/d5f/a25891.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d1/d5f/a25891.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d1/d5f/a25891.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d1/d5f/a25891.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d1/d5f/a25891.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

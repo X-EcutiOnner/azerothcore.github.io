@@ -1,5 +1,6 @@
 var a20727 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "d9/dfb/a20727.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "d9/dfb/a20727.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "CheckCast", "d9/dfb/a20727.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "d9/dfb/a20727.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "d9/dfb/a20727.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

@@ -1,4 +1,4 @@
 var a00821 =
 [
-    [ "ScriptRegistry< AchievementCriteriaScript >", "d6/d8b/a00821.html#a691565a1335cabfa534300dece8e65e8", null ]
+    [ "ScriptRegistry< AllBattlegroundScript >", "d6/d8b/a00821.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
 ];

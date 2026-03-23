@@ -1,6 +1,5 @@
 var a17363 =
 [
-    [ "npc_pos_leader_secondAI", "d5/dd6/a17367.html", "d5/dd6/a17367" ],
-    [ "npc_pos_leader_second", "d1/dbc/a17363.html#ac4758674cc97eae0937264fa028e6da5", null ],
-    [ "GetAI", "d1/dbc/a17363.html#ac403cfc86247990d78c9cf4179df8b87", null ]
+    [ "entry", "d1/dbc/a17363.html#a44c7a625896d6fddc15da39988e0b042", null ],
+    [ "pathId", "d1/dbc/a17363.html#accd6af0ddfa248a972612d802a1e641e", null ]
 ];

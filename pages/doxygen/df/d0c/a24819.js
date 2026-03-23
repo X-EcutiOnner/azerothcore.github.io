@@ -1,8 +1,7 @@
 var a24819 =
 [
-    [ "HandleDamage", "df/d0c/a24819.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "df/d0c/a24819.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "df/d0c/a24819.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "df/d0c/a24819.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "df/d0c/a24819.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "HandleEffectApply", "df/d0c/a24819.html#a03c31d2d1ff8a01a03c7fa6f67a5c9c3", null ],
+    [ "HandleEffectRemove", "df/d0c/a24819.html#a54420a5b6c4cc0e0b468f573cd4625bf", null ],
+    [ "PrepareAuraScript", "df/d0c/a24819.html#a39e61e11ede11f029485a73e4d995809", null ],
+    [ "Register", "df/d0c/a24819.html#a9b0a61f6f7ad9f01a293451705675eb0", null ]
 ];

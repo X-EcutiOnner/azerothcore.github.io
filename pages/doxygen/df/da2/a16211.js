@@ -1,6 +1,6 @@
 var a16211 =
 [
-    [ "boss_sartharionAI", "dd/d5c/a16215.html", "dd/d5c/a16215" ],
-    [ "boss_sartharion", "df/da2/a16211.html#a6605aee69372d08fba8f4b4523896588", null ],
-    [ "GetAI", "df/da2/a16211.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
+    [ "npc_anub_ar_crusher_necromancer", "df/da2/a16211.html#a469d30b357551c4ce77f040bea79e951", null ],
+    [ "DoEngagedWith", "df/da2/a16211.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
+    [ "DoEvent", "df/da2/a16211.html#a67889b3a207ab26b7895e2f7996359b1", null ]
 ];

@@ -1,5 +1,8 @@
 var a09723 =
 [
-    [ "entry", "d4/d76/a09723.html#a1105fbea33b497bca2a290431cb0f4ca", null ],
-    [ "type", "d4/d76/a09723.html#acaf1010ce0620ee99a2a6b2721a06b89", null ]
+    [ "AllCreaturesMatchingOneEntryInRange", "d4/d76/a09723.html#a440899ae5e52fedea316b7caa550455e", null ],
+    [ "operator()", "d4/d76/a09723.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
+    [ "m_fRange", "d4/d76/a09723.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
+    [ "m_pObject", "d4/d76/a09723.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
+    [ "m_uiEntries", "d4/d76/a09723.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
 ];

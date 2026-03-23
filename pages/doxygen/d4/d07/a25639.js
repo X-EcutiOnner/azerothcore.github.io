@@ -1,6 +1,7 @@
 var a25639 =
 [
-    [ "PrepareAuraScript", "d4/d07/a25639.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "d4/d07/a25639.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "d4/d07/a25639.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "OnRemove", "d4/d07/a25639.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "d4/d07/a25639.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "d4/d07/a25639.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "d4/d07/a25639.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

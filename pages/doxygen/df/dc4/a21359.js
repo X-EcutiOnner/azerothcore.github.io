@@ -1,13 +1,13 @@
 var a21359 =
 [
-    [ "npc_frenzied_worgenAI", "df/dc4/a21359.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
-    [ "DoAction", "df/dc4/a21359.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
-    [ "JustDied", "df/dc4/a21359.html#a33b723baef468ef79e67aaadba1b2691", null ],
-    [ "JustEngagedWith", "df/dc4/a21359.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
-    [ "JustReachedHome", "df/dc4/a21359.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
-    [ "MoveInLineOfSight", "df/dc4/a21359.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
-    [ "Reset", "df/dc4/a21359.html#adccac21b6eff18db096eb79dab4a27a0", null ],
-    [ "UpdateAI", "df/dc4/a21359.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
-    [ "events", "df/dc4/a21359.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
-    [ "m_pInstance", "df/dc4/a21359.html#a425720ce11714b145685f6d9c78a3dc1", null ]
+    [ "npc_preparations_for_war_vehicle", "df/dc4/a21359.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "MovementInform", "df/dc4/a21359.html#a5380670d521c7805a045aeac26c7c686", null ],
+    [ "PassengerBoarded", "df/dc4/a21359.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
+    [ "SpellHit", "df/dc4/a21359.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
+    [ "UpdateAI", "df/dc4/a21359.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "passenger_x", "df/dc4/a21359.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
+    [ "passenger_y", "df/dc4/a21359.html#afd99c49b3c3b996c92def21229f1ec87", null ],
+    [ "passenger_z", "df/dc4/a21359.html#a18d051868134d8c62f64923905bf19db", null ],
+    [ "searchForShipTimer", "df/dc4/a21359.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "df/dc4/a21359.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

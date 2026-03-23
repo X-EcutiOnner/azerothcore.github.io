@@ -1,6 +1,10 @@
 var a10687 =
 [
-    [ "GuildInviteByName", "df/d68/a10687.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
-    [ "Read", "df/d68/a10687.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
-    [ "Name", "df/d68/a10687.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
+    [ "ServerScript", "df/d68/a10687.html#a164286c210360b97b9efb48aed33b0d8", null ],
+    [ "CanPacketReceive", "df/d68/a10687.html#ada6045c5dcd48a011d66bd2998000d27", null ],
+    [ "CanPacketSend", "df/d68/a10687.html#ae7d02121a95adcc53263d006bc14da2f", null ],
+    [ "OnNetworkStart", "df/d68/a10687.html#ab51ce520816236687820d1f72bae0ed6", null ],
+    [ "OnNetworkStop", "df/d68/a10687.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
+    [ "OnSocketClose", "df/d68/a10687.html#a8386aef9c139f06732a5f36eadccec6c", null ],
+    [ "OnSocketOpen", "df/d68/a10687.html#a22e84aee366a0010a753b7ed3403172f", null ]
 ];

@@ -1,5 +1,6 @@
 var a15395 =
 [
-    [ "at_cthun_center", "db/d0d/a15395.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "db/d0d/a15395.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "HandleScriptEffect", "db/d0d/a15395.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
+    [ "PrepareSpellScript", "db/d0d/a15395.html#aa109d61baba87acf5bce5d44bff55214", null ],
+    [ "Register", "db/d0d/a15395.html#ac8412777c84abfe56262d6d83163e9a1", null ]
 ];

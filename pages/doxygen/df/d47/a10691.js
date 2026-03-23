@@ -1,7 +1,7 @@
 var a10691 =
 [
-    [ "GuildInvite", "df/d47/a10691.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
-    [ "Write", "df/d47/a10691.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
-    [ "GuildName", "df/d47/a10691.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
-    [ "InviterName", "df/d47/a10691.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
+    [ "SpellScriptLoader", "df/d47/a10691.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
+    [ "GetAuraScript", "df/d47/a10691.html#a9c60850e39ffe3d151a128b12777859d", null ],
+    [ "GetSpellScript", "df/d47/a10691.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
+    [ "IsDatabaseBound", "df/d47/a10691.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
 ];

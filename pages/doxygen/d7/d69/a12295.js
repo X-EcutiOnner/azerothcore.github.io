@@ -1,6 +1,10 @@
 var a12295 =
 [
-    [ "boss_halyconAI", "d8/d4c/a12299.html", "d8/d4c/a12299" ],
-    [ "boss_halycon", "d7/d69/a12295.html#aa149c5f8b34b9c00102f9a0758dcbd9a", null ],
-    [ "GetAI", "d7/d69/a12295.html#a861f1b0213ad9bcf572c9d59eabba699", null ]
+    [ "quest_commandscript", "d7/d69/a12295.html#a98804583ded14bc50d252475289dda4f", null ],
+    [ "GetCommands", "d7/d69/a12295.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
+    [ "HandleQuestAdd", "d7/d69/a12295.html#acd1410f224a1d69bba1321999ebf25bc", null ],
+    [ "HandleQuestComplete", "d7/d69/a12295.html#a044c30fdaedd07060284bd37fd2e226c", null ],
+    [ "HandleQuestRemove", "d7/d69/a12295.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
+    [ "HandleQuestReward", "d7/d69/a12295.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
+    [ "HandleQuestStatus", "d7/d69/a12295.html#adbba92d0cf47879e94710c971fd994ff", null ]
 ];

@@ -1,7 +1,8 @@
 var a20447 =
 [
-    [ "HandleEffectPeriodic", "d0/d1b/a20447.html#a428d1251465cc9947e7474eab83494e3", null ],
-    [ "PrepareAuraScript", "d0/d1b/a20447.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
-    [ "Register", "d0/d1b/a20447.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
-    [ "Validate", "d0/d1b/a20447.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
+    [ "npc_ulduar_dark_rune_guardian", "d0/d1b/a20447.html#a225445f5593694dd6b7d9c338735690f", null ],
+    [ "CanAIAttack", "d0/d1b/a20447.html#a0e739a36a33d7ab401a55d629230e2df", null ],
+    [ "Reset", "d0/d1b/a20447.html#a4839f5722ba8d12beb679ac7edd0fe0e", null ],
+    [ "UpdateAI", "d0/d1b/a20447.html#acecc92ef5ad06821854f3afe4f2b673e", null ],
+    [ "timer2", "d0/d1b/a20447.html#a5a3af42aaff640e8e286eda5a658c411", null ]
 ];

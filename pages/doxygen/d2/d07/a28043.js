@@ -1,5 +1,5 @@
 var a28043 =
 [
-    [ "go_transport_the_purple_princess", "d2/d07/a28043.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "d2/d07/a28043.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "go_hive_pod", "d2/d07/a28043.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "d2/d07/a28043.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

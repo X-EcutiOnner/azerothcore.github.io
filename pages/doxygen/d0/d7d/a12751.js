@@ -1,8 +1,6 @@
 var a12751 =
 [
-    [ "FilterTargets", "d0/d7d/a12751.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
-    [ "HandleScript", "d0/d7d/a12751.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
-    [ "PrepareSpellScript", "d0/d7d/a12751.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
-    [ "Register", "d0/d7d/a12751.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
-    [ "Validate", "d0/d7d/a12751.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
+    [ "boss_gehennas", "d0/d7d/a12751.html#ab533dfd33dfcc42b1c282340e77ed979", null ],
+    [ "ExecuteEvent", "d0/d7d/a12751.html#aa11c5e8facc17b03220595a61045036f", null ],
+    [ "JustEngagedWith", "d0/d7d/a12751.html#af4f3b198a1a606efe829376b4515c7bc", null ]
 ];

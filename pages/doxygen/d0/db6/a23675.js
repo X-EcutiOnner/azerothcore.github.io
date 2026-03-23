@@ -1,8 +1,6 @@
 var a23675 =
 [
-    [ "npc_underbat", "d0/db6/a23675.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "d0/db6/a23675.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "d0/db6/a23675.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "d0/db6/a23675.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "d0/db6/a23675.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "npc_deaths_fel_cannonAI", "d0/db6/a23675.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "d0/db6/a23675.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "d0/db6/a23675.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

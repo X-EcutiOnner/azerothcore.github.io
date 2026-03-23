@@ -1,6 +1,9 @@
 var a21395 =
 [
-    [ "npc_ritual_channelerAI", "db/d40/a21399.html", "db/d40/a21399" ],
-    [ "npc_ritual_channeler", "d8/d7f/a21395.html#adab372002549b009e3f937ec67e49f3f", null ],
-    [ "GetAI", "d8/d7f/a21395.html#aa416545438d701cbfc2567ba5ae536c8", null ]
+    [ "npc_archmage_landalockAI", "d8/d7f/a21395.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "d8/d7f/a21395.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "d8/d7f/a21395.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "d8/d7f/a21395.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "d8/d7f/a21395.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "d8/d7f/a21395.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

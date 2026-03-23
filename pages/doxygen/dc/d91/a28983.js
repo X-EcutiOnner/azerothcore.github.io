@@ -1,5 +1,8 @@
 var a28983 =
 [
-    [ "fcc", "dc/d91/a28983.html#a828a2845e666d6eb47d6d4705a663a3d", null ],
-    [ "fcc_txt", "dc/d91/a28983.html#acf0f4449ab5a64822833b86b41e2487c", null ]
+    [ "areaTriggerText", "dc/d91/a28983.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "dc/d91/a28983.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "dc/d91/a28983.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "dc/d91/a28983.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "dc/d91/a28983.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

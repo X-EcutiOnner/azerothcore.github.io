@@ -1,6 +1,11 @@
 var a14591 =
 [
-    [ "gameobjectId", "d6/d14/a14591.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d6/d14/a14591.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d6/d14/a14591.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "npc_high_oracle_soo_roo", "d6/d14/a14591.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
+    [ "MoveInLineOfSight", "d6/d14/a14591.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
+    [ "Reset", "d6/d14/a14591.html#a89a60a83a46e0095045b2353e50483ed", null ],
+    [ "UpdateAI", "d6/d14/a14591.html#ac22cfa519e478da643a51ae887f306fd", null ],
+    [ "orphanGUID", "d6/d14/a14591.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
+    [ "phase", "d6/d14/a14591.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
+    [ "playerGUID", "d6/d14/a14591.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
+    [ "timer", "d6/d14/a14591.html#aa5238d3ee361374681947de874391a1f", null ]
 ];

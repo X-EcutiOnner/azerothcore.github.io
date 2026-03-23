@@ -1,6 +1,5 @@
 var a11031 =
 [
-    [ "InvalidStringValueException", "da/de2/a11031.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
-    [ "GetInvalidValue", "da/de2/a11031.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
-    [ "_value", "da/de2/a11031.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
+    [ "SocketEnchantID", "da/de2/a11031.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "da/de2/a11031.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

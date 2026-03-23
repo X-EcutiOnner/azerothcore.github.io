@@ -1,6 +1,7 @@
 var a20015 =
 [
-    [ "achievement_assembly_of_iron", "df/d37/a20015.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "df/d37/a20015.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "df/d37/a20015.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "FilterTargets", "df/d37/a20015.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "df/d37/a20015.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "df/d37/a20015.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "df/d37/a20015.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

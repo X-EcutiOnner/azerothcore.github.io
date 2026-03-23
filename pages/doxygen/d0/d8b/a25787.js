@@ -1,6 +1,6 @@
 var a25787 =
 [
-    [ "HandleDummyTick", "d0/d8b/a25787.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
-    [ "PrepareAuraScript", "d0/d8b/a25787.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
-    [ "Register", "d0/d8b/a25787.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
+    [ "HandleTriggerSpell", "d0/d8b/a25787.html#a2c9f565aec4c42900037dd387549df18", null ],
+    [ "PrepareAuraScript", "d0/d8b/a25787.html#a5864bbba50001cdb84b0015d08134c56", null ],
+    [ "Register", "d0/d8b/a25787.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
 ];

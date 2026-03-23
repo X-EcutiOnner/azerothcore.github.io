@@ -1,7 +1,6 @@
 var a16367 =
 [
-    [ "HandleDummy", "d9/d47/a16367.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d9/d47/a16367.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d9/d47/a16367.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d9/d47/a16367.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "boss_halionAI", "db/d19/a16371.html", "db/d19/a16371" ],
+    [ "boss_halion", "d9/d47/a16367.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
+    [ "GetAI", "d9/d47/a16367.html#a142314efb4f45ec146ab0225271d29b1", null ]
 ];

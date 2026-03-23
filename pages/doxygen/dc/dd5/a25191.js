@@ -1,6 +1,5 @@
 var a25191 =
 [
-    [ "HandleOnEffectHit", "dc/dd5/a25191.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "dc/dd5/a25191.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "dc/dd5/a25191.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "PrepareSpellScript", "dc/dd5/a25191.html#a5e100554f868649d4edea011fe767b8b", null ],
+    [ "Register", "dc/dd5/a25191.html#a0ffb1cb313060770227621edb16c3a0d", null ]
 ];

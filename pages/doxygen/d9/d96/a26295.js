@@ -1,10 +1,8 @@
 var a26295 =
 [
-    [ "CheckProc", "d9/d96/a26295.html#a787008462dce35eb27deda41301b146d", null ],
-    [ "HandleProc", "d9/d96/a26295.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
-    [ "Load", "d9/d96/a26295.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
-    [ "PrepareAuraScript", "d9/d96/a26295.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
-    [ "Register", "d9/d96/a26295.html#aa4ef731870355dc386fcd07c5f19d090", null ],
-    [ "Validate", "d9/d96/a26295.html#ad04864f0710262364cf40e071446d87c", null ],
-    [ "_procTarget", "d9/d96/a26295.html#a9383231fc71c6239507fdf8765d63f3d", null ]
+    [ "CheckProc", "d9/d96/a26295.html#acf866803e732855ab367583f772c2d59", null ],
+    [ "HandleProc", "d9/d96/a26295.html#ad97e46373234f9d8c37fa7fb7c173cb9", null ],
+    [ "PrepareAuraScript", "d9/d96/a26295.html#ae73a5ee751fa3645a374ba29f4ad6999", null ],
+    [ "Register", "d9/d96/a26295.html#a12bf8fb23b5b27da1afe51d9d9e221e3", null ],
+    [ "Validate", "d9/d96/a26295.html#ae23284150ca63c6a8c1766e4c3d8685b", null ]
 ];

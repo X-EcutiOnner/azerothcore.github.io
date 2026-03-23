@@ -1,6 +1,6 @@
 var a25095 =
 [
-    [ "CheckProc", "db/d56/a25095.html#afa477049b9a4fa18594b203a6066d205", null ],
-    [ "PrepareAuraScript", "db/d56/a25095.html#a9fff895957dfedb5d975e4a8e9588aa9", null ],
-    [ "Register", "db/d56/a25095.html#ab0746e7fa614f09708f89ed3ef93fca9", null ]
+    [ "CalculateAmount", "db/d56/a25095.html#a0522f4bf54b4a71df4e09f97a28fda45", null ],
+    [ "PrepareAuraScript", "db/d56/a25095.html#acf699e467734499dd992f401da38cf88", null ],
+    [ "Register", "db/d56/a25095.html#a6e6396a162a532ff25b9bd7c551f05d8", null ]
 ];

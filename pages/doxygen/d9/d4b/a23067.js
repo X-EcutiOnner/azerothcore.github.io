@@ -1,9 +1,6 @@
 var a23067 =
 [
-    [ "HandleAfterCast", "d9/d4b/a23067.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "d9/d4b/a23067.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "d9/d4b/a23067.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "d9/d4b/a23067.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "d9/d4b/a23067.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "d9/d4b/a23067.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "boss_rokmar_the_crackler", "d9/d4b/a23067.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d9/d4b/a23067.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d9/d4b/a23067.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

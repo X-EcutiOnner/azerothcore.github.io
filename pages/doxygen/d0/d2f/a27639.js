@@ -1,5 +1,6 @@
 var a27639 =
 [
-    [ "go_veil_skith_cage", "d0/d2f/a27639.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
-    [ "OnGossipHello", "d0/d2f/a27639.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
+    [ "CheckProc", "d0/d2f/a27639.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "PrepareAuraScript", "d0/d2f/a27639.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "d0/d2f/a27639.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

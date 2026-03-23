@@ -1,8 +1,8 @@
 var a17135 =
 [
-    [ "npc_phantom_hallucinationAI", "dd/df1/a17135.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "dd/df1/a17135.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "dd/df1/a17135.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "dd/df1/a17135.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "dd/df1/a17135.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "npc_phantom_hallucination", "dd/df1/a17135.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "dd/df1/a17135.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "dd/df1/a17135.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "dd/df1/a17135.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "dd/df1/a17135.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

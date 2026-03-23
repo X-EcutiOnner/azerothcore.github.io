@@ -1,6 +1,8 @@
 var a17075 =
 [
-    [ "entry", "df/dd7/a17075.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "df/dd7/a17075.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "df/dd7/a17075.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "npc_fos_leaderAI", "dd/d9c/a17079.html", "dd/d9c/a17079" ],
+    [ "npc_fos_leader", "df/dd7/a17075.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "df/dd7/a17075.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "df/dd7/a17075.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "df/dd7/a17075.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

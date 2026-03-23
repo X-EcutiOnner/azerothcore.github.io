@@ -1,8 +1,6 @@
 var a21231 =
 [
-    [ "npc_ulduar_keeperAI", "dd/de3/a21235.html", "dd/de3/a21235" ],
-    [ "npc_ulduar_keeper", "d2/dc9/a21231.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "d2/dc9/a21231.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "d2/dc9/a21231.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "d2/dc9/a21231.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "HandleEffectPeriodic", "d2/dc9/a21231.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "d2/dc9/a21231.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "d2/dc9/a21231.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

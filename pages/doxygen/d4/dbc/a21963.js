@@ -1,6 +1,8 @@
 var a21963 =
 [
-    [ "npc_mindless_ghoulAI", "d4/dbc/a21963.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "d4/dbc/a21963.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "d4/dbc/a21963.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "npc_time_lost_proto_drakeAI", "d4/dbc/a21963.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "InitializeAI", "d4/dbc/a21963.html#a6b99780951a126a97db88e7307c1d1b9", null ],
+    [ "JustEngagedWith", "d4/dbc/a21963.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "Reset", "d4/dbc/a21963.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "d4/dbc/a21963.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

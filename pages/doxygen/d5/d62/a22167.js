@@ -1,7 +1,6 @@
 var a22167 =
 [
-    [ "HandleScript", "d5/d62/a22167.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "d5/d62/a22167.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "d5/d62/a22167.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "d5/d62/a22167.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_released_offspring_harkoaAI", "d0/d35/a22171.html", "d0/d35/a22171" ],
+    [ "npc_released_offspring_harkoa", "d5/d62/a22167.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "d5/d62/a22167.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

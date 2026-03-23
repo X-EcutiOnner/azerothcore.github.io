@@ -1,8 +1,21 @@
 var a16967 =
 [
-    [ "HandleEffectApply", "dd/db3/a16967.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
-    [ "HandleEffectRemove", "dd/db3/a16967.html#a04504220319ec562b1b6691f471c1b8d", null ],
-    [ "PrepareAuraScript", "dd/db3/a16967.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
-    [ "Register", "dd/db3/a16967.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
-    [ "Validate", "dd/db3/a16967.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
+    [ "boss_novos", "dd/db3/a16967.html#ae05afda7873a26a7a812813628e970fc", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "dd/db3/a16967.html#a0f5bde7e5d7fd31887d22a6151e99c48", null ],
+    [ "GetData", "dd/db3/a16967.html#ad037870744002e44a48e056875bd7ec1", null ],
+    [ "JustDied", "dd/db3/a16967.html#a47ae86a8b48aeebebfca23ee44d4563e", null ],
+    [ "JustEngagedWith", "dd/db3/a16967.html#accd720c3cb74905ef5ecf793089681eb", null ],
+    [ "JustSummoned", "dd/db3/a16967.html#a93c6c9c3a8e94f1d051047ddf24fbe14", null ],
+    [ "KilledUnit", "dd/db3/a16967.html#ac06fea8658bedcbf0ede8ddace6b9c3c", null ],
+    [ "MoveInLineOfSight", "dd/db3/a16967.html#a7567db25d51851888a35c70a4d7c833c", null ],
+    [ "Reset", "dd/db3/a16967.html#a95732678db7d6b103a6523100b27544b", null ],
+    [ "SetData", "dd/db3/a16967.html#aa383cb44a4eddcf73b00da9925060dde", null ],
+    [ "SummonedCreatureDies", "dd/db3/a16967.html#a1cbe1a2536171688e78da2cfda04effa", null ],
+    [ "SummonMovementInform", "dd/db3/a16967.html#af37e7d05ad672d443f7f2f89c7fd24a5", null ],
+    [ "UpdateAI", "dd/db3/a16967.html#a2488d1b0be72b76e2ea125dad3986217", null ],
+    [ "_achievement", "dd/db3/a16967.html#a0601276c570ee0912e3014ad60774f9a", null ],
+    [ "_crystalCounter", "dd/db3/a16967.html#a5a6651d0e08c0557d53174d40da0fac3", null ],
+    [ "_stage", "dd/db3/a16967.html#ae6c7721cfc95e8a524ea3d2fc4e20a88", null ],
+    [ "_summonTargetLeftGUID", "dd/db3/a16967.html#a05511ce949e0dc1a8e64832625b1bc64", null ],
+    [ "_summonTargetRightGUID", "dd/db3/a16967.html#a0aecc4467b0a29a8e8eb7df9a8e68d71", null ]
 ];

@@ -1,6 +1,9 @@
 var a20543 =
 [
-    [ "boss_kologarnAI", "dd/d3e/a20547.html", "dd/d3e/a20547" ],
-    [ "boss_kologarn", "dc/d28/a20543.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
-    [ "GetAI", "dc/d28/a20543.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
+    [ "npc_xt002_pummeller", "dc/d28/a20543.html#a5e6fe72dbdedef5526704656c58a9e35", null ],
+    [ "Reset", "dc/d28/a20543.html#a6140f9b246abeba75c291aa7e9624217", null ],
+    [ "UpdateAI", "dc/d28/a20543.html#a90c16a2da7c6c28759a89580736d34e8", null ],
+    [ "_arcingSmashTimer", "dc/d28/a20543.html#ae6118dc72cac8f8f7509999fcdbc219e", null ],
+    [ "_trampleTimer", "dc/d28/a20543.html#a5999bcaf51e20265e7b74d6e47803c69", null ],
+    [ "_uppercutTimer", "dc/d28/a20543.html#a4a2427392e5531a4cab88243150f1ecf", null ]
 ];

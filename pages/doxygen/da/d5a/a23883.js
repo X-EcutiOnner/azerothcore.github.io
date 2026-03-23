@@ -1,13 +1,14 @@
 var a23883 =
 [
-    [ "boss_warbringer_omrogg", "da/d5a/a23883.html#a20f790595640cd41d636ad43c8837cda", null ],
-    [ "HandleHeadTalk", "da/d5a/a23883.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
-    [ "JustDied", "da/d5a/a23883.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
-    [ "JustEngagedWith", "da/d5a/a23883.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
-    [ "KilledUnit", "da/d5a/a23883.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
-    [ "ScheduleBurningPhase", "da/d5a/a23883.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
-    [ "ScheduleNonBurningPhase", "da/d5a/a23883.html#a176217a0767e8153d07996461ac68f60", null ],
-    [ "SetData", "da/d5a/a23883.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
-    [ "UpdateAI", "da/d5a/a23883.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
-    [ "_headTalk", "da/d5a/a23883.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
+    [ "npc_mature_netherwing_drakeAI", "da/d5a/a23883.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
+    [ "JustReachedHome", "da/d5a/a23883.html#a0de69b5fda6342217697ad264d64d4e6", null ],
+    [ "MovementInform", "da/d5a/a23883.html#a456b5de60672120f82506d177faf6b47", null ],
+    [ "Reset", "da/d5a/a23883.html#a72eb39e259aed0ab230d4d43722cba13", null ],
+    [ "SpellHit", "da/d5a/a23883.html#a749690b386c0c726d11b77bc705b9b01", null ],
+    [ "UpdateAI", "da/d5a/a23883.html#a624c256f29d3cefed0bb909da3841853", null ],
+    [ "bCanEat", "da/d5a/a23883.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
+    [ "bIsEating", "da/d5a/a23883.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
+    [ "CastTimer", "da/d5a/a23883.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
+    [ "EatTimer", "da/d5a/a23883.html#aa50d3a21103dc769d162b1c917100630", null ],
+    [ "uiPlayerGUID", "da/d5a/a23883.html#a6b9a435245ddce156d0657aa9e35175b", null ]
 ];

@@ -1,6 +1,6 @@
 var a13659 =
 [
-    [ "HandlePeriodic", "dd/dd9/a13659.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
-    [ "PrepareAuraScript", "dd/dd9/a13659.html#a2722b97e12e9371745d7f38504d9efdf", null ],
-    [ "Register", "dd/dd9/a13659.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
+    [ "FixOrientation", "dd/dd9/a13659.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "dd/dd9/a13659.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "dd/dd9/a13659.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

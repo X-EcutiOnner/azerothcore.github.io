@@ -1,7 +1,6 @@
 var a16643 =
 [
-    [ "HandleAfterHit", "d6/dd9/a16643.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "d6/dd9/a16643.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "d6/dd9/a16643.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "d6/dd9/a16643.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "npc_frost_sphereAI", "d1/dfa/a16647.html", "d1/dfa/a16647" ],
+    [ "npc_frost_sphere", "d6/dd9/a16643.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "d6/dd9/a16643.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

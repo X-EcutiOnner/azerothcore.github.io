@@ -1,8 +1,7 @@
 var a21283 =
 [
-    [ "boss_keleseth", "dd/de0/a21283.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "dd/de0/a21283.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "dd/de0/a21283.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "dd/de0/a21283.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "dd/de0/a21283.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "HandleScriptEffect", "dd/de0/a21283.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
+    [ "PrepareSpellScript", "dd/de0/a21283.html#a73b5af95ee4f593337c3803574d190db", null ],
+    [ "Register", "dd/de0/a21283.html#a930de2343532feb50b86304f32269e4c", null ],
+    [ "Validate", "dd/de0/a21283.html#ae9bfedf7e89487217ad927459e259c04", null ]
 ];

@@ -1,6 +1,6 @@
 var a19655 =
 [
-    [ "boss_varosAI", "d7/d31/a19659.html", "d7/d31/a19659" ],
-    [ "boss_varos", "dc/d28/a19655.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "dc/d28/a19655.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "PrepareSpellScript", "dc/d28/a19655.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "dc/d28/a19655.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "dc/d28/a19655.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

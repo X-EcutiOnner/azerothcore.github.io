@@ -1,8 +1,11 @@
 var a14599 =
 [
-    [ "CalcPeriodic", "d5/dd3/a14599.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
-    [ "HandleEffectApply", "d5/dd3/a14599.html#a4321da69ee59416bd50e621b804e5423", null ],
-    [ "HandleEffectPeriodicUpdate", "d5/dd3/a14599.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
-    [ "PrepareAuraScript", "d5/dd3/a14599.html#a956136be8cb484efc9af2429d8779a03", null ],
-    [ "Register", "d5/dd3/a14599.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
+    [ "npc_the_etymidian", "d5/dd3/a14599.html#af491016ac89b67947650a5ca9c379875", null ],
+    [ "MoveInLineOfSight", "d5/dd3/a14599.html#adde2d86e30442eb1b47219e934e24407", null ],
+    [ "Reset", "d5/dd3/a14599.html#a714edf3ba5f7a6d59242c991764effc5", null ],
+    [ "UpdateAI", "d5/dd3/a14599.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
+    [ "orphanGUID", "d5/dd3/a14599.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
+    [ "phase", "d5/dd3/a14599.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
+    [ "playerGUID", "d5/dd3/a14599.html#a7371e361c018360315e20086b0b99079", null ],
+    [ "timer", "d5/dd3/a14599.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
 ];

@@ -1,6 +1,5 @@
 var a20411 =
 [
-    [ "npc_ulduar_hodir_priestAI", "d4/d12/a20415.html", "d4/d12/a20415" ],
-    [ "npc_ulduar_hodir_priest", "da/ded/a20411.html#a30d7f1b68f9a1d10bc47288b81fc517c", null ],
-    [ "GetAI", "da/ded/a20411.html#a276046b974666c1462440a46a8096de7", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "da/ded/a20411.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "da/ded/a20411.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

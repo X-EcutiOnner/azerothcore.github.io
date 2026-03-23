@@ -1,10 +1,8 @@
 var a15759 =
 [
-    [ "npc_omenAI", "dc/dab/a15759.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "dc/dab/a15759.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "dc/dab/a15759.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "dc/dab/a15759.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "dc/dab/a15759.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "dc/dab/a15759.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "dc/dab/a15759.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "CheckRequirement", "dc/dab/a15759.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "dc/dab/a15759.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "dc/dab/a15759.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "dc/dab/a15759.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "dc/dab/a15759.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

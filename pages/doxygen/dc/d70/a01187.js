@@ -1,20 +1,20 @@
 var a01187 =
 [
-    [ "CreatureTextEntry", "df/deb/a11812.html", "df/deb/a11812" ],
-    [ "CreatureTextLocale", "dc/def/a11816.html", "dc/def/a11816" ],
-    [ "CreatureTextId", "d6/dd3/a11820.html", "d6/dd3/a11820" ],
-    [ "CreatureTextMgr", "de/dd5/a11824.html", "de/dd5/a11824" ],
-    [ "CreatureTextLocalizer< Builder >", "df/dd5/a11828.html", "df/dd5/a11828" ],
-    [ "sCreatureTextMgr", "dc/d70/a01187.html#a2dc428da007cefe454220dcb355a1cde", null ],
-    [ "CreatureTextGroup", "dc/d70/a01187.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
-    [ "CreatureTextHolder", "dc/d70/a01187.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
-    [ "CreatureTextMap", "dc/d70/a01187.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
-    [ "LocaleCreatureTextMap", "dc/d70/a01187.html#ab39b2d82775a84108d19ed009bd14747", null ],
-    [ "CreatureTextRange", "dc/d70/a01187.html#adf847039afbebeda9e21210c1f4eb052", [
-      [ "TEXT_RANGE_NORMAL", "dc/d70/a01187.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
-      [ "TEXT_RANGE_AREA", "dc/d70/a01187.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
-      [ "TEXT_RANGE_ZONE", "dc/d70/a01187.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
-      [ "TEXT_RANGE_MAP", "dc/d70/a01187.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
-      [ "TEXT_RANGE_WORLD", "dc/d70/a01187.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
+    [ "FormationInfo", "dd/d95/a08347.html", "dd/d95/a08347" ],
+    [ "FormationMgr", "df/d8c/a08351.html", "df/d8c/a08351" ],
+    [ "CreatureGroup", "d2/d96/a08355.html", "d2/d96/a08355" ],
+    [ "sFormationMgr", "dc/d70/a01187.html#ae80a51404625cee821a8727ed7369352", null ],
+    [ "CreatureGroupInfoType", "dc/d70/a01187.html#a2c3447bf21f430bff136da6811d93a61", null ],
+    [ "GroupAIFlags", "dc/d70/a01187.html#a3754da8cc6b209da0180cd76de20869c", [
+      [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "dc/d70/a01187.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
+      [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "dc/d70/a01187.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],
+      [ "GROUP_AI_FLAG_EVADE_TOGETHER", "dc/d70/a01187.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a", null ],
+      [ "GROUP_AI_FLAG_RESPAWN_ON_EVADE", "dc/d70/a01187.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6", null ],
+      [ "GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE", "dc/d70/a01187.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043", null ],
+      [ "GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE", "dc/d70/a01187.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e", null ],
+      [ "GROUP_AI_FLAG_FOLLOW_LEADER", "dc/d70/a01187.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87", null ],
+      [ "GROUP_AI_FLAG_ASSIST_MASK", "dc/d70/a01187.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c", null ],
+      [ "GROUP_AI_FLAG_EVADE_MASK", "dc/d70/a01187.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd", null ],
+      [ "GROUP_AI_FLAG_SUPPORTED", "dc/d70/a01187.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60", null ]
     ] ]
 ];

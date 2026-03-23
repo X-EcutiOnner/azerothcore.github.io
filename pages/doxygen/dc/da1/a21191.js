@@ -1,7 +1,6 @@
 var a21191 =
 [
-    [ "HandleScriptEffect", "dc/da1/a21191.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "dc/da1/a21191.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "dc/da1/a21191.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "dc/da1/a21191.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "npc_azure_stalkerAI", "dd/d11/a21195.html", "dd/d11/a21195" ],
+    [ "npc_azure_stalker", "dc/da1/a21191.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
+    [ "GetAI", "dc/da1/a21191.html#a1c067809f98a4d7845d2fb4269742274", null ]
 ];

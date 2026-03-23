@@ -1,6 +1,6 @@
 var a23699 =
 [
-    [ "HandleScriptEffect", "de/d02/a23699.html#abba5817280db6579e3e6e0b964655c6e", null ],
-    [ "PrepareSpellScript", "de/d02/a23699.html#a846fa43c9907ddb6243c006327757a1c", null ],
-    [ "Register", "de/d02/a23699.html#a7daa26f4035912bff4811b0bfee35fee", null ]
+    [ "npc_simon_bunnyAI", "d4/dd5/a23703.html", "d4/dd5/a23703" ],
+    [ "npc_simon_bunny", "de/d02/a23699.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "de/d02/a23699.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

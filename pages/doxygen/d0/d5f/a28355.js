@@ -1,5 +1,5 @@
 var a28355 =
 [
-    [ "ID", "d0/d5f/a28355.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "d0/d5f/a28355.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "npc_controller", "d0/d5f/a28355.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "d0/d5f/a28355.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

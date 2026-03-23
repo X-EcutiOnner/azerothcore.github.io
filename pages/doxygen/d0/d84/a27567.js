@@ -1,5 +1,7 @@
 var a27567 =
 [
-    [ "go_tablet_of_the_seven", "d0/d84/a27567.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "d0/d84/a27567.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "HandleDummy", "d0/d84/a27567.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
+    [ "PrepareSpellScript", "d0/d84/a27567.html#a24634405a8d0ccdd22f4832815262446", null ],
+    [ "Register", "d0/d84/a27567.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
+    [ "Validate", "d0/d84/a27567.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
 ];

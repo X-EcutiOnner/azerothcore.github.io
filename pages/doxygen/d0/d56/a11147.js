@@ -1,9 +1,7 @@
 var a11147 =
 [
-    [ "TotemCreated", "d0/d56/a11147.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "d0/d56/a11147.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "d0/d56/a11147.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "d0/d56/a11147.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "d0/d56/a11147.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "d0/d56/a11147.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "ReadItem", "d0/d56/a11147.html#a099da7490ccf30ee0bde5f85e6197a76", null ],
+    [ "Read", "d0/d56/a11147.html#a61ae8ba19d04f3001614f8dd2ad408ed", null ],
+    [ "Bag", "d0/d56/a11147.html#a16c02f27e986ac3d093668092d67a3c9", null ],
+    [ "Slot", "d0/d56/a11147.html#a1d181a1cec1021cf68a5d9b80d2753c3", null ]
 ];

@@ -1,6 +1,10 @@
 var a15311 =
 [
-    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d1/d9f/a15315.html", "d1/d9f/a15315" ],
-    [ "instance_ruins_of_ahnqiraj", "d8/d92/a15311.html#adeacb1c68e4b12995a335d1bedde075a", null ],
-    [ "GetInstanceScript", "d8/d92/a15311.html#a6a661e961c2599498de0ccd41c0763b4", null ]
+    [ "boss_moam", "d8/d92/a15311.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "d8/d92/a15311.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "d8/d92/a15311.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "d8/d92/a15311.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "d8/d92/a15311.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "d8/d92/a15311.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "d8/d92/a15311.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

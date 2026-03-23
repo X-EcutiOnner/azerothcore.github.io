@@ -1,7 +1,6 @@
 var a18891 =
 [
-    [ "npc_captain_arnathAI", "d5/d27/a18891.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d5/d27/a18891.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d5/d27/a18891.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d5/d27/a18891.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_impaling_spearAI", "da/dec/a18895.html", "da/dec/a18895" ],
+    [ "npc_impaling_spear", "d5/d27/a18891.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "d5/d27/a18891.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

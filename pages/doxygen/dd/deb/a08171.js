@@ -1,5 +1,7 @@
 var a08171 =
 [
-    [ "QuestIcon", "dd/deb/a08171.html#ad8bbfe08780eaa68a8205e2634d211b8", null ],
-    [ "QuestId", "dd/deb/a08171.html#a522a4fcb28daec3e1a620b6f02c3d8fe", null ]
+    [ "global_sequence", "dd/deb/a08171.html#afbd5f7baa1b1daf4dda4fe0cf503a97b", null ],
+    [ "interpolation_type", "dd/deb/a08171.html#ac3315ce2b2261a6fd23b0c72ea34aa5e", null ],
+    [ "timestamps", "dd/deb/a08171.html#a8bf7fdd2652275ae553b921196e68d1c", null ],
+    [ "values", "dd/deb/a08171.html#a9d4ea5dfc36b34541e5ba7350df645e1", null ]
 ];

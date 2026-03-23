@@ -1,5 +1,8 @@
 var a10023 =
 [
-    [ "IdleMovementFactory", "de/d38/a10023.html#af2bb5ef9fe67f3dda64d6ce44e825f52", null ],
-    [ "Create", "de/d38/a10023.html#a5e99eab3436482927bc83100f85581cd", null ]
+    [ "ServerMailCondition", "de/d38/a10023.html#a2ee7d2f3587159c95883fe32674cb586", null ],
+    [ "CheckCondition", "de/d38/a10023.html#a3c223658629357f05d8879555717f624", null ],
+    [ "state", "de/d38/a10023.html#a309f739872afaf644331335b27649561", null ],
+    [ "type", "de/d38/a10023.html#a3b318e7743ca48fcf8ba849398a06968", null ],
+    [ "value", "de/d38/a10023.html#af709199aed99633cc70d9118ee4fd4fc", null ]
 ];

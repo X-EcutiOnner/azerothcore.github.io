@@ -1,7 +1,18 @@
 var a20531 =
 [
-    [ "HandleScript", "de/d9f/a20531.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "de/d9f/a20531.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "de/d9f/a20531.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "de/d9f/a20531.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "boss_xt002", "de/d9f/a20531.html#afd9e4cbeadc453922b43d21dce621bd4", null ],
+    [ "AttachHeart", "de/d9f/a20531.html#a56cd1cb86b52bba527fd8610b5ec668e", null ],
+    [ "DoAction", "de/d9f/a20531.html#a5146e40e5530a014d552fbc92a62d595", null ],
+    [ "GetData", "de/d9f/a20531.html#a33d64c79af00c3e306fc0c63639d39fc", null ],
+    [ "JustDied", "de/d9f/a20531.html#a4afb96f905e61c8b35941a8481e19882", null ],
+    [ "JustEngagedWith", "de/d9f/a20531.html#a034de8d2644d5b1dfb07845faecc00a3", null ],
+    [ "JustReachedHome", "de/d9f/a20531.html#a31eae472c8da2f891e7d2c3424cf8075", null ],
+    [ "KilledUnit", "de/d9f/a20531.html#ae267d5941357b0e17061483103a8bb4c", null ],
+    [ "RescheduleEvents", "de/d9f/a20531.html#a3ff4223b4eecab9c8b193cd5f63d8f50", null ],
+    [ "Reset", "de/d9f/a20531.html#a0d33da735deae0fb5a22c4f7d6b19fa2", null ],
+    [ "UpdateAI", "de/d9f/a20531.html#a326eb111c3d94e1bb57e9fe6e1f38c57", null ],
+    [ "_gravityAchievement", "de/d9f/a20531.html#ae6fbbb1b43017878d74597bd95d51cd4", null ],
+    [ "_hardMode", "de/d9f/a20531.html#a2882a78918439bbc63902cab0179049c", null ],
+    [ "_healthCheck", "de/d9f/a20531.html#a82eedd2b45b0a67c3677ba398c24c540", null ],
+    [ "_nerfAchievement", "de/d9f/a20531.html#a19aeed1f8e5b3fb4ac34f752e5cb647d", null ]
 ];

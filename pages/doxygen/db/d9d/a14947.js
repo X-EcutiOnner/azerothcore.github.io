@@ -1,6 +1,6 @@
 var a14947 =
 [
-    [ "HandleHeal", "db/d9d/a14947.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "db/d9d/a14947.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "db/d9d/a14947.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "FilterTargets", "db/d9d/a14947.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
+    [ "PrepareSpellScript", "db/d9d/a14947.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
+    [ "Register", "db/d9d/a14947.html#a164b8b946dc801db878603488c978adb", null ]
 ];

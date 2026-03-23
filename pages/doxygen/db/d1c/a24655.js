@@ -1,8 +1,8 @@
 var a24655 =
 [
-    [ "npc_pet_darting_hatchling", "db/d1c/a24655.html#a7ae5973061068396bf382dc21e88cd44", null ],
-    [ "SpellHit", "db/d1c/a24655.html#a29ea5438bab7e606175c02165a607f9b", null ],
-    [ "UpdateAI", "db/d1c/a24655.html#a23196d05aebe5fa4a65455c55368820a", null ],
-    [ "checkTimer", "db/d1c/a24655.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
-    [ "goFast", "db/d1c/a24655.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
+    [ "CheckProc", "db/d1c/a24655.html#afb2da9368612d8baa7dddcd8232b61c3", null ],
+    [ "HandleProc", "db/d1c/a24655.html#a43272dc56e174c36c258086685f41fbc", null ],
+    [ "PrepareAuraScript", "db/d1c/a24655.html#a3bd510824be1f2ab6864036224dceed9", null ],
+    [ "Register", "db/d1c/a24655.html#a1dbe1956639a63950d9788d55e69fc2d", null ],
+    [ "Validate", "db/d1c/a24655.html#a5f35a7963129eb22708c9e102550de82", null ]
 ];

@@ -1,6 +1,6 @@
 var a27267 =
 [
-    [ "AfterCheckProc", "da/d61/a27267.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "da/d61/a27267.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "da/d61/a27267.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "HandleKnockBack", "da/d61/a27267.html#abad9f9293260a3e99be98b43aabb321b", null ],
+    [ "PrepareSpellScript", "da/d61/a27267.html#a65787b78165631898458264e6ee310f4", null ],
+    [ "Register", "da/d61/a27267.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
 ];

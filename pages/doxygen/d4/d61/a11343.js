@@ -1,6 +1,4 @@
 var a11343 =
 [
-    [ "ChannelTargetData", "d4/d61/a11343.html#a26f2a2037750712d8718d9537603e3a1", null ],
-    [ "channelGUID", "d4/d61/a11343.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "d4/d61/a11343.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "PacketArrayMaxCapacityException", "d4/d61/a11343.html#ad71e0267bc6c9e5d182954eaa174c40e", null ]
 ];

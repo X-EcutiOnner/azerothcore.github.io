@@ -1,6 +1,5 @@
 var a08303 =
 [
-    [ "DamageMax", "dc/deb/a08303.html#afc0bd7960848f6434c182a3fadc1e256", null ],
-    [ "DamageMin", "dc/deb/a08303.html#acbab962cbc25ad032c97216feac281bb", null ],
-    [ "DamageType", "dc/deb/a08303.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
+    [ "Name", "dc/deb/a08303.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
+    [ "Title", "dc/deb/a08303.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
 ];

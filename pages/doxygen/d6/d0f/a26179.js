@@ -1,6 +1,7 @@
 var a26179 =
 [
-    [ "HandleOpenObject", "d6/d0f/a26179.html#ab658c13615fac1861470bb4b853e76a4", null ],
-    [ "PrepareSpellScript", "d6/d0f/a26179.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
-    [ "Register", "d6/d0f/a26179.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
+    [ "HandleProc", "d6/d0f/a26179.html#a19c34d190abeab629f48cbbaaa066cf8", null ],
+    [ "PrepareAuraScript", "d6/d0f/a26179.html#aaf5c649ef33b57ac964613308d3357d1", null ],
+    [ "Register", "d6/d0f/a26179.html#aed9d3ef3406aea2656b34230229241de", null ],
+    [ "Validate", "d6/d0f/a26179.html#a7f0074e18ffddba1383b01ce774ecff5", null ]
 ];

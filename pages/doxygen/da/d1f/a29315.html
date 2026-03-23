@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: ProcChanceTestHelper::PPMModifierConfig Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d3/db2/a29318.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('da/d1f/a29315.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,23 +104,103 @@ $(document).ready(function(){initNavTree('d3/db2/a29318.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">SkillRaceClassInfoEntry Member List</div></div>
+  <div class="summary">
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="../../da/d7c/a29312.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">ProcChanceTestHelper::PPMModifierConfig Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d3/db2/a29318.html">SkillRaceClassInfoEntry</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d3/db2/a29318.html#a563ba1618ffefa5470696e37f65c70d4">ClassMask</a></td><td class="entry"><a class="el" href="../../d3/db2/a29318.html">SkillRaceClassInfoEntry</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d3/db2/a29318.html#af89c32a22f018557fe016e0784a82384">Flags</a></td><td class="entry"><a class="el" href="../../d3/db2/a29318.html">SkillRaceClassInfoEntry</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d3/db2/a29318.html#acff47bf5c075d669f95b0d229674f9bc">RaceMask</a></td><td class="entry"><a class="el" href="../../d3/db2/a29318.html">SkillRaceClassInfoEntry</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d3/db2/a29318.html#ab9237a8776aa854e0f81cf228a247ef0">SkillID</a></td><td class="entry"><a class="el" href="../../d3/db2/a29318.html">SkillRaceClassInfoEntry</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d3/db2/a29318.html#ab6153043461b71336e12b00957499075">SkillTierID</a></td><td class="entry"><a class="el" href="../../d3/db2/a29318.html">SkillRaceClassInfoEntry</a></td><td class="entry"></td></tr>
-</table></div><!-- contents -->
+<p>PPM modifier configuration for testing SPELLMOD_PROC_PER_MINUTE.  
+ <a href="../../da/d1f/a29315.html#details">More...</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a781485dfaede63716eddba66971600e3"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1f/a29315.html#a781485dfaede63716eddba66971600e3">flatModifier</a> = 0.0f</td></tr>
+<tr class="separator:a781485dfaede63716eddba66971600e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf5a1e1118b0dcd155529978bdc172db"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1f/a29315.html#aaf5a1e1118b0dcd155529978bdc172db">pctModifier</a> = 1.0f</td></tr>
+<tr class="separator:aaf5a1e1118b0dcd155529978bdc172db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa80132f8b5cb980a4a703810fe3fa1a4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1f/a29315.html#aa80132f8b5cb980a4a703810fe3fa1a4">hasSpellModOwner</a> = true</td></tr>
+<tr class="separator:aa80132f8b5cb980a4a703810fe3fa1a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96607da311b5774eeaa01674d32ab22e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1f/a29315.html#a96607da311b5774eeaa01674d32ab22e">hasSpellProto</a> = true</td></tr>
+<tr class="separator:a96607da311b5774eeaa01674d32ab22e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >PPM modifier configuration for testing SPELLMOD_PROC_PER_MINUTE. </p>
+</div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a781485dfaede63716eddba66971600e3" name="a781485dfaede63716eddba66971600e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a781485dfaede63716eddba66971600e3">&#9670;&#160;</a></span>flatModifier</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float ProcChanceTestHelper::PPMModifierConfig::flatModifier = 0.0f</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00108">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="aa80132f8b5cb980a4a703810fe3fa1a4" name="aa80132f8b5cb980a4a703810fe3fa1a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa80132f8b5cb980a4a703810fe3fa1a4">&#9670;&#160;</a></span>hasSpellModOwner</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ProcChanceTestHelper::PPMModifierConfig::hasSpellModOwner = true</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00246">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a96607da311b5774eeaa01674d32ab22e" name="a96607da311b5774eeaa01674d32ab22e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96607da311b5774eeaa01674d32ab22e">&#9670;&#160;</a></span>hasSpellProto</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ProcChanceTestHelper::PPMModifierConfig::hasSpellProto = true</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00267">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="aaf5a1e1118b0dcd155529978bdc172db" name="aaf5a1e1118b0dcd155529978bdc172db"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaf5a1e1118b0dcd155529978bdc172db">&#9670;&#160;</a></span>pctModifier</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float ProcChanceTestHelper::PPMModifierConfig::pctModifier = 1.0f</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00160">TEST_F()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Mar 9 2026 21:05:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/df4/a29303.html">ProcChanceTestHelper</a></li><li class="navelem"><a class="el" href="../../da/d1f/a29315.html">PPMModifierConfig</a></li>
+    <li class="footer">Generated on Mon Mar 23 2026 21:07:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

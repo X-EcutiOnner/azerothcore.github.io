@@ -1,6 +1,7 @@
 var a12743 =
 [
-    [ "boss_shazzrahAI", "d5/dfb/a12747.html", "d5/dfb/a12747" ],
-    [ "boss_shazzrah", "d2/d7a/a12743.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
-    [ "GetAI", "d2/d7a/a12743.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
+    [ "HandlePeriodic", "d2/d7a/a12743.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "d2/d7a/a12743.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "d2/d7a/a12743.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "d2/d7a/a12743.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

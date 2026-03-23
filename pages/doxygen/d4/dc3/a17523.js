@@ -1,6 +1,6 @@
 var a17523 =
 [
-    [ "boss_prince_taldaramAI", "d5/de2/a17527.html", "d5/de2/a17527" ],
-    [ "boss_prince_taldaram_icc", "d4/dc3/a17523.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "d4/dc3/a17523.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "npc_kinetic_bombAI", "d5/de2/a17527.html", "d5/de2/a17527" ],
+    [ "npc_kinetic_bomb", "d4/dc3/a17523.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "d4/dc3/a17523.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

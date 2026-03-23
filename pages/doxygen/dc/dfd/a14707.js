@@ -1,5 +1,10 @@
 var a14707 =
 [
-    [ "MidsummerPlayerScript", "dc/dfd/a14707.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
-    [ "OnPlayerUpdateZone", "dc/dfd/a14707.html#af512e1744264ac69fe2b7f7ba3836760", null ]
+    [ "boss_headless_horseman_pumpkin", "dc/dfd/a14707.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "dc/dfd/a14707.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "dc/dfd/a14707.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "dc/dfd/a14707.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "dc/dfd/a14707.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "dc/dfd/a14707.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "dc/dfd/a14707.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

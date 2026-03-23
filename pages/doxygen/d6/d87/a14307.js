@@ -1,5 +1,6 @@
 var a14307 =
 [
-    [ "npc_brain_wash_totem", "d6/d87/a14307.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
-    [ "EnterEvadeMode", "d6/d87/a14307.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
+    [ "HandleOnHit", "d6/d87/a14307.html#a1f133ab9e85f80c225276bf744da6898", null ],
+    [ "PrepareSpellScript", "d6/d87/a14307.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
+    [ "Register", "d6/d87/a14307.html#a1063358ed71ded8454f35f43442354ab", null ]
 ];

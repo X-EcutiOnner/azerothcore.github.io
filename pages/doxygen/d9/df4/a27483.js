@@ -1,5 +1,6 @@
 var a27483 =
 [
-    [ "go_resonite_cask", "d9/df4/a27483.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
-    [ "OnGossipHello", "d9/df4/a27483.html#aae8591d53a6983886b52d404acdba293", null ]
+    [ "PrepareAuraScript", "d9/df4/a27483.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "d9/df4/a27483.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "d9/df4/a27483.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

@@ -1,9 +1,13 @@
 var a08879 =
 [
-    [ "TransportBase", "d1/d83/a08879.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
-    [ "~TransportBase", "d1/d83/a08879.html#a81dca3435a1a1666a90acd8e154e3287", null ],
-    [ "CalculatePassengerOffset", "d1/d83/a08879.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
-    [ "CalculatePassengerOffset", "d1/d83/a08879.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
-    [ "CalculatePassengerPosition", "d1/d83/a08879.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
-    [ "CalculatePassengerPosition", "d1/d83/a08879.html#a328fbc464c56eca89138380182a0108c", null ]
+    [ "BGData", "d1/d83/a08879.html#a91ccfa5183ef5996fb4bdf78567c09ba", null ],
+    [ "bgAfkReportedCount", "d1/d83/a08879.html#ab7374e7b8fc6607dd6b4f04385e80ca3", null ],
+    [ "bgAfkReportedTimer", "d1/d83/a08879.html#a51f8f4e05dc0224982af9a61d2dfae36", null ],
+    [ "bgAfkReporter", "d1/d83/a08879.html#a94047ac71676b7914e058aac8a8cb0ea", null ],
+    [ "bgInstanceID", "d1/d83/a08879.html#a8eff26fd78b5763501a3f5460de4e551", null ],
+    [ "bgIsRandom", "d1/d83/a08879.html#a6f25dd5c9dc6afcc7964a5d0b7d1444c", null ],
+    [ "bgQueueSlot", "d1/d83/a08879.html#a1c77bcf4135d994f0801558adca02f40", null ],
+    [ "bgTeamId", "d1/d83/a08879.html#ac97f7cafb6ae69a12588e40328cdc0cb", null ],
+    [ "bgTypeID", "d1/d83/a08879.html#a3398da6a15fd66cdd8dc172997d3786b", null ],
+    [ "isInvited", "d1/d83/a08879.html#a8e23a1664eedf33b2195d2d8d5b01b82", null ]
 ];

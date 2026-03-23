@@ -1,9 +1,25 @@
 var a09839 =
 [
-    [ "RectangleBoundary", "db/d3a/a09839.html#af401f84700a15fa1d4fcf78358a74735", null ],
-    [ "IsWithinBoundaryArea", "db/d3a/a09839.html#a2d6c735d080382263a401d91da37b934", null ],
-    [ "_maxX", "db/d3a/a09839.html#a3eff421dfe942634814e7526334f1c07", null ],
-    [ "_maxY", "db/d3a/a09839.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
-    [ "_minX", "db/d3a/a09839.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
-    [ "_minY", "db/d3a/a09839.html#af5a7e35d5d9ff23c722643141f01a916", null ]
+    [ "RankInfo", "db/d3a/a09839.html#a4b97f6372e87ab4061748cc58bd00096", null ],
+    [ "RankInfo", "db/d3a/a09839.html#a02c7283862334b5133f5971cee5da927", null ],
+    [ "RankInfo", "db/d3a/a09839.html#aaacf8ce1bfa6429cb5980d74f076cbd3", null ],
+    [ "CreateMissingTabsIfNeeded", "db/d3a/a09839.html#a17e8ee39681804bac73a2c699b470c37", null ],
+    [ "GetBankMoneyPerDay", "db/d3a/a09839.html#adb568b8ad70d0b42d834af5e2bf528d2", null ],
+    [ "GetBankTabRights", "db/d3a/a09839.html#a5be65cec8e2e82c027ef4062ea63c1f1", null ],
+    [ "GetBankTabSlotsPerDay", "db/d3a/a09839.html#a7cc652b0170a7f786a5a0263b4251d2d", null ],
+    [ "GetId", "db/d3a/a09839.html#a1a99822f0c886d59ac57b6eb73ff2b42", null ],
+    [ "GetName", "db/d3a/a09839.html#a3cfcabc23d610dd6130333edcd482485", null ],
+    [ "GetRights", "db/d3a/a09839.html#a59565228481689cdc073e7120a6de9f3", null ],
+    [ "LoadFromDB", "db/d3a/a09839.html#ae9f8001f2546582256b7d916d4f2b1d6", null ],
+    [ "SaveToDB", "db/d3a/a09839.html#a9fb87796b8e18ed9dd2fee53844c243f", null ],
+    [ "SetBankMoneyPerDay", "db/d3a/a09839.html#a1c553e020fe7d79564ddfc3aa74bbfae", null ],
+    [ "SetBankTabSlotsAndRights", "db/d3a/a09839.html#a9f1c622c8af7a8f7f9af027eb01b9dc6", null ],
+    [ "SetName", "db/d3a/a09839.html#a30e276b031dc1e279cfbf38aa1c9b851", null ],
+    [ "SetRights", "db/d3a/a09839.html#a8b46f3a8f91cd3a187e00d37a6ddd419", null ],
+    [ "m_bankMoneyPerDay", "db/d3a/a09839.html#a715985e1b8e8e2aa2d0b48877ae37e8f", null ],
+    [ "m_bankTabRightsAndSlots", "db/d3a/a09839.html#aeb209d1e53f55b5b48bcd00979014eb8", null ],
+    [ "m_guildId", "db/d3a/a09839.html#a86f162bdf86255f89666e20f44d114a0", null ],
+    [ "m_name", "db/d3a/a09839.html#a96281f4a307ca7657a3ba9f04c9331c3", null ],
+    [ "m_rankId", "db/d3a/a09839.html#ad7ff7ee31212be87b5cb580edef3cc16", null ],
+    [ "m_rights", "db/d3a/a09839.html#a058febd98eb3d116acbe1bc0d04a983c", null ]
 ];

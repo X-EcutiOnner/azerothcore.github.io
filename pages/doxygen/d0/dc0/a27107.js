@@ -1,8 +1,6 @@
 var a27107 =
 [
-    [ "HandleDummyTick", "d0/dc0/a27107.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "d0/dc0/a27107.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "d0/dc0/a27107.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "d0/dc0/a27107.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "d0/dc0/a27107.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "FilterTargets", "d0/dc0/a27107.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
+    [ "PrepareSpellScript", "d0/dc0/a27107.html#af41d6353088c5565b0027265c9bd4d8b", null ],
+    [ "Register", "d0/dc0/a27107.html#a95e386af9016e598e932177cb400fd8b", null ]
 ];

@@ -1,8 +1,6 @@
 var a21055 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "d9/daf/a21055.html#a63d63a0b981c278fcfadfdda1feb5a12", null ],
-    [ "DamageTaken", "d9/daf/a21055.html#ac2458922b2530929ee1adbcc0da834a0", null ],
-    [ "DoAction", "d9/daf/a21055.html#abcc42381f37256e5c5ab2a42f8ef2c29", null ],
-    [ "Reset", "d9/daf/a21055.html#af33db4e2ce1bb85e38437db6ca7982f7", null ],
-    [ "UpdateAI", "d9/daf/a21055.html#a8329bc78fc037655d48cb9bf0abd8447", null ]
+    [ "boss_erekemAI", "d9/d27/a21059.html", "d9/d27/a21059" ],
+    [ "boss_erekem", "d9/daf/a21055.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "d9/daf/a21055.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

@@ -1,8 +1,6 @@
 var a12639 =
 [
-    [ "boss_garrAI", "dc/dbc/a12639.html#a12d403a90bf4920763ddd87b252f544a", null ],
-    [ "JustEngagedWith", "dc/dbc/a12639.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
-    [ "Reset", "dc/dbc/a12639.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
-    [ "UpdateAI", "dc/dbc/a12639.html#aca82837e143f4509db221de15276b90c", null ],
-    [ "massEruptionTimer", "dc/dbc/a12639.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
+    [ "boss_flamegor", "dc/dbc/a12639.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "dc/dbc/a12639.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "dc/dbc/a12639.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

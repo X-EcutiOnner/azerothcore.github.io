@@ -1,5 +1,8 @@
 var a20703 =
 [
-    [ "npc_ulduar_flames_spreadAI", "dc/d9d/a20703.html#a607ee542f7c6d84f4072557e44a80905", null ],
-    [ "SpellHit", "dc/d9d/a20703.html#abe69df9873fc125306a4ed757665e448", null ]
+    [ "FilterTargets", "dc/d9d/a20703.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
+    [ "HandleDummyEffect", "dc/d9d/a20703.html#ab1f662fa107d176386067ffc6467d90f", null ],
+    [ "PrepareSpellScript", "dc/d9d/a20703.html#a069cc54bf009830ad781c790b4fcedad", null ],
+    [ "Register", "dc/d9d/a20703.html#ac91532151b689bde35d7120b1e9aec5b", null ],
+    [ "Validate", "dc/d9d/a20703.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
 ];

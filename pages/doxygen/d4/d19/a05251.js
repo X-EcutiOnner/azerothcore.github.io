@@ -1,7 +1,5 @@
 var a05251 =
 [
-    [ "Secret", "d4/d19/a05251.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
-    [ "GenerateToken", "d4/d19/a05251.html#a44829d44e78247991d9c3dde270cab5c", null ],
-    [ "ValidateToken", "d4/d19/a05251.html#ab6b27542814e577106ad587a5807d663", null ],
-    [ "RECOMMENDED_SECRET_LENGTH", "d4/d19/a05251.html#a885fc6c1a5bda166416f161ea202eb72", null ]
+    [ "hitModel", "d4/d19/a05251.html#a4802cb0c38ad72e7671cb77e1f3e6174", null ],
+    [ "rootId", "d4/d19/a05251.html#aa855bd49800e7a3b6713d72f0cf629d5", null ]
 ];

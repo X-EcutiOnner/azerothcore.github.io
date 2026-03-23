@@ -1,8 +1,8 @@
 var a13431 =
 [
-    [ "CalcPeriodic", "db/d09/a13431.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
-    [ "HandleDummyTick", "db/d09/a13431.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
-    [ "HandleUpdatePeriodic", "db/d09/a13431.html#a70ef86fd58eec1422bac6b61a4123842", null ],
-    [ "PrepareAuraScript", "db/d09/a13431.html#a9a97a6ab249728dbad4d3603640a7963", null ],
-    [ "Register", "db/d09/a13431.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
+    [ "npc_apothecary_baxter", "db/d09/a13431.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
+    [ "JustDied", "db/d09/a13431.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
+    [ "Reset", "db/d09/a13431.html#afee5103029bd761c48cbf6a11655c44a", null ],
+    [ "UpdateAI", "db/d09/a13431.html#ad06090f599d0fda3a88f3182c990a49f", null ],
+    [ "_scheduler", "db/d09/a13431.html#a6d813041e055f3c2b28be7cba3acde13", null ]
 ];

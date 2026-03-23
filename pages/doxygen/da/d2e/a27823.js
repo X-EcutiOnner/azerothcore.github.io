@@ -1,10 +1,9 @@
 var a27823 =
 [
-    [ "npc_air_force_botsAI", "da/d2e/a27823.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "da/d2e/a27823.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "da/d2e/a27823.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "da/d2e/a27823.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "da/d2e/a27823.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "da/d2e/a27823.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "da/d2e/a27823.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "boss_lethonAI", "da/d2e/a27823.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "da/d2e/a27823.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "da/d2e/a27823.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "da/d2e/a27823.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "da/d2e/a27823.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "da/d2e/a27823.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

@@ -1,11 +1,21 @@
 var a12167 =
 [
-    [ "boss_draganthaurissanAI", "d7/d6d/a12167.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
-    [ "JustDied", "d7/d6d/a12167.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
-    [ "JustEngagedWith", "d7/d6d/a12167.html#a00604bed2c13a7b470d950059122f018", null ],
-    [ "KilledUnit", "d7/d6d/a12167.html#acec58686917d6e5aff9a51a96b023174", null ],
-    [ "SetData", "d7/d6d/a12167.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
-    [ "UpdateAI", "d7/d6d/a12167.html#a04eaea53b78d490373f9bb911cc92596", null ],
-    [ "hasYelled", "d7/d6d/a12167.html#aef5ede4f444e85fafd30faab6043672b", null ],
-    [ "SenatorYells", "d7/d6d/a12167.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
+    [ "disable_commandscript", "d7/d6d/a12167.html#ae49c0e3ad4aa3147194478180837c07e", null ],
+    [ "GetCommands", "d7/d6d/a12167.html#a5c0400ab0321c2d181f6288fd828c56a", null ],
+    [ "HandleAddDisableAchievementCriteriaCommand", "d7/d6d/a12167.html#a52376d1885f74d00589acb3443860df9", null ],
+    [ "HandleAddDisableBattlegroundCommand", "d7/d6d/a12167.html#a8a03b1d32ebf568222d28723c48f8f78", null ],
+    [ "HandleAddDisableMapCommand", "d7/d6d/a12167.html#aea64728b1a70aab3813190c4d5df3859", null ],
+    [ "HandleAddDisableOutdoorPvPCommand", "d7/d6d/a12167.html#a3c0250b78258394e78fd918dc43f90a2", null ],
+    [ "HandleAddDisableQuestCommand", "d7/d6d/a12167.html#a94537f796e64c68df4600041e2cc0da4", null ],
+    [ "HandleAddDisables", "d7/d6d/a12167.html#aaa2d58ba9e21e868ecbdbdfac0b6ebdf", null ],
+    [ "HandleAddDisableSpellCommand", "d7/d6d/a12167.html#a23ddab0c714a5adea49d14ecde36391b", null ],
+    [ "HandleAddDisableVmapCommand", "d7/d6d/a12167.html#aa1df5e4cbc89182eb9e31b4fa9a5325f", null ],
+    [ "HandleRemoveDisableAchievementCriteriaCommand", "d7/d6d/a12167.html#ac5088383c36894c7bd753ee99086e508", null ],
+    [ "HandleRemoveDisableBattlegroundCommand", "d7/d6d/a12167.html#a9b67a979abb6cde08b4926606a35bf93", null ],
+    [ "HandleRemoveDisableMapCommand", "d7/d6d/a12167.html#ab0d61b762d728c1a35e20cda3c347c55", null ],
+    [ "HandleRemoveDisableOutdoorPvPCommand", "d7/d6d/a12167.html#a0dfe1ac5224935dd42c6a30daf6cc099", null ],
+    [ "HandleRemoveDisableQuestCommand", "d7/d6d/a12167.html#a60e20d885194bbff5da3e824e05a35b2", null ],
+    [ "HandleRemoveDisables", "d7/d6d/a12167.html#a529428b7674ca3446a441bdf65fab756", null ],
+    [ "HandleRemoveDisableSpellCommand", "d7/d6d/a12167.html#aaa457682d8621801d457eb734673d745", null ],
+    [ "HandleRemoveDisableVmapCommand", "d7/d6d/a12167.html#aae06939a2fc52aedce54a75db4b3c218", null ]
 ];

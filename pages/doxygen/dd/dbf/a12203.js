@@ -1,6 +1,11 @@
 var a12203 =
 [
-    [ "boss_hedrumAI", "d3/d0c/a12207.html", "d3/d0c/a12207" ],
-    [ "boss_hedrum", "dd/dbf/a12203.html#a655d348dec9ce9b585ea12f3629b0aa7", null ],
-    [ "GetAI", "dd/dbf/a12203.html#a7033d315852aa4905784e957679ee261", null ]
+    [ "instance_commandscript", "dd/dbf/a12203.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "dd/dbf/a12203.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "dd/dbf/a12203.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "dd/dbf/a12203.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "dd/dbf/a12203.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "dd/dbf/a12203.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "dd/dbf/a12203.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "dd/dbf/a12203.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

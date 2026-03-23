@@ -1,7 +1,8 @@
 var a26283 =
 [
-    [ "HandleKnockBack", "da/ddb/a26283.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "da/ddb/a26283.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "da/ddb/a26283.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "da/ddb/a26283.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "CheckProc", "da/ddb/a26283.html#a9895aa713e01c6322363c743049c1bc8", null ],
+    [ "HandleProc", "da/ddb/a26283.html#ab75f7630b98e266b08d0317bd852b1a9", null ],
+    [ "PrepareAuraScript", "da/ddb/a26283.html#a7a1066e9cde0a782db105ef32003274d", null ],
+    [ "Register", "da/ddb/a26283.html#aac269ad519a8c15334526629786b60b3", null ],
+    [ "Validate", "da/ddb/a26283.html#a42f67d758360e142c9434186a07c1a71", null ]
 ];

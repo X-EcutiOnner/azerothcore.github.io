@@ -1,6 +1,11 @@
 var a12527 =
 [
-    [ "boss_victor_nefariusAI", "df/dbe/a12531.html", "df/dbe/a12531" ],
-    [ "boss_victor_nefarius", "df/d5d/a12527.html#a85c529c49a0373a553bc59818fb18f49", null ],
-    [ "GetAI", "df/d5d/a12527.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
+    [ "boss_quartermaster_zigris", "df/d5d/a12527.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
+    [ "DamageTaken", "df/d5d/a12527.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
+    [ "JustDied", "df/d5d/a12527.html#a9295bbcffd7968051a789e8dfb634e23", null ],
+    [ "JustEngagedWith", "df/d5d/a12527.html#af482c06e00e7f6c15b290115998a27a9", null ],
+    [ "Reset", "df/d5d/a12527.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
+    [ "SpellHitTarget", "df/d5d/a12527.html#a38197746cc73ada1378e6e1a5555ef79", null ],
+    [ "UpdateAI", "df/d5d/a12527.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
+    [ "_hasDrunkPotion", "df/d5d/a12527.html#a25335533bc43171687e03f1ed22d4fb3", null ]
 ];

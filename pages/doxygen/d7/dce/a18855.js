@@ -1,8 +1,7 @@
 var a18855 =
 [
-    [ "npc_rotting_frost_giantAI", "d7/dce/a18855.html#a7b412075e17a81bf50aba63f96c16e53", null ],
-    [ "JustDied", "d7/dce/a18855.html#a68b4e823de82fdfd31ccf765192e8768", null ],
-    [ "Reset", "d7/dce/a18855.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
-    [ "UpdateAI", "d7/dce/a18855.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
-    [ "_events", "d7/dce/a18855.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
+    [ "npc_captain_arnathAI", "d7/dce/a18855.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d7/dce/a18855.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d7/dce/a18855.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d7/dce/a18855.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

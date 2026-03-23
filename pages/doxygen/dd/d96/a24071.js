@@ -1,7 +1,5 @@
 var a24071 =
 [
-    [ "HandleEffect", "dd/d96/a24071.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "dd/d96/a24071.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "dd/d96/a24071.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "dd/d96/a24071.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "npc_pet_dk_risen_ally", "dd/d96/a24071.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "dd/d96/a24071.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

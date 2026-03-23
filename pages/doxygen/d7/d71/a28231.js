@@ -1,7 +1,8 @@
 var a28231 =
 [
-    [ "Id", "d7/d71/a28231.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "d7/d71/a28231.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "d7/d71/a28231.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "d7/d71/a28231.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "npc_chicken_cluckAI", "da/d63/a28235.html", "da/d63/a28235" ],
+    [ "npc_chicken_cluck", "d7/d71/a28231.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d7/d71/a28231.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d7/d71/a28231.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d7/d71/a28231.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

@@ -1,5 +1,5 @@
 var a28031 =
 [
-    [ "npc_sunwell_gate", "de/dec/a28031.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "de/dec/a28031.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
+    [ "go_soulwellAI", "de/dec/a28031.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "de/dec/a28031.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

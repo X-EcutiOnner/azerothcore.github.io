@@ -1,6 +1,6 @@
 var a17427 =
 [
-    [ "npc_living_mojoAI", "d4/d43/a17431.html", "d4/d43/a17431" ],
-    [ "npc_living_mojo", "d1/d98/a17427.html#af24190023549b4ec5fa47b5959618a8a", null ],
-    [ "GetAI", "d1/d98/a17427.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
+    [ "boss_moorabiAI", "d4/d43/a17431.html", "d4/d43/a17431" ],
+    [ "boss_moorabi", "d1/d98/a17427.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "d1/d98/a17427.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

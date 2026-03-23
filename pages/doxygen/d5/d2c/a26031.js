@@ -1,7 +1,7 @@
 var a26031 =
 [
-    [ "HandleDummy", "d5/d2c/a26031.html#a02bb860f6d077d4c295ad8b82179174d", null ],
-    [ "PrepareSpellScript", "d5/d2c/a26031.html#ad9eeff5aa428dabff7f2181d2819681d", null ],
-    [ "Register", "d5/d2c/a26031.html#a2c699d4d848a01a80143d6fcc01b64a8", null ],
-    [ "Validate", "d5/d2c/a26031.html#a9fd765b2c48f11837dbeb4caeedc0ae1", null ]
+    [ "AfterRemove", "d5/d2c/a26031.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
+    [ "PrepareAuraScript", "d5/d2c/a26031.html#a13f11ec412f18d805282b3810aff5e90", null ],
+    [ "Register", "d5/d2c/a26031.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
+    [ "Validate", "d5/d2c/a26031.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
 ];

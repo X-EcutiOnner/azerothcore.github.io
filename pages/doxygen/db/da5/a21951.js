@@ -1,6 +1,6 @@
 var a21951 =
 [
-    [ "npc_future_youAI", "d3/d78/a21955.html", "d3/d78/a21955" ],
-    [ "npc_future_you", "db/da5/a21951.html#a36e363156bcb32fee468989062817bd5", null ],
-    [ "GetAI", "db/da5/a21951.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
+    [ "npc_iron_watcherAI", "d3/d78/a21955.html", "d3/d78/a21955" ],
+    [ "npc_iron_watcher", "db/da5/a21951.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "db/da5/a21951.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

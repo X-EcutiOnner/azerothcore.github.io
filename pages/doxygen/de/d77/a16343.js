@@ -1,6 +1,5 @@
 var a16343 =
 [
-    [ "boss_twilight_halionAI", "de/d2e/a16347.html", "de/d2e/a16347" ],
-    [ "boss_twilight_halion", "de/d77/a16343.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "de/d77/a16343.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "at_baltharus_plateau", "de/d77/a16343.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "de/d77/a16343.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

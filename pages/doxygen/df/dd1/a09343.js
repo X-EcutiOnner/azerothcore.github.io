@@ -1,8 +1,9 @@
 var a09343 =
 [
-    [ "PlayerListSearcher", "df/dd1/a09343.html#a82520531c26a6c9645956739538cd286", null ],
-    [ "Visit", "df/dd1/a09343.html#a5cec285c685fce6ac215ac0cde740168", null ],
-    [ "Visit", "df/dd1/a09343.html#a87980d05e12069a42baea27ee0e937d3", null ],
-    [ "i_check", "df/dd1/a09343.html#ad49658237a1e6bf54852d4fc127ea660", null ],
-    [ "i_phaseMask", "df/dd1/a09343.html#ae61e586baa621b0dbd15d453d1320091", null ]
+    [ "CellArea", "df/dd1/a09343.html#ace8ca84753b4ec8681415386fb135053", null ],
+    [ "CellArea", "df/dd1/a09343.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
+    [ "operator!", "df/dd1/a09343.html#a386d4a562c27155012daedc361541e3b", null ],
+    [ "ResizeBorders", "df/dd1/a09343.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
+    [ "high_bound", "df/dd1/a09343.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
+    [ "low_bound", "df/dd1/a09343.html#a374fe9802c798e6ece359a8025b6e1df", null ]
 ];

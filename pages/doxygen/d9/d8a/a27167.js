@@ -1,6 +1,8 @@
 var a27167 =
 [
-    [ "HandleCast", "d9/d8a/a27167.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
-    [ "PrepareSpellScript", "d9/d8a/a27167.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "d9/d8a/a27167.html#a81bc86c83ffc70602410912870e61700", null ]
+    [ "ApplyDebuff", "d9/d8a/a27167.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "d9/d8a/a27167.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "d9/d8a/a27167.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "d9/d8a/a27167.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "d9/d8a/a27167.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

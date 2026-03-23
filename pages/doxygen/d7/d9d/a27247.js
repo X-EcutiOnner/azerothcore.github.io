@@ -1,7 +1,7 @@
 var a27247 =
 [
-    [ "HandleScript", "d7/d9d/a27247.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "d7/d9d/a27247.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "d7/d9d/a27247.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "d7/d9d/a27247.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "PeriodicTick", "d7/d9d/a27247.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
+    [ "PrepareAuraScript", "d7/d9d/a27247.html#afd362a7dd0373e9480445a99023a5c8c", null ],
+    [ "Register", "d7/d9d/a27247.html#a0332788648661d5c2665c5d1431e4ca7", null ],
+    [ "Validate", "d7/d9d/a27247.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
 ];

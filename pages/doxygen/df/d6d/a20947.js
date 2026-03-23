@@ -1,6 +1,6 @@
 var a20947 =
 [
-    [ "BoomEvent", "df/d6d/a20947.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
-    [ "Execute", "df/d6d/a20947.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
-    [ "_me", "df/d6d/a20947.html#a30de77ee751f1c10231088cb84942342", null ]
+    [ "boss_ymironAI", "d8/dcb/a20951.html", "d8/dcb/a20951" ],
+    [ "boss_ymiron", "df/d6d/a20947.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
+    [ "GetAI", "df/d6d/a20947.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
 ];

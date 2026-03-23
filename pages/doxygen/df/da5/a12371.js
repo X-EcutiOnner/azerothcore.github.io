@@ -1,11 +1,14 @@
 var a12371 =
 [
-    [ "boss_solakar_flamewreathAI", "df/da5/a12371.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
-    [ "ExecuteEvent", "df/da5/a12371.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
-    [ "InitializeAI", "df/da5/a12371.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
-    [ "JustDied", "df/da5/a12371.html#aceb580afa2329ada3236dc759f3a3c20", null ],
-    [ "JustEngagedWith", "df/da5/a12371.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
-    [ "Reset", "df/da5/a12371.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
-    [ "UpdateAI", "df/da5/a12371.html#ac5f908584251455c720ce3f25ed07dae", null ],
-    [ "resetTimer", "df/da5/a12371.html#acd7fdd30767a7863f265eb96e29c221e", null ]
+    [ "boss_galvangarAI", "df/da5/a12371.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
+    [ "JustEngagedWith", "df/da5/a12371.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
+    [ "JustRespawned", "df/da5/a12371.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
+    [ "Reset", "df/da5/a12371.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
+    [ "UpdateAI", "df/da5/a12371.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
+    [ "CleaveTimer", "df/da5/a12371.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
+    [ "FrighteningShoutTimer", "df/da5/a12371.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
+    [ "MortalStrikeTimer", "df/da5/a12371.html#acbfa384508002ba9505d280c448f1f0e", null ],
+    [ "ResetTimer", "df/da5/a12371.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
+    [ "Whirlwind1Timer", "df/da5/a12371.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
+    [ "Whirlwind2Timer", "df/da5/a12371.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
 ];

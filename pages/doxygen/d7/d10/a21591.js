@@ -1,6 +1,8 @@
 var a21591 =
 [
-    [ "npc_vh_void_sentryAI", "de/d53/a21595.html", "de/d53/a21595" ],
-    [ "npc_vh_void_sentry", "d7/d10/a21591.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
-    [ "GetAI", "d7/d10/a21591.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
+    [ "AfterApply", "d7/d10/a21591.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "d7/d10/a21591.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "d7/d10/a21591.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "d7/d10/a21591.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "d7/d10/a21591.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

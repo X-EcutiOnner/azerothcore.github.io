@@ -1,8 +1,27 @@
 var a12795 =
 [
-    [ "npc_lava_spawn", "dc/df9/a12795.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "dc/df9/a12795.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "dc/df9/a12795.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "dc/df9/a12795.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "dc/df9/a12795.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "boss_ragnaros", "dc/df9/a12795.html#af00099111c9f5a722e1a6a3fe0c9f052", null ],
+    [ "AttackStart", "dc/df9/a12795.html#a89ea28d81f6d5873f6eb542beaa486cd", null ],
+    [ "CanAIAttack", "dc/df9/a12795.html#a64b8a23a0842d6d11f613936e9a5bff3", null ],
+    [ "DamageTaken", "dc/df9/a12795.html#a8bd76b12ba287b79861ccefe6e15c175", null ],
+    [ "DoAction", "dc/df9/a12795.html#a4fe9743dd23bb73cbfad3a32f19d3469", null ],
+    [ "EnterEvadeMode", "dc/df9/a12795.html#a8d0650b2bdbd594fb7e02460589e97a4", null ],
+    [ "HandleEmerge", "dc/df9/a12795.html#a2d2733ff728c4e8a0855596cb4534906", null ],
+    [ "IsVictimWithinMeleeRange", "dc/df9/a12795.html#a9fcad2eeaa0229ca36d685832bad2748", null ],
+    [ "JustDied", "dc/df9/a12795.html#a9e159bff9d94150ad6818b1a7ca00c1b", null ],
+    [ "JustEngagedWith", "dc/df9/a12795.html#af849c33822235c680660bc54385a4912", null ],
+    [ "JustSummoned", "dc/df9/a12795.html#acb284dada1043f61e24fa86b9a15a728", null ],
+    [ "KilledUnit", "dc/df9/a12795.html#a59a4cde9c85b2482d412c0b6b38a9b46", null ],
+    [ "Reset", "dc/df9/a12795.html#ad490312c1a9db13e3220b030ca62633c", null ],
+    [ "ScheduleCombatEvents", "dc/df9/a12795.html#ac8335bceae8047ac16162ad64960f628", null ],
+    [ "SetGUID", "dc/df9/a12795.html#a337e354a964addda13fefb14e6c3fa64", null ],
+    [ "SummonedCreatureDies", "dc/df9/a12795.html#ac631c586a97e16dea6f3d9ca228db6e3", null ],
+    [ "UpdateAI", "dc/df9/a12795.html#a63d8cbda79c09c5b28824198efb61044", null ],
+    [ "_hasSubmergedOnce", "dc/df9/a12795.html#a227861ee536b4b2996404965f3abd4d0", null ],
+    [ "_hasYelledMagmaBurst", "dc/df9/a12795.html#a16af36d04df40bd8e324da2ed6581d89", null ],
+    [ "_isIntroDone", "dc/df9/a12795.html#a1658a56a33d91c51582395d7d71c3291", null ],
+    [ "_isKnockbackEmoteAllowed", "dc/df9/a12795.html#a187a798c94fcc62083db337d58c626c2", null ],
+    [ "_lavaBurstGUIDS", "dc/df9/a12795.html#a9f54ebd102b2cef602ebc87e08a84f2a", null ],
+    [ "_processingMagmaBurst", "dc/df9/a12795.html#a87ae4e57c8a771ec091dc5c015396060", null ],
+    [ "extraEvents", "dc/df9/a12795.html#a0bd3c10d05c15fe817aa4250f5c811ac", null ]
 ];

@@ -1,6 +1,6 @@
 var a15351 =
 [
-    [ "FilterTargets", "d4/db6/a15351.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
-    [ "PrepareSpellScript", "d4/db6/a15351.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
-    [ "Register", "d4/db6/a15351.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
+    [ "HandleDamageCalc", "d4/db6/a15351.html#a03eb92eff300872cd5fca452a99375ab", null ],
+    [ "PrepareSpellScript", "d4/db6/a15351.html#ac07421b62bb6044dad89431839a70bd8", null ],
+    [ "Register", "d4/db6/a15351.html#a70cbf764ab475e2358fa6630798cab9d", null ]
 ];

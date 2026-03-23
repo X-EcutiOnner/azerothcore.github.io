@@ -1,8 +1,10 @@
 var a24619 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "dd/db4/a24619.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "dd/db4/a24619.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "dd/db4/a24619.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "dd/db4/a24619.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "dd/db4/a24619.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "CheckProc", "dd/db4/a24619.html#a1afbc5f8e86e0382be43c947e88306b3", null ],
+    [ "HandleProc", "dd/db4/a24619.html#a9fbfe3fba6283362bab181fcd15611b3", null ],
+    [ "PrepareAuraScript", "dd/db4/a24619.html#aa060ed89bc5e3c80d6402c8e79baa597", null ],
+    [ "Register", "dd/db4/a24619.html#a43cc9387ce5b1665147dcfecb1476c22", null ],
+    [ "Validate", "dd/db4/a24619.html#ad167a260f9a3d1f71a5a11b0bab6161c", null ],
+    [ "_lunarProcCooldownEnd", "dd/db4/a24619.html#a9fd6d9c34dba5cb302010df4d5c560c2", null ],
+    [ "_solarProcCooldownEnd", "dd/db4/a24619.html#a6f50d14abee53eb06f50edbcc78628c4", null ]
 ];

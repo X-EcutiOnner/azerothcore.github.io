@@ -1,8 +1,15 @@
 var a21151 =
 [
-    [ "FilterTargets", "dd/d65/a21151.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "dd/d65/a21151.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "dd/d65/a21151.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "dd/d65/a21151.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "dd/d65/a21151.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "npc_vh_teleportation_portalAI", "dd/d65/a21151.html#a9d062de34e4fbc8ccc487a633efa038d", null ],
+    [ "JustDied", "dd/d65/a21151.html#aab2cc259d78492c54e21b4279697f909", null ],
+    [ "JustSummoned", "dd/d65/a21151.html#a029b105ef6f92455c41e064aeb0fd5f6", null ],
+    [ "SummonedMobDied", "dd/d65/a21151.html#ae6b5b15aeee2f7b02d5c54dd8d09aa51", null ],
+    [ "UpdateAI", "dd/d65/a21151.html#a812e330e20924cc34262363ecc0a3fc1", null ],
+    [ "addValue", "dd/d65/a21151.html#aa52f29a41d12320516737b437af62fc3", null ],
+    [ "bKorG", "dd/d65/a21151.html#ad96efd06ebb1902cc30deb22e62d7873", null ],
+    [ "events", "dd/d65/a21151.html#a329635246e80e7264cad6749ee70be40", null ],
+    [ "listOfMobs", "dd/d65/a21151.html#a470a61cf7d424711b07770fd56c74b29", null ],
+    [ "pInstance", "dd/d65/a21151.html#a10ebe705c55d898bfea2af104ce7f86e", null ],
+    [ "spawned", "dd/d65/a21151.html#a8921c314c2f4b958e11136504971f427", null ],
+    [ "wave", "dd/d65/a21151.html#a4dd689e6445e18c3e9883bc471fecdde", null ]
 ];

@@ -1,5 +1,7 @@
 var a10359 =
 [
-    [ "GenericCreatureScript", "d8/de0/a10359.html#a52157430320e253a5897612623eb796c", null ],
-    [ "GetAI", "d8/de0/a10359.html#a9e8eb28ece41af0c4159710c6eb51395", null ]
+    [ "CommonInitializer", "d8/de0/a10359.html#ab472ff63e0178a3414630f743d4de906", null ],
+    [ "operator()", "d8/de0/a10359.html#aba4cce84b89416f54a0a25b1702a322c", null ],
+    [ "_time", "d8/de0/a10359.html#a483d83836ccbe90a842c09f7d4906436", null ],
+    [ "velocityInv", "d8/de0/a10359.html#ac2f731afc2aae338bb8b1b616b0a39c1", null ]
 ];

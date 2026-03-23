@@ -1,4 +1,4 @@
 var a01010 =
 [
-    [ "ScriptRegistry< AllCreatureScript >", "d0/d2b/a01010.html#a1fdf1f4f0e165d771b9e1e9064529256", null ]
+    [ "ScriptRegistry< InstanceMapScript >", "d0/d2b/a01010.html#a1271f70bb9300f8012216659f38edaee", null ]
 ];

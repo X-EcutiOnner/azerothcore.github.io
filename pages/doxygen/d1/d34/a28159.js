@@ -1,9 +1,12 @@
 var a28159 =
 [
-    [ "itemId", "d1/d34/a28159.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "d1/d34/a28159.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "d1/d34/a28159.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "d1/d34/a28159.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "d1/d34/a28159.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "d1/d34/a28159.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "npc_preciousAI", "d1/d34/a28159.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
+    [ "FlagForDespawn", "d1/d34/a28159.html#a934a5147c1cc9937189011fb061657da", null ],
+    [ "InitializeAI", "d1/d34/a28159.html#aa15843c4029f2df2ee04d21b5157602a", null ],
+    [ "JustEngagedWith", "d1/d34/a28159.html#a58bc4149111605850f070a77ee776313", null ],
+    [ "JustReachedHome", "d1/d34/a28159.html#a31893e9441b24398554370a58ef8bd78", null ],
+    [ "Reset", "d1/d34/a28159.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
+    [ "UpdateAI", "d1/d34/a28159.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
+    [ "events", "d1/d34/a28159.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
+    [ "flaggedForDespawn", "d1/d34/a28159.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
 ];

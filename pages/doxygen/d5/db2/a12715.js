@@ -1,7 +1,7 @@
 var a12715 =
 [
-    [ "HandleHit", "d5/db2/a12715.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
-    [ "Load", "d5/db2/a12715.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
-    [ "PrepareSpellScript", "d5/db2/a12715.html#a9fb8d980381264a2ef645f2e620abd21", null ],
-    [ "Register", "d5/db2/a12715.html#a4998015873f0e0ca768c20b0f95fda90", null ]
+    [ "HandleEffectScriptEffect", "d5/db2/a12715.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "d5/db2/a12715.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "d5/db2/a12715.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "d5/db2/a12715.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

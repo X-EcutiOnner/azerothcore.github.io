@@ -1,9 +1,8 @@
 var a10527 =
 [
-    [ "ServerPacket", "dd/db3/a10527.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
-    [ "Clear", "dd/db3/a10527.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
-    [ "GetOpcode", "dd/db3/a10527.html#a639ab6c078d7c746bcb328526df705be", null ],
-    [ "Move", "dd/db3/a10527.html#a659397042201ae571bb564872e54d2c6", null ],
-    [ "Read", "dd/db3/a10527.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
-    [ "ShrinkToFit", "dd/db3/a10527.html#a6fa19a94d57484aaff3498be01495258", null ]
+    [ "AllCommandScript", "dd/db3/a10527.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "dd/db3/a10527.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "dd/db3/a10527.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "dd/db3/a10527.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "dd/db3/a10527.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

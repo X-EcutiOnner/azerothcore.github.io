@@ -1,8 +1,6 @@
 var a10295 =
 [
-    [ "AllCommandScript", "da/d85/a10295.html#a7ff235b904eecdd4d02d2025c4078980", null ],
-    [ "IsDatabaseBound", "da/d85/a10295.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
-    [ "OnBeforeIsInvokerVisible", "da/d85/a10295.html#a6f85dc271c1b61244978aa4474e708b0", null ],
-    [ "OnHandleDevCommand", "da/d85/a10295.html#aba983f0e052ece230617573f04a35c92", null ],
-    [ "OnTryExecuteCommand", "da/d85/a10295.html#a3a116836453073e77bbd8ab974f36f47", null ]
+    [ "AssistanceDistractMovementGenerator", "da/d85/a10295.html#ae472d28ebb4624855632ac7f0bd7b219", null ],
+    [ "Finalize", "da/d85/a10295.html#a1511f74a52e5ad92471e554eb77c235a", null ],
+    [ "GetMovementGeneratorType", "da/d85/a10295.html#a233eb9333ea365955589932ddbd18d8a", null ]
 ];

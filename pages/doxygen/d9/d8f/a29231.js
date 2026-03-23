@@ -1,7 +1,9 @@
 var a29231 =
 [
-    [ "MPQArchive", "d1/daa/a28250.html", "d1/daa/a28250" ],
-    [ "MPQFile", "d2/de2/a28254.html", "d2/de2/a28254" ],
-    [ "ArchiveSet", "d9/d8f/a29231.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d9/d8f/a29231.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "flags", "d9/d8f/a29231.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "d9/d8f/a29231.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "d9/d8f/a29231.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "d9/d8f/a29231.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "d9/d8f/a29231.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "d9/d8f/a29231.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

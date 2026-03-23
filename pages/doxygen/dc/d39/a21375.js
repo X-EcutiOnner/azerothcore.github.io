@@ -1,6 +1,6 @@
 var a21375 =
 [
-    [ "boss_skadi_graufAI", "d5/d3e/a21379.html", "d5/d3e/a21379" ],
-    [ "boss_skadi_grauf", "dc/d39/a21375.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "dc/d39/a21375.html#a9b637a93a572d21691b81b80ec45206d", null ]
+    [ "npc_mei_francis_mountAI", "d5/d3e/a21379.html", "d5/d3e/a21379" ],
+    [ "npc_mei_francis_mount", "dc/d39/a21375.html#ab34facb1d4d9a542710340493488eaa8", null ],
+    [ "GetAI", "dc/d39/a21375.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
 ];

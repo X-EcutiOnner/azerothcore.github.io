@@ -1,10 +1,10 @@
 var a24351 =
 [
-    [ "npc_maxx_a_million_escortAI", "d2/daf/a24351.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "d2/daf/a24351.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "d2/daf/a24351.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "d2/daf/a24351.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "d2/daf/a24351.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "bTake", "d2/daf/a24351.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "d2/daf/a24351.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "HandleEffectRemove", "d2/daf/a24351.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
+    [ "HandleImprovedBloodPresence", "d2/daf/a24351.html#a020c0ae1f74856ae070ab2104232a079", null ],
+    [ "HandleImprovedFrostPresence", "d2/daf/a24351.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
+    [ "HandleImprovedUnholyPresence", "d2/daf/a24351.html#a5da86bb3686327787da5f46fc756f0a0", null ],
+    [ "PrepareAuraScript", "d2/daf/a24351.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
+    [ "Register", "d2/daf/a24351.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
+    [ "Validate", "d2/daf/a24351.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
 ];

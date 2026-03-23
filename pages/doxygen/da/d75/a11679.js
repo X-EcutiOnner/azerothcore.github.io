@@ -1,6 +1,7 @@
 var a11679 =
 [
-    [ "FieldGuidType", "da/d75/a11679.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
-    [ "FieldName", "da/d75/a11679.html#a669f1ecf12148799e59e7b3e3124d681", null ],
-    [ "IsDependentField", "da/d75/a11679.html#a241b9e8f5672e30732f0b938b02046d4", null ]
+    [ "DiminishDurationLimit", "da/d75/a11679.html#a18e94b40a8746c854b2fcca37ceb14f6", null ],
+    [ "DiminishGroup", "da/d75/a11679.html#ad48e4fbc6984602d0196accea51867de", null ],
+    [ "DiminishMaxLevel", "da/d75/a11679.html#a4b04f3f569b5b73d2f8a9eda429c3f5d", null ],
+    [ "DiminishReturnType", "da/d75/a11679.html#a64a6fc19521245f1145ab6c769175803", null ]
 ];

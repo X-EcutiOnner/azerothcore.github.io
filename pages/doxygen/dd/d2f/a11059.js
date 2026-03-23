@@ -1,4 +1,7 @@
 var a11059 =
 [
-    [ "Validate", "dd/d2f/a11059.html#a33ba7592ac6571144fc3a7385dbc49f0", null ]
+    [ "GuildBankLogQueryResults", "dd/d2f/a11059.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "dd/d2f/a11059.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "dd/d2f/a11059.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "dd/d2f/a11059.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

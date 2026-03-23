@@ -1,6 +1,6 @@
 var a26903 =
 [
-    [ "HandleAfterCast", "d6/dab/a26903.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d6/dab/a26903.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d6/dab/a26903.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleDummy", "d6/dab/a26903.html#abac8aa528d6d83748cf4cdbdaa8313f6", null ],
+    [ "PrepareSpellScript", "d6/dab/a26903.html#ae80dda98f66c1fbaa37741ffd52a1108", null ],
+    [ "Register", "d6/dab/a26903.html#a90fbc5d1b22cbc59550a430a63c08032", null ]
 ];

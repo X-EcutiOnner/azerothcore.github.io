@@ -1,6 +1,6 @@
 var a24083 =
 [
-    [ "lapseTeleport", "db/d45/a24083.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "db/d45/a24083.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "db/d45/a24083.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "HandleDamageCalc", "db/d45/a24083.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
+    [ "PrepareSpellScript", "db/d45/a24083.html#a183477b6269dbc705a10e60ab36c13b1", null ],
+    [ "Register", "db/d45/a24083.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
 ];

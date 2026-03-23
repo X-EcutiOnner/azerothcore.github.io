@@ -1,7 +1,8 @@
 var a09791 =
 [
-    [ "LootView", "d6/d8b/a09791.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
-    [ "loot", "d6/d8b/a09791.html#ac95fa4805c79923b292e8984b00de929", null ],
-    [ "permission", "d6/d8b/a09791.html#a33d7eeebd6fbc854300275a4138d9030", null ],
-    [ "viewer", "d6/d8b/a09791.html#af9a6926c6c871dee245f876038e49995", null ]
+    [ "flags", "d6/d8b/a09791.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "d6/d8b/a09791.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "d6/d8b/a09791.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "d6/d8b/a09791.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "d6/d8b/a09791.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

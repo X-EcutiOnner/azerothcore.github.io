@@ -1,6 +1,7 @@
 var a26891 =
 [
-    [ "CheckCast", "d1/daf/a26891.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "d1/daf/a26891.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "d1/daf/a26891.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "HandleScriptEffect", "d1/daf/a26891.html#ae7bfcdf3306fe4c8532649ff7e892c57", null ],
+    [ "PrepareSpellScript", "d1/daf/a26891.html#ad2bfab00a973366af32388e40b9d2566", null ],
+    [ "Register", "d1/daf/a26891.html#acbf74d85d9d8ce8e9ce0546c90cb7efa", null ],
+    [ "Validate", "d1/daf/a26891.html#a487fa0e6b5f2682349b22737ceeae50c", null ]
 ];

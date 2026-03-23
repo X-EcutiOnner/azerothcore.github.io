@@ -1,10 +1,9 @@
 var a11931 =
 [
-    [ "lfg_commandscript", "d8/da5/a11931.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "d8/da5/a11931.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "d8/da5/a11931.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgGroupInfoCommand", "d8/da5/a11931.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "d8/da5/a11931.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "d8/da5/a11931.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "d8/da5/a11931.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "CreatureTextLocalizer", "d8/da5/a11931.html#a799f1007b9977224d71da1451c3454e1", null ],
+    [ "~CreatureTextLocalizer", "d8/da5/a11931.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
+    [ "operator()", "d8/da5/a11931.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
+    [ "_builder", "d8/da5/a11931.html#a1d8d97d3e423810d044a8155b182899d", null ],
+    [ "_msgType", "d8/da5/a11931.html#adf9260955b0141e85ff47c66350244e2", null ],
+    [ "_packetCache", "d8/da5/a11931.html#a660b352a1c1855f4b10a8aebef88133f", null ]
 ];

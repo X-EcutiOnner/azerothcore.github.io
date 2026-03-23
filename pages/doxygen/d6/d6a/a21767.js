@@ -1,7 +1,8 @@
 var a21767 =
 [
-    [ "npc_mootoo_the_youngerAI", "d6/d6a/a21767.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d6/d6a/a21767.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d6/d6a/a21767.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d6/d6a/a21767.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_llod_genericAI", "d6/d6a/a21767.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d6/d6a/a21767.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d6/d6a/a21767.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d6/d6a/a21767.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d6/d6a/a21767.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

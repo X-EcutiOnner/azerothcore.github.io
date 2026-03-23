@@ -1,11 +1,11 @@
 var a10871 =
 [
-    [ "DestroyItem", "d8/d9a/a10871.html#a581e8c0f5f580e812bc0988e35786ee2", null ],
-    [ "Read", "d8/d9a/a10871.html#a9f7fa7614db176262437478b4d92e9f9", null ],
-    [ "Bag", "d8/d9a/a10871.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6", null ],
-    [ "Count", "d8/d9a/a10871.html#af18875aa85f12191a47d97380f459c45", null ],
-    [ "Data1", "d8/d9a/a10871.html#a34fa30122f101e15de6252c289b82680", null ],
-    [ "Data2", "d8/d9a/a10871.html#a227470a5932383e0ab7b9a369dfb3445", null ],
-    [ "Data3", "d8/d9a/a10871.html#a019a891e4906ce9dafef6e276d635df7", null ],
-    [ "Slot", "d8/d9a/a10871.html#af8274f1ded5565dc0f79e28948825ea2", null ]
+    [ "BackgroundColor", "d8/d9a/a10871.html#abab86dd497de86088873178bf1d54b5b", null ],
+    [ "BorderColor", "d8/d9a/a10871.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
+    [ "BorderStyle", "d8/d9a/a10871.html#acd5105c31e0f56e680f3384e86186872", null ],
+    [ "EmblemColor", "d8/d9a/a10871.html#a2e8a4768292d3566bb61009056a8a230", null ],
+    [ "EmblemStyle", "d8/d9a/a10871.html#aa6309467f9f09725a8698de864b4e63c", null ],
+    [ "GuildName", "d8/d9a/a10871.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
+    [ "RankCount", "d8/d9a/a10871.html#acddb77850a86348df197afc724c4eaa0", null ],
+    [ "Ranks", "d8/d9a/a10871.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
 ];

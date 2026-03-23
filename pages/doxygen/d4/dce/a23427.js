@@ -1,7 +1,9 @@
 var a23427 =
 [
-    [ "HandleEffectApply", "d4/dce/a23427.html#a3893fffea480b47d06c4903deb051aa9", null ],
-    [ "HandleEffectRemove", "d4/dce/a23427.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
-    [ "PrepareAuraScript", "d4/dce/a23427.html#a246c20ab26d1490fe38afd558a7ae406", null ],
-    [ "Register", "d4/dce/a23427.html#aea639a3ae0f003c6213143427f3b1d23", null ]
+    [ "boss_dalliah_the_doomsayer", "d4/dce/a23427.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "d4/dce/a23427.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "d4/dce/a23427.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "d4/dce/a23427.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "d4/dce/a23427.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "d4/dce/a23427.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

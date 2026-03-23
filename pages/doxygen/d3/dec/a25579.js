@@ -1,6 +1,6 @@
 var a25579 =
 [
-    [ "OnProc", "d3/dec/a25579.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "d3/dec/a25579.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "d3/dec/a25579.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "HandleScriptEffect", "d3/dec/a25579.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
+    [ "PrepareSpellScript", "d3/dec/a25579.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
+    [ "Register", "d3/dec/a25579.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
 ];

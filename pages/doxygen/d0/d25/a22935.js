@@ -1,7 +1,5 @@
 var a22935 =
 [
-    [ "HandleProc", "d0/d25/a22935.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "d0/d25/a22935.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "d0/d25/a22935.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "d0/d25/a22935.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "go_strange_pool", "d0/d25/a22935.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "d0/d25/a22935.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

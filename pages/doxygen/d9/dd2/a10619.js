@@ -1,7 +1,17 @@
 var a10619 =
 [
-    [ "ChatServerMessage", "d9/dd2/a10619.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
-    [ "Write", "d9/dd2/a10619.html#af8bad4d39693290674bda2e2ad8685bf", null ],
-    [ "MessageID", "d9/dd2/a10619.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
-    [ "StringParam", "d9/dd2/a10619.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
+    [ "GameObjectScript", "d9/dd2/a10619.html#a9d9cf73435a16d7fef450134c03980bb", null ],
+    [ "GetAI", "d9/dd2/a10619.html#a05492473fa28c0f7c80770aa3445ce4e", null ],
+    [ "GetDialogStatus", "d9/dd2/a10619.html#ac526fbe66b9b1e9edca51f9fd20a40b9", null ],
+    [ "IsDatabaseBound", "d9/dd2/a10619.html#a020e07dfd6e99b55bf5c8e56cfdd3948", null ],
+    [ "OnDamaged", "d9/dd2/a10619.html#a2fb7d0f8f01ce083643bc0cb810fc612", null ],
+    [ "OnDestroyed", "d9/dd2/a10619.html#a042676e98453494ab49bb90216755052", null ],
+    [ "OnGameObjectStateChanged", "d9/dd2/a10619.html#a4992d88f026bf906852f085db4e8768e", null ],
+    [ "OnGossipHello", "d9/dd2/a10619.html#a58b56fc92ae87aea0530eceba1f3088d", null ],
+    [ "OnGossipSelect", "d9/dd2/a10619.html#a612884c70eed9c56958ab49dc1e2bb1f", null ],
+    [ "OnGossipSelectCode", "d9/dd2/a10619.html#ac9c9feb4d08ea0e5ad202ada205a9772", null ],
+    [ "OnLootStateChanged", "d9/dd2/a10619.html#ab93c178f2137e92da28665d28bfec1d5", null ],
+    [ "OnModifyHealth", "d9/dd2/a10619.html#a1ff457beae2b6249a9d3ecd08fd1b5a4", null ],
+    [ "OnQuestAccept", "d9/dd2/a10619.html#afd22217feca39340d68b9c7fd6c1caa8", null ],
+    [ "OnQuestReward", "d9/dd2/a10619.html#a233712ff412081583a8295cf512da48d", null ]
 ];

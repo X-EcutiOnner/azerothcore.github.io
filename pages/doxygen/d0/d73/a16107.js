@@ -1,6 +1,7 @@
 var a16107 =
 [
-    [ "PrepareSpellScript", "d0/d73/a16107.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
-    [ "Register", "d0/d73/a16107.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
-    [ "SetDest", "d0/d73/a16107.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
+    [ "npc_ahnkahar_nerubian", "d0/d73/a16107.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d0/d73/a16107.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d0/d73/a16107.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d0/d73/a16107.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

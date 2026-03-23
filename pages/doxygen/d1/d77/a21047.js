@@ -1,6 +1,6 @@
 var a21047 =
 [
-    [ "boss_yoggsaron_death_orbAI", "d1/d77/a21047.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
-    [ "UpdateAI", "d1/d77/a21047.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
-    [ "_startTimer", "d1/d77/a21047.html#aebc8edef5f84219e1c50f2394d129443", null ]
+    [ "boss_cyanigosaAI", "d2/d70/a21051.html", "d2/d70/a21051" ],
+    [ "boss_cyanigosa", "d1/d77/a21047.html#a4db12e2fb873ad3595a437df09663a22", null ],
+    [ "GetAI", "d1/d77/a21047.html#a779c7c3a5f0002501361fa92fe14af69", null ]
 ];

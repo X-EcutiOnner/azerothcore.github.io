@@ -1,6 +1,7 @@
 var a27487 =
 [
-    [ "go_tadpole_cageAI", "dc/de2/a27491.html", "dc/de2/a27491" ],
-    [ "go_tadpole_cage", "d9/de2/a27487.html#a1a9acacd0ebff33d402018d4205e415b", null ],
-    [ "GetAI", "d9/de2/a27487.html#a38990dc5edd725623b6c35dba7802612", null ]
+    [ "CalculateAmount", "d9/de2/a27487.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "d9/de2/a27487.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "d9/de2/a27487.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "d9/de2/a27487.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

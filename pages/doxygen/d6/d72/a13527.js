@@ -1,7 +1,6 @@
 var a13527 =
 [
-    [ "HandleScript", "d6/d72/a13527.html#aae2f572a523431f6764f08e4719adbcf", null ],
-    [ "PrepareSpellScript", "d6/d72/a13527.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
-    [ "Register", "d6/d72/a13527.html#ae3b002197564318cc92242bd925d35af", null ],
-    [ "Validate", "d6/d72/a13527.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
+    [ "HandleActivateObject", "d6/d72/a13527.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
+    [ "PrepareSpellScript", "d6/d72/a13527.html#ad55914fdc6771e09a508572d59ad30ed", null ],
+    [ "Register", "d6/d72/a13527.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
 ];

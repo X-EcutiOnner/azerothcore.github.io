@@ -1,6 +1,7 @@
 var dir_432bda28dad7986d3a1dc3010dcbb57c =
 [
     [ "Battlegrounds", "dir_d68c8764f6b69d1180b66c35742ddf05.html", "dir_d68c8764f6b69d1180b66c35742ddf05" ],
+    [ "Combat", "dir_43e7897c178d93c6d8680fe95b52aac8.html", "dir_43e7897c178d93c6d8680fe95b52aac8" ],
     [ "Commands", "dir_3bf2c71940346ae5daa53b7ea4ecf20c.html", "dir_3bf2c71940346ae5daa53b7ea4ecf20c" ],
     [ "Entities", "dir_aeb07b430c02e2e2c16696076a308f05.html", "dir_aeb07b430c02e2e2c16696076a308f05" ],
     [ "Events", "dir_3291cceaca648ebc4ba25acfe38eae5c.html", "dir_3291cceaca648ebc4ba25acfe38eae5c" ],

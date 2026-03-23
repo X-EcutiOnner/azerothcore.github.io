@@ -1,14 +1,8 @@
 var a15563 =
 [
-    [ "npc_draenei_survivorAI", "de/d71/a15563.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
-    [ "JustEngagedWith", "de/d71/a15563.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
-    [ "MoveInLineOfSight", "de/d71/a15563.html#a2b3f0a595fde04ad1e054331a596e225", null ],
-    [ "Reset", "de/d71/a15563.html#a3db19a846ce3b4810321eb02d314633f", null ],
-    [ "SpellHit", "de/d71/a15563.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
-    [ "UpdateAI", "de/d71/a15563.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
-    [ "CanSayHelp", "de/d71/a15563.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
-    [ "pCaster", "de/d71/a15563.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
-    [ "RunAwayTimer", "de/d71/a15563.html#a233885b12615bfbc927d8845d0cff3fd", null ],
-    [ "SayHelpTimer", "de/d71/a15563.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
-    [ "SayThanksTimer", "de/d71/a15563.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
+    [ "npc_obsidian_eradicator", "de/d71/a15563.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "de/d71/a15563.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "de/d71/a15563.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "de/d71/a15563.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "de/d71/a15563.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

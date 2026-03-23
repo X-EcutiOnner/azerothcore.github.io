@@ -1,5 +1,9 @@
 var a21219 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "da/dc7/a21219.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "da/dc7/a21219.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "npc_azure_sorcerorAI", "da/dc7/a21219.html#a474a7144908d4820341dc56f77436b90", null ],
+    [ "Reset", "da/dc7/a21219.html#a4c637288f79e1da4bdace6516cd887b1", null ],
+    [ "UpdateAI", "da/dc7/a21219.html#a928d789e2cbd35b228857a23c4204ea1", null ],
+    [ "uiArcaneStreamTimer", "da/dc7/a21219.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
+    [ "uiArcaneStreamTimerStartingValueHolder", "da/dc7/a21219.html#af044879e8e064e28a491c87d0c6cde74", null ],
+    [ "uiManaDetonationTimer", "da/dc7/a21219.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
 ];

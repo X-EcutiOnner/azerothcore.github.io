@@ -1,7 +1,7 @@
 var a11231 =
 [
-    [ "MapSessionFilter", "d0/dd6/a11231.html#ad11a700c36f8f45640402e96edc74b49", null ],
-    [ "~MapSessionFilter", "d0/dd6/a11231.html#a82960e741c8f64d24a764a915f14e2b8", null ],
-    [ "Process", "d0/dd6/a11231.html#a54483596fe2a5a0d30fab9a13506b375", null ],
-    [ "ProcessUnsafe", "d0/dd6/a11231.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
+    [ "MinimapPingClient", "d0/dd6/a11231.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
+    [ "Read", "d0/dd6/a11231.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
+    [ "MapX", "d0/dd6/a11231.html#ad4ff3977c260035145d6acd00429d81e", null ],
+    [ "MapY", "d0/dd6/a11231.html#abd8640cb98238f339218c3b945885c97", null ]
 ];

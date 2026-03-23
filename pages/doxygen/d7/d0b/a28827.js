@@ -1,9 +1,8 @@
 var a28827 =
 [
-    [ "flags", "d7/d0b/a28827.html#a064de2e88c563121bbb78549a7bab868", null ],
-    [ "_flags", "d7/d0b/a28827.html#a16f1b30a57eb6703e8073ef55d988391", null ],
-    [ "bits", "d7/d0b/a28827.html#a529f1856635132646457c57f3546f4ec", null ],
-    [ "configKey", "d7/d0b/a28827.html#af14d118016b9e01612769c00f13aa2d6", null ],
-    [ "oldKey", "d7/d0b/a28827.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
-    [ "owner", "d7/d0b/a28827.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
+    [ "DamagedDisplayId", "d7/d0b/a28827.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
+    [ "DestroyedDisplayId", "d7/d0b/a28827.html#afc891df0c9491a34f784e8f141434be5", null ],
+    [ "Id", "d7/d0b/a28827.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
+    [ "RebuildingDisplayId", "d7/d0b/a28827.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
+    [ "SmokeDisplayId", "d7/d0b/a28827.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
 ];

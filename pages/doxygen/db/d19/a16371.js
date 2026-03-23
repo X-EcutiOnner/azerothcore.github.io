@@ -1,8 +1,17 @@
 var a16371 =
 [
-    [ "OnApply", "db/d19/a16371.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "db/d19/a16371.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "db/d19/a16371.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "db/d19/a16371.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "db/d19/a16371.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "boss_halionAI", "db/d19/a16371.html#a24d41b904ec24029887869622fbce0eb", null ],
+    [ "AttackStart", "db/d19/a16371.html#acad91c2b1e7e02f9662cc3342f272ae7", null ],
+    [ "CanAIAttack", "db/d19/a16371.html#ad15cd8d44cd1779f45cacb38caa08fe2", null ],
+    [ "DamageTaken", "db/d19/a16371.html#a911c636113639690bb6304e2f6d55499", null ],
+    [ "EnterEvadeMode", "db/d19/a16371.html#a20e451a26914adcee83e5fb77155c59d", null ],
+    [ "IsAnyPlayerValid", "db/d19/a16371.html#a6681f94156a46c75960038ed1ed80543", null ],
+    [ "JustDied", "db/d19/a16371.html#a483fbaf88780d0714ffaa47bea00cc5f", null ],
+    [ "JustEngagedWith", "db/d19/a16371.html#a16f121b5c7f3f924dc0c11adb53ff79a", null ],
+    [ "JustSummoned", "db/d19/a16371.html#a4fdf03de55fdd35ff849a82704ce7a3c", null ],
+    [ "KilledUnit", "db/d19/a16371.html#ac45ac7ceb0b761e90deeffcea364ceea", null ],
+    [ "Reset", "db/d19/a16371.html#aa8c06f8a1642534efb14941d9c0d9f14", null ],
+    [ "UpdateAI", "db/d19/a16371.html#abe0faa976bb1b14102b940fac9526e5b", null ],
+    [ "_events2", "db/d19/a16371.html#a677448e015db869b718e15b6809586cc", null ],
+    [ "_livingEmberCount", "db/d19/a16371.html#af6af6482467f3a08fbe1c65f3b2b1552", null ]
 ];

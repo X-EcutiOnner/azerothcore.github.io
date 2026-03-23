@@ -1,9 +1,6 @@
 var a11807 =
 [
-    [ "map", "d0/dd1/a11807.html#a274c6d61203c24b3c680055244e1f590", null ],
-    [ "mouth", "d0/dd1/a11807.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
-    [ "mouthGuid", "d0/dd1/a11807.html#a2245c14e379c83bdd47165e829de2e41", null ],
-    [ "necropolisCount", "d0/dd1/a11807.html#aec44e315616920ba8224be8c4831f5e9", null ],
-    [ "remainingNecropoli", "d0/dd1/a11807.html#a3c18c61fcd44c32f9e0009479db85399", null ],
-    [ "zoneId", "d0/dd1/a11807.html#a98e1490705f74627cf9e5483857f3f25", null ]
+    [ "ObjectAreaTargetSelectHandler", "d0/dd1/a11807.html#a89b86436bb1de38223165e7ef60f2b61", null ],
+    [ "Call", "d0/dd1/a11807.html#a11d2070610d178006231bac274d1f311", null ],
+    [ "pObjectAreaTargetSelectHandlerScript", "d0/dd1/a11807.html#a118ca963c6319802806913762c4d1fec", null ]
 ];

@@ -1,7 +1,7 @@
 var a09751 =
 [
-    [ "LootGroupInvalidSelector", "d0/d67/a09751.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "d0/d67/a09751.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "d0/d67/a09751.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "d0/d67/a09751.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "ObjectGUIDCheck", "d0/d67/a09751.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
+    [ "operator()", "d0/d67/a09751.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
+    [ "_equals", "d0/d67/a09751.html#a413d991eeee0294a54f3c803e296c3ac", null ],
+    [ "_GUID", "d0/d67/a09751.html#a0e97bfe0e160177549a831df8e9b4555", null ]
 ];

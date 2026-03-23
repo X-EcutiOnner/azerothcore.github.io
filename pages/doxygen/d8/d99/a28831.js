@@ -1,13 +1,8 @@
 var a28831 =
 [
-    [ "Secret", "d7/db0/a28835.html", "d7/db0/a28835" ],
-    [ "SecretMgr", "d8/d99/a28831.html#a28ee0858a14656d7fc464eb604b127b7", null ],
-    [ "~SecretMgr", "d8/d99/a28831.html#ae6f15def262312b17456583b4e548d99", null ],
-    [ "SecretMgr", "d8/d99/a28831.html#ab48b891b84f116dc5efffe0a10a82f79", null ],
-    [ "AttemptLoad", "d8/d99/a28831.html#a65c2fd304c0f851f81cd80037deac8fb", null ],
-    [ "AttemptTransition", "d8/d99/a28831.html#a4b6cbe75e50ec3e4765fdb9e965ee84f", null ],
-    [ "GetSecret", "d8/d99/a28831.html#aff0b6ca546a62a3d6e7da52c3a2752bd", null ],
-    [ "Initialize", "d8/d99/a28831.html#a929de7b687d7c6bb91ef35306134ebac", null ],
-    [ "instance", "d8/d99/a28831.html#a27e237503dc523367fa94bd28a289d97", null ],
-    [ "_secrets", "d8/d99/a28831.html#a143bb8b3855a9f28df72abc9cfc94f3c", null ]
+    [ "difficulty", "d8/d99/a28831.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "d8/d99/a28831.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "d8/d99/a28831.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "d8/d99/a28831.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "d8/d99/a28831.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

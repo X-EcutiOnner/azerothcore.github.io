@@ -1,8 +1,8 @@
 var a09039 =
 [
-    [ "target_mapId", "df/ddb/a09039.html#af6d7558707c026a6d64f2d7b65a344be", null ],
-    [ "target_Orientation", "df/ddb/a09039.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
-    [ "target_X", "df/ddb/a09039.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
-    [ "target_Y", "df/ddb/a09039.html#a6660d360eaa47098506f246927130e32", null ],
-    [ "target_Z", "df/ddb/a09039.html#a32fee5f497804089feb738be84548dc1", null ]
+    [ "RedirectSpellEvent", "df/ddb/a09039.html#a77d243d64c2fc651d71c42e10a315161", null ],
+    [ "Execute", "df/ddb/a09039.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
+    [ "_auraEffect", "df/ddb/a09039.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
+    [ "_auraOwnerGUID", "df/ddb/a09039.html#a1b3fb598748362379fef15b3172d8e2b", null ],
+    [ "_self", "df/ddb/a09039.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
 ];

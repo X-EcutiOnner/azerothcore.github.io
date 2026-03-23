@@ -1,6 +1,10 @@
 var a20435 =
 [
-    [ "npc_ulduar_hodir_mageAI", "de/dad/a20439.html", "de/dad/a20439" ],
-    [ "npc_ulduar_hodir_mage", "d2/dd4/a20435.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
-    [ "GetAI", "d2/dd4/a20435.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
+    [ "npc_ulduar_harpoonfirestate", "d2/dd4/a20435.html#a2456fbee16367a524f26873da99247e8", null ],
+    [ "GetData", "d2/dd4/a20435.html#a83ba5a0cc62ba15cf671d49fccf75f7d", null ],
+    [ "GetHarpoonGunIdForThisHFS", "d2/dd4/a20435.html#ae8e0613e67ee4e17157a05910c1551c8", null ],
+    [ "Reset", "d2/dd4/a20435.html#aba0f9525ef9e3eddbc4a78164c2f8ffd", null ],
+    [ "SetData", "d2/dd4/a20435.html#a338c6cb2be0e05726f372344fdc2b436", null ],
+    [ "pInstance", "d2/dd4/a20435.html#aee0914001b38be87976cd44b6bbaf276", null ],
+    [ "repairPoints", "d2/dd4/a20435.html#a64bf7ba3b4930eb141b66075b772e64d", null ]
 ];

@@ -1,12 +1,7 @@
 var a14327 =
 [
-    [ "npc_chained_spirit", "d7/d92/a14327.html#a5f407e700a2086f971bed0e8c0def0db", null ],
-    [ "DoAction", "d7/d92/a14327.html#a7205ef13ca0d164a9222c049bc582254", null ],
-    [ "JustDied", "d7/d92/a14327.html#a3b405503231173e7ff7aa52e34f63da5", null ],
-    [ "MovementInform", "d7/d92/a14327.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
-    [ "Reset", "d7/d92/a14327.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
-    [ "SetGUID", "d7/d92/a14327.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
-    [ "UpdateAI", "d7/d92/a14327.html#a38d14b69c71bf2902a916028580fbfad", null ],
-    [ "instance", "d7/d92/a14327.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
-    [ "revivePlayerGUID", "d7/d92/a14327.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
+    [ "HandleScriptEffect", "d7/d92/a14327.html#ace68732d578fbaeb2b209bfded88853a", null ],
+    [ "PrepareSpellScript", "d7/d92/a14327.html#a42a69995e8f527a383e96e2ead832f72", null ],
+    [ "Register", "d7/d92/a14327.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
+    [ "Validate", "d7/d92/a14327.html#a7697caf8e5390d290b353fb6a291aa10", null ]
 ];

@@ -1,7 +1,10 @@
 var a28227 =
 [
-    [ "EpicPropertiesPoints", "d9/d9b/a28227.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "d9/d9b/a28227.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "d9/d9b/a28227.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "d9/d9b/a28227.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "npc_air_force_botsAI", "d9/d9b/a28227.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d9/d9b/a28227.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d9/d9b/a28227.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d9/d9b/a28227.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d9/d9b/a28227.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d9/d9b/a28227.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d9/d9b/a28227.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

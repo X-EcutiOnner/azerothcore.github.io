@@ -1,6 +1,6 @@
 var a16231 =
 [
-    [ "boss_sartharion_shadronAI", "db/d09/a16235.html", "db/d09/a16235" ],
-    [ "boss_sartharion_shadron", "d2/d7e/a16231.html#ac297719abff8c795af10973492fc6fbe", null ],
-    [ "GetAI", "d2/d7e/a16231.html#a95c7184ee7589f01920adc57a7df963b", null ]
+    [ "boss_krik_thirAI", "db/d09/a16235.html", "db/d09/a16235" ],
+    [ "boss_krik_thir", "d2/d7e/a16231.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
+    [ "GetAI", "d2/d7e/a16231.html#a10e582440092d5c6558c2a11d60907aa", null ]
 ];

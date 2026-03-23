@@ -1,6 +1,7 @@
 var a10615 =
 [
-    [ "EmoteClient", "d4/d7b/a10615.html#af98c098cb1019057d8027f39c168e1a9", null ],
-    [ "Read", "d4/d7b/a10615.html#abad5fca865b7b99e595ce95137e8105c", null ],
-    [ "EmoteID", "d4/d7b/a10615.html#a24503de36535106220984ffbf6ba0338", null ]
+    [ "GameEventScript", "d4/d7b/a10615.html#ac43a9c70638ad56b69b5841ee8410374", null ],
+    [ "OnEventCheck", "d4/d7b/a10615.html#aadab9593da561e9b19202d09b53cba36", null ],
+    [ "OnStart", "d4/d7b/a10615.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
+    [ "OnStop", "d4/d7b/a10615.html#a4813f26f03e5ba79a740bf30558e604c", null ]
 ];

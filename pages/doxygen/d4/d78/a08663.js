@@ -1,7 +1,7 @@
 var a08663 =
 [
-    [ "ItemPosCount", "d4/d78/a08663.html#a43458da1fc31d827b6de726754f7901e", null ],
-    [ "isContainedIn", "d4/d78/a08663.html#a6977c544a2d39ca5872b75f27517974f", null ],
-    [ "count", "d4/d78/a08663.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
-    [ "pos", "d4/d78/a08663.html#ad8954f1a6323316510cfe0f332ee495f", null ]
+    [ "AddToGrid", "d4/d78/a08663.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
+    [ "IsInGrid", "d4/d78/a08663.html#a996724d21d62e478f50031faa7637cd5", null ],
+    [ "RemoveFromGrid", "d4/d78/a08663.html#a29740a98fea7db66cdffd824940a2ec2", null ],
+    [ "_gridRef", "d4/d78/a08663.html#aa44ba47734267ac07b733f218623f3c5", null ]
 ];

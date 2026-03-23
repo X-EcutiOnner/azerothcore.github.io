@@ -1,7 +1,5 @@
 var a07991 =
 [
-    [ "RBEntryInfo", "dc/d3a/a07991.html#aa720dd6cae9ee7163bb9b84918249644", null ],
-    [ "RBEntryInfo", "dc/d3a/a07991.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
-    [ "comment", "dc/d3a/a07991.html#a7284eac7208dba21a52b79257aad7dbc", null ],
-    [ "roles", "dc/d3a/a07991.html#ab891dec65b0070ede1233080eadd0190", null ]
+    [ "IsColorValid", "dc/d3a/a07991.html#a5b13574c40a78f28d15e6b11bc7bd5bc", null ],
+    [ "IsTextValid", "dc/d3a/a07991.html#a1c9a027ff1f355b16fe629b7c4af7b98", null ]
 ];

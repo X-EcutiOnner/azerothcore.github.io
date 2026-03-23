@@ -1,8 +1,14 @@
 var a08127 =
 [
-    [ "bounding_radius", "d9/d7a/a08127.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
-    [ "combat_reach", "d9/d7a/a08127.html#ac271edb10093db19e4df1396053f820d", null ],
-    [ "gender", "d9/d7a/a08127.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
-    [ "is_trigger", "d9/d7a/a08127.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
-    [ "modelid_other_gender", "d9/d7a/a08127.html#a222b3c513a64b385954ea549e67f4255", null ]
+    [ "ThreatListIterator", "d9/d7a/a08127.html#a6fd3aa74e738a871fc79292789fe8002", null ],
+    [ "operator!=", "d9/d7a/a08127.html#ab048192b55edc518d7e88a16ef3fe75c", null ],
+    [ "operator!=", "d9/d7a/a08127.html#adfa9c371d231a572a2ea728163e34614", null ],
+    [ "operator*", "d9/d7a/a08127.html#a4d45ae04b885844bd84fc8ba13316991", null ],
+    [ "operator++", "d9/d7a/a08127.html#aff62dfcc3d94c8355a42693ab1b97774", null ],
+    [ "operator->", "d9/d7a/a08127.html#a78606724fb7081a2e3e579f0ce71a43f", null ],
+    [ "operator==", "d9/d7a/a08127.html#ac6f2a13304c433d61d1b69bb6d649347", null ],
+    [ "operator==", "d9/d7a/a08127.html#a95c5850a5ce04c18451df6c610814fc3", null ],
+    [ "_current", "d9/d7a/a08127.html#a8f3e33ae4fb15668fbf5d562bfa793d7", null ],
+    [ "_generator", "d9/d7a/a08127.html#ab777887451473dfe77f428d40f8359ba", null ],
+    [ "ThreatManager", "d9/d7a/a08127.html#a974a09cd8ac71d4298b01f019ef7e63b", null ]
 ];

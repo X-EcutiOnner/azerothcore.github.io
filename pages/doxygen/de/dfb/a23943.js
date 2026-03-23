@@ -1,13 +1,13 @@
 var a23943 =
 [
-    [ "boss_wrath_scryer_soccothrates", "de/dfb/a23943.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "de/dfb/a23943.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "de/dfb/a23943.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "de/dfb/a23943.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "de/dfb/a23943.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "de/dfb/a23943.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "de/dfb/a23943.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "de/dfb/a23943.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "de/dfb/a23943.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "de/dfb/a23943.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "npc_illidari_spawnAI", "de/dfb/a23943.html#a704c1d3e07d028b04e2bddee37039941", null ],
+    [ "JustDied", "de/dfb/a23943.html#a27277d90d4a58a89386a39f4affbaee8", null ],
+    [ "JustEngagedWith", "de/dfb/a23943.html#add4ea6366614e9fb86e85613bfb910ba", null ],
+    [ "Reset", "de/dfb/a23943.html#a5347858d5da4f0718479b1d702125366", null ],
+    [ "UpdateAI", "de/dfb/a23943.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
+    [ "LordIllidanGUID", "de/dfb/a23943.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
+    [ "SpellTimer1", "de/dfb/a23943.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
+    [ "SpellTimer2", "de/dfb/a23943.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
+    [ "SpellTimer3", "de/dfb/a23943.html#a9889f9673292613dc46387862f3e8849", null ],
+    [ "Timers", "de/dfb/a23943.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
 ];

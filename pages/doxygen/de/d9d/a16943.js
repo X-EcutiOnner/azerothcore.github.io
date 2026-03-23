@@ -1,6 +1,6 @@
 var a16943 =
 [
-    [ "HandleEffectApply", "de/d9d/a16943.html#aaea2c3733dadc19072c81774468e345a", null ],
-    [ "PrepareAuraScript", "de/d9d/a16943.html#a3848997e9f775add50d40342b6211ff0", null ],
-    [ "Register", "de/d9d/a16943.html#a775b1cf494049ed13d149ca6318142c3", null ]
+    [ "npc_announcer_toc10", "de/d9d/a16943.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "de/d9d/a16943.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "de/d9d/a16943.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

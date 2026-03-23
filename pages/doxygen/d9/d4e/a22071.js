@@ -1,6 +1,7 @@
 var a22071 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "da/d67/a22075.html", "da/d67/a22075" ],
-    [ "npc_commander_eligor_dawnbringer", "d9/d4e/a22071.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "d9/d4e/a22071.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "npc_wg_demolisher_engineer", "d9/d4e/a22071.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d9/d4e/a22071.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d9/d4e/a22071.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d9/d4e/a22071.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

@@ -1,6 +1,7 @@
 var a12683 =
 [
-    [ "boss_lucifronAI", "df/d39/a12687.html", "df/d39/a12687" ],
-    [ "boss_lucifron", "d7/d81/a12683.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
-    [ "GetAI", "d7/d81/a12683.html#a885366d4190bbc77dc696ee6910435ed", null ]
+    [ "HandleDummy", "d7/d81/a12683.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "d7/d81/a12683.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "d7/d81/a12683.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "d7/d81/a12683.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

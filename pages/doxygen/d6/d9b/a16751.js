@@ -1,7 +1,8 @@
 var a16751 =
 [
-    [ "npc_toc_enh_shamanAI", "d6/d9b/a16751.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "d6/d9b/a16751.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "d6/d9b/a16751.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "d6/d9b/a16751.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_toc_boomkinAI", "d6/d9b/a16751.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "d6/d9b/a16751.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "d6/d9b/a16751.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "d6/d9b/a16751.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "d6/d9b/a16751.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

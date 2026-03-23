@@ -1,6 +1,5 @@
 var a14795 =
 [
-    [ "HandleDummy", "df/db4/a14795.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "df/db4/a14795.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "df/db4/a14795.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "PrepareSpellScript", "df/db4/a14795.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
+    [ "Register", "df/db4/a14795.html#a06111bf70ee53fee6e90284f8d92642e", null ]
 ];

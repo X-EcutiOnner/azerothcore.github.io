@@ -1,11 +1,12 @@
 var a10635 =
 [
-    [ "BackgroundColor", "d5/dfe/a10635.html#abab86dd497de86088873178bf1d54b5b", null ],
-    [ "BorderColor", "d5/dfe/a10635.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
-    [ "BorderStyle", "d5/dfe/a10635.html#acd5105c31e0f56e680f3384e86186872", null ],
-    [ "EmblemColor", "d5/dfe/a10635.html#a2e8a4768292d3566bb61009056a8a230", null ],
-    [ "EmblemStyle", "d5/dfe/a10635.html#aa6309467f9f09725a8698de864b4e63c", null ],
-    [ "GuildName", "d5/dfe/a10635.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
-    [ "RankCount", "d5/dfe/a10635.html#acddb77850a86348df197afc724c4eaa0", null ],
-    [ "Ranks", "d5/dfe/a10635.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
+    [ "GroupScript", "d5/dfe/a10635.html#a0680f82522424afc364e9b94e1c6f686", null ],
+    [ "CanGroupJoinBattlegroundQueue", "d5/dfe/a10635.html#a931b4a94a2f95958579b37c0af6ece03", null ],
+    [ "IsDatabaseBound", "d5/dfe/a10635.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
+    [ "OnAddMember", "d5/dfe/a10635.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
+    [ "OnChangeLeader", "d5/dfe/a10635.html#a64a1441fd3db3f25236691efcff4a80b", null ],
+    [ "OnCreate", "d5/dfe/a10635.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
+    [ "OnDisband", "d5/dfe/a10635.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
+    [ "OnInviteMember", "d5/dfe/a10635.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
+    [ "OnRemoveMember", "d5/dfe/a10635.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
 ];

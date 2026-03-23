@@ -1,7 +1,8 @@
 var a21179 =
 [
-    [ "HandleEffectCalcPeriodic", "d3/d9e/a21179.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "d3/d9e/a21179.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "d3/d9e/a21179.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "d3/d9e/a21179.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "npc_azure_mage_slayerAI", "d3/d9e/a21179.html#af1a57574d70a48b16d70d8a056f54018", null ],
+    [ "Reset", "d3/d9e/a21179.html#aabe921f0d4fd147c457779791a7af619", null ],
+    [ "UpdateAI", "d3/d9e/a21179.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
+    [ "uiArcaneEmpowermentTimer", "d3/d9e/a21179.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
+    [ "uiSpellLockTimer", "d3/d9e/a21179.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
 ];

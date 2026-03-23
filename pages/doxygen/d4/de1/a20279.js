@@ -1,6 +1,5 @@
 var a20279 =
 [
-    [ "boss_freya_lifebinderAI", "d6/d77/a20283.html", "d6/d77/a20283" ],
-    [ "boss_freya_lifebinder", "d4/de1/a20279.html#ad7a3bc09aacf35b4a6a39e65c966b824", null ],
-    [ "GetAI", "d4/de1/a20279.html#a978e4472a080f0fc53848abaa305cd77", null ]
+    [ "achievement_ignis_shattered", "d4/de1/a20279.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "d4/de1/a20279.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

@@ -1,7 +1,7 @@
 var a25507 =
 [
-    [ "ModDest", "d3/dd0/a25507.html#afe0fb68de61a657ce6900e71973e4d77", null ],
-    [ "ModifyCookingSkill", "d3/dd0/a25507.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
-    [ "PrepareSpellScript", "d3/dd0/a25507.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
-    [ "Register", "d3/dd0/a25507.html#a6919079b43a816eb601a68c51ad39794", null ]
+    [ "CalcPeriodic", "d3/dd0/a25507.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "d3/dd0/a25507.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "d3/dd0/a25507.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "d3/dd0/a25507.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

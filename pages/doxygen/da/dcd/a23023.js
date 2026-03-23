@@ -1,7 +1,6 @@
 var a23023 =
 [
-    [ "HandleDummy", "da/dcd/a23023.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
-    [ "PrepareSpellScript", "da/dcd/a23023.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
-    [ "Register", "da/dcd/a23023.html#af5926d8570de13e66aa1870184620b94", null ],
-    [ "Validate", "da/dcd/a23023.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
+    [ "HandleScript", "da/dcd/a23023.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "da/dcd/a23023.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "da/dcd/a23023.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

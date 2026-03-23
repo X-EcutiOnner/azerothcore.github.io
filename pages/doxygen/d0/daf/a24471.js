@@ -1,6 +1,7 @@
 var a24471 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "dd/d21/a24475.html", "dd/d21/a24475" ],
-    [ "npc_shadowmoon_tuber_node", "d0/daf/a24471.html#a98e8c7a84789457900fa342cca209d41", null ],
-    [ "GetAI", "d0/daf/a24471.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
+    [ "CalculateAmount", "d0/daf/a24471.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
+    [ "CheckProc", "d0/daf/a24471.html#a2f80dcd9e5922af55dee096c95079062", null ],
+    [ "PrepareAuraScript", "d0/daf/a24471.html#af54ef254d0897140255960146507e986", null ],
+    [ "Register", "d0/daf/a24471.html#ad6e4bd4390f6f88494984af792a11b90", null ]
 ];

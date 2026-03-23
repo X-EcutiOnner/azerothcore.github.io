@@ -1,7 +1,5 @@
 var a04976 =
 [
-    [ "asio", "d5/df8/a04978.html", "d5/df8/a04978" ],
-    [ "filesystem", "db/dd9/a05012.html", null ],
-    [ "posix_time", "d7/d01/a04977.html", null ],
-    [ "system", "d7/d59/a05065.html", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d8/dbe/a04976.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MverMagic", "d8/dbe/a04976.html#a076cdc3e61f69e52913492840fc864cf", null ]
 ];

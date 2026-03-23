@@ -1,6 +1,12 @@
 var a23135 =
 [
-    [ "boss_essence_of_desireAI", "d0/d7c/a23139.html", "d0/d7c/a23139" ],
-    [ "boss_essence_of_desire", "d8/d93/a23135.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d8/d93/a23135.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "boss_swamplord_muselek", "d8/d93/a23135.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
+    [ "AttackStart", "d8/d93/a23135.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
+    [ "CanShootVictim", "d8/d93/a23135.html#af84af5e4b344fc5f5da9f2047519710a", null ],
+    [ "JustDied", "d8/d93/a23135.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
+    [ "JustEngagedWith", "d8/d93/a23135.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
+    [ "KilledUnit", "d8/d93/a23135.html#a9f2afd6aacb9befa956079a42fbace37", null ],
+    [ "Reset", "d8/d93/a23135.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
+    [ "_canChase", "d8/d93/a23135.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
+    [ "_markTarget", "d8/d93/a23135.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
 ];

@@ -1,10 +1,6 @@
 var a16623 =
 [
-    [ "npc_nerubian_burrowerAI", "de/dea/a16623.html#a7673709e7b16a6573d9c7392ba556313", null ],
-    [ "CanAIAttack", "de/dea/a16623.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
-    [ "JustDied", "de/dea/a16623.html#ab5182ad65187c472b306e2177530d7b6", null ],
-    [ "Reset", "de/dea/a16623.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
-    [ "SpellHitTarget", "de/dea/a16623.html#a64fa2c8276f7418542190e833dd72c51", null ],
-    [ "UpdateAI", "de/dea/a16623.html#abd2c7333625ded502a00848b09ee9a40", null ],
-    [ "events", "de/dea/a16623.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
+    [ "HideNpcEvent", "de/dea/a16623.html#ab454295aab0f5d4586740140232e96eb", null ],
+    [ "Execute", "de/dea/a16623.html#aecfbbbcac3fd98675913a6381c891a59", null ],
+    [ "_owner", "de/dea/a16623.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
 ];

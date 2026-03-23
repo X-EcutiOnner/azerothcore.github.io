@@ -1,5 +1,5 @@
 var a04730 =
 [
-    [ "disable_commandscript", "d2/d8d/a12113.html", "d2/d8d/a12113" ],
-    [ "AddSC_disable_commandscript", "db/d62/a04730.html#a232e1ddbf34ceae5a317df69255bc8de", null ]
+    [ "server_commandscript", "d3/d34/a12311.html", "d3/d34/a12311" ],
+    [ "AddSC_server_commandscript", "db/d62/a04730.html#aaa97392c09b5045a6040d75b224bdf22", null ]
 ];

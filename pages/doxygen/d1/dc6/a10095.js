@@ -1,26 +1,10 @@
 var a10095 =
 [
-    [ "FollowMovementGenerator", "d1/dc6/a10095.html#a10862b6835b11afe858eb78601a36f3a", null ],
-    [ "~FollowMovementGenerator", "d1/dc6/a10095.html#ada41372b5aaf8f87eb4efde96285421c", null ],
-    [ "_addUnitStateMove", "d1/dc6/a10095.html#a4680693a31c182e3972146f8818cc8dd", null ],
-    [ "_clearUnitStateMove", "d1/dc6/a10095.html#af0502f1e5b249aa20df98f4bb3b2e101", null ],
-    [ "DoFinalize", "d1/dc6/a10095.html#ac19610399e3ee4d581b1439956d928e7", null ],
-    [ "DoInitialize", "d1/dc6/a10095.html#ae5c336754ea7dd54a828760f5032bb98", null ],
-    [ "DoReset", "d1/dc6/a10095.html#a54bd9ddddcd7c3496d2d644407bc3ef9", null ],
-    [ "DoUpdate", "d1/dc6/a10095.html#acc35c63291f2d84051ac69bb5d32effb", null ],
-    [ "GetFollowRange", "d1/dc6/a10095.html#a5f9146811663795288ae52f05018384d", null ],
-    [ "GetMovementGeneratorType", "d1/dc6/a10095.html#aaf0860a5a14b59e8b45f9cfa29f34387", null ],
-    [ "GetTarget", "d1/dc6/a10095.html#a5f6f17ce892636cdaa652b0bebc42760", null ],
-    [ "MovementInform", "d1/dc6/a10095.html#af25ca8590054d8e69f2aaf65cd388606", null ],
-    [ "PositionOkay", "d1/dc6/a10095.html#a1ee2956b66e3f6bda623e60a54fa0594", null ],
-    [ "unitSpeedChanged", "d1/dc6/a10095.html#af28a24a9ee622dbc42a9705b9e44d172", null ],
-    [ "_angle", "d1/dc6/a10095.html#aba650091163aa7a072af72aa59ea9a2e", null ],
-    [ "_inheritSpeed", "d1/dc6/a10095.html#aaa26846c0c92081d642107d9cd595496", null ],
-    [ "_inheritWalkState", "d1/dc6/a10095.html#a54eb84d8f0c696db3cc7941c8ef9807b", null ],
-    [ "_lastPredictedPosition", "d1/dc6/a10095.html#afa5e1acb94fb1e3ce7854533f6e3d2ac", null ],
-    [ "_lastTargetPosition", "d1/dc6/a10095.html#a8f73424b130a8d99a15b276f23af9211", null ],
-    [ "_range", "d1/dc6/a10095.html#a18250f2a1915424157693be6ac1047e3", null ],
-    [ "i_path", "d1/dc6/a10095.html#a7b835c0ee56046fc28c3664f22a32dd8", null ],
-    [ "i_recheckPredictedDistance", "d1/dc6/a10095.html#ab48307cc97a09d8aed0ecaeab95f6bf6", null ],
-    [ "i_recheckPredictedDistanceTimer", "d1/dc6/a10095.html#ae38b7818fd26d19cf01ef74866b29a01", null ]
+    [ "ZoneDynamicInfo", "d1/dc6/a10095.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
+    [ "DefaultWeather", "d1/dc6/a10095.html#a8c2c7772596ec58413bee2077e46790f", null ],
+    [ "LightFadeInTime", "d1/dc6/a10095.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
+    [ "MusicId", "d1/dc6/a10095.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
+    [ "OverrideLightId", "d1/dc6/a10095.html#a0d43acd5539d3449b7c36ee88518346e", null ],
+    [ "WeatherGrade", "d1/dc6/a10095.html#a923c3231c49554addd1522f0ccc50e2d", null ],
+    [ "WeatherId", "d1/dc6/a10095.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
 ];

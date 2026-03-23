@@ -1,6 +1,7 @@
 var a12903 =
 [
-    [ "FilterTargets", "d4/d85/a12903.html#adae7a812a222a60f9c89cac4ea327011", null ],
-    [ "PrepareSpellScript", "d4/d85/a12903.html#a9576a48a3aa761c103f72586cd93970c", null ],
-    [ "Register", "d4/d85/a12903.html#aaadad68c322eac268ea7a45f9c369c59", null ]
+    [ "boss_maiden_of_virtue", "d4/d85/a12903.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "d4/d85/a12903.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "d4/d85/a12903.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "d4/d85/a12903.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

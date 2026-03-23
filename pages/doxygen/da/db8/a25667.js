@@ -1,8 +1,10 @@
 var a25667 =
 [
-    [ "CheckProc", "da/db8/a25667.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
-    [ "HandleProc", "da/db8/a25667.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
-    [ "PrepareAuraScript", "da/db8/a25667.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
-    [ "Register", "da/db8/a25667.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
-    [ "Validate", "da/db8/a25667.html#a7762ce25775b98dba14b4ac465cad711", null ]
+    [ "spell_item_defibrillate", "da/db8/a25667.html#ab64fdd36fc646ca0bcb2010380199ede", null ],
+    [ "HandleScript", "da/db8/a25667.html#a7abbc5b8e5c5231d5c6809c45b815b69", null ],
+    [ "PrepareSpellScript", "da/db8/a25667.html#a6a7ad6c9bb9bee3b093bd06b1b259468", null ],
+    [ "Register", "da/db8/a25667.html#ad2faa26a2874f68e8e419e59cafbf10b", null ],
+    [ "Validate", "da/db8/a25667.html#ad871a6bef7ba074f32abe1bf062dffe1", null ],
+    [ "_chance", "da/db8/a25667.html#a680092f30ebc6b322e5d01a1100b308c", null ],
+    [ "_failSpell", "da/db8/a25667.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b", null ]
 ];

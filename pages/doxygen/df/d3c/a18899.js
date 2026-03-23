@@ -1,6 +1,5 @@
 var a18899 =
 [
-    [ "npc_captain_brandonAI", "df/d3c/a18899.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "df/d3c/a18899.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "df/d3c/a18899.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_alchemist_adrianna", "df/d3c/a18899.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "df/d3c/a18899.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

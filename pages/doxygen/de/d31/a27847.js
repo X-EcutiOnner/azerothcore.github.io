@@ -1,18 +1,15 @@
 var a27847 =
 [
-    [ "npc_doctorAI", "de/d31/a27847.html#a8efc303041393347eaaf38aff05f7b9c", null ],
-    [ "BeginEvent", "de/d31/a27847.html#a1439b4eb147700ca493dc5eaa1e2d5a4", null ],
-    [ "JustEngagedWith", "de/d31/a27847.html#aca786ccf8cf99d7ba49a08046147f121", null ],
-    [ "PatientDied", "de/d31/a27847.html#ad3e2a36e774d2dbd2a6779d8fb19ea88", null ],
-    [ "PatientSaved", "de/d31/a27847.html#af8a61f187f6bd57b98d8bf4c8c45e494", null ],
-    [ "Reset", "de/d31/a27847.html#af2d84b163d41b1b32e191200f54085c2", null ],
-    [ "UpdateAI", "de/d31/a27847.html#abe156e2303a9c743fa66b4f82808c707", null ],
-    [ "Coordinates", "de/d31/a27847.html#acda1ada9d7868bfd93ceaaa39f82731b", null ],
-    [ "Event", "de/d31/a27847.html#ad558d5c0a5fe07904445e893c09be980", null ],
-    [ "PatientDiedCount", "de/d31/a27847.html#a0774874d9d75feb8d8bf6ce201e719d9", null ],
-    [ "Patients", "de/d31/a27847.html#a75cd1e01322c09204ffe54cd92ad9543", null ],
-    [ "PatientSavedCount", "de/d31/a27847.html#abeda2ee514c6ed1544a7e27955fc86b8", null ],
-    [ "PlayerGUID", "de/d31/a27847.html#a97e2b2bd8a750817f23c51d36c49ae1c", null ],
-    [ "SummonPatientCount", "de/d31/a27847.html#a320c2e32c5003e880f7567c89db8ca8c", null ],
-    [ "SummonPatientTimer", "de/d31/a27847.html#adb9cd2ed50dd02f88c4f375a0be8ee89", null ]
+    [ "boss_taerarAI", "de/d31/a27847.html#a69171fba79d49d12a2e96fb5c2baa0aa", null ],
+    [ "DamageTaken", "de/d31/a27847.html#a08babc3ca2cd76891b9c0e196e461c79", null ],
+    [ "ExecuteEvent", "de/d31/a27847.html#a89750136787d549ac4c744a0e3b9239c", null ],
+    [ "JustDied", "de/d31/a27847.html#add2712022edbd88504de2dd147a098a0", null ],
+    [ "JustEngagedWith", "de/d31/a27847.html#adf280483e6fd7f01d14472973c021a91", null ],
+    [ "Reset", "de/d31/a27847.html#a74a53b7c4672bcba1cc4f69407c23c42", null ],
+    [ "SummonedCreatureDies", "de/d31/a27847.html#a35557d97df6d83c9fafead3f59e1af2e", null ],
+    [ "UpdateAI", "de/d31/a27847.html#a406213e6b3a1397c0026d5dc857f08a9", null ],
+    [ "_banished", "de/d31/a27847.html#a8ee658a07f28df0c5f46cedac25f68ab", null ],
+    [ "_banishedTimer", "de/d31/a27847.html#a6b7bd08d3e4362201ee904019f9e6b51", null ],
+    [ "_shades", "de/d31/a27847.html#a6e77285330fcd09fd13ef0d029e2a554", null ],
+    [ "_stage", "de/d31/a27847.html#a2d49f2ce95d16cfc1b9525256f0a6bc2", null ]
 ];

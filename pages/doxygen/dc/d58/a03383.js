@@ -1,8 +1,14 @@
 var a03383 =
 [
-    [ "instance_arcatraz", "dd/d70/a23705.html", "dd/d70/a23705" ],
-    [ "instance_arcatraz::instance_arcatraz_InstanceMapScript", "d9/de4/a23709.html", "d9/de4/a23709" ],
-    [ "AddSC_instance_arcatraz", "dc/d58/a03383.html#a80dfeb7f0ba2aa2c6cde3f26e3c50be4", null ],
-    [ "creatureData", "dc/d58/a03383.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "dc/d58/a03383.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "DataHeader", "dc/d58/a03383.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "MTScriptName", "dc/d58/a03383.html#a772413d8818d681e2261c99f58e1268c", null ],
+    [ "RegisterManaTombsCreatureAI", "dc/d58/a03383.html#a7e2e8ea768842320ce5d953aeaddb176", null ],
+    [ "MTDataTypes", "dc/d58/a03383.html#a9ffea4a6410ded9f327ba6e91f8766ee", [
+      [ "DATA_PANDEMONIUS", "dc/d58/a03383.html#a9ffea4a6410ded9f327ba6e91f8766eeab1efde1b4aaad2daab0c383563a9f02a", null ],
+      [ "DATA_TAVAROK", "dc/d58/a03383.html#a9ffea4a6410ded9f327ba6e91f8766eea9245929feb24a0840eeff34e8c87de57", null ],
+      [ "DATA_NEXUSPRINCE_SHAFFAR", "dc/d58/a03383.html#a9ffea4a6410ded9f327ba6e91f8766eea07473250c26fb3874461362f93a75a97", null ],
+      [ "DATA_YOR", "dc/d58/a03383.html#a9ffea4a6410ded9f327ba6e91f8766eea738b876feae2daf42423688ca0f13289", null ]
+    ] ],
+    [ "GetManaTombsAI", "dc/d58/a03383.html#aaec5771a3ce0808b0a1bb0116b4fb9e3", null ],
+    [ "EncounterCount", "dc/d58/a03383.html#a31d630c40753c29f94ceac2db5e451a8", null ]
 ];

@@ -1,11 +1,6 @@
 var a21123 =
 [
-    [ "boss_yoggsaron_neltharionAI", "d5/db6/a21123.html#aacefe32de32513bdf46c0dd526768e25", null ],
-    [ "NextStep", "d5/db6/a21123.html#a4770948240ac56ec151c262c8996e4e4", null ],
-    [ "Reset", "d5/db6/a21123.html#a03841acfd21e920bc6589203448709a0", null ],
-    [ "Say", "d5/db6/a21123.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
-    [ "UpdateAI", "d5/db6/a21123.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
-    [ "_checkTimer", "d5/db6/a21123.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
-    [ "_running", "d5/db6/a21123.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
-    [ "_step", "d5/db6/a21123.html#a0ac37717e940b094d322a7e492202718", null ]
+    [ "npc_vh_void_sentryAI", "dd/ddb/a21127.html", "dd/ddb/a21127" ],
+    [ "npc_vh_void_sentry", "d5/db6/a21123.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
+    [ "GetAI", "d5/db6/a21123.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
 ];

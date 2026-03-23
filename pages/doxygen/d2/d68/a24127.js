@@ -1,7 +1,9 @@
 var a24127 =
 [
-    [ "boss_gatewatcher_gyrokill", "d2/d68/a24127.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "d2/d68/a24127.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "d2/d68/a24127.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "d2/d68/a24127.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d2/d68/a24127.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d2/d68/a24127.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d2/d68/a24127.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d2/d68/a24127.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d2/d68/a24127.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d2/d68/a24127.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

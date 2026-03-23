@@ -1,8 +1,7 @@
 var a22487 =
 [
-    [ "npc_freed_protodrakeAI", "dd/d44/a22487.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "dd/d44/a22487.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "dd/d44/a22487.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "dd/d44/a22487.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "dd/d44/a22487.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "OnPeriodic", "dd/d44/a22487.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
+    [ "PrepareAuraScript", "dd/d44/a22487.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
+    [ "Register", "dd/d44/a22487.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
+    [ "Validate", "dd/d44/a22487.html#a006d67e9e82cce68930b90b00d3555a4", null ]
 ];

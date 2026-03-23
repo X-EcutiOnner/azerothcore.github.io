@@ -1,6 +1,11 @@
 var a14391 =
 [
-    [ "boss_wushoolayAI", "d7/de1/a14395.html", "d7/de1/a14395" ],
-    [ "boss_wushoolay", "d1/d18/a14391.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d1/d18/a14391.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "boss_marli", "d1/d18/a14391.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
+    [ "_chargePlayer", "d1/d18/a14391.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
+    [ "_schedulePhaseSpider", "d1/d18/a14391.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
+    [ "_schedulePhaseTroll", "d1/d18/a14391.html#ad6977930dac1cddd2162f7db1b239c83", null ],
+    [ "JustDied", "d1/d18/a14391.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
+    [ "JustEngagedWith", "d1/d18/a14391.html#ac74bd382c3dc826f7e4426bec3557094", null ],
+    [ "Reset", "d1/d18/a14391.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
+    [ "_phase", "d1/d18/a14391.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
 ];

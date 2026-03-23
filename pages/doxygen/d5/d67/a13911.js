@@ -1,13 +1,16 @@
 var a13911 =
 [
-    [ "npc_ravenclaw_apparitionAI", "d5/d67/a13911.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
-    [ "EmoteCrowd", "d5/d67/a13911.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
-    [ "JustDied", "d5/d67/a13911.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
-    [ "JustSummoned", "d5/d67/a13911.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
-    [ "SummonCrowd", "d5/d67/a13911.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
-    [ "UpdateAI", "d5/d67/a13911.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
-    [ "events", "d5/d67/a13911.html#a27522107b5e1f54909294f800f26663f", null ],
-    [ "HasEnded", "d5/d67/a13911.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
-    [ "summons", "d5/d67/a13911.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
-    [ "TalkRNG", "d5/d67/a13911.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d5/d67/a13911.html#aa0fc35194d16d63854926d4266569d77", null ],
+    [ "DamageTaken", "d5/d67/a13911.html#a46f47c937db63c2cd12331bce4e251cf", null ],
+    [ "EnterEvadeMode", "d5/d67/a13911.html#a55b6176ee579f5f320ce36b63f83d314", null ],
+    [ "JustSummoned", "d5/d67/a13911.html#aa23391bbed38571a86508b4c87e5c66c", null ],
+    [ "MovementInform", "d5/d67/a13911.html#a5f47c72447c197642a0081e544095489", null ],
+    [ "Reset", "d5/d67/a13911.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
+    [ "SetData", "d5/d67/a13911.html#a24293b807b8999acbb6fbe59e3c06232", null ],
+    [ "SummonedCreatureDespawn", "d5/d67/a13911.html#a095587a925d6054da2e2fdc9de2b415e", null ],
+    [ "UpdateAI", "d5/d67/a13911.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
+    [ "events", "d5/d67/a13911.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
+    [ "morlenGUID", "d5/d67/a13911.html#aefe243dea75b1aac366fae1395e0e398", null ],
+    [ "playerGUID", "d5/d67/a13911.html#ab93ca177abc21647a1162006ed50a551", null ],
+    [ "summons", "d5/d67/a13911.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
 ];

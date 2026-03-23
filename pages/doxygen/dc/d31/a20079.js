@@ -1,11 +1,11 @@
 var a20079 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "dc/d31/a20079.html#aedf30f06fe89c805019f7cc254646ff1", null ],
-    [ "CanAIAttack", "dc/d31/a20079.html#a76efa1d88ce029775809abb3ec88efb3", null ],
-    [ "DamageTaken", "dc/d31/a20079.html#adedbbeeb01da20843bc85ac2daaed12a", null ],
-    [ "JustDied", "dc/d31/a20079.html#af261cc1f0458984719ab1bb4518bdc64", null ],
-    [ "KilledUnit", "dc/d31/a20079.html#aed3f2a4bac3391683989eec94697ef16", null ],
-    [ "UpdateAI", "dc/d31/a20079.html#a575eb381d1aa31af60484271ae6e4627", null ],
-    [ "_instance", "dc/d31/a20079.html#a8c0658a5d32355607cb16f6e1c83f83e", null ],
-    [ "_setHealth", "dc/d31/a20079.html#aeb220ded0a6515674a428716a8be9f48", null ]
+    [ "boss_freya_elder_brightleaf", "dc/d31/a20079.html#a7454f4dec1f1ccc471f42eeee513f272", null ],
+    [ "JustDied", "dc/d31/a20079.html#a98aed4b2a4ebf10c807d9bb54c65a273", null ],
+    [ "JustEngagedWith", "dc/d31/a20079.html#ad0f003e5b57b7c7df4b860df2f8e1e85", null ],
+    [ "KilledUnit", "dc/d31/a20079.html#a3c45c1c87f793cb4dbd447065b09d108", null ],
+    [ "Reset", "dc/d31/a20079.html#ae9687c330856da6d5e7bed9bccbe8e52", null ],
+    [ "UpdateAI", "dc/d31/a20079.html#aa53a5a5ada35c8717c58553b397d58d9", null ],
+    [ "events", "dc/d31/a20079.html#aaa459ae8f2e0f83330359d45259d9f79", null ],
+    [ "summons", "dc/d31/a20079.html#a0c11c362ecc29e91f21c87ca0fb3d92e", null ]
 ];

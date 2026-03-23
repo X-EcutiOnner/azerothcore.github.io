@@ -1,7 +1,6 @@
 var a24507 =
 [
-    [ "npc_kservantAI", "dd/d75/a24507.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "dd/d75/a24507.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "dd/d75/a24507.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "dd/d75/a24507.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
+    [ "CalculateAmount", "dd/d75/a24507.html#a66fd870eff0f2a225630e26047d36225", null ],
+    [ "PrepareAuraScript", "dd/d75/a24507.html#afde8a1734c57e01094077af3d3bdf757", null ],
+    [ "Register", "dd/d75/a24507.html#a8e5b9dd71dfccb224e92784725f2a8a9", null ]
 ];

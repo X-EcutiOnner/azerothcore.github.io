@@ -1,10 +1,9 @@
 var a16919 =
 [
-    [ "boss_dredAI", "d9/ddd/a16919.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "d9/ddd/a16919.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "d9/ddd/a16919.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "d9/ddd/a16919.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "ScheduleTasks", "d9/ddd/a16919.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
-    [ "SetData", "d9/ddd/a16919.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "_raptorCount", "d9/ddd/a16919.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "npc_concentrated_ballAI", "d9/ddd/a16919.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "d9/ddd/a16919.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "d9/ddd/a16919.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "d9/ddd/a16919.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "d9/ddd/a16919.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "d9/ddd/a16919.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

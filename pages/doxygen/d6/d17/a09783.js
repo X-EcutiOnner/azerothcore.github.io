@@ -1,10 +1,21 @@
 var a09783 =
 [
-    [ "iterator", "d6/d17/a09783.html#a9fada63aa17222fc5e216f3904affafd", null ],
-    [ "begin", "d6/d17/a09783.html#aee3a4701c5bc51f4028fe53f18675989", null ],
-    [ "end", "d6/d17/a09783.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
-    [ "getFirst", "d6/d17/a09783.html#ae47bba95a17db31a42231da948245387", null ],
-    [ "getLast", "d6/d17/a09783.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
-    [ "rbegin", "d6/d17/a09783.html#af68f1d93a80e13976798dfed0063a1e4", null ],
-    [ "rend", "d6/d17/a09783.html#a92c30fb269bc99820b6964a99ee86d98", null ]
+    [ "PlayerVote", "d6/d17/a09783.html#a9b86264db334335ec202909fc7130b77", null ],
+    [ "Roll", "d6/d17/a09783.html#abffce9339088167e812f51481c336bf7", null ],
+    [ "~Roll", "d6/d17/a09783.html#a843879734a9c86a97d7f26b672f37f2a", null ],
+    [ "getLoot", "d6/d17/a09783.html#af0c8c87b3fa9cd45cf51e774123d3b58", null ],
+    [ "setLoot", "d6/d17/a09783.html#a34869ee15d87708859cd51262ad160fc", null ],
+    [ "targetObjectBuildLink", "d6/d17/a09783.html#a2dc422a05158521f857caf7dce005f72", null ],
+    [ "itemCount", "d6/d17/a09783.html#a7c98449785629933a0e5e8bee7deb272", null ],
+    [ "itemGUID", "d6/d17/a09783.html#af4877388e7efe95452541a3d2788fa7f", null ],
+    [ "itemid", "d6/d17/a09783.html#a7b40118e2d489177a268301636b9994f", null ],
+    [ "itemRandomPropId", "d6/d17/a09783.html#a5154a19624a6e0d9657a697f9b235491", null ],
+    [ "itemRandomSuffix", "d6/d17/a09783.html#acfd3e2d5fb152a9848e6e4fe47111bad", null ],
+    [ "itemSlot", "d6/d17/a09783.html#a6e170a8296949cd76baa7992f30a61d6", null ],
+    [ "playerVote", "d6/d17/a09783.html#aff97626c4d749bf0acbd165f289b5a57", null ],
+    [ "rollVoteMask", "d6/d17/a09783.html#a9c86d54397c4ce46d691e77cc476ffe6", null ],
+    [ "totalGreed", "d6/d17/a09783.html#a6187dd03a275f9e51d489709c9cf6d13", null ],
+    [ "totalNeed", "d6/d17/a09783.html#ae02ba19cfd317143e839cd4a3751a3eb", null ],
+    [ "totalPass", "d6/d17/a09783.html#aeeac3fb83c410a3d256c0cbf45f48e95", null ],
+    [ "totalPlayersRolling", "d6/d17/a09783.html#a6a6ea6885bc68272520c018a83b2106f", null ]
 ];

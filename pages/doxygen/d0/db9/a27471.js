@@ -1,5 +1,6 @@
 var a27471 =
 [
-    [ "go_arena_ready_marker", "d0/db9/a27471.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "d0/db9/a27471.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "CalculateAmount", "d0/db9/a27471.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "d0/db9/a27471.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "d0/db9/a27471.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

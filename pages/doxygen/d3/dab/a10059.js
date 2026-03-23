@@ -1,10 +1,14 @@
 var a10059 =
 [
-    [ "DistractMovementGenerator", "d3/dab/a10059.html#a55879290b06f4fc86a1da791c07b7afb", null ],
-    [ "Finalize", "d3/dab/a10059.html#aa4a2b943ecde8750bd764290d65872df", null ],
-    [ "GetMovementGeneratorType", "d3/dab/a10059.html#a0b30745bf1cd7b5a264e970273595592", null ],
-    [ "Initialize", "d3/dab/a10059.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
-    [ "Reset", "d3/dab/a10059.html#ad544709b2873b63b28d27ab414c280ba", null ],
-    [ "Update", "d3/dab/a10059.html#ad5a15c1507b8ab315b658351077629b3", null ],
-    [ "m_timer", "d3/dab/a10059.html#a8b520d8e97704ac39ce28c2256557b42", null ]
+    [ "TriangleBoundary", "d3/dab/a10059.html#acd21a26ca6b830c4d4c6ed2b4a186a30", null ],
+    [ "IsWithinBoundaryArea", "d3/dab/a10059.html#aaebce21d60856976db921e22a871aae6", null ],
+    [ "_a", "d3/dab/a10059.html#a11a5e1e039d39205450e8fde526f23c9", null ],
+    [ "_abx", "d3/dab/a10059.html#a18ad05ab00e882af42a5dbc0cf10715b", null ],
+    [ "_aby", "d3/dab/a10059.html#a50c9a60be77846c736cf278eac263b44", null ],
+    [ "_b", "d3/dab/a10059.html#abcce62f1f187bc6e42f4534bfca855e8", null ],
+    [ "_bcx", "d3/dab/a10059.html#a043b7c018baed6b098f93b667f47baed", null ],
+    [ "_bcy", "d3/dab/a10059.html#afa03a5b23a6e0d3d4e134fe7b1599df0", null ],
+    [ "_c", "d3/dab/a10059.html#a8e037f96f40d81f6c426208efb0dcd1a", null ],
+    [ "_cax", "d3/dab/a10059.html#a7c8c6e8e40ec6249d672bb735d9fbdfa", null ],
+    [ "_cay", "d3/dab/a10059.html#acbb7a9e61dd4e6188837461821843b9a", null ]
 ];

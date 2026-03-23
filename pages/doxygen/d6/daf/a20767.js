@@ -1,11 +1,9 @@
 var a20767 =
 [
-    [ "npc_ulduar_expedition_engineerAI", "d6/daf/a20767.html#a48e29edad38f8ecbab54579203c93044", null ],
-    [ "Reset", "d6/daf/a20767.html#a8a68e3a58133913d0eb0bf9fd2532db2", null ],
-    [ "SetData", "d6/daf/a20767.html#a31db1ae61777b8f1a38d381e785ce158", null ],
-    [ "UpdateAI", "d6/daf/a20767.html#ab6d29aaae95038282fece78479448459", null ],
-    [ "fixingGUID", "d6/daf/a20767.html#ae0ba3ddbff054a948709e70f0bf9961a", null ],
-    [ "pInstance", "d6/daf/a20767.html#a6b858d46eda05493ec0cac22e174854c", null ],
-    [ "timer", "d6/daf/a20767.html#a926b343da3d3953d386b18f24bc72867", null ],
-    [ "working", "d6/daf/a20767.html#ab8e436472efd91f2d400c02c1b500746", null ]
+    [ "npc_ulduar_keeperAI", "d6/daf/a20767.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "d6/daf/a20767.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "d6/daf/a20767.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "d6/daf/a20767.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "d6/daf/a20767.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "d6/daf/a20767.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

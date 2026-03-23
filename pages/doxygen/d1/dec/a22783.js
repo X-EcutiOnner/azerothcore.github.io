@@ -1,5 +1,8 @@
 var a22783 =
 [
-    [ "OutdoorPvP_terokkar_forest", "d1/dec/a22783.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
-    [ "GetOutdoorPvP", "d1/dec/a22783.html#acf268293812d7a1a233e7f1fcba1e733", null ]
+    [ "Absorb", "d1/dec/a22783.html#a1c054ce067a620e16611cbb9e784cee1", null ],
+    [ "CalculateAmount", "d1/dec/a22783.html#abd828dd3493339db9c0613e960792941", null ],
+    [ "PrepareAuraScript", "d1/dec/a22783.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
+    [ "Register", "d1/dec/a22783.html#a85840e7d27a7ed256c45de87f4486d45", null ],
+    [ "Update", "d1/dec/a22783.html#afbf28fd4eb66899a424e0b542d561656", null ]
 ];

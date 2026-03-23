@@ -1,7 +1,6 @@
 var a24823 =
 [
-    [ "CalcDamage", "d1/d20/a24823.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "d1/d20/a24823.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "d1/d20/a24823.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "d1/d20/a24823.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "ModDest", "d1/d20/a24823.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "d1/d20/a24823.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "d1/d20/a24823.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

@@ -1,9 +1,6 @@
 var a21687 =
 [
-    [ "npc_azure_sorcerorAI", "d7/de1/a21687.html#a474a7144908d4820341dc56f77436b90", null ],
-    [ "Reset", "d7/de1/a21687.html#a4c637288f79e1da4bdace6516cd887b1", null ],
-    [ "UpdateAI", "d7/de1/a21687.html#a928d789e2cbd35b228857a23c4204ea1", null ],
-    [ "uiArcaneStreamTimer", "d7/de1/a21687.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
-    [ "uiArcaneStreamTimerStartingValueHolder", "d7/de1/a21687.html#af044879e8e064e28a491c87d0c6cde74", null ],
-    [ "uiManaDetonationTimer", "d7/de1/a21687.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
+    [ "HandleOnEffectRemove", "d7/de1/a21687.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d7/de1/a21687.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d7/de1/a21687.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

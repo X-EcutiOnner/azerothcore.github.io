@@ -1,5 +1,7 @@
 var a27443 =
 [
-    [ "MarkOfNatureTargetSelector", "d0/de3/a27443.html#ae737da5ff93360fde8c4c818f41d7853", null ],
-    [ "operator()", "d0/de3/a27443.html#a1515fd40dcccaba5947e93eabf241336", null ]
+    [ "HandleTeleport", "d0/de3/a27443.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d0/de3/a27443.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d0/de3/a27443.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d0/de3/a27443.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

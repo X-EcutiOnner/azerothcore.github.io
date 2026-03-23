@@ -1,7 +1,6 @@
 var a21167 =
 [
-    [ "OnPeriodic", "d8/d37/a21167.html#a529e89c1ae0074370da174defc086719", null ],
-    [ "PrepareAuraScript", "d8/d37/a21167.html#a587652095a5dfae229787a0c0ceacfbe", null ],
-    [ "Register", "d8/d37/a21167.html#acd5551b09882d720608bdec6036dee9a", null ],
-    [ "Validate", "d8/d37/a21167.html#aaed6604e39dd977f4e7c671052d718e8", null ]
+    [ "npc_azure_binderAI", "d1/d63/a21171.html", "d1/d63/a21171" ],
+    [ "npc_azure_binder", "d8/d37/a21167.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
+    [ "GetAI", "d8/d37/a21167.html#aad091206a8bd06a1064b68b81510eb56", null ]
 ];

@@ -1,8 +1,11 @@
 var a21955 =
 [
-    [ "npc_future_youAI", "d3/d78/a21955.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "d3/d78/a21955.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "d3/d78/a21955.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "d3/d78/a21955.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "d3/d78/a21955.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_iron_watcherAI", "d3/d78/a21955.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "d3/d78/a21955.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "d3/d78/a21955.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "d3/d78/a21955.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "d3/d78/a21955.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "d3/d78/a21955.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "d3/d78/a21955.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "d3/d78/a21955.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

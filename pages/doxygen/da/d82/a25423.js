@@ -1,9 +1,8 @@
 var a25423 =
 [
-    [ "spell_gen_lifebloom", "da/d82/a25423.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
-    [ "AfterRemove", "da/d82/a25423.html#aea962f603e56c1bd33fccaef0c89d917", null ],
-    [ "PrepareAuraScript", "da/d82/a25423.html#ac11134bdc3588795ce6e256c5b02055f", null ],
-    [ "Register", "da/d82/a25423.html#ab4a552402ee9f90834320d6fc668cff3", null ],
-    [ "Validate", "da/d82/a25423.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
-    [ "_spellId", "da/d82/a25423.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
+    [ "CheckProc", "da/d82/a25423.html#ae0b0a45ddc782a523394e30414e0b2ba", null ],
+    [ "HandleProc", "da/d82/a25423.html#a9cb849a8ea8afb45cc1df4d260542937", null ],
+    [ "PrepareAuraScript", "da/d82/a25423.html#af65fc845e6625b1f0a4f4b88ba6db46e", null ],
+    [ "Register", "da/d82/a25423.html#acc5c7607ea7a23b66d1db6cb1a38833e", null ],
+    [ "Validate", "da/d82/a25423.html#a03621fd67cd9179ccc37a53c4d2056d9", null ]
 ];

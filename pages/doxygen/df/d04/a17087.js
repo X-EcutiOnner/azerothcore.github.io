@@ -1,6 +1,5 @@
 var a17087 =
 [
-    [ "boss_falricAI", "d1/d58/a17091.html", "d1/d58/a17091" ],
-    [ "boss_falric", "df/d04/a17087.html#aa64253f502f79db5947c09788fb66deb", null ],
-    [ "GetAI", "df/d04/a17087.html#a95249877208d19bb54edd8de18616158", null ]
+    [ "npc_fos_leader_secondAI", "df/d04/a17087.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "df/d04/a17087.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

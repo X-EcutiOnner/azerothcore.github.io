@@ -1,11 +1,14 @@
 var a20827 =
 [
-    [ "boss_thorim_lightning_orbAI", "db/d1f/a20827.html#a14d4b9f445abfaba77bcfc52173ff705", null ],
-    [ "AttackStart", "db/d1f/a20827.html#a88a885b96016788f8011dd1d3d44d992", null ],
-    [ "EnterEvadeMode", "db/d1f/a20827.html#a04bc99d1bd16f8297e7da8902e4bcaab", null ],
-    [ "InitWaypoint", "db/d1f/a20827.html#a420217dd9e482edc24a87dead2753321", null ],
-    [ "MoveInLineOfSight", "db/d1f/a20827.html#a0ee02cdd5cedf8a6565493b9812e88ae", null ],
-    [ "Reset", "db/d1f/a20827.html#a4e410303d287a4c827c279a4e7c3ca99", null ],
-    [ "WaypointReached", "db/d1f/a20827.html#a141659a0ebbcc097f0f03dec30dad2ca", null ],
-    [ "Timer", "db/d1f/a20827.html#ac251df35736ae44e08f82ae7bbe8fc15", null ]
+    [ "boss_dalronn_the_controller", "db/d1f/a20827.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "db/d1f/a20827.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "db/d1f/a20827.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "db/d1f/a20827.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "db/d1f/a20827.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "db/d1f/a20827.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "db/d1f/a20827.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "db/d1f/a20827.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "db/d1f/a20827.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "db/d1f/a20827.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "db/d1f/a20827.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

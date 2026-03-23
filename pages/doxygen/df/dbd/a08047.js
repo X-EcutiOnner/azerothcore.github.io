@@ -1,13 +1,8 @@
 var a08047 =
 [
-    [ "LfgQueueData", "df/dbd/a08047.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd", null ],
-    [ "LfgQueueData", "df/dbd/a08047.html#a363aa2cc53bce304893335ca93755103", null ],
-    [ "bestCompatible", "df/dbd/a08047.html#a10fe592a7d0b3fc53701d1946d55f0af", null ],
-    [ "dps", "df/dbd/a08047.html#ab78711eaf7285a5d4821e52354124646", null ],
-    [ "dungeons", "df/dbd/a08047.html#a6b115f3a5e0ff996279db044f47f5823", null ],
-    [ "healers", "df/dbd/a08047.html#a8b2049474102332ddca53f0892565216", null ],
-    [ "joinTime", "df/dbd/a08047.html#a240fcc11f3fd9d27fa913f80828522f2", null ],
-    [ "lastRefreshTime", "df/dbd/a08047.html#a727d35760b716270c5f326f343106d0c", null ],
-    [ "roles", "df/dbd/a08047.html#a20218584ba5c3dbaf9ff7ae520eba9a3", null ],
-    [ "tanks", "df/dbd/a08047.html#a500f93175d7a25f7c2e0dc0f3943e639", null ]
+    [ "CurValue", "df/dbd/a08047.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
+    [ "KnownRecipes", "df/dbd/a08047.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
+    [ "MaxValue", "df/dbd/a08047.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
+    [ "Owner", "df/dbd/a08047.html#a085e0aa9f79129920af96046c4fc29b1", null ],
+    [ "Spell", "df/dbd/a08047.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
 ];

@@ -1,6 +1,6 @@
 var a12375 =
 [
-    [ "OrcMoveEvent", "d8/d9e/a12375.html#a71f7fe243741a1629bdd846fc97f0112", null ],
-    [ "Execute", "d8/d9e/a12375.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
-    [ "_me", "d8/d9e/a12375.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
+    [ "boss_vanndarAI", "d9/d86/a12379.html", "d9/d86/a12379" ],
+    [ "boss_vanndar", "d8/d9e/a12375.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "d8/d9e/a12375.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

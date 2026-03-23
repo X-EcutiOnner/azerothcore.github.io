@@ -1,8 +1,6 @@
 var a27647 =
 [
-    [ "go_bellsAI", "d2/dfc/a27647.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d2/dfc/a27647.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d2/dfc/a27647.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d2/dfc/a27647.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d2/dfc/a27647.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "HandleOnHit", "d2/dfc/a27647.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d2/dfc/a27647.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d2/dfc/a27647.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

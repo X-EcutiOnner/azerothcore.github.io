@@ -1,7 +1,9 @@
 var a23463 =
 [
-    [ "FilterTargets", "dd/d13/a23463.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "dd/d13/a23463.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "dd/d13/a23463.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "dd/d13/a23463.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "boss_high_botanist_freywinn", "dd/d13/a23463.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "dd/d13/a23463.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "dd/d13/a23463.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "dd/d13/a23463.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "dd/d13/a23463.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "dd/d13/a23463.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

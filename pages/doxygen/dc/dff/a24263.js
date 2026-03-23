@@ -1,9 +1,11 @@
 var a24263 =
 [
-    [ "npc_wounded_blood_elfAI", "dc/dff/a24263.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "dc/dff/a24263.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "dc/dff/a24263.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "dc/dff/a24263.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "dc/dff/a24263.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "dc/dff/a24263.html#a5affcb00e28a582f8926ab2226001cd0", null ]
+    [ "CalcPeriodic", "dc/dff/a24263.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
+    [ "CalculateHasteAmount", "dc/dff/a24263.html#a75d428e0b3619d53bd9436712d2e394e", null ],
+    [ "CalculateSPAmount", "dc/dff/a24263.html#a81805b43a47065281f83889d8be95c54", null ],
+    [ "CalculateStatAmount", "dc/dff/a24263.html#a763276aaa00bb6953e0b52118662e7a8", null ],
+    [ "HandleEffectApply", "dc/dff/a24263.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
+    [ "HandlePeriodic", "dc/dff/a24263.html#ab3c7d479eae88ab4a59b06610af19429", null ],
+    [ "PrepareAuraScript", "dc/dff/a24263.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
+    [ "Register", "dc/dff/a24263.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
 ];

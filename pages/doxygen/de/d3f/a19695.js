@@ -1,7 +1,7 @@
 var a19695 =
 [
-    [ "Apply", "de/d3f/a19695.html#add8e95d38b0c437833c11cded72fe2a7", null ],
-    [ "PrepareAuraScript", "de/d3f/a19695.html#ad2112b571d97e537983b4d11207015e6", null ],
-    [ "Register", "de/d3f/a19695.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
-    [ "Validate", "de/d3f/a19695.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
+    [ "OnRemove", "de/d3f/a19695.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "de/d3f/a19695.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "de/d3f/a19695.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "de/d3f/a19695.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

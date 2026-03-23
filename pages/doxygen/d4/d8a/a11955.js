@@ -1,10 +1,7 @@
 var a11955 =
 [
-    [ "mmaps_commandscript", "d4/d8a/a11955.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "d4/d8a/a11955.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "d4/d8a/a11955.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "d4/d8a/a11955.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "d4/d8a/a11955.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "d4/d8a/a11955.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "d4/d8a/a11955.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "PlayerGuid", "d4/d8a/a11955.html#a629a600c48376d04293c225390f747ff", null ],
+    [ "PrimaryKey", "d4/d8a/a11955.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
+    [ "StoredType", "d4/d8a/a11955.html#a9bea7cf549813010b55c23417d65edc6", null ],
+    [ "TableName", "d4/d8a/a11955.html#a0f308af88812c110c490c94368bda482", null ]
 ];

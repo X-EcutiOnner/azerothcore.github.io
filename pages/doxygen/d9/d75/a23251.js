@@ -1,6 +1,7 @@
 var a23251 =
 [
-    [ "HandleSchoolDamage", "d9/d75/a23251.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "d9/d75/a23251.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "d9/d75/a23251.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "boss_the_maker", "d9/d75/a23251.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "d9/d75/a23251.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "d9/d75/a23251.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "d9/d75/a23251.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

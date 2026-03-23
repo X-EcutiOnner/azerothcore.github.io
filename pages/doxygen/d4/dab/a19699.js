@@ -1,7 +1,12 @@
 var a19699 =
 [
-    [ "HandleProc", "d4/dab/a19699.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "d4/dab/a19699.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "d4/dab/a19699.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "d4/dab/a19699.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "boss_loken", "d4/dab/a19699.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
+    [ "JustDied", "d4/dab/a19699.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
+    [ "JustEngagedWith", "d4/dab/a19699.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
+    [ "KilledUnit", "d4/dab/a19699.html#a85ae3094927f7484216b44582f9a2bf6", null ],
+    [ "MoveInLineOfSight", "d4/dab/a19699.html#ac9f3115629e5595d06c213d3e04afa68", null ],
+    [ "OnAuraRemove", "d4/dab/a19699.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
+    [ "Reset", "d4/dab/a19699.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
+    [ "ScheduleTasks", "d4/dab/a19699.html#a600e211be40226679212a7078b26f3ed", null ],
+    [ "_introDone", "d4/dab/a19699.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
 ];

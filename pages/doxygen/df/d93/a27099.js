@@ -1,8 +1,6 @@
 var a27099 =
 [
-    [ "CheckProc", "df/d93/a27099.html#afcda3b112699e108e2db6270836fce1b", null ],
-    [ "OnProc", "df/d93/a27099.html#ab953f817368120933828d6b3e5e200c0", null ],
-    [ "PrepareAuraScript", "df/d93/a27099.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
-    [ "Register", "df/d93/a27099.html#abfdd5179215432a3e89ea7b498d49867", null ],
-    [ "Validate", "df/d93/a27099.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
+    [ "CheckProc", "df/d93/a27099.html#a5e48b25b15b60aa284ca61e900e0f87e", null ],
+    [ "PrepareAuraScript", "df/d93/a27099.html#a13ccd1c89767d0dcf041217466390759", null ],
+    [ "Register", "df/d93/a27099.html#a4f29ca53813534b1af20e09281288e95", null ]
 ];

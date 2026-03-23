@@ -1,6 +1,6 @@
 var a22491 =
 [
-    [ "npc_icefangAI", "dd/d1e/a22495.html", "dd/d1e/a22495" ],
-    [ "npc_icefang", "d4/d4c/a22491.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d4/d4c/a22491.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "FilterTargets", "d4/d4c/a22491.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
+    [ "PrepareSpellScript", "d4/d4c/a22491.html#ae8f3906007580963bda33cd0e420299b", null ],
+    [ "Register", "d4/d4c/a22491.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
 ];

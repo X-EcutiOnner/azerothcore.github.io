@@ -1,10 +1,10 @@
 var a26603 =
 [
-    [ "GetTarget", "dd/d36/a26603.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
-    [ "HandleEffectPeriodicPlatform", "dd/d36/a26603.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
-    [ "HandleEffectPeriodicSelf", "dd/d36/a26603.html#a2272a970ca5edca6f7353beb2279c29c", null ],
-    [ "PerformKick", "dd/d36/a26603.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
-    [ "PrepareAuraScript", "dd/d36/a26603.html#a489f1da8f8008db8f096470f28455ef9", null ],
-    [ "Register", "dd/d36/a26603.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
-    [ "AuraEffectHandleModes", "dd/d36/a26603.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
+    [ "CheckProc", "dd/d36/a26603.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
+    [ "HandleProc", "dd/d36/a26603.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
+    [ "Load", "dd/d36/a26603.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
+    [ "PrepareAuraScript", "dd/d36/a26603.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
+    [ "Register", "dd/d36/a26603.html#a4cb08499767ab58f0e525c382b662fbd", null ],
+    [ "Validate", "dd/d36/a26603.html#aa6165f28706d49940dd1f62065631119", null ],
+    [ "_procTarget", "dd/d36/a26603.html#a7b9426e18b454bf631992518c2bdbde0", null ]
 ];

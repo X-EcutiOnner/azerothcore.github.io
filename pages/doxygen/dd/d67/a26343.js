@@ -1,6 +1,8 @@
 var a26343 =
 [
-    [ "FilterTargets", "dd/d67/a26343.html#aad5d183d0d7ea229cbfc11f751536624", null ],
-    [ "PrepareSpellScript", "dd/d67/a26343.html#a68ba19142ae6eb04a2547495233700df", null ],
-    [ "Register", "dd/d67/a26343.html#a22c313409438f94d29ab3e236a56c115", null ]
+    [ "ApplyPermafrost", "dd/d67/a26343.html#a06bb458e038b97696362681a6fd28104", null ],
+    [ "PrepareAuraScript", "dd/d67/a26343.html#a3d96d6f5f798efc92572e2a52349102d", null ],
+    [ "Register", "dd/d67/a26343.html#a613e5af53064357f4e8e4d6260c6856a", null ],
+    [ "RemovePermafrost", "dd/d67/a26343.html#a9414746a76f53a5258cf617abefd5bd6", null ],
+    [ "Validate", "dd/d67/a26343.html#addd58a0138e3cdb5cb274c8a38151a45", null ]
 ];

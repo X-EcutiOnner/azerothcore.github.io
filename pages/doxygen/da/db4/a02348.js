@@ -1,5 +1,5 @@
 var a02348 =
 [
-    [ "Acore::BattlegroundChatBuilder", "d2/d42/a07533.html", "d2/d42/a07533" ],
-    [ "Acore::Battleground2ChatBuilder", "d2/d96/a07537.html", "d2/d96/a07537" ]
+    [ "Movement::SplineBase", "d7/d53/a10399.html", "d7/d53/a10399" ],
+    [ "Movement::Spline< length_type >", "d1/d0b/a10403.html", "d1/d0b/a10403" ]
 ];

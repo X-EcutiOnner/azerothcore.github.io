@@ -1,16 +1,15 @@
 var a17263 =
 [
-    [ "boss_ickAI", "dd/d4a/a17263.html#a72c90af745b63202edc36b84b3f4df12", null ],
-    [ "CanAIAttack", "dd/d4a/a17263.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
-    [ "DamageTaken", "dd/d4a/a17263.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
-    [ "GetKrick", "dd/d4a/a17263.html#a2d6192f314e76886204c7248d141260a", null ],
-    [ "JustDied", "dd/d4a/a17263.html#afd7752ee19dcc6be0b28181bb4485146", null ],
-    [ "JustEngagedWith", "dd/d4a/a17263.html#a27598604e65417225acd41d6f05cc717", null ],
-    [ "JustSummoned", "dd/d4a/a17263.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
-    [ "KilledUnit", "dd/d4a/a17263.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
-    [ "Reset", "dd/d4a/a17263.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
-    [ "SpellHitTarget", "dd/d4a/a17263.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
-    [ "UpdateAI", "dd/d4a/a17263.html#a74bd63ac9558ecec52affaa7440360a1", null ],
-    [ "events", "dd/d4a/a17263.html#aab514bb5f930d9eb545a279181632796", null ],
-    [ "pInstance", "dd/d4a/a17263.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
+    [ "npc_pos_leaderAI", "dd/d4a/a17263.html#a21973bccde394785f8619df7cae5270b", null ],
+    [ "AttackStart", "dd/d4a/a17263.html#a6dc4161441752b8ea9baab642d6a0684", null ],
+    [ "JustSummoned", "dd/d4a/a17263.html#a03bfcd0ea38073ff8481188d1b570553", null ],
+    [ "MoveInLineOfSight", "dd/d4a/a17263.html#ad28f607b313f7729649261969912eba5", null ],
+    [ "Reset", "dd/d4a/a17263.html#aee23a2835b84ac060a29b41c10116904", null ],
+    [ "SetData", "dd/d4a/a17263.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
+    [ "SummonedCreatureDespawn", "dd/d4a/a17263.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
+    [ "UpdateAI", "dd/d4a/a17263.html#a1507ab4bdade501cf92f843cec20842d", null ],
+    [ "counter", "dd/d4a/a17263.html#a7012a08c6409a40646dcd91a47eb6886", null ],
+    [ "events", "dd/d4a/a17263.html#a7ea570e98c7a70ae604861c2166eb429", null ],
+    [ "pInstance", "dd/d4a/a17263.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
+    [ "summons", "dd/d4a/a17263.html#a44b5ee694d96644da91167c7d793eeb3", null ]
 ];

@@ -1,7 +1,9 @@
 var a10147 =
 [
-    [ "TransportPathTransform", "d6/d71/a10147.html#af73e0369a2f0e4c2aabfde5b47b7520d", null ],
-    [ "operator()", "d6/d71/a10147.html#ac86e405f0d39698c400d7a8d2ab10607", null ],
-    [ "_owner", "d6/d71/a10147.html#a15428c0b9a8b11f7f63845a7d65620e8", null ],
-    [ "_transformForTransport", "d6/d71/a10147.html#afad44bc388b7d224f7a87aed7ba2e120", null ]
+    [ "MapUpdateRequest", "d6/d71/a10147.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "d6/d71/a10147.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "d6/d71/a10147.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "d6/d71/a10147.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "d6/d71/a10147.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "d6/d71/a10147.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

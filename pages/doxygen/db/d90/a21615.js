@@ -1,6 +1,11 @@
 var a21615 =
 [
-    [ "npc_vh_teleportation_portalAI", "dd/db5/a21619.html", "dd/db5/a21619" ],
-    [ "npc_vh_teleportation_portal", "db/d90/a21615.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "db/d90/a21615.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "npc_emilyAI", "db/d90/a21615.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "db/d90/a21615.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "db/d90/a21615.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "db/d90/a21615.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "db/d90/a21615.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "WaypointReached", "db/d90/a21615.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_mrfloppyGUID", "db/d90/a21615.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "db/d90/a21615.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

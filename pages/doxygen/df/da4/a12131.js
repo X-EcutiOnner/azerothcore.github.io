@@ -1,7 +1,11 @@
 var a12131 =
 [
-    [ "npc_rocknotAI", "d1/d64/a12135.html", "d1/d64/a12135" ],
-    [ "npc_rocknot", "df/da4/a12131.html#a64a0cd215c1f4881948e5a49cf1b86d7", null ],
-    [ "GetAI", "df/da4/a12131.html#ac8a90d54e9303c40f0313fda1dcfea86", null ],
-    [ "OnQuestReward", "df/da4/a12131.html#abd8ad3d7e6dd1e557398e268409a2c98", null ]
+    [ "bf_commandscript", "df/da4/a12131.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "df/da4/a12131.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "df/da4/a12131.html#a08dd3bdd279c760fe0f126200a01619e", null ],
+    [ "HandleBattlefieldEnd", "df/da4/a12131.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
+    [ "HandleBattlefieldQueue", "df/da4/a12131.html#a23f6e8d14c511f3e9c3c070be14477e4", null ],
+    [ "HandleBattlefieldStart", "df/da4/a12131.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
+    [ "HandleBattlefieldSwitch", "df/da4/a12131.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
+    [ "HandleBattlefieldTimer", "df/da4/a12131.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
 ];

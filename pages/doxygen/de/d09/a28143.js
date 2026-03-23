@@ -1,10 +1,10 @@
 var a28143 =
 [
-    [ "ID", "de/d09/a28143.html#a906c42770a619884f08b67e2870bff93", null ],
-    [ "reqarenapoints", "de/d09/a28143.html#a5d45007a832d6120e29c7821c07646de", null ],
-    [ "reqarenaslot", "de/d09/a28143.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
-    [ "reqhonorpoints", "de/d09/a28143.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
-    [ "reqitem", "de/d09/a28143.html#a9cba8872c909260a55dcfdf7f4726899", null ],
-    [ "reqitemcount", "de/d09/a28143.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
-    [ "reqpersonalarenarating", "de/d09/a28143.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
+    [ "go_evil_book_for_dummies", "de/d09/a28143.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "de/d09/a28143.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "de/d09/a28143.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "de/d09/a28143.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "de/d09/a28143.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "de/d09/a28143.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "de/d09/a28143.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

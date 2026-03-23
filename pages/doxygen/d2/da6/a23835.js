@@ -1,7 +1,7 @@
 var a23835 =
 [
-    [ "FilterTargets", "d2/da6/a23835.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "d2/da6/a23835.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "d2/da6/a23835.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "d2/da6/a23835.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "npc_maxx_a_million_escortAI", "dd/dbb/a23839.html", "dd/dbb/a23839" ],
+    [ "npc_maxx_a_million_escort", "d2/da6/a23835.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "d2/da6/a23835.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "d2/da6/a23835.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

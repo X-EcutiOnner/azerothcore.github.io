@@ -1,11 +1,8 @@
 var a10931 =
 [
-    [ "LFGJoin", "d0/d35/a10931.html#a50c79bdef7393907673a328bc36ff8ae", null ],
-    [ "Read", "d0/d35/a10931.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
-    [ "Achievements", "d0/d35/a10931.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
-    [ "Comment", "d0/d35/a10931.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
-    [ "Needs", "d0/d35/a10931.html#a313c16e84e2cd0b55551d16273e95917", null ],
-    [ "NoPartialClear", "d0/d35/a10931.html#aad54be871d0978034fb69a464fd5b9df", null ],
-    [ "Roles", "d0/d35/a10931.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
-    [ "Slots", "d0/d35/a10931.html#aa14a07716504723283ad80c6357cf53f", null ]
+    [ "GuildEvent", "d0/d35/a10931.html#a78be16122c01d4c68d67e050ede92006", null ],
+    [ "Write", "d0/d35/a10931.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
+    [ "Guid", "d0/d35/a10931.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
+    [ "Params", "d0/d35/a10931.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
+    [ "Type", "d0/d35/a10931.html#a961ae90991fa23bfc94a054dba357392", null ]
 ];

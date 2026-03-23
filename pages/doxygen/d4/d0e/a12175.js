@@ -1,8 +1,7 @@
 var a12175 =
 [
-    [ "boss_evisceratorAI", "d4/d0e/a12175.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
-    [ "DamageTaken", "d4/d0e/a12175.html#aab3e8290963ca6c312715f18727d3e82", null ],
-    [ "JustEngagedWith", "d4/d0e/a12175.html#a60f3942b352206888569f60776041a28", null ],
-    [ "UpdateAI", "d4/d0e/a12175.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
-    [ "SpellShieldReady", "d4/d0e/a12175.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
+    [ "gear_commandscript", "d4/d0e/a12175.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
+    [ "GetCommands", "d4/d0e/a12175.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
+    [ "HandleGearRepairCommand", "d4/d0e/a12175.html#a28cd5680f07f984326d79d91adbbfd70", null ],
+    [ "HandleGearStatsCommand", "d4/d0e/a12175.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
 ];

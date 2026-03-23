@@ -1,28 +1,23 @@
 var a02801 =
 [
-    [ "tf_tower_world_state", "db/dc4/a22537.html", "db/dc4/a22537" ],
-    [ "OPvPCapturePointTF", "d2/ddd/a22541.html", "d2/ddd/a22541" ],
-    [ "OutdoorPvPTF", "db/ded/a22545.html", "db/ded/a22545" ],
-    [ "TF_CAPTURE_BUFF", "d8/d1e/a02801.html#a82bc235ec6d43b48511d1b3d903a934b", null ],
-    [ "OutdoorPvPTF_TowerType", "d8/d1e/a02801.html#a7a4347e10a530d56e3c3ae66a5eae999", [
-      [ "TF_TOWER_NW", "d8/d1e/a02801.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16", null ],
-      [ "TF_TOWER_N", "d8/d1e/a02801.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b", null ],
-      [ "TF_TOWER_NE", "d8/d1e/a02801.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97", null ],
-      [ "TF_TOWER_SE", "d8/d1e/a02801.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65", null ],
-      [ "TF_TOWER_S", "d8/d1e/a02801.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0", null ],
-      [ "TF_TOWER_NUM", "d8/d1e/a02801.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3", null ]
-    ] ],
-    [ "TFTowerStates", "d8/d1e/a02801.html#a5815248809b8fd06bd664886846a7126", [
-      [ "TF_TOWERSTATE_N", "d8/d1e/a02801.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f", null ],
-      [ "TF_TOWERSTATE_H", "d8/d1e/a02801.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1", null ],
-      [ "TF_TOWERSTATE_A", "d8/d1e/a02801.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d", null ]
-    ] ],
-    [ "OutdoorPvPTFBuffZones", "d8/d1e/a02801.html#a6b09030102f8c0dbb4b0e6bbfdee9b24", null ],
-    [ "OutdoorPvPTFBuffZonesNum", "d8/d1e/a02801.html#acde5c9331776adb4ed27c2319476e550", null ],
-    [ "TF_ALLY_QUEST", "d8/d1e/a02801.html#a3967b7bb2df0e330fbd21a68d557b19a", null ],
-    [ "TF_HORDE_QUEST", "d8/d1e/a02801.html#a1bbe00a4cf0ae9f6750d23ef10539c0a", null ],
-    [ "TF_LOCK_TIME", "d8/d1e/a02801.html#a925c2f6bf9c7a6d1b694382b888fa85f", null ],
-    [ "TF_LOCK_TIME_UPDATE", "d8/d1e/a02801.html#a9ef7be226d98726081fd3cb435d223b5", null ],
-    [ "TFCapturePoints", "d8/d1e/a02801.html#a19e9cf9859a7578f154dcdcfa0670620", null ],
-    [ "TFTowerWorldStates", "d8/d1e/a02801.html#ac5dbb8989285178cfea88af6f03dd6a6", null ]
+    [ "AddSC_achievement_scripts", "d8/d1e/a02801.html#a5091d6f933800f3313078304ad5c38ca", null ],
+    [ "AddSC_action_ip_logger", "d8/d1e/a02801.html#a530be5efb251d5ca58e97804e48ad953", null ],
+    [ "AddSC_areatrigger_scripts", "d8/d1e/a02801.html#a992f2da647f1f8748c7c9239b52079ad", null ],
+    [ "AddSC_chat_log", "d8/d1e/a02801.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ],
+    [ "AddSC_emerald_dragons", "d8/d1e/a02801.html#aabef9c5c7a434027ce4d3af6e2b77430", null ],
+    [ "AddSC_generic_creature", "d8/d1e/a02801.html#a50f66c4d6429b38157e35a75a0daa31d", null ],
+    [ "AddSC_go_scripts", "d8/d1e/a02801.html#a279b19d9fff015d16fc8bbd2fbc9325a", null ],
+    [ "AddSC_guards", "d8/d1e/a02801.html#acba582cbc90c710c629dd30926acdca4", null ],
+    [ "AddSC_item_scripts", "d8/d1e/a02801.html#a3e28ebf5a580887bb117f786689a34c6", null ],
+    [ "AddSC_npc_innkeeper", "d8/d1e/a02801.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "AddSC_npc_professions", "d8/d1e/a02801.html#a428ec531a2dc4e479b5c73e0d0694091", null ],
+    [ "AddSC_npc_stave_of_ancients", "d8/d1e/a02801.html#a81e200e5d045a2403cd76a0559a6fd8c", null ],
+    [ "AddSC_npc_taxi", "d8/d1e/a02801.html#a36f8a13e2844278c955f3a8155e7a11c", null ],
+    [ "AddSC_npcs_special", "d8/d1e/a02801.html#aac822f73be6c9bf1dfaa4bbaec0e5aef", null ],
+    [ "AddSC_player_scripts", "d8/d1e/a02801.html#a1f476a8466c12651b57fd55bf13b9617", null ],
+    [ "AddSC_scourge_invasion", "d8/d1e/a02801.html#a5e9656f80b8e7b4176a6271aadc2d8e7", null ],
+    [ "AddSC_server_mail", "d8/d1e/a02801.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ],
+    [ "AddSC_suns_reach_reclamation", "d8/d1e/a02801.html#ae3e186d64e39803c404f1afb2144557b", null ],
+    [ "AddSC_transport_zeppelins", "d8/d1e/a02801.html#a29051596b0a3382db98c6b72f7ff3173", null ],
+    [ "AddWorldScripts", "d8/d1e/a02801.html#a5e7b18db76511725a47c51e9ce748575", null ]
 ];

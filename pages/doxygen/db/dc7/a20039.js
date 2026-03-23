@@ -1,6 +1,6 @@
 var a20039 =
 [
-    [ "npc_auriaya_feral_defenderAI", "d4/d54/a20043.html", "d4/d54/a20043" ],
-    [ "npc_auriaya_feral_defender", "db/dc7/a20039.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
-    [ "GetAI", "db/dc7/a20039.html#abec35e280e42154af82f3e7e4fcec48d", null ]
+    [ "PrepareSpellScript", "db/dc7/a20039.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "db/dc7/a20039.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "db/dc7/a20039.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

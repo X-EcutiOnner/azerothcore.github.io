@@ -1,6 +1,6 @@
 var a25027 =
 [
-    [ "CheckProc", "de/d7f/a25027.html#a67f31710f6a3e843b9d3539710100898", null ],
-    [ "PrepareAuraScript", "de/d7f/a25027.html#ad59ef816bd24f6215cc853386859dbb4", null ],
-    [ "Register", "de/d7f/a25027.html#af499437b1af535488792f44c18ad9bf7", null ]
+    [ "HandleScriptEffect", "de/d7f/a25027.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
+    [ "PrepareSpellScript", "de/d7f/a25027.html#a1d7e2beafb55464f928ea5904441d698", null ],
+    [ "Register", "de/d7f/a25027.html#aeaa8321255f377b85884df25a455554f", null ]
 ];

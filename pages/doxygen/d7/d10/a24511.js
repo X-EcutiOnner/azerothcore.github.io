@@ -1,5 +1,8 @@
 var a24511 =
 [
-    [ "npc_shattrath_daily_quest", "d7/d10/a24511.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "d7/d10/a24511.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "AfterRemove", "d7/d10/a24511.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "d7/d10/a24511.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "d7/d10/a24511.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "d7/d10/a24511.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "d7/d10/a24511.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

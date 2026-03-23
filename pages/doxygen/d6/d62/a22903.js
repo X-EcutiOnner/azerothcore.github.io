@@ -1,15 +1,13 @@
 var a22903 =
 [
-    [ "boss_grandmaster_vorpil", "d6/d62/a22903.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
-    [ "counterVoidSpawns", "d6/d62/a22903.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
-    [ "JustDied", "d6/d62/a22903.html#ab492fff8a9a275c662b44eeff3300b90", null ],
-    [ "JustEngagedWith", "d6/d62/a22903.html#af1e6da02cd33742efad568424cf32c4f", null ],
-    [ "JustSummoned", "d6/d62/a22903.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
-    [ "KilledUnit", "d6/d62/a22903.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
-    [ "MoveInLineOfSight", "d6/d62/a22903.html#adb24a3d337b64f37759a3a39802d7e27", null ],
-    [ "Reset", "d6/d62/a22903.html#a6471121ee02a834591b36d03fae28672", null ],
-    [ "spawnVoidTraveler", "d6/d62/a22903.html#aa842bc3d88d0a3a411dcba3711809956", null ],
-    [ "summonPortals", "d6/d62/a22903.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
-    [ "sayHelp", "d6/d62/a22903.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
-    [ "sayIntro", "d6/d62/a22903.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
+    [ "npc_inner_demon", "d6/d62/a22903.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
+    [ "CanAIAttack", "d6/d62/a22903.html#a7498fd32b0ace832b38dc624d07478ed", null ],
+    [ "CanBeSeen", "d6/d62/a22903.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
+    [ "CanReceiveDamage", "d6/d62/a22903.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
+    [ "IsSummonedBy", "d6/d62/a22903.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
+    [ "JustDied", "d6/d62/a22903.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
+    [ "OnCalculateMeleeDamageReceived", "d6/d62/a22903.html#ae95022548b44b23ef93fae24729b5af5", null ],
+    [ "OnCalculatePeriodicTickReceived", "d6/d62/a22903.html#a546281a2257d0407d294fba1f7d3426f", null ],
+    [ "OnCalculateSpellDamageReceived", "d6/d62/a22903.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
+    [ "UpdateAI", "d6/d62/a22903.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
 ];

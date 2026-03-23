@@ -1,10 +1,12 @@
 var a17431 =
 [
-    [ "npc_living_mojoAI", "d4/d43/a17431.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "d4/d43/a17431.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "d4/d43/a17431.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "MoveInLineOfSight", "d4/d43/a17431.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "d4/d43/a17431.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "d4/d43/a17431.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "d4/d43/a17431.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "boss_moorabiAI", "d4/d43/a17431.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "EnterEvadeMode", "d4/d43/a17431.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
+    [ "JustDied", "d4/d43/a17431.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "d4/d43/a17431.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "d4/d43/a17431.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "d4/d43/a17431.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "d4/d43/a17431.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "d4/d43/a17431.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "d4/d43/a17431.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

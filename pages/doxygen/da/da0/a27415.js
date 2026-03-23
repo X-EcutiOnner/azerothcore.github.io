@@ -1,6 +1,6 @@
 var a27415 =
 [
-    [ "npc_spirit_shadeAI", "d9/d33/a27419.html", "d9/d33/a27419" ],
-    [ "npc_spirit_shade", "da/da0/a27415.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "da/da0/a27415.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "HandleScriptEffect", "da/da0/a27415.html#a3f8988017d088d08df08ba8b696b552b", null ],
+    [ "PrepareSpellScript", "da/da0/a27415.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
+    [ "Register", "da/da0/a27415.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
 ];

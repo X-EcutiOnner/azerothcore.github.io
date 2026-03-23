@@ -1,6 +1,5 @@
 var a19943 =
 [
-    [ "PrepareSpellScript", "da/d50/a19943.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "da/d50/a19943.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "da/d50/a19943.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "da/d50/a19943.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "da/d50/a19943.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

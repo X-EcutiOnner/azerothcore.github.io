@@ -1,11 +1,7 @@
 var a24027 =
 [
-    [ "boss_high_astromancer_solarian", "d5/deb/a24027.html#a2db48cc179539f81b55188de08a7e180", null ],
-    [ "AttackStart", "d5/deb/a24027.html#acaf94134aef553447e766a5e431c8b83", null ],
-    [ "JustDied", "d5/deb/a24027.html#a510eb2e4f0770670d6767bc2545375b7", null ],
-    [ "JustEngagedWith", "d5/deb/a24027.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
-    [ "JustSummoned", "d5/deb/a24027.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
-    [ "KilledUnit", "d5/deb/a24027.html#a561a78193615575b7e43e0f21387f1b8", null ],
-    [ "Reset", "d5/deb/a24027.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
-    [ "UpdateAI", "d5/deb/a24027.html#a07a76c34a978c31212390cf10ed3e382", null ]
+    [ "HandlePeriodic", "d5/deb/a24027.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "d5/deb/a24027.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "d5/deb/a24027.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "d5/deb/a24027.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

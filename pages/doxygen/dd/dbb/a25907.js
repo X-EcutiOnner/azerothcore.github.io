@@ -1,6 +1,6 @@
 var a25907 =
 [
-    [ "HandleOnEffectHit", "dd/dbb/a25907.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
-    [ "PrepareSpellScript", "dd/dbb/a25907.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
-    [ "Register", "dd/dbb/a25907.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
+    [ "CheckCast", "dd/dbb/a25907.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "dd/dbb/a25907.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "dd/dbb/a25907.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

@@ -1,6 +1,7 @@
 var a27851 =
 [
-    [ "npc_injured_patientAI", "d6/d18/a27855.html", "d6/d18/a27855" ],
-    [ "npc_injured_patient", "d2/d02/a27851.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "d2/d02/a27851.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "FilterTargets", "d2/d02/a27851.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "d2/d02/a27851.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "d2/d02/a27851.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "d2/d02/a27851.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

@@ -1,6 +1,8 @@
 var a05735 =
 [
-    [ "handler", "d0/df5/a05735.html#a8074991652af9e5c8752dd4ff5e6e6cc", null ],
-    [ "packetSize", "d0/df5/a05735.html#a952f7f7ff3017efa4c3d127baa848785", null ],
-    [ "status", "d0/df5/a05735.html#aaf1066ba6414c519c889e3e8e52d38f2", null ]
+    [ "Event", "d0/df5/a05735.html#acd0d1988a60808384e2cc0dba8735cd3", null ],
+    [ "Event", "d0/df5/a05735.html#a0c6f6d46b2210c42e41fbeb1241c9e7d", null ],
+    [ "_groupMask", "d0/df5/a05735.html#a7f752259eafab986537db2d70c56d211", null ],
+    [ "_id", "d0/df5/a05735.html#a7b60d3d526fd45833d87165d8356f896", null ],
+    [ "_phaseMask", "d0/df5/a05735.html#afce8fa5e187a1c2110a06c70707db247", null ]
 ];

@@ -1,18 +1,10 @@
 var a10499 =
 [
-    [ "EnabledHooksVector", "dd/d5b/a10499.html#ac9d98df16d3857ca556acda331064063", null ],
-    [ "EnabledHooksVectorIterator", "dd/d5b/a10499.html#a575c2a2974f9e002a8a3bb1b858a2912", null ],
-    [ "ScriptMap", "dd/d5b/a10499.html#a0f8009ac0cd91574f0bf4ac92ef90ce0", null ],
-    [ "ScriptMapIterator", "dd/d5b/a10499.html#ad1fcde41ec854314c5e1cc50b916ac5d", null ],
-    [ "ScriptVector", "dd/d5b/a10499.html#abf04ad36ed630be4499f0be2d53016a9", null ],
-    [ "ScriptVectorIterator", "dd/d5b/a10499.html#ac0554c5200368592f5d0bfb1025935fe", null ],
-    [ "_checkMemory", "dd/d5b/a10499.html#a8d784f25a47c9ca4be72fca0215bf1c8", null ],
-    [ "AddALScripts", "dd/d5b/a10499.html#aa86b74a2560deae81f5c2a38cf1f72c8", null ],
-    [ "AddScript", "dd/d5b/a10499.html#a4a25c0e3b90f6af4563baf0e7a1c0622", null ],
-    [ "GetScriptById", "dd/d5b/a10499.html#a22226c545e7975d4c612e7adcc766d05", null ],
-    [ "InitEnabledHooksIfNeeded", "dd/d5b/a10499.html#a44238d9b122f50192b989b1efe2107bd", null ],
-    [ "_scriptIdCounter", "dd/d5b/a10499.html#aa66e44e9291be980d12f4167f699c680", null ],
-    [ "ALScripts", "dd/d5b/a10499.html#ac67b828a489c483ceaaa745b2dd7ef57", null ],
-    [ "EnabledHooks", "dd/d5b/a10499.html#a4274e01ddb2659f125970b97014da00e", null ],
-    [ "ScriptPointerList", "dd/d5b/a10499.html#a57e93b2fa2db2a29fa4c12714e217d43", null ]
+    [ "Flags", "dd/d5b/a10499.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "dd/d5b/a10499.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "dd/d5b/a10499.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "dd/d5b/a10499.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "dd/d5b/a10499.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "dd/d5b/a10499.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "dd/d5b/a10499.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

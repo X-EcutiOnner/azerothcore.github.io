@@ -1,6 +1,5 @@
 var a25187 =
 [
-    [ "HandleScriptEffect", "dc/da3/a25187.html#af8f2f4c4459204aa766a41dc4003581c", null ],
-    [ "PrepareSpellScript", "dc/da3/a25187.html#a687f10fa34894cb497a2ce3369fd83ef", null ],
-    [ "Register", "dc/da3/a25187.html#a034e52b435b6f4586084cb831e162c40", null ]
+    [ "PrepareSpellScript", "dc/da3/a25187.html#a096ce1292821f201af5f294877ee25e0", null ],
+    [ "Register", "dc/da3/a25187.html#a804d6dec38ea4e59a72ed09882dc9e95", null ]
 ];

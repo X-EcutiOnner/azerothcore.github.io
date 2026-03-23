@@ -1,7 +1,7 @@
 var a23055 =
 [
-    [ "boss_lady_malande", "d9/dbd/a23055.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "d9/dbd/a23055.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "d9/dbd/a23055.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "d9/dbd/a23055.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "HandleScriptEffect", "d9/dbd/a23055.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "d9/dbd/a23055.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "d9/dbd/a23055.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "d9/dbd/a23055.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

@@ -1,6 +1,7 @@
 var a11091 =
 [
-    [ "PetAbandon", "d1/db7/a11091.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
-    [ "Read", "d1/db7/a11091.html#a58ebb244de4bd65a85f75dcc24250883", null ],
-    [ "PetGUID", "d1/db7/a11091.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
+    [ "InstanceResetFailed", "d1/db7/a11091.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "d1/db7/a11091.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "d1/db7/a11091.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "d1/db7/a11091.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

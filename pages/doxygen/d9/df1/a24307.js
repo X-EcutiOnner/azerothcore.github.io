@@ -1,7 +1,7 @@
 var a24307 =
 [
-    [ "npc_kurenai_captiveAI", "da/df0/a24311.html", "da/df0/a24311" ],
-    [ "npc_kurenai_captive", "d9/df1/a24307.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
-    [ "GetAI", "d9/df1/a24307.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
-    [ "OnQuestAccept", "d9/df1/a24307.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
+    [ "CheckClass", "d9/df1/a24307.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
+    [ "HandleScript", "d9/df1/a24307.html#a4f4f7004be5629efdc48b52b6667edba", null ],
+    [ "PrepareSpellScript", "d9/df1/a24307.html#a599ce758681c5196bd40e4c7b86635cc", null ],
+    [ "Register", "d9/df1/a24307.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
 ];

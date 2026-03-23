@@ -1,7 +1,7 @@
 var a09767 =
 [
-    [ "QuestItem", "d5/dfe/a09767.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
-    [ "QuestItem", "d5/dfe/a09767.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
-    [ "index", "d5/dfe/a09767.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
-    [ "is_looted", "d5/dfe/a09767.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
+    [ "PowerCheck", "d5/dfe/a09767.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
+    [ "operator()", "d5/dfe/a09767.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
+    [ "_equals", "d5/dfe/a09767.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
+    [ "_power", "d5/dfe/a09767.html#a922a57b62b4289835b539a69b0f58fa1", null ]
 ];

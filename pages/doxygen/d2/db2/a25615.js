@@ -1,5 +1,6 @@
 var a25615 =
 [
-    [ "PrepareSpellScript", "d2/db2/a25615.html#ac83289482a8f83a2af80e2f9f35b6716", null ],
-    [ "Register", "d2/db2/a25615.html#a5e2cdc942b9972f79ff0a4fac2f0d77d", null ]
+    [ "HandleSummon", "d2/db2/a25615.html#aadfea4a2238754473a8abbc487fd7f7b", null ],
+    [ "PrepareSpellScript", "d2/db2/a25615.html#a4974a3687df394d51db322210ebb5ddb", null ],
+    [ "Register", "d2/db2/a25615.html#a89146ab41d1408c18ce2bff403ae8e4e", null ]
 ];

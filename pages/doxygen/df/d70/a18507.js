@@ -1,7 +1,6 @@
 var a18507 =
 [
-    [ "OnRemove", "df/d70/a18507.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "df/d70/a18507.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "df/d70/a18507.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "df/d70/a18507.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "npc_raging_spiritAI", "da/df5/a18511.html", "da/df5/a18511" ],
+    [ "npc_raging_spirit", "df/d70/a18507.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "df/d70/a18507.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

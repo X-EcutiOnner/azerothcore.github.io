@@ -1,7 +1,7 @@
 var a25531 =
 [
-    [ "HandleScript", "df/dd4/a25531.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
-    [ "PrepareSpellScript", "df/dd4/a25531.html#acf1173670c35c84ae7aba29be00d31cf", null ],
-    [ "Register", "df/dd4/a25531.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
-    [ "Validate", "df/dd4/a25531.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
+    [ "CheckProc", "df/dd4/a25531.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
+    [ "HandleProc", "df/dd4/a25531.html#a5cf9cea911ead2f261522e55e94c745a", null ],
+    [ "PrepareAuraScript", "df/dd4/a25531.html#a3f2b20607f90ad641769eb284ddfab85", null ],
+    [ "Register", "df/dd4/a25531.html#a55557026689613e91aeabce1af442237", null ]
 ];

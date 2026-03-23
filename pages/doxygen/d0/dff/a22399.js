@@ -1,6 +1,10 @@
 var a22399 =
 [
-    [ "npc_bushwhackerAI", "db/d94/a22403.html", "db/d94/a22403" ],
-    [ "npc_bushwhacker", "d0/dff/a22399.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
-    [ "GetAI", "d0/dff/a22399.html#ab3190b66069e820abf3637bb877066a0", null ]
+    [ "boss_murmur", "d0/dff/a22399.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CastSuppressionOOC", "d0/dff/a22399.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "EnterEvadeMode", "d0/dff/a22399.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "d0/dff/a22399.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "d0/dff/a22399.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "d0/dff/a22399.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
+    [ "ShouldCastResonance", "d0/dff/a22399.html#ade07217a85655a513d7a472d24589691", null ]
 ];

@@ -1,10 +1,14 @@
 var a07499 =
 [
-    [ "BattlegroundNA", "dc/d7b/a07499.html#abf646e63e474ac5bb381078ffd0f286e", null ],
-    [ "FillInitialWorldStates", "dc/d7b/a07499.html#af0932b648d2a4a4288409d8da360e06b", null ],
-    [ "HandleAreaTrigger", "dc/d7b/a07499.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
-    [ "HandlePlayerUnderMap", "dc/d7b/a07499.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
-    [ "SetupBattleground", "dc/d7b/a07499.html#addc3350a283fdac24e7aa88c23a7945a", null ],
-    [ "StartingEventCloseDoors", "dc/d7b/a07499.html#a316492a374884822045971f6dc3db1e2", null ],
-    [ "StartingEventOpenDoors", "dc/d7b/a07499.html#a72a953c5047a434d28b98e6185173140", null ]
+    [ "ArenaTeamScore", "dc/d7b/a07499.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
+    [ "~ArenaTeamScore", "dc/d7b/a07499.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
+    [ "Assign", "dc/d7b/a07499.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
+    [ "BuildRatingInfoBlock", "dc/d7b/a07499.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
+    [ "BuildTeamInfoBlock", "dc/d7b/a07499.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
+    [ "Reset", "dc/d7b/a07499.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
+    [ "Arena", "dc/d7b/a07499.html#a5f488c25aa439166d145713c67e7d085", null ],
+    [ "Battleground", "dc/d7b/a07499.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
+    [ "MatchmakerRating", "dc/d7b/a07499.html#a1e82169562a459371f973932d22e2f15", null ],
+    [ "RatingChange", "dc/d7b/a07499.html#a61c85f158b767a6c81de87d7ad5007db", null ],
+    [ "TeamName", "dc/d7b/a07499.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
 ];

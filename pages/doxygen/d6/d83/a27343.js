@@ -1,8 +1,7 @@
 var a27343 =
 [
-    [ "CharacterActionIpLogger", "d6/d83/a27343.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d6/d83/a27343.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d6/d83/a27343.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d6/d83/a27343.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d6/d83/a27343.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "HandleProc", "d6/d83/a27343.html#a4dbe9fedd6aabfd75f80c7ed6ab1d324", null ],
+    [ "PrepareAuraScript", "d6/d83/a27343.html#ae1ac0e47e529c729f04fb2e37ae4c1f9", null ],
+    [ "Register", "d6/d83/a27343.html#affb8d0a167e6f1bef1aaabd5eb99fe38", null ],
+    [ "Validate", "d6/d83/a27343.html#ae068298d60cdf9623748a8b6c77faabd", null ]
 ];

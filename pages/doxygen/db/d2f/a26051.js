@@ -1,7 +1,7 @@
 var a26051 =
 [
-    [ "HandleDummy", "db/d2f/a26051.html#ab9c732cc91f926331dea6b94c1021801", null ],
-    [ "PrepareSpellScript", "db/d2f/a26051.html#a80799c42f9f31f49d20d880dd377e3b4", null ],
-    [ "Register", "db/d2f/a26051.html#ae012e6852f079682fbafc776dec3455b", null ],
-    [ "Validate", "db/d2f/a26051.html#afc10f1989ae4b9cff7527f2d73180cde", null ]
+    [ "HandlePeriodicDummy", "db/d2f/a26051.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
+    [ "PrepareAuraScript", "db/d2f/a26051.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
+    [ "Register", "db/d2f/a26051.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
+    [ "Validate", "db/d2f/a26051.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
 ];

@@ -1,14 +1,11 @@
 var a20439 =
 [
-    [ "npc_ulduar_hodir_mageAI", "de/dad/a20439.html#a118059c877151a9f6b2b15a4070e2704", null ],
-    [ "AttackStart", "de/dad/a20439.html#a3217617eb3312c1da34dc7dce590fe0d", null ],
-    [ "CanAIAttack", "de/dad/a20439.html#a66ea56e856fcc706e4f938512def1590", null ],
-    [ "EnterEvadeMode", "de/dad/a20439.html#a6d4cd626dcd58f825a6c88b804bb38a7", null ],
-    [ "JustDied", "de/dad/a20439.html#a0176f8b45c20af1552e1a8b70e307442", null ],
-    [ "MoveInLineOfSight", "de/dad/a20439.html#aaf35c04462b1698e85df64190f4e2c8a", null ],
-    [ "ScheduleAbilities", "de/dad/a20439.html#a7927f399ef1c89b3eb83804fde9b2700", null ],
-    [ "SpellHit", "de/dad/a20439.html#aa814a46a45ce5eb9696c8f6c6de8c521", null ],
-    [ "UpdateAI", "de/dad/a20439.html#acbbe6667360e5bb7576c1ea741c2e2f1", null ],
-    [ "events", "de/dad/a20439.html#a556453c557df0be6a57255e400d98a87", null ],
-    [ "pInstance", "de/dad/a20439.html#ac4677898f5612c01d98ab242c7628e8f", null ]
+    [ "npc_ulduar_expedition_engineer", "de/dad/a20439.html#af3fe5048712bae3add6867e998c2824d", null ],
+    [ "Reset", "de/dad/a20439.html#a7bbdbdaed353d450161e470e5f656c17", null ],
+    [ "SetData", "de/dad/a20439.html#a9a714463750de3513e65174f796fb4de", null ],
+    [ "UpdateAI", "de/dad/a20439.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
+    [ "fixingGUID", "de/dad/a20439.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
+    [ "pInstance", "de/dad/a20439.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
+    [ "timer", "de/dad/a20439.html#a57f187130777929a921e2c35b6f43559", null ],
+    [ "working", "de/dad/a20439.html#a3450381dc89cabede2ccde6feab96dad", null ]
 ];

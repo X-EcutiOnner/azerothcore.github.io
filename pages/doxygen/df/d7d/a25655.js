@@ -1,10 +1,6 @@
 var a25655 =
 [
-    [ "Load", "df/d7d/a25655.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "df/d7d/a25655.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "df/d7d/a25655.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "df/d7d/a25655.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "df/d7d/a25655.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "df/d7d/a25655.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "df/d7d/a25655.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "CheckProc", "df/d7d/a25655.html#acac962ba1cb72615772fe8bc81d24f9d", null ],
+    [ "PrepareAuraScript", "df/d7d/a25655.html#aebe1c8083ba09c21125c47843b2949da", null ],
+    [ "Register", "df/d7d/a25655.html#adde6dada6b3012c2650ba9173c6616a0", null ]
 ];

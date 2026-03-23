@@ -1,5 +1,5 @@
 var a10435 =
 [
-    [ "MovementHandlerScript", "d3/dd8/a10435.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
-    [ "OnPlayerMove", "d3/dd8/a10435.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
+    [ "ScriptId", "d3/dd8/a10435.html#a6b17e959f80e7b3f2f3352a345eebcf9", null ],
+    [ "TypeId", "d3/dd8/a10435.html#aaddf1f172211966f5d727e6238889223", null ]
 ];

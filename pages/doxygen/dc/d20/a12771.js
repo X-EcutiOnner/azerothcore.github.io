@@ -1,6 +1,7 @@
 var a12771 =
 [
-    [ "bossId", "dc/d20/a12771.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "dc/d20/a12771.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "dc/d20/a12771.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "HandleDummy", "dc/d20/a12771.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
+    [ "PrepareSpellScript", "dc/d20/a12771.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
+    [ "Register", "dc/d20/a12771.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
+    [ "Validate", "dc/d20/a12771.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
 ];

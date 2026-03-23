@@ -1,11 +1,16 @@
 var a08151 =
 [
-    [ "FormationInfo", "d4/dcc/a08151.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
-    [ "HasGroupFlag", "d4/dcc/a08151.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
-    [ "follow_angle", "d4/dcc/a08151.html#a928ce7047d511c316a5367faf7f96673", null ],
-    [ "follow_dist", "d4/dcc/a08151.html#a3b59ee5129e208cc3df407a921362393", null ],
-    [ "groupAI", "d4/dcc/a08151.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
-    [ "leaderGUID", "d4/dcc/a08151.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
-    [ "point_1", "d4/dcc/a08151.html#a84298ff533bebc633689742c7f9299ae", null ],
-    [ "point_2", "d4/dcc/a08151.html#acc308b497de18211b99eec4311b256a4", null ]
+    [ "DisableMap", "d4/dcc/a08151.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
+    [ "DisableTypeMap", "d4/dcc/a08151.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
+    [ "DisableMgr", "d4/dcc/a08151.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
+    [ "~DisableMgr", "d4/dcc/a08151.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
+    [ "AddDisable", "d4/dcc/a08151.html#a343955ca73dabce8e7b81bf2803992fc", null ],
+    [ "CheckQuestDisables", "d4/dcc/a08151.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
+    [ "HandleDisableType", "d4/dcc/a08151.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
+    [ "instance", "d4/dcc/a08151.html#ac3787801d677b0ed6592476d648743db", null ],
+    [ "IsDisabledFor", "d4/dcc/a08151.html#accac4f17d8411544e22ba2231b04f36f", null ],
+    [ "IsPathfindingEnabled", "d4/dcc/a08151.html#a8dce4846886ded6ec2b882820abdc517", null ],
+    [ "IsVMAPDisabledFor", "d4/dcc/a08151.html#a38b182e1836b2197303b2809006f5148", null ],
+    [ "LoadDisables", "d4/dcc/a08151.html#adb464165caf6cd436499fa84969eeaf8", null ],
+    [ "m_DisableMap", "d4/dcc/a08151.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
 ];

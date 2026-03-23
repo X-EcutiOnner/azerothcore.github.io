@@ -1,7 +1,8 @@
 var a12915 =
 [
-    [ "npc_malchezaar_axe", "d0/d77/a12915.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "d0/d77/a12915.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "d0/d77/a12915.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "d0/d77/a12915.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "HandleEffectRemove", "d0/d77/a12915.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "d0/d77/a12915.html#a9e9aec7bc2773270c1063b1a3c44c07a", null ],
+    [ "PrepareAuraScript", "d0/d77/a12915.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "d0/d77/a12915.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "d0/d77/a12915.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

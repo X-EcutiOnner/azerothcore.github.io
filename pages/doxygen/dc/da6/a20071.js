@@ -1,11 +1,25 @@
 var a20071 =
 [
-    [ "boss_flame_leviathan_seatAI", "dc/da6/a20071.html#ab830db7804ee9b9815e4ea3398a6d856", null ],
-    [ "AttackStart", "dc/da6/a20071.html#a39efb927928e19a040144bab7dfa3ba2", null ],
-    [ "EnterEvadeMode", "dc/da6/a20071.html#aeda2ad4d596c86aa5c19acb1c710cc9f", null ],
-    [ "PassengerBoarded", "dc/da6/a20071.html#af4939f3daef8aae9a1eafe2020ab205e", null ],
-    [ "Reset", "dc/da6/a20071.html#a1e134e9bb2b1048f69dc310a52be9473", null ],
-    [ "UpdateAI", "dc/da6/a20071.html#a857b1e927ae6574e00e25a20a21d4427", null ],
-    [ "_despawnTimer", "dc/da6/a20071.html#ac3d1d8f405a37d2344c5f4e34519e2cb", null ],
-    [ "vehicle", "dc/da6/a20071.html#a9d0624a45613676a39def53b2a2fdce0", null ]
+    [ "boss_freya", "dc/da6/a20071.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "dc/da6/a20071.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
+    [ "DamageTaken", "dc/da6/a20071.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
+    [ "DoAction", "dc/da6/a20071.html#a099f983a17e002990aaecbb0995bb3b0", null ],
+    [ "GetData", "dc/da6/a20071.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
+    [ "JustEngagedWith", "dc/da6/a20071.html#a85a00b03079df9ce9b8fa035820c959b", null ],
+    [ "JustReachedHome", "dc/da6/a20071.html#a577c8714fef829a57533c1cfbd400dc0", null ],
+    [ "JustSummoned", "dc/da6/a20071.html#a24e4d87c3007c1c17c0d3c7c9bf68d79", null ],
+    [ "KilledUnit", "dc/da6/a20071.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
+    [ "Reset", "dc/da6/a20071.html#abadf6447f33116039e82065ce44f4322", null ],
+    [ "SpawnWave", "dc/da6/a20071.html#af1f486e8725a2710b237fe233f7fe181", null ],
+    [ "SpellHit", "dc/da6/a20071.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
+    [ "SpellHitTarget", "dc/da6/a20071.html#a22c4097731727de032fd6db3c9cef7cf", null ],
+    [ "UpdateAI", "dc/da6/a20071.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
+    [ "_backToNature", "dc/da6/a20071.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
+    [ "_deforestation", "dc/da6/a20071.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
+    [ "_elderGUID", "dc/da6/a20071.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
+    [ "_lumberjacked", "dc/da6/a20071.html#aa35101951b2d47848b69170ab36ae414", null ],
+    [ "_respawningTrio", "dc/da6/a20071.html#a9e0326bd0eff372fca2b5e0e310dd1da", null ],
+    [ "_spawnedAmount", "dc/da6/a20071.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
+    [ "_trioKilled", "dc/da6/a20071.html#ae141a7cf3554c606738774fe96a371dc", null ],
+    [ "_waveNumber", "dc/da6/a20071.html#af4e2576558c3c15303245f76c6e30aa0", null ]
 ];

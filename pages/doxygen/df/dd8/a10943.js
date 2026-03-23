@@ -1,9 +1,6 @@
 var a10943 =
 [
-    [ "LevelUpInfo", "df/dd8/a10943.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
-    [ "Write", "df/dd8/a10943.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
-    [ "HealthDelta", "df/dd8/a10943.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
-    [ "Level", "df/dd8/a10943.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
-    [ "PowerDelta", "df/dd8/a10943.html#a697da64ac234c24fe73e68d408697ee6", null ],
-    [ "StatDelta", "df/dd8/a10943.html#a580e4a3cd77631e960b7753542375d6d", null ]
+    [ "GuildEventLogQueryResults", "df/dd8/a10943.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "df/dd8/a10943.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "df/dd8/a10943.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

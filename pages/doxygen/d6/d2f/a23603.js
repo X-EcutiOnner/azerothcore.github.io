@@ -1,6 +1,9 @@
 var a23603 =
 [
-    [ "HandleAfterRemove", "d6/d2f/a23603.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "d6/d2f/a23603.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "d6/d2f/a23603.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "boss_void_reaver", "d6/d2f/a23603.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "d6/d2f/a23603.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "d6/d2f/a23603.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "d6/d2f/a23603.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "d6/d2f/a23603.html#a02c36ea960de24991f879943991a93c6", null ],
+    [ "_recentlySpoken", "d6/d2f/a23603.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
 ];

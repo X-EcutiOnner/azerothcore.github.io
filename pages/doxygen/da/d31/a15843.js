@@ -1,7 +1,6 @@
 var a15843 =
 [
-    [ "npc_kaya_flathoofAI", "d5/d68/a15847.html", "d5/d68/a15847" ],
-    [ "npc_kaya_flathoof", "da/d31/a15843.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "da/d31/a15843.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "da/d31/a15843.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "SpellId", "da/d31/a15843.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "da/d31/a15843.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "da/d31/a15843.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

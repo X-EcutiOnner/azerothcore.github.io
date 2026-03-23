@@ -1,6 +1,8 @@
 var a28147 =
 [
-    [ "ID", "dc/de9/a28147.html#a7d40e334785d96a2e57d28f87a59778a", null ],
-    [ "maxCount", "dc/de9/a28147.html#a5edc6442e026b12dae654fa86440a11a", null ],
-    [ "mode", "dc/de9/a28147.html#a76553ecf9f880a5e5967f818123742fd", null ]
+    [ "npc_artoriusAI", "dc/daf/a28151.html", "dc/daf/a28151" ],
+    [ "npc_artorius", "dc/de9/a28147.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
+    [ "GetAI", "dc/de9/a28147.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
+    [ "OnGossipHello", "dc/de9/a28147.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
+    [ "OnGossipSelect", "dc/de9/a28147.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
 ];

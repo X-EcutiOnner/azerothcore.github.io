@@ -1,8 +1,10 @@
 var a18195 =
 [
-    [ "HandleScript", "d2/d30/a18195.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "d2/d30/a18195.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "d2/d30/a18195.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "d2/d30/a18195.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "d2/d30/a18195.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "FilterTargets", "d2/d30/a18195.html#aefba5226671b6217549bd34059519179", null ],
+    [ "Load", "d2/d30/a18195.html#af8a2b651782783dc29ac7266ed02c028", null ],
+    [ "NotifyTargets", "d2/d30/a18195.html#a618e98fbd5c6ae21047cc4f911099730", null ],
+    [ "PrepareSpellScript", "d2/d30/a18195.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
+    [ "Register", "d2/d30/a18195.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
+    [ "ReplaceTargets", "d2/d30/a18195.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
+    [ "_target", "d2/d30/a18195.html#a10c85fd3909e56f457d73add8021c0b7", null ]
 ];

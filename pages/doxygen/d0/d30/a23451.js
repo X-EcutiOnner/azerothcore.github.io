@@ -1,6 +1,8 @@
 var a23451 =
 [
-    [ "FilterTargets", "d0/d30/a23451.html#af545460920658bc8ee0444f7c0d51970", null ],
-    [ "PrepareSpellScript", "d0/d30/a23451.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
-    [ "Register", "d0/d30/a23451.html#ac12cde698f5b0bbcdf433821772c7519", null ]
+    [ "boss_commander_sarannis", "d0/d30/a23451.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d0/d30/a23451.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d0/d30/a23451.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d0/d30/a23451.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d0/d30/a23451.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

@@ -1,6 +1,5 @@
 var a19879 =
 [
-    [ "boss_algalon_the_observerAI", "d0/d13/a19883.html", "d0/d13/a19883" ],
-    [ "boss_algalon_the_observer", "da/d9b/a19879.html#a0691b47a116401da58b246203ecba2cb", null ],
-    [ "GetAI", "da/d9b/a19879.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "da/d9b/a19879.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "da/d9b/a19879.html#affea33614581545c65513bfe533d7246", null ]
 ];

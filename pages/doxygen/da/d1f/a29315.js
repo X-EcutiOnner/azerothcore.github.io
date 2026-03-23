@@ -1,7 +1,7 @@
 var a29315 =
 [
-    [ "u_map_fcc", "d9/d59/a28326.html", "d9/d59/a28326" ],
-    [ "file_MVER", "de/d08/a28330.html", "de/d08/a28330" ],
-    [ "FileLoader", "da/d0b/a28338.html", "da/d0b/a28338" ],
-    [ "FILE_FORMAT_VERSION", "da/d1f/a29315.html#a6fef47739ef9998b00a2523c98cb2315", null ]
+    [ "flatModifier", "da/d1f/a29315.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "da/d1f/a29315.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "da/d1f/a29315.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "da/d1f/a29315.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

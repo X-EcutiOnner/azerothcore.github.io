@@ -1,7 +1,8 @@
 var a12735 =
 [
-    [ "HandleScript", "db/d54/a12735.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "db/d54/a12735.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "db/d54/a12735.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "db/d54/a12735.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "boss_garr", "db/d54/a12735.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "db/d54/a12735.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "db/d54/a12735.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "db/d54/a12735.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "db/d54/a12735.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

@@ -1,5 +1,5 @@
 var a19963 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "d4/dcb/a19963.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "d4/dcb/a19963.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "boss_flame_leviathan_overload_device", "d4/dcb/a19963.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
+    [ "OnSpellClick", "d4/dcb/a19963.html#a3f313a637fd95e28db1265ae84f349a8", null ]
 ];

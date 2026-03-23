@@ -1,12 +1,8 @@
 var a09911 =
 [
-    [ "MapReference", "d5/d14/a09911.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
-    [ "~MapReference", "d5/d14/a09911.html#a1e93b44871737991140718322fd1cd69", null ],
-    [ "next", "d5/d14/a09911.html#a352ef695a8968a17e921861b7d6242c1", null ],
-    [ "next", "d5/d14/a09911.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
-    [ "nocheck_prev", "d5/d14/a09911.html#a6cfff18295cf049ff554b0f140680890", null ],
-    [ "nockeck_prev", "d5/d14/a09911.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
-    [ "sourceObjectDestroyLink", "d5/d14/a09911.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
-    [ "targetObjectBuildLink", "d5/d14/a09911.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
-    [ "targetObjectDestroyLink", "d5/d14/a09911.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
+    [ "InstResetEvent", "d5/d14/a09911.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
+    [ "InstResetEvent", "d5/d14/a09911.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
+    [ "difficulty", "d5/d14/a09911.html#a67afe513dd42370ac4bb385a7128a324", null ],
+    [ "mapid", "d5/d14/a09911.html#ad02e00b2782304fbd75973fe58eefd33", null ],
+    [ "type", "d5/d14/a09911.html#ad211513c7ed39269d464190398dabaed", null ]
 ];

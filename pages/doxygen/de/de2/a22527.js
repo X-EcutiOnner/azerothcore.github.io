@@ -1,14 +1,10 @@
 var a22527 =
 [
-    [ "npc_wild_wyrm", "de/de2/a22527.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
-    [ "DamageTaken", "de/de2/a22527.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
-    [ "DoAction", "de/de2/a22527.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
-    [ "InitSpellsForPhase", "de/de2/a22527.html#adcc805b0880d95c185af4a587474c2d2", null ],
-    [ "MovementInform", "de/de2/a22527.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
-    [ "PassengerBoarded", "de/de2/a22527.html#a362052015873c615448bec978d744c9e", null ],
-    [ "Reset", "de/de2/a22527.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
-    [ "SpellHit", "de/de2/a22527.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
-    [ "UpdateAI", "de/de2/a22527.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
-    [ "_phase", "de/de2/a22527.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
-    [ "_playerGuid", "de/de2/a22527.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
+    [ "boss_illidari_council", "de/de2/a22527.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "de/de2/a22527.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "de/de2/a22527.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "de/de2/a22527.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "de/de2/a22527.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "de/de2/a22527.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "de/de2/a22527.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

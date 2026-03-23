@@ -1,7 +1,9 @@
 var a25075 =
 [
-    [ "CheckRequirement", "db/dfa/a25075.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "db/dfa/a25075.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "db/dfa/a25075.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "db/dfa/a25075.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "spell_gen_lifebloom", "db/dfa/a25075.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
+    [ "AfterRemove", "db/dfa/a25075.html#aea962f603e56c1bd33fccaef0c89d917", null ],
+    [ "PrepareAuraScript", "db/dfa/a25075.html#ac11134bdc3588795ce6e256c5b02055f", null ],
+    [ "Register", "db/dfa/a25075.html#ab4a552402ee9f90834320d6fc668cff3", null ],
+    [ "Validate", "db/dfa/a25075.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
+    [ "_spellId", "db/dfa/a25075.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
 ];

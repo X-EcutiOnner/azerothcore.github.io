@@ -1,9 +1,7 @@
 var a26087 =
 [
-    [ "CheckRequirement", "da/d57/a26087.html#adab261a5221ca54b15cc414d291908fe", null ],
-    [ "HandleDummy", "da/d57/a26087.html#abb7a734244bb18d75304a0510f9efb8d", null ],
-    [ "Load", "da/d57/a26087.html#a418eef16d1e3aeff67013f45409c092a", null ],
-    [ "PrepareSpellScript", "da/d57/a26087.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
-    [ "Register", "da/d57/a26087.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
-    [ "Validate", "da/d57/a26087.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
+    [ "HandleProc", "da/d57/a26087.html#a8a2e79509451ab5f0d05daa80ebd55ac", null ],
+    [ "PrepareAuraScript", "da/d57/a26087.html#a331d005fdb7ec53b49c1edc46209d8ea", null ],
+    [ "Register", "da/d57/a26087.html#a8a1afed2a17841f52c355214ab49b3af", null ],
+    [ "Validate", "da/d57/a26087.html#af9e07a3f65285bc82126b21b030a69e8", null ]
 ];

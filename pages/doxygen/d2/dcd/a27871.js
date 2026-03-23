@@ -1,7 +1,5 @@
 var a27871 =
 [
-    [ "npc_guardianAI", "d2/dcd/a27871.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "d2/dcd/a27871.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "d2/dcd/a27871.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "d2/dcd/a27871.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "go_seer_of_zebhalak", "d2/dcd/a27871.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "d2/dcd/a27871.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

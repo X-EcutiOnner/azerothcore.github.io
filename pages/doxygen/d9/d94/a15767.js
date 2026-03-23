@@ -1,7 +1,8 @@
 var a15767 =
 [
-    [ "npc_giant_spotlightAI", "d9/d94/a15767.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d9/d94/a15767.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d9/d94/a15767.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d9/d94/a15767.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "FilterTargets", "d9/d94/a15767.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "d9/d94/a15767.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "d9/d94/a15767.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "d9/d94/a15767.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "d9/d94/a15767.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

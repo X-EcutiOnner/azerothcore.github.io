@@ -1,12 +1,7 @@
 var a14559 =
 [
-    [ "npc_alexstraza_the_lifebinder", "de/d11/a14559.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "de/d11/a14559.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "de/d11/a14559.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "de/d11/a14559.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "UpdateAI", "de/d11/a14559.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "de/d11/a14559.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "de/d11/a14559.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "de/d11/a14559.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "de/d11/a14559.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "FilterTargets", "de/d11/a14559.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "de/d11/a14559.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "de/d11/a14559.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "de/d11/a14559.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

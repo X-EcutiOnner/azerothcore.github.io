@@ -1,8 +1,12 @@
 var a19691 =
 [
-    [ "npc_centrifuge_constructAI", "df/d15/a19691.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "df/d15/a19691.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "df/d15/a19691.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "df/d15/a19691.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "df/d15/a19691.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "npc_spark_of_ionar", "df/d15/a19691.html#a93df0828e409a44008257294855f8d7a", null ],
+    [ "AttackStart", "df/d15/a19691.html#a36181ef97213713c104edf4b085bc46e", null ],
+    [ "DamageTaken", "df/d15/a19691.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
+    [ "DoAction", "df/d15/a19691.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
+    [ "MoveInLineOfSight", "df/d15/a19691.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
+    [ "Reset", "df/d15/a19691.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
+    [ "UpdateAI", "df/d15/a19691.html#ae251d676f0505db2383e61ef007932a0", null ],
+    [ "_events", "df/d15/a19691.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
+    [ "returning", "df/d15/a19691.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
 ];

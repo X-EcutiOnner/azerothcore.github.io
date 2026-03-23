@@ -1,8 +1,9 @@
 var a09879 =
 [
-    [ "PositionFullTerrainStatus", "d7/d81/a09879.html#ae0349ed89530b35af91b7b1862acaffe", null ],
-    [ "areaId", "d7/d81/a09879.html#ac04966fa31b30f341a937906223463d4", null ],
-    [ "floorZ", "d7/d81/a09879.html#abbd186ca681e532d567b5a221a62c02b", null ],
-    [ "liquidInfo", "d7/d81/a09879.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
-    [ "outdoors", "d7/d81/a09879.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
+    [ "BroadcastTextID", "d7/d81/a09879.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "d7/d81/a09879.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "d7/d81/a09879.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "d7/d81/a09879.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "d7/d81/a09879.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "d7/d81/a09879.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

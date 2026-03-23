@@ -1,6 +1,6 @@
 var a16507 =
 [
-    [ "FilterTargets", "d3/deb/a16507.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "d3/deb/a16507.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "d3/deb/a16507.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "boss_eadricAI", "d7/dc6/a16511.html", "d7/dc6/a16511" ],
+    [ "boss_eadric", "d3/deb/a16507.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
+    [ "GetAI", "d3/deb/a16507.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
 ];

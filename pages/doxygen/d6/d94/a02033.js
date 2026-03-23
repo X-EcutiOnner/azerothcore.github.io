@@ -1,6 +1,7 @@
 var a02033 =
 [
-    [ "EncryptableAndCompressiblePacket", "d9/d29/a11505.html", "d9/d29/a11505" ],
-    [ "ClientPktHeader", "d7/daa/a11509.html", "d7/daa/a11509" ],
-    [ "WorldSocket", "d1/ddf/a11513.html", "d1/ddf/a11513" ]
+    [ "WorldPackets::Calendar::GetEvent", "d4/daf/a10791.html", "d4/daf/a10791" ],
+    [ "WorldPackets::Calendar::GuildFilter", "dd/ddf/a10795.html", "dd/ddf/a10795" ],
+    [ "WorldPackets::Calendar::ArenaTeam", "d3/dee/a10799.html", "d3/dee/a10799" ],
+    [ "WorldPackets::Calendar::CalendarComplain", "d9/df4/a10803.html", "d9/df4/a10803" ]
 ];

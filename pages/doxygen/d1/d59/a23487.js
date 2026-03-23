@@ -1,6 +1,4 @@
 var a23487 =
 [
-    [ "HandleEffectRemove", "d1/d59/a23487.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
-    [ "PrepareAuraScript", "d1/d59/a23487.html#adc6f982b0e3cc56039746f425cb09113", null ],
-    [ "Register", "d1/d59/a23487.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d1/d59/a23487.html#a86c5e55fe8f7e40d041abbcdb2d23797", null ]
 ];

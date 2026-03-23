@@ -1,7 +1,8 @@
 var a09471 =
 [
-    [ "NearestVisibleDetectableContestedGuardUnitCheck", "d8/d4c/a09471.html#a470ab1e22a90a00752717d76b45a7aab", null ],
-    [ "NearestVisibleDetectableContestedGuardUnitCheck", "d8/d4c/a09471.html#a042697dbc7622f5ff96bd1ade1afe5eb", null ],
-    [ "operator()", "d8/d4c/a09471.html#a031abed7dd2e5523991bf72d47e8e050", null ],
-    [ "me", "d8/d4c/a09471.html#a6cb490747146e1861006654deea366eb", null ]
+    [ "AIRelocationNotifier", "d8/d4c/a09471.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
+    [ "Visit", "d8/d4c/a09471.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "d8/d4c/a09471.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "i_unit", "d8/d4c/a09471.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "isCreature", "d8/d4c/a09471.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

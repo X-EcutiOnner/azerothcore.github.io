@@ -1,9 +1,13 @@
 var a22531 =
 [
-    [ "HandlePeriodic", "d1/d66/a22531.html#a0943e7887ff935ccea21d913429e25a0", null ],
-    [ "OnRemove", "d1/d66/a22531.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
-    [ "PrepareAuraScript", "d1/d66/a22531.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
-    [ "Register", "d1/d66/a22531.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
-    [ "_tickNumber", "d1/d66/a22531.html#a3f8943e288e96f639fb805869749879b", null ],
-    [ "_warning", "d1/d66/a22531.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
+    [ "boss_illidari_council_memberAI", "d1/d66/a22531.html#ac32366dfad13cd37ced2428d041e25c9", null ],
+    [ "DamageTaken", "d1/d66/a22531.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
+    [ "DoAction", "d1/d66/a22531.html#a203310b84d71a24145b1c39e7faff182", null ],
+    [ "EnterEvadeMode", "d1/d66/a22531.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
+    [ "JustDied", "d1/d66/a22531.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
+    [ "JustEngagedWith", "d1/d66/a22531.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
+    [ "KilledUnit", "d1/d66/a22531.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
+    [ "Reset", "d1/d66/a22531.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
+    [ "events", "d1/d66/a22531.html#ad47a350f5ed066e04816e72961a80bd0", null ],
+    [ "instance", "d1/d66/a22531.html#adb11720cd0fd87a42b9a78490a70251e", null ]
 ];

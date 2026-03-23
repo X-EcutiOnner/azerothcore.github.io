@@ -1,7 +1,6 @@
 var a17435 =
 [
-    [ "HandleDummy", "df/da9/a17435.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "df/da9/a17435.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "df/da9/a17435.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "df/da9/a17435.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "HandlePeriodic", "df/da9/a17435.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "df/da9/a17435.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "df/da9/a17435.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

@@ -1,6 +1,9 @@
 var a12663 =
 [
-    [ "boss_gehennasAI", "da/d3b/a12663.html#aaefd1f10d03957477863df95143a95a9", null ],
-    [ "ExecuteEvent", "da/d3b/a12663.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
-    [ "JustEngagedWith", "da/d3b/a12663.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
+    [ "FilterTargets", "da/d3b/a12663.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
+    [ "HandleOnHitRogue", "da/d3b/a12663.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
+    [ "HandleOnHitWarlock", "da/d3b/a12663.html#a76f9e5e11a6f2e25868dba567d798002", null ],
+    [ "PrepareSpellScript", "da/d3b/a12663.html#a4792a25aa6fe6126a94900784798dbee", null ],
+    [ "Register", "da/d3b/a12663.html#a0f6146c64a86e953c042f8404bbfe683", null ],
+    [ "Validate", "da/d3b/a12663.html#af65d372cdbb365eff73edb8cf18734c8", null ]
 ];

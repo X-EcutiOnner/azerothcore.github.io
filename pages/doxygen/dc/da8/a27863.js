@@ -1,13 +1,8 @@
 var a27863 =
 [
-    [ "npc_garments_of_questsAI", "dc/da8/a27863.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "dc/da8/a27863.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "dc/da8/a27863.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "dc/da8/a27863.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "dc/da8/a27863.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "dc/da8/a27863.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "CanRun", "dc/da8/a27863.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "dc/da8/a27863.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "dc/da8/a27863.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "dc/da8/a27863.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "FilterTargets", "dc/da8/a27863.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "dc/da8/a27863.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "dc/da8/a27863.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "dc/da8/a27863.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "dc/da8/a27863.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

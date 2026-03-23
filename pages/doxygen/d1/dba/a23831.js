@@ -1,6 +1,9 @@
 var a23831 =
 [
-    [ "HandleHit", "d1/dba/a23831.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "d1/dba/a23831.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "d1/dba/a23831.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "npc_bessyAI", "d1/dba/a23831.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d1/dba/a23831.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d1/dba/a23831.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d1/dba/a23831.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d1/dba/a23831.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
+    [ "WaypointReached", "d1/dba/a23831.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

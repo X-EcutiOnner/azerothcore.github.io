@@ -1,5 +1,6 @@
 var a22759 =
 [
-    [ "outdoorpvp_na_halaa_creatures", "df/d8a/a22759.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
-    [ "UpdateAI", "df/d8a/a22759.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
+    [ "HandleScriptEffect", "df/d8a/a22759.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
+    [ "PrepareSpellScript", "df/d8a/a22759.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
+    [ "Register", "df/d8a/a22759.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
 ];

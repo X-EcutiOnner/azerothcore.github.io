@@ -1,6 +1,7 @@
 var a19487 =
 [
-    [ "npc_vortex_rideAI", "d0/d1f/a19491.html", "d0/d1f/a19491" ],
-    [ "npc_vortex_ride", "da/d6c/a19487.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
-    [ "GetAI", "da/d6c/a19487.html#a23ef53feb432127db2620810a55d02ff", null ]
+    [ "Load", "da/d6c/a19487.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
+    [ "PrepareSpellScript", "da/d6c/a19487.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
+    [ "Register", "da/d6c/a19487.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
+    [ "SetDest", "da/d6c/a19487.html#a231a75702f4a98f51d1be45510c5d05f", null ]
 ];

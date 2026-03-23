@@ -1,6 +1,6 @@
 var a20191 =
 [
-    [ "OnPeriodic", "dc/d25/a20191.html#a379c55df994c58932fef7e7a59fd8426", null ],
-    [ "PrepareAuraScript", "dc/d25/a20191.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
-    [ "Register", "dc/d25/a20191.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
+    [ "DestroyWinterCache", "dc/d25/a20191.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "dc/d25/a20191.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "dc/d25/a20191.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

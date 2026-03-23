@@ -1,6 +1,6 @@
 var a12815 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "d6/d87/a12819.html", "d6/d87/a12819" ],
-    [ "instance_gnomeregan", "d0/d9b/a12815.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "d0/d9b/a12815.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "boss_sulfuron", "d0/d9b/a12815.html#a7ede84fab05e5cb008036be559c3c799", null ],
+    [ "ExecuteEvent", "d0/d9b/a12815.html#a5db50a398c704d8276566c1d74111d19", null ],
+    [ "JustEngagedWith", "d0/d9b/a12815.html#a320f58043ee525656a7c2fe94a2a4371", null ]
 ];

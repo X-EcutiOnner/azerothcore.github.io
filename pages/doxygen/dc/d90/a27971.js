@@ -1,5 +1,6 @@
 var a27971 =
 [
-    [ "npc_necropolis", "dc/d90/a27971.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
-    [ "SpellHit", "dc/d90/a27971.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
+    [ "go_gilded_brazierAI", "d0/ddc/a27975.html", "d0/ddc/a27975" ],
+    [ "go_gilded_brazier", "dc/d90/a27971.html#a778c753a8432131601371da8849ef004", null ],
+    [ "GetAI", "dc/d90/a27971.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
 ];

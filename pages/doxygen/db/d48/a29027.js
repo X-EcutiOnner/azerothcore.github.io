@@ -1,5 +1,7 @@
 var a29027 =
 [
-    [ "data1", "db/d48/a29027.html#a4b0310994e24cce89269fe3dacfca1d6", null ],
-    [ "exist", "db/d48/a29027.html#abdd6e3252b117c57a1e363217babd717", null ]
+    [ "Id", "db/d48/a29027.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "db/d48/a29027.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "db/d48/a29027.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "db/d48/a29027.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

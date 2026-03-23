@@ -1,7 +1,6 @@
 var a26599 =
 [
-    [ "CheckTarget", "d6/dbe/a26599.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "d6/dbe/a26599.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "d6/dbe/a26599.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "d6/dbe/a26599.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "HandleAfterHit", "d6/dbe/a26599.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
+    [ "PrepareSpellScript", "d6/dbe/a26599.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
+    [ "Register", "d6/dbe/a26599.html#a2a780069022e62b14992a7b69626ac3d", null ]
 ];

@@ -1,7 +1,5 @@
 var a23947 =
 [
-    [ "boss_zereketh_the_unbound", "df/dbd/a23947.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "df/dbd/a23947.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "df/dbd/a23947.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "df/dbd/a23947.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "go_crystal_prison", "df/dbd/a23947.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "df/dbd/a23947.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

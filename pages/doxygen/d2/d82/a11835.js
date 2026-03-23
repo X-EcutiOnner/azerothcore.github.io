@@ -1,6 +1,6 @@
 var a11835 =
 [
-    [ "bg_commandscript", "d2/d82/a11835.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
-    [ "GetCommands", "d2/d82/a11835.html#a911ccd6445b08c05069f7f196556c891", null ],
-    [ "HandleBagsClearCommand", "d2/d82/a11835.html#a92347e90c2f78d0dfeb41eb033366319", null ]
+    [ "EffectPeriodicHandler", "d2/d82/a11835.html#aad44956783e9c044eb92065cc62e97f6", null ],
+    [ "Call", "d2/d82/a11835.html#a938e987363972fbd58e42f19880016d8", null ],
+    [ "pEffectHandlerScript", "d2/d82/a11835.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
 ];

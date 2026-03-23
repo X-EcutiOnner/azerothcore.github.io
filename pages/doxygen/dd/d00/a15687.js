@@ -1,11 +1,7 @@
 var a15687 =
 [
-    [ "npc_tiger_matriarchAI", "dd/d00/a15687.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
-    [ "DamageTaken", "dd/d00/a15687.html#ab41c4275fe4f42b36615f746a100ccda", null ],
-    [ "IsSummonedBy", "dd/d00/a15687.html#a8b02683be93944a65b38658bba0af4d8", null ],
-    [ "JustEngagedWith", "dd/d00/a15687.html#a9a9295008552f5330f778dd3a0c591ea", null ],
-    [ "KilledUnit", "dd/d00/a15687.html#aabde7633ac07966ee1cd2d9817582189", null ],
-    [ "UpdateAI", "dd/d00/a15687.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
-    [ "_events", "dd/d00/a15687.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
-    [ "_tigerGuid", "dd/d00/a15687.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
+    [ "npc_prospector_remtravelAI", "df/d3d/a15691.html", "df/d3d/a15691" ],
+    [ "npc_prospector_remtravel", "dd/d00/a15687.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "dd/d00/a15687.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "dd/d00/a15687.html#a5e11149b6359927a71c98242d979e65b", null ]
 ];

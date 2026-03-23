@@ -1,12 +1,12 @@
 var a11907 =
 [
-    [ "guild_commandscript", "d7/dff/a11907.html#a4394d242740505ad128e4cebf4b617f0", null ],
-    [ "GetCommands", "d7/dff/a11907.html#a6b0a700e7fa3251373c1405d245f6931", null ],
-    [ "HandleGuildCreateCommand", "d7/dff/a11907.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
-    [ "HandleGuildDeleteCommand", "d7/dff/a11907.html#a4bbef641c86de37611e7ff1c906b4048", null ],
-    [ "HandleGuildInfoCommand", "d7/dff/a11907.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
-    [ "HandleGuildInviteCommand", "d7/dff/a11907.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
-    [ "HandleGuildRankCommand", "d7/dff/a11907.html#adbea3b610c98354866fec52a43fedda0", null ],
-    [ "HandleGuildRenameCommand", "d7/dff/a11907.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
-    [ "HandleGuildUninviteCommand", "d7/dff/a11907.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
+    [ "CreatureTextBuilder", "d7/dff/a11907.html#a582eed3ab284675e72261a1db9808925", null ],
+    [ "operator()", "d7/dff/a11907.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
+    [ "_gender", "d7/dff/a11907.html#a615c3046f749bf44b036958fb1a50128", null ],
+    [ "_language", "d7/dff/a11907.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
+    [ "_msgType", "d7/dff/a11907.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
+    [ "_source", "d7/dff/a11907.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
+    [ "_target", "d7/dff/a11907.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
+    [ "_textGroup", "d7/dff/a11907.html#afcd842c1482980c6232f3f19d21a1481", null ],
+    [ "_textId", "d7/dff/a11907.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
 ];

@@ -1,7 +1,12 @@
 var a19551 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "d7/d4d/a19551.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
-    [ "Execute", "d7/d4d/a19551.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
-    [ "_owner", "d7/d4d/a19551.html#ab48302fdff800afddfeec2c0d756873c", null ],
-    [ "_playerGUID", "d7/d4d/a19551.html#add56bff0695453e01f300e0434a39ec8", null ]
+    [ "instance_nexus_InstanceMapScript", "d7/d4d/a19551.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d7/d4d/a19551.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "KillAllFrayers", "d7/d4d/a19551.html#a7c696467deba7a2f15d5175e3427bd20", null ],
+    [ "OnCreatureCreate", "d7/d4d/a19551.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d7/d4d/a19551.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d7/d4d/a19551.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d7/d4d/a19551.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d7/d4d/a19551.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
+    [ "_frayerGUIDs", "d7/d4d/a19551.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
 ];

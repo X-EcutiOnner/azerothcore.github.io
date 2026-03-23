@@ -1,4 +1,5 @@
 var a14715 =
 [
-    [ "npc_midsummer_bonfire_despawner", "d8/d9d/a14715.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
+    [ "go_loosely_turned_soilAI", "d8/d9d/a14715.html#a603641bc52d26521d64afaaeed3abc4d", null ],
+    [ "CanBeSeen", "d8/d9d/a14715.html#a424b51b08d17ceb04b015cd535256889", null ]
 ];

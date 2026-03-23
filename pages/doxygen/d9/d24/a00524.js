@@ -1,9 +1,15 @@
 var a00524 =
 [
-    [ "ProcTestResult", "de/d64/a29517.html", "de/d64/a29517" ],
-    [ "ProcTestContext", "dd/d6d/a29521.html", "dd/d6d/a29521" ],
-    [ "AuraScriptProcTestFixture", "d3/d1b/a29525.html", "d3/d1b/a29525" ],
-    [ "ProcScenarioBuilder", "d1/d26/a29529.html", "d1/d26/a29529" ],
-    [ "EXPECT_PROC_DOES_NOT_TRIGGER", "d9/d24/a00524.html#ab8dc66c27ffce0980153941e8e7ab701", null ],
-    [ "EXPECT_PROC_TRIGGERS", "d9/d24/a00524.html#ad89bc4ac2d1077d7e73a7e08336ff303", null ]
+    [ "ProcChanceTestHelper", "d4/df4/a29303.html", "d4/df4/a29303" ],
+    [ "ProcChanceTestHelper::TriggeredSpellConfig", "d3/d3b/a29307.html", "d3/d3b/a29307" ],
+    [ "ProcChanceTestHelper::ExtraAttackProcConfig", "d8/d8a/a29311.html", "d8/d8a/a29311" ],
+    [ "ProcChanceTestHelper::PPMModifierConfig", "da/d1f/a29315.html", "da/d1f/a29315" ],
+    [ "ProcChanceTestHelper::EquipmentConfig", "d3/db3/a29319.html", "d3/db3/a29319" ],
+    [ "ProcChanceTestHelper::CascadeProcConfig", "dd/d02/a29323.html", "dd/d02/a29323" ],
+    [ "ProcChanceTestHelper::TakenAutoTriggerConfig", "d4/d47/a29327.html", "d4/d47/a29327" ],
+    [ "ProcChanceTestHelper::ConditionsConfig", "dc/de1/a29331.html", "dc/de1/a29331" ],
+    [ "ProcTestScenario", "d9/df1/a29335.html", "d9/df1/a29335" ],
+    [ "ProcChainGuardSimulator", "d4/daa/a29339.html", "d4/daa/a29339" ],
+    [ "ProcChainGuardSimulator::AuraConfig", "d3/de4/a29343.html", "d3/de4/a29343" ],
+    [ "ProcChainGuardSimulator::ProcRecord", "d4/dda/a29347.html", "d4/dda/a29347" ]
 ];

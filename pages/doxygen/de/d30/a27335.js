@@ -1,5 +1,7 @@
 var a27335 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "de/d30/a27335.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "de/d30/a27335.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "HandleProc", "de/d30/a27335.html#a4ea5706e6f0caa7a9c93b779bb71349f", null ],
+    [ "PrepareAuraScript", "de/d30/a27335.html#af83570899be1f91a1273cc5f46792b57", null ],
+    [ "Register", "de/d30/a27335.html#a1406e9a52a4e24a71fd26192abc64c73", null ],
+    [ "Validate", "de/d30/a27335.html#ab6528e1c69cbf7fdb8bb7e792908d02a", null ]
 ];

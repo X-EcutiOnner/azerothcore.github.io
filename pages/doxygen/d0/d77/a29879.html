@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/apps/authserver/Main.cpp File Reference</title>
+<title>AzerothCore: WMOGroup Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,231 +105,204 @@ $(document).ready(function(){initNavTree('d0/d77/a29879.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">Main.cpp File Reference</div></div>
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="../../da/d8c/a29876.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">WMOGroup Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AppenderDB.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AuthSocketMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Banner.h</a>&quot;</code><br />
-<code>#include &quot;Config.h&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GitRevision.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">IPLocation.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">IoContext.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MySQLThreading.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OpenSSLCrypto.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ProcessPriority.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">RealmList.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SecretMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SteadyTimer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &lt;boost/asio/signal_set.hpp&gt;</code><br />
-<code>#include &lt;boost/program_options.hpp&gt;</code><br />
-<code>#include &lt;boost/version.hpp&gt;</code><br />
-<code>#include &lt;csignal&gt;</code><br />
-<code>#include &lt;filesystem&gt;</code><br />
-<code>#include &lt;iostream&gt;</code><br />
-<code>#include &lt;openssl/crypto.h&gt;</code><br />
-<code>#include &lt;openssl/opensslv.h&gt;</code><br />
-</div>
-<p><a href="">Go to the source code of this file.</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">wmo.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a139668c786d564a415e0626b3344dc83"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a139668c786d564a415e0626b3344dc83">_ACORE_REALM_CONFIG</a>&#160;&#160;&#160;&quot;authserver.conf&quot;</td></tr>
-<tr class="separator:a139668c786d564a415e0626b3344dc83"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a1c18a6cf192c9241838163bd8b9eaf32"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a1c18a6cf192c9241838163bd8b9eaf32">WMOGroup</a> (std::string const &amp;<a class="el" href="../../d0/d77/a29879.html#a3dd16ad2acc44ffac305ca53e58f088f">filename</a>)</td></tr>
+<tr class="separator:a1c18a6cf192c9241838163bd8b9eaf32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acbdc09d47283f00cf13e4f0483a2fc6a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#acbdc09d47283f00cf13e4f0483a2fc6a">~WMOGroup</a> ()</td></tr>
+<tr class="separator:acbdc09d47283f00cf13e4f0483a2fc6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd301198a52de037a499089263ab8a83"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#abd301198a52de037a499089263ab8a83">open</a> (<a class="el" href="../../d9/d19/a29867.html">WMORoot</a> *rootWMO)</td></tr>
+<tr class="separator:abd301198a52de037a499089263ab8a83"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4430cee0de8719128a77abf1d5f97ba"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#ae4430cee0de8719128a77abf1d5f97ba">ConvertToVMAPGroupWmo</a> (FILE *output, bool <a class="el" href="../../d0/da3/a04961.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a>)</td></tr>
+<tr class="separator:ae4430cee0de8719128a77abf1d5f97ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac41bf56bfaef1f478a0210327015f46d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#ac41bf56bfaef1f478a0210327015f46d">GetLiquidTypeId</a> (<a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> liquidTypeId)</td></tr>
+<tr class="separator:ac41bf56bfaef1f478a0210327015f46d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af75eef1c0cf5a1450a3ce8a8a5d455bc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#af75eef1c0cf5a1450a3ce8a8a5d455bc">ShouldSkip</a> (<a class="el" href="../../d9/d19/a29867.html">WMORoot</a> const *root) const</td></tr>
+<tr class="separator:af75eef1c0cf5a1450a3ce8a8a5d455bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#ga1551df43a48f1dbf64dbec1e47b07eea">StartDB</a> ()</td></tr>
-<tr class="memdesc:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initialize connection to the database.  <a href="../../d0/d77/a29879.html#ga1551df43a48f1dbf64dbec1e47b07eea">More...</a><br /></td></tr>
-<tr class="separator:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga927af1587546ee7503a3b9a18f6439c0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#ga927af1587546ee7503a3b9a18f6439c0">StopDB</a> ()</td></tr>
-<tr class="memdesc:ga927af1587546ee7503a3b9a18f6439c0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Close the connection to the database.  <a href="../../d0/d77/a29879.html#ga927af1587546ee7503a3b9a18f6439c0">More...</a><br /></td></tr>
-<tr class="separator:ga927af1587546ee7503a3b9a18f6439c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb73d9c1332263ddf049505e1b12672d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#abb73d9c1332263ddf049505e1b12672d">SignalHandler</a> (std::weak_ptr&lt; <a class="el" href="../../df/df6/a04914.html">Acore::Asio::IoContext</a> &gt; ioContextRef, boost::system::error_code const &amp;error, int signalNumber)</td></tr>
-<tr class="separator:abb73d9c1332263ddf049505e1b12672d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a56e4613e7e60d171b9ce45f52758a057"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a56e4613e7e60d171b9ce45f52758a057">KeepDatabaseAliveHandler</a> (std::weak_ptr&lt; boost::asio::steady_timer &gt; dbPingTimerRef, <a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> dbPingInterval, boost::system::error_code const &amp;error)</td></tr>
-<tr class="separator:a56e4613e7e60d171b9ce45f52758a057"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a625d6480b04e88fcbc85e5b8d29502a6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a625d6480b04e88fcbc85e5b8d29502a6">BanExpiryHandler</a> (std::weak_ptr&lt; boost::asio::steady_timer &gt; banExpiryCheckTimerRef, <a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> banExpiryCheckInterval, boost::system::error_code const &amp;error)</td></tr>
-<tr class="separator:a625d6480b04e88fcbc85e5b8d29502a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6f250d3a28ed2192d175846c6ce5795b"><td class="memItemLeft" align="right" valign="top">variables_map&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a6f250d3a28ed2192d175846c6ce5795b">GetConsoleArguments</a> (int argc, char **argv, fs::path &amp;configFile)</td></tr>
-<tr class="separator:a6f250d3a28ed2192d175846c6ce5795b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3c04138a5bfe5d72780bb7e82a18e627"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a3c04138a5bfe5d72780bb7e82a18e627">main</a> (int argc, char **argv)</td></tr>
-<tr class="memdesc:a3c04138a5bfe5d72780bb7e82a18e627"><td class="mdescLeft">&#160;</td><td class="mdescRight">Launch the auth server.  <a href="../../d0/d77/a29879.html#a3c04138a5bfe5d72780bb7e82a18e627">More...</a><br /></td></tr>
-<tr class="separator:a3c04138a5bfe5d72780bb7e82a18e627"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ab7f07164e35d2d1dc302a9769f2d488a"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#ab7f07164e35d2d1dc302a9769f2d488a">MOPY</a></td></tr>
+<tr class="separator:ab7f07164e35d2d1dc302a9769f2d488a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e022922ced7ed76ae88abcab1ee36d6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a2e022922ced7ed76ae88abcab1ee36d6">MOVI</a></td></tr>
+<tr class="separator:a2e022922ced7ed76ae88abcab1ee36d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4a4ce4598527e13f15c452a8105acf1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#af4a4ce4598527e13f15c452a8105acf1">MoviEx</a></td></tr>
+<tr class="separator:af4a4ce4598527e13f15c452a8105acf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0dfa2177350ecf56f2ae020ae430152a"><td class="memItemLeft" align="right" valign="top">float *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a0dfa2177350ecf56f2ae020ae430152a">MOVT</a></td></tr>
+<tr class="separator:a0dfa2177350ecf56f2ae020ae430152a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa34e0a3886cec51c9b2940201dbc52a9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#aa34e0a3886cec51c9b2940201dbc52a9">MOBA</a></td></tr>
+<tr class="separator:aa34e0a3886cec51c9b2940201dbc52a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae185ea49affd80b22e7fb1825ce01031"><td class="memItemLeft" align="right" valign="top">int *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#ae185ea49affd80b22e7fb1825ce01031">MobaEx</a></td></tr>
+<tr class="separator:ae185ea49affd80b22e7fb1825ce01031"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae263e796a667e2876c174b971c635d0d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d8e/a29871.html">WMOLiquidHeader</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a></td></tr>
+<tr class="separator:ae263e796a667e2876c174b971c635d0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa1f9a8e72a43997e2d7231ebea7c4767"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d89/a29875.html">WMOLiquidVert</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#aa1f9a8e72a43997e2d7231ebea7c4767">LiquEx</a></td></tr>
+<tr class="separator:aa1f9a8e72a43997e2d7231ebea7c4767"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac5934125dffe4733ba2f84a992596d48"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#ac5934125dffe4733ba2f84a992596d48">LiquBytes</a></td></tr>
+<tr class="separator:ac5934125dffe4733ba2f84a992596d48"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e77e649fb0113c33546a9dc222d799a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a3e77e649fb0113c33546a9dc222d799a">groupName</a></td></tr>
+<tr class="separator:a3e77e649fb0113c33546a9dc222d799a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50c861842e55b23eed753a05d0395b27"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a50c861842e55b23eed753a05d0395b27">descGroupName</a></td></tr>
+<tr class="separator:a50c861842e55b23eed753a05d0395b27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80fb6aaf44deb2bb00dd6d465ec9193a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a80fb6aaf44deb2bb00dd6d465ec9193a">mogpFlags</a></td></tr>
+<tr class="separator:a80fb6aaf44deb2bb00dd6d465ec9193a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af906d56c7da01d8afe8fcc1304f1a420"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#af906d56c7da01d8afe8fcc1304f1a420">bbcorn1</a> [3]</td></tr>
+<tr class="separator:af906d56c7da01d8afe8fcc1304f1a420"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a752352742955934b15d6882fa7e0e96a"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a752352742955934b15d6882fa7e0e96a">bbcorn2</a> [3]</td></tr>
+<tr class="separator:a752352742955934b15d6882fa7e0e96a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a387406120b3c91dac872a4ab66e7bfc1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a387406120b3c91dac872a4ab66e7bfc1">moprIdx</a></td></tr>
+<tr class="separator:a387406120b3c91dac872a4ab66e7bfc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7c65f3e297f0884de3aab0a86a84e3d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#af7c65f3e297f0884de3aab0a86a84e3d">moprNItems</a></td></tr>
+<tr class="separator:af7c65f3e297f0884de3aab0a86a84e3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e5e1e025b036e40d3e25c5bd5bd5e10"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a2e5e1e025b036e40d3e25c5bd5bd5e10">nBatchA</a></td></tr>
+<tr class="separator:a2e5e1e025b036e40d3e25c5bd5bd5e10"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6575b9c6e9e1277d4eaef123a319b6f5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a6575b9c6e9e1277d4eaef123a319b6f5">nBatchB</a></td></tr>
+<tr class="separator:a6575b9c6e9e1277d4eaef123a319b6f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0dca524936b763d5ffca94cef49a99fe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a0dca524936b763d5ffca94cef49a99fe">nBatchC</a></td></tr>
+<tr class="separator:a0dca524936b763d5ffca94cef49a99fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2fb13fd2ca9f92720c57110436140a89"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a2fb13fd2ca9f92720c57110436140a89">fogIdx</a></td></tr>
+<tr class="separator:a2fb13fd2ca9f92720c57110436140a89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a313188e09699e7e1c6a83e13e9885ce9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a></td></tr>
+<tr class="separator:a313188e09699e7e1c6a83e13e9885ce9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a647259dd122cf8e424f1704ebab524f9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a647259dd122cf8e424f1704ebab524f9">groupWMOID</a></td></tr>
+<tr class="separator:a647259dd122cf8e424f1704ebab524f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7681a258e4b9c6d88fadbc07039f0fb"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#ac7681a258e4b9c6d88fadbc07039f0fb">mopy_size</a></td></tr>
+<tr class="separator:ac7681a258e4b9c6d88fadbc07039f0fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a187402bf47b87da329875cee6d5e8892"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a187402bf47b87da329875cee6d5e8892">moba_size</a></td></tr>
+<tr class="separator:a187402bf47b87da329875cee6d5e8892"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55e947f4f48cd4e6bdc3b1fe1f29c48e"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a55e947f4f48cd4e6bdc3b1fe1f29c48e">LiquEx_size</a></td></tr>
+<tr class="separator:a55e947f4f48cd4e6bdc3b1fe1f29c48e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ff67a2c20347f8aad5dde142e6df437"><td class="memItemLeft" align="right" valign="top">unsigned int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a></td></tr>
+<tr class="separator:a8ff67a2c20347f8aad5dde142e6df437"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1d35d60e8c67a7bf727d3b606936497"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#ac1d35d60e8c67a7bf727d3b606936497">nTriangles</a></td></tr>
+<tr class="separator:ac1d35d60e8c67a7bf727d3b606936497"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa851edbe28162415b07ae34a28385342"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#aa851edbe28162415b07ae34a28385342">liquflags</a></td></tr>
+<tr class="separator:aa851edbe28162415b07ae34a28385342"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76169b5fa7a0babdc3060018fce02136"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a76169b5fa7a0babdc3060018fce02136">DoodadReferences</a></td></tr>
+<tr class="separator:a76169b5fa7a0babdc3060018fce02136"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a3dd16ad2acc44ffac305ca53e58f088f"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29879.html#a3dd16ad2acc44ffac305ca53e58f088f">filename</a></td></tr>
+<tr class="separator:a3dd16ad2acc44ffac305ca53e58f088f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a139668c786d564a415e0626b3344dc83" name="a139668c786d564a415e0626b3344dc83"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a139668c786d564a415e0626b3344dc83">&#9670;&#160;</a></span>_ACORE_REALM_CONFIG</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a1c18a6cf192c9241838163bd8b9eaf32" name="a1c18a6cf192c9241838163bd8b9eaf32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c18a6cf192c9241838163bd8b9eaf32">&#9670;&#160;</a></span>WMOGroup()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define _ACORE_REALM_CONFIG&#160;&#160;&#160;&quot;authserver.conf&quot;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a625d6480b04e88fcbc85e5b8d29502a6" name="a625d6480b04e88fcbc85e5b8d29502a6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a625d6480b04e88fcbc85e5b8d29502a6">&#9670;&#160;</a></span>BanExpiryHandler()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BanExpiryHandler </td>
+          <td class="memname">WMOGroup::WMOGroup </td>
           <td>(</td>
-          <td class="paramtype">std::weak_ptr&lt; boost::asio::steady_timer &gt;&#160;</td>
-          <td class="paramname"><em>banExpiryCheckTimerRef</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>filename</em></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
-          <td class="paramname"><em>banExpiryCheckInterval</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">boost::system::error_code const &amp;&#160;</td>
-          <td class="paramname"><em>error</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  260</span>{</div>
-<div class="line"><span class="lineno">  261</span>    <span class="keywordflow">if</span> (!error)</div>
-<div class="line"><span class="lineno">  262</span>    {</div>
-<div class="line"><span class="lineno">  263</span>        <span class="keywordflow">if</span> (std::shared_ptr&lt;boost::asio::steady_timer&gt; banExpiryCheckTimer = banExpiryCheckTimerRef.lock())</div>
-<div class="line"><span class="lineno">  264</span>        {</div>
-<div class="line"><span class="lineno">  265</span>            <a class="code hl_variable" href="../../db/de8/a03968.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Execute(<a class="code hl_variable" href="../../db/de8/a03968.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../dc/d64/a04058.html#a2bc6eef17d8ecd1b7027058f5fecc9fba391d5d5679155b59c7c5e62479acb721">LOGIN_DEL_EXPIRED_IP_BANS</a>));</div>
-<div class="line"><span class="lineno">  266</span>            <a class="code hl_variable" href="../../db/de8/a03968.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Execute(<a class="code hl_variable" href="../../db/de8/a03968.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../dc/d64/a04058.html#a2bc6eef17d8ecd1b7027058f5fecc9fbaa9c6600fa614f178681509ed2ce550a2">LOGIN_UPD_EXPIRED_ACCOUNT_BANS</a>));</div>
-<div class="line"><span class="lineno">  267</span> </div>
-<div class="line"><span class="lineno">  268</span>            banExpiryCheckTimer-&gt;expires_at(<a class="code hl_function" href="../../d9/d3b/a04812.html#a546bd84b57be90f3ceb4cfc0fb92ae1c">Acore::Asio::SteadyTimer::GetExpirationTime</a>(banExpiryCheckInterval));</div>
-<div class="line"><span class="lineno">  269</span>            banExpiryCheckTimer-&gt;async_wait(std::bind(&amp;<a class="code hl_function" href="../../d0/d77/a29879.html#a625d6480b04e88fcbc85e5b8d29502a6">BanExpiryHandler</a>, banExpiryCheckTimerRef, banExpiryCheckInterval, std::placeholders::_1));</div>
-<div class="line"><span class="lineno">  270</span>        }</div>
-<div class="line"><span class="lineno">  271</span>    }</div>
-<div class="line"><span class="lineno">  272</span>}</div>
-<div class="ttc" id="aa03968_html_a2cf25eafe7f2f73b61ccde11d55daf0c"><div class="ttname"><a href="../../db/de8/a03968.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; LoginDatabaseConnection &gt; LoginDatabase</div><div class="ttdoc">Accessor to the realm/login database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:22</div></div>
-<div class="ttc" id="aa04058_html_a2bc6eef17d8ecd1b7027058f5fecc9fba391d5d5679155b59c7c5e62479acb721"><div class="ttname"><a href="../../dc/d64/a04058.html#a2bc6eef17d8ecd1b7027058f5fecc9fba391d5d5679155b59c7c5e62479acb721">LOGIN_DEL_EXPIRED_IP_BANS</a></div><div class="ttdeci">@ LOGIN_DEL_EXPIRED_IP_BANS</div><div class="ttdef"><b>Definition:</b> LoginDatabase.h:32</div></div>
-<div class="ttc" id="aa04058_html_a2bc6eef17d8ecd1b7027058f5fecc9fbaa9c6600fa614f178681509ed2ce550a2"><div class="ttname"><a href="../../dc/d64/a04058.html#a2bc6eef17d8ecd1b7027058f5fecc9fbaa9c6600fa614f178681509ed2ce550a2">LOGIN_UPD_EXPIRED_ACCOUNT_BANS</a></div><div class="ttdeci">@ LOGIN_UPD_EXPIRED_ACCOUNT_BANS</div><div class="ttdef"><b>Definition:</b> LoginDatabase.h:33</div></div>
-<div class="ttc" id="aa04812_html_a546bd84b57be90f3ceb4cfc0fb92ae1c"><div class="ttname"><a href="../../d9/d3b/a04812.html#a546bd84b57be90f3ceb4cfc0fb92ae1c">Acore::Asio::SteadyTimer::GetExpirationTime</a></div><div class="ttdeci">auto GetExpirationTime(int32 seconds)</div><div class="ttdef"><b>Definition:</b> SteadyTimer.h:25</div></div>
-<div class="ttc" id="aa29879_html_a625d6480b04e88fcbc85e5b8d29502a6"><div class="ttname"><a href="../../d0/d77/a29879.html#a625d6480b04e88fcbc85e5b8d29502a6">BanExpiryHandler</a></div><div class="ttdeci">void BanExpiryHandler(std::weak_ptr&lt; boost::asio::steady_timer &gt; banExpiryCheckTimerRef, int32 banExpiryCheckInterval, boost::system::error_code const &amp;error)</div><div class="ttdef"><b>Definition:</b> Main.cpp:259</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  161</span>                                            :</div>
+<div class="line"><span class="lineno">  162</span>    <a class="code hl_variable" href="../../d0/d77/a29879.html#a3dd16ad2acc44ffac305ca53e58f088f">filename</a>(std::move(<a class="code hl_variable" href="../../d0/d77/a29879.html#a3dd16ad2acc44ffac305ca53e58f088f">filename</a>)), <a class="code hl_variable" href="../../d0/d77/a29879.html#ab7f07164e35d2d1dc302a9769f2d488a">MOPY</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d0/d77/a29879.html#a2e022922ced7ed76ae88abcab1ee36d6">MOVI</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d0/d77/a29879.html#af4a4ce4598527e13f15c452a8105acf1">MoviEx</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d0/d77/a29879.html#a0dfa2177350ecf56f2ae020ae430152a">MOVT</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d0/d77/a29879.html#aa34e0a3886cec51c9b2940201dbc52a9">MOBA</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d0/d77/a29879.html#ae185ea49affd80b22e7fb1825ce01031">MobaEx</a>(<span class="keyword">nullptr</span>),</div>
+<div class="line"><span class="lineno">  163</span>    <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d0/d77/a29879.html#aa1f9a8e72a43997e2d7231ebea7c4767">LiquEx</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d0/d77/a29879.html#ac5934125dffe4733ba2f84a992596d48">LiquBytes</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d0/d77/a29879.html#a3e77e649fb0113c33546a9dc222d799a">groupName</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#a50c861842e55b23eed753a05d0395b27">descGroupName</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#a80fb6aaf44deb2bb00dd6d465ec9193a">mogpFlags</a>(0),</div>
+<div class="line"><span class="lineno">  164</span>    <a class="code hl_variable" href="../../d0/d77/a29879.html#a387406120b3c91dac872a4ab66e7bfc1">moprIdx</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#af7c65f3e297f0884de3aab0a86a84e3d">moprNItems</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#a2e5e1e025b036e40d3e25c5bd5bd5e10">nBatchA</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#a6575b9c6e9e1277d4eaef123a319b6f5">nBatchB</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#a0dca524936b763d5ffca94cef49a99fe">nBatchC</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#a2fb13fd2ca9f92720c57110436140a89">fogIdx</a>(0),</div>
+<div class="line"><span class="lineno">  165</span>    <a class="code hl_variable" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#a647259dd122cf8e424f1704ebab524f9">groupWMOID</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#ac7681a258e4b9c6d88fadbc07039f0fb">mopy_size</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#a187402bf47b87da329875cee6d5e8892">moba_size</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#a55e947f4f48cd4e6bdc3b1fe1f29c48e">LiquEx_size</a>(0),</div>
+<div class="line"><span class="lineno">  166</span>    <a class="code hl_variable" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#ac1d35d60e8c67a7bf727d3b606936497">nTriangles</a>(0), <a class="code hl_variable" href="../../d0/d77/a29879.html#aa851edbe28162415b07ae34a28385342">liquflags</a>(0)</div>
+<div class="line"><span class="lineno">  167</span>{</div>
+<div class="line"><span class="lineno">  168</span>    memset(<a class="code hl_variable" href="../../d0/d77/a29879.html#af906d56c7da01d8afe8fcc1304f1a420">bbcorn1</a>, 0, <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d0/d77/a29879.html#af906d56c7da01d8afe8fcc1304f1a420">bbcorn1</a>));</div>
+<div class="line"><span class="lineno">  169</span>    memset(<a class="code hl_variable" href="../../d0/d77/a29879.html#a752352742955934b15d6882fa7e0e96a">bbcorn2</a>, 0, <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d0/d77/a29879.html#a752352742955934b15d6882fa7e0e96a">bbcorn2</a>));</div>
+<div class="line"><span class="lineno">  170</span>}</div>
+<div class="ttc" id="aa29879_html_a0dca524936b763d5ffca94cef49a99fe"><div class="ttname"><a href="../../d0/d77/a29879.html#a0dca524936b763d5ffca94cef49a99fe">WMOGroup::nBatchC</a></div><div class="ttdeci">uint32 nBatchC</div><div class="ttdef"><b>Definition:</b> wmo.h:142</div></div>
+<div class="ttc" id="aa29879_html_a0dfa2177350ecf56f2ae020ae430152a"><div class="ttname"><a href="../../d0/d77/a29879.html#a0dfa2177350ecf56f2ae020ae430152a">WMOGroup::MOVT</a></div><div class="ttdeci">float * MOVT</div><div class="ttdef"><b>Definition:</b> wmo.h:128</div></div>
+<div class="ttc" id="aa29879_html_a187402bf47b87da329875cee6d5e8892"><div class="ttname"><a href="../../d0/d77/a29879.html#a187402bf47b87da329875cee6d5e8892">WMOGroup::moba_size</a></div><div class="ttdeci">int moba_size</div><div class="ttdef"><b>Definition:</b> wmo.h:144</div></div>
+<div class="ttc" id="aa29879_html_a2e022922ced7ed76ae88abcab1ee36d6"><div class="ttname"><a href="../../d0/d77/a29879.html#a2e022922ced7ed76ae88abcab1ee36d6">WMOGroup::MOVI</a></div><div class="ttdeci">uint16 * MOVI</div><div class="ttdef"><b>Definition:</b> wmo.h:126</div></div>
+<div class="ttc" id="aa29879_html_a2e5e1e025b036e40d3e25c5bd5bd5e10"><div class="ttname"><a href="../../d0/d77/a29879.html#a2e5e1e025b036e40d3e25c5bd5bd5e10">WMOGroup::nBatchA</a></div><div class="ttdeci">uint16 nBatchA</div><div class="ttdef"><b>Definition:</b> wmo.h:140</div></div>
+<div class="ttc" id="aa29879_html_a2fb13fd2ca9f92720c57110436140a89"><div class="ttname"><a href="../../d0/d77/a29879.html#a2fb13fd2ca9f92720c57110436140a89">WMOGroup::fogIdx</a></div><div class="ttdeci">uint32 fogIdx</div><div class="ttdef"><b>Definition:</b> wmo.h:142</div></div>
+<div class="ttc" id="aa29879_html_a313188e09699e7e1c6a83e13e9885ce9"><div class="ttname"><a href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">WMOGroup::groupLiquid</a></div><div class="ttdeci">uint32 groupLiquid</div><div class="ttdef"><b>Definition:</b> wmo.h:142</div></div>
+<div class="ttc" id="aa29879_html_a387406120b3c91dac872a4ab66e7bfc1"><div class="ttname"><a href="../../d0/d77/a29879.html#a387406120b3c91dac872a4ab66e7bfc1">WMOGroup::moprIdx</a></div><div class="ttdeci">uint16 moprIdx</div><div class="ttdef"><b>Definition:</b> wmo.h:138</div></div>
+<div class="ttc" id="aa29879_html_a3dd16ad2acc44ffac305ca53e58f088f"><div class="ttname"><a href="../../d0/d77/a29879.html#a3dd16ad2acc44ffac305ca53e58f088f">WMOGroup::filename</a></div><div class="ttdeci">std::string filename</div><div class="ttdef"><b>Definition:</b> wmo.h:121</div></div>
+<div class="ttc" id="aa29879_html_a3e77e649fb0113c33546a9dc222d799a"><div class="ttname"><a href="../../d0/d77/a29879.html#a3e77e649fb0113c33546a9dc222d799a">WMOGroup::groupName</a></div><div class="ttdeci">int groupName</div><div class="ttdef"><b>Definition:</b> wmo.h:134</div></div>
+<div class="ttc" id="aa29879_html_a50c861842e55b23eed753a05d0395b27"><div class="ttname"><a href="../../d0/d77/a29879.html#a50c861842e55b23eed753a05d0395b27">WMOGroup::descGroupName</a></div><div class="ttdeci">int descGroupName</div><div class="ttdef"><b>Definition:</b> wmo.h:134</div></div>
+<div class="ttc" id="aa29879_html_a55e947f4f48cd4e6bdc3b1fe1f29c48e"><div class="ttname"><a href="../../d0/d77/a29879.html#a55e947f4f48cd4e6bdc3b1fe1f29c48e">WMOGroup::LiquEx_size</a></div><div class="ttdeci">int LiquEx_size</div><div class="ttdef"><b>Definition:</b> wmo.h:145</div></div>
+<div class="ttc" id="aa29879_html_a647259dd122cf8e424f1704ebab524f9"><div class="ttname"><a href="../../d0/d77/a29879.html#a647259dd122cf8e424f1704ebab524f9">WMOGroup::groupWMOID</a></div><div class="ttdeci">uint32 groupWMOID</div><div class="ttdef"><b>Definition:</b> wmo.h:142</div></div>
+<div class="ttc" id="aa29879_html_a6575b9c6e9e1277d4eaef123a319b6f5"><div class="ttname"><a href="../../d0/d77/a29879.html#a6575b9c6e9e1277d4eaef123a319b6f5">WMOGroup::nBatchB</a></div><div class="ttdeci">uint16 nBatchB</div><div class="ttdef"><b>Definition:</b> wmo.h:141</div></div>
+<div class="ttc" id="aa29879_html_a752352742955934b15d6882fa7e0e96a"><div class="ttname"><a href="../../d0/d77/a29879.html#a752352742955934b15d6882fa7e0e96a">WMOGroup::bbcorn2</a></div><div class="ttdeci">float bbcorn2[3]</div><div class="ttdef"><b>Definition:</b> wmo.h:137</div></div>
+<div class="ttc" id="aa29879_html_a80fb6aaf44deb2bb00dd6d465ec9193a"><div class="ttname"><a href="../../d0/d77/a29879.html#a80fb6aaf44deb2bb00dd6d465ec9193a">WMOGroup::mogpFlags</a></div><div class="ttdeci">int mogpFlags</div><div class="ttdef"><b>Definition:</b> wmo.h:135</div></div>
+<div class="ttc" id="aa29879_html_a8ff67a2c20347f8aad5dde142e6df437"><div class="ttname"><a href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">WMOGroup::nVertices</a></div><div class="ttdeci">unsigned int nVertices</div><div class="ttdef"><b>Definition:</b> wmo.h:146</div></div>
+<div class="ttc" id="aa29879_html_aa1f9a8e72a43997e2d7231ebea7c4767"><div class="ttname"><a href="../../d0/d77/a29879.html#aa1f9a8e72a43997e2d7231ebea7c4767">WMOGroup::LiquEx</a></div><div class="ttdeci">WMOLiquidVert * LiquEx</div><div class="ttdef"><b>Definition:</b> wmo.h:132</div></div>
+<div class="ttc" id="aa29879_html_aa34e0a3886cec51c9b2940201dbc52a9"><div class="ttname"><a href="../../d0/d77/a29879.html#aa34e0a3886cec51c9b2940201dbc52a9">WMOGroup::MOBA</a></div><div class="ttdeci">uint16 * MOBA</div><div class="ttdef"><b>Definition:</b> wmo.h:129</div></div>
+<div class="ttc" id="aa29879_html_aa851edbe28162415b07ae34a28385342"><div class="ttname"><a href="../../d0/d77/a29879.html#aa851edbe28162415b07ae34a28385342">WMOGroup::liquflags</a></div><div class="ttdeci">uint32 liquflags</div><div class="ttdef"><b>Definition:</b> wmo.h:148</div></div>
+<div class="ttc" id="aa29879_html_ab7f07164e35d2d1dc302a9769f2d488a"><div class="ttname"><a href="../../d0/d77/a29879.html#ab7f07164e35d2d1dc302a9769f2d488a">WMOGroup::MOPY</a></div><div class="ttdeci">char * MOPY</div><div class="ttdef"><b>Definition:</b> wmo.h:125</div></div>
+<div class="ttc" id="aa29879_html_ac1d35d60e8c67a7bf727d3b606936497"><div class="ttname"><a href="../../d0/d77/a29879.html#ac1d35d60e8c67a7bf727d3b606936497">WMOGroup::nTriangles</a></div><div class="ttdeci">int nTriangles</div><div class="ttdef"><b>Definition:</b> wmo.h:147</div></div>
+<div class="ttc" id="aa29879_html_ac5934125dffe4733ba2f84a992596d48"><div class="ttname"><a href="../../d0/d77/a29879.html#ac5934125dffe4733ba2f84a992596d48">WMOGroup::LiquBytes</a></div><div class="ttdeci">char * LiquBytes</div><div class="ttdef"><b>Definition:</b> wmo.h:133</div></div>
+<div class="ttc" id="aa29879_html_ac7681a258e4b9c6d88fadbc07039f0fb"><div class="ttname"><a href="../../d0/d77/a29879.html#ac7681a258e4b9c6d88fadbc07039f0fb">WMOGroup::mopy_size</a></div><div class="ttdeci">int mopy_size</div><div class="ttdef"><b>Definition:</b> wmo.h:144</div></div>
+<div class="ttc" id="aa29879_html_ae185ea49affd80b22e7fb1825ce01031"><div class="ttname"><a href="../../d0/d77/a29879.html#ae185ea49affd80b22e7fb1825ce01031">WMOGroup::MobaEx</a></div><div class="ttdeci">int * MobaEx</div><div class="ttdef"><b>Definition:</b> wmo.h:130</div></div>
+<div class="ttc" id="aa29879_html_ae263e796a667e2876c174b971c635d0d"><div class="ttname"><a href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">WMOGroup::hlq</a></div><div class="ttdeci">WMOLiquidHeader * hlq</div><div class="ttdef"><b>Definition:</b> wmo.h:131</div></div>
+<div class="ttc" id="aa29879_html_af4a4ce4598527e13f15c452a8105acf1"><div class="ttname"><a href="../../d0/d77/a29879.html#af4a4ce4598527e13f15c452a8105acf1">WMOGroup::MoviEx</a></div><div class="ttdeci">uint16 * MoviEx</div><div class="ttdef"><b>Definition:</b> wmo.h:127</div></div>
+<div class="ttc" id="aa29879_html_af7c65f3e297f0884de3aab0a86a84e3d"><div class="ttname"><a href="../../d0/d77/a29879.html#af7c65f3e297f0884de3aab0a86a84e3d">WMOGroup::moprNItems</a></div><div class="ttdeci">uint16 moprNItems</div><div class="ttdef"><b>Definition:</b> wmo.h:139</div></div>
+<div class="ttc" id="aa29879_html_af906d56c7da01d8afe8fcc1304f1a420"><div class="ttname"><a href="../../d0/d77/a29879.html#af906d56c7da01d8afe8fcc1304f1a420">WMOGroup::bbcorn1</a></div><div class="ttdeci">float bbcorn1[3]</div><div class="ttdef"><b>Definition:</b> wmo.h:136</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00259">BanExpiryHandler()</a>, <a class="el" href="../../#l00025">Acore::Asio::SteadyTimer::GetExpirationTime()</a>, <a class="el" href="../../#l00032">LOGIN_DEL_EXPIRED_IP_BANS</a>, <a class="el" href="../../#l00033">LOGIN_UPD_EXPIRED_ACCOUNT_BANS</a>, and <a class="el" href="../../#l00022">LoginDatabase</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00259">BanExpiryHandler()</a>, and <a class="el" href="../../#l00069">main()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00136">bbcorn1</a>, and <a class="el" href="../../#l00137">bbcorn2</a>.</p>
 
 </div>
 </div>
-<a id="a6f250d3a28ed2192d175846c6ce5795b" name="a6f250d3a28ed2192d175846c6ce5795b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6f250d3a28ed2192d175846c6ce5795b">&#9670;&#160;</a></span>GetConsoleArguments()</h2>
+<a id="acbdc09d47283f00cf13e4f0483a2fc6a" name="acbdc09d47283f00cf13e4f0483a2fc6a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acbdc09d47283f00cf13e4f0483a2fc6a">&#9670;&#160;</a></span>~WMOGroup()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">variables_map GetConsoleArguments </td>
+          <td class="memname">WMOGroup::~WMOGroup </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>argc</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype">char **&#160;</td>
-          <td class="paramname"><em>argv</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">fs::path &amp;&#160;</td>
-          <td class="paramname"><em>configFile</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  275</span>{</div>
-<div class="line"><span class="lineno">  276</span>    options_description all(<span class="stringliteral">&quot;Allowed options&quot;</span>);</div>
-<div class="line"><span class="lineno">  277</span>    all.add_options()</div>
-<div class="line"><span class="lineno">  278</span>        (<span class="stringliteral">&quot;help,h&quot;</span>, <span class="stringliteral">&quot;print usage message&quot;</span>)</div>
-<div class="line"><span class="lineno">  279</span>        (<span class="stringliteral">&quot;version,v&quot;</span>, <span class="stringliteral">&quot;print version build info&quot;</span>)</div>
-<div class="line"><span class="lineno">  280</span>        (<span class="stringliteral">&quot;dry-run,d&quot;</span>, <span class="stringliteral">&quot;Dry run&quot;</span>)</div>
-<div class="line"><span class="lineno">  281</span>        (<span class="stringliteral">&quot;config,c&quot;</span>, value&lt;fs::path&gt;(&amp;configFile)-&gt;default_value(fs::path(<a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetConfigPath() + std::string(<a class="code hl_define" href="../../d0/d77/a29879.html#a139668c786d564a415e0626b3344dc83">_ACORE_REALM_CONFIG</a>))), <span class="stringliteral">&quot;use &lt;arg&gt; as configuration file&quot;</span>)</div>
-<div class="line"><span class="lineno">  282</span>        (<span class="stringliteral">&quot;config-policy&quot;</span>, value&lt;std::string&gt;()-&gt;value_name(<span class="stringliteral">&quot;policy&quot;</span>), <span class="stringliteral">&quot;override config severity policy (e.g. default=skip,critical_option=fatal)&quot;</span>);</div>
-<div class="line"><span class="lineno">  283</span> </div>
-<div class="line"><span class="lineno">  284</span>    variables_map variablesMap;</div>
-<div class="line"><span class="lineno">  285</span> </div>
-<div class="line"><span class="lineno">  286</span>    <span class="keywordflow">try</span></div>
-<div class="line"><span class="lineno">  287</span>    {</div>
-<div class="line"><span class="lineno">  288</span>        store(command_line_parser(argc, argv).options(all).allow_unregistered().run(), variablesMap);</div>
-<div class="line"><span class="lineno">  289</span>        notify(variablesMap);</div>
-<div class="line"><span class="lineno">  290</span>    }</div>
-<div class="line"><span class="lineno">  291</span>    <span class="keywordflow">catch</span> (std::exception <span class="keyword">const</span>&amp; e)</div>
-<div class="line"><span class="lineno">  292</span>    {</div>
-<div class="line"><span class="lineno">  293</span>        std::cerr &lt;&lt; e.what() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  294</span>    }</div>
-<div class="line"><span class="lineno">  295</span> </div>
-<div class="line"><span class="lineno">  296</span>    <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;help&quot;</span>))</div>
-<div class="line"><span class="lineno">  297</span>        std::cout &lt;&lt; all &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  298</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;version&quot;</span>))</div>
-<div class="line"><span class="lineno">  299</span>        std::cout &lt;&lt; <a class="code hl_function" href="../../d2/d68/a04825.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a>() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  300</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;dry-run&quot;</span>))</div>
-<div class="line"><span class="lineno">  301</span>        <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;setDryRun(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  302</span> </div>
-<div class="line"><span class="lineno">  303</span>    <span class="keywordflow">return</span> variablesMap;</div>
-<div class="line"><span class="lineno">  304</span>}</div>
-<div class="ttc" id="aa04825_html_ad68b75fc60314941c3cbade8eafcda23"><div class="ttname"><a href="../../d2/d68/a04825.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a></div><div class="ttdeci">AC_COMMON_API char const * GetFullVersion()</div><div class="ttdef"><b>Definition:</b> GitRevision.cpp:82</div></div>
-<div class="ttc" id="aa29879_html_a139668c786d564a415e0626b3344dc83"><div class="ttname"><a href="../../d0/d77/a29879.html#a139668c786d564a415e0626b3344dc83">_ACORE_REALM_CONFIG</a></div><div class="ttdeci">#define _ACORE_REALM_CONFIG</div><div class="ttdef"><b>Definition:</b> Main.cpp:54</div></div>
-<div class="ttc" id="aa29939_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  522</span>{</div>
+<div class="line"><span class="lineno">  523</span>    <span class="keyword">delete</span> [] <a class="code hl_variable" href="../../d0/d77/a29879.html#ab7f07164e35d2d1dc302a9769f2d488a">MOPY</a>;</div>
+<div class="line"><span class="lineno">  524</span>    <span class="keyword">delete</span> [] <a class="code hl_variable" href="../../d0/d77/a29879.html#a2e022922ced7ed76ae88abcab1ee36d6">MOVI</a>;</div>
+<div class="line"><span class="lineno">  525</span>    <span class="keyword">delete</span> [] <a class="code hl_variable" href="../../d0/d77/a29879.html#a0dfa2177350ecf56f2ae020ae430152a">MOVT</a>;</div>
+<div class="line"><span class="lineno">  526</span>    <span class="keyword">delete</span> [] <a class="code hl_variable" href="../../d0/d77/a29879.html#aa34e0a3886cec51c9b2940201dbc52a9">MOBA</a>;</div>
+<div class="line"><span class="lineno">  527</span>    <span class="keyword">delete</span> <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>;</div>
+<div class="line"><span class="lineno">  528</span>    <span class="keyword">delete</span> [] <a class="code hl_variable" href="../../d0/d77/a29879.html#aa1f9a8e72a43997e2d7231ebea7c4767">LiquEx</a>;</div>
+<div class="line"><span class="lineno">  529</span>    <span class="keyword">delete</span> [] <a class="code hl_variable" href="../../d0/d77/a29879.html#ac5934125dffe4733ba2f84a992596d48">LiquBytes</a>;</div>
+<div class="line"><span class="lineno">  530</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">_ACORE_REALM_CONFIG</a>, <a class="el" href="../../#l00082">GitRevision::GetFullVersion()</a>, and <a class="el" href="../../#l00093">sConfigMgr</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00069">main()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00131">hlq</a>, <a class="el" href="../../#l00133">LiquBytes</a>, <a class="el" href="../../#l00132">LiquEx</a>, <a class="el" href="../../#l00129">MOBA</a>, <a class="el" href="../../#l00125">MOPY</a>, <a class="el" href="../../#l00126">MOVI</a>, and <a class="el" href="../../#l00128">MOVT</a>.</p>
 
 </div>
 </div>
-<a id="a56e4613e7e60d171b9ce45f52758a057" name="a56e4613e7e60d171b9ce45f52758a057"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a56e4613e7e60d171b9ce45f52758a057">&#9670;&#160;</a></span>KeepDatabaseAliveHandler()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ae4430cee0de8719128a77abf1d5f97ba" name="ae4430cee0de8719128a77abf1d5f97ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4430cee0de8719128a77abf1d5f97ba">&#9670;&#160;</a></span>ConvertToVMAPGroupWmo()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void KeepDatabaseAliveHandler </td>
+          <td class="memname">int WMOGroup::ConvertToVMAPGroupWmo </td>
           <td>(</td>
-          <td class="paramtype">std::weak_ptr&lt; boost::asio::steady_timer &gt;&#160;</td>
-          <td class="paramname"><em>dbPingTimerRef</em>, </td>
+          <td class="paramtype">FILE *&#160;</td>
+          <td class="paramname"><em>output</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
-          <td class="paramname"><em>dbPingInterval</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">boost::system::error_code const &amp;&#160;</td>
-          <td class="paramname"><em>error</em>&#160;</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>preciseVectorData</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -338,338 +311,925 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  245</span>{</div>
-<div class="line"><span class="lineno">  246</span>    <span class="keywordflow">if</span> (!error)</div>
-<div class="line"><span class="lineno">  247</span>    {</div>
-<div class="line"><span class="lineno">  248</span>        <span class="keywordflow">if</span> (std::shared_ptr&lt;boost::asio::steady_timer&gt; dbPingTimer = dbPingTimerRef.lock())</div>
-<div class="line"><span class="lineno">  249</span>        {</div>
-<div class="line"><span class="lineno">  250</span>            <a class="code hl_define" href="../../d9/d32/a04640.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;sql.driver&quot;</span>, <span class="stringliteral">&quot;Ping MySQL to keep connection alive&quot;</span>);</div>
-<div class="line"><span class="lineno">  251</span>            <a class="code hl_variable" href="../../db/de8/a03968.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.KeepAlive();</div>
-<div class="line"><span class="lineno">  252</span> </div>
-<div class="line"><span class="lineno">  253</span>            dbPingTimer-&gt;expires_at(<a class="code hl_function" href="../../d9/d3b/a04812.html#a546bd84b57be90f3ceb4cfc0fb92ae1c">Acore::Asio::SteadyTimer::GetExpirationTime</a>(dbPingInterval));</div>
-<div class="line"><span class="lineno">  254</span>            dbPingTimer-&gt;async_wait(std::bind(&amp;<a class="code hl_function" href="../../d0/d77/a29879.html#a56e4613e7e60d171b9ce45f52758a057">KeepDatabaseAliveHandler</a>, dbPingTimerRef, dbPingInterval, std::placeholders::_1));</div>
-<div class="line"><span class="lineno">  255</span>        }</div>
-<div class="line"><span class="lineno">  256</span>    }</div>
-<div class="line"><span class="lineno">  257</span>}</div>
-<div class="ttc" id="aa04640_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d9/d32/a04640.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
-<div class="ttc" id="aa29879_html_a56e4613e7e60d171b9ce45f52758a057"><div class="ttname"><a href="../../d0/d77/a29879.html#a56e4613e7e60d171b9ce45f52758a057">KeepDatabaseAliveHandler</a></div><div class="ttdeci">void KeepDatabaseAliveHandler(std::weak_ptr&lt; boost::asio::steady_timer &gt; dbPingTimerRef, int32 dbPingInterval, boost::system::error_code const &amp;error)</div><div class="ttdef"><b>Definition:</b> Main.cpp:244</div></div>
+<dl class="todo"><dt><b><a class="el" href="../../de/db1/a04997.html#_todo000263">Todo:</a></b></dt><dd>: compress to bit field </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  297</span>{</div>
+<div class="line"><span class="lineno">  298</span>    fwrite(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a80fb6aaf44deb2bb00dd6d465ec9193a">mogpFlags</a>, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, output);</div>
+<div class="line"><span class="lineno">  299</span>    fwrite(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a647259dd122cf8e424f1704ebab524f9">groupWMOID</a>, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, output);</div>
+<div class="line"><span class="lineno">  300</span>    <span class="comment">// group bound</span></div>
+<div class="line"><span class="lineno">  301</span>    fwrite(<a class="code hl_variable" href="../../d0/d77/a29879.html#af906d56c7da01d8afe8fcc1304f1a420">bbcorn1</a>, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 3, output);</div>
+<div class="line"><span class="lineno">  302</span>    fwrite(<a class="code hl_variable" href="../../d0/d77/a29879.html#a752352742955934b15d6882fa7e0e96a">bbcorn2</a>, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 3, output);</div>
+<div class="line"><span class="lineno">  303</span>    fwrite(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#aa851edbe28162415b07ae34a28385342">liquflags</a>, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, output);</div>
+<div class="line"><span class="lineno">  304</span>    <span class="keywordtype">int</span> nColTriangles = 0;</div>
+<div class="line"><span class="lineno">  305</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/da3/a04961.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a>)</div>
+<div class="line"><span class="lineno">  306</span>    {</div>
+<div class="line"><span class="lineno">  307</span>        <span class="keywordtype">char</span> GRP[] = <span class="stringliteral">&quot;GRP &quot;</span>;</div>
+<div class="line"><span class="lineno">  308</span>        fwrite(GRP, 1, 4, output);</div>
+<div class="line"><span class="lineno">  309</span> </div>
+<div class="line"><span class="lineno">  310</span>        <span class="keywordtype">int</span> k = 0;</div>
+<div class="line"><span class="lineno">  311</span>        <span class="keywordtype">int</span> moba_batch = <a class="code hl_variable" href="../../d0/d77/a29879.html#a187402bf47b87da329875cee6d5e8892">moba_size</a> / 12;</div>
+<div class="line"><span class="lineno">  312</span>        <a class="code hl_variable" href="../../d0/d77/a29879.html#ae185ea49affd80b22e7fb1825ce01031">MobaEx</a> = <span class="keyword">new</span> <span class="keywordtype">int</span>[moba_batch * 4];</div>
+<div class="line"><span class="lineno">  313</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 8; i &lt; <a class="code hl_variable" href="../../d0/d77/a29879.html#a187402bf47b87da329875cee6d5e8892">moba_size</a>; i += 12)</div>
+<div class="line"><span class="lineno">  314</span>        {</div>
+<div class="line"><span class="lineno">  315</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#ae185ea49affd80b22e7fb1825ce01031">MobaEx</a>[k++] = <a class="code hl_variable" href="../../d0/d77/a29879.html#aa34e0a3886cec51c9b2940201dbc52a9">MOBA</a>[i];</div>
+<div class="line"><span class="lineno">  316</span>        }</div>
+<div class="line"><span class="lineno">  317</span>        <span class="keywordtype">int</span> moba_size_grp = moba_batch * 4 + 4;</div>
+<div class="line"><span class="lineno">  318</span>        fwrite(&amp;moba_size_grp, 4, 1, output);</div>
+<div class="line"><span class="lineno">  319</span>        fwrite(&amp;moba_batch, 4, 1, output);</div>
+<div class="line"><span class="lineno">  320</span>        fwrite(<a class="code hl_variable" href="../../d0/d77/a29879.html#ae185ea49affd80b22e7fb1825ce01031">MobaEx</a>, 4, k, output);</div>
+<div class="line"><span class="lineno">  321</span>        <span class="keyword">delete</span> [] <a class="code hl_variable" href="../../d0/d77/a29879.html#ae185ea49affd80b22e7fb1825ce01031">MobaEx</a>;</div>
+<div class="line"><span class="lineno">  322</span> </div>
+<div class="line"><span class="lineno">  323</span>        <a class="code hl_typedef" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> nIdexes = <a class="code hl_variable" href="../../d0/d77/a29879.html#ac1d35d60e8c67a7bf727d3b606936497">nTriangles</a> * 3;</div>
+<div class="line"><span class="lineno">  324</span> </div>
+<div class="line"><span class="lineno">  325</span>        <span class="keywordflow">if</span> (fwrite(<span class="stringliteral">&quot;INDX&quot;</span>, 4, 1, output) != 1)</div>
+<div class="line"><span class="lineno">  326</span>        {</div>
+<div class="line"><span class="lineno">  327</span>            printf(<span class="stringliteral">&quot;Error while writing file nbraches ID&quot;</span>);</div>
+<div class="line"><span class="lineno">  328</span>            exit(0);</div>
+<div class="line"><span class="lineno">  329</span>        }</div>
+<div class="line"><span class="lineno">  330</span>        <span class="keywordtype">int</span> wsize = <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) + <span class="keyword">sizeof</span>(<span class="keywordtype">unsigned</span> <span class="keywordtype">short</span>) * nIdexes;</div>
+<div class="line"><span class="lineno">  331</span>        <span class="keywordflow">if</span> (fwrite(&amp;wsize, <span class="keyword">sizeof</span>(<span class="keywordtype">int</span>), 1, output) != 1)</div>
+<div class="line"><span class="lineno">  332</span>        {</div>
+<div class="line"><span class="lineno">  333</span>            printf(<span class="stringliteral">&quot;Error while writing file wsize&quot;</span>);</div>
+<div class="line"><span class="lineno">  334</span>            <span class="comment">// no need to exit?</span></div>
+<div class="line"><span class="lineno">  335</span>        }</div>
+<div class="line"><span class="lineno">  336</span>        <span class="keywordflow">if</span> (fwrite(&amp;nIdexes, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, output) != 1)</div>
+<div class="line"><span class="lineno">  337</span>        {</div>
+<div class="line"><span class="lineno">  338</span>            printf(<span class="stringliteral">&quot;Error while writing file nIndexes&quot;</span>);</div>
+<div class="line"><span class="lineno">  339</span>            exit(0);</div>
+<div class="line"><span class="lineno">  340</span>        }</div>
+<div class="line"><span class="lineno">  341</span>        <span class="keywordflow">if</span> (nIdexes &gt; 0)</div>
+<div class="line"><span class="lineno">  342</span>        {</div>
+<div class="line"><span class="lineno">  343</span>            <span class="keywordflow">if</span> (fwrite(<a class="code hl_variable" href="../../d0/d77/a29879.html#a2e022922ced7ed76ae88abcab1ee36d6">MOVI</a>, <span class="keyword">sizeof</span>(<span class="keywordtype">unsigned</span> <span class="keywordtype">short</span>), nIdexes, output) != nIdexes)</div>
+<div class="line"><span class="lineno">  344</span>            {</div>
+<div class="line"><span class="lineno">  345</span>                printf(<span class="stringliteral">&quot;Error while writing file indexarray&quot;</span>);</div>
+<div class="line"><span class="lineno">  346</span>                exit(0);</div>
+<div class="line"><span class="lineno">  347</span>            }</div>
+<div class="line"><span class="lineno">  348</span>        }</div>
+<div class="line"><span class="lineno">  349</span> </div>
+<div class="line"><span class="lineno">  350</span>        <span class="keywordflow">if</span> (fwrite(<span class="stringliteral">&quot;VERT&quot;</span>, 4, 1, output) != 1)</div>
+<div class="line"><span class="lineno">  351</span>        {</div>
+<div class="line"><span class="lineno">  352</span>            printf(<span class="stringliteral">&quot;Error while writing file nbraches ID&quot;</span>);</div>
+<div class="line"><span class="lineno">  353</span>            exit(0);</div>
+<div class="line"><span class="lineno">  354</span>        }</div>
+<div class="line"><span class="lineno">  355</span>        wsize = <span class="keyword">sizeof</span>(int) + <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>) * 3 * <a class="code hl_variable" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a>;</div>
+<div class="line"><span class="lineno">  356</span>        <span class="keywordflow">if</span> (fwrite(&amp;wsize, <span class="keyword">sizeof</span>(<span class="keywordtype">int</span>), 1, output) != 1)</div>
+<div class="line"><span class="lineno">  357</span>        {</div>
+<div class="line"><span class="lineno">  358</span>            printf(<span class="stringliteral">&quot;Error while writing file wsize&quot;</span>);</div>
+<div class="line"><span class="lineno">  359</span>            <span class="comment">// no need to exit?</span></div>
+<div class="line"><span class="lineno">  360</span>        }</div>
+<div class="line"><span class="lineno">  361</span>        <span class="keywordflow">if</span> (fwrite(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a>, <span class="keyword">sizeof</span>(<span class="keywordtype">int</span>), 1, output) != 1)</div>
+<div class="line"><span class="lineno">  362</span>        {</div>
+<div class="line"><span class="lineno">  363</span>            printf(<span class="stringliteral">&quot;Error while writing file nVertices&quot;</span>);</div>
+<div class="line"><span class="lineno">  364</span>            exit(0);</div>
+<div class="line"><span class="lineno">  365</span>        }</div>
+<div class="line"><span class="lineno">  366</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a> &gt; 0)</div>
+<div class="line"><span class="lineno">  367</span>        {</div>
+<div class="line"><span class="lineno">  368</span>            <span class="keywordflow">if</span> (fwrite(<a class="code hl_variable" href="../../d0/d77/a29879.html#a0dfa2177350ecf56f2ae020ae430152a">MOVT</a>, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>) * 3, <a class="code hl_variable" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a>, output) != <a class="code hl_variable" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a>)</div>
+<div class="line"><span class="lineno">  369</span>            {</div>
+<div class="line"><span class="lineno">  370</span>                printf(<span class="stringliteral">&quot;Error while writing file vectors&quot;</span>);</div>
+<div class="line"><span class="lineno">  371</span>                exit(0);</div>
+<div class="line"><span class="lineno">  372</span>            }</div>
+<div class="line"><span class="lineno">  373</span>        }</div>
+<div class="line"><span class="lineno">  374</span> </div>
+<div class="line"><span class="lineno">  375</span>        nColTriangles = <a class="code hl_variable" href="../../d0/d77/a29879.html#ac1d35d60e8c67a7bf727d3b606936497">nTriangles</a>;</div>
+<div class="line"><span class="lineno">  376</span>    }</div>
+<div class="line"><span class="lineno">  377</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  378</span>    {</div>
+<div class="line"><span class="lineno">  379</span>        <span class="keywordtype">char</span> GRP[] = <span class="stringliteral">&quot;GRP &quot;</span>;</div>
+<div class="line"><span class="lineno">  380</span>        fwrite(GRP, 1, 4, output);</div>
+<div class="line"><span class="lineno">  381</span>        <span class="keywordtype">int</span> k = 0;</div>
+<div class="line"><span class="lineno">  382</span>        <span class="keywordtype">int</span> moba_batch = <a class="code hl_variable" href="../../d0/d77/a29879.html#a187402bf47b87da329875cee6d5e8892">moba_size</a> / 12;</div>
+<div class="line"><span class="lineno">  383</span>        <a class="code hl_variable" href="../../d0/d77/a29879.html#ae185ea49affd80b22e7fb1825ce01031">MobaEx</a> = <span class="keyword">new</span> <span class="keywordtype">int</span>[moba_batch * 4];</div>
+<div class="line"><span class="lineno">  384</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 8; i &lt; <a class="code hl_variable" href="../../d0/d77/a29879.html#a187402bf47b87da329875cee6d5e8892">moba_size</a>; i += 12)</div>
+<div class="line"><span class="lineno">  385</span>        {</div>
+<div class="line"><span class="lineno">  386</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#ae185ea49affd80b22e7fb1825ce01031">MobaEx</a>[k++] = <a class="code hl_variable" href="../../d0/d77/a29879.html#aa34e0a3886cec51c9b2940201dbc52a9">MOBA</a>[i];</div>
+<div class="line"><span class="lineno">  387</span>        }</div>
+<div class="line"><span class="lineno">  388</span> </div>
+<div class="line"><span class="lineno">  389</span>        <span class="keywordtype">int</span> moba_size_grp = moba_batch * 4 + 4;</div>
+<div class="line"><span class="lineno">  390</span>        fwrite(&amp;moba_size_grp, 4, 1, output);</div>
+<div class="line"><span class="lineno">  391</span>        fwrite(&amp;moba_batch, 4, 1, output);</div>
+<div class="line"><span class="lineno">  392</span>        fwrite(<a class="code hl_variable" href="../../d0/d77/a29879.html#ae185ea49affd80b22e7fb1825ce01031">MobaEx</a>, 4, k, output);</div>
+<div class="line"><span class="lineno">  393</span>        <span class="keyword">delete</span> [] <a class="code hl_variable" href="../../d0/d77/a29879.html#ae185ea49affd80b22e7fb1825ce01031">MobaEx</a>;</div>
+<div class="line"><span class="lineno">  394</span> </div>
+<div class="line"><span class="lineno">  395</span>        <span class="comment">//-------INDX------------------------------------</span></div>
+<div class="line"><span class="lineno">  396</span>        <span class="comment">//-------MOPY--------</span></div>
+<div class="line"><span class="lineno">  397</span>        <a class="code hl_variable" href="../../d0/d77/a29879.html#af4a4ce4598527e13f15c452a8105acf1">MoviEx</a> = <span class="keyword">new</span> <a class="code hl_typedef" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>[<a class="code hl_variable" href="../../d0/d77/a29879.html#ac1d35d60e8c67a7bf727d3b606936497">nTriangles</a> * 3]; <span class="comment">// &quot;worst case&quot; size...</span></div>
+<div class="line"><span class="lineno">  398</span>        <span class="keywordtype">int</span>* IndexRenum = <span class="keyword">new</span> <span class="keywordtype">int</span>[<a class="code hl_variable" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a>];</div>
+<div class="line"><span class="lineno">  399</span>        memset(IndexRenum, 0xFF, <a class="code hl_variable" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a> * <span class="keyword">sizeof</span>(<span class="keywordtype">int</span>));</div>
+<div class="line"><span class="lineno">  400</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; <a class="code hl_variable" href="../../d0/d77/a29879.html#ac1d35d60e8c67a7bf727d3b606936497">nTriangles</a>; ++i)</div>
+<div class="line"><span class="lineno">  401</span>        {</div>
+<div class="line"><span class="lineno">  402</span>            <span class="comment">// Skip no collision triangles</span></div>
+<div class="line"><span class="lineno">  403</span>            <span class="comment">// TODO: Update to use MOBR in the future to catch any possibly missed edge cases</span></div>
+<div class="line"><span class="lineno">  404</span>            <span class="keywordtype">bool</span> isRenderFace = (<a class="code hl_variable" href="../../d0/d77/a29879.html#ab7f07164e35d2d1dc302a9769f2d488a">MOPY</a>[2 * i] &amp; <a class="code hl_enumvalue" href="../../dc/da2/a04937.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc">WMO_MATERIAL_RENDER</a>) &amp;&amp; !(<a class="code hl_variable" href="../../d0/d77/a29879.html#ab7f07164e35d2d1dc302a9769f2d488a">MOPY</a>[2 * i] &amp; <a class="code hl_enumvalue" href="../../dc/da2/a04937.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20">WMO_MATERIAL_DETAIL</a>);</div>
+<div class="line"><span class="lineno">  405</span>            <span class="keywordtype">bool</span> isCollisionOnlyFace = <span class="keyword">static_cast&lt;</span><span class="keywordtype">unsigned</span> <span class="keywordtype">char</span><span class="keyword">&gt;</span>(<a class="code hl_variable" href="../../d0/d77/a29879.html#ab7f07164e35d2d1dc302a9769f2d488a">MOPY</a>[(2 * i) + 1]) == 0xFF; <span class="comment">// 255 is a collision-only material id</span></div>
+<div class="line"><span class="lineno">  406</span>            <span class="keywordtype">bool</span> isCollision = <a class="code hl_variable" href="../../d0/d77/a29879.html#ab7f07164e35d2d1dc302a9769f2d488a">MOPY</a>[2 * i] &amp; <a class="code hl_enumvalue" href="../../dc/da2/a04937.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192">WMO_MATERIAL_COLLISION</a> || isRenderFace || isCollisionOnlyFace;</div>
+<div class="line"><span class="lineno">  407</span>            <span class="keywordflow">if</span> (!isCollision)</div>
+<div class="line"><span class="lineno">  408</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  409</span>            <span class="comment">// Use this triangle</span></div>
+<div class="line"><span class="lineno">  410</span>            <span class="keywordflow">for</span> (<span class="keywordtype">int</span> j = 0; j &lt; 3; ++j)</div>
+<div class="line"><span class="lineno">  411</span>            {</div>
+<div class="line"><span class="lineno">  412</span>                IndexRenum[<a class="code hl_variable" href="../../d0/d77/a29879.html#a2e022922ced7ed76ae88abcab1ee36d6">MOVI</a>[3 * i + j]] = 1;</div>
+<div class="line"><span class="lineno">  413</span>                <a class="code hl_variable" href="../../d0/d77/a29879.html#af4a4ce4598527e13f15c452a8105acf1">MoviEx</a>[3 * nColTriangles + j] = <a class="code hl_variable" href="../../d0/d77/a29879.html#a2e022922ced7ed76ae88abcab1ee36d6">MOVI</a>[3 * i + j];</div>
+<div class="line"><span class="lineno">  414</span>            }</div>
+<div class="line"><span class="lineno">  415</span>            ++nColTriangles;</div>
+<div class="line"><span class="lineno">  416</span>        }</div>
+<div class="line"><span class="lineno">  417</span> </div>
+<div class="line"><span class="lineno">  418</span>        <span class="comment">// assign new vertex index numbers</span></div>
+<div class="line"><span class="lineno">  419</span>        <span class="keywordtype">int</span> nColVertices = 0;</div>
+<div class="line"><span class="lineno">  420</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; <a class="code hl_variable" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a>; ++i)</div>
+<div class="line"><span class="lineno">  421</span>        {</div>
+<div class="line"><span class="lineno">  422</span>            <span class="keywordflow">if</span> (IndexRenum[i] == 1)</div>
+<div class="line"><span class="lineno">  423</span>            {</div>
+<div class="line"><span class="lineno">  424</span>                IndexRenum[i] = nColVertices;</div>
+<div class="line"><span class="lineno">  425</span>                ++nColVertices;</div>
+<div class="line"><span class="lineno">  426</span>            }</div>
+<div class="line"><span class="lineno">  427</span>        }</div>
+<div class="line"><span class="lineno">  428</span> </div>
+<div class="line"><span class="lineno">  429</span>        <span class="comment">// translate triangle indices to new numbers</span></div>
+<div class="line"><span class="lineno">  430</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; 3 * nColTriangles; ++i)</div>
+<div class="line"><span class="lineno">  431</span>        {</div>
+<div class="line"><span class="lineno">  432</span>            assert(<a class="code hl_variable" href="../../d0/d77/a29879.html#af4a4ce4598527e13f15c452a8105acf1">MoviEx</a>[i] &lt; <a class="code hl_variable" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a>);</div>
+<div class="line"><span class="lineno">  433</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#af4a4ce4598527e13f15c452a8105acf1">MoviEx</a>[i] = IndexRenum[<a class="code hl_variable" href="../../d0/d77/a29879.html#af4a4ce4598527e13f15c452a8105acf1">MoviEx</a>[i]];</div>
+<div class="line"><span class="lineno">  434</span>        }</div>
+<div class="line"><span class="lineno">  435</span> </div>
+<div class="line"><span class="lineno">  436</span>        <span class="comment">// write triangle indices</span></div>
+<div class="line"><span class="lineno">  437</span>        <span class="keywordtype">int</span> INDX[] = {0x58444E49, nColTriangles * 6 + 4, nColTriangles * 3};</div>
+<div class="line"><span class="lineno">  438</span>        fwrite(INDX, 4, 3, output);</div>
+<div class="line"><span class="lineno">  439</span>        fwrite(<a class="code hl_variable" href="../../d0/d77/a29879.html#af4a4ce4598527e13f15c452a8105acf1">MoviEx</a>, 2, nColTriangles * 3, output);</div>
+<div class="line"><span class="lineno">  440</span> </div>
+<div class="line"><span class="lineno">  441</span>        <span class="comment">// write vertices</span></div>
+<div class="line"><span class="lineno">  442</span>        <span class="keywordtype">int</span> VERT[] = {0x54524556, nColVertices * 3 * <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(<span class="keyword">sizeof</span>(float)) + 4, nColVertices}; <span class="comment">// &quot;VERT&quot;</span></div>
+<div class="line"><span class="lineno">  443</span>        <span class="keywordtype">int</span> check = 3 * nColVertices;</div>
+<div class="line"><span class="lineno">  444</span>        fwrite(VERT, 4, 3, output);</div>
+<div class="line"><span class="lineno">  445</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; <a class="code hl_variable" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a>; ++i)</div>
+<div class="line"><span class="lineno">  446</span>            <span class="keywordflow">if</span> (IndexRenum[i] &gt;= 0)</div>
+<div class="line"><span class="lineno">  447</span>                check -= fwrite(<a class="code hl_variable" href="../../d0/d77/a29879.html#a0dfa2177350ecf56f2ae020ae430152a">MOVT</a> + 3 * i, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 3, output);</div>
+<div class="line"><span class="lineno">  448</span> </div>
+<div class="line"><span class="lineno">  449</span>        assert(check == 0);</div>
+<div class="line"><span class="lineno">  450</span> </div>
+<div class="line"><span class="lineno">  451</span>        <span class="keyword">delete</span> [] <a class="code hl_variable" href="../../d0/d77/a29879.html#af4a4ce4598527e13f15c452a8105acf1">MoviEx</a>;</div>
+<div class="line"><span class="lineno">  452</span>        <span class="keyword">delete</span> [] IndexRenum;</div>
+<div class="line"><span class="lineno">  453</span>    }</div>
+<div class="line"><span class="lineno">  454</span> </div>
+<div class="line"><span class="lineno">  455</span>    <span class="comment">//------LIQU------------------------</span></div>
+<div class="line"><span class="lineno">  456</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d77/a29879.html#aa851edbe28162415b07ae34a28385342">liquflags</a> &amp; 3)</div>
+<div class="line"><span class="lineno">  457</span>    {</div>
+<div class="line"><span class="lineno">  458</span>        <span class="keywordtype">int</span> LIQU_totalSize = <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>);</div>
+<div class="line"><span class="lineno">  459</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d77/a29879.html#aa851edbe28162415b07ae34a28385342">liquflags</a> &amp; 1)</div>
+<div class="line"><span class="lineno">  460</span>        {</div>
+<div class="line"><span class="lineno">  461</span>            LIQU_totalSize += <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d2/d8e/a29871.html">WMOLiquidHeader</a>);</div>
+<div class="line"><span class="lineno">  462</span>            LIQU_totalSize += <a class="code hl_variable" href="../../d0/d77/a29879.html#a55e947f4f48cd4e6bdc3b1fe1f29c48e">LiquEx_size</a> / <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d5/d89/a29875.html">WMOLiquidVert</a>) * <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>);</div>
+<div class="line"><span class="lineno">  463</span>            LIQU_totalSize += <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>-&gt;<a class="code hl_variable" href="../../d2/d8e/a29871.html#aca34dfa64624cfe04c314c13bbed0062">xtiles</a> * <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>-&gt;<a class="code hl_variable" href="../../d2/d8e/a29871.html#a9901a7e9828ac840bc290b0768831d66">ytiles</a>;</div>
+<div class="line"><span class="lineno">  464</span>        }</div>
+<div class="line"><span class="lineno">  465</span> </div>
+<div class="line"><span class="lineno">  466</span>        <span class="keywordtype">int</span> LIQU_h[] = { 0x5551494C, LIQU_totalSize };<span class="comment">// &quot;LIQU&quot;</span></div>
+<div class="line"><span class="lineno">  467</span>        fwrite(LIQU_h, 4, 2, output);</div>
+<div class="line"><span class="lineno">  468</span> </div>
+<div class="line"><span class="lineno">  469</span>        <span class="comment">/* std::ofstream llog(&quot;Buildings/liquid.log&quot;, ios_base::out | ios_base::app);</span></div>
+<div class="line"><span class="lineno">  470</span><span class="comment">        llog &lt;&lt; filename;</span></div>
+<div class="line"><span class="lineno">  471</span><span class="comment">        llog &lt;&lt; &quot;:\nliquidEntry: &quot; &lt;&lt; liquidEntry &lt;&lt; &quot; type: &quot; &lt;&lt; hlq-&gt;type &lt;&lt; &quot; (root:&quot; &lt;&lt; rootWMO-&gt;liquidType &lt;&lt; &quot; group:&quot; &lt;&lt; liquidType &lt;&lt; &quot;)\n&quot;;</span></div>
+<div class="line"><span class="lineno">  472</span><span class="comment">        llog.close(); */</span></div>
+<div class="line"><span class="lineno">  473</span> </div>
+<div class="line"><span class="lineno">  474</span>        fwrite(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a>, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, output);</div>
+<div class="line"><span class="lineno">  475</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d77/a29879.html#aa851edbe28162415b07ae34a28385342">liquflags</a> &amp; 1)</div>
+<div class="line"><span class="lineno">  476</span>        {</div>
+<div class="line"><span class="lineno">  477</span>            fwrite(<a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d2/d8e/a29871.html">WMOLiquidHeader</a>), 1, output);</div>
+<div class="line"><span class="lineno">  478</span>            <span class="comment">// only need height values, the other values are unknown anyway</span></div>
+<div class="line"><span class="lineno">  479</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; <a class="code hl_variable" href="../../d0/d77/a29879.html#a55e947f4f48cd4e6bdc3b1fe1f29c48e">LiquEx_size</a> / <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d5/d89/a29875.html">WMOLiquidVert</a>); ++i)</div>
+<div class="line"><span class="lineno">  480</span>                fwrite(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#aa1f9a8e72a43997e2d7231ebea7c4767">LiquEx</a>[i].height, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 1, output);</div>
+<div class="line"><span class="lineno">  482</span>            fwrite(<a class="code hl_variable" href="../../d0/d77/a29879.html#ac5934125dffe4733ba2f84a992596d48">LiquBytes</a>, 1, <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>-&gt;<a class="code hl_variable" href="../../d2/d8e/a29871.html#aca34dfa64624cfe04c314c13bbed0062">xtiles</a> * <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>-&gt;<a class="code hl_variable" href="../../d2/d8e/a29871.html#a9901a7e9828ac840bc290b0768831d66">ytiles</a>, output);</div>
+<div class="line"><span class="lineno">  483</span>        }</div>
+<div class="line"><span class="lineno">  484</span>    }</div>
+<div class="line"><span class="lineno">  485</span> </div>
+<div class="line"><span class="lineno">  486</span>    <span class="keywordflow">return</span> nColTriangles;</div>
+<div class="line"><span class="lineno">  487</span>}</div>
+<div class="ttc" id="aa00482_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00482_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa04937_html_a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20"><div class="ttname"><a href="../../dc/da2/a04937.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20">WMO_MATERIAL_DETAIL</a></div><div class="ttdeci">@ WMO_MATERIAL_DETAIL</div><div class="ttdef"><b>Definition:</b> wmo.h:34</div></div>
+<div class="ttc" id="aa04937_html_a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192"><div class="ttname"><a href="../../dc/da2/a04937.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192">WMO_MATERIAL_COLLISION</a></div><div class="ttdeci">@ WMO_MATERIAL_COLLISION</div><div class="ttdef"><b>Definition:</b> wmo.h:35</div></div>
+<div class="ttc" id="aa04937_html_a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc"><div class="ttname"><a href="../../dc/da2/a04937.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc">WMO_MATERIAL_RENDER</a></div><div class="ttdeci">@ WMO_MATERIAL_RENDER</div><div class="ttdef"><b>Definition:</b> wmo.h:37</div></div>
+<div class="ttc" id="aa04961_html_a2191d2ffb8973cd0ddb269bcaa06a31d"><div class="ttname"><a href="../../d0/da3/a04961.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a></div><div class="ttdeci">bool preciseVectorData</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:63</div></div>
+<div class="ttc" id="aa29871_html"><div class="ttname"><a href="../../d2/d8e/a29871.html">WMOLiquidHeader</a></div><div class="ttdef"><b>Definition:</b> wmo.h:101</div></div>
+<div class="ttc" id="aa29871_html_a9901a7e9828ac840bc290b0768831d66"><div class="ttname"><a href="../../d2/d8e/a29871.html#a9901a7e9828ac840bc290b0768831d66">WMOLiquidHeader::ytiles</a></div><div class="ttdeci">int ytiles</div><div class="ttdef"><b>Definition:</b> wmo.h:102</div></div>
+<div class="ttc" id="aa29871_html_aca34dfa64624cfe04c314c13bbed0062"><div class="ttname"><a href="../../d2/d8e/a29871.html#aca34dfa64624cfe04c314c13bbed0062">WMOLiquidHeader::xtiles</a></div><div class="ttdeci">int xtiles</div><div class="ttdef"><b>Definition:</b> wmo.h:102</div></div>
+<div class="ttc" id="aa29875_html"><div class="ttname"><a href="../../d5/d89/a29875.html">WMOLiquidVert</a></div><div class="ttdef"><b>Definition:</b> wmo.h:110</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00025">Acore::Asio::SteadyTimer::GetExpirationTime()</a>, <a class="el" href="../../#l00244">KeepDatabaseAliveHandler()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, and <a class="el" href="../../#l00022">LoginDatabase</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00136">bbcorn1</a>, <a class="el" href="../../#l00137">bbcorn2</a>, <a class="el" href="../../#l00142">groupLiquid</a>, <a class="el" href="../../#l00142">groupWMOID</a>, <a class="el" href="../../#l00131">hlq</a>, <a class="el" href="../../#l00133">LiquBytes</a>, <a class="el" href="../../#l00132">LiquEx</a>, <a class="el" href="../../#l00145">LiquEx_size</a>, <a class="el" href="../../#l00148">liquflags</a>, <a class="el" href="../../#l00129">MOBA</a>, <a class="el" href="../../#l00144">moba_size</a>, <a class="el" href="../../#l00130">MobaEx</a>, <a class="el" href="../../#l00135">mogpFlags</a>, <a class="el" href="../../#l00125">MOPY</a>, <a class="el" href="../../#l00126">MOVI</a>, <a class="el" href="../../#l00127">MoviEx</a>, <a class="el" href="../../#l00128">MOVT</a>, <a class="el" href="../../#l00147">nTriangles</a>, <a class="el" href="../../#l00146">nVertices</a>, <a class="el" href="../../#l00063">preciseVectorData</a>, <a class="el" href="../../#l00035">WMO_MATERIAL_COLLISION</a>, <a class="el" href="../../#l00034">WMO_MATERIAL_DETAIL</a>, <a class="el" href="../../#l00037">WMO_MATERIAL_RENDER</a>, <a class="el" href="../../#l00102">WMOLiquidHeader::xtiles</a>, and <a class="el" href="../../#l00102">WMOLiquidHeader::ytiles</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00244">KeepDatabaseAliveHandler()</a>, and <a class="el" href="../../#l00069">main()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00098">ExtractSingleWmo()</a>.</p>
 
 </div>
 </div>
-<a id="a3c04138a5bfe5d72780bb7e82a18e627" name="a3c04138a5bfe5d72780bb7e82a18e627"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c04138a5bfe5d72780bb7e82a18e627">&#9670;&#160;</a></span>main()</h2>
+<a id="ac41bf56bfaef1f478a0210327015f46d" name="ac41bf56bfaef1f478a0210327015f46d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac41bf56bfaef1f478a0210327015f46d">&#9670;&#160;</a></span>GetLiquidTypeId()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">int main </td>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WMOGroup::GetLiquidTypeId </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>argc</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>liquidTypeId</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">char **&#160;</td>
-          <td class="paramname"><em>argv</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  490</span>{</div>
+<div class="line"><span class="lineno">  491</span>    <span class="keywordflow">if</span> (liquidTypeId &lt; 21 &amp;&amp; liquidTypeId)</div>
+<div class="line"><span class="lineno">  492</span>    {</div>
+<div class="line"><span class="lineno">  493</span>        <span class="keywordflow">switch</span> (((<span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a><span class="keyword">&gt;</span>(liquidTypeId) - 1) &amp; 3))</div>
+<div class="line"><span class="lineno">  494</span>        {</div>
+<div class="line"><span class="lineno">  495</span>            <span class="keywordflow">case</span> 0: <span class="keywordflow">return</span> ((<a class="code hl_variable" href="../../d0/d77/a29879.html#a80fb6aaf44deb2bb00dd6d465ec9193a">mogpFlags</a> &amp; 0x80000) != 0) + 13;</div>
+<div class="line"><span class="lineno">  496</span>            <span class="keywordflow">case</span> 1: <span class="keywordflow">return</span> 14;</div>
+<div class="line"><span class="lineno">  497</span>            <span class="keywordflow">case</span> 2: <span class="keywordflow">return</span> 19;</div>
+<div class="line"><span class="lineno">  498</span>            <span class="keywordflow">case</span> 3: <span class="keywordflow">return</span> 20;</div>
+<div class="line"><span class="lineno">  499</span>            <span class="keywordflow">default</span>: <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  500</span>        }</div>
+<div class="line"><span class="lineno">  501</span>    }</div>
+<div class="line"><span class="lineno">  502</span>    <span class="keywordflow">return</span> liquidTypeId;</div>
+<div class="line"><span class="lineno">  503</span>}</div>
+<div class="ttc" id="aa00482_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00135">mogpFlags</a>.</p>
 
-<p>Launch the auth server. </p>
-<div class="fragment"><div class="line"><span class="lineno">   70</span>{</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_variable" href="../../d7/d34/a28758.html#ab0344571616786baef4511c647a3abea">Acore::Impl::CurrentServerProcessHolder::_type</a> = <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a54c942141fddf90562c3a37b3b505265a453a3b3aebda5fa95c7b2797da016bab">SERVER_PROCESS_AUTHSERVER</a>;</div>
-<div class="line"><span class="lineno">   72</span>    signal(SIGABRT, &amp;<a class="code hl_function" href="../../d0/d6d/a04809.html#ad49ea597ac6ffd8eb9ae06bab8c38b43">Acore::AbortHandler</a>);</div>
-<div class="line"><span class="lineno">   73</span> </div>
-<div class="line"><span class="lineno">   74</span>    <span class="comment">// Command line parsing</span></div>
-<div class="line"><span class="lineno">   75</span>    <span class="keyword">auto</span> configFile = fs::path(<a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetConfigPath() + std::string(<a class="code hl_define" href="../../d0/d77/a29879.html#a139668c786d564a415e0626b3344dc83">_ACORE_REALM_CONFIG</a>));</div>
-<div class="line"><span class="lineno">   76</span>    <span class="keyword">auto</span> vm = <a class="code hl_function" href="../../d0/d77/a29879.html#a6f250d3a28ed2192d175846c6ce5795b">GetConsoleArguments</a>(argc, argv, configFile);</div>
-<div class="line"><span class="lineno">   77</span> </div>
-<div class="line"><span class="lineno">   78</span>    <span class="comment">// exit if help or version is enabled</span></div>
-<div class="line"><span class="lineno">   79</span>    <span class="keywordflow">if</span> (vm.count(<span class="stringliteral">&quot;help&quot;</span>) || vm.count(<span class="stringliteral">&quot;version&quot;</span>))</div>
-<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   81</span> </div>
-<div class="line"><span class="lineno">   82</span>    <span class="comment">// Add file and args in config</span></div>
-<div class="line"><span class="lineno">   83</span>    <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;Configure(configFile.generic_string(), std::vector&lt;std::string&gt;(argv, argv + argc));</div>
-<div class="line"><span class="lineno">   84</span> </div>
-<div class="line"><span class="lineno">   85</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;LoadAppConfigs())</div>
-<div class="line"><span class="lineno">   86</span>        <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">   87</span> </div>
-<div class="line"><span class="lineno">   88</span>    <span class="comment">// Init logging</span></div>
-<div class="line"><span class="lineno">   89</span>    <a class="code hl_define" href="../../d9/d32/a04640.html#ab5487500f5b4b12072043104b916d582">sLog</a>-&gt;RegisterAppender&lt;<a class="code hl_class" href="../../de/d4a/a05946.html">AppenderDB</a>&gt;();</div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_define" href="../../d9/d32/a04640.html#ab5487500f5b4b12072043104b916d582">sLog</a>-&gt;Initialize(<span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">   91</span> </div>
-<div class="line"><span class="lineno">   92</span>    <a class="code hl_function" href="../../d0/d05/a04813.html#af6170962feecf3d126a80593221a357d">Acore::Banner::Show</a>(<span class="stringliteral">&quot;authserver&quot;</span>,</div>
-<div class="line"><span class="lineno">   93</span>        [](std::string_view text)</div>
-<div class="line"><span class="lineno">   94</span>        {</div>
-<div class="line"><span class="lineno">   95</span>            <a class="code hl_define" href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, text);</div>
-<div class="line"><span class="lineno">   96</span>        },</div>
-<div class="line"><span class="lineno">   97</span>        []()</div>
-<div class="line"><span class="lineno">   98</span>        {</div>
-<div class="line"><span class="lineno">   99</span>            <a class="code hl_define" href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;&gt; Using configuration file       {}&quot;</span>, <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetFilename());</div>
-<div class="line"><span class="lineno">  100</span>            <a class="code hl_define" href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;&gt; Using SSL version:             {} (library: {})&quot;</span>, OPENSSL_VERSION_TEXT, OpenSSL_version(OPENSSL_VERSION));</div>
-<div class="line"><span class="lineno">  101</span>            <a class="code hl_define" href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;&gt; Using Boost version:           {}.{}.{}&quot;</span>, BOOST_VERSION / 100000, BOOST_VERSION / 100 % 1000, BOOST_VERSION % 100);</div>
-<div class="line"><span class="lineno">  102</span>        });</div>
-<div class="line"><span class="lineno">  103</span> </div>
-<div class="line"><span class="lineno">  104</span>    <a class="code hl_function" href="../../d3/d23/a04822.html#ae2c343f2efc8fa69b50e1bd35bf410fd">OpenSSLCrypto::threadsSetup</a>();</div>
-<div class="line"><span class="lineno">  105</span> </div>
-<div class="line"><span class="lineno">  106</span>    std::shared_ptr&lt;void&gt; opensslHandle(<span class="keyword">nullptr</span>, [](<span class="keywordtype">void</span>*) { <a class="code hl_function" href="../../d3/d23/a04822.html#af868d9171650614810772c5675c47fd3">OpenSSLCrypto::threadsCleanup</a>(); });</div>
-<div class="line"><span class="lineno">  107</span> </div>
-<div class="line"><span class="lineno">  108</span>    <span class="comment">// authserver PID file creation</span></div>
-<div class="line"><span class="lineno">  109</span>    std::string pidFile = <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;PidFile&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
-<div class="line"><span class="lineno">  110</span>    <span class="keywordflow">if</span> (!pidFile.empty())</div>
-<div class="line"><span class="lineno">  111</span>    {</div>
-<div class="line"><span class="lineno">  112</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pid = <a class="code hl_function" href="../../d4/da9/a04736.html#a8eaff2d3f9402bfbde369f66eb7a8ebb">CreatePIDFile</a>(pidFile))</div>
-<div class="line"><span class="lineno">  113</span>            <a class="code hl_define" href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Daemon PID: {}\n&quot;</span>, pid); <span class="comment">// outError for red color in console</span></div>
-<div class="line"><span class="lineno">  114</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  115</span>        {</div>
-<div class="line"><span class="lineno">  116</span>            <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Cannot create PID file {} (possible error: permission)\n&quot;</span>, pidFile);</div>
-<div class="line"><span class="lineno">  117</span>            <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">  118</span>        }</div>
-<div class="line"><span class="lineno">  119</span>    }</div>
-<div class="line"><span class="lineno">  120</span> </div>
-<div class="line"><span class="lineno">  121</span>    <span class="comment">// Initialize the database connection</span></div>
-<div class="line"><span class="lineno">  122</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d0/d77/a29879.html#ga1551df43a48f1dbf64dbec1e47b07eea">StartDB</a>())</div>
-<div class="line"><span class="lineno">  123</span>        <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">  124</span> </div>
-<div class="line"><span class="lineno">  125</span>    <a class="code hl_define" href="../../d4/d3a/a04139.html#a5104e1ebeb8cbf71ec16e9492a3ad622">sSecretMgr</a>-&gt;Initialize();</div>
-<div class="line"><span class="lineno">  126</span> </div>
-<div class="line"><span class="lineno">  127</span>    <span class="comment">// Load IP Location Database</span></div>
-<div class="line"><span class="lineno">  128</span>    <a class="code hl_define" href="../../de/d38/a04316.html#a85e62bd98f395189fea9c9514d44fc31">sIPLocation</a>-&gt;Load();</div>
-<div class="line"><span class="lineno">  129</span> </div>
-<div class="line"><span class="lineno">  130</span>    std::shared_ptr&lt;void&gt; dbHandle(<span class="keyword">nullptr</span>, [](<span class="keywordtype">void</span>*) { <a class="code hl_function" href="../../d0/d77/a29879.html#ga927af1587546ee7503a3b9a18f6439c0">StopDB</a>(); });</div>
-<div class="line"><span class="lineno">  131</span> </div>
-<div class="line"><span class="lineno">  132</span>    std::shared_ptr&lt;Acore::Asio::IoContext&gt; ioContext = std::make_shared&lt;Acore::Asio::IoContext&gt;();</div>
-<div class="line"><span class="lineno">  133</span> </div>
-<div class="line"><span class="lineno">  134</span>    <span class="comment">// Get the list of realms for the server</span></div>
-<div class="line"><span class="lineno">  135</span>    <a class="code hl_define" href="../../d9/d68/a04106.html#a639c880efde6e31a4bf6be6b5bcc3cd3">sRealmList</a>-&gt;Initialize(*ioContext, <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;RealmsStateUpdateDelay&quot;</span>, 20));</div>
-<div class="line"><span class="lineno">  136</span> </div>
-<div class="line"><span class="lineno">  137</span>    std::shared_ptr&lt;void&gt; sRealmListHandle(<span class="keyword">nullptr</span>, [](<span class="keywordtype">void</span>*) { <a class="code hl_define" href="../../d9/d68/a04106.html#a639c880efde6e31a4bf6be6b5bcc3cd3">sRealmList</a>-&gt;Close(); });</div>
-<div class="line"><span class="lineno">  138</span> </div>
-<div class="line"><span class="lineno">  139</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../d9/d68/a04106.html#a639c880efde6e31a4bf6be6b5bcc3cd3">sRealmList</a>-&gt;GetRealms().empty())</div>
-<div class="line"><span class="lineno">  140</span>    {</div>
-<div class="line"><span class="lineno">  141</span>        <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;No valid realms specified.&quot;</span>);</div>
-<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">  143</span>    }</div>
-<div class="line"><span class="lineno">  144</span> </div>
-<div class="line"><span class="lineno">  145</span>    <span class="comment">// Stop auth server if dry run</span></div>
-<div class="line"><span class="lineno">  146</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;isDryRun())</div>
-<div class="line"><span class="lineno">  147</span>    {</div>
-<div class="line"><span class="lineno">  148</span>        <a class="code hl_define" href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Dry run completed, terminating.&quot;</span>);</div>
-<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  150</span>    }</div>
-<div class="line"><span class="lineno">  151</span> </div>
-<div class="line"><span class="lineno">  152</span>    <span class="comment">// Start the listening port (acceptor) for auth connections</span></div>
-<div class="line"><span class="lineno">  153</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> port = <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;RealmServerPort&quot;</span>, 3724);</div>
-<div class="line"><span class="lineno">  154</span>    <span class="keywordflow">if</span> (port &lt; 0 || port &gt; 0xFFFF)</div>
-<div class="line"><span class="lineno">  155</span>    {</div>
-<div class="line"><span class="lineno">  156</span>        <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Specified port out of allowed range (1-65535)&quot;</span>);</div>
-<div class="line"><span class="lineno">  157</span>        <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">  158</span>    }</div>
-<div class="line"><span class="lineno">  159</span> </div>
-<div class="line"><span class="lineno">  160</span>    std::string bindIp = <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;BindIP&quot;</span>, <span class="stringliteral">&quot;0.0.0.0&quot;</span>);</div>
-<div class="line"><span class="lineno">  161</span> </div>
-<div class="line"><span class="lineno">  162</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../dd/de7/a01868.html#abd297ee25e8d77bf56f22d43561d9451">sAuthSocketMgr</a>.StartNetwork(*ioContext, bindIp, port))</div>
-<div class="line"><span class="lineno">  163</span>    {</div>
-<div class="line"><span class="lineno">  164</span>        <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Failed to initialize network&quot;</span>);</div>
-<div class="line"><span class="lineno">  165</span>        <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">  166</span>    }</div>
-<div class="line"><span class="lineno">  167</span> </div>
-<div class="line"><span class="lineno">  168</span>    std::shared_ptr&lt;void&gt; sAuthSocketMgrHandle(<span class="keyword">nullptr</span>, [](<span class="keywordtype">void</span>*) { <a class="code hl_define" href="../../dd/de7/a01868.html#abd297ee25e8d77bf56f22d43561d9451">sAuthSocketMgr</a>.StopNetwork(); });</div>
-<div class="line"><span class="lineno">  169</span> </div>
-<div class="line"><span class="lineno">  170</span>    <span class="comment">// Set signal handlers</span></div>
-<div class="line"><span class="lineno">  171</span>    boost::asio::signal_set signals(*ioContext, SIGINT, SIGTERM);</div>
-<div class="line"><span class="lineno">  172</span><span class="preprocessor">#if AC_PLATFORM == AC_PLATFORM_WINDOWS</span></div>
-<div class="line"><span class="lineno">  173</span>    signals.add(SIGBREAK);</div>
-<div class="line"><span class="lineno">  174</span><span class="preprocessor">#endif</span></div>
-<div class="line"><span class="lineno">  175</span>    signals.async_wait(std::bind(&amp;<a class="code hl_function" href="../../d0/d77/a29879.html#abb73d9c1332263ddf049505e1b12672d">SignalHandler</a>, std::weak_ptr&lt;Acore::Asio::IoContext&gt;(ioContext), std::placeholders::_1, std::placeholders::_2));</div>
-<div class="line"><span class="lineno">  176</span> </div>
-<div class="line"><span class="lineno">  177</span>    <span class="comment">// Set process priority according to configuration settings</span></div>
-<div class="line"><span class="lineno">  178</span>    <a class="code hl_function" href="../../d3/d31/a04292.html#ab39209127ac54019d5252a95bc5c7aaf">SetProcessPriority</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<a class="code hl_define" href="../../d5/d9d/a04286.html#a714853b6677573f2aa289978eee5b83f">CONFIG_PROCESSOR_AFFINITY</a>, 0), <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<a class="code hl_define" href="../../d5/d9d/a04286.html#a04727fe99a83f6b774ac1fb1b8468f3e">CONFIG_HIGH_PRIORITY</a>, <span class="keyword">false</span>));</div>
-<div class="line"><span class="lineno">  179</span> </div>
-<div class="line"><span class="lineno">  180</span>    <span class="comment">// Enabled a timed callback for handling the database keep alive ping</span></div>
-<div class="line"><span class="lineno">  181</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> dbPingInterval = <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;MaxPingTime&quot;</span>, 30);</div>
-<div class="line"><span class="lineno">  182</span>    std::shared_ptr&lt;boost::asio::steady_timer&gt; dbPingTimer = std::make_shared&lt;boost::asio::steady_timer&gt;(*ioContext);</div>
-<div class="line"><span class="lineno">  183</span> </div>
-<div class="line"><span class="lineno">  184</span>    dbPingTimer-&gt;expires_at(<a class="code hl_function" href="../../d9/d3b/a04812.html#a546bd84b57be90f3ceb4cfc0fb92ae1c">Acore::Asio::SteadyTimer::GetExpirationTime</a>(dbPingInterval * <a class="code hl_variable" href="../../d3/d56/a04553.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a>));</div>
-<div class="line"><span class="lineno">  185</span>    dbPingTimer-&gt;async_wait(std::bind(&amp;<a class="code hl_function" href="../../d0/d77/a29879.html#a56e4613e7e60d171b9ce45f52758a057">KeepDatabaseAliveHandler</a>, std::weak_ptr&lt;boost::asio::steady_timer&gt;(dbPingTimer), dbPingInterval, std::placeholders::_1));</div>
-<div class="line"><span class="lineno">  186</span> </div>
-<div class="line"><span class="lineno">  187</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> banExpiryCheckInterval = <a class="code hl_define" href="../../dc/da2/a29939.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt;(<span class="stringliteral">&quot;BanExpiryCheckInterval&quot;</span>, 60);</div>
-<div class="line"><span class="lineno">  188</span>    std::shared_ptr&lt;boost::asio::steady_timer&gt; banExpiryCheckTimer = std::make_shared&lt;boost::asio::steady_timer&gt;(*ioContext);</div>
-<div class="line"><span class="lineno">  189</span> </div>
-<div class="line"><span class="lineno">  190</span>    banExpiryCheckTimer-&gt;expires_at(<a class="code hl_function" href="../../d9/d3b/a04812.html#a546bd84b57be90f3ceb4cfc0fb92ae1c">Acore::Asio::SteadyTimer::GetExpirationTime</a>(banExpiryCheckInterval));</div>
-<div class="line"><span class="lineno">  191</span>    banExpiryCheckTimer-&gt;async_wait(std::bind(&amp;<a class="code hl_function" href="../../d0/d77/a29879.html#a625d6480b04e88fcbc85e5b8d29502a6">BanExpiryHandler</a>, std::weak_ptr&lt;boost::asio::steady_timer&gt;(banExpiryCheckTimer), banExpiryCheckInterval, std::placeholders::_1));</div>
-<div class="line"><span class="lineno">  192</span> </div>
-<div class="line"><span class="lineno">  193</span>    <span class="comment">// Start the io service worker loop</span></div>
-<div class="line"><span class="lineno">  194</span>    ioContext-&gt;run();</div>
+<p class="reference">Referenced by <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="abd301198a52de037a499089263ab8a83" name="abd301198a52de037a499089263ab8a83"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abd301198a52de037a499089263ab8a83">&#9670;&#160;</a></span>open()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool WMOGroup::open </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d19/a29867.html">WMORoot</a> *&#160;</td>
+          <td class="paramname"><em>rootWMO</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  173</span>{</div>
+<div class="line"><span class="lineno">  174</span>    <a class="code hl_class" href="../../db/d80/a29723.html">MPQFile</a> f(<a class="code hl_variable" href="../../d0/d77/a29879.html#a3dd16ad2acc44ffac305ca53e58f088f">filename</a>.c_str());</div>
+<div class="line"><span class="lineno">  175</span>    <span class="keywordflow">if</span> (f.isEof ())</div>
+<div class="line"><span class="lineno">  176</span>    {</div>
+<div class="line"><span class="lineno">  177</span>        printf(<span class="stringliteral">&quot;No such file.\n&quot;</span>);</div>
+<div class="line"><span class="lineno">  178</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  179</span>    }</div>
+<div class="line"><span class="lineno">  180</span>    <a class="code hl_typedef" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> size;</div>
+<div class="line"><span class="lineno">  181</span>    <span class="keywordtype">char</span> fourcc[5];</div>
+<div class="line"><span class="lineno">  182</span>    <span class="keywordflow">while</span> (!f.isEof())</div>
+<div class="line"><span class="lineno">  183</span>    {</div>
+<div class="line"><span class="lineno">  184</span>        f.read(fourcc, 4);</div>
+<div class="line"><span class="lineno">  185</span>        f.read(&amp;size, 4);</div>
+<div class="line"><span class="lineno">  186</span>        <a class="code hl_function" href="../../df/d95/a30747.html#aff3add09c98fece7ace91b0e7c90435e">flipcc</a>(fourcc);</div>
+<div class="line"><span class="lineno">  187</span>        <span class="keywordflow">if</span> (!strcmp(fourcc, <span class="stringliteral">&quot;MOGP&quot;</span>)) <span class="comment">//Fix sizeoff = Data size.</span></div>
+<div class="line"><span class="lineno">  188</span>        {</div>
+<div class="line"><span class="lineno">  189</span>            size = 68;</div>
+<div class="line"><span class="lineno">  190</span>        }</div>
+<div class="line"><span class="lineno">  191</span>        fourcc[4] = 0;</div>
+<div class="line"><span class="lineno">  192</span>        std::size_t nextpos = f.getPos() + size;</div>
+<div class="line"><span class="lineno">  193</span>        <a class="code hl_variable" href="../../d0/d77/a29879.html#a55e947f4f48cd4e6bdc3b1fe1f29c48e">LiquEx_size</a> = 0;</div>
+<div class="line"><span class="lineno">  194</span>        <a class="code hl_variable" href="../../d0/d77/a29879.html#aa851edbe28162415b07ae34a28385342">liquflags</a> = 0;</div>
 <div class="line"><span class="lineno">  195</span> </div>
-<div class="line"><span class="lineno">  196</span>    banExpiryCheckTimer-&gt;cancel();</div>
-<div class="line"><span class="lineno">  197</span>    dbPingTimer-&gt;cancel();</div>
-<div class="line"><span class="lineno">  198</span> </div>
-<div class="line"><span class="lineno">  199</span>    <a class="code hl_define" href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Halting process...&quot;</span>);</div>
-<div class="line"><span class="lineno">  200</span> </div>
-<div class="line"><span class="lineno">  201</span>    signals.cancel();</div>
-<div class="line"><span class="lineno">  202</span> </div>
-<div class="line"><span class="lineno">  203</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  204</span>}</div>
-<div class="ttc" id="aa01868_html_abd297ee25e8d77bf56f22d43561d9451"><div class="ttname"><a href="../../dd/de7/a01868.html#abd297ee25e8d77bf56f22d43561d9451">sAuthSocketMgr</a></div><div class="ttdeci">#define sAuthSocketMgr</div><div class="ttdef"><b>Definition:</b> AuthSocketMgr.h:63</div></div>
-<div class="ttc" id="aa04100_html_a54c942141fddf90562c3a37b3b505265a453a3b3aebda5fa95c7b2797da016bab"><div class="ttname"><a href="../../d1/da3/a04100.html#a54c942141fddf90562c3a37b3b505265a453a3b3aebda5fa95c7b2797da016bab">SERVER_PROCESS_AUTHSERVER</a></div><div class="ttdeci">@ SERVER_PROCESS_AUTHSERVER</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:4004</div></div>
-<div class="ttc" id="aa04106_html_a639c880efde6e31a4bf6be6b5bcc3cd3"><div class="ttname"><a href="../../d9/d68/a04106.html#a639c880efde6e31a4bf6be6b5bcc3cd3">sRealmList</a></div><div class="ttdeci">#define sRealmList</div><div class="ttdef"><b>Definition:</b> RealmList.h:83</div></div>
-<div class="ttc" id="aa04139_html_a5104e1ebeb8cbf71ec16e9492a3ad622"><div class="ttname"><a href="../../d4/d3a/a04139.html#a5104e1ebeb8cbf71ec16e9492a3ad622">sSecretMgr</a></div><div class="ttdeci">#define sSecretMgr</div><div class="ttdef"><b>Definition:</b> SecretMgr.h:72</div></div>
-<div class="ttc" id="aa04286_html_a04727fe99a83f6b774ac1fb1b8468f3e"><div class="ttname"><a href="../../d5/d9d/a04286.html#a04727fe99a83f6b774ac1fb1b8468f3e">CONFIG_HIGH_PRIORITY</a></div><div class="ttdeci">#define CONFIG_HIGH_PRIORITY</div><div class="ttdef"><b>Definition:</b> ProcessPriority.h:25</div></div>
-<div class="ttc" id="aa04286_html_a714853b6677573f2aa289978eee5b83f"><div class="ttname"><a href="../../d5/d9d/a04286.html#a714853b6677573f2aa289978eee5b83f">CONFIG_PROCESSOR_AFFINITY</a></div><div class="ttdeci">#define CONFIG_PROCESSOR_AFFINITY</div><div class="ttdef"><b>Definition:</b> ProcessPriority.h:24</div></div>
-<div class="ttc" id="aa04292_html_ab39209127ac54019d5252a95bc5c7aaf"><div class="ttname"><a href="../../d3/d31/a04292.html#ab39209127ac54019d5252a95bc5c7aaf">SetProcessPriority</a></div><div class="ttdeci">void SetProcessPriority(std::string const &amp;logChannel, uint32 affinity, bool highPriority)</div><div class="ttdef"><b>Definition:</b> ProcessPriority.cpp:29</div></div>
-<div class="ttc" id="aa04310_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
-<div class="ttc" id="aa04310_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa04316_html_a85e62bd98f395189fea9c9514d44fc31"><div class="ttname"><a href="../../de/d38/a04316.html#a85e62bd98f395189fea9c9514d44fc31">sIPLocation</a></div><div class="ttdeci">#define sIPLocation</div><div class="ttdef"><b>Definition:</b> IPLocation.h:49</div></div>
-<div class="ttc" id="aa04553_html_afacf27522adfacf698390ddafc53fa30"><div class="ttname"><a href="../../d3/d56/a04553.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a></div><div class="ttdeci">constexpr auto MINUTE</div><div class="ttdef"><b>Definition:</b> Common.h:47</div></div>
-<div class="ttc" id="aa04640_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa04640_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
-<div class="ttc" id="aa04640_html_ab5487500f5b4b12072043104b916d582"><div class="ttname"><a href="../../d9/d32/a04640.html#ab5487500f5b4b12072043104b916d582">sLog</a></div><div class="ttdeci">#define sLog</div><div class="ttdef"><b>Definition:</b> Log.h:127</div></div>
-<div class="ttc" id="aa04736_html_a8eaff2d3f9402bfbde369f66eb7a8ebb"><div class="ttname"><a href="../../d4/da9/a04736.html#a8eaff2d3f9402bfbde369f66eb7a8ebb">CreatePIDFile</a></div><div class="ttdeci">uint32 CreatePIDFile(std::string const &amp;filename)</div><div class="ttdoc">create PID file</div><div class="ttdef"><b>Definition:</b> Util.cpp:218</div></div>
-<div class="ttc" id="aa04809_html_ad49ea597ac6ffd8eb9ae06bab8c38b43"><div class="ttname"><a href="../../d0/d6d/a04809.html#ad49ea597ac6ffd8eb9ae06bab8c38b43">Acore::AbortHandler</a></div><div class="ttdeci">AC_COMMON_API void AbortHandler(int sigval)</div><div class="ttdef"><b>Definition:</b> Errors.cpp:148</div></div>
-<div class="ttc" id="aa04813_html_af6170962feecf3d126a80593221a357d"><div class="ttname"><a href="../../d0/d05/a04813.html#af6170962feecf3d126a80593221a357d">Acore::Banner::Show</a></div><div class="ttdeci">AC_COMMON_API void Show(std::string_view applicationName, void(*log)(std::string_view text), void(*logExtraInfo)())</div><div class="ttdef"><b>Definition:</b> Banner.cpp:22</div></div>
-<div class="ttc" id="aa04822_html_ae2c343f2efc8fa69b50e1bd35bf410fd"><div class="ttname"><a href="../../d3/d23/a04822.html#ae2c343f2efc8fa69b50e1bd35bf410fd">OpenSSLCrypto::threadsSetup</a></div><div class="ttdeci">AC_COMMON_API void threadsSetup()</div><div class="ttdoc">Needs to be called before threads using openssl are spawned.</div><div class="ttdef"><b>Definition:</b> OpenSSLCrypto.cpp:41</div></div>
-<div class="ttc" id="aa04822_html_af868d9171650614810772c5675c47fd3"><div class="ttname"><a href="../../d3/d23/a04822.html#af868d9171650614810772c5675c47fd3">OpenSSLCrypto::threadsCleanup</a></div><div class="ttdeci">AC_COMMON_API void threadsCleanup()</div><div class="ttdoc">Needs to be called after threads using openssl are despawned.</div><div class="ttdef"><b>Definition:</b> OpenSSLCrypto.cpp:50</div></div>
-<div class="ttc" id="aa05946_html"><div class="ttname"><a href="../../de/d4a/a05946.html">AppenderDB</a></div><div class="ttdef"><b>Definition:</b> AppenderDB.h:25</div></div>
-<div class="ttc" id="aa28758_html_ab0344571616786baef4511c647a3abea"><div class="ttname"><a href="../../d7/d34/a28758.html#ab0344571616786baef4511c647a3abea">Acore::Impl::CurrentServerProcessHolder::_type</a></div><div class="ttdeci">static ServerProcessTypes _type</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:4029</div></div>
-<div class="ttc" id="aa29879_html_a6f250d3a28ed2192d175846c6ce5795b"><div class="ttname"><a href="../../d0/d77/a29879.html#a6f250d3a28ed2192d175846c6ce5795b">GetConsoleArguments</a></div><div class="ttdeci">variables_map GetConsoleArguments(int argc, char **argv, fs::path &amp;configFile)</div><div class="ttdef"><b>Definition:</b> Main.cpp:274</div></div>
-<div class="ttc" id="aa29879_html_abb73d9c1332263ddf049505e1b12672d"><div class="ttname"><a href="../../d0/d77/a29879.html#abb73d9c1332263ddf049505e1b12672d">SignalHandler</a></div><div class="ttdeci">void SignalHandler(std::weak_ptr&lt; Acore::Asio::IoContext &gt; ioContextRef, boost::system::error_code const &amp;error, int signalNumber)</div><div class="ttdef"><b>Definition:</b> Main.cpp:233</div></div>
-<div class="ttc" id="aa29879_html_ga1551df43a48f1dbf64dbec1e47b07eea"><div class="ttname"><a href="../../d0/d77/a29879.html#ga1551df43a48f1dbf64dbec1e47b07eea">StartDB</a></div><div class="ttdeci">bool StartDB()</div><div class="ttdoc">Initialize connection to the database.</div><div class="ttdef"><b>Definition:</b> Main.cpp:207</div></div>
-<div class="ttc" id="aa29879_html_ga927af1587546ee7503a3b9a18f6439c0"><div class="ttname"><a href="../../d0/d77/a29879.html#ga927af1587546ee7503a3b9a18f6439c0">StopDB</a></div><div class="ttdeci">void StopDB()</div><div class="ttdoc">Close the connection to the database.</div><div class="ttdef"><b>Definition:</b> Main.cpp:227</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">_ACORE_REALM_CONFIG</a>, <a class="el" href="../../#l04029">Acore::Impl::CurrentServerProcessHolder::_type</a>, <a class="el" href="../../#l00148">Acore::AbortHandler()</a>, <a class="el" href="../../#l00259">BanExpiryHandler()</a>, <a class="el" href="../../#l00025">CONFIG_HIGH_PRIORITY</a>, <a class="el" href="../../#l00024">CONFIG_PROCESSOR_AFFINITY</a>, <a class="el" href="../../#l00218">CreatePIDFile()</a>, <a class="el" href="../../#l00274">GetConsoleArguments()</a>, <a class="el" href="../../#l00025">Acore::Asio::SteadyTimer::GetExpirationTime()</a>, <a class="el" href="../../#l00244">KeepDatabaseAliveHandler()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../#l00063">sAuthSocketMgr</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, <a class="el" href="../../#l04004">SERVER_PROCESS_AUTHSERVER</a>, <a class="el" href="../../#l00029">SetProcessPriority()</a>, <a class="el" href="../../#l00022">Acore::Banner::Show()</a>, <a class="el" href="../../#l00233">SignalHandler()</a>, <a class="el" href="../../#l00049">sIPLocation</a>, <a class="el" href="../../#l00127">sLog</a>, <a class="el" href="../../#l00083">sRealmList</a>, <a class="el" href="../../#l00072">sSecretMgr</a>, <a class="el" href="../../#l00207">StartDB()</a>, <a class="el" href="../../#l00227">StopDB()</a>, <a class="el" href="../../#l00050">OpenSSLCrypto::threadsCleanup()</a>, and <a class="el" href="../../#l00041">OpenSSLCrypto::threadsSetup()</a>.</p>
-
-</div>
-</div>
-<a id="abb73d9c1332263ddf049505e1b12672d" name="abb73d9c1332263ddf049505e1b12672d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abb73d9c1332263ddf049505e1b12672d">&#9670;&#160;</a></span>SignalHandler()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void SignalHandler </td>
-          <td>(</td>
-          <td class="paramtype">std::weak_ptr&lt; <a class="el" href="../../df/df6/a04914.html">Acore::Asio::IoContext</a> &gt;&#160;</td>
-          <td class="paramname"><em>ioContextRef</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">boost::system::error_code const &amp;&#160;</td>
-          <td class="paramname"><em>error</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>signalNumber</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  234</span>{</div>
-<div class="line"><span class="lineno">  235</span>    <span class="keywordflow">if</span> (!error)</div>
-<div class="line"><span class="lineno">  236</span>    {</div>
-<div class="line"><span class="lineno">  237</span>        <span class="keywordflow">if</span> (std::shared_ptr&lt;Acore::Asio::IoContext&gt; ioContext = ioContextRef.lock())</div>
-<div class="line"><span class="lineno">  238</span>        {</div>
-<div class="line"><span class="lineno">  239</span>            ioContext-&gt;stop();</div>
+<div class="line"><span class="lineno">  196</span>        <span class="keywordflow">if</span> (!strcmp(fourcc, <span class="stringliteral">&quot;MOGP&quot;</span>)) <span class="comment">//header</span></div>
+<div class="line"><span class="lineno">  197</span>        {</div>
+<div class="line"><span class="lineno">  198</span>            f.read(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a3e77e649fb0113c33546a9dc222d799a">groupName</a>, 4);</div>
+<div class="line"><span class="lineno">  199</span>            f.read(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a50c861842e55b23eed753a05d0395b27">descGroupName</a>, 4);</div>
+<div class="line"><span class="lineno">  200</span>            f.read(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a80fb6aaf44deb2bb00dd6d465ec9193a">mogpFlags</a>, 4);</div>
+<div class="line"><span class="lineno">  201</span>            f.read(<a class="code hl_variable" href="../../d0/d77/a29879.html#af906d56c7da01d8afe8fcc1304f1a420">bbcorn1</a>, 12);</div>
+<div class="line"><span class="lineno">  202</span>            f.read(<a class="code hl_variable" href="../../d0/d77/a29879.html#a752352742955934b15d6882fa7e0e96a">bbcorn2</a>, 12);</div>
+<div class="line"><span class="lineno">  203</span>            f.read(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a387406120b3c91dac872a4ab66e7bfc1">moprIdx</a>, 2);</div>
+<div class="line"><span class="lineno">  204</span>            f.read(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#af7c65f3e297f0884de3aab0a86a84e3d">moprNItems</a>, 2);</div>
+<div class="line"><span class="lineno">  205</span>            f.read(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a2e5e1e025b036e40d3e25c5bd5bd5e10">nBatchA</a>, 2);</div>
+<div class="line"><span class="lineno">  206</span>            f.read(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a6575b9c6e9e1277d4eaef123a319b6f5">nBatchB</a>, 2);</div>
+<div class="line"><span class="lineno">  207</span>            f.read(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a0dca524936b763d5ffca94cef49a99fe">nBatchC</a>, 4);</div>
+<div class="line"><span class="lineno">  208</span>            f.read(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a2fb13fd2ca9f92720c57110436140a89">fogIdx</a>, 4);</div>
+<div class="line"><span class="lineno">  209</span>            f.read(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a>, 4);</div>
+<div class="line"><span class="lineno">  210</span>            f.read(&amp;<a class="code hl_variable" href="../../d0/d77/a29879.html#a647259dd122cf8e424f1704ebab524f9">groupWMOID</a>, 4);</div>
+<div class="line"><span class="lineno">  211</span> </div>
+<div class="line"><span class="lineno">  212</span>            <span class="comment">// according to WoW.Dev Wiki:</span></div>
+<div class="line"><span class="lineno">  213</span>            <span class="keywordflow">if</span> (rootWMO-&gt;<a class="code hl_variable" href="../../d9/d19/a29867.html#ac3e95eb0b51ef25289b2cdf617ac2585">flags</a> &amp; 4)</div>
+<div class="line"><span class="lineno">  214</span>                <a class="code hl_variable" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a> = <a class="code hl_function" href="../../d0/d77/a29879.html#ac41bf56bfaef1f478a0210327015f46d">GetLiquidTypeId</a>(<a class="code hl_variable" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a>);</div>
+<div class="line"><span class="lineno">  215</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a> == 15)</div>
+<div class="line"><span class="lineno">  216</span>                <a class="code hl_variable" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a> = 0;</div>
+<div class="line"><span class="lineno">  217</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  218</span>                <a class="code hl_variable" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a> = <a class="code hl_function" href="../../d0/d77/a29879.html#ac41bf56bfaef1f478a0210327015f46d">GetLiquidTypeId</a>(<a class="code hl_variable" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a> + 1);</div>
+<div class="line"><span class="lineno">  219</span> </div>
+<div class="line"><span class="lineno">  220</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a>)</div>
+<div class="line"><span class="lineno">  221</span>                <a class="code hl_variable" href="../../d0/d77/a29879.html#aa851edbe28162415b07ae34a28385342">liquflags</a> |= 2;</div>
+<div class="line"><span class="lineno">  222</span>        }</div>
+<div class="line"><span class="lineno">  223</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!strcmp(fourcc, <span class="stringliteral">&quot;MOPY&quot;</span>))</div>
+<div class="line"><span class="lineno">  224</span>        {</div>
+<div class="line"><span class="lineno">  225</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#ab7f07164e35d2d1dc302a9769f2d488a">MOPY</a> = <span class="keyword">new</span> <span class="keywordtype">char</span>[size];</div>
+<div class="line"><span class="lineno">  226</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#ac7681a258e4b9c6d88fadbc07039f0fb">mopy_size</a> = size;</div>
+<div class="line"><span class="lineno">  227</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#ac1d35d60e8c67a7bf727d3b606936497">nTriangles</a> = (int)size / 2;</div>
+<div class="line"><span class="lineno">  228</span>            f.read(<a class="code hl_variable" href="../../d0/d77/a29879.html#ab7f07164e35d2d1dc302a9769f2d488a">MOPY</a>, size);</div>
+<div class="line"><span class="lineno">  229</span>        }</div>
+<div class="line"><span class="lineno">  230</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!strcmp(fourcc, <span class="stringliteral">&quot;MOVI&quot;</span>))</div>
+<div class="line"><span class="lineno">  231</span>        {</div>
+<div class="line"><span class="lineno">  232</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#a2e022922ced7ed76ae88abcab1ee36d6">MOVI</a> = <span class="keyword">new</span> <a class="code hl_typedef" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>[size / 2];</div>
+<div class="line"><span class="lineno">  233</span>            f.read(<a class="code hl_variable" href="../../d0/d77/a29879.html#a2e022922ced7ed76ae88abcab1ee36d6">MOVI</a>, size);</div>
+<div class="line"><span class="lineno">  234</span>        }</div>
+<div class="line"><span class="lineno">  235</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!strcmp(fourcc, <span class="stringliteral">&quot;MOVT&quot;</span>))</div>
+<div class="line"><span class="lineno">  236</span>        {</div>
+<div class="line"><span class="lineno">  237</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#a0dfa2177350ecf56f2ae020ae430152a">MOVT</a> = <span class="keyword">new</span> <span class="keywordtype">float</span>[size / 4];</div>
+<div class="line"><span class="lineno">  238</span>            f.read(<a class="code hl_variable" href="../../d0/d77/a29879.html#a0dfa2177350ecf56f2ae020ae430152a">MOVT</a>, size);</div>
+<div class="line"><span class="lineno">  239</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#a8ff67a2c20347f8aad5dde142e6df437">nVertices</a> = (int)size / 12;</div>
 <div class="line"><span class="lineno">  240</span>        }</div>
-<div class="line"><span class="lineno">  241</span>    }</div>
-<div class="line"><span class="lineno">  242</span>}</div>
+<div class="line"><span class="lineno">  241</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!strcmp(fourcc, <span class="stringliteral">&quot;MONR&quot;</span>))</div>
+<div class="line"><span class="lineno">  242</span>        {</div>
+<div class="line"><span class="lineno">  243</span>        }</div>
+<div class="line"><span class="lineno">  244</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!strcmp(fourcc, <span class="stringliteral">&quot;MOTV&quot;</span>))</div>
+<div class="line"><span class="lineno">  245</span>        {</div>
+<div class="line"><span class="lineno">  246</span>        }</div>
+<div class="line"><span class="lineno">  247</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!strcmp(fourcc, <span class="stringliteral">&quot;MOBA&quot;</span>))</div>
+<div class="line"><span class="lineno">  248</span>        {</div>
+<div class="line"><span class="lineno">  249</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#aa34e0a3886cec51c9b2940201dbc52a9">MOBA</a> = <span class="keyword">new</span> <a class="code hl_typedef" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>[size / 2];</div>
+<div class="line"><span class="lineno">  250</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#a187402bf47b87da329875cee6d5e8892">moba_size</a> = size / 2;</div>
+<div class="line"><span class="lineno">  251</span>            f.read(<a class="code hl_variable" href="../../d0/d77/a29879.html#aa34e0a3886cec51c9b2940201dbc52a9">MOBA</a>, size);</div>
+<div class="line"><span class="lineno">  252</span>        }</div>
+<div class="line"><span class="lineno">  253</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!strcmp(fourcc,<span class="stringliteral">&quot;MODR&quot;</span>))</div>
+<div class="line"><span class="lineno">  254</span>        {</div>
+<div class="line"><span class="lineno">  255</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#a76169b5fa7a0babdc3060018fce02136">DoodadReferences</a>.resize(size / <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>));</div>
+<div class="line"><span class="lineno">  256</span>            f.read(<a class="code hl_variable" href="../../d0/d77/a29879.html#a76169b5fa7a0babdc3060018fce02136">DoodadReferences</a>.data(), size);</div>
+<div class="line"><span class="lineno">  257</span>        }</div>
+<div class="line"><span class="lineno">  258</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!strcmp(fourcc,<span class="stringliteral">&quot;MLIQ&quot;</span>))</div>
+<div class="line"><span class="lineno">  259</span>        {</div>
+<div class="line"><span class="lineno">  260</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#aa851edbe28162415b07ae34a28385342">liquflags</a> |= 1;</div>
+<div class="line"><span class="lineno">  261</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a> = <span class="keyword">new</span> <a class="code hl_struct" href="../../d2/d8e/a29871.html">WMOLiquidHeader</a>();</div>
+<div class="line"><span class="lineno">  262</span>            f.read(<a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d2/d8e/a29871.html">WMOLiquidHeader</a>));</div>
+<div class="line"><span class="lineno">  263</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#a55e947f4f48cd4e6bdc3b1fe1f29c48e">LiquEx_size</a> = <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d5/d89/a29875.html">WMOLiquidVert</a>) * <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>-&gt;<a class="code hl_variable" href="../../d2/d8e/a29871.html#aa5ad7ff660f7f0b5ddfd2d186496d928">xverts</a> * <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>-&gt;<a class="code hl_variable" href="../../d2/d8e/a29871.html#abf24042b85692cd0df05d65d734dd99e">yverts</a>;</div>
+<div class="line"><span class="lineno">  264</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#aa1f9a8e72a43997e2d7231ebea7c4767">LiquEx</a> = <span class="keyword">new</span> <a class="code hl_struct" href="../../d5/d89/a29875.html">WMOLiquidVert</a>[<a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>-&gt;<a class="code hl_variable" href="../../d2/d8e/a29871.html#aa5ad7ff660f7f0b5ddfd2d186496d928">xverts</a> * <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>-&gt;<a class="code hl_variable" href="../../d2/d8e/a29871.html#abf24042b85692cd0df05d65d734dd99e">yverts</a>];</div>
+<div class="line"><span class="lineno">  265</span>            f.read(<a class="code hl_variable" href="../../d0/d77/a29879.html#aa1f9a8e72a43997e2d7231ebea7c4767">LiquEx</a>, <a class="code hl_variable" href="../../d0/d77/a29879.html#a55e947f4f48cd4e6bdc3b1fe1f29c48e">LiquEx_size</a>);</div>
+<div class="line"><span class="lineno">  266</span>            <span class="keywordtype">int</span> nLiquBytes = <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>-&gt;<a class="code hl_variable" href="../../d2/d8e/a29871.html#aca34dfa64624cfe04c314c13bbed0062">xtiles</a> * <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>-&gt;<a class="code hl_variable" href="../../d2/d8e/a29871.html#a9901a7e9828ac840bc290b0768831d66">ytiles</a>;</div>
+<div class="line"><span class="lineno">  267</span>            <a class="code hl_variable" href="../../d0/d77/a29879.html#ac5934125dffe4733ba2f84a992596d48">LiquBytes</a> = <span class="keyword">new</span> <span class="keywordtype">char</span>[nLiquBytes];</div>
+<div class="line"><span class="lineno">  268</span>            f.read(<a class="code hl_variable" href="../../d0/d77/a29879.html#ac5934125dffe4733ba2f84a992596d48">LiquBytes</a>, nLiquBytes);</div>
+<div class="line"><span class="lineno">  269</span> </div>
+<div class="line"><span class="lineno">  270</span>            <span class="comment">// Determine legacy liquid type</span></div>
+<div class="line"><span class="lineno">  271</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a>)</div>
+<div class="line"><span class="lineno">  272</span>            {</div>
+<div class="line"><span class="lineno">  273</span>                <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>-&gt;<a class="code hl_variable" href="../../d2/d8e/a29871.html#aca34dfa64624cfe04c314c13bbed0062">xtiles</a> * <a class="code hl_variable" href="../../d0/d77/a29879.html#ae263e796a667e2876c174b971c635d0d">hlq</a>-&gt;<a class="code hl_variable" href="../../d2/d8e/a29871.html#a9901a7e9828ac840bc290b0768831d66">ytiles</a>; ++i)</div>
+<div class="line"><span class="lineno">  274</span>                {</div>
+<div class="line"><span class="lineno">  275</span>                    <span class="keywordflow">if</span> ((<a class="code hl_variable" href="../../d0/d77/a29879.html#ac5934125dffe4733ba2f84a992596d48">LiquBytes</a>[i] &amp; 0xF) != 15)</div>
+<div class="line"><span class="lineno">  276</span>                    {</div>
+<div class="line"><span class="lineno">  277</span>                        <a class="code hl_variable" href="../../d0/d77/a29879.html#a313188e09699e7e1c6a83e13e9885ce9">groupLiquid</a> = <a class="code hl_function" href="../../d0/d77/a29879.html#ac41bf56bfaef1f478a0210327015f46d">GetLiquidTypeId</a>((<a class="code hl_variable" href="../../d0/d77/a29879.html#ac5934125dffe4733ba2f84a992596d48">LiquBytes</a>[i] &amp; 0xF) + 1);</div>
+<div class="line"><span class="lineno">  278</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  279</span>                    }</div>
+<div class="line"><span class="lineno">  280</span>                }</div>
+<div class="line"><span class="lineno">  281</span>            }</div>
+<div class="line"><span class="lineno">  282</span> </div>
+<div class="line"><span class="lineno">  283</span>            <span class="comment">/* std::ofstream llog(&quot;Buildings/liquid.log&quot;, ios_base::out | ios_base::app);</span></div>
+<div class="line"><span class="lineno">  284</span><span class="comment">            llog &lt;&lt; filename;</span></div>
+<div class="line"><span class="lineno">  285</span><span class="comment">            llog &lt;&lt; &quot;\nbbox: &quot; &lt;&lt; bbcorn1[0] &lt;&lt; &quot;, &quot; &lt;&lt; bbcorn1[1] &lt;&lt; &quot;, &quot; &lt;&lt; bbcorn1[2] &lt;&lt; &quot; | &quot; &lt;&lt; bbcorn2[0] &lt;&lt; &quot;, &quot; &lt;&lt; bbcorn2[1] &lt;&lt; &quot;, &quot; &lt;&lt; bbcorn2[2];</span></div>
+<div class="line"><span class="lineno">  286</span><span class="comment">            llog &lt;&lt; &quot;\nlpos: &quot; &lt;&lt; hlq-&gt;pos_x &lt;&lt; &quot;, &quot; &lt;&lt; hlq-&gt;pos_y &lt;&lt; &quot;, &quot; &lt;&lt; hlq-&gt;pos_z;</span></div>
+<div class="line"><span class="lineno">  287</span><span class="comment">            llog &lt;&lt; &quot;\nx-/yvert: &quot; &lt;&lt; hlq-&gt;xverts &lt;&lt; &quot;/&quot; &lt;&lt; hlq-&gt;yverts &lt;&lt; &quot; size: &quot; &lt;&lt; size &lt;&lt; &quot; expected size: &quot; &lt;&lt; 30 + hlq-&gt;xverts*hlq-&gt;yverts*8 + hlq-&gt;xtiles*hlq-&gt;ytiles &lt;&lt; std::endl;</span></div>
+<div class="line"><span class="lineno">  288</span><span class="comment">            llog.close(); */</span></div>
+<div class="line"><span class="lineno">  289</span>        }</div>
+<div class="line"><span class="lineno">  290</span>        f.seek((<span class="keywordtype">int</span>)nextpos);</div>
+<div class="line"><span class="lineno">  291</span>    }</div>
+<div class="line"><span class="lineno">  292</span>    f.close();</div>
+<div class="line"><span class="lineno">  293</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  294</span>}</div>
+<div class="ttc" id="aa29723_html"><div class="ttname"><a href="../../db/d80/a29723.html">MPQFile</a></div><div class="ttdef"><b>Definition:</b> mpq_libmpq04.h:74</div></div>
+<div class="ttc" id="aa29867_html_ac3e95eb0b51ef25289b2cdf617ac2585"><div class="ttname"><a href="../../d9/d19/a29867.html#ac3e95eb0b51ef25289b2cdf617ac2585">WMORoot::flags</a></div><div class="ttdeci">uint32 flags</div><div class="ttdef"><b>Definition:</b> wmo.h:84</div></div>
+<div class="ttc" id="aa29871_html_aa5ad7ff660f7f0b5ddfd2d186496d928"><div class="ttname"><a href="../../d2/d8e/a29871.html#aa5ad7ff660f7f0b5ddfd2d186496d928">WMOLiquidHeader::xverts</a></div><div class="ttdeci">int xverts</div><div class="ttdef"><b>Definition:</b> wmo.h:102</div></div>
+<div class="ttc" id="aa29871_html_abf24042b85692cd0df05d65d734dd99e"><div class="ttname"><a href="../../d2/d8e/a29871.html#abf24042b85692cd0df05d65d734dd99e">WMOLiquidHeader::yverts</a></div><div class="ttdeci">int yverts</div><div class="ttdef"><b>Definition:</b> wmo.h:102</div></div>
+<div class="ttc" id="aa29879_html_a76169b5fa7a0babdc3060018fce02136"><div class="ttname"><a href="../../d0/d77/a29879.html#a76169b5fa7a0babdc3060018fce02136">WMOGroup::DoodadReferences</a></div><div class="ttdeci">std::vector&lt; uint16 &gt; DoodadReferences</div><div class="ttdef"><b>Definition:</b> wmo.h:150</div></div>
+<div class="ttc" id="aa29879_html_ac41bf56bfaef1f478a0210327015f46d"><div class="ttname"><a href="../../d0/d77/a29879.html#ac41bf56bfaef1f478a0210327015f46d">WMOGroup::GetLiquidTypeId</a></div><div class="ttdeci">uint32 GetLiquidTypeId(uint32 liquidTypeId)</div><div class="ttdef"><b>Definition:</b> wmo.cpp:489</div></div>
+<div class="ttc" id="aa30747_html_aff3add09c98fece7ace91b0e7c90435e"><div class="ttname"><a href="../../df/d95/a30747.html#aff3add09c98fece7ace91b0e7c90435e">flipcc</a></div><div class="ttdeci">void flipcc(char *fcc)</div><div class="ttdef"><b>Definition:</b> mpq_libmpq04.h:98</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00069">main()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00136">bbcorn1</a>, <a class="el" href="../../#l00137">bbcorn2</a>, <a class="el" href="../../#l00126">MPQFile::close()</a>, <a class="el" href="../../#l00134">descGroupName</a>, <a class="el" href="../../#l00150">DoodadReferences</a>, <a class="el" href="../../#l00121">filename</a>, <a class="el" href="../../#l00084">WMORoot::flags</a>, <a class="el" href="../../#l00098">flipcc()</a>, <a class="el" href="../../#l00142">fogIdx</a>, <a class="el" href="../../#l00489">GetLiquidTypeId()</a>, <a class="el" href="../../#l00089">MPQFile::getPos()</a>, <a class="el" href="../../#l00142">groupLiquid</a>, <a class="el" href="../../#l00134">groupName</a>, <a class="el" href="../../#l00142">groupWMOID</a>, <a class="el" href="../../#l00131">hlq</a>, <a class="el" href="../../#l00092">MPQFile::isEof()</a>, <a class="el" href="../../#l00133">LiquBytes</a>, <a class="el" href="../../#l00132">LiquEx</a>, <a class="el" href="../../#l00145">LiquEx_size</a>, <a class="el" href="../../#l00148">liquflags</a>, <a class="el" href="../../#l00129">MOBA</a>, <a class="el" href="../../#l00144">moba_size</a>, <a class="el" href="../../#l00135">mogpFlags</a>, <a class="el" href="../../#l00138">moprIdx</a>, <a class="el" href="../../#l00139">moprNItems</a>, <a class="el" href="../../#l00125">MOPY</a>, <a class="el" href="../../#l00144">mopy_size</a>, <a class="el" href="../../#l00126">MOVI</a>, <a class="el" href="../../#l00128">MOVT</a>, <a class="el" href="../../#l00140">nBatchA</a>, <a class="el" href="../../#l00141">nBatchB</a>, <a class="el" href="../../#l00142">nBatchC</a>, <a class="el" href="../../#l00147">nTriangles</a>, <a class="el" href="../../#l00146">nVertices</a>, <a class="el" href="../../#l00096">MPQFile::read()</a>, <a class="el" href="../../#l00114">MPQFile::seek()</a>, <a class="el" href="../../#l00102">WMOLiquidHeader::xtiles</a>, <a class="el" href="../../#l00102">WMOLiquidHeader::xverts</a>, <a class="el" href="../../#l00102">WMOLiquidHeader::ytiles</a>, and <a class="el" href="../../#l00102">WMOLiquidHeader::yverts</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00098">ExtractSingleWmo()</a>.</p>
 
 </div>
 </div>
-<a id="ga1551df43a48f1dbf64dbec1e47b07eea" name="ga1551df43a48f1dbf64dbec1e47b07eea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ga1551df43a48f1dbf64dbec1e47b07eea">&#9670;&#160;</a></span>StartDB()</h2>
+<a id="af75eef1c0cf5a1450a3ce8a8a5d455bc" name="af75eef1c0cf5a1450a3ce8a8a5d455bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af75eef1c0cf5a1450a3ce8a8a5d455bc">&#9670;&#160;</a></span>ShouldSkip()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool StartDB </td>
+          <td class="memname">bool WMOGroup::ShouldSkip </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d19/a29867.html">WMORoot</a> const *&#160;</td>
+          <td class="paramname"><em>root</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p>Initialize connection to the database. </p>
-<p >Initialize connection to the databases. </p>
-<ul>
-<li>Get the realm Id from the configuration file</li>
-<li>Clean the database before starting</li>
-<li>Insert version info into DB</li>
-</ul>
-<div class="fragment"><div class="line"><span class="lineno">  208</span>{</div>
-<div class="line"><span class="lineno">  209</span>    <a class="code hl_function" href="../../d4/d10/a04839.html#a70b74137156f0a22792c3cf95c54decc">MySQL::Library_Init</a>();</div>
-<div class="line"><span class="lineno">  210</span> </div>
-<div class="line"><span class="lineno">  211</span>    <span class="comment">// Load databases</span></div>
-<div class="line"><span class="lineno">  212</span>    <span class="comment">// NOTE: While authserver is singlethreaded you should keep synch_threads == 1.</span></div>
-<div class="line"><span class="lineno">  213</span>    <span class="comment">// Increasing it is just silly since only 1 will be used ever.</span></div>
-<div class="line"><span class="lineno">  214</span>    <a class="code hl_class" href="../../d0/df9/a05758.html">DatabaseLoader</a> loader(<span class="stringliteral">&quot;server.authserver&quot;</span>);</div>
-<div class="line"><span class="lineno">  215</span>    loader</div>
-<div class="line"><span class="lineno">  216</span>        .AddDatabase(<a class="code hl_variable" href="../../db/de8/a03968.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>, <span class="stringliteral">&quot;Login&quot;</span>);</div>
-<div class="line"><span class="lineno">  217</span> </div>
-<div class="line"><span class="lineno">  218</span>    <span class="keywordflow">if</span> (!loader.Load())</div>
-<div class="line"><span class="lineno">  219</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  220</span> </div>
-<div class="line"><span class="lineno">  221</span>    <a class="code hl_define" href="../../d9/d32/a04640.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Started auth database connection pool.&quot;</span>);</div>
-<div class="line"><span class="lineno">  222</span>    <a class="code hl_define" href="../../d9/d32/a04640.html#ab5487500f5b4b12072043104b916d582">sLog</a>-&gt;SetRealmId(0); <span class="comment">// Enables DB appenders when realm is set.</span></div>
-<div class="line"><span class="lineno">  223</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  224</span>}</div>
-<div class="ttc" id="aa04839_html_a70b74137156f0a22792c3cf95c54decc"><div class="ttname"><a href="../../d4/d10/a04839.html#a70b74137156f0a22792c3cf95c54decc">MySQL::Library_Init</a></div><div class="ttdeci">AC_DATABASE_API void Library_Init()</div><div class="ttdef"><b>Definition:</b> MySQLThreading.cpp:21</div></div>
-<div class="ttc" id="aa05758_html"><div class="ttname"><a href="../../d0/df9/a05758.html">DatabaseLoader</a></div><div class="ttdef"><b>Definition:</b> DatabaseLoader.h:33</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  506</span>{</div>
+<div class="line"><span class="lineno">  507</span>        <span class="comment">// skip unreachable</span></div>
+<div class="line"><span class="lineno">  508</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d77/a29879.html#a80fb6aaf44deb2bb00dd6d465ec9193a">mogpFlags</a> &amp; 0x80)</div>
+<div class="line"><span class="lineno">  509</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  510</span> </div>
+<div class="line"><span class="lineno">  511</span>        <span class="comment">// skip antiportals</span></div>
+<div class="line"><span class="lineno">  512</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d77/a29879.html#a80fb6aaf44deb2bb00dd6d465ec9193a">mogpFlags</a> &amp; 0x4000000)</div>
+<div class="line"><span class="lineno">  513</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  514</span> </div>
+<div class="line"><span class="lineno">  515</span>       <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d77/a29879.html#a3e77e649fb0113c33546a9dc222d799a">groupName</a> &lt; <a class="code hl_typedef" href="../../db/d8e/a00482.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(root-&gt;GroupNames.size()) &amp;&amp; !strcmp(&amp;root-&gt;GroupNames[<a class="code hl_variable" href="../../d0/d77/a29879.html#a3e77e649fb0113c33546a9dc222d799a">groupName</a>], <span class="stringliteral">&quot;antiportal&quot;</span>))</div>
+<div class="line"><span class="lineno">  516</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  517</span> </div>
+<div class="line"><span class="lineno">  518</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  519</span>}</div>
+<div class="ttc" id="aa00482_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../db/d8e/a00482.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">DatabaseLoader::AddDatabase()</a>, <a class="el" href="../../#l00021">MySQL::Library_Init()</a>, <a class="el" href="../../#l00173">DatabaseLoader::Load()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, and <a class="el" href="../../#l00127">sLog</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00134">groupName</a>, <a class="el" href="../../#l00088">WMORoot::GroupNames</a>, and <a class="el" href="../../#l00135">mogpFlags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00069">main()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00098">ExtractSingleWmo()</a>.</p>
 
 </div>
 </div>
-<a id="ga927af1587546ee7503a3b9a18f6439c0" name="ga927af1587546ee7503a3b9a18f6439c0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ga927af1587546ee7503a3b9a18f6439c0">&#9670;&#160;</a></span>StopDB()</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="af906d56c7da01d8afe8fcc1304f1a420" name="af906d56c7da01d8afe8fcc1304f1a420"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af906d56c7da01d8afe8fcc1304f1a420">&#9670;&#160;</a></span>bbcorn1</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void StopDB </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">float WMOGroup::bbcorn1[3]</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>Close the connection to the database. </p>
-<div class="fragment"><div class="line"><span class="lineno">  228</span>{</div>
-<div class="line"><span class="lineno">  229</span>    <a class="code hl_variable" href="../../db/de8/a03968.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Close();</div>
-<div class="line"><span class="lineno">  230</span>    <a class="code hl_function" href="../../d4/d10/a04839.html#aff44554b66bd7ef0e21f1db5beb0b81a">MySQL::Library_End</a>();</div>
-<div class="line"><span class="lineno">  231</span>}</div>
-<div class="ttc" id="aa04839_html_aff44554b66bd7ef0e21f1db5beb0b81a"><div class="ttname"><a href="../../d4/d10/a04839.html#aff44554b66bd7ef0e21f1db5beb0b81a">MySQL::Library_End</a></div><div class="ttdeci">AC_DATABASE_API void Library_End()</div><div class="ttdef"><b>Definition:</b> MySQLThreading.cpp:26</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00026">MySQL::Library_End()</a>, and <a class="el" href="../../#l00022">LoginDatabase</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00172">open()</a>, and <a class="el" href="../../#l00161">WMOGroup()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00069">main()</a>.</p>
+</div>
+</div>
+<a id="a752352742955934b15d6882fa7e0e96a" name="a752352742955934b15d6882fa7e0e96a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a752352742955934b15d6882fa7e0e96a">&#9670;&#160;</a></span>bbcorn2</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float WMOGroup::bbcorn2[3]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00172">open()</a>, and <a class="el" href="../../#l00161">WMOGroup()</a>.</p>
+
+</div>
+</div>
+<a id="a50c861842e55b23eed753a05d0395b27" name="a50c861842e55b23eed753a05d0395b27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a50c861842e55b23eed753a05d0395b27">&#9670;&#160;</a></span>descGroupName</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int WMOGroup::descGroupName</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="a76169b5fa7a0babdc3060018fce02136" name="a76169b5fa7a0babdc3060018fce02136"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76169b5fa7a0babdc3060018fce02136">&#9670;&#160;</a></span>DoodadReferences</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt; WMOGroup::DoodadReferences</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00098">ExtractSingleWmo()</a>, and <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="a3dd16ad2acc44ffac305ca53e58f088f" name="a3dd16ad2acc44ffac305ca53e58f088f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3dd16ad2acc44ffac305ca53e58f088f">&#9670;&#160;</a></span>filename</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string WMOGroup::filename</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="a2fb13fd2ca9f92720c57110436140a89" name="a2fb13fd2ca9f92720c57110436140a89"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2fb13fd2ca9f92720c57110436140a89">&#9670;&#160;</a></span>fogIdx</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WMOGroup::fogIdx</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="a313188e09699e7e1c6a83e13e9885ce9" name="a313188e09699e7e1c6a83e13e9885ce9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a313188e09699e7e1c6a83e13e9885ce9">&#9670;&#160;</a></span>groupLiquid</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WMOGroup::groupLiquid</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, and <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="a3e77e649fb0113c33546a9dc222d799a" name="a3e77e649fb0113c33546a9dc222d799a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e77e649fb0113c33546a9dc222d799a">&#9670;&#160;</a></span>groupName</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int WMOGroup::groupName</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00172">open()</a>, and <a class="el" href="../../#l00505">ShouldSkip()</a>.</p>
+
+</div>
+</div>
+<a id="a647259dd122cf8e424f1704ebab524f9" name="a647259dd122cf8e424f1704ebab524f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a647259dd122cf8e424f1704ebab524f9">&#9670;&#160;</a></span>groupWMOID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WMOGroup::groupWMOID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, and <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="ae263e796a667e2876c174b971c635d0d" name="ae263e796a667e2876c174b971c635d0d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae263e796a667e2876c174b971c635d0d">&#9670;&#160;</a></span>hlq</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d8e/a29871.html">WMOLiquidHeader</a>* WMOGroup::hlq</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00172">open()</a>, and <a class="el" href="../../#l00521">~WMOGroup()</a>.</p>
+
+</div>
+</div>
+<a id="ac5934125dffe4733ba2f84a992596d48" name="ac5934125dffe4733ba2f84a992596d48"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5934125dffe4733ba2f84a992596d48">&#9670;&#160;</a></span>LiquBytes</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char* WMOGroup::LiquBytes</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00172">open()</a>, and <a class="el" href="../../#l00521">~WMOGroup()</a>.</p>
+
+</div>
+</div>
+<a id="aa1f9a8e72a43997e2d7231ebea7c4767" name="aa1f9a8e72a43997e2d7231ebea7c4767"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa1f9a8e72a43997e2d7231ebea7c4767">&#9670;&#160;</a></span>LiquEx</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/d89/a29875.html">WMOLiquidVert</a>* WMOGroup::LiquEx</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00172">open()</a>, and <a class="el" href="../../#l00521">~WMOGroup()</a>.</p>
+
+</div>
+</div>
+<a id="a55e947f4f48cd4e6bdc3b1fe1f29c48e" name="a55e947f4f48cd4e6bdc3b1fe1f29c48e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55e947f4f48cd4e6bdc3b1fe1f29c48e">&#9670;&#160;</a></span>LiquEx_size</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int WMOGroup::LiquEx_size</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, and <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="aa851edbe28162415b07ae34a28385342" name="aa851edbe28162415b07ae34a28385342"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa851edbe28162415b07ae34a28385342">&#9670;&#160;</a></span>liquflags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WMOGroup::liquflags</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, and <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="aa34e0a3886cec51c9b2940201dbc52a9" name="aa34e0a3886cec51c9b2940201dbc52a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa34e0a3886cec51c9b2940201dbc52a9">&#9670;&#160;</a></span>MOBA</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>* WMOGroup::MOBA</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00172">open()</a>, and <a class="el" href="../../#l00521">~WMOGroup()</a>.</p>
+
+</div>
+</div>
+<a id="a187402bf47b87da329875cee6d5e8892" name="a187402bf47b87da329875cee6d5e8892"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a187402bf47b87da329875cee6d5e8892">&#9670;&#160;</a></span>moba_size</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int WMOGroup::moba_size</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, and <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="ae185ea49affd80b22e7fb1825ce01031" name="ae185ea49affd80b22e7fb1825ce01031"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae185ea49affd80b22e7fb1825ce01031">&#9670;&#160;</a></span>MobaEx</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int* WMOGroup::MobaEx</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>.</p>
+
+</div>
+</div>
+<a id="a80fb6aaf44deb2bb00dd6d465ec9193a" name="a80fb6aaf44deb2bb00dd6d465ec9193a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a80fb6aaf44deb2bb00dd6d465ec9193a">&#9670;&#160;</a></span>mogpFlags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int WMOGroup::mogpFlags</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00489">GetLiquidTypeId()</a>, <a class="el" href="../../#l00172">open()</a>, and <a class="el" href="../../#l00505">ShouldSkip()</a>.</p>
+
+</div>
+</div>
+<a id="a387406120b3c91dac872a4ab66e7bfc1" name="a387406120b3c91dac872a4ab66e7bfc1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a387406120b3c91dac872a4ab66e7bfc1">&#9670;&#160;</a></span>moprIdx</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> WMOGroup::moprIdx</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="af7c65f3e297f0884de3aab0a86a84e3d" name="af7c65f3e297f0884de3aab0a86a84e3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af7c65f3e297f0884de3aab0a86a84e3d">&#9670;&#160;</a></span>moprNItems</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> WMOGroup::moprNItems</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="ab7f07164e35d2d1dc302a9769f2d488a" name="ab7f07164e35d2d1dc302a9769f2d488a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab7f07164e35d2d1dc302a9769f2d488a">&#9670;&#160;</a></span>MOPY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char* WMOGroup::MOPY</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00172">open()</a>, and <a class="el" href="../../#l00521">~WMOGroup()</a>.</p>
+
+</div>
+</div>
+<a id="ac7681a258e4b9c6d88fadbc07039f0fb" name="ac7681a258e4b9c6d88fadbc07039f0fb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7681a258e4b9c6d88fadbc07039f0fb">&#9670;&#160;</a></span>mopy_size</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int WMOGroup::mopy_size</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="a2e022922ced7ed76ae88abcab1ee36d6" name="a2e022922ced7ed76ae88abcab1ee36d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2e022922ced7ed76ae88abcab1ee36d6">&#9670;&#160;</a></span>MOVI</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>* WMOGroup::MOVI</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00172">open()</a>, and <a class="el" href="../../#l00521">~WMOGroup()</a>.</p>
+
+</div>
+</div>
+<a id="af4a4ce4598527e13f15c452a8105acf1" name="af4a4ce4598527e13f15c452a8105acf1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af4a4ce4598527e13f15c452a8105acf1">&#9670;&#160;</a></span>MoviEx</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>* WMOGroup::MoviEx</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>.</p>
+
+</div>
+</div>
+<a id="a0dfa2177350ecf56f2ae020ae430152a" name="a0dfa2177350ecf56f2ae020ae430152a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0dfa2177350ecf56f2ae020ae430152a">&#9670;&#160;</a></span>MOVT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float* WMOGroup::MOVT</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00172">open()</a>, and <a class="el" href="../../#l00521">~WMOGroup()</a>.</p>
+
+</div>
+</div>
+<a id="a2e5e1e025b036e40d3e25c5bd5bd5e10" name="a2e5e1e025b036e40d3e25c5bd5bd5e10"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2e5e1e025b036e40d3e25c5bd5bd5e10">&#9670;&#160;</a></span>nBatchA</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> WMOGroup::nBatchA</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="a6575b9c6e9e1277d4eaef123a319b6f5" name="a6575b9c6e9e1277d4eaef123a319b6f5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6575b9c6e9e1277d4eaef123a319b6f5">&#9670;&#160;</a></span>nBatchB</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> WMOGroup::nBatchB</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="a0dca524936b763d5ffca94cef49a99fe" name="a0dca524936b763d5ffca94cef49a99fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0dca524936b763d5ffca94cef49a99fe">&#9670;&#160;</a></span>nBatchC</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WMOGroup::nBatchC</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="ac1d35d60e8c67a7bf727d3b606936497" name="ac1d35d60e8c67a7bf727d3b606936497"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac1d35d60e8c67a7bf727d3b606936497">&#9670;&#160;</a></span>nTriangles</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int WMOGroup::nTriangles</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, and <a class="el" href="../../#l00172">open()</a>.</p>
+
+</div>
+</div>
+<a id="a8ff67a2c20347f8aad5dde142e6df437" name="a8ff67a2c20347f8aad5dde142e6df437"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ff67a2c20347f8aad5dde142e6df437">&#9670;&#160;</a></span>nVertices</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">unsigned int WMOGroup::nVertices</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00296">ConvertToVMAPGroupWmo()</a>, and <a class="el" href="../../#l00172">open()</a>.</p>
 
 </div>
 </div>
@@ -678,8 +1238,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_5048a8ff141d56662c703e95f88ef858.html">authserver</a></li><li class="navelem"><a class="el" href="../../d0/d77/a29879.html">Main.cpp</a></li>
-    <li class="footer">Generated on Mon Dec 15 2025 20:50:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/d77/a29879.html">WMOGroup</a></li>
+    <li class="footer">Generated on Mon Mar 23 2026 21:08:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

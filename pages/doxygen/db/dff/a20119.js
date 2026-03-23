@@ -1,9 +1,7 @@
 var a20119 =
 [
-    [ "npc_thorims_hammerAI", "db/dff/a20119.html#aafda36c8d784252d271ef031ab6a3d34", null ],
-    [ "Reset", "db/dff/a20119.html#a57975d0dc00c86946e547ba43c7151ec", null ],
-    [ "UpdateAI", "db/dff/a20119.html#a4e01a61d09c11647e06c3547d6fa91fa", null ],
-    [ "_beamTimer", "db/dff/a20119.html#aba7c6c078977a8187a7e673ba3126bfd", null ],
-    [ "_finishTime", "db/dff/a20119.html#a218bd28d18a2c2f0aef6906619437209", null ],
-    [ "_removeTimer", "db/dff/a20119.html#a958e4c975d1ae634745107af7d204f82", null ]
+    [ "npc_ulduar_saronite_vapors", "db/dff/a20119.html#a1b582f4b98f596d701d9f5742d345e44", null ],
+    [ "IsSummonedBy", "db/dff/a20119.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
+    [ "JustDied", "db/dff/a20119.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "pInstance", "db/dff/a20119.html#aaa51547a77bcd8aa53c7a057e3ca37d6", null ]
 ];

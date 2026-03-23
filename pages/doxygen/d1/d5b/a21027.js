@@ -1,6 +1,8 @@
 var a21027 =
 [
-    [ "boss_yoggsaronAI", "d8/dc0/a21031.html", "d8/dc0/a21031" ],
-    [ "boss_yoggsaron", "d1/d5b/a21027.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
-    [ "GetAI", "d1/d5b/a21027.html#a113eb034acc46a2edd4a84598413a63e", null ]
+    [ "npc_frozen_orbAI", "d1/d5b/a21027.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "d1/d5b/a21027.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "d1/d5b/a21027.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "d1/d5b/a21027.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "d1/d5b/a21027.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

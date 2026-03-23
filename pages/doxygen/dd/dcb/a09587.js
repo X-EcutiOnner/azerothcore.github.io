@@ -1,18 +1,8 @@
 var a09587 =
 [
-    [ "GroupContainer", "dd/dcb/a09587.html#a417c5798d50cac5c1bc5b0eae13945cc", null ],
-    [ "GroupIds", "dd/dcb/a09587.html#ad3a9005c50a5957d3f47adf60624b9aa", null ],
-    [ "GroupMgr", "dd/dcb/a09587.html#a663dbeb2e20161d8d6cf72f322c05f0e", null ],
-    [ "~GroupMgr", "dd/dcb/a09587.html#ad5a5efeed7f78146983611c2349c111f", null ],
-    [ "AddGroup", "dd/dcb/a09587.html#abb97c613417573dc4cafa117065e7cf8", null ],
-    [ "GenerateGroupId", "dd/dcb/a09587.html#ad881433a3836a70e44734bde5a1afc6f", null ],
-    [ "GetGroupByGUID", "dd/dcb/a09587.html#a2af93882e217f762df95ba21af191c89", null ],
-    [ "InitGroupIds", "dd/dcb/a09587.html#a6881453ec34dc2d9416069a87b1a3234", null ],
-    [ "instance", "dd/dcb/a09587.html#a1b7275cfd70d46216df8c353e70d64c8", null ],
-    [ "LoadGroups", "dd/dcb/a09587.html#ab8548ce88b015ae3040cd5f2cd7b1990", null ],
-    [ "RegisterGroupId", "dd/dcb/a09587.html#a8bface2b6600801ebcd1cbb9070ec3ef", null ],
-    [ "RemoveGroup", "dd/dcb/a09587.html#a654b7c795c9c3d77a7a39bce58dec2c7", null ],
-    [ "_groupIds", "dd/dcb/a09587.html#af260c73ba61242f741103bdfe6d6fb9e", null ],
-    [ "_nextGroupId", "dd/dcb/a09587.html#a4e41d7444f8b7d3dbb54569be80b65f9", null ],
-    [ "GroupStore", "dd/dcb/a09587.html#ae897c661dd4b185d205c3a12d17ccb2b", null ]
+    [ "NearestGameObjectFishingHole", "dd/dcb/a09587.html#ab0e4734202edf26b69881ab85abe1d93", null ],
+    [ "NearestGameObjectFishingHole", "dd/dcb/a09587.html#a256c64e6c82d98349b958647d98bf4ce", null ],
+    [ "operator()", "dd/dcb/a09587.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
+    [ "i_obj", "dd/dcb/a09587.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
+    [ "i_range", "dd/dcb/a09587.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
 ];

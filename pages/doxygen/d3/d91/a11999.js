@@ -1,6 +1,6 @@
 var a11999 =
 [
-    [ "CapturedGroups", "d3/d91/a11999.html#a6842947e5fbe26c2c4aadc1209395902", null ],
-    [ "CurrentTemplate", "d3/d91/a11999.html#a6915499b95c29a00cde15c5a7f562158", null ],
-    [ "ZoneName", "d3/d91/a11999.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
+    [ "Command", "d3/d91/a11999.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
+    [ "Data", "d3/d91/a11999.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
+    [ "DataSize", "d3/d91/a11999.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
 ];

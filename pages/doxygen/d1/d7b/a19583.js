@@ -1,5 +1,6 @@
 var a19583 =
 [
-    [ "achievement_intense_cold", "d1/d7b/a19583.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "d1/d7b/a19583.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "boss_uromAI", "d5/da4/a19587.html", "d5/da4/a19587" ],
+    [ "boss_urom", "d1/d7b/a19583.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
+    [ "GetAI", "d1/d7b/a19583.html#ac381b851f3cc746fb323ff238892c537", null ]
 ];

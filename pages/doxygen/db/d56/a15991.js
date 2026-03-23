@@ -1,6 +1,6 @@
 var a15991 =
 [
-    [ "creatureID", "db/d56/a15991.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "db/d56/a15991.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "db/d56/a15991.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "HandleDummy", "db/d56/a15991.html#a2750ae788168e7496ea2345c5535509c", null ],
+    [ "PrepareSpellScript", "db/d56/a15991.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
+    [ "Register", "db/d56/a15991.html#ab6c961d89d22761402eb4f5881cbd318", null ]
 ];

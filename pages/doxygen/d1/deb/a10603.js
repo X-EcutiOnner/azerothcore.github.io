@@ -1,6 +1,7 @@
 var a10603 =
 [
-    [ "PlayedTimeClient", "d1/deb/a10603.html#a1c82d4d153606da9887d64599f319883", null ],
-    [ "Read", "d1/deb/a10603.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
-    [ "TriggerScriptEvent", "d1/deb/a10603.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
+    [ "DatabaseScript", "d1/deb/a10603.html#aab34b85df1a5ccdf17fede64baca4994", null ],
+    [ "IsDatabaseBound", "d1/deb/a10603.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
+    [ "OnAfterDatabaseLoadCreatureTemplates", "d1/deb/a10603.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
+    [ "OnAfterDatabasesLoaded", "d1/deb/a10603.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
 ];

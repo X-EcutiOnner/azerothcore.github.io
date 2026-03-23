@@ -1,7 +1,4 @@
 var a15255 =
 [
-    [ "boss_kurinnaxx", "df/d27/a15255.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "df/d27/a15255.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "df/d27/a15255.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "df/d27/a15255.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "df/d27/a15255.html#a60715ab6220e798f16b16bcaa3714ad9", null ]
 ];

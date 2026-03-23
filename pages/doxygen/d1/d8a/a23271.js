@@ -1,6 +1,12 @@
 var a23271 =
 [
-    [ "HandleScriptEffect", "d1/d8a/a23271.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
-    [ "PrepareSpellScript", "d1/d8a/a23271.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
-    [ "Register", "d1/d8a/a23271.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
+    [ "boss_nazan", "d1/d8a/a23271.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "d1/d8a/a23271.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "d1/d8a/a23271.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "d1/d8a/a23271.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "d1/d8a/a23271.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "d1/d8a/a23271.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "d1/d8a/a23271.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "d1/d8a/a23271.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "d1/d8a/a23271.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

@@ -1,7 +1,9 @@
 var a10763 =
 [
-    [ "GuildBankActivate", "d9/ded/a10763.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "d9/ded/a10763.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "d9/ded/a10763.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "d9/ded/a10763.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "ServerPacket", "d9/ded/a10763.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
+    [ "Clear", "d9/ded/a10763.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
+    [ "GetOpcode", "d9/ded/a10763.html#a639ab6c078d7c746bcb328526df705be", null ],
+    [ "Move", "d9/ded/a10763.html#a659397042201ae571bb564872e54d2c6", null ],
+    [ "Read", "d9/ded/a10763.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
+    [ "ShrinkToFit", "d9/ded/a10763.html#a6fa19a94d57484aaff3498be01495258", null ]
 ];

@@ -1,6 +1,6 @@
 var a23255 =
 [
-    [ "PrepareSpellScript", "d3/deb/a23255.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "d3/deb/a23255.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "d3/deb/a23255.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d7/d1e/a23259.html", "d7/d1e/a23259" ],
+    [ "instance_blood_furnace", "d3/deb/a23255.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d3/deb/a23255.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

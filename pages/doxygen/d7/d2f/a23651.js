@@ -1,7 +1,11 @@
 var a23651 =
 [
-    [ "HandleScript", "d7/d2f/a23651.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d7/d2f/a23651.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d7/d2f/a23651.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d7/d2f/a23651.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "boss_pathaleon_the_calculator", "d7/d2f/a23651.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "d7/d2f/a23651.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "d7/d2f/a23651.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "d7/d2f/a23651.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "d7/d2f/a23651.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "d7/d2f/a23651.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "d7/d2f/a23651.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "d7/d2f/a23651.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

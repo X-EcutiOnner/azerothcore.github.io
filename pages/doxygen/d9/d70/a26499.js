@@ -1,6 +1,7 @@
 var a26499 =
 [
-    [ "HandleEffectScriptEffect", "d9/d70/a26499.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "d9/d70/a26499.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "d9/d70/a26499.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "CheckProc", "d9/d70/a26499.html#ad9511694733ed76ed2e55ffc1005345e", null ],
+    [ "HandleProc", "d9/d70/a26499.html#a8021759730e413476d768495e856c544", null ],
+    [ "PrepareAuraScript", "d9/d70/a26499.html#a2d226a3b38dbe3da64f3ae9a3c47f9ea", null ],
+    [ "Register", "d9/d70/a26499.html#a2d8e2b52076b519e083c71b99b482c32", null ]
 ];

@@ -1,10 +1,11 @@
 var a08959 =
 [
-    [ "PetLevelInfo", "d6/ded/a08959.html#ad8e757abeae500063e963ffef5469809", null ],
-    [ "armor", "d6/ded/a08959.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
-    [ "health", "d6/ded/a08959.html#a322dcab3af8f98726aa6addf38e8891b", null ],
-    [ "mana", "d6/ded/a08959.html#a27352e73d6ed3945e398e0634dee1e96", null ],
-    [ "max_dmg", "d6/ded/a08959.html#a092f2600f64f2af885142b2e96d1fe64", null ],
-    [ "min_dmg", "d6/ded/a08959.html#a299d1c7f4c28893e09de79cd816afa95", null ],
-    [ "stats", "d6/ded/a08959.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
+    [ "UnitActionBarEntry", "d6/ded/a08959.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "d6/ded/a08959.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "d6/ded/a08959.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "d6/ded/a08959.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "d6/ded/a08959.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "d6/ded/a08959.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "d6/ded/a08959.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "d6/ded/a08959.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

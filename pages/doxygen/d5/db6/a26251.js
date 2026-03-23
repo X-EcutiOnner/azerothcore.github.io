@@ -1,7 +1,7 @@
 var a26251 =
 [
-    [ "CalcPeriodic", "d5/db6/a26251.html#a404e5309016cfcaa3071c0216978699e", null ],
-    [ "PrepareAuraScript", "d5/db6/a26251.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
-    [ "Register", "d5/db6/a26251.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
-    [ "AuraEffectHandleModes", "d5/db6/a26251.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
+    [ "CalculateSpellAmount", "d5/db6/a26251.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "d5/db6/a26251.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "d5/db6/a26251.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "d5/db6/a26251.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

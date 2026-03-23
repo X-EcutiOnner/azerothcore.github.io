@@ -1,8 +1,6 @@
 var a27135 =
 [
-    [ "ApplyEffect", "dd/d3e/a27135.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "dd/d3e/a27135.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "dd/d3e/a27135.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "dd/d3e/a27135.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "dd/d3e/a27135.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "HandleAfterCast", "dd/d3e/a27135.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "dd/d3e/a27135.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "dd/d3e/a27135.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

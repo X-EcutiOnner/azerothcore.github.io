@@ -1,4 +1,6 @@
 var a28947 =
 [
-    [ "coords", "df/dd9/a28947.html#a6de1e0be070d552f8002bff7675bb9cf", null ]
+    [ "Enchantment", "df/dd9/a28947.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "df/dd9/a28947.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "df/dd9/a28947.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

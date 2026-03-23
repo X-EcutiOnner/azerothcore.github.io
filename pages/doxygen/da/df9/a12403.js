@@ -1,7 +1,9 @@
 var a12403 =
 [
-    [ "boss_urok_doomhowlAI", "da/df9/a12403.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
-    [ "InitializeAI", "da/df9/a12403.html#a530bef523a27523827d3a94aa5f88698", null ],
-    [ "JustEngagedWith", "da/df9/a12403.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
-    [ "UpdateAI", "da/df9/a12403.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
+    [ "npc_phalanx", "da/df9/a12403.html#a03c79151dcdc13fef4ce83957addd44a", null ],
+    [ "Reset", "da/df9/a12403.html#a9297d5fb869eb9a65ef9143a56347a53", null ],
+    [ "UpdateAI", "da/df9/a12403.html#aad01cc9d5ac167c21547e8b0b2bda4a7", null ],
+    [ "_fireballVolleyTimer", "da/df9/a12403.html#a54ad76cd7e8d3be058ad3d5153e5b144", null ],
+    [ "_mightyBlowTimer", "da/df9/a12403.html#ad59e6e32b53dbf797bc62e116ae2a12d", null ],
+    [ "_thunderClapTimer", "da/df9/a12403.html#a3b0c33207bf5090abeb9860585c222b4", null ]
 ];

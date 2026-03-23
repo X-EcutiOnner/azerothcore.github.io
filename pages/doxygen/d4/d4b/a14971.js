@@ -1,6 +1,7 @@
 var a14971 =
 [
-    [ "boss_epochAI", "d2/df8/a14975.html", "d2/df8/a14975" ],
-    [ "boss_epoch", "d4/d4b/a14971.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "d4/d4b/a14971.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "hyjalJainaAI", "d2/df8/a14975.html", "d2/df8/a14975" ],
+    [ "npc_hyjal_jaina", "d4/d4b/a14971.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "d4/d4b/a14971.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "d4/d4b/a14971.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

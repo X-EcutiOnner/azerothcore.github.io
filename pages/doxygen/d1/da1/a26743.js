@@ -1,6 +1,8 @@
 var a26743 =
 [
-    [ "HandleTriggerSpell", "d1/da1/a26743.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
-    [ "PrepareAuraScript", "d1/da1/a26743.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
-    [ "Register", "d1/da1/a26743.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
+    [ "HandleDummy", "d1/da1/a26743.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "d1/da1/a26743.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "d1/da1/a26743.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "d1/da1/a26743.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "d1/da1/a26743.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

@@ -1,7 +1,6 @@
 var a19199 =
 [
-    [ "HandleGameObjectDamage", "d5/d37/a19199.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "d5/d37/a19199.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "d5/d37/a19199.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "d5/d37/a19199.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "boss_gluthAI", "dd/de5/a19203.html", "dd/de5/a19203" ],
+    [ "boss_gluth", "d5/d37/a19199.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
+    [ "GetAI", "d5/d37/a19199.html#a3b19c938aaecc897d6552715064be7f8", null ]
 ];

@@ -1,12 +1,10 @@
 var a14055 =
 [
-    [ "npc_akilzon_eagle", "da/df4/a14055.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
-    [ "JustEngagedWith", "da/df4/a14055.html#aa5c3d77a1086ad90397d47f081b25476", null ],
-    [ "MoveInLineOfSight", "da/df4/a14055.html#adefd384b8a273ca52343d836a399f3cb", null ],
-    [ "MovementInform", "da/df4/a14055.html#abf69be0c32356e65e6d451c33fb389f0", null ],
-    [ "Reset", "da/df4/a14055.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
-    [ "UpdateAI", "da/df4/a14055.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
-    [ "arrived", "da/df4/a14055.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
-    [ "EagleSwoop_Timer", "da/df4/a14055.html#a37a5861ef690729e2a8bfafddce168be", null ],
-    [ "TargetGUID", "da/df4/a14055.html#a14d4f82f932569d24f6014ad39640619", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "da/df4/a14055.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "da/df4/a14055.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "da/df4/a14055.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "da/df4/a14055.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "da/df4/a14055.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "da/df4/a14055.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "da/df4/a14055.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

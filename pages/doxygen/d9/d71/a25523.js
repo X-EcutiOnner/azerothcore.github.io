@@ -1,7 +1,6 @@
 var a25523 =
 [
-    [ "OnPeriodic", "d9/d71/a25523.html#a58f13f947b4daac98651f7fa46d7d674", null ],
-    [ "PrepareAuraScript", "d9/d71/a25523.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
-    [ "Register", "d9/d71/a25523.html#ad0c688255e340c428624de7071b5df56", null ],
-    [ "Validate", "d9/d71/a25523.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
+    [ "HandleDummyTick", "d9/d71/a25523.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "d9/d71/a25523.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "d9/d71/a25523.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

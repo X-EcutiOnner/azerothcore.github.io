@@ -1,18 +1,16 @@
 var a12023 =
 [
-    [ "server_commandscript", "dc/da4/a12023.html#a61d8b3a9f967996b533e62e94fe4c8ca", null ],
-    [ "GetCommands", "dc/da4/a12023.html#a850c21f1ece40c576d3bf622f1c3e18f", null ],
-    [ "HandleServerCorpsesCommand", "dc/da4/a12023.html#a01ae63f31c7f03f6c0006fe4583a14a3", null ],
-    [ "HandleServerDebugCommand", "dc/da4/a12023.html#ac78145cb5c0888449756e4dbb36c005f", null ],
-    [ "HandleServerExitCommand", "dc/da4/a12023.html#ab894b36baa95de647fb329fce6eed8fb", null ],
-    [ "HandleServerIdleRestartCommand", "dc/da4/a12023.html#ae18a92337d6cf8e62eafdf5f39d7b5a8", null ],
-    [ "HandleServerIdleShutDownCommand", "dc/da4/a12023.html#aa431504b2755304c4263121a7a437ce4", null ],
-    [ "HandleServerInfoCommand", "dc/da4/a12023.html#a6c63114c474f69621b013dbb57b47bf2", null ],
-    [ "HandleServerMotdCommand", "dc/da4/a12023.html#aa10d866fcb8567fbc625d2a297a116a6", null ],
-    [ "HandleServerRestartCommand", "dc/da4/a12023.html#a3ec7dd1f81f3b4b8adcb5f04f4d20f3f", null ],
-    [ "HandleServerSetClosedCommand", "dc/da4/a12023.html#a2ba489469cdb3c8da944f7d6547ae462", null ],
-    [ "HandleServerSetLogLevelCommand", "dc/da4/a12023.html#a1ce5627c1d948b5a5c86db54357de02a", null ],
-    [ "HandleServerSetMotdCommand", "dc/da4/a12023.html#a8cf2076d5e5fa3b35fddba117cd990bb", null ],
-    [ "HandleServerShutDownCancelCommand", "dc/da4/a12023.html#ae64357518538c1ce4d03a8d9968b4035", null ],
-    [ "HandleServerShutDownCommand", "dc/da4/a12023.html#a514149a8d1dfc4513e0c71b69901767d", null ]
+    [ "CheckContainer", "dc/da4/a12023.html#a08e083224760d2bca1996da9cd9cb014", null ],
+    [ "CheckResultContainer", "dc/da4/a12023.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
+    [ "WardenCheckMgr", "dc/da4/a12023.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
+    [ "~WardenCheckMgr", "dc/da4/a12023.html#a0d89190f580435337c328da4bf2497b8", null ],
+    [ "GetMaxValidCheckId", "dc/da4/a12023.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
+    [ "GetWardenDataById", "dc/da4/a12023.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
+    [ "GetWardenResultById", "dc/da4/a12023.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
+    [ "instance", "dc/da4/a12023.html#aba9de1e123070338dc0049db8d8f0663", null ],
+    [ "LoadWardenChecks", "dc/da4/a12023.html#ad02847547a06d98c582d09992dce9d11", null ],
+    [ "LoadWardenOverrides", "dc/da4/a12023.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
+    [ "CheckIdPool", "dc/da4/a12023.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
+    [ "CheckResultStore", "dc/da4/a12023.html#a4f0224b8377827aced304b28fdefbda7", null ],
+    [ "CheckStore", "dc/da4/a12023.html#aac59e154d81b838f27c577af87b86bd1", null ]
 ];

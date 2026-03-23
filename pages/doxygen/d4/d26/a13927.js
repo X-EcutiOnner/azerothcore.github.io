@@ -1,9 +1,6 @@
 var a13927 =
 [
-    [ "npc_marzon_silent_bladeAI", "d4/d26/a13927.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
-    [ "EnterEvadeMode", "d4/d26/a13927.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
-    [ "JustEngagedWith", "d4/d26/a13927.html#a116b3458f342811e378713e6a67f76a6", null ],
-    [ "MovementInform", "d4/d26/a13927.html#a32201d45f0c19212becb6319a48366f8", null ],
-    [ "Reset", "d4/d26/a13927.html#a51c2b16c767ce2922564dc9e4048e089", null ],
-    [ "UpdateAI", "d4/d26/a13927.html#aa6686399b41d32429d530dcc2ec41185", null ]
+    [ "CheckProc", "d4/d26/a13927.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "d4/d26/a13927.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "d4/d26/a13927.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

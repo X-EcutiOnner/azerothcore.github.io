@@ -1,6 +1,6 @@
 var a24503 =
 [
-    [ "npc_kservantAI", "dd/d75/a24507.html", "dd/d75/a24507" ],
-    [ "npc_kservant", "d7/d95/a24503.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d7/d95/a24503.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "HandleEffectCalcSpellMod", "d7/d95/a24503.html#aaf21dafa72b58245f548ed946a49659d", null ],
+    [ "PrepareAuraScript", "d7/d95/a24503.html#ac05d3ae466ad64ac590f399827aac0c9", null ],
+    [ "Register", "d7/d95/a24503.html#a46a643985647d8a8e033b637b31214a5", null ]
 ];

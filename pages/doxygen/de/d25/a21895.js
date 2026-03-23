@@ -1,9 +1,6 @@
 var a21895 =
 [
-    [ "npc_archmage_landalockAI", "de/d25/a21895.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "de/d25/a21895.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "de/d25/a21895.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "de/d25/a21895.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "de/d25/a21895.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "de/d25/a21895.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "npc_avatar_of_freya", "de/d25/a21895.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
+    [ "OnGossipHello", "de/d25/a21895.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
+    [ "OnGossipSelect", "de/d25/a21895.html#aba1b13e922873e939b2510b4bc77f49d", null ]
 ];

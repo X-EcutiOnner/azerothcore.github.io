@@ -1,5 +1,6 @@
 var a20019 =
 [
-    [ "achievement_cant_do_that_while_stunned", "dd/dcb/a20019.html#a4d474b36f61631688ea723d2e4033574", null ],
-    [ "OnCheck", "dd/dcb/a20019.html#a0b108bdcab0bc412975e61247f226bf8", null ]
+    [ "HandleScript", "dd/dcb/a20019.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
+    [ "PrepareSpellScript", "dd/dcb/a20019.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
+    [ "Register", "dd/dcb/a20019.html#a04a5b3a4f768200d74f4641508633d35", null ]
 ];

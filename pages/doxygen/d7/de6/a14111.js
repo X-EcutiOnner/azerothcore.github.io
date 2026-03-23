@@ -1,16 +1,16 @@
 var a14111 =
 [
-    [ "boss_zuljin", "d7/de6/a14111.html#a8acdf347d7f982c07614c89a101daae0", null ],
-    [ "EnterEvadeMode", "d7/de6/a14111.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
-    [ "EnterPhase", "d7/de6/a14111.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
-    [ "GetGUID", "d7/de6/a14111.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
-    [ "JustDied", "d7/de6/a14111.html#a2e00e8311c0463a37de87668882ffeec", null ],
-    [ "JustEngagedWith", "d7/de6/a14111.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
-    [ "KilledUnit", "d7/de6/a14111.html#adf220cb760b77cfd09ed746705529064", null ],
-    [ "MovementInform", "d7/de6/a14111.html#a61501941861f8838392fc8cdbe59feff", null ],
-    [ "Reset", "d7/de6/a14111.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
-    [ "SpawnAdds", "d7/de6/a14111.html#a83eb0799a25f19eedddd96e609134778", null ],
-    [ "SpellHitTarget", "d7/de6/a14111.html#aab3558edc5b90be23040077d88e21725", null ],
-    [ "_chargeTargetGUID", "d7/de6/a14111.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
-    [ "_nextPhase", "d7/de6/a14111.html#a4fc9983cb34313affa56c243a4164a4a", null ]
+    [ "boss_halazzi", "d7/de6/a14111.html#aed961a9e12b44dfd97bd31c981184be5", null ],
+    [ "AttackStart", "d7/de6/a14111.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
+    [ "DamageTaken", "d7/de6/a14111.html#aaa698dfa4d4a991968eebee3330e967a", null ],
+    [ "DoAction", "d7/de6/a14111.html#a1685c7c99a797ec332b67797a294d83a", null ],
+    [ "EnterPhase", "d7/de6/a14111.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
+    [ "JustDied", "d7/de6/a14111.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
+    [ "JustEngagedWith", "d7/de6/a14111.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
+    [ "JustSummoned", "d7/de6/a14111.html#a152267cb31912106443ceea9488fee0a", null ],
+    [ "KilledUnit", "d7/de6/a14111.html#a4d69fa8e754f823a599c52e227361600", null ],
+    [ "Reset", "d7/de6/a14111.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
+    [ "SpellHit", "d7/de6/a14111.html#a36141673391a423174db874ca425ea07", null ],
+    [ "_phase", "d7/de6/a14111.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
+    [ "_transformCount", "d7/de6/a14111.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
 ];

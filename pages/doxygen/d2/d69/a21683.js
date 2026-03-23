@@ -1,6 +1,8 @@
 var a21683 =
 [
-    [ "npc_azure_sorcerorAI", "d7/de1/a21687.html", "d7/de1/a21687" ],
-    [ "npc_azure_sorceror", "d2/d69/a21683.html#ab81ec144680a37312b0a5e0110365a1a", null ],
-    [ "GetAI", "d2/d69/a21683.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
+    [ "HandleEffectApply", "d2/d69/a21683.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "d2/d69/a21683.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "d2/d69/a21683.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "d2/d69/a21683.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "d2/d69/a21683.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

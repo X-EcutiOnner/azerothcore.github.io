@@ -1,6 +1,6 @@
 var a21943 =
 [
-    [ "npc_hourglass_of_eternityAI", "d3/da7/a21947.html", "d3/da7/a21947" ],
-    [ "npc_hourglass_of_eternity", "d2/df9/a21943.html#a40500ff582ead06bd646be86baad7d35", null ],
-    [ "GetAI", "d2/df9/a21943.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
+    [ "HandleScriptEffect", "d2/df9/a21943.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "d2/df9/a21943.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "d2/df9/a21943.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

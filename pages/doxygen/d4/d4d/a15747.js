@@ -1,6 +1,7 @@
 var a15747 =
 [
-    [ "npc_clintar_spiritAI", "d3/dd4/a15751.html", "d3/dd4/a15751" ],
-    [ "npc_clintar_spirit", "d4/d4d/a15747.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "d4/d4d/a15747.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "HandleEffectPeriodic", "d4/d4d/a15747.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "d4/d4d/a15747.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "d4/d4d/a15747.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "d4/d4d/a15747.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

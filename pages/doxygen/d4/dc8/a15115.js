@@ -1,16 +1,6 @@
 var a15115 =
 [
-    [ "npc_medivh_bm", "d4/dc8/a15115.html#a23f04c433faf7da663b2edffb2a0440d", null ],
-    [ "AttackStart", "d4/dc8/a15115.html#a8eb87f4d80d83725af017657c599d458", null ],
-    [ "DoAction", "d4/dc8/a15115.html#aa5a54d0b2b069947dd59eee77cbdf21b", null ],
-    [ "JustDied", "d4/dc8/a15115.html#ad6dbbef1b6fbccd9dd224af1a15a6c90", null ],
-    [ "JustSummoned", "d4/dc8/a15115.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
-    [ "MoveInLineOfSight", "d4/dc8/a15115.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
-    [ "Reset", "d4/dc8/a15115.html#a1a33f613b083763c952882cdb82a35c1", null ],
-    [ "SummonOrcs", "d4/dc8/a15115.html#a13964b4c460a664442be7eebe768edf5", null ],
-    [ "UpdateAI", "d4/dc8/a15115.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
-    [ "_airArray", "d4/dc8/a15115.html#a6e766596b69b52690635ee91e6e8d164", null ],
-    [ "_events", "d4/dc8/a15115.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
-    [ "_groundArray", "d4/dc8/a15115.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
-    [ "_instance", "d4/dc8/a15115.html#a45e129d61c3987e4bff94485db739eb1", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "d1/da9/a15119.html", "d1/da9/a15119" ],
+    [ "instance_old_hillsbrad", "d4/dc8/a15115.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
+    [ "GetInstanceScript", "d4/dc8/a15115.html#a1929c38b1c745b2df1ccaf462113e220", null ]
 ];

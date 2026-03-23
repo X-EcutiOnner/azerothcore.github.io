@@ -1,6 +1,5 @@
 var a20247 =
 [
-    [ "boss_freya_elder_stonebarkAI", "db/d7e/a20251.html", "db/d7e/a20251" ],
-    [ "boss_freya_elder_stonebark", "dc/d4b/a20247.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "dc/d4b/a20247.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "achievement_i_have_the_coolest_friends", "dc/d4b/a20247.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "dc/d4b/a20247.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

@@ -1,11 +1,5 @@
 var a07615 =
 [
-    [ "wrapper_func", "dd/de2/a07615.html#a4ebb895343c2cfae053a605aafe0e461", null ],
-    [ "CommandInvoker", "dd/de2/a07615.html#a6541779cccd36a87d65acc1b6a9725e2", null ],
-    [ "CommandInvoker", "dd/de2/a07615.html#ad941d54b994fbfe0f572348d18a790be", null ],
-    [ "CommandInvoker", "dd/de2/a07615.html#a6b693468375cc6b92870194e10eb4140", null ],
-    [ "operator bool", "dd/de2/a07615.html#aa00bfcf3938781f5e454f7acddb12e7e", null ],
-    [ "operator()", "dd/de2/a07615.html#a611756a2205ffb2bccabb53929a4644b", null ],
-    [ "_handler", "dd/de2/a07615.html#af9bece7be346ed85c5b45cc07c7b176a", null ],
-    [ "_wrapper", "dd/de2/a07615.html#a1605d492889200f2d18d6759882913aa", null ]
+    [ "CanAnnounce", "dd/de2/a07615.html#ab791cf85fc2e08330d3f777e1797c01c", null ],
+    [ "instance", "dd/de2/a07615.html#ad76f570ce82ffcde5484e612c10c6f59", null ]
 ];

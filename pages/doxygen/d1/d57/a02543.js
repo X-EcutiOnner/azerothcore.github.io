@@ -1,7 +1,9 @@
 var a02543 =
 [
-    [ "GetExplicitDiscoverySpell", "d1/d57/a02543.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
-    [ "GetSkillDiscoverySpell", "d1/d57/a02543.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
-    [ "HasDiscoveredAllSpells", "d1/d57/a02543.html#abdf3c2fcf65212466dfb54053e35024c", null ],
-    [ "LoadSkillDiscoveryTable", "d1/d57/a02543.html#addd95f0a239a27ed32cd943aa1052019", null ]
+    [ "MapType", "d1/d57/a02543.html#a2a540ae6cb73c9914f0253464b155227", null ],
+    [ "Find", "d1/d57/a02543.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
+    [ "Insert", "d1/d57/a02543.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
+    [ "Remove", "d1/d57/a02543.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
+    [ "RemoveByName", "d1/d57/a02543.html#a9c5298580060e7a6078ffb5f4008c549", null ],
+    [ "PlayerNameMap", "d1/d57/a02543.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
 ];

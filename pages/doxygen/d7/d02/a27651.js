@@ -1,5 +1,6 @@
 var a27651 =
 [
-    [ "go_duskwither_spire_power_source", "d7/d02/a27651.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "d7/d02/a27651.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "AfterCheckProc", "d7/d02/a27651.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
+    [ "PrepareAuraScript", "d7/d02/a27651.html#aa184faf59edbad97ec361e66169137b9", null ],
+    [ "Register", "d7/d02/a27651.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
 ];

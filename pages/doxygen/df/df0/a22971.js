@@ -1,7 +1,6 @@
 var a22971 =
 [
-    [ "npc_blade_of_azzinoth", "df/df0/a22971.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "df/df0/a22971.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "df/df0/a22971.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "df/df0/a22971.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "HandleEffectRemove", "df/df0/a22971.html#ac74d25501690970c607a146eec02ab24", null ],
+    [ "PrepareAuraScript", "df/df0/a22971.html#a858929800089fee1a06948bda1c8806f", null ],
+    [ "Register", "df/df0/a22971.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
 ];

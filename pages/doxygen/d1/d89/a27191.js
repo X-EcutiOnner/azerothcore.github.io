@@ -1,7 +1,5 @@
 var a27191 =
 [
-    [ "HandleDummy", "d1/d89/a27191.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "d1/d89/a27191.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "d1/d89/a27191.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "d1/d89/a27191.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "EarthenPowerTargetSelector", "d1/d89/a27191.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
+    [ "operator()", "d1/d89/a27191.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
 ];

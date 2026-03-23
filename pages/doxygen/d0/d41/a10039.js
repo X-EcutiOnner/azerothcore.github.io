@@ -1,8 +1,10 @@
 var a10039 =
 [
-    [ "TimedFleeingMovementGenerator", "d0/d41/a10039.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
-    [ "Finalize", "d0/d41/a10039.html#a1a18f033663fa93ef0b9885aae21f766", null ],
-    [ "GetMovementGeneratorType", "d0/d41/a10039.html#a1533d13f4e786e498353805a2a2daf85", null ],
-    [ "Update", "d0/d41/a10039.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
-    [ "i_totalFleeTime", "d0/d41/a10039.html#a2858047459ff675383e7b86805702369", null ]
+    [ "DoublePosition", "d7/db3/a10043.html", "d7/db3/a10043" ],
+    [ "~AreaBoundary", "d0/d41/a10039.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d0/d41/a10039.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d0/d41/a10039.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d0/d41/a10039.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d0/d41/a10039.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d0/d41/a10039.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

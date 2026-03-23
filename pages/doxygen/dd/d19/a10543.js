@@ -1,6 +1,11 @@
 var a10543 =
 [
-    [ "BuyBankSlot", "dd/d19/a10543.html#a0bc11087e9359c6ac762f915b11287d8", null ],
-    [ "Read", "dd/d19/a10543.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
-    [ "Banker", "dd/d19/a10543.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
+    [ "AllMapScript", "dd/d19/a10543.html#aea5284ac6b227dd44b83dc944e220f00", null ],
+    [ "OnBeforeCreateInstanceScript", "dd/d19/a10543.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
+    [ "OnCreateMap", "dd/d19/a10543.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
+    [ "OnDestroyInstance", "dd/d19/a10543.html#a990130b4cd594c1cd04368aea300a49e", null ],
+    [ "OnDestroyMap", "dd/d19/a10543.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
+    [ "OnMapUpdate", "dd/d19/a10543.html#a6edbb719d998c57caba09eef7ad559e0", null ],
+    [ "OnPlayerEnterAll", "dd/d19/a10543.html#a42e4af596effb07a00b353164f32cec9", null ],
+    [ "OnPlayerLeaveAll", "dd/d19/a10543.html#adcfd501bee055317bff2a63ef28c3eab", null ]
 ];

@@ -1,5 +1,4 @@
 var a07951 =
 [
-    [ "flags", "da/d68/a07951.html#ac55cea8114883b0000fb9fd195910f65", null ],
-    [ "params", "da/d68/a07951.html#a5426d7accbe5734016fed99e632ea313", null ]
+    [ "type", "da/d68/a07951.html#a20bf3321a2bb91eead362115f5c9bcc7", null ]
 ];

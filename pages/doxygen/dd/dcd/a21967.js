@@ -1,6 +1,7 @@
 var a21967 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d7/d84/a21971.html", "d7/d84/a21971" ],
-    [ "npc_injured_7th_legion_soldier", "dd/dcd/a21967.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "dd/dcd/a21967.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "HandleDummy", "dd/dcd/a21967.html#a68c638c6e056cbadb101ddd025909f54", null ],
+    [ "PrepareSpellScript", "dd/dcd/a21967.html#a5a857bace5232d259145a0a095f70eec", null ],
+    [ "Register", "dd/dcd/a21967.html#af9c657e1fac6ee630af0bea337fbff62", null ],
+    [ "Validate", "dd/dcd/a21967.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
 ];

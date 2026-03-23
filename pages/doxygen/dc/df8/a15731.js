@@ -1,6 +1,6 @@
 var a15731 =
 [
-    [ "HandleDummy", "dc/df8/a15731.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
-    [ "PrepareSpellScript", "dc/df8/a15731.html#adc581ed46587afcc8be3800ae79105f6", null ],
-    [ "Register", "dc/df8/a15731.html#a7d09808ea2fdec450fcd129e996bd245", null ]
+    [ "npc_tiger_matriarchAI", "d4/d3e/a15735.html", "d4/d3e/a15735" ],
+    [ "npc_tiger_matriarch", "dc/df8/a15731.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "dc/df8/a15731.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

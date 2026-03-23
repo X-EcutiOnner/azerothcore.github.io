@@ -1,5 +1,6 @@
 var a22695 =
 [
-    [ "go_scourge_enclosure", "d0/d50/a22695.html#a3611232cb735f336087d4d3c90f66b8d", null ],
-    [ "OnGossipHello", "d0/d50/a22695.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d0/d50/a22695.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d0/d50/a22695.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d0/d50/a22695.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

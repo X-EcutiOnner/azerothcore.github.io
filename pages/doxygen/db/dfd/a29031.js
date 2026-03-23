@@ -1,9 +1,18 @@
 var a29031 =
 [
-    [ "WDT_file", "db/dfd/a29031.html#afa32849d31abde3cb2c9f3b558816368", null ],
-    [ "~WDT_file", "db/dfd/a29031.html#a29bf710b8346204eb848017450afebe1", null ],
-    [ "free", "db/dfd/a29031.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
-    [ "prepareLoadedData", "db/dfd/a29031.html#add675f96f010e67ca1df01b029c9ebfb", null ],
-    [ "main", "db/dfd/a29031.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
-    [ "mphd", "db/dfd/a29031.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
+    [ "getArmorMod", "db/dfd/a29031.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
+    [ "getDPSMod", "db/dfd/a29031.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
+    [ "getFeralBonus", "db/dfd/a29031.html#aa54c3d1add4a1b982c05138f876fd138", null ],
+    [ "getSpellBonus", "db/dfd/a29031.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
+    [ "getssdMultiplier", "db/dfd/a29031.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
+    [ "IsTwoHand", "db/dfd/a29031.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
+    [ "armorMod", "db/dfd/a29031.html#a742f8447dca5961fb39e50de8233fa86", null ],
+    [ "armorMod2", "db/dfd/a29031.html#a36dba32ea7febb8dab627fa992de878b", null ],
+    [ "dpsMod", "db/dfd/a29031.html#ace956cab0056bcf0e116ac0884ad3575", null ],
+    [ "Id", "db/dfd/a29031.html#aebc75b8f80cb210b6af081077bd88e85", null ],
+    [ "Level", "db/dfd/a29031.html#a5758f5152401efde26edf3110c0d11e2", null ],
+    [ "spellPower", "db/dfd/a29031.html#a03804cca02fd1146dffb762bcd1274f8", null ],
+    [ "ssdMultiplier", "db/dfd/a29031.html#a7559b9045268d8050372153c8c976946", null ],
+    [ "ssdMultiplier2", "db/dfd/a29031.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
+    [ "ssdMultiplier3", "db/dfd/a29031.html#ae78f00d5ed42704a4093b5df939498d7", null ]
 ];

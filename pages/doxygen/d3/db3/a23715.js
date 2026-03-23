@@ -1,11 +1,6 @@
 var a23715 =
 [
-    [ "boss_high_king_maulgar", "d3/db3/a23715.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
-    [ "DoAction", "d3/db3/a23715.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
-    [ "JustDied", "d3/db3/a23715.html#ad235febd755745313b72394c633c3723", null ],
-    [ "JustEngagedWith", "d3/db3/a23715.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
-    [ "KilledUnit", "d3/db3/a23715.html#a2059016597039929103c053d6524ebf7", null ],
-    [ "Reset", "d3/db3/a23715.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
-    [ "UpdateAI", "d3/db3/a23715.html#ae540909dbbb3cf93e37503cd755c3001", null ],
-    [ "_recentlySpoken", "d3/db3/a23715.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d6/db0/a23719.html", "d6/db0/a23719" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "d3/db3/a23715.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "d3/db3/a23715.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

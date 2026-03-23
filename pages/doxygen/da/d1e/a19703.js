@@ -1,7 +1,6 @@
 var a19703 =
 [
-    [ "CalcDamage", "da/d1e/a19703.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "da/d1e/a19703.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "da/d1e/a19703.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "da/d1e/a19703.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "CalculateDamage", "da/d1e/a19703.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "da/d1e/a19703.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "da/d1e/a19703.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

@@ -1,7 +1,7 @@
 var a26299 =
 [
-    [ "CalculateAmount", "de/d9c/a26299.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "de/d9c/a26299.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "de/d9c/a26299.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "de/d9c/a26299.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "HandleProc", "de/d9c/a26299.html#a43ab86331d22e82a95371c86cb8c2dc9", null ],
+    [ "PrepareAuraScript", "de/d9c/a26299.html#aac7469b398a46e038e7168f5ff94e8ff", null ],
+    [ "Register", "de/d9c/a26299.html#a70bcd72b90cfd3230cd8c012fabb5512", null ],
+    [ "Validate", "de/d9c/a26299.html#aff4a1b7a5b90a618cdd658dc17d49857", null ]
 ];

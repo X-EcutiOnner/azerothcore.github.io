@@ -1,6 +1,11 @@
 var a04316 =
 [
-    [ "instance_vault_of_archavon", "dc/dd7/a21305.html", "dc/dd7/a21305" ],
-    [ "instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript", "de/df5/a21309.html", "de/df5/a21309" ],
-    [ "AddSC_instance_vault_of_archavon", "de/d38/a04316.html#af85fa677904908fe364917364696be77", null ]
+    [ "npc_announcer_toc10", "de/d9d/a16943.html", "de/d9d/a16943" ],
+    [ "MenuTexts", "de/d38/a04316.html#a5e87c460d493df2d4629af8c1a30fc5a", [
+      [ "MSG_TESTED", "de/d38/a04316.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
+      [ "MSG_NEXT_STAGE", "de/d38/a04316.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
+      [ "MSG_CRUSADERS", "de/d38/a04316.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
+      [ "MSG_ANUBARAK", "de/d38/a04316.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
+    ] ],
+    [ "AddSC_trial_of_the_crusader", "de/d38/a04316.html#aae8fa1928137dde06462a753ceebcca6", null ]
 ];

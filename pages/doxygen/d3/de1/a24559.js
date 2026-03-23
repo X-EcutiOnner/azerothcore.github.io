@@ -1,7 +1,7 @@
 var a24559 =
 [
-    [ "npc_isla_starmaneAI", "d5/d75/a24563.html", "d5/d75/a24563" ],
-    [ "npc_isla_starmane", "d3/de1/a24559.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "d3/de1/a24559.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "d3/de1/a24559.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "FilterTargets", "d3/de1/a24559.html#af6daf7022fc4cd18909056089c249c8a", null ],
+    [ "HandleDummy", "d3/de1/a24559.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
+    [ "PrepareSpellScript", "d3/de1/a24559.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
+    [ "Register", "d3/de1/a24559.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
 ];

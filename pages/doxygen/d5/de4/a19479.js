@@ -1,6 +1,8 @@
 var a19479 =
 [
-    [ "boss_malygosAI", "da/ddf/a19483.html", "da/ddf/a19483" ],
-    [ "boss_malygos", "d5/de4/a19479.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
-    [ "GetAI", "d5/de4/a19479.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
+    [ "Load", "d5/de4/a19479.html#af8ef90a44a5405e58dbb3003642c078b", null ],
+    [ "PrepareSpellScript", "d5/de4/a19479.html#a40649371440d62e4ba8af1b077880d0b", null ],
+    [ "Register", "d5/de4/a19479.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
+    [ "SendThreeTargets", "d5/de4/a19479.html#ab16b83839ce9136da84691640020f846", null ],
+    [ "Validate", "d5/de4/a19479.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
 ];

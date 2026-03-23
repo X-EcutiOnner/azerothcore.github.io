@@ -1,6 +1,6 @@
 var a14887 =
 [
-    [ "HandleHit", "d1/d30/a14887.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "d1/d30/a14887.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "d1/d30/a14887.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "de/dc7/a14891.html", "de/dc7/a14891" ],
+    [ "instance_blackfathom_deeps", "d1/d30/a14887.html#a4600a7e6191582c1bee684989a970e0f", null ],
+    [ "GetInstanceScript", "d1/d30/a14887.html#a62cdab4f3118ab030b4ef55243690f73", null ]
 ];

@@ -1,10 +1,7 @@
 var a23047 =
 [
-    [ "boss_gathios_the_shatterer", "df/d95/a23047.html#a34708f52c610e567c5acf62962e90d4e", null ],
-    [ "JustEngagedWith", "df/d95/a23047.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
-    [ "SelectCouncilMember", "df/d95/a23047.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
-    [ "UpdateAI", "df/d95/a23047.html#a1541f1efd3978a4c91b80e411aec6442", null ],
-    [ "_toggleAura", "df/d95/a23047.html#aa983e2d9018a9e53ee29840781f47c33", null ],
-    [ "_toggleBlessing", "df/d95/a23047.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
-    [ "_toggleSeal", "df/d95/a23047.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
+    [ "HandleProc", "df/d95/a23047.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "df/d95/a23047.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "df/d95/a23047.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "df/d95/a23047.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

@@ -1,6 +1,7 @@
 var a27219 =
 [
-    [ "HandleHeal", "dd/dd3/a27219.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "dd/dd3/a27219.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "dd/dd3/a27219.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "HandleProc", "dd/dd3/a27219.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
+    [ "PrepareAuraScript", "dd/dd3/a27219.html#a3a496539a6adddca91724d9cc77f81c3", null ],
+    [ "Register", "dd/dd3/a27219.html#a096f4ecd857cc642ff1d1e5119933921", null ],
+    [ "Validate", "dd/dd3/a27219.html#a1592084736ebe5b10a343aee4dba8050", null ]
 ];

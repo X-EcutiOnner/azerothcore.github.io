@@ -1,7 +1,6 @@
 var a02540 =
 [
-    [ "canCreateExtraItems", "d4/db0/a02540.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "d4/db0/a02540.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "d4/db0/a02540.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "d4/db0/a02540.html#a121df170a82be5ab5b05999a6be27b69", null ]
+    [ "AntiDosOpcodePolicy", "dc/d0e/a09335.html", "dc/d0e/a09335" ],
+    [ "WorldGlobals", "d3/def/a09339.html", "d3/def/a09339" ],
+    [ "sWorldGlobals", "d4/db0/a02540.html#abde160907db136b0b0c16309add3ae94", null ]
 ];

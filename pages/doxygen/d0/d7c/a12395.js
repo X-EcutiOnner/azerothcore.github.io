@@ -1,5 +1,5 @@
 var a12395 =
 [
-    [ "at_the_beast_room", "d0/d7c/a12395.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
-    [ "OnTrigger", "d0/d7c/a12395.html#a366c5e35c4030f998404886f1526ae37", null ]
+    [ "at_ring_of_law", "d0/d7c/a12395.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "d0/d7c/a12395.html#a613471caae75ab3d82ce915101a20108", null ]
 ];

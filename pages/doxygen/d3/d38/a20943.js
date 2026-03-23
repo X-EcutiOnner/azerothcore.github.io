@@ -1,9 +1,13 @@
 var a20943 =
 [
-    [ "npc_xt002_pummellerAI", "d3/d38/a20943.html#a2942c05c93036c2e02b9a72c784441b1", null ],
-    [ "Reset", "d3/d38/a20943.html#a6542fb3e585f100f06f6be14a1346306", null ],
-    [ "UpdateAI", "d3/d38/a20943.html#a959990310303ff2102f1c03852b4ab8e", null ],
-    [ "_arcingSmashTimer", "d3/d38/a20943.html#a830fda66756dc3f34a530939116e7556", null ],
-    [ "_trampleTimer", "d3/d38/a20943.html#ae5e450601861f83b20419405bb92ef6d", null ],
-    [ "_uppercutTimer", "d3/d38/a20943.html#a5a1bdb380438070effc091ec37db6aec", null ]
+    [ "MoveX", "d3/d38/a20943.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d3/d38/a20943.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d3/d38/a20943.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d3/d38/a20943.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d3/d38/a20943.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d3/d38/a20943.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d3/d38/a20943.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d3/d38/a20943.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d3/d38/a20943.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d3/d38/a20943.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

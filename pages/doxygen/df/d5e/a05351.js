@@ -1,5 +1,6 @@
 var a05351 =
 [
-    [ "Head", "df/d5e/a05351.html#ac5c6d38e71241055f58984e88368494a", null ],
-    [ "Tail", "df/d5e/a05351.html#a8b16ba737e930ebc023b8cea8231f678", null ]
+    [ "NodeArray", "df/d5e/a05351.html#ad14de28828d5dd9c425e47a261125423", null ],
+    [ "AddNode", "df/d5e/a05351.html#a370b6e8633c2c739ff68c0399e315a7e", null ],
+    [ "_nodes", "df/d5e/a05351.html#a581a71d15d245efc585297c218313134", null ]
 ];

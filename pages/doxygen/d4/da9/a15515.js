@@ -1,8 +1,7 @@
 var a15515 =
 [
-    [ "npc_obsidian_eradicator", "d4/da9/a15515.html#a84a6c414b3d74468143984e57f83e383", null ],
-    [ "JustEngagedWith", "d4/da9/a15515.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
-    [ "Reset", "d4/da9/a15515.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
-    [ "UpdateAI", "d4/da9/a15515.html#a1697d83e89559f047d5bab652007bb61", null ],
-    [ "_targetGUIDs", "d4/da9/a15515.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
+    [ "boss_glob_of_viscidus", "d4/da9/a15515.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d4/da9/a15515.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d4/da9/a15515.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d4/da9/a15515.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

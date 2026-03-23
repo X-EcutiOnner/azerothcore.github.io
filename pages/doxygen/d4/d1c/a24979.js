@@ -1,6 +1,7 @@
 var a24979 =
 [
-    [ "CheckCast", "d4/d1c/a24979.html#a8ab8394c56201264ac4f2d859dd52092", null ],
-    [ "PrepareSpellScript", "d4/d1c/a24979.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
-    [ "Register", "d4/d1c/a24979.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
+    [ "CalculateAmount", "d4/d1c/a24979.html#a40ba021accd581745f07f2586545853c", null ],
+    [ "Load", "d4/d1c/a24979.html#aa963b658637360305bb5f3d59eb9d061", null ],
+    [ "PrepareAuraScript", "d4/d1c/a24979.html#a8fedbff305709145a7c004787ee50402", null ],
+    [ "Register", "d4/d1c/a24979.html#ade9b6a408a1d5a83bdadd5bd2b0fbb2a", null ]
 ];

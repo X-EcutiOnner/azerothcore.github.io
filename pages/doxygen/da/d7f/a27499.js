@@ -1,6 +1,7 @@
 var a27499 =
 [
-    [ "go_flamesAI", "da/d7f/a27499.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "da/d7f/a27499.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "da/d7f/a27499.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "HandleProc", "da/d7f/a27499.html#a79bcdad48c19c0db70960552f6b4e2d3", null ],
+    [ "PrepareAuraScript", "da/d7f/a27499.html#a760f228c118e9a89a3adc2767290f6f5", null ],
+    [ "Register", "da/d7f/a27499.html#ace2673bc17210f349e47586c0e626dc5", null ],
+    [ "Validate", "da/d7f/a27499.html#acdc499d8cae2de0edcfd2c19319e0175", null ]
 ];

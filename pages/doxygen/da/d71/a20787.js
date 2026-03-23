@@ -1,9 +1,6 @@
 var a20787 =
 [
-    [ "npc_ulduar_dark_rune_watcherAI", "da/d71/a20787.html#a2239253c2c4760b130ace4a07ef1e8c4", null ],
-    [ "CanAIAttack", "da/d71/a20787.html#a891e354dc27f0d53e06a0cf2eea46970", null ],
-    [ "Reset", "da/d71/a20787.html#a79a1081a50ded7afc5f81ed4234be59d", null ],
-    [ "UpdateAI", "da/d71/a20787.html#a58c5f53f74055b89c11ed27ffe908732", null ],
-    [ "timer1", "da/d71/a20787.html#aab38ff79ca8fc867a3d6c6512d0376c8", null ],
-    [ "timer2", "da/d71/a20787.html#a7b4eb188939c15f11a6b2532853ad798", null ]
+    [ "HandleEffectPeriodic", "da/d71/a20787.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "da/d71/a20787.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "da/d71/a20787.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

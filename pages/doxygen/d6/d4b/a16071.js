@@ -1,8 +1,6 @@
 var a16071 =
 [
-    [ "HandleAfterCast", "d6/d4b/a16071.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "d6/d4b/a16071.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "d6/d4b/a16071.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "d6/d4b/a16071.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "d6/d4b/a16071.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "go_troll_cageAI", "da/d8c/a16075.html", "da/d8c/a16075" ],
+    [ "go_troll_cage", "d6/d4b/a16071.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "d6/d4b/a16071.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

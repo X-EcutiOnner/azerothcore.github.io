@@ -1,8 +1,9 @@
 var a19447 =
 [
-    [ "npc_teslaAI", "d0/df9/a19447.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d0/df9/a19447.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d0/df9/a19447.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d0/df9/a19447.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d0/df9/a19447.html#a962745569b07e368067ee483d2379840", null ]
+    [ "npc_nexus_lord", "d0/df9/a19447.html#ab66ba12059e8a028972d21afc11fb309", null ],
+    [ "AttackStart", "d0/df9/a19447.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
+    [ "JustDied", "d0/df9/a19447.html#ae97f816c5fcb71343d8483345723c300", null ],
+    [ "JustEngagedWith", "d0/df9/a19447.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
+    [ "UpdateAI", "d0/df9/a19447.html#acdd7954382f0de84e90d329ec0720a6d", null ],
+    [ "timer", "d0/df9/a19447.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
 ];

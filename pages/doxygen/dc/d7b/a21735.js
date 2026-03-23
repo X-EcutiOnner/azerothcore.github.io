@@ -1,5 +1,8 @@
 var a21735 =
 [
-    [ "npc_nerubar_victimAI", "dc/d7b/a21735.html#a494976030dd48544742dd14fc09ffdbd", null ],
-    [ "JustDied", "dc/d7b/a21735.html#abe3813465cad08800708726cb7ffa021", null ]
+    [ "AfterApply", "dc/d7b/a21735.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "dc/d7b/a21735.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "dc/d7b/a21735.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "dc/d7b/a21735.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "dc/d7b/a21735.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

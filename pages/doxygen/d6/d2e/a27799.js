@@ -1,6 +1,9 @@
 var a27799 =
 [
-    [ "npc_training_dummyAI", "d5/d52/a27803.html", "d5/d52/a27803" ],
-    [ "npc_training_dummy", "d6/d2e/a27799.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
-    [ "GetAI", "d6/d2e/a27799.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
+    [ "emerald_dragonAI", "d6/d2e/a27799.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
+    [ "ExecuteEvent", "d6/d2e/a27799.html#a6e60f146c7b86a119f269bf755831ac6", null ],
+    [ "JustSummoned", "d6/d2e/a27799.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
+    [ "KilledUnit", "d6/d2e/a27799.html#a69b24bf865ecd38822d5602314cddf11", null ],
+    [ "Reset", "d6/d2e/a27799.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
+    [ "UpdateAI", "d6/d2e/a27799.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
 ];

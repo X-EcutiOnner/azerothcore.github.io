@@ -1,7 +1,5 @@
 var a05575 =
 [
-    [ "~SignalHandler", "d5/da0/a05575.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
-    [ "handle_signal", "d5/da0/a05575.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
-    [ "_handled", "d5/da0/a05575.html#a21b208a696ed4a320a7cf312006a787f", null ],
-    [ "_mutex", "d5/da0/a05575.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
+    [ "Decode", "d5/da0/a05575.html#a16eb5c0306f404a3be454430abd01610", null ],
+    [ "Encode", "d5/da0/a05575.html#a5c439d87d1532c68023e2d612d874e5f", null ]
 ];

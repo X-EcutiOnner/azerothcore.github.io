@@ -1,7 +1,6 @@
 var a16203 =
 [
-    [ "OnRemove", "dc/d86/a16203.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "dc/d86/a16203.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "dc/d86/a16203.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "dc/d86/a16203.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "npc_anub_ar_crusher_champion", "dc/d86/a16203.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "dc/d86/a16203.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "dc/d86/a16203.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

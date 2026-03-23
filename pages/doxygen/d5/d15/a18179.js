@@ -1,6 +1,6 @@
 var a18179 =
 [
-    [ "OnRemove", "d5/d15/a18179.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "d5/d15/a18179.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "d5/d15/a18179.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "npc_little_oozeAI", "d0/dd0/a18183.html", "d0/dd0/a18183" ],
+    [ "npc_little_ooze", "d5/d15/a18179.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "d5/d15/a18179.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

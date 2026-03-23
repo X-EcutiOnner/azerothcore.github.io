@@ -1,10 +1,7 @@
 var a28967 =
 [
-    [ "Exception", "d3/d0d/a28967.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "d3/d0d/a28967.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "Exception", "d3/d0d/a28967.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "d3/d0d/a28967.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "getMessage", "d3/d0d/a28967.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "getMessage", "d3/d0d/a28967.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "message", "d3/d0d/a28967.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
+    [ "Id", "d3/d0d/a28967.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "d3/d0d/a28967.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "d3/d0d/a28967.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "d3/d0d/a28967.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

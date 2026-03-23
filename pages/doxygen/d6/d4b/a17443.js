@@ -1,6 +1,6 @@
 var a17443 =
 [
-    [ "HandleScriptEffect", "d6/d4b/a17443.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "d6/d4b/a17443.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "d6/d4b/a17443.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "boss_slad_ranAI", "dc/dfe/a17447.html", "dc/dfe/a17447" ],
+    [ "boss_slad_ran", "d6/d4b/a17443.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "d6/d4b/a17443.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

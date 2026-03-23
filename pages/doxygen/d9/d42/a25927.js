@@ -1,6 +1,6 @@
 var a25927 =
 [
-    [ "CheckProc", "d9/d42/a25927.html#acac962ba1cb72615772fe8bc81d24f9d", null ],
-    [ "PrepareAuraScript", "d9/d42/a25927.html#aebe1c8083ba09c21125c47843b2949da", null ],
-    [ "Register", "d9/d42/a25927.html#adde6dada6b3012c2650ba9173c6616a0", null ]
+    [ "PrepareSpellScript", "d9/d42/a25927.html#a7099b8d28128cfea49288792ea02606c", null ],
+    [ "Register", "d9/d42/a25927.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
+    [ "UpdateTarget", "d9/d42/a25927.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
 ];

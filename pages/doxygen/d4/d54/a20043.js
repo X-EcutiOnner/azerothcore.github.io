@@ -1,12 +1,8 @@
 var a20043 =
 [
-    [ "npc_auriaya_feral_defenderAI", "d4/d54/a20043.html#a32e6fa30e4c56fdd055a728ba7227beb", null ],
-    [ "DoAction", "d4/d54/a20043.html#a2b0a176dba865e90bdc22727b2860509", null ],
-    [ "JustDied", "d4/d54/a20043.html#a7e9c49d8dc47663e70c8fcbed68746e5", null ],
-    [ "Reset", "d4/d54/a20043.html#ae127a88f18f3348a0bc388d79dcd13d4", null ],
-    [ "UpdateAI", "d4/d54/a20043.html#a1edc249808e1ebdb88605c56e19c272a", null ],
-    [ "_feralEssenceStack", "d4/d54/a20043.html#aab51096b8f57528a0a27e23a306d6762", null ],
-    [ "_feralPounceTimer", "d4/d54/a20043.html#ab91df5ebee9c12d067ff83ee64effece", null ],
-    [ "_feralRushTimer", "d4/d54/a20043.html#aa45e0baf1ad43cc4b2c223d1b9d1c3c6", null ],
-    [ "summons", "d4/d54/a20043.html#a599679f93e4fc4b3b9aa00ea33dcb047", null ]
+    [ "HandleOnEffectApply", "d4/d54/a20043.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "d4/d54/a20043.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "d4/d54/a20043.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "d4/d54/a20043.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "d4/d54/a20043.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

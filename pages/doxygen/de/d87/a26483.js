@@ -1,7 +1,7 @@
 var a26483 =
 [
-    [ "CalculateAmount", "de/d87/a26483.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
-    [ "HandleUpdateSpellclick", "de/d87/a26483.html#a89956d7f3a6404d5b60e46034867c82c", null ],
-    [ "PrepareAuraScript", "de/d87/a26483.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
-    [ "Register", "de/d87/a26483.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
+    [ "HandleProc", "de/d87/a26483.html#a1964ad50011e459ca449d6ff9baec189", null ],
+    [ "PrepareAuraScript", "de/d87/a26483.html#a1362df471c29d59087b6dba6007ef7a1", null ],
+    [ "Register", "de/d87/a26483.html#a15d6a692e8e856c2108bdf810a8f6f50", null ],
+    [ "Validate", "de/d87/a26483.html#af3bce711681865628f2ee69f5e7d48a7", null ]
 ];

@@ -1,6 +1,7 @@
 var a22859 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "de/db8/a22863.html", "de/db8/a22863" ],
-    [ "instance_mana_tombs", "d0/d57/a22859.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
-    [ "GetInstanceScript", "d0/d57/a22859.html#a26e4dad0957df886bc446396ab48ceda", null ]
+    [ "HandleEffectApply", "d0/d57/a22859.html#acc7aeb8a002db3a846cbac29053af441", null ],
+    [ "HandleEffectRemove", "d0/d57/a22859.html#a11de5d496bc1265ceb01c2bb91da4a57", null ],
+    [ "PrepareAuraScript", "d0/d57/a22859.html#a7203f8808f6afc5bdaf49a26ae8b0c20", null ],
+    [ "Register", "d0/d57/a22859.html#a7b62d651a57e2dc9d8e461f7a5c9d500", null ]
 ];

@@ -1,5 +1,8 @@
 var a23623 =
 [
-    [ "at_underbog_ghazan", "d7/da9/a23623.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "d7/da9/a23623.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
+    [ "boss_mechano_lord_capacitus", "d7/da9/a23623.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
+    [ "JustDied", "d7/da9/a23623.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
+    [ "JustEngagedWith", "d7/da9/a23623.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
+    [ "JustSummoned", "d7/da9/a23623.html#a9a0b2cac08002db63162f95b9476c251", null ],
+    [ "KilledUnit", "d7/da9/a23623.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
 ];

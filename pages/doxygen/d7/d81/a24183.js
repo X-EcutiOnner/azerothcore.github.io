@@ -1,6 +1,6 @@
 var a24183 =
 [
-    [ "npc_deaths_fel_cannonAI", "d2/ddb/a24187.html", "d2/ddb/a24187" ],
-    [ "npc_deaths_fel_cannon", "d7/d81/a24183.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "d7/d81/a24183.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "FilterTargets", "d7/d81/a24183.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "d7/d81/a24183.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "d7/d81/a24183.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

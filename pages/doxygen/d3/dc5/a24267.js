@@ -1,6 +1,8 @@
 var a24267 =
 [
-    [ "npc_fel_guard_houndAI", "d7/d03/a24271.html", "d7/d03/a24271" ],
-    [ "npc_fel_guard_hound", "d3/dc5/a24267.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d3/dc5/a24267.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "CheckProc", "d3/dc5/a24267.html#aaba070a16ff0ba45b4062abe30c79cf5", null ],
+    [ "HandleProc", "d3/dc5/a24267.html#a7682ed37759329da8e4e475e98a23161", null ],
+    [ "PrepareAuraScript", "d3/dc5/a24267.html#ac4cc997ddd92e741f9f105bda4ec00b9", null ],
+    [ "Register", "d3/dc5/a24267.html#a5ab16c8eb40822679739e15a2ceac715", null ],
+    [ "Validate", "d3/dc5/a24267.html#a34919ab1f3b2d4e98536c3ded56cf5fc", null ]
 ];

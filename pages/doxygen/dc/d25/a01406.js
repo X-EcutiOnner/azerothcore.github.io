@@ -1,22 +1,21 @@
 var a01406 =
 [
-    [ "GameEventFinishCondition", "dd/dd5/a09073.html", "dd/dd5/a09073" ],
-    [ "GameEventQuestToEventConditionNum", "d5/d44/a09077.html", "d5/d44/a09077" ],
-    [ "GameEventData", "d8/da8/a09081.html", "d8/da8/a09081" ],
-    [ "ModelEquip", "d9/dbe/a09085.html", "d9/dbe/a09085" ],
-    [ "NPCVendorEntry", "d5/dd3/a09089.html", "d5/dd3/a09089" ],
-    [ "GameEventMgr", "d8/d22/a09093.html", "d8/d22/a09093" ],
-    [ "max_ge_check_delay", "dc/d25/a01406.html#adaa73d920934a951856f7ce003ce2342", null ],
-    [ "sGameEventMgr", "dc/d25/a01406.html#a3c1c916d94272dfe845b9cc5e8fc292a", null ],
-    [ "GameEventConditionMap", "dc/d25/a01406.html#ac4262be385ac879bb433e00533d835c0", null ],
-    [ "GameEventState", "dc/d25/a01406.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5", [
-      [ "GAMEEVENT_NORMAL", "dc/d25/a01406.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921", null ],
-      [ "GAMEEVENT_WORLD_INACTIVE", "dc/d25/a01406.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136", null ],
-      [ "GAMEEVENT_WORLD_CONDITIONS", "dc/d25/a01406.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7", null ],
-      [ "GAMEEVENT_WORLD_NEXTPHASE", "dc/d25/a01406.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0", null ],
-      [ "GAMEEVENT_WORLD_FINISHED", "dc/d25/a01406.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf", null ],
-      [ "GAMEEVENT_INTERNAL", "dc/d25/a01406.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81", null ]
+    [ "Totem", "de/d4d/a08935.html", "de/d4d/a08935" ],
+    [ "EARTHBIND_TOTEM_ENTRY", "dc/d25/a01406.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
+    [ "SENTRY_TOTEM_ENTRY", "dc/d25/a01406.html#a2bd46e1df17fdee45cd35896306092fb", null ],
+    [ "TotemImmunitySpells", "dc/d25/a01406.html#a526213bf692d4f8d189a61617f4a59c9", [
+      [ "SPELL_CYCLONE", "dc/d25/a01406.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
+      [ "SPELL_STONECLAW", "dc/d25/a01406.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
+      [ "SPELL_BIND_SIGHT", "dc/d25/a01406.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
+      [ "SPELL_INTERVENE", "dc/d25/a01406.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
     ] ],
-    [ "IsEventActive", "dc/d25/a01406.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
-    [ "IsHolidayActive", "dc/d25/a01406.html#a429db26781d2673aa2f031fc1327ffaf", null ]
+    [ "TotemSpellIds", "dc/d25/a01406.html#a7092ec93c941969cd2cdd2291c6de0be", [
+      [ "SentryTotemSpell", "dc/d25/a01406.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
+      [ "FireTotemSpell", "dc/d25/a01406.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
+    ] ],
+    [ "TotemType", "dc/d25/a01406.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
+      [ "TOTEM_PASSIVE", "dc/d25/a01406.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
+      [ "TOTEM_ACTIVE", "dc/d25/a01406.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
+      [ "TOTEM_STATUE", "dc/d25/a01406.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
+    ] ]
 ];

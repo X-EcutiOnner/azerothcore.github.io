@@ -1,17 +1,11 @@
 var a11079 =
 [
-    [ "CompactArray", "df/d0e/a11079.html#a167096f1966862ec92556b6f5d3aa3b8", null ],
-    [ "CompactArray", "df/d0e/a11079.html#a70adda7a73d5c54b1d29668f23778c9f", null ],
-    [ "CompactArray", "df/d0e/a11079.html#a757f7d94e52fa821dc1fdb03877574f3", null ],
-    [ "Clear", "df/d0e/a11079.html#ae213ad313a4b0688763e882a2010c494", null ],
-    [ "GetMask", "df/d0e/a11079.html#a3a421d4ee2e7459cbc945c6c70c1993f", null ],
-    [ "GetSize", "df/d0e/a11079.html#a656c3568cd73d10dd6f9cda1809ff509", null ],
-    [ "Insert", "df/d0e/a11079.html#a313aedf5c623505860a227149cb64b5a", null ],
-    [ "operator!=", "df/d0e/a11079.html#adaade1e09d979a6e98b90253f442a9e5", null ],
-    [ "operator=", "df/d0e/a11079.html#a75f0995b55269fc2d0bca87a0294fcb3", null ],
-    [ "operator=", "df/d0e/a11079.html#a14d76ffa09769e341dea769424ac586c", null ],
-    [ "operator==", "df/d0e/a11079.html#a24c7c9794991ec3bf4ecefa93f8ee23e", null ],
-    [ "operator[]", "df/d0e/a11079.html#af146d3e880ec34358ff6a07247f741d8", null ],
-    [ "_contents", "df/d0e/a11079.html#a1e0ff07a4905517dc6e92a3615bc36d0", null ],
-    [ "_mask", "df/d0e/a11079.html#a85ef9a03e561e385f41de88e6e0f98c0", null ]
+    [ "SaveGuildEmblem", "df/d0e/a11079.html#ae3e507a567dfbead91c84629008539d2", null ],
+    [ "Read", "df/d0e/a11079.html#aeea281ed99165947de4b5d1b4449ea5d", null ],
+    [ "BColor", "df/d0e/a11079.html#a48cfbac2214bfc406d8bc80c175dac8f", null ],
+    [ "Bg", "df/d0e/a11079.html#a53e3f146f6a925bbe1fdae2105b79952", null ],
+    [ "BStyle", "df/d0e/a11079.html#a44fdd025f87e13db6d83afca6c49f5f8", null ],
+    [ "EColor", "df/d0e/a11079.html#ad3775c0839dd9aeb5a708a26ea4ec640", null ],
+    [ "EStyle", "df/d0e/a11079.html#a60c52a080284fabe96c579f39fb0834f", null ],
+    [ "Vendor", "df/d0e/a11079.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0", null ]
 ];

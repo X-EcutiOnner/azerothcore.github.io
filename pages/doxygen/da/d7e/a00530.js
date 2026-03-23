@@ -1,6 +1,5 @@
 var a00530 =
 [
-    [ "UnitStub", "d4/dda/a29633.html", "d4/dda/a29633" ],
-    [ "UnitStub::CastRecord", "d7/d79/a29637.html", "d7/d79/a29637" ],
-    [ "MockUnitStub", "d6/dc2/a29641.html", "d6/dc2/a29641" ]
+    [ "TestSpellEntryHelper", "d8/dda/a29359.html", "d8/dda/a29359" ],
+    [ "SpellInfoBuilder", "d8/d19/a29363.html", "d8/d19/a29363" ]
 ];

@@ -1,8 +1,6 @@
 var a22435 =
 [
-    [ "CheckCast", "dd/da8/a22435.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "dd/da8/a22435.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "dd/da8/a22435.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "dd/da8/a22435.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "dd/da8/a22435.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "HandleScriptEffect", "dd/da8/a22435.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "dd/da8/a22435.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "dd/da8/a22435.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

@@ -1,6 +1,9 @@
 var a18563 =
 [
-    [ "npc_valkyr_shadowguardAI", "d5/d0b/a18567.html", "d5/d0b/a18567" ],
-    [ "npc_valkyr_shadowguard", "d3/d31/a18563.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "d3/d31/a18563.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "HandleScript", "d3/d31/a18563.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "d3/d31/a18563.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "d3/d31/a18563.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "d3/d31/a18563.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "d3/d31/a18563.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "d3/d31/a18563.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

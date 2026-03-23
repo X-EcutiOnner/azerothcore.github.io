@@ -1,9 +1,8 @@
 var a24151 =
 [
-    [ "boss_nethermancer_sepethrea", "de/d91/a24151.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "de/d91/a24151.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "de/d91/a24151.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "de/d91/a24151.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "de/d91/a24151.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "de/d91/a24151.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "CheckProc", "de/d91/a24151.html#a8875c54a3cae852681a389c8777f25bb", null ],
+    [ "HandleProc", "de/d91/a24151.html#aa4025d668080ba03af23abbb3a461758", null ],
+    [ "PrepareAuraScript", "de/d91/a24151.html#a5fee783960ed7f0b4adcfc30db68061d", null ],
+    [ "Register", "de/d91/a24151.html#a5a6251290dd3389e9307c2e6f9b52098", null ],
+    [ "Validate", "de/d91/a24151.html#a38cdd5d8346797e53ed82be598df48cd", null ]
 ];

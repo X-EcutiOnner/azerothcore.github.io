@@ -1,6 +1,7 @@
 var a25099 =
 [
-    [ "CheckAreaTarget", "db/daa/a25099.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
-    [ "PrepareAuraScript", "db/daa/a25099.html#a2b6dbd33e34357917f662000a1cd932f", null ],
-    [ "Register", "db/daa/a25099.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
+    [ "PrepareSpellScript", "db/daa/a25099.html#a65d5717a25e371e09c44148c679dd390", null ],
+    [ "Register", "db/daa/a25099.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
+    [ "RemoveInvalidTargets", "db/daa/a25099.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
+    [ "Validate", "db/daa/a25099.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
 ];

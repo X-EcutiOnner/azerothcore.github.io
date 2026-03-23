@@ -1,7 +1,8 @@
 var a18643 =
 [
-    [ "HandleProc", "da/d30/a18643.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "da/d30/a18643.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "da/d30/a18643.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "da/d30/a18643.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "npc_lk_wicked_spiritAI", "da/d30/a18643.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "da/d30/a18643.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "da/d30/a18643.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "da/d30/a18643.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "da/d30/a18643.html#a8b15079251b6855679d738a342126006", null ]
 ];

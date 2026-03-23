@@ -1,6 +1,6 @@
 var a19187 =
 [
-    [ "boss_isle_of_conquestAI", "de/d8a/a19191.html", "de/d8a/a19191" ],
-    [ "boss_isle_of_conquest", "db/dc4/a19187.html#ad4052d1b6865585d32016e1240449659", null ],
-    [ "GetAI", "db/dc4/a19187.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
+    [ "boss_four_horsemenAI", "de/d8a/a19191.html", "de/d8a/a19191" ],
+    [ "boss_four_horsemen", "db/dc4/a19187.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
+    [ "GetAI", "db/dc4/a19187.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
 ];

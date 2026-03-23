@@ -1,13 +1,16 @@
 var a09855 =
 [
-    [ "ParallelogramBoundary", "d7/d84/a09855.html#ace1e1ffbcb84343ca2641541fe000691", null ],
-    [ "IsWithinBoundaryArea", "d7/d84/a09855.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
-    [ "_a", "d7/d84/a09855.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
-    [ "_abx", "d7/d84/a09855.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
-    [ "_aby", "d7/d84/a09855.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
-    [ "_b", "d7/d84/a09855.html#a9d5d06cc3673f89644e45e62f96510db", null ],
-    [ "_c", "d7/d84/a09855.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
-    [ "_d", "d7/d84/a09855.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
-    [ "_dax", "d7/d84/a09855.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
-    [ "_day", "d7/d84/a09855.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
+    [ "BankMoveItemData", "d7/d84/a09855.html#a9edb987f4866e8bc473fe853597bebae", null ],
+    [ "_ReserveSpace", "d7/d84/a09855.html#a109e8d55108b005426110626815ba866", null ],
+    [ "_StoreItem", "d7/d84/a09855.html#aa11267f5d6202753310da567c0be0e57", null ],
+    [ "CanStore", "d7/d84/a09855.html#ade47c73460329ca1af752921173ca75e", null ],
+    [ "CanStoreItemInTab", "d7/d84/a09855.html#a5ca7975887e5583466d066c86b3a205f", null ],
+    [ "HasStoreRights", "d7/d84/a09855.html#acd684824cab9ccb4d8fd9cbb1f1782e1", null ],
+    [ "HasWithdrawRights", "d7/d84/a09855.html#ae9d8f497b4459c982ac73ee8b5742aad", null ],
+    [ "InitItem", "d7/d84/a09855.html#a69d6b28ccdda7790f821f5181da0db96", null ],
+    [ "IsBank", "d7/d84/a09855.html#a6f1787e15918092ba000ee8bd0852b09", null ],
+    [ "LogAction", "d7/d84/a09855.html#a4f23cdffba39ffa78c38851ff7aa7d0c", null ],
+    [ "LogBankEvent", "d7/d84/a09855.html#a054ca0f7eecfd404651c11b886d106bf", null ],
+    [ "RemoveItem", "d7/d84/a09855.html#abd15e25136ec2a00bcddbc0e81978a78", null ],
+    [ "StoreItem", "d7/d84/a09855.html#a9367b938768eefcaf5bb88e74dde9aa3", null ]
 ];

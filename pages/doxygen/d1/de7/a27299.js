@@ -1,6 +1,6 @@
 var a27299 =
 [
-    [ "achievement_arena_by_type", "d1/de7/a27299.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d1/de7/a27299.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d1/de7/a27299.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "PeriodicTick", "d1/de7/a27299.html#a8765e8f662c4279669c955108ff356e3", null ],
+    [ "PrepareAuraScript", "d1/de7/a27299.html#a15f077618950e4526ffcee9ee172d89f", null ],
+    [ "Register", "d1/de7/a27299.html#aeeca3a2be368025147702c4aa8c518ce", null ]
 ];

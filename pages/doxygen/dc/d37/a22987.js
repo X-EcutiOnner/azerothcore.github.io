@@ -1,6 +1,10 @@
 var a22987 =
 [
-    [ "HandleScriptEffect", "dc/d37/a22987.html#aa60961c2609184e739dea3be8ba992d5", null ],
-    [ "PrepareSpellScript", "dc/d37/a22987.html#aacde592314399112786b024153389024", null ],
-    [ "Register", "dc/d37/a22987.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
+    [ "Spells", "dc/d37/a22987.html#a70ca1841fb1db54e6f76b96331e05cf1", [
+      [ "SPELL_GROW", "dc/d37/a22987.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
+      [ "SPELL_SPORE_CLOUD", "dc/d37/a22987.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
+    ] ],
+    [ "npc_rancid_mushroom", "dc/d37/a22987.html#a15896957b94de57de9eda5a199a05d4c", null ],
+    [ "InitializeAI", "dc/d37/a22987.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
+    [ "UpdateAI", "dc/d37/a22987.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
 ];

@@ -1,7 +1,6 @@
 var a25791 =
 [
-    [ "HandleScriptEffect", "d7/d2f/a25791.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "d7/d2f/a25791.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "d7/d2f/a25791.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "d7/d2f/a25791.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "HandleDummy", "d7/d2f/a25791.html#ab146c4026bc8ad129bb3d421891d344b", null ],
+    [ "PrepareSpellScript", "d7/d2f/a25791.html#aa9743f357b9800ab2990fb584011b0a6", null ],
+    [ "Register", "d7/d2f/a25791.html#a3ca7b1dd1187fd39e362b3451b246a4c", null ]
 ];

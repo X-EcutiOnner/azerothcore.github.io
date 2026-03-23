@@ -1,8 +1,9 @@
 var a24087 =
 [
-    [ "HandleScriptEffect", "d9/dc5/a24087.html#a7cde39fc0844f19604c8026a853e8216", null ],
-    [ "Load", "d9/dc5/a24087.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
-    [ "PrepareSpellScript", "d9/dc5/a24087.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
-    [ "Register", "d9/dc5/a24087.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
-    [ "_currentSpellId", "d9/dc5/a24087.html#a0ad25535ba345fe9672150af67687305", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "d9/dc5/a24087.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "d9/dc5/a24087.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "d9/dc5/a24087.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "d9/dc5/a24087.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "d9/dc5/a24087.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "d9/dc5/a24087.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

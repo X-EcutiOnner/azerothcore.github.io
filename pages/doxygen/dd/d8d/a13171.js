@@ -1,6 +1,6 @@
 var a13171 =
 [
-    [ "CheckRequirement", "dd/d8d/a13171.html#a31d69034f463d552afa4063bf89271da", null ],
-    [ "PrepareSpellScript", "dd/d8d/a13171.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
-    [ "Register", "dd/d8d/a13171.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
+    [ "boss_garaxxas", "dd/d8d/a13171.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "dd/d8d/a13171.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "dd/d8d/a13171.html#a56e6489ce49971cb066444888355626e", null ]
 ];

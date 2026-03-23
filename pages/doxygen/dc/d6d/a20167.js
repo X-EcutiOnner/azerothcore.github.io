@@ -1,8 +1,8 @@
 var a20167 =
 [
-    [ "OnApply", "dc/d6d/a20167.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "dc/d6d/a20167.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "dc/d6d/a20167.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "dc/d6d/a20167.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "dc/d6d/a20167.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "npc_ulduar_flash_freeze", "dc/d6d/a20167.html#a71c3a5c17af15cc75955d565a5d32b05", null ],
+    [ "DamageTaken", "dc/d6d/a20167.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "dc/d6d/a20167.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "pInstance", "dc/d6d/a20167.html#aa763071062842e656c5db9f7ba6bbafe", null ],
+    [ "timer", "dc/d6d/a20167.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

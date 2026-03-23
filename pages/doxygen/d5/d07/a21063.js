@@ -1,7 +1,6 @@
 var a21063 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "d5/d07/a21063.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
-    [ "DoAction", "d5/d07/a21063.html#abac26b3be775eea734403be36cbed4d2", null ],
-    [ "SelectCorruptionTarget", "d5/d07/a21063.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
-    [ "UpdateAI", "d5/d07/a21063.html#a0269d1dc655af5680d7074cb093740b8", null ]
+    [ "npc_erekem_guardAI", "dd/da8/a21067.html", "dd/da8/a21067" ],
+    [ "npc_erekem_guard", "d5/d07/a21063.html#a78592996e90f77f81eec0325a7f11956", null ],
+    [ "GetAI", "d5/d07/a21063.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
 ];

@@ -1,7 +1,5 @@
 var a20527 =
 [
-    [ "HandleEffectPeriodic", "df/d62/a20527.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "df/d62/a20527.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "df/d62/a20527.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "df/d62/a20527.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "achievement_thorim_lose_your_illusion", "df/d62/a20527.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
+    [ "OnCheck", "df/d62/a20527.html#a322df4f30445a84085615925f74a8a6b", null ]
 ];

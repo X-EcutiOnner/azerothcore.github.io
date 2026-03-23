@@ -1,7 +1,8 @@
 var a16431 =
 [
-    [ "HandleDummy", "d5/d3a/a16431.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "d5/d3a/a16431.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "d5/d3a/a16431.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "d5/d3a/a16431.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "Load", "d5/d3a/a16431.html#a55dc086667f0fe23e513608e951276ed", null ],
+    [ "Phase", "d5/d3a/a16431.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
+    [ "PrepareSpellScript", "d5/d3a/a16431.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
+    [ "Register", "d5/d3a/a16431.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
+    [ "Validate", "d5/d3a/a16431.html#a87192df547adaf3cb060155d9cf4da79", null ]
 ];

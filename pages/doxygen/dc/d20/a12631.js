@@ -1,7 +1,7 @@
 var a12631 =
 [
-    [ "HandleAfterApply", "dc/d20/a12631.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "dc/d20/a12631.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "dc/d20/a12631.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "dc/d20/a12631.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "boss_ebonroc", "dc/d20/a12631.html#a74725561727d5bf0dd266f50d377c9c8", null ],
+    [ "JustEngagedWith", "dc/d20/a12631.html#a84250d1bc0986130404433c80162ecac", null ],
+    [ "MovementInform", "dc/d20/a12631.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
+    [ "UpdateAI", "dc/d20/a12631.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
 ];

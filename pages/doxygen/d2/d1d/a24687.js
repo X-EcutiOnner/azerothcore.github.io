@@ -1,6 +1,10 @@
 var a24687 =
 [
-    [ "FilterTargets", "d2/d1d/a24687.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "d2/d1d/a24687.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "d2/d1d/a24687.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "CalcAmount", "d2/d1d/a24687.html#a182d563b0527e35ea641116a6a808aa8", null ],
+    [ "CalcPeriodic", "d2/d1d/a24687.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
+    [ "Load", "d2/d1d/a24687.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
+    [ "PrepareAuraScript", "d2/d1d/a24687.html#ac320eec2b8a3a7cc3820a49007710520", null ],
+    [ "Register", "d2/d1d/a24687.html#a37181afac00639716ae2ce10d82ecb23", null ],
+    [ "UpdatePeriodic", "d2/d1d/a24687.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
+    [ "Validate", "d2/d1d/a24687.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
 ];

@@ -1,9 +1,11 @@
 var a06107 =
 [
-    [ "itemId", "d0/d0b/a06107.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
-    [ "mailTemplate", "d0/d0b/a06107.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
-    [ "sender", "d0/d0b/a06107.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
-    [ "subject", "d0/d0b/a06107.html#a45644f308278529f822080f8274180d8", null ],
-    [ "text", "d0/d0b/a06107.html#a4d57dcb4d130552f5bf756308d79307c", null ],
-    [ "titleId", "d0/d0b/a06107.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
+    [ "SQLQueryHolderBase", "d0/d0b/a06107.html#a05946ea4a26798e5567f632cf9f66eff", null ],
+    [ "~SQLQueryHolderBase", "d0/d0b/a06107.html#aa9e2407821d0c40a728337f174571fc5", null ],
+    [ "GetPreparedResult", "d0/d0b/a06107.html#a402f961642eaa239ff8726ad66e78640", null ],
+    [ "SetPreparedQueryImpl", "d0/d0b/a06107.html#a6657bb34fab696a26af9751ded41f1d7", null ],
+    [ "SetPreparedResult", "d0/d0b/a06107.html#a34bcdec6591ce40a58667197f240fbe0", null ],
+    [ "SetSize", "d0/d0b/a06107.html#a9e62f0171bd39a13348d097ee99cb17c", null ],
+    [ "SQLQueryHolderTask", "d0/d0b/a06107.html#a4d6be4ca13ec7a0d213da9d1e6ec922b", null ],
+    [ "m_queries", "d0/d0b/a06107.html#a432a52e6f9dc7f51cbc8f2877d0894e1", null ]
 ];

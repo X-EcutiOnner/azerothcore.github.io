@@ -1,6 +1,6 @@
 var a22631 =
 [
-    [ "PrepareSpellScript", "d9/d42/a22631.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "d9/d42/a22631.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "d9/d42/a22631.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "boss_essence_of_angerAI", "df/dc3/a22635.html", "df/dc3/a22635" ],
+    [ "boss_essence_of_anger", "d9/d42/a22631.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d9/d42/a22631.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

@@ -1,9 +1,7 @@
 var a09339 =
 [
-    [ "PlayerSearcher", "d3/def/a09339.html#a7247fcab3841996ed5d699696fb21557", null ],
-    [ "Visit", "d3/def/a09339.html#ab2544b79869ba4de9772b1bff7c40704", null ],
-    [ "Visit", "d3/def/a09339.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b", null ],
-    [ "i_check", "d3/def/a09339.html#a58c24b81eec33c9ba8fe8145ee3679b4", null ],
-    [ "i_object", "d3/def/a09339.html#a70b071a2fccb4ff29fd614d1447e87ad", null ],
-    [ "i_phaseMask", "d3/def/a09339.html#a6dd83612b7f0d00035a7efb8d970afc6", null ]
+    [ "GetAntiDosPolicyForOpcode", "d3/def/a09339.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
+    [ "instance", "d3/def/a09339.html#a859596f153aa470fa503f67092e26160", null ],
+    [ "LoadAntiDosOpcodePolicies", "d3/def/a09339.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
+    [ "_antiDosOpcodePolicies", "d3/def/a09339.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
 ];

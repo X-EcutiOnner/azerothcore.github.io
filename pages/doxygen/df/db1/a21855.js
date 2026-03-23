@@ -1,7 +1,6 @@
 var a21855 =
 [
-    [ "HandleEffectHit", "df/db1/a21855.html#a8d7dd2411c3b786e682260eb30862602", null ],
-    [ "PrepareSpellScript", "df/db1/a21855.html#a49b6d005013e480f8161779119bc9b2d", null ],
-    [ "Register", "df/db1/a21855.html#a017ae25fead98a5c18cdb83128085ddd", null ],
-    [ "Validate", "df/db1/a21855.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
+    [ "npc_frostbrood_skytalonAI", "d9/d40/a21859.html", "d9/d40/a21859" ],
+    [ "npc_frostbrood_skytalon", "df/db1/a21855.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
+    [ "GetAI", "df/db1/a21855.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
 ];

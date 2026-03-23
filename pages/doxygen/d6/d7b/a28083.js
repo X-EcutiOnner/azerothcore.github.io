@@ -1,4 +1,5 @@
 var a28083 =
 [
-    [ "cost", "d6/d7b/a28083.html#a624313c8b56b9755593b2f4bacd306d7", null ]
+    [ "item_only_for_flight", "d6/d7b/a28083.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d6/d7b/a28083.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

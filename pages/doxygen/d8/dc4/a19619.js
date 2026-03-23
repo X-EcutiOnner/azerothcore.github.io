@@ -1,13 +1,12 @@
 var a19619 =
 [
-    [ "npc_crystalline_frayer", "d8/dc4/a19619.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
-    [ "DamageTaken", "d8/dc4/a19619.html#a2580575a58353e8cb94561bafd74f502", null ],
-    [ "EnterEvadeMode", "d8/dc4/a19619.html#a9240adcfe966f11c925db82add432aa5", null ],
-    [ "JustEngagedWith", "d8/dc4/a19619.html#a91e8c4015b9b238fd2144999bcef9362", null ],
-    [ "Reset", "d8/dc4/a19619.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
-    [ "UpdateAI", "d8/dc4/a19619.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
-    [ "_allowDeath", "d8/dc4/a19619.html#adc85054030146067d2cff47db2886a07", null ],
-    [ "abilityTimer1", "d8/dc4/a19619.html#ae4a140cd9fccecea24982d7aa90c6bf0", null ],
-    [ "abilityTimer2", "d8/dc4/a19619.html#a6d2bf3e1cc05860eb6a7706102438f32", null ],
-    [ "restoreTimer", "d8/dc4/a19619.html#a5ab2990b41f485417af6272194035fc3", null ]
+    [ "npc_oculus_drakeAI", "d8/dc4/a19619.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "d8/dc4/a19619.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "d8/dc4/a19619.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "d8/dc4/a19619.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "d8/dc4/a19619.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "d8/dc4/a19619.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "d8/dc4/a19619.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "d8/dc4/a19619.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "d8/dc4/a19619.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

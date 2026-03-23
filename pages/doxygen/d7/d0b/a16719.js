@@ -1,8 +1,7 @@
 var a16719 =
 [
-    [ "npc_toc_boomkinAI", "d7/d0b/a16719.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "d7/d0b/a16719.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "d7/d0b/a16719.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "d7/d0b/a16719.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "d7/d0b/a16719.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "npc_toc_shadow_priestAI", "d7/d0b/a16719.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "d7/d0b/a16719.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "d7/d0b/a16719.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "d7/d0b/a16719.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

@@ -1,7 +1,6 @@
 var a11375 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "db/ddf/a11375.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "db/ddf/a11375.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "db/ddf/a11375.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "db/ddf/a11375.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "PetLearnedSpell", "db/ddf/a11375.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "db/ddf/a11375.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "db/ddf/a11375.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

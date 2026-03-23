@@ -1,5 +1,7 @@
 var a19467 =
 [
-    [ "npc_living_poison", "df/de7/a19467.html#a277440068846eac71c795880a16475dd", null ],
-    [ "UpdateAI", "df/de7/a19467.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
+    [ "HandleScript", "df/de7/a19467.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
+    [ "Load", "df/de7/a19467.html#a94661c7652572b1671a611b35c8f68a7", null ],
+    [ "PrepareSpellScript", "df/de7/a19467.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
+    [ "Register", "df/de7/a19467.html#a09352bd458fe3dbeacea38c5104656ff", null ]
 ];

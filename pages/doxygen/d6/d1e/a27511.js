@@ -1,6 +1,7 @@
 var a27511 =
 [
-    [ "go_bear_trapAI", "d7/df2/a27515.html", "d7/df2/a27515" ],
-    [ "go_bear_trap", "d6/d1e/a27511.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "d6/d1e/a27511.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "HandleProc", "d6/d1e/a27511.html#a9296b52700f070af311047166f6a913b", null ],
+    [ "PrepareAuraScript", "d6/d1e/a27511.html#a067cc24e65f79bab10b9d1258fad3460", null ],
+    [ "Register", "d6/d1e/a27511.html#affbd8840159048b6ea55ab98900d38c0", null ],
+    [ "Validate", "d6/d1e/a27511.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
 ];

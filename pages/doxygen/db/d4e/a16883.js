@@ -1,6 +1,6 @@
 var a16883 =
 [
-    [ "npc_concentrated_ballAI", "dc/d98/a16887.html", "dc/d98/a16887" ],
-    [ "npc_concentrated_ball", "db/d4e/a16883.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "db/d4e/a16883.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "boss_icehowlAI", "dc/d98/a16887.html", "dc/d98/a16887" ],
+    [ "boss_icehowl", "db/d4e/a16883.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
+    [ "GetAI", "db/d4e/a16883.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
 ];

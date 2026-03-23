@@ -1,12 +1,14 @@
 var a13143 =
 [
-    [ "boss_vexallus", "d0/d10/a13143.html#a68c32ed70274e9f135b7a9107f888c91", null ],
-    [ "JustDied", "d0/d10/a13143.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
-    [ "JustEngagedWith", "d0/d10/a13143.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
-    [ "JustSummoned", "d0/d10/a13143.html#a9bc7808889da754bae9c935418975f90", null ],
-    [ "KilledUnit", "d0/d10/a13143.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
-    [ "Reset", "d0/d10/a13143.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
-    [ "SummonedCreatureDies", "d0/d10/a13143.html#a4bd88222143d8db098312cff8a2fc969", null ],
-    [ "_energyCooldown", "d0/d10/a13143.html#a395d2186d70d1b7e29dbada7750da354", null ],
-    [ "_energyCount", "d0/d10/a13143.html#a4afa4a245b8863c7b0898773932642c8", null ]
+    [ "boss_priestess_delrissa", "d0/d10/a13143.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
+    [ "CheckInRoom", "d0/d10/a13143.html#afa963761e44412915a6d89f097f33b5d", null ],
+    [ "InitializeAI", "d0/d10/a13143.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
+    [ "JustDied", "d0/d10/a13143.html#a82d8c198f38c2aa881386e739dea6a08", null ],
+    [ "JustEngagedWith", "d0/d10/a13143.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
+    [ "JustSummoned", "d0/d10/a13143.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
+    [ "KilledUnit", "d0/d10/a13143.html#af0b41306f53c42745cce39069f446704", null ],
+    [ "Reset", "d0/d10/a13143.html#a60e39157aa3043284b2e1e032c0d9241", null ],
+    [ "SummonedCreatureDies", "d0/d10/a13143.html#a14757692ab4af5c1b5b311f059be9091", null ],
+    [ "HelpersKilled", "d0/d10/a13143.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
+    [ "PlayersKilled", "d0/d10/a13143.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
 ];

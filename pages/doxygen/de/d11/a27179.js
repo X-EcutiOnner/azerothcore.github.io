@@ -1,7 +1,7 @@
 var a27179 =
 [
-    [ "FilterTargets", "de/d11/a27179.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "de/d11/a27179.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "de/d11/a27179.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "de/d11/a27179.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "CalculateAmount", "de/d11/a27179.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
+    [ "PrepareAuraScript", "de/d11/a27179.html#aa966d001c3687403dfa2b13e998ca241", null ],
+    [ "Register", "de/d11/a27179.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
+    [ "Validate", "de/d11/a27179.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
 ];

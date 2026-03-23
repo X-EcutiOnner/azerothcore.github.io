@@ -1,7 +1,6 @@
 var a25967 =
 [
-    [ "HandleDummy", "d3/d72/a25967.html#a3f9d43d11b344e3eb02fdc088506008e", null ],
-    [ "PrepareSpellScript", "d3/d72/a25967.html#a1fb13b562c5d4f905739e193bc5292dd", null ],
-    [ "Register", "d3/d72/a25967.html#a581e04721eb9564d1300ddd78c805368", null ],
-    [ "Validate", "d3/d72/a25967.html#a18a648ebf1dbc9a11d09e457a33d0e33", null ]
+    [ "OnRemove", "d3/d72/a25967.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "d3/d72/a25967.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "d3/d72/a25967.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

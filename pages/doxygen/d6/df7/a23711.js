@@ -1,6 +1,6 @@
 var a23711 =
 [
-    [ "CalculateDamage", "d6/df7/a23711.html#a170fb61e3a7358d42cc6506067fb978a", null ],
-    [ "PrepareSpellScript", "d6/df7/a23711.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
-    [ "Register", "d6/df7/a23711.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
+    [ "go_apexis_relic", "d6/df7/a23711.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "d6/df7/a23711.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "d6/df7/a23711.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

@@ -1,8 +1,17 @@
 var a14531 =
 [
-    [ "OnApply", "d2/d3c/a14531.html#a6f3f05316f025ef638672a82cc855136", null ],
-    [ "PeriodicTick", "d2/d3c/a14531.html#a051d292f9483e6b82d773fba3ab52460", null ],
-    [ "PrepareAuraScript", "d2/d3c/a14531.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
-    [ "Register", "d2/d3c/a14531.html#a0004de73250b8523db2b9ab714c8a246", null ],
-    [ "Validate", "d2/d3c/a14531.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
+    [ "npc_coren_direbrew", "d2/d3c/a14531.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
+    [ "CanBeSeen", "d2/d3c/a14531.html#ad4db2a85c92f69e54036f4133396f201", null ],
+    [ "DamageTaken", "d2/d3c/a14531.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
+    [ "DoAction", "d2/d3c/a14531.html#a2d417a9310b5b75df09879678d967794", null ],
+    [ "JustDied", "d2/d3c/a14531.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
+    [ "JustSummoned", "d2/d3c/a14531.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
+    [ "MoveInLineOfSight", "d2/d3c/a14531.html#a9c48c7e4a97998c2091992f51b734679", null ],
+    [ "Reset", "d2/d3c/a14531.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
+    [ "sGossipSelect", "d2/d3c/a14531.html#ad8b665606985984ad633f66ad9b73bd2", null ],
+    [ "SummonedCreatureDies", "d2/d3c/a14531.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
+    [ "SummonSister", "d2/d3c/a14531.html#a358fe5922a85ea3eee6abe9451869b66", null ],
+    [ "UpdateAI", "d2/d3c/a14531.html#af6615292fa853883979dc37c6e247289", null ],
+    [ "_events", "d2/d3c/a14531.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
+    [ "_summons", "d2/d3c/a14531.html#a261d4c4dea56748e66752cb11588086a", null ]
 ];

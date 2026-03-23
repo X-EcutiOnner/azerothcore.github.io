@@ -1,5 +1,5 @@
 var a02825 =
 [
-    [ "OutdoorPvP_terokkar_forest", "d4/d46/a22533.html", "d4/d46/a22533" ],
-    [ "AddSC_outdoorpvp_tf", "df/d7d/a02825.html#a6df553c8dd6e9b81e83110e7beab3646", null ]
+    [ "OutdoorPvP_grizzly_hills", "d1/d38/a22219.html", "d1/d38/a22219" ],
+    [ "AddSC_outdoorpvp_gh", "df/d7d/a02825.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ]
 ];

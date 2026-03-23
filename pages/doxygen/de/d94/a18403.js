@@ -1,8 +1,6 @@
 var a18403 =
 [
-    [ "FilterTargets", "de/d94/a18403.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "de/d94/a18403.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "de/d94/a18403.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "de/d94/a18403.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "de/d94/a18403.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "VileSpiritActivateEvent", "de/d94/a18403.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "de/d94/a18403.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "de/d94/a18403.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

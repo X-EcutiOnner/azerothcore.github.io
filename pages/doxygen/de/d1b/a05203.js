@@ -1,15 +1,7 @@
 var a05203 =
 [
-    [ "IV", "de/d1b/a05203.html#a3ab3c73ca75661d53842f924f9914656", null ],
-    [ "Key", "de/d1b/a05203.html#ad479930aa60f991335d4cf68251958bb", null ],
-    [ "Tag", "de/d1b/a05203.html#ad6abd9fd7a9b7bafc4c300ebca415a1e", null ],
-    [ "AES", "de/d1b/a05203.html#a75c197cecf7cd7230a1a9f64e8ec9f00", null ],
-    [ "~AES", "de/d1b/a05203.html#abcdb72bef5a57586630650372c339410", null ],
-    [ "Init", "de/d1b/a05203.html#a910f4dcbbd2868264d4b11f3041c833d", null ],
-    [ "Process", "de/d1b/a05203.html#a9933ca01e34684d466bc364dda11a30a", null ],
-    [ "_ctx", "de/d1b/a05203.html#ae461a0a028ca8d02af56496252e6322d", null ],
-    [ "_encrypting", "de/d1b/a05203.html#ac5e1bc89ac1c21f97994db7c76ae4e4e", null ],
-    [ "IV_SIZE_BYTES", "de/d1b/a05203.html#a5c62e48e8791379cdcdb5d20c018f0ea", null ],
-    [ "KEY_SIZE_BYTES", "de/d1b/a05203.html#a03df6b128e9d2553c44e71680ca79cb5", null ],
-    [ "TAG_SIZE_BYTES", "de/d1b/a05203.html#a0a7619278214bbe6b2bd5ad003828ef0", null ]
+    [ "LiquidInfo", "de/d1b/a05203.html#a0caefac43d2f5c59446e2a9f7e565c11", null ],
+    [ "LiquidInfo", "de/d1b/a05203.html#abfae4e75223a93b5b71840f60710afb9", null ],
+    [ "level", "de/d1b/a05203.html#ade8f31cc9adc77ff82724134b5ebba24", null ],
+    [ "type", "de/d1b/a05203.html#a46eda7aed64f2a5b0bd5ce1f88942c20", null ]
 ];

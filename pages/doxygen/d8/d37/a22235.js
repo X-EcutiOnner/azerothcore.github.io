@@ -1,8 +1,10 @@
 var a22235 =
 [
-    [ "AfterApply", "d8/d37/a22235.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "d8/d37/a22235.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "d8/d37/a22235.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "d8/d37/a22235.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "d8/d37/a22235.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "OPvPCapturePointHP", "d8/d37/a22235.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
+    [ "ChangeState", "d8/d37/a22235.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
+    [ "FillInitialWorldStates", "d8/d37/a22235.html#aa8d725422951485970d9106450fb6a38", null ],
+    [ "HandlePlayerEnter", "d8/d37/a22235.html#ad9738c621df084d5a3f0070c80403642", null ],
+    [ "HandlePlayerLeave", "d8/d37/a22235.html#a86e849e5387383a6c751e69350ffa07c", null ],
+    [ "SendChangePhase", "d8/d37/a22235.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
+    [ "m_TowerType", "d8/d37/a22235.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
 ];

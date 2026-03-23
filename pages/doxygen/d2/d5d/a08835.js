@@ -1,8 +1,10 @@
 var a08835 =
 [
-    [ "RedirectSpellEvent", "d2/d5d/a08835.html#a77d243d64c2fc651d71c42e10a315161", null ],
-    [ "Execute", "d2/d5d/a08835.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
-    [ "_auraEffect", "d2/d5d/a08835.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
-    [ "_auraOwnerGUID", "d2/d5d/a08835.html#a1b3fb598748362379fef15b3172d8e2b", null ],
-    [ "_self", "d2/d5d/a08835.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
+    [ "DuelInfo", "d2/d5d/a08835.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
+    [ "Initiator", "d2/d5d/a08835.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
+    [ "IsMounted", "d2/d5d/a08835.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
+    [ "Opponent", "d2/d5d/a08835.html#a2765770367c839ad28f804e2df3205cb", null ],
+    [ "OutOfBoundsTime", "d2/d5d/a08835.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
+    [ "StartTime", "d2/d5d/a08835.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
+    [ "State", "d2/d5d/a08835.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
 ];

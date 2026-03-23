@@ -1,9 +1,6 @@
 var a10907 =
 [
-    [ "ItemEnchantTimeUpdate", "d9/d6d/a10907.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
-    [ "Write", "d9/d6d/a10907.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
-    [ "Duration", "d9/d6d/a10907.html#ad576ce6011716519a70c6e00e0753a49", null ],
-    [ "ItemGuid", "d9/d6d/a10907.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
-    [ "PlayerGuid", "d9/d6d/a10907.html#a4623875e38909d8b7300e7d9c703b216", null ],
-    [ "Slot", "d9/d6d/a10907.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
+    [ "GuildUpdateMotdText", "d9/d6d/a10907.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "d9/d6d/a10907.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "d9/d6d/a10907.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

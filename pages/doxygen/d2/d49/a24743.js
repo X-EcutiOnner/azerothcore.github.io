@@ -1,7 +1,6 @@
 var a24743 =
 [
-    [ "HandleProc", "d2/d49/a24743.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
-    [ "PrepareAuraScript", "d2/d49/a24743.html#a2840931b939b95e6a476c07f08ca66b5", null ],
-    [ "Register", "d2/d49/a24743.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
-    [ "lastChargeUsedTime", "d2/d49/a24743.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
+    [ "CalculateAmount", "d2/d49/a24743.html#a9e54ae3e90ee8bf0fab966a497f761b3", null ],
+    [ "PrepareAuraScript", "d2/d49/a24743.html#a51f9c0f92100c02e1fe7d127fecd902f", null ],
+    [ "Register", "d2/d49/a24743.html#a5c89e7e53a7f41665ff25d57df8f7afb", null ]
 ];

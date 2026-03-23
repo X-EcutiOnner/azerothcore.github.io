@@ -1,6 +1,5 @@
 var a20107 =
 [
-    [ "npc_mimirons_infernoAI", "df/d5a/a20111.html", "df/d5a/a20111" ],
-    [ "npc_mimirons_inferno", "d9/d75/a20107.html#a7a531a65a179b5d56c888c055b72d269", null ],
-    [ "GetAI", "d9/d75/a20107.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
+    [ "achievement_freya_getting_back_to_nature", "d9/d75/a20107.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "d9/d75/a20107.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

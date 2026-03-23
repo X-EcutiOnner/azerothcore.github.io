@@ -1,7 +1,5 @@
 var a27723 =
 [
-    [ "npc_prof_leather", "de/d8d/a27723.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "de/d8d/a27723.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "de/d8d/a27723.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "de/d8d/a27723.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "achievement_bg_av_perfection", "de/d8d/a27723.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "de/d8d/a27723.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

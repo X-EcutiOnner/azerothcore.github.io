@@ -1,13 +1,12 @@
 var a14603 =
 [
-    [ "npc_costumed_orphan_matron", "d9/d71/a14603.html#a0b913090588613ac00ea928f6273d56f", null ],
-    [ "DoAction", "d9/d71/a14603.html#a7a7739f89604ffb5afc6bab75118340e", null ],
-    [ "GetInitXYZ", "d9/d71/a14603.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
-    [ "Reset", "d9/d71/a14603.html#a962de50b13079f3337c4e41eb2d98b55", null ],
-    [ "sGossipHello", "d9/d71/a14603.html#a1a9c58c087b8addf8e482375737d6c49", null ],
-    [ "sQuestAccept", "d9/d71/a14603.html#adac5d514261a210a701442da13ba1587", null ],
-    [ "UpdateAI", "d9/d71/a14603.html#a4679d807df8749265ba0453c5b7588f1", null ],
-    [ "allowQuest", "d9/d71/a14603.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
-    [ "eventStarted", "d9/d71/a14603.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
-    [ "horseGUID", "d9/d71/a14603.html#a92cfd09cefd26933ae322f2cc2716927", null ]
+    [ "npc_alexstraza_the_lifebinder", "d9/d71/a14603.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d9/d71/a14603.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d9/d71/a14603.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d9/d71/a14603.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "UpdateAI", "d9/d71/a14603.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d9/d71/a14603.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d9/d71/a14603.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d9/d71/a14603.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d9/d71/a14603.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

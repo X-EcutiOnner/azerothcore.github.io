@@ -1,6 +1,10 @@
 var a20839 =
 [
-    [ "boss_thorim_sif_blizzardAI", "d7/d89/a20843.html", "d7/d89/a20843" ],
-    [ "boss_thorim_sif_blizzard", "dd/d33/a20839.html#acc42b4c9434f9eece2d93c2e4f3697fc", null ],
-    [ "GetAI", "dd/d33/a20839.html#afbff96363951c952a195f5c2a105e279", null ]
+    [ "npc_dragonflayer_forge_master", "dd/d33/a20839.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "dd/d33/a20839.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "dd/d33/a20839.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "dd/d33/a20839.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "dd/d33/a20839.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "dd/d33/a20839.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "dd/d33/a20839.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

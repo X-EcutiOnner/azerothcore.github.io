@@ -1,7 +1,7 @@
 var a15959 =
 [
-    [ "npc_ringoAI", "db/d81/a15963.html", "db/d81/a15963" ],
-    [ "npc_ringo", "dc/d94/a15959.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "dc/d94/a15959.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "dc/d94/a15959.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
+    [ "npc_wizzlecrank_shredderAI", "db/d81/a15963.html", "db/d81/a15963" ],
+    [ "npc_wizzlecrank_shredder", "dc/d94/a15959.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "dc/d94/a15959.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "dc/d94/a15959.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

@@ -1,7 +1,9 @@
 var a01784 =
 [
-    [ "AuraApplication", "dd/d2f/a11545.html", "dd/d2f/a11545" ],
-    [ "Aura", "d5/d74/a11549.html", "d5/d74/a11549" ],
-    [ "UnitAura", "db/d60/a11553.html", "db/d60/a11553" ],
-    [ "DynObjAura", "dc/dfa/a11557.html", "dc/dfa/a11557" ]
+    [ "GetCheckPacketBaseSize", "d6/d3d/a01784.html#aa48d9759919f0fb8415c0fd0731a23b1", null ],
+    [ "GetCheckPacketSize", "d6/d3d/a01784.html#adfb39c1ce4f6159c2c70e3cdf26978c9", null ],
+    [ "GetMaxWardenChecksForType", "d6/d3d/a01784.html#aedb0d8dcf11f0df50080f361dcd78fed", null ],
+    [ "_luaEvalMidfix", "d6/d3d/a01784.html#a5506a4e4233b2c380f79ad1225c4dc93", null ],
+    [ "_luaEvalPostfix", "d6/d3d/a01784.html#ad14853510c2482e64bd81633e5074206", null ],
+    [ "_luaEvalPrefix", "d6/d3d/a01784.html#a259abc7d98e16cefc14404b5886cbc09", null ]
 ];

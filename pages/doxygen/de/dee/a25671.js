@@ -1,7 +1,8 @@
 var a25671 =
 [
-    [ "HandleScriptEffect", "de/dee/a25671.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
-    [ "PrepareSpellScript", "de/dee/a25671.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
-    [ "Register", "de/dee/a25671.html#a321098d2325bfb9cea674d1137348350", null ],
-    [ "Validate", "de/dee/a25671.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
+    [ "HandleProc", "de/dee/a25671.html#ad92c7804b26bd29d135e55c8adad9093", null ],
+    [ "OnRemove", "de/dee/a25671.html#afa8e065ed835243f3ebb95c10792adf8", null ],
+    [ "PrepareAuraScript", "de/dee/a25671.html#a5e986f77b23fd0402089ea36f0360c79", null ],
+    [ "Register", "de/dee/a25671.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
+    [ "Validate", "de/dee/a25671.html#a51f81afec6ff0918530208d9de9dae24", null ]
 ];

@@ -1,6 +1,7 @@
 var a24327 =
 [
-    [ "npc_commander_dawnforgeAI", "d2/d62/a24331.html", "d2/d62/a24331" ],
-    [ "npc_commander_dawnforge", "d0/dac/a24327.html#ab4d430725f68f906e9c8def66b1d6646", null ],
-    [ "GetAI", "d0/dac/a24327.html#a6089b087b7c3b18659e23c677814318b", null ]
+    [ "CalcDamage", "d0/dac/a24327.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
+    [ "PrepareSpellScript", "d0/dac/a24327.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
+    [ "Register", "d0/dac/a24327.html#a857a010e6426e931ca872f66803b99b9", null ],
+    [ "Validate", "d0/dac/a24327.html#ab64625ce305efb9dc92780c945b4fd62", null ]
 ];

@@ -1,10 +1,4 @@
 var a07915 =
 [
-    [ "RedirectThreatInfo", "dc/d13/a07915.html#a23b5adf3087ddba3b92133199aa42cf8", null ],
-    [ "GetTargetGUID", "dc/d13/a07915.html#ae206110e4d7155bb87079ebd58800e3d", null ],
-    [ "GetThreatPct", "dc/d13/a07915.html#a58bd2c745f92625ff7eac0ddca6a23a0", null ],
-    [ "ModifyThreatPct", "dc/d13/a07915.html#ac7093218d9b8c6ea03683dd5624bde8f", null ],
-    [ "Set", "dc/d13/a07915.html#a140b7a0adb6e6b71b21e8d6db7125ae2", null ],
-    [ "_targetGUID", "dc/d13/a07915.html#a98f9efc5209ef7200e71ff39310520dd", null ],
-    [ "_threatPct", "dc/d13/a07915.html#a95d6d366d664888f532d40afd1cc57d2", null ]
+    [ "TryConsume", "dc/d13/a07915.html#ad05fd0aa821ee47f5bbdac096c421dfa", null ]
 ];

@@ -1,6 +1,7 @@
 var a15347 =
 [
-    [ "HandleScriptEffect", "de/d07/a15347.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
-    [ "PrepareSpellScript", "de/d07/a15347.html#aa109d61baba87acf5bce5d44bff55214", null ],
-    [ "Register", "de/d07/a15347.html#ac8412777c84abfe56262d6d83163e9a1", null ]
+    [ "boss_rajaxx", "de/d07/a15347.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "de/d07/a15347.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "de/d07/a15347.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "de/d07/a15347.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

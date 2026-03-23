@@ -1,6 +1,6 @@
 var a23127 =
 [
-    [ "boss_essence_of_sufferingAI", "d7/d1f/a23131.html", "d7/d1f/a23131" ],
-    [ "boss_essence_of_suffering", "d4/de2/a23127.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d4/de2/a23127.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "HandlePeriodic", "d4/de2/a23127.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "d4/de2/a23127.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "d4/de2/a23127.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

@@ -1,8 +1,8 @@
 var a16615 =
 [
-    [ "npc_frost_sphereAI", "dd/d85/a16615.html#ae697a98d23d94315768dc866852b6e07", null ],
-    [ "DamageTaken", "dd/d85/a16615.html#a3960f19b456f29a33016d799809a82a8", null ],
-    [ "SpellHit", "dd/d85/a16615.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
-    [ "UpdateAI", "dd/d85/a16615.html#a4e866332045135c867f2b9ee871db0c2", null ],
-    [ "permafrostTimer", "dd/d85/a16615.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
+    [ "npc_announcer_toc5AI", "de/d02/a16619.html", "de/d02/a16619" ],
+    [ "npc_announcer_toc5", "dd/d85/a16615.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "dd/d85/a16615.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "dd/d85/a16615.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "dd/d85/a16615.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

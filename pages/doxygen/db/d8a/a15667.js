@@ -1,7 +1,7 @@
 var a15667 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "dd/d7d/a15671.html", "dd/d7d/a15671" ],
-    [ "npc_aged_dying_ancient_kodo", "db/d8a/a15667.html#a676170a319d3a8e46c9d017e61396c28", null ],
-    [ "GetAI", "db/d8a/a15667.html#a886bc82764e4ca6d98dc94ea73415375", null ],
-    [ "OnGossipHello", "db/d8a/a15667.html#a8489b3f23d8eca39f2750711512672e4", null ]
+    [ "npc_webbed_creatureAI", "db/d8a/a15667.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "db/d8a/a15667.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "db/d8a/a15667.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "db/d8a/a15667.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

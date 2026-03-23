@@ -1,7 +1,10 @@
 var a08899 =
 [
-    [ "EquipementIdPrev", "de/d05/a08899.html#a719c716f8914a200bfde4f5bb3275f26", null ],
-    [ "EquipmentId", "de/d05/a08899.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
-    [ "ModelId", "de/d05/a08899.html#ade2b2413020be410428b9fee9aa284d6", null ],
-    [ "ModelIdPrev", "de/d05/a08899.html#a9de7aa11788b22692738b72718193057", null ]
+    [ "Index", "de/d05/a08899.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "de/d05/a08899.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "de/d05/a08899.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "de/d05/a08899.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "de/d05/a08899.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "de/d05/a08899.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

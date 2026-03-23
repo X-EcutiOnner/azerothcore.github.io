@@ -1,6 +1,6 @@
 var a28299 =
 [
-    [ "AreaGroupId", "d9/dfd/a28299.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d9/dfd/a28299.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d9/dfd/a28299.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "npc_pet_trainerAI", "d2/d13/a28303.html", "d2/d13/a28303" ],
+    [ "npc_pet_trainer", "d9/dfd/a28299.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "d9/dfd/a28299.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

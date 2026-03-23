@@ -1,6 +1,8 @@
 var a15499 =
 [
-    [ "OnPeriodic", "d7/d24/a15499.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "d7/d24/a15499.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "d7/d24/a15499.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "boss_veklor", "d7/d24/a15499.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d7/d24/a15499.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d7/d24/a15499.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d7/d24/a15499.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d7/d24/a15499.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

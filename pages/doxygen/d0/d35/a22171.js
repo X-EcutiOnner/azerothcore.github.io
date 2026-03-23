@@ -1,7 +1,6 @@
 var a22171 =
 [
-    [ "HandleAfterEffectApply", "d0/d35/a22171.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "d0/d35/a22171.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "d0/d35/a22171.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "d0/d35/a22171.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "npc_released_offspring_harkoaAI", "d0/d35/a22171.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "d0/d35/a22171.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "d0/d35/a22171.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

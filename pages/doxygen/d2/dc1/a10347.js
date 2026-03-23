@@ -1,5 +1,7 @@
 var a10347 =
 [
-    [ "CommandScript", "d2/dc1/a10347.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
-    [ "GetCommands", "d2/dc1/a10347.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
+    [ "WriteCommonMonsterMovePart", "d2/dc1/a10347.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
+    [ "WriteCreate", "d2/dc1/a10347.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
+    [ "WriteMonsterMove", "d2/dc1/a10347.html#a4c4294e3fed32aca35078dd4975b057d", null ],
+    [ "WriteStopMovement", "d2/dc1/a10347.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
 ];

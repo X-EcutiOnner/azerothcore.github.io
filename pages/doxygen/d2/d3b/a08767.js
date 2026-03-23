@@ -1,9 +1,9 @@
 var a08767 =
 [
-    [ "ProcTriggeredData", "d2/d3b/a08767.html#a37c5cbfd0b916b950a0e638223394de4", null ],
-    [ "operator==", "d2/d3b/a08767.html#a787760cbd8a6ee5192975bc514886159", null ],
-    [ "aura", "d2/d3b/a08767.html#a5138144d49900690bb15a5f66b763eac", null ],
-    [ "effMask", "d2/d3b/a08767.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
-    [ "spellProcEvent", "d2/d3b/a08767.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
-    [ "triggerSpelId", "d2/d3b/a08767.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
+    [ "PetInfo", "df/d20/a08771.html", "df/d20/a08771" ],
+    [ "GetUnslottedHunterPet", "d2/d3b/a08767.html#a4e0e22a135703c989976694a32912cbd", null ],
+    [ "CurrentPet", "d2/d3b/a08767.html#a7a9f76452985abc65560773ac413208f", null ],
+    [ "MaxStabledPets", "d2/d3b/a08767.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
+    [ "StabledPets", "d2/d3b/a08767.html#a6bd064e692fff316581d08680b163026", null ],
+    [ "UnslottedPets", "d2/d3b/a08767.html#a8e6f6e36722dd883e6df962a1e950346", null ]
 ];

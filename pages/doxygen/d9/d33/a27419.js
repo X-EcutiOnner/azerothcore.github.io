@@ -1,7 +1,6 @@
 var a27419 =
 [
-    [ "npc_spirit_shadeAI", "d9/d33/a27419.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d9/d33/a27419.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d9/d33/a27419.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d9/d33/a27419.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "HandleDummy", "d9/d33/a27419.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
+    [ "PrepareSpellScript", "d9/d33/a27419.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
+    [ "Register", "d9/d33/a27419.html#a27aece218c848064ae387491f9176099", null ]
 ];

@@ -1,4 +1,7 @@
 var a24651 =
 [
-    [ "npc_pet_gen_moth", "d3/d61/a24651.html#a527b48528cce28f6b468af170e5ae45f", null ]
+    [ "HandleProc", "d3/d61/a24651.html#a8cdacf8f2562c0c35fafaa24ac9d18c2", null ],
+    [ "PrepareAuraScript", "d3/d61/a24651.html#a9cc42ed6528e9e6dd253808c59286e02", null ],
+    [ "Register", "d3/d61/a24651.html#a3d4b8bfcc77087533d9bb1b1d5f6f637", null ],
+    [ "Validate", "d3/d61/a24651.html#abe19ae79c5bf1b0104cc3bc16570853a", null ]
 ];

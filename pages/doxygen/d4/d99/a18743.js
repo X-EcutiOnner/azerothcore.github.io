@@ -1,6 +1,8 @@
 var a18743 =
 [
-    [ "npc_valithria_portalAI", "d7/d07/a18747.html", "d7/d07/a18747" ],
-    [ "npc_valithria_portal", "d4/d99/a18743.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "d4/d99/a18743.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "npc_blistering_zombieAI", "d4/d99/a18743.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "d4/d99/a18743.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "d4/d99/a18743.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "d4/d99/a18743.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "d4/d99/a18743.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

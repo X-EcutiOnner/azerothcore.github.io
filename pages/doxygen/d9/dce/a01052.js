@@ -1,4 +1,4 @@
 var a01052 =
 [
-    [ "ScriptRegistry< ALEScript >", "d9/dce/a01052.html#a84c662c2b9398225a13a01142e622675", null ]
+    [ "ScriptRegistry< PlayerScript >", "d9/dce/a01052.html#a9c8e85c6181ce386db051bb0a0e6a533", null ]
 ];

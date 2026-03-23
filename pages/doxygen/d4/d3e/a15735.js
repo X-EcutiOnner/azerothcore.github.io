@@ -1,6 +1,11 @@
 var a15735 =
 [
-    [ "npc_bunthen_plainswind", "d4/d3e/a15735.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "d4/d3e/a15735.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "d4/d3e/a15735.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npc_tiger_matriarchAI", "d4/d3e/a15735.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
+    [ "DamageTaken", "d4/d3e/a15735.html#ab41c4275fe4f42b36615f746a100ccda", null ],
+    [ "IsSummonedBy", "d4/d3e/a15735.html#a8b02683be93944a65b38658bba0af4d8", null ],
+    [ "JustEngagedWith", "d4/d3e/a15735.html#a9a9295008552f5330f778dd3a0c591ea", null ],
+    [ "KilledUnit", "d4/d3e/a15735.html#aabde7633ac07966ee1cd2d9817582189", null ],
+    [ "UpdateAI", "d4/d3e/a15735.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
+    [ "_events", "d4/d3e/a15735.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
+    [ "_tigerGuid", "d4/d3e/a15735.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
 ];

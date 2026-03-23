@@ -1,7 +1,9 @@
 var a25235 =
 [
-    [ "HandleScript", "d1/d4a/a25235.html#af386e49e9020328f123c4da7d82d4b0c", null ],
-    [ "PrepareSpellScript", "d1/d4a/a25235.html#a5e4618514d33bbc18fcc26c83279e430", null ],
-    [ "Register", "d1/d4a/a25235.html#a3560275f387f7b0de34f9d1c255241fe", null ],
-    [ "Validate", "d1/d4a/a25235.html#a108e58cb90719b572f3578f0d44d0627", null ]
+    [ "spell_gen_translocate", "d1/d4a/a25235.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "d1/d4a/a25235.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "d1/d4a/a25235.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "d1/d4a/a25235.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "d1/d4a/a25235.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "d1/d4a/a25235.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

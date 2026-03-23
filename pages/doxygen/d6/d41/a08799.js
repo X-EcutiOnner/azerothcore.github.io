@@ -1,19 +1,9 @@
 var a08799 =
 [
-    [ "absorb", "d6/d41/a08799.html#a7298afcc76b856c5427f5e123030a797", null ],
-    [ "attacker", "d6/d41/a08799.html#aebe14d91f54da0b25a07ff3d59df6ec2", null ],
-    [ "attackType", "d6/d41/a08799.html#afd18e43bd78a9144c02ba0493921c506", null ],
-    [ "blocked_amount", "d6/d41/a08799.html#a0ce1e1ff406264c7283979fe4fc70148", null ],
-    [ "cleanDamage", "d6/d41/a08799.html#a452ac9be1f6e9c10616a62a128573358", null ],
-    [ "damage", "d6/d41/a08799.html#ab95e1e4746b966f1301d997fdac99c94", null ],
-    [ "damages", "d6/d41/a08799.html#a7515b18f05f5c5e9f11bd2607ab900b0", null ],
-    [ "damageSchoolMask", "d6/d41/a08799.html#a01f1cc6661ef5f4e7d657ba59d06108f", null ],
-    [ "HitInfo", "d6/d41/a08799.html#ae42a8a3750633d94e661ac9d5a9aa8df", null ],
-    [ "hitOutCome", "d6/d41/a08799.html#a114dcabcb8bff10c2452cb27e75da115", null ],
-    [ "procAttacker", "d6/d41/a08799.html#a21bed657c7e3d2338f30fb5237884d5f", null ],
-    [ "procEx", "d6/d41/a08799.html#ad629b9aad4d88247ef4dfaadd79dc1c8", null ],
-    [ "procVictim", "d6/d41/a08799.html#a236b06649e715fab9dbddb074ef2f075", null ],
-    [ "resist", "d6/d41/a08799.html#ab57d348b500203649bf532405cd9ceec", null ],
-    [ "target", "d6/d41/a08799.html#af2976fa1245b3e3177dcbac464345829", null ],
-    [ "TargetState", "d6/d41/a08799.html#a73ef30ca87444da617b8c2e05b70e9fc", null ]
+    [ "ActionButton", "d6/d41/a08799.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "d6/d41/a08799.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "d6/d41/a08799.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "d6/d41/a08799.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "d6/d41/a08799.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "d6/d41/a08799.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

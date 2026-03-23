@@ -1,7 +1,11 @@
 var a11159 =
 [
-    [ "UpdateWorldState", "d9/d65/a11159.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "d9/d65/a11159.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "d9/d65/a11159.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "d9/d65/a11159.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "BuyItemInSlot", "d9/d65/a11159.html#a9a15be940d8eb216614dca5055be094a", null ],
+    [ "Read", "d9/d65/a11159.html#a2608e83a41fb44c8469d2b9196702627", null ],
+    [ "BagGuid", "d9/d65/a11159.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
+    [ "BagSlot", "d9/d65/a11159.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
+    [ "Count", "d9/d65/a11159.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
+    [ "Item", "d9/d65/a11159.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
+    [ "Slot", "d9/d65/a11159.html#aae1dba7644a82933a801f581551479bc", null ],
+    [ "VendorGuid", "d9/d65/a11159.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
 ];

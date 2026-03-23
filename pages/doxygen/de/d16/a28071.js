@@ -1,12 +1,10 @@
 var a28071 =
 [
-    [ "categoryId", "de/d16/a28071.html#a1de0e4302757f18c08b90b40e059737b", null ],
-    [ "count", "de/d16/a28071.html#a93aac150067979467f56d9919ff665a4", null ],
-    [ "flags", "de/d16/a28071.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
-    [ "ID", "de/d16/a28071.html#a843fee247948d02f7aaf04144cb37ef5", null ],
-    [ "mapID", "de/d16/a28071.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
-    [ "name", "de/d16/a28071.html#a806cfeddc475994f1b421679bd9699e6", null ],
-    [ "points", "de/d16/a28071.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
-    [ "refAchievement", "de/d16/a28071.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
-    [ "requiredFaction", "de/d16/a28071.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
+    [ "guard_shattrath_scryerAI", "de/d16/a28071.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "de/d16/a28071.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "de/d16/a28071.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "de/d16/a28071.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "de/d16/a28071.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "de/d16/a28071.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "de/d16/a28071.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

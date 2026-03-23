@@ -1,9 +1,11 @@
 var a05399 =
 [
-    [ "IpLocationRecord", "dc/daf/a05399.html#a1dba2f8a7697c7e6fd427089d556c19a", null ],
-    [ "IpLocationRecord", "dc/daf/a05399.html#a10ffefef6ba7d81a23d5d29bc2ee599d", null ],
-    [ "CountryCode", "dc/daf/a05399.html#a9b54a497801e9da396955893473eb7da", null ],
-    [ "CountryName", "dc/daf/a05399.html#acbc8ea139970e7acbad06302d5666eb9", null ],
-    [ "IpFrom", "dc/daf/a05399.html#a97d36332086a339e07b73955f23acd57", null ],
-    [ "IpTo", "dc/daf/a05399.html#a844dfff114f6ce64b79c459527965bfb", null ]
+    [ "ARC4", "dc/daf/a05399.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
+    [ "~ARC4", "dc/daf/a05399.html#af3a8b63c2073120026c262a685eef8f2", null ],
+    [ "Init", "dc/daf/a05399.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
+    [ "Init", "dc/daf/a05399.html#aaa9c89da159b57a897898bc31e10ecd4", null ],
+    [ "UpdateData", "dc/daf/a05399.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
+    [ "UpdateData", "dc/daf/a05399.html#a4023480221891e0d1ccd7a92aabd173c", null ],
+    [ "_cipher", "dc/daf/a05399.html#ab017c87cd73a9b5fade745799724c333", null ],
+    [ "_ctx", "dc/daf/a05399.html#a8539413b1e0344abe9545f742cc8e6df", null ]
 ];

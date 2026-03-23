@@ -1,7 +1,6 @@
 var a11275 =
 [
-    [ "IsValidOpcode", "d2/d26/a11275.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d2/d26/a11275.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d2/d26/a11275.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d2/d26/a11275.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "ComplainResult", "d2/d26/a11275.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
+    [ "Write", "d2/d26/a11275.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
+    [ "Unk", "d2/d26/a11275.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
 ];

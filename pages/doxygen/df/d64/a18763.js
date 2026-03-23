@@ -1,7 +1,8 @@
 var a18763 =
 [
-    [ "npc_blazing_skeletonAI", "df/d64/a18763.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "df/d64/a18763.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "df/d64/a18763.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "df/d64/a18763.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "Load", "df/d64/a18763.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
+    [ "PeriodicTick", "df/d64/a18763.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
+    [ "PrepareAuraScript", "df/d64/a18763.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
+    [ "Register", "df/d64/a18763.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
+    [ "_instance", "df/d64/a18763.html#aebebb858f2ae41f2260d6843b3da8052", null ]
 ];

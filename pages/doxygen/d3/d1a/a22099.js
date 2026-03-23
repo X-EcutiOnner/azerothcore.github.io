@@ -1,8 +1,7 @@
 var a22099 =
 [
-    [ "OnRemove", "d3/d1a/a22099.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "d3/d1a/a22099.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "d3/d1a/a22099.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "d3/d1a/a22099.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "d3/d1a/a22099.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_wg_siege_machineAI", "d3/d1a/a22099.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d3/d1a/a22099.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d3/d1a/a22099.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d3/d1a/a22099.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

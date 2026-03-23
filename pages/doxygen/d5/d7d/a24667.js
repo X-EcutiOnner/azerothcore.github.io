@@ -1,6 +1,7 @@
 var a24667 =
 [
-    [ "DeathEvent", "d5/d7d/a24667.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d5/d7d/a24667.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d5/d7d/a24667.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "HandlePeriodic", "d5/d7d/a24667.html#abc823ccb417c7ee54b275fd765c2e9a5", null ],
+    [ "PrepareAuraScript", "d5/d7d/a24667.html#a51d8701f84737d91cf4367967e2c9439", null ],
+    [ "Register", "d5/d7d/a24667.html#a57d210027c9fa2a4a7a90c4b1fd7589b", null ],
+    [ "Validate", "d5/d7d/a24667.html#a507e7e61eef30115812dc5ab5ad33fea", null ]
 ];

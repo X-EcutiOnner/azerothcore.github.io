@@ -1,15 +1,9 @@
 var a22419 =
 [
-    [ "npc_jungle_punch_targetAI", "d0/d95/a22419.html#a04f09361f6bc4bc752ca773878187f79", null ],
-    [ "MoveInLineOfSight", "d0/d95/a22419.html#adc08551a256220bab144ef26d89c4263", null ],
-    [ "proceedCwEvent", "d0/d95/a22419.html#a54f8a5c7414f4a9fd019e02fede1970d", null ],
-    [ "Reset", "d0/d95/a22419.html#a56faff3edbe0d13969e8d20e6c3e03a2", null ],
-    [ "SpellHit", "d0/d95/a22419.html#a3515e873adf5a097f66764887e3cc5a3", null ],
-    [ "UpdateAI", "d0/d95/a22419.html#afa2a1bcdeef51e9f984307f576a1ff6e", null ],
-    [ "orphanGUID", "d0/d95/a22419.html#a5947a4415b63f8bbda4d53c44ccebf74", null ],
-    [ "phase", "d0/d95/a22419.html#a737a9016c93d621bf8cfa29d6b66b345", null ],
-    [ "playerGUID", "d0/d95/a22419.html#afbb4e4c74c2634a442171f06bb2eff08", null ],
-    [ "sayStep", "d0/d95/a22419.html#a1b1757dd6e0775f1f4791b4feafd86fb", null ],
-    [ "sayTimer", "d0/d95/a22419.html#a4edf558dbc54ff1acab15d6daf0a5613", null ],
-    [ "timer", "d0/d95/a22419.html#a0fa884bf3003267501f048d3f1287d42", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d0/d95/a22419.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "d0/d95/a22419.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "d0/d95/a22419.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "d0/d95/a22419.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "d0/d95/a22419.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "d0/d95/a22419.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

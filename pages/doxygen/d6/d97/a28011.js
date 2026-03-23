@@ -1,7 +1,5 @@
 var a28011 =
 [
-    [ "HandleDummy", "d6/d97/a28011.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "d6/d97/a28011.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "d6/d97/a28011.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "d6/d97/a28011.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "go_scourge_cage", "d6/d97/a28011.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "d6/d97/a28011.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

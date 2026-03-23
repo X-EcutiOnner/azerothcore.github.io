@@ -1,6 +1,7 @@
 var a28843 =
 [
-    [ "SetUp", "d4/dc2/a28843.html#af04bbb2661f10d3bf442c590ebdf1a2b", null ],
-    [ "TearDown", "d4/dc2/a28843.html#a3bc271279472966f9dae906f9f77119b", null ],
-    [ "confFilePath", "d4/dc2/a28843.html#aaaccdda1669c76b94483bf2db2615d4e", null ]
+    [ "EmoteType", "d4/dc2/a28843.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "d4/dc2/a28843.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "d4/dc2/a28843.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "d4/dc2/a28843.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

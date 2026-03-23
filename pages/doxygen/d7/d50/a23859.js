@@ -1,6 +1,7 @@
 var a23859 =
 [
-    [ "PrepareSpellScript", "d7/d50/a23859.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d7/d50/a23859.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d7/d50/a23859.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "HandleEffectApply", "d7/d50/a23859.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d7/d50/a23859.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d7/d50/a23859.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d7/d50/a23859.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

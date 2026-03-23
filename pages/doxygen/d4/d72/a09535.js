@@ -1,7 +1,9 @@
 var a09535 =
 [
-    [ "AllWorldObjectsInRange", "d4/d72/a09535.html#a63f46d510df0fa3153d4b3325676a468", null ],
-    [ "operator()", "d4/d72/a09535.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
-    [ "m_fRange", "d4/d72/a09535.html#a6afe3ef05369dce8ee205db219f97846", null ],
-    [ "m_pObject", "d4/d72/a09535.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
+    [ "CreatureLastSearcher", "d4/d72/a09535.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
+    [ "Visit", "d4/d72/a09535.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
+    [ "Visit", "d4/d72/a09535.html#a08635cefbba5dca34734569816d2edb8", null ],
+    [ "i_check", "d4/d72/a09535.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
+    [ "i_object", "d4/d72/a09535.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
+    [ "i_phaseMask", "d4/d72/a09535.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
 ];

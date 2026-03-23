@@ -1,8 +1,7 @@
 var a20851 =
 [
-    [ "boss_thorim_pillarAI", "d4/d7c/a20851.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
-    [ "Reset", "d4/d7c/a20851.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
-    [ "SpellHit", "d4/d7c/a20851.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
-    [ "UpdateAI", "d4/d7c/a20851.html#afd8e05444eeea620a7ef21e97c345d41", null ],
-    [ "_resetTimer", "d4/d7c/a20851.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
+    [ "HandleOnEffectRemove", "d4/d7c/a20851.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "d4/d7c/a20851.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "d4/d7c/a20851.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "d4/d7c/a20851.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

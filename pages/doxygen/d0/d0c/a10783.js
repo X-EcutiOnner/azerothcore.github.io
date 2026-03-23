@@ -1,5 +1,6 @@
 var a10783 =
 [
-    [ "GuildBankRemainingWithdrawMoneyQuery", "d0/d0c/a10783.html#afb45f29d4a280c4cc02ee2ab3c055824", null ],
-    [ "Read", "d0/d0c/a10783.html#a3e03f6f23a989d6f105c397f8ecfeb87", null ]
+    [ "BuyBankSlotResult", "d0/d0c/a10783.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "d0/d0c/a10783.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "d0/d0c/a10783.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

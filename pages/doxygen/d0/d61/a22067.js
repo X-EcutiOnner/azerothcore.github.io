@@ -1,6 +1,8 @@
 var a22067 =
 [
-    [ "npc_spiritual_insightAI", "d0/d61/a22067.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "d0/d61/a22067.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "d0/d61/a22067.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_oathbound_warder", "d0/d61/a22067.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "d0/d61/a22067.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "d0/d61/a22067.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "d0/d61/a22067.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "d0/d61/a22067.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

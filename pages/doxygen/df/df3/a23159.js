@@ -1,6 +1,6 @@
 var a23159 =
 [
-    [ "HandleEffectRemove", "df/df3/a23159.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
-    [ "PrepareAuraScript", "df/df3/a23159.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
-    [ "Register", "df/df3/a23159.html#acd7e22159d262a9888c744eecb978c09", null ]
+    [ "instance_the_underbog_InstanceMapScript", "dd/d0b/a23163.html", "dd/d0b/a23163" ],
+    [ "instance_the_underbog", "df/df3/a23159.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "df/df3/a23159.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

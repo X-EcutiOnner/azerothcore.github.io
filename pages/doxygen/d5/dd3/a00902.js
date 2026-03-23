@@ -1,4 +1,4 @@
 var a00902 =
 [
-    [ "ScriptRegistry< ConditionScript >", "d5/dd3/a00902.html#af6b3c804d07f366580a1a5b9dd95f5fd", null ]
+    [ "ScriptRegistry< AuctionHouseScript >", "d5/dd3/a00902.html#ac2271f3a8c4323137893dfd21d8d0003", null ]
 ];

@@ -1,9 +1,6 @@
 var a13999 =
 [
-    [ "npc_thrall_bfuAI", "d2/d78/a14003.html", "d2/d78/a14003" ],
-    [ "npc_thrall_bfu", "d6/d2e/a13999.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
-    [ "GetAI", "d6/d2e/a13999.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
-    [ "OnGossipHello", "d6/d2e/a13999.html#a71a7108464de9245879c8a1c08932e2a", null ],
-    [ "OnGossipSelect", "d6/d2e/a13999.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
-    [ "OnQuestReward", "d6/d2e/a13999.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
+    [ "npc_highborne_lamenterAI", "d2/d78/a14003.html", "d2/d78/a14003" ],
+    [ "npc_highborne_lamenter", "d6/d2e/a13999.html#a40316cf73a688e34e95dd41feef8612a", null ],
+    [ "GetAI", "d6/d2e/a13999.html#aad8ccb43b325b797f60a16e338458a1e", null ]
 ];

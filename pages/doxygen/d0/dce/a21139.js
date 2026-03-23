@@ -1,6 +1,5 @@
 var a21139 =
 [
-    [ "FilterTargets", "d0/dce/a21139.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d0/dce/a21139.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d0/dce/a21139.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "go_vh_activation_crystal", "d0/dce/a21139.html#a4af485ac7ab6144282f3204a6d045cea", null ],
+    [ "OnGossipHello", "d0/dce/a21139.html#a47a61ba67086580135559332931e9c6e", null ]
 ];

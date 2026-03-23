@@ -1,13 +1,9 @@
 var a21859 =
 [
-    [ "npc_preparations_for_war_vehicle", "d9/d40/a21859.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "MovementInform", "d9/d40/a21859.html#a5380670d521c7805a045aeac26c7c686", null ],
-    [ "PassengerBoarded", "d9/d40/a21859.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
-    [ "SpellHit", "d9/d40/a21859.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
-    [ "UpdateAI", "d9/d40/a21859.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "passenger_x", "d9/d40/a21859.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
-    [ "passenger_y", "d9/d40/a21859.html#afd99c49b3c3b996c92def21229f1ec87", null ],
-    [ "passenger_z", "d9/d40/a21859.html#a18d051868134d8c62f64923905bf19db", null ],
-    [ "searchForShipTimer", "d9/d40/a21859.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "d9/d40/a21859.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_frostbrood_skytalonAI", "d9/d40/a21859.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "d9/d40/a21859.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "d9/d40/a21859.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "d9/d40/a21859.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "d9/d40/a21859.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "d9/d40/a21859.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

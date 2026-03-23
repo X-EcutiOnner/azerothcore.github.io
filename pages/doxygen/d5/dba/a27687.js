@@ -1,5 +1,5 @@
 var a27687 =
 [
-    [ "item_petrov_cluster_bombs", "d5/dba/a27687.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d5/dba/a27687.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "achievement_bg_control_all_nodes", "d5/dba/a27687.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "d5/dba/a27687.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

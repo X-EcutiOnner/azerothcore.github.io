@@ -1,5 +1,6 @@
 var a28039 =
 [
-    [ "go_transport_the_thundercaller", "d8/dd9/a28039.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "d8/dd9/a28039.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "go_amberpine_outhouse", "d8/dd9/a28039.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
+    [ "OnGossipHello", "d8/dd9/a28039.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
+    [ "OnGossipSelect", "d8/dd9/a28039.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
 ];

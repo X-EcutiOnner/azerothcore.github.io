@@ -1,6 +1,10 @@
 var a27015 =
 [
-    [ "HandleKnockBack", "da/ddd/a27015.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "da/ddd/a27015.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "da/ddd/a27015.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "CheckProc", "da/ddd/a27015.html#a5971c42af47d1cc8045a130deb218a04", null ],
+    [ "HandleProc", "da/ddd/a27015.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
+    [ "Load", "da/ddd/a27015.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
+    [ "PrepareAuraScript", "da/ddd/a27015.html#a291fcf1af497d1e83a31209cd01a360d", null ],
+    [ "Register", "da/ddd/a27015.html#af16d0517ad07a454145da0b92c051740", null ],
+    [ "Validate", "da/ddd/a27015.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
+    [ "_procTargetGUID", "da/ddd/a27015.html#a13976d069846f29d2f744f3f03502787", null ]
 ];

@@ -1,8 +1,6 @@
 var a09331 =
 [
-    [ "CreatureListSearcher", "de/dc6/a09331.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
-    [ "Visit", "de/dc6/a09331.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
-    [ "Visit", "de/dc6/a09331.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
-    [ "i_check", "de/dc6/a09331.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
-    [ "i_phaseMask", "de/dc6/a09331.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
+    [ "m_guid", "de/dc6/a09331.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
+    [ "m_instance", "de/dc6/a09331.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
+    [ "m_state", "de/dc6/a09331.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
 ];

@@ -1,9 +1,6 @@
 var a21903 =
 [
-    [ "npc_mageguard_dalaranAI", "d1/d0a/a21903.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
-    [ "AttackStart", "d1/d0a/a21903.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
-    [ "JustEngagedWith", "d1/d0a/a21903.html#aac463689ae5a488ec2acb8a0310689d8", null ],
-    [ "MoveInLineOfSight", "d1/d0a/a21903.html#aafb32462693e0efd9c80cf335f489754", null ],
-    [ "Reset", "d1/d0a/a21903.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
-    [ "UpdateAI", "d1/d0a/a21903.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
+    [ "npc_bushwhackerAI", "d1/d0a/a21903.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d1/d0a/a21903.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d1/d0a/a21903.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

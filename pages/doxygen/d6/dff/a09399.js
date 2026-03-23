@@ -1,10 +1,7 @@
 var a09399 =
 [
-    [ "MostHPPercentMissingInRange", "d6/dff/a09399.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "d6/dff/a09399.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "d6/dff/a09399.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "d6/dff/a09399.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "d6/dff/a09399.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "d6/dff/a09399.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "d6/dff/a09399.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "flags", "d6/dff/a09399.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
+    [ "fourcc", "d6/dff/a09399.html#a93b48dd741d13ff036eac8a77df9f916", null ],
+    [ "gridHeight", "d6/dff/a09399.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
+    [ "gridMaxHeight", "d6/dff/a09399.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
 ];

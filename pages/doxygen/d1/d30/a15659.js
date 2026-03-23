@@ -1,7 +1,7 @@
 var a15659 =
 [
-    [ "npc_cork_gizeltonAI", "d6/d09/a15663.html", "d6/d09/a15663" ],
-    [ "npc_cork_gizelton", "d1/d30/a15659.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "d1/d30/a15659.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "d1/d30/a15659.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "npc_prophet_velen", "d1/d30/a15659.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "d1/d30/a15659.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "d1/d30/a15659.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "d1/d30/a15659.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

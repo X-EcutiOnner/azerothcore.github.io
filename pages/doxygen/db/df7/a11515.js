@@ -1,6 +1,6 @@
 var a11515 =
 [
-    [ "HitHandler", "db/df7/a11515.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
-    [ "Call", "db/df7/a11515.html#a157baaa3ceba62a9910cba5377bd7699", null ],
-    [ "pHitHandlerScript", "db/df7/a11515.html#ac24144e49930a01a3049740a4072f626", null ]
+    [ "WorldSession", "db/df7/a11515.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "db/df7/a11515.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "db/df7/a11515.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

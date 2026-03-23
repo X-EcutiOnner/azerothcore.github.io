@@ -1,8 +1,7 @@
 var a11299 =
 [
-    [ "SkillExtraItemEntry", "d6/d6b/a11299.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "d6/d6b/a11299.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "d6/d6b/a11299.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "d6/d6b/a11299.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "d6/d6b/a11299.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "TrainerBuySucceeded", "d6/d6b/a11299.html#ae00367a55429030c107fc8f6bb7db288", null ],
+    [ "Write", "d6/d6b/a11299.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
+    [ "SpellID", "d6/d6b/a11299.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
+    [ "TrainerGUID", "d6/d6b/a11299.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
 ];

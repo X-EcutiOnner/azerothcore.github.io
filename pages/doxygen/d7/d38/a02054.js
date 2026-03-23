@@ -1,10 +1,6 @@
 var a02054 =
 [
-    [ "AutobroadcastMgr", "d6/da8/a07397.html", "d6/da8/a07397" ],
-    [ "sAutobroadcastMgr", "d7/d38/a02054.html#a34abff2dadcb74370b0749fe9fda3878", null ],
-    [ "AnnounceType", "d7/d38/a02054.html#a28a4ef2f64643c76d8be05bf9eafc731", [
-      [ "World", "d7/d38/a02054.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
-      [ "Notification", "d7/d38/a02054.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
-      [ "Both", "d7/d38/a02054.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
-    ] ]
+    [ "AccountInfoQueryHolderPerRealm", "da/d64/a11491.html", "da/d64/a11491" ],
+    [ "REMOVE_VIOLATING_FLAGS", "d7/d38/a02054.html#a9d7c4eaedbb2a06f275a5f59222bc747", null ],
+    [ "DefaultPlayerName", "d7/d38/a02054.html#a586e06ca0d339349e13d81197056bb5f", null ]
 ];

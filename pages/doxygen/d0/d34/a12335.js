@@ -1,12 +1,15 @@
 var a12335 =
 [
-    [ "boss_pyroguard_emberseerAI", "d0/d34/a12335.html#ac08deea0d151d109f36bb3cf66a34f29", null ],
-    [ "JustDied", "d0/d34/a12335.html#aa35fc50d327c0bf7506bfd166d098522", null ],
-    [ "JustEngagedWith", "d0/d34/a12335.html#a9eff335ff04e3da1e4488e00b55ecbaa", null ],
-    [ "OpenDoors", "d0/d34/a12335.html#a8002f8d7b6b06b970d38d9824d57d737", null ],
-    [ "Reset", "d0/d34/a12335.html#ab82a2bc6e9596d14dd2fd65b859af74d", null ],
-    [ "SetData", "d0/d34/a12335.html#a5892ccaf9107e2da47c22c21bf5b2ed9", null ],
-    [ "SpellHit", "d0/d34/a12335.html#a236f20c40eb1c37a25b04b5cf83e2488", null ],
-    [ "UpdateAI", "d0/d34/a12335.html#a075147c4409174652e732293426b732d", null ],
-    [ "UpdateRunes", "d0/d34/a12335.html#a87d7d63893a9feb6bb6c44adf1c637eb", null ]
+    [ "worldstate_commandscript", "d0/d34/a12335.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
+    [ "GetCommands", "d0/d34/a12335.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
+    [ "HandleScourgeInvasionBattlesWonCommand", "d0/d34/a12335.html#a1c2167ce554327d674161b7c4f63585c", null ],
+    [ "HandleScourgeInvasionCommand", "d0/d34/a12335.html#a11aeedef82a93f8799fd788a8c492335", null ],
+    [ "HandleScourgeInvasionStartZone", "d0/d34/a12335.html#af242372bd32ed79d839af82f82423837", null ],
+    [ "HandleScourgeInvasionStateCommand", "d0/d34/a12335.html#a5ba0b973087f921dbb764037c8b36134", null ],
+    [ "HandleSunsReachReclamationCounterCommand", "d0/d34/a12335.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
+    [ "HandleSunsReachReclamationPhaseCommand", "d0/d34/a12335.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
+    [ "HandleSunsReachReclamationStatusCommand", "d0/d34/a12335.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
+    [ "HandleSunsReachReclamationSubPhaseCommand", "d0/d34/a12335.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
+    [ "HandleSunwellGateCommand", "d0/d34/a12335.html#a45b73e47c8e9b21063d02922a83e103b", null ],
+    [ "HandleSunwellGateCounterCommand", "d0/d34/a12335.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
 ];

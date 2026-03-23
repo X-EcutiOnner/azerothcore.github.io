@@ -1,6 +1,5 @@
 var a15387 =
 [
-    [ "OnPeriodic", "da/dcd/a15387.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "da/dcd/a15387.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "da/dcd/a15387.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "boss_vem", "da/dcd/a15387.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
+    [ "JustEngagedWith", "da/dcd/a15387.html#ae4b7fa599d31155bdee566b31c60b237", null ]
 ];

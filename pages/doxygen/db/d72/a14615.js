@@ -1,6 +1,5 @@
 var a14615 =
 [
-    [ "HandleScript", "db/d72/a14615.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
-    [ "PrepareSpellScript", "db/d72/a14615.html#a26b296c1c4d9f5193dc3773509267284", null ],
-    [ "Register", "db/d72/a14615.html#aad66e4079ea9404b9057546d8959a395", null ]
+    [ "npc_cw_area_triggerAI", "db/d72/a14615.html#aede21e01dfe762922562b6f5d57bc406", null ],
+    [ "MoveInLineOfSight", "db/d72/a14615.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
 ];

@@ -1,10 +1,6 @@
 var a23507 =
 [
-    [ "npc_frozen_core", "db/d98/a23507.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "db/d98/a23507.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "db/d98/a23507.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "db/d98/a23507.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "db/d98/a23507.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "db/d98/a23507.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "db/d98/a23507.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "HandlePeriodic", "db/d98/a23507.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "db/d98/a23507.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "db/d98/a23507.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

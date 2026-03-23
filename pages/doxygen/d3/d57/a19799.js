@@ -1,7 +1,7 @@
 var a19799 =
 [
-    [ "HandleScript", "d3/d57/a19799.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d3/d57/a19799.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d3/d57/a19799.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d3/d57/a19799.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "HandleEffectRemove", "d3/d57/a19799.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "d3/d57/a19799.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "d3/d57/a19799.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "d3/d57/a19799.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

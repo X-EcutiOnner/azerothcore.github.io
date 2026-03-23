@@ -1,10 +1,13 @@
 var a09315 =
 [
-    [ "UnitLastSearcher", "dc/d2f/a09315.html#a7924240df139cf0814282eaff8a898b6", null ],
-    [ "Visit", "dc/d2f/a09315.html#a95a5148e040daf44ed19e3118621a4ca", null ],
-    [ "Visit", "dc/d2f/a09315.html#ae9992afc09771d4f1e1517642075f17e", null ],
-    [ "Visit", "dc/d2f/a09315.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
-    [ "i_check", "dc/d2f/a09315.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
-    [ "i_object", "dc/d2f/a09315.html#a7bd2407800c461de70b217a4b48f9921", null ],
-    [ "i_phaseMask", "dc/d2f/a09315.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
+    [ "QuestPOI", "dc/d2f/a09315.html#af4ce75549d1fff2042e98683119214a6", null ],
+    [ "QuestPOI", "dc/d2f/a09315.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
+    [ "AreaId", "dc/d2f/a09315.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
+    [ "FloorId", "dc/d2f/a09315.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
+    [ "Id", "dc/d2f/a09315.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
+    [ "MapId", "dc/d2f/a09315.html#a851f8e6e62373d2592173534754d757b", null ],
+    [ "ObjectiveIndex", "dc/d2f/a09315.html#ad80f65110beacd44e667008387e6bb70", null ],
+    [ "points", "dc/d2f/a09315.html#aeb505cb061a00ecaa2acc749e391f207", null ],
+    [ "Unk3", "dc/d2f/a09315.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
+    [ "Unk4", "dc/d2f/a09315.html#aa8089160bb8e93ea79df96b956050b70", null ]
 ];

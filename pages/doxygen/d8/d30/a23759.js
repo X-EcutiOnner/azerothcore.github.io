@@ -1,7 +1,9 @@
 var a23759 =
 [
-    [ "boss_the_maker", "d8/d30/a23759.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d8/d30/a23759.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d8/d30/a23759.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d8/d30/a23759.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "npc_fel_guard_houndAI", "d8/d30/a23759.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "d8/d30/a23759.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "d8/d30/a23759.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "d8/d30/a23759.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "d8/d30/a23759.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "d8/d30/a23759.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

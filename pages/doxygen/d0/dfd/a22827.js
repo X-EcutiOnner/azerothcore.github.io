@@ -1,12 +1,12 @@
 var a22827 =
 [
-    [ "boss_shirrak_the_dead_watcher", "d0/dfd/a22827.html#aaa6826de3b6563342b89544b38386d93", null ],
-    [ "EnterEvadeMode", "d0/dfd/a22827.html#a23768629c4ab48954880c3c29099f432", null ],
-    [ "getStackCount", "d0/dfd/a22827.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
-    [ "JustEngagedWith", "d0/dfd/a22827.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
-    [ "JustSummoned", "d0/dfd/a22827.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
-    [ "Reset", "d0/dfd/a22827.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
-    [ "SpellHitTarget", "d0/dfd/a22827.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
-    [ "UpdateAI", "d0/dfd/a22827.html#a855505f949f53f979187abcb5b2f617f", null ],
-    [ "focusGUID", "d0/dfd/a22827.html#a81a7eade42ef595c173d7828ce59ef88", null ]
+    [ "boss_fathomlord_karathress", "d0/dfd/a22827.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "d0/dfd/a22827.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "d0/dfd/a22827.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "d0/dfd/a22827.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "d0/dfd/a22827.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "d0/dfd/a22827.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "d0/dfd/a22827.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "d0/dfd/a22827.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "d0/dfd/a22827.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

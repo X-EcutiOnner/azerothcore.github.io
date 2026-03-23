@@ -1,6 +1,6 @@
 var a12471 =
 [
-    [ "FilterTargets", "d2/d01/a12471.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "d2/d01/a12471.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "d2/d01/a12471.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "boss_gloomrel", "d2/d01/a12471.html#a2fe4ce0ddf75725dcb388a346ee13af8", null ],
+    [ "sGossipHello", "d2/d01/a12471.html#ac6f5755b98d1f1b55704647d80faf599", null ],
+    [ "sGossipSelect", "d2/d01/a12471.html#a2cd0a61c1f2077a994692764b503550c", null ]
 ];

@@ -1,6 +1,6 @@
 var a16903 =
 [
-    [ "instance_trial_of_the_crusader_InstanceMapScript", "d4/da6/a16907.html", "d4/da6/a16907" ],
-    [ "instance_trial_of_the_crusader", "d2/d31/a16903.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
-    [ "GetInstanceScript", "d2/d31/a16903.html#a792034e9e5687bf5fa543175692bed66", null ]
+    [ "boss_fjolaAI", "d4/da6/a16907.html", "d4/da6/a16907" ],
+    [ "boss_fjola", "d2/d31/a16903.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
+    [ "GetAI", "d2/d31/a16903.html#a96d9ea0716199758b60ad933ade28de4", null ]
 ];

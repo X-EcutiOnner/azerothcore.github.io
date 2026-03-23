@@ -1,10 +1,11 @@
 var a01016 =
 [
-    [ "GameEventScript", "d0/d0d/a10573.html", "d0/d0d/a10573" ],
-    [ "GameEventHook", "de/def/a01016.html#a6f634b591917b5ff2ab57f9739afa44b", [
-      [ "GAMEEVENTHOOK_ON_START", "de/def/a01016.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
-      [ "GAMEEVENTHOOK_ON_STOP", "de/def/a01016.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
-      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "de/def/a01016.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
-      [ "GAMEEVENTHOOK_END", "de/def/a01016.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
-    ] ]
+    [ "SpellScriptLoader", "df/d47/a10691.html", "df/d47/a10691" ],
+    [ "GenericSpellAndAuraScriptLoader< Ts >", "d0/dbf/a10695.html", "d0/dbf/a10695" ],
+    [ "RegisterSpellAndAuraScriptPair", "de/def/a01016.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
+    [ "RegisterSpellAndAuraScriptPairWithArgs", "de/def/a01016.html#aeffc3c8d08a35d5969c33508488e9051", null ],
+    [ "RegisterSpellScript", "de/def/a01016.html#ae221e5976ab29ba14fec3b073a03670f", null ],
+    [ "RegisterSpellScriptWithArgs", "de/def/a01016.html#aedecf91f4fce46852db865deae243e1f", null ],
+    [ "is_AuraScript", "de/def/a01016.html#a08facc7292565931370e1cc514f726e1", null ],
+    [ "is_SpellScript", "de/def/a01016.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
 ];

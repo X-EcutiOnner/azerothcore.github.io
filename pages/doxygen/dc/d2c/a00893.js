@@ -1,13 +1,5 @@
 var a00893 =
 [
-    [ "ServerScript", "df/d3c/a10645.html", "df/d3c/a10645" ],
-    [ "ServerHook", "dc/d2c/a00893.html#af8cee964a488266c6dec6c3b76b1a2d9", [
-      [ "SERVERHOOK_ON_NETWORK_START", "dc/d2c/a00893.html#af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3", null ],
-      [ "SERVERHOOK_ON_NETWORK_STOP", "dc/d2c/a00893.html#af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4", null ],
-      [ "SERVERHOOK_ON_SOCKET_OPEN", "dc/d2c/a00893.html#af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd", null ],
-      [ "SERVERHOOK_ON_SOCKET_CLOSE", "dc/d2c/a00893.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d", null ],
-      [ "SERVERHOOK_CAN_PACKET_SEND", "dc/d2c/a00893.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12", null ],
-      [ "SERVERHOOK_CAN_PACKET_RECEIVE", "dc/d2c/a00893.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971", null ],
-      [ "SERVERHOOK_END", "dc/d2c/a00893.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc", null ]
-    ] ]
+    [ "ScriptRegistry< AllItemScript >", "dc/d2c/a00893.html#a0f69164743e657905c670df85e97a29c", null ],
+    [ "ScriptRegistry< ItemScript >", "dc/d2c/a00893.html#a9f258d1e2f9fb6ce144923451b63f995", null ]
 ];

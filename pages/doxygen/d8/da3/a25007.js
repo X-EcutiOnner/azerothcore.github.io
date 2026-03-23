@@ -1,6 +1,6 @@
 var a25007 =
 [
-    [ "OnHit", "d8/da3/a25007.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "d8/da3/a25007.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "d8/da3/a25007.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "HandleEffectPeriodic", "d8/da3/a25007.html#a248ba0e88498e36355491b2b89063e17", null ],
+    [ "PrepareAuraScript", "d8/da3/a25007.html#ac9aed434fe7602ef846e9f052402620e", null ],
+    [ "Register", "d8/da3/a25007.html#a039eec910c802276b9e979253141cdee", null ]
 ];

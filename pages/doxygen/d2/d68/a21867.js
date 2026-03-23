@@ -1,6 +1,6 @@
 var a21867 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d3/d64/a21871.html", "d3/d64/a21871" ],
-    [ "npc_steam_powered_auctioneer", "d2/d68/a21867.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "d2/d68/a21867.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "HandleHealPct", "d2/d68/a21867.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "d2/d68/a21867.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "d2/d68/a21867.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

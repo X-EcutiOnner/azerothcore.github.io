@@ -1,6 +1,7 @@
 var a25123 =
 [
-    [ "CheckProc", "d3/d84/a25123.html#ad1678a96784add01965d67c3d86bcd77", null ],
-    [ "PrepareAuraScript", "d3/d84/a25123.html#a6e164a8e3482b566b776c5ffeeb1b6ac", null ],
-    [ "Register", "d3/d84/a25123.html#a148f3fe7ee4bdc8e148fe71100779e56", null ]
+    [ "EjectPassenger", "d3/d84/a25123.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "d3/d84/a25123.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "d3/d84/a25123.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "d3/d84/a25123.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

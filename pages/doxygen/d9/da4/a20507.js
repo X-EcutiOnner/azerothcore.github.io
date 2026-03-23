@@ -1,5 +1,11 @@
 var a20507 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "d9/da4/a20507.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "d9/da4/a20507.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "boss_thorim_arena_npcs", "d9/da4/a20507.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "d9/da4/a20507.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "d9/da4/a20507.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "d9/da4/a20507.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "d9/da4/a20507.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "d9/da4/a20507.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "d9/da4/a20507.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "d9/da4/a20507.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

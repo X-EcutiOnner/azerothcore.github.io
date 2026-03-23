@@ -1,7 +1,7 @@
 var a11675 =
 [
-    [ "StringTransaction", "d8/d7a/a11675.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "d8/d7a/a11675.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "d8/d7a/a11675.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "d8/d7a/a11675.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "SpellImmune", "d8/d7a/a11675.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "d8/d7a/a11675.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "d8/d7a/a11675.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "d8/d7a/a11675.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

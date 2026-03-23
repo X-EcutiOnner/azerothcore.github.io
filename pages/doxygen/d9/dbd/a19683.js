@@ -1,12 +1,9 @@
 var a19683 =
 [
-    [ "npc_oculus_drakeAI", "d9/dbd/a19683.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "d9/dbd/a19683.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "d9/dbd/a19683.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "d9/dbd/a19683.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "d9/dbd/a19683.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "d9/dbd/a19683.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "d9/dbd/a19683.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "d9/dbd/a19683.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "d9/dbd/a19683.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "npc_stormforged_lieutenant", "d9/dbd/a19683.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
+    [ "JustEngagedWith", "d9/dbd/a19683.html#a262ac995279b1a936534c858e21122a9", null ],
+    [ "Reset", "d9/dbd/a19683.html#abc359564370152b28a002a801ba1ab3d", null ],
+    [ "UpdateAI", "d9/dbd/a19683.html#a4c207f0ef172585b97695b63e119d1bc", null ],
+    [ "BjarngrimGUID", "d9/dbd/a19683.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
+    [ "events", "d9/dbd/a19683.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
 ];

@@ -1,7 +1,6 @@
 var a11887 =
 [
-    [ "gear_commandscript", "d6/d92/a11887.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
-    [ "GetCommands", "d6/d92/a11887.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
-    [ "HandleGearRepairCommand", "d6/d92/a11887.html#a28cd5680f07f984326d79d91adbbfd70", null ],
-    [ "HandleGearStatsCommand", "d6/d92/a11887.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
+    [ "EffectProcHandler", "d6/d92/a11887.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
+    [ "Call", "d6/d92/a11887.html#ae03d27451f687319629b3c54c5a7eed5", null ],
+    [ "_EffectHandlerScript", "d6/d92/a11887.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
 ];

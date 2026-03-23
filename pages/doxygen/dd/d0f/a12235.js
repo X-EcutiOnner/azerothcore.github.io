@@ -1,5 +1,5 @@
 var a12235 =
 [
-    [ "boss_moira_bronzebeard", "dd/d0f/a12235.html#abb9a87023b8afa242e60f9694dea1c39", null ],
-    [ "GetAI", "dd/d0f/a12235.html#ad99554aac80c79933b78ab4b6d42cc4f", null ]
+    [ "flag", "dd/d0f/a12235.html#abde26bce31a9153038294f78e9fdc18c", null ],
+    [ "text", "dd/d0f/a12235.html#a3bf2ae3fd8a347ee70e2c537d909ce30", null ]
 ];

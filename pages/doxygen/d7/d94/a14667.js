@@ -1,7 +1,7 @@
 var a14667 =
 [
-    [ "go_loosely_turned_soilAI", "db/d91/a14671.html", "db/d91/a14671" ],
-    [ "go_loosely_turned_soil", "d7/d94/a14667.html#a3b4d51e2b3a604e030962127269236f1", null ],
-    [ "GetAI", "d7/d94/a14667.html#acead5810a848f8837fa65af1f2ac00bd", null ],
-    [ "OnQuestReward", "d7/d94/a14667.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
+    [ "HandleEffectApply", "d7/d94/a14667.html#a22f3143b10155635194abe22994a397c", null ],
+    [ "HandleEffectRemove", "d7/d94/a14667.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
+    [ "PrepareAuraScript", "d7/d94/a14667.html#abb4f53a42e701323b2fc66598ec3503c", null ],
+    [ "Register", "d7/d94/a14667.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
 ];

@@ -1,6 +1,6 @@
 var a19623 =
 [
-    [ "boss_drakosAI", "df/d98/a19627.html", "df/d98/a19627" ],
-    [ "boss_drakos", "d7/d78/a19623.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d7/d78/a19623.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "npc_centrifuge_constructAI", "df/d98/a19627.html", "df/d98/a19627" ],
+    [ "npc_centrifuge_construct", "d7/d78/a19623.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "d7/d78/a19623.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

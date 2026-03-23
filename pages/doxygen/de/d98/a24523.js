@@ -1,6 +1,9 @@
 var a24523 =
 [
-    [ "PrepareSpellScript", "de/d98/a24523.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
-    [ "Register", "de/d98/a24523.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
-    [ "SetDest", "de/d98/a24523.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
+    [ "Absorb", "de/d98/a24523.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
+    [ "CalculateAmount", "de/d98/a24523.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
+    [ "Load", "de/d98/a24523.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
+    [ "PrepareAuraScript", "de/d98/a24523.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
+    [ "Register", "de/d98/a24523.html#a47bd5ef93255a2d926874d6d70861374", null ],
+    [ "absorbPct", "de/d98/a24523.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
 ];

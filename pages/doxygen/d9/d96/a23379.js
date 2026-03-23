@@ -1,6 +1,7 @@
 var a23379 =
 [
-    [ "HandleEffectApply", "d9/d96/a23379.html#adbfce9b247a8a36d143243955372dc91", null ],
-    [ "PrepareAuraScript", "d9/d96/a23379.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6", null ],
-    [ "Register", "d9/d96/a23379.html#afb919ed484440d382b9d1ac7cf6f3f14", null ]
+    [ "HandleOnApply", "d9/d96/a23379.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "d9/d96/a23379.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "d9/d96/a23379.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "d9/d96/a23379.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

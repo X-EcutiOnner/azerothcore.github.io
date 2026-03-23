@@ -1,8 +1,5 @@
 var a10979 =
 [
-    [ "PauseMirrorTimer", "db/dbc/a10979.html#a05ccc52cb56d38cadb27fbde2563df45", null ],
-    [ "PauseMirrorTimer", "db/dbc/a10979.html#ad6e7a6eb3edadc235dc5bb97802381ac", null ],
-    [ "Write", "db/dbc/a10979.html#aea61f9e668173b65eac3b9f42ddd68a1", null ],
-    [ "Paused", "db/dbc/a10979.html#a7adf6dcd7e712792ea94bad77f8be232", null ],
-    [ "Timer", "db/dbc/a10979.html#a4a041bf772ef3f145bde6be9f8ecdc13", null ]
+    [ "GuildDelete", "db/dbc/a10979.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
+    [ "Read", "db/dbc/a10979.html#ae5ca379b187902323638f4c10be0a4d0", null ]
 ];

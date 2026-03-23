@@ -1,12 +1,12 @@
 var a10179 =
 [
-    [ "delay", "dd/dcb/a10179.html#aa05ef99c3e04589501362a07d0dd032a", null ],
-    [ "event_chance", "dd/dcb/a10179.html#af54f2d38ca1a11664f516799f3bb80c8", null ],
-    [ "event_id", "dd/dcb/a10179.html#a083020691278af836e48f0a0c2feff96", null ],
-    [ "id", "dd/dcb/a10179.html#af7248c313ceefedb5b7ff6ed4c2ffd6b", null ],
-    [ "move_type", "dd/dcb/a10179.html#afb1a57b423a258e99c6921727a27e2e7", null ],
-    [ "orientation", "dd/dcb/a10179.html#a971411811b0e60839538f82cd55dcfb7", null ],
-    [ "x", "dd/dcb/a10179.html#a2dfd7f1f946ebef0b67d8f1542198b4b", null ],
-    [ "y", "dd/dcb/a10179.html#a574c5ba7eb5e6bd55f6c55bb511c03f7", null ],
-    [ "z", "dd/dcb/a10179.html#a013fa650f43e790e652016fbce2e1bd5", null ]
+    [ "TransportTemplate", "dd/dcb/a10179.html#aef4781a37808827e3ceaffc782c3af1e", null ],
+    [ "~TransportTemplate", "dd/dcb/a10179.html#afc385d824c171d13a184bc0a16121110", null ],
+    [ "accelDist", "dd/dcb/a10179.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
+    [ "accelTime", "dd/dcb/a10179.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
+    [ "entry", "dd/dcb/a10179.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
+    [ "inInstance", "dd/dcb/a10179.html#a971c84762c229b01cab656945f0c16de", null ],
+    [ "keyFrames", "dd/dcb/a10179.html#ac714531f226ca06c3586cf3f6cc06808", null ],
+    [ "mapsUsed", "dd/dcb/a10179.html#a93899b0648871ed8ca32dfe8394347c1", null ],
+    [ "pathTime", "dd/dcb/a10179.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
 ];

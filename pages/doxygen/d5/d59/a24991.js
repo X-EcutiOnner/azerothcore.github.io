@@ -1,7 +1,7 @@
 var a24991 =
 [
-    [ "FilterTargets", "d5/d59/a24991.html#af6daf7022fc4cd18909056089c249c8a", null ],
-    [ "HandleDummy", "d5/d59/a24991.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
-    [ "PrepareSpellScript", "d5/d59/a24991.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
-    [ "Register", "d5/d59/a24991.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
+    [ "HandleDummy", "d5/d59/a24991.html#a582208e608c9fdca7464b817c76c13b3", null ],
+    [ "PrepareSpellScript", "d5/d59/a24991.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
+    [ "Register", "d5/d59/a24991.html#a3882606b9e9201163cf76cb20b8e6364", null ],
+    [ "Validate", "d5/d59/a24991.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
 ];

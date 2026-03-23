@@ -1,0 +1,27 @@
+var a29255 =
+[
+    [ "ProcTestContext", "db/d07/a29255.html#a3be4a95c438667ccdd0cbed0d606a46b", null ],
+    [ "GetActor", "db/d07/a29255.html#aa253eaa33458abfa16562c288a23b34f", null ],
+    [ "GetActor", "db/d07/a29255.html#ae25b85f794cc9174bc67a0a2d28fab8c", null ],
+    [ "GetAura", "db/d07/a29255.html#a2892ee3c159c616c6b1cd9bb7d4edc21", null ],
+    [ "GetAura", "db/d07/a29255.html#ae05f6f826284e174d8bcba0902758bd0", null ],
+    [ "GetDamageInfo", "db/d07/a29255.html#a0ffdd8fa38d8d98fa7beee6d08a44bdb", null ],
+    [ "GetDamageInfo", "db/d07/a29255.html#ab9821a9a36ab9c54c44726b00bde5c1c", null ],
+    [ "GetHealInfo", "db/d07/a29255.html#acf3d0ab18a726decfb635fd0aa83d5db", null ],
+    [ "GetHealInfo", "db/d07/a29255.html#a538e45b713a53a45d453e0ea79993e8b", null ],
+    [ "GetTarget", "db/d07/a29255.html#a0abd60970b6588ffdc80fa4030554979", null ],
+    [ "GetTarget", "db/d07/a29255.html#ae1ee18f20e12406a8979a611285ab7ef", null ],
+    [ "WithActorAsPlayer", "db/d07/a29255.html#ae2a9f04d30cbb14fc1d528a58521a602", null ],
+    [ "WithAuraCharges", "db/d07/a29255.html#a544da38ede50c01868a3e918efcad8a1", null ],
+    [ "WithAuraId", "db/d07/a29255.html#a538af7b841e7e64d16e53e57e303b3e0", null ],
+    [ "WithAuraSpellFamily", "db/d07/a29255.html#a43c994ff3ac8fc4d1b535beffea985bc", null ],
+    [ "WithCriticalHit", "db/d07/a29255.html#aaf70bafc7d7fa0fc030ac2a3988c2bfe", null ],
+    [ "WithDamage", "db/d07/a29255.html#a46b0dc60ef6bc0d433a4089c4e755d8e", null ],
+    [ "WithHeal", "db/d07/a29255.html#a4f396c33b767cce2c538c94578dcdcbd", null ],
+    [ "WithNormalHit", "db/d07/a29255.html#af0cf99f26f6f220bb2da889bcd139a5e", null ],
+    [ "_actor", "db/d07/a29255.html#ac62553cbe1667cbfd695ca3bd9834184", null ],
+    [ "_aura", "db/d07/a29255.html#aaaa64249b6f8bd281834e2b7c309ed38", null ],
+    [ "_damageInfo", "db/d07/a29255.html#aa76666ba435170552f3b9a355bf2d0b8", null ],
+    [ "_healInfo", "db/d07/a29255.html#aab8d47fcad592c5269991e85b3ad2cf0", null ],
+    [ "_target", "db/d07/a29255.html#a7dcbdab19d62f509912d7067075bd82d", null ]
+];

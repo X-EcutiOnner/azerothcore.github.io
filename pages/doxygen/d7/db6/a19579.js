@@ -1,14 +1,15 @@
 var a19579 =
 [
-    [ "boss_keristrasza", "d7/db6/a19579.html#a5f83fee9a5616751601f0c1155afab36", null ],
-    [ "CanRemovePrison", "d7/db6/a19579.html#a900a4a8428a04b880462b20196e94858", null ],
-    [ "GetData", "d7/db6/a19579.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
-    [ "JustDied", "d7/db6/a19579.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
-    [ "JustEngagedWith", "d7/db6/a19579.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
-    [ "KilledUnit", "d7/db6/a19579.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
-    [ "RemovePrison", "d7/db6/a19579.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
-    [ "Reset", "d7/db6/a19579.html#a13dce974fa83577397a80ff52de5d835", null ],
-    [ "SetData", "d7/db6/a19579.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
-    [ "UpdateAI", "d7/db6/a19579.html#a46a2e61e27cc72710c7aa14212673eae", null ],
-    [ "aGuids", "d7/db6/a19579.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
+    [ "boss_eregosAI", "d7/db6/a19579.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
+    [ "DamageTaken", "d7/db6/a19579.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
+    [ "JustDied", "d7/db6/a19579.html#ade16be2804b857fc8e93a62d4be42380", null ],
+    [ "JustEngagedWith", "d7/db6/a19579.html#a1544782732beba5d7114c3bb70419ae1", null ],
+    [ "JustSummoned", "d7/db6/a19579.html#a33ef5a080e457f4e08e7997b467b0974", null ],
+    [ "KilledUnit", "d7/db6/a19579.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
+    [ "MoveInLineOfSight", "d7/db6/a19579.html#ac622481abb0190bdc7654b383766a9ed", null ],
+    [ "Reset", "d7/db6/a19579.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
+    [ "UpdateAI", "d7/db6/a19579.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
+    [ "events", "d7/db6/a19579.html#ae6f1f2e3146525596c3dbb646283b744", null ],
+    [ "pInstance", "d7/db6/a19579.html#abf0b366d7b0931ccc30711a33736dda8", null ],
+    [ "shiftNumber", "d7/db6/a19579.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
 ];

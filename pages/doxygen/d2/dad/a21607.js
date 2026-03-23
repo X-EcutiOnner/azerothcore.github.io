@@ -1,5 +1,7 @@
 var a21607 =
 [
-    [ "go_vh_activation_crystal", "d2/dad/a21607.html#a4af485ac7ab6144282f3204a6d045cea", null ],
-    [ "OnGossipHello", "d2/dad/a21607.html#a47a61ba67086580135559332931e9c6e", null ]
+    [ "OnRemove", "d2/dad/a21607.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "d2/dad/a21607.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "d2/dad/a21607.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "d2/dad/a21607.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

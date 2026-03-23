@@ -1,10 +1,8 @@
 var a29099 =
 [
-    [ "ADTFile", "db/d38/a29099.html#a763f0f9c1106700987797864b2fdb006", null ],
-    [ "~ADTFile", "db/d38/a29099.html#ad1533f5b630a70b6ff95861e64960de0", null ],
-    [ "init", "db/d38/a29099.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
-    [ "_file", "db/d38/a29099.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
-    [ "Adtfilename", "db/d38/a29099.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
-    [ "ModelInstanceNames", "db/d38/a29099.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
-    [ "WmoInstanceNames", "db/d38/a29099.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
+    [ "Color", "db/d38/a29099.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "db/d38/a29099.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "db/d38/a29099.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "db/d38/a29099.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "db/d38/a29099.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

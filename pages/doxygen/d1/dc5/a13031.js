@@ -1,18 +1,11 @@
 var a13031 =
 [
-    [ "boss_romulo", "d1/dc5/a13031.html#a497e0e57d2abb6640081c1d141a588ff", null ],
-    [ "DamageTaken", "d1/dc5/a13031.html#a603db3883d03367406cbcf3f2cb28a08", null ],
-    [ "DoAction", "d1/dc5/a13031.html#acc23f4f4f5856b9956a764c1f69bbc92", null ],
-    [ "EnterEvadeMode", "d1/dc5/a13031.html#ab4dda6b70337668dd36a582e8439c3db", null ],
-    [ "JustDied", "d1/dc5/a13031.html#aa60d8fe07db9444f25eec9de9e5bf365", null ],
-    [ "JustEngagedWith", "d1/dc5/a13031.html#ab13e2a4ebe8a1956f6de460cdb9b199d", null ],
-    [ "JustReachedHome", "d1/dc5/a13031.html#af8bff3f1c107dc7d8beae7956a25fbcc", null ],
-    [ "KilledUnit", "d1/dc5/a13031.html#ae4ca6736913cc8df4d016876a8fd8576", null ],
-    [ "Reset", "d1/dc5/a13031.html#a15703ee7df979b8ee5892dacf84066e2", null ],
-    [ "ScheduleCombat", "d1/dc5/a13031.html#a4cc20dccb171d1f4d3c680b6b5310e73", null ],
-    [ "UpdateAI", "d1/dc5/a13031.html#ac42df238a2ad354a2fb21ebb558734c6", null ],
-    [ "_scheduler", "d1/dc5/a13031.html#a456abfa48f038e904c427179c2a10edb", null ],
-    [ "instance", "d1/dc5/a13031.html#aae979b72844ff8fcc70956925df4fa9b", null ],
-    [ "isFakingDeath", "d1/dc5/a13031.html#a88ccbe761b4703e4f309d1bb3fca4085", null ],
-    [ "phase", "d1/dc5/a13031.html#ab549436aec35727665150d51f1c25714", null ]
+    [ "boss_terestian_illhoof", "d1/dc5/a13031.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "d1/dc5/a13031.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "d1/dc5/a13031.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "d1/dc5/a13031.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "d1/dc5/a13031.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "d1/dc5/a13031.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "d1/dc5/a13031.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "d1/dc5/a13031.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

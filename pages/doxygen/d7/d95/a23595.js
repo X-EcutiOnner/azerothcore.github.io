@@ -1,8 +1,6 @@
 var a23595 =
 [
-    [ "boss_mekgineer_steamrigger", "d7/d95/a23595.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "d7/d95/a23595.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "d7/d95/a23595.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "d7/d95/a23595.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "d7/d95/a23595.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "HandleScriptEffect", "d7/d95/a23595.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
+    [ "PrepareSpellScript", "d7/d95/a23595.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
+    [ "Register", "d7/d95/a23595.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
 ];

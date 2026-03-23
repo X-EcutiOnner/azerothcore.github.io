@@ -1,12 +1,8 @@
 var a22343 =
 [
-    [ "npc_tournament_training_dummyAI", "da/d30/a22343.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
-    [ "DamageTaken", "da/d30/a22343.html#a98c18794124922e6946a82a324410837", null ],
-    [ "EnterEvadeMode", "da/d30/a22343.html#a3f31d705284b0fad2f00c9210ff06646", null ],
-    [ "MoveInLineOfSight", "da/d30/a22343.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
-    [ "Reset", "da/d30/a22343.html#a7339ffe52dc789f9480afca7141a169e", null ],
-    [ "SpellHit", "da/d30/a22343.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
-    [ "UpdateAI", "da/d30/a22343.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
-    [ "events", "da/d30/a22343.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
-    [ "isVulnerable", "da/d30/a22343.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
+    [ "boss_tavarok", "da/d30/a22343.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "da/d30/a22343.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "da/d30/a22343.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "da/d30/a22343.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "da/d30/a22343.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

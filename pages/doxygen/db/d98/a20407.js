@@ -1,6 +1,5 @@
 var a20407 =
 [
-    [ "npc_ulduar_toasty_fireAI", "db/d98/a20407.html#a145001c6f1c1d505f810ae545ec62c69", null ],
-    [ "DoAction", "db/d98/a20407.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
-    [ "SpellHit", "db/d98/a20407.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
+    [ "achievement_mimiron_firefighter", "db/d98/a20407.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
+    [ "OnCheck", "db/d98/a20407.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
 ];

@@ -1,7 +1,6 @@
 var a18627 =
 [
-    [ "CalculateBonus", "d7/d27/a18627.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "d7/d27/a18627.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "d7/d27/a18627.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "d7/d27/a18627.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "npc_lk_spirit_bombAI", "d5/d62/a18631.html", "d5/d62/a18631" ],
+    [ "npc_lk_spirit_bomb", "d7/d27/a18627.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "d7/d27/a18627.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

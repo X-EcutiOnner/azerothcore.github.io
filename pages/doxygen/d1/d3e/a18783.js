@@ -1,6 +1,7 @@
 var a18783 =
 [
-    [ "npc_gluttonous_abominationAI", "d7/db9/a18787.html", "d7/db9/a18787" ],
-    [ "npc_gluttonous_abomination", "d1/d3e/a18783.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
-    [ "GetAI", "d1/d3e/a18783.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
+    [ "HandleForceCast", "d1/d3e/a18783.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "d1/d3e/a18783.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "d1/d3e/a18783.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "d1/d3e/a18783.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

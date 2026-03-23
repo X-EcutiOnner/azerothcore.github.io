@@ -1,6 +1,7 @@
 var a06191 =
 [
-    [ "TriggerAI", "d8/d67/a06191.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
-    [ "IsSummonedBy", "d8/d67/a06191.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
-    [ "Permissible", "d8/d67/a06191.html#aa979e7a4774b35bf83ed137543d517b1", null ]
+    [ "arg1", "d8/d67/a06191.html#aa2018e5823bcf013847605847231e3c2", null ],
+    [ "arg2", "d8/d67/a06191.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
+    [ "arg3", "d8/d67/a06191.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
+    [ "updateType", "d8/d67/a06191.html#a84cace2469c54d57b33abe5ca93588ca", null ]
 ];

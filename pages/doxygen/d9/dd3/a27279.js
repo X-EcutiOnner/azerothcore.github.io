@@ -1,5 +1,7 @@
 var a27279 =
 [
-    [ "achievement_save_the_day", "d9/dd3/a27279.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "d9/dd3/a27279.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "HandleProc", "d9/dd3/a27279.html#aeaeacf85b822cc7427234fe469aaff7f", null ],
+    [ "PrepareAuraScript", "d9/dd3/a27279.html#ac9df7bea2f626b95291c18c740968da6", null ],
+    [ "Register", "d9/dd3/a27279.html#a7152aa6ab02938d981ee83875e533b32", null ],
+    [ "Validate", "d9/dd3/a27279.html#a0e488d9d96e37a20887f0befc1950dd5", null ]
 ];

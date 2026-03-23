@@ -1,12 +1,12 @@
 var a03374 =
 [
-    [ "ACScriptName", "d4/d6f/a03374.html#a44e28f969fff2c33cf76b8eaaff1898c", null ],
-    [ "DataHeader", "d4/d6f/a03374.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAuchenaiCryptsCreatureAI", "d4/d6f/a03374.html#abf97bec93b670890ad0eaa7d6b4bd4b9", null ],
-    [ "ACDataTypes", "d4/d6f/a03374.html#aae3060cf5aa0b4d27bcbbfeee3db2856", [
-      [ "DATA_SHIRRAK_THE_DEAD_WATCHER", "d4/d6f/a03374.html#aae3060cf5aa0b4d27bcbbfeee3db2856a5d80917a3a5f108f9e625372181b85fe", null ],
-      [ "DATA_EXARCH_MALADAAR", "d4/d6f/a03374.html#aae3060cf5aa0b4d27bcbbfeee3db2856aa54edd3601b7953b0bf046fa8b1bd3f8", null ]
+    [ "instance_shadow_labyrinth", "d0/dc7/a22415.html", "d0/dc7/a22415" ],
+    [ "instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript", "d0/d95/a22419.html", "d0/d95/a22419" ],
+    [ "spell_mark_of_malice", "d5/dd3/a22423.html", "d5/dd3/a22423" ],
+    [ "MarkOfMalice", "d4/d6f/a03374.html#a5faa1e1ef40cd28efc7332da31667677", [
+      [ "SPELL_MARK_OF_MALICE_TRIGGERED", "d4/d6f/a03374.html#a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb", null ]
     ] ],
-    [ "GetAuchenaiCryptsAI", "d4/d6f/a03374.html#a8c9b9cbd7dca7c2e86d7ad3fe7bfd961", null ],
-    [ "EncounterCount", "d4/d6f/a03374.html#a31d630c40753c29f94ceac2db5e451a8", null ]
+    [ "AddSC_instance_shadow_labyrinth", "d4/d6f/a03374.html#ad8948ff8ccd6c3cee367ad7227308846", null ],
+    [ "creatureData", "d4/d6f/a03374.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d4/d6f/a03374.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

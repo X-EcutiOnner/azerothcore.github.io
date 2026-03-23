@@ -1,11 +1,7 @@
 var a13511 =
 [
-    [ "boss_alythess", "df/d73/a13511.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "df/d73/a13511.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "df/d73/a13511.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "df/d73/a13511.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "df/d73/a13511.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "df/d73/a13511.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "df/d73/a13511.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "df/d73/a13511.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "OnRemove", "df/d73/a13511.html#a55460c6393c165e3096c967c81136032", null ],
+    [ "PrepareAuraScript", "df/d73/a13511.html#afd4e4483f704169e6d213ced134d4c62", null ],
+    [ "Register", "df/d73/a13511.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
+    [ "Validate", "df/d73/a13511.html#af580258d287f5db6103b89d3085669bc", null ]
 ];

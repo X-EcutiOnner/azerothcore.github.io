@@ -1,6 +1,8 @@
 var a23307 =
 [
-    [ "OnPeriodic", "d6/d13/a23307.html#aef6afe014ce90711cd7628563aada2a4", null ],
-    [ "PrepareAuraScript", "d6/d13/a23307.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
-    [ "Register", "d6/d13/a23307.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
+    [ "npc_target_trigger", "d6/d13/a23307.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "d6/d13/a23307.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "d6/d13/a23307.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "d6/d13/a23307.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "d6/d13/a23307.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

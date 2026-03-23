@@ -1,4 +1,5 @@
 var a01868 =
 [
-    [ "HostileRefMgr", "d6/d23/a08073.html", "d6/d23/a08073" ]
+    [ "_characterCacheByNameStore", "dd/de7/a01868.html#a409431c82eb6a62b40d55a773cdb02c6", null ],
+    [ "_characterCacheStore", "dd/de7/a01868.html#a2a209686002fed926e50d55f7c7ca795", null ]
 ];

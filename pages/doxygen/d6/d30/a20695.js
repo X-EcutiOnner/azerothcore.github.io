@@ -1,12 +1,8 @@
 var a20695 =
 [
-    [ "npc_ulduar_flames_initialAI", "d6/d30/a20695.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
-    [ "DoAction", "d6/d30/a20695.html#a6169d12043e73e7991064decccf0926a", null ],
-    [ "RemoveAll", "d6/d30/a20695.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
-    [ "RemoveFlame", "d6/d30/a20695.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
-    [ "SpreadFlame", "d6/d30/a20695.html#ae801181472a8e29208a4f305fb0307f9", null ],
-    [ "UpdateAI", "d6/d30/a20695.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
-    [ "CreateTime", "d6/d30/a20695.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
-    [ "events", "d6/d30/a20695.html#a89217e11f9930b336665969791fc84b9", null ],
-    [ "FlameList", "d6/d30/a20695.html#a75b218699a42ece4959d0a1fe40713d7", null ]
+    [ "Absorb", "d6/d30/a20695.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "d6/d30/a20695.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "d6/d30/a20695.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "d6/d30/a20695.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "d6/d30/a20695.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

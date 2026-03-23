@@ -1,8 +1,6 @@
 var a10779 =
 [
-    [ "GuildBankQueryTab", "db/d4a/a10779.html#a29fc27016b597f051898db7bb30214c8", null ],
-    [ "Read", "db/d4a/a10779.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
-    [ "Banker", "db/d4a/a10779.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
-    [ "FullUpdate", "db/d4a/a10779.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
-    [ "Tab", "db/d4a/a10779.html#a949488c1696f92cb0a081cf28bffb48f", null ]
+    [ "BuyBankSlot", "db/d4a/a10779.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "db/d4a/a10779.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "db/d4a/a10779.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

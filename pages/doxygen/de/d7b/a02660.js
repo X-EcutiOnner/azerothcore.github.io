@@ -1,7 +1,8 @@
 var a02660 =
 [
-    [ "UpdateResult", "d9/d6f/a06149.html", "d9/d6f/a06149" ],
-    [ "UpdateFetcher", "d1/dc5/a06153.html", "d1/dc5/a06153" ],
-    [ "UpdateFetcher::AppliedFileEntry", "d9/d8a/a06157.html", "d9/d8a/a06157" ],
-    [ "UpdateFetcher::PathCompare", "d1/d3d/a06161.html", "d1/d3d/a06161" ]
+    [ "TransactionBase", "d3/d0b/a06139.html", "d3/d0b/a06139" ],
+    [ "Transaction< T >", "d0/d5d/a05955.html", "d0/d5d/a05955" ],
+    [ "TransactionTask", "d7/dc5/a06143.html", "d7/dc5/a06143" ],
+    [ "TransactionWithResultTask", "d1/d10/a06147.html", "d1/d10/a06147" ],
+    [ "TransactionCallback", "d2/dc1/a06151.html", "d2/dc1/a06151" ]
 ];

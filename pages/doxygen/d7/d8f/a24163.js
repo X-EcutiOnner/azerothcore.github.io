@@ -1,11 +1,6 @@
 var a24163 =
 [
-    [ "boss_pathaleon_the_calculator", "d7/d8f/a24163.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d7/d8f/a24163.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d7/d8f/a24163.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d7/d8f/a24163.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d7/d8f/a24163.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d7/d8f/a24163.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d7/d8f/a24163.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d7/d8f/a24163.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "DeathEvent", "d7/d8f/a24163.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "d7/d8f/a24163.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "d7/d8f/a24163.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

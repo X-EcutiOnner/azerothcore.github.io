@@ -1,27 +1,8 @@
 var a03098 =
 [
-    [ "npc_shenthul", "db/de4/a16013.html", "db/de4/a16013" ],
-    [ "npc_shenthul::npc_shenthulAI", "d7/dfc/a16017.html", "d7/dfc/a16017" ],
-    [ "npc_thrall_warchief", "d9/d64/a16021.html", "d9/d64/a16021" ],
-    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "df/d86/a16025.html", "df/d86/a16025" ],
-    [ "Shenthul", "d8/db1/a03098.html#a032512bb2693fda342f4d77dba794fbe", [
-      [ "QUEST_SHATTERED_SALUTE", "d8/db1/a03098.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
-    ] ],
-    [ "ThrallWarchief", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9", [
-      [ "SPELL_CHAIN_LIGHTNING", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_SHOCK", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
-      [ "QUEST_FOR_THE_HORDE", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
-      [ "SPELL_WARCHIEF_BLESSING", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
-      [ "NPC_HERALD_OF_THRALL", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
-      [ "ACTION_START_TALKING", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
-      [ "SAY_THRALL_ON_QUEST_REWARD_0", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
-      [ "SAY_THRALL_ON_QUEST_REWARD_1", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
-      [ "GO_UNADORNED_SPIKE", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
-      [ "QUEST_WHAT_THE_WIND_CARRIES", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
-      [ "GOSSIP_MENU_THRALL", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86", null ],
-      [ "GOSSIP_RESPONSE_THRALL_FIRST", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d", null ],
-      [ "QUEST_WARCHIEFS_BLESSING", "d8/db1/a03098.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047", null ]
-    ] ],
-    [ "AddSC_orgrimmar", "d8/db1/a03098.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
-    [ "heraldOfThrallPos", "d8/db1/a03098.html#a016aeee1d0eac9c78c522520663670f0", null ]
+    [ "instance_temple_of_ahnqiraj", "dc/de0/a15531.html", "dc/de0/a15531" ],
+    [ "instance_temple_of_ahnqiraj::instance_temple_of_ahnqiraj_InstanceMapScript", "dc/d2d/a15535.html", "dc/d2d/a15535" ],
+    [ "AddSC_instance_temple_of_ahnqiraj", "d8/db1/a03098.html#a60077e2c1e4137c99545119e5eeb1bb3", null ],
+    [ "creatureData", "d8/db1/a03098.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d8/db1/a03098.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

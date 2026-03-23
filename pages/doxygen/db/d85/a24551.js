@@ -1,6 +1,8 @@
 var a24551 =
 [
-    [ "npc_unkor_the_ruthlessAI", "df/dec/a24555.html", "df/dec/a24555" ],
-    [ "npc_unkor_the_ruthless", "db/d85/a24551.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "db/d85/a24551.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "AfterApply", "db/d85/a24551.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "db/d85/a24551.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "db/d85/a24551.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "db/d85/a24551.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "db/d85/a24551.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

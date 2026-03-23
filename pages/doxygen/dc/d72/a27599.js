@@ -1,5 +1,6 @@
 var a27599 =
 [
-    [ "go_scourge_cage", "dc/d72/a27599.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
-    [ "OnGossipHello", "dc/d72/a27599.html#ab4e97cd290342d623d212cc7cec227d5", null ]
+    [ "HandleHeal", "dc/d72/a27599.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "dc/d72/a27599.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "dc/d72/a27599.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

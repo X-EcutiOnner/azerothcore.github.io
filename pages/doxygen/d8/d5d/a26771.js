@@ -1,7 +1,7 @@
 var a26771 =
 [
-    [ "HandleDummy", "d8/d5d/a26771.html#a2ea424e6c740305340001b1c09bfec91", null ],
-    [ "PrepareSpellScript", "d8/d5d/a26771.html#afe722c970155b47eac94bb9861a4eb46", null ],
-    [ "Register", "d8/d5d/a26771.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
-    [ "Validate", "d8/d5d/a26771.html#ac5f782da8b5e387c31e048759baf3e16", null ]
+    [ "CheckTarget", "d8/d5d/a26771.html#abaef73201d2e0bd1d6789309442019e0", null ],
+    [ "HandleScriptEffect", "d8/d5d/a26771.html#a545196cd976bfabbd85ba48942012e1e", null ],
+    [ "PrepareSpellScript", "d8/d5d/a26771.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
+    [ "Register", "d8/d5d/a26771.html#a36563a197b7377660b7c3f9e85d478bd", null ]
 ];

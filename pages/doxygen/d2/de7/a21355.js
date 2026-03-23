@@ -1,6 +1,7 @@
 var a21355 =
 [
-    [ "npc_frenzied_worgenAI", "df/dc4/a21359.html", "df/dc4/a21359" ],
-    [ "npc_frenzied_worgen", "d2/de7/a21355.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d2/de7/a21355.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "HandleEffectHit", "d2/de7/a21355.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "d2/de7/a21355.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "d2/de7/a21355.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "d2/de7/a21355.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

@@ -1,8 +1,6 @@
 var a19547 =
 [
-    [ "FilterTargets", "d7/daa/a19547.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "Load", "d7/daa/a19547.html#a639105c26214d9887b84a482ca93eb26", null ],
-    [ "PrepareSpellScript", "d7/daa/a19547.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "d7/daa/a19547.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
-    [ "DrakeGUID", "d7/daa/a19547.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
+    [ "instance_nexus_InstanceMapScript", "d7/d4d/a19551.html", "d7/d4d/a19551" ],
+    [ "instance_nexus", "d7/daa/a19547.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "d7/daa/a19547.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

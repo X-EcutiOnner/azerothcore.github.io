@@ -1,6 +1,6 @@
 var a24091 =
 [
-    [ "HandleScriptEffect", "dd/d40/a24091.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "dd/d40/a24091.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "dd/d40/a24091.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "achievement", "dd/d40/a24091.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "dd/d40/a24091.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "dd/d40/a24091.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

@@ -1,7 +1,7 @@
 var a11983 =
 [
-    [ "player_commandscript", "d6/d3c/a11983.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
-    [ "GetCommands", "d6/d3c/a11983.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
-    [ "HandlePlayerLearnCommand", "d6/d3c/a11983.html#a6ca511bcecf73049665772cb80dbcf40", null ],
-    [ "HandlePlayerUnLearnCommand", "d6/d3c/a11983.html#a22fddb5da1278fe794a78a899c423bfd", null ]
+    [ "PlayerDumpReader", "d6/d3c/a11983.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "d6/d3c/a11983.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "d6/d3c/a11983.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "d6/d3c/a11983.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

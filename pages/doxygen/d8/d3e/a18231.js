@@ -1,10 +1,12 @@
 var a18231 =
 [
-    [ "FilterTargets", "d8/d3e/a18231.html#aefba5226671b6217549bd34059519179", null ],
-    [ "Load", "d8/d3e/a18231.html#af8a2b651782783dc29ac7266ed02c028", null ],
-    [ "NotifyTargets", "d8/d3e/a18231.html#a618e98fbd5c6ae21047cc4f911099730", null ],
-    [ "PrepareSpellScript", "d8/d3e/a18231.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
-    [ "Register", "d8/d3e/a18231.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
-    [ "ReplaceTargets", "d8/d3e/a18231.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
-    [ "_target", "d8/d3e/a18231.html#a10c85fd3909e56f457d73add8021c0b7", null ]
+    [ "npc_precious_iccAI", "d8/d3e/a18231.html#a90dff89c652339ecf7479d2c9233962a", null ],
+    [ "JustDied", "d8/d3e/a18231.html#a06671144929a3783f17397b818016032", null ],
+    [ "JustEngagedWith", "d8/d3e/a18231.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
+    [ "JustSummoned", "d8/d3e/a18231.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
+    [ "Reset", "d8/d3e/a18231.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
+    [ "SummonedCreatureDespawn", "d8/d3e/a18231.html#af59e24c588861fe7d1bcd456780f571a", null ],
+    [ "UpdateAI", "d8/d3e/a18231.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
+    [ "events", "d8/d3e/a18231.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
+    [ "summons", "d8/d3e/a18231.html#ab752e504c7cf463a4447a07fbb67211c", null ]
 ];

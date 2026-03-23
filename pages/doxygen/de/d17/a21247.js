@@ -1,6 +1,10 @@
 var a21247 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "d0/ddf/a21251.html", "d0/ddf/a21251" ],
-    [ "npc_ulduar_storm_tempered_keeper", "de/d17/a21247.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
-    [ "GetAI", "de/d17/a21247.html#aa0860236d2abedba1e521ee1610c89e8", null ]
+    [ "npc_sinkhole_kill_creditAI", "de/d17/a21247.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "de/d17/a21247.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "de/d17/a21247.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "de/d17/a21247.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "de/d17/a21247.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "de/d17/a21247.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "de/d17/a21247.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

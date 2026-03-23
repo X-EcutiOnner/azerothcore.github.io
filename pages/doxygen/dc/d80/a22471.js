@@ -1,6 +1,7 @@
 var a22471 =
 [
-    [ "npc_roxi_ramrocket", "dc/d80/a22471.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "dc/d80/a22471.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "dc/d80/a22471.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "HandleEffectRemove", "dc/d80/a22471.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
+    [ "PrepareAuraScript", "dc/d80/a22471.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
+    [ "Register", "dc/d80/a22471.html#a9ee8e71020c17f593472de5a9c130753", null ],
+    [ "Validate", "dc/d80/a22471.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
 ];

@@ -1,6 +1,7 @@
 var a26687 =
 [
-    [ "HandleEffectApply", "d7/d98/a26687.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "d7/d98/a26687.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "d7/d98/a26687.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "HandleProc", "d7/d98/a26687.html#a512ec25fe649e42930d64effa4f7868b", null ],
+    [ "PrepareAuraScript", "d7/d98/a26687.html#ac1c7dcf63d7c67ec5fad424531519b58", null ],
+    [ "Register", "d7/d98/a26687.html#a6118148ac0e641a6c3e4490c2cdd86c0", null ],
+    [ "Validate", "d7/d98/a26687.html#a22dea9fb57d89b1d4813722968b5429f", null ]
 ];

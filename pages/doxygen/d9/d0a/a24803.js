@@ -1,7 +1,6 @@
 var a24803 =
 [
-    [ "CheckClass", "d9/d0a/a24803.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
-    [ "HandleScript", "d9/d0a/a24803.html#a4f4f7004be5629efdc48b52b6667edba", null ],
-    [ "PrepareSpellScript", "d9/d0a/a24803.html#a599ce758681c5196bd40e4c7b86635cc", null ],
-    [ "Register", "d9/d0a/a24803.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
+    [ "OnPeriodic", "d9/d0a/a24803.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "d9/d0a/a24803.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "d9/d0a/a24803.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

@@ -1,5 +1,6 @@
 var a25619 =
 [
-    [ "PrepareSpellScript", "d7/d82/a25619.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5", null ],
-    [ "Register", "d7/d82/a25619.html#a0ca6ec06108f964432f1cafc00b96313", null ]
+    [ "HandleSummon", "d7/d82/a25619.html#ad1ee0eb347454d50216610a266226d68", null ],
+    [ "PrepareSpellScript", "d7/d82/a25619.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
+    [ "Register", "d7/d82/a25619.html#aa145041af68291f107c3ff11ce15b85e", null ]
 ];

@@ -1,18 +1,13 @@
 var a29259 =
 [
-    [ "_ACORE_CORE_CONFIG", "de/d69/a04679.html#ga1d466b8deaea4c5b80b4abcdc38991fd", null ],
-    [ "ClearOnlineAccounts", "de/d69/a04679.html#ga285010ee0ae83f9198f08fa3145877d7", null ],
-    [ "GetConsoleArguments", "de/d69/a04679.html#gab889056920cce8fbe96e920cea5fd9e6", null ],
-    [ "LoadRealmInfo", "de/d69/a04679.html#ga74b21e249952fe0d6d779ee217c76dc5", null ],
-    [ "main", "de/d69/a04679.html#ga3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "ShutdownCLIThread", "de/d69/a04679.html#gaafe46b3c9a56a31faa60963b6a1f202a", null ],
-    [ "SignalHandler", "de/d69/a04679.html#gad82d96de9a84a7d0325afcd3121344a4", null ],
-    [ "StartDB", "de/d69/a04679.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StartRaSocketAcceptor", "de/d69/a04679.html#ga0781c2ca38d89a89b174f81fb895285b", null ],
-    [ "StopDB", "de/d69/a04679.html#ga927af1587546ee7503a3b9a18f6439c0", null ],
-    [ "WorldUpdateLoop", "de/d69/a04679.html#ga62605923595bdfa644784c8a929fa1a7", null ],
-    [ "m_ServiceStatus", "de/d69/a04679.html#gabad888b856358b30aa3928d7e01916fb", null ],
-    [ "serviceDescription", "de/d69/a04679.html#ga2994dda4045f1e2d3d675565a16a4dd2", null ],
-    [ "serviceLongName", "de/d69/a04679.html#ga34b5207234887e0d62724cf770037f6f", null ],
-    [ "serviceName", "de/d69/a04679.html#ga69c549a4f4a1e88fa4a2c38cde62f569", null ]
+    [ "Context", "d8/dcd/a29259.html#a0dd9f22f9528a05b229828e4a2c97757", null ],
+    [ "CreateEventInfo", "d8/dcd/a29259.html#a81032fc22ce45902d34cf897606bd966", null ],
+    [ "CreateProcEntry", "d8/dcd/a29259.html#a26531bd3f3256075455b32b42a172f6a", null ],
+    [ "CreateSpellInfo", "d8/dcd/a29259.html#adee75944dc2e9a3fff7848d0ccfff527", null ],
+    [ "SetUp", "d8/dcd/a29259.html#a65b0d4a0beb4c2f986f71ff5732e0f3c", null ],
+    [ "TearDown", "d8/dcd/a29259.html#a782580d41f8233b93d51fe347601e730", null ],
+    [ "TestCanProc", "d8/dcd/a29259.html#a409ccb130f529cb20e5164b465e05ca6", null ],
+    [ "TestSpellFamilyMatch", "d8/dcd/a29259.html#a97d06c4fdf207051543fbf8c9207242e", null ],
+    [ "_context", "d8/dcd/a29259.html#a0b5925a6df47ba704bfc196cc89c4919", null ],
+    [ "_spellInfos", "d8/dcd/a29259.html#a30ebff666ac835168f1bf7d6aa771e0c", null ]
 ];

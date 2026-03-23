@@ -1,9 +1,8 @@
 var a15371 =
 [
-    [ "npc_claw_tentacle", "d9/de5/a15371.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
-    [ "JustDied", "d9/de5/a15371.html#aa566b417d1b766668133dd1d6a58293f", null ],
-    [ "JustEngagedWith", "d9/de5/a15371.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
-    [ "Reset", "d9/de5/a15371.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
-    [ "UpdateAI", "d9/de5/a15371.html#ae7d521445680167add653717c7ae4c86", null ],
-    [ "_portalGUID", "d9/de5/a15371.html#ab979781a8f77267348595cfa17341bae", null ]
+    [ "npc_obsidian_destroyer", "d9/de5/a15371.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "d9/de5/a15371.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "d9/de5/a15371.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "d9/de5/a15371.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "d9/de5/a15371.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

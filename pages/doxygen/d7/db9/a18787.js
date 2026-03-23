@@ -1,9 +1,7 @@
 var a18787 =
 [
-    [ "npc_gluttonous_abominationAI", "d7/db9/a18787.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "d7/db9/a18787.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "d7/db9/a18787.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "d7/db9/a18787.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "d7/db9/a18787.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "d7/db9/a18787.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "OnApply", "d7/db9/a18787.html#ac35f5d98980f54470a75a72b3578681f", null ],
+    [ "OnRemove", "d7/db9/a18787.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
+    [ "PrepareAuraScript", "d7/db9/a18787.html#a83c90d16fa151026a1e02927e31922ee", null ],
+    [ "Register", "d7/db9/a18787.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
 ];

@@ -1,6 +1,5 @@
 var a17027 =
 [
-    [ "PrepareSpellScript", "d5/d46/a17027.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "d5/d46/a17027.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "d5/d46/a17027.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "achievement_consumption_junction", "d5/d46/a17027.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "d5/d46/a17027.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

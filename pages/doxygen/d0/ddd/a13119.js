@@ -1,5 +1,5 @@
 var a13119 =
 [
-    [ "boss_yazzai", "d0/ddd/a13119.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
-    [ "JustEngagedWith", "d0/ddd/a13119.html#ab504de0e51a3715485eb65e006352a6f", null ]
+    [ "at_karazhan_side_entrance", "d0/ddd/a13119.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
+    [ "_OnTrigger", "d0/ddd/a13119.html#a80d0018a9442ef7f0834dc329047e135", null ]
 ];

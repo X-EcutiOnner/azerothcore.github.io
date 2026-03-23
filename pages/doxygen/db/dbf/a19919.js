@@ -1,6 +1,6 @@
 var a19919 =
 [
-    [ "go_celestial_planetarium_accessAI", "d4/d02/a19923.html", "d4/d02/a19923" ],
-    [ "go_celestial_planetarium_access", "db/dbf/a19919.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "db/dbf/a19919.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "achievement_assembly_of_iron", "db/dbf/a19919.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "db/dbf/a19919.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "db/dbf/a19919.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

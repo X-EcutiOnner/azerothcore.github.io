@@ -1,6 +1,6 @@
 var a19863 =
 [
-    [ "HandleApplyTouch", "d0/db3/a19863.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "d0/db3/a19863.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "d0/db3/a19863.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "PrepareSpellScript", "d0/db3/a19863.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "d0/db3/a19863.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "d0/db3/a19863.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

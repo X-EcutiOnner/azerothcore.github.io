@@ -1,5 +1,5 @@
 var a04715 =
 [
-    [ "mmaps_commandscript", "df/dcf/a12189.html", "df/dcf/a12189" ],
-    [ "AddSC_mmaps_commandscript", "d7/de9/a04715.html#aa9672a1e32f85f31a4be02f505768ecd", null ]
+    [ "arena_commandscript", "d8/d4f/a12119.html", "d8/d4f/a12119" ],
+    [ "AddSC_arena_commandscript", "d7/de9/a04715.html#aa94d37f012ac02e97a1021713b7dbeeb", null ]
 ];

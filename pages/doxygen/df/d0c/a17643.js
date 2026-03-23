@@ -1,9 +1,12 @@
 var a17643 =
 [
-    [ "FilterTargets", "df/d0c/a17643.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "df/d0c/a17643.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "df/d0c/a17643.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "df/d0c/a17643.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "df/d0c/a17643.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "df/d0c/a17643.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "npc_high_overlord_saurfangAI", "df/d0c/a17643.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "df/d0c/a17643.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "df/d0c/a17643.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "df/d0c/a17643.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "df/d0c/a17643.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "df/d0c/a17643.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "df/d0c/a17643.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "df/d0c/a17643.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "df/d0c/a17643.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

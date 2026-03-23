@@ -1,10 +1,22 @@
 var a07431 =
 [
-    [ "OwnerId", "d1/df6/a07431.html#ae6203d7a867838b279825925841a99df", null ],
-    [ "PrevOwnerId", "d1/df6/a07431.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
-    [ "PrevState", "d1/df6/a07431.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
-    [ "State", "d1/df6/a07431.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
-    [ "Timer", "d1/df6/a07431.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
-    [ "TotalOwnerId", "d1/df6/a07431.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
-    [ "Tower", "d1/df6/a07431.html#a222db96ad937e31986c0c39a5a371dd7", null ]
+    [ "BfGraveyard", "d1/df6/a07431.html#a47eb2f535fdce943de03d8daca7f0fd8", null ],
+    [ "~BfGraveyard", "d1/df6/a07431.html#a18171fd6fbfe7529bb61fd444e762f36", null ],
+    [ "AddPlayer", "d1/df6/a07431.html#a6001baf3ff48ac9155d060e78f57ab8d", null ],
+    [ "GetControlTeamId", "d1/df6/a07431.html#ac417eb4b9ff8f7c6f19e2148eb81131c", null ],
+    [ "GetDistance", "d1/df6/a07431.html#ae290db2a83278c27803d62267aebfb71", null ],
+    [ "GetGraveyardId", "d1/df6/a07431.html#ac7944db0403c37282ca90550f8ca4118", null ],
+    [ "GiveControlTo", "d1/df6/a07431.html#a9fe22d9ebbe1b652322b9a8e5f18ee91", null ],
+    [ "HasNpc", "d1/df6/a07431.html#a5f02be27972ae3f9aa8213ddb8c8b8d2", null ],
+    [ "HasPlayer", "d1/df6/a07431.html#ae85731d5d7d184749be9ec8704dde5e5", null ],
+    [ "Initialize", "d1/df6/a07431.html#a348c0a492efab96df8855f94969c7300", null ],
+    [ "RelocateDeadPlayers", "d1/df6/a07431.html#ae0c6607ccfd39a3bf6806d437ce114ae", null ],
+    [ "RemovePlayer", "d1/df6/a07431.html#ae988d0f334f09912aa2ba4d5ae2acfa6", null ],
+    [ "Resurrect", "d1/df6/a07431.html#a94569ad820914c1f467aeaf30f977c3e", null ],
+    [ "SetSpirit", "d1/df6/a07431.html#ab4385a55321e8cf90e91bd10a04f1ddf", null ],
+    [ "Bf", "d1/df6/a07431.html#a30abf6abb0dc36c9376f6f405a0a9f4e", null ],
+    [ "ControlTeam", "d1/df6/a07431.html#a4d97eae10ede29d7e617b237e2c3fe20", null ],
+    [ "GraveyardId", "d1/df6/a07431.html#a06d1c713e7180a9b4c32882835122212", null ],
+    [ "ResurrectQueue", "d1/df6/a07431.html#a2baff35c6fc87c30e309eb45f0ab27fc", null ],
+    [ "SpiritGuide", "d1/df6/a07431.html#a528a36fbd481cb5173d742ac125a2f62", null ]
 ];

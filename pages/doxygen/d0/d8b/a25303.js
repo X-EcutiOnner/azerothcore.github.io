@@ -1,10 +1,7 @@
 var a25303 =
 [
-    [ "Load", "d0/d8b/a25303.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "d0/d8b/a25303.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "d0/d8b/a25303.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "d0/d8b/a25303.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "d0/d8b/a25303.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "d0/d8b/a25303.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "d0/d8b/a25303.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "HandleProc", "d0/d8b/a25303.html#a8a66eb1c15d8da265deed2c8a8a9cd50", null ],
+    [ "PrepareAuraScript", "d0/d8b/a25303.html#aa2fd33ce33d6882292ba8ee588743fd3", null ],
+    [ "Register", "d0/d8b/a25303.html#ab09dcc534ebda11da4a2234ee82233a2", null ],
+    [ "Validate", "d0/d8b/a25303.html#a33c8ed96d3d4efd8841c10af7b7bf470", null ]
 ];

@@ -1,7 +1,10 @@
 var a24291 =
 [
-    [ "npc_maghar_captiveAI", "de/d0c/a24295.html", "de/d0c/a24295" ],
-    [ "npc_maghar_captive", "d6/d33/a24291.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "d6/d33/a24291.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "d6/d33/a24291.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "CheckProc", "d6/d33/a24291.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
+    [ "HandleProc", "d6/d33/a24291.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
+    [ "Load", "d6/d33/a24291.html#ada85014de8a3602e83912d5e1a0165c5", null ],
+    [ "PrepareAuraScript", "d6/d33/a24291.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
+    [ "Register", "d6/d33/a24291.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
+    [ "Validate", "d6/d33/a24291.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
+    [ "_procTarget", "d6/d33/a24291.html#a0c3ba33c7117195dac4c1df3a6e8529a", null ]
 ];

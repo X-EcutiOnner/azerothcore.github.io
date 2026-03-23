@@ -1,6 +1,12 @@
 var a23287 =
 [
-    [ "PrepareAuraScript", "d2/dcb/a23287.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "d2/dcb/a23287.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "d2/dcb/a23287.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "boss_watchkeeper_gargolmar", "d2/dcb/a23287.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "d2/dcb/a23287.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "d2/dcb/a23287.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "d2/dcb/a23287.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "d2/dcb/a23287.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "d2/dcb/a23287.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "d2/dcb/a23287.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "d2/dcb/a23287.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "d2/dcb/a23287.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

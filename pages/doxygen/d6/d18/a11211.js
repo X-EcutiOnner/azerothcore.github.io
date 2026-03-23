@@ -1,8 +1,9 @@
 var a11211 =
 [
-    [ "ServerPktHeader", "d6/d18/a11211.html#a761e294fccc02055a46bfc46656da706", null ],
-    [ "getHeaderLength", "d6/d18/a11211.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
-    [ "isLargePacket", "d6/d18/a11211.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
-    [ "header", "d6/d18/a11211.html#adc69128832b16124c284c584e7540b11", null ],
-    [ "size", "d6/d18/a11211.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
+    [ "Weather", "d6/d18/a11211.html#aa404c94fec05b825454a7309827767c6", null ],
+    [ "Weather", "d6/d18/a11211.html#a28f45d81441d2dde6917380978dfb4d0", null ],
+    [ "Write", "d6/d18/a11211.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
+    [ "Abrupt", "d6/d18/a11211.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
+    [ "Intensity", "d6/d18/a11211.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
+    [ "WeatherID", "d6/d18/a11211.html#a32e56458b1e562c124cfc0288a578134", null ]
 ];

@@ -1,8 +1,8 @@
 var a26043 =
 [
-    [ "CheckRequirement", "d9/d88/a26043.html#a3ed8450641baeee915fc5a129f9c7434", null ],
-    [ "HandleScript", "d9/d88/a26043.html#a92e3137bb92545876ca67028bcc86a4f", null ],
-    [ "Load", "d9/d88/a26043.html#a56326701447b3a88d9022ca1f1c184a6", null ],
-    [ "PrepareSpellScript", "d9/d88/a26043.html#a94d4155e98a4ac5764d8bfd705b05602", null ],
-    [ "Register", "d9/d88/a26043.html#a9b440dd8bf21b70d068021d05832a3fc", null ]
+    [ "HandleScript", "d9/d88/a26043.html#a181434606474535b5ed8dc6ee7c2dc29", null ],
+    [ "Load", "d9/d88/a26043.html#aee35eb07631e991dc019a2b716894237", null ],
+    [ "PrepareSpellScript", "d9/d88/a26043.html#a4c28987223d55f31aa6c5f3e349b62b7", null ],
+    [ "Register", "d9/d88/a26043.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb", null ],
+    [ "Validate", "d9/d88/a26043.html#a1541ff95bfa6ddc98748381cc2cb99f6", null ]
 ];

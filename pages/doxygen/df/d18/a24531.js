@@ -1,6 +1,6 @@
 var a24531 =
 [
-    [ "HandleSendEvent", "df/d18/a24531.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "df/d18/a24531.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "df/d18/a24531.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "PrepareAuraScript", "df/d18/a24531.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
+    [ "Register", "df/d18/a24531.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
+    [ "UpdateAmount", "df/d18/a24531.html#a621e73a09438f3f9cbaa232125df3b87", null ]
 ];

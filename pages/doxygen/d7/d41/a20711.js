@@ -1,9 +1,7 @@
 var a20711 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d7/d41/a20711.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
-    [ "AttackStart", "d7/d41/a20711.html#aa18e89f63e98112efeb69328f8fdc296", null ],
-    [ "MoveInLineOfSight", "d7/d41/a20711.html#a6384437fff9349df0cfa5053b37313ea", null ],
-    [ "MovementInform", "d7/d41/a20711.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
-    [ "UpdateAI", "d7/d41/a20711.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
-    [ "events", "d7/d41/a20711.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
+    [ "HandleEffectCalcPeriodic", "d7/d41/a20711.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "d7/d41/a20711.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "d7/d41/a20711.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "d7/d41/a20711.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

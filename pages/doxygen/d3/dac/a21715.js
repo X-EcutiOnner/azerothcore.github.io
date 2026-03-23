@@ -1,10 +1,7 @@
 var a21715 =
 [
-    [ "npc_sinkhole_kill_creditAI", "d3/dac/a21715.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
-    [ "Reset", "d3/dac/a21715.html#a677990d64d2963ff995d9d8522c5aa81", null ],
-    [ "SpellHit", "d3/dac/a21715.html#a95eaf518fb18b67820d6195cd525b017", null ],
-    [ "UpdateAI", "d3/dac/a21715.html#a75611004a543bece9d3f51914547f2fe", null ],
-    [ "casterGuid", "d3/dac/a21715.html#a147921788b07f5e776e03aaf15049cf0", null ],
-    [ "phase", "d3/dac/a21715.html#aa45455a8d540d6f942c948cf56d11f05", null ],
-    [ "phaseTimer", "d3/dac/a21715.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
+    [ "npc_plaguehound_trackerAI", "d3/dac/a21715.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d3/dac/a21715.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d3/dac/a21715.html#a67c345f49572cde76d9109a1baff6788", null ],
+    [ "WaypointReached", "d3/dac/a21715.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

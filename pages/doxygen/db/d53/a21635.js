@@ -1,6 +1,7 @@
 var a21635 =
 [
-    [ "npc_azure_binderAI", "d6/d98/a21639.html", "d6/d98/a21639" ],
-    [ "npc_azure_binder", "db/d53/a21635.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
-    [ "GetAI", "db/d53/a21635.html#aad091206a8bd06a1064b68b81510eb56", null ]
+    [ "HandleScriptEffect", "db/d53/a21635.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "db/d53/a21635.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "db/d53/a21635.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "db/d53/a21635.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

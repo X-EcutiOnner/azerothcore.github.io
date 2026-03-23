@@ -1,7 +1,7 @@
 var a28771 =
 [
-    [ "TalentSpellPos", "d4/d1a/a28771.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "d4/d1a/a28771.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "d4/d1a/a28771.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "d4/d1a/a28771.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "Class", "d4/d1a/a28771.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d4/d1a/a28771.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d4/d1a/a28771.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d4/d1a/a28771.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

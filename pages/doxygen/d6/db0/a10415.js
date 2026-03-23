@@ -1,12 +1,10 @@
 var a10415 =
 [
-    [ "ItemScript", "d6/db0/a10415.html#a0ad18538a834261190356eab549ff192", null ],
-    [ "IsDatabaseBound", "d6/db0/a10415.html#ae0ae6754a17b88deaf3648b74a58bb9d", null ],
-    [ "OnCastItemCombatSpell", "d6/db0/a10415.html#a08a73378706fdfb0cee5e6214060ad1b", null ],
-    [ "OnExpire", "d6/db0/a10415.html#a2ac915f9f966df87a963a328363deb77", null ],
-    [ "OnGossipSelect", "d6/db0/a10415.html#a78b540902816ee3b3f9a6b108aa155ab", null ],
-    [ "OnGossipSelectCode", "d6/db0/a10415.html#a924268357fec1a667f1184c91ebcef33", null ],
-    [ "OnQuestAccept", "d6/db0/a10415.html#a87ab2f706bbb4e71921852d1ae6d78c7", null ],
-    [ "OnRemove", "d6/db0/a10415.html#a1c8d706593fce54b1e4627493c38a6d3", null ],
-    [ "OnUse", "d6/db0/a10415.html#a0e45d02f07def65de2eb94735189e7f5", null ]
+    [ "WaypointMgr", "d6/db0/a10415.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "GetPath", "d6/db0/a10415.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "d6/db0/a10415.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "d6/db0/a10415.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "LoadWaypointAddons", "d6/db0/a10415.html#a84df91143dd387b5d4adc7aa8d63045e", null ],
+    [ "ReloadPath", "d6/db0/a10415.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "d6/db0/a10415.html#a15d1c47c7e839538c354ba91775bd9e7", null ]
 ];

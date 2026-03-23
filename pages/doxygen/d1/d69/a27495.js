@@ -1,6 +1,7 @@
 var a27495 =
 [
-    [ "go_flamesAI", "da/d7f/a27499.html", "da/d7f/a27499" ],
-    [ "go_flames", "d1/d69/a27495.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "d1/d69/a27495.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "HandleProc", "d1/d69/a27495.html#a864e976a61091512a7eab904e5390234", null ],
+    [ "PrepareAuraScript", "d1/d69/a27495.html#a8cd8814aa7c53aa28399b4ff51f0fa41", null ],
+    [ "Register", "d1/d69/a27495.html#a8509759360e3443ceca9a9fcbd729996", null ],
+    [ "Validate", "d1/d69/a27495.html#a7687471989fc9595e36201dba74b8689", null ]
 ];

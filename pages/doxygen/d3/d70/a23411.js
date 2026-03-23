@@ -1,13 +1,16 @@
 var a23411 =
 [
-    [ "npc_inner_demon", "d3/d70/a23411.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
-    [ "CanAIAttack", "d3/d70/a23411.html#a7498fd32b0ace832b38dc624d07478ed", null ],
-    [ "CanBeSeen", "d3/d70/a23411.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
-    [ "CanReceiveDamage", "d3/d70/a23411.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
-    [ "IsSummonedBy", "d3/d70/a23411.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
-    [ "JustDied", "d3/d70/a23411.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
-    [ "OnCalculateMeleeDamageReceived", "d3/d70/a23411.html#ae95022548b44b23ef93fae24729b5af5", null ],
-    [ "OnCalculatePeriodicTickReceived", "d3/d70/a23411.html#a546281a2257d0407d294fba1f7d3426f", null ],
-    [ "OnCalculateSpellDamageReceived", "d3/d70/a23411.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
-    [ "UpdateAI", "d3/d70/a23411.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
+    [ "npc_millhouse_manastormAI", "d3/d70/a23411.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
+    [ "AttackStart", "d3/d70/a23411.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
+    [ "DamageTaken", "d3/d70/a23411.html#a30ed336d552596211b3bfc316d223968", null ],
+    [ "InitializeAI", "d3/d70/a23411.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
+    [ "JustDied", "d3/d70/a23411.html#aaa22ed7812600c1670d12d6887d316d6", null ],
+    [ "JustEngagedWith", "d3/d70/a23411.html#a5e643192572f29f954a31b7b949f6525", null ],
+    [ "KilledUnit", "d3/d70/a23411.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
+    [ "Reset", "d3/d70/a23411.html#a74076048ea382816fa9c98a0d759af46", null ],
+    [ "UpdateAI", "d3/d70/a23411.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
+    [ "_usedIceblock", "d3/d70/a23411.html#af0ce341df018dafdce89f75fcb9f0063", null ],
+    [ "events", "d3/d70/a23411.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
+    [ "events2", "d3/d70/a23411.html#ac762ce5981457cbcf6ec73236bab2486", null ],
+    [ "instance", "d3/d70/a23411.html#aff28c68ed9575440f5732df855ab4372", null ]
 ];

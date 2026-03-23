@@ -1,7 +1,8 @@
 var a26559 =
 [
-    [ "if", "de/de3/a26559.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
-    [ "PrepareAuraScript", "de/de3/a26559.html#aa31810077c241e77193e378cb297b7de", null ],
-    [ "Register", "de/de3/a26559.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
-    [ "AuraEffectHandleModes", "de/de3/a26559.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
+    [ "CheckProc", "de/de3/a26559.html#acfdb90639eb05a5ec252c20c9f302fed", null ],
+    [ "HandleProc", "de/de3/a26559.html#aa2e48771627700ee12153b13a094cea8", null ],
+    [ "PrepareAuraScript", "de/de3/a26559.html#a0fec47a0918ecfe3517c63190b27e91c", null ],
+    [ "Register", "de/de3/a26559.html#a88b06e814ade33fad51c8036d963f654", null ],
+    [ "Validate", "de/de3/a26559.html#ae9911ba6c95cfc6c345743b0f970062b", null ]
 ];

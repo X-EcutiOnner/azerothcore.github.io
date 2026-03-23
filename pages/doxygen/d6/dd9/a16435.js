@@ -1,6 +1,7 @@
 var a16435 =
 [
-    [ "HandleHealPct", "d6/dd9/a16435.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "d6/dd9/a16435.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "d6/dd9/a16435.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "OnApply", "d6/dd9/a16435.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "d6/dd9/a16435.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "d6/dd9/a16435.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "d6/dd9/a16435.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

@@ -1,4 +1,31 @@
 var a29683 =
 [
-    [ "gOpenArchives", "dc/dec/a29683.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
+    [ "Exception", "d3/dda/a29687.html", "d3/dda/a29687" ],
+    [ "Iterator", "db/dcf/a29699.html", "db/dcf/a29699" ],
+    [ "NotFound", "d2/dbe/a29691.html", "d2/dbe/a29691" ],
+    [ "Record", "d8/da4/a29695.html", "d8/da4/a29695" ],
+    [ "DBCFile", "dc/dec/a29683.html#a1ad4638c766b9222924e17977153439c", null ],
+    [ "~DBCFile", "dc/dec/a29683.html#a2453497157878f50c1e709e834fa2ca6", null ],
+    [ "DBCFile", "dc/dec/a29683.html#a1ad4638c766b9222924e17977153439c", null ],
+    [ "~DBCFile", "dc/dec/a29683.html#a2453497157878f50c1e709e834fa2ca6", null ],
+    [ "begin", "dc/dec/a29683.html#a8059ee48b626aa095d186771b3992121", null ],
+    [ "begin", "dc/dec/a29683.html#a3fa1721514df95a0fdaab68383c92877", null ],
+    [ "end", "dc/dec/a29683.html#a49d9c8ab11bf8d10f754369e6e37fac9", null ],
+    [ "end", "dc/dec/a29683.html#ae41b3ec666d9ccd6804d90a341cc7207", null ],
+    [ "getFieldCount", "dc/dec/a29683.html#af9946ba472555e6f3d38d124759d3e4d", null ],
+    [ "getFieldCount", "dc/dec/a29683.html#af9946ba472555e6f3d38d124759d3e4d", null ],
+    [ "getMaxId", "dc/dec/a29683.html#aeb8bf52f3140176b383d746247763d69", null ],
+    [ "getRecord", "dc/dec/a29683.html#ac3539b586d9d87f274e582115c6fad21", null ],
+    [ "getRecord", "dc/dec/a29683.html#a24c3e91383aec085c92c7b632497c192", null ],
+    [ "getRecordCount", "dc/dec/a29683.html#ae0fd1c5f3728ec3073a6615dc9604f9c", null ],
+    [ "getRecordCount", "dc/dec/a29683.html#ae0fd1c5f3728ec3073a6615dc9604f9c", null ],
+    [ "open", "dc/dec/a29683.html#a8255273a3ed878f743837eecf83c5897", null ],
+    [ "open", "dc/dec/a29683.html#a8255273a3ed878f743837eecf83c5897", null ],
+    [ "data", "dc/dec/a29683.html#a13665b42b03d29542922798b8e596db0", null ],
+    [ "fieldCount", "dc/dec/a29683.html#a5bad58543d306efba432f49474861c78", null ],
+    [ "filename", "dc/dec/a29683.html#a41e6549e414b05b545e4cc2e6c9ed526", null ],
+    [ "recordCount", "dc/dec/a29683.html#a1078e933a1984bc8cd74126bbd217571", null ],
+    [ "recordSize", "dc/dec/a29683.html#a612b41c93f0acc15638ff9874f260799", null ],
+    [ "stringSize", "dc/dec/a29683.html#a294ac17f748f5db90e9795b0d35a4dbf", null ],
+    [ "stringTable", "dc/dec/a29683.html#ae6c0a134786acbe1ef184d053efc2b00", null ]
 ];

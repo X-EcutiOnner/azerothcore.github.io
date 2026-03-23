@@ -1,10 +1,9 @@
 var a18499 =
 [
-    [ "npc_shambling_horror_iccAI", "d3/d40/a18499.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
-    [ "CanAIAttack", "d3/d40/a18499.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
-    [ "DamageTaken", "d3/d40/a18499.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
-    [ "Reset", "d3/d40/a18499.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
-    [ "UpdateAI", "d3/d40/a18499.html#abae6058591022057e93d48da3db1b8bc", null ],
-    [ "_events", "d3/d40/a18499.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
-    [ "_frenzied", "d3/d40/a18499.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
+    [ "npc_icc_ice_sphereAI", "d3/d40/a18499.html#a685f45e5cd15b005646e596ff61088e8", null ],
+    [ "DoAction", "d3/d40/a18499.html#ac056ecdd93bc716964054f38ab81014e", null ],
+    [ "SelectNewTarget", "d3/d40/a18499.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
+    [ "UpdateAI", "d3/d40/a18499.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
+    [ "targetGUID", "d3/d40/a18499.html#a3e202f9bde2a202d329066f7aab8897c", null ],
+    [ "timer", "d3/d40/a18499.html#a42842e92926e18ef2589687d81a7d0d4", null ]
 ];

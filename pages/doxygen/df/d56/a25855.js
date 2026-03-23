@@ -1,6 +1,7 @@
 var a25855 =
 [
-    [ "HandleActivateObject", "df/d56/a25855.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "df/d56/a25855.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "df/d56/a25855.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "HandleEnergize", "df/d56/a25855.html#a283e713252166a863aa96530d6e7608b", null ],
+    [ "Load", "df/d56/a25855.html#a89847e0e9435a708c5722ff928f7033f", null ],
+    [ "PrepareSpellScript", "df/d56/a25855.html#a8847e05e6eeafd801fca5423d0689432", null ],
+    [ "Register", "df/d56/a25855.html#ae0778ffd8cf203e22510ee91b0394303", null ]
 ];

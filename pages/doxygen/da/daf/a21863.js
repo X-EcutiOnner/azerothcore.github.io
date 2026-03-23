@@ -1,7 +1,6 @@
 var a21863 =
 [
-    [ "npc_warmage_violetstand", "da/daf/a21863.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "da/daf/a21863.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "da/daf/a21863.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "da/daf/a21863.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "PrepareSpellScript", "da/daf/a21863.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "da/daf/a21863.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "da/daf/a21863.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

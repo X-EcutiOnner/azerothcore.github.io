@@ -1,4 +1,5 @@
 var a28107 =
 [
-    [ "ratio", "de/d44/a28107.html#ad5d1466406daa3696314ef2f6f18cd15", null ]
+    [ "item_generic_limit_chance_above_60", "de/d44/a28107.html#abc18809810f0a7668020d01c482be84b", null ],
+    [ "OnCastItemCombatSpell", "de/d44/a28107.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
 ];

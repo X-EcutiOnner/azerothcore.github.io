@@ -1,6 +1,6 @@
 var a16019 =
 [
-    [ "go_troll_cageAI", "d6/dde/a16023.html", "d6/dde/a16023" ],
-    [ "go_troll_cage", "dd/da3/a16019.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "dd/da3/a16019.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "npc_rivern_frostwind", "dd/da3/a16019.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
+    [ "OnGossipHello", "dd/da3/a16019.html#a90a6582633336de422c9f98973562b32", null ],
+    [ "OnGossipSelect", "dd/da3/a16019.html#a067ff91179f551633594d488eda269ed", null ]
 ];

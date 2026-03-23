@@ -1,7 +1,9 @@
 var a11179 =
 [
-    [ "OpcodeHandler", "d5/dac/a04818.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d5/dac/a04818.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d5/dac/a04818.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d5/dac/a04818.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "ItemEnchantTimeUpdate", "d8/d21/a11179.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
+    [ "Write", "d8/d21/a11179.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
+    [ "Duration", "d8/d21/a11179.html#ad576ce6011716519a70c6e00e0753a49", null ],
+    [ "ItemGuid", "d8/d21/a11179.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
+    [ "PlayerGuid", "d8/d21/a11179.html#a4623875e38909d8b7300e7d9c703b216", null ],
+    [ "Slot", "d8/d21/a11179.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
 ];

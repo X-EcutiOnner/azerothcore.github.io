@@ -1,7 +1,8 @@
 var a24139 =
 [
-    [ "HandleDamage", "df/d49/a24139.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "df/d49/a24139.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "df/d49/a24139.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "df/d49/a24139.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "npc_pet_darting_hatchling", "df/d49/a24139.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "df/d49/a24139.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "df/d49/a24139.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "df/d49/a24139.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "df/d49/a24139.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

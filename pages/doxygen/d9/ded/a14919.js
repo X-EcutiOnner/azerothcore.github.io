@@ -1,10 +1,7 @@
 var a14919 =
 [
-    [ "boss_rage_winterchill", "d9/ded/a14919.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
-    [ "DoAction", "d9/ded/a14919.html#a45333aea6d6a180473ca4823ea83920a", null ],
-    [ "JustDied", "d9/ded/a14919.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
-    [ "JustEngagedWith", "d9/ded/a14919.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
-    [ "KilledUnit", "d9/ded/a14919.html#a69d69530a080379add7be73c552f4937", null ],
-    [ "PathEndReached", "d9/ded/a14919.html#aec47befdf3246710a5158780fa797fa7", null ],
-    [ "_recentlySpoken", "d9/ded/a14919.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
+    [ "HandleProc", "d9/ded/a14919.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
+    [ "PrepareAuraScript", "d9/ded/a14919.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
+    [ "Register", "d9/ded/a14919.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
+    [ "Validate", "d9/ded/a14919.html#a18398f81a80f9a1f47958de3be7b9189", null ]
 ];

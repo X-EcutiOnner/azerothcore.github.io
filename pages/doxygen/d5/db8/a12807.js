@@ -1,6 +1,6 @@
 var a12807 =
 [
-    [ "instance_deadmines_InstanceMapScript", "de/d9d/a12811.html", "de/d9d/a12811" ],
-    [ "instance_deadmines", "d5/db8/a12807.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
-    [ "GetInstanceScript", "d5/db8/a12807.html#ac5cb65972d52324cedf662cc44dca626", null ]
+    [ "boss_shazzrah", "d5/db8/a12807.html#a9886c4c93017936beae1babacffa76a2", null ],
+    [ "ExecuteEvent", "d5/db8/a12807.html#a2d8ab48c6abb3e0334ef54e0b918ff27", null ],
+    [ "JustEngagedWith", "d5/db8/a12807.html#aa23aecbb28a9bb1fc138691f143f8e53", null ]
 ];

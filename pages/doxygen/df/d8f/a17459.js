@@ -1,7 +1,6 @@
 var a17459 =
 [
-    [ "HandleScriptEffect", "df/d8f/a17459.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "df/d8f/a17459.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "df/d8f/a17459.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "df/d8f/a17459.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "instance_gundrak_InstanceMapScript", "de/d5c/a17463.html", "de/d5c/a17463" ],
+    [ "instance_gundrak", "df/d8f/a17459.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
+    [ "GetInstanceScript", "df/d8f/a17459.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
 ];

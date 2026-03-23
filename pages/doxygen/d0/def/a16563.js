@@ -1,12 +1,9 @@
 var a16563 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "d0/def/a16563.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
-    [ "JustDied", "d0/def/a16563.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
-    [ "JustEngagedWith", "d0/def/a16563.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
-    [ "MoveInLineOfSight", "d0/def/a16563.html#a527113ecd490c937fc1f3e34b6b1d32d", null ],
-    [ "Reset", "d0/def/a16563.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
-    [ "UpdateAI", "d0/def/a16563.html#a2b9fdd3daa725921819ae2acee418d51", null ],
-    [ "events", "d0/def/a16563.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
-    [ "pInstance", "d0/def/a16563.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
-    [ "ShieldTimer", "d0/def/a16563.html#a080916d385f4157afbe4c455033b88ba", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d0/def/a16563.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "d0/def/a16563.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "d0/def/a16563.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "d0/def/a16563.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "d0/def/a16563.html#a74b5fb1d3631c404e7797085e45e6159", null ],
+    [ "WaypointReached", "d0/def/a16563.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

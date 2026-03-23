@@ -1,4 +1,4 @@
 var a00944 =
 [
-    [ "BattlegroundScript", "d3/d2b/a10520.html", "d3/d2b/a10520" ]
+    [ "ScriptRegistry< GlobalScript >", "d9/dce/a00944.html#aab5e9d371cdc72eb5a60f210f00cdc34", null ]
 ];

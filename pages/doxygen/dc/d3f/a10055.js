@@ -1,12 +1,8 @@
 var a10055 =
 [
-    [ "RotateMovementGenerator", "dc/d3f/a10055.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
-    [ "Finalize", "dc/d3f/a10055.html#afd7588c7877b116cc9626a774b89d584", null ],
-    [ "GetMovementGeneratorType", "dc/d3f/a10055.html#a20677803edf5d93ceae3bf76ef426a81", null ],
-    [ "Initialize", "dc/d3f/a10055.html#a18fea8760bb24912af9349a06ff7b596", null ],
-    [ "Reset", "dc/d3f/a10055.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
-    [ "Update", "dc/d3f/a10055.html#a0dc8600e3aa862a81735dfb927232e53", null ],
-    [ "m_direction", "dc/d3f/a10055.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
-    [ "m_duration", "dc/d3f/a10055.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
-    [ "m_maxDuration", "dc/d3f/a10055.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
+    [ "EllipseBoundary", "dc/d3f/a10055.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "dc/d3f/a10055.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "dc/d3f/a10055.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "dc/d3f/a10055.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "dc/d3f/a10055.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

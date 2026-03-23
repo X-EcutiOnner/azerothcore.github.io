@@ -1,6 +1,17 @@
 var a20611 =
 [
-    [ "boss_mimironAI", "dc/d64/a20615.html", "dc/d64/a20615" ],
-    [ "boss_mimiron", "db/d98/a20611.html#a72904837bd85e9f711fcf3da04c459c3", null ],
-    [ "GetAI", "db/d98/a20611.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
+    [ "boss_yoggsaron", "db/d98/a20611.html#a8259945dfb8a3762945281df6047f9fc", null ],
+    [ "AttackStart", "db/d98/a20611.html#a8110dc78a8e60d25df6195107960365a", null ],
+    [ "DoAction", "db/d98/a20611.html#a647c5cf55081ec4d66ae75be5d471210", null ],
+    [ "GetData", "db/d98/a20611.html#a68bb5622ddd9bd74f2eaefce3a0ac54f", null ],
+    [ "JustDied", "db/d98/a20611.html#afa4914458cbcf03ae8e305b2d2c40131", null ],
+    [ "JustSummoned", "db/d98/a20611.html#af641e349634bc2977fd2fe7b7edad310", null ],
+    [ "SpellHit", "db/d98/a20611.html#ab477975d288844051b22991649bdedd4", null ],
+    [ "SummonImmortalGuardian", "db/d98/a20611.html#ad8ba569e58047dcfff8d764489f024ad", null ],
+    [ "UpdateAI", "db/d98/a20611.html#a395114524b73f0176aa9ed331cc0683f", null ],
+    [ "_thirdPhase", "db/d98/a20611.html#a0d76e9ae977a2165d52413807897604e", null ],
+    [ "_usedInsane", "db/d98/a20611.html#a28191094a0252d5af48f5b046013eb3e", null ],
+    [ "events", "db/d98/a20611.html#ac27bba5841f4c50a01a8e2b434ee56cf", null ],
+    [ "m_pInstance", "db/d98/a20611.html#a5200293f483d4e15ca903a1eba8b59d9", null ],
+    [ "summons", "db/d98/a20611.html#a0a11e2b828a90ca1ba72d7c19804e654", null ]
 ];

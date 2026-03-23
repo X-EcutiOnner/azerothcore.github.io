@@ -1,7 +1,10 @@
 var a21279 =
 [
-    [ "npc_frost_tomb", "d6/d38/a21279.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d6/d38/a21279.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d6/d38/a21279.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d6/d38/a21279.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "npc_jenny", "d6/d38/a21279.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d6/d38/a21279.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d6/d38/a21279.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d6/d38/a21279.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d6/d38/a21279.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d6/d38/a21279.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d6/d38/a21279.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

@@ -1,6 +1,10 @@
 var a16423 =
 [
-    [ "PrepareSpellScript", "da/d9a/a16423.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "da/d9a/a16423.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "da/d9a/a16423.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "spell_halion_damage_aoe_summon", "da/d9a/a16423.html#a6152e7a0515076af2c7c2155506257b0", null ],
+    [ "HandleSummon", "da/d9a/a16423.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
+    [ "PrepareSpellScript", "da/d9a/a16423.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
+    [ "Register", "da/d9a/a16423.html#aa1f9239a2910d53c85539abba6333893", null ],
+    [ "Validate", "da/d9a/a16423.html#acb359257b29354b5962d9865e06137e7", null ],
+    [ "_auraSpell", "da/d9a/a16423.html#a497a74eca703470964157639a6f372e2", null ],
+    [ "_explosionSpell", "da/d9a/a16423.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
 ];

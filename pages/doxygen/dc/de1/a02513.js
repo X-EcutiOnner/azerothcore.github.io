@@ -1,6 +1,5 @@
 var a02513 =
 [
-    [ "AntiDosOpcodePolicy", "d6/d9a/a09317.html", "d6/d9a/a09317" ],
-    [ "WorldGlobals", "d2/d80/a09321.html", "d2/d80/a09321" ],
-    [ "sWorldGlobals", "dc/de1/a02513.html#abde160907db136b0b0c16309add3ae94", null ]
+    [ "achievIdByArenaSlot", "dc/de1/a02513.html#a5264f22d916c9472e9a16ac52140f87c", null ],
+    [ "achievIdForDungeon", "dc/de1/a02513.html#ac50d520adf892744d066d8c5187046b0", null ]
 ];

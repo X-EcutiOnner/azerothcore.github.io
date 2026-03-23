@@ -1,6 +1,6 @@
 var a27423 =
 [
-    [ "boss_emerissAI", "d5/d2d/a27427.html", "d5/d2d/a27427" ],
-    [ "boss_emeriss", "d9/d2d/a27423.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d9/d2d/a27423.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "FilterTargets", "d9/d2d/a27423.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "d9/d2d/a27423.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "d9/d2d/a27423.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

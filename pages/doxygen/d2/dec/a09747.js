@@ -1,14 +1,7 @@
 var a09747 =
 [
-    [ "LootItemStorage", "d2/dec/a09747.html#aa6ece474f05744f2ce24a9fef42734af", null ],
-    [ "~LootItemStorage", "d2/dec/a09747.html#a36faeed6ef556fd13118c4ad34e38548", null ],
-    [ "AddNewStoredLoot", "d2/dec/a09747.html#a4c463773b50ae1b312865fbf72dfed18", null ],
-    [ "instance", "d2/dec/a09747.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
-    [ "LoadStorageFromDB", "d2/dec/a09747.html#a377c75f9d06eb246072b29d19baf2b62", null ],
-    [ "LoadStoredLoot", "d2/dec/a09747.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
-    [ "RemoveEntryFromDB", "d2/dec/a09747.html#a8ab68725c0525d162d325a2131db4c49", null ],
-    [ "RemoveStoredLoot", "d2/dec/a09747.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
-    [ "RemoveStoredLootItem", "d2/dec/a09747.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
-    [ "RemoveStoredLootMoney", "d2/dec/a09747.html#ab22d267a6701fedf824f801e4b703f70", null ],
-    [ "lootItemStore", "d2/dec/a09747.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
+    [ "ObjectTypeIdCheck", "d2/dec/a09747.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
+    [ "operator()", "d2/dec/a09747.html#a9cbd09a6021bef7819a0002952264293", null ],
+    [ "_equals", "d2/dec/a09747.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
+    [ "_typeId", "d2/dec/a09747.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
 ];

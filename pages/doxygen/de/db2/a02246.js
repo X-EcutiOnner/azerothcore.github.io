@@ -1,9 +1,9 @@
 var a02246 =
 [
-    [ "RandomMovementGenerator< T >", "db/d38/a10256.html", "db/d38/a10256" ],
-    [ "MAX_PATH_LENGHT_FACTOR", "de/db2/a02246.html#a6e563601030e3152f7023ecd4fa3f3c7", null ],
-    [ "MIN_WANDER_DISTANCE_AIR", "de/db2/a02246.html#a81b46c6e5a328cf46ead22b160a8a576", null ],
-    [ "MIN_WANDER_DISTANCE_GROUND", "de/db2/a02246.html#a85e56933db548199999e1edb8e96836d", null ],
-    [ "RANDOM_LINKS_COUNT", "de/db2/a02246.html#af447061c654f18b25537973f2739dad3", null ],
-    [ "RANDOM_POINTS_NUMBER", "de/db2/a02246.html#ac0f6eaac315a81192c2307dcbac20f70", null ]
+    [ "GetChaseRange", "de/db2/a02246.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
+    [ "GetTargetSpeedInMotion", "de/db2/a02246.html#a56719695683e0a1fbeaeb49d31f62d74", null ],
+    [ "GetVelocity", "de/db2/a02246.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
+    [ "IsMutualChase", "de/db2/a02246.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
+    [ "IsValidPredictedPosition", "de/db2/a02246.html#a27995927630ed43ca4a79dff89cfb99c", null ],
+    [ "PredictPosition", "de/db2/a02246.html#ada5b031ff95410ba84fd734c95c68099", null ]
 ];

@@ -1,6 +1,6 @@
 var a20871 =
 [
-    [ "boss_thorim_runic_colossusAI", "db/de1/a20875.html", "db/de1/a20875" ],
-    [ "boss_thorim_runic_colossus", "dd/dfb/a20871.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
-    [ "GetAI", "dd/dfb/a20871.html#a6d64427ff427a1054e10c9d987b77f53", null ]
+    [ "npc_ferocious_rhinoAI", "db/de1/a20875.html", "db/de1/a20875" ],
+    [ "npc_ferocious_rhino", "dd/dfb/a20871.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
+    [ "GetAI", "dd/dfb/a20871.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
 ];

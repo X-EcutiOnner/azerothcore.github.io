@@ -1,6 +1,6 @@
 var a27591 =
 [
-    [ "go_fel_crystalforge", "dc/d83/a27591.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "dc/d83/a27591.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "dc/d83/a27591.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "HandleDummy", "dc/d83/a27591.html#a68a86f7f86324336dc837622e01fa6af", null ],
+    [ "PrepareSpellScript", "dc/d83/a27591.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
+    [ "Register", "dc/d83/a27591.html#ad168c9164d1edd23abfbf05141b96de4", null ]
 ];

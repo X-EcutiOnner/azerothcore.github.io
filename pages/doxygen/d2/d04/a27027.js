@@ -1,7 +1,11 @@
 var a27027 =
 [
-    [ "HandleAuraApply", "d2/d04/a27027.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "d2/d04/a27027.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "d2/d04/a27027.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "d2/d04/a27027.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "AddTarget", "d2/d04/a27027.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "d2/d04/a27027.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "d2/d04/a27027.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "d2/d04/a27027.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "d2/d04/a27027.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "d2/d04/a27027.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "d2/d04/a27027.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "d2/d04/a27027.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

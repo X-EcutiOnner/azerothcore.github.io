@@ -1,8 +1,6 @@
 var a10211 =
 [
-    [ "ownerGuid", "d7/d0f/a10211.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
-    [ "petitionGuid", "d7/d0f/a10211.html#a1bbf412a221b76c4a20765d9a6612182", null ],
-    [ "petitionId", "d7/d0f/a10211.html#afa16859ac671ff0410204ea30ebcf429", null ],
-    [ "petitionName", "d7/d0f/a10211.html#a91c81356e9aa77641eaa881cd04af5af", null ],
-    [ "petitionType", "d7/d0f/a10211.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
+    [ "IsNeutralOrFriendlyToTeam", "d7/d0f/a10211.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
+    [ "safeLocId", "d7/d0f/a10211.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
+    [ "teamId", "d7/d0f/a10211.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
 ];

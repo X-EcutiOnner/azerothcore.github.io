@@ -1,11 +1,5 @@
 var a02318 =
 [
-    [ "Movement::counter< T, limit >", "df/dff/a10313.html", "df/dff/a10313" ],
-    [ "UInt32Counter", "db/dda/a02318.html#adebd21803156b193f9b8a733b6cbd3c7", null ],
-    [ "computeFallElevation", "db/dda/a02318.html#a87260372150c8322b45e75bfaa445f14", null ],
-    [ "computeFallTime", "db/dda/a02318.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
-    [ "MSToSec", "db/dda/a02318.html#aefc83834e7badc5f8450322da9567bd6", null ],
-    [ "SecToMS", "db/dda/a02318.html#a418fff34f8aed72d6d80876be5a33c58", null ],
-    [ "gravity", "db/dda/a02318.html#a15b376933a666c7f7c4600e62d7afe91", null ],
-    [ "splineIdGen", "db/dda/a02318.html#a5149db3325f467381006d8d5df24a2a8", null ]
+    [ "WaypointMgr", "d6/db0/a10415.html", "d6/db0/a10415" ],
+    [ "sWaypointMgr", "db/dda/a02318.html#a8e3218ae672aeeb8c1d9dc23a3a1a627", null ]
 ];

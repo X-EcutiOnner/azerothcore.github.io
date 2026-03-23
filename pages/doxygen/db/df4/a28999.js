@@ -1,13 +1,5 @@
 var a28999 =
 [
-    [ "MPQArchive", "db/df4/a28999.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "db/df4/a28999.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "db/df4/a28999.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "db/df4/a28999.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "db/df4/a28999.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "db/df4/a28999.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "db/df4/a28999.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "db/df4/a28999.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "db/df4/a28999.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "db/df4/a28999.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "id", "db/df4/a28999.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "db/df4/a28999.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];

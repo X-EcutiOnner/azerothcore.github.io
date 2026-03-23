@@ -1,6 +1,6 @@
 var a27939 =
 [
-    [ "npc_venomhide_hatchlingAI", "d7/d79/a27939.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d7/d79/a27939.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d7/d79/a27939.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "go_brewfest_musicAI", "d0/d6f/a27943.html", "d0/d6f/a27943" ],
+    [ "go_brewfest_music", "d7/d79/a27939.html#a787963a5ee591933d62fdb52911f9a77", null ],
+    [ "GetAI", "d7/d79/a27939.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
 ];

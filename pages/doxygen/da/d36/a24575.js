@@ -1,6 +1,6 @@
 var a24575 =
 [
-    [ "npc_slim", "da/d36/a24575.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "da/d36/a24575.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "da/d36/a24575.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "OnHit", "da/d36/a24575.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
+    [ "PrepareSpellScript", "da/d36/a24575.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
+    [ "Register", "da/d36/a24575.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
 ];

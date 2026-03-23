@@ -1,6 +1,10 @@
 var a10571 =
 [
-    [ "ShowingCloak", "dd/d9e/a10571.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
-    [ "Read", "dd/d9e/a10571.html#ad72ae43efc070655aa078d9985369442", null ],
-    [ "ShowCloak", "dd/d9e/a10571.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
+    [ "BattlefieldScript", "dd/d9e/a10571.html#a5d852a5ae3f62631280ca9f4b97b1734", null ],
+    [ "IsDatabaseBound", "dd/d9e/a10571.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
+    [ "OnBattlefieldBeforeInvitePlayerToWar", "dd/d9e/a10571.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
+    [ "OnBattlefieldPlayerEnterZone", "dd/d9e/a10571.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
+    [ "OnBattlefieldPlayerJoinWar", "dd/d9e/a10571.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
+    [ "OnBattlefieldPlayerLeaveWar", "dd/d9e/a10571.html#a3e88ff9ad3772d558ab72123127a550e", null ],
+    [ "OnBattlefieldPlayerLeaveZone", "dd/d9e/a10571.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ]
 ];

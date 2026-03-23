@@ -1,6 +1,5 @@
 var a27707 =
 [
-    [ "npc_innkeeper", "d4/de1/a27707.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "d4/de1/a27707.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "d4/de1/a27707.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "achievement_bg_sa_artillery", "d4/de1/a27707.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "d4/de1/a27707.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

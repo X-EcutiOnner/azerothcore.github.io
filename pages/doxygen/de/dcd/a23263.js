@@ -1,8 +1,12 @@
 var a23263 =
 [
-    [ "instance_black_temple_InstanceMapScript", "de/dcd/a23263.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
-    [ "OnCreatureCreate", "de/dcd/a23263.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
-    [ "OnGameObjectCreate", "de/dcd/a23263.html#a564a49814ceb3b3161a6476335ab653a", null ],
-    [ "SetBossState", "de/dcd/a23263.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
-    [ "ashtongueGUIDs", "de/dcd/a23263.html#a85fa9c5231f13529a0741b0f92266c90", null ]
+    [ "boss_omor_the_unscarred", "de/dcd/a23263.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "de/dcd/a23263.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "de/dcd/a23263.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "de/dcd/a23263.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "de/dcd/a23263.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "de/dcd/a23263.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "de/dcd/a23263.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "de/dcd/a23263.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "de/dcd/a23263.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

@@ -1,7 +1,6 @@
 var a28323 =
 [
-    [ "cutPercent", "da/d59/a28323.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "da/d59/a28323.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "da/d59/a28323.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "da/d59/a28323.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "npc_spring_rabbitAI", "d9/dec/a28327.html", "d9/dec/a28327" ],
+    [ "npc_spring_rabbit", "da/d59/a28323.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "da/d59/a28323.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

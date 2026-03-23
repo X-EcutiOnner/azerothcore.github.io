@@ -1,6 +1,6 @@
 var a21199 =
 [
-    [ "HandleScript", "d1/d63/a21199.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "d1/d63/a21199.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "d1/d63/a21199.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "npc_azure_spellbreakerAI", "d5/d02/a21203.html", "d5/d02/a21203" ],
+    [ "npc_azure_spellbreaker", "d1/d63/a21199.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
+    [ "GetAI", "d1/d63/a21199.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
 ];

@@ -1,14 +1,7 @@
 var a29279 =
 [
-    [ "ConfigEnvTest", "d6/d5b/a28214.html", "d6/d5b/a28214" ],
-    [ "CreateConfigWithMap", "d6/dcf/a29279.html#a9239326ecbf694576c285ae8b4245e7e", null ],
-    [ "TEST_F", "d6/dcf/a29279.html#a94c823774c857d4e496d49e57fc81ec7", null ],
-    [ "TEST_F", "d6/dcf/a29279.html#a7b3e2d5178272c45ffc59b429efb470b", null ],
-    [ "TEST_F", "d6/dcf/a29279.html#a405895a1a3d48885bc76d0cd476ef18e", null ],
-    [ "TEST_F", "d6/dcf/a29279.html#a78acdeb7f8d994b9bea8032b95492f55", null ],
-    [ "TEST_F", "d6/dcf/a29279.html#ad6d9eb985ed7e700cdc58e66caf1832c", null ],
-    [ "TEST_F", "d6/dcf/a29279.html#ab2a3d3e7561c71ed4adc32ff482bc6c8", null ],
-    [ "TEST_F", "d6/dcf/a29279.html#a2b2a3a2a1f46aa789759315c29d5af6c", null ],
-    [ "TEST_F", "d6/dcf/a29279.html#ae31e3b13342d4ea071f29961ab4a1775", null ],
-    [ "TEST_F", "d6/dcf/a29279.html#aabed1171286f2b1b05cc4380a00c5df7", null ]
+    [ "MockAuraStub", "d6/dcf/a29279.html#a9f0561eabca5230f8fe27384e0deb6b8", null ],
+    [ "MOCK_METHOD", "d6/dcf/a29279.html#a727233484b563f548c9f0e2d8a78b9a6", null ],
+    [ "MOCK_METHOD", "d6/dcf/a29279.html#a9581f1887abbe708bc4e2da24e1996b5", null ],
+    [ "MOCK_METHOD", "d6/dcf/a29279.html#abe2d675e124d5cb9115e8f726b1c7d8b", null ]
 ];

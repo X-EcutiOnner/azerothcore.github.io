@@ -1,5 +1,5 @@
 var a14719 =
 [
-    [ "PrepareSpellScript", "da/ddc/a14719.html#a50ee42c11937759b6c52c2ab994481c4", null ],
-    [ "Register", "da/ddc/a14719.html#a8dc12a723c2da948c38119e3fc34df35", null ]
+    [ "go_pumpkin_shrine", "da/ddc/a14719.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "da/ddc/a14719.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

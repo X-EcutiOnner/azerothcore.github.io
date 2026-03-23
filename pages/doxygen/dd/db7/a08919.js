@@ -1,8 +1,11 @@
 var a08919 =
 [
-    [ "TempSummonGroupKey", "dd/db7/a08919.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
-    [ "operator<", "dd/db7/a08919.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
-    [ "_summonerEntry", "dd/db7/a08919.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
-    [ "_summonerType", "dd/db7/a08919.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
-    [ "_summonGroup", "dd/db7/a08919.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
+    [ "FriendInfo", "dd/db7/a08919.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
+    [ "FriendInfo", "dd/db7/a08919.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
+    [ "Area", "dd/db7/a08919.html#adf16884b55545ed9302dbb54d653867b", null ],
+    [ "Class", "dd/db7/a08919.html#a8b797fcfda05d52d4297f32e458be519", null ],
+    [ "Flags", "dd/db7/a08919.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
+    [ "Level", "dd/db7/a08919.html#a70d9a74f4587f648db5bf49b61091213", null ],
+    [ "Note", "dd/db7/a08919.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
+    [ "Status", "dd/db7/a08919.html#a380f11d65b34e1e598b7861987cecfe6", null ]
 ];

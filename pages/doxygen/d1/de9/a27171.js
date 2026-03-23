@@ -1,7 +1,9 @@
 var a27171 =
 [
-    [ "HandleApplyAura", "d1/de9/a27171.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d1/de9/a27171.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d1/de9/a27171.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d1/de9/a27171.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "HandleHeal", "d1/de9/a27171.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "d1/de9/a27171.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "d1/de9/a27171.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "d1/de9/a27171.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "d1/de9/a27171.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "d1/de9/a27171.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

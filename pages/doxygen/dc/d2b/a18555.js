@@ -1,8 +1,8 @@
 var a18555 =
 [
-    [ "ChangeDamageAndGrow", "dc/d2b/a18555.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "dc/d2b/a18555.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "dc/d2b/a18555.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "dc/d2b/a18555.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "dc/d2b/a18555.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "Load", "dc/d2b/a18555.html#add67e02f44e3658bff98faf7a9466ba3", null ],
+    [ "OnPeriodic", "dc/d2b/a18555.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
+    [ "PrepareAuraScript", "dc/d2b/a18555.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
+    [ "Register", "dc/d2b/a18555.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
+    [ "_is25Man", "dc/d2b/a18555.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
 ];

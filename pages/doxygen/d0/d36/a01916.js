@@ -1,4 +1,5 @@
 var a01916 =
 [
-    [ "CliThread", "d8/d4c/a04931.html#ga2a2e263e5224262317a4728b5a4c18ac", null ]
+    [ "WorldSessionMgr", "d0/d04/a11539.html", "d0/d04/a11539" ],
+    [ "sWorldSessionMgr", "d0/d36/a01916.html#a57dd9797e2282d27210248275f47ab85", null ]
 ];

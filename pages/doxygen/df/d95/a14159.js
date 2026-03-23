@@ -1,9 +1,7 @@
 var a14159 =
 [
-    [ "npc_amanishi_lookout", "df/d95/a14159.html#adf34c160c531164a459092f45588a7be", null ],
-    [ "DoAction", "df/d95/a14159.html#ab43e3372000af268c81e2701070e1b03", null ],
-    [ "MoveInLineOfSight", "df/d95/a14159.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
-    [ "MovementInform", "df/d95/a14159.html#ae9e6d22a781392107a7e50e5815c116c", null ],
-    [ "Reset", "df/d95/a14159.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
-    [ "_instance", "df/d95/a14159.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
+    [ "npc_zuljin_vortex", "df/d95/a14159.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "df/d95/a14159.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "df/d95/a14159.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "df/d95/a14159.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

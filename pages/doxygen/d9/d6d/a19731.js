@@ -1,8 +1,12 @@
 var a19731 =
 [
-    [ "HandleEffectPeriodic", "d9/d6d/a19731.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "d9/d6d/a19731.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "d9/d6d/a19731.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "d9/d6d/a19731.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "d9/d6d/a19731.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "boss_krystallusAI", "d9/d6d/a19731.html#adfa2ab8498279937bf497292d6e7cba5", null ],
+    [ "JustDied", "d9/d6d/a19731.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
+    [ "JustEngagedWith", "d9/d6d/a19731.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
+    [ "KilledUnit", "d9/d6d/a19731.html#acf9101c5b776820039fd80e5d6e0c138", null ],
+    [ "RemoveStonedEffect", "d9/d6d/a19731.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
+    [ "Reset", "d9/d6d/a19731.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
+    [ "UpdateAI", "d9/d6d/a19731.html#a79095e25f1d9dac927f63cef67db60ec", null ],
+    [ "events", "d9/d6d/a19731.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
+    [ "pInstance", "d9/d6d/a19731.html#aec9cf7053476298f72dccf3bd1579c63", null ]
 ];

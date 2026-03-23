@@ -1,6 +1,7 @@
 var a24099 =
 [
-    [ "FilterTargets", "dd/d7d/a24099.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "dd/d7d/a24099.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "dd/d7d/a24099.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "npc_pet_gen_target_following_bomb", "dd/d7d/a24099.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "dd/d7d/a24099.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "dd/d7d/a24099.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "dd/d7d/a24099.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

@@ -1,9 +1,7 @@
 var a25699 =
 [
-    [ "CheckIfCorpseNear", "dc/deb/a25699.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
-    [ "HandleDummy", "dc/deb/a25699.html#a913c0137d2a13c810bbae869cc6cf734", null ],
-    [ "Load", "dc/deb/a25699.html#a3f36968d10bde12c7e2eda8db4145252", null ],
-    [ "PrepareSpellScript", "dc/deb/a25699.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
-    [ "Register", "dc/deb/a25699.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
-    [ "Validate", "dc/deb/a25699.html#a51b075f95211025b2a7719a3ee70a6be", null ]
+    [ "HandleDummy", "dc/deb/a25699.html#a7a8016e1403caa0432242c5c3240f107", null ],
+    [ "PrepareSpellScript", "dc/deb/a25699.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
+    [ "Register", "dc/deb/a25699.html#abd09f5df3f31af619f24214f90791a53", null ],
+    [ "Validate", "dc/deb/a25699.html#ab14aedfdb61d54334f60e57968fcf081", null ]
 ];

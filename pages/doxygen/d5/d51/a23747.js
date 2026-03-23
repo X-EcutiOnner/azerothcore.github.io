@@ -1,5 +1,6 @@
 var a23747 =
 [
-    [ "go_broggok_lever", "d5/d51/a23747.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "d5/d51/a23747.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "npc_wounded_blood_elfAI", "d5/db6/a23751.html", "d5/db6/a23751" ],
+    [ "npc_wounded_blood_elf", "d5/d51/a23747.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "d5/d51/a23747.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

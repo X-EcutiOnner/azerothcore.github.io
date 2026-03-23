@@ -1,15 +1,18 @@
 var a05155 =
 [
-    [ "WorldModel", "db/d92/a05155.html#a42116d73362e248de40a88f49d95a0f4", null ],
-    [ "GetGroupModels", "db/d92/a05155.html#ae739dd33c5fcfdf4129ec0f9292eb885", null ],
-    [ "GetLocationInfo", "db/d92/a05155.html#a9dd4a14ce5af9f108714ec263a3507f7", null ],
-    [ "IntersectRay", "db/d92/a05155.html#a63c3d4e85d0924d6c46d8b6c6f70a593", null ],
-    [ "readFile", "db/d92/a05155.html#a8e33038d14961c4f28b36d2bd2237df6", null ],
-    [ "setGroupModels", "db/d92/a05155.html#aadf13de73aee68848ea6082418e625b0", null ],
-    [ "setRootWmoID", "db/d92/a05155.html#a5d6daa757304ceb69e578a6b9ae519d4", null ],
-    [ "writeFile", "db/d92/a05155.html#ae449aaa575e98eac6838b0f18660697a", null ],
-    [ "Flags", "db/d92/a05155.html#aea4d1e085733b0bbfbb389d7c4ac9bd1", null ],
-    [ "groupModels", "db/d92/a05155.html#ae44c57520cea5da5a5f082167e9f818d", null ],
-    [ "groupTree", "db/d92/a05155.html#a101692f46ae752cbde7b264b02e23168", null ],
-    [ "RootWMOID", "db/d92/a05155.html#a5a8745b313b1417e9dbb1d571fb173dd", null ]
+    [ "BuildStats", "db/d92/a05155.html#a9a2e28e15f755a8a0b5751d62664734f", null ],
+    [ "printStats", "db/d92/a05155.html#a77e7b7ff44c0f16fc2b5d4370c18751b", null ],
+    [ "updateBVH2", "db/d92/a05155.html#a9f30e85b3eaa67dc38a28e3472c56de3", null ],
+    [ "updateInner", "db/d92/a05155.html#a1a3087af9d859d25cd9d475ad8987ca3", null ],
+    [ "updateLeaf", "db/d92/a05155.html#ae8cf4ba9eaa7dc424914483ab3fafeba", null ],
+    [ "maxDepth", "db/d92/a05155.html#a855eb250661d80a9313b926556e12168", null ],
+    [ "maxObjects", "db/d92/a05155.html#acd34211244a97c08193421818f326ff9", null ],
+    [ "minDepth", "db/d92/a05155.html#a90121f1721624ae2be8b3e6860d02f23", null ],
+    [ "minObjects", "db/d92/a05155.html#a0d3d26a62ae4aeb18fdff7d07a4b7873", null ],
+    [ "numBVH2", "db/d92/a05155.html#a37d64390b3f004f36588c1467a446cd0", null ],
+    [ "numLeaves", "db/d92/a05155.html#a6546dd9cc0de2cba9159f6ab2477b81f", null ],
+    [ "numLeavesN", "db/d92/a05155.html#a208e3c10fbd61fa6d4cc6736140ddfb1", null ],
+    [ "numNodes", "db/d92/a05155.html#afbedc638e0117b7ca5c5f1e447846717", null ],
+    [ "sumDepth", "db/d92/a05155.html#a11cf172a3108b68efc5974b614187550", null ],
+    [ "sumObjects", "db/d92/a05155.html#a84aa8066e8e19902aecec45607d7a93d", null ]
 ];

@@ -1,6 +1,7 @@
 var a22395 =
 [
-    [ "npc_avatar_of_freya", "df/dcd/a22395.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
-    [ "OnGossipHello", "df/dcd/a22395.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
-    [ "OnGossipSelect", "df/dcd/a22395.html#aba1b13e922873e939b2510b4bc77f49d", null ]
+    [ "npc_voidtraveler", "df/dcd/a22395.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "df/dcd/a22395.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "df/dcd/a22395.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "df/dcd/a22395.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

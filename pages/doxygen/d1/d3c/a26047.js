@@ -1,6 +1,7 @@
 var a26047 =
 [
-    [ "CheckSinkholes", "d1/d3c/a26047.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "d1/d3c/a26047.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "d1/d3c/a26047.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "HandleProc", "d1/d3c/a26047.html#a7bf47ecb24b3427dda1980f68b41cfe8", null ],
+    [ "PrepareAuraScript", "d1/d3c/a26047.html#a92468411049bd05eda99e676edefcf6e", null ],
+    [ "Register", "d1/d3c/a26047.html#a32ca1fb3bb75fb98cb8aec38adf54325", null ],
+    [ "Validate", "d1/d3c/a26047.html#a9a531733a3e7426a3bf6aa50ab86f4d9", null ]
 ];

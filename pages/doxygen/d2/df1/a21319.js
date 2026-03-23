@@ -1,7 +1,6 @@
 var a21319 =
 [
-    [ "HandleOnEffectRemove", "d2/df1/a21319.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d2/df1/a21319.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d2/df1/a21319.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d2/df1/a21319.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "npc_warmage_coldarraAI", "d0/d6a/a21323.html", "d0/d6a/a21323" ],
+    [ "npc_warmage_coldarra", "d2/df1/a21319.html#a358f8ab26991798ff076ac764cd7abe2", null ],
+    [ "GetAI", "d2/df1/a21319.html#aa29181e0ad61b44eff685267f3231382", null ]
 ];

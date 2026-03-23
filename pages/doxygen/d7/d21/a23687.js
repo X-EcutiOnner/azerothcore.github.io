@@ -1,11 +1,16 @@
 var a23687 =
 [
-    [ "boss_gruul", "d7/d21/a23687.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "d7/d21/a23687.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "d7/d21/a23687.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "d7/d21/a23687.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "d7/d21/a23687.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "d7/d21/a23687.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "d7/d21/a23687.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "d7/d21/a23687.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "npc_nether_drakeAI", "d7/d21/a23687.html#a82f2c29b380be95303e1558776ea2d88", null ],
+    [ "JustEngagedWith", "d7/d21/a23687.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
+    [ "MoveInLineOfSight", "d7/d21/a23687.html#a9e122d4533155c926904a13e8534d32e", null ],
+    [ "MovementInform", "d7/d21/a23687.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
+    [ "Reset", "d7/d21/a23687.html#acb03513dd67988e0961632846021a42d", null ],
+    [ "SpellHit", "d7/d21/a23687.html#a40f05363f38d71954c9fb8773c382444", null ],
+    [ "UpdateAI", "d7/d21/a23687.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
+    [ "ArcaneBlast_Timer", "d7/d21/a23687.html#ace872917954f4978f3568d7ddecf22ad", null ],
+    [ "IntangiblePresence_Timer", "d7/d21/a23687.html#acecff3846090fa83c8fc43537d788501", null ],
+    [ "IsNihil", "d7/d21/a23687.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
+    [ "ManaBurn_Timer", "d7/d21/a23687.html#ae6c33df878497d29d5f61234b048009d", null ],
+    [ "NihilSpeech_Phase", "d7/d21/a23687.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
+    [ "NihilSpeech_Timer", "d7/d21/a23687.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
 ];

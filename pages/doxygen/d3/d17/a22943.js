@@ -1,6 +1,6 @@
 var a22943 =
 [
-    [ "FilterTargets", "d3/d17/a22943.html#abd3fafc2120b7069790dd9822cd62adc", null ],
-    [ "PrepareSpellScript", "d3/d17/a22943.html#aebc0441481a2c458fc904175df931a9e", null ],
-    [ "Register", "d3/d17/a22943.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
+    [ "FilterTargets", "d3/d17/a22943.html#af545460920658bc8ee0444f7c0d51970", null ],
+    [ "PrepareSpellScript", "d3/d17/a22943.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
+    [ "Register", "d3/d17/a22943.html#ac12cde698f5b0bbcdf433821772c7519", null ]
 ];

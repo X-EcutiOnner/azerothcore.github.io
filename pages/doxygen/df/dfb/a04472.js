@@ -1,10 +1,7 @@
 var a04472 =
 [
-    [ "spell_utgarde_pinnacle_beast_mark", "d3/df4/a21229.html", "d3/df4/a21229" ],
-    [ "UtgardeSpells", "df/dfb/a04472.html#ae8fa29243650c07aed99f9ee3cad321a", [
-      [ "SPELL_BEAST_MARK_NORMAL", "df/dfb/a04472.html#ae8fa29243650c07aed99f9ee3cad321aa515971380a351ffe4dc21aefd7d9a8aa", null ],
-      [ "SPELL_BEAST_MARK_DAMAGE_N", "df/dfb/a04472.html#ae8fa29243650c07aed99f9ee3cad321aa519ee30eba59f71f788bd5aaa9ea8a4f", null ],
-      [ "SPELL_BEAST_MARK_DAMAGE_H", "df/dfb/a04472.html#ae8fa29243650c07aed99f9ee3cad321aa28cc83c9c8ba75d8dd51298affc35aa7", null ]
-    ] ],
-    [ "AddSC_utgarde_pinnacle", "df/dfb/a04472.html#aa865b80ad4fb44b0c96fa45f08d06d71", null ]
+    [ "instance_utgarde_keep", "d9/de0/a20831.html", "d9/de0/a20831" ],
+    [ "instance_utgarde_keep::instance_utgarde_keep_InstanceMapScript", "da/d51/a20835.html", "da/d51/a20835" ],
+    [ "AddSC_instance_utgarde_keep", "df/dfb/a04472.html#a1691f35071d744591cc1be4a314edbec", null ],
+    [ "creatureData", "df/dfb/a04472.html#a412286b689bd324fedd65ddd8dde8afb", null ]
 ];

@@ -1,8 +1,11 @@
 var a20779 =
 [
-    [ "npc_ulduar_dark_rune_guardianAI", "de/db1/a20779.html#aedb43124c923621aadecb77511204fc6", null ],
-    [ "CanAIAttack", "de/db1/a20779.html#af23cb4a19d28f5aa57ba96de95f87c87", null ],
-    [ "Reset", "de/db1/a20779.html#a4c1f53fbbc6189ca9ee0420bc4198684", null ],
-    [ "UpdateAI", "de/db1/a20779.html#ad21127654d5511b6b1d9b22cdd77bd08", null ],
-    [ "timer2", "de/db1/a20779.html#aa66f1aa48cf928ac12751cb3ca2358f3", null ]
+    [ "npc_ulduar_storm_tempered_keeper", "de/db1/a20779.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
+    [ "JustDied", "de/db1/a20779.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
+    [ "JustEngagedWith", "de/db1/a20779.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
+    [ "JustSummoned", "de/db1/a20779.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
+    [ "Reset", "de/db1/a20779.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
+    [ "UpdateAI", "de/db1/a20779.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
+    [ "events", "de/db1/a20779.html#a4a79bd561fa63230a52730da20d7143c", null ],
+    [ "otherGUID", "de/db1/a20779.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
 ];

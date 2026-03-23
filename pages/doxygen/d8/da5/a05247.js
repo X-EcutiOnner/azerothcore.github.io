@@ -1,9 +1,8 @@
 var a05247 =
 [
-    [ "SessionKeyGenerator", "d8/da5/a05247.html#a8fa39e01cd3ed24e13735343ad658cbb", null ],
-    [ "Generate", "d8/da5/a05247.html#a2162fde8dbb84fc165faedaafed706b5", null ],
-    [ "o0", "d8/da5/a05247.html#a1eb1aafb255ccf771b0a49dcab869297", null ],
-    [ "o0it", "d8/da5/a05247.html#a7ea5a4a796da94a2dc14570d4336c27b", null ],
-    [ "o1", "d8/da5/a05247.html#a462354aed63797a90fc228e6399cb740", null ],
-    [ "o2", "d8/da5/a05247.html#a617205c872f2163026d511809776a775", null ]
+    [ "LocationInfoCallback", "d8/da5/a05247.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
+    [ "operator()", "d8/da5/a05247.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
+    [ "locInfo", "d8/da5/a05247.html#a9a8b8529a571b3652cd898b2888d8027", null ],
+    [ "prims", "d8/da5/a05247.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
+    [ "result", "d8/da5/a05247.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
 ];

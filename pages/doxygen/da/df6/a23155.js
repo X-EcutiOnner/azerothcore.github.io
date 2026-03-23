@@ -1,6 +1,7 @@
 var a23155 =
 [
-    [ "FilterTargets", "da/df6/a23155.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "da/df6/a23155.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "da/df6/a23155.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "HandleScript", "da/df6/a23155.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "da/df6/a23155.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "da/df6/a23155.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "da/df6/a23155.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

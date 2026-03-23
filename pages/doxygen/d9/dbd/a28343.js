@@ -1,6 +1,6 @@
 var a28343 =
 [
-    [ "AreaGroupId", "d9/dbd/a28343.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d9/dbd/a28343.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d9/dbd/a28343.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "npc_venomhide_hatchlingAI", "d9/dbd/a28343.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d9/dbd/a28343.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d9/dbd/a28343.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

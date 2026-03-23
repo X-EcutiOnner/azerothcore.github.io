@@ -1,6 +1,8 @@
 var a22039 =
 [
-    [ "GhoulTargetCheck", "d2/daf/a22039.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "d2/daf/a22039.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "d2/daf/a22039.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "spell_loosen_grip", "d2/daf/a22039.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "d2/daf/a22039.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "d2/daf/a22039.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "d2/daf/a22039.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "d2/daf/a22039.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

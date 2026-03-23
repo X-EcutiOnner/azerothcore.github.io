@@ -1,9 +1,10 @@
 var a05187 =
 [
-    [ "criticalOptionSeverity", "db/d48/a05187.html#adfaae562c345965b96fa5f7c92da161e", null ],
-    [ "defaultSeverity", "db/d48/a05187.html#a4d490930b6bbaa9c50570ff9808b1af9", null ],
-    [ "missingFileSeverity", "db/d48/a05187.html#a8cd5da53d2cd0b5d0533741a2dcf651c", null ],
-    [ "missingOptionSeverity", "db/d48/a05187.html#a3c64d5a1ac04533f27af53de8d688ec5", null ],
-    [ "unknownOptionSeverity", "db/d48/a05187.html#ad41070de3cb2c7fa2916654b9e2a693e", null ],
-    [ "valueErrorSeverity", "db/d48/a05187.html#a2c1a05a826289e1cc3f01a988718dda2", null ]
+    [ "DynamicTreeLocationInfoCallback", "db/d48/a05187.html#a3fcb6d535b2207e2bfedb961de856e6d", null ],
+    [ "GetHitModel", "db/d48/a05187.html#ac939625c44c7be8ba8b96d55545b657c", null ],
+    [ "GetLocationInfo", "db/d48/a05187.html#ac1c3839aa1f0e9b64390502c4ce7bb3e", null ],
+    [ "operator()", "db/d48/a05187.html#a4d2569c48cfa431282119ed5bd53ffb4", null ],
+    [ "_hitModel", "db/d48/a05187.html#adef79d7627daa66d88c7146704984622", null ],
+    [ "_locationInfo", "db/d48/a05187.html#a3c9be93de73520942a8d52b78fe72438", null ],
+    [ "_phaseMask", "db/d48/a05187.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e", null ]
 ];

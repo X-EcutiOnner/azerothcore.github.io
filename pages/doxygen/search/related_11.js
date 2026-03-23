@@ -1,12 +1,7 @@
 var searchData=
 [
-  ['_5fapplyaura_0',['_ApplyAura',['../dd/d2f/a11545.html#a0ee9d6fcaabda925fdbf12feed2d6fbe',1,'AuraApplication']]],
-  ['_5fapplyauraeffect_1',['_ApplyAuraEffect',['../dd/d2f/a11545.html#a7bccd89e3e56acad8ccb5ff6fe004bc8',1,'AuraApplication']]],
-  ['_5fcreateauraapplication_2',['_CreateAuraApplication',['../dd/d2f/a11545.html#a70986d45ff7bcd29d8198bed9a4b8645',1,'AuraApplication']]],
-  ['_5ftrystackingorrefreshingexistingaura_3',['_TryStackingOrRefreshingExistingAura',['../d1/d6a/a11537.html#a851e18dcd4b806db1cd3843a7814d15a',1,'AuraEffect::_TryStackingOrRefreshingExistingAura()'],['../d5/d74/a11549.html#a851e18dcd4b806db1cd3843a7814d15a',1,'Aura::_TryStackingOrRefreshingExistingAura()']]],
-  ['_5funapplyaura_4',['_UnapplyAura',['../dd/d2f/a11545.html#a4eef528c953f9f6c5e08e0a3cbd6c0c5',1,'AuraApplication']]],
-  ['createvehiclekit_5',['CreateVehicleKit',['../da/d68/a09041.html#a9086db467f2f71f20bc02ed2330a8c37',1,'Vehicle']]],
-  ['removeaura_6',['RemoveAura',['../dd/d2f/a11545.html#a521cdbdf816702f2a928d8b1d775d209',1,'AuraApplication']]],
-  ['removevehiclekit_7',['RemoveVehicleKit',['../da/d68/a09041.html#a64f84e614dc48de43b62bb1f77fe2bb3',1,'Vehicle']]],
-  ['setcurrentcastedspell_8',['SetCurrentCastedSpell',['../d8/d5b/a11589.html#a61c5e93627b85645d6a3b0a5af13d58a',1,'Spell']]]
+  ['wardenmac_0',['WardenMac',['../d1/da9/a12011.html#ac5a815f5f6527a3588c6cd138a02f7d2',1,'Warden']]],
+  ['wardenwin_1',['WardenWin',['../d1/da9/a12011.html#a7e8075b64a48dea5876b9199aeb75717',1,'Warden']]],
+  ['world_2',['World',['../d3/dd5/a11531.html#a7b4bcdf992c21ae83363f25df05b1d25',1,'WorldSession::World()'],['../d8/dad/a11535.html#a7b4bcdf992c21ae83363f25df05b1d25',1,'WorldSession::DosProtection::World()']]],
+  ['worldsession_3',['WorldSession',['../d8/d0c/a08895.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'Player::WorldSession()'],['../dd/d61/a11511.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterCreateInfo::WorldSession()'],['../db/df7/a11515.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterRenameInfo::WorldSession()'],['../dc/d96/a11519.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterCustomizeInfo::WorldSession()'],['../d7/d61/a11523.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterFactionChangeInfo::WorldSession()']]]
 ];

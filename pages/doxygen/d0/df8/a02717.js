@@ -1,7 +1,4 @@
 var a02717 =
 [
-    [ "IsAcceptedClientBuild", "d0/df8/a02717.html#a50a906b5a3fdca3508aee0997881a717", null ],
-    [ "IsPostBCAcceptedClientBuild", "d0/df8/a02717.html#ad4f22daf9d88367d90d92416f470a28c", null ],
-    [ "IsPreBCAcceptedClientBuild", "d0/df8/a02717.html#a96896fc9dad2c304f681a24776f6726b", null ],
-    [ "MAX_PRE_BC_CLIENT_BUILD", "d0/df8/a02717.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
+    [ "CliThread", "de/d7d/a05000.html#ga2a2e263e5224262317a4728b5a4c18ac", null ]
 ];

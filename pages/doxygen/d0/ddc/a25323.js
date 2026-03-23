@@ -1,6 +1,6 @@
 var a25323 =
 [
-    [ "CheckSeat", "d0/ddc/a25323.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "d0/ddc/a25323.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "d0/ddc/a25323.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "CheckCast", "d0/ddc/a25323.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "d0/ddc/a25323.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "d0/ddc/a25323.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

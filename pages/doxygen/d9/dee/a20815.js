@@ -1,6 +1,9 @@
 var a20815 =
 [
-    [ "boss_thorim_sifAI", "d5/d87/a20819.html", "d5/d87/a20819" ],
-    [ "boss_thorim_sif", "d9/dee/a20815.html#a71ef8a92f648cbea6553ed1cc657f13d", null ],
-    [ "GetAI", "d9/dee/a20815.html#ae4eadf2bf83c41a8f05b853267b5fcf9", null ]
+    [ "npc_vrykul_skeleton", "d9/dee/a20815.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
+    [ "DamageTaken", "d9/dee/a20815.html#a840244c4183987e4fda533edb2ddeff2", null ],
+    [ "Reset", "d9/dee/a20815.html#af950342b2177c84c101485736855b998", null ],
+    [ "UpdateAI", "d9/dee/a20815.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
+    [ "events", "d9/dee/a20815.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
+    [ "pInstance", "d9/dee/a20815.html#a834f0162540683c20f9fa0f9e32eee33", null ]
 ];

@@ -1,7 +1,6 @@
 var a22607 =
 [
-    [ "HandleScript", "d9/d35/a22607.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d9/d35/a22607.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d9/d35/a22607.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d9/d35/a22607.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "boss_reliquary_of_soulsAI", "db/dee/a22611.html", "db/dee/a22611" ],
+    [ "boss_reliquary_of_souls", "d9/d35/a22607.html#a0c73fc6221da0b19903e534932ca6406", null ],
+    [ "GetAI", "d9/d35/a22607.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
 ];

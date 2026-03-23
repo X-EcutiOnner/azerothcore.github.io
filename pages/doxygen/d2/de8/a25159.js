@@ -1,5 +1,7 @@
 var a25159 =
 [
-    [ "PrepareSpellScript", "d2/de8/a25159.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "d2/de8/a25159.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "ModDest", "d2/de8/a25159.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "d2/de8/a25159.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "d2/de8/a25159.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "d2/de8/a25159.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

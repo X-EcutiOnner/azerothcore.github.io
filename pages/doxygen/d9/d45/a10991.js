@@ -1,8 +1,6 @@
 var a10991 =
 [
-    [ "CrossedInebriationThreshold", "d9/d45/a10991.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "d9/d45/a10991.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "d9/d45/a10991.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "d9/d45/a10991.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "d9/d45/a10991.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "GuildOfficerRemoveMember", "d9/d45/a10991.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "d9/d45/a10991.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "d9/d45/a10991.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

@@ -1,9 +1,6 @@
 var a20935 =
 [
-    [ "npc_xt002_scrapbotAI", "da/df2/a20935.html#a21be97bb49ff06ef090cbbe6f5006f56", null ],
-    [ "JustDied", "da/df2/a20935.html#adcab192d017e6a9e8d103a6e8b91cb26", null ],
-    [ "MovementInform", "da/df2/a20935.html#a48fd29d42280ae91852ef2ef0cecc8f6", null ],
-    [ "Reset", "da/df2/a20935.html#aab71d2a49ee96e88a2858c07c455e78d", null ],
-    [ "UpdateAI", "da/df2/a20935.html#ae2de6767f8ab502833971e4171d48c13", null ],
-    [ "_locked", "da/df2/a20935.html#add3bfe992d635629ac7e07e04c4334c9", null ]
+    [ "HandleDummyEffect", "da/df2/a20935.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
+    [ "PrepareSpellScript", "da/df2/a20935.html#a07376c95cb2ec41d86a24be59094d207", null ],
+    [ "Register", "da/df2/a20935.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
 ];

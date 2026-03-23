@@ -1,6 +1,6 @@
 var a20643 =
 [
-    [ "npc_ulduar_proximity_mineAI", "d0/d4b/a20647.html", "d0/d4b/a20647" ],
-    [ "npc_ulduar_proximity_mine", "d0/d44/a20643.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
-    [ "GetAI", "d0/d44/a20643.html#a7d8237b965699004f9df731e357b4020", null ]
+    [ "boss_yoggsaron_influence_tentacle", "d0/d44/a20643.html#ad770f3c3e63240e50c965f277b2324ea", null ],
+    [ "DamageTaken", "d0/d44/a20643.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "d0/d44/a20643.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

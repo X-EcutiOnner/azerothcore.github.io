@@ -1,7 +1,11 @@
 var a22995 =
 [
-    [ "HandleDummy", "df/db2/a22995.html#af5ac581f7d471300fba2c23548037eea", null ],
-    [ "PrepareSpellScript", "df/db2/a22995.html#adda61c05b544b52d98af5b7a76d4f808", null ],
-    [ "Register", "df/db2/a22995.html#a270a64dffdce230d97515f116ec49706", null ],
-    [ "Validate", "df/db2/a22995.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
+    [ "boss_ahune", "df/db2/a22995.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "df/db2/a22995.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "df/db2/a22995.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "df/db2/a22995.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "df/db2/a22995.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "df/db2/a22995.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "df/db2/a22995.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "df/db2/a22995.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

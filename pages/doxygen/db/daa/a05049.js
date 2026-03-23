@@ -1,23 +1,22 @@
 var a05049 =
 [
-    [ "AutoEquipItem", "dd/d7a/a11097.html", "dd/d7a/a11097" ],
-    [ "AutoEquipItemSlot", "d8/d58/a11089.html", "d8/d58/a11089" ],
-    [ "AutoStoreBagItem", "d8/d80/a11129.html", "d8/d80/a11129" ],
-    [ "BuybackItem", "dd/de3/a11113.html", "dd/de3/a11113" ],
-    [ "BuyItem", "d0/df1/a11121.html", "d0/df1/a11121" ],
-    [ "BuyItemInSlot", "da/d0c/a11117.html", "da/d0c/a11117" ],
-    [ "CancelTempEnchantment", "d8/dd8/a11149.html", "d8/dd8/a11149" ],
-    [ "DestroyItem", "db/de6/a11101.html", "db/de6/a11101" ],
-    [ "EnchantmentLog", "d0/d2b/a11133.html", "d0/d2b/a11133" ],
-    [ "ItemEnchantTimeUpdate", "d3/d4e/a11137.html", "d3/d4e/a11137" ],
-    [ "ItemRefund", "df/d9b/a11157.html", "df/d9b/a11157" ],
-    [ "ItemRefundInfo", "d6/d7f/a11153.html", "d6/d7f/a11153" ],
-    [ "ListInventory", "de/d7a/a11125.html", "de/d7a/a11125" ],
-    [ "ReadItem", "d3/d01/a11105.html", "d3/d01/a11105" ],
-    [ "SellItem", "d8/d94/a11109.html", "d8/d94/a11109" ],
-    [ "SocketGems", "d3/d6b/a11145.html", "d3/d6b/a11145" ],
-    [ "SplitItem", "dd/dcd/a11081.html", "dd/dcd/a11081" ],
-    [ "SwapInventoryItem", "d3/d0d/a11085.html", "d3/d0d/a11085" ],
-    [ "SwapItem", "da/d32/a11093.html", "da/d32/a11093" ],
-    [ "WrapItem", "d7/dfb/a11141.html", "d7/dfb/a11141" ]
+    [ "AccountIdentifier", "dc/d86/a07971.html", "dc/d86/a07971" ],
+    [ "ChatCommandBuilder", "de/dfe/a07831.html", "de/dfe/a07831" ],
+    [ "ExactSequence", "d6/d79/a07955.html", "d6/d79/a07955" ],
+    [ "Hyperlink", "d5/ddf/a07979.html", "d5/ddf/a07979" ],
+    [ "PlayerIdentifier", "d5/d12/a07975.html", "d5/d12/a07975" ],
+    [ "QuotedString", "da/d4d/a07967.html", "da/d4d/a07967" ],
+    [ "Tail", "db/d36/a07959.html", "db/d36/a07959" ],
+    [ "Variant", "de/d30/a07987.html", "de/d30/a07987" ],
+    [ "WTail", "d7/dbd/a07963.html", "d7/dbd/a07963" ],
+    [ "ChatCommandTable", "db/daa/a05049.html#a7aa1549a95f760a19b9b7ffd8e669626", null ],
+    [ "Console", "db/daa/a05049.html#a6f2659123367a36f37046e5604215d6b", [
+      [ "No", "db/daa/a05049.html#a6f2659123367a36f37046e5604215d6babafd7322c6e97d25b6299b5d6fe8920b", null ],
+      [ "Yes", "db/daa/a05049.html#a6f2659123367a36f37046e5604215d6ba93cba07454f06a4a960172bbd6e2a435", null ]
+    ] ],
+    [ "GetAutoCompletionsFor", "db/daa/a05049.html#a9a1f396a96afbd90b5c426315c8ba37d", null ],
+    [ "InvalidateCommandMap", "db/daa/a05049.html#ade19080af583292883b932d83992c6fe", null ],
+    [ "LoadCommandMap", "db/daa/a05049.html#a2c6cb6c985ac8fd7bb2f8b2bab1be30d", null ],
+    [ "SendCommandHelpFor", "db/daa/a05049.html#a81e8830ce306f6cfbcd04c92d3e0cc7f", null ],
+    [ "TryExecuteCommand", "db/daa/a05049.html#aca39508e7753f6ca5d9aa21a854c0a77", null ]
 ];

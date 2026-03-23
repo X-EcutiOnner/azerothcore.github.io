@@ -1,5 +1,8 @@
 var a21383 =
 [
-    [ "go_harpoon_canon", "d0/d4d/a21383.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "d0/d4d/a21383.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "npc_shandy_dalaranAI", "d1/d1b/a21387.html", "d1/d1b/a21387" ],
+    [ "npc_shandy_dalaran", "d0/d4d/a21383.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "d0/d4d/a21383.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "d0/d4d/a21383.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "d0/d4d/a21383.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

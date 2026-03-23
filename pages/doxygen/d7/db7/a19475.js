@@ -1,5 +1,6 @@
 var a19475 =
 [
-    [ "at_naxxramas_hub_portal", "d7/db7/a19475.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "d7/db7/a19475.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "FilterTargets", "d7/db7/a19475.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "PrepareSpellScript", "d7/db7/a19475.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d7/db7/a19475.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
 ];

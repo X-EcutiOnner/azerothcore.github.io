@@ -1,9 +1,8 @@
 var a09663 =
 [
-    [ "EmoteChatBuilder", "db/d0a/a09663.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
-    [ "operator()", "db/d0a/a09663.html#a133a7bb35e86cf40425910c4f19a3337", null ],
-    [ "i_emote_num", "db/d0a/a09663.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
-    [ "i_player", "db/d0a/a09663.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
-    [ "i_target", "db/d0a/a09663.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
-    [ "i_text_emote", "db/d0a/a09663.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
+    [ "CallOfHelpCreatureInRangeDo", "db/d0a/a09663.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
+    [ "operator()", "db/d0a/a09663.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
+    [ "i_enemy", "db/d0a/a09663.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
+    [ "i_funit", "db/d0a/a09663.html#aff1768cd844e4e23821cf78f9d360e06", null ],
+    [ "i_range", "db/d0a/a09663.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
 ];

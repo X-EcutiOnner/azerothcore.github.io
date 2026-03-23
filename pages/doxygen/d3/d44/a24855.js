@@ -1,16 +1,8 @@
 var a24855 =
 [
-    [ "CheckCast", "d3/d44/a24855.html#a28e769267a83e4c499dca83a3f5708eb", null ],
-    [ "CheckReagents", "d3/d44/a24855.html#aa8a2efb4807c29aeb5bf786e05113b61", null ],
-    [ "CheckTarget", "d3/d44/a24855.html#ae339cf884f1d2f877e988ef6f6b555bf", null ],
-    [ "CheckTargets", "d3/d44/a24855.html#af1013668080685cd86ae6abb52258fb1", null ],
-    [ "ConsumeReagents", "d3/d44/a24855.html#aa5df00ed970db696b92b51566e098f3f", null ],
-    [ "GetGhoulSpellId", "d3/d44/a24855.html#a9f94b3d279c036fb4b1c5b69934e63f2", null ],
-    [ "HandleRaiseDead", "d3/d44/a24855.html#a3d1e0191d99e970f42d825632fe0f7e2", null ],
-    [ "Load", "d3/d44/a24855.html#a05ea44a20f08f9010faca13a0f4d0f39", null ],
-    [ "PrepareSpellScript", "d3/d44/a24855.html#a9565c8459a6d8cfed85c9120aca9715f", null ],
-    [ "Register", "d3/d44/a24855.html#a0ebef363de4a802b242c806517ad0fb5", null ],
-    [ "Validate", "d3/d44/a24855.html#a0ab8ee639fa83e954e964994c75451c8", null ],
-    [ "_corpse", "d3/d44/a24855.html#adbc699b3bfd33f595ea287ca833ea2d4", null ],
-    [ "_result", "d3/d44/a24855.html#aefebf79fa61b9f4d12929d54bd48389f", null ]
+    [ "CheckProc", "d3/d44/a24855.html#a88cdab428be20027d939fe4765afc9e0", null ],
+    [ "HandleProc", "d3/d44/a24855.html#a8e49a1bc11fdfc1b7d3f8225c890206f", null ],
+    [ "PrepareAuraScript", "d3/d44/a24855.html#a33f53dc5834a3be78e24a1a58bdfd15a", null ],
+    [ "Register", "d3/d44/a24855.html#aacb126d871c0df43f5096124b8cda376", null ],
+    [ "Validate", "d3/d44/a24855.html#aa81adc61bd1149d9c43c4670f02a91ba", null ]
 ];

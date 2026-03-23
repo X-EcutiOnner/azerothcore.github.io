@@ -1,8 +1,6 @@
 var a23899 =
 [
-    [ "FilterTargets", "dc/d73/a23899.html#ae366594b668331a19f384ceb48654c0c", null ],
-    [ "HandleOnHit", "dc/d73/a23899.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
-    [ "PrepareSpellScript", "dc/d73/a23899.html#a71aa4018d293391a73d3317c1e80951d", null ],
-    [ "Register", "dc/d73/a23899.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
-    [ "Validate", "dc/d73/a23899.html#a3747ad271dc659436ae7a8203b964554", null ]
+    [ "npc_drake_dealer_hurlunk", "dc/d73/a23899.html#ae6d095365d23c30d5b772b047b459ddb", null ],
+    [ "OnGossipHello", "dc/d73/a23899.html#ad04b7f906f029d9935e29c585b0de421", null ],
+    [ "OnGossipSelect", "dc/d73/a23899.html#aa23833dcdefb909899120c25d5376111", null ]
 ];

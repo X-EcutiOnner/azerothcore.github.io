@@ -1,12 +1,17 @@
 var a23347 =
 [
-    [ "boss_fathomguard_sharkkis", "d7/d20/a23347.html#affc3a4422ce62311879bef6df104c9b9", null ],
-    [ "EnterEvadeMode", "d7/d20/a23347.html#a344072e382566575168cdcf57d0f6481", null ],
-    [ "JustDied", "d7/d20/a23347.html#a1a4fdf91f6d8d0e3e0672e174152a59d", null ],
-    [ "JustEngagedWith", "d7/d20/a23347.html#a5724db6f55f1c5ed2e351603a1b26943", null ],
-    [ "JustSummoned", "d7/d20/a23347.html#a31098d1e91412b797663fe677114af20", null ],
-    [ "Reset", "d7/d20/a23347.html#a5d8b89e2d4a203df5ec574b96df0d489", null ],
-    [ "UpdateAI", "d7/d20/a23347.html#ab71689fda10d6d31dd2bfc72026bd755", null ],
-    [ "_instance", "d7/d20/a23347.html#ad3dc90987a8b01fcd55799f66d18906c", null ],
-    [ "_summons", "d7/d20/a23347.html#a73f887b3f829027fc336a8e4a9c5b963", null ]
+    [ "boss_grand_warlock_nethekurse", "d7/d20/a23347.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
+    [ "DoAction", "d7/d20/a23347.html#a8288f8c28b61dac574254435534b5e3f", null ],
+    [ "IntroRP", "d7/d20/a23347.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
+    [ "JustDied", "d7/d20/a23347.html#a48a2ec7beeb5c9685fc627317acea949", null ],
+    [ "JustEngagedWith", "d7/d20/a23347.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
+    [ "JustReachedHome", "d7/d20/a23347.html#afe62561de66fbe7fa92c365a51f01adc", null ],
+    [ "KilledUnit", "d7/d20/a23347.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
+    [ "Reset", "d7/d20/a23347.html#aceef7aace38f5246ad67a1591b7f301c", null ],
+    [ "SetData", "d7/d20/a23347.html#a6c647262ce7df78c46af6b725cbcc250", null ],
+    [ "UpdateAI", "d7/d20/a23347.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
+    [ "_canAggro", "d7/d20/a23347.html#a9c577798d5bc87654e6984af02d95c34", null ],
+    [ "_introStarted", "d7/d20/a23347.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
+    [ "PeonEngagedCount", "d7/d20/a23347.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
+    [ "PeonKilledCount", "d7/d20/a23347.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
 ];

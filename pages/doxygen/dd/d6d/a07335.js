@@ -1,5 +1,26 @@
 var a07335 =
 [
-    [ "CreateFilterByUserInput", "dd/d6d/a07335.html#ae35ff456f56290032c4c62d252a83690", null ],
-    [ "ParseTypes", "dd/d6d/a07335.html#a79a78392d31f1fbf3d8475572d570c1c", null ]
+    [ "BuildAuctionMailBody", "dd/d6d/a07335.html#a146f034b64f65c03866ecc2f45a9b448", null ],
+    [ "BuildAuctionMailSubject", "dd/d6d/a07335.html#a8e3dee79fd65c7f25ca1d74fe7924163", null ],
+    [ "CalculateAuctionOutBid", "dd/d6d/a07335.html#aa6854cd3ccd30bafdac8e13f05f97c1d", null ],
+    [ "DeleteFromDB", "dd/d6d/a07335.html#a13750d00897a07a57a881c3dcb1f6737", null ],
+    [ "GetAuctionCut", "dd/d6d/a07335.html#ab18794a9a9287cee3328625ae715a57e", null ],
+    [ "GetAuctionOutBid", "dd/d6d/a07335.html#a0d34f5709de579b0eea0884598755adc", null ],
+    [ "GetFactionId", "dd/d6d/a07335.html#ac5f752011b382f3b37a155b13cb5cb69", null ],
+    [ "GetHouseId", "dd/d6d/a07335.html#a2d5a849d817aaee17738aba2a53009f9", null ],
+    [ "LoadFromDB", "dd/d6d/a07335.html#acca59324d63bc3eb7a0ffa22c6101770", null ],
+    [ "SaveToDB", "dd/d6d/a07335.html#a62b83210cbde94626f6e092b454b83d8", null ],
+    [ "auctionHouseEntry", "dd/d6d/a07335.html#a46668a8214d200bf508a157aa256e9ec", null ],
+    [ "bid", "dd/d6d/a07335.html#a11521c90c74d1eba7d7d3ef55e960a93", null ],
+    [ "bidder", "dd/d6d/a07335.html#a3d4e0baffa36cf643b0c645efe4bf3f4", null ],
+    [ "buyout", "dd/d6d/a07335.html#aa75d261f77460c16f98f211b481a9af0", null ],
+    [ "deposit", "dd/d6d/a07335.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c", null ],
+    [ "expire_time", "dd/d6d/a07335.html#a8520c9664918d452d8e6b643df8486b5", null ],
+    [ "houseId", "dd/d6d/a07335.html#a014be11a4e161eea637098a4e9243b6f", null ],
+    [ "Id", "dd/d6d/a07335.html#aa65a8b6b8be81f705378e2f510196c48", null ],
+    [ "item_guid", "dd/d6d/a07335.html#a9b1f40baa8c949995acdab008944f403", null ],
+    [ "item_template", "dd/d6d/a07335.html#ac8935b680716aa5c0d50d750fb934bab", null ],
+    [ "itemCount", "dd/d6d/a07335.html#aa67975f37a4ef343422a471ef65a98fd", null ],
+    [ "owner", "dd/d6d/a07335.html#adf2b61be66a9afc7114198fe993d526d", null ],
+    [ "startbid", "dd/d6d/a07335.html#aa1e6771187c237136d34645db9f852f9", null ]
 ];

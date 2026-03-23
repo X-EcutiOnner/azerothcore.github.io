@@ -1,5 +1,6 @@
 var a17227 =
 [
-    [ "at_hor_battered_hilt_start", "dd/d52/a17227.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "dd/d52/a17227.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "boss_krickAI", "d9/dc3/a17231.html", "d9/dc3/a17231" ],
+    [ "boss_krick", "dd/d52/a17227.html#a8921ff79c0af7db7f7910634239bcd0c", null ],
+    [ "GetAI", "dd/d52/a17227.html#a9aa994da7c667b20c00b1bd1e994fed1", null ]
 ];

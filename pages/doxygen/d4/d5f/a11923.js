@@ -1,10 +1,8 @@
 var a11923 =
 [
-    [ "item_commandscript", "d4/d5f/a11923.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
-    [ "GetCommands", "d4/d5f/a11923.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
-    [ "HandleItemMoveCommand", "d4/d5f/a11923.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
-    [ "HandleItemRefundCommand", "d4/d5f/a11923.html#af914e33be05148062abd89c754d939c9", null ],
-    [ "HandleItemRestoreCommand", "d4/d5f/a11923.html#a84c67a46c513c1aac2b9d2563d693929", null ],
-    [ "HandleItemRestoreListCommand", "d4/d5f/a11923.html#a40181310f4187a71a6f5f5f600a8f468", null ],
-    [ "HasItemDeletionConfig", "d4/d5f/a11923.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
+    [ "CreatureTextId", "d4/d5f/a11923.html#ae8058e922bafc69b718ca4be1be39688", null ],
+    [ "operator<", "d4/d5f/a11923.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
+    [ "entry", "d4/d5f/a11923.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
+    [ "textGroup", "d4/d5f/a11923.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
+    [ "textId", "d4/d5f/a11923.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
 ];

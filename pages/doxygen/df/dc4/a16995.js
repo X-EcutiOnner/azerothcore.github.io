@@ -1,5 +1,6 @@
 var a16995 =
 [
-    [ "achievement_consumption_junction", "df/dc4/a16995.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
-    [ "OnCheck", "df/dc4/a16995.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
+    [ "OnPeriodic", "df/dc4/a16995.html#ab71faf6fb2900e176aac245317113758", null ],
+    [ "PrepareAuraScript", "df/dc4/a16995.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
+    [ "Register", "df/dc4/a16995.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
 ];

@@ -1,8 +1,8 @@
 var a09515 =
 [
-    [ "AllCreaturesMatchingOneEntryInRange", "db/d61/a09515.html#a440899ae5e52fedea316b7caa550455e", null ],
-    [ "operator()", "db/d61/a09515.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
-    [ "m_fRange", "db/d61/a09515.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
-    [ "m_pObject", "db/d61/a09515.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
-    [ "m_uiEntries", "db/d61/a09515.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
+    [ "GameObjectWorker", "db/d61/a09515.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
+    [ "Visit", "db/d61/a09515.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
+    [ "Visit", "db/d61/a09515.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
+    [ "_func", "db/d61/a09515.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
+    [ "_phaseMask", "db/d61/a09515.html#accfe66385f5bbfb461d0493c22fde20e", null ]
 ];

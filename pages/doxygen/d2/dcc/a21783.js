@@ -1,7 +1,6 @@
 var a21783 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d2/dcc/a21783.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "d2/dcc/a21783.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "d2/dcc/a21783.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "d2/dcc/a21783.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "npc_boneguard_footmanAI", "d2/dcc/a21783.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "d2/dcc/a21783.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "d2/dcc/a21783.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

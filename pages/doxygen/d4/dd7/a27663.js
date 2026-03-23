@@ -1,6 +1,7 @@
 var a27663 =
 [
-    [ "guard_shattrath_aldorAI", "de/def/a27667.html", "de/def/a27667" ],
-    [ "guard_shattrath_aldor", "d4/dd7/a27663.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "d4/dd7/a27663.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "HandleProc", "d4/dd7/a27663.html#a41b42a2d219904cdaf2a714d97e500f7", null ],
+    [ "PrepareAuraScript", "d4/dd7/a27663.html#a95c26300614ecdab588ddcc256fc1fd6", null ],
+    [ "Register", "d4/dd7/a27663.html#afb32150ac10ad392b63f40db05433835", null ],
+    [ "Validate", "d4/dd7/a27663.html#ab012775206fb6011eff8fbed293319c8", null ]
 ];

@@ -1,7 +1,6 @@
 var a17387 =
 [
-    [ "HandleEffectPeriodic", "d8/d87/a17387.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "d8/d87/a17387.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "d8/d87/a17387.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "d8/d87/a17387.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "npc_living_mojoAI", "d9/d1c/a17391.html", "d9/d1c/a17391" ],
+    [ "npc_living_mojo", "d8/d87/a17387.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d8/d87/a17387.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

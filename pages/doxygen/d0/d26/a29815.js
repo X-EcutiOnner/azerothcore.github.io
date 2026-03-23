@@ -1,18 +1,12 @@
 var a29815 =
 [
-    [ "_ACORE_CORE_CONFIG", "d6/d56/a04790.html#ga1d466b8deaea4c5b80b4abcdc38991fd", null ],
-    [ "ClearOnlineAccounts", "d6/d56/a04790.html#ga285010ee0ae83f9198f08fa3145877d7", null ],
-    [ "GetConsoleArguments", "d6/d56/a04790.html#gab889056920cce8fbe96e920cea5fd9e6", null ],
-    [ "LoadRealmInfo", "d6/d56/a04790.html#ga74b21e249952fe0d6d779ee217c76dc5", null ],
-    [ "main", "d6/d56/a04790.html#ga3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "ShutdownCLIThread", "d6/d56/a04790.html#gaafe46b3c9a56a31faa60963b6a1f202a", null ],
-    [ "SignalHandler", "d6/d56/a04790.html#gad82d96de9a84a7d0325afcd3121344a4", null ],
-    [ "StartDB", "d6/d56/a04790.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StartRaSocketAcceptor", "d6/d56/a04790.html#ga0781c2ca38d89a89b174f81fb895285b", null ],
-    [ "StopDB", "d6/d56/a04790.html#ga927af1587546ee7503a3b9a18f6439c0", null ],
-    [ "WorldUpdateLoop", "d6/d56/a04790.html#ga62605923595bdfa644784c8a929fa1a7", null ],
-    [ "m_ServiceStatus", "d6/d56/a04790.html#gabad888b856358b30aa3928d7e01916fb", null ],
-    [ "serviceDescription", "d6/d56/a04790.html#ga2994dda4045f1e2d3d675565a16a4dd2", null ],
-    [ "serviceLongName", "d6/d56/a04790.html#ga34b5207234887e0d62724cf770037f6f", null ],
-    [ "serviceName", "d6/d56/a04790.html#ga69c549a4f4a1e88fa4a2c38cde62f569", null ]
+    [ "Bounds", "d0/d26/a29815.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
+    [ "DoodadSet", "d0/d26/a29815.html#abbf6e50e76b120be17215cfcf227a524", null ],
+    [ "Flags", "d0/d26/a29815.html#a06f5e96119239356eea45b9acdadf6e1", null ],
+    [ "Id", "d0/d26/a29815.html#a952442c180e8d3710af31272b54eb6ec", null ],
+    [ "NameSet", "d0/d26/a29815.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
+    [ "Position", "d0/d26/a29815.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
+    [ "Rotation", "d0/d26/a29815.html#a2c04715e800b9f375c287cced96643d1", null ],
+    [ "Scale", "d0/d26/a29815.html#a142716fecae07abc013c7f3bd053c0ea", null ],
+    [ "UniqueId", "d0/d26/a29815.html#a749e920740b9e91547fe1f87933d1c7d", null ]
 ];

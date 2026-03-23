@@ -1,6 +1,7 @@
 var a24583 =
 [
-    [ "npc_pet_dk_ghoul", "d3/d6f/a24583.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d3/d6f/a24583.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d3/d6f/a24583.html#a6095e3619b470283b9875b90e2805b54", null ]
+    [ "FilterTargets", "d3/d6f/a24583.html#a9abf4baaba572636dba3980e5ae777c5", null ],
+    [ "Load", "d3/d6f/a24583.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
+    [ "PrepareSpellScript", "d3/d6f/a24583.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
+    [ "Register", "d3/d6f/a24583.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
 ];

@@ -1,6 +1,6 @@
 var a18635 =
 [
-    [ "npc_spirit_wardenAI", "de/d6e/a18639.html", "de/d6e/a18639" ],
-    [ "npc_spirit_warden", "d7/dc1/a18635.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d7/dc1/a18635.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "ActivateSpirit", "d7/dc1/a18635.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "d7/dc1/a18635.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "d7/dc1/a18635.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

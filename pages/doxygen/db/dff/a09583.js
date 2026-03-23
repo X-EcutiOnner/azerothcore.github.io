@@ -1,8 +1,7 @@
 var a09583 =
 [
-    [ "flags", "db/dff/a09583.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "db/dff/a09583.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "db/dff/a09583.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "db/dff/a09583.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "db/dff/a09583.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "GameObjectFocusCheck", "db/dff/a09583.html#a06607ffa0ebf51c230f4584632a7444a", null ],
+    [ "operator()", "db/dff/a09583.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_focusId", "db/dff/a09583.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
+    [ "i_unit", "db/dff/a09583.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
 ];

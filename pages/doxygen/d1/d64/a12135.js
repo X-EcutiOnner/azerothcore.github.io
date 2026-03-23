@@ -1,11 +1,8 @@
 var a12135 =
 [
-    [ "npc_rocknotAI", "d1/d64/a12135.html#a4daa5104eabb6d38c22274b48a8514be", null ],
-    [ "DoGo", "d1/d64/a12135.html#a7591520e06782feddb98a86107fbcb27", null ],
-    [ "Reset", "d1/d64/a12135.html#a4d855a23c638e835de6f1c4644350166", null ],
-    [ "UpdateAI", "d1/d64/a12135.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
-    [ "WaypointReached", "d1/d64/a12135.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
-    [ "BreakDoor_Timer", "d1/d64/a12135.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
-    [ "BreakKeg_Timer", "d1/d64/a12135.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
-    [ "instance", "d1/d64/a12135.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
+    [ "cache_commandscript", "d1/d64/a12135.html#a709e1d02632aed18113c1adb52e962b5", null ],
+    [ "GetCommands", "d1/d64/a12135.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
+    [ "HandleCacheDeleteCommand", "d1/d64/a12135.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
+    [ "HandleCacheInfoCommand", "d1/d64/a12135.html#aa9bce5578450a35909a4e481bc21867f", null ],
+    [ "HandleCacheRefreshCommand", "d1/d64/a12135.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
 ];

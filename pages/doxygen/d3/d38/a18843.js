@@ -1,6 +1,13 @@
 var a18843 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d4/d61/a18847.html", "d4/d61/a18847" ],
-    [ "npc_highlord_tirion_fordring_lh", "d3/d38/a18843.html#a96102a488330c54a3e3654c767e8e1a5", null ],
-    [ "GetAI", "d3/d38/a18843.html#aea42394c04c1763cffe10eb5eba09854", null ]
+    [ "boss_sister_svalnaAI", "d3/d38/a18843.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
+    [ "DoAction", "d3/d38/a18843.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
+    [ "JustDied", "d3/d38/a18843.html#ab397adda97c8b21e9a53edccdadb8760", null ],
+    [ "JustEngagedWith", "d3/d38/a18843.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
+    [ "KilledUnit", "d3/d38/a18843.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
+    [ "MovementInform", "d3/d38/a18843.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
+    [ "Reset", "d3/d38/a18843.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
+    [ "SpellHit", "d3/d38/a18843.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
+    [ "SpellHitTarget", "d3/d38/a18843.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
+    [ "UpdateAI", "d3/d38/a18843.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ]
 ];

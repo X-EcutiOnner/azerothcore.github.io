@@ -1,16 +1,14 @@
 var a11735 =
 [
-    [ "CheckContainer", "d2/df9/a11735.html#a08e083224760d2bca1996da9cd9cb014", null ],
-    [ "CheckResultContainer", "d2/df9/a11735.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
-    [ "WardenCheckMgr", "d2/df9/a11735.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
-    [ "~WardenCheckMgr", "d2/df9/a11735.html#a0d89190f580435337c328da4bf2497b8", null ],
-    [ "GetMaxValidCheckId", "d2/df9/a11735.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
-    [ "GetWardenDataById", "d2/df9/a11735.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
-    [ "GetWardenResultById", "d2/df9/a11735.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
-    [ "instance", "d2/df9/a11735.html#aba9de1e123070338dc0049db8d8f0663", null ],
-    [ "LoadWardenChecks", "d2/df9/a11735.html#ad02847547a06d98c582d09992dce9d11", null ],
-    [ "LoadWardenOverrides", "d2/df9/a11735.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
-    [ "CheckIdPool", "d2/df9/a11735.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
-    [ "CheckResultStore", "d2/df9/a11735.html#a4f0224b8377827aced304b28fdefbda7", null ],
-    [ "CheckStore", "d2/df9/a11735.html#aac59e154d81b838f27c577af87b86bd1", null ]
+    [ "IsFitToRequirements", "d2/df9/a11735.html#af1585273701356a591bf9d9483e996a3", null ],
+    [ "areaId", "d2/df9/a11735.html#af7e6f7b027388447a1f99e759975ca09", null ],
+    [ "auraSpell", "d2/df9/a11735.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
+    [ "autocast", "d2/df9/a11735.html#a38b42b82e4a588e102eb393cc907cd27", null ],
+    [ "gender", "d2/df9/a11735.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
+    [ "questEnd", "d2/df9/a11735.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
+    [ "questEndStatus", "d2/df9/a11735.html#ac6c7ed326628642da138bb3835db9a1d", null ],
+    [ "questStart", "d2/df9/a11735.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
+    [ "questStartStatus", "d2/df9/a11735.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
+    [ "raceMask", "d2/df9/a11735.html#a402373ff841bd2aa47b4b36a581624cc", null ],
+    [ "spellId", "d2/df9/a11735.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
 ];

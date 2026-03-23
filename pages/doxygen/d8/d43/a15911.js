@@ -1,12 +1,10 @@
 var a15911 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d8/d43/a15911.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "d8/d43/a15911.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "d8/d43/a15911.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "d8/d43/a15911.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "d8/d43/a15911.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointStart", "d8/d43/a15911.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "d8/d43/a15911.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "d8/d43/a15911.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "d8/d43/a15911.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "npc_custodian_of_timeAI", "d8/d43/a15911.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "d8/d43/a15911.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "d8/d43/a15911.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "d8/d43/a15911.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "d8/d43/a15911.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "d8/d43/a15911.html#a963736e62fbd0caea631ee3fb69fca46", null ],
+    [ "WaypointReached", "d8/d43/a15911.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

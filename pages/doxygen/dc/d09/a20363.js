@@ -1,5 +1,8 @@
 var a20363 =
 [
-    [ "achievement_smell_saronite", "dc/d09/a20363.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "dc/d09/a20363.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "npc_ulduar_mimiron_rocket", "dc/d09/a20363.html#aec8a2c9f653ddd1e8ea72093cb02d785", null ],
+    [ "InitializeAI", "dc/d09/a20363.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "dc/d09/a20363.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetData", "dc/d09/a20363.html#a507124f21657b62ff2b68060b52503b1", null ],
+    [ "UpdateAI", "dc/d09/a20363.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
 ];

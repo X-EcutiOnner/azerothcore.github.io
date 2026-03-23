@@ -1,8 +1,7 @@
 var a11291 =
 [
-    [ "SkillDiscoveryEntry", "da/dd0/a11291.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "da/dd0/a11291.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "da/dd0/a11291.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "da/dd0/a11291.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "da/dd0/a11291.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "TrainerBuySpell", "da/dd0/a11291.html#a8afb92fb908d5efd54bcb78269069d39", null ],
+    [ "Read", "da/dd0/a11291.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
+    [ "SpellID", "da/dd0/a11291.html#ae342c806c8faabae54260a26659d49ea", null ],
+    [ "TrainerGUID", "da/dd0/a11291.html#aca1d9dc89b96415a5065a67f7083423c", null ]
 ];

@@ -1,10 +1,9 @@
 var a19671 =
 [
-    [ "npc_oculus_drakegiverAI", "dd/d10/a19675.html", "dd/d10/a19675" ],
-    [ "npc_oculus_drakegiver", "de/d3a/a19671.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "de/d3a/a19671.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "de/d3a/a19671.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "de/d3a/a19671.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "de/d3a/a19671.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "de/d3a/a19671.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
+    [ "HandleOnEffectApply", "de/d3a/a19671.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "de/d3a/a19671.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "de/d3a/a19671.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "de/d3a/a19671.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "de/d3a/a19671.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "de/d3a/a19671.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

@@ -1,9 +1,8 @@
 var a09323 =
 [
-    [ "CreatureSearcher", "d6/d31/a09323.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
-    [ "Visit", "d6/d31/a09323.html#a50630891bfb459c6c526b3e4e7e29136", null ],
-    [ "Visit", "d6/d31/a09323.html#a503aab809be6f5d60c020e89c64dce7b", null ],
-    [ "i_check", "d6/d31/a09323.html#abc72e56d9453d798fcb457aff023d3ac", null ],
-    [ "i_object", "d6/d31/a09323.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
-    [ "i_phaseMask", "d6/d31/a09323.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
+    [ "DungeonEncounter", "d6/d31/a09323.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "d6/d31/a09323.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "d6/d31/a09323.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "d6/d31/a09323.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "d6/d31/a09323.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

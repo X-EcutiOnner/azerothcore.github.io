@@ -1,8 +1,9 @@
 var a21655 =
 [
-    [ "npc_azure_raiderAI", "db/d79/a21655.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
-    [ "Reset", "db/d79/a21655.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
-    [ "UpdateAI", "db/d79/a21655.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
-    [ "uiConcussionBlowTimer", "db/d79/a21655.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
-    [ "uiMagicReflectionTimer", "db/d79/a21655.html#acb262ab506ea58201abfe2057525c548", null ]
+    [ "npc_venture_co_stragglerAI", "db/d79/a21655.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "db/d79/a21655.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "db/d79/a21655.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "db/d79/a21655.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "db/d79/a21655.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "db/d79/a21655.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

@@ -1,6 +1,7 @@
 var a22583 =
 [
-    [ "npc_wg_queueAI", "d7/dc7/a22583.html#a3760738d61b6148042fc30bd96b88fdc", null ],
-    [ "UpdateAI", "d7/dc7/a22583.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
-    [ "events", "d7/dc7/a22583.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
+    [ "PrepareAuraScript", "d7/dc7/a22583.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
+    [ "Register", "d7/dc7/a22583.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
+    [ "Update", "d7/dc7/a22583.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
+    [ "Validate", "d7/dc7/a22583.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
 ];

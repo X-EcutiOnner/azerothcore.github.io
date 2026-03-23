@@ -1,6 +1,5 @@
 var a22263 =
 [
-    [ "npc_llod_genericAI", "d4/d47/a22267.html", "d4/d47/a22267" ],
-    [ "npc_llod_generic", "d9/d7f/a22263.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "d9/d7f/a22263.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "OutdoorPvP_silithus", "d9/d7f/a22263.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
+    [ "GetOutdoorPvP", "d9/d7f/a22263.html#a126d6acc77218addd10072199ccd2470", null ]
 ];

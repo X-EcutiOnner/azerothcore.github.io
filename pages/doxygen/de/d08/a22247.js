@@ -1,6 +1,5 @@
 var a22247 =
 [
-    [ "npc_black_knight_graveyardAI", "da/d6e/a22251.html", "da/d6e/a22251" ],
-    [ "npc_black_knight_graveyard", "de/d08/a22247.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "de/d08/a22247.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "outdoorpvp_na_halaa_creatures", "de/d08/a22247.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "de/d08/a22247.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

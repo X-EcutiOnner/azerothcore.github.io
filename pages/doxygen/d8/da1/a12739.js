@@ -1,7 +1,5 @@
 var a12739 =
 [
-    [ "HandleScript", "d8/da1/a12739.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "d8/da1/a12739.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "d8/da1/a12739.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "d8/da1/a12739.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "npc_garr_firesworn", "d8/da1/a12739.html#a5efff706f522accd5f8be0d29080dea4", null ],
+    [ "DamageTaken", "d8/da1/a12739.html#a172435821316d28c5b0043015c68595e", null ]
 ];

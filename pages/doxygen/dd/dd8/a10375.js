@@ -1,13 +1,7 @@
 var a10375 =
 [
-    [ "FormulaScript", "dd/dd8/a10375.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
-    [ "OnAfterArenaRatingCalculation", "dd/dd8/a10375.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
-    [ "OnBaseGainCalculation", "dd/dd8/a10375.html#ab154eaf469d5fe3e86c364940816270a", null ],
-    [ "OnBeforeUpdatingPersonalRating", "dd/dd8/a10375.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
-    [ "OnColorCodeCalculation", "dd/dd8/a10375.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
-    [ "OnGainCalculation", "dd/dd8/a10375.html#aa83fab65cc89bd03021da2805e935ffb", null ],
-    [ "OnGrayLevelCalculation", "dd/dd8/a10375.html#affeb57234f961b9e01f5898c7738f38f", null ],
-    [ "OnGroupRateCalculation", "dd/dd8/a10375.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
-    [ "OnHonorCalculation", "dd/dd8/a10375.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
-    [ "OnZeroDifferenceCalculation", "dd/dd8/a10375.html#a7755c35bc56e6645e36de08c12a4847d", null ]
+    [ "TransportPathTransform", "dd/dd8/a10375.html#af73e0369a2f0e4c2aabfde5b47b7520d", null ],
+    [ "operator()", "dd/dd8/a10375.html#ac86e405f0d39698c400d7a8d2ab10607", null ],
+    [ "_owner", "dd/dd8/a10375.html#a15428c0b9a8b11f7f63845a7d65620e8", null ],
+    [ "_transformForTransport", "dd/dd8/a10375.html#afad44bc388b7d224f7a87aed7ba2e120", null ]
 ];

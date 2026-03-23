@@ -1,13 +1,7 @@
 var a22715 =
 [
-    [ "OPvPCapturePointEP_NPT", "d5/d0b/a22715.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
-    [ "ChangeState", "d5/d0b/a22715.html#a9e046ace6129ce67568ed7c15130b617", null ],
-    [ "FillInitialWorldStates", "d5/d0b/a22715.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
-    [ "HandlePlayerEnter", "d5/d0b/a22715.html#ace643b7f7bc793934972c61c618045eb", null ],
-    [ "HandlePlayerLeave", "d5/d0b/a22715.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
-    [ "SendChangePhase", "d5/d0b/a22715.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
-    [ "SummonGO", "d5/d0b/a22715.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
-    [ "UpdateTowerState", "d5/d0b/a22715.html#ad8cfefcc567346273914e8039b039835", null ],
-    [ "m_SummonedGOSideId", "d5/d0b/a22715.html#aa034240d169c9ab7276786bb188abc70", null ],
-    [ "m_TowerState", "d5/d0b/a22715.html#a703b68024362d13ceaf9012202b72e7d", null ]
+    [ "CalculateAmount", "d5/d0b/a22715.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "d5/d0b/a22715.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "d5/d0b/a22715.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "d5/d0b/a22715.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

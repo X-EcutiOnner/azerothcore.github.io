@@ -1,10 +1,7 @@
 var a27427 =
 [
-    [ "boss_emerissAI", "d5/d2d/a27427.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "d5/d2d/a27427.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "d5/d2d/a27427.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "d5/d2d/a27427.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "d5/d2d/a27427.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "d5/d2d/a27427.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "d5/d2d/a27427.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "HandleDummy", "d5/d2d/a27427.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
+    [ "PrepareSpellScript", "d5/d2d/a27427.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
+    [ "Register", "d5/d2d/a27427.html#aee02661fa8845afd666ca27163b4a761", null ],
+    [ "Validate", "d5/d2d/a27427.html#aba9079e2418281315029c839b22df1c5", null ]
 ];

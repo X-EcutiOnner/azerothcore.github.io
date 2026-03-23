@@ -1,12 +1,14 @@
 var a22963 =
 [
-    [ "npc_maiev_illidan", "d1/d8f/a22963.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
-    [ "DamageTaken", "d1/d8f/a22963.html#a780cc558c483efa3293d798cc6048a33", null ],
-    [ "DoAction", "d1/d8f/a22963.html#a53607a158edf8fd772908b5d7af6edf1", null ],
-    [ "IsSummonedBy", "d1/d8f/a22963.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
-    [ "JustEngagedWith", "d1/d8f/a22963.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
-    [ "Reset", "d1/d8f/a22963.html#a100db757c89634a58b9382216e2791ec", null ],
-    [ "SpellHit", "d1/d8f/a22963.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
-    [ "UpdateAI", "d1/d8f/a22963.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
-    [ "instance", "d1/d8f/a22963.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d1/d8f/a22963.html#a3e83985648f2951ee33d440c9c98bf72", null ],
+    [ "GetData", "d1/d8f/a22963.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
+    [ "Initialize", "d1/d8f/a22963.html#a8a2214e169acace8578c1863daf0a04c", null ],
+    [ "OnCreatureCreate", "d1/d8f/a22963.html#ae5f77169c337420852962fe7ddba3006", null ],
+    [ "OnCreatureRemove", "d1/d8f/a22963.html#a921442812da891a6651ddd235d4a98f9", null ],
+    [ "OnGameObjectCreate", "d1/d8f/a22963.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
+    [ "SetBossState", "d1/d8f/a22963.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
+    [ "SetData", "d1/d8f/a22963.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
+    [ "_aliveKeepersCount", "d1/d8f/a22963.html#a71f3a72d3aa47b267e3b8a7d1c90b6ff", null ],
+    [ "_frenzyCount", "d1/d8f/a22963.html#acdba0cea9bdbe929a30bd2f790a613f9", null ],
+    [ "_shieldGeneratorGUID", "d1/d8f/a22963.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
 ];

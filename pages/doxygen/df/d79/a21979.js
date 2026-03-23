@@ -1,7 +1,9 @@
 var a21979 =
 [
-    [ "CheckCast", "df/d79/a21979.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "df/d79/a21979.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "df/d79/a21979.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "df/d79/a21979.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "npc_brunnhildar_prisonerAI", "df/d79/a21979.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "df/d79/a21979.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "df/d79/a21979.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "df/d79/a21979.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "df/d79/a21979.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "df/d79/a21979.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

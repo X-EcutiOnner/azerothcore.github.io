@@ -1,23 +1,27 @@
 var a03125 =
 [
-    [ "instance_black_temple", "dd/dcd/a23009.html", "dd/dcd/a23009" ],
-    [ "instance_black_temple::instance_black_temple_InstanceMapScript", "d7/de0/a23013.html", "d7/de0/a23013" ],
-    [ "spell_black_template_harpooners_mark_aura", "df/ddd/a23017.html", "df/ddd/a23017" ],
-    [ "spell_black_template_free_friend", "df/db1/a23021.html", "df/db1/a23021" ],
-    [ "spell_black_temple_curse_of_the_bleakheart_aura", "df/dad/a23025.html", "df/dad/a23025" ],
-    [ "spell_black_temple_skeleton_shot_aura", "de/d83/a23029.html", "de/d83/a23029" ],
-    [ "spell_black_temple_wyvern_sting_aura", "d9/d9f/a23033.html", "d9/d9f/a23033" ],
-    [ "spell_black_temple_charge_rage_aura", "d4/d08/a23037.html", "d4/d08/a23037" ],
-    [ "spell_black_temple_shadow_inferno_aura", "d5/d83/a23041.html", "d5/d83/a23041" ],
-    [ "spell_black_temple_spell_absorption_aura", "d5/dc0/a23045.html", "d5/dc0/a23045" ],
-    [ "spell_black_temple_bloodbolt", "dc/d5d/a23049.html", "dc/d5d/a23049" ],
-    [ "spell_black_temple_consuming_strikes_aura", "d1/d11/a23053.html", "d1/d11/a23053" ],
-    [ "spell_black_temple_curse_of_vitality_aura", "d8/d1f/a23057.html", "d8/d1f/a23057" ],
-    [ "spell_black_temple_summon_shadowfiends", "d3/dc1/a23061.html", "d3/dc1/a23061" ],
-    [ "spell_black_temple_l5_arcane_charge", "d7/d1b/a23065.html", "d7/d1b/a23065" ],
-    [ "AddSC_instance_black_temple", "dc/d0a/a03125.html#a15f766c45ce62741982e2a1711514aa8", null ],
-    [ "boundaries", "dc/d0a/a03125.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "dc/d0a/a03125.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "dc/d0a/a03125.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "summonData", "dc/d0a/a03125.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
+    [ "npc_shenthul", "d8/dac/a15819.html", "d8/dac/a15819" ],
+    [ "npc_shenthul::npc_shenthulAI", "d9/d28/a15823.html", "d9/d28/a15823" ],
+    [ "npc_thrall_warchief", "d8/d4c/a15827.html", "d8/d4c/a15827" ],
+    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "dc/dcc/a15831.html", "dc/dcc/a15831" ],
+    [ "Shenthul", "dc/d0a/a03125.html#a032512bb2693fda342f4d77dba794fbe", [
+      [ "QUEST_SHATTERED_SALUTE", "dc/d0a/a03125.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
+    ] ],
+    [ "ThrallWarchief", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9", [
+      [ "SPELL_CHAIN_LIGHTNING", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
+      [ "SPELL_SHOCK", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
+      [ "QUEST_FOR_THE_HORDE", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
+      [ "SPELL_WARCHIEF_BLESSING", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
+      [ "NPC_HERALD_OF_THRALL", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
+      [ "ACTION_START_TALKING", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_0", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_1", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
+      [ "GO_UNADORNED_SPIKE", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
+      [ "QUEST_WHAT_THE_WIND_CARRIES", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
+      [ "GOSSIP_MENU_THRALL", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86", null ],
+      [ "GOSSIP_RESPONSE_THRALL_FIRST", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d", null ],
+      [ "QUEST_WARCHIEFS_BLESSING", "dc/d0a/a03125.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047", null ]
+    ] ],
+    [ "AddSC_orgrimmar", "dc/d0a/a03125.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
+    [ "heraldOfThrallPos", "dc/d0a/a03125.html#a016aeee1d0eac9c78c522520663670f0", null ]
 ];

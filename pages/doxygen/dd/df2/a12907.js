@@ -1,19 +1,17 @@
 var a12907 =
 [
-    [ "boss_malchezaar", "dd/df2/a12907.html#a68adb0f05177316f9e39a48669f60829", null ],
-    [ "clearweapons", "dd/df2/a12907.html#a354e07cb1f9ae86d96d07cb80f911474", null ],
-    [ "EnfeebleResetHealth", "dd/df2/a12907.html#a7fcaec7c991f9d6df816aef650e53855", null ],
-    [ "Initialize", "dd/df2/a12907.html#a1b48e2c117ac4c60f11310e43d34264b", null ],
-    [ "JustDied", "dd/df2/a12907.html#aee066b4a67c61ae70fc487adf0be00e0", null ],
-    [ "JustEngagedWith", "dd/df2/a12907.html#a5cfd1284c572f72ecde9d9ad94922d2b", null ],
-    [ "KilledUnit", "dd/df2/a12907.html#a0d91be1d9ad3a0876bec8b694edd44be", null ],
-    [ "MaxSpawns", "dd/df2/a12907.html#a25ef9558fcccee430ef92703af903d91", null ],
-    [ "PickTarget", "dd/df2/a12907.html#a2c825f7f116891601ef2c3809c7db15c", null ],
-    [ "Reset", "dd/df2/a12907.html#a72b54fd786c064114df3b8a09835e841", null ],
-    [ "SpawnInfernal", "dd/df2/a12907.html#a58d1823940988f6f55aec8a5da44fd54", null ],
-    [ "SpellHitTarget", "dd/df2/a12907.html#a9eb75b54ea480b38590695635a9cb4fe", null ],
-    [ "_enfeebleTargets", "dd/df2/a12907.html#adc405cdbcc17eabade5794a7801c5323", null ],
-    [ "_phase", "dd/df2/a12907.html#a94be6cf7bb8cd7857fe82638d0d0e853", null ],
-    [ "infernalTargets", "dd/df2/a12907.html#a55b8c2dd25af193e078fdb0315863783", null ],
-    [ "relays", "dd/df2/a12907.html#a7695c12779ada381cb04085dcf8dbb2c", null ]
+    [ "boss_attumen", "dd/df2/a12907.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
+    [ "CanMeleeHit", "dd/df2/a12907.html#ae685929086090928802854cc93f9934a", null ],
+    [ "DamageTaken", "dd/df2/a12907.html#a0b426b760d9ace05211c3383e7628022", null ],
+    [ "EnterEvadeMode", "dd/df2/a12907.html#af00f91294c04d0fe932c922fd270c5dc", null ],
+    [ "Initialize", "dd/df2/a12907.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
+    [ "IsSummonedBy", "dd/df2/a12907.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
+    [ "JustDied", "dd/df2/a12907.html#a375a95d46f8db8a53ea6420dd557855e", null ],
+    [ "JustSummoned", "dd/df2/a12907.html#af91018e54244864ca4cd1b9d40c569df", null ],
+    [ "KilledUnit", "dd/df2/a12907.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
+    [ "Reset", "dd/df2/a12907.html#ab8815ed9b1068e748e43346725cd9281", null ],
+    [ "ScheduleTasks", "dd/df2/a12907.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
+    [ "SpellHit", "dd/df2/a12907.html#a1181ae1d50d6c52483b0d90423997c90", null ],
+    [ "UpdateAI", "dd/df2/a12907.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
+    [ "_phase", "dd/df2/a12907.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
 ];

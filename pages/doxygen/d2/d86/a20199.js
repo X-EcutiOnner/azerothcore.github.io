@@ -1,7 +1,10 @@
 var a20199 =
 [
-    [ "OnPeriodic", "d2/d86/a20199.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "d2/d86/a20199.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "d2/d86/a20199.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "d2/d86/a20199.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "HandleEffectPeriodic", "d2/d86/a20199.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "d2/d86/a20199.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "d2/d86/a20199.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "d2/d86/a20199.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "d2/d86/a20199.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "d2/d86/a20199.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "d2/d86/a20199.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

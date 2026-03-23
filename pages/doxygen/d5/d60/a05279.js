@@ -1,9 +1,5 @@
 var a05279 =
 [
-    [ "FactoryHolderRegistry", "d5/d60/a05279.html#a5384598eca62a35bc617a4c395353ecd", null ],
-    [ "FactoryHolder", "d5/d60/a05279.html#a5e7097c2a475378023f33ec430f4ca85", null ],
-    [ "~FactoryHolder", "d5/d60/a05279.html#a78673bd2f3d857127c1a91c49e3cd62f", null ],
-    [ "Create", "d5/d60/a05279.html#a7072fb7dfe99890dea89b1ba661eb3ce", null ],
-    [ "RegisterSelf", "d5/d60/a05279.html#a9e173f9daaf5c2de36bb8b46da4249e1", null ],
-    [ "_key", "d5/d60/a05279.html#a98c0e66f8caaa207771efd82b2c2f9aa", null ]
+    [ "TileEntries", "d5/d60/a05279.html#ac982af8210389fe769d161a12d4cdb5f", null ],
+    [ "UniqueEntries", "d5/d60/a05279.html#a5ba6c948eedc6c070a7eb6aa3816d85c", null ]
 ];

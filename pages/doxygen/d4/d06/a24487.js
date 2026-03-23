@@ -1,6 +1,6 @@
 var a24487 =
 [
-    [ "CheckRequirement", "d4/d06/a24487.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "d4/d06/a24487.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "d4/d06/a24487.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "CheckCast", "d4/d06/a24487.html#a583e19667a83ada4cd793fbf391f9e93", null ],
+    [ "PrepareSpellScript", "d4/d06/a24487.html#ac6adda0dbe544cf2457060647c01de0f", null ],
+    [ "Register", "d4/d06/a24487.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
 ];

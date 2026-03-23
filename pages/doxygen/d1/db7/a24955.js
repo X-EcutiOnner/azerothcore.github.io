@@ -1,9 +1,10 @@
 var a24955 =
 [
-    [ "Absorb", "d1/db7/a24955.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
-    [ "CalculateAmount", "d1/db7/a24955.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
-    [ "Load", "d1/db7/a24955.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
-    [ "PrepareAuraScript", "d1/db7/a24955.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
-    [ "Register", "d1/db7/a24955.html#a47bd5ef93255a2d926874d6d70861374", null ],
-    [ "absorbPct", "d1/db7/a24955.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
+    [ "Load", "d1/db7/a24955.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "d1/db7/a24955.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "d1/db7/a24955.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "d1/db7/a24955.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "d1/db7/a24955.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "d1/db7/a24955.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "d1/db7/a24955.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

@@ -1,7 +1,6 @@
 var a25399 =
 [
-    [ "PrepareSpellScript", "d6/d62/a25399.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "d6/d62/a25399.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "d6/d62/a25399.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "d6/d62/a25399.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "OnRemove", "d6/d62/a25399.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
+    [ "PrepareAuraScript", "d6/d62/a25399.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
+    [ "Register", "d6/d62/a25399.html#aecd068248e174c4b676ff9f43dd0856f", null ]
 ];

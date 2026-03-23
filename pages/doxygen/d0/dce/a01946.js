@@ -1,10 +1,13 @@
 var a01946 =
 [
-    [ "instance_sethekk_halls", "d3/dbf/a22576.html", "d3/dbf/a22576" ],
-    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "d2/d1a/a22580.html", "d2/d1a/a22580" ],
-    [ "AddSC_instance_sethekk_halls", "d0/dce/a01946.html#a14325c1667938972a51bf364b00fe3c3", null ],
-    [ "anzuSummonEventId", "d0/dce/a01946.html#aa1fc295d418ed62b1c08ea6d11e111e3", null ],
-    [ "creatureData", "d0/dce/a01946.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d0/dce/a01946.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d0/dce/a01946.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "WorldPackets::Character::ShowingCloak", "dd/d19/a10807.html", "dd/d19/a10807" ],
+    [ "WorldPackets::Character::ShowingHelm", "d7/d50/a10811.html", "d7/d50/a10811" ],
+    [ "WorldPackets::Character::LogoutRequest", "dc/d33/a10815.html", "dc/d33/a10815" ],
+    [ "WorldPackets::Character::LogoutResponse", "d0/dc2/a10819.html", "d0/dc2/a10819" ],
+    [ "WorldPackets::Character::LogoutComplete", "d9/d8f/a10823.html", "d9/d8f/a10823" ],
+    [ "WorldPackets::Character::LogoutCancel", "d2/d0b/a10827.html", "d2/d0b/a10827" ],
+    [ "WorldPackets::Character::LogoutCancelAck", "d0/d7c/a10831.html", "d0/d7c/a10831" ],
+    [ "WorldPackets::Character::PlayerLogout", "de/d5c/a10835.html", "de/d5c/a10835" ],
+    [ "WorldPackets::Character::PlayedTimeClient", "db/da7/a10839.html", "db/da7/a10839" ],
+    [ "WorldPackets::Character::PlayedTime", "d5/d88/a10843.html", "d5/d88/a10843" ]
 ];

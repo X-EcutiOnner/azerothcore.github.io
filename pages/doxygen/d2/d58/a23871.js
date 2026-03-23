@@ -1,6 +1,6 @@
 var a23871 =
 [
-    [ "boss_porung", "d2/d58/a23871.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "d2/d58/a23871.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "d2/d58/a23871.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "npc_infernal_attackerAI", "d2/dda/a23875.html", "d2/dda/a23875" ],
+    [ "npc_infernal_attacker", "d2/d58/a23871.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d2/d58/a23871.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

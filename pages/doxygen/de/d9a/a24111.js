@@ -1,9 +1,6 @@
 var a24111 =
 [
-    [ "boss_void_reaver", "de/d9a/a24111.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "de/d9a/a24111.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "de/d9a/a24111.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "de/d9a/a24111.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "de/d9a/a24111.html#a02c36ea960de24991f879943991a93c6", null ],
-    [ "_recentlySpoken", "de/d9a/a24111.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
+    [ "PrepareSpellScript", "de/d9a/a24111.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
+    [ "RecalculateDamage", "de/d9a/a24111.html#af01757d0968da2a096d800782ed7e66e", null ],
+    [ "Register", "de/d9a/a24111.html#a62b6613707a2a9b78d52bffe92de604e", null ]
 ];

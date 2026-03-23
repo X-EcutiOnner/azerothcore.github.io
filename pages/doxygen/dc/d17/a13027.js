@@ -1,20 +1,11 @@
 var a13027 =
 [
-    [ "boss_julianne", "dc/d17/a13027.html#a6433d08be0d5562e876e00225ebf7398", null ],
-    [ "DamageTaken", "dc/d17/a13027.html#a8ff7675405322c2d55bd01cec340f6b8", null ],
-    [ "DoAction", "dc/d17/a13027.html#a985c9c1f77b2769461bf42ddaab302d3", null ],
-    [ "EnterEvadeMode", "dc/d17/a13027.html#af2499ba9d9c25555c82d8d7ae95c7249", null ],
-    [ "JustDied", "dc/d17/a13027.html#abdfaf6fa147c6b35bed28bb2e3ed3c14", null ],
-    [ "JustEngagedWith", "dc/d17/a13027.html#a6c5bd97ad402cc5f5dcda421c5d2bad1", null ],
-    [ "JustReachedHome", "dc/d17/a13027.html#a6bda02d5534b9087741ee7146ec314b5", null ],
-    [ "KilledUnit", "dc/d17/a13027.html#a7430fb4f315ee5dcf5f9c49b2daa66b0", null ],
-    [ "Reset", "dc/d17/a13027.html#a1047e28950098b35bd8a8fc5bec4ed26", null ],
-    [ "ScheduleCombat", "dc/d17/a13027.html#ab0939f8fe0fc34cafbe2dab4ef449895", null ],
-    [ "SpellHit", "dc/d17/a13027.html#a1e142c56a514640dab0d5d7711085f9d", null ],
-    [ "UpdateAI", "dc/d17/a13027.html#ad1e1d5bb27fed12a203c8b10f6ea92a6", null ],
-    [ "_scheduler", "dc/d17/a13027.html#aae4be9b1035626ecc9ad2f3e5b918cbe", null ],
-    [ "instance", "dc/d17/a13027.html#acdc787ba6908e716517683a8536ecf3e", null ],
-    [ "isFakingDeath", "dc/d17/a13027.html#a7a1b3b2ead47a49e80f9ba2b49144a91", null ],
-    [ "phase", "dc/d17/a13027.html#a5b0b680916cd38b2e20a6a1b1a530362", null ],
-    [ "summonedRomulo", "dc/d17/a13027.html#a6938adccd5c781df04dabe6d860f9357", null ]
+    [ "npc_demon_chain", "dc/d17/a13027.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "dc/d17/a13027.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "dc/d17/a13027.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "dc/d17/a13027.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "dc/d17/a13027.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "dc/d17/a13027.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "dc/d17/a13027.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "dc/d17/a13027.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

@@ -1,6 +1,6 @@
 var a25119 =
 [
-    [ "CheckProc", "da/dda/a25119.html#a3c4f64fc51367ebb549282b068458f4c", null ],
-    [ "PrepareAuraScript", "da/dda/a25119.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
-    [ "Register", "da/dda/a25119.html#ac84b357828094a42aab1c8bfee83d298", null ]
+    [ "PrepareSpellScript", "da/dda/a25119.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "da/dda/a25119.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "da/dda/a25119.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

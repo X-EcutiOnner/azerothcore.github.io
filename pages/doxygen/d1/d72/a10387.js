@@ -1,5 +1,12 @@
 var a10387 =
 [
-    [ "GenericGameObjectScript", "d1/d72/a10387.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
-    [ "GetAI", "d1/d72/a10387.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
+    [ "FacingInfo", "d1/d72/a10387.html#a1ac825c359704924c66e46eada64e34e", null ],
+    [ "FacingInfo", "d1/d72/a10387.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
+    [ "FacingInfo", "d1/d72/a10387.html#add6411db27c1d313d2f133adf0c35755", null ],
+    [ "angle", "d1/d72/a10387.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
+    [ "f", "d1/d72/a10387.html#a33b4342a205eae9aca04ae0129365a61", null ],
+    [ "target", "d1/d72/a10387.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
+    [ "x", "d1/d72/a10387.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
+    [ "y", "d1/d72/a10387.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
+    [ "z", "d1/d72/a10387.html#a5ff017b732d47684f675041e44227754", null ]
 ];

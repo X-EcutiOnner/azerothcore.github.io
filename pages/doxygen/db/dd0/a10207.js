@@ -1,25 +1,10 @@
 var a10207 =
 [
-    [ "OutdoorPvPMgr", "db/dd0/a10207.html#a57480bb851822adda3d106f4a842354b", null ],
-    [ "~OutdoorPvPMgr", "db/dd0/a10207.html#a47a54de2e5f8d2d95691be9f6707d1d8", null ],
-    [ "AddZone", "db/dd0/a10207.html#a2f71683200a6f780ea1365ec2934b875", null ],
-    [ "CanTalkTo", "db/dd0/a10207.html#a8020976431b2754fc73acf762ed140b1", null ],
-    [ "Die", "db/dd0/a10207.html#a60821e2ea353606552f863aed2807316", null ],
-    [ "GetOutdoorPvPToZoneId", "db/dd0/a10207.html#aa297448e0e861e9d033b2a3a5d5176bb", null ],
-    [ "GetZoneScript", "db/dd0/a10207.html#a1c4ebcc2c64d9075e2f2f85e9239e4fa", null ],
-    [ "HandleCustomSpell", "db/dd0/a10207.html#a0134ce08b64931aadf7ffac968c47521", null ],
-    [ "HandleDropFlag", "db/dd0/a10207.html#aa1e8175a9964e3fdbd7f98ef33650217", null ],
-    [ "HandleGossipOption", "db/dd0/a10207.html#aa041123e1030c23c9862b494b057d3b2", null ],
-    [ "HandleOpenGo", "db/dd0/a10207.html#a8de2d40eb24baf6f7f1597fd97202a85", null ],
-    [ "HandlePlayerEnterZone", "db/dd0/a10207.html#ac3c4b3b6df6ae7787ff7072f3f46521f", null ],
-    [ "HandlePlayerLeaveZone", "db/dd0/a10207.html#a37c292b98c44830833c15eba1d74e24d", null ],
-    [ "HandlePlayerResurrects", "db/dd0/a10207.html#ad39bacd781ddb165c680758643a54c56", null ],
-    [ "InitOutdoorPvP", "db/dd0/a10207.html#aaae2ebe275de3da1282bd48b4dfc2ae9", null ],
-    [ "instance", "db/dd0/a10207.html#a0a92945f30266985e289742c29b13ed2", null ],
-    [ "Update", "db/dd0/a10207.html#a981b6e2b6201f3b1d32ffe4b2e215a57", null ],
-    [ "_lock", "db/dd0/a10207.html#ab8f0f56d34805ccf6b7210e390b947f7", null ],
-    [ "m_OutdoorPvPDatas", "db/dd0/a10207.html#aae1d441ea9e1715154b8f630b4cd4b2c", null ],
-    [ "m_OutdoorPvPMap", "db/dd0/a10207.html#a0927b39028f4060b0125bb63fe73a53a", null ],
-    [ "m_OutdoorPvPSet", "db/dd0/a10207.html#a4dc1a3a28d95a63b2ac6e5c9310730d6", null ],
-    [ "m_UpdateTimer", "db/dd0/a10207.html#ad07d15d5bbdf9d2e67a576d61e942b40", null ]
+    [ "ID", "db/dd0/a10207.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
+    [ "Map", "db/dd0/a10207.html#af4e60380e8434e5b8f573d2172ddf656", null ],
+    [ "name", "db/dd0/a10207.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
+    [ "wnameLow", "db/dd0/a10207.html#a148ead3270ad02213204792d6063cead", null ],
+    [ "x", "db/dd0/a10207.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
+    [ "y", "db/dd0/a10207.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
+    [ "z", "db/dd0/a10207.html#adf56d09898752230a4fa1629849ac945", null ]
 ];

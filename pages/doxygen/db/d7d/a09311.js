@@ -1,10 +1,7 @@
 var a09311 =
 [
-    [ "UnitSearcher", "db/d7d/a09311.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
-    [ "Visit", "db/d7d/a09311.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
-    [ "Visit", "db/d7d/a09311.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
-    [ "Visit", "db/d7d/a09311.html#ac65516ed337b509ff5c316fb29727854", null ],
-    [ "i_check", "db/d7d/a09311.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
-    [ "i_object", "db/d7d/a09311.html#a3029760131a6f50883246afe2533c062", null ],
-    [ "i_phaseMask", "db/d7d/a09311.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
+    [ "QuestPOIPoint", "db/d7d/a09311.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "db/d7d/a09311.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "db/d7d/a09311.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "db/d7d/a09311.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

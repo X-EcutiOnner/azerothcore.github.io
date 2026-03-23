@@ -1,6 +1,7 @@
 var a24187 =
 [
-    [ "npc_deaths_fel_cannonAI", "d2/ddb/a24187.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
-    [ "Reset", "d2/ddb/a24187.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
-    [ "UpdateAI", "d2/ddb/a24187.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
+    [ "CheckCast", "d2/ddb/a24187.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
+    [ "HandleDummy", "d2/ddb/a24187.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
+    [ "PrepareSpellScript", "d2/ddb/a24187.html#a465da282630352a289d5daae7ccb1d01", null ],
+    [ "Register", "d2/ddb/a24187.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
 ];

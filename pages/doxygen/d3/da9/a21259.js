@@ -1,13 +1,6 @@
 var a21259 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "d3/da9/a21259.html#a52bbedf267aaa3cea68e8a5960cbc34b", null ],
-    [ "AttackStart", "d3/da9/a21259.html#aed91dafbc50a785875b8b41c5e328d73", null ],
-    [ "DamageTaken", "d3/da9/a21259.html#a4c2ec3cf0c5561b1b9f309bb8f180f8c", null ],
-    [ "EnterEvadeMode", "d3/da9/a21259.html#a671a27f00e279e0a4c0827999ce26d8b", null ],
-    [ "OnCharmed", "d3/da9/a21259.html#ae268a425326efbea1282ce116ff76e3f", null ],
-    [ "PassengerBoarded", "d3/da9/a21259.html#a83409607638100fddd229829ee2bea40", null ],
-    [ "Reset", "d3/da9/a21259.html#a2a7bda0ee585a7aa652081ce7ede3fa6", null ],
-    [ "UpdateAI", "d3/da9/a21259.html#ac10669fddd193d583ecead8ed37879b3", null ],
-    [ "_spawnedMechanic", "d3/da9/a21259.html#a2db3016e32b4e77724fea98d605eaa59", null ],
-    [ "events", "d3/da9/a21259.html#ac61064ee3e22b476a35dce4564f65882", null ]
+    [ "npc_iruk", "d3/da9/a21259.html#a721aeefd23371cc6bc16738a797bf50a", null ],
+    [ "OnGossipHello", "d3/da9/a21259.html#a774669099330c75ab5e0bea8d460f517", null ],
+    [ "OnGossipSelect", "d3/da9/a21259.html#ae6f7d54d224488a9e29c59c560eba471", null ]
 ];

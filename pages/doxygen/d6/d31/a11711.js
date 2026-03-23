@@ -1,6 +1,7 @@
 var a11711 =
 [
-    [ "Command", "d6/d31/a11711.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "d6/d31/a11711.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "d6/d31/a11711.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "attributeMask", "d6/d31/a11711.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "d6/d31/a11711.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "d6/d31/a11711.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "d6/d31/a11711.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

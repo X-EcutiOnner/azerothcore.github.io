@@ -1,8 +1,7 @@
 var a22603 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d6/d3f/a22603.html#af84e73765b1a4d810b41613824999186", null ],
-    [ "IsFriendly", "d6/d3f/a22603.html#adca817c8919958db888d5e9c759ad545", null ],
-    [ "IsValidVehicle", "d6/d3f/a22603.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
-    [ "UpdateAI", "d6/d3f/a22603.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
-    [ "_checkTimer", "d6/d3f/a22603.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
+    [ "SuckBackEvent", "d6/d3f/a22603.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "d6/d3f/a22603.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "d6/d3f/a22603.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "d6/d3f/a22603.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

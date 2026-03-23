@@ -1,5 +1,7 @@
 var a28971 =
 [
-    [ "NotFound", "d4/d22/a28971.html#a4739d3e517296da2f645383194b13a62", null ],
-    [ "NotFound", "d4/d22/a28971.html#a4739d3e517296da2f645383194b13a62", null ]
+    [ "ID", "d4/d22/a28971.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d4/d22/a28971.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d4/d22/a28971.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d4/d22/a28971.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

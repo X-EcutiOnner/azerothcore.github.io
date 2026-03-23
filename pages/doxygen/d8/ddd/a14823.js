@@ -1,7 +1,9 @@
 var a14823 =
 [
-    [ "HandleScript", "d8/ddd/a14823.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "d8/ddd/a14823.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "d8/ddd/a14823.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "d8/ddd/a14823.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "HandlePeriodic", "d8/ddd/a14823.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d8/ddd/a14823.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d8/ddd/a14823.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d8/ddd/a14823.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d8/ddd/a14823.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d8/ddd/a14823.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

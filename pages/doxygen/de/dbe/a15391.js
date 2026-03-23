@@ -1,5 +1,5 @@
 var a15391 =
 [
-    [ "at_cthun_stomach_exit", "de/dbe/a15391.html#ab37174eff353cdbba1f300464645ac63", null ],
-    [ "OnTrigger", "de/dbe/a15391.html#ab56dca3fe200dc7822459a22912247bf", null ]
+    [ "boss_yauj", "de/dbe/a15391.html#a15ab7b6b35d29fb1552b11586163320e", null ],
+    [ "JustEngagedWith", "de/dbe/a15391.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
 ];

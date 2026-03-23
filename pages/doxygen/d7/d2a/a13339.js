@@ -1,14 +1,6 @@
 var a13339 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d7/d2a/a13339.html#af68c553db0889c22b7b4b76c868d38e7", null ],
-    [ "DoAction", "d7/d2a/a13339.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
-    [ "EnterEvadeMode", "d7/d2a/a13339.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
-    [ "JustDied", "d7/d2a/a13339.html#a7ecf7396ebcb6f541586435996094f56", null ],
-    [ "JustEngagedWith", "d7/d2a/a13339.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
-    [ "MovementInform", "d7/d2a/a13339.html#a16379320eebb8223a79cf3927bdc507e", null ],
-    [ "UpdateAI", "d7/d2a/a13339.html#a7eedcb1416d05b95f6110751119aea02", null ],
-    [ "events", "d7/d2a/a13339.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
-    [ "events2", "d7/d2a/a13339.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
-    [ "instance", "d7/d2a/a13339.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
-    [ "TransformsCount", "d7/d2a/a13339.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
+    [ "npc_valkyr_battle_maidenAI", "d2/d6d/a13343.html", "d2/d6d/a13343" ],
+    [ "npc_valkyr_battle_maiden", "d7/d2a/a13339.html#a4316dd483b262e637ea39ba9e972744b", null ],
+    [ "GetAI", "d7/d2a/a13339.html#ab067ea6f5f92039d471708039089e79c", null ]
 ];

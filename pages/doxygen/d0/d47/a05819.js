@@ -1,9 +1,20 @@
 var a05819 =
 [
-    [ "SQLQueryHolderTask", "d0/d47/a05819.html#a017ab0275ea42132bb1e4ece7111572e", null ],
-    [ "~SQLQueryHolderTask", "d0/d47/a05819.html#a0d1122160565c8f20f9a48390352c770", null ],
-    [ "Execute", "d0/d47/a05819.html#a1dc2cdfee574ecbb8fd7bc595ca2f170", null ],
-    [ "GetFuture", "d0/d47/a05819.html#a73199c4e5805933c9f79091797dedc5d", null ],
-    [ "m_holder", "d0/d47/a05819.html#a64b624b8e77c819f5b47d592edc0979d", null ],
-    [ "m_result", "d0/d47/a05819.html#ab27ce22bdb505509662d862e92fe7e77", null ]
+    [ "Task", "d0/d47/a05819.html#a15fd2d39bf79bd4d8ea432b5543f5efc", null ],
+    [ "Task", "d0/d47/a05819.html#ad9b788727c5e8dfa5c424970f882b1dc", null ],
+    [ "Task", "d0/d47/a05819.html#a7eec23707deabeb93b600ad1b17812d6", null ],
+    [ "Task", "d0/d47/a05819.html#a9acec30a90c44ffcff66c256a9caf01a", null ],
+    [ "IsInGroup", "d0/d47/a05819.html#a0bbb86f1ed4357c9af9813e551fc41d7", null ],
+    [ "operator<", "d0/d47/a05819.html#aa53b9d06447478218858aaff7634daab", null ],
+    [ "operator=", "d0/d47/a05819.html#af7f962055b0324a6fedcdd91d9d375dd", null ],
+    [ "operator=", "d0/d47/a05819.html#a97319b03103a3013d96f7abe094ab6a5", null ],
+    [ "operator==", "d0/d47/a05819.html#ac245f8900a292b6ad6ece4c44da85e11", null ],
+    [ "operator>", "d0/d47/a05819.html#a45990c164939b2c5a4fafc541103f70f", null ],
+    [ "TaskContext", "d0/d47/a05819.html#ab75a9caf07880e5ba2bb9f75068bbe7e", null ],
+    [ "TaskScheduler", "d0/d47/a05819.html#a9f0573c5408a663c3874787eeb7d599e", null ],
+    [ "_duration", "d0/d47/a05819.html#add2dd72f389df2168012eb70160f6eb3", null ],
+    [ "_end", "d0/d47/a05819.html#a09a7b8fbb3878aef1cc5f76367e4d43b", null ],
+    [ "_group", "d0/d47/a05819.html#ad9e890cbd7ed9ff7b8829e132605d432", null ],
+    [ "_repeated", "d0/d47/a05819.html#a85e8a2803a79f877e94162cc824fabbe", null ],
+    [ "_task", "d0/d47/a05819.html#a0d846eeae80d54906771ba41281fbdc0", null ]
 ];

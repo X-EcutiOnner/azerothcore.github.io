@@ -1,6 +1,7 @@
 var a17239 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "dc/d36/a17243.html", "dc/d36/a17243" ],
-    [ "instance_halls_of_reflection", "d1/dfb/a17239.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "d1/dfb/a17239.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "HandlePeriodicTick", "d1/dfb/a17239.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
+    [ "PrepareAuraScript", "d1/dfb/a17239.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
+    [ "Register", "d1/dfb/a17239.html#a4653ccb0d93d056adf3b14056865787c", null ],
+    [ "Validate", "d1/dfb/a17239.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
 ];

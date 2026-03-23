@@ -1,8 +1,10 @@
 var a10695 =
 [
-    [ "GuildEvent", "d0/dbf/a10695.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "d0/dbf/a10695.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "d0/dbf/a10695.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "d0/dbf/a10695.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "d0/dbf/a10695.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "ArgsType", "d0/dbf/a10695.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "d0/dbf/a10695.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "d0/dbf/a10695.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "d0/dbf/a10695.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "d0/dbf/a10695.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "d0/dbf/a10695.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "d0/dbf/a10695.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

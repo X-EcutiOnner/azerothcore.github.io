@@ -1,6 +1,5 @@
 var a20255 =
 [
-    [ "boss_freya_elder_brightleafAI", "d8/d23/a20259.html", "d8/d23/a20259" ],
-    [ "boss_freya_elder_brightleaf", "d6/dec/a20255.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
-    [ "GetAI", "d6/dec/a20255.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
+    [ "achievement_staying_buffed_all_winter_25", "d6/dec/a20255.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "d6/dec/a20255.html#a36591082184bc8466e124bad9a910545", null ]
 ];

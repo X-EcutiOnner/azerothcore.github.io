@@ -1,7 +1,8 @@
 var a16807 =
 [
-    [ "HandleEffectPeriodic", "d6/dc5/a16807.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "d6/dc5/a16807.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "d6/dc5/a16807.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "d6/dc5/a16807.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_toc_pet_hunterAI", "d6/dc5/a16807.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "d6/dc5/a16807.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "d6/dc5/a16807.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "d6/dc5/a16807.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "d6/dc5/a16807.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

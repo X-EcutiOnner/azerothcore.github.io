@@ -1,8 +1,6 @@
 var a21023 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "d8/dff/a21023.html#a5542a4fd68a012049a79047f47dccc68", null ],
-    [ "JustDied", "d8/dff/a21023.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
-    [ "Reset", "d8/dff/a21023.html#a43d12c19425f3caa56a9732774b6f943", null ],
-    [ "UpdateAI", "d8/dff/a21023.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
-    [ "_spellTimer", "d8/dff/a21023.html#a45dec8609328d65413ae6c88f693ba15", null ]
+    [ "npc_frozen_orbAI", "d1/d5b/a21027.html", "d1/d5b/a21027" ],
+    [ "npc_frozen_orb", "d8/dff/a21023.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "d8/dff/a21023.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

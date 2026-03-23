@@ -1,6 +1,5 @@
 var a11383 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "d8/d69/a11383.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "d8/d69/a11383.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "d8/d69/a11383.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "RequestPetInfo", "d8/d69/a11383.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
+    [ "Read", "d8/d69/a11383.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
 ];

@@ -1,5 +1,6 @@
 var a27375 =
 [
-    [ "AreaTrigger_at_sentry_point", "d6/d10/a27375.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "d6/d10/a27375.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "HandleAuraApply", "d6/d10/a27375.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "d6/d10/a27375.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "d6/d10/a27375.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

@@ -1,6 +1,5 @@
 var a22271 =
 [
-    [ "npc_lord_areteAI", "db/d12/a22275.html", "db/d12/a22275" ],
-    [ "npc_lord_arete", "db/de1/a22271.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "db/de1/a22271.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "OutdoorPvP_terokkar_forest", "db/de1/a22271.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "db/de1/a22271.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

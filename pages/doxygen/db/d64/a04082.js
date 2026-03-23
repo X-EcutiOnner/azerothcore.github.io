@@ -1,12 +1,11 @@
 var a04082 =
 [
-    [ "instance_violet_hold", "d5/d50/a21397.html", "d5/d50/a21397" ],
-    [ "instance_violet_hold::instance_violet_hold_InstanceMapScript", "dc/d6f/a21401.html", "dc/d6f/a21401" ],
-    [ "vYells", "db/d64/a04082.html#af81bfaea39a160ddb9422869d6637d65", [
-      [ "CYANIGOSA_SAY_SPAWN", "db/d64/a04082.html#af81bfaea39a160ddb9422869d6637d65ad55452f43eb6c2a7803dd3a6914ff586", null ],
-      [ "SAY_SINCLARI_LEAVING", "db/d64/a04082.html#af81bfaea39a160ddb9422869d6637d65a98abfd4974743840603721fea2cd0192", null ],
-      [ "SAY_SINCLARI_DOOR_LOCK", "db/d64/a04082.html#af81bfaea39a160ddb9422869d6637d65a009be97ca2bddcb508aeed20f057fd61", null ],
-      [ "SAY_SINCLARI_COMPLETE", "db/d64/a04082.html#af81bfaea39a160ddb9422869d6637d65aeb5bea74e085aa8ec9a176deb36cdcf1", null ]
+    [ "npc_the_scourge_cauldron", "de/d1f/a14059.html", "de/d1f/a14059" ],
+    [ "npc_the_scourge_cauldron::npc_the_scourge_cauldronAI", "d8/dd4/a14063.html", "d8/dd4/a14063" ],
+    [ "npc_andorhal_tower", "dc/d90/a14067.html", "dc/d90/a14067" ],
+    [ "npc_andorhal_tower::npc_andorhal_towerAI", "dd/d5d/a14071.html", "dd/d5d/a14071" ],
+    [ "AndorhalTower", "db/d64/a04082.html#a07061f0cf471fb1cb236b428c31965c8", [
+      [ "GO_BEACON_TORCH", "db/d64/a04082.html#a07061f0cf471fb1cb236b428c31965c8ace3e47469a19c76e79a7ae1ca2b4f798", null ]
     ] ],
-    [ "AddSC_instance_violet_hold", "db/d64/a04082.html#a3d339190942c6b50cafaf9780d32ffb4", null ]
+    [ "AddSC_western_plaguelands", "db/d64/a04082.html#a978fbc9b0f23371fedcca17926c637cb", null ]
 ];

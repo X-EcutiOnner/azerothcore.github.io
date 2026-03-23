@@ -1,13 +1,14 @@
 var a11623 =
 [
-    [ "PlayerTextBuilder", "d3/dfe/a11623.html#a0740c581636009448fe2c29084db41ae", null ],
-    [ "operator()", "d3/dfe/a11623.html#a64d2905971ecd645e364a774f320a721", null ],
-    [ "_gender", "d3/dfe/a11623.html#aece205d3d523dcf6fefbdd9914943723", null ],
-    [ "_language", "d3/dfe/a11623.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
-    [ "_msgType", "d3/dfe/a11623.html#af546f2788870b8b10b3405695ef81171", null ],
-    [ "_source", "d3/dfe/a11623.html#a9fe9f865b0ba84b5497e63947893533e", null ],
-    [ "_talker", "d3/dfe/a11623.html#a8a8cd00cc76e048500800938a773aa06", null ],
-    [ "_target", "d3/dfe/a11623.html#ac97cf187d079c5162e47bebb7024faa5", null ],
-    [ "_textGroup", "d3/dfe/a11623.html#ab44fe12e73da36acb1199987e8573467", null ],
-    [ "_textId", "d3/dfe/a11623.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
+    [ "alive", "d3/dfe/a11623.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
+    [ "crit", "d3/dfe/a11623.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
+    [ "damage", "d3/dfe/a11623.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
+    [ "damageBeforeTakenMods", "d3/dfe/a11623.html#a85196e5b5865856962898c18001880c7", null ],
+    [ "effectMask", "d3/dfe/a11623.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
+    [ "missCondition", "d3/dfe/a11623.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
+    [ "processed", "d3/dfe/a11623.html#a2de96d62297ff614fc3702bec035ce5b", null ],
+    [ "reflectResult", "d3/dfe/a11623.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
+    [ "scaleAura", "d3/dfe/a11623.html#a89bba366b26686d41288e9b2e725eb75", null ],
+    [ "targetGUID", "d3/dfe/a11623.html#acf55c1dd6f00c94296c592d988f959cf", null ],
+    [ "timeDelay", "d3/dfe/a11623.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
 ];

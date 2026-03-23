@@ -1,10 +1,17 @@
 var a02216 =
 [
-    [ "MovementGenerator", "d9/d16/a10218.html", "d9/d16/a10218" ],
-    [ "MovementGeneratorMedium< T, D >", "d3/d57/a10222.html", "d3/d57/a10222" ],
-    [ "MovementGeneratorFactory< Movement >", "d9/d95/a10226.html", "d9/d95/a10226" ],
-    [ "IdleMovementFactory", "d4/d7b/a10230.html", "d4/d7b/a10230" ],
-    [ "sMovementGeneratorRegistry", "d8/d5f/a02216.html#aa270c1b96e4671274975a07340ba687a", null ],
-    [ "MovementGeneratorCreator", "d8/d5f/a02216.html#ae7a6c44762ef974149bfb8d00247a013", null ],
-    [ "MovementGeneratorRegistry", "d8/d5f/a02216.html#ae78e82cd7b1aea7744a0dbb2e65f8e79", null ]
+    [ "SmartAI", "dc/d23/a06511.html", "dc/d23/a06511" ],
+    [ "SmartGameObjectAI", "d6/dbd/a06515.html", "d6/dbd/a06515" ],
+    [ "DISTANCING_CONSTANT", "d8/d5f/a02216.html#a9a381b0c4b9dc5403d4a93b3afb19dff", null ],
+    [ "SmartEscortState", "d8/d5f/a02216.html#a0911043eb49fd7958a828a60e0537d54", [
+      [ "SMART_ESCORT_NONE", "d8/d5f/a02216.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
+      [ "SMART_ESCORT_ESCORTING", "d8/d5f/a02216.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
+      [ "SMART_ESCORT_RETURNING", "d8/d5f/a02216.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
+      [ "SMART_ESCORT_PAUSED", "d8/d5f/a02216.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
+    ] ],
+    [ "SmartEscortVars", "d8/d5f/a02216.html#a598eb331d977fa893d589fe3e6cebfbf", [
+      [ "SMART_ESCORT_MAX_PLAYER_DIST", "d8/d5f/a02216.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
+      [ "SMART_MAX_AID_DIST", "d8/d5f/a02216.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
+    ] ],
+    [ "AddSC_SmartScripts", "d8/d5f/a02216.html#ab6012619ba76775b314475ec60f8c7d7", null ]
 ];

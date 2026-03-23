@@ -1,7 +1,10 @@
 var a08859 =
 [
-    [ "VehicleDespawnEvent", "d3/d9e/a08859.html#a53c96e023186cfb36084814b69e62d15", null ],
-    [ "Execute", "d3/d9e/a08859.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
-    [ "_duration", "d3/d9e/a08859.html#a9ac4ab83b785691285fb20364925b7ca", null ],
-    [ "_self", "d3/d9e/a08859.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
+    [ "EquipmentSet", "d3/d9e/a08859.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "d3/d9e/a08859.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "d3/d9e/a08859.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "d3/d9e/a08859.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "d3/d9e/a08859.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "d3/d9e/a08859.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "d3/d9e/a08859.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

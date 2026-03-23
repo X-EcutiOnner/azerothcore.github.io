@@ -1,5 +1,7 @@
 var a08343 =
 [
-    [ "CastBarCaption", "d8/d75/a08343.html#ae78195bdc8edd6f4996c617e7a541e12", null ],
-    [ "Name", "d8/d75/a08343.html#a462917eda1e095c99054495abf70cd67", null ]
+    [ "CreatureSpellCooldown", "d8/d75/a08343.html#a6d234a93951992640df5720a2885be3e", null ],
+    [ "CreatureSpellCooldown", "d8/d75/a08343.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
+    [ "category", "d8/d75/a08343.html#a27330a80d711087f1894b2ce816c33b8", null ],
+    [ "end", "d8/d75/a08343.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
 ];

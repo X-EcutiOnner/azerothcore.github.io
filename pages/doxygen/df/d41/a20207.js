@@ -1,6 +1,5 @@
 var a20207 =
 [
-    [ "PrepareSpellScript", "df/d41/a20207.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "df/d41/a20207.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "df/d41/a20207.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "FlashFreezeCheck", "df/d41/a20207.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "df/d41/a20207.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

@@ -1,7 +1,5 @@
 var a18947 =
 [
-    [ "OnApply", "d5/d10/a18947.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "d5/d10/a18947.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "d5/d10/a18947.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "d5/d10/a18947.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "at_icc_saurfang_portal", "d5/d10/a18947.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "d5/d10/a18947.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

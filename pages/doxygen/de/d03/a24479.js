@@ -1,9 +1,7 @@
 var a24479 =
 [
-    [ "npc_korkron_or_wildhammer", "de/d03/a24479.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
-    [ "IsSummonedBy", "de/d03/a24479.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
-    [ "JustDied", "de/d03/a24479.html#a2b216f372b3681b4c96a711568c2a93b", null ],
-    [ "MovementInform", "de/d03/a24479.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
-    [ "Reset", "de/d03/a24479.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
-    [ "_playerGUID", "de/d03/a24479.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
+    [ "HandleProc", "de/d03/a24479.html#ae8764fc6c284a13f610e55933b24102e", null ],
+    [ "PrepareAuraScript", "de/d03/a24479.html#a9ea55387324cbcecc72b82a58bcd9a48", null ],
+    [ "Register", "de/d03/a24479.html#ae65e0a22aab9802ed869b7fb6e823d9e", null ],
+    [ "Validate", "de/d03/a24479.html#aafa30eef7a8c8aac3699edc4afb97f19", null ]
 ];

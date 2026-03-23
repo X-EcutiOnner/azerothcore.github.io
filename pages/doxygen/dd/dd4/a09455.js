@@ -1,8 +1,12 @@
 var a09455 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "dd/dd4/a09455.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "dd/dd4/a09455.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "dd/dd4/a09455.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "dd/dd4/a09455.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "dd/dd4/a09455.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "VisibleNotifier", "dd/dd4/a09455.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "dd/dd4/a09455.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "dd/dd4/a09455.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "dd/dd4/a09455.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "dd/dd4/a09455.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "dd/dd4/a09455.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "dd/dd4/a09455.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "dd/dd4/a09455.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "dd/dd4/a09455.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

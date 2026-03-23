@@ -1,7 +1,7 @@
 var a23171 =
 [
-    [ "HandleEffectRemove", "d3/de5/a23171.html#a6adc572bb13dde9b83a44a1c27833019", null ],
-    [ "PrepareAuraScript", "d3/de5/a23171.html#a877c26735531508d1806273117f3e8bc", null ],
-    [ "Register", "d3/de5/a23171.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
-    [ "Validate", "d3/de5/a23171.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
+    [ "OnApply", "d3/de5/a23171.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d3/de5/a23171.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d3/de5/a23171.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d3/de5/a23171.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

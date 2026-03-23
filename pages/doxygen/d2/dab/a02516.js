@@ -1,9 +1,12 @@
 var a02516 =
 [
-    [ "MapType", "d2/dab/a02516.html#a2a540ae6cb73c9914f0253464b155227", null ],
-    [ "Find", "d2/dab/a02516.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
-    [ "Insert", "d2/dab/a02516.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
-    [ "Remove", "d2/dab/a02516.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
-    [ "RemoveByName", "d2/dab/a02516.html#a9c5298580060e7a6078ffb5f4008c549", null ],
-    [ "PlayerNameMap", "d2/dab/a02516.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
+    [ "AddonInfo", "dc/d49/a06319.html", "dc/d49/a06319" ],
+    [ "SavedAddon", "dd/d54/a06323.html", "dd/d54/a06323" ],
+    [ "BannedAddon", "d4/d7c/a06327.html", "d4/d7c/a06327" ],
+    [ "STANDARD_ADDON_CRC", "d2/dab/a02516.html#a084249e215f787f3163d5d06ad2d256f", null ],
+    [ "BannedAddonList", "d2/dab/a02516.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
+    [ "GetAddonInfo", "d2/dab/a02516.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "d2/dab/a02516.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "d2/dab/a02516.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "d2/dab/a02516.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
 ];

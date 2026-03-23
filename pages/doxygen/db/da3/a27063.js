@@ -1,6 +1,6 @@
 var a27063 =
 [
-    [ "HandleBanish", "db/da3/a27063.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "db/da3/a27063.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "db/da3/a27063.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "HandleRemove", "db/da3/a27063.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "db/da3/a27063.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "db/da3/a27063.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

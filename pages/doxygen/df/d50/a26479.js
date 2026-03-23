@@ -1,7 +1,8 @@
 var a26479 =
 [
-    [ "HandleScriptEffect", "df/d50/a26479.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "df/d50/a26479.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "df/d50/a26479.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "df/d50/a26479.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "CheckProc", "df/d50/a26479.html#a14978c8908b7a928459c2f6ef9adfac2", null ],
+    [ "HandleProc", "df/d50/a26479.html#ac888d49403a03aaf9a37432c3c119241", null ],
+    [ "PrepareAuraScript", "df/d50/a26479.html#ab63e1f31dbc34dd2f44a6771631a2330", null ],
+    [ "Register", "df/d50/a26479.html#ad88268da8fae421f76a5e644aae6b296", null ],
+    [ "Validate", "df/d50/a26479.html#a0cdb80ee885922a9a38c0e2bea4d33af", null ]
 ];

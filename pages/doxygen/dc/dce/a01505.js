@@ -1,6 +1,4 @@
 var a01505 =
 [
-    [ "TSpellSummary", "de/d8a/a06392.html", "de/d8a/a06392" ],
-    [ "SCR_CLEAR", "dc/dce/a01505.html#ab71e08e3f39b7ee7bda0306cd39b96a0", null ],
-    [ "SpellSummary", "dc/dce/a01505.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
+    [ "MOVEMENT_PACKET_TIME_DELAY", "dc/dce/a01505.html#a69e254ae3a119a96053add6b9732296c", null ]
 ];

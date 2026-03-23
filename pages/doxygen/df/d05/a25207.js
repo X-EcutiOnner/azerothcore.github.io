@@ -1,6 +1,6 @@
 var a25207 =
 [
-    [ "CheckAreaTarget", "df/d05/a25207.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "df/d05/a25207.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "df/d05/a25207.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "CalculateDamage", "df/d05/a25207.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
+    [ "PrepareSpellScript", "df/d05/a25207.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "df/d05/a25207.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

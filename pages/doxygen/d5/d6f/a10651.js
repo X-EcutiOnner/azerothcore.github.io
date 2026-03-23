@@ -1,9 +1,12 @@
 var a10651 =
 [
-    [ "GuildInfoResponse", "d5/d6f/a10651.html#a256cb81ad2e08050be99c9e1061c2009", null ],
-    [ "Write", "d5/d6f/a10651.html#a3222d0018c9593400d3d01258b82371e", null ],
-    [ "CreateDate", "d5/d6f/a10651.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
-    [ "GuildName", "d5/d6f/a10651.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
-    [ "NumAccounts", "d5/d6f/a10651.html#a21b42f1654aa10f7872d87635fea66ac", null ],
-    [ "NumMembers", "d5/d6f/a10651.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
+    [ "ItemScript", "d5/d6f/a10651.html#a0ad18538a834261190356eab549ff192", null ],
+    [ "IsDatabaseBound", "d5/d6f/a10651.html#ae0ae6754a17b88deaf3648b74a58bb9d", null ],
+    [ "OnCastItemCombatSpell", "d5/d6f/a10651.html#a08a73378706fdfb0cee5e6214060ad1b", null ],
+    [ "OnExpire", "d5/d6f/a10651.html#a2ac915f9f966df87a963a328363deb77", null ],
+    [ "OnGossipSelect", "d5/d6f/a10651.html#a78b540902816ee3b3f9a6b108aa155ab", null ],
+    [ "OnGossipSelectCode", "d5/d6f/a10651.html#a924268357fec1a667f1184c91ebcef33", null ],
+    [ "OnQuestAccept", "d5/d6f/a10651.html#a87ab2f706bbb4e71921852d1ae6d78c7", null ],
+    [ "OnRemove", "d5/d6f/a10651.html#a1c8d706593fce54b1e4627493c38a6d3", null ],
+    [ "OnUse", "d5/d6f/a10651.html#a0e45d02f07def65de2eb94735189e7f5", null ]
 ];

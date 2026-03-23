@@ -1,6 +1,7 @@
 var a18163 =
 [
-    [ "HandlePeriodic", "d8/d0f/a18163.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "d8/d0f/a18163.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "d8/d0f/a18163.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "HandleProc", "d8/d0f/a18163.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
+    [ "PrepareAuraScript", "d8/d0f/a18163.html#a5eace3a973165eb82ae95b8052bb9476", null ],
+    [ "Register", "d8/d0f/a18163.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
+    [ "Validate", "d8/d0f/a18163.html#ad2a7488006b16840e02b450cc9150289", null ]
 ];

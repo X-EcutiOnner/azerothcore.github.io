@@ -1,13 +1,7 @@
 var a22723 =
 [
-    [ "OPvPCapturePointEP_PWT", "d9/db3/a22723.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
-    [ "ChangeState", "d9/db3/a22723.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
-    [ "FillInitialWorldStates", "d9/db3/a22723.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
-    [ "HandlePlayerEnter", "d9/db3/a22723.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
-    [ "HandlePlayerLeave", "d9/db3/a22723.html#a5772e54263c613eee365856def5e74e6", null ],
-    [ "SendChangePhase", "d9/db3/a22723.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
-    [ "SummonFlightMaster", "d9/db3/a22723.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
-    [ "UpdateTowerState", "d9/db3/a22723.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
-    [ "m_FlightMasterSpawnedId", "d9/db3/a22723.html#afeefd804849b925e6d0a880d8efb5319", null ],
-    [ "m_TowerState", "d9/db3/a22723.html#a914dcbb37baf457750cfe9829d95d88c", null ]
+    [ "HandleEffectApply", "d9/db3/a22723.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
+    [ "Load", "d9/db3/a22723.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
+    [ "PrepareAuraScript", "d9/db3/a22723.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
+    [ "Register", "d9/db3/a22723.html#a647f21e79e3fef72cf84439fc84e708f", null ]
 ];

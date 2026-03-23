@@ -1,5 +1,8 @@
 var a26279 =
 [
-    [ "Trigger", "d4/d05/a26279.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "d4/d05/a26279.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "OnRemove", "d4/d05/a26279.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
+    [ "PrepareAuraScript", "d4/d05/a26279.html#ad06dbe9207315484cbb886fcc75bb958", null ],
+    [ "PrepareProc", "d4/d05/a26279.html#a2f4b562be28420d25d09b81ad72af17f", null ],
+    [ "Register", "d4/d05/a26279.html#a04d9c48f8842392a4d318677537ac248", null ],
+    [ "Validate", "d4/d05/a26279.html#ab15a75ec708d8c683166bd73fab29701", null ]
 ];

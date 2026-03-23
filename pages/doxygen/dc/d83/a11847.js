@@ -1,8 +1,6 @@
 var a11847 =
 [
-    [ "cache_commandscript", "dc/d83/a11847.html#a709e1d02632aed18113c1adb52e962b5", null ],
-    [ "GetCommands", "dc/d83/a11847.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
-    [ "HandleCacheDeleteCommand", "dc/d83/a11847.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
-    [ "HandleCacheInfoCommand", "dc/d83/a11847.html#aa9bce5578450a35909a4e481bc21867f", null ],
-    [ "HandleCacheRefreshCommand", "dc/d83/a11847.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
+    [ "EffectCalcPeriodicHandler", "dc/d83/a11847.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
+    [ "Call", "dc/d83/a11847.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
+    [ "pEffectHandlerScript", "dc/d83/a11847.html#a57673f457c08edfbf7fc1877aa071721", null ]
 ];

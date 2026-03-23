@@ -1,5 +1,6 @@
 var a15583 =
 [
-    [ "go_ravager_cage", "d8/dd7/a15583.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
-    [ "OnGossipHello", "d8/dd7/a15583.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
+    [ "HandleApply", "d8/dd7/a15583.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
+    [ "PrepareAuraScript", "d8/dd7/a15583.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
+    [ "Register", "d8/dd7/a15583.html#ade5c710416516760cc69f77750aa2a1f", null ]
 ];

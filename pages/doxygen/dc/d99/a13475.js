@@ -1,7 +1,6 @@
 var a13475 =
 [
-    [ "OnRemove", "dc/d99/a13475.html#a55460c6393c165e3096c967c81136032", null ],
-    [ "PrepareAuraScript", "dc/d99/a13475.html#afd4e4483f704169e6d213ced134d4c62", null ],
-    [ "Register", "dc/d99/a13475.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
-    [ "Validate", "dc/d99/a13475.html#af580258d287f5db6103b89d3085669bc", null ]
+    [ "boss_baroness_anastariAI", "d5/d55/a13479.html", "d5/d55/a13479" ],
+    [ "boss_baroness_anastari", "dc/d99/a13475.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "dc/d99/a13475.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

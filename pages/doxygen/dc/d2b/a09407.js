@@ -1,8 +1,6 @@
 var a09407 =
 [
-    [ "FriendlyMissingBuffInRange", "dc/d2b/a09407.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "dc/d2b/a09407.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "dc/d2b/a09407.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "dc/d2b/a09407.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "dc/d2b/a09407.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "AreaMapType", "dc/d2b/a09407.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
+    [ "areaMap", "dc/d2b/a09407.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
+    [ "gridArea", "dc/d2b/a09407.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
 ];

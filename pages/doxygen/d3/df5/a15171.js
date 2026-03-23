@@ -1,6 +1,5 @@
 var a15171 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "db/d13/a15175.html", "db/d13/a15175" ],
-    [ "instance_ragefire_chasm", "d3/df5/a15171.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
-    [ "GetInstanceScript", "d3/df5/a15171.html#a0568996a61ef91688b9f223cb3782e5a", null ]
+    [ "npc_black_morass_summoned_add", "d3/df5/a15171.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "d3/df5/a15171.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

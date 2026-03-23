@@ -1,5 +1,6 @@
 var a12423 =
 [
-    [ "at_dragonspire_hall", "d8/d39/a12423.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
-    [ "OnTrigger", "d8/d39/a12423.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
+    [ "boss_anubshiah", "d8/d39/a12423.html#aa8e436501ebf08465a9742dedb5901fc", null ],
+    [ "JustEngagedWith", "d8/d39/a12423.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
+    [ "UpdateAI", "d8/d39/a12423.html#a0a3cbdd6be45415723cbadb40478831a", null ]
 ];

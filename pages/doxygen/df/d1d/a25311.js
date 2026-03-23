@@ -1,10 +1,7 @@
 var a25311 =
 [
-    [ "Load", "df/d1d/a25311.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
-    [ "OnPeriodic", "df/d1d/a25311.html#ab1dc8acb8072f70625375480742fee5e", null ],
-    [ "PrepareAuraScript", "df/d1d/a25311.html#a2e81d03893b23aa8dc9c615683206f75", null ],
-    [ "Register", "df/d1d/a25311.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
-    [ "Validate", "df/d1d/a25311.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
-    [ "_applyTimes", "df/d1d/a25311.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
-    [ "stackAmount", "df/d1d/a25311.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
+    [ "HandleProc", "df/d1d/a25311.html#a993331721d98f6d0b4c225a9c32708bd", null ],
+    [ "PrepareAuraScript", "df/d1d/a25311.html#a71029016013dc48cf1e882a1fb520187", null ],
+    [ "Register", "df/d1d/a25311.html#a4cd1dec02407065ffb25b230cf8df1c7", null ],
+    [ "Validate", "df/d1d/a25311.html#a49174c98ea4fa6c4028c7ad771bbe204", null ]
 ];

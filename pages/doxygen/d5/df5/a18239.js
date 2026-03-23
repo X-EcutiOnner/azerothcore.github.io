@@ -1,7 +1,7 @@
 var a18239 =
 [
-    [ "HandleScript", "d5/df5/a18239.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "d5/df5/a18239.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "d5/df5/a18239.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "d5/df5/a18239.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "FrostBombExplosion", "d5/df5/a18239.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "d5/df5/a18239.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "d5/df5/a18239.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "d5/df5/a18239.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

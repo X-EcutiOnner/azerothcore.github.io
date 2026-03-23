@@ -1,11 +1,5 @@
 var a28835 =
 [
-    [ "IsAvailable", "d7/db0/a28835.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "d7/db0/a28835.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "d7/db0/a28835.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "d7/db0/a28835.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "d7/db0/a28835.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "d7/db0/a28835.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "d7/db0/a28835.html#a8d5a07c626b8f329a01d3dceecd35d09", null ],
-    [ "value", "d7/db0/a28835.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "Itemlvl", "d7/db0/a28835.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
+    [ "multiplier", "d7/db0/a28835.html#a5c6c206a6185a546223de7501ff846f6", null ]
 ];

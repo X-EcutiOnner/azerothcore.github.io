@@ -1,8 +1,14 @@
 var a20175 =
 [
-    [ "OnApply", "dd/d93/a20175.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "dd/d93/a20175.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "dd/d93/a20175.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "dd/d93/a20175.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "dd/d93/a20175.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "npc_ulduar_hodir_priest", "dd/d93/a20175.html#a9c0f04c11c9e006b494fe900612ff756", null ],
+    [ "AttackStart", "dd/d93/a20175.html#ad86f47516d9f245a4ae241bba26b37a4", null ],
+    [ "CanAIAttack", "dd/d93/a20175.html#a8545bd2492bd32d333e8d144b3d548a5", null ],
+    [ "EnterEvadeMode", "dd/d93/a20175.html#a9d3f3e950b0f9c9a7b85ba3835000a80", null ],
+    [ "JustDied", "dd/d93/a20175.html#a3ac7967a61a774670e25aa3c0477d7ac", null ],
+    [ "MoveInLineOfSight", "dd/d93/a20175.html#abc0c766a88dd64e8f5bbcc2afd883552", null ],
+    [ "ScheduleAbilities", "dd/d93/a20175.html#a10b5f3575c2de311d54c15220c68f4b7", null ],
+    [ "SpellHit", "dd/d93/a20175.html#a2dd6faeb45ba2278e1b4693d20550d4e", null ],
+    [ "UpdateAI", "dd/d93/a20175.html#a450b21ab190ec335d910b38a6a2d9329", null ],
+    [ "events", "dd/d93/a20175.html#a803e3f35c784716170f9fa8c4484b66c", null ],
+    [ "pInstance", "dd/d93/a20175.html#a7990e1a1aac16d498180473becf837b1", null ]
 ];

@@ -1,7 +1,10 @@
 var a20291 =
 [
-    [ "boss_freya_healthy_sporeAI", "d8/da4/a20291.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
-    [ "Reset", "d8/da4/a20291.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
-    [ "UpdateAI", "d8/da4/a20291.html#ace79c59d62e597ae31425b4006e1363f", null ],
-    [ "_despawnTimer", "d8/da4/a20291.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
+    [ "boss_kologarn_eyebeam", "d8/da4/a20291.html#ae51ea98b22b3a0734347825b3a0346be", null ],
+    [ "DamageDealt", "d8/da4/a20291.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
+    [ "IsSummonedBy", "d8/da4/a20291.html#a1640ef2ca2a58803786a6c675191676c", null ],
+    [ "UpdateAI", "d8/da4/a20291.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
+    [ "_damaged", "d8/da4/a20291.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
+    [ "_timer", "d8/da4/a20291.html#a0d324467d4d02d7bd204f66fcadc52ea", null ],
+    [ "m_pInstance", "d8/da4/a20291.html#a3725453f7a0d7b307cdbb9b63d990e5b", null ]
 ];

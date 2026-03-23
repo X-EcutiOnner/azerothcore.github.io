@@ -1,5 +1,5 @@
 var a04745 =
 [
-    [ "player_commandscript", "d4/d6e/a12217.html", "d4/d6e/a12217" ],
-    [ "AddSC_player_commandscript", "d4/d1e/a04745.html#a3a4a77162d5b304dab9a8c8e397c3516", null ]
+    [ "ticket_commandscript", "d6/dba/a12327.html", "d6/dba/a12327" ],
+    [ "AddSC_ticket_commandscript", "d4/d1e/a04745.html#ad71463f4442d2e022a92404a4d9dec76", null ]
 ];

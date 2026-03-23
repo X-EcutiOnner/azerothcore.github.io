@@ -1,9 +1,8 @@
 var a22359 =
 [
-    [ "npc_frostbrood_skytalonAI", "da/d6b/a22359.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "da/d6b/a22359.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "da/d6b/a22359.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "da/d6b/a22359.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "da/d6b/a22359.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "da/d6b/a22359.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "npc_anzu_spirit", "da/d6b/a22359.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "da/d6b/a22359.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "da/d6b/a22359.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "da/d6b/a22359.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "da/d6b/a22359.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

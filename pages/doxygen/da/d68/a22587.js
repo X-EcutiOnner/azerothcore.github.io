@@ -1,7 +1,6 @@
 var a22587 =
 [
-    [ "npc_wg_quest_giver", "da/d68/a22587.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "da/d68/a22587.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "da/d68/a22587.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "da/d68/a22587.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "PrepareAuraScript", "da/d68/a22587.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
+    [ "Register", "da/d68/a22587.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
+    [ "Update", "da/d68/a22587.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
 ];

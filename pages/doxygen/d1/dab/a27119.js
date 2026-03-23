@@ -1,6 +1,6 @@
 var a27119 =
 [
-    [ "HandleAfterHit", "d1/dab/a27119.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "d1/dab/a27119.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "d1/dab/a27119.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "FilterTargets", "d1/dab/a27119.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "d1/dab/a27119.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "d1/dab/a27119.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

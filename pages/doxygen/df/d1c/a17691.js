@@ -1,12 +1,6 @@
 var a17691 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "df/d1c/a17691.html#a4313164857ebd174fe33a9a16340b332", null ],
-    [ "DoAction", "df/d1c/a17691.html#a16eeb7d0ed6c943c088285462131cd51", null ],
-    [ "MovementInform", "df/d1c/a17691.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
-    [ "Reset", "df/d1c/a17691.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
-    [ "SpellHit", "df/d1c/a17691.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
-    [ "UpdateAI", "df/d1c/a17691.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
-    [ "_events", "df/d1c/a17691.html#ae7079b335373cc06a040756328e7f714", null ],
-    [ "_guardList", "df/d1c/a17691.html#a1cbd87af34584979b37dfff8b29f9623", null ],
-    [ "_instance", "df/d1c/a17691.html#af1d8694678b10e5393c658ba0b20f47a", null ]
+    [ "npc_icc_blood_beastAI", "d6/db7/a17695.html", "d6/db7/a17695" ],
+    [ "npc_icc_blood_beast", "df/d1c/a17691.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "df/d1c/a17691.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

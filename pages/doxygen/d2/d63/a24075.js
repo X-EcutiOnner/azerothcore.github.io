@@ -1,6 +1,7 @@
 var a24075 =
 [
-    [ "HandlePeriodic", "d2/d63/a24075.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
-    [ "PrepareAuraScript", "d2/d63/a24075.html#a75d72d196ded2ee109d0231d4342890a", null ],
-    [ "Register", "d2/d63/a24075.html#a148013ea68bbc573bddc1c3639dba019", null ]
+    [ "npc_pet_dk_army_of_the_dead", "d2/d63/a24075.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "CanAIAttack", "d2/d63/a24075.html#a514fe49b143f57ef87359b3060911c02", null ],
+    [ "OwnerAttacked", "d2/d63/a24075.html#ad5189df825dc917e59c9b19e4a84cded", null ],
+    [ "OwnerAttackedBy", "d2/d63/a24075.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ]
 ];

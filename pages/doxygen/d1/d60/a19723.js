@@ -1,6 +1,5 @@
 var a19723 =
 [
-    [ "HandlePeriodic", "d1/d60/a19723.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "d1/d60/a19723.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "d1/d60/a19723.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "at_hol_hall_of_watchers", "d1/d60/a19723.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
+    [ "_OnTrigger", "d1/d60/a19723.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
 ];

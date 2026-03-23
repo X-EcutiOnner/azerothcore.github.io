@@ -1,6 +1,7 @@
 var a25631 =
 [
-    [ "CheckCast", "d4/d26/a25631.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "d4/d26/a25631.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "d4/d26/a25631.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "HandleProc", "d4/d26/a25631.html#a5dbf2d5e9b31828b79150f40f6033896", null ],
+    [ "PrepareAuraScript", "d4/d26/a25631.html#a84f326e1353437f29fb051533d3391eb", null ],
+    [ "Register", "d4/d26/a25631.html#a7afae9d94162490cb40d29159d88f4a8", null ],
+    [ "Validate", "d4/d26/a25631.html#a3d39936e9b44abce8746d1ef23c8e27e", null ]
 ];

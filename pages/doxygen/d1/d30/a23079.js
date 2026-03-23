@@ -1,6 +1,5 @@
 var a23079 =
 [
-    [ "HandleSharedRule", "d1/d30/a23079.html#a94b783490dafae872b65e0bbfed156b9", null ],
-    [ "PrepareSpellScript", "d1/d30/a23079.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
-    [ "Register", "d1/d30/a23079.html#a31f2d90059e62da77a719a192d62328b", null ]
+    [ "at_quagmirran_lair", "d1/d30/a23079.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "d1/d30/a23079.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

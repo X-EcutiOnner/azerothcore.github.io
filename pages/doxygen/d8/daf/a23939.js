@@ -1,10 +1,6 @@
 var a23939 =
 [
-    [ "boss_harbinger_skyriss", "d8/daf/a23939.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "d8/daf/a23939.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "d8/daf/a23939.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "d8/daf/a23939.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "d8/daf/a23939.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "d8/daf/a23939.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "d8/daf/a23939.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "npc_illidari_spawnAI", "de/dfb/a23943.html", "de/dfb/a23943" ],
+    [ "npc_illidari_spawn", "d8/daf/a23939.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "d8/daf/a23939.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

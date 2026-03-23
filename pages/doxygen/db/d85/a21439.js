@@ -1,11 +1,5 @@
 var a21439 =
 [
-    [ "boss_archavonAI", "db/d85/a21439.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "db/d85/a21439.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "db/d85/a21439.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "db/d85/a21439.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "db/d85/a21439.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "db/d85/a21439.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "db/d85/a21439.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "db/d85/a21439.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "go_the_pearl_of_the_depths", "db/d85/a21439.html#a0e09ddcde0eef050400d90e9a268823a", null ],
+    [ "OnGossipHello", "db/d85/a21439.html#a745ea14136a78759a3afd7714c6d784a", null ]
 ];

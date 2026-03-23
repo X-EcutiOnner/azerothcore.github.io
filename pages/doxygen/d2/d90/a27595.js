@@ -1,6 +1,8 @@
 var a27595 =
 [
-    [ "go_bashir_crystalforge", "d2/d90/a27595.html#a8b68a63933e14d82198580912fddc280", null ],
-    [ "OnGossipHello", "d2/d90/a27595.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
-    [ "OnGossipSelect", "d2/d90/a27595.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
+    [ "HandleDamage", "d2/d90/a27595.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "d2/d90/a27595.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "d2/d90/a27595.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "d2/d90/a27595.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "d2/d90/a27595.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

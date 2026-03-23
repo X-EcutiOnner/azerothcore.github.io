@@ -1,5 +1,5 @@
 var a08623 =
 [
-    [ "Rank", "d5/d4e/a08623.html#a61797c7cb799308a7c20a954d287be17", null ],
-    [ "SkillId", "d5/d4e/a08623.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
+    [ "Color", "d5/d4e/a08623.html#ad6232c851b72ce04d2dcfa00596fc1df", null ],
+    [ "Content", "d5/d4e/a08623.html#a5437849d9b7f229c4466e174d619d057", null ]
 ];

@@ -1,8 +1,5 @@
 var a29615 =
 [
-    [ "DBCFile", "d4/d75/a28573.html", "d4/d75/a28573" ],
-    [ "DBCFile::Exception", "d4/d9b/a28577.html", "d4/d9b/a28577" ],
-    [ "DBCFile::NotFound", "db/da9/a28581.html", "db/da9/a28581" ],
-    [ "DBCFile::Record", "d8/dfa/a28585.html", "d8/dfa/a28585" ],
-    [ "DBCFile::Iterator", "d9/dc2/a28589.html", "d9/dc2/a28589" ]
+    [ "height", "d8/d73/a29615.html#a9ee8f132a89d37d9b202c7f49d2c3a49", null ],
+    [ "light", "d8/d73/a29615.html#a53c2edf09fb56334d1c3621d3630de5d", null ]
 ];

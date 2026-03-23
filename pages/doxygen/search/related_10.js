@@ -1,10 +1,12 @@
 var searchData=
 [
-  ['createtransport_0',['CreateTransport',['../df/d62/a08925.html#a41ee05e73fcfe146975867daa9baae87',1,'MotionTransport']]],
-  ['taskcontext_1',['TaskContext',['../d8/d30/a05789.html#ab75a9caf07880e5ba2bb9f75068bbe7e',1,'TaskScheduler::TaskContext()'],['../db/d00/a05793.html#ab75a9caf07880e5ba2bb9f75068bbe7e',1,'TaskScheduler::Task::TaskContext()']]],
-  ['taskscheduler_2',['TaskScheduler',['../db/d00/a05793.html#a9f0573c5408a663c3874787eeb7d599e',1,'TaskScheduler::Task::TaskScheduler()'],['../d0/d43/a05805.html#a9f0573c5408a663c3874787eeb7d599e',1,'TaskContext::TaskScheduler()']]],
-  ['threatmgr_3',['ThreatMgr',['../de/da2/a08085.html#a15a22acdc48991a2933e85328b30934b',1,'ThreatContainer']]],
-  ['tilebuilder_4',['TileBuilder',['../db/df0/a30037.html#a958080aa4f2d78d750a34c9a15fac6dd',1,'MMAP::MapBuilder']]],
-  ['transactioncallback_5',['TransactionCallback',['../da/d28/a06117.html#ac3345f3314b133d53268f53e222cdc74',1,'TransactionTask']]],
-  ['transactiontask_6',['TransactionTask',['../d4/dc7/a06113.html#a377add6d6b5e34e774d2497d58f4a180',1,'TransactionBase']]]
+  ['_5fapplyaura_0',['_ApplyAura',['../d5/da7/a11587.html#a0ee9d6fcaabda925fdbf12feed2d6fbe',1,'AuraApplication']]],
+  ['_5fapplyauraeffect_1',['_ApplyAuraEffect',['../d5/da7/a11587.html#a7bccd89e3e56acad8ccb5ff6fe004bc8',1,'AuraApplication']]],
+  ['_5fcreateauraapplication_2',['_CreateAuraApplication',['../d5/da7/a11587.html#a70986d45ff7bcd29d8198bed9a4b8645',1,'AuraApplication']]],
+  ['_5ftrystackingorrefreshingexistingaura_3',['_TryStackingOrRefreshingExistingAura',['../dc/d15/a11579.html#a851e18dcd4b806db1cd3843a7814d15a',1,'AuraEffect::_TryStackingOrRefreshingExistingAura()'],['../dc/db5/a11591.html#a851e18dcd4b806db1cd3843a7814d15a',1,'Aura::_TryStackingOrRefreshingExistingAura()']]],
+  ['_5funapplyaura_4',['_UnapplyAura',['../d5/da7/a11587.html#a4eef528c953f9f6c5e08e0a3cbd6c0c5',1,'AuraApplication']]],
+  ['createvehiclekit_5',['CreateVehicleKit',['../db/db0/a09059.html#a9086db467f2f71f20bc02ed2330a8c37',1,'Vehicle']]],
+  ['removeaura_6',['RemoveAura',['../d5/da7/a11587.html#a521cdbdf816702f2a928d8b1d775d209',1,'AuraApplication']]],
+  ['removevehiclekit_7',['RemoveVehicleKit',['../db/db0/a09059.html#a64f84e614dc48de43b62bb1f77fe2bb3',1,'Vehicle']]],
+  ['setcurrentcastedspell_8',['SetCurrentCastedSpell',['../d2/d00/a11631.html#a61c5e93627b85645d6a3b0a5af13d58a',1,'Spell']]]
 ];

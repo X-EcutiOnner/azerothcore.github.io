@@ -1,19 +1,12 @@
 var a08091 =
 [
-    [ "CreatureMovementData", "d7/d3e/a08091.html#acb8099aff89bb3526a78073fd5503e9b", null ],
-    [ "GetChase", "d7/d3e/a08091.html#aa9e0267e4c73ec837653113394841fcf", null ],
-    [ "GetInteractionPauseTimer", "d7/d3e/a08091.html#ac16489cdc845f350e98da595269b7770", null ],
-    [ "GetRandom", "d7/d3e/a08091.html#af2c8281192f6234bd19e030237c77b5a", null ],
-    [ "IsFlightAllowed", "d7/d3e/a08091.html#ad2e480bc7a0b98c417be077305392647", null ],
-    [ "IsGroundAllowed", "d7/d3e/a08091.html#a0820b5840321870dafa9119d404ad0d9", null ],
-    [ "IsRooted", "d7/d3e/a08091.html#a530b2bbf530e553687c23555f3ffe655", null ],
-    [ "IsSwimAllowed", "d7/d3e/a08091.html#a3ed4b7f140537f9d066344c50a79b0b1", null ],
-    [ "ToString", "d7/d3e/a08091.html#ad76c73b59fa83682a9ae43389fed95b0", null ],
-    [ "Chase", "d7/d3e/a08091.html#ae2a19ebf47bacb304a450f7d9c6dbc6d", null ],
-    [ "Flight", "d7/d3e/a08091.html#aa535d32995ba28e11915dd56494f4a72", null ],
-    [ "Ground", "d7/d3e/a08091.html#ae603273724f448c95dc3a7cd3aec5b68", null ],
-    [ "InteractionPauseTimer", "d7/d3e/a08091.html#ae701d7622d7e24c0b8673863a2d75742", null ],
-    [ "Random", "d7/d3e/a08091.html#a1457436a01d5007235224fa9bfb93745", null ],
-    [ "Rooted", "d7/d3e/a08091.html#a0ca3905bb168b81853091a7d56796c1f", null ],
-    [ "Swim", "d7/d3e/a08091.html#a04966dc48fffcd65574314f238ba9be2", null ]
+    [ "HyperlinkInfo", "d7/d3e/a08091.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
+    [ "HyperlinkInfo", "d7/d3e/a08091.html#ac08518b3afb878fc7979807d764b7872", null ],
+    [ "operator bool", "d7/d3e/a08091.html#a834ac95bb310f6653208026e203e065f", null ],
+    [ "color", "d7/d3e/a08091.html#a38c0121d4001ad938d9bc53ca08217db", null ],
+    [ "data", "d7/d3e/a08091.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
+    [ "ok", "d7/d3e/a08091.html#a54c7a812f79593258002d367110b2403", null ],
+    [ "tag", "d7/d3e/a08091.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
+    [ "tail", "d7/d3e/a08091.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
+    [ "text", "d7/d3e/a08091.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
 ];

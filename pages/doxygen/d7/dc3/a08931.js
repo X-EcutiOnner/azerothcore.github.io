@@ -1,7 +1,29 @@
 var a08931 =
 [
-    [ "IsFitToRequirements", "d7/dc3/a08931.html#ac175634ed2eab2911c3749fa208a073a", null ],
-    [ "castFlags", "d7/dc3/a08931.html#a03cd65a460ea252818de9230cb656c1c", null ],
-    [ "spellId", "d7/dc3/a08931.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
-    [ "userType", "d7/dc3/a08931.html#adcf285572403481cb418bddebc5f4bfa", null ]
+    [ "TradeData", "d7/dc3/a08931.html#ac2bfab37acbdb9fd955d8f2ee8876b79", null ],
+    [ "GetItem", "d7/dc3/a08931.html#a6c769042535c69e89bdc19234dd680e4", null ],
+    [ "GetMoney", "d7/dc3/a08931.html#a54d3de8cb15ccc761d272295b19b7575", null ],
+    [ "GetSpell", "d7/dc3/a08931.html#a99272f794179b17c50c722ae90ea78bf", null ],
+    [ "GetSpellCastItem", "d7/dc3/a08931.html#a011acd6730c58aa75d3c27e793748afc", null ],
+    [ "GetTrader", "d7/dc3/a08931.html#a3e3023cdf6deb5283ebbe844727cadef", null ],
+    [ "GetTraderData", "d7/dc3/a08931.html#a91911ad105b24d6055a65b07ab6c269f", null ],
+    [ "GetTradeSlotForItem", "d7/dc3/a08931.html#a2982777fbad962000c016309667104df", null ],
+    [ "HasItem", "d7/dc3/a08931.html#a420249fcbb7394f16009861ccdb6962a", null ],
+    [ "HasSpellCastItem", "d7/dc3/a08931.html#a27981abf9bddbfe87bf81836b57e0780", null ],
+    [ "IsAccepted", "d7/dc3/a08931.html#a75b4970c1f26912bc24da528f226ca76", null ],
+    [ "IsInAcceptProcess", "d7/dc3/a08931.html#abbae0b720c0b44a05f0625ebafd09cc8", null ],
+    [ "SetAccepted", "d7/dc3/a08931.html#a6bc7a8ef2633aaff03381e3eeeb0b2af", null ],
+    [ "SetInAcceptProcess", "d7/dc3/a08931.html#a4851016708b0e8336ec33c64ab41aa8a", null ],
+    [ "SetItem", "d7/dc3/a08931.html#ab3eff66bb411bd22a11d8e29f7961507", null ],
+    [ "SetMoney", "d7/dc3/a08931.html#a0dc996fdc9acab409833caff4e6b489b", null ],
+    [ "SetSpell", "d7/dc3/a08931.html#a2afa4c75d1fe0b8a712f270166f838ef", null ],
+    [ "Update", "d7/dc3/a08931.html#a970e3a0d295495973bda1ff5b4732055", null ],
+    [ "_accepted", "d7/dc3/a08931.html#a83714687d004cf506b8478ab9fef03ec", null ],
+    [ "_money", "d7/dc3/a08931.html#aade15c8c3f6b2a72349026a9acc85168", null ],
+    [ "_player", "d7/dc3/a08931.html#a4d2719632d13db74da5f8246c48039e5", null ],
+    [ "_trader", "d7/dc3/a08931.html#af1d6f26bafd7c56c35517ac81409b22c", null ],
+    [ "m_acceptProccess", "d7/dc3/a08931.html#a1e585dd9ed486381a55e108a709e4db3", null ],
+    [ "m_items", "d7/dc3/a08931.html#ac27f6047b7585f8b3ef069af68851965", null ],
+    [ "m_spell", "d7/dc3/a08931.html#a291fdc4207d594982a780485b960f6fa", null ],
+    [ "m_spellCastItem", "d7/dc3/a08931.html#adb76e2e7f01cc6f1ee4579ee177ba9c1", null ]
 ];

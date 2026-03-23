@@ -1,9 +1,6 @@
 var a15095 =
 [
-    [ "boss_chrono_lord_deja", "db/d14/a15095.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "db/d14/a15095.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "db/d14/a15095.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "db/d14/a15095.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "db/d14/a15095.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "db/d14/a15095.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "d4/ddf/a15099.html", "d4/ddf/a15099" ],
+    [ "instance_culling_of_stratholme", "db/d14/a15095.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
+    [ "GetInstanceScript", "db/d14/a15095.html#ad8cbcb198666d44d79d6255d066c8315", null ]
 ];

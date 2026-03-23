@@ -1,11 +1,12 @@
 var a22899 =
 [
-    [ "boss_blackheart_the_inciter", "de/dcb/a22899.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "de/dcb/a22899.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "de/dcb/a22899.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "de/dcb/a22899.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "de/dcb/a22899.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "de/dcb/a22899.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "de/dcb/a22899.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "de/dcb/a22899.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "boss_leotheras_the_blind", "de/dcb/a22899.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "de/dcb/a22899.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "de/dcb/a22899.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "de/dcb/a22899.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "de/dcb/a22899.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "de/dcb/a22899.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "de/dcb/a22899.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "de/dcb/a22899.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "de/dcb/a22899.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

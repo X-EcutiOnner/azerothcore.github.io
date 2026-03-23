@@ -1,7 +1,7 @@
 var a27223 =
 [
-    [ "HandleEffect", "d9/dcc/a27223.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
-    [ "PrepareSpellScript", "d9/dcc/a27223.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
-    [ "Register", "d9/dcc/a27223.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
-    [ "Validate", "d9/dcc/a27223.html#ab6d78ecb650f13df3376baced8c40a63", null ]
+    [ "HandleProc", "d9/dcc/a27223.html#a46726e3e05e386892ea86d74d161e8d0", null ],
+    [ "PrepareAuraScript", "d9/dcc/a27223.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
+    [ "Register", "d9/dcc/a27223.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
+    [ "Validate", "d9/dcc/a27223.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
 ];

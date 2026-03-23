@@ -1,12 +1,10 @@
 var a17151 =
 [
-    [ "npc_spectral_footmanAI", "da/dd8/a17151.html#a746b1d15b70be293f61669ce4a945732", null ],
-    [ "AttackStart", "da/dd8/a17151.html#ac6f9dadff44c805adfac855778b1c9d2", null ],
-    [ "DoAction", "da/dd8/a17151.html#a466b878e60c1bf89603c261110d88b25", null ],
-    [ "EnterEvadeMode", "da/dd8/a17151.html#a66c9cceae4c2ae5574369744486e3e57", null ],
-    [ "JustDied", "da/dd8/a17151.html#afbab6772ff97ca9355ca5f4ac194ce0d", null ],
-    [ "JustEngagedWith", "da/dd8/a17151.html#a3d3eff22cb453e2ea0164e7f45bb6e5b", null ],
-    [ "Reset", "da/dd8/a17151.html#a3a8151da7ec1d63966ffc5e5b7e9e931", null ],
-    [ "UpdateAI", "da/dd8/a17151.html#ad1da2bc8fdc3a3fce51b9a633fd56574", null ],
-    [ "events", "da/dd8/a17151.html#aa5420d5e57447c7f89c0560ae07b3503", null ]
+    [ "boss_frostsworn_general", "da/dd8/a17151.html#adae1b1d60e78a33b875ac08312a454cf", null ],
+    [ "EnterEvadeMode", "da/dd8/a17151.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
+    [ "JustDied", "da/dd8/a17151.html#a14741cafce857fa819418ec3208c62fc", null ],
+    [ "JustEngagedWith", "da/dd8/a17151.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
+    [ "Reset", "da/dd8/a17151.html#a1576562e5fe2247235b152029aa8edce", null ],
+    [ "UpdateAI", "da/dd8/a17151.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
+    [ "instance", "da/dd8/a17151.html#ab04347cee4d7542171d622cfde936cb1", null ]
 ];

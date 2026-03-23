@@ -1,6 +1,6 @@
 var a19807 =
 [
-    [ "boss_maiden_of_griefAI", "d6/dbb/a19811.html", "d6/dbb/a19811" ],
-    [ "boss_maiden_of_grief", "d3/d38/a19807.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
-    [ "GetAI", "d3/d38/a19807.html#af8d2e6392a0c73add801910945b2558e", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "d6/dbb/a19811.html", "d6/dbb/a19811" ],
+    [ "instance_halls_of_stone", "d3/d38/a19807.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d3/d38/a19807.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

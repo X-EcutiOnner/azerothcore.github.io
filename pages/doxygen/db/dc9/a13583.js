@@ -1,12 +1,16 @@
 var a13583 =
 [
-    [ "boss_sathrovarr", "db/dc9/a13583.html#a92bff830219f795d0aae4511f3d524bb", null ],
-    [ "CanAIAttack", "db/dc9/a13583.html#a053dcf604aed91ac7c888d682653da54", null ],
-    [ "DoAction", "db/dc9/a13583.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
-    [ "JustDied", "db/dc9/a13583.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
-    [ "JustEngagedWith", "db/dc9/a13583.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
-    [ "KilledUnit", "db/dc9/a13583.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
-    [ "Reset", "db/dc9/a13583.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
-    [ "UpdateAI", "db/dc9/a13583.html#a99c5c8801333f2eaf6b9fee287588093", null ],
-    [ "_instance", "db/dc9/a13583.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
+    [ "boss_felmyst", "db/dc9/a13583.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
+    [ "InitializeAI", "db/dc9/a13583.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
+    [ "JustDied", "db/dc9/a13583.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
+    [ "JustEngagedWith", "db/dc9/a13583.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
+    [ "KilledUnit", "db/dc9/a13583.html#a0233ebbcbb21d100425ac76223e839be", null ],
+    [ "MovementInform", "db/dc9/a13583.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
+    [ "Reset", "db/dc9/a13583.html#ae5181c789809a859edb40488e206c0d3", null ],
+    [ "ScheduleGroundAbilities", "db/dc9/a13583.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
+    [ "SpellHitTarget", "db/dc9/a13583.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
+    [ "StartIntro", "db/dc9/a13583.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
+    [ "UpdateAI", "db/dc9/a13583.html#a0e429d8cf49946c0232b9c405c340356", null ],
+    [ "_currentLane", "db/dc9/a13583.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
+    [ "_strafeCount", "db/dc9/a13583.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
 ];

@@ -1,6 +1,6 @@
 var a23575 =
 [
-    [ "boss_rokmar_the_crackler", "d6/dc9/a23575.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "d6/dc9/a23575.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "d6/dc9/a23575.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "lapseTeleport", "d6/dc9/a23575.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "d6/dc9/a23575.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "d6/dc9/a23575.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

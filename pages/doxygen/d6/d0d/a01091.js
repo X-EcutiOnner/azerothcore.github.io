@@ -1,7 +1,8 @@
 var a01091 =
 [
-    [ "ScriptObject", "db/d1b/a10697.html", "db/d1b/a10697" ],
-    [ "UpdatableScript< TObject >", "d3/dba/a10701.html", "d3/dba/a10701" ],
-    [ "MapScript< TMap >", "d3/d4e/a10705.html", "d3/d4e/a10705" ],
-    [ "VISIBLE_RANGE", "d6/d0d/a01091.html#ac7e3013df774904b0d331e5b0c6e93ad", null ]
+    [ "CreatureScript", "dc/d98/a10591.html", "dc/d98/a10591" ],
+    [ "GenericCreatureScript< AI >", "d8/d3a/a10595.html", "d8/d3a/a10595" ],
+    [ "FactoryCreatureScript< AI, AIFactory >", "d8/d93/a10599.html", "d8/d93/a10599" ],
+    [ "RegisterCreatureAI", "d6/d0d/a01091.html#a5e7352841895df7117e2830448eb533f", null ],
+    [ "RegisterCreatureAIWithFactory", "d6/d0d/a01091.html#a25cc02ecf50f52ec8cdff096060b8be1", null ]
 ];

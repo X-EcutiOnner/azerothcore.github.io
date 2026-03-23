@@ -1,6 +1,6 @@
 var a15995 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "d3/dee/a15999.html", "d3/dee/a15999" ],
-    [ "instance_zulfarrak", "df/d91/a15995.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "df/d91/a15995.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "npc_cairne_bloodhoofAI", "d3/dee/a15999.html", "d3/dee/a15999" ],
+    [ "npc_cairne_bloodhoof", "df/d91/a15995.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "df/d91/a15995.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

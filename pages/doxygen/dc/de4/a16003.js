@@ -1,6 +1,7 @@
 var a16003 =
 [
-    [ "HandleSummon", "dc/de4/a16003.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "dc/de4/a16003.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "dc/de4/a16003.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "npc_ameAI", "d6/d58/a16007.html", "d6/d58/a16007" ],
+    [ "npc_ame", "dc/de4/a16003.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "dc/de4/a16003.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "dc/de4/a16003.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

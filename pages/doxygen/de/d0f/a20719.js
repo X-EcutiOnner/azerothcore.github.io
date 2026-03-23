@@ -1,5 +1,7 @@
 var a20719 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "de/d0f/a20719.html#a6308129d11989dadf0a5948c4a268e4b", null ],
-    [ "SpellHitTarget", "de/d0f/a20719.html#a3c254e16f62e7d2414d81062c91c2468", null ]
+    [ "HandleScriptEffect", "de/d0f/a20719.html#aae469190c1edc1fe45914bad1dac4e93", null ],
+    [ "PrepareSpellScript", "de/d0f/a20719.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
+    [ "Register", "de/d0f/a20719.html#a97265071f226fbd17c37d432cf9e2350", null ],
+    [ "Validate", "de/d0f/a20719.html#aeec0bdd2e39db2da657247376ddcd195", null ]
 ];

@@ -1,6 +1,6 @@
 var a22403 =
 [
-    [ "npc_bushwhackerAI", "db/d94/a22403.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "db/d94/a22403.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "db/d94/a22403.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "PrepareSpellScript", "db/d94/a22403.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
+    [ "Register", "db/d94/a22403.html#aa41700bf097963c5a352442723181037", null ],
+    [ "SelectTarget", "db/d94/a22403.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
 ];

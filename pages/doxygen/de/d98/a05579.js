@@ -1,7 +1,8 @@
 var a05579 =
 [
-    [ "EnumText", "de/d98/a05579.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
-    [ "Constant", "de/d98/a05579.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
-    [ "Description", "de/d98/a05579.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
-    [ "Title", "de/d98/a05579.html#a7326575ea4083e28ac62556526a092a4", null ]
+    [ "Decode", "de/d98/a05579.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
+    [ "Encode", "de/d98/a05579.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
+    [ "BITS_PER_CHAR", "de/d98/a05579.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
+    [ "DECODE_ERROR", "de/d98/a05579.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
+    [ "PADDING", "de/d98/a05579.html#a2e5699431f24ca6b745294b935b99240", null ]
 ];

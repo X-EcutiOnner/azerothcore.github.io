@@ -1,6 +1,6 @@
 var a20863 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "d3/d36/a20867.html", "d3/d36/a20867" ],
-    [ "boss_thorim_gauntlet_npcs", "d9/d7f/a20863.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
-    [ "GetAI", "d9/d7f/a20863.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
+    [ "npc_massive_jormungarAI", "d3/d36/a20867.html", "d3/d36/a20867" ],
+    [ "npc_massive_jormungar", "d9/d7f/a20863.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "d9/d7f/a20863.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

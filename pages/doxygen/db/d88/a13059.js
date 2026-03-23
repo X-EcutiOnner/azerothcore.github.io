@@ -1,8 +1,8 @@
 var a13059 =
 [
-    [ "npc_barnesAI", "db/d12/a13063.html", "db/d12/a13063" ],
-    [ "npc_barnes", "db/d88/a13059.html#aacdc737a94397a90b48b635293fe9c80", null ],
-    [ "GetAI", "db/d88/a13059.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
-    [ "OnGossipHello", "db/d88/a13059.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
-    [ "OnGossipSelect", "db/d88/a13059.html#aa04d577e318f16f581f82761b6014eb5", null ]
+    [ "npc_cyclone", "db/d88/a13059.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "db/d88/a13059.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "db/d88/a13059.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "db/d88/a13059.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "db/d88/a13059.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

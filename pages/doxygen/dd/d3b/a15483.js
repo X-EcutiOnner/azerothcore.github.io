@@ -1,6 +1,15 @@
 var a15483 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d2/d56/a15487.html", "d2/d56/a15487" ],
-    [ "instance_temple_of_ahnqiraj", "dd/d3b/a15483.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
-    [ "GetInstanceScript", "dd/d3b/a15483.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
+    [ "boss_skeram", "dd/d3b/a15483.html#a293710a88c91a181ee1000939386e176", null ],
+    [ "DoTeleport", "dd/d3b/a15483.html#a96166ddebd5906868b872c39a6755a70", null ],
+    [ "EnterEvadeMode", "dd/d3b/a15483.html#ab050e31d661c8c089d175de231b0eeb2", null ],
+    [ "JustDied", "dd/d3b/a15483.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
+    [ "JustEngagedWith", "dd/d3b/a15483.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
+    [ "JustSummoned", "dd/d3b/a15483.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
+    [ "KilledUnit", "dd/d3b/a15483.html#a185cb6686d37e064278260ebe5fae13a", null ],
+    [ "Reset", "dd/d3b/a15483.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
+    [ "UpdateAI", "dd/d3b/a15483.html#aaf29331e0fac71479747d62fd9f1e301", null ],
+    [ "_copiesGUIDs", "dd/d3b/a15483.html#a28f1465938dc2141779d5171ea09ecd0", null ],
+    [ "_flag", "dd/d3b/a15483.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
+    [ "_hpct", "dd/d3b/a15483.html#a5c8760788264a9a04a28c05a0247676c", null ]
 ];

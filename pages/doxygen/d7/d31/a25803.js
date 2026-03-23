@@ -1,7 +1,7 @@
 var a25803 =
 [
-    [ "HandleJump", "d7/d31/a25803.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "d7/d31/a25803.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "d7/d31/a25803.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "d7/d31/a25803.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "HandleDummy", "d7/d31/a25803.html#a4e78ce5b1275860304eba414f8e66442", null ],
+    [ "PrepareSpellScript", "d7/d31/a25803.html#a155fa844714aadadd0a6c31dc86748f3", null ],
+    [ "Register", "d7/d31/a25803.html#a3ea6786e2fa76917bcb4baa42d2be1f1", null ],
+    [ "Validate", "d7/d31/a25803.html#a08838d940e413d83f4c48854260c3e1b", null ]
 ];

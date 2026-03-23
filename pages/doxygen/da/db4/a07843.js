@@ -1,8 +1,6 @@
 var a07843 =
 [
-    [ "CurValue", "da/db4/a07843.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
-    [ "KnownRecipes", "da/db4/a07843.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
-    [ "MaxValue", "da/db4/a07843.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
-    [ "Owner", "da/db4/a07843.html#a085e0aa9f79129920af96046c4fc29b1", null ],
-    [ "Spell", "da/db4/a07843.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
+    [ "value_type", "da/db4/a07843.html#adbfeb8f2823f763fdae25b87fbbdcfbf", null ],
+    [ "operator()", "da/db4/a07843.html#abeff0e73688ad4745201c5d817f7a442", null ],
+    [ "operator()", "da/db4/a07843.html#a8ee9220d4226b4dd028f3f9c438f34ba", null ]
 ];

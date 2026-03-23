@@ -1,6 +1,5 @@
 var a10627 =
 [
-    [ "SetSheathed", "df/ddc/a10627.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "df/ddc/a10627.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "df/ddc/a10627.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "FactoryGameObjectScript", "df/ddc/a10627.html#ac0981bdae743da11b99d7df1c967a703", null ],
+    [ "GetAI", "df/ddc/a10627.html#a9a39e94f28729ea1fb4b6231d588b42c", null ]
 ];

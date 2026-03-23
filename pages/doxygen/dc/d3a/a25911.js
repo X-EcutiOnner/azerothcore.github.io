@@ -1,7 +1,6 @@
 var a25911 =
 [
-    [ "OnRemove", "dc/d3a/a25911.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
-    [ "PrepareAuraScript", "dc/d3a/a25911.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
-    [ "Register", "dc/d3a/a25911.html#a35a8adc4944fc2333488e72498f6d252", null ],
-    [ "Validate", "dc/d3a/a25911.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
+    [ "HandleOpenObject", "dc/d3a/a25911.html#ab658c13615fac1861470bb4b853e76a4", null ],
+    [ "PrepareSpellScript", "dc/d3a/a25911.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
+    [ "Register", "dc/d3a/a25911.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
 ];

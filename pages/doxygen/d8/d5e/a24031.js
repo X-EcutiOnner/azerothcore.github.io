@@ -1,6 +1,6 @@
 var a24031 =
 [
-    [ "AfterRemove", "d8/d5e/a24031.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d8/d5e/a24031.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d8/d5e/a24031.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "PrepareSpellScript", "d8/d5e/a24031.html#a190f6dc3d9b336324da29f627a743fe9", null ],
+    [ "Register", "d8/d5e/a24031.html#a3afc8035b852bc31abd3228e88d59819", null ],
+    [ "SetDest", "d8/d5e/a24031.html#a85d66a58597954501305ad5b674cc8a2", null ]
 ];

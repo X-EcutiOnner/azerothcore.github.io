@@ -1,5 +1,5 @@
 var a28839 =
 [
-    [ "type", "d8/db3/a28839.html#af749459df7757d1bab17a54be813f6b6", null ],
-    [ "_type", "d8/db3/a28839.html#ab0344571616786baef4511c647a3abea", null ]
+    [ "Id", "d8/db3/a28839.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "d8/db3/a28839.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

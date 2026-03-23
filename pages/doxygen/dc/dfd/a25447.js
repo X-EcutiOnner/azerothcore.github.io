@@ -1,7 +1,7 @@
 var a25447 =
 [
-    [ "PrepareSpellScript", "dc/dfd/a25447.html#a65d5717a25e371e09c44148c679dd390", null ],
-    [ "Register", "dc/dfd/a25447.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
-    [ "RemoveInvalidTargets", "dc/dfd/a25447.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
-    [ "Validate", "dc/dfd/a25447.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
+    [ "HandleProc", "dc/dfd/a25447.html#a67fd28d9426ed4825db86bf155d8d395", null ],
+    [ "PrepareAuraScript", "dc/dfd/a25447.html#aba5b549d9a3b9fecdc16270732e3a5d7", null ],
+    [ "Register", "dc/dfd/a25447.html#a50f5c5e00a327325da2e49ab0ab2bcb6", null ],
+    [ "Validate", "dc/dfd/a25447.html#a769737b9f5971b684f52289873970930", null ]
 ];

@@ -1,7 +1,14 @@
 var a15259 =
 [
-    [ "go_sand_trap", "d6/dc4/a15259.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "d6/dc4/a15259.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "d6/dc4/a15259.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "d6/dc4/a15259.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "boss_ayamiss", "d6/dc4/a15259.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "d6/dc4/a15259.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "d6/dc4/a15259.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "d6/dc4/a15259.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "d6/dc4/a15259.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "d6/dc4/a15259.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "d6/dc4/a15259.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "d6/dc4/a15259.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "d6/dc4/a15259.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "d6/dc4/a15259.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "d6/dc4/a15259.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

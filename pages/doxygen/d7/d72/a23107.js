@@ -1,9 +1,6 @@
 var a23107 =
 [
-    [ "FilterTargets", "d7/d72/a23107.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "d7/d72/a23107.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "d7/d72/a23107.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "d7/d72/a23107.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "d7/d72/a23107.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "d7/d72/a23107.html#a814083360970284a325621f45e109b5b", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d7/d72/a23107.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d7/d72/a23107.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d7/d72/a23107.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

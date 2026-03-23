@@ -1,7 +1,6 @@
 var a27947 =
 [
-    [ "npc_crashin_thrashin_robot", "d5/dd3/a27947.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "d5/dd3/a27947.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "d5/dd3/a27947.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "d5/dd3/a27947.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "go_pirate_day_musicAI", "d2/d7a/a27951.html", "d2/d7a/a27951" ],
+    [ "go_pirate_day_music", "d5/dd3/a27947.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "d5/dd3/a27947.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

@@ -1,6 +1,6 @@
 var a27879 =
 [
-    [ "npc_steam_tonkAI", "d6/d5e/a27883.html", "d6/d5e/a27883" ],
-    [ "npc_steam_tonk", "d0/dc4/a27879.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d0/dc4/a27879.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "go_witherbark_totem_bundleAI", "d0/dc4/a27879.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "d0/dc4/a27879.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "d0/dc4/a27879.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

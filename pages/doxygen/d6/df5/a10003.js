@@ -1,9 +1,15 @@
 var a10003 =
 [
-    [ "ChaseAngle", "d6/df5/a10003.html#a0744c615f437514a52b5a26fb717013a", null ],
-    [ "IsAngleOkay", "d6/df5/a10003.html#aec86c653850655b723e5224ea20b0e21", null ],
-    [ "LowerBound", "d6/df5/a10003.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
-    [ "UpperBound", "d6/df5/a10003.html#a275d01ce57b23d42d4150b10c8433dee", null ],
-    [ "RelativeAngle", "d6/df5/a10003.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
-    [ "Tolerance", "d6/df5/a10003.html#a2bb42885da594380cb742c29b6518ea3", null ]
+    [ "MailSender", "d6/df5/a10003.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
+    [ "MailSender", "d6/df5/a10003.html#a735cfef6950357644d6965978dde0309", null ],
+    [ "MailSender", "d6/df5/a10003.html#a145000f5ef63627ee26a5699846e06cf", null ],
+    [ "MailSender", "d6/df5/a10003.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
+    [ "MailSender", "d6/df5/a10003.html#a7d5a5e40aa20de720f310b739f159225", null ],
+    [ "MailSender", "d6/df5/a10003.html#a12c87bb414a3e8889c95091f3b51716b", null ],
+    [ "GetMailMessageType", "d6/df5/a10003.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
+    [ "GetSenderId", "d6/df5/a10003.html#a03145c3fdc5bbabc64019e63e121132b", null ],
+    [ "GetStationery", "d6/df5/a10003.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
+    [ "m_messageType", "d6/df5/a10003.html#a45a312eda342d2197f15d73b47d7787b", null ],
+    [ "m_senderId", "d6/df5/a10003.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
+    [ "m_stationery", "d6/df5/a10003.html#a1bbced35b4600f9a45a421d28a33393b", null ]
 ];

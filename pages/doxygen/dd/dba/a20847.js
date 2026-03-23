@@ -1,6 +1,8 @@
 var a20847 =
 [
-    [ "boss_thorim_pillarAI", "d4/d7c/a20851.html", "d4/d7c/a20851" ],
-    [ "boss_thorim_pillar", "dd/dba/a20847.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
-    [ "GetAI", "dd/dba/a20847.html#af95d5e819292af9b54a022674b74af70", null ]
+    [ "CheckProc", "dd/dba/a20847.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
+    [ "HandleProc", "dd/dba/a20847.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
+    [ "PrepareAuraScript", "dd/dba/a20847.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
+    [ "Register", "dd/dba/a20847.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
+    [ "Validate", "dd/dba/a20847.html#ad4176f188412053b9205820fb6183d38", null ]
 ];

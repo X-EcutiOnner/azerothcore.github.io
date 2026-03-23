@@ -1,5 +1,9 @@
 var a22731 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d9/d64/a22731.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "d9/d64/a22731.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "boss_najentus", "d9/d64/a22731.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d9/d64/a22731.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d9/d64/a22731.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d9/d64/a22731.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d9/d64/a22731.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "d9/d64/a22731.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

@@ -1,6 +1,5 @@
 var a25491 =
 [
-    [ "CheckRequirement", "d4/d54/a25491.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
-    [ "PrepareSpellScript", "d4/d54/a25491.html#aebb88f5ea803a590a099e4e6427d8276", null ],
-    [ "Register", "d4/d54/a25491.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
+    [ "PrepareSpellScript", "d4/d54/a25491.html#a9137654c01f41c735f477b85e4ec6d73", null ],
+    [ "Register", "d4/d54/a25491.html#af1002e90bc0801c0759393d2d4af8778", null ]
 ];

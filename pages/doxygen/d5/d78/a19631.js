@@ -1,6 +1,7 @@
 var a19631 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d0/d26/a19635.html", "d0/d26/a19635" ],
-    [ "npc_oculus_unstable_sphere", "d5/d78/a19631.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "d5/d78/a19631.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "Apply", "d5/d78/a19631.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "d5/d78/a19631.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "d5/d78/a19631.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "d5/d78/a19631.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

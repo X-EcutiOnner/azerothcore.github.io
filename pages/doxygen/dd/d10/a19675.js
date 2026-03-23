@@ -1,10 +1,7 @@
 var a19675 =
 [
-    [ "npc_oculus_drakegiverAI", "dd/d10/a19675.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "dd/d10/a19675.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "dd/d10/a19675.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "dd/d10/a19675.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "dd/d10/a19675.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "dd/d10/a19675.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "dd/d10/a19675.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "HandleOnEffectApply", "dd/d10/a19675.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "dd/d10/a19675.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "dd/d10/a19675.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "dd/d10/a19675.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

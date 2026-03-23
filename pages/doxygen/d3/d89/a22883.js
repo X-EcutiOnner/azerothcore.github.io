@@ -1,8 +1,6 @@
 var a22883 =
 [
-    [ "FilterTargets", "d3/d89/a22883.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "d3/d89/a22883.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "d3/d89/a22883.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "d3/d89/a22883.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "d3/d89/a22883.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "HandleScriptEffect", "d3/d89/a22883.html#a62ed9bff154c5aab74e044f8f9982263", null ],
+    [ "PrepareSpellScript", "d3/d89/a22883.html#a0e87265cf22ef8b4e302b8e216123395", null ],
+    [ "Register", "d3/d89/a22883.html#a0d722447d91991462245e8b392d20e10", null ]
 ];

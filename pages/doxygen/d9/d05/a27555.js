@@ -1,6 +1,8 @@
 var a27555 =
 [
-    [ "go_midsummer_musicAI", "d9/d05/a27555.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "d9/d05/a27555.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "d9/d05/a27555.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "CheckProc", "d9/d05/a27555.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
+    [ "OnProc", "d9/d05/a27555.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
+    [ "PrepareAuraScript", "d9/d05/a27555.html#a8bf573bb900773d4669708536b0b8011", null ],
+    [ "Register", "d9/d05/a27555.html#ae8ddcb6329088f904cbae3292ff92023", null ],
+    [ "Validate", "d9/d05/a27555.html#a918c9334b7f20710c0d6448a33c94601", null ]
 ];

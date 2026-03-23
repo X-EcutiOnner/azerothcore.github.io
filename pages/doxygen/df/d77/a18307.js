@@ -1,6 +1,9 @@
 var a18307 =
 [
-    [ "UnchainedMagicTargetSelector", "df/d77/a18307.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "df/d77/a18307.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "df/d77/a18307.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "FilterTargets", "df/d77/a18307.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "df/d77/a18307.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "df/d77/a18307.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "df/d77/a18307.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "df/d77/a18307.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "df/d77/a18307.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

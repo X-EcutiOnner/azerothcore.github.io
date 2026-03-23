@@ -1,6 +1,7 @@
 var a25067 =
 [
-    [ "CheckProc", "d9/dc9/a25067.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
-    [ "PrepareAuraScript", "d9/dc9/a25067.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
-    [ "Register", "d9/dc9/a25067.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
+    [ "HandleEffectApply", "d9/dc9/a25067.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
+    [ "OnRemove", "d9/dc9/a25067.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
+    [ "PrepareAuraScript", "d9/dc9/a25067.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
+    [ "Register", "d9/dc9/a25067.html#a473189971d0a03e7305b7b9e41dc5207", null ]
 ];

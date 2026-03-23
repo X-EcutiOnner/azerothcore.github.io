@@ -1,8 +1,5 @@
 var a12559 =
 [
-    [ "FilterTargets", "d8/dfc/a12559.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
-    [ "FilterTargetsEff", "d8/dfc/a12559.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
-    [ "PrepareSpellScript", "d8/dfc/a12559.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
-    [ "Register", "d8/dfc/a12559.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
-    [ "targetList", "d8/dfc/a12559.html#a874dc7877ecfae332c9f826f01afce0f", null ]
+    [ "at_the_beast_room", "d8/dfc/a12559.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
+    [ "OnTrigger", "d8/dfc/a12559.html#a366c5e35c4030f998404886f1526ae37", null ]
 ];

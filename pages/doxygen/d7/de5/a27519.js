@@ -1,6 +1,8 @@
 var a27519 =
 [
-    [ "go_l70_etc_musicAI", "d7/d91/a27523.html", "d7/d91/a27523" ],
-    [ "go_l70_etc_music", "d7/de5/a27519.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "d7/de5/a27519.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "CalculateBuffer", "d7/de5/a27519.html#a3fa1917fc77575531e485cd0228bcc00", null ],
+    [ "HandleProc", "d7/de5/a27519.html#a35edcf5f57dee1bbb63321cd67b200db", null ],
+    [ "PrepareAuraScript", "d7/de5/a27519.html#a325ad66cd69a15260e274562250c8e32", null ],
+    [ "Register", "d7/de5/a27519.html#a2d107c9db0b3b1859cb284b741a77ef8", null ],
+    [ "Validate", "d7/de5/a27519.html#ae7de3e43a47e6b35d0dead23ac51325e", null ]
 ];

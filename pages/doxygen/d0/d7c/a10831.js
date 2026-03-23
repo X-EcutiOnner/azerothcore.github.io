@@ -1,7 +1,5 @@
 var a10831 =
 [
-    [ "GuildBankTextQueryResult", "d0/d7c/a10831.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "d0/d7c/a10831.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "d0/d7c/a10831.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "d0/d7c/a10831.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "LogoutCancelAck", "d0/d7c/a10831.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "d0/d7c/a10831.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

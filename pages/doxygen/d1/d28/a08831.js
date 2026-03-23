@@ -1,7 +1,10 @@
 var a08831 =
 [
-    [ "HealthPctOrderPred", "d1/d28/a08831.html#a5c83c0ba35b9febbe6a62dae63995f97", null ],
-    [ "operator()", "d1/d28/a08831.html#a2c7f4043e5268b13bf0d9f46e9709a9b", null ],
-    [ "operator()", "d1/d28/a08831.html#a23f2dc594fd531d02cd6eae0faa7f6b7", null ],
-    [ "_ascending", "d1/d28/a08831.html#a4c34feefafc014b50ba2869a9bdb9959", null ]
+    [ "PvPInfo", "d1/d28/a08831.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "d1/d28/a08831.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "d1/d28/a08831.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "d1/d28/a08831.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "d1/d28/a08831.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "d1/d28/a08831.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "d1/d28/a08831.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

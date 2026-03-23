@@ -1,8 +1,6 @@
 var a23959 =
 [
-    [ "boss_commander_sarannis", "dd/d92/a23959.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "dd/d92/a23959.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "dd/d92/a23959.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "dd/d92/a23959.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "dd/d92/a23959.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d2/d53/a23963.html", "d2/d53/a23963" ],
+    [ "npc_shadowmoon_tuber_node", "dd/d92/a23959.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "dd/d92/a23959.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

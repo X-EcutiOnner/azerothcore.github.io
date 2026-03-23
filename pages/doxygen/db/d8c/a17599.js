@@ -1,6 +1,6 @@
 var a17599 =
 [
-    [ "OnAbsorb", "db/d8c/a17599.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "db/d8c/a17599.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "db/d8c/a17599.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "BloodboltHitCheck", "db/d8c/a17599.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "db/d8c/a17599.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "db/d8c/a17599.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

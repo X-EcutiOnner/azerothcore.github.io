@@ -1,6 +1,6 @@
 var a22887 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d8/d51/a22891.html", "d8/d51/a22891" ],
-    [ "instance_sethekk_halls", "de/dea/a22887.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "de/dea/a22887.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "HandleScriptEffect", "de/dea/a22887.html#a766edc5924124c869b04ec82cd2bc693", null ],
+    [ "PrepareSpellScript", "de/dea/a22887.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
+    [ "Register", "de/dea/a22887.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
 ];

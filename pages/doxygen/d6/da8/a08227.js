@@ -1,13 +1,8 @@
 var a08227 =
 [
-    [ "AnimationInfo", "d6/da8/a08227.html#aa443028e95ae416e09f1acfef0575803", null ],
-    [ "Building", "d6/da8/a08227.html#a77ff98e13c5152e74701c236bbd9439a", null ],
-    [ "CapturePoint", "d6/da8/a08227.html#a6d1cf65fb52fa2dd983b0e768ba6a533", null ],
-    [ "FishingHole", "d6/da8/a08227.html#a9f5207745bfdc5d0fcdd09fe2429ac95", null ],
-    [ "Health", "d6/da8/a08227.html#af70b72663064c9c4b88c93a824f1e14b", null ],
-    [ "MaxHealth", "d6/da8/a08227.html#ab606f11596c1dd3d1cf7588346338721", null ],
-    [ "MaxOpens", "d6/da8/a08227.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
-    [ "OPvPObj", "d6/da8/a08227.html#a565624b690fa7fabf21b175548765652", null ],
-    [ "PathProgress", "d6/da8/a08227.html#a9e07a147b2be08a78f052e0cdb817111", null ],
-    [ "Transport", "d6/da8/a08227.html#aba7d64e566577c0b9ea05c0bed5d4fa8", null ]
+    [ "cancelTime", "d6/da8/a08227.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
+    [ "inProgress", "d6/da8/a08227.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
+    [ "reason", "d6/da8/a08227.html#a279a5575ca0956266ae81b7a165874cf", null ],
+    [ "victim", "d6/da8/a08227.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
+    [ "votes", "d6/da8/a08227.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
 ];

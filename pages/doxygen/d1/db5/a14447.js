@@ -1,6 +1,17 @@
 var a14447 =
 [
-    [ "HandleEffectRemove", "d1/db5/a14447.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "d1/db5/a14447.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "d1/db5/a14447.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "instance_zulgurub_InstanceMapScript", "d1/db5/a14447.html#aacbb3bb0d212ffafae475c74790d9c63", null ],
+    [ "GetData", "d1/db5/a14447.html#ae8c0fa463d3e5b5dafb7b14b5d32a4b1", null ],
+    [ "GetGuidData", "d1/db5/a14447.html#a0da827e64e90a1f97b75038621a195ff", null ],
+    [ "OnCreatureCreate", "d1/db5/a14447.html#a951c6f5e1dc460cd820fba49add52898", null ],
+    [ "OnGameObjectCreate", "d1/db5/a14447.html#a7649a9bcdfafd3c8d7001555e60910af", null ],
+    [ "RemoveHakkarPowerStack", "d1/db5/a14447.html#a0234565dc9c87e32bcd0a7f19e2336b6", null ],
+    [ "SetBossState", "d1/db5/a14447.html#aaf5d69e4993591e0f936e2109df1fb07", null ],
+    [ "_arlokkGUID", "d1/db5/a14447.html#a92d30a8e0691e5bc6a58ff26cc06df36", null ],
+    [ "_edgeOfMadnessGUID", "d1/db5/a14447.html#aa7bbbb942592651857f933503da0e808", null ],
+    [ "_gahzrankaGUID", "d1/db5/a14447.html#af0e854382a2316363c50d60f03095097", null ],
+    [ "_goGongOfBethekkGUID", "d1/db5/a14447.html#a1f33ff891c8289a49dd2b979a064c323", null ],
+    [ "_hakkarGUID", "d1/db5/a14447.html#aeca34a55f3c378311ae1b46313cf22de", null ],
+    [ "_jindoTheHexxerGUID", "d1/db5/a14447.html#a48ec95fa51ddf50aa0249a3798bbc898", null ],
+    [ "_vilebranchSpeakerGUID", "d1/db5/a14447.html#a07cff6b252eb9b08855bc8bd7e5d7735", null ]
 ];

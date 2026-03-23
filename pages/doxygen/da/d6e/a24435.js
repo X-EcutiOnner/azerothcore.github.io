@@ -1,6 +1,7 @@
 var a24435 =
 [
-    [ "npc_torloth_the_magnificentAI", "dc/dc9/a24439.html", "dc/dc9/a24439" ],
-    [ "npc_torloth_the_magnificent", "da/d6e/a24435.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
-    [ "GetAI", "da/d6e/a24435.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
+    [ "HandleProc", "da/d6e/a24435.html#af3169e55f8dea7f0efffd11fbe8e06fe", null ],
+    [ "PrepareAuraScript", "da/d6e/a24435.html#abe4d50c9839defc99ca9806cd9d5445f", null ],
+    [ "Register", "da/d6e/a24435.html#a2eb1b84ad1af2437e298255b0499b03d", null ],
+    [ "Validate", "da/d6e/a24435.html#ae8fa6922908b4204e16a81b739d01fb1", null ]
 ];

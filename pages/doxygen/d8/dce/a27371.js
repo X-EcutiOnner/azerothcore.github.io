@@ -1,5 +1,6 @@
 var a27371 =
 [
-    [ "AreaTrigger_at_nats_landing", "d8/dce/a27371.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
-    [ "OnTrigger", "d8/dce/a27371.html#a67434f74300fa3463e679afb7d344467", null ]
+    [ "HandleSchoolDMG", "d8/dce/a27371.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "d8/dce/a27371.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "d8/dce/a27371.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

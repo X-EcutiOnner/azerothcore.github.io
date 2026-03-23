@@ -1,7 +1,6 @@
 var a27123 =
 [
-    [ "HandleRemove", "dc/d18/a27123.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "dc/d18/a27123.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "dc/d18/a27123.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "dc/d18/a27123.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "CheckProc", "dc/d18/a27123.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
+    [ "PrepareAuraScript", "dc/d18/a27123.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
+    [ "Register", "dc/d18/a27123.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
 ];

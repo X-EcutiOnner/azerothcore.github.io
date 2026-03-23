@@ -1,6 +1,7 @@
 var a25103 =
 [
-    [ "CheckAreaTarget", "d9/d13/a25103.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "d9/d13/a25103.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "d9/d13/a25103.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "CalculateAmount", "d9/d13/a25103.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "d9/d13/a25103.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "d9/d13/a25103.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "d9/d13/a25103.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

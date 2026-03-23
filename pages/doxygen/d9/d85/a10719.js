@@ -1,5 +1,6 @@
 var a10719 =
 [
-    [ "Flags", "d9/d85/a10719.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
-    [ "WithdrawItemLimit", "d9/d85/a10719.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
+    [ "WorldMapScript", "d9/d85/a10719.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
+    [ "checkValidity", "d9/d85/a10719.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "d9/d85/a10719.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

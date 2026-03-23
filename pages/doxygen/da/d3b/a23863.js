@@ -1,6 +1,6 @@
 var a23863 =
 [
-    [ "HandleEffect", "da/d3b/a23863.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
-    [ "PrepareSpellScript", "da/d3b/a23863.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
-    [ "Register", "da/d3b/a23863.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
+    [ "npc_invis_infernal_casterAI", "d2/db0/a23867.html", "d2/db0/a23867" ],
+    [ "npc_invis_infernal_caster", "da/d3b/a23863.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "da/d3b/a23863.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

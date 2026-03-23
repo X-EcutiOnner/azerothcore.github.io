@@ -1,6 +1,6 @@
 var a16475 =
 [
-    [ "boss_eadricAI", "d9/d5c/a16479.html", "d9/d5c/a16479" ],
-    [ "boss_eadric", "d1/da0/a16475.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
-    [ "GetAI", "d1/da0/a16475.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
+    [ "npc_living_infernoAI", "d1/da0/a16475.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d1/da0/a16475.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d1/da0/a16475.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

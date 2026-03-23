@@ -1,4 +1,4 @@
 var a00497 =
 [
-    [ "GUARD_RETURN", "d4/d1e/a00497.html#a545bfab3f5e5f49c7d68774189728da8", null ]
+    [ "LockedQueue< T, StorageType >", "d2/da1/a05647.html", "d2/da1/a05647" ]
 ];

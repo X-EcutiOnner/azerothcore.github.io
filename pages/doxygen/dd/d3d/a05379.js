@@ -1,8 +1,9 @@
 var a05379 =
 [
-    [ "Decode", "dd/d3d/a05379.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
-    [ "Encode", "dd/d3d/a05379.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
-    [ "BITS_PER_CHAR", "dd/d3d/a05379.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
-    [ "DECODE_ERROR", "dd/d3d/a05379.html#ace6b211be8a36043942f0a1aaee063b1", null ],
-    [ "PADDING", "dd/d3d/a05379.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
+    [ "criticalOptionSeverity", "dd/d3d/a05379.html#adfaae562c345965b96fa5f7c92da161e", null ],
+    [ "defaultSeverity", "dd/d3d/a05379.html#a4d490930b6bbaa9c50570ff9808b1af9", null ],
+    [ "missingFileSeverity", "dd/d3d/a05379.html#a8cd5da53d2cd0b5d0533741a2dcf651c", null ],
+    [ "missingOptionSeverity", "dd/d3d/a05379.html#a3c64d5a1ac04533f27af53de8d688ec5", null ],
+    [ "unknownOptionSeverity", "dd/d3d/a05379.html#ad41070de3cb2c7fa2916654b9e2a693e", null ],
+    [ "valueErrorSeverity", "dd/d3d/a05379.html#a2c1a05a826289e1cc3f01a988718dda2", null ]
 ];

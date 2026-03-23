@@ -1,10 +1,12 @@
 var a07607 =
 [
-    [ "InvokerEntry", "d2/d08/a07607.html#aa195cc806a02e56a8125bfc039b83c37", null ],
-    [ "InvokerEntry", "d2/d08/a07607.html#ab0ae915bcd0b6cb738f66398ba06bd63", null ],
-    [ "InvokerEntry", "d2/d08/a07607.html#ae0b19dcb745635a783d52bae6f237b47", null ],
-    [ "operator*", "d2/d08/a07607.html#ae42d24aad13fe622f6d5ec35d72c1c96", null ],
-    [ "_help", "d2/d08/a07607.html#a107ccda1e3b21600fd133a243a8d2c9c", null ],
-    [ "_invoker", "d2/d08/a07607.html#a1f9da7b4e2a968b1cf51b227c79f0d1d", null ],
-    [ "_permissions", "d2/d08/a07607.html#a9567278ccb4896bcb2e8293df0ab909f", null ]
+    [ "BGQueueRemoveEvent", "d2/d08/a07607.html#ab751b728f64b2928eefb21f756539d81", null ],
+    [ "~BGQueueRemoveEvent", "d2/d08/a07607.html#aab9ea24041888975439aafb246c571c3", null ],
+    [ "Abort", "d2/d08/a07607.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
+    [ "Execute", "d2/d08/a07607.html#a42482ff784da4b23b568888a74a0b531", null ],
+    [ "m_BgInstanceGUID", "d2/d08/a07607.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
+    [ "m_BgQueueTypeId", "d2/d08/a07607.html#ac059a823ae49bd0250eec15845bf153b", null ],
+    [ "m_BgTypeId", "d2/d08/a07607.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
+    [ "m_PlayerGuid", "d2/d08/a07607.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
+    [ "m_RemoveTime", "d2/d08/a07607.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
 ];

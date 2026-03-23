@@ -1,6 +1,5 @@
 var a20335 =
 [
-    [ "npc_ulduar_saronite_animusAI", "d8/dc2/a20339.html", "d8/dc2/a20339" ],
-    [ "npc_ulduar_saronite_animus", "db/d51/a20335.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
-    [ "GetAI", "db/d51/a20335.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
+    [ "achievement_kologarn_with_open_arms", "db/d51/a20335.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "db/d51/a20335.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

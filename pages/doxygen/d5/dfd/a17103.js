@@ -1,7 +1,13 @@
 var a17103 =
 [
-    [ "OnRemove", "d5/dfd/a17103.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "d5/dfd/a17103.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "d5/dfd/a17103.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "d5/dfd/a17103.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d5/dfd/a17103.html#ae39e116a01c17592037e12185a03201a", null ],
+    [ "CheckAchievementCriteriaMeet", "d5/dfd/a17103.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
+    [ "HandleOutro", "d5/dfd/a17103.html#aadf4a99e89f354901ff63c600725b07f", null ],
+    [ "OnCreatureCreate", "d5/dfd/a17103.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
+    [ "OnPlayerEnter", "d5/dfd/a17103.html#aac223f0ae25071d3323052c52c887636", null ],
+    [ "SetBossState", "d5/dfd/a17103.html#a76241f1358b8e6c7660f76c98e1556e7", null ],
+    [ "GuardFirstGUID", "d5/dfd/a17103.html#ae2e33eee94f285b9d4c2c747dec52714", null ],
+    [ "GuardSecondGUID", "d5/dfd/a17103.html#a68c2495f80ac2b53c8f46c857472709c", null ],
+    [ "LeaderFirstGUID", "d5/dfd/a17103.html#acaa05485af70315b1d091e5c9bbb7217", null ],
+    [ "LeaderSecondGUID", "d5/dfd/a17103.html#a165f784f54e178b51ac899aff6f12747", null ]
 ];

@@ -1,12 +1,6 @@
 var a20955 =
 [
-    [ "npc_xt002_boombotAI", "db/df7/a20955.html#a9be3f9270a828946e2934aea24aa5549", null ],
-    [ "DamageTaken", "db/df7/a20955.html#ad581fd228701d851c8d3bf0f3a1f854c", null ],
-    [ "Explode", "db/df7/a20955.html#afe8c0408887b8cd0cb533475c221035b", null ],
-    [ "JustDied", "db/df7/a20955.html#ad6d240b16aa8f7f297b1ad0982a8827e", null ],
-    [ "MovementInform", "db/df7/a20955.html#a2cb53c683de44347b0448d8a1611300e", null ],
-    [ "Reset", "db/df7/a20955.html#a5d4f4a4c6c098f440064caa37438a7ed", null ],
-    [ "UpdateAI", "db/df7/a20955.html#a2bebdd97339b3b545331a494a51246eb", null ],
-    [ "_boomed", "db/df7/a20955.html#acd75eb57db0043fbae633a2f63924c05", null ],
-    [ "_locked", "db/df7/a20955.html#ada468c62b133ec1a9c043eec1c52c0d1", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "d6/d4a/a20959.html", "d6/d4a/a20959" ],
+    [ "instance_utgarde_pinnacle", "db/df7/a20955.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "db/df7/a20955.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

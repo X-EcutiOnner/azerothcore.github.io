@@ -1,6 +1,8 @@
 var a18367 =
 [
-    [ "npc_spinestalkerAI", "d3/dad/a18371.html", "d3/dad/a18371" ],
-    [ "npc_spinestalker", "df/d69/a18367.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "df/d69/a18367.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "FilterTargets", "df/d69/a18367.html#a14e392760361b95578bc95de10cdd8aa", null ],
+    [ "HandleForcedCast", "df/d69/a18367.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
+    [ "PrepareSpellScript", "df/d69/a18367.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
+    [ "Register", "df/d69/a18367.html#ac2105e66f692c6a991ac9190b1901505", null ],
+    [ "Validate", "df/d69/a18367.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
 ];

@@ -1,8 +1,9 @@
 var a12307 =
 [
-    [ "boss_highlordomokkAI", "d0/d0c/a12307.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
-    [ "JustDied", "d0/d0c/a12307.html#ac7e125b4350880d3d195b915c8be9de0", null ],
-    [ "JustEngagedWith", "d0/d0c/a12307.html#a072dc582f931deb7d1e0db9ad535f146", null ],
-    [ "Reset", "d0/d0c/a12307.html#a627390013798de7a53a95817624417e3", null ],
-    [ "UpdateAI", "d0/d0c/a12307.html#a38e6008d616131d2876ae5a085a083ff", null ]
+    [ "send_commandscript", "d0/d0c/a12307.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
+    [ "GetCommands", "d0/d0c/a12307.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
+    [ "HandleSendItemsCommand", "d0/d0c/a12307.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
+    [ "HandleSendMailCommand", "d0/d0c/a12307.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
+    [ "HandleSendMessageCommand", "d0/d0c/a12307.html#a91017e6171ac9e4dfff6c2036228de47", null ],
+    [ "HandleSendMoneyCommand", "d0/d0c/a12307.html#a26938bb54bb3cb678c49737a92cadb56", null ]
 ];

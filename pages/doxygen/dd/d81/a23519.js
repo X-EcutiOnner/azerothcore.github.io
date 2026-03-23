@@ -1,7 +1,11 @@
 var a23519 =
 [
-    [ "npc_ahune_ice_spear_bunny", "dd/d81/a23519.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
-    [ "InitializeAI", "dd/d81/a23519.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
-    [ "UpdateAI", "dd/d81/a23519.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
-    [ "_scheduler", "dd/d81/a23519.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
+    [ "boss_high_astromancer_solarian", "dd/d81/a23519.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "dd/d81/a23519.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "dd/d81/a23519.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "dd/d81/a23519.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "dd/d81/a23519.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "dd/d81/a23519.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "dd/d81/a23519.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "dd/d81/a23519.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

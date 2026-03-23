@@ -1,8 +1,8 @@
 var a15719 =
 [
-    [ "FilterTargets", "d5/d10/a15719.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "d5/d10/a15719.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "d5/d10/a15719.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "d5/d10/a15719.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "d5/d10/a15719.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_aged_dying_ancient_kodo", "d5/d10/a15719.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
+    [ "JustRespawned", "d5/d10/a15719.html#ab401f9002bd49b26cc0526112e715d1e", null ],
+    [ "MoveInLineOfSight", "d5/d10/a15719.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
+    [ "sGossipHello", "d5/d10/a15719.html#a8bd41050426cdee7da37d1370e5a7363", null ],
+    [ "SpellHit", "d5/d10/a15719.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
 ];

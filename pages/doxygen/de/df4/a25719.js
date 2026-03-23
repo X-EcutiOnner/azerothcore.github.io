@@ -1,8 +1,7 @@
 var a25719 =
 [
-    [ "OnApply", "de/df4/a25719.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
-    [ "OnRemove", "de/df4/a25719.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
-    [ "PrepareAuraScript", "de/df4/a25719.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
-    [ "Register", "de/df4/a25719.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
-    [ "Validate", "de/df4/a25719.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
+    [ "HandleDummy", "de/df4/a25719.html#ae1f9429b4e5b8965c65f246e03efbaf0", null ],
+    [ "PrepareSpellScript", "de/df4/a25719.html#abde4e8528f1af9a595fb32741e397397", null ],
+    [ "Register", "de/df4/a25719.html#a3f10fa7accb675d36560ef5bb6ccb84e", null ],
+    [ "Validate", "de/df4/a25719.html#af1658e856195d22042de5beab1eec212", null ]
 ];

@@ -1,18 +1,9 @@
 var a28235 =
 [
-    [ "getArmorMod", "da/d63/a28235.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
-    [ "getDPSMod", "da/d63/a28235.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
-    [ "getFeralBonus", "da/d63/a28235.html#aa54c3d1add4a1b982c05138f876fd138", null ],
-    [ "getSpellBonus", "da/d63/a28235.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
-    [ "getssdMultiplier", "da/d63/a28235.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
-    [ "IsTwoHand", "da/d63/a28235.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
-    [ "armorMod", "da/d63/a28235.html#a742f8447dca5961fb39e50de8233fa86", null ],
-    [ "armorMod2", "da/d63/a28235.html#a36dba32ea7febb8dab627fa992de878b", null ],
-    [ "dpsMod", "da/d63/a28235.html#ace956cab0056bcf0e116ac0884ad3575", null ],
-    [ "Id", "da/d63/a28235.html#aebc75b8f80cb210b6af081077bd88e85", null ],
-    [ "Level", "da/d63/a28235.html#a5758f5152401efde26edf3110c0d11e2", null ],
-    [ "spellPower", "da/d63/a28235.html#a03804cca02fd1146dffb762bcd1274f8", null ],
-    [ "ssdMultiplier", "da/d63/a28235.html#a7559b9045268d8050372153c8c976946", null ],
-    [ "ssdMultiplier2", "da/d63/a28235.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
-    [ "ssdMultiplier3", "da/d63/a28235.html#ae78f00d5ed42704a4093b5df939498d7", null ]
+    [ "npc_chicken_cluckAI", "da/d63/a28235.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
+    [ "JustEngagedWith", "da/d63/a28235.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
+    [ "ReceiveEmote", "da/d63/a28235.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
+    [ "Reset", "da/d63/a28235.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
+    [ "UpdateAI", "da/d63/a28235.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
+    [ "ResetFlagTimer", "da/d63/a28235.html#a0d0507ae7a1eca369df288515856e1b5", null ]
 ];

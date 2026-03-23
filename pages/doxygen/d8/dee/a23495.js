@@ -1,10 +1,10 @@
 var a23495 =
 [
-    [ "Spells", "d8/dee/a23495.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "d8/dee/a23495.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "d8/dee/a23495.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "d8/dee/a23495.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "d8/dee/a23495.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "d8/dee/a23495.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "CheckProc", "d8/dee/a23495.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d8/dee/a23495.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d8/dee/a23495.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d8/dee/a23495.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d8/dee/a23495.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d8/dee/a23495.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d8/dee/a23495.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

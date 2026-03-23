@@ -1,8 +1,8 @@
 var a09727 =
 [
-    [ "BossInfo", "d9/d9c/a09727.html#a455f533d647927d182176c3cceb21f42", null ],
-    [ "boundary", "d9/d9c/a09727.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
-    [ "door", "d9/d9c/a09727.html#a858af8825ed4fe183ee19b6f10239304", null ],
-    [ "minion", "d9/d9c/a09727.html#abec1469d41f286d02c34223171373cd3", null ],
-    [ "state", "d9/d9c/a09727.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
+    [ "MostHPMissingGroupInRange", "d9/d9c/a09727.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
+    [ "operator()", "d9/d9c/a09727.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
+    [ "i_hp", "d9/d9c/a09727.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
+    [ "i_obj", "d9/d9c/a09727.html#ae0d85f9738301b40c3e950b02ee20026", null ],
+    [ "i_range", "d9/d9c/a09727.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
 ];

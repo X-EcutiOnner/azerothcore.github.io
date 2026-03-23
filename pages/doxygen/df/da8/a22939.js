@@ -1,12 +1,9 @@
 var a22939 =
 [
-    [ "boss_gurtogg_bloodboil", "df/da8/a22939.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "df/da8/a22939.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "df/da8/a22939.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "df/da8/a22939.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "df/da8/a22939.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "df/da8/a22939.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "df/da8/a22939.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "df/da8/a22939.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "df/da8/a22939.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "CalcPeriodic", "df/da8/a22939.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
+    [ "HandleEffectApply", "df/da8/a22939.html#adb983cc531fa666648bbdb432684ff1d", null ],
+    [ "HandleEffectRemove", "df/da8/a22939.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
+    [ "OnPeriodic", "df/da8/a22939.html#aecefab535157dbe8e42aff3b23cd685b", null ],
+    [ "PrepareAuraScript", "df/da8/a22939.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
+    [ "Register", "df/da8/a22939.html#a3771abcc829883ba0cbae9587adbe751", null ]
 ];

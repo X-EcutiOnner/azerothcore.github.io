@@ -1,10 +1,13 @@
 var a09799 =
 [
-    [ "MailReceiver", "d6/da5/a09799.html#a6fba3ff0ab3167197f569631d766ce14", null ],
-    [ "MailReceiver", "d6/da5/a09799.html#af0b094a704463ed76b1c08bc3cab0380", null ],
-    [ "MailReceiver", "d6/da5/a09799.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
-    [ "GetPlayer", "d6/da5/a09799.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
-    [ "GetPlayerGUIDLow", "d6/da5/a09799.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
-    [ "m_receiver", "d6/da5/a09799.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
-    [ "m_receiver_lowguid", "d6/da5/a09799.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
+    [ "GroupReference", "d6/da5/a09799.html#ab1a008e85d413c67696d4d568a98bde7", null ],
+    [ "~GroupReference", "d6/da5/a09799.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
+    [ "getSubGroup", "d6/da5/a09799.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
+    [ "next", "d6/da5/a09799.html#a6f8f406f1209dd7060904d40f5424b41", null ],
+    [ "next", "d6/da5/a09799.html#ac913ec0703c28cda068375d01c9cd72d", null ],
+    [ "setSubGroup", "d6/da5/a09799.html#a303caf55ea463398237e6a825f30b143", null ],
+    [ "sourceObjectDestroyLink", "d6/da5/a09799.html#a458157654c27def9b36b68ae099ca7b3", null ],
+    [ "targetObjectBuildLink", "d6/da5/a09799.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
+    [ "targetObjectDestroyLink", "d6/da5/a09799.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
+    [ "iSubGroup", "d6/da5/a09799.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
 ];

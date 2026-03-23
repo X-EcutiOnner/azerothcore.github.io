@@ -1,6 +1,11 @@
 var a18719 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d5/db7/a18723.html", "d5/db7/a18723" ],
-    [ "npc_green_dragon_combat_trigger", "d6/db3/a18719.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "d6/db3/a18719.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "npc_valithria_cloudAI", "d6/db3/a18719.html#a5b550d0154f302cecc509fbd868a53bb", null ],
+    [ "AttackStart", "d6/db3/a18719.html#a5835d5ba19e1480016e585c1e49489c9", null ],
+    [ "EnterEvadeMode", "d6/db3/a18719.html#a346fd998d41451d7d1e605afdb13b65c", null ],
+    [ "MoveInLineOfSight", "d6/db3/a18719.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
+    [ "Reset", "d6/db3/a18719.html#abca34d7285ef23c062006df8f8ae6d53", null ],
+    [ "UpdateAI", "d6/db3/a18719.html#a6908f5731915bf7d15bb4921c960aa30", null ],
+    [ "_events", "d6/db3/a18719.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
+    [ "_instance", "d6/db3/a18719.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
 ];

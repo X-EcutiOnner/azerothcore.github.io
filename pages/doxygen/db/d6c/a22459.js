@@ -1,6 +1,7 @@
 var a22459 =
 [
-    [ "npc_time_lost_proto_drakeAI", "db/d05/a22463.html", "db/d05/a22463" ],
-    [ "npc_time_lost_proto_drake", "db/d6c/a22459.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "db/d6c/a22459.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "npc_blade_of_azzinoth", "db/d6c/a22459.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "db/d6c/a22459.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "db/d6c/a22459.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "db/d6c/a22459.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

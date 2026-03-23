@@ -1,8 +1,8 @@
 var a26355 =
 [
-    [ "CalculateAmount", "d6/d83/a26355.html#a8751483423726ffa8a33c70b7e55db23", null ],
-    [ "CheckProc", "d6/d83/a26355.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
-    [ "HandleProc", "d6/d83/a26355.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
-    [ "PrepareAuraScript", "d6/d83/a26355.html#a6bb54cea419145875c4086a69e1e55e8", null ],
-    [ "Register", "d6/d83/a26355.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
+    [ "CheckProc", "d6/d83/a26355.html#a05580997d10960d8a8186c42b008894f", null ],
+    [ "OnRemove", "d6/d83/a26355.html#a55cc4caf383fa643dd9df6c335937063", null ],
+    [ "PrepareAuraScript", "d6/d83/a26355.html#a19bbc19f6a8f2e59903319eb56afacea", null ],
+    [ "Register", "d6/d83/a26355.html#a2caaa38b44038e58f1715deb2af1a7ec", null ],
+    [ "Validate", "d6/d83/a26355.html#a93fe3df6878e3edb540a70871dd98e7d", null ]
 ];

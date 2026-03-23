@@ -1,13 +1,12 @@
 var a24043 =
 [
-    [ "advisor_baseAI", "d8/d59/a24043.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
-    [ "DamageTaken", "d8/d59/a24043.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
-    [ "JustDied", "d8/d59/a24043.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
-    [ "JustEngagedWith", "d8/d59/a24043.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
-    [ "Reset", "d8/d59/a24043.html#a008c30414ecebf4e2996d06b81539255", null ],
-    [ "ScheduleEvents", "d8/d59/a24043.html#a24d22ccec834770bc5bcf44119fb0045", null ],
-    [ "SpellHit", "d8/d59/a24043.html#a4fc41f3985244b6baf25b3417f67054e", null ],
-    [ "UpdateAI", "d8/d59/a24043.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
-    [ "_feigning", "d8/d59/a24043.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
-    [ "_preventDeath", "d8/d59/a24043.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
+    [ "npc_unkor_the_ruthlessAI", "d8/d59/a24043.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "d8/d59/a24043.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "DoNice", "d8/d59/a24043.html#aa673fc892b9c0d59b2789271140e6054", null ],
+    [ "JustEngagedWith", "d8/d59/a24043.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "d8/d59/a24043.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "UpdateAI", "d8/d59/a24043.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "CanDoQuest", "d8/d59/a24043.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
+    [ "Pulverize_Timer", "d8/d59/a24043.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
+    [ "UnkorUnfriendly_Timer", "d8/d59/a24043.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
 ];

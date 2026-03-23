@@ -1,6 +1,6 @@
 var a27383 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "de/dd7/a27383.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "de/dd7/a27383.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "de/dd7/a27383.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "CheckCast", "de/dd7/a27383.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "de/dd7/a27383.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "de/dd7/a27383.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

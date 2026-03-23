@@ -1,4 +1,7 @@
 var a29475 =
 [
-    [ "gOpenArchives", "d1/d7c/a29475.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
+    [ "SetUp", "d1/d7c/a29475.html#a63d060f7643fc3d35eb4f0fd082f1af4", null ],
+    [ "TearDown", "d1/d7c/a29475.html#a685e2dbb620ab792ed3e952cf2b5dab8", null ],
+    [ "_originalWorld", "d1/d7c/a29475.html#aec7f3f7af8f936fb2419cee4be837eb7", null ],
+    [ "_worldMock", "d1/d7c/a29475.html#a2d10e74ba4f778b395a48eb68a586711", null ]
 ];

@@ -1,8 +1,7 @@
 var a11407 =
 [
-    [ "DirectionType", "d2/dd2/a11407.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "d2/dd2/a11407.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "d2/dd2/a11407.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "d2/dd2/a11407.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "d2/dd2/a11407.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "TimeQueryResponse", "d2/dd2/a11407.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
+    [ "Write", "d2/dd2/a11407.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
+    [ "ServerTime", "d2/dd2/a11407.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
+    [ "TimeResponse", "d2/dd2/a11407.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
 ];

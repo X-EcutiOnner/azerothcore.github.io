@@ -1,8 +1,9 @@
 var a22579 =
 [
-    [ "npc_wg_queueAI", "d7/dc7/a22583.html", "d7/dc7/a22583" ],
-    [ "npc_wg_queue", "dd/d7f/a22579.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "dd/d7f/a22579.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "dd/d7f/a22579.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "dd/d7f/a22579.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "boss_mother_shahraz", "dd/d7f/a22579.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "dd/d7f/a22579.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "dd/d7f/a22579.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "dd/d7f/a22579.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "dd/d7f/a22579.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "dd/d7f/a22579.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

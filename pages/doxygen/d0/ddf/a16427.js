@@ -1,6 +1,7 @@
 var a16427 =
 [
-    [ "OnSummon", "d0/ddf/a16427.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "d0/ddf/a16427.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "d0/ddf/a16427.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "HandleScriptEffect", "d0/ddf/a16427.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "d0/ddf/a16427.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "d0/ddf/a16427.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "d0/ddf/a16427.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

@@ -1,7 +1,6 @@
 var a25515 =
 [
-    [ "HandleDummy", "d8/d3c/a25515.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
-    [ "PrepareSpellScript", "d8/d3c/a25515.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
-    [ "Register", "d8/d3c/a25515.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
-    [ "Validate", "d8/d3c/a25515.html#ad4bb369ef46122cd45c38d876884d350", null ]
+    [ "HandlePreventAura", "d8/d3c/a25515.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
+    [ "PrepareSpellScript", "d8/d3c/a25515.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
+    [ "Register", "d8/d3c/a25515.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
 ];

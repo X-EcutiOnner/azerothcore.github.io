@@ -1,12 +1,9 @@
 var a12835 =
 [
-    [ "BoardCell", "d6/d9c/a12835.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
-    [ "Reset", "d6/d9c/a12835.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
-    [ "SetData", "d6/d9c/a12835.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
-    [ "SetPiece", "d6/d9c/a12835.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
-    [ "col", "d6/d9c/a12835.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
-    [ "pieceEntry", "d6/d9c/a12835.html#a7697506ccc800d38968e457c44bfa019", null ],
-    [ "pieceGUID", "d6/d9c/a12835.html#a74f494e406c56d4c61d79539acea684c", null ],
-    [ "row", "d6/d9c/a12835.html#a195c187e134be546f224cbb0eef8c844", null ],
-    [ "triggerGUID", "d6/d9c/a12835.html#a9cafdea50739b014a97e60611adcd3f1", null ]
+    [ "HandleEffectApply", "d6/d9c/a12835.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "d6/d9c/a12835.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "d6/d9c/a12835.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "d6/d9c/a12835.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "d6/d9c/a12835.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "d6/d9c/a12835.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

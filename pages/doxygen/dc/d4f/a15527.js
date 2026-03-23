@@ -1,8 +1,6 @@
 var a15527 =
 [
-    [ "npc_ahnqiraji_critter", "dc/d4f/a15527.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "dc/d4f/a15527.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "dc/d4f/a15527.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "dc/d4f/a15527.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "dc/d4f/a15527.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "HandleOnHit", "dc/d4f/a15527.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
+    [ "PrepareSpellScript", "dc/d4f/a15527.html#a9e568a1608715973fc438ff5e4356714", null ],
+    [ "Register", "dc/d4f/a15527.html#a752d697aada626440fdff2bd889f890f", null ]
 ];

@@ -1,7 +1,5 @@
 var a24811 =
 [
-    [ "CheckCast", "d0/d0a/a24811.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d0/d0a/a24811.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d0/d0a/a24811.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d0/d0a/a24811.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "PrepareSpellScript", "d0/d0a/a24811.html#a054677572d74a740f1c14715608f7b1b", null ],
+    [ "Register", "d0/d0a/a24811.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
 ];

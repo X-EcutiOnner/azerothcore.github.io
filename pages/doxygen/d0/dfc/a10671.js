@@ -1,6 +1,5 @@
 var a10671 =
 [
-    [ "GuildUpdateMotdText", "d0/dfc/a10671.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "d0/dfc/a10671.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "d0/dfc/a10671.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "MovementHandlerScript", "d0/dfc/a10671.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
+    [ "OnPlayerMove", "d0/dfc/a10671.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
 ];

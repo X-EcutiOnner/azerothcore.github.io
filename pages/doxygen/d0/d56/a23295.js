@@ -1,8 +1,6 @@
 var a23295 =
 [
-    [ "Absorb", "d0/d56/a23295.html#a1c054ce067a620e16611cbb9e784cee1", null ],
-    [ "CalculateAmount", "d0/d56/a23295.html#abd828dd3493339db9c0613e960792941", null ],
-    [ "PrepareAuraScript", "d0/d56/a23295.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
-    [ "Register", "d0/d56/a23295.html#a85840e7d27a7ed256c45de87f4486d45", null ],
-    [ "Update", "d0/d56/a23295.html#afbf28fd4eb66899a424e0b542d561656", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d5/d94/a23299.html", "d5/d94/a23299" ],
+    [ "instance_hellfire_ramparts", "d0/d56/a23295.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d0/d56/a23295.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

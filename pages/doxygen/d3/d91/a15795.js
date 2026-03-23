@@ -1,6 +1,6 @@
 var a15795 =
 [
-    [ "SpellId", "d3/d91/a15795.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d3/d91/a15795.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d3/d91/a15795.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_clintar_spiritAI", "de/d61/a15799.html", "de/d61/a15799" ],
+    [ "npc_clintar_spirit", "d3/d91/a15795.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "d3/d91/a15795.html#a118198504f6f93c86302275a11582d60", null ]
 ];

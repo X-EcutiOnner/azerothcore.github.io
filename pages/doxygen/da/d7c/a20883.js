@@ -1,11 +1,13 @@
 var a20883 =
 [
-    [ "boss_thorim_ancient_rune_giantAI", "da/d7c/a20883.html#a75df92817fb5eafa28e5d9c33679dcf8", null ],
-    [ "DoAction", "da/d7c/a20883.html#a1ee097badabf5264517bc0e9d9a45051", null ],
-    [ "JustDied", "da/d7c/a20883.html#ac69a6187be136fa53c65a7eb13bf19d4", null ],
-    [ "JustEngagedWith", "da/d7c/a20883.html#acbfd05bbbae2f5b8a6fa2ee8bc440498", null ],
-    [ "Reset", "da/d7c/a20883.html#a280a68af0d6b65bc99bb9b7116b801ad", null ],
-    [ "UpdateAI", "da/d7c/a20883.html#aef980c0fe0c50beca167ea0ef46ff0c7", null ],
-    [ "_isInCombat", "da/d7c/a20883.html#ab015a6dc76067be1d51d3ce67b6a7aff", null ],
-    [ "events", "da/d7c/a20883.html#afff251a2cc56b7ce686a5b58c196c16c", null ]
+    [ "npc_ravenous_furbolgAI", "da/d7c/a20883.html#a3e2a0cac8a02d2d6105b06b5c21f1628", null ],
+    [ "DoAction", "da/d7c/a20883.html#a837b442d7812b0c5708995d35c0d45f6", null ],
+    [ "JustDied", "da/d7c/a20883.html#a03e5dd969fcc2e3dcebc714247e18bf2", null ],
+    [ "JustEngagedWith", "da/d7c/a20883.html#a003eb350a11f3f5c2355a58958633f36", null ],
+    [ "JustReachedHome", "da/d7c/a20883.html#a09fc5ba4680c1e5a7a49a81c50cee540", null ],
+    [ "MoveInLineOfSight", "da/d7c/a20883.html#a0b4db9708b9b0288ddb1be2f2205e03a", null ],
+    [ "Reset", "da/d7c/a20883.html#aca5ae47050590ec22e6e929f44e09276", null ],
+    [ "UpdateAI", "da/d7c/a20883.html#ad044c04381a8d61a8fefc55129453ddf", null ],
+    [ "events", "da/d7c/a20883.html#a8bf068c63d7ae10c6edf0af3aab1a6c3", null ],
+    [ "m_pInstance", "da/d7c/a20883.html#aeb0a7644ada4d44e649b4ae45e0d2dc2", null ]
 ];

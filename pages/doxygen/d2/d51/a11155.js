@@ -1,6 +1,7 @@
 var a11155 =
 [
-    [ "WorldStateInfo", "d2/d51/a11155.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
-    [ "Value", "d2/d51/a11155.html#afe5a0e98713c986a17f431795c488c6c", null ],
-    [ "VariableID", "d2/d51/a11155.html#a627bba237bce23aff74fd2bf7a274657", null ]
+    [ "BuybackItem", "d2/d51/a11155.html#a05dec559746537669fcf32f52a171b44", null ],
+    [ "Read", "d2/d51/a11155.html#aefe27701674c75f8937f72ee418a6692", null ],
+    [ "Slot", "d2/d51/a11155.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
+    [ "VendorGuid", "d2/d51/a11155.html#a6be9d8d3f564621780e458c4a785b709", null ]
 ];

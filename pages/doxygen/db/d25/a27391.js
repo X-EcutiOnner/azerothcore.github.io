@@ -1,6 +1,8 @@
 var a27391 =
 [
-    [ "npc_dream_fogAI", "d4/d81/a27395.html", "d4/d81/a27395" ],
-    [ "npc_dream_fog", "db/d25/a27391.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "db/d25/a27391.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "CalcPeriodic", "db/d25/a27391.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "db/d25/a27391.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "db/d25/a27391.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "db/d25/a27391.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "db/d25/a27391.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

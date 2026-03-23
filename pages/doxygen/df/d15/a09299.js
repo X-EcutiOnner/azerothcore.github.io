@@ -1,9 +1,6 @@
 var a09299 =
 [
-    [ "GameObjectLastSearcher", "df/d15/a09299.html#a9f478f784f46fa502910f621f10238f2", null ],
-    [ "Visit", "df/d15/a09299.html#a2ba394a2da9f72c7621567092c175f0b", null ],
-    [ "Visit", "df/d15/a09299.html#a4298bd100890e61a34e827f96d70e752", null ],
-    [ "i_check", "df/d15/a09299.html#a06f8a6b33e26cdc17508198a9ee08f87", null ],
-    [ "i_object", "df/d15/a09299.html#a4573ba382a79a34f6c006b7c175f84f1", null ],
-    [ "i_phaseMask", "df/d15/a09299.html#a7130ecacc379e9f41779a8e0f422b32c", null ]
+    [ "EmoteDelay", "df/d15/a09299.html#a053adbedc95026b192360e13d32c9401", null ],
+    [ "EmoteType", "df/d15/a09299.html#aa5189cb250b3f46086ecd69dee23414b", null ],
+    [ "Greeting", "df/d15/a09299.html#a84aa5fced9b8989487d1468c4eccb976", null ]
 ];

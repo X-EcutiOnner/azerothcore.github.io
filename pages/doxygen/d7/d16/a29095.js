@@ -1,12 +1,16 @@
 var a29095 =
 [
-    [ "Bounds", "d7/d16/a29095.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
-    [ "DoodadSet", "d7/d16/a29095.html#abbf6e50e76b120be17215cfcf227a524", null ],
-    [ "Flags", "d7/d16/a29095.html#a06f5e96119239356eea45b9acdadf6e1", null ],
-    [ "Id", "d7/d16/a29095.html#a952442c180e8d3710af31272b54eb6ec", null ],
-    [ "NameSet", "d7/d16/a29095.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
-    [ "Position", "d7/d16/a29095.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
-    [ "Rotation", "d7/d16/a29095.html#a2c04715e800b9f375c287cced96643d1", null ],
-    [ "Scale", "d7/d16/a29095.html#a142716fecae07abc013c7f3bd053c0ea", null ],
-    [ "UniqueId", "d7/d16/a29095.html#a749e920740b9e91547fe1f87933d1c7d", null ]
+    [ "amount", "d7/d16/a29095.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
+    [ "aura_id", "d7/d16/a29095.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
+    [ "charges", "d7/d16/a29095.html#ade74be0906ef080347ac81ed48379cd1", null ],
+    [ "description", "d7/d16/a29095.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
+    [ "EnchantmentCondition", "d7/d16/a29095.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
+    [ "GemID", "d7/d16/a29095.html#a324fd42b7184f5c626c33323a4d72b07", null ],
+    [ "ID", "d7/d16/a29095.html#af46fa8808024e75705b812b695bd1590", null ],
+    [ "requiredLevel", "d7/d16/a29095.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
+    [ "requiredSkill", "d7/d16/a29095.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
+    [ "requiredSkillValue", "d7/d16/a29095.html#a7a57764dad60c9369826638c1355127e", null ],
+    [ "slot", "d7/d16/a29095.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
+    [ "spellid", "d7/d16/a29095.html#a694edc79cf8ba571338bff2a3aad512d", null ],
+    [ "type", "d7/d16/a29095.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
 ];

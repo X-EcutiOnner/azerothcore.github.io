@@ -1,6 +1,9 @@
 var a27031 =
 [
-    [ "HandleSchoolDMG", "d0/dec/a27031.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "d0/dec/a27031.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "d0/dec/a27031.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "CheckCast", "d0/dec/a27031.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
+    [ "FilterTargets", "d0/dec/a27031.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
+    [ "HandleDummy", "d0/dec/a27031.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
+    [ "PrepareSpellScript", "d0/dec/a27031.html#a9c992e732b525e29f684947398d20efb", null ],
+    [ "Register", "d0/dec/a27031.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
+    [ "Validate", "d0/dec/a27031.html#abca1e5aa46e7753588c8120090775195", null ]
 ];

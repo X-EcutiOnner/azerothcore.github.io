@@ -1,7 +1,7 @@
 var a17627 =
 [
-    [ "PeriodicTick", "d7/dba/a17627.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "d7/dba/a17627.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "d7/dba/a17627.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "d7/dba/a17627.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "achievement_once_bitten_twice_shy", "d7/dba/a17627.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "d7/dba/a17627.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "d7/dba/a17627.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "d7/dba/a17627.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

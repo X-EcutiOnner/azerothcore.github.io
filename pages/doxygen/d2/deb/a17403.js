@@ -1,5 +1,6 @@
 var a17403 =
 [
-    [ "entry", "d2/deb/a17403.html#a44c7a625896d6fddc15da39988e0b042", null ],
-    [ "pathId", "d2/deb/a17403.html#accd6af0ddfa248a972612d802a1e641e", null ]
+    [ "HandleScriptEffect", "d2/deb/a17403.html#ab9c289e946cfaf2b63f2526914d79812", null ],
+    [ "PrepareSpellScript", "d2/deb/a17403.html#a832f8ab737254760fe2b91f19d119781", null ],
+    [ "Register", "d2/deb/a17403.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
 ];

@@ -1,7 +1,8 @@
 var a27187 =
 [
-    [ "HandleDummy", "db/dcc/a27187.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
-    [ "PrepareSpellScript", "db/dcc/a27187.html#a24634405a8d0ccdd22f4832815262446", null ],
-    [ "Register", "db/dcc/a27187.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
-    [ "Validate", "db/dcc/a27187.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
+    [ "Apply", "db/dcc/a27187.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "db/dcc/a27187.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "db/dcc/a27187.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "db/dcc/a27187.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "db/dcc/a27187.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

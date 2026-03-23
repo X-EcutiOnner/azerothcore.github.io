@@ -1,12 +1,10 @@
 var a28127 =
 [
-    [ "CalendarFilterType", "dd/dbf/a28127.html#a082b59a0ead8223e590cbb371f3ad122", null ],
-    [ "CalendarFlags", "dd/dbf/a28127.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
-    [ "Date", "dd/dbf/a28127.html#ac5b08b086ef0668508ea9da48642e95b", null ],
-    [ "Duration", "dd/dbf/a28127.html#a10cae1b1fbb91930209a714c545b129b", null ],
-    [ "Id", "dd/dbf/a28127.html#a1119824959b87fb312209a998a5869b1", null ],
-    [ "Looping", "dd/dbf/a28127.html#afa2d93998650f88e62bfa76807961274", null ],
-    [ "Priority", "dd/dbf/a28127.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
-    [ "Region", "dd/dbf/a28127.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
-    [ "TextureFilename", "dd/dbf/a28127.html#a2209ecbb78f1f467491506cc97df57e4", null ]
+    [ "npc_prof_blacksmith", "dd/dbf/a28127.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
+    [ "HasWeaponSub", "dd/dbf/a28127.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
+    [ "OnGossipHello", "dd/dbf/a28127.html#a9a432c1ec33578949110c877fc6a686d", null ],
+    [ "OnGossipSelect", "dd/dbf/a28127.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
+    [ "SendActionMenu", "dd/dbf/a28127.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
+    [ "SendConfirmLearn", "dd/dbf/a28127.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
+    [ "SendConfirmUnlearn", "dd/dbf/a28127.html#a851dc241d944bc888a00df85bff17e3a", null ]
 ];

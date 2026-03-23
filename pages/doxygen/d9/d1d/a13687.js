@@ -1,7 +1,7 @@
 var a13687 =
 [
-    [ "npc_singularity", "d9/d1d/a13687.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "FindAndFollowTarget", "d9/d1d/a13687.html#a76c21129756dec05f6f2d88cebe948c5", null ],
-    [ "Reset", "d9/d1d/a13687.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "d9/d1d/a13687.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "HandleScriptEffect", "d9/d1d/a13687.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "d9/d1d/a13687.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "d9/d1d/a13687.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "d9/d1d/a13687.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

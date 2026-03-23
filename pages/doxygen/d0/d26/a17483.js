@@ -1,6 +1,6 @@
 var a17483 =
 [
-    [ "boss_slad_ranAI", "d2/d54/a17487.html", "d2/d54/a17487" ],
-    [ "boss_slad_ran", "d0/d26/a17483.html#a9b960242e2f186d334d7ce04b999e274", null ],
-    [ "GetAI", "d0/d26/a17483.html#a26651b7ca111bd64549283c37e34db11", null ]
+    [ "boss_prince_taldaramAI", "d2/d54/a17487.html", "d2/d54/a17487" ],
+    [ "boss_prince_taldaram_icc", "d0/d26/a17483.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "d0/d26/a17483.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

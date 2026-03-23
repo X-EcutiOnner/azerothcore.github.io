@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: CharacterCreateInfo Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d5/dcb/a11514.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('dd/d61/a11511.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,64 +104,368 @@ $(document).ready(function(){initNavTree('d5/dcb/a11514.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">WorldSessionMgr Member List</div></div>
+  <div class="summary">
+<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
+<a href="../../dc/dda/a11508.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">CharacterCreateInfo Class Reference<div class="ingroups"><a class="el" href="../../d6/dd1/a05001.html">User to World Communication</a></div></div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#acf06a5c5685db9b266d9323bb915d4aa">_addSessQueue</a></td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a4dc377ec8326db07146d0521d0c0907d">_disconnects</a></td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a564d19d48fb433cc9a85c1434d6ecf81">_maxActiveSessionCount</a></td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#ade1bd1d26fcddc04c84eb5254d431eb0">_maxPlayerCount</a></td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a63bcf9b4f2625b466c276fae8d5593cc">_maxQueuedSessionCount</a></td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a385de87355e09051dff5aed1350d63ac">_offlineSessions</a></td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#aca405a0eb8b98eabf38a5f7b10cd0177">_playerCount</a></td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a5014fbe3488ab42044035ba51c22a9ce">_playerLimit</a></td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#aceb362636b5fe7b4061d5870de4558cc">_queuedPlayer</a></td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a1c9c41702c6a4261c3e5fd2663f151d0">_sessions</a></td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#ab53abc7759de051e8ae5758b15f0b394">AddQueuedPlayer</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a1b3ff90bb664dd3f9c102c4b548fbacb">AddSession</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a1396aef667415727714f25c68ca33d65">AddSession_</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#ae0034ece158518da1918dc4331673524">DecreasePlayerCount</a>()</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a87b26d470986090c226cc144c5f6af36">DisconnectMap</a> typedef</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#ae1a848609e9a3f36f1ed86f479e4cf48">DoForAllOnlinePlayers</a>(std::function&lt; void(Player *)&gt; exec)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a76271af20d3baa02ce23195b7d2b11a6">FindOfflineSession</a>(uint32 id) const</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#ace35cfc22e857bb204ffa929f985e2a2">FindOfflineSessionForCharacterGUID</a>(ObjectGuid::LowType guidLow) const</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a226d982be39b7a55bce04d91e5860002">FindSession</a>(uint32 id) const</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#aa602b4bb999b7ce347c1169f50e6aafe">GetActiveAndQueuedSessionCount</a>() const</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a41014381cb82fede01329f472f6352d2">GetActiveSessionCount</a>() const</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a8343ab20c6ae724a86c724d25d2fb87a">GetAllSessions</a>() const</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a3c09bdad053d7d9b9d76f7ccf31d975d">GetMaxActiveSessionCount</a>() const</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#ae70975cbfbfa31a91ef819b76d1ff6c6">GetMaxPlayerCount</a>() const</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#ad3fff5792a80dad203969742016922aa">GetMaxQueuedSessionCount</a>() const</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a558c19c8ac800961d0d734c22f34700a">GetPlayerAmountLimit</a>() const</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a7def4e4cba23388ccf7b76ff4e30ff88">GetPlayerCount</a>() const</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#aff17c7a73420146c5a0cfe6a05e9339d">GetQueuedSessionCount</a>() const</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#add68fe299373743ca2b1f50530939d6d">GetQueuePos</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a9e79fc57bd7c3da2c7afd70510caf3e9">HasRecentlyDisconnected</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a1d527b57e3536f9e8d190c3374c56ab6">IncreasePlayerCount</a>()</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a049528a26adeba22e833920d30112833">Instance</a>()</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a617366da53f314122ea8344fd5515ec2">KickAll</a>()</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a1e46b0caf50047514c40645f886d50bf">KickAllLess</a>(AccountTypes sec)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a152ef062ca6e1ddc2599588c4cd33b41">KickSession</a>(uint32 id)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a79a045523b1d345710b7779264386464">Queue</a> typedef</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#ae05a416541dc5ef3e0611a835d19e70a">RemoveQueuedPlayer</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a56fc77b52d3340a3e3432254f5274bfb">SendGlobalGMMessage</a>(WorldPacket const *packet, WorldSession *self=nullptr, TeamId teamId=TEAM_NEUTRAL)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#af32e97573c3742b0e922a6537d9c56ac">SendGlobalMessage</a>(WorldPacket const *packet, WorldSession *self=nullptr, TeamId teamId=TEAM_NEUTRAL)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a9bca1ddebb09c5fdba4d8dd70076a6ba">SendServerMessage</a>(ServerMessageType messageID, std::string stringParam=&quot;&quot;, Player *player=nullptr)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#aff543987bdf9b5d8c293ddfa393d3c7b">SessionMap</a> typedef</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a773b78393737216b3e8cbb506f5335ca">SetPlayerAmountLimit</a>(uint32 limit)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a4d5f21e27d14a2dee1ff4e48bdb7b341">UpdateMaxSessionCounters</a>()</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a6234855de299f067b0b61e690f532835">UpdateSessions</a>(uint32 const diff)</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a85c2dd65c6d2f0369fbc29508995eb69">WorldSessionMgr</a>()</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/dcb/a11514.html#a7deeac6b61bc32b648588c428b867eae">~WorldSessionMgr</a>()</td><td class="entry"><a class="el" href="../../d5/dcb/a11514.html">WorldSessionMgr</a></td><td class="entry"></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:a4f81603fda1ae148e6d6174ea8d861fe"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#a4f81603fda1ae148e6d6174ea8d861fe">Name</a></td></tr>
+<tr class="memdesc:a4f81603fda1ae148e6d6174ea8d861fe"><td class="mdescLeft">&#160;</td><td class="mdescRight">User specified variables.  <a href="../../dd/d61/a11511.html#a4f81603fda1ae148e6d6174ea8d861fe">More...</a><br /></td></tr>
+<tr class="separator:a4f81603fda1ae148e6d6174ea8d861fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeee5ee1a2dc34e1b2ad1f8edd31679ff"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#aeee5ee1a2dc34e1b2ad1f8edd31679ff">Race</a> = 0</td></tr>
+<tr class="separator:aeee5ee1a2dc34e1b2ad1f8edd31679ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41e354593f59bc8546688a37c2a5e504"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#a41e354593f59bc8546688a37c2a5e504">Class</a> = 0</td></tr>
+<tr class="separator:a41e354593f59bc8546688a37c2a5e504"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4ed75d1527549051a92cbb958fa8eb4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#ac4ed75d1527549051a92cbb958fa8eb4">Gender</a> = <a class="el" href="../../da/dbb/a04871.html#a3667e3c5ec056737c8789615a989324fafe69f428f13193dcfd8ed8f30d6d2e07">GENDER_NONE</a></td></tr>
+<tr class="separator:ac4ed75d1527549051a92cbb958fa8eb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0fbfb41f3fd0c9d0ba2bfc7f04df648e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e">Skin</a> = 0</td></tr>
+<tr class="separator:a0fbfb41f3fd0c9d0ba2bfc7f04df648e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba49d87691e9d2b10d430450c3f66493"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#aba49d87691e9d2b10d430450c3f66493">Face</a> = 0</td></tr>
+<tr class="separator:aba49d87691e9d2b10d430450c3f66493"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4b2800384a89a5c30c2edb7ff567865"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#aa4b2800384a89a5c30c2edb7ff567865">HairStyle</a> = 0</td></tr>
+<tr class="separator:aa4b2800384a89a5c30c2edb7ff567865"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ded70bbcf30bba4de4ac0ee88fb6eb6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6">HairColor</a> = 0</td></tr>
+<tr class="separator:a0ded70bbcf30bba4de4ac0ee88fb6eb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a88b2c2556dd1239c417ea4fcc55287"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#a5a88b2c2556dd1239c417ea4fcc55287">FacialHair</a> = 0</td></tr>
+<tr class="separator:a5a88b2c2556dd1239c417ea4fcc55287"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15baddc70b46d48bd9f128e73aaac606"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#a15baddc70b46d48bd9f128e73aaac606">OutfitId</a> = 0</td></tr>
+<tr class="separator:a15baddc70b46d48bd9f128e73aaac606"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aad61b8ca0caf09d6b62ee9fffd78cceb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#aad61b8ca0caf09d6b62ee9fffd78cceb">CharCount</a> = 0</td></tr>
+<tr class="memdesc:aad61b8ca0caf09d6b62ee9fffd78cceb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Server side data.  <a href="../../dd/d61/a11511.html#aad61b8ca0caf09d6b62ee9fffd78cceb">More...</a><br /></td></tr>
+<tr class="separator:aad61b8ca0caf09d6b62ee9fffd78cceb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:a65b5c30bf4f5f118a199e378d903aaf6"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#a65b5c30bf4f5f118a199e378d903aaf6">WorldSession</a></td></tr>
+<tr class="separator:a65b5c30bf4f5f118a199e378d903aaf6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f4241aa9ecc051c75f779af132a52ed"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d61/a11511.html#a7f4241aa9ecc051c75f779af132a52ed">Player</a></td></tr>
+<tr class="separator:a7f4241aa9ecc051c75f779af132a52ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="a7f4241aa9ecc051c75f779af132a52ed" name="a7f4241aa9ecc051c75f779af132a52ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f4241aa9ecc051c75f779af132a52ed">&#9670;&#160;</a></span>Player</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../d8/d0c/a08895.html">Player</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a65b5c30bf4f5f118a199e378d903aaf6" name="a65b5c30bf4f5f118a199e378d903aaf6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65b5c30bf4f5f118a199e378d903aaf6">&#9670;&#160;</a></span>WorldSession</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../d3/dd5/a11531.html">WorldSession</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="aad61b8ca0caf09d6b62ee9fffd78cceb" name="aad61b8ca0caf09d6b62ee9fffd78cceb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aad61b8ca0caf09d6b62ee9fffd78cceb">&#9670;&#160;</a></span>CharCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::CharCount = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Server side data. </p>
+
+</div>
+</div>
+<a id="a41e354593f59bc8546688a37c2a5e504" name="a41e354593f59bc8546688a37c2a5e504"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41e354593f59bc8546688a37c2a5e504">&#9670;&#160;</a></span>Class</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::Class = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00484">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="aba49d87691e9d2b10d430450c3f66493" name="aba49d87691e9d2b10d430450c3f66493"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba49d87691e9d2b10d430450c3f66493">&#9670;&#160;</a></span>Face</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::Face = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00484">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="a5a88b2c2556dd1239c417ea4fcc55287" name="a5a88b2c2556dd1239c417ea4fcc55287"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a88b2c2556dd1239c417ea4fcc55287">&#9670;&#160;</a></span>FacialHair</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::FacialHair = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00484">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="ac4ed75d1527549051a92cbb958fa8eb4" name="ac4ed75d1527549051a92cbb958fa8eb4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac4ed75d1527549051a92cbb958fa8eb4">&#9670;&#160;</a></span>Gender</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::Gender = <a class="el" href="../../da/dbb/a04871.html#a3667e3c5ec056737c8789615a989324fafe69f428f13193dcfd8ed8f30d6d2e07">GENDER_NONE</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00484">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="a0ded70bbcf30bba4de4ac0ee88fb6eb6" name="a0ded70bbcf30bba4de4ac0ee88fb6eb6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ded70bbcf30bba4de4ac0ee88fb6eb6">&#9670;&#160;</a></span>HairColor</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::HairColor = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00484">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="aa4b2800384a89a5c30c2edb7ff567865" name="aa4b2800384a89a5c30c2edb7ff567865"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4b2800384a89a5c30c2edb7ff567865">&#9670;&#160;</a></span>HairStyle</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::HairStyle = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00484">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="a4f81603fda1ae148e6d6174ea8d861fe" name="a4f81603fda1ae148e6d6174ea8d861fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4f81603fda1ae148e6d6174ea8d861fe">&#9670;&#160;</a></span>Name</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string CharacterCreateInfo::Name</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>User specified variables. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00484">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="a15baddc70b46d48bd9f128e73aaac606" name="a15baddc70b46d48bd9f128e73aaac606"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15baddc70b46d48bd9f128e73aaac606">&#9670;&#160;</a></span>OutfitId</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::OutfitId = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aeee5ee1a2dc34e1b2ad1f8edd31679ff" name="aeee5ee1a2dc34e1b2ad1f8edd31679ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeee5ee1a2dc34e1b2ad1f8edd31679ff">&#9670;&#160;</a></span>Race</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::Race = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00484">Player::Create()</a>.</p>
+
+</div>
+</div>
+<a id="a0fbfb41f3fd0c9d0ba2bfc7f04df648e" name="a0fbfb41f3fd0c9d0ba2bfc7f04df648e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0fbfb41f3fd0c9d0ba2bfc7f04df648e">&#9670;&#160;</a></span>Skin</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CharacterCreateInfo::Skin = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00484">Player::Create()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Mar 9 2026 21:05:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/d61/a11511.html">CharacterCreateInfo</a></li>
+    <li class="footer">Generated on Mon Mar 23 2026 21:07:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

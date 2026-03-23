@@ -1,8 +1,9 @@
 var a15415 =
 [
-    [ "npc_ouro_spawner", "dc/d42/a15415.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "dc/d42/a15415.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "dc/d42/a15415.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "dc/d42/a15415.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "dc/d42/a15415.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "npc_eye_tentacle", "dc/d42/a15415.html#a106deeb95d74597377d32e81695dc3c9", null ],
+    [ "JustDied", "dc/d42/a15415.html#aac965d97034f4f623172297e4f82647e", null ],
+    [ "JustEngagedWith", "dc/d42/a15415.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
+    [ "Reset", "dc/d42/a15415.html#a715439dfa31b4cf9df7ddd678d912108", null ],
+    [ "UpdateAI", "dc/d42/a15415.html#a48f9067f27d61e609a014669c1daedb9", null ],
+    [ "_portalGUID", "dc/d42/a15415.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
 ];

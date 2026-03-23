@@ -1,7 +1,8 @@
 var a21239 =
 [
-    [ "HandleEffectPeriodic", "df/d93/a21239.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "df/d93/a21239.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "df/d93/a21239.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "df/d93/a21239.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "HandleEffectRemove", "df/d93/a21239.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "df/d93/a21239.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "df/d93/a21239.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "df/d93/a21239.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "df/d93/a21239.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

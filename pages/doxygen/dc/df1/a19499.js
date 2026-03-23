@@ -1,10 +1,6 @@
 var a19499 =
 [
-    [ "npc_power_sparkAI", "dc/df1/a19499.html#a3f0fd553d859c5709ed2dbd9051db3d3", null ],
-    [ "DamageTaken", "dc/df1/a19499.html#aebd86516e17e77711d3877a11a159105", null ],
-    [ "DoAction", "dc/df1/a19499.html#a54b4578be614da76cc886dedbe3d853e", null ],
-    [ "UpdateAI", "dc/df1/a19499.html#a7e9b2a161fc88d269e631d47c38bfd5e", null ],
-    [ "CheckTimer", "dc/df1/a19499.html#af98dff7dd45c258d45ce81b8520e56a8", null ],
-    [ "MoveTimer", "dc/df1/a19499.html#af16a57b82fb94eb464c51b6006f2a66b", null ],
-    [ "pInstance", "dc/df1/a19499.html#a4142b3872dd17015eeabb2eaee0c3369", null ]
+    [ "ChargeRifts", "dc/df1/a19499.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "dc/df1/a19499.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "dc/df1/a19499.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

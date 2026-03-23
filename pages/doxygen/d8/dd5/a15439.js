@@ -1,6 +1,5 @@
 var a15439 =
 [
-    [ "FilterTargets", "d8/dd5/a15439.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "d8/dd5/a15439.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "d8/dd5/a15439.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "at_cthun_stomach_exit", "d8/dd5/a15439.html#ab37174eff353cdbba1f300464645ac63", null ],
+    [ "OnTrigger", "d8/dd5/a15439.html#ab56dca3fe200dc7822459a22912247bf", null ]
 ];

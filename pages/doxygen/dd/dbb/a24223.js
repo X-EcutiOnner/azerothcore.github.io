@@ -1,6 +1,6 @@
 var a24223 =
 [
-    [ "go_apexis_relic", "dd/dbb/a24223.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "dd/dbb/a24223.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "dd/dbb/a24223.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "PrepareSpellScript", "dd/dbb/a24223.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
+    [ "Register", "dd/dbb/a24223.html#a4b349a325759517c35d04202e5df9cec", null ],
+    [ "SetDest", "dd/dbb/a24223.html#a951f733ab2452655a3b579f8ed190fb0", null ]
 ];

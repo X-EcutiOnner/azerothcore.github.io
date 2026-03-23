@@ -1,12 +1,11 @@
 var a08335 =
 [
-    [ "WorldObjectChangeAccumulator", "d6/d21/a08335.html#a853a5c84dec75f115eddd3e1b7ff0b78", null ],
-    [ "BuildPacket", "d6/d21/a08335.html#ab4b9da3effe2a4f6e2cb6ecf268f429c", null ],
-    [ "Visit", "d6/d21/a08335.html#ae18ca5886c95a6c4c00bdbc1920a5655", null ],
-    [ "Visit", "d6/d21/a08335.html#a9afa50ac9e36cd357706e8e838df56a0", null ],
-    [ "Visit", "d6/d21/a08335.html#aec62fc91f4b364e72a3d5afd5a1a7276", null ],
-    [ "Visit", "d6/d21/a08335.html#a9815c06dbd29710cac2c99301c17b01c", null ],
-    [ "i_object", "d6/d21/a08335.html#ab94d7f943107060caf742f9b6cca92e4", null ],
-    [ "i_playerSet", "d6/d21/a08335.html#a0e17c2bf7a78cf5ef68e6fc7b29f0262", null ],
-    [ "i_updateDatas", "d6/d21/a08335.html#a1446b9dae0dfc0325228870c815da23a", null ]
+    [ "AddItem", "d6/d21/a08335.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
+    [ "Clear", "d6/d21/a08335.html#a70c7400c4bc60923fd538890774445de", null ],
+    [ "Empty", "d6/d21/a08335.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
+    [ "FindItemCostPair", "d6/d21/a08335.html#a61dc4394afdd3a360559ffec1655c343", null ],
+    [ "GetItem", "d6/d21/a08335.html#aa764da5b4647c84813e3aa6b46de7593", null ],
+    [ "GetItemCount", "d6/d21/a08335.html#ae80634592ce705c77c5aa53960f89c24", null ],
+    [ "RemoveItem", "d6/d21/a08335.html#a974925f2979910348a0af795893b310b", null ],
+    [ "m_items", "d6/d21/a08335.html#aa16668e54fce8fffe8651644cdef4335", null ]
 ];

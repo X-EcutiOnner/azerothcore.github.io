@@ -1,6 +1,6 @@
 var a21459 =
 [
-    [ "HandleOnHit", "d9/df8/a21459.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "d9/df8/a21459.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "d9/df8/a21459.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "npc_mindless_ghoulAI", "d2/dbb/a21463.html", "d2/dbb/a21463" ],
+    [ "npc_mindless_ghoul", "d9/df8/a21459.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "d9/df8/a21459.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

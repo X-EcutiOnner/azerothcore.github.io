@@ -1,7 +1,9 @@
 var a24131 =
 [
-    [ "boss_gatewatcher_iron_hand", "d0/de2/a24131.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "d0/de2/a24131.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "d0/de2/a24131.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "d0/de2/a24131.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "npc_pet_gen_fetch_ball", "d0/de2/a24131.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "d0/de2/a24131.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "d0/de2/a24131.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "d0/de2/a24131.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "d0/de2/a24131.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "d0/de2/a24131.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

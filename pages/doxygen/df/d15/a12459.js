@@ -1,7 +1,7 @@
 var a12459 =
 [
-    [ "boss_broodlordAI", "df/d15/a12459.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
-    [ "JustDied", "df/d15/a12459.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
-    [ "JustEngagedWith", "df/d15/a12459.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
-    [ "UpdateAI", "df/d15/a12459.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
+    [ "boss_moira_bronzebeard", "df/d15/a12459.html#aaab4b597fd97619c2a41e2a6425810de", null ],
+    [ "CastOnEmperorIfPossible", "df/d15/a12459.html#a413aab0c096319ea17d6c6a078b056ea", null ],
+    [ "JustEngagedWith", "df/d15/a12459.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
+    [ "UpdateAI", "df/d15/a12459.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
 ];

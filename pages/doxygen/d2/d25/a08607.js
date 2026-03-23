@@ -1,6 +1,7 @@
 var a08607 =
 [
-    [ "PlayerClassLevelInfo", "d2/d25/a08607.html#a60153094e3179bfc6c028d2b76775805", null ],
-    [ "basehealth", "d2/d25/a08607.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
-    [ "basemana", "d2/d25/a08607.html#a939a8d8739a553c919d84e399ce17d22", null ]
+    [ "EnchStoreItem", "d2/d25/a08607.html#a89019e156774c5b978251479264e5463", null ],
+    [ "EnchStoreItem", "d2/d25/a08607.html#aca83bb20eb6153faeaf599b07b97e357", null ],
+    [ "chance", "d2/d25/a08607.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
+    [ "ench", "d2/d25/a08607.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
 ];

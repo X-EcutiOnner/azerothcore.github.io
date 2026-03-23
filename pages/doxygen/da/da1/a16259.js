@@ -1,7 +1,7 @@
 var a16259 =
 [
-    [ "HandleHit", "da/da1/a16259.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "da/da1/a16259.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "da/da1/a16259.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "da/da1/a16259.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "HandleScriptEffect", "da/da1/a16259.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "da/da1/a16259.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "da/da1/a16259.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "da/da1/a16259.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

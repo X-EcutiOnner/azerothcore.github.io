@@ -1,9 +1,5 @@
 var a02222 =
 [
-    [ "GetChaseRange", "d6/d41/a02222.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
-    [ "GetTargetSpeedInMotion", "d6/d41/a02222.html#a56719695683e0a1fbeaeb49d31f62d74", null ],
-    [ "GetVelocity", "d6/d41/a02222.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
-    [ "IsMutualChase", "d6/d41/a02222.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
-    [ "IsValidPredictedPosition", "d6/d41/a02222.html#a27995927630ed43ca4a79dff89cfb99c", null ],
-    [ "PredictPosition", "d6/d41/a02222.html#ada5b031ff95410ba84fd734c95c68099", null ]
+    [ "SmartTrigger", "d0/d94/a06507.html", "d0/d94/a06507" ],
+    [ "AddSC_SmartScripts", "d6/d41/a02222.html#ab6012619ba76775b314475ec60f8c7d7", null ]
 ];

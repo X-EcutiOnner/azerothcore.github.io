@@ -1,7 +1,10 @@
 var a21819 =
 [
-    [ "npc_thassarianAI", "db/d4a/a21819.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "db/d4a/a21819.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "db/d4a/a21819.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "db/d4a/a21819.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_infra_green_bomber_genericAI", "db/d4a/a21819.html#aed712ea3625971e059e2ecd158227287", null ],
+    [ "DamageTaken", "db/d4a/a21819.html#a8f860368df96e430b441c8316db99c93", null ],
+    [ "GetSummoner", "db/d4a/a21819.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
+    [ "IsSummonedBy", "db/d4a/a21819.html#a79676717b7c6219ea74ebe5a580eab28", null ],
+    [ "SpreadFire", "db/d4a/a21819.html#a5727c839b7dd02ea64eccce3606688d1", null ],
+    [ "UpdateAI", "db/d4a/a21819.html#a252875777655e963965676a24c15e766", null ],
+    [ "events", "db/d4a/a21819.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
 ];

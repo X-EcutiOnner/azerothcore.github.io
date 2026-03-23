@@ -1,6 +1,10 @@
 var a22367 =
 [
-    [ "HandleHealPct", "d4/ddc/a22367.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "d4/ddc/a22367.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "d4/ddc/a22367.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "boss_talon_king_ikiss", "d4/ddc/a22367.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "d4/ddc/a22367.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d4/ddc/a22367.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d4/ddc/a22367.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d4/ddc/a22367.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d4/ddc/a22367.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d4/ddc/a22367.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

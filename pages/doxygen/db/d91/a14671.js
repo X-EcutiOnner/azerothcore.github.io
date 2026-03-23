@@ -1,5 +1,6 @@
 var a14671 =
 [
-    [ "go_loosely_turned_soilAI", "db/d91/a14671.html#a603641bc52d26521d64afaaeed3abc4d", null ],
-    [ "CanBeSeen", "db/d91/a14671.html#a424b51b08d17ceb04b015cd535256889", null ]
+    [ "HandleScript", "db/d91/a14671.html#a4077b809530d28bed0a9419b5a745f42", null ],
+    [ "PrepareSpellScript", "db/d91/a14671.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
+    [ "Register", "db/d91/a14671.html#ac09b1c86655eef0febaccff86533b28f", null ]
 ];

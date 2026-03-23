@@ -1,12 +1,8 @@
 var a09615 =
 [
-    [ "LogEntry", "d3/de9/a09615.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
-    [ "LogEntry", "d3/de9/a09615.html#aba3f6f501c59e356166abe71082c421b", null ],
-    [ "~LogEntry", "d3/de9/a09615.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
-    [ "GetGUID", "d3/de9/a09615.html#a7af4eac577f8da07540f81e185b2ad49", null ],
-    [ "GetTimestamp", "d3/de9/a09615.html#a643c92439463707671bb08b72bf3a447", null ],
-    [ "SaveToDB", "d3/de9/a09615.html#a1c00aa88973423a1c112c2776a14e78f", null ],
-    [ "m_guid", "d3/de9/a09615.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
-    [ "m_guildId", "d3/de9/a09615.html#a89e0192732a43dc44aff3730bc5ad445", null ],
-    [ "m_timestamp", "d3/de9/a09615.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
+    [ "FriendlyMissingBuffInRange", "d3/de9/a09615.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
+    [ "operator()", "d3/de9/a09615.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
+    [ "i_obj", "d3/de9/a09615.html#aba43edf48b2b0184b52143707c3531f4", null ],
+    [ "i_range", "d3/de9/a09615.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
+    [ "i_spell", "d3/de9/a09615.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
 ];

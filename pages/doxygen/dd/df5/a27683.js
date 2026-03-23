@@ -1,5 +1,5 @@
 var a27683 =
 [
-    [ "item_disgusting_jar", "dd/df5/a27683.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
-    [ "OnExpire", "dd/df5/a27683.html#a4f6967035a4d247914a6034fcebac5c5", null ]
+    [ "achievement_resilient_victory", "dd/df5/a27683.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "dd/df5/a27683.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

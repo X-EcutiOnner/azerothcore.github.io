@@ -1,4 +1,7 @@
 var a28415 =
 [
-    [ "ID", "d2/dc1/a28415.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
+    [ "HandleDummy", "d2/dc1/a28415.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "d2/dc1/a28415.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "d2/dc1/a28415.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "d2/dc1/a28415.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

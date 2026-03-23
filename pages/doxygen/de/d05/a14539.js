@@ -1,11 +1,7 @@
 var a14539 =
 [
-    [ "npc_snowfall_glade_playmate", "de/d05/a14539.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "de/d05/a14539.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "de/d05/a14539.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "de/d05/a14539.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "de/d05/a14539.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "de/d05/a14539.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "de/d05/a14539.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "de/d05/a14539.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "npc_direbrew_minion", "de/d05/a14539.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "de/d05/a14539.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "de/d05/a14539.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "de/d05/a14539.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

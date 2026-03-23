@@ -1,6 +1,6 @@
 var a20023 =
 [
-    [ "boss_auriayaAI", "db/d58/a20027.html", "db/d58/a20027" ],
-    [ "boss_auriaya", "d1/d17/a20023.html#a8acecf02a63e846d1a46633a6ade6083", null ],
-    [ "GetAI", "d1/d17/a20023.html#a09c7cd124672eb12ec349dbbbd3c87ef", null ]
+    [ "OnPeriodic", "d1/d17/a20023.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "d1/d17/a20023.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "d1/d17/a20023.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

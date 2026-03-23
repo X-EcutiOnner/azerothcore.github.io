@@ -1,6 +1,6 @@
 var a27615 =
 [
-    [ "go_soulwellAI", "dc/d7c/a27619.html", "dc/d7c/a27619" ],
-    [ "go_soulwell", "d3/da2/a27615.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "d3/da2/a27615.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "HandleScript", "d3/da2/a27615.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "d3/da2/a27615.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "d3/da2/a27615.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

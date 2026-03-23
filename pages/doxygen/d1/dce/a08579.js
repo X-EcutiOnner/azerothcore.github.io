@@ -1,4 +1,5 @@
 var a08579 =
 [
-    [ "operator()", "d1/dce/a08579.html#ad03044f44da107f20eb3a3932d9cf667", null ]
+    [ "CastBarCaption", "d1/dce/a08579.html#ae78195bdc8edd6f4996c617e7a541e12", null ],
+    [ "Name", "d1/dce/a08579.html#a462917eda1e095c99054495abf70cd67", null ]
 ];

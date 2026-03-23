@@ -1,8 +1,8 @@
 var a20667 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "de/de6/a20667.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
-    [ "SetData", "de/de6/a20667.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
-    [ "UpdateAI", "de/de6/a20667.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
-    [ "despawnTimer", "de/de6/a20667.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
-    [ "pInstance", "de/de6/a20667.html#a3e01c612a689d89bdbe3529c429a413d", null ]
+    [ "OnApply", "de/de6/a20667.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "de/de6/a20667.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "de/de6/a20667.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "de/de6/a20667.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "de/de6/a20667.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

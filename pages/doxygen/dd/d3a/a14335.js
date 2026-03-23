@@ -1,6 +1,9 @@
 var a14335 =
 [
-    [ "OnRemove", "dd/d3a/a14335.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
-    [ "PrepareAuraScript", "dd/d3a/a14335.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
-    [ "Register", "dd/d3a/a14335.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
+    [ "npc_healing_ward", "dd/d3a/a14335.html#a3d3c35f61502d3a83cb2581119e08903", null ],
+    [ "JustEngagedWith", "dd/d3a/a14335.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
+    [ "Reset", "dd/d3a/a14335.html#a756d27a43d86c7ecde859df255c6bd62", null ],
+    [ "UpdateAI", "dd/d3a/a14335.html#a8b8635af33ce814602206064e0815520", null ],
+    [ "_instance", "dd/d3a/a14335.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
+    [ "_scheduler", "dd/d3a/a14335.html#a0c62fe945b491cab76175217a7d10c06", null ]
 ];

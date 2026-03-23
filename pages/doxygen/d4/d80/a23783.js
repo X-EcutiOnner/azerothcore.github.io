@@ -1,14 +1,15 @@
 var a23783 =
 [
-    [ "boss_vazruden", "d4/d80/a23783.html#a9908d6082a09d55dd0d8bb801784a151", null ],
-    [ "DamageTaken", "d4/d80/a23783.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
-    [ "EnterEvadeMode", "d4/d80/a23783.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
-    [ "JustDied", "d4/d80/a23783.html#a525025b41b53a577bdff1eb818191ed7", null ],
-    [ "JustEngagedWith", "d4/d80/a23783.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
-    [ "KilledUnit", "d4/d80/a23783.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
-    [ "Reset", "d4/d80/a23783.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
-    [ "UpdateAI", "d4/d80/a23783.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
-    [ "_hasSpoken", "d4/d80/a23783.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
-    [ "_nazanCalled", "d4/d80/a23783.html#a44d53934c743e9beb539681719997852", null ],
-    [ "_scheduler", "d4/d80/a23783.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
+    [ "npc_maghar_captiveAI", "d4/d80/a23783.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
+    [ "JustDied", "d4/d80/a23783.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
+    [ "JustEngagedWith", "d4/d80/a23783.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
+    [ "JustSummoned", "d4/d80/a23783.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
+    [ "Reset", "d4/d80/a23783.html#abebcdcb102f8d338ae0b792708940cd7", null ],
+    [ "SpellHitTarget", "d4/d80/a23783.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
+    [ "UpdateAI", "d4/d80/a23783.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
+    [ "WaypointReached", "d4/d80/a23783.html#abfbba8942df57e974ab24ad693c16e70", null ],
+    [ "WaypointReached", "d4/d80/a23783.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ChainLightningTimer", "d4/d80/a23783.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
+    [ "FrostShockTimer", "d4/d80/a23783.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
+    [ "HealTimer", "d4/d80/a23783.html#a31613adba706f3b5f948f2f7c4222038", null ]
 ];

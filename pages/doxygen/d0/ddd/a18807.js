@@ -1,8 +1,6 @@
 var a18807 =
 [
-    [ "DecayPeriodicTimer", "d0/ddd/a18807.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d0/ddd/a18807.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d0/ddd/a18807.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d0/ddd/a18807.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d0/ddd/a18807.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_highlord_tirion_fordringAI", "d6/df2/a18811.html", "d6/df2/a18811" ],
+    [ "npc_highlord_tirion_fordring_lh", "d0/ddd/a18807.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "d0/ddd/a18807.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

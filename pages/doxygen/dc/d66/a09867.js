@@ -1,8 +1,9 @@
 var a09867 =
 [
-    [ "BoundaryIntersectBoundary", "dc/d66/a09867.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
-    [ "~BoundaryIntersectBoundary", "dc/d66/a09867.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
-    [ "IsWithinBoundaryArea", "dc/d66/a09867.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
-    [ "_b1", "dc/d66/a09867.html#ab0239437fa92e39d144bf3856eb347c7", null ],
-    [ "_b2", "dc/d66/a09867.html#a41e100c17db99990981293399660824c", null ]
+    [ "LoginQueryHolder", "dc/d66/a09867.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "dc/d66/a09867.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "dc/d66/a09867.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "dc/d66/a09867.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "m_accountId", "dc/d66/a09867.html#abc8056182803af44a062fe6153fdd009", null ],
+    [ "m_guid", "dc/d66/a09867.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
 ];

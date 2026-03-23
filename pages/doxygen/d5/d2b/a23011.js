@@ -1,8 +1,7 @@
 var a23011 =
 [
-    [ "Load", "d5/d2b/a23011.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "d5/d2b/a23011.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "d5/d2b/a23011.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "d5/d2b/a23011.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "d5/d2b/a23011.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "npc_ahune_ice_spear_bunny", "d5/d2b/a23011.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "d5/d2b/a23011.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "d5/d2b/a23011.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "d5/d2b/a23011.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

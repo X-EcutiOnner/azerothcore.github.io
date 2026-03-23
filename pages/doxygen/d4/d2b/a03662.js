@@ -1,13 +1,14 @@
 var a03662 =
 [
-    [ "instance_sunken_temple", "db/d4c/a13693.html", "db/d4c/a13693" ],
-    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "dd/dbc/a13697.html", "dd/dbc/a13697" ],
-    [ "at_malfurion_stormrage", "d2/d27/a13701.html", "d2/d27/a13701" ],
-    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "db/daa/a13705.html", "db/daa/a13705" ],
-    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "d1/dc9/a13709.html", "d1/dc9/a13709" ],
-    [ "MalfurionMisc", "d4/d2b/a03662.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
-      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "d4/d2b/a03662.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
-      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "d4/d2b/a03662.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
+    [ "npc_tapoke_slim_jahn", "df/dd9/a14083.html", "df/dd9/a14083" ],
+    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "df/d98/a14087.html", "df/d98/a14087" ],
+    [ "npc_mikhail", "da/d08/a14091.html", "da/d08/a14091" ],
+    [ "TapokeSlim", "d4/d2b/a03662.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
+      [ "QUEST_MISSING_DIPLO_PT11", "d4/d2b/a03662.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
+      [ "SPELL_STEALTH", "d4/d2b/a03662.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
+      [ "SPELL_CALL_FRIENDS", "d4/d2b/a03662.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
+      [ "NPC_SLIMS_FRIEND", "d4/d2b/a03662.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
+      [ "NPC_TAPOKE_SLIM_JAHN", "d4/d2b/a03662.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
     ] ],
-    [ "AddSC_instance_sunken_temple", "d4/d2b/a03662.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
+    [ "AddSC_wetlands", "d4/d2b/a03662.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
 ];

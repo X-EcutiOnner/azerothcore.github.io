@@ -1,6 +1,7 @@
 var a20223 =
 [
-    [ "achievement_flame_leviathan_towers", "d9/dc0/a20223.html#a491d66bdd373b6044e406126719ef910", null ],
-    [ "OnCheck", "d9/dc0/a20223.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
-    [ "_towerCount", "d9/dc0/a20223.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
+    [ "HandleEffectPeriodic", "d9/dc0/a20223.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "d9/dc0/a20223.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "d9/dc0/a20223.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "d9/dc0/a20223.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

@@ -1,9 +1,9 @@
 var a20103 =
 [
-    [ "npc_hodirs_furyAI", "d9/d94/a20103.html#ae08a68a79a3fef952f6dfa50b4eaabca", null ],
-    [ "MovementInform", "d9/d94/a20103.html#a37b07ddee5403ee2de8f69904412ed42", null ],
-    [ "Reset", "d9/d94/a20103.html#a389f0f17fbc7860c5531f4859be561d3", null ],
-    [ "UpdateAI", "d9/d94/a20103.html#a5417d68891ad0f93c8130c9a14d57513", null ],
-    [ "_switchTargetTimer", "d9/d94/a20103.html#a8d15c1e290438c8a4aa50887cfffccba", null ],
-    [ "_timeToHit", "d9/d94/a20103.html#a594356602bd0068fba82bea64e284837", null ]
+    [ "boss_freya_nature_bomb", "d9/d94/a20103.html#a050672942ab467557d21a930ab22827c", null ],
+    [ "Reset", "d9/d94/a20103.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
+    [ "UpdateAI", "d9/d94/a20103.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
+    [ "_explodeTimer", "d9/d94/a20103.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
+    [ "_goGUID", "d9/d94/a20103.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
+    [ "Timer", "d9/d94/a20103.html#affadb797817ddf512209d1d71097baf3", null ]
 ];

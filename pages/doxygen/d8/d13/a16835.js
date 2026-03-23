@@ -1,6 +1,10 @@
 var a16835 =
 [
-    [ "boss_acidmawAI", "d8/d6f/a16839.html", "d8/d6f/a16839" ],
-    [ "boss_acidmaw", "d8/d13/a16835.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
-    [ "GetAI", "d8/d13/a16835.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
+    [ "npc_mistress_of_painAI", "d8/d13/a16835.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "d8/d13/a16835.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "d8/d13/a16835.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "d8/d13/a16835.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "d8/d13/a16835.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "d8/d13/a16835.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "d8/d13/a16835.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

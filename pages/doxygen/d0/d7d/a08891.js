@@ -1,6 +1,9 @@
 var a08891 =
 [
-    [ "Condition", "d0/d7d/a08891.html#a78172859719e85a21c0a39e41c692cf4", null ],
-    [ "EventId", "d0/d7d/a08891.html#aa5d7e88828c9f44b5913d4593496894f", null ],
-    [ "Num", "d0/d7d/a08891.html#a7cf6141e00b1a33063409c9828773b94", null ]
+    [ "PendingSpellCastRequest", "d0/d7d/a08891.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
+    [ "cancelInProgress", "d0/d7d/a08891.html#a726b6e423b23f8c12c65e07809462ad1", null ],
+    [ "category", "d0/d7d/a08891.html#a51a702f257b784dac4556397dd1c0be4", null ],
+    [ "isItem", "d0/d7d/a08891.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
+    [ "requestPacket", "d0/d7d/a08891.html#a6ee868c6161e49dc8774ab357f313116", null ],
+    [ "spellId", "d0/d7d/a08891.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
 ];

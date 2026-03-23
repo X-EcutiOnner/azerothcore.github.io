@@ -1,6 +1,7 @@
 var a14903 =
 [
-    [ "OnRemove", "d2/d42/a14903.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "d2/d42/a14903.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "d2/d42/a14903.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "HandleOnHit", "d2/d42/a14903.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "d2/d42/a14903.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "d2/d42/a14903.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "d2/d42/a14903.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

@@ -1,7 +1,7 @@
 var a22223 =
 [
-    [ "npc_rodin_lightning_enabler", "d9/df6/a22223.html#ae014b208af7664acd2147663d9338583", null ],
-    [ "Reset", "d9/df6/a22223.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
-    [ "UpdateAI", "d9/df6/a22223.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
-    [ "_scheduler", "d9/df6/a22223.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
+    [ "OutdoorPvPGH", "d9/df6/a22223.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "HandleKill", "d9/df6/a22223.html#a78cf572faf727c302f9be496d91004e0", null ],
+    [ "SendRemoveWorldStates", "d9/df6/a22223.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "d9/df6/a22223.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

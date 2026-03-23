@@ -1,7 +1,6 @@
 var a17003 =
 [
-    [ "HandleEffectRemove", "de/d84/a17003.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "de/d84/a17003.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "de/d84/a17003.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "de/d84/a17003.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "HandleScript", "de/d84/a17003.html#a4786e0c38f03f7e671174d0641526681", null ],
+    [ "PrepareSpellScript", "de/d84/a17003.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
+    [ "Register", "de/d84/a17003.html#a943117bfb56b846e99d04bd9a348af8d", null ]
 ];

@@ -1,9 +1,11 @@
 var a21663 =
 [
-    [ "npc_azure_stalkerAI", "d3/d28/a21663.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
-    [ "Reset", "d3/d28/a21663.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
-    [ "UpdateAI", "d3/d28/a21663.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
-    [ "TacticalBlinkCasted", "d3/d28/a21663.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
-    [ "uiBackstabTimer", "d3/d28/a21663.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
-    [ "uiTacticalBlinkTimer", "d3/d28/a21663.html#ab817fb9f2f06715f0a08a99e12693697", null ]
+    [ "npc_lake_frogAI", "d3/d28/a21663.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
+    [ "ReceiveEmote", "d3/d28/a21663.html#abd58e65b6829c70818c578ed615a980b", null ],
+    [ "Reset", "d3/d28/a21663.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
+    [ "sGossipSelect", "d3/d28/a21663.html#a95906677ff65e004408ae65df3f49b5c", null ],
+    [ "UpdateAI", "d3/d28/a21663.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
+    [ "_events", "d3/d28/a21663.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
+    [ "_following", "d3/d28/a21663.html#a0078f9134a61f0ec2465ce103523e341", null ],
+    [ "_runningScript", "d3/d28/a21663.html#af76102ba6c9ffd80baa95623b7312980", null ]
 ];

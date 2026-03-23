@@ -1,6 +1,12 @@
 var a15179 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "dd/d37/a15183.html", "dd/d37/a15183" ],
-    [ "instance_razorfen_downs", "dc/d4a/a15179.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
-    [ "GetInstanceScript", "dc/d4a/a15179.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
+    [ "boss_isalien", "dc/d4a/a15179.html#a736a25e60ae367a45c7d6451be96126d", null ],
+    [ "DamageTaken", "dc/d4a/a15179.html#a95d461e099193b5e2c1363acb1b5939a", null ],
+    [ "JustDied", "dc/d4a/a15179.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
+    [ "JustEngagedWith", "dc/d4a/a15179.html#ad6714da515db77c7299ee80b3268433e", null ],
+    [ "JustSummoned", "dc/d4a/a15179.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
+    [ "Reset", "dc/d4a/a15179.html#a4995c18e2baa62d05717617d0b1e3529", null ],
+    [ "UpdateAI", "dc/d4a/a15179.html#aa067bea34557a4b2fe840ef305852bc0", null ],
+    [ "_phase", "dc/d4a/a15179.html#a954bbd32948e6c416197199d96142056", null ],
+    [ "_scheduler", "dc/d4a/a15179.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
 ];

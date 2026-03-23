@@ -1,7 +1,8 @@
 var a11571 =
 [
-    [ "EffectApplyHandler", "d4/d48/a11571.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "d4/d48/a11571.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "d4/d48/a11571.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "d4/d48/a11571.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "SkillPerfectItemEntry", "d4/d48/a11571.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
+    [ "SkillPerfectItemEntry", "d4/d48/a11571.html#a678f9908440187faad38c0e1ffaf82de", null ],
+    [ "perfectCreateChance", "d4/d48/a11571.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
+    [ "perfectItemType", "d4/d48/a11571.html#a057605f8867d4df5cb290318598a2908", null ],
+    [ "requiredSpecialization", "d4/d48/a11571.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
 ];

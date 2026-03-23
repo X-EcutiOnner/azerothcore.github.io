@@ -1,6 +1,6 @@
 var a16915 =
 [
-    [ "boss_dredAI", "d9/ddd/a16919.html", "d9/ddd/a16919" ],
-    [ "boss_dred", "d5/daf/a16915.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "d5/daf/a16915.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "npc_concentrated_ballAI", "d9/ddd/a16919.html", "d9/ddd/a16919" ],
+    [ "npc_concentrated_ball", "d5/daf/a16915.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "d5/daf/a16915.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

@@ -1,6 +1,6 @@
 var a03503 =
 [
-    [ "fireworkShowGameobjectOrgrimmar", "dd/daf/a03503.html#aa00988212bcd8875445e2b120c00025c", null ],
-    [ "fireworkShowOrgrimmar", "dd/daf/a03503.html#a20e15c8e61c734af478a4849bd54c9d3", null ],
-    [ "fireworkShowScheduleOrgrimmar", "dd/daf/a03503.html#a2e2ca4fa893601a2122f94a72c18401f", null ]
+    [ "fireworkShowBootyBay", "dd/daf/a03503.html#ade8881c3a797a7937c46526f8c8adf99", null ],
+    [ "FireworkShowGameobjectBootyBay", "dd/daf/a03503.html#aeff31f29bacaf8ca10d5caee61627422", null ],
+    [ "fireworkShowScheduleBootyBay", "dd/daf/a03503.html#aed5048221cf1d35ad3d4989da8786617", null ]
 ];

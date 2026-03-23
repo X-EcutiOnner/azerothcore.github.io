@@ -1,6 +1,6 @@
 var a12407 =
 [
-    [ "boss_warmastervooneAI", "d3/d2e/a12411.html", "d3/d2e/a12411" ],
-    [ "boss_warmaster_voone", "d5/ddf/a12407.html#ac363118e4201adccd4be0028a558442f", null ],
-    [ "GetAI", "d5/ddf/a12407.html#a560469e60fda04b2c7d8fd3994493868", null ]
+    [ "npc_lokhtos_darkbargainer", "d5/ddf/a12407.html#a18aa7c271bd8eaad138c0a0791e4d03d", null ],
+    [ "sGossipHello", "d5/ddf/a12407.html#aac7cd88113926234719557519c7e647e", null ],
+    [ "sGossipSelect", "d5/ddf/a12407.html#a4f404804ef0c5cd1cee8737fdba23edd", null ]
 ];

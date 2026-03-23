@@ -1,6 +1,5 @@
 var a20395 =
 [
-    [ "npc_ulduar_flash_freezeAI", "d4/d96/a20399.html", "d4/d96/a20399" ],
-    [ "npc_ulduar_flash_freeze", "d9/d4f/a20395.html#a0301ed1231d3b0d113e9fc9389e8f160", null ],
-    [ "GetAI", "d9/d4f/a20395.html#a933f99c8d38ab98c8454919b6373bb41", null ]
+    [ "npc_ulduar_flames_spread", "d9/d4f/a20395.html#a8309d2c6a0d7ad7a7dc2111c709bf45f", null ],
+    [ "SpellHit", "d9/d4f/a20395.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
 ];

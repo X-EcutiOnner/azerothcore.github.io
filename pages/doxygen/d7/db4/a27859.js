@@ -1,6 +1,7 @@
 var a27859 =
 [
-    [ "npc_garments_of_questsAI", "dc/da8/a27863.html", "dc/da8/a27863" ],
-    [ "npc_garments_of_quests", "d7/db4/a27859.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "d7/db4/a27859.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "HandlePeriodic", "d7/db4/a27859.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d7/db4/a27859.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d7/db4/a27859.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d7/db4/a27859.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

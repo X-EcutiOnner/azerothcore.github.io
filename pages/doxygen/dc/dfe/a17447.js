@@ -1,8 +1,11 @@
 var a17447 =
 [
-    [ "boss_eck", "dc/dfe/a17447.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "dc/dfe/a17447.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "dc/dfe/a17447.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "dc/dfe/a17447.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "dc/dfe/a17447.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "boss_slad_ranAI", "dc/dfe/a17447.html#ad85e2fd51d67739026a96bc757bc7801", null ],
+    [ "GetData", "dc/dfe/a17447.html#a58e1188a418acdc1f327e7df90c5c122", null ],
+    [ "JustDied", "dc/dfe/a17447.html#a636ca76497c33a5175986e80bbcda44a", null ],
+    [ "JustEngagedWith", "dc/dfe/a17447.html#ac30b38805d0421b1be509c7d5609c648", null ],
+    [ "KilledUnit", "dc/dfe/a17447.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
+    [ "Reset", "dc/dfe/a17447.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
+    [ "SetData", "dc/dfe/a17447.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
+    [ "_achievement", "dc/dfe/a17447.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
 ];

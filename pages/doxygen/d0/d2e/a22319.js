@@ -1,10 +1,8 @@
 var a22319 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d0/d2e/a22319.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "d0/d2e/a22319.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "d0/d2e/a22319.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "d0/d2e/a22319.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "d0/d2e/a22319.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "d0/d2e/a22319.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "d0/d2e/a22319.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "CalcPeriodic", "d0/d2e/a22319.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
+    [ "OnRemove", "d0/d2e/a22319.html#af120bb9d6a0c3d338706613540849412", null ],
+    [ "PrepareAuraScript", "d0/d2e/a22319.html#ad413f14193013058e1775f80b457a81d", null ],
+    [ "Register", "d0/d2e/a22319.html#aa35fc5865f108712e450661e67c384ce", null ],
+    [ "Update", "d0/d2e/a22319.html#aebc61b57ed8038488ec06c14483b2099", null ]
 ];

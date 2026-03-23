@@ -1,6 +1,8 @@
 var a25171 =
 [
-    [ "ModDest", "d2/d25/a25171.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "d2/d25/a25171.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "d2/d25/a25171.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "HandleApply", "d2/d25/a25171.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "d2/d25/a25171.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "d2/d25/a25171.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "d2/d25/a25171.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "d2/d25/a25171.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

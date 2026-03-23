@@ -1,6 +1,7 @@
 var a20131 =
 [
-    [ "npc_brann_radioAI", "dd/dc1/a20135.html", "dd/dc1/a20135" ],
-    [ "npc_brann_radio", "de/d9b/a20131.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
-    [ "GetAI", "de/d9b/a20131.html#aa2ea91337262fb886e7535ba013f4b10", null ]
+    [ "HandleEffectPeriodic", "de/d9b/a20131.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
+    [ "PrepareAuraScript", "de/d9b/a20131.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
+    [ "Register", "de/d9b/a20131.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
+    [ "Validate", "de/d9b/a20131.html#a16c536c913d003826ef4b86c7a497fec", null ]
 ];

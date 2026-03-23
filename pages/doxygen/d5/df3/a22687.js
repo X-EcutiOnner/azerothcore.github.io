@@ -1,6 +1,6 @@
 var a22687 =
 [
-    [ "npc_crusade_recruitAI", "dd/d96/a22691.html", "dd/d96/a22691" ],
-    [ "npc_crusade_recruit", "d5/df3/a22687.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "d5/df3/a22687.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "PrepareSpellScript", "d5/df3/a22687.html#ad786920d6180b8e2829f3a56ec50c488", null ],
+    [ "Register", "d5/df3/a22687.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
+    [ "SetDest", "d5/df3/a22687.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
 ];

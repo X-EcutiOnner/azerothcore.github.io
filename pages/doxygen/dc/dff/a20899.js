@@ -1,6 +1,6 @@
 var a20899 =
 [
-    [ "OnPeriodic", "dc/dff/a20899.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "dc/dff/a20899.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "dc/dff/a20899.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "boss_skadiAI", "d0/d92/a20903.html", "d0/d92/a20903" ],
+    [ "boss_skadi", "dc/dff/a20899.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "dc/dff/a20899.html#a4b66199169442af5ec6542be71c19033", null ]
 ];

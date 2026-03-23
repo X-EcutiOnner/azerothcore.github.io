@@ -1,6 +1,7 @@
 var a18671 =
 [
-    [ "ActivateSpirit", "da/da7/a18671.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "da/da7/a18671.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "da/da7/a18671.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "ValithriaDespawner", "da/da7/a18671.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "da/da7/a18671.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "da/da7/a18671.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "da/da7/a18671.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

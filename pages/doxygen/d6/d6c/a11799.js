@@ -1,5 +1,6 @@
 var a11799 =
 [
-    [ "WorldConfig", "d6/d6c/a11799.html#abe3f855f1902d7f3974b741cfc0a3663", null ],
-    [ "BuildConfigCache", "d6/d6c/a11799.html#aaf6bfad583f3a2dbb1e9ea2487dd2c9d", null ]
+    [ "HitHandler", "d6/d6c/a11799.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "d6/d6c/a11799.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "d6/d6c/a11799.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

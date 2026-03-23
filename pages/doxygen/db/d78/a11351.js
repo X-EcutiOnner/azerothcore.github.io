@@ -1,10 +1,17 @@
 var a11351 =
 [
-    [ "TriggeredByAuraSpellData", "db/d78/a11351.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
-    [ "Init", "db/d78/a11351.html#a782e0056967e006748318af3112c0e43", null ],
-    [ "operator bool", "db/d78/a11351.html#a85d4782b76b060c172aaa6f914d400da", null ],
-    [ "operator!", "db/d78/a11351.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
-    [ "effectIndex", "db/d78/a11351.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
-    [ "spellInfo", "db/d78/a11351.html#af58f62fb168e9da7011f7b570f08e977", null ],
-    [ "tickNumber", "db/d78/a11351.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
+    [ "CompactArray", "db/d78/a11351.html#a167096f1966862ec92556b6f5d3aa3b8", null ],
+    [ "CompactArray", "db/d78/a11351.html#a70adda7a73d5c54b1d29668f23778c9f", null ],
+    [ "CompactArray", "db/d78/a11351.html#a757f7d94e52fa821dc1fdb03877574f3", null ],
+    [ "Clear", "db/d78/a11351.html#ae213ad313a4b0688763e882a2010c494", null ],
+    [ "GetMask", "db/d78/a11351.html#a3a421d4ee2e7459cbc945c6c70c1993f", null ],
+    [ "GetSize", "db/d78/a11351.html#a656c3568cd73d10dd6f9cda1809ff509", null ],
+    [ "Insert", "db/d78/a11351.html#a313aedf5c623505860a227149cb64b5a", null ],
+    [ "operator!=", "db/d78/a11351.html#adaade1e09d979a6e98b90253f442a9e5", null ],
+    [ "operator=", "db/d78/a11351.html#a75f0995b55269fc2d0bca87a0294fcb3", null ],
+    [ "operator=", "db/d78/a11351.html#a14d76ffa09769e341dea769424ac586c", null ],
+    [ "operator==", "db/d78/a11351.html#a24c7c9794991ec3bf4ecefa93f8ee23e", null ],
+    [ "operator[]", "db/d78/a11351.html#af146d3e880ec34358ff6a07247f741d8", null ],
+    [ "_contents", "db/d78/a11351.html#a1e0ff07a4905517dc6e92a3615bc36d0", null ],
+    [ "_mask", "db/d78/a11351.html#a85ef9a03e561e385f41de88e6e0f98c0", null ]
 ];

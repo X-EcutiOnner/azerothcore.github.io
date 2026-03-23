@@ -1,4 +1,5 @@
 var a00863 =
 [
-    [ "ScriptRegistry< ArenaTeamScript >", "d7/d49/a00863.html#a5d2a56a9849b1ba119fd3224685406fe", null ]
+    [ "ForeachMaps", "d7/d49/a00863.html#a899f6a046cdda33d737030dd4923ca7d", null ],
+    [ "ScriptRegistry< AllMapScript >", "d7/d49/a00863.html#ada370fef23e6d206da686c8bb6149104", null ]
 ];

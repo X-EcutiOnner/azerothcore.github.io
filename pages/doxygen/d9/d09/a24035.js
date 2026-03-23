@@ -1,7 +1,6 @@
 var a24035 =
 [
-    [ "OnApply", "d9/d09/a24035.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "d9/d09/a24035.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "d9/d09/a24035.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "d9/d09/a24035.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "PrepareSpellScript", "d9/d09/a24035.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "d9/d09/a24035.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "d9/d09/a24035.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

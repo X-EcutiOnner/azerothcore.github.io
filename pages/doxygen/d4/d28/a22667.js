@@ -1,11 +1,17 @@
 var a22667 =
 [
-    [ "npc_drakuru_shacklesAI", "d4/d28/a22667.html#aeb55bf23d97e963b0fb9a18596bb58b1", null ],
-    [ "LockRageclaw", "d4/d28/a22667.html#aa58fff9ee8e6cbe4d2dd0d391215f1f4", null ],
-    [ "Reset", "d4/d28/a22667.html#a566fba51edcddab8c5b0bf5688571f80", null ],
-    [ "SpellHit", "d4/d28/a22667.html#a04a9f0cc28cd8cab89120e66972b74cf", null ],
-    [ "UnlockRageclaw", "d4/d28/a22667.html#a65a4b408ac09ffa3155b955dc054d971", null ],
-    [ "UpdateAI", "d4/d28/a22667.html#a8a04ac89e5ec9ce841445913765a1a73", null ],
-    [ "_rageclawGUID", "d4/d28/a22667.html#a1c991305f4ef30146930747881e57de4", null ],
-    [ "timer", "d4/d28/a22667.html#a2a6484216abd731ad016284a79575e1c", null ]
+    [ "npc_akama_shade", "d4/d28/a22667.html#a95e956e162cb88d2814622bc10166ca5", null ],
+    [ "DamageTaken", "d4/d28/a22667.html#a962723ebc58a2b1f813fcc0715f9f2d2", null ],
+    [ "DoAction", "d4/d28/a22667.html#a59619f193d51e3bad05044aad2d96d9a", null ],
+    [ "EnterEvadeMode", "d4/d28/a22667.html#ae2441741caf0b91196469f67a38823bc", null ],
+    [ "JustEngagedWith", "d4/d28/a22667.html#a87df13ee30423c51e50670c535fdf99d", null ],
+    [ "JustSummoned", "d4/d28/a22667.html#a2372d2e64fb36b64f638583409cf9fa8", null ],
+    [ "MovementInform", "d4/d28/a22667.html#a4f1900d16dd36fbb9e573d59cf2176a1", null ],
+    [ "Reset", "d4/d28/a22667.html#a2d8161405dbb97cc1784e3cf49679d25", null ],
+    [ "sGossipSelect", "d4/d28/a22667.html#a8a18c7195f04caed0cf93655f556ad9a", null ],
+    [ "UpdateAI", "d4/d28/a22667.html#af9091eaa02a0967cbc2acb7d0160e5f1", null ],
+    [ "_died", "d4/d28/a22667.html#a1295073fb0f2dc19baeb16ad73ceb1df", null ],
+    [ "_generators", "d4/d28/a22667.html#a84d8d87d9bb92ba20e357d5854410a5e", null ],
+    [ "_sayLowHealth", "d4/d28/a22667.html#ae068b44aff8c9e4e1b75afab7959fda8", null ],
+    [ "instance", "d4/d28/a22667.html#a590f6a445bcda767c2197da05fc3cb15", null ]
 ];

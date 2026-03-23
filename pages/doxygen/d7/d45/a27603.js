@@ -1,5 +1,7 @@
 var a27603 =
 [
-    [ "go_arcane_prison", "d7/d45/a27603.html#ad73ac33d843027de0e516de8f90c45a0", null ],
-    [ "OnGossipHello", "d7/d45/a27603.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
+    [ "HandleEffect", "d7/d45/a27603.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
+    [ "PrepareSpellScript", "d7/d45/a27603.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
+    [ "Register", "d7/d45/a27603.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
+    [ "Validate", "d7/d45/a27603.html#ab6d78ecb650f13df3376baced8c40a63", null ]
 ];

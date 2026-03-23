@@ -1,7 +1,7 @@
 var a12563 =
 [
-    [ "HandleDummy", "d4/db5/a12563.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "d4/db5/a12563.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "d4/db5/a12563.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "d4/db5/a12563.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "boss_urok_doomhowl", "d4/db5/a12563.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
+    [ "InitializeAI", "d4/db5/a12563.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
+    [ "JustEngagedWith", "d4/db5/a12563.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
+    [ "UpdateAI", "d4/db5/a12563.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
 ];

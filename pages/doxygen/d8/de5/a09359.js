@@ -1,9 +1,11 @@
 var a09359 =
 [
-    [ "PlayerDistWorker", "d8/de5/a09359.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
-    [ "Visit", "d8/de5/a09359.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
-    [ "Visit", "d8/de5/a09359.html#a2658f12f90953f1057a9377b21824879", null ],
-    [ "i_dist", "d8/de5/a09359.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
-    [ "i_do", "d8/de5/a09359.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
-    [ "i_searcher", "d8/de5/a09359.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
+    [ "~GridCell", "d8/de5/a09359.html#a042be8f85e83068d4bb39a0de0618146", null ],
+    [ "AddFarVisibleObject", "d8/de5/a09359.html#a9a81bdbf151463b4687227df0fa39ece", null ],
+    [ "AddGridObject", "d8/de5/a09359.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
+    [ "RemoveFarVisibleObject", "d8/de5/a09359.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
+    [ "Visit", "d8/de5/a09359.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
+    [ "Visit", "d8/de5/a09359.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
+    [ "_farVisibleObjects", "d8/de5/a09359.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
+    [ "_gridObjects", "d8/de5/a09359.html#ac5a741aebc11124aa228e5107e664335", null ]
 ];

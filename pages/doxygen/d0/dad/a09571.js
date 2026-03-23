@@ -1,9 +1,10 @@
 var a09571 =
 [
-    [ "WorldPacketList", "d0/dad/a09571.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
-    [ "LocalizedPacketListDo", "d0/dad/a09571.html#ab52133e238752f725f18580018a84cd2", null ],
-    [ "~LocalizedPacketListDo", "d0/dad/a09571.html#a8442452027bcb5c98d60830e016803b5", null ],
-    [ "operator()", "d0/dad/a09571.html#adea9610e36d436563ba1f472481aed85", null ],
-    [ "i_builder", "d0/dad/a09571.html#a83bda52b10d30f7fd633c285b79e740b", null ],
-    [ "i_data_cache", "d0/dad/a09571.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
+    [ "AnyDeadUnitObjectInRangeCheck", "d0/dad/a09571.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
+    [ "operator()", "d0/dad/a09571.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
+    [ "operator()", "d0/dad/a09571.html#ae885f49537043421a92b44c201bec358", null ],
+    [ "operator()", "d0/dad/a09571.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
+    [ "operator()", "d0/dad/a09571.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
+    [ "i_range", "d0/dad/a09571.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
+    [ "i_searchObj", "d0/dad/a09571.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
 ];

@@ -1,6 +1,7 @@
 var a08863 =
 [
-    [ "Reset", "d3/dcf/a08863.html#acccf504073283011dc32b05a5a87b85a", null ],
-    [ "Guid", "d3/dcf/a08863.html#a738a014abc8cb5df525642acc218576b", null ],
-    [ "IsUnselectable", "d3/dcf/a08863.html#a037411c58c414d0c5a39915b7acd578d", null ]
+    [ "ItemPosCount", "d3/dcf/a08863.html#a43458da1fc31d827b6de726754f7901e", null ],
+    [ "isContainedIn", "d3/dcf/a08863.html#a6977c544a2d39ca5872b75f27517974f", null ],
+    [ "count", "d3/dcf/a08863.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
+    [ "pos", "d3/dcf/a08863.html#ad8954f1a6323316510cfe0f332ee495f", null ]
 ];

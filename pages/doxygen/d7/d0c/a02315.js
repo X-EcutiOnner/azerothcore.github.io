@@ -1,15 +1,12 @@
 var a02315 =
 [
-    [ "STR", "d7/d0c/a02315.html#a18d295a837ac71add5578860b55e5502", null ],
-    [ "computeFallElevation", "d7/d0c/a02315.html#a87260372150c8322b45e75bfaa445f14", null ],
-    [ "computeFallTime", "d7/d0c/a02315.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
-    [ "print_flags", "d7/d0c/a02315.html#a189485de5eba32c5b18dbb5c579b60d9", null ],
-    [ "g_MovementFlag_names", "d7/d0c/a02315.html#a2982e1b6388bf8b29797b16969b64173", null ],
-    [ "g_SplineFlag_names", "d7/d0c/a02315.html#aa6a1b38cb6e1507d88f0f45a4820990b", null ],
-    [ "terminal_fallTime", "d7/d0c/a02315.html#aa927e4ada20ca56ce951239357407270", null ],
-    [ "terminal_length", "d7/d0c/a02315.html#a7d1eb637bb6ae4a1859504fb84872808", null ],
-    [ "terminal_safeFall_fallTime", "d7/d0c/a02315.html#a2fc34c9abcc5822e12037c23c2ecbfe0", null ],
-    [ "terminal_safeFall_length", "d7/d0c/a02315.html#a4e816239736800d4508c1fc14e624ddc", null ],
-    [ "terminalSafefallVelocity", "d7/d0c/a02315.html#a654673c77f53f27a80309b050d44d38d", null ],
-    [ "terminalVelocity", "d7/d0c/a02315.html#a98cc74e5667e1057f334f02a28abcb01", null ]
+    [ "WaypointNode", "dd/d78/a10407.html", "dd/d78/a10407" ],
+    [ "WaypointPath", "d7/d12/a10411.html", "d7/d12/a10411" ],
+    [ "WaypointMoveType", "d7/d0c/a02315.html#ac26115060a1cd0169937b206edddd863", [
+      [ "WAYPOINT_MOVE_TYPE_WALK", "d7/d0c/a02315.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff", null ],
+      [ "WAYPOINT_MOVE_TYPE_RUN", "d7/d0c/a02315.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55", null ],
+      [ "WAYPOINT_MOVE_TYPE_LAND", "d7/d0c/a02315.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa", null ],
+      [ "WAYPOINT_MOVE_TYPE_TAKEOFF", "d7/d0c/a02315.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843", null ],
+      [ "WAYPOINT_MOVE_TYPE_MAX", "d7/d0c/a02315.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188", null ]
+    ] ]
 ];

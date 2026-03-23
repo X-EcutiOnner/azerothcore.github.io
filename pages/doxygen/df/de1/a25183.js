@@ -1,6 +1,7 @@
 var a25183 =
 [
-    [ "OnPeriodic", "df/de1/a25183.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "df/de1/a25183.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "df/de1/a25183.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "HandleScript", "df/de1/a25183.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
+    [ "PrepareSpellScript", "df/de1/a25183.html#acf1173670c35c84ae7aba29be00d31cf", null ],
+    [ "Register", "df/de1/a25183.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
+    [ "Validate", "df/de1/a25183.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
 ];

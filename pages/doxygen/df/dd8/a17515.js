@@ -1,6 +1,6 @@
 var a17515 =
 [
-    [ "boss_prince_kelesethAI", "d9/df3/a17519.html", "d9/df3/a17519" ],
-    [ "boss_prince_keleseth_icc", "df/dd8/a17515.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "df/dd8/a17515.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "npc_ball_of_flameAI", "d9/df3/a17519.html", "d9/df3/a17519" ],
+    [ "npc_ball_of_flame", "df/dd8/a17515.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "df/dd8/a17515.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

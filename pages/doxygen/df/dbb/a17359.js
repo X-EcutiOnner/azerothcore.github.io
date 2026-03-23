@@ -1,6 +1,5 @@
 var a17359 =
 [
-    [ "npc_pos_freed_slaveAI", "df/dbb/a17359.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "df/dbb/a17359.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "df/dbb/a17359.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "endPosition", "df/dbb/a17359.html#a8a88b0191d28ef6af8f41db627552602", null ],
+    [ "entry", "df/dbb/a17359.html#ac4e55af666e269440953ced038c1a8de", null ]
 ];

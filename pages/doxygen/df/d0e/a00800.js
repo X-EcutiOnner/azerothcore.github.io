@@ -1,4 +1,4 @@
 var a00800 =
 [
-    [ "WorldMapScript", "d6/d9c/a10677.html", "d6/d9c/a10677" ]
+    [ "lfg::LfgGroupData", "d4/ddb/a08183.html", "d4/ddb/a08183" ]
 ];

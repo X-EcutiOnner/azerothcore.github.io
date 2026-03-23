@@ -1,5 +1,7 @@
 var a00506 =
 [
-    [ "FleeingMovementGenerator< T >", "d5/d49/a10035.html", "d5/d49/a10035" ],
-    [ "TimedFleeingMovementGenerator", "d0/d41/a10039.html", "d0/d41/a10039" ]
+    [ "Acore::Impl::MPSCQueueNonIntrusive< T >", "d1/d19/a05651.html", "d1/d19/a05651" ],
+    [ "Acore::Impl::MPSCQueueNonIntrusive< T >::Node", "dc/d03/a05655.html", "dc/d03/a05655" ],
+    [ "Acore::Impl::MPSCQueueIntrusive< T, IntrusiveLink >", "d7/d33/a05659.html", "d7/d33/a05659" ],
+    [ "MPSCQueue", "d4/d1f/a00506.html#a6443361dced56bb64db991f954b2df47", null ]
 ];

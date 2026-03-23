@@ -1,8 +1,7 @@
 var a08783 =
 [
-    [ "CleanDamage", "d0/db3/a08783.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "d0/db3/a08783.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "d0/db3/a08783.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "d0/db3/a08783.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "d0/db3/a08783.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "IsInSpec", "d0/db3/a08783.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "d0/db3/a08783.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "d0/db3/a08783.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "d0/db3/a08783.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

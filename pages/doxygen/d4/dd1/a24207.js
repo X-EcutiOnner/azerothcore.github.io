@@ -1,7 +1,7 @@
 var a24207 =
 [
-    [ "npc_daranelleAI", "d4/dd1/a24207.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d4/dd1/a24207.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d4/dd1/a24207.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d4/dd1/a24207.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "HandleEffectApply", "d4/dd1/a24207.html#a9923e38a2b5999d932d85be17a50ac83", null ],
+    [ "HandleEffectRemove", "d4/dd1/a24207.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
+    [ "PrepareAuraScript", "d4/dd1/a24207.html#a105df22901477c34757e62a0305006d4", null ],
+    [ "Register", "d4/dd1/a24207.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
 ];

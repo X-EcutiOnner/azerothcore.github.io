@@ -1,10 +1,6 @@
 var a27147 =
 [
-    [ "CheckProc", "de/d8a/a27147.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "de/d8a/a27147.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "de/d8a/a27147.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "de/d8a/a27147.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "de/d8a/a27147.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "de/d8a/a27147.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "de/d8a/a27147.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "HandlePeriodic", "de/d8a/a27147.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
+    [ "PrepareAuraScript", "de/d8a/a27147.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
+    [ "Register", "de/d8a/a27147.html#ac90afe9f5d9d55faba2282a875469311", null ]
 ];

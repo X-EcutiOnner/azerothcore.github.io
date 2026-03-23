@@ -1,10 +1,16 @@
 var a09831 =
 [
-    [ "DoublePosition", "d7/dad/a09835.html", "d7/dad/a09835" ],
-    [ "~AreaBoundary", "d1/ded/a09831.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
-    [ "AreaBoundary", "d1/ded/a09831.html#adf670910c492c08d3384c2dd1824e7ce", null ],
-    [ "IsWithinBoundary", "d1/ded/a09831.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
-    [ "IsWithinBoundary", "d1/ded/a09831.html#a1d407f77ce0388263fc0ee6224734213", null ],
-    [ "IsWithinBoundaryArea", "d1/ded/a09831.html#ae5580b0044dba24d100831fe51ee1abc", null ],
-    [ "_isInvertedBoundary", "d1/ded/a09831.html#ad416f29594688ce670549d6fdcce4314", null ]
+    [ "BankEventLogEntry", "d1/ded/a09831.html#a31275c6a36f7b79d7532345d38a3739b", null ],
+    [ "BankEventLogEntry", "d1/ded/a09831.html#a1a87a93c90b6a0b6766ac46228fd1761", null ],
+    [ "~BankEventLogEntry", "d1/ded/a09831.html#a8033da0f1bd56926bd306e1cbdc1ecb9", null ],
+    [ "IsMoneyEvent", "d1/ded/a09831.html#a9a38b7966bdcc3ec9e871c024c928ce1", null ],
+    [ "IsMoneyEvent", "d1/ded/a09831.html#a49c76ead144b21da7cb1059af54a2482", null ],
+    [ "SaveToDB", "d1/ded/a09831.html#a9010bb7bd849aa6ba25b31596ac30831", null ],
+    [ "WritePacket", "d1/ded/a09831.html#a930223d8596264801d7b0cf04cea62f8", null ],
+    [ "m_bankTabId", "d1/ded/a09831.html#a836df4449b5190b4404482e46a5e5449", null ],
+    [ "m_destTabId", "d1/ded/a09831.html#a57a6aeaae26781df310a2c98fcf7164d", null ],
+    [ "m_eventType", "d1/ded/a09831.html#a180246a8eaca99431383916776a4f7ad", null ],
+    [ "m_itemOrMoney", "d1/ded/a09831.html#a689ea5c40d39fe5dc8a80351c4884b18", null ],
+    [ "m_itemStackCount", "d1/ded/a09831.html#ad4ed0df79ff061a4735538067fa4a372", null ],
+    [ "m_playerGuid", "d1/ded/a09831.html#a3b2127e193ff9f5b54cf6520cd2a2458", null ]
 ];

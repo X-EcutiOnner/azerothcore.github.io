@@ -1,11 +1,9 @@
 var a28347 =
 [
-    [ "icon", "da/def/a28347.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
-    [ "id", "da/def/a28347.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
-    [ "mapId", "da/def/a28347.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
-    [ "worldState", "da/def/a28347.html#a9d745d26316726c861cc5a242f6a4f57", null ],
-    [ "x", "da/def/a28347.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
-    [ "y", "da/def/a28347.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
-    [ "z", "da/def/a28347.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
-    [ "zoneId", "da/def/a28347.html#a0cc33089981237694ca550cba6793a3e", null ]
+    [ "npc_arcanite_dragonling", "da/def/a28347.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "da/def/a28347.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "da/def/a28347.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "da/def/a28347.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "da/def/a28347.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "da/def/a28347.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

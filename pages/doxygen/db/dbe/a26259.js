@@ -1,6 +1,7 @@
 var a26259 =
 [
-    [ "HandleDummy", "db/dbe/a26259.html#a4fde3142b38989cb37db76da6eada03c", null ],
-    [ "PrepareSpellScript", "db/dbe/a26259.html#aa694a1a7cbbe0f20226d7e616e19cefb", null ],
-    [ "Register", "db/dbe/a26259.html#a1f83fae2fb3dc0904ed56101e1254f5f", null ]
+    [ "AfterRemove", "db/dbe/a26259.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
+    [ "PrepareAuraScript", "db/dbe/a26259.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
+    [ "Register", "db/dbe/a26259.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
+    [ "Validate", "db/dbe/a26259.html#ae08f33e0271166afa87208faa30684c4", null ]
 ];

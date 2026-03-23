@@ -1,7 +1,10 @@
 var a09655 =
 [
-    [ "AddonHandler", "dd/d31/a09655.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "dd/d31/a09655.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "dd/d31/a09655.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "dd/d31/a09655.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "AnyAoETargetUnitInObjectRangeCheck", "dd/d31/a09655.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
+    [ "operator()", "dd/d31/a09655.html#af9a0c32593544a73aae22cd397eef63a", null ],
+    [ "_spellInfo", "dd/d31/a09655.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
+    [ "i_funit", "dd/d31/a09655.html#aa00b184a24ea73293114f92126f58f24", null ],
+    [ "i_obj", "dd/d31/a09655.html#aa4acf0089c978408e30b08d539f2512f", null ],
+    [ "i_range", "dd/d31/a09655.html#ad386efa8206906fd99816694a6a8d69b", null ],
+    [ "i_targetForPlayer", "dd/d31/a09655.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
 ];

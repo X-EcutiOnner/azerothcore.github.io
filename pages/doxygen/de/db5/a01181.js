@@ -1,9 +1,15 @@
 var a01181 =
 [
-    [ "DynamicObject", "d4/d81/a08380.html", "d4/d81/a08380" ],
-    [ "DynamicObjectType", "de/db5/a01181.html#aee85c2f840289bcf773609333ee91131", [
-      [ "DYNAMIC_OBJECT_PORTAL", "de/db5/a01181.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
-      [ "DYNAMIC_OBJECT_AREA_SPELL", "de/db5/a01181.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
-      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "de/db5/a01181.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
+    [ "TempSummonData", "d0/dfa/a08383.html", "d0/dfa/a08383" ],
+    [ "GameObjectSummonData", "d3/d9a/a08387.html", "d3/d9a/a08387" ],
+    [ "TempSummon", "d1/d09/a08391.html", "d1/d09/a08391" ],
+    [ "Minion", "d7/dd6/a08395.html", "d7/dd6/a08395" ],
+    [ "Guardian", "d4/d5f/a08399.html", "d4/d5f/a08399" ],
+    [ "Puppet", "de/db2/a08403.html", "de/db2/a08403" ],
+    [ "ForcedUnsummonDelayEvent", "d6/db9/a08407.html", "d6/db9/a08407" ],
+    [ "SummonerType", "de/db5/a01181.html#ac8a8d6d0515f6d559068f8aaae56e188", [
+      [ "SUMMONER_TYPE_CREATURE", "de/db5/a01181.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a", null ],
+      [ "SUMMONER_TYPE_GAMEOBJECT", "de/db5/a01181.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347", null ],
+      [ "SUMMONER_TYPE_MAP", "de/db5/a01181.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270", null ]
     ] ]
 ];

@@ -1,7 +1,6 @@
 var a27795 =
 [
-    [ "npc_riggle_bassbaitAI", "d2/dd9/a27795.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d2/dd9/a27795.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d2/dd9/a27795.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d2/dd9/a27795.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d2/dd9/a27795.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d2/dd9/a27795.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d2/dd9/a27795.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

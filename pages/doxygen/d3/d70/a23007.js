@@ -1,7 +1,13 @@
 var a23007 =
 [
-    [ "HandleOnEffectApply", "d3/d70/a23007.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
-    [ "HandleOnEffectRemove", "d3/d70/a23007.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
-    [ "PrepareAuraScript", "d3/d70/a23007.html#a45df29f911b1232e306e04a182648904", null ],
-    [ "Register", "d3/d70/a23007.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
+    [ "npc_earthen_ring_flamecaller", "d3/d70/a23007.html#ab402dd321fa0df641b674324386d7591", null ],
+    [ "DoAction", "d3/d70/a23007.html#af745c83529a34a89c430d6113703fff5", null ],
+    [ "LookOpening", "d3/d70/a23007.html#adfc752e7700a816b66b639007a1a90fa", null ],
+    [ "MovementInform", "d3/d70/a23007.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
+    [ "Reset", "d3/d70/a23007.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
+    [ "SpellHit", "d3/d70/a23007.html#ab9c5ad7e56033997042031566748ee2b", null ],
+    [ "UpdateAI", "d3/d70/a23007.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
+    [ "_events", "d3/d70/a23007.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
+    [ "_instance", "d3/d70/a23007.html#a79aa6e628a50ed485cc55513c28362dc", null ],
+    [ "_mySpot", "d3/d70/a23007.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
 ];

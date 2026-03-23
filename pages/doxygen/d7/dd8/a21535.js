@@ -1,10 +1,12 @@
 var a21535 =
 [
-    [ "npc_erekem_guardAI", "d7/dd8/a21535.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
-    [ "JustEngagedWith", "d7/dd8/a21535.html#a93819c5c76821b1c9559be55359d677e", null ],
-    [ "MoveInLineOfSight", "d7/dd8/a21535.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
-    [ "Reset", "d7/dd8/a21535.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
-    [ "UpdateAI", "d7/dd8/a21535.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
-    [ "events", "d7/dd8/a21535.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
-    [ "pInstance", "d7/dd8/a21535.html#a81985b8522111f2aae540353cd5641fe", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d7/dd8/a21535.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
+    [ "Activate", "d7/dd8/a21535.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
+    [ "AttackStart", "d7/dd8/a21535.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
+    [ "CanAIAttack", "d7/dd8/a21535.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
+    [ "Deactivate", "d7/dd8/a21535.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
+    [ "DoAction", "d7/dd8/a21535.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
+    [ "JustDied", "d7/dd8/a21535.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
+    [ "JustRespawned", "d7/dd8/a21535.html#ab30068f7082176c279e0667f72d750a3", null ],
+    [ "Reset", "d7/dd8/a21535.html#ad94a4789b5ba019d021682f15df13589", null ]
 ];

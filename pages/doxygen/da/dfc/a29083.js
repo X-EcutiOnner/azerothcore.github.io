@@ -1,13 +1,8 @@
 var a29083 =
 [
-    [ "liquidTris", "da/dfc/a29083.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
-    [ "liquidType", "da/dfc/a29083.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
-    [ "liquidVerts", "da/dfc/a29083.html#a52796933ab018f27d12f625673f7f8a9", null ],
-    [ "offMeshConnectionDirs", "da/dfc/a29083.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
-    [ "offMeshConnectionRads", "da/dfc/a29083.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
-    [ "offMeshConnections", "da/dfc/a29083.html#a706feac90bb398da61296bac9d0b7176", null ],
-    [ "offMeshConnectionsAreas", "da/dfc/a29083.html#af5af113433bb2776e6735195e57ab6f7", null ],
-    [ "offMeshConnectionsFlags", "da/dfc/a29083.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
-    [ "solidTris", "da/dfc/a29083.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
-    [ "solidVerts", "da/dfc/a29083.html#a915387c2cfa7111de4a957646a2aace4", null ]
+    [ "NoRuneCost", "da/dfc/a29083.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "da/dfc/a29083.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "da/dfc/a29083.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "da/dfc/a29083.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "da/dfc/a29083.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

@@ -1,10 +1,6 @@
 var a02663 =
 [
-    [ "UpdateException", "df/d91/a06133.html", "df/d91/a06133" ],
-    [ "DBUpdaterUtil", "db/df7/a06137.html", "db/df7/a06137" ],
-    [ "DBUpdater< T >", "dd/d73/a06141.html", "dd/d73/a06141" ],
-    [ "BaseLocation", "db/d86/a02663.html#a0c382fe144b0dc101a8b2b9d4ef51010", [
-      [ "LOCATION_REPOSITORY", "db/d86/a02663.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550", null ],
-      [ "LOCATION_DOWNLOAD", "db/d86/a02663.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c", null ]
-    ] ]
+    [ "DatabaseWorkerPool< T >", "d0/d22/a05963.html", "d0/d22/a05963" ],
+    [ "MIN_MYSQL_CLIENT_VERSION", "db/d86/a02663.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
+    [ "MIN_MYSQL_SERVER_VERSION", "db/d86/a02663.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
 ];

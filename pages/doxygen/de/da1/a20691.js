@@ -1,6 +1,6 @@
 var a20691 =
 [
-    [ "npc_ulduar_flames_initialAI", "d6/d30/a20695.html", "d6/d30/a20695" ],
-    [ "npc_ulduar_flames_initial", "de/da1/a20691.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "de/da1/a20691.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "FilterTargets", "de/da1/a20691.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "de/da1/a20691.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "de/da1/a20691.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

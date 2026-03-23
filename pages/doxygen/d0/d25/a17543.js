@@ -1,11 +1,7 @@
 var a17543 =
 [
-    [ "npc_blood_queen_lana_thelAI", "d0/d25/a17543.html#a7b099b90600e433e304dee1f356a9909", null ],
-    [ "MoveInLineOfSight", "d0/d25/a17543.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
-    [ "MovementInform", "d0/d25/a17543.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
-    [ "Reset", "d0/d25/a17543.html#a539b0e158c800e1aade54f37aa99751e", null ],
-    [ "UpdateAI", "d0/d25/a17543.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
-    [ "_events", "d0/d25/a17543.html#a8ec7641bab991fc584b066fae55690bf", null ],
-    [ "_instance", "d0/d25/a17543.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
-    [ "_introDone", "d0/d25/a17543.html#a40c642758a751e072e41343bb75ad306", null ]
+    [ "HandleScript", "d0/d25/a17543.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "d0/d25/a17543.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "d0/d25/a17543.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "d0/d25/a17543.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

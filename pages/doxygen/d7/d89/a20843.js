@@ -1,10 +1,10 @@
 var a20843 =
 [
-    [ "boss_thorim_sif_blizzardAI", "d7/d89/a20843.html#a99d1c529126452e580ebc7e3e513b367", null ],
-    [ "AttackStart", "d7/d89/a20843.html#a1f05551f323fa410a699497f3875b21f", null ],
-    [ "InitWaypoint", "d7/d89/a20843.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
-    [ "JustEngagedWith", "d7/d89/a20843.html#a9fea5617dccb493c7af435c485462ff3", null ],
-    [ "MoveInLineOfSight", "d7/d89/a20843.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
-    [ "Reset", "d7/d89/a20843.html#a193ba575c4f3f16d850e56f12f190c77", null ],
-    [ "WaypointReached", "d7/d89/a20843.html#a961f90068f25d81f55159763fe2677f8", null ]
+    [ "npc_enslaved_proto_drake", "d7/d89/a20843.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "d7/d89/a20843.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "d7/d89/a20843.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "d7/d89/a20843.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "d7/d89/a20843.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "d7/d89/a20843.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "d7/d89/a20843.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

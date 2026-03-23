@@ -1,7 +1,6 @@
 var a11811 =
 [
-    [ "map", "d9/d91/a11811.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
-    [ "pallid", "d9/d91/a11811.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
-    [ "pallidGuid", "d9/d91/a11811.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
-    [ "zoneId", "d9/d91/a11811.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
+    [ "ObjectTargetSelectHandler", "d9/d91/a11811.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
+    [ "Call", "d9/d91/a11811.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
+    [ "pObjectTargetSelectHandlerScript", "d9/d91/a11811.html#a6982985537c0ddb8dd79647766c9ae70", null ]
 ];

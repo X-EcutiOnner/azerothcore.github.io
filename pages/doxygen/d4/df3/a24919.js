@@ -1,6 +1,7 @@
 var a24919 =
 [
-    [ "CheckCast", "d4/df3/a24919.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "d4/df3/a24919.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "d4/df3/a24919.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "HandleEffectApply", "d4/df3/a24919.html#a97a639459622c9e3e995057989cf9eda", null ],
+    [ "HandleEffectRemove", "d4/df3/a24919.html#a7477bb78ffcc082c111bad4e93b9fd73", null ],
+    [ "PrepareAuraScript", "d4/df3/a24919.html#aa3c4018e18eccd8f12e4607f4bc630ec", null ],
+    [ "Register", "d4/df3/a24919.html#a40793c696a759db4920c4c34f5b9fa66", null ]
 ];

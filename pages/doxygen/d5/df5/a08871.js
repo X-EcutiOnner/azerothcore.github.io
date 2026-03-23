@@ -1,8 +1,8 @@
 var a08871 =
 [
-    [ "VehicleSeat", "d5/df5/a08871.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
-    [ "IsEmpty", "d5/df5/a08871.html#a9f68076857cb85ee7679f04043acdedc", null ],
-    [ "Passenger", "d5/df5/a08871.html#ac334f2f573bf52f164d570f8b83fc197", null ],
-    [ "SeatAddon", "d5/df5/a08871.html#a3c46401aa5859287e4bcb24141c848cc", null ],
-    [ "SeatInfo", "d5/df5/a08871.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
+    [ "checkLeaderOnly", "d5/df5/a08871.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
+    [ "faction", "d5/df5/a08871.html#a23c649e494795b27856b67225370a820", null ],
+    [ "id", "d5/df5/a08871.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
+    [ "note", "d5/df5/a08871.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
+    [ "priority", "d5/df5/a08871.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
 ];

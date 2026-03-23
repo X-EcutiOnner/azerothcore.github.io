@@ -1,8 +1,6 @@
 var a22851 =
 [
-    [ "boss_pandemonius", "d1/df4/a22851.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d1/df4/a22851.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d1/df4/a22851.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d1/df4/a22851.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d1/df4/a22851.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "OnPeriodic", "d1/df4/a22851.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
+    [ "PrepareAuraScript", "d1/df4/a22851.html#ac9231c238adf7e733d55bc6098daddc0", null ],
+    [ "Register", "d1/df4/a22851.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
 ];

@@ -1,6 +1,7 @@
 var a19987 =
 [
-    [ "npc_assembly_lightningAI", "d5/d96/a19991.html", "d5/d96/a19991" ],
-    [ "npc_assembly_lightning", "d2/d43/a19987.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
-    [ "GetAI", "d2/d43/a19987.html#a4054ea8bb68b2742847b359e19b477df", null ]
+    [ "npc_storm_beacon_spawn", "d2/d43/a19987.html#a999b6421a0ef6eec2987716a60352a5e", null ],
+    [ "UpdateAI", "d2/d43/a19987.html#a93dbd7a26d6333f18329142280cc743d", null ],
+    [ "_amount", "d2/d43/a19987.html#acb5d1f2b6590da32f36882339729c4e9", null ],
+    [ "_checkTimer", "d2/d43/a19987.html#a9717b52f26045707fd852b955d29a5e6", null ]
 ];

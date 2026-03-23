@@ -1,10 +1,8 @@
 var a21631 =
 [
-    [ "npc_azure_invaderAI", "dd/d41/a21631.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "dd/d41/a21631.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "dd/d41/a21631.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "dd/d41/a21631.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "dd/d41/a21631.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "dd/d41/a21631.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "dd/d41/a21631.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "npc_ravenous_worgAI", "dd/d41/a21631.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "dd/d41/a21631.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "dd/d41/a21631.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "dd/d41/a21631.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "dd/d41/a21631.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

@@ -1,11 +1,12 @@
 var a01853 =
 [
-    [ "BanMgr", "de/d6a/a10157.html", "de/d6a/a10157" ],
-    [ "sBan", "db/d6b/a01853.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
-    [ "BanReturn", "db/d6b/a01853.html#a4dd4670ead55e2780d09a66ab39943a7", [
-      [ "BAN_SUCCESS", "db/d6b/a01853.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
-      [ "BAN_SYNTAX_ERROR", "db/d6b/a01853.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
-      [ "BAN_NOTFOUND", "db/d6b/a01853.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
-      [ "BAN_LONGER_EXISTS", "db/d6b/a01853.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
-    ] ]
+    [ "Elapsed", "db/d6b/a01853.html#af9a7dcb5dfa331445f56900767b13e8b", null ],
+    [ "GetGameTime", "db/d6b/a01853.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
+    [ "GetGameTimeMS", "db/d6b/a01853.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
+    [ "GetStartTime", "db/d6b/a01853.html#a872d34d3f9d420cfc749073c809931f9", null ],
+    [ "GetSystemTime", "db/d6b/a01853.html#a443eccf314fe436192278d425d6d8220", null ],
+    [ "GetUptime", "db/d6b/a01853.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+    [ "HasElapsed", "db/d6b/a01853.html#a6acb8998bc9dae720531cb39082262f2", null ],
+    [ "Now", "db/d6b/a01853.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
+    [ "UpdateGameTimers", "db/d6b/a01853.html#a45712735241c9563a12fc3da54fb144d", null ]
 ];

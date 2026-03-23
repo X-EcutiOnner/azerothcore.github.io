@@ -1,6 +1,6 @@
 var a22323 =
 [
-    [ "ChangeSummonPos", "db/dda/a22323.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "db/dda/a22323.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "db/dda/a22323.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d8/d3e/a22327.html", "d8/d3e/a22327" ],
+    [ "instance_auchenai_crypts", "db/dda/a22323.html#a8b16924167c54a9d8120bac67bc10fed", null ],
+    [ "GetInstanceScript", "db/dda/a22323.html#a99e47df95fde07d4a6e7687634805b93", null ]
 ];

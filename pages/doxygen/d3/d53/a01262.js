@@ -1,5 +1,6 @@
 var a01262 =
 [
-    [ "_ModifyUInt32", "d3/d53/a01262.html#ab53d40bc3b1cf5c14440f3e212aa4f08", null ],
-    [ "m_diminishing_k", "d3/d53/a01262.html#a826ceb2644eb2661137e2983dd779164", null ]
+    [ "ObjectVisibilityContainer", "d5/d74/a08723.html", "d5/d74/a08723" ],
+    [ "VisiblePlayersMap", "d3/d53/a01262.html#a52b38df575afa7eef8fb58759ee03bd8", null ],
+    [ "VisibleWorldObjectsMap", "d3/d53/a01262.html#a6fe979433a4dd2c9023626ecc74bf6a5", null ]
 ];

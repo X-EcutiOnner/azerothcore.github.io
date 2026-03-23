@@ -1,12 +1,11 @@
 var a16095 =
 [
-    [ "npc_taldaram_flamesphere", "df/d8d/a16095.html#aad7d6696b54e39c6abd27a7252353360", null ],
-    [ "DoAction", "df/d8d/a16095.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
-    [ "IsSummonedBy", "df/d8d/a16095.html#acb232931bc181eedf4b39d5519dd45e2", null ],
-    [ "JustDied", "df/d8d/a16095.html#ae6dfff3df39257c55495707934d5d38b", null ],
-    [ "SetVictimPos", "df/d8d/a16095.html#a51f1683806095c760d4accff9e23f8b6", null ],
-    [ "UpdateAI", "df/d8d/a16095.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
-    [ "instance", "df/d8d/a16095.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
-    [ "moveTimer", "df/d8d/a16095.html#afe50ac59ec441ab11745ca9461158a00", null ],
-    [ "victimPos", "df/d8d/a16095.html#ae681d84f2324faf22296dcb6e08484b0", null ]
+    [ "boss_amanitar", "df/d8d/a16095.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "df/d8d/a16095.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "JustDied", "df/d8d/a16095.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "df/d8d/a16095.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "Reset", "df/d8d/a16095.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDespawn", "df/d8d/a16095.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
+    [ "SummonMushroom", "df/d8d/a16095.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "df/d8d/a16095.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
 ];

@@ -1,6 +1,7 @@
 var a18939 =
 [
-    [ "npc_arthas_teleport_visualAI", "d8/d01/a18943.html", "d8/d01/a18943" ],
-    [ "npc_arthas_teleport_visual", "d1/de6/a18939.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
-    [ "GetAI", "d1/de6/a18939.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
+    [ "HandleScript", "d1/de6/a18939.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "d1/de6/a18939.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "d1/de6/a18939.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "d1/de6/a18939.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

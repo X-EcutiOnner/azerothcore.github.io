@@ -1,6 +1,6 @@
 var a14343 =
 [
-    [ "LaunchHit", "d1/d71/a14343.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "d1/d71/a14343.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "d1/d71/a14343.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "HandleOnHit", "d1/d71/a14343.html#a76b09288d14d399735250607e2105eb3", null ],
+    [ "PrepareSpellScript", "d1/d71/a14343.html#a2270ce546ae286ffa701d094df591aa2", null ],
+    [ "Register", "d1/d71/a14343.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
 ];

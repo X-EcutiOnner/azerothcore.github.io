@@ -1,11 +1,10 @@
 var a20647 =
 [
-    [ "npc_ulduar_proximity_mineAI", "d0/d4b/a20647.html#aa3001a71c8a298be688631d618745495", null ],
-    [ "AttackStart", "d0/d4b/a20647.html#afe5572c8fd1f8acc64ca57304d8be254", null ],
-    [ "CanAIAttack", "d0/d4b/a20647.html#a0216f41bf596eb43a9b9eea13152d262", null ],
-    [ "MoveInLineOfSight", "d0/d4b/a20647.html#afe07e3cd341d6a84592ab9b33e02d6d5", null ],
-    [ "UpdateAI", "d0/d4b/a20647.html#adadc4c33ff356bd5eed6d82115dc888a", null ],
-    [ "exploded", "d0/d4b/a20647.html#a1706ff0cfd7192040c32f13a37610c43", null ],
-    [ "timer", "d0/d4b/a20647.html#a4c743646055b4c95bf379a751eb5892e", null ],
-    [ "timer2", "d0/d4b/a20647.html#a446b7658fa4c165f43947a05562827b2", null ]
+    [ "boss_yoggsaron_immortal_guardian", "d0/d4b/a20647.html#af282d41a1ee71c15bb51e03bebd97486", null ],
+    [ "DamageTaken", "d0/d4b/a20647.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "Reset", "d0/d4b/a20647.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "d0/d4b/a20647.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "d0/d4b/a20647.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spellTimer", "d0/d4b/a20647.html#a521b956c116a23523fdfceb95a42c1e2", null ],
+    [ "_visualTimer", "d0/d4b/a20647.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
 ];

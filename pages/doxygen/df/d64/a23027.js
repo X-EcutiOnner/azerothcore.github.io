@@ -1,8 +1,7 @@
 var a23027 =
 [
-    [ "HandleScriptEffect", "df/d64/a23027.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "df/d64/a23027.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "df/d64/a23027.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "df/d64/a23027.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "df/d64/a23027.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "PeriodicTick", "df/d64/a23027.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "df/d64/a23027.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "df/d64/a23027.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "df/d64/a23027.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

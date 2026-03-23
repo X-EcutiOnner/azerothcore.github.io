@@ -1,6 +1,6 @@
 var a21463 =
 [
-    [ "boss_koralonAI", "d5/d01/a21467.html", "d5/d01/a21467" ],
-    [ "boss_koralon", "d2/dbb/a21463.html#a43b9fb1224abeba44080fb02062451b0", null ],
-    [ "GetAI", "d2/dbb/a21463.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
+    [ "npc_mindless_ghoulAI", "d2/dbb/a21463.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "d2/dbb/a21463.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "d2/dbb/a21463.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

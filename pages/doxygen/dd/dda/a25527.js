@@ -1,7 +1,7 @@
 var a25527 =
 [
-    [ "HandleScript", "dd/dda/a25527.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
-    [ "PrepareSpellScript", "dd/dda/a25527.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
-    [ "Register", "dd/dda/a25527.html#a984b2af5268fbf294a0292502b8ddb44", null ],
-    [ "Validate", "dd/dda/a25527.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
+    [ "HandleScriptEffect", "dd/dda/a25527.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "dd/dda/a25527.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "dd/dda/a25527.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "dd/dda/a25527.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

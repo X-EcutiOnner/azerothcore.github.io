@@ -1,6 +1,6 @@
 var a17259 =
 [
-    [ "boss_ickAI", "dd/d4a/a17263.html", "dd/d4a/a17263" ],
-    [ "boss_ick", "d3/d26/a17259.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d3/d26/a17259.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "npc_pos_leaderAI", "dd/d4a/a17263.html", "dd/d4a/a17263" ],
+    [ "npc_pos_leader", "d3/d26/a17259.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "d3/d26/a17259.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

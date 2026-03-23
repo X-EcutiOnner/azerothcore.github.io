@@ -1,7 +1,5 @@
 var a12555 =
 [
-    [ "HandlePeriodic", "d5/d63/a12555.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "d5/d63/a12555.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "d5/d63/a12555.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "d5/d63/a12555.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "at_trigger_the_beast_movement", "d5/d63/a12555.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "d5/d63/a12555.html#a333d685d765497a950fde35067d876a1", null ]
 ];

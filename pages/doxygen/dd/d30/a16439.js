@@ -1,6 +1,7 @@
 var a16439 =
 [
-    [ "npc_living_infernoAI", "d0/ded/a16443.html", "d0/ded/a16443" ],
-    [ "npc_living_inferno", "dd/d30/a16439.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "dd/d30/a16439.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "OnApply", "dd/d30/a16439.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
+    [ "PrepareAuraScript", "dd/d30/a16439.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
+    [ "Register", "dd/d30/a16439.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
+    [ "Validate", "dd/d30/a16439.html#a2c9e4d82bd25f439e01a05700563b122", null ]
 ];

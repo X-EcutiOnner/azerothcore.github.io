@@ -1,8 +1,11 @@
 var a08671 =
 [
-    [ "checkLeaderOnly", "db/d3b/a08671.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "db/d3b/a08671.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "db/d3b/a08671.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "db/d3b/a08671.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "db/d3b/a08671.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "MovableMapObject", "db/d3b/a08671.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
+    [ "GetCurrentCell", "db/d3b/a08671.html#a6d7d87cff5f00f3b370584675caf7870", null ],
+    [ "SetCurrentCell", "db/d3b/a08671.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
+    [ "Map", "db/d3b/a08671.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "ObjectGridLoader", "db/d3b/a08671.html#a9551c85ae0e43e4d212225c643da2262", null ],
+    [ "RandomMovementGenerator", "db/d3b/a08671.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
+    [ "_currentCell", "db/d3b/a08671.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
+    [ "_moveState", "db/d3b/a08671.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
 ];

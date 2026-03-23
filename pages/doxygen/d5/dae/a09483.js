@@ -1,10 +1,9 @@
 var a09483 =
 [
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d5/dae/a09483.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d5/dae/a09483.html#a1e25384d08beeee84d83e401f5a5a565", null ],
-    [ "operator()", "d5/dae/a09483.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
-    [ "i_alive", "d5/dae/a09483.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
-    [ "i_entry", "d5/dae/a09483.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
-    [ "i_obj", "d5/dae/a09483.html#aa0340c79c37f3494b01c52f034705aa4", null ],
-    [ "i_range", "d5/dae/a09483.html#a695af00612b17e0182ad76a5c3be2356", null ]
+    [ "InserterType", "d5/dae/a09483.html#a8ea29aedfb1eaf2b3eac29bc61849319", null ],
+    [ "ContainerInserter", "d5/dae/a09483.html#a44cd545e2965b309c48d40f4617bc38e", null ],
+    [ "Insert", "d5/dae/a09483.html#af482d9f7940d548193fc56839bc2cb87", null ],
+    [ "InserterOf", "d5/dae/a09483.html#a003318d4ec066ca45d79ec5b669cdb8c", null ],
+    [ "inserter", "d5/dae/a09483.html#ac10b2769f02687260efd531af666fbb3", null ],
+    [ "ref", "d5/dae/a09483.html#a60d4a9120523c28d8c408c981305535e", null ]
 ];

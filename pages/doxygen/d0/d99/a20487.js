@@ -1,5 +1,8 @@
 var a20487 =
 [
-    [ "achievement_cheese_the_freeze", "d0/d99/a20487.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "d0/d99/a20487.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "boss_thorim_pillar", "d0/d99/a20487.html#aec2fc6e420499c9ce991753b912bef1e", null ],
+    [ "Reset", "d0/d99/a20487.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
+    [ "SpellHit", "d0/d99/a20487.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
+    [ "UpdateAI", "d0/d99/a20487.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
+    [ "_resetTimer", "d0/d99/a20487.html#ac9c8ef8622496593b5f91611d22120b3", null ]
 ];

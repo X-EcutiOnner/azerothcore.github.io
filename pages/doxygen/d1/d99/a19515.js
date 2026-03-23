@@ -1,10 +1,14 @@
 var a19515 =
 [
-    [ "npc_scion_of_eternityAI", "d1/d99/a19515.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
-    [ "AttackStart", "d1/d99/a19515.html#a1335f9e34ff73d5501455062be025ada", null ],
-    [ "JustDied", "d1/d99/a19515.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
-    [ "MoveInLineOfSight", "d1/d99/a19515.html#a74a69fa532f0921285ef678bbd2fa761", null ],
-    [ "UpdateAI", "d1/d99/a19515.html#adb16afb6ea1583a7156b80a8d833951a", null ],
-    [ "events", "d1/d99/a19515.html#ae0e194a24a14033a499e68524da1699d", null ],
-    [ "pInstance", "d1/d99/a19515.html#aa828ca4a75696645d7aa350f1f981f40", null ]
+    [ "boss_keristrasza", "d1/d99/a19515.html#a5f83fee9a5616751601f0c1155afab36", null ],
+    [ "CanRemovePrison", "d1/d99/a19515.html#a900a4a8428a04b880462b20196e94858", null ],
+    [ "GetData", "d1/d99/a19515.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
+    [ "JustDied", "d1/d99/a19515.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
+    [ "JustEngagedWith", "d1/d99/a19515.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
+    [ "KilledUnit", "d1/d99/a19515.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
+    [ "RemovePrison", "d1/d99/a19515.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
+    [ "Reset", "d1/d99/a19515.html#a13dce974fa83577397a80ff52de5d835", null ],
+    [ "SetData", "d1/d99/a19515.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
+    [ "UpdateAI", "d1/d99/a19515.html#a46a2e61e27cc72710c7aa14212673eae", null ],
+    [ "aGuids", "d1/d99/a19515.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
 ];

@@ -1,19 +1,11 @@
 var a05407 =
 [
-    [ "Appender", "dc/d06/a05407.html#aed555d5a182fefce9bb570201e9f005f", null ],
-    [ "~Appender", "dc/d06/a05407.html#a7194b4ff5130399352c356852023004d", null ],
-    [ "_write", "dc/d06/a05407.html#a04e6bf8aca909a3fbadcd053dda85b83", null ],
-    [ "getFlags", "dc/d06/a05407.html#a57fad2f7bd4da733633051f47efd6555", null ],
-    [ "getId", "dc/d06/a05407.html#a643046505390b3988572c53051d7d4c1", null ],
-    [ "getLogLevel", "dc/d06/a05407.html#a0013fabdf34579153a2d145fdbd8009b", null ],
-    [ "getLogLevelString", "dc/d06/a05407.html#aa0ec99ab59463bfe249b64e5f9a7645d", null ],
-    [ "getName", "dc/d06/a05407.html#a8414d7de4187a3deb55024278734836f", null ],
-    [ "getType", "dc/d06/a05407.html#a0efa3e131b7c130a9ece375135682ea4", null ],
-    [ "setLogLevel", "dc/d06/a05407.html#ae6c4e7120a54b7069e157fe9a397d455", null ],
-    [ "setRealmId", "dc/d06/a05407.html#ae13f18ba2b26260f64aedc1ce1806fef", null ],
-    [ "write", "dc/d06/a05407.html#a33d9f53e1853633d15c78f4edc33e5d3", null ],
-    [ "flags", "dc/d06/a05407.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd", null ],
-    [ "id", "dc/d06/a05407.html#a2cf4849307b65727645d3caf4205064f", null ],
-    [ "level", "dc/d06/a05407.html#a2dd9209b754c6676ef86f1a6f7f2295f", null ],
-    [ "name", "dc/d06/a05407.html#a0d47660ee41c8816342001825f626a8b", null ]
+    [ "AuthCrypt", "dc/d06/a05407.html#a8c5239631bd6cf700059af31f04126a3", null ],
+    [ "DecryptRecv", "dc/d06/a05407.html#a552bd409afb5fcda8a11627ccb20e4b0", null ],
+    [ "EncryptSend", "dc/d06/a05407.html#a385fe62742cdbbf62725ace616a06b37", null ],
+    [ "Init", "dc/d06/a05407.html#ac76e9a59dc6bcef074e3213cecb4c7b8", null ],
+    [ "IsInitialized", "dc/d06/a05407.html#a911330ec40c0ca881af2f0c6fd6b0fef", null ],
+    [ "_clientDecrypt", "dc/d06/a05407.html#ae67fcb84288ebd120ad71bedc52086c2", null ],
+    [ "_initialized", "dc/d06/a05407.html#a99de2f8dd625cef94d70eeddefc9ac5c", null ],
+    [ "_serverEncrypt", "dc/d06/a05407.html#af30b0691f7089d52c2fbd9c5b9f52e68", null ]
 ];

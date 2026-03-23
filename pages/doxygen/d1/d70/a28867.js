@@ -1,12 +1,6 @@
 var a28867 =
 [
-    [ "TestVisibilityScript", "d1/d70/a28867.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "d1/d70/a28867.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "d1/d70/a28867.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "d1/d70/a28867.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "d1/d70/a28867.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "d1/d70/a28867.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "d1/d70/a28867.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "d1/d70/a28867.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "d1/d70/a28867.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "color", "d1/d70/a28867.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "d1/d70/a28867.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "d1/d70/a28867.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

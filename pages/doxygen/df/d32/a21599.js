@@ -1,6 +1,8 @@
 var a21599 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "d5/d1a/a21603.html", "d5/d1a/a21603" ],
-    [ "instance_violet_hold", "df/d32/a21599.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "df/d32/a21599.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
+    [ "OnRemove", "df/d32/a21599.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "df/d32/a21599.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "df/d32/a21599.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "df/d32/a21599.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "df/d32/a21599.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

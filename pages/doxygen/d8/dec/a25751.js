@@ -1,6 +1,9 @@
 var a25751 =
 [
-    [ "HandleItemRemove", "d8/dec/a25751.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "d8/dec/a25751.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "d8/dec/a25751.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "CheckProc", "d8/dec/a25751.html#a185159a5c83e8c65ef5b82f49a89dd8a", null ],
+    [ "HandleProc", "d8/dec/a25751.html#a67db21e0293f336a31bf518c0fac85d1", null ],
+    [ "OnRemove", "d8/dec/a25751.html#a1b51483738d5d3b73f50a78ef9fc1c57", null ],
+    [ "PrepareAuraScript", "d8/dec/a25751.html#a3e549b8764c0f8efc5d110543c9944c7", null ],
+    [ "Register", "d8/dec/a25751.html#abc4b88f104253b2b141ab0e3e22ee338", null ],
+    [ "Validate", "d8/dec/a25751.html#a0b5b97081b7c897d451ef70c810bd7f1", null ]
 ];

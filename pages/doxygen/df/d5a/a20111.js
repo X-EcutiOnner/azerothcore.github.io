@@ -1,15 +1,6 @@
 var a20111 =
 [
-    [ "npc_mimirons_infernoAI", "df/d5a/a20111.html#ae412b49c76e76b322e779665d895080f", null ],
-    [ "AttackStart", "df/d5a/a20111.html#a5676eb2a790be80e539dd71a3b8e140a", null ],
-    [ "DoAction", "df/d5a/a20111.html#a499301a57e57a54aa8f1249c12247be7", null ],
-    [ "JustSummoned", "df/d5a/a20111.html#a586f15a02d77ed6831eb787e2bdf477c", null ],
-    [ "MoveInLineOfSight", "df/d5a/a20111.html#a6ae48c92d9fec13d66c445a2176b58eb", null ],
-    [ "Reset", "df/d5a/a20111.html#adf35df754ce212e9937f4b7833b81bf6", null ],
-    [ "SummonedCreatureDespawn", "df/d5a/a20111.html#a8019ef0c505c6b71a44da13ed0dd081b", null ],
-    [ "UpdateAI", "df/d5a/a20111.html#a661199c38d5bce921632191132767c32", null ],
-    [ "WaypointReached", "df/d5a/a20111.html#a9619ab9bb68a3da71a6c78e4092632f4", null ],
-    [ "_recastTimer", "df/d5a/a20111.html#ad6f7e7f6a745ba9b7b860030a9a22e9a", null ],
-    [ "_spellTimer", "df/d5a/a20111.html#adc8ed31e1d0d2aac5bd75391b21b7bfb", null ],
-    [ "summons", "df/d5a/a20111.html#ad3a5853ee86922f5854ddf757dada8e9", null ]
+    [ "achievement_freya_knock_on_wood", "df/d5a/a20111.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "df/d5a/a20111.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "df/d5a/a20111.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

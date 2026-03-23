@@ -1,7 +1,8 @@
 var a27203 =
 [
-    [ "OnProc", "d5/d52/a27203.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d5/d52/a27203.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d5/d52/a27203.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d5/d52/a27203.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "CheckFireTotem", "d5/d52/a27203.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d5/d52/a27203.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d5/d52/a27203.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d5/d52/a27203.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d5/d52/a27203.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

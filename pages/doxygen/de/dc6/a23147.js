@@ -1,12 +1,7 @@
 var a23147 =
 [
-    [ "boss_essence_of_angerAI", "de/dc6/a23147.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "de/dc6/a23147.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "de/dc6/a23147.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "de/dc6/a23147.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "de/dc6/a23147.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "de/dc6/a23147.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "de/dc6/a23147.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "_recentlySpoken", "de/dc6/a23147.html#a056aa8fd704d832e83735cf2a1a22888", null ],
-    [ "targetGUID", "de/dc6/a23147.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "HandleScript", "de/dc6/a23147.html#a8933535f9507b90b54032c17985cc3c6", null ],
+    [ "PrepareSpellScript", "de/dc6/a23147.html#acadb563eaeffac47b3f883f9d8c37994", null ],
+    [ "Register", "de/dc6/a23147.html#a797ae84dcb0fc13b0799934bde71809c", null ],
+    [ "Validate", "de/dc6/a23147.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
 ];

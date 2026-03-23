@@ -1,16 +1,8 @@
 var a09603 =
 [
-    [ "GuildBankRightsAndSlots", "df/da2/a09603.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
-    [ "GuildBankRightsAndSlots", "df/da2/a09603.html#af5f0087090a7145a22baa1396822318b", null ],
-    [ "GuildBankRightsAndSlots", "df/da2/a09603.html#a4bdf40d99704211b9e80b554ebade54f", null ],
-    [ "GetRights", "df/da2/a09603.html#a19b76bebdb62434191189ba789c2810f", null ],
-    [ "GetSlots", "df/da2/a09603.html#a51780060b5699bed6b78cc9ba4e95371", null ],
-    [ "GetTabId", "df/da2/a09603.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
-    [ "SetGuildMasterValues", "df/da2/a09603.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
-    [ "SetRights", "df/da2/a09603.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
-    [ "SetSlots", "df/da2/a09603.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
-    [ "SetTabId", "df/da2/a09603.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
-    [ "rights", "df/da2/a09603.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
-    [ "slots", "df/da2/a09603.html#a5a327399d94704bc290199baa21ff8d7", null ],
-    [ "tabId", "df/da2/a09603.html#ab09825a02a7a21a4915595230d2a5839", null ]
+    [ "MostHPMissingInRange", "df/da2/a09603.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "df/da2/a09603.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "df/da2/a09603.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "df/da2/a09603.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "df/da2/a09603.html#acef63da9004997c7f25056651284efa9", null ]
 ];

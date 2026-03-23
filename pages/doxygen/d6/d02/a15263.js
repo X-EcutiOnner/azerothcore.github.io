@@ -1,10 +1,7 @@
 var a15263 =
 [
-    [ "boss_moam", "d6/d02/a15263.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
-    [ "InitializeAI", "d6/d02/a15263.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
-    [ "JustDied", "d6/d02/a15263.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
-    [ "JustEngagedWith", "d6/d02/a15263.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
-    [ "Reset", "d6/d02/a15263.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
-    [ "SummonedCreatureDies", "d6/d02/a15263.html#a8401c5e2bd216deee197617b78d85222", null ],
-    [ "UpdateAI", "d6/d02/a15263.html#aadd8320c6194923b113967d3d6c49a5e", null ]
+    [ "npc_hive_zara_larva", "d6/d02/a15263.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "d6/d02/a15263.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "d6/d02/a15263.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "d6/d02/a15263.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

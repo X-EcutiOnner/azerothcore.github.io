@@ -1,6 +1,7 @@
 var a23083 =
 [
-    [ "HandleScriptEffect", "de/dbe/a23083.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
-    [ "PrepareSpellScript", "de/dbe/a23083.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
-    [ "Register", "de/dbe/a23083.html#a99e2243ca4372eab1a742f8979d61334", null ]
+    [ "boss_hydromancer_thespia", "de/dbe/a23083.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "de/dbe/a23083.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "de/dbe/a23083.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "de/dbe/a23083.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

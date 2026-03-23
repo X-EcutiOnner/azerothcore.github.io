@@ -1,12 +1,8 @@
 var a21559 =
 [
-    [ "boss_lavanthorAI", "d5/dbc/a21559.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "d5/dbc/a21559.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "d5/dbc/a21559.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "d5/dbc/a21559.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "d5/dbc/a21559.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "d5/dbc/a21559.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "d5/dbc/a21559.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "d5/dbc/a21559.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "d5/dbc/a21559.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "npc_q24545_vegardAI", "d5/dbc/a21559.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d5/dbc/a21559.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d5/dbc/a21559.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d5/dbc/a21559.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d5/dbc/a21559.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

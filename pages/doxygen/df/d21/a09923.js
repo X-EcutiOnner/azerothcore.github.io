@@ -1,9 +1,10 @@
 var a09923 =
 [
-    [ "MapUpdateRequest", "df/d21/a09923.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "df/d21/a09923.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "df/d21/a09923.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "df/d21/a09923.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "df/d21/a09923.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "df/d21/a09923.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "const_iterator", "df/d21/a09923.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
+    [ "StorageType", "df/d21/a09923.html#a6825a379d1af4254b920c14ab0068e7b", null ],
+    [ "BossBoundaryData", "df/d21/a09923.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
+    [ "~BossBoundaryData", "df/d21/a09923.html#a446a3ec16cdce76058761fce972f1e57", null ],
+    [ "begin", "df/d21/a09923.html#a326930360d22d5fdf9a895991f2c4e49", null ],
+    [ "end", "df/d21/a09923.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
+    [ "_data", "df/d21/a09923.html#af60e90664c434a8d36115ca5dec889b5", null ]
 ];

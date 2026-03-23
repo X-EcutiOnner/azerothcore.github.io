@@ -1,7 +1,6 @@
 var a02612 =
 [
-    [ "GetCleanAliasName", "d6/dfc/a02612.html#ae187308862c39923e2b843bc9d4c989c", null ],
-    [ "GetDefaultValue", "d6/dfc/a02612.html#a2ea1ae2c2289bdc9068ec9c886d124c8", null ],
-    [ "IsCorrectAlias", "d6/dfc/a02612.html#a56e834d391c0eb5187d3c7dd0dad88b7", null ],
-    [ "IsCorrectFieldType", "d6/dfc/a02612.html#a61bef7957f008e8cd937746ba03feb73", null ]
+    [ "CharacterDatabase", "d6/dfc/a02612.html#af8239cd04c4137e1e621226a6d919ed4", null ],
+    [ "LoginDatabase", "d6/dfc/a02612.html#ae753c5c60b556b0cb7998e7424be5cbf", null ],
+    [ "WorldDatabase", "d6/dfc/a02612.html#af42e9d262f732792d1e81568ae38ea2e", null ]
 ];

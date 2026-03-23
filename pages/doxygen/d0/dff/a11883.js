@@ -1,9 +1,6 @@
 var a11883 =
 [
-    [ "event_commandscript", "d0/dff/a11883.html#a160db0ad8874b0834ef863043b1796ae", null ],
-    [ "GetCommands", "d0/dff/a11883.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
-    [ "HandleEventActiveListCommand", "d0/dff/a11883.html#a6752be35103bb585984083a449c85714", null ],
-    [ "HandleEventInfoCommand", "d0/dff/a11883.html#a1f0815bccd6cef61826ada4e349708d9", null ],
-    [ "HandleEventStartCommand", "d0/dff/a11883.html#ad46dbd8892db3548d889d4127461c8e3", null ],
-    [ "HandleEventStopCommand", "d0/dff/a11883.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
+    [ "AuraProcHandler", "d0/dff/a11883.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
+    [ "Call", "d0/dff/a11883.html#abc0c3be9dee08e995c282f20900f3c46", null ],
+    [ "_HandlerScript", "d0/dff/a11883.html#ada8d7a5659598b0092739a91ba2653bd", null ]
 ];

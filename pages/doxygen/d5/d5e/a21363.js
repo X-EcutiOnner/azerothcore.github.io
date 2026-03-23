@@ -1,5 +1,7 @@
 var a21363 =
 [
-    [ "go_palehoof_sphere", "d5/d5e/a21363.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "d5/d5e/a21363.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "npc_warmage_violetstand", "d5/d5e/a21363.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d5/d5e/a21363.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d5/d5e/a21363.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d5/d5e/a21363.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

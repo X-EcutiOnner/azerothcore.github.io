@@ -1,6 +1,6 @@
 var a18867 =
 [
-    [ "npc_crok_scourgebaneAI", "d9/d57/a18871.html", "d9/d57/a18871" ],
-    [ "npc_crok_scourgebane", "dd/d0d/a18867.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "dd/d0d/a18867.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "npc_captain_grondelAI", "d9/d57/a18871.html", "d9/d57/a18871" ],
+    [ "npc_captain_grondel", "dd/d0d/a18867.html#a54a53f8e3cde87405219c815a56d523c", null ],
+    [ "GetAI", "dd/d0d/a18867.html#a2a7725e81294e80701b7742d2605ec00", null ]
 ];

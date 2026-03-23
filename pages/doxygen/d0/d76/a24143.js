@@ -1,6 +1,5 @@
 var a24143 =
 [
-    [ "HandleAfterRemove", "d0/d76/a24143.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "d0/d76/a24143.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "d0/d76/a24143.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "npc_pet_proto_drake_whelp", "d0/d76/a24143.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
+    [ "Reset", "d0/d76/a24143.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
 ];

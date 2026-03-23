@@ -1,7 +1,6 @@
 var a21471 =
 [
-    [ "HandleDummy", "d3/d8f/a21471.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d3/d8f/a21471.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d3/d8f/a21471.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d3/d8f/a21471.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d3/d8f/a21471.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "d3/d8f/a21471.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "d3/d8f/a21471.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

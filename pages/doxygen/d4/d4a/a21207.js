@@ -1,5 +1,6 @@
 var a21207 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "d4/d4a/a21207.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "d4/d4a/a21207.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "npc_azure_captainAI", "dd/d8d/a21211.html", "dd/d8d/a21211" ],
+    [ "npc_azure_captain", "d4/d4a/a21207.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
+    [ "GetAI", "d4/d4a/a21207.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
 ];

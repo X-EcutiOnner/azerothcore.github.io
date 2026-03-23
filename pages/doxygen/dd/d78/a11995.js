@@ -1,7 +1,7 @@
 var a11995 =
 [
-    [ "FoundObjects", "dd/d78/a11995.html#a061c4e27b4a9646bc3636b7642ad9fce", null ],
-    [ "X", "dd/d78/a11995.html#a9a184093c44a45addd7a7bae891496c0", null ],
-    [ "Y", "dd/d78/a11995.html#a86ac02df716e991f629647941dcb29cb", null ],
-    [ "Z", "dd/d78/a11995.html#a50477b2e983580c94b348f7e408a8363", null ]
+    [ "Command", "dd/d78/a11995.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
+    [ "ModuleId", "dd/d78/a11995.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
+    [ "ModuleKey", "dd/d78/a11995.html#aba0f236c39186022816bd86f8e8e9093", null ],
+    [ "Size", "dd/d78/a11995.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
 ];

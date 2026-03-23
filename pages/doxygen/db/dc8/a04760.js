@@ -1,5 +1,5 @@
 var a04760 =
 [
-    [ "spellinfo_commandscript", "db/d19/a12265.html", "db/d19/a12265" ],
-    [ "AddSC_spellinfo_commandscript", "db/dc8/a04760.html#ab9e45d5e5eb40c48734ab273bdb3be64", null ]
+    [ "lookup_commandscript", "d5/d19/a12227.html", "d5/d19/a12227" ],
+    [ "AddSC_lookup_commandscript", "db/dc8/a04760.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

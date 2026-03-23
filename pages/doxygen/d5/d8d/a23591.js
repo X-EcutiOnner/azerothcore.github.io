@@ -1,7 +1,6 @@
 var a23591 =
 [
-    [ "boss_hydromancer_thespia", "d5/d8d/a23591.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "d5/d8d/a23591.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "d5/d8d/a23591.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "d5/d8d/a23591.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "FilterTargets", "d5/d8d/a23591.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "d5/d8d/a23591.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "d5/d8d/a23591.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

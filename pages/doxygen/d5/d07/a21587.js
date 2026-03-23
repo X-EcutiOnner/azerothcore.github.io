@@ -1,16 +1,11 @@
 var a21587 =
 [
-    [ "boss_zuramatAI", "d5/d07/a21587.html#ab4c04fec01023295946d170a466d1c48", null ],
-    [ "EnterEvadeMode", "d5/d07/a21587.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
-    [ "JustDied", "d5/d07/a21587.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
-    [ "JustEngagedWith", "d5/d07/a21587.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
-    [ "JustSummoned", "d5/d07/a21587.html#a6e925207ddc112f7dd7044c08023f90e", null ],
-    [ "KilledUnit", "d5/d07/a21587.html#adb79f8c244f57b88848dd44b592faf41", null ],
-    [ "MoveInLineOfSight", "d5/d07/a21587.html#aa3ef3256d203d264dee12eff4491a28c", null ],
-    [ "Reset", "d5/d07/a21587.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
-    [ "SummonedCreatureDespawn", "d5/d07/a21587.html#a242f814bfec2e937e1338097e78080e3", null ],
-    [ "UpdateAI", "d5/d07/a21587.html#adb591699b7d8ece0b1775afd40a4181b", null ],
-    [ "events", "d5/d07/a21587.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
-    [ "pInstance", "d5/d07/a21587.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
-    [ "summons", "d5/d07/a21587.html#a42cb09654095c8a157720f99e7957102", null ]
+    [ "npc_torturer_lecraftAI", "d5/d07/a21587.html#a0886d83c8ab8b7db728928ecf922031b", null ],
+    [ "JustEngagedWith", "d5/d07/a21587.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
+    [ "Reset", "d5/d07/a21587.html#a13177e318e7777ecb13ba71c4f10f425", null ],
+    [ "SpellHit", "d5/d07/a21587.html#a837805efcb6c99de55646a232f151ae8", null ],
+    [ "UpdateAI", "d5/d07/a21587.html#a45919da006b0e767ec38810a6fcbac5d", null ],
+    [ "_events", "d5/d07/a21587.html#a7879e11a94c32266ed11dc352ae7e802", null ],
+    [ "_playerGUID", "d5/d07/a21587.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
+    [ "_textCounter", "d5/d07/a21587.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
 ];

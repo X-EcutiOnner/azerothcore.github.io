@@ -1,7 +1,5 @@
 var a13155 =
 [
-    [ "HandleScriptEffect", "da/dbf/a13155.html#a1b196f3817c16fac48392981b58c1a05", null ],
-    [ "PrepareSpellScript", "da/dbf/a13155.html#ad44566ff9a44057679e7ce8e1959776d", null ],
-    [ "Register", "da/dbf/a13155.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
-    [ "Validate", "da/dbf/a13155.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
+    [ "boss_ellris_duskhallow", "da/dbf/a13155.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
+    [ "JustEngagedWith", "da/dbf/a13155.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
 ];

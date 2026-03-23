@@ -1,7 +1,7 @@
 var a23031 =
 [
-    [ "OnPeriodic", "dd/d9a/a23031.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "dd/d9a/a23031.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "dd/d9a/a23031.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "dd/d9a/a23031.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "PeriodicTick", "dd/d9a/a23031.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
+    [ "PrepareAuraScript", "dd/d9a/a23031.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
+    [ "Register", "dd/d9a/a23031.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
+    [ "Validate", "dd/d9a/a23031.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
 ];

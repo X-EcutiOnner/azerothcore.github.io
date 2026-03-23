@@ -1,17 +1,15 @@
 var a10167 =
 [
-    [ "MoveSplineInitArgs", "d3/d24/a10167.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
-    [ "_checkPathBounds", "d3/d24/a10167.html#a984db18cdbd061605a9d486b061dc7c0", null ],
-    [ "Validate", "d3/d24/a10167.html#a17beca23a7a7eaa298debb5e9638daca", null ],
-    [ "facing", "d3/d24/a10167.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
-    [ "flags", "d3/d24/a10167.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
-    [ "HasVelocity", "d3/d24/a10167.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
-    [ "initialOrientation", "d3/d24/a10167.html#ab0b66cba791fc206be5b64310480cb88", null ],
-    [ "parabolic_amplitude", "d3/d24/a10167.html#a133d1d0172fde0564a58a004cb354ed0", null ],
-    [ "path", "d3/d24/a10167.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
-    [ "path_Idx_offset", "d3/d24/a10167.html#a6b6aaf43685649798db46d7b409d3e32", null ],
-    [ "splineId", "d3/d24/a10167.html#ac8c84e828c23801a68524c9811f0336b", null ],
-    [ "time_perc", "d3/d24/a10167.html#afe51d24d71b71e87015eeb4851418503", null ],
-    [ "TransformForTransport", "d3/d24/a10167.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
-    [ "velocity", "d3/d24/a10167.html#af042454593bfd4dc888c1700af437933", null ]
+    [ "SpawnData", "d3/d24/a10167.html#af108bd4f8d7080f008f1f3263e575311", null ],
+    [ "dbData", "d3/d24/a10167.html#a32037d54d1c8dfd74e18b8b501843e93", null ],
+    [ "mapid", "d3/d24/a10167.html#ac23de576d628ec0dde71be9a06976c83", null ],
+    [ "orientation", "d3/d24/a10167.html#a645082615abc236e61a409595afca3e4", null ],
+    [ "phaseMask", "d3/d24/a10167.html#a1d08a4a00b3ffe3eaaf260c7a447c861", null ],
+    [ "posX", "d3/d24/a10167.html#a038b864df6fc5db9a47ae565a5e8d627", null ],
+    [ "posY", "d3/d24/a10167.html#a13dc41e4c6b296b6b7a0a1ca402f407b", null ],
+    [ "posZ", "d3/d24/a10167.html#ae911f34522832f2842ea7450c55e264c", null ],
+    [ "ScriptId", "d3/d24/a10167.html#acb2ca11212667789bbd41a285cf708d6", null ],
+    [ "spawnGroupId", "d3/d24/a10167.html#aa608bdbe2112f69e2c96ee45830cc3f8", null ],
+    [ "spawnMask", "d3/d24/a10167.html#a236e4a809883421cb2c5d4c4d607621b", null ],
+    [ "type", "d3/d24/a10167.html#abb2ece9629d63141de2702acd5383564", null ]
 ];

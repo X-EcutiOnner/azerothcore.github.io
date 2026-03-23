@@ -1,6 +1,7 @@
 var a12799 =
 [
-    [ "boss_mr_smiteAI", "d6/d64/a12803.html", "d6/d64/a12803" ],
-    [ "boss_mr_smite", "df/da2/a12799.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "df/da2/a12799.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "HandleScript", "df/da2/a12799.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
+    [ "PrepareSpellScript", "df/da2/a12799.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
+    [ "Register", "df/da2/a12799.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
+    [ "Validate", "df/da2/a12799.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
 ];

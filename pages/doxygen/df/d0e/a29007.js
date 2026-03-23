@@ -1,6 +1,10 @@
 var a29007 =
 [
-    [ "id", "df/d0e/a29007.html#a5acc1b246a76073e1c97513251a4143d", null ],
-    [ "id", "df/d0e/a29007.html#aaf844f570afdf7439ae7fbe0bbdc39e7", null ],
-    [ "name", "df/d0e/a29007.html#ae5d1244981224aed1b7477caedd70175", null ]
+    [ "PvPDifficultyEntry", "df/d0e/a29007.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
+    [ "GetBracketId", "df/d0e/a29007.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
+    [ "bracketId", "df/d0e/a29007.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
+    [ "difficulty", "df/d0e/a29007.html#a33ac017d785a4586a78e715d97836720", null ],
+    [ "mapId", "df/d0e/a29007.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
+    [ "maxLevel", "df/d0e/a29007.html#a1385166568239f2118b65377df8b4b55", null ],
+    [ "minLevel", "df/d0e/a29007.html#acd07e8d759af1b73ec7543f6e70df242", null ]
 ];

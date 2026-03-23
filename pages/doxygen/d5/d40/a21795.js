@@ -1,6 +1,7 @@
 var a21795 =
 [
-    [ "npc_hidden_cultistAI", "dd/dc8/a21799.html", "dd/dc8/a21799" ],
-    [ "npc_hidden_cultist", "d5/d40/a21795.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "d5/d40/a21795.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "GetSeatNumber", "d5/d40/a21795.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
+    [ "HandleDummy", "d5/d40/a21795.html#ac5945381452559e1d5655f5345bdeff3", null ],
+    [ "PrepareSpellScript", "d5/d40/a21795.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
+    [ "Register", "d5/d40/a21795.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
 ];

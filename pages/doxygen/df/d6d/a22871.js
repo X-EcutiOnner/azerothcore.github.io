@@ -1,8 +1,19 @@
 var a22871 =
 [
-    [ "npc_anzu_spirit", "df/d6d/a22871.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "df/d6d/a22871.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "df/d6d/a22871.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "df/d6d/a22871.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "df/d6d/a22871.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "boss_lady_vashj", "df/d6d/a22871.html#a3934fc6c6363f7c2ee235a58a262135f", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "df/d6d/a22871.html#ad424f1c23cc893e7e48c3e854bf20936", null ],
+    [ "JustDied", "df/d6d/a22871.html#a8f0074b650b6e0a245726ebdeb8651b6", null ],
+    [ "JustEngagedWith", "df/d6d/a22871.html#a2b3b3a3bacd8042eb64a49cc9ca8847f", null ],
+    [ "JustSummoned", "df/d6d/a22871.html#ac577c4f0d0c3e9d1635a1ca9a0954095", null ],
+    [ "KilledUnit", "df/d6d/a22871.html#a0418ead0213eeea16a531baca96db704", null ],
+    [ "MoveInLineOfSight", "df/d6d/a22871.html#a4780e7cbcb7984c5742a5c072acfe252", null ],
+    [ "MovementInform", "df/d6d/a22871.html#ad2d58872d657b3a81c6be0e69d8bff1f", null ],
+    [ "Reset", "df/d6d/a22871.html#a114729e5a3caa70c89d8c8b53eba5af3", null ],
+    [ "ScheduleSpells", "df/d6d/a22871.html#ac4821984e5b5310877204fdb93810029", null ],
+    [ "UpdateAI", "df/d6d/a22871.html#a6ec56730a2735b1d9d35c63242c310b2", null ],
+    [ "_batTimer", "df/d6d/a22871.html#a0ccfbf23e8f47b77496d35cdeae5e3ac", null ],
+    [ "_count", "df/d6d/a22871.html#a2c4c2ecaa4b3ad859f46e36be34b1076", null ],
+    [ "_intro", "df/d6d/a22871.html#a2aafb94d956182723ccc9374854c7fb0", null ],
+    [ "_playerAngle", "df/d6d/a22871.html#a005515a4f2ad0661d5faff9107ea068b", null ],
+    [ "_recentlySpoken", "df/d6d/a22871.html#ac7dd5e6962e72a0eb56c89d417bda37a", null ]
 ];

@@ -1,6 +1,6 @@
 var a09707 =
 [
-    [ "bossId", "dc/d36/a09707.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
-    [ "entry", "dc/d36/a09707.html#a1a199d022692efe54e29a7cb90e73dee", null ],
-    [ "type", "dc/d36/a09707.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
+    [ "AllFriendlyCreaturesInGrid", "dc/d36/a09707.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
+    [ "operator()", "dc/d36/a09707.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
+    [ "unit", "dc/d36/a09707.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
 ];

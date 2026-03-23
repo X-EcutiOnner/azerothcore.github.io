@@ -1,6 +1,9 @@
 var a22119 =
 [
-    [ "npc_mrfloppyAI", "d9/d5e/a22123.html", "d9/d5e/a22123" ],
-    [ "npc_mrfloppy", "d6/dbb/a22119.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d6/dbb/a22119.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "HandleFinish", "d6/dbb/a22119.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "d6/dbb/a22119.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "d6/dbb/a22119.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "d6/dbb/a22119.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "d6/dbb/a22119.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "d6/dbb/a22119.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

@@ -1,6 +1,5 @@
 var a20931 =
 [
-    [ "npc_xt002_scrapbotAI", "da/df2/a20935.html", "da/df2/a20935" ],
-    [ "npc_xt002_scrapbot", "d4/d29/a20931.html#accfd75266d058af3856bdb625728c18d", null ],
-    [ "GetAI", "d4/d29/a20931.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
+    [ "npc_ritual_channelerAI", "d4/d29/a20931.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "d4/d29/a20931.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

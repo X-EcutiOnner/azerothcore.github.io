@@ -1,6 +1,8 @@
 var a27083 =
 [
-    [ "FilterTargets", "de/d9c/a27083.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "de/d9c/a27083.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "de/d9c/a27083.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "AfterApply", "de/d9c/a27083.html#a3299de0703ca1e14760e9f33b124ac44", null ],
+    [ "PeriodicTick", "de/d9c/a27083.html#a34f2fd8d142083705101f8265297c20e", null ],
+    [ "PrepareAuraScript", "de/d9c/a27083.html#a79c80876d5788a20a9f686548b70fd64", null ],
+    [ "Register", "de/d9c/a27083.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
+    [ "Validate", "de/d9c/a27083.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
 ];

@@ -1,13 +1,9 @@
 var a23719 =
 [
-    [ "boss_olm_the_summoner", "d6/db0/a23719.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
-    [ "AttackStart", "d6/db0/a23719.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
-    [ "JustDied", "d6/db0/a23719.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
-    [ "JustEngagedWith", "d6/db0/a23719.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
-    [ "JustSummoned", "d6/db0/a23719.html#a546bede780b7d67b98ec251ae2e1b812", null ],
-    [ "Reset", "d6/db0/a23719.html#a8dcdc816276a1932612d554cff703a45", null ],
-    [ "UpdateAI", "d6/db0/a23719.html#a967f330966fdb29f26ab24e8f40d2152", null ],
-    [ "_scheduler", "d6/db0/a23719.html#a448ba3a88156e80eebad44585791ab21", null ],
-    [ "instance", "d6/db0/a23719.html#a8caabc31bb7a8548eb936c34c655df68", null ],
-    [ "summons", "d6/db0/a23719.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d6/db0/a23719.html#a273d585416dc92d39d5ec3824c08504d", null ],
+    [ "IsSummonedBy", "d6/db0/a23719.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
+    [ "Reset", "d6/db0/a23719.html#a06fa50580efeab8d847a05f20956d175", null ],
+    [ "UpdateAI", "d6/db0/a23719.html#a8261a259cfbee0d3610ee441406fafcd", null ],
+    [ "playerGuid", "d6/db0/a23719.html#aab717dd49284c483759a6223dbd7e6ea", null ],
+    [ "timer", "d6/db0/a23719.html#afba1b71178c563a3db906057cd20de45", null ]
 ];

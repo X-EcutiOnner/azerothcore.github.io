@@ -1,7 +1,6 @@
 var a25439 =
 [
-    [ "HandleScript", "dd/d6d/a25439.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
-    [ "PrepareSpellScript", "dd/d6d/a25439.html#a7909f23da8385abdabb62e5196d88d38", null ],
-    [ "Register", "dd/d6d/a25439.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
-    [ "Validate", "dd/d6d/a25439.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
+    [ "CheckCast", "dd/d6d/a25439.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
+    [ "PrepareSpellScript", "dd/d6d/a25439.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
+    [ "Register", "dd/d6d/a25439.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
 ];

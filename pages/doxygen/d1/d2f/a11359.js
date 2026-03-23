@@ -1,7 +1,6 @@
 var a11359 =
 [
-    [ "effectMask", "d1/d2f/a11359.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
-    [ "processed", "d1/d2f/a11359.html#aedfa36678be863a558ecd0ecc07cc544", null ],
-    [ "targetGUID", "d1/d2f/a11359.html#a619f98bf094d2667048204f733d64d0c", null ],
-    [ "timeDelay", "d1/d2f/a11359.html#ab552326c0780fe62ff95b02249458492", null ]
+    [ "DismissCritter", "d1/d2f/a11359.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "d1/d2f/a11359.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "d1/d2f/a11359.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

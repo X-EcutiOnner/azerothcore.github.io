@@ -1,5 +1,6 @@
 var a15343 =
 [
-    [ "boss_yauj", "d3/d99/a15343.html#a15ab7b6b35d29fb1552b11586163320e", null ],
-    [ "JustEngagedWith", "d3/d99/a15343.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
+    [ "FilterTargets", "d3/d99/a15343.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
+    [ "PrepareSpellScript", "d3/d99/a15343.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
+    [ "Register", "d3/d99/a15343.html#a3168a3f97ddb38b261a0730405ba27db", null ]
 ];

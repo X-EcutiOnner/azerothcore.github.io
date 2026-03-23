@@ -1,8 +1,17 @@
 var a09475 =
 [
-    [ "AnyAssistCreatureInRangeCheck", "d0/d76/a09475.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
-    [ "operator()", "d0/d76/a09475.html#a314a4800047f7e661cd011010b3f148e", null ],
-    [ "i_enemy", "d0/d76/a09475.html#a37318ae783e6cf4a658063aab149e8a3", null ],
-    [ "i_funit", "d0/d76/a09475.html#add1071091d1696c3f537483810dcb6f1", null ],
-    [ "i_range", "d0/d76/a09475.html#a4bcf67be5bae4649d82586349d30be04", null ]
+    [ "MessageDistDeliverer", "d0/d76/a09475.html#a8f8c9fb2dadaa8c521b5036a94a4c9a4", null ],
+    [ "SendPacket", "d0/d76/a09475.html#af085a9490dfd5a1e577bda6d8333fe1d", null ],
+    [ "Visit", "d0/d76/a09475.html#af44878b494b1412f0d08248f6a88fff6", null ],
+    [ "Visit", "d0/d76/a09475.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
+    [ "Visit", "d0/d76/a09475.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
+    [ "Visit", "d0/d76/a09475.html#a09171ca5e494d7cc4b19340e95367a64", null ],
+    [ "Visit", "d0/d76/a09475.html#ab8bf1e8d9f81dac6baa006262835628f", null ],
+    [ "i_distSq", "d0/d76/a09475.html#a871dda581863f0919f1d5b2f60c2fcd9", null ],
+    [ "i_message", "d0/d76/a09475.html#ac49c2d8b9120edbafd6b04656a6d2909", null ],
+    [ "i_phaseMask", "d0/d76/a09475.html#abca07d041f9b45b4002f15dfff6e1c9e", null ],
+    [ "i_source", "d0/d76/a09475.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
+    [ "required3dDist", "d0/d76/a09475.html#abdce98d93c98513a434df80b97c096c6", null ],
+    [ "skipped_receiver", "d0/d76/a09475.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
+    [ "teamId", "d0/d76/a09475.html#acfda3713bbde51a110cb160f0325f848", null ]
 ];

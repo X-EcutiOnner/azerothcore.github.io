@@ -1,6 +1,9 @@
 var a12831 =
 [
-    [ "HandleTriggerSpell", "d6/d3e/a12831.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "d6/d3e/a12831.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "d6/d3e/a12831.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "npc_mc_core_hound", "d6/d3e/a12831.html#a4768b06f344d6bbf7e3d0cef16e1b75d", null ],
+    [ "DamageTaken", "d6/d3e/a12831.html#a1b9cd2776b1a3f363915fc91e1e34414", null ],
+    [ "Reset", "d6/d3e/a12831.html#ab2bfa697f694b5b35129b361e171e2a4", null ],
+    [ "UpdateAI", "d6/d3e/a12831.html#a9c5081e9c622eb0679cd396caed002b9", null ],
+    [ "instance", "d6/d3e/a12831.html#a54da081c07184ebd5eed1ffe9a1dd8ee", null ],
+    [ "serratedBiteTimer", "d6/d3e/a12831.html#afbe528a9f7d2afc6d33bf11f589d9dea", null ]
 ];

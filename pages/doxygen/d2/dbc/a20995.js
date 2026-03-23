@@ -1,5 +1,6 @@
 var a20995 =
 [
-    [ "achievement_xt002_nerf_gravity_bombs", "d2/dbc/a20995.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
-    [ "OnCheck", "d2/dbc/a20995.html#a03f61470694399ab32aea354cd697771", null ]
+    [ "boss_koralonAI", "d0/dc5/a20999.html", "d0/dc5/a20999" ],
+    [ "boss_koralon", "d2/dbc/a20995.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "d2/dbc/a20995.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

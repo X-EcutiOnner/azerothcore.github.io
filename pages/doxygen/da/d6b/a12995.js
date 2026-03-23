@@ -1,8 +1,6 @@
 var a12995 =
 [
-    [ "npc_tito", "da/d6b/a12995.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "da/d6b/a12995.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "da/d6b/a12995.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "da/d6b/a12995.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "da/d6b/a12995.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "HandleHit", "da/d6b/a12995.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
+    [ "PrepareSpellScript", "da/d6b/a12995.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
+    [ "Register", "da/d6b/a12995.html#a84853f416eb8250dc3d863dbe22a157f", null ]
 ];

@@ -1,6 +1,6 @@
 var a18259 =
 [
-    [ "DespawnSelf", "de/d46/a18259.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "de/d46/a18259.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "de/d46/a18259.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "npc_ice_tombAI", "da/dc1/a18263.html", "da/dc1/a18263" ],
+    [ "npc_ice_tomb", "de/d46/a18259.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "de/d46/a18259.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

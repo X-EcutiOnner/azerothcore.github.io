@@ -1,6 +1,6 @@
 var a23483 =
 [
-    [ "HandleApplyAura", "d8/d4e/a23483.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d8/d4e/a23483.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d8/d4e/a23483.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d1/d59/a23487.html", "d1/d59/a23487" ],
+    [ "instance_the_botanica", "d8/d4e/a23483.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "d8/d4e/a23483.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

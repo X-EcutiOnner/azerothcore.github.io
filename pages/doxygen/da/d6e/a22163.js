@@ -1,11 +1,19 @@
 var a22163 =
 [
-    [ "npc_lake_frogAI", "da/d6e/a22163.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
-    [ "ReceiveEmote", "da/d6e/a22163.html#abd58e65b6829c70818c578ed615a980b", null ],
-    [ "Reset", "da/d6e/a22163.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
-    [ "sGossipSelect", "da/d6e/a22163.html#a95906677ff65e004408ae65df3f49b5c", null ],
-    [ "UpdateAI", "da/d6e/a22163.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
-    [ "_events", "da/d6e/a22163.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
-    [ "_following", "da/d6e/a22163.html#a0078f9134a61f0ec2465ce103523e341", null ],
-    [ "_runningScript", "da/d6e/a22163.html#af76102ba6c9ffd80baa95623b7312980", null ]
+    [ "npc_overlord_drakuru_betrayal", "da/d6e/a22163.html#ab15331d6fd3a2783a4c95d49e4dbe7b2", null ],
+    [ "DamageTaken", "da/d6e/a22163.html#a7425750b8bd904de4bdf90a70f17ba52", null ],
+    [ "DoAction", "da/d6e/a22163.html#aece047445959751d8bff83ed3555a382", null ],
+    [ "EnterEvadeMode", "da/d6e/a22163.html#ae7927006050c6eab309671b2d39ac74e", null ],
+    [ "IsPlayerOnQuest", "da/d6e/a22163.html#a95f42c51b10eeeb8f238572f4190b777", null ],
+    [ "JustEngagedWith", "da/d6e/a22163.html#a3781dde3a7fb066620ada4bda214d9d7", null ],
+    [ "JustSummoned", "da/d6e/a22163.html#a7a28c8050615a13148092b1d6f0f8bea", null ],
+    [ "MoveInLineOfSight", "da/d6e/a22163.html#a27173bdb8e63f52563cbf15f10bfeb8a", null ],
+    [ "Reset", "da/d6e/a22163.html#aafcf7f832f3c5412bc1c71fc59dec003", null ],
+    [ "SpellHit", "da/d6e/a22163.html#a92cd659095e45c414a2c05672a70aaeb", null ],
+    [ "SpellHitTarget", "da/d6e/a22163.html#abd7728d7ac2a59b436385069ffc62c9d", null ],
+    [ "UpdateAI", "da/d6e/a22163.html#a25d0591a131f2e49b9d5c97ed2f2586e", null ],
+    [ "_lichGUID", "da/d6e/a22163.html#ae921b29ac3e5d5f7b39cd660848242f0", null ],
+    [ "_playerGUID", "da/d6e/a22163.html#a3f4a61d141c51a29eaefc8118b5311e0", null ],
+    [ "_state", "da/d6e/a22163.html#ac99fa024d5c71c37e94d0ff17808e2d4", null ],
+    [ "_summons", "da/d6e/a22163.html#a2fbda53115c9b69d2d01a77b3b60710d", null ]
 ];

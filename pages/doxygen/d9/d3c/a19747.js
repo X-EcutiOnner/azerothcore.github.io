@@ -1,9 +1,11 @@
 var a19747 =
 [
-    [ "npc_stormforged_lieutenant", "d9/d3c/a19747.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "d9/d3c/a19747.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "d9/d3c/a19747.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "d9/d3c/a19747.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "d9/d3c/a19747.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "d9/d3c/a19747.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "boss_maiden_of_griefAI", "d9/d3c/a19747.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "d9/d3c/a19747.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "d9/d3c/a19747.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "d9/d3c/a19747.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "d9/d3c/a19747.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "d9/d3c/a19747.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "d9/d3c/a19747.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "d9/d3c/a19747.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

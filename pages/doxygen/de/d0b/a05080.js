@@ -1,6 +1,8 @@
 var a05080 =
 [
-    [ "Resolver", "de/d0b/a05080.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
-    [ "Resolve", "de/d0b/a05080.html#ab190f885c84753fe65405db6fb04bf7c", null ],
-    [ "_impl", "de/d0b/a05080.html#a08ed9183a6338606524c44f0fd5695a0", null ]
+    [ "ByteSize", "d4/db3/a11323.html", "d4/db3/a11323" ],
+    [ "Hyperlinks", "da/d3a/a11331.html", "da/d3a/a11331" ],
+    [ "NoHyperlinks", "de/de5/a11335.html", "de/de5/a11335" ],
+    [ "RawBytes", "d5/d0f/a11319.html", "d5/d0f/a11319" ],
+    [ "Utf8", "d3/d22/a11327.html", "d3/d22/a11327" ]
 ];

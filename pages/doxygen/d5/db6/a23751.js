@@ -1,7 +1,10 @@
 var a23751 =
 [
-    [ "PeriodicTick", "d5/db6/a23751.html#a53541105e40202e4a73ecc38d84e9eca", null ],
-    [ "PrepareAuraScript", "d5/db6/a23751.html#a79c8829a86db535e254db009d5286430", null ],
-    [ "Register", "d5/db6/a23751.html#a58cd762eb10d224bb188aaf167c816b9", null ],
-    [ "Validate", "d5/db6/a23751.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
+    [ "npc_wounded_blood_elfAI", "d5/db6/a23751.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d5/db6/a23751.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d5/db6/a23751.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d5/db6/a23751.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d5/db6/a23751.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d5/db6/a23751.html#a5affcb00e28a582f8926ab2226001cd0", null ],
+    [ "WaypointReached", "d5/db6/a23751.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

@@ -1,9 +1,5 @@
 var a23999 =
 [
-    [ "HandleEffectApply", "d1/d16/a23999.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "d1/d16/a23999.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "d1/d16/a23999.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "d1/d16/a23999.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "d1/d16/a23999.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "d1/d16/a23999.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "npc_shattrath_daily_quest", "d1/d16/a23999.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d1/d16/a23999.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

@@ -1,4 +1,4 @@
 var a07779 =
 [
-    [ "operator()", "db/dba/a07779.html#a1c1e59697194005023a42873b8856a50", null ]
+    [ "AllianceChannelMgr", "db/dba/a07779.html#a7d90a6a0d987ac461668642c9ecfb619", null ]
 ];

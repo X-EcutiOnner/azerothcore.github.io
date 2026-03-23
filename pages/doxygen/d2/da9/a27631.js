@@ -1,5 +1,7 @@
 var a27631 =
 [
-    [ "go_hive_pod", "d2/da9/a27631.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "d2/da9/a27631.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "HandleScript", "d2/da9/a27631.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
+    [ "PrepareSpellScript", "d2/da9/a27631.html#ab363d596d2d1e030f0cc07126b40e921", null ],
+    [ "Register", "d2/da9/a27631.html#ab9041b811e80e220828d5db59b724682", null ],
+    [ "Validate", "d2/da9/a27631.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
 ];

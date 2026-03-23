@@ -1,13 +1,11 @@
 var a14583 =
 [
-    [ "go_firework_show", "da/d08/a14583.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "da/d08/a14583.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "da/d08/a14583.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "da/d08/a14583.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "da/d08/a14583.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "da/d08/a14583.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "da/d08/a14583.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "da/d08/a14583.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "da/d08/a14583.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "da/d08/a14583.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "npc_snowfall_glade_playmate", "da/d08/a14583.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
+    [ "MoveInLineOfSight", "da/d08/a14583.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
+    [ "Reset", "da/d08/a14583.html#a89040d9843852b01123e102b49509857", null ],
+    [ "UpdateAI", "da/d08/a14583.html#a6dedc1cae1e568a792341842e8a922e8", null ],
+    [ "orphanGUID", "da/d08/a14583.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
+    [ "phase", "da/d08/a14583.html#a9a5b2348313063bc389b99158fc72e3f", null ],
+    [ "playerGUID", "da/d08/a14583.html#a4ca4198fdbf3c98291255916ee53c637", null ],
+    [ "timer", "da/d08/a14583.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
 ];

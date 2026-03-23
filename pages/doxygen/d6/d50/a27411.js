@@ -1,9 +1,9 @@
 var a27411 =
 [
-    [ "boss_lethonAI", "d6/d50/a27411.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "d6/d50/a27411.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "d6/d50/a27411.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "d6/d50/a27411.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "d6/d50/a27411.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "d6/d50/a27411.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "CheckCast", "d6/d50/a27411.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "d6/d50/a27411.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "d6/d50/a27411.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "d6/d50/a27411.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "d6/d50/a27411.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "d6/d50/a27411.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

@@ -1,9 +1,4 @@
 var a11327 =
 [
-    [ "SpellEvent", "d3/d22/a11327.html#abca64eb7d39df9788cef9df7e8634368", null ],
-    [ "~SpellEvent", "d3/d22/a11327.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
-    [ "Abort", "d3/d22/a11327.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
-    [ "Execute", "d3/d22/a11327.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
-    [ "IsDeletable", "d3/d22/a11327.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
-    [ "m_Spell", "d3/d22/a11327.html#a22cce1d722f5086932ae3e97c58d2921", null ]
+    [ "Validate", "d3/d22/a11327.html#ab0d4c07b4ce9903a913bdced5e05bbd6", null ]
 ];

@@ -1,10 +1,8 @@
 var a10283 =
 [
-    [ "AchievementScript", "dc/dfb/a10283.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
-    [ "CanCheckCriteria", "dc/dfb/a10283.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
-    [ "IsCompletedCriteria", "dc/dfb/a10283.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
-    [ "IsDatabaseBound", "dc/dfb/a10283.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
-    [ "IsRealmCompleted", "dc/dfb/a10283.html#abc54c295c1bcad45e21aed99e43a3713", null ],
-    [ "OnBeforeCheckCriteria", "dc/dfb/a10283.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
-    [ "SetRealmCompleted", "dc/dfb/a10283.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
+    [ "Finalize", "dc/dfb/a10283.html#abf4c6547449605e703b424d8aa7f46b5", null ],
+    [ "GetMovementGeneratorType", "dc/dfb/a10283.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
+    [ "Initialize", "dc/dfb/a10283.html#a68c249f25ef86f2e50d69698e190ed03", null ],
+    [ "Reset", "dc/dfb/a10283.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
+    [ "Update", "dc/dfb/a10283.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
 ];

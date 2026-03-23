@@ -1,6 +1,12 @@
 var a13855 =
 [
-    [ "npc_rinjiAI", "d1/de9/a13859.html", "d1/de9/a13859" ],
-    [ "npc_rinji", "dd/d07/a13855.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
-    [ "GetAI", "dd/d07/a13855.html#a5457ac00ce0b195752640358b912af10", null ]
+    [ "npc_cameron", "dd/d07/a13855.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "dd/d07/a13855.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "dd/d07/a13855.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "dd/d07/a13855.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "dd/d07/a13855.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "dd/d07/a13855.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "dd/d07/a13855.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "dd/d07/a13855.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "dd/d07/a13855.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

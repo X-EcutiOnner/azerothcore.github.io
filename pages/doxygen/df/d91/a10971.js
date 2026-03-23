@@ -1,9 +1,6 @@
 var a10971 =
 [
-    [ "RandomRoll", "df/d91/a10971.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "df/d91/a10971.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "df/d91/a10971.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "df/d91/a10971.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "df/d91/a10971.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "df/d91/a10971.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "GuildUpdateInfoText", "df/d91/a10971.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "df/d91/a10971.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "df/d91/a10971.html#a786802ce427465d66a4cea1365743975", null ]
 ];

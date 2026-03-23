@@ -1,9 +1,6 @@
 var a17219 =
 [
-    [ "npc_hor_lumbering_abominationAI", "d5/dcb/a17219.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
-    [ "JustDied", "d5/dcb/a17219.html#af243a79da3028d3d66facc8a15132f78", null ],
-    [ "JustEngagedWith", "d5/dcb/a17219.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
-    [ "Reset", "d5/dcb/a17219.html#a4270f405bbade0028fce4df0655a1987", null ],
-    [ "UpdateAI", "d5/dcb/a17219.html#a995d0f7902cb70280d1448ac7731a816", null ],
-    [ "events", "d5/dcb/a17219.html#aee9063950477b50e38ec904e91882689", null ]
+    [ "boss_ickAI", "dd/d69/a17223.html", "dd/d69/a17223" ],
+    [ "boss_ick", "d5/dcb/a17219.html#af97d7f96bc48ba245e28c18614b9369e", null ],
+    [ "GetAI", "d5/dcb/a17219.html#a355285766712a31b704c23fe85d19e5f", null ]
 ];

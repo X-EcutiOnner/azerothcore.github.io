@@ -1,6 +1,12 @@
 var a19899 =
 [
-    [ "npc_collapsing_starAI", "d6/d2e/a19899.html#ac389b380a8f315ae50a8cd809393a773", null ],
-    [ "DamageTaken", "d6/d2e/a19899.html#a424fac98093eb9d02cda5027523ad06a", null ],
-    [ "JustSummoned", "d6/d2e/a19899.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
+    [ "npc_assembly_lightning", "d6/d2e/a19899.html#a8fcec558ec18de7bd9545779ded9e909", null ],
+    [ "AttackStart", "d6/d2e/a19899.html#a140d4166e99c223b674e55b67d709613", null ],
+    [ "EnterEvadeMode", "d6/d2e/a19899.html#a287f1e4fad8c8a046acc15952e2cb0b9", null ],
+    [ "MoveInLineOfSight", "d6/d2e/a19899.html#a3b3ec1402907a84c0ec17522568348c6", null ],
+    [ "MovementInform", "d6/d2e/a19899.html#a3117383b1d3bce6a3bbc8445e5ea7a71", null ],
+    [ "OnCharmed", "d6/d2e/a19899.html#a72e93f6e1ca82e82f8f3cc051f0f1345", null ],
+    [ "Reset", "d6/d2e/a19899.html#aee99895b9c4d1b5f4d1a2ae7f4bd09a8", null ],
+    [ "UpdateAI", "d6/d2e/a19899.html#a0ae73d6c38064d80a7297045f2b829dd", null ],
+    [ "_boomed", "d6/d2e/a19899.html#a13074c840c7e4dc94a2b30741f62ec00", null ]
 ];

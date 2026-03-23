@@ -1,8 +1,9 @@
 var a23743 =
 [
-    [ "boss_broggok", "d1/db2/a23743.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "d1/db2/a23743.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "d1/db2/a23743.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "d1/db2/a23743.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "d1/db2/a23743.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "npc_ancestral_wolfAI", "d1/db2/a23743.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "d1/db2/a23743.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "d1/db2/a23743.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "d1/db2/a23743.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "WaypointReached", "d1/db2/a23743.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ryga", "d1/db2/a23743.html#ac238214604720e298124b58c35d58e05", null ]
 ];

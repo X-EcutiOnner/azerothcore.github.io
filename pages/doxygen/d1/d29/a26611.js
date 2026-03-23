@@ -1,6 +1,6 @@
 var a26611 =
 [
-    [ "CheckRequirement", "d1/d29/a26611.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "d1/d29/a26611.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "d1/d29/a26611.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "HandleEffectScriptEffect", "d1/d29/a26611.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
+    [ "PrepareSpellScript", "d1/d29/a26611.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
+    [ "Register", "d1/d29/a26611.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
 ];

@@ -1,5 +1,7 @@
 var a29119 =
 [
-    [ "max", "d0/d2a/a29119.html#a3d87d5fa5e887282fa76a4a4b77eb097", null ],
-    [ "min", "d0/d2a/a29119.html#a7277258d8bdc471a007814fadf91780a", null ]
+    [ "ClassMask", "d0/d2a/a29119.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "d0/d2a/a29119.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "d0/d2a/a29119.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "d0/d2a/a29119.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

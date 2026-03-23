@@ -1,8 +1,6 @@
 var a26323 =
 [
-    [ "HandleDummy", "d9/d38/a26323.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
-    [ "PrepareSpellScript", "d9/d38/a26323.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
-    [ "Register", "d9/d38/a26323.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
-    [ "Validate", "d9/d38/a26323.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
-    [ "PolymorhForms", "d9/d38/a26323.html#a1443d2532a060514e697a8d5e0c21b20", null ]
+    [ "CheckProc", "d9/d38/a26323.html#a4c536d65ba5325a6e63ad78bbc9bbfd6", null ],
+    [ "PrepareAuraScript", "d9/d38/a26323.html#a1dcda7de24effce7d975b714629f0e8a", null ],
+    [ "Register", "d9/d38/a26323.html#a0802e87836e910dc7007e2a2e7a888fd", null ]
 ];

@@ -1,6 +1,25 @@
 var a13327 =
 [
-    [ "npc_risen_guardianAI", "df/dba/a13331.html", "df/dba/a13331" ],
-    [ "npc_risen_guardian", "d1/d7c/a13327.html#a472274c69abe912f5781c60911204eb5", null ],
-    [ "GetAI", "d1/d7c/a13327.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
+    [ "npc_highlord_darion_mograineAI", "d1/d7c/a13327.html#a04be4c12a255c082b2a00daf40e86d96", null ],
+    [ "DoAction", "d1/d7c/a13327.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
+    [ "FinishFight", "d1/d7c/a13327.html#ab3fef458ca3180f49d78579f7485e76c", null ],
+    [ "GetData", "d1/d7c/a13327.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
+    [ "GetEntryFromSummons", "d1/d7c/a13327.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
+    [ "JustDied", "d1/d7c/a13327.html#a2875789a251381677106f74e61efaa77", null ],
+    [ "JustEngagedWith", "d1/d7c/a13327.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
+    [ "JustRespawned", "d1/d7c/a13327.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
+    [ "JustSummoned", "d1/d7c/a13327.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
+    [ "MovementInform", "d1/d7c/a13327.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
+    [ "Reset", "d1/d7c/a13327.html#a7dde645763bab79e34fa7421dbec518e", null ],
+    [ "SendInitialWorldStates", "d1/d7c/a13327.html#ab49e38e481fcb263337f5224c1db7383", null ],
+    [ "SendUpdateWorldState", "d1/d7c/a13327.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
+    [ "SummonedCreatureDies", "d1/d7c/a13327.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
+    [ "UpdateAI", "d1/d7c/a13327.html#a086efd646a7298ce17f7ead4688fa022", null ],
+    [ "battleStarted", "d1/d7c/a13327.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
+    [ "defendersRemaining", "d1/d7c/a13327.html#a49b41a9719548bffd2020caea7a94a3d", null ],
+    [ "events", "d1/d7c/a13327.html#a2155cbea373225904a3645a77738dea4", null ],
+    [ "resetExecuted", "d1/d7c/a13327.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
+    [ "scourgeRemaining", "d1/d7c/a13327.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
+    [ "startTimeRemaining", "d1/d7c/a13327.html#a503f8e5166ec08664085ae032611de61", null ],
+    [ "summons", "d1/d7c/a13327.html#ae592eef844350ca8fa8415f343d8dffc", null ]
 ];

@@ -1,6 +1,7 @@
 var a20091 =
 [
-    [ "npc_freya_wardAI", "d1/de3/a20095.html", "d1/de3/a20095" ],
-    [ "npc_freya_ward", "d4/d61/a20091.html#aebaadcc001922c78e8ec43084a827ac9", null ],
-    [ "GetAI", "d4/d61/a20091.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
+    [ "boss_freya_lifebinder", "d4/d61/a20091.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "d4/d61/a20091.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "d4/d61/a20091.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_healTimer", "d4/d61/a20091.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
 ];

@@ -1,6 +1,6 @@
 var a21035 =
 [
-    [ "boss_yoggsaron_brainAI", "d7/d15/a21039.html", "d7/d15/a21039" ],
-    [ "boss_yoggsaron_brain", "d1/d51/a21035.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
-    [ "GetAI", "d1/d51/a21035.html#a02e6b07087765d75d0f49b864e2f323f", null ]
+    [ "npc_frozen_orb_stalkerAI", "d1/d51/a21035.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d1/d51/a21035.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d1/d51/a21035.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

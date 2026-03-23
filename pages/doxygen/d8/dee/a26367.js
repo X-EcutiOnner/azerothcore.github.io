@@ -1,7 +1,6 @@
 var a26367 =
 [
-    [ "HandleDummy", "d8/dee/a26367.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
-    [ "PrepareSpellScript", "d8/dee/a26367.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
-    [ "Register", "d8/dee/a26367.html#adadd0254d68281ac1063bcc57574ed77", null ],
-    [ "Validate", "d8/dee/a26367.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
+    [ "HandleRemove", "d8/dee/a26367.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
+    [ "PrepareAuraScript", "d8/dee/a26367.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
+    [ "Register", "d8/dee/a26367.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
 ];

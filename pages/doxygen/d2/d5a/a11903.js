@@ -1,11 +1,10 @@
 var a11903 =
 [
-    [ "group_commandscript", "d2/d5a/a11903.html#ad2890427cfe3649b2e0fe0896693372c", null ],
-    [ "GetCommands", "d2/d5a/a11903.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
-    [ "HandleGroupDisbandCommand", "d2/d5a/a11903.html#a538539340a697e02453ddcfa669fb646", null ],
-    [ "HandleGroupJoinCommand", "d2/d5a/a11903.html#a382e8532c653464e90b45569e813ae37", null ],
-    [ "HandleGroupLeaderCommand", "d2/d5a/a11903.html#a899858a63add3c68e0e1446d29216c00", null ],
-    [ "HandleGroupListCommand", "d2/d5a/a11903.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "d2/d5a/a11903.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "d2/d5a/a11903.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "AcoreStringChatBuilder", "d2/d5a/a11903.html#a7e280083c80fd119d365649fd4578fc9", null ],
+    [ "operator()", "d2/d5a/a11903.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
+    [ "_args", "d2/d5a/a11903.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
+    [ "_msgType", "d2/d5a/a11903.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
+    [ "_source", "d2/d5a/a11903.html#ac5222737ea1b95b6d75afc532838f8be", null ],
+    [ "_target", "d2/d5a/a11903.html#ab659b7c7bd6426a023cf8668322327b8", null ],
+    [ "_textId", "d2/d5a/a11903.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
 ];

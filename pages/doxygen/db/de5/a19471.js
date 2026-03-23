@@ -1,7 +1,8 @@
 var a19471 =
 [
-    [ "npc_naxxramas_trigger", "db/de5/a19471.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "db/de5/a19471.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "db/de5/a19471.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "db/de5/a19471.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "Load", "db/de5/a19471.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
+    [ "OnRemove", "db/de5/a19471.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
+    [ "PrepareAuraScript", "db/de5/a19471.html#aae6c3a215b09fd2270976190600e2cc4", null ],
+    [ "Register", "db/de5/a19471.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
+    [ "Validate", "db/de5/a19471.html#ae4ac76269793280335d76a78e5dced91", null ]
 ];

@@ -1,6 +1,8 @@
 var a12775 =
 [
-    [ "instance_molten_core_InstanceMapScript", "d2/d33/a12779.html", "d2/d33/a12779" ],
-    [ "instance_molten_core", "d6/d89/a12775.html#ad83dac834feb2fcae872dfe09b833950", null ],
-    [ "GetInstanceScript", "d6/d89/a12775.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
+    [ "MajordomoAddData", "d6/d89/a12775.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "d6/d89/a12775.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "d6/d89/a12775.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "d6/d89/a12775.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "d6/d89/a12775.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

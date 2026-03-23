@@ -1,4 +1,5 @@
 var a11039 =
 [
-    [ "InvalidHyperlinkException", "db/df1/a11039.html#a4e30376bb16ea56434e65761a2f4a55d", null ]
+    [ "Icon", "db/df1/a11039.html#ae47c09144b18e42aa48499de3e3fe276", null ],
+    [ "Name", "db/df1/a11039.html#a19c79529bbfe25701c9f8253f3e0f9d8", null ]
 ];

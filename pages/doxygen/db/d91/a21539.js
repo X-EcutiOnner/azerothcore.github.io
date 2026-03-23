@@ -1,6 +1,6 @@
 var a21539 =
 [
-    [ "boss_ichoronAI", "da/d26/a21543.html", "da/d26/a21543" ],
-    [ "boss_ichoron", "db/d91/a21539.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "db/d91/a21539.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "GhoulTargetCheck", "db/d91/a21539.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "db/d91/a21539.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "db/d91/a21539.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

@@ -1,5 +1,7 @@
 var a11387 =
 [
-    [ "WorldObjectSpellTrajTargetCheck", "d1/d5b/a11387.html#a0c08b6b4c7878678eb419a556f718be0", null ],
-    [ "operator()", "d1/d5b/a11387.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
+    [ "PetActionSound", "d1/d5b/a11387.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "d1/d5b/a11387.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "d1/d5b/a11387.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "d1/d5b/a11387.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

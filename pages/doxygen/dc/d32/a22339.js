@@ -1,6 +1,8 @@
 var a22339 =
 [
-    [ "npc_tournament_training_dummyAI", "da/d30/a22343.html", "da/d30/a22343" ],
-    [ "npc_tournament_training_dummy", "dc/d32/a22339.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "dc/d32/a22339.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "boss_pandemonius", "dc/d32/a22339.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "dc/d32/a22339.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "dc/d32/a22339.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "dc/d32/a22339.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "dc/d32/a22339.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

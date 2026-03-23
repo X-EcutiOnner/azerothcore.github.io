@@ -1,10 +1,7 @@
 var a25043 =
 [
-    [ "FilterTargets", "d9/dc8/a25043.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "d9/dc8/a25043.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "d9/dc8/a25043.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "d9/dc8/a25043.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "d9/dc8/a25043.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "d9/dc8/a25043.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "d9/dc8/a25043.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "HandleApplyEffect", "d9/dc8/a25043.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "d9/dc8/a25043.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "d9/dc8/a25043.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "d9/dc8/a25043.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

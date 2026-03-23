@@ -1,16 +1,7 @@
 var a21579 =
 [
-    [ "boss_xevozzAI", "db/d7a/a21579.html#a422359074a43e84ee6462b61fc4ce6a9", null ],
-    [ "EnterEvadeMode", "db/d7a/a21579.html#a5557f799c862759c8fd94a98cadee7d5", null ],
-    [ "JustDied", "db/d7a/a21579.html#a6e66dec2e1bc198d9b3e855366ca8b02", null ],
-    [ "JustEngagedWith", "db/d7a/a21579.html#a0f8c06f3e0934eb22bf8a26aa3238b50", null ],
-    [ "JustSummoned", "db/d7a/a21579.html#a04787f7600a817fd63132676590505a8", null ],
-    [ "KilledUnit", "db/d7a/a21579.html#ad47008e9044815cc4475adbaf3ece543", null ],
-    [ "MoveInLineOfSight", "db/d7a/a21579.html#a519c1222ef186067dcb9a98bb84ea031", null ],
-    [ "Reset", "db/d7a/a21579.html#a435b22ca3c7e573d4e3c70e2497063e7", null ],
-    [ "SummonedCreatureDespawn", "db/d7a/a21579.html#ab6e7bb57110831079ede943a74641bd4", null ],
-    [ "UpdateAI", "db/d7a/a21579.html#aa61271e4a9d8e13ac875f6efd550aa4b", null ],
-    [ "events", "db/d7a/a21579.html#a8a5796089d42dad89c9cec5ea4d38321", null ],
-    [ "pInstance", "db/d7a/a21579.html#a9eda85f10a814efa32f7b224e1772b89", null ],
-    [ "spheres", "db/d7a/a21579.html#ab1d51bbfd433b37b8ceec15a18d62b17", null ]
+    [ "HandleDummy", "db/d7a/a21579.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
+    [ "PrepareSpellScript", "db/d7a/a21579.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
+    [ "Register", "db/d7a/a21579.html#a45f80e0436f93a597deb4653852df6a1", null ],
+    [ "Validate", "db/d7a/a21579.html#ad13fdade1fb7455485bfd68687de53c5", null ]
 ];

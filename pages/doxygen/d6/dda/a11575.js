@@ -1,6 +1,8 @@
 var a11575 =
 [
-    [ "EffectAbsorbHandler", "d6/dda/a11575.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "d6/dda/a11575.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "d6/dda/a11575.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "SkillExtraItemEntry", "d6/dda/a11575.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "d6/dda/a11575.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "d6/dda/a11575.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "d6/dda/a11575.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "d6/dda/a11575.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

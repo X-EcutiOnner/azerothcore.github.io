@@ -1,10 +1,8 @@
 var a25731 =
 [
-    [ "ApplyMarker", "dc/d9e/a25731.html#aae1bd2f5f21a389e8d110cabecc9d94d", null ],
-    [ "CheckTrapProc", "dc/d9e/a25731.html#a00f06f18b6874302f88c3af193d8e4ed", null ],
-    [ "HandleProcs", "dc/d9e/a25731.html#a81abe76c24a6a6320811d99ce8f5fb4f", null ],
-    [ "IsTargetValid", "dc/d9e/a25731.html#a02590da9b97a4d6bc7a6cbd0e670480f", null ],
-    [ "PrepareAuraScript", "dc/d9e/a25731.html#a475320d20875b2d710ed3734b78f4645", null ],
-    [ "Register", "dc/d9e/a25731.html#aca7649a87ace4e22793ca33705b1500c", null ],
-    [ "Validate", "dc/d9e/a25731.html#a45630b6dc703996321286ff16a17e3e3", null ]
+    [ "HandleDummy", "dc/d9e/a25731.html#a57897df074b7766c022526e082b4a13b", null ],
+    [ "Load", "dc/d9e/a25731.html#a47cbade67be124496c6194391ab51794", null ],
+    [ "PrepareSpellScript", "dc/d9e/a25731.html#af5e5a22976adfa5588ca8e054e19a669", null ],
+    [ "Register", "dc/d9e/a25731.html#ab0c3be8436b79288bb45899448fd6c1b", null ],
+    [ "Validate", "dc/d9e/a25731.html#a97d037267e385e0d3fd80543a5ddb366", null ]
 ];

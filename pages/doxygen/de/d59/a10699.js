@@ -1,8 +1,10 @@
 var a10699 =
 [
-    [ "OtherGUID", "de/d59/a10699.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
-    [ "PlayerGUID", "de/d59/a10699.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
-    [ "RankID", "de/d59/a10699.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
-    [ "TransactionDate", "de/d59/a10699.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
-    [ "TransactionType", "de/d59/a10699.html#aa48b69aa9078fb150470d66201b34786", null ]
+    [ "TicketScript", "de/d59/a10699.html#aec2b310ba0b26aa84a245207256edb0e", null ],
+    [ "IsDatabaseBound", "de/d59/a10699.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
+    [ "OnTicketClose", "de/d59/a10699.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
+    [ "OnTicketCreate", "de/d59/a10699.html#a3436bbc78425bf5144c81f6309060b33", null ],
+    [ "OnTicketResolve", "de/d59/a10699.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
+    [ "OnTicketStatusUpdate", "de/d59/a10699.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
+    [ "OnTicketUpdateLastChange", "de/d59/a10699.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
 ];

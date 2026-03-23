@@ -1,9 +1,12 @@
 var a09443 =
 [
-    [ "NearestAttackableUnitInObjectRangeCheck", "d9/d29/a09443.html#ae2f43e2036047622ec88de3db08ea668", null ],
-    [ "NearestAttackableUnitInObjectRangeCheck", "d9/d29/a09443.html#a8deef14a2c11f9ccd9613614124a7d8e", null ],
-    [ "operator()", "d9/d29/a09443.html#a2f966e38682e6a02a120ad90ba19f7a4", null ],
-    [ "i_funit", "d9/d29/a09443.html#a88be7342d10008fc394f21b9a5e14162", null ],
-    [ "i_obj", "d9/d29/a09443.html#a6c1c4e5b85f6f7958578afb6c6f2af98", null ],
-    [ "i_range", "d9/d29/a09443.html#a26242657d6f2eb61d6f8fcac30357381", null ]
+    [ "GridTerrainLoader", "d9/d29/a09443.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
+    [ "ExistMap", "d9/d29/a09443.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
+    [ "ExistVMap", "d9/d29/a09443.html#a17bdde445c48738ade280bd1cdda0619", null ],
+    [ "LoadMap", "d9/d29/a09443.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
+    [ "LoadMMap", "d9/d29/a09443.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
+    [ "LoadTerrain", "d9/d29/a09443.html#a097556a8a778efa22ab9d50cbda2649a", null ],
+    [ "LoadVMap", "d9/d29/a09443.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
+    [ "_grid", "d9/d29/a09443.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
+    [ "_map", "d9/d29/a09443.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
 ];

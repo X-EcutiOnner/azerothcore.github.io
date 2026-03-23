@@ -1,6 +1,9 @@
 var a10751 =
 [
-    [ "GuildPromoteMember", "d5/d21/a10751.html#af623a381aa80e827c2c29987501626ae", null ],
-    [ "Read", "d5/d21/a10751.html#a3350c1a8c81aa1368a254288849b462b", null ],
-    [ "Promotee", "d5/d21/a10751.html#af8addf6e9bc45364f595582e8f285cde", null ]
+    [ "fX", "d5/d21/a10751.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d5/d21/a10751.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d5/d21/a10751.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d5/d21/a10751.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d5/d21/a10751.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d5/d21/a10751.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

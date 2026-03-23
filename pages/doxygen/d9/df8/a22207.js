@@ -1,9 +1,13 @@
 var a22207 =
 [
-    [ "npc_Apothecary_HanesAI", "d9/df8/a22207.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "d9/df8/a22207.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "d9/df8/a22207.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "d9/df8/a22207.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "d9/df8/a22207.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "PotTimer", "d9/df8/a22207.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "OPvPCapturePointEP_CGT", "d9/df8/a22207.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
+    [ "ChangeState", "d9/df8/a22207.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
+    [ "FillInitialWorldStates", "d9/df8/a22207.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
+    [ "HandlePlayerEnter", "d9/df8/a22207.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
+    [ "HandlePlayerLeave", "d9/df8/a22207.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
+    [ "LinkGraveyard", "d9/df8/a22207.html#ada14179a31fb6235b7882a190dc96c40", null ],
+    [ "SendChangePhase", "d9/df8/a22207.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
+    [ "UpdateTowerState", "d9/df8/a22207.html#a764284d6143d4879b5bc003acc52048c", null ],
+    [ "m_GraveyardSide", "d9/df8/a22207.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
+    [ "m_TowerState", "d9/df8/a22207.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
 ];

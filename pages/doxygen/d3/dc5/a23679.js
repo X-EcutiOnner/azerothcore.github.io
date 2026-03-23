@@ -1,7 +1,7 @@
 var a23679 =
 [
-    [ "OnApply", "d3/dc5/a23679.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d3/dc5/a23679.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d3/dc5/a23679.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d3/dc5/a23679.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "OnPeriodic", "d3/dc5/a23679.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d3/dc5/a23679.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d3/dc5/a23679.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d3/dc5/a23679.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

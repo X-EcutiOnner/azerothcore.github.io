@@ -1,10 +1,6 @@
 var a26375 =
 [
-    [ "Load", "d1/db4/a26375.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
-    [ "PrepareAuraScript", "d1/db4/a26375.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
-    [ "Register", "d1/db4/a26375.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
-    [ "Split", "d1/db4/a26375.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
-    [ "groupSize", "d1/db4/a26375.html#aa1e61b128f63c802dc623be551657df1", null ],
-    [ "minHpPct", "d1/db4/a26375.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
-    [ "remainingAmount", "d1/db4/a26375.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
+    [ "CalculateAmount", "d1/db4/a26375.html#acc2c4cea16dfa30c49387ac166cef560", null ],
+    [ "PrepareAuraScript", "d1/db4/a26375.html#a8d7e840994ba5034a249171dbfc016a6", null ],
+    [ "Register", "d1/db4/a26375.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
 ];

@@ -1,4 +1,8 @@
 var a22763 =
 [
-    [ "idPatrol", "df/d4b/a22763.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
+    [ "CalcPeriodic", "df/d4b/a22763.html#aad87c25b9b3255a4871bec39d9787299", null ],
+    [ "PrepareAuraScript", "df/d4b/a22763.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
+    [ "Register", "df/d4b/a22763.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
+    [ "Update", "df/d4b/a22763.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
+    [ "Validate", "df/d4b/a22763.html#ae4f7bfb1cd95666acada217173876352", null ]
 ];

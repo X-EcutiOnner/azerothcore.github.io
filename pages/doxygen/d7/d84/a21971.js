@@ -1,6 +1,6 @@
 var a21971 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d7/d84/a21971.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "d7/d84/a21971.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "d7/d84/a21971.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_roxi_ramrocket", "d7/d84/a21971.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "d7/d84/a21971.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "d7/d84/a21971.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

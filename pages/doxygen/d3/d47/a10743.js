@@ -1,5 +1,5 @@
 var a10743 =
 [
-    [ "GuildDelete", "d3/d47/a10743.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
-    [ "Read", "d3/d47/a10743.html#ae5ca379b187902323638f4c10be0a4d0", null ]
+    [ "UpdatableScript", "d3/d47/a10743.html#a2d6cf85d1eb98438b5022804296eff11", null ],
+    [ "OnUpdate", "d3/d47/a10743.html#abf328325e08aa0d6adf36e6f70b02328", null ]
 ];

@@ -1,17 +1,19 @@
 var a11927 =
 [
-    [ "learn_commandscript", "df/d1e/a11927.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
-    [ "GetCommands", "df/d1e/a11927.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
-    [ "HandleLearnAllCraftsCommand", "df/d1e/a11927.html#ae25064fa03d022277a368f52a17e5b70", null ],
-    [ "HandleLearnAllDefaultCommand", "df/d1e/a11927.html#a985d2a10f01808c4bff2922b1530e911", null ],
-    [ "HandleLearnAllGMCommand", "df/d1e/a11927.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
-    [ "HandleLearnAllLangCommand", "df/d1e/a11927.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
-    [ "HandleLearnAllMyClassCommand", "df/d1e/a11927.html#a956716b7743dfc6de922b0badf40aeda", null ],
-    [ "HandleLearnAllMyPetTalentsCommand", "df/d1e/a11927.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
-    [ "HandleLearnAllMySpellsCommand", "df/d1e/a11927.html#af95e27d3bfb3cd421a0fd13f9f655755", null ],
-    [ "HandleLearnAllMyTalentsCommand", "df/d1e/a11927.html#aaa19e92798ac56355a95e625ead56556", null ],
-    [ "HandleLearnAllRecipesCommand", "df/d1e/a11927.html#a44b538a1031ad69bec762f1a791cf11f", null ],
-    [ "HandleLearnCommand", "df/d1e/a11927.html#ab59da6873596596ee84509cb0060e760", null ],
-    [ "HandleLearnSkillRecipesHelper", "df/d1e/a11927.html#ae8bd0389415fdeb70d369b694b953619", null ],
-    [ "HandleUnLearnCommand", "df/d1e/a11927.html#a2dc980af9662b3b1c783e3603732ca01", null ]
+    [ "CreatureTextMgr", "df/d1e/a11927.html#a00cc7ebfdb0702de8af841dcbbddcc3b", null ],
+    [ "~CreatureTextMgr", "df/d1e/a11927.html#a6f77e1f030bb16b585f9a75059a06f31", null ],
+    [ "GetLocalizedChatString", "df/d1e/a11927.html#a169c53804fb5bf4ecd509ee90482ebf5", null ],
+    [ "GetRangeForChatType", "df/d1e/a11927.html#aeddebd7d3fcf604ee4d11b77ff87fd53", null ],
+    [ "GetTextMap", "df/d1e/a11927.html#a5237341864a3082126bed703d68312b2", null ],
+    [ "instance", "df/d1e/a11927.html#a92acbdab30a8942859e01526144b9989", null ],
+    [ "LoadCreatureTextLocales", "df/d1e/a11927.html#a826a3cd2e991c358a98fced5512297dd", null ],
+    [ "LoadCreatureTexts", "df/d1e/a11927.html#a129039b5a7d2de067656cd6e47de43dd", null ],
+    [ "SendChat", "df/d1e/a11927.html#a93c7fa546a0f41e7d59c6782aecee070", null ],
+    [ "SendChatPacket", "df/d1e/a11927.html#a0b94720ae3ab22ba8bb961f26f47548b", null ],
+    [ "SendEmote", "df/d1e/a11927.html#a8b9dc67f09242b5ade7405663ca52fda", null ],
+    [ "SendNonChatPacket", "df/d1e/a11927.html#a2303c6343e233beb3f7a1ebda40e080e", null ],
+    [ "SendSound", "df/d1e/a11927.html#aa36b6dd5010eea049973122bec4fceb1", null ],
+    [ "TextExist", "df/d1e/a11927.html#aa92d99a93a387193a10eb7a30c59b86e", null ],
+    [ "mLocaleTextMap", "df/d1e/a11927.html#a12ecf289ef6d78691b6ab23f3cdd9fd8", null ],
+    [ "mTextMap", "df/d1e/a11927.html#ad25faab453d0f5d6270797eeeb5e2e40", null ]
 ];

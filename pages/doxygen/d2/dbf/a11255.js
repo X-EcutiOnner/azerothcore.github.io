@@ -1,5 +1,7 @@
 var a11255 =
 [
-    [ "amountCounter", "d2/dbf/a11255.html#af652ffc837bde625aa39e913ec2e2eec", null ],
-    [ "lastReceiveTime", "d2/dbf/a11255.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
+    [ "StopMirrorTimer", "d2/dbf/a11255.html#aabd646c82f3dcdff2eef2158c6724dff", null ],
+    [ "StopMirrorTimer", "d2/dbf/a11255.html#a25f930852c7124cdfbf73687e62a26d1", null ],
+    [ "Write", "d2/dbf/a11255.html#ae99dab4406316eac99a6e0e0146d879e", null ],
+    [ "Timer", "d2/dbf/a11255.html#a5e5cf56b83aca514cff34c1a17f2d3b1", null ]
 ];

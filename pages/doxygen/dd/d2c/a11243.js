@@ -1,6 +1,9 @@
 var a11243 =
 [
-    [ "WorldSession", "dd/d2c/a11243.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "dd/d2c/a11243.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "dd/d2c/a11243.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "RandomRoll", "dd/d2c/a11243.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "dd/d2c/a11243.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "dd/d2c/a11243.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "dd/d2c/a11243.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "dd/d2c/a11243.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "dd/d2c/a11243.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

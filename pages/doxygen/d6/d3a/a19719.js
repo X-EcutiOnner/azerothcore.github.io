@@ -1,6 +1,8 @@
 var a19719 =
 [
-    [ "PrepareSpellScript", "d6/d3a/a19719.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "d6/d3a/a19719.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "d6/d3a/a19719.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d6/d3a/a19719.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "d6/d3a/a19719.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "d6/d3a/a19719.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "d6/d3a/a19719.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "d6/d3a/a19719.html#a52db8081961566ef2002424f00b60189", null ]
 ];

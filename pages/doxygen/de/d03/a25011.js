@@ -1,6 +1,7 @@
 var a25011 =
 [
-    [ "HandleKnockBack", "de/d03/a25011.html#ae50d143953074b83183482770046e131", null ],
-    [ "PrepareSpellScript", "de/d03/a25011.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
-    [ "Register", "de/d03/a25011.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
+    [ "HandleScript", "de/d03/a25011.html#a8b20e2ffed94ec9438dc9b756ba76693", null ],
+    [ "PrepareSpellScript", "de/d03/a25011.html#a9e29ea947d5415471d991a4e1cd699ac", null ],
+    [ "Register", "de/d03/a25011.html#aa4bc27415893009581b317637599a85a", null ],
+    [ "Validate", "de/d03/a25011.html#a77ed10819633ae2bc381023da0feb31b", null ]
 ];

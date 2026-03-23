@@ -1,6 +1,7 @@
 var a27263 =
 [
-    [ "HandleOnHit", "de/d96/a27263.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "de/d96/a27263.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "de/d96/a27263.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "HandleScriptEffect", "de/d96/a27263.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
+    [ "PrepareSpellScript", "de/d96/a27263.html#a7462fbeab2254046e12a262418ec0d2c", null ],
+    [ "Register", "de/d96/a27263.html#ac14625182eb0289d8536ac322500ab45", null ],
+    [ "Validate", "de/d96/a27263.html#a190b802f3b09655886e5bbb9980375af", null ]
 ];

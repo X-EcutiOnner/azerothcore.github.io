@@ -1,12 +1,8 @@
 var a21923 =
 [
-    [ "npc_dalaran_warriorAI", "d8/d5f/a21923.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
-    [ "Initialize", "d8/d5f/a21923.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
-    [ "JustEngagedWith", "d8/d5f/a21923.html#ae6690f0681363784e457fbd653f5b3f9", null ],
-    [ "Reset", "d8/d5f/a21923.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
-    [ "UpdateAI", "d8/d5f/a21923.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
-    [ "Battleshout_timer", "d8/d5f/a21923.html#ae36f30f816164b60232bd849e74c3da1", null ],
-    [ "disarm_timer", "d8/d5f/a21923.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
-    [ "hamstring_timer", "d8/d5f/a21923.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
-    [ "shout_timer", "d8/d5f/a21923.html#ac91770c1e9eb31d687247450898a48ae", null ]
+    [ "npc_adventurous_dwarfAI", "da/dc4/a21927.html", "da/dc4/a21927" ],
+    [ "npc_adventurous_dwarf", "d8/d5f/a21923.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "d8/d5f/a21923.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "d8/d5f/a21923.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "d8/d5f/a21923.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

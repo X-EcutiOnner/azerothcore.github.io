@@ -1,7 +1,8 @@
 var a28395 =
 [
-    [ "Displayid", "d9/d07/a28395.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "d9/d07/a28395.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "d9/d07/a28395.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "d9/d07/a28395.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "npc_minion_spawner", "d9/d07/a28395.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
+    [ "CanSpawnRareMinion", "d9/d07/a28395.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
+    [ "JustSummoned", "d9/d07/a28395.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
+    [ "Reset", "d9/d07/a28395.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
+    [ "UpdateAI", "d9/d07/a28395.html#a24f93f1314bb73edb369e188eda83104", null ]
 ];

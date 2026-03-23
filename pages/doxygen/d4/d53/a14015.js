@@ -1,6 +1,8 @@
 var a14015 =
 [
-    [ "npc_the_scourge_cauldronAI", "de/d24/a14019.html", "de/d24/a14019" ],
-    [ "npc_the_scourge_cauldron", "d4/d53/a14015.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
-    [ "GetAI", "d4/d53/a14015.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
+    [ "npc_varian_wrynnAI", "de/d24/a14019.html", "de/d24/a14019" ],
+    [ "npc_varian_wrynn", "d4/d53/a14015.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d4/d53/a14015.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d4/d53/a14015.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d4/d53/a14015.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

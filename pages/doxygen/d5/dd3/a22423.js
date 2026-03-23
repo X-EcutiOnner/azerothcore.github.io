@@ -1,8 +1,7 @@
 var a22423 =
 [
-    [ "npc_adventurous_dwarfAI", "dc/dab/a22427.html", "dc/dab/a22427" ],
-    [ "npc_adventurous_dwarf", "d5/dd3/a22423.html#a15c39e217907189db9be7799e696f310", null ],
-    [ "GetAI", "d5/dd3/a22423.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
-    [ "OnGossipHello", "d5/dd3/a22423.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
-    [ "OnGossipSelect", "d5/dd3/a22423.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
+    [ "HandleProc", "d5/dd3/a22423.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "d5/dd3/a22423.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "d5/dd3/a22423.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "d5/dd3/a22423.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

@@ -1,6 +1,5 @@
 var a12695 =
 [
-    [ "boss_magmadarAI", "d1/da2/a12695.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "d1/da2/a12695.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "d1/da2/a12695.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "go_orb_of_domination", "d1/da2/a12695.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
+    [ "GossipHello", "d1/da2/a12695.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
 ];

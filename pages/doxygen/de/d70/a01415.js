@@ -1,10 +1,9 @@
 var a01415 =
 [
-    [ "GameEventScript", "d1/d71/a10524.html", "d1/d71/a10524" ],
-    [ "GameEventHook", "de/d70/a01415.html#a6f634b591917b5ff2ab57f9739afa44b", [
-      [ "GAMEEVENTHOOK_ON_START", "de/d70/a01415.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
-      [ "GAMEEVENTHOOK_ON_STOP", "de/d70/a01415.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
-      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "de/d70/a01415.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
-      [ "GAMEEVENTHOOK_END", "de/d70/a01415.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
-    ] ]
+    [ "PetSpell", "d1/dfc/a08759.html", "d1/dfc/a08759" ],
+    [ "Pet", "dd/d1e/a08763.html", "dd/d1e/a08763" ],
+    [ "AutoSpellList", "de/d70/a01415.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
+    [ "PetSpellMap", "de/d70/a01415.html#a5b33058abef8c309621a9029df331c0e", null ],
+    [ "HAPPINESS_LEVEL_SIZE", "de/d70/a01415.html#a892e58d225a828ccac38c7d241365e30", null ],
+    [ "PET_LOSE_HAPPINES_INTERVAL", "de/d70/a01415.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
 ];

@@ -1,5 +1,7 @@
 var a19463 =
 [
-    [ "npc_mr_bigglesworth", "d6/d18/a19463.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
-    [ "JustDied", "d6/d18/a19463.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
+    [ "npc_eoe_wyrmrest_skytalon", "d6/d18/a19463.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
+    [ "IsSummonedBy", "d6/d18/a19463.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
+    [ "JustDied", "d6/d18/a19463.html#a65df31829e801154ee20d55ad1c15721", null ],
+    [ "PassengerBoarded", "d6/d18/a19463.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
 ];

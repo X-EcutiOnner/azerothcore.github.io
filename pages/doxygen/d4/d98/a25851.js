@@ -1,6 +1,7 @@
 var a25851 =
 [
-    [ "OnRemove", "d4/d98/a25851.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "d4/d98/a25851.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "d4/d98/a25851.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "HandleHeal", "d4/d98/a25851.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
+    [ "Load", "d4/d98/a25851.html#a4dd5016439e8798083fe3d4fa5458731", null ],
+    [ "PrepareSpellScript", "d4/d98/a25851.html#a248ae6d2c8f8d6c014a0164105773836", null ],
+    [ "Register", "d4/d98/a25851.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
 ];

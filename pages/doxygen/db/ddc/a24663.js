@@ -1,10 +1,8 @@
 var a24663 =
 [
-    [ "npc_pet_hunter_snake_trap", "db/ddc/a24663.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "EnterEvadeMode", "db/ddc/a24663.html#a819add0c7b968063403d10275fdc289f", null ],
-    [ "MoveInLineOfSight", "db/ddc/a24663.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
-    [ "Reset", "db/ddc/a24663.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
-    [ "UpdateAI", "db/ddc/a24663.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_init", "db/ddc/a24663.html#a1b5c1301389749f82667c35f3daff847", null ],
-    [ "_spellTimer", "db/ddc/a24663.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "CheckProc", "db/ddc/a24663.html#aa3b4d0bb214146b14d7a991c12f2f38d", null ],
+    [ "HandleProc", "db/ddc/a24663.html#a020b3e9890b8ef88887ec3cf35f7ca6d", null ],
+    [ "PrepareAuraScript", "db/ddc/a24663.html#aee9068453d0c16088eb120da65657903", null ],
+    [ "Register", "db/ddc/a24663.html#ad87e455c7e09c040f574140921b4e406", null ],
+    [ "Validate", "db/ddc/a24663.html#a1075a61443eba3609f4d0602fb4f1144", null ]
 ];

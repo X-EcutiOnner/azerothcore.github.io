@@ -1,5 +1,11 @@
 var a22387 =
 [
-    [ "go_brazier", "d1/ded/a22387.html#a432a07256fde679a889de7ba0f64f092", null ],
-    [ "OnGossipHello", "d1/ded/a22387.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
+    [ "boss_blackheart_the_inciter", "d1/ded/a22387.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "d1/ded/a22387.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "d1/ded/a22387.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "d1/ded/a22387.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "d1/ded/a22387.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "d1/ded/a22387.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "d1/ded/a22387.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "d1/ded/a22387.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

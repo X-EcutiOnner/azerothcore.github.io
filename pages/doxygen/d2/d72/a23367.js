@@ -1,15 +1,15 @@
 var a23367 =
 [
-    [ "boss_hydross_the_unstable", "d2/d72/a23367.html#a8e385f4f7f448033b00828540aa16cde", null ],
-    [ "JustDied", "d2/d72/a23367.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
-    [ "JustEngagedWith", "d2/d72/a23367.html#a4fd2138ce9962d89410b57702d7df33d", null ],
-    [ "JustReachedHome", "d2/d72/a23367.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
-    [ "JustSummoned", "d2/d72/a23367.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
-    [ "KilledUnit", "d2/d72/a23367.html#a252d3abdf24c06922c88823bc5e535f3", null ],
-    [ "Reset", "d2/d72/a23367.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
-    [ "SetForm", "d2/d72/a23367.html#ac80b0611533998d15406d45385d37629", null ],
-    [ "SummonedCreatureDespawn", "d2/d72/a23367.html#afe4b76f528045506586f8289eaee27aa", null ],
-    [ "SummonMovementInform", "d2/d72/a23367.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
-    [ "SummonTaintedElementalOOC", "d2/d72/a23367.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
-    [ "_recentlySpoken", "d2/d72/a23367.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
+    [ "npc_shattered_hand_scout", "d2/d72/a23367.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
+    [ "DamageTaken", "d2/d72/a23367.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
+    [ "FireArrows", "d2/d72/a23367.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
+    [ "GetPorung", "d2/d72/a23367.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
+    [ "MoveInLineOfSight", "d2/d72/a23367.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
+    [ "MovementInform", "d2/d72/a23367.html#a6f6198c2faf68823b1d4c8237044784b", null ],
+    [ "Reset", "d2/d72/a23367.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
+    [ "SetData", "d2/d72/a23367.html#a9416dd89c4728538971abc5975c7080f", null ],
+    [ "UpdateAI", "d2/d72/a23367.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
+    [ "_firstZealots", "d2/d72/a23367.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
+    [ "_scheduler", "d2/d72/a23367.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
+    [ "_zealotGUIDs", "d2/d72/a23367.html#a26381a05bb007fdb4b7da97a19a878da", null ]
 ];

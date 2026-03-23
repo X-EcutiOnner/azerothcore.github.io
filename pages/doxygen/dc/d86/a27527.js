@@ -1,6 +1,7 @@
 var a27527 =
 [
-    [ "go_brewfest_musicAI", "de/db2/a27531.html", "de/db2/a27531" ],
-    [ "go_brewfest_music", "dc/d86/a27527.html#a787963a5ee591933d62fdb52911f9a77", null ],
-    [ "GetAI", "dc/d86/a27527.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
+    [ "HandleProc", "dc/d86/a27527.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
+    [ "PrepareAuraScript", "dc/d86/a27527.html#aadbaea984fedb04e77b92174efd5e83d", null ],
+    [ "Register", "dc/d86/a27527.html#aedd1652a571275a305db70fbbe6f725c", null ],
+    [ "Validate", "dc/d86/a27527.html#a28c281aeef80409b419753f71da80f92", null ]
 ];

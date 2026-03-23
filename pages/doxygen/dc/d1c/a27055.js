@@ -1,11 +1,10 @@
 var a27055 =
 [
-    [ "CalcPeriodic", "dc/d1c/a27055.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "dc/d1c/a27055.html#a55f649687813eb915c71ead6afb27276", null ],
-    [ "CalculateResistanceAmount", "dc/d1c/a27055.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "dc/d1c/a27055.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "dc/d1c/a27055.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "dc/d1c/a27055.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "dc/d1c/a27055.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "dc/d1c/a27055.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "HandleProc", "dc/d1c/a27055.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "dc/d1c/a27055.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "dc/d1c/a27055.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "dc/d1c/a27055.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "dc/d1c/a27055.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "dc/d1c/a27055.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "dc/d1c/a27055.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

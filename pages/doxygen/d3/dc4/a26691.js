@@ -1,8 +1,8 @@
 var a26691 =
 [
-    [ "Load", "d3/dc4/a26691.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
-    [ "OnRemove", "d3/dc4/a26691.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
-    [ "PrepareAuraScript", "d3/dc4/a26691.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
-    [ "Register", "d3/dc4/a26691.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
-    [ "Validate", "d3/dc4/a26691.html#a3820e716d20809896c84c1ca781af4d1", null ]
+    [ "CheckProc", "d3/dc4/a26691.html#ae431b65ed505bbc483244ef50c2d35c8", null ],
+    [ "HandleProc", "d3/dc4/a26691.html#ab744f28533935c4a236f0635bbe6465c", null ],
+    [ "PrepareAuraScript", "d3/dc4/a26691.html#a7a531ef1c65bdb0d8001956454a43cd3", null ],
+    [ "Register", "d3/dc4/a26691.html#a8919dc1d487413f54e4a99002350f8d8", null ],
+    [ "Validate", "d3/dc4/a26691.html#aad134b5ef026a8a58ae233090ca01986", null ]
 ];

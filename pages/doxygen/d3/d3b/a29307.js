@@ -1,7 +1,8 @@
 var a29307 =
 [
-    [ "u_map_fcc", "d6/df1/a28318.html", "d6/df1/a28318" ],
-    [ "file_MVER", "d8/dff/a28322.html", "d8/dff/a28322" ],
-    [ "FileLoader", "de/d08/a28330.html", "de/d08/a28330" ],
-    [ "FILE_FORMAT_VERSION", "d3/d3b/a29307.html#a6fef47739ef9998b00a2523c98cb2315", null ]
+    [ "auraHasCanProcFromProcs", "d3/d3b/a29307.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
+    [ "isTriggered", "d3/d3b/a29307.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
+    [ "procAuraSpellId", "d3/d3b/a29307.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
+    [ "spellHasNotAProc", "d3/d3b/a29307.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
+    [ "triggeredByAuraSpellId", "d3/d3b/a29307.html#ad62562e342e1d090e3f26f7c40a35795", null ]
 ];

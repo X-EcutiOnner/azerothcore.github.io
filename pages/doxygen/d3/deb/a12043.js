@@ -1,15 +1,19 @@
 var a12043 =
 [
-    [ "worldstate_commandscript", "d3/deb/a12043.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
-    [ "GetCommands", "d3/deb/a12043.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
-    [ "HandleScourgeInvasionBattlesWonCommand", "d3/deb/a12043.html#a1c2167ce554327d674161b7c4f63585c", null ],
-    [ "HandleScourgeInvasionCommand", "d3/deb/a12043.html#a11aeedef82a93f8799fd788a8c492335", null ],
-    [ "HandleScourgeInvasionStartZone", "d3/deb/a12043.html#af242372bd32ed79d839af82f82423837", null ],
-    [ "HandleScourgeInvasionStateCommand", "d3/deb/a12043.html#a5ba0b973087f921dbb764037c8b36134", null ],
-    [ "HandleSunsReachReclamationCounterCommand", "d3/deb/a12043.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
-    [ "HandleSunsReachReclamationPhaseCommand", "d3/deb/a12043.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
-    [ "HandleSunsReachReclamationStatusCommand", "d3/deb/a12043.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
-    [ "HandleSunsReachReclamationSubPhaseCommand", "d3/deb/a12043.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
-    [ "HandleSunwellGateCommand", "d3/deb/a12043.html#a45b73e47c8e9b21063d02922a83e103b", null ],
-    [ "HandleSunwellGateCounterCommand", "d3/deb/a12043.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
+    [ "WardenPayloadMgr", "d3/deb/a12043.html#a0a90c3e8ab6d5b5698f330b997efed27", null ],
+    [ "ClearQueuedPayloads", "d3/deb/a12043.html#ade67b783b6e6c7421b0d86a9143d60d9", null ],
+    [ "DequeuePayload", "d3/deb/a12043.html#a0fb196873e89729eb5c3ad3238e75a6a", null ],
+    [ "GetFreePayloadId", "d3/deb/a12043.html#a698b2ab4709a495f299be18b053e4014", null ],
+    [ "GetPayloadById", "d3/deb/a12043.html#a9f7d7ab2c529b74b67fb363a063ffa27", null ],
+    [ "GetPayloadCountInQueue", "d3/deb/a12043.html#ae3878c7264337d646f7a5d503907d7aa", null ],
+    [ "GetPayloadsInQueue", "d3/deb/a12043.html#a6b8ed858cc20f8acc0266edbe84b3dfd", null ],
+    [ "QueuePayload", "d3/deb/a12043.html#a36f9cf58fa5c9d34fdac860c3ae692d1", null ],
+    [ "RegisterPayload", "d3/deb/a12043.html#ab3b7d9cbbb94eab430a0caff00448a4a", null ],
+    [ "RegisterPayload", "d3/deb/a12043.html#ae2e7a14fe433ed45e94d3e74ba43f579", null ],
+    [ "UnregisterPayload", "d3/deb/a12043.html#a97d5b53d0e1fd42663ad673b31fe4fab", null ],
+    [ "CachedChecks", "d3/deb/a12043.html#a65c6878274bc49b921714278d77eed56", null ],
+    [ "QueuedPayloads", "d3/deb/a12043.html#a0d473fcc12806a29a6cf191ebd1ec9ff", null ],
+    [ "WardenPayloadCheckType", "d3/deb/a12043.html#a5d6853734e30d11fce42dfeeb3a06c22", null ],
+    [ "WardenPayloadOffsetMax", "d3/deb/a12043.html#a0a6537e719e9f8f4c371340d0d1b4db7", null ],
+    [ "WardenPayloadOffsetMin", "d3/deb/a12043.html#a9f7e5a100c56a6ee9a6bd39a792b9e44", null ]
 ];

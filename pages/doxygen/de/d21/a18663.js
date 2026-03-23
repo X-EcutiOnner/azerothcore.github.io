@@ -1,6 +1,9 @@
 var a18663 =
 [
-    [ "npc_lk_spirit_bombAI", "de/da4/a18667.html", "de/da4/a18667" ],
-    [ "npc_lk_spirit_bomb", "de/d21/a18663.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "de/d21/a18663.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "DelayedCastEvent", "de/d21/a18663.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
+    [ "Execute", "de/d21/a18663.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "de/d21/a18663.html#afcaeafb72df77c36b5496588c219fac4", null ],
+    [ "_originalCaster", "de/d21/a18663.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "de/d21/a18663.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "de/d21/a18663.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

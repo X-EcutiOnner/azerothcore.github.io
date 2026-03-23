@@ -1,5 +1,5 @@
 var a04724 =
 [
-    [ "reload_commandscript", "d1/d35/a12245.html", "d1/d35/a12245" ],
-    [ "AddSC_reload_commandscript", "d2/dd5/a04724.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
+    [ "cache_commandscript", "d1/d64/a12135.html", "d1/d64/a12135" ],
+    [ "AddSC_cache_commandscript", "d2/dd5/a04724.html#a293f65606c1750692d4046d4fe4c4adc", null ]
 ];

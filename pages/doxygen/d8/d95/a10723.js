@@ -1,11 +1,10 @@
 var a10723 =
 [
-    [ "GuildSetRankPermissions", "d8/d95/a10723.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
-    [ "Read", "d8/d95/a10723.html#a534550862a3c634697e8277f31ad4c25", null ],
-    [ "Flags", "d8/d95/a10723.html#adea48131efa7c05b84c4de596933bfbe", null ],
-    [ "RankID", "d8/d95/a10723.html#a0c4a8b29918d69580c749e3b48485515", null ],
-    [ "RankName", "d8/d95/a10723.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
-    [ "TabFlags", "d8/d95/a10723.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
-    [ "TabWithdrawItemLimit", "d8/d95/a10723.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
-    [ "WithdrawGoldLimit", "d8/d95/a10723.html#a1c02002facce05010028ac8dcae7fa3f", null ]
+    [ "WorldObjectScript", "d8/d95/a10723.html#af044c3699a591c137abc5e03c772890b", null ],
+    [ "IsDatabaseBound", "d8/d95/a10723.html#a48f037dd6152ff68ebef672de68df45e", null ],
+    [ "OnWorldObjectCreate", "d8/d95/a10723.html#a2b32bc661e5a377de98902f3bc16679b", null ],
+    [ "OnWorldObjectDestroy", "d8/d95/a10723.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
+    [ "OnWorldObjectResetMap", "d8/d95/a10723.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
+    [ "OnWorldObjectSetMap", "d8/d95/a10723.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
+    [ "OnWorldObjectUpdate", "d8/d95/a10723.html#abc139d1aa728f8a70886eed65d28f566", null ]
 ];

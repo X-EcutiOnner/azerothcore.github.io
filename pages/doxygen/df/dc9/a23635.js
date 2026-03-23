@@ -1,6 +1,6 @@
 var a23635 =
 [
-    [ "HandlePeriodic", "df/dc9/a23635.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "df/dc9/a23635.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "df/dc9/a23635.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "HandleDummy", "df/dc9/a23635.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
+    [ "PrepareSpellScript", "df/dc9/a23635.html#af511bcad63ff423bf04a430f56959f40", null ],
+    [ "Register", "df/dc9/a23635.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
 ];

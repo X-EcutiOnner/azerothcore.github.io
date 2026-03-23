@@ -1,6 +1,7 @@
 var a21931 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d0/d36/a21935.html", "d0/d36/a21935" ],
-    [ "npc_conversing_with_the_depths_trigger", "de/d4f/a21931.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "de/d4f/a21931.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "HandleSendEvent", "de/d4f/a21931.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "de/d4f/a21931.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "de/d4f/a21931.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "de/d4f/a21931.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

@@ -1,6 +1,6 @@
 var a24591 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "d9/d50/a24591.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "InitializeAI", "d9/d50/a24591.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
-    [ "IsSummonedBy", "d9/d50/a24591.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
+    [ "HandleAfterCast", "d9/d50/a24591.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "d9/d50/a24591.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "d9/d50/a24591.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

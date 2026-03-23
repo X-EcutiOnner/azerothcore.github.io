@@ -1,15 +1,10 @@
 var a11627 =
 [
-    [ "BroadcastTextId", "d9/d6f/a11627.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
-    [ "duration", "d9/d6f/a11627.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
-    [ "emote", "d9/d6f/a11627.html#aad433a0bc12717103936e6f89b5b31ea", null ],
-    [ "entry", "d9/d6f/a11627.html#a3d1c888b73edee2474004de9d8714903", null ],
-    [ "group", "d9/d6f/a11627.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
-    [ "id", "d9/d6f/a11627.html#ab80181d53770a2f64bd6898498b3e76e", null ],
-    [ "lang", "d9/d6f/a11627.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
-    [ "probability", "d9/d6f/a11627.html#a9bec9c2053f2efbac076831d4e928045", null ],
-    [ "sound", "d9/d6f/a11627.html#af312efff61026445caeb4be4b52c4e66", null ],
-    [ "text", "d9/d6f/a11627.html#a82b3db36b60a343d340677e8df6c7925", null ],
-    [ "TextRange", "d9/d6f/a11627.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
-    [ "type", "d9/d6f/a11627.html#a5675f6bcf159e1da503029771557e2a6", null ]
+    [ "TriggeredByAuraSpellData", "d9/d6f/a11627.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "d9/d6f/a11627.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "d9/d6f/a11627.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "d9/d6f/a11627.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "d9/d6f/a11627.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "d9/d6f/a11627.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "d9/d6f/a11627.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

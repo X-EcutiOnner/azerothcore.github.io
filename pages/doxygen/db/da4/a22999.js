@@ -1,7 +1,10 @@
 var a22999 =
 [
-    [ "OnPeriodic", "db/da4/a22999.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
-    [ "PrepareAuraScript", "db/da4/a22999.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
-    [ "Register", "db/da4/a22999.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
-    [ "Validate", "db/da4/a22999.html#a006d67e9e82cce68930b90b00d3555a4", null ]
+    [ "npc_frozen_core", "db/da4/a22999.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
+    [ "DoAction", "db/da4/a22999.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
+    [ "Initialize", "db/da4/a22999.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
+    [ "JustDied", "db/da4/a22999.html#a476e086b0379e0cef3a44d250b020d6a", null ],
+    [ "UpdateAI", "db/da4/a22999.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
+    [ "_events", "db/da4/a22999.html#a3a5efec3279644ef713722e1556a3c84", null ],
+    [ "_instance", "db/da4/a22999.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
 ];

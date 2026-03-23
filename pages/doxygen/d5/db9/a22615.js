@@ -1,9 +1,6 @@
 var a22615 =
 [
-    [ "HandleFinish", "d5/db9/a22615.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "d5/db9/a22615.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "d5/db9/a22615.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "d5/db9/a22615.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "d5/db9/a22615.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "d5/db9/a22615.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "boss_essence_of_sufferingAI", "d8/d30/a22619.html", "d8/d30/a22619" ],
+    [ "boss_essence_of_suffering", "d5/db9/a22615.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d5/db9/a22615.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

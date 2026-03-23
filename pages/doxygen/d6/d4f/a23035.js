@@ -1,7 +1,7 @@
 var a23035 =
 [
-    [ "VerasEnvenom", "d6/d4f/a23035.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
-    [ "Execute", "d6/d4f/a23035.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
-    [ "_owner", "d6/d4f/a23035.html#af9cf231119ab5592be9829784f20d2e0", null ],
-    [ "_targetGUID", "d6/d4f/a23035.html#a90d62907c775565765fa87903adb94ea", null ]
+    [ "PeriodicTick", "d6/d4f/a23035.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
+    [ "PrepareAuraScript", "d6/d4f/a23035.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
+    [ "Register", "d6/d4f/a23035.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
+    [ "Validate", "d6/d4f/a23035.html#ade8d57db324f02734e1752f49976dc9d", null ]
 ];

@@ -1,4 +1,5 @@
 var a28095 =
 [
-    [ "ratio", "d6/de0/a28095.html#a4df2f98014dd653657b80b4d98e54896", null ]
+    [ "item_disgusting_jar", "d6/de0/a28095.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "d6/de0/a28095.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

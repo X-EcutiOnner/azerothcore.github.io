@@ -1,9 +1,9 @@
 var a27975 =
 [
-    [ "npc_necropolis_health", "d0/ddc/a27975.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
-    [ "DespawnNecropolis", "d0/ddc/a27975.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
-    [ "JustDied", "d0/ddc/a27975.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
-    [ "SpellHit", "d0/ddc/a27975.html#ad4a9f9b166ab8107a16da918082c6625", null ],
-    [ "SpellHitTarget", "d0/ddc/a27975.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
-    [ "_zapCount", "d0/ddc/a27975.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
+    [ "go_gilded_brazierAI", "d0/ddc/a27975.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "d0/ddc/a27975.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "d0/ddc/a27975.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "d0/ddc/a27975.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "d0/ddc/a27975.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "d0/ddc/a27975.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

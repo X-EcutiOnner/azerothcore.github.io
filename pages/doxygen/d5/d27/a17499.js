@@ -1,6 +1,6 @@
 var a17499 =
 [
-    [ "instance_gundrak_InstanceMapScript", "da/dee/a17503.html", "da/dee/a17503" ],
-    [ "instance_gundrak", "d5/d27/a17499.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
-    [ "GetInstanceScript", "d5/d27/a17499.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
+    [ "npc_blood_queen_lana_thelAI", "da/dee/a17503.html", "da/dee/a17503" ],
+    [ "npc_blood_queen_lana_thel", "d5/d27/a17499.html#a39adef3ae54efd4433805bd8ad4719be", null ],
+    [ "GetAI", "d5/d27/a17499.html#a02d928ac4ef1704cee2498ebe6533561", null ]
 ];

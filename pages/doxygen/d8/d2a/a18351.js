@@ -1,6 +1,5 @@
 var a18351 =
 [
-    [ "MysticBuffetTargetFilter", "d8/d2a/a18351.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
-    [ "operator()", "d8/d2a/a18351.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
-    [ "_caster", "d8/d2a/a18351.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
+    [ "at_sindragosa_lair", "d8/d2a/a18351.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
+    [ "OnTrigger", "d8/d2a/a18351.html#a07074bff20272042ed05be83dd818ee9", null ]
 ];

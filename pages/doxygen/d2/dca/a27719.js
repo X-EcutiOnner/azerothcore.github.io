@@ -1,7 +1,5 @@
 var a27719 =
 [
-    [ "npc_engineering_tele_trinket", "d2/dca/a27719.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
-    [ "CanLearn", "d2/dca/a27719.html#a8a35f1c09a9df609561e76f4ed578647", null ],
-    [ "OnGossipHello", "d2/dca/a27719.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
-    [ "OnGossipSelect", "d2/dca/a27719.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
+    [ "achievement_everything_counts", "d2/dca/a27719.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
+    [ "OnCheck", "d2/dca/a27719.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
 ];

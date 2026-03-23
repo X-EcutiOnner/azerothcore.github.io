@@ -1,7 +1,7 @@
 var a26391 =
 [
-    [ "OnProc", "d1/d32/a26391.html#a304fd48cc79d3e7371212632d276b2ff", null ],
-    [ "PrepareAuraScript", "d1/d32/a26391.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
-    [ "Register", "d1/d32/a26391.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
-    [ "Validate", "d1/d32/a26391.html#adc217147d7c150d66dad4d3e922cff96", null ]
+    [ "PeriodicTick", "d1/d32/a26391.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "d1/d32/a26391.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "d1/d32/a26391.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "d1/d32/a26391.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

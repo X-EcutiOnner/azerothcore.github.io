@@ -1,6 +1,6 @@
 var a28315 =
 [
-    [ "AreaGroupId", "d2/d5e/a28315.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d2/d5e/a28315.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d2/d5e/a28315.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "npc_fireworkAI", "d9/ddb/a28319.html", "d9/ddb/a28319" ],
+    [ "npc_firework", "d2/d5e/a28315.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d2/d5e/a28315.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

@@ -1,5 +1,7 @@
 var a25539 =
 [
-    [ "PrepareSpellScript", "df/d23/a25539.html#a5e100554f868649d4edea011fe767b8b", null ],
-    [ "Register", "df/d23/a25539.html#a0ffb1cb313060770227621edb16c3a0d", null ]
+    [ "HandleJump", "df/d23/a25539.html#ac70f6d53e85af1ee2591e761e21872db", null ],
+    [ "HandleScriptEffect", "df/d23/a25539.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
+    [ "PrepareSpellScript", "df/d23/a25539.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
+    [ "Register", "df/d23/a25539.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
 ];

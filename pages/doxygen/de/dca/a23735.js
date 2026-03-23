@@ -1,6 +1,9 @@
 var a23735 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "db/d32/a23739.html", "db/d32/a23739" ],
-    [ "instance_gruuls_lair", "de/dca/a23735.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "de/dca/a23735.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "npc_aeranasAI", "de/dca/a23735.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "Reset", "de/dca/a23735.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "de/dca/a23735.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "envelopingWinds_Timer", "de/dca/a23735.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "de/dca/a23735.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "de/dca/a23735.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

@@ -1,6 +1,6 @@
 var a23903 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "dd/d50/a23907.html", "dd/d50/a23907" ],
-    [ "instance_shattered_halls", "d9/dfd/a23903.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "d9/dfd/a23903.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "d9/dfd/a23903.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "d9/dfd/a23903.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "d9/dfd/a23903.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

@@ -1,6 +1,7 @@
 var a01637 =
 [
-    [ "ChatHandler", "db/dc9/a07761.html", "db/dc9/a07761" ],
-    [ "CliHandler", "dc/de1/a07765.html", "dc/de1/a07765" ],
-    [ "AddonChannelCommandHandler", "d0/db3/a07769.html", "d0/db3/a07769" ]
+    [ "Acore::Impl::ChatCommands::FilteredCommandListIterator", "dd/d7d/a07799.html", "dd/d7d/a07799" ],
+    [ "ChatSubCommandMap", "db/d95/a01637.html#a306b7e46fd4791f088a8919720238f3d", null ],
+    [ "LogCommandUsage", "db/d95/a01637.html#a8dc2bbcf5b90559262a46829632f332e", null ],
+    [ "COMMAND_MAP", "db/d95/a01637.html#a569e79432c3876f4ac0b961e8a783003", null ]
 ];

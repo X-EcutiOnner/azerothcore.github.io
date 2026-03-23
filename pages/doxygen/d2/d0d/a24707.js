@@ -1,6 +1,6 @@
 var a24707 =
 [
-    [ "HandlePeriodic", "d2/d0d/a24707.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "d2/d0d/a24707.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "d2/d0d/a24707.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "PrepareSpellScript", "d2/d0d/a24707.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
+    [ "RecalculateDamage", "d2/d0d/a24707.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
+    [ "Register", "d2/d0d/a24707.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
 ];

@@ -1,9 +1,8 @@
 var a20683 =
 [
-    [ "HandleEffectPeriodic", "dd/d36/a20683.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
-    [ "Load", "dd/d36/a20683.html#a60deabce505dd3993dca0e71402dc190", null ],
-    [ "PrepareAuraScript", "dd/d36/a20683.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
-    [ "Register", "dd/d36/a20683.html#a524c071390365b7dab59bc7a79b50f15", null ],
-    [ "_lastMSTime", "dd/d36/a20683.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
-    [ "_lastOrientation", "dd/d36/a20683.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
+    [ "FilterTargets", "dd/d36/a20683.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
+    [ "HandleDummyEffect", "dd/d36/a20683.html#afbf3aab6724d12426ab0197fb9459562", null ],
+    [ "PrepareSpellScript", "dd/d36/a20683.html#a7ec441904bc100c6b15ee219617489ff", null ],
+    [ "Register", "dd/d36/a20683.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
+    [ "Validate", "dd/d36/a20683.html#a85388adbc15d449e687f9f463cce3833", null ]
 ];

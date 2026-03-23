@@ -1,15 +1,10 @@
 var a08199 =
 [
-    [ "Guardian", "df/dbf/a08199.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
-    [ "GetDebugInfo", "df/dbf/a08199.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
-    [ "InitStats", "df/dbf/a08199.html#a698ac009e39a2e8461b40135b75609ef", null ],
-    [ "InitStatsForLevel", "df/dbf/a08199.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
-    [ "InitSummon", "df/dbf/a08199.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
-    [ "UpdateAllStats", "df/dbf/a08199.html#ae2f3d68429afb154f790d65dae6406b3", null ],
-    [ "UpdateArmor", "df/dbf/a08199.html#adc8ed8497f8450ccad92f79322d9f452", null ],
-    [ "UpdateAttackPowerAndDamage", "df/dbf/a08199.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
-    [ "UpdateDamagePhysical", "df/dbf/a08199.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
-    [ "UpdateMaxHealth", "df/dbf/a08199.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
-    [ "UpdateMaxPower", "df/dbf/a08199.html#a620010832de5fc7d6d1a8545321f9dea", null ],
-    [ "UpdateStats", "df/dbf/a08199.html#a6b615ed2f01623991fa45907a09cc642", null ]
+    [ "LfgUpdateData", "df/dbf/a08199.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "df/dbf/a08199.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "df/dbf/a08199.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "df/dbf/a08199.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "df/dbf/a08199.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "df/dbf/a08199.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "df/dbf/a08199.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

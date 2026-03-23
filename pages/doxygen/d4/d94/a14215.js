@@ -1,6 +1,9 @@
 var a14215 =
 [
-    [ "OnEffect", "d4/d94/a14215.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "d4/d94/a14215.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "d4/d94/a14215.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "npc_amanishi_scout", "d4/d94/a14215.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "d4/d94/a14215.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "d4/d94/a14215.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "d4/d94/a14215.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "d4/d94/a14215.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "d4/d94/a14215.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

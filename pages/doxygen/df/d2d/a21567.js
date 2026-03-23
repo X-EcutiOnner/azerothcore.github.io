@@ -1,12 +1,6 @@
 var a21567 =
 [
-    [ "boss_moraggAI", "df/d2d/a21567.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "df/d2d/a21567.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "df/d2d/a21567.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "df/d2d/a21567.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "df/d2d/a21567.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "df/d2d/a21567.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "df/d2d/a21567.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "df/d2d/a21567.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "df/d2d/a21567.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "npc_spiritual_insightAI", "df/d2d/a21567.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "df/d2d/a21567.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "df/d2d/a21567.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

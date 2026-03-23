@@ -1,10 +1,9 @@
 var a10183 =
 [
-    [ "WaypointMgr", "d0/deb/a10183.html#a2f038884959f10348bd5b7af3abee7db", null ],
-    [ "~WaypointMgr", "d0/deb/a10183.html#a7b0fed55791df7ab040a46984700d18e", null ],
-    [ "GetPath", "d0/deb/a10183.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
-    [ "instance", "d0/deb/a10183.html#aacd2ed943503288057b3fb9a935a56e9", null ],
-    [ "Load", "d0/deb/a10183.html#a69ae451ce07f2e68be81b1a86649115d", null ],
-    [ "ReloadPath", "d0/deb/a10183.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
-    [ "_waypointStore", "d0/deb/a10183.html#af70ce7663d7f132339ea8d163311c248", null ]
+    [ "TransportAnimation", "d0/deb/a10183.html#a775b84b54deefd38af40222afd82d572", null ],
+    [ "GetAnimNode", "d0/deb/a10183.html#a73b56750c90afce38dbf57793bae16f3", null ],
+    [ "GetAnimRotation", "d0/deb/a10183.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
+    [ "Path", "d0/deb/a10183.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
+    [ "Rotations", "d0/deb/a10183.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
+    [ "TotalTime", "d0/deb/a10183.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
 ];

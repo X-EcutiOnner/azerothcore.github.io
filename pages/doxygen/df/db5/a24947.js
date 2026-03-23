@@ -1,7 +1,6 @@
 var a24947 =
 [
-    [ "HandleProc", "df/db5/a24947.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
-    [ "PrepareAuraScript", "df/db5/a24947.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
-    [ "Register", "df/db5/a24947.html#affd88326ea293f82055700ec7183d194", null ],
-    [ "Validate", "df/db5/a24947.html#acc8797afece569e68c6d754ca09e206d", null ]
+    [ "HandleScriptEffect", "df/db5/a24947.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
+    [ "PrepareSpellScript", "df/db5/a24947.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
+    [ "Register", "df/db5/a24947.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
 ];

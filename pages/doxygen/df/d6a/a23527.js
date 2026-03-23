@@ -1,6 +1,7 @@
 var a23527 =
 [
-    [ "go_ahune_ice_stone", "df/d6a/a23527.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "df/d6a/a23527.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "df/d6a/a23527.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "OnApply", "df/d6a/a23527.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "df/d6a/a23527.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "df/d6a/a23527.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "df/d6a/a23527.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

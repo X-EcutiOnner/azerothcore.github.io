@@ -1,12 +1,12 @@
 var a00617 =
 [
-    [ "SpellProcSpellTypeMaskTest", "de/d23/a29809.html", "de/d23/a29809" ],
-    [ "TEST_F", "d4/dc4/a00617.html#a0e299f1164a6c1e0f315da2c5551e58a", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#ae1ae997d3f0f1ba7825ae4b2e5436d44", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#a7a5da3689f4cd8516f8998a3eb8516f1", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#a0b4b6b9b08a21068764a01b658ede70d", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#abd75b3776c8e55bbc898c408aad3f34d", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#ab03489d280d80145880f52bc0a09c584", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#a6ae8c3849f8042eeff0379c4ea6d2adc", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#a790970fbe1cfb4df4e5ba38abf4c9bae", null ]
+    [ "BinarySpellDetectionTest", "dd/d2d/a29451.html", "dd/d2d/a29451" ],
+    [ "ShouldMarkBinary", "d4/dc4/a00617.html#ab2154405a408271aa60863454b0303fe", null ],
+    [ "TEST_F", "d4/dc4/a00617.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
+    [ "TEST_F", "d4/dc4/a00617.html#afb1918ddefeb036bd6be1fbde953b78b", null ],
+    [ "TEST_F", "d4/dc4/a00617.html#a1dc398eff0ed30b3e1997c3b27980bed", null ],
+    [ "TEST_F", "d4/dc4/a00617.html#ad56defbc63a988ba5126194ff9cea5ec", null ],
+    [ "TEST_F", "d4/dc4/a00617.html#a54fa8a3ce4060060ece3f2a2d9e852e7", null ],
+    [ "TEST_F", "d4/dc4/a00617.html#aa1b8d26dc43fa9eaf1d827a0c4308dd1", null ],
+    [ "TEST_F", "d4/dc4/a00617.html#a4e6cbd19c7f85354ce9a5f5a9a1bafe6", null ]
 ];

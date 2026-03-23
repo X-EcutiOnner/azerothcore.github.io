@@ -1,5 +1,5 @@
 var a20235 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d1/d1b/a20235.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d1/d1b/a20235.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "achievement_cheese_the_freeze", "d1/d1b/a20235.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
+    [ "OnCheck", "d1/d1b/a20235.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
 ];

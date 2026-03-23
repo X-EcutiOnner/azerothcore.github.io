@@ -1,11 +1,14 @@
 var a02738 =
 [
-    [ "npc_innkeeper", "d6/d6f/a28377.html", "d6/d6f/a28377" ],
-    [ "AddSC_npc_innkeeper", "da/d62/a02738.html#a3ffce1ea6cca981888af85ba67364df9", null ],
-    [ "GOSSIP_MENU", "da/d62/a02738.html#a3115623eb3e0408aad7cd637686aaaee", null ],
-    [ "GOSSIP_MENU_EVENT", "da/d62/a02738.html#a6bb09725b9e6b10b76686a9059038e6b", null ],
-    [ "HALLOWEEN_EVENTID", "da/d62/a02738.html#a2e23760d3d379f3fa92c139f067b5984", null ],
-    [ "SPELL_TREAT", "da/d62/a02738.html#a072a033da374692139d9d33e63be89ca", null ],
-    [ "SPELL_TRICK", "da/d62/a02738.html#ad2b2ba30383cca3be221f38a809e2da1", null ],
-    [ "SPELL_TRICKED_OR_TREATED", "da/d62/a02738.html#a022e344eaf73aa8ab6655d2c6aaac688", null ]
+    [ "AccountInfo", "da/dc6/a05919.html", "da/dc6/a05919" ],
+    [ "AuthSession", "d2/dde/a05923.html", "d2/dde/a05923" ],
+    [ "AuthHandler", "d3/d20/a05927.html", "d3/d20/a05927" ],
+    [ "AuthStatus", "da/d62/a02738.html#a9bc15a6035dd7c4983d87a5ccb3d5834", [
+      [ "STATUS_CHALLENGE", "da/d62/a02738.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4", null ],
+      [ "STATUS_LOGON_PROOF", "da/d62/a02738.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16", null ],
+      [ "STATUS_RECONNECT_PROOF", "da/d62/a02738.html#a9bc15a6035dd7c4983d87a5ccb3d5834a2a06e7508d5944327eec6c08c11db734", null ],
+      [ "STATUS_AUTHED", "da/d62/a02738.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b", null ],
+      [ "STATUS_WAITING_FOR_REALM_LIST", "da/d62/a02738.html#a9bc15a6035dd7c4983d87a5ccb3d5834a570e0aef98212ddcd09f1ec9254ffdf0", null ],
+      [ "STATUS_CLOSED", "da/d62/a02738.html#a9bc15a6035dd7c4983d87a5ccb3d5834a78785eb1e6f5b92eaea5c78b3cc0dd94", null ]
+    ] ]
 ];

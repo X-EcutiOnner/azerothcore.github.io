@@ -1,6 +1,5 @@
 var a22195 =
 [
-    [ "npc_attracted_reef_bullAI", "d6/db1/a22199.html", "d6/db1/a22199" ],
-    [ "npc_attracted_reef_bull", "dd/db4/a22195.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "dd/db4/a22195.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "dd/db4/a22195.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "dd/db4/a22195.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

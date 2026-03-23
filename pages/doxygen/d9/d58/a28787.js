@@ -1,16 +1,14 @@
 var a28787 =
 [
-    [ "~SocketMgr", "d9/d58/a28787.html#a8c8b979692599a68d6f9dbe864e58645", null ],
-    [ "SocketMgr", "d9/d58/a28787.html#a7582b914e42af5d67e4a4e968fd99b4a", null ],
-    [ "CreateThreads", "d9/d58/a28787.html#ac712a459d409da9e8f21603da8aa0305", null ],
-    [ "GetNetworkThreadCount", "d9/d58/a28787.html#ac1afac1d7f3e5092e9fe4425412186fc", null ],
-    [ "GetSocketForAccept", "d9/d58/a28787.html#a6d8519103f85522d3bc0bfac5a0955c9", null ],
-    [ "OnSocketOpen", "d9/d58/a28787.html#a83b2b85da48d4ffb0e1ed7577dde75c4", null ],
-    [ "SelectThreadWithMinConnections", "d9/d58/a28787.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd", null ],
-    [ "StartNetwork", "d9/d58/a28787.html#a81fc5b0c7bc9750b67ca607ae0cf2c81", null ],
-    [ "StopNetwork", "d9/d58/a28787.html#a7966832a9ef2151033ac9eeeadffff34", null ],
-    [ "Wait", "d9/d58/a28787.html#aace37f1c8fa4c4c4dd378ba2da496b50", null ],
-    [ "_acceptor", "d9/d58/a28787.html#af397e6129662d41adeeef25d27a980ea", null ],
-    [ "_threadCount", "d9/d58/a28787.html#abeae5090b8ea81e39465a20c7b960885", null ],
-    [ "_threads", "d9/d58/a28787.html#a0802f42ee5a7c8fec400e5034d87caac", null ]
+    [ "HasFlag", "d9/d58/a28787.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
+    [ "alliance", "d9/d58/a28787.html#a44c3824aef4f4724c189727f12801a5b", null ],
+    [ "CinematicSequence", "d9/d58/a28787.html#a33a01b1c26b21706d9898af246f2a0df", null ],
+    [ "expansion", "d9/d58/a28787.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
+    [ "FactionID", "d9/d58/a28787.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
+    [ "Flags", "d9/d58/a28787.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
+    [ "model_f", "d9/d58/a28787.html#a4807227fd863e247b18d29db0ea8236a", null ],
+    [ "model_m", "d9/d58/a28787.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
+    [ "name", "d9/d58/a28787.html#a4970323e45feb3f74b47420648371ab6", null ],
+    [ "RaceID", "d9/d58/a28787.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
+    [ "TeamID", "d9/d58/a28787.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
 ];

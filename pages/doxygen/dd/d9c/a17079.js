@@ -1,6 +1,8 @@
 var a17079 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "da/d30/a17083.html", "da/d30/a17083" ],
-    [ "instance_forge_of_souls", "dd/d9c/a17079.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "dd/d9c/a17079.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "npc_fos_leaderAI", "dd/d9c/a17079.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "dd/d9c/a17079.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "dd/d9c/a17079.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "dd/d9c/a17079.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "dd/d9c/a17079.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

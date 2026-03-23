@@ -1,6 +1,5 @@
 var a20419 =
 [
-    [ "npc_ulduar_hodir_druidAI", "dc/dd8/a20423.html", "dc/dd8/a20423" ],
-    [ "npc_ulduar_hodir_druid", "da/df6/a20419.html#a07809d61d55756a847467043b0e90989", null ],
-    [ "GetAI", "da/df6/a20419.html#a4b0503e20bf8caddf0ea544a88124263", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "da/df6/a20419.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "da/df6/a20419.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

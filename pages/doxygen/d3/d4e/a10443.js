@@ -1,11 +1,8 @@
 var a10443 =
 [
-    [ "PetScript", "d3/d4e/a10443.html#acccf0b5fa2e346c800925142ed52c917", null ],
-    [ "CanResetTalents", "d3/d4e/a10443.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
-    [ "CanUnlearnSpellDefault", "d3/d4e/a10443.html#af150efd719bbb619df792ebc6705bb0a", null ],
-    [ "CanUnlearnSpellSet", "d3/d4e/a10443.html#a84cba94813ffa26e1a245b814feb0349", null ],
-    [ "IsDatabaseBound", "d3/d4e/a10443.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
-    [ "OnCalculateMaxTalentPointsForLevel", "d3/d4e/a10443.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
-    [ "OnInitStatsForLevel", "d3/d4e/a10443.html#a65a33c4f374f2e9739680ad172118c26", null ],
-    [ "OnPetAddToWorld", "d3/d4e/a10443.html#a3012323c5c1424512b611b6956a32554", null ]
+    [ "ownerGuid", "d3/d4e/a10443.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
+    [ "petitionGuid", "d3/d4e/a10443.html#a1bbf412a221b76c4a20765d9a6612182", null ],
+    [ "petitionId", "d3/d4e/a10443.html#afa16859ac671ff0410204ea30ebcf429", null ],
+    [ "petitionName", "d3/d4e/a10443.html#a91c81356e9aa77641eaa881cd04af5af", null ],
+    [ "petitionType", "d3/d4e/a10443.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
 ];

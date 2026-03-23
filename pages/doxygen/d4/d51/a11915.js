@@ -1,11 +1,15 @@
 var a11915 =
 [
-    [ "instance_commandscript", "d4/d51/a11915.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "d4/d51/a11915.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "d4/d51/a11915.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "d4/d51/a11915.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "d4/d51/a11915.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "d4/d51/a11915.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "d4/d51/a11915.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "d4/d51/a11915.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "BroadcastTextId", "d4/d51/a11915.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
+    [ "duration", "d4/d51/a11915.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
+    [ "emote", "d4/d51/a11915.html#aad433a0bc12717103936e6f89b5b31ea", null ],
+    [ "entry", "d4/d51/a11915.html#a3d1c888b73edee2474004de9d8714903", null ],
+    [ "group", "d4/d51/a11915.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
+    [ "id", "d4/d51/a11915.html#ab80181d53770a2f64bd6898498b3e76e", null ],
+    [ "lang", "d4/d51/a11915.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
+    [ "probability", "d4/d51/a11915.html#a9bec9c2053f2efbac076831d4e928045", null ],
+    [ "sound", "d4/d51/a11915.html#af312efff61026445caeb4be4b52c4e66", null ],
+    [ "text", "d4/d51/a11915.html#a82b3db36b60a343d340677e8df6c7925", null ],
+    [ "TextRange", "d4/d51/a11915.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
+    [ "type", "d4/d51/a11915.html#a5675f6bcf159e1da503029771557e2a6", null ]
 ];

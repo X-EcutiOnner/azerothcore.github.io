@@ -1,6 +1,12 @@
 var a22627 =
 [
-    [ "HandlePeriodicDummy", "dd/d2c/a22627.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "dd/d2c/a22627.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "dd/d2c/a22627.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "boss_essence_of_desireAI", "dd/d2c/a22627.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "dd/d2c/a22627.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "dd/d2c/a22627.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "dd/d2c/a22627.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "dd/d2c/a22627.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "dd/d2c/a22627.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "dd/d2c/a22627.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "dd/d2c/a22627.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
+    [ "_recentlySpoken", "dd/d2c/a22627.html#a6507c0da056a74d961d28e96120cd676", null ]
 ];

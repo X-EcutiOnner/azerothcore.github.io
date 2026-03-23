@@ -1,9 +1,12 @@
 var a11271 =
 [
-    [ "EncryptableAndCompressiblePacket", "d2/d2e/a11271.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "d2/d2e/a11271.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "d2/d2e/a11271.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "d2/d2e/a11271.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "d2/d2e/a11271.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "d2/d2e/a11271.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "Complain", "d2/d2e/a11271.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
+    [ "Read", "d2/d2e/a11271.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
+    [ "Description", "d2/d2e/a11271.html#a557676064707e2597a10e9b2efc9d09a", null ],
+    [ "SpammerGuid", "d2/d2e/a11271.html#a4a8b664b598624046b26953051a28718", null ],
+    [ "SpamType", "d2/d2e/a11271.html#aece15ac467b310fc170844119978aa2a", null ],
+    [ "Unk1", "d2/d2e/a11271.html#a7cc02360329a0b67c67fb5798d1e658d", null ],
+    [ "Unk2", "d2/d2e/a11271.html#a2d935ee2ed26a672d0f5795b79d887cb", null ],
+    [ "Unk3", "d2/d2e/a11271.html#a63aae3eaab2d6b72e08e4436ebe3bc0b", null ],
+    [ "Unk4", "d2/d2e/a11271.html#ad9570c82409ce59ad94f3e8233fd251c", null ]
 ];

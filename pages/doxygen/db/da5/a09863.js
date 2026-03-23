@@ -1,8 +1,7 @@
 var a09863 =
 [
-    [ "BoundaryUnionBoundary", "db/da5/a09863.html#a074536112fffc805dec44bd9cd602642", null ],
-    [ "~BoundaryUnionBoundary", "db/da5/a09863.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
-    [ "IsWithinBoundaryArea", "db/da5/a09863.html#a8dc91861fa6641008236e5a83030e0d1", null ],
-    [ "_b1", "db/da5/a09863.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
-    [ "_b2", "db/da5/a09863.html#ae70530673803bd2ee85bf722fe42718b", null ]
+    [ "AddonHandler", "db/da5/a09863.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "db/da5/a09863.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "db/da5/a09863.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "db/da5/a09863.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

@@ -1,7 +1,6 @@
 var a22735 =
 [
-    [ "OutdoorPvPGH", "db/ded/a22735.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "HandleKill", "db/ded/a22735.html#a78cf572faf727c302f9be496d91004e0", null ],
-    [ "SendRemoveWorldStates", "db/ded/a22735.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "db/ded/a22735.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "HandleDummy", "db/ded/a22735.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "db/ded/a22735.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "db/ded/a22735.html#a972574075c86c32593982add71dc893f", null ]
 ];

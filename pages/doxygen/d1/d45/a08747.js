@@ -1,9 +1,13 @@
 var a08747 =
 [
-    [ "GlobalCooldownMgr", "d1/d45/a08747.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
-    [ "AddGlobalCooldown", "d1/d45/a08747.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
-    [ "CancelGlobalCooldown", "d1/d45/a08747.html#aed6b479416104dc536116fdb1e24fcf3", null ],
-    [ "GetGlobalCooldown", "d1/d45/a08747.html#ae44caed35e93f834ff68394c1ab6434b", null ],
-    [ "HasGlobalCooldown", "d1/d45/a08747.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
-    [ "m_GlobalCooldowns", "d1/d45/a08747.html#a80d03691d36758733f326b65992f266e", null ]
+    [ "UpdateData", "d1/d45/a08747.html#a7164bb9338d6362f427d75025c9026b6", null ],
+    [ "AddOutOfRangeGUID", "d1/d45/a08747.html#a4c68f187e2f6e65da3bdb6a443ebcacf", null ],
+    [ "AddUpdateBlock", "d1/d45/a08747.html#a620f0036078833a3b5ce1245274595f8", null ],
+    [ "AddUpdateBlock", "d1/d45/a08747.html#af770dbf9bc4e4da1b97aba73b152b23b", null ],
+    [ "BuildPacket", "d1/d45/a08747.html#a3bea592b01b6c9e41b863c26fd602d45", null ],
+    [ "Clear", "d1/d45/a08747.html#adc0750db190d94fed3bfef72da75066c", null ],
+    [ "HasData", "d1/d45/a08747.html#a067577372028ad59aea7942f0cd4a5c2", null ],
+    [ "m_blockCount", "d1/d45/a08747.html#a791f9606867a40d018f67600e338a08e", null ],
+    [ "m_data", "d1/d45/a08747.html#ac21a3bda51f8d1d2b71be6d00d760e38", null ],
+    [ "m_outOfRangeGUIDs", "d1/d45/a08747.html#a60f7b1745f84b24b25c94625145dd5a2", null ]
 ];

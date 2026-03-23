@@ -1,8 +1,6 @@
 var a22875 =
 [
-    [ "boss_darkweaver_syth", "d7/d95/a22875.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "d7/d95/a22875.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "d7/d95/a22875.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "d7/d95/a22875.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "d7/d95/a22875.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "HandleEffectRemove", "d7/d95/a22875.html#adfbbb75ace34ab5c0fec35e6aa88505a", null ],
+    [ "PrepareAuraScript", "d7/d95/a22875.html#a94b91d27b9a218b5fdce91d6a6e72f62", null ],
+    [ "Register", "d7/d95/a22875.html#a2b7fb2d6d0f92a970a45e0b9c409408d", null ]
 ];

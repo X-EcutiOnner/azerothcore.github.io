@@ -1,8 +1,6 @@
 var a24799 =
 [
-    [ "CheckCast", "d7/df1/a24799.html#a94851a2b6a62138e28466317e9e88480", null ],
-    [ "HandleDummy", "d7/df1/a24799.html#a970684d219c99519512c437a8efd8d43", null ],
-    [ "PrepareSpellScript", "d7/df1/a24799.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
-    [ "Register", "d7/df1/a24799.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
-    [ "Validate", "d7/df1/a24799.html#a59cca008a97447e257bf24071301b366", null ]
+    [ "CheckLevel", "d7/df1/a24799.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "d7/df1/a24799.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "d7/df1/a24799.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

@@ -1,6 +1,7 @@
 var a18295 =
 [
-    [ "npc_ice_tombAI", "de/d22/a18299.html", "de/d22/a18299" ],
-    [ "npc_ice_tomb", "dd/d58/a18295.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "dd/d58/a18295.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "PeriodicTick", "dd/d58/a18295.html#a79b63e30f37df8a961b57c4b10669800", null ],
+    [ "PrepareAuraScript", "dd/d58/a18295.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
+    [ "Register", "dd/d58/a18295.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
+    [ "Validate", "dd/d58/a18295.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
 ];

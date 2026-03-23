@@ -1,9 +1,7 @@
 var a20215 =
 [
-    [ "Absorb", "d4/d31/a20215.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "d4/d31/a20215.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "d4/d31/a20215.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "d4/d31/a20215.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "d4/d31/a20215.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "d4/d31/a20215.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "HandleEffectPeriodic", "d4/d31/a20215.html#af6c50396e9b47cd909184aea80244728", null ],
+    [ "PrepareAuraScript", "d4/d31/a20215.html#aeb41825334049c8e3a39b48cbf271477", null ],
+    [ "Register", "d4/d31/a20215.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
+    [ "Validate", "d4/d31/a20215.html#a0098e4949fc75b1a2464128f4df869aa", null ]
 ];

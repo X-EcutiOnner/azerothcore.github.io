@@ -1,6 +1,6 @@
 var a21719 =
 [
-    [ "npc_khunok_the_behemothAI", "d8/dc2/a21723.html", "d8/dc2/a21723" ],
-    [ "npc_khunok_the_behemoth", "db/d4e/a21719.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "db/d4e/a21719.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_razael_and_lyana", "db/d4e/a21719.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "db/d4e/a21719.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "db/d4e/a21719.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

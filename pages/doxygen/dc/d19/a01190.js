@@ -1,9 +1,11 @@
 var a01190 =
 [
-    [ "DynamicObject", "d1/d54/a08401.html", "d1/d54/a08401" ],
-    [ "DynamicObjectType", "dc/d19/a01190.html#aee85c2f840289bcf773609333ee91131", [
-      [ "DYNAMIC_OBJECT_PORTAL", "dc/d19/a01190.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
-      [ "DYNAMIC_OBJECT_AREA_SPELL", "dc/d19/a01190.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
-      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "dc/d19/a01190.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
-    ] ]
+    [ "Creature", "dc/d79/a08267.html", "dc/d79/a08267" ],
+    [ "AssistDelayEvent", "d2/df4/a08275.html", "d2/df4/a08275" ],
+    [ "ForcedDespawnDelayEvent", "de/d87/a08279.html", "de/d87/a08279" ],
+    [ "TemporaryThreatModifierEvent", "dc/d63/a08283.html", "dc/d63/a08283" ],
+    [ "CREATURE_Z_ATTACK_RANGE", "dc/d19/a01190.html#a91a03a879f1b4df44968ae2f9f22fb0d", null ],
+    [ "MAX_VENDOR_ITEMS", "dc/d19/a01190.html#a44c3a813b92331e325ba5aae11ed72a3", null ],
+    [ "CreatureTextRepeatGroup", "dc/d19/a01190.html#aa92b7ce1a721a3955751ae25cf01b22a", null ],
+    [ "CreatureTextRepeatIds", "dc/d19/a01190.html#a4a74e5d0af63228e47e1f663570018ae", null ]
 ];

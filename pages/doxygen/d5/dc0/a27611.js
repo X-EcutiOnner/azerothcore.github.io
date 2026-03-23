@@ -1,5 +1,6 @@
 var a27611 =
 [
-    [ "go_table_theka", "d5/dc0/a27611.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d5/dc0/a27611.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "CalculateAmount", "d5/dc0/a27611.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "d5/dc0/a27611.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "d5/dc0/a27611.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

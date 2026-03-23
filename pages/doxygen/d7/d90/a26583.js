@@ -1,7 +1,10 @@
 var a26583 =
 [
-    [ "CheckRequirement", "d7/d90/a26583.html#afc9206b1d92834943c9825dfd97439c9", null ],
-    [ "HandleScriptEffect", "d7/d90/a26583.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "d7/d90/a26583.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "d7/d90/a26583.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "Absorb", "d7/d90/a26583.html#ab4006b00d415a94e6a49856cee7e272b", null ],
+    [ "CalculateAmount", "d7/d90/a26583.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
+    [ "Load", "d7/d90/a26583.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
+    [ "PrepareAuraScript", "d7/d90/a26583.html#a456c1bd5b284f642d1e040de52eee24b", null ],
+    [ "Register", "d7/d90/a26583.html#a905994099dcc4ac9512d5f27b78a778c", null ],
+    [ "Validate", "d7/d90/a26583.html#ad99966111a1919c610a942a8eb133ea1", null ],
+    [ "healPct", "d7/d90/a26583.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
 ];

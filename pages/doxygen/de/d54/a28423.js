@@ -1,8 +1,6 @@
 var a28423 =
 [
-    [ "DamagedDisplayId", "de/d54/a28423.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "de/d54/a28423.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "de/d54/a28423.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "de/d54/a28423.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "de/d54/a28423.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "CheckCast", "de/d54/a28423.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
+    [ "PrepareSpellScript", "de/d54/a28423.html#aa3c18907c79309a8924a98bce41e27f1", null ],
+    [ "Register", "de/d54/a28423.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
 ];

@@ -1,5 +1,6 @@
 var a13123 =
 [
-    [ "boss_warlord_salaris", "de/d3c/a13123.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
-    [ "JustEngagedWith", "de/d3c/a13123.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
+    [ "HandleProc", "de/d3c/a13123.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "de/d3c/a13123.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "de/d3c/a13123.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

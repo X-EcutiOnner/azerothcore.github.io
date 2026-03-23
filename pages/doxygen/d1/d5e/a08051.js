@@ -1,6 +1,7 @@
 var a08051 =
 [
-    [ "LfgWaitTime", "d1/d5e/a08051.html#a1d80e0848c06c658a4c0587b686fe09d", null ],
-    [ "number", "d1/d5e/a08051.html#ae6bd7db37ac17752edbc8d336081b91e", null ],
-    [ "time", "d1/d5e/a08051.html#a0d0ef1b3552e5298763a3f28714bc864", null ]
+    [ "StoreTo", "d1/d5e/a08051.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
+    [ "StoreTo", "d1/d5e/a08051.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
+    [ "StoreTo", "d1/d5e/a08051.html#a071922c9c431637de3cb2d6b52def7bd", null ],
+    [ "StoreTo", "d1/d5e/a08051.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
 ];

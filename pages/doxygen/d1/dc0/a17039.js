@@ -1,6 +1,7 @@
 var a17039 =
 [
-    [ "FilterTargets", "d1/dc0/a17039.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d1/dc0/a17039.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d1/dc0/a17039.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "HandleScriptEffect", "d1/dc0/a17039.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "d1/dc0/a17039.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "d1/dc0/a17039.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "d1/dc0/a17039.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

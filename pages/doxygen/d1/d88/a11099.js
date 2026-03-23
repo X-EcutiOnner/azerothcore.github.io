@@ -1,8 +1,6 @@
 var a11099 =
 [
-    [ "PetSpellAutocast", "d1/d88/a11099.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "d1/d88/a11099.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "d1/d88/a11099.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "d1/d88/a11099.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "d1/d88/a11099.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "SetDungeonDifficultyClient", "d1/d88/a11099.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
+    [ "Read", "d1/d88/a11099.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
+    [ "Mode", "d1/d88/a11099.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
 ];

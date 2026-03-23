@@ -1,10 +1,8 @@
 var a08979 =
 [
-    [ "Flags", "de/d58/a08979.html#a5292a64de662f608915844d58199542f", null ],
-    [ "Icon", "de/d58/a08979.html#ab7460f125e05509baf9331e424b8bacf", null ],
-    [ "ID", "de/d58/a08979.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
-    [ "Importance", "de/d58/a08979.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
-    [ "Name", "de/d58/a08979.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
-    [ "PositionX", "de/d58/a08979.html#a561763556f1ac77e988c350c37a3a0a1", null ],
-    [ "PositionY", "de/d58/a08979.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
+    [ "DiminishingReturn", "de/d58/a08979.html#acd4828637710636d0164fced285c854d", null ],
+    [ "DRGroup", "de/d58/a08979.html#add3ab95d65e283a326e1922129941ae4", null ],
+    [ "hitCount", "de/d58/a08979.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
+    [ "hitTime", "de/d58/a08979.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
+    [ "stack", "de/d58/a08979.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
 ];

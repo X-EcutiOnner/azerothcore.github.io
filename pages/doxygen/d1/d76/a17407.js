@@ -1,6 +1,8 @@
 var a17407 =
 [
-    [ "entry", "d1/d76/a17407.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d1/d76/a17407.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d1/d76/a17407.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "boss_eck", "d1/d76/a17407.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "d1/d76/a17407.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "d1/d76/a17407.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "d1/d76/a17407.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "d1/d76/a17407.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

@@ -1,6 +1,7 @@
 var a25115 =
 [
-    [ "CheckProc", "dd/d2b/a25115.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
-    [ "PrepareAuraScript", "dd/d2b/a25115.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
-    [ "Register", "dd/d2b/a25115.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
+    [ "HandleEffectPeriodic", "dd/d2b/a25115.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "dd/d2b/a25115.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "dd/d2b/a25115.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "dd/d2b/a25115.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

@@ -1,6 +1,6 @@
 var a27139 =
 [
-    [ "CalculateAmount", "d6/d31/a27139.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "d6/d31/a27139.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "d6/d31/a27139.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "CheckCast", "d6/d31/a27139.html#aecbecbd753b8ed32d51971a090063ef4", null ],
+    [ "PrepareSpellScript", "d6/d31/a27139.html#a0efb319154edb2c798460de72d6a56ed", null ],
+    [ "Register", "d6/d31/a27139.html#acd6ecb0204dd369c410e465551328f56", null ]
 ];

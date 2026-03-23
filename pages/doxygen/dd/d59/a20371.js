@@ -1,5 +1,6 @@
 var a20371 =
 [
-    [ "go_ulduar_pure_saronite_deposit", "dd/d59/a20371.html#a39da51a78b9f27392ed7494e18e89b93", null ],
-    [ "OnGossipHello", "dd/d59/a20371.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
+    [ "ModDest", "dd/d59/a20371.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "dd/d59/a20371.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "dd/d59/a20371.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

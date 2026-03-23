@@ -1,7 +1,6 @@
 var a18863 =
 [
-    [ "npc_frost_freeze_trapAI", "d9/d2b/a18863.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "d9/d2b/a18863.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "d9/d2b/a18863.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "d9/d2b/a18863.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "npc_captain_brandonAI", "d9/d2b/a18863.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d9/d2b/a18863.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d9/d2b/a18863.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

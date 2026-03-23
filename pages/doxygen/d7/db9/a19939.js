@@ -1,7 +1,6 @@
 var a19939 =
 [
-    [ "HandleDummyEffect", "d7/db9/a19939.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "d7/db9/a19939.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "d7/db9/a19939.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "d7/db9/a19939.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "FilterTargets", "d7/db9/a19939.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "d7/db9/a19939.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "d7/db9/a19939.html#a4e803984a3eded2736825f631786c204", null ]
 ];

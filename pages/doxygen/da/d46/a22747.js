@@ -1,10 +1,6 @@
 var a22747 =
 [
-    [ "OPvPCapturePointHP", "da/d46/a22747.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "da/d46/a22747.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "da/d46/a22747.html#aa8d725422951485970d9106450fb6a38", null ],
-    [ "HandlePlayerEnter", "da/d46/a22747.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "da/d46/a22747.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "da/d46/a22747.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "da/d46/a22747.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "instance_black_temple_InstanceMapScript", "d5/dd7/a22751.html", "d5/dd7/a22751" ],
+    [ "instance_black_temple", "da/d46/a22747.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "da/d46/a22747.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

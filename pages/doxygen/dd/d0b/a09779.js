@@ -1,6 +1,9 @@
 var a09779 =
 [
-    [ "LootValidatorRef", "dd/d0b/a09779.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
-    [ "sourceObjectDestroyLink", "dd/d0b/a09779.html#a8833022cf1acf786c06f1580fbe11c24", null ],
-    [ "targetObjectDestroyLink", "dd/d0b/a09779.html#a93baac45dcb801215c28ac0dba097eba", null ]
+    [ "WorldPacketList", "dd/d0b/a09779.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
+    [ "LocalizedPacketListDo", "dd/d0b/a09779.html#ab52133e238752f725f18580018a84cd2", null ],
+    [ "~LocalizedPacketListDo", "dd/d0b/a09779.html#a8442452027bcb5c98d60830e016803b5", null ],
+    [ "operator()", "dd/d0b/a09779.html#adea9610e36d436563ba1f472481aed85", null ],
+    [ "i_builder", "dd/d0b/a09779.html#a83bda52b10d30f7fd633c285b79e740b", null ],
+    [ "i_data_cache", "dd/d0b/a09779.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
 ];

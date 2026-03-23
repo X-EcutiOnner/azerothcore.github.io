@@ -1,6 +1,7 @@
 var a27559 =
 [
-    [ "go_gilded_brazierAI", "d3/d99/a27563.html", "d3/d99/a27563" ],
-    [ "go_gilded_brazier", "db/d44/a27559.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "db/d44/a27559.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "FilterTargets", "db/d44/a27559.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "db/d44/a27559.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "db/d44/a27559.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "db/d44/a27559.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

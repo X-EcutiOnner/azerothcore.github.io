@@ -1,8 +1,7 @@
 var a18779 =
 [
-    [ "npc_blistering_zombieAI", "d4/d5f/a18779.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "d4/d5f/a18779.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "d4/d5f/a18779.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "d4/d5f/a18779.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "d4/d5f/a18779.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "PeriodicTick", "d4/d5f/a18779.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "d4/d5f/a18779.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "d4/d5f/a18779.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "d4/d5f/a18779.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

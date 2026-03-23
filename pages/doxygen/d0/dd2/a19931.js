@@ -1,6 +1,7 @@
 var a19931 =
 [
-    [ "HandlePeriodic", "d0/dd2/a19931.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d0/dd2/a19931.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d0/dd2/a19931.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "npc_auriaya_sanctum_sentry", "d0/dd2/a19931.html#ae5ed159c476c8b4569de7e2730edf447", null ],
+    [ "JustEngagedWith", "d0/dd2/a19931.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
+    [ "Reset", "d0/dd2/a19931.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
+    [ "UpdateAI", "d0/dd2/a19931.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
 ];

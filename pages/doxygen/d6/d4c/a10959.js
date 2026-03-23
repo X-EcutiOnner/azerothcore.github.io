@@ -1,7 +1,11 @@
 var a10959 =
 [
-    [ "MinimapPingClient", "d6/d4c/a10959.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
-    [ "Read", "d6/d4c/a10959.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
-    [ "MapX", "d6/d4c/a10959.html#ad4ff3977c260035145d6acd00429d81e", null ],
-    [ "MapY", "d6/d4c/a10959.html#abd8640cb98238f339218c3b945885c97", null ]
+    [ "GuildSetRankPermissions", "d6/d4c/a10959.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
+    [ "Read", "d6/d4c/a10959.html#a534550862a3c634697e8277f31ad4c25", null ],
+    [ "Flags", "d6/d4c/a10959.html#adea48131efa7c05b84c4de596933bfbe", null ],
+    [ "RankID", "d6/d4c/a10959.html#a0c4a8b29918d69580c749e3b48485515", null ],
+    [ "RankName", "d6/d4c/a10959.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
+    [ "TabFlags", "d6/d4c/a10959.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
+    [ "TabWithdrawItemLimit", "d6/d4c/a10959.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
+    [ "WithdrawGoldLimit", "d6/d4c/a10959.html#a1c02002facce05010028ac8dcae7fa3f", null ]
 ];

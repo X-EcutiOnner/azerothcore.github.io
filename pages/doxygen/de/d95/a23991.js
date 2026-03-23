@@ -1,6 +1,6 @@
 var a23991 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "db/db0/a23995.html", "db/db0/a23995" ],
-    [ "instance_the_botanica", "de/d95/a23991.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "de/d95/a23991.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "npc_kservantAI", "db/db0/a23995.html", "db/db0/a23995" ],
+    [ "npc_kservant", "de/d95/a23991.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "de/d95/a23991.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

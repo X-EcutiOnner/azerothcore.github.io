@@ -1,14 +1,13 @@
 var a15963 =
 [
-    [ "npc_ringoAI", "db/d81/a15963.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "db/d81/a15963.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "db/d81/a15963.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "db/d81/a15963.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "db/d81/a15963.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "db/d81/a15963.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "db/d81/a15963.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "db/d81/a15963.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "db/d81/a15963.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "db/d81/a15963.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "db/d81/a15963.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "npc_wizzlecrank_shredderAI", "db/d81/a15963.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "db/d81/a15963.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "db/d81/a15963.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "db/d81/a15963.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "db/d81/a15963.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointReached", "db/d81/a15963.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "WaypointStart", "db/d81/a15963.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "db/d81/a15963.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "db/d81/a15963.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "db/d81/a15963.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

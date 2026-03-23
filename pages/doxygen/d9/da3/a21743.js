@@ -1,9 +1,7 @@
 var a21743 =
 [
-    [ "npc_lurgglbrAI", "d9/da3/a21743.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "d9/da3/a21743.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "d9/da3/a21743.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "d9/da3/a21743.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "IntroPhase", "d9/da3/a21743.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "d9/da3/a21743.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "HandleScript", "d9/da3/a21743.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
+    [ "PrepareSpellScript", "d9/da3/a21743.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
+    [ "Register", "d9/da3/a21743.html#a713b82bc3d82a8324ce4dd090059f463", null ],
+    [ "Validate", "d9/da3/a21743.html#ac8e362d9f76350da106e128138737c5c", null ]
 ];

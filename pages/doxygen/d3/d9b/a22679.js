@@ -1,6 +1,7 @@
 var a22679 =
 [
-    [ "npc_released_offspring_harkoaAI", "df/d3b/a22683.html", "df/d3b/a22683" ],
-    [ "npc_released_offspring_harkoa", "d3/d9b/a22679.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "d3/d9b/a22679.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "npc_ashtongue_channeler", "d3/d9b/a22679.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "d3/d9b/a22679.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "d3/d9b/a22679.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "d3/d9b/a22679.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

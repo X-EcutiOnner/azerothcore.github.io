@@ -1,4 +1,4 @@
 var a01823 =
 [
-    [ "sWorldUpdateTime", "d9/d88/a01823.html#aa415d38dafe4c1c78c951de9fed8393b", null ]
+    [ "GetTargetFlagMask", "d9/d88/a01823.html#adc898dfddc20010c41bb771b6d6f274e", null ]
 ];

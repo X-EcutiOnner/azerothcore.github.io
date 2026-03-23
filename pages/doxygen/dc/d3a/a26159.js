@@ -1,9 +1,8 @@
 var a26159 =
 [
-    [ "OnEffectHitTargetDisarm", "dc/d3a/a26159.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "dc/d3a/a26159.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "dc/d3a/a26159.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "dc/d3a/a26159.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "dc/d3a/a26159.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "dc/d3a/a26159.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "HandleProc", "dc/d3a/a26159.html#a89982759474f6f2d8f64ae406f722816", null ],
+    [ "OnRemove", "dc/d3a/a26159.html#a29dfea997f49052f683cabdf01295126", null ],
+    [ "PrepareAuraScript", "dc/d3a/a26159.html#a19094a96e052ec5b1b82aa9a124b30cc", null ],
+    [ "Register", "dc/d3a/a26159.html#a696b244e898a7aca0ead5ae5596eb192", null ],
+    [ "Validate", "dc/d3a/a26159.html#a5a9e58d16a055b3991e5f8b8ac5f1cad", null ]
 ];

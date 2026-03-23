@@ -1,14 +1,9 @@
 var a29251 =
 [
-    [ "ConfigEnvTest", "d8/d90/a28186.html", "d8/d90/a28186" ],
-    [ "CreateConfigWithMap", "d4/d2c/a29251.html#a9239326ecbf694576c285ae8b4245e7e", null ],
-    [ "TEST_F", "d4/d2c/a29251.html#a94c823774c857d4e496d49e57fc81ec7", null ],
-    [ "TEST_F", "d4/d2c/a29251.html#a7b3e2d5178272c45ffc59b429efb470b", null ],
-    [ "TEST_F", "d4/d2c/a29251.html#a405895a1a3d48885bc76d0cd476ef18e", null ],
-    [ "TEST_F", "d4/d2c/a29251.html#a78acdeb7f8d994b9bea8032b95492f55", null ],
-    [ "TEST_F", "d4/d2c/a29251.html#ad6d9eb985ed7e700cdc58e66caf1832c", null ],
-    [ "TEST_F", "d4/d2c/a29251.html#ab2a3d3e7561c71ed4adc32ff482bc6c8", null ],
-    [ "TEST_F", "d4/d2c/a29251.html#a2b2a3a2a1f46aa789759315c29d5af6c", null ],
-    [ "TEST_F", "d4/d2c/a29251.html#ae31e3b13342d4ea071f29961ab4a1775", null ],
-    [ "TEST_F", "d4/d2c/a29251.html#aabed1171286f2b1b05cc4380a00c5df7", null ]
+    [ "chargeConsumed", "d4/d2c/a29251.html#a49f170e5f66cecdf6d719d1f6ac97254", null ],
+    [ "cooldownSet", "d4/d2c/a29251.html#a60219087858953e3ea124b1b784516b2", null ],
+    [ "effectMask", "d4/d2c/a29251.html#ae0feb161d225551bba25d466541cde84", null ],
+    [ "procChance", "d4/d2c/a29251.html#a0299896836a739f2601a5ee1078f53bb", null ],
+    [ "shouldProc", "d4/d2c/a29251.html#a497babcaf1a36b0abd10b4e360c231f2", null ],
+    [ "spellsCast", "d4/d2c/a29251.html#a12d58d19ba4df25b8bd9dc6e1d089408", null ]
 ];

@@ -1,6 +1,7 @@
 var a23615 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d1/d1d/a23615.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "d1/d1d/a23615.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "d1/d1d/a23615.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "boss_gatewatcher_gyrokill", "d1/d1d/a23615.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d1/d1d/a23615.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d1/d1d/a23615.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d1/d1d/a23615.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

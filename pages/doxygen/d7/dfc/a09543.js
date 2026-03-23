@@ -1,7 +1,8 @@
 var a09543 =
 [
-    [ "ObjectGUIDCheck", "d7/dfc/a09543.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "d7/dfc/a09543.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "d7/dfc/a09543.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "d7/dfc/a09543.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "CreatureWorker", "d7/dfc/a09543.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
+    [ "Visit", "d7/dfc/a09543.html#ae67044250380c521055f80c55de0bba5", null ],
+    [ "Visit", "d7/dfc/a09543.html#aa9a450b147aafe46a49135f5c5be668e", null ],
+    [ "i_do", "d7/dfc/a09543.html#ac22f86d9a41701e7527d4840da256f11", null ],
+    [ "i_phaseMask", "d7/dfc/a09543.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
 ];

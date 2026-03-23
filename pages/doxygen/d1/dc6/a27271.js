@@ -1,5 +1,6 @@
 var a27271 =
 [
-    [ "achievement_resilient_victory", "d1/dc6/a27271.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "d1/dc6/a27271.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "CheckProc", "d1/dc6/a27271.html#a945c4617cba249ee76045ce032f12c3c", null ],
+    [ "PrepareAuraScript", "d1/dc6/a27271.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
+    [ "Register", "d1/dc6/a27271.html#a912dd7ea10038103bb6d242bb7723830", null ]
 ];

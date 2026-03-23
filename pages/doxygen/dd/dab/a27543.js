@@ -1,6 +1,6 @@
 var a27543 =
 [
-    [ "go_darkmoon_faire_musicAI", "d4/d16/a27547.html", "d4/d16/a27547" ],
-    [ "go_darkmoon_faire_music", "dd/dab/a27543.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
-    [ "GetAI", "dd/dab/a27543.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
+    [ "HandleOnHit", "dd/dab/a27543.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
+    [ "PrepareSpellScript", "dd/dab/a27543.html#a999b019665dec9b0690a1019be428072", null ],
+    [ "Register", "dd/dab/a27543.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
 ];

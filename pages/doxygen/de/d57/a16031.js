@@ -1,19 +1,7 @@
 var a16031 =
 [
-    [ "npc_weegli_blastfuseAI", "de/d57/a16031.html#acde6b3e037d3c297e5d1beccdbe3d03a", null ],
-    [ "AttackStart", "de/d57/a16031.html#a5e9140b38021ed6a2808e026fd77f8f1", null ],
-    [ "DestroyDoor", "de/d57/a16031.html#a0cf76693b1af179c9857abdccc6931ee", null ],
-    [ "InitializeAI", "de/d57/a16031.html#a61490f8c63f8056ac9f145ed8dd789c7", null ],
-    [ "JustReachedHome", "de/d57/a16031.html#a4a88bc4bff8b5b2f75e3dd0c25927815", null ],
-    [ "MovementInform", "de/d57/a16031.html#a33470a45eba0cbb62b041010f6aed302", null ],
-    [ "Reset", "de/d57/a16031.html#abec9f353a1430afae12c21273bf32197", null ],
-    [ "sGossipHello", "de/d57/a16031.html#a3a8381fa5e5d4daf19f312166247bea5", null ],
-    [ "sGossipSelect", "de/d57/a16031.html#a0927116dcc55a1107dce7c65d1295e2a", null ],
-    [ "UpdateAI", "de/d57/a16031.html#a73e482ebbb1566738e6775a574500dc8", null ],
-    [ "Bomb_Timer", "de/d57/a16031.html#af6f68e291ce7d8cf25105ac64d7eebff", null ],
-    [ "destroyingDoor", "de/d57/a16031.html#a0c7f207666da8ad74ff9dc64b582a042", null ],
-    [ "instance", "de/d57/a16031.html#a609616e5136cf11bc16f9bb30ba92879", null ],
-    [ "LandMine_Timer", "de/d57/a16031.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7", null ],
-    [ "outroStage", "de/d57/a16031.html#a30cdbce7bddb4d1d221925de86329a41", null ],
-    [ "outroTimer", "de/d57/a16031.html#a08ef419fbef2ec38b7bcd408f135cd29", null ]
+    [ "npc_ranshallaAI", "d4/d13/a16035.html", "d4/d13/a16035" ],
+    [ "npc_ranshalla", "de/d57/a16031.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "de/d57/a16031.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "de/d57/a16031.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

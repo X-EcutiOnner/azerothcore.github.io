@@ -1,5 +1,6 @@
 var a27899 =
 [
-    [ "npc_pet_trainerAI", "d1/dab/a27899.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "d1/dab/a27899.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "go_tadpole_cageAI", "da/d7c/a27903.html", "da/d7c/a27903" ],
+    [ "go_tadpole_cage", "d1/dab/a27899.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d1/dab/a27899.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

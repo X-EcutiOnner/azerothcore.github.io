@@ -1,9 +1,7 @@
 var a23459 =
 [
-    [ "FilterTargets", "df/d82/a23459.html#a9049c113d65b15a9a8e1143980a84b23", null ],
-    [ "HandleDummy", "df/d82/a23459.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
-    [ "Load", "df/d82/a23459.html#a8cad82701e0147e14f826243175e1c32", null ],
-    [ "PrepareSpellScript", "df/d82/a23459.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
-    [ "Register", "df/d82/a23459.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
-    [ "_targetNumber", "df/d82/a23459.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
+    [ "HandleCast", "df/d82/a23459.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "df/d82/a23459.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "df/d82/a23459.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "df/d82/a23459.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

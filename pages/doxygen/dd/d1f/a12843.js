@@ -1,30 +1,6 @@
 var a12843 =
 [
-    [ "npc_chesspiece", "dd/d1f/a12843.html#ad45c9aa04ba999fa12b301c182026159", null ],
-    [ "AttackStart", "dd/d1f/a12843.html#ac0cd626a5a7a37bec0cf9ba1d25dd391", null ],
-    [ "CastChangeFacing", "dd/d1f/a12843.html#a55b4ff6f9f0809680253f4de570403b5", null ],
-    [ "DoAction", "dd/d1f/a12843.html#a346082af6bfba16717680f2fb2cd3bbf", null ],
-    [ "EnterEvadeMode", "dd/d1f/a12843.html#a91dfa1e6226d5e66c50cd96fbb3042b5", null ],
-    [ "GetDefaultOrientationForTeam", "dd/d1f/a12843.html#a7a2fdfacca506fd7cc1c012c0a5aefbf", null ],
-    [ "GetEnemyPiece", "dd/d1f/a12843.html#a21c6d1de2fe50dd7158f5692bf7b1b7a", null ],
-    [ "GetLowestHpFriendlyPiece", "dd/d1f/a12843.html#a18357bc5aa3debe9e917b53e628e8d5f", null ],
-    [ "InitializeCombatSpellsByEntry", "dd/d1f/a12843.html#a07fe87fd07e8d56040a79744f132b1cc", null ],
-    [ "JustDied", "dd/d1f/a12843.html#abb4e9b69c9a04212fcccd2408ef0c317", null ],
-    [ "MovementInform", "dd/d1f/a12843.html#a8071dc87f9e394408df7d8d51b123040", null ],
-    [ "OnCharmed", "dd/d1f/a12843.html#ac346a128b9e23fc9aace4e4b3018af19", null ],
-    [ "Reset", "dd/d1f/a12843.html#a1aeddcd30bb2521f1933077022eccc13", null ],
-    [ "sGossipHello", "dd/d1f/a12843.html#aada19ed3d189d2b8cd57c1a199dc17e5", null ],
-    [ "sGossipSelect", "dd/d1f/a12843.html#a319e92fca054508093a752c235dfe090", null ],
-    [ "SpellHitTarget", "dd/d1f/a12843.html#a09d1e9da678cce14581b7345cb84bb36", null ],
-    [ "UpdateAI", "dd/d1f/a12843.html#a924392887b3344041504e37a64094c46", null ],
-    [ "_charmerGUID", "dd/d1f/a12843.html#a1a0e73e36113074e2ed9c88b50af950a", null ],
-    [ "_combatSpellTimer", "dd/d1f/a12843.html#a15afd74830f02b0c3aa6f7c3e0708fe5", null ],
-    [ "_combatSpellTimer2", "dd/d1f/a12843.html#aac04dc965cebfe56731839fc29a3b8a1", null ],
-    [ "_combatSpellTimerBase", "dd/d1f/a12843.html#af204f7dbf482641dbfe73c00ccb32a0e", null ],
-    [ "_combatSpellTimerBase2", "dd/d1f/a12843.html#ac2a7ebaf577a12d729ec5976b2bee5f5", null ],
-    [ "_currentOrientation", "dd/d1f/a12843.html#a1b8274682a01e3f92e2b8e8bc079f7f6", null ],
-    [ "_homePosition", "dd/d1f/a12843.html#a44bfed2f6886e47f687bb0c9a6f3b811", null ],
-    [ "_instance", "dd/d1f/a12843.html#aebbabcf244c1a31b02ff7fd4c7211ea4", null ],
-    [ "_nextMoveTimer", "dd/d1f/a12843.html#a219168909195ea3bff239c2ea4d21040", null ],
-    [ "_teamControlledByRaid", "dd/d1f/a12843.html#a5b85fe5bf6ecf0f379c73950fd80da62", null ]
+    [ "boss_mr_smiteAI", "db/d84/a12847.html", "db/d84/a12847" ],
+    [ "boss_mr_smite", "dd/d1f/a12843.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "dd/d1f/a12843.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

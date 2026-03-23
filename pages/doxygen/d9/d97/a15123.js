@@ -1,5 +1,8 @@
 var a15123 =
 [
-    [ "npc_black_morass_summoned_add", "d9/d97/a15123.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
-    [ "EnterEvadeMode", "d9/d97/a15123.html#a437e7b72b985713d22883f3e33f30942", null ]
+    [ "npc_thrall_old_hillsbradAI", "d6/d17/a15127.html", "d6/d17/a15127" ],
+    [ "npc_thrall_old_hillsbrad", "d9/d97/a15123.html#a3e6fa750b095af3beac806a619e18328", null ],
+    [ "GetAI", "d9/d97/a15123.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
+    [ "OnGossipHello", "d9/d97/a15123.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
+    [ "OnGossipSelect", "d9/d97/a15123.html#a17fcb00850503903f430506654e035c0", null ]
 ];

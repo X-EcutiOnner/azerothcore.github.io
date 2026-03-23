@@ -1,5 +1,6 @@
 var a28219 =
 [
-    [ "Exp", "dc/d8d/a28219.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "dc/d8d/a28219.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "spawnedCreatureEntry", "dc/d8d/a28219.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "dc/d8d/a28219.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "dc/d8d/a28219.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

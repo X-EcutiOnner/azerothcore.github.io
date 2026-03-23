@@ -1,5 +1,6 @@
 var a21871 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d3/d64/a21871.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "d3/d64/a21871.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_still_at_it_triggerAI", "de/d73/a21875.html", "de/d73/a21875" ],
+    [ "npc_still_at_it_trigger", "d3/d64/a21871.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "d3/d64/a21871.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

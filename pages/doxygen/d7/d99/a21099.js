@@ -1,10 +1,12 @@
 var a21099 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "d7/d99/a21099.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
-    [ "DamageTaken", "d7/d99/a21099.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
-    [ "Reset", "d7/d99/a21099.html#a763f772414f00c0f83402e1a635b6bd0", null ],
-    [ "SpellHit", "d7/d99/a21099.html#a60721961f2eb5e91c15890252166b872", null ],
-    [ "UpdateAI", "d7/d99/a21099.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
-    [ "_spellTimer", "d7/d99/a21099.html#a4ed360380707195e10753436020b67eb", null ],
-    [ "_visualTimer", "d7/d99/a21099.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
+    [ "boss_moraggAI", "d7/d99/a21099.html#a3ae881c9adca20a2cb894af85297d53e", null ],
+    [ "EnterEvadeMode", "d7/d99/a21099.html#a4e70e42407f452c4685c732949fd2b52", null ],
+    [ "JustDied", "d7/d99/a21099.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
+    [ "JustEngagedWith", "d7/d99/a21099.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
+    [ "MoveInLineOfSight", "d7/d99/a21099.html#a52a99d72dfa017baacb76717e6db931b", null ],
+    [ "Reset", "d7/d99/a21099.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
+    [ "UpdateAI", "d7/d99/a21099.html#aec7645eaae190d1e7982aae181ff9224", null ],
+    [ "events", "d7/d99/a21099.html#acd021e4216e3920f0534da95d69ba5eb", null ],
+    [ "pInstance", "d7/d99/a21099.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
 ];

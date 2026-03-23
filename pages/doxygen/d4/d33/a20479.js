@@ -1,6 +1,7 @@
 var a20479 =
 [
-    [ "HandleAfterEffectApply", "d4/d33/a20479.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "d4/d33/a20479.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "d4/d33/a20479.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "boss_thorim_trap", "d4/d33/a20479.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "d4/d33/a20479.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "d4/d33/a20479.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "d4/d33/a20479.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

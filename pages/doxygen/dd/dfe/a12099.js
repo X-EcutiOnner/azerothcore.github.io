@@ -1,8 +1,7 @@
 var a12099 =
 [
-    [ "ironhand_guardianAI", "dd/dfe/a12099.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "dd/dfe/a12099.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "dd/dfe/a12099.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "dd/dfe/a12099.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "dd/dfe/a12099.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "map", "dd/dfe/a12099.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
+    [ "pallid", "dd/dfe/a12099.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
+    [ "pallidGuid", "dd/dfe/a12099.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
+    [ "zoneId", "dd/dfe/a12099.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
 ];

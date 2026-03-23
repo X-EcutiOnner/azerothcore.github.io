@@ -1,6 +1,8 @@
 var a12147 =
 [
-    [ "npc_burning_spiritAI", "d5/de3/a12151.html", "d5/de3/a12151" ],
-    [ "npc_burning_spirit", "df/dc8/a12147.html#a596e654486c82d15d7a37b069a99856d", null ],
-    [ "GetAI", "df/dc8/a12147.html#a3c704a0856d669a1e684e5a858bc4334", null ]
+    [ "accountId", "df/dc8/a12147.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
+    [ "accountName", "df/dc8/a12147.html#a4849bd1f43fd15eea1991948abdc576d", null ],
+    [ "deleteDate", "df/dc8/a12147.html#a65a101727094841d34e8775bb7504cba", null ],
+    [ "lowGuid", "df/dc8/a12147.html#a11fd07e662184f750ac0a5e547a22437", null ],
+    [ "name", "df/dc8/a12147.html#a0e85dce38305e222c5654315ed68bfc1", null ]
 ];

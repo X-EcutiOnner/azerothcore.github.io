@@ -1,10 +1,6 @@
 var a21131 =
 [
-    [ "boss_yoggsaron_voiceAI", "dc/dd5/a21131.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
-    [ "Reset", "dc/dd5/a21131.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
-    [ "SpellHitTarget", "dc/dd5/a21131.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
-    [ "UpdateAI", "dc/dd5/a21131.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
-    [ "_current", "dc/dd5/a21131.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
-    [ "_targets", "dc/dd5/a21131.html#ab6132214a2249fbb5de8a5115b114381", null ],
-    [ "events", "dc/dd5/a21131.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
+    [ "instance_violet_hold_InstanceMapScript", "df/d95/a21135.html", "df/d95/a21135" ],
+    [ "instance_violet_hold", "dc/dd5/a21131.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "dc/dd5/a21131.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
 ];

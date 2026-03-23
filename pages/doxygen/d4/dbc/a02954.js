@@ -1,37 +1,50 @@
 var a02954 =
 [
-    [ "npc_ame", "d1/d18/a16197.html", "d1/d18/a16197" ],
-    [ "npc_ame::npc_ameAI", "d6/d4d/a16201.html", "d6/d4d/a16201" ],
-    [ "npc_ringo", "d5/d2b/a16205.html", "d5/d2b/a16205" ],
-    [ "npc_ringo::npc_ringoAI", "d0/daf/a16209.html", "d0/daf/a16209" ],
-    [ "AmeData", "d4/dbc/a02954.html#abbb0f5e31bd003a50e94cc712dbab7c0", [
-      [ "SAY_READY", "d4/dbc/a02954.html#abbb0f5e31bd003a50e94cc712dbab7c0a82af2bd2787802be3ff2ee4588ea9be4", null ],
-      [ "SAY_AGGRO1", "d4/dbc/a02954.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5", null ],
-      [ "SAY_SEARCH", "d4/dbc/a02954.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77", null ],
-      [ "SAY_AGGRO2", "d4/dbc/a02954.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224", null ],
-      [ "SAY_AGGRO3", "d4/dbc/a02954.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e", null ],
-      [ "SAY_FINISH", "d4/dbc/a02954.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838", null ],
-      [ "SPELL_DEMORALIZINGSHOUT", "d4/dbc/a02954.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1", null ],
-      [ "QUEST_CHASING_AME", "d4/dbc/a02954.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827", null ],
-      [ "ENTRY_TARLORD", "d4/dbc/a02954.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec", null ],
-      [ "ENTRY_TARLORD1", "d4/dbc/a02954.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f", null ],
-      [ "ENTRY_STOMPER", "d4/dbc/a02954.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a", null ]
+    [ "npc_gilthares", "d6/dbb/a15935.html", "d6/dbb/a15935" ],
+    [ "npc_gilthares::npc_giltharesAI", "d5/d0e/a15939.html", "d5/d0e/a15939" ],
+    [ "npc_taskmaster_fizzule", "d3/d81/a15943.html", "d3/d81/a15943" ],
+    [ "npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI", "d2/dd7/a15947.html", "d2/dd7/a15947" ],
+    [ "npc_twiggy_flathead", "dd/d8d/a15951.html", "dd/d8d/a15951" ],
+    [ "npc_twiggy_flathead::npc_twiggy_flatheadAI", "d4/dc9/a15955.html", "d4/dc9/a15955" ],
+    [ "npc_wizzlecrank_shredder", "dc/d94/a15959.html", "dc/d94/a15959" ],
+    [ "npc_wizzlecrank_shredder::npc_wizzlecrank_shredderAI", "db/d81/a15963.html", "db/d81/a15963" ],
+    [ "Gilthares", "d4/dbc/a02954.html#aa3e172c8a560dd0d92fb1d8f79b90716", [
+      [ "SAY_GIL_START", "d4/dbc/a02954.html#aa3e172c8a560dd0d92fb1d8f79b90716a9cc558649c398869a908d76e46580a55", null ],
+      [ "SAY_GIL_AT_LAST", "d4/dbc/a02954.html#aa3e172c8a560dd0d92fb1d8f79b90716a74625b1d5af887cffe07cc6889f66f94", null ],
+      [ "SAY_GIL_PROCEED", "d4/dbc/a02954.html#aa3e172c8a560dd0d92fb1d8f79b90716a83573efbb4a65334a79436dadb172c25", null ],
+      [ "SAY_GIL_FREEBOOTERS", "d4/dbc/a02954.html#aa3e172c8a560dd0d92fb1d8f79b90716add548aa464c97165ed4e9a07e2d26b76", null ],
+      [ "SAY_GIL_AGGRO", "d4/dbc/a02954.html#aa3e172c8a560dd0d92fb1d8f79b90716a189c2478bea56968035dc5626a361ad9", null ],
+      [ "SAY_GIL_ALMOST", "d4/dbc/a02954.html#aa3e172c8a560dd0d92fb1d8f79b90716af98466d2079315f8451fe5fd010cfd86", null ],
+      [ "SAY_GIL_SWEET", "d4/dbc/a02954.html#aa3e172c8a560dd0d92fb1d8f79b90716a53a6c4cad1fc536662a170117dab1f9b", null ],
+      [ "SAY_GIL_FREED", "d4/dbc/a02954.html#aa3e172c8a560dd0d92fb1d8f79b90716af0bf3f928b89fe85bfd73f9973f02046", null ],
+      [ "QUEST_FREE_FROM_HOLD", "d4/dbc/a02954.html#aa3e172c8a560dd0d92fb1d8f79b90716a406ffd8f7c4e1a504188c50f2743b36a", null ]
     ] ],
-    [ "Ringo", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592", [
-      [ "SAY_RIN_START", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b", null ],
-      [ "SAY_FAINT", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592a39f7b5e8a7fc4ed40e62cedfa93923bd", null ],
-      [ "SAY_WAKE", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e", null ],
-      [ "SAY_RIN_END_1", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae8753384ff9e53b533a5a1cebd16ce64", null ],
-      [ "SAY_SPR_END_2", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592a1a913192c37c18a19114eebee21e1a85", null ],
-      [ "SAY_RIN_END_3", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae29a03470647c5d13bcb1729160b1d8b", null ],
-      [ "EMOTE_RIN_END_4", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592aeeed58bd2d47e0450374129434bcf296", null ],
-      [ "EMOTE_RIN_END_5", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484", null ],
-      [ "SAY_RIN_END_6", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592a699867c1deab61d85853622b099cd728", null ],
-      [ "SAY_SPR_END_7", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9", null ],
-      [ "EMOTE_RIN_END_8", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7", null ],
-      [ "SPELL_REVIVE_RINGO", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592a9fc3d4c57ff3ca56f344b70df866e766", null ],
-      [ "QUEST_A_LITTLE_HELP", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592a6ab7d20ae4eca495ad164638b1e68b51", null ],
-      [ "NPC_SPRAGGLE", "d4/dbc/a02954.html#a1eb7864fe2b6e6ec59692fb2f7c02592a4bc3afbb0cf9626825ffda0b610e2e64", null ]
+    [ "TaskmasterFizzule", "d4/dbc/a02954.html#a75148097e6b48058f314d1f1d4fc4ed0", [
+      [ "FACTION_FRIENDLY_F", "d4/dbc/a02954.html#a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea", null ],
+      [ "SPELL_FLARE", "d4/dbc/a02954.html#a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba", null ],
+      [ "SPELL_FOLLY", "d4/dbc/a02954.html#a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a", null ]
     ] ],
-    [ "AddSC_ungoro_crater", "d4/dbc/a02954.html#a6e2c88161cee97e0e405ef83abcc653f", null ]
+    [ "TwiggyFlathead", "d4/dbc/a02954.html#aa59efdc816049c3fc44f4f97e12a5658", [
+      [ "NPC_BIG_WILL", "d4/dbc/a02954.html#aa59efdc816049c3fc44f4f97e12a5658a52b94fa0523183a46082d10748f5c26e", null ],
+      [ "NPC_AFFRAY_CHALLENGER", "d4/dbc/a02954.html#aa59efdc816049c3fc44f4f97e12a5658aa3eb3b7d13bad2106f352684e916714e", null ],
+      [ "SAY_TWIGGY_FLATHEAD_BEGIN", "d4/dbc/a02954.html#aa59efdc816049c3fc44f4f97e12a5658a28f41773e448294cb2b7bdb0e2196423", null ],
+      [ "SAY_TWIGGY_FLATHEAD_FRAY", "d4/dbc/a02954.html#aa59efdc816049c3fc44f4f97e12a5658a1e039ea737b8aaa19f4293172019e7bd", null ],
+      [ "SAY_TWIGGY_FLATHEAD_DOWN", "d4/dbc/a02954.html#aa59efdc816049c3fc44f4f97e12a5658a0a41b6c14d5e6d0fa171a6ce3571243b", null ],
+      [ "SAY_TWIGGY_FLATHEAD_OVER", "d4/dbc/a02954.html#aa59efdc816049c3fc44f4f97e12a5658afcef9e183c118b65e0e78c8b503eabaa", null ]
+    ] ],
+    [ "Wizzlecrank", "d4/dbc/a02954.html#ac43046d19bb8d15ff051d8b88111a24d", [
+      [ "SAY_MERCENARY", "d4/dbc/a02954.html#ac43046d19bb8d15ff051d8b88111a24daf5cf9a9b244c85c38bd02b6148fe9217", null ],
+      [ "SAY_START", "d4/dbc/a02954.html#ac43046d19bb8d15ff051d8b88111a24da2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_STARTUP1", "d4/dbc/a02954.html#ac43046d19bb8d15ff051d8b88111a24da38e6de67604407821fa452a13ee74da2", null ],
+      [ "SAY_STARTUP2", "d4/dbc/a02954.html#ac43046d19bb8d15ff051d8b88111a24da23d6a197b8495317fae68ebc5426bfd7", null ],
+      [ "SAY_PROGRESS_1", "d4/dbc/a02954.html#ac43046d19bb8d15ff051d8b88111a24dac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
+      [ "SAY_PROGRESS_2", "d4/dbc/a02954.html#ac43046d19bb8d15ff051d8b88111a24da967473f354dae95832b5e82733f4cced", null ],
+      [ "SAY_PROGRESS_3", "d4/dbc/a02954.html#ac43046d19bb8d15ff051d8b88111a24da25cbd1006b2e610756fbd3227fb87dcc", null ],
+      [ "SAY_END", "d4/dbc/a02954.html#ac43046d19bb8d15ff051d8b88111a24da40884932ffbbf14d6c380b9022bcfe97", null ],
+      [ "QUEST_ESCAPE", "d4/dbc/a02954.html#ac43046d19bb8d15ff051d8b88111a24dac283b4a9a83bbf1c8f03006b37d75208", null ],
+      [ "NPC_PILOT_WIZZ", "d4/dbc/a02954.html#ac43046d19bb8d15ff051d8b88111a24dabea7d3cfb3795470ea680285a2de300b", null ],
+      [ "NPC_MERCENARY", "d4/dbc/a02954.html#ac43046d19bb8d15ff051d8b88111a24da3fe4be631c0b988a493e3867b76fab3f", null ]
+    ] ],
+    [ "AddSC_the_barrens", "d4/dbc/a02954.html#a89bb85fa847a65b610f6b4d1f9f0214c", null ],
+    [ "AffrayChallengerLoc", "d4/dbc/a02954.html#a0e553820217161ed24e533b560f8ab03", null ]
 ];

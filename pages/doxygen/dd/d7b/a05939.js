@@ -1,5 +1,10 @@
 var a05939 =
 [
-    [ "element", "dd/d7b/a05939.html#ae5400b2932fe1a8c514c38fb6bab392f", null ],
-    [ "type", "dd/d7b/a05939.html#afb3f8dc82da740b1aaae165cb6a5b218", null ]
+    [ "FreezeDetector", "de/d7d/a05000.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
+    [ "Handler", "de/d7d/a05000.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
+    [ "Start", "de/d7d/a05000.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],
+    [ "_lastChangeMsTime", "de/d7d/a05000.html#ga0a2b971b7ea733d846be71abf7b5dc1d", null ],
+    [ "_maxCoreStuckTimeInMs", "de/d7d/a05000.html#ga54077eab38ea5d0db27f08c50fd0652e", null ],
+    [ "_timer", "de/d7d/a05000.html#ga2377cec7cca6dbb9133a3d48b4d376c3", null ],
+    [ "_worldLoopCounter", "de/d7d/a05000.html#ga0ea988a0e070d056c16d7c9f3b1035f4", null ]
 ];

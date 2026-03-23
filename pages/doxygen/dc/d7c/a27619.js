@@ -1,5 +1,10 @@
 var a27619 =
 [
-    [ "go_soulwellAI", "dc/d7c/a27619.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "dc/d7c/a27619.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "CheckProc", "dc/d7c/a27619.html#a68a559c46266fc7337f7d56bb66af542", null ],
+    [ "HandleProc", "dc/d7c/a27619.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
+    [ "Load", "dc/d7c/a27619.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
+    [ "PrepareAuraScript", "dc/d7c/a27619.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
+    [ "Register", "dc/d7c/a27619.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
+    [ "Validate", "dc/d7c/a27619.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
+    [ "_procTarget", "dc/d7c/a27619.html#ad48f21d3a45e97857265e6047f253910", null ]
 ];

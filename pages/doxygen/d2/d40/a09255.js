@@ -1,7 +1,13 @@
 var a09255 =
 [
-    [ "PlayerRelocationNotifier", "d2/d40/a09255.html#afa316348fb6151cc992b0da7aab39ec3", null ],
-    [ "Visit", "d2/d40/a09255.html#ab9b3ad469216db3a7a49176b41b0b1ea", null ],
-    [ "Visit", "d2/d40/a09255.html#acffc7490cb9b0cf171a1cfc6e1dbdc79", null ],
-    [ "Visit", "d2/d40/a09255.html#aa92ab4dcd81b669f41f6ab1029b791df", null ]
+    [ "entry", "d2/d40/a09255.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
+    [ "height", "d2/d40/a09255.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
+    [ "length", "d2/d40/a09255.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
+    [ "map", "d2/d40/a09255.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
+    [ "orientation", "d2/d40/a09255.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
+    [ "radius", "d2/d40/a09255.html#ae4195d9f29b425394296009c22654380", null ],
+    [ "width", "d2/d40/a09255.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
+    [ "x", "d2/d40/a09255.html#a423077ceaf75c367831a6d9f55427a6f", null ],
+    [ "y", "d2/d40/a09255.html#a55ab832828addcef1b2f570bda81f2ce", null ],
+    [ "z", "d2/d40/a09255.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
 ];

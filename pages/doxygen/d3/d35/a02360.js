@@ -1,48 +1,65 @@
 var a02360 =
 [
-    [ "BattlegroundRV", "db/d98/a07685.html", "db/d98/a07685" ],
-    [ "BattlegroundRVData", "d3/d35/a02360.html#adfa778416d2a81f8fea9a8c211baf34c", [
-      [ "BG_RV_STATE_OPEN_FENCES", "d3/d35/a02360.html#adfa778416d2a81f8fea9a8c211baf34caecbfbc0c2c667f1549323a8f96e601b5", null ],
-      [ "BG_RV_STATE_SWITCH_PILLARS", "d3/d35/a02360.html#adfa778416d2a81f8fea9a8c211baf34ca90f1ce9eb7e79af7a348559d2d731a15", null ],
-      [ "BG_RV_STATE_CLOSE_FIRE", "d3/d35/a02360.html#adfa778416d2a81f8fea9a8c211baf34cabd4e313e8dca8e6cd60540a49cab8733", null ]
+    [ "ChaseRange", "d6/d1e/a10227.html", "d6/d1e/a10227" ],
+    [ "ChaseAngle", "d1/db9/a10231.html", "d1/db9/a10231" ],
+    [ "MotionMaster", "d4/d0f/a10235.html", "d4/d0f/a10235" ],
+    [ "SPEED_CHARGE", "d3/d35/a02360.html#a6386d0a4b64b17a25a60627bb55b360c", null ],
+    [ "VISUAL_WAYPOINT", "d3/d35/a02360.html#af0544189c7fc748059c3075861102b40", null ],
+    [ "AnimTier", "d3/d35/a02360.html#ae799184a3f3653b4b574f6df7a414255", [
+      [ "Ground", "d3/d35/a02360.html#ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf", null ],
+      [ "Swim", "d3/d35/a02360.html#ae799184a3f3653b4b574f6df7a414255ad0d933facd58904b226d055e75da2a6d", null ],
+      [ "Hover", "d3/d35/a02360.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc", null ],
+      [ "Fly", "d3/d35/a02360.html#ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51", null ],
+      [ "Submerged", "d3/d35/a02360.html#ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062", null ],
+      [ "Max", "d3/d35/a02360.html#ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233", null ]
     ] ],
-    [ "BattlegroundRVGameObjects", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2", [
-      [ "BG_RV_OBJECT_TYPE_BUFF_1", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2a5865634853f43c8785d0594b724e6249", null ],
-      [ "BG_RV_OBJECT_TYPE_BUFF_2", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2a68e4544e30ed3e20580c34b6612f1dad", null ],
-      [ "BG_RV_OBJECT_TYPE_FIRE_1", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2afd39bfaa9b3aafc5af644dcf29ee25ef", null ],
-      [ "BG_RV_OBJECT_TYPE_FIRE_2", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2ad38bf62ae2758fe80b97128e48663023", null ],
-      [ "BG_RV_OBJECT_TYPE_FIREDOOR_2", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2a98df70144dbec8cfb3011f3ea61505e6", null ],
-      [ "BG_RV_OBJECT_TYPE_FIREDOOR_1", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2ac353596628738da778ec84b8bb9a1cec", null ],
-      [ "BG_RV_OBJECT_TYPE_PULLEY_1", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2afb27d4c0b58b9e09a9f8800d06aea83b", null ],
-      [ "BG_RV_OBJECT_TYPE_PULLEY_2", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2a86c5e95cbdec6f6c3316fe3323c20550", null ],
-      [ "BG_RV_OBJECT_TYPE_GEAR_1", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2ae6d1aa03e079f6181152c11db0461091", null ],
-      [ "BG_RV_OBJECT_TYPE_GEAR_2", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2a92ccd53243be0cd3397a2fb9682513bd", null ],
-      [ "BG_RV_OBJECT_TYPE_ELEVATOR_1", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2a4192c5a1b304231c3beee84d99c7370a", null ],
-      [ "BG_RV_OBJECT_TYPE_ELEVATOR_2", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2ad98e0b5f80cb6ab1337f85970d94c6e8", null ],
-      [ "BG_RV_OBJECT_TYPE_PILAR_1", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2a04671e27271971362e7886597af3216d", null ],
-      [ "BG_RV_OBJECT_TYPE_PILAR_2", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2a01b0c6ae5461b29ad7585b439183b87a", null ],
-      [ "BG_RV_OBJECT_TYPE_PILAR_3", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2ac28d8f00d4677f79bb888126d4308de8", null ],
-      [ "BG_RV_OBJECT_TYPE_PILAR_4", "d3/d35/a02360.html#abfa3c262a87e3676b902ea7d76e7f6c2a15ad8c525a7388423a06003f3532dbc9", null ]
+    [ "ForcedMovement", "d3/d35/a02360.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0", [
+      [ "FORCED_MOVEMENT_NONE", "d3/d35/a02360.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece", null ],
+      [ "FORCED_MOVEMENT_WALK", "d3/d35/a02360.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37", null ],
+      [ "FORCED_MOVEMENT_RUN", "d3/d35/a02360.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2", null ],
+      [ "FORCED_MOVEMENT_MAX", "d3/d35/a02360.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f", null ]
     ] ],
-    [ "BattlegroundRVObjectTypes", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436", [
-      [ "BG_RV_OBJECT_BUFF_1", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436acd2d36c88c323a70c215211b46817c2f", null ],
-      [ "BG_RV_OBJECT_BUFF_2", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436ad57f0a28806c289aafbe47a03ad72ac0", null ],
-      [ "BG_RV_OBJECT_FIRE_1", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436adcb0fadd3de3f4a6220d7e1d43fb6500", null ],
-      [ "BG_RV_OBJECT_FIRE_2", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436a3810356845120e6dae0fdd79cee11a47", null ],
-      [ "BG_RV_OBJECT_FIREDOOR_1", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436a7a62cf4dea814047abe9c4976c5332d8", null ],
-      [ "BG_RV_OBJECT_FIREDOOR_2", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436a5811c26c50bd9b7c7254e4904b243c18", null ],
-      [ "BG_RV_OBJECT_PILAR_1", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436a006b8663347971e76a7ecf693c33ead4", null ],
-      [ "BG_RV_OBJECT_PILAR_3", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436af8dd233f8daf0b8dfbc66606197ead09", null ],
-      [ "BG_RV_OBJECT_GEAR_1", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436a46acd9a6aca7218ab030d97ac5e43a4a", null ],
-      [ "BG_RV_OBJECT_GEAR_2", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436abb499da8fbad32b04f1e4f58c41c3626", null ],
-      [ "BG_RV_OBJECT_PILAR_2", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436abc7c897e3b2b98567ca3bb2fb6479613", null ],
-      [ "BG_RV_OBJECT_PILAR_4", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436a25271eab61123d9887adb758a9f79b58", null ],
-      [ "BG_RV_OBJECT_PULLEY_1", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436a8f6b8a2367f6ac3a20072f3ba8c9a086", null ],
-      [ "BG_RV_OBJECT_PULLEY_2", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436a04808f08eb598192b617907fd51e0a15", null ],
-      [ "BG_RV_OBJECT_ELEVATOR_1", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436a258356e82cf4da9b5e751765bf518895", null ],
-      [ "BG_RV_OBJECT_ELEVATOR_2", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436a51eab52cbe9e830c225687812f461673", null ],
-      [ "BG_RV_OBJECT_READY_MARKER_1", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436af5056f50e32c033571b6c7a416c9d229", null ],
-      [ "BG_RV_OBJECT_READY_MARKER_2", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436af02dcb28ed9e331cfdd94544657c0e80", null ],
-      [ "BG_RV_OBJECT_MAX", "d3/d35/a02360.html#aa10f056e2c45506006341a5c3f0f7436a25d784ddd4f2eaeb962ab84de9fb23d0", null ]
+    [ "MMCleanFlag", "d3/d35/a02360.html#a1a14fe34f2e738c20bcc4e3c5cc71de5", [
+      [ "MMCF_NONE", "d3/d35/a02360.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79", null ],
+      [ "MMCF_UPDATE", "d3/d35/a02360.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5", null ],
+      [ "MMCF_RESET", "d3/d35/a02360.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2", null ],
+      [ "MMCF_INUSE", "d3/d35/a02360.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0", null ]
+    ] ],
+    [ "MovementGeneratorType", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9", [
+      [ "IDLE_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e", null ],
+      [ "RANDOM_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2", null ],
+      [ "WAYPOINT_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9", null ],
+      [ "MAX_DB_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b", null ],
+      [ "ANIMAL_RANDOM_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9ae9aa98899960f240ae2de52288b2dbd6", null ],
+      [ "CONFUSED_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611", null ],
+      [ "CHASE_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881", null ],
+      [ "HOME_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426", null ],
+      [ "FLIGHT_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9ad1cbffaeac9c9f09b8aeedbaadef54f4", null ],
+      [ "POINT_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467", null ],
+      [ "FLEEING_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e", null ],
+      [ "DISTRACT_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9a35aa056191b760ab18515a11f00f1759", null ],
+      [ "ASSISTANCE_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9a32a9419cbc2b947d521e0ea050020a9c", null ],
+      [ "ASSISTANCE_DISTRACT_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4", null ],
+      [ "TIMED_FLEEING_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc", null ],
+      [ "FOLLOW_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c", null ],
+      [ "ROTATE_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9a5e3cb574fe15a9c73536dab95be16c3f", null ],
+      [ "EFFECT_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac", null ],
+      [ "ESCORT_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf", null ],
+      [ "FORMATION_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9a0c2be8cafce0c581d8b51ac1b31d0721", null ],
+      [ "NULL_MOTION_TYPE", "d3/d35/a02360.html#a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b", null ]
+    ] ],
+    [ "MovementSlot", "d3/d35/a02360.html#a42f80f4e5d95e3ba656adbee43cfc3f5", [
+      [ "MOTION_SLOT_IDLE", "d3/d35/a02360.html#a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7", null ],
+      [ "MOTION_SLOT_ACTIVE", "d3/d35/a02360.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc", null ],
+      [ "MOTION_SLOT_CONTROLLED", "d3/d35/a02360.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e", null ],
+      [ "MAX_MOTION_SLOT", "d3/d35/a02360.html#a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5", null ]
+    ] ],
+    [ "PathSource", "d3/d35/a02360.html#a7c48b62afc7f5aeede09278c110acbac", [
+      [ "WAYPOINT_MGR", "d3/d35/a02360.html#a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7", null ],
+      [ "SMART_WAYPOINT_MGR", "d3/d35/a02360.html#a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f", null ]
+    ] ],
+    [ "RotateDirection", "d3/d35/a02360.html#a1978c8aa3f81d04079c45fe56aa51233", [
+      [ "ROTATE_DIRECTION_LEFT", "d3/d35/a02360.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a", null ],
+      [ "ROTATE_DIRECTION_RIGHT", "d3/d35/a02360.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5", null ]
     ] ]
 ];

@@ -1,8 +1,9 @@
 var a13971 =
 [
-    [ "npc_varian_wrynnAI", "d0/dc9/a13975.html", "d0/dc9/a13975" ],
-    [ "npc_varian_wrynn", "db/d80/a13971.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "db/d80/a13971.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "db/d80/a13971.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "db/d80/a13971.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "npc_marzon_silent_bladeAI", "db/d80/a13971.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "db/d80/a13971.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "db/d80/a13971.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "db/d80/a13971.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "db/d80/a13971.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "db/d80/a13971.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

@@ -1,7 +1,7 @@
 var a11027 =
 [
-    [ "TrainerBuySucceeded", "d1/da1/a11027.html#ae00367a55429030c107fc8f6bb7db288", null ],
-    [ "Write", "d1/da1/a11027.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
-    [ "SpellID", "d1/da1/a11027.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
-    [ "TrainerGUID", "d1/da1/a11027.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
+    [ "GuildBankWithdrawMoney", "d1/da1/a11027.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
+    [ "Read", "d1/da1/a11027.html#a420aac24befdc5ac26171faa15c3c350", null ],
+    [ "Banker", "d1/da1/a11027.html#a68f9a4191c349702881774bff4069f03", null ],
+    [ "Money", "d1/da1/a11027.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
 ];

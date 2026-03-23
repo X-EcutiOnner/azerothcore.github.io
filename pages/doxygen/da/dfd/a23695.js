@@ -1,8 +1,7 @@
 var a23695 =
 [
-    [ "ApplyStun", "da/dfd/a23695.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "da/dfd/a23695.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "da/dfd/a23695.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "da/dfd/a23695.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "da/dfd/a23695.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "npc_daranelleAI", "da/dfd/a23695.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "da/dfd/a23695.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "da/dfd/a23695.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "da/dfd/a23695.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

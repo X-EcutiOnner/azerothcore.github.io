@@ -1,7 +1,6 @@
 var a24011 =
 [
-    [ "CastQuill", "d2/d12/a24011.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "d2/d12/a24011.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "d2/d12/a24011.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "d2/d12/a24011.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "PrepareSpellScript", "d2/d12/a24011.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
+    [ "Register", "d2/d12/a24011.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
+    [ "SetDest", "d2/d12/a24011.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
 ];

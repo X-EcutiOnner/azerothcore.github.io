@@ -1,7 +1,6 @@
 var a11367 =
 [
-    [ "chance", "d1/db9/a11367.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "d1/db9/a11367.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "d1/db9/a11367.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "d1/db9/a11367.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "PetStopAttack", "d1/db9/a11367.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "d1/db9/a11367.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "d1/db9/a11367.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

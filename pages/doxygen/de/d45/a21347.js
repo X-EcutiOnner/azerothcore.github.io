@@ -1,6 +1,6 @@
 var a21347 =
 [
-    [ "npc_ravenous_furbolgAI", "d4/dcd/a21351.html", "d4/dcd/a21351" ],
-    [ "npc_ravenous_furbolg", "de/d45/a21347.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "de/d45/a21347.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "PrepareSpellScript", "de/d45/a21347.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "de/d45/a21347.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "de/d45/a21347.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

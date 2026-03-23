@@ -1,6 +1,7 @@
 var a25955 =
 [
-    [ "HandleEffectApply", "db/ded/a25955.html#a9e8b226f3ebb33c47de584850643994f", null ],
-    [ "PrepareAuraScript", "db/ded/a25955.html#a30b74d44bb81a04ea1cfe1b6d5f926c7", null ],
-    [ "Register", "db/ded/a25955.html#a1d3d32c057877b5cf00f5970e583c25e", null ]
+    [ "CheckCast", "db/ded/a25955.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "db/ded/a25955.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "db/ded/a25955.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "db/ded/a25955.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

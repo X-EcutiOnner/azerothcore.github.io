@@ -1,13 +1,10 @@
 var a12535 =
 [
-    [ "boss_nefarian", "da/dec/a12535.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
-    [ "JustDied", "da/dec/a12535.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
-    [ "JustEngagedWith", "da/dec/a12535.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
-    [ "KilledUnit", "da/dec/a12535.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
-    [ "MovementInform", "da/dec/a12535.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
-    [ "PathEndReached", "da/dec/a12535.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
-    [ "Reset", "da/dec/a12535.html#a5d687fce34b17e22c605c263395e823b", null ],
-    [ "UpdateAI", "da/dec/a12535.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
-    [ "_introDone", "da/dec/a12535.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
-    [ "classesPresent", "da/dec/a12535.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
+    [ "npc_rookery_hatcher", "da/dec/a12535.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
+    [ "InitializeAI", "da/dec/a12535.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
+    [ "JustEngagedWith", "da/dec/a12535.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
+    [ "UpdateAI", "da/dec/a12535.html#a011cf0384a7bf6dd502a767d6667140a", null ],
+    [ "events", "da/dec/a12535.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
+    [ "targetEgg", "da/dec/a12535.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
+    [ "targetPosition", "da/dec/a12535.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
 ];

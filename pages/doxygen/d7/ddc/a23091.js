@@ -1,9 +1,10 @@
 var a23091 =
 [
-    [ "boss_mother_shahraz", "d7/ddc/a23091.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "d7/ddc/a23091.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "d7/ddc/a23091.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "d7/ddc/a23091.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "d7/ddc/a23091.html#ab9e4162ac92e786b84b6497c37251386", null ],
-    [ "_canTalk", "d7/ddc/a23091.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
+    [ "boss_warlord_kalithresh", "d7/ddc/a23091.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "d7/ddc/a23091.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "d7/ddc/a23091.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "d7/ddc/a23091.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "d7/ddc/a23091.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "d7/ddc/a23091.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "d7/ddc/a23091.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

@@ -1,8 +1,10 @@
 var a09519 =
 [
-    [ "MostHPMissingGroupInRange", "d3/dcb/a09519.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
-    [ "operator()", "d3/dcb/a09519.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
-    [ "i_hp", "d3/dcb/a09519.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
-    [ "i_obj", "d3/dcb/a09519.html#ae0d85f9738301b40c3e950b02ee20026", null ],
-    [ "i_range", "d3/dcb/a09519.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
+    [ "UnitSearcher", "d3/dcb/a09519.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
+    [ "Visit", "d3/dcb/a09519.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
+    [ "Visit", "d3/dcb/a09519.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
+    [ "Visit", "d3/dcb/a09519.html#ac65516ed337b509ff5c316fb29727854", null ],
+    [ "i_check", "d3/dcb/a09519.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
+    [ "i_object", "d3/dcb/a09519.html#a3029760131a6f50883246afe2533c062", null ],
+    [ "i_phaseMask", "d3/dcb/a09519.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
 ];

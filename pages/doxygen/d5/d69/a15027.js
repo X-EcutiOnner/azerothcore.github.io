@@ -1,6 +1,6 @@
 var a15027 =
 [
-    [ "npc_crate_helperAI", "d5/d69/a15027.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "d5/d69/a15027.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "d5/d69/a15027.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "boss_infinite_corruptorAI", "dc/dc5/a15031.html", "dc/dc5/a15031" ],
+    [ "boss_infinite_corruptor", "d5/d69/a15027.html#a78a939073ab44b818cefdb25419f92be", null ],
+    [ "GetAI", "d5/d69/a15027.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
 ];

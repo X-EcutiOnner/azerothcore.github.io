@@ -1,4 +1,4 @@
 var a02243 =
 [
-    [ "HomeMovementGenerator< Creature >", "da/d33/a10241.html", "da/d33/a10241" ]
+    [ "AbstractFollower", "de/db2/a10223.html", "de/db2/a10223" ]
 ];

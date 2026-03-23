@@ -1,6 +1,5 @@
 var a26791 =
 [
-    [ "ModDest", "d2/d32/a26791.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "d2/d32/a26791.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "d2/d32/a26791.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "PrepareSpellScript", "d2/d32/a26791.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
+    [ "Register", "d2/d32/a26791.html#a6318da4bfeb63dee75a971106bdc2146", null ]
 ];

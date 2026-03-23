@@ -1,6 +1,6 @@
 var a12447 =
 [
-    [ "npc_vaelastrasz_the_redAI", "da/d98/a12451.html", "da/d98/a12451" ],
-    [ "npc_vaelastrasz_the_red", "dc/d13/a12447.html#af39fcaa29b200e3b7933f97de277df6b", null ],
-    [ "GetAI", "dc/d13/a12447.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
+    [ "boss_hedrum", "dc/d13/a12447.html#adf610c943b7644aa2805934f54571492", null ],
+    [ "JustEngagedWith", "dc/d13/a12447.html#a18dd15e991417b68569b5a0e93499c0f", null ],
+    [ "UpdateAI", "dc/d13/a12447.html#a4af57f4f6d8bdaf1017788f343b5439d", null ]
 ];

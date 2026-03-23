@@ -1,5 +1,7 @@
 var a09735 =
 [
-    [ "MinionInfo", "d8/d6f/a09735.html#a537dd49ffb504aeab8b2b1734d5f44d7", null ],
-    [ "bossInfo", "d8/d6f/a09735.html#a04750e14ecb53ce6e3fac35844a713cd", null ]
+    [ "PlayerAtMinimumRangeAway", "d8/d6f/a09735.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
+    [ "operator()", "d8/d6f/a09735.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
+    [ "fRange", "d8/d6f/a09735.html#a0c58929de429694f24877525287f15a6", null ],
+    [ "unit", "d8/d6f/a09735.html#a4ea0f83c3287079cff40fac15272fa94", null ]
 ];

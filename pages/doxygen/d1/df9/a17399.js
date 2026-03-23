@@ -1,5 +1,7 @@
 var a17399 =
 [
-    [ "endPosition", "d1/df9/a17399.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "d1/df9/a17399.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "HandleDummy", "d1/df9/a17399.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
+    [ "PrepareSpellScript", "d1/df9/a17399.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
+    [ "Register", "d1/df9/a17399.html#a371073fb37337719115242fc8758026f", null ],
+    [ "Validate", "d1/df9/a17399.html#ad5df08da54defc89a7a552c39de089c3", null ]
 ];

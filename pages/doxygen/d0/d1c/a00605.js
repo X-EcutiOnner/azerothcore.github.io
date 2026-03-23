@@ -1,19 +1,15 @@
 var a00605 =
 [
-    [ "SpellProcChargeTest", "db/d40/a29749.html", "db/d40/a29749" ],
-    [ "TEST_F", "d0/d1c/a00605.html#af6b7ce5004d831afafdd960e76b497b9", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#a6aad9923e77ce2183a9bfd5884fe3912", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#a7502979bd6cdb7d72f8c6ce5a3e67598", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#af9b31ad83d3c0000b3862f4271c5a670", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#a223a5cdf49fecfa7b4b80d2a0dcf1468", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#add201c56e63c8e3d4b9541d4b0ad8d1f", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#a746f7ab811ea4ea58f21d77180c752b3", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#a8cddad3956dbe3afd8a23e969ba46d05", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#a89db4a2cf2935011d4e98ff3385c25d8", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#ab8fbc8d09d454845b486266a32ec0055", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#a8ae02922feb6d525efc5203b349d36d8", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#ac539918ba1c029cc1ea195c532da00ad", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#afdc5df5f8196781ca55254eda1bd09d0", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#a03704468e16a20474afaecd9dea9019f", null ],
-    [ "TEST_F", "d0/d1c/a00605.html#a1d7c412fdf87bebbdfa8133166237d6c", null ]
+    [ "SpellProcDBCValidationTest", "dc/daf/a29531.html", "dc/daf/a29531" ],
+    [ "SpellProcDBCValidationParamTest", "d3/d63/a29535.html", null ],
+    [ "INSTANTIATE_TEST_SUITE_P", "d0/d1c/a00605.html#a1bcaae4dcd5fec113966d51c2f6f60d0", null ],
+    [ "TEST_F", "d0/d1c/a00605.html#a5d68edc629baf508a75ad0306d5a9123", null ],
+    [ "TEST_F", "d0/d1c/a00605.html#aae6111f031cb367b403d6c1fae593245", null ],
+    [ "TEST_F", "d0/d1c/a00605.html#a4dd4a9f2ad7b9f9c90f178e412d6853a", null ],
+    [ "TEST_F", "d0/d1c/a00605.html#a3140cdc3c6be8230853a19725adce0df", null ],
+    [ "TEST_F", "d0/d1c/a00605.html#a16d0dc4448f95f4d571e474baa22b657", null ],
+    [ "TEST_F", "d0/d1c/a00605.html#a14eea23ad6fde730eac3ff84fdffc8ad", null ],
+    [ "TEST_F", "d0/d1c/a00605.html#a67fce2ede01fc117b24ed6c0015ee5d5", null ],
+    [ "TEST_F", "d0/d1c/a00605.html#a918f689a14967e97deeb88c36f959a81", null ],
+    [ "TEST_P", "d0/d1c/a00605.html#a9c2b63e811e5bae6092ac12f33e514b8", null ]
 ];

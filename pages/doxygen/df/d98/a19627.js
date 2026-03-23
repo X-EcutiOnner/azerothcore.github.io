@@ -1,13 +1,8 @@
 var a19627 =
 [
-    [ "boss_drakosAI", "df/d98/a19627.html#a75d771095897081457353be898b332c3", null ],
-    [ "JustDied", "df/d98/a19627.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
-    [ "JustEngagedWith", "df/d98/a19627.html#a4bc15075d9e9a913783da482a7a167c7", null ],
-    [ "JustSummoned", "df/d98/a19627.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
-    [ "KilledUnit", "df/d98/a19627.html#a4bd3e45b45660311d7510f58a1850648", null ],
-    [ "MoveInLineOfSight", "df/d98/a19627.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
-    [ "Reset", "df/d98/a19627.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
-    [ "UpdateAI", "df/d98/a19627.html#abf761c7cda4031c31354d8c8d42963e0", null ],
-    [ "events", "df/d98/a19627.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
-    [ "pInstance", "df/d98/a19627.html#adc9461ae5334634a9140f338547688b4", null ]
+    [ "npc_centrifuge_constructAI", "df/d98/a19627.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "df/d98/a19627.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "df/d98/a19627.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "df/d98/a19627.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "df/d98/a19627.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

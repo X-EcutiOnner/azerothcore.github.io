@@ -1,10 +1,10 @@
 var a08703 =
 [
-    [ "PlayerSetting", "dd/d1a/a08703.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
-    [ "PlayerSetting", "dd/d1a/a08703.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
-    [ "AddFlag", "dd/d1a/a08703.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
-    [ "HasFlag", "dd/d1a/a08703.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
-    [ "IsEnabled", "dd/d1a/a08703.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
-    [ "RemoveFlag", "dd/d1a/a08703.html#a4ca3645233a466345d6be217d7a0df2b", null ],
-    [ "value", "dd/d1a/a08703.html#a74592e45f8ae4c5f411a982227f809f3", null ]
+    [ "ObjectGuidGeneratorBase", "dd/d1a/a08703.html#a8af6741cc884915ee86b489fc970fed1", null ],
+    [ "~ObjectGuidGeneratorBase", "dd/d1a/a08703.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
+    [ "Generate", "dd/d1a/a08703.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
+    [ "GetNextAfterMaxUsed", "dd/d1a/a08703.html#abf1f20b97af8071459bd850e7106a442", null ],
+    [ "HandleCounterOverflow", "dd/d1a/a08703.html#ada7a44ac47b112491c575c38465740fc", null ],
+    [ "Set", "dd/d1a/a08703.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
+    [ "_nextGuid", "dd/d1a/a08703.html#a4a14102e019aa10f41b050054cacca22", null ]
 ];

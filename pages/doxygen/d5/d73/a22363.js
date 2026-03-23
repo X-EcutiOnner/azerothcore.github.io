@@ -1,6 +1,8 @@
 var a22363 =
 [
-    [ "PrepareSpellScript", "d5/d73/a22363.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "d5/d73/a22363.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "d5/d73/a22363.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "boss_darkweaver_syth", "d5/d73/a22363.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "d5/d73/a22363.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "d5/d73/a22363.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "d5/d73/a22363.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "d5/d73/a22363.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

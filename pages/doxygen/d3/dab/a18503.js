@@ -1,7 +1,6 @@
 var a18503 =
 [
-    [ "OnPeriodic", "d3/dab/a18503.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "d3/dab/a18503.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "d3/dab/a18503.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "d3/dab/a18503.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "HandleScript", "d3/dab/a18503.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
+    [ "PrepareSpellScript", "d3/dab/a18503.html#add6b78f0396a34c36e0dff1928889e43", null ],
+    [ "Register", "d3/dab/a18503.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
 ];

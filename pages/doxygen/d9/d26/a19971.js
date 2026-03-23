@@ -1,16 +1,9 @@
 var a19971 =
 [
-    [ "boss_steelbreakerAI", "d9/d26/a19971.html#aeec79a009137be8b6290366d8d6bcfa3", null ],
-    [ "DoAction", "d9/d26/a19971.html#ac5bc8a9512c2e6e5169366cc5bbc79c2", null ],
-    [ "JustDied", "d9/d26/a19971.html#a001f8b206f0d00fff77e964f49cbdb58", null ],
-    [ "JustEngagedWith", "d9/d26/a19971.html#a0f207b2a274c7266f6882205e510f346", null ],
-    [ "JustReachedHome", "d9/d26/a19971.html#a3fd5d7c8baf6d6b4651d4d54df2e7fa8", null ],
-    [ "KilledUnit", "d9/d26/a19971.html#a5a0a92144412259bfa02abc04bdc4425", null ],
-    [ "Reset", "d9/d26/a19971.html#a9544ce38a210da1ac867d5cabf9ffbec", null ],
-    [ "SpellHit", "d9/d26/a19971.html#a21d891d8f8f6fa89b1f1883800d8d578", null ],
-    [ "UpdateAI", "d9/d26/a19971.html#ac4adabf023663df7b4c1fdc8c027b52d", null ],
-    [ "UpdatePhase", "d9/d26/a19971.html#af217acbeab5032b8a16180f4ff021e0a", null ],
-    [ "_phase", "d9/d26/a19971.html#ae71145ec4a82d1f024892181daebace9", null ],
-    [ "events", "d9/d26/a19971.html#a8085a615ff5d252452616ef69dfd3249", null ],
-    [ "pInstance", "d9/d26/a19971.html#ac99cd9678f209b0cf2e8e8e3457d0f55", null ]
+    [ "npc_hodirs_fury", "d9/d26/a19971.html#abda902842d76a0a5a17196a11654f5ab", null ],
+    [ "MovementInform", "d9/d26/a19971.html#a4d82007c5b70edad74b461948629b9fb", null ],
+    [ "Reset", "d9/d26/a19971.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
+    [ "UpdateAI", "d9/d26/a19971.html#a58a8b1664bb00b930cce86e856facb8b", null ],
+    [ "_switchTargetTimer", "d9/d26/a19971.html#a9736332e6f3d163f04aa12cbd6829670", null ],
+    [ "_timeToHit", "d9/d26/a19971.html#a611d171dc27bd78d298040eabfc00e5f", null ]
 ];

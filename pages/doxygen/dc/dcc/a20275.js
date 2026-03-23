@@ -1,5 +1,9 @@
 var a20275 =
 [
-    [ "boss_freya_iron_rootAI", "dc/dcc/a20275.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
-    [ "JustDied", "dc/dcc/a20275.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
+    [ "HandleEffectPeriodic", "dc/dcc/a20275.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "dc/dcc/a20275.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "dc/dcc/a20275.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "dc/dcc/a20275.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "dc/dcc/a20275.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "dc/dcc/a20275.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

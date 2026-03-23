@@ -1,6 +1,7 @@
 var a10927 =
 [
-    [ "ItemRefund", "d3/d97/a10927.html#aa257d579519d45da88694ff6306395da", null ],
-    [ "Read", "d3/d97/a10927.html#a6d031070a4832bdc716f8b73629ebc8d", null ],
-    [ "ItemGuid", "d3/d97/a10927.html#ac394336b15540248770f81d748206f7b", null ]
+    [ "GuildInvite", "d3/d97/a10927.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "d3/d97/a10927.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "d3/d97/a10927.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "d3/d97/a10927.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

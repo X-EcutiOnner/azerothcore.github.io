@@ -1,8 +1,26 @@
 var a29671 =
 [
-    [ "DBCFile", "dd/d9b/a28680.html", "dd/d9b/a28680" ],
-    [ "DBCFile::Exception", "d0/d97/a28684.html", "d0/d97/a28684" ],
-    [ "DBCFile::NotFound", "dc/d15/a28688.html", "dc/d15/a28688" ],
-    [ "DBCFile::Record", "dc/da2/a28692.html", "dc/da2/a28692" ],
-    [ "DBCFile::Iterator", "d1/dd7/a28696.html", "d1/dd7/a28696" ]
+    [ "getMCIN", "df/de7/a29671.html#a5014297529c070757b1a3672f679b83f", null ],
+    [ "getMFBO", "df/de7/a29671.html#a28a247f0addfd93d3eeed190516e515a", null ],
+    [ "getMH2O", "df/de7/a29671.html#a6672516f9b82b4dc33e28a5b9fda7000", null ],
+    [ "prepareLoadedData", "df/de7/a29671.html#aeae95bb7dbb0d46e68db52fb2e212a80", null ],
+    [ "data1", "df/de7/a29671.html#aeb0dacd46404505504aa4c9cd868838a", null ],
+    [ "data2", "df/de7/a29671.html#a1996770c42791100aa0cbef91c78fcd2", null ],
+    [ "data3", "df/de7/a29671.html#a4936a7d0e5ad64f4f75f6550418f80e6", null ],
+    [ "data4", "df/de7/a29671.html#a6842806c1317e9be2a2cb5cbeeb0580d", null ],
+    [ "data5", "df/de7/a29671.html#ac5bf3376c3e870ee129acc562588e4d5", null ],
+    [ "fcc", "df/de7/a29671.html#a5d1b23b9a55361516d4dedbef5886d52", null ],
+    [ "fcc_txt", "df/de7/a29671.html#a73087fbf3b4ff49036f3d3091c6125bc", null ],
+    [ "flags", "df/de7/a29671.html#a04fe5874241fd7b868f1d3f5caf7d257", null ],
+    [ "offsDoodsDef", "df/de7/a29671.html#a62270e73c2fd69dcfd38a4073de20fbc", null ],
+    [ "offsMapObejcts", "df/de7/a29671.html#ad80da67bf16b98bba014d487da757492", null ],
+    [ "offsMapObejctsIds", "df/de7/a29671.html#ab1c6fc91e4ac6954f959cb26502b88ce", null ],
+    [ "offsMCIN", "df/de7/a29671.html#aa89f72d475714b226ed737b43eb8f6fc", null ],
+    [ "offsMFBO", "df/de7/a29671.html#adc0706b41b60a36a26fea083d0eec379", null ],
+    [ "offsMH2O", "df/de7/a29671.html#a677d2fc59ea16c6be991d2f1a9365de6", null ],
+    [ "offsModels", "df/de7/a29671.html#a91801010d9fd98048e02a6dca36eefed", null ],
+    [ "offsModelsIds", "df/de7/a29671.html#a0e5716fc4586c41f07103baa84c67388", null ],
+    [ "offsObjectsDef", "df/de7/a29671.html#af3204f96aaab52969f97c56fc8207e1f", null ],
+    [ "offsTex", "df/de7/a29671.html#abb5f6d7851880d74c6a645fe797cb355", null ],
+    [ "size", "df/de7/a29671.html#a23b9fac4ccbdcae862135fa3cbe3061d", null ]
 ];

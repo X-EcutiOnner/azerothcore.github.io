@@ -1,6 +1,7 @@
 var a11523 =
 [
-    [ "ObjectAreaTargetSelectHandler", "d7/d61/a11523.html#a89b86436bb1de38223165e7ef60f2b61", null ],
-    [ "Call", "d7/d61/a11523.html#a11d2070610d178006231bac274d1f311", null ],
-    [ "pObjectAreaTargetSelectHandlerScript", "d7/d61/a11523.html#a118ca963c6319802806913762c4d1fec", null ]
+    [ "Player", "d7/d61/a11523.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d7/d61/a11523.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "d7/d61/a11523.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "d7/d61/a11523.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

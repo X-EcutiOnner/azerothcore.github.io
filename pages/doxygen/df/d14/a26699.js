@@ -1,6 +1,6 @@
 var a26699 =
 [
-    [ "HandleDummy", "df/d14/a26699.html#afb85971597df327fa44271ee0c4b3d04", null ],
-    [ "PrepareSpellScript", "df/d14/a26699.html#a43052fedbec62cfbdbbf24fbfcbca047", null ],
-    [ "Register", "df/d14/a26699.html#a7a249dd2bcdccf1a19d151d041a25215", null ]
+    [ "CheckDummy", "df/d14/a26699.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
+    [ "PrepareAuraScript", "df/d14/a26699.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
+    [ "Register", "df/d14/a26699.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
 ];

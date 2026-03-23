@@ -1,6 +1,6 @@
 var a25147 =
 [
-    [ "CheckLevel", "df/d0b/a25147.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "df/d0b/a25147.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "df/d0b/a25147.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "HandleScriptEffect", "df/d0b/a25147.html#a78a131bdf6a1406604edd130c28d664b", null ],
+    [ "PrepareSpellScript", "df/d0b/a25147.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
+    [ "Register", "df/d0b/a25147.html#a8a70913369aa733160366f37ff1c3470", null ]
 ];

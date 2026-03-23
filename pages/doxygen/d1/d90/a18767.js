@@ -1,6 +1,6 @@
 var a18767 =
 [
-    [ "npc_suppresserAI", "dd/dd1/a18771.html", "dd/dd1/a18771" ],
-    [ "npc_suppresser", "d1/d90/a18767.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d1/d90/a18767.html#a48869515abbac1491337a93b987231da", null ]
+    [ "PeriodicTick", "d1/d90/a18767.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "d1/d90/a18767.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "d1/d90/a18767.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

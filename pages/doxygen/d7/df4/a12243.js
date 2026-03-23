@@ -1,6 +1,10 @@
 var a12243 =
 [
-    [ "boss_okthorAI", "dd/d4f/a12247.html", "dd/d4f/a12247" ],
-    [ "boss_okthor", "d7/df4/a12243.html#a9e75c1da85a6db6692dfabfbb3ee3e87", null ],
-    [ "GetAI", "d7/df4/a12243.html#a15d13a6c879ae260c0676fd4a4aff645", null ]
+    [ "mmaps_commandscript", "d7/df4/a12243.html#a1dbdfd26bdb685315a3012453080a56f", null ],
+    [ "GetCommands", "d7/df4/a12243.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
+    [ "HandleMmapLoadedTilesCommand", "d7/df4/a12243.html#a40d5b7e733298210c686fe89490b6f61", null ],
+    [ "HandleMmapLocCommand", "d7/df4/a12243.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
+    [ "HandleMmapPathCommand", "d7/df4/a12243.html#a2c876439ad6d9ff7523f140d97743dea", null ],
+    [ "HandleMmapStatsCommand", "d7/df4/a12243.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
+    [ "HandleMmapTestArea", "d7/df4/a12243.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
 ];

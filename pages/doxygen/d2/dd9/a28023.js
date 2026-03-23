@@ -1,5 +1,5 @@
 var a28023 =
 [
-    [ "ServerMailReward", "d2/dd9/a28023.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "d2/dd9/a28023.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "go_table_theka", "d2/dd9/a28023.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
+    [ "OnGossipHello", "d2/dd9/a28023.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
 ];

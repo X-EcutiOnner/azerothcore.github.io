@@ -1,8 +1,7 @@
 var a09467 =
 [
-    [ "NearestHostileUnitInAttackDistanceCheck", "db/d9c/a09467.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
-    [ "NearestHostileUnitInAttackDistanceCheck", "db/d9c/a09467.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
-    [ "operator()", "db/d9c/a09467.html#adc28281742cd1f6a49152481b48f944e", null ],
-    [ "m_range", "db/d9c/a09467.html#ab79296a88ed07257edbe3449c2515b40", null ],
-    [ "me", "db/d9c/a09467.html#a298d2489b9bf30aa510407afca79a374", null ]
+    [ "CreatureRelocationNotifier", "db/d9c/a09467.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "db/d9c/a09467.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "db/d9c/a09467.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "db/d9c/a09467.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

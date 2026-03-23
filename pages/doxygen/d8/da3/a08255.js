@@ -1,7 +1,9 @@
 var a08255 =
 [
-    [ "IsInSpec", "d8/da3/a08255.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
-    [ "Active", "d8/da3/a08255.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
-    [ "specMask", "d8/da3/a08255.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
-    [ "State", "d8/da3/a08255.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
+    [ "LFGPlayerScript", "d8/da3/a08255.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
+    [ "OnPlayerBindToInstance", "d8/da3/a08255.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
+    [ "OnPlayerLevelChanged", "d8/da3/a08255.html#afd530a2823a7187b49645c9d0625c8ba", null ],
+    [ "OnPlayerLogin", "d8/da3/a08255.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
+    [ "OnPlayerLogout", "d8/da3/a08255.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
+    [ "OnPlayerMapChanged", "d8/da3/a08255.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
 ];

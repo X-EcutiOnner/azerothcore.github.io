@@ -1,6 +1,9 @@
 var a19823 =
 [
-    [ "boss_sjonnir_dwarfAI", "d9/d15/a19827.html", "d9/d15/a19827" ],
-    [ "boss_sjonnir_dwarf", "d3/d7b/a19823.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
-    [ "GetAI", "d3/d7b/a19823.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
+    [ "npc_brann_bronzebeard_algalon", "d3/d7b/a19823.html#ac00755dca7e187b55516be889386c499", null ],
+    [ "DoAction", "d3/d7b/a19823.html#a6d44478868a74ed7baac757258334806", null ],
+    [ "MovementInform", "d3/d7b/a19823.html#a33af1a38ab2827aec38f95e57e54f589", null ],
+    [ "UpdateAI", "d3/d7b/a19823.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
+    [ "_currentPoint", "d3/d7b/a19823.html#a5403badf59f96111aefaddf78379e65f", null ],
+    [ "events", "d3/d7b/a19823.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
 ];

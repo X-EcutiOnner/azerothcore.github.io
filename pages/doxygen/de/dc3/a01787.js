@@ -1,4 +1,5 @@
 var a01787 =
 [
-    [ "AuraEffectHandler", "de/dc3/a01787.html#a2817e7c4c5917ae8deba00b38850e8db", null ]
+    [ "WardenInitModuleRequest", "d9/dd1/a12047.html", "d9/dd1/a12047" ],
+    [ "WardenWin", "d3/d62/a12051.html", "d3/d62/a12051" ]
 ];

@@ -1,6 +1,7 @@
 var a20807 =
 [
-    [ "boss_thorimAI", "df/dbe/a20811.html", "df/dbe/a20811" ],
-    [ "boss_thorim", "d1/de7/a20807.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
-    [ "GetAI", "d1/de7/a20807.html#a70895451317569f50adc11474e653515", null ]
+    [ "npc_frost_tomb", "d1/de7/a20807.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "d1/de7/a20807.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "d1/de7/a20807.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "d1/de7/a20807.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

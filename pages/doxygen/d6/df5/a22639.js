@@ -1,5 +1,8 @@
 var a22639 =
 [
-    [ "achievement_wg_vehicular_gnomeslaughter", "d6/df5/a22639.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
-    [ "OnCheck", "d6/df5/a22639.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
+    [ "HandleEffectApply", "d6/df5/a22639.html#a94993441ef94f84c85aa10c693cf34fe", null ],
+    [ "HandleEffectRemove", "d6/df5/a22639.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
+    [ "PrepareAuraScript", "d6/df5/a22639.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
+    [ "Register", "d6/df5/a22639.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
+    [ "Validate", "d6/df5/a22639.html#a964637541cd64e64b4e02c00d36abf2d", null ]
 ];

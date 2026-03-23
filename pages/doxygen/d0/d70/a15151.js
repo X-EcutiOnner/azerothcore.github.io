@@ -1,10 +1,6 @@
 var a15151 =
 [
-    [ "CurrId", "d0/d70/a15151.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
-    [ "DestId", "d0/d70/a15151.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
-    [ "o", "d0/d70/a15151.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
-    [ "spellId", "d0/d70/a15151.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
-    [ "x", "d0/d70/a15151.html#a41c7bdb057d984f552a41835651d84f5", null ],
-    [ "y", "d0/d70/a15151.html#abe083129d7a4e514e97eeae7cff40af5", null ],
-    [ "z", "d0/d70/a15151.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "db/d54/a15155.html", "db/d54/a15155" ],
+    [ "instance_the_black_morass", "d0/d70/a15151.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
+    [ "GetInstanceScript", "d0/d70/a15151.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
 ];

@@ -1,6 +1,9 @@
 var a24543 =
 [
-    [ "PrepareSpellScript", "de/d55/a24543.html#a190f6dc3d9b336324da29f627a743fe9", null ],
-    [ "Register", "de/d55/a24543.html#a3afc8035b852bc31abd3228e88d59819", null ],
-    [ "SetDest", "de/d55/a24543.html#a85d66a58597954501305ad5b674cc8a2", null ]
+    [ "Absorb", "de/d55/a24543.html#a8f6e773840274e07d685c891561f72d8", null ],
+    [ "CalculateAmount", "de/d55/a24543.html#af337ef5d5cea283f4e43b943961838d6", null ],
+    [ "Load", "de/d55/a24543.html#a65f51613dd3614f5b0e3e1dc938f56cf", null ],
+    [ "PrepareAuraScript", "de/d55/a24543.html#a5c2eca05834a29fa6d5d7dd3c75e52ed", null ],
+    [ "Register", "de/d55/a24543.html#a80982626e1b67374629cb6e0800ccaea", null ],
+    [ "absorbPct", "de/d55/a24543.html#a7ce98d22bb4a28f94366b4c08f76b61a", null ]
 ];

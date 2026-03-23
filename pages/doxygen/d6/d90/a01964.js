@@ -1,5 +1,6 @@
 var a01964 =
 [
-    [ "WorldPackets::Totem::TotemDestroyed", "d0/d5e/a11373.html", "d0/d5e/a11373" ],
-    [ "WorldPackets::Totem::TotemCreated", "da/da4/a11377.html", "da/da4/a11377" ]
+    [ "WorldPackets::Chat::Emote", "db/d81/a10847.html", "db/d81/a10847" ],
+    [ "WorldPackets::Chat::EmoteClient", "d1/de3/a10851.html", "d1/de3/a10851" ],
+    [ "WorldPackets::Chat::ChatServerMessage", "d7/d04/a10855.html", "d7/d04/a10855" ]
 ];

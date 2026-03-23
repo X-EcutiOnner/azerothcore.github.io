@@ -1,8 +1,10 @@
 var a09379 =
 [
-    [ "NearestGameObjectFishingHole", "d6/d31/a09379.html#ab0e4734202edf26b69881ab85abe1d93", null ],
-    [ "NearestGameObjectFishingHole", "d6/d31/a09379.html#a256c64e6c82d98349b958647d98bf4ce", null ],
-    [ "operator()", "d6/d31/a09379.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
-    [ "i_obj", "d6/d31/a09379.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
-    [ "i_range", "d6/d31/a09379.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
+    [ "iterator", "d6/d31/a09379.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
+    [ "begin", "d6/d31/a09379.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
+    [ "end", "d6/d31/a09379.html#a266acb421cfc6ccc56dc2acff3202971", null ],
+    [ "getFirst", "d6/d31/a09379.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
+    [ "getLast", "d6/d31/a09379.html#a46a36813eaf752815a3f8c739db88a5d", null ],
+    [ "rbegin", "d6/d31/a09379.html#ae69734978b5eec009a696861b7b7152b", null ],
+    [ "rend", "d6/d31/a09379.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
 ];

@@ -1,6 +1,7 @@
 var a26347 =
 [
-    [ "HandleRemove", "d9/d94/a26347.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "d9/d94/a26347.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "d9/d94/a26347.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "PrepareSpellScript", "d9/d94/a26347.html#ade3a3f956ae8be922bd1d2204919d360", null ],
+    [ "Register", "d9/d94/a26347.html#a71d397da4a4804cf6023806c15e8bedf", null ],
+    [ "TriggerHypothermia", "d9/d94/a26347.html#af40f92afae93778e477c50ddf18c8adc", null ],
+    [ "Validate", "d9/d94/a26347.html#a1f0cef532c2bd13d94e647722f85457a", null ]
 ];

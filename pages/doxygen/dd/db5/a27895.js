@@ -1,6 +1,5 @@
 var a27895 =
 [
-    [ "npc_pet_trainerAI", "d1/dab/a27899.html", "d1/dab/a27899" ],
-    [ "npc_pet_trainer", "dd/db5/a27895.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "dd/db5/a27895.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "go_resonite_cask", "dd/db5/a27895.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "dd/db5/a27895.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

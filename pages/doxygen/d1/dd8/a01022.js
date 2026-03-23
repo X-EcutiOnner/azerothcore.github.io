@@ -1,4 +1,8 @@
 var a01022 =
 [
-    [ "ScriptRegistry< MailScript >", "d1/dd8/a01022.html#a2c63e917d984cb7f72bcae15da56850c", null ]
+    [ "MovementHandlerScript", "d0/dfc/a10671.html", "d0/dfc/a10671" ],
+    [ "MovementHook", "d1/dd8/a01022.html#a5763e953c65ba38409a14469a1fe2842", [
+      [ "MOVEMENTHOOK_ON_PLAYER_MOVE", "d1/dd8/a01022.html#a5763e953c65ba38409a14469a1fe2842a9fb1a9d074f81a435e688f4cd7d12326", null ],
+      [ "MOVEMENTHOOK_END", "d1/dd8/a01022.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c", null ]
+    ] ]
 ];

@@ -1,12 +1,6 @@
 var a28875 =
 [
-    [ "ApplyGmVisibleState", "d4/d15/a28875.html#a3deb6c8e282913959275b537bb748860", null ],
-    [ "EnsureScriptRegistriesInitialized", "d4/d15/a28875.html#a4238366c75dd8889993888e4e8bce5a2", null ],
-    [ "ExecuteCommand", "d4/d15/a28875.html#ad6c2132a8f827fd0ff6bad1868bf34c2", null ],
-    [ "SetUp", "d4/d15/a28875.html#a236c5547ff9855b39315642ec2e79c4e", null ],
-    [ "TearDown", "d4/d15/a28875.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
-    [ "originalWorld", "d4/d15/a28875.html#a8f7396466d2b20742f66e14462de96a4", null ],
-    [ "player", "d4/d15/a28875.html#a97049ae029c9354fdf3194be77f36dfa", null ],
-    [ "session", "d4/d15/a28875.html#a2f87ec522777defa8b023274b1d78c35", null ],
-    [ "worldMock", "d4/d15/a28875.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
+    [ "Id", "d4/d15/a28875.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d4/d15/a28875.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d4/d15/a28875.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

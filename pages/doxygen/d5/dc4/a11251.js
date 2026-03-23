@@ -1,7 +1,8 @@
 var a11251 =
 [
-    [ "Player", "d5/dc4/a11251.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d5/dc4/a11251.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "d5/dc4/a11251.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "d5/dc4/a11251.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "PauseMirrorTimer", "d5/dc4/a11251.html#a05ccc52cb56d38cadb27fbde2563df45", null ],
+    [ "PauseMirrorTimer", "d5/dc4/a11251.html#ad6e7a6eb3edadc235dc5bb97802381ac", null ],
+    [ "Write", "d5/dc4/a11251.html#aea61f9e668173b65eac3b9f42ddd68a1", null ],
+    [ "Paused", "d5/dc4/a11251.html#a7adf6dcd7e712792ea94bad77f8be232", null ],
+    [ "Timer", "d5/dc4/a11251.html#a4a041bf772ef3f145bde6be9f8ecdc13", null ]
 ];

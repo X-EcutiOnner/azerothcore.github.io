@@ -1,6 +1,6 @@
 var a21103 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "d0/db2/a21107.html", "d0/db2/a21107" ],
-    [ "boss_yoggsaron_lich_king", "d6/d10/a21103.html#a1655d608683e90ccafd350204eed2d31", null ],
-    [ "GetAI", "d6/d10/a21103.html#aa65cd9c9eafba12ae065903868ee5319", null ]
+    [ "HandleEffectPeriodic", "d6/d10/a21103.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "d6/d10/a21103.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "d6/d10/a21103.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

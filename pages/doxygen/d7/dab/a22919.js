@@ -1,7 +1,7 @@
 var a22919 =
 [
-    [ "HandleOnHit", "d7/dab/a22919.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "d7/dab/a22919.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "d7/dab/a22919.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "d7/dab/a22919.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "HandleEffectApply", "d7/dab/a22919.html#a3893fffea480b47d06c4903deb051aa9", null ],
+    [ "HandleEffectRemove", "d7/dab/a22919.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
+    [ "PrepareAuraScript", "d7/dab/a22919.html#a246c20ab26d1490fe38afd558a7ae406", null ],
+    [ "Register", "d7/dab/a22919.html#aea639a3ae0f003c6213143427f3b1d23", null ]
 ];

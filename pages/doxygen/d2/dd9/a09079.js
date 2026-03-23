@@ -1,6 +1,9 @@
 var a09079 =
 [
-    [ "faction", "d2/dd9/a09079.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
-    [ "faction_rank", "d2/dd9/a09079.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
-    [ "faction_rate", "d2/dd9/a09079.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
+    [ "VehicleAccessory", "d2/dd9/a09079.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "d2/dd9/a09079.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "d2/dd9/a09079.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "d2/dd9/a09079.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "d2/dd9/a09079.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "d2/dd9/a09079.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

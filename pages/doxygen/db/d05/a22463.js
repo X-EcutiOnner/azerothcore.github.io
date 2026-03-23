@@ -1,12 +1,9 @@
 var a22463 =
 [
-    [ "npc_time_lost_proto_drakeAI", "db/d05/a22463.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "JustEngagedWith", "db/d05/a22463.html#a14f41b30451b8ac8fe2411ec7102ae81", null ],
-    [ "Reset", "db/d05/a22463.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "RollPath", "db/d05/a22463.html#aabb3dd1d54a1290d500429efc8fa9e41", null ],
-    [ "UpdateEscortAI", "db/d05/a22463.html#a1a5442a5796b27d04eaa3ab62c613199", null ],
-    [ "WaypointReached", "db/d05/a22463.html#ad262b9dbc0edd2bac126fafbb5eb5f01", null ],
-    [ "events", "db/d05/a22463.html#aa2e4c3396d63d85a5d0abc8c74e58a79", null ],
-    [ "rollPath", "db/d05/a22463.html#a5431fd5a0801569bc03507818461aa7d", null ],
-    [ "setVisible", "db/d05/a22463.html#a63558b3406c241ecb27f3e485eeb439b", null ]
+    [ "npc_flame_of_azzinoth", "db/d05/a22463.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "db/d05/a22463.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "db/d05/a22463.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "db/d05/a22463.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "db/d05/a22463.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "db/d05/a22463.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

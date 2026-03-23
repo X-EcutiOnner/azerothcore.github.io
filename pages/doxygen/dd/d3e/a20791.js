@@ -1,6 +1,5 @@
 var a20791 =
 [
-    [ "npc_ulduar_dark_rune_sentinelAI", "dd/d34/a20795.html", "dd/d34/a20795" ],
-    [ "npc_ulduar_dark_rune_sentinel", "dd/d3e/a20791.html#ac59aa042fd188eaf1eb6a04eb7d545a9", null ],
-    [ "GetAI", "dd/d3e/a20791.html#a3884f50f894770ff94ad6977f62c45f3", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "dd/d3e/a20791.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "dd/d3e/a20791.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

@@ -1,8 +1,9 @@
 var a09567 =
 [
-    [ "LocalizedPacketDo", "dd/dfb/a09567.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "dd/dfb/a09567.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "dd/dfb/a09567.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "dd/dfb/a09567.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "dd/dfb/a09567.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "PlayerDistWorker", "dd/dfb/a09567.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
+    [ "Visit", "dd/dfb/a09567.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
+    [ "Visit", "dd/dfb/a09567.html#a2658f12f90953f1057a9377b21824879", null ],
+    [ "i_dist", "dd/dfb/a09567.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
+    [ "i_do", "dd/dfb/a09567.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
+    [ "i_searcher", "dd/dfb/a09567.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
 ];

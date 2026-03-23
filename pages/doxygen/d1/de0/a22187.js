@@ -1,6 +1,8 @@
 var a22187 =
 [
-    [ "HandleOnEffectRemove", "d1/de0/a22187.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d1/de0/a22187.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d1/de0/a22187.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "HandleApply", "d1/de0/a22187.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "d1/de0/a22187.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "d1/de0/a22187.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "d1/de0/a22187.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "d1/de0/a22187.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

@@ -1,5 +1,7 @@
 var a20687 =
 [
-    [ "go_ulduar_do_not_push_this_button", "dd/d47/a20687.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "dd/d47/a20687.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "FilterTargets", "dd/d47/a20687.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "dd/d47/a20687.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "dd/d47/a20687.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "dd/d47/a20687.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

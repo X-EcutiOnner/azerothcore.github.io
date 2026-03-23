@@ -1,7 +1,7 @@
 var a20195 =
 [
-    [ "HandleScript", "de/de0/a20195.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "de/de0/a20195.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "de/de0/a20195.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "de/de0/a20195.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "HandleEffectPeriodic", "de/de0/a20195.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "de/de0/a20195.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "de/de0/a20195.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "de/de0/a20195.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

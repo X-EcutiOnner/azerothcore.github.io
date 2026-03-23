@@ -1,8 +1,4 @@
 var a04928 =
 [
-    [ "fixname2", "db/d15/a04928.html#ac0029be4572a61d00eb1435db5526a74", null ],
-    [ "fixnamen", "db/d15/a04928.html#abdc56edc46e0804c456749761cff8daf", null ],
-    [ "GetExtension", "db/d15/a04928.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
-    [ "GetPlainName", "db/d15/a04928.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
-    [ "GetPlainName", "db/d15/a04928.html#a939d4568b4058bf826a517f55cb963af", null ]
+    [ "ModelHeader", "d6/dd5/a29831.html", "d6/dd5/a29831" ]
 ];

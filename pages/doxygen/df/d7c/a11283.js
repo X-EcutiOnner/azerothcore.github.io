@@ -1,5 +1,11 @@
 var a11283 =
 [
-    [ "SocketAdded", "df/d7c/a11283.html#a89b23aa46aca3772ad0c0f36f41db537", null ],
-    [ "SocketRemoved", "df/d7c/a11283.html#a4f4ec084812a4191a477f7fa9223fa6e", null ]
+    [ "MoneyCost", "df/d7c/a11283.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
+    [ "PointCost", "df/d7c/a11283.html#aebcad3f23dbca753ad970081af0a78c9", null ],
+    [ "ReqAbility", "df/d7c/a11283.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
+    [ "ReqLevel", "df/d7c/a11283.html#a9478dc1065bc10ebc591ff8022e43993", null ],
+    [ "ReqSkillLine", "df/d7c/a11283.html#a5267f4615e01571a4a16d17d6914981b", null ],
+    [ "ReqSkillRank", "df/d7c/a11283.html#ae6f9640e257d83d633c48168edc658b6", null ],
+    [ "SpellID", "df/d7c/a11283.html#accf0f9aa4c8f2130f6926235dca69476", null ],
+    [ "Usable", "df/d7c/a11283.html#a35d7186073a231f0dd1fe5920eec175b", null ]
 ];

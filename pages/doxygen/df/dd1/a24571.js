@@ -1,6 +1,7 @@
 var a24571 =
 [
-    [ "go_ancient_skull_pile", "df/dd1/a24571.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "df/dd1/a24571.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "df/dd1/a24571.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "CalculateAmount", "df/dd1/a24571.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
+    [ "Load", "df/dd1/a24571.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
+    [ "PrepareAuraScript", "df/dd1/a24571.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
+    [ "Register", "df/dd1/a24571.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
 ];

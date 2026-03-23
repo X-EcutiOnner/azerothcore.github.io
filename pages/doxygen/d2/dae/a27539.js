@@ -1,7 +1,8 @@
 var a27539 =
 [
-    [ "go_pirate_day_musicAI", "d2/dae/a27539.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "d2/dae/a27539.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "d2/dae/a27539.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "d2/dae/a27539.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "CheckProc", "d2/dae/a27539.html#ae202a117ff86eee618dfdf4600746de5", null ],
+    [ "HandleProc", "d2/dae/a27539.html#a28c409af8e7a8115ce86f2a51fff1afd", null ],
+    [ "PrepareAuraScript", "d2/dae/a27539.html#a334db12ee8ed29b34269a0ca3172d7b4", null ],
+    [ "Register", "d2/dae/a27539.html#a392724c604ce325415aaa3410e18a60c", null ],
+    [ "Validate", "d2/dae/a27539.html#af0b153ca9e28a3cdc06a30ff30b46f39", null ]
 ];

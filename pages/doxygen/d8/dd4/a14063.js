@@ -1,7 +1,8 @@
 var a14063 =
 [
-    [ "FilterTargets", "d8/dd4/a14063.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "d8/dd4/a14063.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "d8/dd4/a14063.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "d8/dd4/a14063.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "npc_the_scourge_cauldronAI", "d8/dd4/a14063.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
+    [ "DoDie", "d8/dd4/a14063.html#a9f720a27db2943a66b11ad6355690bf5", null ],
+    [ "JustEngagedWith", "d8/dd4/a14063.html#a89954dec2f7d57d933c18822333243ac", null ],
+    [ "MoveInLineOfSight", "d8/dd4/a14063.html#a256195dbe75859d72afcd0defb9ff76e", null ],
+    [ "Reset", "d8/dd4/a14063.html#ab18bb2eb344f45827685786c665b1750", null ]
 ];

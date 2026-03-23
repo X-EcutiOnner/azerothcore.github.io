@@ -1,14 +1,13 @@
 var a22843 =
 [
-    [ "boss_nexusprince_shaffar", "da/d20/a22843.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "da/d20/a22843.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "da/d20/a22843.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "da/d20/a22843.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "da/d20/a22843.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "da/d20/a22843.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "da/d20/a22843.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "da/d20/a22843.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "da/d20/a22843.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "da/d20/a22843.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "da/d20/a22843.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "boss_fathomguard_caribdis", "da/d20/a22843.html#a9172b9717e5137ddde7df38bb237478c", null ],
+    [ "EnterEvadeMode", "da/d20/a22843.html#aa666a491a776b12a042ee140aedc95eb", null ],
+    [ "JustDied", "da/d20/a22843.html#ab821365b35a48f70a11c6033fe2ca714", null ],
+    [ "JustEngagedWith", "da/d20/a22843.html#a5503519998f51f475420ada2210f32f0", null ],
+    [ "JustSummoned", "da/d20/a22843.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
+    [ "Reset", "da/d20/a22843.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
+    [ "UpdateAI", "da/d20/a22843.html#af4a544f37d178de21d84f2544f24431e", null ],
+    [ "_instance", "da/d20/a22843.html#a73f567f2269aeca1435af82e1c6880e9", null ],
+    [ "_scheduler", "da/d20/a22843.html#a08b01e9735e421d8d5bbc2b552217762", null ],
+    [ "_summons", "da/d20/a22843.html#ac8b53cb81547a2423a13c997badb77e3", null ]
 ];

@@ -1,6 +1,7 @@
 var a26247 =
 [
-    [ "CheckProc", "d3/d14/a26247.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
-    [ "PrepareAuraScript", "d3/d14/a26247.html#a9c88f86a4edafda286725008ecfeab6c", null ],
-    [ "Register", "d3/d14/a26247.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
+    [ "CalculateAmount", "d3/d14/a26247.html#a0934aa8eaf442314aa6050d85304c15b", null ],
+    [ "CalculateSpellAmount", "d3/d14/a26247.html#ab765b87350bd3e73ac43879abef72d98", null ],
+    [ "PrepareAuraScript", "d3/d14/a26247.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
+    [ "Register", "d3/d14/a26247.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
 ];

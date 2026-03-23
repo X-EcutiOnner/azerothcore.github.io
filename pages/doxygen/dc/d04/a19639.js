@@ -1,6 +1,7 @@
 var a19639 =
 [
-    [ "boss_eregosAI", "dc/d73/a19643.html", "dc/d73/a19643" ],
-    [ "boss_eregos", "dc/d04/a19639.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "dc/d04/a19639.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "CalcDamage", "dc/d04/a19639.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "dc/d04/a19639.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "dc/d04/a19639.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "dc/d04/a19639.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

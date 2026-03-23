@@ -1,10 +1,6 @@
 var a21311 =
 [
-    [ "npc_dragonflayer_forge_master", "dc/d0e/a21311.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "dc/d0e/a21311.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "dc/d0e/a21311.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "dc/d0e/a21311.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "dc/d0e/a21311.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "dc/d0e/a21311.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "dc/d0e/a21311.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d6/df9/a21315.html", "d6/df9/a21315" ],
+    [ "npc_valiance_keep_cannoneer", "dc/d0e/a21311.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "dc/d0e/a21311.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

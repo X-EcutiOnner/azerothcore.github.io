@@ -1,14 +1,12 @@
 var a09827 =
 [
-    [ "ServerMailMgr", "d5/d21/a09827.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
-    [ "~ServerMailMgr", "d5/d21/a09827.html#adba54af38e90ecae21e79835910ba195", null ],
-    [ "ConditionTypeUsesConditionState", "d5/d21/a09827.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
-    [ "GetAllServerMailStore", "d5/d21/a09827.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
-    [ "GetServerMailConditionType", "d5/d21/a09827.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
-    [ "instance", "d5/d21/a09827.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
-    [ "LoadMailServerTemplates", "d5/d21/a09827.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
-    [ "LoadMailServerTemplatesConditions", "d5/d21/a09827.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
-    [ "LoadMailServerTemplatesItems", "d5/d21/a09827.html#a49aea924f27804d21fbe06e72e159df3", null ],
-    [ "SendServerMail", "d5/d21/a09827.html#af615430a40e9ddfff49bc338b31d6c1b", null ],
-    [ "_serverMailStore", "d5/d21/a09827.html#a96ae3a78694ca97d112c5d92884f2415", null ]
+    [ "EventLogEntry", "d5/d21/a09827.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
+    [ "EventLogEntry", "d5/d21/a09827.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
+    [ "~EventLogEntry", "d5/d21/a09827.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
+    [ "SaveToDB", "d5/d21/a09827.html#a2ca71e291a44f95bb42d51083aa84985", null ],
+    [ "WritePacket", "d5/d21/a09827.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
+    [ "m_eventType", "d5/d21/a09827.html#a00216643e6856591402c21df490c1fec", null ],
+    [ "m_newRank", "d5/d21/a09827.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
+    [ "m_playerGuid1", "d5/d21/a09827.html#a06a2b45d16860c711829f49f97624272", null ],
+    [ "m_playerGuid2", "d5/d21/a09827.html#a1f66e71f9536e484663e437bbcbcefca", null ]
 ];

@@ -1,7 +1,5 @@
 var a14451 =
 [
-    [ "FilterTargets", "d4/db3/a14451.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
-    [ "HandleDummyEffect", "d4/db3/a14451.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
-    [ "PrepareSpellScript", "d4/db3/a14451.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
-    [ "Register", "d4/db3/a14451.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
+    [ "go_brazier_of_madness", "d4/db3/a14451.html#aeb900e575be02244e62c6e5e4153c855", null ],
+    [ "GossipHello", "d4/db3/a14451.html#aba3af326b01cd045523434aec189fd47", null ]
 ];

@@ -1,5 +1,6 @@
 var a23975 =
 [
-    [ "modelId", "d3/d38/a23975.html#a6a7f030a6445a46fe55640356e9c5124", null ],
-    [ "spellId", "d3/d38/a23975.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
+    [ "CheckRequirement", "d3/d38/a23975.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d3/d38/a23975.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d3/d38/a23975.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

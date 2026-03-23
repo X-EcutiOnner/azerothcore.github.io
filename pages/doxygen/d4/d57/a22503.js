@@ -1,9 +1,8 @@
 var a22503 =
 [
-    [ "HandlePeriodic", "d4/d57/a22503.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "d4/d57/a22503.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "d4/d57/a22503.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "d4/d57/a22503.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "d4/d57/a22503.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "d4/d57/a22503.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "Load", "d4/d57/a22503.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "d4/d57/a22503.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "d4/d57/a22503.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "d4/d57/a22503.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "d4/d57/a22503.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

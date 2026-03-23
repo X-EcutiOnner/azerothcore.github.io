@@ -1,8 +1,6 @@
 var a20211 =
 [
-    [ "HandleOnEffectApply", "d5/d27/a20211.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "d5/d27/a20211.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "d5/d27/a20211.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "d5/d27/a20211.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "d5/d27/a20211.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "FilterTargets", "d5/d27/a20211.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "d5/d27/a20211.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "d5/d27/a20211.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

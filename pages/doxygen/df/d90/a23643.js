@@ -1,12 +1,10 @@
 var a23643 =
 [
-    [ "boss_swamplord_muselek", "df/d90/a23643.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "df/d90/a23643.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "df/d90/a23643.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "df/d90/a23643.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "df/d90/a23643.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "df/d90/a23643.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "df/d90/a23643.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "df/d90/a23643.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "df/d90/a23643.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "npc_raging_flames", "df/d90/a23643.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "df/d90/a23643.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "df/d90/a23643.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "df/d90/a23643.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "df/d90/a23643.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "df/d90/a23643.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "df/d90/a23643.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

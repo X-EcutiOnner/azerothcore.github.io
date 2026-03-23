@@ -1,12 +1,12 @@
 var a11607 =
 [
-    [ "BroadcastTextBuilder", "df/d40/a11607.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
-    [ "operator()", "df/d40/a11607.html#a16f9719278e00013c25902846fa1be5b", null ],
-    [ "operator()", "df/d40/a11607.html#ac87701626dddffb6b09bf504b97c4d55", null ],
-    [ "_achievementId", "df/d40/a11607.html#a82de25331657b17ce0de33f2b374abda", null ],
-    [ "_gender", "df/d40/a11607.html#a71032b0749dd75f552107503528e8166", null ],
-    [ "_msgType", "df/d40/a11607.html#a232325cefa217843da5cc6db7e5d80fe", null ],
-    [ "_source", "df/d40/a11607.html#ab73315225b3aa36a309f45596f7089f4", null ],
-    [ "_target", "df/d40/a11607.html#a958b154f3c82188e9684be0f0b7dae56", null ],
-    [ "_textId", "df/d40/a11607.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
+    [ "SpellDestination", "df/d40/a11607.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "df/d40/a11607.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "df/d40/a11607.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "df/d40/a11607.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "df/d40/a11607.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "df/d40/a11607.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "df/d40/a11607.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "df/d40/a11607.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "df/d40/a11607.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

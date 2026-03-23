@@ -1,12 +1,12 @@
 var a19755 =
 [
-    [ "npc_spark_of_ionar", "d8/de6/a19755.html#a93df0828e409a44008257294855f8d7a", null ],
-    [ "AttackStart", "d8/de6/a19755.html#a36181ef97213713c104edf4b085bc46e", null ],
-    [ "DamageTaken", "d8/de6/a19755.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
-    [ "DoAction", "d8/de6/a19755.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
-    [ "MoveInLineOfSight", "d8/de6/a19755.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
-    [ "Reset", "d8/de6/a19755.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
-    [ "UpdateAI", "d8/de6/a19755.html#ae251d676f0505db2383e61ef007932a0", null ],
-    [ "_events", "d8/de6/a19755.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
-    [ "returning", "d8/de6/a19755.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
+    [ "boss_sjonnirAI", "d8/de6/a19755.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "d8/de6/a19755.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "d8/de6/a19755.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "d8/de6/a19755.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "d8/de6/a19755.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "d8/de6/a19755.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "d8/de6/a19755.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "ScheduleTasks", "d8/de6/a19755.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "d8/de6/a19755.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

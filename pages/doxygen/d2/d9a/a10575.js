@@ -1,6 +1,6 @@
 var a10575 =
 [
-    [ "ShowingHelm", "d2/d9a/a10575.html#a67e25a4a39b14e488b5176b02e8dc995", null ],
-    [ "Read", "d2/d9a/a10575.html#a9e6d525a7104f2a8f81564d3796c6211", null ],
-    [ "ShowHelm", "d2/d9a/a10575.html#a9f3d52d5d6a6fa76b29afbd5a56d5622", null ]
+    [ "BattlegroundMapScript", "d2/d9a/a10575.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
+    [ "checkValidity", "d2/d9a/a10575.html#a90584770132eb71cffc6e25a674750ad", null ],
+    [ "isAfterLoadScript", "d2/d9a/a10575.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
 ];

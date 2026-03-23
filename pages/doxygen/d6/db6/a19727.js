@@ -1,8 +1,6 @@
 var a19727 =
 [
-    [ "HandleOnEffectApply", "d6/db6/a19727.html#ac852d761940494f78b50ba3b060057a2", null ],
-    [ "HandleOnEffectRemove", "d6/db6/a19727.html#a6764750586be8b57d52a2dba87d89e76", null ],
-    [ "PrepareAuraScript", "d6/db6/a19727.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
-    [ "Register", "d6/db6/a19727.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
-    [ "Validate", "d6/db6/a19727.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
+    [ "boss_krystallusAI", "d9/d6d/a19731.html", "d9/d6d/a19731" ],
+    [ "boss_krystallus", "d6/db6/a19727.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "d6/db6/a19727.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

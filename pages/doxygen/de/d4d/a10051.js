@@ -1,8 +1,8 @@
 var a10051 =
 [
-    [ "Finalize", "de/d4d/a10051.html#abf4c6547449605e703b424d8aa7f46b5", null ],
-    [ "GetMovementGeneratorType", "de/d4d/a10051.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
-    [ "Initialize", "de/d4d/a10051.html#a68c249f25ef86f2e50d69698e190ed03", null ],
-    [ "Reset", "de/d4d/a10051.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
-    [ "Update", "de/d4d/a10051.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
+    [ "CircleBoundary", "de/d4d/a10051.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
+    [ "CircleBoundary", "de/d4d/a10051.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
+    [ "IsWithinBoundaryArea", "de/d4d/a10051.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
+    [ "_center", "de/d4d/a10051.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
+    [ "_radiusSq", "de/d4d/a10051.html#acbb3cc0c546f0e557a48a45425355950", null ]
 ];

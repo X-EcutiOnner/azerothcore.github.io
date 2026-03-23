@@ -1,12 +1,7 @@
 var a22495 =
 [
-    [ "npc_icefangAI", "dd/d1e/a22495.html#ab74b58a77e3c1349ed308f7febef794a", null ],
-    [ "AttackStart", "dd/d1e/a22495.html#a56615ecdb45389aa793374d26a636d45", null ],
-    [ "EnterEvadeMode", "dd/d1e/a22495.html#a1465c4779ea8b080f934163c8db6c99c", null ],
-    [ "JustDied", "dd/d1e/a22495.html#a3140c8306a384833cca1580ad964d73a", null ],
-    [ "JustEngagedWith", "dd/d1e/a22495.html#a8455dd4afb5ef5a694ca9237848df907", null ],
-    [ "OnCharmed", "dd/d1e/a22495.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
-    [ "PassengerBoarded", "dd/d1e/a22495.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
-    [ "UpdateAI", "dd/d1e/a22495.html#ab4d752f2273062c48339b53e611e617c", null ],
-    [ "WaypointReached", "dd/d1e/a22495.html#ae315a1d22317edb2864e4d796f808ffb", null ]
+    [ "HandleOnEffectApply", "dd/d1e/a22495.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "dd/d1e/a22495.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "dd/d1e/a22495.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "dd/d1e/a22495.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

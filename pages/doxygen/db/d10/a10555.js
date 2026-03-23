@@ -1,6 +1,8 @@
 var a10555 =
 [
-    [ "GetEvent", "db/d10/a10555.html#aabf338a9824038abbd0934a3bef0a269", null ],
-    [ "Read", "db/d10/a10555.html#a344db9b28e7247dc0285a3468a789721", null ],
-    [ "EventId", "db/d10/a10555.html#a31de21c2af87d174d139eef870cbb5fd", null ]
+    [ "_OnTrigger", "db/d10/a10555.html#a6da93a21c84345bd77e467377810e756", null ],
+    [ "AreaTriggerScript", "db/d10/a10555.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "OnTrigger", "db/d10/a10555.html#a4ac7e4963d36c8163a560dc8401b5f34", null ],
+    [ "ResetAreaTriggerDone", "db/d10/a10555.html#a3b44c1892c1100028b387d15bfbdae60", null ],
+    [ "ResetAreaTriggerDone", "db/d10/a10555.html#a3917da4a6f605077720172cda25322ee", null ]
 ];

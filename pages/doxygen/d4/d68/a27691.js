@@ -1,5 +1,5 @@
 var a27691 =
 [
-    [ "item_captured_frog", "d4/d68/a27691.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "d4/d68/a27691.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "achievement_save_the_day", "d4/d68/a27691.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "d4/d68/a27691.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

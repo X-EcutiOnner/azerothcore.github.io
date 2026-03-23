@@ -1,6 +1,6 @@
 var a18171 =
 [
-    [ "HandleScript", "df/d67/a18171.html#abd766c298f8aa363d28198b6a5d7e374", null ],
-    [ "PrepareSpellScript", "df/d67/a18171.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
-    [ "Register", "df/d67/a18171.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
+    [ "boss_rotfaceAI", "d5/d6c/a18175.html", "d5/d6c/a18175" ],
+    [ "boss_rotface", "df/d67/a18171.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "df/d67/a18171.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

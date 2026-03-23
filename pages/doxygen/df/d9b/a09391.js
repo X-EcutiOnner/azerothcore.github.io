@@ -1,9 +1,14 @@
 var a09391 =
 [
-    [ "NearestGameObjectTypeInObjectRangeCheck", "df/d9b/a09391.html#a46cde63433cf803205006ad775fe73b5", null ],
-    [ "NearestGameObjectTypeInObjectRangeCheck", "df/d9b/a09391.html#a4bf0dee77fb4979a02eebdc610995640", null ],
-    [ "operator()", "df/d9b/a09391.html#ac41947606f4344e19edb13aa58f0a5a7", null ],
-    [ "i_obj", "df/d9b/a09391.html#aca71a09421fdf412489f7f54cf4bc379", null ],
-    [ "i_range", "df/d9b/a09391.html#a37f212d5cb1ef2b8d55e19b749861a17", null ],
-    [ "i_type", "df/d9b/a09391.html#a68965425169b93053eadad91403855e0", null ]
+    [ "areaMapOffset", "df/d9b/a09391.html#a70f82337112bb8cbff0b3344666885a1", null ],
+    [ "areaMapSize", "df/d9b/a09391.html#adfbbb622974b7942f47dd16d2300246f", null ],
+    [ "buildMagic", "df/d9b/a09391.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
+    [ "heightMapOffset", "df/d9b/a09391.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
+    [ "heightMapSize", "df/d9b/a09391.html#a71c9cd42801697a927543e3acd4c3daf", null ],
+    [ "holesOffset", "df/d9b/a09391.html#a876d70dcd6ccec9ad09de77718c02150", null ],
+    [ "holesSize", "df/d9b/a09391.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
+    [ "liquidMapOffset", "df/d9b/a09391.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
+    [ "liquidMapSize", "df/d9b/a09391.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
+    [ "mapMagic", "df/d9b/a09391.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
+    [ "versionMagic", "df/d9b/a09391.html#abe722f653ba057fbba84401acbaffbfa", null ]
 ];

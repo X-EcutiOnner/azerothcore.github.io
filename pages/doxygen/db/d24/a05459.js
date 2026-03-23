@@ -1,12 +1,7 @@
 var a05459 =
 [
-    [ "Node", "da/d34/a05463.html", "da/d34/a05463" ],
-    [ "MPSCQueueNonIntrusive", "db/d24/a05459.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
-    [ "~MPSCQueueNonIntrusive", "db/d24/a05459.html#a599e2093215f70dc4f2f7db08965d816", null ],
-    [ "MPSCQueueNonIntrusive", "db/d24/a05459.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
-    [ "Dequeue", "db/d24/a05459.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
-    [ "Enqueue", "db/d24/a05459.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
-    [ "operator=", "db/d24/a05459.html#a75063e89049903fb5305d67ea1a02034", null ],
-    [ "_head", "db/d24/a05459.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
-    [ "_tail", "db/d24/a05459.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
+    [ "SymbolPair", "db/d24/a05459.html#ad6b1fba614fa7de6471c56078b62c57d", null ],
+    [ "operator<", "db/d24/a05459.html#a94b5b6c8c41fb53aa2a28e089d495545", null ],
+    [ "_offset", "db/d24/a05459.html#ac011ac111d0ced8871d315e164948bea", null ],
+    [ "_type", "db/d24/a05459.html#a50579f45ce4d7ef0155bac20b1958254", null ]
 ];

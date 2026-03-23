@@ -1,19 +1,41 @@
 var a04373 =
 [
-    [ "LivingPoisonData", "d8/d26/a19681.html", "d8/d26/a19681" ],
-    [ "instance_naxxramas", "d3/d43/a19685.html", "d3/d43/a19685" ],
-    [ "npc_mr_bigglesworth", "db/d4c/a19689.html", "db/d4c/a19689" ],
-    [ "npc_living_poison", "d5/d09/a19693.html", "d5/d09/a19693" ],
-    [ "npc_naxxramas_trigger", "d0/d47/a19697.html", "d0/d47/a19697" ],
-    [ "at_naxxramas_hub_portal", "d3/dfa/a19701.html", "d3/dfa/a19701" ],
-    [ "AddSC_instance_naxxramas", "d9/db6/a04373.html#aba1e1afda4423e51a1849a33da49a334", null ],
-    [ "boundaries", "d9/db6/a04373.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d9/db6/a04373.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d9/db6/a04373.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d9/db6/a04373.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
-    [ "HeiganEruptionSlope", "d9/db6/a04373.html#afc813e25da4423b11b3f71a4c3434b43", null ],
-    [ "HeiganPos", "d9/db6/a04373.html#a329c88a19bf7f6ee06251fb30b96aa80", null ],
-    [ "HorsemanDataGroup", "d9/db6/a04373.html#a78f519adea6cb5310c9cf098d905aa7b", null ],
-    [ "LivingPoisonDataList", "d9/db6/a04373.html#a7adc6b584916ee1544c8ff38ab6327a9", null ],
-    [ "SapphironTeleportPos", "d9/db6/a04373.html#a4b033537221c1c9063ff056950ac6fdb", null ]
+    [ "AzjolNerubScriptName", "d9/db6/a04373.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
+    [ "DataHeader", "d9/db6/a04373.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterAzjolNerubCreatureAI", "d9/db6/a04373.html#a4a60f3abea9a1edadc00e60726067bba", null ],
+    [ "ANActions", "d9/db6/a04373.html#a353c804af4bd1bd2a5d5193704607689", [
+      [ "ACTION_MINION_DIED", "d9/db6/a04373.html#a353c804af4bd1bd2a5d5193704607689a185e4f622f3b411d7980209389e63777", null ]
+    ] ],
+    [ "ANData", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365e", [
+      [ "DATA_KRIKTHIR", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c", null ],
+      [ "DATA_HADRONOX", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8", null ],
+      [ "DATA_ANUBARAK", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf", null ],
+      [ "MAX_ENCOUNTERS", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ],
+      [ "DATA_GASHRA", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f", null ],
+      [ "DATA_NARJIL", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6", null ],
+      [ "DATA_SILTHIK", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2", null ]
+    ] ],
+    [ "ANIds", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
+      [ "NPC_WATCHER_NARJIL", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f", null ],
+      [ "NPC_WATCHER_GASHRA", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8", null ],
+      [ "NPC_WATCHER_SILTHIK", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08", null ],
+      [ "NPC_ANUBAR_SKIRMISHER", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebaab6881c6b204dd808545bca2050e3fcf", null ],
+      [ "NPC_ANUBAR_SHADOWCASTER", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebacc327c02c47a2a2ad6994c7c87132127", null ],
+      [ "NPC_ANUBAR_WARRIOR", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba0e94bdd3b8ef0aba807bba8e440a07ca", null ],
+      [ "NPC_SKITTERING_SWARMER", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
+      [ "NPC_SKITTERING_INFECTIOR", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
+      [ "NPC_KRIKTHIR_THE_GATEWATCHER", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
+      [ "NPC_HADRONOX", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
+      [ "NPC_ANUBARAK", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3", null ],
+      [ "NPC_WORLD_TRIGGER_LAOI", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd", null ],
+      [ "NPC_ANUB_AR_CHAMPION", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
+      [ "NPC_ANUB_AR_NECROMANCER", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
+      [ "NPC_ANUB_AR_CRYPTFIEND", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],
+      [ "GO_KRIKTHIR_DOORS", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b", null ],
+      [ "GO_ANUBARAK_DOORS1", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316", null ],
+      [ "GO_ANUBARAK_DOORS2", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc", null ],
+      [ "GO_ANUBARAK_DOORS3", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0", null ],
+      [ "SPELL_WEB_WRAP_TRIGGER", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b", null ]
+    ] ],
+    [ "GetAzjolNerubAI", "d9/db6/a04373.html#a19b3f42ba299e1f42de805f494cd5812", null ]
 ];

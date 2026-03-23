@@ -1,5 +1,7 @@
 var a25599 =
 [
-    [ "PrepareSpellScript", "d8/d0a/a25599.html#a2c88a98e1f76f62f745dbd83fa939506", null ],
-    [ "Register", "d8/d0a/a25599.html#a93dcf131a040c95ef1b8cc5ec1d3bc37", null ]
+    [ "CheckProc", "d8/d0a/a25599.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
+    [ "HandleProc", "d8/d0a/a25599.html#a27569fe686e50246768fca4a7625fe0d", null ],
+    [ "PrepareAuraScript", "d8/d0a/a25599.html#a4f4eaa4aeeac9257804957671c16233f", null ],
+    [ "Register", "d8/d0a/a25599.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
 ];

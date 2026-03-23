@@ -1,7 +1,12 @@
 var a09403 =
 [
-    [ "FriendlyCCedInRange", "da/de3/a09403.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
-    [ "operator()", "da/de3/a09403.html#a0e241f930cee855664aeac3604d5c023", null ],
-    [ "i_obj", "da/de3/a09403.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
-    [ "i_range", "da/de3/a09403.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
+    [ "flags", "da/de3/a09403.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
+    [ "fourcc", "da/de3/a09403.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
+    [ "height", "da/de3/a09403.html#ab064dde684394c3aa84f9b151749d524", null ],
+    [ "liquidFlags", "da/de3/a09403.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
+    [ "liquidLevel", "da/de3/a09403.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
+    [ "liquidType", "da/de3/a09403.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
+    [ "offsetX", "da/de3/a09403.html#a2ddee980eda8b7321b55ba44697688b5", null ],
+    [ "offsetY", "da/de3/a09403.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
+    [ "width", "da/de3/a09403.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
 ];

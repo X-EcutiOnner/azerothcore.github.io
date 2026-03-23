@@ -1,8 +1,8 @@
 var a16587 =
 [
-    [ "npc_announcer_toc5AI", "dc/d61/a16587.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "dc/d61/a16587.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "dc/d61/a16587.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "dc/d61/a16587.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "dc/d61/a16587.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "npc_toc5_player_vehicleAI", "dc/d61/a16587.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "dc/d61/a16587.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "dc/d61/a16587.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "dc/d61/a16587.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "dc/d61/a16587.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

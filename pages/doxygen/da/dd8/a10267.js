@@ -1,10 +1,8 @@
 var a10267 =
 [
-    [ "Flags", "da/dd8/a10267.html#abf9c2701e766951e5a211bf6bf85b175", null ],
-    [ "ID", "da/dd8/a10267.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
-    [ "needSave", "da/dd8/a10267.html#aae888b1bf10f654ee212f3d687c111e9", null ],
-    [ "needSend", "da/dd8/a10267.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
-    [ "ReputationListID", "da/dd8/a10267.html#a052caeeae1ecdca831097591e0fddaf6", null ],
-    [ "roundedUp", "da/dd8/a10267.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
-    [ "Standing", "da/dd8/a10267.html#ae87da6cada559e11a9607e194013d671", null ]
+    [ "TimedFleeingMovementGenerator", "da/dd8/a10267.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
+    [ "Finalize", "da/dd8/a10267.html#a1a18f033663fa93ef0b9885aae21f766", null ],
+    [ "GetMovementGeneratorType", "da/dd8/a10267.html#a1533d13f4e786e498353805a2a2daf85", null ],
+    [ "Update", "da/dd8/a10267.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
+    [ "i_totalFleeTime", "da/dd8/a10267.html#a2858047459ff675383e7b86805702369", null ]
 ];

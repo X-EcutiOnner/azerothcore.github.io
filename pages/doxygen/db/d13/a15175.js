@@ -1,4 +1,8 @@
 var a15175 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "db/d13/a15175.html#a4b55a59943c798b203a0a3c811588e7d", null ]
+    [ "Load", "db/d13/a15175.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "db/d13/a15175.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "db/d13/a15175.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "db/d13/a15175.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "db/d13/a15175.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

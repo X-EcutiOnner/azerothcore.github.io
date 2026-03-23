@@ -1,8 +1,8 @@
 var a11295 =
 [
-    [ "SkillPerfectItemEntry", "da/df8/a11295.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "da/df8/a11295.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "da/df8/a11295.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "da/df8/a11295.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "da/df8/a11295.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "TrainerBuyFailed", "da/df8/a11295.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
+    [ "Write", "da/df8/a11295.html#a75c3bff5da4699fc412793caef1b75af", null ],
+    [ "SpellID", "da/df8/a11295.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
+    [ "TrainerFailedReason", "da/df8/a11295.html#a746ff497fba16adb16bbb647dff385df", null ],
+    [ "TrainerGUID", "da/df8/a11295.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
 ];

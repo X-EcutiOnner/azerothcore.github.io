@@ -1,7 +1,6 @@
 var a23227 =
 [
-    [ "CalculateAmount", "d5/d4d/a23227.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
-    [ "PrepareAuraScript", "d5/d4d/a23227.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
-    [ "Register", "d5/d4d/a23227.html#a6d0d47536e6ef74a88c97019843d478c", null ],
-    [ "Update", "d5/d4d/a23227.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d1/d0c/a23231.html", "d1/d0c/a23231" ],
+    [ "instance_gruuls_lair", "d5/d4d/a23227.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "d5/d4d/a23227.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

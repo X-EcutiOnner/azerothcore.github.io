@@ -1,5 +1,6 @@
 var a28271 =
 [
-    [ "ID", "df/d71/a28271.html#a0272b3c1130508a2681035c91ee416e6", null ],
-    [ "SpellID", "df/d71/a28271.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
+    [ "npc_guardianAI", "df/da5/a28275.html", "df/da5/a28275" ],
+    [ "npc_guardian", "df/d71/a28271.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "df/d71/a28271.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

@@ -1,5 +1,9 @@
 var a20539 =
 [
-    [ "achievement_ignis_shattered", "d6/dd6/a20539.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "d6/dd6/a20539.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "npc_xt002_scrapbot", "d6/dd6/a20539.html#a0c7270ccbac5c12af8aaec998408046f", null ],
+    [ "JustDied", "d6/dd6/a20539.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0", null ],
+    [ "MovementInform", "d6/dd6/a20539.html#a7c167b396927f73736531b53056bc262", null ],
+    [ "Reset", "d6/dd6/a20539.html#aa9753f72910da1bb56a090e77fc029fb", null ],
+    [ "UpdateAI", "d6/dd6/a20539.html#a3f5cffc3225ced1ccdf3fc0964cc2c05", null ],
+    [ "_locked", "d6/dd6/a20539.html#aaa4e129ebea658b0f2e224e024f6010f", null ]
 ];

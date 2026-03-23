@@ -1,11 +1,19 @@
 var a08771 =
 [
-    [ "AuraMunchingQueue", "df/d20/a08771.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
-    [ "Execute", "df/d20/a08771.html#a8f025a0ea1db81fb283db563402d1c40", null ],
-    [ "_auraType", "df/d20/a08771.html#add694e24c38d585784f236acf9118b76", null ],
-    [ "_aurEff", "df/d20/a08771.html#a8ac00964608170d5375242c1b19c4be3", null ],
-    [ "_basePoints", "df/d20/a08771.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
-    [ "_owner", "df/d20/a08771.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
-    [ "_spellId", "df/d20/a08771.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
-    [ "_targetGUID", "df/d20/a08771.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
+    [ "PetInfo", "df/d20/a08771.html#a1bee56222719503aef508dd3f2ddd2f1", null ],
+    [ "ActionBar", "df/d20/a08771.html#affe10e9845d23f597df23ed271d91039", null ],
+    [ "CreatedBySpellId", "df/d20/a08771.html#a40d2f28579271de9b1533b5d412fecbb", null ],
+    [ "CreatureId", "df/d20/a08771.html#a879009caeaa61fdef801db178599197e", null ],
+    [ "DisplayId", "df/d20/a08771.html#ab7128ea7655961abfb3f8f074006bc7c", null ],
+    [ "Experience", "df/d20/a08771.html#aee5536e251e20d8f4ee293f7f5eab2d3", null ],
+    [ "Happiness", "df/d20/a08771.html#a39ee3606989e65fc284a6701482c2aa9", null ],
+    [ "Health", "df/d20/a08771.html#a5e0835afbf2f396e8030236484984628", null ],
+    [ "LastSaveTime", "df/d20/a08771.html#afafdbe4176d1bf26ab5022ab2d219ed6", null ],
+    [ "Level", "df/d20/a08771.html#aabcf03700a0207df9086a6f7a354a7b9", null ],
+    [ "Mana", "df/d20/a08771.html#a25a72a18fd6e38dea4db6ff8d3942423", null ],
+    [ "Name", "df/d20/a08771.html#adb037d9f6d2606baa469c5c63385476a", null ],
+    [ "PetNumber", "df/d20/a08771.html#af57645f36ae45c0045abe991419b797d", null ],
+    [ "ReactState", "df/d20/a08771.html#ad7cd098ff265de389412626fad6d6d6f", null ],
+    [ "Type", "df/d20/a08771.html#ae8fa5344688bb4bf34b806f9b67ef32c", null ],
+    [ "WasRenamed", "df/d20/a08771.html#a98827cf01b6f610692fe4295582ead34", null ]
 ];

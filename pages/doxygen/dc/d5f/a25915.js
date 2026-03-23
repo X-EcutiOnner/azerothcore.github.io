@@ -1,9 +1,6 @@
 var a25915 =
 [
-    [ "spell_item_trigger_spell", "dc/d5f/a25915.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
-    [ "HandleDummy", "dc/d5f/a25915.html#a49613255eea28e34cf5ff8a06798f89a", null ],
-    [ "PrepareSpellScript", "dc/d5f/a25915.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
-    [ "Register", "dc/d5f/a25915.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
-    [ "Validate", "dc/d5f/a25915.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
-    [ "_triggeredSpellId", "dc/d5f/a25915.html#a610c5ac434fe788120ed101f7bf58f63", null ]
+    [ "CheckProc", "dc/d5f/a25915.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
+    [ "PrepareAuraScript", "dc/d5f/a25915.html#a3fa05a39b003805f405d814214f4366e", null ],
+    [ "Register", "dc/d5f/a25915.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
 ];

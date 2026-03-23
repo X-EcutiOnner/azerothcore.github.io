@@ -1,4 +1,5 @@
 var a05105 =
 [
-    [ "Strand", "dc/db7/a05105.html#afd0efbcfbbd1ff7ef26d7f8c476380dc", null ]
+    [ "MDDF", "d6/de9/a29811.html", "d6/de9/a29811" ],
+    [ "MODF", "d0/d26/a29815.html", "d0/d26/a29815" ]
 ];

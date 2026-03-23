@@ -1,7 +1,6 @@
 var a23019 =
 [
-    [ "HandleScriptEffect", "db/d93/a23019.html#a16f131e42272bc75c99df2a9cf43470e", null ],
-    [ "PrepareSpellScript", "db/d93/a23019.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
-    [ "Register", "db/d93/a23019.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
-    [ "Validate", "db/d93/a23019.html#a58ff628906f3077a354ed486d3c56d23", null ]
+    [ "go_ahune_ice_stone", "db/d93/a23019.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "db/d93/a23019.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "db/d93/a23019.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

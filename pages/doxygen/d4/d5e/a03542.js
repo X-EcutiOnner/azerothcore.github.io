@@ -1,17 +1,13 @@
 var a03542 =
 [
-    [ "AddSC_deathknight_spell_scripts", "d4/d5e/a03542.html#adcd4982e9aa1bb7ee8b4b39976cb7273", null ],
-    [ "AddSC_druid_spell_scripts", "d4/d5e/a03542.html#a27c286499ee0c44de84c8f14e5c82d50", null ],
-    [ "AddSC_generic_spell_scripts", "d4/d5e/a03542.html#ac2941716297c47e58e65de027a53ce16", null ],
-    [ "AddSC_hunter_spell_scripts", "d4/d5e/a03542.html#af7e6bdb12ab989b575a1dca18382ea7c", null ],
-    [ "AddSC_item_spell_scripts", "d4/d5e/a03542.html#a7c83be18daa3cdaab096b0caf49520a2", null ],
-    [ "AddSC_mage_spell_scripts", "d4/d5e/a03542.html#a504d82c8e95f93fa88a54d34e919ed57", null ],
-    [ "AddSC_paladin_spell_scripts", "d4/d5e/a03542.html#a1b3a1eb790e51c96829e92e5c922f437", null ],
-    [ "AddSC_priest_spell_scripts", "d4/d5e/a03542.html#a0b0a2df1c9b8607784e59887025677c4", null ],
-    [ "AddSC_quest_spell_scripts", "d4/d5e/a03542.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c", null ],
-    [ "AddSC_rogue_spell_scripts", "d4/d5e/a03542.html#a540405afe3345e19487d2db693272b2a", null ],
-    [ "AddSC_shaman_spell_scripts", "d4/d5e/a03542.html#a3082f46075e4e453c37bc429c9d57a1a", null ],
-    [ "AddSC_warlock_spell_scripts", "d4/d5e/a03542.html#a2054657c41c2347732a7d2903e3b8138", null ],
-    [ "AddSC_warrior_spell_scripts", "d4/d5e/a03542.html#a9c003dba1ff10c2e27f5ee3d4109549f", null ],
-    [ "AddSpellsScripts", "d4/d5e/a03542.html#aed7f09583615630437020215a3851296", null ]
+    [ "AddEventsScripts", "d4/d5e/a03542.html#a5b00ce0eeb1dcf64dc867f4bce623416", null ],
+    [ "AddSC_event_brewfest_scripts", "d4/d5e/a03542.html#a7b95e86ce715aad734d059cfc0cf88d7", null ],
+    [ "AddSC_event_childrens_week", "d4/d5e/a03542.html#a832536a026ab4dad8df7bb48ad0493fc", null ],
+    [ "AddSC_event_firework_show_scripts", "d4/d5e/a03542.html#af7a6296c13b6615a14e0823fe7e5b577", null ],
+    [ "AddSC_event_hallows_end_scripts", "d4/d5e/a03542.html#a70705fe4a0f9a88d8f185363054af273", null ],
+    [ "AddSC_event_love_in_the_air", "d4/d5e/a03542.html#acd28b6b284f9e0f8caa1194e2dc904f8", null ],
+    [ "AddSC_event_midsummer_scripts", "d4/d5e/a03542.html#adc17dd3d30524a3c73b564d6eed54f1c", null ],
+    [ "AddSC_event_noblegarden_scripts", "d4/d5e/a03542.html#a60b11fd113b9059778bb843dd1806c79", null ],
+    [ "AddSC_event_pilgrims_end_scripts", "d4/d5e/a03542.html#a8e59953c9b1731e315c9c6b9148a88e6", null ],
+    [ "AddSC_event_winter_veil_scripts", "d4/d5e/a03542.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
 ];

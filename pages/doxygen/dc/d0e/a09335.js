@@ -1,8 +1,5 @@
 var a09335 =
 [
-    [ "CreatureWorker", "dc/d0e/a09335.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
-    [ "Visit", "dc/d0e/a09335.html#ae67044250380c521055f80c55de0bba5", null ],
-    [ "Visit", "dc/d0e/a09335.html#aa9a450b147aafe46a49135f5c5be668e", null ],
-    [ "i_do", "dc/d0e/a09335.html#ac22f86d9a41701e7527d4840da256f11", null ],
-    [ "i_phaseMask", "dc/d0e/a09335.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
+    [ "MaxAllowedCount", "dc/d0e/a09335.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
+    [ "Policy", "dc/d0e/a09335.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
 ];

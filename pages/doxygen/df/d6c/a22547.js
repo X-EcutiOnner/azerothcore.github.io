@@ -1,6 +1,7 @@
 var a22547 =
 [
-    [ "HandleDamage", "df/d6c/a22547.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "df/d6c/a22547.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "df/d6c/a22547.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "boss_veras_darkshadow", "df/d6c/a22547.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "df/d6c/a22547.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "df/d6c/a22547.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "df/d6c/a22547.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

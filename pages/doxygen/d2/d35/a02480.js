@@ -1,5 +1,4 @@
 var a02480 =
 [
-    [ "MotdMgr", "dd/d37/a10181.html", "dd/d37/a10181" ],
-    [ "sMotdMgr", "d2/d35/a02480.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
+    [ "minPctTeamGamesForMemberToGetReward", "d2/d35/a02480.html#a4d7ce2e01ab25ea6833099b2821b6b5b", null ]
 ];

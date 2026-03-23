@@ -1,11 +1,8 @@
 var a18423 =
 [
-    [ "NonTankLKTargetSelector", "d6/d50/a18423.html#a41c5372505c0c74e93f2c583a0259777", null ],
-    [ "operator()", "d6/d50/a18423.html#a2e496088092b9885f8e2391c2df91993", null ],
-    [ "_exclude1", "d6/d50/a18423.html#abe4e56597fa2918b15a003413887ac71", null ],
-    [ "_exclude2", "d6/d50/a18423.html#a6aa63c93c4e68998f621349760d9ab43", null ],
-    [ "_maxDist", "d6/d50/a18423.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
-    [ "_playerOnly", "d6/d50/a18423.html#a5ab89af79aa4840c9a024996a848540c", null ],
-    [ "_reqLOS", "d6/d50/a18423.html#a61966d6b825f25b6bbf589676cef19f9", null ],
-    [ "_source", "d6/d50/a18423.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
+    [ "HeightDifferenceCheck", "d6/d50/a18423.html#aa8b61811e435cce456e5cb1d798be66e", null ],
+    [ "operator()", "d6/d50/a18423.html#a1db203642683f85176f2a35eb3d10c34", null ],
+    [ "_baseObject", "d6/d50/a18423.html#a7c274be02ca58429dffaee2ea34153c6", null ],
+    [ "_difference", "d6/d50/a18423.html#af95e2bf67c8316dda982896978c45a68", null ],
+    [ "_reverse", "d6/d50/a18423.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
 ];

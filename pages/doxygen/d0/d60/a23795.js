@@ -1,12 +1,7 @@
 var a23795 =
 [
-    [ "boss_watchkeeper_gargolmar", "d0/d60/a23795.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
-    [ "JustDied", "d0/d60/a23795.html#a39be5796b39bea913105fc48dda0d186", null ],
-    [ "JustEngagedWith", "d0/d60/a23795.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
-    [ "KilledUnit", "d0/d60/a23795.html#a22736c2680f41cfd3443a76cd4de9352", null ],
-    [ "MoveInLineOfSight", "d0/d60/a23795.html#adec9837fdb2595ce57acffb279a7d011", null ],
-    [ "Reset", "d0/d60/a23795.html#a356b7fe9071b073b74b21913e35e7408", null ],
-    [ "UpdateAI", "d0/d60/a23795.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
-    [ "_hasSpoken", "d0/d60/a23795.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
-    [ "_taunted", "d0/d60/a23795.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
+    [ "npc_kurenai_captiveAI", "de/d30/a23799.html", "de/d30/a23799" ],
+    [ "npc_kurenai_captive", "d0/d60/a23795.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d0/d60/a23795.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d0/d60/a23795.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

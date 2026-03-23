@@ -1,4 +1,7 @@
 var a07655 =
 [
-    [ "TryConsume", "da/d9a/a07655.html#a884de4dee05c4a925db4225da9512886", null ]
+    [ "BattlegroundEYPointIconsStruct", "da/d9a/a07655.html#a322379024d155d293d1c0083c510d232", null ],
+    [ "WorldStateAllianceControlledIndex", "da/d9a/a07655.html#a449932bc2357e26c79520fcf01a71a2a", null ],
+    [ "WorldStateControlIndex", "da/d9a/a07655.html#a82e87048f934b67821bc8ba308ed101d", null ],
+    [ "WorldStateHordeControlledIndex", "da/d9a/a07655.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
 ];

@@ -1,6 +1,6 @@
 var a21699 =
 [
-    [ "HandleEffectPeriodic", "d6/da0/a21699.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "d6/da0/a21699.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "d6/da0/a21699.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_attracted_reef_bullAI", "d6/da0/a21699.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "d6/da0/a21699.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "d6/da0/a21699.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

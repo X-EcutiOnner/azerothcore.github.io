@@ -1,8 +1,6 @@
 var a25591 =
 [
-    [ "CalcPeriodic", "df/d6d/a25591.html#ab11cad89fe213256353c88c351a8743b", null ],
-    [ "HandleUpdatePeriodic", "df/d6d/a25591.html#a096bc5640e42232f7754251daf5b6a8a", null ],
-    [ "OnApply", "df/d6d/a25591.html#ae00430a1418a0c3e91ae340f1a33f157", null ],
-    [ "PrepareAuraScript", "df/d6d/a25591.html#a85b849676d1c4c08921edff8d472da04", null ],
-    [ "Register", "df/d6d/a25591.html#a75a4f12269c7684335c3c09cd5002586", null ]
+    [ "PrepareSpellScript", "df/d6d/a25591.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
+    [ "Register", "df/d6d/a25591.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
+    [ "SelectTarget", "df/d6d/a25591.html#a3153b6c6814922cd7220e19b06f2a602", null ]
 ];

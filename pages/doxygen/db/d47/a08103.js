@@ -1,14 +1,9 @@
 var a08103 =
 [
-    [ "GenerateArmor", "db/d47/a08103.html#ad197fff9ab9cd6b45ca703d656d1d930", null ],
-    [ "GenerateBaseDamage", "db/d47/a08103.html#aa11e229aed1ba159219e6d1a291b1c80", null ],
-    [ "GenerateHealth", "db/d47/a08103.html#ac8ec122f7d16f89b50301a636ebade6e", null ],
-    [ "GenerateMana", "db/d47/a08103.html#aa6f523ebb8ef75db99db555547fd55d7", null ],
-    [ "GetBaseStats", "db/d47/a08103.html#a72249bb49bbcf08708bd30fc61e2cdea", null ],
-    [ "AttackPower", "db/d47/a08103.html#a8108d924e4de3ba741749e9386085e4f", null ],
-    [ "BaseArmor", "db/d47/a08103.html#a9fed8e3227aa2ad7b40579b0be615030", null ],
-    [ "BaseDamage", "db/d47/a08103.html#a40f54b64689ca8c3d2b0de81384dbea9", null ],
-    [ "BaseHealth", "db/d47/a08103.html#a83cee007ec623b19bb2b002d16180d2d", null ],
-    [ "BaseMana", "db/d47/a08103.html#a204af635372cb4a2c6ede1f79579385c", null ],
-    [ "RangedAttackPower", "db/d47/a08103.html#a684901a59108e94987c23ad5085e306a", null ]
+    [ "PvPCombatReference", "db/d47/a08103.html#a1439519e8f8665e345cd1bd3d28031aa", null ],
+    [ "RefreshTimer", "db/d47/a08103.html#ad8d05318d995aca2196c06768695b48e", null ],
+    [ "Update", "db/d47/a08103.html#a88d3291f9e29fa72f610b6c2a224fa4a", null ],
+    [ "CombatManager", "db/d47/a08103.html#ae013513b37e5f4a92a90f8c59f9291c1", null ],
+    [ "_combatTimer", "db/d47/a08103.html#accd9e37fa63f110daebb0086027f8ab6", null ],
+    [ "PVP_COMBAT_TIMEOUT", "db/d47/a08103.html#ae7026b02e2701be7a84d6da26bd3a432", null ]
 ];

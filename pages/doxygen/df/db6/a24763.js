@@ -1,6 +1,5 @@
 var a24763 =
 [
-    [ "CheckProc", "df/db6/a24763.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "df/db6/a24763.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "df/db6/a24763.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "PrepareSpellScript", "df/db6/a24763.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
+    [ "Register", "df/db6/a24763.html#a560ff22e718e8a975a2e2dc2340da917", null ]
 ];

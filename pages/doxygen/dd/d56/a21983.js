@@ -1,6 +1,6 @@
 var a21983 =
 [
-    [ "CheckCast", "dd/d56/a21983.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "dd/d56/a21983.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "dd/d56/a21983.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_freed_protodrakeAI", "d3/d49/a21987.html", "d3/d49/a21987" ],
+    [ "npc_freed_protodrake", "dd/d56/a21983.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "dd/d56/a21983.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

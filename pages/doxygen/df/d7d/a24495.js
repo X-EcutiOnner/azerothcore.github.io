@@ -1,6 +1,9 @@
 var a24495 =
 [
-    [ "npc_shattrathflaskvendors", "df/d7d/a24495.html#ab74b234406c2022bf519242a7842458a", null ],
-    [ "OnGossipHello", "df/d7d/a24495.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
-    [ "OnGossipSelect", "df/d7d/a24495.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
+    [ "HandleApply", "df/d7d/a24495.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "df/d7d/a24495.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "df/d7d/a24495.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "df/d7d/a24495.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "df/d7d/a24495.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "df/d7d/a24495.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

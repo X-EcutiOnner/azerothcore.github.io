@@ -1,6 +1,9 @@
 var a17155 =
 [
-    [ "npc_tortured_riflemanAI", "d6/d6f/a17159.html", "d6/d6f/a17159" ],
-    [ "npc_tortured_rifleman", "d7/d11/a17155.html#a32e4164864c3873b3684ad531a2e924a", null ],
-    [ "GetAI", "d7/d11/a17155.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
+    [ "npc_hor_spiritual_reflection", "d7/d11/a17155.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
+    [ "EnterEvadeMode", "d7/d11/a17155.html#a3973e83b013df723849939635071324f", null ],
+    [ "JustDied", "d7/d11/a17155.html#a913d17e1534a5940b7841e38eae246f7", null ],
+    [ "JustEngagedWith", "d7/d11/a17155.html#ad47d12654c88cc94b7c17906e4096115", null ],
+    [ "Reset", "d7/d11/a17155.html#aa7dad28bbe53286ec298ba5480717e69", null ],
+    [ "UpdateAI", "d7/d11/a17155.html#a5093b6502bca95c22b2b0f0117f86047", null ]
 ];

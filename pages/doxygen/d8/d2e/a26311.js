@@ -1,7 +1,8 @@
 var a26311 =
 [
-    [ "AfterRemove", "d8/d2e/a26311.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "d8/d2e/a26311.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "d8/d2e/a26311.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "d8/d2e/a26311.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "HandleProc", "d8/d2e/a26311.html#ab98571b7f614d66c44c25d0d2c6aa738", null ],
+    [ "PrepareAuraScript", "d8/d2e/a26311.html#a194c83ebc29c4522b5fc313a3ab4d1dd", null ],
+    [ "Register", "d8/d2e/a26311.html#a6dfd4dc774e58a8881b20a31d4c1be56", null ],
+    [ "Validate", "d8/d2e/a26311.html#a886d2b1a2bf2f25bde5248edcef9733d", null ],
+    [ "_critStreak", "d8/d2e/a26311.html#a4a8e3c9d8754844d74e72cb328c44221", null ]
 ];

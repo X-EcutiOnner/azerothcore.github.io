@@ -1,6 +1,6 @@
 var a12207 =
 [
-    [ "boss_hedrumAI", "d3/d0c/a12207.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
-    [ "JustEngagedWith", "d3/d0c/a12207.html#a1cf03b06598f2b36814062d47a73ed82", null ],
-    [ "UpdateAI", "d3/d0c/a12207.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
+    [ "inventory_commandscript", "d3/d0c/a12207.html#a765d3606093dd3e15bb59c058333dca7", null ],
+    [ "GetCommands", "d3/d0c/a12207.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
+    [ "HandleInventoryCountCommand", "d3/d0c/a12207.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
 ];

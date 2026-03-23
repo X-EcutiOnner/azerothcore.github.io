@@ -1,6 +1,8 @@
 var a22371 =
 [
-    [ "npc_still_at_it_triggerAI", "d8/d43/a22375.html", "d8/d43/a22375" ],
-    [ "npc_still_at_it_trigger", "d8/d3d/a22371.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "d8/d3d/a22371.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "FilterTargets", "d8/d3d/a22371.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d8/d3d/a22371.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d8/d3d/a22371.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d8/d3d/a22371.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d8/d3d/a22371.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

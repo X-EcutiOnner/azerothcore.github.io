@@ -1,31 +1,28 @@
 var a02858 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d9/d95/a15965.html", "d9/d95/a15965" ],
-    [ "at_ancient_leaf", "da/da3/a15969.html", "da/da3/a15969" ],
-    [ "AncientMisc", "d7/de8/a02858.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
-      [ "QUEST_ANCIENT_LEAF", "d7/de8/a02858.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
-      [ "NPC_VARTRUS", "d7/de8/a02858.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
-      [ "NPC_STOMA", "d7/de8/a02858.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
-      [ "NPC_HASTAT", "d7/de8/a02858.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
-      [ "CREATURE_GROUP_ANCIENTS", "d7/de8/a02858.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
+    [ "OPvPCapturePointHP", "d8/d37/a22235.html", "d8/d37/a22235" ],
+    [ "OutdoorPvPHP", "de/d8f/a22239.html", "de/d8f/a22239" ],
+    [ "OutdoorPvPHPBuffZonesNum", "d7/de8/a02858.html#a01aada98c8079ea71a361cba06e10640", null ],
+    [ "OutdoorPvPHPSpells", "d7/de8/a02858.html#a09664100577cc20866b21589f3c1eb4a", [
+      [ "AlliancePlayerKillReward", "d7/de8/a02858.html#a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc", null ],
+      [ "HordePlayerKillReward", "d7/de8/a02858.html#a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45", null ],
+      [ "AllianceBuff", "d7/de8/a02858.html#a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a", null ],
+      [ "HordeBuff", "d7/de8/a02858.html#a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2", null ]
     ] ],
-    [ "RiverbreezeAndSilversky", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427", [
-      [ "SPELL_CENARION_BEACON", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
-      [ "ITEM_CENARION_BEACON", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46", null ],
-      [ "ACTION_CREATE_CENARION_BEACON", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1", null ],
-      [ "NPC_ARATHANDRIS_SILVERSKY", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
-      [ "NPC_MAYBESS_RIVERBREEZE", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
-      [ "QUEST_CLEASING_FELWOOD_A", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
-      [ "QUEST_CLEASING_FELWOOD_H", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ],
-      [ "GOSSIP_MENU_SILVERSKY", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8", null ],
-      [ "GOSSIP_MENU_RIVERBREEZE", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc", null ],
-      [ "GOSSIP_OPTION_BEACON", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1", null ],
-      [ "TEXT_SILVERSKY_1", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21", null ],
-      [ "TEXT_SILVERSKY_2", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de", null ],
-      [ "TEXT_SILVERSKY_3", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289", null ],
-      [ "TEXT_RIVERBREEZE_1", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e", null ],
-      [ "TEXT_RIVERBREEZE_2", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40", null ],
-      [ "TEXT_RIVERBREEZE_3", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5", null ]
+    [ "OutdoorPvPHPTowerType", "d7/de8/a02858.html#ad618152baad1f5a1d7f70f40941e8f33", [
+      [ "HP_TOWER_BROKEN_HILL", "d7/de8/a02858.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9", null ],
+      [ "HP_TOWER_OVERLOOK", "d7/de8/a02858.html#ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447", null ],
+      [ "HP_TOWER_STADIUM", "d7/de8/a02858.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84", null ],
+      [ "HP_TOWER_NUM", "d7/de8/a02858.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355", null ]
     ] ],
-    [ "AddSC_felwood", "d7/de8/a02858.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
+    [ "HP_CREDITMARKER", "d7/de8/a02858.html#a3be5b978c2160f84a013071d76c121aa", null ],
+    [ "HP_MAP_A", "d7/de8/a02858.html#ab540dae1c3c44e27c4441e9d56e10d1d", null ],
+    [ "HP_MAP_H", "d7/de8/a02858.html#ab15c51d80dc177784041dedc55e39c56", null ],
+    [ "HP_MAP_N", "d7/de8/a02858.html#a8a39817e7479fa79181e8c99bb83ca5c", null ],
+    [ "HP_TowerArtKit_A", "d7/de8/a02858.html#ab9c6e470e4a4759ce2e77f88661521bb", null ],
+    [ "HP_TowerArtKit_H", "d7/de8/a02858.html#a6791490624d9d1c2995c6a13659f8692", null ],
+    [ "HP_TowerArtKit_N", "d7/de8/a02858.html#ae64775fc45fae501937d72c9d55c8dc1", null ],
+    [ "HPCapturePoints", "d7/de8/a02858.html#a23f671f25a8a3e3db11f4a0953b34773", null ],
+    [ "HPTowerFlags", "d7/de8/a02858.html#ae6571d986fbbf7b469cf495033f46516", null ],
+    [ "OutdoorPvPHPBuffZones", "d7/de8/a02858.html#a876ea3aeffde8ab2532706d13ae6e2ce", null ]
 ];

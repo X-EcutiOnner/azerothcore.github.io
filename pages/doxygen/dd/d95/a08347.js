@@ -1,9 +1,11 @@
 var a08347 =
 [
-    [ "artKits", "dd/d95/a08347.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
-    [ "entry", "dd/d95/a08347.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
-    [ "faction", "dd/d95/a08347.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
-    [ "flags", "dd/d95/a08347.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
-    [ "maxgold", "dd/d95/a08347.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
-    [ "mingold", "dd/d95/a08347.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
+    [ "FormationInfo", "dd/d95/a08347.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
+    [ "HasGroupFlag", "dd/d95/a08347.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
+    [ "follow_angle", "dd/d95/a08347.html#a928ce7047d511c316a5367faf7f96673", null ],
+    [ "follow_dist", "dd/d95/a08347.html#a3b59ee5129e208cc3df407a921362393", null ],
+    [ "groupAI", "dd/d95/a08347.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
+    [ "leaderGUID", "dd/d95/a08347.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
+    [ "point_1", "dd/d95/a08347.html#a84298ff533bebc633689742c7f9299ae", null ],
+    [ "point_2", "dd/d95/a08347.html#acc308b497de18211b99eec4311b256a4", null ]
 ];

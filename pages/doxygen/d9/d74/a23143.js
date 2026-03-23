@@ -1,6 +1,7 @@
 var a23143 =
 [
-    [ "boss_essence_of_angerAI", "de/dc6/a23147.html", "de/dc6/a23147" ],
-    [ "boss_essence_of_anger", "d9/d74/a23143.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "d9/d74/a23143.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "HandleScript", "d9/d74/a23143.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
+    [ "PrepareSpellScript", "d9/d74/a23143.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
+    [ "Register", "d9/d74/a23143.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
+    [ "Validate", "d9/d74/a23143.html#a46aca18049e02d50f57579b3fdc705bd", null ]
 ];

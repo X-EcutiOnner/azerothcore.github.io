@@ -1,9 +1,7 @@
 var a22479 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d0/dfe/a22479.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "d0/dfe/a22479.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "d0/dfe/a22479.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "d0/dfe/a22479.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "d0/dfe/a22479.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "d0/dfe/a22479.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "HandleEffectRemove", "d0/dfe/a22479.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "PrepareAuraScript", "d0/dfe/a22479.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "d0/dfe/a22479.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "d0/dfe/a22479.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

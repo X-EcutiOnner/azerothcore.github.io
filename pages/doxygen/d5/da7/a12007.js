@@ -1,10 +1,7 @@
 var a12007 =
 [
-    [ "quest_commandscript", "d5/da7/a12007.html#a98804583ded14bc50d252475289dda4f", null ],
-    [ "GetCommands", "d5/da7/a12007.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
-    [ "HandleQuestAdd", "d5/da7/a12007.html#acd1410f224a1d69bba1321999ebf25bc", null ],
-    [ "HandleQuestComplete", "d5/da7/a12007.html#a044c30fdaedd07060284bd37fd2e226c", null ],
-    [ "HandleQuestRemove", "d5/da7/a12007.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
-    [ "HandleQuestReward", "d5/da7/a12007.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
-    [ "HandleQuestStatus", "d5/da7/a12007.html#adbba92d0cf47879e94710c971fd994ff", null ]
+    [ "CompressedData", "d5/da7/a12007.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
+    [ "CompressedSize", "d5/da7/a12007.html#ab57879b41c825623a989db13a53f2f4e", null ],
+    [ "Id", "d5/da7/a12007.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
+    [ "Key", "d5/da7/a12007.html#ad100540b5c6722a19c938b134a985aed", null ]
 ];

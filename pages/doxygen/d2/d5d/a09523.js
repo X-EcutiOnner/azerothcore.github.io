@@ -1,8 +1,10 @@
 var a09523 =
 [
-    [ "AllDeadCreaturesInRange", "d2/d5d/a09523.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
-    [ "operator()", "d2/d5d/a09523.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
-    [ "_obj", "d2/d5d/a09523.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
-    [ "_range", "d2/d5d/a09523.html#a431ada86a2b864d53773a85b05d8da4f", null ],
-    [ "_reqAlive", "d2/d5d/a09523.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
+    [ "UnitLastSearcher", "d2/d5d/a09523.html#a7924240df139cf0814282eaff8a898b6", null ],
+    [ "Visit", "d2/d5d/a09523.html#a95a5148e040daf44ed19e3118621a4ca", null ],
+    [ "Visit", "d2/d5d/a09523.html#ae9992afc09771d4f1e1517642075f17e", null ],
+    [ "Visit", "d2/d5d/a09523.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
+    [ "i_check", "d2/d5d/a09523.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
+    [ "i_object", "d2/d5d/a09523.html#a7bd2407800c461de70b217a4b48f9921", null ],
+    [ "i_phaseMask", "d2/d5d/a09523.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
 ];

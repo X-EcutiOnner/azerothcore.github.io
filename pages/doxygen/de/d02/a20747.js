@@ -1,8 +1,6 @@
 var a20747 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d3/d15/a20751.html", "d3/d15/a20751" ],
-    [ "npc_ulduar_expedition_commander", "de/d02/a20747.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
-    [ "GetAI", "de/d02/a20747.html#aa888a3634a643a103075d44c8f52d28a", null ],
-    [ "OnGossipHello", "de/d02/a20747.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
-    [ "OnGossipSelect", "de/d02/a20747.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "de/d02/a20747.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "de/d02/a20747.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "de/d02/a20747.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

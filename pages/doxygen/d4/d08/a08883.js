@@ -1,9 +1,9 @@
 var a08883 =
 [
-    [ "GameEventAIHookWorker", "d4/d08/a08883.html#ad72640a18d2d32a9201c965089ee49cf", null ],
-    [ "Visit", "d4/d08/a08883.html#a23d979ee43838e7d58e9123e36474a5a", null ],
-    [ "Visit", "d4/d08/a08883.html#a79106ec550d072d690bbf3496d76cb0a", null ],
-    [ "Visit", "d4/d08/a08883.html#a165476edd8b252bbb90b8b78fae963a6", null ],
-    [ "_activate", "d4/d08/a08883.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
-    [ "_eventId", "d4/d08/a08883.html#ab1ee68bb7134e84780772eba2cfac766", null ]
+    [ "EntryPointData", "d4/d08/a08883.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "d4/d08/a08883.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "d4/d08/a08883.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "d4/d08/a08883.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "d4/d08/a08883.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "d4/d08/a08883.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

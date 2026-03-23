@@ -1,8 +1,10 @@
 var a28243 =
 [
-    [ "canLink", "d1/d6e/a28243.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "d1/d6e/a28243.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "d1/d6e/a28243.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "d1/d6e/a28243.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "d1/d6e/a28243.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "npc_dancing_flamesAI", "d1/d6e/a28243.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d1/d6e/a28243.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d1/d6e/a28243.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d1/d6e/a28243.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d1/d6e/a28243.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d1/d6e/a28243.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d1/d6e/a28243.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

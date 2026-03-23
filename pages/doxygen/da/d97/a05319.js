@@ -1,5 +1,6 @@
 var a05319 =
 [
-    [ "_elements", "da/d97/a05319.html#acf30d76638f2906421de881ced591fbd", null ],
-    [ "_TailElements", "da/d97/a05319.html#afbb7352f16ec774a372d2cbf699e3e0e", null ]
+    [ "TriBoundFunc", "da/d97/a05319.html#a42711c10595c048420a09e35e3345229", null ],
+    [ "operator()", "da/d97/a05319.html#a026d443e9156f884a21351700b6c69dd", null ],
+    [ "vertices", "da/d97/a05319.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
 ];

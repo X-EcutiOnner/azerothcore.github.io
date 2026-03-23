@@ -1,8 +1,6 @@
 var a11859 =
 [
-    [ "accountId", "da/d4c/a11859.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
-    [ "accountName", "da/d4c/a11859.html#a4849bd1f43fd15eea1991948abdc576d", null ],
-    [ "deleteDate", "da/d4c/a11859.html#a65a101727094841d34e8775bb7504cba", null ],
-    [ "lowGuid", "da/d4c/a11859.html#a11fd07e662184f750ac0a5e547a22437", null ],
-    [ "name", "da/d4c/a11859.html#a0e85dce38305e222c5654315ed68bfc1", null ]
+    [ "EffectAbsorbHandler", "da/d4c/a11859.html#a29bb773b8271acf651b08f33ce358720", null ],
+    [ "Call", "da/d4c/a11859.html#a56bfb0fd0d860678920445d1182c09ef", null ],
+    [ "pEffectHandlerScript", "da/d4c/a11859.html#a519489b8d951173a806e86cfe075faf1", null ]
 ];

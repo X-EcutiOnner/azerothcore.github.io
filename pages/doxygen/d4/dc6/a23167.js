@@ -1,7 +1,8 @@
 var a23167 =
 [
-    [ "CalculateAmount", "d4/dc6/a23167.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "d4/dc6/a23167.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "d4/dc6/a23167.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "d4/dc6/a23167.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "npc_underbat", "d4/dc6/a23167.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "d4/dc6/a23167.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "d4/dc6/a23167.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "d4/dc6/a23167.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "d4/dc6/a23167.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

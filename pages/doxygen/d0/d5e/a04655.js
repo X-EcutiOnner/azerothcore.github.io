@@ -1,6 +1,7 @@
 var a04655 =
 [
-    [ "event_commandscript", "d2/d36/a12117.html", "d2/d36/a12117" ],
-    [ "EventEntry", "d0/d5e/a04655.html#accd9dac141ffd4618bb7d3f69e8eb716", null ],
-    [ "AddSC_event_commandscript", "d0/d5e/a04655.html#a4f3834f706dcb17ca67ce6513f6aecad", null ]
+    [ "gobject_commandscript", "d9/d42/a12187.html", "d9/d42/a12187" ],
+    [ "GameObjectEntry", "d0/d5e/a04655.html#af6e4fdc2f36213d5f2a9fa6f335517b8", null ],
+    [ "GameObjectSpawnId", "d0/d5e/a04655.html#ad5bd2a208bd6c6213df595ee7369126f", null ],
+    [ "AddSC_gobject_commandscript", "d0/d5e/a04655.html#a0cc4be9c12b1a892f031cb1ff47e23d9", null ]
 ];

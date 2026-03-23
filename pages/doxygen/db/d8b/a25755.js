@@ -1,5 +1,8 @@
 var a25755 =
 [
-    [ "PrepareSpellScript", "db/d8b/a25755.html#a9137654c01f41c735f477b85e4ec6d73", null ],
-    [ "Register", "db/d8b/a25755.html#af1002e90bc0801c0759393d2d4af8778", null ]
+    [ "OnRemove", "db/d8b/a25755.html#a645e869079e711a87f1a957b42a35e98", null ],
+    [ "OnStackChange", "db/d8b/a25755.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
+    [ "PrepareAuraScript", "db/d8b/a25755.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
+    [ "Register", "db/d8b/a25755.html#ac86068a892255e38244c487a7456cd9f", null ],
+    [ "Validate", "db/d8b/a25755.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
 ];

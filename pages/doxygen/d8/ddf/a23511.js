@@ -1,13 +1,6 @@
 var a23511 =
 [
-    [ "npc_ahune_bunny", "d8/ddf/a23511.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
-    [ "DoAction", "d8/ddf/a23511.html#ad071787c47254f603ba7692889733202", null ],
-    [ "JustDied", "d8/ddf/a23511.html#a8733a3e495ebf69df4f9d1213df50170", null ],
-    [ "JustSummoned", "d8/ddf/a23511.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
-    [ "ResetFlameCallers", "d8/ddf/a23511.html#a60a74aabbf42116079081134a332a100", null ],
-    [ "UpdateAI", "d8/ddf/a23511.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
-    [ "_events", "d8/ddf/a23511.html#af84154fff16cbdb15586b3b07223e010", null ],
-    [ "_instance", "d8/ddf/a23511.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
-    [ "_submerged", "d8/ddf/a23511.html#a15fdcc2fda18e118f398ccc055f52942", null ],
-    [ "_summons", "d8/ddf/a23511.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
+    [ "HandleCast", "d8/ddf/a23511.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "d8/ddf/a23511.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "d8/ddf/a23511.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

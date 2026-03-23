@@ -1,11 +1,9 @@
 var a05843 =
 [
-    [ "SQLOperation", "d8/d08/a05843.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "d8/d08/a05843.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "d8/d08/a05843.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "d8/d08/a05843.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "d8/d08/a05843.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "d8/d08/a05843.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "d8/d08/a05843.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "d8/d08/a05843.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "TimeTrackerSmall", "d8/d08/a05843.html#a38a962c928eac8546d1fd37a094077cc", null ],
+    [ "GetExpiry", "d8/d08/a05843.html#a2ebcfabed1bf252b6afb6c3182142c7b", null ],
+    [ "Passed", "d8/d08/a05843.html#af4455d0ebb784497e9fd1a08cc915062", null ],
+    [ "Reset", "d8/d08/a05843.html#ab8a3c45ffe0e83132e708b5e87625c02", null ],
+    [ "Update", "d8/d08/a05843.html#a6c10a37051caf7c16f1aa057bf2bf7da", null ],
+    [ "i_expiryTime", "d8/d08/a05843.html#a332f650bcfc81fb4b0de1b58ff1e0c9b", null ]
 ];

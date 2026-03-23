@@ -1,10 +1,13 @@
 var a05071 =
 [
-    [ "AreaInfo", "db/d78/a05071.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
-    [ "adtId", "db/d78/a05071.html#a95c1c986b14dfeba867fa55e77553499", null ],
-    [ "flags", "db/d78/a05071.html#a780bdbb606fe694941d2105e14a29d70", null ],
-    [ "ground_Z", "db/d78/a05071.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
-    [ "groupId", "db/d78/a05071.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
-    [ "result", "db/d78/a05071.html#ab9e9a7658d5fb76be208835f786036b0", null ],
-    [ "rootId", "db/d78/a05071.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
+    [ "LogoutCancel", "d2/d0b/a10827.html", "d2/d0b/a10827" ],
+    [ "LogoutCancelAck", "d0/d7c/a10831.html", "d0/d7c/a10831" ],
+    [ "LogoutComplete", "d9/d8f/a10823.html", "d9/d8f/a10823" ],
+    [ "LogoutRequest", "dc/d33/a10815.html", "dc/d33/a10815" ],
+    [ "LogoutResponse", "d0/dc2/a10819.html", "d0/dc2/a10819" ],
+    [ "PlayedTime", "d5/d88/a10843.html", "d5/d88/a10843" ],
+    [ "PlayedTimeClient", "db/da7/a10839.html", "db/da7/a10839" ],
+    [ "PlayerLogout", "de/d5c/a10835.html", "de/d5c/a10835" ],
+    [ "ShowingCloak", "dd/d19/a10807.html", "dd/d19/a10807" ],
+    [ "ShowingHelm", "d7/d50/a10811.html", "d7/d50/a10811" ]
 ];

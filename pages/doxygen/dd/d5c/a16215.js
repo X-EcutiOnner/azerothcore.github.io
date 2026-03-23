@@ -1,25 +1,11 @@
 var a16215 =
 [
-    [ "boss_sartharionAI", "dd/d5c/a16215.html#aea51fa7b0e55c9ae635a95f7a1aea161", null ],
-    [ "DamageTaken", "dd/d5c/a16215.html#a0f16f9865159338c46e140c01650a728", null ],
-    [ "DoAction", "dd/d5c/a16215.html#af3c28d7eff6df494bbca6156df5fb014", null ],
-    [ "GetData", "dd/d5c/a16215.html#a6d45699d2efacdc0aca88dba3f67d20a", null ],
-    [ "IsTargetInBounds", "dd/d5c/a16215.html#a5ed942da2e53ecc63ec15fa8cf8c3325", null ],
-    [ "JustDied", "dd/d5c/a16215.html#ac0a2915976f7dfb21786c161d5e43d3f", null ],
-    [ "JustEngagedWith", "dd/d5c/a16215.html#a15c50a40ae2a6caa873993c6e330600c", null ],
-    [ "JustSummoned", "dd/d5c/a16215.html#ac5dc745f044bdf673b7f92b194063d94", null ],
-    [ "KilledUnit", "dd/d5c/a16215.html#a8502d5c79b7baac2f9a68349e99b7b16", null ],
-    [ "Reset", "dd/d5c/a16215.html#ab72889e00eb1fad659f807620e81e23e", null ],
-    [ "RespawnDragons", "dd/d5c/a16215.html#a5014e6aebdda3b84cd22fd2f66ed691b", null ],
-    [ "SendLavaWaves", "dd/d5c/a16215.html#a14384c3853570d0f7580d72d0008b986", null ],
-    [ "SetData", "dd/d5c/a16215.html#ad992cf36966069dc00d5509a54445213", null ],
-    [ "SummonLavaWaves", "dd/d5c/a16215.html#aadd3b8f29b49b67685d67036c5f2775f", null ],
-    [ "SummonStartingTriggers", "dd/d5c/a16215.html#a17f64c07e9c83c7e25bf9fba5b9f3ba4", null ],
-    [ "UpdateAI", "dd/d5c/a16215.html#a7aaca15038bf53ff3baaeb39c7713bff", null ],
-    [ "below11PctReached", "dd/d5c/a16215.html#ae838ffe0fdee72f4d4b1c02a9cbde949", null ],
-    [ "dragonsCount", "dd/d5c/a16215.html#a3bb9defa2a2a3acc6caadaaa361027ee", null ],
-    [ "extraEvents", "dd/d5c/a16215.html#a4d2e7a5aae63664e437c1e9ac22846cb", null ],
-    [ "lastLavaSide", "dd/d5c/a16215.html#ab9c3a5d19c966e547328ce2a28674069", null ],
-    [ "usedBerserk", "dd/d5c/a16215.html#a4790e98b3e8d02021b00e14aafec3aff", null ],
-    [ "volcanoBlows", "dd/d5c/a16215.html#a1d6e306084fb64742d28beb1f65ef338", null ]
+    [ "spell_hadronox_summon_periodic_aura", "dd/d5c/a16215.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
+    [ "HandlePeriodic", "dd/d5c/a16215.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "dd/d5c/a16215.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "dd/d5c/a16215.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "dd/d5c/a16215.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "dd/d5c/a16215.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "dd/d5c/a16215.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
+    [ "_spellEntry", "dd/d5c/a16215.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

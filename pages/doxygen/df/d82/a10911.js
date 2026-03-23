@@ -1,9 +1,8 @@
 var a10911 =
 [
-    [ "WrapItem", "df/d82/a10911.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
-    [ "Read", "df/d82/a10911.html#adcd87a65cc32bc0096b650a705de9a55", null ],
-    [ "GiftBag", "df/d82/a10911.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
-    [ "GiftSlot", "df/d82/a10911.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
-    [ "ItemBag", "df/d82/a10911.html#a577a588900d74f22cfe67a1fbe82424b", null ],
-    [ "ItemSlot", "df/d82/a10911.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
+    [ "GuildCommandResult", "df/d82/a10911.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
+    [ "Write", "df/d82/a10911.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
+    [ "Command", "df/d82/a10911.html#a099cf9f39c403f76971d006245b03f29", null ],
+    [ "Name", "df/d82/a10911.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
+    [ "Result", "df/d82/a10911.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
 ];

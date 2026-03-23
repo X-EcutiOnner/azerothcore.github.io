@@ -1,6 +1,8 @@
 var a09683 =
 [
-    [ "NpcTextLocale", "d7/d95/a09683.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
-    [ "Text_0", "d7/d95/a09683.html#adf17307b9d00e0b63b9c2827fca96320", null ],
-    [ "Text_1", "d7/d95/a09683.html#a40f69a13a202c350fdce2177288727e9", null ]
+    [ "AnyAssistCreatureInRangeCheck", "d7/d95/a09683.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
+    [ "operator()", "d7/d95/a09683.html#a314a4800047f7e661cd011010b3f148e", null ],
+    [ "i_enemy", "d7/d95/a09683.html#a37318ae783e6cf4a658063aab149e8a3", null ],
+    [ "i_funit", "d7/d95/a09683.html#add1071091d1696c3f537483810dcb6f1", null ],
+    [ "i_range", "d7/d95/a09683.html#a4bcf67be5bae4649d82586349d30be04", null ]
 ];

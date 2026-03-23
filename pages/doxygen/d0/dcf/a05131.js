@@ -1,8 +1,6 @@
 var a05131 =
 [
-    [ "GModelRayCallback", "d0/dcf/a05131.html#a39bc53ae3bf18800ea215a5a54568606", null ],
-    [ "operator()", "d0/dcf/a05131.html#af0072bed861fb89a63c37fd72482ed42", null ],
-    [ "hit", "d0/dcf/a05131.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
-    [ "triangles", "d0/dcf/a05131.html#a09ef515a1b16d184071e708ed9245b3d", null ],
-    [ "vertices", "d0/dcf/a05131.html#af80815b123c6611f38e3d5b41e501546", null ]
+    [ "Resolver", "d0/dcf/a05131.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
+    [ "Resolve", "d0/dcf/a05131.html#ab190f885c84753fe65405db6fb04bf7c", null ],
+    [ "_impl", "d0/dcf/a05131.html#a08ed9183a6338606524c44f0fd5695a0", null ]
 ];

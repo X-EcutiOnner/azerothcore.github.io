@@ -1,8 +1,7 @@
 var a23015 =
 [
-    [ "Load", "d3/d1c/a23015.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "d3/d1c/a23015.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "d3/d1c/a23015.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "d3/d1c/a23015.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "d3/d1c/a23015.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "go_ahune_ice_spear", "d3/d1c/a23015.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "d3/d1c/a23015.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "d3/d1c/a23015.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "d3/d1c/a23015.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

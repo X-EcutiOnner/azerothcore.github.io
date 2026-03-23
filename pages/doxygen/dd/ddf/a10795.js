@@ -1,5 +1,8 @@
 var a10795 =
 [
-    [ "SocketEnchantID", "dd/ddf/a10795.html#ae682a8405a5fa1c70033d190dde25d99", null ],
-    [ "SocketIndex", "dd/ddf/a10795.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
+    [ "GuildFilter", "dd/ddf/a10795.html#a20ffe6a8d19489014484722b1481cb65", null ],
+    [ "Read", "dd/ddf/a10795.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
+    [ "MaximumLevel", "dd/ddf/a10795.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
+    [ "MinimumLevel", "dd/ddf/a10795.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
+    [ "MinimumRank", "dd/ddf/a10795.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
 ];

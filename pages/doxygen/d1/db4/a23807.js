@@ -1,8 +1,8 @@
 var a23807 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d1/db4/a23807.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "d1/db4/a23807.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "d1/db4/a23807.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "d1/db4/a23807.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "d1/db4/a23807.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "npc_captain_saeedAI", "d3/db5/a23811.html", "d3/db5/a23811" ],
+    [ "npc_captain_saeed", "d1/db4/a23807.html#a8a5bee9f908b10451b8d4720dff85670", null ],
+    [ "GetAI", "d1/db4/a23807.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
+    [ "OnGossipHello", "d1/db4/a23807.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
+    [ "OnGossipSelect", "d1/db4/a23807.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
 ];

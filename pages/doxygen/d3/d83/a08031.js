@@ -1,8 +1,5 @@
 var a08031 =
 [
-    [ "cancelTime", "d3/d83/a08031.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
-    [ "inProgress", "d3/d83/a08031.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
-    [ "reason", "d3/d83/a08031.html#a279a5575ca0956266ae81b7a165874cf", null ],
-    [ "victim", "d3/d83/a08031.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
-    [ "votes", "d3/d83/a08031.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
+    [ "Glyph", "d3/d83/a08031.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "d3/d83/a08031.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

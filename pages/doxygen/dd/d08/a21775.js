@@ -1,9 +1,9 @@
 var a21775 =
 [
-    [ "npc_bonker_togglevoltAI", "dd/d08/a21775.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "dd/d08/a21775.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "dd/d08/a21775.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "dd/d08/a21775.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "dd/d08/a21775.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "Bonker_agro", "dd/d08/a21775.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "npc_lord_areteAI", "dd/d08/a21775.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
+    [ "InitializeAI", "dd/d08/a21775.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
+    [ "UpdateAI", "dd/d08/a21775.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
+    [ "_landgrenGUID", "dd/d08/a21775.html#ac0e3753096dfe779024acc8400791171", null ],
+    [ "_landgrenSoulGUID", "dd/d08/a21775.html#aaa28c67691610136f0b418b30892f3cd", null ],
+    [ "events", "dd/d08/a21775.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
 ];

@@ -1,7 +1,9 @@
 var a25391 =
 [
-    [ "HandleApplyEffect", "d1/d71/a25391.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
-    [ "Load", "d1/d71/a25391.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
-    [ "PrepareAuraScript", "d1/d71/a25391.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
-    [ "Register", "d1/d71/a25391.html#aed57fbbf473b8f15fa177261e4678e96", null ]
+    [ "CheckIfCorpseNear", "d1/d71/a25391.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "d1/d71/a25391.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "d1/d71/a25391.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "d1/d71/a25391.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "d1/d71/a25391.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "d1/d71/a25391.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

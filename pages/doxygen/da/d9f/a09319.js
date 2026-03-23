@@ -1,9 +1,6 @@
 var a09319 =
 [
-    [ "UnitListSearcher", "da/d9f/a09319.html#a24c0de32dc3baa927962626421a343ae", null ],
-    [ "Visit", "da/d9f/a09319.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
-    [ "Visit", "da/d9f/a09319.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
-    [ "Visit", "da/d9f/a09319.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
-    [ "i_check", "da/d9f/a09319.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
-    [ "i_phaseMask", "da/d9f/a09319.html#a43c863350bea423cf4a720c4c680fd4c", null ]
+    [ "lang_id", "da/d9f/a09319.html#a1fa900a467834103ac595a8a96dd28c0", null ],
+    [ "skill_id", "da/d9f/a09319.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
+    [ "spell_id", "da/d9f/a09319.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
 ];

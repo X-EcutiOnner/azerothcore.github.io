@@ -1,7 +1,6 @@
 var a01322 =
 [
-    [ "LoadPlayerSettings", "d5/df4/a01322.html#a070b072e62079e512137662a87d710f6", null ],
-    [ "ParseSettingsData", "d5/df4/a01322.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
-    [ "SerializeSettingsData", "d5/df4/a01322.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
-    [ "UpdateSetting", "d5/df4/a01322.html#ab725e991f09f03e0413ffe44fa807ead", null ]
+    [ "AddItemsSetItem", "d5/df4/a01322.html#a02944420353f8ba883b80737f8e63137", null ],
+    [ "ItemCanGoIntoBag", "d5/df4/a01322.html#a0c91640134a5241ec34f91bdec13c8ec", null ],
+    [ "RemoveItemsSetItem", "d5/df4/a01322.html#a402c3dd64769702b750f96adff4b3a14", null ]
 ];

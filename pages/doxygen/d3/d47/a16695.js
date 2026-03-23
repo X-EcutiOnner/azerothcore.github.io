@@ -1,8 +1,7 @@
 var a16695 =
 [
-    [ "npc_toc_warlockAI", "d3/d47/a16695.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "d3/d47/a16695.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "d3/d47/a16695.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "d3/d47/a16695.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "d3/d47/a16695.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "npc_toc_shamanAI", "d3/d47/a16695.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "d3/d47/a16695.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "d3/d47/a16695.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "d3/d47/a16695.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

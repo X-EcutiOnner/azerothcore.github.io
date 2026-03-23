@@ -1,8 +1,5 @@
 var a28427 =
 [
-    [ "difficulty", "d0/d9c/a28427.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "d0/d9c/a28427.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "d0/d9c/a28427.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "d0/d9c/a28427.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "d0/d9c/a28427.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "ServerMailReward", "d0/d9c/a28427.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "d0/d9c/a28427.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];
