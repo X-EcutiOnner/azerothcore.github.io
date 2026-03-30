@@ -1,5 +1,8 @@
 var a04733 =
 [
-    [ "group_commandscript", "de/db8/a12191.html", "de/db8/a12191" ],
-    [ "AddSC_group_commandscript", "d3/d06/a04733.html#ac4c9434ed910cd9636e0a8644a8e91e1", null ]
+    [ "CorpseUpdateFieldFlags", "d3/d06/a04733.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
+    [ "DynamicObjectUpdateFieldFlags", "d3/d06/a04733.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
+    [ "GameObjectUpdateFieldFlags", "d3/d06/a04733.html#aee13b862f51557c371d3d93341128895", null ],
+    [ "ItemUpdateFieldFlags", "d3/d06/a04733.html#ac1cca7ecf1650663132e3e220d771adf", null ],
+    [ "UnitUpdateFieldFlags", "d3/d06/a04733.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
 ];

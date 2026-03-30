@@ -1,6 +1,7 @@
 var a12690 =
 [
-    [ "near_scarshield_infiltrator", "d5/d2a/a12690.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "d5/d2a/a12690.html#aeb761433e3210ce85c1de4dab653a87c", null ],
-    [ "whisperedTargets", "d5/d2a/a12690.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "HandleDummy", "d5/d2a/a12690.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
+    [ "PrepareSpellScript", "d5/d2a/a12690.html#a6ec124990f202af0c6063c285bf04d88", null ],
+    [ "Register", "d5/d2a/a12690.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
+    [ "Validate", "d5/d2a/a12690.html#ae35efa08f507aac5b72166a216d01870", null ]
 ];

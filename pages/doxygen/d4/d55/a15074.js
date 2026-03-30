@@ -1,6 +1,6 @@
 var a15074 =
 [
-    [ "HandleScriptEffect", "d4/d55/a15074.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
-    [ "PrepareSpellScript", "d4/d55/a15074.html#a55115ca986d5226588d168ced7ab1f55", null ],
-    [ "Register", "d4/d55/a15074.html#ad8811bf48dfb564afcd82cf51b860255", null ]
+    [ "npc_cos_chromie_start", "d4/d55/a15074.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "d4/d55/a15074.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
+    [ "OnQuestAccept", "d4/d55/a15074.html#a038e046773718f5cd55d2b4eb98b3d24", null ]
 ];

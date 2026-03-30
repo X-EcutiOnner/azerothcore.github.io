@@ -1,6 +1,6 @@
 var a18726 =
 [
-    [ "npc_tirion_fordringAI", "d9/d5f/a18730.html", "d9/d5f/a18730" ],
-    [ "npc_tirion_fordring_tft", "de/d0a/a18726.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "de/d0a/a18726.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "npc_gluttonous_abominationAI", "d9/d5f/a18730.html", "d9/d5f/a18730" ],
+    [ "npc_gluttonous_abomination", "de/d0a/a18726.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "de/d0a/a18726.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

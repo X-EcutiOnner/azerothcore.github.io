@@ -1,7 +1,6 @@
 var a19814 =
 [
-    [ "HandlePull", "dc/df5/a19814.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "dc/df5/a19814.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "dc/df5/a19814.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "dc/df5/a19814.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "go_celestial_planetarium_accessAI", "db/dd2/a19818.html", "db/dd2/a19818" ],
+    [ "go_celestial_planetarium_access", "dc/df5/a19814.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "dc/df5/a19814.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

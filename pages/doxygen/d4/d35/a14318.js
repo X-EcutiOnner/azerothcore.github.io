@@ -1,12 +1,10 @@
 var a14318 =
 [
-    [ "npc_akilzon_eagle", "d4/d35/a14318.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
-    [ "JustEngagedWith", "d4/d35/a14318.html#aa5c3d77a1086ad90397d47f081b25476", null ],
-    [ "MoveInLineOfSight", "d4/d35/a14318.html#adefd384b8a273ca52343d836a399f3cb", null ],
-    [ "MovementInform", "d4/d35/a14318.html#abf69be0c32356e65e6d451c33fb389f0", null ],
-    [ "Reset", "d4/d35/a14318.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
-    [ "UpdateAI", "d4/d35/a14318.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
-    [ "arrived", "d4/d35/a14318.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
-    [ "EagleSwoop_Timer", "d4/d35/a14318.html#a37a5861ef690729e2a8bfafddce168be", null ],
-    [ "TargetGUID", "d4/d35/a14318.html#a14d4f82f932569d24f6014ad39640619", null ]
+    [ "npc_batrider", "d4/d35/a14318.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
+    [ "DamageTaken", "d4/d35/a14318.html#ad4818b1363082a91223526908c38777c", null ],
+    [ "JustEngagedWith", "d4/d35/a14318.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
+    [ "Reset", "d4/d35/a14318.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
+    [ "UpdateAI", "d4/d35/a14318.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
+    [ "_mode", "d4/d35/a14318.html#acd53ec78a754219511af1ad2f11422a9", null ],
+    [ "_scheduler", "d4/d35/a14318.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
 ];

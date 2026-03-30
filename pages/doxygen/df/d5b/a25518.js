@@ -1,9 +1,7 @@
 var a25518 =
 [
-    [ "spell_gen_translocate", "df/d5b/a25518.html#a56a3df0eba3e1521aa2898194c39e919", null ],
-    [ "HandleScript", "df/d5b/a25518.html#a67684fb76da60fdc13dbece055dae157", null ],
-    [ "PrepareSpellScript", "df/d5b/a25518.html#a6f0986e54ad410c2f42a7935645485ed", null ],
-    [ "Register", "df/d5b/a25518.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
-    [ "Validate", "df/d5b/a25518.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
-    [ "_spellId", "df/d5b/a25518.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
+    [ "CalculateDamageAmount", "df/d5b/a25518.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "df/d5b/a25518.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "df/d5b/a25518.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "df/d5b/a25518.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

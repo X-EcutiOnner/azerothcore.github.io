@@ -1,5 +1,5 @@
 var a14290 =
 [
-    [ "npc_andorhal_towerAI", "d0/dcf/a14290.html#ad2f8a14f2adfe1418a23de274493f85e", null ],
-    [ "MoveInLineOfSight", "d0/dcf/a14290.html#a1165ee0e066dcaeb300096e55758389b", null ]
+    [ "at_zulgurub_edge_of_madness_speech", "d0/dcf/a14290.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
+    [ "_OnTrigger", "d0/dcf/a14290.html#a725de49be12116f2f7e77edd31a096ae", null ]
 ];

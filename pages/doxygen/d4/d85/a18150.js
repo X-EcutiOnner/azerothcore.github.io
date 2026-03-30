@@ -1,11 +1,6 @@
 var a18150 =
 [
-    [ "CountTargets", "d4/d85/a18150.html#a54f6526359fba124a988ba35c2876fd1", null ],
-    [ "Load", "d4/d85/a18150.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
-    [ "PrepareSpellScript", "d4/d85/a18150.html#a4991d88429ea951c55ef08a90f364d31", null ],
-    [ "Register", "d4/d85/a18150.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
-    [ "TeleportPlayer", "d4/d85/a18150.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
-    [ "TriggerWipe", "d4/d85/a18150.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
-    [ "Validate", "d4/d85/a18150.html#ad2e586d688b413f9ef9a5688d203106a", null ],
-    [ "_playerCount", "d4/d85/a18150.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
+    [ "boss_rotfaceAI", "d7/d4f/a18154.html", "d7/d4f/a18154" ],
+    [ "boss_rotface", "d4/d85/a18150.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d4/d85/a18150.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

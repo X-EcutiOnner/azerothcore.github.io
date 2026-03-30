@@ -1,7 +1,6 @@
 var a16294 =
 [
-    [ "go_troll_cageAI", "d1/d8c/a16294.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "d1/d8c/a16294.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "d1/d8c/a16294.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "d1/d8c/a16294.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "boss_baltharus_the_warbornAI", "d3/dc4/a16298.html", "d3/dc4/a16298" ],
+    [ "boss_baltharus_the_warborn", "d1/d8c/a16294.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "d1/d8c/a16294.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

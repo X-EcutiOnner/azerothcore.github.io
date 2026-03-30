@@ -1,37 +1,10 @@
 var a02975 =
 [
-    [ "npc_bunthen_plainswind", "d9/d01/a15783.html", "d9/d01/a15783" ],
-    [ "npc_great_bear_spirit", "d0/d6c/a15787.html", "d0/d6c/a15787" ],
-    [ "npc_silva_filnaveth", "df/d7a/a15791.html", "df/d7a/a15791" ],
-    [ "npc_clintar_spirit", "d3/d91/a15795.html", "d3/d91/a15795" ],
-    [ "npc_clintar_spirit::npc_clintar_spiritAI", "de/d61/a15799.html", "de/d61/a15799" ],
-    [ "npc_omen", "df/de5/a15803.html", "df/de5/a15803" ],
-    [ "npc_omen::npc_omenAI", "db/d52/a15807.html", "db/d52/a15807" ],
-    [ "npc_giant_spotlight", "d4/d64/a15811.html", "d4/d64/a15811" ],
-    [ "npc_giant_spotlight::npc_giant_spotlightAI", "d8/d1f/a15815.html", "d8/d1f/a15815" ],
-    [ "Bunthen", "d1/d24/a02975.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
-      [ "QUEST_SEA_LION_HORDE", "d1/d24/a02975.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
-      [ "QUEST_SEA_LION_ALLY", "d1/d24/a02975.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
-      [ "TAXI_PATH_ID_ALLY", "d1/d24/a02975.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
-      [ "TAXI_PATH_ID_HORDE", "d1/d24/a02975.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
+    [ "spell_summon_noblegarden_bunny_controller", "da/d46/a14814.html", "da/d46/a14814" ],
+    [ "spell_item_noblegarden_chocolate", "df/d58/a14818.html", "df/d58/a14818" ],
+    [ "eNoblegarden", "d1/d24/a02975.html#a2009b91b1ae924c27559f49fd9fc0e3d", [
+      [ "SPELL_NOBLEGARDEN_BUNNY", "d1/d24/a02975.html#a2009b91b1ae924c27559f49fd9fc0e3da713d80d4de08c5ec515a4d2164f00510", null ],
+      [ "SPELL_WELL_FED", "d1/d24/a02975.html#a2009b91b1ae924c27559f49fd9fc0e3da5e004e090ce4bb16a1328cc8423247ae", null ]
     ] ],
-    [ "ClintarSpirit", "d1/d24/a02975.html#af06e96ced22feb1885564950e05417a2", [
-      [ "ASPECT_RAVEN", "d1/d24/a02975.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
-      [ "CLINTAR_SPIRIT_SAY_START", "d1/d24/a02975.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
-    ] ],
-    [ "Omen", "d1/d24/a02975.html#a7fb152206db70a70437b235647a95793", [
-      [ "NPC_OMEN", "d1/d24/a02975.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
-      [ "SPELL_OMEN_CLEAVE", "d1/d24/a02975.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
-      [ "SPELL_OMEN_STARFALL", "d1/d24/a02975.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
-      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "d1/d24/a02975.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
-      [ "SPELL_ELUNE_CANDLE", "d1/d24/a02975.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
-      [ "GO_ELUNE_TRAP_1", "d1/d24/a02975.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
-      [ "GO_ELUNE_TRAP_2", "d1/d24/a02975.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
-      [ "EVENT_CAST_CLEAVE", "d1/d24/a02975.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
-      [ "EVENT_CAST_STARFALL", "d1/d24/a02975.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
-      [ "EVENT_DESPAWN", "d1/d24/a02975.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
-    ] ],
-    [ "AddSC_moonglade", "d1/d24/a02975.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
-    [ "AspectRavenSummon", "d1/d24/a02975.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
-    [ "Clintar_spirit_WP", "d1/d24/a02975.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
+    [ "AddSC_event_noblegarden_scripts", "d1/d24/a02975.html#a60b11fd113b9059778bb843dd1806c79", null ]
 ];

@@ -1,11 +1,6 @@
 var a20722 =
 [
-    [ "npc_ulduar_expedition_engineer", "d7/dcd/a20722.html#af3fe5048712bae3add6867e998c2824d", null ],
-    [ "Reset", "d7/dcd/a20722.html#a7bbdbdaed353d450161e470e5f656c17", null ],
-    [ "SetData", "d7/dcd/a20722.html#a9a714463750de3513e65174f796fb4de", null ],
-    [ "UpdateAI", "d7/dcd/a20722.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
-    [ "fixingGUID", "d7/dcd/a20722.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
-    [ "pInstance", "d7/dcd/a20722.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
-    [ "timer", "d7/dcd/a20722.html#a57f187130777929a921e2c35b6f43559", null ],
-    [ "working", "d7/dcd/a20722.html#a3450381dc89cabede2ccde6feab96dad", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "d7/dcd/a20722.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "d7/dcd/a20722.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "d7/dcd/a20722.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

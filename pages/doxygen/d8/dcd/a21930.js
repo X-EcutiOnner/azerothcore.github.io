@@ -1,6 +1,6 @@
 var a21930 =
 [
-    [ "CheckRequirement", "d8/dcd/a21930.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d8/dcd/a21930.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d8/dcd/a21930.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "HandleScriptEffect", "d8/dcd/a21930.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "d8/dcd/a21930.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "d8/dcd/a21930.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

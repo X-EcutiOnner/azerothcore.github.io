@@ -1,8 +1,7 @@
 var a13650 =
 [
-    [ "npc_apothecary_baxter", "d9/d3f/a13650.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
-    [ "JustDied", "d9/d3f/a13650.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
-    [ "Reset", "d9/d3f/a13650.html#afee5103029bd761c48cbf6a11655c44a", null ],
-    [ "UpdateAI", "d9/d3f/a13650.html#ad06090f599d0fda3a88f3182c990a49f", null ],
-    [ "_scheduler", "d9/d3f/a13650.html#a6d813041e055f3c2b28be7cba3acde13", null ]
+    [ "OnRemove", "d9/d3f/a13650.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
+    [ "PrepareAuraScript", "d9/d3f/a13650.html#ade353aafb960cabdb615718f41f485e8", null ],
+    [ "Register", "d9/d3f/a13650.html#af1c312778a13f7fe8d174247f69258ac", null ],
+    [ "Validate", "d9/d3f/a13650.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
 ];

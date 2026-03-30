@@ -1,6 +1,7 @@
 var a17178 =
 [
-    [ "HandleDummy", "d5/dad/a17178.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
-    [ "PrepareSpellScript", "d5/dad/a17178.html#accbf8f40b1ab123a2be81a514c94c836", null ],
-    [ "Register", "d5/dad/a17178.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
+    [ "UtherBatteredHiltEvent", "d5/dad/a17178.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d5/dad/a17178.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d5/dad/a17178.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d5/dad/a17178.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

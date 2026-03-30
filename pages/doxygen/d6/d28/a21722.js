@@ -1,5 +1,8 @@
 var a21722 =
 [
-    [ "go_the_pearl_of_the_depths", "d6/d28/a21722.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "d6/d28/a21722.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "CheckCast", "d6/d28/a21722.html#a49e425fa95e5107f38aa16e546674b7d", null ],
+    [ "HandleScript", "d6/d28/a21722.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
+    [ "PrepareSpellScript", "d6/d28/a21722.html#a9e7a1239e165131b70c437793b5371d0", null ],
+    [ "Register", "d6/d28/a21722.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
+    [ "Validate", "d6/d28/a21722.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
 ];

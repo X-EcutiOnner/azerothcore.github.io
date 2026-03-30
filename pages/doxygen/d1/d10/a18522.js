@@ -1,12 +1,10 @@
 var a18522 =
 [
-    [ "npc_precious_iccAI", "d1/d10/a18522.html#a90dff89c652339ecf7479d2c9233962a", null ],
-    [ "JustDied", "d1/d10/a18522.html#a06671144929a3783f17397b818016032", null ],
-    [ "JustEngagedWith", "d1/d10/a18522.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
-    [ "JustSummoned", "d1/d10/a18522.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
-    [ "Reset", "d1/d10/a18522.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
-    [ "SummonedCreatureDespawn", "d1/d10/a18522.html#af59e24c588861fe7d1bcd456780f571a", null ],
-    [ "UpdateAI", "d1/d10/a18522.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
-    [ "events", "d1/d10/a18522.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
-    [ "summons", "d1/d10/a18522.html#ab752e504c7cf463a4447a07fbb67211c", null ]
+    [ "HandleScript", "d1/d10/a18522.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "d1/d10/a18522.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "d1/d10/a18522.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "d1/d10/a18522.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "d1/d10/a18522.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "d1/d10/a18522.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "d1/d10/a18522.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

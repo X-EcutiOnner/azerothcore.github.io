@@ -1,8 +1,6 @@
 var a27370 =
 [
-    [ "CheckProc", "df/d34/a27370.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
-    [ "HandleProc", "df/d34/a27370.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
-    [ "PrepareAuraScript", "df/d34/a27370.html#a91ef63b96918e797e677423d51f94112", null ],
-    [ "Register", "df/d34/a27370.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
-    [ "Validate", "df/d34/a27370.html#ab6178007664afc34556336ec9620cd4f", null ]
+    [ "HandleBanish", "df/d34/a27370.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
+    [ "PrepareSpellScript", "df/d34/a27370.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
+    [ "Register", "df/d34/a27370.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
 ];

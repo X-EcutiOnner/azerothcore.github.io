@@ -1,6 +1,6 @@
 var a15802 =
 [
-    [ "HandleApply", "d2/db8/a15802.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
-    [ "PrepareAuraScript", "d2/db8/a15802.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
-    [ "Register", "d2/db8/a15802.html#ade5c710416516760cc69f77750aa2a1f", null ]
+    [ "npc_giant_spotlightAI", "dc/dd5/a15806.html", "dc/dd5/a15806" ],
+    [ "npc_giant_spotlight", "d2/db8/a15802.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "d2/db8/a15802.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

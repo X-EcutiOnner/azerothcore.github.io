@@ -1,6 +1,8 @@
 var a15170 =
 [
-    [ "OnRemove", "dc/df8/a15170.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "dc/df8/a15170.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "dc/df8/a15170.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "Load", "dc/df8/a15170.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "dc/df8/a15170.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "dc/df8/a15170.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "dc/df8/a15170.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "dc/df8/a15170.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

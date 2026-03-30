@@ -1,4 +1,5 @@
 var a08746 =
 [
-    [ "PetLoadQueryHolder", "df/d5a/a08746.html#a8dee71a2e729d239b7b05bc172c09e3b", null ]
+    [ "PositionXYZOStreamer", "df/d5a/a08746.html#afddf48b02eea5399d818468cdf8795c5", null ],
+    [ "m_pos", "df/d5a/a08746.html#a6c2be4021912b753ed7da07f1c6a7464", null ]
 ];

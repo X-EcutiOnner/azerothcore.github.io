@@ -1,6 +1,6 @@
 var a25870 =
 [
-    [ "HandleActivateObject", "d6/d7e/a25870.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "d6/d7e/a25870.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "d6/d7e/a25870.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "HandleScriptEffect", "d6/d7e/a25870.html#a14df2ed73118826254a6ffa923063f6c", null ],
+    [ "PrepareSpellScript", "d6/d7e/a25870.html#a1b20ba3fe209ebf0100f32d4013f2d08", null ],
+    [ "Register", "d6/d7e/a25870.html#ac70a96209898dc6f2c7b2532dc9f5e6c", null ]
 ];

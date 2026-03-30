@@ -1,7 +1,8 @@
 var a26234 =
 [
-    [ "CheckCast", "d3/dd4/a26234.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "d3/dd4/a26234.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "d3/dd4/a26234.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "d3/dd4/a26234.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "CheckProc", "d3/dd4/a26234.html#a23dc61d8a007832a37ab7da71c36537d", null ],
+    [ "HandleProc", "d3/dd4/a26234.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "d3/dd4/a26234.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "d3/dd4/a26234.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "d3/dd4/a26234.html#a3d2d6f1a00825ac66f507a790f468198", null ]
 ];

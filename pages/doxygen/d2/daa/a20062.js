@@ -1,9 +1,5 @@
 var a20062 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d2/daa/a20062.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "d2/daa/a20062.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "d2/daa/a20062.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "d2/daa/a20062.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "d2/daa/a20062.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "d2/daa/a20062.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "boss_freya_iron_root", "d2/daa/a20062.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "d2/daa/a20062.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
 ];

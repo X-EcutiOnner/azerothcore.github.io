@@ -1,6 +1,5 @@
 var a15770 =
 [
-    [ "HandleDummy", "d8/d3c/a15770.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "d8/d3c/a15770.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "d8/d3c/a15770.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "at_ancient_leaf", "d8/d3c/a15770.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "d8/d3c/a15770.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

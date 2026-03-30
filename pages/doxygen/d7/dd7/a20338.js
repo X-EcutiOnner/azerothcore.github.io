@@ -1,6 +1,8 @@
 var a20338 =
 [
-    [ "achievement_flame_leviathan_towers", "d7/dd7/a20338.html#a491d66bdd373b6044e406126719ef910", null ],
-    [ "OnCheck", "d7/dd7/a20338.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
-    [ "_towerCount", "d7/dd7/a20338.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
+    [ "npc_ulduar_mimiron_rocket", "d7/dd7/a20338.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
+    [ "InitializeAI", "d7/dd7/a20338.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "d7/dd7/a20338.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetData", "d7/dd7/a20338.html#a507124f21657b62ff2b68060b52503b1", null ],
+    [ "UpdateAI", "d7/dd7/a20338.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
 ];

@@ -1,6 +1,7 @@
 var a26698 =
 [
-    [ "HandleEffectCalcSpellMod", "df/d3c/a26698.html#a81395c735b9546632af71319067b575b", null ],
-    [ "PrepareAuraScript", "df/d3c/a26698.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
-    [ "Register", "df/d3c/a26698.html#ae49a0ec525819981595c12839133a35b", null ]
+    [ "if", "df/d3c/a26698.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "df/d3c/a26698.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "df/d3c/a26698.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "df/d3c/a26698.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

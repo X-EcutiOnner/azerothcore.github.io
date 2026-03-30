@@ -1,13 +1,12 @@
 var a22810 =
 [
-    [ "boss_illidari_council_memberAI", "db/d4a/a22810.html#ac32366dfad13cd37ced2428d041e25c9", null ],
-    [ "DamageTaken", "db/d4a/a22810.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
-    [ "DoAction", "db/d4a/a22810.html#a203310b84d71a24145b1c39e7faff182", null ],
-    [ "EnterEvadeMode", "db/d4a/a22810.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
-    [ "JustDied", "db/d4a/a22810.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
-    [ "JustEngagedWith", "db/d4a/a22810.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
-    [ "KilledUnit", "db/d4a/a22810.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
-    [ "Reset", "db/d4a/a22810.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
-    [ "events", "db/d4a/a22810.html#ad47a350f5ed066e04816e72961a80bd0", null ],
-    [ "instance", "db/d4a/a22810.html#adb11720cd0fd87a42b9a78490a70251e", null ]
+    [ "boss_fathomlord_karathress", "db/d4a/a22810.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "db/d4a/a22810.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "db/d4a/a22810.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "db/d4a/a22810.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "db/d4a/a22810.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "db/d4a/a22810.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "db/d4a/a22810.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "db/d4a/a22810.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "db/d4a/a22810.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

@@ -1,7 +1,7 @@
 var a13606 =
 [
-    [ "HandleScript", "dc/de5/a13606.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
-    [ "PrepareSpellScript", "dc/de5/a13606.html#a034195e58f02225c172b70c3967fe3ad", null ],
-    [ "Register", "dc/de5/a13606.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
-    [ "Validate", "dc/de5/a13606.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
+    [ "HandleScriptEffect", "dc/de5/a13606.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "dc/de5/a13606.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "dc/de5/a13606.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "dc/de5/a13606.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

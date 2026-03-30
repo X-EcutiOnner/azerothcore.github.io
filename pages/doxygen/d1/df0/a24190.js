@@ -1,5 +1,6 @@
 var a24190 =
 [
-    [ "creature", "d1/df0/a24190.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
-    [ "Timer", "d1/df0/a24190.html#a2be497dc190c1f01f939e12083739882", null ]
+    [ "PrepareSpellScript", "d1/df0/a24190.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
+    [ "Register", "d1/df0/a24190.html#a4b349a325759517c35d04202e5df9cec", null ],
+    [ "SetDest", "d1/df0/a24190.html#a951f733ab2452655a3b579f8ed190fb0", null ]
 ];

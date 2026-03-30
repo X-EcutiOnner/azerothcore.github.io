@@ -1,9 +1,13 @@
 var a22194 =
 [
-    [ "npc_engineer_heliceAI", "da/dbe/a22194.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "da/dbe/a22194.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "da/dbe/a22194.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "da/dbe/a22194.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "da/dbe/a22194.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "m_uiChatTimer", "da/dbe/a22194.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "OPvPCapturePointEP_PWT", "da/dbe/a22194.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
+    [ "ChangeState", "da/dbe/a22194.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
+    [ "FillInitialWorldStates", "da/dbe/a22194.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
+    [ "HandlePlayerEnter", "da/dbe/a22194.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
+    [ "HandlePlayerLeave", "da/dbe/a22194.html#a5772e54263c613eee365856def5e74e6", null ],
+    [ "SendChangePhase", "da/dbe/a22194.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
+    [ "SummonFlightMaster", "da/dbe/a22194.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
+    [ "UpdateTowerState", "da/dbe/a22194.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
+    [ "m_FlightMasterSpawnedId", "da/dbe/a22194.html#afeefd804849b925e6d0a880d8efb5319", null ],
+    [ "m_TowerState", "da/dbe/a22194.html#a914dcbb37baf457750cfe9829d95d88c", null ]
 ];

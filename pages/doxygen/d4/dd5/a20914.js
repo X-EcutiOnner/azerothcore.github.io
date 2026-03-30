@@ -1,10 +1,8 @@
 var a20914 =
 [
-    [ "boss_yoggsaron_constrictor_tentacle", "d4/dd5/a20914.html#a3206b641b6c6dffdabb8cacc09ac564a", null ],
-    [ "DoAction", "d4/dd5/a20914.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
-    [ "JustDied", "d4/dd5/a20914.html#aac8f5a80248c4616074e7ef88fb10395", null ],
-    [ "SelectConstrictTarget", "d4/dd5/a20914.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
-    [ "UpdateAI", "d4/dd5/a20914.html#a930b35c2385ba2977f2f2da3b4b38f07", null ],
-    [ "_checkTimer", "d4/dd5/a20914.html#aa6c76606c7c9e6ee71e94433cb721f96", null ],
-    [ "_playerGUID", "d4/dd5/a20914.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
+    [ "CountTargets", "d4/dd5/a20914.html#aaf8528038c6b3172d4810ed773f71644", null ],
+    [ "HandleDummy", "d4/dd5/a20914.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
+    [ "PrepareSpellScript", "d4/dd5/a20914.html#a1f31273cb1826cd07196eacfbdc46673", null ],
+    [ "Register", "d4/dd5/a20914.html#adce6a5d920ac616dc0579fcd96c49288", null ],
+    [ "_targetCount", "d4/dd5/a20914.html#acfd8832cb9a197dddb034a003b318911", null ]
 ];

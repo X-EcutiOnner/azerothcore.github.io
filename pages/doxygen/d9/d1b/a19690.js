@@ -1,8 +1,6 @@
 var a19690 =
 [
-    [ "HandleAfterCast", "d9/d1b/a19690.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "d9/d1b/a19690.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "d9/d1b/a19690.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "d9/d1b/a19690.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "d9/d1b/a19690.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d9/d7f/a19694.html", "d9/d7f/a19694" ],
+    [ "instance_halls_of_lightning", "d9/d1b/a19690.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "d9/d1b/a19690.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

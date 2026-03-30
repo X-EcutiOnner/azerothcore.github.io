@@ -1,8 +1,8 @@
 var a09726 =
 [
-    [ "AllDeadCreaturesInRange", "db/d8d/a09726.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
-    [ "operator()", "db/d8d/a09726.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
-    [ "_obj", "db/d8d/a09726.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
-    [ "_range", "db/d8d/a09726.html#a431ada86a2b864d53773a85b05d8da4f", null ],
-    [ "_reqAlive", "db/d8d/a09726.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
+    [ "AllCreaturesOfEntryInRange", "db/d8d/a09726.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "db/d8d/a09726.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "db/d8d/a09726.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "db/d8d/a09726.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "db/d8d/a09726.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

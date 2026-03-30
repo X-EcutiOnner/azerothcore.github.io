@@ -1,6 +1,7 @@
 var a18122 =
 [
-    [ "npc_gunship_gunnerAI", "d5/dff/a18126.html", "d5/dff/a18126" ],
-    [ "npc_gunship_gunner", "da/dbe/a18122.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "da/dbe/a18122.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "HandleSummon", "da/dbe/a18122.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
+    [ "PrepareSpellScript", "da/dbe/a18122.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
+    [ "Register", "da/dbe/a18122.html#a01281869dc98a0af5027695391f1221f", null ],
+    [ "Validate", "da/dbe/a18122.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
 ];

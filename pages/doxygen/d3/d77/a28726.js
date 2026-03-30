@@ -1,5 +1,5 @@
 var a28726 =
 [
-    [ "go_transport_the_thundercaller", "d3/d77/a28726.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "d3/d77/a28726.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "ID", "d3/d77/a28726.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "d3/d77/a28726.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

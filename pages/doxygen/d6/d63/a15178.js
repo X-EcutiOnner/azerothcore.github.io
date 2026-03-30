@@ -1,6 +1,6 @@
 var a15178 =
 [
-    [ "FilterTargets", "d6/d63/a15178.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "d6/d63/a15178.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "d6/d63/a15178.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "instance_dire_maul_InstanceMapScript", "db/d45/a15182.html", "db/d45/a15182" ],
+    [ "instance_dire_maul", "d6/d63/a15178.html#a54ac2c7095a99481c7efbe4237533fac", null ],
+    [ "GetInstanceScript", "d6/d63/a15178.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
 ];

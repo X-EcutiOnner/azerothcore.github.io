@@ -1,14 +1,18 @@
 var a08930 =
 [
-    [ "PassengerSet", "d9/d07/a08930.html#aa6421ebd51e84c819604e18e93729d27", null ],
-    [ "Transport", "d9/d07/a08930.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
-    [ "AddPassenger", "d9/d07/a08930.html#ac5c328f816b0358a68265322219357c1", null ],
-    [ "CalculatePassengerOffset", "d9/d07/a08930.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
-    [ "CalculatePassengerPosition", "d9/d07/a08930.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
-    [ "DelayedUpdate", "d9/d07/a08930.html#aabc885fccc7a4a4d6a98f9ed8b39cd43", null ],
-    [ "GetPassengers", "d9/d07/a08930.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
-    [ "GetPathProgress", "d9/d07/a08930.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
-    [ "RemovePassenger", "d9/d07/a08930.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
-    [ "SetPathProgress", "d9/d07/a08930.html#acb68e75a78fa196a4b514abd24c0e322", null ],
-    [ "_passengers", "d9/d07/a08930.html#adc2089495aadaab23414ecae3b2df180", null ]
+    [ "PlayerSocialMap", "d9/d07/a08930.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
+    [ "PlayerSocial", "d9/d07/a08930.html#ad505f01fad548b70cf070a86dce40278", null ],
+    [ "_checkContact", "d9/d07/a08930.html#a1c94f00cd1955a8c93dea5d4e67f166a", null ],
+    [ "AddToSocialList", "d9/d07/a08930.html#af7bf3dd0cddc41715d5122829aa5f281", null ],
+    [ "GetNumberOfSocialsWithFlag", "d9/d07/a08930.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
+    [ "GetPlayerGUID", "d9/d07/a08930.html#a253736ece6f1b1ec6617929ca92d2e77", null ],
+    [ "HasFriend", "d9/d07/a08930.html#a8c5e3e13b6e912de5048c6a1d6e4003a", null ],
+    [ "HasIgnore", "d9/d07/a08930.html#afdda7de77a9c5b48730b9b7fca36b080", null ],
+    [ "RemoveFromSocialList", "d9/d07/a08930.html#a422b92edba3d2b3a7eaa5749dbceea4f", null ],
+    [ "SendSocialList", "d9/d07/a08930.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
+    [ "SetFriendNote", "d9/d07/a08930.html#ace28c99a43b6c9645550d0c30f8184df", null ],
+    [ "SetPlayerGUID", "d9/d07/a08930.html#a1206fafb9f3ea29ee954e4f7684e0051", null ],
+    [ "SocialMgr", "d9/d07/a08930.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
+    [ "m_playerGUID", "d9/d07/a08930.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
+    [ "m_playerSocialMap", "d9/d07/a08930.html#a608444605a276e67a868b7ceac94a954", null ]
 ];

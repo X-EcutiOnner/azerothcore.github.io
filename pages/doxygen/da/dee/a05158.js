@@ -1,12 +1,6 @@
 var a05158 =
 [
-    [ "base", "da/dee/a05158.html#a810cca29867b0864537650c7dc26a270", null ],
-    [ "Model", "da/dee/a05158.html#af55ad14532683c79e402195333fcba18", null ],
-    [ "DynTreeImpl", "da/dee/a05158.html#afa10e244de517c1808ba5401a726a94f", null ],
-    [ "balance", "da/dee/a05158.html#a589f4028f0a9dca9901ad77fd71b44db", null ],
-    [ "insert", "da/dee/a05158.html#ab31def0d383072bc7ca3def402d7e052", null ],
-    [ "remove", "da/dee/a05158.html#a74369a94f135b664528f91f5050894cb", null ],
-    [ "update", "da/dee/a05158.html#ae41bd2b901a27801da839c3345e8a2ed", null ],
-    [ "rebalance_timer", "da/dee/a05158.html#a752ef384318fa1652ad94f0ff72d1574", null ],
-    [ "unbalanced_times", "da/dee/a05158.html#ad1e55f97cb7d72beefcd68649a7eb6bf", null ]
+    [ "node", "da/dee/a05158.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491", null ],
+    [ "tfar", "da/dee/a05158.html#ad53b746617dd5a46930dae493d7488d9", null ],
+    [ "tnear", "da/dee/a05158.html#a938ca2ace2aa498abdda93ee824b6f09", null ]
 ];

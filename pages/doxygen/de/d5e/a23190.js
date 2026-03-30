@@ -1,6 +1,11 @@
 var a23190 =
 [
-    [ "HandleDummy", "de/d5e/a23190.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "de/d5e/a23190.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "de/d5e/a23190.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "boss_high_king_maulgar", "de/d5e/a23190.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "de/d5e/a23190.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "de/d5e/a23190.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "de/d5e/a23190.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "de/d5e/a23190.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "de/d5e/a23190.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "de/d5e/a23190.html#ae540909dbbb3cf93e37503cd755c3001", null ],
+    [ "_recentlySpoken", "de/d5e/a23190.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
 ];

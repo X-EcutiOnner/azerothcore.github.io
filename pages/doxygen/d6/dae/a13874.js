@@ -1,10 +1,6 @@
 var a13874 =
 [
-    [ "MoveDelayed", "d6/dae/a13874.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
-    [ "Execute", "d6/dae/a13874.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
-    [ "_o", "d6/dae/a13874.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
-    [ "_owner", "d6/dae/a13874.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
-    [ "_x", "d6/dae/a13874.html#aa490d19022c27932e76af38281fe158b", null ],
-    [ "_y", "d6/dae/a13874.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
-    [ "_z", "d6/dae/a13874.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
+    [ "npc_lor_themar_theron", "d6/dae/a13874.html#acf8b65675cc46949440a829fc1adf5fc", null ],
+    [ "JustDied", "d6/dae/a13874.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
+    [ "UpdateAI", "d6/dae/a13874.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
 ];

@@ -1,7 +1,6 @@
 var a18882 =
 [
-    [ "CalculateBonus", "d8/da2/a18882.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "d8/da2/a18882.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "d8/da2/a18882.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "d8/da2/a18882.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "npc_arthas_teleport_visualAI", "de/ded/a18886.html", "de/ded/a18886" ],
+    [ "npc_arthas_teleport_visual", "d8/da2/a18882.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "d8/da2/a18882.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

@@ -1,18 +1,18 @@
 var searchData=
 [
-  ['jainaguid_0',['jainaGUID',['../de/d24/a14019.html#a4bb7979acbcdbe3345289a5194dc6737',1,'npc_varian_wrynn::npc_varian_wrynnAI']]],
-  ['jainaguid_1',['JainaGUID',['../df/d5d/a14047.html#aaf200bc2ab00524cd78d7cccc141d31d',1,'npc_thrall_bfu::npc_thrall_bfuAI']]],
-  ['jainaspawnpos_2',['JainaSpawnPos',['../dc/d72/a04172.html#aff26eada4fd391d31073d6376a089160',1,'instance_icecrown_citadel.cpp']]],
-  ['janalainpos_3',['janalainPos',['../d8/d7b/a03941.html#a221fad04fa8f0cb38b93a539fbd03d2e',1,'boss_janalai.cpp']]],
-  ['jedogaposition_4',['JedogaPosition',['../d1/d04/a04361.html#a478ab8fa49ee82fd1260096de7ab6b0d',1,'boss_jedoga_shadowseeker.cpp']]],
-  ['jeklikcavehomeposition_5',['JeklikCaveHomePosition',['../dd/d27/a03989.html#a356691fb1fda39a6fc69d756f3188dba',1,'boss_jeklik.cpp']]],
-  ['joinmessage_6',['joinMessage',['../d0/d17/a07763.html#af8797ef8c642f3a954b1581fb54ed545',1,'ChannelRights']]],
-  ['joinpos_7',['joinPos',['../d4/d08/a08883.html#abfdc0ccd945f60e0a3ec37d278c96940',1,'EntryPointData']]],
-  ['jointime_8',['joinTime',['../dd/da9/a08243.html#a240fcc11f3fd9d27fa913f80828522f2',1,'lfg::LfgQueueData']]],
-  ['jointime_9',['JoinTime',['../d8/dd8/a07591.html#a44939a98ff1ec940e42e79faf31a2e9a',1,'GroupQueueInfo']]],
-  ['jump_10',['jump',['../d3/d06/a06707.html#a85ce78a3fa69eb45aeeb951d94492e53',1,'SmartAction::jump()'],['../d7/d00/a08651.html#a920a536b873fcc63dd6bb22882a7a8ea',1,'MovementInfo::jump()']]],
-  ['jumpdistance_11',['JumpDistance',['../dc/dcc/a11703.html#a488de86d200a06710977c145dc37b2c2',1,'SpellInfo']]],
-  ['jumping_12',['jumping',['../d4/d1c/a24123.html#a8486512b7594f2ce759fcb580f1baf34',1,'npc_pet_gen_plump_turkey']]],
-  ['jumptimer_13',['jumpTimer',['../d4/d1c/a24123.html#ad53a9abad41ab6a792a55b854155135d',1,'npc_pet_gen_plump_turkey::jumpTimer()'],['../d9/dec/a28327.html#a5c17e00187ac87b23482dfbabb89809b',1,'npc_spring_rabbit::npc_spring_rabbitAI::jumpTimer()']]],
-  ['justsummoned_14',['JustSummoned',['../d8/dc4/a19619.html#a8b656a464525e881944e72e9486b0eb9',1,'npc_oculus_drake::npc_oculus_drakeAI']]]
+  ['jainaguid_0',['JainaGUID',['../db/dac/a14042.html#aaf200bc2ab00524cd78d7cccc141d31d',1,'npc_thrall_bfu::npc_thrall_bfuAI']]],
+  ['jainaguid_1',['jainaGUID',['../d8/da9/a14014.html#a4bb7979acbcdbe3345289a5194dc6737',1,'npc_varian_wrynn::npc_varian_wrynnAI']]],
+  ['jainaspawnpos_2',['JainaSpawnPos',['../de/db4/a02684.html#aff26eada4fd391d31073d6376a089160',1,'instance_icecrown_citadel.cpp']]],
+  ['janalainpos_3',['janalainPos',['../d3/d53/a01262.html#a221fad04fa8f0cb38b93a539fbd03d2e',1,'boss_janalai.cpp']]],
+  ['jedogaposition_4',['JedogaPosition',['../d5/d95/a02720.html#a478ab8fa49ee82fd1260096de7ab6b0d',1,'boss_jedoga_shadowseeker.cpp']]],
+  ['jeklikcavehomeposition_5',['JeklikCaveHomePosition',['../de/d1f/a01364.html#a356691fb1fda39a6fc69d756f3188dba',1,'boss_jeklik.cpp']]],
+  ['joinmessage_6',['joinMessage',['../d1/d66/a07770.html#af8797ef8c642f3a954b1581fb54ed545',1,'ChannelRights']]],
+  ['joinpos_7',['joinPos',['../df/d30/a08890.html#abfdc0ccd945f60e0a3ec37d278c96940',1,'EntryPointData']]],
+  ['jointime_8',['joinTime',['../de/d0d/a08250.html#a240fcc11f3fd9d27fa913f80828522f2',1,'lfg::LfgQueueData']]],
+  ['jointime_9',['JoinTime',['../d9/da8/a07598.html#a44939a98ff1ec940e42e79faf31a2e9a',1,'GroupQueueInfo']]],
+  ['jump_10',['jump',['../df/dc1/a06714.html#a85ce78a3fa69eb45aeeb951d94492e53',1,'SmartAction::jump()'],['../de/d8f/a08658.html#a920a536b873fcc63dd6bb22882a7a8ea',1,'MovementInfo::jump()']]],
+  ['jumpdistance_11',['JumpDistance',['../d0/d20/a11710.html#a488de86d200a06710977c145dc37b2c2',1,'SpellInfo']]],
+  ['jumping_12',['jumping',['../d9/d63/a24090.html#a8486512b7594f2ce759fcb580f1baf34',1,'npc_pet_gen_plump_turkey']]],
+  ['jumptimer_13',['jumpTimer',['../d9/d63/a24090.html#ad53a9abad41ab6a792a55b854155135d',1,'npc_pet_gen_plump_turkey::jumpTimer()'],['../df/db6/a28294.html#a5c17e00187ac87b23482dfbabb89809b',1,'npc_spring_rabbit::npc_spring_rabbitAI::jumpTimer()']]],
+  ['justsummoned_14',['JustSummoned',['../d4/d20/a19594.html#a8b656a464525e881944e72e9486b0eb9',1,'npc_oculus_drake::npc_oculus_drakeAI']]]
 ];

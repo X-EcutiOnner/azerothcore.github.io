@@ -1,9 +1,7 @@
 var a16746 =
 [
-    [ "npc_memoryAI", "d7/d80/a16746.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "d7/d80/a16746.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "d7/d80/a16746.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "d7/d80/a16746.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "d7/d80/a16746.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "d7/d80/a16746.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "npc_toc_dkAI", "d7/d80/a16746.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
+    [ "myCanCast", "d7/d80/a16746.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
+    [ "UpdateAI", "d7/d80/a16746.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
+    [ "events", "d7/d80/a16746.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
 ];

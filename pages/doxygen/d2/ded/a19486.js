@@ -1,7 +1,7 @@
 var a19486 =
 [
-    [ "OnApply", "d2/ded/a19486.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "d2/ded/a19486.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "d2/ded/a19486.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "d2/ded/a19486.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "boss_commander_stoutbeard", "d2/ded/a19486.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "d2/ded/a19486.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "d2/ded/a19486.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "d2/ded/a19486.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

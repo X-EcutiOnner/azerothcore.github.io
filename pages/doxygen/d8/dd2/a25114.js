@@ -1,6 +1,6 @@
 var a25114 =
 [
-    [ "HandleDummy", "d8/dd2/a25114.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "d8/dd2/a25114.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "d8/dd2/a25114.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "HandleScriptEffect", "d8/dd2/a25114.html#a78a131bdf6a1406604edd130c28d664b", null ],
+    [ "PrepareSpellScript", "d8/dd2/a25114.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
+    [ "Register", "d8/dd2/a25114.html#a8a70913369aa733160366f37ff1c3470", null ]
 ];

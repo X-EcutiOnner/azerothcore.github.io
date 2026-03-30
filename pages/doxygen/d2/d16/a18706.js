@@ -1,6 +1,7 @@
 var a18706 =
 [
-    [ "LichKingMovieEvent", "d2/d16/a18706.html#a3e48e13dc5166c73a9f379045988f86a", null ],
-    [ "Execute", "d2/d16/a18706.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
-    [ "_owner", "d2/d16/a18706.html#a7ed68f442a644d6bb7a036812351d89e", null ]
+    [ "npc_blazing_skeletonAI", "d2/d16/a18706.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "d2/d16/a18706.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "d2/d16/a18706.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "d2/d16/a18706.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

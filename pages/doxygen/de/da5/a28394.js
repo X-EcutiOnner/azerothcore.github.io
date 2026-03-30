@@ -1,6 +1,5 @@
 var a28394 =
 [
-    [ "npc_innkeeper", "de/da5/a28394.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "de/da5/a28394.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "de/da5/a28394.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "ServerMailReward", "de/da5/a28394.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "de/da5/a28394.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

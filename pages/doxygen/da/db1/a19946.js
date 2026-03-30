@@ -1,8 +1,9 @@
 var a19946 =
 [
-    [ "HandleOnEffectApply", "da/db1/a19946.html#ac852d761940494f78b50ba3b060057a2", null ],
-    [ "HandleOnEffectRemove", "da/db1/a19946.html#a6764750586be8b57d52a2dba87d89e76", null ],
-    [ "PrepareAuraScript", "da/db1/a19946.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
-    [ "Register", "da/db1/a19946.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
-    [ "Validate", "da/db1/a19946.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
+    [ "npc_hodirs_fury", "da/db1/a19946.html#abda902842d76a0a5a17196a11654f5ab", null ],
+    [ "MovementInform", "da/db1/a19946.html#a4d82007c5b70edad74b461948629b9fb", null ],
+    [ "Reset", "da/db1/a19946.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
+    [ "UpdateAI", "da/db1/a19946.html#a58a8b1664bb00b930cce86e856facb8b", null ],
+    [ "_switchTargetTimer", "da/db1/a19946.html#a9736332e6f3d163f04aa12cbd6829670", null ],
+    [ "_timeToHit", "da/db1/a19946.html#a611d171dc27bd78d298040eabfc00e5f", null ]
 ];

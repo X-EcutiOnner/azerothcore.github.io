@@ -1,6 +1,6 @@
 var a17222 =
 [
-    [ "HandleScript", "d3/dd5/a17222.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "d3/dd5/a17222.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "d3/dd5/a17222.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "boss_tyrannusAI", "d0/d9d/a17226.html", "d0/d9d/a17226" ],
+    [ "boss_tyrannus", "d3/dd5/a17222.html#a81373192ffea8817cb72b80f4629da43", null ],
+    [ "GetAI", "d3/dd5/a17222.html#ad107030de1427d070305f5dcef96c016", null ]
 ];

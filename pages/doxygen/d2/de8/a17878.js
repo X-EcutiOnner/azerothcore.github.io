@@ -1,7 +1,9 @@
 var a17878 =
 [
-    [ "PeriodicTick", "d2/de8/a17878.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "d2/de8/a17878.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "d2/de8/a17878.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "d2/de8/a17878.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "CalculateDamage", "d2/de8/a17878.html#a6a9e90d9463825b38b69afc234b35b39", null ],
+    [ "PrepareSpellScript", "d2/de8/a17878.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
+    [ "Register", "d2/de8/a17878.html#a2722814a55469e5bae572766ed36309b", null ],
+    [ "RemoveEnergy", "d2/de8/a17878.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
+    [ "StoreEnergy", "d2/de8/a17878.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
+    [ "_energyLeft", "d2/de8/a17878.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
 ];

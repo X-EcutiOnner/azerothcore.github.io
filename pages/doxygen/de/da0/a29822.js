@@ -1,5 +1,10 @@
 var a29822 =
 [
-    [ "CalculateSpellTypeMask", "de/da0/a29822.html#ad4f136e69c7553ac32b1de047bf73c59", null ],
-    [ "SetUp", "de/da0/a29822.html#a57be47f0c3962451b527ffe247dee814", null ]
+    [ "WDTFile", "de/da0/a29822.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
+    [ "~WDTFile", "de/da0/a29822.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
+    [ "GetMap", "de/da0/a29822.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
+    [ "init", "de/da0/a29822.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
+    [ "_file", "de/da0/a29822.html#a54ab64288144b9cf4904e67bb359e524", null ],
+    [ "_wmoNames", "de/da0/a29822.html#a6ec4f95ff866585403670b620a42a857", null ],
+    [ "filename", "de/da0/a29822.html#ab3dac8623598bac1152a514a00126bf6", null ]
 ];

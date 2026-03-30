@@ -1,11 +1,10 @@
 var a20638 =
 [
-    [ "npc_ulduar_proximity_mine", "d5/dc2/a20638.html#ab9ce5859157d12f4577eda515a183ef6", null ],
-    [ "AttackStart", "d5/dc2/a20638.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "d5/dc2/a20638.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "d5/dc2/a20638.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "d5/dc2/a20638.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "exploded", "d5/dc2/a20638.html#a3e291553aa853ebb5ff002599c68376c", null ],
-    [ "timer", "d5/dc2/a20638.html#a8c69d475914fb11c149fea527d31f758", null ],
-    [ "timer2", "d5/dc2/a20638.html#a8feed3514cc188da930ef45bbaa2ff50", null ]
+    [ "boss_yoggsaron_voice", "d5/dc2/a20638.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
+    [ "Reset", "d5/dc2/a20638.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "d5/dc2/a20638.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "d5/dc2/a20638.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "d5/dc2/a20638.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "d5/dc2/a20638.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "d5/dc2/a20638.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

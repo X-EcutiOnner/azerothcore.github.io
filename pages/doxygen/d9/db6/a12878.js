@@ -1,9 +1,7 @@
 var a12878 =
 [
-    [ "boss_baron_geddonAI", "d9/db6/a12878.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
-    [ "DamageTaken", "d9/db6/a12878.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
-    [ "ExecuteEvent", "d9/db6/a12878.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
-    [ "JustEngagedWith", "d9/db6/a12878.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
-    [ "Reset", "d9/db6/a12878.html#aaf47fc993e672877f51b5095f682906c", null ],
-    [ "armageddonCasted", "d9/db6/a12878.html#a1a034601a7dda94becbf1801bda63d55", null ]
+    [ "npc_kernobeeAI", "d5/d93/a12882.html", "d5/d93/a12882" ],
+    [ "npc_kernobee", "d9/db6/a12878.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
+    [ "GetAI", "d9/db6/a12878.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
+    [ "OnQuestAccept", "d9/db6/a12878.html#aa830285cf19211b8233620257735ab62", null ]
 ];

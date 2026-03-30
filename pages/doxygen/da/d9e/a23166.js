@@ -1,6 +1,5 @@
 var a23166 =
 [
-    [ "HandleScriptEffect", "da/d9e/a23166.html#a766edc5924124c869b04ec82cd2bc693", null ],
-    [ "PrepareSpellScript", "da/d9e/a23166.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
-    [ "Register", "da/d9e/a23166.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
+    [ "npc_invisible_tractor_beam_source", "da/d9e/a23166.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "da/d9e/a23166.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

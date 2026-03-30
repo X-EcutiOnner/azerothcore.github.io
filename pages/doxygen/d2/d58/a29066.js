@@ -1,9 +1,8 @@
 var a29066 =
 [
-    [ "CinematicSequence", "d2/d58/a29066.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "d2/d58/a29066.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "d2/d58/a29066.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "d2/d58/a29066.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "d2/d58/a29066.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "d2/d58/a29066.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "Color", "d2/d58/a29066.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "d2/d58/a29066.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "d2/d58/a29066.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "d2/d58/a29066.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "d2/d58/a29066.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

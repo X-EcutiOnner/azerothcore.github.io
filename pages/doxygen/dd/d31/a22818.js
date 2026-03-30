@@ -1,11 +1,12 @@
 var a22818 =
 [
-    [ "boss_high_nethermancer_zerevor", "dd/d31/a22818.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
-    [ "AttackStart", "dd/d31/a22818.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
-    [ "CastDampenMagicIfPossible", "dd/d31/a22818.html#ab0af23baf43d377935811c52a346c566", null ],
-    [ "JustEngagedWith", "dd/d31/a22818.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
-    [ "OnAuraRemove", "dd/d31/a22818.html#a7dd31808dbf00f77b59fce84249778fe", null ],
-    [ "Reset", "dd/d31/a22818.html#afd7a419de217b3d129f783ddc87780af", null ],
-    [ "UpdateAI", "dd/d31/a22818.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
-    [ "_canCastDampenMagic", "dd/d31/a22818.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
+    [ "boss_fathomguard_sharkkis", "dd/d31/a22818.html#affc3a4422ce62311879bef6df104c9b9", null ],
+    [ "EnterEvadeMode", "dd/d31/a22818.html#a344072e382566575168cdcf57d0f6481", null ],
+    [ "JustDied", "dd/d31/a22818.html#a1a4fdf91f6d8d0e3e0672e174152a59d", null ],
+    [ "JustEngagedWith", "dd/d31/a22818.html#a5724db6f55f1c5ed2e351603a1b26943", null ],
+    [ "JustSummoned", "dd/d31/a22818.html#a31098d1e91412b797663fe677114af20", null ],
+    [ "Reset", "dd/d31/a22818.html#a5d8b89e2d4a203df5ec574b96df0d489", null ],
+    [ "UpdateAI", "dd/d31/a22818.html#ab71689fda10d6d31dd2bfc72026bd755", null ],
+    [ "_instance", "dd/d31/a22818.html#ad3dc90987a8b01fcd55799f66d18906c", null ],
+    [ "_summons", "dd/d31/a22818.html#a73f887b3f829027fc336a8e4a9c5b963", null ]
 ];

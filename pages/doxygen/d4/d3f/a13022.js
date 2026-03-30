@@ -1,9 +1,5 @@
 var a13022 =
 [
-    [ "npc_flamewaker_priestAI", "d4/d3f/a13022.html#aa0508dda5bc365896128f088b6de30f4", null ],
-    [ "JustDied", "d4/d3f/a13022.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
-    [ "JustEngagedWith", "d4/d3f/a13022.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
-    [ "Reset", "d4/d3f/a13022.html#a3c3629a6c6987e861e40a893363d2508", null ],
-    [ "UpdateAI", "d4/d3f/a13022.html#a28c0ed65521f3d2150874ddc1b913933", null ],
-    [ "events", "d4/d3f/a13022.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
+    [ "at_karazhan_mirkblood_entrance", "d4/d3f/a13022.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
+    [ "OnTrigger", "d4/d3f/a13022.html#ad99c85de36a369752fa61bab761a402e", null ]
 ];

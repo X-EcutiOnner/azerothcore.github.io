@@ -1,6 +1,7 @@
 var a17862 =
 [
-    [ "PrepareSpellScript", "de/d4c/a17862.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "de/d4c/a17862.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "de/d4c/a17862.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "FilterTargets", "de/d4c/a17862.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "de/d4c/a17862.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "de/d4c/a17862.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "de/d4c/a17862.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

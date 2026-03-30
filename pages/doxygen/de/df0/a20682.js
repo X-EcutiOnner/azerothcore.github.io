@@ -1,9 +1,6 @@
 var a20682 =
 [
-    [ "npc_ulduar_emergency_fire_bot", "de/df0/a20682.html#a1b74d8fc5c0e37a1f2c54be11d6afffc", null ],
-    [ "AttackStart", "de/df0/a20682.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
-    [ "MoveInLineOfSight", "de/df0/a20682.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
-    [ "MovementInform", "de/df0/a20682.html#a6f7306e3da54511ddbef772044f76950", null ],
-    [ "UpdateAI", "de/df0/a20682.html#a653df31873aca5acb86020cc1e14f4a0", null ],
-    [ "events", "de/df0/a20682.html#a4afecd5bc403cd4a2bee1aa3b62612a7", null ]
+    [ "OnRemove", "de/df0/a20682.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
+    [ "PrepareAuraScript", "de/df0/a20682.html#a5fb0837417b915676549370cc76c477d", null ],
+    [ "Register", "de/df0/a20682.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
 ];

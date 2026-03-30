@@ -1,6 +1,8 @@
 var a25806 =
 [
-    [ "HandleDummyTick", "d1/d4e/a25806.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
-    [ "PrepareAuraScript", "d1/d4e/a25806.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
-    [ "Register", "d1/d4e/a25806.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
+    [ "HandleDummy", "d1/d4e/a25806.html#ae73e0d900e5b33f47bf2ba45d8ab26ce", null ],
+    [ "Load", "d1/d4e/a25806.html#a5c0e5de94faca0c2841153f7a099d2eb", null ],
+    [ "PrepareSpellScript", "d1/d4e/a25806.html#af89de259afbab436326a67b9eb7833ad", null ],
+    [ "Register", "d1/d4e/a25806.html#a78ffb20ccc10c3c632934af862273716", null ],
+    [ "Validate", "d1/d4e/a25806.html#ace6bdf4755f1d1c95011bb782cb2e59e", null ]
 ];

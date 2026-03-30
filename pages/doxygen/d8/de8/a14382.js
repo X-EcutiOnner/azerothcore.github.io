@@ -1,7 +1,6 @@
 var a14382 =
 [
-    [ "OnPeriodic", "d8/de8/a14382.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "d8/de8/a14382.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "d8/de8/a14382.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "d8/de8/a14382.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "LaunchHit", "d8/de8/a14382.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
+    [ "PrepareSpellScript", "d8/de8/a14382.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
+    [ "Register", "d8/de8/a14382.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
 ];

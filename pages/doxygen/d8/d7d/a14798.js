@@ -1,11 +1,11 @@
 var a14798 =
 [
-    [ "npc_winterfin_playmate", "d8/d7d/a14798.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
-    [ "MoveInLineOfSight", "d8/d7d/a14798.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
-    [ "Reset", "d8/d7d/a14798.html#aae6b51c22dc0448608c1cf9412565e25", null ],
-    [ "UpdateAI", "d8/d7d/a14798.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
-    [ "orphanGUID", "d8/d7d/a14798.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
-    [ "phase", "d8/d7d/a14798.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
-    [ "playerGUID", "d8/d7d/a14798.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
-    [ "timer", "d8/d7d/a14798.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
+    [ "HandleFinish", "d8/d7d/a14798.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
+    [ "HandleScript", "d8/d7d/a14798.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
+    [ "Load", "d8/d7d/a14798.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
+    [ "PrepareSpellScript", "d8/d7d/a14798.html#a9714f48de3982feb245f78efb8008f1b", null ],
+    [ "Register", "d8/d7d/a14798.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
+    [ "ThrowNextTorch", "d8/d7d/a14798.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
+    [ "Validate", "d8/d7d/a14798.html#a026fbf7123f6780459c19ff04b370b08", null ],
+    [ "handled", "d8/d7d/a14798.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
 ];

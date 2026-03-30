@@ -1,10 +1,7 @@
 var a21350 =
 [
-    [ "npc_erekem_guardAI", "da/dfc/a21350.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
-    [ "JustEngagedWith", "da/dfc/a21350.html#a93819c5c76821b1c9559be55359d677e", null ],
-    [ "MoveInLineOfSight", "da/dfc/a21350.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
-    [ "Reset", "da/dfc/a21350.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
-    [ "UpdateAI", "da/dfc/a21350.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
-    [ "events", "da/dfc/a21350.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
-    [ "pInstance", "da/dfc/a21350.html#a81985b8522111f2aae540353cd5641fe", null ]
+    [ "HandleEffectHit", "da/dfc/a21350.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "da/dfc/a21350.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "da/dfc/a21350.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "da/dfc/a21350.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

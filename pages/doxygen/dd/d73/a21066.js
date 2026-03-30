@@ -1,13 +1,10 @@
 var a21066 =
 [
-    [ "npc_ulduar_arachnopod_destroyer", "dd/d73/a21066.html#a13422abe59c4aa11bee16225d689c054", null ],
-    [ "AttackStart", "dd/d73/a21066.html#ac634717023bd5827e2b8b1f4c79c6084", null ],
-    [ "DamageTaken", "dd/d73/a21066.html#a80a63823a5ffb19fd84fe3da5e9e4659", null ],
-    [ "EnterEvadeMode", "dd/d73/a21066.html#acb089a5226af27005ac2356e84e976aa", null ],
-    [ "OnCharmed", "dd/d73/a21066.html#a3d24ff7efa6a822b5d5c6c762b026d75", null ],
-    [ "PassengerBoarded", "dd/d73/a21066.html#a1b15edb1527095dcac5f9c0ef183fb55", null ],
-    [ "Reset", "dd/d73/a21066.html#a7fa3aa16e4764b5ce4a93eef855010f8", null ],
-    [ "UpdateAI", "dd/d73/a21066.html#a87d4086066ac53697793152fdcebf841", null ],
-    [ "_spawnedMechanic", "dd/d73/a21066.html#ae781e2c258ac3ce268821b98ae310a0f", null ],
-    [ "events", "dd/d73/a21066.html#a7cb0d83e8b94808fa16539ea098e1a2f", null ]
+    [ "npc_erekem_guardAI", "dd/d73/a21066.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
+    [ "JustEngagedWith", "dd/d73/a21066.html#a93819c5c76821b1c9559be55359d677e", null ],
+    [ "MoveInLineOfSight", "dd/d73/a21066.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
+    [ "Reset", "dd/d73/a21066.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
+    [ "UpdateAI", "dd/d73/a21066.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
+    [ "events", "dd/d73/a21066.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
+    [ "pInstance", "dd/d73/a21066.html#a81985b8522111f2aae540353cd5641fe", null ]
 ];

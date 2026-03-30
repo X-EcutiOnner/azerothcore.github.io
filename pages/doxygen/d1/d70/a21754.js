@@ -1,6 +1,6 @@
 var a21754 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d1/d70/a21754.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "d1/d70/a21754.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "d1/d70/a21754.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_llod_genericAI", "dd/dcd/a21758.html", "dd/dcd/a21758" ],
+    [ "npc_llod_generic", "d1/d70/a21754.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "d1/d70/a21754.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

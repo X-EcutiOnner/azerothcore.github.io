@@ -1,7 +1,6 @@
 var a15786 =
 [
-    [ "npc_anubisath_warder", "d4/d7d/a15786.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "d4/d7d/a15786.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "d4/d7d/a15786.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "d4/d7d/a15786.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "npc_clintar_spiritAI", "de/da2/a15790.html", "de/da2/a15790" ],
+    [ "npc_clintar_spirit", "d4/d7d/a15786.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "d4/d7d/a15786.html#a118198504f6f93c86302275a11582d60", null ]
 ];

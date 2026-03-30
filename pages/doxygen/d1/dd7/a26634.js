@@ -1,8 +1,7 @@
 var a26634 =
 [
-    [ "CheckProc", "d1/dd7/a26634.html#a05580997d10960d8a8186c42b008894f", null ],
-    [ "OnRemove", "d1/dd7/a26634.html#a55cc4caf383fa643dd9df6c335937063", null ],
-    [ "PrepareAuraScript", "d1/dd7/a26634.html#a19bbc19f6a8f2e59903319eb56afacea", null ],
-    [ "Register", "d1/dd7/a26634.html#a2caaa38b44038e58f1715deb2af1a7ec", null ],
-    [ "Validate", "d1/dd7/a26634.html#a93fe3df6878e3edb540a70871dd98e7d", null ]
+    [ "CheckProc", "d1/dd7/a26634.html#a068e3d66059d0d34b39ef43bc259eb70", null ],
+    [ "HandleProc", "d1/dd7/a26634.html#ac3da721ff9df529738eeb33e95fb0dac", null ],
+    [ "PrepareAuraScript", "d1/dd7/a26634.html#ab346f33f7d467f89c9bc9ecc569a8c8c", null ],
+    [ "Register", "d1/dd7/a26634.html#afa041c16f5d6c80aa74402fbdbea1701", null ]
 ];

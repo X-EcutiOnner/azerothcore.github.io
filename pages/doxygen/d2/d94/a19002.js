@@ -1,7 +1,15 @@
 var a19002 =
 [
-    [ "npc_valithria_portalAI", "d2/d94/a19002.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "d2/d94/a19002.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "d2/d94/a19002.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "d2/d94/a19002.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "npc_icc_valkyr_heraldAI", "d2/d94/a19002.html#afd9cd5e7f1048940cdc46d1b7e93d2a1", null ],
+    [ "CanAIAttack", "d2/d94/a19002.html#a80efc0d2e192c316640c8136c533aa6b", null ],
+    [ "JustEngagedWith", "d2/d94/a19002.html#aee4e6801cb31ed631568a32c22aa809b", null ],
+    [ "JustReachedHome", "d2/d94/a19002.html#a84da1485b45ab1229fc2ca6e2e6564f8", null ],
+    [ "JustSummoned", "d2/d94/a19002.html#af63753b3de60bcdb79989bfa8d582176", null ],
+    [ "MoveInLineOfSight", "d2/d94/a19002.html#ab048b3536a8b169e85ee4297f04005ba", null ],
+    [ "Reset", "d2/d94/a19002.html#a0eefcf657c8b00b8f4a586f72467e1ca", null ],
+    [ "SpellHitTarget", "d2/d94/a19002.html#aab96b7e137f9348ab4d33629c198f011", null ],
+    [ "SummonedCreatureDespawn", "d2/d94/a19002.html#ae3e1b98b21f46d9d7c895c1e03794696", null ],
+    [ "UpdateAI", "d2/d94/a19002.html#a55cbb21aecfd78efc96d465cf61728ae", null ],
+    [ "events", "d2/d94/a19002.html#a28b3fdd5f60a2277604b9c4a4766f7bc", null ],
+    [ "summons", "d2/d94/a19002.html#a379afe20ef8acbbc510485da74a41487", null ]
 ];

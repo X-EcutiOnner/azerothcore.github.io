@@ -1,7 +1,6 @@
 var a24802 =
 [
-    [ "HandleProc", "de/da6/a24802.html#a1982ba611c17042d0bff8bac66280218", null ],
-    [ "PrepareAuraScript", "de/da6/a24802.html#a459fde61325e3aeb1e339670138aacce", null ],
-    [ "Register", "de/da6/a24802.html#a151f0e7f04a9ee01189de20686a15bc4", null ],
-    [ "Validate", "de/da6/a24802.html#af57da6008a6ff796487b2da68644104b", null ]
+    [ "OnPeriodic", "de/da6/a24802.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "de/da6/a24802.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "de/da6/a24802.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

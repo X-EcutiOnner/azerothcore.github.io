@@ -1,8 +1,10 @@
 var a19686 =
 [
-    [ "HandleDamage", "d3/d1f/a19686.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
-    [ "HandleTargets", "d3/d1f/a19686.html#ac36e689bad93aa17738f390680764a7e", null ],
-    [ "PrepareSpellScript", "d3/d1f/a19686.html#a149db071722ce12cded16087c8eec1df", null ],
-    [ "Register", "d3/d1f/a19686.html#abd073f34a414fab7ee23ee933863f1c7", null ],
-    [ "Validate", "d3/d1f/a19686.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
+    [ "npc_molten_golem", "d3/d1f/a19686.html#a38350948396b7df97837780531f79515", null ],
+    [ "DamageTaken", "d3/d1f/a19686.html#aa3521246b0c2bed18b5466879ec1d107", null ],
+    [ "DoAction", "d3/d1f/a19686.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
+    [ "Reset", "d3/d1f/a19686.html#a24e23d0959bcda5be05786381a35ac77", null ],
+    [ "UpdateAI", "d3/d1f/a19686.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
+    [ "events", "d3/d1f/a19686.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
+    [ "m_pInstance", "d3/d1f/a19686.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
 ];

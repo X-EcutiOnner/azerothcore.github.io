@@ -1,7 +1,6 @@
 var a06202 =
 [
-    [ "NonTankTargetSelector", "dd/d7d/a06202.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce", null ],
-    [ "operator()", "dd/d7d/a06202.html#a3a4cf85033650b1d31e9f93ec8e74b22", null ],
-    [ "_playerOnly", "dd/d7d/a06202.html#a59a14629522e0a3850991b1852d368ee", null ],
-    [ "_source", "dd/d7d/a06202.html#a314c5cb35708814844a5c8f72d91511f", null ]
+    [ "changed", "dd/d7d/a06202.html#af0cf916cd514f64f53f98c108ff63591", null ],
+    [ "counter", "dd/d7d/a06202.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
+    [ "date", "dd/d7d/a06202.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
 ];

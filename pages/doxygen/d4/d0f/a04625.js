@@ -1,7 +1,10 @@
 var a04625 =
 [
-    [ "instance_eye_of_eternity", "d8/dc6/a19495.html", "d8/dc6/a19495" ],
-    [ "AddSC_instance_eye_of_eternity", "d4/d0f/a04625.html#acd10e2ef086dd7938d397abc8ced1de3", null ],
-    [ "creatureData", "d4/d0f/a04625.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "gameobjectData", "d4/d0f/a04625.html#a845a92716bd40c99a93eb0715cd737b0", null ]
+    [ "EnchStoreItem", "dc/d59/a08614.html", "dc/d59/a08614" ],
+    [ "EnchantmentStore", "d4/d0f/a04625.html#ab462bc366dd954f1c0b539c408b74c01", null ],
+    [ "EnchStoreList", "d4/d0f/a04625.html#ab5e9dd6a265a402e7a9499fdaae1e850", null ],
+    [ "GenerateEnchSuffixFactor", "d4/d0f/a04625.html#a25026e783b088b45eebd4db8295b1b87", null ],
+    [ "GetItemEnchantMod", "d4/d0f/a04625.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
+    [ "LoadRandomEnchantmentsTable", "d4/d0f/a04625.html#a376fabf7bba54eaf928217f860f1c33b", null ],
+    [ "RandomItemEnch", "d4/d0f/a04625.html#a6aeb6f30f019ca8d9839fcf41beb1ac7", null ]
 ];

@@ -1,6 +1,7 @@
 var a24506 =
 [
-    [ "PrepareSpellScript", "d4/d4b/a24506.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
-    [ "Register", "d4/d4b/a24506.html#a4b349a325759517c35d04202e5df9cec", null ],
-    [ "SetDest", "d4/d4b/a24506.html#a951f733ab2452655a3b579f8ed190fb0", null ]
+    [ "CalculateAmount", "d4/d4b/a24506.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
+    [ "Load", "d4/d4b/a24506.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
+    [ "PrepareAuraScript", "d4/d4b/a24506.html#a93df43072a344485c389160306b1fecd", null ],
+    [ "Register", "d4/d4b/a24506.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
 ];

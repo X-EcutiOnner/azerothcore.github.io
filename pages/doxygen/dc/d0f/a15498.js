@@ -1,7 +1,5 @@
 var a15498 =
 [
-    [ "HandleScript", "dc/d0f/a15498.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "dc/d0f/a15498.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "dc/d0f/a15498.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "dc/d0f/a15498.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "at_twin_emperors", "dc/d0f/a15498.html#a343d482857fa0a45c42f593e591f7754", null ],
+    [ "_OnTrigger", "dc/d0f/a15498.html#adf3120b7bf611e0246abb2970711ada3", null ]
 ];

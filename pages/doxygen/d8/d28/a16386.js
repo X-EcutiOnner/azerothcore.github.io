@@ -1,8 +1,7 @@
 var a16386 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d8/d28/a16386.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
-    [ "IsAllSpheresActivated", "d8/d28/a16386.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
-    [ "OnGameObjectCreate", "d8/d28/a16386.html#ad00fdc90a61e1c927323daa2149f8466", null ],
-    [ "SetData", "d8/d28/a16386.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
-    [ "taldaramPlatform_GUID", "d8/d28/a16386.html#a840ce69595c384be321c1167513d151e", null ]
+    [ "HandlePeriodic", "d8/d28/a16386.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
+    [ "PrepareAuraScript", "d8/d28/a16386.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
+    [ "Register", "d8/d28/a16386.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
+    [ "Validate", "d8/d28/a16386.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
 ];

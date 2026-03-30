@@ -1,6 +1,8 @@
 var a21970 =
 [
-    [ "HandleOnEffectRemove", "d6/db9/a21970.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d6/db9/a21970.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d6/db9/a21970.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_freed_protodrakeAI", "d6/db9/a21970.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d6/db9/a21970.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d6/db9/a21970.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d6/db9/a21970.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d6/db9/a21970.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

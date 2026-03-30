@@ -1,9 +1,12 @@
 var a18674 =
 [
-    [ "ShadowTrapLKTargetSelector", "d7/d50/a18674.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "d7/d50/a18674.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "d7/d50/a18674.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "d7/d50/a18674.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "d7/d50/a18674.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "d7/d50/a18674.html#af416013aabf3b217b07228072076603d", null ]
+    [ "npc_the_lich_king_controllerAI", "d7/d50/a18674.html#a211c370e9c370e00fba3c83e51738886", null ],
+    [ "AttackStart", "d7/d50/a18674.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
+    [ "DoAction", "d7/d50/a18674.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
+    [ "JustSummoned", "d7/d50/a18674.html#aa610e24316505165cbb826ff5bece5c5", null ],
+    [ "MoveInLineOfSight", "d7/d50/a18674.html#a0ee33ab5733c12163e92213376e893e4", null ],
+    [ "Reset", "d7/d50/a18674.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
+    [ "UpdateAI", "d7/d50/a18674.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
+    [ "_events", "d7/d50/a18674.html#a90c3d818318004c7c21ec66d4d080615", null ],
+    [ "_instance", "d7/d50/a18674.html#a480a284881ba5f56bc6222607bd01a76", null ]
 ];

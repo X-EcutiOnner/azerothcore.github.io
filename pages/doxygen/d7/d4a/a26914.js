@@ -1,6 +1,6 @@
 var a26914 =
 [
-    [ "HandleDamage", "d7/d4a/a26914.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "d7/d4a/a26914.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "d7/d4a/a26914.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "PrepareSpellScript", "d7/d4a/a26914.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
+    [ "Register", "d7/d4a/a26914.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
+    [ "SetDest", "d7/d4a/a26914.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
 ];

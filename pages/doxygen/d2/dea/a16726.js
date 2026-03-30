@@ -1,6 +1,6 @@
 var a16726 =
 [
-    [ "boss_eadricAI", "de/d9e/a16730.html", "de/d9e/a16730" ],
-    [ "boss_eadric", "d2/dea/a16726.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
-    [ "GetAI", "d2/dea/a16726.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
+    [ "npc_toc_boomkinAI", "de/d9e/a16730.html", "de/d9e/a16730" ],
+    [ "npc_toc_boomkin", "d2/dea/a16726.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "d2/dea/a16726.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

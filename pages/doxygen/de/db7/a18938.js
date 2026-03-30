@@ -1,5 +1,5 @@
 var a18938 =
 [
-    [ "achievement_been_waiting_long_time", "de/db7/a18938.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "de/db7/a18938.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "at_icc_start_frostwing_gauntlet", "de/db7/a18938.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
+    [ "OnTrigger", "de/db7/a18938.html#a7137166f281876f00d4e03c846875d85", null ]
 ];

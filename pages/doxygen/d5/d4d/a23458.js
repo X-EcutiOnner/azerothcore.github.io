@@ -1,11 +1,10 @@
 var a23458 =
 [
-    [ "boss_gruul", "d5/d4d/a23458.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "d5/d4d/a23458.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "d5/d4d/a23458.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "d5/d4d/a23458.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "d5/d4d/a23458.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "d5/d4d/a23458.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "d5/d4d/a23458.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "d5/d4d/a23458.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "boss_thorngrin_the_tender", "d5/d4d/a23458.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
+    [ "JustDied", "d5/d4d/a23458.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
+    [ "JustEngagedWith", "d5/d4d/a23458.html#a647ed5b29861b719d3c4a11fd110c512", null ],
+    [ "KilledUnit", "d5/d4d/a23458.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
+    [ "MoveInLineOfSight", "d5/d4d/a23458.html#a9467e59287b3e917907de82507d1a16d", null ],
+    [ "Reset", "d5/d4d/a23458.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
+    [ "_intro", "d5/d4d/a23458.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
 ];

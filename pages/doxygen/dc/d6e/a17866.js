@@ -1,6 +1,6 @@
 var a17866 =
 [
-    [ "VampiricBiteTargetSelector", "dc/d6e/a17866.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
-    [ "operator()", "dc/d6e/a17866.html#ac16204f50f62cb2568998d1ea137f55d", null ],
-    [ "_source", "dc/d6e/a17866.html#af23a69491c915909566249b109b1f0e8", null ]
+    [ "HandlePeriodicTick", "dc/d6e/a17866.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "dc/d6e/a17866.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "dc/d6e/a17866.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

@@ -1,6 +1,6 @@
 var a11802 =
 [
-    [ "EffectUpdatePeriodicHandler", "db/d03/a11802.html#a6b18a259aa84c847bcc064c5243eb590", null ],
-    [ "Call", "db/d03/a11802.html#a38802863e7859453cbbe58ad91018c67", null ],
-    [ "pEffectHandlerScript", "db/d03/a11802.html#a0e51245e089fcd9532d5789056ab944c", null ]
+    [ "BeforeHitHandler", "db/d03/a11802.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "db/d03/a11802.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "db/d03/a11802.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

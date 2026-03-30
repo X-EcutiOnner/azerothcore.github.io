@@ -1,6 +1,7 @@
 var a21346 =
 [
-    [ "npc_erekem_guardAI", "da/dfc/a21350.html", "da/dfc/a21350" ],
-    [ "npc_erekem_guard", "d6/d6f/a21346.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "d6/d6f/a21346.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "HandleProc", "d6/d6f/a21346.html#aeb5b70614b266bac0792906bf89a5b97", null ],
+    [ "PrepareAuraScript", "d6/d6f/a21346.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
+    [ "Register", "d6/d6f/a21346.html#a163e0099271f21362deeb1ba1f169f3f", null ],
+    [ "Validate", "d6/d6f/a21346.html#abdb889e4c6d19f756c143d7b36f82257", null ]
 ];

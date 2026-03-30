@@ -1,20 +1,11 @@
 var a19514 =
 [
-    [ "boss_gothikAI", "d1/d80/a19514.html#a18ae481969ed0885122058b0ebf98cc8", null ],
-    [ "CheckGroupSplitted", "d1/d80/a19514.html#a1efec7ad0793812f83e808b961059875", null ],
-    [ "DamageTaken", "d1/d80/a19514.html#a40e40340002d05d97aa944c14af4030c", null ],
-    [ "IsInRoom", "d1/d80/a19514.html#a73b20994a1949731b83a3a28b70ad9d1", null ],
-    [ "JustDied", "d1/d80/a19514.html#a9c4e6647c05785664cd23fce73d8ca87", null ],
-    [ "JustEngagedWith", "d1/d80/a19514.html#aa2e622be4faa605aa7b13af333bd1a91", null ],
-    [ "JustSummoned", "d1/d80/a19514.html#a9bbe9412721e4173ef37a1dbd494c262", null ],
-    [ "KilledUnit", "d1/d80/a19514.html#adde94c95fcfe2cacee16b06f73528651", null ],
-    [ "Reset", "d1/d80/a19514.html#a31f3993b01755f45f3fe997d599a52d4", null ],
-    [ "SummonedCreatureDespawn", "d1/d80/a19514.html#a2223b2c287b2b21a7377ed49b2a65628", null ],
-    [ "SummonHelpers", "d1/d80/a19514.html#aaa751f216763deba29fde2d0aba09567", null ],
-    [ "UpdateAI", "d1/d80/a19514.html#ada9b63a61fc4c8abb60fdff30fb9487d", null ],
-    [ "events", "d1/d80/a19514.html#a756a5816615e02be0fc8308cc5088e49", null ],
-    [ "gateOpened", "d1/d80/a19514.html#ad2de325f3fde87679503664de81a911e", null ],
-    [ "secondPhase", "d1/d80/a19514.html#a1e4526d104670d4899ef6dd5760c2437", null ],
-    [ "summons", "d1/d80/a19514.html#aa1786f68bc52722dead6d9a6c131d6cb", null ],
-    [ "waveCount", "d1/d80/a19514.html#a4ed9dfac7e4d22fcb1f8396ca1318073", null ]
+    [ "boss_ormorok", "d1/d80/a19514.html#aa4862339ed41d5c593a93ef605d85a39", null ],
+    [ "JustDied", "d1/d80/a19514.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
+    [ "JustEngagedWith", "d1/d80/a19514.html#a22ac203db7c3b445e653798743e48764", null ],
+    [ "JustSummoned", "d1/d80/a19514.html#acc149b49e6658454610a7871e3c82b5e", null ],
+    [ "KilledUnit", "d1/d80/a19514.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
+    [ "Reset", "d1/d80/a19514.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
+    [ "UpdateAI", "d1/d80/a19514.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
+    [ "_spikesCount", "d1/d80/a19514.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
 ];

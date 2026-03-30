@@ -1,14 +1,10 @@
 var a19338 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "d9/d9f/a19338.html#a4a459289a55871990abc0adc4ba8278c", null ],
-    [ "AttackStart", "d9/d9f/a19338.html#a3412c5664c1c1354b615e8f798824b91", null ],
-    [ "JustReachedHome", "d9/d9f/a19338.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
-    [ "MoveInLineOfSight", "d9/d9f/a19338.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
-    [ "MovementInform", "d9/d9f/a19338.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
-    [ "Reset", "d9/d9f/a19338.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
-    [ "UpdateAI", "d9/d9f/a19338.html#a8946357cad01050641bcdf51edce192f", null ],
-    [ "currPipeWP", "d9/d9f/a19338.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
-    [ "events", "d9/d9f/a19338.html#aa39171910383c74583f24663d6c23f3b", null ],
-    [ "forward", "d9/d9f/a19338.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
-    [ "needMove", "d9/d9f/a19338.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
+    [ "boss_razuvious_minionAI", "d9/d9f/a19338.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "d9/d9f/a19338.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "d9/d9f/a19338.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "d9/d9f/a19338.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "d9/d9f/a19338.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "d9/d9f/a19338.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "d9/d9f/a19338.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

@@ -1,8 +1,5 @@
 var a08122 =
 [
-    [ "ThreatMgrEvent", "d8/dc8/a08122.html#ad8d5d86b12e5c13f25f8598ef5670eb8", null ],
-    [ "ThreatMgrEvent", "d8/dc8/a08122.html#a332ae279dc4c243c148e07454611a057", null ],
-    [ "getThreatContainer", "d8/dc8/a08122.html#a15ab83dccbbae73cbd2ec0a376d57d28", null ],
-    [ "setThreatContainer", "d8/dc8/a08122.html#aaffdff7ac81e949adc076b113a824cbf", null ],
-    [ "iThreatContainer", "d8/dc8/a08122.html#a7f32669286852385312b86e0b70e177e", null ]
+    [ "ThreatReferenceImpl", "d8/dc8/a08122.html#ae69492bf301cc65e2554ac6d46039086", null ],
+    [ "_handle", "d8/dc8/a08122.html#a500806ed499b69bcae1d9a05071dea2c", null ]
 ];

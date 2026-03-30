@@ -1,6 +1,6 @@
 var a19626 =
 [
-    [ "boss_nothAI", "d4/d16/a19630.html", "d4/d16/a19630" ],
-    [ "boss_noth", "d5/df3/a19626.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
-    [ "GetAI", "d5/df3/a19626.html#a534f30792c051ab44c6c07c9347893e5", null ]
+    [ "HandleEffectCalcAmount", "d5/df3/a19626.html#afa50ce616d36dd59c7195209074d6182", null ],
+    [ "PrepareAuraScript", "d5/df3/a19626.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
+    [ "Register", "d5/df3/a19626.html#a691d5a99eec9e367c518d0244f25bd41", null ]
 ];

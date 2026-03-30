@@ -1,6 +1,7 @@
 var a25142 =
 [
-    [ "CheckAreaTarget", "db/d13/a25142.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "db/d13/a25142.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "db/d13/a25142.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "OnPeriodic", "db/d13/a25142.html#a58f13f947b4daac98651f7fa46d7d674", null ],
+    [ "PrepareAuraScript", "db/d13/a25142.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
+    [ "Register", "db/d13/a25142.html#ad0c688255e340c428624de7071b5df56", null ],
+    [ "Validate", "db/d13/a25142.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
 ];

@@ -1,7 +1,5 @@
 var a16890 =
 [
-    [ "HandleEffectPeriodic", "d3/d58/a16890.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
-    [ "PrepareAuraScript", "d3/d58/a16890.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
-    [ "Register", "d3/d58/a16890.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
-    [ "Validate", "d3/d58/a16890.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
+    [ "npc_essence_of_twin", "d3/d58/a16890.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "d3/d58/a16890.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

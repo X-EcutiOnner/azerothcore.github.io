@@ -1,7 +1,6 @@
 var a16038 =
 [
-    [ "npc_shenthulAI", "d8/d91/a16042.html", "d8/d91/a16042" ],
-    [ "npc_shenthul", "d5/db0/a16038.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "d5/db0/a16038.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "d5/db0/a16038.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "HandleOpenLock", "d5/db0/a16038.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "d5/db0/a16038.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "d5/db0/a16038.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

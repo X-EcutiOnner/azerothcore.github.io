@@ -1,11 +1,10 @@
 var a24654 =
 [
-    [ "HandleAfterHit", "dd/d02/a24654.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "dd/d02/a24654.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "dd/d02/a24654.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "dd/d02/a24654.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "dd/d02/a24654.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "dd/d02/a24654.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "dd/d02/a24654.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "dd/d02/a24654.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "CalcAmount", "dd/d02/a24654.html#a182d563b0527e35ea641116a6a808aa8", null ],
+    [ "CalcPeriodic", "dd/d02/a24654.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
+    [ "Load", "dd/d02/a24654.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
+    [ "PrepareAuraScript", "dd/d02/a24654.html#ac320eec2b8a3a7cc3820a49007710520", null ],
+    [ "Register", "dd/d02/a24654.html#a37181afac00639716ae2ce10d82ecb23", null ],
+    [ "UpdatePeriodic", "dd/d02/a24654.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
+    [ "Validate", "dd/d02/a24654.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
 ];

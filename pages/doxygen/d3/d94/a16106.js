@@ -1,6 +1,8 @@
 var a16106 =
 [
-    [ "npc_braug_dimspirit", "d3/d94/a16106.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
-    [ "OnGossipHello", "d3/d94/a16106.html#aeaed026edf5a1fa82c941f667c05815b", null ],
-    [ "OnGossipSelect", "d3/d94/a16106.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
+    [ "HandleScriptEffect", "d3/d94/a16106.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
+    [ "Load", "d3/d94/a16106.html#ab293f8b536957558fa8886e1f4a23e74", null ],
+    [ "PrepareSpellScript", "d3/d94/a16106.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
+    [ "Register", "d3/d94/a16106.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
+    [ "Validate", "d3/d94/a16106.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
 ];

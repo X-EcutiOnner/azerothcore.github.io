@@ -1,6 +1,7 @@
 var a14490 =
 [
-    [ "boss_hakkarAI", "d8/df0/a14494.html", "d8/df0/a14494" ],
-    [ "boss_hakkar", "d5/d04/a14490.html#a834bd1f223154fbf1be94bf43136da28", null ],
-    [ "GetAI", "d5/d04/a14490.html#aff3a089e30dcddfde4db372104153723", null ]
+    [ "FilterTargets", "d5/d04/a14490.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "d5/d04/a14490.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "d5/d04/a14490.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "d5/d04/a14490.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

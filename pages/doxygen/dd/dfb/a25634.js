@@ -1,10 +1,10 @@
 var a25634 =
 [
-    [ "CheckProc", "dd/dfb/a25634.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
-    [ "HandleProc", "dd/dfb/a25634.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
-    [ "OnApply", "dd/dfb/a25634.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
-    [ "OnRemove", "dd/dfb/a25634.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
-    [ "PrepareAuraScript", "dd/dfb/a25634.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
-    [ "Register", "dd/dfb/a25634.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
-    [ "Validate", "dd/dfb/a25634.html#a91c5a0e10c308332e18dc40033049996", null ]
+    [ "spell_item_defibrillate", "dd/dfb/a25634.html#ab64fdd36fc646ca0bcb2010380199ede", null ],
+    [ "HandleScript", "dd/dfb/a25634.html#a7abbc5b8e5c5231d5c6809c45b815b69", null ],
+    [ "PrepareSpellScript", "dd/dfb/a25634.html#a6a7ad6c9bb9bee3b093bd06b1b259468", null ],
+    [ "Register", "dd/dfb/a25634.html#ad2faa26a2874f68e8e419e59cafbf10b", null ],
+    [ "Validate", "dd/dfb/a25634.html#ad871a6bef7ba074f32abe1bf062dffe1", null ],
+    [ "_chance", "dd/dfb/a25634.html#a680092f30ebc6b322e5d01a1100b308c", null ],
+    [ "_failSpell", "dd/dfb/a25634.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b", null ]
 ];

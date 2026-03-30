@@ -1,11 +1,10 @@
 var a13882 =
 [
-    [ "npc_kalecgos_kj", "dd/db5/a13882.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
-    [ "DoAction", "dd/db5/a13882.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
-    [ "JustSummoned", "dd/db5/a13882.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
-    [ "Reset", "dd/db5/a13882.html#ab3cd4229999bddc16fe8152acb187111", null ],
-    [ "UpdateAI", "dd/db5/a13882.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
-    [ "events", "dd/db5/a13882.html#ab5cc58e293e20172558e15fa28670633", null ],
-    [ "instance", "dd/db5/a13882.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
-    [ "summons", "dd/db5/a13882.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
+    [ "npc_sentinel_leader", "dd/db5/a13882.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "dd/db5/a13882.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "dd/db5/a13882.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "dd/db5/a13882.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "dd/db5/a13882.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "dd/db5/a13882.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "dd/db5/a13882.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

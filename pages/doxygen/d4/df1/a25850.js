@@ -1,6 +1,7 @@
 var a25850 =
 [
-    [ "HandleDummy", "d4/df1/a25850.html#ad086618ff3caadcf5126e12a1359503f", null ],
-    [ "PrepareSpellScript", "d4/df1/a25850.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
-    [ "Register", "d4/df1/a25850.html#a214526ddc986ee829daf9090678e3a7b", null ]
+    [ "HandleScript", "d4/df1/a25850.html#aad0be226a2d294d3361c1afbf644c5e4", null ],
+    [ "PrepareSpellScript", "d4/df1/a25850.html#a85dee311aab08d796a3a0c1bc9e9390d", null ],
+    [ "Register", "d4/df1/a25850.html#a2b22be9826db241ecf3f99ff16c309c0", null ],
+    [ "Validate", "d4/df1/a25850.html#a98df659504307fc0666fe2b1001eaa00", null ]
 ];

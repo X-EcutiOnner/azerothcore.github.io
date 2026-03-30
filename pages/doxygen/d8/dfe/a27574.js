@@ -1,6 +1,6 @@
 var a27574 =
 [
-    [ "PeriodicTick", "d8/dfe/a27574.html#a8765e8f662c4279669c955108ff356e3", null ],
-    [ "PrepareAuraScript", "d8/dfe/a27574.html#a15f077618950e4526ffcee9ee172d89f", null ],
-    [ "Register", "d8/dfe/a27574.html#aeeca3a2be368025147702c4aa8c518ce", null ]
+    [ "FilterTargets", "d8/dfe/a27574.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "d8/dfe/a27574.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "d8/dfe/a27574.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

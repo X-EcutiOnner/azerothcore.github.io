@@ -1,6 +1,5 @@
 var a12250 =
 [
-    [ "CapturedGroups", "d5/d45/a12250.html#a6842947e5fbe26c2c4aadc1209395902", null ],
-    [ "CurrentTemplate", "d5/d45/a12250.html#a6915499b95c29a00cde15c5a7f562158", null ],
-    [ "ZoneName", "d5/d45/a12250.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
+    [ "flag", "d5/d45/a12250.html#abde26bce31a9153038294f78e9fdc18c", null ],
+    [ "text", "d5/d45/a12250.html#a3bf2ae3fd8a347ee70e2c537d909ce30", null ]
 ];

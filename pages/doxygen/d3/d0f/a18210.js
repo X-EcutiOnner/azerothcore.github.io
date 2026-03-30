@@ -1,7 +1,12 @@
 var a18210 =
 [
-    [ "HandleScript", "d3/d0f/a18210.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "d3/d0f/a18210.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "d3/d0f/a18210.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "d3/d0f/a18210.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "npc_precious_iccAI", "d3/d0f/a18210.html#a90dff89c652339ecf7479d2c9233962a", null ],
+    [ "JustDied", "d3/d0f/a18210.html#a06671144929a3783f17397b818016032", null ],
+    [ "JustEngagedWith", "d3/d0f/a18210.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
+    [ "JustSummoned", "d3/d0f/a18210.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
+    [ "Reset", "d3/d0f/a18210.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
+    [ "SummonedCreatureDespawn", "d3/d0f/a18210.html#af59e24c588861fe7d1bcd456780f571a", null ],
+    [ "UpdateAI", "d3/d0f/a18210.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
+    [ "events", "d3/d0f/a18210.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
+    [ "summons", "d3/d0f/a18210.html#ab752e504c7cf463a4447a07fbb67211c", null ]
 ];

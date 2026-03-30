@@ -1,5 +1,5 @@
 var a19190 =
 [
-    [ "npc_alchemist_adrianna", "d8/d3f/a19190.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "d8/d3f/a19190.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "PrepareSpellScript", "d8/d3f/a19190.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
+    [ "Register", "d8/d3f/a19190.html#a80c3077f8f689367276e1054a6236681", null ]
 ];

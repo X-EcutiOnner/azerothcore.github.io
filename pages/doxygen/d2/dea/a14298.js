@@ -1,12 +1,7 @@
 var a14298 =
 [
-    [ "npc_daphne_stilwellAI", "d2/dea/a14298.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
-    [ "AttackStart", "d2/dea/a14298.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
-    [ "JustSummoned", "d2/dea/a14298.html#ae56554d30e9de7644efab891555c57e0", null ],
-    [ "Reset", "d2/dea/a14298.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
-    [ "SummonedCreatureDies", "d2/dea/a14298.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
-    [ "Update", "d2/dea/a14298.html#a4099d75c4a6bca1525781a5753ef9972", null ],
-    [ "WaypointReached", "d2/dea/a14298.html#a1035eb0a1696730d8304593b5fb079e4", null ],
-    [ "summons", "d2/dea/a14298.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
-    [ "textCounter", "d2/dea/a14298.html#a62ab24169c1b7c3028ab33303b217f63", null ]
+    [ "OnRemove", "d2/dea/a14298.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "d2/dea/a14298.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "d2/dea/a14298.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "d2/dea/a14298.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

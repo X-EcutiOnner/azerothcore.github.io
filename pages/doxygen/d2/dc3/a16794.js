@@ -1,6 +1,6 @@
 var a16794 =
 [
-    [ "HandleSpellHit", "d2/dc3/a16794.html#a8c801b92f6e405668edae54989dd58e8", null ],
-    [ "PrepareSpellScript", "d2/dc3/a16794.html#abae02a74f626b890f61df551318dcc81", null ],
-    [ "Register", "d2/dc3/a16794.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
+    [ "boss_jaraxxusAI", "d8/d8b/a16798.html", "d8/d8b/a16798" ],
+    [ "boss_jaraxxus", "d2/dc3/a16794.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
+    [ "GetAI", "d2/dc3/a16794.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
 ];

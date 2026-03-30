@@ -1,6 +1,7 @@
 var a17326 =
 [
-    [ "entry", "d1/d6d/a17326.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "d1/d6d/a17326.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "d1/d6d/a17326.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "HandleEffectPeriodic", "d1/d6d/a17326.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "d1/d6d/a17326.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "d1/d6d/a17326.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "d1/d6d/a17326.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

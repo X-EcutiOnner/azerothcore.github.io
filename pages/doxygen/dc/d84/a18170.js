@@ -1,6 +1,12 @@
 var a18170 =
 [
-    [ "IgbTeleportOnVictoryCheck", "dc/d84/a18170.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "dc/d84/a18170.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "dc/d84/a18170.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "npc_big_oozeAI", "dc/d84/a18170.html#a3564ffec1ac0ac2c7e29b3c7a6b60958", null ],
+    [ "DoAction", "dc/d84/a18170.html#a6d39eb1f177e8670169f18fcfa2e3c4e", null ],
+    [ "EnterEvadeMode", "dc/d84/a18170.html#ad7251cda20f3e2821077d2327528fd2d", null ],
+    [ "IsSummonedBy", "dc/d84/a18170.html#a85d27ac9fb0b9dbb92b2b17a99eaa612", null ],
+    [ "JustDied", "dc/d84/a18170.html#a2372053a84715990fc7fce3d8e269265", null ],
+    [ "UpdateAI", "dc/d84/a18170.html#a2e1f52ca84363703d95da99ca93d3503", null ],
+    [ "events", "dc/d84/a18170.html#a54f3baa4767f8336ff4699de426aae61", null ],
+    [ "firstUpdate", "dc/d84/a18170.html#af5c34c976137e456d1779ca944f88639", null ],
+    [ "instance", "dc/d84/a18170.html#a788141bf9be03161741d01d0aa4fe227", null ]
 ];

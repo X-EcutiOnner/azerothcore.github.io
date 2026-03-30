@@ -1,6 +1,9 @@
 var a25718 =
 [
-    [ "CheckProc", "df/d43/a25718.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
-    [ "PrepareAuraScript", "df/d43/a25718.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
-    [ "Register", "df/d43/a25718.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
+    [ "CheckProc", "df/d43/a25718.html#a185159a5c83e8c65ef5b82f49a89dd8a", null ],
+    [ "HandleProc", "df/d43/a25718.html#a67db21e0293f336a31bf518c0fac85d1", null ],
+    [ "OnRemove", "df/d43/a25718.html#a1b51483738d5d3b73f50a78ef9fc1c57", null ],
+    [ "PrepareAuraScript", "df/d43/a25718.html#a3e549b8764c0f8efc5d110543c9944c7", null ],
+    [ "Register", "df/d43/a25718.html#abc4b88f104253b2b141ab0e3e22ee338", null ],
+    [ "Validate", "df/d43/a25718.html#a0b5b97081b7c897d451ef70c810bd7f1", null ]
 ];

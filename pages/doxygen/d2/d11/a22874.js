@@ -1,9 +1,14 @@
 var a22874 =
 [
-    [ "FilterTargets", "d2/d11/a22874.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "d2/d11/a22874.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "d2/d11/a22874.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "d2/d11/a22874.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "d2/d11/a22874.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "d2/d11/a22874.html#a814083360970284a325621f45e109b5b", null ]
+    [ "SpellIds", "d2/d11/a22874.html#a2d0e9022edc8a9f6fc0e34330fda114a", [
+      [ "SPELL_SUMMON_WAVE_A_MOB", "d2/d11/a22874.html#a2d0e9022edc8a9f6fc0e34330fda114aa19ea6e555692392677c74fccd206380b", null ],
+      [ "SPELL_SUMMON_WAVE_B_MOB", "d2/d11/a22874.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89", null ],
+      [ "SPELL_SUMMON_WAVE_C_MOB", "d2/d11/a22874.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098", null ],
+      [ "SPELL_SUMMON_WAVE_D_MOB", "d2/d11/a22874.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d", null ]
+    ] ],
+    [ "FilterTargets", "d2/d11/a22874.html#a2a1a2e5069587f52ae968c84cd702eaf", null ],
+    [ "HandleHit", "d2/d11/a22874.html#aa670812f42c3082f42e0f232ee6bee16", null ],
+    [ "PrepareSpellScript", "d2/d11/a22874.html#a7fe65229c64c27909868f02439c1ef66", null ],
+    [ "Register", "d2/d11/a22874.html#a0a8f29b524391ff257aba5cbdc355115", null ],
+    [ "Validate", "d2/d11/a22874.html#ab8bcdcfcad2a9998d95567006817711e", null ]
 ];

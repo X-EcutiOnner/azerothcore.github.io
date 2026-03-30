@@ -1,14 +1,14 @@
 var a20886 =
 [
-    [ "boss_yoggsaron_cloud", "dc/d82/a20886.html#a905612697cf1c1d4fd155af61bf6866d", null ],
-    [ "AttackStart", "dc/d82/a20886.html#a280ad77f30f06c01ee16434794814767", null ],
-    [ "DoAction", "dc/d82/a20886.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
-    [ "InitWaypoint", "dc/d82/a20886.html#a390c25b21c29aafb616bd2c827352ffe", null ],
-    [ "JustSummoned", "dc/d82/a20886.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
-    [ "MoveInLineOfSight", "dc/d82/a20886.html#a798009bca30677a645529b1313cc89ae", null ],
-    [ "Reset", "dc/d82/a20886.html#ad548ae65a05f600487a57899760ebab0", null ],
-    [ "UpdateEscortAI", "dc/d82/a20886.html#aba8043fca75864e583da9c5167efce3b", null ],
-    [ "WaypointReached", "dc/d82/a20886.html#aae9f3ac55a3008fcc88d78c907056827", null ],
-    [ "_checkTimer", "dc/d82/a20886.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
-    [ "_isSummoning", "dc/d82/a20886.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ]
+    [ "boss_skadi_graufAI", "dc/d82/a20886.html#a852687a2fa6ed97aefa230db8ff73b72", null ],
+    [ "DoAction", "dc/d82/a20886.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
+    [ "JustDied", "dc/d82/a20886.html#a64a4e6cd927f89c11ec55806e403588f", null ],
+    [ "MovementInform", "dc/d82/a20886.html#a081fed07ce51e3bfd7a4ce051a4d79ee", null ],
+    [ "Reset", "dc/d82/a20886.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
+    [ "SpellHit", "dc/d82/a20886.html#a9c9dd2c0b00c6cdfc6d68cda21bd31b0", null ],
+    [ "UpdateAI", "dc/d82/a20886.html#add5671b1f9e20590e1121f8c18d064cc", null ],
+    [ "_events", "dc/d82/a20886.html#a446de23b703512497888b42ff781da39", null ],
+    [ "_instance", "dc/d82/a20886.html#adfcccde7d61c9fa8e850e3d4678d1ad0", null ],
+    [ "_lastSide", "dc/d82/a20886.html#a6b4ef194bf96b7fc8dae2b22536e31b1", null ],
+    [ "_summons", "dc/d82/a20886.html#abacd3a15554571bce8f70a519ce1bb0b", null ]
 ];

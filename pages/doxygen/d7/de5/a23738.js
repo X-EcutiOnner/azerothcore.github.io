@@ -1,7 +1,6 @@
 var a23738 =
 [
-    [ "HandleCast", "d7/de5/a23738.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "d7/de5/a23738.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "d7/de5/a23738.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "d7/de5/a23738.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "npc_fel_guard_houndAI", "de/ddf/a23742.html", "de/ddf/a23742" ],
+    [ "npc_fel_guard_hound", "d7/de5/a23738.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d7/de5/a23738.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

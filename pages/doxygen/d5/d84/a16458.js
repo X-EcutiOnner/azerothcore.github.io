@@ -1,5 +1,6 @@
 var a16458 =
 [
-    [ "achievement_watch_him_die", "d5/d84/a16458.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "d5/d84/a16458.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "boss_saviana_ragefireAI", "d6/d10/a16462.html", "d6/d10/a16462" ],
+    [ "boss_saviana_ragefire", "d5/d84/a16458.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "d5/d84/a16458.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

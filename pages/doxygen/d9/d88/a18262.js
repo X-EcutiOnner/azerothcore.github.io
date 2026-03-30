@@ -1,6 +1,7 @@
 var a18262 =
 [
-    [ "npc_vengeful_shadeAI", "d8/d59/a18266.html", "d8/d59/a18266" ],
-    [ "npc_vengeful_shade", "d9/d88/a18262.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "d9/d88/a18262.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "OnRemove", "d9/d88/a18262.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "d9/d88/a18262.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "d9/d88/a18262.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "d9/d88/a18262.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

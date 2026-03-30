@@ -1,6 +1,6 @@
 var a17366 =
 [
-    [ "npc_ghostly_priestAI", "de/d5f/a17370.html", "de/d5f/a17370" ],
-    [ "npc_ghostly_priest", "db/ded/a17366.html#a7c03bb327cfc65f4df515969da482ddb", null ],
-    [ "GetAI", "db/ded/a17366.html#a0fab76345c5459efcedff02123e4fc8d", null ]
+    [ "npc_living_mojoAI", "de/d5f/a17370.html", "de/d5f/a17370" ],
+    [ "npc_living_mojo", "db/ded/a17366.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "db/ded/a17366.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

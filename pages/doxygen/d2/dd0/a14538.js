@@ -1,10 +1,6 @@
 var a14538 =
 [
-    [ "boss_jeklik", "d2/dd0/a14538.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
-    [ "EnterEvadeMode", "d2/dd0/a14538.html#a70dc363e0690e72846db5f779375edc1", null ],
-    [ "JustDied", "d2/dd0/a14538.html#ae648ba9ff49f4970612a8c3351789b66", null ],
-    [ "JustEngagedWith", "d2/dd0/a14538.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
-    [ "PathEndReached", "d2/dd0/a14538.html#a689e8f91361de45e6f885fea0dec900a", null ],
-    [ "Reset", "d2/dd0/a14538.html#a7959106123e60e3584b32b50a272746c", null ],
-    [ "batRidersCount", "d2/dd0/a14538.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
+    [ "npc_direbrew_antagonist", "d2/dd0/a14538.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "d2/dd0/a14538.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "d2/dd0/a14538.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

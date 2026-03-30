@@ -1,6 +1,6 @@
 var a25618 =
 [
-    [ "CalculateAmount", "d4/d04/a25618.html#ac0018b57967a3d3ae71aa81745032f15", null ],
-    [ "PrepareAuraScript", "d4/d04/a25618.html#ab249a493050c5527eeec8913e94cfc64", null ],
-    [ "Register", "d4/d04/a25618.html#a8f078f8370eacba197ceb2068b6a538d", null ]
+    [ "CalculateAmount", "d4/d04/a25618.html#ad80edf403addb2d907d0d3d778b6745f", null ],
+    [ "PrepareAuraScript", "d4/d04/a25618.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
+    [ "Register", "d4/d04/a25618.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
 ];

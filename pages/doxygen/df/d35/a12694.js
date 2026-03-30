@@ -1,5 +1,7 @@
 var a12694 =
 [
-    [ "at_scarshield_infiltrator", "df/d35/a12694.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
-    [ "OnTrigger", "df/d35/a12694.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
+    [ "HandleDummy", "df/d35/a12694.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "df/d35/a12694.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "df/d35/a12694.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "df/d35/a12694.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

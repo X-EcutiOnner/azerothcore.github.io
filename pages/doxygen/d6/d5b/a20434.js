@@ -1,5 +1,5 @@
 var a20434 =
 [
-    [ "achievement_shadowdodger", "d6/d5b/a20434.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
-    [ "OnCheck", "d6/d5b/a20434.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
+    [ "achievement_quick_shave", "d6/d5b/a20434.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
+    [ "OnCheck", "d6/d5b/a20434.html#a151c479da3d4cec05999ad8a249b100c", null ]
 ];

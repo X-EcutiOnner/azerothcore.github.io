@@ -1,9 +1,8 @@
 var a26294 =
 [
-    [ "CheckCaster", "d6/d8b/a26294.html#afc48d6f2d2d23b6ba996c76eda1d8d47", null ],
-    [ "OnApply", "d6/d8b/a26294.html#a34e2585c500c5975d6549cd1b7602b18", null ],
-    [ "OnRemove", "d6/d8b/a26294.html#a8d95ba91e4f358bd0abbecf2fe85dfb8", null ],
-    [ "PrepareAuraScript", "d6/d8b/a26294.html#ad905a91348b92007774c69467c24d40e", null ],
-    [ "Register", "d6/d8b/a26294.html#ada9610c7d5d1236ccb509ac7ca4a8b3d", null ],
-    [ "Validate", "d6/d8b/a26294.html#a0f9174b9cf14dd8bf0c8c444600511b1", null ]
+    [ "CheckProc", "d6/d8b/a26294.html#a180edf3dd9f3abd42ae6cd43353451fe", null ],
+    [ "HandleProc", "d6/d8b/a26294.html#a9d6daf153d86cf93e35c43d05dda2459", null ],
+    [ "PrepareAuraScript", "d6/d8b/a26294.html#a874672016641a737a197588ea980c2c3", null ],
+    [ "Register", "d6/d8b/a26294.html#a3578470f10bb4c10868d02d62cafceac", null ],
+    [ "Validate", "d6/d8b/a26294.html#a4f496a310941e40c9c841772be3e6414", null ]
 ];

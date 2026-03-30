@@ -1,8 +1,7 @@
 var a13342 =
 [
-    [ "CheckProc", "d6/d72/a13342.html#a085f6affd2bf76fe66f9023e67725848", null ],
-    [ "HandleProc", "d6/d72/a13342.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
-    [ "PrepareAuraScript", "d6/d72/a13342.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
-    [ "Register", "d6/d72/a13342.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
-    [ "Validate", "d6/d72/a13342.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
+    [ "OnApply", "d6/d72/a13342.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
+    [ "OnRemove", "d6/d72/a13342.html#a810203874163cf04798c3edbe69b747e", null ],
+    [ "PrepareAuraScript", "d6/d72/a13342.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
+    [ "Register", "d6/d72/a13342.html#af2ad52165de188897fdeb8d62646b7cc", null ]
 ];

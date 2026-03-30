@@ -1,6 +1,6 @@
 var a24026 =
 [
-    [ "npc_wounded_blood_elfAI", "df/d4b/a24030.html", "df/d4b/a24030" ],
-    [ "npc_wounded_blood_elf", "d4/d05/a24026.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "d4/d05/a24026.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "go_ancient_skull_pile", "d4/d05/a24026.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "d4/d05/a24026.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "d4/d05/a24026.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

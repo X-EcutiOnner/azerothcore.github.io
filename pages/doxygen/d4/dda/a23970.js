@@ -1,6 +1,6 @@
 var a23970 =
 [
-    [ "npc_daranelleAI", "d1/dcb/a23974.html", "d1/dcb/a23974" ],
-    [ "npc_daranelle", "d4/dda/a23970.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "d4/dda/a23970.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "PrepareSpellScript", "d4/dda/a23970.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
+    [ "Register", "d4/dda/a23970.html#ac57aee08a131bcf7db11bc105f32242c", null ],
+    [ "SetDest", "d4/dda/a23970.html#a26362c4873890bb60c2526bf07058746", null ]
 ];

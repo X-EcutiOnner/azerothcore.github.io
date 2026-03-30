@@ -1,5 +1,5 @@
 var a23082 =
 [
-    [ "PrepareSpellScript", "d1/d23/a23082.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
-    [ "Register", "d1/d23/a23082.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
+    [ "go_main_chambers_access_panel", "d1/d23/a23082.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "d1/d23/a23082.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

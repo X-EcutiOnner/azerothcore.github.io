@@ -1,6 +1,10 @@
 var a24318 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d1/d25/a24322.html", "d1/d25/a24322" ],
-    [ "npc_unkor_the_ruthless", "d9/d97/a24318.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "d9/d97/a24318.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "HandleEffectRemove", "d9/d97/a24318.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
+    [ "HandleImprovedBloodPresence", "d9/d97/a24318.html#a020c0ae1f74856ae070ab2104232a079", null ],
+    [ "HandleImprovedFrostPresence", "d9/d97/a24318.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
+    [ "HandleImprovedUnholyPresence", "d9/d97/a24318.html#a5da86bb3686327787da5f46fc756f0a0", null ],
+    [ "PrepareAuraScript", "d9/d97/a24318.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
+    [ "Register", "d9/d97/a24318.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
+    [ "Validate", "d9/d97/a24318.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
 ];

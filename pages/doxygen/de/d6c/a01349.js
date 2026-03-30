@@ -1,7 +1,10 @@
 var a01349 =
 [
-    [ "LoadPlayerSettings", "de/d6c/a01349.html#a070b072e62079e512137662a87d710f6", null ],
-    [ "ParseSettingsData", "de/d6c/a01349.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
-    [ "SerializeSettingsData", "de/d6c/a01349.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
-    [ "UpdateSetting", "de/d6c/a01349.html#ab725e991f09f03e0413ffe44fa807ead", null ]
+    [ "spell_razelikh_teleport_group", "d3/d2f/a13826.html", "d3/d2f/a13826" ],
+    [ "DeathlyUsher", "de/d6c/a01349.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
+      [ "SPELL_TELEPORT_SINGLE", "de/d6c/a01349.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
+      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "de/d6c/a01349.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
+      [ "SPELL_TELEPORT_GROUP", "de/d6c/a01349.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
+    ] ],
+    [ "AddSC_blasted_lands", "de/d6c/a01349.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
 ];

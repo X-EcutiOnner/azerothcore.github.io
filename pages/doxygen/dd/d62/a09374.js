@@ -1,9 +1,10 @@
 var a09374 =
 [
-    [ "GridReference", "dd/d62/a09374.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
-    [ "~GridReference", "dd/d62/a09374.html#afd6a4f88eb066818afde1b752600bb12", null ],
-    [ "next", "dd/d62/a09374.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
-    [ "sourceObjectDestroyLink", "dd/d62/a09374.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
-    [ "targetObjectBuildLink", "dd/d62/a09374.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
-    [ "targetObjectDestroyLink", "dd/d62/a09374.html#ac4c863d059b5c826e9597056dc7c887a", null ]
+    [ "GridObjectLoader", "dd/d62/a09374.html#a57cd46fee6f747221761aa3114c40ba6", null ],
+    [ "AddObjectHelper", "dd/d62/a09374.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
+    [ "LoadAllCellsInGrid", "dd/d62/a09374.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
+    [ "LoadCreatures", "dd/d62/a09374.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
+    [ "LoadGameObjects", "dd/d62/a09374.html#ad577dbb6544e806d25b496796651ba5b", null ],
+    [ "_grid", "dd/d62/a09374.html#abe551354634514fa3998eccb10fcbefe", null ],
+    [ "_map", "dd/d62/a09374.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
 ];

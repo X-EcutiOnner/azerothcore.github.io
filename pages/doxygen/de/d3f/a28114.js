@@ -1,10 +1,8 @@
 var a28114 =
 [
-    [ "boss_emerissAI", "de/d3f/a28114.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "de/d3f/a28114.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "de/d3f/a28114.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "de/d3f/a28114.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "de/d3f/a28114.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "de/d3f/a28114.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "de/d3f/a28114.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "npc_artoriusAI", "d5/d8a/a28118.html", "d5/d8a/a28118" ],
+    [ "npc_artorius", "de/d3f/a28114.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
+    [ "GetAI", "de/d3f/a28114.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
+    [ "OnGossipHello", "de/d3f/a28114.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
+    [ "OnGossipSelect", "de/d3f/a28114.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
 ];

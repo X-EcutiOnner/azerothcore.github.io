@@ -1,13 +1,10 @@
 var a08418 =
 [
-    [ "AnimationInfo", "d3/d58/a08418.html#aa443028e95ae416e09f1acfef0575803", null ],
-    [ "Building", "d3/d58/a08418.html#aef41ba6d4c2602b60bc2a6effcb1566a", null ],
-    [ "CapturePoint", "d3/d58/a08418.html#a9c5d239c211fd341300a77a53a87734d", null ],
-    [ "FishingHole", "d3/d58/a08418.html#a207f6a3102fb04285c05b83c5234dbec", null ],
-    [ "Health", "d3/d58/a08418.html#af70b72663064c9c4b88c93a824f1e14b", null ],
-    [ "MaxHealth", "d3/d58/a08418.html#ab606f11596c1dd3d1cf7588346338721", null ],
-    [ "MaxOpens", "d3/d58/a08418.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
-    [ "OPvPObj", "d3/d58/a08418.html#a565624b690fa7fabf21b175548765652", null ],
-    [ "PathProgress", "d3/d58/a08418.html#a9e07a147b2be08a78f052e0cdb817111", null ],
-    [ "Transport", "d3/d58/a08418.html#a049255e30486113c3337079edbd80ff9", null ]
+    [ "IsCastable", "d3/d58/a08418.html#a677b21866e24d2c94de28d96db07aafd", null ],
+    [ "MoneyCost", "d3/d58/a08418.html#af20caa962ba1f5edb376b78b6b35b119", null ],
+    [ "ReqAbility", "d3/d58/a08418.html#a101686190208be6fb46a46768ca779f9", null ],
+    [ "ReqLevel", "d3/d58/a08418.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
+    [ "ReqSkillLine", "d3/d58/a08418.html#a008ff0df36f2e19534a5fda97616f14f", null ],
+    [ "ReqSkillRank", "d3/d58/a08418.html#aa151d559cb276797a39dd203fd1b24c2", null ],
+    [ "SpellId", "d3/d58/a08418.html#ac289744925387c199fde756867bbfc57", null ]
 ];

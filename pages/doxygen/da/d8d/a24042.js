@@ -1,11 +1,7 @@
 var a24042 =
 [
-    [ "npc_magister_aledis", "da/d8d/a24042.html#a0e30c5d4f9fe023537a1b29258967630", null ],
-    [ "DamageTaken", "da/d8d/a24042.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
-    [ "Reset", "da/d8d/a24042.html#ae0a701eeaacc5188b382c59ecef14518", null ],
-    [ "sGossipSelect", "da/d8d/a24042.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
-    [ "StartFight", "da/d8d/a24042.html#a9149ce0a1df781043a5590fe4612511a", null ],
-    [ "UpdateAI", "da/d8d/a24042.html#aef885088193e2597e6990e3051a31ef7", null ],
-    [ "_events", "da/d8d/a24042.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
-    [ "_playerGUID", "da/d8d/a24042.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
+    [ "npc_pet_dk_army_of_the_dead", "da/d8d/a24042.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "CanAIAttack", "da/d8d/a24042.html#a514fe49b143f57ef87359b3060911c02", null ],
+    [ "OwnerAttacked", "da/d8d/a24042.html#ad5189df825dc917e59c9b19e4a84cded", null ],
+    [ "OwnerAttackedBy", "da/d8d/a24042.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ]
 ];

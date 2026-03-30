@@ -1,5 +1,5 @@
 var a00548 =
 [
-    [ "ProcEventInfoBuilder", "d0/df8/a29351.html", "d0/df8/a29351" ],
-    [ "SpellProcEntryBuilder", "d8/da9/a29355.html", "d8/da9/a29355" ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "dd/de6/a00548.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MverMagic", "dd/de6/a00548.html#a076cdc3e61f69e52913492840fc864cf", null ]
 ];

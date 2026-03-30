@@ -1,7 +1,8 @@
 var a16722 =
 [
-    [ "CountAllies", "d6/d21/a16722.html#a207c1fd89fd726054a881e342391d2a0", null ],
-    [ "PrepareSpellScript", "d6/d21/a16722.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
-    [ "Register", "d6/d21/a16722.html#a47574795b2a262625c65ab23a4179684", null ],
-    [ "Validate", "d6/d21/a16722.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
+    [ "npc_toc_hunterAI", "d6/d21/a16722.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d6/d21/a16722.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d6/d21/a16722.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d6/d21/a16722.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d6/d21/a16722.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

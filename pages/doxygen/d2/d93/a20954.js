@@ -1,6 +1,6 @@
 var a20954 =
 [
-    [ "FilterTargets", "d2/d93/a20954.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d2/d93/a20954.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d2/d93/a20954.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "df/d9a/a20958.html", "df/d9a/a20958" ],
+    [ "instance_utgarde_pinnacle", "d2/d93/a20954.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "d2/d93/a20954.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

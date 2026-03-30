@@ -1,7 +1,5 @@
 var a27858 =
 [
-    [ "OnProc", "d2/d7b/a27858.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d2/d7b/a27858.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d2/d7b/a27858.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d2/d7b/a27858.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "go_ethereum_stasis", "d2/d7b/a27858.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "d2/d7b/a27858.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

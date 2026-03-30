@@ -1,9 +1,10 @@
 var a19418 =
 [
-    [ "npc_isle_of_conquest_turretAI", "de/d0d/a19418.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "de/d0d/a19418.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "de/d0d/a19418.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "de/d0d/a19418.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "de/d0d/a19418.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "de/d0d/a19418.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "npc_power_spark", "de/d0d/a19418.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "de/d0d/a19418.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "de/d0d/a19418.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "de/d0d/a19418.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "de/d0d/a19418.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "de/d0d/a19418.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "de/d0d/a19418.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

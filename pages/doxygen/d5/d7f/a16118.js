@@ -1,6 +1,6 @@
 var a16118 =
 [
-    [ "npc_aquementasAI", "de/dcc/a16122.html", "de/dcc/a16122" ],
-    [ "npc_aquementas", "d5/d7f/a16118.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d5/d7f/a16118.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "ModDestHeight", "d5/d7f/a16118.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "d5/d7f/a16118.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "d5/d7f/a16118.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

@@ -1,7 +1,6 @@
 var a18394 =
 [
-    [ "HandleExtraEffect", "d2/da3/a18394.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "d2/da3/a18394.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "d2/da3/a18394.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "d2/da3/a18394.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "LichKingMovieEvent", "d2/da3/a18394.html#a3e48e13dc5166c73a9f379045988f86a", null ],
+    [ "Execute", "d2/da3/a18394.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
+    [ "_owner", "d2/da3/a18394.html#a7ed68f442a644d6bb7a036812351d89e", null ]
 ];

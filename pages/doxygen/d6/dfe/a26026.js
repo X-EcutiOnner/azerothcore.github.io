@@ -1,8 +1,7 @@
 var a26026 =
 [
-    [ "CheckProc", "d6/dfe/a26026.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
-    [ "HandleProc", "d6/dfe/a26026.html#ae034bd626880858c9701ed963de993c9", null ],
-    [ "isException", "d6/dfe/a26026.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
-    [ "PrepareAuraScript", "d6/dfe/a26026.html#a50348fd27947f67df03bf4ddbec89cca", null ],
-    [ "Register", "d6/dfe/a26026.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
+    [ "HandleDummy", "d6/dfe/a26026.html#aa510199edee85bfcf6314559e9c72928", null ],
+    [ "PrepareSpellScript", "d6/dfe/a26026.html#a8d2dce1e15f87bb3f744f89b7a531c72", null ],
+    [ "Register", "d6/dfe/a26026.html#a1da7830a42eabcccba81000b7094b205", null ],
+    [ "Validate", "d6/dfe/a26026.html#ad5f88629afe87669a18a7424b8b34ba0", null ]
 ];

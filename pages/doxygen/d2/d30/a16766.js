@@ -1,7 +1,6 @@
 var a16766 =
 [
-    [ "HandleAfterEffectAbsorb", "d2/d30/a16766.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "d2/d30/a16766.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "d2/d30/a16766.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "d2/d30/a16766.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "npc_toc_retro_paladinAI", "d7/d4f/a16770.html", "d7/d4f/a16770" ],
+    [ "npc_toc_retro_paladin", "d2/d30/a16766.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
+    [ "GetAI", "d2/d30/a16766.html#a1213c99792aa4362275bc827aa2f037e", null ]
 ];

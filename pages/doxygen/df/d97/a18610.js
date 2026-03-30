@@ -1,6 +1,8 @@
 var a18610 =
 [
-    [ "FilterTargets", "df/d97/a18610.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "df/d97/a18610.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "df/d97/a18610.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "npc_lk_spirit_bombAI", "df/d97/a18610.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "df/d97/a18610.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "df/d97/a18610.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "df/d97/a18610.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "df/d97/a18610.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

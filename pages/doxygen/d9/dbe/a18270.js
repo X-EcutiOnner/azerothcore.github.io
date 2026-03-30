@@ -1,6 +1,6 @@
 var a18270 =
 [
-    [ "npc_darnavanAI", "d3/d96/a18274.html", "d3/d96/a18274" ],
-    [ "npc_darnavan", "d9/dbe/a18270.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "d9/dbe/a18270.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "HandleSpecial", "d9/dbe/a18270.html#afa540e8c748ca3083667528e2449bc65", null ],
+    [ "PrepareSpellScript", "d9/dbe/a18270.html#a9472211ffdaa33802099b22b2a721645", null ],
+    [ "Register", "d9/dbe/a18270.html#ab868b10372ff2ef401d19b126acf00c6", null ]
 ];

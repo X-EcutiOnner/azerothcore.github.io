@@ -1,7 +1,8 @@
 var a19978 =
 [
-    [ "OnRemove", "de/d10/a19978.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "de/d10/a19978.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "de/d10/a19978.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "de/d10/a19978.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "FilterTargets", "de/d10/a19978.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "de/d10/a19978.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "de/d10/a19978.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "de/d10/a19978.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "de/d10/a19978.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

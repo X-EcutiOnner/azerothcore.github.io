@@ -1,6 +1,8 @@
 var a16786 =
 [
-    [ "npc_black_knight_ghoulAI", "d6/d87/a16790.html", "d6/d87/a16790" ],
-    [ "npc_black_knight_ghoul", "df/dd2/a16786.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
-    [ "GetAI", "df/dd2/a16786.html#a52308f8d168e1ccea22de653813b7f6f", null ]
+    [ "npc_toc_pet_hunterAI", "df/dd2/a16786.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "df/dd2/a16786.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "df/dd2/a16786.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "df/dd2/a16786.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "df/dd2/a16786.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

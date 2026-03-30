@@ -1,7 +1,6 @@
 var a26242 =
 [
-    [ "OnApply", "dd/deb/a26242.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
-    [ "OnRemove", "dd/deb/a26242.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
-    [ "PrepareAuraScript", "dd/deb/a26242.html#aa93b45e31c33caf3ea51a26846566b34", null ],
-    [ "Register", "dd/deb/a26242.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
+    [ "HandleDummy", "dd/deb/a26242.html#acb433ef020fbd090259ac969a35842ea", null ],
+    [ "PrepareSpellScript", "dd/deb/a26242.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
+    [ "Register", "dd/deb/a26242.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
 ];

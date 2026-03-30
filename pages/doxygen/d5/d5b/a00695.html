@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/World/WorldState.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/ExtraAttackChainProcTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,192 +105,413 @@ $(document).ready(function(){initNavTree('d5/d5b/a00695.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">WorldState.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">ExtraAttackChainProcTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureAIImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UnitAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Weather.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldState.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldConfig.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldStateDefines.h</a>&quot;</code><br />
-<code>#include &lt;chrono&gt;</code><br />
+
+<p><a class="el" href="../../df/d49/a09034.html">Unit</a> tests for extra attack chain-proc prevention.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:ae92d2d64df97e6d4e504459dbe62a704"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704">WorldStateSunsReachQuests</a> { <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24">QUEST_ERRATIC_BEHAVIOR</a> = 11524
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0">QUEST_SANCTUM_WARDS</a> = 11496
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a">QUEST_BATTLE_FOR_THE_SUNS_REACH_ARMORY</a> = 11538
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873">QUEST_DISTRACTION_AT_THE_DEAD_SCAR</a> = 11532
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377">QUEST_INTERCEPTING_THE_MANA_CELLS</a> = 11513
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5">QUEST_INTERCEPT_THE_REINFORCEMENTS</a> = 11542
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3">QUEST_TAKING_THE_HARBOR</a> = 11539
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430">QUEST_MAKING_READY</a> = 11535
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158">QUEST_DISCOVERING_YOUR_ROOTS</a> = 11520
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b">QUEST_A_CHARITABLE_DONATION</a> = 11545
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4">QUEST_A_MAGNANIMOUS_BENEFACTOR</a> = 11549
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5">COUNTER_MAX_VAL_REQ</a> = 10000
-<br />
- }</td></tr>
-<tr class="separator:ae92d2d64df97e6d4e504459dbe62a704"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab96270d11fbb117a1f967bc0d80f91ca"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91ca">WorldStateSunwellGateQuests</a> { <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb">QUEST_AGAMATH_THE_FIRST_GATE</a> = 11551
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52">QUEST_ROHENDOR_THE_SECOND_GATE</a> = 11552
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc">QUEST_ARCHONISUS_THE_FINAL_GATE</a> = 11553
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5">COUNTER_MAX_VAL_REQ_SWP_GATES</a> = 80
-<br />
- }</td></tr>
-<tr class="separator:ab96270d11fbb117a1f967bc0d80f91ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad2d2b5f255f79a9389125d179974fa6c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6c">PallidHorrorPaths</a> { <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589">PATH_STORMWIND_KEEP</a> = 163941
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c">PATH_STORMWIND_TRADE_DISTRICT</a> = 163942
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130">PATH_UNDERCITY_TRADE_QUARTER</a> = 163943
-, <br />
-&#160;&#160;<a class="el" href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6caa4c7de27637688faf47903d52c69102b">PATH_UNDERCITY_ROYAL_QUARTER</a> = 163944
-<br />
- }</td></tr>
-<tr class="separator:ad2d2b5f255f79a9389125d179974fa6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a510139ca0dbe6b263f79cdf71e8f3104"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#a510139ca0dbe6b263f79cdf71e8f3104">TEST_F</a> (<a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>, NormalProc_AllowedWhenNoExtraAttackInProgress)</td></tr>
+<tr class="separator:a510139ca0dbe6b263f79cdf71e8f3104"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae32b028257e04cd926bd3c20a6a63a02"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#ae32b028257e04cd926bd3c20a6a63a02">TEST_F</a> (<a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>, SelfChain_BlockedWhenSameSpell)</td></tr>
+<tr class="separator:ae32b028257e04cd926bd3c20a6a63a02"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a42dbae4a1b1bebe552097cb6d7192996"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#a42dbae4a1b1bebe552097cb6d7192996">TEST_F</a> (<a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>, CrossChain_BlockedBySwordSpecialization)</td></tr>
+<tr class="separator:a42dbae4a1b1bebe552097cb6d7192996"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc49b8d509a71311b8f4ab364e4da973"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#abc49b8d509a71311b8f4ab364e4da973">TEST_F</a> (<a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>, CrossChain_BlockedByHackAndSlash)</td></tr>
+<tr class="separator:abc49b8d509a71311b8f4ab364e4da973"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a496682ab03245df2e7c1e539fe7a1b3c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#a496682ab03245df2e7c1e539fe7a1b3c">TEST_F</a> (<a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>, DifferentExtraAttack_AllowedWhenNotBlacklisted)</td></tr>
+<tr class="separator:a496682ab03245df2e7c1e539fe7a1b3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae45135f1555115aa04a957f7786ef8eb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#ae45135f1555115aa04a957f7786ef8eb">TEST_F</a> (<a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>, NonExtraAttackProc_UnaffectedByExtraAttackState)</td></tr>
+<tr class="separator:ae45135f1555115aa04a957f7786ef8eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9dbad8c1ef4a5f8cd46f58762938ef28"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#a9dbad8c1ef4a5f8cd46f58762938ef28">TEST_F</a> (<a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>, Reckoning_SelfChainBlocked)</td></tr>
+<tr class="separator:a9dbad8c1ef4a5f8cd46f58762938ef28"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca644b360370337d76d0d1f955f4bf91"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#aca644b360370337d76d0d1f955f4bf91">TEST_F</a> (<a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>, Reckoning_AllowedDuringHandOfJustice)</td></tr>
+<tr class="separator:aca644b360370337d76d0d1f955f4bf91"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a3d5a3ceb207bb46f5ccfce1e6c3e3a48"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48">SPELL_RECKONING</a> = 32746</td></tr>
+<tr class="separator:a3d5a3ceb207bb46f5ccfce1e6c3e3a48"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82bc87ae06a613c804e98c7f1584cebd"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d5b/a00695.html#a82bc87ae06a613c804e98c7f1584cebd">SPELL_HAND_OF_JUSTICE</a> = 15601</td></tr>
+<tr class="separator:a82bc87ae06a613c804e98c7f1584cebd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="ad2d2b5f255f79a9389125d179974fa6c" name="ad2d2b5f255f79a9389125d179974fa6c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad2d2b5f255f79a9389125d179974fa6c">&#9670;&#160;</a></span>PallidHorrorPaths</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p ><a class="el" href="../../df/d49/a09034.html">Unit</a> tests for extra attack chain-proc prevention. </p>
+<p >Tests the logic from <a class="el" href="../../d0/d06/a03368.html">SpellAuraEffects.cpp</a>:1245-1261 (CheckEffectProc):</p><ul>
+<li>Self-chain prevention (same extra attack spell can't proc itself)</li>
+<li>Cross-chain prevention (Sword Specialization / Hack and Slash block all extra attack procs)</li>
+<li>Non-blacklisted extra attack spells allow cross-proccing</li>
+<li>Non-extra-attack procs are unaffected by the guard </li>
+</ul>
+
+<p class="definition">Definition in file <a class="el" href="../../">ExtraAttackChainProcTest.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="abc49b8d509a71311b8f4ab364e4da973" name="abc49b8d509a71311b8f4ab364e4da973"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc49b8d509a71311b8f4ab364e4da973">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/8]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6c">PallidHorrorPaths</a></td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CrossChain_BlockedByHackAndSlash&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589" name="ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589"></a>PATH_STORMWIND_KEEP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c" name="ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c"></a>PATH_STORMWIND_TRADE_DISTRICT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130" name="ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130"></a>PATH_UNDERCITY_TRADE_QUARTER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad2d2b5f255f79a9389125d179974fa6caa4c7de27637688faf47903d52c69102b" name="ad2d2b5f255f79a9389125d179974fa6caa4c7de27637688faf47903d52c69102b"></a>PATH_UNDERCITY_ROYAL_QUARTER&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno"> 1757</span>{</div>
-<div class="line"><span class="lineno"> 1758</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589">PATH_STORMWIND_KEEP</a>           = 163941,</div>
-<div class="line"><span class="lineno"> 1759</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c">PATH_STORMWIND_TRADE_DISTRICT</a> = 163942,</div>
-<div class="line"><span class="lineno"> 1760</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130">PATH_UNDERCITY_TRADE_QUARTER</a>  = 163943,</div>
-<div class="line"><span class="lineno"> 1761</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6caa4c7de27637688faf47903d52c69102b">PATH_UNDERCITY_ROYAL_QUARTER</a>  = 163944,</div>
-<div class="line"><span class="lineno"> 1762</span>};</div>
-<div class="ttc" id="aa00695_html_ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c"><div class="ttname"><a href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c">PATH_STORMWIND_TRADE_DISTRICT</a></div><div class="ttdeci">@ PATH_STORMWIND_TRADE_DISTRICT</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:1759</div></div>
-<div class="ttc" id="aa00695_html_ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130"><div class="ttname"><a href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130">PATH_UNDERCITY_TRADE_QUARTER</a></div><div class="ttdeci">@ PATH_UNDERCITY_TRADE_QUARTER</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:1760</div></div>
-<div class="ttc" id="aa00695_html_ad2d2b5f255f79a9389125d179974fa6caa4c7de27637688faf47903d52c69102b"><div class="ttname"><a href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6caa4c7de27637688faf47903d52c69102b">PATH_UNDERCITY_ROYAL_QUARTER</a></div><div class="ttdeci">@ PATH_UNDERCITY_ROYAL_QUARTER</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:1761</div></div>
-<div class="ttc" id="aa00695_html_ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589"><div class="ttname"><a href="../../d5/d5b/a00695.html#ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589">PATH_STORMWIND_KEEP</a></div><div class="ttdeci">@ PATH_STORMWIND_KEEP</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:1758</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
+<div class="line"><span class="lineno">   93</span>    <span class="comment">// Reckoning trying to proc during Hack and Slash extra attack</span></div>
+<div class="line"><span class="lineno">   94</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <a class="code hl_variable" href="../../d5/d5b/a00695.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48">SPELL_RECKONING</a>, <a class="code hl_enumvalue" href="../../df/dd7/a04586.html#acbae0b3833c77496bf4cff9429476408a1e08998d2114a6246cdee19d526a55d2">SPELL_HACK_AND_SLASH</a>);</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d9/d46/a29270.html#ad11bf4c6cd4a5bb1bcd80699f1d4a16e">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc</a>(config))</div>
+<div class="line"><span class="lineno">   97</span>        &lt;&lt; <span class="stringliteral">&quot;Hack and Slash extra attack should block all other extra attack procs&quot;</span>;</div>
+<div class="line"><span class="lineno">   98</span>}</div>
+<div class="ttc" id="aa00695_html_a3d5a3ceb207bb46f5ccfce1e6c3e3a48"><div class="ttname"><a href="../../d5/d5b/a00695.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48">SPELL_RECKONING</a></div><div class="ttdeci">constexpr uint32 SPELL_RECKONING</div><div class="ttdef"><b>Definition:</b> ExtraAttackChainProcTest.cpp:35</div></div>
+<div class="ttc" id="aa04586_html_acbae0b3833c77496bf4cff9429476408a1e08998d2114a6246cdee19d526a55d2"><div class="ttname"><a href="../../df/dd7/a04586.html#acbae0b3833c77496bf4cff9429476408a1e08998d2114a6246cdee19d526a55d2">SPELL_HACK_AND_SLASH</a></div><div class="ttdeci">@ SPELL_HACK_AND_SLASH</div><div class="ttdef"><b>Definition:</b> Unit.h:298</div></div>
+<div class="ttc" id="aa29270_html_ad11bf4c6cd4a5bb1bcd80699f1d4a16e"><div class="ttname"><a href="../../d9/d46/a29270.html#ad11bf4c6cd4a5bb1bcd80699f1d4a16e">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc</a></div><div class="ttdeci">static bool ShouldBlockExtraAttackChainProc(ExtraAttackProcConfig const &amp;config)</div><div class="ttdoc">Simulate extra attack chain-proc prevention from CheckEffectProc Returns true if proc should be block...</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:310</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00310">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc()</a>, <a class="el" href="../../#l00298">SPELL_HACK_AND_SLASH</a>, and <a class="el" href="../../#l00035">SPELL_RECKONING</a>.</p>
+
 </div>
 </div>
-<a id="ae92d2d64df97e6d4e504459dbe62a704" name="ae92d2d64df97e6d4e504459dbe62a704"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae92d2d64df97e6d4e504459dbe62a704">&#9670;&#160;</a></span>WorldStateSunsReachQuests</h2>
+<a id="a42dbae4a1b1bebe552097cb6d7192996" name="a42dbae4a1b1bebe552097cb6d7192996"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a42dbae4a1b1bebe552097cb6d7192996">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/8]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704">WorldStateSunsReachQuests</a></td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CrossChain_BlockedBySwordSpecialization&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24" name="ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24"></a>QUEST_ERRATIC_BEHAVIOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0" name="ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0"></a>QUEST_SANCTUM_WARDS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a" name="ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a"></a>QUEST_BATTLE_FOR_THE_SUNS_REACH_ARMORY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873" name="ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873"></a>QUEST_DISTRACTION_AT_THE_DEAD_SCAR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377" name="ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377"></a>QUEST_INTERCEPTING_THE_MANA_CELLS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5" name="ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5"></a>QUEST_INTERCEPT_THE_REINFORCEMENTS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3" name="ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3"></a>QUEST_TAKING_THE_HARBOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430" name="ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430"></a>QUEST_MAKING_READY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158" name="ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158"></a>QUEST_DISCOVERING_YOUR_ROOTS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b" name="ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b"></a>QUEST_A_CHARITABLE_DONATION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4" name="ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4"></a>QUEST_A_MAGNANIMOUS_BENEFACTOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5" name="ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5"></a>COUNTER_MAX_VAL_REQ&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  552</span>{</div>
-<div class="line"><span class="lineno">  553</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24">QUEST_ERRATIC_BEHAVIOR</a>                  = 11524,</div>
-<div class="line"><span class="lineno">  554</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0">QUEST_SANCTUM_WARDS</a>                     = 11496,</div>
-<div class="line"><span class="lineno">  555</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a">QUEST_BATTLE_FOR_THE_SUNS_REACH_ARMORY</a>  = 11538,</div>
-<div class="line"><span class="lineno">  556</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873">QUEST_DISTRACTION_AT_THE_DEAD_SCAR</a>      = 11532,</div>
-<div class="line"><span class="lineno">  557</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377">QUEST_INTERCEPTING_THE_MANA_CELLS</a>       = 11513,</div>
-<div class="line"><span class="lineno">  558</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5">QUEST_INTERCEPT_THE_REINFORCEMENTS</a>      = 11542,</div>
-<div class="line"><span class="lineno">  559</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3">QUEST_TAKING_THE_HARBOR</a>                 = 11539,</div>
-<div class="line"><span class="lineno">  560</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430">QUEST_MAKING_READY</a>                      = 11535,</div>
-<div class="line"><span class="lineno">  561</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158">QUEST_DISCOVERING_YOUR_ROOTS</a>            = 11520,</div>
-<div class="line"><span class="lineno">  562</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b">QUEST_A_CHARITABLE_DONATION</a>             = 11545,</div>
-<div class="line"><span class="lineno">  563</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4">QUEST_A_MAGNANIMOUS_BENEFACTOR</a>          = 11549,</div>
-<div class="line"><span class="lineno">  564</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5">COUNTER_MAX_VAL_REQ</a>                     = 10000,</div>
-<div class="line"><span class="lineno">  565</span>};</div>
-<div class="ttc" id="aa00695_html_ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5"><div class="ttname"><a href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5">COUNTER_MAX_VAL_REQ</a></div><div class="ttdeci">@ COUNTER_MAX_VAL_REQ</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:564</div></div>
-<div class="ttc" id="aa00695_html_ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24"><div class="ttname"><a href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24">QUEST_ERRATIC_BEHAVIOR</a></div><div class="ttdeci">@ QUEST_ERRATIC_BEHAVIOR</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:553</div></div>
-<div class="ttc" id="aa00695_html_ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377"><div class="ttname"><a href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377">QUEST_INTERCEPTING_THE_MANA_CELLS</a></div><div class="ttdeci">@ QUEST_INTERCEPTING_THE_MANA_CELLS</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:557</div></div>
-<div class="ttc" id="aa00695_html_ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0"><div class="ttname"><a href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0">QUEST_SANCTUM_WARDS</a></div><div class="ttdeci">@ QUEST_SANCTUM_WARDS</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:554</div></div>
-<div class="ttc" id="aa00695_html_ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a"><div class="ttname"><a href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a">QUEST_BATTLE_FOR_THE_SUNS_REACH_ARMORY</a></div><div class="ttdeci">@ QUEST_BATTLE_FOR_THE_SUNS_REACH_ARMORY</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:555</div></div>
-<div class="ttc" id="aa00695_html_ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5"><div class="ttname"><a href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5">QUEST_INTERCEPT_THE_REINFORCEMENTS</a></div><div class="ttdeci">@ QUEST_INTERCEPT_THE_REINFORCEMENTS</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:558</div></div>
-<div class="ttc" id="aa00695_html_ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430"><div class="ttname"><a href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430">QUEST_MAKING_READY</a></div><div class="ttdeci">@ QUEST_MAKING_READY</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:560</div></div>
-<div class="ttc" id="aa00695_html_ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4"><div class="ttname"><a href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4">QUEST_A_MAGNANIMOUS_BENEFACTOR</a></div><div class="ttdeci">@ QUEST_A_MAGNANIMOUS_BENEFACTOR</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:563</div></div>
-<div class="ttc" id="aa00695_html_ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158"><div class="ttname"><a href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158">QUEST_DISCOVERING_YOUR_ROOTS</a></div><div class="ttdeci">@ QUEST_DISCOVERING_YOUR_ROOTS</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:561</div></div>
-<div class="ttc" id="aa00695_html_ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873"><div class="ttname"><a href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873">QUEST_DISTRACTION_AT_THE_DEAD_SCAR</a></div><div class="ttdeci">@ QUEST_DISTRACTION_AT_THE_DEAD_SCAR</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:556</div></div>
-<div class="ttc" id="aa00695_html_ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3"><div class="ttname"><a href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3">QUEST_TAKING_THE_HARBOR</a></div><div class="ttdeci">@ QUEST_TAKING_THE_HARBOR</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:559</div></div>
-<div class="ttc" id="aa00695_html_ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b"><div class="ttname"><a href="../../d5/d5b/a00695.html#ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b">QUEST_A_CHARITABLE_DONATION</a></div><div class="ttdeci">@ QUEST_A_CHARITABLE_DONATION</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:562</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   83</span>{</div>
+<div class="line"><span class="lineno">   84</span>    <span class="comment">// Reckoning trying to proc during Sword Spec extra attack</span></div>
+<div class="line"><span class="lineno">   85</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <a class="code hl_variable" href="../../d5/d5b/a00695.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48">SPELL_RECKONING</a>, <a class="code hl_enumvalue" href="../../df/dd7/a04586.html#acbae0b3833c77496bf4cff9429476408a808f9b7965f5d2344868b2bb70497a8d">SPELL_SWORD_SPECIALIZATION</a>);</div>
+<div class="line"><span class="lineno">   86</span> </div>
+<div class="line"><span class="lineno">   87</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d9/d46/a29270.html#ad11bf4c6cd4a5bb1bcd80699f1d4a16e">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc</a>(config))</div>
+<div class="line"><span class="lineno">   88</span>        &lt;&lt; <span class="stringliteral">&quot;Sword Specialization extra attack should block all other extra attack procs&quot;</span>;</div>
+<div class="line"><span class="lineno">   89</span>}</div>
+<div class="ttc" id="aa04586_html_acbae0b3833c77496bf4cff9429476408a808f9b7965f5d2344868b2bb70497a8d"><div class="ttname"><a href="../../df/dd7/a04586.html#acbae0b3833c77496bf4cff9429476408a808f9b7965f5d2344868b2bb70497a8d">SPELL_SWORD_SPECIALIZATION</a></div><div class="ttdeci">@ SPELL_SWORD_SPECIALIZATION</div><div class="ttdef"><b>Definition:</b> Unit.h:297</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00310">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc()</a>, <a class="el" href="../../#l00035">SPELL_RECKONING</a>, and <a class="el" href="../../#l00297">SPELL_SWORD_SPECIALIZATION</a>.</p>
+
 </div>
 </div>
-<a id="ab96270d11fbb117a1f967bc0d80f91ca" name="ab96270d11fbb117a1f967bc0d80f91ca"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab96270d11fbb117a1f967bc0d80f91ca">&#9670;&#160;</a></span>WorldStateSunwellGateQuests</h2>
+<a id="a496682ab03245df2e7c1e539fe7a1b3c" name="a496682ab03245df2e7c1e539fe7a1b3c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a496682ab03245df2e7c1e539fe7a1b3c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/8]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91ca">WorldStateSunwellGateQuests</a></td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DifferentExtraAttack_AllowedWhenNotBlacklisted&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb" name="ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb"></a>QUEST_AGAMATH_THE_FIRST_GATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52" name="ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52"></a>QUEST_ROHENDOR_THE_SECOND_GATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc" name="ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc"></a>QUEST_ARCHONISUS_THE_FINAL_GATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5" name="ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5"></a>COUNTER_MAX_VAL_REQ_SWP_GATES&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno"> 1135</span>{</div>
-<div class="line"><span class="lineno"> 1136</span>    <span class="comment">// Sunwell Plateau PTR progressive release gates</span></div>
-<div class="line"><span class="lineno"> 1137</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb">QUEST_AGAMATH_THE_FIRST_GATE</a>            = 11551,</div>
-<div class="line"><span class="lineno"> 1138</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52">QUEST_ROHENDOR_THE_SECOND_GATE</a>          = 11552,</div>
-<div class="line"><span class="lineno"> 1139</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc">QUEST_ARCHONISUS_THE_FINAL_GATE</a>         = 11553,</div>
-<div class="line"><span class="lineno"> 1140</span>    <a class="code hl_enumvalue" href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5">COUNTER_MAX_VAL_REQ_SWP_GATES</a>           = 80,</div>
-<div class="line"><span class="lineno"> 1141</span>};</div>
-<div class="ttc" id="aa00695_html_ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb"><div class="ttname"><a href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb">QUEST_AGAMATH_THE_FIRST_GATE</a></div><div class="ttdeci">@ QUEST_AGAMATH_THE_FIRST_GATE</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:1137</div></div>
-<div class="ttc" id="aa00695_html_ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc"><div class="ttname"><a href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc">QUEST_ARCHONISUS_THE_FINAL_GATE</a></div><div class="ttdeci">@ QUEST_ARCHONISUS_THE_FINAL_GATE</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:1139</div></div>
-<div class="ttc" id="aa00695_html_ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52"><div class="ttname"><a href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52">QUEST_ROHENDOR_THE_SECOND_GATE</a></div><div class="ttdeci">@ QUEST_ROHENDOR_THE_SECOND_GATE</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:1138</div></div>
-<div class="ttc" id="aa00695_html_ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5"><div class="ttname"><a href="../../d5/d5b/a00695.html#ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5">COUNTER_MAX_VAL_REQ_SWP_GATES</a></div><div class="ttdeci">@ COUNTER_MAX_VAL_REQ_SWP_GATES</div><div class="ttdef"><b>Definition:</b> WorldState.cpp:1140</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
+<div class="line"><span class="lineno">  106</span>    <span class="comment">// Sword Spec trying to proc during Hand of Justice extra attack</span></div>
+<div class="line"><span class="lineno">  107</span>    <span class="comment">// Hand of Justice (15601) is not blacklisted, so cross-proc is allowed</span></div>
+<div class="line"><span class="lineno">  108</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <a class="code hl_enumvalue" href="../../df/dd7/a04586.html#acbae0b3833c77496bf4cff9429476408a808f9b7965f5d2344868b2bb70497a8d">SPELL_SWORD_SPECIALIZATION</a>, <a class="code hl_variable" href="../../d5/d5b/a00695.html#a82bc87ae06a613c804e98c7f1584cebd">SPELL_HAND_OF_JUSTICE</a>);</div>
+<div class="line"><span class="lineno">  109</span> </div>
+<div class="line"><span class="lineno">  110</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d9/d46/a29270.html#ad11bf4c6cd4a5bb1bcd80699f1d4a16e">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc</a>(config))</div>
+<div class="line"><span class="lineno">  111</span>        &lt;&lt; <span class="stringliteral">&quot;Non-blacklisted extra attack spells should allow cross-proccing&quot;</span>;</div>
+<div class="line"><span class="lineno">  112</span>}</div>
+<div class="ttc" id="aa00695_html_a82bc87ae06a613c804e98c7f1584cebd"><div class="ttname"><a href="../../d5/d5b/a00695.html#a82bc87ae06a613c804e98c7f1584cebd">SPELL_HAND_OF_JUSTICE</a></div><div class="ttdeci">constexpr uint32 SPELL_HAND_OF_JUSTICE</div><div class="ttdef"><b>Definition:</b> ExtraAttackChainProcTest.cpp:36</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00310">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc()</a>, <a class="el" href="../../#l00036">SPELL_HAND_OF_JUSTICE</a>, and <a class="el" href="../../#l00297">SPELL_SWORD_SPECIALIZATION</a>.</p>
+
+</div>
+</div>
+<a id="ae45135f1555115aa04a957f7786ef8eb" name="ae45135f1555115aa04a957f7786ef8eb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae45135f1555115aa04a957f7786ef8eb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NonExtraAttackProc_UnaffectedByExtraAttackState&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  119</span>{</div>
+<div class="line"><span class="lineno">  120</span>    <span class="comment">// A proc that does NOT grant extra attacks should never be blocked,</span></div>
+<div class="line"><span class="lineno">  121</span>    <span class="comment">// even during Sword Spec extra attack</span></div>
+<div class="line"><span class="lineno">  122</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">false</span>, 12345, <a class="code hl_enumvalue" href="../../df/dd7/a04586.html#acbae0b3833c77496bf4cff9429476408a808f9b7965f5d2344868b2bb70497a8d">SPELL_SWORD_SPECIALIZATION</a>);</div>
+<div class="line"><span class="lineno">  123</span> </div>
+<div class="line"><span class="lineno">  124</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d9/d46/a29270.html#ad11bf4c6cd4a5bb1bcd80699f1d4a16e">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc</a>(config))</div>
+<div class="line"><span class="lineno">  125</span>        &lt;&lt; <span class="stringliteral">&quot;Non-extra-attack procs should be unaffected by extra attack state&quot;</span>;</div>
+<div class="line"><span class="lineno">  126</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00310">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc()</a>, and <a class="el" href="../../#l00297">SPELL_SWORD_SPECIALIZATION</a>.</p>
+
+</div>
+</div>
+<a id="a510139ca0dbe6b263f79cdf71e8f3104" name="a510139ca0dbe6b263f79cdf71e8f3104"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a510139ca0dbe6b263f79cdf71e8f3104">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NormalProc_AllowedWhenNoExtraAttackInProgress&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
+<div class="line"><span class="lineno">   58</span>    <span class="comment">// lastExtraAttackSpell == 0 means no extra attack is executing</span></div>
+<div class="line"><span class="lineno">   59</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <a class="code hl_enumvalue" href="../../df/dd7/a04586.html#acbae0b3833c77496bf4cff9429476408a808f9b7965f5d2344868b2bb70497a8d">SPELL_SWORD_SPECIALIZATION</a>, 0);</div>
+<div class="line"><span class="lineno">   60</span> </div>
+<div class="line"><span class="lineno">   61</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d9/d46/a29270.html#ad11bf4c6cd4a5bb1bcd80699f1d4a16e">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc</a>(config))</div>
+<div class="line"><span class="lineno">   62</span>        &lt;&lt; <span class="stringliteral">&quot;Extra attack proc should be allowed when no extra attack is in progress&quot;</span>;</div>
+<div class="line"><span class="lineno">   63</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00310">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc()</a>, and <a class="el" href="../../#l00297">SPELL_SWORD_SPECIALIZATION</a>.</p>
+
+</div>
+</div>
+<a id="aca644b360370337d76d0d1f955f4bf91" name="aca644b360370337d76d0d1f955f4bf91"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aca644b360370337d76d0d1f955f4bf91">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Reckoning_AllowedDuringHandOfJustice&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  142</span>{</div>
+<div class="line"><span class="lineno">  143</span>    <span class="comment">// Reckoning trying to proc during Hand of Justice extra attack</span></div>
+<div class="line"><span class="lineno">  144</span>    <span class="comment">// Hand of Justice is not blacklisted, so Reckoning is allowed</span></div>
+<div class="line"><span class="lineno">  145</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <a class="code hl_variable" href="../../d5/d5b/a00695.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48">SPELL_RECKONING</a>, <a class="code hl_variable" href="../../d5/d5b/a00695.html#a82bc87ae06a613c804e98c7f1584cebd">SPELL_HAND_OF_JUSTICE</a>);</div>
+<div class="line"><span class="lineno">  146</span> </div>
+<div class="line"><span class="lineno">  147</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d9/d46/a29270.html#ad11bf4c6cd4a5bb1bcd80699f1d4a16e">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc</a>(config))</div>
+<div class="line"><span class="lineno">  148</span>        &lt;&lt; <span class="stringliteral">&quot;Reckoning should be allowed during Hand of Justice extra attack&quot;</span>;</div>
+<div class="line"><span class="lineno">  149</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00310">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc()</a>, <a class="el" href="../../#l00036">SPELL_HAND_OF_JUSTICE</a>, and <a class="el" href="../../#l00035">SPELL_RECKONING</a>.</p>
+
+</div>
+</div>
+<a id="a9dbad8c1ef4a5f8cd46f58762938ef28" name="a9dbad8c1ef4a5f8cd46f58762938ef28"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9dbad8c1ef4a5f8cd46f58762938ef28">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Reckoning_SelfChainBlocked&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  133</span>{</div>
+<div class="line"><span class="lineno">  134</span>    <span class="comment">// Reckoning (32746) trying to proc during its own extra attack</span></div>
+<div class="line"><span class="lineno">  135</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <a class="code hl_variable" href="../../d5/d5b/a00695.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48">SPELL_RECKONING</a>, <a class="code hl_variable" href="../../d5/d5b/a00695.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48">SPELL_RECKONING</a>);</div>
+<div class="line"><span class="lineno">  136</span> </div>
+<div class="line"><span class="lineno">  137</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d9/d46/a29270.html#ad11bf4c6cd4a5bb1bcd80699f1d4a16e">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc</a>(config))</div>
+<div class="line"><span class="lineno">  138</span>        &lt;&lt; <span class="stringliteral">&quot;Reckoning should not chain-proc itself&quot;</span>;</div>
+<div class="line"><span class="lineno">  139</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00310">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc()</a>, and <a class="el" href="../../#l00035">SPELL_RECKONING</a>.</p>
+
+</div>
+</div>
+<a id="ae32b028257e04cd926bd3c20a6a63a02" name="ae32b028257e04cd926bd3c20a6a63a02"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae32b028257e04cd926bd3c20a6a63a02">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d90/a29442.html">ExtraAttackChainProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SelfChain_BlockedWhenSameSpell&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   70</span>{</div>
+<div class="line"><span class="lineno">   71</span>    <span class="comment">// Sword Spec trying to proc during its own extra attack</span></div>
+<div class="line"><span class="lineno">   72</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <a class="code hl_enumvalue" href="../../df/dd7/a04586.html#acbae0b3833c77496bf4cff9429476408a808f9b7965f5d2344868b2bb70497a8d">SPELL_SWORD_SPECIALIZATION</a>, <a class="code hl_enumvalue" href="../../df/dd7/a04586.html#acbae0b3833c77496bf4cff9429476408a808f9b7965f5d2344868b2bb70497a8d">SPELL_SWORD_SPECIALIZATION</a>);</div>
+<div class="line"><span class="lineno">   73</span> </div>
+<div class="line"><span class="lineno">   74</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d9/d46/a29270.html#ad11bf4c6cd4a5bb1bcd80699f1d4a16e">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc</a>(config))</div>
+<div class="line"><span class="lineno">   75</span>        &lt;&lt; <span class="stringliteral">&quot;Extra attack spell should not chain-proc itself&quot;</span>;</div>
+<div class="line"><span class="lineno">   76</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00310">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc()</a>, and <a class="el" href="../../#l00297">SPELL_SWORD_SPECIALIZATION</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a82bc87ae06a613c804e98c7f1584cebd" name="a82bc87ae06a613c804e98c7f1584cebd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a82bc87ae06a613c804e98c7f1584cebd">&#9670;&#160;</a></span>SPELL_HAND_OF_JUSTICE</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SPELL_HAND_OF_JUSTICE = 15601</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00104">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a3d5a3ceb207bb46f5ccfce1e6c3e3a48" name="a3d5a3ceb207bb46f5ccfce1e6c3e3a48"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3d5a3ceb207bb46f5ccfce1e6c3e3a48">&#9670;&#160;</a></span>SPELL_RECKONING</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SPELL_RECKONING = 32746</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00082">TEST_F()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -298,8 +519,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_6f2d0651f8bb60d9295230d3c0a9398e.html">World</a></li><li class="navelem"><a class="el" href="../../d5/d5b/a00695.html">WorldState.cpp</a></li>
-    <li class="footer">Generated on Mon Mar 23 2026 21:05:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d5/d5b/a00695.html">ExtraAttackChainProcTest.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 30 2026 21:11:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

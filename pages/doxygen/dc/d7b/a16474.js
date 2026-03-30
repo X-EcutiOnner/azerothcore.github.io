@@ -1,7 +1,6 @@
 var a16474 =
 [
-    [ "OnRemove", "dc/d7b/a16474.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "dc/d7b/a16474.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "dc/d7b/a16474.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "dc/d7b/a16474.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "d9/db4/a16478.html", "d9/db4/a16478" ],
+    [ "instance_ruby_sanctum", "dc/d7b/a16474.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "dc/d7b/a16474.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

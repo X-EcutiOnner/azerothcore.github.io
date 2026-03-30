@@ -1,8 +1,7 @@
 var a29046 =
 [
-    [ "gender", "d8/d22/a29046.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
-    [ "hair_id", "d8/d22/a29046.html#af4646a9adb0a1dc18b34158de2116b84", null ],
-    [ "Id", "d8/d22/a29046.html#a05de87081cf628e806d6518eef1424e4", null ],
-    [ "race", "d8/d22/a29046.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
-    [ "type", "d8/d22/a29046.html#a289bb362ba13235c754647ba67be1e56", null ]
+    [ "Flags", "d8/d22/a29046.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "d8/d22/a29046.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "d8/d22/a29046.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "d8/d22/a29046.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

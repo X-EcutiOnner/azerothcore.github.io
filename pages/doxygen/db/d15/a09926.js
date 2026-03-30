@@ -1,5 +1,5 @@
 var a09926 =
 [
-    [ "entry", "db/d15/a09926.html#a1105fbea33b497bca2a290431cb0f4ca", null ],
-    [ "type", "db/d15/a09926.html#acaf1010ce0620ee99a2a6b2721a06b89", null ]
+    [ "bossId", "db/d15/a09926.html#af9fc7d02d16d4fb3547273428553cf05", null ],
+    [ "boundary", "db/d15/a09926.html#a7b474c6b9225102ba08864256d07d9e6", null ]
 ];

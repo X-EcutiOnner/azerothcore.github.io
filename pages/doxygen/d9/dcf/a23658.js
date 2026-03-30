@@ -1,7 +1,6 @@
 var a23658 =
 [
-    [ "HandleOnApply", "d9/dcf/a23658.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "d9/dcf/a23658.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "d9/dcf/a23658.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "d9/dcf/a23658.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "npc_deaths_fel_cannonAI", "d9/dcf/a23658.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "d9/dcf/a23658.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "d9/dcf/a23658.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

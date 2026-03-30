@@ -1,9 +1,8 @@
 var a20738 =
 [
-    [ "npc_ulduar_dark_rune_sentinel", "db/de2/a20738.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
-    [ "CanAIAttack", "db/de2/a20738.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
-    [ "Reset", "db/de2/a20738.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
-    [ "UpdateAI", "db/de2/a20738.html#ae0c37055a213f91a46b68d7286ef3867", null ],
-    [ "timer1", "db/de2/a20738.html#a836d5ed8691a08303622389475380eae", null ],
-    [ "timer2", "db/de2/a20738.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
+    [ "npc_ulduar_keeperAI", "d9/d49/a20742.html", "d9/d49/a20742" ],
+    [ "npc_ulduar_keeper", "db/de2/a20738.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "db/de2/a20738.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "db/de2/a20738.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "db/de2/a20738.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

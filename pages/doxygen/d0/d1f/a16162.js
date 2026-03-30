@@ -1,6 +1,6 @@
 var a16162 =
 [
-    [ "npc_taskmaster_fizzuleAI", "d7/def/a16166.html", "d7/def/a16166" ],
-    [ "npc_taskmaster_fizzule", "d0/d1f/a16162.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
-    [ "GetAI", "d0/d1f/a16162.html#a6281de7424932fe6580ffefa199498d9", null ]
+    [ "HandleApplyAura", "d0/d1f/a16162.html#aeddfd61eab5aa077ca07a924ec491285", null ],
+    [ "PrepareSpellScript", "d0/d1f/a16162.html#ad53341842455d98722c03318dd80fb94", null ],
+    [ "Register", "d0/d1f/a16162.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
 ];

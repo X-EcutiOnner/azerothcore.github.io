@@ -1,9 +1,7 @@
 var a27174 =
 [
-    [ "CheckCast", "dd/d6d/a27174.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
-    [ "HandleActiveObject", "dd/d6d/a27174.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
-    [ "HandleDummy", "dd/d6d/a27174.html#a39dd06ae92d04060ee41897318a701fd", null ],
-    [ "Load", "dd/d6d/a27174.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
-    [ "PrepareSpellScript", "dd/d6d/a27174.html#a016e480d7b2267c9bf824c9cb029f134", null ],
-    [ "Register", "dd/d6d/a27174.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
+    [ "HandleDispel", "dd/d6d/a27174.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "dd/d6d/a27174.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "dd/d6d/a27174.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "dd/d6d/a27174.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

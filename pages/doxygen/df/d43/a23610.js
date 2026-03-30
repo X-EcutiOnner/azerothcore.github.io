@@ -1,5 +1,7 @@
 var a23610 =
 [
-    [ "go_manticron_cube", "df/d43/a23610.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "df/d43/a23610.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "HandleDamage", "df/d43/a23610.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "df/d43/a23610.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "df/d43/a23610.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "df/d43/a23610.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

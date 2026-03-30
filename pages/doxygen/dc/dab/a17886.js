@@ -1,6 +1,7 @@
 var a17886 =
 [
-    [ "FilterTargets", "dc/dab/a17886.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
-    [ "PrepareSpellScript", "dc/dab/a17886.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
-    [ "Register", "dc/dab/a17886.html#add40d7731b07b30b595f76f7d4e983f4", null ]
+    [ "FilterTargets", "dc/dab/a17886.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
+    [ "HandleDummy", "dc/dab/a17886.html#a04166e4e5a4ba082755433555855cb30", null ],
+    [ "PrepareSpellScript", "dc/dab/a17886.html#aaefa58014db12fb76e3416ae807c69e8", null ],
+    [ "Register", "dc/dab/a17886.html#a497ee30669d45341023abe549c91ddaf", null ]
 ];

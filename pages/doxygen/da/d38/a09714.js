@@ -1,8 +1,6 @@
 var a09714 =
 [
-    [ "AllCreaturesOfEntryInRange", "da/d38/a09714.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
-    [ "operator()", "da/d38/a09714.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
-    [ "m_fRange", "da/d38/a09714.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
-    [ "m_pObject", "da/d38/a09714.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
-    [ "m_uiEntry", "da/d38/a09714.html#abf653360d2ee482728fb137a37fe0512", null ]
+    [ "AllFriendlyCreaturesInGrid", "da/d38/a09714.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
+    [ "operator()", "da/d38/a09714.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
+    [ "unit", "da/d38/a09714.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
 ];

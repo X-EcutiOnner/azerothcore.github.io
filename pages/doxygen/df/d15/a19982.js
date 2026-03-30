@@ -1,12 +1,8 @@
 var a19982 =
 [
-    [ "boss_loken", "df/d15/a19982.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
-    [ "JustDied", "df/d15/a19982.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
-    [ "JustEngagedWith", "df/d15/a19982.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
-    [ "KilledUnit", "df/d15/a19982.html#a85ae3094927f7484216b44582f9a2bf6", null ],
-    [ "MoveInLineOfSight", "df/d15/a19982.html#ac9f3115629e5595d06c213d3e04afa68", null ],
-    [ "OnAuraRemove", "df/d15/a19982.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
-    [ "Reset", "df/d15/a19982.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
-    [ "ScheduleTasks", "df/d15/a19982.html#a600e211be40226679212a7078b26f3ed", null ],
-    [ "_introDone", "df/d15/a19982.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
+    [ "OnApply", "df/d15/a19982.html#a5aec8606684637bbdb1e819254f5d483", null ],
+    [ "OnRemove", "df/d15/a19982.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
+    [ "PrepareAuraScript", "df/d15/a19982.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
+    [ "Register", "df/d15/a19982.html#af1db6ca387cf0733ba4b9c324172d692", null ],
+    [ "Validate", "df/d15/a19982.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
 ];

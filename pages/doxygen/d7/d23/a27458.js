@@ -1,9 +1,8 @@
 var a27458 =
 [
-    [ "CalculateAmount", "d7/d23/a27458.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
-    [ "CheckProc", "d7/d23/a27458.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
-    [ "HandleProc", "d7/d23/a27458.html#a741570ba77f70d90b437198f63e565f3", null ],
-    [ "PrepareAuraScript", "d7/d23/a27458.html#af4e49e2362994f247c119c16c013e4b3", null ],
-    [ "Register", "d7/d23/a27458.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
-    [ "Validate", "d7/d23/a27458.html#a939d6815bcaee9b9d2b062313aac912a", null ]
+    [ "ApplyEffect", "d7/d23/a27458.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
+    [ "HandleEffectPeriodicUpdate", "d7/d23/a27458.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
+    [ "PrepareAuraScript", "d7/d23/a27458.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
+    [ "Register", "d7/d23/a27458.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
+    [ "_tick_amount", "d7/d23/a27458.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
 ];

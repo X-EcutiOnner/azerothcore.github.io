@@ -1,7 +1,6 @@
 var a19262 =
 [
-    [ "HandleEffectPeriodic", "d8/d36/a19262.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "d8/d36/a19262.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "d8/d36/a19262.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "d8/d36/a19262.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "boss_kelthuzad_minionAI", "d6/d4c/a19266.html", "d6/d4c/a19266" ],
+    [ "boss_kelthuzad_minion", "d8/d36/a19262.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "d8/d36/a19262.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

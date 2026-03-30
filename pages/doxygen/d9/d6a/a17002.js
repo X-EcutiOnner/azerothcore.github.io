@@ -1,7 +1,6 @@
 var a17002 =
 [
-    [ "npc_toc_enh_shamanAI", "d9/d6a/a17002.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "d9/d6a/a17002.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "d9/d6a/a17002.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "d9/d6a/a17002.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "HandleScriptEffect", "d9/d6a/a17002.html#a90b13b2a093fdd430a383d7ea4126290", null ],
+    [ "PrepareSpellScript", "d9/d6a/a17002.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
+    [ "Register", "d9/d6a/a17002.html#a53c8d47ee21637055ad901946be1e2c2", null ]
 ];

@@ -1,7 +1,6 @@
 var a16034 =
 [
-    [ "npc_giant_spotlightAI", "d5/d77/a16034.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d5/d77/a16034.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d5/d77/a16034.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d5/d77/a16034.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "HandleSummon", "d5/d77/a16034.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "d5/d77/a16034.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "d5/d77/a16034.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

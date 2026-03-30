@@ -1,7 +1,6 @@
 var a23334 =
 [
-    [ "HandleScriptEffect", "d8/dbc/a23334.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
-    [ "PrepareSpellScript", "d8/dbc/a23334.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
-    [ "Register", "d8/dbc/a23334.html#a14772c25b70078c0034b8de17de5b77a", null ],
-    [ "Validate", "d8/dbc/a23334.html#a8318385367bf6c6b09e0978c461f5d59", null ]
+    [ "PrepareSpellScript", "d8/dbc/a23334.html#a5b17110b189b7134939aea9dbf2d724b", null ],
+    [ "Register", "d8/dbc/a23334.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
+    [ "SelectRandomPlayer", "d8/dbc/a23334.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
 ];

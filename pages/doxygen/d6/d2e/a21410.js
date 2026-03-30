@@ -1,11 +1,14 @@
 var a21410 =
 [
-    [ "npc_vh_void_sentryAI", "d6/d2e/a21410.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
-    [ "DoAction", "d6/d2e/a21410.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
-    [ "JustDied", "d6/d2e/a21410.html#add5121ed38a74be9ae168df5f893f89e", null ],
-    [ "SummonedCreatureDespawn", "d6/d2e/a21410.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
-    [ "UpdateAI", "d6/d2e/a21410.html#ae1f683d5ef920213c9c86da35c626381", null ],
-    [ "checkTimer", "d6/d2e/a21410.html#a675bcae4119e45490403013534c731ef", null ],
-    [ "pInstance", "d6/d2e/a21410.html#a7527473944681143bab89fd12b475645", null ],
-    [ "SummonedGUID", "d6/d2e/a21410.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
+    [ "npc_dalaran_mageAI", "d6/d2e/a21410.html#ae896a065d2975c5f4d0a125261796215", null ],
+    [ "Initialize", "d6/d2e/a21410.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
+    [ "JustEngagedWith", "d6/d2e/a21410.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
+    [ "Reset", "d6/d2e/a21410.html#adee723525f46e5476e135e3043f5feb9", null ],
+    [ "UpdateAI", "d6/d2e/a21410.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
+    [ "blink_timer", "d6/d2e/a21410.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
+    [ "blizzard_timer", "d6/d2e/a21410.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
+    [ "CoC_Timer", "d6/d2e/a21410.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
+    [ "frostfire_timer", "d6/d2e/a21410.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
+    [ "frostnova_timer", "d6/d2e/a21410.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
+    [ "restoremana_timer", "d6/d2e/a21410.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
 ];

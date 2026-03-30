@@ -1,8 +1,23 @@
 var a00347 =
 [
-    [ "Acore::Impl::GenericHashImpl", "d7/d41/a05427.html", "d7/d41/a05427" ],
-    [ "Acore::Impl::GenericHash< HashCreator, DigestLength >", "d7/d4f/a05431.html", "d7/d4f/a05431" ],
-    [ "MD5", "d1/dc6/a00347.html#a0e8f523857a8cf977c3aa63b40112a4d", null ],
-    [ "SHA1", "d1/dc6/a00347.html#ac698fcc9e65a1dd451c5bd72b1b3e368", null ],
-    [ "SHA256", "d1/dc6/a00347.html#a57930df8fd74a97f0fbc8d958ebb215f", null ]
+    [ "MetricData", "de/df7/a05638.html", "de/df7/a05638" ],
+    [ "Metric", "d9/d43/a05642.html", "d9/d43/a05642" ],
+    [ "MetricStopWatch< LoggerType >", "d1/d00/a05646.html", "d1/d00/a05646" ],
+    [ "METRIC_CONCAT", "d1/dc6/a00347.html#ad81585df46d4cee988a1222012dbabf1", null ],
+    [ "METRIC_DETAILED_EVENT", "d1/dc6/a00347.html#ac782d1c3265f7b707782545777d49d05", null ],
+    [ "METRIC_DETAILED_NO_THRESHOLD_TIMER", "d1/dc6/a00347.html#a281633f6f8b252d96029ce8fd29da746", null ],
+    [ "METRIC_DETAILED_TIMER", "d1/dc6/a00347.html#a22dcbf78f0d280a4b2b4e0662034efe9", null ],
+    [ "METRIC_DO_CONCAT", "d1/dc6/a00347.html#aa861206b38b55c4f39f1ed649defb338", null ],
+    [ "METRIC_EVENT", "d1/dc6/a00347.html#ad57573999508dbc7a2c953379996b542", null ],
+    [ "METRIC_TAG", "d1/dc6/a00347.html#ab81b5769123c1e5e3870b9b05f25fe0a", null ],
+    [ "METRIC_TIMER", "d1/dc6/a00347.html#ad88ae7d281622a32a700443aa3dc51f9", null ],
+    [ "METRIC_UNIQUE_NAME", "d1/dc6/a00347.html#adf91483a75eca0531263536ce38d9339", null ],
+    [ "METRIC_VALUE", "d1/dc6/a00347.html#a92aedc832ddfc479ecc61289f12be449", null ],
+    [ "sMetric", "d1/dc6/a00347.html#a4e89926204845a9c9e315d6f0abec5ef", null ],
+    [ "MetricTag", "d1/dc6/a00347.html#a8fdc9a93c03faef11e4c36679e79e3f1", null ],
+    [ "MetricDataType", "d1/dc6/a00347.html#a0bb9cc086e32544cb0e43338f83d8e62", [
+      [ "METRIC_DATA_VALUE", "d1/dc6/a00347.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155", null ],
+      [ "METRIC_DATA_EVENT", "d1/dc6/a00347.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2", null ]
+    ] ],
+    [ "MakeMetricStopWatch", "d1/dc6/a00347.html#ab339934305abce426aa1d43c99d65e9f", null ]
 ];

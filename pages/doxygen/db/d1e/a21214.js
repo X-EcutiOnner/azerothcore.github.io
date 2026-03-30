@@ -1,5 +1,6 @@
 var a21214 =
 [
-    [ "npc_ritual_channelerAI", "db/d1e/a21214.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "db/d1e/a21214.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "npc_azure_sorcerorAI", "d8/d71/a21218.html", "d8/d71/a21218" ],
+    [ "npc_azure_sorceror", "db/d1e/a21214.html#ab81ec144680a37312b0a5e0110365a1a", null ],
+    [ "GetAI", "db/d1e/a21214.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
 ];

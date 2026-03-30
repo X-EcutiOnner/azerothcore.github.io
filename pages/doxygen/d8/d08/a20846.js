@@ -1,6 +1,6 @@
 var a20846 =
 [
-    [ "PrepareSpellScript", "d8/d08/a20846.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "d8/d08/a20846.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "d8/d08/a20846.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "npc_ferocious_rhinoAI", "de/d08/a20850.html", "de/d08/a20850" ],
+    [ "npc_ferocious_rhino", "d8/d08/a20846.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
+    [ "GetAI", "d8/d08/a20846.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
 ];

@@ -1,18 +1,11 @@
 var a20626 =
 [
-    [ "npc_ulduar_leviathan_mkii", "d8/d3a/a20626.html#ac38c065bfdcd0496c3a7da58b1fcf833", null ],
-    [ "DamageTaken", "d8/d3a/a20626.html#ac2443db8d15b5ee3597fefdc6389f114", null ],
-    [ "EnterEvadeMode", "d8/d3a/a20626.html#a47ceec21f91030a1810392ecc0adafd2", null ],
-    [ "GetS3", "d8/d3a/a20626.html#aba4be715815acca2ace025002750277e", null ],
-    [ "KilledUnit", "d8/d3a/a20626.html#a8f40ca6bd9515e6d645e6140f21adb06", null ],
-    [ "MoveInLineOfSight", "d8/d3a/a20626.html#abb2cbb6e0999fbd0eacba4c414458b8a", null ],
-    [ "PassengerBoarded", "d8/d3a/a20626.html#a2ea5689299a108e729bde24de63e71aa", null ],
-    [ "Reset", "d8/d3a/a20626.html#afaa3072c296341693ef4803330a13929", null ],
-    [ "SetData", "d8/d3a/a20626.html#a83a6d7d5c94c4cf8b76474ef8f3b0608", null ],
-    [ "SpellHit", "d8/d3a/a20626.html#a790900963d9e073f4f8e4a0546721f52", null ],
-    [ "UpdateAI", "d8/d3a/a20626.html#a79b9146be412e5862b47cd34073a2fd7", null ],
-    [ "bIsEvading", "d8/d3a/a20626.html#a5ab6a4c7fa03325ce1ff0239ca1edea9", null ],
-    [ "events", "d8/d3a/a20626.html#a00d34da081bec623539deaec859c6079", null ],
-    [ "instance", "d8/d3a/a20626.html#a1756b869c05920f3b9d64931c036fdb7", null ],
-    [ "Phase", "d8/d3a/a20626.html#a76f134acc3e0f40b3d8f5b88927140c4", null ]
+    [ "boss_yoggsaron_lich_king", "d8/d3a/a20626.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "d8/d3a/a20626.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "d8/d3a/a20626.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "d8/d3a/a20626.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "d8/d3a/a20626.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "d8/d3a/a20626.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "d8/d3a/a20626.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "d8/d3a/a20626.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

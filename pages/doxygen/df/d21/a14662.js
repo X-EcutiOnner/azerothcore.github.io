@@ -1,6 +1,7 @@
 var a14662 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "d3/d28/a14666.html", "d3/d28/a14666" ],
-    [ "instance_zulgurub", "df/d21/a14662.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "df/d21/a14662.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "HandleEffectApply", "df/d21/a14662.html#a22f3143b10155635194abe22994a397c", null ],
+    [ "HandleEffectRemove", "df/d21/a14662.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
+    [ "PrepareAuraScript", "df/d21/a14662.html#abb4f53a42e701323b2fc66598ec3503c", null ],
+    [ "Register", "df/d21/a14662.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
 ];

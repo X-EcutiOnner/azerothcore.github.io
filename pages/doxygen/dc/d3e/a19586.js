@@ -1,7 +1,10 @@
 var a19586 =
 [
-    [ "FilterTargets", "dc/d3e/a19586.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "dc/d3e/a19586.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "dc/d3e/a19586.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "dc/d3e/a19586.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "npc_oculus_drakegiverAI", "dc/d3e/a19586.html#a4bba380256a0ede70b8d90611249b444", null ],
+    [ "MovementInform", "dc/d3e/a19586.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
+    [ "UpdateAI", "dc/d3e/a19586.html#a652a8c364687d51de62356964f6f33f9", null ],
+    [ "m_pInstance", "dc/d3e/a19586.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
+    [ "moved", "dc/d3e/a19586.html#a069e202a84d99cd757862bd1a43b5562", null ],
+    [ "resetPosition", "dc/d3e/a19586.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
+    [ "timer", "dc/d3e/a19586.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
 ];

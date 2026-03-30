@@ -1,6 +1,14 @@
 var a17022 =
 [
-    [ "npc_toc_pet_hunterAI", "de/d75/a17026.html", "de/d75/a17026" ],
-    [ "npc_toc_pet_hunter", "df/d1d/a17022.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
-    [ "GetAI", "df/d1d/a17022.html#a9febc3086b0627324277f45d49cdd03f", null ]
+    [ "boss_bronjahm", "df/d1d/a17022.html#a44666a47b298efe48c4e86b8677d9845", null ],
+    [ "DamageTaken", "df/d1d/a17022.html#ab89333e2ee43ad384bdc71ac6f83c92e", null ],
+    [ "EnterEvadeMode", "df/d1d/a17022.html#a5d515921e780974e2a70937ada8b232d", null ],
+    [ "JustDied", "df/d1d/a17022.html#ad50a7aee4ebf9d0d5d9141b96e154996", null ],
+    [ "JustEngagedWith", "df/d1d/a17022.html#a767d4a601d7f912cd71823a51b31af1f", null ],
+    [ "JustReachedHome", "df/d1d/a17022.html#af2146b1ddb8cdc3e27d1cf573fe65df0", null ],
+    [ "JustSummoned", "df/d1d/a17022.html#a47c7a8a8413b139cf2d217d33f39aa3d", null ],
+    [ "KilledUnit", "df/d1d/a17022.html#aaaf64571ce6a542be93c6efe105278e8", null ],
+    [ "Reset", "df/d1d/a17022.html#a313bd4510e18ecb529b6358d28a3dc3f", null ],
+    [ "SpellHitTarget", "df/d1d/a17022.html#a3be47710012bd75a71574f7a4c69f678", null ],
+    [ "UpdateAI", "df/d1d/a17022.html#a6d60b720210a9f196b1c006b557e7d25", null ]
 ];

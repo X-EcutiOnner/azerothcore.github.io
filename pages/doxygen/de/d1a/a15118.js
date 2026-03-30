@@ -1,9 +1,8 @@
 var a15118 =
 [
-    [ "boss_azuregosAI", "de/d1a/a15118.html#a839ab1e096d30062d64c1c515a7462a4", null ],
-    [ "JustDied", "de/d1a/a15118.html#aea4d204173b7882d2d9acf8204410947", null ],
-    [ "JustEngagedWith", "de/d1a/a15118.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
-    [ "KilledUnit", "de/d1a/a15118.html#aeefc791e17d2a687f8beae809c44d123", null ],
-    [ "Reset", "de/d1a/a15118.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
-    [ "UpdateAI", "de/d1a/a15118.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
+    [ "npc_thrall_old_hillsbradAI", "d9/d1a/a15122.html", "d9/d1a/a15122" ],
+    [ "npc_thrall_old_hillsbrad", "de/d1a/a15118.html#a3e6fa750b095af3beac806a619e18328", null ],
+    [ "GetAI", "de/d1a/a15118.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
+    [ "OnGossipHello", "de/d1a/a15118.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
+    [ "OnGossipSelect", "de/d1a/a15118.html#a17fcb00850503903f430506654e035c0", null ]
 ];

@@ -1,6 +1,12 @@
 var a10486 =
 [
-    [ "AchievementCriteriaScript", "dd/d95/a10486.html#a86804e8d52ebd239a85609bc1e8883ea", null ],
-    [ "IsDatabaseBound", "dd/d95/a10486.html#a2fe9a4224304d62c5c4920dbf09aab52", null ],
-    [ "OnCheck", "dd/d95/a10486.html#a9fab6f158219db6d5a65b0b302cf285e", null ]
+    [ "QuestLocale", "dd/d95/a10486.html#a887d474a470ee0278fb4b465a7ad9547", null ],
+    [ "AreaDescription", "dd/d95/a10486.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
+    [ "CompletedText", "dd/d95/a10486.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
+    [ "Details", "dd/d95/a10486.html#afd23d37c92f2b28e1c125bba0d670497", null ],
+    [ "Objectives", "dd/d95/a10486.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
+    [ "ObjectiveText", "dd/d95/a10486.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
+    [ "OfferRewardText", "dd/d95/a10486.html#aaba6d07625232a77e3457454f7d4fa77", null ],
+    [ "RequestItemsText", "dd/d95/a10486.html#a764d2092084454844e59c484fb637017", null ],
+    [ "Title", "dd/d95/a10486.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
 ];

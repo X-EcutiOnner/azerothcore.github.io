@@ -1,7 +1,11 @@
 var a18454 =
 [
-    [ "HandleProc", "da/dec/a18454.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
-    [ "PrepareAuraScript", "da/dec/a18454.html#a5eace3a973165eb82ae95b8052bb9476", null ],
-    [ "Register", "da/dec/a18454.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
-    [ "Validate", "da/dec/a18454.html#ad2a7488006b16840e02b450cc9150289", null ]
+    [ "AddMissingStack", "da/dec/a18454.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "da/dec/a18454.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "da/dec/a18454.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "da/dec/a18454.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "da/dec/a18454.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "da/dec/a18454.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "da/dec/a18454.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "da/dec/a18454.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

@@ -1,7 +1,5 @@
 var a14758 =
 [
-    [ "npc_direbrew_minion", "d7/d3b/a14758.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "d7/d3b/a14758.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "d7/d3b/a14758.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "d7/d3b/a14758.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "PrepareSpellScript", "d7/d3b/a14758.html#a50ee42c11937759b6c52c2ab994481c4", null ],
+    [ "Register", "d7/d3b/a14758.html#a8dc12a723c2da948c38119e3fc34df35", null ]
 ];

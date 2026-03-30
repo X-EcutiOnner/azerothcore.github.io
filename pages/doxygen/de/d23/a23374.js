@@ -1,6 +1,8 @@
 var a23374 =
 [
-    [ "HandleAfterRemove", "de/d23/a23374.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "de/d23/a23374.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "de/d23/a23374.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "FilterTargets", "de/d23/a23374.html#ae366594b668331a19f384ceb48654c0c", null ],
+    [ "HandleOnHit", "de/d23/a23374.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
+    [ "PrepareSpellScript", "de/d23/a23374.html#a71aa4018d293391a73d3317c1e80951d", null ],
+    [ "Register", "de/d23/a23374.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
+    [ "Validate", "de/d23/a23374.html#a3747ad271dc659436ae7a8203b964554", null ]
 ];

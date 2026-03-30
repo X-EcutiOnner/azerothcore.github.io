@@ -1,6 +1,7 @@
 var a11762 =
 [
-    [ "HitHandler", "d1/db5/a11762.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
-    [ "Call", "d1/db5/a11762.html#a157baaa3ceba62a9910cba5377bd7699", null ],
-    [ "pHitHandlerScript", "d1/db5/a11762.html#ac24144e49930a01a3049740a4072f626", null ]
+    [ "CategoryRecoveryTime", "d1/db5/a11762.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "d1/db5/a11762.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "d1/db5/a11762.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "d1/db5/a11762.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

@@ -1,10 +1,8 @@
 var a27298 =
 [
-    [ "Absorb", "da/d4f/a27298.html#aedee311aa77597674b3665eaf74e98c8", null ],
-    [ "CalculateAmount", "da/d4f/a27298.html#a5fdabb367ab86589d733d1da906446ab", null ],
-    [ "Load", "da/d4f/a27298.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
-    [ "PrepareAuraScript", "da/d4f/a27298.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
-    [ "Register", "da/d4f/a27298.html#abfc540163e9eb34cbf8a48d39bede840", null ],
-    [ "Validate", "da/d4f/a27298.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
-    [ "absorbChance", "da/d4f/a27298.html#a293be81af42d810126eda35b1d27e3bc", null ]
+    [ "CheckProc", "da/d4f/a27298.html#a11d7fe14f7b3cca93578926f157ef0d5", null ],
+    [ "HandleProc", "da/d4f/a27298.html#ac18d7286dd26ebbb868e01d17a412124", null ],
+    [ "PrepareAuraScript", "da/d4f/a27298.html#a8af3179c6688cfe0940bcd932f6766fa", null ],
+    [ "Register", "da/d4f/a27298.html#a239b3daf5f03f5e5930c7b6712a63d8a", null ],
+    [ "Validate", "da/d4f/a27298.html#a9919c0a8d284a36b3162ed435d2f7711", null ]
 ];

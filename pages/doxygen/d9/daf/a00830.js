@@ -1,4 +1,7 @@
 var a00830 =
 [
-    [ "ScriptRegistry< SpellScriptLoader >", "d9/daf/a00830.html#aae80ff7a03e35c91f47550f388c3f3bb", null ]
+    [ "UpdateResult", "d4/dfc/a06182.html", "d4/dfc/a06182" ],
+    [ "UpdateFetcher", "d4/dc1/a06186.html", "d4/dc1/a06186" ],
+    [ "UpdateFetcher::AppliedFileEntry", "d9/dac/a06190.html", "d9/dac/a06190" ],
+    [ "UpdateFetcher::PathCompare", "d8/df6/a06194.html", "d8/df6/a06194" ]
 ];

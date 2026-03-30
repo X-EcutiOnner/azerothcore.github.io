@@ -1,6 +1,7 @@
 var a22902 =
 [
-    [ "boss_essence_of_desireAI", "d5/def/a22906.html", "d5/def/a22906" ],
-    [ "boss_essence_of_desire", "d5/dae/a22902.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d5/dae/a22902.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "HandleEffectApply", "d5/dae/a22902.html#a3893fffea480b47d06c4903deb051aa9", null ],
+    [ "HandleEffectRemove", "d5/dae/a22902.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
+    [ "PrepareAuraScript", "d5/dae/a22902.html#a246c20ab26d1490fe38afd558a7ae406", null ],
+    [ "Register", "d5/dae/a22902.html#aea639a3ae0f003c6213143427f3b1d23", null ]
 ];

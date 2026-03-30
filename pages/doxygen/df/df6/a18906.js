@@ -1,6 +1,7 @@
 var a18906 =
 [
-    [ "npc_icc_lk_checktargetAI", "df/d6f/a18910.html", "df/d6f/a18910" ],
-    [ "npc_icc_lk_checktarget", "df/df6/a18906.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "df/df6/a18906.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "HandleQuestComplete", "df/df6/a18906.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "df/df6/a18906.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "df/df6/a18906.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "df/df6/a18906.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

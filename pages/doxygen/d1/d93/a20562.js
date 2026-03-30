@@ -1,5 +1,5 @@
 var a20562 =
 [
-    [ "achievement_ignis_shattered", "d1/d93/a20562.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "d1/d93/a20562.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "achievement_xt002_nerf_gravity_bombs", "d1/d93/a20562.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
+    [ "OnCheck", "d1/d93/a20562.html#a03f61470694399ab32aea354cd697771", null ]
 ];

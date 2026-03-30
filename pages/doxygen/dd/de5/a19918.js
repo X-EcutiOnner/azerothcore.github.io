@@ -1,7 +1,5 @@
 var a19918 =
 [
-    [ "HandleProc", "dd/de5/a19918.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "dd/de5/a19918.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "dd/de5/a19918.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "dd/de5/a19918.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "dd/de5/a19918.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "dd/de5/a19918.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

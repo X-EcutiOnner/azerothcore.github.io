@@ -1,12 +1,6 @@
 var a07358 =
 [
-    [ "Type", "d7/daf/a07358.html#abfb75b18c4a43f1818cd78212c668109", [
-      [ "LIST", "d7/daf/a07358.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
-      [ "OWNER_LIST", "d7/daf/a07358.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
-      [ "BIDDER_LIST", "d7/daf/a07358.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
-    ] ],
-    [ "AuctionSearcherRequest", "d7/daf/a07358.html#afadcce053f82ae124263a501671f35e3", null ],
-    [ "~AuctionSearcherRequest", "d7/daf/a07358.html#a8122177f0ca9b5c2393e87998a15e950", null ],
-    [ "listFaction", "d7/daf/a07358.html#a1847f75715da2de1098d0f767163f62d", null ],
-    [ "requestType", "d7/daf/a07358.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
+    [ "charges", "d7/daf/a07358.html#a583aee5baaad873bcbcc2acad403d0bf", null ],
+    [ "duration", "d7/daf/a07358.html#a36445b0d9d75886a0697c75513eb6c41", null ],
+    [ "id", "d7/daf/a07358.html#ab19975d2dd203aa1124f2e06fb637171", null ]
 ];

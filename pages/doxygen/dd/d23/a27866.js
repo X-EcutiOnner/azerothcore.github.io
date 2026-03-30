@@ -1,6 +1,6 @@
 var a27866 =
 [
-    [ "HandleDummy", "dd/d23/a27866.html#a68a86f7f86324336dc837622e01fa6af", null ],
-    [ "PrepareSpellScript", "dd/d23/a27866.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
-    [ "Register", "dd/d23/a27866.html#ad168c9164d1edd23abfbf05141b96de4", null ]
+    [ "go_tadpole_cageAI", "dd/d22/a27870.html", "dd/d22/a27870" ],
+    [ "go_tadpole_cage", "dd/d23/a27866.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "dd/d23/a27866.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

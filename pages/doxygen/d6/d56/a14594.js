@@ -1,10 +1,11 @@
 var a14594 =
 [
-    [ "npc_vilebranch_speaker", "d6/d56/a14594.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
-    [ "JustDied", "d6/d56/a14594.html#aa7708f176879db3acd50399b74e4a90c", null ],
-    [ "JustEngagedWith", "d6/d56/a14594.html#a236afb8512c2d941479f8a7c18f688a6", null ],
-    [ "Reset", "d6/d56/a14594.html#a248195a137cb91f10a882ec12974c7c5", null ],
-    [ "UpdateAI", "d6/d56/a14594.html#a75f263fa9241319b58bf77cbf1b75088", null ],
-    [ "_scheduler", "d6/d56/a14594.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
-    [ "instance", "d6/d56/a14594.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
+    [ "npc_the_etymidian", "d6/d56/a14594.html#af491016ac89b67947650a5ca9c379875", null ],
+    [ "MoveInLineOfSight", "d6/d56/a14594.html#adde2d86e30442eb1b47219e934e24407", null ],
+    [ "Reset", "d6/d56/a14594.html#a714edf3ba5f7a6d59242c991764effc5", null ],
+    [ "UpdateAI", "d6/d56/a14594.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
+    [ "orphanGUID", "d6/d56/a14594.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
+    [ "phase", "d6/d56/a14594.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
+    [ "playerGUID", "d6/d56/a14594.html#a7371e361c018360315e20086b0b99079", null ],
+    [ "timer", "d6/d56/a14594.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
 ];

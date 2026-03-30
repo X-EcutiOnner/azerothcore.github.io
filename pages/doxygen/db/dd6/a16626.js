@@ -1,7 +1,8 @@
 var a16626 =
 [
-    [ "HandlePeriodic", "db/dd6/a16626.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "db/dd6/a16626.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "db/dd6/a16626.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "db/dd6/a16626.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "npc_frost_sphereAI", "db/dd6/a16626.html#ae697a98d23d94315768dc866852b6e07", null ],
+    [ "DamageTaken", "db/dd6/a16626.html#a3960f19b456f29a33016d799809a82a8", null ],
+    [ "SpellHit", "db/dd6/a16626.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
+    [ "UpdateAI", "db/dd6/a16626.html#a4e866332045135c867f2b9ee871db0c2", null ],
+    [ "permafrostTimer", "db/dd6/a16626.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
 ];

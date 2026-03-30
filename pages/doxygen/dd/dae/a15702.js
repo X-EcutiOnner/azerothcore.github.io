@@ -1,15 +1,13 @@
 var a15702 =
 [
-    [ "boss_skeram", "dd/dae/a15702.html#a293710a88c91a181ee1000939386e176", null ],
-    [ "DoTeleport", "dd/dae/a15702.html#a96166ddebd5906868b872c39a6755a70", null ],
-    [ "EnterEvadeMode", "dd/dae/a15702.html#ab050e31d661c8c089d175de231b0eeb2", null ],
-    [ "JustDied", "dd/dae/a15702.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
-    [ "JustEngagedWith", "dd/dae/a15702.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
-    [ "JustSummoned", "dd/dae/a15702.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
-    [ "KilledUnit", "dd/dae/a15702.html#a185cb6686d37e064278260ebe5fae13a", null ],
-    [ "Reset", "dd/dae/a15702.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
-    [ "UpdateAI", "dd/dae/a15702.html#aaf29331e0fac71479747d62fd9f1e301", null ],
-    [ "_copiesGUIDs", "dd/dae/a15702.html#a28f1465938dc2141779d5171ea09ecd0", null ],
-    [ "_flag", "dd/dae/a15702.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
-    [ "_hpct", "dd/dae/a15702.html#a5c8760788264a9a04a28c05a0247676c", null ]
+    [ "npc_tharnarianAI", "dd/dae/a15702.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
+    [ "Initialize", "dd/dae/a15702.html#ad1d89491b42a56406273a04045e7e91d", null ],
+    [ "Reset", "dd/dae/a15702.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
+    [ "SetGUID", "dd/dae/a15702.html#a8717a30828b91853ceba1b5e62126f29", null ],
+    [ "sGossipSelect", "dd/dae/a15702.html#a33b5898def48e17ba27363b98f51849b", null ],
+    [ "UpdateAI", "dd/dae/a15702.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
+    [ "_bearGUID", "dd/dae/a15702.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
+    [ "_events", "dd/dae/a15702.html#aff73052a4b7407d760af3dde09fa8a07", null ],
+    [ "_facing", "dd/dae/a15702.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
+    [ "_scriptRunning", "dd/dae/a15702.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
 ];

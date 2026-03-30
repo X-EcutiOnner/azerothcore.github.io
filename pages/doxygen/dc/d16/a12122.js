@@ -1,8 +1,7 @@
 var a12122 =
 [
-    [ "CreatureCountWorker", "dc/d16/a12122.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
-    [ "GetTopCreatureCount", "dc/d16/a12122.html#a5d4d009b6685dd71703f96f9945a463e", null ],
-    [ "Visit", "dc/d16/a12122.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
-    [ "Visit", "dc/d16/a12122.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
-    [ "creatureIds", "dc/d16/a12122.html#a3a6f946c40b1006164793dbaed2b3948", null ]
+    [ "achievement_commandscript", "dc/d16/a12122.html#ac1c40d7b3b628cc206c44eae18592292", null ],
+    [ "GetCommands", "dc/d16/a12122.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
+    [ "HandleAchievementAddCommand", "dc/d16/a12122.html#a81a8dc82481b38763d846444b9846da7", null ],
+    [ "HandleAchievementCheckAllCommand", "dc/d16/a12122.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
 ];

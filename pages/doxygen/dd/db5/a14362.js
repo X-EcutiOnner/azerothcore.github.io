@@ -1,19 +1,13 @@
 var a14362 =
 [
-    [ "boss_nalorakk", "dd/db5/a14362.html#a4dd18b28685e3dac2406c4e3d8be95aa", null ],
-    [ "CheckAnyEvadeGroup", "dd/db5/a14362.html#a2ef7e2a115b8f2292580c88ff55bb797", null ],
-    [ "CheckFullyDeadGroup", "dd/db5/a14362.html#a0754b8a39fd26f5fb026f9460faa17aa", null ],
-    [ "GroupedAttack", "dd/db5/a14362.html#a249f35697e422a7e7e8a583f85cc97b1", null ],
-    [ "JustDied", "dd/db5/a14362.html#a6f79e518e3a356e0f6093afa8c438fe5", null ],
-    [ "JustEngagedWith", "dd/db5/a14362.html#a1d3c302161e8666c0343d449727c35a9", null ],
-    [ "MoveInLineOfSight", "dd/db5/a14362.html#a3455e91061cfb9ea03712b8006d298df", null ],
-    [ "Reset", "dd/db5/a14362.html#a85093d79b866ceff41357dde22e06867", null ],
-    [ "ShapeShift", "dd/db5/a14362.html#a78b12658138455ccddd9c62b6c7e26dd", null ],
-    [ "UpdateAI", "dd/db5/a14362.html#a4cf5656619dd9339000236ed6b006c90", null ],
-    [ "_active", "dd/db5/a14362.html#a8825e186d58b8f6bbd39976e013ee114", null ],
-    [ "_bearForm", "dd/db5/a14362.html#aa76da1d9912aaa97242f5d27e567e895", null ],
-    [ "_introScheduler", "dd/db5/a14362.html#ac654307d732ac59155321008418f8c90", null ],
-    [ "_phase", "dd/db5/a14362.html#a390142234210027d37f5e4ec7cea84ae", null ],
-    [ "_ranIntro", "dd/db5/a14362.html#a78bd5a9970ab205d9553ed5746a42066", null ],
-    [ "_waveList", "dd/db5/a14362.html#a6093dac3b1353a047174e5aae98c13d6", null ]
+    [ "npc_ohganAI", "dd/db5/a14362.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
+    [ "JustDied", "dd/db5/a14362.html#a89e506868e3191362545e34d21528b8f", null ],
+    [ "JustEngagedWith", "dd/db5/a14362.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
+    [ "KilledUnit", "dd/db5/a14362.html#a4e202eef928e54bd52160705bba5cc35", null ],
+    [ "Reset", "dd/db5/a14362.html#ac3e1bc9dc819138741eb3b4448051547", null ],
+    [ "SetGUID", "dd/db5/a14362.html#a575531a144c46ae3084e56e452125f16", null ],
+    [ "UpdateAI", "dd/db5/a14362.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
+    [ "_scheduler", "dd/db5/a14362.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
+    [ "instance", "dd/db5/a14362.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
+    [ "reviveGUID", "dd/db5/a14362.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
 ];

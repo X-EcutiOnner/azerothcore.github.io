@@ -1,9 +1,7 @@
 var a28990 =
 [
-    [ "WDT_file", "dc/d4c/a28990.html#afa32849d31abde3cb2c9f3b558816368", null ],
-    [ "~WDT_file", "dc/d4c/a28990.html#a29bf710b8346204eb848017450afebe1", null ],
-    [ "free", "dc/d4c/a28990.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
-    [ "prepareLoadedData", "dc/d4c/a28990.html#add675f96f010e67ca1df01b029c9ebfb", null ],
-    [ "main", "dc/d4c/a28990.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
-    [ "mphd", "dc/d4c/a28990.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
+    [ "EpicPropertiesPoints", "dc/d4c/a28990.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "dc/d4c/a28990.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "dc/d4c/a28990.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "dc/d4c/a28990.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

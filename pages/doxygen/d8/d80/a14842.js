@@ -1,5 +1,6 @@
 var a14842 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d8/d80/a14842.html#a40207493c75d8a63284e08f1f75d56c4", null ],
-    [ "MoveInLineOfSight", "d8/d80/a14842.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
+    [ "OnAuraRemove", "d8/d80/a14842.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d8/d80/a14842.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d8/d80/a14842.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

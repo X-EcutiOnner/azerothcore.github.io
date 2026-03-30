@@ -1,6 +1,6 @@
 var a27382 =
 [
-    [ "FilterTargets", "df/d1b/a27382.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
-    [ "PrepareSpellScript", "df/d1b/a27382.html#af41d6353088c5565b0027265c9bd4d8b", null ],
-    [ "Register", "df/d1b/a27382.html#a95e386af9016e598e932177cb400fd8b", null ]
+    [ "HandleScriptEffect", "df/d1b/a27382.html#a3f8988017d088d08df08ba8b696b552b", null ],
+    [ "PrepareSpellScript", "df/d1b/a27382.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
+    [ "Register", "df/d1b/a27382.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
 ];

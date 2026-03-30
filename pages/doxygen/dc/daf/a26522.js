@@ -1,10 +1,10 @@
 var a26522 =
 [
-    [ "CheckProc", "dc/daf/a26522.html#a787008462dce35eb27deda41301b146d", null ],
-    [ "HandleProc", "dc/daf/a26522.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
-    [ "Load", "dc/daf/a26522.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
-    [ "PrepareAuraScript", "dc/daf/a26522.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
-    [ "Register", "dc/daf/a26522.html#aa4ef731870355dc386fcd07c5f19d090", null ],
-    [ "Validate", "dc/daf/a26522.html#ad04864f0710262364cf40e071446d87c", null ],
-    [ "_procTarget", "dc/daf/a26522.html#a9383231fc71c6239507fdf8765d63f3d", null ]
+    [ "spell_pal_improved_aura", "dc/daf/a26522.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
+    [ "HandleEffectApply", "dc/daf/a26522.html#a441952100c103ccdf84c58827669faac", null ],
+    [ "HandleEffectRemove", "dc/daf/a26522.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
+    [ "PrepareAuraScript", "dc/daf/a26522.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
+    [ "Register", "dc/daf/a26522.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
+    [ "Validate", "dc/daf/a26522.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
+    [ "_spellId", "dc/daf/a26522.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
 ];

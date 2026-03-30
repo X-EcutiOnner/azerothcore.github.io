@@ -1,6 +1,6 @@
 var a26878 =
 [
-    [ "HandleAfterHit", "d5/d4e/a26878.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "d5/d4e/a26878.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "d5/d4e/a26878.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "HandleScript", "d5/d4e/a26878.html#a8866d650b96c4cae3201a2829cbeff3d", null ],
+    [ "PrepareSpellScript", "d5/d4e/a26878.html#aa16f51aa8a4fea2a84cadbb01d18b635", null ],
+    [ "Register", "d5/d4e/a26878.html#aeaa094c8d1f3407bf56d58d88c2238a1", null ]
 ];

@@ -1,6 +1,11 @@
 var a12998 =
 [
-    [ "boss_shazzrahAI", "d7/d0d/a13002.html", "d7/d0d/a13002" ],
-    [ "boss_shazzrah", "dd/dde/a12998.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
-    [ "GetAI", "dd/dde/a12998.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
+    [ "boss_tenris_mirkblood", "dd/dde/a12998.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
+    [ "DamageTaken", "dd/dde/a12998.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
+    [ "EnterEvadeMode", "dd/dde/a12998.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
+    [ "JustEngagedWith", "dd/dde/a12998.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
+    [ "KilledUnit", "dd/dde/a12998.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
+    [ "Reset", "dd/dde/a12998.html#a88d46f6e972525979687b315db90dc30", null ],
+    [ "SpellHit", "dd/dde/a12998.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
+    [ "_mirrorTarget", "dd/dde/a12998.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
 ];

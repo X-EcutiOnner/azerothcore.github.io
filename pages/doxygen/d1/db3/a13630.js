@@ -1,11 +1,12 @@
 var a13630 =
 [
-    [ "npc_scholomance_occultistAI", "d1/db3/a13630.html#af78103d07aef427130d26b4aed5e5ae3", null ],
-    [ "JustEngagedWith", "d1/db3/a13630.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
-    [ "JustReachedHome", "d1/db3/a13630.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
-    [ "SelectUnitCasting", "d1/db3/a13630.html#adde187b89a74a57aac823e4eb19bfeed", null ],
-    [ "UpdateAI", "d1/db3/a13630.html#ab02edf780adb553b2314045d8effa277", null ],
-    [ "events", "d1/db3/a13630.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
-    [ "instance", "d1/db3/a13630.html#a195fe4d681580c17086a5390fd4f82ba", null ],
-    [ "originalDisplayId", "d1/db3/a13630.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
+    [ "boss_sathrovarr", "d1/db3/a13630.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "d1/db3/a13630.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "d1/db3/a13630.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "d1/db3/a13630.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "d1/db3/a13630.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "d1/db3/a13630.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "d1/db3/a13630.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "d1/db3/a13630.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "d1/db3/a13630.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

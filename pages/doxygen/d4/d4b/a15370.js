@@ -1,6 +1,6 @@
 var a15370 =
 [
-    [ "instance_the_black_morass_InstanceMapScript", "d5/d36/a15374.html", "d5/d36/a15374" ],
-    [ "instance_the_black_morass", "d4/d4b/a15370.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
-    [ "GetInstanceScript", "d4/d4b/a15370.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
+    [ "HandleScript", "d4/d4b/a15370.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
+    [ "PrepareSpellScript", "d4/d4b/a15370.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
+    [ "Register", "d4/d4b/a15370.html#a434f0aef7f32edb6990efb992e4d57af", null ]
 ];

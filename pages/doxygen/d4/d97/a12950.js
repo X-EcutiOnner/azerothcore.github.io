@@ -1,6 +1,5 @@
 var a12950 =
 [
-    [ "boss_magmadarAI", "d4/d97/a12950.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "d4/d97/a12950.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "d4/d97/a12950.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "go_blackened_urn", "d4/d97/a12950.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
+    [ "OnGossipHello", "d4/d97/a12950.html#ab091bd54734acc65532303a391441ee2", null ]
 ];

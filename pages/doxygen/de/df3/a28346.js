@@ -1,10 +1,9 @@
 var a28346 =
 [
-    [ "guard_shattrath_scryerAI", "de/df3/a28346.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "de/df3/a28346.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "de/df3/a28346.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "de/df3/a28346.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "de/df3/a28346.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "de/df3/a28346.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "de/df3/a28346.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "npc_necropolis_health", "de/df3/a28346.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "de/df3/a28346.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "de/df3/a28346.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "de/df3/a28346.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "de/df3/a28346.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "de/df3/a28346.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

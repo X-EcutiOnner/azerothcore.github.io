@@ -1,6 +1,9 @@
 var a27138 =
 [
-    [ "HandleEffectApply", "dd/dab/a27138.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "dd/dab/a27138.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "dd/dab/a27138.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "HandleHeal", "dd/dab/a27138.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "dd/dab/a27138.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "dd/dab/a27138.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "dd/dab/a27138.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "dd/dab/a27138.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "dd/dab/a27138.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

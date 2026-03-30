@@ -1,7 +1,5 @@
 var a25166 =
 [
-    [ "HandleScript", "da/d76/a25166.html#a2e323378559d8f11cbdbcb76e86a25ca", null ],
-    [ "PrepareSpellScript", "da/d76/a25166.html#ad511986b26dccd1be8206f01458c2b40", null ],
-    [ "Register", "da/d76/a25166.html#aa8ea297d751913def150dc1e29d37664", null ],
-    [ "Validate", "da/d76/a25166.html#a81222d8ac4f55175d1dc4d7c359cc331", null ]
+    [ "PrepareSpellScript", "da/d76/a25166.html#a7478d96ac24bc4b70a10bc83335c9b76", null ],
+    [ "Register", "da/d76/a25166.html#ab3ab9557cd1969fd977a3df6f2c59d7c", null ]
 ];

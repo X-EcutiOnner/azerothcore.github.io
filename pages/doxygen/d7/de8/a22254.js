@@ -1,6 +1,5 @@
 var a22254 =
 [
-    [ "npc_roxi_ramrocket", "d7/de8/a22254.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "d7/de8/a22254.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "d7/de8/a22254.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "OutdoorPvP_terokkar_forest", "d7/de8/a22254.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "d7/de8/a22254.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

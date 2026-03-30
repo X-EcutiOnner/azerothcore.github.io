@@ -1,8 +1,8 @@
 var a22734 =
 [
-    [ "npc_parasitic_shadowfiend", "d2/d9d/a22734.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "d2/d9d/a22734.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "d2/d9d/a22734.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "d2/d9d/a22734.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "d2/d9d/a22734.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "instance_black_temple_InstanceMapScript", "d2/d9d/a22734.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "d2/d9d/a22734.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "d2/d9d/a22734.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "d2/d9d/a22734.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "d2/d9d/a22734.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

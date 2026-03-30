@@ -1,8 +1,7 @@
 var a10418 =
 [
-    [ "ownerGuid", "d5/d43/a10418.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
-    [ "petitionGuid", "d5/d43/a10418.html#a1bbf412a221b76c4a20765d9a6612182", null ],
-    [ "petitionId", "d5/d43/a10418.html#afa16859ac671ff0410204ea30ebcf429", null ],
-    [ "petitionName", "d5/d43/a10418.html#a91c81356e9aa77641eaa881cd04af5af", null ],
-    [ "petitionType", "d5/d43/a10418.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
+    [ "WaypointPath", "d5/d43/a10418.html#a69a3981fa5b1672519124870513458b3", null ],
+    [ "WaypointPath", "d5/d43/a10418.html#a65afbfc096b99361fcab26adad9cab7d", null ],
+    [ "Id", "d5/d43/a10418.html#a553acc50411bbeabedbec3c9431212ad", null ],
+    [ "Nodes", "d5/d43/a10418.html#a6326c73791542489c7f4d098b05887fb", null ]
 ];

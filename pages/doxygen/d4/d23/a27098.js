@@ -1,7 +1,6 @@
 var a27098 =
 [
-    [ "HandleDummy", "d4/d23/a27098.html#a123ddc812fb358b7517eba60d1f90eba", null ],
-    [ "Load", "d4/d23/a27098.html#a64ca188f58b4f34827f03ae2878deef0", null ],
-    [ "PrepareSpellScript", "d4/d23/a27098.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
-    [ "Register", "d4/d23/a27098.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
+    [ "HandleAfterCast", "d4/d23/a27098.html#aacd4954973c8157ca65958b9ec08155b", null ],
+    [ "PrepareSpellScript", "d4/d23/a27098.html#a45629d348275833930bc5180e9a347f9", null ],
+    [ "Register", "d4/d23/a27098.html#a9c43529cea77a4be86048616ebc64b2c", null ]
 ];

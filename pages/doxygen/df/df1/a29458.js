@@ -1,7 +1,5 @@
 var a29458 =
 [
-    [ "TalentSpellPos", "df/df1/a29458.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "df/df1/a29458.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "df/df1/a29458.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "df/df1/a29458.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "damageApplied", "df/df1/a29458.html#a69a7cfd95e3e3b43879eae37963d1e14", null ],
+    [ "slowApplied", "df/df1/a29458.html#a2d99cc2f9c6aedfeef6e18885ff2675d", null ]
 ];

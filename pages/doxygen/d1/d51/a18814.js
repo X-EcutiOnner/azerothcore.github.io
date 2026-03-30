@@ -1,7 +1,22 @@
 var a18814 =
 [
-    [ "OnPeriodic", "d1/d51/a18814.html#a9635bf496ee3098e412ba7de633250b3", null ],
-    [ "PrepareAuraScript", "d1/d51/a18814.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
-    [ "Register", "d1/d51/a18814.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
-    [ "Validate", "d1/d51/a18814.html#a5675fef373315edd34d096bb91c733b0", null ]
+    [ "npc_crok_scourgebaneAI", "d1/d51/a18814.html#a0b59ffcc00aeb1b9ac23ddc0b1504054", null ],
+    [ "CanAIAttack", "d1/d51/a18814.html#a0a26fdecc1748b96d0e7598a80449dc9", null ],
+    [ "DamageTaken", "d1/d51/a18814.html#ae727d192e29c63d5aa699b491425cdc6", null ],
+    [ "DoAction", "d1/d51/a18814.html#aaf9b034a97510ce7d58aa2d9ecfc0c14", null ],
+    [ "Reset", "d1/d51/a18814.html#a6c1d480fff0a4a6361986dc82a945534", null ],
+    [ "SetGUID", "d1/d51/a18814.html#a185a5ebbf77067ce9e233c55d47f84d0", null ],
+    [ "UpdateAI", "d1/d51/a18814.html#a109b1bf28de7903557c9c03957fa7d71", null ],
+    [ "UpdateEscortAI", "d1/d51/a18814.html#af883cb5fd419eaf1c82a21f980d3e893", null ],
+    [ "WaypointReached", "d1/d51/a18814.html#a58c3e2ed37552b3adde1aa4f1a8ba0ba", null ],
+    [ "WaypointReached", "d1/d51/a18814.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "WaypointStart", "d1/d51/a18814.html#a900611179c3c9d4ceffd86261f62151b", null ],
+    [ "_aliveTrash", "d1/d51/a18814.html#ae0c99157db5daa07643715a56217bccd", null ],
+    [ "_currentWPid", "d1/d51/a18814.html#a541f03486042a87f3ff223d7424d32f8", null ],
+    [ "_didUnderTenPercentText", "d1/d51/a18814.html#a8cb4c0126549dbb10e0b60d164ba7924", null ],
+    [ "_events", "d1/d51/a18814.html#a8f6b1618223d4660cce33d34d215f323", null ],
+    [ "_handledWP4", "d1/d51/a18814.html#acf6f70f93dbca7f5139af17ec411b971", null ],
+    [ "_instance", "d1/d51/a18814.html#a0698a3297da669fd5440743be200c378", null ],
+    [ "_isEventDone", "d1/d51/a18814.html#a184a0a5b62cfc33c9ae71c0d2d651c27", null ],
+    [ "_wipeCheckTimer", "d1/d51/a18814.html#a91be80fbce6f6f0ae6a249128ba319c9", null ]
 ];

@@ -1,6 +1,6 @@
 var a20334 =
 [
-    [ "CheckCast", "d7/dd1/a20334.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "d7/dd1/a20334.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "d7/dd1/a20334.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "HandleDamage", "d7/dd1/a20334.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "d7/dd1/a20334.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "d7/dd1/a20334.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

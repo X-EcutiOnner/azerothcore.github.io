@@ -1,6 +1,7 @@
 var a25310 =
 [
-    [ "HandleScriptEffect", "d2/d70/a25310.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
-    [ "PrepareSpellScript", "d2/d70/a25310.html#a1d7e2beafb55464f928ea5904441d698", null ],
-    [ "Register", "d2/d70/a25310.html#aeaa8321255f377b85884df25a455554f", null ]
+    [ "HandleOnEffectApply", "d2/d70/a25310.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "d2/d70/a25310.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "d2/d70/a25310.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "d2/d70/a25310.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

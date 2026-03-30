@@ -1,7 +1,8 @@
 var a27050 =
 [
-    [ "CheckTarget", "dc/d8d/a27050.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "dc/d8d/a27050.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "dc/d8d/a27050.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "dc/d8d/a27050.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "AfterApply", "dc/d8d/a27050.html#a3299de0703ca1e14760e9f33b124ac44", null ],
+    [ "PeriodicTick", "dc/d8d/a27050.html#a34f2fd8d142083705101f8265297c20e", null ],
+    [ "PrepareAuraScript", "dc/d8d/a27050.html#a79c80876d5788a20a9f686548b70fd64", null ],
+    [ "Register", "dc/d8d/a27050.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
+    [ "Validate", "dc/d8d/a27050.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
 ];

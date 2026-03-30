@@ -1,8 +1,6 @@
 var a13686 =
 [
-    [ "CalcPeriodic", "dc/d7b/a13686.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
-    [ "HandleDummyTick", "dc/d7b/a13686.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
-    [ "HandleUpdatePeriodic", "dc/d7b/a13686.html#a70ef86fd58eec1422bac6b61a4123842", null ],
-    [ "PrepareAuraScript", "dc/d7b/a13686.html#a9a97a6ab249728dbad4d3603640a7963", null ],
-    [ "Register", "dc/d7b/a13686.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
+    [ "FilterTargets", "dc/d7b/a13686.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
+    [ "PrepareSpellScript", "dc/d7b/a13686.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
+    [ "Register", "dc/d7b/a13686.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
 ];

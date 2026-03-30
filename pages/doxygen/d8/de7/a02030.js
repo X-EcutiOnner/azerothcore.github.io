@@ -1,6 +1,5 @@
 var a02030 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "d5/d33/a11449.html", "d5/d33/a11449" ],
-    [ "REMOVE_VIOLATING_FLAGS", "d8/de7/a02030.html#a9d7c4eaedbb2a06f275a5f59222bc747", null ],
-    [ "DefaultPlayerName", "d8/de7/a02030.html#a586e06ca0d339349e13d81197056bb5f", null ]
+    [ "HandleLearnSpellCommand", "d8/de7/a02030.html#acbe37f872cbc981a27671ebdf10904de", null ],
+    [ "HandleUnlearnSpellCommand", "d8/de7/a02030.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
 ];

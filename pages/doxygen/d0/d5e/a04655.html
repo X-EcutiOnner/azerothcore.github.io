@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Commands/cs_gobject.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/GameObject/GameObjectData.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,97 +106,108 @@ $(document).ready(function(){initNavTree('d0/d5e/a04655.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">cs_gobject.cpp File Reference</div></div>
+<a href="#define-members">Macros</a> &#124;
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">GameObjectData.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CommandScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObject.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Language.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">PoolMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
-<code>#include &lt;unordered_set&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpawnData.h</a>&quot;</code><br />
+<code>#include &lt;array&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
+<code>#include &lt;string&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a12187.html">gobject_commandscript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da3/a08458.html">GameObjectTemplate</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d14/a08582.html">GameObjectTemplateAddon</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfe/a08586.html">GameObjectLocale</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d80/a08590.html">QuaternionData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc2/a08594.html">GameObjectAddon</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a08598.html">GameObjectData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:ad5bd2a208bd6c6213df595ee7369126f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5e/a04655.html#ad5bd2a208bd6c6213df595ee7369126f">GameObjectSpawnId</a> = <a class="el" href="../../de/d30/a07987.html">Variant</a>&lt; <a class="el" href="../../d5/ddf/a07979.html">Hyperlink</a>&lt; gameobject &gt;, <a class="el" href="../../df/dff/a08695.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> &gt;</td></tr>
-<tr class="separator:ad5bd2a208bd6c6213df595ee7369126f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af6e4fdc2f36213d5f2a9fa6f335517b8"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5e/a04655.html#af6e4fdc2f36213d5f2a9fa6f335517b8">GameObjectEntry</a> = <a class="el" href="../../de/d30/a07987.html">Variant</a>&lt; <a class="el" href="../../d5/ddf/a07979.html">Hyperlink</a>&lt; gameobject_entry &gt;, <a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;</td></tr>
-<tr class="separator:af6e4fdc2f36213d5f2a9fa6f335517b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a7698721f2eb4f87abac1a64a64ecf676"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5e/a04655.html#a7698721f2eb4f87abac1a64a64ecf676">MAX_GAMEOBJECT_QUEST_ITEMS</a>&#160;&#160;&#160;6</td></tr>
+<tr class="separator:a7698721f2eb4f87abac1a64a64ecf676"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac148792c2982ecdddc593bf3871aa520"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5e/a04655.html#ac148792c2982ecdddc593bf3871aa520">MAX_GO_STATE</a>&#160;&#160;&#160;3</td></tr>
+<tr class="separator:ac148792c2982ecdddc593bf3871aa520"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a0cc4be9c12b1a892f031cb1ff47e23d9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5e/a04655.html#a0cc4be9c12b1a892f031cb1ff47e23d9">AddSC_gobject_commandscript</a> ()</td></tr>
-<tr class="separator:a0cc4be9c12b1a892f031cb1ff47e23d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:ac17cd142af80da019367bb796b15e5ab"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d5e/a04655.html#ac17cd142af80da019367bb796b15e5ab">GOState</a> { <br />
+&#160;&#160;<a class="el" href="../../d0/d5e/a04655.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d5e/a04655.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d0/d5e/a04655.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e">GO_STATE_ACTIVE_ALTERNATIVE</a> = 2
+<br />
+ }</td></tr>
+<tr class="separator:ac17cd142af80da019367bb796b15e5ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="af6e4fdc2f36213d5f2a9fa6f335517b8" name="af6e4fdc2f36213d5f2a9fa6f335517b8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af6e4fdc2f36213d5f2a9fa6f335517b8">&#9670;&#160;</a></span>GameObjectEntry</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a7698721f2eb4f87abac1a64a64ecf676" name="a7698721f2eb4f87abac1a64a64ecf676"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7698721f2eb4f87abac1a64a64ecf676">&#9670;&#160;</a></span>MAX_GAMEOBJECT_QUEST_ITEMS</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../d0/d5e/a04655.html#af6e4fdc2f36213d5f2a9fa6f335517b8">GameObjectEntry</a> =  <a class="el" href="../../de/d30/a07987.html">Variant</a>&lt;<a class="el" href="../../d5/ddf/a07979.html">Hyperlink</a>&lt;gameobject_entry&gt;, <a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;</td>
+          <td class="memname">#define MAX_GAMEOBJECT_QUEST_ITEMS&#160;&#160;&#160;6</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="ad5bd2a208bd6c6213df595ee7369126f" name="ad5bd2a208bd6c6213df595ee7369126f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad5bd2a208bd6c6213df595ee7369126f">&#9670;&#160;</a></span>GameObjectSpawnId</h2>
+<a id="ac148792c2982ecdddc593bf3871aa520" name="ac148792c2982ecdddc593bf3871aa520"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac148792c2982ecdddc593bf3871aa520">&#9670;&#160;</a></span>MAX_GO_STATE</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../d0/d5e/a04655.html#ad5bd2a208bd6c6213df595ee7369126f">GameObjectSpawnId</a> =  <a class="el" href="../../de/d30/a07987.html">Variant</a>&lt;<a class="el" href="../../d5/ddf/a07979.html">Hyperlink</a>&lt;gameobject&gt;, <a class="el" href="../../df/dff/a08695.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&gt;</td>
+          <td class="memname">#define MAX_GO_STATE&#160;&#160;&#160;3</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a0cc4be9c12b1a892f031cb1ff47e23d9" name="a0cc4be9c12b1a892f031cb1ff47e23d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0cc4be9c12b1a892f031cb1ff47e23d9">&#9670;&#160;</a></span>AddSC_gobject_commandscript()</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="ac17cd142af80da019367bb796b15e5ab" name="ac17cd142af80da019367bb796b15e5ab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac17cd142af80da019367bb796b15e5ab">&#9670;&#160;</a></span>GOState</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_gobject_commandscript </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">enum <a class="el" href="../../d0/d5e/a04655.html#ac17cd142af80da019367bb796b15e5ab">GOState</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  694</span>{</div>
-<div class="line"><span class="lineno">  695</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d42/a12187.html">gobject_commandscript</a>();</div>
-<div class="line"><span class="lineno">  696</span>}</div>
-<div class="ttc" id="aa12187_html"><div class="ttname"><a href="../../d9/d42/a12187.html">gobject_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_gobject.cpp:40</div></div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e" name="ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e"></a>GO_STATE_ACTIVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650" name="ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650"></a>GO_STATE_READY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e" name="ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e"></a>GO_STATE_ACTIVE_ALTERNATIVE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  707</span>{</div>
+<div class="line"><span class="lineno">  708</span>    <a class="code hl_enumvalue" href="../../d0/d5e/a04655.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a> = 0,                        <span class="comment">// show in world as used and not reset (closed door open)</span></div>
+<div class="line"><span class="lineno">  709</span>    <a class="code hl_enumvalue" href="../../d0/d5e/a04655.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a> = 1,                        <span class="comment">// show in world as ready (closed door close)</span></div>
+<div class="line"><span class="lineno">  710</span>    <a class="code hl_enumvalue" href="../../d0/d5e/a04655.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e">GO_STATE_ACTIVE_ALTERNATIVE</a> = 2                         <span class="comment">// show in world as used in alt way and not reset (closed door open by cannon fire)</span></div>
+<div class="line"><span class="lineno">  711</span>};</div>
+<div class="ttc" id="aa04655_html_ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650"><div class="ttname"><a href="../../d0/d5e/a04655.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a></div><div class="ttdeci">@ GO_STATE_READY</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:709</div></div>
+<div class="ttc" id="aa04655_html_ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e"><div class="ttname"><a href="../../d0/d5e/a04655.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a></div><div class="ttdeci">@ GO_STATE_ACTIVE</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:708</div></div>
+<div class="ttc" id="aa04655_html_ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e"><div class="ttname"><a href="../../d0/d5e/a04655.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e">GO_STATE_ACTIVE_ALTERNATIVE</a></div><div class="ttdeci">@ GO_STATE_ACTIVE_ALTERNATIVE</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:710</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00071">AddCommandsScripts()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -204,8 +215,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_2519615cc1c93425dacf3aa6e071da7e.html">Commands</a></li><li class="navelem"><a class="el" href="../../d0/d5e/a04655.html">cs_gobject.cpp</a></li>
-    <li class="footer">Generated on Mon Mar 23 2026 21:05:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_8a86f46c68fd9f4cbeaa550d3ee2afc5.html">GameObject</a></li><li class="navelem"><a class="el" href="../../d0/d5e/a04655.html">GameObjectData.h</a></li>
+    <li class="footer">Generated on Mon Mar 30 2026 21:10:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

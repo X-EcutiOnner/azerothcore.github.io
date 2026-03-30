@@ -1,11 +1,6 @@
 var a14078 =
 [
-    [ "npc_supervisor_raelen", "db/de9/a14078.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "db/de9/a14078.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "db/de9/a14078.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "db/de9/a14078.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "db/de9/a14078.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "db/de9/a14078.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "db/de9/a14078.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "db/de9/a14078.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "npc_tapoke_slim_jahnAI", "dc/d3e/a14082.html", "dc/d3e/a14082" ],
+    [ "npc_tapoke_slim_jahn", "db/de9/a14078.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "db/de9/a14078.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

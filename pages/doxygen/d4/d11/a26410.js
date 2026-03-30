@@ -1,7 +1,6 @@
 var a26410 =
 [
-    [ "HandleProc", "d4/d11/a26410.html#a5c116e916fac786def41354086989b1e", null ],
-    [ "PrepareAuraScript", "d4/d11/a26410.html#a3073bfa4a55e618d77becadcbf0590df", null ],
-    [ "Register", "d4/d11/a26410.html#a1ed55488c7ea36395de9bebe24dffd22", null ],
-    [ "Validate", "d4/d11/a26410.html#a6b3633e4a11ad9d7ddb9bcd73018fe8f", null ]
+    [ "CalculateAmount", "d4/d11/a26410.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "d4/d11/a26410.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "d4/d11/a26410.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

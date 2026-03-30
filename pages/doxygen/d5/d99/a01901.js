@@ -1,17 +1,9 @@
 var a01901 =
 [
-    [ "Petition", "d3/d4e/a10443.html", "d3/d4e/a10443" ],
-    [ "Signatures", "dc/d17/a10447.html", "dc/d17/a10447" ],
-    [ "PetitionMgr", "da/ddd/a10451.html", "da/ddd/a10451" ],
-    [ "CHARTER_DISPLAY_ID", "d5/d99/a01901.html#a33856c1d078b61fa0516a63176297c49", null ],
-    [ "sPetitionMgr", "d5/d99/a01901.html#a2910b9c8b8c58925b562acf66b3e46d2", null ],
-    [ "PetitionContainer", "d5/d99/a01901.html#a223a8d1b8f865a0d4e8f100758e36bce", null ],
-    [ "SignatureContainer", "d5/d99/a01901.html#a541d3cf929662ff3a4ab97f63d54b16f", null ],
-    [ "SignatureMap", "d5/d99/a01901.html#a52c6b38c9d018efa6f8a95153a0eb2b5", null ],
-    [ "CharterItemIDs", "d5/d99/a01901.html#acec0915ab4c4246cd1eda0ddd63d47bb", [
-      [ "GUILD_CHARTER", "d5/d99/a01901.html#acec0915ab4c4246cd1eda0ddd63d47bba2e6b069055001141f4bee95616a7720d", null ],
-      [ "ARENA_TEAM_CHARTER_2v2", "d5/d99/a01901.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27", null ],
-      [ "ARENA_TEAM_CHARTER_3v3", "d5/d99/a01901.html#acec0915ab4c4246cd1eda0ddd63d47bbac155da3886ba50a00694a0b600855470", null ],
-      [ "ARENA_TEAM_CHARTER_5v5", "d5/d99/a01901.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37", null ]
-    ] ]
+    [ "instance_gruuls_lair", "d7/da6/a23210.html", "d7/da6/a23210" ],
+    [ "instance_gruuls_lair::instance_gruuls_lair_InstanceMapScript", "da/d3c/a23214.html", "da/d3c/a23214" ],
+    [ "AddSC_instance_gruuls_lair", "d5/d99/a01901.html#a6c9bd5a761d9018e8be9e0c11b8db2c5", null ],
+    [ "creatureData", "d5/d99/a01901.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d5/d99/a01901.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "minionData", "d5/d99/a01901.html#a6720238df140a3c574a711042b7f5bd3", null ]
 ];

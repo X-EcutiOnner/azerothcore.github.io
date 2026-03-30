@@ -1,7 +1,7 @@
 var a23362 =
 [
-    [ "boss_hydromancer_thespia", "d3/df6/a23362.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "d3/df6/a23362.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "d3/df6/a23362.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "d3/df6/a23362.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "HandleOnApply", "d3/df6/a23362.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "d3/df6/a23362.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "d3/df6/a23362.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "d3/df6/a23362.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

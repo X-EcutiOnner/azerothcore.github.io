@@ -1,6 +1,6 @@
 var a21682 =
 [
-    [ "npc_mageguard_dalaranAI", "d4/d59/a21686.html", "d4/d59/a21686" ],
-    [ "npc_mageguard_dalaran", "d0/d09/a21682.html#a0cec4f232b665325c421cecb5839885f", null ],
-    [ "GetAI", "d0/d09/a21682.html#a10cbddceb53a2d432da2224128c59b28", null ]
+    [ "HandleOnEffectRemove", "d0/d09/a21682.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d0/d09/a21682.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d0/d09/a21682.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

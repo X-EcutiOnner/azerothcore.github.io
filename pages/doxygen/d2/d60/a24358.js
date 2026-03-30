@@ -1,6 +1,7 @@
 var a24358 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "d2/d60/a24358.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "InitializeAI", "d2/d60/a24358.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
-    [ "IsSummonedBy", "d2/d60/a24358.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
+    [ "HandleProc", "d2/d60/a24358.html#a60def76554cd5cf94d84ec1240d651dc", null ],
+    [ "PrepareAuraScript", "d2/d60/a24358.html#ae78484c4af6ddfcd6bf60df191f9db48", null ],
+    [ "Register", "d2/d60/a24358.html#a276526f7f988ce579dc67dc37eebbe87", null ],
+    [ "Validate", "d2/d60/a24358.html#a65986abd9db0dcfb70c8c8b21ff208ac", null ]
 ];

@@ -1,5 +1,5 @@
 var a27958 =
 [
-    [ "achievement_resilient_victory", "df/d18/a27958.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "df/d18/a27958.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "go_southfury_moonstone", "df/d18/a27958.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
+    [ "OnGossipHello", "df/d18/a27958.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
 ];

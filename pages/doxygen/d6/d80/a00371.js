@@ -1,4 +1,4 @@
 var a00371 =
 [
-    [ "Acore::Impl::GenericBaseEncoding< Encoding >", "dc/d4a/a05587.html", "dc/d4a/a05587" ]
+    [ "Optional", "d6/d80/a00371.html#aaf8f4d77efd311ec7818ab421294ef82", null ]
 ];

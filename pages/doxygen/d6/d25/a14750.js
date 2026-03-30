@@ -1,17 +1,15 @@
 var a14750 =
 [
-    [ "npc_coren_direbrew", "d6/d25/a14750.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
-    [ "CanBeSeen", "d6/d25/a14750.html#ad4db2a85c92f69e54036f4133396f201", null ],
-    [ "DamageTaken", "d6/d25/a14750.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
-    [ "DoAction", "d6/d25/a14750.html#a2d417a9310b5b75df09879678d967794", null ],
-    [ "JustDied", "d6/d25/a14750.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
-    [ "JustSummoned", "d6/d25/a14750.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
-    [ "MoveInLineOfSight", "d6/d25/a14750.html#a9c48c7e4a97998c2091992f51b734679", null ],
-    [ "Reset", "d6/d25/a14750.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
-    [ "sGossipSelect", "d6/d25/a14750.html#ad8b665606985984ad633f66ad9b73bd2", null ],
-    [ "SummonedCreatureDies", "d6/d25/a14750.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
-    [ "SummonSister", "d6/d25/a14750.html#a358fe5922a85ea3eee6abe9451869b66", null ],
-    [ "UpdateAI", "d6/d25/a14750.html#af6615292fa853883979dc37c6e247289", null ],
-    [ "_events", "d6/d25/a14750.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
-    [ "_summons", "d6/d25/a14750.html#a261d4c4dea56748e66752cb11588086a", null ]
+    [ "npc_midsummer_bonfire", "d6/d25/a14750.html#a07c8b1add555697fdb29fda89f42c4af", null ],
+    [ "Ignite", "d6/d25/a14750.html#a2a398299b3584e3a871b1b6e83b4ff5f", null ],
+    [ "InitBonfire", "d6/d25/a14750.html#a9210a0a472d609f66895bfa0a8e324b0", null ],
+    [ "SpellHit", "d6/d25/a14750.html#a9ad2102b2dea60fbb81c1578b97f34dc", null ],
+    [ "StampOut", "d6/d25/a14750.html#a1f8bd11d0f49c0a44764a2f34e6ee147", null ],
+    [ "UpdateAI", "d6/d25/a14750.html#a46733a171006e4693a32391cfe954050", null ],
+    [ "UpdateBonfireBlessingBuffs", "d6/d25/a14750.html#a1236b61f21ff1a1b85bbc7058ca8e17c", null ],
+    [ "_bonfire", "d6/d25/a14750.html#aaa2f2822cb5c104ec2d90c2a344b409d", null ],
+    [ "_isStampedOut", "d6/d25/a14750.html#aa21c9f7a5d7ac29663d94da55ef34373", null ],
+    [ "_spellFocus", "d6/d25/a14750.html#abef815568f7d39bbda20f9611e3abc52", null ],
+    [ "_teamId", "d6/d25/a14750.html#a5c0894721d13dd49961c0687c100d7a5", null ],
+    [ "_type", "d6/d25/a14750.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5", null ]
 ];

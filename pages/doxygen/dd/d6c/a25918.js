@@ -1,6 +1,8 @@
 var a25918 =
 [
-    [ "HandleOnEffectHit", "dd/d6c/a25918.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
-    [ "PrepareSpellScript", "dd/d6c/a25918.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
-    [ "Register", "dd/d6c/a25918.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
+    [ "CheckQuest", "dd/d6c/a25918.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "dd/d6c/a25918.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "dd/d6c/a25918.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "dd/d6c/a25918.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "dd/d6c/a25918.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

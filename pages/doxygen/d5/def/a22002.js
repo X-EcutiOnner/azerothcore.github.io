@@ -1,6 +1,6 @@
 var a22002 =
 [
-    [ "npc_razael_and_lyana", "d5/def/a22002.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "d5/def/a22002.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "d5/def/a22002.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "CheckCast", "d5/def/a22002.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "d5/def/a22002.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "d5/def/a22002.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

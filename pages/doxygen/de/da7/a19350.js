@@ -1,12 +1,6 @@
 var a19350 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "de/da7/a19350.html#a2e3abb6f8889b8df818e8260e6428375", null ],
-    [ "InitializeAI", "de/da7/a19350.html#ac39bb8074ebb7106b426f507b73b368e", null ],
-    [ "JustEngagedWith", "de/da7/a19350.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
-    [ "MoveInLineOfSight", "de/da7/a19350.html#a846fe2784308eb694f5f482133a33a7f", null ],
-    [ "MovementInform", "de/da7/a19350.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
-    [ "Reset", "de/da7/a19350.html#afbb260e4968865e7c4141e73a050e663", null ],
-    [ "UpdateAI", "de/da7/a19350.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
-    [ "_didWebBeam", "de/da7/a19350.html#a8772cf938d30ddcc439d3912db578dfa", null ],
-    [ "events", "de/da7/a19350.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
+    [ "FilterTargets", "de/da7/a19350.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "de/da7/a19350.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "de/da7/a19350.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

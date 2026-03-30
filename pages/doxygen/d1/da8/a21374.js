@@ -1,12 +1,5 @@
 var a21374 =
 [
-    [ "boss_lavanthorAI", "d1/da8/a21374.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "d1/da8/a21374.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "d1/da8/a21374.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "d1/da8/a21374.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "d1/da8/a21374.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "d1/da8/a21374.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "d1/da8/a21374.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "d1/da8/a21374.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "d1/da8/a21374.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "npc_mei_francis_mountAI", "d1/da8/a21374.html#aa9886ead02754faebff8b21eeb85dee6", null ],
+    [ "CanBeSeen", "d1/da8/a21374.html#ad5e33495339a0315bc7b01351810157e", null ]
 ];

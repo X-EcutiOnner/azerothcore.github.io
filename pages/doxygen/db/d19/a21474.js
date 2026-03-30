@@ -1,6 +1,7 @@
 var a21474 =
 [
-    [ "npc_azure_stalkerAI", "d1/d45/a21478.html", "d1/d45/a21478" ],
-    [ "npc_azure_stalker", "db/d19/a21474.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
-    [ "GetAI", "db/d19/a21474.html#a1c067809f98a4d7845d2fb4269742274", null ]
+    [ "CheckCast", "db/d19/a21474.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "db/d19/a21474.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "db/d19/a21474.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "db/d19/a21474.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

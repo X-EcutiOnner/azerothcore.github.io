@@ -1,6 +1,8 @@
 var a22302 =
 [
-    [ "CheckCast", "d5/d5f/a22302.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "d5/d5f/a22302.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "d5/d5f/a22302.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "CalcPeriodic", "d5/d5f/a22302.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
+    [ "OnRemove", "d5/d5f/a22302.html#af120bb9d6a0c3d338706613540849412", null ],
+    [ "PrepareAuraScript", "d5/d5f/a22302.html#ad413f14193013058e1775f80b457a81d", null ],
+    [ "Register", "d5/d5f/a22302.html#aa35fc5865f108712e450661e67c384ce", null ],
+    [ "Update", "d5/d5f/a22302.html#aebc61b57ed8038488ec06c14483b2099", null ]
 ];

@@ -1,8 +1,9 @@
 var a27402 =
 [
-    [ "CheckProc", "db/d33/a27402.html#a2e564758a050827108955f73a08e72e7", null ],
-    [ "PrepareAuraScript", "db/d33/a27402.html#a5993871d8837b43580818fa94e1bccc2", null ],
-    [ "Register", "db/d33/a27402.html#a24faa9992523bc87df7f5ebccfb42233", null ],
-    [ "WasUsedByMutilate", "db/d33/a27402.html#af31c8d77307f3cf3acee06e0b159925e", null ],
-    [ "_usedByMutilate", "db/d33/a27402.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
+    [ "CheckCast", "db/d33/a27402.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "db/d33/a27402.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "db/d33/a27402.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "db/d33/a27402.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "db/d33/a27402.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "db/d33/a27402.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

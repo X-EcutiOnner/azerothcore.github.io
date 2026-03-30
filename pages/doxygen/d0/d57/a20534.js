@@ -1,5 +1,7 @@
 var a20534 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "d0/d57/a20534.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "d0/d57/a20534.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "FilterTargets", "d0/d57/a20534.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "d0/d57/a20534.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "d0/d57/a20534.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "d0/d57/a20534.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

@@ -1,6 +1,6 @@
 var a12434 =
 [
-    [ "boss_general_angerforgeAI", "de/daf/a12438.html", "de/daf/a12438" ],
-    [ "boss_general_angerforge", "d0/d73/a12434.html#a00c94097831dc52d31505f312a04f562", null ],
-    [ "GetAI", "d0/d73/a12434.html#ac3f3b26bf2c6745bb9ab23c7ff1484ae", null ]
+    [ "boss_anubshiah", "d0/d73/a12434.html#aa8e436501ebf08465a9742dedb5901fc", null ],
+    [ "JustEngagedWith", "d0/d73/a12434.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
+    [ "UpdateAI", "d0/d73/a12434.html#a0a3cbdd6be45415723cbadb40478831a", null ]
 ];

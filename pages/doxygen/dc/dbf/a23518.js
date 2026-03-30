@@ -1,5 +1,13 @@
 var a23518 =
 [
-    [ "go_broggok_lever", "dc/dbf/a23518.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "dc/dbf/a23518.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "advisor_baseAI", "dc/dbf/a23518.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
+    [ "DamageTaken", "dc/dbf/a23518.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
+    [ "JustDied", "dc/dbf/a23518.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
+    [ "JustEngagedWith", "dc/dbf/a23518.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
+    [ "Reset", "dc/dbf/a23518.html#a008c30414ecebf4e2996d06b81539255", null ],
+    [ "ScheduleEvents", "dc/dbf/a23518.html#a24d22ccec834770bc5bcf44119fb0045", null ],
+    [ "SpellHit", "dc/dbf/a23518.html#a4fc41f3985244b6baf25b3417f67054e", null ],
+    [ "UpdateAI", "dc/dbf/a23518.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
+    [ "_feigning", "dc/dbf/a23518.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
+    [ "_preventDeath", "dc/dbf/a23518.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
 ];

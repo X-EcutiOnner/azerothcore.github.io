@@ -1,8 +1,14 @@
 var a10246 =
 [
-    [ "TimedFleeingMovementGenerator", "db/d0e/a10246.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
-    [ "Finalize", "db/d0e/a10246.html#a1a18f033663fa93ef0b9885aae21f766", null ],
-    [ "GetMovementGeneratorType", "db/d0e/a10246.html#a1533d13f4e786e498353805a2a2daf85", null ],
-    [ "Update", "db/d0e/a10246.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
-    [ "i_totalFleeTime", "db/d0e/a10246.html#a2858047459ff675383e7b86805702369", null ]
+    [ "~MovementGenerator", "db/d0e/a10246.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
+    [ "Finalize", "db/d0e/a10246.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
+    [ "GetMovementGeneratorType", "db/d0e/a10246.html#a60bac341b438ea7258986f234a952324", null ],
+    [ "GetResetPosition", "db/d0e/a10246.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
+    [ "GetSplineId", "db/d0e/a10246.html#a99865a1b7cf84b02784bfa8df958585f", null ],
+    [ "Initialize", "db/d0e/a10246.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
+    [ "Pause", "db/d0e/a10246.html#a37530e5cd743faecabd21eba08dce939", null ],
+    [ "Reset", "db/d0e/a10246.html#aa6641fa1182551421fc8572afad8e083", null ],
+    [ "Resume", "db/d0e/a10246.html#a51988a8b0a45459242467e38ca46303c", null ],
+    [ "unitSpeedChanged", "db/d0e/a10246.html#a0f9c4fd52947688dcda1161924e829bb", null ],
+    [ "Update", "db/d0e/a10246.html#ae3014d8c6e728799c86134ef64737ed5", null ]
 ];

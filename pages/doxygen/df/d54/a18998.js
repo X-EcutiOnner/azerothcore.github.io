@@ -1,6 +1,6 @@
 var a18998 =
 [
-    [ "npc_valithria_portalAI", "d2/d94/a19002.html", "d2/d94/a19002" ],
-    [ "npc_valithria_portal", "df/d54/a18998.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "df/d54/a18998.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "npc_icc_valkyr_heraldAI", "d2/d94/a19002.html", "d2/d94/a19002" ],
+    [ "npc_icc_valkyr_herald", "df/d54/a18998.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "df/d54/a18998.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

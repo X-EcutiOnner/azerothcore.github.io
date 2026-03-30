@@ -1,6 +1,7 @@
 var a12914 =
 [
-    [ "boss_gehennasAI", "dd/d29/a12918.html", "dd/d29/a12918" ],
-    [ "boss_gehennas", "db/d73/a12914.html#a380a24cbaad4e247c6c76fd63ac34f59", null ],
-    [ "GetAI", "db/d73/a12914.html#a92f9ff0e957da5331b4a3ecc48be0ffa", null ]
+    [ "boss_maiden_of_virtue", "db/d73/a12914.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "db/d73/a12914.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "db/d73/a12914.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "db/d73/a12914.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

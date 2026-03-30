@@ -1,9 +1,13 @@
 var a13934 =
 [
-    [ "boss_entropius", "df/d4b/a13934.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "df/d4b/a13934.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "df/d4b/a13934.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "df/d4b/a13934.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "df/d4b/a13934.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "df/d4b/a13934.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "npc_corporal_keeshanAI", "df/d4b/a13934.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "df/d4b/a13934.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "df/d4b/a13934.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "df/d4b/a13934.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "df/d4b/a13934.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "WaypointReached", "df/d4b/a13934.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "mockingBlowTimer", "df/d4b/a13934.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "df/d4b/a13934.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "df/d4b/a13934.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "df/d4b/a13934.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

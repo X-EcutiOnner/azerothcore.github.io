@@ -1,6 +1,8 @@
 var a19694 =
 [
-    [ "npc_teslaAI", "de/da7/a19698.html", "de/da7/a19698" ],
-    [ "npc_tesla", "d9/d7f/a19694.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
-    [ "GetAI", "d9/d7f/a19694.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d9/d7f/a19694.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "d9/d7f/a19694.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "d9/d7f/a19694.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "d9/d7f/a19694.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "d9/d7f/a19694.html#a52db8081961566ef2002424f00b60189", null ]
 ];

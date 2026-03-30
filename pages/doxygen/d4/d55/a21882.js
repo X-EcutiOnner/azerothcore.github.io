@@ -1,8 +1,6 @@
 var a21882 =
 [
-    [ "OnRemove", "d4/d55/a21882.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "d4/d55/a21882.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "d4/d55/a21882.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "d4/d55/a21882.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "d4/d55/a21882.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_vekjik", "d4/d55/a21882.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "d4/d55/a21882.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "d4/d55/a21882.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

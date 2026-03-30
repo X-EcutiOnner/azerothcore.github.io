@@ -1,6 +1,6 @@
 var a16678 =
 [
-    [ "OnSummon", "d0/dd6/a16678.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "d0/dd6/a16678.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "d0/dd6/a16678.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "npc_toc_paladinAI", "d3/d39/a16682.html", "d3/d39/a16682" ],
+    [ "npc_toc_paladin", "d0/dd6/a16678.html#af11025a2a4be2b2c982ad31241d47180", null ],
+    [ "GetAI", "d0/dd6/a16678.html#a15766ea4414701040c738251302177af", null ]
 ];

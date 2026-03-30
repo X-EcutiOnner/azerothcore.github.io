@@ -1,6 +1,7 @@
 var a27214 =
 [
-    [ "PrepareSpellScript", "d6/deb/a27214.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
-    [ "Register", "d6/deb/a27214.html#ab58938808e460e843e42f2b6fa644e8a", null ],
-    [ "SetDest", "d6/deb/a27214.html#ab87932c73a2e53647bda584aeb58f789", null ]
+    [ "PeriodicTick", "d6/deb/a27214.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
+    [ "PrepareAuraScript", "d6/deb/a27214.html#afd362a7dd0373e9480445a99023a5c8c", null ],
+    [ "Register", "d6/deb/a27214.html#a0332788648661d5c2665c5d1431e4ca7", null ],
+    [ "Validate", "d6/deb/a27214.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
 ];

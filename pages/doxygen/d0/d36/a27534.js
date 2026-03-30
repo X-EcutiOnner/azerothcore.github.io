@@ -1,7 +1,7 @@
 var a27534 =
 [
-    [ "AfterRemove", "d0/d36/a27534.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "d0/d36/a27534.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "d0/d36/a27534.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "d0/d36/a27534.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "HandleDummy", "d0/d36/a27534.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
+    [ "PrepareSpellScript", "d0/d36/a27534.html#a24634405a8d0ccdd22f4832815262446", null ],
+    [ "Register", "d0/d36/a27534.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
+    [ "Validate", "d0/d36/a27534.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
 ];

@@ -1,7 +1,6 @@
 var a18318 =
 [
-    [ "HandleSpikes", "d3/d82/a18318.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "d3/d82/a18318.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "d3/d82/a18318.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "d3/d82/a18318.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "npc_rimefangAI", "d3/d3f/a18322.html", "d3/d3f/a18322" ],
+    [ "npc_rimefang", "d3/d82/a18318.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "d3/d82/a18318.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

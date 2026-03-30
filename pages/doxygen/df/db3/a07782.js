@@ -1,14 +1,20 @@
 var a07782 =
 [
-    [ "FilteredCommandListIterator", "df/db3/a07782.html#abd6dc5c1e3c56eb27856eddb46d5e6a6", null ],
-    [ "_skip", "df/db3/a07782.html#ac2f0e09b76eb9d40d1b78279a81a5e65", null ],
-    [ "operator bool", "df/db3/a07782.html#aaeb128830c7705a455343d173dc3ae5a", null ],
-    [ "operator!", "df/db3/a07782.html#a864e81c56946ca97bf24b392ff8f0b8f", null ],
-    [ "operator*", "df/db3/a07782.html#a7b1008103a94f6dc068d3e839c924ea6", null ],
-    [ "operator++", "df/db3/a07782.html#a6d4a54adde98e638428a8d314a6e4356", null ],
-    [ "operator->", "df/db3/a07782.html#ad83cb2c649a847d0cd04b5fd8ee8494c", null ],
-    [ "_end", "df/db3/a07782.html#a294c3b743ac4b1a1b878d02a6580d3ca", null ],
-    [ "_handler", "df/db3/a07782.html#a0c64270cd18f8988997882ceb3e10184", null ],
-    [ "_it", "df/db3/a07782.html#abbf6ac9d50ba494221addff9aba11b80", null ],
-    [ "_token", "df/db3/a07782.html#acb834f907b55195f2a27d69f89d84961", null ]
+    [ "ChannelMap", "df/db3/a07782.html#a84c686f095464d67f750309244a47ba5", null ],
+    [ "ChannelRightsMap", "df/db3/a07782.html#a4e153c81aede8182160b0a5ab89e5b4b", null ],
+    [ "ChannelMgr", "df/db3/a07782.html#aa671334be6933f374466666ec5c6cc46", null ],
+    [ "~ChannelMgr", "df/db3/a07782.html#a2f9099cf528aacae9110d349841e57a7", null ],
+    [ "forTeam", "df/db3/a07782.html#a62fd837572c3c88d8848115c98587401", null ],
+    [ "GetChannel", "df/db3/a07782.html#a89dbd4095eeeb79ae59947beb2d2cd17", null ],
+    [ "GetChannelRightsFor", "df/db3/a07782.html#a5cc03c09dfc33a89d3d4f59d1e92d757", null ],
+    [ "GetJoinChannel", "df/db3/a07782.html#a92540d37b38ccc032665fa220349a4ec", null ],
+    [ "LoadChannelRights", "df/db3/a07782.html#a4fa043d2c61f5013d62b192d46bd453a", null ],
+    [ "LoadChannels", "df/db3/a07782.html#a73e822c758aacb7f959407b100b9aff6", null ],
+    [ "MakeNotOnPacket", "df/db3/a07782.html#ae85b95eac40037d5066efa17fb484bc5", null ],
+    [ "SetChannelRightsFor", "df/db3/a07782.html#a1d672ab806b5e00bdd96d3a56fe3520b", null ],
+    [ "_channelIdMax", "df/db3/a07782.html#a41bbe928d2e50c899a10b4b7da0e1a68", null ],
+    [ "_teamId", "df/db3/a07782.html#a1ac5de545c0cb91088176fae883748ed", null ],
+    [ "channelRightsEmpty", "df/db3/a07782.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9", null ],
+    [ "channels", "df/db3/a07782.html#a823810bd463e51a0fb007712717f13dd", null ],
+    [ "channels_rights", "df/db3/a07782.html#adfc7c2e0156b2dc290c1c0f307a6911f", null ]
 ];

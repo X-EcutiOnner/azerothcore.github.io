@@ -1,6 +1,6 @@
 var a16810 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "df/d64/a16814.html", "df/d64/a16814" ],
-    [ "npc_toc5_grand_champion_minion", "d6/d63/a16810.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
-    [ "GetAI", "d6/d63/a16810.html#a55acf397b94ba63b1db626dc1041b28e", null ]
+    [ "npc_mistress_of_painAI", "df/d64/a16814.html", "df/d64/a16814" ],
+    [ "npc_mistress_of_pain", "d6/d63/a16810.html#a0261ed835454725e0e5629c295be4330", null ],
+    [ "GetAI", "d6/d63/a16810.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
 ];

@@ -1,7 +1,7 @@
 var a27526 =
 [
-    [ "HandleDummy", "db/dd5/a27526.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
-    [ "PrepareSpellScript", "db/dd5/a27526.html#a99deca1c5c8631342be400cb863eefb2", null ],
-    [ "Register", "db/dd5/a27526.html#aa5ecc51b030fe7280e824ade641216d3", null ],
-    [ "Validate", "db/dd5/a27526.html#a731503d3769718695d109ad71160e67a", null ]
+    [ "FilterTargets", "db/dd5/a27526.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "db/dd5/a27526.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "db/dd5/a27526.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "db/dd5/a27526.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

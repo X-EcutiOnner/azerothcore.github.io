@@ -1,6 +1,5 @@
 var a27694 =
 [
-    [ "HandleDummy", "d6/dd7/a27694.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
-    [ "PrepareSpellScript", "d6/dd7/a27694.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
-    [ "Register", "d6/dd7/a27694.html#a27aece218c848064ae387491f9176099", null ]
+    [ "achievement_sa_defense_of_the_ancients", "d6/dd7/a27694.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "d6/dd7/a27694.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

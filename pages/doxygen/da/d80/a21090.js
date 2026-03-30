@@ -1,7 +1,12 @@
 var a21090 =
 [
-    [ "npc_frost_tomb", "da/d80/a21090.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "da/d80/a21090.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "da/d80/a21090.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "da/d80/a21090.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "boss_lavanthorAI", "da/d80/a21090.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
+    [ "EnterEvadeMode", "da/d80/a21090.html#a0334d92f1ddf30235efe298df622535b", null ],
+    [ "JustDied", "da/d80/a21090.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
+    [ "JustEngagedWith", "da/d80/a21090.html#a9820ec47af72af19f00b172ee138f908", null ],
+    [ "MoveInLineOfSight", "da/d80/a21090.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
+    [ "Reset", "da/d80/a21090.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
+    [ "UpdateAI", "da/d80/a21090.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
+    [ "events", "da/d80/a21090.html#a273adc56adefe9810013bc80950f2624", null ],
+    [ "pInstance", "da/d80/a21090.html#ad6059577c5e131523f39316c2291b421", null ]
 ];

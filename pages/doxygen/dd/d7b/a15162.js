@@ -1,9 +1,15 @@
 var a15162 =
 [
-    [ "boss_azgalor", "dd/d7b/a15162.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "dd/d7b/a15162.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "dd/d7b/a15162.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "dd/d7b/a15162.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "dd/d7b/a15162.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "dd/d7b/a15162.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "npc_time_rift", "dd/d7b/a15162.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "dd/d7b/a15162.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "dd/d7b/a15162.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "dd/d7b/a15162.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "dd/d7b/a15162.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "dd/d7b/a15162.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "dd/d7b/a15162.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "dd/d7b/a15162.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "dd/d7b/a15162.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "dd/d7b/a15162.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "dd/d7b/a15162.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "dd/d7b/a15162.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

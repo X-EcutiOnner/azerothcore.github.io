@@ -1,15 +1,8 @@
 var a13598 =
 [
-    [ "boss_kormok", "dd/d76/a13598.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
-    [ "DamageTaken", "dd/d76/a13598.html#a2aa7fedea09b4d0526028826be2cb360", null ],
-    [ "IsSummonedBy", "dd/d76/a13598.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
-    [ "JustDied", "dd/d76/a13598.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
-    [ "JustEngagedWith", "dd/d76/a13598.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
-    [ "JustSummoned", "dd/d76/a13598.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
-    [ "Reset", "dd/d76/a13598.html#a70252bf1680510294f62e2c42220156e", null ],
-    [ "SummonedCreatureDespawn", "dd/d76/a13598.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
-    [ "UpdateAI", "dd/d76/a13598.html#aea5651a98492885eb4d598714df4fd40", null ],
-    [ "_mages", "dd/d76/a13598.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
-    [ "_scheduler", "dd/d76/a13598.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
-    [ "_summons", "dd/d76/a13598.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
+    [ "npc_demonic_vapor", "dd/d76/a13598.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "IsSummonedBy", "dd/d76/a13598.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
+    [ "Reset", "dd/d76/a13598.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "dd/d76/a13598.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
+    [ "_timer", "dd/d76/a13598.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
 ];

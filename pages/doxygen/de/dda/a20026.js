@@ -1,6 +1,6 @@
 var a20026 =
 [
-    [ "boss_maiden_of_griefAI", "d2/db3/a20030.html", "d2/db3/a20030" ],
-    [ "boss_maiden_of_grief", "de/dda/a20026.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
-    [ "GetAI", "de/dda/a20026.html#af8d2e6392a0c73add801910945b2558e", null ]
+    [ "CheckCast", "de/dda/a20026.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "de/dda/a20026.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "de/dda/a20026.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

@@ -1,10 +1,17 @@
 var a28926 =
 [
-    [ "Exception", "dd/d77/a28926.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "dd/d77/a28926.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "Exception", "dd/d77/a28926.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "dd/d77/a28926.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "getMessage", "dd/d77/a28926.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "getMessage", "dd/d77/a28926.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "message", "dd/d77/a28926.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
+    [ "Entry", "dd/d77/a28926.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
+    [ "Difficulty", "dd/d77/a28926.html#aa85e97ced86b0d27c753ca924eba074b", null ],
+    [ "ExpansionLevel", "dd/d77/a28926.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
+    [ "Flags", "dd/d77/a28926.html#a9481c296a064ec400b0f050097903557", null ],
+    [ "GroupID", "dd/d77/a28926.html#a7a6c2971a61b171d00c885ce452601ce", null ],
+    [ "ID", "dd/d77/a28926.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
+    [ "MapID", "dd/d77/a28926.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
+    [ "MaxLevel", "dd/d77/a28926.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
+    [ "MinLevel", "dd/d77/a28926.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
+    [ "Name", "dd/d77/a28926.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
+    [ "TargetLevel", "dd/d77/a28926.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
+    [ "TargetLevelMax", "dd/d77/a28926.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
+    [ "TargetLevelMin", "dd/d77/a28926.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
+    [ "TypeID", "dd/d77/a28926.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
 ];

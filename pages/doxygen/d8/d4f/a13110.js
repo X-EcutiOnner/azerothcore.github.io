@@ -1,9 +1,5 @@
 var a13110 =
 [
-    [ "boss_curator", "d8/d4f/a13110.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "d8/d4f/a13110.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "d8/d4f/a13110.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "d8/d4f/a13110.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "d8/d4f/a13110.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "d8/d4f/a13110.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "textid", "d8/d4f/a13110.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
+    [ "timer", "d8/d4f/a13110.html#ab7851f383e7221c6ff2700ee345d9504", null ]
 ];

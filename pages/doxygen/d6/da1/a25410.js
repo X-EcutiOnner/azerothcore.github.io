@@ -1,6 +1,7 @@
 var a25410 =
 [
-    [ "HandleCast", "d6/da1/a25410.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "d6/da1/a25410.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "d6/da1/a25410.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "FilterTargets", "d6/da1/a25410.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "d6/da1/a25410.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "d6/da1/a25410.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "d6/da1/a25410.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

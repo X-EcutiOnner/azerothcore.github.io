@@ -1,7 +1,6 @@
 var a27802 =
 [
-    [ "HandleProc", "d1/d61/a27802.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
-    [ "PrepareAuraScript", "d1/d61/a27802.html#aadbaea984fedb04e77b92174efd5e83d", null ],
-    [ "Register", "d1/d61/a27802.html#aedd1652a571275a305db70fbbe6f725c", null ],
-    [ "Validate", "d1/d61/a27802.html#a28c281aeef80409b419753f71da80f92", null ]
+    [ "boss_emerissAI", "dc/d04/a27806.html", "dc/d04/a27806" ],
+    [ "boss_emeriss", "d1/d61/a27802.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d1/d61/a27802.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

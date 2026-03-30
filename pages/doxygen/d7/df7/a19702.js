@@ -1,5 +1,6 @@
 var a19702 =
 [
-    [ "at_thaddius_entrance", "d7/df7/a19702.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "_OnTrigger", "d7/df7/a19702.html#acc869cade2b48ceb782d78aa7df6f246", null ]
+    [ "boss_krystallusAI", "d9/dbf/a19706.html", "d9/dbf/a19706" ],
+    [ "boss_krystallus", "d7/df7/a19702.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "d7/df7/a19702.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

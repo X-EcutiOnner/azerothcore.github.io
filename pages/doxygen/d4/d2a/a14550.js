@@ -1,9 +1,7 @@
 var a14550 =
 [
-    [ "boss_jindo", "d4/d2a/a14550.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
-    [ "EnterEvadeMode", "d4/d2a/a14550.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
-    [ "JustEngagedWith", "d4/d2a/a14550.html#a7f612a1e5033c5097856222cee41f2af", null ],
-    [ "JustSummoned", "d4/d2a/a14550.html#ac7382289d174ec70703b76dc4e451d39", null ],
-    [ "UpdateAI", "d4/d2a/a14550.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
-    [ "_scheduler", "d4/d2a/a14550.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
+    [ "HandleScriptEffect", "d4/d2a/a14550.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
+    [ "PrepareSpellScript", "d4/d2a/a14550.html#a3d906994c11e52e89c842189be73ddfd", null ],
+    [ "Register", "d4/d2a/a14550.html#a4cdab36e2265c696207a39e16549ab13", null ],
+    [ "Validate", "d4/d2a/a14550.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
 ];

@@ -1,10 +1,7 @@
 var a14342 =
 [
-    [ "boss_alyson_antille", "dd/d56/a14342.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
-    [ "GetNearbyFriendlies", "dd/d56/a14342.html#ab99596d5c2eafac8c678378d509bf585", null ],
-    [ "JustEngagedWith", "dd/d56/a14342.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
-    [ "RandomReverseFriendlyList", "dd/d56/a14342.html#afef27de229ba2c3b8beb30809a313237", null ],
-    [ "Reset", "dd/d56/a14342.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
-    [ "UpdateAI", "dd/d56/a14342.html#a15157be42d166a239ab658fc04292e44", null ],
-    [ "_friendlyList", "dd/d56/a14342.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
+    [ "HandleOnHit", "dd/d56/a14342.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "dd/d56/a14342.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "dd/d56/a14342.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "dd/d56/a14342.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

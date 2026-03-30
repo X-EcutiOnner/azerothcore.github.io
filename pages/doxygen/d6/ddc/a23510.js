@@ -1,8 +1,7 @@
 var a23510 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d6/ddc/a23510.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "d6/ddc/a23510.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "d6/ddc/a23510.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "d6/ddc/a23510.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "d6/ddc/a23510.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "OnApply", "d6/ddc/a23510.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "d6/ddc/a23510.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "d6/ddc/a23510.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "d6/ddc/a23510.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

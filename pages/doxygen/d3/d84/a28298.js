@@ -1,5 +1,6 @@
 var a28298 =
 [
-    [ "go_table_theka", "d3/d84/a28298.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d3/d84/a28298.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "npc_stable_masterAI", "d2/db2/a28302.html", "d2/db2/a28302" ],
+    [ "npc_stable_master", "d3/d84/a28298.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "d3/d84/a28298.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

@@ -1,6 +1,9 @@
 var a15410 =
 [
-    [ "instance_maraudon_InstanceMapScript", "db/de2/a15414.html", "db/de2/a15414" ],
-    [ "instance_maraudon", "d4/dd7/a15410.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "d4/dd7/a15410.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "npc_eye_tentacle", "d4/dd7/a15410.html#a106deeb95d74597377d32e81695dc3c9", null ],
+    [ "JustDied", "d4/dd7/a15410.html#aac965d97034f4f623172297e4f82647e", null ],
+    [ "JustEngagedWith", "d4/dd7/a15410.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
+    [ "Reset", "d4/dd7/a15410.html#a715439dfa31b4cf9df7ddd678d912108", null ],
+    [ "UpdateAI", "d4/dd7/a15410.html#a48f9067f27d61e609a014669c1daedb9", null ],
+    [ "_portalGUID", "d4/dd7/a15410.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
 ];

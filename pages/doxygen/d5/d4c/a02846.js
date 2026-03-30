@@ -1,9 +1,9 @@
 var a02846 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "da/da1/a22231.html", "da/da1/a22231" ],
-    [ "AddSC_outdoorpvp_hp", "d5/d4c/a02846.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "HP_LANG_CAPTURE_A", "d5/d4c/a02846.html#a642fe1233b764402bae812604b684442", null ],
-    [ "HP_LANG_CAPTURE_H", "d5/d4c/a02846.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
-    [ "HP_LANG_LOSE_A", "d5/d4c/a02846.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
-    [ "HP_LANG_LOSE_H", "d5/d4c/a02846.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
+    [ "instance_halls_of_stone", "d2/d7f/a19782.html", "d2/d7f/a19782" ],
+    [ "instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript", "d7/df9/a19786.html", "d7/df9/a19786" ],
+    [ "AddSC_instance_halls_of_stone", "d5/d4c/a02846.html#a81d8c56de5920b1e73d7955e1c7399ed", null ],
+    [ "boundaries", "d5/d4c/a02846.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d5/d4c/a02846.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "summonData", "d5/d4c/a02846.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

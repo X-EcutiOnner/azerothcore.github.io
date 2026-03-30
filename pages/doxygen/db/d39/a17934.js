@@ -1,12 +1,6 @@
 var a17934 =
 [
-    [ "npc_high_overlord_saurfangAI", "db/d39/a17934.html#a5c31259d9eb26e09d2b645d826e75328", null ],
-    [ "DoAction", "db/d39/a17934.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
-    [ "MovementInform", "db/d39/a17934.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
-    [ "Reset", "db/d39/a17934.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
-    [ "SpellHit", "db/d39/a17934.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
-    [ "UpdateAI", "db/d39/a17934.html#a92124e7490a066bf63836397a3bdc71b", null ],
-    [ "_events", "db/d39/a17934.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
-    [ "_guardList", "db/d39/a17934.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
-    [ "_instance", "db/d39/a17934.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
+    [ "npc_cult_fanaticAI", "db/def/a17938.html", "db/def/a17938" ],
+    [ "npc_cult_fanatic", "db/d39/a17934.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "db/d39/a17934.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

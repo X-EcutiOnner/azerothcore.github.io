@@ -1,10 +1,8 @@
 var a17054 =
 [
-    [ "npc_mistress_of_painAI", "de/db9/a17054.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "de/db9/a17054.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "de/db9/a17054.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "de/db9/a17054.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "de/db9/a17054.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "de/db9/a17054.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "de/db9/a17054.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "npc_fos_leaderAI", "db/db5/a17058.html", "db/db5/a17058" ],
+    [ "npc_fos_leader", "de/db9/a17054.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "de/db9/a17054.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "de/db9/a17054.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "de/db9/a17054.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

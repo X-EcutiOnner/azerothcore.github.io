@@ -1,13 +1,11 @@
 var a12142 =
 [
-    [ "gm_commandscript", "de/d76/a12142.html#a1b24112b70818778755ef9b5b062b2e8", null ],
-    [ "GetCommands", "de/d76/a12142.html#a17c725e18324de7aadff260c77d75c45", null ],
-    [ "HandleGMChatCommand", "de/d76/a12142.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
-    [ "HandleGMFlyCommand", "de/d76/a12142.html#a29829660f39c9bfa4190bbb118f482ba", null ],
-    [ "HandleGMListFullCommand", "de/d76/a12142.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
-    [ "HandleGMListIngameCommand", "de/d76/a12142.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
-    [ "HandleGMOffCommand", "de/d76/a12142.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
-    [ "HandleGMOnCommand", "de/d76/a12142.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
-    [ "HandleGMSpectatorCommand", "de/d76/a12142.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
-    [ "HandleGMVisibleCommand", "de/d76/a12142.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
+    [ "bf_commandscript", "de/d76/a12142.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "de/d76/a12142.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "de/d76/a12142.html#a08dd3bdd279c760fe0f126200a01619e", null ],
+    [ "HandleBattlefieldEnd", "de/d76/a12142.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
+    [ "HandleBattlefieldQueue", "de/d76/a12142.html#a23f6e8d14c511f3e9c3c070be14477e4", null ],
+    [ "HandleBattlefieldStart", "de/d76/a12142.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
+    [ "HandleBattlefieldSwitch", "de/d76/a12142.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
+    [ "HandleBattlefieldTimer", "de/d76/a12142.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
 ];

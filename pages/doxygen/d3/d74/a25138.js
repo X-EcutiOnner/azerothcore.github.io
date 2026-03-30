@@ -1,8 +1,8 @@
 var a25138 =
 [
-    [ "CheckProc", "d3/d74/a25138.html#a88cdab428be20027d939fe4765afc9e0", null ],
-    [ "HandleProc", "d3/d74/a25138.html#a8e49a1bc11fdfc1b7d3f8225c890206f", null ],
-    [ "PrepareAuraScript", "d3/d74/a25138.html#a33f53dc5834a3be78e24a1a58bdfd15a", null ],
-    [ "Register", "d3/d74/a25138.html#aacb126d871c0df43f5096124b8cda376", null ],
-    [ "Validate", "d3/d74/a25138.html#aa81adc61bd1149d9c43c4670f02a91ba", null ]
+    [ "HandleApply", "d3/d74/a25138.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "d3/d74/a25138.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "d3/d74/a25138.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "d3/d74/a25138.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "d3/d74/a25138.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

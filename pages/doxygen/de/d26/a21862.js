@@ -1,7 +1,6 @@
 var a21862 =
 [
-    [ "HandleDummy", "de/d26/a21862.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "de/d26/a21862.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "de/d26/a21862.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "de/d26/a21862.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "npc_still_at_it_triggerAI", "dd/daf/a21866.html", "dd/daf/a21866" ],
+    [ "npc_still_at_it_trigger", "de/d26/a21862.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "de/d26/a21862.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

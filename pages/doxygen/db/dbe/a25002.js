@@ -1,6 +1,7 @@
 var a25002 =
 [
-    [ "CheckProc", "db/dbe/a25002.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
-    [ "PrepareAuraScript", "db/dbe/a25002.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
-    [ "Register", "db/dbe/a25002.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
+    [ "CheckIfLanceEquipped", "db/dbe/a25002.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
+    [ "PrepareSpellScript", "db/dbe/a25002.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
+    [ "Register", "db/dbe/a25002.html#a4421ceaedce16777f8f04b9c40855782", null ],
+    [ "Validate", "db/dbe/a25002.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
 ];

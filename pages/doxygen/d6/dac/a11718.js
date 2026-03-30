@@ -1,7 +1,7 @@
 var a11718 =
 [
-    [ "CategoryRecoveryTime", "d6/dac/a11718.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d6/dac/a11718.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d6/dac/a11718.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d6/dac/a11718.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "attributeMask", "d6/dac/a11718.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "d6/dac/a11718.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "d6/dac/a11718.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "d6/dac/a11718.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

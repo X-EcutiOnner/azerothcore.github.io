@@ -1,7 +1,7 @@
 var a26670 =
 [
-    [ "PeriodicTick", "df/d61/a26670.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
-    [ "PrepareAuraScript", "df/d61/a26670.html#ad332660b3b30ecb7b5c949c702574879", null ],
-    [ "Register", "df/d61/a26670.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
-    [ "Validate", "df/d61/a26670.html#a426b39c9733464c5d69d707d4e931f64", null ]
+    [ "HandleProc", "df/d61/a26670.html#ac65d59f4632194120b58b34561f2c812", null ],
+    [ "PrepareAuraScript", "df/d61/a26670.html#ac9ab849c618fb1172dbde50876a4f5f3", null ],
+    [ "Register", "df/d61/a26670.html#aea263594afe1d0e2fe3fac906dfb7e4e", null ],
+    [ "Validate", "df/d61/a26670.html#afe98e7e6dfbe3bcdaaa353e608dc69d6", null ]
 ];

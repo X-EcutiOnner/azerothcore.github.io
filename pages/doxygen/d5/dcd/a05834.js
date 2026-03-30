@@ -1,23 +1,13 @@
 var a05834 =
 [
-    [ "PreparedStatementBase", "d5/dcd/a05834.html#af804ff958eb51e96c0deccb59e6c79a6", null ],
-    [ "~PreparedStatementBase", "d5/dcd/a05834.html#a96323eed4643ae8016b32215d6a902d4", null ],
-    [ "PreparedStatementBase", "d5/dcd/a05834.html#aa7703fa7b7cf7cf033a45cccf4701f48", null ],
-    [ "GetIndex", "d5/dcd/a05834.html#ac5e94130932a8975a95cd830051cbeab", null ],
-    [ "GetParameters", "d5/dcd/a05834.html#add343f1f2017791df2434463f6114c68", null ],
-    [ "operator=", "d5/dcd/a05834.html#abbf3c9d0f2d066bc40a53d53f45fcb79", null ],
-    [ "SetArguments", "d5/dcd/a05834.html#a4b2ca4e3c01a4a26a42dc3a9a8d03660", null ],
-    [ "SetData", "d5/dcd/a05834.html#abbd81f270eb6504ed04a661dc6da3139", null ],
-    [ "SetData", "d5/dcd/a05834.html#ac44341575f53ed539f6ca471d27db9e1", null ],
-    [ "SetData", "d5/dcd/a05834.html#ab05be7534a37abc4a7d38edd454ffb05", null ],
-    [ "SetData", "d5/dcd/a05834.html#aa71863fdcace3c2fc666a0cf456d9e59", null ],
-    [ "SetData", "d5/dcd/a05834.html#a52fc2e65042c1db51f0923725a0f0ed0", null ],
-    [ "SetData", "d5/dcd/a05834.html#add697e08fa53fa173da40d48fd96fe28", null ],
-    [ "SetDataTuple", "d5/dcd/a05834.html#aa4ff9aa53e042d424954b553d6912fa8", null ],
-    [ "SetValidData", "d5/dcd/a05834.html#ae206b57c5ba8b621ab2e769089eb8045", null ],
-    [ "SetValidData", "d5/dcd/a05834.html#a9dcba27137454af96729a7e3e897f86c", null ],
-    [ "SetValidData", "d5/dcd/a05834.html#aa450d6784414246752c84556f6960fc9", null ],
-    [ "PreparedStatementTask", "d5/dcd/a05834.html#a4c1bf9847756076bf3bba7b1178f0f99", null ],
-    [ "m_index", "d5/dcd/a05834.html#a9af41817061c82bc5498c463b2f0fdf0", null ],
-    [ "statement_data", "d5/dcd/a05834.html#ad5e60af68205c6a922b21f52ca3d9109", null ]
+    [ "Clear", "d5/dcd/a05834.html#adc64d35670bf0d41519cb9998d3db17e", null ],
+    [ "First", "d5/dcd/a05834.html#a8bbd41b304f7e69df565af75f4846bda", null ],
+    [ "GetNextGroupOccurrence", "d5/dcd/a05834.html#af2cb38062e4d62558d520be75b01bedb", null ],
+    [ "IsEmpty", "d5/dcd/a05834.html#a151898f14e9a1628ddb52b6840fcc4fc", null ],
+    [ "IsGroupQueued", "d5/dcd/a05834.html#ada8edd51338da19db3f282ccc6229516", null ],
+    [ "ModifyIf", "d5/dcd/a05834.html#a0ad5b4de404b1f8312341a28a1a58b5b", null ],
+    [ "Pop", "d5/dcd/a05834.html#a5f5d6b5a4a5e4ec93ff94619485736cb", null ],
+    [ "Push", "d5/dcd/a05834.html#aff6bc8c7fae6640b555ddb027cf0f6ab", null ],
+    [ "RemoveIf", "d5/dcd/a05834.html#a6efe3145679913fde4d4cc1f8cc819e6", null ],
+    [ "container", "d5/dcd/a05834.html#acc56bddf7e586a3a950f608efb730498", null ]
 ];

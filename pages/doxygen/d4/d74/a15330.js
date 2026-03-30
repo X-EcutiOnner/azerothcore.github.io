@@ -1,12 +1,12 @@
 var a15330 =
 [
-    [ "boss_lieutenant_drake", "d4/d74/a15330.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
-    [ "InitializeAI", "d4/d74/a15330.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
-    [ "JustDied", "d4/d74/a15330.html#aca7654e30aac96fa509f99f3447121ec", null ],
-    [ "JustEngagedWith", "d4/d74/a15330.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
-    [ "KilledUnit", "d4/d74/a15330.html#a833c889c28ea35a6198fe753b604a8ed", null ],
-    [ "MovementInform", "d4/d74/a15330.html#aec6e332bc5739552cbbec27569c55759", null ],
-    [ "UpdateAI", "d4/d74/a15330.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
-    [ "pathId", "d4/d74/a15330.html#ac63f9c885296a797799c0cd83b0ade64", null ],
-    [ "runSecondPath", "d4/d74/a15330.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
+    [ "npc_anubisath_guardian", "d4/d74/a15330.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
+    [ "DamageTaken", "d4/d74/a15330.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
+    [ "JustDied", "d4/d74/a15330.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
+    [ "JustEngagedWith", "d4/d74/a15330.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
+    [ "Reset", "d4/d74/a15330.html#af87cc86141964c48f9c57ed5bade36a5", null ],
+    [ "UpdateAI", "d4/d74/a15330.html#a9a9c805c92a3e8e96914d01accb01051", null ],
+    [ "_enraged", "d4/d74/a15330.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
+    [ "_scheduler", "d4/d74/a15330.html#ad44455c43d53426a152547d5b0770bbe", null ],
+    [ "_spells", "d4/d74/a15330.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
 ];

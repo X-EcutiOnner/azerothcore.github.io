@@ -1,5 +1,6 @@
 var a02075 =
 [
-    [ "GetEnableModulesList", "d9/d95/a02075.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7", null ],
-    [ "SetEnableModulesList", "d9/d95/a02075.html#ac16569c9333f642e54fa7a4ec6a948e3", null ]
+    [ "event_commandscript", "db/d2e/a12182.html", "db/d2e/a12182" ],
+    [ "EventEntry", "d9/d95/a02075.html#accd9dac141ffd4618bb7d3f69e8eb716", null ],
+    [ "AddSC_event_commandscript", "d9/d95/a02075.html#a4f3834f706dcb17ca67ce6513f6aecad", null ]
 ];

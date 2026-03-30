@@ -1,7 +1,7 @@
 var a16994 =
 [
-    [ "npc_toc_rogueAI", "df/dee/a16994.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "df/dee/a16994.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "df/dee/a16994.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "df/dee/a16994.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "HandleScriptEffect", "df/dee/a16994.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "df/dee/a16994.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "df/dee/a16994.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "df/dee/a16994.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

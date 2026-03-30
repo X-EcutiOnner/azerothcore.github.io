@@ -1,5 +1,6 @@
 var a28022 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "d5/d01/a28022.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "d5/d01/a28022.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "go_bellsAI", "d1/d55/a28026.html", "d1/d55/a28026" ],
+    [ "go_bells", "d5/d01/a28022.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "d5/d01/a28022.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

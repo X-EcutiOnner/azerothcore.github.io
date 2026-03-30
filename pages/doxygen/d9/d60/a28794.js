@@ -1,11 +1,8 @@
 var a28794 =
 [
-    [ "IsAvailable", "d9/d60/a28794.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "d9/d60/a28794.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "d9/d60/a28794.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "d9/d60/a28794.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "d9/d60/a28794.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "d9/d60/a28794.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "d9/d60/a28794.html#a8d5a07c626b8f329a01d3dceecd35d09", null ],
-    [ "value", "d9/d60/a28794.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "DamagedDisplayId", "d9/d60/a28794.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
+    [ "DestroyedDisplayId", "d9/d60/a28794.html#afc891df0c9491a34f784e8f141434be5", null ],
+    [ "Id", "d9/d60/a28794.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
+    [ "RebuildingDisplayId", "d9/d60/a28794.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
+    [ "SmokeDisplayId", "d9/d60/a28794.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
 ];

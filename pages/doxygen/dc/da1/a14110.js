@@ -1,6 +1,6 @@
 var a14110 =
 [
-    [ "x", "dc/da1/a14110.html#afeb59642abc7d5114668b2c27e315228", null ],
-    [ "y", "dc/da1/a14110.html#a3e2454dd579de689289003a343e7f29c", null ],
-    [ "z", "dc/da1/a14110.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
+    [ "cooldown", "dc/da1/a14110.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "dc/da1/a14110.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "dc/da1/a14110.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

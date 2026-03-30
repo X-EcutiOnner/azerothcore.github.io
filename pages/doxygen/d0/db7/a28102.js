@@ -1,6 +1,7 @@
 var a28102 =
 [
-    [ "npc_spirit_shadeAI", "d8/dd2/a28106.html", "d8/dd2/a28106" ],
-    [ "npc_spirit_shade", "d0/db7/a28102.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d0/db7/a28102.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "npc_prof_leather", "d0/db7/a28102.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "d0/db7/a28102.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "d0/db7/a28102.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "d0/db7/a28102.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

@@ -1,7 +1,6 @@
 var a18858 =
 [
-    [ "CheckTargetCount", "df/dd7/a18858.html#a44f558248f944464c773105728cffbca", null ],
-    [ "PrepareSpellScript", "df/dd7/a18858.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
-    [ "Register", "df/dd7/a18858.html#aeda833ca8483d337311086b9d0a14081", null ],
-    [ "Validate", "df/dd7/a18858.html#aee84751e352dbfc12472fc15924c48fa", null ]
+    [ "npc_captain_rupertAI", "df/dd7/a18858.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "df/dd7/a18858.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "df/dd7/a18858.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

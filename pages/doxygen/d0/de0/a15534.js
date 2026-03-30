@@ -1,7 +1,6 @@
 var a15534 =
 [
-    [ "FilterTargets", "d0/de0/a15534.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "d0/de0/a15534.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "d0/de0/a15534.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "d0/de0/a15534.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "aqsentinelAI", "d4/d0b/a15538.html", "d4/d0b/a15538" ],
+    [ "npc_anubisath_sentinel", "d0/de0/a15534.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
+    [ "GetAI", "d0/de0/a15534.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
 ];

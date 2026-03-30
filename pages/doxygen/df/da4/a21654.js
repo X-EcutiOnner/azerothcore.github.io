@@ -1,5 +1,6 @@
 var a21654 =
 [
-    [ "npc_steam_powered_auctioneerAI", "df/da4/a21654.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "df/da4/a21654.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_lake_frogAI", "d4/d6c/a21658.html", "d4/d6c/a21658" ],
+    [ "npc_lake_frog", "df/da4/a21654.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "df/da4/a21654.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

@@ -1,4 +1,4 @@
 var a00368 =
 [
-    [ "Acore::Encoding::Base32", "d5/da0/a05575.html", "d5/da0/a05575" ]
+    [ "CircularBuffer< T >", "d1/d9f/a05714.html", "d1/d9f/a05714" ]
 ];

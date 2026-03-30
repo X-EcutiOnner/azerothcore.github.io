@@ -1,6 +1,6 @@
 var a11842 =
 [
-    [ "AfterCheckProcHandler", "df/d3e/a11842.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "df/d3e/a11842.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "df/d3e/a11842.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "EffectPeriodicHandler", "df/d3e/a11842.html#aad44956783e9c044eb92065cc62e97f6", null ],
+    [ "Call", "df/d3e/a11842.html#a938e987363972fbd58e42f19880016d8", null ],
+    [ "pEffectHandlerScript", "df/d3e/a11842.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
 ];

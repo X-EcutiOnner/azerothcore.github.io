@@ -1,8 +1,6 @@
 var a20906 =
 [
-    [ "boss_yoggsaron_crusher_tentacle", "de/d3c/a20906.html#aa550582ebb2fddc8574f1ca96faeb9a5", null ],
-    [ "DamageTaken", "de/d3c/a20906.html#aa38dbd7050000d3aab774a7b719912f4", null ],
-    [ "DoAction", "de/d3c/a20906.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
-    [ "Reset", "de/d3c/a20906.html#aba082f8d2fa200eca9c52336df544221", null ],
-    [ "UpdateAI", "de/d3c/a20906.html#ae22a12401dc98534da1cb771468a58ce", null ]
+    [ "CanBeAppliedOn", "de/d3c/a20906.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
+    [ "PrepareAuraScript", "de/d3c/a20906.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
+    [ "Register", "de/d3c/a20906.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
 ];

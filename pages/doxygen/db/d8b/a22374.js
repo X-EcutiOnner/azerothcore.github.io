@@ -1,6 +1,15 @@
 var a22374 =
 [
-    [ "npc_wg_siege_machineAI", "d8/dcf/a22378.html", "d8/dcf/a22378" ],
-    [ "npc_wg_siege_machine", "db/d8b/a22374.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "db/d8b/a22374.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "boss_grandmaster_vorpil", "db/d8b/a22374.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
+    [ "counterVoidSpawns", "db/d8b/a22374.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
+    [ "JustDied", "db/d8b/a22374.html#ab492fff8a9a275c662b44eeff3300b90", null ],
+    [ "JustEngagedWith", "db/d8b/a22374.html#af1e6da02cd33742efad568424cf32c4f", null ],
+    [ "JustSummoned", "db/d8b/a22374.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
+    [ "KilledUnit", "db/d8b/a22374.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
+    [ "MoveInLineOfSight", "db/d8b/a22374.html#adb24a3d337b64f37759a3a39802d7e27", null ],
+    [ "Reset", "db/d8b/a22374.html#a6471121ee02a834591b36d03fae28672", null ],
+    [ "spawnVoidTraveler", "db/d8b/a22374.html#aa842bc3d88d0a3a411dcba3711809956", null ],
+    [ "summonPortals", "db/d8b/a22374.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
+    [ "sayHelp", "db/d8b/a22374.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
+    [ "sayIntro", "db/d8b/a22374.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
 ];

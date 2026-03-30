@@ -1,6 +1,6 @@
 var a18438 =
 [
-    [ "OnRemove", "de/d03/a18438.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "de/d03/a18438.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "de/d03/a18438.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "npc_shambling_horror_iccAI", "dc/d40/a18442.html", "dc/d40/a18442" ],
+    [ "npc_shambling_horror_icc", "de/d03/a18438.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
+    [ "GetAI", "de/d03/a18438.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
 ];

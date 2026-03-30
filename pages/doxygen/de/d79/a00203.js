@@ -1,8 +1,9 @@
 var a00203 =
 [
-    [ "ModelIgnoreFlags", "de/d79/a00203.html#a6996c44f3ac72cd9dc04515186d2da28", [
-      [ "Nothing", "de/d79/a00203.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
-      [ "M2", "de/d79/a00203.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
-    ] ],
-    [ "operator&", "de/d79/a00203.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
+    [ "BoundsTrait< VMAP::ModelSpawn * >", "dd/d95/a05274.html", "dd/d95/a05274" ],
+    [ "VMAP::WMOLiquidHeader", "d6/d9e/a05278.html", "d6/d9e/a05278" ],
+    [ "CMP_OR_RETURN", "de/d79/a00203.html#abb356574335eee18efd5e1f4ed707637", null ],
+    [ "READ_OR_RETURN", "de/d79/a00203.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d", null ],
+    [ "READ_OR_RETURN_WITH_DELETE", "de/d79/a00203.html#aaf506ecfd782214a75bd609db9bef004", null ],
+    [ "readChunk", "de/d79/a00203.html#a166f3eeee53079ac9df4f15ccd577974", null ]
 ];

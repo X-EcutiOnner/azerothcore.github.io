@@ -1,8 +1,6 @@
 var a15038 =
 [
-    [ "CheckCast", "d6/dec/a15038.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "d6/dec/a15038.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "d6/dec/a15038.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "d6/dec/a15038.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "d6/dec/a15038.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "boss_meathookAI", "db/dbf/a15042.html", "db/dbf/a15042" ],
+    [ "boss_meathook", "d6/dec/a15038.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
+    [ "GetAI", "d6/dec/a15038.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
 ];

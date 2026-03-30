@@ -1,9 +1,7 @@
 var a19966 =
 [
-    [ "npc_stormforged_lieutenant", "d0/d29/a19966.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "d0/d29/a19966.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "d0/d29/a19966.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "d0/d29/a19966.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "d0/d29/a19966.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "d0/d29/a19966.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "boss_flame_leviathan_safety_container", "d0/d29/a19966.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
+    [ "MovementInform", "d0/d29/a19966.html#a42842de299fd9346cc0d61b649b652a4", null ],
+    [ "UpdateAI", "d0/d29/a19966.html#a55119d077f905a8207ad2afbe31f17a4", null ],
+    [ "_allowTimer", "d0/d29/a19966.html#a70134398c054c837407d6a22591a2d96", null ]
 ];

@@ -1,4 +1,5 @@
 var a01919 =
 [
-    [ "sWorldSocketMgr", "d6/dd1/a05001.html#ga43ae464e29649083953e305b20b3e27f", null ]
+    [ "ServerMailReward", "de/da5/a28394.html", "de/da5/a28394" ],
+    [ "AddSC_server_mail", "de/d90/a01919.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ]
 ];

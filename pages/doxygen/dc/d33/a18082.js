@@ -1,6 +1,7 @@
 var a18082 =
 [
-    [ "npc_igb_ship_crewAI", "d6/d5e/a18086.html", "d6/d5e/a18086" ],
-    [ "npc_igb_ship_crew", "dc/d33/a18082.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "dc/d33/a18082.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "HandleExtraEffect", "dc/d33/a18082.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "dc/d33/a18082.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "dc/d33/a18082.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "dc/d33/a18082.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

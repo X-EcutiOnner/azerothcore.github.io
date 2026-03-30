@@ -1,8 +1,13 @@
 var a20850 =
 [
-    [ "OnPeriodic", "de/d08/a20850.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "de/d08/a20850.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "de/d08/a20850.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "de/d08/a20850.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "de/d08/a20850.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "npc_ferocious_rhinoAI", "de/d08/a20850.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "de/d08/a20850.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "de/d08/a20850.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "de/d08/a20850.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "de/d08/a20850.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "de/d08/a20850.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "de/d08/a20850.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "de/d08/a20850.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "de/d08/a20850.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "de/d08/a20850.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

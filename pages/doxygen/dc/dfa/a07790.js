@@ -1,4 +1,4 @@
 var a07790 =
 [
-    [ "TryConsumeTo", "dc/dfa/a07790.html#a0e6df60e4195364958e85632e43b4ad0", null ]
+    [ "HordeChannelMgr", "dc/dfa/a07790.html#a9354a4b4122500bba602254d0c9f3b98", null ]
 ];

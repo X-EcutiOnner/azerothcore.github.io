@@ -1,5 +1,5 @@
 var a14826 =
 [
-    [ "at_bring_your_orphan_to", "d2/d7a/a14826.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
-    [ "OnTrigger", "d2/d7a/a14826.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
+    [ "npc_pilgrims_bounty_plate", "d2/d7a/a14826.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "d2/d7a/a14826.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

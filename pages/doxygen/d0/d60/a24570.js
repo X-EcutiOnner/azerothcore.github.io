@@ -1,9 +1,8 @@
 var a24570 =
 [
-    [ "HandleAfterHit", "d0/d60/a24570.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
-    [ "Load", "d0/d60/a24570.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
-    [ "PrepareSpellScript", "d0/d60/a24570.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
-    [ "Register", "d0/d60/a24570.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
-    [ "Validate", "d0/d60/a24570.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
-    [ "_executed", "d0/d60/a24570.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
+    [ "CheckProc", "d0/d60/a24570.html#a465402287949b12e5f4a4fe5405c32ce", null ],
+    [ "HandleProc", "d0/d60/a24570.html#a11329d2093e30e91d7582c5eb34228ab", null ],
+    [ "PrepareAuraScript", "d0/d60/a24570.html#a0c17de6a23adf74e32cf7c50b09762fc", null ],
+    [ "Register", "d0/d60/a24570.html#ade6720401687c7ad102e51572351705c", null ],
+    [ "Validate", "d0/d60/a24570.html#a71c224e13289673e5d2ed700cde6cd6a", null ]
 ];

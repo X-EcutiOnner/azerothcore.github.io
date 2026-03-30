@@ -1,8 +1,10 @@
 var a27122 =
 [
-    [ "HandleDummy", "de/d55/a27122.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
-    [ "Load", "de/d55/a27122.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
-    [ "PrepareSpellScript", "de/d55/a27122.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
-    [ "Register", "de/d55/a27122.html#afb1c744f263b21c30a5dfd3675acb364", null ],
-    [ "Validate", "de/d55/a27122.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
+    [ "CalculateAPAmount", "de/d55/a27122.html#abba0772c18bf98696dc1f236da79401e", null ],
+    [ "CalculateResistanceAmount", "de/d55/a27122.html#a2db04d2d4af16e34cb69b71dbcd0c066", null ],
+    [ "CalculateSPAmount", "de/d55/a27122.html#a4ecc412bb7d5e89a886c9ad4cc562187", null ],
+    [ "CalculateStatAmount", "de/d55/a27122.html#a9269eee5ef676c466e662305389988f0", null ],
+    [ "HandleEffectApply", "de/d55/a27122.html#aa818ca9c4e7b1320f97931525faff1c4", null ],
+    [ "PrepareAuraScript", "de/d55/a27122.html#a5b35686a2ddd761343d811a8472c1c3b", null ],
+    [ "Register", "de/d55/a27122.html#a9bf7cd6309b4724462b03c1080324f83", null ]
 ];

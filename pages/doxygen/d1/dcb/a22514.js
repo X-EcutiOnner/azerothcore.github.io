@@ -1,10 +1,13 @@
 var a22514 =
 [
-    [ "OPvPCapturePointHP", "d1/dcb/a22514.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "d1/dcb/a22514.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "d1/dcb/a22514.html#aa8d725422951485970d9106450fb6a38", null ],
-    [ "HandlePlayerEnter", "d1/dcb/a22514.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "d1/dcb/a22514.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "d1/dcb/a22514.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "d1/dcb/a22514.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "boss_illidari_council_memberAI", "d1/dcb/a22514.html#ac32366dfad13cd37ced2428d041e25c9", null ],
+    [ "DamageTaken", "d1/dcb/a22514.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
+    [ "DoAction", "d1/dcb/a22514.html#a203310b84d71a24145b1c39e7faff182", null ],
+    [ "EnterEvadeMode", "d1/dcb/a22514.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
+    [ "JustDied", "d1/dcb/a22514.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
+    [ "JustEngagedWith", "d1/dcb/a22514.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
+    [ "KilledUnit", "d1/dcb/a22514.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
+    [ "Reset", "d1/dcb/a22514.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
+    [ "events", "d1/dcb/a22514.html#ad47a350f5ed066e04816e72961a80bd0", null ],
+    [ "instance", "d1/dcb/a22514.html#adb11720cd0fd87a42b9a78490a70251e", null ]
 ];

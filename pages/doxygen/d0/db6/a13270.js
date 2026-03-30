@@ -1,8 +1,8 @@
 var a13270 =
 [
-    [ "npc_cyclone", "d0/db6/a13270.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "d0/db6/a13270.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "d0/db6/a13270.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "d0/db6/a13270.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "d0/db6/a13270.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "HandleDummy", "d0/db6/a13270.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "d0/db6/a13270.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "d0/db6/a13270.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "d0/db6/a13270.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "d0/db6/a13270.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

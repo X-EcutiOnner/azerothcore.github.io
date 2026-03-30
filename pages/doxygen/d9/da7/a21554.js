@@ -1,7 +1,8 @@
 var a21554 =
 [
-    [ "npc_lurgglbrAI", "df/d6b/a21558.html", "df/d6b/a21558" ],
-    [ "npc_lurgglbr", "d9/da7/a21554.html#a7df52667e4d789391820a4c2182db8d2", null ],
-    [ "GetAI", "d9/da7/a21554.html#a2795346371e7b474c53dcacb9daf2001", null ],
-    [ "OnQuestAccept", "d9/da7/a21554.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
+    [ "npc_q24545_vegardAI", "d9/da7/a21554.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d9/da7/a21554.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d9/da7/a21554.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d9/da7/a21554.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d9/da7/a21554.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

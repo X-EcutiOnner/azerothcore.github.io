@@ -1,8 +1,7 @@
 var a20710 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d4/d1e/a20714.html", "d4/d1e/a20714" ],
-    [ "npc_ulduar_expedition_commander", "dd/dac/a20710.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
-    [ "GetAI", "dd/dac/a20710.html#aa888a3634a643a103075d44c8f52d28a", null ],
-    [ "OnGossipHello", "dd/dac/a20710.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
-    [ "OnGossipSelect", "dd/dac/a20710.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
+    [ "HandleProc", "dd/dac/a20710.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "dd/dac/a20710.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "dd/dac/a20710.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "dd/dac/a20710.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

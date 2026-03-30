@@ -1,6 +1,8 @@
 var a15058 =
 [
-    [ "HandleDummy", "d4/dba/a15058.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "d4/dba/a15058.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "d4/dba/a15058.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "npc_arthasAI", "da/d8d/a15062.html", "da/d8d/a15062" ],
+    [ "npc_arthas", "d4/dba/a15058.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "d4/dba/a15058.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "d4/dba/a15058.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "d4/dba/a15058.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

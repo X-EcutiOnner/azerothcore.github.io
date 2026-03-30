@@ -1,6 +1,8 @@
 var a15558 =
 [
-    [ "FilterTargets", "d8/d80/a15558.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
-    [ "PrepareSpellScript", "d8/d80/a15558.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
-    [ "Register", "d8/d80/a15558.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
+    [ "npc_obsidian_eradicator", "d8/d80/a15558.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d8/d80/a15558.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d8/d80/a15558.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d8/d80/a15558.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d8/d80/a15558.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

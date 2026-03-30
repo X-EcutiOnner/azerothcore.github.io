@@ -1,7 +1,7 @@
 var a18762 =
 [
-    [ "OnRemove", "db/d63/a18762.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "db/d63/a18762.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "db/d63/a18762.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "db/d63/a18762.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "HandleForceCast", "db/d63/a18762.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "db/d63/a18762.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "db/d63/a18762.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "db/d63/a18762.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

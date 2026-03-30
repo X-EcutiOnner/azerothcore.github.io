@@ -1,7 +1,8 @@
 var a17638 =
 [
-    [ "HandleEffectPeriodic", "d4/d07/a17638.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "d4/d07/a17638.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "d4/d07/a17638.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "d4/d07/a17638.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "npc_saurfang_eventAI", "d4/d07/a17638.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "d4/d07/a17638.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "d4/d07/a17638.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "d4/d07/a17638.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "d4/d07/a17638.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

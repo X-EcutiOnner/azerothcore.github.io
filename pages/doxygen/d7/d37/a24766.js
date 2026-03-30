@@ -1,10 +1,6 @@
 var a24766 =
 [
-    [ "CalculateAPAmount", "d7/d37/a24766.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
-    [ "CalculateResistanceAmount", "d7/d37/a24766.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
-    [ "CalculateSPAmount", "d7/d37/a24766.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
-    [ "CalculateStatAmount", "d7/d37/a24766.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
-    [ "HandleEffectApply", "d7/d37/a24766.html#aeebb14424a6ae336edd4b66d824d648a", null ],
-    [ "PrepareAuraScript", "d7/d37/a24766.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
-    [ "Register", "d7/d37/a24766.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
+    [ "CheckLevel", "d7/d37/a24766.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "d7/d37/a24766.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "d7/d37/a24766.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

@@ -1,7 +1,10 @@
 var a24930 =
 [
-    [ "HandleProc", "d7/ddd/a24930.html#ad47d6005c7fafce9fe5941d4c05cd6d0", null ],
-    [ "PrepareAuraScript", "d7/ddd/a24930.html#afdfb44a437afb1329794fe4d0e8d3874", null ],
-    [ "Register", "d7/ddd/a24930.html#a87e742cdb4d12b287607d8d7cb00e84b", null ],
-    [ "Validate", "d7/ddd/a24930.html#a92286b3f92c332165ba5d850c7f1ec9b", null ]
+    [ "Load", "d7/ddd/a24930.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
+    [ "OnPeriodic", "d7/ddd/a24930.html#ab1dc8acb8072f70625375480742fee5e", null ],
+    [ "PrepareAuraScript", "d7/ddd/a24930.html#a2e81d03893b23aa8dc9c615683206f75", null ],
+    [ "Register", "d7/ddd/a24930.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
+    [ "Validate", "d7/ddd/a24930.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
+    [ "_applyTimes", "d7/ddd/a24930.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
+    [ "stackAmount", "d7/ddd/a24930.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
 ];

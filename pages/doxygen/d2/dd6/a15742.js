@@ -1,6 +1,7 @@
 var a15742 =
 [
-    [ "HandleOnHit", "d2/dd6/a15742.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "d2/dd6/a15742.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "d2/dd6/a15742.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "HandleEffectPeriodic", "d2/dd6/a15742.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "d2/dd6/a15742.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "d2/dd6/a15742.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "d2/dd6/a15742.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

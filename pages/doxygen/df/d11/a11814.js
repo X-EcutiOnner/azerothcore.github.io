@@ -1,6 +1,6 @@
 var a11814 =
 [
-    [ "EffectCalcSpellModHandler", "df/d11/a11814.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "df/d11/a11814.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "df/d11/a11814.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "ObjectAreaTargetSelectHandler", "df/d11/a11814.html#a89b86436bb1de38223165e7ef60f2b61", null ],
+    [ "Call", "df/d11/a11814.html#a11d2070610d178006231bac274d1f311", null ],
+    [ "pObjectAreaTargetSelectHandlerScript", "df/d11/a11814.html#a118ca963c6319802806913762c4d1fec", null ]
 ];

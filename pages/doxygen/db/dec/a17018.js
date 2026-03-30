@@ -1,8 +1,7 @@
 var a17018 =
 [
-    [ "npc_toc_pet_warlockAI", "db/dec/a17018.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
-    [ "EnterEvadeMode", "db/dec/a17018.html#a62219f63e82fc67f63db2cbd713647a0", null ],
-    [ "myCanCast", "db/dec/a17018.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
-    [ "UpdateAI", "db/dec/a17018.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
-    [ "events", "db/dec/a17018.html#a8edadebd7e6660041233a24fb07173bf", null ]
+    [ "HandleScriptEffect", "db/dec/a17018.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "db/dec/a17018.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "db/dec/a17018.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "db/dec/a17018.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

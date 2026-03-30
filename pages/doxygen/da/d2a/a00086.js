@@ -1,4 +1,4 @@
 var a00086 =
 [
-    [ "CircularBuffer< T >", "d3/d39/a05707.html", "d3/d39/a05707" ]
+    [ "Acore::Crypto::Argon2", "d3/d53/a05410.html", "d3/d53/a05410" ]
 ];

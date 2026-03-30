@@ -1,5 +1,6 @@
 var a28714 =
 [
-    [ "npc_suns_reach_reclamation", "d9/d51/a28714.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "d9/d51/a28714.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "AreaGroupId", "d9/d51/a28714.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "d9/d51/a28714.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "d9/d51/a28714.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

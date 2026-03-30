@@ -1,8 +1,6 @@
 var a17358 =
 [
-    [ "npc_hor_leaderAI", "d6/dae/a17362.html", "d6/dae/a17362" ],
-    [ "npc_hor_leader", "d7/da2/a17358.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "d7/da2/a17358.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "d7/da2/a17358.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "d7/da2/a17358.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "boss_drakkari_elementalAI", "d6/dae/a17362.html", "d6/dae/a17362" ],
+    [ "boss_drakkari_elemental", "d7/da2/a17358.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d7/da2/a17358.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

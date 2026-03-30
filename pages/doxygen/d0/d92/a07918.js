@@ -1,8 +1,4 @@
 var a07918 =
 [
-    [ "ThreatMgrEvent", "d0/d92/a07918.html#ad8d5d86b12e5c13f25f8598ef5670eb8", null ],
-    [ "ThreatMgrEvent", "d0/d92/a07918.html#a332ae279dc4c243c148e07454611a057", null ],
-    [ "getThreatContainer", "d0/d92/a07918.html#a15ab83dccbbae73cbd2ec0a376d57d28", null ],
-    [ "setThreatContainer", "d0/d92/a07918.html#aaffdff7ac81e949adc076b113a824cbf", null ],
-    [ "iThreatContainer", "d0/d92/a07918.html#a7f32669286852385312b86e0b70e177e", null ]
+    [ "TryConsume", "d0/d92/a07918.html#a6fe249c25aabf5f7eb70612982ac2b82", null ]
 ];

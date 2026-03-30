@@ -1,6 +1,6 @@
 var a25290 =
 [
-    [ "HandleEffectPeriodic", "de/d91/a25290.html#a248ba0e88498e36355491b2b89063e17", null ],
-    [ "PrepareAuraScript", "de/d91/a25290.html#ac9aed434fe7602ef846e9f052402620e", null ],
-    [ "Register", "de/d91/a25290.html#a039eec910c802276b9e979253141cdee", null ]
+    [ "CheckCast", "de/d91/a25290.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "de/d91/a25290.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "de/d91/a25290.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

@@ -1,5 +1,6 @@
 var a28158 =
 [
-    [ "go_arena_ready_marker", "d2/def/a28158.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "d2/def/a28158.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "npc_taxi", "d2/def/a28158.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "d2/def/a28158.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "d2/def/a28158.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

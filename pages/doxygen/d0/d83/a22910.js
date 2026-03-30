@@ -1,6 +1,6 @@
 var a22910 =
 [
-    [ "boss_essence_of_angerAI", "df/d25/a22914.html", "df/d25/a22914" ],
-    [ "boss_essence_of_anger", "d0/d83/a22910.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "d0/d83/a22910.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "HandleScriptEffect", "d0/d83/a22910.html#a9e42f1af6fabb7df066cc2488a831418", null ],
+    [ "PrepareSpellScript", "d0/d83/a22910.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
+    [ "Register", "d0/d83/a22910.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
 ];

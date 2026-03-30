@@ -1,7 +1,14 @@
 var a13962 =
 [
-    [ "PeriodicTick", "dd/d75/a13962.html#acca46d585d06d461f735cddb6075b3b1", null ],
-    [ "PrepareAuraScript", "dd/d75/a13962.html#abd7382ab22efd3d82c4f00745255d024", null ],
-    [ "Register", "dd/d75/a13962.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
-    [ "Validate", "dd/d75/a13962.html#acb31ba162452a30ff0c208829560f9fd", null ]
+    [ "npc_lord_gregor_lescovarAI", "dd/d75/a13962.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
+    [ "DoGuardsDisappearAndDie", "dd/d75/a13962.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
+    [ "EnterEvadeMode", "dd/d75/a13962.html#a95e60614808191e4c1f909f5e38e4741", null ],
+    [ "JustEngagedWith", "dd/d75/a13962.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
+    [ "Reset", "dd/d75/a13962.html#a06df695e9acd96b07f4e58c9461a708c", null ],
+    [ "UpdateAI", "dd/d75/a13962.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
+    [ "WaypointReached", "dd/d75/a13962.html#ad91850dc72d0307e28b881717bfba6db", null ],
+    [ "WaypointReached", "dd/d75/a13962.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "MarzonGUID", "dd/d75/a13962.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
+    [ "uiPhase", "dd/d75/a13962.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
+    [ "uiTimer", "dd/d75/a13962.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
 ];

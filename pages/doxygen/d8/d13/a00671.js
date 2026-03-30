@@ -1,13 +1,12 @@
 var a00671 =
 [
-    [ "GameObjectSummonGroupTest", "dc/dae/a29439.html", "dc/dae/a29439" ],
-    [ "TEST_F", "d8/d13/a00671.html#a853ab9b01e00d9b9106d0802d3ce5c3f", null ],
-    [ "TEST_F", "d8/d13/a00671.html#aae7159cdf8db068232caa791b826eb7a", null ],
-    [ "TEST_F", "d8/d13/a00671.html#ab7d11f87ee9e631646024c59d17e4476", null ],
-    [ "TEST_F", "d8/d13/a00671.html#a67cd5610a4da8f7101009bd9c59bc82e", null ],
-    [ "TEST_F", "d8/d13/a00671.html#acfeec4740011bc0a61ca33d9e41a00d6", null ],
-    [ "TEST_F", "d8/d13/a00671.html#a23d5442e6e9d8a8eb8b81d8c594dcb44", null ],
-    [ "TEST_F", "d8/d13/a00671.html#a6b4d8d5065242a959f3b761c930eb11f", null ],
-    [ "TEST_F", "d8/d13/a00671.html#a0e990a163a2003f6224aa808aeb46965", null ],
-    [ "TEST_F", "d8/d13/a00671.html#a54823c95da2a0c478c7fc82bafb5075e", null ]
+    [ "SpellProcSpellTypeMaskTest", "d3/d77/a29542.html", "d3/d77/a29542" ],
+    [ "TEST_F", "d8/d13/a00671.html#a0e299f1164a6c1e0f315da2c5551e58a", null ],
+    [ "TEST_F", "d8/d13/a00671.html#ae1ae997d3f0f1ba7825ae4b2e5436d44", null ],
+    [ "TEST_F", "d8/d13/a00671.html#a7a5da3689f4cd8516f8998a3eb8516f1", null ],
+    [ "TEST_F", "d8/d13/a00671.html#a0b4b6b9b08a21068764a01b658ede70d", null ],
+    [ "TEST_F", "d8/d13/a00671.html#abd75b3776c8e55bbc898c408aad3f34d", null ],
+    [ "TEST_F", "d8/d13/a00671.html#ab03489d280d80145880f52bc0a09c584", null ],
+    [ "TEST_F", "d8/d13/a00671.html#a6ae8c3849f8042eeff0379c4ea6d2adc", null ],
+    [ "TEST_F", "d8/d13/a00671.html#a790970fbe1cfb4df4e5ba38abf4c9bae", null ]
 ];

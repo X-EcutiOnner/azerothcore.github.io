@@ -1,7 +1,8 @@
 var a25386 =
 [
-    [ "CalculateAmount", "d4/dad/a25386.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
-    [ "Load", "d4/dad/a25386.html#a777803a61286e0eba31246d4771630df", null ],
-    [ "PrepareAuraScript", "d4/dad/a25386.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
-    [ "Register", "d4/dad/a25386.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
+    [ "OnApply", "d4/dad/a25386.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
+    [ "OnRemove", "d4/dad/a25386.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
+    [ "PrepareAuraScript", "d4/dad/a25386.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
+    [ "Register", "d4/dad/a25386.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
+    [ "Validate", "d4/dad/a25386.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
 ];

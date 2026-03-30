@@ -1,13 +1,17 @@
 var a23286 =
 [
-    [ "npc_earthen_ring_flamecaller", "db/dd3/a23286.html#ab402dd321fa0df641b674324386d7591", null ],
-    [ "DoAction", "db/dd3/a23286.html#af745c83529a34a89c430d6113703fff5", null ],
-    [ "LookOpening", "db/dd3/a23286.html#adfc752e7700a816b66b639007a1a90fa", null ],
-    [ "MovementInform", "db/dd3/a23286.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
-    [ "Reset", "db/dd3/a23286.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
-    [ "SpellHit", "db/dd3/a23286.html#ab9c5ad7e56033997042031566748ee2b", null ],
-    [ "UpdateAI", "db/dd3/a23286.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
-    [ "_events", "db/dd3/a23286.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
-    [ "_instance", "db/dd3/a23286.html#a79aa6e628a50ed485cc55513c28362dc", null ],
-    [ "_mySpot", "db/dd3/a23286.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
+    [ "boss_magtheridon", "db/dd3/a23286.html#a3d718a101047cd90448577ee520adf5e", null ],
+    [ "DoAction", "db/dd3/a23286.html#a3015fd8503a0da84e7b78c551587f8a3", null ],
+    [ "JustDied", "db/dd3/a23286.html#adca91ab2fbfe88cc79b19aaa4bff74cf", null ],
+    [ "JustEngagedWith", "db/dd3/a23286.html#a93fb4d888ebd6273bca0a128c8303996", null ],
+    [ "KilledUnit", "db/dd3/a23286.html#a42aa45e199f76f567bc7a677f3d3aedf", null ],
+    [ "Reset", "db/dd3/a23286.html#a0999e13f434699bb14c2ef6d2467a043", null ],
+    [ "ScheduleCombatEvents", "db/dd3/a23286.html#ae9b2f0929c2309e6bd57cc1241452d61", null ],
+    [ "UpdateAI", "db/dd3/a23286.html#a656e9595b30d014c54cc456d7f81f657", null ],
+    [ "_castingQuake", "db/dd3/a23286.html#ad1c95705a7018b4eb62cbee6f20fb65a", null ],
+    [ "_channelersKilled", "db/dd3/a23286.html#a305f71322dbe10e12588ebe0c45eff5f", null ],
+    [ "_currentPhase", "db/dd3/a23286.html#a2871d60efe88d3901bad9a4c5249fcfb", null ],
+    [ "_interruptScheduler", "db/dd3/a23286.html#aae56fde097d925bcf58be1d8e6bf50f4", null ],
+    [ "_magReleased", "db/dd3/a23286.html#a6dd4891771771acf5456a129113e864e", null ],
+    [ "_recentlySpoken", "db/dd3/a23286.html#af860281db4d20e3d3b9589657c921a50", null ]
 ];

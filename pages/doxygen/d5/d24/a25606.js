@@ -1,6 +1,7 @@
 var a25606 =
 [
-    [ "CheckCast", "d5/d24/a25606.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "d5/d24/a25606.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "d5/d24/a25606.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "OnRemove", "d5/d24/a25606.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "d5/d24/a25606.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "d5/d24/a25606.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "d5/d24/a25606.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

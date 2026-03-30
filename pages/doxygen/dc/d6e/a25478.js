@@ -1,7 +1,9 @@
 var a25478 =
 [
-    [ "HandleScript", "dc/d6e/a25478.html#a27e2575e538732ac76add53f2f8f6832", null ],
-    [ "PrepareSpellScript", "dc/d6e/a25478.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
-    [ "Register", "dc/d6e/a25478.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
-    [ "Validate", "dc/d6e/a25478.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
+    [ "getMountSpellId", "dc/d6e/a25478.html#afe306ed6057050baf342ee717723764d", null ],
+    [ "OnApply", "dc/d6e/a25478.html#aa8bee986d413be60d00ac1d2111ef719", null ],
+    [ "OnRemove", "dc/d6e/a25478.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
+    [ "PrepareAuraScript", "dc/d6e/a25478.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
+    [ "Register", "dc/d6e/a25478.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
+    [ "Validate", "dc/d6e/a25478.html#a6868f6e88c9179efd921b266c83f6daf", null ]
 ];

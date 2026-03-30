@@ -1,5 +1,5 @@
 var a28902 =
 [
-    [ "fcc", "dc/d97/a28902.html#a828a2845e666d6eb47d6d4705a663a3d", null ],
-    [ "fcc_txt", "dc/d97/a28902.html#acf0f4449ab5a64822833b86b41e2487c", null ]
+    [ "ID", "dc/d97/a28902.html#a65acb5af9a688346cbb7dc144710c768", null ],
+    [ "inventoryIcon", "dc/d97/a28902.html#a26b43ee179bd546c6e956dd797fc0842", null ]
 ];

@@ -1,6 +1,6 @@
 var a13226 =
 [
-    [ "go_blood_drenched_doorAI", "d6/d6b/a13230.html", "d6/d6b/a13230" ],
-    [ "go_blood_drenched_door", "d1/d15/a13226.html#a32451e046236bc66b605088cab35fefc", null ],
-    [ "GetAI", "d1/d15/a13226.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
+    [ "npc_scarlet_ghoulAI", "d6/d6b/a13230.html", "d6/d6b/a13230" ],
+    [ "npc_scarlet_ghoul", "d1/d15/a13226.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
+    [ "GetAI", "d1/d15/a13226.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
 ];

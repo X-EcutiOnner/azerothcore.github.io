@@ -1,7 +1,11 @@
 var a23850 =
 [
-    [ "Load", "dd/d51/a23850.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "dd/d51/a23850.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "dd/d51/a23850.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "dd/d51/a23850.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "npc_invis_infernal_casterAI", "dd/d51/a23850.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "dd/d51/a23850.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "dd/d51/a23850.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "dd/d51/a23850.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "dd/d51/a23850.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "dd/d51/a23850.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "dd/d51/a23850.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "dd/d51/a23850.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

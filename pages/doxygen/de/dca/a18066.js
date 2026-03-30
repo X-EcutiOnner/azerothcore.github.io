@@ -1,6 +1,6 @@
 var a18066 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "d0/dc5/a18070.html", "d0/dc5/a18070" ],
-    [ "npc_muradin_bronzebeard_igb", "de/dca/a18066.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "de/dca/a18066.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "PrepareSpellScript", "de/dca/a18066.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "de/dca/a18066.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "de/dca/a18066.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

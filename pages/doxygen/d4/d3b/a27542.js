@@ -1,6 +1,7 @@
 var a27542 =
 [
-    [ "HandleKnockBack", "d4/d3b/a27542.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "d4/d3b/a27542.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "d4/d3b/a27542.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "HandleDummy", "d4/d3b/a27542.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "d4/d3b/a27542.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "d4/d3b/a27542.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "d4/d3b/a27542.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

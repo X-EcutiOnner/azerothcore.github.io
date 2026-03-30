@@ -1,9 +1,8 @@
 var a29050 =
 [
-    [ "HolidayWorldStateId", "d7/da0/a29050.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
-    [ "id", "d7/da0/a29050.html#a52f7840f9247d2af63062dd280b37341", null ],
-    [ "mapid", "d7/da0/a29050.html#a11e1326eeb24b436b10db53acc323c13", null ],
-    [ "maxGroupSize", "d7/da0/a29050.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
-    [ "name", "d7/da0/a29050.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
-    [ "type", "d7/da0/a29050.html#a647669b97599d7edf02b5a38dd1d5116", null ]
+    [ "NoRuneCost", "d7/da0/a29050.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "d7/da0/a29050.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "d7/da0/a29050.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "d7/da0/a29050.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "d7/da0/a29050.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

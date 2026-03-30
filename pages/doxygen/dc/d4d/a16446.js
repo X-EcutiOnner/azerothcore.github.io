@@ -1,5 +1,6 @@
 var a16446 =
 [
-    [ "achievement_hadronox_denied", "dc/d4d/a16446.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
-    [ "OnCheck", "dc/d4d/a16446.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
+    [ "HandleHealPct", "dc/d4d/a16446.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "dc/d4d/a16446.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "dc/d4d/a16446.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

@@ -1,8 +1,6 @@
 var a23398 =
 [
-    [ "boss_hungarfen", "d2/d7c/a23398.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "d2/d7c/a23398.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "d2/d7c/a23398.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "d2/d7c/a23398.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "d2/d7c/a23398.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "npc_warden_mellicharAI", "d2/d4f/a23402.html", "d2/d4f/a23402" ],
+    [ "npc_warden_mellichar", "d2/d7c/a23398.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "d2/d7c/a23398.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

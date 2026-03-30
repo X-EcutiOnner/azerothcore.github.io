@@ -1,6 +1,7 @@
 var a24394 =
 [
-    [ "PrepareSpellScript", "df/d5a/a24394.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
-    [ "RecalculateDamage", "df/d5a/a24394.html#af01757d0968da2a096d800782ed7e66e", null ],
-    [ "Register", "df/d5a/a24394.html#a62b6613707a2a9b78d52bffe92de604e", null ]
+    [ "HandleProc", "df/d5a/a24394.html#a66726023cd4e12b2766db027623aacf1", null ],
+    [ "PrepareAuraScript", "df/d5a/a24394.html#aaec1b616a6d57d5a2554ee7cc76d835d", null ],
+    [ "Register", "df/d5a/a24394.html#a12bb8475758402da599ae8fbc2f28b31", null ],
+    [ "Validate", "df/d5a/a24394.html#abba724498ed4e20d8ca028f270d0bbb4", null ]
 ];

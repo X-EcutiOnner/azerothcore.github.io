@@ -1,6 +1,8 @@
 var a21026 =
 [
-    [ "achievement_yogg_saron_darkness", "d6/d7a/a21026.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
-    [ "OnCheck", "d6/d7a/a21026.html#a809902fca87abaeb4334132763624ed6", null ],
-    [ "_keepersCount", "d6/d7a/a21026.html#a765ec4606bb489760ed1e15db10de1dc", null ]
+    [ "npc_frozen_orbAI", "d6/d7a/a21026.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "d6/d7a/a21026.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "d6/d7a/a21026.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "d6/d7a/a21026.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "d6/d7a/a21026.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

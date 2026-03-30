@@ -1,10 +1,10 @@
 var a28974 =
 [
-    [ "maxSimplificationError", "d7/dd1/a28974.html#a010878a247d639234d2bb8571280aca6", null ],
-    [ "vertexPerMapEdge", "d7/dd1/a28974.html#af620af11a09215f106fc6704c88fa411", null ],
-    [ "vertexPerTileEdge", "d7/dd1/a28974.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
-    [ "walkableClimb", "d7/dd1/a28974.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
-    [ "walkableHeight", "d7/dd1/a28974.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
-    [ "walkableRadius", "d7/dd1/a28974.html#a43f00aacc5e1497c169d4ba908883140", null ],
-    [ "walkableSlopeAngle", "d7/dd1/a28974.html#a9792dfe730bfc437797a359896a14528", null ]
+    [ "PvPDifficultyEntry", "d7/dd1/a28974.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
+    [ "GetBracketId", "d7/dd1/a28974.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
+    [ "bracketId", "d7/dd1/a28974.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
+    [ "difficulty", "d7/dd1/a28974.html#a33ac017d785a4586a78e715d97836720", null ],
+    [ "mapId", "d7/dd1/a28974.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
+    [ "maxLevel", "d7/dd1/a28974.html#a1385166568239f2118b65377df8b4b55", null ],
+    [ "minLevel", "d7/dd1/a28974.html#acd07e8d759af1b73ec7543f6e70df242", null ]
 ];

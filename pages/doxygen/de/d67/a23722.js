@@ -1,6 +1,6 @@
 var a23722 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d0/d4f/a23726.html", "d0/d4f/a23726" ],
-    [ "instance_arcatraz", "de/d67/a23722.html#a6fc8860651573353b54fd26bddea32aa", null ],
-    [ "GetInstanceScript", "de/d67/a23722.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
+    [ "npc_ancestral_wolfAI", "d0/d4f/a23726.html", "d0/d4f/a23726" ],
+    [ "npc_ancestral_wolf", "de/d67/a23722.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "de/d67/a23722.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

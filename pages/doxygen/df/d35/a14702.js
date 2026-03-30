@@ -1,10 +1,10 @@
 var a14702 =
 [
-    [ "npc_brewfest_super_brew_trigger", "df/d35/a14702.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "df/d35/a14702.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "df/d35/a14702.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "df/d35/a14702.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "df/d35/a14702.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "df/d35/a14702.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "df/d35/a14702.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "boss_headless_horseman_pumpkin", "df/d35/a14702.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "df/d35/a14702.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "df/d35/a14702.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "df/d35/a14702.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "df/d35/a14702.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "df/d35/a14702.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "df/d35/a14702.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

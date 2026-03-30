@@ -1,7 +1,8 @@
 var a10062 =
 [
-    [ "ZRangeBoundary", "d0/d65/a10062.html#ab9c77783e059de4478625f7c97713c49", null ],
-    [ "IsWithinBoundaryArea", "d0/d65/a10062.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
-    [ "_maxZ", "d0/d65/a10062.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
-    [ "_minZ", "d0/d65/a10062.html#aee142d5bc4cfae80584b84ae451da05c", null ]
+    [ "EllipseBoundary", "d0/d65/a10062.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "d0/d65/a10062.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "d0/d65/a10062.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "d0/d65/a10062.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "d0/d65/a10062.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

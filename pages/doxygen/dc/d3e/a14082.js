@@ -1,12 +1,12 @@
 var a14082 =
 [
-    [ "npc_eastvale_peasent", "dc/d3e/a14082.html#a5282dac41228569d4431d84c1f160f05", null ],
-    [ "Initialize", "dc/d3e/a14082.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
-    [ "PathEndReached", "dc/d3e/a14082.html#a002ec21e0715b020aa19cd0839408033", null ],
-    [ "Reset", "dc/d3e/a14082.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
-    [ "SetData", "dc/d3e/a14082.html#add14d9505880727e208e7ef9428f5acd", null ],
-    [ "UpdateAI", "dc/d3e/a14082.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
-    [ "_events", "dc/d3e/a14082.html#a1b310b07481366042dc45f7a27ce6408", null ],
-    [ "_path", "dc/d3e/a14082.html#a907db8e6148947248b5bcfdb35023e16", null ],
-    [ "_realenGUID", "dc/d3e/a14082.html#aad06364be8698b5ba69cd229e2a5085b", null ]
+    [ "npc_tapoke_slim_jahnAI", "dc/d3e/a14082.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "dc/d3e/a14082.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "dc/d3e/a14082.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "dc/d3e/a14082.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "dc/d3e/a14082.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "dc/d3e/a14082.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "dc/d3e/a14082.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "WaypointReached", "dc/d3e/a14082.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IsFriendSummoned", "dc/d3e/a14082.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

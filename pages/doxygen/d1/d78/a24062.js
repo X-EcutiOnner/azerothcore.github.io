@@ -1,14 +1,16 @@
 var a24062 =
 [
-    [ "npc_maghar_captiveAI", "d1/d78/a24062.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
-    [ "JustDied", "d1/d78/a24062.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
-    [ "JustEngagedWith", "d1/d78/a24062.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
-    [ "JustSummoned", "d1/d78/a24062.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
-    [ "Reset", "d1/d78/a24062.html#abebcdcb102f8d338ae0b792708940cd7", null ],
-    [ "SpellHitTarget", "d1/d78/a24062.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
-    [ "UpdateAI", "d1/d78/a24062.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
-    [ "WaypointReached", "d1/d78/a24062.html#abfbba8942df57e974ab24ad693c16e70", null ],
-    [ "ChainLightningTimer", "d1/d78/a24062.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
-    [ "FrostShockTimer", "d1/d78/a24062.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
-    [ "HealTimer", "d1/d78/a24062.html#a31613adba706f3b5f948f2f7c4222038", null ]
+    [ "npc_pet_gen_argent_pony_bridle", "d1/d78/a24062.html#a9df25627a92b8914ab8009be099f15d4", null ],
+    [ "DoAction", "d1/d78/a24062.html#a4c08ed385886a118c165925602b1dff7", null ],
+    [ "EnterEvadeMode", "d1/d78/a24062.html#a897e72a4bf279607903bce58a5a45c6f", null ],
+    [ "GetData", "d1/d78/a24062.html#a862546ec66d8282c87169305711e4ec7", null ],
+    [ "OnGossipHello", "d1/d78/a24062.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
+    [ "OnGossipSelect", "d1/d78/a24062.html#a36f15c2c0ec3466b492148303e828403", null ],
+    [ "Reset", "d1/d78/a24062.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
+    [ "UpdateAI", "d1/d78/a24062.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
+    [ "_banners", "d1/d78/a24062.html#a9c89972cde36f3d2b5686485f0e2905f", null ],
+    [ "_init", "d1/d78/a24062.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
+    [ "_lastAura", "d1/d78/a24062.html#a4abeb86eb0179a77d47d737d67495411", null ],
+    [ "_mountTimer", "d1/d78/a24062.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
+    [ "_state", "d1/d78/a24062.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
 ];

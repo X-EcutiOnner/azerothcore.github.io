@@ -1,10 +1,13 @@
 var a15418 =
 [
-    [ "CurrId", "d2/da0/a15418.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
-    [ "DestId", "d2/da0/a15418.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
-    [ "o", "d2/da0/a15418.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
-    [ "spellId", "d2/da0/a15418.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
-    [ "x", "d2/da0/a15418.html#a41c7bdb057d984f552a41835651d84f5", null ],
-    [ "y", "d2/da0/a15418.html#abe083129d7a4e514e97eeae7cff40af5", null ],
-    [ "z", "d2/da0/a15418.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
+    [ "npc_giant_claw_tentacle", "d2/da0/a15418.html#aa50511886122a337fc59585fba03b590", null ],
+    [ "Emerge", "d2/da0/a15418.html#ad5fd7a9246c9c7aba0fa71d331e1f512", null ],
+    [ "JustDied", "d2/da0/a15418.html#aaaed0a9fb39d30f5c9c7381e923a3d1e", null ],
+    [ "JustEngagedWith", "d2/da0/a15418.html#ad4dceaafa3bb12b2e5cb7d9530c59d31", null ],
+    [ "Reset", "d2/da0/a15418.html#a8da9c7e164bc7d7bc6e70a784420c3bc", null ],
+    [ "ScheduleTasks", "d2/da0/a15418.html#af62d155ec2cf4f56c956869aed8fa1f9", null ],
+    [ "Submerge", "d2/da0/a15418.html#ac4fedda976b2de295350363e9fef86ec", null ],
+    [ "UpdateAI", "d2/da0/a15418.html#aa3cc1eac6fe92e4325ec0b5a4f7a2604", null ],
+    [ "_canAttack", "d2/da0/a15418.html#a62be930ba345b1d2e0df832e72570752", null ],
+    [ "_portalGUID", "d2/da0/a15418.html#a175bd11b9d5651d44cc0dd213b2c4ef5", null ]
 ];

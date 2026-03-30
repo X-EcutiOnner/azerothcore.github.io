@@ -1,7 +1,19 @@
 var a22822 =
 [
-    [ "boss_lady_malande", "da/daf/a22822.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "da/daf/a22822.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "da/daf/a22822.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "da/daf/a22822.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "boss_fathomguard_tidalvess", "da/daf/a22822.html#aa4c3ac27c72e659bd87ad83bbadfb04c", null ],
+    [ "DoAction", "da/daf/a22822.html#a909601091c25285e0a6c9773b61ff049", null ],
+    [ "EnterEvadeMode", "da/daf/a22822.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33", null ],
+    [ "JustDied", "da/daf/a22822.html#a7f79a16e0c186e97aeb7f16f3b7d45ea", null ],
+    [ "JustEngagedWith", "da/daf/a22822.html#aa524d5c047b50df8d83b5faa3fd791fc", null ],
+    [ "JustSummoned", "da/daf/a22822.html#a1dc16180610c742e98a93f87653e93e9", null ],
+    [ "Reset", "da/daf/a22822.html#af218abccb0b61e483dcc6d7a3313d99d", null ],
+    [ "ScheduleRemoval", "da/daf/a22822.html#a07c887552c8705b52caf9e102788a781", null ],
+    [ "SummonTotem", "da/daf/a22822.html#adb4d877f50ba5653d699a0a123f5961c", null ],
+    [ "UpdateAI", "da/daf/a22822.html#abce5d58fced89ecaac1d1f34989f0d9e", null ],
+    [ "_choice", "da/daf/a22822.html#a0ced209c6f22a0bf435a0249a25b15c4", null ],
+    [ "_entryList", "da/daf/a22822.html#a9eaeaf02dbe143d38ca857e5ae478aca", null ],
+    [ "_instance", "da/daf/a22822.html#a958c76b6ad9d9713625b10baa0d6d992", null ],
+    [ "_scheduler", "da/daf/a22822.html#ae1652d83938dc820255e383870b957a7", null ],
+    [ "_summons", "da/daf/a22822.html#aea75646687854c08eaee75c55718376d", null ],
+    [ "_totemScheduler", "da/daf/a22822.html#a1b4ace7575946c585cc63057e81a1529", null ]
 ];

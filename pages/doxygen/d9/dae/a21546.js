@@ -1,6 +1,6 @@
 var a21546 =
 [
-    [ "npc_nerubar_victimAI", "de/d03/a21550.html", "de/d03/a21550" ],
-    [ "npc_nerubar_victim", "d9/dae/a21546.html#a4fe80597d3e56776f0f04965fc706097", null ],
-    [ "GetAI", "d9/dae/a21546.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
+    [ "npc_q24545_vegard_dummyAI", "d9/dae/a21546.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "d9/dae/a21546.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "d9/dae/a21546.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

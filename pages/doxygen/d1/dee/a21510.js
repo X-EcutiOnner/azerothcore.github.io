@@ -1,14 +1,15 @@
 var a21510 =
 [
-    [ "npc_azure_saboteurAI", "d1/dee/a21510.html#a09fc1e8f171209471c5403af33b05a58", null ],
-    [ "FinishPointReached", "d1/dee/a21510.html#a322380edef5dbefe5ac4ab0040183010", null ],
-    [ "MoveInLineOfSight", "d1/dee/a21510.html#a21868549892cdd0e67d6403dece9efce", null ],
-    [ "UpdateAI", "d1/dee/a21510.html#a9ccbb54a41aef3a252a46545649c2c91", null ],
-    [ "WaypointReached", "d1/dee/a21510.html#ac17dc46bfe75582a789a2056978218fb", null ],
-    [ "bAddedWPs", "d1/dee/a21510.html#a9cabb9053b3c6b51be184b2144e5ec54", null ],
-    [ "bOpening", "d1/dee/a21510.html#a924ceb13552f0f01d55375af0324bf5a", null ],
-    [ "count", "d1/dee/a21510.html#a38bf10a96c8eae45b4aa0bd095924f85", null ],
-    [ "pInstance", "d1/dee/a21510.html#a1375420fe4bf16f122aa93f5c847a464", null ],
-    [ "timer", "d1/dee/a21510.html#a30745320b9cc64fb690fa7bd6d7525f2", null ],
-    [ "uiBoss", "d1/dee/a21510.html#a36f60e44bd8f1de85429a75f3e928d77", null ]
+    [ "npc_q24545_lich_kingAI", "d1/dee/a21510.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
+    [ "CleanAll", "d1/dee/a21510.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
+    [ "JustSummoned", "d1/dee/a21510.html#a6049433795be30eb31e240a4939ad42f", null ],
+    [ "Reset", "d1/dee/a21510.html#aebd396de51edef790cd0b599c94f78a0", null ],
+    [ "SetData", "d1/dee/a21510.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
+    [ "SetGUID", "d1/dee/a21510.html#ac7c41ebfa7979907aea246af20bcf368", null ],
+    [ "SpellHitTarget", "d1/dee/a21510.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
+    [ "SummonedCreatureDespawn", "d1/dee/a21510.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
+    [ "UpdateAI", "d1/dee/a21510.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
+    [ "events", "d1/dee/a21510.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
+    [ "playerGUID", "d1/dee/a21510.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
+    [ "summons", "d1/dee/a21510.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
 ];

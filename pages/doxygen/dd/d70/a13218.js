@@ -1,5 +1,6 @@
 var a13218 =
 [
-    [ "at_karazhan_mirkblood_approach", "dd/d70/a13218.html#a032600991e9fc1aaf026adf2e63314e5", null ],
-    [ "OnTrigger", "dd/d70/a13218.html#aaece848faa4f1086ac0b16802a1e765e", null ]
+    [ "CheckRequirement", "dd/d70/a13218.html#a31d69034f463d552afa4063bf89271da", null ],
+    [ "PrepareSpellScript", "dd/d70/a13218.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
+    [ "Register", "dd/d70/a13218.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
 ];

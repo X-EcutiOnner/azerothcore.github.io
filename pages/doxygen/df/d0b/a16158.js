@@ -1,7 +1,5 @@
 var a16158 =
 [
-    [ "npc_giltharesAI", "df/d0b/a16158.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "df/d0b/a16158.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "df/d0b/a16158.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "df/d0b/a16158.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "PrepareAuraScript", "df/d0b/a16158.html#a912a1aa9a77edfa672b70588c17e8002", null ],
+    [ "Register", "df/d0b/a16158.html#a92ee242ff7e474858465b5d4cd408a48", null ]
 ];

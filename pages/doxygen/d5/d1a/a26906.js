@@ -1,7 +1,7 @@
 var a26906 =
 [
-    [ "HandleHeal", "d5/d1a/a26906.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "d5/d1a/a26906.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "d5/d1a/a26906.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "d5/d1a/a26906.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "HandleEffectPeriodic", "d5/d1a/a26906.html#a2fab66e86d3c0207183db72ecbb6fc6c", null ],
+    [ "PrepareAuraScript", "d5/d1a/a26906.html#ae0e3b459c71933c25da8136cdcddf200", null ],
+    [ "Register", "d5/d1a/a26906.html#ac924ebbc893476cabab5f05120d0cd8d", null ],
+    [ "Validate", "d5/d1a/a26906.html#ada327cf500aec62fdf34f9d8a4ccd6e2", null ]
 ];

@@ -1,7 +1,6 @@
 var a17834 =
 [
-    [ "HandleScript", "d7/d60/a17834.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "d7/d60/a17834.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "d7/d60/a17834.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "d7/d60/a17834.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "PrepareSpellScript", "d7/d60/a17834.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "d7/d60/a17834.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "d7/d60/a17834.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

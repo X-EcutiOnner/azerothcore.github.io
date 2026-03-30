@@ -1,6 +1,5 @@
 var a18306 =
 [
-    [ "npc_bone_spikeAI", "d1/d6d/a18310.html", "d1/d6d/a18310" ],
-    [ "npc_bone_spike", "db/d4d/a18306.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "db/d4d/a18306.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "achievement_all_you_can_eat", "db/d4d/a18306.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "db/d4d/a18306.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

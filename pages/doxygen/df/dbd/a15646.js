@@ -1,9 +1,5 @@
 var a15646 =
 [
-    [ "npc_giant_eye_tentacle", "df/dbd/a15646.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "df/dbd/a15646.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "df/dbd/a15646.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "df/dbd/a15646.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "df/dbd/a15646.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "df/dbd/a15646.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "go_bristlelimb_cage", "df/dbd/a15646.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "df/dbd/a15646.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

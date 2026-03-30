@@ -1,6 +1,5 @@
 var a22062 =
 [
-    [ "npc_boneguard_footmanAI", "da/d46/a22066.html", "da/d46/a22066" ],
-    [ "npc_boneguard_footman", "d6/dbe/a22062.html#aba17f89b9546deff5401ad33224b2b3e", null ],
-    [ "GetAI", "d6/dbe/a22062.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
+    [ "npc_wg_spirit_guideAI", "d6/dbe/a22062.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d6/dbe/a22062.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

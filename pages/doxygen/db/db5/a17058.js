@@ -1,7 +1,8 @@
 var a17058 =
 [
-    [ "HandleEffectPeriodic", "db/db5/a17058.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "db/db5/a17058.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "db/db5/a17058.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "db/db5/a17058.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_fos_leaderAI", "db/db5/a17058.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "db/db5/a17058.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "db/db5/a17058.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "db/db5/a17058.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "db/db5/a17058.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

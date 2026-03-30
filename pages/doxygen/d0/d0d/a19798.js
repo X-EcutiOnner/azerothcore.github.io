@@ -1,14 +1,9 @@
 var a19798 =
 [
-    [ "boss_keristrasza", "d0/d0d/a19798.html#a5f83fee9a5616751601f0c1155afab36", null ],
-    [ "CanRemovePrison", "d0/d0d/a19798.html#a900a4a8428a04b880462b20196e94858", null ],
-    [ "GetData", "d0/d0d/a19798.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
-    [ "JustDied", "d0/d0d/a19798.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
-    [ "JustEngagedWith", "d0/d0d/a19798.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
-    [ "KilledUnit", "d0/d0d/a19798.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
-    [ "RemovePrison", "d0/d0d/a19798.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
-    [ "Reset", "d0/d0d/a19798.html#a13dce974fa83577397a80ff52de5d835", null ],
-    [ "SetData", "d0/d0d/a19798.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
-    [ "UpdateAI", "d0/d0d/a19798.html#a46a2e61e27cc72710c7aa14212673eae", null ],
-    [ "aGuids", "d0/d0d/a19798.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
+    [ "npc_brann_bronzebeard_algalon", "d0/d0d/a19798.html#ac00755dca7e187b55516be889386c499", null ],
+    [ "DoAction", "d0/d0d/a19798.html#a6d44478868a74ed7baac757258334806", null ],
+    [ "MovementInform", "d0/d0d/a19798.html#a33af1a38ab2827aec38f95e57e54f589", null ],
+    [ "UpdateAI", "d0/d0d/a19798.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
+    [ "_currentPoint", "d0/d0d/a19798.html#a5403badf59f96111aefaddf78379e65f", null ],
+    [ "events", "d0/d0d/a19798.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
 ];

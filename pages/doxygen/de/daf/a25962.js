@@ -1,6 +1,7 @@
 var a25962 =
 [
-    [ "PartyTimeEmoteEvent", "de/daf/a25962.html#a525efd58fc8465658208058e6dc5d31c", null ],
-    [ "Execute", "de/daf/a25962.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
-    [ "_player", "de/daf/a25962.html#a61ecb44828c6e4c868def8899791feb3", null ]
+    [ "HandleDummy", "de/daf/a25962.html#a4dde221fa768ef5c6b99c981969f35fe", null ],
+    [ "PrepareSpellScript", "de/daf/a25962.html#a85333c5f493b70037bcc1a1d42e97e9c", null ],
+    [ "Register", "de/daf/a25962.html#acfafbf43e12f72131e58434051dcc510", null ],
+    [ "Validate", "de/daf/a25962.html#a73458b57dc107b3215cf5d44567d330f", null ]
 ];

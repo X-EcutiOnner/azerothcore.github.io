@@ -1,6 +1,6 @@
 var a18606 =
 [
-    [ "MysticBuffetTargetFilter", "dd/d71/a18606.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
-    [ "operator()", "dd/d71/a18606.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
-    [ "_caster", "dd/d71/a18606.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
+    [ "npc_lk_spirit_bombAI", "df/d97/a18610.html", "df/d97/a18610" ],
+    [ "npc_lk_spirit_bomb", "dd/d71/a18606.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "dd/d71/a18606.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

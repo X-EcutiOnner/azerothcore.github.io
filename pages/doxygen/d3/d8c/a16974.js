@@ -1,6 +1,6 @@
 var a16974 =
 [
-    [ "npc_toc_warriorAI", "df/d21/a16978.html", "df/d21/a16978" ],
-    [ "npc_toc_warrior", "d3/d8c/a16974.html#a3e969be07603ef59389106769010660c", null ],
-    [ "GetAI", "d3/d8c/a16974.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
+    [ "OnPeriodic", "d3/d8c/a16974.html#ab71faf6fb2900e176aac245317113758", null ],
+    [ "PrepareAuraScript", "d3/d8c/a16974.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
+    [ "Register", "d3/d8c/a16974.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
 ];

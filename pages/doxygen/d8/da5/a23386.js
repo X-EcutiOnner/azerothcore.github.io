@@ -1,6 +1,5 @@
 var a23386 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d8/da5/a23386.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "d8/da5/a23386.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "d8/da5/a23386.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "at_shattered_halls_execution", "d8/da5/a23386.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "d8/da5/a23386.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

@@ -1,6 +1,7 @@
 var a14734 =
 [
-    [ "HandleDummyEffect", "de/db3/a14734.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
-    [ "PrepareSpellScript", "de/db3/a14734.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
-    [ "Register", "de/db3/a14734.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
+    [ "HandleScript", "de/db3/a14734.html#a78899a874a645d531dd4d89f2bd5478a", null ],
+    [ "PrepareSpellScript", "de/db3/a14734.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
+    [ "Register", "de/db3/a14734.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
+    [ "Validate", "de/db3/a14734.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
 ];

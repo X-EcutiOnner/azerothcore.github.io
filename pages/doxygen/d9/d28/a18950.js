@@ -1,6 +1,7 @@
 var a18950 =
 [
-    [ "ManaVoidSelector", "d9/d28/a18950.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
-    [ "operator()", "d9/d28/a18950.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
-    [ "_source", "d9/d28/a18950.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
+    [ "HandleEffectPeriodic", "d9/d28/a18950.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "d9/d28/a18950.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "d9/d28/a18950.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "d9/d28/a18950.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

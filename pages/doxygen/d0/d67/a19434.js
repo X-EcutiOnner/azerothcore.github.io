@@ -1,7 +1,7 @@
 var a19434 =
 [
-    [ "npc_ioc_gunship_captainAI", "d0/d67/a19434.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "d0/d67/a19434.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "d0/d67/a19434.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "d0/d67/a19434.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "npc_alexstrasza", "d0/d67/a19434.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
+    [ "AttackStart", "d0/d67/a19434.html#ab47f439968b7e9358158eae3e31f4e29", null ],
+    [ "MoveInLineOfSight", "d0/d67/a19434.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
+    [ "UpdateAI", "d0/d67/a19434.html#aec1c93eee408ecefbceec22be4b90dba", null ]
 ];

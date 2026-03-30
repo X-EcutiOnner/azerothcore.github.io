@@ -1,6 +1,9 @@
 var a24990 =
 [
-    [ "PrepareSpellScript", "d7/d8d/a24990.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
-    [ "RecalculateDamage", "d7/d8d/a24990.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
-    [ "Register", "d7/d8d/a24990.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
+    [ "PrepareAuraScript", "d7/d8d/a24990.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
+    [ "RefreshVisualShields", "d7/d8d/a24990.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
+    [ "Register", "d7/d8d/a24990.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
+    [ "RemoveDummyFromDriver", "d7/d8d/a24990.html#a399641ce72b74038a4517868267bd86a", null ],
+    [ "RemoveVisualShields", "d7/d8d/a24990.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
+    [ "Validate", "d7/d8d/a24990.html#ae5799f72b7fbce82799fd730f1525948", null ]
 ];

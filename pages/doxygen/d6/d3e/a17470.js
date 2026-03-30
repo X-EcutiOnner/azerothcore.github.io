@@ -1,9 +1,6 @@
 var a17470 =
 [
-    [ "npc_hor_lumbering_abominationAI", "d6/d3e/a17470.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
-    [ "JustDied", "d6/d3e/a17470.html#af243a79da3028d3d66facc8a15132f78", null ],
-    [ "JustEngagedWith", "d6/d3e/a17470.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
-    [ "Reset", "d6/d3e/a17470.html#a4270f405bbade0028fce4df0655a1987", null ],
-    [ "UpdateAI", "d6/d3e/a17470.html#a995d0f7902cb70280d1448ac7731a816", null ],
-    [ "events", "d6/d3e/a17470.html#aee9063950477b50e38ec904e91882689", null ]
+    [ "boss_prince_valanarAI", "d9/d78/a17474.html", "d9/d78/a17474" ],
+    [ "boss_prince_valanar_icc", "d6/d3e/a17470.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "d6/d3e/a17470.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

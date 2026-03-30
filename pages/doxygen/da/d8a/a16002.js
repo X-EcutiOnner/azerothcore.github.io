@@ -1,6 +1,6 @@
 var a16002 =
 [
-    [ "npc_bunthen_plainswind", "da/d8a/a16002.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "da/d8a/a16002.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "da/d8a/a16002.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "SayerEntry", "da/d8a/a16002.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "da/d8a/a16002.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "da/d8a/a16002.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

@@ -1,7 +1,6 @@
 var a15726 =
 [
-    [ "FilterTargets", "d4/d90/a15726.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "d4/d90/a15726.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "d4/d90/a15726.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "d4/d90/a15726.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "npc_tiger_matriarchAI", "d0/d7a/a15730.html", "d0/d7a/a15730" ],
+    [ "npc_tiger_matriarch", "d4/d90/a15726.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d4/d90/a15726.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

@@ -1,18 +1,10 @@
 var a13286 =
 [
-    [ "boss_romulo", "d5/ddb/a13286.html#a497e0e57d2abb6640081c1d141a588ff", null ],
-    [ "DamageTaken", "d5/ddb/a13286.html#a603db3883d03367406cbcf3f2cb28a08", null ],
-    [ "DoAction", "d5/ddb/a13286.html#acc23f4f4f5856b9956a764c1f69bbc92", null ],
-    [ "EnterEvadeMode", "d5/ddb/a13286.html#ab4dda6b70337668dd36a582e8439c3db", null ],
-    [ "JustDied", "d5/ddb/a13286.html#aa60d8fe07db9444f25eec9de9e5bf365", null ],
-    [ "JustEngagedWith", "d5/ddb/a13286.html#ab13e2a4ebe8a1956f6de460cdb9b199d", null ],
-    [ "JustReachedHome", "d5/ddb/a13286.html#af8bff3f1c107dc7d8beae7956a25fbcc", null ],
-    [ "KilledUnit", "d5/ddb/a13286.html#ae4ca6736913cc8df4d016876a8fd8576", null ],
-    [ "Reset", "d5/ddb/a13286.html#a15703ee7df979b8ee5892dacf84066e2", null ],
-    [ "ScheduleCombat", "d5/ddb/a13286.html#a4cc20dccb171d1f4d3c680b6b5310e73", null ],
-    [ "UpdateAI", "d5/ddb/a13286.html#ac42df238a2ad354a2fb21ebb558734c6", null ],
-    [ "_scheduler", "d5/ddb/a13286.html#a456abfa48f038e904c427179c2a10edb", null ],
-    [ "instance", "d5/ddb/a13286.html#aae979b72844ff8fcc70956925df4fa9b", null ],
-    [ "isFakingDeath", "d5/ddb/a13286.html#a88ccbe761b4703e4f309d1bb3fca4085", null ],
-    [ "phase", "d5/ddb/a13286.html#ab549436aec35727665150d51f1c25714", null ]
+    [ "npc_scarlet_courierAI", "d5/ddb/a13286.html#a83c5e32659d38a513790322e46dcc283", null ],
+    [ "JustEngagedWith", "d5/ddb/a13286.html#aa470197f0949a413c421bda8c7c09279", null ],
+    [ "MovementInform", "d5/ddb/a13286.html#add19812d92d62b602f96ffc5fb513d6c", null ],
+    [ "Reset", "d5/ddb/a13286.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
+    [ "UpdateAI", "d5/ddb/a13286.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
+    [ "uiStage", "d5/ddb/a13286.html#a2f920922f8c6f1a878d0e4978e081257", null ],
+    [ "uiStage_timer", "d5/ddb/a13286.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
 ];

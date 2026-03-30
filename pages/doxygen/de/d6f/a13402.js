@@ -1,6 +1,6 @@
 var a13402 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d3/d83/a13406.html", "d3/d83/a13406" ],
-    [ "instance_magisters_terrace", "de/d6f/a13402.html#a81e23ce04c4d765193d2d2763ef78987", null ],
-    [ "GetInstanceScript", "de/d6f/a13402.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
+    [ "instance_scholomance_InstanceMapScript", "d3/d83/a13406.html", "d3/d83/a13406" ],
+    [ "instance_scholomance", "de/d6f/a13402.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "de/d6f/a13402.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

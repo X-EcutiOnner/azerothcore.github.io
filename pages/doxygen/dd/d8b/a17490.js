@@ -1,6 +1,10 @@
 var a17490 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "dd/da4/a17494.html", "dd/da4/a17494" ],
-    [ "instance_halls_of_reflection", "dd/d8b/a17490.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "dd/d8b/a17490.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "npc_dark_nucleusAI", "dd/d8b/a17490.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "dd/d8b/a17490.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "dd/d8b/a17490.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "dd/d8b/a17490.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "dd/d8b/a17490.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "dd/d8b/a17490.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "dd/d8b/a17490.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

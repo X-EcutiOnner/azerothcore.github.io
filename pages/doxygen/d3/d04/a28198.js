@@ -1,6 +1,8 @@
 var a28198 =
 [
-    [ "go_bear_trapAI", "d1/ddc/a28202.html", "d1/ddc/a28202" ],
-    [ "go_bear_trap", "d3/d04/a28198.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "d3/d04/a28198.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "npc_chicken_cluckAI", "d1/ddc/a28202.html", "d1/ddc/a28202" ],
+    [ "npc_chicken_cluck", "d3/d04/a28198.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d3/d04/a28198.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d3/d04/a28198.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d3/d04/a28198.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

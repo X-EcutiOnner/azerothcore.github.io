@@ -1,5 +1,6 @@
 var a18078 =
 [
-    [ "npc_zafod_boomboxAI", "d5/d4f/a18078.html#a6540d8f5787ce1da211123721ef659f3", null ],
-    [ "sGossipSelect", "d5/d4f/a18078.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
+    [ "FilterTargets", "d5/d4f/a18078.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
+    [ "PrepareSpellScript", "d5/d4f/a18078.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
+    [ "Register", "d5/d4f/a18078.html#a32e04a1110d651701b8eab1648c69a57", null ]
 ];

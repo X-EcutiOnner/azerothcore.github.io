@@ -1,7 +1,7 @@
 var a17822 =
 [
-    [ "HandleDummyTick", "db/d96/a17822.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
-    [ "PrepareAuraScript", "db/d96/a17822.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
-    [ "Register", "db/d96/a17822.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
-    [ "Validate", "db/d96/a17822.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
+    [ "npc_gunship_rocketeerAI", "db/d96/a17822.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "db/d96/a17822.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "db/d96/a17822.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "db/d96/a17822.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

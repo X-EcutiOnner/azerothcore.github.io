@@ -1,6 +1,6 @@
 var a21330 =
 [
-    [ "boss_cyanigosaAI", "d4/d11/a21334.html", "d4/d11/a21334" ],
-    [ "boss_cyanigosa", "d3/dac/a21330.html#a4db12e2fb873ad3595a437df09663a22", null ],
-    [ "GetAI", "d3/dac/a21330.html#a779c7c3a5f0002501361fa92fe14af69", null ]
+    [ "HandleEffect", "d3/dac/a21330.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "d3/dac/a21330.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "d3/dac/a21330.html#a14bd854db86750704c8377d457dea360", null ]
 ];

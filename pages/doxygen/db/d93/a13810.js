@@ -1,9 +1,8 @@
 var a13810 =
 [
-    [ "npc_demonic_vapor_trail", "db/d93/a13810.html#a5bd024ea050372e982a183da59b45904", null ],
-    [ "JustSummoned", "db/d93/a13810.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
-    [ "Reset", "db/d93/a13810.html#a9da762ab640abfaf5092034f284239af", null ],
-    [ "SpellHitTarget", "db/d93/a13810.html#a21e2223f58156da2fbe1803554623ecd", null ],
-    [ "UpdateAI", "db/d93/a13810.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
-    [ "_timer", "db/d93/a13810.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
+    [ "HandleEffectApply", "db/d93/a13810.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "db/d93/a13810.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "db/d93/a13810.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "db/d93/a13810.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "db/d93/a13810.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

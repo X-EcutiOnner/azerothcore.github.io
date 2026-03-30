@@ -1,6 +1,7 @@
 var a28386 =
 [
-    [ "trigger_periodicAI", "d2/d58/a28390.html", "d2/d58/a28390" ],
-    [ "trigger_periodic", "da/d36/a28386.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "da/d36/a28386.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "HandleDummy", "da/d36/a28386.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "da/d36/a28386.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "da/d36/a28386.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "da/d36/a28386.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

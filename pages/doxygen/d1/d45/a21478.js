@@ -1,9 +1,6 @@
 var a21478 =
 [
-    [ "npc_azure_stalkerAI", "d1/d45/a21478.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
-    [ "Reset", "d1/d45/a21478.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
-    [ "UpdateAI", "d1/d45/a21478.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
-    [ "TacticalBlinkCasted", "d1/d45/a21478.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
-    [ "uiBackstabTimer", "d1/d45/a21478.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
-    [ "uiTacticalBlinkTimer", "d1/d45/a21478.html#ab817fb9f2f06715f0a08a99e12693697", null ]
+    [ "CheckCast", "d1/d45/a21478.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "d1/d45/a21478.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "d1/d45/a21478.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

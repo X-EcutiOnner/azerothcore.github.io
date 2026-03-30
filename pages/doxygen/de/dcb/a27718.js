@@ -1,7 +1,11 @@
 var a27718 =
 [
-    [ "HandleTeleport", "de/dcb/a27718.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
-    [ "PrepareAuraScript", "de/dcb/a27718.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
-    [ "Register", "de/dcb/a27718.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
-    [ "Validate", "de/dcb/a27718.html#adabf22bd591a10662ffbf0354a18a936", null ]
+    [ "AccountActionIpLogger", "de/dcb/a27718.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
+    [ "AccountIPLogAction", "de/dcb/a27718.html#a9c978dafb71e67b8b278806df507e34b", null ],
+    [ "OnAccountLogin", "de/dcb/a27718.html#a2952adcd73d775b924671e5a69adaccb", null ],
+    [ "OnEmailChange", "de/dcb/a27718.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
+    [ "OnFailedAccountLogin", "de/dcb/a27718.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
+    [ "OnFailedEmailChange", "de/dcb/a27718.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
+    [ "OnFailedPasswordChange", "de/dcb/a27718.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
+    [ "OnPasswordChange", "de/dcb/a27718.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
 ];

@@ -1,6 +1,7 @@
 var a14146 =
 [
-    [ "CheckProc", "dc/d14/a14146.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "dc/d14/a14146.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "dc/d14/a14146.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "spell", "dc/d14/a14146.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "dc/d14/a14146.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "dc/d14/a14146.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "dc/d14/a14146.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

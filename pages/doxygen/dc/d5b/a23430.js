@@ -1,7 +1,10 @@
 var a23430 =
 [
-    [ "HandleScript", "dc/d5b/a23430.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
-    [ "PrepareSpellScript", "dc/d5b/a23430.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
-    [ "Register", "dc/d5b/a23430.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
-    [ "Validate", "dc/d5b/a23430.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
+    [ "instance_arcatraz_InstanceMapScript", "dc/d5b/a23430.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "dc/d5b/a23430.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "dc/d5b/a23430.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "dc/d5b/a23430.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "dc/d5b/a23430.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "dc/d5b/a23430.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "dc/d5b/a23430.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

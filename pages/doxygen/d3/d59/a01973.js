@@ -1,20 +1,14 @@
 var a01973 =
 [
-    [ "WorldPackets::InvalidStringValueException", "d7/dd1/a11261.html", "d7/dd1/a11261" ],
-    [ "WorldPackets::InvalidUtf8ValueException", "d7/d23/a11265.html", "d7/d23/a11265" ],
-    [ "WorldPackets::InvalidHyperlinkException", "dc/d13/a11269.html", "dc/d13/a11269" ],
-    [ "WorldPackets::IllegalHyperlinkException", "d4/d3f/a11273.html", "d4/d3f/a11273" ],
-    [ "WorldPackets::Strings::RawBytes", "d7/dd9/a11277.html", "d7/dd9/a11277" ],
-    [ "WorldPackets::Strings::ByteSize< MaxBytesWithoutNullTerminator >", "d7/ddc/a11281.html", "d7/ddc/a11281" ],
-    [ "WorldPackets::Strings::Utf8", "dc/d1f/a11285.html", "dc/d1f/a11285" ],
-    [ "WorldPackets::Strings::Hyperlinks", "da/d11/a11289.html", "da/d11/a11289" ],
-    [ "WorldPackets::Strings::NoHyperlinks", "db/d4c/a11293.html", "db/d4c/a11293" ],
-    [ "WorldPackets::String< MaxBytesWithoutNullTerminator, Validators >", "df/db3/a11297.html", "df/db3/a11297" ],
-    [ "WorldPackets::PacketArrayMaxCapacityException", "d8/d35/a11301.html", "d8/d35/a11301" ],
-    [ "WorldPackets::Array< T, N >", "d0/dbf/a11305.html", "d0/dbf/a11305" ],
-    [ "WorldPackets::CompactArray< T >", "d8/dce/a11309.html", "d8/dce/a11309" ],
-    [ "fmt::formatter< WorldPackets::String< MaxBytesWithoutNullTerminator, Validators... > >", "d4/d21/a11313.html", "d4/d21/a11313" ],
-    [ "CheckCompactArrayMaskOverflow", "d3/d59/a01973.html#afb4909c8c4c13b14c8eceda2e9b4246d", null ],
-    [ "operator<<", "d3/d59/a01973.html#a82e35db0d6b671a4f4a581aac05828dc", null ],
-    [ "operator>>", "d3/d59/a01973.html#ab21e8e534a45a2a33d69cd11562a45c6", null ]
+    [ "npc_artorius", "de/d3f/a28114.html", "de/d3f/a28114" ],
+    [ "npc_artorius::npc_artoriusAI", "d5/d8a/a28118.html", "d5/d8a/a28118" ],
+    [ "npc_precious", "d8/d40/a28122.html", "d8/d40/a28122" ],
+    [ "npc_precious::npc_preciousAI", "d5/d28/a28126.html", "d5/d28/a28126" ],
+    [ "npc_simone", "d0/da8/a28130.html", "d0/da8/a28130" ],
+    [ "npc_simone::npc_simoneAI", "d9/db7/a28134.html", "d9/db7/a28134" ],
+    [ "npc_nelson", "d6/df2/a28138.html", "d6/df2/a28138" ],
+    [ "npc_nelson::npc_nelsonAI", "d6/dcc/a28142.html", "d6/dcc/a28142" ],
+    [ "npc_franklin", "df/deb/a28146.html", "df/deb/a28146" ],
+    [ "npc_franklin::npc_franklinAI", "dd/d2c/a28150.html", "dd/d2c/a28150" ],
+    [ "AddSC_npc_stave_of_ancients", "d3/d59/a01973.html#a81e200e5d045a2403cd76a0559a6fd8c", null ]
 ];

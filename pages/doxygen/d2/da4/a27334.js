@@ -1,11 +1,7 @@
 var a27334 =
 [
-    [ "CheckProc", "d2/da4/a27334.html#a7a6eea8debb09c4c9086a92d8e6ee59c", null ],
-    [ "HandleProc", "d2/da4/a27334.html#af29b1d6d8553003514918a383cb08b4a", null ],
-    [ "Load", "d2/da4/a27334.html#a8861c2415c0f705cb4a06c02eabb54d2", null ],
-    [ "OnRemove", "d2/da4/a27334.html#a9227147dd6e621deddd0088b95e9db2f", null ],
-    [ "PrepareAuraScript", "d2/da4/a27334.html#a149881d517edbb15032452554fc64948", null ],
-    [ "Register", "d2/da4/a27334.html#ac81d60d54a87a23bd9481934f5753de0", null ],
-    [ "Validate", "d2/da4/a27334.html#a7a4d1bddd1dbeb41e0f6f8fe272b4ad6", null ],
-    [ "_redirectTarget", "d2/da4/a27334.html#af3ee2a283d8942ab3652a6386c26f737", null ]
+    [ "HandleAuraApply", "d2/da4/a27334.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "d2/da4/a27334.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "d2/da4/a27334.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "d2/da4/a27334.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

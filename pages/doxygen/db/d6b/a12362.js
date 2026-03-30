@@ -1,5 +1,6 @@
 var a12362 =
 [
-    [ "at_ring_of_law", "db/d6b/a12362.html#ad9bb44e898f90fb489b50cad0a711976", null ],
-    [ "OnTrigger", "db/d6b/a12362.html#a613471caae75ab3d82ce915101a20108", null ]
+    [ "npc_av_marshal_or_warmasterAI", "d0/de8/a12366.html", "d0/de8/a12366" ],
+    [ "npc_av_marshal_or_warmaster", "db/d6b/a12362.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
+    [ "GetAI", "db/d6b/a12362.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
 ];

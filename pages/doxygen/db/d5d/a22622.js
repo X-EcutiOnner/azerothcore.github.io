@@ -1,8 +1,8 @@
 var a22622 =
 [
-    [ "boss_tavarok", "db/d5d/a22622.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "db/d5d/a22622.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "db/d5d/a22622.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "db/d5d/a22622.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "db/d5d/a22622.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "HandleEffectApply", "db/d5d/a22622.html#a94993441ef94f84c85aa10c693cf34fe", null ],
+    [ "HandleEffectRemove", "db/d5d/a22622.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
+    [ "PrepareAuraScript", "db/d5d/a22622.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
+    [ "Register", "db/d5d/a22622.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
+    [ "Validate", "db/d5d/a22622.html#a964637541cd64e64b4e02c00d36abf2d", null ]
 ];

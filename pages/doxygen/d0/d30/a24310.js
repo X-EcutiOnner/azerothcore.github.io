@@ -1,6 +1,8 @@
 var a24310 =
 [
-    [ "PrepareSpellScript", "d0/d30/a24310.html#a190f6dc3d9b336324da29f627a743fe9", null ],
-    [ "Register", "d0/d30/a24310.html#a3afc8035b852bc31abd3228e88d59819", null ],
-    [ "SetDest", "d0/d30/a24310.html#a85d66a58597954501305ad5b674cc8a2", null ]
+    [ "HandleEffectApply", "d0/d30/a24310.html#a8134145c22b99c7b75537091c386bcd1", null ],
+    [ "HandleEffectRemove", "d0/d30/a24310.html#a5d24ca41dcc75a11077da691abd902e0", null ],
+    [ "PrepareAuraScript", "d0/d30/a24310.html#ae5f1b77a6aed21faf3ad9c168a8fcaa2", null ],
+    [ "Register", "d0/d30/a24310.html#acff27aac4af2b0a0530348371fcb55b2", null ],
+    [ "Validate", "d0/d30/a24310.html#af656fbf06181436bbb020282160c1293", null ]
 ];

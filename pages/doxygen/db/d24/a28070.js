@@ -1,6 +1,5 @@
 var a28070 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "db/d24/a28070.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "db/d24/a28070.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "db/d24/a28070.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "item_captured_frog", "db/d24/a28070.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "db/d24/a28070.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

@@ -1,5 +1,6 @@
 var a27970 =
 [
-    [ "achievement_bg_ic_resource_glut", "db/d61/a27970.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "db/d61/a27970.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "go_fel_crystalforge", "db/d61/a27970.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "db/d61/a27970.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "db/d61/a27970.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

@@ -1,10 +1,8 @@
 var a19638 =
 [
-    [ "boss_patchwerkAI", "db/d22/a19638.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "db/d22/a19638.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "db/d22/a19638.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "db/d22/a19638.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "db/d22/a19638.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "db/d22/a19638.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "db/d22/a19638.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "HandleOnEffectApply", "db/d22/a19638.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "db/d22/a19638.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "db/d22/a19638.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "db/d22/a19638.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "db/d22/a19638.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

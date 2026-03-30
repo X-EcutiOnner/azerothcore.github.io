@@ -1,6 +1,8 @@
 var a17842 =
 [
-    [ "ChangeSummonPos", "d3/d6c/a17842.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d3/d6c/a17842.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d3/d6c/a17842.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "Load", "d3/d6c/a17842.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
+    [ "PrepareSpellScript", "d3/d6c/a17842.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
+    [ "Register", "d3/d6c/a17842.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
+    [ "RelocateDest", "d3/d6c/a17842.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
+    [ "SelectTransport", "d3/d6c/a17842.html#a0564852176d80ee6593baa3abb18238a", null ]
 ];

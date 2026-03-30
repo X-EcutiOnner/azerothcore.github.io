@@ -1,16 +1,17 @@
 var a01013 =
 [
-    [ "AccountScript", "d3/d87/a10507.html", "d3/d87/a10507" ],
-    [ "AccountHook", "d7/d59/a01013.html#a4b5c567266fc875ca26b1f3c273a0e3f", [
-      [ "ACCOUNTHOOK_ON_ACCOUNT_LOGIN", "d7/d59/a01013.html#a4b5c567266fc875ca26b1f3c273a0e3fa97110c19d0d3bf4985d037248fc9a520", null ],
-      [ "ACCOUNTHOOK_ON_BEFORE_ACCOUNT_DELETE", "d7/d59/a01013.html#a4b5c567266fc875ca26b1f3c273a0e3fa68eae28cd3d4824d5a1f43be23334ecb", null ],
-      [ "ACCOUNTHOOK_ON_LAST_IP_UPDATE", "d7/d59/a01013.html#a4b5c567266fc875ca26b1f3c273a0e3faef7c124ffc203147c487a3fdf3fb3993", null ],
-      [ "ACCOUNTHOOK_ON_FAILED_ACCOUNT_LOGIN", "d7/d59/a01013.html#a4b5c567266fc875ca26b1f3c273a0e3fad9e09c448ea9ea11d0dab7b19364a744", null ],
-      [ "ACCOUNTHOOK_ON_EMAIL_CHANGE", "d7/d59/a01013.html#a4b5c567266fc875ca26b1f3c273a0e3fa614cf50cd5271ecd85b56e2c96417982", null ],
-      [ "ACCOUNTHOOK_ON_FAILED_EMAIL_CHANGE", "d7/d59/a01013.html#a4b5c567266fc875ca26b1f3c273a0e3fa8d513341e8c3bd3b9ab3d56ad1854fdf", null ],
-      [ "ACCOUNTHOOK_ON_PASSWORD_CHANGE", "d7/d59/a01013.html#a4b5c567266fc875ca26b1f3c273a0e3fa1a346d78a8f0cd7fbf326655e791eec5", null ],
-      [ "ACCOUNTHOOK_ON_FAILED_PASSWORD_CHANGE", "d7/d59/a01013.html#a4b5c567266fc875ca26b1f3c273a0e3faa64f8339ee297e9e9d5591423f18f283", null ],
-      [ "ACCOUNTHOOK_CAN_ACCOUNT_CREATE_CHARACTER", "d7/d59/a01013.html#a4b5c567266fc875ca26b1f3c273a0e3fabbf594e3be51c108e40d535b8ba1baf3", null ],
-      [ "ACCOUNTHOOK_END", "d7/d59/a01013.html#a4b5c567266fc875ca26b1f3c273a0e3fafdbdba3262877bcac001a3013cdd4f5f", null ]
-    ] ]
+    [ "npc_daphne_stilwell", "d2/d0c/a14070.html", "d2/d0c/a14070" ],
+    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "dd/d4e/a14074.html", "dd/d4e/a14074" ],
+    [ "DaphneStilwell", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
+      [ "SAY_DS_START", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
+      [ "SAY_DS_DOWN_1", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
+      [ "SAY_DS_DOWN_2", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
+      [ "SAY_DS_DOWN_3", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
+      [ "SAY_DS_PROLOGUE", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
+      [ "SPELL_SHOOT", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "QUEST_TOME_VALOR", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
+      [ "NPC_DEFIAS_RAIDER", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
+      [ "EQUIP_ID_RIFLE", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
+    ] ],
+    [ "AddSC_westfall", "d7/d59/a01013.html#a9c6e961944f462fc3c48a6400c76266c", null ]
 ];

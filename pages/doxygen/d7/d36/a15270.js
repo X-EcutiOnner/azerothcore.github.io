@@ -1,6 +1,7 @@
 var a15270 =
 [
-    [ "boss_salrammAI", "d0/ddc/a15274.html", "d0/ddc/a15274" ],
-    [ "boss_salramm", "d7/d36/a15270.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
-    [ "GetAI", "d7/d36/a15270.html#ab6b400f0d329d4def074d012de47f53d", null ]
+    [ "HandleScript", "d7/d36/a15270.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
+    [ "PrepareSpellScript", "d7/d36/a15270.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
+    [ "Register", "d7/d36/a15270.html#aff966352a2babe6e6daed91f02e1190a", null ],
+    [ "Validate", "d7/d36/a15270.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
 ];

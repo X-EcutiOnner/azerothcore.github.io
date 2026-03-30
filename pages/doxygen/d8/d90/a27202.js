@@ -1,6 +1,7 @@
 var a27202 =
 [
-    [ "HandleEffectPeriodic", "d8/d90/a27202.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "d8/d90/a27202.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "d8/d90/a27202.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "HandleEffectProc", "d8/d90/a27202.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
+    [ "PrepareAuraScript", "d8/d90/a27202.html#a47d844a9700cd8add793e3f3088d1b82", null ],
+    [ "Register", "d8/d90/a27202.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
+    [ "Validate", "d8/d90/a27202.html#a97f5239399e7135b02000722eaf837ad", null ]
 ];

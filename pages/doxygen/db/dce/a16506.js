@@ -1,10 +1,9 @@
 var a16506 =
 [
-    [ "HandleDummy", "db/dce/a16506.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
-    [ "HandleSchoolDamage", "db/dce/a16506.html#a8372b7d176c94689b1b7fe99add7812e", null ],
-    [ "Load", "db/dce/a16506.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
-    [ "PrepareSpellScript", "db/dce/a16506.html#a3fd71e2a93f99f19443640a2147b1663", null ],
-    [ "Register", "db/dce/a16506.html#a8278d362a4354ccf81665ce0067c9a06", null ],
-    [ "Validate", "db/dce/a16506.html#a414b1e1396910b87a671305ce9dcab09", null ],
-    [ "_spawned", "db/dce/a16506.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
+    [ "npc_memoryAI", "db/dce/a16506.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "db/dce/a16506.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "db/dce/a16506.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "db/dce/a16506.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "db/dce/a16506.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "db/dce/a16506.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

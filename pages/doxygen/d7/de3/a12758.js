@@ -1,7 +1,7 @@
 var a12758 =
 [
-    [ "boss_ebonrocAI", "d7/de3/a12758.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
-    [ "JustEngagedWith", "d7/de3/a12758.html#a2c74e0030b1093d79245978939043d53", null ],
-    [ "MovementInform", "d7/de3/a12758.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
-    [ "UpdateAI", "d7/de3/a12758.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
+    [ "HandleHit", "d7/de3/a12758.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "d7/de3/a12758.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "d7/de3/a12758.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "d7/de3/a12758.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

@@ -1,6 +1,5 @@
 var a01991 =
 [
-    [ "instance_auchenai_crypts", "d7/d21/a22524.html", "d7/d21/a22524" ],
-    [ "instance_auchenai_crypts::instance_auchenai_crypts_InstanceMapScript", "d2/df4/a22528.html", "d2/df4/a22528" ],
-    [ "AddSC_instance_auchenai_crypts", "d3/d4e/a01991.html#a3a9866226f3a0e32fdb3501e506ab0b5", null ]
+    [ "wp_commandscript", "d8/d14/a12354.html", "d8/d14/a12354" ],
+    [ "AddSC_wp_commandscript", "d3/d4e/a01991.html#afc6bb2ca7e993730a57350142f7e6fd5", null ]
 ];

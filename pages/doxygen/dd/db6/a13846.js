@@ -1,8 +1,6 @@
 var a13846 =
 [
-    [ "FilterTargets", "dd/db6/a13846.html#a3aac5e364d04a4a086aaa911051417d5", null ],
-    [ "HandleDummy", "dd/db6/a13846.html#aa0705dee3edeca7b61f82581f367e94a", null ],
-    [ "PrepareSpellScript", "dd/db6/a13846.html#a1efa036eac25d789850849dc1b209379", null ],
-    [ "Register", "dd/db6/a13846.html#a656b512d5bef657004a72acbf7875760", null ],
-    [ "Validate", "dd/db6/a13846.html#a33534d9fd70af99bbde1e4a908d22084", null ]
+    [ "npc_balance_of_light_and_shadowAI", "df/df5/a13850.html", "df/df5/a13850" ],
+    [ "npc_balance_of_light_and_shadow", "dd/db6/a13846.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "dd/db6/a13846.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

@@ -1,6 +1,7 @@
 var a12614 =
 [
-    [ "npc_rookery_hatcherAI", "d3/d70/a12618.html", "d3/d70/a12618" ],
-    [ "npc_rookery_hatcher", "d4/dbf/a12614.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
-    [ "GetAI", "d4/dbf/a12614.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
+    [ "boss_broodlord", "d4/dbf/a12614.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
+    [ "JustDied", "d4/dbf/a12614.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
+    [ "JustEngagedWith", "d4/dbf/a12614.html#acb7214857320945a646574b0130a9585", null ],
+    [ "UpdateAI", "d4/dbf/a12614.html#a5cdb166366938797de9d691096f0f155", null ]
 ];

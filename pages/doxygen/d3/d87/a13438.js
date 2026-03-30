@@ -1,11 +1,5 @@
 var a13438 =
 [
-    [ "npc_scarlet_ghoulAI", "d3/d87/a13438.html#a194795143717de5aa8f0ca4c4e516136", null ],
-    [ "InitializeAI", "d3/d87/a13438.html#ad0fd204d15350332508b0c9d9decefb1", null ],
-    [ "MovementInform", "d3/d87/a13438.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
-    [ "OwnerAttackedBy", "d3/d87/a13438.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
-    [ "SetGUID", "d3/d87/a13438.html#aa7f73c3a1ab4938c1037c0bdd38b6db1", null ],
-    [ "UpdateAI", "d3/d87/a13438.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
-    [ "events", "d3/d87/a13438.html#a105ac0982d28be590d514d2e452109c0", null ],
-    [ "gothikGUID", "d3/d87/a13438.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
+    [ "npc_apothecary_frye", "d3/d87/a13438.html#a5546099958a9a267d237e65720588456", null ],
+    [ "JustDied", "d3/d87/a13438.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
 ];

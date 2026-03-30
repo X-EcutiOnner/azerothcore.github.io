@@ -1,19 +1,16 @@
 var a19358 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d1/d5c/a19358.html#adbbf6f95a44678d914726fa52486228f", null ],
-    [ "DoAction", "d1/d5c/a19358.html#adaa7997c59f72f7823f232a6f455a0af", null ],
-    [ "JustDied", "d1/d5c/a19358.html#a00540cf0e82728e9df7c9c467bbe85b7", null ],
-    [ "JustReachedHome", "d1/d5c/a19358.html#afd30d6da8e6fc0e8a44876ea0a30f8ec", null ],
-    [ "JustSummoned", "d1/d5c/a19358.html#a1cba9c05581011ab431f163ffa1b05a7", null ],
-    [ "Reset", "d1/d5c/a19358.html#a055c417bea83de7a4ca61f304d89bb2f", null ],
-    [ "ScheduleBroodlings", "d1/d5c/a19358.html#a528438f30ae06119b09c69319e7c534a", null ],
-    [ "SpidersMoveDown", "d1/d5c/a19358.html#a8c92d94464461c36c97d435e8738323b", null ],
-    [ "SummonBroodling", "d1/d5c/a19358.html#a625cce7142666144af0d6f1e81f56979", null ],
-    [ "SummonedCreatureDies", "d1/d5c/a19358.html#aad2d9e8a269c62231b4d6bc907350a30", null ],
-    [ "SummonFrostwardens", "d1/d5c/a19358.html#a6f07ad3f631570b720ef5ecc91e80bf2", null ],
-    [ "SummonSpiders", "d1/d5c/a19358.html#afa30ecef9c1c29b55d6f9d4752396354", null ],
-    [ "UpdateAI", "d1/d5c/a19358.html#a141faa27c651b9d1512c6b5861f511d9", null ],
-    [ "events", "d1/d5c/a19358.html#a5f883ab0efea055ebb07e118ab857378", null ],
-    [ "instance", "d1/d5c/a19358.html#ac13065009325babb60746630518cfc3b", null ],
-    [ "summons", "d1/d5c/a19358.html#ad2203400007c842b181ab62ba710cc69", null ]
+    [ "boss_thaddiusAI", "d1/d5c/a19358.html#a8a25d56cb38b755fec6f18a9616632e2", null ],
+    [ "DoAction", "d1/d5c/a19358.html#aa9697fa990b9d84f3cc9496df1cb4234", null ],
+    [ "IsAnyPlayerInMeleeRange", "d1/d5c/a19358.html#aa5175bb29e16c1c421cf16207e890d57", null ],
+    [ "JustDied", "d1/d5c/a19358.html#a2ec7bfa46d972cdd857289693acdc965", null ],
+    [ "JustEngagedWith", "d1/d5c/a19358.html#a52ec355e0ddd2a29b06b473303941b46", null ],
+    [ "JustSummoned", "d1/d5c/a19358.html#a1aa9a09089a2070eda14fda1bc51f0fe", null ],
+    [ "KilledUnit", "d1/d5c/a19358.html#a94f7852267620b0a77c2e1003f080589", null ],
+    [ "Reset", "d1/d5c/a19358.html#ae7b69b5e83fdbaa3df25dda989eeaf07", null ],
+    [ "UpdateAI", "d1/d5c/a19358.html#a5eef08082268fa181d4d396fc952dbcd", null ],
+    [ "ballLightningEnabled", "d1/d5c/a19358.html#a487582d59f0d717c3ec53679ad36f99a", null ],
+    [ "resetTimer", "d1/d5c/a19358.html#aba9f23389d5f6724883dc9f7e607a351", null ],
+    [ "reviveTimer", "d1/d5c/a19358.html#a11388e745e81c3ad8ba7d97812a17203", null ],
+    [ "summonTimer", "d1/d5c/a19358.html#a82288ef27f720b5f0f84bfd0ac6b9ccb", null ]
 ];

@@ -1,6 +1,6 @@
 var a18254 =
 [
-    [ "npc_cult_adherentAI", "df/da5/a18258.html", "df/da5/a18258" ],
-    [ "npc_cult_adherent", "d4/d70/a18254.html#a74496518cf30674044a4a8a166e4c345", null ],
-    [ "GetAI", "d4/d70/a18254.html#a2bfe464c738c983b9539f9216cabd63a", null ]
+    [ "FilterTargets", "d4/d70/a18254.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "d4/d70/a18254.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "d4/d70/a18254.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

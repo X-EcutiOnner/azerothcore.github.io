@@ -1,6 +1,6 @@
 var a24830 =
 [
-    [ "CheckCast", "de/d2b/a24830.html#a8ab8394c56201264ac4f2d859dd52092", null ],
-    [ "PrepareSpellScript", "de/d2b/a24830.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
-    [ "Register", "de/d2b/a24830.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
+    [ "HandleEffectPeriodicUpdate", "de/d2b/a24830.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "de/d2b/a24830.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "de/d2b/a24830.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

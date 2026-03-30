@@ -1,7 +1,7 @@
 var a18434 =
 [
-    [ "HandleSummon", "d2/d7a/a18434.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d2/d7a/a18434.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d2/d7a/a18434.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d2/d7a/a18434.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "HandleScript", "d2/d7a/a18434.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
+    [ "PrepareSpellScript", "d2/d7a/a18434.html#a598baad08c685bba54ad5306e0d521b4", null ],
+    [ "Register", "d2/d7a/a18434.html#a471bac09c68708daefe6a39f283caa4c", null ],
+    [ "Validate", "d2/d7a/a18434.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
 ];

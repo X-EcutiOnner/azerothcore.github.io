@@ -1,7 +1,15 @@
 var a14886 =
 [
-    [ "HandleEffectApply", "d9/dc7/a14886.html#a22f3143b10155635194abe22994a397c", null ],
-    [ "HandleEffectRemove", "d9/dc7/a14886.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
-    [ "PrepareAuraScript", "d9/dc7/a14886.html#abb4f53a42e701323b2fc66598ec3503c", null ],
-    [ "Register", "d9/dc7/a14886.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "d9/dc7/a14886.html#aef8e98b85dfc93a1e9405fbbce084e3f", null ],
+    [ "Initialize", "d9/dc7/a14886.html#a11b698907ffea5dd1a165a35d2c23dd0", null ],
+    [ "IsFireEventDone", "d9/dc7/a14886.html#aadba63a6fa6025858e78712892e4a343", null ],
+    [ "OnCreatureCreate", "d9/dc7/a14886.html#ab5e452958bc474e60fd3f637595629c1", null ],
+    [ "OnGameObjectCreate", "d9/dc7/a14886.html#ae96ecf6e1b4ca99f2b3fc3ace5cbf81b", null ],
+    [ "OnUnitDeath", "d9/dc7/a14886.html#a163178ce8e79aa0bc082172465527173", null ],
+    [ "ReadSaveDataMore", "d9/dc7/a14886.html#a1b045bbe6c337e726158e64375fa9fe7", null ],
+    [ "SetData", "d9/dc7/a14886.html#a79fcee240fbd9190b0b66fd4bf7955d9", null ],
+    [ "WriteSaveDataMore", "d9/dc7/a14886.html#abaa419d432ef6d0d96487c8d9ebcb630", null ],
+    [ "_akumaiPortalGUID", "d9/dc7/a14886.html#a37b3647e927798d77a17f99976910b4b", null ],
+    [ "_encounters", "d9/dc7/a14886.html#a4cfd6047351fd144ba96627889a3e9cd", null ],
+    [ "_requiredDeaths", "d9/dc7/a14886.html#a3aade6e7fb756b84180876b4ba086376", null ]
 ];

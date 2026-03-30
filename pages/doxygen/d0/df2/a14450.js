@@ -1,6 +1,7 @@
 var a14450 =
 [
-    [ "boss_arlokkAI", "db/d86/a14454.html", "db/d86/a14454" ],
-    [ "boss_arlokk", "d0/df2/a14450.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "d0/df2/a14450.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "FilterTargets", "d0/df2/a14450.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
+    [ "HandleEffect", "d0/df2/a14450.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
+    [ "PrepareSpellScript", "d0/df2/a14450.html#a08127992c96fb02e87e9ade65a5375d5", null ],
+    [ "Register", "d0/df2/a14450.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
 ];

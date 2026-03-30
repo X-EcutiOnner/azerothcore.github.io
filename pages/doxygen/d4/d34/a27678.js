@@ -1,6 +1,6 @@
 var a27678 =
 [
-    [ "HandleBanish", "d4/d34/a27678.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "d4/d34/a27678.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "d4/d34/a27678.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "achievement_arena_by_type", "d4/d34/a27678.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d4/d34/a27678.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d4/d34/a27678.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

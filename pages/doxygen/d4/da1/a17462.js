@@ -1,9 +1,6 @@
 var a17462 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d4/da1/a17462.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "d4/da1/a17462.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "d4/da1/a17462.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "d4/da1/a17462.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "d4/da1/a17462.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "d4/da1/a17462.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "boss_prince_taldaramAI", "dc/d19/a17466.html", "dc/d19/a17466" ],
+    [ "boss_prince_taldaram_icc", "d4/da1/a17462.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "d4/da1/a17462.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

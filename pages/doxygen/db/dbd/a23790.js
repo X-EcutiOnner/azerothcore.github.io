@@ -1,6 +1,8 @@
 var a23790 =
 [
-    [ "HandleCast", "db/dbd/a23790.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "db/dbd/a23790.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "db/dbd/a23790.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "npc_captain_saeedAI", "dd/dd4/a23794.html", "dd/dd4/a23794" ],
+    [ "npc_captain_saeed", "db/dbd/a23790.html#a8a5bee9f908b10451b8d4720dff85670", null ],
+    [ "GetAI", "db/dbd/a23790.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
+    [ "OnGossipHello", "db/dbd/a23790.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
+    [ "OnGossipSelect", "db/dbd/a23790.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
 ];

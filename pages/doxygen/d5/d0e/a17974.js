@@ -1,7 +1,5 @@
 var a17974 =
 [
-    [ "FilterTargets", "d5/d0e/a17974.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "d5/d0e/a17974.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "d5/d0e/a17974.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "d5/d0e/a17974.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "at_lady_deathwhisper_entrance", "d5/d0e/a17974.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "d5/d0e/a17974.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

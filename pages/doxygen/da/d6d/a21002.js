@@ -1,7 +1,7 @@
 var a21002 =
 [
-    [ "HandleScriptEffect", "da/d6d/a21002.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "da/d6d/a21002.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "da/d6d/a21002.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "da/d6d/a21002.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "HandleDummy", "da/d6d/a21002.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "da/d6d/a21002.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "da/d6d/a21002.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "da/d6d/a21002.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

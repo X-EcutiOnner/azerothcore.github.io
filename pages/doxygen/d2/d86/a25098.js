@@ -1,6 +1,6 @@
 var a25098 =
 [
-    [ "CheckProc", "d2/d86/a25098.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
-    [ "PrepareAuraScript", "d2/d86/a25098.html#a861caa47c502c42fa84d9f9de74df024", null ],
-    [ "Register", "d2/d86/a25098.html#ab4275de186b6841a1f424863cb6c128c", null ]
+    [ "OnApply", "d2/d86/a25098.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
+    [ "PrepareAuraScript", "d2/d86/a25098.html#a159ee8a9b0af729ed01f7632adb58863", null ],
+    [ "Register", "d2/d86/a25098.html#a0f33043317402119aa14e50a1eb6c227", null ]
 ];

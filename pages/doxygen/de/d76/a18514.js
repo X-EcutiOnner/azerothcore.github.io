@@ -1,6 +1,6 @@
 var a18514 =
 [
-    [ "DespawnSelf", "de/d76/a18514.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "de/d76/a18514.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "de/d76/a18514.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "ModDestHeight", "de/d76/a18514.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
+    [ "PrepareSpellScript", "de/d76/a18514.html#a288f8917d73be30234e465778b1f6544", null ],
+    [ "Register", "de/d76/a18514.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
 ];

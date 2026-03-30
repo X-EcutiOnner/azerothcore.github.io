@@ -1,6 +1,7 @@
 var a27186 =
 [
-    [ "HandleDummy", "df/d57/a27186.html#a904038167c9ba270cb54cd6adbe22563", null ],
-    [ "PrepareSpellScript", "df/d57/a27186.html#a326656405c3400225a4ce10567c1c482", null ],
-    [ "Register", "df/d57/a27186.html#a2d83815d44543686525238723a3ab39a", null ]
+    [ "HandleProc", "df/d57/a27186.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
+    [ "PrepareAuraScript", "df/d57/a27186.html#a3a496539a6adddca91724d9cc77f81c3", null ],
+    [ "Register", "df/d57/a27186.html#a096f4ecd857cc642ff1d1e5119933921", null ],
+    [ "Validate", "df/d57/a27186.html#a1592084736ebe5b10a343aee4dba8050", null ]
 ];

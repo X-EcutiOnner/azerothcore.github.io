@@ -1,5 +1,6 @@
 var a25094 =
 [
-    [ "PrepareSpellScript", "db/d6c/a25094.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "db/d6c/a25094.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "HandleCast", "db/d6c/a25094.html#ac6f7b9650d0a55834dafb09555692243", null ],
+    [ "PrepareSpellScript", "db/d6c/a25094.html#ab3dc21aa63f0fb9202233603106eef87", null ],
+    [ "Register", "db/d6c/a25094.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
 ];

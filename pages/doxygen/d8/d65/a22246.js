@@ -1,8 +1,5 @@
 var a22246 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d8/d65/a22246.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "InitializeAI", "d8/d65/a22246.html#a6b99780951a126a97db88e7307c1d1b9", null ],
-    [ "JustEngagedWith", "d8/d65/a22246.html#ab95266d60769aa4099ca0f1bf678f237", null ],
-    [ "Reset", "d8/d65/a22246.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "UpdateAI", "d8/d65/a22246.html#abb28428b77beada6a378541ba11d090b", null ]
+    [ "OutdoorPvP_silithus", "d8/d65/a22246.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
+    [ "GetOutdoorPvP", "d8/d65/a22246.html#a126d6acc77218addd10072199ccd2470", null ]
 ];

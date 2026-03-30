@@ -1,6 +1,6 @@
 var a16150 =
 [
-    [ "npc_tyrande_whisperwind", "d4/d00/a16150.html#af716e954e59221d26ee88032e895fa18", null ],
-    [ "JustDied", "d4/d00/a16150.html#a707f6167de4eafc6d81613d0edc29436", null ],
-    [ "UpdateAI", "d4/d00/a16150.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
+    [ "HandlePeriodic", "d4/d00/a16150.html#ad22b433005b2678bde3516a01eaaaa60", null ],
+    [ "PrepareAuraScript", "d4/d00/a16150.html#a3711004edaef7242d9cae1f23f9b7467", null ],
+    [ "Register", "d4/d00/a16150.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
 ];

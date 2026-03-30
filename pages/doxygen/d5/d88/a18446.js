@@ -1,8 +1,7 @@
 var a18446 =
 [
-    [ "HandleScript", "d5/d88/a18446.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "d5/d88/a18446.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "d5/d88/a18446.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "d5/d88/a18446.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "d5/d88/a18446.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "OnPeriodic", "d5/d88/a18446.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "d5/d88/a18446.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "d5/d88/a18446.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "d5/d88/a18446.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

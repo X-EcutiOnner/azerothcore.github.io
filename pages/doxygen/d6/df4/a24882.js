@@ -1,10 +1,7 @@
 var a24882 =
 [
-    [ "Load", "d6/df4/a24882.html#a2c4e408e45995098b01a05815fffb34c", null ],
-    [ "OnApply", "d6/df4/a24882.html#acae1047046bb8f555d1798ca024a2650", null ],
-    [ "OnRemove", "d6/df4/a24882.html#aa01df2b86cf69508866f6e7d063c735a", null ],
-    [ "PrepareAuraScript", "d6/df4/a24882.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
-    [ "Register", "d6/df4/a24882.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
-    [ "Validate", "d6/df4/a24882.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
-    [ "_casterGUID", "d6/df4/a24882.html#a8047fb4309487c7a529047ec5148a2e3", null ]
+    [ "HandleEffectApply", "d6/df4/a24882.html#a2854357f92b1faac6e7840f1576138e0", null ],
+    [ "HandleEffectRemove", "d6/df4/a24882.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
+    [ "PrepareAuraScript", "d6/df4/a24882.html#a2120cecbca61e4c7380892fe8d43772a", null ],
+    [ "Register", "d6/df4/a24882.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
 ];

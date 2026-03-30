@@ -1,12 +1,7 @@
 var a12642 =
 [
-    [ "boss_thebeastAI", "d7/de8/a12642.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
-    [ "FindNearbyOrcs", "d7/de8/a12642.html#ad832a878880ac32e05d360262546422a", null ],
-    [ "JustEngagedWith", "d7/de8/a12642.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
-    [ "Reset", "d7/de8/a12642.html#abfa1bca308a02ef0e80d2baf11670305", null ],
-    [ "SetData", "d7/de8/a12642.html#a6f30ed7c0451613998660b258145f801", null ],
-    [ "UpdateAI", "d7/de8/a12642.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
-    [ "_beastReached", "d7/de8/a12642.html#a01271598b4b3c85a7066e66d8150e522", null ],
-    [ "_nearbyOrcsGUIDs", "d7/de8/a12642.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
-    [ "_orcYelled", "d7/de8/a12642.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
+    [ "boss_ebonroc", "d7/de8/a12642.html#a74725561727d5bf0dd266f50d377c9c8", null ],
+    [ "JustEngagedWith", "d7/de8/a12642.html#a84250d1bc0986130404433c80162ecac", null ],
+    [ "MovementInform", "d7/de8/a12642.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
+    [ "UpdateAI", "d7/de8/a12642.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
 ];

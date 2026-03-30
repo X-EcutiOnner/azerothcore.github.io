@@ -1,9 +1,7 @@
 var a14706 =
 [
-    [ "HandleEffectPeriodic", "d6/d68/a14706.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
-    [ "HandleEffectRemove", "d6/d68/a14706.html#a96ed7366e568b70e82d622586740aa56", null ],
-    [ "Load", "d6/d68/a14706.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
-    [ "PrepareAuraScript", "d6/d68/a14706.html#abd1f851112a50b79e815cdd894275bab", null ],
-    [ "Register", "d6/d68/a14706.html#aa3cd85aed063017c4737e7660fa81f37", null ],
-    [ "questTick", "d6/d68/a14706.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
+    [ "go_loosely_turned_soilAI", "d4/de3/a14710.html", "d4/de3/a14710" ],
+    [ "go_loosely_turned_soil", "d6/d68/a14706.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "d6/d68/a14706.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "d6/d68/a14706.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];

@@ -1,7 +1,6 @@
 var a12818 =
 [
-    [ "HandleDummy", "df/da4/a12818.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "df/da4/a12818.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "df/da4/a12818.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "df/da4/a12818.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "boss_shazzrah", "df/da4/a12818.html#a9886c4c93017936beae1babacffa76a2", null ],
+    [ "ExecuteEvent", "df/da4/a12818.html#a2d8ab48c6abb3e0334ef54e0b918ff27", null ],
+    [ "JustEngagedWith", "df/da4/a12818.html#aa23aecbb28a9bb1fc138691f143f8e53", null ]
 ];

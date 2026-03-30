@@ -1,12 +1,9 @@
 var a20358 =
 [
-    [ "boss_freya_elder_stonebark", "d2/dd7/a20358.html#ad379afe772ff29d689bc763786d28793", null ],
-    [ "DamageTaken", "d2/dd7/a20358.html#a1a6b9897ffff95b29de351d02411f216", null ],
-    [ "JustDied", "d2/dd7/a20358.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
-    [ "JustEngagedWith", "d2/dd7/a20358.html#a363a639d65fb746cca3410427f8a1e10", null ],
-    [ "KilledUnit", "d2/dd7/a20358.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
-    [ "Reset", "d2/dd7/a20358.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
-    [ "UpdateAI", "d2/dd7/a20358.html#a913cd147d5a88189e183d817357946e3", null ],
-    [ "_chargesCount", "d2/dd7/a20358.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
-    [ "events", "d2/dd7/a20358.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
+    [ "HandleEffectPeriodic", "d2/dd7/a20358.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "d2/dd7/a20358.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "d2/dd7/a20358.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "d2/dd7/a20358.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "d2/dd7/a20358.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "d2/dd7/a20358.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

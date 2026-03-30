@@ -1,6 +1,9 @@
 var a13778 =
 [
-    [ "FilterTargets", "db/db6/a13778.html#a78675c3421e0243de9e136b646c56be1", null ],
-    [ "PrepareSpellScript", "db/db6/a13778.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
-    [ "Register", "db/db6/a13778.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
+    [ "spell_sunwell_teleport", "db/db6/a13778.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "db/db6/a13778.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "db/db6/a13778.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "db/db6/a13778.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "db/db6/a13778.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "db/db6/a13778.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

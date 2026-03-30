@@ -1,5 +1,5 @@
 var a28014 =
 [
-    [ "achievement_killed_exp_or_honor_target", "d6/d14/a28014.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "d6/d14/a28014.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "go_massive_seaforium_charge", "d6/d14/a28014.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "d6/d14/a28014.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

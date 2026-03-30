@@ -1,10 +1,6 @@
 var a16058 =
 [
-    [ "CreatureId", "d7/d3b/a16058.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
-    [ "DespTimer", "d7/d3b/a16058.html#a0dfec745982b346ac1cd0af672be31fb", null ],
-    [ "SpawnCount", "d7/d3b/a16058.html#ad5347ee83eaa00fe0721279099c48433", null ],
-    [ "SpawnTimer", "d7/d3b/a16058.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
-    [ "UsedSpawnPoint", "d7/d3b/a16058.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
-    [ "WaveTextId", "d7/d3b/a16058.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
-    [ "YellTimer", "d7/d3b/a16058.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
+    [ "npc_weegli_blastfuseAI", "db/db5/a16062.html", "db/db5/a16062" ],
+    [ "npc_weegli_blastfuse", "d7/d3b/a16058.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
+    [ "GetAI", "d7/d3b/a16058.html#a701681d8771756dac20d30c2e03a1349", null ]
 ];

@@ -1,8 +1,6 @@
 var a22018 =
 [
-    [ "AfterApply", "db/d28/a22018.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "db/d28/a22018.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "db/d28/a22018.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "db/d28/a22018.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "db/d28/a22018.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "HandleScript", "db/d28/a22018.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
+    [ "PrepareSpellScript", "db/d28/a22018.html#af0f5206d98dbc9de355abbeb03709c05", null ],
+    [ "Register", "db/d28/a22018.html#a53d9d7de4922ed6509b6036921640352", null ]
 ];

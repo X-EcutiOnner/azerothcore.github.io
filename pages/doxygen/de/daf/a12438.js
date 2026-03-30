@@ -1,14 +1,11 @@
 var a12438 =
 [
-    [ "boss_general_angerforgeAI", "de/daf/a12438.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
-    [ "JustEngagedWith", "de/daf/a12438.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
-    [ "Reset", "de/daf/a12438.html#aff55a804bdca840016e0f6b1d11f7106", null ],
-    [ "SummonAdds", "de/daf/a12438.html#a218f4de2d057505f60b2977835e5fd91", null ],
-    [ "SummonMedics", "de/daf/a12438.html#aeabe71bde9b03a944beedeac68cffd19", null ],
-    [ "UpdateAI", "de/daf/a12438.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
-    [ "Adds_Timer", "de/daf/a12438.html#a069f0008735b38c249ddfe5246025438", null ],
-    [ "Cleave_Timer", "de/daf/a12438.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
-    [ "HamString_Timer", "de/daf/a12438.html#a04c51b1400d17454ca529d6aa257697b", null ],
-    [ "Medics", "de/daf/a12438.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
-    [ "MightyBlow_Timer", "de/daf/a12438.html#aeea6bb264e2d175d1906d8606eced529", null ]
+    [ "boss_emperor_dagran_thaurissan", "de/daf/a12438.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
+    [ "JustDied", "de/daf/a12438.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
+    [ "JustEngagedWith", "de/daf/a12438.html#a182564d95dc677ea33e47995638a9a58", null ],
+    [ "KilledUnit", "de/daf/a12438.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
+    [ "SetData", "de/daf/a12438.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
+    [ "UpdateAI", "de/daf/a12438.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
+    [ "hasYelled", "de/daf/a12438.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
+    [ "SenatorYells", "de/daf/a12438.html#ad94aef1875a5a863f78dc84a964638f9", null ]
 ];

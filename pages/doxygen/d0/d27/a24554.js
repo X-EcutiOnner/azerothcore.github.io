@@ -1,7 +1,9 @@
 var a24554 =
 [
-    [ "CheckProc", "d0/d27/a24554.html#a7d829589ea098e002206b72f789c95df", null ],
-    [ "PrepareAuraScript", "d0/d27/a24554.html#a04258b702d79372c0e9c2e1845a6563e", null ],
-    [ "Register", "d0/d27/a24554.html#af62e0a7a43a6762e8e067931e7ec09af", null ],
-    [ "Validate", "d0/d27/a24554.html#a56eaad6f2b1d14cea5fe3f7f27cdb877", null ]
+    [ "FilterTargets", "d0/d27/a24554.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "d0/d27/a24554.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "d0/d27/a24554.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "d0/d27/a24554.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "d0/d27/a24554.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "d0/d27/a24554.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

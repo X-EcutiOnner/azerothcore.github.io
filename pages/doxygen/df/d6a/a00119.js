@@ -1,9 +1,6 @@
 var a00119 =
 [
-    [ "getAngle", "df/d6a/a00119.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
-    [ "getCircleAreaByRadius", "df/d6a/a00119.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
-    [ "getCirclePerimeterByRadius", "df/d6a/a00119.html#a62641094ea3c1b9506faefa7a35ba456", null ],
-    [ "getCylinderVolume", "df/d6a/a00119.html#a95ce6760beb476a4c24ff46d3069103f", null ],
-    [ "getSlopeAngle", "df/d6a/a00119.html#a61d2d33d44f335480a833a04436620ba", null ],
-    [ "getSlopeAngleAbs", "df/d6a/a00119.html#a0b02845f56a27df498d0598d259ca5e1", null ]
+    [ "GetRandomBytes", "df/d6a/a00119.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
+    [ "GetRandomBytes", "df/d6a/a00119.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
+    [ "GetRandomBytes", "df/d6a/a00119.html#a2ff283a7b883696205a91f122b194f6f", null ]
 ];

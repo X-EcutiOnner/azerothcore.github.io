@@ -1,8 +1,7 @@
 var a27142 =
 [
-    [ "Load", "d3/d82/a27142.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
-    [ "OnRemove", "d3/d82/a27142.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
-    [ "PrepareAuraScript", "d3/d82/a27142.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
-    [ "Register", "d3/d82/a27142.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
-    [ "Validate", "d3/d82/a27142.html#a3820e716d20809896c84c1ca781af4d1", null ]
+    [ "HandleDummy", "d3/d82/a27142.html#a96c5064738653ce16f06634196218a88", null ],
+    [ "PrepareSpellScript", "d3/d82/a27142.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
+    [ "Register", "d3/d82/a27142.html#a080969e035143ac8527443025dbacef2", null ],
+    [ "Validate", "d3/d82/a27142.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
 ];

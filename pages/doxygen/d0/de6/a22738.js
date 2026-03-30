@@ -1,7 +1,9 @@
 var a22738 =
 [
-    [ "npc_blade_of_azzinoth", "d0/de6/a22738.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "d0/de6/a22738.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "d0/de6/a22738.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "d0/de6/a22738.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "HandleEffectApply", "d0/de6/a22738.html#aca8ff864832d30e45bccfca12256560a", null ],
+    [ "HandleEffectRemove", "d0/de6/a22738.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
+    [ "Load", "d0/de6/a22738.html#a3b9838f26673ce344ca40f9f487ef878", null ],
+    [ "PrepareAuraScript", "d0/de6/a22738.html#a79b93c86a01d31d08cba15436856b794", null ],
+    [ "Register", "d0/de6/a22738.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
+    [ "_turtleSet", "d0/de6/a22738.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
 ];

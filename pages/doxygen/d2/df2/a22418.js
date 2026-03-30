@@ -1,5 +1,6 @@
 var a22418 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "d2/df2/a22418.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "d2/df2/a22418.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "HandleScriptEffect", "d2/df2/a22418.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "d2/df2/a22418.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "d2/df2/a22418.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

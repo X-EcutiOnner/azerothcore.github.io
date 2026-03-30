@@ -1,7 +1,12 @@
 var a09462 =
 [
-    [ "CreatureRelocationNotifier", "d3/d21/a09462.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
-    [ "Visit", "d3/d21/a09462.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
-    [ "Visit", "d3/d21/a09462.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
-    [ "i_creature", "d3/d21/a09462.html#a3116f6245816ba8fb9edb5995faa9927", null ]
+    [ "VisibleNotifier", "d3/d21/a09462.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "d3/d21/a09462.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "d3/d21/a09462.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "d3/d21/a09462.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "d3/d21/a09462.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "d3/d21/a09462.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "d3/d21/a09462.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "d3/d21/a09462.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "d3/d21/a09462.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

@@ -1,6 +1,6 @@
 var a17450 =
 [
-    [ "npc_hor_raging_ghoulAI", "de/d40/a17454.html", "de/d40/a17454" ],
-    [ "npc_hor_raging_ghoul", "db/d39/a17450.html#ad2130edf27295719c46dde14deefe5a4", null ],
-    [ "GetAI", "db/d39/a17450.html#ab29cebad1d54d14ecf21bbd215dc2f2d", null ]
+    [ "ShockVortexExplodeEvent", "db/d39/a17450.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "db/d39/a17450.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "db/d39/a17450.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

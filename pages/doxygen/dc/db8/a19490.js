@@ -1,6 +1,14 @@
 var a19490 =
 [
-    [ "boss_gluthAI", "d5/d5a/a19494.html", "d5/d5a/a19494" ],
-    [ "boss_gluth", "dc/db8/a19490.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
-    [ "GetAI", "dc/db8/a19490.html#a3b19c938aaecc897d6552715064be7f8", null ]
+    [ "boss_keristrasza", "dc/db8/a19490.html#a5f83fee9a5616751601f0c1155afab36", null ],
+    [ "CanRemovePrison", "dc/db8/a19490.html#a900a4a8428a04b880462b20196e94858", null ],
+    [ "GetData", "dc/db8/a19490.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
+    [ "JustDied", "dc/db8/a19490.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
+    [ "JustEngagedWith", "dc/db8/a19490.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
+    [ "KilledUnit", "dc/db8/a19490.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
+    [ "RemovePrison", "dc/db8/a19490.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
+    [ "Reset", "dc/db8/a19490.html#a13dce974fa83577397a80ff52de5d835", null ],
+    [ "SetData", "dc/db8/a19490.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
+    [ "UpdateAI", "dc/db8/a19490.html#a46a2e61e27cc72710c7aa14212673eae", null ],
+    [ "aGuids", "dc/db8/a19490.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
 ];

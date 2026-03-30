@@ -1,13 +1,12 @@
 var a10394 =
 [
-    [ "entry", "dc/dc1/a10394.html#a300fb240386044aab139e777d6244d19", null ],
-    [ "map", "dc/dc1/a10394.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
-    [ "o", "dc/dc1/a10394.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
-    [ "rot0", "dc/dc1/a10394.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
-    [ "rot1", "dc/dc1/a10394.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
-    [ "rot2", "dc/dc1/a10394.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
-    [ "rot3", "dc/dc1/a10394.html#a60460fc3030b24eef0246dae28af2282", null ],
-    [ "x", "dc/dc1/a10394.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
-    [ "y", "dc/dc1/a10394.html#ab42ebe981ba589e3d67110487bd88255", null ],
-    [ "z", "dc/dc1/a10394.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
+    [ "FacingInfo", "dc/dc1/a10394.html#a1ac825c359704924c66e46eada64e34e", null ],
+    [ "FacingInfo", "dc/dc1/a10394.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
+    [ "FacingInfo", "dc/dc1/a10394.html#add6411db27c1d313d2f133adf0c35755", null ],
+    [ "angle", "dc/dc1/a10394.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
+    [ "f", "dc/dc1/a10394.html#a33b4342a205eae9aca04ae0129365a61", null ],
+    [ "target", "dc/dc1/a10394.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
+    [ "x", "dc/dc1/a10394.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
+    [ "y", "dc/dc1/a10394.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
+    [ "z", "dc/dc1/a10394.html#a5ff017b732d47684f675041e44227754", null ]
 ];

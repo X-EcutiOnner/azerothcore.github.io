@@ -1,7 +1,7 @@
 var a27286 =
 [
-    [ "CalcPeriodic", "de/da3/a27286.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "de/da3/a27286.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "de/da3/a27286.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "de/da3/a27286.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "HandleProc", "de/da3/a27286.html#a8f2bbc26b297039a02a7f1a8ce7d79e3", null ],
+    [ "PrepareAuraScript", "de/da3/a27286.html#aa55d2774f59d8e8435facba876521236", null ],
+    [ "Register", "de/da3/a27286.html#a3fb6281aa70ce55d4b020e24c747a7f3", null ],
+    [ "Validate", "de/da3/a27286.html#a09492d02ca945634ca8c4620debbefa8", null ]
 ];

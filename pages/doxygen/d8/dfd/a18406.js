@@ -1,7 +1,6 @@
 var a18406 =
 [
-    [ "HandleTriggerSpell", "d8/dfd/a18406.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "d8/dfd/a18406.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "d8/dfd/a18406.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "d8/dfd/a18406.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "boss_the_lich_kingAI", "dc/d16/a18410.html", "dc/d16/a18410" ],
+    [ "boss_the_lich_king", "d8/dfd/a18406.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "d8/dfd/a18406.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

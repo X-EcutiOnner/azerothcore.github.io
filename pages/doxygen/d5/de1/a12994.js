@@ -1,7 +1,5 @@
 var a12994 =
 [
-    [ "HandleScript", "d5/de1/a12994.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "d5/de1/a12994.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "d5/de1/a12994.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "d5/de1/a12994.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "at_karazhan_atiesh_aran", "d5/de1/a12994.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
+    [ "OnTrigger", "d5/de1/a12994.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
 ];

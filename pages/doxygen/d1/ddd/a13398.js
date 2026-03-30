@@ -1,12 +1,7 @@
 var a13398 =
 [
-    [ "boss_vexallus", "d1/ddd/a13398.html#a68c32ed70274e9f135b7a9107f888c91", null ],
-    [ "JustDied", "d1/ddd/a13398.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
-    [ "JustEngagedWith", "d1/ddd/a13398.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
-    [ "JustSummoned", "d1/ddd/a13398.html#a9bc7808889da754bae9c935418975f90", null ],
-    [ "KilledUnit", "d1/ddd/a13398.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
-    [ "Reset", "d1/ddd/a13398.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
-    [ "SummonedCreatureDies", "d1/ddd/a13398.html#a4bd88222143d8db098312cff8a2fc969", null ],
-    [ "_energyCooldown", "d1/ddd/a13398.html#a395d2186d70d1b7e29dbada7750da354", null ],
-    [ "_energyCount", "d1/ddd/a13398.html#a4afa4a245b8863c7b0898773932642c8", null ]
+    [ "HandleScript", "d1/ddd/a13398.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
+    [ "PrepareSpellScript", "d1/ddd/a13398.html#a034195e58f02225c172b70c3967fe3ad", null ],
+    [ "Register", "d1/ddd/a13398.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
+    [ "Validate", "d1/ddd/a13398.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
 ];

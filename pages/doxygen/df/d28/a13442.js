@@ -1,6 +1,8 @@
 var a13442 =
 [
-    [ "npc_dkc1_gothikAI", "d4/daf/a13446.html", "d4/daf/a13446" ],
-    [ "npc_dkc1_gothik", "df/d28/a13442.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
-    [ "GetAI", "df/d28/a13442.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
+    [ "npc_apothecary_baxter", "df/d28/a13442.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
+    [ "JustDied", "df/d28/a13442.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
+    [ "Reset", "df/d28/a13442.html#afee5103029bd761c48cbf6a11655c44a", null ],
+    [ "UpdateAI", "df/d28/a13442.html#ad06090f599d0fda3a88f3182c990a49f", null ],
+    [ "_scheduler", "df/d28/a13442.html#a6d813041e055f3c2b28be7cba3acde13", null ]
 ];

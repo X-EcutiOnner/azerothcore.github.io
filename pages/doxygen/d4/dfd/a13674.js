@@ -1,7 +1,11 @@
 var a13674 =
 [
-    [ "OnPeriodic", "d4/dfd/a13674.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "d4/dfd/a13674.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "d4/dfd/a13674.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "d4/dfd/a13674.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "npc_kalecgos_kj", "d4/dfd/a13674.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
+    [ "DoAction", "d4/dfd/a13674.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
+    [ "JustSummoned", "d4/dfd/a13674.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
+    [ "Reset", "d4/dfd/a13674.html#ab3cd4229999bddc16fe8152acb187111", null ],
+    [ "UpdateAI", "d4/dfd/a13674.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
+    [ "events", "d4/dfd/a13674.html#ab5cc58e293e20172558e15fa28670633", null ],
+    [ "instance", "d4/dfd/a13674.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
+    [ "summons", "d4/dfd/a13674.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
 ];

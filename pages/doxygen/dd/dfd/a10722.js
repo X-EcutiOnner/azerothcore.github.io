@@ -1,15 +1,6 @@
 var a10722 =
 [
-    [ "MapScript", "dd/dfd/a10722.html#a1932ac48acf7c937c060ee35804e79da", null ],
-    [ "checkMap", "dd/dfd/a10722.html#abf3fbb90119e1ac5d13455217ac95a2f", null ],
-    [ "GetEntry", "dd/dfd/a10722.html#aa2da3eeec627cb67719d774d35f03488", null ],
-    [ "OnCreate", "dd/dfd/a10722.html#a8132edffb918e8b3b1131ae29a8d9e9b", null ],
-    [ "OnDestroy", "dd/dfd/a10722.html#a4631768d457c2804f057c565d6e8fb7a", null ],
-    [ "OnLoadGridMap", "dd/dfd/a10722.html#a77381401d4638c6149f21836f1ca6676", null ],
-    [ "OnPlayerEnter", "dd/dfd/a10722.html#a9cef8253d591e729b4119312ec0b670a", null ],
-    [ "OnPlayerLeave", "dd/dfd/a10722.html#a3d74ae0f2535cda31cf2d4125600f3e2", null ],
-    [ "OnUnloadGridMap", "dd/dfd/a10722.html#a657bcd69e932d358e2c66daa6f571cfe", null ],
-    [ "OnUpdate", "dd/dfd/a10722.html#a4e447511780a0c561e16b9e118361f63", null ],
-    [ "_mapEntry", "dd/dfd/a10722.html#a280ca8d9bfa672c10d34a99db53d2959", null ],
-    [ "_mapId", "dd/dfd/a10722.html#a1cbe9ae08f6e1c129df8d2277366eb1a", null ]
+    [ "WeatherScript", "dd/dfd/a10722.html#a4f86b051364c95f5389d7ed473429b7b", null ],
+    [ "IsDatabaseBound", "dd/dfd/a10722.html#a2547902149ce080711ccacb709b10e8a", null ],
+    [ "OnChange", "dd/dfd/a10722.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
 ];

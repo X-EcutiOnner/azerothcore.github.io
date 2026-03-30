@@ -1,6 +1,7 @@
 var a21982 =
 [
-    [ "npc_attracted_reef_bullAI", "da/d93/a21982.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "da/d93/a21982.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "da/d93/a21982.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "npc_hyldsmeet_protodrake", "da/d93/a21982.html#a409a5f5eace583ef874421819c975ed8", null ],
+    [ "PassengerBoarded", "da/d93/a21982.html#a0067d3b394c967946e329ea25c2dc315", null ],
+    [ "UpdateAI", "da/d93/a21982.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
+    [ "_accessoryRespawnTimer", "da/d93/a21982.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
 ];

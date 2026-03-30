@@ -1,6 +1,7 @@
 var a24282 =
 [
-    [ "PrepareSpellScript", "dd/d1c/a24282.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "dd/d1c/a24282.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "dd/d1c/a24282.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "CheckCast", "dd/d1c/a24282.html#ab215bbeea333d250ecbff0482f4f0966", null ],
+    [ "FilterTargets", "dd/d1c/a24282.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
+    [ "PrepareSpellScript", "dd/d1c/a24282.html#a83447d184bb2299987d0c54d5af4c910", null ],
+    [ "Register", "dd/d1c/a24282.html#a6107ba00471dd346c363db80fe81b698", null ]
 ];

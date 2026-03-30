@@ -1,6 +1,7 @@
 var a18114 =
 [
-    [ "npc_gunship_mageAI", "de/d37/a18118.html", "de/d37/a18118" ],
-    [ "npc_gunship_mage", "df/d8c/a18114.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
-    [ "GetAI", "df/d8c/a18114.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
+    [ "CheckRequirement", "df/d8c/a18114.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
+    [ "CheckRequirementInternal", "df/d8c/a18114.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
+    [ "PrepareSpellScript", "df/d8c/a18114.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
+    [ "Register", "df/d8c/a18114.html#a95a250aeb3a41922c529f476d39f18e4", null ]
 ];

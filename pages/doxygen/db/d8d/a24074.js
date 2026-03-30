@@ -1,7 +1,8 @@
 var a24074 =
 [
-    [ "npc_kurenai_captiveAI", "d6/df6/a24078.html", "d6/df6/a24078" ],
-    [ "npc_kurenai_captive", "db/d8d/a24074.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
-    [ "GetAI", "db/d8d/a24074.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
-    [ "OnQuestAccept", "db/d8d/a24074.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
+    [ "npc_pet_gen_valkyr_guardian", "db/d8d/a24074.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "db/d8d/a24074.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "db/d8d/a24074.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "db/d8d/a24074.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "db/d8d/a24074.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

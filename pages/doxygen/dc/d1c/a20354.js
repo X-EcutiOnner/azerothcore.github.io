@@ -1,25 +1,7 @@
 var a20354 =
 [
-    [ "boss_freya", "dc/d1c/a20354.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "dc/d1c/a20354.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
-    [ "DamageTaken", "dc/d1c/a20354.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
-    [ "DoAction", "dc/d1c/a20354.html#a099f983a17e002990aaecbb0995bb3b0", null ],
-    [ "GetData", "dc/d1c/a20354.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
-    [ "JustEngagedWith", "dc/d1c/a20354.html#a85a00b03079df9ce9b8fa035820c959b", null ],
-    [ "JustReachedHome", "dc/d1c/a20354.html#a577c8714fef829a57533c1cfbd400dc0", null ],
-    [ "JustSummoned", "dc/d1c/a20354.html#a24e4d87c3007c1c17c0d3c7c9bf68d79", null ],
-    [ "KilledUnit", "dc/d1c/a20354.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
-    [ "Reset", "dc/d1c/a20354.html#abadf6447f33116039e82065ce44f4322", null ],
-    [ "SpawnWave", "dc/d1c/a20354.html#af1f486e8725a2710b237fe233f7fe181", null ],
-    [ "SpellHit", "dc/d1c/a20354.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
-    [ "SpellHitTarget", "dc/d1c/a20354.html#a22c4097731727de032fd6db3c9cef7cf", null ],
-    [ "UpdateAI", "dc/d1c/a20354.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
-    [ "_backToNature", "dc/d1c/a20354.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
-    [ "_deforestation", "dc/d1c/a20354.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
-    [ "_elderGUID", "dc/d1c/a20354.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
-    [ "_lumberjacked", "dc/d1c/a20354.html#aa35101951b2d47848b69170ab36ae414", null ],
-    [ "_respawningTrio", "dc/d1c/a20354.html#a9e0326bd0eff372fca2b5e0e310dd1da", null ],
-    [ "_spawnedAmount", "dc/d1c/a20354.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
-    [ "_trioKilled", "dc/d1c/a20354.html#ae141a7cf3554c606738774fe96a371dc", null ],
-    [ "_waveNumber", "dc/d1c/a20354.html#af4e2576558c3c15303245f76c6e30aa0", null ]
+    [ "HandleEffectPeriodic", "dc/d1c/a20354.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "dc/d1c/a20354.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "dc/d1c/a20354.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "dc/d1c/a20354.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

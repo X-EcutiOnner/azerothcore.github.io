@@ -1,7 +1,12 @@
 var a17622 =
 [
-    [ "HandleEffectPeriodic", "d6/d62/a17622.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "d6/d62/a17622.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "d6/d62/a17622.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "d6/d62/a17622.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "npc_high_overlord_saurfangAI", "d6/d62/a17622.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "d6/d62/a17622.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "d6/d62/a17622.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "d6/d62/a17622.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "d6/d62/a17622.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "d6/d62/a17622.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "d6/d62/a17622.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "d6/d62/a17622.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "d6/d62/a17622.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

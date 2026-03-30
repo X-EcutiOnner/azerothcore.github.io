@@ -1,9 +1,7 @@
 var a23010 =
 [
-    [ "boss_najentus", "dc/dc6/a23010.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "dc/dc6/a23010.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "dc/dc6/a23010.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "dc/dc6/a23010.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "dc/dc6/a23010.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
-    [ "_canTalk", "dc/dc6/a23010.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "PeriodicTick", "dc/dc6/a23010.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "dc/dc6/a23010.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "dc/dc6/a23010.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "dc/dc6/a23010.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

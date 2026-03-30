@@ -1,7 +1,7 @@
 var a15302 =
 [
-    [ "npc_cos_chromie_middle", "da/d06/a15302.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "da/d06/a15302.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "da/d06/a15302.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "da/d06/a15302.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "go_sand_trap", "da/d06/a15302.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "da/d06/a15302.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "da/d06/a15302.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "da/d06/a15302.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

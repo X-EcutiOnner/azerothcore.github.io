@@ -1,7 +1,9 @@
 var a20426 =
 [
-    [ "HandleAfterHit", "d2/d22/a20426.html#a75953cbb3a288fd373e602ed07d84441", null ],
-    [ "PrepareSpellScript", "d2/d22/a20426.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
-    [ "Register", "d2/d22/a20426.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
-    [ "Validate", "d2/d22/a20426.html#aea2b951dd2353800958f654df58d8fd8", null ]
+    [ "npc_ulduar_dark_rune_watcher", "d2/d22/a20426.html#aaddea3969eaab06df6b7e5d08f6ad626", null ],
+    [ "CanAIAttack", "d2/d22/a20426.html#ae87ae4e671855f9e18eef6ba7f455463", null ],
+    [ "Reset", "d2/d22/a20426.html#a66ac44c21691994b0b45c096dd7a0d56", null ],
+    [ "UpdateAI", "d2/d22/a20426.html#a008399ff99fbf7c298485450cd3bd4e3", null ],
+    [ "timer1", "d2/d22/a20426.html#a8e7520f4f33604ebd8177b12ca610ea3", null ],
+    [ "timer2", "d2/d22/a20426.html#a1be016384a7fd92e96786ff6caf6c77d", null ]
 ];

@@ -1,5 +1,7 @@
 var a20698 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_12", "df/d9d/a20698.html#adc7f5769894c59710fa70604878b1e2c", null ],
-    [ "OnCheck", "df/d9d/a20698.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
+    [ "HandleScriptEffect", "df/d9d/a20698.html#a173ee086127655cdfcca507fd5b15b2e", null ],
+    [ "PrepareSpellScript", "df/d9d/a20698.html#a005d47b18a820c35ec596b5539db94eb", null ],
+    [ "Register", "df/d9d/a20698.html#a20a0d554e80707c1517422cb747f38e8", null ],
+    [ "Validate", "df/d9d/a20698.html#a5ca44686e26def56adc2b98d88145235", null ]
 ];

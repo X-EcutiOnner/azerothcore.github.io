@@ -1,8 +1,5 @@
 var a22362 =
 [
-    [ "npc_wg_queueAI", "dc/d74/a22366.html", "dc/d74/a22366" ],
-    [ "npc_wg_queue", "dd/dac/a22362.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "dd/dac/a22362.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "dd/dac/a22362.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "dd/dac/a22362.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "dd/dac/a22362.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "dd/dac/a22362.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

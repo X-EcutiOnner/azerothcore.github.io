@@ -1,6 +1,6 @@
 var a20202 =
 [
-    [ "achievement_assembly_of_iron", "df/d0d/a20202.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "df/d0d/a20202.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "df/d0d/a20202.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "HandleAfterEffectApply", "df/d0d/a20202.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "PrepareAuraScript", "df/d0d/a20202.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "df/d0d/a20202.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
 ];

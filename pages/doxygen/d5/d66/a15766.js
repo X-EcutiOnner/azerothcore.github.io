@@ -1,6 +1,6 @@
 var a15766 =
 [
-    [ "OnPeriodic", "d5/d66/a15766.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "d5/d66/a15766.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "d5/d66/a15766.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "npcs_riverbreeze_and_silversky", "d5/d66/a15766.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "d5/d66/a15766.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "d5/d66/a15766.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

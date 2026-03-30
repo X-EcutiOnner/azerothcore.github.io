@@ -1,7 +1,8 @@
 var a24106 =
 [
-    [ "npc_bessyAI", "d3/d25/a24110.html", "d3/d25/a24110" ],
-    [ "npc_bessy", "de/d80/a24106.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "de/d80/a24106.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "de/d80/a24106.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "npc_pet_darting_hatchling", "de/d80/a24106.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "de/d80/a24106.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "de/d80/a24106.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "de/d80/a24106.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "de/d80/a24106.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

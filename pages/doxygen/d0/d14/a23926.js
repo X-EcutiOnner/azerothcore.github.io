@@ -1,6 +1,6 @@
 var a23926 =
 [
-    [ "HandlePeriodic", "d0/d14/a23926.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
-    [ "PrepareAuraScript", "d0/d14/a23926.html#a438425f3002028a0978e0dbab580ca03", null ],
-    [ "Register", "d0/d14/a23926.html#af4b26607e8838b7bbbe8777f57601341", null ]
+    [ "npc_enraged_spiritAI", "d6/d03/a23930.html", "d6/d03/a23930" ],
+    [ "npc_enraged_spirit", "d0/d14/a23926.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d0/d14/a23926.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

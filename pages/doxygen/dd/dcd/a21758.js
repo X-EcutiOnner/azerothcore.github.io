@@ -1,12 +1,8 @@
 var a21758 =
 [
-    [ "npc_wintergarde_gryphon", "dd/dcd/a21758.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
-    [ "getVillager", "dd/dcd/a21758.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
-    [ "IsSummonedBy", "dd/dcd/a21758.html#acd7cea6226034d53b854c5ed659ff949", null ],
-    [ "JustDied", "dd/dcd/a21758.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
-    [ "MovementInform", "dd/dcd/a21758.html#a8f2faf49533d27d971110681e050c060", null ],
-    [ "PassengerBoarded", "dd/dcd/a21758.html#a16c01d26aef06358f979f59fe68c09ca", null ],
-    [ "SpellHit", "dd/dcd/a21758.html#acf64143ea83321556156fde30e1a34d4", null ],
-    [ "UpdateAI", "dd/dcd/a21758.html#aa161f280e7a7370696cecc27c51ee55c", null ],
-    [ "villagerGUID", "dd/dcd/a21758.html#a56a7973a05061197192111ecf55ef14a", null ]
+    [ "npc_llod_genericAI", "dd/dcd/a21758.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "dd/dcd/a21758.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "dd/dcd/a21758.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "dd/dcd/a21758.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "dd/dcd/a21758.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

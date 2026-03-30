@@ -1,8 +1,12 @@
 var a13854 =
 [
-    [ "CheckCast", "d3/d19/a13854.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
-    [ "HandleScriptEffect", "d3/d19/a13854.html#a22f630cb9df4b435a5624f2865915753", null ],
-    [ "PrepareSpellScript", "d3/d19/a13854.html#a6e6b27ade1cac743946a976dbf343066", null ],
-    [ "Register", "d3/d19/a13854.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
-    [ "Validate", "d3/d19/a13854.html#a85779288126b21f516f2feb0238ee65b", null ]
+    [ "npc_cameron", "d3/d19/a13854.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "d3/d19/a13854.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "d3/d19/a13854.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "d3/d19/a13854.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "d3/d19/a13854.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "d3/d19/a13854.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "d3/d19/a13854.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "d3/d19/a13854.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "d3/d19/a13854.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

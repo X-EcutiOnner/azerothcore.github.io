@@ -1,9 +1,5 @@
 var a12294 =
 [
-    [ "titles_commandscript", "d1/d37/a12294.html#ac088fd907013150a0508b79c99f6c2f3", null ],
-    [ "GetCommands", "d1/d37/a12294.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
-    [ "HandleTitlesAddCommand", "d1/d37/a12294.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
-    [ "HandleTitlesCurrentCommand", "d1/d37/a12294.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
-    [ "HandleTitlesRemoveCommand", "d1/d37/a12294.html#a2001bcc2eddc5688d57154f9906218e4", null ],
-    [ "HandleTitlesSetMaskCommand", "d1/d37/a12294.html#a9517b10295b856779cdd067234f640c8", null ]
+    [ "Chance", "d1/d37/a12294.html#a20ae19fc80deceb81adccb91b341fb82", null ],
+    [ "Entry", "d1/d37/a12294.html#ae8b951678ec65907370ffe700cd668c8", null ]
 ];

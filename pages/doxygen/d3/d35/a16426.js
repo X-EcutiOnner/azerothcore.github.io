@@ -1,6 +1,6 @@
 var a16426 =
 [
-    [ "npc_anub_ar_crusher_crypt_fiend", "d3/d35/a16426.html#a89abbce738f115c26dae9dacb065cc3d", null ],
-    [ "DoEngagedWith", "d3/d35/a16426.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
-    [ "DoEvent", "d3/d35/a16426.html#a276eca6e65b32905f6919d49530ccc2f", null ]
+    [ "HandlePeriodic", "d3/d35/a16426.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "d3/d35/a16426.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "d3/d35/a16426.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

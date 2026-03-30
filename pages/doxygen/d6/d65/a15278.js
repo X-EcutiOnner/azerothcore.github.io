@@ -1,7 +1,8 @@
 var a15278 =
 [
-    [ "OnRemove", "d6/d65/a15278.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "d6/d65/a15278.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "d6/d65/a15278.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "d6/d65/a15278.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "HandleScript", "d6/d65/a15278.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "d6/d65/a15278.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "d6/d65/a15278.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "d6/d65/a15278.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "d6/d65/a15278.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

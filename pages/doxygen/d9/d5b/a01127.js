@@ -1,21 +1,20 @@
 var a01127 =
 [
-    [ "CleaningFlags", "d9/d5b/a01127.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
-      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "d9/d5b/a01127.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
-      [ "CLEANING_FLAG_SKILLS", "d9/d5b/a01127.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
-      [ "CLEANING_FLAG_SPELLS", "d9/d5b/a01127.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
-      [ "CLEANING_FLAG_TALENTS", "d9/d5b/a01127.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
-      [ "CLEANING_FLAG_QUESTSTATUS", "d9/d5b/a01127.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
+    [ "instance_blackwing_lair", "d0/d87/a12722.html", "d0/d87/a12722" ],
+    [ "spell_bwl_shadowflame", "d2/d34/a12726.html", "d2/d34/a12726" ],
+    [ "at_orb_of_command", "db/d48/a12730.html", "db/d48/a12730" ],
+    [ "orb_of_command_misc", "d9/d5b/a01127.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [
+      [ "QUEST_BLACKHANDS_COMMAND", "d9/d5b/a01127.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ]
     ] ],
-    [ "AchievementProgressCheck", "d9/d5b/a01127.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
-    [ "CheckUnique", "d9/d5b/a01127.html#ab98182e5f92f72090600314cc41f0d39", null ],
-    [ "CleanCharacterAchievementProgress", "d9/d5b/a01127.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
-    [ "CleanCharacterQuestStatus", "d9/d5b/a01127.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
-    [ "CleanCharacterSkills", "d9/d5b/a01127.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
-    [ "CleanCharacterSpell", "d9/d5b/a01127.html#aca5826d283031348e5d6ae6eb75ad605", null ],
-    [ "CleanCharacterTalent", "d9/d5b/a01127.html#a344f61fb209b507b775a0bbfb1315fac", null ],
-    [ "CleanDatabase", "d9/d5b/a01127.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
-    [ "SkillCheck", "d9/d5b/a01127.html#a0f72cf24646d1ece0eb793890840992d", null ],
-    [ "SpellCheck", "d9/d5b/a01127.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
-    [ "TalentCheck", "d9/d5b/a01127.html#aac707369555aa95807c11b1578ae80d2", null ]
+    [ "ShadowFlame", "d9/d5b/a01127.html#a18a82309d32c08f1de5944fde20789fa", [
+      [ "SPELL_ONYXIA_SCALE_CLOAK", "d9/d5b/a01127.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0", null ],
+      [ "SPELL_SHADOW_FLAME_DOT", "d9/d5b/a01127.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e", null ]
+    ] ],
+    [ "AddSC_instance_blackwing_lair", "d9/d5b/a01127.html#a942a9ad3e1b872492dfc7d62615df103", null ],
+    [ "creatureData", "d9/d5b/a01127.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d9/d5b/a01127.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "Entry", "d9/d5b/a01127.html#a79d118516d0621008a183666ffecc3ad", null ],
+    [ "objectData", "d9/d5b/a01127.html#a59ddfa91084111da23b5d47482e4ff8d", null ],
+    [ "orbOfCommandTP", "d9/d5b/a01127.html#a9ee49a7ad7d4b8e8f52533faa578370f", null ],
+    [ "SummonPosition", "d9/d5b/a01127.html#a2c79c628fd8c60d02dc0b2368a70be04", null ]
 ];

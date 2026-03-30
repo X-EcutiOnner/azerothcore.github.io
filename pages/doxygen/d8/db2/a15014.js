@@ -1,5 +1,6 @@
 var a15014 =
 [
-    [ "PrepareSpellScript", "d8/db2/a15014.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
-    [ "Register", "d8/db2/a15014.html#a06111bf70ee53fee6e90284f8d92642e", null ]
+    [ "boss_epochAI", "d2/d16/a15018.html", "d2/d16/a15018" ],
+    [ "boss_epoch", "d8/db2/a15014.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
+    [ "GetAI", "d8/db2/a15014.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
 ];

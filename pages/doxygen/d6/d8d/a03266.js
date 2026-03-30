@@ -1,15 +1,12 @@
 var a03266 =
 [
-    [ "boss_hydromancer_thespia", "de/dbe/a23083.html", "de/dbe/a23083" ],
-    [ "HydromancerThespia", "d6/d8d/a03266.html#a3f4b673ff8add0ad1c96080f6252130d", [
-      [ "SAY_SUMMON", "d6/d8d/a03266.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf", null ],
-      [ "SAY_AGGRO", "d6/d8d/a03266.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_SLAY", "d6/d8d/a03266.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75", null ],
-      [ "SAY_DEAD", "d6/d8d/a03266.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671", null ],
-      [ "SAY_SPELL", "d6/d8d/a03266.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2", null ],
-      [ "SPELL_LIGHTNING_CLOUD", "d6/d8d/a03266.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2", null ],
-      [ "SPELL_LUNG_BURST", "d6/d8d/a03266.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6", null ],
-      [ "SPELL_ENVELOPING_WINDS", "d6/d8d/a03266.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92", null ]
-    ] ],
-    [ "AddSC_boss_hydromancer_thespia", "d6/d8d/a03266.html#a0a9bb9014bd5526d13141dcef207c234", null ]
+    [ "PacketHandler< PacketClass, HandlerFunction >", "d1/dbe/a11442.html", "d1/dbe/a11442" ],
+    [ "PacketHandler< WorldPacket, HandlerFunction >", "d0/db0/a11446.html", "d0/db0/a11446" ],
+    [ "get_packet_class< T >", "d5/df9/a11450.html", null ],
+    [ "get_packet_class< void(WorldSession::*)(PacketClass &)>", "d2/d16/a11454.html", "d2/d16/a11454" ],
+    [ "DEFINE_HANDLER", "d6/d8d/a03266.html#ab23af9582942bed23ea9ab4a8747c67c", null ],
+    [ "DEFINE_SERVER_OPCODE_HANDLER", "d6/d8d/a03266.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e", null ],
+    [ "GetOpcodeNameForLogging", "db/d5b/a05007.html#ga699f5666ad5594443aa2ca21df85a1d3", null ],
+    [ "GetOpcodeNameForLoggingImpl", "d6/d8d/a03266.html#a0adf4b5d8c638656581d9a62be18539e", null ],
+    [ "opcodeTable", "db/d5b/a05007.html#gaab348862a5b8f265e05e5b0ac296162a", null ]
 ];

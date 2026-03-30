@@ -1,8 +1,6 @@
 var a19826 =
 [
-    [ "npc_crystal_spike", "dd/d12/a19826.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "dd/d12/a19826.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "dd/d12/a19826.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "dd/d12/a19826.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "dd/d12/a19826.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "HandlePeriodic", "dd/d12/a19826.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "dd/d12/a19826.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "dd/d12/a19826.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

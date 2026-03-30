@@ -1,6 +1,7 @@
 var a27910 =
 [
-    [ "HandleEffectCalcSpellMod", "dd/d1f/a27910.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
-    [ "PrepareAuraScript", "dd/d1f/a27910.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
-    [ "Register", "dd/d1f/a27910.html#af60592a9f1e595f31814eae405d03d5a", null ]
+    [ "go_brewfest_musicAI", "dd/d1f/a27910.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "dd/d1f/a27910.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "dd/d1f/a27910.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "dd/d1f/a27910.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

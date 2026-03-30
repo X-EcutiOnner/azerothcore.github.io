@@ -1,8 +1,15 @@
 var a13946 =
 [
-    [ "HandleApply", "de/d68/a13946.html#a9dce02909356193476e66586aee87f1d", null ],
-    [ "OnPeriodic", "de/d68/a13946.html#add4f000f81d5d4112719c6dd7464163c", null ],
-    [ "PrepareAuraScript", "de/d68/a13946.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
-    [ "Register", "de/d68/a13946.html#abc349f12f375b1f284eb78a363e8172a", null ],
-    [ "Validate", "de/d68/a13946.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
+    [ "npc_deathstalker_fearleia", "de/d68/a13946.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
+    [ "JustDied", "de/d68/a13946.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
+    [ "JustEngagedWith", "de/d68/a13946.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
+    [ "JustSummoned", "de/d68/a13946.html#a8ef363de7292d366eea128b55b1acaeb", null ],
+    [ "Reset", "de/d68/a13946.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
+    [ "sQuestAccept", "de/d68/a13946.html#a5da116182685dfac72139b40266f2884", null ],
+    [ "SummonCreatureWithRandomTarget", "de/d68/a13946.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
+    [ "SummonedCreatureDespawn", "de/d68/a13946.html#a36415976d5ae2034578581bdec183f33", null ],
+    [ "UpdateAI", "de/d68/a13946.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
+    [ "_playerGUID", "de/d68/a13946.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
+    [ "_questInProgress", "de/d68/a13946.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
+    [ "_summons", "de/d68/a13946.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
 ];

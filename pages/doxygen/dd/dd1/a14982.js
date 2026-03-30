@@ -1,5 +1,7 @@
 var a14982 =
 [
-    [ "PrepareSpellScript", "dd/dd1/a14982.html#a50ee42c11937759b6c52c2ab994481c4", null ],
-    [ "Register", "dd/dd1/a14982.html#a8dc12a723c2da948c38119e3fc34df35", null ]
+    [ "hyjalTyrandeAI", "df/d23/a14986.html", "df/d23/a14986" ],
+    [ "npc_hyjal_tyrande", "dd/dd1/a14982.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "dd/dd1/a14982.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "dd/dd1/a14982.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

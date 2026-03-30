@@ -1,9 +1,6 @@
 var a21558 =
 [
-    [ "npc_lurgglbrAI", "df/d6b/a21558.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "df/d6b/a21558.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "df/d6b/a21558.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "df/d6b/a21558.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "IntroPhase", "df/d6b/a21558.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "df/d6b/a21558.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "npc_spiritual_insightAI", "d9/da4/a21562.html", "d9/da4/a21562" ],
+    [ "npc_spiritual_insight", "df/d6b/a21558.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "df/d6b/a21558.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

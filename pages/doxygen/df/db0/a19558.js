@@ -1,7 +1,6 @@
 var a19558 =
 [
-    [ "HandleRemove", "df/db0/a19558.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "df/db0/a19558.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "df/db0/a19558.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "df/db0/a19558.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "boss_uromAI", "d6/db9/a19562.html", "d6/db9/a19562" ],
+    [ "boss_urom", "df/db0/a19558.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
+    [ "GetAI", "df/db0/a19558.html#ac381b851f3cc746fb323ff238892c537", null ]
 ];

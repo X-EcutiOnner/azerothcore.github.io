@@ -1,7 +1,10 @@
 var a25318 =
 [
-    [ "CheckIfLanceEquipped", "d2/d1d/a25318.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "d2/d1d/a25318.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "d2/d1d/a25318.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "d2/d1d/a25318.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "CheckProc", "d2/d1d/a25318.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "d2/d1d/a25318.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "d2/d1d/a25318.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "d2/d1d/a25318.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "d2/d1d/a25318.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "d2/d1d/a25318.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "d2/d1d/a25318.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

@@ -1,6 +1,7 @@
 var a13434 =
 [
-    [ "npc_scarlet_ghoulAI", "d3/d87/a13438.html", "d3/d87/a13438" ],
-    [ "npc_scarlet_ghoul", "d9/dae/a13434.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d9/dae/a13434.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "npc_apothecary_genericAI", "d9/dae/a13434.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d9/dae/a13434.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d9/dae/a13434.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d9/dae/a13434.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

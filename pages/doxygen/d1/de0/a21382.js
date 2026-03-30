@@ -1,12 +1,13 @@
 var a21382 =
 [
-    [ "boss_moraggAI", "d1/de0/a21382.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "d1/de0/a21382.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "d1/de0/a21382.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "d1/de0/a21382.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "d1/de0/a21382.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "d1/de0/a21382.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "d1/de0/a21382.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "d1/de0/a21382.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "d1/de0/a21382.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "npc_shandy_dalaranAI", "d1/de0/a21382.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "d1/de0/a21382.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "d1/de0/a21382.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "d1/de0/a21382.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "d1/de0/a21382.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "d1/de0/a21382.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "d1/de0/a21382.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "d1/de0/a21382.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "d1/de0/a21382.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "d1/de0/a21382.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

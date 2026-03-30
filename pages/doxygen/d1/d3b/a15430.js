@@ -1,6 +1,6 @@
 var a15430 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d5/d9f/a15434.html", "d5/d9f/a15434" ],
-    [ "instance_onyxias_lair", "d1/d3b/a15430.html#a1be32e45cb8af86477d300efb6e545cc", null ],
-    [ "GetInstanceScript", "d1/d3b/a15430.html#abbdc474ce17bca0cb55180661c5204a8", null ]
+    [ "OnPeriodic", "d1/d3b/a15430.html#a08dce8b98afadc134166a615b4496151", null ],
+    [ "PrepareAuraScript", "d1/d3b/a15430.html#a9ebb34665b176e4e60f085da65183d8e", null ],
+    [ "Register", "d1/d3b/a15430.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
 ];

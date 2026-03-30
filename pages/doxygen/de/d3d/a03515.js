@@ -1,6 +1,7 @@
 var a03515 =
 [
-    [ "fireworkShowGameobjectThunderBluff", "de/d3d/a03515.html#ab3cf2de65fa26d7c56cf3a4e0f4a56e1", null ],
-    [ "fireworkShowScheduleThunderBluff", "de/d3d/a03515.html#ac35fd5df42f24906b21b6887860b96a5", null ],
-    [ "fireworkShowThunderBluff", "de/d3d/a03515.html#ae9cf9fa234ec7db55622bede66c21f78", null ]
+    [ "GetExplicitDiscoverySpell", "de/d3d/a03515.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "de/d3d/a03515.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "de/d3d/a03515.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "de/d3d/a03515.html#addd95f0a239a27ed32cd943aa1052019", null ]
 ];

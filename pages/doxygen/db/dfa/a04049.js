@@ -1,10 +1,16 @@
 var a04049 =
 [
-    [ "spell_q12779_an_end_to_all_things", "d7/d88/a13311.html", "d7/d88/a13311" ],
-    [ "spell_q12779_an_end_to_all_things_devour_aura", "d3/d7c/a13315.html", "d3/d7c/a13315" ],
-    [ "DevourHumanoid", "db/dfa/a04049.html#a4a9cc76e41bd77e034f57ac5663bfbe8", [
-      [ "NPC_HEARTHGLEN_CRUSADER", "db/dfa/a04049.html#a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7", null ],
-      [ "NPC_TIRISFAL_CRUSADER", "db/dfa/a04049.html#a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8", null ]
-    ] ],
-    [ "AddSC_the_scarlet_enclave_c3", "db/dfa/a04049.html#add963c2bc2b515348b9b7c636d176927", null ]
+    [ "LinkValidator< T >", "df/d00/a07998.html", "df/d00/a07998" ],
+    [ "LinkValidator< LinkTags::achievement >", "d6/dfc/a08002.html", "d6/dfc/a08002" ],
+    [ "LinkValidator< LinkTags::item >", "d0/d89/a08006.html", "d0/d89/a08006" ],
+    [ "LinkValidator< LinkTags::quest >", "da/d2e/a08010.html", "da/d2e/a08010" ],
+    [ "LinkValidator< LinkTags::spell >", "d6/d4e/a08014.html", "d6/d4e/a08014" ],
+    [ "LinkValidator< LinkTags::enchant >", "d3/d56/a08018.html", "d3/d56/a08018" ],
+    [ "LinkValidator< LinkTags::glyph >", "d0/dd1/a08022.html", "d0/dd1/a08022" ],
+    [ "LinkValidator< LinkTags::talent >", "db/df8/a08026.html", "db/df8/a08026" ],
+    [ "LinkValidator< LinkTags::trade >", "d0/d7a/a08030.html", "d0/d7a/a08030" ],
+    [ "TryValidateAs", "db/dfa/a04049.html#af1c86bff85f30ff113d5f78421c280af", null ],
+    [ "toHex", "db/dfa/a04049.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
+    [ "ValidateAs", "db/dfa/a04049.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],
+    [ "ValidateLinkInfo", "db/dfa/a04049.html#a7de61dd7d7c595063ae73f415e961cc9", null ]
 ];

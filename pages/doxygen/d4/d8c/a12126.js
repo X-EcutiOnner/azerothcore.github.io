@@ -1,14 +1,15 @@
 var a12126 =
 [
-    [ "deserter_commandscript", "d4/d8c/a12126.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
-    [ "GetCommands", "d4/d8c/a12126.html#ab5b48b9dde89c9215c51560f26324649", null ],
-    [ "HandleDeserterAdd", "d4/d8c/a12126.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
-    [ "HandleDeserterBGAdd", "d4/d8c/a12126.html#a11fba09d369e7244244887947a91369e", null ],
-    [ "HandleDeserterBGRemove", "d4/d8c/a12126.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
-    [ "HandleDeserterBGRemoveAll", "d4/d8c/a12126.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
-    [ "HandleDeserterInstanceAdd", "d4/d8c/a12126.html#aabd2b23e2dc61fac10890077b41d8179", null ],
-    [ "HandleDeserterInstanceRemove", "d4/d8c/a12126.html#a3197e5228284ba50da7f3a31b3e76060", null ],
-    [ "HandleDeserterInstanceRemoveAll", "d4/d8c/a12126.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
-    [ "HandleDeserterRemove", "d4/d8c/a12126.html#a210dc9a7eddede6fe976157d6b22b683", null ],
-    [ "HandleDeserterRemoveAll", "d4/d8c/a12126.html#a6274f79b9884586069f94137b44d89e9", null ]
+    [ "arena_commandscript", "d4/d8c/a12126.html#ad433113f5a3cf7f2cb43ff4fd3f0d49d", null ],
+    [ "GetCommands", "d4/d8c/a12126.html#a3a5e95fca957fd1898d6a7acea98931e", null ],
+    [ "HandleArenaCaptainCommand", "d4/d8c/a12126.html#a7b7123c837bbecb1a4d3d2e8aa934d4c", null ],
+    [ "HandleArenaCreateCommand", "d4/d8c/a12126.html#a10eab39042cb718d839fbdf7236b1a31", null ],
+    [ "HandleArenaDisbandCommand", "d4/d8c/a12126.html#a012626d4c101a63d9a70c530c9e98354", null ],
+    [ "HandleArenaInfoCommand", "d4/d8c/a12126.html#a90fc70aae7b3e0fec179a0a1a7482c11", null ],
+    [ "HandleArenaLookupCommand", "d4/d8c/a12126.html#a7356c0a45dcf32809a32fe6053b94de0", null ],
+    [ "HandleArenaRenameCommand", "d4/d8c/a12126.html#a4095683ee7b5a2236dac8aa36a607d7c", null ],
+    [ "HandleArenaSeasonDeleteTeamsCommand", "d4/d8c/a12126.html#a956b4450813331d5bc43c46409c4a095", null ],
+    [ "HandleArenaSeasonRewardCommand", "d4/d8c/a12126.html#a8b83f4ae0544e33d4bafe674b416f176", null ],
+    [ "HandleArenaSeasonSetStateCommand", "d4/d8c/a12126.html#a8d6c1eeaebab28859f0bdef70b50a3bb", null ],
+    [ "HandleArenaSeasonStartCommand", "d4/d8c/a12126.html#a58ea37f547986c084c04064bddc32cfb", null ]
 ];

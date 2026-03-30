@@ -1,6 +1,12 @@
 var a16990 =
 [
-    [ "npc_toc_rogueAI", "df/dee/a16994.html", "df/dee/a16994" ],
-    [ "npc_toc_rogue", "d6/db5/a16990.html#a925840be9698e381358235a827c20b8a", null ],
-    [ "GetAI", "d6/db5/a16990.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
+    [ "boss_trollgoreAI", "d6/db5/a16990.html#a958deb54a8460cc2dc61958bd9acb338", null ],
+    [ "CheckInRoom", "d6/db5/a16990.html#a6428a1c4fc7d3da4e016ed17ea3684df", null ],
+    [ "JustDied", "d6/db5/a16990.html#a32a309084b6b7c4b4e5db10d9c8a95bd", null ],
+    [ "JustEngagedWith", "d6/db5/a16990.html#a25414dc1b13aa1372e397c5cb11afdaa", null ],
+    [ "JustSummoned", "d6/db5/a16990.html#abd2199877e0e1465a7e5783b80ad2a44", null ],
+    [ "KilledUnit", "d6/db5/a16990.html#aa65d03d8879c6177753b8316c1343ad4", null ],
+    [ "Reset", "d6/db5/a16990.html#a4fe22aebe6e814196ac1914d158a62de", null ],
+    [ "UpdateAI", "d6/db5/a16990.html#a3fa3247442edb81136647f7fdf5834cf", null ],
+    [ "events2", "d6/db5/a16990.html#a94e8c9616ac332f33f2b976c074092af", null ]
 ];

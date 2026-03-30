@@ -1,6 +1,7 @@
 var a25038 =
 [
-    [ "CheckAreaTarget", "d8/de8/a25038.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "d8/de8/a25038.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "d8/de8/a25038.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "HandleProc", "d8/de8/a25038.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
+    [ "PrepareAuraScript", "d8/de8/a25038.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
+    [ "Register", "d8/de8/a25038.html#af02b0af51a1fece0780414ab45c8d31e", null ],
+    [ "Validate", "d8/de8/a25038.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
 ];

@@ -1,6 +1,9 @@
 var a14186 =
 [
-    [ "npc_marzon_silent_bladeAI", "dc/d98/a14190.html", "dc/d98/a14190" ],
-    [ "npc_marzon_silent_blade", "db/d1b/a14186.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
-    [ "GetAI", "db/d1b/a14186.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
+    [ "npc_zulaman_hostageAI", "db/d1b/a14186.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "db/d1b/a14186.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "db/d1b/a14186.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "db/d1b/a14186.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "db/d1b/a14186.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "db/d1b/a14186.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

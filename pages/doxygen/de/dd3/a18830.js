@@ -1,6 +1,6 @@
 var a18830 =
 [
-    [ "ModDest", "de/dd3/a18830.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "de/dd3/a18830.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "de/dd3/a18830.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "npc_captain_arnathAI", "d2/dc0/a18834.html", "d2/dc0/a18834" ],
+    [ "npc_captain_arnath", "de/dd3/a18830.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "de/dd3/a18830.html#a302ec007389e677011334d78f410207b", null ]
 ];

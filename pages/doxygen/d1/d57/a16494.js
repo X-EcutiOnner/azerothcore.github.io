@@ -1,7 +1,6 @@
 var a16494 =
 [
-    [ "boss_sartharion_shadron", "d1/d57/a16494.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
-    [ "ExecuteEvent", "d1/d57/a16494.html#a1f1a235d4d5654e273ef821ebf962491", null ],
-    [ "Reset", "d1/d57/a16494.html#a8511eb55a486665a248d555337c25002", null ],
-    [ "SummonedCreatureDies", "d1/d57/a16494.html#a3967c70698675d2c925a1a0366bf1d00", null ]
+    [ "boss_paletressAI", "dd/d15/a16498.html", "dd/d15/a16498" ],
+    [ "boss_paletress", "d1/d57/a16494.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "d1/d57/a16494.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

@@ -1,6 +1,8 @@
 var a18742 =
 [
-    [ "HandleScript", "de/dac/a18742.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
-    [ "PrepareSpellScript", "de/dac/a18742.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
-    [ "Register", "de/dac/a18742.html#a172490b953b958df354394e947b7cfd0", null ]
+    [ "Load", "de/dac/a18742.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
+    [ "PeriodicTick", "de/dac/a18742.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
+    [ "PrepareAuraScript", "de/dac/a18742.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
+    [ "Register", "de/dac/a18742.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
+    [ "_instance", "de/dac/a18742.html#aebebb858f2ae41f2260d6843b3da8052", null ]
 ];

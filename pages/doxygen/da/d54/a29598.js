@@ -1,7 +1,10 @@
 var a29598 =
 [
-    [ "flatModifier", "da/d54/a29598.html#a781485dfaede63716eddba66971600e3", null ],
-    [ "hasSpellModOwner", "da/d54/a29598.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
-    [ "hasSpellProto", "da/d54/a29598.html#a96607da311b5774eeaa01674d32ab22e", null ],
-    [ "pctModifier", "da/d54/a29598.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
+    [ "adt_CELLS", "df/d2d/a29606.html", "df/d2d/a29606" ],
+    [ "getMCNK", "da/d54/a29598.html#a8330b7cb405146399d3d20e6952a8b40", null ],
+    [ "prepareLoadedData", "da/d54/a29598.html#adc7346499aa51f4422c810b7e757f835", null ],
+    [ "cells", "da/d54/a29598.html#a434ed0ca354ec27d5334cc63e5650038", null ],
+    [ "fcc", "da/d54/a29598.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
+    [ "fcc_txt", "da/d54/a29598.html#a514bae36851623daf76b26a9d63f1ae0", null ],
+    [ "size", "da/d54/a29598.html#a1a40f52ea9eef3add8207da89cb71210", null ]
 ];

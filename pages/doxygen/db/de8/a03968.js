@@ -1,21 +1,17 @@
 var a03968 =
 [
-    [ "npc_partygoer_pather", "d7/de2/a13867.html", "d7/de2/a13867" ],
-    [ "npc_partygoer", "d5/d48/a13871.html", "d5/d48/a13871" ],
-    [ "npc_lor_themar_theron", "db/de7/a13875.html", "db/de7/a13875" ],
-    [ "Partygoer", "db/de8/a03968.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
-      [ "EVENT_RANDOM_ACTION", "db/de8/a03968.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
-      [ "EVENT_REMOVE_EQUIPMENT", "db/de8/a03968.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
-      [ "EVENT_STOP_DANCING", "db/de8/a03968.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
-      [ "EVENT_THROW_FIREWORKS", "db/de8/a03968.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
-      [ "EVENT_RESET_FACING", "db/de8/a03968.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
-      [ "GO_FIREWORKS_LAUNCHER", "db/de8/a03968.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
-    ] ],
-    [ "Partygoer_Pather", "db/de8/a03968.html#a3222d14ce03d75912e65560ebf2a961b", [
-      [ "EVENT_PATH", "db/de8/a03968.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
-      [ "EVENT_RANDOM_ACTION_PATHER", "db/de8/a03968.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
-      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "db/de8/a03968.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
-      [ "EVENT_STOP_DANCING_PATHER", "db/de8/a03968.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
-    ] ],
-    [ "AddSC_eversong_woods", "db/de8/a03968.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
+    [ "Petition", "de/d72/a10450.html", "de/d72/a10450" ],
+    [ "Signatures", "d9/d15/a10454.html", "d9/d15/a10454" ],
+    [ "PetitionMgr", "d6/d6e/a10458.html", "d6/d6e/a10458" ],
+    [ "CHARTER_DISPLAY_ID", "db/de8/a03968.html#a33856c1d078b61fa0516a63176297c49", null ],
+    [ "sPetitionMgr", "db/de8/a03968.html#a2910b9c8b8c58925b562acf66b3e46d2", null ],
+    [ "PetitionContainer", "db/de8/a03968.html#a223a8d1b8f865a0d4e8f100758e36bce", null ],
+    [ "SignatureContainer", "db/de8/a03968.html#a541d3cf929662ff3a4ab97f63d54b16f", null ],
+    [ "SignatureMap", "db/de8/a03968.html#a52c6b38c9d018efa6f8a95153a0eb2b5", null ],
+    [ "CharterItemIDs", "db/de8/a03968.html#acec0915ab4c4246cd1eda0ddd63d47bb", [
+      [ "GUILD_CHARTER", "db/de8/a03968.html#acec0915ab4c4246cd1eda0ddd63d47bba2e6b069055001141f4bee95616a7720d", null ],
+      [ "ARENA_TEAM_CHARTER_2v2", "db/de8/a03968.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27", null ],
+      [ "ARENA_TEAM_CHARTER_3v3", "db/de8/a03968.html#acec0915ab4c4246cd1eda0ddd63d47bbac155da3886ba50a00694a0b600855470", null ],
+      [ "ARENA_TEAM_CHARTER_5v5", "db/de8/a03968.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37", null ]
+    ] ]
 ];

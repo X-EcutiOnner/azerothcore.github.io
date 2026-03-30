@@ -1,6 +1,7 @@
 var a11074 =
 [
-    [ "SetDungeonDifficultyClient", "df/d30/a11074.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
-    [ "Read", "df/d30/a11074.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
-    [ "Mode", "df/d30/a11074.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
+    [ "GuildBankTextQueryResult", "df/d30/a11074.html#aa1e25895e246c3a688d7850e517858d3", null ],
+    [ "Write", "df/d30/a11074.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
+    [ "Tab", "df/d30/a11074.html#abfc5522a0f94086474493db85ed1ef73", null ],
+    [ "Text", "df/d30/a11074.html#ae78c1d1b802e12efd058987117158ec3", null ]
 ];

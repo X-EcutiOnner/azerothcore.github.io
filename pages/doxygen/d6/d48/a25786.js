@@ -1,5 +1,7 @@
 var a25786 =
 [
-    [ "PrepareSpellScript", "d6/d48/a25786.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
-    [ "Register", "d6/d48/a25786.html#a7fe416070962ba582d59ddff70c13590", null ]
+    [ "HandleDummy", "d6/d48/a25786.html#aec0b2ad3b10f2ccbc755cf7278a5ed46", null ],
+    [ "PrepareSpellScript", "d6/d48/a25786.html#ac1ba0d23cbf805c234ac9d898f6bab85", null ],
+    [ "Register", "d6/d48/a25786.html#afd1588dc55730c52a922f37e60ec134a", null ],
+    [ "Validate", "d6/d48/a25786.html#aaed3ba3d986173b5941e048370d5ebe2", null ]
 ];

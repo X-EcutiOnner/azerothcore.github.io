@@ -1,8 +1,8 @@
 var a09718 =
 [
-    [ "AllCreaturesMatchingOneEntryInRange", "df/d60/a09718.html#a440899ae5e52fedea316b7caa550455e", null ],
-    [ "operator()", "df/d60/a09718.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
-    [ "m_fRange", "df/d60/a09718.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
-    [ "m_pObject", "df/d60/a09718.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
-    [ "m_uiEntries", "df/d60/a09718.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
+    [ "AllGameObjectsWithEntryInRange", "df/d60/a09718.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
+    [ "operator()", "df/d60/a09718.html#a342aa18d98413620fce4c676fcf75305", null ],
+    [ "m_fRange", "df/d60/a09718.html#a7cce16670c95c19f3eb68e5914160513", null ],
+    [ "m_pObject", "df/d60/a09718.html#a5c898c20992999f11204aab6479d71f6", null ],
+    [ "m_uiEntry", "df/d60/a09718.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
 ];

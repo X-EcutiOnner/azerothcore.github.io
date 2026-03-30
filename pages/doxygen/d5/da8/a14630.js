@@ -1,6 +1,6 @@
 var a14630 =
 [
-    [ "boss_renatakiAI", "d9/ddf/a14634.html", "d9/ddf/a14634" ],
-    [ "boss_renataki", "d5/da8/a14630.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "d5/da8/a14630.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "gameobjectId", "d5/da8/a14630.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "d5/da8/a14630.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "d5/da8/a14630.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

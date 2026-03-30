@@ -1,7 +1,10 @@
 var a15190 =
 [
-    [ "hyjalJainaAI", "dc/dbb/a15194.html", "dc/dbb/a15194" ],
-    [ "npc_hyjal_jaina", "d9/d84/a15190.html#a6616aa6c38818770610259312a392a3f", null ],
-    [ "GetAI", "d9/d84/a15190.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
-    [ "OnGossipSelect", "d9/d84/a15190.html#a47853fa317b1a9325fcbe555867139f6", null ]
+    [ "instance_maraudon_InstanceMapScript", "d9/d84/a15190.html#a9c46508320d3973006561444feae0586", null ],
+    [ "Initialize", "d9/d84/a15190.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
+    [ "OnGameObjectCreate", "d9/d84/a15190.html#a3a287b97db58c3489815f20ee0d37977", null ],
+    [ "ReadSaveDataMore", "d9/d84/a15190.html#ac2cd336874b25ad20dac104037de1df5", null ],
+    [ "SetData", "d9/d84/a15190.html#a6e90bf60a076c164e432128f7ec62fba", null ],
+    [ "WriteSaveDataMore", "d9/d84/a15190.html#a6e4072342e66689d343912de85e66b34", null ],
+    [ "_encounters", "d9/d84/a15190.html#af2e752a791d75e50001060c4a9f18173", null ]
 ];

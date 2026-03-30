@@ -1,6 +1,6 @@
 var a11850 =
 [
-    [ "EffectProcHandler", "d7/d90/a11850.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
-    [ "Call", "d7/d90/a11850.html#ae03d27451f687319629b3c54c5a7eed5", null ],
-    [ "_EffectHandlerScript", "d7/d90/a11850.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
+    [ "EffectCalcAmountHandler", "d7/d90/a11850.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "d7/d90/a11850.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "d7/d90/a11850.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

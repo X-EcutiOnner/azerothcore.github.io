@@ -1,59 +1,20 @@
 var a02510 =
 [
-    [ "AchievementOfflinePlayerUpdate", "d8/d67/a06191.html", "d8/d67/a06191" ],
-    [ "CriteriaProgress", "d6/d4c/a06195.html", "d6/d4c/a06195" ],
-    [ "AchievementCriteriaData", "d9/d57/a06199.html", "d9/d57/a06199" ],
-    [ "AchievementCriteriaDataSet", "d2/d33/a06295.html", "d2/d33/a06295" ],
-    [ "AchievementReward", "d6/d5e/a06299.html", "d6/d5e/a06299" ],
-    [ "AchievementRewardLocale", "d5/d7d/a06303.html", "d5/d7d/a06303" ],
-    [ "CompletedAchievementData", "de/d5b/a06307.html", "de/d5b/a06307" ],
-    [ "AchievementMgr", "d7/d8c/a06311.html", "d7/d8c/a06311" ],
-    [ "AchievementGlobalMgr", "db/d7f/a06315.html", "db/d7f/a06315" ],
-    [ "MAX_ACHIEVEMENT_CRITERIA_DATA_TYPE", "dd/df4/a02510.html#aa36806d2931b69d34909b50f40ca8c0e", null ],
-    [ "sAchievementMgr", "dd/df4/a02510.html#af422afe119839b631fd67247eddff1e6", null ],
-    [ "AchievementCriteriaDataMap", "dd/df4/a02510.html#ac16b4d5f47fe0db16d59dc67e86e42be", null ],
-    [ "AchievementCriteriaEntryList", "dd/df4/a02510.html#a7a5f365d092f508da6ae8d510f0e3117", null ],
-    [ "AchievementCriteriaListByAchievement", "dd/df4/a02510.html#ad5e4b1cd98f21804a508642d8475033f", null ],
-    [ "AchievementEntryList", "dd/df4/a02510.html#a9d70fd67a3069b6a55c0145265bffc4b", null ],
-    [ "AchievementListByReferencedId", "dd/df4/a02510.html#af3b606f4c218a7e68902cd9ff9470f5b", null ],
-    [ "AchievementRewardLocales", "dd/df4/a02510.html#a3d51ce6b9e37b72772cea78f064e5a77", null ],
-    [ "AchievementRewards", "dd/df4/a02510.html#a471572afc0467790ccff565b39f61720", null ],
-    [ "CompletedAchievementMap", "dd/df4/a02510.html#aee097fd9426b25c1101af73a551a37e1", null ],
-    [ "CriteriaProgressMap", "dd/df4/a02510.html#a649527d8ab61f39ad17fe709d2b1aabc", null ],
-    [ "AchievementCommonCategories", "dd/df4/a02510.html#ac0bc114e07c706c7192e14e80355a213", [
-      [ "ACHIEVEMENT_CATEOGRY_GENERAL", "dd/df4/a02510.html#ac0bc114e07c706c7192e14e80355a213a4c91db703d7b5c8f8756bc6136bc5207", null ],
-      [ "ACHIEVEMENT_CATEGORY_STATISTICS", "dd/df4/a02510.html#ac0bc114e07c706c7192e14e80355a213a142173b7c79b8a90cd7854fd7b03509a", null ]
+    [ "instance_nexus", "d4/d74/a19522.html", "d4/d74/a19522" ],
+    [ "instance_nexus::instance_nexus_InstanceMapScript", "dd/db6/a19526.html", "dd/db6/a19526" ],
+    [ "npc_crystalline_frayer", "d9/d45/a19530.html", "d9/d45/a19530" ],
+    [ "eFrayer", "dd/df4/a02510.html#afccbdf6b1fcd1d08834c371ae089cd34", [
+      [ "SPELL_SUMMON_SEED_POD", "dd/df4/a02510.html#afccbdf6b1fcd1d08834c371ae089cd34a574104b14cbcd24794ab8666fa8dbd76", null ],
+      [ "SPELL_SEED_POD", "dd/df4/a02510.html#afccbdf6b1fcd1d08834c371ae089cd34ac55a6fa8082947a3cf2c03a7a6698eb7", null ],
+      [ "SPELL_AURA_OF_REGENERATION", "dd/df4/a02510.html#afccbdf6b1fcd1d08834c371ae089cd34a16a68348d55363d0fa476afad65ed165", null ],
+      [ "SPELL_CRYSTAL_BLOOM", "dd/df4/a02510.html#afccbdf6b1fcd1d08834c371ae089cd34a2628113ed0f8c81fec3cbb2dd01123f7", null ],
+      [ "SPELL_ENSNARE", "dd/df4/a02510.html#afccbdf6b1fcd1d08834c371ae089cd34aa84bf40a2daa426466ad7322a0ab325d", null ],
+      [ "SAY_EMOTE", "dd/df4/a02510.html#afccbdf6b1fcd1d08834c371ae089cd34acc21792a1861c2f9a3d4d694ee1d9f1d", null ]
     ] ],
-    [ "AchievementCriteriaDataType", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0", [
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_NONE", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_CREATURE", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_CLASS_RACE", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_LESS_HEALTH", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_DEAD", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AURA", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AREA", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_AURA", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0aa0b32101ef67881083e58a6a6c55c75b", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_VALUE", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_LEVEL", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_GENDER", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_SCRIPT", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_DIFFICULTY", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_PLAYER_COUNT", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_TEAM", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_DRUNK", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_HOLIDAY", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_LOSS_TEAM_SCORE", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0aab81f29c4cb17f066e8d2bd95f37d954", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_INSTANCE_SCRIPT", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_EQUIPPED_ITEM", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_ID", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_PLAYER_CLASS_RACE", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0aaa861458fcfe5aed7f8714be2b68a1db", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_NTH_BIRTHDAY", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_KNOWN_TITLE", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_TEAMS_SCORES", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_ITEM_QUALITY", "dd/df4/a02510.html#a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735", null ]
+    [ "FrayerGroups", "dd/df4/a02510.html#a29a293d010d15bea50b64ca0a6a16fb5", [
+      [ "GROUP_COMBAT", "dd/df4/a02510.html#a29a293d010d15bea50b64ca0a6a16fb5a8a276adfb1bc4c990d9fcd7622ee8b44", null ],
+      [ "GROUP_SEED_POD", "dd/df4/a02510.html#a29a293d010d15bea50b64ca0a6a16fb5acfb7ee2d22c26e537cb22506d7ae0028", null ]
     ] ],
-    [ "AchievementOfflinePlayerUpdateType", "dd/df4/a02510.html#a9c52752c50b87261f43020b3cfaa06e6", [
-      [ "ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_COMPLETE_ACHIEVEMENT", "dd/df4/a02510.html#a9c52752c50b87261f43020b3cfaa06e6a2976d6d0cc93ac389d7683d092aff8ee", null ],
-      [ "ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_UPDATE_CRITERIA", "dd/df4/a02510.html#a9c52752c50b87261f43020b3cfaa06e6a7d91d50e1acd06739fbc20bd87c8a4a3", null ]
-    ] ]
+    [ "AddSC_instance_nexus", "dd/df4/a02510.html#a77d0cce0724befee65efa7555f62f8f1", null ],
+    [ "doorData", "dd/df4/a02510.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

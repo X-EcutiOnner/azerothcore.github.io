@@ -1,6 +1,9 @@
 var a16282 =
 [
-    [ "npc_sergeant_blyAI", "d1/d63/a16286.html", "d1/d63/a16286" ],
-    [ "npc_sergeant_bly", "d9/d10/a16282.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "d9/d10/a16282.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d9/d10/a16282.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "d9/d10/a16282.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "d9/d10/a16282.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "d9/d10/a16282.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "m_uiPortalGUID", "d9/d10/a16282.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "portalCount", "d9/d10/a16282.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

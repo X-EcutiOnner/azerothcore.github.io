@@ -1,6 +1,5 @@
 var a20486 =
 [
-    [ "FilterTargets", "d0/d6b/a20486.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "d0/d6b/a20486.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "d0/d6b/a20486.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "go_thorim_lever", "d0/d6b/a20486.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "d0/d6b/a20486.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

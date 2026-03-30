@@ -1,9 +1,5 @@
 var a16206 =
 [
-    [ "npc_pluckyAI", "db/d43/a16206.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "db/d43/a16206.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "db/d43/a16206.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "db/d43/a16206.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "db/d43/a16206.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "db/d43/a16206.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "achievement_hadronox_denied", "db/d43/a16206.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
+    [ "OnCheck", "db/d43/a16206.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
 ];

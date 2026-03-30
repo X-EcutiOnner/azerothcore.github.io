@@ -1,7 +1,6 @@
 var a19074 =
 [
-    [ "HandleForceCast", "d9/dc5/a19074.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "d9/dc5/a19074.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "d9/dc5/a19074.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "d9/dc5/a19074.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "icecrown_citadel_teleport", "d9/dc5/a19074.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d9/dc5/a19074.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d9/dc5/a19074.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

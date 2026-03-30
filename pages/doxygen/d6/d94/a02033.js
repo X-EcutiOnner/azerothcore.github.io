@@ -1,7 +1,5 @@
 var a02033 =
 [
-    [ "WorldPackets::Calendar::GetEvent", "d4/daf/a10791.html", "d4/daf/a10791" ],
-    [ "WorldPackets::Calendar::GuildFilter", "dd/ddf/a10795.html", "dd/ddf/a10795" ],
-    [ "WorldPackets::Calendar::ArenaTeam", "d3/dee/a10799.html", "d3/dee/a10799" ],
-    [ "WorldPackets::Calendar::CalendarComplain", "d9/df4/a10803.html", "d9/df4/a10803" ]
+    [ "reset_commandscript", "de/d44/a12318.html", "de/d44/a12318" ],
+    [ "AddSC_reset_commandscript", "d6/d94/a02033.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ]
 ];

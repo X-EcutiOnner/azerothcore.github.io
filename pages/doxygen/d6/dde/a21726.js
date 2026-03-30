@@ -1,6 +1,8 @@
 var a21726 =
 [
-    [ "npc_hourglass_of_eternityAI", "d3/d34/a21730.html", "d3/d34/a21730" ],
-    [ "npc_hourglass_of_eternity", "d6/dde/a21726.html#a40500ff582ead06bd646be86baad7d35", null ],
-    [ "GetAI", "d6/dde/a21726.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
+    [ "AfterApply", "d6/dde/a21726.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "d6/dde/a21726.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "d6/dde/a21726.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "d6/dde/a21726.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "d6/dde/a21726.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

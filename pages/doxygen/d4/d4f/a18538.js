@@ -1,6 +1,6 @@
 var a18538 =
 [
-    [ "LastPhaseIceTombTargetSelector", "d4/d4f/a18538.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
-    [ "operator()", "d4/d4f/a18538.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
-    [ "_source", "d4/d4f/a18538.html#ab10d10dd0de7717078d31ac026d4c933", null ]
+    [ "ModDestHeight", "d4/d4f/a18538.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "d4/d4f/a18538.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "d4/d4f/a18538.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

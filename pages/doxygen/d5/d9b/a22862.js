@@ -1,7 +1,6 @@
 var a22862 =
 [
-    [ "PrepareAuraScript", "d5/d9b/a22862.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
-    [ "Register", "d5/d9b/a22862.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
-    [ "Update", "d5/d9b/a22862.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
-    [ "Validate", "d5/d9b/a22862.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
+    [ "HandleScriptEffect", "d5/d9b/a22862.html#a6489e3a58421da7c448a24d6673564c5", null ],
+    [ "PrepareSpellScript", "d5/d9b/a22862.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
+    [ "Register", "d5/d9b/a22862.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
 ];

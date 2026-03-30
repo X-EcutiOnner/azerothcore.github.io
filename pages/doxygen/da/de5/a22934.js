@@ -1,7 +1,9 @@
 var a22934 =
 [
-    [ "CalculateAmount", "da/de5/a22934.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "da/de5/a22934.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "da/de5/a22934.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "da/de5/a22934.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "FilterTargets", "da/de5/a22934.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "da/de5/a22934.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "da/de5/a22934.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "da/de5/a22934.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "da/de5/a22934.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "da/de5/a22934.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

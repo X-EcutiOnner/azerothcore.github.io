@@ -1,5 +1,9 @@
 var a14514 =
 [
-    [ "at_zulgurub_edge_of_madness_speech", "df/d96/a14514.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
-    [ "_OnTrigger", "df/d96/a14514.html#a725de49be12116f2f7e77edd31a096ae", null ]
+    [ "npc_brew_bubble", "df/d96/a14514.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "df/d96/a14514.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "df/d96/a14514.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "df/d96/a14514.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "df/d96/a14514.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "df/d96/a14514.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

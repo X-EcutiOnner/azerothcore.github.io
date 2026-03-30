@@ -1,6 +1,6 @@
 var a24638 =
 [
-    [ "RaiseDeadCheck", "dd/db9/a24638.html#abc6439e5b457f2f6e832f504167a392d", null ],
-    [ "operator()", "dd/db9/a24638.html#a9647e6afd21e7397f05349e66bea4326", null ],
-    [ "_caster", "dd/db9/a24638.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
+    [ "CalculateAmount", "dd/db9/a24638.html#af8b61cade7f9daae4b982c2a4c8b4a73", null ],
+    [ "PrepareAuraScript", "dd/db9/a24638.html#a3e1d132745f4739b8a3423cb55b0fc9d", null ],
+    [ "Register", "dd/db9/a24638.html#a642ce3a74d7163b264ed4674e14fafbc", null ]
 ];

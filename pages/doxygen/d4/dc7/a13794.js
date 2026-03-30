@@ -1,5 +1,4 @@
 var a13794 =
 [
-    [ "go_eredar_twins_blaze", "d4/dc7/a13794.html#a19d28875d3506d337e0ecbd93169f140", null ],
-    [ "InitializeAI", "d4/dc7/a13794.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d4/dc7/a13794.html#a255ebc2ebda65b412f46e05e332d605e", null ]
 ];

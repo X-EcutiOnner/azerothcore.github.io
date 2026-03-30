@@ -1,6 +1,12 @@
 var a15034 =
 [
-    [ "HandleDummy", "d9/dc6/a15034.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "d9/dc6/a15034.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "d9/dc6/a15034.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "boss_mal_ganisAI", "d9/dc6/a15034.html#aa8b70930372cd0729686f7c6032d3152", null ],
+    [ "DamageTaken", "d9/dc6/a15034.html#a4873386266ce3b4b849377028ff746a5", null ],
+    [ "JustDied", "d9/dc6/a15034.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
+    [ "JustEngagedWith", "d9/dc6/a15034.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
+    [ "KilledUnit", "d9/dc6/a15034.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
+    [ "Reset", "d9/dc6/a15034.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
+    [ "UpdateAI", "d9/dc6/a15034.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
+    [ "events", "d9/dc6/a15034.html#a194c002efe244b8c94a072faf72be771", null ],
+    [ "finished", "d9/dc6/a15034.html#ac4c90c814aa55781f863c958253e9df2", null ]
 ];

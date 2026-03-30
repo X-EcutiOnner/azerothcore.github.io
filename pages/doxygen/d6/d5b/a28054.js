@@ -1,5 +1,5 @@
 var a28054 =
 [
-    [ "AreaTrigger_at_last_rites", "d6/d5b/a28054.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d6/d5b/a28054.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "item_incendiary_explosives", "d6/d5b/a28054.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "d6/d5b/a28054.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

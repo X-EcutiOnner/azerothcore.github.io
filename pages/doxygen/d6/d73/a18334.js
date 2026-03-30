@@ -1,6 +1,6 @@
 var a18334 =
 [
-    [ "AbominationDespawner", "d6/d73/a18334.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "d6/d73/a18334.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "d6/d73/a18334.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "npc_sindragosa_trashAI", "da/df2/a18338.html", "da/df2/a18338" ],
+    [ "npc_sindragosa_trash", "d6/d73/a18334.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "d6/d73/a18334.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

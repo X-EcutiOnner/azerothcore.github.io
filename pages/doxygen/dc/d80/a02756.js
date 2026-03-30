@@ -1,21 +1,8 @@
 var a02756 =
 [
-    [ "AccountActionIpLogger", "de/dfd/a27751.html", "de/dfd/a27751" ],
-    [ "CharacterActionIpLogger", "d2/d9e/a27755.html", "d2/d9e/a27755" ],
-    [ "CharacterDeleteActionIpLogger", "df/d04/a27759.html", "df/d04/a27759" ],
-    [ "IPLoggingTypes", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
-      [ "ACCOUNT_LOGIN", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
-      [ "ACCOUNT_FAIL_LOGIN", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],
-      [ "ACCOUNT_CHANGE_PW", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059", null ],
-      [ "ACCOUNT_CHANGE_PW_FAIL", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53", null ],
-      [ "ACCOUNT_CHANGE_EMAIL", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c", null ],
-      [ "ACCOUNT_CHANGE_EMAIL_FAIL", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30", null ],
-      [ "CHARACTER_CREATE", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85", null ],
-      [ "CHARACTER_LOGIN", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363", null ],
-      [ "CHARACTER_LOGOUT", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607", null ],
-      [ "CHARACTER_DELETE", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162", null ],
-      [ "CHARACTER_FAILED_DELETE", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7", null ],
-      [ "UNKNOWN_ACTION", "dc/d80/a02756.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8", null ]
-    ] ],
-    [ "AddSC_action_ip_logger", "dc/d80/a02756.html#a530be5efb251d5ca58e97804e48ad953", null ]
+    [ "instance_drak_tharon_keep", "d0/d7c/a17010.html", "d0/d7c/a17010" ],
+    [ "spell_dtk_raise_dead_aura", "d7/d3b/a17014.html", "d7/d3b/a17014" ],
+    [ "spell_dtk_summon_random_drakkari", "db/dec/a17018.html", "db/dec/a17018" ],
+    [ "AddSC_instance_drak_tharon_keep", "dc/d80/a02756.html#a5644ddec1299c3c3988ffb003d0c3367", null ],
+    [ "doorData", "dc/d80/a02756.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

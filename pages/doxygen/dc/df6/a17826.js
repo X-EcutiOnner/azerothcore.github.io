@@ -1,6 +1,8 @@
 var a17826 =
 [
-    [ "AddExtraDamage", "dc/df6/a17826.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "dc/df6/a17826.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "dc/df6/a17826.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "HandlePeriodic", "dc/df6/a17826.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "dc/df6/a17826.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "dc/df6/a17826.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "dc/df6/a17826.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "dc/df6/a17826.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

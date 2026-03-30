@@ -1,17 +1,11 @@
 var a14994 =
 [
-    [ "npc_midsummer_ribbon_pole_target", "dc/ddb/a14994.html#ac09222eff300a11e03e8a3a1c9a3fd5f", null ],
-    [ "DoCleanupChecks", "dc/ddb/a14994.html#a5e5a67ed5492db34fd6c2e28a2cd7f74", null ],
-    [ "DoDancingFLameChecks", "dc/ddb/a14994.html#af4e76d832c3fd47eb88c1a69d0cdf9ff", null ],
-    [ "DoFireworkChecks", "dc/ddb/a14994.html#a19eb48c537d58ad8f2021e9eabe4fae2", null ],
-    [ "DoFlameCircleChecks", "dc/ddb/a14994.html#af37e104b67dcf9a2c181c142d56cc708", null ],
-    [ "DoGroundFlowerChecks", "dc/ddb/a14994.html#a0a9961eb0c2d5afde8f96bb0580d1974", null ],
-    [ "DoSpewLavaChecks", "dc/ddb/a14994.html#a94086429fe5cf506c64ea79ebcf03317", null ],
-    [ "LocateRibbonPole", "dc/ddb/a14994.html#a55f16f2ced0045ea373e9d0a239301d1", null ],
-    [ "SpawnFireSpiralBunny", "dc/ddb/a14994.html#ae91d1899212fa391f6ae4ec3a1de6e85", null ],
-    [ "SpellHit", "dc/ddb/a14994.html#ab732995946655894611eb1c12ce4e8a8", null ],
-    [ "UpdateAI", "dc/ddb/a14994.html#affeb3025627dd5697f0c4dccab66d3b6", null ],
-    [ "_bunny", "dc/ddb/a14994.html#a0161d569d4c1fb2e1bf69936312be8df", null ],
-    [ "_dancerList", "dc/ddb/a14994.html#a41e453f742a06bc7485e290756dbc746", null ],
-    [ "_ribbonPole", "dc/ddb/a14994.html#aeea38608ae98cd5597c104ea04e32523", null ]
+    [ "npc_hyjal_ground_trash", "dc/ddb/a14994.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "dc/ddb/a14994.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "dc/ddb/a14994.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "dc/ddb/a14994.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "dc/ddb/a14994.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "dc/ddb/a14994.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "dc/ddb/a14994.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "dc/ddb/a14994.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

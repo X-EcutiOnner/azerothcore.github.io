@@ -1,9 +1,9 @@
 var a25042 =
 [
-    [ "spell_gen_select_target_count", "da/de8/a25042.html#a65507c155a8746ff49c58c051b7868e4", null ],
-    [ "FilterTargets", "da/de8/a25042.html#a5de89be9ce321a0f4ac49853a700b502", null ],
-    [ "PrepareSpellScript", "da/de8/a25042.html#a42ddce15414dcdf495b572e0f75e9486", null ],
-    [ "Register", "da/de8/a25042.html#a94f86992275123e2e3989655cf077efd", null ],
-    [ "_count", "da/de8/a25042.html#acdf5daa848ae185b859c45a1271df68c", null ],
-    [ "_effTarget", "da/de8/a25042.html#a9c54508790062277c8275d2466e93fb3", null ]
+    [ "spell_gen_lifebloom", "da/de8/a25042.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
+    [ "AfterRemove", "da/de8/a25042.html#aea962f603e56c1bd33fccaef0c89d917", null ],
+    [ "PrepareAuraScript", "da/de8/a25042.html#ac11134bdc3588795ce6e256c5b02055f", null ],
+    [ "Register", "da/de8/a25042.html#ab4a552402ee9f90834320d6fc668cff3", null ],
+    [ "Validate", "da/de8/a25042.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
+    [ "_spellId", "da/de8/a25042.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
 ];

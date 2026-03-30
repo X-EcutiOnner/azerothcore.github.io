@@ -1,9 +1,8 @@
 var a24414 =
 [
-    [ "npc_pet_gen_fetch_ball", "d4/d76/a24414.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "d4/d76/a24414.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "d4/d76/a24414.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "d4/d76/a24414.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "d4/d76/a24414.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "d4/d76/a24414.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "CheckProc", "d4/d76/a24414.html#a068a730173ef0dc0cf239e8b0214b6a4", null ],
+    [ "HandleProc", "d4/d76/a24414.html#a39d04711bb64ad3fa3ee8dbeb10ffbc2", null ],
+    [ "PrepareAuraScript", "d4/d76/a24414.html#a87166b872450132de96835524b5857c7", null ],
+    [ "Register", "d4/d76/a24414.html#a4a1d7e55a99295b66380a6fe1f2b4cc9", null ],
+    [ "Validate", "d4/d76/a24414.html#a8d3a6b0496c725872d8e66f804bd8c96", null ]
 ];

@@ -1,7 +1,7 @@
 var a08854 =
 [
-    [ "ItemPosCount", "de/d62/a08854.html#a43458da1fc31d827b6de726754f7901e", null ],
-    [ "isContainedIn", "de/d62/a08854.html#a6977c544a2d39ca5872b75f27517974f", null ],
-    [ "count", "de/d62/a08854.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
-    [ "pos", "de/d62/a08854.html#ad8954f1a6323316510cfe0f332ee495f", null ]
+    [ "SetRuneState", "de/d62/a08854.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
+    [ "lastUsedRune", "de/d62/a08854.html#a88c702716eb3032c20ae5ed74922d923", null ],
+    [ "runes", "de/d62/a08854.html#aac485530bfa81d54d9da3213fe917c29", null ],
+    [ "runeState", "de/d62/a08854.html#ae58297e0766578b234604a97641501a1", null ]
 ];

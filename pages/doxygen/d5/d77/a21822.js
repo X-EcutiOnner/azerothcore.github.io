@@ -1,6 +1,6 @@
 var a21822 =
 [
-    [ "GhoulTargetCheck", "d5/d77/a21822.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "d5/d77/a21822.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "d5/d77/a21822.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_guardian_pavilionAI", "dd/dcb/a21826.html", "dd/dcb/a21826" ],
+    [ "npc_guardian_pavilion", "d5/d77/a21822.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d5/d77/a21822.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

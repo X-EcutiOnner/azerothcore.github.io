@@ -1,7 +1,6 @@
 var a16222 =
 [
-    [ "npc_ameAI", "d5/dd5/a16226.html", "d5/dd5/a16226" ],
-    [ "npc_ame", "d7/dfb/a16222.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
-    [ "GetAI", "d7/dfb/a16222.html#a09f7688c38d56319791f7543eb32f317", null ],
-    [ "OnQuestAccept", "d7/dfb/a16222.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d5/dd5/a16226.html", "d5/dd5/a16226" ],
+    [ "instance_azjol_nerub", "d7/dfb/a16222.html#a61476a0d15136d2bdb3a65eca72963da", null ],
+    [ "GetInstanceScript", "d7/dfb/a16222.html#a8bb8477669c6369afe508a400bd4d489", null ]
 ];

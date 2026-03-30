@@ -1,7 +1,6 @@
 var a14246 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d8/dda/a14246.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "d8/dda/a14246.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "d8/dda/a14246.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "d8/dda/a14246.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "boss_gahzranka", "d8/dda/a14246.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d8/dda/a14246.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d8/dda/a14246.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

@@ -1,6 +1,6 @@
 var a16066 =
 [
-    [ "npc_anachronos_the_ancientAI", "d9/d48/a16070.html", "d9/d48/a16070" ],
-    [ "npc_anachronos_the_ancient", "da/d7e/a16066.html#a720884359886e6f881190471005f4cfc", null ],
-    [ "GetAI", "da/d7e/a16066.html#a345c801231907d98f2ab2425b1d35cbc", null ]
+    [ "npc_shadowpriest_sezzizAI", "d9/d48/a16070.html", "d9/d48/a16070" ],
+    [ "npc_shadowpriest_sezziz", "da/d7e/a16066.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
+    [ "GetAI", "da/d7e/a16066.html#a1513b766f18dbc290b6682582fd33b1d", null ]
 ];

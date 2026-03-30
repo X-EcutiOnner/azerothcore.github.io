@@ -1,7 +1,11 @@
 var a23718 =
 [
-    [ "boss_zereketh_the_unbound", "d0/d96/a23718.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d0/d96/a23718.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d0/d96/a23718.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d0/d96/a23718.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "npc_aeranasAI", "d0/d96/a23718.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "JustReachedHome", "d0/d96/a23718.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
+    [ "Reset", "d0/d96/a23718.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d0/d96/a23718.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "_defeated", "d0/d96/a23718.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
+    [ "envelopingWinds_Timer", "d0/d96/a23718.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d0/d96/a23718.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d0/d96/a23718.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

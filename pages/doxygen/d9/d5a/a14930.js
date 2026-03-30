@@ -1,7 +1,6 @@
 var a14930 =
 [
-    [ "go_loosely_turned_soilAI", "d8/d19/a14934.html", "d8/d19/a14934" ],
-    [ "go_loosely_turned_soil", "d9/d5a/a14930.html#a3b4d51e2b3a604e030962127269236f1", null ],
-    [ "GetAI", "d9/d5a/a14930.html#acead5810a848f8837fa65af1f2ac00bd", null ],
-    [ "OnQuestReward", "d9/d5a/a14930.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
+    [ "HandleHit", "d9/d5a/a14930.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
+    [ "PrepareSpellScript", "d9/d5a/a14930.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
+    [ "Register", "d9/d5a/a14930.html#a64a861b5c25df5780390aa55899393d7", null ]
 ];

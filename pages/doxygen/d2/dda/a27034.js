@@ -1,7 +1,6 @@
 var a27034 =
 [
-    [ "CheckRequirement", "d2/dda/a27034.html#afc9206b1d92834943c9825dfd97439c9", null ],
-    [ "HandleScriptEffect", "d2/dda/a27034.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "d2/dda/a27034.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "d2/dda/a27034.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "CheckCast", "d2/dda/a27034.html#a97f479cccecc6f37c75b47122b47e333", null ],
+    [ "PrepareSpellScript", "d2/dda/a27034.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
+    [ "Register", "d2/dda/a27034.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
 ];

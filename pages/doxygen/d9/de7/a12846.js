@@ -1,6 +1,9 @@
 var a12846 =
 [
-    [ "boss_vaelAI", "d1/dc6/a12850.html", "d1/dc6/a12850" ],
-    [ "boss_vaelastrasz", "d9/de7/a12846.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
-    [ "GetAI", "d9/de7/a12846.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
+    [ "HandleEffectApply", "d9/de7/a12846.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "d9/de7/a12846.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "d9/de7/a12846.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "d9/de7/a12846.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "d9/de7/a12846.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "d9/de7/a12846.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

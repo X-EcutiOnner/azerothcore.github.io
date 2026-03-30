@@ -1,7 +1,6 @@
 var a15030 =
 [
-    [ "HandleDummy", "d4/d5f/a15030.html#a05c3589ee04eed87449f652db065f0e9", null ],
-    [ "PrepareSpellScript", "d4/d5f/a15030.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
-    [ "Register", "d4/d5f/a15030.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
-    [ "Validate", "d4/d5f/a15030.html#a5fc6dae87ffb634cc0de389196751b22", null ]
+    [ "boss_mal_ganisAI", "d9/dc6/a15034.html", "d9/dc6/a15034" ],
+    [ "boss_mal_ganis", "d4/d5f/a15030.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "d4/d5f/a15030.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

@@ -1,7 +1,10 @@
 var a24922 =
 [
-    [ "HandleProc", "da/d63/a24922.html#a17f1f652f4144bfade0072e311f579e7", null ],
-    [ "PrepareAuraScript", "da/d63/a24922.html#a8ab8da270b52ce7be6419f5947df6566", null ],
-    [ "Register", "da/d63/a24922.html#a660b69eb520799733f59218c919b28ed", null ],
-    [ "Validate", "da/d63/a24922.html#a433be7a238be09e86c395a6d3625c56d", null ]
+    [ "Load", "da/d63/a24922.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "da/d63/a24922.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "da/d63/a24922.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "da/d63/a24922.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "da/d63/a24922.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "da/d63/a24922.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "da/d63/a24922.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

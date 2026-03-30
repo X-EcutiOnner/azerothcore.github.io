@@ -1,4 +1,6 @@
 var a00335 =
 [
-    [ "Acore::Crypto::Argon2", "d1/d5e/a05403.html", "d1/d5e/a05403" ]
+    [ "CONFIG_HIGH_PRIORITY", "df/d91/a00335.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
+    [ "CONFIG_PROCESSOR_AFFINITY", "df/d91/a00335.html#a714853b6677573f2aa289978eee5b83f", null ],
+    [ "SetProcessPriority", "df/d91/a00335.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
 ];

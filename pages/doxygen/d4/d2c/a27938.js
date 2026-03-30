@@ -1,7 +1,6 @@
 var a27938 =
 [
-    [ "HandleProc", "d4/d2c/a27938.html#a41b42a2d219904cdaf2a714d97e500f7", null ],
-    [ "PrepareAuraScript", "d4/d2c/a27938.html#a95c26300614ecdab588ddcc256fc1fd6", null ],
-    [ "Register", "d4/d2c/a27938.html#afb32150ac10ad392b63f40db05433835", null ],
-    [ "Validate", "d4/d2c/a27938.html#ab012775206fb6011eff8fbed293319c8", null ]
+    [ "go_gilded_brazierAI", "dc/d03/a27942.html", "dc/d03/a27942" ],
+    [ "go_gilded_brazier", "d4/d2c/a27938.html#a778c753a8432131601371da8849ef004", null ],
+    [ "GetAI", "d4/d2c/a27938.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
 ];

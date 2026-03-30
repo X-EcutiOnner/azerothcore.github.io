@@ -1,12 +1,6 @@
 var a21706 =
 [
-    [ "npc_dalaran_warriorAI", "d4/dc0/a21706.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
-    [ "Initialize", "d4/dc0/a21706.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
-    [ "JustEngagedWith", "d4/dc0/a21706.html#ae6690f0681363784e457fbd653f5b3f9", null ],
-    [ "Reset", "d4/dc0/a21706.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
-    [ "UpdateAI", "d4/dc0/a21706.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
-    [ "Battleshout_timer", "d4/dc0/a21706.html#ae36f30f816164b60232bd849e74c3da1", null ],
-    [ "disarm_timer", "d4/dc0/a21706.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
-    [ "hamstring_timer", "d4/dc0/a21706.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
-    [ "shout_timer", "d4/dc0/a21706.html#ac91770c1e9eb31d687247450898a48ae", null ]
+    [ "npc_plaguehound_trackerAI", "d2/d0e/a21710.html", "d2/d0e/a21710" ],
+    [ "npc_plaguehound_tracker", "d4/dc0/a21706.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "d4/dc0/a21706.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

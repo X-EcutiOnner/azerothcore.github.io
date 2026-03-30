@@ -1,6 +1,6 @@
 var a17414 =
 [
-    [ "boss_frostsworn_generalAI", "d7/d50/a17418.html", "d7/d50/a17418" ],
-    [ "boss_frostsworn_general", "df/d3e/a17414.html#a33023712cf056eedfed1cb38e18af5dd", null ],
-    [ "GetAI", "df/d3e/a17414.html#a8e958e13999f23a81a7230fa9ece276b", null ]
+    [ "HandlePeriodic", "df/d3e/a17414.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "df/d3e/a17414.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "df/d3e/a17414.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

@@ -1,6 +1,7 @@
 var a22694 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d0/ddd/a22698.html", "d0/ddd/a22698" ],
-    [ "instance_shadow_labyrinth", "db/da7/a22694.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "db/da7/a22694.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "Absorb", "db/da7/a22694.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
+    [ "HandleEffectRemove", "db/da7/a22694.html#a3d4026e5208acb948c089a4bedba0de8", null ],
+    [ "PrepareAuraScript", "db/da7/a22694.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
+    [ "Register", "db/da7/a22694.html#a983cf678001efcbccc4b34a9ad919881", null ]
 ];

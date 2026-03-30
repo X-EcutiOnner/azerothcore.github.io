@@ -1,6 +1,7 @@
 var a24862 =
 [
-    [ "HandleKnockBack", "dc/db2/a24862.html#ae50d143953074b83183482770046e131", null ],
-    [ "PrepareSpellScript", "dc/db2/a24862.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
-    [ "Register", "dc/db2/a24862.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
+    [ "HandleEffectPeriodic", "dc/db2/a24862.html#a3a2e7653276964fd36c93b41aa8f25ea", null ],
+    [ "PrepareAuraScript", "dc/db2/a24862.html#a893a539f4eeb0b9f027c5a306cc7bd53", null ],
+    [ "Register", "dc/db2/a24862.html#a36792fd068ec7444aa118ec63cf972a7", null ],
+    [ "Validate", "dc/db2/a24862.html#aa57af116294cfba007586506ba1dbeb5", null ]
 ];

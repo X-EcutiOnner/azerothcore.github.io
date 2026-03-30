@@ -1,7 +1,8 @@
 var a20018 =
 [
-    [ "HandleScript", "d2/ddf/a20018.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d2/ddf/a20018.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d2/ddf/a20018.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d2/ddf/a20018.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "HandleOnEffectApply", "d2/ddf/a20018.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "d2/ddf/a20018.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "d2/ddf/a20018.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "d2/ddf/a20018.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "d2/ddf/a20018.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

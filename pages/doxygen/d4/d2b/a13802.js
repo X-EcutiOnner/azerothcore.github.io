@@ -1,16 +1,14 @@
 var a13802 =
 [
-    [ "boss_felmyst", "d4/d2b/a13802.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
-    [ "InitializeAI", "d4/d2b/a13802.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
-    [ "JustDied", "d4/d2b/a13802.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
-    [ "JustEngagedWith", "d4/d2b/a13802.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
-    [ "KilledUnit", "d4/d2b/a13802.html#a0233ebbcbb21d100425ac76223e839be", null ],
-    [ "MovementInform", "d4/d2b/a13802.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
-    [ "Reset", "d4/d2b/a13802.html#ae5181c789809a859edb40488e206c0d3", null ],
-    [ "ScheduleGroundAbilities", "d4/d2b/a13802.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
-    [ "SpellHitTarget", "d4/d2b/a13802.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
-    [ "StartIntro", "d4/d2b/a13802.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
-    [ "UpdateAI", "d4/d2b/a13802.html#a0e429d8cf49946c0232b9c405c340356", null ],
-    [ "_currentLane", "d4/d2b/a13802.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
-    [ "_strafeCount", "d4/d2b/a13802.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
+    [ "instance_uldaman_InstanceMapScript", "d4/d2b/a13802.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "d4/d2b/a13802.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "d4/d2b/a13802.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "d4/d2b/a13802.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "d4/d2b/a13802.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "d4/d2b/a13802.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "d4/d2b/a13802.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "d4/d2b/a13802.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "d4/d2b/a13802.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "d4/d2b/a13802.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "d4/d2b/a13802.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

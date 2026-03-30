@@ -1,7 +1,7 @@
 var a15054 =
 [
-    [ "GetVisualThrow", "d4/d13/a15054.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d4/d13/a15054.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d4/d13/a15054.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d4/d13/a15054.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "OnRemove", "d4/d13/a15054.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
+    [ "PrepareAuraScript", "d4/d13/a15054.html#ab082adc51983f124d0467cbff63cffb7", null ],
+    [ "Register", "d4/d13/a15054.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
+    [ "Validate", "d4/d13/a15054.html#a73421b82f483e73314dbb862fb0a11c7", null ]
 ];

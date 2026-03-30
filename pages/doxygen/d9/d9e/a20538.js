@@ -1,5 +1,6 @@
 var a20538 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "d9/d9e/a20538.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "d9/d9e/a20538.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "PrepareSpellScript", "d9/d9e/a20538.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "d9/d9e/a20538.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "d9/d9e/a20538.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

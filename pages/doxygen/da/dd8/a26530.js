@@ -1,7 +1,10 @@
 var a26530 =
 [
-    [ "CalculateSpellAmount", "da/dd8/a26530.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
-    [ "CheckCast", "da/dd8/a26530.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "da/dd8/a26530.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "da/dd8/a26530.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "CalculateAPAmount", "da/dd8/a26530.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "da/dd8/a26530.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "da/dd8/a26530.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "da/dd8/a26530.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "da/dd8/a26530.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "da/dd8/a26530.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "da/dd8/a26530.html#a88520214bd87511b615965593f1b927f", null ]
 ];

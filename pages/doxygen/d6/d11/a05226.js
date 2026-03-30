@@ -1,9 +1,9 @@
 var a05226 =
 [
-    [ "MapRayCallback", "d6/d11/a05226.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
-    [ "didHit", "d6/d11/a05226.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
-    [ "operator()", "d6/d11/a05226.html#a0f218465b321da5f8289dfa815acbfd4", null ],
-    [ "flags", "d6/d11/a05226.html#a88d1e6d6fa43608bcee21a822488f061", null ],
-    [ "hit", "d6/d11/a05226.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
-    [ "prims", "d6/d11/a05226.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
+    [ "MMapMgr", "d6/d11/a05226.html#abd4bd2ef84d57be5000ab37ed36ded8c", null ],
+    [ "~MMapMgr", "d6/d11/a05226.html#a0891f2313f7c78182334b43e304bafd0", null ],
+    [ "CreateNavMeshQuery", "d6/d11/a05226.html#affca526b45b63f9c827a52baa212f02c", null ],
+    [ "LoadNavMesh", "d6/d11/a05226.html#aead5607e8f61161464c388c889ca9938", null ],
+    [ "LoadTile", "d6/d11/a05226.html#a2b1efdb836189224a7ac1247b6c397e5", null ],
+    [ "packTileID", "d6/d11/a05226.html#ace3265c248ccf2a34ca4b7c43f294e43", null ]
 ];

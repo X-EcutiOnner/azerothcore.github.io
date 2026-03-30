@@ -1,9 +1,7 @@
 var a14558 =
 [
-    [ "npc_shade_of_jindo", "d0/d2c/a14558.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
-    [ "IsSummonedBy", "d0/d2c/a14558.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
-    [ "JustEngagedWith", "d0/d2c/a14558.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
-    [ "Reset", "d0/d2c/a14558.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
-    [ "UpdateAI", "d0/d2c/a14558.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
-    [ "_scheduler", "d0/d2c/a14558.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
+    [ "HandleScriptEffect", "d0/d2c/a14558.html#ae758c224878aebdde0124b5d4ec902a5", null ],
+    [ "PrepareSpellScript", "d0/d2c/a14558.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
+    [ "Register", "d0/d2c/a14558.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
+    [ "Validate", "d0/d2c/a14558.html#a56f71954e122f651c6e2ec68453e16cc", null ]
 ];

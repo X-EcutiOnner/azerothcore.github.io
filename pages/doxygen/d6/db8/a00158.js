@@ -1,11 +1,6 @@
 var a00158 =
 [
-    [ "BaseGain", "d6/db8/a00158.html#ada8e56c81ab672d85f2ff274d109e477", null ],
-    [ "Gain", "d6/db8/a00158.html#ab923dd9a0df7d75127965b40539d4a10", null ],
-    [ "GetColorCode", "d6/db8/a00158.html#a812c722ab7eb34807d8cad9659d34245", null ],
-    [ "GetGrayLevel", "d6/db8/a00158.html#a9c310a4423fd5ada14fac549e4b1a6fd", null ],
-    [ "GetZeroDifference", "d6/db8/a00158.html#a4152e9ef9972f6a20cbc990dce953c36", null ],
-    [ "hk_honor_at_level", "d6/db8/a00158.html#ad25519337dcc6370a39a072c53386f55", null ],
-    [ "hk_honor_at_level_f", "d6/db8/a00158.html#a218866625f1b3b8224fb44f5a0c8b416", null ],
-    [ "xp_in_group_rate", "d6/db8/a00158.html#a304088bebc0743c764589112d2ba3b7f", null ]
+    [ "GameObjectModelOwnerBase", "d2/d63/a05306.html", "d2/d63/a05306" ],
+    [ "GameObjectModel", "d8/dfd/a05310.html", "d8/dfd/a05310" ],
+    [ "LoadGameObjectModelList", "d6/db8/a00158.html#a5a80774080fc05f90c7d92213fda6788", null ]
 ];

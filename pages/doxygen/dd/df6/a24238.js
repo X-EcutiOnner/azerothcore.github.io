@@ -1,6 +1,7 @@
 var a24238 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "db/d9d/a24242.html", "db/d9d/a24242" ],
-    [ "npc_shadowmoon_tuber_node", "dd/df6/a24238.html#a98e8c7a84789457900fa342cca209d41", null ],
-    [ "GetAI", "dd/df6/a24238.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
+    [ "CheckProc", "dd/df6/a24238.html#a7d829589ea098e002206b72f789c95df", null ],
+    [ "PrepareAuraScript", "dd/df6/a24238.html#a04258b702d79372c0e9c2e1845a6563e", null ],
+    [ "Register", "dd/df6/a24238.html#af62e0a7a43a6762e8e067931e7ec09af", null ],
+    [ "Validate", "dd/df6/a24238.html#a56eaad6f2b1d14cea5fe3f7f27cdb877", null ]
 ];

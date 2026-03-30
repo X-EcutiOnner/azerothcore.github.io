@@ -1,8 +1,6 @@
 var a14614 =
 [
-    [ "npc_spawn_of_marli", "d3/dd9/a14614.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "d3/dd9/a14614.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "d3/dd9/a14614.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "d3/dd9/a14614.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "d3/dd9/a14614.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "db/df3/a14618.html", "db/df3/a14618" ],
+    [ "npc_grizzlemaw_cw_trigger", "d3/dd9/a14614.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
+    [ "GetAI", "d3/dd9/a14614.html#a1a834bda866033a3cca4fc4ece447313", null ]
 ];

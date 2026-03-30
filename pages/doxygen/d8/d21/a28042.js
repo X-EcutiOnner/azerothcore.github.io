@@ -1,5 +1,6 @@
 var a28042 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "d8/d21/a28042.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "d8/d21/a28042.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "guard_shattrath_aldorAI", "df/d29/a28046.html", "df/d29/a28046" ],
+    [ "guard_shattrath_aldor", "d8/d21/a28042.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d8/d21/a28042.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

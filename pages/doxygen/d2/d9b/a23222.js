@@ -1,6 +1,5 @@
 var a23222 =
 [
-    [ "FilterTargets", "d2/d9b/a23222.html#af545460920658bc8ee0444f7c0d51970", null ],
-    [ "PrepareSpellScript", "d2/d9b/a23222.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
-    [ "Register", "d2/d9b/a23222.html#ac12cde698f5b0bbcdf433821772c7519", null ]
+    [ "go_broggok_lever", "d2/d9b/a23222.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
+    [ "OnGossipHello", "d2/d9b/a23222.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
 ];

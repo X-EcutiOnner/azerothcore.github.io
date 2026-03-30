@@ -1,6 +1,9 @@
 var a23410 =
 [
-    [ "HandleScript", "de/d80/a23410.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "de/d80/a23410.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "de/d80/a23410.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "boss_dalliah_the_doomsayer", "de/d80/a23410.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "de/d80/a23410.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "de/d80/a23410.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "de/d80/a23410.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "de/d80/a23410.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "de/d80/a23410.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

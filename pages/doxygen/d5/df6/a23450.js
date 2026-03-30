@@ -1,7 +1,5 @@
 var a23450 =
 [
-    [ "OnApply", "d5/df6/a23450.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d5/df6/a23450.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d5/df6/a23450.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d5/df6/a23450.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "modelId", "d5/df6/a23450.html#a6a7f030a6445a46fe55640356e9c5124", null ],
+    [ "spellId", "d5/df6/a23450.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
 ];

@@ -1,6 +1,7 @@
 var a12450 =
 [
-    [ "boss_grizzleAI", "d3/dae/a12454.html", "d3/dae/a12454" ],
-    [ "boss_grizzle", "d8/d48/a12450.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
-    [ "GetAI", "d8/d48/a12450.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
+    [ "boss_gorosh_the_dervish", "d8/d48/a12450.html#a49b79326e3eae3f42be4955f30982ffe", null ],
+    [ "JustEngagedWith", "d8/d48/a12450.html#ad3b7ab3db30d16549cd85c471bbb190b", null ],
+    [ "UpdateAI", "d8/d48/a12450.html#adf24561c335f1023f44f76709e66bc83", null ],
+    [ "nextWhirlwindTime", "d8/d48/a12450.html#a61b57a2db3d097a0da74a502fb272339", null ]
 ];

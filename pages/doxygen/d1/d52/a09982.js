@@ -1,6 +1,7 @@
 var a09982 =
 [
-    [ "LootValidatorRef", "d1/d52/a09982.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
-    [ "sourceObjectDestroyLink", "d1/d52/a09982.html#a8833022cf1acf786c06f1580fbe11c24", null ],
-    [ "targetObjectDestroyLink", "d1/d52/a09982.html#a93baac45dcb801215c28ac0dba097eba", null ]
+    [ "QuestItem", "d1/d52/a09982.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
+    [ "QuestItem", "d1/d52/a09982.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
+    [ "index", "d1/d52/a09982.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
+    [ "is_looted", "d1/d52/a09982.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
 ];

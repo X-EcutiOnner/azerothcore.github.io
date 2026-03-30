@@ -1,8 +1,13 @@
 var a23094 =
 [
-    [ "CalculateAmount", "db/ddf/a23094.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
-    [ "OnPeriodic", "db/ddf/a23094.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
-    [ "PrepareAuraScript", "db/ddf/a23094.html#a1278420b279449c1c6a53b1a7b53f539", null ],
-    [ "Register", "db/ddf/a23094.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
-    [ "Validate", "db/ddf/a23094.html#a601c2db3a8e47d48b956ed102cbca104", null ]
+    [ "boss_ghazan", "db/ddf/a23094.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "db/ddf/a23094.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "db/ddf/a23094.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "db/ddf/a23094.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "db/ddf/a23094.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "db/ddf/a23094.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "db/ddf/a23094.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "db/ddf/a23094.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "db/ddf/a23094.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "db/ddf/a23094.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

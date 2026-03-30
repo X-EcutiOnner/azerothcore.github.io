@@ -1,7 +1,9 @@
 var a15138 =
 [
-    [ "HandleProc", "d7/d02/a15138.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
-    [ "PrepareAuraScript", "d7/d02/a15138.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
-    [ "Register", "d7/d02/a15138.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
-    [ "Validate", "d7/d02/a15138.html#a18398f81a80f9a1f47958de3be7b9189", null ]
+    [ "boss_chrono_lord_deja", "d7/d02/a15138.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "d7/d02/a15138.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "d7/d02/a15138.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "d7/d02/a15138.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "d7/d02/a15138.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "d7/d02/a15138.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

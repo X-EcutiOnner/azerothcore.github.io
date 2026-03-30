@@ -1,8 +1,12 @@
 var a12354 =
 [
-    [ "ironhand_guardianAI", "d8/d14/a12354.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "d8/d14/a12354.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "d8/d14/a12354.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "d8/d14/a12354.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "d8/d14/a12354.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "wp_commandscript", "d8/d14/a12354.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "d8/d14/a12354.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "d8/d14/a12354.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
+    [ "HandleWpEventCommand", "d8/d14/a12354.html#a16fdb79724677307198ccf2fd6aa670d", null ],
+    [ "HandleWpLoadCommand", "d8/d14/a12354.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
+    [ "HandleWpModifyCommand", "d8/d14/a12354.html#a83677a6b64c3e5f6e44345026775721a", null ],
+    [ "HandleWpReloadCommand", "d8/d14/a12354.html#a671598d3727fa7e9358391008c690cb6", null ],
+    [ "HandleWpShowCommand", "d8/d14/a12354.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
+    [ "HandleWpUnLoadCommand", "d8/d14/a12354.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
 ];

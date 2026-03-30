@@ -1,7 +1,4 @@
 var a28874 =
 [
-    [ "asyncId", "dd/dc3/a28874.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "dd/dc3/a28874.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "dd/dc3/a28874.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "dd/dc3/a28874.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "ratio", "dd/dc3/a28874.html#abe0a3d6e014b8ceafb6a991397812ae1", null ]
 ];

@@ -1,12 +1,13 @@
 var a14074 =
 [
-    [ "npc_cameron", "dd/d4e/a14074.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
-    [ "MoveTheChildren", "dd/d4e/a14074.html#a85ae436f19f69ffb853330f01ee152a0", null ],
-    [ "PathEndReached", "dd/d4e/a14074.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
-    [ "sOnGameEvent", "dd/d4e/a14074.html#ab22841871cfcdc926b28296a5b4e440c", null ],
-    [ "SoundPicker", "dd/d4e/a14074.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
-    [ "UpdateAI", "dd/d4e/a14074.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
-    [ "_childrenGUIDs", "dd/d4e/a14074.html#ad260466902e8fb1a2e02998cc4549695", null ],
-    [ "_events", "dd/d4e/a14074.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
-    [ "_started", "dd/d4e/a14074.html#a985d0590eedde340a3923e299d4dffd8", null ]
+    [ "npc_daphne_stilwellAI", "dd/d4e/a14074.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
+    [ "AttackStart", "dd/d4e/a14074.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
+    [ "JustSummoned", "dd/d4e/a14074.html#ae56554d30e9de7644efab891555c57e0", null ],
+    [ "Reset", "dd/d4e/a14074.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
+    [ "SummonedCreatureDies", "dd/d4e/a14074.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
+    [ "Update", "dd/d4e/a14074.html#a4099d75c4a6bca1525781a5753ef9972", null ],
+    [ "WaypointReached", "dd/d4e/a14074.html#a1035eb0a1696730d8304593b5fb079e4", null ],
+    [ "WaypointReached", "dd/d4e/a14074.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "summons", "dd/d4e/a14074.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
+    [ "textCounter", "dd/d4e/a14074.html#a62ab24169c1b7c3028ab33303b217f63", null ]
 ];

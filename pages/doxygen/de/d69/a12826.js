@@ -1,7 +1,6 @@
 var a12826 =
 [
-    [ "HandleDummy", "de/d69/a12826.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "de/d69/a12826.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "de/d69/a12826.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "de/d69/a12826.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "boss_sulfuron", "de/d69/a12826.html#a7ede84fab05e5cb008036be559c3c799", null ],
+    [ "ExecuteEvent", "de/d69/a12826.html#a5db50a398c704d8276566c1d74111d19", null ],
+    [ "JustEngagedWith", "de/d69/a12826.html#a320f58043ee525656a7c2fe94a2a4371", null ]
 ];

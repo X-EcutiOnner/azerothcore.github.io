@@ -1,13 +1,6 @@
 var a19102 =
 [
-    [ "npc_highlord_tirion_fordringAI", "de/d7f/a19102.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "de/d7f/a19102.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "de/d7f/a19102.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "de/d7f/a19102.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "de/d7f/a19102.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "de/d7f/a19102.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "de/d7f/a19102.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "de/d7f/a19102.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "de/d7f/a19102.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "de/d7f/a19102.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "npc_isle_of_conquest_turretAI", "df/d71/a19106.html", "df/d71/a19106" ],
+    [ "npc_isle_of_conquest_turret", "de/d7f/a19102.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "de/d7f/a19102.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

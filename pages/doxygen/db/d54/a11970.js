@@ -1,7 +1,7 @@
 var a11970 =
 [
-    [ "CompressedData", "db/d54/a11970.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
-    [ "CompressedSize", "db/d54/a11970.html#ab57879b41c825623a989db13a53f2f4e", null ],
-    [ "Id", "db/d54/a11970.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
-    [ "Key", "db/d54/a11970.html#ad100540b5c6722a19c938b134a985aed", null ]
+    [ "StringTransaction", "db/d54/a11970.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
+    [ "Append", "db/d54/a11970.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
+    [ "GetBuffer", "db/d54/a11970.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
+    [ "_buf", "db/d54/a11970.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
 ];

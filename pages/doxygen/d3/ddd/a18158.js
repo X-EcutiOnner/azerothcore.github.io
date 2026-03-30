@@ -1,8 +1,6 @@
 var a18158 =
 [
-    [ "Load", "d3/ddd/a18158.html#ad1105149d5e42318382af6c07149d522", null ],
-    [ "PeriodicTick", "d3/ddd/a18158.html#a8e675178256746d08af50a6b75ec582e", null ],
-    [ "PrepareAuraScript", "d3/ddd/a18158.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
-    [ "Register", "d3/ddd/a18158.html#a0fa7d86214827711edd019dd3b40c667", null ],
-    [ "_tickNo", "d3/ddd/a18158.html#a418212d2daa873d69a83b4c1341a8903", null ]
+    [ "npc_little_oozeAI", "df/dd3/a18162.html", "df/dd3/a18162" ],
+    [ "npc_little_ooze", "d3/ddd/a18158.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "d3/ddd/a18158.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

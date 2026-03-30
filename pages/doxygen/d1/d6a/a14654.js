@@ -1,6 +1,6 @@
 var a14654 =
 [
-    [ "boss_wushoolayAI", "da/d7f/a14658.html", "da/d7f/a14658" ],
-    [ "boss_wushoolay", "d1/d6a/a14654.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d1/d6a/a14654.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "HandleScript", "d1/d6a/a14654.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
+    [ "PrepareSpellScript", "d1/d6a/a14654.html#a26b296c1c4d9f5193dc3773509267284", null ],
+    [ "Register", "d1/d6a/a14654.html#aad66e4079ea9404b9057546d8959a395", null ]
 ];

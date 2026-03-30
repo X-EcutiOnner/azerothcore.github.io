@@ -1,11 +1,7 @@
 var a12470 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "df/d92/a12470.html#a557fda67d1d1de268ba661350ba915dc", null ],
-    [ "JustEngagedWith", "df/d92/a12470.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
-    [ "Reset", "df/d92/a12470.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
-    [ "UpdateAI", "df/d92/a12470.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
-    [ "ManaBurn_Timer", "df/d92/a12470.html#aede307f972942c15c4b2bfa90e75856d", null ],
-    [ "PsychicScream_Timer", "df/d92/a12470.html#a291f3484e4d125fefe437d96b12153f1", null ],
-    [ "ShadowShield_Timer", "df/d92/a12470.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
-    [ "ShadowWordPain_Timer", "df/d92/a12470.html#aec0eab93e8494bc1abc87d81460fac31", null ]
+    [ "boss_moira_bronzebeard", "df/d92/a12470.html#aaab4b597fd97619c2a41e2a6425810de", null ],
+    [ "CastOnEmperorIfPossible", "df/d92/a12470.html#a413aab0c096319ea17d6c6a078b056ea", null ],
+    [ "JustEngagedWith", "df/d92/a12470.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
+    [ "UpdateAI", "df/d92/a12470.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
 ];

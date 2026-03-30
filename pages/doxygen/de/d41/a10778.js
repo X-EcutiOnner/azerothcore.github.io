@@ -1,7 +1,7 @@
 var a10778 =
 [
-    [ "CalendarComplain", "de/d41/a10778.html#a35252d9ee72257a0771f3faa274f8029", null ],
-    [ "Read", "de/d41/a10778.html#ae955f181fe7b36ba360d5b8e9a53db45", null ],
-    [ "ComplainGuid", "de/d41/a10778.html#a3a8ba139be8eef32193658fa235fc4c5", null ],
-    [ "EventId", "de/d41/a10778.html#a3cc5c6b822a697df900826b64b5b9759", null ]
+    [ "AutoBankItem", "de/d41/a10778.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
+    [ "Read", "de/d41/a10778.html#a8651192c6040cdf5d257c134dde1208c", null ],
+    [ "Bag", "de/d41/a10778.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
+    [ "Slot", "de/d41/a10778.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
 ];

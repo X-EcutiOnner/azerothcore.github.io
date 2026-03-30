@@ -1,5 +1,6 @@
 var a16334 =
 [
-    [ "achievement_respect_your_elders", "d2/d0c/a16334.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "d2/d0c/a16334.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "npc_onyx_flamecallerAI", "d2/d8c/a16338.html", "d2/d8c/a16338" ],
+    [ "npc_onyx_flamecaller", "d2/d0c/a16334.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
+    [ "GetAI", "d2/d0c/a16334.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
 ];

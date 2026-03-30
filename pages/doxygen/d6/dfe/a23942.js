@@ -1,6 +1,9 @@
 var a23942 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d5/df2/a23946.html", "d5/df2/a23946" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "d6/dfe/a23942.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "d6/dfe/a23942.html#a250707096229da28024960beeb7725bf", null ]
+    [ "npc_korkron_or_wildhammer", "d6/dfe/a23942.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "d6/dfe/a23942.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "d6/dfe/a23942.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "d6/dfe/a23942.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "d6/dfe/a23942.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "d6/dfe/a23942.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

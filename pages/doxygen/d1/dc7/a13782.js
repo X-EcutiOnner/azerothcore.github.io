@@ -1,7 +1,8 @@
 var a13782 =
 [
-    [ "HandleScript", "d1/dc7/a13782.html#aae2f572a523431f6764f08e4719adbcf", null ],
-    [ "PrepareSpellScript", "d1/dc7/a13782.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
-    [ "Register", "d1/dc7/a13782.html#ae3b002197564318cc92242bd925d35af", null ],
-    [ "Validate", "d1/dc7/a13782.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
+    [ "npc_sunblade_arch_mage", "d1/dc7/a13782.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "d1/dc7/a13782.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "d1/dc7/a13782.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "d1/dc7/a13782.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "d1/dc7/a13782.html#aa6680f06651316996868907b1d28126c", null ]
 ];

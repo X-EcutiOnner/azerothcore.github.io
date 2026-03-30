@@ -1,6 +1,6 @@
 var a20010 =
 [
-    [ "boss_krystallusAI", "d2/d54/a20014.html", "d2/d54/a20014" ],
-    [ "boss_krystallus", "db/dcd/a20010.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "db/dcd/a20010.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "CheckAreaTarget", "db/dcd/a20010.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "db/dcd/a20010.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "db/dcd/a20010.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

@@ -1,6 +1,6 @@
 var a19094 =
 [
-    [ "CaptainSurviveTalk", "d1/d49/a19094.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "d1/d49/a19094.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "d1/d49/a19094.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "instance_icecrown_citadel_InstanceMapScript", "dc/d4b/a19098.html", "dc/d4b/a19098" ],
+    [ "instance_icecrown_citadel", "d1/d49/a19094.html#a0901e23025cff08d1a7516bbef099ffa", null ],
+    [ "GetInstanceScript", "d1/d49/a19094.html#a787c32626681f15f5515385a9ba6b848", null ]
 ];

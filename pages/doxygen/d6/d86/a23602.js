@@ -1,6 +1,7 @@
 var a23602 =
 [
-    [ "HandleHit", "d6/d86/a23602.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "d6/d86/a23602.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "d6/d86/a23602.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "boss_gatewatcher_iron_hand", "d6/d86/a23602.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d6/d86/a23602.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d6/d86/a23602.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d6/d86/a23602.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

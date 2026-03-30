@@ -1,22 +1,14 @@
 var a21326 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "d0/d68/a21326.html#ab0f9e62a516c2a572d438ee6b33ffe89", null ],
-    [ "CheckAchievementCriteriaMeet", "d0/d68/a21326.html#afafb4c0c0e79b58094ea09068ebdf724", null ],
-    [ "GetData", "d0/d68/a21326.html#aa3f41b9c79c7bcdd9ad330fa58376799", null ],
-    [ "GetGuidData", "d0/d68/a21326.html#a371a688192e9c7c239fc4c1de8e45877", null ],
-    [ "Initialize", "d0/d68/a21326.html#acc0816a05728b59ddf7aeb4077a7329d", null ],
-    [ "IsEncounterInProgress", "d0/d68/a21326.html#ae2607badcd241cf6b0d4b3a224acc802", null ],
-    [ "OnCreatureCreate", "d0/d68/a21326.html#ae16d97e5a2cfe7fce6ede12874cb9243", null ],
-    [ "OnPlayerEnter", "d0/d68/a21326.html#a82fdae36261fa7d845e8d7fdf2428637", null ],
-    [ "ReadSaveDataMore", "d0/d68/a21326.html#a07a9861d018a35cd295f65b7e68a5bd1", null ],
-    [ "SetData", "d0/d68/a21326.html#a336bd80e5118d6b5cfa0f76f5d207fc5", null ],
-    [ "Update", "d0/d68/a21326.html#ac22e9b215c1351f543289af2875491b4", null ],
-    [ "WriteSaveDataMore", "d0/d68/a21326.html#a22e3c4bb29159588a96f13644218c427", null ],
-    [ "ArchavonDeath", "d0/d68/a21326.html#a1259cf1ed03095fb3e93f6aab203aa99", null ],
-    [ "bossGUIDs", "d0/d68/a21326.html#a6dc53f3e4385f09869d91f59520b79d4", null ],
-    [ "checkTimer", "d0/d68/a21326.html#aabf39e7d3cef7951c861c194dfff9ecd", null ],
-    [ "EmalonDeath", "d0/d68/a21326.html#ac9235ec40c6648bb2a7d252b0053bc47", null ],
-    [ "KoralonDeath", "d0/d68/a21326.html#a544c022446c0ddb39797417271ec1259", null ],
-    [ "m_auiEncounter", "d0/d68/a21326.html#a708d88ed26d8c00cd9fc8f1601c9358e", null ],
-    [ "stoned", "d0/d68/a21326.html#acde4794f2e980d523e873c0e610f726a", null ]
+    [ "npc_hidden_cultistAI", "d0/d68/a21326.html#a970aaa2401664337147696624cc8cac4", null ],
+    [ "AttackPlayer", "d0/d68/a21326.html#a55e3b02d05f35d134fc605a13efe9018", null ],
+    [ "Initialize", "d0/d68/a21326.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
+    [ "PreScript", "d0/d68/a21326.html#a92be5361e2b28152adcca0629b286bb8", null ],
+    [ "Reset", "d0/d68/a21326.html#afe38e448d86cdf910870d72a3890ae1f", null ],
+    [ "sGossipSelect", "d0/d68/a21326.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
+    [ "UpdateAI", "d0/d68/a21326.html#a0bba4d10439d47d44ff856c7fec18595", null ],
+    [ "_emoteState", "d0/d68/a21326.html#adb4e884787dc480358c5be22d276ec49", null ],
+    [ "_events", "d0/d68/a21326.html#ab0494e33d16a43aa1426784d1882e41c", null ],
+    [ "_npcFlags", "d0/d68/a21326.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
+    [ "_playerGUID", "d0/d68/a21326.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
 ];

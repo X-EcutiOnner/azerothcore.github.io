@@ -1,5 +1,5 @@
 var a28270 =
 [
-    [ "go_tele_to_dalaran_crystal", "dc/db2/a28270.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "dc/db2/a28270.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "npc_pet_trainerAI", "dc/db2/a28270.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "dc/db2/a28270.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

@@ -1,10 +1,13 @@
 var a02861 =
 [
-    [ "OutdoorPvP_nagrand", "d4/d8a/a22243.html", "d4/d8a/a22243" ],
-    [ "outdoorpvp_na_halaa_creatures", "de/d08/a22247.html", "de/d08/a22247" ],
-    [ "AddSC_outdoorpvp_na", "de/d09/a02861.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "FlagPlayerPvP", "de/d09/a02861.html#ab1d33448696056a0951a0c306a511f1e", null ],
-    [ "UpdateCreatureHalaa", "de/d09/a02861.html#a37af66c813e135cc11bd1dc663b35697", null ],
-    [ "halaaNPCAlly", "de/d09/a02861.html#a3428675268608e5372767fc629259d5c", null ],
-    [ "halaaNPCHorde", "de/d09/a02861.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
+    [ "instance_halls_of_lightning", "d9/d1b/a19690.html", "d9/d1b/a19690" ],
+    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "d9/d7f/a19694.html", "d9/d7f/a19694" ],
+    [ "at_hol_hall_of_watchers", "de/da7/a19698.html", "de/da7/a19698" ],
+    [ "TitaniumHallwaySpells", "de/d09/a02861.html#acb18ad00890035d01ae1c735f67fd0c8", [
+      [ "SPELL_FREEZE_ANIM", "de/d09/a02861.html#acb18ad00890035d01ae1c735f67fd0c8a09463e66b152e3f856401806af0a4823", null ],
+      [ "SPELL_AWAKEN", "de/d09/a02861.html#acb18ad00890035d01ae1c735f67fd0c8a76e1fd225869c359917096a4030f4799", null ]
+    ] ],
+    [ "AddSC_instance_halls_of_lightning", "de/d09/a02861.html#acb5e7d848388449d05e307ed07fbcfc6", null ],
+    [ "doorData", "de/d09/a02861.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "de/d09/a02861.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
 ];

@@ -1,8 +1,10 @@
 var a27022 =
 [
-    [ "HandleDummy", "dd/d9c/a27022.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "dd/d9c/a27022.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "dd/d9c/a27022.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "dd/d9c/a27022.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "dd/d9c/a27022.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "HandleProc", "dd/d9c/a27022.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "dd/d9c/a27022.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "dd/d9c/a27022.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "dd/d9c/a27022.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "dd/d9c/a27022.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "dd/d9c/a27022.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "dd/d9c/a27022.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

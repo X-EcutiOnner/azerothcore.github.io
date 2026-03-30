@@ -1,6 +1,6 @@
 var a16602 =
 [
-    [ "npc_halion_controllerAI", "de/d4c/a16606.html", "de/d4c/a16606" ],
-    [ "npc_halion_controller", "da/db4/a16602.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "da/db4/a16602.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "HideNpcEvent", "da/db4/a16602.html#ab454295aab0f5d4586740140232e96eb", null ],
+    [ "Execute", "da/db4/a16602.html#aecfbbbcac3fd98675913a6381c891a59", null ],
+    [ "_owner", "da/db4/a16602.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
 ];

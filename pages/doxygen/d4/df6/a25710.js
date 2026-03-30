@@ -1,8 +1,8 @@
 var a25710 =
 [
-    [ "HandleFinish", "d4/df6/a25710.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "d4/df6/a25710.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "d4/df6/a25710.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "d4/df6/a25710.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "d4/df6/a25710.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "CheckProc", "d4/df6/a25710.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
+    [ "HandleProc", "d4/df6/a25710.html#ae034bd626880858c9701ed963de993c9", null ],
+    [ "isException", "d4/df6/a25710.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
+    [ "PrepareAuraScript", "d4/df6/a25710.html#a50348fd27947f67df03bf4ddbec89cca", null ],
+    [ "Register", "d4/df6/a25710.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
 ];

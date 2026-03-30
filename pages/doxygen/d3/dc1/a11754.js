@@ -1,8 +1,7 @@
 var a11754 =
 [
-    [ "EffectHandler", "d3/dc1/a11754.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
-    [ "Call", "d3/dc1/a11754.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
-    [ "CheckEffect", "d3/dc1/a11754.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
-    [ "ToString", "d3/dc1/a11754.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
-    [ "pEffectHandlerScript", "d3/dc1/a11754.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
+    [ "maxvalue", "d3/dc1/a11754.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
+    [ "skill", "d3/dc1/a11754.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
+    [ "step", "d3/dc1/a11754.html#a1c882f7d43c65954cb99566225660312", null ],
+    [ "value", "d3/dc1/a11754.html#a064fece53cdaf07b072510b14200a968", null ]
 ];

@@ -1,5 +1,9 @@
 var a05085 =
 [
-    [ "hitModel", "dc/d88/a05085.html#a4802cb0c38ad72e7671cb77e1f3e6174", null ],
-    [ "rootId", "dc/d88/a05085.html#aa855bd49800e7a3b6713d72f0cf629d5", null ]
+    [ "Hello", "d7/ddd/a11286.html", "d7/ddd/a11286" ],
+    [ "TrainerBuyFailed", "d2/da2/a11302.html", "d2/da2/a11302" ],
+    [ "TrainerBuySpell", "d5/d6a/a11298.html", "d5/d6a/a11298" ],
+    [ "TrainerBuySucceeded", "d2/dfa/a11306.html", "d2/dfa/a11306" ],
+    [ "TrainerList", "d0/d74/a11294.html", "d0/d74/a11294" ],
+    [ "TrainerListSpell", "de/dab/a11290.html", "de/dab/a11290" ]
 ];

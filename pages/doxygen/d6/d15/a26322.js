@@ -1,8 +1,8 @@
 var a26322 =
 [
-    [ "HandleScript", "d6/d15/a26322.html#a181434606474535b5ed8dc6ee7c2dc29", null ],
-    [ "Load", "d6/d15/a26322.html#aee35eb07631e991dc019a2b716894237", null ],
-    [ "PrepareSpellScript", "d6/d15/a26322.html#a4c28987223d55f31aa6c5f3e349b62b7", null ],
-    [ "Register", "d6/d15/a26322.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb", null ],
-    [ "Validate", "d6/d15/a26322.html#a1541ff95bfa6ddc98748381cc2cb99f6", null ]
+    [ "CheckProc", "d6/d15/a26322.html#a05580997d10960d8a8186c42b008894f", null ],
+    [ "OnRemove", "d6/d15/a26322.html#a55cc4caf383fa643dd9df6c335937063", null ],
+    [ "PrepareAuraScript", "d6/d15/a26322.html#a19bbc19f6a8f2e59903319eb56afacea", null ],
+    [ "Register", "d6/d15/a26322.html#a2caaa38b44038e58f1715deb2af1a7ec", null ],
+    [ "Validate", "d6/d15/a26322.html#a93fe3df6878e3edb540a70871dd98e7d", null ]
 ];

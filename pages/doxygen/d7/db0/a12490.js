@@ -1,5 +1,6 @@
 var a12490 =
 [
-    [ "boss_moira_bronzebeard", "d7/db0/a12490.html#abb9a87023b8afa242e60f9694dea1c39", null ],
-    [ "GetAI", "d7/db0/a12490.html#ad99554aac80c79933b78ab4b6d42cc4f", null ]
+    [ "RestoreAttack", "d7/db0/a12490.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "d7/db0/a12490.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "d7/db0/a12490.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

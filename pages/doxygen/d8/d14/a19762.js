@@ -1,8 +1,8 @@
 var a19762 =
 [
-    [ "Load", "d8/d14/a19762.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
-    [ "OnRemove", "d8/d14/a19762.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
-    [ "PrepareAuraScript", "d8/d14/a19762.html#aae6c3a215b09fd2270976190600e2cc4", null ],
-    [ "Register", "d8/d14/a19762.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
-    [ "Validate", "d8/d14/a19762.html#ae4ac76269793280335d76a78e5dced91", null ]
+    [ "brann_bronzebeardAI", "de/da9/a19766.html", "de/da9/a19766" ],
+    [ "brann_bronzebeard", "d8/d14/a19762.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "d8/d14/a19762.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "d8/d14/a19762.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "d8/d14/a19762.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

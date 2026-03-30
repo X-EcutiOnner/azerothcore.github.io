@@ -1,5 +1,6 @@
 var a20294 =
 [
-    [ "FlameLeviathanPursuedTargetSelector", "d1/d2f/a20294.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
-    [ "operator()", "d1/d2f/a20294.html#aaa2a49366fb651f7486b463ce597f364", null ]
+    [ "FilterTargets", "d1/d2f/a20294.html#ae8d940a89be9b63286911bd55dcd3844", null ],
+    [ "PrepareSpellScript", "d1/d2f/a20294.html#a8f4b4d82e53c8f820b620896478681a9", null ],
+    [ "Register", "d1/d2f/a20294.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
 ];

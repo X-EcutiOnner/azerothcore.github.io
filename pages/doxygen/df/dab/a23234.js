@@ -1,7 +1,7 @@
 var a23234 =
 [
-    [ "FilterTargets", "df/dab/a23234.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "df/dab/a23234.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "df/dab/a23234.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "df/dab/a23234.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "boss_the_maker", "df/dab/a23234.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "df/dab/a23234.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "df/dab/a23234.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "df/dab/a23234.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

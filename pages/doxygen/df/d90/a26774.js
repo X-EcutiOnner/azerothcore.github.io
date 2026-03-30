@@ -1,6 +1,6 @@
 var a26774 =
 [
-    [ "CheckCast", "df/d90/a26774.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "df/d90/a26774.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "df/d90/a26774.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "HandleScriptEffect", "df/d90/a26774.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
+    [ "PrepareSpellScript", "df/d90/a26774.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
+    [ "Register", "df/d90/a26774.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
 ];

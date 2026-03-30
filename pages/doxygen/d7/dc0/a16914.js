@@ -1,7 +1,6 @@
 var a16914 =
 [
-    [ "npc_toc_shamanAI", "d7/dc0/a16914.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "d7/dc0/a16914.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "d7/dc0/a16914.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "d7/dc0/a16914.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "instance_trial_of_the_crusader_InstanceMapScript", "db/dc1/a16918.html", "db/dc1/a16918" ],
+    [ "instance_trial_of_the_crusader", "d7/dc0/a16914.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
+    [ "GetInstanceScript", "d7/dc0/a16914.html#a792034e9e5687bf5fa543175692bed66", null ]
 ];

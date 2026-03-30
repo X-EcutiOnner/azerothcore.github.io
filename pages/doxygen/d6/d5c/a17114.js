@@ -1,6 +1,8 @@
 var a17114 =
 [
-    [ "boss_eydisAI", "d0/d5a/a17118.html", "d0/d5a/a17118" ],
-    [ "boss_eydis", "d6/d5c/a17114.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "d6/d5c/a17114.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "npc_phantom_hallucination", "d6/d5c/a17114.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "d6/d5c/a17114.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "d6/d5c/a17114.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "d6/d5c/a17114.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "d6/d5c/a17114.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

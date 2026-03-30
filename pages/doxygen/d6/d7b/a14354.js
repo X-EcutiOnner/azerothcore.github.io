@@ -1,15 +1,20 @@
 var a14354 =
 [
-    [ "npc_janalai_hatcher", "d6/d7b/a14354.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
-    [ "AttackStart", "d6/d7b/a14354.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
-    [ "JustEngagedWith", "d6/d7b/a14354.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
-    [ "MoveInLineOfSight", "d6/d7b/a14354.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
-    [ "MovementInform", "d6/d7b/a14354.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
-    [ "MoveToNewWaypoint", "d6/d7b/a14354.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
-    [ "Reset", "d6/d7b/a14354.html#ab1c3945160c55b2b2d63763eacced473", null ],
-    [ "UpdateAI", "d6/d7b/a14354.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
-    [ "_isHatching", "d6/d7b/a14354.html#aae712db69c870d00d07a37b8611ecaf4", null ],
-    [ "_repeatCount", "d6/d7b/a14354.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
-    [ "_side", "d6/d7b/a14354.html#a177ddd5ff96902363ab708f0c737fc20", null ],
-    [ "_waypoint", "d6/d7b/a14354.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
+    [ "boss_mandokirAI", "d6/d7b/a14354.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
+    [ "CalculateThreat", "d6/d7b/a14354.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
+    [ "DamageDealt", "d6/d7b/a14354.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
+    [ "DoAction", "d6/d7b/a14354.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
+    [ "DoMeleeAttackIfReady", "d6/d7b/a14354.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
+    [ "JustDied", "d6/d7b/a14354.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
+    [ "JustEngagedWith", "d6/d7b/a14354.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
+    [ "KilledUnit", "d6/d7b/a14354.html#a6230dc14db38d43fb060f028cfde9d32", null ],
+    [ "MovementInform", "d6/d7b/a14354.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
+    [ "OnTeleportUnreacheablePlayer", "d6/d7b/a14354.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
+    [ "Reset", "d6/d7b/a14354.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
+    [ "SetGUID", "d6/d7b/a14354.html#ad496b4bd7e97988b44357ac91ac3701c", null ],
+    [ "UpdateAI", "d6/d7b/a14354.html#a1037b770bb46400aef0ec034f86468fc", null ],
+    [ "_chargeTarget", "d6/d7b/a14354.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
+    [ "_useExecute", "d6/d7b/a14354.html#a305f064869874d8620d794a7d26f6358", null ],
+    [ "killCount", "d6/d7b/a14354.html#a280e27385988e0f5cc65c60511bd4100", null ],
+    [ "reviveGUID", "d6/d7b/a14354.html#a7f955c8399167d3f3aa974596f398c13", null ]
 ];

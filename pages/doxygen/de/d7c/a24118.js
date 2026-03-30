@@ -1,10 +1,8 @@
 var a24118 =
 [
-    [ "npc_maxx_a_million_escortAI", "de/d7c/a24118.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "de/d7c/a24118.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "de/d7c/a24118.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "de/d7c/a24118.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "de/d7c/a24118.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "bTake", "de/d7c/a24118.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "de/d7c/a24118.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "CheckProc", "de/d7c/a24118.html#a8875c54a3cae852681a389c8777f25bb", null ],
+    [ "HandleProc", "de/d7c/a24118.html#aa4025d668080ba03af23abbb3a461758", null ],
+    [ "PrepareAuraScript", "de/d7c/a24118.html#a5fee783960ed7f0b4adcfc30db68061d", null ],
+    [ "Register", "de/d7c/a24118.html#a5a6251290dd3389e9307c2e6f9b52098", null ],
+    [ "Validate", "de/d7c/a24118.html#a38cdd5d8346797e53ed82be598df48cd", null ]
 ];

@@ -1,12 +1,11 @@
 var a14590 =
 [
-    [ "npc_chained_spirit", "d2/d7e/a14590.html#a5f407e700a2086f971bed0e8c0def0db", null ],
-    [ "DoAction", "d2/d7e/a14590.html#a7205ef13ca0d164a9222c049bc582254", null ],
-    [ "JustDied", "d2/d7e/a14590.html#a3b405503231173e7ff7aa52e34f63da5", null ],
-    [ "MovementInform", "d2/d7e/a14590.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
-    [ "Reset", "d2/d7e/a14590.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
-    [ "SetGUID", "d2/d7e/a14590.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
-    [ "UpdateAI", "d2/d7e/a14590.html#a38d14b69c71bf2902a916028580fbfad", null ],
-    [ "instance", "d2/d7e/a14590.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
-    [ "revivePlayerGUID", "d2/d7e/a14590.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
+    [ "npc_elder_kekek", "d2/d7e/a14590.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
+    [ "MoveInLineOfSight", "d2/d7e/a14590.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
+    [ "Reset", "d2/d7e/a14590.html#a97e615bdefba5baf459960fc2987cd69", null ],
+    [ "UpdateAI", "d2/d7e/a14590.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
+    [ "orphanGUID", "d2/d7e/a14590.html#a98c79e46e051c35819c6025828a519cb", null ],
+    [ "phase", "d2/d7e/a14590.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
+    [ "playerGUID", "d2/d7e/a14590.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
+    [ "timer", "d2/d7e/a14590.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
 ];

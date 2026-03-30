@@ -1,6 +1,6 @@
 var a15914 =
 [
-    [ "npc_rabid_thistle_bearAI", "d3/d6c/a15918.html", "d3/d6c/a15918" ],
-    [ "npc_rabid_thistle_bear", "d6/d24/a15914.html#a34b20a4ea22d74352712dee105247d56", null ],
-    [ "GetAI", "d6/d24/a15914.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
+    [ "npc_tyrande_whisperwind", "d6/d24/a15914.html#af716e954e59221d26ee88032e895fa18", null ],
+    [ "JustDied", "d6/d24/a15914.html#a707f6167de4eafc6d81613d0edc29436", null ],
+    [ "UpdateAI", "d6/d24/a15914.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
 ];

@@ -1,5 +1,7 @@
 var a28254 =
 [
-    [ "go_tablet_of_the_seven", "d2/de2/a28254.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "d2/de2/a28254.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "npc_steam_tonkAI", "d2/de2/a28254.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "d2/de2/a28254.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "d2/de2/a28254.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "d2/de2/a28254.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

@@ -1,6 +1,11 @@
 var a28894 =
 [
-    [ "OffsetAttributes", "da/d6d/a28894.html#a072918c298b316823e784c2e5779be2a", null ],
-    [ "OffsetInstances", "da/d6d/a28894.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
-    [ "used", "da/d6d/a28894.html#a20a458e613639ea26255dd772824a642", null ]
+    [ "ClassID", "da/d6d/a28894.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "da/d6d/a28894.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "da/d6d/a28894.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "da/d6d/a28894.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "da/d6d/a28894.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "da/d6d/a28894.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "da/d6d/a28894.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "da/d6d/a28894.html#ac39254716573e335caf312f635353a2e", null ]
 ];

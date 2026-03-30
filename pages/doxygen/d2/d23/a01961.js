@@ -1,8 +1,5 @@
 var a01961 =
 [
-    [ "WorldPackets::Bank::AutoBankItem", "da/d91/a10712.html", "da/d91/a10712" ],
-    [ "WorldPackets::Bank::AutoStoreBankItem", "d3/d1f/a10716.html", "d3/d1f/a10716" ],
-    [ "WorldPackets::Bank::BuyBankSlot", "dd/d58/a10720.html", "dd/d58/a10720" ],
-    [ "WorldPackets::Bank::BuyBankSlotResult", "d5/d35/a10724.html", "d5/d35/a10724" ],
-    [ "WorldPackets::Bank::ShowBank", "dd/d92/a10728.html", "dd/d92/a10728" ]
+    [ "ChatLogScript", "d9/db5/a27834.html", "d9/db5/a27834" ],
+    [ "AddSC_chat_log", "d2/d23/a01961.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ]
 ];

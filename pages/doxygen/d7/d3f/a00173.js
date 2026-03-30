@@ -1,7 +1,8 @@
 var a00173 =
 [
-    [ "VMAP::GroupLocationInfo", "d4/d19/a05251.html", "d4/d19/a05251" ],
-    [ "VMAP::LocationInfo", "d5/d12/a05255.html", "d5/d12/a05255" ],
-    [ "VMAP::StaticMapTree", "d1/d56/a05259.html", "d1/d56/a05259" ],
-    [ "VMAP::AreaInfo", "dd/d95/a05263.html", "dd/d95/a05263" ]
+    [ "ModelIgnoreFlags", "d7/d3f/a00173.html#a6996c44f3ac72cd9dc04515186d2da28", [
+      [ "Nothing", "d7/d3f/a00173.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
+      [ "M2", "d7/d3f/a00173.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
+    ] ],
+    [ "operator&", "d7/d3f/a00173.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
 ];

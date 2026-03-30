@@ -1,6 +1,7 @@
 var a27374 =
 [
-    [ "CheckProc", "d3/dd8/a27374.html#a5e48b25b15b60aa284ca61e900e0f87e", null ],
-    [ "PrepareAuraScript", "d3/dd8/a27374.html#a13ccd1c89767d0dcf041217466390759", null ],
-    [ "Register", "d3/dd8/a27374.html#a4f29ca53813534b1af20e09281288e95", null ]
+    [ "HandleScriptEffect", "d3/dd8/a27374.html#a328c1ba6ccd98e25e477a3f784cb47ff", null ],
+    [ "PrepareSpellScript", "d3/dd8/a27374.html#aa211032991d8fd11d574cb364533a515", null ],
+    [ "Register", "d3/dd8/a27374.html#a13315f197f2e6975dca00b53cbc599d2", null ],
+    [ "Validate", "d3/dd8/a27374.html#a3b752f07631223199ed7ac404ed1afed", null ]
 ];

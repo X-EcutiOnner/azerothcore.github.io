@@ -1,6 +1,6 @@
 var a17550 =
 [
-    [ "npc_pos_leaderAI", "d2/d4b/a17554.html", "d2/d4b/a17554" ],
-    [ "npc_pos_leader", "dd/d0a/a17550.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "dd/d0a/a17550.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "PrepareSpellScript", "dd/d0a/a17550.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "dd/d0a/a17550.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "dd/d0a/a17550.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

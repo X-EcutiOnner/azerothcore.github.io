@@ -1,8 +1,7 @@
 var a08218 =
 [
-    [ "cancelTime", "de/d68/a08218.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
-    [ "inProgress", "de/d68/a08218.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
-    [ "reason", "de/d68/a08218.html#a279a5575ca0956266ae81b7a165874cf", null ],
-    [ "victim", "de/d68/a08218.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
-    [ "votes", "de/d68/a08218.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
+    [ "LfgReward", "de/d68/a08218.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
+    [ "firstQuest", "de/d68/a08218.html#a28162b1e43a5309ab01ca99b45d29799", null ],
+    [ "maxLevel", "de/d68/a08218.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
+    [ "otherQuest", "de/d68/a08218.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
 ];

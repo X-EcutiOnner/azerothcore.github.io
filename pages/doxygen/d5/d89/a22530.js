@@ -1,4 +1,7 @@
 var a22530 =
 [
-    [ "idPatrol", "d5/d89/a22530.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
+    [ "boss_veras_darkshadow", "d5/d89/a22530.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d5/d89/a22530.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d5/d89/a22530.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d5/d89/a22530.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

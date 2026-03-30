@@ -1,10 +1,6 @@
 var a10034 =
 [
-    [ "DoublePosition", "da/d8a/a10038.html", "da/d8a/a10038" ],
-    [ "~AreaBoundary", "de/d67/a10034.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
-    [ "AreaBoundary", "de/d67/a10034.html#adf670910c492c08d3384c2dd1824e7ce", null ],
-    [ "IsWithinBoundary", "de/d67/a10034.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
-    [ "IsWithinBoundary", "de/d67/a10034.html#a1d407f77ce0388263fc0ee6224734213", null ],
-    [ "IsWithinBoundaryArea", "de/d67/a10034.html#ae5580b0044dba24d100831fe51ee1abc", null ],
-    [ "_isInvertedBoundary", "de/d67/a10034.html#ad416f29594688ce670549d6fdcce4314", null ]
+    [ "ServerMailItems", "de/d67/a10034.html#a95cb2278da300c6b0385241f5a3950c1", null ],
+    [ "item", "de/d67/a10034.html#ae03738595a87a47e831bcbeea6f97d34", null ],
+    [ "itemCount", "de/d67/a10034.html#a4475d65dd5721d4af323ae93d15f4170", null ]
 ];

@@ -1,6 +1,6 @@
 var a24706 =
 [
-    [ "HandleEffectCalcSpellMod", "dc/da4/a24706.html#afbeb38535f9330cb1e74345f0c3a833a", null ],
-    [ "PrepareAuraScript", "dc/da4/a24706.html#a911a292f535abda7b56d837a05c66d0d", null ],
-    [ "Register", "dc/da4/a24706.html#a46493bf3521a0427a63596734d592c61", null ]
+    [ "PrepareSpellScript", "dc/da4/a24706.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
+    [ "Register", "dc/da4/a24706.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
+    [ "SelectTarget", "dc/da4/a24706.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
 ];

@@ -1,5 +1,5 @@
 var a28010 =
 [
-    [ "achievement_not_even_a_scratch", "d1/d75/a28010.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d1/d75/a28010.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "go_hive_pod", "d1/d75/a28010.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "d1/d75/a28010.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

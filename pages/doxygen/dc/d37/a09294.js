@@ -1,17 +1,12 @@
 var a09294 =
 [
-    [ "ActionMenuID", "dc/d37/a09294.html#a486f9af68a02ae52d51772a3421db377", null ],
-    [ "ActionPoiID", "dc/d37/a09294.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
-    [ "BoxBroadcastTextID", "dc/d37/a09294.html#a12882942190a9a568b9dc30214ee6a88", null ],
-    [ "BoxCoded", "dc/d37/a09294.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
-    [ "BoxMoney", "dc/d37/a09294.html#ab00c368181ccaba98e878d49de6138e2", null ],
-    [ "BoxText", "dc/d37/a09294.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
-    [ "Conditions", "dc/d37/a09294.html#aa1632404bbc869b17dab8833f660c52b", null ],
-    [ "MenuID", "dc/d37/a09294.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
-    [ "OptionBroadcastTextID", "dc/d37/a09294.html#af8af4b4c27405908482db73797cd2d49", null ],
-    [ "OptionIcon", "dc/d37/a09294.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
-    [ "OptionID", "dc/d37/a09294.html#adf2a8d247a88a062a75eb726dd43d019", null ],
-    [ "OptionNpcFlag", "dc/d37/a09294.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
-    [ "OptionText", "dc/d37/a09294.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
-    [ "OptionType", "dc/d37/a09294.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
+    [ "IsTeamAward1", "dc/d37/a09294.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
+    [ "IsTeamAward2", "dc/d37/a09294.html#a053bd7825d0464ac322b449f3d243722", null ],
+    [ "RepFaction1", "dc/d37/a09294.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
+    [ "RepFaction2", "dc/d37/a09294.html#a5934590811c666d06b68216428574d8a", null ],
+    [ "ReputationMaxCap1", "dc/d37/a09294.html#a292b78f629723c3993a796eb256dd9b8", null ],
+    [ "ReputationMaxCap2", "dc/d37/a09294.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
+    [ "RepValue1", "dc/d37/a09294.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
+    [ "RepValue2", "dc/d37/a09294.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
+    [ "TeamDependent", "dc/d37/a09294.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
 ];

@@ -1,11 +1,8 @@
 var a18398 =
 [
-    [ "Load", "de/d0e/a18398.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "de/d0e/a18398.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "de/d0e/a18398.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "de/d0e/a18398.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "de/d0e/a18398.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "de/d0e/a18398.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "de/d0e/a18398.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "de/d0e/a18398.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "NecroticPlagueTargetCheck", "de/d0e/a18398.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "de/d0e/a18398.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "de/d0e/a18398.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "de/d0e/a18398.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "de/d0e/a18398.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

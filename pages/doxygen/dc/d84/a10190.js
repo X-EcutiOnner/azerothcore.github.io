@@ -1,10 +1,9 @@
 var a10190 =
 [
-    [ "CreateWorldPacket", "dc/d84/a10190.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
-    [ "GetMotd", "dc/d84/a10190.html#ab589dd8bfad950e02ee716ea9005253f", null ],
-    [ "GetMotdPacket", "dc/d84/a10190.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
-    [ "instance", "dc/d84/a10190.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
-    [ "LoadMotd", "dc/d84/a10190.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
-    [ "LoadMotdLocale", "dc/d84/a10190.html#a21aa89787d5b0bbf69158f799122edd5", null ],
-    [ "SetMotd", "dc/d84/a10190.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
+    [ "TransportAnimation", "dc/d84/a10190.html#a775b84b54deefd38af40222afd82d572", null ],
+    [ "GetAnimNode", "dc/d84/a10190.html#a73b56750c90afce38dbf57793bae16f3", null ],
+    [ "GetAnimRotation", "dc/d84/a10190.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
+    [ "Path", "dc/d84/a10190.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
+    [ "Rotations", "dc/d84/a10190.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
+    [ "TotalTime", "dc/d84/a10190.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
 ];

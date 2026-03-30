@@ -1,7 +1,6 @@
 var a20994 =
 [
-    [ "HandleEffectCalcPeriodic", "df/df6/a20994.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "df/df6/a20994.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "df/df6/a20994.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "df/df6/a20994.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "boss_koralonAI", "d1/d55/a20998.html", "d1/d55/a20998" ],
+    [ "boss_koralon", "df/df6/a20994.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "df/df6/a20994.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

@@ -1,7 +1,6 @@
 var a00194 =
 [
-    [ "GameobjectModelData", "d1/df2/a05295.html", "d1/df2/a05295" ],
-    [ "ModelList", "dc/d57/a00194.html#a2f908ce58f8fea2d0606bfe603d719d1", null ],
-    [ "LoadGameObjectModelList", "dc/d57/a00194.html#a5a80774080fc05f90c7d92213fda6788", null ],
-    [ "model_list", "dc/d57/a00194.html#aa0a0fd13eaa3eba090a3085d41303f12", null ]
+    [ "VMAP::IntersectionCallBack< TValue >", "dc/ded/a05374.html", "dc/ded/a05374" ],
+    [ "VMAP::MyCollisionDetection", "dd/d9e/a05378.html", "dd/d9e/a05378" ],
+    [ "IR", "dc/d57/a00194.html#aa54c7fcd0c551f1db5fc34a2f6b11e74", null ]
 ];

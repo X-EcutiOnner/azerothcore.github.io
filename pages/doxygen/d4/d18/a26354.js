@@ -1,7 +1,7 @@
 var a26354 =
 [
-    [ "HandleProc", "d4/d18/a26354.html#ac00d9d4e8eee65a66b3429809debbda1", null ],
-    [ "PrepareAuraScript", "d4/d18/a26354.html#a5def77211bfb06120a05999d7defbea3", null ],
-    [ "Register", "d4/d18/a26354.html#a38afbc38532160763df6db8b37c33163", null ],
-    [ "Validate", "d4/d18/a26354.html#ad59dce623cc1569bb4d9867f528a4fa8", null ]
+    [ "CheckAreaTarget", "d4/d18/a26354.html#a2d240518259d2452d263fc436de5056e", null ],
+    [ "PrepareAuraScript", "d4/d18/a26354.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
+    [ "Register", "d4/d18/a26354.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
+    [ "Validate", "d4/d18/a26354.html#adfd1ccae4029680415409df737aa2533", null ]
 ];

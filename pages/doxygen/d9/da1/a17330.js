@@ -1,6 +1,6 @@
 var a17330 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d3/dda/a17334.html", "d3/dda/a17334" ],
-    [ "instance_forge_of_souls", "d9/da1/a17330.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "d9/da1/a17330.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "HandleEffectPeriodic", "d9/da1/a17330.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
+    [ "PrepareAuraScript", "d9/da1/a17330.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
+    [ "Register", "d9/da1/a17330.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
 ];

@@ -1,6 +1,13 @@
 var a18682 =
 [
-    [ "DefileTargetSelector", "d5/db6/a18682.html#a9c13a04378d6550dd135d2cb41c9bc1c", null ],
-    [ "operator()", "d5/db6/a18682.html#a2ffea7bb2c62e0fa069e3d1ffec3ab11", null ],
-    [ "_source", "d5/db6/a18682.html#a427b4304b5a93f26741eda90d20ff13b", null ]
+    [ "npc_risen_archmageAI", "d5/db6/a18682.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "d5/db6/a18682.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "d5/db6/a18682.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEnteredCombat", "d5/db6/a18682.html#a50bd33c1b28b3691f42a5f167f27e342", null ],
+    [ "JustSummoned", "d5/db6/a18682.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "d5/db6/a18682.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "d5/db6/a18682.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "d5/db6/a18682.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "d5/db6/a18682.html#a1b4e12b199bf3ada517c895c5f387c4a", null ],
+    [ "_isInitialArchmage", "d5/db6/a18682.html#ac871eeab6510fa9f5e8f38f35f299149", null ]
 ];

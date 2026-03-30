@@ -1,9 +1,11 @@
 var a10878 =
 [
-    [ "GuildRoster", "db/d8b/a10878.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
-    [ "Write", "db/d8b/a10878.html#a544a539999827d4eb8923cbbcdf42bac", null ],
-    [ "InfoText", "db/d8b/a10878.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
-    [ "MemberData", "db/d8b/a10878.html#a964fc72bf3ada77c171fd1f691449241", null ],
-    [ "RankData", "db/d8b/a10878.html#a67b0a12fae93c5807030c1062f328abb", null ],
-    [ "WelcomeText", "db/d8b/a10878.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
+    [ "BackgroundColor", "db/d8b/a10878.html#abab86dd497de86088873178bf1d54b5b", null ],
+    [ "BorderColor", "db/d8b/a10878.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
+    [ "BorderStyle", "db/d8b/a10878.html#acd5105c31e0f56e680f3384e86186872", null ],
+    [ "EmblemColor", "db/d8b/a10878.html#a2e8a4768292d3566bb61009056a8a230", null ],
+    [ "EmblemStyle", "db/d8b/a10878.html#aa6309467f9f09725a8698de864b4e63c", null ],
+    [ "GuildName", "db/d8b/a10878.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
+    [ "RankCount", "db/d8b/a10878.html#acddb77850a86348df197afc724c4eaa0", null ],
+    [ "Ranks", "db/d8b/a10878.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
 ];

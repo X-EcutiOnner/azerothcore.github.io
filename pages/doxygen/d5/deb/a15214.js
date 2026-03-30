@@ -1,6 +1,6 @@
 var a15214 =
 [
-    [ "HandleHeal", "d5/deb/a15214.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "d5/deb/a15214.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "d5/deb/a15214.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "d4/d27/a15218.html", "d4/d27/a15218" ],
+    [ "instance_ragefire_chasm", "d5/deb/a15214.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "d5/deb/a15214.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

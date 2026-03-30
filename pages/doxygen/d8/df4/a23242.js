@@ -1,14 +1,20 @@
 var a23242 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d8/df4/a23242.html#a3e83985648f2951ee33d440c9c98bf72", null ],
-    [ "GetData", "d8/df4/a23242.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
-    [ "Initialize", "d8/df4/a23242.html#a8a2214e169acace8578c1863daf0a04c", null ],
-    [ "OnCreatureCreate", "d8/df4/a23242.html#ae5f77169c337420852962fe7ddba3006", null ],
-    [ "OnCreatureRemove", "d8/df4/a23242.html#a921442812da891a6651ddd235d4a98f9", null ],
-    [ "OnGameObjectCreate", "d8/df4/a23242.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
-    [ "SetBossState", "d8/df4/a23242.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
-    [ "SetData", "d8/df4/a23242.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
-    [ "_aliveKeepersCount", "d8/df4/a23242.html#a71f3a72d3aa47b267e3b8a7d1c90b6ff", null ],
-    [ "_frenzyCount", "d8/df4/a23242.html#acdba0cea9bdbe929a30bd2f790a613f9", null ],
-    [ "_shieldGeneratorGUID", "d8/df4/a23242.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d8/df4/a23242.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
+    [ "ActivateCell", "d8/df4/a23242.html#abd718216778850455c758d79a5866958", null ],
+    [ "ActivatePrisoners", "d8/df4/a23242.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
+    [ "GetGuidData", "d8/df4/a23242.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
+    [ "Initialize", "d8/df4/a23242.html#a3441a24486ec686d42b7320e6f105139", null ],
+    [ "OnCreatureCreate", "d8/df4/a23242.html#ac58da5acec155e596791464c48f29773", null ],
+    [ "OnGameObjectCreate", "d8/df4/a23242.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
+    [ "OnUnitDeath", "d8/df4/a23242.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
+    [ "PrisonerDied", "d8/df4/a23242.html#a16315f7921b1960c7720f855cdddee96", null ],
+    [ "ResetPrisoner", "d8/df4/a23242.html#a57f58c502b5fb2064307adb8c4976979", null ],
+    [ "ResetPrisoners", "d8/df4/a23242.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
+    [ "ResetPrisons", "d8/df4/a23242.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
+    [ "SetBossState", "d8/df4/a23242.html#aad428e00762795d8f817d6cfa25505fe", null ],
+    [ "StorePrisoner", "d8/df4/a23242.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
+    [ "_prisonerCounter", "d8/df4/a23242.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
+    [ "_prisonersCell", "d8/df4/a23242.html#a3492a327f4c0d637fd5701f3997c1887", null ],
+    [ "_prisonGUIDs", "d8/df4/a23242.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
 ];

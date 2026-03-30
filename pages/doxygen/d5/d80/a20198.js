@@ -1,8 +1,7 @@
 var a20198 =
 [
-    [ "OnPeriodic", "d5/d80/a20198.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "d5/d80/a20198.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "d5/d80/a20198.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "d5/d80/a20198.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "d5/d80/a20198.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "HandleEffectPeriodic", "d5/d80/a20198.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "d5/d80/a20198.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "d5/d80/a20198.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "d5/d80/a20198.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

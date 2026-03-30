@@ -1,6 +1,7 @@
 var a30700 =
 [
-    [ "height", "d6/d40/a30700.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "d6/d40/a30700.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "d6/d40/a30700.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "u_map_fcc", "de/d27/a29674.html", "de/d27/a29674" ],
+    [ "file_MVER", "d6/df4/a29678.html", "d6/df4/a29678" ],
+    [ "FileLoader", "d1/d53/a29686.html", "d1/d53/a29686" ],
+    [ "FILE_FORMAT_VERSION", "d6/d40/a30700.html#a6fef47739ef9998b00a2523c98cb2315", null ]
 ];

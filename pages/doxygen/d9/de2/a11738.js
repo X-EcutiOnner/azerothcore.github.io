@@ -1,7 +1,13 @@
 var a11738 =
 [
-    [ "EffectAuraNameCheck", "d9/de2/a11738.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "d9/de2/a11738.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "d9/de2/a11738.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "d9/de2/a11738.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "PetAuraMap", "d9/de2/a11738.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
+    [ "PetAura", "d9/de2/a11738.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
+    [ "PetAura", "d9/de2/a11738.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
+    [ "AddAura", "d9/de2/a11738.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
+    [ "GetAura", "d9/de2/a11738.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
+    [ "GetDamage", "d9/de2/a11738.html#a38087712cef92ad55dc84f96e2b9e300", null ],
+    [ "IsRemovedOnChangePet", "d9/de2/a11738.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
+    [ "auras", "d9/de2/a11738.html#abacd738dfb04687810b981297b1a1567", null ],
+    [ "damage", "d9/de2/a11738.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
+    [ "removeOnChangePet", "d9/de2/a11738.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
 ];

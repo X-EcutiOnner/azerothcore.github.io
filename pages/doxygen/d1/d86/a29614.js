@@ -1,6 +1,5 @@
 var a29614 =
 [
-    [ "conditionsMet", "d1/d86/a29614.html#ade58814e6b27763d1bb6c1f730ef53e0", null ],
-    [ "hasConditions", "d1/d86/a29614.html#a160ac902a994fdaaa36b66dbaa4c8282", null ],
-    [ "sourceType", "d1/d86/a29614.html#abbfa5f40abb5713e15311f8259d70dc6", null ]
+    [ "Deep", "d1/d86/a29614.html#a9efcd2f19d9701713666f1ad2285d992", null ],
+    [ "Fishable", "d1/d86/a29614.html#a929299daf6bc46aa775b9b0fa055c9e2", null ]
 ];

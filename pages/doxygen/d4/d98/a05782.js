@@ -1,8 +1,7 @@
 var a05782 =
 [
-    [ "Statements", "d4/d98/a05782.html#a7527387a1261a4307515ed0c56dd6520", null ],
-    [ "CharacterDatabaseConnection", "d4/d98/a05782.html#aa7308d6978756861043c1c0c861bfffc", null ],
-    [ "CharacterDatabaseConnection", "d4/d98/a05782.html#af7c6148029613ce06159b5867bba9cad", null ],
-    [ "~CharacterDatabaseConnection", "d4/d98/a05782.html#a01224074cff69c86792d0b77e804d7f4", null ],
-    [ "DoPrepareStatements", "d4/d98/a05782.html#afbbb8d2bb335119e5bc8b37764301db5", null ]
+    [ "Count", "d4/d98/a05782.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
+    [ "FromIndex", "d4/d98/a05782.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
+    [ "ToIndex", "d4/d98/a05782.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
+    [ "ToString", "d4/d98/a05782.html#a8d3379c79f103655dd49d993402b741d", null ]
 ];

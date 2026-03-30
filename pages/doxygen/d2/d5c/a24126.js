@@ -1,6 +1,6 @@
 var a24126 =
 [
-    [ "HandleEffectRemove", "d2/d5c/a24126.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
-    [ "PrepareAuraScript", "d2/d5c/a24126.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
-    [ "Register", "d2/d5c/a24126.html#ac02217c103db141d75377e233e1e4242", null ]
+    [ "CheckProc", "d2/d5c/a24126.html#a5c7245398c005a133576493366010e58", null ],
+    [ "PrepareAuraScript", "d2/d5c/a24126.html#ac2a2d20470e7fa3df8491c7c81330a52", null ],
+    [ "Register", "d2/d5c/a24126.html#a4f6bcdb58b02d351aee9efcd37af3492", null ]
 ];

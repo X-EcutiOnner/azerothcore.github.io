@@ -1,6 +1,5 @@
 var a17434 =
 [
-    [ "npc_hor_lich_kingAI", "d4/dbf/a17438.html", "d4/dbf/a17438" ],
-    [ "npc_hor_lich_king", "d2/d16/a17434.html#aab2562a7a204699735a89e7a15b3b472", null ],
-    [ "GetAI", "d2/d16/a17434.html#ad670ae69daa742c19c06267399445a11", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d2/d16/a17434.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "d2/d16/a17434.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

@@ -1,6 +1,7 @@
 var a25770 =
 [
-    [ "HandleItemRemove", "d2/d79/a25770.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "d2/d79/a25770.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "d2/d79/a25770.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "HandleDummy", "d2/d79/a25770.html#a4e78ce5b1275860304eba414f8e66442", null ],
+    [ "PrepareSpellScript", "d2/d79/a25770.html#a155fa844714aadadd0a6c31dc86748f3", null ],
+    [ "Register", "d2/d79/a25770.html#a3ea6786e2fa76917bcb4baa42d2be1f1", null ],
+    [ "Validate", "d2/d79/a25770.html#a08838d940e413d83f4c48854260c3e1b", null ]
 ];

@@ -1,6 +1,6 @@
 var a16022 =
 [
-    [ "npc_omenAI", "d3/d7a/a16026.html", "d3/d7a/a16026" ],
-    [ "npc_omen", "d4/d85/a16022.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "d4/d85/a16022.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "creatureID", "d4/d85/a16022.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d4/d85/a16022.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d4/d85/a16022.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

@@ -1,6 +1,5 @@
 var a01508 =
 [
-    [ "ScriptMgr", "da/dbd/a10640.html", "da/dbd/a10640" ],
-    [ "ScriptRegistry< TScript >", "da/d09/a10644.html", "da/d09/a10644" ],
-    [ "sScriptMgr", "d0/deb/a01508.html#ae8161e629869974bc49b1cbfc73c1087", null ]
+    [ "OutdoorPvP_zangarmarsh", "dd/d1a/a22270.html", "dd/d1a/a22270" ],
+    [ "AddSC_outdoorpvp_zm", "d0/deb/a01508.html#a3077d08865fa83f84cf956c392a9091c", null ]
 ];

@@ -1,10 +1,7 @@
 var a29094 =
 [
-    [ "HasFlag", "dc/d80/a29094.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "dc/d80/a29094.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "dc/d80/a29094.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "dc/d80/a29094.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "dc/d80/a29094.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "dc/d80/a29094.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "dc/d80/a29094.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "from", "dc/d80/a29094.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
+    [ "ID", "dc/d80/a29094.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
+    [ "price", "dc/d80/a29094.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
+    [ "to", "dc/d80/a29094.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
 ];

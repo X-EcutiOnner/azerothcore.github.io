@@ -1,15 +1,7 @@
 var a23354 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "df/d06/a23354.html#a70db3eeeb55784250a13032728220005", null ],
-    [ "GetGuidData", "df/d06/a23354.html#a77e77209e779b774608f739b258ae419", null ],
-    [ "OnCreatureCreate", "df/d06/a23354.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
-    [ "SetGuidData", "df/d06/a23354.html#a21a29973bcf5ef6925239213ce50bab0", null ],
-    [ "AhuneBunnyGUID", "df/d06/a23354.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
-    [ "AhuneGUID", "df/d06/a23354.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
-    [ "BeamBunnyGUIDs", "df/d06/a23354.html#a09e3d1ca5d040268578fa770b7153a81", null ],
-    [ "BonfireBunnyGUIDs", "df/d06/a23354.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
-    [ "counter", "df/d06/a23354.html#a4ea85debc35e91668723222e8ea90071", null ],
-    [ "FlameCallerGUIDs", "df/d06/a23354.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
-    [ "FrozenCoreGUID", "df/d06/a23354.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
-    [ "LumaGUID", "df/d06/a23354.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
+    [ "FilterTargets", "df/d06/a23354.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "df/d06/a23354.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "df/d06/a23354.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "df/d06/a23354.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

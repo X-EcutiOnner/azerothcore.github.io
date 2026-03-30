@@ -1,6 +1,7 @@
 var a15650 =
 [
-    [ "FilterTargets", "d8/dd5/a15650.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
-    [ "PrepareSpellScript", "d8/dd5/a15650.html#a511e54100036307aa5d37bc959405c73", null ],
-    [ "Register", "d8/dd5/a15650.html#a31d1d590f0e6fc2e56322d606961828f", null ]
+    [ "HandleEffectRemove", "d8/dd5/a15650.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "d8/dd5/a15650.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "d8/dd5/a15650.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "d8/dd5/a15650.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

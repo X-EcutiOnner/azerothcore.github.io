@@ -1,5 +1,8 @@
 var a28258 =
 [
-    [ "go_jump_a_tron", "d5/dcc/a28258.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
-    [ "OnGossipHello", "d5/dcc/a28258.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
+    [ "npc_wormholeAI", "de/d4a/a28262.html", "de/d4a/a28262" ],
+    [ "npc_wormhole", "d5/dcc/a28258.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "d5/dcc/a28258.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "d5/dcc/a28258.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "d5/dcc/a28258.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

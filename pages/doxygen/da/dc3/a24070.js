@@ -1,7 +1,8 @@
 var a24070 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "da/dc3/a24070.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "da/dc3/a24070.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "da/dc3/a24070.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "da/dc3/a24070.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "da/dc3/a24070.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "da/dc3/a24070.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "da/dc3/a24070.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "da/dc3/a24070.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "da/dc3/a24070.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

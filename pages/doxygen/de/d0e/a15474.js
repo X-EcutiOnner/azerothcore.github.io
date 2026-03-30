@@ -1,4 +1,7 @@
 var a15474 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "de/d0e/a15474.html#a60715ab6220e798f16b16bcaa3714ad9", null ]
+    [ "npc_sartura_royal_guard", "de/d0e/a15474.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "de/d0e/a15474.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "de/d0e/a15474.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "de/d0e/a15474.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

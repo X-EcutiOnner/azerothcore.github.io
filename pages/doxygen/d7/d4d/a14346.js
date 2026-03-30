@@ -1,7 +1,5 @@
 var a14346 =
 [
-    [ "HandleDispel", "d7/d4d/a14346.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "d7/d4d/a14346.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "d7/d4d/a14346.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "d7/d4d/a14346.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_brain_wash_totem", "d7/d4d/a14346.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "d7/d4d/a14346.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

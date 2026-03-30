@@ -1,6 +1,6 @@
 var a13998 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d8/dfe/a14002.html", "d8/dfe/a14002" ],
-    [ "instance_the_stockade", "d8/da5/a13998.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d8/da5/a13998.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "npc_highborne_lamenterAI", "d8/dfe/a14002.html", "d8/dfe/a14002" ],
+    [ "npc_highborne_lamenter", "d8/da5/a13998.html#a40316cf73a688e34e95dd41feef8612a", null ],
+    [ "GetAI", "d8/da5/a13998.html#aad8ccb43b325b797f60a16e338458a1e", null ]
 ];

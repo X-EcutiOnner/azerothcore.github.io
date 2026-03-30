@@ -1,10 +1,6 @@
 var a18250 =
 [
-    [ "npc_cult_fanaticAI", "dd/d8c/a18250.html#a766e536288b84110f88a8bd282e97932", null ],
-    [ "JustEngagedWith", "dd/d8c/a18250.html#a709b75f4b1519bc7c6988985a22d076f", null ],
-    [ "Reset", "dd/d8c/a18250.html#a772830df1d16d0463c8c00f14c337db0", null ],
-    [ "SpellHit", "dd/d8c/a18250.html#a17c02a83b522c9717de3d89517104e42", null ],
-    [ "UpdateAI", "dd/d8c/a18250.html#ac79afdab3721d78d2b7e5da360083cea", null ],
-    [ "_instance", "dd/d8c/a18250.html#a7448fdf85cccfcb12509b0274205bff4", null ],
-    [ "events", "dd/d8c/a18250.html#a9576978141062fa1babbbc5ed42483c4", null ]
+    [ "UnchainedMagicTargetSelector", "dd/d8c/a18250.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "dd/d8c/a18250.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "dd/d8c/a18250.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

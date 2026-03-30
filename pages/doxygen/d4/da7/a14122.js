@@ -1,7 +1,7 @@
 var a14122 =
 [
-    [ "npc_king_magni_bronzebeard", "d4/da7/a14122.html#af100ccf11c9d266be439318519280a9a", null ],
-    [ "JustDied", "d4/da7/a14122.html#a3323285cc5c4cee9df001e83584b8114", null ],
-    [ "JustEngagedWith", "d4/da7/a14122.html#a8c92169605d30c82f4699ff2b29101a6", null ],
-    [ "UpdateAI", "d4/da7/a14122.html#ad23891becf07d991c5ffc4f89719fa04", null ]
+    [ "HandleDispel", "d4/da7/a14122.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "d4/da7/a14122.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "d4/da7/a14122.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "d4/da7/a14122.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

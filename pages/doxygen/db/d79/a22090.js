@@ -1,7 +1,8 @@
 var a22090 =
 [
-    [ "HandleDummy", "db/d79/a22090.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "db/d79/a22090.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "db/d79/a22090.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "db/d79/a22090.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "go_wg_vehicle_teleporterAI", "db/d79/a22090.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "db/d79/a22090.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "db/d79/a22090.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "db/d79/a22090.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "db/d79/a22090.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

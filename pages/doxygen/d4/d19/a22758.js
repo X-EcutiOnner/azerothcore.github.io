@@ -1,7 +1,6 @@
 var a22758 =
 [
-    [ "HandleEffectRemove", "d4/d19/a22758.html#a09124a4351930a35e33359e95ca88580", null ],
-    [ "PrepareAuraScript", "d4/d19/a22758.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
-    [ "Register", "d4/d19/a22758.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
-    [ "Validate", "d4/d19/a22758.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
+    [ "PrepareAuraScript", "d4/d19/a22758.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "d4/d19/a22758.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "d4/d19/a22758.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

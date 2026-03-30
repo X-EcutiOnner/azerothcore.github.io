@@ -1,12 +1,12 @@
 var a17410 =
 [
-    [ "npc_tortured_riflemanAI", "d4/d4b/a17410.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
-    [ "AttackStart", "d4/d4b/a17410.html#aaf2b73d0b60791f887207842580d91dc", null ],
-    [ "DoAction", "d4/d4b/a17410.html#acb941c20d911a567c93bb0f92105fdfd", null ],
-    [ "EnterEvadeMode", "d4/d4b/a17410.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
-    [ "JustDied", "d4/d4b/a17410.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
-    [ "JustEngagedWith", "d4/d4b/a17410.html#ac5d8f17c48269da06c14643e82c88567", null ],
-    [ "Reset", "d4/d4b/a17410.html#a04f9c7056e063d436df66f079127d1a7", null ],
-    [ "UpdateAI", "d4/d4b/a17410.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
-    [ "events", "d4/d4b/a17410.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
+    [ "boss_moorabiAI", "d4/d4b/a17410.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "EnterEvadeMode", "d4/d4b/a17410.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
+    [ "JustDied", "d4/d4b/a17410.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "d4/d4b/a17410.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "d4/d4b/a17410.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "d4/d4b/a17410.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "d4/d4b/a17410.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "d4/d4b/a17410.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "d4/d4b/a17410.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

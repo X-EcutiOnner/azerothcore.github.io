@@ -1,5 +1,6 @@
 var a14310 =
 [
-    [ "npc_mikhail", "d5/d1b/a14310.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "d5/d1b/a14310.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
+    [ "FilterTargets", "d5/d1b/a14310.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
+    [ "PrepareSpellScript", "d5/d1b/a14310.html#a0a1cbde8aff10303d91a791276a865f4", null ],
+    [ "Register", "d5/d1b/a14310.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
 ];

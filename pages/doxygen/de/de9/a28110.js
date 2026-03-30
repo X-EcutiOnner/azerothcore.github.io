@@ -1,6 +1,10 @@
 var a28110 =
 [
-    [ "boss_emerissAI", "de/d3f/a28114.html", "de/d3f/a28114" ],
-    [ "boss_emeriss", "de/de9/a28110.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "de/de9/a28110.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "go_evil_book_for_dummies", "de/de9/a28110.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "de/de9/a28110.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "de/de9/a28110.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "de/de9/a28110.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "de/de9/a28110.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "de/de9/a28110.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "de/de9/a28110.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

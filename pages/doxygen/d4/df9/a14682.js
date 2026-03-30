@@ -1,6 +1,6 @@
 var a14682 =
 [
-    [ "npc_brewfest_keg_reciver", "d4/df9/a14682.html#af12e7608f3f715650e6c265ac18920e4", null ],
-    [ "MoveInLineOfSight", "d4/df9/a14682.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
-    [ "sGossipSelect", "d4/df9/a14682.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
+    [ "npc_soh_fire_trigger", "d4/df9/a14682.html#a8bddde264f4848c9a8ed83dcad190223", null ],
+    [ "Reset", "d4/df9/a14682.html#acbec442907a8b40ae04496c53f210aa2", null ],
+    [ "SpellHit", "d4/df9/a14682.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
 ];

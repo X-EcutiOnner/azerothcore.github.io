@@ -1,6 +1,6 @@
 var a20086 =
 [
-    [ "HandleApplyTouch", "df/dc8/a20086.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "df/dc8/a20086.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "df/dc8/a20086.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "achievement_freya_knock_on_wood", "df/dc8/a20086.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "df/dc8/a20086.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "df/dc8/a20086.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

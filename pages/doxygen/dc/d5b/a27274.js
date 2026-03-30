@@ -1,8 +1,6 @@
 var a27274 =
 [
-    [ "CheckCast", "dc/d5b/a27274.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
-    [ "CheckQuest", "dc/d5b/a27274.html#abc927d932c1d5e05eab1918364d68ed5", null ],
-    [ "HandleActiveObject", "dc/d5b/a27274.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
-    [ "PrepareSpellScript", "dc/d5b/a27274.html#a96e69476965cc2466213a5371a57093a", null ],
-    [ "Register", "dc/d5b/a27274.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
+    [ "HandleProc", "dc/d5b/a27274.html#a933975b17f340d9f458dc95b77aa43ac", null ],
+    [ "PrepareAuraScript", "dc/d5b/a27274.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
+    [ "Register", "dc/d5b/a27274.html#a54dd9a2a6646282897cabec00f092525", null ]
 ];

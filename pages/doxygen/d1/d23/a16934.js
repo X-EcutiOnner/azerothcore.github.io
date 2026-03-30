@@ -1,6 +1,6 @@
 var a16934 =
 [
-    [ "npc_toc_shadow_priestAI", "dc/d7d/a16938.html", "dc/d7d/a16938" ],
-    [ "npc_toc_shadow_priest", "d1/d23/a16934.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
-    [ "GetAI", "d1/d23/a16934.html#a93b38d23759da3b7417dbb94b4a951da", null ]
+    [ "OnPeriodic", "d1/d23/a16934.html#a6f2e191d76f894517aed395866b7e508", null ],
+    [ "PrepareAuraScript", "d1/d23/a16934.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
+    [ "Register", "d1/d23/a16934.html#a6094dc303c034e49fb4e543874db080b", null ]
 ];

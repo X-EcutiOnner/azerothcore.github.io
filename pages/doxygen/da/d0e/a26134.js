@@ -1,7 +1,7 @@
 var a26134 =
 [
-    [ "HandleEnergize", "da/d0e/a26134.html#a283e713252166a863aa96530d6e7608b", null ],
-    [ "Load", "da/d0e/a26134.html#a89847e0e9435a708c5722ff928f7033f", null ],
-    [ "PrepareSpellScript", "da/d0e/a26134.html#a8847e05e6eeafd801fca5423d0689432", null ],
-    [ "Register", "da/d0e/a26134.html#ae0778ffd8cf203e22510ee91b0394303", null ]
+    [ "HandleProc", "da/d0e/a26134.html#a18407e24557465a32d3d0a0ac274039e", null ],
+    [ "PrepareAuraScript", "da/d0e/a26134.html#a8d8cc8d38e72911c529039961bf19094", null ],
+    [ "Register", "da/d0e/a26134.html#a0e770622694eb54dcff4077b17e4f811", null ],
+    [ "Validate", "da/d0e/a26134.html#a42165d070ce0e04106d3df06e4890eb8", null ]
 ];

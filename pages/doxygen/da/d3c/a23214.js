@@ -1,5 +1,8 @@
 var a23214 =
 [
-    [ "go_strange_pool", "da/d3c/a23214.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "da/d3c/a23214.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "da/d3c/a23214.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "da/d3c/a23214.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "da/d3c/a23214.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "da/d3c/a23214.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "da/d3c/a23214.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

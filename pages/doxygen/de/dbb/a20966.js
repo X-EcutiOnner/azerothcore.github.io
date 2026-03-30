@@ -1,8 +1,6 @@
 var a20966 =
 [
-    [ "FilterTargets", "de/dbb/a20966.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "de/dbb/a20966.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "de/dbb/a20966.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "de/dbb/a20966.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "de/dbb/a20966.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_archavonAI", "d7/d49/a20970.html", "d7/d49/a20970" ],
+    [ "boss_archavon", "de/dbb/a20966.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "de/dbb/a20966.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

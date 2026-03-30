@@ -1,6 +1,10 @@
 var a24646 =
 [
-    [ "CheckTargets", "d0/d19/a24646.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "d0/d19/a24646.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "d0/d19/a24646.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "HandleTickUpdate", "d0/d19/a24646.html#aa9c1d6c644a3e42b21d1025fc3b06f69", null ],
+    [ "PrepareAuraScript", "d0/d19/a24646.html#aa930d63d22acf8e7aebbdd828cd09f36", null ],
+    [ "Register", "d0/d19/a24646.html#abf597eb55f63858528325eef387fc344", null ],
+    [ "SetTickHeal", "d0/d19/a24646.html#a2eabcc9aa3898c11062677eca73d1de1", null ],
+    [ "Validate", "d0/d19/a24646.html#ab59a1830ca97e1bda455da330a894d5c", null ],
+    [ "_baseReduction", "d0/d19/a24646.html#a8a3a8adce3dde9300e380500c6877d37", null ],
+    [ "_baseTick", "d0/d19/a24646.html#acd801570e2a1b274ed0d9e8bcc6b66f0", null ]
 ];

@@ -1,9 +1,11 @@
 var a20054 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "d6/dfd/a20054.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "d6/dfd/a20054.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "d6/dfd/a20054.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "d6/dfd/a20054.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "d6/dfd/a20054.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "d6/dfd/a20054.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "boss_freya_elder_brightleaf", "d6/dfd/a20054.html#a7454f4dec1f1ccc471f42eeee513f272", null ],
+    [ "JustDied", "d6/dfd/a20054.html#a98aed4b2a4ebf10c807d9bb54c65a273", null ],
+    [ "JustEngagedWith", "d6/dfd/a20054.html#ad0f003e5b57b7c7df4b860df2f8e1e85", null ],
+    [ "KilledUnit", "d6/dfd/a20054.html#a3c45c1c87f793cb4dbd447065b09d108", null ],
+    [ "Reset", "d6/dfd/a20054.html#ae9687c330856da6d5e7bed9bccbe8e52", null ],
+    [ "UpdateAI", "d6/dfd/a20054.html#aa53a5a5ada35c8717c58553b397d58d9", null ],
+    [ "events", "d6/dfd/a20054.html#aaa459ae8f2e0f83330359d45259d9f79", null ],
+    [ "summons", "d6/dfd/a20054.html#a0c11c362ecc29e91f21c87ca0fb3d92e", null ]
 ];

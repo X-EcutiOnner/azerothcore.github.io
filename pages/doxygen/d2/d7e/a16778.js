@@ -1,6 +1,8 @@
 var a16778 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "d3/d62/a16782.html", "d3/d62/a16782" ],
-    [ "npc_black_knight_skeletal_gryphon", "d2/d7e/a16778.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
-    [ "GetAI", "d2/d7e/a16778.html#aad244f95877a208b56a2b6544984d724", null ]
+    [ "npc_toc_pet_warlockAI", "d2/d7e/a16778.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "d2/d7e/a16778.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "d2/d7e/a16778.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "d2/d7e/a16778.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "d2/d7e/a16778.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

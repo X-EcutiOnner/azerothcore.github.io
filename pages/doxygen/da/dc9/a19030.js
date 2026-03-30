@@ -1,6 +1,5 @@
 var a19030 =
 [
-    [ "npc_blistering_zombieAI", "d8/da0/a19034.html", "d8/da0/a19034" ],
-    [ "npc_blistering_zombie", "da/dc9/a19030.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
-    [ "GetAI", "da/dc9/a19030.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
+    [ "npc_icc_buff_switcher", "da/dc9/a19030.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "da/dc9/a19030.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

@@ -1,7 +1,11 @@
 var a20478 =
 [
-    [ "HandleEffectPeriodic", "db/de6/a20478.html#a428d1251465cc9947e7474eab83494e3", null ],
-    [ "PrepareAuraScript", "db/de6/a20478.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
-    [ "Register", "db/de6/a20478.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
-    [ "Validate", "db/de6/a20478.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
+    [ "boss_thorim_ancient_rune_giant", "db/de6/a20478.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
+    [ "DoAction", "db/de6/a20478.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
+    [ "JustDied", "db/de6/a20478.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
+    [ "JustEngagedWith", "db/de6/a20478.html#a98fa309963245a0c57676ff019085fac", null ],
+    [ "Reset", "db/de6/a20478.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
+    [ "UpdateAI", "db/de6/a20478.html#a903d7448d9441866475d77fce8ca6d37", null ],
+    [ "_isInCombat", "db/de6/a20478.html#a148ff1fa8010466de069032f660cd08e", null ],
+    [ "events", "db/de6/a20478.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
 ];

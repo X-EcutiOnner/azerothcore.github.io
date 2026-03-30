@@ -1,8 +1,8 @@
 var a24086 =
 [
-    [ "npc_captain_saeedAI", "d9/d63/a24090.html", "d9/d63/a24090" ],
-    [ "npc_captain_saeed", "db/d2e/a24086.html#a8a5bee9f908b10451b8d4720dff85670", null ],
-    [ "GetAI", "db/d2e/a24086.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
-    [ "OnGossipHello", "db/d2e/a24086.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
-    [ "OnGossipSelect", "db/d2e/a24086.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
+    [ "npc_pet_gen_wind_rider_cub", "db/d2e/a24086.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "db/d2e/a24086.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "db/d2e/a24086.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "db/d2e/a24086.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "db/d2e/a24086.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

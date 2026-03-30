@@ -1,8 +1,6 @@
 var a15146 =
 [
-    [ "npc_doomfire_spirit", "dd/d48/a15146.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "dd/d48/a15146.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "dd/d48/a15146.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "dd/d48/a15146.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "dd/d48/a15146.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "d9/d91/a15150.html", "d9/d91/a15150" ],
+    [ "instance_the_black_morass", "dd/d48/a15146.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
+    [ "GetInstanceScript", "dd/d48/a15146.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
 ];

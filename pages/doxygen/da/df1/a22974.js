@@ -1,6 +1,6 @@
 var a22974 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "da/df1/a22974.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "da/df1/a22974.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "da/df1/a22974.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "HandlePeriodic", "da/df1/a22974.html#a25c698e911ec02d9cd7f757ba87281df", null ],
+    [ "PrepareAuraScript", "da/df1/a22974.html#a7bf79bc5e5f509b52965f03e998db399", null ],
+    [ "Register", "da/df1/a22974.html#ab3eec9f591384c7c1c684651c38aa614", null ]
 ];

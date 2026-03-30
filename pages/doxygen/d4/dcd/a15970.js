@@ -1,7 +1,9 @@
 var a15970 =
 [
-    [ "HandleDummy", "d4/dcd/a15970.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "d4/dcd/a15970.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "d4/dcd/a15970.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "d4/dcd/a15970.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npc_pluckyAI", "d4/dcd/a15970.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "d4/dcd/a15970.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "d4/dcd/a15970.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "d4/dcd/a15970.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "d4/dcd/a15970.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "d4/dcd/a15970.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

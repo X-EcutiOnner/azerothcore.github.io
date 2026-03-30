@@ -1,6 +1,6 @@
 var a16982 =
 [
-    [ "npc_toc_dkAI", "d8/d42/a16986.html", "d8/d42/a16986" ],
-    [ "npc_toc_dk", "db/dd3/a16982.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
-    [ "GetAI", "db/dd3/a16982.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
+    [ "HandleScript", "db/dd3/a16982.html#a4786e0c38f03f7e671174d0641526681", null ],
+    [ "PrepareSpellScript", "db/dd3/a16982.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
+    [ "Register", "db/dd3/a16982.html#a943117bfb56b846e99d04bd9a348af8d", null ]
 ];

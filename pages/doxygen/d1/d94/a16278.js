@@ -1,6 +1,6 @@
 var a16278 =
 [
-    [ "HandleOpenLock", "d1/d94/a16278.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "d1/d94/a16278.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "d1/d94/a16278.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d9/d10/a16282.html", "d9/d10/a16282" ],
+    [ "instance_obsidian_sanctum", "d1/d94/a16278.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d1/d94/a16278.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

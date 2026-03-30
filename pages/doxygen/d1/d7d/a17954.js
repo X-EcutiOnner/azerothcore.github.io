@@ -1,9 +1,12 @@
 var a17954 =
 [
-    [ "CheckProc", "d1/d7d/a17954.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "d1/d7d/a17954.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "d1/d7d/a17954.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "d1/d7d/a17954.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "d1/d7d/a17954.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "d1/d7d/a17954.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "npc_vengeful_shadeAI", "d1/d7d/a17954.html#acd3961c7c81f88a341cb71888c55c882", null ],
+    [ "AttackStart", "d1/d7d/a17954.html#afbd441c5ebf2207d37da1a905be1a247", null ],
+    [ "EnterEvadeMode", "d1/d7d/a17954.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
+    [ "MoveInLineOfSight", "d1/d7d/a17954.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
+    [ "Reset", "d1/d7d/a17954.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
+    [ "SpellHitTarget", "d1/d7d/a17954.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
+    [ "UpdateAI", "d1/d7d/a17954.html#a3a353d677b469d750474a7497c5224a7", null ],
+    [ "targetGUID", "d1/d7d/a17954.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
+    [ "unroot_timer", "d1/d7d/a17954.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
 ];

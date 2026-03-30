@@ -1,7 +1,8 @@
 var a09738 =
 [
-    [ "AllWorldObjectsInRange", "d3/d85/a09738.html#a63f46d510df0fa3153d4b3325676a468", null ],
-    [ "operator()", "d3/d85/a09738.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
-    [ "m_fRange", "d3/d85/a09738.html#a6afe3ef05369dce8ee205db219f97846", null ],
-    [ "m_pObject", "d3/d85/a09738.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
+    [ "AllDeadCreaturesInRange", "d3/d85/a09738.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
+    [ "operator()", "d3/d85/a09738.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
+    [ "_obj", "d3/d85/a09738.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
+    [ "_range", "d3/d85/a09738.html#a431ada86a2b864d53773a85b05d8da4f", null ],
+    [ "_reqAlive", "d3/d85/a09738.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
 ];

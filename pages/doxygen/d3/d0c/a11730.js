@@ -1,10 +1,6 @@
 var a11730 =
 [
-    [ "EffectHook", "d3/d0c/a11730.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "d3/d0c/a11730.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "d3/d0c/a11730.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "d3/d0c/a11730.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "d3/d0c/a11730.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "d3/d0c/a11730.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "d3/d0c/a11730.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "apPctMod", "d3/d0c/a11730.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
+    [ "flatMod", "d3/d0c/a11730.html#a0d66e48d986f246e6aea08dd00837158", null ],
+    [ "pctMod", "d3/d0c/a11730.html#af13802a7f6872cfce3a1d14655f30287", null ]
 ];

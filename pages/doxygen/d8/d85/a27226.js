@@ -1,6 +1,7 @@
 var a27226 =
 [
-    [ "PrepareSpellScript", "d8/d85/a27226.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
-    [ "Register", "d8/d85/a27226.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
-    [ "SetDest", "d8/d85/a27226.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
+    [ "AfterRemove", "d8/d85/a27226.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "d8/d85/a27226.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "d8/d85/a27226.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "d8/d85/a27226.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

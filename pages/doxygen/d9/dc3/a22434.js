@@ -1,14 +1,14 @@
 var a22434 =
 [
-    [ "npc_finklesteinAI", "d9/dc3/a22434.html#a075481689af110f8c20cd5ca13258ba3", null ],
-    [ "ClearPlayerOnTask", "d9/dc3/a22434.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
-    [ "GetTaskAura", "d9/dc3/a22434.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
-    [ "GetTaskCounter", "d9/dc3/a22434.html#a240e8f556176b9571bd08407276402be", null ],
-    [ "GetTaskItemEntry", "d9/dc3/a22434.html#a08a3005db6d192663a835b9ee192352b", null ],
-    [ "GetTaskItemName", "d9/dc3/a22434.html#adce990629aa1833dc07c7dbb1297cead", null ],
-    [ "IsPlayerOnTask", "d9/dc3/a22434.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
-    [ "RightClickCauldron", "d9/dc3/a22434.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
-    [ "SelectRandomCode", "d9/dc3/a22434.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
-    [ "StartNextTask", "d9/dc3/a22434.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
-    [ "questList", "d9/dc3/a22434.html#a5c3a3237579721b94dd433841b83bb02", null ]
+    [ "npc_maiev_illidan", "d9/dc3/a22434.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
+    [ "DamageTaken", "d9/dc3/a22434.html#a780cc558c483efa3293d798cc6048a33", null ],
+    [ "DoAction", "d9/dc3/a22434.html#a53607a158edf8fd772908b5d7af6edf1", null ],
+    [ "IsSummonedBy", "d9/dc3/a22434.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
+    [ "JustEngagedWith", "d9/dc3/a22434.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
+    [ "JustExitedCombat", "d9/dc3/a22434.html#a5606060b12e17edfd6ad05f4f01dd339", null ],
+    [ "Reset", "d9/dc3/a22434.html#a100db757c89634a58b9382216e2791ec", null ],
+    [ "SpellHit", "d9/dc3/a22434.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
+    [ "UpdateAI", "d9/dc3/a22434.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
+    [ "_outroActive", "d9/dc3/a22434.html#af0f1e48d3712039cb110d5a69a464009", null ],
+    [ "instance", "d9/dc3/a22434.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
 ];

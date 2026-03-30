@@ -1,7 +1,6 @@
 var a24006 =
 [
-    [ "HandleDummy", "d7/df5/a24006.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d7/df5/a24006.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d7/df5/a24006.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d7/df5/a24006.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_unkor_the_ruthlessAI", "d2/d98/a24010.html", "d2/d98/a24010" ],
+    [ "npc_unkor_the_ruthless", "d7/df5/a24006.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "d7/df5/a24006.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

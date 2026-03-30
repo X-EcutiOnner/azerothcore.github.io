@@ -1,6 +1,7 @@
 var a22966 =
 [
-    [ "PrepareSpellScript", "d2/def/a22966.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "d2/def/a22966.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "d2/def/a22966.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "HandleEffectRemove", "d2/def/a22966.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "d2/def/a22966.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "d2/def/a22966.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "d2/def/a22966.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

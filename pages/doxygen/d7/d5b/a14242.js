@@ -1,6 +1,5 @@
 var a14242 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d8/dda/a14246.html", "d8/dda/a14246" ],
-    [ "npc_jaina_proudmoore_bfu", "d7/d5b/a14242.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "d7/d5b/a14242.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "go_gong_of_bethekk", "d7/d5b/a14242.html#ae261467be63f1a744eb20f81473c2239", null ],
+    [ "OnGossipHello", "d7/d5b/a14242.html#a82072ff8c030aec1a5ed447865680788", null ]
 ];

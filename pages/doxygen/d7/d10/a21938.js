@@ -1,9 +1,6 @@
 var a21938 =
 [
-    [ "npc_venture_co_stragglerAI", "d7/d10/a21938.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "d7/d10/a21938.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "d7/d10/a21938.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "d7/d10/a21938.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "d7/d10/a21938.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "d7/d10/a21938.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "npc_iron_watcherAI", "d4/d76/a21942.html", "d4/d76/a21942" ],
+    [ "npc_iron_watcher", "d7/d10/a21938.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "d7/d10/a21938.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

@@ -1,6 +1,6 @@
 var a11838 =
 [
-    [ "CheckEffectProcHandler", "d5/d62/a11838.html#ac91e234c2ec9d458a70f501e9b672af0", null ],
-    [ "Call", "d5/d62/a11838.html#aca4c845623e63c38310986b86e312247", null ],
-    [ "_HandlerScript", "d5/d62/a11838.html#a0bb540e91e691b31191983614fa737dc", null ]
+    [ "EffectBase", "d5/d62/a11838.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "d5/d62/a11838.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "d5/d62/a11838.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

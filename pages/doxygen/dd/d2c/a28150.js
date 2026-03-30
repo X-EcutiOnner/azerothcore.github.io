@@ -1,6 +1,11 @@
 var a28150 =
 [
-    [ "go_witherbark_totem_bundleAI", "df/d08/a28154.html", "df/d08/a28154" ],
-    [ "go_witherbark_totem_bundle", "dd/d2c/a28150.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "dd/d2c/a28150.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "npc_franklinAI", "dd/d2c/a28150.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "dd/d2c/a28150.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "dd/d2c/a28150.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "dd/d2c/a28150.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "dd/d2c/a28150.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "dd/d2c/a28150.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "dd/d2c/a28150.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "dd/d2c/a28150.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

@@ -1,6 +1,5 @@
 var a02054 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "da/d64/a11491.html", "da/d64/a11491" ],
-    [ "REMOVE_VIOLATING_FLAGS", "d7/d38/a02054.html#a9d7c4eaedbb2a06f275a5f59222bc747", null ],
-    [ "DefaultPlayerName", "d7/d38/a02054.html#a586e06ca0d339349e13d81197056bb5f", null ]
+    [ "item_commandscript", "d4/d0c/a12222.html", "d4/d0c/a12222" ],
+    [ "AddSC_item_commandscript", "d7/d38/a02054.html#ad129450eb89b9c3e5c98717b2c44de8e", null ]
 ];

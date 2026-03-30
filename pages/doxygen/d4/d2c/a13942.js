@@ -1,7 +1,8 @@
 var a13942 =
 [
-    [ "npc_singularity", "d4/d2c/a13942.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "FindAndFollowTarget", "d4/d2c/a13942.html#a76c21129756dec05f6f2d88cebe948c5", null ],
-    [ "Reset", "d4/d2c/a13942.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "d4/d2c/a13942.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "npc_deathstalker_erlandAI", "d4/d2c/a13942.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "d4/d2c/a13942.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "d4/d2c/a13942.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "d4/d2c/a13942.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ],
+    [ "WaypointReached", "d4/d2c/a13942.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

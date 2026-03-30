@@ -1,10 +1,11 @@
 var a17426 =
 [
-    [ "npc_hor_spiritual_reflectionAI", "de/d00/a17426.html#aac0a916bfa325284b354e7241fe857ab", null ],
-    [ "EnterEvadeMode", "de/d00/a17426.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
-    [ "JustDied", "de/d00/a17426.html#a72073c44f881d4a78552de4119a716d7", null ],
-    [ "JustEngagedWith", "de/d00/a17426.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
-    [ "Reset", "de/d00/a17426.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
-    [ "UpdateAI", "de/d00/a17426.html#af9613e9309b85317bc6e3a84013dcf89", null ],
-    [ "events", "de/d00/a17426.html#a89a466917aa5634c4c86ecbce21280b7", null ]
+    [ "boss_slad_ranAI", "de/d00/a17426.html#ad85e2fd51d67739026a96bc757bc7801", null ],
+    [ "GetData", "de/d00/a17426.html#a58e1188a418acdc1f327e7df90c5c122", null ],
+    [ "JustDied", "de/d00/a17426.html#a636ca76497c33a5175986e80bbcda44a", null ],
+    [ "JustEngagedWith", "de/d00/a17426.html#ac30b38805d0421b1be509c7d5609c648", null ],
+    [ "KilledUnit", "de/d00/a17426.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
+    [ "Reset", "de/d00/a17426.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
+    [ "SetData", "de/d00/a17426.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
+    [ "_achievement", "de/d00/a17426.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
 ];

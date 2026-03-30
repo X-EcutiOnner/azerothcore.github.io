@@ -1,13 +1,10 @@
 var a21302 =
 [
-    [ "boss_toravonAI", "d2/d4a/a21302.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
-    [ "AttackStart", "d2/d4a/a21302.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
-    [ "JustDied", "d2/d4a/a21302.html#ad501bb34a0014be0abc965aae5383e21", null ],
-    [ "JustEngagedWith", "d2/d4a/a21302.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
-    [ "JustSummoned", "d2/d4a/a21302.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
-    [ "Reset", "d2/d4a/a21302.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
-    [ "UpdateAI", "d2/d4a/a21302.html#a97c16b1689cfdb7fa680381964cb272a", null ],
-    [ "events", "d2/d4a/a21302.html#ae2a3b691f1580275228204ea8ccaf846", null ],
-    [ "pInstance", "d2/d4a/a21302.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
-    [ "summons", "d2/d4a/a21302.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
+    [ "npc_bonker_togglevoltAI", "d2/d4a/a21302.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "d2/d4a/a21302.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "d2/d4a/a21302.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "d2/d4a/a21302.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "d2/d4a/a21302.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "WaypointReached", "d2/d4a/a21302.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Bonker_agro", "d2/d4a/a21302.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

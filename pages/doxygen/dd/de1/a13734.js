@@ -1,6 +1,7 @@
 var a13734 =
 [
-    [ "HandleSendEvent", "dd/de1/a13734.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "dd/de1/a13734.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "dd/de1/a13734.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "npc_singularity", "dd/de1/a13734.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "dd/de1/a13734.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "dd/de1/a13734.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "dd/de1/a13734.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

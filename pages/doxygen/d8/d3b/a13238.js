@@ -1,11 +1,8 @@
 var a13238 =
 [
-    [ "npc_demon_chain", "d8/d3b/a13238.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "d8/d3b/a13238.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "d8/d3b/a13238.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "d8/d3b/a13238.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "d8/d3b/a13238.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "d8/d3b/a13238.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "d8/d3b/a13238.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "d8/d3b/a13238.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "npc_dkc1_gothikAI", "d8/d3b/a13238.html#a35e65bd943f86ba3a1d6841569289df6", null ],
+    [ "DoAction", "d8/d3b/a13238.html#a3193c562973bbf995ab5e0173a93d01f", null ],
+    [ "MoveInLineOfSight", "d8/d3b/a13238.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
+    [ "UpdateAI", "d8/d3b/a13238.html#a346d32c9831babe6fb5f675b70b7a897", null ],
+    [ "spoken", "d8/d3b/a13238.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
 ];

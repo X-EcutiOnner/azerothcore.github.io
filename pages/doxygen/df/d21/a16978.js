@@ -1,7 +1,8 @@
 var a16978 =
 [
-    [ "npc_toc_warriorAI", "df/d21/a16978.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
-    [ "myCanCast", "df/d21/a16978.html#ac815e13cbbe9a8833330e15213420c65", null ],
-    [ "UpdateAI", "df/d21/a16978.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
-    [ "events", "df/d21/a16978.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
+    [ "HandleEffectApply", "df/d21/a16978.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
+    [ "HandleEffectRemove", "df/d21/a16978.html#a04504220319ec562b1b6691f471c1b8d", null ],
+    [ "PrepareAuraScript", "df/d21/a16978.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
+    [ "Register", "df/d21/a16978.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
+    [ "Validate", "df/d21/a16978.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
 ];

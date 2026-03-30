@@ -1,9 +1,6 @@
 var a24826 =
 [
-    [ "Absorb", "df/d44/a24826.html#a8f6e773840274e07d685c891561f72d8", null ],
-    [ "CalculateAmount", "df/d44/a24826.html#af337ef5d5cea283f4e43b943961838d6", null ],
-    [ "Load", "df/d44/a24826.html#a65f51613dd3614f5b0e3e1dc938f56cf", null ],
-    [ "PrepareAuraScript", "df/d44/a24826.html#a5c2eca05834a29fa6d5d7dd3c75e52ed", null ],
-    [ "Register", "df/d44/a24826.html#a80982626e1b67374629cb6e0800ccaea", null ],
-    [ "absorbPct", "df/d44/a24826.html#a7ce98d22bb4a28f94366b4c08f76b61a", null ]
+    [ "CheckAreaTarget", "df/d44/a24826.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
+    [ "PrepareAuraScript", "df/d44/a24826.html#afbc45652033397067a439b45afd2e90e", null ],
+    [ "Register", "df/d44/a24826.html#aa24679e1243470056f74249e1b26767d", null ]
 ];

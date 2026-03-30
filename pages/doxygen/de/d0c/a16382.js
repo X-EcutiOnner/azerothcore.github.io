@@ -1,6 +1,8 @@
 var a16382 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d8/d28/a16386.html", "d8/d28/a16386" ],
-    [ "instance_ahnkahet", "de/d0c/a16382.html#afbe11bc040019231878cf31cc357830b", null ],
-    [ "GetInstanceScript", "de/d0c/a16382.html#a8847099c88f11de363c45e27998f10b7", null ]
+    [ "OnApply", "de/d0c/a16382.html#a96321003a002be0e4838901f03f8a5d8", null ],
+    [ "OnRemove", "de/d0c/a16382.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
+    [ "PrepareAuraScript", "de/d0c/a16382.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
+    [ "Register", "de/d0c/a16382.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
+    [ "Validate", "de/d0c/a16382.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
 ];

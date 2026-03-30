@@ -1,6 +1,7 @@
 var a24466 =
 [
-    [ "FilterTargets", "d2/de0/a24466.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "d2/de0/a24466.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "d2/de0/a24466.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "HandleScriptEffect", "d2/de0/a24466.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
+    [ "PrepareSpellScript", "d2/de0/a24466.html#ae29c4f69a34e71011192df12509e2935", null ],
+    [ "Register", "d2/de0/a24466.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
+    [ "Validate", "d2/de0/a24466.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
 ];

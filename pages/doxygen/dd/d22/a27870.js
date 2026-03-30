@@ -1,8 +1,9 @@
 var a27870 =
 [
-    [ "HandleDamage", "dd/d22/a27870.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "dd/d22/a27870.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "dd/d22/a27870.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "dd/d22/a27870.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "dd/d22/a27870.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "go_tadpole_cageAI", "dd/d22/a27870.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "dd/d22/a27870.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "dd/d22/a27870.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "dd/d22/a27870.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "dd/d22/a27870.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "dd/d22/a27870.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

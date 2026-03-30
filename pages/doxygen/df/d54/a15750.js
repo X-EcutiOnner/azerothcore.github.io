@@ -1,6 +1,7 @@
 var a15750 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d2/d8f/a15754.html", "d2/d8f/a15754" ],
-    [ "instance_temple_of_ahnqiraj", "df/d54/a15750.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
-    [ "GetInstanceScript", "df/d54/a15750.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
+    [ "HandleDummy", "df/d54/a15750.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "df/d54/a15750.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "df/d54/a15750.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "df/d54/a15750.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

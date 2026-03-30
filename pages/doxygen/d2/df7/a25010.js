@@ -1,7 +1,7 @@
 var a25010 =
 [
-    [ "CheckRequirement", "d2/df7/a25010.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "d2/df7/a25010.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "d2/df7/a25010.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "d2/df7/a25010.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "HandleApplyEffect", "d2/df7/a25010.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "d2/df7/a25010.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "d2/df7/a25010.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "d2/df7/a25010.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

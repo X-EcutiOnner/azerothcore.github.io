@@ -1,103 +1,96 @@
 var a03617 =
 [
-    [ "BoardCell", "dc/d02/a12879.html", "dc/d02/a12879" ],
-    [ "npc_echo_of_medivh", "dc/d6b/a12883.html", "dc/d6b/a12883" ],
-    [ "npc_chesspiece", "dd/d31/a12887.html", "dd/d31/a12887" ],
-    [ "npc_chess_move_trigger", "da/d8e/a12891.html", "da/d8e/a12891" ],
-    [ "spell_control_piece", "d6/dea/a12895.html", "d6/dea/a12895" ],
-    [ "ChessEventTalks", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557d", [
-      [ "TALK_EVENT_BEGIN", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da4693097f8b68000531f5ad6fe610072f", null ],
-      [ "TALK_MEDIHV_CHEAT", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557dadc33e864d043fc13e86d02717d78c17a", null ],
-      [ "TALK_MEDIHV_CHEAT_EMOTE", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da81d26fd6e1b3bf0d24ce6fbd53c31534", null ],
-      [ "TALK_PLAYER_LOOSE_PAWN", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da85cc3f1adfadc8110b9dfbb78a30985d", null ],
-      [ "TALK_PLAYER_LOOSE_ROOK", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557daa790faa3ded3ef9af3dfb54ba04923a0", null ],
-      [ "TALK_PLAYER_LOOSE_KNIGHT", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da4c6c6a0651be3376429e1b127a3e59d7", null ],
-      [ "TALK_PLAYER_LOOSE_BISHOP", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da6428da0e86c6a0fc017a6b7dc6f67f21", null ],
-      [ "TALK_PLAYER_LOOSE_QUEEN", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da4f3eeada40b9637b83fa5f4c69126968", null ],
-      [ "TALK_PLAYER_LOOSE_KING", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da2cbff980fbdf90ac11779d99cec3cdc3", null ],
-      [ "TALK_MEDIVH_LOOSE_PAWN", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da5cb3dad6aa4a62e439835d8c1b8994ed", null ],
-      [ "TALK_MEDIVH_LOOSE_ROOK", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da4d0a57ee2de7017a7f32f2eba8798c51", null ],
-      [ "TALK_MEDIVH_LOOSE_KNIGHT", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557dabb1459da832b3d2d1efbd8380ee976bb", null ],
-      [ "TALK_MEDIVH_LOOSE_BISHOP", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da5c0d93cbdd250c15de62e4122ad0ecb5", null ],
-      [ "TALK_MEDIVH_LOOSE_QUEEN", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da8befe39d4d62a4701f1ec063d02e9cac", null ],
-      [ "TALK_MEDIVH_LOOSE_KING", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557dae3ceccc5908c2e85bade374da1205ba0", null ],
-      [ "TALK_CHECKMATE", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da3fe3757f298ff710e10cf46fa4344d81", null ],
-      [ "TALK_EVENT_ENDED", "d4/d35/a03617.html#a8b868f145323416ed49f818a8dc9557da3af3ae11d5d4333816e4c9ffa36374d0", null ]
+    [ "CalendarInvite", "de/dec/a07758.html", "de/dec/a07758" ],
+    [ "CalendarEvent", "d3/da5/a07762.html", "d3/da5/a07762" ],
+    [ "CalendarMgr", "dd/d73/a07766.html", "dd/d73/a07766" ],
+    [ "sCalendarMgr", "d4/d35/a03617.html#a19ac4cd787f75380716d027d20c06b7a", null ],
+    [ "CalendarEventInviteStore", "d4/d35/a03617.html#af35b9a127e069a3aed4acad11a7cc5a6", null ],
+    [ "CalendarEventStore", "d4/d35/a03617.html#aea0466a27af69ea188d66b721b49a3d6", null ],
+    [ "CalendarInviteStore", "d4/d35/a03617.html#a6fe31a855a3ec48abb6eccd7296351ee", null ],
+    [ "CalendarError", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5", [
+      [ "CALENDAR_OK", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac62ddd961bf35a19647e4cd6b9a7e6cd", null ],
+      [ "CALENDAR_ERROR_GUILD_EVENTS_EXCEEDED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a7516b93b285d93c30df815a153d24167", null ],
+      [ "CALENDAR_ERROR_EVENTS_EXCEEDED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a4ba9fa39d98f1bf085af3de98cca9dca", null ],
+      [ "CALENDAR_ERROR_SELF_INVITES_EXCEEDED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a320b0a93d9cba18e879cd1bea5f96fbf", null ],
+      [ "CALENDAR_ERROR_OTHER_INVITES_EXCEEDED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a2f54e4a55eac48953a9cafc4614c4fb4", null ],
+      [ "CALENDAR_ERROR_PERMISSIONS", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a48674cf3f296507a9923feccf39b1afa", null ],
+      [ "CALENDAR_ERROR_EVENT_INVALID", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5ae3d987dfddd3797dc8888252cf89fc36", null ],
+      [ "CALENDAR_ERROR_NOT_INVITED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1560dd9567ff6c5755b3aa62d3979fd8", null ],
+      [ "CALENDAR_ERROR_INTERNAL", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a000f01ad03bfb2f45c6b8e07af9dd825", null ],
+      [ "CALENDAR_ERROR_GUILD_PLAYER_NOT_IN_GUILD", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5af2be40799e55127c125ce2d143ec1ff6", null ],
+      [ "CALENDAR_ERROR_ALREADY_INVITED_TO_EVENT_S", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a8f5b36d4edb8a21f05dd2e4fac327301", null ],
+      [ "CALENDAR_ERROR_PLAYER_NOT_FOUND", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac3e9334e8cbc95e43e53ff88b1afd20d", null ],
+      [ "CALENDAR_ERROR_NOT_ALLIED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a443a38772984e225a6590867ee37f276", null ],
+      [ "CALENDAR_ERROR_IGNORING_YOU_S", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac12d9c0f2ef9c311d4e6de7f6388841c", null ],
+      [ "CALENDAR_ERROR_INVITES_EXCEEDED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a93ab32bcbba393e663a662113184d128", null ],
+      [ "CALENDAR_ERROR_INVALID_DATE", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a643cb78069bcd2732f7aa59b4ddf4e5e", null ],
+      [ "CALENDAR_ERROR_INVALID_TIME", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5aab8bb0ad9960b4faecc59a4cc60a6582", null ],
+      [ "CALENDAR_ERROR_NEEDS_TITLE", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a65a54f787853a10d0ae3748aaa5777fd", null ],
+      [ "CALENDAR_ERROR_EVENT_PASSED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0f04b6feb420a3e25db30a97a92a7203", null ],
+      [ "CALENDAR_ERROR_EVENT_LOCKED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1c9e2cc87b2d09d205062f1309aa2a40", null ],
+      [ "CALENDAR_ERROR_DELETE_CREATOR_FAILED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a6c5119088956e0bd9aee2d6874547522", null ],
+      [ "CALENDAR_ERROR_SYSTEM_DISABLED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0dc2264473d089c2a2dc2ae72c55bb8e", null ],
+      [ "CALENDAR_ERROR_RESTRICTED_ACCOUNT", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5abb0e98a0d33e09bd1b047bff343c74a1", null ],
+      [ "CALENDAR_ERROR_ARENA_EVENTS_EXCEEDED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a2a84b6823769761020b9b7fd6c22b3c4", null ],
+      [ "CALENDAR_ERROR_RESTRICTED_LEVEL", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a6c4475d051a74a6768efa1781caa1bd8", null ],
+      [ "CALENDAR_ERROR_USER_SQUELCHED", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac2cf0dee47c60fff68e4d0377b1920ae", null ],
+      [ "CALENDAR_ERROR_NO_INVITE", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0aa1c82beb1173e79c4195a69dbe57d3", null ],
+      [ "CALENDAR_ERROR_EVENT_WRONG_SERVER", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5ab44e9487ece19ecfc94b4edb564b134f", null ],
+      [ "CALENDAR_ERROR_INVITE_WRONG_SERVER", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a87fd3457b7f5866136a1872a64e0ebf9", null ],
+      [ "CALENDAR_ERROR_NO_GUILD_INVITES", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a583b338a1e449c4556cf59bde571b520", null ],
+      [ "CALENDAR_ERROR_INVALID_SIGNUP", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a02351c5872a342c5a0b8b0b498c83cc2", null ],
+      [ "CALENDAR_ERROR_NO_MODERATOR", "d4/d35/a03617.html#a2812c2f5fdbdaf8b594ea7001772a9c5a77f3aae4f5f09a6d58d64897209d67dd", null ]
     ] ],
-    [ "ChessPieceSearchType", "d4/d35/a03617.html#ab68224849615ea499832e57768e34427", [
-      [ "CHESS_PIECE_SEARCH_TYPE_CLOSEST", "d4/d35/a03617.html#ab68224849615ea499832e57768e34427a6947e3d2e11d159a5a1e525ae4090907", null ],
-      [ "CHESS_PIECE_SEARCH_TYPE_RANDOM", "d4/d35/a03617.html#ab68224849615ea499832e57768e34427a3602314ef3711007bb5e2991b3b3db39", null ]
+    [ "CalendarEventType", "d4/d35/a03617.html#aabfde90a2fd31d4aa93fac9f496c12fc", [
+      [ "CALENDAR_TYPE_RAID", "d4/d35/a03617.html#aabfde90a2fd31d4aa93fac9f496c12fca48aa5b1bedf68195cdd22beef9b70890", null ],
+      [ "CALENDAR_TYPE_DUNGEON", "d4/d35/a03617.html#aabfde90a2fd31d4aa93fac9f496c12fca8437c91cd27563e4e360e6c7121634c1", null ],
+      [ "CALENDAR_TYPE_PVP", "d4/d35/a03617.html#aabfde90a2fd31d4aa93fac9f496c12fca70d5fb1e15351b8947fc6d67ffe3787e", null ],
+      [ "CALENDAR_TYPE_MEETING", "d4/d35/a03617.html#aabfde90a2fd31d4aa93fac9f496c12fca494b5ff6684446c72830fe7b4f5c6c3f", null ],
+      [ "CALENDAR_TYPE_OTHER", "d4/d35/a03617.html#aabfde90a2fd31d4aa93fac9f496c12fca01ce2bdc9dc2ced0772ef714f873f397", null ]
     ] ],
-    [ "EchoOfMedivhGossipOptions", "d4/d35/a03617.html#a0544772b6f5c8b343db16ef7687a9b1b", [
-      [ "MEDIVH_GOSSIP_START_PVE", "d4/d35/a03617.html#a0544772b6f5c8b343db16ef7687a9b1bac2b767c4ef16336216404d645a4cf321", null ],
-      [ "MEDIVH_GOSSIP_RESTART", "d4/d35/a03617.html#a0544772b6f5c8b343db16ef7687a9b1ba62624203ab6be95ae8c4f924e9ae685b", null ],
-      [ "MEDIVH_GOSSIP_START_PVP", "d4/d35/a03617.html#a0544772b6f5c8b343db16ef7687a9b1ba7e5b57a30ed4e17419134053fd123866", null ]
+    [ "CalendarFlags", "d4/d35/a03617.html#a5fcf8a7cda848f4b07b3bfc52392bc1c", [
+      [ "CALENDAR_FLAG_ALL_ALLOWED", "d4/d35/a03617.html#a5fcf8a7cda848f4b07b3bfc52392bc1caaec6bae0b6425676a85d9ba85b0c52ce", null ],
+      [ "CALENDAR_FLAG_INVITES_LOCKED", "d4/d35/a03617.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca11c0822a05ad167436a105ad7d18675e", null ],
+      [ "CALENDAR_FLAG_WITHOUT_INVITES", "d4/d35/a03617.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a", null ],
+      [ "CALENDAR_FLAG_GUILD_EVENT", "d4/d35/a03617.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab", null ]
     ] ],
-    [ "KarazhanChessNPCs", "d4/d35/a03617.html#aad26009b924c030eec9ddb7ef6ffde13", [
-      [ "NPC_CHESS_MOVE_TRIGGER", "d4/d35/a03617.html#aad26009b924c030eec9ddb7ef6ffde13a98ea5b9ea5b9c6a24b53016e0d653519", null ]
+    [ "CalendarInviteStatus", "d4/d35/a03617.html#abdb1aa687194b3d8b2fc19da7b3334b4", [
+      [ "CALENDAR_STATUS_INVITED", "d4/d35/a03617.html#abdb1aa687194b3d8b2fc19da7b3334b4a2a057d25b8c726dc09413d9bb9c8be92", null ],
+      [ "CALENDAR_STATUS_ACCEPTED", "d4/d35/a03617.html#abdb1aa687194b3d8b2fc19da7b3334b4a2ca72ac10e931968fd01373d73b73525", null ],
+      [ "CALENDAR_STATUS_DECLINED", "d4/d35/a03617.html#abdb1aa687194b3d8b2fc19da7b3334b4aa808b39d9c2805547d936762675ef4f6", null ],
+      [ "CALENDAR_STATUS_CONFIRMED", "d4/d35/a03617.html#abdb1aa687194b3d8b2fc19da7b3334b4ae7cfe308334841fc33daefeee33cb1bc", null ],
+      [ "CALENDAR_STATUS_OUT", "d4/d35/a03617.html#abdb1aa687194b3d8b2fc19da7b3334b4af8c5abe28506f07366c085908dfca1bb", null ],
+      [ "CALENDAR_STATUS_STANDBY", "d4/d35/a03617.html#abdb1aa687194b3d8b2fc19da7b3334b4a2177c40fa4e5c9e8f361a01fa10c4aad", null ],
+      [ "CALENDAR_STATUS_SIGNED_UP", "d4/d35/a03617.html#abdb1aa687194b3d8b2fc19da7b3334b4a4268e3a8406a494637e317560ab27d28", null ],
+      [ "CALENDAR_STATUS_NOT_SIGNED_UP", "d4/d35/a03617.html#abdb1aa687194b3d8b2fc19da7b3334b4a0f7719df2703c427637085ef82ec420d", null ],
+      [ "CALENDAR_STATUS_TENTATIVE", "d4/d35/a03617.html#abdb1aa687194b3d8b2fc19da7b3334b4a0f3f83d68d216ff326f5880ae5570be3", null ],
+      [ "CALENDAR_STATUS_REMOVED", "d4/d35/a03617.html#abdb1aa687194b3d8b2fc19da7b3334b4a95cc3d298d4cd178c93c42ead591604d", null ]
     ] ],
-    [ "KarazhanChessOrientationType", "d4/d35/a03617.html#a776f00400884bd1d84aefbb93a4b4b7e", [
-      [ "ORI_SE", "d4/d35/a03617.html#a776f00400884bd1d84aefbb93a4b4b7ea824f6a8582c4298cd3105c562e3b7c0a", null ],
-      [ "ORI_S", "d4/d35/a03617.html#a776f00400884bd1d84aefbb93a4b4b7ea6847e1649e8f840015178e8270f8b21f", null ],
-      [ "ORI_SW", "d4/d35/a03617.html#a776f00400884bd1d84aefbb93a4b4b7eaaa456b1eb23073b0ffd877d031b91083", null ],
-      [ "ORI_W", "d4/d35/a03617.html#a776f00400884bd1d84aefbb93a4b4b7ea3d4da4d4284ea30c63f16bf9d8e727ff", null ],
-      [ "ORI_NW", "d4/d35/a03617.html#a776f00400884bd1d84aefbb93a4b4b7ea6b35270c005580262c80aed270fc84ea", null ],
-      [ "ORI_N", "d4/d35/a03617.html#a776f00400884bd1d84aefbb93a4b4b7ea70598bbec629e542de83e69a920d1af6", null ],
-      [ "ORI_NE", "d4/d35/a03617.html#a776f00400884bd1d84aefbb93a4b4b7ea1b143867def82033bba19ae4dca7a628", null ],
-      [ "ORI_E", "d4/d35/a03617.html#a776f00400884bd1d84aefbb93a4b4b7ea5ba4627583e29f7ea8ba97cd92289fff", null ],
-      [ "MAX_ORI", "d4/d35/a03617.html#a776f00400884bd1d84aefbb93a4b4b7ea9ee6b6a5497b2bf4b5e8ed9e5d649383", null ]
+    [ "CalendarLimits", "d4/d35/a03617.html#adf6bf00c462990adc2b57c02f9db8c32", [
+      [ "CALENDAR_MAX_EVENTS", "d4/d35/a03617.html#adf6bf00c462990adc2b57c02f9db8c32a49230604bd7fd600f1852ba9dd754076", null ],
+      [ "CALENDAR_MAX_GUILD_EVENTS", "d4/d35/a03617.html#adf6bf00c462990adc2b57c02f9db8c32abec07e16ff5421a7ae42dc4b182958a2", null ],
+      [ "CALENDAR_MAX_INVITES", "d4/d35/a03617.html#adf6bf00c462990adc2b57c02f9db8c32aa5c5d3a6c0bb88385109aa937a047e95", null ],
+      [ "CALENDAR_CREATE_EVENT_COOLDOWN", "d4/d35/a03617.html#adf6bf00c462990adc2b57c02f9db8c32ae4904590b247a266816d8e71ad231b9f", null ],
+      [ "CALENDAR_OLD_EVENTS_DELETION_TIME", "d4/d35/a03617.html#adf6bf00c462990adc2b57c02f9db8c32a1abad081cf58bddddf2065698274bd48", null ]
     ] ],
-    [ "KarazhanChessPiecesSpells", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cff", [
-      [ "SPELL_KING_H_1", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa9bff823be62e141f0b7adffb1ebcc3ba", null ],
-      [ "SPELL_KING_A_1", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa6c390167d44074b21b96b84f032411f3", null ],
-      [ "SPELL_QUEEN_H_1", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffaaa5fa1741404ae60f7e22ab967818a28", null ],
-      [ "SPELL_QUEEN_A_1", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa7d44034f93bebf06c9cfdd19180ec54b", null ],
-      [ "SPELL_BISHOP_H_1", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa0404f0380d45b0585b17dc08556b768b", null ],
-      [ "SPELL_BISHOP_A_1", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa2ec7b6902e0b67ac3386718dfee83c1d", null ],
-      [ "SPELL_KNIGHT_H_1", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa1ff426216096a91ca8fd563d250a6cab", null ],
-      [ "SPELL_KNIGHT_A_1", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffac477ca3e4a9cac1e1f4d9bf2d1c5fa39", null ],
-      [ "SPELL_ROOK_H_1", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa2b2d792b4c3e585f0f2951abeccebf55", null ],
-      [ "SPELL_ROOK_A_1", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffadd8801c9c30af9f967c58e515baa36f6", null ],
-      [ "SPELL_PAWN_H_1", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa6cc7e8f379dd656b539f3a6f095e516a", null ],
-      [ "SPELL_PAWN_A_1", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa267f1511a952094f60889f8ecec5634b", null ],
-      [ "SPELL_KING_H_2", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa3bcbae149e306622ea2c1b4c0f45dc6e", null ],
-      [ "SPELL_KING_A_2", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffaeb94242cac4f4cf099fc142eb3417416", null ],
-      [ "SPELL_QUEEN_H_2", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa98cd4d4fa8d7399ebc6202975ec3974a", null ],
-      [ "SPELL_QUEEN_A_2", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffab13a1aae8b85d53e3b7a3667d2cb9988", null ],
-      [ "SPELL_BISHOP_H_2", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffae854a886812965077804a790cfdb546f", null ],
-      [ "SPELL_BISHOP_A_2", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa756dfbd56ba9a107542747b8e8db88af", null ],
-      [ "SPELL_KNIGHT_H_2", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffac4a617a669a6454d394faebc6a06497d", null ],
-      [ "SPELL_KNIGHT_A_2", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffab0ee8ff5a96094148921a3aaedb4d18b", null ],
-      [ "SPELL_ROOK_H_2", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa0b75a9d3f7e5f605adcf9701c914accd", null ],
-      [ "SPELL_ROOK_A_2", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa5c7c1f8d785118286366aadd3fba8419", null ],
-      [ "SPELL_PAWN_H_2", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa9584a3c8eb1d6a3c1a4915c5bed65c8c", null ],
-      [ "SPELL_PAWN_A_2", "d4/d35/a03617.html#ae4e70411a252b8e3bb17ea3631378cffa5e46c5549fa0882d99fa53b58aebeaf0", null ]
+    [ "CalendarMailAnswers", "d4/d35/a03617.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7", [
+      [ "CALENDAR_EVENT_REMOVED_MAIL_SUBJECT", "d4/d35/a03617.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7ab011dccd3e2a3f82731887cb184dacaf", null ],
+      [ "CALENDAR_INVITE_REMOVED_MAIL_SUBJECT", "d4/d35/a03617.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7aeaf378ba4739bc58c1b530fd39368090", null ]
     ] ],
-    [ "KarazhanChessSpells", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021cc", [
-      [ "SPELL_MOVE_1", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021cca692ff4f1cc0311bbbd34a8a3f2eb905a", null ],
-      [ "SPELL_MOVE_2", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021cca225e78ab4733a039dab2296fa40dad5d", null ],
-      [ "SPELL_MOVE_3", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021cca8af9a1bece1ad080d3c270900bf86fc8", null ],
-      [ "SPELL_MOVE_4", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021ccac61da5837abe9b9f609b1496b04a68b1", null ],
-      [ "SPELL_MOVE_5", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021cca3a9bfced1cc145c51dd4c58b68e68129", null ],
-      [ "SPELL_MOVE_6", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021cca219975e90d2895651c2efa01e8927bc0", null ],
-      [ "SPELL_MOVE_GENERIC", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021ccafec1e7f2fc128374410f53054710247c", null ],
-      [ "SPELL_CHANGE_FACING", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021cca970a29148ef19b0f22cee4694426a6b6", null ],
-      [ "SPELL_MOVE_MARKER", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021cca6fbd68967c7271ea6c14ae38243ae4b3", null ],
-      [ "SPELL_MOVE_COOLDOWN", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021cca50500c2dd9a300d3600552c41033c925", null ],
-      [ "SPELL_CONTROL_PIECE", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021ccacb42ff6ac051bc2adccc227f98cd5acd", null ],
-      [ "SPELL_RECENTLY_INGAME", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021ccad45a23df32f5ac4029b878f7889df13c", null ],
-      [ "SPELL_FURY_OF_MEDIVH_FIRE", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021ccaf2f13cd2ee61b6733ce1ade32e2bf1ab", null ],
-      [ "SPELL_MELEE_ATTACK_TIMER", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021cca25eafc4f154a34317fe4d77d28883c80", null ],
-      [ "SPELL_MELEE_ATTACK_TIMER_TRIGGER", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021cca29d77be6ebfbe1c9287c7ce65ef918be", null ],
-      [ "SPELL_MELEE_DAMAGE", "d4/d35/a03617.html#a93de1abbe5ca9b0310834761850021ccaef9adbc6fe7ba78c484dc6fd2eb433b7", null ]
+    [ "CalendarModerationRank", "d4/d35/a03617.html#a5113854272ddc0db2f1b16775df15bb4", [
+      [ "CALENDAR_RANK_PLAYER", "d4/d35/a03617.html#a5113854272ddc0db2f1b16775df15bb4a9b29fdfc41a609791c42bfd6c0947b0b", null ],
+      [ "CALENDAR_RANK_MODERATOR", "d4/d35/a03617.html#a5113854272ddc0db2f1b16775df15bb4aaeb7962a8bc581af4775ec833986aa0f", null ],
+      [ "CALENDAR_RANK_OWNER", "d4/d35/a03617.html#a5113854272ddc0db2f1b16775df15bb4ae34f35ee3aea898e6537bf5ee896a74a", null ]
     ] ],
-    [ "KarazhanChessTeam", "d4/d35/a03617.html#aa4645cfc0b7a0584b9ecbd37750353c9", [
-      [ "DEAD_ALLIANCE", "d4/d35/a03617.html#aa4645cfc0b7a0584b9ecbd37750353c9a5017a5153042b7b36d8553b0ef124d6f", null ],
-      [ "DEAD_HORDE", "d4/d35/a03617.html#aa4645cfc0b7a0584b9ecbd37750353c9ad0837cac4ab4436c80232204ecf0ff86", null ]
+    [ "CalendarRepeatType", "d4/d35/a03617.html#a478517ab54461ea9b0618c173c75b792", [
+      [ "CALENDAR_REPEAT_NEVER", "d4/d35/a03617.html#a478517ab54461ea9b0618c173c75b792a29ee895d3464b3defda12c78534447fc", null ],
+      [ "CALENDAR_REPEAT_WEEKLY", "d4/d35/a03617.html#a478517ab54461ea9b0618c173c75b792a0d82835a30b2d52a0f7cafe196d80faf", null ],
+      [ "CALENDAR_REPEAT_BIWEEKLY", "d4/d35/a03617.html#a478517ab54461ea9b0618c173c75b792a087f583b5cc1ec6549a15960dd1954d9", null ],
+      [ "CALENDAR_REPEAT_MONTHLY", "d4/d35/a03617.html#a478517ab54461ea9b0618c173c75b792aa432def8a9d2b77823bd1d81b44bc731", null ]
     ] ],
-    [ "AddSC_boss_chess_event", "d4/d35/a03617.html#ac8fad6c2a1b96f0fad3a0b70b59b134a", null ],
-    [ "IsFriendly", "d4/d35/a03617.html#a867986eb772af8202e29d75011c577a5", null ],
-    [ "MAX_COL", "d4/d35/a03617.html#a7b89596bc6b3e9c6bafe4fb48c9ae7ec", null ],
-    [ "MAX_ROW", "d4/d35/a03617.html#a402b72f8be30cf4ebdbe49113ad0347f", null ],
-    [ "orientations", "d4/d35/a03617.html#a2165168ff8b2e0eb34f60d2a911a2f43", null ]
+    [ "CalendarSendEventType", "d4/d35/a03617.html#a710dc9e6940cf3a1c975690a82bbcc5d", [
+      [ "CALENDAR_SENDTYPE_GET", "d4/d35/a03617.html#a710dc9e6940cf3a1c975690a82bbcc5da8c75918def25fecebd41052d301ebd89", null ],
+      [ "CALENDAR_SENDTYPE_ADD", "d4/d35/a03617.html#a710dc9e6940cf3a1c975690a82bbcc5daddb4d28bc665b21ce707863e8f73d5c6", null ],
+      [ "CALENDAR_SENDTYPE_COPY", "d4/d35/a03617.html#a710dc9e6940cf3a1c975690a82bbcc5da9cac46904887119d94630a5554b9cb5c", null ]
+    ] ]
 ];

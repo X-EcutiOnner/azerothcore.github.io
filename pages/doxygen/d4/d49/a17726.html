@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: PassengerController Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d0/dc5/a17729.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d4/d49/a17726.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,146 +104,454 @@ $(document).ready(function(){initNavTree('d0/dc5/a17729.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">instance_gundrak::instance_gundrak_InstanceMapScript Member List</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="../../d0/d07/a17723.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">PassengerController Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:ab834deac8dfd9a7ddd1bcb37b1e5c354"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d49/a17726.html#ab834deac8dfd9a7ddd1bcb37b1e5c354">PassengerController</a> ()</td></tr>
+<tr class="separator:ab834deac8dfd9a7ddd1bcb37b1e5c354"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2302ac8b9fac75ba58ced41e2b5236f0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d49/a17726.html#a2302ac8b9fac75ba58ced41e2b5236f0">ResetSlots</a> (<a class="el" href="../../d6/d2a/a03062.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId, <a class="el" href="../../de/d45/a08950.html">MotionTransport</a> *t)</td></tr>
+<tr class="separator:a2302ac8b9fac75ba58ced41e2b5236f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a287e4cafc1d3739edf90c00ad91e2c64"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d49/a17726.html#a287e4cafc1d3739edf90c00ad91e2c64">SummonCreatures</a> (<a class="el" href="../../d8/d43/a08274.html">Creature</a> *summoner, <a class="el" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5d">PassengerSlots</a> first, <a class="el" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5d">PassengerSlots</a> last)</td></tr>
+<tr class="separator:a287e4cafc1d3739edf90c00ad91e2c64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae10f0917fb6fd395c3bb4428cbb617cb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d49/a17726.html#ae10f0917fb6fd395c3bb4428cbb617cb">ClearSlot</a> (<a class="el" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5d">PassengerSlots</a> slot)</td></tr>
+<tr class="separator:ae10f0917fb6fd395c3bb4428cbb617cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a4a4d575417a7c7940471f21e32d48b5c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d44/a08734.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d49/a17726.html#a4a4d575417a7c7940471f21e32d48b5c">SelectSpawnPoint</a> () const</td></tr>
+<tr class="separator:a4a4d575417a7c7940471f21e32d48b5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:af4271e53792477394a5c1022ed8fb30f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d59/a08702.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d49/a17726.html#af4271e53792477394a5c1022ed8fb30f">_controlledSlots</a> [<a class="el" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5dab01e9ba253990f7a0f0d23af95f9b207">MAX_SLOTS</a>]</td></tr>
+<tr class="separator:af4271e53792477394a5c1022ed8fb30f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98a6d819ec193d5a1e96739ac507b146"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d49/a17726.html#a98a6d819ec193d5a1e96739ac507b146">_respawnCooldowns</a> [<a class="el" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5dab01e9ba253990f7a0f0d23af95f9b207">MAX_SLOTS</a>]</td></tr>
+<tr class="separator:a98a6d819ec193d5a1e96739ac507b146"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2c664d3b5941c673c13f7e36aa2d974"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d45/a08950.html">MotionTransport</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d49/a17726.html#ac2c664d3b5941c673c13f7e36aa2d974">_transport</a></td></tr>
+<tr class="separator:ac2c664d3b5941c673c13f7e36aa2d974"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab168baee9c4d6343c7adb6978a3a56d2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d44/a08734.html">Position</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d49/a17726.html#ab168baee9c4d6343c7adb6978a3a56d2">_spawnPoint</a></td></tr>
+<tr class="separator:ab168baee9c4d6343c7adb6978a3a56d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c8fa44394c10eb2a7fec3c4f273f448"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d83/a17718.html">SlotInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d49/a17726.html#a9c8fa44394c10eb2a7fec3c4f273f448">_slotInfo</a></td></tr>
+<tr class="separator:a9c8fa44394c10eb2a7fec3c4f273f448"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ab834deac8dfd9a7ddd1bcb37b1e5c354" name="ab834deac8dfd9a7ddd1bcb37b1e5c354"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab834deac8dfd9a7ddd1bcb37b1e5c354">&#9670;&#160;</a></span>PassengerController()</h2>
 
-<p>This is the complete list of members for <a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ac83f5fa892368d00add2325b250d1813">_activatedAreaTriggers</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a4457a3506a587d7337042eb489b441dc">_activateTimer</a></td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a3ed3ada72ca634b0888f182a93c9e657">_bridgeGUIDs</a></td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a97d4eed3ca3ef4144b3f8f8a4b530356">_creatureInfo</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a8e34281d52ac3199b90e1971899db6b1">_drakkariAltarGUID</a></td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a7594d42a91613df0ba972086c7e7dfc0">_gameObjectInfo</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a9b014cab41720868f61028ef201cadaa">_keysInCount</a></td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a39875572cef853eb3d3f624366e3f93f">_moorabiAltarGUID</a></td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a5d75e0efe4ec6f6af7cbe8cf0fb6b73f">_objectGuids</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aa551f0a05c1251d331e33e83b3887bce">_objectStateMap</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a93b651e93e28c63272a8d06d0c521aef">_sladRanAltarGUID</a></td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a502497cf019843a4179ec8d5014a95ed">_summonInfo</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a45e59dae6af83178dce16521b8c30cf8">_teamIdInInstance</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aaffa115c563fa7d19a09d37f08583cb3">AddDoor</a>(GameObject *door, bool add=true)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aecbeaf1f8119fe4ea44880d65a34454a">AddMinion</a>(Creature *minion, bool add=true)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ab408a2fba848f99ff3b4b19a303cc1ea">AddObject</a>(Creature *obj, bool add=true)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a4e4690f3632cd0116d6919ef4e409cf9">AddObject</a>(GameObject *obj, bool add=true)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a2a29bf4fcd4b279aaaee1d820fe57bd4">AddObject</a>(WorldObject *obj, uint32 type, bool add=true)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ac998b9f8a371f9cc7d5fa2907e6a16f7">AllBossesDone</a>() const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a7d636b37c0232d12d1c1118bbcc5e767">AllBossesDone</a>(std::initializer_list&lt; uint32 &gt; bossIds) const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ac955978125eaf573f7712a3734cfb33b">bosses</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a2d682a63bb3099ffdc35517d004fe723">CheckAchievementCriteriaMeet</a>(uint32, Player const *, Unit const *=nullptr, uint32=0)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#abc2eab1341b60e4778e22329aabe641e">CheckRequiredBosses</a>(uint32, Player const *=nullptr) const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a374d6d04815b751c45aa52ab59f44f6b">completedEncounters</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#af5cfdb2fbf92acc21fd1eef22f92a03c">CreatureLooted</a>(Creature *, LootType)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a866e5d076bf7f5283033eb261172ceb3">DoAction</a>(int32)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ac1945fc6180a23a6de14278b02dbde76">DoCastSpellOnPlayer</a>(Player *player, uint32 spell, bool includePets, bool includeControlled)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a412517a781b8d03830e36343c757b21f">DoCastSpellOnPlayers</a>(uint32 spell)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ad9175481c1363052096d79de2d942d65">DoForAllMinions</a>(uint32 id, std::function&lt; void(Creature *)&gt; exec)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a6aee05b8d8e1ff0f9612b05c2437a9e3">doors</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a5a3faff18c32a8f4da68b00489b7e480">DoRemoveAurasDueToSpellOnPlayers</a>(uint32 spell)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a8a6dc670ee4712a033d891f4d5ac3f07">DoRespawnCreature</a>(ObjectGuid guid, bool force=false)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aa8136fc3ab6e5ddd6d3dfbdbe935f227">DoRespawnCreature</a>(uint32 type, bool force=false)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aa528d1016aee9dbbe55b7933fe631917">DoRespawnGameObject</a>(ObjectGuid guid, uint32 timeToDespawn=MINUTE)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a171f14d81fcb184893a4f28f76807611">DoRespawnGameObject</a>(uint32 type)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#afb15c27a59a2fb73c12db0574d88946d">DoSendNotifyToInstance</a>(char const *format,...)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ac01ba61e0495829df66878fca191f7eb">DoStartTimedAchievement</a>(AchievementCriteriaTimedTypes type, uint32 entry)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ae9b6369a3b84cf474f74265c8c97f1fd">DoStopTimedAchievement</a>(AchievementCriteriaTimedTypes type, uint32 entry)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a34f9bf633ad83de55a5f09e9567ca6a9">DoUpdateAchievementCriteria</a>(AchievementCriteriaTypes type, uint32 miscValue1=0, uint32 miscValue2=0, Unit *unit=nullptr)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aedd4eef2e0653d655e20fdd5343b372e">DoUpdateWorldState</a>(uint32 worldstateId, uint32 worldstateValue)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a3ddcb4558a36e54ae0b1e37204de09fa">DoUseDoorOrButton</a>(ObjectGuid guid, uint32 withRestoreTime=0, bool useAlternativeState=false)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a82f7dca46aa947abc0bc561cb044357f">FillInitialWorldStates</a>(WorldPackets::WorldState::InitWorldStates &amp;)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a677713180e18358e1e984f42805c0747">GetBossBoundary</a>(uint32 id) const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a24814ea53b08e7c7281b5abc609499ae">GetBossInfo</a>(uint32 id) const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a776dbfd3b5c48f29ea0ccf8f3cf659e2">GetBossState</a>(uint32 id) const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aaf54a225e2e3d36223fb0c34d65c1e44">GetBossStateName</a>(uint8 state)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a037fd2be83cbf2da121b258bed4fa159">GetCompletedEncounterMask</a>() const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(uint32 type)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../de/dd8/a10153.html#a8cabd274bffe18004c3fced46ae325b0">GetCreatureEntry</a>(ObjectGuid::LowType, CreatureData const *data)</td><td class="entry"><a class="el" href="../../de/dd8/a10153.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/dd8/a10153.html#a8997612fdbdacbf5e28e4de60d03e805">GetData</a>(uint32) const</td><td class="entry"><a class="el" href="../../de/dd8/a10153.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../de/dd8/a10153.html#ab7aecf55fb84288840465dd69eacc8eb">GetData64</a>(uint32) const</td><td class="entry"><a class="el" href="../../de/dd8/a10153.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ae58a83191deaf6ea6fb2e25fcf8a7b00">GetEncounterCount</a>() const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ad5b9b0f0203d87894c7df0364babfe87">GetGameObject</a>(uint32 type)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/dd8/a10153.html#a3101d469bb171957177011fc0a76999b">GetGameObjectEntry</a>(ObjectGuid::LowType, uint32 entry)</td><td class="entry"><a class="el" href="../../de/dd8/a10153.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(uint32 type) const override</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#af8f774c9dac853c663d75a41e11dc2cb">GetObjectGuid</a>(uint32 type) const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a2ec79651907fddda63f1bbdd2e23e2c3">GetPersistentData</a>(uint32 index) const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a022ce21017a893af65f30fc0726b0687">GetSaveData</a>()</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a6093184b917e8a062c36f843c1458169">GetStoredGameObjectState</a>(ObjectGuid::LowType spawnId) const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#af8c6fd92a69d0795f88102635aab33a8">GetTeamIdInInstance</a>() const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a1961c04a44bb8d0fc3e5c6dc0c39790f">HandleGameObject</a>(ObjectGuid guid, bool open, GameObject *go=nullptr)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a12d53fb1587ca588deed5b767a3ded8d">headers</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a680e2b0263e64f4f0b0a71f011199202">Initialize</a>() override</td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a4b84b9635742380ce5dc6e2f8d76e30b">instance</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#aab01abeae0f8df7c74c65c689c3c9f30">instance_gundrak_InstanceMapScript</a>(Map *map)</td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a00de939ce9deb7e1f436fc2bba473127">InstanceScript</a>(Map *map)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">explicit</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a3274aa9b13afba93420bcc7422ad7794">IsAreaTriggerDone</a>(uint32 id) const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a7aaa52e19edf18424e12a0457b5d45b6">IsBossDone</a>(uint32 bossId) const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a9753c3c71fef44fcbc33b89ff68350cd">IsEncounterInProgress</a>() const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a1eaa110469d46772fa87ca665ef40e9d">IsTwoFactionInstance</a>() const</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a37ec54dd873f77cf63b2b9a2d0ab7a01">Load</a>(char const *data)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ad62c5ef6af1af932ab78e07ffa1b856b">LoadBossBoundaries</a>(BossBoundaryData const &amp;data)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aba8f8a639bedcd7014d0502f9df05557">LoadDoorData</a>(DoorData const *data)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ac2a179943f6a5d6af95ae96eeb3ba24d">LoadInstanceSavedGameobjectStateData</a>()</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aae0168ac9dde4d86b5f5038814ef5aa2">LoadMinionData</a>(MinionData const *data)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#afe1067ff1ff6ea7e6e8c2f34d7fe2d7b">LoadObjectData</a>(ObjectData const *creatureData, ObjectData const *gameObjectData)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#af16437156dbc2c7b111f0478b3d3e048">LoadObjectData</a>(ObjectData const *creatureData, ObjectInfoMap &amp;objectInfo)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a6db4f0154ca41ad05c475da9b95114a2">LoadSummonData</a>(ObjectData const *data)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#adae4f5ee31e5354fdefbc3058b36bc67">MarkAreaTriggerDone</a>(uint32 id)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a2124c17cd242e82a50ba62f0358734ea">minions</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a07b3c70e8153dfd74edb86656bf2b254">OnCreatureCreate</a>(Creature *creature) override</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/dd8/a10153.html#a8113c8738b772b740dbc7a2352637669">OnCreatureEvade</a>(Creature *)</td><td class="entry"><a class="el" href="../../de/dd8/a10153.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a38f963b78b91f902c02a1cad21d131ae">OnCreatureRemove</a>(Creature *creature) override</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a03ace9a6ac87deb8c9d1f358e67697d1">OnGameObjectCreate</a>(GameObject *gameobject) override</td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a816e18bd1725e9deaa9e50521ddd3c05">OnGameObjectRemove</a>(GameObject *gameobject) override</td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aabf2846cb52b0f3c61e4336ae4561ec7">OnPlayerAreaUpdate</a>(Player *, uint32, uint32)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aa4895e949a3f054bdd6e0e918a9fae06">OnPlayerEnter</a>(Player *)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a2558a099bb9c8f88d58291202e872a2b">OnPlayerInWaterStateUpdate</a>(Player *, bool)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a89ea64bff7740e4e7a3995d3c54baf5e">OnPlayerLeave</a>(Player *)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a2d17fee7344a23b9bf6c47ee10f1e436">OnUnitDeath</a>(Unit *unit) override</td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aacfa51e0b75db08711520ae82e4118c1">persistentData</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/dd8/a10153.html#ab32f7102df50af48e43f544bd107f964">ProcessEvent</a>(WorldObject *, uint32)</td><td class="entry"><a class="el" href="../../de/dd8/a10153.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ad264275ff9daaf9d2a235779e1b0bb25">ReadSaveDataBossStates</a>(std::istringstream &amp;data)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aaa6a64bd5a0030d080f0d5966694f2f3">ReadSaveDataHeaders</a>(std::istringstream &amp;data)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a31f75bf8f2474a84d439c96a78e6f964">ReadSaveDataMore</a>(std::istringstream &amp;)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a41700c086b29f1ebe9cbdf72d5d053ea">ReadSavePersistentData</a>(std::istringstream &amp;data)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aef0bfc4bd8c254d754202afe4a16bf0b">RemoveDoor</a>(GameObject *door)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aa7c0fb02a9af3d19d2eb93d888998215">RemoveMinion</a>(Creature *minion)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a5d89beab2b27e46cd41fefd42172819c">RemoveObject</a>(Creature *obj)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a79166d45242da9d3e95e31006db2e713">RemoveObject</a>(GameObject *obj)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a31853e63c6bcc2096427c49008e8ffb2">RemoveObject</a>(WorldObject *obj, uint32 type)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#af699f75b68658d8e07ef4652735c9d2d">ResetAreaTriggerDone</a>(uint32 id)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a99f69b7706e28b78008952ceefe09b69">SaveToDB</a>()</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aaf098718cd0212593342678c1eb959e2">scheduler</a></td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a7758041b87fea417cb809412d7313ba4">SendEncounterUnit</a>(uint32 type, Unit *unit=nullptr, uint8 param1=0, uint8 param2=0)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a394e6ee97c222b4a0619a5591b7fb4cf">ServerAllowsTwoSideGroups</a>()</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a046e1b0124a2a0df9bc9557133365343">SetBossNumber</a>(uint32 number)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a2b703178ee848ebb7ab750d7560a7b1e">SetBossState</a>(uint32 type, EncounterState state) override</td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aaca04997ea7db3a265ca8d8ee453c89f">SetCompletedEncountersMask</a>(uint32 newMask, bool save)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a39611dead845510e26b16e8eb54114a2">SetData</a>(uint32 type, uint32) override</td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../de/dd8/a10153.html#a321c2fc00f1d3d261a4887a1e74f4244">SetData64</a>(uint32, uint64)</td><td class="entry"><a class="el" href="../../de/dd8/a10153.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/dd8/a10153.html#ac465d5e7d00a7e3b935942f1627763f4">SetGuidData</a>(uint32, ObjectGuid)</td><td class="entry"><a class="el" href="../../de/dd8/a10153.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#af245e9c6f05b94e3ca41f7f25915db95">SetHeaders</a>(std::string const &amp;dataHeaders)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a7a4c24cd9accd749ef1b402bedfdb97b">SetPersistentDataCount</a>(uint32 number)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#af7832c833c3d996cd0c0a30209e3efe1">SetSummoner</a>(Creature *creature)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a01a470669bcb4dc92361d66a8f0f2357">SetTeamIdInInstance</a>(TeamId teamId)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a33669bd91132f4f7adcf7837bd3dc79a">StoreGameObjectState</a>(ObjectGuid::LowType spawnId, uint8 state)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a90352246c6aca70f025fe4233ac32d04">StorePersistentData</a>(uint32 index, uint32 data)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/dc5/a17729.html#a50b5e4d1ff3baf4698483f47828ee492">Update</a>(uint32 diff) override</td><td class="entry"><a class="el" href="../../d0/dc5/a17729.html">instance_gundrak::instance_gundrak_InstanceMapScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#ae3aab809f17c2387e52ec1e09ed5d943">UpdateDoorState</a>(GameObject *door)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a032bf165007b453763dc21012bd31d11">UpdateMinionState</a>(Creature *minion, EncounterState state)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a871cda8d598d399a928c74abb4034c60">WritePersistentData</a>(std::ostringstream &amp;data)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#a531bc9f189af75cdc2467833dd67f3ec">WriteSaveDataBossStates</a>(std::ostringstream &amp;data)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#aad8e3e3621b18bc920d278936bf8fe5b">WriteSaveDataHeaders</a>(std::ostringstream &amp;data)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#af9831f70d615cb9f5182ebddf1210621">WriteSaveDataMore</a>(std::ostringstream &amp;)</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/dd8/a10153.html#a3519b281545e348167893060c2aa352c">ZoneScript</a>()</td><td class="entry"><a class="el" href="../../de/dd8/a10153.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d76/a09933.html#abc8fbb030107ab661dc7b3f9b28a018f">~InstanceScript</a>() override</td><td class="entry"><a class="el" href="../../d7/d76/a09933.html">InstanceScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/dd8/a10153.html#af4aa4d8f6b48d7d63fb6daa85d50c756">~ZoneScript</a>()</td><td class="entry"><a class="el" href="../../de/dd8/a10153.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-</table></div><!-- contents -->
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">PassengerController::PassengerController </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  411</span>    {</div>
+<div class="line"><span class="lineno">  412</span>        <a class="code hl_function" href="../../d4/d49/a17726.html#a2302ac8b9fac75ba58ced41e2b5236f0">ResetSlots</a>(<a class="code hl_enumvalue" href="../../d6/d2a/a03062.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>, <span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">  413</span>    }</div>
+<div class="ttc" id="aa03062_html_abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a"><div class="ttname"><a href="../../d6/d2a/a03062.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a></div><div class="ttdeci">@ TEAM_HORDE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:749</div></div>
+<div class="ttc" id="aa17726_html_a2302ac8b9fac75ba58ced41e2b5236f0"><div class="ttname"><a href="../../d4/d49/a17726.html#a2302ac8b9fac75ba58ced41e2b5236f0">PassengerController::ResetSlots</a></div><div class="ttdeci">void ResetSlots(TeamId teamId, MotionTransport *t)</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:415</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00415">ResetSlots()</a>, and <a class="el" href="../../#l00749">TEAM_HORDE</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ae10f0917fb6fd395c3bb4428cbb617cb" name="ae10f0917fb6fd395c3bb4428cbb617cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae10f0917fb6fd395c3bb4428cbb617cb">&#9670;&#160;</a></span>ClearSlot()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PassengerController::ClearSlot </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5d">PassengerSlots</a>&#160;</td>
+          <td class="paramname"><em>slot</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  469</span>    {</div>
+<div class="line"><span class="lineno">  470</span>        <a class="code hl_variable" href="../../d4/d49/a17726.html#af4271e53792477394a5c1022ed8fb30f">_controlledSlots</a>[slot].<a class="code hl_function" href="../../de/d59/a08702.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  471</span>        <a class="code hl_variable" href="../../d4/d49/a17726.html#a98a6d819ec193d5a1e96739ac507b146">_respawnCooldowns</a>[slot] = <a class="code hl_function" href="../../d9/d2c/a05092.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() + <a class="code hl_variable" href="../../d4/d49/a17726.html#a9c8fa44394c10eb2a7fec3c4f273f448">_slotInfo</a>[slot].<a class="code hl_variable" href="../../d0/d83/a17718.html#ac2f21814be8269023a2069f3eb03dfe2">Cooldown</a>;</div>
+<div class="line"><span class="lineno">  472</span>    }</div>
+<div class="ttc" id="aa05092_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../d9/d2c/a05092.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:38</div></div>
+<div class="ttc" id="aa08702_html_af6aafb4610723c7f14523fef243b1b65"><div class="ttname"><a href="../../de/d59/a08702.html#af6aafb4610723c7f14523fef243b1b65">ObjectGuid::Clear</a></div><div class="ttdeci">void Clear()</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:138</div></div>
+<div class="ttc" id="aa17718_html_ac2f21814be8269023a2069f3eb03dfe2"><div class="ttname"><a href="../../d0/d83/a17718.html#ac2f21814be8269023a2069f3eb03dfe2">SlotInfo::Cooldown</a></div><div class="ttdeci">uint32 Cooldown</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:301</div></div>
+<div class="ttc" id="aa17726_html_a98a6d819ec193d5a1e96739ac507b146"><div class="ttname"><a href="../../d4/d49/a17726.html#a98a6d819ec193d5a1e96739ac507b146">PassengerController::_respawnCooldowns</a></div><div class="ttdeci">time_t _respawnCooldowns[MAX_SLOTS]</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:488</div></div>
+<div class="ttc" id="aa17726_html_a9c8fa44394c10eb2a7fec3c4f273f448"><div class="ttname"><a href="../../d4/d49/a17726.html#a9c8fa44394c10eb2a7fec3c4f273f448">PassengerController::_slotInfo</a></div><div class="ttdeci">SlotInfo const  * _slotInfo</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:491</div></div>
+<div class="ttc" id="aa17726_html_af4271e53792477394a5c1022ed8fb30f"><div class="ttname"><a href="../../d4/d49/a17726.html#af4271e53792477394a5c1022ed8fb30f">PassengerController::_controlledSlots</a></div><div class="ttdeci">ObjectGuid _controlledSlots[MAX_SLOTS]</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:487</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00487">_controlledSlots</a>, <a class="el" href="../../#l00488">_respawnCooldowns</a>, <a class="el" href="../../#l00491">_slotInfo</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00301">SlotInfo::Cooldown</a>, and <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00888">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::SetData()</a>, and <a class="el" href="../../#l01224">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::SetData()</a>.</p>
+
+</div>
+</div>
+<a id="a2302ac8b9fac75ba58ced41e2b5236f0" name="a2302ac8b9fac75ba58ced41e2b5236f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2302ac8b9fac75ba58ced41e2b5236f0">&#9670;&#160;</a></span>ResetSlots()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PassengerController::ResetSlots </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d2a/a03062.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
+          <td class="paramname"><em>teamId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d45/a08950.html">MotionTransport</a> *&#160;</td>
+          <td class="paramname"><em>t</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  416</span>    {</div>
+<div class="line"><span class="lineno">  417</span>        <a class="code hl_variable" href="../../d4/d49/a17726.html#ac2c664d3b5941c673c13f7e36aa2d974">_transport</a> = t;</div>
+<div class="line"><span class="lineno">  418</span> </div>
+<div class="line"><span class="lineno">  419</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5dab01e9ba253990f7a0f0d23af95f9b207">MAX_SLOTS</a>; ++i)</div>
+<div class="line"><span class="lineno">  420</span>        {</div>
+<div class="line"><span class="lineno">  421</span>            <a class="code hl_variable" href="../../d4/d49/a17726.html#af4271e53792477394a5c1022ed8fb30f">_controlledSlots</a>[i].<a class="code hl_function" href="../../de/d59/a08702.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  422</span>            <a class="code hl_variable" href="../../d4/d49/a17726.html#a98a6d819ec193d5a1e96739ac507b146">_respawnCooldowns</a>[i] = time_t(0);</div>
+<div class="line"><span class="lineno">  423</span>        }</div>
+<div class="line"><span class="lineno">  424</span> </div>
+<div class="line"><span class="lineno">  425</span>        <a class="code hl_variable" href="../../d4/d49/a17726.html#ab168baee9c4d6343c7adb6978a3a56d2">_spawnPoint</a> = teamId == <a class="code hl_enumvalue" href="../../d6/d2a/a03062.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a> ? &amp;<a class="code hl_variable" href="../../d8/da6/a02696.html#aa9e2035889d7f58083a50c37b8bafa94">OrgrimsHammerAddsSpawnPos</a> : &amp;<a class="code hl_variable" href="../../d8/da6/a02696.html#aa929fc158eababcbb9f59d4d91771d88">SkybreakerAddsSpawnPos</a>;</div>
+<div class="line"><span class="lineno">  426</span>        <a class="code hl_variable" href="../../d4/d49/a17726.html#a9c8fa44394c10eb2a7fec3c4f273f448">_slotInfo</a> = teamId == <a class="code hl_enumvalue" href="../../d6/d2a/a03062.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a> ? <a class="code hl_variable" href="../../d8/da6/a02696.html#a8626977492df6cceb21df7329ea45cca">OrgrimsHammerSlotInfo</a> : <a class="code hl_variable" href="../../d8/da6/a02696.html#a643943fd1d4ba977492feddfa3fed018">SkybreakerSlotInfo</a>;</div>
+<div class="line"><span class="lineno">  427</span>    }</div>
+<div class="ttc" id="aa00494_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa02696_html_a643943fd1d4ba977492feddfa3fed018"><div class="ttname"><a href="../../d8/da6/a02696.html#a643943fd1d4ba977492feddfa3fed018">SkybreakerSlotInfo</a></div><div class="ttdeci">SlotInfo const SkybreakerSlotInfo[MAX_SLOTS]</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:304</div></div>
+<div class="ttc" id="aa02696_html_a8626977492df6cceb21df7329ea45cca"><div class="ttname"><a href="../../d8/da6/a02696.html#a8626977492df6cceb21df7329ea45cca">OrgrimsHammerSlotInfo</a></div><div class="ttdeci">SlotInfo const OrgrimsHammerSlotInfo[MAX_SLOTS]</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:338</div></div>
+<div class="ttc" id="aa02696_html_aa929fc158eababcbb9f59d4d91771d88"><div class="ttname"><a href="../../d8/da6/a02696.html#aa929fc158eababcbb9f59d4d91771d88">SkybreakerAddsSpawnPos</a></div><div class="ttdeci">Position const SkybreakerAddsSpawnPos</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:207</div></div>
+<div class="ttc" id="aa02696_html_aa9e2035889d7f58083a50c37b8bafa94"><div class="ttname"><a href="../../d8/da6/a02696.html#aa9e2035889d7f58083a50c37b8bafa94">OrgrimsHammerAddsSpawnPos</a></div><div class="ttdeci">Position const OrgrimsHammerAddsSpawnPos</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:208</div></div>
+<div class="ttc" id="aa02696_html_af63f90d211bdeb7a5f0187a8fd697e5dab01e9ba253990f7a0f0d23af95f9b207"><div class="ttname"><a href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5dab01e9ba253990f7a0f0d23af95f9b207">MAX_SLOTS</a></div><div class="ttdeci">@ MAX_SLOTS</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:294</div></div>
+<div class="ttc" id="aa17726_html_ab168baee9c4d6343c7adb6978a3a56d2"><div class="ttname"><a href="../../d4/d49/a17726.html#ab168baee9c4d6343c7adb6978a3a56d2">PassengerController::_spawnPoint</a></div><div class="ttdeci">Position const  * _spawnPoint</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:490</div></div>
+<div class="ttc" id="aa17726_html_ac2c664d3b5941c673c13f7e36aa2d974"><div class="ttname"><a href="../../d4/d49/a17726.html#ac2c664d3b5941c673c13f7e36aa2d974">PassengerController::_transport</a></div><div class="ttdeci">MotionTransport * _transport</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:489</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00487">_controlledSlots</a>, <a class="el" href="../../#l00488">_respawnCooldowns</a>, <a class="el" href="../../#l00491">_slotInfo</a>, <a class="el" href="../../#l00490">_spawnPoint</a>, <a class="el" href="../../#l00489">_transport</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00294">MAX_SLOTS</a>, <a class="el" href="../../#l00208">OrgrimsHammerAddsSpawnPos</a>, <a class="el" href="../../#l00338">OrgrimsHammerSlotInfo</a>, <a class="el" href="../../#l00207">SkybreakerAddsSpawnPos</a>, <a class="el" href="../../#l00304">SkybreakerSlotInfo</a>, and <a class="el" href="../../#l00749">TEAM_HORDE</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00778">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::npc_high_overlord_saurfang_igbAI()</a>, <a class="el" href="../../#l01113">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::npc_muradin_bronzebeard_igbAI()</a>, and <a class="el" href="../../#l00410">PassengerController()</a>.</p>
+
+</div>
+</div>
+<a id="a4a4d575417a7c7940471f21e32d48b5c" name="a4a4d575417a7c7940471f21e32d48b5c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a4d575417a7c7940471f21e32d48b5c">&#9670;&#160;</a></span>SelectSpawnPoint()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d44/a08734.html">Position</a> PassengerController::SelectSpawnPoint </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  476</span>    {</div>
+<div class="line"><span class="lineno">  477</span>        <span class="keywordtype">float</span> angle = <a class="code hl_function" href="../../d9/dd1/a00398.html#a19bd31014583536af788a65b398e4406">frand</a>(-M_PI * 0.5f, M_PI * 0.5f);</div>
+<div class="line"><span class="lineno">  478</span>        <a class="code hl_struct" href="../../d9/d44/a08734.html">Position</a> newPos;</div>
+<div class="line"><span class="lineno">  479</span>        newPos.<a class="code hl_variable" href="../../d9/d44/a08734.html#a4d45ff71d05bb3ff3d570905460f61cd">m_positionX</a> = <a class="code hl_variable" href="../../d4/d49/a17726.html#ab168baee9c4d6343c7adb6978a3a56d2">_spawnPoint</a>-&gt;<a class="code hl_function" href="../../d9/d44/a08734.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() + 2.0f * std::cos(angle);</div>
+<div class="line"><span class="lineno">  480</span>        newPos.<a class="code hl_variable" href="../../d9/d44/a08734.html#a4f8bb54eef056fd5a230c314d24c2ca6">m_positionY</a> = <a class="code hl_variable" href="../../d4/d49/a17726.html#ab168baee9c4d6343c7adb6978a3a56d2">_spawnPoint</a>-&gt;<a class="code hl_function" href="../../d9/d44/a08734.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() + 2.0f * std::sin(angle);</div>
+<div class="line"><span class="lineno">  481</span>        newPos.<a class="code hl_variable" href="../../d9/d44/a08734.html#a0d2305604dd27c15fd2d969f18c15b3e">m_positionZ</a> = <a class="code hl_variable" href="../../d4/d49/a17726.html#ab168baee9c4d6343c7adb6978a3a56d2">_spawnPoint</a>-&gt;<a class="code hl_function" href="../../d9/d44/a08734.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>();</div>
+<div class="line"><span class="lineno">  482</span>        newPos.<a class="code hl_function" href="../../d9/d44/a08734.html#aa547307fa2e6acedbcebda20a98a0fcf">SetOrientation</a>(<a class="code hl_variable" href="../../d4/d49/a17726.html#ab168baee9c4d6343c7adb6978a3a56d2">_spawnPoint</a>-&gt;<a class="code hl_function" href="../../d9/d44/a08734.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>());</div>
+<div class="line"><span class="lineno">  483</span>        <a class="code hl_variable" href="../../d4/d49/a17726.html#ac2c664d3b5941c673c13f7e36aa2d974">_transport</a>-&gt;<a class="code hl_function" href="../../dd/d9c/a08946.html#ae4e716194ce5e9c466a8fe5c53ee0980">CalculatePassengerPosition</a>(newPos.<a class="code hl_variable" href="../../d9/d44/a08734.html#a4d45ff71d05bb3ff3d570905460f61cd">m_positionX</a>, newPos.<a class="code hl_variable" href="../../d9/d44/a08734.html#a4f8bb54eef056fd5a230c314d24c2ca6">m_positionY</a>, newPos.<a class="code hl_variable" href="../../d9/d44/a08734.html#a0d2305604dd27c15fd2d969f18c15b3e">m_positionZ</a>, &amp;(newPos.<a class="code hl_variable" href="../../d9/d44/a08734.html#ad3d198b8a361d95dc13daae4d2a34638">m_orientation</a>));</div>
+<div class="line"><span class="lineno">  484</span>        <span class="keywordflow">return</span> newPos;</div>
+<div class="line"><span class="lineno">  485</span>    }</div>
+<div class="ttc" id="aa00398_html_a19bd31014583536af788a65b398e4406"><div class="ttname"><a href="../../d9/dd1/a00398.html#a19bd31014583536af788a65b398e4406">frand</a></div><div class="ttdeci">float frand(float min, float max)</div><div class="ttdef"><b>Definition:</b> Random.cpp:57</div></div>
+<div class="ttc" id="aa08734_html"><div class="ttname"><a href="../../d9/d44/a08734.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
+<div class="ttc" id="aa08734_html_a0d2305604dd27c15fd2d969f18c15b3e"><div class="ttname"><a href="../../d9/d44/a08734.html#a0d2305604dd27c15fd2d969f18c15b3e">Position::m_positionZ</a></div><div class="ttdeci">float m_positionZ</div><div class="ttdef"><b>Definition:</b> Position.h:57</div></div>
+<div class="ttc" id="aa08734_html_a4d45ff71d05bb3ff3d570905460f61cd"><div class="ttname"><a href="../../d9/d44/a08734.html#a4d45ff71d05bb3ff3d570905460f61cd">Position::m_positionX</a></div><div class="ttdeci">float m_positionX</div><div class="ttdef"><b>Definition:</b> Position.h:55</div></div>
+<div class="ttc" id="aa08734_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../d9/d44/a08734.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition:</b> Position.h:123</div></div>
+<div class="ttc" id="aa08734_html_a4f8bb54eef056fd5a230c314d24c2ca6"><div class="ttname"><a href="../../d9/d44/a08734.html#a4f8bb54eef056fd5a230c314d24c2ca6">Position::m_positionY</a></div><div class="ttdeci">float m_positionY</div><div class="ttdef"><b>Definition:</b> Position.h:56</div></div>
+<div class="ttc" id="aa08734_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../d9/d44/a08734.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition:</b> Position.h:124</div></div>
+<div class="ttc" id="aa08734_html_aa547307fa2e6acedbcebda20a98a0fcf"><div class="ttname"><a href="../../d9/d44/a08734.html#aa547307fa2e6acedbcebda20a98a0fcf">Position::SetOrientation</a></div><div class="ttdeci">void SetOrientation(float orientation)</div><div class="ttdef"><b>Definition:</b> Position.h:116</div></div>
+<div class="ttc" id="aa08734_html_ad3d198b8a361d95dc13daae4d2a34638"><div class="ttname"><a href="../../d9/d44/a08734.html#ad3d198b8a361d95dc13daae4d2a34638">Position::m_orientation</a></div><div class="ttdeci">float m_orientation</div><div class="ttdef"><b>Definition:</b> Position.h:58</div></div>
+<div class="ttc" id="aa08734_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../d9/d44/a08734.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:121</div></div>
+<div class="ttc" id="aa08734_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d9/d44/a08734.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
+<div class="ttc" id="aa08946_html_ae4e716194ce5e9c466a8fe5c53ee0980"><div class="ttname"><a href="../../dd/d9c/a08946.html#ae4e716194ce5e9c466a8fe5c53ee0980">Transport::CalculatePassengerPosition</a></div><div class="ttdeci">void CalculatePassengerPosition(float &amp;x, float &amp;y, float &amp;z, float *o=nullptr) const override</div><div class="ttdoc">This method transforms supplied transport offsets into global coordinates.</div><div class="ttdef"><b>Definition:</b> Transport.h:33</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00490">_spawnPoint</a>, <a class="el" href="../../#l00489">_transport</a>, <a class="el" href="../../#l00033">Transport::CalculatePassengerPosition()</a>, <a class="el" href="../../#l00057">frand()</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00058">Position::m_orientation</a>, <a class="el" href="../../#l00055">Position::m_positionX</a>, <a class="el" href="../../#l00056">Position::m_positionY</a>, <a class="el" href="../../#l00057">Position::m_positionZ</a>, and <a class="el" href="../../#l00116">Position::SetOrientation()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00429">SummonCreatures()</a>.</p>
+
+</div>
+</div>
+<a id="a287e4cafc1d3739edf90c00ad91e2c64" name="a287e4cafc1d3739edf90c00ad91e2c64"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a287e4cafc1d3739edf90c00ad91e2c64">&#9670;&#160;</a></span>SummonCreatures()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PassengerController::SummonCreatures </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d43/a08274.html">Creature</a> *&#160;</td>
+          <td class="paramname"><em>summoner</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5d">PassengerSlots</a>&#160;</td>
+          <td class="paramname"><em>first</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5d">PassengerSlots</a>&#160;</td>
+          <td class="paramname"><em>last</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  430</span>    {</div>
+<div class="line"><span class="lineno">  431</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/d49/a17726.html#ac2c664d3b5941c673c13f7e36aa2d974">_transport</a>)</div>
+<div class="line"><span class="lineno">  432</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  433</span> </div>
+<div class="line"><span class="lineno">  434</span>        <span class="keywordtype">bool</span> summoned = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  435</span>        time_t now = <a class="code hl_function" href="../../d9/d2c/a05092.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count();</div>
+<div class="line"><span class="lineno">  436</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d5/d0f/a00494.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> i = first; i &lt;= last; ++i)</div>
+<div class="line"><span class="lineno">  437</span>        {</div>
+<div class="line"><span class="lineno">  438</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d49/a17726.html#a98a6d819ec193d5a1e96739ac507b146">_respawnCooldowns</a>[i] &gt; now)</div>
+<div class="line"><span class="lineno">  439</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  440</span> </div>
+<div class="line"><span class="lineno">  441</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d49/a17726.html#af4271e53792477394a5c1022ed8fb30f">_controlledSlots</a>[i])</div>
+<div class="line"><span class="lineno">  442</span>            {</div>
+<div class="line"><span class="lineno">  443</span>                <a class="code hl_class" href="../../d8/d43/a08274.html">Creature</a>* current = <a class="code hl_function" href="../../d2/d8c/a05064.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d4/d49/a17726.html#ac2c664d3b5941c673c13f7e36aa2d974">_transport</a>, <a class="code hl_variable" href="../../d4/d49/a17726.html#af4271e53792477394a5c1022ed8fb30f">_controlledSlots</a>[i]);</div>
+<div class="line"><span class="lineno">  444</span>                <span class="keywordflow">if</span> (current &amp;&amp; current-&gt;<a class="code hl_function" href="../../df/d49/a09034.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno">  445</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  446</span>            }</div>
+<div class="line"><span class="lineno">  447</span> </div>
+<div class="line"><span class="lineno">  448</span>            <a class="code hl_struct" href="../../d9/d44/a08734.html">Position</a> spawnPos = <a class="code hl_function" href="../../d4/d49/a17726.html#a4a4d575417a7c7940471f21e32d48b5c">SelectSpawnPoint</a>();</div>
+<div class="line"><span class="lineno">  449</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/d43/a08274.html">Creature</a>* passenger = summoner-&gt;<a class="code hl_function" href="../../d1/d2b/a08686.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_variable" href="../../d4/d49/a17726.html#a9c8fa44394c10eb2a7fec3c4f273f448">_slotInfo</a>[i].<a class="code hl_variable" href="../../d0/d83/a17718.html#a28ff8bdab669f7b4aec95857cc460a2f">Entry</a>, spawnPos, <a class="code hl_enumvalue" href="../../de/d5f/a04763.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>, 15000))</div>
+<div class="line"><span class="lineno">  450</span>            {</div>
+<div class="line"><span class="lineno">  451</span>                <span class="keywordflow">if</span> (!passenger-&gt;GetTransport())</div>
+<div class="line"><span class="lineno">  452</span>                    <a class="code hl_variable" href="../../d4/d49/a17726.html#ac2c664d3b5941c673c13f7e36aa2d974">_transport</a>-&gt;<a class="code hl_function" href="../../de/d45/a08950.html#a6f7fac08a333c9dc11f49ad62aad4850">AddPassenger</a>(passenger, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  453</span>                passenger-&gt;ApplySpellImmune(0, <a class="code hl_enumvalue" href="../../d6/d2a/a03062.html#a91d505a1e789c6ea6a338f3a3c85b6b9a981326220afec59126417e02e0b882de">IMMUNITY_ID</a>, 49576, <span class="keyword">true</span>); <span class="comment">// death grip</span></div>
+<div class="line"><span class="lineno">  454</span> </div>
+<div class="line"><span class="lineno">  455</span>                <span class="keywordflow">if</span> (i &gt;= <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5da71fa32d971a209e8aab0390d87f52f62">SLOT_MAGE_1</a> &amp;&amp; i &lt;= <a class="code hl_enumvalue" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5da08d07551fa5d9fc66e579ac0de62ad7f">SLOT_MORTAR_4</a>) <span class="comment">// only these npcs are pooled</span></div>
+<div class="line"><span class="lineno">  456</span>                {</div>
+<div class="line"><span class="lineno">  457</span>                    <a class="code hl_variable" href="../../d4/d49/a17726.html#af4271e53792477394a5c1022ed8fb30f">_controlledSlots</a>[i] = passenger-&gt;GetGUID();</div>
+<div class="line"><span class="lineno">  458</span>                    <a class="code hl_variable" href="../../d4/d49/a17726.html#a98a6d819ec193d5a1e96739ac507b146">_respawnCooldowns</a>[i] = time_t(0);</div>
+<div class="line"><span class="lineno">  459</span>                }</div>
+<div class="line"><span class="lineno">  460</span>                passenger-&gt;AI()-&gt;SetData(<a class="code hl_enumvalue" href="../../d8/da6/a02696.html#a3d3d0368b97072191973f8c108f6bb21a356f54f46201c64d499d3ac22d6b79f4">ACTION_SET_SLOT</a>, i);</div>
+<div class="line"><span class="lineno">  461</span>                summoned = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  462</span>            }</div>
+<div class="line"><span class="lineno">  463</span>        }</div>
+<div class="line"><span class="lineno">  464</span> </div>
+<div class="line"><span class="lineno">  465</span>        <span class="keywordflow">return</span> summoned;</div>
+<div class="line"><span class="lineno">  466</span>    }</div>
+<div class="ttc" id="aa00494_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d5/d0f/a00494.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
+<div class="ttc" id="aa02696_html_a3d3d0368b97072191973f8c108f6bb21a356f54f46201c64d499d3ac22d6b79f4"><div class="ttname"><a href="../../d8/da6/a02696.html#a3d3d0368b97072191973f8c108f6bb21a356f54f46201c64d499d3ac22d6b79f4">ACTION_SET_SLOT</a></div><div class="ttdeci">@ ACTION_SET_SLOT</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:200</div></div>
+<div class="ttc" id="aa02696_html_af63f90d211bdeb7a5f0187a8fd697e5da08d07551fa5d9fc66e579ac0de62ad7f"><div class="ttname"><a href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5da08d07551fa5d9fc66e579ac0de62ad7f">SLOT_MORTAR_4</a></div><div class="ttdeci">@ SLOT_MORTAR_4</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:278</div></div>
+<div class="ttc" id="aa02696_html_af63f90d211bdeb7a5f0187a8fd697e5da71fa32d971a209e8aab0390d87f52f62"><div class="ttname"><a href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5da71fa32d971a209e8aab0390d87f52f62">SLOT_MAGE_1</a></div><div class="ttdeci">@ SLOT_MAGE_1</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:257</div></div>
+<div class="ttc" id="aa03062_html_a91d505a1e789c6ea6a338f3a3c85b6b9a981326220afec59126417e02e0b882de"><div class="ttname"><a href="../../d6/d2a/a03062.html#a91d505a1e789c6ea6a338f3a3c85b6b9a981326220afec59126417e02e0b882de">IMMUNITY_ID</a></div><div class="ttdeci">@ IMMUNITY_ID</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1406</div></div>
+<div class="ttc" id="aa04763_html_a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a"><div class="ttname"><a href="../../de/d5f/a04763.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_CORPSE_TIMED_DESPAWN</div><div class="ttdef"><b>Definition:</b> Object.h:54</div></div>
+<div class="ttc" id="aa05064_html_a8d1cda6b98832b29fcb437c654fd8ae9"><div class="ttname"><a href="../../d2/d8c/a05064.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:210</div></div>
+<div class="ttc" id="aa08274_html"><div class="ttname"><a href="../../d8/d43/a08274.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
+<div class="ttc" id="aa08686_html_a1077c11c335f60013fdf7e7684bba519"><div class="ttname"><a href="../../d1/d2b/a08686.html#a1077c11c335f60013fdf7e7684bba519">WorldObject::SummonCreature</a></div><div class="ttdeci">TempSummon * SummonCreature(uint32 id, const Position &amp;pos, TempSummonType spwtype=TEMPSUMMON_MANUAL_DESPAWN, uint32 despwtime=0, uint32 vehId=0, SummonPropertiesEntry const *properties=nullptr, bool visibleBySummonerOnly=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2394</div></div>
+<div class="ttc" id="aa08950_html_a6f7fac08a333c9dc11f49ad62aad4850"><div class="ttname"><a href="../../de/d45/a08950.html#a6f7fac08a333c9dc11f49ad62aad4850">MotionTransport::AddPassenger</a></div><div class="ttdeci">void AddPassenger(WorldObject *passenger, bool withAll=false) override</div><div class="ttdef"><b>Definition:</b> Transport.cpp:264</div></div>
+<div class="ttc" id="aa09034_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../df/d49/a09034.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1793</div></div>
+<div class="ttc" id="aa17718_html_a28ff8bdab669f7b4aec95857cc460a2f"><div class="ttname"><a href="../../d0/d83/a17718.html#a28ff8bdab669f7b4aec95857cc460a2f">SlotInfo::Entry</a></div><div class="ttdeci">uint32 Entry</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:299</div></div>
+<div class="ttc" id="aa17726_html_a4a4d575417a7c7940471f21e32d48b5c"><div class="ttname"><a href="../../d4/d49/a17726.html#a4a4d575417a7c7940471f21e32d48b5c">PassengerController::SelectSpawnPoint</a></div><div class="ttdeci">Position SelectSpawnPoint() const</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:475</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00487">_controlledSlots</a>, <a class="el" href="../../#l00488">_respawnCooldowns</a>, <a class="el" href="../../#l00491">_slotInfo</a>, <a class="el" href="../../#l00489">_transport</a>, <a class="el" href="../../#l00200">ACTION_SET_SLOT</a>, <a class="el" href="../../#l00264">MotionTransport::AddPassenger()</a>, <a class="el" href="../../#l00299">SlotInfo::Entry</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l01406">IMMUNITY_ID</a>, <a class="el" href="../../#l01793">Unit::IsAlive()</a>, <a class="el" href="../../#l00475">SelectSpawnPoint()</a>, <a class="el" href="../../#l00257">SLOT_MAGE_1</a>, <a class="el" href="../../#l00278">SLOT_MORTAR_4</a>, <a class="el" href="../../#l02394">WorldObject::SummonCreature()</a>, and <a class="el" href="../../#l00054">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00824">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::DoAction()</a>, <a class="el" href="../../#l01160">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::DoAction()</a>, <a class="el" href="../../#l00907">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::UpdateAI()</a>, and <a class="el" href="../../#l01243">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::UpdateAI()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="af4271e53792477394a5c1022ed8fb30f" name="af4271e53792477394a5c1022ed8fb30f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af4271e53792477394a5c1022ed8fb30f">&#9670;&#160;</a></span>_controlledSlots</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d59/a08702.html">ObjectGuid</a> PassengerController::_controlledSlots[<a class="el" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5dab01e9ba253990f7a0f0d23af95f9b207">MAX_SLOTS</a>]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00468">ClearSlot()</a>, <a class="el" href="../../#l00415">ResetSlots()</a>, and <a class="el" href="../../#l00429">SummonCreatures()</a>.</p>
+
+</div>
+</div>
+<a id="a98a6d819ec193d5a1e96739ac507b146" name="a98a6d819ec193d5a1e96739ac507b146"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a98a6d819ec193d5a1e96739ac507b146">&#9670;&#160;</a></span>_respawnCooldowns</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">time_t PassengerController::_respawnCooldowns[<a class="el" href="../../d8/da6/a02696.html#af63f90d211bdeb7a5f0187a8fd697e5dab01e9ba253990f7a0f0d23af95f9b207">MAX_SLOTS</a>]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00468">ClearSlot()</a>, <a class="el" href="../../#l00415">ResetSlots()</a>, and <a class="el" href="../../#l00429">SummonCreatures()</a>.</p>
+
+</div>
+</div>
+<a id="a9c8fa44394c10eb2a7fec3c4f273f448" name="a9c8fa44394c10eb2a7fec3c4f273f448"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c8fa44394c10eb2a7fec3c4f273f448">&#9670;&#160;</a></span>_slotInfo</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d83/a17718.html">SlotInfo</a> const* PassengerController::_slotInfo</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00468">ClearSlot()</a>, <a class="el" href="../../#l00415">ResetSlots()</a>, and <a class="el" href="../../#l00429">SummonCreatures()</a>.</p>
+
+</div>
+</div>
+<a id="ab168baee9c4d6343c7adb6978a3a56d2" name="ab168baee9c4d6343c7adb6978a3a56d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab168baee9c4d6343c7adb6978a3a56d2">&#9670;&#160;</a></span>_spawnPoint</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d44/a08734.html">Position</a> const* PassengerController::_spawnPoint</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00415">ResetSlots()</a>, and <a class="el" href="../../#l00475">SelectSpawnPoint()</a>.</p>
+
+</div>
+</div>
+<a id="ac2c664d3b5941c673c13f7e36aa2d974" name="ac2c664d3b5941c673c13f7e36aa2d974"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac2c664d3b5941c673c13f7e36aa2d974">&#9670;&#160;</a></span>_transport</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d45/a08950.html">MotionTransport</a>* PassengerController::_transport</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00415">ResetSlots()</a>, <a class="el" href="../../#l00475">SelectSpawnPoint()</a>, and <a class="el" href="../../#l00429">SummonCreatures()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Mar 16 2026 21:09:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d49/a17726.html">PassengerController</a></li>
+    <li class="footer">Generated on Mon Mar 30 2026 21:12:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

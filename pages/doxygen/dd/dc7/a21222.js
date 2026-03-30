@@ -1,6 +1,6 @@
 var a21222 =
 [
-    [ "CalculateAmount", "dd/dc7/a21222.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "dd/dc7/a21222.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "dd/dc7/a21222.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "npc_azure_saboteurAI", "df/d91/a21226.html", "df/d91/a21226" ],
+    [ "npc_azure_saboteur", "dd/dc7/a21222.html#ae60362727a7a246b7c6c923ed96c7be7", null ],
+    [ "GetAI", "dd/dc7/a21222.html#a69b552fb6f725d00ac4b0303d36a7138", null ]
 ];

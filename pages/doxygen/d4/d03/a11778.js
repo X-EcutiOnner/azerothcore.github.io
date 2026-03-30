@@ -1,6 +1,7 @@
 var a11778 =
 [
-    [ "DestinationTargetSelectHandler", "d4/d03/a11778.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
-    [ "Call", "d4/d03/a11778.html#a81ae2eb856507ee22308ae2739854382", null ],
-    [ "DestinationTargetSelectHandlerScript", "d4/d03/a11778.html#a95e882b892a79b464a521a8367b2e9b7", null ]
+    [ "EffectNameCheck", "d4/d03/a11778.html#aa82307388bdda7864bb085a349b63f29", null ],
+    [ "Check", "d4/d03/a11778.html#a729d7f07669dedec50f009a87b8f32a4", null ],
+    [ "ToString", "d4/d03/a11778.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
+    [ "effName", "d4/d03/a11778.html#a905224fb028ea0eab350773b7230f871", null ]
 ];

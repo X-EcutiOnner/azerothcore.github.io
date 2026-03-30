@@ -1,7 +1,7 @@
 var a19146 =
 [
-    [ "npc_captain_arnathAI", "df/db6/a19146.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "df/db6/a19146.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "df/db6/a19146.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "df/db6/a19146.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "HandleTriggerSpell", "df/db6/a19146.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "df/db6/a19146.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "df/db6/a19146.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "df/db6/a19146.html#a813bad39641956fff697580f271416d2", null ]
 ];

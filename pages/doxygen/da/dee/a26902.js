@@ -1,6 +1,6 @@
 var a26902 =
 [
-    [ "CheckCast", "da/dee/a26902.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
-    [ "PrepareSpellScript", "da/dee/a26902.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
-    [ "Register", "da/dee/a26902.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
+    [ "PrepareSpellScript", "da/dee/a26902.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
+    [ "Register", "da/dee/a26902.html#ab58938808e460e843e42f2b6fa644e8a", null ],
+    [ "SetDest", "da/dee/a26902.html#ab87932c73a2e53647bda584aeb58f789", null ]
 ];

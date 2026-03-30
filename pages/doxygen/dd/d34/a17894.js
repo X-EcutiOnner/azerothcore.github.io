@@ -1,9 +1,6 @@
 var a17894 =
 [
-    [ "FilterTargets", "dd/d34/a17894.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "dd/d34/a17894.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "dd/d34/a17894.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "dd/d34/a17894.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "dd/d34/a17894.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "dd/d34/a17894.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "IgbArtilleryCheck", "dd/d34/a17894.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "dd/d34/a17894.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "dd/d34/a17894.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

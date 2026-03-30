@@ -1,7 +1,15 @@
 var a01856 =
 [
-    [ "UpdateTime", "d9/d6c/a11943.html", "d9/d6c/a11943" ],
-    [ "WorldUpdateTime", "d4/ddd/a11947.html", "d4/ddd/a11947" ],
-    [ "AVG_DIFF_COUNT", "da/d66/a01856.html#ac09527fd6979f77130f2ef6be46850eb", null ],
-    [ "sWorldUpdateTime", "da/d66/a01856.html#a911ff49ac052e337a0927c080aec20b2", null ]
+    [ "boss_hydromancer_thespia", "db/d4a/a23066.html", "db/d4a/a23066" ],
+    [ "HydromancerThespia", "da/d66/a01856.html#a3f4b673ff8add0ad1c96080f6252130d", [
+      [ "SAY_SUMMON", "da/d66/a01856.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf", null ],
+      [ "SAY_AGGRO", "da/d66/a01856.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_SLAY", "da/d66/a01856.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75", null ],
+      [ "SAY_DEAD", "da/d66/a01856.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671", null ],
+      [ "SAY_SPELL", "da/d66/a01856.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2", null ],
+      [ "SPELL_LIGHTNING_CLOUD", "da/d66/a01856.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2", null ],
+      [ "SPELL_LUNG_BURST", "da/d66/a01856.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6", null ],
+      [ "SPELL_ENVELOPING_WINDS", "da/d66/a01856.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92", null ]
+    ] ],
+    [ "AddSC_boss_hydromancer_thespia", "da/d66/a01856.html#a0a9bb9014bd5526d13141dcef207c234", null ]
 ];

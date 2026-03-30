@@ -1,7 +1,8 @@
 var a15922 =
 [
-    [ "npc_tharnarianAI", "d5/d2a/a15926.html", "d5/d2a/a15926" ],
-    [ "npc_tharnarian", "d3/d87/a15922.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
-    [ "GetAI", "d3/d87/a15922.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
-    [ "OnQuestReward", "d3/d87/a15922.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
+    [ "npc_giltharesAI", "d3/d87/a15922.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d3/d87/a15922.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d3/d87/a15922.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d3/d87/a15922.html#a9308c73760e50e0f3d04031b508526d1", null ],
+    [ "WaypointReached", "d3/d87/a15922.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

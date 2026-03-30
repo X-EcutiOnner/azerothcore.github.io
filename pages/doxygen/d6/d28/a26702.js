@@ -1,7 +1,6 @@
 var a26702 =
 [
-    [ "OnProc", "d6/d28/a26702.html#a304fd48cc79d3e7371212632d276b2ff", null ],
-    [ "PrepareAuraScript", "d6/d28/a26702.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
-    [ "Register", "d6/d28/a26702.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
-    [ "Validate", "d6/d28/a26702.html#adc217147d7c150d66dad4d3e922cff96", null ]
+    [ "HandleScriptEffect", "d6/d28/a26702.html#a8b60ae77f13045a582548fe5d1186d54", null ],
+    [ "PrepareSpellScript", "d6/d28/a26702.html#ad68619783c4a1aad5a24826bf5d89858", null ],
+    [ "Register", "d6/d28/a26702.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
 ];

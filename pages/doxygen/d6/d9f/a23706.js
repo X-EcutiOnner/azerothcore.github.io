@@ -1,9 +1,7 @@
 var a23706 =
 [
-    [ "boss_dalliah_the_doomsayer", "d6/d9f/a23706.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "d6/d9f/a23706.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "d6/d9f/a23706.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "d6/d9f/a23706.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "d6/d9f/a23706.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "d6/d9f/a23706.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "HandleEffect", "d6/d9f/a23706.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d6/d9f/a23706.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d6/d9f/a23706.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d6/d9f/a23706.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

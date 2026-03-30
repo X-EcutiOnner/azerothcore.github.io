@@ -1,8 +1,9 @@
 var a05914 =
 [
-    [ "BaseSocketMgr", "de/dec/a05914.html#a55ca5c800a783d89fbe05bd945374b84", null ],
-    [ "CreateThreads", "de/dec/a05914.html#a98a0866ae616017010f639f0ad9fc72d", null ],
-    [ "Instance", "de/dec/a05914.html#a9c56ed247f209709221a3e592f4d010f", null ],
-    [ "OnSocketAccept", "de/dec/a05914.html#a02b81323eba1428f9b5eebf7f5edc393", null ],
-    [ "StartNetwork", "de/dec/a05914.html#a345e4f8cc1c216ed7eb9c3e96748170f", null ]
+    [ "AccountFlags", "de/dec/a05914.html#aa8e111f748d165f854b2deff5a81577f", null ],
+    [ "cmd", "de/dec/a05914.html#a5846630b9df94b9f4784e59e7f320257", null ],
+    [ "error", "de/dec/a05914.html#a5cbbda99be5cd0549dd43fc0e546007e", null ],
+    [ "LoginFlags", "de/dec/a05914.html#adb807963195c0abbb840aca64499f630", null ],
+    [ "M2", "de/dec/a05914.html#a2199b33bc93fb6a8add5ba36eab0514e", null ],
+    [ "SurveyId", "de/dec/a05914.html#ad05c428ccd8fbdce40dc4f337de19fb8", null ]
 ];

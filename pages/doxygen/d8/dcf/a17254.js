@@ -1,7 +1,6 @@
 var a17254 =
 [
-    [ "HandleEffectRemove", "d8/dcf/a17254.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "d8/dcf/a17254.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "d8/dcf/a17254.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "d8/dcf/a17254.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "npc_pos_after_first_bossAI", "d0/d37/a17258.html", "d0/d37/a17258" ],
+    [ "npc_pos_after_first_boss", "d8/dcf/a17254.html#a76ae57195ceca454928245f2db12f68c", null ],
+    [ "GetAI", "d8/dcf/a17254.html#a3f807335f79218ecc70c32f5496267a6", null ]
 ];

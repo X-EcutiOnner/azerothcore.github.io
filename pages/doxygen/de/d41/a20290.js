@@ -1,8 +1,6 @@
 var a20290 =
 [
-    [ "OnApply", "de/d41/a20290.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "de/d41/a20290.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "de/d41/a20290.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "de/d41/a20290.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "de/d41/a20290.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "HandleInstaKill", "de/d41/a20290.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "de/d41/a20290.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "de/d41/a20290.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

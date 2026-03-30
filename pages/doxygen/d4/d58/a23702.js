@@ -1,8 +1,9 @@
 var a23702 =
 [
-    [ "HandleEffectApply", "d4/d58/a23702.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d4/d58/a23702.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d4/d58/a23702.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d4/d58/a23702.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d4/d58/a23702.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/d58/a23702.html#a273d585416dc92d39d5ec3824c08504d", null ],
+    [ "IsSummonedBy", "d4/d58/a23702.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
+    [ "Reset", "d4/d58/a23702.html#a06fa50580efeab8d847a05f20956d175", null ],
+    [ "UpdateAI", "d4/d58/a23702.html#a8261a259cfbee0d3610ee441406fafcd", null ],
+    [ "playerGuid", "d4/d58/a23702.html#aab717dd49284c483759a6223dbd7e6ea", null ],
+    [ "timer", "d4/d58/a23702.html#afba1b71178c563a3db906057cd20de45", null ]
 ];

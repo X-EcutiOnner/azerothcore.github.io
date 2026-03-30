@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/UtgardeKeep/UtgardeKeep/utgarde_keep.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Warden/WardenCheckMgr.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,288 +106,201 @@ $(document).ready(function(){initNavTree('d1/d6c/a04478.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">utgarde_keep.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">WardenCheckMgr.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">utgarde_keep.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Vehicle.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Cryptography/BigNumber.h</a>&quot;</code><br />
+<code>#include &lt;map&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d33/a20839.html">npc_dragonflayer_forge_master</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/df9/a12022.html">WardenCheck</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d89/a20843.html">npc_enslaved_proto_drake</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d02/a12026.html">WardenCheckResult</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dba/a20847.html">spell_uk_second_wind</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d88/a12030.html">WardenCheckMgr</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d7c/a20851.html">spell_ticking_time_bomb_aura</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a367963ecc82479f8bea3aea9e235a85c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#a367963ecc82479f8bea3aea9e235a85c">sWardenCheckMgr</a>&#160;&#160;&#160;<a class="el" href="../../d5/d88/a12030.html#aba9de1e123070338dc0049db8d8f0663">WardenCheckMgr::instance</a>()</td></tr>
+<tr class="separator:a367963ecc82479f8bea3aea9e235a85c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a5858242a9c3f514606e1286c62fcf278"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278">EnslavedProtoDrake</a> { <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6">SPELL_REND</a> = 43931
+<tr class="memitem:acd25f1c729cc9c78338c6bc117dcd5e1"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#acd25f1c729cc9c78338c6bc117dcd5e1">WardenActions</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81">WARDEN_ACTION_LOG</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b">SPELL_FLAME_BREATH</a> = 50653
+&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13">WARDEN_ACTION_KICK</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa">SPELL_KNOCK_AWAY</a> = 49722
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d">EVENT_REND</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40">EVENT_FLAME_BREATH</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517">EVENT_KNOCKAWAY</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2">EVENT_PRE_LAND</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da">EVENT_LAND</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56">TYPE_PROTODRAKE_AT</a> = 28
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad">DATA_PROTODRAKE_MOVE</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394">POINT_TAKE_OFF</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3">POINT_PRE_LAND</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f">POINT_LAND</a> = 3
+&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0">WARDEN_ACTION_BAN</a>
 <br />
  }</td></tr>
-<tr class="separator:a5858242a9c3f514606e1286c62fcf278"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9126ee26be77d9dcf83d14c8abae1cca"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#a9126ee26be77d9dcf83d14c8abae1cca">TickingTimeBomb</a> { <a class="el" href="../../d1/d6c/a04478.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b">SPELL_TICKING_TIME_BOMB_EXPLODE</a> = 59687
+<tr class="separator:acd25f1c729cc9c78338c6bc117dcd5e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad353d1b1b229bf72b97440ac296da2f0"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0">WardenCheckTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2">WARDEN_CHECK_OTHER_TYPE</a> = 2
+<br />
  }</td></tr>
-<tr class="separator:a9126ee26be77d9dcf83d14c8abae1cca"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aad6ea2c0a908d8b75abb381baf0c2045"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#aad6ea2c0a908d8b75abb381baf0c2045">SecondWind</a> { <a class="el" href="../../d1/d6c/a04478.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe">SPELL_SECOND_WIND_TRIGGER</a> = 42771
- }</td></tr>
-<tr class="separator:aad6ea2c0a908d8b75abb381baf0c2045"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a3252f1bf2be160c6d8960f41e595db47"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#a3252f1bf2be160c6d8960f41e595db47">AddSC_utgarde_keep</a> ()</td></tr>
-<tr class="separator:a3252f1bf2be160c6d8960f41e595db47"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:ad353d1b1b229bf72b97440ac296da2f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a0a556a898032cb18eabb6df4a3f482e1"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d6/d51/a08727.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#a0a556a898032cb18eabb6df4a3f482e1">protodrakeCheckPos</a> {206.24f, -190.28f, 200.11f, 0.f}</td></tr>
-<tr class="separator:a0a556a898032cb18eabb6df4a3f482e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f05c0a81b85a72d1ba01e87e103e895"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d6/d51/a08727.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#a2f05c0a81b85a72d1ba01e87e103e895">protodrakeTakeOffPos</a> {209.1206f, -187.86578f, 215.00346f}</td></tr>
-<tr class="separator:a2f05c0a81b85a72d1ba01e87e103e895"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa19590ca509e049e2c92b727b48b6649"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d6/d51/a08727.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#aa19590ca509e049e2c92b727b48b6649">protodrakePreLandPos</a> {230.80234f, -164.99632f, 196.74878f}</td></tr>
-<tr class="separator:aa19590ca509e049e2c92b727b48b6649"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a48021562fd573e8e0e970124788afd"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d6/d51/a08727.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#a1a48021562fd573e8e0e970124788afd">protodrakeLandPos</a> {241.2079f, -163.06265f, 193.47125f}</td></tr>
-<tr class="separator:a1a48021562fd573e8e0e970124788afd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afa0b1cff6db4dd71ef500011182f2834"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#afa0b1cff6db4dd71ef500011182f2834">MAX_WARDEN_ACTION</a> = 3</td></tr>
+<tr class="separator:afa0b1cff6db4dd71ef500011182f2834"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80604a840828219101f07100a7a48dad"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#a80604a840828219101f07100a7a48dad">MAX_WARDEN_CHECK_TYPES</a> = 3</td></tr>
+<tr class="separator:a80604a840828219101f07100a7a48dad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a005df8388201fb598a4eedfeac422fbc"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6c/a04478.html#a005df8388201fb598a4eedfeac422fbc">WARDEN_MAX_LUA_CHECK_LENGTH</a> = 170</td></tr>
+<tr class="separator:a005df8388201fb598a4eedfeac422fbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a367963ecc82479f8bea3aea9e235a85c" name="a367963ecc82479f8bea3aea9e235a85c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a367963ecc82479f8bea3aea9e235a85c">&#9670;&#160;</a></span>sWardenCheckMgr</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define sWardenCheckMgr&#160;&#160;&#160;<a class="el" href="../../d5/d88/a12030.html#aba9de1e123070338dc0049db8d8f0663">WardenCheckMgr::instance</a>()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a5858242a9c3f514606e1286c62fcf278" name="a5858242a9c3f514606e1286c62fcf278"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5858242a9c3f514606e1286c62fcf278">&#9670;&#160;</a></span>EnslavedProtoDrake</h2>
+<a id="acd25f1c729cc9c78338c6bc117dcd5e1" name="acd25f1c729cc9c78338c6bc117dcd5e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd25f1c729cc9c78338c6bc117dcd5e1">&#9670;&#160;</a></span>WardenActions</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278">EnslavedProtoDrake</a></td>
+          <td class="memname">enum <a class="el" href="../../d1/d6c/a04478.html#acd25f1c729cc9c78338c6bc117dcd5e1">WardenActions</a> : <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6" name="a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6"></a>SPELL_REND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b" name="a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b"></a>SPELL_FLAME_BREATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa" name="a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa"></a>SPELL_KNOCK_AWAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d" name="a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d"></a>EVENT_REND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40" name="a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40"></a>EVENT_FLAME_BREATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517" name="a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517"></a>EVENT_KNOCKAWAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2" name="a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2"></a>EVENT_PRE_LAND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da" name="a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da"></a>EVENT_LAND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56" name="a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56"></a>TYPE_PROTODRAKE_AT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad" name="a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad"></a>DATA_PROTODRAKE_MOVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394" name="a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394"></a>POINT_TAKE_OFF&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3" name="a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3"></a>POINT_PRE_LAND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f" name="a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f"></a>POINT_LAND&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81" name="acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81"></a>WARDEN_ACTION_LOG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13" name="acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13"></a>WARDEN_ACTION_KICK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0" name="acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0"></a>WARDEN_ACTION_BAN&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   84</span>{</div>
-<div class="line"><span class="lineno">   85</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6">SPELL_REND</a>              = 43931,</div>
-<div class="line"><span class="lineno">   86</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b">SPELL_FLAME_BREATH</a>      = 50653,</div>
-<div class="line"><span class="lineno">   87</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa">SPELL_KNOCK_AWAY</a>        = 49722,</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d">EVENT_REND</a>              = 1,</div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40">EVENT_FLAME_BREATH</a>      = 2,</div>
-<div class="line"><span class="lineno">   91</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517">EVENT_KNOCKAWAY</a>         = 3,</div>
-<div class="line"><span class="lineno">   92</span>    <span class="comment">// Special</span></div>
-<div class="line"><span class="lineno">   93</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2">EVENT_PRE_LAND</a>          = 4,</div>
-<div class="line"><span class="lineno">   94</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da">EVENT_LAND</a>              = 5,</div>
-<div class="line"><span class="lineno">   95</span> </div>
-<div class="line"><span class="lineno">   96</span>    <span class="comment">// Special</span></div>
-<div class="line"><span class="lineno">   97</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56">TYPE_PROTODRAKE_AT</a>      = 28,</div>
-<div class="line"><span class="lineno">   98</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad">DATA_PROTODRAKE_MOVE</a>    = 6,</div>
-<div class="line"><span class="lineno">   99</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394">POINT_TAKE_OFF</a>          = 1,</div>
-<div class="line"><span class="lineno">  100</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3">POINT_PRE_LAND</a>          = 2,</div>
-<div class="line"><span class="lineno">  101</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f">POINT_LAND</a>              = 3,</div>
-<div class="line"><span class="lineno">  102</span>};</div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40">EVENT_FLAME_BREATH</a></div><div class="ttdeci">@ EVENT_FLAME_BREATH</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:90</div></div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2">EVENT_PRE_LAND</a></div><div class="ttdeci">@ EVENT_PRE_LAND</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:93</div></div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d">EVENT_REND</a></div><div class="ttdeci">@ EVENT_REND</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:89</div></div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b">SPELL_FLAME_BREATH</a></div><div class="ttdeci">@ SPELL_FLAME_BREATH</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:86</div></div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394">POINT_TAKE_OFF</a></div><div class="ttdeci">@ POINT_TAKE_OFF</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:99</div></div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3">POINT_PRE_LAND</a></div><div class="ttdeci">@ POINT_PRE_LAND</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:100</div></div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56">TYPE_PROTODRAKE_AT</a></div><div class="ttdeci">@ TYPE_PROTODRAKE_AT</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:97</div></div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad">DATA_PROTODRAKE_MOVE</a></div><div class="ttdeci">@ DATA_PROTODRAKE_MOVE</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:98</div></div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f">POINT_LAND</a></div><div class="ttdeci">@ POINT_LAND</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:101</div></div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa">SPELL_KNOCK_AWAY</a></div><div class="ttdeci">@ SPELL_KNOCK_AWAY</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:87</div></div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6">SPELL_REND</a></div><div class="ttdeci">@ SPELL_REND</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:85</div></div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517">EVENT_KNOCKAWAY</a></div><div class="ttdeci">@ EVENT_KNOCKAWAY</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:91</div></div>
-<div class="ttc" id="aa04478_html_a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da"><div class="ttname"><a href="../../d1/d6c/a04478.html#a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da">EVENT_LAND</a></div><div class="ttdeci">@ EVENT_LAND</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:94</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81">WARDEN_ACTION_LOG</a>,  <span class="comment">// TITLE Log</span></div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13">WARDEN_ACTION_KICK</a>, <span class="comment">// TITLE Kick</span></div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0">WARDEN_ACTION_BAN</a>   <span class="comment">// TITLE Ban</span></div>
+<div class="line"><span class="lineno">   30</span>};</div>
+<div class="ttc" id="aa04478_html_acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13"><div class="ttname"><a href="../../d1/d6c/a04478.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13">WARDEN_ACTION_KICK</a></div><div class="ttdeci">@ WARDEN_ACTION_KICK</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:28</div></div>
+<div class="ttc" id="aa04478_html_acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0"><div class="ttname"><a href="../../d1/d6c/a04478.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0">WARDEN_ACTION_BAN</a></div><div class="ttdeci">@ WARDEN_ACTION_BAN</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:29</div></div>
+<div class="ttc" id="aa04478_html_acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81"><div class="ttname"><a href="../../d1/d6c/a04478.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81">WARDEN_ACTION_LOG</a></div><div class="ttdeci">@ WARDEN_ACTION_LOG</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:27</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="aad6ea2c0a908d8b75abb381baf0c2045" name="aad6ea2c0a908d8b75abb381baf0c2045"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aad6ea2c0a908d8b75abb381baf0c2045">&#9670;&#160;</a></span>SecondWind</h2>
+<a id="ad353d1b1b229bf72b97440ac296da2f0" name="ad353d1b1b229bf72b97440ac296da2f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad353d1b1b229bf72b97440ac296da2f0">&#9670;&#160;</a></span>WardenCheckTypes</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d6c/a04478.html#aad6ea2c0a908d8b75abb381baf0c2045">SecondWind</a></td>
+          <td class="memname">enum <a class="el" href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0">WardenCheckTypes</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe" name="aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe"></a>SPELL_SECOND_WIND_TRIGGER&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3" name="ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3"></a>WARDEN_CHECK_MEM_TYPE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af" name="ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af"></a>WARDEN_CHECK_LUA_TYPE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2" name="ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2"></a>WARDEN_CHECK_OTHER_TYPE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  207</span>{</div>
-<div class="line"><span class="lineno">  208</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe">SPELL_SECOND_WIND_TRIGGER</a> = 42771</div>
-<div class="line"><span class="lineno">  209</span>};</div>
-<div class="ttc" id="aa04478_html_aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe"><div class="ttname"><a href="../../d1/d6c/a04478.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe">SPELL_SECOND_WIND_TRIGGER</a></div><div class="ttdeci">@ SPELL_SECOND_WIND_TRIGGER</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:208</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a>   = 0,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a>   = 1,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2">WARDEN_CHECK_OTHER_TYPE</a> = 2,</div>
+<div class="line"><span class="lineno">   39</span>};</div>
+<div class="ttc" id="aa04478_html_ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3"><div class="ttname"><a href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_MEM_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:36</div></div>
+<div class="ttc" id="aa04478_html_ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af"><div class="ttname"><a href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_LUA_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:37</div></div>
+<div class="ttc" id="aa04478_html_ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2"><div class="ttname"><a href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2">WARDEN_CHECK_OTHER_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_OTHER_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:38</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="a9126ee26be77d9dcf83d14c8abae1cca" name="a9126ee26be77d9dcf83d14c8abae1cca"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9126ee26be77d9dcf83d14c8abae1cca">&#9670;&#160;</a></span>TickingTimeBomb</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d6c/a04478.html#a9126ee26be77d9dcf83d14c8abae1cca">TickingTimeBomb</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b" name="a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b"></a>SPELL_TICKING_TIME_BOMB_EXPLODE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  202</span>{</div>
-<div class="line"><span class="lineno">  203</span>    <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b">SPELL_TICKING_TIME_BOMB_EXPLODE</a> = 59687</div>
-<div class="line"><span class="lineno">  204</span>};</div>
-<div class="ttc" id="aa04478_html_a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b"><div class="ttname"><a href="../../d1/d6c/a04478.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b">SPELL_TICKING_TIME_BOMB_EXPLODE</a></div><div class="ttdeci">@ SPELL_TICKING_TIME_BOMB_EXPLODE</div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:203</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a3252f1bf2be160c6d8960f41e595db47" name="a3252f1bf2be160c6d8960f41e595db47"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3252f1bf2be160c6d8960f41e595db47">&#9670;&#160;</a></span>AddSC_utgarde_keep()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AddSC_utgarde_keep </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  268</span>{</div>
-<div class="line"><span class="lineno">  269</span>    <a class="code hl_define" href="../../dd/d40/a04481.html#a960a375dc6655df45bd889a1b1487dcc">RegisterUtgardeKeepCreatureAI</a>(<a class="code hl_struct" href="../../dd/d33/a20839.html">npc_dragonflayer_forge_master</a>);</div>
-<div class="line"><span class="lineno">  270</span>    <a class="code hl_define" href="../../dd/d40/a04481.html#a960a375dc6655df45bd889a1b1487dcc">RegisterUtgardeKeepCreatureAI</a>(<a class="code hl_struct" href="../../d7/d89/a20843.html">npc_enslaved_proto_drake</a>);</div>
-<div class="line"><span class="lineno">  271</span> </div>
-<div class="line"><span class="lineno">  272</span>    <a class="code hl_define" href="../../de/def/a01016.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/dba/a20847.html">spell_uk_second_wind</a>);</div>
-<div class="line"><span class="lineno">  273</span>    <a class="code hl_define" href="../../de/def/a01016.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d7c/a20851.html">spell_ticking_time_bomb_aura</a>);</div>
-<div class="line"><span class="lineno">  274</span>}</div>
-<div class="ttc" id="aa01016_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../de/def/a01016.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa04481_html_a960a375dc6655df45bd889a1b1487dcc"><div class="ttname"><a href="../../dd/d40/a04481.html#a960a375dc6655df45bd889a1b1487dcc">RegisterUtgardeKeepCreatureAI</a></div><div class="ttdeci">#define RegisterUtgardeKeepCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> utgarde_keep.h:90</div></div>
-<div class="ttc" id="aa20839_html"><div class="ttname"><a href="../../dd/d33/a20839.html">npc_dragonflayer_forge_master</a></div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:27</div></div>
-<div class="ttc" id="aa20843_html"><div class="ttname"><a href="../../d7/d89/a20843.html">npc_enslaved_proto_drake</a></div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:110</div></div>
-<div class="ttc" id="aa20847_html"><div class="ttname"><a href="../../dd/dba/a20847.html">spell_uk_second_wind</a></div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:213</div></div>
-<div class="ttc" id="aa20851_html"><div class="ttname"><a href="../../d4/d7c/a20851.html">spell_ticking_time_bomb_aura</a></div><div class="ttdef"><b>Definition:</b> utgarde_keep.cpp:245</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>, and <a class="el" href="../../#l00090">RegisterUtgardeKeepCreatureAI</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a0a556a898032cb18eabb6df4a3f482e1" name="a0a556a898032cb18eabb6df4a3f482e1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0a556a898032cb18eabb6df4a3f482e1">&#9670;&#160;</a></span>protodrakeCheckPos</h2>
+<a id="afa0b1cff6db4dd71ef500011182f2834" name="afa0b1cff6db4dd71ef500011182f2834"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa0b1cff6db4dd71ef500011182f2834">&#9670;&#160;</a></span>MAX_WARDEN_ACTION</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d6/d51/a08727.html">Position</a> protodrakeCheckPos {206.24f, -190.28f, 200.11f, 0.f}</td>
+          <td class="memname">constexpr <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> MAX_WARDEN_ACTION = 3</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00151">npc_enslaved_proto_drake::SetData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00040">WardenCheckMgr::LoadWardenChecks()</a>.</p>
 
 </div>
 </div>
-<a id="a1a48021562fd573e8e0e970124788afd" name="a1a48021562fd573e8e0e970124788afd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a48021562fd573e8e0e970124788afd">&#9670;&#160;</a></span>protodrakeLandPos</h2>
+<a id="a80604a840828219101f07100a7a48dad" name="a80604a840828219101f07100a7a48dad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a80604a840828219101f07100a7a48dad">&#9670;&#160;</a></span>MAX_WARDEN_CHECK_TYPES</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d6/d51/a08727.html">Position</a> protodrakeLandPos {241.2079f, -163.06265f, 193.47125f}</td>
+          <td class="memname">constexpr <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> MAX_WARDEN_CHECK_TYPES = 3</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00122">npc_enslaved_proto_drake::MovementInform()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00091">GetMaxWardenChecksForType()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
 
 </div>
 </div>
-<a id="aa19590ca509e049e2c92b727b48b6649" name="aa19590ca509e049e2c92b727b48b6649"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa19590ca509e049e2c92b727b48b6649">&#9670;&#160;</a></span>protodrakePreLandPos</h2>
+<a id="a005df8388201fb598a4eedfeac422fbc" name="a005df8388201fb598a4eedfeac422fbc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a005df8388201fb598a4eedfeac422fbc">&#9670;&#160;</a></span>WARDEN_MAX_LUA_CHECK_LENGTH</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d6/d51/a08727.html">Position</a> protodrakePreLandPos {230.80234f, -164.99632f, 196.74878f}</td>
+          <td class="memname">constexpr <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> WARDEN_MAX_LUA_CHECK_LENGTH = 170</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00122">npc_enslaved_proto_drake::MovementInform()</a>.</p>
-
-</div>
-</div>
-<a id="a2f05c0a81b85a72d1ba01e87e103e895" name="a2f05c0a81b85a72d1ba01e87e103e895"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2f05c0a81b85a72d1ba01e87e103e895">&#9670;&#160;</a></span>protodrakeTakeOffPos</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d6/d51/a08727.html">Position</a> protodrakeTakeOffPos {209.1206f, -187.86578f, 215.00346f}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00151">npc_enslaved_proto_drake::SetData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00040">WardenCheckMgr::LoadWardenChecks()</a>.</p>
 
 </div>
 </div>
@@ -396,8 +309,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_d1549822ab15c727c75ddc2dceea56dd.html">UtgardeKeep</a></li><li class="navelem"><a class="el" href="../../dir_14e88a38456ce636c6ee65eed9c3a2a1.html">UtgardeKeep</a></li><li class="navelem"><a class="el" href="../../d1/d6c/a04478.html">utgarde_keep.cpp</a></li>
-    <li class="footer">Generated on Mon Mar 23 2026 21:06:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_4b21bdf52d2a98b0776a5d7d01fdcc43.html">Warden</a></li><li class="navelem"><a class="el" href="../../d1/d6c/a04478.html">WardenCheckMgr.h</a></li>
+    <li class="footer">Generated on Mon Mar 30 2026 21:10:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

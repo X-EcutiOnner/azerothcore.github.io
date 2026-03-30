@@ -1,6 +1,12 @@
 var a24266 =
 [
-    [ "npc_zephyr", "da/d9a/a24266.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "da/d9a/a24266.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "da/d9a/a24266.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "CheckTarget", "da/d9a/a24266.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
+    [ "CheckTargets", "da/d9a/a24266.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
+    [ "HandleCorpseExplosion", "da/d9a/a24266.html#a201de2ee86d0cf954117df0e5343ee69", null ],
+    [ "HandleDamage", "da/d9a/a24266.html#a810fc65eb5d7160366d63210bad9caea", null ],
+    [ "Load", "da/d9a/a24266.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
+    [ "PrepareSpellScript", "da/d9a/a24266.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
+    [ "Register", "da/d9a/a24266.html#a9e67ea51300569a0e163cb3e427b086e", null ],
+    [ "Validate", "da/d9a/a24266.html#a93984e8b831cb4c37ec2726d44532d43", null ],
+    [ "_target", "da/d9a/a24266.html#a5028b9d3166270b2b0557943e962eade", null ]
 ];

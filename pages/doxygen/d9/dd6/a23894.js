@@ -1,7 +1,8 @@
 var a23894 =
 [
-    [ "boss_gatewatcher_gyrokill", "d9/dd6/a23894.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "d9/dd6/a23894.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "d9/dd6/a23894.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "d9/dd6/a23894.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "CreatureId", "d9/dd6/a23894.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "d9/dd6/a23894.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "d9/dd6/a23894.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "d9/dd6/a23894.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "d9/dd6/a23894.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

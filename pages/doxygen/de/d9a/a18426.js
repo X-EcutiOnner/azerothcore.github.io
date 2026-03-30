@@ -1,7 +1,7 @@
 var a18426 =
 [
-    [ "CheckRequirement", "de/d9a/a18426.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "de/d9a/a18426.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "de/d9a/a18426.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "de/d9a/a18426.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "HandleScript", "de/d9a/a18426.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
+    [ "PrepareSpellScript", "de/d9a/a18426.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
+    [ "Register", "de/d9a/a18426.html#ad83d563da98ad189f2198a061b1cd50f", null ],
+    [ "Validate", "de/d9a/a18426.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
 ];

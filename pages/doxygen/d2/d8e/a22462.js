@@ -1,5 +1,7 @@
 var a22462 =
 [
-    [ "go_scourge_enclosure", "d2/d8e/a22462.html#a3611232cb735f336087d4d3c90f66b8d", null ],
-    [ "OnGossipHello", "d2/d8e/a22462.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
+    [ "HandleEffectRemove", "d2/d8e/a22462.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "PrepareAuraScript", "d2/d8e/a22462.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "d2/d8e/a22462.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "d2/d8e/a22462.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

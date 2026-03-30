@@ -1,7 +1,7 @@
 var a21710 =
 [
-    [ "npc_cosmetic_toy_plane", "d2/d0e/a21710.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d2/d0e/a21710.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d2/d0e/a21710.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d2/d0e/a21710.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_plaguehound_trackerAI", "d2/d0e/a21710.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d2/d0e/a21710.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d2/d0e/a21710.html#a67c345f49572cde76d9109a1baff6788", null ],
+    [ "WaypointReached", "d2/d0e/a21710.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

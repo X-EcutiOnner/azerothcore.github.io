@@ -1,6 +1,6 @@
 var a20146 =
 [
-    [ "PrepareSpellScript", "d2/dc7/a20146.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "d2/dc7/a20146.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "d2/dc7/a20146.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "npc_ulduar_toasty_fire", "d2/dc7/a20146.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
+    [ "DoAction", "d2/dc7/a20146.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
+    [ "SpellHit", "d2/dc7/a20146.html#ad1ac241490db52177ae13640d7ae3eec", null ]
 ];

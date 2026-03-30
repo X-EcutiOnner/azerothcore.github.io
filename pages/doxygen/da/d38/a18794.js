@@ -1,6 +1,6 @@
 var a18794 =
 [
-    [ "HandleScript", "da/d38/a18794.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
-    [ "PrepareSpellScript", "da/d38/a18794.html#add6b78f0396a34c36e0dff1928889e43", null ],
-    [ "Register", "da/d38/a18794.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
+    [ "npc_rotting_frost_giantAI", "d9/d5d/a18798.html", "d9/d5d/a18798" ],
+    [ "npc_rotting_frost_giant", "da/d38/a18794.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "da/d38/a18794.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

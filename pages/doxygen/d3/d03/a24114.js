@@ -1,7 +1,10 @@
 var a24114 =
 [
-    [ "npc_maxx_a_million_escortAI", "de/d7c/a24118.html", "de/d7c/a24118" ],
-    [ "npc_maxx_a_million_escort", "d3/d03/a24114.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d3/d03/a24114.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d3/d03/a24114.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "npc_pet_hunter_snake_trap", "d3/d03/a24114.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "InitializeAI", "d3/d03/a24114.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
+    [ "JustEngagedWith", "d3/d03/a24114.html#a695af9c49daa05c787dac03c4af91645", null ],
+    [ "MoveInLineOfSight", "d3/d03/a24114.html#a099a34f12399fe24349644da3dafe7a4", null ],
+    [ "UpdateAI", "d3/d03/a24114.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_isViper", "d3/d03/a24114.html#ab49c69ca25014ef63e775b236255e4c1", null ],
+    [ "_spellTimer", "d3/d03/a24114.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

@@ -1,6 +1,6 @@
 var a23630 =
 [
-    [ "PrepareSpellScript", "da/d01/a23630.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "da/d01/a23630.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "da/d01/a23630.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "HandlePeriodic", "da/d01/a23630.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
+    [ "PrepareAuraScript", "da/d01/a23630.html#a438425f3002028a0978e0dbab580ca03", null ],
+    [ "Register", "da/d01/a23630.html#af4b26607e8838b7bbbe8777f57601341", null ]
 ];

@@ -1,6 +1,6 @@
 var a02057 =
 [
-    [ "EncryptableAndCompressiblePacket", "dd/dc8/a11547.html", "dd/dc8/a11547" ],
-    [ "ClientPktHeader", "d4/dc2/a11551.html", "d4/dc2/a11551" ],
-    [ "WorldSocket", "d5/d92/a11555.html", "d5/d92/a11555" ]
+    [ "debug_commandscript", "d8/da4/a12166.html", "d8/da4/a12166" ],
+    [ "debug_commandscript::CreatureCountWorker", "dc/d79/a12170.html", "dc/d79/a12170" ],
+    [ "AddSC_debug_commandscript", "d2/dea/a02057.html#abae44bbc8eb2fb66a5596017ea83583f", null ]
 ];

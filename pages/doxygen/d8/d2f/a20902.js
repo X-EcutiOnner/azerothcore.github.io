@@ -1,6 +1,8 @@
 var a20902 =
 [
-    [ "boss_yoggsaron_death_orb", "d8/d2f/a20902.html#aad626ea1576dc2efe2d228e4919de393", null ],
-    [ "UpdateAI", "d8/d2f/a20902.html#a9557c25da8cfdc6b7e62ff9b2b78714b", null ],
-    [ "_startTimer", "d8/d2f/a20902.html#a272b6b4c6c8f1f9fed933b9e1fd6f749", null ]
+    [ "FilterTargets", "d8/d2f/a20902.html#a028ef84c884536a28650ace1e56f8061", null ],
+    [ "HandleScript", "d8/d2f/a20902.html#a16466b4c07c06c57493082b0e84b3c66", null ],
+    [ "PrepareSpellScript", "d8/d2f/a20902.html#ad43892487ca38342a61522548b34cd2c", null ],
+    [ "Register", "d8/d2f/a20902.html#a90470761baccdcf8c5430006004abf29", null ],
+    [ "Validate", "d8/d2f/a20902.html#a1664dcb92887f6974e1750472c02d168", null ]
 ];

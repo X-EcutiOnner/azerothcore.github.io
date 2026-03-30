@@ -1,8 +1,6 @@
 var a26930 =
 [
-    [ "AfterCheckProc", "d6/d22/a26930.html#ad817bc9b07538434956bf64ea1dd0367", null ],
-    [ "HandleProc", "d6/d22/a26930.html#af972e6ed5524dadd618d6cd907c0241b", null ],
-    [ "PrepareAuraScript", "d6/d22/a26930.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
-    [ "Register", "d6/d22/a26930.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
-    [ "Validate", "d6/d22/a26930.html#aa15febbd22621da12b567fc429917bf0", null ]
+    [ "ModDest", "d6/d22/a26930.html#ab03387aec0a02a6b3bac1014443554b6", null ],
+    [ "PrepareSpellScript", "d6/d22/a26930.html#a53f7da301759fb18686bc73281c4a321", null ],
+    [ "Register", "d6/d22/a26930.html#a266198fbc6203517f9845ef6212ddf13", null ]
 ];

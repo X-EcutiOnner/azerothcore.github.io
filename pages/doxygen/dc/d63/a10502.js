@@ -1,8 +1,10 @@
 var a10502 =
 [
-    [ "AllCommandScript", "dc/d63/a10502.html#a7ff235b904eecdd4d02d2025c4078980", null ],
-    [ "IsDatabaseBound", "dc/d63/a10502.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
-    [ "OnBeforeIsInvokerVisible", "dc/d63/a10502.html#a6f85dc271c1b61244978aa4474e708b0", null ],
-    [ "OnHandleDevCommand", "dc/d63/a10502.html#aba983f0e052ece230617573f04a35c92", null ],
-    [ "OnTryExecuteCommand", "dc/d63/a10502.html#a3a116836453073e77bbd8ab974f36f47", null ]
+    [ "QuestStatusData", "dc/d63/a10502.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "dc/d63/a10502.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "dc/d63/a10502.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "dc/d63/a10502.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "dc/d63/a10502.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "dc/d63/a10502.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "dc/d63/a10502.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

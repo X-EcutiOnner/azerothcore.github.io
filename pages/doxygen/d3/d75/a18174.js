@@ -1,7 +1,10 @@
 var a18174 =
 [
-    [ "FilterTargets", "d3/d75/a18174.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
-    [ "Load", "d3/d75/a18174.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
-    [ "PrepareSpellScript", "d3/d75/a18174.html#a7526a6df4c25136f4be78e753c6abf62", null ],
-    [ "Register", "d3/d75/a18174.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
+    [ "FilterTargets", "d3/d75/a18174.html#aefba5226671b6217549bd34059519179", null ],
+    [ "Load", "d3/d75/a18174.html#af8a2b651782783dc29ac7266ed02c028", null ],
+    [ "NotifyTargets", "d3/d75/a18174.html#a618e98fbd5c6ae21047cc4f911099730", null ],
+    [ "PrepareSpellScript", "d3/d75/a18174.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
+    [ "Register", "d3/d75/a18174.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
+    [ "ReplaceTargets", "d3/d75/a18174.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
+    [ "_target", "d3/d75/a18174.html#a10c85fd3909e56f457d73add8021c0b7", null ]
 ];

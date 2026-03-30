@@ -1,6 +1,6 @@
 var a15594 =
 [
-    [ "HandleScript", "d2/d38/a15594.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
-    [ "PrepareSpellScript", "d2/d38/a15594.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
-    [ "Register", "d2/d38/a15594.html#a434f0aef7f32edb6990efb992e4d57af", null ]
+    [ "npc_muglashAI", "d1/dbe/a15598.html", "d1/dbe/a15598" ],
+    [ "npc_muglash", "d2/d38/a15594.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
+    [ "GetAI", "d2/d38/a15594.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
 ];

@@ -1,6 +1,5 @@
 var a14286 =
 [
-    [ "npc_andorhal_towerAI", "d0/dcf/a14290.html", "d0/dcf/a14290" ],
-    [ "npc_andorhal_tower", "d0/d2c/a14286.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
-    [ "GetAI", "d0/d2c/a14286.html#a51139c28da736d26bf27a061862d24ee", null ]
+    [ "at_zulgurub_bloodfire_pit_speech", "d0/d2c/a14286.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
+    [ "_OnTrigger", "d0/d2c/a14286.html#a8f1e477942ba9a5f653077632a98930f", null ]
 ];

@@ -1,6 +1,8 @@
 var a17626 =
 [
-    [ "SlaveRunEvent", "d6/dc9/a17626.html#a4560b275b0870cdbd192b2610893b47c", null ],
-    [ "Execute", "d6/dc9/a17626.html#a81db67be136525dea5a9cd84180be165", null ],
-    [ "_owner", "d6/dc9/a17626.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "d0/db3/a17630.html", "d0/db3/a17630" ],
+    [ "npc_muradin_bronzebeard_icc", "d6/dc9/a17626.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "d6/dc9/a17626.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "d6/dc9/a17626.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "d6/dc9/a17626.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

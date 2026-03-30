@@ -1,8 +1,9 @@
 var a00356 =
 [
-    [ "CleanStringForMysqlQuery", "d6/de1/a00356.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
-    [ "GetLocaleByName", "d6/de1/a00356.html#a8051d28826d995169bd4ce60310d5d65", null ],
-    [ "GetNameByLocaleConstant", "d6/de1/a00356.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
-    [ "IsLocaleValid", "d6/de1/a00356.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
-    [ "localeNames", "d6/de1/a00356.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
+    [ "localtime_r", "d6/de1/a00356.html#a17fdb8f2104b98bad5d9fb343d0a043a", null ],
+    [ "DAYS", "d6/de1/a00356.html#ac9bde42940b2570f3865385200b56af8", null ],
+    [ "HOURS", "d6/de1/a00356.html#a18161a3aeba136aeffb54a07f08f08f6", null ],
+    [ "MILLISECONDS", "d6/de1/a00356.html#a2624e61008f0e89d91c7c55161f9bcd8", null ],
+    [ "MINUTES", "d6/de1/a00356.html#abbd89694b6a3e24a701ce6971b2cd37d", null ],
+    [ "SECONDS", "d6/de1/a00356.html#a5fb1c8d14d370751c6202fc87b27bf96", null ]
 ];

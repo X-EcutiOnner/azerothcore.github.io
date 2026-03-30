@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Events/GameEventMgr.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/SunkenTemple/instance_sunken_temple.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,110 +106,107 @@ $(document).ready(function(){initNavTree('d8/dd0/a01430.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">GameEventMgr.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">instance_sunken_temple.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DisableMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">HolidayDateCalculator.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Language.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaTriggerScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">EventMap.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">PoolMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UnitAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldState.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldStatePackets.h</a>&quot;</code><br />
-<code>#include &lt;chrono&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">sunken_temple.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d5b/a09087.html">GameEventAIHookWorker</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df0/a13510.html">instance_sunken_temple</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d40/a13514.html">instance_sunken_temple::instance_sunken_temple_InstanceMapScript</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d4a/a13518.html">at_malfurion_stormrage</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d29/a13522.html">spell_temple_of_atal_hakkar_hex_of_jammal_an_aura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de8/a13526.html">spell_temple_of_atal_hakkar_awaken_the_soulflayer</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a754fcfafd80b5a6c2ea444f49cfbc7d1"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd0/a01430.html#a754fcfafd80b5a6c2ea444f49cfbc7d1">MalfurionMisc</a> { <br />
+&#160;&#160;<a class="el" href="../../d8/dd0/a01430.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d">QUEST_ERANIKUS_TYRANT_OF_DREAMS</a> = 8733
+, <br />
+&#160;&#160;<a class="el" href="../../d8/dd0/a01430.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526">QUEST_THE_CHARGE_OF_DRAGONFLIGHTS</a> = 8555
+<br />
+ }</td></tr>
+<tr class="separator:a754fcfafd80b5a6c2ea444f49cfbc7d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a429db26781d2673aa2f031fc1327ffaf"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd0/a01430.html#a429db26781d2673aa2f031fc1327ffaf">IsHolidayActive</a> (<a class="el" href="../../da/dbb/a04871.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a> id)</td></tr>
-<tr class="separator:a429db26781d2673aa2f031fc1327ffaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad54f33b2e05154d9c2a384ff579b9208"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd0/a01430.html#ad54f33b2e05154d9c2a384ff579b9208">IsEventActive</a> (<a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> eventId)</td></tr>
-<tr class="separator:ad54f33b2e05154d9c2a384ff579b9208"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3f2a91fe096585f54078e8884cb25f7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd0/a01430.html#ab3f2a91fe096585f54078e8884cb25f7">AddSC_instance_sunken_temple</a> ()</td></tr>
+<tr class="separator:ab3f2a91fe096585f54078e8884cb25f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a754fcfafd80b5a6c2ea444f49cfbc7d1" name="a754fcfafd80b5a6c2ea444f49cfbc7d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a754fcfafd80b5a6c2ea444f49cfbc7d1">&#9670;&#160;</a></span>MalfurionMisc</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d8/dd0/a01430.html#a754fcfafd80b5a6c2ea444f49cfbc7d1">MalfurionMisc</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d" name="a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d"></a>QUEST_ERANIKUS_TYRANT_OF_DREAMS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526" name="a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526"></a>QUEST_THE_CHARGE_OF_DRAGONFLIGHTS&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  212</span>{</div>
+<div class="line"><span class="lineno">  213</span>    <a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d">QUEST_ERANIKUS_TYRANT_OF_DREAMS</a>   = 8733,</div>
+<div class="line"><span class="lineno">  214</span>    <a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526">QUEST_THE_CHARGE_OF_DRAGONFLIGHTS</a> = 8555,</div>
+<div class="line"><span class="lineno">  215</span>};</div>
+<div class="ttc" id="aa01430_html_a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d"><div class="ttname"><a href="../../d8/dd0/a01430.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d">QUEST_ERANIKUS_TYRANT_OF_DREAMS</a></div><div class="ttdeci">@ QUEST_ERANIKUS_TYRANT_OF_DREAMS</div><div class="ttdef"><b>Definition:</b> instance_sunken_temple.cpp:213</div></div>
+<div class="ttc" id="aa01430_html_a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526"><div class="ttname"><a href="../../d8/dd0/a01430.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526">QUEST_THE_CHARGE_OF_DRAGONFLIGHTS</a></div><div class="ttdeci">@ QUEST_THE_CHARGE_OF_DRAGONFLIGHTS</div><div class="ttdef"><b>Definition:</b> instance_sunken_temple.cpp:214</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="ad54f33b2e05154d9c2a384ff579b9208" name="ad54f33b2e05154d9c2a384ff579b9208"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad54f33b2e05154d9c2a384ff579b9208">&#9670;&#160;</a></span>IsEventActive()</h2>
+<a id="ab3f2a91fe096585f54078e8884cb25f7" name="ab3f2a91fe096585f54078e8884cb25f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab3f2a91fe096585f54078e8884cb25f7">&#9670;&#160;</a></span>AddSC_instance_sunken_temple()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool IsEventActive </td>
+          <td class="memname">void AddSC_instance_sunken_temple </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d8e/a00482.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>eventId</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2039</span>{</div>
-<div class="line"><span class="lineno"> 2040</span>    <a class="code hl_typedef" href="../../da/dac/a09111.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a> <span class="keyword">const</span>&amp; ae = <a class="code hl_define" href="../../d5/da5/a01424.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetActiveEventList();</div>
-<div class="line"><span class="lineno"> 2041</span>    <span class="keywordflow">return</span> ae.find(eventId) != ae.end();</div>
-<div class="line"><span class="lineno"> 2042</span>}</div>
-<div class="ttc" id="aa01424_html_a3c1c916d94272dfe845b9cc5e8fc292a"><div class="ttname"><a href="../../d5/da5/a01424.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a></div><div class="ttdeci">#define sGameEventMgr</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:201</div></div>
-<div class="ttc" id="aa09111_html_a9d1e67f8edbe01fedd10c5fb0aeac2cf"><div class="ttname"><a href="../../da/dac/a09111.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a></div><div class="ttdeci">std::set&lt; uint16 &gt; ActiveEvents</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:106</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  283</span>{</div>
+<div class="line"><span class="lineno">  284</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/df0/a13510.html">instance_sunken_temple</a>();</div>
+<div class="line"><span class="lineno">  285</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d4a/a13518.html">at_malfurion_stormrage</a>();</div>
+<div class="line"><span class="lineno">  286</span>    <a class="code hl_define" href="../../d9/d9a/a03668.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/d29/a13522.html">spell_temple_of_atal_hakkar_hex_of_jammal_an_aura</a>);</div>
+<div class="line"><span class="lineno">  287</span>    <a class="code hl_define" href="../../d9/d9a/a03668.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/de8/a13526.html">spell_temple_of_atal_hakkar_awaken_the_soulflayer</a>);</div>
+<div class="line"><span class="lineno">  288</span>}</div>
+<div class="ttc" id="aa03668_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d9/d9a/a03668.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
+<div class="ttc" id="aa13510_html"><div class="ttname"><a href="../../d4/df0/a13510.html">instance_sunken_temple</a></div><div class="ttdef"><b>Definition:</b> instance_sunken_temple.cpp:30</div></div>
+<div class="ttc" id="aa13518_html"><div class="ttname"><a href="../../df/d4a/a13518.html">at_malfurion_stormrage</a></div><div class="ttdef"><b>Definition:</b> instance_sunken_temple.cpp:218</div></div>
+<div class="ttc" id="aa13522_html"><div class="ttname"><a href="../../d5/d29/a13522.html">spell_temple_of_atal_hakkar_hex_of_jammal_an_aura</a></div><div class="ttdef"><b>Definition:</b> instance_sunken_temple.cpp:232</div></div>
+<div class="ttc" id="aa13526_html"><div class="ttname"><a href="../../dd/de8/a13526.html">spell_temple_of_atal_hakkar_awaken_the_soulflayer</a></div><div class="ttdef"><b>Definition:</b> instance_sunken_temple.cpp:257</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00201">sGameEventMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l15884">Player::_LoadBrewOfTheMonth()</a>, <a class="el" href="../../#l00834">Battleground::EndBattleground()</a>, <a class="el" href="../../#l00240">GameEventMgr::LoadEventVendors()</a>, <a class="el" href="../../#l00036">npc_innkeeper::OnGossipHello()</a>, and <a class="el" href="../../#l00063">npc_innkeeper::OnGossipSelect()</a>.</p>
-
-</div>
-</div>
-<a id="a429db26781d2673aa2f031fc1327ffaf" name="a429db26781d2673aa2f031fc1327ffaf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a429db26781d2673aa2f031fc1327ffaf">&#9670;&#160;</a></span>IsHolidayActive()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool IsHolidayActive </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/dbb/a04871.html#ad279224fea61f9754572051fc5ff1fab">HolidayIds</a>&#160;</td>
-          <td class="paramname"><em>id</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2024</span>{</div>
-<div class="line"><span class="lineno"> 2025</span>    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> == <a class="code hl_enumvalue" href="../../da/dbb/a04871.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a>)</div>
-<div class="line"><span class="lineno"> 2026</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 2027</span> </div>
-<div class="line"><span class="lineno"> 2028</span>    <a class="code hl_typedef" href="../../da/dac/a09111.html#a2d313485105c8ef04b27833f312a2601">GameEventMgr::GameEventDataMap</a> <span class="keyword">const</span>&amp; <a class="code hl_enumeration" href="../../da/dc0/a03104.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a> = <a class="code hl_define" href="../../d5/da5/a01424.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetEventMap();</div>
-<div class="line"><span class="lineno"> 2029</span>    <a class="code hl_typedef" href="../../da/dac/a09111.html#a9d1e67f8edbe01fedd10c5fb0aeac2cf">GameEventMgr::ActiveEvents</a> <span class="keyword">const</span>&amp; ae = <a class="code hl_define" href="../../d5/da5/a01424.html#a3c1c916d94272dfe845b9cc5e8fc292a">sGameEventMgr</a>-&gt;GetActiveEventList();</div>
-<div class="line"><span class="lineno"> 2030</span> </div>
-<div class="line"><span class="lineno"> 2031</span>    <span class="keywordflow">for</span> (GameEventMgr::ActiveEvents::const_iterator itr = ae.begin(); itr != ae.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 2032</span>        <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../da/dc0/a03104.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>[*itr].HolidayId == <span class="keywordtype">id</span>)</div>
-<div class="line"><span class="lineno"> 2033</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2034</span> </div>
-<div class="line"><span class="lineno"> 2035</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 2036</span>}</div>
-<div class="ttc" id="aa03104_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../da/dc0/a03104.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition:</b> boss_sartura.cpp:43</div></div>
-<div class="ttc" id="aa04871_html_ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7"><div class="ttname"><a href="../../da/dbb/a04871.html#ad279224fea61f9754572051fc5ff1faba28168544ac4271e71835f87f564500f7">HOLIDAY_NONE</a></div><div class="ttdeci">@ HOLIDAY_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:2977</div></div>
-<div class="ttc" id="aa09111_html_a2d313485105c8ef04b27833f312a2601"><div class="ttname"><a href="../../da/dac/a09111.html#a2d313485105c8ef04b27833f312a2601">GameEventMgr::GameEventDataMap</a></div><div class="ttdeci">std::vector&lt; GameEventData &gt; GameEventDataMap</div><div class="ttdef"><b>Definition:</b> GameEventMgr.h:107</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02977">HOLIDAY_NONE</a>, and <a class="el" href="../../#l00201">sGameEventMgr</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l02347">Player::CanUseItem()</a>, <a class="el" href="../../#l00910">BattlegroundMgr::IsBGWeekend()</a>, <a class="el" href="../../#l02866">lfg::LFGMgr::IsSeasonActive()</a>, <a class="el" href="../../#l00303">AchievementCriteriaData::Meets()</a>, <a class="el" href="../../#l00180">npc_midsummer_bonfire::npc_midsummer_bonfire()</a>, <a class="el" href="../../#l00431">spell_bonfires_blessing::OnApply()</a>, <a class="el" href="../../#l00157">MidsummerPlayerScript::OnPlayerUpdateZone()</a>, <a class="el" href="../../#l01241">BattlegroundAV::SetupBattleground()</a>, <a class="el" href="../../#l00531">go_brewfest_music::go_brewfest_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00678">go_pirate_day_music::go_pirate_day_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00733">go_darkmoon_faire_music::go_darkmoon_faire_musicAI::UpdateAI()</a>, and <a class="el" href="../../#l00788">go_midsummer_music::go_midsummer_musicAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00169">AddEasternKingdomsScripts()</a>.</p>
 
 </div>
 </div>
@@ -218,8 +215,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_be7ddcf5a4570b7daa864eaef60ffbc7.html">Events</a></li><li class="navelem"><a class="el" href="../../d8/dd0/a01430.html">GameEventMgr.cpp</a></li>
-    <li class="footer">Generated on Mon Mar 23 2026 21:05:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_a884ae728646885af0028bc6e5a4566d.html">SunkenTemple</a></li><li class="navelem"><a class="el" href="../../d8/dd0/a01430.html">instance_sunken_temple.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 30 2026 21:10:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

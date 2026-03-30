@@ -1,6 +1,7 @@
 var a23994 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d6/df3/a23998.html", "d6/df3/a23998" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "d8/d4e/a23994.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "d8/d4e/a23994.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "HandlePeriodic", "d8/d4e/a23994.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "d8/d4e/a23994.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "d8/d4e/a23994.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "d8/d4e/a23994.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

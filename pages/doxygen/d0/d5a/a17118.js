@@ -1,5 +1,11 @@
 var a17118 =
 [
-    [ "boss_eydisAI", "d0/d5a/a17118.html#a0e97e184b2a2f610730cd3d455702955", null ],
-    [ "JustSummoned", "d0/d5a/a17118.html#aa5ae64cfe003a25859364a12cb871199", null ]
+    [ "npc_shadowy_mercenary", "d0/d5a/a17118.html#ae4e26a15f7ee0ba768a5ad6c18c8bc40", null ],
+    [ "AttackStart", "d0/d5a/a17118.html#a2851972b1fa6e3de4f79433e1308dd11", null ],
+    [ "DoAction", "d0/d5a/a17118.html#afba6e6565c04fe0b325a1ecf9d65ae80", null ],
+    [ "EnterEvadeMode", "d0/d5a/a17118.html#a71290c72bff2a91d7c5cc8d661f28bf9", null ],
+    [ "JustDied", "d0/d5a/a17118.html#a88cde525eb5d8db9fb2ffc30f18ddf61", null ],
+    [ "JustEngagedWith", "d0/d5a/a17118.html#aab9ac47fa72e7a7a6941aad190a18ebb", null ],
+    [ "Reset", "d0/d5a/a17118.html#aeedf803d4d6747ef505c11bb035c2c05", null ],
+    [ "UpdateAI", "d0/d5a/a17118.html#af36c113ac34b5e2db382c6d5f9d546e4", null ]
 ];

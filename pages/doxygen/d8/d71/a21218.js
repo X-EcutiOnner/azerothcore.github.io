@@ -1,6 +1,9 @@
 var a21218 =
 [
-    [ "HandleDummyEffect", "d8/d71/a21218.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "d8/d71/a21218.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "d8/d71/a21218.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "npc_azure_sorcerorAI", "d8/d71/a21218.html#a474a7144908d4820341dc56f77436b90", null ],
+    [ "Reset", "d8/d71/a21218.html#a4c637288f79e1da4bdace6516cd887b1", null ],
+    [ "UpdateAI", "d8/d71/a21218.html#a928d789e2cbd35b228857a23c4204ea1", null ],
+    [ "uiArcaneStreamTimer", "d8/d71/a21218.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
+    [ "uiArcaneStreamTimerStartingValueHolder", "d8/d71/a21218.html#af044879e8e064e28a491c87d0c6cde74", null ],
+    [ "uiManaDetonationTimer", "d8/d71/a21218.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
 ];

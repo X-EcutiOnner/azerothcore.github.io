@@ -1,11 +1,16 @@
 var a00242 =
 [
-    [ "AABound", "db/d6b/a05139.html", "db/d6b/a05139" ],
-    [ "BIH", "db/d58/a05143.html", "db/d58/a05143" ],
-    [ "BIH::buildData", "d2/d38/a05147.html", "d2/d38/a05147" ],
-    [ "BIH::StackNode", "df/dc5/a05151.html", "df/dc5/a05151" ],
-    [ "BIH::BuildStats", "db/d92/a05155.html", "db/d92/a05155" ],
-    [ "MAX_STACK_SIZE", "d2/dc8/a00242.html#accbb358028675c83675d8b34c386268d", null ],
-    [ "floatToRawIntBits", "d2/dc8/a00242.html#ad04403146f53e198de60b6c4bec4246e", null ],
-    [ "intBitsToFloat", "d2/dc8/a00242.html#a3b415e235398aa84c4f976084f8e130c", null ]
+    [ "MMAP::NavMeshDeleter", "dc/d72/a05218.html", "dc/d72/a05218" ],
+    [ "MMAP::NavMeshQueryDeleter", "d5/d9b/a05222.html", "d5/d9b/a05222" ],
+    [ "MMAP::MMapMgr", "d6/d11/a05226.html", "d6/d11/a05226" ],
+    [ "ManagedNavMeshQuery", "d2/dc8/a00242.html#aa9864ce68a669d59d8baee4cb742900b", null ],
+    [ "MMAP_LOAD_RESULT", "d2/dc8/a00242.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "d2/dc8/a00242.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d2/dc8/a00242.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d2/dc8/a00242.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88", null ]
+    ] ],
+    [ "dtCustomAlloc", "d2/dc8/a00242.html#a8c3ce5a3a39694b1e2f88333bcf5b8c7", null ],
+    [ "dtCustomFree", "d2/dc8/a00242.html#a2486cfb0dce2e78cd1bc4c379612e64b", null ],
+    [ "MAP_FILE_NAME_FORMAT", "d2/dc8/a00242.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "TILE_FILE_NAME_FORMAT", "d2/dc8/a00242.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
 ];

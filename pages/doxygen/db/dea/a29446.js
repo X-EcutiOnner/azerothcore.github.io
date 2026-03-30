@@ -1,10 +1,7 @@
 var a29446 =
 [
-    [ "area_id", "db/dea/a29446.html#acbd77950bf9548d266e568640cf38458", null ],
-    [ "map_id", "db/dea/a29446.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
-    [ "virtual_map_id", "db/dea/a29446.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
-    [ "x1", "db/dea/a29446.html#a78967fef40841f705c2564a177cb36f3", null ],
-    [ "x2", "db/dea/a29446.html#a037dca812715df0b4f2551f8684b537c", null ],
-    [ "y1", "db/dea/a29446.html#a7f90073656e1cd00a88add9f8d881d11", null ],
-    [ "y2", "db/dea/a29446.html#ad8e0164952e5565488d5443f269ec79e", null ]
+    [ "SetUp", "db/dea/a29446.html#a63d060f7643fc3d35eb4f0fd082f1af4", null ],
+    [ "TearDown", "db/dea/a29446.html#a685e2dbb620ab792ed3e952cf2b5dab8", null ],
+    [ "_originalWorld", "db/dea/a29446.html#aec7f3f7af8f936fb2419cee4be837eb7", null ],
+    [ "_worldMock", "db/dea/a29446.html#a2d10e74ba4f778b395a48eb68a586711", null ]
 ];

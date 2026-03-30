@@ -1,6 +1,6 @@
 var a12622 =
 [
-    [ "boss_solakar_flamewreathAI", "da/d03/a12626.html", "da/d03/a12626" ],
-    [ "boss_solakar_flamewreath", "df/dba/a12622.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
-    [ "GetAI", "df/dba/a12622.html#a0bd7971406392f15f68828ed217f4d06", null ]
+    [ "FilterTargets", "df/dba/a12622.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "df/dba/a12622.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "df/dba/a12622.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

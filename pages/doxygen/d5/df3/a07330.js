@@ -1,6 +1,9 @@
 var a07330 =
 [
-    [ "AuctionSortInfo", "d5/df3/a07330.html#a4ceca7230706e6906942306595686502", null ],
-    [ "isDesc", "d5/df3/a07330.html#a0077ee9a4d8727c460e07efd517ae0c6", null ],
-    [ "sortOrder", "d5/df3/a07330.html#ac6afc258e0eca83f8e2fd8996e83231b", null ]
+    [ "ObjectGuidVector", "d5/df3/a07330.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "d5/df3/a07330.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "d5/df3/a07330.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "d5/df3/a07330.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "d5/df3/a07330.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "d5/df3/a07330.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

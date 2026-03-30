@@ -1,6 +1,5 @@
 var a20418 =
 [
-    [ "FilterTargets", "d2/d4a/a20418.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d2/d4a/a20418.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d2/d4a/a20418.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "go_ulduar_working_harpoon", "d2/d4a/a20418.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
+    [ "OnGossipHello", "d2/d4a/a20418.html#a164bdd0a9538293699665a821c4f25f3", null ]
 ];

@@ -1,6 +1,6 @@
 var a24790 =
 [
-    [ "CalculateAmount", "da/dbb/a24790.html#a66fd870eff0f2a225630e26047d36225", null ],
-    [ "PrepareAuraScript", "da/dbb/a24790.html#afde8a1734c57e01094077af3d3bdf757", null ],
-    [ "Register", "da/dbb/a24790.html#a8e5b9dd71dfccb224e92784725f2a8a9", null ]
+    [ "ModDest", "da/dbb/a24790.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "da/dbb/a24790.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "da/dbb/a24790.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

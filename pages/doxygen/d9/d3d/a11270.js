@@ -1,8 +1,8 @@
 var a11270 =
 [
-    [ "TrainerBuyFailed", "d9/d3d/a11270.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
-    [ "Write", "d9/d3d/a11270.html#a75c3bff5da4699fc412793caef1b75af", null ],
-    [ "SpellID", "d9/d3d/a11270.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
-    [ "TrainerFailedReason", "d9/d3d/a11270.html#a746ff497fba16adb16bbb647dff385df", null ],
-    [ "TrainerGUID", "d9/d3d/a11270.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
+    [ "CrossedInebriationThreshold", "d9/d3d/a11270.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
+    [ "Write", "d9/d3d/a11270.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
+    [ "Guid", "d9/d3d/a11270.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
+    [ "ItemID", "d9/d3d/a11270.html#a9e48a650bf21872099cdb0626e875fd7", null ],
+    [ "Threshold", "d9/d3d/a11270.html#a87b756b64cbfb8f292f46cce38308095", null ]
 ];

@@ -1,6 +1,7 @@
 var a16818 =
 [
-    [ "boss_grand_championAI", "d1/d82/a16822.html", "d1/d82/a16822" ],
-    [ "boss_grand_champion", "d3/dfe/a16818.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "d3/dfe/a16818.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "HandleEffectPeriodic", "d3/dfe/a16818.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
+    [ "PrepareAuraScript", "d3/dfe/a16818.html#a66dcb98f38ed6b040928543015f59c9b", null ],
+    [ "Register", "d3/dfe/a16818.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
+    [ "Validate", "d3/dfe/a16818.html#a1131f0014f298b87483412d960bc0221", null ]
 ];

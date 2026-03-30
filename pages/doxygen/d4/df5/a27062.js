@@ -1,6 +1,8 @@
 var a27062 =
 [
-    [ "CheckRequirement", "d4/df5/a27062.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "d4/df5/a27062.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "d4/df5/a27062.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "CheckProc", "d4/df5/a27062.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
+    [ "HandleProc", "d4/df5/a27062.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
+    [ "PrepareAuraScript", "d4/df5/a27062.html#a91ef63b96918e797e677423d51f94112", null ],
+    [ "Register", "d4/df5/a27062.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
+    [ "Validate", "d4/df5/a27062.html#ab6178007664afc34556336ec9620cd4f", null ]
 ];

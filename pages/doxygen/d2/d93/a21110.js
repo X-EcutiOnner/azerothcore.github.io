@@ -1,14 +1,16 @@
 var a21110 =
 [
-    [ "boss_dalronn_the_controller", "d2/d93/a21110.html#a57718e928fa273bba3c40a05d5888a3d", null ],
-    [ "DoAction", "d2/d93/a21110.html#ad11e43d40a61f093b5e51482437467b8", null ],
-    [ "JustDied", "d2/d93/a21110.html#a28a669b56392b599e124573778e33134", null ],
-    [ "JustEngagedWith", "d2/d93/a21110.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
-    [ "JustSummoned", "d2/d93/a21110.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
-    [ "KilledUnit", "d2/d93/a21110.html#a96a173e30ad81c77217b0693d1d15839", null ],
-    [ "Reset", "d2/d93/a21110.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
-    [ "UpdateAI", "d2/d93/a21110.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
-    [ "events", "d2/d93/a21110.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
-    [ "pInstance", "d2/d93/a21110.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
-    [ "summons", "d2/d93/a21110.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
+    [ "boss_xevozzAI", "d2/d93/a21110.html#a422359074a43e84ee6462b61fc4ce6a9", null ],
+    [ "EnterEvadeMode", "d2/d93/a21110.html#a5557f799c862759c8fd94a98cadee7d5", null ],
+    [ "JustDied", "d2/d93/a21110.html#a6e66dec2e1bc198d9b3e855366ca8b02", null ],
+    [ "JustEngagedWith", "d2/d93/a21110.html#a0f8c06f3e0934eb22bf8a26aa3238b50", null ],
+    [ "JustSummoned", "d2/d93/a21110.html#a04787f7600a817fd63132676590505a8", null ],
+    [ "KilledUnit", "d2/d93/a21110.html#ad47008e9044815cc4475adbaf3ece543", null ],
+    [ "MoveInLineOfSight", "d2/d93/a21110.html#a519c1222ef186067dcb9a98bb84ea031", null ],
+    [ "Reset", "d2/d93/a21110.html#a435b22ca3c7e573d4e3c70e2497063e7", null ],
+    [ "SummonedCreatureDespawn", "d2/d93/a21110.html#ab6e7bb57110831079ede943a74641bd4", null ],
+    [ "UpdateAI", "d2/d93/a21110.html#aa61271e4a9d8e13ac875f6efd550aa4b", null ],
+    [ "events", "d2/d93/a21110.html#a8a5796089d42dad89c9cec5ea4d38321", null ],
+    [ "pInstance", "d2/d93/a21110.html#a9eda85f10a814efa32f7b224e1772b89", null ],
+    [ "spheres", "d2/d93/a21110.html#ab1d51bbfd433b37b8ceec15a18d62b17", null ]
 ];

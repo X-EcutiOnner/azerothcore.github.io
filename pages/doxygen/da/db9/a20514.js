@@ -1,6 +1,9 @@
 var a20514 =
 [
-    [ "HandleAfterEffectApply", "da/db9/a20514.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "da/db9/a20514.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "da/db9/a20514.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "npc_xt002_scrapbot", "da/db9/a20514.html#a0c7270ccbac5c12af8aaec998408046f", null ],
+    [ "JustDied", "da/db9/a20514.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0", null ],
+    [ "MovementInform", "da/db9/a20514.html#a7c167b396927f73736531b53056bc262", null ],
+    [ "Reset", "da/db9/a20514.html#aa9753f72910da1bb56a090e77fc029fb", null ],
+    [ "UpdateAI", "da/db9/a20514.html#a3f5cffc3225ced1ccdf3fc0964cc2c05", null ],
+    [ "_locked", "da/db9/a20514.html#aaa4e129ebea658b0f2e224e024f6010f", null ]
 ];

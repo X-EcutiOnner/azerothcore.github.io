@@ -1,7 +1,6 @@
 var a16190 =
 [
-    [ "npc_lakota_windsongAI", "d2/d07/a16190.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "d2/d07/a16190.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "d2/d07/a16190.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "d2/d07/a16190.html#a6435c8b1521206789131889e5fa527a6", null ]
+    [ "npc_anub_ar_crusher_necromancer", "d2/d07/a16190.html#a469d30b357551c4ce77f040bea79e951", null ],
+    [ "DoEngagedWith", "d2/d07/a16190.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
+    [ "DoEvent", "d2/d07/a16190.html#a67889b3a207ab26b7895e2f7996359b1", null ]
 ];

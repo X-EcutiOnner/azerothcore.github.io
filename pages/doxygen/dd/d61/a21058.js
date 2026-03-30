@@ -1,10 +1,14 @@
 var a21058 =
 [
-    [ "npc_ulduar_snow_mound", "dd/d61/a21058.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
-    [ "MoveInLineOfSight", "dd/d61/a21058.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
-    [ "UpdateAI", "dd/d61/a21058.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
-    [ "_activated", "dd/d61/a21058.html#ac48f6985d857276e0e59c2a429f5b359", null ],
-    [ "_count", "dd/d61/a21058.html#a1856c3bba24842f33720a83e1de40421", null ],
-    [ "_counter", "dd/d61/a21058.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
-    [ "_scheduler", "dd/d61/a21058.html#aafe42af9ba1402cad91326eb1037e476", null ]
+    [ "boss_erekemAI", "dd/d61/a21058.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
+    [ "EnterEvadeMode", "dd/d61/a21058.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
+    [ "GetChainHealTargetGUID", "dd/d61/a21058.html#aa346cbaded883bbb3806acf9cb32579a", null ],
+    [ "JustDied", "dd/d61/a21058.html#a12e7fb5389977dcacb4e1eadda771467", null ],
+    [ "JustEngagedWith", "dd/d61/a21058.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
+    [ "KilledUnit", "dd/d61/a21058.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
+    [ "MoveInLineOfSight", "dd/d61/a21058.html#a5905809cba20d426c4d222b1e91055bc", null ],
+    [ "Reset", "dd/d61/a21058.html#a338bbc123b1d3adef4f014c3302c4590", null ],
+    [ "UpdateAI", "dd/d61/a21058.html#a234ae447260ae30a137a53fb986e5dc4", null ],
+    [ "events", "dd/d61/a21058.html#a8d4445b6d35f534061818f7708f39f7e", null ],
+    [ "pInstance", "dd/d61/a21058.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
 ];

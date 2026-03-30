@@ -1,6 +1,7 @@
 var a10782 =
 [
-    [ "ShowingCloak", "d6/d2f/a10782.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
-    [ "Read", "d6/d2f/a10782.html#ad72ae43efc070655aa078d9985369442", null ],
-    [ "ShowCloak", "d6/d2f/a10782.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
+    [ "AutoStoreBankItem", "d6/d2f/a10782.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
+    [ "Read", "d6/d2f/a10782.html#a2a482b716f537866a815085ead9cfd38", null ],
+    [ "Bag", "d6/d2f/a10782.html#a08d2992816ee94b6757c2811b54ed437", null ],
+    [ "Slot", "d6/d2f/a10782.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
 ];

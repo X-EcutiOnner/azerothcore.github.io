@@ -1,9 +1,10 @@
 var a04877 =
 [
-    [ "SecretInfo", "d9/d8f/a29231.html", "d9/d8f/a29231" ],
-    [ "SECRET_FLAG", "db/dab/a04877.html#a70a4d0f8c2ee51e0b67794cea19657d1", null ],
-    [ "SECRET_FLAG_FOR", "db/dab/a04877.html#a7e7cfdab68c3e6a9600329d157ed30e7", null ],
-    [ "SecretFlags", "db/dab/a04877.html#a03463ea440a7f843bdf8415f362a49f5", null ],
-    [ "GetHexFromConfig", "db/dab/a04877.html#a39b73180b1b7c528faf5774c3a2a7676", null ],
-    [ "secret_info", "db/dab/a04877.html#a7a4c8b2d083fa8310d30aa4b21217766", null ]
+    [ "AddGossipItemFor", "db/dab/a04877.html#a21e32e886a589c9093660b3c4c58f72c", null ],
+    [ "AddGossipItemFor", "db/dab/a04877.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
+    [ "AddGossipItemFor", "db/dab/a04877.html#acd7e8e52a911742a99728cf9408e23b8", null ],
+    [ "ClearGossipMenuFor", "db/dab/a04877.html#af077a82741577a63a075c7d40b3b3dc5", null ],
+    [ "CloseGossipMenuFor", "db/dab/a04877.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
+    [ "SendGossipMenuFor", "db/dab/a04877.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
+    [ "SendGossipMenuFor", "db/dab/a04877.html#ab43ecd551b53630add88fbf882236f78", null ]
 ];

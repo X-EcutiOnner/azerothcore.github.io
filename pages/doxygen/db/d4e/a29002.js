@@ -1,28 +1,8 @@
 var a29002 =
 [
-    [ "GlobalConfig", "df/d31/a29014.html", "df/d31/a29014" ],
-    [ "MapOverride", "db/db4/a29010.html", "db/db4/a29010" ],
-    [ "TileOverride", "d7/d87/a29006.html", "d7/d87/a29006" ],
-    [ "~Config", "db/d4e/a29002.html#a32e93ca2b3ebe6e4c4e6bb23c38e5276", null ],
-    [ "Config", "db/d4e/a29002.html#a8547b1e7565930cf9667d1421eb9d267", null ],
-    [ "DataDirPath", "db/d4e/a29002.html#a33af3e24e093e879164fe46175f4576d", null ],
-    [ "FromFile", "db/d4e/a29002.html#aa3a2a700bdef67e8ecf1136d9592e915", null ],
-    [ "GetConfigForTile", "db/d4e/a29002.html#a1a69b4ed8e98cac54008e35743901416", null ],
-    [ "IsDebugOutputEnabled", "db/d4e/a29002.html#ad0b9f57ffc1645608baaa9fd40781f87", null ],
-    [ "LoadConfig", "db/d4e/a29002.html#a0f3def21b18d71a4c78d082fc24e5c77", null ],
-    [ "MapsPath", "db/d4e/a29002.html#a1d0f34239a4770006e4f53d0f28ba8ed", null ],
-    [ "MMapsPath", "db/d4e/a29002.html#a4c4885b899f29f8b7fdeaccbbf3c5c54", null ],
-    [ "ShouldSkipBattlegrounds", "db/d4e/a29002.html#ad1fa8cde32799df8cb2823c6519372a5", null ],
-    [ "ShouldSkipContinents", "db/d4e/a29002.html#aa977fc8babd09e07533870b4588d9778", null ],
-    [ "ShouldSkipJunkMaps", "db/d4e/a29002.html#ab417d85aec5a3320a54498320752161f", null ],
-    [ "ShouldSkipLiquid", "db/d4e/a29002.html#aebd66300e216ef00648901e06f5642f3", null ],
-    [ "VMapsPath", "db/d4e/a29002.html#a2339aca745ebdad517f79a89f29d1cf9", null ],
-    [ "_dataDir", "db/d4e/a29002.html#a33a4ab30ac8424499f7b11cffcd4740b", null ],
-    [ "_debugOutput", "db/d4e/a29002.html#a0e8b13fa0248da75567c086132f211ad", null ],
-    [ "_global", "db/d4e/a29002.html#a86d09da3b6ec6b938e4c6ba5caf90b92", null ],
-    [ "_maps", "db/d4e/a29002.html#afd31b92dc677d3410816388010438141", null ],
-    [ "_skipBattlegrounds", "db/d4e/a29002.html#a3ce8273432b0eb65c805adbbddb77d3d", null ],
-    [ "_skipContinents", "db/d4e/a29002.html#a3c5646fccb5fdc59340207d4deec7d1b", null ],
-    [ "_skipJunkMaps", "db/d4e/a29002.html#ad2f941932465884d64cd27fce82eaa33", null ],
-    [ "_skipLiquid", "db/d4e/a29002.html#afcac72fd98752013061aaca541011d1c", null ]
+    [ "ClassMask", "db/d4e/a29002.html#a563ba1618ffefa5470696e37f65c70d4", null ],
+    [ "Flags", "db/d4e/a29002.html#af89c32a22f018557fe016e0784a82384", null ],
+    [ "RaceMask", "db/d4e/a29002.html#acff47bf5c075d669f95b0d229674f9bc", null ],
+    [ "SkillID", "db/d4e/a29002.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
+    [ "SkillTierID", "db/d4e/a29002.html#ab6153043461b71336e12b00957499075", null ]
 ];

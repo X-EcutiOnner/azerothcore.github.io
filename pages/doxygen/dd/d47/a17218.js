@@ -1,8 +1,7 @@
 var a17218 =
 [
-    [ "HandleEffectApply", "dd/d47/a17218.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
-    [ "HandleEffectRemove", "dd/d47/a17218.html#a04504220319ec562b1b6691f471c1b8d", null ],
-    [ "PrepareAuraScript", "dd/d47/a17218.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
-    [ "Register", "dd/d47/a17218.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
-    [ "Validate", "dd/d47/a17218.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
+    [ "HandlePeriodicTick", "dd/d47/a17218.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
+    [ "PrepareAuraScript", "dd/d47/a17218.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
+    [ "Register", "dd/d47/a17218.html#a4653ccb0d93d056adf3b14056865787c", null ],
+    [ "Validate", "dd/d47/a17218.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
 ];

@@ -1,6 +1,7 @@
 var a23154 =
 [
-    [ "HandleEffectRemove", "df/d74/a23154.html#adfbbb75ace34ab5c0fec35e6aa88505a", null ],
-    [ "PrepareAuraScript", "df/d74/a23154.html#a94b91d27b9a218b5fdce91d6a6e72f62", null ],
-    [ "Register", "df/d74/a23154.html#a2b7fb2d6d0f92a970a45e0b9c409408d", null ]
+    [ "OnApply", "df/d74/a23154.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "df/d74/a23154.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "df/d74/a23154.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "df/d74/a23154.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

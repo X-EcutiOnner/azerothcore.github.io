@@ -1,6 +1,7 @@
 var a28214 =
 [
-    [ "go_brewfest_musicAI", "da/d91/a28218.html", "da/d91/a28218" ],
-    [ "go_brewfest_music", "d6/d5b/a28214.html#a787963a5ee591933d62fdb52911f9a77", null ],
-    [ "GetAI", "d6/d5b/a28214.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
+    [ "npc_doctorAI", "da/d91/a28218.html", "da/d91/a28218" ],
+    [ "npc_doctor", "d6/d5b/a28214.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "d6/d5b/a28214.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "d6/d5b/a28214.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

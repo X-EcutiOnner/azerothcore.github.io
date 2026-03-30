@@ -1,16 +1,15 @@
 var a14130 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "d9/d6f/a14130.html#aa0fc35194d16d63854926d4266569d77", null ],
-    [ "DamageTaken", "d9/d6f/a14130.html#a46f47c937db63c2cd12331bce4e251cf", null ],
-    [ "EnterEvadeMode", "d9/d6f/a14130.html#a55b6176ee579f5f320ce36b63f83d314", null ],
-    [ "JustSummoned", "d9/d6f/a14130.html#aa23391bbed38571a86508b4c87e5c66c", null ],
-    [ "MovementInform", "d9/d6f/a14130.html#a5f47c72447c197642a0081e544095489", null ],
-    [ "Reset", "d9/d6f/a14130.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
-    [ "SetData", "d9/d6f/a14130.html#a24293b807b8999acbb6fbe59e3c06232", null ],
-    [ "SummonedCreatureDespawn", "d9/d6f/a14130.html#a095587a925d6054da2e2fdc9de2b415e", null ],
-    [ "UpdateAI", "d9/d6f/a14130.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
-    [ "events", "d9/d6f/a14130.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
-    [ "morlenGUID", "d9/d6f/a14130.html#aefe243dea75b1aac366fae1395e0e398", null ],
-    [ "playerGUID", "d9/d6f/a14130.html#ab93ca177abc21647a1162006ed50a551", null ],
-    [ "summons", "d9/d6f/a14130.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
+    [ "npc_janalai_hatcher", "d9/d6f/a14130.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
+    [ "AttackStart", "d9/d6f/a14130.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
+    [ "JustEngagedWith", "d9/d6f/a14130.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
+    [ "MoveInLineOfSight", "d9/d6f/a14130.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
+    [ "MovementInform", "d9/d6f/a14130.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
+    [ "MoveToNewWaypoint", "d9/d6f/a14130.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
+    [ "Reset", "d9/d6f/a14130.html#ab1c3945160c55b2b2d63763eacced473", null ],
+    [ "UpdateAI", "d9/d6f/a14130.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
+    [ "_isHatching", "d9/d6f/a14130.html#aae712db69c870d00d07a37b8611ecaf4", null ],
+    [ "_repeatCount", "d9/d6f/a14130.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
+    [ "_side", "d9/d6f/a14130.html#a177ddd5ff96902363ab708f0c737fc20", null ],
+    [ "_waypoint", "d9/d6f/a14130.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
 ];

@@ -1,7 +1,12 @@
 var a28126 =
 [
-    [ "FilterTargets", "d5/d28/a28126.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d5/d28/a28126.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d5/d28/a28126.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d5/d28/a28126.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "npc_preciousAI", "d5/d28/a28126.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
+    [ "FlagForDespawn", "d5/d28/a28126.html#a934a5147c1cc9937189011fb061657da", null ],
+    [ "InitializeAI", "d5/d28/a28126.html#aa15843c4029f2df2ee04d21b5157602a", null ],
+    [ "JustEngagedWith", "d5/d28/a28126.html#a58bc4149111605850f070a77ee776313", null ],
+    [ "JustReachedHome", "d5/d28/a28126.html#a31893e9441b24398554370a58ef8bd78", null ],
+    [ "Reset", "d5/d28/a28126.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
+    [ "UpdateAI", "d5/d28/a28126.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
+    [ "events", "d5/d28/a28126.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
+    [ "flaggedForDespawn", "d5/d28/a28126.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
 ];

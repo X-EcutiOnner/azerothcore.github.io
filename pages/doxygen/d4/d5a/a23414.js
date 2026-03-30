@@ -1,12 +1,10 @@
 var a23414 =
 [
-    [ "boss_swamplord_muselek", "d4/d5a/a23414.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "d4/d5a/a23414.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "d4/d5a/a23414.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "d4/d5a/a23414.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "d4/d5a/a23414.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "d4/d5a/a23414.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "d4/d5a/a23414.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "d4/d5a/a23414.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "d4/d5a/a23414.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "boss_harbinger_skyriss", "d4/d5a/a23414.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "d4/d5a/a23414.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "d4/d5a/a23414.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "d4/d5a/a23414.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "d4/d5a/a23414.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "d4/d5a/a23414.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "d4/d5a/a23414.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

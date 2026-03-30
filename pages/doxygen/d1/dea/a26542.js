@@ -1,6 +1,6 @@
 var a26542 =
 [
-    [ "CalculateAmount", "d1/dea/a26542.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
-    [ "PrepareAuraScript", "d1/dea/a26542.html#a667883298cee173af941cfc07022f318", null ],
-    [ "Register", "d1/dea/a26542.html#a22514461b79f736e3ab595fa7fb48b68", null ]
+    [ "FilterTargets", "d1/dea/a26542.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
+    [ "PrepareSpellScript", "d1/dea/a26542.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
+    [ "Register", "d1/dea/a26542.html#a4db02c58be57a797c26b07656d1b5409", null ]
 ];

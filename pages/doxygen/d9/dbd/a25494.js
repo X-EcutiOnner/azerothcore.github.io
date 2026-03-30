@@ -1,7 +1,7 @@
 var a25494 =
 [
-    [ "OnRemove", "d9/dbd/a25494.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
-    [ "PrepareAuraScript", "d9/dbd/a25494.html#ac2b1a2311f97ab427439b45fb0770063", null ],
-    [ "Register", "d9/dbd/a25494.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
-    [ "Validate", "d9/dbd/a25494.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
+    [ "HandleScriptEffect", "d9/dbd/a25494.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "d9/dbd/a25494.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "d9/dbd/a25494.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "d9/dbd/a25494.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

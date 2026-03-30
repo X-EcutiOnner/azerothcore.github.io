@@ -1,7 +1,8 @@
 var a10078 =
 [
-    [ "ownerGUID", "d6/dd8/a10078.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "d6/dd8/a10078.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "d6/dd8/a10078.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "d6/dd8/a10078.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "BoundaryUnionBoundary", "d6/dd8/a10078.html#a074536112fffc805dec44bd9cd602642", null ],
+    [ "~BoundaryUnionBoundary", "d6/dd8/a10078.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
+    [ "IsWithinBoundaryArea", "d6/dd8/a10078.html#a8dc91861fa6641008236e5a83030e0d1", null ],
+    [ "_b1", "d6/dd8/a10078.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
+    [ "_b2", "d6/dd8/a10078.html#ae70530673803bd2ee85bf722fe42718b", null ]
 ];

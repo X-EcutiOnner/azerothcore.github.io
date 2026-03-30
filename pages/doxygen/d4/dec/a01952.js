@@ -1,8 +1,8 @@
 var a01952 =
 [
-    [ "WorldPackets::Query::NameQuery", "de/d77/a11353.html", "de/d77/a11353" ],
-    [ "WorldPackets::Query::NameQueryResponse", "da/d90/a11357.html", "da/d90/a11357" ],
-    [ "WorldPackets::Query::TimeQuery", "d3/d97/a11361.html", "d3/d97/a11361" ],
-    [ "WorldPackets::Query::TimeQueryResponse", "db/dbd/a11365.html", "db/dbd/a11365" ],
-    [ "WorldPackets::Query::CorpseMapPositionQuery", "df/d07/a11369.html", "df/d07/a11369" ]
+    [ "QuestApprenticeAnglerPlayerScript", "de/d08/a28330.html", "de/d08/a28330" ],
+    [ "ApprenticeAnglerQuestEnum", "d4/dec/a01952.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
+      [ "QUEST_APPRENTICE_ANGLER", "d4/dec/a01952.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
+    ] ],
+    [ "AddSC_player_scripts", "d4/dec/a01952.html#a1f476a8466c12651b57fd55bf13b9617", null ]
 ];

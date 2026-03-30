@@ -1,6 +1,9 @@
 var a12418 =
 [
-    [ "boss_draganthaurissanAI", "d6/d8d/a12422.html", "d6/d8d/a12422" ],
-    [ "boss_emperor_dagran_thaurissan", "de/d17/a12418.html#a8332d74b5aa1528d5687084932419ad1", null ],
-    [ "GetAI", "de/d17/a12418.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
+    [ "npc_phalanx", "de/d17/a12418.html#a03c79151dcdc13fef4ce83957addd44a", null ],
+    [ "Reset", "de/d17/a12418.html#a9297d5fb869eb9a65ef9143a56347a53", null ],
+    [ "UpdateAI", "de/d17/a12418.html#aad01cc9d5ac167c21547e8b0b2bda4a7", null ],
+    [ "_fireballVolleyTimer", "de/d17/a12418.html#a54ad76cd7e8d3be058ad3d5153e5b144", null ],
+    [ "_mightyBlowTimer", "de/d17/a12418.html#ad59e6e32b53dbf797bc62e116ae2a12d", null ],
+    [ "_thunderClapTimer", "de/d17/a12418.html#a3b0c33207bf5090abeb9860585c222b4", null ]
 ];

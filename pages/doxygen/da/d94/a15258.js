@@ -1,12 +1,7 @@
 var a15258 =
 [
-    [ "boss_mal_ganisAI", "da/d94/a15258.html#aa8b70930372cd0729686f7c6032d3152", null ],
-    [ "DamageTaken", "da/d94/a15258.html#a4873386266ce3b4b849377028ff746a5", null ],
-    [ "JustDied", "da/d94/a15258.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
-    [ "JustEngagedWith", "da/d94/a15258.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
-    [ "KilledUnit", "da/d94/a15258.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
-    [ "Reset", "da/d94/a15258.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
-    [ "UpdateAI", "da/d94/a15258.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
-    [ "events", "da/d94/a15258.html#a194c002efe244b8c94a072faf72be771", null ],
-    [ "finished", "da/d94/a15258.html#ac4c90c814aa55781f863c958253e9df2", null ]
+    [ "npc_hive_zara_larva", "da/d94/a15258.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "da/d94/a15258.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "da/d94/a15258.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "da/d94/a15258.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

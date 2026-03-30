@@ -1,8 +1,6 @@
 var a21738 =
 [
-    [ "npc_future_youAI", "de/ded/a21738.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "de/ded/a21738.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "de/ded/a21738.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "de/ded/a21738.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "de/ded/a21738.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_black_knight_graveyardAI", "d8/d89/a21742.html", "d8/d89/a21742" ],
+    [ "npc_black_knight_graveyard", "de/ded/a21738.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
+    [ "GetAI", "de/ded/a21738.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
 ];

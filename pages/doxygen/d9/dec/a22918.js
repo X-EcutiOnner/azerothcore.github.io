@@ -1,8 +1,5 @@
 var a22918 =
 [
-    [ "HandleEffectApply", "d9/dec/a22918.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "d9/dec/a22918.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "d9/dec/a22918.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "d9/dec/a22918.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "d9/dec/a22918.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "go_strange_pool", "d9/dec/a22918.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "d9/dec/a22918.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

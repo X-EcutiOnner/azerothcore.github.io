@@ -1,7 +1,7 @@
 var a12810 =
 [
-    [ "HandlePeriodic", "d3/de0/a12810.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "d3/de0/a12810.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "d3/de0/a12810.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "d3/de0/a12810.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "HandleScript", "d3/de0/a12810.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
+    [ "PrepareSpellScript", "d3/de0/a12810.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
+    [ "Register", "d3/de0/a12810.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
+    [ "Validate", "d3/de0/a12810.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
 ];

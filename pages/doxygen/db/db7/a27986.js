@@ -1,6 +1,5 @@
 var a27986 =
 [
-    [ "achievement_arena_by_type", "db/db7/a27986.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "db/db7/a27986.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "db/db7/a27986.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "go_jotunheim_cage", "db/db7/a27986.html#a28c9312de97a822e34f05c7358b42df4", null ],
+    [ "OnGossipHello", "db/db7/a27986.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
 ];

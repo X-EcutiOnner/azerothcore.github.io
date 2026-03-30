@@ -1,7 +1,8 @@
 var a26526 =
 [
-    [ "CalculateAmount", "d2/d94/a26526.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "d2/d94/a26526.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "d2/d94/a26526.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "d2/d94/a26526.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "CheckProc", "d2/d94/a26526.html#acfdb90639eb05a5ec252c20c9f302fed", null ],
+    [ "HandleProc", "d2/d94/a26526.html#aa2e48771627700ee12153b13a094cea8", null ],
+    [ "PrepareAuraScript", "d2/d94/a26526.html#a0fec47a0918ecfe3517c63190b27e91c", null ],
+    [ "Register", "d2/d94/a26526.html#a88b06e814ade33fad51c8036d963f654", null ],
+    [ "Validate", "d2/d94/a26526.html#ae9911ba6c95cfc6c345743b0f970062b", null ]
 ];

@@ -1,7 +1,5 @@
 var a05011 =
 [
-    [ "For", "d4/d98/a05782.html", null ],
-    [ "For< bool, void >", "d3/d09/a05790.html", "d3/d09/a05790" ],
-    [ "For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "d4/dc2/a05794.html", "d4/dc2/a05794" ],
-    [ "For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "d5/d95/a05786.html", "d5/d95/a05786" ]
+    [ "ip", "db/dd9/a05012.html", "db/dd9/a05012" ],
+    [ "time_traits", "dc/de6/a05126.html", null ]
 ];

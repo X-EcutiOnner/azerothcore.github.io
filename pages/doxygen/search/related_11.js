@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['wardenmac_0',['WardenMac',['../d1/da9/a12011.html#ac5a815f5f6527a3588c6cd138a02f7d2',1,'Warden']]],
-  ['wardenwin_1',['WardenWin',['../d1/da9/a12011.html#a7e8075b64a48dea5876b9199aeb75717',1,'Warden']]],
-  ['world_2',['World',['../d3/dd5/a11531.html#a7b4bcdf992c21ae83363f25df05b1d25',1,'WorldSession::World()'],['../d8/dad/a11535.html#a7b4bcdf992c21ae83363f25df05b1d25',1,'WorldSession::DosProtection::World()']]],
-  ['worldsession_3',['WorldSession',['../d8/d0c/a08895.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'Player::WorldSession()'],['../dd/d61/a11511.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterCreateInfo::WorldSession()'],['../db/df7/a11515.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterRenameInfo::WorldSession()'],['../dc/d96/a11519.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterCustomizeInfo::WorldSession()'],['../d7/d61/a11523.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterFactionChangeInfo::WorldSession()']]]
+  ['wardenmac_0',['WardenMac',['../d7/d87/a12018.html#ac5a815f5f6527a3588c6cd138a02f7d2',1,'Warden']]],
+  ['wardenwin_1',['WardenWin',['../d7/d87/a12018.html#a7e8075b64a48dea5876b9199aeb75717',1,'Warden']]],
+  ['world_2',['World',['../dd/d35/a11538.html#a7b4bcdf992c21ae83363f25df05b1d25',1,'WorldSession::World()'],['../d2/df7/a11542.html#a7b4bcdf992c21ae83363f25df05b1d25',1,'WorldSession::DosProtection::World()']]],
+  ['worldsession_3',['WorldSession',['../d2/df8/a08902.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'Player::WorldSession()'],['../d9/db3/a11518.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterCreateInfo::WorldSession()'],['../d6/d79/a11522.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterRenameInfo::WorldSession()'],['../da/dbd/a11526.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterCustomizeInfo::WorldSession()'],['../d7/d90/a11530.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterFactionChangeInfo::WorldSession()']]]
 ];

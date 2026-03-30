@@ -1,7 +1,6 @@
 var a22870 =
 [
-    [ "CheckProc", "da/d65/a22870.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "da/d65/a22870.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "da/d65/a22870.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "da/d65/a22870.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "HandleScriptEffect", "da/d65/a22870.html#a766edc5924124c869b04ec82cd2bc693", null ],
+    [ "PrepareSpellScript", "da/d65/a22870.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
+    [ "Register", "da/d65/a22870.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
 ];

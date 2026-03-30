@@ -1,7 +1,6 @@
 var a27770 =
 [
-    [ "HandleProc", "d9/d65/a27770.html#a864e976a61091512a7eab904e5390234", null ],
-    [ "PrepareAuraScript", "d9/d65/a27770.html#a8cd8814aa7c53aa28399b4ff51f0fa41", null ],
-    [ "Register", "d9/d65/a27770.html#a8509759360e3443ceca9a9fcbd729996", null ],
-    [ "Validate", "d9/d65/a27770.html#a7687471989fc9595e36201dba74b8689", null ]
+    [ "npc_dream_fogAI", "d1/d67/a27774.html", "d1/d67/a27774" ],
+    [ "npc_dream_fog", "d9/d65/a27770.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "d9/d65/a27770.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

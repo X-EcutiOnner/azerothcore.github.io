@@ -1,7 +1,7 @@
 var a25334 =
 [
-    [ "PrepareSpellScript", "d2/d4a/a25334.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "d2/d4a/a25334.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "d2/d4a/a25334.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "d2/d4a/a25334.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "HandleDummy", "d2/d4a/a25334.html#a84430c269e419acd94a2d0520b9ca639", null ],
+    [ "PrepareSpellScript", "d2/d4a/a25334.html#a8ec4e9cea213739825126111d038d1a5", null ],
+    [ "Register", "d2/d4a/a25334.html#a1abee3e5f324875aab8dd666ac417308", null ],
+    [ "Validate", "d2/d4a/a25334.html#a393043b94f50d9379a987f9b49b8abde", null ]
 ];

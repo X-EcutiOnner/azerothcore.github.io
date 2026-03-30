@@ -1,9 +1,11 @@
 var a01931 =
 [
-    [ "PacketLog", "de/d86/a11479.html", "de/d86/a11479" ],
-    [ "sPacketLog", "d5/d31/a01931.html#a14b702138c7f0a62a900dfc8eecc1f6f", null ],
-    [ "Direction", "d5/d31/a01931.html#a224b9163917ac32fc95a60d8c1eec3aa", [
-      [ "CLIENT_TO_SERVER", "d5/d31/a01931.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476", null ],
-      [ "SERVER_TO_CLIENT", "d5/d31/a01931.html#a224b9163917ac32fc95a60d8c1eec3aaa0df224cab9714b02d0718697fbce48a3", null ]
-    ] ]
+    [ "npc_innkeeper", "d6/d48/a28086.html", "d6/d48/a28086" ],
+    [ "AddSC_npc_innkeeper", "d5/d31/a01931.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "GOSSIP_MENU", "d5/d31/a01931.html#a3115623eb3e0408aad7cd637686aaaee", null ],
+    [ "GOSSIP_MENU_EVENT", "d5/d31/a01931.html#a6bb09725b9e6b10b76686a9059038e6b", null ],
+    [ "HALLOWEEN_EVENTID", "d5/d31/a01931.html#a2e23760d3d379f3fa92c139f067b5984", null ],
+    [ "SPELL_TREAT", "d5/d31/a01931.html#a072a033da374692139d9d33e63be89ca", null ],
+    [ "SPELL_TRICK", "d5/d31/a01931.html#ad2b2ba30383cca3be221f38a809e2da1", null ],
+    [ "SPELL_TRICKED_OR_TREATED", "d5/d31/a01931.html#a022e344eaf73aa8ab6655d2c6aaac688", null ]
 ];

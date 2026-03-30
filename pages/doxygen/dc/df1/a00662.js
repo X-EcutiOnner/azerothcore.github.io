@@ -1,10 +1,26 @@
 var a00662 =
 [
-    [ "MockArenaSeasonTeamRewarder", "db/deb/a29395.html", "db/deb/a29395" ],
-    [ "ArenaSeasonRewardDistributorTest", "d7/d69/a29399.html", "d7/d69/a29399" ],
-    [ "ArenaTeamWithRating", "dc/df1/a00662.html#a74bb31c469b2f6e9691219589ac41a12", null ],
-    [ "TEST_F", "dc/df1/a00662.html#acd40406191e1dacb6e7400210157262a", null ],
-    [ "TEST_F", "dc/df1/a00662.html#a7bfddbb1d9978546d0eff10b29942b32", null ],
-    [ "TEST_F", "dc/df1/a00662.html#a5a69347e03ab5eeea43bfcbffb063d52", null ],
-    [ "TEST_F", "dc/df1/a00662.html#a1ba0a1dda2222e2d5931f54c84ed5162", null ]
+    [ "MissileBarrageTest", "d4/d5c/a29562.html", "d4/d5c/a29562" ],
+    [ "CalculateEffectiveProcRate", "dc/df1/a00662.html#ac2dda4615e476c49664c332dfe3e309b", null ],
+    [ "SimulateMissileBarrageCheckProc", "dc/df1/a00662.html#aefcad72982a8fa6f771f8bef56c3070c", null ],
+    [ "TEST_F", "dc/df1/a00662.html#a7adabded91ba82360d8d9b6b1d5132ea", null ],
+    [ "TEST_F", "dc/df1/a00662.html#a8fa33be2273b532d781422d25e8b6672", null ],
+    [ "TEST_F", "dc/df1/a00662.html#a06d413749aa2d93773f002946e384e45", null ],
+    [ "TEST_F", "dc/df1/a00662.html#a5db2f0c8c8e20002a5c60de95fbecda3", null ],
+    [ "TEST_F", "dc/df1/a00662.html#a70c0b2737c1badc539277422564cad49", null ],
+    [ "TEST_F", "dc/df1/a00662.html#a9c89bbafdb493683c8e42950deff3582", null ],
+    [ "TEST_F", "dc/df1/a00662.html#a9d499aeaaf23a19ea19dd0175bc5df38", null ],
+    [ "TEST_F", "dc/df1/a00662.html#ab4a6da10f775c2bfa3a120cf6ec09973", null ],
+    [ "TEST_F", "dc/df1/a00662.html#acd2cc80be83d1ce20f5f41d590dcbd82", null ],
+    [ "TEST_F", "dc/df1/a00662.html#a574495213ded418bae43ebae94186bd0", null ],
+    [ "TEST_F", "dc/df1/a00662.html#ab39746f7c4ec98445dc62c1bc5cb7265", null ],
+    [ "TEST_F", "dc/df1/a00662.html#aaae02d3218c11e06e93c5ee51f073546", null ],
+    [ "TEST_F", "dc/df1/a00662.html#aeab0a3a6edde33d54feef5dd9ceea629", null ],
+    [ "TEST_F", "dc/df1/a00662.html#ab581bb40fc8c18dc8273db253cad2d44", null ],
+    [ "TEST_F", "dc/df1/a00662.html#ad0e7264881bbb5fe5752d47c56930961", null ],
+    [ "ARCANE_BARRAGE", "dc/df1/a00662.html#abfd925917520301832811c8b3b1b8ae3", null ],
+    [ "ARCANE_BLAST", "dc/df1/a00662.html#a3cf9b20a3fe729ee462b2431e9ba830f", null ],
+    [ "ARCANE_MISSILES", "dc/df1/a00662.html#ab9ece6fbb0862f8f3dce9aa99843c805", null ],
+    [ "FIREBALL", "dc/df1/a00662.html#ae58d0c097ed2d1cccbf272f42b835d52", null ],
+    [ "FROSTFIRE_BOLT", "dc/df1/a00662.html#ae8bd1511afd5de6e1475292711b50296", null ]
 ];

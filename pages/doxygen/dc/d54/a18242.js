@@ -1,22 +1,11 @@
 var a18242 =
 [
-    [ "boss_lady_deathwhisperAI", "dc/d54/a18242.html#a277180410090d1857bcc8962e22d965d", null ],
-    [ "AttackStart", "dc/d54/a18242.html#a95268fc3088ecb1e0689bc502389eed1", null ],
-    [ "DamageTaken", "dc/d54/a18242.html#a929dea6ce420f201341a20ab5d9273ed", null ],
-    [ "DoAction", "dc/d54/a18242.html#a563f30e5e2a46c514cb114ef72dfa9e8", null ],
-    [ "EmpowerCultist", "dc/d54/a18242.html#afc8a2df592e16bbac65a7aee4e6c7c95", null ],
-    [ "JustDied", "dc/d54/a18242.html#a974094ecbdc1149ca3d1eec9211438df", null ],
-    [ "JustEngagedWith", "dc/d54/a18242.html#ac56045f2aa26423bd69e97d8f279cf5e", null ],
-    [ "JustSummoned", "dc/d54/a18242.html#a6ab4dc86911debb47e9d1784cb65dbb8", null ],
-    [ "KilledUnit", "dc/d54/a18242.html#a325834b73d181e0506e1ea40380cddac", null ],
-    [ "Reset", "dc/d54/a18242.html#a7eec8900602522cf39dd3a8dba733649", null ],
-    [ "SpellHitTarget", "dc/d54/a18242.html#a868b18df67744868a8f694e7df7f1e66", null ],
-    [ "Summon", "dc/d54/a18242.html#a933a9e13ca59d1d1049038f9f182470b", null ],
-    [ "SummonedCreatureDespawn", "dc/d54/a18242.html#aa630ff1884cf1ebaa189c094d2278a1f", null ],
-    [ "SummonWaveP1", "dc/d54/a18242.html#ad0cf8e10b041409868b8b75558f07e1b", null ],
-    [ "SummonWaveP2", "dc/d54/a18242.html#a72971bdfe394da6fe94ce340143ab060", null ],
-    [ "UpdateAI", "dc/d54/a18242.html#af602295a448fca10719861983a567d99", null ],
-    [ "_darnavanGUID", "dc/d54/a18242.html#af4f251406b3a4ae3db32e83005993dfa", null ],
-    [ "_introDone", "dc/d54/a18242.html#a162870aad6c99276f760b2e37b42c6c9", null ],
-    [ "_waveCounter", "dc/d54/a18242.html#ab2819e4ade2c7a07d1d0a67d86063f16", null ]
+    [ "npc_ice_tombAI", "dc/d54/a18242.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "dc/d54/a18242.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "dc/d54/a18242.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "dc/d54/a18242.html#ac406bece1d1f1517b5837e311feef9ae", null ],
+    [ "UpdateAI", "dc/d54/a18242.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "dc/d54/a18242.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "dc/d54/a18242.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "dc/d54/a18242.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

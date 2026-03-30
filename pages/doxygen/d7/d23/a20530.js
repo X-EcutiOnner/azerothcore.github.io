@@ -1,5 +1,7 @@
 var a20530 =
 [
-    [ "achievement_i_have_the_coolest_friends", "d7/d23/a20530.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "d7/d23/a20530.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "npc_xt002_life_spark", "d7/d23/a20530.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
+    [ "Reset", "d7/d23/a20530.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
+    [ "UpdateAI", "d7/d23/a20530.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
+    [ "_attackTimer", "d7/d23/a20530.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
 ];

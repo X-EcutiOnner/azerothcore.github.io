@@ -1,6 +1,8 @@
 var a19142 =
 [
-    [ "npc_captain_arnathAI", "df/db6/a19146.html", "df/db6/a19146" ],
-    [ "npc_captain_arnath", "df/d33/a19142.html#ab96afce64a7714ea84bab932f80c9302", null ],
-    [ "GetAI", "df/d33/a19142.html#a302ec007389e677011334d78f410207b", null ]
+    [ "HandleScript", "df/d33/a19142.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "df/d33/a19142.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "df/d33/a19142.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "df/d33/a19142.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "df/d33/a19142.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

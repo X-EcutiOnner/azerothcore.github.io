@@ -1,7 +1,7 @@
 var a16134 =
 [
-    [ "npc_steward_of_time", "d6/d36/a16134.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "d6/d36/a16134.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "d6/d36/a16134.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "d6/d36/a16134.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "HandleScript", "d6/d36/a16134.html#ae9939f2795b8ba428277c7d658af715c", null ],
+    [ "PrepareSpellScript", "d6/d36/a16134.html#aabe244008103ff317e3fc1e26b04115a", null ],
+    [ "Register", "d6/d36/a16134.html#a4f492bdd96ef190354f37c95217bb696", null ],
+    [ "Validate", "d6/d36/a16134.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
 ];

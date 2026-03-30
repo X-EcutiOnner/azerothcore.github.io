@@ -1,7 +1,6 @@
 var a26022 =
 [
-    [ "HandleScript", "dc/ddf/a26022.html#a7c7f92d21898322c501f582a524f4052", null ],
-    [ "Load", "dc/ddf/a26022.html#a600eb87e8bbedd3504e3d259f89e3785", null ],
-    [ "PrepareSpellScript", "dc/ddf/a26022.html#a8ae826705bd1a1f1da3160be73926d7b", null ],
-    [ "Register", "dc/ddf/a26022.html#abda715e38cf19fa7276ec4f4a12d3b63", null ]
+    [ "HandleStackDrop", "dc/ddf/a26022.html#a8e452c968558f3bd273b18a8055745d2", null ],
+    [ "PrepareAuraScript", "dc/ddf/a26022.html#aa18e4975db4e2831c61f38d990886676", null ],
+    [ "Register", "dc/ddf/a26022.html#a04ebc4be3fea42ca2352fd441841f76e", null ]
 ];

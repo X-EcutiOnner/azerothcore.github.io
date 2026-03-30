@@ -1,6 +1,6 @@
 var a17574 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "dc/de0/a17578.html", "dc/de0/a17578" ],
-    [ "npc_pos_tyrannus_events", "df/d32/a17574.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
-    [ "GetAI", "df/d32/a17574.html#ae5863e99d77815de71c1774e908b3f65", null ]
+    [ "FilterTargets", "df/d32/a17574.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
+    [ "PrepareSpellScript", "df/d32/a17574.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
+    [ "Register", "df/d32/a17574.html#add40d7731b07b30b595f76f7d4e983f4", null ]
 ];

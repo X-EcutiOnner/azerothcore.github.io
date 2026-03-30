@@ -1,6 +1,6 @@
 var a22394 =
 [
-    [ "HandleSummon", "d4/d01/a22394.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "d4/d01/a22394.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "d4/d01/a22394.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "PrepareSpellScript", "d4/d01/a22394.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "d4/d01/a22394.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "d4/d01/a22394.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

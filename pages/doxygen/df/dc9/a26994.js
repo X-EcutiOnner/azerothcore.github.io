@@ -1,6 +1,11 @@
 var a26994 =
 [
-    [ "CheckCast", "df/dc9/a26994.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "df/dc9/a26994.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "df/dc9/a26994.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "AddTarget", "df/dc9/a26994.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "df/dc9/a26994.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "df/dc9/a26994.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "df/dc9/a26994.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "df/dc9/a26994.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "df/dc9/a26994.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "df/dc9/a26994.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "df/dc9/a26994.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

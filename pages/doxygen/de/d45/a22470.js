@@ -1,6 +1,7 @@
 var a22470 =
 [
-    [ "FilterTargets", "de/d45/a22470.html#a4d81860c41daab44851da605d38b4753", null ],
-    [ "PrepareSpellScript", "de/d45/a22470.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
-    [ "Register", "de/d45/a22470.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
+    [ "OnPeriodic", "de/d45/a22470.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
+    [ "PrepareAuraScript", "de/d45/a22470.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
+    [ "Register", "de/d45/a22470.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
+    [ "Validate", "de/d45/a22470.html#a006d67e9e82cce68930b90b00d3555a4", null ]
 ];

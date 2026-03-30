@@ -1,10 +1,11 @@
 var a21126 =
 [
-    [ "npc_enslaved_proto_drake", "d9/daa/a21126.html#aec835fdc8b1beb270176d5341d26c265", null ],
-    [ "MovementInform", "d9/daa/a21126.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
-    [ "Reset", "d9/daa/a21126.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
-    [ "SetData", "d9/daa/a21126.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
-    [ "UpdateAI", "d9/daa/a21126.html#a252f84198df610bac44b6bd9cd80602e", null ],
-    [ "_events", "d9/daa/a21126.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
-    [ "_setData", "d9/daa/a21126.html#adb997badd8831dea7763eaecc93b7773", null ]
+    [ "npc_vh_void_sentryAI", "d9/daa/a21126.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
+    [ "DoAction", "d9/daa/a21126.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
+    [ "JustDied", "d9/daa/a21126.html#add5121ed38a74be9ae168df5f893f89e", null ],
+    [ "SummonedCreatureDespawn", "d9/daa/a21126.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
+    [ "UpdateAI", "d9/daa/a21126.html#ae1f683d5ef920213c9c86da35c626381", null ],
+    [ "checkTimer", "d9/daa/a21126.html#a675bcae4119e45490403013534c731ef", null ],
+    [ "pInstance", "d9/daa/a21126.html#a7527473944681143bab89fd12b475645", null ],
+    [ "SummonedGUID", "d9/daa/a21126.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
 ];

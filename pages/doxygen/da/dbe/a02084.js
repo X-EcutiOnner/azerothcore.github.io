@@ -1,11 +1,5 @@
 var a02084 =
 [
-    [ "BaseGain", "da/dbe/a02084.html#ada8e56c81ab672d85f2ff274d109e477", null ],
-    [ "Gain", "da/dbe/a02084.html#ab923dd9a0df7d75127965b40539d4a10", null ],
-    [ "GetColorCode", "da/dbe/a02084.html#a812c722ab7eb34807d8cad9659d34245", null ],
-    [ "GetGrayLevel", "da/dbe/a02084.html#a9c310a4423fd5ada14fac549e4b1a6fd", null ],
-    [ "GetZeroDifference", "da/dbe/a02084.html#a4152e9ef9972f6a20cbc990dce953c36", null ],
-    [ "hk_honor_at_level", "da/dbe/a02084.html#ad25519337dcc6370a39a072c53386f55", null ],
-    [ "hk_honor_at_level_f", "da/dbe/a02084.html#a218866625f1b3b8224fb44f5a0c8b416", null ],
-    [ "xp_in_group_rate", "da/dbe/a02084.html#a304088bebc0743c764589112d2ba3b7f", null ]
+    [ "bf_commandscript", "de/d76/a12142.html", "de/d76/a12142" ],
+    [ "AddSC_bf_commandscript", "da/dbe/a02084.html#a55cfeb06fb5af5d31e3c2627d0db8da8", null ]
 ];

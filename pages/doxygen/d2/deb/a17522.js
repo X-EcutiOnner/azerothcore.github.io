@@ -1,8 +1,7 @@
 var a17522 =
 [
-    [ "boss_krickAI", "d2/deb/a17522.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "d2/deb/a17522.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "d2/deb/a17522.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "d2/deb/a17522.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "d2/deb/a17522.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "HandleScript", "d2/deb/a17522.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "d2/deb/a17522.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "d2/deb/a17522.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "d2/deb/a17522.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

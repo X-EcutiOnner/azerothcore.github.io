@@ -1,10 +1,12 @@
 var a18558 =
 [
-    [ "CountTargets", "d6/da9/a18558.html#a042c3f2ee73533b397a2d697d1da6563", null ],
-    [ "HandleDummy", "d6/da9/a18558.html#ab314680d5349c0c3e449694b92ab7311", null ],
-    [ "Load", "d6/da9/a18558.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
-    [ "PrepareSpellScript", "d6/da9/a18558.html#a8b831c01cd9fd997279f6a81170786de", null ],
-    [ "Register", "d6/da9/a18558.html#ab0d87ba23eb252075cb0779b06813a31", null ],
-    [ "SelectDest", "d6/da9/a18558.html#a6061486d0067af51c8ef079224ea63f1", null ],
-    [ "_targetCount", "d6/da9/a18558.html#a58f839370a885c450e6742cbb3116784", null ]
+    [ "npc_strangulate_vehicleAI", "d6/da9/a18558.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
+    [ "DoAction", "d6/da9/a18558.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
+    [ "IsHeroic", "d6/da9/a18558.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
+    [ "IsSummonedBy", "d6/da9/a18558.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
+    [ "OnCharmed", "d6/da9/a18558.html#a40e5537897c452d35093920ddd3669b0", null ],
+    [ "PassengerBoarded", "d6/da9/a18558.html#a819746e13af95fa964c6da3d765a7c21", null ],
+    [ "UpdateAI", "d6/da9/a18558.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
+    [ "_events", "d6/da9/a18558.html#a19b493e994d246128f63d9109e87737a", null ],
+    [ "_instance", "d6/da9/a18558.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
 ];

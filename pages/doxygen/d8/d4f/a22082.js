@@ -1,7 +1,7 @@
 var a22082 =
 [
-    [ "HandleDummy", "d8/d4f/a22082.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "d8/d4f/a22082.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "d8/d4f/a22082.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "d8/d4f/a22082.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_wg_siege_machineAI", "d8/d4f/a22082.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d8/d4f/a22082.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d8/d4f/a22082.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d8/d4f/a22082.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

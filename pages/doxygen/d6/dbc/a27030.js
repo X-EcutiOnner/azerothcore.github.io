@@ -1,9 +1,6 @@
 var a27030 =
 [
-    [ "HandleAfterCast", "d6/dbc/a27030.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "d6/dbc/a27030.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "d6/dbc/a27030.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "d6/dbc/a27030.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "d6/dbc/a27030.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "d6/dbc/a27030.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "HandleRemove", "d6/dbc/a27030.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "d6/dbc/a27030.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "d6/dbc/a27030.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

@@ -1,6 +1,7 @@
 var a15298 =
 [
-    [ "npc_cos_chromie_start", "d4/d38/a15298.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "d4/d38/a15298.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
-    [ "OnQuestAccept", "d4/d38/a15298.html#a038e046773718f5cd55d2b4eb98b3d24", null ]
+    [ "boss_kurinnaxx", "d4/d38/a15298.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d4/d38/a15298.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d4/d38/a15298.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d4/d38/a15298.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

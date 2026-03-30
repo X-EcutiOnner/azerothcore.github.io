@@ -1,7 +1,7 @@
 var a19462 =
 [
-    [ "HandleScript", "d7/d58/a19462.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "d7/d58/a19462.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "d7/d58/a19462.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "d7/d58/a19462.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "Load", "d7/d58/a19462.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
+    [ "PrepareSpellScript", "d7/d58/a19462.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
+    [ "Register", "d7/d58/a19462.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
+    [ "SetDest", "d7/d58/a19462.html#a231a75702f4a98f51d1be45510c5d05f", null ]
 ];

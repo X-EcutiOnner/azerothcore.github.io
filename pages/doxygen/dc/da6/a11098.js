@@ -1,10 +1,7 @@
 var a11098 =
 [
-    [ "SplitItem", "dc/da6/a11098.html#a805c2c75e93d7ef839b3758ffd59f6c6", null ],
-    [ "Read", "dc/da6/a11098.html#a59edb1d3445897bfaff1e97d703b42bb", null ],
-    [ "Count", "dc/da6/a11098.html#a097ed361c33f7415ed4d7efe6ab985e8", null ],
-    [ "DestinationBag", "dc/da6/a11098.html#ac60d1b0b51ef1b91fd51d900bb825153", null ],
-    [ "DestinationSlot", "dc/da6/a11098.html#aaf03b2ba6c3519008515c75f6f09aa60", null ],
-    [ "SourceBag", "dc/da6/a11098.html#aa87bc282a672ae8f9a747ad65400ef03", null ],
-    [ "SourceSlot", "dc/da6/a11098.html#a82dbf4e94d9bb1a352bf03d76a14950b", null ]
+    [ "InstanceResetFailed", "dc/da6/a11098.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "dc/da6/a11098.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "dc/da6/a11098.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "dc/da6/a11098.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

@@ -1,6 +1,6 @@
 var a21230 =
 [
-    [ "boss_ymironAI", "d8/df3/a21234.html", "d8/df3/a21234" ],
-    [ "boss_ymiron", "de/d7a/a21230.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "de/d7a/a21230.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "HandleEffectPeriodic", "de/d7a/a21230.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "de/d7a/a21230.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "de/d7a/a21230.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

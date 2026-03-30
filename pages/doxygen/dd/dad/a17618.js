@@ -1,11 +1,8 @@
 var a17618 =
 [
-    [ "npc_pos_leader_secondAI", "dd/dad/a17618.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "dd/dad/a17618.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "dd/dad/a17618.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "dd/dad/a17618.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "dd/dad/a17618.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "dd/dad/a17618.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "dd/dad/a17618.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "dd/dad/a17618.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "npc_high_overlord_saurfangAI", "d6/d62/a17622.html", "d6/d62/a17622" ],
+    [ "npc_high_overlord_saurfang_icc", "dd/dad/a17618.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "dd/dad/a17618.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "dd/dad/a17618.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "dd/dad/a17618.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

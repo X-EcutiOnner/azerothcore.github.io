@@ -1,5 +1,9 @@
 var a18018 =
 [
-    [ "achievement_flu_shot_shortage", "d0/dab/a18018.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "d0/dab/a18018.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "CountTargets", "d0/dab/a18018.html#aa72b762d802c27047d485a8a314c6c6d", null ],
+    [ "Load", "d0/dab/a18018.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
+    [ "PrepareSpellScript", "d0/dab/a18018.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
+    [ "Register", "d0/dab/a18018.html#a86cad92c07fa31c730a3b560d33ed824", null ],
+    [ "SplitDamage", "d0/dab/a18018.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
+    [ "_targetCount", "d0/dab/a18018.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
 ];

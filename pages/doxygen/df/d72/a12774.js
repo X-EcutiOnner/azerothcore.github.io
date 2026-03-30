@@ -1,6 +1,6 @@
 var a12774 =
 [
-    [ "boss_flamegorAI", "df/d72/a12774.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
-    [ "JustEngagedWith", "df/d72/a12774.html#a6005dca71e2f20ee599e053e531377d6", null ],
-    [ "UpdateAI", "df/d72/a12774.html#a2e5146815e533cf62e0084a54aa222d5", null ]
+    [ "boss_lucifron", "df/d72/a12774.html#a632be7d3aaa9cc2360fce6871918a4b1", null ],
+    [ "ExecuteEvent", "df/d72/a12774.html#ae392b01817d9160ef0c80387406ad6fa", null ],
+    [ "JustEngagedWith", "df/d72/a12774.html#a9ebfc9877165aaadd2ea446995f4cf99", null ]
 ];

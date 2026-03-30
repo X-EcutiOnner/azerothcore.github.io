@@ -1,6 +1,12 @@
 var a23250 =
 [
-    [ "HandleEffectRemove", "d3/dc5/a23250.html#ac74d25501690970c607a146eec02ab24", null ],
-    [ "PrepareAuraScript", "d3/dc5/a23250.html#a858929800089fee1a06948bda1c8806f", null ],
-    [ "Register", "d3/dc5/a23250.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
+    [ "boss_vazruden_the_herald", "d3/dc5/a23250.html#a97f761b2e3477a22cdc65c68700de72c", null ],
+    [ "AttackStart", "d3/dc5/a23250.html#a190621f4130b913348a49d6dfe76b591", null ],
+    [ "JustSummoned", "d3/dc5/a23250.html#a66d8c6252e6baf88144da3af57bf65a4", null ],
+    [ "MovementInform", "d3/dc5/a23250.html#abd89aa3911c626864f8aada889ce99c9", null ],
+    [ "Reset", "d3/dc5/a23250.html#a18076b0fd12bc9a002394d5fe3aa5f81", null ],
+    [ "SetData", "d3/dc5/a23250.html#a7dcbec1c99fdf4f740656a8379a99080", null ],
+    [ "SummonedCreatureDespawn", "d3/dc5/a23250.html#a7621077082a3b53d1d21265e6dd00dce", null ],
+    [ "SummonedCreatureDies", "d3/dc5/a23250.html#a336feba0d88e4fccce28b2730a9aea9e", null ],
+    [ "UpdateAI", "d3/dc5/a23250.html#adc98e358a751fd9881589aada4baf320", null ]
 ];

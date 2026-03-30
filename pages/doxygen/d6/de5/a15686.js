@@ -1,18 +1,9 @@
 var a15686 =
 [
-    [ "boss_ouro", "d6/de5/a15686.html#a624700c5010edda9e7880070bd7495d7", null ],
-    [ "CanAIAttack", "d6/de5/a15686.html#a7b9682b239a2d436069b9e6be1d90648", null ],
-    [ "CastGroundRupture", "d6/de5/a15686.html#a2b8d88aeb824890a090f3bec544f5de2", null ],
-    [ "DamageTaken", "d6/de5/a15686.html#aa571cee2fee8a79917f4c63b94a9a1b6", null ],
-    [ "Emerge", "d6/de5/a15686.html#ac0b0c890f8cec105e6c284f6c1c5dd78", null ],
-    [ "EnterEvadeMode", "d6/de5/a15686.html#aee5769af48127617d40fa440d042e434", null ],
-    [ "IsPlayerWithinMeleeRange", "d6/de5/a15686.html#a9f9b4a53cf5c7e9d4e98d2d57e500172", null ],
-    [ "JustEngagedWith", "d6/de5/a15686.html#a20b0b4a3770564595f40e1375b2811d7", null ],
-    [ "Reset", "d6/de5/a15686.html#a8d8e471d0a76950d4bcbdb3e6d1b77bf", null ],
-    [ "SpellHitTarget", "d6/de5/a15686.html#a53fb0c076ce60d769d21fa740fa73308", null ],
-    [ "Submerge", "d6/de5/a15686.html#aa39a371112f585da952331c200b8b5aa", null ],
-    [ "UpdateAI", "d6/de5/a15686.html#ab59237535be7a86cb4c0db4819a4d9d5", null ],
-    [ "_enraged", "d6/de5/a15686.html#a14a147b2cb47bbc5bd7cdeb49fd22328", null ],
-    [ "_submerged", "d6/de5/a15686.html#aff594fd1558ac0c150ef7dc44b185863", null ],
-    [ "_submergeMelee", "d6/de5/a15686.html#a1f9afe42fad602f470456929214f40d3", null ]
+    [ "npc_prospector_remtravelAI", "d6/de5/a15686.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d6/de5/a15686.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d6/de5/a15686.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d6/de5/a15686.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d6/de5/a15686.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
+    [ "WaypointReached", "d6/de5/a15686.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

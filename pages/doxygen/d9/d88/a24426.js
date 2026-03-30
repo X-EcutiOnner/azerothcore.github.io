@@ -1,5 +1,7 @@
 var a24426 =
 [
-    [ "npc_pet_proto_drake_whelp", "d9/d88/a24426.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
-    [ "Reset", "d9/d88/a24426.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
+    [ "AfterApply", "d9/d88/a24426.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "d9/d88/a24426.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "d9/d88/a24426.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "d9/d88/a24426.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

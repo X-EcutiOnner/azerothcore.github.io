@@ -1,6 +1,5 @@
 var a11038 =
 [
-    [ "GuildBankTextQuery", "d0/d6c/a11038.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
-    [ "Read", "d0/d6c/a11038.html#af20bd5c8e58b891028613625fb14807d", null ],
-    [ "Tab", "d0/d6c/a11038.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
+    [ "SocketEnchantID", "d0/d6c/a11038.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "d0/d6c/a11038.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

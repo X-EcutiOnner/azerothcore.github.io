@@ -1,6 +1,7 @@
 var a12754 =
 [
-    [ "boss_ebonrocAI", "d7/de3/a12758.html", "d7/de3/a12758" ],
-    [ "boss_ebonroc", "d2/df3/a12754.html#a3f71b5a687ab10a228e560429b8a4709", null ],
-    [ "GetAI", "d2/df3/a12754.html#acf2dc7391e1f642dff3c7f56024aaea5", null ]
+    [ "HandlePeriodic", "d2/df3/a12754.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "d2/df3/a12754.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "d2/df3/a12754.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "d2/df3/a12754.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

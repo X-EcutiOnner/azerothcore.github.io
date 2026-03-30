@@ -1,13 +1,13 @@
 var a15814 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d4/db4/a15814.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
-    [ "GetData", "d4/db4/a15814.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
-    [ "Initialize", "d4/db4/a15814.html#a870ab2322971767fa37986743b31d20c", null ],
-    [ "OnCreatureCreate", "d4/db4/a15814.html#aed3807432711105589d0b060a21836cc", null ],
-    [ "ReadSaveDataMore", "d4/db4/a15814.html#ad348102f71e070e7ef12da62238c7b0f", null ],
-    [ "SetData", "d4/db4/a15814.html#a0333b4728e9288937711174743f19f60", null ],
-    [ "WriteSaveDataMore", "d4/db4/a15814.html#a78bece51279e3f9e62800e4d80b00f64", null ],
-    [ "_encounters", "d4/db4/a15814.html#a0f049806007e59363418d4e39f9e389b", null ],
-    [ "DiscipleOfNaralexGUID", "d4/db4/a15814.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
-    [ "SerpentisGUID", "d4/db4/a15814.html#a7ba205e4988a20404f5e597331dd5d56", null ]
+    [ "npc_shenthulAI", "d4/db4/a15814.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "d4/db4/a15814.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "d4/db4/a15814.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "d4/db4/a15814.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "d4/db4/a15814.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "d4/db4/a15814.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "d4/db4/a15814.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "d4/db4/a15814.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "d4/db4/a15814.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "d4/db4/a15814.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

@@ -1,11 +1,11 @@
 var a20754 =
 [
-    [ "boss_thorim_sif", "d0/dd6/a20754.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
-    [ "AttackStart", "d0/dd6/a20754.html#a3da2809c4e7aa0c051647be354ade759", null ],
-    [ "DoAction", "d0/dd6/a20754.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
-    [ "MoveInLineOfSight", "d0/dd6/a20754.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
-    [ "Reset", "d0/dd6/a20754.html#a3f747b6da8db72fd61c50a24096834c2", null ],
-    [ "UpdateAI", "d0/dd6/a20754.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
-    [ "_allowCast", "d0/dd6/a20754.html#a6081345415b9ae3892d4f150a195908c", null ],
-    [ "events", "d0/dd6/a20754.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
+    [ "npc_ulduar_storm_tempered_keeper", "d0/dd6/a20754.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
+    [ "JustDied", "d0/dd6/a20754.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
+    [ "JustEngagedWith", "d0/dd6/a20754.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
+    [ "JustSummoned", "d0/dd6/a20754.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
+    [ "Reset", "d0/dd6/a20754.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
+    [ "UpdateAI", "d0/dd6/a20754.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
+    [ "events", "d0/dd6/a20754.html#a4a79bd561fa63230a52730da20d7143c", null ],
+    [ "otherGUID", "d0/dd6/a20754.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
 ];

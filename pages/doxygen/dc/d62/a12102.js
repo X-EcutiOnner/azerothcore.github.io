@@ -1,14 +1,9 @@
 var a12102 =
 [
-    [ "cast_commandscript", "dc/d62/a12102.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
-    [ "CheckSpellCastResult", "dc/d62/a12102.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
-    [ "CheckSpellExistsAndIsValid", "dc/d62/a12102.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
-    [ "GetCommands", "dc/d62/a12102.html#ab0890c036a8d301b382fdd1b6371f671", null ],
-    [ "GetTriggerFlags", "dc/d62/a12102.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
-    [ "HandleCastBackCommand", "dc/d62/a12102.html#a964a40278f609a5c5a0bae651484c726", null ],
-    [ "HandleCastCommand", "dc/d62/a12102.html#ac28430cc0623209b891bacbb4845509b", null ],
-    [ "HandleCastDestCommand", "dc/d62/a12102.html#a156ca81fba7155205dae106aa4c221d6", null ],
-    [ "HandleCastDistCommand", "dc/d62/a12102.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
-    [ "HandleCastSelfCommand", "dc/d62/a12102.html#a69e88bb174c2518584a9ae622e2850bf", null ],
-    [ "HandleCastTargetCommad", "dc/d62/a12102.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
+    [ "map", "dc/d62/a12102.html#a274c6d61203c24b3c680055244e1f590", null ],
+    [ "mouth", "dc/d62/a12102.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
+    [ "mouthGuid", "dc/d62/a12102.html#a2245c14e379c83bdd47165e829de2e41", null ],
+    [ "necropolisCount", "dc/d62/a12102.html#aec44e315616920ba8224be8c4831f5e9", null ],
+    [ "remainingNecropoli", "dc/d62/a12102.html#a3c18c61fcd44c32f9e0009479db85399", null ],
+    [ "zoneId", "dc/d62/a12102.html#a98e1490705f74627cf9e5483857f3f25", null ]
 ];

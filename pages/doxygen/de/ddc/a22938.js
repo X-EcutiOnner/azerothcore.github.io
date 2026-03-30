@@ -1,7 +1,7 @@
 var a22938 =
 [
-    [ "HandleEffectRemove", "de/ddc/a22938.html#a6adc572bb13dde9b83a44a1c27833019", null ],
-    [ "PrepareAuraScript", "de/ddc/a22938.html#a877c26735531508d1806273117f3e8bc", null ],
-    [ "Register", "de/ddc/a22938.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
-    [ "Validate", "de/ddc/a22938.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
+    [ "FilterTargets", "de/ddc/a22938.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "de/ddc/a22938.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "de/ddc/a22938.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "de/ddc/a22938.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

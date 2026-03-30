@@ -1,21 +1,11 @@
 var a17110 =
 [
-    [ "boss_twin_valkyrAI", "de/d71/a17110.html#a3a10c07715e5ef03c28f132df18e80bd", null ],
-    [ "DoAction", "de/d71/a17110.html#a1a9c9f90108d203c2aca8c401763936f", null ],
-    [ "EnterEvadeMode", "de/d71/a17110.html#a624969393687e10c2f8fca72d9394265", null ],
-    [ "GetSister", "de/d71/a17110.html#a0c0998e2d4981dd3a1e2580497c1f3ef", null ],
-    [ "JustDied", "de/d71/a17110.html#ad3ac59a0c0477a0819fd799b3bc305f6", null ],
-    [ "JustEngagedWith", "de/d71/a17110.html#a2c0015cadfcc90e1c730d8f9c02151e8", null ],
-    [ "JustReachedHome", "de/d71/a17110.html#af6127deaa5ff11a4ae2983e34d538bef", null ],
-    [ "JustSummoned", "de/d71/a17110.html#a6b08f13c0213acf91b72b6341896406e", null ],
-    [ "KilledUnit", "de/d71/a17110.html#a6b6706c12a0abbc36a022eb3af1925ec", null ],
-    [ "myDoMeleeAttackIfReady", "de/d71/a17110.html#a8a488e8d0acab2737c0503ce89fd3d2a", null ],
-    [ "SummonedCreatureDespawn", "de/d71/a17110.html#ae49793079dbec2dbe5e807f998705b20", null ],
-    [ "UpdateAI", "de/d71/a17110.html#aea878cd12d640ce4e3d87deb85c20b9f", null ],
-    [ "UpdateSharedHealth", "de/d71/a17110.html#a4101d2174de103be7154875beaafa65d", null ],
-    [ "events", "de/d71/a17110.html#a08867e9274660a8913034bf3d80e559f", null ],
-    [ "LastSynchroHP", "de/d71/a17110.html#aa66ac25aa73c505df972cf95dca85a71", null ],
-    [ "pInstance", "de/d71/a17110.html#a653a89ac515061fca04240fa71a6630a", null ],
-    [ "SpecialMask", "de/d71/a17110.html#a8ca507c7a288a5cb9a8160129820e4e0", null ],
-    [ "summons", "de/d71/a17110.html#adeb3d3d3eb868ed1a9c211450404b659", null ]
+    [ "npc_phantom_mage", "de/d71/a17110.html#a96702110e1bd587aaa88a076773cac72", null ],
+    [ "AttackStart", "de/d71/a17110.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
+    [ "DoAction", "de/d71/a17110.html#a8adf87e600eeab3678f369ab48b73927", null ],
+    [ "EnterEvadeMode", "de/d71/a17110.html#a270f664ad9545f672405d051d1a8932a", null ],
+    [ "JustDied", "de/d71/a17110.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
+    [ "JustEngagedWith", "de/d71/a17110.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
+    [ "Reset", "de/d71/a17110.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
+    [ "UpdateAI", "de/d71/a17110.html#a919416fd6b52060e271e79afaaf14085", null ]
 ];

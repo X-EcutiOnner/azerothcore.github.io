@@ -1,6 +1,7 @@
 var a18918 =
 [
-    [ "npc_lk_spirit_bombAI", "df/de3/a18922.html", "df/de3/a18922" ],
-    [ "npc_lk_spirit_bomb", "dd/d6e/a18918.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "dd/d6e/a18918.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "HandleScript", "dd/d6e/a18918.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "dd/d6e/a18918.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "dd/d6e/a18918.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "dd/d6e/a18918.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

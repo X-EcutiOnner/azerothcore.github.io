@@ -1,6 +1,5 @@
 var a27822 =
 [
-    [ "HandleCast", "d7/d69/a27822.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
-    [ "PrepareSpellScript", "d7/d69/a27822.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "d7/d69/a27822.html#a81bc86c83ffc70602410912870e61700", null ]
+    [ "MarkOfNatureTargetSelector", "d7/d69/a27822.html#ae737da5ff93360fde8c4c818f41d7853", null ],
+    [ "operator()", "d7/d69/a27822.html#a1515fd40dcccaba5947e93eabf241336", null ]
 ];

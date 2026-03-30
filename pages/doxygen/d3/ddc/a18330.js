@@ -1,9 +1,5 @@
 var a18330 =
 [
-    [ "CountTargets", "d3/ddc/a18330.html#aa72b762d802c27047d485a8a314c6c6d", null ],
-    [ "Load", "d3/ddc/a18330.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
-    [ "PrepareSpellScript", "d3/ddc/a18330.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
-    [ "Register", "d3/ddc/a18330.html#a86cad92c07fa31c730a3b560d33ed824", null ],
-    [ "SplitDamage", "d3/ddc/a18330.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
-    [ "_targetCount", "d3/ddc/a18330.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
+    [ "at_sindragosa_lair", "d3/ddc/a18330.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
+    [ "OnTrigger", "d3/ddc/a18330.html#a07074bff20272042ed05be83dd818ee9", null ]
 ];

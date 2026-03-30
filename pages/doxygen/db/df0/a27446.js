@@ -1,9 +1,10 @@
 var a27446 =
 [
-    [ "HandleHeal", "db/df0/a27446.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "db/df0/a27446.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "db/df0/a27446.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "db/df0/a27446.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "db/df0/a27446.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "db/df0/a27446.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "CheckProc", "db/df0/a27446.html#a257202ac9b80a67ce58d9e3491164d22", null ],
+    [ "HandleProc", "db/df0/a27446.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
+    [ "HandleTick", "db/df0/a27446.html#a5e436c530e5ef70bc4de4305676ed196", null ],
+    [ "PrepareAuraScript", "db/df0/a27446.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
+    [ "Register", "db/df0/a27446.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
+    [ "RemoveEffect", "db/df0/a27446.html#a333ad80d8478f59713ee049f935d7885", null ],
+    [ "Validate", "db/df0/a27446.html#aed3cb37f0230463978b210add84bd31d", null ]
 ];

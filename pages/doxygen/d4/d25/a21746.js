@@ -1,6 +1,7 @@
 var a21746 =
 [
-    [ "npc_mindless_ghoulAI", "d4/d25/a21746.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "d4/d25/a21746.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "d4/d25/a21746.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "npc_battle_at_valhalasAI", "d8/d83/a21750.html", "d8/d83/a21750" ],
+    [ "npc_battle_at_valhalas", "d4/d25/a21746.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "d4/d25/a21746.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "d4/d25/a21746.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

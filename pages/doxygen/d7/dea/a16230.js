@@ -1,7 +1,6 @@
 var a16230 =
 [
-    [ "npc_ringoAI", "de/d60/a16234.html", "de/d60/a16234" ],
-    [ "npc_ringo", "d7/dea/a16230.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "d7/dea/a16230.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "d7/dea/a16230.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
+    [ "HandleScriptEffect", "d7/dea/a16230.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d7/dea/a16230.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d7/dea/a16230.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

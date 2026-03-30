@@ -1,10 +1,11 @@
 var a20482 =
 [
-    [ "HandleEffectPeriodic", "d9/d3e/a20482.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "d9/d3e/a20482.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "d9/d3e/a20482.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "d9/d3e/a20482.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "d9/d3e/a20482.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "d9/d3e/a20482.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "d9/d3e/a20482.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "boss_thorim_arena_npcs", "d9/d3e/a20482.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "d9/d3e/a20482.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "d9/d3e/a20482.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "d9/d3e/a20482.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "d9/d3e/a20482.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "d9/d3e/a20482.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "d9/d3e/a20482.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "d9/d3e/a20482.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

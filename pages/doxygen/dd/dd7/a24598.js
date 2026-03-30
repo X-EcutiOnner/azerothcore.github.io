@@ -1,7 +1,7 @@
 var a24598 =
 [
-    [ "CheckCast", "dd/dd7/a24598.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "dd/dd7/a24598.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "dd/dd7/a24598.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "dd/dd7/a24598.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "HandleProc", "dd/dd7/a24598.html#a0f6b9ad6208ff008ac71161e6062158f", null ],
+    [ "PrepareAuraScript", "dd/dd7/a24598.html#a3dad1a05159064843463c3d043f2c161", null ],
+    [ "Register", "dd/dd7/a24598.html#a0ab7dd9dc217b31ca1f9b25505f6b22e", null ],
+    [ "Validate", "dd/dd7/a24598.html#ab7b1f2a007eef4dca7194dc534a5e6fe", null ]
 ];

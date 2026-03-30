@@ -1,6 +1,7 @@
 var a20194 =
 [
-    [ "HandleInstaKill", "df/da1/a20194.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "df/da1/a20194.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "df/da1/a20194.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "HandleAfterEffectApply", "df/da1/a20194.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "df/da1/a20194.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "df/da1/a20194.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "df/da1/a20194.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

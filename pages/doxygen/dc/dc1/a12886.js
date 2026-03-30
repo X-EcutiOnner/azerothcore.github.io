@@ -1,7 +1,6 @@
 var a12886 =
 [
-    [ "HandleAfterApply", "dc/dc1/a12886.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "dc/dc1/a12886.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "dc/dc1/a12886.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "dc/dc1/a12886.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "HandleTriggerSpell", "dc/dc1/a12886.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "dc/dc1/a12886.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "dc/dc1/a12886.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

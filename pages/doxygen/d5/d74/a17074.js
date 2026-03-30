@@ -1,6 +1,6 @@
 var a17074 =
 [
-    [ "boss_gormokAI", "d7/d4c/a17078.html", "d7/d4c/a17078" ],
-    [ "boss_gormok", "d5/d74/a17074.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d5/d74/a17074.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "entry", "d5/d74/a17074.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d5/d74/a17074.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d5/d74/a17074.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

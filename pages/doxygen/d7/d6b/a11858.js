@@ -1,12 +1,6 @@
 var a11858 =
 [
-    [ "BroadcastTextBuilder", "d7/d6b/a11858.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
-    [ "operator()", "d7/d6b/a11858.html#a16f9719278e00013c25902846fa1be5b", null ],
-    [ "operator()", "d7/d6b/a11858.html#ac87701626dddffb6b09bf504b97c4d55", null ],
-    [ "_achievementId", "d7/d6b/a11858.html#a82de25331657b17ce0de33f2b374abda", null ],
-    [ "_gender", "d7/d6b/a11858.html#a71032b0749dd75f552107503528e8166", null ],
-    [ "_msgType", "d7/d6b/a11858.html#a232325cefa217843da5cc6db7e5d80fe", null ],
-    [ "_source", "d7/d6b/a11858.html#ab73315225b3aa36a309f45596f7089f4", null ],
-    [ "_target", "d7/d6b/a11858.html#a958b154f3c82188e9684be0f0b7dae56", null ],
-    [ "_textId", "d7/d6b/a11858.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
+    [ "EffectCalcSpellModHandler", "d7/d6b/a11858.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "d7/d6b/a11858.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "d7/d6b/a11858.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

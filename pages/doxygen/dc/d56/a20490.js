@@ -1,5 +1,6 @@
 var a20490 =
 [
-    [ "FlashFreezeCheck", "dc/d56/a20490.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
-    [ "operator()", "dc/d56/a20490.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
+    [ "OnPeriodic", "dc/d56/a20490.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "dc/d56/a20490.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "dc/d56/a20490.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

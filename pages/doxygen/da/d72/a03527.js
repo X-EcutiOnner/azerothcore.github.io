@@ -1,6 +1,5 @@
 var a03527 =
 [
-    [ "fireworkShowGameobjectStormwind", "da/d72/a03527.html#ae843a13f6116ce380e3890397d825ae6", null ],
-    [ "fireworkShowScheduleStormwind", "da/d72/a03527.html#af98c86c5b3725a8753fc620996c94b7f", null ],
-    [ "fireworkShowStormwind", "da/d72/a03527.html#a378278257abadcd4369abd66f412d8e6", null ]
+    [ "MotdMgr", "d9/d95/a10226.html", "d9/d95/a10226" ],
+    [ "sMotdMgr", "da/d72/a03527.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
 ];

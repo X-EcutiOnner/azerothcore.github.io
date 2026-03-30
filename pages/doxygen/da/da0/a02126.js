@@ -1,9 +1,7 @@
 var a02126 =
 [
-    [ "ePoints", "da/da0/a02126.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "d0/d79/a02117.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "d0/d79/a02117.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "da/da0/a02126.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
-    ] ],
-    [ "MAX_PLAYER_DISTANCE", "da/da0/a02126.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
+    [ "gobject_commandscript", "df/d96/a12198.html", "df/d96/a12198" ],
+    [ "GameObjectEntry", "da/da0/a02126.html#af6e4fdc2f36213d5f2a9fa6f335517b8", null ],
+    [ "GameObjectSpawnId", "da/da0/a02126.html#ad5bd2a208bd6c6213df595ee7369126f", null ],
+    [ "AddSC_gobject_commandscript", "da/da0/a02126.html#a0cc4be9c12b1a892f031cb1ff47e23d9", null ]
 ];

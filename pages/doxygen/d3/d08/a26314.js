@@ -1,6 +1,7 @@
 var a26314 =
 [
-    [ "PrepareSpellScript", "d3/d08/a26314.html#a8127429829afd4b82395a821a4bea19c", null ],
-    [ "Register", "d3/d08/a26314.html#a73717914aa23764fa16c8a2965798a6a", null ],
-    [ "SecondaryEffect", "d3/d08/a26314.html#a6150d8615c7f579aadd50e28aba0d569", null ]
+    [ "PrepareSpellScript", "d3/d08/a26314.html#ade3a3f956ae8be922bd1d2204919d360", null ],
+    [ "Register", "d3/d08/a26314.html#a71d397da4a4804cf6023806c15e8bedf", null ],
+    [ "TriggerHypothermia", "d3/d08/a26314.html#af40f92afae93778e477c50ddf18c8adc", null ],
+    [ "Validate", "d3/d08/a26314.html#a1f0cef532c2bd13d94e647722f85457a", null ]
 ];

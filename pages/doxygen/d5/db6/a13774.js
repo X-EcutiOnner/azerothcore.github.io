@@ -1,7 +1,10 @@
 var a13774 =
 [
-    [ "CheckCast", "d5/db6/a13774.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "d5/db6/a13774.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "d5/db6/a13774.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "d5/db6/a13774.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "npc_sunblade_scout", "d5/db6/a13774.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "d5/db6/a13774.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "d5/db6/a13774.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "d5/db6/a13774.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "d5/db6/a13774.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "d5/db6/a13774.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "d5/db6/a13774.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

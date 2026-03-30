@@ -1,10 +1,27 @@
 var a03707 =
 [
-    [ "MCBossObject", "d9/daf/a12823.html", "d9/daf/a12823" ],
-    [ "instance_molten_core", "d0/d5b/a12827.html", "d0/d5b/a12827" ],
-    [ "AddSC_instance_molten_core", "d1/d00/a03707.html#aa908fb56c2f024e5bfcb38bc98b849ab", null ],
-    [ "linkedBossObjData", "d1/d00/a03707.html#a69ab269a27b57bb4b00d3eee95db589e", null ],
-    [ "MAX_MC_LINKED_BOSS_OBJ", "d1/d00/a03707.html#a398f000c29691c6a24707190dc4a4024", null ],
-    [ "minionData", "d1/d00/a03707.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "SAY_SPAWN", "d1/d00/a03707.html#a1712840a822c3d823764d3c974c6ea31", null ]
+    [ "UnitScript", "d0/dc2/a10714.html", "d0/dc2/a10714" ],
+    [ "UnitHook", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26", [
+      [ "UNITHOOK_ON_HEAL", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26afb576f10646cffe0868efddf3e7aa256", null ],
+      [ "UNITHOOK_ON_DAMAGE", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a62c0eeb1f01d869aab444cfe76e2116b", null ],
+      [ "UNITHOOK_MODIFY_PERIODIC_DAMAGE_AURAS_TICK", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a022b3554d4b0bded731bb10590f7abde", null ],
+      [ "UNITHOOK_MODIFY_MELEE_DAMAGE", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a740266abae12f6909df18d7f112b8bca", null ],
+      [ "UNITHOOK_MODIFY_SPELL_DAMAGE_TAKEN", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a9d3c4b797fc29f1adc4751d2fc6f507e", null ],
+      [ "UNITHOOK_MODIFY_HEAL_RECEIVED", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a46fbfaf61c3d0c65a02d8450baaae5cd", null ],
+      [ "UNITHOOK_ON_BEFORE_ROLL_MELEE_OUTCOME_AGAINST", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a5d1637c534db2ba75c473d0b4c225f49", null ],
+      [ "UNITHOOK_ON_AURA_APPLY", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26ac928edfab8c8b1fc13c8f8126f5440ae", null ],
+      [ "UNITHOOK_ON_AURA_REMOVE", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26aa3501eebed0af3d2470808a30f9c1a5e", null ],
+      [ "UNITHOOK_IF_NORMAL_REACTION", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26acf1161bacf692693081683ef22f09c5c", null ],
+      [ "UNITHOOK_CAN_SET_PHASE_MASK", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a1a63709d3c29f7cbdd99a4307bf8ed93", null ],
+      [ "UNITHOOK_IS_CUSTOM_BUILD_VALUES_UPDATE", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26ac14c60774f62f84baef5839831e875c7", null ],
+      [ "UNITHOOK_SHOULD_TRACK_VALUES_UPDATE_POS_BY_INDEX", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26ab6257ae823fecbde4bcb0c9c1cdf4762", null ],
+      [ "UNITHOOK_ON_PATCH_VALUES_UPDATE", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a4ed2a82b73990b4ba2e1d0c317df5d82", null ],
+      [ "UNITHOOK_ON_UNIT_UPDATE", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a2bc86ad3742f6fbc38e6030215587e6f", null ],
+      [ "UNITHOOK_ON_DISPLAYID_CHANGE", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a1f0200b57821e6e6bad8ea268ff4a6d1", null ],
+      [ "UNITHOOK_ON_UNIT_ENTER_EVADE_MODE", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a3cc39d8a6535a3347ce91048c9c7f27e", null ],
+      [ "UNITHOOK_ON_UNIT_ENTER_COMBAT", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a0b91b88b22f4354b14b1864afb187957", null ],
+      [ "UNITHOOK_ON_UNIT_DEATH", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26aa21248825ee1e2f7e9f3eac05561ab57", null ],
+      [ "UNITHOOK_ON_UNIT_SET_SHAPESHIFT_FORM", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26a6ade1eeb61b044e91d50f1f91c14bcd6", null ],
+      [ "UNITHOOK_END", "d1/d00/a03707.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352", null ]
+    ] ]
 ];

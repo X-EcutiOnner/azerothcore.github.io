@@ -1,9 +1,6 @@
 var a25654 =
 [
-    [ "DoCheckCast", "d4/d09/a25654.html#a09c7bd66988c38cb019656842ed87366", null ],
-    [ "HandleDummy", "d4/d09/a25654.html#a183e2ac37a432ea2902b31e24a474cea", null ],
-    [ "HandleScriptEffect", "d4/d09/a25654.html#a396b1129f15056d0b22c7887f56bea99", null ],
-    [ "PrepareSpellScript", "d4/d09/a25654.html#aad4de93de822a742e02ac8d5d395d482", null ],
-    [ "Register", "d4/d09/a25654.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
-    [ "Validate", "d4/d09/a25654.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
+    [ "FilterTargets", "d4/d09/a25654.html#abe299fbad07f800e90b1614ec661c185", null ],
+    [ "PrepareSpellScript", "d4/d09/a25654.html#a53bae2b6575436705adff74caf9225b7", null ],
+    [ "Register", "d4/d09/a25654.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
 ];

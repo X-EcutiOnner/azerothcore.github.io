@@ -1,6 +1,10 @@
 var a20058 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d2/daa/a20062.html", "d2/daa/a20062" ],
-    [ "boss_sjonnir_malformed_ooze", "d8/d35/a20058.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "d8/d35/a20058.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "boss_freya_elder_ironbranch", "d8/d35/a20058.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
+    [ "JustDied", "d8/d35/a20058.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
+    [ "JustEngagedWith", "d8/d35/a20058.html#a34d87135b8dac114a8783941dba69559", null ],
+    [ "KilledUnit", "d8/d35/a20058.html#a20b5a622ac233d1280169f54942c894f", null ],
+    [ "Reset", "d8/d35/a20058.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
+    [ "UpdateAI", "d8/d35/a20058.html#a00dade8af24a2240187fb4e52138c0d1", null ],
+    [ "events", "d8/d35/a20058.html#a8693a800da6890004f3ae82fd9898480", null ]
 ];

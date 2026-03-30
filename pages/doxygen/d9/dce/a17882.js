@@ -1,6 +1,6 @@
 var a17882 =
 [
-    [ "FilterTargets", "d9/dce/a17882.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
-    [ "PrepareSpellScript", "d9/dce/a17882.html#a8e9d81b34e05506569f4b910c1958de3", null ],
-    [ "Register", "d9/dce/a17882.html#aa80980c3f68abcb0fac7a41172f70012", null ]
+    [ "BurningPitchFilterCheck", "d9/dce/a17882.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "d9/dce/a17882.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "d9/dce/a17882.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

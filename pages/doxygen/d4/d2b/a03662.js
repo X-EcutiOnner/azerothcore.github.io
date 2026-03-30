@@ -1,14 +1,12 @@
 var a03662 =
 [
-    [ "npc_tapoke_slim_jahn", "df/dd9/a14083.html", "df/dd9/a14083" ],
-    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "df/d98/a14087.html", "df/d98/a14087" ],
-    [ "npc_mikhail", "da/d08/a14091.html", "da/d08/a14091" ],
-    [ "TapokeSlim", "d4/d2b/a03662.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
-      [ "QUEST_MISSING_DIPLO_PT11", "d4/d2b/a03662.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
-      [ "SPELL_STEALTH", "d4/d2b/a03662.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
-      [ "SPELL_CALL_FRIENDS", "d4/d2b/a03662.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
-      [ "NPC_SLIMS_FRIEND", "d4/d2b/a03662.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
-      [ "NPC_TAPOKE_SLIM_JAHN", "d4/d2b/a03662.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
-    ] ],
-    [ "AddSC_wetlands", "d4/d2b/a03662.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
+    [ "ArenaTeamScript", "d5/df1/a10570.html", "d5/df1/a10570" ],
+    [ "ArenaTeamHook", "d4/d2b/a03662.html#adfb7077026efd17516d6b85637c2b218", [
+      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d4/d2b/a03662.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
+      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d4/d2b/a03662.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
+      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d4/d2b/a03662.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
+      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d4/d2b/a03662.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
+      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d4/d2b/a03662.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
+      [ "ARENATEAMHOOK_END", "d4/d2b/a03662.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
+    ] ]
 ];

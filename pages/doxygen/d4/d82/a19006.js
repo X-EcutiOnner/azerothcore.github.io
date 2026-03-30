@@ -1,6 +1,8 @@
 var a19006 =
 [
-    [ "npc_valithria_cloudAI", "d8/d44/a19010.html", "d8/d44/a19010" ],
-    [ "npc_valithria_cloud", "d4/d82/a19006.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
-    [ "GetAI", "d4/d82/a19006.html#afeff905cec1245dbac6fa59673aef015", null ]
+    [ "Class", "d4/d82/a19006.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d4/d82/a19006.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
+    [ "id", "d4/d82/a19006.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d4/d82/a19006.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d4/d82/a19006.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

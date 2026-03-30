@@ -1,9 +1,8 @@
 var a22058 =
 [
-    [ "npc_lord_areteAI", "d8/dc9/a22058.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "d8/dc9/a22058.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "d8/dc9/a22058.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "d8/dc9/a22058.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "d8/dc9/a22058.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "d8/dc9/a22058.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_wg_spirit_guideAI", "d6/dbe/a22062.html", "d6/dbe/a22062" ],
+    [ "npc_wg_spirit_guide", "d8/dc9/a22058.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "d8/dc9/a22058.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "d8/dc9/a22058.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "d8/dc9/a22058.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

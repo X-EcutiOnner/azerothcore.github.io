@@ -1,14 +1,8 @@
 var a13638 =
 [
-    [ "boss_apothecary_hummelAI", "d5/def/a13638.html#a75796eb8dc83729f2f726ff51317bd66", null ],
-    [ "DamageTaken", "d5/def/a13638.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
-    [ "DoAction", "d5/def/a13638.html#a03fb543ba20f92d5528bf4667c457631", null ],
-    [ "JustDied", "d5/def/a13638.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
-    [ "Reset", "d5/def/a13638.html#a31381343d2533af670941baf872b3635", null ],
-    [ "sGossipSelect", "d5/def/a13638.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
-    [ "SummonedCreatureDies", "d5/def/a13638.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
-    [ "UpdateAI", "d5/def/a13638.html#a61e4d85ecd592142ba07588512505990", null ],
-    [ "_deadCount", "d5/def/a13638.html#aaac2018e16b80997f884745732605559", null ],
-    [ "_isDead", "d5/def/a13638.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
-    [ "_phase", "d5/def/a13638.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
+    [ "FilterTargets", "d5/def/a13638.html#a3aac5e364d04a4a086aaa911051417d5", null ],
+    [ "HandleDummy", "d5/def/a13638.html#aa0705dee3edeca7b61f82581f367e94a", null ],
+    [ "PrepareSpellScript", "d5/def/a13638.html#a1efa036eac25d789850849dc1b209379", null ],
+    [ "Register", "d5/def/a13638.html#a656b512d5bef657004a72acbf7875760", null ],
+    [ "Validate", "d5/def/a13638.html#a33534d9fd70af99bbde1e4a908d22084", null ]
 ];

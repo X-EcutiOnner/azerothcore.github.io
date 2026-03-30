@@ -1,7 +1,5 @@
 var a13834 =
 [
-    [ "boss_kalec", "dd/dab/a13834.html#a9c36e31c750e93840f30f001cdaca0da", null ],
-    [ "JustDied", "dd/dab/a13834.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
-    [ "JustEngagedWith", "dd/dab/a13834.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
-    [ "UpdateAI", "dd/dab/a13834.html#ab55da7584fa7f545761a5bd547245747", null ]
+    [ "at_twilight_grove", "dd/dab/a13834.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
+    [ "OnTrigger", "dd/dab/a13834.html#a8ee7239b8429df38a237926a7252322b", null ]
 ];

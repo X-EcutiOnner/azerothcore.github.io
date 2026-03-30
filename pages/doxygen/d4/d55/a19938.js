@@ -1,6 +1,5 @@
 var a19938 =
 [
-    [ "PrepareSpellScript", "d4/d55/a19938.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "d4/d55/a19938.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "d4/d55/a19938.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "boss_flame_leviathan_overload_device", "d4/d55/a19938.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
+    [ "OnSpellClick", "d4/d55/a19938.html#a3f313a637fd95e28db1265ae84f349a8", null ]
 ];

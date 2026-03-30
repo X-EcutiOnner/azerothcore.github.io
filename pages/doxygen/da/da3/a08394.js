@@ -1,10 +1,7 @@
 var a08394 =
 [
-    [ "Puppet", "da/da3/a08394.html#ab0082936291e6b7f5370656c7c9ed948", null ],
-    [ "GetOwner", "da/da3/a08394.html#a38760bce8e8ebf28ae0143ad2931afd5", null ],
-    [ "InitStats", "da/da3/a08394.html#ac5dd23d7cf6d4b4a2ba073ae1128181b", null ],
-    [ "InitSummon", "da/da3/a08394.html#abfc97f1d25cb1ac27b1bed6f61867fa3", null ],
-    [ "RemoveFromWorld", "da/da3/a08394.html#a61dcfc821c2221d1747fcb2180e03bfd", null ],
-    [ "Update", "da/da3/a08394.html#a5281497d7689e1dd10f89b5a9f83006f", null ],
-    [ "m_owner", "da/da3/a08394.html#adae18eabdba52ef8a9f7c5c8768e060c", null ]
+    [ "entry", "da/da3/a08394.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
+    [ "pos", "da/da3/a08394.html#af264c1262d9fcd204a2a536847a613b1", null ],
+    [ "respawnTime", "da/da3/a08394.html#abeadd86c92a8c301626dde6943da1b9b", null ],
+    [ "rot", "da/da3/a08394.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
 ];

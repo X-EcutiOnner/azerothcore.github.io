@@ -1,13 +1,7 @@
 var a05918 =
 [
-    [ "SOAPCommand", "d5/d90/a05918.html#a56d5e1a4b0e3abb0284c668e175a8d4b", null ],
-    [ "~SOAPCommand", "d5/d90/a05918.html#ab0a07da0bb379751d0d2812dfa98b607", null ],
-    [ "appendToPrintBuffer", "d5/d90/a05918.html#a116d4a9d85c536ca3866bf340b64b9d9", null ],
-    [ "commandFinished", "d5/d90/a05918.html#a18310d831429b084dc5cbf6310195001", null ],
-    [ "hasCommandSucceeded", "d5/d90/a05918.html#a251a0999a4b74ca8db7bbaa634f1d361", null ],
-    [ "print", "d5/d90/a05918.html#a69a3287df41392488dbcb1be2f0349f3", null ],
-    [ "setCommandSuccess", "d5/d90/a05918.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2", null ],
-    [ "finishedPromise", "d5/d90/a05918.html#aec2e336644d004a59ad21431fbf80c83", null ],
-    [ "m_printBuffer", "d5/d90/a05918.html#aa823e9c8d3048d5780b11d168f5be0d9", null ],
-    [ "m_success", "d5/d90/a05918.html#aab7299bceae48c2066f1885b90a34c60", null ]
+    [ "cmd", "d5/d90/a05918.html#a91e8e56c304147b88db250259ff0a87c", null ],
+    [ "error", "d5/d90/a05918.html#a0872e20a5adcd52a94036bdc6eddc6e6", null ],
+    [ "M2", "d5/d90/a05918.html#a9bb7dca6b62d35ecae97197c4c9693b7", null ],
+    [ "unk2", "d5/d90/a05918.html#a47d83719b502236fdad41e2d07b535a0", null ]
 ];

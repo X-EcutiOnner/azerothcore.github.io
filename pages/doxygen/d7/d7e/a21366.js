@@ -1,11 +1,5 @@
 var a21366 =
 [
-    [ "npc_ichor_globuleAI", "d7/d7e/a21366.html#a4d581f89c8385276fd407c000af9e569", null ],
-    [ "AttackStart", "d7/d7e/a21366.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
-    [ "JustDied", "d7/d7e/a21366.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
-    [ "MoveInLineOfSight", "d7/d7e/a21366.html#af8ef8296512d57d934a171f1a5060e73", null ],
-    [ "SpellHit", "d7/d7e/a21366.html#a1396538a446545408e3c304f3e56400f", null ],
-    [ "UpdateAI", "d7/d7e/a21366.html#a6ff13c853583e5178fb3a690e17303de", null ],
-    [ "pInstance", "d7/d7e/a21366.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
-    [ "uiRangeCheck_Timer", "d7/d7e/a21366.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
+    [ "npc_steam_powered_auctioneerAI", "d7/d7e/a21366.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d7/d7e/a21366.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

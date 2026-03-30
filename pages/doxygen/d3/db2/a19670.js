@@ -1,6 +1,7 @@
 var a19670 =
 [
-    [ "boss_thaddiusAI", "db/d14/a19674.html", "db/d14/a19674" ],
-    [ "boss_thaddius", "d3/db2/a19670.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "d3/db2/a19670.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "OnRemove", "d3/db2/a19670.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d3/db2/a19670.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d3/db2/a19670.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d3/db2/a19670.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

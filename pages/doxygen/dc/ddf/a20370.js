@@ -1,5 +1,5 @@
 var a20370 =
 [
-    [ "boss_freya_iron_root", "dc/ddf/a20370.html#af35a268c89c025d95c13ea8c87d6516e", null ],
-    [ "JustDied", "dc/ddf/a20370.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
+    [ "npc_ulduar_flames_spread", "dc/ddf/a20370.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
+    [ "SpellHit", "dc/ddf/a20370.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
 ];

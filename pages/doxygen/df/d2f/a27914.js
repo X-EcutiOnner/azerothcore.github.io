@@ -1,6 +1,6 @@
 var a27914 =
 [
-    [ "CheckProc", "df/d2f/a27914.html#a957f8837b5613a3bfd8200ded3529c54", null ],
-    [ "PrepareAuraScript", "df/d2f/a27914.html#a37950bfd846e1c2c550a108461941a26", null ],
-    [ "Register", "df/d2f/a27914.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
+    [ "go_pirate_day_musicAI", "d4/d0b/a27918.html", "d4/d0b/a27918" ],
+    [ "go_pirate_day_music", "df/d2f/a27914.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "df/d2f/a27914.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

@@ -1,6 +1,7 @@
 var a18646 =
 [
-    [ "npc_sindragosa_trashAI", "d5/d3d/a18650.html", "d5/d3d/a18650" ],
-    [ "npc_sindragosa_trash", "d3/ddc/a18646.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
-    [ "GetAI", "d3/ddc/a18646.html#ab1de715d98236a853a793d830bc601d7", null ]
+    [ "AuraRemoveEvent", "d3/ddc/a18646.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "d3/ddc/a18646.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "d3/ddc/a18646.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "d3/ddc/a18646.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

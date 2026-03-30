@@ -1,6 +1,5 @@
 var a23534 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "d7/dfa/a23538.html", "d7/dfa/a23538" ],
-    [ "instance_blood_furnace", "d1/d9e/a23534.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "d1/d9e/a23534.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "npc_thaladred", "d1/d9e/a23534.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
+    [ "ScheduleEvents", "d1/d9e/a23534.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
 ];

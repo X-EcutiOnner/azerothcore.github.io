@@ -1,6 +1,7 @@
 var a17034 =
 [
-    [ "boss_jaraxxusAI", "db/d54/a17038.html", "db/d54/a17038" ],
-    [ "boss_jaraxxus", "da/d3d/a17034.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "da/d3d/a17034.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "HandlePeriodicTick", "da/d3d/a17034.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
+    [ "PrepareAuraScript", "da/d3d/a17034.html#aabaef31a3c699c322e24e064f357f82f", null ],
+    [ "Register", "da/d3d/a17034.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
+    [ "Validate", "da/d3d/a17034.html#a18d92a82760992bc5d8503e3f774f208", null ]
 ];

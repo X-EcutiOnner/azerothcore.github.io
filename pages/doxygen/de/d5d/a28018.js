@@ -1,5 +1,5 @@
 var a28018 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "de/d5d/a28018.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "de/d5d/a28018.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "go_veil_skith_cage", "de/d5d/a28018.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
+    [ "OnGossipHello", "de/d5d/a28018.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
 ];

@@ -1,6 +1,6 @@
 var a19310 =
 [
-    [ "npc_icc_valkyr_heraldAI", "dc/d06/a19314.html", "dc/d06/a19314" ],
-    [ "npc_icc_valkyr_herald", "d0/de0/a19310.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "d0/de0/a19310.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "boss_nothAI", "dc/d06/a19314.html", "dc/d06/a19314" ],
+    [ "boss_noth", "d0/de0/a19310.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "d0/de0/a19310.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

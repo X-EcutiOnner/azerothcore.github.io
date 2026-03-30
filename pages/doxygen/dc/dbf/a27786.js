@@ -1,7 +1,6 @@
 var a27786 =
 [
-    [ "HandleProc", "dc/dbf/a27786.html#a9296b52700f070af311047166f6a913b", null ],
-    [ "PrepareAuraScript", "dc/dbf/a27786.html#a067cc24e65f79bab10b9d1258fad3460", null ],
-    [ "Register", "dc/dbf/a27786.html#affbd8840159048b6ea55ab98900d38c0", null ],
-    [ "Validate", "dc/dbf/a27786.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
+    [ "boss_lethonAI", "d2/d1f/a27790.html", "d2/d1f/a27790" ],
+    [ "boss_lethon", "dc/dbf/a27786.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "dc/dbf/a27786.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

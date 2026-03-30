@@ -1,8 +1,6 @@
 var a21522 =
 [
-    [ "HandleEffectRemove", "df/d27/a21522.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "df/d27/a21522.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "df/d27/a21522.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "df/d27/a21522.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "df/d27/a21522.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "SACDeactivateEvent", "df/d27/a21522.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "df/d27/a21522.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "df/d27/a21522.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

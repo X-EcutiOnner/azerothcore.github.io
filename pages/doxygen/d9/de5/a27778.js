@@ -1,6 +1,6 @@
 var a27778 =
 [
-    [ "CheckProc", "d9/de5/a27778.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
-    [ "PrepareAuraScript", "d9/de5/a27778.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
-    [ "Register", "d9/de5/a27778.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
+    [ "boss_ysondreAI", "db/d18/a27782.html", "db/d18/a27782" ],
+    [ "boss_ysondre", "d9/de5/a27778.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "d9/de5/a27778.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

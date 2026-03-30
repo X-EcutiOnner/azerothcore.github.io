@@ -1,8 +1,8 @@
 var a09670 =
 [
-    [ "NearestHostileUnitInAttackDistanceCheck", "d7/d67/a09670.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
-    [ "NearestHostileUnitInAttackDistanceCheck", "d7/d67/a09670.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
-    [ "operator()", "d7/d67/a09670.html#adc28281742cd1f6a49152481b48f944e", null ],
-    [ "m_range", "d7/d67/a09670.html#ab79296a88ed07257edbe3449c2515b40", null ],
-    [ "me", "d7/d67/a09670.html#a298d2489b9bf30aa510407afca79a374", null ]
+    [ "CallOfHelpCreatureInRangeDo", "d7/d67/a09670.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
+    [ "operator()", "d7/d67/a09670.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
+    [ "i_enemy", "d7/d67/a09670.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
+    [ "i_funit", "d7/d67/a09670.html#aff1768cd844e4e23821cf78f9d360e06", null ],
+    [ "i_range", "d7/d67/a09670.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
 ];

@@ -1,7 +1,6 @@
 var a27810 =
 [
-    [ "HandleProc", "d0/d7f/a27810.html#a5046d3b14fcf4260da937032c043fe42", null ],
-    [ "PrepareAuraScript", "d0/d7f/a27810.html#abcc31343fd53057e8116b47dd56033c1", null ],
-    [ "Register", "d0/d7f/a27810.html#a9a04291ffb75010ccaa46801d06e2080", null ],
-    [ "Validate", "d0/d7f/a27810.html#a13ecea64673f78b4b384a411a7aa8ca7", null ]
+    [ "boss_taerarAI", "df/de6/a27814.html", "df/de6/a27814" ],
+    [ "boss_taerar", "d0/d7f/a27810.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d0/d7f/a27810.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

@@ -1,6 +1,10 @@
 var a21274 =
 [
-    [ "HandleOnHit", "db/dc6/a21274.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "db/dc6/a21274.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "db/dc6/a21274.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "npc_jenny", "db/dc6/a21274.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "db/dc6/a21274.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "db/dc6/a21274.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "db/dc6/a21274.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "db/dc6/a21274.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "db/dc6/a21274.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "db/dc6/a21274.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

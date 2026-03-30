@@ -1,6 +1,6 @@
 var a18058 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "de/d3f/a18062.html", "de/d3f/a18062" ],
-    [ "npc_high_overlord_saurfang_igb", "de/d72/a18058.html#ae68d42f65851a753874705511bb83330", null ],
-    [ "GetAI", "de/d72/a18058.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
+    [ "npc_gas_cloudAI", "de/d72/a18058.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
+    [ "CastMainSpell", "de/d72/a18058.html#a61681f6f9616fe33274302d4160c709b", null ],
+    [ "_newTargetSelectTimer", "de/d72/a18058.html#a6989b904abaa5b71362e43664f4b084d", null ]
 ];

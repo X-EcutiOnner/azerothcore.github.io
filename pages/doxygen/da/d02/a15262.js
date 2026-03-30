@@ -1,6 +1,5 @@
 var a15262 =
 [
-    [ "boss_meathookAI", "da/db8/a15266.html", "da/db8/a15266" ],
-    [ "boss_meathook", "da/d02/a15262.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
-    [ "GetAI", "da/d02/a15262.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
+    [ "npc_hive_zara_swarmer", "da/d02/a15262.html#a374fa63e210e0be8a074af9199126a9e", null ],
+    [ "PathEndReached", "da/d02/a15262.html#a3b3510bd00853395b756e1d83d96a474", null ]
 ];

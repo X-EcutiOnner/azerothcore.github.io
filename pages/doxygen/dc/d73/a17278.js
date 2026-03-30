@@ -1,6 +1,6 @@
 var a17278 =
 [
-    [ "PrepareSpellScript", "dc/d73/a17278.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "dc/d73/a17278.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "dc/d73/a17278.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "npc_pos_collapsing_icicleAI", "d7/dbc/a17282.html", "d7/dbc/a17282" ],
+    [ "npc_pos_collapsing_icicle", "dc/d73/a17278.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "dc/d73/a17278.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

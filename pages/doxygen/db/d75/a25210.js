@@ -1,8 +1,8 @@
 var a25210 =
 [
-    [ "HandleScript", "db/d75/a25210.html#a2376d12f379f75f5decfdc133c18403e", null ],
-    [ "Load", "db/d75/a25210.html#aa70bfd2e614f9bf68ad2972990f0f7f5", null ],
-    [ "PrepareSpellScript", "db/d75/a25210.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1", null ],
-    [ "Register", "db/d75/a25210.html#a0b32bf9d565d7d6f606150f70fc244a0", null ],
-    [ "Validate", "db/d75/a25210.html#a1aee8ca0cc33f949371fa5cbb4745ccd", null ]
+    [ "CalcPeriodic", "db/d75/a25210.html#ab11cad89fe213256353c88c351a8743b", null ],
+    [ "HandleUpdatePeriodic", "db/d75/a25210.html#a096bc5640e42232f7754251daf5b6a8a", null ],
+    [ "OnApply", "db/d75/a25210.html#ae00430a1418a0c3e91ae340f1a33f157", null ],
+    [ "PrepareAuraScript", "db/d75/a25210.html#a85b849676d1c4c08921edff8d472da04", null ],
+    [ "Register", "db/d75/a25210.html#a75a4f12269c7684335c3c09cd5002586", null ]
 ];

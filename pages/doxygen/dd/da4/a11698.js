@@ -1,13 +1,8 @@
 var a11698 =
 [
-    [ "PetAuraMap", "dd/da4/a11698.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
-    [ "PetAura", "dd/da4/a11698.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
-    [ "PetAura", "dd/da4/a11698.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
-    [ "AddAura", "dd/da4/a11698.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
-    [ "GetAura", "dd/da4/a11698.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
-    [ "GetDamage", "dd/da4/a11698.html#a38087712cef92ad55dc84f96e2b9e300", null ],
-    [ "IsRemovedOnChangePet", "dd/da4/a11698.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
-    [ "auras", "dd/da4/a11698.html#abacd738dfb04687810b981297b1a1567", null ],
-    [ "damage", "dd/da4/a11698.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
-    [ "removeOnChangePet", "dd/da4/a11698.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
+    [ "DirectionType", "dd/da4/a11698.html#a8491033c0286895c2d4d3280cfd529f0", null ],
+    [ "ObjectType", "dd/da4/a11698.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
+    [ "ReferenceType", "dd/da4/a11698.html#a44e310a789c4c5a288f07c9254ad389a", null ],
+    [ "SelectionCategory", "dd/da4/a11698.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
+    [ "SelectionCheckType", "dd/da4/a11698.html#a35c8d221b47de13408a0256598fa9d63", null ]
 ];

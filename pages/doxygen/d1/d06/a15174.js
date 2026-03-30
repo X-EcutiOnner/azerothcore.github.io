@@ -1,12 +1,12 @@
 var a15174 =
 [
-    [ "boss_kazrogal", "d1/d06/a15174.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
-    [ "DoAction", "d1/d06/a15174.html#a7721debceeefaeb69e71855b8e8742f8", null ],
-    [ "GetMarkRepeatTimer", "d1/d06/a15174.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
-    [ "JustDied", "d1/d06/a15174.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
-    [ "JustEngagedWith", "d1/d06/a15174.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
-    [ "KilledUnit", "d1/d06/a15174.html#ab1439114a84d85947106d979f38d12fa", null ],
-    [ "Reset", "d1/d06/a15174.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
-    [ "_markCounter", "d1/d06/a15174.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
-    [ "_recentlySpoken", "d1/d06/a15174.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
+    [ "boss_isalien", "d1/d06/a15174.html#a736a25e60ae367a45c7d6451be96126d", null ],
+    [ "DamageTaken", "d1/d06/a15174.html#a95d461e099193b5e2c1363acb1b5939a", null ],
+    [ "JustDied", "d1/d06/a15174.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
+    [ "JustEngagedWith", "d1/d06/a15174.html#ad6714da515db77c7299ee80b3268433e", null ],
+    [ "JustSummoned", "d1/d06/a15174.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
+    [ "Reset", "d1/d06/a15174.html#a4995c18e2baa62d05717617d0b1e3529", null ],
+    [ "UpdateAI", "d1/d06/a15174.html#aa067bea34557a4b2fe840ef305852bc0", null ],
+    [ "_phase", "d1/d06/a15174.html#a954bbd32948e6c416197199d96142056", null ],
+    [ "_scheduler", "d1/d06/a15174.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
 ];

@@ -1,20 +1,11 @@
 var a14578 =
 [
-    [ "boss_mandokirAI", "d1/d18/a14578.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
-    [ "CalculateThreat", "d1/d18/a14578.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
-    [ "DamageDealt", "d1/d18/a14578.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
-    [ "DoAction", "d1/d18/a14578.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
-    [ "DoMeleeAttackIfReady", "d1/d18/a14578.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
-    [ "JustDied", "d1/d18/a14578.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
-    [ "JustEngagedWith", "d1/d18/a14578.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
-    [ "KilledUnit", "d1/d18/a14578.html#a6230dc14db38d43fb060f028cfde9d32", null ],
-    [ "MovementInform", "d1/d18/a14578.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
-    [ "OnTeleportUnreacheablePlayer", "d1/d18/a14578.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
-    [ "Reset", "d1/d18/a14578.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
-    [ "SetGUID", "d1/d18/a14578.html#ad496b4bd7e97988b44357ac91ac3701c", null ],
-    [ "UpdateAI", "d1/d18/a14578.html#a1037b770bb46400aef0ec034f86468fc", null ],
-    [ "_chargeTarget", "d1/d18/a14578.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
-    [ "_useExecute", "d1/d18/a14578.html#a305f064869874d8620d794a7d26f6358", null ],
-    [ "killCount", "d1/d18/a14578.html#a280e27385988e0f5cc65c60511bd4100", null ],
-    [ "reviveGUID", "d1/d18/a14578.html#a7f955c8399167d3f3aa974596f398c13", null ]
+    [ "npc_snowfall_glade_playmate", "d1/d18/a14578.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
+    [ "MoveInLineOfSight", "d1/d18/a14578.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
+    [ "Reset", "d1/d18/a14578.html#a89040d9843852b01123e102b49509857", null ],
+    [ "UpdateAI", "d1/d18/a14578.html#a6dedc1cae1e568a792341842e8a922e8", null ],
+    [ "orphanGUID", "d1/d18/a14578.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
+    [ "phase", "d1/d18/a14578.html#a9a5b2348313063bc389b99158fc72e3f", null ],
+    [ "playerGUID", "d1/d18/a14578.html#a4ca4198fdbf3c98291255916ee53c637", null ],
+    [ "timer", "d1/d18/a14578.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
 ];

@@ -1,6 +1,6 @@
 var a11822 =
 [
-    [ "EffectAbsorbHandler", "dc/d1a/a11822.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "dc/d1a/a11822.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "dc/d1a/a11822.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "DestinationTargetSelectHandler", "dc/d1a/a11822.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
+    [ "Call", "dc/d1a/a11822.html#a81ae2eb856507ee22308ae2739854382", null ],
+    [ "DestinationTargetSelectHandlerScript", "dc/d1a/a11822.html#a95e882b892a79b464a521a8367b2e9b7", null ]
 ];

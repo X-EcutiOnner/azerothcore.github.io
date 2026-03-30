@@ -1,9 +1,13 @@
 var a29774 =
 [
-    [ "defaultHitMask", "df/da5/a29774.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
-    [ "defaultSpellPhaseMask", "df/da5/a29774.html#af927bd441959e8e122648de610398c65", null ],
-    [ "defaultSpellTypeMask", "df/da5/a29774.html#aa64e6ad192c41998b368b908c499574d", null ],
-    [ "name", "df/da5/a29774.html#a78f8589133427f536f15ea05672ad42f", null ],
-    [ "procFlag", "df/da5/a29774.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
-    [ "requiresSpellPhase", "df/da5/a29774.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
+    [ "liquidTris", "df/da5/a29774.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
+    [ "liquidType", "df/da5/a29774.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
+    [ "liquidVerts", "df/da5/a29774.html#a52796933ab018f27d12f625673f7f8a9", null ],
+    [ "offMeshConnectionDirs", "df/da5/a29774.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
+    [ "offMeshConnectionRads", "df/da5/a29774.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
+    [ "offMeshConnections", "df/da5/a29774.html#a706feac90bb398da61296bac9d0b7176", null ],
+    [ "offMeshConnectionsAreas", "df/da5/a29774.html#af5af113433bb2776e6735195e57ab6f7", null ],
+    [ "offMeshConnectionsFlags", "df/da5/a29774.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
+    [ "solidTris", "df/da5/a29774.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
+    [ "solidVerts", "df/da5/a29774.html#a915387c2cfa7111de4a957646a2aace4", null ]
 ];

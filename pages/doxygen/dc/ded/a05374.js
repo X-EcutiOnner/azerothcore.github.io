@@ -1,17 +1,7 @@
 var a05374 =
 [
-    [ "Reloadable", "dc/ded/a05374.html#a5ce3ea201b2a7f6bc16e5594e001680b", [
-      [ "No", "dc/ded/a05374.html#a5ce3ea201b2a7f6bc16e5594e001680babafd7322c6e97d25b6299b5d6fe8920b", null ],
-      [ "Yes", "dc/ded/a05374.html#a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435", null ]
-    ] ],
-    [ "ConfigValueCache", "dc/ded/a05374.html#afc10aa10787175aac1155ab576c44868", null ],
-    [ "BuildConfigCache", "dc/ded/a05374.html#a8e49c987c471c98f707ffc8c697d959d", null ],
-    [ "GetConfigValue", "dc/ded/a05374.html#a274d23acbfb0b10d6b1482bf37b41b0c", null ],
-    [ "GetConfigValue", "dc/ded/a05374.html#a9a3a6bb71fd3c695625d5dc64525fb51", null ],
-    [ "Initialize", "dc/ded/a05374.html#a3645d00d7d88bac526ab2da095e2893e", null ],
-    [ "OverwriteConfigValue", "dc/ded/a05374.html#a38f4fd18a5b1bcf1a87736b6e7bf52cf", null ],
-    [ "SetConfigValue", "dc/ded/a05374.html#a2fd376bdf015db27133e636c3051410f", null ],
-    [ "VerifyAllConfigsLoaded", "dc/ded/a05374.html#a69bceb7d8f714b478dfe6e6aea29c65a", null ],
-    [ "_configs", "dc/ded/a05374.html#aaca9aa5722cca588ed3149dc5b5098f3", null ],
-    [ "_reloading", "dc/ded/a05374.html#a70b2a229ff1caa9924f404f5b98cf801", null ]
+    [ "operator()", "dc/ded/a05374.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
+    [ "closestEntity", "dc/ded/a05374.html#ab377424b7edd0274f61967619700f841", null ],
+    [ "hitLocation", "dc/ded/a05374.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
+    [ "hitNormal", "dc/ded/a05374.html#a57f40f48c26829f7da9e48efd839d773", null ]
 ];

@@ -1,6 +1,6 @@
 var a12630 =
 [
-    [ "OrcMoveEvent", "d0/d06/a12630.html#a71f7fe243741a1629bdd846fc97f0112", null ],
-    [ "Execute", "d0/d06/a12630.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
-    [ "_me", "d0/d06/a12630.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
+    [ "go_chromaggus_lever", "d0/d06/a12630.html#aa592f93028e323ed10102121d2d6b20e", null ],
+    [ "GossipHello", "d0/d06/a12630.html#abfb91ccfeb90152dc252f0110fb51715", null ],
+    [ "_instance", "d0/d06/a12630.html#a481373f4c49d76d3d0a41efcf2821f8f", null ]
 ];

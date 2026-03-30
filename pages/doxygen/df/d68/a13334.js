@@ -1,6 +1,8 @@
 var a13334 =
 [
-    [ "HandleProc", "df/d68/a13334.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "df/d68/a13334.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "df/d68/a13334.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "npc_highlord_darion_mograineAI", "d2/dc0/a13338.html", "d2/dc0/a13338" ],
+    [ "npc_highlord_darion_mograine", "df/d68/a13334.html#a86680b1a140c706b10fd48befc572286", null ],
+    [ "GetAI", "df/d68/a13334.html#a350539ed741fa372ffff92ffbc6e6260", null ],
+    [ "OnGossipHello", "df/d68/a13334.html#a35afc9d80b4570163af9f6013949a70c", null ],
+    [ "OnGossipSelect", "df/d68/a13334.html#a0539d24556c16a1a72be8258c752f5f5", null ]
 ];

@@ -1,6 +1,7 @@
 var a22406 =
 [
-    [ "CheckCast", "d6/d1e/a22406.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d6/d1e/a22406.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d6/d1e/a22406.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "HandleProc", "d6/d1e/a22406.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "d6/d1e/a22406.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "d6/d1e/a22406.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "d6/d1e/a22406.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

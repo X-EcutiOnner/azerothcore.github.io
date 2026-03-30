@@ -1,12 +1,10 @@
 var a22634 =
 [
-    [ "boss_anzu", "d6/d4a/a22634.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "d6/d4a/a22634.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "d6/d4a/a22634.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "d6/d4a/a22634.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "d6/d4a/a22634.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "d6/d4a/a22634.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "d6/d4a/a22634.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "d6/d4a/a22634.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "d6/d4a/a22634.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "CalculateAmount", "d6/d4a/a22634.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "d6/d4a/a22634.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "d6/d4a/a22634.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "d6/d4a/a22634.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "d6/d4a/a22634.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "d6/d4a/a22634.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "d6/d4a/a22634.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

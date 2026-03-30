@@ -1,7 +1,12 @@
 var a22882 =
 [
-    [ "SuckBackEvent", "d5/dc4/a22882.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "d5/dc4/a22882.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "d5/dc4/a22882.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "d5/dc4/a22882.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "boss_leotheras_the_blind", "d5/dc4/a22882.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d5/dc4/a22882.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d5/dc4/a22882.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d5/dc4/a22882.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d5/dc4/a22882.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d5/dc4/a22882.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d5/dc4/a22882.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d5/dc4/a22882.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "d5/dc4/a22882.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

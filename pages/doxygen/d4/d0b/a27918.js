@@ -1,8 +1,7 @@
 var a27918 =
 [
-    [ "CheckProc", "d4/d0b/a27918.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
-    [ "HandleEffectProc", "d4/d0b/a27918.html#af01d160cb2a55124361a2dd113acd0a7", null ],
-    [ "PrepareAuraScript", "d4/d0b/a27918.html#aeffb8490a7208ae6e32a505283afbc03", null ],
-    [ "Register", "d4/d0b/a27918.html#a5436413d098dde4b0fa1ed2259a47779", null ],
-    [ "Validate", "d4/d0b/a27918.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
+    [ "go_pirate_day_musicAI", "d4/d0b/a27918.html#a1abe263949b7a07e5143779efcddc7eb", null ],
+    [ "UpdateAI", "d4/d0b/a27918.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
+    [ "_events", "d4/d0b/a27918.html#a233ae55a05876c665455b106ef50d57e", null ],
+    [ "rnd", "d4/d0b/a27918.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
 ];

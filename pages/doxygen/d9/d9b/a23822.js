@@ -1,6 +1,11 @@
 var a23822 =
 [
-    [ "npc_capernian", "d9/d9b/a23822.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "d9/d9b/a23822.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "d9/d9b/a23822.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "npc_maxx_a_million_escortAI", "d9/d9b/a23822.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "d9/d9b/a23822.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "d9/d9b/a23822.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "d9/d9b/a23822.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "d9/d9b/a23822.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "WaypointReached", "d9/d9b/a23822.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bTake", "d9/d9b/a23822.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "d9/d9b/a23822.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

@@ -1,11 +1,13 @@
 var a20942 =
 [
-    [ "boss_yoggsaron_neltharion", "d2/ddb/a20942.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
-    [ "NextStep", "d2/ddb/a20942.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
-    [ "Reset", "d2/ddb/a20942.html#ab26d57690c1d2477678dc9759aefeab2", null ],
-    [ "Say", "d2/ddb/a20942.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
-    [ "UpdateAI", "d2/ddb/a20942.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
-    [ "_checkTimer", "d2/ddb/a20942.html#a2adcf3f46d4003ae2044eda474e51983", null ],
-    [ "_running", "d2/ddb/a20942.html#acd807afae6aa88c2e385765231a56a86", null ],
-    [ "_step", "d2/ddb/a20942.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
+    [ "MoveX", "d2/ddb/a20942.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d2/ddb/a20942.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d2/ddb/a20942.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d2/ddb/a20942.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d2/ddb/a20942.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d2/ddb/a20942.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d2/ddb/a20942.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d2/ddb/a20942.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d2/ddb/a20942.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d2/ddb/a20942.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

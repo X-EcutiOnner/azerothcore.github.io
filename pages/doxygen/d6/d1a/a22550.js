@@ -1,5 +1,6 @@
 var a22550 =
 [
-    [ "OutdoorPvP_terokkar_forest", "d6/d1a/a22550.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
-    [ "GetOutdoorPvP", "d6/d1a/a22550.html#acf268293812d7a1a233e7f1fcba1e733", null ]
+    [ "HandleSharedRule", "d6/d1a/a22550.html#a94b783490dafae872b65e0bbfed156b9", null ],
+    [ "PrepareSpellScript", "d6/d1a/a22550.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
+    [ "Register", "d6/d1a/a22550.html#a31f2d90059e62da77a719a192d62328b", null ]
 ];

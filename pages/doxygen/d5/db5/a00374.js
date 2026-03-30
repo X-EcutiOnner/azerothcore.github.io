@@ -1,4 +1,4 @@
 var a00374 =
 [
-    [ "B32Impl", "d6/d3f/a05571.html", "d6/d3f/a05571" ]
+    [ "Acore::String::Trim< std::string >", "d5/db5/a00374.html#a39e286b6ca47198eba4d5e31cef66aa5", null ]
 ];

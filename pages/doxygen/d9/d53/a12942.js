@@ -1,6 +1,6 @@
 var a12942 =
 [
-    [ "boss_lucifronAI", "d9/d53/a12942.html#ab93792bd7798b9ee9cf869fa20190554", null ],
-    [ "ExecuteEvent", "d9/d53/a12942.html#a0ba286f037c07032488d6763daeaf130", null ],
-    [ "JustEngagedWith", "d9/d53/a12942.html#aba3256ec99e56e3051045391fceedc7f", null ]
+    [ "HandleApply", "d9/d53/a12942.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
+    [ "PrepareAuraScript", "d9/d53/a12942.html#ae908ad87781553cc3bed05ea510a4447", null ],
+    [ "Register", "d9/d53/a12942.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
 ];

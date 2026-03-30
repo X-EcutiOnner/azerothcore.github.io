@@ -1,7 +1,5 @@
 var a19922 =
 [
-    [ "CalcDamage", "d9/d18/a19922.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "d9/d18/a19922.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "d9/d18/a19922.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "d9/d18/a19922.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "achievement_auriaya_nine_lives", "d9/d18/a19922.html#a750304bc946a7ecefec29dc18c429d3b", null ],
+    [ "OnCheck", "d9/d18/a19922.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
 ];

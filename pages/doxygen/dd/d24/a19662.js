@@ -1,21 +1,12 @@
 var a19662 =
 [
-    [ "boss_sapphironAI", "dd/d24/a19662.html#a96866122f159f818b2a4312fb7d3057c", null ],
-    [ "DoAction", "dd/d24/a19662.html#acf45e7c200afb41f90784e75066c2ef4", null ],
-    [ "EnterCombatSelfFunction", "dd/d24/a19662.html#a62e6b1482b2fa791813b9a5520a234e4", null ],
-    [ "InitializeAI", "dd/d24/a19662.html#a38c4586095aeaf404914369ae5414351", null ],
-    [ "IsInRoom", "dd/d24/a19662.html#a18ae5aa0e2fa5a5a37359fed5a16f4be", null ],
-    [ "IsValidExplosionTarget", "dd/d24/a19662.html#a0b147e8392fba250499e0cdd7d9ff39b", null ],
-    [ "JustDied", "dd/d24/a19662.html#aebb211a381a74128489986e32954c089", null ],
-    [ "JustEngagedWith", "dd/d24/a19662.html#a197b4add6d328ebdfb3f0c051f216cd5", null ],
-    [ "KilledUnit", "dd/d24/a19662.html#a7e4fd2ad6735419b34484c46ec2ef421", null ],
-    [ "MovementInform", "dd/d24/a19662.html#abc8f71849ac2e21a4612fbab9239829f", null ],
-    [ "Reset", "dd/d24/a19662.html#ae0e4559477f26660b20ce5de5f295c54", null ],
-    [ "SpellHitTarget", "dd/d24/a19662.html#a8da157b4da551b96f534ad80fcf2f8e1", null ],
-    [ "UpdateAI", "dd/d24/a19662.html#a3c7c9a032233d381c942bbb29a4a39e9", null ],
-    [ "blockList", "dd/d24/a19662.html#a82d135980280477372324da270e3e6a1", null ],
-    [ "currentTarget", "dd/d24/a19662.html#a9557df2556d86c50f41d066ce3373eaf", null ],
-    [ "events", "dd/d24/a19662.html#a9fc4dbd88390dbb455150144f4604ccb", null ],
-    [ "iceboltCount", "dd/d24/a19662.html#a765c041f412c4d20023b0cc435d4bc4f", null ],
-    [ "spawnTimer", "dd/d24/a19662.html#adef834e9b17d7cff0aaed9c36b7c7684", null ]
+    [ "boss_ionar", "dd/d24/a19662.html#a323da67c3ff33d09d07cf0369600a473", null ],
+    [ "JustDied", "dd/d24/a19662.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
+    [ "JustEngagedWith", "dd/d24/a19662.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
+    [ "KilledUnit", "dd/d24/a19662.html#ae6b1225147bc146066185d4d21c19f14", null ],
+    [ "Reset", "dd/d24/a19662.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
+    [ "ScheduleEvents", "dd/d24/a19662.html#af74dda7ad9cd156036689694b3bb9986", null ],
+    [ "SpellHit", "dd/d24/a19662.html#a85c0ba28de5a684435246539d2106dcd", null ],
+    [ "Split", "dd/d24/a19662.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
+    [ "UpdateAI", "dd/d24/a19662.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

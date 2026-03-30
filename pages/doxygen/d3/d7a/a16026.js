@@ -1,10 +1,6 @@
 var a16026 =
 [
-    [ "npc_omenAI", "d3/d7a/a16026.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "d3/d7a/a16026.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "d3/d7a/a16026.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "d3/d7a/a16026.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "d3/d7a/a16026.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "d3/d7a/a16026.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "d3/d7a/a16026.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "d3/d47/a16030.html", "d3/d47/a16030" ],
+    [ "instance_zulfarrak", "d3/d7a/a16026.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "d3/d7a/a16026.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

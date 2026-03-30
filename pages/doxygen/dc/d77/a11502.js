@@ -1,5 +1,6 @@
 var a11502 =
 [
-    [ "amountCounter", "dc/d77/a11502.html#af652ffc837bde625aa39e913ec2e2eec", null ],
-    [ "lastReceiveTime", "dc/d77/a11502.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
+    [ "AccountData", "dc/d77/a11502.html#a593303fb86ec3ac592ee933b8d057fe8", null ],
+    [ "Data", "dc/d77/a11502.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
+    [ "Time", "dc/d77/a11502.html#a38b2049e50845641cc380b6786e68ac5", null ]
 ];

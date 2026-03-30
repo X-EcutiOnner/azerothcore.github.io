@@ -1,5 +1,8 @@
 var a16258 =
 [
-    [ "go_elune_fire", "db/d06/a16258.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "db/d06/a16258.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "boss_sartharion_vesperon", "db/d06/a16258.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
+    [ "ClearInstance", "db/d06/a16258.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
+    [ "ExecuteEvent", "db/d06/a16258.html#aefc42452e75c476aef39ba0df3a03d70", null ],
+    [ "Reset", "db/d06/a16258.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
+    [ "SummonedCreatureDies", "db/d06/a16258.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
 ];

@@ -1,6 +1,14 @@
 var a22138 =
 [
-    [ "npc_frostbrood_skytalonAI", "d8/d2b/a22142.html", "d8/d2b/a22142" ],
-    [ "npc_frostbrood_skytalon", "dd/d80/a22138.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "dd/d80/a22138.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_finklesteinAI", "dd/d80/a22138.html#a075481689af110f8c20cd5ca13258ba3", null ],
+    [ "ClearPlayerOnTask", "dd/d80/a22138.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
+    [ "GetTaskAura", "dd/d80/a22138.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
+    [ "GetTaskCounter", "dd/d80/a22138.html#a240e8f556176b9571bd08407276402be", null ],
+    [ "GetTaskItemEntry", "dd/d80/a22138.html#a08a3005db6d192663a835b9ee192352b", null ],
+    [ "GetTaskItemName", "dd/d80/a22138.html#adce990629aa1833dc07c7dbb1297cead", null ],
+    [ "IsPlayerOnTask", "dd/d80/a22138.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
+    [ "RightClickCauldron", "dd/d80/a22138.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
+    [ "SelectRandomCode", "dd/d80/a22138.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
+    [ "StartNextTask", "dd/d80/a22138.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
+    [ "questList", "dd/d80/a22138.html#a5c3a3237579721b94dd433841b83bb02", null ]
 ];

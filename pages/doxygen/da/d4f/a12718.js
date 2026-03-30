@@ -1,7 +1,7 @@
 var a12718 =
 [
-    [ "go_suppression_deviceAI", "d0/d87/a12722.html", "d0/d87/a12722" ],
-    [ "go_suppression_device", "da/d4f/a12718.html#a900713d6b029015f8868a96e5e1b9018", null ],
-    [ "GetAI", "da/d4f/a12718.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
-    [ "OnLootStateChanged", "da/d4f/a12718.html#a684546c3ce0c0785d52a87eb011ef313", null ]
+    [ "HandleRemove", "da/d4f/a12718.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "da/d4f/a12718.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "da/d4f/a12718.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "da/d4f/a12718.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

@@ -1,6 +1,6 @@
 var a19866 =
 [
-    [ "boss_uromAI", "d3/dc1/a19870.html", "d3/dc1/a19870" ],
-    [ "boss_urom", "d8/d4f/a19866.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
-    [ "GetAI", "d8/d4f/a19866.html#ac381b851f3cc746fb323ff238892c537", null ]
+    [ "CastRunesEvent", "d8/d4f/a19866.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "d8/d4f/a19866.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "d8/d4f/a19866.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

@@ -1,23 +1,18 @@
 var a03278 =
 [
-    [ "boss_ghazan", "d7/d86/a23111.html", "d7/d86/a23111" ],
-    [ "at_underbog_ghazan", "d3/d96/a23115.html", "d3/d96/a23115" ],
-    [ "eBlackStalker", "d9/d7f/a03278.html#afbee42c6927db9ad2cf9d9096eeac954", [
-      [ "SPELL_ACID_BREATH", "d9/d7f/a03278.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
-      [ "SPELL_ACID_SPIT", "d9/d7f/a03278.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],
-      [ "SPELL_TAIL_SWEEP", "d9/d7f/a03278.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823", null ],
-      [ "SPELL_ENRAGE", "d9/d7f/a03278.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "ACTION_MOVE_TO_PLATFORM", "d9/d7f/a03278.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa", null ],
-      [ "SPELL_LEVITATE", "d0/d84/a03281.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2", null ],
-      [ "SPELL_CHAIN_LIGHTNING", "d0/d84/a03281.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_STATIC_CHARGE", "d0/d84/a03281.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0", null ],
-      [ "SPELL_SUMMON_SPORE_STRIDER", "d0/d84/a03281.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed", null ],
-      [ "SPELL_LEVITATION_PULSE", "d0/d84/a03281.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1", null ],
-      [ "SPELL_SOMEONE_GRAB_ME", "d0/d84/a03281.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b", null ],
-      [ "SPELL_MAGNETIC_PULL", "d0/d84/a03281.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5", null ],
-      [ "SPELL_SUSPENSION_PRIMER", "d0/d84/a03281.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de", null ],
-      [ "SPELL_SUSPENSION", "d0/d84/a03281.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0", null ],
-      [ "ENTRY_SPORE_STRIDER", "d0/d84/a03281.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2", null ]
-    ] ],
-    [ "AddSC_boss_ghazan", "d9/d7f/a03278.html#a6b7605f750dab7f676edcd83f54c249a", null ]
+    [ "ChangeEmail", "d9/d7f/a03278.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
+    [ "ChangePassword", "d9/d7f/a03278.html#a6a9cb892c15d78b5de65738005234ff6", null ],
+    [ "ChangeUsername", "d9/d7f/a03278.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
+    [ "CheckPassword", "d9/d7f/a03278.html#a17c28dfcb31af8f4241bb5210408185a", null ],
+    [ "CreateAccount", "d9/d7f/a03278.html#a761f39260d15a979ce0214f212b936b7", null ],
+    [ "DeleteAccount", "d9/d7f/a03278.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
+    [ "GetCharactersCount", "d9/d7f/a03278.html#a4fb760897161c3d463f842b28bcf7c20", null ],
+    [ "GetId", "d9/d7f/a03278.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
+    [ "GetName", "d9/d7f/a03278.html#af911e3860ec519c541d6df35468ee41b", null ],
+    [ "GetSecurity", "d9/d7f/a03278.html#a8280510b2564ec6ea76727218c1687b3", null ],
+    [ "GetSecurity", "d9/d7f/a03278.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
+    [ "IsAdminAccount", "d9/d7f/a03278.html#adb1b210137b09011677c74011addeefa", null ],
+    [ "IsConsoleAccount", "d9/d7f/a03278.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
+    [ "IsGMAccount", "d9/d7f/a03278.html#a2f5fb2cf0c24e610c09ac734be93c7a9", null ],
+    [ "IsPlayerAccount", "d9/d7f/a03278.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
 ];

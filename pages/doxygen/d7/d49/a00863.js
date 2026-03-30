@@ -1,5 +1,6 @@
 var a00863 =
 [
-    [ "ForeachMaps", "d7/d49/a00863.html#a899f6a046cdda33d737030dd4923ca7d", null ],
-    [ "ScriptRegistry< AllMapScript >", "d7/d49/a00863.html#ada370fef23e6d206da686c8bb6149104", null ]
+    [ "CharacterDatabase", "d7/d49/a00863.html#a7e7534bc66d79434bd280b77cb124eec", null ],
+    [ "LoginDatabase", "d7/d49/a00863.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
+    [ "WorldDatabase", "d7/d49/a00863.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
 ];

@@ -1,10 +1,10 @@
 var a02078 =
 [
-    [ "AutobroadcastMgr", "dd/d71/a07423.html", "dd/d71/a07423" ],
-    [ "sAutobroadcastMgr", "d6/d5b/a02078.html#a34abff2dadcb74370b0749fe9fda3878", null ],
-    [ "AnnounceType", "d6/d5b/a02078.html#a28a4ef2f64643c76d8be05bf9eafc731", [
-      [ "World", "d6/d5b/a02078.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
-      [ "Notification", "d6/d5b/a02078.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
-      [ "Both", "d6/d5b/a02078.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
-    ] ]
+    [ "AccountFlagText", "d5/d45/a12250.html", "d5/d45/a12250" ],
+    [ "misc_commandscript", "d2/d45/a12254.html", "d2/d45/a12254" ],
+    [ "AddSC_misc_commandscript", "d6/d5b/a02078.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
+    [ "GetLocalizeCreatureName", "d6/d5b/a02078.html#aaedbdfd3cae227b11684151f41e3b977", null ],
+    [ "accountFlagText", "d6/d5b/a02078.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],
+    [ "SPELL_FREEZE", "d6/d5b/a02078.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
+    [ "SPELL_STUCK", "d6/d5b/a02078.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
 ];

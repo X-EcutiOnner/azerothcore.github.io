@@ -1,7 +1,14 @@
 var a22010 =
 [
-    [ "HandleScriptEffect", "d5/dd0/a22010.html#a7b0fca053f225beda41942d8fee86383", null ],
-    [ "PrepareSpellScript", "d5/dd0/a22010.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
-    [ "Register", "d5/dd0/a22010.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
-    [ "Validate", "d5/dd0/a22010.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
+    [ "npc_wild_wyrm", "d5/dd0/a22010.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
+    [ "DamageTaken", "d5/dd0/a22010.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
+    [ "DoAction", "d5/dd0/a22010.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
+    [ "InitSpellsForPhase", "d5/dd0/a22010.html#adcc805b0880d95c185af4a587474c2d2", null ],
+    [ "MovementInform", "d5/dd0/a22010.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
+    [ "PassengerBoarded", "d5/dd0/a22010.html#a362052015873c615448bec978d744c9e", null ],
+    [ "Reset", "d5/dd0/a22010.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
+    [ "SpellHit", "d5/dd0/a22010.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
+    [ "UpdateAI", "d5/dd0/a22010.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
+    [ "_phase", "d5/dd0/a22010.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
+    [ "_playerGuid", "d5/dd0/a22010.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
 ];

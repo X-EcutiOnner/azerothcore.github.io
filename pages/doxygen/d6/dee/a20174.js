@@ -1,6 +1,10 @@
 var a20174 =
 [
-    [ "CastRunesEvent", "d6/dee/a20174.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "d6/dee/a20174.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "d6/dee/a20174.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "HandleEffectPeriodic", "d6/dee/a20174.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "d6/dee/a20174.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "d6/dee/a20174.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "d6/dee/a20174.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "d6/dee/a20174.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "d6/dee/a20174.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "d6/dee/a20174.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

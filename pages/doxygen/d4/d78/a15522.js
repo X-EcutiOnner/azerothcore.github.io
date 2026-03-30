@@ -1,7 +1,6 @@
 var a15522 =
 [
-    [ "boss_kurinnaxx", "d4/d78/a15522.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "d4/d78/a15522.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "d4/d78/a15522.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "d4/d78/a15522.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "HandleOnHit", "d4/d78/a15522.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
+    [ "PrepareSpellScript", "d4/d78/a15522.html#a9e568a1608715973fc438ff5e4356714", null ],
+    [ "Register", "d4/d78/a15522.html#a752d697aada626440fdff2bd889f890f", null ]
 ];

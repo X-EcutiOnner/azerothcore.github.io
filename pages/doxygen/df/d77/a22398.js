@@ -1,9 +1,6 @@
 var a22398 =
 [
-    [ "HandleFinish", "df/d77/a22398.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "df/d77/a22398.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "df/d77/a22398.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "df/d77/a22398.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "df/d77/a22398.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "df/d77/a22398.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "dd/dc1/a22402.html", "dd/dc1/a22402" ],
+    [ "instance_shadow_labyrinth", "df/d77/a22398.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
+    [ "GetInstanceScript", "df/d77/a22398.html#af9edf624413593a5cdf025dd9a1c3631", null ]
 ];

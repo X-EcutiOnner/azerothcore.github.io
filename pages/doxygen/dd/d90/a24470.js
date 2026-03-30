@@ -1,7 +1,6 @@
 var a24470 =
 [
-    [ "CheckCast", "dd/d90/a24470.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "dd/d90/a24470.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "dd/d90/a24470.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "dd/d90/a24470.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "HandleEffectCalcSpellMod", "dd/d90/a24470.html#aaf21dafa72b58245f548ed946a49659d", null ],
+    [ "PrepareAuraScript", "dd/d90/a24470.html#ac05d3ae466ad64ac590f399827aac0c9", null ],
+    [ "Register", "dd/d90/a24470.html#a46a643985647d8a8e033b637b31214a5", null ]
 ];

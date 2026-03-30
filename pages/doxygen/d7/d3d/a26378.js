@@ -1,8 +1,9 @@
 var a26378 =
 [
-    [ "CheckProc", "d7/d3d/a26378.html#af82895c2ed07f43c28923b61427f4ddf", null ],
-    [ "HandleProc", "d7/d3d/a26378.html#ad1a13141720e0e605966c2304b0f8eb9", null ],
-    [ "PrepareAuraScript", "d7/d3d/a26378.html#af3ff786badfbb56f90bc3c8865c839bb", null ],
-    [ "Register", "d7/d3d/a26378.html#ac1fea3f63b5ffd742a83e8d45a26ae68", null ],
-    [ "Validate", "d7/d3d/a26378.html#a980784152abf41e91b5fe5a9c2e3d5dc", null ]
+    [ "Load", "d7/d3d/a26378.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "d7/d3d/a26378.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "d7/d3d/a26378.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "d7/d3d/a26378.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "d7/d3d/a26378.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "d7/d3d/a26378.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

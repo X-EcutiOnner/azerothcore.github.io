@@ -1,13 +1,6 @@
 var a23390 =
 [
-    [ "boss_ghazan", "d3/d15/a23390.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "d3/d15/a23390.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "d3/d15/a23390.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "d3/d15/a23390.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "d3/d15/a23390.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "d3/d15/a23390.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "d3/d15/a23390.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "d3/d15/a23390.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "d3/d15/a23390.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "d3/d15/a23390.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "npc_millhouse_manastormAI", "dc/dfb/a23394.html", "dc/dfb/a23394" ],
+    [ "npc_millhouse_manastorm", "d3/d15/a23390.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "d3/d15/a23390.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

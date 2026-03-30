@@ -1,6 +1,6 @@
 var a13974 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "d0/d0d/a13974.html#aae99b35ff990fd7486d5b70693b6729a", null ],
-    [ "Load", "d0/d0d/a13974.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
-    [ "OnPlayerEnter", "d0/d0d/a13974.html#ab45827eaa92aea4746378b3c11fda219", null ]
+    [ "npc_tyrion_spybotAI", "df/d6a/a13978.html", "df/d6a/a13978" ],
+    [ "npc_tyrion_spybot", "d0/d0d/a13974.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "d0/d0d/a13974.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

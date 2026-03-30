@@ -1,7 +1,14 @@
 var a13430 =
 [
-    [ "HandleScriptEffect", "df/d01/a13430.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
-    [ "PrepareSpellScript", "df/d01/a13430.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
-    [ "Register", "df/d01/a13430.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
-    [ "Validate", "df/d01/a13430.html#a20f7416465ba1cc04426f24037e8074e", null ]
+    [ "boss_apothecary_hummelAI", "df/d01/a13430.html#a75796eb8dc83729f2f726ff51317bd66", null ],
+    [ "DamageTaken", "df/d01/a13430.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
+    [ "DoAction", "df/d01/a13430.html#a03fb543ba20f92d5528bf4667c457631", null ],
+    [ "JustDied", "df/d01/a13430.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
+    [ "Reset", "df/d01/a13430.html#a31381343d2533af670941baf872b3635", null ],
+    [ "sGossipSelect", "df/d01/a13430.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
+    [ "SummonedCreatureDies", "df/d01/a13430.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
+    [ "UpdateAI", "df/d01/a13430.html#a61e4d85ecd592142ba07588512505990", null ],
+    [ "_deadCount", "df/d01/a13430.html#aaac2018e16b80997f884745732605559", null ],
+    [ "_isDead", "df/d01/a13430.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
+    [ "_phase", "df/d01/a13430.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
 ];

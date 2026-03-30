@@ -1,6 +1,6 @@
 var a27046 =
 [
-    [ "HandleDummy", "df/d3f/a27046.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
-    [ "PrepareSpellScript", "df/d3f/a27046.html#a5efc666af2cb73c376706c20e41ace68", null ],
-    [ "Register", "df/d3f/a27046.html#a46e61697212a43532e148ccb12a7d8e5", null ]
+    [ "HandleProc", "df/d3f/a27046.html#a34fc7c89e962791d76c24c40bbdba827", null ],
+    [ "PrepareAuraScript", "df/d3f/a27046.html#a3558a23d2d428ee4f0bec8ae6c1afba5", null ],
+    [ "Register", "df/d3f/a27046.html#aab998e808ec9f53e87d92e71b3cc1c30", null ]
 ];

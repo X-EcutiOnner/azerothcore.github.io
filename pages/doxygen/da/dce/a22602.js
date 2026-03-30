@@ -1,6 +1,12 @@
 var a22602 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "df/d77/a22606.html", "df/d77/a22606" ],
-    [ "instance_auchenai_crypts", "da/dce/a22602.html#a8b16924167c54a9d8120bac67bc10fed", null ],
-    [ "GetInstanceScript", "da/dce/a22602.html#a99e47df95fde07d4a6e7687634805b93", null ]
+    [ "boss_essence_of_sufferingAI", "da/dce/a22602.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
+    [ "DamageTaken", "da/dce/a22602.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
+    [ "DoAction", "da/dce/a22602.html#a08724d74523866969b12d13846eb4c1e", null ],
+    [ "JustEngagedWith", "da/dce/a22602.html#aa2fce36768ad6e23a955cd215ca759db", null ],
+    [ "KilledUnit", "da/dce/a22602.html#a3699b19f23cf15115ff8c92691a6d334", null ],
+    [ "MovementInform", "da/dce/a22602.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
+    [ "Reset", "da/dce/a22602.html#affa55b69784d8f881598189c361c986e", null ],
+    [ "UpdateAI", "da/dce/a22602.html#abb60432720b3720832ccc83d454a3808", null ],
+    [ "_recentlySpoken", "da/dce/a22602.html#a71a28a61e97f6278836649411493484f", null ]
 ];

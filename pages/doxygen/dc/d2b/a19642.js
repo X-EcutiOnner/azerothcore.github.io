@@ -1,6 +1,8 @@
 var a19642 =
 [
-    [ "boss_razuviousAI", "d3/d67/a19646.html", "d3/d67/a19646" ],
-    [ "boss_razuvious", "dc/d2b/a19642.html#ac1a2942f4a7957c671b075df7bf20215", null ],
-    [ "GetAI", "dc/d2b/a19642.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
+    [ "HandleEffectPeriodic", "dc/d2b/a19642.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "dc/d2b/a19642.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "dc/d2b/a19642.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "dc/d2b/a19642.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "dc/d2b/a19642.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

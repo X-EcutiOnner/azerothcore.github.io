@@ -1,6 +1,5 @@
 var a10630 =
 [
-    [ "LootScript", "d8/d1e/a10630.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
-    [ "IsDatabaseBound", "d8/d1e/a10630.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "d8/d1e/a10630.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "GenericGameObjectScript", "d8/d1e/a10630.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
+    [ "GetAI", "d8/d1e/a10630.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
 ];

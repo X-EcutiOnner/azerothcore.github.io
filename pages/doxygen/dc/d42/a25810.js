@@ -1,7 +1,9 @@
 var a25810 =
 [
-    [ "HandleScriptEffect", "dc/d42/a25810.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "dc/d42/a25810.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "dc/d42/a25810.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "dc/d42/a25810.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "CheckCast", "dc/d42/a25810.html#af92fe276563a8ca0d939d881dba8adda", null ],
+    [ "HandleDummy", "dc/d42/a25810.html#a86b4413dd25f96fb197604007171a8d1", null ],
+    [ "Load", "dc/d42/a25810.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
+    [ "PrepareSpellScript", "dc/d42/a25810.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
+    [ "Register", "dc/d42/a25810.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
+    [ "Validate", "dc/d42/a25810.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
 ];

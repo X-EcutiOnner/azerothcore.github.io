@@ -1,8 +1,9 @@
 var a29114 =
 [
-    [ "difficulty", "da/d9f/a29114.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "da/d9f/a29114.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "da/d9f/a29114.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "da/d9f/a29114.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "da/d9f/a29114.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "TimeSeg", "da/d9f/a29114.html#a16782e722a5bada41691841fe594b7a6", null ],
+    [ "TransportEntry", "da/d9f/a29114.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
+    [ "W", "da/d9f/a29114.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
+    [ "X", "da/d9f/a29114.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
+    [ "Y", "da/d9f/a29114.html#a7f0ff898e752e2e904ebee1412643df6", null ],
+    [ "Z", "da/d9f/a29114.html#a87647d71a965e80154ca36dc05421585", null ]
 ];

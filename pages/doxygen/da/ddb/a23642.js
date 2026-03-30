@@ -1,6 +1,8 @@
 var a23642 =
 [
-    [ "boss_porung", "da/ddb/a23642.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "da/ddb/a23642.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "da/ddb/a23642.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "instance_mechanar_InstanceMapScript", "da/ddb/a23642.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "da/ddb/a23642.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "da/ddb/a23642.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "da/ddb/a23642.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "da/ddb/a23642.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

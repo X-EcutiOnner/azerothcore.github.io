@@ -1,7 +1,5 @@
 var a20310 =
 [
-    [ "HandleScript", "d2/dcf/a20310.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "d2/dcf/a20310.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "d2/dcf/a20310.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "d2/dcf/a20310.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "achievement_kologarn_with_open_arms", "d2/dcf/a20310.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "d2/dcf/a20310.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

@@ -1,10 +1,8 @@
 var a08850 =
 [
-    [ "EquipmentSet", "dd/d67/a08850.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "dd/d67/a08850.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "dd/d67/a08850.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "dd/d67/a08850.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "dd/d67/a08850.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "dd/d67/a08850.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "dd/d67/a08850.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "BaseRune", "dd/d67/a08850.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
+    [ "ConvertAura", "dd/d67/a08850.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
+    [ "Cooldown", "dd/d67/a08850.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
+    [ "CurrentRune", "dd/d67/a08850.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
+    [ "GracePeriod", "dd/d67/a08850.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
 ];

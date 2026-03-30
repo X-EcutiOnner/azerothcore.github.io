@@ -1,8 +1,14 @@
 var a10050 =
 [
-    [ "EllipseBoundary", "de/dff/a10050.html#aeb8c822a8c4c745de0c848721a624545", null ],
-    [ "IsWithinBoundaryArea", "de/dff/a10050.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
-    [ "_center", "de/dff/a10050.html#aa84bae8bced77e38fec652e473cf39c7", null ],
-    [ "_radiusYSq", "de/dff/a10050.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
-    [ "_scaleXSq", "de/dff/a10050.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
+    [ "DoublePosition", "de/dff/a10050.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
+    [ "DoublePosition", "de/dff/a10050.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
+    [ "DoublePosition", "de/dff/a10050.html#a543ff52f7b278f68cc36ee880932e744", null ],
+    [ "GetDoubleExactDist2dSq", "de/dff/a10050.html#ae17b4e695ff23a8ec323405801f2013a", null ],
+    [ "GetDoublePositionX", "de/dff/a10050.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
+    [ "GetDoublePositionY", "de/dff/a10050.html#a201096c85022d54b1d9dbe9264df901f", null ],
+    [ "GetDoublePositionZ", "de/dff/a10050.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
+    [ "sync", "de/dff/a10050.html#a75e75187d6663591a39c87bc1086aebd", null ],
+    [ "DoublePosX", "de/dff/a10050.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
+    [ "DoublePosY", "de/dff/a10050.html#a90839893f3a58a72a07177d3eee1d691", null ],
+    [ "DoublePosZ", "de/dff/a10050.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
 ];

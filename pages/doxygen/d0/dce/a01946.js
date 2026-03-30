@@ -1,13 +1,14 @@
 var a01946 =
 [
-    [ "WorldPackets::Character::ShowingCloak", "dd/d19/a10807.html", "dd/d19/a10807" ],
-    [ "WorldPackets::Character::ShowingHelm", "d7/d50/a10811.html", "d7/d50/a10811" ],
-    [ "WorldPackets::Character::LogoutRequest", "dc/d33/a10815.html", "dc/d33/a10815" ],
-    [ "WorldPackets::Character::LogoutResponse", "d0/dc2/a10819.html", "d0/dc2/a10819" ],
-    [ "WorldPackets::Character::LogoutComplete", "d9/d8f/a10823.html", "d9/d8f/a10823" ],
-    [ "WorldPackets::Character::LogoutCancel", "d2/d0b/a10827.html", "d2/d0b/a10827" ],
-    [ "WorldPackets::Character::LogoutCancelAck", "d0/d7c/a10831.html", "d0/d7c/a10831" ],
-    [ "WorldPackets::Character::PlayerLogout", "de/d5c/a10835.html", "de/d5c/a10835" ],
-    [ "WorldPackets::Character::PlayedTimeClient", "db/da7/a10839.html", "db/da7/a10839" ],
-    [ "WorldPackets::Character::PlayedTime", "d5/d88/a10843.html", "d5/d88/a10843" ]
+    [ "guard_shattrath_scryer", "d7/d83/a28034.html", "d7/d83/a28034" ],
+    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "db/d4d/a28038.html", "db/d4d/a28038" ],
+    [ "guard_shattrath_aldor", "d8/d21/a28042.html", "d8/d21/a28042" ],
+    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "df/d29/a28046.html", "df/d29/a28046" ],
+    [ "GuardShattrath", "d0/dce/a01946.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
+      [ "SPELL_BANISHED_SHATTRATH_A", "d0/dce/a01946.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
+      [ "SPELL_BANISHED_SHATTRATH_S", "d0/dce/a01946.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
+      [ "SPELL_BANISH_TELEPORT", "d0/dce/a01946.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
+      [ "SPELL_EXILE", "d0/dce/a01946.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
+    ] ],
+    [ "AddSC_guards", "d0/dce/a01946.html#acba582cbc90c710c629dd30926acdca4", null ]
 ];

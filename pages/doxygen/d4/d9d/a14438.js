@@ -1,7 +1,6 @@
 var a14438 =
 [
-    [ "HandleTriggerSpell", "d4/d9d/a14438.html#a66b366f4989d99a58b331e56024e4520", null ],
-    [ "PrepareAuraScript", "d4/d9d/a14438.html#a4b00497e095b5c43571b543252b31e58", null ],
-    [ "Register", "d4/d9d/a14438.html#abacee7689888bf8c5d21b534a6d71b40", null ],
-    [ "Validate", "d4/d9d/a14438.html#a6bef0ac760a319deed6f71fee213e885", null ]
+    [ "instance_zulgurub_InstanceMapScript", "d5/d40/a14442.html", "d5/d40/a14442" ],
+    [ "instance_zulgurub", "d4/d9d/a14438.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
+    [ "GetInstanceScript", "d4/d9d/a14438.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
 ];

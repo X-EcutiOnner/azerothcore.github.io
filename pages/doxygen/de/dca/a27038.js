@@ -1,8 +1,8 @@
 var a27038 =
 [
-    [ "HandleEffectRemove", "de/dca/a27038.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "de/dca/a27038.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "de/dca/a27038.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "de/dca/a27038.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "de/dca/a27038.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "HandleRootRemove", "de/dca/a27038.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "de/dca/a27038.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "de/dca/a27038.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "de/dca/a27038.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "de/dca/a27038.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

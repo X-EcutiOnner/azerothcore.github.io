@@ -1,10 +1,10 @@
 var a16634 =
 [
-    [ "spell_halion_combustion_consumption_aura", "d3/d8c/a16634.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
-    [ "AddMarkStack", "d3/d8c/a16634.html#a337776c42bd6c42ecdffb508808ed070", null ],
-    [ "OnApply", "d3/d8c/a16634.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
-    [ "OnRemove", "d3/d8c/a16634.html#a3959dbe8bbdf2d3953daf14072614708", null ],
-    [ "PrepareAuraScript", "d3/d8c/a16634.html#a334f2211429dde989b6beb6c10a71464", null ],
-    [ "Register", "d3/d8c/a16634.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
-    [ "_markSpell", "d3/d8c/a16634.html#a8236d9d50f267a12216d90f8041da439", null ]
+    [ "npc_nerubian_burrowerAI", "d3/d8c/a16634.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "d3/d8c/a16634.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "d3/d8c/a16634.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "d3/d8c/a16634.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "d3/d8c/a16634.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "d3/d8c/a16634.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "d3/d8c/a16634.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

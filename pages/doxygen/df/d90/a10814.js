@@ -1,6 +1,6 @@
 var a10814 =
 [
-    [ "PlayedTimeClient", "df/d90/a10814.html#a1c82d4d153606da9887d64599f319883", null ],
-    [ "Read", "df/d90/a10814.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
-    [ "TriggerScriptEvent", "df/d90/a10814.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
+    [ "ShowingCloak", "df/d90/a10814.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
+    [ "Read", "df/d90/a10814.html#ad72ae43efc070655aa078d9985369442", null ],
+    [ "ShowCloak", "df/d90/a10814.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
 ];

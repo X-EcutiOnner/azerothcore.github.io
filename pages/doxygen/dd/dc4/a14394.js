@@ -1,6 +1,6 @@
 var a14394 =
 [
-    [ "instance_zulaman_InstanceMapScript", "d7/d09/a14398.html", "d7/d09/a14398" ],
-    [ "instance_zulaman", "dd/dc4/a14394.html#a5a81dddc07dea599e2a197737206427b", null ],
-    [ "GetInstanceScript", "dd/dc4/a14394.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
+    [ "HandleObjectAreaTargetSelect", "dd/dc4/a14394.html#aa7695bddd766d5adefb04710d41894f6", null ],
+    [ "PrepareSpellScript", "dd/dc4/a14394.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
+    [ "Register", "dd/dc4/a14394.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
 ];

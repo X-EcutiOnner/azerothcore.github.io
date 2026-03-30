@@ -1,6 +1,5 @@
 var a21262 =
 [
-    [ "boss_emalonAI", "d4/d5e/a21266.html", "d4/d5e/a21266" ],
-    [ "boss_emalon", "dc/dff/a21262.html#a2dd481292e02337bebd450f5c9821886", null ],
-    [ "GetAI", "dc/dff/a21262.html#a345b0663ba89de5e37b87a436c48e446", null ]
+    [ "npc_nerubar_victimAI", "dc/dff/a21262.html#a494976030dd48544742dd14fc09ffdbd", null ],
+    [ "JustDied", "dc/dff/a21262.html#abe3813465cad08800708726cb7ffa021", null ]
 ];

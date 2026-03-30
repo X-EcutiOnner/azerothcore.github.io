@@ -1,6 +1,8 @@
 var a13070 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "d9/d40/a13074.html", "d9/d40/a13074" ],
-    [ "instance_gnomeregan", "d1/d06/a13070.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "d1/d06/a13070.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "npc_cyclone", "d1/d06/a13070.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "d1/d06/a13070.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "d1/d06/a13070.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "d1/d06/a13070.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "d1/d06/a13070.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

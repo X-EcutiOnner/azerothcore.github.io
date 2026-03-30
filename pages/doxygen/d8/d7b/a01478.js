@@ -1,11 +1,14 @@
 var a01478 =
 [
-    [ "StableResultCode", "d8/d7b/a01478.html#abee8740a43e35bc796d1287225999514", [
-      [ "STABLE_ERR_MONEY", "d8/d7b/a01478.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
-      [ "STABLE_ERR_STABLE", "d8/d7b/a01478.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
-      [ "STABLE_SUCCESS_STABLE", "d8/d7b/a01478.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
-      [ "STABLE_SUCCESS_UNSTABLE", "d8/d7b/a01478.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
-      [ "STABLE_SUCCESS_BUY_SLOT", "d8/d7b/a01478.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
-      [ "STABLE_ERR_EXOTIC", "d8/d7b/a01478.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
-    ] ]
+    [ "npc_tapoke_slim_jahn", "db/de9/a14078.html", "db/de9/a14078" ],
+    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "dc/d3e/a14082.html", "dc/d3e/a14082" ],
+    [ "npc_mikhail", "df/de8/a14086.html", "df/de8/a14086" ],
+    [ "TapokeSlim", "d8/d7b/a01478.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
+      [ "QUEST_MISSING_DIPLO_PT11", "d8/d7b/a01478.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
+      [ "SPELL_STEALTH", "d8/d7b/a01478.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
+      [ "SPELL_CALL_FRIENDS", "d8/d7b/a01478.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
+      [ "NPC_SLIMS_FRIEND", "d8/d7b/a01478.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
+      [ "NPC_TAPOKE_SLIM_JAHN", "d8/d7b/a01478.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
+    ] ],
+    [ "AddSC_wetlands", "d8/d7b/a01478.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
 ];

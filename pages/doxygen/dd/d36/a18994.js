@@ -1,12 +1,9 @@
 var a18994 =
 [
-    [ "npc_risen_archmageAI", "dd/d36/a18994.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
-    [ "CanAIAttack", "dd/d36/a18994.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
-    [ "DoAction", "dd/d36/a18994.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
-    [ "JustEngagedWith", "dd/d36/a18994.html#aef3a1631b4bb8d28d4056036981b0192", null ],
-    [ "JustSummoned", "dd/d36/a18994.html#aff6e86057086db1319bb680e52e41634", null ],
-    [ "Reset", "dd/d36/a18994.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
-    [ "UpdateAI", "dd/d36/a18994.html#ae78dc64f858573b234210ca175e5bdd9", null ],
-    [ "_events", "dd/d36/a18994.html#a6dff9ff5332c0bc337840882689f47ed", null ],
-    [ "_instance", "dd/d36/a18994.html#a1b4e12b199bf3ada517c895c5f387c4a", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "dd/d36/a18994.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "dd/d36/a18994.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "dd/d36/a18994.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "dd/d36/a18994.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "dd/d36/a18994.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "dd/d36/a18994.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

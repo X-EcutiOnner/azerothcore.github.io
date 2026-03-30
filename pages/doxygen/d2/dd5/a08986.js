@@ -1,27 +1,8 @@
 var a08986 =
 [
-    [ "HealInfo", "d2/dd5/a08986.html#a25fe1984f6c3ef5eeb90049ef4749437", null ],
-    [ "AbsorbHeal", "d2/dd5/a08986.html#ae656cf383df85bb88c6486e5aac1df5b", null ],
-    [ "AddHitMask", "d2/dd5/a08986.html#ab976973e3c88f0206971d5d143e41f74", null ],
-    [ "GetAbsorb", "d2/dd5/a08986.html#a3a29dc8e520997a58c7da005945d96e2", null ],
-    [ "GetEffectiveHeal", "d2/dd5/a08986.html#a3d5391116c63cc0a3cacb2cab1512a01", null ],
-    [ "GetHeal", "d2/dd5/a08986.html#af95a6d6c94a72874c150a3deabce20ee", null ],
-    [ "GetHealBeforeTakenMods", "d2/dd5/a08986.html#a711c008630d8d5077bf1050c12953513", null ],
-    [ "GetHealer", "d2/dd5/a08986.html#a2139bd1efadb23063a67d3fef35b424d", null ],
-    [ "GetHitMask", "d2/dd5/a08986.html#aae94110ec9d6f88cf0f504a8b6bc356e", null ],
-    [ "GetSchoolMask", "d2/dd5/a08986.html#aca2b1e31608a7c186a06e9bbe8977a9d", null ],
-    [ "GetSpellInfo", "d2/dd5/a08986.html#a53b73d5b297e341be237723269c7644d", null ],
-    [ "GetTarget", "d2/dd5/a08986.html#ae7a08b2e27a5ac316ed2d3bca7d2395d", null ],
-    [ "SetEffectiveHeal", "d2/dd5/a08986.html#ac3564eb034d66a0d0199e5412db82ba8", null ],
-    [ "SetHeal", "d2/dd5/a08986.html#a622e0993c76b43f30d9cc774c70a92b0", null ],
-    [ "SetHealBeforeTakenMods", "d2/dd5/a08986.html#adee6d7f3f911c6d3c46a17481dc3dec3", null ],
-    [ "m_absorb", "d2/dd5/a08986.html#a383cc7bb4d30dd72cbfeaedd9b5d5042", null ],
-    [ "m_effectiveHeal", "d2/dd5/a08986.html#a0a00b20efbeb2e5bf515dc98e96aa12d", null ],
-    [ "m_heal", "d2/dd5/a08986.html#af0a2d7c40710cabbb88122de2650c705", null ],
-    [ "m_healBeforeTakenMods", "d2/dd5/a08986.html#a6c5ae323b9e5c946ca6887bee0a63283", null ],
-    [ "m_healer", "d2/dd5/a08986.html#ad291e8e65eb0a9a9054ac1827cf0d315", null ],
-    [ "m_hitMask", "d2/dd5/a08986.html#a9a76facea1d79fb8f30ab8d58cba7f2f", null ],
-    [ "m_schoolMask", "d2/dd5/a08986.html#af2fd7934b1b1cd08dd4dcfeadc9c02df", null ],
-    [ "m_spellInfo", "d2/dd5/a08986.html#a68d6d63fdd1efb458615e24f65e643be", null ],
-    [ "m_target", "d2/dd5/a08986.html#a3a13a815e870e6745888ed082e8498e8", null ]
+    [ "DiminishingReturn", "d2/dd5/a08986.html#acd4828637710636d0164fced285c854d", null ],
+    [ "DRGroup", "d2/dd5/a08986.html#add3ab95d65e283a326e1922129941ae4", null ],
+    [ "hitCount", "d2/dd5/a08986.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
+    [ "hitTime", "d2/dd5/a08986.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
+    [ "stack", "d2/dd5/a08986.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
 ];

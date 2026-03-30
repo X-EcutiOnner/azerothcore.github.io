@@ -1,6 +1,10 @@
 var a17946 =
 [
-    [ "npc_saurfang_eventAI", "dd/dee/a17950.html", "dd/dee/a17950" ],
-    [ "npc_saurfang_event", "db/d26/a17946.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "db/d26/a17946.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "npc_cult_adherentAI", "db/d26/a17946.html#a1ea249a25b188a949213788614f4049e", null ],
+    [ "JustEngagedWith", "db/d26/a17946.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
+    [ "Reset", "db/d26/a17946.html#ab0b54e45468b5ebed0194c441cce434e", null ],
+    [ "SpellHit", "db/d26/a17946.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
+    [ "UpdateAI", "db/d26/a17946.html#ad89638cf5859615ba2e3a0deb6701751", null ],
+    [ "_instance", "db/d26/a17946.html#a970e99fba28d6e3e0cb759c87a866273", null ],
+    [ "events", "db/d26/a17946.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
 ];

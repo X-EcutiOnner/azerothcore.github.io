@@ -1,6 +1,5 @@
 var a26194 =
 [
-    [ "CheckProc", "dc/de6/a26194.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
-    [ "PrepareAuraScript", "dc/de6/a26194.html#a3fa05a39b003805f405d814214f4366e", null ],
-    [ "Register", "dc/de6/a26194.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
+    [ "Trigger", "dc/de6/a26194.html#aa16aba75a066e83cb56660a0e29e7453", null ],
+    [ "Validate", "dc/de6/a26194.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
 ];

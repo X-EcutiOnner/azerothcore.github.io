@@ -1,6 +1,6 @@
 var a21534 =
 [
-    [ "npc_khunok_the_behemothAI", "dc/d37/a21538.html", "dc/d37/a21538" ],
-    [ "npc_khunok_the_behemoth", "d9/ddc/a21534.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "d9/ddc/a21534.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "GhoulTargetCheck", "d9/ddc/a21534.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d9/ddc/a21534.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d9/ddc/a21534.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

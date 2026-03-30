@@ -1,11 +1,6 @@
 var a14850 =
 [
-    [ "o", "d5/d3a/a14850.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
-    [ "rot0", "d5/d3a/a14850.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
-    [ "rot1", "d5/d3a/a14850.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
-    [ "rot2", "d5/d3a/a14850.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
-    [ "rot3", "d5/d3a/a14850.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
-    [ "x", "d5/d3a/a14850.html#a6e527854cf0959995d6b0133dedc94c9", null ],
-    [ "y", "d5/d3a/a14850.html#a7536047696bd4883237369976b503131", null ],
-    [ "z", "d5/d3a/a14850.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
+    [ "HandleScriptEffect", "d5/d3a/a14850.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
+    [ "PrepareSpellScript", "d5/d3a/a14850.html#a55115ca986d5226588d168ced7ab1f55", null ],
+    [ "Register", "d5/d3a/a14850.html#ad8811bf48dfb564afcd82cf51b860255", null ]
 ];

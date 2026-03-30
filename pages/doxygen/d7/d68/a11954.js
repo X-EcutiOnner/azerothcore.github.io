@@ -1,9 +1,11 @@
 var a11954 =
 [
-    [ "bytes", "d7/d68/a11954.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "d7/d68/a11954.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "d7/d68/a11954.html#a811f59fc775a37c7c9eaaae2f175c864", null ],
-    [ "ints", "d7/d68/a11954.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "d7/d68/a11954.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "d7/d68/a11954.html#a6b901fe41612a05e97dff474fbeff7f6", null ]
+    [ "WorldUpdateTime", "d7/d68/a11954.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "d7/d68/a11954.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "d7/d68/a11954.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "d7/d68/a11954.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "d7/d68/a11954.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "d7/d68/a11954.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "d7/d68/a11954.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "d7/d68/a11954.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

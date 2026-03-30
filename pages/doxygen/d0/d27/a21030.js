@@ -1,6 +1,6 @@
 var a21030 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d0/d27/a21030.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d0/d27/a21030.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d0/d27/a21030.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "npc_frozen_orb_stalkerAI", "d9/ddb/a21034.html", "d9/ddb/a21034" ],
+    [ "npc_frozen_orb_stalker", "d0/d27/a21030.html#a7f025c829106aa6668427f913d07a722", null ],
+    [ "GetAI", "d0/d27/a21030.html#af33e27138a70286bac561113ed09f350", null ]
 ];

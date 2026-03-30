@@ -1,25 +1,17 @@
 var a00959 =
 [
-    [ "MiscScript", "d1/d57/a10663.html", "d1/d57/a10663" ],
-    [ "MiscHook", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134", [
-      [ "MISCHOOK_ON_CONSTRUCT_OBJECT", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb", null ],
-      [ "MISCHOOK_ON_DESTRUCT_OBJECT", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f", null ],
-      [ "MISCHOOK_ON_CONSTRUCT_PLAYER", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439", null ],
-      [ "MISCHOOK_ON_DESTRUCT_PLAYER", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf", null ],
-      [ "MISCHOOK_ON_CONSTRUCT_GROUP", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72", null ],
-      [ "MISCHOOK_ON_DESTRUCT_GROUP", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da", null ],
-      [ "MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2", null ],
-      [ "MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5", null ],
-      [ "MISCHOOK_ON_ITEM_CREATE", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c", null ],
-      [ "MISCHOOK_CAN_APPLY_SOULBOUND_FLAG", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f", null ],
-      [ "MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded", null ],
-      [ "MISCHOOK_CAN_SEND_AUCTIONHELLO", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27", null ],
-      [ "MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0", null ],
-      [ "MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433", null ],
-      [ "MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea", null ],
-      [ "MISCHOOK_ON_PLAYER_SET_PHASE", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616", null ],
-      [ "MISCHOOK_ON_INSTANCE_SAVE", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f", null ],
-      [ "MISCHOOK_GET_DIALOG_STATUS", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490", null ],
-      [ "MISCHOOK_END", "db/d40/a00959.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9", null ]
-    ] ]
+    [ "AddSC_deathknight_spell_scripts", "db/d40/a00959.html#adcd4982e9aa1bb7ee8b4b39976cb7273", null ],
+    [ "AddSC_druid_spell_scripts", "db/d40/a00959.html#a27c286499ee0c44de84c8f14e5c82d50", null ],
+    [ "AddSC_generic_spell_scripts", "db/d40/a00959.html#ac2941716297c47e58e65de027a53ce16", null ],
+    [ "AddSC_hunter_spell_scripts", "db/d40/a00959.html#af7e6bdb12ab989b575a1dca18382ea7c", null ],
+    [ "AddSC_item_spell_scripts", "db/d40/a00959.html#a7c83be18daa3cdaab096b0caf49520a2", null ],
+    [ "AddSC_mage_spell_scripts", "db/d40/a00959.html#a504d82c8e95f93fa88a54d34e919ed57", null ],
+    [ "AddSC_paladin_spell_scripts", "db/d40/a00959.html#a1b3a1eb790e51c96829e92e5c922f437", null ],
+    [ "AddSC_priest_spell_scripts", "db/d40/a00959.html#a0b0a2df1c9b8607784e59887025677c4", null ],
+    [ "AddSC_quest_spell_scripts", "db/d40/a00959.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c", null ],
+    [ "AddSC_rogue_spell_scripts", "db/d40/a00959.html#a540405afe3345e19487d2db693272b2a", null ],
+    [ "AddSC_shaman_spell_scripts", "db/d40/a00959.html#a3082f46075e4e453c37bc429c9d57a1a", null ],
+    [ "AddSC_warlock_spell_scripts", "db/d40/a00959.html#a2054657c41c2347732a7d2903e3b8138", null ],
+    [ "AddSC_warrior_spell_scripts", "db/d40/a00959.html#a9c003dba1ff10c2e27f5ee3d4109549f", null ],
+    [ "AddSpellsScripts", "db/d40/a00959.html#aed7f09583615630437020215a3851296", null ]
 ];

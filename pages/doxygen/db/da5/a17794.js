@@ -1,11 +1,6 @@
 var a17794 =
 [
-    [ "npc_blood_queen_lana_thelAI", "db/da5/a17794.html#a7b099b90600e433e304dee1f356a9909", null ],
-    [ "MoveInLineOfSight", "db/da5/a17794.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
-    [ "MovementInform", "db/da5/a17794.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
-    [ "Reset", "db/da5/a17794.html#a539b0e158c800e1aade54f37aa99751e", null ],
-    [ "UpdateAI", "db/da5/a17794.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
-    [ "_events", "db/da5/a17794.html#a8ec7641bab991fc584b066fae55690bf", null ],
-    [ "_instance", "db/da5/a17794.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
-    [ "_introDone", "db/da5/a17794.html#a40c642758a751e072e41343bb75ad306", null ]
+    [ "npc_gunship_boarding_add_realAI", "d4/db2/a17798.html", "d4/db2/a17798" ],
+    [ "npc_gunship_boarding_add", "db/da5/a17794.html#aa80871f80bae7186d3665f73d757e108", null ],
+    [ "GetAI", "db/da5/a17794.html#ad7e173bffccca6d852ba545427235447", null ]
 ];

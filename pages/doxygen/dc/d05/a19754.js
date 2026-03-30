@@ -1,7 +1,9 @@
 var a19754 =
 [
-    [ "npc_eoe_wyrmrest_skytalon", "dc/d05/a19754.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
-    [ "IsSummonedBy", "dc/d05/a19754.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
-    [ "JustDied", "dc/d05/a19754.html#a65df31829e801154ee20d55ad1c15721", null ],
-    [ "PassengerBoarded", "dc/d05/a19754.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "dc/d05/a19754.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "dc/d05/a19754.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "dc/d05/a19754.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "dc/d05/a19754.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "dc/d05/a19754.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "dc/d05/a19754.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

@@ -1,5 +1,6 @@
 var a18618 =
 [
-    [ "achievement_all_you_can_eat", "dc/ddd/a18618.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "dc/ddd/a18618.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "npc_lk_wicked_spiritAI", "d6/d7d/a18622.html", "d6/d7d/a18622" ],
+    [ "npc_lk_wicked_spirit", "dc/ddd/a18618.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "dc/ddd/a18618.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

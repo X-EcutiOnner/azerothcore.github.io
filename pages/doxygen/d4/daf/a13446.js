@@ -1,8 +1,7 @@
 var a13446 =
 [
-    [ "npc_dkc1_gothikAI", "d4/daf/a13446.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "d4/daf/a13446.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "d4/daf/a13446.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "d4/daf/a13446.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "d4/daf/a13446.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "HandleAfterCast", "d4/daf/a13446.html#afa662fbe1b777047259ac6212961f7a5", null ],
+    [ "HandleScript", "d4/daf/a13446.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
+    [ "PrepareSpellScript", "d4/daf/a13446.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
+    [ "Register", "d4/daf/a13446.html#a4a898b0b096583af33f1f691a252b2ed", null ]
 ];

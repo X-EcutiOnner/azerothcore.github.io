@@ -1,7 +1,6 @@
 var a08078 =
 [
-    [ "HyperlinkDataTokenizer", "dc/d37/a08078.html#a1fb14152c61205ce31fcf2bfeaeceeaf", null ],
-    [ "IsEmpty", "dc/d37/a08078.html#a4f74f1647780c9f2769443dbfeba6a7e", null ],
-    [ "TryConsumeTo", "dc/d37/a08078.html#a42e18263129c27149bf9a91b3dc42418", null ],
-    [ "_str", "dc/d37/a08078.html#ab497f7f0b3cab4b8c4813ba443ff1c91", null ]
+    [ "value_type", "dc/d37/a08078.html#a695a2a7939d7c5812ddfa2148eeeb954", null ],
+    [ "StoreTo", "dc/d37/a08078.html#a0fac033c58bdd6385de489c2d7fafc18", null ],
+    [ "tag", "dc/d37/a08078.html#a7a25abd4fae2f7411db0dd7f278235fc", null ]
 ];

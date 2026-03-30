@@ -1,6 +1,6 @@
 var a12558 =
 [
-    [ "boss_highlordomokkAI", "d7/d2b/a12562.html", "d7/d2b/a12562" ],
-    [ "boss_highlord_omokk", "df/dda/a12558.html#af5174587ed3cd1c46f604183a75de99e", null ],
-    [ "GetAI", "df/dda/a12558.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
+    [ "OrcDeathEvent", "df/dda/a12558.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "df/dda/a12558.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "df/dda/a12558.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

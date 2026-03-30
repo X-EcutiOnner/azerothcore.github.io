@@ -1,8 +1,9 @@
 var a23042 =
 [
-    [ "CalcPeriodic", "d1/de6/a23042.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "d1/de6/a23042.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "d1/de6/a23042.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "d1/de6/a23042.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "d1/de6/a23042.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "boss_mennu_the_betrayer", "d1/de6/a23042.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "d1/de6/a23042.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "d1/de6/a23042.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "d1/de6/a23042.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "d1/de6/a23042.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "d1/de6/a23042.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

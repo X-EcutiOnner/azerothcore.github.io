@@ -1,8 +1,5 @@
 var a19066 =
 [
-    [ "FilterTargets", "db/d43/a19066.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "db/d43/a19066.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "db/d43/a19066.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "db/d43/a19066.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "db/d43/a19066.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "at_icc_spire_frostwyrm", "db/d43/a19066.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "db/d43/a19066.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

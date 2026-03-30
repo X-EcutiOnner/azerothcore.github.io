@@ -1,8 +1,9 @@
 var a27790 =
 [
-    [ "CheckProc", "d2/d1f/a27790.html#a88fc4939e903f4914a41cf18b34ad344", null ],
-    [ "HandleProc", "d2/d1f/a27790.html#a607054f11843147a09b202ea65f68b65", null ],
-    [ "PrepareAuraScript", "d2/d1f/a27790.html#affe76b0d20d431ba459ceb42934689fc", null ],
-    [ "Register", "d2/d1f/a27790.html#a99345afecc0612c33db996cebab99e09", null ],
-    [ "Validate", "d2/d1f/a27790.html#a9b0a80cc044d198178bd629eb8731260", null ]
+    [ "boss_lethonAI", "d2/d1f/a27790.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "d2/d1f/a27790.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "d2/d1f/a27790.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "d2/d1f/a27790.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "d2/d1f/a27790.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "d2/d1f/a27790.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

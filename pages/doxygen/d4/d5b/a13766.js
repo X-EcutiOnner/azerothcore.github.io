@@ -1,11 +1,6 @@
 var a13766 =
 [
-    [ "boss_alythess", "d4/d5b/a13766.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "d4/d5b/a13766.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "d4/d5b/a13766.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "d4/d5b/a13766.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "d4/d5b/a13766.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "d4/d5b/a13766.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "d4/d5b/a13766.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "d4/d5b/a13766.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "d4/d5b/a13766.html#aae99b35ff990fd7486d5b70693b6729a", null ],
+    [ "Load", "d4/d5b/a13766.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
+    [ "OnPlayerEnter", "d4/d5b/a13766.html#ab45827eaa92aea4746378b3c11fda219", null ]
 ];

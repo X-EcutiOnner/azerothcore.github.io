@@ -1,12 +1,11 @@
 var a17370 =
 [
-    [ "npc_ghostly_priestAI", "de/d5f/a17370.html#abb6815d1395b68654eeb6ab8b4217388", null ],
-    [ "AttackStart", "de/d5f/a17370.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
-    [ "DoAction", "de/d5f/a17370.html#a89c991a1d4c07f1229436871f503c949", null ],
-    [ "EnterEvadeMode", "de/d5f/a17370.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
-    [ "JustDied", "de/d5f/a17370.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
-    [ "JustEngagedWith", "de/d5f/a17370.html#a780d530e224ca1f72e26db17cd57f44a", null ],
-    [ "Reset", "de/d5f/a17370.html#ab8f7559110be76633153842e0714554a", null ],
-    [ "UpdateAI", "de/d5f/a17370.html#ab431f451963d0b608f11129934496700", null ],
-    [ "events", "de/d5f/a17370.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
+    [ "npc_living_mojoAI", "de/d5f/a17370.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
+    [ "AttackStart", "de/d5f/a17370.html#ad3f73a040176cd804f9715141063d176", null ],
+    [ "DoAction", "de/d5f/a17370.html#a9d942e99f358a7488d473969ab461d6f", null ],
+    [ "JustEngagedWith", "de/d5f/a17370.html#adbc665cfba933007e3f630676ab75656", null ],
+    [ "MoveInLineOfSight", "de/d5f/a17370.html#a7981568666269e25580ae839f1f97f09", null ],
+    [ "Reset", "de/d5f/a17370.html#a139df1207438dbd3793a2fbc58c2396c", null ],
+    [ "UpdateAI", "de/d5f/a17370.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
+    [ "events", "de/d5f/a17370.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
 ];

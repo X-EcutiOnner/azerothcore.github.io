@@ -1,7 +1,8 @@
 var a22346 =
 [
-    [ "HandleScript", "dd/de6/a22346.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
-    [ "PrepareSpellScript", "dd/de6/a22346.html#a8400fb2e0955444aee21b994d78b78c3", null ],
-    [ "Register", "dd/de6/a22346.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
-    [ "Validate", "dd/de6/a22346.html#aa9c2280cbb38db2620db9869e4959153", null ]
+    [ "boss_darkweaver_syth", "dd/de6/a22346.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "dd/de6/a22346.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "dd/de6/a22346.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "dd/de6/a22346.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "dd/de6/a22346.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

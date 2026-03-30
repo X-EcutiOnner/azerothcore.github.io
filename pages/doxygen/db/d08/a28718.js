@@ -1,5 +1,11 @@
 var a28718 =
 [
-    [ "npc_sunwell_gate", "db/d08/a28718.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "db/d08/a28718.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
+    [ "icon", "db/d08/a28718.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "db/d08/a28718.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "db/d08/a28718.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "db/d08/a28718.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "db/d08/a28718.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "db/d08/a28718.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "db/d08/a28718.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "db/d08/a28718.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

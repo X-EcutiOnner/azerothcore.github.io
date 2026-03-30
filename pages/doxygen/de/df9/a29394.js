@@ -1,9 +1,6 @@
 var a29394 =
 [
-    [ "Category", "de/df9/a29394.html#acd933f251a1faa1f705420307136681d", null ],
-    [ "Faction", "de/df9/a29394.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
-    [ "Flags", "de/df9/a29394.html#a8b41ed573eae71196664a61bac83fe3e", null ],
-    [ "Id", "de/df9/a29394.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
-    [ "Slot", "de/df9/a29394.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
-    [ "Type", "de/df9/a29394.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
+    [ "ForceInitValues", "de/df9/a29394.html#a51bcb2ec0bf6b92a0ed7a29abd675bf5", null ],
+    [ "Player", "de/df9/a29394.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
+    [ "UpdateObjectVisibility", "de/df9/a29394.html#a2b00c7bea40d5cbd4343d859555060a3", null ]
 ];

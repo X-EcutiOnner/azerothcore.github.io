@@ -1,6 +1,7 @@
 var a18326 =
 [
-    [ "PrepareSpellScript", "dc/df9/a18326.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "dc/df9/a18326.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "dc/df9/a18326.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "HandleTriggerMissile", "dc/df9/a18326.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "dc/df9/a18326.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "dc/df9/a18326.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "dc/df9/a18326.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

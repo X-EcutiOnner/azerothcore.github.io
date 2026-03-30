@@ -1,6 +1,6 @@
 var a13718 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "db/db7/a13722.html", "db/db7/a13722" ],
-    [ "instance_sunken_temple", "dc/db0/a13718.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "dc/db0/a13718.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "HandleEffectApply", "dc/db0/a13718.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
+    [ "PrepareAuraScript", "dc/db0/a13718.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
+    [ "Register", "dc/db0/a13718.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
 ];

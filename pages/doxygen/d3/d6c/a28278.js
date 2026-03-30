@@ -1,6 +1,6 @@
 var a28278 =
 [
-    [ "go_fel_crystalforge", "d3/d6c/a28278.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "d3/d6c/a28278.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "d3/d6c/a28278.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "npc_experience", "d3/d6c/a28278.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d3/d6c/a28278.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d3/d6c/a28278.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

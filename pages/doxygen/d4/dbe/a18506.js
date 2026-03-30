@@ -1,7 +1,6 @@
 var a18506 =
 [
-    [ "HandleCast", "d4/dbe/a18506.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "d4/dbe/a18506.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "d4/dbe/a18506.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "d4/dbe/a18506.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "npc_valkyr_shadowguardAI", "d9/d9f/a18510.html", "d9/d9f/a18510" ],
+    [ "npc_valkyr_shadowguard", "d4/dbe/a18506.html#a8ee90e21499eebf240c57419454c3829", null ],
+    [ "GetAI", "d4/dbe/a18506.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
 ];

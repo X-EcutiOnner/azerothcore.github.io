@@ -1,6 +1,7 @@
 var a25126 =
 [
-    [ "HandleOnEffectHit", "d5/d0b/a25126.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "d5/d0b/a25126.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "d5/d0b/a25126.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "ModDest", "d5/d0b/a25126.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "d5/d0b/a25126.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "d5/d0b/a25126.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "d5/d0b/a25126.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

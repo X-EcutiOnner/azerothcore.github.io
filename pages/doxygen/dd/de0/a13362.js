@@ -1,6 +1,16 @@
 var a13362 =
 [
-    [ "boss_kagani_nightstrike", "dd/de0/a13362.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
-    [ "JustEngagedWith", "dd/de0/a13362.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
-    [ "MovementInform", "dd/de0/a13362.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "dd/de0/a13362.html#a4abdd53f735be815cb2d43497d1531e0", null ],
+    [ "GetData", "dd/de0/a13362.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
+    [ "GetGuidData", "dd/de0/a13362.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
+    [ "OnCreatureCreate", "dd/de0/a13362.html#a71fcfc166f945325a4ee149645a9ccef", null ],
+    [ "OnGameObjectCreate", "dd/de0/a13362.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
+    [ "SetData", "dd/de0/a13362.html#aaf498d563d070d6250a182f583651777", null ],
+    [ "_ashbringerNpcGUID", "dd/de0/a13362.html#a1abdafc284def7ab4069a17c0aeda535", null ],
+    [ "_ashencounter", "dd/de0/a13362.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
+    [ "_doorChapelGUID", "dd/de0/a13362.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
+    [ "_doorHighInquisitorGUID", "dd/de0/a13362.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
+    [ "_encounter", "dd/de0/a13362.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
+    [ "_mograineGUID", "dd/de0/a13362.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
+    [ "_whitemaneGUID", "dd/de0/a13362.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
 ];

@@ -1,6 +1,6 @@
 var a21854 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "dc/dfc/a21858.html", "dc/dfc/a21858" ],
-    [ "npc_commander_eligor_dawnbringer", "dd/d4c/a21854.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "dd/d4c/a21854.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "PrepareSpellScript", "dd/d4c/a21854.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "dd/d4c/a21854.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "dd/d4c/a21854.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

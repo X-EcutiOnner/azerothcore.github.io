@@ -1,6 +1,15 @@
 var a19554 =
 [
-    [ "FilterTargets", "de/d6c/a19554.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "de/d6c/a19554.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "de/d6c/a19554.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "boss_eregosAI", "de/d6c/a19554.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
+    [ "DamageTaken", "de/d6c/a19554.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
+    [ "JustDied", "de/d6c/a19554.html#ade16be2804b857fc8e93a62d4be42380", null ],
+    [ "JustEngagedWith", "de/d6c/a19554.html#a1544782732beba5d7114c3bb70419ae1", null ],
+    [ "JustSummoned", "de/d6c/a19554.html#a33ef5a080e457f4e08e7997b467b0974", null ],
+    [ "KilledUnit", "de/d6c/a19554.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
+    [ "MoveInLineOfSight", "de/d6c/a19554.html#ac622481abb0190bdc7654b383766a9ed", null ],
+    [ "Reset", "de/d6c/a19554.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
+    [ "UpdateAI", "de/d6c/a19554.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
+    [ "events", "de/d6c/a19554.html#ae6f1f2e3146525596c3dbb646283b744", null ],
+    [ "pInstance", "de/d6c/a19554.html#abf0b366d7b0931ccc30711a33736dda8", null ],
+    [ "shiftNumber", "de/d6c/a19554.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
 ];

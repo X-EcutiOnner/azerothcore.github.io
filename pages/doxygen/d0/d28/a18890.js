@@ -1,6 +1,7 @@
 var a18890 =
 [
-    [ "npc_spirit_wardenAI", "d5/dc7/a18894.html", "d5/dc7/a18894" ],
-    [ "npc_spirit_warden", "d0/d28/a18890.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d0/d28/a18890.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "OnApply", "d0/d28/a18890.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "d0/d28/a18890.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "d0/d28/a18890.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "d0/d28/a18890.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

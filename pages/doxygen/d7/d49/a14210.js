@@ -1,7 +1,9 @@
 var a14210 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "de/dd8/a14214.html", "de/dd8/a14214" ],
-    [ "npc_lady_sylvanas_windrunner", "d7/d49/a14210.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
-    [ "GetAI", "d7/d49/a14210.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
-    [ "OnQuestReward", "d7/d49/a14210.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
+    [ "npc_amanishi_scout", "d7/d49/a14210.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "d7/d49/a14210.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "d7/d49/a14210.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "d7/d49/a14210.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "d7/d49/a14210.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "d7/d49/a14210.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

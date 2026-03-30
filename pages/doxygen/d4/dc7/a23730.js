@@ -1,8 +1,6 @@
 var a23730 =
 [
-    [ "boss_commander_sarannis", "d4/dc7/a23730.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "d4/dc7/a23730.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "d4/dc7/a23730.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "d4/dc7/a23730.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "d4/dc7/a23730.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "npc_wounded_blood_elfAI", "dd/dfd/a23734.html", "dd/dfd/a23734" ],
+    [ "npc_wounded_blood_elf", "d4/dc7/a23730.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "d4/dc7/a23730.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

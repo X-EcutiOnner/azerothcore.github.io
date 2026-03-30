@@ -1,9 +1,6 @@
 var a11894 =
 [
-    [ "CreatureTextLocalizer", "d1/da3/a11894.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "d1/da3/a11894.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "d1/da3/a11894.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "d1/da3/a11894.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "d1/da3/a11894.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "d1/da3/a11894.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "EffectProcHandler", "d1/da3/a11894.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
+    [ "Call", "d1/da3/a11894.html#ae03d27451f687319629b3c54c5a7eed5", null ],
+    [ "_EffectHandlerScript", "d1/da3/a11894.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
 ];

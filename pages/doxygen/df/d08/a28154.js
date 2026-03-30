@@ -1,6 +1,30 @@
 var a28154 =
 [
-    [ "go_witherbark_totem_bundleAI", "df/d08/a28154.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "df/d08/a28154.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "df/d08/a28154.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "NPCStaveQuestAI", "df/d08/a28154.html#a2bd2185cd62cc725324c9cc4ab3dfcbc", null ],
+    [ "AttackedBy", "df/d08/a28154.html#a20069078ff60d49baafe02e8c7a95973", null ],
+    [ "AttackStart", "df/d08/a28154.html#a0b2b9c251344f27d75a01e2ebc53dd5d", null ],
+    [ "ClearLootIfUnfair", "df/d08/a28154.html#adf1af974ba78d33dba14847d075cb40b", null ],
+    [ "EvadeOnFeignDeath", "df/d08/a28154.html#a2f6e72696b409907a367c13f2207127b", null ],
+    [ "GetFormEntry", "df/d08/a28154.html#a7c1442ba2f7e31b72942a61f0d0f716c", null ],
+    [ "GetGossipPlayer", "df/d08/a28154.html#a47582d2c7207f3461057feb5e0a4c189", null ],
+    [ "InNormalForm", "df/d08/a28154.html#a4ac102757e65c86433b7a758aeb248ba", null ],
+    [ "IsAllowedEntry", "df/d08/a28154.html#af7100039ab5cf60a27ead73cc928da32", null ],
+    [ "IsFairFight", "df/d08/a28154.html#a04bf19c0b79e443edea58210f597db1a", null ],
+    [ "JustDied", "df/d08/a28154.html#a220e3c50c24ebfd33e368c159665076d", null ],
+    [ "PlayerEligibleForReward", "df/d08/a28154.html#a073e4e3a7f303ea632dc2c4770c556d4", null ],
+    [ "PrepareForEncounter", "df/d08/a28154.html#a5adddedf655d743566adc76e4a1a9dc6", null ],
+    [ "QuestIncomplete", "df/d08/a28154.html#a41eb9c433d6b5afff7620fc22953e858", null ],
+    [ "ResetState", "df/d08/a28154.html#ad134dbf9931d2d7f3d9c2b7d14fcb76c", null ],
+    [ "RevealForm", "df/d08/a28154.html#ab1f2c4d3673ced2eec226741d73f38b0", null ],
+    [ "SetHomePosition", "df/d08/a28154.html#a803fd42a51521c869b2e734f124eca9d", null ],
+    [ "StoreAttackerGuidValue", "df/d08/a28154.html#af18005dd457c320709921bcdd0f7895d", null ],
+    [ "StorePlayerGUID", "df/d08/a28154.html#aca5c4a4b283b1fdffd646807a1002e42", null ],
+    [ "UnitIsUnfair", "df/d08/a28154.html#ad830292fa123bd4bf2057eadb07fb60b", null ],
+    [ "ValidThreatlist", "df/d08/a28154.html#a3a3158ab28c9a199100f91362694d691", null ],
+    [ "attackerGuids", "df/d08/a28154.html#a03e24a838a78c445f55618e66f0387d4", null ],
+    [ "encounterStarted", "df/d08/a28154.html#a22bd1b0b08fac1e91c5e07db7b93c548", null ],
+    [ "entryKeys", "df/d08/a28154.html#a0ea30f49ac6a9f78a9c0429f2c20c4c5", null ],
+    [ "entryList", "df/d08/a28154.html#a1a9ccd1d254bdb80b87d997d91afd6d7", null ],
+    [ "gossipPlayerGUID", "df/d08/a28154.html#a286967eb3806c73746bcb8524ecbda24", null ],
+    [ "playerGUID", "df/d08/a28154.html#a81644c431d107dda59c726fdbc4b671c", null ]
 ];

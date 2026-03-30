@@ -1,7 +1,8 @@
 var a13114 =
 [
-    [ "boss_maiden_of_virtue", "de/d72/a13114.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "de/d72/a13114.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "de/d72/a13114.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "de/d72/a13114.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "npc_barnesAI", "de/dfc/a13118.html", "de/dfc/a13118" ],
+    [ "npc_barnes", "de/d72/a13114.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "de/d72/a13114.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "de/d72/a13114.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "de/d72/a13114.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

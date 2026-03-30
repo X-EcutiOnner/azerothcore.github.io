@@ -1,9 +1,6 @@
 var a13930 =
 [
-    [ "boss_muru", "d0/d65/a13930.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "d0/d65/a13930.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "d0/d65/a13930.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "d0/d65/a13930.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "d0/d65/a13930.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "d0/d65/a13930.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "npc_corporal_keeshanAI", "df/d4b/a13934.html", "df/d4b/a13934" ],
+    [ "npc_corporal_keeshan", "d0/d65/a13930.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "d0/d65/a13930.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

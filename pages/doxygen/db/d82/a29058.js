@@ -1,7 +1,5 @@
 var a29058 =
 [
-    [ "bit_index", "db/d82/a29058.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "db/d82/a29058.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "db/d82/a29058.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "db/d82/a29058.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "Duration", "db/d82/a29058.html#a20417b0f394c08c779fd3851c2cde87d", null ],
+    [ "ID", "db/d82/a29058.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
 ];

@@ -1,6 +1,8 @@
 var a00245 =
 [
-    [ "VMAP::IntersectionCallBack< TValue >", "db/da4/a05367.html", "db/da4/a05367" ],
-    [ "VMAP::MyCollisionDetection", "df/d06/a05371.html", "df/d06/a05371" ],
-    [ "IR", "d6/d22/a00245.html#aa54c7fcd0c551f1db5fc34a2f6b11e74", null ]
+    [ "CleanStringForMysqlQuery", "d6/d22/a00245.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
+    [ "GetLocaleByName", "d6/d22/a00245.html#a8051d28826d995169bd4ce60310d5d65", null ],
+    [ "GetNameByLocaleConstant", "d6/d22/a00245.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
+    [ "IsLocaleValid", "d6/d22/a00245.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
+    [ "localeNames", "d6/d22/a00245.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
 ];

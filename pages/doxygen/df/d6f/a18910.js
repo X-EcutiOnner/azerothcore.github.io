@@ -1,5 +1,4 @@
 var a18910 =
 [
-    [ "npc_icc_lk_checktargetAI", "df/d6f/a18910.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
-    [ "CanAIAttack", "df/d6f/a18910.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
+    [ "operator()", "df/d6f/a18910.html#a57b4f62b35a093665bb32073a086b8c5", null ]
 ];

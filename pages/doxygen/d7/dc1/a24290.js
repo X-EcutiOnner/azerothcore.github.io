@@ -1,6 +1,8 @@
 var a24290 =
 [
-    [ "PrepareSpellScript", "d7/dc1/a24290.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
-    [ "Register", "d7/dc1/a24290.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
-    [ "SetDest", "d7/dc1/a24290.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
+    [ "HandleDamage", "d7/dc1/a24290.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "d7/dc1/a24290.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "d7/dc1/a24290.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "d7/dc1/a24290.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "d7/dc1/a24290.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

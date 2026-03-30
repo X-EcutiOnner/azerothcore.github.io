@@ -1,6 +1,11 @@
 var a17122 =
 [
-    [ "boss_fjolaAI", "db/d36/a17126.html", "db/d36/a17126" ],
-    [ "boss_fjola", "d1/d16/a17122.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
-    [ "GetAI", "d1/d16/a17122.html#a96d9ea0716199758b60ad933ade28de4", null ]
+    [ "npc_spectral_footman", "d1/d16/a17122.html#ab12174cbf246178b52c074024453015e", null ],
+    [ "AttackStart", "d1/d16/a17122.html#a0fe7529c47d56f67b15023bc432f0498", null ],
+    [ "DoAction", "d1/d16/a17122.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
+    [ "EnterEvadeMode", "d1/d16/a17122.html#afc51e0562045028af7161ea66e7be9f0", null ],
+    [ "JustDied", "d1/d16/a17122.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
+    [ "JustEngagedWith", "d1/d16/a17122.html#a9d8d723b403035660b78c332d5813d3f", null ],
+    [ "Reset", "d1/d16/a17122.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
+    [ "UpdateAI", "d1/d16/a17122.html#af76de9237937199dfa715a445b0060c3", null ]
 ];

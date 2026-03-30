@@ -1,7 +1,11 @@
 var a11526 =
 [
-    [ "IsValidOpcode", "da/dbd/a11526.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "da/dbd/a11526.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "da/dbd/a11526.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "da/dbd/a11526.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "Player", "da/dbd/a11526.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "da/dbd/a11526.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Face", "da/dbd/a11526.html#a6334464eea38be514f3faa7538b39a5a", null ],
+    [ "FacialHair", "da/dbd/a11526.html#a44643270b211d275eb94283842791407", null ],
+    [ "Gender", "da/dbd/a11526.html#a14321ea3595debe2836eceab8a82f944", null ],
+    [ "HairColor", "da/dbd/a11526.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
+    [ "HairStyle", "da/dbd/a11526.html#ade5b2dff213547ab4d707070f8979085", null ],
+    [ "Skin", "da/dbd/a11526.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
 ];

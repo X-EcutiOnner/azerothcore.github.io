@@ -1,6 +1,6 @@
 var a22330 =
 [
-    [ "HandleDamage", "da/d45/a22330.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "da/d45/a22330.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "da/d45/a22330.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "d1/de6/a22334.html", "d1/de6/a22334" ],
+    [ "instance_mana_tombs", "da/d45/a22330.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "da/d45/a22330.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

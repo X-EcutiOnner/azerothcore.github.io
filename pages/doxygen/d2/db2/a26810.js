@@ -1,7 +1,8 @@
 var a26810 =
 [
-    [ "HandleProc", "d2/db2/a26810.html#a9601839ce1fff4e1be66f435a78693ac", null ],
-    [ "PrepareAuraScript", "d2/db2/a26810.html#ae7b3804ed0fe40c85d245e2762fd8181", null ],
-    [ "Register", "d2/db2/a26810.html#a588226cc60a7ff0f8a05e8ec34c855e5", null ],
-    [ "Validate", "d2/db2/a26810.html#aea68ea2da0853d72d94a19b98db9375f", null ]
+    [ "HandleDummy", "d2/db2/a26810.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
+    [ "Load", "d2/db2/a26810.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
+    [ "PrepareSpellScript", "d2/db2/a26810.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
+    [ "Register", "d2/db2/a26810.html#afb1c744f263b21c30a5dfd3675acb364", null ],
+    [ "Validate", "d2/db2/a26810.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
 ];

@@ -1,6 +1,7 @@
 var a15950 =
 [
-    [ "npc_tiger_matriarchAI", "db/d79/a15954.html", "db/d79/a15954" ],
-    [ "npc_tiger_matriarch", "d1/d6f/a15950.html#a05a08bfa64c428213a4b534a982afb71", null ],
-    [ "GetAI", "d1/d6f/a15950.html#a6d5664ca125a775c2d71f322f5a57655", null ]
+    [ "npc_lakota_windsongAI", "db/d79/a15954.html", "db/d79/a15954" ],
+    [ "npc_lakota_windsong", "d1/d6f/a15950.html#a08a585ac36189ec23354c7acb26d223d", null ],
+    [ "GetAI", "d1/d6f/a15950.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
+    [ "OnQuestAccept", "d1/d6f/a15950.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
 ];

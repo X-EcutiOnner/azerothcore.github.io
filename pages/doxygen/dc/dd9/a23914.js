@@ -1,6 +1,6 @@
 var a23914 =
 [
-    [ "HandleDummy", "dc/dd9/a23914.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "dc/dd9/a23914.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "dc/dd9/a23914.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "npc_illidari_spawnAI", "d8/d26/a23918.html", "d8/d26/a23918" ],
+    [ "npc_illidari_spawn", "dc/dd9/a23914.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "dc/dd9/a23914.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

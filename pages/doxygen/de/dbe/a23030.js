@@ -1,8 +1,7 @@
 var a23030 =
 [
-    [ "instance_black_temple_InstanceMapScript", "de/dbe/a23030.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
-    [ "OnCreatureCreate", "de/dbe/a23030.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
-    [ "OnGameObjectCreate", "de/dbe/a23030.html#a564a49814ceb3b3161a6476335ab653a", null ],
-    [ "SetBossState", "de/dbe/a23030.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
-    [ "ashtongueGUIDs", "de/dbe/a23030.html#a85fa9c5231f13529a0741b0f92266c90", null ]
+    [ "HandleProc", "de/dbe/a23030.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "de/dbe/a23030.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "de/dbe/a23030.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "de/dbe/a23030.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

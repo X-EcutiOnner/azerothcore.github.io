@@ -1,6 +1,8 @@
 var a11798 =
 [
-    [ "EffectPeriodicHandler", "d4/dfc/a11798.html#aad44956783e9c044eb92065cc62e97f6", null ],
-    [ "Call", "d4/dfc/a11798.html#a938e987363972fbd58e42f19880016d8", null ],
-    [ "pEffectHandlerScript", "d4/dfc/a11798.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
+    [ "EffectHandler", "d4/dfc/a11798.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "d4/dfc/a11798.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "d4/dfc/a11798.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "d4/dfc/a11798.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "d4/dfc/a11798.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

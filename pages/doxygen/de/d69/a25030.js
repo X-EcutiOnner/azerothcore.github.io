@@ -1,6 +1,7 @@
 var a25030 =
 [
-    [ "CheckProc", "de/d69/a25030.html#afa477049b9a4fa18594b203a6066d205", null ],
-    [ "PrepareAuraScript", "de/d69/a25030.html#a9fff895957dfedb5d975e4a8e9588aa9", null ],
-    [ "Register", "de/d69/a25030.html#ab0746e7fa614f09708f89ed3ef93fca9", null ]
+    [ "HandleStun", "de/d69/a25030.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
+    [ "PrepareAuraScript", "de/d69/a25030.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
+    [ "Register", "de/d69/a25030.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
+    [ "Validate", "de/d69/a25030.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
 ];

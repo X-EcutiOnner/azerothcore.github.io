@@ -1,7 +1,7 @@
 var a17902 =
 [
-    [ "OnProc", "d8/dea/a17902.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "d8/dea/a17902.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "d8/dea/a17902.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "d8/dea/a17902.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "DamageGunship", "d8/dea/a17902.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "d8/dea/a17902.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "d8/dea/a17902.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "d8/dea/a17902.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

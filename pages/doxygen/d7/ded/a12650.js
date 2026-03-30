@@ -1,5 +1,6 @@
 var a12650 =
 [
-    [ "at_the_beast_room", "d7/ded/a12650.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
-    [ "OnTrigger", "d7/ded/a12650.html#a366c5e35c4030f998404886f1526ae37", null ]
+    [ "boss_flamegor", "d7/ded/a12650.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "d7/ded/a12650.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "d7/ded/a12650.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

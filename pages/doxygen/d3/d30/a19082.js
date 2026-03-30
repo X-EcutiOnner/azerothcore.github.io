@@ -1,5 +1,5 @@
 var a19082 =
 [
-    [ "achievement_portal_jockey", "d3/d30/a19082.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "d3/d30/a19082.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "creatureEntry", "d3/d30/a19082.html#afab12c40af70303dff2a9553d47dbb7d", null ],
+    [ "questId", "d3/d30/a19082.html#ace2a7dd58d442b6afb2173311c89593b", null ]
 ];

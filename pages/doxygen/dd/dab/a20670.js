@@ -1,5 +1,8 @@
 var a20670 =
 [
-    [ "go_ulduar_do_not_push_this_button", "dd/dab/a20670.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "dd/dab/a20670.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "Absorb", "dd/dab/a20670.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "dd/dab/a20670.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "dd/dab/a20670.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "dd/dab/a20670.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "dd/dab/a20670.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

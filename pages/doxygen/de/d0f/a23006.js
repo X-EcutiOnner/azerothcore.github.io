@@ -1,7 +1,6 @@
 var a23006 =
 [
-    [ "HandleOnHit", "de/d0f/a23006.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "de/d0f/a23006.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "de/d0f/a23006.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "de/d0f/a23006.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "HandleScript", "de/d0f/a23006.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "de/d0f/a23006.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "de/d0f/a23006.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

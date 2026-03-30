@@ -1,5 +1,7 @@
 var a21422 =
 [
-    [ "go_vh_activation_crystal", "d5/d22/a21422.html#a4af485ac7ab6144282f3204a6d045cea", null ],
-    [ "OnGossipHello", "d5/d22/a21422.html#a47a61ba67086580135559332931e9c6e", null ]
+    [ "npc_cosmetic_toy_plane", "d5/d22/a21422.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "d5/d22/a21422.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "d5/d22/a21422.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "d5/d22/a21422.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

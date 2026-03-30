@@ -1,6 +1,12 @@
 var a21834 =
 [
-    [ "npc_q24545_vegard_dummyAI", "db/dce/a21834.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "db/dce/a21834.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "db/dce/a21834.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "npc_tournament_training_dummyAI", "db/dce/a21834.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
+    [ "DamageTaken", "db/dce/a21834.html#a98c18794124922e6946a82a324410837", null ],
+    [ "EnterEvadeMode", "db/dce/a21834.html#a3f31d705284b0fad2f00c9210ff06646", null ],
+    [ "MoveInLineOfSight", "db/dce/a21834.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
+    [ "Reset", "db/dce/a21834.html#a7339ffe52dc789f9480afca7141a169e", null ],
+    [ "SpellHit", "db/dce/a21834.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
+    [ "UpdateAI", "db/dce/a21834.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
+    [ "events", "db/dce/a21834.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
+    [ "isVulnerable", "db/dce/a21834.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
 ];

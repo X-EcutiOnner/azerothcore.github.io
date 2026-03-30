@@ -1,5 +1,6 @@
 var a28310 =
 [
-    [ "go_dragonflayer_cage", "db/d59/a28310.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
-    [ "OnGossipHello", "db/d59/a28310.html#a542530a0b84879b21a4b9982cf4300d0", null ]
+    [ "npc_venomhide_hatchlingAI", "db/d59/a28310.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "db/d59/a28310.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "db/d59/a28310.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

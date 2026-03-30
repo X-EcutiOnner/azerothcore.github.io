@@ -1,4 +1,5 @@
 var a00215 =
 [
-    [ "gVMapMgr", "d3/dd5/a00215.html#a3fb33e0008bbbabc087f99a45e512784", null ]
+    [ "BIHWrap< T, BoundsFunc >", "d4/d69/a05166.html", "d4/d69/a05166" ],
+    [ "BIHWrap< T, BoundsFunc >::MDLCallback< RayCallback >", "dc/ddd/a05170.html", "dc/ddd/a05170" ]
 ];

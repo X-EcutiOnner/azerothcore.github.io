@@ -1,5 +1,7 @@
 var a28382 =
 [
-    [ "item_generic_limit_chance_above_60", "d0/d06/a28382.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "d0/d06/a28382.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "HandleDummy", "d0/d06/a28382.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "d0/d06/a28382.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "d0/d06/a28382.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "d0/d06/a28382.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

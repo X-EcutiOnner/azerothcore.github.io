@@ -1,6 +1,7 @@
 var a16910 =
 [
-    [ "npc_toc_shamanAI", "d7/dc0/a16914.html", "d7/dc0/a16914" ],
-    [ "npc_toc_shaman", "d1/d97/a16910.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
-    [ "GetAI", "d1/d97/a16910.html#a7102a3aec6c229a04b617c562512bf29", null ]
+    [ "HandleEffectPeriodic", "d1/d97/a16910.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "d1/d97/a16910.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "d1/d97/a16910.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "d1/d97/a16910.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

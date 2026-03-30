@@ -1,10 +1,9 @@
 var a09566 =
 [
-    [ "AnyDeadUnitObjectInRangeCheck", "dc/db7/a09566.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
-    [ "operator()", "dc/db7/a09566.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
-    [ "operator()", "dc/db7/a09566.html#ae885f49537043421a92b44c201bec358", null ],
-    [ "operator()", "dc/db7/a09566.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
-    [ "operator()", "dc/db7/a09566.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
-    [ "i_range", "dc/db7/a09566.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
-    [ "i_searchObj", "dc/db7/a09566.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
+    [ "PlayerLastSearcher", "dc/db7/a09566.html#a0a4c736bbde38ccb0a0a8ceafdb751c7", null ],
+    [ "Visit", "dc/db7/a09566.html#a25785fbe4cb8ac9a8753705b9df3b507", null ],
+    [ "Visit", "dc/db7/a09566.html#a19e60fc9fc43ad3a718132a2884e41b0", null ],
+    [ "i_check", "dc/db7/a09566.html#a93f5e1dd1f680cc9467671b59d2c5a12", null ],
+    [ "i_object", "dc/db7/a09566.html#a2d9af6a6ef1105b19c49852fce17b8e6", null ],
+    [ "i_phaseMask", "dc/db7/a09566.html#ad5bfaa4154c99e34515da98db7dccadf", null ]
 ];

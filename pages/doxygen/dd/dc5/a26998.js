@@ -1,8 +1,9 @@
 var a26998 =
 [
-    [ "HandleEffectApply", "dd/dc5/a26998.html#aed959961fcd07649cd4914fcd38a3214", null ],
-    [ "if", "dd/dc5/a26998.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
-    [ "PrepareAuraScript", "dd/dc5/a26998.html#a42167bc6bf7992debea8582680251da4", null ],
-    [ "Register", "dd/dc5/a26998.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
-    [ "AuraEffectHandleModes", "dd/dc5/a26998.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
+    [ "CheckCast", "dd/dc5/a26998.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
+    [ "FilterTargets", "dd/dc5/a26998.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
+    [ "HandleDummy", "dd/dc5/a26998.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
+    [ "PrepareSpellScript", "dd/dc5/a26998.html#a9c992e732b525e29f684947398d20efb", null ],
+    [ "Register", "dd/dc5/a26998.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
+    [ "Validate", "dd/dc5/a26998.html#abca1e5aa46e7753588c8120090775195", null ]
 ];

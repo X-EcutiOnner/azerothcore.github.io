@@ -1,11 +1,8 @@
 var a15962 =
 [
-    [ "npc_troll_volunteerAI", "d0/dfb/a15962.html#a7eb0c508122616a6781c8b23210e4062", null ],
-    [ "GetMountId", "d0/dfb/a15962.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
-    [ "InitializeAI", "d0/dfb/a15962.html#a1c758c7601624e0620778e13e8ec60a0", null ],
-    [ "MovementInform", "d0/dfb/a15962.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
-    [ "Reset", "d0/dfb/a15962.html#a31439533de41c2a459af2b4d3af76139", null ],
-    [ "SpellHit", "d0/dfb/a15962.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
-    [ "_complete", "d0/dfb/a15962.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
-    [ "_mountModel", "d0/dfb/a15962.html#ae226345bd324b9c337dc96570117d82b", null ]
+    [ "npc_paoka_swiftmountainAI", "d0/dfb/a15962.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d0/dfb/a15962.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d0/dfb/a15962.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d0/dfb/a15962.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
+    [ "WaypointReached", "d0/dfb/a15962.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

@@ -1,6 +1,5 @@
 var a25902 =
 [
-    [ "HandleSummon", "dc/deb/a25902.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "dc/deb/a25902.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "dc/deb/a25902.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "PrepareSpellScript", "dc/deb/a25902.html#a5f3b3fb1c42f21d309923e12f1272408", null ],
+    [ "Register", "dc/deb/a25902.html#afc19789732c46589dca40d46cdb12d9e", null ]
 ];

@@ -1,7 +1,8 @@
 var a20962 =
 [
-    [ "OnApply", "d0/d0f/a20962.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
-    [ "OnRemove", "d0/d0f/a20962.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
-    [ "PrepareAuraScript", "d0/d0f/a20962.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
-    [ "Register", "d0/d0f/a20962.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
+    [ "CheckProc", "d0/d0f/a20962.html#ac955cc78dd3206816906dd06b3e006f6", null ],
+    [ "HandleProc", "d0/d0f/a20962.html#a966d23cc5714fe35d80b2964dddda536", null ],
+    [ "PrepareAuraScript", "d0/d0f/a20962.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
+    [ "Register", "d0/d0f/a20962.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
+    [ "Validate", "d0/d0f/a20962.html#a5d8e764dafd26548af8588593bf27990", null ]
 ];

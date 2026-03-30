@@ -1,14 +1,10 @@
 var a17070 =
 [
-    [ "npc_snobold_vassalAI", "d1/d75/a17070.html#a2ecc5e8289252b2936f36de9921294e0", null ],
-    [ "AttackStart", "d1/d75/a17070.html#a50afc82c80cede8dcf3240a116463411", null ],
-    [ "DoAction", "d1/d75/a17070.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
-    [ "JustDied", "d1/d75/a17070.html#aef408460584a17f15a84e8a6435c6348", null ],
-    [ "JustEngagedWith", "d1/d75/a17070.html#a60c1704617e99239d60d24d6b7513c1a", null ],
-    [ "MoveInLineOfSight", "d1/d75/a17070.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
-    [ "Reset", "d1/d75/a17070.html#af794f46b1a7af97b52683954b556c27d", null ],
-    [ "UpdateAI", "d1/d75/a17070.html#ac1d282da6f2d9133619a212a349c777f", null ],
-    [ "events", "d1/d75/a17070.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
-    [ "pInstance", "d1/d75/a17070.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
-    [ "TargetGUID", "d1/d75/a17070.html#a0d36e4903448c5a03115df0dff3480c8", null ]
+    [ "HandleAfterEffectAbsorb", "d1/d75/a17070.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "d1/d75/a17070.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "d1/d75/a17070.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "d1/d75/a17070.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "d1/d75/a17070.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "d1/d75/a17070.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "d1/d75/a17070.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

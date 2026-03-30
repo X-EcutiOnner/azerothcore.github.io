@@ -1,7 +1,6 @@
 var a13306 =
 [
-    [ "HandleDummy", "d2/df9/a13306.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "d2/df9/a13306.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "d2/df9/a13306.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "d2/df9/a13306.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "npc_gothik_the_harvesterAI", "db/d65/a13310.html", "db/d65/a13310" ],
+    [ "npc_gothik_the_harvester", "d2/df9/a13306.html#a44a8a900e195308802e76c5b550b577a", null ],
+    [ "GetAI", "d2/df9/a13306.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
 ];

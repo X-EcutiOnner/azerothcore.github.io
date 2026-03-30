@@ -1,10 +1,8 @@
 var a12926 =
 [
-    [ "boss_golemaggAI", "db/d6e/a12926.html#a79e2416a55a1531316d891ebff4e5575", null ],
-    [ "DamageTaken", "db/d6e/a12926.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
-    [ "Reset", "db/d6e/a12926.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
-    [ "UpdateAI", "db/d6e/a12926.html#af7b322731241dbb08041a92cd355f273", null ],
-    [ "earthquakeTimer", "db/d6e/a12926.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
-    [ "enraged", "db/d6e/a12926.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
-    [ "pyroblastTimer", "db/d6e/a12926.html#a142ededff85d517c08744bdafd644c34", null ]
+    [ "HandleEffectRemove", "db/d6e/a12926.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "db/d6e/a12926.html#a9e9aec7bc2773270c1063b1a3c44c07a", null ],
+    [ "PrepareAuraScript", "db/d6e/a12926.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "db/d6e/a12926.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "db/d6e/a12926.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

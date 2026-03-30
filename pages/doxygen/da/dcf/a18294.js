@@ -1,18 +1,6 @@
 var a18294 =
 [
-    [ "boss_lord_marrowgar", "da/dcf/a18294.html#ab6a4afec9ed7153054b2d5ffb8f3b8ab", null ],
-    [ "CanAIAttack", "da/dcf/a18294.html#a019816e930781889f39c561577eaecc0", null ],
-    [ "GetGUID", "da/dcf/a18294.html#a0f3d27442ce651574ab66c2f94d27c88", null ],
-    [ "JustDied", "da/dcf/a18294.html#a8f1143de6695cf3fc2e54d5dc29ae9f2", null ],
-    [ "JustEngagedWith", "da/dcf/a18294.html#a3fa8b012f5e3ae94cecb537aa1952b63", null ],
-    [ "JustReachedHome", "da/dcf/a18294.html#ac59e0e13d5226fcdb4af08a1f9eff089", null ],
-    [ "KilledUnit", "da/dcf/a18294.html#acfe53ec83fa2056b37269608182fb25b", null ],
-    [ "MoveInLineOfSight", "da/dcf/a18294.html#ab3a7a37af22ab4dd7178f1cce2e2ab6a", null ],
-    [ "MovementInform", "da/dcf/a18294.html#abba7e15c065a80677fc88a6dafa8ecfd", null ],
-    [ "Reset", "da/dcf/a18294.html#a2692d00185ef27f50af01d125e39d549", null ],
-    [ "SpellHitTarget", "da/dcf/a18294.html#adf886210abbd492f897b39145748f78a", null ],
-    [ "UpdateAI", "da/dcf/a18294.html#aa19fdc486c0c9cca1033e0747d631a7e", null ],
-    [ "_boneSlice", "da/dcf/a18294.html#a50478639cd1f13732646fcc2349c5474", null ],
-    [ "_introDone", "da/dcf/a18294.html#a87f5036e8ba62e54ed7c502469cffe10", null ],
-    [ "_lastBoneSliceTargets", "da/dcf/a18294.html#aaf8ca2baf4c68ea64d4c163ede7813c8", null ]
+    [ "MysticBuffetTargetFilter", "da/dcf/a18294.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
+    [ "operator()", "da/dcf/a18294.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
+    [ "_caster", "da/dcf/a18294.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
 ];

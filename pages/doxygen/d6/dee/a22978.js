@@ -1,6 +1,11 @@
 var a22978 =
 [
-    [ "ShadowOfDeathSelector", "d6/dee/a22978.html#a1190094fbde74ccffd954fea742ab0ae", null ],
-    [ "operator()", "d6/dee/a22978.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
-    [ "_tank", "d6/dee/a22978.html#adc238645eec306e00918dbab05549fc8", null ]
+    [ "boss_ahune", "d6/dee/a22978.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "d6/dee/a22978.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "d6/dee/a22978.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "d6/dee/a22978.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "d6/dee/a22978.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "d6/dee/a22978.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "d6/dee/a22978.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "d6/dee/a22978.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

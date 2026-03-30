@@ -1,8 +1,6 @@
 var a16202 =
 [
-    [ "npc_pluckyAI", "db/d43/a16206.html", "db/d43/a16206" ],
-    [ "npc_plucky", "df/dea/a16202.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "df/dea/a16202.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "df/dea/a16202.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "df/dea/a16202.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "FilterTargets", "df/dea/a16202.html#aff3223d9b3df91f9261aa2f45373f846", null ],
+    [ "PrepareSpellScript", "df/dea/a16202.html#a3ca9ba182a313fb741b15df63408a90e", null ],
+    [ "Register", "df/dea/a16202.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
 ];

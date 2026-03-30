@@ -1,7 +1,7 @@
 var a12478 =
 [
-    [ "boss_magmusAI", "dd/d4f/a12478.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "dd/d4f/a12478.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "dd/d4f/a12478.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "dd/d4f/a12478.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "boss_okthor", "dd/d4f/a12478.html#a10c5868b555e6f7edc11de179eccb151", null ],
+    [ "JustEngagedWith", "dd/d4f/a12478.html#a40909de030f186531a8cfe1993b6aa40", null ],
+    [ "UpdateAI", "dd/d4f/a12478.html#ab63a797da2b3f93da32b078b9731b1de", null ],
+    [ "_nextArcaneExplosionTime", "dd/d4f/a12478.html#aa7c9edda4aee7ed257b3cb1334c4e899", null ]
 ];

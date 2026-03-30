@@ -1,8 +1,10 @@
 var a12546 =
 [
-    [ "CheckProc", "df/ddb/a12546.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "df/ddb/a12546.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "df/ddb/a12546.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "df/ddb/a12546.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "df/ddb/a12546.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "npc_rookery_hatcher", "df/ddb/a12546.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
+    [ "InitializeAI", "df/ddb/a12546.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
+    [ "JustEngagedWith", "df/ddb/a12546.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
+    [ "UpdateAI", "df/ddb/a12546.html#a011cf0384a7bf6dd502a767d6667140a", null ],
+    [ "events", "df/ddb/a12546.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
+    [ "targetEgg", "df/ddb/a12546.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
+    [ "targetPosition", "df/ddb/a12546.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
 ];

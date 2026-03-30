@@ -1,10 +1,5 @@
 var a05542 =
 [
-    [ "Find", "dc/df9/a05542.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
-    [ "GetElements", "dc/df9/a05542.html#a653b00a9d570ae9d9276a061beda3f35", null ],
-    [ "GetElements", "dc/df9/a05542.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
-    [ "Insert", "dc/df9/a05542.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
-    [ "Remove", "dc/df9/a05542.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
-    [ "Size", "dc/df9/a05542.html#a289258c9015016a70d2867df7e113def", null ],
-    [ "_elements", "dc/df9/a05542.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
+    [ "_elements", "dc/df9/a05542.html#adca71d306b9b5ee6b1dc0dc75cec1f2c", null ],
+    [ "_TailElements", "dc/df9/a05542.html#a7d3b640a8d68089436c3792b3db088f1", null ]
 ];

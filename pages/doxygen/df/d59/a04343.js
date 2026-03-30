@@ -1,6 +1,6 @@
 var a04343 =
 [
-    [ "instance_vault_of_archavon", "d7/d15/a21039.html", "d7/d15/a21039" ],
-    [ "instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript", "df/da4/a21043.html", "df/da4/a21043" ],
-    [ "AddSC_instance_vault_of_archavon", "df/d59/a04343.html#af85fa677904908fe364917364696be77", null ]
+    [ "clearAcceptTradeMode", "df/d59/a04343.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
+    [ "clearAcceptTradeMode", "df/d59/a04343.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
+    [ "setAcceptTradeMode", "df/d59/a04343.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
 ];

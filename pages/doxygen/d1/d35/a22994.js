@@ -1,7 +1,7 @@
 var a22994 =
 [
-    [ "CalculateAmount", "d1/d35/a22994.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
-    [ "PrepareAuraScript", "d1/d35/a22994.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
-    [ "Register", "d1/d35/a22994.html#a6d0d47536e6ef74a88c97019843d478c", null ],
-    [ "Update", "d1/d35/a22994.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
+    [ "npc_ahune_ice_spear_bunny", "d1/d35/a22994.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "d1/d35/a22994.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "d1/d35/a22994.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "d1/d35/a22994.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

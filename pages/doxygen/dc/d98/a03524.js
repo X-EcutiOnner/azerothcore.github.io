@@ -1,6 +1,13 @@
 var a03524 =
 [
-    [ "fireworkShowExodar", "dc/d98/a03524.html#a62ccee24b6a90b61a19256b66e97c1dd", null ],
-    [ "fireworkShowGameobjectExodar", "dc/d98/a03524.html#a5b7a7ca2308d23103ee3d053d6301e5c", null ],
-    [ "fireworkShowScheduleExodar", "dc/d98/a03524.html#a44290c427b72dfa245ba73b6fa1ea317", null ]
+    [ "SkillPerfectItemEntry", "db/d39/a11578.html", "db/d39/a11578" ],
+    [ "SkillExtraItemEntry", "de/d1a/a11582.html", "de/d1a/a11582" ],
+    [ "SkillExtraItemMap", "dc/d98/a03524.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
+    [ "SkillPerfectItemMap", "dc/d98/a03524.html#ad732be66d93ed6e8f498077f27e2766b", null ],
+    [ "canCreateExtraItems", "dc/d98/a03524.html#a49687e255d65fa15dac5e6a428c5739d", null ],
+    [ "CanCreatePerfectItem", "dc/d98/a03524.html#a818c557864790091814604b6d2175e52", null ],
+    [ "LoadSkillExtraItemTable", "dc/d98/a03524.html#a3244d04018405bafe21acc8bc96cc743", null ],
+    [ "LoadSkillPerfectItemTable", "dc/d98/a03524.html#a121df170a82be5ab5b05999a6be27b69", null ],
+    [ "SkillExtraItemStore", "dc/d98/a03524.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
+    [ "SkillPerfectItemStore", "dc/d98/a03524.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
 ];

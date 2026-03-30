@@ -1,6 +1,8 @@
 var a11490 =
 [
-    [ "WorldSession", "d6/d9d/a11490.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "d6/d9d/a11490.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "d6/d9d/a11490.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "ServerPktHeader", "d6/d9d/a11490.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "d6/d9d/a11490.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "d6/d9d/a11490.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "d6/d9d/a11490.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "d6/d9d/a11490.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

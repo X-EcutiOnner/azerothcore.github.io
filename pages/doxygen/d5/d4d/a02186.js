@@ -1,9 +1,6 @@
 var a02186 =
 [
-    [ "FactorySelector::PermissibleOrderPred< T >", "d9/d90/a06425.html", "d9/d90/a06425" ],
-    [ "GetPermitFor", "d5/d4d/a02186.html#aaf9c138ae6c123d03859db553a39892d", null ],
-    [ "SelectAI", "d5/d4d/a02186.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
-    [ "SelectFactory", "d5/d4d/a02186.html#ad553c2186f078e696768d40d217738f8", null ],
-    [ "SelectGameObjectAI", "d5/d4d/a02186.html#a2ce404e9b85f551638d8783c01a19860", null ],
-    [ "SelectMovementGenerator", "d5/d4d/a02186.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
+    [ "instance_razorfen_downs", "d5/de5/a15222.html", "d5/de5/a15222" ],
+    [ "instance_razorfen_downs::instance_razorfen_downs_InstanceMapScript", "d6/dd4/a15226.html", "d6/dd4/a15226" ],
+    [ "AddSC_instance_razorfen_downs", "d5/d4d/a02186.html#a0db4d34b8ea594cf2808b93c362a49c4", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: VMAP::StaticMapTree Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('dd/d68/a05269.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d7/dc7/a05266.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,22 +104,1264 @@ $(document).ready(function(){initNavTree('dd/d68/a05269.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">GameobjectModelData Member List</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-types">Private Types</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="../../dd/d95/a05263.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">VMAP::StaticMapTree Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../dd/d68/a05269.html">GameobjectModelData</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../dd/d68/a05269.html#ab133a32c9eefff0a35acaa4e157a3f05">bound</a></td><td class="entry"><a class="el" href="../../dd/d68/a05269.html">GameobjectModelData</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../dd/d68/a05269.html#a7d259df5a5541f95e0f548674d023fc8">GameobjectModelData</a>(char const *name_, uint32 nameLength, Vector3 const &amp;lowBound, Vector3 const &amp;highBound, bool isWmo_)</td><td class="entry"><a class="el" href="../../dd/d68/a05269.html">GameobjectModelData</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../dd/d68/a05269.html#ac51305f0d800ff993e9a9cba2ccb6939">isWmo</a></td><td class="entry"><a class="el" href="../../dd/d68/a05269.html">GameobjectModelData</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../dd/d68/a05269.html#ac8a053b6f01a9917ee6b1fc2a738bb4e">name</a></td><td class="entry"><a class="el" href="../../dd/d68/a05269.html">GameobjectModelData</a></td><td class="entry"></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">MapTree.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a0ecb0de74782f9d5f9f877529c698f20"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a0ecb0de74782f9d5f9f877529c698f20">StaticMapTree</a> (<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapID, const std::string &amp;basePath)</td></tr>
+<tr class="separator:a0ecb0de74782f9d5f9f877529c698f20"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ad3c38214b678574af00e92f81a49ed"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a2ad3c38214b678574af00e92f81a49ed">~StaticMapTree</a> ()</td></tr>
+<tr class="memdesc:a2ad3c38214b678574af00e92f81a49ed"><td class="mdescLeft">&#160;</td><td class="mdescRight">Make sure to call unloadMap() to unregister acquired model references before destroying.  <a href="../../d7/dc7/a05266.html#a2ad3c38214b678574af00e92f81a49ed">More...</a><br /></td></tr>
+<tr class="separator:a2ad3c38214b678574af00e92f81a49ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb692402b1fb2ef630972709cbc60dfb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#adb692402b1fb2ef630972709cbc60dfb">isInLineOfSight</a> (const G3D::Vector3 &amp;pos1, const G3D::Vector3 &amp;pos2, <a class="el" href="../../d4/d79/a05020.html#a6996c44f3ac72cd9dc04515186d2da28">ModelIgnoreFlags</a> ignoreFlags) const</td></tr>
+<tr class="separator:adb692402b1fb2ef630972709cbc60dfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a747e6e36e5ab00a084e1ebd3edfa37c9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a747e6e36e5ab00a084e1ebd3edfa37c9">GetObjectHitPos</a> (const G3D::Vector3 &amp;pos1, const G3D::Vector3 &amp;pos2, G3D::Vector3 &amp;pResultHitPos, float pModifyDist) const</td></tr>
+<tr class="separator:a747e6e36e5ab00a084e1ebd3edfa37c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af36059fa934fc9d25a29ae5aa30b3710"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#af36059fa934fc9d25a29ae5aa30b3710">getHeight</a> (const G3D::Vector3 &amp;pPos, float maxSearchDist) const</td></tr>
+<tr class="separator:af36059fa934fc9d25a29ae5aa30b3710"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada47b221e97dd5b14d87c7008be270a1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#ada47b221e97dd5b14d87c7008be270a1">GetLocationInfo</a> (const G3D::Vector3 &amp;pos, <a class="el" href="../../dd/df0/a05262.html">LocationInfo</a> &amp;info) const</td></tr>
+<tr class="separator:ada47b221e97dd5b14d87c7008be270a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4de3712597ffd8d400c2120f2aea998"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#ac4de3712597ffd8d400c2120f2aea998">InitMap</a> (const std::string &amp;fname)</td></tr>
+<tr class="separator:ac4de3712597ffd8d400c2120f2aea998"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b8861059ed9f86dc57aa6efd3b2300e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a5b8861059ed9f86dc57aa6efd3b2300e">UnloadMap</a> ()</td></tr>
+<tr class="separator:a5b8861059ed9f86dc57aa6efd3b2300e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a88edf6fd20f3618746367b85be638c55"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a88edf6fd20f3618746367b85be638c55">LoadMapTile</a> (<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileX, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileY)</td></tr>
+<tr class="separator:a88edf6fd20f3618746367b85be638c55"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a054c023e998be7fc4ebc9164fd655335"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a054c023e998be7fc4ebc9164fd655335">UnloadMapTile</a> (<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileX, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileY)</td></tr>
+<tr class="separator:a054c023e998be7fc4ebc9164fd655335"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad41ec5a8be2716f4cf97424fade16abb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#ad41ec5a8be2716f4cf97424fade16abb">isTiled</a> () const</td></tr>
+<tr class="separator:ad41ec5a8be2716f4cf97424fade16abb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeb152a7967dcc4b350a8c1ecb3e74a18"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#aeb152a7967dcc4b350a8c1ecb3e74a18">numLoadedTiles</a> () const</td></tr>
+<tr class="separator:aeb152a7967dcc4b350a8c1ecb3e74a18"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade056dd6e7e5da6e642a0b8e86df87a9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#ade056dd6e7e5da6e642a0b8e86df87a9">GetModelInstances</a> (<a class="el" href="../../d2/d74/a05318.html">ModelInstance</a> *&amp;models, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;count)</td></tr>
+<tr class="separator:ade056dd6e7e5da6e642a0b8e86df87a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a4dea40a355b2232f31eb8822fddb7fb1"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a4dea40a355b2232f31eb8822fddb7fb1">getTileFileName</a> (<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapID, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileX, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileY)</td></tr>
+<tr class="separator:a4dea40a355b2232f31eb8822fddb7fb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ebfb44b85eae52a0c346c8c33c52d4f"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a6ebfb44b85eae52a0c346c8c33c52d4f">packTileID</a> (<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileX, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileY)</td></tr>
+<tr class="separator:a6ebfb44b85eae52a0c346c8c33c52d4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac35d2a2b9ff9940717dc19558ce0a890"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#ac35d2a2b9ff9940717dc19558ce0a890">unpackTileID</a> (<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ID, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;tileX, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;tileY)</td></tr>
+<tr class="separator:ac35d2a2b9ff9940717dc19558ce0a890"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05bc1ec03ddd82516a45d2ff82274fe9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2">LoadResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a05bc1ec03ddd82516a45d2ff82274fe9">CanLoadMap</a> (const std::string &amp;basePath, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapID, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileX, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileY)</td></tr>
+<tr class="separator:a05bc1ec03ddd82516a45d2ff82274fe9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
+Private Types</h2></td></tr>
+<tr class="memitem:a7ddb3247db09697e7c1b299a3220e9f4"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a7ddb3247db09697e7c1b299a3220e9f4">loadedTileMap</a></td></tr>
+<tr class="separator:a7ddb3247db09697e7c1b299a3220e9f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32e00b67b2eb9af3748b6ac2ff79dc38"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a32e00b67b2eb9af3748b6ac2ff79dc38">loadedSpawnMap</a></td></tr>
+<tr class="separator:a32e00b67b2eb9af3748b6ac2ff79dc38"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a525504fa1a0fb62988de820582f211b3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a525504fa1a0fb62988de820582f211b3">GetIntersectionTime</a> (const G3D::Ray &amp;pRay, float &amp;pMaxDist, bool StopAtFirstHit, <a class="el" href="../../d4/d79/a05020.html#a6996c44f3ac72cd9dc04515186d2da28">ModelIgnoreFlags</a> ignoreFlags) const</td></tr>
+<tr class="separator:a525504fa1a0fb62988de820582f211b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a3f687b2c51b06f62f256cd897899c4ed"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a3f687b2c51b06f62f256cd897899c4ed">iMapID</a></td></tr>
+<tr class="separator:a3f687b2c51b06f62f256cd897899c4ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4eb6ec2ecf1977bc4fd63bbb5835f975"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a4eb6ec2ecf1977bc4fd63bbb5835f975">iIsTiled</a></td></tr>
+<tr class="separator:a4eb6ec2ecf1977bc4fd63bbb5835f975"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a6d8374af191f9484fe0e73c2e4e6b6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d48/a05150.html">BIH</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a2a6d8374af191f9484fe0e73c2e4e6b6">iTree</a></td></tr>
+<tr class="separator:a2a6d8374af191f9484fe0e73c2e4e6b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d23cba57dd975b664c2cf1e75575a92"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d74/a05318.html">ModelInstance</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a></td></tr>
+<tr class="separator:a9d23cba57dd975b664c2cf1e75575a92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a253f73ac82a7dd102385deaed890f456"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a253f73ac82a7dd102385deaed890f456">iNTreeValues</a></td></tr>
+<tr class="separator:a253f73ac82a7dd102385deaed890f456"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab24833a33be21e212103a25b65a2f71"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dc7/a05266.html#a7ddb3247db09697e7c1b299a3220e9f4">loadedTileMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#aab24833a33be21e212103a25b65a2f71">iLoadedTiles</a></td></tr>
+<tr class="separator:aab24833a33be21e212103a25b65a2f71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f85b6625e1bc9a9b145f5a9255a5702"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">iBasePath</a></td></tr>
+<tr class="separator:a8f85b6625e1bc9a9b145f5a9255a5702"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a32e00b67b2eb9af3748b6ac2ff79dc38" name="a32e00b67b2eb9af3748b6ac2ff79dc38"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32e00b67b2eb9af3748b6ac2ff79dc38">&#9670;&#160;</a></span>loadedSpawnMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; <a class="el" href="../../d7/dc7/a05266.html#a32e00b67b2eb9af3748b6ac2ff79dc38">VMAP::StaticMapTree::loadedSpawnMap</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7ddb3247db09697e7c1b299a3220e9f4" name="a7ddb3247db09697e7c1b299a3220e9f4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7ddb3247db09697e7c1b299a3220e9f4">&#9670;&#160;</a></span>loadedTileMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, bool&gt; <a class="el" href="../../d7/dc7/a05266.html#a7ddb3247db09697e7c1b299a3220e9f4">VMAP::StaticMapTree::loadedTileMap</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a0ecb0de74782f9d5f9f877529c698f20" name="a0ecb0de74782f9d5f9f877529c698f20"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ecb0de74782f9d5f9f877529c698f20">&#9670;&#160;</a></span>StaticMapTree()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">VMAP::StaticMapTree::StaticMapTree </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>mapID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>basePath</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   95</span>        : <a class="code hl_variable" href="../../d7/dc7/a05266.html#a3f687b2c51b06f62f256cd897899c4ed">iMapID</a>(mapID), <a class="code hl_variable" href="../../d7/dc7/a05266.html#a4eb6ec2ecf1977bc4fd63bbb5835f975">iIsTiled</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a>(0), <a class="code hl_variable" href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">iBasePath</a>(basePath)</div>
+<div class="line"><span class="lineno">   96</span>    {</div>
+<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">iBasePath</a>.length() &gt; 0 &amp;&amp; <a class="code hl_variable" href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">iBasePath</a>[<a class="code hl_variable" href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">iBasePath</a>.length() - 1] != <span class="charliteral">&#39;/&#39;</span> &amp;&amp; <a class="code hl_variable" href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">iBasePath</a>[<a class="code hl_variable" href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">iBasePath</a>.length() - 1] != <span class="charliteral">&#39;\\&#39;</span>)</div>
+<div class="line"><span class="lineno">   98</span>        {</div>
+<div class="line"><span class="lineno">   99</span>            <a class="code hl_variable" href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">iBasePath</a>.push_back(<span class="charliteral">&#39;/&#39;</span>);</div>
+<div class="line"><span class="lineno">  100</span>        }</div>
+<div class="line"><span class="lineno">  101</span>    }</div>
+<div class="ttc" id="aa05266_html_a3f687b2c51b06f62f256cd897899c4ed"><div class="ttname"><a href="../../d7/dc7/a05266.html#a3f687b2c51b06f62f256cd897899c4ed">VMAP::StaticMapTree::iMapID</a></div><div class="ttdeci">uint32 iMapID</div><div class="ttdef"><b>Definition:</b> MapTree.h:53</div></div>
+<div class="ttc" id="aa05266_html_a4eb6ec2ecf1977bc4fd63bbb5835f975"><div class="ttname"><a href="../../d7/dc7/a05266.html#a4eb6ec2ecf1977bc4fd63bbb5835f975">VMAP::StaticMapTree::iIsTiled</a></div><div class="ttdeci">bool iIsTiled</div><div class="ttdef"><b>Definition:</b> MapTree.h:54</div></div>
+<div class="ttc" id="aa05266_html_a8f85b6625e1bc9a9b145f5a9255a5702"><div class="ttname"><a href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">VMAP::StaticMapTree::iBasePath</a></div><div class="ttdeci">std::string iBasePath</div><div class="ttdef"><b>Definition:</b> MapTree.h:63</div></div>
+<div class="ttc" id="aa05266_html_a9d23cba57dd975b664c2cf1e75575a92"><div class="ttname"><a href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">VMAP::StaticMapTree::iTreeValues</a></div><div class="ttdeci">ModelInstance * iTreeValues</div><div class="ttdef"><b>Definition:</b> MapTree.h:56</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00063">iBasePath</a>.</p>
+
+</div>
+</div>
+<a id="a2ad3c38214b678574af00e92f81a49ed" name="a2ad3c38214b678574af00e92f81a49ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ad3c38214b678574af00e92f81a49ed">&#9670;&#160;</a></span>~StaticMapTree()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">VMAP::StaticMapTree::~StaticMapTree </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Make sure to call unloadMap() to unregister acquired model references before destroying. </p>
+<div class="fragment"><div class="line"><span class="lineno">  106</span>    {</div>
+<div class="line"><span class="lineno">  107</span>        <span class="keyword">delete</span>[] <a class="code hl_variable" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a>;</div>
+<div class="line"><span class="lineno">  108</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00056">iTreeValues</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a05bc1ec03ddd82516a45d2ff82274fe9" name="a05bc1ec03ddd82516a45d2ff82274fe9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a05bc1ec03ddd82516a45d2ff82274fe9">&#9670;&#160;</a></span>CanLoadMap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2">LoadResult</a> VMAP::StaticMapTree::CanLoadMap </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>basePath</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>mapID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileY</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  217</span>    {</div>
+<div class="line"><span class="lineno">  218</span>        std::string basePath = vmapPath;</div>
+<div class="line"><span class="lineno">  219</span>        <span class="keywordflow">if</span> (basePath.length() &gt; 0 &amp;&amp; basePath[basePath.length() - 1] != <span class="charliteral">&#39;/&#39;</span> &amp;&amp; basePath[basePath.length() - 1] != <span class="charliteral">&#39;\\&#39;</span>)</div>
+<div class="line"><span class="lineno">  220</span>        {</div>
+<div class="line"><span class="lineno">  221</span>            basePath.push_back(<span class="charliteral">&#39;/&#39;</span>);</div>
+<div class="line"><span class="lineno">  222</span>        }</div>
+<div class="line"><span class="lineno">  223</span>        std::string fullname = basePath + <a class="code hl_function" href="../../d6/de6/a05234.html#aecec356ccb3fd3ddb52c7d889bd2c80d">VMapMgr2::getMapFileName</a>(mapID);</div>
+<div class="line"><span class="lineno">  224</span> </div>
+<div class="line"><span class="lineno">  225</span>        <a class="code hl_enumeration" href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2">LoadResult</a> result = <a class="code hl_enumvalue" href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38">LoadResult::Success</a>;</div>
+<div class="line"><span class="lineno">  226</span> </div>
+<div class="line"><span class="lineno">  227</span>        FILE* rf = fopen(fullname.c_str(), <span class="stringliteral">&quot;rb&quot;</span>);</div>
+<div class="line"><span class="lineno">  228</span>        <span class="keywordflow">if</span> (!rf)</div>
+<div class="line"><span class="lineno">  229</span>        {</div>
+<div class="line"><span class="lineno">  230</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2">LoadResult::FileNotFound</a>;</div>
+<div class="line"><span class="lineno">  231</span>        }</div>
+<div class="line"><span class="lineno">  232</span> </div>
+<div class="line"><span class="lineno">  233</span>        <span class="keywordtype">char</span> tiled;</div>
+<div class="line"><span class="lineno">  234</span>        <span class="keywordtype">char</span> chunk[8];</div>
+<div class="line"><span class="lineno">  235</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d4/d79/a05020.html#a166f3eeee53079ac9df4f15ccd577974">readChunk</a>(rf, chunk, <a class="code hl_variable" href="../../d4/d79/a05020.html#aa7e5a571fdcb9d62ceefdcf5744746cb">VMAP_MAGIC</a>, 8) || fread(&amp;tiled, <span class="keyword">sizeof</span>(<span class="keywordtype">char</span>), 1, rf) != 1)</div>
+<div class="line"><span class="lineno">  236</span>        {</div>
+<div class="line"><span class="lineno">  237</span>            fclose(rf);</div>
+<div class="line"><span class="lineno">  238</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31">LoadResult::VersionMismatch</a>;</div>
+<div class="line"><span class="lineno">  239</span>        }</div>
+<div class="line"><span class="lineno">  240</span>        <span class="keywordflow">if</span> (tiled)</div>
+<div class="line"><span class="lineno">  241</span>        {</div>
+<div class="line"><span class="lineno">  242</span>            std::string tilefile = basePath + <a class="code hl_function" href="../../d7/dc7/a05266.html#a4dea40a355b2232f31eb8822fddb7fb1">getTileFileName</a>(mapID, tileX, tileY);</div>
+<div class="line"><span class="lineno">  243</span>            FILE* tf = fopen(tilefile.c_str(), <span class="stringliteral">&quot;rb&quot;</span>);</div>
+<div class="line"><span class="lineno">  244</span>            <span class="keywordflow">if</span> (!tf)</div>
+<div class="line"><span class="lineno">  245</span>            {</div>
+<div class="line"><span class="lineno">  246</span>                result = <a class="code hl_enumvalue" href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2">LoadResult::FileNotFound</a>;</div>
+<div class="line"><span class="lineno">  247</span>            }</div>
+<div class="line"><span class="lineno">  248</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  249</span>            {</div>
+<div class="line"><span class="lineno">  250</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d4/d79/a05020.html#a166f3eeee53079ac9df4f15ccd577974">readChunk</a>(tf, chunk, <a class="code hl_variable" href="../../d4/d79/a05020.html#aa7e5a571fdcb9d62ceefdcf5744746cb">VMAP_MAGIC</a>, 8))</div>
+<div class="line"><span class="lineno">  251</span>                {</div>
+<div class="line"><span class="lineno">  252</span>                    result = <a class="code hl_enumvalue" href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31">LoadResult::VersionMismatch</a>;</div>
+<div class="line"><span class="lineno">  253</span>                }</div>
+<div class="line"><span class="lineno">  254</span>                fclose(tf);</div>
+<div class="line"><span class="lineno">  255</span>            }</div>
+<div class="line"><span class="lineno">  256</span>        }</div>
+<div class="line"><span class="lineno">  257</span>        fclose(rf);</div>
+<div class="line"><span class="lineno">  258</span>        <span class="keywordflow">return</span> result;</div>
+<div class="line"><span class="lineno">  259</span>    }</div>
+<div class="ttc" id="aa05020_html_a166f3eeee53079ac9df4f15ccd577974"><div class="ttname"><a href="../../d4/d79/a05020.html#a166f3eeee53079ac9df4f15ccd577974">VMAP::readChunk</a></div><div class="ttdeci">bool readChunk(FILE *rf, char *dest, const char *compare, uint32 len)</div><div class="ttdef"><b>Definition:</b> TileAssembler.cpp:40</div></div>
+<div class="ttc" id="aa05020_html_a3ca4e45c9be5012fb1af06ea12b759c2"><div class="ttname"><a href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2">VMAP::LoadResult</a></div><div class="ttdeci">LoadResult</div><div class="ttdef"><b>Definition:</b> IVMapMgr.h:44</div></div>
+<div class="ttc" id="aa05020_html_a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2"><div class="ttname"><a href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2">VMAP::LoadResult::FileNotFound</a></div><div class="ttdeci">@ FileNotFound</div></div>
+<div class="ttc" id="aa05020_html_a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31"><div class="ttname"><a href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31">VMAP::LoadResult::VersionMismatch</a></div><div class="ttdeci">@ VersionMismatch</div></div>
+<div class="ttc" id="aa05020_html_a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38"><div class="ttname"><a href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38">VMAP::LoadResult::Success</a></div><div class="ttdeci">@ Success</div></div>
+<div class="ttc" id="aa05020_html_aa7e5a571fdcb9d62ceefdcf5744746cb"><div class="ttname"><a href="../../d4/d79/a05020.html#aa7e5a571fdcb9d62ceefdcf5744746cb">VMAP::VMAP_MAGIC</a></div><div class="ttdeci">const char VMAP_MAGIC[]</div><div class="ttdef"><b>Definition:</b> VMapDefinitions.h:25</div></div>
+<div class="ttc" id="aa05234_html_aecec356ccb3fd3ddb52c7d889bd2c80d"><div class="ttname"><a href="../../d6/de6/a05234.html#aecec356ccb3fd3ddb52c7d889bd2c80d">VMAP::VMapMgr2::getMapFileName</a></div><div class="ttdeci">static std::string getMapFileName(unsigned int mapId)</div><div class="ttdef"><b>Definition:</b> VMapMgr2.cpp:53</div></div>
+<div class="ttc" id="aa05266_html_a4dea40a355b2232f31eb8822fddb7fb1"><div class="ttname"><a href="../../d7/dc7/a05266.html#a4dea40a355b2232f31eb8822fddb7fb1">VMAP::StaticMapTree::getTileFileName</a></div><div class="ttdeci">static std::string getTileFileName(uint32 mapID, uint32 tileX, uint32 tileY)</div><div class="ttdef"><b>Definition:</b> MapTree.cpp:77</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2">VMAP::FileNotFound</a>, <a class="el" href="../../#l00053">VMAP::VMapMgr2::getMapFileName()</a>, <a class="el" href="../../#l00077">getTileFileName()</a>, <a class="el" href="../../#l00040">VMAP::readChunk()</a>, <a class="el" href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38">VMAP::Success</a>, <a class="el" href="../../d4/d79/a05020.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31">VMAP::VersionMismatch</a>, and <a class="el" href="../../#l00025">VMAP::VMAP_MAGIC</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00062">VMAP::VMapMgr2::existsMap()</a>.</p>
+
+</div>
+</div>
+<a id="af36059fa934fc9d25a29ae5aa30b3710" name="af36059fa934fc9d25a29ae5aa30b3710"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af36059fa934fc9d25a29ae5aa30b3710">&#9670;&#160;</a></span>getHeight()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float VMAP::StaticMapTree::getHeight </td>
+          <td>(</td>
+          <td class="paramtype">const G3D::Vector3 &amp;&#160;</td>
+          <td class="paramname"><em>pPos</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>maxSearchDist</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  202</span>    {</div>
+<div class="line"><span class="lineno">  203</span>        <span class="keywordtype">float</span> height = G3D::finf();</div>
+<div class="line"><span class="lineno">  204</span>        Vector3 dir = Vector3(0, 0, -1);</div>
+<div class="line"><span class="lineno">  205</span>        G3D::Ray ray(pPos, dir);   <span class="comment">// direction with length of 1</span></div>
+<div class="line"><span class="lineno">  206</span>        <span class="keywordtype">float</span> maxDist = maxSearchDist;</div>
+<div class="line"><span class="lineno">  207</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/dc7/a05266.html#a525504fa1a0fb62988de820582f211b3">GetIntersectionTime</a>(ray, maxDist, <span class="keyword">false</span>, <a class="code hl_enumvalue" href="../../d4/d79/a05020.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">ModelIgnoreFlags::Nothing</a>))</div>
+<div class="line"><span class="lineno">  208</span>        {</div>
+<div class="line"><span class="lineno">  209</span>            height = pPos.z - maxDist;</div>
+<div class="line"><span class="lineno">  210</span>        }</div>
+<div class="line"><span class="lineno">  211</span>        <span class="keywordflow">return</span> (height);</div>
+<div class="line"><span class="lineno">  212</span>    }</div>
+<div class="ttc" id="aa05020_html_a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5"><div class="ttname"><a href="../../d4/d79/a05020.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::ModelIgnoreFlags::Nothing</a></div><div class="ttdeci">@ Nothing</div></div>
+<div class="ttc" id="aa05266_html_a525504fa1a0fb62988de820582f211b3"><div class="ttname"><a href="../../d7/dc7/a05266.html#a525504fa1a0fb62988de820582f211b3">VMAP::StaticMapTree::GetIntersectionTime</a></div><div class="ttdeci">bool GetIntersectionTime(const G3D::Ray &amp;pRay, float &amp;pMaxDist, bool StopAtFirstHit, ModelIgnoreFlags ignoreFlags) const</div><div class="ttdef"><b>Definition:</b> MapTree.cpp:116</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00116">GetIntersectionTime()</a>, and <a class="el" href="../../d4/d79/a05020.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::Nothing</a>.</p>
+
+</div>
+</div>
+<a id="a525504fa1a0fb62988de820582f211b3" name="a525504fa1a0fb62988de820582f211b3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a525504fa1a0fb62988de820582f211b3">&#9670;&#160;</a></span>GetIntersectionTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool VMAP::StaticMapTree::GetIntersectionTime </td>
+          <td>(</td>
+          <td class="paramtype">const G3D::Ray &amp;&#160;</td>
+          <td class="paramname"><em>pRay</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>pMaxDist</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>StopAtFirstHit</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/d79/a05020.html#a6996c44f3ac72cd9dc04515186d2da28">ModelIgnoreFlags</a>&#160;</td>
+          <td class="paramname"><em>ignoreFlags</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p >If intersection is found within pMaxDist, sets pMaxDist to intersection distance and returns true. Else, pMaxDist is not modified and returns false; </p>
+<div class="fragment"><div class="line"><span class="lineno">  117</span>    {</div>
+<div class="line"><span class="lineno">  118</span>        <span class="keywordtype">float</span> distance = pMaxDist;</div>
+<div class="line"><span class="lineno">  119</span>        MapRayCallback intersectionCallBack(<a class="code hl_variable" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a>, ignoreFlags);</div>
+<div class="line"><span class="lineno">  120</span>        <a class="code hl_variable" href="../../d7/dc7/a05266.html#a2a6d8374af191f9484fe0e73c2e4e6b6">iTree</a>.<a class="code hl_function" href="../../dd/d48/a05150.html#afafb40f54cd1e0239ca9bc414f0f3d85">intersectRay</a>(pRay, intersectionCallBack, distance, StopAtFirstHit);</div>
+<div class="line"><span class="lineno">  121</span>        <span class="keywordflow">if</span> (intersectionCallBack.didHit())</div>
+<div class="line"><span class="lineno">  122</span>        {</div>
+<div class="line"><span class="lineno">  123</span>            pMaxDist = distance;</div>
+<div class="line"><span class="lineno">  124</span>        }</div>
+<div class="line"><span class="lineno">  125</span>        <span class="keywordflow">return</span> intersectionCallBack.didHit();</div>
+<div class="line"><span class="lineno">  126</span>    }</div>
+<div class="ttc" id="aa05150_html_afafb40f54cd1e0239ca9bc414f0f3d85"><div class="ttname"><a href="../../dd/d48/a05150.html#afafb40f54cd1e0239ca9bc414f0f3d85">BIH::intersectRay</a></div><div class="ttdeci">void intersectRay(const G3D::Ray &amp;r, RayCallback &amp;intersectCallback, float &amp;maxDist, bool stopAtFirstHit) const</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:123</div></div>
+<div class="ttc" id="aa05266_html_a2a6d8374af191f9484fe0e73c2e4e6b6"><div class="ttname"><a href="../../d7/dc7/a05266.html#a2a6d8374af191f9484fe0e73c2e4e6b6">VMAP::StaticMapTree::iTree</a></div><div class="ttdeci">BIH iTree</div><div class="ttdef"><b>Definition:</b> MapTree.h:55</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">VMAP::MapRayCallback::didHit()</a>, <a class="el" href="../../#l00123">BIH::intersectRay()</a>, <a class="el" href="../../#l00055">iTree</a>, and <a class="el" href="../../#l00056">iTreeValues</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00201">getHeight()</a>, <a class="el" href="../../#l00156">GetObjectHitPos()</a>, and <a class="el" href="../../#l00129">isInLineOfSight()</a>.</p>
+
+</div>
+</div>
+<a id="ada47b221e97dd5b14d87c7008be270a1" name="ada47b221e97dd5b14d87c7008be270a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ada47b221e97dd5b14d87c7008be270a1">&#9670;&#160;</a></span>GetLocationInfo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool VMAP::StaticMapTree::GetLocationInfo </td>
+          <td>(</td>
+          <td class="paramtype">const G3D::Vector3 &amp;&#160;</td>
+          <td class="paramname"><em>pos</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/df0/a05262.html">LocationInfo</a> &amp;&#160;</td>
+          <td class="paramname"><em>info</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   88</span>    {</div>
+<div class="line"><span class="lineno">   89</span>        LocationInfoCallback intersectionCallBack(<a class="code hl_variable" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a>, info);</div>
+<div class="line"><span class="lineno">   90</span>        <a class="code hl_variable" href="../../d7/dc7/a05266.html#a2a6d8374af191f9484fe0e73c2e4e6b6">iTree</a>.<a class="code hl_function" href="../../dd/d48/a05150.html#af2ead3a6c24ec4e31b01ca28b82fc3a9">intersectPoint</a>(pos, intersectionCallBack);</div>
+<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">return</span> intersectionCallBack.result;</div>
+<div class="line"><span class="lineno">   92</span>    }</div>
+<div class="ttc" id="aa05150_html_af2ead3a6c24ec4e31b01ca28b82fc3a9"><div class="ttname"><a href="../../dd/d48/a05150.html#af2ead3a6c24ec4e31b01ca28b82fc3a9">BIH::intersectPoint</a></div><div class="ttdeci">void intersectPoint(const G3D::Vector3 &amp;p, IsectCallback &amp;intersectCallback) const</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:286</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00286">BIH::intersectPoint()</a>, <a class="el" href="../../#l00055">iTree</a>, <a class="el" href="../../#l00056">iTreeValues</a>, and <a class="el" href="../../#l00072">VMAP::LocationInfoCallback::result</a>.</p>
+
+</div>
+</div>
+<a id="ade056dd6e7e5da6e642a0b8e86df87a9" name="ade056dd6e7e5da6e642a0b8e86df87a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade056dd6e7e5da6e642a0b8e86df87a9">&#9670;&#160;</a></span>GetModelInstances()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void VMAP::StaticMapTree::GetModelInstances </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d74/a05318.html">ModelInstance</a> *&amp;&#160;</td>
+          <td class="paramname"><em>models</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
+          <td class="paramname"><em>count</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  438</span>    {</div>
+<div class="line"><span class="lineno">  439</span>        models = <a class="code hl_variable" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a>;</div>
+<div class="line"><span class="lineno">  440</span>        count = <a class="code hl_variable" href="../../d7/dc7/a05266.html#a253f73ac82a7dd102385deaed890f456">iNTreeValues</a>;</div>
+<div class="line"><span class="lineno">  441</span>    }</div>
+<div class="ttc" id="aa05266_html_a253f73ac82a7dd102385deaed890f456"><div class="ttname"><a href="../../d7/dc7/a05266.html#a253f73ac82a7dd102385deaed890f456">VMAP::StaticMapTree::iNTreeValues</a></div><div class="ttdeci">uint32 iNTreeValues</div><div class="ttdef"><b>Definition:</b> MapTree.h:57</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00057">iNTreeValues</a>, and <a class="el" href="../../#l00056">iTreeValues</a>.</p>
+
+</div>
+</div>
+<a id="a747e6e36e5ab00a084e1ebd3edfa37c9" name="a747e6e36e5ab00a084e1ebd3edfa37c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a747e6e36e5ab00a084e1ebd3edfa37c9">&#9670;&#160;</a></span>GetObjectHitPos()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool VMAP::StaticMapTree::GetObjectHitPos </td>
+          <td>(</td>
+          <td class="paramtype">const G3D::Vector3 &amp;&#160;</td>
+          <td class="paramname"><em>pos1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const G3D::Vector3 &amp;&#160;</td>
+          <td class="paramname"><em>pos2</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">G3D::Vector3 &amp;&#160;</td>
+          <td class="paramname"><em>pResultHitPos</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>pModifyDist</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p >When moving from pos1 to pos2 check if we hit an object. Return true and the position if we hit one Return the hit pos or the original dest pos </p>
+<div class="fragment"><div class="line"><span class="lineno">  157</span>    {</div>
+<div class="line"><span class="lineno">  158</span>        <span class="keywordtype">bool</span> result = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  159</span>        <span class="keywordtype">float</span> maxDist = (pPos2 - pPos1).magnitude();</div>
+<div class="line"><span class="lineno">  160</span>        <span class="comment">// valid map coords should *never ever* produce float overflow, but this would produce NaNs too</span></div>
+<div class="line"><span class="lineno">  161</span>        <a class="code hl_define" href="../../dd/dad/a00005.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(maxDist &lt; std::numeric_limits&lt;float&gt;::max());</div>
+<div class="line"><span class="lineno">  162</span>        <span class="comment">// prevent NaN values which can cause BIH intersection to enter infinite loop</span></div>
+<div class="line"><span class="lineno">  163</span>        <span class="keywordflow">if</span> (maxDist &lt; 1e-10f)</div>
+<div class="line"><span class="lineno">  164</span>        {</div>
+<div class="line"><span class="lineno">  165</span>            pResultHitPos = pPos2;</div>
+<div class="line"><span class="lineno">  166</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  167</span>        }</div>
+<div class="line"><span class="lineno">  168</span>        Vector3 dir = (pPos2 - pPos1) / maxDist;            <span class="comment">// direction with length of 1</span></div>
+<div class="line"><span class="lineno">  169</span>        G3D::Ray ray(pPos1, dir);</div>
+<div class="line"><span class="lineno">  170</span>        <span class="keywordtype">float</span> dist = maxDist;</div>
+<div class="line"><span class="lineno">  171</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/dc7/a05266.html#a525504fa1a0fb62988de820582f211b3">GetIntersectionTime</a>(ray, dist, <span class="keyword">false</span>, <a class="code hl_enumvalue" href="../../d4/d79/a05020.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">ModelIgnoreFlags::Nothing</a>))</div>
+<div class="line"><span class="lineno">  172</span>        {</div>
+<div class="line"><span class="lineno">  173</span>            pResultHitPos = pPos1 + dir * dist;</div>
+<div class="line"><span class="lineno">  174</span>            <span class="keywordflow">if</span> (pModifyDist &lt; 0)</div>
+<div class="line"><span class="lineno">  175</span>            {</div>
+<div class="line"><span class="lineno">  176</span>                <span class="keywordflow">if</span> ((pResultHitPos - pPos1).magnitude() &gt; -pModifyDist)</div>
+<div class="line"><span class="lineno">  177</span>                {</div>
+<div class="line"><span class="lineno">  178</span>                    pResultHitPos = pResultHitPos + dir * pModifyDist;</div>
+<div class="line"><span class="lineno">  179</span>                }</div>
+<div class="line"><span class="lineno">  180</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  181</span>                {</div>
+<div class="line"><span class="lineno">  182</span>                    pResultHitPos = pPos1;</div>
+<div class="line"><span class="lineno">  183</span>                }</div>
+<div class="line"><span class="lineno">  184</span>            }</div>
+<div class="line"><span class="lineno">  185</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  186</span>            {</div>
+<div class="line"><span class="lineno">  187</span>                pResultHitPos = pResultHitPos + dir * pModifyDist;</div>
+<div class="line"><span class="lineno">  188</span>            }</div>
+<div class="line"><span class="lineno">  189</span>            result = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  190</span>        }</div>
+<div class="line"><span class="lineno">  191</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  192</span>        {</div>
+<div class="line"><span class="lineno">  193</span>            pResultHitPos = pPos2;</div>
+<div class="line"><span class="lineno">  194</span>            result = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  195</span>        }</div>
+<div class="line"><span class="lineno">  196</span>        <span class="keywordflow">return</span> result;</div>
+<div class="line"><span class="lineno">  197</span>    }</div>
+<div class="ttc" id="aa00005_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../dd/dad/a00005.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00116">GetIntersectionTime()</a>, and <a class="el" href="../../d4/d79/a05020.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::Nothing</a>.</p>
+
+</div>
+</div>
+<a id="a4dea40a355b2232f31eb8822fddb7fb1" name="a4dea40a355b2232f31eb8822fddb7fb1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4dea40a355b2232f31eb8822fddb7fb1">&#9670;&#160;</a></span>getTileFileName()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string VMAP::StaticMapTree::getTileFileName </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>mapID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileY</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   78</span>    {</div>
+<div class="line"><span class="lineno">   79</span>        std::stringstream tilefilename;</div>
+<div class="line"><span class="lineno">   80</span>        tilefilename.fill(<span class="charliteral">&#39;0&#39;</span>);</div>
+<div class="line"><span class="lineno">   81</span>        tilefilename &lt;&lt; std::setw(3) &lt;&lt; mapID &lt;&lt; <span class="charliteral">&#39;_&#39;</span>;</div>
+<div class="line"><span class="lineno">   82</span>        <span class="comment">//tilefilename &lt;&lt; std::setw(2) &lt;&lt; tileX &lt;&lt; &#39;_&#39; &lt;&lt; std::setw(2) &lt;&lt; tileY &lt;&lt; &quot;.vmtile&quot;;</span></div>
+<div class="line"><span class="lineno">   83</span>        tilefilename &lt;&lt; std::setw(2) &lt;&lt; tileY &lt;&lt; <span class="charliteral">&#39;_&#39;</span> &lt;&lt; std::setw(2) &lt;&lt; tileX &lt;&lt; <span class="stringliteral">&quot;.vmtile&quot;</span>;</div>
+<div class="line"><span class="lineno">   84</span>        <span class="keywordflow">return</span> tilefilename.str();</div>
+<div class="line"><span class="lineno">   85</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00216">CanLoadMap()</a>, and <a class="el" href="../../#l00322">LoadMapTile()</a>.</p>
+
+</div>
+</div>
+<a id="ac4de3712597ffd8d400c2120f2aea998" name="ac4de3712597ffd8d400c2120f2aea998"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac4de3712597ffd8d400c2120f2aea998">&#9670;&#160;</a></span>InitMap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool VMAP::StaticMapTree::InitMap </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>fname</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  264</span>    {</div>
+<div class="line"><span class="lineno">  265</span>        <span class="comment">//VMAP_DEBUG_LOG(LOG_FILTER_MAPS, &quot;StaticMapTree::InitMap() : initializing StaticMapTree &#39;{}&#39;&quot;, fname);</span></div>
+<div class="line"><span class="lineno">  266</span>        <span class="keywordtype">bool</span> success = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  267</span>        std::string fullname = <a class="code hl_variable" href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">iBasePath</a> + fname;</div>
+<div class="line"><span class="lineno">  268</span>        FILE* rf = fopen(fullname.c_str(), <span class="stringliteral">&quot;rb&quot;</span>);</div>
+<div class="line"><span class="lineno">  269</span>        <span class="keywordflow">if</span> (!rf)</div>
+<div class="line"><span class="lineno">  270</span>        {</div>
+<div class="line"><span class="lineno">  271</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  272</span>        }</div>
+<div class="line"><span class="lineno">  273</span> </div>
+<div class="line"><span class="lineno">  274</span>        <span class="keywordtype">char</span> chunk[8];</div>
+<div class="line"><span class="lineno">  275</span>        <span class="keywordtype">char</span> tiled = <span class="charliteral">&#39;\0&#39;</span>;</div>
+<div class="line"><span class="lineno">  276</span> </div>
+<div class="line"><span class="lineno">  277</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d4/d79/a05020.html#a166f3eeee53079ac9df4f15ccd577974">readChunk</a>(rf, chunk, <a class="code hl_variable" href="../../d4/d79/a05020.html#aa7e5a571fdcb9d62ceefdcf5744746cb">VMAP_MAGIC</a>, 8) &amp;&amp; fread(&amp;tiled, <span class="keyword">sizeof</span>(<span class="keywordtype">char</span>), 1, rf) == 1 &amp;&amp;</div>
+<div class="line"><span class="lineno">  278</span>                <a class="code hl_function" href="../../d4/d79/a05020.html#a166f3eeee53079ac9df4f15ccd577974">readChunk</a>(rf, chunk, <span class="stringliteral">&quot;NODE&quot;</span>, 4) &amp;&amp; <a class="code hl_variable" href="../../d7/dc7/a05266.html#a2a6d8374af191f9484fe0e73c2e4e6b6">iTree</a>.<a class="code hl_function" href="../../dd/d48/a05150.html#adeadee1970906f38ffe28696cb650e14">readFromFile</a>(rf))</div>
+<div class="line"><span class="lineno">  279</span>        {</div>
+<div class="line"><span class="lineno">  280</span>            <a class="code hl_variable" href="../../d7/dc7/a05266.html#a253f73ac82a7dd102385deaed890f456">iNTreeValues</a> = <a class="code hl_variable" href="../../d7/dc7/a05266.html#a2a6d8374af191f9484fe0e73c2e4e6b6">iTree</a>.<a class="code hl_function" href="../../dd/d48/a05150.html#acab234e905d313accddff297c2679add">primCount</a>();</div>
+<div class="line"><span class="lineno">  281</span>            <a class="code hl_variable" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a> = <span class="keyword">new</span> ModelInstance[<a class="code hl_variable" href="../../d7/dc7/a05266.html#a253f73ac82a7dd102385deaed890f456">iNTreeValues</a>];</div>
+<div class="line"><span class="lineno">  282</span>            success = <a class="code hl_function" href="../../d4/d79/a05020.html#a166f3eeee53079ac9df4f15ccd577974">readChunk</a>(rf, chunk, <span class="stringliteral">&quot;GOBJ&quot;</span>, 4);</div>
+<div class="line"><span class="lineno">  283</span>        }</div>
+<div class="line"><span class="lineno">  284</span> </div>
+<div class="line"><span class="lineno">  285</span>        <a class="code hl_variable" href="../../d7/dc7/a05266.html#a4eb6ec2ecf1977bc4fd63bbb5835f975">iIsTiled</a> = bool(tiled);</div>
+<div class="line"><span class="lineno">  286</span> </div>
+<div class="line"><span class="lineno">  287</span>        <span class="comment">// global model spawns</span></div>
+<div class="line"><span class="lineno">  288</span>        <span class="comment">// only non-tiled maps have them, and if so exactly one (so far at least...)</span></div>
+<div class="line"><span class="lineno">  289</span>        ModelSpawn spawn;</div>
+<div class="line"><span class="lineno">  290</span><span class="preprocessor">#ifdef VMAP_DEBUG</span></div>
+<div class="line"><span class="lineno">  291</span>        <span class="comment">//LOG_DEBUG(LOG_FILTER_MAPS, &quot;StaticMapTree::InitMap() : map isTiled: {}&quot;, static_cast&lt;uint32&gt;(iIsTiled));</span></div>
+<div class="line"><span class="lineno">  292</span><span class="preprocessor">#endif</span></div>
+<div class="line"><span class="lineno">  293</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/dc7/a05266.html#a4eb6ec2ecf1977bc4fd63bbb5835f975">iIsTiled</a> &amp;&amp; <a class="code hl_function" href="../../db/dc8/a05314.html#a35d7880eb3e295ed3148ca05a2f4520e">ModelSpawn::readFromFile</a>(rf, spawn))</div>
+<div class="line"><span class="lineno">  294</span>        {</div>
+<div class="line"><span class="lineno">  295</span>            std::shared_ptr&lt;WorldModel&gt; model = <a class="code hl_define" href="../../dc/d9a/a00218.html#ac34a0ffef200907436157f7ccb40be46">sWorldModelStore</a>-&gt;AcquireModelInstance(<a class="code hl_variable" href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">iBasePath</a>, spawn.name, spawn.flags);</div>
+<div class="line"><span class="lineno">  296</span>            <span class="comment">//VMAP_DEBUG_LOG(LOG_FILTER_MAPS, &quot;StaticMapTree::InitMap() : loading {}&quot;, spawn.name);</span></div>
+<div class="line"><span class="lineno">  297</span>            <span class="keywordflow">if</span> (model)</div>
+<div class="line"><span class="lineno">  298</span>            {</div>
+<div class="line"><span class="lineno">  299</span>                <span class="comment">// assume that global model always is the first and only tree value (could be improved...)</span></div>
+<div class="line"><span class="lineno">  300</span>                <a class="code hl_variable" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a>[0] = ModelInstance(spawn, model);</div>
+<div class="line"><span class="lineno">  301</span>            }</div>
+<div class="line"><span class="lineno">  302</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  303</span>            {</div>
+<div class="line"><span class="lineno">  304</span>                success = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  305</span>                <span class="comment">//VMAP_ERROR_LOG(LOG_FILTER_GENERAL, &quot;StaticMapTree::InitMap() : could not acquire WorldModel pointer for &#39;{}&#39;&quot;, spawn.name);</span></div>
+<div class="line"><span class="lineno">  306</span>            }</div>
+<div class="line"><span class="lineno">  307</span>        }</div>
+<div class="line"><span class="lineno">  308</span> </div>
+<div class="line"><span class="lineno">  309</span>        fclose(rf);</div>
+<div class="line"><span class="lineno">  310</span>        <span class="keywordflow">return</span> success;</div>
+<div class="line"><span class="lineno">  311</span>    }</div>
+<div class="ttc" id="aa00218_html_ac34a0ffef200907436157f7ccb40be46"><div class="ttname"><a href="../../dc/d9a/a00218.html#ac34a0ffef200907436157f7ccb40be46">sWorldModelStore</a></div><div class="ttdeci">#define sWorldModelStore</div><div class="ttdef"><b>Definition:</b> WorldModelStore.h:44</div></div>
+<div class="ttc" id="aa05150_html_acab234e905d313accddff297c2679add"><div class="ttname"><a href="../../dd/d48/a05150.html#acab234e905d313accddff297c2679add">BIH::primCount</a></div><div class="ttdeci">uint32 primCount() const</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:119</div></div>
+<div class="ttc" id="aa05150_html_adeadee1970906f38ffe28696cb650e14"><div class="ttname"><a href="../../dd/d48/a05150.html#adeadee1970906f38ffe28696cb650e14">BIH::readFromFile</a></div><div class="ttdeci">bool readFromFile(FILE *rf)</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.cpp:287</div></div>
+<div class="ttc" id="aa05314_html_a35d7880eb3e295ed3148ca05a2f4520e"><div class="ttname"><a href="../../db/dc8/a05314.html#a35d7880eb3e295ed3148ca05a2f4520e">VMAP::ModelSpawn::readFromFile</a></div><div class="ttdeci">static bool readFromFile(FILE *rf, ModelSpawn &amp;spawn)</div><div class="ttdef"><b>Definition:</b> ModelInstance.cpp:125</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">VMAP::ModelSpawn::flags</a>, <a class="el" href="../../#l00063">iBasePath</a>, <a class="el" href="../../#l00054">iIsTiled</a>, <a class="el" href="../../#l00057">iNTreeValues</a>, <a class="el" href="../../#l00055">iTree</a>, <a class="el" href="../../#l00056">iTreeValues</a>, <a class="el" href="../../#l00053">VMAP::ModelSpawn::name</a>, <a class="el" href="../../#l00119">BIH::primCount()</a>, <a class="el" href="../../#l00040">VMAP::readChunk()</a>, <a class="el" href="../../#l00287">BIH::readFromFile()</a>, <a class="el" href="../../#l00125">VMAP::ModelSpawn::readFromFile()</a>, <a class="el" href="../../#l00044">sWorldModelStore</a>, and <a class="el" href="../../#l00025">VMAP::VMAP_MAGIC</a>.</p>
+
+</div>
+</div>
+<a id="adb692402b1fb2ef630972709cbc60dfb" name="adb692402b1fb2ef630972709cbc60dfb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb692402b1fb2ef630972709cbc60dfb">&#9670;&#160;</a></span>isInLineOfSight()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool VMAP::StaticMapTree::isInLineOfSight </td>
+          <td>(</td>
+          <td class="paramtype">const G3D::Vector3 &amp;&#160;</td>
+          <td class="paramname"><em>pos1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const G3D::Vector3 &amp;&#160;</td>
+          <td class="paramname"><em>pos2</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/d79/a05020.html#a6996c44f3ac72cd9dc04515186d2da28">ModelIgnoreFlags</a>&#160;</td>
+          <td class="paramname"><em>ignoreFlags</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  130</span>    {</div>
+<div class="line"><span class="lineno">  131</span>        <span class="keywordtype">float</span> maxDist = (pos2 - pos1).magnitude();</div>
+<div class="line"><span class="lineno">  132</span>        <span class="comment">// return false if distance is over max float, in case of cheater teleporting to the end of the universe</span></div>
+<div class="line"><span class="lineno">  133</span>        <span class="keywordflow">if</span> (maxDist == std::numeric_limits&lt;float&gt;::max() || !std::isfinite(maxDist))</div>
+<div class="line"><span class="lineno">  134</span>        {</div>
+<div class="line"><span class="lineno">  135</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  136</span>        }</div>
+<div class="line"><span class="lineno">  137</span> </div>
+<div class="line"><span class="lineno">  138</span>        <span class="comment">// valid map coords should *never ever* produce float overflow, but this would produce NaNs too</span></div>
+<div class="line"><span class="lineno">  139</span>        <a class="code hl_define" href="../../dd/dad/a00005.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(maxDist &lt; std::numeric_limits&lt;float&gt;::max());</div>
+<div class="line"><span class="lineno">  140</span>        <span class="comment">// prevent NaN values which can cause BIH intersection to enter infinite loop</span></div>
+<div class="line"><span class="lineno">  141</span>        <span class="keywordflow">if</span> (maxDist &lt; 1e-10f)</div>
+<div class="line"><span class="lineno">  142</span>        {</div>
+<div class="line"><span class="lineno">  143</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  144</span>        }</div>
+<div class="line"><span class="lineno">  145</span>        <span class="comment">// direction with length of 1</span></div>
+<div class="line"><span class="lineno">  146</span>        G3D::Ray ray = G3D::Ray::fromOriginAndDirection(pos1, (pos2 - pos1) / maxDist);</div>
+<div class="line"><span class="lineno">  147</span> </div>
+<div class="line"><span class="lineno">  148</span>        <span class="keywordflow">return</span> !<a class="code hl_function" href="../../d7/dc7/a05266.html#a525504fa1a0fb62988de820582f211b3">GetIntersectionTime</a>(ray, maxDist, <span class="keyword">true</span>, ignoreFlags);</div>
+<div class="line"><span class="lineno">  149</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00116">GetIntersectionTime()</a>.</p>
+
+</div>
+</div>
+<a id="ad41ec5a8be2716f4cf97424fade16abb" name="ad41ec5a8be2716f4cf97424fade16abb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad41ec5a8be2716f4cf97424fade16abb">&#9670;&#160;</a></span>isTiled()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool VMAP::StaticMapTree::isTiled </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   86</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/dc7/a05266.html#a4eb6ec2ecf1977bc4fd63bbb5835f975">iIsTiled</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00054">iIsTiled</a>.</p>
+
+</div>
+</div>
+<a id="a88edf6fd20f3618746367b85be638c55" name="a88edf6fd20f3618746367b85be638c55"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a88edf6fd20f3618746367b85be638c55">&#9670;&#160;</a></span>LoadMapTile()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool VMAP::StaticMapTree::LoadMapTile </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileY</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  323</span>    {</div>
+<div class="line"><span class="lineno">  324</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/dc7/a05266.html#a4eb6ec2ecf1977bc4fd63bbb5835f975">iIsTiled</a>)</div>
+<div class="line"><span class="lineno">  325</span>        {</div>
+<div class="line"><span class="lineno">  326</span>            <span class="comment">// currently, core creates grids for all maps, whether it has terrain tiles or not</span></div>
+<div class="line"><span class="lineno">  327</span>            <span class="comment">// so we need &quot;fake&quot; tile loads to know when we can unload map geometry</span></div>
+<div class="line"><span class="lineno">  328</span>            <a class="code hl_variable" href="../../d7/dc7/a05266.html#aab24833a33be21e212103a25b65a2f71">iLoadedTiles</a>[<a class="code hl_function" href="../../d7/dc7/a05266.html#a6ebfb44b85eae52a0c346c8c33c52d4f">packTileID</a>(tileX, tileY)] = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  329</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  330</span>        }</div>
+<div class="line"><span class="lineno">  331</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a>)</div>
+<div class="line"><span class="lineno">  332</span>        {</div>
+<div class="line"><span class="lineno">  333</span>            <a class="code hl_define" href="../../da/d24/a00068.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;StaticMapTree::LoadMapTile() : tree has not been initialized [{}, {}]&quot;</span>, tileX, tileY);</div>
+<div class="line"><span class="lineno">  334</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  335</span>        }</div>
+<div class="line"><span class="lineno">  336</span>        <span class="keywordtype">bool</span> result = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  337</span> </div>
+<div class="line"><span class="lineno">  338</span>        std::string tilefile = <a class="code hl_variable" href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">iBasePath</a> + <a class="code hl_function" href="../../d7/dc7/a05266.html#a4dea40a355b2232f31eb8822fddb7fb1">getTileFileName</a>(<a class="code hl_variable" href="../../d7/dc7/a05266.html#a3f687b2c51b06f62f256cd897899c4ed">iMapID</a>, tileX, tileY);</div>
+<div class="line"><span class="lineno">  339</span>        FILE* tf = fopen(tilefile.c_str(), <span class="stringliteral">&quot;rb&quot;</span>);</div>
+<div class="line"><span class="lineno">  340</span>        <span class="keywordflow">if</span> (tf)</div>
+<div class="line"><span class="lineno">  341</span>        {</div>
+<div class="line"><span class="lineno">  342</span>            <span class="keywordtype">char</span> chunk[8];</div>
+<div class="line"><span class="lineno">  343</span> </div>
+<div class="line"><span class="lineno">  344</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d4/d79/a05020.html#a166f3eeee53079ac9df4f15ccd577974">readChunk</a>(tf, chunk, <a class="code hl_variable" href="../../d4/d79/a05020.html#aa7e5a571fdcb9d62ceefdcf5744746cb">VMAP_MAGIC</a>, 8))</div>
+<div class="line"><span class="lineno">  345</span>            {</div>
+<div class="line"><span class="lineno">  346</span>                result = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  347</span>            }</div>
+<div class="line"><span class="lineno">  348</span>            <a class="code hl_typedef" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> numSpawns = 0;</div>
+<div class="line"><span class="lineno">  349</span>            <span class="keywordflow">if</span> (result &amp;&amp; fread(&amp;numSpawns, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, tf) != 1)</div>
+<div class="line"><span class="lineno">  350</span>            {</div>
+<div class="line"><span class="lineno">  351</span>                result = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  352</span>            }</div>
+<div class="line"><span class="lineno">  353</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; numSpawns &amp;&amp; result; ++i)</div>
+<div class="line"><span class="lineno">  354</span>            {</div>
+<div class="line"><span class="lineno">  355</span>                <span class="comment">// read model spawns</span></div>
+<div class="line"><span class="lineno">  356</span>                ModelSpawn spawn;</div>
+<div class="line"><span class="lineno">  357</span>                result = <a class="code hl_function" href="../../db/dc8/a05314.html#a35d7880eb3e295ed3148ca05a2f4520e">ModelSpawn::readFromFile</a>(tf, spawn);</div>
+<div class="line"><span class="lineno">  358</span>                <span class="keywordflow">if</span> (result)</div>
+<div class="line"><span class="lineno">  359</span>                {</div>
+<div class="line"><span class="lineno">  360</span>                    <span class="comment">// acquire model instance</span></div>
+<div class="line"><span class="lineno">  361</span>                    std::shared_ptr&lt;WorldModel&gt; model = <a class="code hl_define" href="../../dc/d9a/a00218.html#ac34a0ffef200907436157f7ccb40be46">sWorldModelStore</a>-&gt;AcquireModelInstance(<a class="code hl_variable" href="../../d7/dc7/a05266.html#a8f85b6625e1bc9a9b145f5a9255a5702">iBasePath</a>, spawn.name, spawn.flags);</div>
+<div class="line"><span class="lineno">  362</span>                    <span class="keywordflow">if</span> (!model)</div>
+<div class="line"><span class="lineno">  363</span>                    {</div>
+<div class="line"><span class="lineno">  364</span>                        <a class="code hl_define" href="../../da/d24/a00068.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;StaticMapTree::LoadMapTile() : could not acquire WorldModel pointer [{}, {}]&quot;</span>, tileX, tileY);</div>
+<div class="line"><span class="lineno">  365</span>                        <span class="comment">// why do we continue to try to load if the model was unsuccessful here?</span></div>
+<div class="line"><span class="lineno">  366</span>                    }</div>
+<div class="line"><span class="lineno">  367</span> </div>
+<div class="line"><span class="lineno">  368</span>                    <span class="comment">// update tree</span></div>
+<div class="line"><span class="lineno">  369</span>                    <a class="code hl_typedef" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> referencedVal;</div>
+<div class="line"><span class="lineno">  370</span> </div>
+<div class="line"><span class="lineno">  371</span>                    <span class="keywordflow">if</span> (fread(&amp;referencedVal, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, tf) == 1)</div>
+<div class="line"><span class="lineno">  372</span>                    {</div>
+<div class="line"><span class="lineno">  373</span>                        <span class="keywordflow">if</span> (referencedVal &gt;= <a class="code hl_variable" href="../../d7/dc7/a05266.html#a253f73ac82a7dd102385deaed890f456">iNTreeValues</a>)</div>
+<div class="line"><span class="lineno">  374</span>                        {</div>
+<div class="line"><span class="lineno">  375</span>                            <a class="code hl_define" href="../../da/d24/a00068.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;StaticMapTree::LoadMapTile() : invalid tree element ({}/{})&quot;</span>, referencedVal, <a class="code hl_variable" href="../../d7/dc7/a05266.html#a253f73ac82a7dd102385deaed890f456">iNTreeValues</a>);</div>
+<div class="line"><span class="lineno">  376</span>                            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  377</span>                        }</div>
+<div class="line"><span class="lineno">  378</span> </div>
+<div class="line"><span class="lineno">  379</span>                        <span class="comment">// This looks odd and is confusing, took some research to figure it out:</span></div>
+<div class="line"><span class="lineno">  380</span>                        <span class="comment">// the first WorldModel will create a &quot;groupmodel&quot; of all other same-models in the tile</span></div>
+<div class="line"><span class="lineno">  381</span>                        <span class="comment">// we don&#39;t actually care about anything else</span></div>
+<div class="line"><span class="lineno">  382</span>                        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a>[referencedVal].getWorldModel())</div>
+<div class="line"><span class="lineno">  383</span>                        {</div>
+<div class="line"><span class="lineno">  384</span>                            <a class="code hl_variable" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a>[referencedVal] = ModelInstance(spawn, model);</div>
+<div class="line"><span class="lineno">  385</span>                        }</div>
+<div class="line"><span class="lineno">  386</span><span class="preprocessor">#if defined(VMAP_DEBUG)</span></div>
+<div class="line"><span class="lineno">  387</span>                        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  388</span>                        {</div>
+<div class="line"><span class="lineno">  389</span>                            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a>[referencedVal].ID != spawn.<a class="code hl_variable" href="../../db/dc8/a05314.html#ab2fdb441870d6ac7ddc05640ec1d0598">ID</a>)</div>
+<div class="line"><span class="lineno">  390</span>                            {</div>
+<div class="line"><span class="lineno">  391</span>                                <a class="code hl_define" href="../../da/d24/a00068.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;StaticMapTree::LoadMapTile() : trying to load wrong spawn in node&quot;</span>);</div>
+<div class="line"><span class="lineno">  392</span>                            }</div>
+<div class="line"><span class="lineno">  393</span>                            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/dc7/a05266.html#a9d23cba57dd975b664c2cf1e75575a92">iTreeValues</a>[referencedVal].name != spawn.<a class="code hl_variable" href="../../db/dc8/a05314.html#a66e19a4a28f8fc0c537f1315d9bddcfb">name</a>)</div>
+<div class="line"><span class="lineno">  394</span>                            {</div>
+<div class="line"><span class="lineno">  395</span>                                <a class="code hl_define" href="../../da/d24/a00068.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;StaticMapTree::LoadMapTile() : name collision on GUID={}&quot;</span>, spawn.ID);</div>
+<div class="line"><span class="lineno">  396</span>                            }</div>
+<div class="line"><span class="lineno">  397</span>                        }</div>
+<div class="line"><span class="lineno">  398</span><span class="preprocessor">#endif</span></div>
+<div class="line"><span class="lineno">  399</span>                    }</div>
+<div class="line"><span class="lineno">  400</span>                    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  401</span>                    {</div>
+<div class="line"><span class="lineno">  402</span>                        result = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  403</span>                    }</div>
+<div class="line"><span class="lineno">  404</span>                }</div>
+<div class="line"><span class="lineno">  405</span>            }</div>
+<div class="line"><span class="lineno">  406</span>            <a class="code hl_variable" href="../../d7/dc7/a05266.html#aab24833a33be21e212103a25b65a2f71">iLoadedTiles</a>[<a class="code hl_function" href="../../d7/dc7/a05266.html#a6ebfb44b85eae52a0c346c8c33c52d4f">packTileID</a>(tileX, tileY)] = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  407</span>            fclose(tf);</div>
+<div class="line"><span class="lineno">  408</span>        }</div>
+<div class="line"><span class="lineno">  409</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  410</span>        {</div>
+<div class="line"><span class="lineno">  411</span>            <a class="code hl_variable" href="../../d7/dc7/a05266.html#aab24833a33be21e212103a25b65a2f71">iLoadedTiles</a>[<a class="code hl_function" href="../../d7/dc7/a05266.html#a6ebfb44b85eae52a0c346c8c33c52d4f">packTileID</a>(tileX, tileY)] = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  412</span>        }</div>
+<div class="line"><span class="lineno">  413</span> </div>
+<div class="line"><span class="lineno">  414</span>        <a class="code hl_define" href="../../d1/dc6/a00347.html#ad57573999508dbc7a2c953379996b542">METRIC_EVENT</a>(<span class="stringliteral">&quot;map_events&quot;</span>, <span class="stringliteral">&quot;LoadMapTile&quot;</span>,</div>
+<div class="line"><span class="lineno">  415</span>            <span class="stringliteral">&quot;Map: &quot;</span> + std::to_string(<a class="code hl_variable" href="../../d7/dc7/a05266.html#a3f687b2c51b06f62f256cd897899c4ed">iMapID</a>) + <span class="stringliteral">&quot; TileX: &quot;</span> + std::to_string(tileX) + <span class="stringliteral">&quot; TileY: &quot;</span> + std::to_string(tileY));</div>
+<div class="line"><span class="lineno">  416</span> </div>
+<div class="line"><span class="lineno">  417</span>        <span class="keywordflow">return</span> result;</div>
+<div class="line"><span class="lineno">  418</span>    }</div>
+<div class="ttc" id="aa00068_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../da/d24/a00068.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa00068_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../da/d24/a00068.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
+<div class="ttc" id="aa00347_html_ad57573999508dbc7a2c953379996b542"><div class="ttname"><a href="../../d1/dc6/a00347.html#ad57573999508dbc7a2c953379996b542">METRIC_EVENT</a></div><div class="ttdeci">#define METRIC_EVENT(category, title, description)</div><div class="ttdef"><b>Definition:</b> Metric.h:189</div></div>
+<div class="ttc" id="aa00494_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa05266_html_a6ebfb44b85eae52a0c346c8c33c52d4f"><div class="ttname"><a href="../../d7/dc7/a05266.html#a6ebfb44b85eae52a0c346c8c33c52d4f">VMAP::StaticMapTree::packTileID</a></div><div class="ttdeci">static uint32 packTileID(uint32 tileX, uint32 tileY)</div><div class="ttdef"><b>Definition:</b> MapTree.h:70</div></div>
+<div class="ttc" id="aa05266_html_aab24833a33be21e212103a25b65a2f71"><div class="ttname"><a href="../../d7/dc7/a05266.html#aab24833a33be21e212103a25b65a2f71">VMAP::StaticMapTree::iLoadedTiles</a></div><div class="ttdeci">loadedTileMap iLoadedTiles</div><div class="ttdef"><b>Definition:</b> MapTree.h:62</div></div>
+<div class="ttc" id="aa05314_html_a66e19a4a28f8fc0c537f1315d9bddcfb"><div class="ttname"><a href="../../db/dc8/a05314.html#a66e19a4a28f8fc0c537f1315d9bddcfb">VMAP::ModelSpawn::name</a></div><div class="ttdeci">std::string name</div><div class="ttdef"><b>Definition:</b> ModelInstance.h:53</div></div>
+<div class="ttc" id="aa05314_html_ab2fdb441870d6ac7ddc05640ec1d0598"><div class="ttname"><a href="../../db/dc8/a05314.html#ab2fdb441870d6ac7ddc05640ec1d0598">VMAP::ModelSpawn::ID</a></div><div class="ttdeci">uint32 ID</div><div class="ttdef"><b>Definition:</b> ModelInstance.h:48</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">VMAP::ModelSpawn::flags</a>, <a class="el" href="../../#l00077">getTileFileName()</a>, <a class="el" href="../../#l00063">iBasePath</a>, <a class="el" href="../../#l00048">VMAP::ModelSpawn::ID</a>, <a class="el" href="../../#l00054">iIsTiled</a>, <a class="el" href="../../#l00062">iLoadedTiles</a>, <a class="el" href="../../#l00053">iMapID</a>, <a class="el" href="../../#l00057">iNTreeValues</a>, <a class="el" href="../../#l00056">iTreeValues</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00189">METRIC_EVENT</a>, <a class="el" href="../../#l00053">VMAP::ModelSpawn::name</a>, <a class="el" href="../../#l00070">packTileID()</a>, <a class="el" href="../../#l00040">VMAP::readChunk()</a>, <a class="el" href="../../#l00125">VMAP::ModelSpawn::readFromFile()</a>, <a class="el" href="../../#l00044">sWorldModelStore</a>, and <a class="el" href="../../#l00025">VMAP::VMAP_MAGIC</a>.</p>
+
+</div>
+</div>
+<a id="aeb152a7967dcc4b350a8c1ecb3e74a18" name="aeb152a7967dcc4b350a8c1ecb3e74a18"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeb152a7967dcc4b350a8c1ecb3e74a18">&#9670;&#160;</a></span>numLoadedTiles()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VMAP::StaticMapTree::numLoadedTiles </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   87</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/dc7/a05266.html#aab24833a33be21e212103a25b65a2f71">iLoadedTiles</a>.size(); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00062">iLoadedTiles</a>.</p>
+
+</div>
+</div>
+<a id="a6ebfb44b85eae52a0c346c8c33c52d4f" name="a6ebfb44b85eae52a0c346c8c33c52d4f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ebfb44b85eae52a0c346c8c33c52d4f">&#9670;&#160;</a></span>packTileID()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VMAP::StaticMapTree::packTileID </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileY</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   70</span>{ <span class="keywordflow">return</span> tileX &lt;&lt; 16 | tileY; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00067">VMAP::TileAssembler::convertWorld2()</a>, <a class="el" href="../../#l00097">MMAP::MapBuilder::discoverTiles()</a>, <a class="el" href="../../#l00322">LoadMapTile()</a>, <a class="el" href="../../#l00219">VMAP::TileAssembler::readMapSpawns()</a>, and <a class="el" href="../../#l00422">UnloadMapTile()</a>.</p>
+
+</div>
+</div>
+<a id="a5b8861059ed9f86dc57aa6efd3b2300e" name="a5b8861059ed9f86dc57aa6efd3b2300e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b8861059ed9f86dc57aa6efd3b2300e">&#9670;&#160;</a></span>UnloadMap()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void VMAP::StaticMapTree::UnloadMap </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  316</span>    {</div>
+<div class="line"><span class="lineno">  317</span>        <a class="code hl_variable" href="../../d7/dc7/a05266.html#aab24833a33be21e212103a25b65a2f71">iLoadedTiles</a>.clear();</div>
+<div class="line"><span class="lineno">  318</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00062">iLoadedTiles</a>.</p>
+
+</div>
+</div>
+<a id="a054c023e998be7fc4ebc9164fd655335" name="a054c023e998be7fc4ebc9164fd655335"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a054c023e998be7fc4ebc9164fd655335">&#9670;&#160;</a></span>UnloadMapTile()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void VMAP::StaticMapTree::UnloadMapTile </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileY</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  423</span>    {</div>
+<div class="line"><span class="lineno">  424</span>        <a class="code hl_typedef" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileID = <a class="code hl_function" href="../../d7/dc7/a05266.html#a6ebfb44b85eae52a0c346c8c33c52d4f">packTileID</a>(tileX, tileY);</div>
+<div class="line"><span class="lineno">  425</span>        loadedTileMap::iterator tile = <a class="code hl_variable" href="../../d7/dc7/a05266.html#aab24833a33be21e212103a25b65a2f71">iLoadedTiles</a>.find(tileID);</div>
+<div class="line"><span class="lineno">  426</span>        <span class="keywordflow">if</span> (tile == <a class="code hl_variable" href="../../d7/dc7/a05266.html#aab24833a33be21e212103a25b65a2f71">iLoadedTiles</a>.end())</div>
+<div class="line"><span class="lineno">  427</span>        {</div>
+<div class="line"><span class="lineno">  428</span>            <a class="code hl_define" href="../../da/d24/a00068.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;StaticMapTree::UnloadMapTile() : trying to unload non-loaded tile - Map:{} X:{} Y:{}&quot;</span>, <a class="code hl_variable" href="../../d7/dc7/a05266.html#a3f687b2c51b06f62f256cd897899c4ed">iMapID</a>, tileX, tileY);</div>
+<div class="line"><span class="lineno">  429</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  430</span>        }</div>
+<div class="line"><span class="lineno">  431</span>        <a class="code hl_variable" href="../../d7/dc7/a05266.html#aab24833a33be21e212103a25b65a2f71">iLoadedTiles</a>.erase(tile);</div>
+<div class="line"><span class="lineno">  432</span> </div>
+<div class="line"><span class="lineno">  433</span>        <a class="code hl_define" href="../../d1/dc6/a00347.html#ad57573999508dbc7a2c953379996b542">METRIC_EVENT</a>(<span class="stringliteral">&quot;map_events&quot;</span>, <span class="stringliteral">&quot;UnloadMapTile&quot;</span>,</div>
+<div class="line"><span class="lineno">  434</span>            <span class="stringliteral">&quot;Map: &quot;</span> + std::to_string(<a class="code hl_variable" href="../../d7/dc7/a05266.html#a3f687b2c51b06f62f256cd897899c4ed">iMapID</a>) + <span class="stringliteral">&quot; TileX: &quot;</span> + std::to_string(tileX) + <span class="stringliteral">&quot; TileY: &quot;</span> + std::to_string(tileY));</div>
+<div class="line"><span class="lineno">  435</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00062">iLoadedTiles</a>, <a class="el" href="../../#l00053">iMapID</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00189">METRIC_EVENT</a>, and <a class="el" href="../../#l00070">packTileID()</a>.</p>
+
+</div>
+</div>
+<a id="ac35d2a2b9ff9940717dc19558ce0a890" name="ac35d2a2b9ff9940717dc19558ce0a890"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac35d2a2b9ff9940717dc19558ce0a890">&#9670;&#160;</a></span>unpackTileID()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void VMAP::StaticMapTree::unpackTileID </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>ID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
+          <td class="paramname"><em>tileX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
+          <td class="paramname"><em>tileY</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   71</span>{ tileX = ID &gt;&gt; 16; tileY = ID &amp; 0xFF; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00419">MMAP::MapBuilder::buildMap()</a>, <a class="el" href="../../#l00510">MMAP::MapBuilder::buildNavMesh()</a>, and <a class="el" href="../../#l00067">VMAP::TileAssembler::convertWorld2()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a8f85b6625e1bc9a9b145f5a9255a5702" name="a8f85b6625e1bc9a9b145f5a9255a5702"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f85b6625e1bc9a9b145f5a9255a5702">&#9670;&#160;</a></span>iBasePath</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string VMAP::StaticMapTree::iBasePath</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00263">InitMap()</a>, <a class="el" href="../../#l00322">LoadMapTile()</a>, and <a class="el" href="../../#l00094">StaticMapTree()</a>.</p>
+
+</div>
+</div>
+<a id="a4eb6ec2ecf1977bc4fd63bbb5835f975" name="a4eb6ec2ecf1977bc4fd63bbb5835f975"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4eb6ec2ecf1977bc4fd63bbb5835f975">&#9670;&#160;</a></span>iIsTiled</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool VMAP::StaticMapTree::iIsTiled</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00263">InitMap()</a>, <a class="el" href="../../#l00086">isTiled()</a>, and <a class="el" href="../../#l00322">LoadMapTile()</a>.</p>
+
+</div>
+</div>
+<a id="aab24833a33be21e212103a25b65a2f71" name="aab24833a33be21e212103a25b65a2f71"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aab24833a33be21e212103a25b65a2f71">&#9670;&#160;</a></span>iLoadedTiles</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/dc7/a05266.html#a7ddb3247db09697e7c1b299a3220e9f4">loadedTileMap</a> VMAP::StaticMapTree::iLoadedTiles</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00322">LoadMapTile()</a>, <a class="el" href="../../#l00087">numLoadedTiles()</a>, <a class="el" href="../../#l00315">UnloadMap()</a>, and <a class="el" href="../../#l00422">UnloadMapTile()</a>.</p>
+
+</div>
+</div>
+<a id="a3f687b2c51b06f62f256cd897899c4ed" name="a3f687b2c51b06f62f256cd897899c4ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3f687b2c51b06f62f256cd897899c4ed">&#9670;&#160;</a></span>iMapID</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VMAP::StaticMapTree::iMapID</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00322">LoadMapTile()</a>, and <a class="el" href="../../#l00422">UnloadMapTile()</a>.</p>
+
+</div>
+</div>
+<a id="a253f73ac82a7dd102385deaed890f456" name="a253f73ac82a7dd102385deaed890f456"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a253f73ac82a7dd102385deaed890f456">&#9670;&#160;</a></span>iNTreeValues</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VMAP::StaticMapTree::iNTreeValues</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00437">GetModelInstances()</a>, <a class="el" href="../../#l00263">InitMap()</a>, and <a class="el" href="../../#l00322">LoadMapTile()</a>.</p>
+
+</div>
+</div>
+<a id="a2a6d8374af191f9484fe0e73c2e4e6b6" name="a2a6d8374af191f9484fe0e73c2e4e6b6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a6d8374af191f9484fe0e73c2e4e6b6">&#9670;&#160;</a></span>iTree</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d48/a05150.html">BIH</a> VMAP::StaticMapTree::iTree</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00116">GetIntersectionTime()</a>, <a class="el" href="../../#l00087">GetLocationInfo()</a>, and <a class="el" href="../../#l00263">InitMap()</a>.</p>
+
+</div>
+</div>
+<a id="a9d23cba57dd975b664c2cf1e75575a92" name="a9d23cba57dd975b664c2cf1e75575a92"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d23cba57dd975b664c2cf1e75575a92">&#9670;&#160;</a></span>iTreeValues</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d74/a05318.html">ModelInstance</a>* VMAP::StaticMapTree::iTreeValues</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00116">GetIntersectionTime()</a>, <a class="el" href="../../#l00087">GetLocationInfo()</a>, <a class="el" href="../../#l00437">GetModelInstances()</a>, <a class="el" href="../../#l00263">InitMap()</a>, <a class="el" href="../../#l00322">LoadMapTile()</a>, and <a class="el" href="../../#l00105">~StaticMapTree()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Mar 16 2026 21:09:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d79/a05020.html">VMAP</a></li><li class="navelem"><a class="el" href="../../d7/dc7/a05266.html">StaticMapTree</a></li>
+    <li class="footer">Generated on Mon Mar 30 2026 21:13:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

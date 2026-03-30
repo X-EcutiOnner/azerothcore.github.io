@@ -1,6 +1,8 @@
 var a27242 =
 [
-    [ "ModDest", "df/dea/a27242.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "df/dea/a27242.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "df/dea/a27242.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "CheckProc", "df/dea/a27242.html#ae89ba0083a1dfe6887daef9af86107a3", null ],
+    [ "HandleProc", "df/dea/a27242.html#a92b6def8938d4909d241e5dc45cda240", null ],
+    [ "PrepareAuraScript", "df/dea/a27242.html#af1ac6b3e8f6a482d03029f5b38376180", null ],
+    [ "Register", "df/dea/a27242.html#a739a759d67ab038b1d883ae716337473", null ],
+    [ "Validate", "df/dea/a27242.html#a546aa2e3f3e76847de07e310f60be20b", null ]
 ];

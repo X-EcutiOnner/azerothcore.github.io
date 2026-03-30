@@ -1,7 +1,9 @@
 var a15874 =
 [
-    [ "HandleEffectRemove", "dd/dd6/a15874.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "dd/dd6/a15874.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "dd/dd6/a15874.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "dd/dd6/a15874.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "go_wind_stoneAI", "dd/dd6/a15874.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
+    [ "GossipHello", "dd/dd6/a15874.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
+    [ "GossipSelect", "dd/dd6/a15874.html#aff4dedbf3a6fea405722f7064633edb1", null ],
+    [ "InitializeAI", "dd/dd6/a15874.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
+    [ "SummonNPC", "dd/dd6/a15874.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
+    [ "_creatureGuid", "dd/dd6/a15874.html#a50ad8b248381a6d9fac7a291796966d6", null ]
 ];

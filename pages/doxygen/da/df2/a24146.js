@@ -1,11 +1,9 @@
 var a24146 =
 [
-    [ "npc_invis_infernal_casterAI", "da/df2/a24146.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
-    [ "Reset", "da/df2/a24146.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
-    [ "SetData", "da/df2/a24146.html#aee88dc141757384f96da969fcdc20671", null ],
-    [ "SummonInfernal", "da/df2/a24146.html#a78d53d09e5544b3fe8301da4415d297b", null ],
-    [ "UpdateAI", "da/df2/a24146.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
-    [ "events", "da/df2/a24146.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
-    [ "ground", "da/df2/a24146.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
-    [ "infernalGUID", "da/df2/a24146.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
+    [ "npc_pet_shaman_fire_elemental", "da/df2/a24146.html#a3428642963fc9e7588ec92fd838f1af9", null ],
+    [ "InitializeAI", "da/df2/a24146.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
+    [ "JustEngagedWith", "da/df2/a24146.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
+    [ "UpdateAI", "da/df2/a24146.html#a2280e5cc5187a91917a1e517e80e960d", null ],
+    [ "_events", "da/df2/a24146.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
+    [ "_initAttack", "da/df2/a24146.html#a2df79acc05dd8489e9e994e044b45404", null ]
 ];

@@ -1,6 +1,6 @@
 var a13470 =
 [
-    [ "HandleScriptEffect", "d4/d7f/a13470.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "d4/d7f/a13470.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "d4/d7f/a13470.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d8/dd2/a13474.html", "d8/dd2/a13474" ],
+    [ "instance_shadowfang_keep", "d4/d7f/a13470.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "d4/d7f/a13470.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

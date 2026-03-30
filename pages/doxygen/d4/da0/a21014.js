@@ -1,6 +1,6 @@
 var a21014 =
 [
-    [ "HandleScript", "d4/da0/a21014.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "d4/da0/a21014.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "d4/da0/a21014.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "boss_toravonAI", "dd/d3f/a21018.html", "dd/d3f/a21018" ],
+    [ "boss_toravon", "d4/da0/a21014.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
+    [ "GetAI", "d4/da0/a21014.html#a6db140b1d232312300e20155830cb249", null ]
 ];

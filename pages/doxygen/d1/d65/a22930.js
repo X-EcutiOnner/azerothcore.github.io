@@ -1,10 +1,10 @@
 var a22930 =
 [
-    [ "CalculateAmount", "d1/d65/a22930.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
-    [ "CheckProc", "d1/d65/a22930.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
-    [ "HandleProc", "d1/d65/a22930.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
-    [ "PrepareAuraScript", "d1/d65/a22930.html#a6e066884663276dbba82e46ca5f66e59", null ],
-    [ "Register", "d1/d65/a22930.html#ac4154f0746e77229e8d349021d5b9c30", null ],
-    [ "Update", "d1/d65/a22930.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
-    [ "Validate", "d1/d65/a22930.html#a4f10d23f63c47b408b70373623b877a8", null ]
+    [ "boss_morogrim_tidewalker", "d1/d65/a22930.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "d1/d65/a22930.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "d1/d65/a22930.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "d1/d65/a22930.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "d1/d65/a22930.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "d1/d65/a22930.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "d1/d65/a22930.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

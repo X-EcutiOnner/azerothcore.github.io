@@ -1,6 +1,6 @@
 var a19678 =
 [
-    [ "boss_thaddius_summonAI", "df/ddb/a19682.html", "df/ddb/a19682" ],
-    [ "boss_thaddius_summon", "da/dcc/a19678.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
-    [ "GetAI", "da/dcc/a19678.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
+    [ "CalculateDamage", "da/dcc/a19678.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "da/dcc/a19678.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "da/dcc/a19678.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

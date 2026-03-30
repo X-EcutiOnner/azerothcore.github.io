@@ -1,7 +1,10 @@
 var a21270 =
 [
-    [ "HandlePeriodicDummy", "d8/d63/a21270.html#a295f37cddccc696d450a0c4380d43c29", null ],
-    [ "PrepareAuraScript", "d8/d63/a21270.html#a9453aa189ba53de3d89bbab183927cfc", null ],
-    [ "Register", "d8/d63/a21270.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
-    [ "Validate", "d8/d63/a21270.html#a475480c072aaccde7b00cf28aedff3ec", null ]
+    [ "npc_lurgglbrAI", "d8/d63/a21270.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "d8/d63/a21270.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "d8/d63/a21270.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "d8/d63/a21270.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "WaypointReached", "d8/d63/a21270.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IntroPhase", "d8/d63/a21270.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "d8/d63/a21270.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

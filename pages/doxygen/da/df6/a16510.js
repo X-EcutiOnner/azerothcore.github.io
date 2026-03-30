@@ -1,7 +1,6 @@
 var a16510 =
 [
-    [ "HandleHit", "da/df6/a16510.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "da/df6/a16510.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "da/df6/a16510.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "da/df6/a16510.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "npc_argent_soldierAI", "dc/d25/a16514.html", "dc/d25/a16514" ],
+    [ "npc_argent_soldier", "da/df6/a16510.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "da/df6/a16510.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

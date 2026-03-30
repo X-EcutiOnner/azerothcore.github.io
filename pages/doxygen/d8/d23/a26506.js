@@ -1,5 +1,8 @@
 var a26506 =
 [
-    [ "Trigger", "d8/d23/a26506.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "d8/d23/a26506.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "HandleProc", "d8/d23/a26506.html#a95553bc0c973be3a2e3911602e4067c8", null ],
+    [ "PrepareAuraScript", "d8/d23/a26506.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
+    [ "Register", "d8/d23/a26506.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
+    [ "Validate", "d8/d23/a26506.html#aad1324e94920136258c419094cfca4c3", null ],
+    [ "_cooldownEnd", "d8/d23/a26506.html#a4f19a965ed8ddab712633abdb761d210", null ]
 ];

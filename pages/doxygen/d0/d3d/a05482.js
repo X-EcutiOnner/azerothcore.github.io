@@ -1,12 +1,5 @@
 var a05482 =
 [
-    [ "RegistryMapType", "d0/d3d/a05482.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2", null ],
-    [ "ObjectRegistry", "d0/d3d/a05482.html#aa3bcc30791e82bc900eacf1c5833b7f8", null ],
-    [ "~ObjectRegistry", "d0/d3d/a05482.html#a2734a0e6001f597b43e006bc9d84a6b1", null ],
-    [ "GetRegisteredItems", "d0/d3d/a05482.html#aba4a4fcc7ee59afbb4dea6df7410dc02", null ],
-    [ "GetRegistryItem", "d0/d3d/a05482.html#a474bdff0ab0f0a3db5f914b9dfaa48d1", null ],
-    [ "HasItem", "d0/d3d/a05482.html#a3c95897734a780c1f299d24a058b3595", null ],
-    [ "InsertItem", "d0/d3d/a05482.html#a55416824a5dff4138f5d828e352e3d7c", null ],
-    [ "instance", "d0/d3d/a05482.html#a7a6582a84361d5ad1142f29c9e1d9cb5", null ],
-    [ "_registeredObjects", "d0/d3d/a05482.html#a61e6a6eb75512241e82092abfeba7a65", null ]
+    [ "~Permissible", "d0/d3d/a05482.html#a9ed19d14dda478fe1ff6cb092d684be2", null ],
+    [ "Permit", "d0/d3d/a05482.html#a0fccdbc46c9bafea63757ceee62b0385", null ]
 ];

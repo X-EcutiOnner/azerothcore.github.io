@@ -1,6 +1,6 @@
 var a11846 =
 [
-    [ "AuraProcHandler", "db/d3d/a11846.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
-    [ "Call", "db/d3d/a11846.html#abc0c3be9dee08e995c282f20900f3c46", null ],
-    [ "_HandlerScript", "db/d3d/a11846.html#ada8d7a5659598b0092739a91ba2653bd", null ]
+    [ "EffectUpdatePeriodicHandler", "db/d3d/a11846.html#a6b18a259aa84c847bcc064c5243eb590", null ],
+    [ "Call", "db/d3d/a11846.html#a38802863e7859453cbbe58ad91018c67", null ],
+    [ "pEffectHandlerScript", "db/d3d/a11846.html#a0e51245e089fcd9532d5789056ab944c", null ]
 ];

@@ -1,5 +1,5 @@
 var a28062 =
 [
-    [ "AreaTrigger_at_sentry_point", "da/d65/a28062.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "da/d65/a28062.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "item_disgusting_jar", "da/d65/a28062.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "da/d65/a28062.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

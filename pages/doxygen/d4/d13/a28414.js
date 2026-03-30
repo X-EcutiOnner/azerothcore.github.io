@@ -1,10 +1,5 @@
 var a28414 =
 [
-    [ "npc_prof_tailor", "d4/d13/a28414.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "d4/d13/a28414.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "d4/d13/a28414.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "d4/d13/a28414.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "d4/d13/a28414.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "d4/d13/a28414.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "d4/d13/a28414.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "go_transport_the_purple_princess", "d4/d13/a28414.html#ab0c79197964857d578036693a2c18e8a", null ],
+    [ "EventInform", "d4/d13/a28414.html#ac5b73f1bea180797169138f8e9228783", null ]
 ];

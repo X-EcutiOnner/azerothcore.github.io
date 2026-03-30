@@ -1,5 +1,5 @@
 var a29810 =
 [
-    [ "SetUp", "d9/dd8/a29810.html#a00b4e88a208a6e930244a37d4257d971", null ],
-    [ "_scenario", "d9/dd8/a29810.html#a39b6b0e42a22735909b0edf6de29d5f1", null ]
+    [ "max", "d9/dd8/a29810.html#a3d87d5fa5e887282fa76a4a4b77eb097", null ],
+    [ "min", "d9/dd8/a29810.html#a7277258d8bdc471a007814fadf91780a", null ]
 ];

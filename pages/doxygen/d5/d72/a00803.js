@@ -1,10 +1,14 @@
 var a00803 =
 [
-    [ "CALL_ENABLED_BOOLEAN_HOOKS", "d5/d72/a00803.html#a6ed5893c246e1f2c46b3d33ef8729a64", null ],
-    [ "CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE", "d5/d72/a00803.html#a370083225ad9db5b05a730ce4fb26d2f", null ],
-    [ "CALL_ENABLED_HOOKS", "d5/d72/a00803.html#a9662d12a9f13490594165729108aa0b1", null ],
-    [ "ExecuteScript", "d5/d72/a00803.html#a80951f767a7c77417a671490893db073", null ],
-    [ "GetReturnAIScript", "d5/d72/a00803.html#aceff01aa3f5ab68a0253704ef30041df", null ],
-    [ "IsValidBoolScript", "d5/d72/a00803.html#a9dedac0cb410c9d87f0470ffd0eb6c66", null ],
-    [ "ReturnValidBool", "d5/d72/a00803.html#a670fda94f7e41c38816a1e12f9efec7c", null ]
+    [ "AccountInfo", "de/d4c/a05926.html", "de/d4c/a05926" ],
+    [ "AuthSession", "d8/d5e/a05930.html", "d8/d5e/a05930" ],
+    [ "AuthHandler", "da/d76/a05934.html", "da/d76/a05934" ],
+    [ "AuthStatus", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834", [
+      [ "STATUS_CHALLENGE", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4", null ],
+      [ "STATUS_LOGON_PROOF", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16", null ],
+      [ "STATUS_RECONNECT_PROOF", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834a2a06e7508d5944327eec6c08c11db734", null ],
+      [ "STATUS_AUTHED", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b", null ],
+      [ "STATUS_WAITING_FOR_REALM_LIST", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834a570e0aef98212ddcd09f1ec9254ffdf0", null ],
+      [ "STATUS_CLOSED", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834a78785eb1e6f5b92eaea5c78b3cc0dd94", null ]
+    ] ]
 ];

@@ -1,6 +1,9 @@
 var a28314 =
 [
-    [ "go_amberpine_outhouse", "db/d97/a28314.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "db/d97/a28314.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "db/d97/a28314.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "npc_arcanite_dragonling", "db/d97/a28314.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "db/d97/a28314.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "db/d97/a28314.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "db/d97/a28314.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "db/d97/a28314.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "db/d97/a28314.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

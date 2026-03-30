@@ -1,14 +1,9 @@
 var a12734 =
 [
-    [ "boss_chromaggusAI", "d6/d04/a12734.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
-    [ "CanAIAttack", "d6/d04/a12734.html#a4643974601831ced1f6173965009ad20", null ],
-    [ "Initialize", "d6/d04/a12734.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
-    [ "JustEngagedWith", "d6/d04/a12734.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
-    [ "PathEndReached", "d6/d04/a12734.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
-    [ "Reset", "d6/d04/a12734.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
-    [ "SetGUID", "d6/d04/a12734.html#ac2f3f6efccc3d48ddd2a7f9175439123", null ],
-    [ "UpdateAI", "d6/d04/a12734.html#a4a120f99c6586fd06af6699bfe913d24", null ],
-    [ "_breathSpells", "d6/d04/a12734.html#a10e18592d163d4be586701de47da48c9", null ],
-    [ "_playerGUID", "d6/d04/a12734.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
-    [ "Enraged", "d6/d04/a12734.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
+    [ "boss_baron_geddon", "d6/d04/a12734.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
+    [ "DamageTaken", "d6/d04/a12734.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
+    [ "ExecuteEvent", "d6/d04/a12734.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
+    [ "JustEngagedWith", "d6/d04/a12734.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
+    [ "Reset", "d6/d04/a12734.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
+    [ "armageddonCasted", "d6/d04/a12734.html#a4ea01568770a91e6734d45e3730c62cc", null ]
 ];

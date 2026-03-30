@@ -1,23 +1,6 @@
 var a04064 =
 [
-    [ "npc_eris_hevenfire", "df/d01/a13835.html", "df/d01/a13835" ],
-    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "d0/d92/a13839.html", "d0/d92/a13839" ],
-    [ "npc_balance_of_light_and_shadow", "de/de8/a13843.html", "de/de8/a13843" ],
-    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "d5/de2/a13847.html", "d5/de2/a13847" ],
-    [ "npc_augustus_the_touched", "d5/d44/a13851.html", "d5/d44/a13851" ],
-    [ "eEris", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
-      [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
-      [ "ITEM_EYE_OF_DIVINITY", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],
-      [ "NPC_INJURED_PEASANT", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36feaae13148e0ec5731f2bc25c5cd83fb54a", null ],
-      [ "NPC_PLAGUED_PEASANT", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36fea2e04645dc1fe7fae413d5c2c903c89d2", null ],
-      [ "NPC_SCOURGE_ARCHER", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36fea50dd59f1eeb08594a61c6ad576ad2814", null ],
-      [ "EVENT_SUMMON_PEASANTS", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36fea499f23b6c79690c613e046b3e6394937", null ],
-      [ "EVENT_CHECK_PLAYER", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36fea3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
-      [ "EVENT_SUMMON_ARCHERS", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36fea84afa1291830b37278989be41610fb72", null ],
-      [ "SPELL_SHOOT", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36fea1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "SPELL_DEATHS_DOOR", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36fea59bc5812f6dcf3f0e45b673f923490e7", null ],
-      [ "SPELL_SEETHING_PLAGUE", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36feac366f4ed224210fd4352c0ac9fb1c12a", null ],
-      [ "SPELL_ERIS_BLESSING", "dc/ddd/a04064.html#a0846b7169aa45fd1ef72775a5f6e36feaaedc6f0db3ab3db342fe3379082ce633", null ]
-    ] ],
-    [ "AddSC_eastern_plaguelands", "dc/ddd/a04064.html#aaef7747656518bf0ce052d780430ed88", null ]
+    [ "ResetNotifier", "d7/de1/a10086.html", "d7/de1/a10086" ],
+    [ "MAP_INVALID_ZONE", "dc/ddd/a04064.html#ab627038bd646584995dec28f4e212525", null ],
+    [ "IsInWMOInterior", "dc/ddd/a04064.html#ad41458075af3abab316f89b325f54b7e", null ]
 ];

@@ -1,6 +1,6 @@
 var a17854 =
 [
-    [ "KnockIntoAir", "d3/dfd/a17854.html#a1f9fb1f258613ca6657abba26969961f", null ],
-    [ "PrepareSpellScript", "d3/dfd/a17854.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
-    [ "Register", "d3/dfd/a17854.html#a35a7758630c1769228fedff84ad929e8", null ]
+    [ "PrepareSpellScript", "d3/dfd/a17854.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "d3/dfd/a17854.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "d3/dfd/a17854.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

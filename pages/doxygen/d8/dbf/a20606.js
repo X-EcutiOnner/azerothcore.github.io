@@ -1,6 +1,10 @@
 var a20606 =
 [
-    [ "OnPeriodic", "d8/dbf/a20606.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "d8/dbf/a20606.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "d8/dbf/a20606.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "d8/dbf/a20606.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
+    [ "DoAction", "d8/dbf/a20606.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "JustDied", "d8/dbf/a20606.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "SelectConstrictTarget", "d8/dbf/a20606.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "UpdateAI", "d8/dbf/a20606.html#a930b35c2385ba2977f2f2da3b4b38f07", null ],
+    [ "_checkTimer", "d8/dbf/a20606.html#aa6c76606c7c9e6ee71e94433cb721f96", null ],
+    [ "_playerGUID", "d8/dbf/a20606.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

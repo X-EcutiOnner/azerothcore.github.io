@@ -1,12 +1,8 @@
 var a07378 =
 [
-    [ "Type", "d1/d1e/a07378.html#a758c9729d907d872a5e5365539486408", [
-      [ "ADD", "d1/d1e/a07378.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
-      [ "REMOVE", "d1/d1e/a07378.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
-      [ "UPDATE_BID", "d1/d1e/a07378.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
-    ] ],
-    [ "AuctionSearcherUpdate", "d1/d1e/a07378.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
-    [ "~AuctionSearcherUpdate", "d1/d1e/a07378.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
-    [ "listFaction", "d1/d1e/a07378.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
-    [ "updateType", "d1/d1e/a07378.html#af6ee8672029884bdbec327242ce5d5d2", null ]
+    [ "faction", "d1/d1e/a07378.html#acb80e9b49dda9771679b871cf862d876", null ],
+    [ "loc_idx", "d1/d1e/a07378.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
+    [ "locdbc_idx", "d1/d1e/a07378.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
+    [ "playerGuid", "d1/d1e/a07378.html#a6aaee409b729275b9089d7db5145ba58", null ],
+    [ "usablePlayerInfo", "d1/d1e/a07378.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
 ];

@@ -1,7 +1,10 @@
 var a16550 =
 [
-    [ "CheckDistance", "d9/dea/a16550.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
-    [ "PrepareSpellScript", "d9/dea/a16550.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
-    [ "Register", "d9/dea/a16550.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
-    [ "Validate", "d9/dea/a16550.html#aa5d7a420154b156ca24e73de2faf912a", null ]
+    [ "npc_black_knight_ghoulAI", "d9/dea/a16550.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "d9/dea/a16550.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "d9/dea/a16550.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "d9/dea/a16550.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "UpdateAI", "d9/dea/a16550.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "d9/dea/a16550.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "d9/dea/a16550.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

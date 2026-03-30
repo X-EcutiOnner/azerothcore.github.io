@@ -1,8 +1,9 @@
 var a10770 =
 [
-    [ "GuildFilter", "dd/d60/a10770.html#a20ffe6a8d19489014484722b1481cb65", null ],
-    [ "Read", "dd/d60/a10770.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
-    [ "MaximumLevel", "dd/d60/a10770.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
-    [ "MinimumLevel", "dd/d60/a10770.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
-    [ "MinimumRank", "dd/d60/a10770.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
+    [ "ServerPacket", "dd/d60/a10770.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
+    [ "Clear", "dd/d60/a10770.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
+    [ "GetOpcode", "dd/d60/a10770.html#a639ab6c078d7c746bcb328526df705be", null ],
+    [ "Move", "dd/d60/a10770.html#a659397042201ae571bb564872e54d2c6", null ],
+    [ "Read", "dd/d60/a10770.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
+    [ "ShrinkToFit", "dd/d60/a10770.html#a6fa19a94d57484aaff3498be01495258", null ]
 ];

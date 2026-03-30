@@ -1,8 +1,7 @@
 var a13314 =
 [
-    [ "npc_barnesAI", "da/d9b/a13318.html", "da/d9b/a13318" ],
-    [ "npc_barnes", "d9/d3b/a13314.html#aacdc737a94397a90b48b635293fe9c80", null ],
-    [ "GetAI", "d9/d3b/a13314.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
-    [ "OnGossipHello", "d9/d3b/a13314.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
-    [ "OnGossipSelect", "d9/d3b/a13314.html#aa04d577e318f16f581f82761b6014eb5", null ]
+    [ "HandleHit", "d9/d3b/a13314.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
+    [ "Load", "d9/d3b/a13314.html#affe2cd261752db89b1b418eb18a3370c", null ],
+    [ "PrepareSpellScript", "d9/d3b/a13314.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
+    [ "Register", "d9/d3b/a13314.html#aaadaf49a3757e78d69ffc32768945d16", null ]
 ];

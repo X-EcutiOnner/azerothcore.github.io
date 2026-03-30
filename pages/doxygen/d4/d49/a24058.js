@@ -1,7 +1,6 @@
 var a24058 =
 [
-    [ "npc_maghar_captiveAI", "d1/d78/a24062.html", "d1/d78/a24062" ],
-    [ "npc_maghar_captive", "d4/d49/a24058.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "d4/d49/a24058.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "d4/d49/a24058.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "achievement", "d4/d49/a24058.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d4/d49/a24058.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d4/d49/a24058.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

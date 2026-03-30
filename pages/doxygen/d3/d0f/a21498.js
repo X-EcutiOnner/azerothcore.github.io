@@ -1,6 +1,7 @@
 var a21498 =
 [
-    [ "npc_azure_sorcerorAI", "db/d00/a21502.html", "db/d00/a21502" ],
-    [ "npc_azure_sorceror", "d3/d0f/a21498.html#ab81ec144680a37312b0a5e0110365a1a", null ],
-    [ "GetAI", "d3/d0f/a21498.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
+    [ "HandleApplyEffect", "d3/d0f/a21498.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "d3/d0f/a21498.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "d3/d0f/a21498.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "d3/d0f/a21498.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

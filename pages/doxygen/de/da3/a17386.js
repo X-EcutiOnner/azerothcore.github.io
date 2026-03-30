@@ -1,8 +1,8 @@
 var a17386 =
 [
-    [ "npc_phantom_hallucinationAI", "de/da3/a17386.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "de/da3/a17386.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "de/da3/a17386.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "de/da3/a17386.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "de/da3/a17386.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "boss_eck", "de/da3/a17386.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "de/da3/a17386.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "de/da3/a17386.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "de/da3/a17386.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "de/da3/a17386.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

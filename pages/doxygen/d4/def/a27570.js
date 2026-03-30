@@ -1,6 +1,7 @@
 var a27570 =
 [
-    [ "CheckProc", "d4/def/a27570.html#a705be9d078a9c7b04bcec0594cab9ac5", null ],
-    [ "PrepareAuraScript", "d4/def/a27570.html#a68fd79f1f62bcc748f9cce4423632f7f", null ],
-    [ "Register", "d4/def/a27570.html#acac1c6d063090bf191fcd202d7d07c20", null ]
+    [ "HandleEffect", "d4/def/a27570.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
+    [ "PrepareSpellScript", "d4/def/a27570.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
+    [ "Register", "d4/def/a27570.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
+    [ "Validate", "d4/def/a27570.html#ab6d78ecb650f13df3376baced8c40a63", null ]
 ];

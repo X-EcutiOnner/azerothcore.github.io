@@ -1,5 +1,6 @@
 var a28290 =
 [
-    [ "go_arcane_prison", "da/d89/a28290.html#ad73ac33d843027de0e516de8f90c45a0", null ],
-    [ "OnGossipHello", "da/d89/a28290.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
+    [ "npc_spring_rabbitAI", "df/db6/a28294.html", "df/db6/a28294" ],
+    [ "npc_spring_rabbit", "da/d89/a28290.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "da/d89/a28290.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

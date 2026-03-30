@@ -1,8 +1,8 @@
 var a22322 =
 [
-    [ "spell_loosen_grip", "d5/d42/a22322.html#ae35f230e0c66e88f59558748c80470dd", null ],
-    [ "HandleScript", "d5/d42/a22322.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
-    [ "PrepareSpellScript", "d5/d42/a22322.html#a219dc7d735f82d8e3b85390f0a881743", null ],
-    [ "Register", "d5/d42/a22322.html#a8b446d8b5ab00b984272c74b06663326", null ],
-    [ "_stacksToLose", "d5/d42/a22322.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
+    [ "boss_pandemonius", "d5/d42/a22322.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "d5/d42/a22322.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "d5/d42/a22322.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "d5/d42/a22322.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "d5/d42/a22322.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

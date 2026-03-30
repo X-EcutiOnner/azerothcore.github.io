@@ -1,6 +1,7 @@
 var a17398 =
 [
-    [ "npc_spectral_footmanAI", "d4/d1a/a17402.html", "d4/d1a/a17402" ],
-    [ "npc_spectral_footman", "de/db2/a17398.html#a300fb06b896d2d08f9e3671422232ad2", null ],
-    [ "GetAI", "de/db2/a17398.html#adbc1b961aba6cefb97dfff3014248735", null ]
+    [ "HandleScriptEffect", "de/db2/a17398.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
+    [ "PrepareSpellScript", "de/db2/a17398.html#aac410690d906867216b40a49d8f15318", null ],
+    [ "Register", "de/db2/a17398.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
+    [ "Validate", "de/db2/a17398.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
 ];

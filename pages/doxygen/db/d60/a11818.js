@@ -1,7 +1,6 @@
 var a11818 =
 [
-    [ "EffectApplyHandler", "db/d60/a11818.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "db/d60/a11818.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "db/d60/a11818.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "db/d60/a11818.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "ObjectTargetSelectHandler", "db/d60/a11818.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
+    [ "Call", "db/d60/a11818.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
+    [ "pObjectTargetSelectHandlerScript", "db/d60/a11818.html#a6982985537c0ddb8dd79647766c9ae70", null ]
 ];

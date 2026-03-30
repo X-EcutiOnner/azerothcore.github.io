@@ -1,8 +1,5 @@
 var a28030 =
 [
-    [ "CharacterActionIpLogger", "d6/d28/a28030.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d6/d28/a28030.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d6/d28/a28030.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d6/d28/a28030.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d6/d28/a28030.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "go_duskwither_spire_power_source", "d6/d28/a28030.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "d6/d28/a28030.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

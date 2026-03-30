@@ -1,7 +1,7 @@
 var a14034 =
 [
-    [ "HandleScriptEffect", "d5/dee/a14034.html#aa537704c2066df4f5b4c60a775026a83", null ],
-    [ "PrepareSpellScript", "d5/dee/a14034.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
-    [ "Register", "d5/dee/a14034.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
-    [ "Validate", "d5/dee/a14034.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
+    [ "HandleScript", "d5/dee/a14034.html#acd4373ab762d00d262984c36190d6f93", null ],
+    [ "PrepareSpellScript", "d5/dee/a14034.html#a113216b272d0386f248a75bfcf30c6a3", null ],
+    [ "Register", "d5/dee/a14034.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
+    [ "Validate", "d5/dee/a14034.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
 ];

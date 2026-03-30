@@ -1,6 +1,7 @@
 var a15810 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d4/db4/a15814.html", "d4/db4/a15814" ],
-    [ "instance_wailing_caverns", "d5/d8c/a15810.html#a906f59c39f59237e9eedb479dfc7d825", null ],
-    [ "GetInstanceScript", "d5/d8c/a15810.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
+    [ "npc_shenthulAI", "d4/db4/a15814.html", "d4/db4/a15814" ],
+    [ "npc_shenthul", "d5/d8c/a15810.html#a77815503c7d9c811fe3821232e308714", null ],
+    [ "GetAI", "d5/d8c/a15810.html#a1683f8c89add6270277c59951c74027e", null ],
+    [ "OnQuestAccept", "d5/d8c/a15810.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
 ];

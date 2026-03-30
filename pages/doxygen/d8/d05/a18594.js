@@ -1,6 +1,6 @@
 var a18594 =
 [
-    [ "FilterTargets", "d8/d05/a18594.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "d8/d05/a18594.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "d8/d05/a18594.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "npc_icc_lk_checktargetAI", "d1/dad/a18598.html", "d1/dad/a18598" ],
+    [ "npc_icc_lk_checktarget", "d8/d05/a18594.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d8/d05/a18594.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

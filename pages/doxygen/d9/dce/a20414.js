@@ -1,7 +1,11 @@
 var a20414 =
 [
-    [ "HandleEffectPeriodic", "d9/dce/a20414.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "d9/dce/a20414.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "d9/dce/a20414.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "d9/dce/a20414.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "npc_ulduar_expedition_engineer", "d9/dce/a20414.html#af3fe5048712bae3add6867e998c2824d", null ],
+    [ "Reset", "d9/dce/a20414.html#a7bbdbdaed353d450161e470e5f656c17", null ],
+    [ "SetData", "d9/dce/a20414.html#a9a714463750de3513e65174f796fb4de", null ],
+    [ "UpdateAI", "d9/dce/a20414.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
+    [ "fixingGUID", "d9/dce/a20414.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
+    [ "pInstance", "d9/dce/a20414.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
+    [ "timer", "d9/dce/a20414.html#a57f187130777929a921e2c35b6f43559", null ],
+    [ "working", "d9/dce/a20414.html#a3450381dc89cabede2ccde6feab96dad", null ]
 ];

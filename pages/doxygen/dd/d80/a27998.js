@@ -1,5 +1,5 @@
 var a27998 =
 [
-    [ "achievement_bg_av_perfection", "dd/d80/a27998.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "dd/d80/a27998.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "go_soulwellAI", "dd/d80/a27998.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "dd/d80/a27998.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

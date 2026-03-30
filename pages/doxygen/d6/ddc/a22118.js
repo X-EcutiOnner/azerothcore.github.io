@@ -1,5 +1,6 @@
 var a22118 =
 [
-    [ "npc_guardian_pavilionAI", "d6/ddc/a22118.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
-    [ "MoveInLineOfSight", "d6/ddc/a22118.html#aeae26e28be93120062d9f77c069ff32a", null ]
+    [ "PrepareSpellScript", "d6/ddc/a22118.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "d6/ddc/a22118.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "d6/ddc/a22118.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

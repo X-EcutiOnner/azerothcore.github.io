@@ -1,5 +1,10 @@
 var a10718 =
 [
-    [ "UpdatableScript", "d1/de3/a10718.html#a2d6cf85d1eb98438b5022804296eff11", null ],
-    [ "OnUpdate", "d1/de3/a10718.html#abf328325e08aa0d6adf36e6f70b02328", null ]
+    [ "VehicleScript", "d1/de3/a10718.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "d1/de3/a10718.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "d1/de3/a10718.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "d1/de3/a10718.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "d1/de3/a10718.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "d1/de3/a10718.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "d1/de3/a10718.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

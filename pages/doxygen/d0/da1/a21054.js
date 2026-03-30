@@ -1,7 +1,6 @@
 var a21054 =
 [
-    [ "HandleEffectPeriodic", "d0/da1/a21054.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "d0/da1/a21054.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "d0/da1/a21054.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "d0/da1/a21054.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "boss_erekemAI", "dd/d61/a21058.html", "dd/d61/a21058" ],
+    [ "boss_erekem", "d0/da1/a21054.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "d0/da1/a21054.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

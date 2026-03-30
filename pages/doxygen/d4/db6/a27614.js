@@ -1,6 +1,6 @@
 var a27614 =
 [
-    [ "HandleProc", "d4/db6/a27614.html#afb4fb2152937e62982aab2a17820d1d9", null ],
-    [ "PrepareAuraScript", "d4/db6/a27614.html#a43ec587b6e8ac94baba7253dfec47640", null ],
-    [ "Register", "d4/db6/a27614.html#ad0824cc4c53915239d609aa117fc4691", null ]
+    [ "HandleOnHit", "d4/db6/a27614.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d4/db6/a27614.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d4/db6/a27614.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

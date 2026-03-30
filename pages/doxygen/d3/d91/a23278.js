@@ -1,10 +1,6 @@
 var a23278 =
 [
-    [ "npc_frozen_core", "d3/d91/a23278.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "d3/d91/a23278.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "d3/d91/a23278.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "d3/d91/a23278.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "d3/d91/a23278.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "d3/d91/a23278.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "d3/d91/a23278.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "dc/dad/a23282.html", "dc/dad/a23282" ],
+    [ "instance_hellfire_ramparts", "d3/d91/a23278.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d3/d91/a23278.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

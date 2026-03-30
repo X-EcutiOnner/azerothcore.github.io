@@ -1,8 +1,8 @@
 var a24022 =
 [
-    [ "npc_ancestral_wolfAI", "d3/d47/a24022.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "d3/d47/a24022.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "d3/d47/a24022.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "d3/d47/a24022.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "ryga", "d3/d47/a24022.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "go_skull_pile", "d3/d47/a24022.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "d3/d47/a24022.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "d3/d47/a24022.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "d3/d47/a24022.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "d3/d47/a24022.html#af74fcd75404c0886128401d661067394", null ]
 ];

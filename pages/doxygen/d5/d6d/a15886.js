@@ -1,7 +1,6 @@
 var a15886 =
 [
-    [ "npc_webbed_creatureAI", "d5/d6d/a15886.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
-    [ "JustDied", "d5/d6d/a15886.html#a153d461124ec9266ffcac147a217f6d9", null ],
-    [ "JustEngagedWith", "d5/d6d/a15886.html#ac52ad6512bcaee35932f856abdac80d4", null ],
-    [ "Reset", "d5/d6d/a15886.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
+    [ "npc_aquementasAI", "d8/dad/a15890.html", "d8/dad/a15890" ],
+    [ "npc_aquementas", "d5/d6d/a15886.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "d5/d6d/a15886.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

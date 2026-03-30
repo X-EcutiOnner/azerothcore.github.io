@@ -1,7 +1,8 @@
 var a26454 =
 [
-    [ "HandleProc", "dc/dca/a26454.html#a00864fa29b0f4e01f0ec3b007ba56913", null ],
-    [ "PrepareAuraScript", "dc/dca/a26454.html#a83020e052309f9905adde86bac3ef925", null ],
-    [ "Register", "dc/dca/a26454.html#a7d0a5ebb4f9f9742694967bf23a76ba8", null ],
-    [ "Validate", "dc/dca/a26454.html#ac296ca5433b5bf1fc0d8c3401e43d912", null ]
+    [ "CheckProc", "dc/dca/a26454.html#ad6222902fd6882322ba082981e151c45", null ],
+    [ "HandleProc", "dc/dca/a26454.html#a4d90d29e4e11470076c759831836057d", null ],
+    [ "PrepareAuraScript", "dc/dca/a26454.html#a5be2448ea5014c611dbaa262d49ff151", null ],
+    [ "Register", "dc/dca/a26454.html#a4f78fb7ae8bef4e9dd2a29205bcec83e", null ],
+    [ "Validate", "dc/dca/a26454.html#a9d0797992a6f3bfd5bd9f678c4465a4c", null ]
 ];

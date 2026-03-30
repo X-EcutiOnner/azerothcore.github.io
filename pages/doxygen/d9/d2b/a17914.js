@@ -1,6 +1,5 @@
 var a17914 =
 [
-    [ "HandleScript", "d9/d2b/a17914.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "d9/d2b/a17914.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "d9/d2b/a17914.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "achievement_im_on_a_boat", "d9/d2b/a17914.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "d9/d2b/a17914.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

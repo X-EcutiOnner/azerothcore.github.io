@@ -1,8 +1,7 @@
 var a13990 =
 [
-    [ "npc_sunblade_arch_mage", "d7/de6/a13990.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
-    [ "JustEngagedWith", "d7/de6/a13990.html#aadeae32d691229b7b7b531175b8a5018", null ],
-    [ "Reset", "d7/de6/a13990.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
-    [ "UpdateAI", "d7/de6/a13990.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
-    [ "scheduler", "d7/de6/a13990.html#aa6680f06651316996868907b1d28126c", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d1/d38/a13994.html", "d1/d38/a13994" ],
+    [ "npc_lady_sylvanas_windrunner", "d7/de6/a13990.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "d7/de6/a13990.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "d7/de6/a13990.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

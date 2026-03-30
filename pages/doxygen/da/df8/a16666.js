@@ -1,6 +1,7 @@
 var a16666 =
 [
-    [ "HandlePeriodic", "da/df8/a16666.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "da/df8/a16666.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "da/df8/a16666.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "npc_toc_druidAI", "da/df8/a16666.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "da/df8/a16666.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "da/df8/a16666.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "da/df8/a16666.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

@@ -1,8 +1,9 @@
 var a15282 =
 [
-    [ "npc_arthasAI", "d4/d30/a15286.html", "d4/d30/a15286" ],
-    [ "npc_arthas", "d6/d26/a15282.html#a87c280ff9861187b0a713f795e657266", null ],
-    [ "GetAI", "d6/d26/a15282.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
-    [ "OnGossipHello", "d6/d26/a15282.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
-    [ "OnGossipSelect", "d6/d26/a15282.html#aeca2f4baa3c943281c676c6498393165", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "d6/d26/a15282.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "d6/d26/a15282.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "d6/d26/a15282.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "d6/d26/a15282.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "d6/d26/a15282.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "d6/d26/a15282.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

@@ -1,8 +1,10 @@
 var a17938 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "d7/d51/a17942.html", "d7/d51/a17942" ],
-    [ "npc_muradin_bronzebeard_icc", "db/def/a17938.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
-    [ "GetAI", "db/def/a17938.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
-    [ "OnGossipHello", "db/def/a17938.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
-    [ "OnGossipSelect", "db/def/a17938.html#a46c4893be723a848d985ff55e28d55a2", null ]
+    [ "npc_cult_fanaticAI", "db/def/a17938.html#a766e536288b84110f88a8bd282e97932", null ],
+    [ "JustEngagedWith", "db/def/a17938.html#a709b75f4b1519bc7c6988985a22d076f", null ],
+    [ "Reset", "db/def/a17938.html#a772830df1d16d0463c8c00f14c337db0", null ],
+    [ "SpellHit", "db/def/a17938.html#a17c02a83b522c9717de3d89517104e42", null ],
+    [ "UpdateAI", "db/def/a17938.html#ac79afdab3721d78d2b7e5da360083cea", null ],
+    [ "_instance", "db/def/a17938.html#a7448fdf85cccfcb12509b0274205bff4", null ],
+    [ "events", "db/def/a17938.html#a9576978141062fa1babbbc5ed42483c4", null ]
 ];

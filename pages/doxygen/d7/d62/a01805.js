@@ -1,11 +1,7 @@
 var a01805 =
 [
-    [ "AuraEffect", "dc/d15/a11579.html", "dc/d15/a11579" ],
-    [ "Acore::AbsorbAuraOrderPred", "d6/d0f/a11583.html", "d6/d0f/a11583" ],
-    [ "pAuraEffectHandler", "d7/d62/a01805.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
-    [ "BrewfestEntries", "d7/d62/a01805.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
-      [ "BREWFEST_KODO", "d7/d62/a01805.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],
-      [ "GREAT_BREWFEST_KODO", "d7/d62/a01805.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa", null ],
-      [ "FRESH_BREWFEST_HOPS", "d7/d62/a01805.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf", null ]
-    ] ]
+    [ "instance_the_underbog", "d8/d70/a23142.html", "d8/d70/a23142" ],
+    [ "instance_the_underbog::instance_the_underbog_InstanceMapScript", "d8/d24/a23146.html", "d8/d24/a23146" ],
+    [ "AddSC_instance_the_underbog", "d7/d62/a01805.html#acc5edb97f1bda7cd30a38061e4676698", null ],
+    [ "creatureData", "d7/d62/a01805.html#a412286b689bd324fedd65ddd8dde8afb", null ]
 ];

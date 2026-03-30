@@ -1,6 +1,7 @@
 var a16714 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "d3/d91/a16718.html", "d3/d91/a16718" ],
-    [ "instance_ruby_sanctum", "d4/ddf/a16714.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
-    [ "GetInstanceScript", "d4/ddf/a16714.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
+    [ "npc_toc_mageAI", "d4/ddf/a16714.html#a188831088c892f68cef7498468b24899", null ],
+    [ "myCanCast", "d4/ddf/a16714.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
+    [ "UpdateAI", "d4/ddf/a16714.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
+    [ "events", "d4/ddf/a16714.html#ab1910ce98f3d1b14e45acba22782d536", null ]
 ];

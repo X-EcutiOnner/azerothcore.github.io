@@ -1,16 +1,13 @@
 var a16070 =
 [
-    [ "npc_anachronos_the_ancientAI", "d9/d48/a16070.html#aad6fbdc3cf33f2deb6dd3cc741e4aec4", null ],
-    [ "HandleAnimation", "d9/d48/a16070.html#a0bd43e2482a12cda79566f761d448109", null ],
-    [ "Reset", "d9/d48/a16070.html#a3bd2380cfd18b14aae1ae72a452299bb", null ],
-    [ "UpdateAI", "d9/d48/a16070.html#a5a55cfec1d204b6657779938e93b6be5", null ],
-    [ "AnachronosQuestTriggerGUID", "d9/d48/a16070.html#aa51b7cdfb2a37310196c81a01f89a7dd", null ],
-    [ "AnimationCount", "d9/d48/a16070.html#a504038880b7e837f63f99d477c8a0bba", null ],
-    [ "AnimationTimer", "d9/d48/a16070.html#a4ca3807429ffa2caca6199ecd66c4015", null ],
-    [ "ArygosGUID", "d9/d48/a16070.html#a4f2917c85d41d3b5015d6eed56fe9e12", null ],
-    [ "CaelestraszGUID", "d9/d48/a16070.html#adceafa1ad19ecb7df59f87b501d4622c", null ],
-    [ "eventEnd", "d9/d48/a16070.html#ad125b9eb7052449a6b75eebde7a192e0", null ],
-    [ "FandralGUID", "d9/d48/a16070.html#a157af7db82bf943c298b63d8294067ce", null ],
-    [ "MerithraGUID", "d9/d48/a16070.html#af7088f79687a4109f5701488e9019aeb", null ],
-    [ "PlayerGUID", "d9/d48/a16070.html#a7e1777ca319e4f6dafc1a035d05dabc0", null ]
+    [ "npc_shadowpriest_sezzizAI", "d9/d48/a16070.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
+    [ "AttackStart", "d9/d48/a16070.html#a8278a73501ea33164cbdef8599144f4a", null ],
+    [ "Reset", "d9/d48/a16070.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
+    [ "UpdateAI", "d9/d48/a16070.html#a1c0236b52d4cd87634659991e0dfc728", null ],
+    [ "_missingHPForHealTimer", "d9/d48/a16070.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
+    [ "_missingHPForRenewTimer", "d9/d48/a16070.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
+    [ "_physicScreemTimer", "d9/d48/a16070.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
+    [ "_shadowBoltTimer", "d9/d48/a16070.html#a34a18991ff2c0aafac15694ed9667193", null ],
+    [ "_summmonAddsCount", "d9/d48/a16070.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
+    [ "_summonAddsTimer", "d9/d48/a16070.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
 ];

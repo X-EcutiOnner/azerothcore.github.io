@@ -1,7 +1,8 @@
 var a22022 =
 [
-    [ "HandleScript", "d2/dab/a22022.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
-    [ "PrepareSpellScript", "d2/dab/a22022.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
-    [ "Register", "d2/dab/a22022.html#a9b8efef83b515f2250bda500ff741aa3", null ],
-    [ "Validate", "d2/dab/a22022.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
+    [ "spell_loosen_grip", "d2/dab/a22022.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "d2/dab/a22022.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "d2/dab/a22022.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "d2/dab/a22022.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "d2/dab/a22022.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

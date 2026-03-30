@@ -1,8 +1,10 @@
 var a06158 =
 [
-    [ "UpdateResult", "d6/d0c/a06158.html#af32cdf09d32607955c98353fbfa7d392", null ],
-    [ "UpdateResult", "d6/d0c/a06158.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
-    [ "archived", "d6/d0c/a06158.html#adee274af5f5d6981e28b3587008d690c", null ],
-    [ "recent", "d6/d0c/a06158.html#aea54f4388b659def734957a47e9cca8c", null ],
-    [ "updated", "d6/d0c/a06158.html#a12b3fffe01639493fc405bd5a797f463", null ]
+    [ "TransactionCallback", "d6/d0c/a06158.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "d6/d0c/a06158.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "d6/d0c/a06158.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "d6/d0c/a06158.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "d6/d0c/a06158.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "d6/d0c/a06158.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "d6/d0c/a06158.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

@@ -1,6 +1,7 @@
 var a15102 =
 [
-    [ "HandleScriptEffect", "d3/d85/a15102.html#a2acaaf3716237f147429cb07779ae49e", null ],
-    [ "PrepareSpellScript", "d3/d85/a15102.html#a55df717ede47b17a32ae33ecd64617cd", null ],
-    [ "Register", "d3/d85/a15102.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
+    [ "boss_epoch_hunter", "d3/d85/a15102.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "d3/d85/a15102.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "d3/d85/a15102.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "d3/d85/a15102.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

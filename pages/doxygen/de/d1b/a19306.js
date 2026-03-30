@@ -1,9 +1,7 @@
 var a19306 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "de/d1b/a19306.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "de/d1b/a19306.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "de/d1b/a19306.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "de/d1b/a19306.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "de/d1b/a19306.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "de/d1b/a19306.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "OnPeriodic", "de/d1b/a19306.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "de/d1b/a19306.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "de/d1b/a19306.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "de/d1b/a19306.html#a54cfed486827216817adb740efa6646e", null ]
 ];

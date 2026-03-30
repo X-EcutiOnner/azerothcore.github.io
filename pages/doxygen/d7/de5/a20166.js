@@ -1,5 +1,6 @@
 var a20166 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "d7/de5/a20166.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "d7/de5/a20166.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "DestroyWinterCache", "d7/de5/a20166.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "d7/de5/a20166.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "d7/de5/a20166.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

@@ -1,7 +1,7 @@
 var a24590 =
 [
-    [ "CheckClass", "da/d59/a24590.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
-    [ "HandleScript", "da/d59/a24590.html#a4f4f7004be5629efdc48b52b6667edba", null ],
-    [ "PrepareSpellScript", "da/d59/a24590.html#a599ce758681c5196bd40e4c7b86635cc", null ],
-    [ "Register", "da/d59/a24590.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
+    [ "HandleProc", "da/d59/a24590.html#a43704e8ddf8eb94adf27225eb02135bd", null ],
+    [ "PrepareAuraScript", "da/d59/a24590.html#a626ebecdbb7e431af364fa9bcde38644", null ],
+    [ "Register", "da/d59/a24590.html#ab56bed8649452b9ae7ac07bf6ee16641", null ],
+    [ "Validate", "da/d59/a24590.html#a3699a230042bd646d459bd7dcf73e3b6", null ]
 ];

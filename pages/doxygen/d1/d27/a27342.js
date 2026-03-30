@@ -1,6 +1,6 @@
 var a27342 =
 [
-    [ "CheckCast", "d1/d27/a27342.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "d1/d27/a27342.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "d1/d27/a27342.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "HandleAuraApply", "d1/d27/a27342.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "d1/d27/a27342.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "d1/d27/a27342.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

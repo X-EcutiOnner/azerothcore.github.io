@@ -1,5 +1,7 @@
 var a28370 =
 [
-    [ "item_disgusting_jar", "d7/d4d/a28370.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
-    [ "OnExpire", "d7/d4d/a28370.html#a4f6967035a4d247914a6034fcebac5c5", null ]
+    [ "npc_flameshocker", "d7/d4d/a28370.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "d7/d4d/a28370.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "d7/d4d/a28370.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "d7/d4d/a28370.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

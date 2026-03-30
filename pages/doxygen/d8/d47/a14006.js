@@ -1,6 +1,7 @@
 var a14006 =
 [
-    [ "instance_uldaman_InstanceMapScript", "d7/d3f/a14010.html", "d7/d3f/a14010" ],
-    [ "instance_uldaman", "d8/d47/a14006.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "d8/d47/a14006.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "o", "d8/d47/a14006.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "d8/d47/a14006.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "d8/d47/a14006.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "d8/d47/a14006.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

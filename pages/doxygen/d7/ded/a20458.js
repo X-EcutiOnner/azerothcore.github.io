@@ -1,14 +1,11 @@
 var a20458 =
 [
-    [ "npc_ulduar_hodir_priest", "d7/ded/a20458.html#a9c0f04c11c9e006b494fe900612ff756", null ],
-    [ "AttackStart", "d7/ded/a20458.html#ad86f47516d9f245a4ae241bba26b37a4", null ],
-    [ "CanAIAttack", "d7/ded/a20458.html#a8545bd2492bd32d333e8d144b3d548a5", null ],
-    [ "EnterEvadeMode", "d7/ded/a20458.html#a9d3f3e950b0f9c9a7b85ba3835000a80", null ],
-    [ "JustDied", "d7/ded/a20458.html#a3ac7967a61a774670e25aa3c0477d7ac", null ],
-    [ "MoveInLineOfSight", "d7/ded/a20458.html#abc0c766a88dd64e8f5bbcc2afd883552", null ],
-    [ "ScheduleAbilities", "d7/ded/a20458.html#a10b5f3575c2de311d54c15220c68f4b7", null ],
-    [ "SpellHit", "d7/ded/a20458.html#a2dd6faeb45ba2278e1b4693d20550d4e", null ],
-    [ "UpdateAI", "d7/ded/a20458.html#a450b21ab190ec335d910b38a6a2d9329", null ],
-    [ "events", "d7/ded/a20458.html#a803e3f35c784716170f9fa8c4484b66c", null ],
-    [ "pInstance", "d7/ded/a20458.html#a7990e1a1aac16d498180473becf837b1", null ]
+    [ "boss_thorim_sif_blizzard", "d7/ded/a20458.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
+    [ "AttackStart", "d7/ded/a20458.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
+    [ "InitWaypoint", "d7/ded/a20458.html#a55424c77633aaa62e12581a818736441", null ],
+    [ "JustEngagedWith", "d7/ded/a20458.html#a019b50cc265dff0e92417482b85ccf64", null ],
+    [ "MoveInLineOfSight", "d7/ded/a20458.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
+    [ "Reset", "d7/ded/a20458.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
+    [ "WaypointReached", "d7/ded/a20458.html#af69dfd0ec232c7e45d13b117988ba924", null ],
+    [ "WaypointReached", "d7/ded/a20458.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

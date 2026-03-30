@@ -1,7 +1,7 @@
 var a15698 =
 [
-    [ "npc_sartura_royal_guard", "d1/dcc/a15698.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
-    [ "JustEngagedWith", "d1/dcc/a15698.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
-    [ "Reset", "d1/dcc/a15698.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
-    [ "UpdateAI", "d1/dcc/a15698.html#a2ed50f65847133c897facecbaa4711d8", null ]
+    [ "npc_tharnarianAI", "dd/dae/a15702.html", "dd/dae/a15702" ],
+    [ "npc_tharnarian", "d1/dcc/a15698.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "d1/dcc/a15698.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "d1/dcc/a15698.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
 ];

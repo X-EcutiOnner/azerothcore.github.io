@@ -1,7 +1,7 @@
 var a14162 =
 [
-    [ "npc_deathstalker_erlandAI", "d0/d46/a14162.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
-    [ "JustEngagedWith", "d0/d46/a14162.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
-    [ "Reset", "d0/d46/a14162.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
-    [ "WaypointReached", "d0/d46/a14162.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
+    [ "HandleScript", "d0/d46/a14162.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "d0/d46/a14162.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "d0/d46/a14162.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "d0/d46/a14162.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

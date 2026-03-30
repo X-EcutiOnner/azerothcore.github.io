@@ -1,7 +1,8 @@
 var a27482 =
 [
-    [ "HandleDispel", "da/d5f/a27482.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
-    [ "PrepareAuraScript", "da/d5f/a27482.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
-    [ "Register", "da/d5f/a27482.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
-    [ "Validate", "da/d5f/a27482.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
+    [ "CheckProc", "da/d5f/a27482.html#a88fc4939e903f4914a41cf18b34ad344", null ],
+    [ "HandleProc", "da/d5f/a27482.html#a607054f11843147a09b202ea65f68b65", null ],
+    [ "PrepareAuraScript", "da/d5f/a27482.html#affe76b0d20d431ba459ceb42934689fc", null ],
+    [ "Register", "da/d5f/a27482.html#a99345afecc0612c33db996cebab99e09", null ],
+    [ "Validate", "da/d5f/a27482.html#a9b0a80cc044d198178bd629eb8731260", null ]
 ];

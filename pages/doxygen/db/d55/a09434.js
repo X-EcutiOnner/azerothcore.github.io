@@ -1,12 +1,16 @@
 var a09434 =
 [
-    [ "GridTerrainLoader", "db/d55/a09434.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
-    [ "ExistMap", "db/d55/a09434.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
-    [ "ExistVMap", "db/d55/a09434.html#a17bdde445c48738ade280bd1cdda0619", null ],
-    [ "LoadMap", "db/d55/a09434.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
-    [ "LoadMMap", "db/d55/a09434.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
-    [ "LoadTerrain", "db/d55/a09434.html#a097556a8a778efa22ab9d50cbda2649a", null ],
-    [ "LoadVMap", "db/d55/a09434.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
-    [ "_grid", "db/d55/a09434.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
-    [ "_map", "db/d55/a09434.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
+    [ "LiquidEntryType", "db/d55/a09434.html#a025eadf79f31d447fc80efabbb2f9f22", null ],
+    [ "LiquidFlagsType", "db/d55/a09434.html#a5bd1b8c77ed4830cc558985e98aa1d01", null ],
+    [ "LiquidMapType", "db/d55/a09434.html#a554cc712f06b4a0eb9bf81c4a41b9030", null ],
+    [ "liquidEntry", "db/d55/a09434.html#a1d69fc74b38f6e596704e26e93281314", null ],
+    [ "liquidFlags", "db/d55/a09434.html#a9ebf22bb06a9254e7175083dc51af9dd", null ],
+    [ "liquidGlobalEntry", "db/d55/a09434.html#a48274eeefa423c48ff860c8ffc110a30", null ],
+    [ "liquidGlobalFlags", "db/d55/a09434.html#abdd9bfcaf91f30c3e543e632c347aa88", null ],
+    [ "liquidHeight", "db/d55/a09434.html#a40f757a6fa57ade760cf1001925a0560", null ],
+    [ "liquidLevel", "db/d55/a09434.html#a45b8bab4cc66e6e5be5ef51ad27bf1cc", null ],
+    [ "liquidMap", "db/d55/a09434.html#ae6ddffb70a92aea580bacebb5a0e4d11", null ],
+    [ "liquidOffX", "db/d55/a09434.html#a310d68fbb4d88272b7ae93492331ce4b", null ],
+    [ "liquidOffY", "db/d55/a09434.html#ae8b485a43a960a810f5951df6419bd54", null ],
+    [ "liquidWidth", "db/d55/a09434.html#afee2d2d96fc879729a070d2b5eb114e0", null ]
 ];

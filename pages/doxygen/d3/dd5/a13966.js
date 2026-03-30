@@ -1,6 +1,6 @@
 var a13966 =
 [
-    [ "ChangeSummonPos", "d3/dd5/a13966.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "d3/dd5/a13966.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "d3/dd5/a13966.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "npc_marzon_silent_bladeAI", "da/da0/a13970.html", "da/da0/a13970" ],
+    [ "npc_marzon_silent_blade", "d3/dd5/a13966.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "d3/dd5/a13966.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

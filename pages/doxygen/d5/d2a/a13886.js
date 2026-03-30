@@ -1,6 +1,12 @@
 var a13886 =
 [
-    [ "HandlePeriodic", "d5/d2a/a13886.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
-    [ "PrepareAuraScript", "d5/d2a/a13886.html#a7ac99d626990f068a00f403847bfa6bc", null ],
-    [ "Register", "d5/d2a/a13886.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
+    [ "npc_sentinel_infiltrator", "d5/d2a/a13886.html#a40ce6808a4d0622eb88a669485335020", null ],
+    [ "Initialize", "d5/d2a/a13886.html#acc94269a3ede4c897f457a270e9a9c12", null ],
+    [ "JustEngagedWith", "d5/d2a/a13886.html#a2c9927468b92d00b60efac851eacfef1", null ],
+    [ "MovementInform", "d5/d2a/a13886.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
+    [ "Reset", "d5/d2a/a13886.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
+    [ "UpdateAI", "d5/d2a/a13886.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
+    [ "_events", "d5/d2a/a13886.html#a296d6c70b6c439319cc69a9d39005e62", null ],
+    [ "_fleedForAssistance", "d5/d2a/a13886.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
+    [ "_path", "d5/d2a/a13886.html#a32d531478df327ccb0bb85e262420813", null ]
 ];

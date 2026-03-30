@@ -1,7 +1,11 @@
 var a22370 =
 [
-    [ "npc_wg_quest_giver", "df/d30/a22370.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "df/d30/a22370.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "df/d30/a22370.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "df/d30/a22370.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "boss_blackheart_the_inciter", "df/d30/a22370.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "df/d30/a22370.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "df/d30/a22370.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "df/d30/a22370.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "df/d30/a22370.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "df/d30/a22370.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "df/d30/a22370.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "df/d30/a22370.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

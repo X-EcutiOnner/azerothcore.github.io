@@ -1,4 +1,5 @@
 var a00473 =
 [
-    [ "AppenderFile", "d6/df6/a05611.html", "d6/df6/a05611" ]
+    [ "Acore::IteratorPair< iterator >", "d0/df9/a05758.html", "d0/df9/a05758" ],
+    [ "MapEqualRange", "dc/d8e/a00473.html#a8700eb31c04be5cf6c6ecc86e76cadad", null ]
 ];

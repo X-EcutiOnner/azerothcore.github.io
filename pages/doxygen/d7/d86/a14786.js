@@ -1,7 +1,6 @@
 var a14786 =
 [
-    [ "PeriodicTick", "d7/d86/a14786.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "d7/d86/a14786.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "d7/d86/a14786.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "d7/d86/a14786.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "HandleAfterEffectApply", "d7/d86/a14786.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "d7/d86/a14786.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "d7/d86/a14786.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

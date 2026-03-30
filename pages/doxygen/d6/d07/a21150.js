@@ -1,14 +1,15 @@
 var a21150 =
 [
-    [ "npc_massive_jormungarAI", "d6/d07/a21150.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "d6/d07/a21150.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "d6/d07/a21150.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "d6/d07/a21150.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "d6/d07/a21150.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "d6/d07/a21150.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "d6/d07/a21150.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "d6/d07/a21150.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "d6/d07/a21150.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "d6/d07/a21150.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "d6/d07/a21150.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "npc_vh_teleportation_portalAI", "d6/d07/a21150.html#a9d062de34e4fbc8ccc487a633efa038d", null ],
+    [ "JustDied", "d6/d07/a21150.html#aab2cc259d78492c54e21b4279697f909", null ],
+    [ "JustSummoned", "d6/d07/a21150.html#a029b105ef6f92455c41e064aeb0fd5f6", null ],
+    [ "SummonedMobDied", "d6/d07/a21150.html#ae6b5b15aeee2f7b02d5c54dd8d09aa51", null ],
+    [ "UpdateAI", "d6/d07/a21150.html#a812e330e20924cc34262363ecc0a3fc1", null ],
+    [ "addValue", "d6/d07/a21150.html#aa52f29a41d12320516737b437af62fc3", null ],
+    [ "bKorG", "d6/d07/a21150.html#ad96efd06ebb1902cc30deb22e62d7873", null ],
+    [ "events", "d6/d07/a21150.html#a329635246e80e7264cad6749ee70be40", null ],
+    [ "listOfMobs", "d6/d07/a21150.html#a470a61cf7d424711b07770fd56c74b29", null ],
+    [ "pInstance", "d6/d07/a21150.html#a10ebe705c55d898bfea2af104ce7f86e", null ],
+    [ "spawned", "d6/d07/a21150.html#a8921c314c2f4b958e11136504971f427", null ],
+    [ "wave", "d6/d07/a21150.html#a4dd689e6445e18c3e9883bc471fecdde", null ]
 ];

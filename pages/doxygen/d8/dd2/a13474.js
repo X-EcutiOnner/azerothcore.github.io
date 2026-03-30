@@ -1,7 +1,13 @@
 var a13474 =
 [
-    [ "HandleEffectApply", "d8/dd2/a13474.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d8/dd2/a13474.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d8/dd2/a13474.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d8/dd2/a13474.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d8/dd2/a13474.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
+    [ "Initialize", "d8/dd2/a13474.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
+    [ "OnCreatureCreate", "d8/dd2/a13474.html#a3f9cca96886b97f7657edc04f4997d41", null ],
+    [ "OnGameObjectCreate", "d8/dd2/a13474.html#ad420b6b549b8d76a80844d81548b1143", null ],
+    [ "ReadSaveDataMore", "d8/dd2/a13474.html#a83a24703aafb973809618d3ac3ac0375", null ],
+    [ "SetData", "d8/dd2/a13474.html#abdc105e9306d9abc776259be97e2488f", null ],
+    [ "WriteSaveDataMore", "d8/dd2/a13474.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
+    [ "_apothecaryHummel", "d8/dd2/a13474.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
+    [ "_crazedApothecaryGeneratorGUIDs", "d8/dd2/a13474.html#a00880eedbbc2deb4dc36e4c851558861", null ],
+    [ "_encounters", "d8/dd2/a13474.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
 ];

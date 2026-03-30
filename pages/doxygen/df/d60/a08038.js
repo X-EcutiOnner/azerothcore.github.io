@@ -1,6 +1,5 @@
 var a08038 =
 [
-    [ "value_type", "df/d60/a08038.html#a6ffbf1b2887c79b97a1804a601ea585e", null ],
-    [ "StoreTo", "df/d60/a08038.html#a872daea2854f6243884ec35734f94d2e", null ],
-    [ "tag", "df/d60/a08038.html#acbb2b3fc4989e4bb51e3440dcb753719", null ]
+    [ "Glyph", "df/d60/a08038.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "df/d60/a08038.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

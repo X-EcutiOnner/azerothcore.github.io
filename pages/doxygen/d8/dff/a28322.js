@@ -1,5 +1,5 @@
 var a28322 =
 [
-    [ "go_massive_seaforium_charge", "d8/dff/a28322.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "d8/dff/a28322.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "npc_controller", "d8/dff/a28322.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "d8/dff/a28322.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

@@ -1,7 +1,20 @@
 var a16478 =
 [
-    [ "HandleScriptEffect", "d9/db4/a16478.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
-    [ "PrepareSpellScript", "d9/db4/a16478.html#a392c40d469c3c1e816d5dc364fde824c", null ],
-    [ "Register", "d9/db4/a16478.html#aa59c26b25ca0f440de36e450adf050a5", null ],
-    [ "Validate", "d9/db4/a16478.html#a370f83112d901f9565734b11d12858f4", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "d9/db4/a16478.html#a98a097bfa32aedc3fe1d6600f147c94f", null ],
+    [ "FillInitialWorldStates", "d9/db4/a16478.html#a92cf11c73a596e0be141d9626ff10d3d", null ],
+    [ "GetGuidData", "d9/db4/a16478.html#aaee1be892a411ed2fe720aff91c1dbbe", null ],
+    [ "OnCreatureCreate", "d9/db4/a16478.html#a18f4f8286f7ca85b1a366b1ca3ffe6b3", null ],
+    [ "OnGameObjectCreate", "d9/db4/a16478.html#a27c4858d5972471ef91a269c11fc0494", null ],
+    [ "OnGameObjectRemove", "d9/db4/a16478.html#ac53fa1af91c66a264fdd016abe40168c", null ],
+    [ "OnPlayerEnter", "d9/db4/a16478.html#a74b01d2d0b48e95f758a1143fccf40ae", null ],
+    [ "SetBossState", "d9/db4/a16478.html#a3542b2f1f54fc25720bba1b4f2d12e5f", null ],
+    [ "BaltharusTheWarbornGUID", "d9/db4/a16478.html#a99cb15668a0eb037fc7edd6a2340ca33", null ],
+    [ "FlameRingGUID", "d9/db4/a16478.html#a52256dd98ae786bfe9bfc86ce036a060", null ],
+    [ "GeneralZarithrianGUID", "d9/db4/a16478.html#ad92ac599589bdd8b7c3aa055b451f0cf", null ],
+    [ "HalionControllerGUID", "d9/db4/a16478.html#a52144a0152a2ea00066c0d24bdee0b74", null ],
+    [ "HalionGUID", "d9/db4/a16478.html#a0b824e7cf269619220329aecba08e448", null ],
+    [ "OrbCarrierGUID", "d9/db4/a16478.html#a723b8a7384d0b9455b3a99172a903868", null ],
+    [ "TwilightHalionGUID", "d9/db4/a16478.html#a165f776c123fa595b6424be666fa8570", null ],
+    [ "XerestraszaGUID", "d9/db4/a16478.html#aefcf3beb1d5da118c80d3af9eb21ec99", null ],
+    [ "ZarithrianSpawnStalkerGUID", "d9/db4/a16478.html#a5e28d815149507f4bc6a30e42d4034a4", null ]
 ];

@@ -1,7 +1,6 @@
 var a14522 =
 [
-    [ "OnRemove", "da/d82/a14522.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "da/d82/a14522.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "da/d82/a14522.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "da/d82/a14522.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "CheckItem", "da/d82/a14522.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
+    [ "PrepareSpellScript", "da/d82/a14522.html#a0fa160f1218cf838444f894716cb8aed", null ],
+    [ "Register", "da/d82/a14522.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
 ];

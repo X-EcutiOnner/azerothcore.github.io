@@ -1,8 +1,8 @@
 var a13050 =
 [
-    [ "npc_lava_spawn", "d9/ddc/a13050.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d9/ddc/a13050.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d9/ddc/a13050.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d9/ddc/a13050.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d9/ddc/a13050.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "npc_tito", "d9/ddc/a13050.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "d9/ddc/a13050.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "d9/ddc/a13050.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "d9/ddc/a13050.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "d9/ddc/a13050.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

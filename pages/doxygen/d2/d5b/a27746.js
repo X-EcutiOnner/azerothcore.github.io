@@ -1,6 +1,5 @@
 var a27746 =
 [
-    [ "CalculateAmount", "d2/d5b/a27746.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "d2/d5b/a27746.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "d2/d5b/a27746.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "AreaTrigger_at_last_rites", "d2/d5b/a27746.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "d2/d5b/a27746.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

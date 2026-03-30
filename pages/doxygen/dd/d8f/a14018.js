@@ -1,8 +1,6 @@
 var a14018 =
 [
-    [ "HandleEffectApply", "dd/d8f/a14018.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
-    [ "HandleEffectRemove", "dd/d8f/a14018.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
-    [ "Load", "dd/d8f/a14018.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
-    [ "PrepareAuraScript", "dd/d8f/a14018.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
-    [ "Register", "dd/d8f/a14018.html#a6a90296c9903ce65913f3bba29dea176", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d0/dcb/a14022.html", "d0/dcb/a14022" ],
+    [ "npc_jaina_proudmoore_bfu", "dd/d8f/a14018.html#af96c4fac318f44cf6e70817b6960999f", null ],
+    [ "GetAI", "dd/d8f/a14018.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
 ];

@@ -1,11 +1,6 @@
 var a16314 =
 [
-    [ "boss_amanitar", "d7/d89/a16314.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "d7/d89/a16314.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "d7/d89/a16314.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "d7/d89/a16314.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "d7/d89/a16314.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "d7/d89/a16314.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "d7/d89/a16314.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "d7/d89/a16314.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "npc_xerestraszaAI", "d3/d7e/a16318.html", "d3/d7e/a16318" ],
+    [ "npc_xerestrasza", "d7/d89/a16314.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
+    [ "GetAI", "d7/d89/a16314.html#a5e0ede0054969d4787db56781dc55846", null ]
 ];

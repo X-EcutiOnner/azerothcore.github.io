@@ -1,11 +1,13 @@
 var a12422 =
 [
-    [ "boss_draganthaurissanAI", "d6/d8d/a12422.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
-    [ "JustDied", "d6/d8d/a12422.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
-    [ "JustEngagedWith", "d6/d8d/a12422.html#a00604bed2c13a7b470d950059122f018", null ],
-    [ "KilledUnit", "d6/d8d/a12422.html#acec58686917d6e5aff9a51a96b023174", null ],
-    [ "SetData", "d6/d8d/a12422.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
-    [ "UpdateAI", "d6/d8d/a12422.html#a04eaea53b78d490373f9bb911cc92596", null ],
-    [ "hasYelled", "d6/d8d/a12422.html#aef5ede4f444e85fafd30faab6043672b", null ],
-    [ "SenatorYells", "d6/d8d/a12422.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
+    [ "npc_rocknot", "d6/d8d/a12422.html#a890eaac55162130b05c7d2dba26cc872", null ],
+    [ "DoGo", "d6/d8d/a12422.html#a242e871de8e19462fcab6fb9eae1039e", null ],
+    [ "Reset", "d6/d8d/a12422.html#afaa1977f370fe699c75ebb83c0d291dd", null ],
+    [ "sQuestReward", "d6/d8d/a12422.html#a633123eb64bd6d46ace12fd0e1853aef", null ],
+    [ "UpdateAI", "d6/d8d/a12422.html#a15755c98f937784f538d547b15c2d192", null ],
+    [ "WaypointReached", "d6/d8d/a12422.html#a3711cae23b14dcce2ac1938aaeb9b961", null ],
+    [ "WaypointReached", "d6/d8d/a12422.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_breakDoorTimer", "d6/d8d/a12422.html#a44955a4ef0e730f72848e582892380b5", null ],
+    [ "_breakKegTimer", "d6/d8d/a12422.html#ad6e48e6f81521b89da9f528e079c1c90", null ],
+    [ "instance", "d6/d8d/a12422.html#a71e6532128131a10aae575d1bac023d0", null ]
 ];

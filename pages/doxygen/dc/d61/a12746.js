@@ -1,7 +1,8 @@
 var a12746 =
 [
-    [ "HandleScript", "dc/d61/a12746.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "dc/d61/a12746.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "dc/d61/a12746.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "dc/d61/a12746.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "boss_garr", "dc/d61/a12746.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "dc/d61/a12746.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "dc/d61/a12746.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "dc/d61/a12746.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "dc/d61/a12746.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

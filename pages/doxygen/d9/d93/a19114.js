@@ -1,6 +1,6 @@
 var a19114 =
 [
-    [ "npc_frost_freeze_trapAI", "d5/df3/a19118.html", "d5/df3/a19118" ],
-    [ "npc_frost_freeze_trap", "d9/d93/a19114.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "d9/d93/a19114.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "npc_four_car_garageAI", "d9/d93/a19114.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "d9/d93/a19114.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "d9/d93/a19114.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

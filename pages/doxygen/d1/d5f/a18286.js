@@ -1,5 +1,9 @@
 var a18286 =
 [
-    [ "at_lady_deathwhisper_entrance", "d1/d5f/a18286.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
-    [ "OnTrigger", "d1/d5f/a18286.html#a769c838c94a88af5492057909d88f3de", null ]
+    [ "FilterTargets", "d1/d5f/a18286.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "d1/d5f/a18286.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "d1/d5f/a18286.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "d1/d5f/a18286.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "d1/d5f/a18286.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "d1/d5f/a18286.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

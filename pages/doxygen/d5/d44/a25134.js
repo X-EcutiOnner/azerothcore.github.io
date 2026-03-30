@@ -1,8 +1,7 @@
 var a25134 =
 [
-    [ "Absorb", "d5/d44/a25134.html#aecfcbafe098adddba0a73965c447558c", null ],
-    [ "Load", "d5/d44/a25134.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
-    [ "PrepareAuraScript", "d5/d44/a25134.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
-    [ "Register", "d5/d44/a25134.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
-    [ "_limit", "d5/d44/a25134.html#a5985a97749e318e3ccba4c96724d8704", null ]
+    [ "HandleDummy", "d5/d44/a25134.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
+    [ "PrepareSpellScript", "d5/d44/a25134.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
+    [ "Register", "d5/d44/a25134.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
+    [ "Validate", "d5/d44/a25134.html#ad4bb369ef46122cd45c38d876884d350", null ]
 ];

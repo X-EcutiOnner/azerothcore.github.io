@@ -1,11 +1,11 @@
 var a15130 =
 [
-    [ "boss_anetheron", "db/d6e/a15130.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "db/d6e/a15130.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "db/d6e/a15130.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "db/d6e/a15130.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "db/d6e/a15130.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "db/d6e/a15130.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "db/d6e/a15130.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "db/d6e/a15130.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "npc_tarethaAI", "db/d6e/a15130.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
+    [ "AttackStart", "db/d6e/a15130.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
+    [ "DoAction", "db/d6e/a15130.html#adbb40db0b70532a20731cf5039e44d0b", null ],
+    [ "MoveInLineOfSight", "db/d6e/a15130.html#afa0427372e43316851018bf78274707f", null ],
+    [ "Reset", "db/d6e/a15130.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
+    [ "WaypointReached", "db/d6e/a15130.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
+    [ "WaypointReached", "db/d6e/a15130.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "instance", "db/d6e/a15130.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
 ];

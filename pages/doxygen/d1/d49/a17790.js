@@ -1,6 +1,7 @@
 var a17790 =
 [
-    [ "npc_blood_queen_lana_thelAI", "db/da5/a17794.html", "db/da5/a17794" ],
-    [ "npc_blood_queen_lana_thel", "d1/d49/a17790.html#a39adef3ae54efd4433805bd8ad4719be", null ],
-    [ "GetAI", "d1/d49/a17790.html#a02d928ac4ef1704cee2498ebe6533561", null ]
+    [ "npc_gunship_boarding_leaderAI", "d1/d49/a17790.html#ac20099905fd6fddda2561b88cf077b77", null ],
+    [ "JustEngagedWith", "d1/d49/a17790.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
+    [ "UpdateAI", "d1/d49/a17790.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
+    [ "_events", "d1/d49/a17790.html#affb899bbaa288e72a48d5518367b023d", null ]
 ];

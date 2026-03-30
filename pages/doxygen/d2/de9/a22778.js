@@ -1,8 +1,6 @@
 var a22778 =
 [
-    [ "Load", "d2/de9/a22778.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "d2/de9/a22778.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "d2/de9/a22778.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "d2/de9/a22778.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "d2/de9/a22778.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "OnPeriodic", "d2/de9/a22778.html#aef6afe014ce90711cd7628563aada2a4", null ],
+    [ "PrepareAuraScript", "d2/de9/a22778.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
+    [ "Register", "d2/de9/a22778.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
 ];

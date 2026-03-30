@@ -1,5 +1,6 @@
 var a19390 =
 [
-    [ "at_frozen_throne_teleport", "db/d1c/a19390.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "db/d1c/a19390.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "DespawnTime", "db/d1c/a19390.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "db/d1c/a19390.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "db/d1c/a19390.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

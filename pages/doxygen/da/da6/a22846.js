@@ -1,6 +1,6 @@
 var a22846 =
 [
-    [ "HandleSharedRule", "da/da6/a22846.html#a94b783490dafae872b65e0bbfed156b9", null ],
-    [ "PrepareSpellScript", "da/da6/a22846.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
-    [ "Register", "da/da6/a22846.html#a31f2d90059e62da77a719a192d62328b", null ]
+    [ "HandleEffectRemove", "da/da6/a22846.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
+    [ "PrepareAuraScript", "da/da6/a22846.html#a5fa56f4d61c63487919bb2080795e391", null ],
+    [ "Register", "da/da6/a22846.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
 ];

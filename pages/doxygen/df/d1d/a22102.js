@@ -1,10 +1,9 @@
 var a22102 =
 [
-    [ "npc_infra_green_bomber_genericAI", "df/d1d/a22102.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "df/d1d/a22102.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "df/d1d/a22102.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "df/d1d/a22102.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "df/d1d/a22102.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "df/d1d/a22102.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "df/d1d/a22102.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "HandleFinish", "df/d1d/a22102.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "df/d1d/a22102.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "df/d1d/a22102.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "df/d1d/a22102.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "df/d1d/a22102.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "df/d1d/a22102.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

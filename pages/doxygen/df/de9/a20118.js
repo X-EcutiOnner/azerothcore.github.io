@@ -1,8 +1,7 @@
 var a20118 =
 [
-    [ "npc_algalon_worm_hole", "df/de9/a20118.html#a546bd0ede2586fcbe3812698b68528d4", null ],
-    [ "JustSummoned", "df/de9/a20118.html#a077425b35d86c007daa93fc8b1fd9717", null ],
-    [ "Reset", "df/de9/a20118.html#a363814abdee714faddfd966b11a4fddc", null ],
-    [ "UpdateAI", "df/de9/a20118.html#a16f644be53169adc67fc971bdeaa7263", null ],
-    [ "_summonTimer", "df/de9/a20118.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
+    [ "HandleAfterHit", "df/de9/a20118.html#a75953cbb3a288fd373e602ed07d84441", null ],
+    [ "PrepareSpellScript", "df/de9/a20118.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
+    [ "Register", "df/de9/a20118.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
+    [ "Validate", "df/de9/a20118.html#aea2b951dd2353800958f654df58d8fd8", null ]
 ];

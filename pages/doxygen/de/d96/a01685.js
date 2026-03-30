@@ -1,20 +1,24 @@
 var a01685 =
 [
-    [ "CreatureTextEntry", "d4/d51/a11915.html", "d4/d51/a11915" ],
-    [ "CreatureTextLocale", "d0/d87/a11919.html", "d0/d87/a11919" ],
-    [ "CreatureTextId", "d4/d5f/a11923.html", "d4/d5f/a11923" ],
-    [ "CreatureTextMgr", "df/d1e/a11927.html", "df/d1e/a11927" ],
-    [ "CreatureTextLocalizer< Builder >", "d8/da5/a11931.html", "d8/da5/a11931" ],
-    [ "sCreatureTextMgr", "de/d96/a01685.html#a2dc428da007cefe454220dcb355a1cde", null ],
-    [ "CreatureTextGroup", "de/d96/a01685.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
-    [ "CreatureTextHolder", "de/d96/a01685.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
-    [ "CreatureTextMap", "de/d96/a01685.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
-    [ "LocaleCreatureTextMap", "de/d96/a01685.html#ab39b2d82775a84108d19ed009bd14747", null ],
-    [ "CreatureTextRange", "de/d96/a01685.html#adf847039afbebeda9e21210c1f4eb052", [
-      [ "TEXT_RANGE_NORMAL", "de/d96/a01685.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
-      [ "TEXT_RANGE_AREA", "de/d96/a01685.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
-      [ "TEXT_RANGE_ZONE", "de/d96/a01685.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
-      [ "TEXT_RANGE_MAP", "de/d96/a01685.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
-      [ "TEXT_RANGE_WORLD", "de/d96/a01685.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
-    ] ]
+    [ "RegisterShadowLabyrinthCreatureAI", "de/d96/a01685.html#afbd2592662281ddc8b6d11567efe9a50", null ],
+    [ "ShadowLabyrinthScriptName", "de/d96/a01685.html#ab96ece1dcc827c0af968525da00da892", null ],
+    [ "slData", "de/d96/a01685.html#a0bb87d52cf69de5a588288e14237b87d", [
+      [ "TYPE_RITUALISTS", "de/d96/a01685.html#a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948", null ],
+      [ "TYPE_HELLMAW", "de/d96/a01685.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f", null ],
+      [ "DATA_BLACKHEARTTHEINCITEREVENT", "de/d96/a01685.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26", null ],
+      [ "DATA_GRANDMASTER_VORPIL", "de/d96/a01685.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748", null ],
+      [ "DATA_GRANDMASTER_VORPIL_EVENT", "de/d96/a01685.html#a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b", null ],
+      [ "DATA_MURMUR", "de/d96/a01685.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900", null ],
+      [ "DATA_MURMUREVENT", "de/d96/a01685.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f", null ],
+      [ "MAX_ENCOUNTER", "de/d96/a01685.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d", null ]
+    ] ],
+    [ "slNPCandGO", "de/d96/a01685.html#a5aeaf5f332ee73166572f5313be89bf1", [
+      [ "NPC_CABAL_RITUALIST", "de/d96/a01685.html#a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a", null ],
+      [ "NPC_HELLMAW", "de/d96/a01685.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b", null ],
+      [ "GO_REFECTORY_DOOR", "de/d96/a01685.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c", null ],
+      [ "GO_SCREAMING_HALL_DOOR", "de/d96/a01685.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a", null ]
+    ] ],
+    [ "GetShadowLabyrinthAI", "de/d96/a01685.html#a04723307a726c0b79db08448db0704db", null ],
+    [ "EncounterCount", "de/d96/a01685.html#ae1fbcd81e7256d27efa0288994753839", null ],
+    [ "PersistentDataCount", "de/d96/a01685.html#aa38a92afffebaf4b33726515956b256b", null ]
 ];

@@ -1,6 +1,6 @@
 var a13914 =
 [
-    [ "HandlePeriodic", "d2/d44/a13914.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
-    [ "PrepareAuraScript", "d2/d44/a13914.html#a2722b97e12e9371745d7f38504d9efdf", null ],
-    [ "Register", "d2/d44/a13914.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
+    [ "OnEffect", "d2/d44/a13914.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "d2/d44/a13914.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "d2/d44/a13914.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

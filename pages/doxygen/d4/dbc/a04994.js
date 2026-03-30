@@ -1,7 +1,7 @@
 var a04994 =
 [
-    [ "LiquidInfo", "d4/dbc/a04994.html#a0caefac43d2f5c59446e2a9f7e565c11", null ],
-    [ "LiquidInfo", "d4/dbc/a04994.html#abfae4e75223a93b5b71840f60710afb9", null ],
-    [ "level", "d4/dbc/a04994.html#ade8f31cc9adc77ff82724134b5ebba24", null ],
-    [ "type", "d4/dbc/a04994.html#a46eda7aed64f2a5b0bd5ce1f88942c20", null ]
+    [ "WhoListPlayerInfo", "da/d03/a07750.html", "da/d03/a07750" ],
+    [ "WhoListCacheMgr", "dc/dbf/a07754.html", "dc/dbf/a07754" ],
+    [ "sWhoListCacheMgr", "d4/dbc/a04994.html#aae5ef4cf031d5523b7d5fda6d83af41a", null ],
+    [ "WhoListInfoVector", "d4/dbc/a04994.html#a88bd249c0903724edb2c2d5416962534", null ]
 ];

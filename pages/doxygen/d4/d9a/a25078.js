@@ -1,6 +1,5 @@
 var a25078 =
 [
-    [ "PrepareAuraScript", "d4/d9a/a25078.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
-    [ "Register", "d4/d9a/a25078.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
-    [ "AuraEffectHandleModes", "d4/d9a/a25078.html#aed1cfe63d82450b526e154678fb97ac4", null ]
+    [ "PrepareSpellScript", "d4/d9a/a25078.html#a096abf53c6e622875c463060e986b5ef", null ],
+    [ "Register", "d4/d9a/a25078.html#a68905cc33f09dbb42db67139193530cb", null ]
 ];

@@ -1,6 +1,8 @@
 var a18750 =
 [
-    [ "npc_shambling_horror_iccAI", "dd/d65/a18754.html", "dd/d65/a18754" ],
-    [ "npc_shambling_horror_icc", "d0/d14/a18750.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
-    [ "GetAI", "d0/d14/a18750.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
+    [ "DecayPeriodicTimer", "d0/d14/a18750.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d0/d14/a18750.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d0/d14/a18750.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d0/d14/a18750.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d0/d14/a18750.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

@@ -1,6 +1,6 @@
 var a21182 =
 [
-    [ "boss_skadiAI", "d9/dd0/a21186.html", "d9/dd0/a21186" ],
-    [ "boss_skadi", "dc/d68/a21182.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "dc/d68/a21182.html#a4b66199169442af5ec6542be71c19033", null ]
+    [ "npc_azure_raiderAI", "d9/dd0/a21186.html", "d9/dd0/a21186" ],
+    [ "npc_azure_raider", "dc/d68/a21182.html#a249abee0df263e183341193b828a310c", null ],
+    [ "GetAI", "dc/d68/a21182.html#a88a45e3b117c5105f7541d640dda8470", null ]
 ];

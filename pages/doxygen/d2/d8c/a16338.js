@@ -1,15 +1,15 @@
 var a16338 =
 [
-    [ "boss_volazj", "d2/d8c/a16338.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
-    [ "CheckPhaseMinions", "d2/d8c/a16338.html#aa79bf97b6772956795bd2f16b85e061f", null ],
-    [ "GetPlrInsanityAuraId", "d2/d8c/a16338.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
-    [ "JustDied", "d2/d8c/a16338.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
-    [ "JustEngagedWith", "d2/d8c/a16338.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
-    [ "KilledUnit", "d2/d8c/a16338.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
-    [ "Reset", "d2/d8c/a16338.html#a0377375b89b02db3cae01390fdd13ee2", null ],
-    [ "ResetPlayersPhaseMask", "d2/d8c/a16338.html#afbfa62f2b72a95434348f74fdda46da6", null ],
-    [ "ScheduleTasks", "d2/d8c/a16338.html#a44a8aa836a45e5a9827814bb731d2882", null ],
-    [ "SetData", "d2/d8c/a16338.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
-    [ "UpdateAI", "d2/d8c/a16338.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
-    [ "insanityPhase", "d2/d8c/a16338.html#ae90de1e956eb3653c8c2f0c04d89585b", null ]
+    [ "npc_onyx_flamecallerAI", "d2/d8c/a16338.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
+    [ "AddWaypoints", "d2/d8c/a16338.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
+    [ "EnterEvadeMode", "d2/d8c/a16338.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
+    [ "IsSummonedBy", "d2/d8c/a16338.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
+    [ "JustEngagedWith", "d2/d8c/a16338.html#a3cba2cd9a920816bee993ae2986639a0", null ],
+    [ "Reset", "d2/d8c/a16338.html#a756a44feb79eb56f443ee16995a2566d", null ],
+    [ "UpdateEscortAI", "d2/d8c/a16338.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
+    [ "WaypointReached", "d2/d8c/a16338.html#a8b510bce47929e85741f5debd857de8d", null ],
+    [ "WaypointReached", "d2/d8c/a16338.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_events", "d2/d8c/a16338.html#a9280b604135308078860c20667da9819", null ],
+    [ "_instance", "d2/d8c/a16338.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
+    [ "_lavaGoutCount", "d2/d8c/a16338.html#a1f46c988316c1870f506a66f2390e79b", null ]
 ];

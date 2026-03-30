@@ -1,6 +1,6 @@
 var a18166 =
 [
-    [ "PrepareSpellScript", "dc/d10/a18166.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "dc/d10/a18166.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "dc/d10/a18166.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "npc_big_oozeAI", "dc/d84/a18170.html", "dc/d84/a18170" ],
+    [ "npc_big_ooze", "dc/d10/a18166.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "dc/d10/a18166.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

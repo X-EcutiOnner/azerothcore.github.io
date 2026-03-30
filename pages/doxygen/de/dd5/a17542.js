@@ -1,6 +1,6 @@
 var a17542 =
 [
-    [ "instance_pit_of_saron_InstanceScript", "d3/d77/a17546.html", "d3/d77/a17546" ],
-    [ "instance_pit_of_saron", "de/dd5/a17542.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
-    [ "GetInstanceScript", "de/dd5/a17542.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
+    [ "KnockIntoAir", "de/dd5/a17542.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "de/dd5/a17542.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "de/dd5/a17542.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

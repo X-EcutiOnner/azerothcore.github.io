@@ -1,21 +1,10 @@
 var a12966 =
 [
-    [ "boss_majordomoAI", "d7/d03/a12966.html#a55c13b164aa2d0bc2bd4a18f3043fca2", null ],
-    [ "CanAIAttack", "d7/d03/a12966.html#adcd7b8ced551c2ee3868f6586778ca64", null ],
-    [ "DamageTaken", "d7/d03/a12966.html#a7cc99275d0b798a56aeb189f364669e9", null ],
-    [ "DoAction", "d7/d03/a12966.html#ae3820f98568287d44b6366416f858858", null ],
-    [ "InitializeAI", "d7/d03/a12966.html#ae3adee89e63c289f1dd38e0f7700e67b", null ],
-    [ "JustDied", "d7/d03/a12966.html#a8db4401bfec6986abe2490e1bb05b9ee", null ],
-    [ "JustEngagedWith", "d7/d03/a12966.html#a8ff20148be5869f2ab4bb8d66f2fea5b", null ],
-    [ "JustReachedHome", "d7/d03/a12966.html#aaeccf6f1c74dc1109b3b0968f5cc57c6", null ],
-    [ "JustSummoned", "d7/d03/a12966.html#a51bea2ba94084c0ea6a8da98f08e02ce", null ],
-    [ "KilledUnit", "d7/d03/a12966.html#a986f347bfe35f17fada815595825b547", null ],
-    [ "MovementInform", "d7/d03/a12966.html#a49ed1d7da066305a46ab99fbd897572a", null ],
-    [ "Reset", "d7/d03/a12966.html#aba684c09253ba1cccf788fbf01a10d71", null ],
-    [ "SpellHit", "d7/d03/a12966.html#ae40ac9fdd49c182daff81f411d316bb4", null ],
-    [ "SummonedCreatureDies", "d7/d03/a12966.html#af1e7213b798cdab457d8b32024da414e", null ],
-    [ "UpdateAI", "d7/d03/a12966.html#ae3b52ef5527ab932d1bfa479ed767b0f", null ],
-    [ "aliveMinionsGUIDS", "d7/d03/a12966.html#a9571e4fca8a95459d9037e656ecd6454", null ],
-    [ "majordomoSummonsData", "d7/d03/a12966.html#a2cf09a0ea3428cd7f49e00b0ab629c3e", null ],
-    [ "static_minionsGUIDS", "d7/d03/a12966.html#ab06ea927cb87aabbd5367399cb2b17eb", null ]
+    [ "npc_netherspite_infernal", "d7/d03/a12966.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d7/d03/a12966.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d7/d03/a12966.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d7/d03/a12966.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d7/d03/a12966.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d7/d03/a12966.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d7/d03/a12966.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

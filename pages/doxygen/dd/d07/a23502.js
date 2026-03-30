@@ -1,11 +1,11 @@
 var a23502 =
 [
-    [ "boss_krosh_firehand", "dd/d07/a23502.html#a1ef3618844f086de7875f26e7e6190f9", null ],
-    [ "AttackStart", "dd/d07/a23502.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
-    [ "JustDied", "dd/d07/a23502.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
-    [ "JustEngagedWith", "dd/d07/a23502.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
-    [ "Reset", "dd/d07/a23502.html#a989c4b762a7cdb228b245e91881d97a2", null ],
-    [ "UpdateAI", "dd/d07/a23502.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
-    [ "_scheduler", "dd/d07/a23502.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
-    [ "instance", "dd/d07/a23502.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
+    [ "boss_high_astromancer_solarian", "dd/d07/a23502.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "dd/d07/a23502.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "dd/d07/a23502.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "dd/d07/a23502.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "dd/d07/a23502.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "dd/d07/a23502.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "dd/d07/a23502.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "dd/d07/a23502.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

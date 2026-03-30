@@ -1,6 +1,6 @@
 var a18662 =
 [
-    [ "HandleScript", "d3/dff/a18662.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "d3/dff/a18662.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "d3/dff/a18662.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d3/d54/a18666.html", "d3/d54/a18666" ],
+    [ "npc_green_dragon_combat_trigger", "d3/dff/a18662.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "d3/dff/a18662.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

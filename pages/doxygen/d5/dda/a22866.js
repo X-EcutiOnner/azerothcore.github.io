@@ -1,6 +1,6 @@
 var a22866 =
 [
-    [ "PrepareAuraScript", "d5/dda/a22866.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "d5/dda/a22866.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "d5/dda/a22866.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "HandleScriptEffect", "d5/dda/a22866.html#a62ed9bff154c5aab74e044f8f9982263", null ],
+    [ "PrepareSpellScript", "d5/dda/a22866.html#a0e87265cf22ef8b4e302b8e216123395", null ],
+    [ "Register", "d5/dda/a22866.html#a0d722447d91991462245e8b392d20e10", null ]
 ];

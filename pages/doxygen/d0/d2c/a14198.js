@@ -1,9 +1,9 @@
 var a14198 =
 [
-    [ "npc_tyrion_spybotAI", "d0/d2c/a14198.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "d0/d2c/a14198.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "d0/d2c/a14198.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "d0/d2c/a14198.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "uiPhase", "d0/d2c/a14198.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "d0/d2c/a14198.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "npc_amanishi_lookout", "d0/d2c/a14198.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "d0/d2c/a14198.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "d0/d2c/a14198.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "d0/d2c/a14198.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "d0/d2c/a14198.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "d0/d2c/a14198.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

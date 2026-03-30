@@ -1,6 +1,6 @@
 var a16686 =
 [
-    [ "HandleHealPct", "d1/de9/a16686.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "d1/de9/a16686.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "d1/de9/a16686.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "npc_toc_priestAI", "da/db9/a16690.html", "da/db9/a16690" ],
+    [ "npc_toc_priest", "d1/de9/a16686.html#a0e360a2cc053434d2f76826683da8eee", null ],
+    [ "GetAI", "d1/de9/a16686.html#a6056a81bef962a02537d525f07d1c302", null ]
 ];

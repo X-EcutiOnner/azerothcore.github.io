@@ -1,9 +1,9 @@
 var a20650 =
 [
-    [ "npc_ulduar_bot_summon_trigger", "d0/df7/a20650.html#a0d489ab4f401fc44fbc712fb84f87ec7", null ],
-    [ "DoAction", "d0/df7/a20650.html#a776782a85892d2d674773573be25bfa0", null ],
-    [ "Reset", "d0/df7/a20650.html#a4ec8487028b188347cf0c9a080076fe6", null ],
-    [ "UpdateAI", "d0/df7/a20650.html#a788d3eaba382e3af897678f6709a0242", null ],
-    [ "option", "d0/df7/a20650.html#ac44b792e3b86372bbdc7033b14f1aefc", null ],
-    [ "timer", "d0/df7/a20650.html#a05dc6f7034c1b83869d2498e51e3a928", null ]
+    [ "HandleOnEffectApply", "d0/df7/a20650.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "d0/df7/a20650.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "d0/df7/a20650.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "d0/df7/a20650.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "d0/df7/a20650.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "d0/df7/a20650.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

@@ -1,19 +1,13 @@
 var a14698 =
 [
-    [ "npc_dark_iron_guzzler", "df/d7b/a14698.html#a53ce152d0bf8e727ed0b385bb2293363", null ],
-    [ "AttackStart", "df/d7b/a14698.html#a47295b69eaecf3c001c43a1550dd1a80", null ],
-    [ "DamageTaken", "df/d7b/a14698.html#affd1f78b5c1df26824b08416d6bd03a1", null ],
-    [ "FindNextKeg", "df/d7b/a14698.html#ac063799097f89c09f30bed79151e8ed6", null ],
-    [ "GetTarget", "df/d7b/a14698.html#a076305d37ce348b24b35f7956385e8fc", null ],
-    [ "JustEngagedWith", "df/d7b/a14698.html#ae8142b745e493ab4a77b9df12ea9474d", null ],
-    [ "KilledUnit", "df/d7b/a14698.html#a018513f23158fcd6f929a90cfecfde4c", null ],
-    [ "MoveInLineOfSight", "df/d7b/a14698.html#aaa4df56f1f587029b24626ae1aca552a", null ],
-    [ "MovementInform", "df/d7b/a14698.html#ada6c7f97e25eb545926d6531495bb397", null ],
-    [ "Reset", "df/d7b/a14698.html#af608024d4b41fa218a7baeae9bee72ef", null ],
-    [ "SayText", "df/d7b/a14698.html#a872bdd2e2ff2b72c983658c63d74e2c3", null ],
-    [ "SpellHit", "df/d7b/a14698.html#ae195867416885e570c2c9a4837ac33c1", null ],
-    [ "UpdateAI", "df/d7b/a14698.html#a5decab6f76369ec9ce037dd050898423", null ],
-    [ "attacking", "df/d7b/a14698.html#a18a1d7e61b99819666366c6791154e01", null ],
-    [ "targetGUID", "df/d7b/a14698.html#a620df1502373954020a910853cb6dd3a", null ],
-    [ "timer", "df/d7b/a14698.html#a9748d587b61c148a27be690a6354473f", null ]
+    [ "boss_headless_horseman_head", "df/d7b/a14698.html#a12343a1bb6e30681b0c82ba649bd5b8a", null ],
+    [ "DamageTaken", "df/d7b/a14698.html#a73e75350937736ad7cfe725b785b3768", null ],
+    [ "GetOwner", "df/d7b/a14698.html#ab72d1f1891401754ffe032ed0534882d", null ],
+    [ "Reset", "df/d7b/a14698.html#a367e8b82d6d3bb08e7106c71295610f9", null ],
+    [ "SpellHit", "df/d7b/a14698.html#adcd9ce9755f8dbc1391b4d2b3f5e1669", null ],
+    [ "SpellHitTarget", "df/d7b/a14698.html#a0d73ba0831118d135137953f91e7c5d7", null ],
+    [ "UpdateAI", "df/d7b/a14698.html#a300dec039465535914bf6879423a0962", null ],
+    [ "handled", "df/d7b/a14698.html#a72c0d0c8c534fa8fdc1370203c30c3a3", null ],
+    [ "pct", "df/d7b/a14698.html#a9752326bac7ecbcdfde5b12f55b20be2", null ],
+    [ "timer", "df/d7b/a14698.html#ae7c669e65659459fd83f91b5e9ed1347", null ]
 ];

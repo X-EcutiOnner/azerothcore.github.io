@@ -1,7 +1,5 @@
 var a27702 =
 [
-    [ "HandleDummy", "d9/dcc/a27702.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
-    [ "PrepareSpellScript", "d9/dcc/a27702.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
-    [ "Register", "d9/dcc/a27702.html#aee02661fa8845afd666ca27163b4a761", null ],
-    [ "Validate", "d9/dcc/a27702.html#aba9079e2418281315029c839b22df1c5", null ]
+    [ "achievement_not_even_a_scratch", "d9/dcc/a27702.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d9/dcc/a27702.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

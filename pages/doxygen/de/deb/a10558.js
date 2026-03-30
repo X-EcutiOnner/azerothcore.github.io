@@ -1,5 +1,6 @@
 var a10558 =
 [
-    [ "CommandScript", "de/deb/a10558.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
-    [ "GetCommands", "de/deb/a10558.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
+    [ "AreaTriggerScript", "de/deb/a10558.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "IsDatabaseBound", "de/deb/a10558.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
+    [ "OnTrigger", "de/deb/a10558.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
 ];

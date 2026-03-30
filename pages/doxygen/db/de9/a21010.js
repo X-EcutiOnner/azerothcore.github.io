@@ -1,6 +1,7 @@
 var a21010 =
 [
-    [ "CheckCast", "db/de9/a21010.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "db/de9/a21010.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "db/de9/a21010.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "PrepareAuraScript", "db/de9/a21010.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "db/de9/a21010.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "db/de9/a21010.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "db/de9/a21010.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

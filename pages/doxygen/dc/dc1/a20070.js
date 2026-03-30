@@ -1,8 +1,7 @@
 var a20070 =
 [
-    [ "brann_bronzebeardAI", "d2/d24/a20074.html", "d2/d24/a20074" ],
-    [ "brann_bronzebeard", "dc/dc1/a20070.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "dc/dc1/a20070.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "dc/dc1/a20070.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "dc/dc1/a20070.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "boss_freya_healthy_spore", "dc/dc1/a20070.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "dc/dc1/a20070.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "dc/dc1/a20070.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "dc/dc1/a20070.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

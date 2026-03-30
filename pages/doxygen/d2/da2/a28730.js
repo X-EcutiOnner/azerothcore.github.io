@@ -1,5 +1,8 @@
 var a28730 =
 [
-    [ "go_transport_the_purple_princess", "d2/da2/a28730.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "d2/da2/a28730.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "gender", "d2/da2/a28730.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "d2/da2/a28730.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "d2/da2/a28730.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "d2/da2/a28730.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "d2/da2/a28730.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

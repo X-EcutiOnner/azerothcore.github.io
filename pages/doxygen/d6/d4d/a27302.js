@@ -1,9 +1,7 @@
 var a27302 =
 [
-    [ "HandleAfterHit", "d6/d4d/a27302.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
-    [ "HandleBeforeHit", "d6/d4d/a27302.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
-    [ "Load", "d6/d4d/a27302.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
-    [ "PrepareSpellScript", "d6/d4d/a27302.html#a496c27472579be3b8989868765ec19ef", null ],
-    [ "Register", "d6/d4d/a27302.html#a133e338413e960c442446a2a4a13b85b", null ],
-    [ "_stackAmount", "d6/d4d/a27302.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
+    [ "HandleProc", "d6/d4d/a27302.html#a4ea5706e6f0caa7a9c93b779bb71349f", null ],
+    [ "PrepareAuraScript", "d6/d4d/a27302.html#af83570899be1f91a1273cc5f46792b57", null ],
+    [ "Register", "d6/d4d/a27302.html#a1406e9a52a4e24a71fd26192abc64c73", null ],
+    [ "Validate", "d6/d4d/a27302.html#ab6528e1c69cbf7fdb8bb7e792908d02a", null ]
 ];

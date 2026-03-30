@@ -1,6 +1,7 @@
 var a16010 =
 [
-    [ "npc_silva_filnaveth", "d3/d99/a16010.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "d3/d99/a16010.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "d3/d99/a16010.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_ranshallaAI", "d5/df2/a16014.html", "d5/df2/a16014" ],
+    [ "npc_ranshalla", "d3/d99/a16010.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "d3/d99/a16010.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "d3/d99/a16010.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

@@ -1,7 +1,7 @@
 var a29738 =
 [
-    [ "SetUp", "d4/d1e/a29738.html#a63d060f7643fc3d35eb4f0fd082f1af4", null ],
-    [ "TearDown", "d4/d1e/a29738.html#a685e2dbb620ab792ed3e952cf2b5dab8", null ],
-    [ "_originalWorld", "d4/d1e/a29738.html#aec7f3f7af8f936fb2419cee4be837eb7", null ],
-    [ "_worldMock", "d4/d1e/a29738.html#a2d10e74ba4f778b395a48eb68a586711", null ]
+    [ "walkableClimb", "d4/d1e/a29738.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
+    [ "walkableHeight", "d4/d1e/a29738.html#a32f39a07562c47be0a311d7959678044", null ],
+    [ "walkableRadius", "d4/d1e/a29738.html#a6e708a591e7b5597e129a653e1379a1e", null ],
+    [ "walkableSlopeAngle", "d4/d1e/a29738.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
 ];

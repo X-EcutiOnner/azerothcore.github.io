@@ -1,13 +1,6 @@
 var a14846 =
 [
-    [ "go_firework_show", "dc/d7b/a14846.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "dc/d7b/a14846.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "dc/d7b/a14846.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "dc/d7b/a14846.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "dc/d7b/a14846.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "dc/d7b/a14846.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "dc/d7b/a14846.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "dc/d7b/a14846.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "dc/d7b/a14846.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "dc/d7b/a14846.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "PrepareAuraScript", "dc/d7b/a14846.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "dc/d7b/a14846.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "dc/d7b/a14846.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

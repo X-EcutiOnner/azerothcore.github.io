@@ -1,15 +1,6 @@
 var a19542 =
 [
-    [ "boss_grobbulusAI", "d5/d8c/a19542.html#ad9e7cd519e30eded06f76bcc69189117", null ],
-    [ "JustDied", "d5/d8c/a19542.html#aa717d51aa10c139473031072065064ce", null ],
-    [ "JustEngagedWith", "d5/d8c/a19542.html#a4c74d53fe029d02df9652dbb87a09242", null ],
-    [ "JustSummoned", "d5/d8c/a19542.html#af266d40889fbecd50a118a579b711757", null ],
-    [ "KilledUnit", "d5/d8c/a19542.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
-    [ "PullChamberAdds", "d5/d8c/a19542.html#ad215f20452cd48c2c2bca394410d739b", null ],
-    [ "Reset", "d5/d8c/a19542.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
-    [ "SummonedCreatureDespawn", "d5/d8c/a19542.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
-    [ "UpdateAI", "d5/d8c/a19542.html#aafd79debbe76b02a1478c03daf235b05", null ],
-    [ "dropSludgeTimer", "d5/d8c/a19542.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
-    [ "events", "d5/d8c/a19542.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
-    [ "summons", "d5/d8c/a19542.html#a39ce39397f845a4fddf20da5f5812713", null ]
+    [ "npc_oculus_unstable_sphereAI", "d4/d52/a19546.html", "d4/d52/a19546" ],
+    [ "npc_oculus_unstable_sphere", "d5/d8c/a19542.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "d5/d8c/a19542.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

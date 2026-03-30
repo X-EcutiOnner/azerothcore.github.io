@@ -1,5 +1,6 @@
 var a15006 =
 [
-    [ "PrepareSpellScript", "dd/d34/a15006.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
-    [ "Register", "dd/d34/a15006.html#a99f7d0be5668d5b005400140fc9865a4", null ]
+    [ "instance_mount_hyjal_InstanceMapScript", "d5/d3b/a15010.html", "d5/d3b/a15010" ],
+    [ "instance_hyjal", "dd/d34/a15006.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
+    [ "GetInstanceScript", "dd/d34/a15006.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
 ];

@@ -1,9 +1,6 @@
 var a29514 =
 [
-    [ "flags", "d4/d70/a29514.html#a064de2e88c563121bbb78549a7bab868", null ],
-    [ "_flags", "d4/d70/a29514.html#a16f1b30a57eb6703e8073ef55d988391", null ],
-    [ "bits", "d4/d70/a29514.html#a529f1856635132646457c57f3546f4ec", null ],
-    [ "configKey", "d4/d70/a29514.html#af14d118016b9e01612769c00f13aa2d6", null ],
-    [ "oldKey", "d4/d70/a29514.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
-    [ "owner", "d4/d70/a29514.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
+    [ "CreateArmorProcConfig", "d4/d70/a29514.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "d4/d70/a29514.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "d4/d70/a29514.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

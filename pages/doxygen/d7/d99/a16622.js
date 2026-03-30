@@ -1,8 +1,6 @@
 var a16622 =
 [
-    [ "OnApply", "d7/d99/a16622.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "d7/d99/a16622.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "d7/d99/a16622.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "d7/d99/a16622.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "d7/d99/a16622.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "npc_frost_sphereAI", "db/dd6/a16626.html", "db/dd6/a16626" ],
+    [ "npc_frost_sphere", "d7/d99/a16622.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "d7/d99/a16622.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

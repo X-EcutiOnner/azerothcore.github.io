@@ -1,6 +1,8 @@
 var a24034 =
 [
-    [ "npc_fel_guard_houndAI", "d2/da5/a24038.html", "d2/da5/a24038" ],
-    [ "npc_fel_guard_hound", "d1/d37/a24034.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d1/d37/a24034.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "npc_pet_dk_ghoul", "d1/d37/a24034.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d1/d37/a24034.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d1/d37/a24034.html#a6095e3619b470283b9875b90e2805b54", null ],
+    [ "UpdateAI", "d1/d37/a24034.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
+    [ "_summonTargetGUID", "d1/d37/a24034.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
 ];

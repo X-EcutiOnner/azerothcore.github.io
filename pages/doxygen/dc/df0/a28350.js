@@ -1,6 +1,6 @@
 var a28350 =
 [
-    [ "guard_shattrath_aldorAI", "dc/d71/a28354.html", "dc/d71/a28354" ],
-    [ "guard_shattrath_aldor", "dc/df0/a28350.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "dc/df0/a28350.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "npc_necropolis_proxy", "dc/df0/a28350.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "dc/df0/a28350.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "dc/df0/a28350.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

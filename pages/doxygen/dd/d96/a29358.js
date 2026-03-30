@@ -1,7 +1,7 @@
 var a29358 =
 [
-    [ "ID", "dd/d96/a29358.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "dd/d96/a29358.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "dd/d96/a29358.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "dd/d96/a29358.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "EnsureScriptRegistriesInitialized", "dd/d96/a29358.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
+    [ "SetUp", "dd/d96/a29358.html#a6934840a3250922d4de42044dd35211c", null ],
+    [ "TearDown", "dd/d96/a29358.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
+    [ "previousWorld_", "dd/d96/a29358.html#adff0b9d4abad7843811c543dfd10572e", null ]
 ];

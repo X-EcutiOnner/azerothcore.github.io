@@ -1,4 +1,6 @@
 var a02048 =
 [
-    [ "_modulesList", "d1/d39/a02048.html#aa8df8c5e3d2ad2852ea850d12636d578", null ]
+    [ "bg_commandscript", "d2/d87/a12134.html", "d2/d87/a12134" ],
+    [ "AddSC_bag_commandscript", "d1/d39/a02048.html#a8fa1e803122341d611168b2b62fde4e5", null ],
+    [ "itemQualityToString", "d1/d39/a02048.html#af266597924b9d3f439ffc9908001d2cb", null ]
 ];

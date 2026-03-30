@@ -1,6 +1,7 @@
 var a17606 =
 [
-    [ "npc_pos_freed_slaveAI", "d9/d9c/a17610.html", "d9/d9c/a17610" ],
-    [ "npc_pos_freed_slave", "d7/d04/a17606.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "d7/d04/a17606.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "achievement_once_bitten_twice_shy", "d7/d04/a17606.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "d7/d04/a17606.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "d7/d04/a17606.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "d7/d04/a17606.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

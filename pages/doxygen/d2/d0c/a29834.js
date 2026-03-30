@@ -1,25 +1,7 @@
 var a29834 =
 [
-    [ "AddsValueBeyondDBC", "d2/d0c/a29834.html#ada68807ba3950313c5a7652a7fe85c40", null ],
-    [ "HasDBCData", "d2/d0c/a29834.html#a70c20b8efd966a3051591e4292957f21", null ],
-    [ "ToSpellProcEntry", "d2/d0c/a29834.html#a70ebb9c47633f6c55f863593d1f1b0d7", null ],
-    [ "AttributesMask", "d2/d0c/a29834.html#a32a562ccd8812c33b385fb6a4812693f", null ],
-    [ "Chance", "d2/d0c/a29834.html#a9e4e897bb784e63d991e76f8efd393ab", null ],
-    [ "Charges", "d2/d0c/a29834.html#a1795067c9622f90fe10afaa9086729d2", null ],
-    [ "Cooldown", "d2/d0c/a29834.html#a8ae054e7700edebf204b6b9d5285b570", null ],
-    [ "DBC_ProcChance", "d2/d0c/a29834.html#a687725337f68ab28c9f862997666b979", null ],
-    [ "DBC_ProcCharges", "d2/d0c/a29834.html#a674bdd693e94bea55c93985a04a3cde5", null ],
-    [ "DBC_ProcFlags", "d2/d0c/a29834.html#aba345f90612d66a1ae8ff83b863c3752", null ],
-    [ "DisableEffectsMask", "d2/d0c/a29834.html#a255f45e42d9ad7f4a1a71b12289f6280", null ],
-    [ "HitMask", "d2/d0c/a29834.html#aac7528939d9f28432649a5e947cb112b", null ],
-    [ "ProcFlags", "d2/d0c/a29834.html#ac62ba46b22a759991731a15b17ccf3d9", null ],
-    [ "ProcsPerMinute", "d2/d0c/a29834.html#a1005dd21ca315c4ee18cc1f0b1147590", null ],
-    [ "SchoolMask", "d2/d0c/a29834.html#ab76502dd0f6d6e9fa8608800547b097c", null ],
-    [ "SpellFamilyMask0", "d2/d0c/a29834.html#a8b316b64763de61fabe8eee119a3c33b", null ],
-    [ "SpellFamilyMask1", "d2/d0c/a29834.html#a0f2454783d5fcd2b751b40b8e32d8476", null ],
-    [ "SpellFamilyMask2", "d2/d0c/a29834.html#a74093101a8fe41b8bb641da9957d6ef2", null ],
-    [ "SpellFamilyName", "d2/d0c/a29834.html#a11a0c26f6d3e6f3b8e47e1c968841094", null ],
-    [ "SpellId", "d2/d0c/a29834.html#ad78ff047d8971788febae990abc86698", null ],
-    [ "SpellPhaseMask", "d2/d0c/a29834.html#ab2356da98d2b2c9d250d1c86056a427c", null ],
-    [ "SpellTypeMask", "d2/d0c/a29834.html#a8ac8ca4ac8ed7eb60de720bb0bac36b1", null ]
+    [ "Paths", "d2/d0c/a29834.html#aff167c694a55441bcf5504f5d1933f41", null ],
+    [ "References", "d2/d0c/a29834.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
+    [ "Sets", "d2/d0c/a29834.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
+    [ "Spawns", "d2/d0c/a29834.html#a51f24c059516683f0744b81819186c0e", null ]
 ];

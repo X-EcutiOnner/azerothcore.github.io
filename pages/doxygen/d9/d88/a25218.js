@@ -1,6 +1,5 @@
 var a25218 =
 [
-    [ "PrepareSpellScript", "d9/d88/a25218.html#a47d6dbe250410458fe54421158545efb", null ],
-    [ "Register", "d9/d88/a25218.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
-    [ "SetDest", "d9/d88/a25218.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
+    [ "PrepareSpellScript", "d9/d88/a25218.html#a2c88a98e1f76f62f745dbd83fa939506", null ],
+    [ "Register", "d9/d88/a25218.html#a93dcf131a040c95ef1b8cc5ec1d3bc37", null ]
 ];

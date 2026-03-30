@@ -1,6 +1,6 @@
 var a22894 =
 [
-    [ "boss_essence_of_sufferingAI", "da/de7/a22898.html", "da/de7/a22898" ],
-    [ "boss_essence_of_suffering", "d4/d65/a22894.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d4/d65/a22894.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "HandleDummy", "d4/d65/a22894.html#a3347413822ce083085bcf1418fbdbae2", null ],
+    [ "PrepareSpellScript", "d4/d65/a22894.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
+    [ "Register", "d4/d65/a22894.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
 ];

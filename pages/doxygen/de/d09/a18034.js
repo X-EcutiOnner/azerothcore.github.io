@@ -1,9 +1,6 @@
 var a18034 =
 [
-    [ "BattleExperienceEvent", "de/d09/a18034.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "de/d09/a18034.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "de/d09/a18034.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "de/d09/a18034.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "de/d09/a18034.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "de/d09/a18034.html#af682cc246c7fdae39cc2a1e57110badc", null ]
+    [ "boss_professor_putricideAI", "d9/db1/a18038.html", "d9/db1/a18038" ],
+    [ "boss_professor_putricide", "de/d09/a18034.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "de/d09/a18034.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

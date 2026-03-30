@@ -1,9 +1,16 @@
 var a29238 =
 [
-    [ "itemId", "dc/dde/a29238.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "dc/dde/a29238.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "dc/dde/a29238.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "dc/dde/a29238.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "dc/dde/a29238.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "dc/dde/a29238.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "AuraApplicationStub", "dc/dde/a29238.html#afaa194023ae92143078166c9a142a41d", null ],
+    [ "~AuraApplicationStub", "dc/dde/a29238.html#ada36445f6f090c6652e0567a5333bb53", null ],
+    [ "GetEffectMask", "dc/dde/a29238.html#ad74cccf28b56c1fe88988df229319dae", null ],
+    [ "GetSlot", "dc/dde/a29238.html#a30f0ddd6c6bbc974958a33ecee39135e", null ],
+    [ "HasEffect", "dc/dde/a29238.html#ad4040b722b12e54aa630abfa78cdaabd", null ],
+    [ "IsPositive", "dc/dde/a29238.html#a1bf6810ab9723ce50ddf46789d2a5045", null ],
+    [ "SetEffect", "dc/dde/a29238.html#a97383d45b0a015579a0f315474ecfcc5", null ],
+    [ "SetEffectMask", "dc/dde/a29238.html#a1fab3395f580b30fa7b2257cbcacd26a", null ],
+    [ "SetPositive", "dc/dde/a29238.html#a653fb81ddfa4c7ad855d9f1fefe172f4", null ],
+    [ "SetSlot", "dc/dde/a29238.html#a824a2ec07e911fdb02054eff2091f2ea", null ],
+    [ "_effectMask", "dc/dde/a29238.html#a9027c5f622263c32b6f7bc4a11883ddc", null ],
+    [ "_isPositive", "dc/dde/a29238.html#afc3220aa9f0403a987ad07cec1c42ced", null ],
+    [ "_slot", "dc/dde/a29238.html#aa4afd58cae5bcfd203d61a1044d72d57", null ]
 ];

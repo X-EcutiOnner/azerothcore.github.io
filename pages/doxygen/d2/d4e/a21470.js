@@ -1,8 +1,12 @@
 var a21470 =
 [
-    [ "npc_azure_raiderAI", "d2/d4e/a21470.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
-    [ "Reset", "d2/d4e/a21470.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
-    [ "UpdateAI", "d2/d4e/a21470.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
-    [ "uiConcussionBlowTimer", "d2/d4e/a21470.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
-    [ "uiMagicReflectionTimer", "d2/d4e/a21470.html#acb262ab506ea58201abfe2057525c548", null ]
+    [ "npc_wintergarde_gryphon", "d2/d4e/a21470.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
+    [ "getVillager", "d2/d4e/a21470.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
+    [ "IsSummonedBy", "d2/d4e/a21470.html#acd7cea6226034d53b854c5ed659ff949", null ],
+    [ "JustDied", "d2/d4e/a21470.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
+    [ "MovementInform", "d2/d4e/a21470.html#a8f2faf49533d27d971110681e050c060", null ],
+    [ "PassengerBoarded", "d2/d4e/a21470.html#a16c01d26aef06358f979f59fe68c09ca", null ],
+    [ "SpellHit", "d2/d4e/a21470.html#acf64143ea83321556156fde30e1a34d4", null ],
+    [ "UpdateAI", "d2/d4e/a21470.html#aa161f280e7a7370696cecc27c51ee55c", null ],
+    [ "villagerGUID", "d2/d4e/a21470.html#a56a7973a05061197192111ecf55ef14a", null ]
 ];

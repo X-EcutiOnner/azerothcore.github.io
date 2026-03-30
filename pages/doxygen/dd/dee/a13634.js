@@ -1,7 +1,6 @@
 var a13634 =
 [
-    [ "boss_apothecary_hummelAI", "d5/def/a13638.html", "d5/def/a13638" ],
-    [ "boss_apothecary_hummel", "dd/dee/a13634.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "dd/dee/a13634.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "dd/dee/a13634.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "SpectralBlastCheck", "dd/dee/a13634.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
+    [ "operator()", "dd/dee/a13634.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
+    [ "_victim", "dd/dee/a13634.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
 ];

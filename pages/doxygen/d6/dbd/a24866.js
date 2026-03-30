@@ -1,7 +1,7 @@
 var a24866 =
 [
-    [ "FilterTargets", "d6/dbd/a24866.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "d6/dbd/a24866.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "d6/dbd/a24866.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "d6/dbd/a24866.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "HandleScript", "d6/dbd/a24866.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
+    [ "Load", "d6/dbd/a24866.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
+    [ "PrepareSpellScript", "d6/dbd/a24866.html#a7616d761e7a7a708c88918302b488bb9", null ],
+    [ "Register", "d6/dbd/a24866.html#a8ca351c9e0e254369328865eefa3ff91", null ]
 ];

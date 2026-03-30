@@ -1,8 +1,9 @@
 var a09122 =
 [
-    [ "TempSummonGroupKey", "de/d1f/a09122.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
-    [ "operator<", "de/d1f/a09122.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
-    [ "_summonerEntry", "de/d1f/a09122.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
-    [ "_summonerType", "de/d1f/a09122.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
-    [ "_summonGroup", "de/d1f/a09122.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
+    [ "day", "de/d1f/a09122.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
+    [ "holidayId", "de/d1f/a09122.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
+    [ "month", "de/d1f/a09122.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
+    [ "offset", "de/d1f/a09122.html#aaa9bf14668239ea561aecc33104e245a", null ],
+    [ "type", "de/d1f/a09122.html#a25f2529332f23c93b37e5c918032eb3d", null ],
+    [ "weekday", "de/d1f/a09122.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
 ];

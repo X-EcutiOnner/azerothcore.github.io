@@ -1,13 +1,7 @@
 var a15274 =
 [
-    [ "boss_salrammAI", "d0/ddc/a15274.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "d0/ddc/a15274.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "d0/ddc/a15274.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "d0/ddc/a15274.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "d0/ddc/a15274.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "d0/ddc/a15274.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "d0/ddc/a15274.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "d0/ddc/a15274.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "d0/ddc/a15274.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "d0/ddc/a15274.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "HandleScript", "d0/ddc/a15274.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "d0/ddc/a15274.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "d0/ddc/a15274.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "d0/ddc/a15274.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

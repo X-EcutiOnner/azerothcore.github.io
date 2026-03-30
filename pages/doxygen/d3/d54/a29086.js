@@ -1,4 +1,7 @@
 var a29086 =
 [
-    [ "DisplayRaceID", "d3/d54/a29086.html#a5f3897281f18061c4508d752b2291552", null ]
+    [ "ClassMask", "d3/d54/a29086.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "d3/d54/a29086.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "d3/d54/a29086.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "d3/d54/a29086.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

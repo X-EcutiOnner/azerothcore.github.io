@@ -1,6 +1,7 @@
 var a19606 =
 [
-    [ "boss_maexxnaAI", "df/dd7/a19610.html", "df/dd7/a19610" ],
-    [ "boss_maexxna", "db/da5/a19606.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "db/da5/a19606.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "Apply", "db/da5/a19606.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "db/da5/a19606.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "db/da5/a19606.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "db/da5/a19606.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

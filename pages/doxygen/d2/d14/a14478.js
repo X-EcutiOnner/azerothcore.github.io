@@ -1,6 +1,10 @@
 var a14478 =
 [
-    [ "OnEffect", "d2/d14/a14478.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "d2/d14/a14478.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "d2/d14/a14478.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "npc_brewfest_super_brew_trigger", "d2/d14/a14478.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "d2/d14/a14478.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "d2/d14/a14478.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "d2/d14/a14478.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "d2/d14/a14478.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "d2/d14/a14478.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "d2/d14/a14478.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

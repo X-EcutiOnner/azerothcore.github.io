@@ -1,10 +1,7 @@
 var a25506 =
 [
-    [ "CalcPeriodic", "df/da9/a25506.html#a4c5793639ad7715b0dc52a803546e7cf", null ],
-    [ "CalculateSpiritAmount", "df/da9/a25506.html#a5749d91e27de05f67110178f57c214e4", null ],
-    [ "HandleEffectApply", "df/da9/a25506.html#a0de0ba95c09c87054d63974943750805", null ],
-    [ "HandlePeriodic", "df/da9/a25506.html#a2ff4241cf4535a6cb8361b9f54d7a23c", null ],
-    [ "PrepareAuraScript", "df/da9/a25506.html#aaa2c2fea4310cdba1739f02afa48a318", null ],
-    [ "Register", "df/da9/a25506.html#ae9df15062a8bd776e9a5a4a5a53fac8f", null ],
-    [ "amount", "df/da9/a25506.html#af07c7c4a2f6a4d59bee8d44b46be5552", null ]
+    [ "HandleJump", "df/da9/a25506.html#ac70f6d53e85af1ee2591e761e21872db", null ],
+    [ "HandleScriptEffect", "df/da9/a25506.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
+    [ "PrepareSpellScript", "df/da9/a25506.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
+    [ "Register", "df/da9/a25506.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
 ];

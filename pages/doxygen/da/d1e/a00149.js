@@ -1,10 +1,6 @@
 var a00149 =
 [
-    [ "Acore::has_type< T, std::tuple< Us... > >", "d4/d27/a05855.html", null ],
-    [ "Acore::is_tuple< typename >", "d7/d4b/a05859.html", null ],
-    [ "Acore::is_tuple< std::tuple< Ts... > >", "d2/dea/a05863.html", null ],
-    [ "new_from_tuple", "da/d1e/a00149.html#aac12e702d41e9aa126f7d39f0f295252", null ],
-    [ "new_from_tuple", "da/d1e/a00149.html#a028fc93107022ad23a763503c9b0bbdb", null ],
-    [ "has_type_v", "da/d1e/a00149.html#aa4e7bc2a96e641dd1642a3c61cfc96b0", null ],
-    [ "is_tuple_v", "da/d1e/a00149.html#a4104f84ad757b701a6ffbd51f5d10b9f", null ]
+    [ "Acore::Impl::GenericHMAC< HashCreator, DigestLength >", "d4/de2/a05442.html", "d4/de2/a05442" ],
+    [ "HMAC_SHA1", "da/d1e/a00149.html#a5186a2a02e2301ec3ea7b37d8b41097f", null ],
+    [ "HMAC_SHA256", "da/d1e/a00149.html#a80d906d20826d6c963f50eba5f7c4c2a", null ]
 ];

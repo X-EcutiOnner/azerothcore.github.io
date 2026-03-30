@@ -1,12 +1,6 @@
 var a13486 =
 [
-    [ "npc_koltira_deathweaverAI", "db/d87/a13486.html#adbc46fce90170aec986faacf012bd2b2", null ],
-    [ "MovementInform", "db/d87/a13486.html#afed53c190d875d0e59775ebfeb749fcf", null ],
-    [ "Reset", "db/d87/a13486.html#ac07053d3798d57449c23bfff68e12f1b", null ],
-    [ "sGossipSelect", "db/d87/a13486.html#af481beffaeb97a69483a62fd5f110616", null ],
-    [ "sQuestAccept", "db/d87/a13486.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
-    [ "StartEvent", "db/d87/a13486.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
-    [ "SummonedCreatureDies", "db/d87/a13486.html#a967575fafe29db364b4e6a00a5e0457b", null ],
-    [ "UpdateAI", "db/d87/a13486.html#ac90ed956ba45b6363a21af76393126ac", null ],
-    [ "_valrothGUID", "db/d87/a13486.html#ad041942412fb8288ff5f850ee6472e78", null ]
+    [ "boss_baroness_anastariAI", "d3/dae/a13490.html", "d3/dae/a13490" ],
+    [ "boss_baroness_anastari", "db/d87/a13486.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "db/d87/a13486.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

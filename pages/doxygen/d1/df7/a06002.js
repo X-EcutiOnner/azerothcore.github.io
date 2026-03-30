@@ -1,5 +1,8 @@
 var a06002 =
 [
-    [ "Subject", "d1/df7/a06002.html#ad9bd686973c6e59518889bd5d9b6a11f", null ],
-    [ "Text", "d1/df7/a06002.html#a95f203f9e53a61988a4d2af6ac6820a2", null ]
+    [ "Statements", "d1/df7/a06002.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
+    [ "LoginDatabaseConnection", "d1/df7/a06002.html#aed22866380f9331ff73d4437a779206c", null ],
+    [ "LoginDatabaseConnection", "d1/df7/a06002.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
+    [ "~LoginDatabaseConnection", "d1/df7/a06002.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
+    [ "DoPrepareStatements", "d1/df7/a06002.html#a3f826d59e4efa55d7825f90f434ae889", null ]
 ];

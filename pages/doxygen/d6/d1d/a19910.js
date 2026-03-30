@@ -1,8 +1,11 @@
 var a19910 =
 [
-    [ "npc_centrifuge_constructAI", "d6/d1d/a19910.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "d6/d1d/a19910.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "d6/d1d/a19910.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "d6/d1d/a19910.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "d6/d1d/a19910.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "npc_auriaya_feral_defender", "d6/d1d/a19910.html#a84425204b0ad06789edb331ed8495774", null ],
+    [ "DoAction", "d6/d1d/a19910.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
+    [ "JustDied", "d6/d1d/a19910.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
+    [ "JustEngagedWith", "d6/d1d/a19910.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
+    [ "Reset", "d6/d1d/a19910.html#a02b09b7dfdd4036827bb474a57296491", null ],
+    [ "UpdateAI", "d6/d1d/a19910.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
+    [ "_feralEssenceStack", "d6/d1d/a19910.html#a1ffc377dbad787a5eb132758124df534", null ],
+    [ "_summons", "d6/d1d/a19910.html#a0b7960f590ba76068c377cf08291ce35", null ]
 ];

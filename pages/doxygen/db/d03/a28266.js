@@ -1,5 +1,6 @@
 var a28266 =
 [
-    [ "go_southfury_moonstone", "db/d03/a28266.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "db/d03/a28266.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
+    [ "npc_pet_trainerAI", "dc/db2/a28270.html", "dc/db2/a28270" ],
+    [ "npc_pet_trainer", "db/d03/a28266.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "db/d03/a28266.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

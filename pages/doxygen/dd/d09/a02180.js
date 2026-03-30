@@ -1,4 +1,10 @@
 var a02180 =
 [
-    [ "UPDATE_TARGET", "dd/d09/a02180.html#a7147e15125e75e9e1624cd480f4afb5f", null ]
+    [ "npc_webbed_creature", "de/d57/a15658.html", "de/d57/a15658" ],
+    [ "npc_webbed_creature::npc_webbed_creatureAI", "d1/dce/a15662.html", "d1/dce/a15662" ],
+    [ "WebbedCreature", "dd/d09/a02180.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
+      [ "NPC_EXPEDITION_RESEARCHER", "dd/d09/a02180.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3", null ]
+    ] ],
+    [ "AddSC_bloodmyst_isle", "dd/d09/a02180.html#a6b9832f4bb6cfefde5bab6937fd46fae", null ],
+    [ "possibleSpawns", "dd/d09/a02180.html#ab3e43a66e02bf6f3b8cbd7c154f9d70d", null ]
 ];

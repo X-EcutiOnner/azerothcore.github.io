@@ -1,7 +1,8 @@
 var a10850 =
 [
-    [ "QueryGuildInfoResponse", "d1/d17/a10850.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "d1/d17/a10850.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "d1/d17/a10850.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "d1/d17/a10850.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "PlayedTime", "d1/d17/a10850.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "d1/d17/a10850.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "d1/d17/a10850.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "d1/d17/a10850.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "d1/d17/a10850.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

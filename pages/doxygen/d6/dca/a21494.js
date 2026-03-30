@@ -1,8 +1,6 @@
 var a21494 =
 [
-    [ "npc_azure_captainAI", "d6/dca/a21494.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "d6/dca/a21494.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "d6/dca/a21494.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "d6/dca/a21494.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "d6/dca/a21494.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "HandleSendEvent", "d6/dca/a21494.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "d6/dca/a21494.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "d6/dca/a21494.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

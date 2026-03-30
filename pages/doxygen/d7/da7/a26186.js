@@ -1,6 +1,6 @@
 var a26186 =
 [
-    [ "CheckCast", "d7/da7/a26186.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "d7/da7/a26186.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "d7/da7/a26186.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "OnRemove", "d7/da7/a26186.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "d7/da7/a26186.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "d7/da7/a26186.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

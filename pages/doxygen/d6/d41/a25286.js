@@ -1,6 +1,6 @@
 var a25286 =
 [
-    [ "HandleDummy", "d6/d41/a25286.html#a0bcbef8a2d5978498556a217ac618fed", null ],
-    [ "PrepareSpellScript", "d6/d41/a25286.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
-    [ "Register", "d6/d41/a25286.html#a2c6d9c273a3d281dacefc20970912166", null ]
+    [ "FilterTargets", "d6/d41/a25286.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
+    [ "PrepareSpellScript", "d6/d41/a25286.html#a9fb910382c89750e38cb36bed48a1597", null ],
+    [ "Register", "d6/d41/a25286.html#a667b10129d2d23f72712be523dc93180", null ]
 ];

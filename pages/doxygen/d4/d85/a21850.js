@@ -1,6 +1,9 @@
 var a21850 =
 [
-    [ "npc_spiritual_insightAI", "d4/d85/a21850.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "d4/d85/a21850.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "d4/d85/a21850.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_frostbrood_skytalonAI", "d4/d85/a21850.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "d4/d85/a21850.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "d4/d85/a21850.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "d4/d85/a21850.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "d4/d85/a21850.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "d4/d85/a21850.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

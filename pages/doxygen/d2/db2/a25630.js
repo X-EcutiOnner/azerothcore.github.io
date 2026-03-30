@@ -1,10 +1,8 @@
 var a25630 =
 [
-    [ "Load", "d2/db2/a25630.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "d2/db2/a25630.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "d2/db2/a25630.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "d2/db2/a25630.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "d2/db2/a25630.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "d2/db2/a25630.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "d2/db2/a25630.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "CheckProc", "d2/db2/a25630.html#a06d76f258699bd4f78834ef33752a351", null ],
+    [ "HandleProc", "d2/db2/a25630.html#af22f22cbc38fabe4181b853727df83f8", null ],
+    [ "PrepareAuraScript", "d2/db2/a25630.html#adbc2bc54974837a9784cbf8b30ef2c1e", null ],
+    [ "Register", "d2/db2/a25630.html#a8db2cf628d44fa962bb3889b20f5dfb1", null ],
+    [ "Validate", "d2/db2/a25630.html#aa5604d45c0c11bef130d9242c4357163", null ]
 ];

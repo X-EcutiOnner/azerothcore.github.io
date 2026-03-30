@@ -1,6 +1,6 @@
 var a16694 =
 [
-    [ "npc_living_infernoAI", "d9/d53/a16694.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "d9/d53/a16694.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "d9/d53/a16694.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "npc_toc_shadow_priestAI", "db/dcc/a16698.html", "db/dcc/a16698" ],
+    [ "npc_toc_shadow_priest", "d9/d53/a16694.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
+    [ "GetAI", "d9/d53/a16694.html#a93b38d23759da3b7417dbb94b4a951da", null ]
 ];

@@ -1,7 +1,8 @@
 var a18134 =
 [
-    [ "npc_gunship_rocketeerAI", "de/d4c/a18134.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "de/d4c/a18134.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "de/d4c/a18134.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "de/d4c/a18134.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "HandleScript", "de/d4c/a18134.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
+    [ "PrepareSpellScript", "de/d4c/a18134.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
+    [ "Register", "de/d4c/a18134.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
+    [ "SelectTarget", "de/d4c/a18134.html#a36d575c6a63e94905bf435bc9d39e588", null ],
+    [ "Validate", "de/d4c/a18134.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
 ];

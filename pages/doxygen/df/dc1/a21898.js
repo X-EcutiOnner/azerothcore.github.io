@@ -1,10 +1,10 @@
 var a21898 =
 [
-    [ "npc_emilyAI", "df/dc1/a21898.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "df/dc1/a21898.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "df/dc1/a21898.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "df/dc1/a21898.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "df/dc1/a21898.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "df/dc1/a21898.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "df/dc1/a21898.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "npc_engineer_heliceAI", "df/dc1/a21898.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "df/dc1/a21898.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "df/dc1/a21898.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "df/dc1/a21898.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "df/dc1/a21898.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "WaypointReached", "df/dc1/a21898.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "m_uiChatTimer", "df/dc1/a21898.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

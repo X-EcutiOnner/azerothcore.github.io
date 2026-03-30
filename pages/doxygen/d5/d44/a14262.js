@@ -1,9 +1,8 @@
 var a14262 =
 [
-    [ "npc_thrall_bfuAI", "d4/d9a/a14266.html", "d4/d9a/a14266" ],
-    [ "npc_thrall_bfu", "d5/d44/a14262.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
-    [ "GetAI", "d5/d44/a14262.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
-    [ "OnGossipHello", "d5/d44/a14262.html#a71a7108464de9245879c8a1c08932e2a", null ],
-    [ "OnGossipSelect", "d5/d44/a14262.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
-    [ "OnQuestReward", "d5/d44/a14262.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
+    [ "boss_grilekAI", "d5/d44/a14262.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "d5/d44/a14262.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "d5/d44/a14262.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "d5/d44/a14262.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "d5/d44/a14262.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

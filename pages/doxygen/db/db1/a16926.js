@@ -1,6 +1,6 @@
 var a16926 =
 [
-    [ "npc_toc_priestAI", "d6/d32/a16930.html", "d6/d32/a16930" ],
-    [ "npc_toc_priest", "db/db1/a16926.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "db/db1/a16926.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "boss_dredAI", "d6/d32/a16930.html", "d6/d32/a16930" ],
+    [ "boss_dred", "db/db1/a16926.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "db/db1/a16926.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

@@ -1,6 +1,5 @@
 var a27698 =
 [
-    [ "FilterTargets", "d3/d71/a27698.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "d3/d71/a27698.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "d3/d71/a27698.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "achievement_tilted", "d3/d71/a27698.html#a868d7b8a437434d6dc34b5000c429e66", null ],
+    [ "OnCheck", "d3/d71/a27698.html#a61d3eb78450383485699532d96f79d93", null ]
 ];

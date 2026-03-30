@@ -1,24 +1,11 @@
 var a08926 =
 [
-    [ "Totem", "d0/d16/a08926.html#a556c9121978cad2d780ef0c1ba63c28a", null ],
-    [ "~Totem", "d0/d16/a08926.html#a7c7376e438a14b5561049f82650c62c5", null ],
-    [ "GetSpell", "d0/d16/a08926.html#a1454ef318166d69bee1eddcaec73604a", null ],
-    [ "GetTotemDuration", "d0/d16/a08926.html#a588f187bbf8aa0e16b45974610ec593b", null ],
-    [ "GetTotemType", "d0/d16/a08926.html#aa1c94dfcaee2deaef2786e2f4f63b837", null ],
-    [ "InitStats", "d0/d16/a08926.html#a4661c91b5123862fc44e7a290cf70d1f", null ],
-    [ "InitSummon", "d0/d16/a08926.html#aaf87ce98ed8bfc42072228c9e39bfdf6", null ],
-    [ "IsImmunedToSpellEffect", "d0/d16/a08926.html#a25d245ac788196851f748d84b529bd98", null ],
-    [ "SetTotemDuration", "d0/d16/a08926.html#aced4f5c6ff70852083c23fb32cd50a7f", null ],
-    [ "UnSummon", "d0/d16/a08926.html#ab127e1cc25ef8878b9a44cb0eb080523", null ],
-    [ "Update", "d0/d16/a08926.html#aa44d1386a44ade821cc6dfe5caee9b90", null ],
-    [ "UpdateAllStats", "d0/d16/a08926.html#a515d54b852bbedf597f9f69cb7c0982b", null ],
-    [ "UpdateArmor", "d0/d16/a08926.html#a0b587243be09d58f5693570933680bff", null ],
-    [ "UpdateAttackPowerAndDamage", "d0/d16/a08926.html#a8a18cacf85203a6918dcdbe19fcde850", null ],
-    [ "UpdateDamagePhysical", "d0/d16/a08926.html#afbef34893575beb29356634a140bce62", null ],
-    [ "UpdateMaxHealth", "d0/d16/a08926.html#a01f507b7699f92e90b5601280408ba76", null ],
-    [ "UpdateMaxPower", "d0/d16/a08926.html#af0a51bf3565114ba84fd8fcad93170ad", null ],
-    [ "UpdateResistances", "d0/d16/a08926.html#aa65b8427a4cd938312ac4d9d4ab54f69", null ],
-    [ "UpdateStats", "d0/d16/a08926.html#a9c417b6be9a58cda23250067f6cadbcc", null ],
-    [ "m_duration", "d0/d16/a08926.html#a0bff976b49617405869ac7f2416e0ca1", null ],
-    [ "m_type", "d0/d16/a08926.html#a7e31af10f1ff0e854941e3a44254d139", null ]
+    [ "FriendInfo", "d0/d16/a08926.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
+    [ "FriendInfo", "d0/d16/a08926.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
+    [ "Area", "d0/d16/a08926.html#adf16884b55545ed9302dbb54d653867b", null ],
+    [ "Class", "d0/d16/a08926.html#a8b797fcfda05d52d4297f32e458be519", null ],
+    [ "Flags", "d0/d16/a08926.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
+    [ "Level", "d0/d16/a08926.html#a70d9a74f4587f648db5bf49b61091213", null ],
+    [ "Note", "d0/d16/a08926.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
+    [ "Status", "d0/d16/a08926.html#a380f11d65b34e1e598b7861987cecfe6", null ]
 ];

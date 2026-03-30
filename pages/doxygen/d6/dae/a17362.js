@@ -1,11 +1,10 @@
 var a17362 =
 [
-    [ "npc_hor_leaderAI", "d6/dae/a17362.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
-    [ "DoAction", "d6/dae/a17362.html#a610700732a6cc197a40106adef654a62", null ],
-    [ "Reset", "d6/dae/a17362.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
-    [ "UpdateAI", "d6/dae/a17362.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
-    [ "events", "d6/dae/a17362.html#a94128223bddd84b8a678e49f3189cb75", null ],
-    [ "first", "d6/dae/a17362.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
-    [ "pInstance", "d6/dae/a17362.html#a8dd77a92b151acad640f1272acf0b65f", null ],
-    [ "shortver", "d6/dae/a17362.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
+    [ "boss_drakkari_elementalAI", "d6/dae/a17362.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
+    [ "DoAction", "d6/dae/a17362.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
+    [ "JustDied", "d6/dae/a17362.html#aec2878e51a12749914e3a30c0ddea900", null ],
+    [ "JustEngagedWith", "d6/dae/a17362.html#a75cbf6a164ab4337f86b600541c563f2", null ],
+    [ "Reset", "d6/dae/a17362.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
+    [ "UpdateAI", "d6/dae/a17362.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
+    [ "events", "d6/dae/a17362.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
 ];

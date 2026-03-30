@@ -1,6 +1,7 @@
 var a17166 =
 [
-    [ "boss_dredAI", "df/da2/a17170.html", "df/da2/a17170" ],
-    [ "boss_dred", "da/d20/a17166.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "da/d20/a17166.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "HandleEffectPeriodic", "da/d20/a17166.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
+    [ "PrepareAuraScript", "da/d20/a17166.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
+    [ "Register", "da/d20/a17166.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
+    [ "Validate", "da/d20/a17166.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
 ];

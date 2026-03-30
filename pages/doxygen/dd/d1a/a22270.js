@@ -1,8 +1,5 @@
 var a22270 =
 [
-    [ "npc_freed_protodrakeAI", "dd/d1a/a22270.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "dd/d1a/a22270.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "dd/d1a/a22270.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "dd/d1a/a22270.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "dd/d1a/a22270.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "OutdoorPvP_zangarmarsh", "dd/d1a/a22270.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
+    [ "GetOutdoorPvP", "dd/d1a/a22270.html#a145ddfe383663ed3fb46960e39691f8f", null ]
 ];

@@ -1,6 +1,7 @@
 var a25750 =
 [
-    [ "CheckCast", "df/dfd/a25750.html#a1fbbba8bdc9f775963a999aa00a5a256", null ],
-    [ "PrepareSpellScript", "df/dfd/a25750.html#a481f9d36567607697c3ad5d9501bba48", null ],
-    [ "Register", "df/dfd/a25750.html#afff66ccf4f6596475f4b58c529472f26", null ]
+    [ "Load", "df/dfd/a25750.html#a8be944ae201f4f8406948aff78f982d9", null ],
+    [ "OnDummyEffect", "df/dfd/a25750.html#adcb707400963e549a295e115d6f3583b", null ],
+    [ "PrepareSpellScript", "df/dfd/a25750.html#a5b2175a933df10d775bc3381f515aa96", null ],
+    [ "Register", "df/dfd/a25750.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
 ];

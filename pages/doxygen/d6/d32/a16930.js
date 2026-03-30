@@ -1,7 +1,10 @@
 var a16930 =
 [
-    [ "npc_toc_priestAI", "d6/d32/a16930.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "d6/d32/a16930.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "d6/d32/a16930.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "d6/d32/a16930.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "boss_dredAI", "d6/d32/a16930.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "d6/d32/a16930.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "d6/d32/a16930.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "d6/d32/a16930.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "ScheduleTasks", "d6/d32/a16930.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
+    [ "SetData", "d6/d32/a16930.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "_raptorCount", "d6/d32/a16930.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

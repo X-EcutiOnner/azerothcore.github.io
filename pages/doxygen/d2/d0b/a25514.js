@@ -1,6 +1,6 @@
 var a25514 =
 [
-    [ "OnProc", "d2/d0b/a25514.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "d2/d0b/a25514.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "d2/d0b/a25514.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "CheckProc", "d2/d0b/a25514.html#a8158e7338b29b072f0c851771d0e8eee", null ],
+    [ "PrepareAuraScript", "d2/d0b/a25514.html#a44a18144e276e7bdc80c5a19f1d442e2", null ],
+    [ "Register", "d2/d0b/a25514.html#ae24336f87db322e546bd858bc50f2351", null ]
 ];

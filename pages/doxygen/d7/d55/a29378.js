@@ -1,16 +1,10 @@
 var a29378 =
 [
-    [ "amount", "d7/d55/a29378.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
-    [ "aura_id", "d7/d55/a29378.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
-    [ "charges", "d7/d55/a29378.html#ade74be0906ef080347ac81ed48379cd1", null ],
-    [ "description", "d7/d55/a29378.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
-    [ "EnchantmentCondition", "d7/d55/a29378.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
-    [ "GemID", "d7/d55/a29378.html#a324fd42b7184f5c626c33323a4d72b07", null ],
-    [ "ID", "d7/d55/a29378.html#af46fa8808024e75705b812b695bd1590", null ],
-    [ "requiredLevel", "d7/d55/a29378.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
-    [ "requiredSkill", "d7/d55/a29378.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
-    [ "requiredSkillValue", "d7/d55/a29378.html#a7a57764dad60c9369826638c1355127e", null ],
-    [ "slot", "d7/d55/a29378.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
-    [ "spellid", "d7/d55/a29378.html#a694edc79cf8ba571338bff2a3aad512d", null ],
-    [ "type", "d7/d55/a29378.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
+    [ "SetUp", "d7/d55/a29378.html#a577c64b32e7d6e1055f23a9204a9dc9d", null ],
+    [ "TearDown", "d7/d55/a29378.html#a154bc25a4e054558748b5599b56de11f", null ],
+    [ "_creatureA", "d7/d55/a29378.html#a95e6c0f1f7a8692ec255c052b40416df", null ],
+    [ "_creatureB", "d7/d55/a29378.html#af5d64516264eeb9f1acadeeba44b79c2", null ],
+    [ "_map", "d7/d55/a29378.html#ada2e0d28b42465ea6f7c8de71142efd0", null ],
+    [ "_previousWorld", "d7/d55/a29378.html#a2805a828f7a7c92845f7c712b90af381", null ],
+    [ "_worldMock", "d7/d55/a29378.html#ab8d82db4b26a11e286ec603c63ea1613", null ]
 ];

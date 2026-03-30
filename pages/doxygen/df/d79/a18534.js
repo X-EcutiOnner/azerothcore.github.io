@@ -1,7 +1,8 @@
 var a18534 =
 [
-    [ "IceTombSummonEvent", "df/d79/a18534.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
-    [ "Execute", "df/d79/a18534.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
-    [ "_owner", "df/d79/a18534.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
-    [ "_sindragosaGUID", "df/d79/a18534.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
+    [ "Load", "df/d79/a18534.html#add67e02f44e3658bff98faf7a9466ba3", null ],
+    [ "OnPeriodic", "df/d79/a18534.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
+    [ "PrepareAuraScript", "df/d79/a18534.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
+    [ "Register", "df/d79/a18534.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
+    [ "_is25Man", "df/d79/a18534.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
 ];

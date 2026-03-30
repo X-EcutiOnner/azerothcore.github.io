@@ -1,7 +1,6 @@
 var a17486 =
 [
-    [ "UtherBatteredHiltEvent", "d9/dc9/a17486.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "d9/dc9/a17486.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "d9/dc9/a17486.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "d9/dc9/a17486.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "npc_dark_nucleusAI", "dd/d8b/a17490.html", "dd/d8b/a17490" ],
+    [ "npc_dark_nucleus", "d9/dc9/a17486.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "d9/dc9/a17486.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

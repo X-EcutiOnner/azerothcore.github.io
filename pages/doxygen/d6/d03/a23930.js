@@ -1,11 +1,9 @@
 var a23930 =
 [
-    [ "boss_pathaleon_the_calculator", "d6/d03/a23930.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d6/d03/a23930.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d6/d03/a23930.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d6/d03/a23930.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d6/d03/a23930.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d6/d03/a23930.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d6/d03/a23930.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d6/d03/a23930.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "npc_enraged_spiritAI", "d6/d03/a23930.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "d6/d03/a23930.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "d6/d03/a23930.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "d6/d03/a23930.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "d6/d03/a23930.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "d6/d03/a23930.html#afa6825696b0622849f877b392df4b326", null ]
 ];

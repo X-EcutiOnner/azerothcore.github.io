@@ -1,14 +1,10 @@
 var a24450 =
 [
-    [ "npc_pet_mage_mirror_image", "d8/d7f/a24450.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
-    [ "EnterEvadeMode", "d8/d7f/a24450.html#a858b070fb53112dc78554f0b20cd876a", null ],
-    [ "InitializeAI", "d8/d7f/a24450.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
-    [ "MySelectNextTarget", "d8/d7f/a24450.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
-    [ "Reset", "d8/d7f/a24450.html#a79a8c153ab61c619d928ec5535e67077", null ],
-    [ "UpdateAI", "d8/d7f/a24450.html#aa219b3adc38b625c6885089895b941b4", null ],
-    [ "_delayAttack", "d8/d7f/a24450.html#ab65a74ef0f1e253bf9df4e4f7c6856a3", null ],
-    [ "_ebonGargoyleGUID", "d8/d7f/a24450.html#a8be57d06114f108e74b850ce66722bf3", null ],
-    [ "checktarget", "d8/d7f/a24450.html#a074611355768dc2072da69ed9d72242b", null ],
-    [ "dist", "d8/d7f/a24450.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
-    [ "selectionTimer", "d8/d7f/a24450.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
+    [ "CalculateAPAmount", "d8/d7f/a24450.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
+    [ "CalculateResistanceAmount", "d8/d7f/a24450.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
+    [ "CalculateSPAmount", "d8/d7f/a24450.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
+    [ "CalculateStatAmount", "d8/d7f/a24450.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
+    [ "HandleEffectApply", "d8/d7f/a24450.html#aeebb14424a6ae336edd4b66d824d648a", null ],
+    [ "PrepareAuraScript", "d8/d7f/a24450.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
+    [ "Register", "d8/d7f/a24450.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
 ];

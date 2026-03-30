@@ -1,9 +1,8 @@
 var a18886 =
 [
-    [ "FilterTargets", "de/ded/a18886.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "de/ded/a18886.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "de/ded/a18886.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "de/ded/a18886.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "de/ded/a18886.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "de/ded/a18886.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "npc_arthas_teleport_visualAI", "de/ded/a18886.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "de/ded/a18886.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "de/ded/a18886.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "de/ded/a18886.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "de/ded/a18886.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

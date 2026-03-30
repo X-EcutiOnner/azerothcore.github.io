@@ -1,5 +1,5 @@
 var a02138 =
 [
-    [ "GameObjectAI", "d1/d40/a06329.html", "d1/d40/a06329" ],
-    [ "NullGameObjectAI", "d8/d3c/a06333.html", "d8/d3c/a06333" ]
+    [ "lookup_commandscript", "d2/db7/a12238.html", "d2/db7/a12238" ],
+    [ "AddSC_lookup_commandscript", "db/df6/a02138.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

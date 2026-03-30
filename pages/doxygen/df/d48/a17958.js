@@ -1,7 +1,6 @@
 var a17958 =
 [
-    [ "HandleDummy", "df/d48/a17958.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "df/d48/a17958.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "df/d48/a17958.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "df/d48/a17958.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "npc_darnavanAI", "d6/d48/a17962.html", "d6/d48/a17962" ],
+    [ "npc_darnavan", "df/d48/a17958.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "df/d48/a17958.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

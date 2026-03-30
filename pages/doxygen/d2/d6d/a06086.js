@@ -1,10 +1,7 @@
 var a06086 =
 [
-    [ "Storage", "d2/d6d/a06086.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
-    [ "AchievementCriteriaDataSet", "d2/d6d/a06086.html#a5055f8710c48379035e132e8f20577dc", null ],
-    [ "Add", "d2/d6d/a06086.html#a297f02665679b19961998fb529d064e4", null ],
-    [ "Meets", "d2/d6d/a06086.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
-    [ "SetCriteriaId", "d2/d6d/a06086.html#addedfd39d9948923a2704b51eaacecbc", null ],
-    [ "_criteria_id", "d2/d6d/a06086.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
-    [ "_storage", "d2/d6d/a06086.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
+    [ "ToString", "d2/d6d/a06086.html#a252569604d54dedfbe28b320911aa7b7", null ],
+    [ "ToString", "d2/d6d/a06086.html#ab114258f0dc260983aceea6ca63c1a5c", null ],
+    [ "ToString", "d2/d6d/a06086.html#a61c3f0b723ff92ab388b5cd27cea3151", null ],
+    [ "data", "d2/d6d/a06086.html#ac0fb35a34d9ef399f00ab0bb146afd18", null ]
 ];

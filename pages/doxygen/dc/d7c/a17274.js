@@ -1,8 +1,7 @@
 var a17274 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "dc/d7c/a17274.html#a61797329ecddde6da2e23e951fa92ca2", null ],
-    [ "Reset", "dc/d7c/a17274.html#a5bb03371b24593ca2de995bf85857782", null ],
-    [ "UpdateAI", "dc/d7c/a17274.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
-    [ "pInstance", "dc/d7c/a17274.html#a6ced23b3b4150b31020a636559d6eec6", null ],
-    [ "timer", "dc/d7c/a17274.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
+    [ "npc_pos_icicle_triggerAI", "dc/d7c/a17274.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "dc/d7c/a17274.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "dc/d7c/a17274.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "dc/d7c/a17274.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

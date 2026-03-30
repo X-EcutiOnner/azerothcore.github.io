@@ -1,11 +1,9 @@
 var a14306 =
 [
-    [ "npc_tapoke_slim_jahnAI", "de/dc7/a14306.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "de/dc7/a14306.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "de/dc7/a14306.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "de/dc7/a14306.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "de/dc7/a14306.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "de/dc7/a14306.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "de/dc7/a14306.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "IsFriendSummoned", "de/dc7/a14306.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "boss_hazzarah", "de/dc7/a14306.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "de/dc7/a14306.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "de/dc7/a14306.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "de/dc7/a14306.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "de/dc7/a14306.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "de/dc7/a14306.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

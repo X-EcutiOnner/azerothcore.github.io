@@ -1,6 +1,7 @@
 var a25022 =
 [
-    [ "PrepareSpellScript", "da/d02/a25022.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
-    [ "Register", "da/d02/a25022.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
-    [ "SelectTarget", "da/d02/a25022.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
+    [ "HandleDummy", "da/d02/a25022.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
+    [ "Load", "da/d02/a25022.html#a738318535196b3d55e8f1b3da4f76c95", null ],
+    [ "PrepareSpellScript", "da/d02/a25022.html#a941a097124ed9b4917faa18ff23fc366", null ],
+    [ "Register", "da/d02/a25022.html#aaf9d269e7d052515f31b463999e92cf4", null ]
 ];

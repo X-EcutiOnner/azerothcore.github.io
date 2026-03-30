@@ -1,6 +1,9 @@
 var a22714 =
 [
-    [ "HandleScriptEffect", "d0/d9e/a22714.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "d0/d9e/a22714.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "d0/d9e/a22714.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "boss_najentus", "d0/d9e/a22714.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d0/d9e/a22714.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d0/d9e/a22714.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d0/d9e/a22714.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d0/d9e/a22714.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "d0/d9e/a22714.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

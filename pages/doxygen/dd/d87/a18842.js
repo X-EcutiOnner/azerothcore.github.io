@@ -1,7 +1,6 @@
 var a18842 =
 [
-    [ "PrepareSpellScript", "dd/d87/a18842.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "dd/d87/a18842.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "dd/d87/a18842.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "dd/d87/a18842.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "npc_captain_brandonAI", "dd/d87/a18842.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "dd/d87/a18842.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "dd/d87/a18842.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

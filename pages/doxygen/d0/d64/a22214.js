@@ -1,7 +1,5 @@
 var a22214 =
 [
-    [ "HandleSendEvent", "d0/d64/a22214.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "d0/d64/a22214.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "d0/d64/a22214.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "d0/d64/a22214.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "d0/d64/a22214.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
+    [ "GetOutdoorPvP", "d0/d64/a22214.html#aee93a8191457d7a264053809a5c082e8", null ]
 ];

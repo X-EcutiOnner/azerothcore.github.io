@@ -1,8 +1,7 @@
 var a15986 =
 [
-    [ "FilterTargets", "dd/dc8/a15986.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "dd/dc8/a15986.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "dd/dc8/a15986.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "dd/dc8/a15986.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "dd/dc8/a15986.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_ameAI", "d9/d77/a15990.html", "d9/d77/a15990" ],
+    [ "npc_ame", "dd/dc8/a15986.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "dd/dc8/a15986.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "dd/dc8/a15986.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

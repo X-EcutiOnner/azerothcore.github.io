@@ -1,6 +1,6 @@
 var a23846 =
 [
-    [ "HandlePeriodic", "d8/ded/a23846.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
-    [ "PrepareAuraScript", "d8/ded/a23846.html#a75d72d196ded2ee109d0231d4342890a", null ],
-    [ "Register", "d8/ded/a23846.html#a148013ea68bbc573bddc1c3639dba019", null ]
+    [ "npc_invis_infernal_casterAI", "dd/d51/a23850.html", "dd/d51/a23850" ],
+    [ "npc_invis_infernal_caster", "d8/ded/a23846.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "d8/ded/a23846.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

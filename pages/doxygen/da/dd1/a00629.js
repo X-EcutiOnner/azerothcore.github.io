@@ -1,8 +1,5 @@
 var a00629 =
 [
-    [ "SpellProcTestEntry", "dc/d89/a29583.html", "dc/d89/a29583" ],
-    [ "GetAllSpellProcTestEntries", "da/dd1/a00629.html#a39025d5b336e745566f739e9d1f68e78", null ],
-    [ "GroupByHitMask", "da/dd1/a00629.html#a9c10a33f80d5dad16ac98bf115774ded", null ],
-    [ "GroupByProcFlags", "da/dd1/a00629.html#a8a30ea152f1ec07a3e93549376c04b74", null ],
-    [ "GroupBySpellFamily", "da/dd1/a00629.html#ac781b3845801dede698012d7118061a4", null ]
+    [ "WorldMock", "d0/d80/a29354.html", "d0/d80/a29354" ],
+    [ "AddScripts", "da/dd1/a00629.html#abb65cb085124c346fd32ac4b92f0baa9", null ]
 ];

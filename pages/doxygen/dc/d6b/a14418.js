@@ -1,6 +1,10 @@
 var a14418 =
 [
-    [ "OnEffect", "dc/d6b/a14418.html#ab87d53faac04ced3c11088e260782068", null ],
-    [ "PrepareSpellScript", "dc/d6b/a14418.html#af618e8d84029dda5e48b699cbcf671be", null ],
-    [ "Register", "dc/d6b/a14418.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
+    [ "npc_zealot_lorkhan", "dc/d6b/a14418.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "dc/d6b/a14418.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "dc/d6b/a14418.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "dc/d6b/a14418.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "dc/d6b/a14418.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "dc/d6b/a14418.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "dc/d6b/a14418.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

@@ -1,6 +1,5 @@
 var a13018 =
 [
-    [ "npc_flamewaker_priestAI", "d4/d3f/a13022.html", "d4/d3f/a13022" ],
-    [ "npc_flamewaker_priest", "d1/d5c/a13018.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
-    [ "GetAI", "d1/d5c/a13018.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
+    [ "at_karazhan_mirkblood_approach", "d1/d5c/a13018.html#a032600991e9fc1aaf026adf2e63314e5", null ],
+    [ "OnTrigger", "d1/d5c/a13018.html#aaece848faa4f1086ac0b16802a1e765e", null ]
 ];

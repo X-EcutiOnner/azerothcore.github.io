@@ -1,6 +1,6 @@
 var a23346 =
 [
-    [ "boss_rokmar_the_crackler", "d0/d43/a23346.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "d0/d43/a23346.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "d0/d43/a23346.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "boss_porung", "d0/d43/a23346.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d0/d43/a23346.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d0/d43/a23346.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

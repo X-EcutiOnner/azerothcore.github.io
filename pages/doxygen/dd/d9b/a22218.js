@@ -1,8 +1,10 @@
 var a22218 =
 [
-    [ "CheckCast", "dd/d9b/a22218.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "dd/d9b/a22218.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "dd/d9b/a22218.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "dd/d9b/a22218.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "dd/d9b/a22218.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "OPvPCapturePointHP", "dd/d9b/a22218.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
+    [ "ChangeState", "dd/d9b/a22218.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
+    [ "FillInitialWorldStates", "dd/d9b/a22218.html#aa8d725422951485970d9106450fb6a38", null ],
+    [ "HandlePlayerEnter", "dd/d9b/a22218.html#ad9738c621df084d5a3f0070c80403642", null ],
+    [ "HandlePlayerLeave", "dd/d9b/a22218.html#a86e849e5387383a6c751e69350ffa07c", null ],
+    [ "SendChangePhase", "dd/d9b/a22218.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
+    [ "m_TowerType", "dd/d9b/a22218.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
 ];

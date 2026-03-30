@@ -1,6 +1,5 @@
 var a13582 =
 [
-    [ "npc_risen_guardianAI", "df/dbc/a13586.html", "df/dbc/a13586" ],
-    [ "npc_risen_guardian", "db/d4d/a13582.html#a472274c69abe912f5781c60911204eb5", null ],
-    [ "GetAI", "db/d4d/a13582.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
+    [ "at_sunwell_eredar_twins", "db/d4d/a13582.html#afc183c384bc87321186b20e0ac168c1f", null ],
+    [ "_OnTrigger", "db/d4d/a13582.html#aa862756c9905e2cb10d60c70b47919aa", null ]
 ];

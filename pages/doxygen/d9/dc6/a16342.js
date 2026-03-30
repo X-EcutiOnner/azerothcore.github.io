@@ -1,8 +1,6 @@
 var a16342 =
 [
-    [ "HandleAfterCast", "d9/dc6/a16342.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "d9/dc6/a16342.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "d9/dc6/a16342.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "d9/dc6/a16342.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "d9/dc6/a16342.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "SendEncounterUnit", "d9/dc6/a16342.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "d9/dc6/a16342.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "d9/dc6/a16342.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

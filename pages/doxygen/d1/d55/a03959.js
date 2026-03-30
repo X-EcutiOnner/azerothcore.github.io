@@ -1,6 +1,6 @@
 var a03959 =
 [
-    [ "DataHeader", "d1/d55/a03959.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ScarletMonasteryScriptName", "d1/d55/a03959.html#ac64beb71a88e1265849782b79406b585", null ],
-    [ "GetScarletMonasteryAI", "d1/d55/a03959.html#aecdcabc87b1cc31996b702fd11416f35", null ]
+    [ "FlyByCamera", "d4/d0a/a08162.html", "d4/d0a/a08162" ],
+    [ "GetFlyByCameras", "d1/d55/a03959.html#a8079cfd87f117ce26e31f3da14e63cf9", null ],
+    [ "LoadM2Cameras", "d1/d55/a03959.html#a9971ebb80eba223b5767bcfa8f713267", null ]
 ];

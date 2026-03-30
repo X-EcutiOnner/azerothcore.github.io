@@ -1,7 +1,6 @@
 var a18898 =
 [
-    [ "HandleProc", "db/dc5/a18898.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "db/dc5/a18898.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "db/dc5/a18898.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "db/dc5/a18898.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "HandleEvent", "db/dc5/a18898.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "db/dc5/a18898.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "db/dc5/a18898.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

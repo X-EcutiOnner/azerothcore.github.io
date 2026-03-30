@@ -1,13 +1,7 @@
 var a19134 =
 [
-    [ "boss_sister_svalnaAI", "d1/d65/a19134.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
-    [ "DoAction", "d1/d65/a19134.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
-    [ "JustDied", "d1/d65/a19134.html#ab397adda97c8b21e9a53edccdadb8760", null ],
-    [ "JustEngagedWith", "d1/d65/a19134.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
-    [ "KilledUnit", "d1/d65/a19134.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
-    [ "MovementInform", "d1/d65/a19134.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
-    [ "Reset", "d1/d65/a19134.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
-    [ "SpellHit", "d1/d65/a19134.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
-    [ "SpellHitTarget", "d1/d65/a19134.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
-    [ "UpdateAI", "d1/d65/a19134.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ]
+    [ "OnRemove", "d1/d65/a19134.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "d1/d65/a19134.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "d1/d65/a19134.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "d1/d65/a19134.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

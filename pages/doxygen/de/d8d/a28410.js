@@ -1,7 +1,5 @@
 var a28410 =
 [
-    [ "npc_prof_leather", "de/d8d/a28410.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "de/d8d/a28410.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "de/d8d/a28410.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "de/d8d/a28410.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "go_transport_the_thundercaller", "de/d8d/a28410.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
+    [ "EventInform", "de/d8d/a28410.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
 ];

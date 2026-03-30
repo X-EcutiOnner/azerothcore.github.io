@@ -1,6 +1,6 @@
 var a15834 =
 [
-    [ "npc_injured_draeneiAI", "d3/da7/a15838.html", "d3/da7/a15838" ],
-    [ "npc_injured_draenei", "d9/da4/a15834.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
-    [ "GetAI", "d9/da4/a15834.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
+    [ "SpellId", "d9/da4/a15834.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "d9/da4/a15834.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "d9/da4/a15834.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

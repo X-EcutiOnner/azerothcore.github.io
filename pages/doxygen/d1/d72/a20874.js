@@ -1,8 +1,6 @@
 var a20874 =
 [
-    [ "CheckProc", "d1/d72/a20874.html#a2bbcd3aca15eb271759c2a64276bb9d3", null ],
-    [ "HandleProc", "d1/d72/a20874.html#a6761dd910808090d78c9b9ad88ba7bda", null ],
-    [ "PrepareAuraScript", "d1/d72/a20874.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60", null ],
-    [ "Register", "d1/d72/a20874.html#a430a5c4d0e3f77d4d966a4bf8f629e1e", null ],
-    [ "Validate", "d1/d72/a20874.html#a683a37c787ae5797d8c68aca1af0742a", null ]
+    [ "boss_skadiAI", "dc/d3e/a20878.html", "dc/d3e/a20878" ],
+    [ "boss_skadi", "d1/d72/a20874.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "d1/d72/a20874.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
 ];

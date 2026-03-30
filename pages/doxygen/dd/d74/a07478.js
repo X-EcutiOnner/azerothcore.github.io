@@ -1,9 +1,10 @@
 var a07478 =
 [
-    [ "ArenaScore", "dd/d74/a07478.html#a58f1391de4e67750dad211b10704499f", null ],
-    [ "AppendToPacket", "dd/d74/a07478.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
-    [ "BuildObjectivesBlock", "dd/d74/a07478.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
-    [ "ToString", "dd/d74/a07478.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
-    [ "Arena", "dd/d74/a07478.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "PvPTeamId", "dd/d74/a07478.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
+    [ "CreatureBottom", "dd/d74/a07478.html#aaa8fe59aa58bf02934bf87f636582637", null ],
+    [ "CreatureTop", "dd/d74/a07478.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
+    [ "GameObject", "dd/d74/a07478.html#abc26a328692fc048d9040c44f360f4c4", null ],
+    [ "nbCreatureBottom", "dd/d74/a07478.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
+    [ "nbCreatureTop", "dd/d74/a07478.html#a38ab7536e0682efd7080b823569d504b", null ],
+    [ "nbObject", "dd/d74/a07478.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
+    [ "towerEntry", "dd/d74/a07478.html#a1c0edf97a599773b688954f2e966e794", null ]
 ];

@@ -1,6 +1,11 @@
 var a16462 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "da/dd1/a16466.html", "da/dd1/a16466" ],
-    [ "instance_azjol_nerub", "d6/d10/a16462.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "d6/d10/a16462.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "boss_saviana_ragefireAI", "d6/d10/a16462.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
+    [ "JustDied", "d6/d10/a16462.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
+    [ "JustEngagedWith", "d6/d10/a16462.html#a458eb370872c20441b5ec6ecd2c97500", null ],
+    [ "JustReachedHome", "d6/d10/a16462.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
+    [ "KilledUnit", "d6/d10/a16462.html#ac07513681c72d6748246cc7c349d117c", null ],
+    [ "MovementInform", "d6/d10/a16462.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
+    [ "Reset", "d6/d10/a16462.html#a4b7f103331c566cbf007a075161505af", null ],
+    [ "UpdateAI", "d6/d10/a16462.html#af36ca2a359f950a10214d07aad240324", null ]
 ];

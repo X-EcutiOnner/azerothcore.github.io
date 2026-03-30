@@ -1,6 +1,7 @@
 var a17510 =
 [
-    [ "boss_ickAI", "d2/d3e/a17514.html", "d2/d3e/a17514" ],
-    [ "boss_ick", "d5/d76/a17510.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d5/d76/a17510.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "HandleDummyTick", "d5/d76/a17510.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "d5/d76/a17510.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "d5/d76/a17510.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "d5/d76/a17510.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

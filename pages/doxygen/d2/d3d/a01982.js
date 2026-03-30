@@ -1,6 +1,5 @@
 var a01982 =
 [
-    [ "WorldPackets::WorldState::InitWorldStates", "d9/da8/a11423.html", "d9/da8/a11423" ],
-    [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "da/dfd/a11427.html", "da/dfd/a11427" ],
-    [ "WorldPackets::WorldState::UpdateWorldState", "d1/d63/a11431.html", "d1/d63/a11431" ]
+    [ "arena_commandscript", "d4/d8c/a12126.html", "d4/d8c/a12126" ],
+    [ "AddSC_arena_commandscript", "d2/d3d/a01982.html#aa94d37f012ac02e97a1021713b7dbeeb", null ]
 ];

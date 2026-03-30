@@ -1,6 +1,10 @@
 var a15134 =
 [
-    [ "FilterTargets", "df/d2f/a15134.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
-    [ "PrepareSpellScript", "df/d2f/a15134.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
-    [ "Register", "df/d2f/a15134.html#a6375482bd9d1fc6c6941607273c506dc", null ]
+    [ "boss_aeonus", "df/d2f/a15134.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "df/d2f/a15134.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "df/d2f/a15134.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "df/d2f/a15134.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "df/d2f/a15134.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "df/d2f/a15134.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "df/d2f/a15134.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

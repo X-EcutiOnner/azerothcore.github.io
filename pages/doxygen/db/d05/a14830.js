@@ -1,6 +1,7 @@
 var a14830 =
 [
-    [ "npc_cw_area_triggerAI", "dd/d2e/a14834.html", "dd/d2e/a14834" ],
-    [ "npc_cw_area_trigger", "db/d05/a14830.html#a11af64ac4ab078566bf8f68a36781939", null ],
-    [ "GetAI", "db/d05/a14830.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
+    [ "GetVisualThrow", "db/d05/a14830.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "db/d05/a14830.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "db/d05/a14830.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "db/d05/a14830.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

@@ -1,6 +1,8 @@
 var a22318 =
 [
-    [ "HandleScript", "d0/d8c/a22318.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "d0/d8c/a22318.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "d0/d8c/a22318.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "npc_yor", "d0/d8c/a22318.html#a43ed8720d06c035085d481dbe6539dca", null ],
+    [ "JustEngagedWith", "d0/d8c/a22318.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
+    [ "Reset", "d0/d8c/a22318.html#aa698540b646fd870b33afbaf19ddbe07", null ],
+    [ "UpdateAI", "d0/d8c/a22318.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
+    [ "_scheduler", "d0/d8c/a22318.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
 ];

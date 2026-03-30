@@ -1,6 +1,11 @@
 var a14470 =
 [
-    [ "boss_gahzranka", "d7/d74/a14470.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "d7/d74/a14470.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "d7/d74/a14470.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "npc_dark_iron_attack_mole_machine", "d7/d74/a14470.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "d7/d74/a14470.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "d7/d74/a14470.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "d7/d74/a14470.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "d7/d74/a14470.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "d7/d74/a14470.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "d7/d74/a14470.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "d7/d74/a14470.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

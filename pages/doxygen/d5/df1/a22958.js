@@ -1,7 +1,6 @@
 var a22958 =
 [
-    [ "npc_ashtongue_channeler", "d5/df1/a22958.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "d5/df1/a22958.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "d5/df1/a22958.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "d5/df1/a22958.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "HandleApplyAura", "d5/df1/a22958.html#a4fde347d339f08cd01e2a47883d4b988", null ],
+    [ "PrepareSpellScript", "d5/df1/a22958.html#ab22bd56638a6adc8d111250780221cb9", null ],
+    [ "Register", "d5/df1/a22958.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
 ];

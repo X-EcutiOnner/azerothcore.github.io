@@ -1,7 +1,6 @@
 var a25206 =
 [
-    [ "HandleScript", "de/d6b/a25206.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
-    [ "PrepareSpellScript", "de/d6b/a25206.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
-    [ "Register", "de/d6b/a25206.html#a8c727b2b00858abcce058b16d66ca62a", null ],
-    [ "Validate", "de/d6b/a25206.html#af3ffb9930eaba8703065719bbcf02f56", null ]
+    [ "HandleScript", "de/d6b/a25206.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
+    [ "PrepareSpellScript", "de/d6b/a25206.html#a16c358062cee300e4c54f046a6c1accf", null ],
+    [ "Register", "de/d6b/a25206.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
 ];

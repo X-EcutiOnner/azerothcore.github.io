@@ -1,6 +1,5 @@
 var a28066 =
 [
-    [ "AreaTrigger_at_brewfest", "d5/d16/a28066.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
-    [ "OnTrigger", "d5/d16/a28066.html#a17e4a8d671136466c7673789e4f69a84", null ],
-    [ "_triggerTimes", "d5/d16/a28066.html#ab763765427796ad17338bcc8d63cf891", null ]
+    [ "item_petrov_cluster_bombs", "d5/d16/a28066.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "d5/d16/a28066.html#a14e8a00a532b5aebc8469ff538848f53", null ]
 ];

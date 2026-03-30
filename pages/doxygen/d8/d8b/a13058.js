@@ -1,11 +1,14 @@
 var a13058 =
 [
-    [ "boss_mr_smiteAI", "d8/d8b/a13058.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
-    [ "JustEngagedWith", "d8/d8b/a13058.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
-    [ "MovementInform", "d8/d8b/a13058.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
-    [ "Reset", "d8/d8b/a13058.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
-    [ "UpdateAI", "d8/d8b/a13058.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
-    [ "events", "d8/d8b/a13058.html#a3471692c39233f3c25cdc875c0078f2c", null ],
-    [ "health34", "d8/d8b/a13058.html#adc83683c2f6a7073469cd2f5aa325717", null ],
-    [ "health67", "d8/d8b/a13058.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
+    [ "boss_strawman", "d8/d8b/a13058.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
+    [ "DoAction", "d8/d8b/a13058.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
+    [ "EnterEvadeMode", "d8/d8b/a13058.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
+    [ "JustDied", "d8/d8b/a13058.html#ab175b0104d316b8929e32d9eb939780f", null ],
+    [ "JustEngagedWith", "d8/d8b/a13058.html#a40657516c4f1b049dd0514a50e299a10", null ],
+    [ "JustReachedHome", "d8/d8b/a13058.html#a4235b2de2540199f9570cbadb7326871", null ],
+    [ "KilledUnit", "d8/d8b/a13058.html#a06b92dbb6907ace60df7e10893be7af0", null ],
+    [ "SpellHit", "d8/d8b/a13058.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
+    [ "UpdateAI", "d8/d8b/a13058.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
+    [ "_scheduler", "d8/d8b/a13058.html#a409539c771b373c165bdbccac8a59e7f", null ],
+    [ "instance", "d8/d8b/a13058.html#a157a6faacf83432b8227173f6b14a7d3", null ]
 ];

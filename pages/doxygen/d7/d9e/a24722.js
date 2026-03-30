@@ -1,7 +1,6 @@
 var a24722 =
 [
-    [ "HandleProc", "d7/d9e/a24722.html#afc5208979ec0ce81e2bb88b3bd429012", null ],
-    [ "PrepareAuraScript", "d7/d9e/a24722.html#a9eebffe3b716f7de63bfd6617e6ecf3b", null ],
-    [ "Register", "d7/d9e/a24722.html#a1f364414b053ffc92c2a219b713e8c38", null ],
-    [ "Validate", "d7/d9e/a24722.html#a12912ba28210850b8bc0b568357794af", null ]
+    [ "CheckAreaTarget", "d7/d9e/a24722.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
+    [ "PrepareAuraScript", "d7/d9e/a24722.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
+    [ "Register", "d7/d9e/a24722.html#a6647a8e35009cf8559e4957a666f037a", null ]
 ];

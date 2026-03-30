@@ -1,6 +1,8 @@
 var a18622 =
 [
-    [ "npc_spinestalkerAI", "d6/d4e/a18626.html", "d6/d4e/a18626" ],
-    [ "npc_spinestalker", "d6/d7d/a18622.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "d6/d7d/a18622.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "npc_lk_wicked_spiritAI", "d6/d7d/a18622.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d6/d7d/a18622.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d6/d7d/a18622.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d6/d7d/a18622.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d6/d7d/a18622.html#a8b15079251b6855679d738a342126006", null ]
 ];

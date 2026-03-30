@@ -1,8 +1,7 @@
 var a17310 =
 [
-    [ "npc_fos_leaderAI", "d6/dff/a17310.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "d6/dff/a17310.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "d6/dff/a17310.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "d6/dff/a17310.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "d6/dff/a17310.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "HandleEffectPeriodic", "d6/dff/a17310.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
+    [ "PrepareAuraScript", "d6/dff/a17310.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
+    [ "Register", "d6/dff/a17310.html#a5a44978cec95fef30c9ea4308bda2508", null ],
+    [ "Validate", "d6/dff/a17310.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
 ];

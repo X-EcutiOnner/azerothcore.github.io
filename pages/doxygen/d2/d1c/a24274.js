@@ -1,7 +1,7 @@
 var a24274 =
 [
-    [ "npc_kservantAI", "d2/d1c/a24274.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d2/d1c/a24274.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d2/d1c/a24274.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d2/d1c/a24274.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
+    [ "CheckClass", "d2/d1c/a24274.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
+    [ "HandleScript", "d2/d1c/a24274.html#a4f4f7004be5629efdc48b52b6667edba", null ],
+    [ "PrepareSpellScript", "d2/d1c/a24274.html#a599ce758681c5196bd40e4c7b86635cc", null ],
+    [ "Register", "d2/d1c/a24274.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
 ];

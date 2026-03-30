@@ -1,6 +1,7 @@
 var a22106 =
 [
-    [ "ChangeSummonPos", "d8/de8/a22106.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "d8/de8/a22106.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "d8/de8/a22106.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "HandleScript", "d8/de8/a22106.html#a1811115f1732912bdfaeeb8272db2304", null ],
+    [ "PrepareSpellScript", "d8/de8/a22106.html#a50c24464dd88717bf78971d679715d7b", null ],
+    [ "Register", "d8/de8/a22106.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
+    [ "Validate", "d8/de8/a22106.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
 ];

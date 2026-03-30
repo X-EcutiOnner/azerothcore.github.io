@@ -1,8 +1,7 @@
 var a15682 =
 [
-    [ "npc_ouro_spawner", "d2/db3/a15682.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "d2/db3/a15682.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "d2/db3/a15682.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "d2/db3/a15682.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "d2/db3/a15682.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "npc_prospector_remtravelAI", "d6/de5/a15686.html", "d6/de5/a15686" ],
+    [ "npc_prospector_remtravel", "d2/db3/a15682.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "d2/db3/a15682.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "d2/db3/a15682.html#a5e11149b6359927a71c98242d979e65b", null ]
 ];

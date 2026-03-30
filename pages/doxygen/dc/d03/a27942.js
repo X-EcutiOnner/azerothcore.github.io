@@ -1,6 +1,9 @@
 var a27942 =
 [
-    [ "HandleProc", "dc/d03/a27942.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
-    [ "PrepareAuraScript", "dc/d03/a27942.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
-    [ "Register", "dc/d03/a27942.html#adf0852d1aad8097143df205a66a49f2f", null ]
+    [ "go_gilded_brazierAI", "dc/d03/a27942.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "dc/d03/a27942.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "dc/d03/a27942.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "dc/d03/a27942.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "dc/d03/a27942.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "dc/d03/a27942.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

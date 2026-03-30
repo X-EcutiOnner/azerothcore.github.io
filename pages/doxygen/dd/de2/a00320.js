@@ -1,4 +1,4 @@
 var a00320 =
 [
-    [ "SessionKeyGenerator< Hash >", "d6/d39/a05439.html", "d6/d39/a05439" ]
+    [ "LockedQueue< T, StorageType >", "d1/d96/a05654.html", "d1/d96/a05654" ]
 ];

@@ -1,6 +1,10 @@
 var a20266 =
 [
-    [ "npc_pool_of_tar", "df/de1/a20266.html#a03de46dfa133992d094ab607a49b7236", null ],
-    [ "DamageTaken", "df/de1/a20266.html#ac72ad742cb16e27abf25fe0e88408315", null ],
-    [ "SpellHit", "df/de1/a20266.html#a61886862df88b41bf0c6959c9a564cea", null ]
+    [ "boss_kologarn_eyebeam", "df/de1/a20266.html#ae51ea98b22b3a0734347825b3a0346be", null ],
+    [ "DamageDealt", "df/de1/a20266.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
+    [ "IsSummonedBy", "df/de1/a20266.html#a1640ef2ca2a58803786a6c675191676c", null ],
+    [ "UpdateAI", "df/de1/a20266.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
+    [ "_damaged", "df/de1/a20266.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
+    [ "_instance", "df/de1/a20266.html#a600467b5bb551022d7e0b12ce739b672", null ],
+    [ "_timer", "df/de1/a20266.html#a0d324467d4d02d7bd204f66fcadc52ea", null ]
 ];

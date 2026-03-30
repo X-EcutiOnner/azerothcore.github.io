@@ -1,13 +1,6 @@
 var a17602 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "d8/dd6/a17602.html#a2b8f5479565297c95ecdc4882e7d27ae", null ],
-    [ "DoAction", "d8/dd6/a17602.html#aa1df5c0f5612a9fc9a4e78fb901dc8e7", null ],
-    [ "JustSummoned", "d8/dd6/a17602.html#acdfc5d370da977ab69752016368cc9b0", null ],
-    [ "MovementInform", "d8/dd6/a17602.html#a95c033e4e2ca224be09ce993f4e7996d", null ],
-    [ "SummonedCreatureDespawn", "d8/dd6/a17602.html#af31de5c7f901baf4d8c62964fee8ead8", null ],
-    [ "UpdateAI", "d8/dd6/a17602.html#ad22fbcd52404c1e9c1fc71f3bc6b7525", null ],
-    [ "events", "d8/dd6/a17602.html#a44045ae5151625a4d7aacb69e9c934e5", null ],
-    [ "i", "d8/dd6/a17602.html#aa185914ee8a2352e4d233f1fc4800390", null ],
-    [ "pInstance", "d8/dd6/a17602.html#ac38febd0bce9338346d0c1aa6ba50de3", null ],
-    [ "summons", "d8/dd6/a17602.html#ad0f2097f168ea5983e3eece24cb82bfa", null ]
+    [ "HandleScript", "d8/dd6/a17602.html#acd11d50f398857dc2a24bd2d63e52222", null ],
+    [ "PrepareSpellScript", "d8/dd6/a17602.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
+    [ "Register", "d8/dd6/a17602.html#ad7f12515dc21ab6b19148370fd491629", null ]
 ];

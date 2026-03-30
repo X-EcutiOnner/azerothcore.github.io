@@ -1,6 +1,6 @@
 var a20494 =
 [
-    [ "FilterTargets", "de/d35/a20494.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "de/d35/a20494.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "de/d35/a20494.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "OnPeriodic", "de/d35/a20494.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "de/d35/a20494.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "de/d35/a20494.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

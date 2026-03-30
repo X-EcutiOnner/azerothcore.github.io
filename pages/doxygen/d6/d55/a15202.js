@@ -1,8 +1,7 @@
 var a15202 =
 [
-    [ "hyjalThrallAI", "d6/d55/a15202.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d6/d55/a15202.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d6/d55/a15202.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d6/d55/a15202.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d6/d55/a15202.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "npc_onyxian_lair_guard", "d6/d55/a15202.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d6/d55/a15202.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d6/d55/a15202.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "d6/d55/a15202.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

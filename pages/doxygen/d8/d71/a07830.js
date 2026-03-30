@@ -1,6 +1,7 @@
 var a07830 =
 [
-    [ "value_type", "d8/d71/a07830.html#aa9f15f4c6028776b59bf56cbd63587d9", null ],
-    [ "operator()", "d8/d71/a07830.html#a3042bf741c31893eb607817093239f1a", null ],
-    [ "operator()", "d8/d71/a07830.html#a83fddb5675f63d4535fac9e62cf9638d", null ]
+    [ "CommandPermissions", "d8/d71/a07830.html#ad1242d9067778298c44501b5d5a962f8", null ],
+    [ "CommandPermissions", "d8/d71/a07830.html#a47f284c63f10b6c3479624845b696aa6", null ],
+    [ "AllowConsole", "d8/d71/a07830.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
+    [ "RequiredLevel", "d8/d71/a07830.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
 ];

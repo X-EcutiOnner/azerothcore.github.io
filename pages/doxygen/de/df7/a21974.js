@@ -1,7 +1,6 @@
 var a21974 =
 [
-    [ "HandleScript", "de/df7/a21974.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "de/df7/a21974.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "de/df7/a21974.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "de/df7/a21974.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_icefangAI", "da/d10/a21978.html", "da/d10/a21978" ],
+    [ "npc_icefang", "de/df7/a21974.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "de/df7/a21974.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

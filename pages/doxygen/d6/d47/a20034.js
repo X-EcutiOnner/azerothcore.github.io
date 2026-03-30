@@ -1,6 +1,5 @@
 var a20034 =
 [
-    [ "boss_sjonnirAI", "d3/dd2/a20038.html", "d3/dd2/a20038" ],
-    [ "boss_sjonnir", "d6/d47/a20034.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d6/d47/a20034.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "achievement_flame_leviathan_shutout", "d6/d47/a20034.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "d6/d47/a20034.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

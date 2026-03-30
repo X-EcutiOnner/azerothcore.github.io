@@ -1,6 +1,7 @@
 var a19506 =
 [
-    [ "NotOnSameSide", "d3/dca/a19506.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "d3/dca/a19506.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "d3/dca/a19506.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "HandlePull", "d3/dca/a19506.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "d3/dca/a19506.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "d3/dca/a19506.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "d3/dca/a19506.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

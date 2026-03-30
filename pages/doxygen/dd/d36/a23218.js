@@ -1,9 +1,8 @@
 var a23218 =
 [
-    [ "CalcPeriodic", "dd/d36/a23218.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
-    [ "HandleEffectApply", "dd/d36/a23218.html#adb983cc531fa666648bbdb432684ff1d", null ],
-    [ "HandleEffectRemove", "dd/d36/a23218.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
-    [ "OnPeriodic", "dd/d36/a23218.html#aecefab535157dbe8e42aff3b23cd685b", null ],
-    [ "PrepareAuraScript", "dd/d36/a23218.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
-    [ "Register", "dd/d36/a23218.html#a3771abcc829883ba0cbae9587adbe751", null ]
+    [ "boss_broggok", "dd/d36/a23218.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "dd/d36/a23218.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "dd/d36/a23218.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "dd/d36/a23218.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "dd/d36/a23218.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

@@ -1,6 +1,7 @@
 var a23038 =
 [
-    [ "HandleScriptEffect", "d9/d6d/a23038.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
-    [ "PrepareSpellScript", "d9/d6d/a23038.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
-    [ "Register", "d9/d6d/a23038.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
+    [ "HandleScriptEffect", "d9/d6d/a23038.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "d9/d6d/a23038.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "d9/d6d/a23038.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "d9/d6d/a23038.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

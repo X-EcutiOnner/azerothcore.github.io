@@ -1,6 +1,6 @@
 var a21490 =
 [
-    [ "npc_azure_captainAI", "d6/dca/a21494.html", "d6/dca/a21494" ],
-    [ "npc_azure_captain", "de/db2/a21490.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "de/db2/a21490.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "npc_heated_battleAI", "de/db2/a21490.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "de/db2/a21490.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "de/db2/a21490.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

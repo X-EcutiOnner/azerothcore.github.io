@@ -1,8 +1,6 @@
 var a18810 =
 [
-    [ "ChangeDamageAndGrow", "dc/dcc/a18810.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "dc/dcc/a18810.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "dc/dcc/a18810.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "dc/dcc/a18810.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "dc/dcc/a18810.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "npc_crok_scourgebaneAI", "d1/d51/a18814.html", "d1/d51/a18814" ],
+    [ "npc_crok_scourgebane", "dc/dcc/a18810.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "dc/dcc/a18810.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

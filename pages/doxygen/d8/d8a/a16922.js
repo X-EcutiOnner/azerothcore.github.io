@@ -1,7 +1,6 @@
 var a16922 =
 [
-    [ "npc_toc_paladinAI", "d8/d8a/a16922.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
-    [ "myCanCast", "d8/d8a/a16922.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
-    [ "UpdateAI", "d8/d8a/a16922.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
-    [ "events", "d8/d8a/a16922.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
+    [ "npc_announcer_toc10", "d8/d8a/a16922.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "d8/d8a/a16922.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "d8/d8a/a16922.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

@@ -1,6 +1,6 @@
 var a13202 =
 [
-    [ "npc_sanguine_spirit", "d1/d73/a13202.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
-    [ "Reset", "d1/d73/a13202.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
-    [ "UpdateAI", "d1/d73/a13202.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "d0/db6/a13206.html", "d0/db6/a13206" ],
+    [ "instance_magisters_terrace", "d1/d73/a13202.html#a81e23ce04c4d765193d2d2763ef78987", null ],
+    [ "GetInstanceScript", "d1/d73/a13202.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
 ];

@@ -1,5 +1,6 @@
 var a15722 =
 [
-    [ "at_twin_emperors", "d6/da4/a15722.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "d6/da4/a15722.html#adf3120b7bf611e0246abb2970711ada3", null ]
+    [ "npc_tiger_matriarch_creditAI", "d6/da4/a15722.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "d6/da4/a15722.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "d6/da4/a15722.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

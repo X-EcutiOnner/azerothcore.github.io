@@ -1,17 +1,16 @@
 var a13246 =
 [
-    [ "boss_dorothee", "dd/d72/a13246.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
-    [ "DoAction", "dd/d72/a13246.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
-    [ "EnterEvadeMode", "dd/d72/a13246.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
-    [ "JustDied", "dd/d72/a13246.html#a289dfa1f257ca25acba9487908e6223c", null ],
-    [ "JustEngagedWith", "dd/d72/a13246.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
-    [ "JustReachedHome", "dd/d72/a13246.html#a762209d2bf78cc21c48a426732f2354e", null ],
-    [ "Reset", "dd/d72/a13246.html#ae3f123a6a9223b7928295812326b0cb4", null ],
-    [ "SummonedCreatureDies", "dd/d72/a13246.html#a0e76c828a1c7c49741963b6e98003a66", null ],
-    [ "SummonTito", "dd/d72/a13246.html#a5c04074aab40ecaeeb84b33205b40144", null ],
-    [ "UpdateAI", "dd/d72/a13246.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
-    [ "_scheduler", "dd/d72/a13246.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
-    [ "_startIntro", "dd/d72/a13246.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
-    [ "instance", "dd/d72/a13246.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
-    [ "titoDied", "dd/d72/a13246.html#a258cc9ce32f314e723d5345ac18336bf", null ]
+    [ "npc_unworthy_initiateAI", "dd/d72/a13246.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
+    [ "EventStart", "dd/d72/a13246.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
+    [ "JustEngagedWith", "dd/d72/a13246.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
+    [ "MovementInform", "dd/d72/a13246.html#afbf6d71b196067400256df98949ae963", null ],
+    [ "Reset", "dd/d72/a13246.html#aba37cb6291a2e7436f8af796c50dead9", null ],
+    [ "UpdateAI", "dd/d72/a13246.html#a485695877f48aea0bb191e8b312f9c99", null ],
+    [ "anchorGUID", "dd/d72/a13246.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
+    [ "anchorX", "dd/d72/a13246.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
+    [ "anchorY", "dd/d72/a13246.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
+    [ "events", "dd/d72/a13246.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
+    [ "phase", "dd/d72/a13246.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
+    [ "playerGUID", "dd/d72/a13246.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
+    [ "wait_timer", "dd/d72/a13246.html#a9270c6e57cf77805769cfe692beefbe0", null ]
 ];

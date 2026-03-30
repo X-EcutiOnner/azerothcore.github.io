@@ -1,9 +1,9 @@
 var a08262 =
 [
-    [ "artKits", "dd/d7d/a08262.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
-    [ "entry", "dd/d7d/a08262.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
-    [ "faction", "dd/d7d/a08262.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
-    [ "flags", "dd/d7d/a08262.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
-    [ "maxgold", "dd/d7d/a08262.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
-    [ "mingold", "dd/d7d/a08262.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
+    [ "LFGPlayerScript", "dd/d7d/a08262.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
+    [ "OnPlayerBindToInstance", "dd/d7d/a08262.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
+    [ "OnPlayerLevelChanged", "dd/d7d/a08262.html#afd530a2823a7187b49645c9d0625c8ba", null ],
+    [ "OnPlayerLogin", "dd/d7d/a08262.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
+    [ "OnPlayerLogout", "dd/d7d/a08262.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
+    [ "OnPlayerMapChanged", "dd/d7d/a08262.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
 ];

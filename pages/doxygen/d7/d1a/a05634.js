@@ -1,12 +1,8 @@
 var a05634 =
 [
-    [ "Node", "de/df7/a05638.html", "de/df7/a05638" ],
-    [ "MPSCQueueNonIntrusive", "d7/d1a/a05634.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
-    [ "~MPSCQueueNonIntrusive", "d7/d1a/a05634.html#a599e2093215f70dc4f2f7db08965d816", null ],
-    [ "MPSCQueueNonIntrusive", "d7/d1a/a05634.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
-    [ "Dequeue", "d7/d1a/a05634.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
-    [ "Enqueue", "d7/d1a/a05634.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
-    [ "operator=", "d7/d1a/a05634.html#a75063e89049903fb5305d67ea1a02034", null ],
-    [ "_head", "d7/d1a/a05634.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
-    [ "_tail", "d7/d1a/a05634.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
+    [ "LogOperation", "d7/d1a/a05634.html#a19e5e4731bd71697876110348f86d737", null ],
+    [ "~LogOperation", "d7/d1a/a05634.html#aae305e293044badac1a628edd501ed35", null ],
+    [ "call", "d7/d1a/a05634.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
+    [ "logger", "d7/d1a/a05634.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
+    [ "msg", "d7/d1a/a05634.html#a665effc48367f396f3e714f5d3d56d75", null ]
 ];

@@ -1,5 +1,10 @@
 var a04727 =
 [
-    [ "cheat_commandscript", "d5/de3/a12151.html", "d5/de3/a12151" ],
-    [ "AddSC_cheat_commandscript", "dc/d43/a04727.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
+    [ "ObjectPosSelector", "dc/d3c/a08722.html", "dc/d3c/a08722" ],
+    [ "ObjectPosSelector::UsedPos", "dc/dfe/a08726.html", "dc/dfe/a08726" ],
+    [ "UsedPosType", "dc/d43/a04727.html#a2f1e7723f9d73cff4490d29d2b3df397", [
+      [ "USED_POS_PLUS", "dc/d43/a04727.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e", null ],
+      [ "USED_POS_MINUS", "dc/d43/a04727.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816", null ]
+    ] ],
+    [ "operator~", "dc/d43/a04727.html#a083d37b8f4388d54d83aeb6562b5fe09", null ]
 ];

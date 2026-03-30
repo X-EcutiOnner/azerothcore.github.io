@@ -1,8 +1,7 @@
 var a16650 =
 [
-    [ "Load", "d2/deb/a16650.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "d2/deb/a16650.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "d2/deb/a16650.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "d2/deb/a16650.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "d2/deb/a16650.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "HandleEffectPeriodic", "d2/deb/a16650.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "d2/deb/a16650.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "d2/deb/a16650.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "d2/deb/a16650.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

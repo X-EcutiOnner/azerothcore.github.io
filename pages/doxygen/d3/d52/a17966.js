@@ -1,6 +1,6 @@
 var a17966 =
 [
-    [ "PrepareAuraScript", "d3/d52/a17966.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "d3/d52/a17966.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "d3/d52/a17966.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "HandlePeriodicTick", "d3/d52/a17966.html#a29bf443cdb53b10032ba382b8ae44828", null ],
+    [ "PrepareAuraScript", "d3/d52/a17966.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
+    [ "Register", "d3/d52/a17966.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
 ];

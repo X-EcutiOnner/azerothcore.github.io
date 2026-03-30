@@ -1,5 +1,7 @@
 var a23442 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "db/dc7/a23442.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "db/dc7/a23442.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "HandleCast", "db/dc7/a23442.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "db/dc7/a23442.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "db/dc7/a23442.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "db/dc7/a23442.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

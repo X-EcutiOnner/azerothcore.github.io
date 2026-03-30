@@ -1,6 +1,5 @@
 var a17006 =
 [
-    [ "npc_toc_retro_paladinAI", "d0/d7c/a17010.html", "d0/d7c/a17010" ],
-    [ "npc_toc_retro_paladin", "dc/d14/a17006.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "dc/d14/a17006.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "achievement_consumption_junction", "dc/d14/a17006.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "dc/d14/a17006.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

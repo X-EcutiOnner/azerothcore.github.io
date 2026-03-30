@@ -1,11 +1,10 @@
 var a00164 =
 [
-    [ "HashTrait< GameObjectModel >", "df/daa/a05167.html", "df/daa/a05167" ],
-    [ "PositionTrait< GameObjectModel >", "dc/d66/a05171.html", "dc/d66/a05171" ],
-    [ "BoundsTrait< GameObjectModel >", "dc/d07/a05175.html", "dc/d07/a05175" ],
-    [ "DynTreeImpl", "dc/daa/a05179.html", "dc/daa/a05179" ],
-    [ "DynamicTreeIntersectionCallback", "d7/d48/a05183.html", "d7/d48/a05183" ],
-    [ "DynamicTreeLocationInfoCallback", "db/d48/a05187.html", "db/d48/a05187" ],
-    [ "ParentTree", "db/ddf/a00164.html#a8e6e06962c0e04aa7bb4ea9a8e6f54a9", null ],
-    [ "CHECK_TREE_PERIOD", "db/ddf/a00164.html#a6c8b5b425bcbc0776a4dfa5dae72bf74", null ]
+    [ "BoundsTrait< VMAP::GroupModel >", "da/d4d/a05322.html", "da/d4d/a05322" ],
+    [ "VMAP::TriBoundFunc", "d9/d7c/a05326.html", "d9/d7c/a05326" ],
+    [ "VMAP::GModelRayCallback", "db/d4c/a05330.html", "db/d4c/a05330" ],
+    [ "VMAP::WModelRayCallBack", "dc/dcf/a05334.html", "dc/dcf/a05334" ],
+    [ "VMAP::WModelAreaCallback", "da/da3/a05338.html", "da/da3/a05338" ],
+    [ "IntersectTriangle", "db/ddf/a00164.html#a4fa75e5ca5211394c63abc7ff28eb741", null ],
+    [ "IsInsideOrAboveBound", "db/ddf/a00164.html#a830eb7f04e05a094cc7cefbc43fa6f91", null ]
 ];

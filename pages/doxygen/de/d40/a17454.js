@@ -1,8 +1,6 @@
 var a17454 =
 [
-    [ "npc_hor_raging_ghoulAI", "de/d40/a17454.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
-    [ "JustDied", "de/d40/a17454.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
-    [ "Reset", "de/d40/a17454.html#aa52576d94e230797209dfc938d62187f", null ],
-    [ "UpdateAI", "de/d40/a17454.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
-    [ "leaped", "de/d40/a17454.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
+    [ "boss_prince_kelesethAI", "dc/d9e/a17458.html", "dc/d9e/a17458" ],
+    [ "boss_prince_keleseth_icc", "de/d40/a17454.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "de/d40/a17454.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

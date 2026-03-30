@@ -1,7 +1,7 @@
 var a24746 =
 [
-    [ "AfterApply", "db/d3d/a24746.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "db/d3d/a24746.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "db/d3d/a24746.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "db/d3d/a24746.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "CheckProc", "db/d3d/a24746.html#ab376febda606dba5e9f7f5639f867859", null ],
+    [ "HandleProc", "db/d3d/a24746.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
+    [ "PrepareAuraScript", "db/d3d/a24746.html#a7693a86824050ff5615996d0d03d0292", null ],
+    [ "Register", "db/d3d/a24746.html#a458745913288889f687bb19a147cb0fb", null ]
 ];

@@ -1,4 +1,9 @@
 var a15442 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "db/d8e/a15442.html#a4b55a59943c798b203a0a3c811588e7d", null ]
+    [ "boss_fankriss", "db/d8e/a15442.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
+    [ "JustEngagedWith", "db/d8e/a15442.html#a9eaae719a271a95f64ac8076fe807c13", null ],
+    [ "Reset", "db/d8e/a15442.html#af84010ee103eb81c1e269b03fc640f81", null ],
+    [ "SummonHatchlingWaves", "db/d8e/a15442.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
+    [ "SummonWorms", "db/d8e/a15442.html#ada23537921c3a11195450db89eb8fcfe", null ],
+    [ "summonWormSpells", "db/d8e/a15442.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
 ];

@@ -1,4 +1,6 @@
 var a00269 =
 [
-    [ "RefMgr< TO, FROM >", "db/d0d/a05495.html", "db/d0d/a05495" ]
+    [ "GetDefaultNetmaskV4", "d5/d42/a00269.html#af75b2c10ca445dc89c53b7ed8d17eae0", null ],
+    [ "IsInNetwork", "d5/d42/a00269.html#af108d05a57113d16ab9c8f3b26870be2", null ],
+    [ "IsInNetwork", "d5/d42/a00269.html#a2617cb1c747a45e5af4e2c32cc29d5de", null ]
 ];

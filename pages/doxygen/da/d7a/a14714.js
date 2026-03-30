@@ -1,7 +1,5 @@
 var a14714 =
 [
-    [ "FilterTargets", "da/d7a/a14714.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
-    [ "HandleDummyEffect", "da/d7a/a14714.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
-    [ "PrepareSpellScript", "da/d7a/a14714.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
-    [ "Register", "da/d7a/a14714.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
+    [ "go_pumpkin_shrine", "da/d7a/a14714.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "da/d7a/a14714.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

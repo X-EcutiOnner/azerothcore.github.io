@@ -1,6 +1,8 @@
 var a21594 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d6/d13/a21598.html", "d6/d13/a21598" ],
-    [ "npc_valiance_keep_cannoneer", "d7/d37/a21594.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "d7/d37/a21594.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "OnRemove", "d7/d37/a21594.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "d7/d37/a21594.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "d7/d37/a21594.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "d7/d37/a21594.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "d7/d37/a21594.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

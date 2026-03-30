@@ -1,6 +1,6 @@
 var a16710 =
 [
-    [ "HandleScript", "d1/dbe/a16710.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d1/dbe/a16710.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d1/dbe/a16710.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "npc_toc_mageAI", "d4/ddf/a16714.html", "d4/ddf/a16714" ],
+    [ "npc_toc_mage", "d1/dbe/a16710.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
+    [ "GetAI", "d1/dbe/a16710.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
 ];

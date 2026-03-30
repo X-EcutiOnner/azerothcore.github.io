@@ -1,7 +1,6 @@
 var a17062 =
 [
-    [ "FilterTargets", "d3/d93/a17062.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d3/d93/a17062.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d3/d93/a17062.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d3/d93/a17062.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_fos_leader_secondAI", "de/d0d/a17066.html", "de/d0d/a17066" ],
+    [ "npc_fos_leader_second", "d3/d93/a17062.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "d3/d93/a17062.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

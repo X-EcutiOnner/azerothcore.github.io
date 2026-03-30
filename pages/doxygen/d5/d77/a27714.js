@@ -1,8 +1,5 @@
 var a27714 =
 [
-    [ "HandleDummyTick", "d5/d77/a27714.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "d5/d77/a27714.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "d5/d77/a27714.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "d5/d77/a27714.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "d5/d77/a27714.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "achievement_fa_la_la_la_ogrila", "d5/d77/a27714.html#ab98a8ab33fec62936bf3c235659c1445", null ],
+    [ "OnCheck", "d5/d77/a27714.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
 ];

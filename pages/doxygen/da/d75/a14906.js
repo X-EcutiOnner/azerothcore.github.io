@@ -1,6 +1,11 @@
 var a14906 =
 [
-    [ "npc_soh_fire_trigger", "da/d75/a14906.html#a8bddde264f4848c9a8ed83dcad190223", null ],
-    [ "Reset", "da/d75/a14906.html#acbec442907a8b40ae04496c53f210aa2", null ],
-    [ "SpellHit", "da/d75/a14906.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
+    [ "boss_anetheron", "da/d75/a14906.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "da/d75/a14906.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "da/d75/a14906.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "da/d75/a14906.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "da/d75/a14906.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "da/d75/a14906.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "da/d75/a14906.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
+    [ "_recentlySpoken", "da/d75/a14906.html#accd9455c3b1d536ca177be6028f3503d", null ]
 ];

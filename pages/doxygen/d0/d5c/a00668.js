@@ -1,9 +1,12 @@
 var a00668 =
 [
-    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript", "d3/dc1/a29419.html", "d3/dc1/a29419" ],
-    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::TestPlayer", "d4/d71/a29423.html", "d4/d71/a29423" ],
-    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest", "d1/d79/a29427.html", "d1/d79/a29427" ],
-    [ "TEST_F", "d0/d5c/a00668.html#a3c2cf023118b4939342706355b5e3e23", null ],
-    [ "TEST_F", "d0/d5c/a00668.html#ab69ef1935950dc8de0cefd60510d681d", null ],
-    [ "TEST_F", "d0/d5c/a00668.html#af70d9dbfad6d1852aa5b7ea680a70928", null ]
+    [ "BinarySpellDetectionTest", "d0/da8/a29422.html", "d0/da8/a29422" ],
+    [ "ShouldMarkBinary", "d0/d5c/a00668.html#ab2154405a408271aa60863454b0303fe", null ],
+    [ "TEST_F", "d0/d5c/a00668.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
+    [ "TEST_F", "d0/d5c/a00668.html#afb1918ddefeb036bd6be1fbde953b78b", null ],
+    [ "TEST_F", "d0/d5c/a00668.html#a1dc398eff0ed30b3e1997c3b27980bed", null ],
+    [ "TEST_F", "d0/d5c/a00668.html#ad56defbc63a988ba5126194ff9cea5ec", null ],
+    [ "TEST_F", "d0/d5c/a00668.html#a54fa8a3ce4060060ece3f2a2d9e852e7", null ],
+    [ "TEST_F", "d0/d5c/a00668.html#aa1b8d26dc43fa9eaf1d827a0c4308dd1", null ],
+    [ "TEST_F", "d0/d5c/a00668.html#a4e6cbd19c7f85354ce9a5f5a9a1bafe6", null ]
 ];

@@ -1,8 +1,9 @@
 var a22014 =
 [
-    [ "CheckCast", "d5/d54/a22014.html#a49e425fa95e5107f38aa16e546674b7d", null ],
-    [ "HandleScript", "d5/d54/a22014.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
-    [ "PrepareSpellScript", "d5/d54/a22014.html#a9e7a1239e165131b70c437793b5371d0", null ],
-    [ "Register", "d5/d54/a22014.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
-    [ "Validate", "d5/d54/a22014.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
+    [ "HandlePeriodic", "d5/d54/a22014.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "d5/d54/a22014.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "d5/d54/a22014.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "d5/d54/a22014.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "d5/d54/a22014.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "d5/d54/a22014.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

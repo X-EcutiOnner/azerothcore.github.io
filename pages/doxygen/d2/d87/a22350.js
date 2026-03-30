@@ -1,7 +1,10 @@
 var a22350 =
 [
-    [ "npc_wg_demolisher_engineer", "d2/d87/a22350.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d2/d87/a22350.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d2/d87/a22350.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d2/d87/a22350.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "boss_talon_king_ikiss", "d2/d87/a22350.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "d2/d87/a22350.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d2/d87/a22350.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d2/d87/a22350.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d2/d87/a22350.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d2/d87/a22350.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d2/d87/a22350.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

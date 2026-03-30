@@ -1,6 +1,7 @@
 var a17590 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d5/db3/a17594.html", "d5/db3/a17594" ],
-    [ "npc_pos_collapsing_icicle", "de/d53/a17590.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "de/d53/a17590.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "OnProc", "de/d53/a17590.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "de/d53/a17590.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "de/d53/a17590.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "de/d53/a17590.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

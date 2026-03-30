@@ -1,7 +1,9 @@
 var a17258 =
 [
-    [ "HandleScriptEffect", "d0/d37/a17258.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "d0/d37/a17258.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "d0/d37/a17258.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "d0/d37/a17258.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "npc_pos_after_first_bossAI", "d0/d37/a17258.html#a622df71849da1e10e2b73068f0adea98", null ],
+    [ "MovementInform", "d0/d37/a17258.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
+    [ "Reset", "d0/d37/a17258.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
+    [ "UpdateAI", "d0/d37/a17258.html#ac45111887fd7833a041355658dd26158", null ],
+    [ "events", "d0/d37/a17258.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
+    [ "pInstance", "d0/d37/a17258.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
 ];

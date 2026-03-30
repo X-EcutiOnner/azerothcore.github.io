@@ -1,12 +1,16 @@
 var a14822 =
 [
-    [ "npc_alexstraza_the_lifebinder", "d6/d1c/a14822.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "d6/d1c/a14822.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "d6/d1c/a14822.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "d6/d1c/a14822.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "UpdateAI", "d6/d1c/a14822.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "d6/d1c/a14822.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "d6/d1c/a14822.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "d6/d1c/a14822.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "d6/d1c/a14822.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "npc_pilgrims_bounty_chair", "d6/d1c/a14822.html#a896c9efee388d7cb5d6dc82e7c537021", null ],
+    [ "AttackStart", "d6/d1c/a14822.html#ad2ed9436e8c6d3afa4ac747b925e66a4", null ],
+    [ "DamageTaken", "d6/d1c/a14822.html#a29b012b8fc4e7cb30072b2c4a935dd3a", null ],
+    [ "DoAction", "d6/d1c/a14822.html#a8a7c49f28df937e90dbaa83be85b595e", null ],
+    [ "GetPlate", "d6/d1c/a14822.html#ad3cbb85577ca0f7b596d1882c71f2371", null ],
+    [ "MoveInLineOfSight", "d6/d1c/a14822.html#aa44fc14f98ac00cfe098516963cc3c8b", null ],
+    [ "PassengerBoarded", "d6/d1c/a14822.html#a9a43ccc98f2e184f709b1af6992acea8", null ],
+    [ "SpellHit", "d6/d1c/a14822.html#a681323ae3100f46dd0aba595159d7daf", null ],
+    [ "SpellHitTarget", "d6/d1c/a14822.html#affd51da83859b962977ed6b51c74d01e", null ],
+    [ "UpdateAI", "d6/d1c/a14822.html#aebe6eb7aca62faece6dfb6dff27d775e", null ],
+    [ "plateGUID", "d6/d1c/a14822.html#a23b35fee8255073c7b94d7bac54d9b22", null ],
+    [ "timerRotateChair", "d6/d1c/a14822.html#a2b9c9bc4d9f4abc53dc717ab3aa9865e", null ],
+    [ "timerSpawnPlate", "d6/d1c/a14822.html#a907cb3d22f4e0daf92dada09fdc16b94", null ]
 ];

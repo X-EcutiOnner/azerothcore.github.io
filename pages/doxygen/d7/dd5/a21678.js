@@ -1,9 +1,8 @@
 var a21678 =
 [
-    [ "npc_archmage_landalockAI", "d7/dd5/a21678.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "d7/dd5/a21678.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "d7/dd5/a21678.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "d7/dd5/a21678.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "d7/dd5/a21678.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "d7/dd5/a21678.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "HandleEffectApply", "d7/dd5/a21678.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "d7/dd5/a21678.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "d7/dd5/a21678.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "d7/dd5/a21678.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "d7/dd5/a21678.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

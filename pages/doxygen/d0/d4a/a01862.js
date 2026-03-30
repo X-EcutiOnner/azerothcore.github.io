@@ -1,18 +1,23 @@
 var a01862 =
 [
-    [ "UnitBaseEvent", "d8/dda/a08101.html", "d8/dda/a08101" ],
-    [ "ThreatRefStatusChangeEvent", "d3/d6e/a08105.html", "d3/d6e/a08105" ],
-    [ "ThreatMgrEvent", "d3/d6a/a08113.html", "d3/d6a/a08113" ],
-    [ "UEV_ALL_EVENT_MASK", "d0/d4a/a01862.html#a99af7f8805c877a694d51ab4feb1e58b", null ],
-    [ "UEV_THREAT_MANAGER_EVENT_MASK", "d0/d4a/a01862.html#a28d3aa8f148208fa65f5ef1af46913cc", null ],
-    [ "UEV_THREAT_REF_EVENT_MASK", "d0/d4a/a01862.html#aca3c8db6dd274b113d9c3c7755ff5d7a", null ],
-    [ "UNIT_EVENT_TYPE", "d0/d4a/a01862.html#a5207de6e2fb421d2579a9baf4c471e97", [
-      [ "UEV_THREAT_REF_ONLINE_STATUS", "d0/d4a/a01862.html#a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9", null ],
-      [ "UEV_THREAT_REF_THREAT_CHANGE", "d0/d4a/a01862.html#a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0", null ],
-      [ "UEV_THREAT_REF_REMOVE_FROM_LIST", "d0/d4a/a01862.html#a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0", null ],
-      [ "UEV_THREAT_REF_ASSECCIBLE_STATUS", "d0/d4a/a01862.html#a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db", null ],
-      [ "UEV_THREAT_SORT_LIST", "d0/d4a/a01862.html#a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865", null ],
-      [ "UEV_THREAT_SET_NEXT_TARGET", "d0/d4a/a01862.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9", null ],
-      [ "UEV_THREAT_VICTIM_CHANGED", "d0/d4a/a01862.html#a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669", null ]
-    ] ]
+    [ "instance_black_temple", "d0/dfa/a22730.html", "d0/dfa/a22730" ],
+    [ "instance_black_temple::instance_black_temple_InstanceMapScript", "d2/d9d/a22734.html", "d2/d9d/a22734" ],
+    [ "spell_black_template_harpooners_mark_aura", "d0/de6/a22738.html", "d0/de6/a22738" ],
+    [ "spell_black_template_free_friend", "d9/da4/a22742.html", "d9/da4/a22742" ],
+    [ "spell_black_temple_curse_of_the_bleakheart_aura", "dd/d30/a22746.html", "dd/d30/a22746" ],
+    [ "spell_black_temple_skeleton_shot_aura", "d3/d50/a22750.html", "d3/d50/a22750" ],
+    [ "spell_black_temple_wyvern_sting_aura", "d8/d51/a22754.html", "d8/d51/a22754" ],
+    [ "spell_black_temple_charge_rage_aura", "d4/d19/a22758.html", "d4/d19/a22758" ],
+    [ "spell_black_temple_shadow_inferno_aura", "d4/db1/a22762.html", "d4/db1/a22762" ],
+    [ "spell_black_temple_spell_absorption_aura", "d9/d22/a22766.html", "d9/d22/a22766" ],
+    [ "spell_black_temple_bloodbolt", "d6/d6c/a22770.html", "d6/d6c/a22770" ],
+    [ "spell_black_temple_consuming_strikes_aura", "dc/d46/a22774.html", "dc/d46/a22774" ],
+    [ "spell_black_temple_curse_of_vitality_aura", "d2/de9/a22778.html", "d2/de9/a22778" ],
+    [ "spell_black_temple_summon_shadowfiends", "dc/d6a/a22782.html", "dc/d6a/a22782" ],
+    [ "spell_black_temple_l5_arcane_charge", "de/de1/a22786.html", "de/de1/a22786" ],
+    [ "AddSC_instance_black_temple", "d0/d4a/a01862.html#a15f766c45ce62741982e2a1711514aa8", null ],
+    [ "boundaries", "d0/d4a/a01862.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d0/d4a/a01862.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d0/d4a/a01862.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "summonData", "d0/d4a/a01862.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

@@ -1,5 +1,7 @@
 var a20686 =
 [
-    [ "npc_ulduar_rocket_strike_trigger", "dd/da4/a20686.html#aeed5dd446c67bba7edac698fe5e237c8", null ],
-    [ "SpellHitTarget", "dd/da4/a20686.html#ad4a438c5143a6de2b469baa28f0893c5", null ]
+    [ "HandleEffectCalcPeriodic", "dd/da4/a20686.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "dd/da4/a20686.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "dd/da4/a20686.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "dd/da4/a20686.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

@@ -1,8 +1,7 @@
 var a11238 =
 [
-    [ "CrossedInebriationThreshold", "d9/d62/a11238.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "d9/d62/a11238.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "d9/d62/a11238.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "d9/d62/a11238.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "d9/d62/a11238.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "MinimapPingClient", "d9/d62/a11238.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
+    [ "Read", "d9/d62/a11238.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
+    [ "MapX", "d9/d62/a11238.html#ad4ff3977c260035145d6acd00429d81e", null ],
+    [ "MapY", "d9/d62/a11238.html#abd8640cb98238f339218c3b945885c97", null ]
 ];

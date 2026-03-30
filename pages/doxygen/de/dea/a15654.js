@@ -1,6 +1,7 @@
 var a15654 =
 [
-    [ "OnPeriodic", "de/dea/a15654.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "de/dea/a15654.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "de/dea/a15654.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "npc_prophet_velen", "de/dea/a15654.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "de/dea/a15654.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "de/dea/a15654.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "de/dea/a15654.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

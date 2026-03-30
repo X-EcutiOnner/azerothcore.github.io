@@ -1,7 +1,8 @@
 var a21950 =
 [
-    [ "HandleScript", "d2/db7/a21950.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "d2/db7/a21950.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "d2/db7/a21950.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "d2/db7/a21950.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_time_lost_proto_drakeAI", "d2/db7/a21950.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "InitializeAI", "d2/db7/a21950.html#a6b99780951a126a97db88e7307c1d1b9", null ],
+    [ "JustEngagedWith", "d2/db7/a21950.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "Reset", "d2/db7/a21950.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "d2/db7/a21950.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

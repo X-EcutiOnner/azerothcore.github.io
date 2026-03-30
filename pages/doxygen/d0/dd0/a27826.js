@@ -1,7 +1,7 @@
 var a27826 =
 [
-    [ "HandleApplyAura", "d0/dd0/a27826.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d0/dd0/a27826.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d0/dd0/a27826.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d0/dd0/a27826.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "HandlePeriodic", "d0/dd0/a27826.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d0/dd0/a27826.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d0/dd0/a27826.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d0/dd0/a27826.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

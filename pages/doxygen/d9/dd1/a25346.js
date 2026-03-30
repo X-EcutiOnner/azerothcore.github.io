@@ -1,7 +1,7 @@
 var a25346 =
 [
-    [ "HandleStun", "d9/dd1/a25346.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
-    [ "PrepareAuraScript", "d9/dd1/a25346.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
-    [ "Register", "d9/dd1/a25346.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
-    [ "Validate", "d9/dd1/a25346.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
+    [ "HandleDummy", "d9/dd1/a25346.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
+    [ "Load", "d9/dd1/a25346.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
+    [ "PrepareSpellScript", "d9/dd1/a25346.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
+    [ "Register", "d9/dd1/a25346.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
 ];

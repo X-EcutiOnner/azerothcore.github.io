@@ -1,8 +1,6 @@
 var a26714 =
 [
-    [ "Load", "d3/d8b/a26714.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "d3/d8b/a26714.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "d3/d8b/a26714.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "d3/d8b/a26714.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "d3/d8b/a26714.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "HandleScriptEffect", "d3/d8b/a26714.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
+    [ "PrepareSpellScript", "d3/d8b/a26714.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
+    [ "Register", "d3/d8b/a26714.html#a12c61c9057250f12ea50be74ba74c948", null ]
 ];

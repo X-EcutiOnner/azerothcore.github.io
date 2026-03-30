@@ -1,6 +1,8 @@
 var a24270 =
 [
-    [ "npc_kservantAI", "d2/d1c/a24274.html", "d2/d1c/a24274" ],
-    [ "npc_kservant", "d2/dad/a24270.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d2/dad/a24270.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "CheckCast", "d2/dad/a24270.html#a94851a2b6a62138e28466317e9e88480", null ],
+    [ "HandleDummy", "d2/dad/a24270.html#a970684d219c99519512c437a8efd8d43", null ],
+    [ "PrepareSpellScript", "d2/dad/a24270.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
+    [ "Register", "d2/dad/a24270.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
+    [ "Validate", "d2/dad/a24270.html#a59cca008a97447e257bf24071301b366", null ]
 ];

@@ -1,9 +1,8 @@
 var a21626 =
 [
-    [ "npc_bloodmage_laurithAI", "d3/d13/a21626.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d3/d13/a21626.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d3/d13/a21626.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
-    [ "UpdateAI", "d3/d13/a21626.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d3/d13/a21626.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d3/d13/a21626.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_ravenous_worgAI", "d3/d13/a21626.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d3/d13/a21626.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d3/d13/a21626.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d3/d13/a21626.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d3/d13/a21626.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

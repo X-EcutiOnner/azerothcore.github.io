@@ -1,28 +1,7 @@
 var a08346 =
 [
-    [ "CreatureGroupMemberType", "de/db4/a08346.html#a0c8f7d4ceda056e0d39d80d434e4feca", null ],
-    [ "CreatureGroup", "de/db4/a08346.html#aa5016e1ecda1477992e159bf604e4280", null ],
-    [ "~CreatureGroup", "de/db4/a08346.html#a16be792f604999ba80b361b59ea77a76", null ],
-    [ "AddMember", "de/db4/a08346.html#afca7fafddd0f361507469f875bf5d17c", null ],
-    [ "CanLeaderStartMoving", "de/db4/a08346.html#ab6371dfdcceb23f52935a8aee833a381", null ],
-    [ "DespawnFormation", "de/db4/a08346.html#a07388907629846288949a5a896d0c00d", null ],
-    [ "FormationReset", "de/db4/a08346.html#a1b206e69df855ed13f3b687017474a1a", null ],
-    [ "GetId", "de/db4/a08346.html#a0d67df48ef040fc8f14b1ddf307aed14", null ],
-    [ "GetLeader", "de/db4/a08346.html#a160d77342c8e11d97f66def5ff795929", null ],
-    [ "GetMembers", "de/db4/a08346.html#a889df9f73068078942c5e4cef1669e35", null ],
-    [ "GetNewTargetForMember", "de/db4/a08346.html#af6204f37e817c59cd556d76a5a19bf77", null ],
-    [ "IsAnyMemberAlive", "de/db4/a08346.html#adf09b1ad9b9f48f56ea1f2e0e6579689", null ],
-    [ "IsEmpty", "de/db4/a08346.html#ad88320d89fba23f6cdf5fd0b4de33c18", null ],
-    [ "IsFormationInCombat", "de/db4/a08346.html#a6e2dc8bde0b1c0db11bb04f31dafe96d", null ],
-    [ "IsFormed", "de/db4/a08346.html#a60d646229e75ac6bf0be825f43e7368c", null ],
-    [ "LeaderStartedMoving", "de/db4/a08346.html#a8f7f63a7244479625dd66ec27366d040", null ],
-    [ "MemberEngagingTarget", "de/db4/a08346.html#a9964d390c9276d3e058c20afc6932367", null ],
-    [ "MemberEvaded", "de/db4/a08346.html#a2547bae861879c20724c1d04db55e88a", null ],
-    [ "RemoveFormationMovement", "de/db4/a08346.html#a93f43557cae43ebe978fc4a25c1d10a5", null ],
-    [ "RemoveMember", "de/db4/a08346.html#a8080ff17f223119659870c49db3ae6d9", null ],
-    [ "RespawnFormation", "de/db4/a08346.html#a4777b1e1b5a4d084ba0648917b372c47", null ],
-    [ "m_Formed", "de/db4/a08346.html#a2215d3dc155916d657c499fac6d4ce3e", null ],
-    [ "m_groupID", "de/db4/a08346.html#afd1a31d9316e6cca399bea0e328b8333", null ],
-    [ "m_leader", "de/db4/a08346.html#ae9689e23f755a12f1be14601bb2f2677", null ],
-    [ "m_members", "de/db4/a08346.html#a63805a04ef3ef80270ae7e7d03014d83", null ]
+    [ "VendorItemCount", "de/db4/a08346.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
+    [ "count", "de/db4/a08346.html#aff4c062138792ffb37dadb19b725c87c", null ],
+    [ "itemId", "de/db4/a08346.html#a225158bbb56d6666ba4918155f08f993", null ],
+    [ "lastIncrementTime", "de/db4/a08346.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
 ];

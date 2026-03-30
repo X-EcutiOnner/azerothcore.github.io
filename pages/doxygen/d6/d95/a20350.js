@@ -1,5 +1,9 @@
 var a20350 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d6/d95/a20350.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d6/d95/a20350.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "OnApply", "d6/d95/a20350.html#aaf6e89fc5d101b1622666a6fe15f20e7", null ],
+    [ "OnRemove", "d6/d95/a20350.html#a9bfdefb3e212cca086dec752687e2b93", null ],
+    [ "OnRemoveSelf", "d6/d95/a20350.html#a3076446d6761263fdb7f973f01be3cf2", null ],
+    [ "PrepareAuraScript", "d6/d95/a20350.html#a685d6c0ffcc258f9d6857242cb28f6a8", null ],
+    [ "Register", "d6/d95/a20350.html#a1369972dfbf969cb39efa88075fc13df", null ],
+    [ "Validate", "d6/d95/a20350.html#ada8c858f70beb71765fd0f796209677b", null ]
 ];

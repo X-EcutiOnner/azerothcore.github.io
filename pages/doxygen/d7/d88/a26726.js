@@ -1,8 +1,8 @@
 var a26726 =
 [
-    [ "CheckCast", "d7/d88/a26726.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
-    [ "HandleDummy", "d7/d88/a26726.html#a1eac1eb5f39093ff48942e82728478dd", null ],
-    [ "PrepareSpellScript", "d7/d88/a26726.html#adbb58b75232560d101b291c0d99a2a20", null ],
-    [ "Register", "d7/d88/a26726.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
-    [ "Validate", "d7/d88/a26726.html#a4b67c348685a8094668e4ed2f0c78446", null ]
+    [ "HandleEffectRemove", "d7/d88/a26726.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
+    [ "if", "d7/d88/a26726.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
+    [ "PrepareAuraScript", "d7/d88/a26726.html#a531f51626ae4527282ad1e628911a9ea", null ],
+    [ "Register", "d7/d88/a26726.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
+    [ "AuraEffectHandleModes", "d7/d88/a26726.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
 ];

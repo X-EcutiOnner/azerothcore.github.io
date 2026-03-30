@@ -1,7 +1,7 @@
 var a06198 =
 [
-    [ "SpellTargetSelector", "df/d12/a06198.html#a9f1f441e542500dc43c58b97729f7f51", null ],
-    [ "operator()", "df/d12/a06198.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
-    [ "_caster", "df/d12/a06198.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
-    [ "_spellInfo", "df/d12/a06198.html#a309ed04630cfb92810b7f51376b3917c", null ]
+    [ "arg1", "df/d12/a06198.html#aa2018e5823bcf013847605847231e3c2", null ],
+    [ "arg2", "df/d12/a06198.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
+    [ "arg3", "df/d12/a06198.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
+    [ "updateType", "df/d12/a06198.html#a84cace2469c54d57b33abe5ca93588ca", null ]
 ];

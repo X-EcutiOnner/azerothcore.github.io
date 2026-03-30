@@ -1,5 +1,5 @@
 var a29450 =
 [
-    [ "areatableID", "df/d62/a29450.html#a991f3242c87939be42d107d6908f441d", null ],
-    [ "ID", "df/d62/a29450.html#ac57c444da58dea7227bd26e0f6b7bbff", null ]
+    [ "aura", "df/d62/a29450.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
+    [ "effect", "df/d62/a29450.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
 ];

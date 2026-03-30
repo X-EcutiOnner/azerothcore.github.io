@@ -1,8 +1,9 @@
 var a14650 =
 [
-    [ "boss_venoxis", "d8/de4/a14650.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "d8/de4/a14650.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "d8/de4/a14650.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "d8/de4/a14650.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "d8/de4/a14650.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "spell_hallows_end_put_costume", "d8/de4/a14650.html#ac1fcd0a32142744f353cdc01bce740e3", null ],
+    [ "HandleScript", "d8/de4/a14650.html#ac4be92e73c08c06c1c9954547bfe8013", null ],
+    [ "PrepareSpellScript", "d8/de4/a14650.html#ac0e4692be1527f052a23ed52af32d042", null ],
+    [ "Register", "d8/de4/a14650.html#ac38299892d02c497e3bbae3c73a095ab", null ],
+    [ "_femaleSpell", "d8/de4/a14650.html#a5ccb30abd83ed1d0be104bffc91deca2", null ],
+    [ "_maleSpell", "d8/de4/a14650.html#af9b285133389942bea6738e518d34e48", null ]
 ];

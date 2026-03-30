@@ -1,11 +1,6 @@
 var a13502 =
 [
-    [ "npc_a_special_surpriseAI", "d3/d88/a13502.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "d3/d88/a13502.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "d3/d88/a13502.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "d3/d88/a13502.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "d3/d88/a13502.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "d3/d88/a13502.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "d3/d88/a13502.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "d3/d88/a13502.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "instance_stratholme_InstanceMapScript", "dd/d57/a13506.html", "dd/d57/a13506" ],
+    [ "instance_stratholme", "d3/d88/a13502.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "d3/d88/a13502.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

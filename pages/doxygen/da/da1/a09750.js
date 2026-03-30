@@ -1,9 +1,7 @@
 var a09750 =
 [
-    [ "UnitAuraCheck", "da/da1/a09750.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "da/da1/a09750.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "da/da1/a09750.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "da/da1/a09750.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "da/da1/a09750.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "da/da1/a09750.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "AllWorldObjectsInRange", "da/da1/a09750.html#a63f46d510df0fa3153d4b3325676a468", null ],
+    [ "operator()", "da/da1/a09750.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
+    [ "m_fRange", "da/da1/a09750.html#a6afe3ef05369dce8ee205db219f97846", null ],
+    [ "m_pObject", "da/da1/a09750.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
 ];

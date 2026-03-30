@@ -1,6 +1,8 @@
 var a12442 =
 [
-    [ "boss_gorosh_the_dervishAI", "dd/d2c/a12446.html", "dd/d2c/a12446" ],
-    [ "boss_gorosh_the_dervish", "df/d6c/a12442.html#a18c39f21ebf6a9d43d37eb92857083a3", null ],
-    [ "GetAI", "df/d6c/a12442.html#abae1fa2a7e959d1b7b02e0850aff4fb9", null ]
+    [ "boss_eviscerator", "df/d6c/a12442.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
+    [ "DamageTaken", "df/d6c/a12442.html#af31de4643026e44c80252e156a39bc69", null ],
+    [ "JustEngagedWith", "df/d6c/a12442.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
+    [ "UpdateAI", "df/d6c/a12442.html#af974908902d30b8144d1b734e795d6ea", null ],
+    [ "SpellShieldReady", "df/d6c/a12442.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
 ];

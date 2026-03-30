@@ -1,13 +1,10 @@
 var a22982 =
 [
-    [ "boss_teron_gorefiend", "d8/dfd/a22982.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
-    [ "JustDied", "d8/dfd/a22982.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
-    [ "JustEngagedWith", "d8/dfd/a22982.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
-    [ "JustSummoned", "d8/dfd/a22982.html#a71db567c5be7396add349e2f1b455a50", null ],
-    [ "KilledUnit", "d8/dfd/a22982.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
-    [ "Reset", "d8/dfd/a22982.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
-    [ "SetData", "d8/dfd/a22982.html#a139c351471a3f19c7e59cf8e40913820", null ],
-    [ "UpdateAI", "d8/dfd/a22982.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
-    [ "_intro", "d8/dfd/a22982.html#a99c62157084373e8eddd4497360cc047", null ],
-    [ "_recentlySpoken", "d8/dfd/a22982.html#adef80b4509a6a72e7021fd3cc11de697", null ]
+    [ "npc_frozen_core", "d8/dfd/a22982.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
+    [ "DoAction", "d8/dfd/a22982.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
+    [ "Initialize", "d8/dfd/a22982.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
+    [ "JustDied", "d8/dfd/a22982.html#a476e086b0379e0cef3a44d250b020d6a", null ],
+    [ "UpdateAI", "d8/dfd/a22982.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
+    [ "_events", "d8/dfd/a22982.html#a3a5efec3279644ef713722e1556a3c84", null ],
+    [ "_instance", "d8/dfd/a22982.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
 ];

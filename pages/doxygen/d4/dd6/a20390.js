@@ -1,5 +1,5 @@
 var a20390 =
 [
-    [ "achievement_freya_getting_back_to_nature", "d4/dd6/a20390.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "d4/dd6/a20390.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "d4/dd6/a20390.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "d4/dd6/a20390.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

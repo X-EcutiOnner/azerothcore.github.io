@@ -1,7 +1,10 @@
 var a13978 =
 [
-    [ "HandleAfterCast", "df/d6a/a13978.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "df/d6a/a13978.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "df/d6a/a13978.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "df/d6a/a13978.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "npc_tyrion_spybotAI", "df/d6a/a13978.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "df/d6a/a13978.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "df/d6a/a13978.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "df/d6a/a13978.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "WaypointReached", "df/d6a/a13978.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "uiPhase", "df/d6a/a13978.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "df/d6a/a13978.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

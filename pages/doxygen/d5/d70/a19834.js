@@ -1,12 +1,7 @@
 var a19834 =
 [
-    [ "instance_nexus_InstanceMapScript", "d5/d70/a19834.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
-    [ "Initialize", "d5/d70/a19834.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
-    [ "KillAllFrayers", "d5/d70/a19834.html#a7c696467deba7a2f15d5175e3427bd20", null ],
-    [ "OnCreatureCreate", "d5/d70/a19834.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
-    [ "OnGameObjectCreate", "d5/d70/a19834.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
-    [ "OnGameObjectRemove", "d5/d70/a19834.html#ac148c67823484eee38ab6646dfb68530", null ],
-    [ "SetBossState", "d5/d70/a19834.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
-    [ "SetData", "d5/d70/a19834.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
-    [ "_frayerGUIDs", "d5/d70/a19834.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
+    [ "HandleDummyEffect", "d5/d70/a19834.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "d5/d70/a19834.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "d5/d70/a19834.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "d5/d70/a19834.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

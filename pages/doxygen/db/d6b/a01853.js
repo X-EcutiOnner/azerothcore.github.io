@@ -1,12 +1,14 @@
 var a01853 =
 [
-    [ "Elapsed", "db/d6b/a01853.html#af9a7dcb5dfa331445f56900767b13e8b", null ],
-    [ "GetGameTime", "db/d6b/a01853.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
-    [ "GetGameTimeMS", "db/d6b/a01853.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
-    [ "GetStartTime", "db/d6b/a01853.html#a872d34d3f9d420cfc749073c809931f9", null ],
-    [ "GetSystemTime", "db/d6b/a01853.html#a443eccf314fe436192278d425d6d8220", null ],
-    [ "GetUptime", "db/d6b/a01853.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
-    [ "HasElapsed", "db/d6b/a01853.html#a6acb8998bc9dae720531cb39082262f2", null ],
-    [ "Now", "db/d6b/a01853.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
-    [ "UpdateGameTimers", "db/d6b/a01853.html#a45712735241c9563a12fc3da54fb144d", null ]
+    [ "go_main_chambers_access_panel", "d1/d23/a23082.html", "d1/d23/a23082" ],
+    [ "instance_steam_vault", "dd/d2b/a23086.html", "dd/d2b/a23086" ],
+    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d8/dcc/a23090.html", "d8/dcc/a23090" ],
+    [ "MainChambersAccessPanelSays", "db/d6b/a01853.html#aa8d293574a308aad41f620556eb63b6a", [
+      [ "SAY_FAINT_ECHO", "db/d6b/a01853.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
+      [ "SAY_LOUD_RUMBLE", "db/d6b/a01853.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
+    ] ],
+    [ "AddSC_instance_steam_vault", "db/d6b/a01853.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
+    [ "creatureData", "db/d6b/a01853.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "minionData", "db/d6b/a01853.html#a6720238df140a3c574a711042b7f5bd3", null ],
+    [ "objectData", "db/d6b/a01853.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
 ];

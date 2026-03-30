@@ -1,6 +1,5 @@
 var a20222 =
 [
-    [ "FilterTargets", "df/d2f/a20222.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "df/d2f/a20222.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "df/d2f/a20222.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "achievement_i_have_the_coolest_friends", "df/d2f/a20222.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "df/d2f/a20222.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

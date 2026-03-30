@@ -1,13 +1,7 @@
 var a23182 =
 [
-    [ "npc_inner_demon", "d3/d76/a23182.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
-    [ "CanAIAttack", "d3/d76/a23182.html#a7498fd32b0ace832b38dc624d07478ed", null ],
-    [ "CanBeSeen", "d3/d76/a23182.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
-    [ "CanReceiveDamage", "d3/d76/a23182.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
-    [ "IsSummonedBy", "d3/d76/a23182.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
-    [ "JustDied", "d3/d76/a23182.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
-    [ "OnCalculateMeleeDamageReceived", "d3/d76/a23182.html#ae95022548b44b23ef93fae24729b5af5", null ],
-    [ "OnCalculatePeriodicTickReceived", "d3/d76/a23182.html#a546281a2257d0407d294fba1f7d3426f", null ],
-    [ "OnCalculateSpellDamageReceived", "d3/d76/a23182.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
-    [ "UpdateAI", "d3/d76/a23182.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
+    [ "HandleScriptEffect", "d3/d76/a23182.html#a534bf39998813f06c48bc920e4666692", null ],
+    [ "PrepareSpellScript", "d3/d76/a23182.html#a5892f20a0704596cb70a995a73846368", null ],
+    [ "Register", "d3/d76/a23182.html#a1176b4e4ad488a3b6b38ff4b8c955d64", null ],
+    [ "Validate", "d3/d76/a23182.html#af618314a13013eaf9f36b30047de0878", null ]
 ];

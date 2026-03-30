@@ -1,12 +1,13 @@
 var a29010 =
 [
-    [ "cellSizeHorizontal", "db/db4/a29010.html#a5356c03dab90621b69de7a79ed4ab195", null ],
-    [ "cellSizeVertical", "db/db4/a29010.html#a47b5a920afa39ae27a80241d58f152a3", null ],
-    [ "tileOverrides", "db/db4/a29010.html#a129437291e75a919e4158bf1df0f7f0a", null ],
-    [ "vertexPerMapEdge", "db/db4/a29010.html#a9d32da8787f54a7dadb86458319e0238", null ],
-    [ "vertexPerTileEdge", "db/db4/a29010.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
-    [ "walkableClimb", "db/db4/a29010.html#a2bd854b374d67d53b03a7bacf0785726", null ],
-    [ "walkableHeight", "db/db4/a29010.html#a1de27edad5c45f8033ce74352c563f52", null ],
-    [ "walkableRadius", "db/db4/a29010.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
-    [ "walkableSlopeAngle", "db/db4/a29010.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
+    [ "AcquireMethod", "db/db4/a29010.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
+    [ "ClassMask", "db/db4/a29010.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
+    [ "ID", "db/db4/a29010.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
+    [ "MinSkillLineRank", "db/db4/a29010.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
+    [ "RaceMask", "db/db4/a29010.html#acfd38780584b90ca40a1e1cd59605832", null ],
+    [ "SkillLine", "db/db4/a29010.html#a0050dcf5c82f785dfc93079debe54a13", null ],
+    [ "Spell", "db/db4/a29010.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
+    [ "SupercededBySpell", "db/db4/a29010.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
+    [ "TrivialSkillLineRankHigh", "db/db4/a29010.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
+    [ "TrivialSkillLineRankLow", "db/db4/a29010.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
 ];

@@ -1,7 +1,6 @@
 var a25582 =
 [
-    [ "HandleProc", "d6/da3/a25582.html#af2da4e2be8fbb73a398308a0cdc86112", null ],
-    [ "PrepareAuraScript", "d6/da3/a25582.html#af463b573b0202e74f77c46fadca3b5e0", null ],
-    [ "Register", "d6/da3/a25582.html#a6e435d0802370379fa0d1707442eaa58", null ],
-    [ "Validate", "d6/da3/a25582.html#a1fe293134b3f57386ab412357ce968e4", null ]
+    [ "HandleSummon", "d6/da3/a25582.html#aadfea4a2238754473a8abbc487fd7f7b", null ],
+    [ "PrepareSpellScript", "d6/da3/a25582.html#a4974a3687df394d51db322210ebb5ddb", null ],
+    [ "Register", "d6/da3/a25582.html#a89146ab41d1408c18ce2bff403ae8e4e", null ]
 ];

@@ -1,6 +1,5 @@
 var a14854 =
 [
-    [ "gameobjectId", "d5/d25/a14854.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d5/d25/a14854.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d5/d25/a14854.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "achievement_pb_pilgrims_peril", "d5/d25/a14854.html#a9516eab18d7e1401a5637913d8ec9595", null ],
+    [ "OnCheck", "d5/d25/a14854.html#a78c92eab532448080c1d28dc8fcabaca", null ]
 ];

@@ -1,9 +1,9 @@
 var a23742 =
 [
-    [ "boss_high_botanist_freywinn", "de/ddf/a23742.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "de/ddf/a23742.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "de/ddf/a23742.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "de/ddf/a23742.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "de/ddf/a23742.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "de/ddf/a23742.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "npc_fel_guard_houndAI", "de/ddf/a23742.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "de/ddf/a23742.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "de/ddf/a23742.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "de/ddf/a23742.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "de/ddf/a23742.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "de/ddf/a23742.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

@@ -1,6 +1,6 @@
 var a14606 =
 [
-    [ "LaunchHit", "d0/d0d/a14606.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "d0/d0d/a14606.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "d0/d0d/a14606.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "npc_cw_area_triggerAI", "d5/d21/a14610.html", "d5/d21/a14610" ],
+    [ "npc_cw_area_trigger", "d0/d0d/a14606.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "d0/d0d/a14606.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

@@ -1,7 +1,8 @@
 var a29006 =
 [
-    [ "walkableClimb", "d7/d87/a29006.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
-    [ "walkableHeight", "d7/d87/a29006.html#a32f39a07562c47be0a311d7959678044", null ],
-    [ "walkableRadius", "d7/d87/a29006.html#a6e708a591e7b5597e129a653e1379a1e", null ],
-    [ "walkableSlopeAngle", "d7/d87/a29006.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
+    [ "canLink", "d7/d87/a29006.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "d7/d87/a29006.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "d7/d87/a29006.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "d7/d87/a29006.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "d7/d87/a29006.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

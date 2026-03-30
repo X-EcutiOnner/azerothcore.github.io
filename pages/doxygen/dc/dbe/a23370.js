@@ -1,10 +1,8 @@
 var a23370 =
 [
-    [ "boss_warlord_kalithresh", "dc/dbe/a23370.html#afcf2288fbea2d5010c41344ce0247559", null ],
-    [ "JustDied", "dc/dbe/a23370.html#a1947562aa9dafea371e2f2da824a3f65", null ],
-    [ "JustEngagedWith", "dc/dbe/a23370.html#a2712f5c363c3929550b77ef2536b1385", null ],
-    [ "KilledUnit", "dc/dbe/a23370.html#a06855288497f5335a236867ef681d3f8", null ],
-    [ "MoveInLineOfSight", "dc/dbe/a23370.html#a544da19b6c3a6f159ed6b1639def1071", null ],
-    [ "Reset", "dc/dbe/a23370.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
-    [ "_introDone", "dc/dbe/a23370.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
+    [ "npc_warchief_portal", "dc/dbe/a23370.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "dc/dbe/a23370.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "dc/dbe/a23370.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "dc/dbe/a23370.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "dc/dbe/a23370.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

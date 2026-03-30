@@ -1,6 +1,7 @@
 var a14534 =
 [
-    [ "FilterTargets", "d0/d1f/a14534.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "d0/d1f/a14534.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "d0/d1f/a14534.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "npc_direbrew_minion", "d0/d1f/a14534.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d0/d1f/a14534.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d0/d1f/a14534.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d0/d1f/a14534.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

@@ -1,8 +1,7 @@
 var a28918 =
 [
-    [ "ADT_file", "d7/d2b/a28918.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
-    [ "~ADT_file", "d7/d2b/a28918.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
-    [ "free", "d7/d2b/a28918.html#a8fc207b8cc83596577166a0008965dc6", null ],
-    [ "prepareLoadedData", "d7/d2b/a28918.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
-    [ "a_grid", "d7/d2b/a28918.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
+    [ "AllocationPct", "d7/d2b/a28918.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "d7/d2b/a28918.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "d7/d2b/a28918.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "d7/d2b/a28918.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

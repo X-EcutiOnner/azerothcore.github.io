@@ -1,7 +1,7 @@
 var a26858 =
 [
-    [ "HandleProc", "d1/d68/a26858.html#a72463db57f87387aa3ff3175c45ca9df", null ],
-    [ "PrepareAuraScript", "d1/d68/a26858.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
-    [ "Register", "d1/d68/a26858.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
-    [ "Validate", "d1/d68/a26858.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
+    [ "HandleScriptEffect", "d1/d68/a26858.html#ae7bfcdf3306fe4c8532649ff7e892c57", null ],
+    [ "PrepareSpellScript", "d1/d68/a26858.html#ad2bfab00a973366af32388e40b9d2566", null ],
+    [ "Register", "d1/d68/a26858.html#acbf74d85d9d8ce8e9ce0546c90cb7efa", null ],
+    [ "Validate", "d1/d68/a26858.html#a487fa0e6b5f2682349b22737ceeae50c", null ]
 ];

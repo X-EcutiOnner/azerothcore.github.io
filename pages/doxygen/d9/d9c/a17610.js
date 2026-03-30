@@ -1,6 +1,6 @@
 var a17610 =
 [
-    [ "npc_pos_freed_slaveAI", "d9/d9c/a17610.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "d9/d9c/a17610.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "d9/d9c/a17610.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "boss_deathbringer_saurfangAI", "db/db0/a17614.html", "db/db0/a17614" ],
+    [ "boss_deathbringer_saurfang", "d9/d9c/a17610.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d9/d9c/a17610.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

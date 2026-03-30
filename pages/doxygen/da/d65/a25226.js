@@ -1,8 +1,5 @@
 var a25226 =
 [
-    [ "CheckRequirement", "da/d65/a25226.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "da/d65/a25226.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "da/d65/a25226.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "da/d65/a25226.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "da/d65/a25226.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "PrepareSpellScript", "da/d65/a25226.html#aa07fade62e79ccc8ad969de44b886332", null ],
+    [ "Register", "da/d65/a25226.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
 ];

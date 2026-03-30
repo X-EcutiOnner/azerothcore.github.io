@@ -1,6 +1,6 @@
 var a16802 =
 [
-    [ "npc_toc5_player_vehicleAI", "d6/da7/a16806.html", "d6/da7/a16806" ],
-    [ "npc_toc5_player_vehicle", "d2/d40/a16802.html#a8786627999d3d1681d9de58cd8c46744", null ],
-    [ "GetAI", "d2/d40/a16802.html#af89c559eff828130df821c0c30c61f7a", null ]
+    [ "npc_fel_infernalAI", "d6/da7/a16806.html", "d6/da7/a16806" ],
+    [ "npc_fel_infernal", "d2/d40/a16802.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "d2/d40/a16802.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

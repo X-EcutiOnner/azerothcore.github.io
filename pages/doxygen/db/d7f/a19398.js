@@ -1,6 +1,5 @@
 var a19398 =
 [
-    [ "RespawnEvent", "db/d7f/a19398.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "db/d7f/a19398.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "db/d7f/a19398.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "npc_mr_bigglesworth", "db/d7f/a19398.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "db/d7f/a19398.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

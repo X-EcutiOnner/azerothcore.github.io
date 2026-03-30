@@ -1,7 +1,7 @@
 var a18006 =
 [
-    [ "ExtraEffect", "de/d33/a18006.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "de/d33/a18006.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "de/d33/a18006.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "de/d33/a18006.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "HandleSpikes", "de/d33/a18006.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "de/d33/a18006.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "de/d33/a18006.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "de/d33/a18006.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

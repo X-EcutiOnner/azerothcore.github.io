@@ -1,8 +1,7 @@
 var a29246 =
 [
-    [ "Id", "d5/d30/a29246.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "d5/d30/a29246.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "d5/d30/a29246.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "d5/d30/a29246.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "d5/d30/a29246.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "MockAuraStub", "d5/d30/a29246.html#a9f0561eabca5230f8fe27384e0deb6b8", null ],
+    [ "MOCK_METHOD", "d5/d30/a29246.html#a727233484b563f548c9f0e2d8a78b9a6", null ],
+    [ "MOCK_METHOD", "d5/d30/a29246.html#a9581f1887abbe708bc4e2da24e1996b5", null ],
+    [ "MOCK_METHOD", "d5/d30/a29246.html#abe2d675e124d5cb9115e8f726b1c7d8b", null ]
 ];

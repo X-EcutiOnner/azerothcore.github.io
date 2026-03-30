@@ -1,7 +1,7 @@
 var a10074 =
 [
-    [ "resetNotify", "de/df4/a10074.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
-    [ "Visit", "de/df4/a10074.html#adfcdcf148b002c641638ddc70d577b14", null ],
-    [ "Visit", "de/df4/a10074.html#adf95512d4304962a5740b38c32ea28a7", null ],
-    [ "Visit", "de/df4/a10074.html#a725fc2c2504eecaa15841c27b367cd55", null ]
+    [ "ZRangeBoundary", "de/df4/a10074.html#ab9c77783e059de4478625f7c97713c49", null ],
+    [ "IsWithinBoundaryArea", "de/df4/a10074.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
+    [ "_maxZ", "de/df4/a10074.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
+    [ "_minZ", "de/df4/a10074.html#aee142d5bc4cfae80584b84ae451da05c", null ]
 ];

@@ -1,7 +1,7 @@
 var a25422 =
 [
-    [ "PrepareAuraScript", "d2/d86/a25422.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
-    [ "Register", "d2/d86/a25422.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
-    [ "TriggerFoodBuff", "d2/d86/a25422.html#a5d125413491dd377d61b8e30c4979fdd", null ],
-    [ "Validate", "d2/d86/a25422.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
+    [ "HandlePeriodic", "d2/d86/a25422.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
+    [ "PrepareAuraScript", "d2/d86/a25422.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
+    [ "Register", "d2/d86/a25422.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
+    [ "Validate", "d2/d86/a25422.html#a55720e74edaf5eedf074738846ba6dd8", null ]
 ];

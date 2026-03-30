@@ -1,7 +1,10 @@
 var a15002 =
 [
-    [ "HandleEffectApply", "d5/d69/a15002.html#a404f2134734e1d21201033b3f26e611e", null ],
-    [ "HandleEffectPeriodic", "d5/d69/a15002.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
-    [ "PrepareAuraScript", "d5/d69/a15002.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
-    [ "Register", "d5/d69/a15002.html#ad239472c15ca0c73b053d112f538ecff", null ]
+    [ "npc_hyjal_frost_wyrm", "d5/d69/a15002.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "d5/d69/a15002.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "d5/d69/a15002.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "d5/d69/a15002.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "d5/d69/a15002.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "d5/d69/a15002.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "d5/d69/a15002.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

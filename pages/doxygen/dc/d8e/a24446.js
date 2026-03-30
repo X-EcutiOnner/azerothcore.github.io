@@ -1,6 +1,7 @@
 var a24446 =
 [
-    [ "DeathEvent", "dc/d8e/a24446.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "dc/d8e/a24446.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "dc/d8e/a24446.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "HandleProc", "dc/d8e/a24446.html#ae8764fc6c284a13f610e55933b24102e", null ],
+    [ "PrepareAuraScript", "dc/d8e/a24446.html#a9ea55387324cbcecc72b82a58bcd9a48", null ],
+    [ "Register", "dc/d8e/a24446.html#ae65e0a22aab9802ed869b7fb6e823d9e", null ],
+    [ "Validate", "dc/d8e/a24446.html#aafa30eef7a8c8aac3699edc4afb97f19", null ]
 ];

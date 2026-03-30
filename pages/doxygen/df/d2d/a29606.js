@@ -1,5 +1,7 @@
 var a29606 =
 [
-    [ "auraHasDisableProcAttr", "df/d2d/a29606.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
-    [ "triggeringSpellIsProcDisabled", "df/d2d/a29606.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
+    [ "asyncId", "df/d2d/a29606.html#afd18849875b4562e4a532903676ce25d", null ],
+    [ "flags", "df/d2d/a29606.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
+    [ "offsMCNK", "df/d2d/a29606.html#a063c5dc62c44038e882340221bf8228a", null ],
+    [ "size", "df/d2d/a29606.html#a47a5eeb595d53de009651ae02d2b416d", null ]
 ];

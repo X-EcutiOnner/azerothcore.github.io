@@ -1,15 +1,6 @@
 var a13326 =
 [
-    [ "npc_image_of_medivhAI", "dd/d3d/a13326.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
-    [ "JustEngagedWith", "dd/d3d/a13326.html#a1013be426b3567d8cbd1c45debc914c5", null ],
-    [ "NextStep", "dd/d3d/a13326.html#a87160b37ba61af4866fe3f410813fe9f", null ],
-    [ "Reset", "dd/d3d/a13326.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
-    [ "UpdateAI", "dd/d3d/a13326.html#a321d689d645b4630e2e93e6251d5130c", null ],
-    [ "ArcanagosGUID", "dd/d3d/a13326.html#a877c693b6ac736aa874926d8efe0d79a", null ],
-    [ "ATimer", "dd/d3d/a13326.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
-    [ "EventStarted", "dd/d3d/a13326.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
-    [ "instance", "dd/d3d/a13326.html#a2e02aa8d441426aa51f46121eec0becb", null ],
-    [ "MTimer", "dd/d3d/a13326.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
-    [ "Step", "dd/d3d/a13326.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
-    [ "YellTimer", "dd/d3d/a13326.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
+    [ "OnRemove", "dd/d3d/a13326.html#aedad236b202300eee0925e3600b87bfa", null ],
+    [ "PrepareAuraScript", "dd/d3d/a13326.html#acfdeb98e274989e378d4d4c800306a24", null ],
+    [ "Register", "dd/d3d/a13326.html#a0d820ca108e3aabe87ab5867d997264c", null ]
 ];

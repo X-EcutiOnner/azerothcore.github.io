@@ -1,8 +1,7 @@
 var a26534 =
 [
-    [ "CheckProc", "d0/d77/a26534.html#a801610a9f9fae5cb711850254b291268", null ],
-    [ "HandleProc", "d0/d77/a26534.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
-    [ "PrepareAuraScript", "d0/d77/a26534.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
-    [ "Register", "d0/d77/a26534.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
-    [ "Validate", "d0/d77/a26534.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
+    [ "FilterTargets", "d0/d77/a26534.html#ad679149423fda97ad5744318520022b1", null ],
+    [ "PrepareSpellScript", "d0/d77/a26534.html#ac57c48690c5ad1b907f56287aee949a4", null ],
+    [ "Register", "d0/d77/a26534.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
+    [ "Validate", "d0/d77/a26534.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
 ];

@@ -1,12 +1,14 @@
 var a19530 =
 [
-    [ "npc_gothik_triggerAI", "d9/d45/a19530.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "d9/d45/a19530.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "d9/d45/a19530.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "d9/d45/a19530.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "d9/d45/a19530.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "d9/d45/a19530.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "d9/d45/a19530.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "d9/d45/a19530.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "d9/d45/a19530.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "npc_crystalline_frayer", "d9/d45/a19530.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
+    [ "DamageTaken", "d9/d45/a19530.html#a2580575a58353e8cb94561bafd74f502", null ],
+    [ "EnterEvadeMode", "d9/d45/a19530.html#a9240adcfe966f11c925db82add432aa5", null ],
+    [ "EnterSeedPod", "d9/d45/a19530.html#a070554a809ba40726d005fdba19a16b0", null ],
+    [ "JustEngagedWith", "d9/d45/a19530.html#a91e8c4015b9b238fd2144999bcef9362", null ],
+    [ "LeaveSeedPod", "d9/d45/a19530.html#afe6ba31b18fa65aaa15daad3101149c2", null ],
+    [ "Reset", "d9/d45/a19530.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
+    [ "UpdateAI", "d9/d45/a19530.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
+    [ "_allowDeath", "d9/d45/a19530.html#adc85054030146067d2cff47db2886a07", null ],
+    [ "_inSeedPod", "d9/d45/a19530.html#a26e0c5f780bc661796f922c52000c30a", null ],
+    [ "_scheduler", "d9/d45/a19530.html#a1faafa1c39716f7679ca0b2b2f10a641", null ]
 ];

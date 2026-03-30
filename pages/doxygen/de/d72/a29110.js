@@ -1,8 +1,8 @@
 var a29110 =
 [
-    [ "DamagedDisplayId", "de/d72/a29110.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "de/d72/a29110.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "de/d72/a29110.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "de/d72/a29110.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "de/d72/a29110.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "TimeSeg", "de/d72/a29110.html#ab94639ba8e26b215ebd31163967574d3", null ],
+    [ "TransportEntry", "de/d72/a29110.html#a859d25b3c11839ad7e37facd40dc79df", null ],
+    [ "X", "de/d72/a29110.html#a8fbd166503396e33a4ad77448bf307ea", null ],
+    [ "Y", "de/d72/a29110.html#a67c279b26cebd8e5c81c36576b145af6", null ],
+    [ "Z", "de/d72/a29110.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
 ];

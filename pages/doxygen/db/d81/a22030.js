@@ -1,6 +1,6 @@
 var a22030 =
 [
-    [ "npc_black_knight_graveyardAI", "df/dc1/a22034.html", "df/dc1/a22034" ],
-    [ "npc_black_knight_graveyard", "db/d81/a22030.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "db/d81/a22030.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "HandleDamage", "db/d81/a22030.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "db/d81/a22030.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "db/d81/a22030.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

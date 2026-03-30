@@ -1,6 +1,6 @@
 var a18130 =
 [
-    [ "npc_gunship_rocketeerAI", "de/d4c/a18134.html", "de/d4c/a18134" ],
-    [ "npc_gunship_rocketeer", "d6/d9a/a18130.html#a7ed2cf258269f239bb73f2f06411db07", null ],
-    [ "GetAI", "d6/d9a/a18130.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
+    [ "FilterTargetsInitial", "d6/d9a/a18130.html#a92cc71f268793c616bed66d9a489a145", null ],
+    [ "PrepareSpellScript", "d6/d9a/a18130.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
+    [ "Register", "d6/d9a/a18130.html#a91b96940a9e72e632989b49f7e475dba", null ]
 ];

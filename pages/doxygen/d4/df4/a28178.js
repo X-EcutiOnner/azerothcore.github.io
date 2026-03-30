@@ -1,9 +1,8 @@
 var a28178 =
 [
-    [ "go_tadpole_cageAI", "d4/df4/a28178.html#a87dc192a13cecf834d49cd04451224cd", null ],
-    [ "GossipHello", "d4/df4/a28178.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
-    [ "OnStateChanged", "d4/df4/a28178.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
-    [ "SummonTadpoles", "d4/df4/a28178.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
-    [ "UpdateAI", "d4/df4/a28178.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
-    [ "requireSummon", "d4/df4/a28178.html#a9884081855fc45776a6b12b9a68890e4", null ]
+    [ "npc_training_dummy", "d4/df4/a28178.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
+    [ "DamageTaken", "d4/df4/a28178.html#accd7c39cd7b22b30e654288b034f1319", null ],
+    [ "JustEnteredCombat", "d4/df4/a28178.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
+    [ "UpdateAI", "d4/df4/a28178.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
+    [ "_combatTimer", "d4/df4/a28178.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
 ];

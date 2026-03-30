@@ -1,4 +1,6 @@
 var a11434 =
 [
-    [ "ServerOpcodeHandler", "da/de7/a04983.html#ga15d54f5e037e138c90bd0c9bf9628ac9", null ]
+    [ "WorldStateInfo", "d9/db1/a11434.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
+    [ "Value", "d9/db1/a11434.html#afe5a0e98713c986a17f431795c488c6c", null ],
+    [ "VariableID", "d9/db1/a11434.html#a627bba237bce23aff74fd2bf7a274657", null ]
 ];

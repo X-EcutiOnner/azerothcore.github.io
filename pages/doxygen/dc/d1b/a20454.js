@@ -1,6 +1,7 @@
 var a20454 =
 [
-    [ "npc_ulduar_toasty_fire", "dc/d1b/a20454.html#aa4447547d1689440813877ddd0347d5a", null ],
-    [ "DoAction", "dc/d1b/a20454.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "dc/d1b/a20454.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "boss_thorim_trap", "dc/d1b/a20454.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "dc/d1b/a20454.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "dc/d1b/a20454.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "dc/d1b/a20454.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

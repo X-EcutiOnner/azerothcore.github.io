@@ -1,5 +1,6 @@
 var a12646 =
 [
-    [ "at_trigger_the_beast_movement", "da/d44/a12646.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
-    [ "OnTrigger", "da/d44/a12646.html#a333d685d765497a950fde35067d876a1", null ]
+    [ "boss_firemaw", "da/d44/a12646.html#a2d2be691020b8aa81f82ffab91a86e42", null ],
+    [ "JustEngagedWith", "da/d44/a12646.html#a63d0f449d04ad3d86f4ede9a0f9696a9", null ],
+    [ "UpdateAI", "da/d44/a12646.html#a13a672cc37175615068429f9a3282e07", null ]
 ];

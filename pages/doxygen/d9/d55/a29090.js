@@ -1,12 +1,10 @@
 var a29090 =
 [
-    [ "ID", "d9/d55/a29090.html#a84ba697182123cb3e7dd3ba07241e971", null ],
-    [ "maxScale", "d9/d55/a29090.html#a23ca0ae7c45790a24f58546970194abf", null ],
-    [ "maxScaleLevel", "d9/d55/a29090.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
-    [ "minScale", "d9/d55/a29090.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
-    [ "minScaleLevel", "d9/d55/a29090.html#a49d9d7847cc4d54891d83166eb277740", null ],
-    [ "Name", "d9/d55/a29090.html#a937fc579ab2790f4a972f07d3453a762", null ],
-    [ "petFoodMask", "d9/d55/a29090.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
-    [ "petTalentType", "d9/d55/a29090.html#a802000cefb6c4d357edfc45cc291e21e", null ],
-    [ "skillLine", "d9/d55/a29090.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
+    [ "ID", "d9/d55/a29090.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "d9/d55/a29090.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "d9/d55/a29090.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "d9/d55/a29090.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "d9/d55/a29090.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "d9/d55/a29090.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "d9/d55/a29090.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

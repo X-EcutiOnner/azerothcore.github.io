@@ -1,7 +1,6 @@
 var a19622 =
 [
-    [ "OnPeriodic", "dd/d8b/a19622.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "dd/d8b/a19622.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "dd/d8b/a19622.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "dd/d8b/a19622.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "HandleDamageCalc", "dd/d8b/a19622.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
+    [ "PrepareSpellScript", "dd/d8b/a19622.html#a754da297cd5801616e24bf2d802d0b38", null ],
+    [ "Register", "dd/d8b/a19622.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
 ];

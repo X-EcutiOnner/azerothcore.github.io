@@ -1,9 +1,17 @@
 var a00032 =
 [
-    [ "Acore::Impl::StringConvertImpl::For< T, typename >", "dc/d27/a05799.html", null ],
-    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "d5/d41/a05803.html", "d5/d41/a05803" ],
-    [ "Acore::Impl::StringConvertImpl::For< bool, void >", "d2/dcf/a05807.html", "d2/dcf/a05807" ],
-    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "da/d30/a05811.html", "da/d30/a05811" ],
-    [ "StringTo", "dc/d87/a00032.html#a71739ada07c2f1b12bcd0aa811eea903", null ],
-    [ "ToString", "dc/d87/a00032.html#ac2cb308fb001c35fbaa90489ea6cf478", null ]
+    [ "GetBranch", "dc/d87/a00032.html#a0353e7a37f6f7102283a92975eb1f56f", null ],
+    [ "GetBuildDirectory", "dc/d87/a00032.html#a51523316de8184739b710e472a8ce843", null ],
+    [ "GetCMakeCommand", "dc/d87/a00032.html#a9d2cbfd79c6c215859ddad44996a8a8c", null ],
+    [ "GetCMakeVersion", "dc/d87/a00032.html#a83b62eaf53be851b0bd82c3a00b934d1", null ],
+    [ "GetCompanyNameStr", "dc/d87/a00032.html#a72b700a0bbbdb2829e283fe892f1ba51", null ],
+    [ "GetDate", "dc/d87/a00032.html#a10817e6a26ea352c0f79233d2ef552a8", null ],
+    [ "GetFileVersionStr", "dc/d87/a00032.html#a631c2811f3f8b72a16dfa2ceb7c4cb42", null ],
+    [ "GetFullVersion", "dc/d87/a00032.html#ad68b75fc60314941c3cbade8eafcda23", null ],
+    [ "GetHash", "dc/d87/a00032.html#addcf1401768f04ea13a6e868d9580605", null ],
+    [ "GetHostOSVersion", "dc/d87/a00032.html#ad63ab422bd364927fa88a394e82fc2a7", null ],
+    [ "GetLegalCopyrightStr", "dc/d87/a00032.html#abd1a810f85a1f404d88e3f7e61cc85cc", null ],
+    [ "GetMySQLExecutable", "dc/d87/a00032.html#a13f3b200d2427f6546ebddd3b54b7fcf", null ],
+    [ "GetProductVersionStr", "dc/d87/a00032.html#abbfa02a4b9aba10f263252be4d3f48fc", null ],
+    [ "GetSourceDirectory", "dc/d87/a00032.html#a1062fcec3676f562803f4775d95a9594", null ]
 ];

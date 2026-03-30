@@ -1,7 +1,11 @@
 var a26426 =
 [
-    [ "HandleProc", "dc/d8f/a26426.html#aac352153b98f5c718af224487a8525c4", null ],
-    [ "PrepareAuraScript", "dc/d8f/a26426.html#a736fe794862b3a8c08a05f3a773d9a7b", null ],
-    [ "Register", "dc/d8f/a26426.html#acc0aee7c8b6dcff6f33737ac7428e39f", null ],
-    [ "Validate", "dc/d8f/a26426.html#afffd780f243317dd90be1908fae7ecd8", null ]
+    [ "CheckCast", "dc/d8f/a26426.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleMaxHealthHeal", "dc/d8f/a26426.html#a019833641487ac07cb2c8740d5686a41", null ],
+    [ "HandleScript", "dc/d8f/a26426.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "dc/d8f/a26426.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "dc/d8f/a26426.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "dc/d8f/a26426.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "dc/d8f/a26426.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "dc/d8f/a26426.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

@@ -1,5 +1,8 @@
 var a10370 =
 [
-    [ "GenericGameObjectScript", "d3/da0/a10370.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
-    [ "GetAI", "d3/da0/a10370.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
+    [ "Location", "d3/da0/a10370.html#a0c601d413eeb398eb75d386c264ef5ab", null ],
+    [ "Location", "d3/da0/a10370.html#ae013ab2bf44bb250644573625bf93265", null ],
+    [ "Location", "d3/da0/a10370.html#a0d50c28ba40b409a0c5a9776bfe8ef42", null ],
+    [ "Location", "d3/da0/a10370.html#a1270aec177f47a607cb5a1472819c738", null ],
+    [ "orientation", "d3/da0/a10370.html#a9fc2637d4441d90c528eaef0f0414b98", null ]
 ];

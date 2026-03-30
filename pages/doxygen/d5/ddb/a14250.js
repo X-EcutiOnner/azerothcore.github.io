@@ -1,6 +1,8 @@
 var a14250 =
 [
-    [ "boss_blight_wormAI", "d0/d74/a14254.html", "d0/d74/a14254" ],
-    [ "boss_blight_worm", "d5/ddb/a14250.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "d5/ddb/a14250.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "FilterTargets", "d5/ddb/a14250.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "d5/ddb/a14250.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "d5/ddb/a14250.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "d5/ddb/a14250.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "d5/ddb/a14250.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

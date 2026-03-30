@@ -1,6 +1,8 @@
 var a11930 =
 [
-    [ "FieldGuidType", "d9/de9/a11930.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
-    [ "FieldName", "d9/de9/a11930.html#a669f1ecf12148799e59e7b3e3124d681", null ],
-    [ "IsDependentField", "d9/de9/a11930.html#a241b9e8f5672e30732f0b938b02046d4", null ]
+    [ "CreatureTextId", "d9/de9/a11930.html#ae8058e922bafc69b718ca4be1be39688", null ],
+    [ "operator<", "d9/de9/a11930.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
+    [ "entry", "d9/de9/a11930.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
+    [ "textGroup", "d9/de9/a11930.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
+    [ "textId", "d9/de9/a11930.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
 ];

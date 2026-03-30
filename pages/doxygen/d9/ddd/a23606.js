@@ -1,7 +1,8 @@
 var a23606 =
 [
-    [ "FilterTargets", "d9/ddd/a23606.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "d9/ddd/a23606.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "d9/ddd/a23606.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "d9/ddd/a23606.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "boss_mechano_lord_capacitus", "d9/ddd/a23606.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
+    [ "JustDied", "d9/ddd/a23606.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
+    [ "JustEngagedWith", "d9/ddd/a23606.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
+    [ "JustSummoned", "d9/ddd/a23606.html#a9a0b2cac08002db63162f95b9476c251", null ],
+    [ "KilledUnit", "d9/ddd/a23606.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
 ];

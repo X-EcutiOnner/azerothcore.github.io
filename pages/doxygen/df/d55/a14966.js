@@ -1,8 +1,7 @@
 var a14966 =
 [
-    [ "OnApply", "df/d55/a14966.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "df/d55/a14966.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "df/d55/a14966.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "df/d55/a14966.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "df/d55/a14966.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "hyjalJainaAI", "df/db1/a14970.html", "df/db1/a14970" ],
+    [ "npc_hyjal_jaina", "df/d55/a14966.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "df/d55/a14966.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "df/d55/a14966.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

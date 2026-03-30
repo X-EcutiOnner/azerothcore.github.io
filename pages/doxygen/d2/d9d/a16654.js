@@ -1,7 +1,7 @@
 var a16654 =
 [
-    [ "OnApply", "d2/d9d/a16654.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "d2/d9d/a16654.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "d2/d9d/a16654.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "d2/d9d/a16654.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "HandleAfterHit", "d2/d9d/a16654.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d2/d9d/a16654.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d2/d9d/a16654.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d2/d9d/a16654.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

@@ -1,6 +1,7 @@
 var a17374 =
 [
-    [ "npc_phantom_mageAI", "d3/d42/a17378.html", "d3/d42/a17378" ],
-    [ "npc_phantom_mage", "df/ded/a17374.html#ad57414231c40917bf55d6155fa9c05db", null ],
-    [ "GetAI", "df/ded/a17374.html#ae2134b8be3052da659390bde7c2aac2e", null ]
+    [ "HandleDummy", "df/ded/a17374.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "df/ded/a17374.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "df/ded/a17374.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "df/ded/a17374.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

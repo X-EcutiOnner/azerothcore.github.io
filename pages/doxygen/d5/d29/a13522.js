@@ -1,7 +1,7 @@
 var a13522 =
 [
-    [ "HandleHit", "d5/d29/a13522.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
-    [ "Load", "d5/d29/a13522.html#affe2cd261752db89b1b418eb18a3370c", null ],
-    [ "PrepareSpellScript", "d5/d29/a13522.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
-    [ "Register", "d5/d29/a13522.html#aaadaf49a3757e78d69ffc32768945d16", null ]
+    [ "OnRemove", "d5/d29/a13522.html#a55460c6393c165e3096c967c81136032", null ],
+    [ "PrepareAuraScript", "d5/d29/a13522.html#afd4e4483f704169e6d213ced134d4c62", null ],
+    [ "Register", "d5/d29/a13522.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
+    [ "Validate", "d5/d29/a13522.html#af580258d287f5db6103b89d3085669bc", null ]
 ];

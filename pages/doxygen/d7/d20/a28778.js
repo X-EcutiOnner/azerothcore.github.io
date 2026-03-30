@@ -1,10 +1,10 @@
 var a28778 =
 [
-    [ "BugfixVersion", "d7/d20/a28778.html#a461f8c749a874405584dc1fd3fe1d805", null ],
-    [ "Build", "d7/d20/a28778.html#a6cc7aff1b397df7333b9bb0003282abd", null ],
-    [ "HotfixVersion", "d7/d20/a28778.html#a0df61c036a57b8a3efde5d180dc38131", null ],
-    [ "MacHash", "d7/d20/a28778.html#ad59772e86371318fe975760e303fa7d9", null ],
-    [ "MajorVersion", "d7/d20/a28778.html#a0eb78564680f771e325536a0ab77382a", null ],
-    [ "MinorVersion", "d7/d20/a28778.html#a7140f7ef9540eff08fabf74ded68b9cc", null ],
-    [ "WindowsHash", "d7/d20/a28778.html#a96abd69a458dfc4363c4e545fc7fabab", null ]
+    [ "HasFlag", "d7/d20/a28778.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "d7/d20/a28778.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "d7/d20/a28778.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "d7/d20/a28778.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "d7/d20/a28778.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "d7/d20/a28778.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "d7/d20/a28778.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

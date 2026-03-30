@@ -1,6 +1,6 @@
 var a16554 =
 [
-    [ "npc_xerestraszaAI", "d6/d43/a16558.html", "d6/d43/a16558" ],
-    [ "npc_xerestrasza", "de/dec/a16554.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
-    [ "GetAI", "de/dec/a16554.html#a5e0ede0054969d4787db56781dc55846", null ]
+    [ "HandleSpellHit", "de/dec/a16554.html#a8c801b92f6e405668edae54989dd58e8", null ],
+    [ "PrepareSpellScript", "de/dec/a16554.html#abae02a74f626b890f61df551318dcc81", null ],
+    [ "Register", "de/dec/a16554.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
 ];

@@ -1,6 +1,6 @@
 var a10526 =
 [
-    [ "AreaTriggerScript", "d5/d6f/a10526.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
-    [ "IsDatabaseBound", "d5/d6f/a10526.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
-    [ "OnTrigger", "d5/d6f/a10526.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
+    [ "ALEScript", "d5/d6f/a10526.html#a3949e8bd9d83297871c60778f3fe9f9e", null ],
+    [ "CanAreaTrigger", "d5/d6f/a10526.html#ad5d8f66949b0f7638dd85ccba4c569d0", null ],
+    [ "OnWeatherChange", "d5/d6f/a10526.html#a109b1cb14f602065ce4346d0370407a7", null ]
 ];

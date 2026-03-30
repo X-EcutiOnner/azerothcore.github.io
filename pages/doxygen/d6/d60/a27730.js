@@ -1,7 +1,5 @@
 var a27730 =
 [
-    [ "HandleRemove", "d6/d60/a27730.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "d6/d60/a27730.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "d6/d60/a27730.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "d6/d60/a27730.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "d6/d60/a27730.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "d6/d60/a27730.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

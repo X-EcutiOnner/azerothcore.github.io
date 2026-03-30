@@ -1,7 +1,7 @@
 var a18218 =
 [
-    [ "PrepareSpellScript", "de/d6b/a18218.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "de/d6b/a18218.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "de/d6b/a18218.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "de/d6b/a18218.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "FrostBombExplosion", "de/d6b/a18218.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "de/d6b/a18218.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "de/d6b/a18218.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "de/d6b/a18218.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

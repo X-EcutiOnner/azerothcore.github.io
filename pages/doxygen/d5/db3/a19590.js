@@ -1,7 +1,6 @@
 var a19590 =
 [
-    [ "HandleScript", "d5/db3/a19590.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "d5/db3/a19590.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "d5/db3/a19590.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "d5/db3/a19590.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "npc_oculus_drakeAI", "d4/d20/a19594.html", "d4/d20/a19594" ],
+    [ "npc_oculus_drake", "d5/db3/a19590.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "d5/db3/a19590.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

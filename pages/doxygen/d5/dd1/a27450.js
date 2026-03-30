@@ -1,7 +1,6 @@
 var a27450 =
 [
-    [ "HandleDummy", "d5/dd1/a27450.html#a96c5064738653ce16f06634196218a88", null ],
-    [ "PrepareSpellScript", "d5/dd1/a27450.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
-    [ "Register", "d5/dd1/a27450.html#a080969e035143ac8527443025dbacef2", null ],
-    [ "Validate", "d5/dd1/a27450.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
+    [ "PrepareAuraScript", "d5/dd1/a27450.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "d5/dd1/a27450.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "d5/dd1/a27450.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

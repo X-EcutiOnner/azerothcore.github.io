@@ -1,7 +1,6 @@
 var a15206 =
 [
-    [ "hyjalTyrandeAI", "d8/df1/a15210.html", "d8/df1/a15210" ],
-    [ "npc_hyjal_tyrande", "d0/d53/a15206.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
-    [ "GetAI", "d0/d53/a15206.html#a2f863e616352a98763eef9a717d73388", null ],
-    [ "OnGossipSelect", "d0/d53/a15206.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "d8/df1/a15210.html", "d8/df1/a15210" ],
+    [ "instance_onyxias_lair", "d0/d53/a15206.html#a1be32e45cb8af86477d300efb6e545cc", null ],
+    [ "GetInstanceScript", "d0/d53/a15206.html#abbdc474ce17bca0cb55180661c5204a8", null ]
 ];

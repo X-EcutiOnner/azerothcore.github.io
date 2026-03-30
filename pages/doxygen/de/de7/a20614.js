@@ -1,5 +1,6 @@
 var a20614 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "de/de7/a20614.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "de/de7/a20614.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "boss_yoggsaron_descend_portal", "de/de7/a20614.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "de/de7/a20614.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "de/de7/a20614.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

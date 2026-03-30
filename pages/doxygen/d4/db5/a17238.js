@@ -1,8 +1,6 @@
 var a17238 =
 [
-    [ "HandleRemove", "d4/db5/a17238.html#a362b16f69a19adae6b673bd9ead55a83", null ],
-    [ "PeriodicTick", "d4/db5/a17238.html#aa432052d61dc48066433b41b84ffbe5f", null ],
-    [ "PrepareAuraScript", "d4/db5/a17238.html#a3ffbd618820adf77b2c64a29816f5204", null ],
-    [ "Register", "d4/db5/a17238.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
-    [ "Validate", "d4/db5/a17238.html#abed6574398a7d005e95feba6b54243a1", null ]
+    [ "npc_pos_leaderAI", "df/db2/a17242.html", "df/db2/a17242" ],
+    [ "npc_pos_leader", "d4/db5/a17238.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "d4/db5/a17238.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

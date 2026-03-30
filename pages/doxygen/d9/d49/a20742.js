@@ -1,5 +1,9 @@
 var a20742 =
 [
-    [ "achievement_quick_shave", "d9/d49/a20742.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "d9/d49/a20742.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "npc_ulduar_keeperAI", "d9/d49/a20742.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "d9/d49/a20742.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "d9/d49/a20742.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "d9/d49/a20742.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "d9/d49/a20742.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "d9/d49/a20742.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

@@ -1,5 +1,7 @@
 var a25474 =
 [
-    [ "PrepareSpellScript", "d0/ddc/a25474.html#a5e100554f868649d4edea011fe767b8b", null ],
-    [ "Register", "d0/ddc/a25474.html#a0ffb1cb313060770227621edb16c3a0d", null ]
+    [ "CalcPeriodic", "d0/ddc/a25474.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "d0/ddc/a25474.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "d0/ddc/a25474.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "d0/ddc/a25474.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

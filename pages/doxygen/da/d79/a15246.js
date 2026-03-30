@@ -1,6 +1,6 @@
 var a15246 =
 [
-    [ "boss_infinite_corruptorAI", "d4/d0e/a15250.html", "d4/d0e/a15250" ],
-    [ "boss_infinite_corruptor", "da/d79/a15246.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "da/d79/a15246.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "d4/d0e/a15250.html", "d4/d0e/a15250" ],
+    [ "instance_razorfen_kraul", "da/d79/a15246.html#aedd65b901c8131a7ac21e8576734f76f", null ],
+    [ "GetInstanceScript", "da/d79/a15246.html#a78e77010ebb055b9530733ca25533110", null ]
 ];

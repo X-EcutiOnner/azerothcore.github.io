@@ -1,6 +1,8 @@
 var a20098 =
 [
-    [ "CosmicSmashDamageEvent", "d8/dd1/a20098.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "d8/dd1/a20098.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "d8/dd1/a20098.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "npc_ulduar_saronite_animus", "d8/dd1/a20098.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
+    [ "JustDied", "d8/dd1/a20098.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
+    [ "UpdateAI", "d8/dd1/a20098.html#afc7899752e25669b37ab04b50fb2d604", null ],
+    [ "_instance", "d8/dd1/a20098.html#a6f2bf52c82185365efe88941b7922504", null ],
+    [ "timer", "d8/dd1/a20098.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
 ];

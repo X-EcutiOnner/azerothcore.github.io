@@ -1,10 +1,6 @@
 var a23498 =
 [
-    [ "boss_blindeye_the_seer", "d6/d5f/a23498.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
-    [ "JustDied", "d6/d5f/a23498.html#ad70a72b18587da82d26bde8f10d63700", null ],
-    [ "JustEngagedWith", "d6/d5f/a23498.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
-    [ "Reset", "d6/d5f/a23498.html#aabbda75266615f64ce88ce092e68bfa4", null ],
-    [ "UpdateAI", "d6/d5f/a23498.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
-    [ "_scheduler", "d6/d5f/a23498.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
-    [ "instance", "d6/d5f/a23498.html#a74462f26d66da3ca370825858060b1c2", null ]
+    [ "OnApply", "d6/d5f/a23498.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "d6/d5f/a23498.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "d6/d5f/a23498.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

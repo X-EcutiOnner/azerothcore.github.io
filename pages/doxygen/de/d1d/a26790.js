@@ -1,7 +1,7 @@
 var a26790 =
 [
-    [ "HandleProc", "de/d1d/a26790.html#acec80390545c0ae674aeed8155333e6b", null ],
-    [ "PrepareAuraScript", "de/d1d/a26790.html#a84a503ad6d4848333640ddd347a7476a", null ],
-    [ "Register", "de/d1d/a26790.html#ae79f1ce6dc1d6c0823c8da8b6086efab", null ],
-    [ "Validate", "de/d1d/a26790.html#a11a4d6e297251b5611e3faa1c3c33e13", null ]
+    [ "HandleEffectApply", "de/d1d/a26790.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "de/d1d/a26790.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "de/d1d/a26790.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "de/d1d/a26790.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

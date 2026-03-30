@@ -1,7 +1,6 @@
 var a16614 =
 [
-    [ "npc_orb_carrierAI", "d1/d36/a16614.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "d1/d36/a16614.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "d1/d36/a16614.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "d1/d36/a16614.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "npc_swarm_scarabAI", "df/d1a/a16618.html", "df/d1a/a16618" ],
+    [ "npc_swarm_scarab", "d1/d36/a16614.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "d1/d36/a16614.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

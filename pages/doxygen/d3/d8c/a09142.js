@@ -1,5 +1,10 @@
 var a09142 =
 [
-    [ "Visit", "d3/d8c/a09142.html#aa0f56809b23b117bde869576ddaa9dbd", null ],
-    [ "Visit", "d3/d8c/a09142.html#afab06305b5b3568b93d07f80efd616ae", null ]
+    [ "mapId", "d3/d8c/a09142.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "d3/d8c/a09142.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "d3/d8c/a09142.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "d3/d8c/a09142.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "d3/d8c/a09142.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "d3/d8c/a09142.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "d3/d8c/a09142.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

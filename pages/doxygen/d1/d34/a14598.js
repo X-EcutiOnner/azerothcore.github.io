@@ -1,6 +1,12 @@
 var a14598 =
 [
-    [ "OnRemove", "d1/d34/a14598.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
-    [ "PrepareAuraScript", "d1/d34/a14598.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
-    [ "Register", "d1/d34/a14598.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
+    [ "npc_alexstraza_the_lifebinder", "d1/d34/a14598.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d1/d34/a14598.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d1/d34/a14598.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d1/d34/a14598.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "UpdateAI", "d1/d34/a14598.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d1/d34/a14598.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d1/d34/a14598.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d1/d34/a14598.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d1/d34/a14598.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

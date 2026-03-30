@@ -1,6 +1,8 @@
 var a24518 =
 [
-    [ "PrepareSpellScript", "dc/dff/a24518.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "dc/dff/a24518.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "dc/dff/a24518.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "AfterApply", "dc/dff/a24518.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "dc/dff/a24518.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "dc/dff/a24518.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "dc/dff/a24518.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "dc/dff/a24518.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

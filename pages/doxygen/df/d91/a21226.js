@@ -1,13 +1,15 @@
 var a21226 =
 [
-    [ "MoveX", "df/d91/a21226.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "df/d91/a21226.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "df/d91/a21226.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "df/d91/a21226.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "df/d91/a21226.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "df/d91/a21226.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "df/d91/a21226.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "df/d91/a21226.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "df/d91/a21226.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "df/d91/a21226.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "npc_azure_saboteurAI", "df/d91/a21226.html#a09fc1e8f171209471c5403af33b05a58", null ],
+    [ "FinishPointReached", "df/d91/a21226.html#a322380edef5dbefe5ac4ab0040183010", null ],
+    [ "MoveInLineOfSight", "df/d91/a21226.html#a21868549892cdd0e67d6403dece9efce", null ],
+    [ "UpdateAI", "df/d91/a21226.html#a9ccbb54a41aef3a252a46545649c2c91", null ],
+    [ "WaypointReached", "df/d91/a21226.html#ac17dc46bfe75582a789a2056978218fb", null ],
+    [ "WaypointReached", "df/d91/a21226.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bAddedWPs", "df/d91/a21226.html#a9cabb9053b3c6b51be184b2144e5ec54", null ],
+    [ "bOpening", "df/d91/a21226.html#a924ceb13552f0f01d55375af0324bf5a", null ],
+    [ "count", "df/d91/a21226.html#a38bf10a96c8eae45b4aa0bd095924f85", null ],
+    [ "pInstance", "df/d91/a21226.html#a1375420fe4bf16f122aa93f5c847a464", null ],
+    [ "timer", "df/d91/a21226.html#a30745320b9cc64fb690fa7bd6d7525f2", null ],
+    [ "uiBoss", "df/d91/a21226.html#a36f60e44bd8f1de85429a75f3e928d77", null ]
 ];

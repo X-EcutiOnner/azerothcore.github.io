@@ -1,6 +1,8 @@
 var a27126 =
 [
-    [ "HandleDummy", "df/d42/a27126.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
-    [ "PrepareSpellScript", "df/d42/a27126.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
-    [ "Register", "df/d42/a27126.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
+    [ "FilterTargets", "df/d42/a27126.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "df/d42/a27126.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "df/d42/a27126.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "df/d42/a27126.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "df/d42/a27126.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

@@ -1,15 +1,11 @@
 var a10118 =
 [
-    [ "const_iterator", "d6/d82/a10118.html#a78bdb53e78488faa65effb2706140558", null ],
-    [ "iterator", "d6/d82/a10118.html#aff8f555370355b24f386c86d2f900bc3", null ],
-    [ "begin", "d6/d82/a10118.html#a6774b551f0d64628e33594c7b486a872", null ],
-    [ "begin", "d6/d82/a10118.html#a3ba9493437881e83c07f07cc992c274a", null ],
-    [ "end", "d6/d82/a10118.html#af488c0096775085791b5fbc89e5851a0", null ],
-    [ "end", "d6/d82/a10118.html#acb8ebd37d1458773b65311060e844e4b", null ],
-    [ "getFirst", "d6/d82/a10118.html#a2981143744c8e08a42104a5d08659be4", null ],
-    [ "getFirst", "d6/d82/a10118.html#a4d5eb2b65f0a586a3e809acb2c26f6cb", null ],
-    [ "getLast", "d6/d82/a10118.html#ab9c66d320815602126292a14cae69872", null ],
-    [ "getLast", "d6/d82/a10118.html#a6f7379252f5907d9240e3d364d3a8c02", null ],
-    [ "rbegin", "d6/d82/a10118.html#a147b3fe09037c1b80bb122c627000b0a", null ],
-    [ "rend", "d6/d82/a10118.html#afb985b9c750f3ff01cb1adaa6f86c78f", null ]
+    [ "StaticVMapCollisionData", "d6/d82/a10118.html#a5955532316bc6409c104197b086d3e3b", null ],
+    [ "GetAreaAndLiquidData", "d6/d82/a10118.html#afcbfd82bc43ad5dbce5edc35608a0d38", null ],
+    [ "getHeight", "d6/d82/a10118.html#ad5b245ec62bf370a479c8fdb0eec1f40", null ],
+    [ "GetObjectHitPos", "d6/d82/a10118.html#aacf3e526a4e52c8515b3a8004e6b0a1a", null ],
+    [ "isInLineOfSight", "d6/d82/a10118.html#a79f47e4eafe0db4e449ec202ad3ef580", null ],
+    [ "MapCollisionData", "d6/d82/a10118.html#a472038a89678719bf8868ab0c75e394f", null ],
+    [ "_mapId", "d6/d82/a10118.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb", null ],
+    [ "_staticTree", "d6/d82/a10118.html#a4d73d970aa85dbbd9c70633addcdaf13", null ]
 ];

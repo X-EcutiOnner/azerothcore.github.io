@@ -1,9 +1,15 @@
 var a15506 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "d6/d5e/a15506.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "d6/d5e/a15506.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "d6/d5e/a15506.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "d6/d5e/a15506.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "d6/d5e/a15506.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "d6/d5e/a15506.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "boss_viscidus", "d6/d5e/a15506.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
+    [ "CheckInRoom", "d6/d5e/a15506.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
+    [ "DamageTaken", "d6/d5e/a15506.html#adb41e6f64c1fe61cf623539353b0c959", null ],
+    [ "InitSpells", "d6/d5e/a15506.html#a24357bfc552ecb5205e50241cadb05f4", null ],
+    [ "JustEngagedWith", "d6/d5e/a15506.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
+    [ "Reset", "d6/d5e/a15506.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
+    [ "SoftReset", "d6/d5e/a15506.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
+    [ "SpellHit", "d6/d5e/a15506.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
+    [ "SummonedCreatureDies", "d6/d5e/a15506.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
+    [ "UpdateAI", "d6/d5e/a15506.html#a1a194c161b485d2abbb862506b6c239f", null ],
+    [ "_hitcounter", "d6/d5e/a15506.html#a12ee60a91dab2f95aab6e9914351344a", null ],
+    [ "_phase", "d6/d5e/a15506.html#a321f1f96af51d3d70de0cca89512d965", null ]
 ];

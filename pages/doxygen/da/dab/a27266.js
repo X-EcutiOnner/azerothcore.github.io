@@ -1,6 +1,6 @@
 var a27266 =
 [
-    [ "PrepareAuraScript", "da/dab/a27266.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "da/dab/a27266.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "da/dab/a27266.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "PeriodicTick", "da/dab/a27266.html#a8765e8f662c4279669c955108ff356e3", null ],
+    [ "PrepareAuraScript", "da/dab/a27266.html#a15f077618950e4526ffcee9ee172d89f", null ],
+    [ "Register", "da/dab/a27266.html#aeeca3a2be368025147702c4aa8c518ce", null ]
 ];

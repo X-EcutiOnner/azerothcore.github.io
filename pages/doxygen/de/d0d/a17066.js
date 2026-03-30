@@ -1,6 +1,5 @@
 var a17066 =
 [
-    [ "npc_snobold_vassalAI", "d1/d75/a17070.html", "d1/d75/a17070" ],
-    [ "npc_snobold_vassal", "de/d0d/a17066.html#a243cefbc15931ebbb555936d54583314", null ],
-    [ "GetAI", "de/d0d/a17066.html#a77976a59f600591454fac197ded613ef", null ]
+    [ "npc_fos_leader_secondAI", "de/d0d/a17066.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "de/d0d/a17066.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

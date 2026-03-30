@@ -1,14 +1,12 @@
 var a22610 =
 [
-    [ "boss_nexusprince_shaffar", "d3/dc6/a22610.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "d3/dc6/a22610.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "d3/dc6/a22610.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "d3/dc6/a22610.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "d3/dc6/a22610.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "d3/dc6/a22610.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "d3/dc6/a22610.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "d3/dc6/a22610.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "d3/dc6/a22610.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "d3/dc6/a22610.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "d3/dc6/a22610.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "boss_essence_of_desireAI", "d3/dc6/a22610.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "d3/dc6/a22610.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "d3/dc6/a22610.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "d3/dc6/a22610.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "d3/dc6/a22610.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "d3/dc6/a22610.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "d3/dc6/a22610.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "d3/dc6/a22610.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
+    [ "_recentlySpoken", "d3/dc6/a22610.html#a6507c0da056a74d961d28e96120cd676", null ]
 ];

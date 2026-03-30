@@ -1,16 +1,10 @@
 var a14118 =
 [
-    [ "npc_rinjiAI", "d9/da0/a14118.html#ab613818b92530269f0802077eccc92d0", null ],
-    [ "DoSpawnAmbush", "d9/da0/a14118.html#af2535d7364641fadc98bca91ace9c906", null ],
-    [ "JustEngagedWith", "d9/da0/a14118.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
-    [ "JustRespawned", "d9/da0/a14118.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
-    [ "JustSummoned", "d9/da0/a14118.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
-    [ "Reset", "d9/da0/a14118.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
-    [ "sQuestAccept", "d9/da0/a14118.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
-    [ "UpdateEscortAI", "d9/da0/a14118.html#a60f05b58b115f3f2ea11206778893547", null ],
-    [ "WaypointReached", "d9/da0/a14118.html#a9463060a57b85113b71482c8a0974f60", null ],
-    [ "_IsByOutrunner", "d9/da0/a14118.html#adecc4eb9f90969621b52b97ff594558d", null ],
-    [ "postEventCount", "d9/da0/a14118.html#a601f142bd2a04ed303611044bac91035", null ],
-    [ "postEventTimer", "d9/da0/a14118.html#a5154e551143e81d431f706ad07b78ca0", null ],
-    [ "spawnId", "d9/da0/a14118.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
+    [ "boss_alyson_antille", "d9/da0/a14118.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "d9/da0/a14118.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "d9/da0/a14118.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "d9/da0/a14118.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "d9/da0/a14118.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "d9/da0/a14118.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "d9/da0/a14118.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

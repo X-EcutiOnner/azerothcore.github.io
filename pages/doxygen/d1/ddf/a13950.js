@@ -1,7 +1,6 @@
 var a13950 =
 [
-    [ "OnPeriodic", "d1/ddf/a13950.html#a25e7a59384f262a36c74696a1befa01d", null ],
-    [ "PrepareAuraScript", "d1/ddf/a13950.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
-    [ "Register", "d1/ddf/a13950.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
-    [ "Validate", "d1/ddf/a13950.html#a6843deda5be8b684c06a86920714f255", null ]
+    [ "npc_ravenclaw_apparitionAI", "d5/d11/a13954.html", "d5/d11/a13954" ],
+    [ "npc_ravenclaw_apparition", "d1/ddf/a13950.html#a961044571250519e62d7d33633974038", null ],
+    [ "GetAI", "d1/ddf/a13950.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
 ];

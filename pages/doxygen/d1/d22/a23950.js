@@ -1,6 +1,6 @@
 var a23950 =
 [
-    [ "npc_deaths_fel_cannonAI", "d7/d64/a23954.html", "d7/d64/a23954" ],
-    [ "npc_deaths_fel_cannon", "d1/d22/a23950.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "d1/d22/a23950.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "CheckRequirement", "d1/d22/a23950.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d1/d22/a23950.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d1/d22/a23950.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

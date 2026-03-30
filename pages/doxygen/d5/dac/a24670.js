@@ -1,11 +1,8 @@
 var a24670 =
 [
-    [ "CalcPeriodic", "d5/dac/a24670.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "d5/dac/a24670.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "d5/dac/a24670.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "d5/dac/a24670.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "d5/dac/a24670.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "d5/dac/a24670.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "d5/dac/a24670.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "d5/dac/a24670.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "HandleSchoolDMG", "d5/dac/a24670.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
+    [ "HandleScriptEffect", "d5/dac/a24670.html#a06f9cf29387b49f3e5950661173c77eb", null ],
+    [ "PrepareSpellScript", "d5/dac/a24670.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
+    [ "Register", "d5/dac/a24670.html#a9bdbf7578509976d482a26869e9068aa", null ],
+    [ "Validate", "d5/dac/a24670.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
 ];

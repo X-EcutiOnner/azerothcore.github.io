@@ -1,6 +1,8 @@
 var a26246 =
 [
-    [ "OnRemove", "d4/d9f/a26246.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "d4/d9f/a26246.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "d4/d9f/a26246.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "OnRemove", "d4/d9f/a26246.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
+    [ "PrepareAuraScript", "d4/d9f/a26246.html#ad06dbe9207315484cbb886fcc75bb958", null ],
+    [ "PrepareProc", "d4/d9f/a26246.html#a2f4b562be28420d25d09b81ad72af17f", null ],
+    [ "Register", "d4/d9f/a26246.html#a04d9c48f8842392a4d318677537ac248", null ],
+    [ "Validate", "d4/d9f/a26246.html#ab15a75ec708d8c683166bd73fab29701", null ]
 ];

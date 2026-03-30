@@ -1,7 +1,6 @@
 var a15778 =
 [
-    [ "npc_vekniss_stinger", "df/d40/a15778.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "df/d40/a15778.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "df/d40/a15778.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "df/d40/a15778.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "npc_bunthen_plainswind", "df/d40/a15778.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "df/d40/a15778.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "df/d40/a15778.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

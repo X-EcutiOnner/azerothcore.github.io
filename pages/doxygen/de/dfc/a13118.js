@@ -1,17 +1,18 @@
 var a13118 =
 [
-    [ "boss_attumen", "de/dfc/a13118.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
-    [ "CanMeleeHit", "de/dfc/a13118.html#ae685929086090928802854cc93f9934a", null ],
-    [ "DamageTaken", "de/dfc/a13118.html#a0b426b760d9ace05211c3383e7628022", null ],
-    [ "EnterEvadeMode", "de/dfc/a13118.html#af00f91294c04d0fe932c922fd270c5dc", null ],
-    [ "Initialize", "de/dfc/a13118.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
-    [ "IsSummonedBy", "de/dfc/a13118.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
-    [ "JustDied", "de/dfc/a13118.html#a375a95d46f8db8a53ea6420dd557855e", null ],
-    [ "JustSummoned", "de/dfc/a13118.html#af91018e54244864ca4cd1b9d40c569df", null ],
-    [ "KilledUnit", "de/dfc/a13118.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
-    [ "Reset", "de/dfc/a13118.html#ab8815ed9b1068e748e43346725cd9281", null ],
-    [ "ScheduleTasks", "de/dfc/a13118.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
-    [ "SpellHit", "de/dfc/a13118.html#a1181ae1d50d6c52483b0d90423997c90", null ],
-    [ "UpdateAI", "de/dfc/a13118.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
-    [ "_phase", "de/dfc/a13118.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
+    [ "npc_barnesAI", "de/dfc/a13118.html#acf165009e5b2164d8244e709043eba09", null ],
+    [ "JustEngagedWith", "de/dfc/a13118.html#a1f24ea5604563c9a16c5a2a91ae078f1", null ],
+    [ "PrepareEncounter", "de/dfc/a13118.html#acdefdf68be1d870f76cbd0e329e3c890", null ],
+    [ "Reset", "de/dfc/a13118.html#a67ee1ef5c6012e499a9d9d7b77938fbe", null ],
+    [ "StartEvent", "de/dfc/a13118.html#ab5ed76e189150b2bb8a57095289246fe", null ],
+    [ "Talk", "de/dfc/a13118.html#a8a5c4a97e9093220a5d8642fcf6ceece", null ],
+    [ "UpdateAI", "de/dfc/a13118.html#a19c6ac3829ae4c38263eda116d56df88", null ],
+    [ "WaypointReached", "de/dfc/a13118.html#acae5cbc4bcbe91b6810d649385a889a9", null ],
+    [ "WaypointReached", "de/dfc/a13118.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "instance", "de/dfc/a13118.html#a9094deb17c0c77c968bbfb4f9f05e521", null ],
+    [ "m_uiEventId", "de/dfc/a13118.html#a47ac00c081635aeba9ef02a7f1bbd645", null ],
+    [ "m_uiSpotlightGUID", "de/dfc/a13118.html#aceae6d1588aec9035fb80678af32e96c", null ],
+    [ "PerformanceReady", "de/dfc/a13118.html#a27a8ceb27724f074de840d24dcf0e284", null ],
+    [ "TalkCount", "de/dfc/a13118.html#a555a152b2f4981dc824a6fb0f66b5702", null ],
+    [ "TalkTimer", "de/dfc/a13118.html#afa7fd12da57b887f1254e24d444f43d1", null ]
 ];

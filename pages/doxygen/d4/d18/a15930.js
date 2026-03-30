@@ -1,7 +1,14 @@
 var a15930 =
 [
-    [ "npc_cork_gizeltonAI", "dc/d0b/a15934.html", "dc/d0b/a15934" ],
-    [ "npc_cork_gizelton", "d4/d18/a15930.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "d4/d18/a15930.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "d4/d18/a15930.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "npc_taskmaster_fizzuleAI", "d4/d18/a15930.html#ac792f91930c869ce919f8fd96b3fb076", null ],
+    [ "DoFriend", "d4/d18/a15930.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
+    [ "JustEngagedWith", "d4/d18/a15930.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
+    [ "ReceiveEmote", "d4/d18/a15930.html#a21d0d70086f085b715a12d05fbe5d611", null ],
+    [ "Reset", "d4/d18/a15930.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
+    [ "SpellHit", "d4/d18/a15930.html#a4c35104935a3a6264c853a657dc42244", null ],
+    [ "UpdateAI", "d4/d18/a15930.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
+    [ "factionNorm", "d4/d18/a15930.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
+    [ "FlareCount", "d4/d18/a15930.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
+    [ "IsFriend", "d4/d18/a15930.html#ab7e6bd2e023545c73fba758267551eee", null ],
+    [ "ResetTimer", "d4/d18/a15930.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
 ];

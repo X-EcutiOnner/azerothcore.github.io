@@ -1,6 +1,10 @@
 var a24350 =
 [
-    [ "npc_pet_dk_ghoul", "d5/d89/a24350.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d5/d89/a24350.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d5/d89/a24350.html#a6095e3619b470283b9875b90e2805b54", null ]
+    [ "Absorb", "d5/d89/a24350.html#a5ab2041dcc342b087d8c6fd9b8d2635f", null ],
+    [ "CalculateAmount", "d5/d89/a24350.html#aed6e525b71f18dafb6f458bc255a6495", null ],
+    [ "Load", "d5/d89/a24350.html#af73fcf4a73ba60e214c045471569f7b0", null ],
+    [ "PrepareAuraScript", "d5/d89/a24350.html#a884927612b8ab2712a057da72f8180c6", null ],
+    [ "Register", "d5/d89/a24350.html#a380b63aec7c567c8db60f4c69a4e6043", null ],
+    [ "Validate", "d5/d89/a24350.html#af58ba552be9c91e8885ef1ccd567c96a", null ],
+    [ "absorbPct", "d5/d89/a24350.html#a64e8bcde6ee27dd00e77d7bfa0864e81", null ]
 ];

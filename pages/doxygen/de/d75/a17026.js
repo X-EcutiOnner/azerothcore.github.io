@@ -1,8 +1,8 @@
 var a17026 =
 [
-    [ "npc_toc_pet_hunterAI", "de/d75/a17026.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
-    [ "EnterEvadeMode", "de/d75/a17026.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
-    [ "myCanCast", "de/d75/a17026.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
-    [ "UpdateAI", "de/d75/a17026.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
-    [ "events", "de/d75/a17026.html#ade038312363f976b34868ed2cbebb58d", null ]
+    [ "npc_fos_corrupted_soul_fragment", "de/d75/a17026.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
+    [ "Reset", "de/d75/a17026.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
+    [ "UpdateAI", "de/d75/a17026.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
+    [ "Instance", "de/d75/a17026.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
+    [ "Timer", "de/d75/a17026.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
 ];

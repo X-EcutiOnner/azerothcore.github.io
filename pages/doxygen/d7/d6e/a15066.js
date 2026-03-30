@@ -1,6 +1,6 @@
 var a15066 =
 [
-    [ "OnAuraRemove", "d7/d6e/a15066.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "d7/d6e/a15066.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "d7/d6e/a15066.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "npc_crate_helperAI", "d2/dc3/a15070.html", "d2/dc3/a15070" ],
+    [ "npc_crate_helper", "d7/d6e/a15066.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "d7/d6e/a15066.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

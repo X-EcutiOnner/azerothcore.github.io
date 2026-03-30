@@ -1,12 +1,8 @@
 var a10534 =
 [
-    [ "ArenaScript", "d3/db2/a10534.html#acba88d9008e08873f3f20b92d69e8912", null ],
-    [ "CanAddMember", "d3/db2/a10534.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveArenaStatsForMember", "d3/db2/a10534.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
-    [ "CanSaveToDB", "d3/db2/a10534.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "d3/db2/a10534.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnArenaStart", "d3/db2/a10534.html#ae67b000b16f56309da56f672a9f2b423", null ],
-    [ "OnBeforeArenaCheckWinConditions", "d3/db2/a10534.html#a2b46190a3243f2306a74295975dca317", null ],
-    [ "OnBeforeArenaTeamMemberUpdate", "d3/db2/a10534.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
-    [ "OnGetPoints", "d3/db2/a10534.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "AllCommandScript", "d3/db2/a10534.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "d3/db2/a10534.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "d3/db2/a10534.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "d3/db2/a10534.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "d3/db2/a10534.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

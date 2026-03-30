@@ -1,7 +1,7 @@
 var a16682 =
 [
-    [ "HandleDummy", "d3/d39/a16682.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "d3/d39/a16682.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "d3/d39/a16682.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "d3/d39/a16682.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "npc_toc_paladinAI", "d3/d39/a16682.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
+    [ "myCanCast", "d3/d39/a16682.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
+    [ "UpdateAI", "d3/d39/a16682.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
+    [ "events", "d3/d39/a16682.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
 ];

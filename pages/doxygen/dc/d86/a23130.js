@@ -1,6 +1,7 @@
 var a23130 =
 [
-    [ "OnPeriodic", "dc/d86/a23130.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
-    [ "PrepareAuraScript", "dc/d86/a23130.html#ac9231c238adf7e733d55bc6098daddc0", null ],
-    [ "Register", "dc/d86/a23130.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
+    [ "HandleScript", "dc/d86/a23130.html#a8933535f9507b90b54032c17985cc3c6", null ],
+    [ "PrepareSpellScript", "dc/d86/a23130.html#acadb563eaeffac47b3f883f9d8c37994", null ],
+    [ "Register", "dc/d86/a23130.html#a797ae84dcb0fc13b0799934bde71809c", null ],
+    [ "Validate", "dc/d86/a23130.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
 ];

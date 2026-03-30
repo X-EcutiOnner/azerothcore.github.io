@@ -1,6 +1,7 @@
 var a19906 =
 [
-    [ "npc_centrifuge_constructAI", "d6/d1d/a19910.html", "d6/d1d/a19910" ],
-    [ "npc_centrifuge_construct", "da/dcc/a19906.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
-    [ "GetAI", "da/dcc/a19906.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
+    [ "npc_auriaya_sanctum_sentry", "da/dcc/a19906.html#ae5ed159c476c8b4569de7e2730edf447", null ],
+    [ "JustEngagedWith", "da/dcc/a19906.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
+    [ "Reset", "da/dcc/a19906.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
+    [ "UpdateAI", "da/dcc/a19906.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
 ];

@@ -1,7 +1,8 @@
 var a22342 =
 [
-    [ "HandleDummy", "d6/d3b/a22342.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
-    [ "PrepareAuraScript", "d6/d3b/a22342.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
-    [ "Register", "d6/d3b/a22342.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
-    [ "Validate", "d6/d3b/a22342.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
+    [ "npc_anzu_spirit", "d6/d3b/a22342.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "d6/d3b/a22342.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "d6/d3b/a22342.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "d6/d3b/a22342.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "d6/d3b/a22342.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

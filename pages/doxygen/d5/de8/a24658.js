@@ -1,9 +1,10 @@
 var a24658 =
 [
-    [ "Absorb", "d5/de8/a24658.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
-    [ "CalculateAmount", "d5/de8/a24658.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
-    [ "Load", "d5/de8/a24658.html#ab7eae0747736dea5633ef51eb0945fae", null ],
-    [ "PrepareAuraScript", "d5/de8/a24658.html#a760b72149ee11ad88e290c9537b3094b", null ],
-    [ "Register", "d5/de8/a24658.html#a0d25efee128ee95f9ad268b53358f376", null ],
-    [ "absorbPct", "d5/de8/a24658.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
+    [ "HandleEffectApply", "d5/de8/a24658.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "d5/de8/a24658.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "d5/de8/a24658.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "d5/de8/a24658.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "d5/de8/a24658.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "d5/de8/a24658.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "d5/de8/a24658.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

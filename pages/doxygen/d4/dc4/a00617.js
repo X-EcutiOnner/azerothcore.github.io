@@ -1,12 +1,9 @@
 var a00617 =
 [
-    [ "BinarySpellDetectionTest", "dd/d2d/a29451.html", "dd/d2d/a29451" ],
-    [ "ShouldMarkBinary", "d4/dc4/a00617.html#ab2154405a408271aa60863454b0303fe", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#afb1918ddefeb036bd6be1fbde953b78b", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#a1dc398eff0ed30b3e1997c3b27980bed", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#ad56defbc63a988ba5126194ff9cea5ec", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#a54fa8a3ce4060060ece3f2a2d9e852e7", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#aa1b8d26dc43fa9eaf1d827a0c4308dd1", null ],
-    [ "TEST_F", "d4/dc4/a00617.html#a4e6cbd19c7f85354ce9a5f5a9a1bafe6", null ]
+    [ "ProcTestResult", "d4/db8/a29218.html", "d4/db8/a29218" ],
+    [ "ProcTestContext", "df/d95/a29222.html", "df/d95/a29222" ],
+    [ "AuraScriptProcTestFixture", "da/df1/a29226.html", "da/df1/a29226" ],
+    [ "ProcScenarioBuilder", "db/d23/a29230.html", "db/d23/a29230" ],
+    [ "EXPECT_PROC_DOES_NOT_TRIGGER", "d4/dc4/a00617.html#ab8dc66c27ffce0980153941e8e7ab701", null ],
+    [ "EXPECT_PROC_TRIGGERS", "d4/dc4/a00617.html#ad89bc4ac2d1077d7e73a7e08336ff303", null ]
 ];

@@ -1,6 +1,6 @@
 var a13290 =
 [
-    [ "instance_karazhan_InstanceMapScript", "d3/d90/a13294.html", "d3/d90/a13294" ],
-    [ "instance_karazhan", "dd/d6c/a13290.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
-    [ "GetInstanceScript", "dd/d6c/a13290.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
+    [ "npc_a_special_surpriseAI", "d3/d90/a13294.html", "d3/d90/a13294" ],
+    [ "npc_a_special_surprise", "dd/d6c/a13290.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "dd/d6c/a13290.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

@@ -1,5 +1,7 @@
 var a23462 =
 [
-    [ "npc_invisible_tractor_beam_source", "dd/d44/a23462.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
-    [ "IsSummonedBy", "dd/d44/a23462.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
+    [ "boss_warp_splinter", "dd/d44/a23462.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "dd/d44/a23462.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "dd/d44/a23462.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "dd/d44/a23462.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

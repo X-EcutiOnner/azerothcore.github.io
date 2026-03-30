@@ -1,5 +1,6 @@
 var a22358 =
 [
-    [ "npc_wg_spirit_guideAI", "d1/d36/a22358.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "d1/d36/a22358.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "dd/dac/a22362.html", "dd/dac/a22362" ],
+    [ "instance_sethekk_halls", "d1/d36/a22358.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "d1/d36/a22358.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

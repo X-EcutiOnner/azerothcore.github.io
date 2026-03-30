@@ -1,7 +1,5 @@
 var a20082 =
 [
-    [ "HandleEffectRemove", "df/db3/a20082.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "df/db3/a20082.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "df/db3/a20082.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "df/db3/a20082.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "achievement_freya_getting_back_to_nature", "df/db3/a20082.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "df/db3/a20082.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

@@ -1,6 +1,8 @@
 var a25890 =
 [
-    [ "PrepareSpellScript", "d8/d75/a25890.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "d8/d75/a25890.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "d8/d75/a25890.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "HandleScript", "d8/d75/a25890.html#ad99c741ef4bf707ec4b4726a3610d827", null ],
+    [ "Load", "d8/d75/a25890.html#ab7aac5c557c76fdd195565a99d746dc9", null ],
+    [ "PrepareSpellScript", "d8/d75/a25890.html#abb6e76d537d61b5b38ce4488d230d6de", null ],
+    [ "Register", "d8/d75/a25890.html#a2f7e819dfa30f4f0d3645fde9c87408c", null ],
+    [ "Validate", "d8/d75/a25890.html#a0767c66cbc288bee6ee0eb3a4fde315f", null ]
 ];

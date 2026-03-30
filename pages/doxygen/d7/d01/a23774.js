@@ -1,10 +1,7 @@
 var a23774 =
 [
-    [ "CheckProc", "d7/d01/a23774.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
-    [ "Load", "d7/d01/a23774.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
-    [ "PrepareAuraScript", "d7/d01/a23774.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
-    [ "Register", "d7/d01/a23774.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
-    [ "_lastForm", "d7/d01/a23774.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
-    [ "_lastSchool", "d7/d01/a23774.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
-    [ "_swapTime", "d7/d01/a23774.html#af832dc200e928df3849ab7d7f93cb412", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d7/d01/a23774.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "d7/d01/a23774.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "d7/d01/a23774.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "d7/d01/a23774.html#a29132346f117ba785039057619edb9e7", null ]
 ];

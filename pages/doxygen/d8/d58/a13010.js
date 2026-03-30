@@ -1,6 +1,6 @@
 var a13010 =
 [
-    [ "boss_sulfuronAI", "df/d75/a13014.html", "df/d75/a13014" ],
-    [ "boss_sulfuron", "d8/d58/a13010.html#aed72791db02009136592b905cc4f4df3", null ],
-    [ "GetAI", "d8/d58/a13010.html#aced001845e4a9bb9f517d45a36f474c7", null ]
+    [ "HandleCast", "d8/d58/a13010.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
+    [ "PrepareSpellScript", "d8/d58/a13010.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
+    [ "Register", "d8/d58/a13010.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
 ];

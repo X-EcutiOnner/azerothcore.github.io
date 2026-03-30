@@ -1,6 +1,5 @@
 var a27650 =
 [
-    [ "HandleAuraApply", "de/d20/a27650.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "de/d20/a27650.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "de/d20/a27650.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "achievement_resilient_victory", "de/d20/a27650.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "de/d20/a27650.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

@@ -1,7 +1,6 @@
 var a11106 =
 [
-    [ "AutoEquipItemSlot", "dd/dec/a11106.html#aa51f40a4172ac41548ec6199bc84375d", null ],
-    [ "Read", "dd/dec/a11106.html#ade6a15026e9c461b38301edf79f367be", null ],
-    [ "DestinationSlot", "dd/dec/a11106.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
-    [ "ItemGuid", "dd/dec/a11106.html#a9d4da587061833262acff66674d3ac41", null ]
+    [ "SetDungeonDifficultyClient", "dd/dec/a11106.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
+    [ "Read", "dd/dec/a11106.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
+    [ "Mode", "dd/dec/a11106.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
 ];

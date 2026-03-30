@@ -1,6 +1,6 @@
 var a23590 =
 [
-    [ "HandleScriptEffect", "d5/db7/a23590.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "d5/db7/a23590.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "d5/db7/a23590.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "instance_the_eye_InstanceMapScript", "dc/d59/a23594.html", "dc/d59/a23594" ],
+    [ "instance_the_eye", "d5/db7/a23590.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d5/db7/a23590.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

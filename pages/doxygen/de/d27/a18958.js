@@ -1,7 +1,7 @@
 var a18958 =
 [
-    [ "AuraRemoveEvent", "de/d27/a18958.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "de/d27/a18958.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "de/d27/a18958.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "de/d27/a18958.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "HandleDummyLaunch", "de/d27/a18958.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
+    [ "PrepareSpellScript", "de/d27/a18958.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
+    [ "Register", "de/d27/a18958.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
+    [ "Validate", "de/d27/a18958.html#a577166695c1479e3730a70637bc18cf1", null ]
 ];

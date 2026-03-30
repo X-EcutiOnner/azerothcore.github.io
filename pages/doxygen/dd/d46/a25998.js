@@ -1,8 +1,7 @@
 var a25998 =
 [
-    [ "CheckProc", "dd/d46/a25998.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
-    [ "HandleProc", "dd/d46/a25998.html#a1d45afc30c8dd6de0a01285778117033", null ],
-    [ "PrepareAuraScript", "dd/d46/a25998.html#ab468329029c4bc3c16475585b3451615", null ],
-    [ "Register", "dd/d46/a25998.html#a37700b8597a3945d30700c5e8b60404a", null ],
-    [ "Validate", "dd/d46/a25998.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
+    [ "AfterRemove", "dd/d46/a25998.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
+    [ "PrepareAuraScript", "dd/d46/a25998.html#a13f11ec412f18d805282b3810aff5e90", null ],
+    [ "Register", "dd/d46/a25998.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
+    [ "Validate", "dd/d46/a25998.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
 ];

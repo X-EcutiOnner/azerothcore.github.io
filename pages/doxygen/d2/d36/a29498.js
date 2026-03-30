@@ -1,7 +1,18 @@
 var a29498 =
 [
-    [ "RealmHandle", "d2/d36/a29498.html#a120fb45f2301188a843ab2e712f768e4", null ],
-    [ "RealmHandle", "d2/d36/a29498.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
-    [ "operator<", "d2/d36/a29498.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
-    [ "Realm", "d2/d36/a29498.html#a31af0d9064a295b1579fce3c80217bfd", null ]
+    [ "CreateEventInfo", "d2/d36/a29498.html#a34bc192406fd9f489e57a7ad6e5aab6d", null ],
+    [ "FindMatchingScenario", "d2/d36/a29498.html#a9b31d6d9880ee54a17df6fb57f334396", null ],
+    [ "GetEffectiveHitMask", "d2/d36/a29498.html#a1a2a08ffb1b7750d8292d70baa22109d", null ],
+    [ "GetEffectiveSpellPhaseMask", "d2/d36/a29498.html#a84919c55f1ea5a3318982fe73e39c6f1", null ],
+    [ "GetEffectiveSpellTypeMask", "d2/d36/a29498.html#aada93a604c8e7f4b5a9d0c62fb134784", null ],
+    [ "IsSpellTypeProc", "d2/d36/a29498.html#afe8b7929c8489d9c19bbfef2daaa0e9a", null ],
+    [ "RequiresSpellFamilyMatch", "d2/d36/a29498.html#a483394c3827b435220ff73a22b202cbd", null ],
+    [ "SetUp", "d2/d36/a29498.html#a97a6a44cf781708f376088b8d755e51e", null ],
+    [ "TearDown", "d2/d36/a29498.html#aa7cf1e7c860169791235a8c83079b7c3", null ],
+    [ "_allEntries", "d2/d36/a29498.html#a863fca9ea018277f0f70f074cc5cbee0", null ],
+    [ "_damageInfo", "d2/d36/a29498.html#a79d9c97408a50b436bff5466b20de7fe", null ],
+    [ "_defaultSpellInfo", "d2/d36/a29498.html#affaa8e236d7ba203b1f2077ffbcad0c4", null ],
+    [ "_healInfo", "d2/d36/a29498.html#a3495fb2c09817a1605e46de9b5ab4a5a", null ],
+    [ "_originalWorld", "d2/d36/a29498.html#a1616643b4020ac84e039f96a535d3a7f", null ],
+    [ "_worldMock", "d2/d36/a29498.html#a5d64d7a5be1af3d13d67fd7ce82f7d58", null ]
 ];

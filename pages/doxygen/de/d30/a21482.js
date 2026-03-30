@@ -1,6 +1,7 @@
 var a21482 =
 [
-    [ "npc_azure_spellbreakerAI", "d3/dea/a21486.html", "d3/dea/a21486" ],
-    [ "npc_azure_spellbreaker", "de/d30/a21482.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
-    [ "GetAI", "de/d30/a21482.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
+    [ "CheckRequirement", "de/d30/a21482.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "de/d30/a21482.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "de/d30/a21482.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "de/d30/a21482.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

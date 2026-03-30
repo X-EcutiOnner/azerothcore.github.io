@@ -1,6 +1,6 @@
 var a18178 =
 [
-    [ "HandlePeriodicTick", "df/d3d/a18178.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
-    [ "PrepareAuraScript", "df/d3d/a18178.html#a9962029ce4a5223d7aa05068e8d83326", null ],
-    [ "Register", "df/d3d/a18178.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
+    [ "ExtraRemoveEffect", "df/d3d/a18178.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "df/d3d/a18178.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "df/d3d/a18178.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

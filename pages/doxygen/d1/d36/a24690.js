@@ -1,8 +1,9 @@
 var a24690 =
 [
-    [ "CheckProc", "d1/d36/a24690.html#a1b2746e9013ecfbbc112d74a9229719f", null ],
-    [ "HandleProc", "d1/d36/a24690.html#ad100e3d9794da0fac5802e9d059609a8", null ],
-    [ "PrepareAuraScript", "d1/d36/a24690.html#a3867a6c8278dc85b3a429652a7b5e81c", null ],
-    [ "Register", "d1/d36/a24690.html#ab38f961abbef4271df4ddce139d890df", null ],
-    [ "Validate", "d1/d36/a24690.html#ac5020d66d7fca6246a4ccbbf5c681fee", null ]
+    [ "PrepareAuraScript", "d1/d36/a24690.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "d1/d36/a24690.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "d1/d36/a24690.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "d1/d36/a24690.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "d1/d36/a24690.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "d1/d36/a24690.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

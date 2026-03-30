@@ -1,7 +1,6 @@
 var a25374 =
 [
-    [ "HandleScript", "d8/dbe/a25374.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
-    [ "PrepareSpellScript", "d8/dbe/a25374.html#a7909f23da8385abdabb62e5196d88d38", null ],
-    [ "Register", "d8/dbe/a25374.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
-    [ "Validate", "d8/dbe/a25374.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
+    [ "HandleStackDrop", "d8/dbe/a25374.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "d8/dbe/a25374.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "d8/dbe/a25374.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

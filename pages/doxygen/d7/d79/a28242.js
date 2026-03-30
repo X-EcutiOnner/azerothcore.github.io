@@ -1,6 +1,7 @@
 var a28242 =
 [
-    [ "go_midsummer_musicAI", "d7/d79/a28242.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "d7/d79/a28242.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "d7/d79/a28242.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "npc_guardianAI", "d7/d79/a28242.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "d7/d79/a28242.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "d7/d79/a28242.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "d7/d79/a28242.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

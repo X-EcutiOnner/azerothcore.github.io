@@ -1,6 +1,7 @@
 var a27410 =
 [
-    [ "HandleAfterCast", "d1/d05/a27410.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d1/d05/a27410.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d1/d05/a27410.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleTeleport", "d1/d05/a27410.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d1/d05/a27410.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d1/d05/a27410.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d1/d05/a27410.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

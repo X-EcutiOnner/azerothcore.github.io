@@ -1,6 +1,6 @@
 var a13002 =
 [
-    [ "boss_shazzrahAI", "d7/d0d/a13002.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
-    [ "ExecuteEvent", "d7/d0d/a13002.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
-    [ "JustEngagedWith", "d7/d0d/a13002.html#aaa8111d42cacd58f767513026976668c", null ]
+    [ "npc_sanguine_spirit", "d7/d0d/a13002.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
+    [ "Reset", "d7/d0d/a13002.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
+    [ "UpdateAI", "d7/d0d/a13002.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
 ];

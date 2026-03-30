@@ -1,10 +1,7 @@
 var a24398 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "de/d61/a24398.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "de/d61/a24398.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "de/d61/a24398.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "de/d61/a24398.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "de/d61/a24398.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "de/d61/a24398.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "de/d61/a24398.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "HandleProc", "de/d61/a24398.html#a393909e3765443aa4930d8036c36b132", null ],
+    [ "PrepareAuraScript", "de/d61/a24398.html#aeaacd337fd8a02e7c19ead8912fc68d9", null ],
+    [ "Register", "de/d61/a24398.html#af37fd1db3dc6cbbe985734853ea59109", null ],
+    [ "Validate", "de/d61/a24398.html#a0966b67c38486fb32c3e442f388320b1", null ]
 ];

@@ -1,6 +1,4 @@
 var a10122 =
 [
-    [ "UpdateRequest", "d7/dfe/a10122.html#a23b3dbcff54691b2710109a822a486a0", null ],
-    [ "~UpdateRequest", "d7/dfe/a10122.html#a240bdc56685c270c597588231c3bf8f8", null ],
-    [ "call", "d7/dfe/a10122.html#a8221fa415f828a4866f85f3983f7dab9", null ]
+    [ "GetObjectHitPos", "d7/dfe/a10122.html#ae50a9a90538fd07f604929251fa2113a", null ]
 ];

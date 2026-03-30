@@ -1,10 +1,6 @@
 var a19734 =
 [
-    [ "npc_power_spark", "d7/de8/a19734.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
-    [ "DamageTaken", "d7/de8/a19734.html#afe33d511823666929232bfd0179ee72a", null ],
-    [ "DoAction", "d7/de8/a19734.html#ab99a859ee718d49ce59171e7e7159abc", null ],
-    [ "UpdateAI", "d7/de8/a19734.html#ab36e75c87aa262a57be1594289284730", null ],
-    [ "_checkTimer", "d7/de8/a19734.html#ae63f0f359037363b840fe51a797969b5", null ],
-    [ "_instance", "d7/de8/a19734.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
-    [ "_moveTimer", "d7/de8/a19734.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
+    [ "boss_sjonnir_dwarfAI", "dc/d11/a19738.html", "dc/d11/a19738" ],
+    [ "boss_sjonnir_dwarf", "d7/de8/a19734.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
+    [ "GetAI", "d7/de8/a19734.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
 ];

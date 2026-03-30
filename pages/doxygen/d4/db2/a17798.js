@@ -1,6 +1,6 @@
 var a17798 =
 [
-    [ "npc_dark_nucleusAI", "d5/d9c/a17802.html", "d5/d9c/a17802" ],
-    [ "npc_dark_nucleus", "d4/db2/a17798.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "d4/db2/a17798.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "npc_gunship_boarding_add_realAI", "d4/db2/a17798.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "d4/db2/a17798.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "d4/db2/a17798.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

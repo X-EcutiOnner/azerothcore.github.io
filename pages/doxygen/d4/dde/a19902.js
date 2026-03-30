@@ -1,12 +1,15 @@
 var a19902 =
 [
-    [ "npc_oculus_drakeAI", "d4/dde/a19902.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "d4/dde/a19902.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "d4/dde/a19902.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "d4/dde/a19902.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "d4/dde/a19902.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "d4/dde/a19902.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "d4/dde/a19902.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "d4/dde/a19902.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "d4/dde/a19902.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "boss_auriaya", "d4/dde/a19902.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DoAction", "d4/dde/a19902.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "d4/dde/a19902.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "d4/dde/a19902.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "d4/dde/a19902.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "d4/dde/a19902.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "JustSummoned", "d4/dde/a19902.html#aaec8af440e83fd614041cb63115adc48", null ],
+    [ "KilledUnit", "d4/dde/a19902.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "d4/dde/a19902.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "SummonedCreatureDies", "d4/dde/a19902.html#a928a8d7c084125136bdef1ab0a3a4737", null ],
+    [ "_feralDied", "d4/dde/a19902.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "d4/dde/a19902.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

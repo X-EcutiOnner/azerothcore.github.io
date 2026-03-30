@@ -1,6 +1,6 @@
 var a15454 =
 [
-    [ "npc_belnistraszAI", "d5/d33/a15458.html", "d5/d33/a15458" ],
-    [ "npc_belnistrasz", "df/d38/a15454.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
-    [ "GetAI", "df/d38/a15454.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
+    [ "FilterTargets", "df/d38/a15454.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "df/d38/a15454.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "df/d38/a15454.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

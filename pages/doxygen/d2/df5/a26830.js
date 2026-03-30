@@ -1,8 +1,8 @@
 var a26830 =
 [
-    [ "CheckCast", "d2/df5/a26830.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "d2/df5/a26830.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "d2/df5/a26830.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "d2/df5/a26830.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "d2/df5/a26830.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "Load", "d2/df5/a26830.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
+    [ "OnRemove", "d2/df5/a26830.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
+    [ "PrepareAuraScript", "d2/df5/a26830.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
+    [ "Register", "d2/df5/a26830.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
+    [ "Validate", "d2/df5/a26830.html#a3820e716d20809896c84c1ca781af4d1", null ]
 ];

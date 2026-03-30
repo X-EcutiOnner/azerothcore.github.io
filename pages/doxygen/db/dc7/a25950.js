@@ -1,10 +1,8 @@
 var a25950 =
 [
-    [ "spell_item_defibrillate", "db/dc7/a25950.html#ab64fdd36fc646ca0bcb2010380199ede", null ],
-    [ "HandleScript", "db/dc7/a25950.html#a7abbc5b8e5c5231d5c6809c45b815b69", null ],
-    [ "PrepareSpellScript", "db/dc7/a25950.html#a6a7ad6c9bb9bee3b093bd06b1b259468", null ],
-    [ "Register", "db/dc7/a25950.html#ad2faa26a2874f68e8e419e59cafbf10b", null ],
-    [ "Validate", "db/dc7/a25950.html#ad871a6bef7ba074f32abe1bf062dffe1", null ],
-    [ "_chance", "db/dc7/a25950.html#a680092f30ebc6b322e5d01a1100b308c", null ],
-    [ "_failSpell", "db/dc7/a25950.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b", null ]
+    [ "HandleProc", "db/dc7/a25950.html#a2d5eff84e8df9c34fd4be6a98c2f5eb0", null ],
+    [ "OnRemove", "db/dc7/a25950.html#aec98f9b3b6fb458becb215d2c0e62149", null ],
+    [ "PrepareAuraScript", "db/dc7/a25950.html#af498da6d5732c51cf7b3e95633341107", null ],
+    [ "Register", "db/dc7/a25950.html#a846a3dd6335fc2830e51fff2e5d82ee2", null ],
+    [ "Validate", "db/dc7/a25950.html#a49218a89f9915a14b3a98f073d382f91", null ]
 ];

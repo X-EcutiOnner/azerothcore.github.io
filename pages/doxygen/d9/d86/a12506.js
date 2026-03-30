@@ -1,6 +1,8 @@
 var a12506 =
 [
-    [ "boss_gloomrel", "d9/d86/a12506.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
-    [ "OnGossipHello", "d9/d86/a12506.html#a6ce6898142d767a130ec09769f2be488", null ],
-    [ "OnGossipSelect", "d9/d86/a12506.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
+    [ "CheckProc", "d9/d86/a12506.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d9/d86/a12506.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d9/d86/a12506.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d9/d86/a12506.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d9/d86/a12506.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

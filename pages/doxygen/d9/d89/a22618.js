@@ -1,8 +1,12 @@
 var a22618 =
 [
-    [ "boss_pandemonius", "d9/d89/a22618.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d9/d89/a22618.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d9/d89/a22618.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d9/d89/a22618.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d9/d89/a22618.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "boss_essence_of_angerAI", "d9/d89/a22618.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "d9/d89/a22618.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "d9/d89/a22618.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "d9/d89/a22618.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "d9/d89/a22618.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "d9/d89/a22618.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "d9/d89/a22618.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "_recentlySpoken", "d9/d89/a22618.html#a056aa8fd704d832e83735cf2a1a22888", null ],
+    [ "targetGUID", "d9/d89/a22618.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

@@ -1,16 +1,16 @@
 var a00554 =
 [
-    [ "CalcFullTime", "dc/df9/a00554.html#acf515241ac86050cd79d68b509c5ea29", null ],
-    [ "NewResetFormula", "dc/df9/a00554.html#aae298365d32c23f29d12e5f81b91db99", null ],
-    [ "OldResetFormula", "dc/df9/a00554.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2", null ],
-    [ "TEST", "dc/df9/a00554.html#aa46aba4f46e0c4cf1611bf2ff0b11f53", null ],
-    [ "TEST", "dc/df9/a00554.html#a9bf8b2c46faea4396f67f27c689c7d65", null ],
-    [ "TEST", "dc/df9/a00554.html#ab956bb191fe7eb20bc88e43c071e07b5", null ],
-    [ "TEST", "dc/df9/a00554.html#a819dde76e3b5bd1171dc3fb7e37c3a53", null ],
-    [ "TEST", "dc/df9/a00554.html#af1c4cf8b997d096dc906ccd5c846e90e", null ],
-    [ "TEST", "dc/df9/a00554.html#acbd23a84fa5f4c2b09dbe42a501443be", null ],
-    [ "TEST", "dc/df9/a00554.html#a1835c78c8476bbaf740ca65e27ab5c03", null ],
-    [ "TEST", "dc/df9/a00554.html#a582b8801c33d3f605c91bf0aab1f699c", null ],
-    [ "TEST", "dc/df9/a00554.html#a1abe08c7becc5f8bc2d034cf7312a1b1", null ],
-    [ "TEST", "dc/df9/a00554.html#af92bca5e60d83a245a06403f58a9360c", null ]
+    [ "ModelFlags", "dc/df9/a00554.html#a829dc978e29d88ada1059ea4ca6c4cd3", [
+      [ "MOD_M2", "dc/df9/a00554.html#a829dc978e29d88ada1059ea4ca6c4cd3a36c4baaa0c832deca9bc0f05addf1168", null ],
+      [ "MOD_WORLDSPAWN", "dc/df9/a00554.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4", null ],
+      [ "MOD_HAS_BOUND", "dc/df9/a00554.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851", null ]
+    ] ],
+    [ "ExtractGameobjectModels", "dc/df9/a00554.html#a7b3d0cbf404ed32359e354ccf6e34392", null ],
+    [ "ExtractSingleModel", "dc/df9/a00554.html#a6a96194f748b715f0400249583336ae5", null ],
+    [ "ExtractSingleWmo", "dc/df9/a00554.html#afc9839262206eb10094c1769141ae146", null ],
+    [ "FileExists", "dc/df9/a00554.html#aab524156a5705c5cd09f96106eaac92d", null ],
+    [ "GenerateUniqueObjectId", "dc/df9/a00554.html#a6a3d179f34597554b17a122f27cd6be5", null ],
+    [ "strToLower", "dc/df9/a00554.html#ac9e88429cc2168db83793cb7074bc69f", null ],
+    [ "szWorkDirWmo", "dc/df9/a00554.html#ac706bf73d4ee9783a3b882fad9c3cbea", null ],
+    [ "WmoDoodads", "dc/df9/a00554.html#a17b22c7645963c9e5c277b72605a4966", null ]
 ];

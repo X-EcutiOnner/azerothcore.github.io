@@ -1,9 +1,11 @@
 var a04784 =
 [
-    [ "PoolTemplateItem", "d6/d91/a12279.html", "d6/d91/a12279" ],
-    [ "NodeGroup", "dd/d82/a12283.html", "dd/d82/a12283" ],
-    [ "PoolSession", "df/df0/a12287.html", "df/df0/a12287" ],
-    [ "pooltools_commandscript", "d4/df7/a12291.html", "d4/df7/a12291" ],
-    [ "AddSC_pooltools_commandscript", "d2/d13/a04784.html#a8c8907ff2ae66e87142b14909a2ee941", null ],
-    [ "PoolSessions", "d2/d13/a04784.html#ab5e275ff67266d9329307cd8a5398b14", null ]
+    [ "Creature", "d8/d43/a08274.html", "d8/d43/a08274" ],
+    [ "AssistDelayEvent", "df/d51/a08282.html", "df/d51/a08282" ],
+    [ "ForcedDespawnDelayEvent", "d8/d84/a08286.html", "d8/d84/a08286" ],
+    [ "TemporaryThreatModifierEvent", "da/da7/a08290.html", "da/da7/a08290" ],
+    [ "CREATURE_Z_ATTACK_RANGE", "d2/d13/a04784.html#a91a03a879f1b4df44968ae2f9f22fb0d", null ],
+    [ "MAX_VENDOR_ITEMS", "d2/d13/a04784.html#a44c3a813b92331e325ba5aae11ed72a3", null ],
+    [ "CreatureTextRepeatGroup", "d2/d13/a04784.html#aa92b7ce1a721a3955751ae25cf01b22a", null ],
+    [ "CreatureTextRepeatIds", "d2/d13/a04784.html#a4a74e5d0af63228e47e1f663570018ae", null ]
 ];

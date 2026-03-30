@@ -1,6 +1,6 @@
 var a13382 =
 [
-    [ "boss_garaxxas", "d7/d3e/a13382.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "d7/d3e/a13382.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "d7/d3e/a13382.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "boss_kirtonos_the_heraldAI", "d5/ddd/a13386.html", "d5/ddd/a13386" ],
+    [ "boss_kirtonos_the_herald", "d7/d3e/a13382.html#a0e81153a0da7910cda4c9b6d32544318", null ],
+    [ "GetAI", "d7/d3e/a13382.html#aa5e0fe2386aae52fd53ff309282db652", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BattlefieldMgr Class Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d2/dcb/a07439.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d8/ddb/a07442.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,666 +104,154 @@ $(document).ready(function(){initNavTree('d2/dcb/a07439.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
-<a href="../../dc/d6f/a07436.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BattlefieldMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">Battlefield Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">BattlefieldMgr.h</a>&quot;</code></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:aebece89a427833b4005c67761bba7262"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#aebece89a427833b4005c67761bba7262">BattlefieldSet</a> = std::vector&lt; <a class="el" href="../../d5/d79/a07435.html">Battlefield</a> * &gt;</td></tr>
-<tr class="separator:aebece89a427833b4005c67761bba7262"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af0b5390f581e99d207ec06c9645d9d63"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#af0b5390f581e99d207ec06c9645d9d63">BattlefieldMap</a> = std::map&lt; <a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d5/d79/a07435.html">Battlefield</a> * &gt;</td></tr>
-<tr class="separator:af0b5390f581e99d207ec06c9645d9d63"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:afaa79f63a91c6b585b4bf10dfdf60af6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#afaa79f63a91c6b585b4bf10dfdf60af6">BattlefieldMgr</a> ()</td></tr>
-<tr class="separator:afaa79f63a91c6b585b4bf10dfdf60af6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0d5b198add5190e99a1763a168ce2895"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a0d5b198add5190e99a1763a168ce2895">~BattlefieldMgr</a> ()</td></tr>
-<tr class="separator:a0d5b198add5190e99a1763a168ce2895"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a244ce1743c237e95c08dc8861f3ce4b3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a244ce1743c237e95c08dc8861f3ce4b3">InitBattlefield</a> ()</td></tr>
-<tr class="separator:a244ce1743c237e95c08dc8861f3ce4b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a733f42fdc343d070220e8c56f24fe4ac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a733f42fdc343d070220e8c56f24fe4ac">HandlePlayerEnterZone</a> (<a class="el" href="../../d8/d0c/a08895.html">Player</a> *player, <a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a733f42fdc343d070220e8c56f24fe4ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89aa3d5d27fe61a13e381f13c599de90"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a89aa3d5d27fe61a13e381f13c599de90">HandlePlayerLeaveZone</a> (<a class="el" href="../../d8/d0c/a08895.html">Player</a> *player, <a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a89aa3d5d27fe61a13e381f13c599de90"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a458fb8b4943de82f0574ddd63ba466a9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a458fb8b4943de82f0574ddd63ba466a9">HandlePlayerResurrects</a> (<a class="el" href="../../d8/d0c/a08895.html">Player</a> *player, <a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a458fb8b4943de82f0574ddd63ba466a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a223e8c73e41441f25e557d78ddb97b81"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d79/a07435.html">Battlefield</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a223e8c73e41441f25e557d78ddb97b81">GetBattlefieldToZoneId</a> (<a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId)</td></tr>
-<tr class="separator:a223e8c73e41441f25e557d78ddb97b81"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94f2a876f8ea677bfb8bc3acfd8f238b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d79/a07435.html">Battlefield</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a94f2a876f8ea677bfb8bc3acfd8f238b">GetBattlefieldByBattleId</a> (<a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> battleId)</td></tr>
-<tr class="separator:a94f2a876f8ea677bfb8bc3acfd8f238b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:accd1dc8e86bc9ab5618483e609b9314d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d4e/a10191.html">ZoneScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#accd1dc8e86bc9ab5618483e609b9314d">GetZoneScript</a> (<a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId)</td></tr>
-<tr class="separator:accd1dc8e86bc9ab5618483e609b9314d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a40a5ca1cd0f0baa8ffd47bc91700a7ac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a40a5ca1cd0f0baa8ffd47bc91700a7ac">AddZone</a> (<a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId, <a class="el" href="../../d5/d79/a07435.html">Battlefield</a> *handle)</td></tr>
-<tr class="separator:a40a5ca1cd0f0baa8ffd47bc91700a7ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a15548a7b124741e2fa9f36f1bf087458"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a15548a7b124741e2fa9f36f1bf087458">Update</a> (<a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
-<tr class="separator:a15548a7b124741e2fa9f36f1bf087458"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf6b062e5dde772aa17afef185f916ad"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#aaf6b062e5dde772aa17afef185f916ad">HandleGossipOption</a> (<a class="el" href="../../d8/d0c/a08895.html">Player</a> *player, <a class="el" href="../../df/dff/a08695.html">ObjectGuid</a> guid, <a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipId)</td></tr>
-<tr class="separator:aaf6b062e5dde772aa17afef185f916ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a18fdd3c81b5641e296318f1113acf73f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a18fdd3c81b5641e296318f1113acf73f">CanTalkTo</a> (<a class="el" href="../../d8/d0c/a08895.html">Player</a> *player, <a class="el" href="../../dc/d79/a08267.html">Creature</a> *creature, <a class="el" href="../../d5/d71/a09303.html">GossipMenuItems</a> gso)</td></tr>
-<tr class="separator:a18fdd3c81b5641e296318f1113acf73f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a19b23ca8dc68ceaaca9078a33b62b70e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a19b23ca8dc68ceaaca9078a33b62b70e">HandleDropFlag</a> (<a class="el" href="../../d8/d0c/a08895.html">Player</a> *player, <a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId)</td></tr>
-<tr class="separator:a19b23ca8dc68ceaaca9078a33b62b70e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:af96d6d44aa8936f94c20d1bd92af2fb3"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d2/dcb/a07439.html">BattlefieldMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a> ()</td></tr>
-<tr class="separator:af96d6d44aa8936f94c20d1bd92af2fb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a4d6325668521e88a17a67318970570e1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dcb/a07439.html#aebece89a427833b4005c67761bba7262">BattlefieldSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a4d6325668521e88a17a67318970570e1">_battlefieldSet</a></td></tr>
-<tr class="separator:a4d6325668521e88a17a67318970570e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a08c3f04abda757dd62a9e90fdbba26f9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dcb/a07439.html#af0b5390f581e99d207ec06c9645d9d63">BattlefieldMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a></td></tr>
-<tr class="separator:a08c3f04abda757dd62a9e90fdbba26f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62c5a7865d10618b0db6e098a99d0230"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a62c5a7865d10618b0db6e098a99d0230">_updateTimer</a></td></tr>
-<tr class="separator:a62c5a7865d10618b0db6e098a99d0230"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="af0b5390f581e99d207ec06c9645d9d63" name="af0b5390f581e99d207ec06c9645d9d63"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af0b5390f581e99d207ec06c9645d9d63">&#9670;&#160;</a></span>BattlefieldMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d2/dcb/a07439.html#af0b5390f581e99d207ec06c9645d9d63">BattlefieldMgr::BattlefieldMap</a> =  std::map&lt;<a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> , <a class="el" href="../../d5/d79/a07435.html">Battlefield</a>*&gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aebece89a427833b4005c67761bba7262" name="aebece89a427833b4005c67761bba7262"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aebece89a427833b4005c67761bba7262">&#9670;&#160;</a></span>BattlefieldSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d2/dcb/a07439.html#aebece89a427833b4005c67761bba7262">BattlefieldMgr::BattlefieldSet</a> =  std::vector&lt;<a class="el" href="../../d5/d79/a07435.html">Battlefield</a>*&gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afaa79f63a91c6b585b4bf10dfdf60af6" name="afaa79f63a91c6b585b4bf10dfdf60af6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afaa79f63a91c6b585b4bf10dfdf60af6">&#9670;&#160;</a></span>BattlefieldMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">BattlefieldMgr::BattlefieldMgr </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   22</span>                               : <a class="code hl_variable" href="../../d2/dcb/a07439.html#a62c5a7865d10618b0db6e098a99d0230">_updateTimer</a>(0)</div>
-<div class="line"><span class="lineno">   23</span>{</div>
-<div class="line"><span class="lineno">   24</span>}</div>
-<div class="ttc" id="aa07439_html_a62c5a7865d10618b0db6e098a99d0230"><div class="ttname"><a href="../../d2/dcb/a07439.html#a62c5a7865d10618b0db6e098a99d0230">BattlefieldMgr::_updateTimer</a></div><div class="ttdeci">uint32 _updateTimer</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:73</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a0d5b198add5190e99a1763a168ce2895" name="a0d5b198add5190e99a1763a168ce2895"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0d5b198add5190e99a1763a168ce2895">&#9670;&#160;</a></span>~BattlefieldMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">BattlefieldMgr::~BattlefieldMgr </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
-<div class="line"><span class="lineno">   28</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d5/d79/a07435.html">Battlefield</a>* bf : <a class="code hl_variable" href="../../d2/dcb/a07439.html#a4d6325668521e88a17a67318970570e1">_battlefieldSet</a>)</div>
-<div class="line"><span class="lineno">   29</span>        <span class="keyword">delete</span> bf;</div>
-<div class="line"><span class="lineno">   30</span>}</div>
-<div class="ttc" id="aa07435_html"><div class="ttname"><a href="../../d5/d79/a07435.html">Battlefield</a></div><div class="ttdef"><b>Definition:</b> Battlefield.h:208</div></div>
-<div class="ttc" id="aa07439_html_a4d6325668521e88a17a67318970570e1"><div class="ttname"><a href="../../d2/dcb/a07439.html#a4d6325668521e88a17a67318970570e1">BattlefieldMgr::_battlefieldSet</a></div><div class="ttdeci">BattlefieldSet _battlefieldSet</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:68</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_battlefieldSet</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a40a5ca1cd0f0baa8ffd47bc91700a7ac" name="a40a5ca1cd0f0baa8ffd47bc91700a7ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a40a5ca1cd0f0baa8ffd47bc91700a7ac">&#9670;&#160;</a></span>AddZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::AddZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d79/a07435.html">Battlefield</a> *&#160;</td>
-          <td class="paramname"><em>handle</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   63</span>{</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_variable" href="../../d2/dcb/a07439.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>[zoneId] = handle;</div>
-<div class="line"><span class="lineno">   65</span>}</div>
-<div class="ttc" id="aa07439_html_a08c3f04abda757dd62a9e90fdbba26f9"><div class="ttname"><a href="../../d2/dcb/a07439.html#a08c3f04abda757dd62a9e90fdbba26f9">BattlefieldMgr::_battlefieldMap</a></div><div class="ttdeci">BattlefieldMap _battlefieldMap</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:71</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">_battlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="a18fdd3c81b5641e296318f1113acf73f" name="a18fdd3c81b5641e296318f1113acf73f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a18fdd3c81b5641e296318f1113acf73f">&#9670;&#160;</a></span>CanTalkTo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool BattlefieldMgr::CanTalkTo </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d0c/a08895.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/d79/a08267.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>creature</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d71/a09303.html">GossipMenuItems</a>&#160;</td>
-          <td class="paramname"><em>gso</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a94f2a876f8ea677bfb8bc3acfd8f238b" name="a94f2a876f8ea677bfb8bc3acfd8f238b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a94f2a876f8ea677bfb8bc3acfd8f238b">&#9670;&#160;</a></span>GetBattlefieldByBattleId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d5/d79/a07435.html">Battlefield</a> * BattlefieldMgr::GetBattlefieldByBattleId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>battleId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
-<div class="line"><span class="lineno">  106</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d5/d79/a07435.html">Battlefield</a>* bf : <a class="code hl_variable" href="../../d2/dcb/a07439.html#a4d6325668521e88a17a67318970570e1">_battlefieldSet</a>)</div>
-<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">if</span> (bf-&gt;GetBattleId() == battleId)</div>
-<div class="line"><span class="lineno">  108</span>            <span class="keywordflow">return</span> bf;</div>
-<div class="line"><span class="lineno">  109</span> </div>
-<div class="line"><span class="lineno">  110</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  111</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_battlefieldSet</a>.</p>
-
-</div>
-</div>
-<a id="a223e8c73e41441f25e557d78ddb97b81" name="a223e8c73e41441f25e557d78ddb97b81"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a223e8c73e41441f25e557d78ddb97b81">&#9670;&#160;</a></span>GetBattlefieldToZoneId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d5/d79/a07435.html">Battlefield</a> * BattlefieldMgr::GetBattlefieldToZoneId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   94</span>{</div>
-<div class="line"><span class="lineno">   95</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d2/dcb/a07439.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.find(zoneId);</div>
-<div class="line"><span class="lineno">   96</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d2/dcb/a07439.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   98</span> </div>
-<div class="line"><span class="lineno">   99</span>    <span class="keywordflow">if</span> (!itr-&gt;second-&gt;IsEnabled())</div>
-<div class="line"><span class="lineno">  100</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  101</span>    <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  102</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">_battlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="accd1dc8e86bc9ab5618483e609b9314d" name="accd1dc8e86bc9ab5618483e609b9314d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#accd1dc8e86bc9ab5618483e609b9314d">&#9670;&#160;</a></span>GetZoneScript()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dd/d4e/a10191.html">ZoneScript</a> * BattlefieldMgr::GetZoneScript </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  125</span>{</div>
-<div class="line"><span class="lineno">  126</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d2/dcb/a07439.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.find(zoneId);</div>
-<div class="line"><span class="lineno">  127</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d2/dcb/a07439.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">  128</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  129</span> </div>
-<div class="line"><span class="lineno">  130</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  131</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">_battlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="a19b23ca8dc68ceaaca9078a33b62b70e" name="a19b23ca8dc68ceaaca9078a33b62b70e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19b23ca8dc68ceaaca9078a33b62b70e">&#9670;&#160;</a></span>HandleDropFlag()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandleDropFlag </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d0c/a08895.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spellId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aaf6b062e5dde772aa17afef185f916ad" name="aaf6b062e5dde772aa17afef185f916ad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf6b062e5dde772aa17afef185f916ad">&#9670;&#160;</a></span>HandleGossipOption()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandleGossipOption </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d0c/a08895.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../df/dff/a08695.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>guid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>gossipId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a733f42fdc343d070220e8c56f24fe4ac" name="a733f42fdc343d070220e8c56f24fe4ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a733f42fdc343d070220e8c56f24fe4ac">&#9670;&#160;</a></span>HandlePlayerEnterZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerEnterZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d0c/a08895.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
-<div class="line"><span class="lineno">   69</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d2/dcb/a07439.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.find(zoneId);</div>
-<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d2/dcb/a07439.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   72</span> </div>
-<div class="line"><span class="lineno">   73</span>    <span class="keywordflow">if</span> (itr-&gt;second-&gt;HasPlayer(player) || !itr-&gt;second-&gt;IsEnabled())</div>
-<div class="line"><span class="lineno">   74</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>    itr-&gt;second-&gt;HandlePlayerEnterZone(player, zoneId);</div>
-<div class="line"><span class="lineno">   77</span>    <a class="code hl_define" href="../../d9/d34/a00476.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} entered outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../de/d15/a08643.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../df/dff/a08695.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
-<div class="line"><span class="lineno">   78</span>}</div>
-<div class="ttc" id="aa00476_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d9/d34/a00476.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
-<div class="ttc" id="aa08643_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../de/d15/a08643.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:114</div></div>
-<div class="ttc" id="aa08695_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../df/dff/a08695.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">_battlefieldMap</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a89aa3d5d27fe61a13e381f13c599de90" name="a89aa3d5d27fe61a13e381f13c599de90"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89aa3d5d27fe61a13e381f13c599de90">&#9670;&#160;</a></span>HandlePlayerLeaveZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerLeaveZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d0c/a08895.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
-<div class="line"><span class="lineno">   82</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d2/dcb/a07439.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.find(zoneId);</div>
-<div class="line"><span class="lineno">   83</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d2/dcb/a07439.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">   84</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   85</span> </div>
-<div class="line"><span class="lineno">   86</span>    <span class="comment">// teleport: remove once in removefromworld, once in updatezone</span></div>
-<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">if</span> (!itr-&gt;second-&gt;HasPlayer(player))</div>
-<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   89</span>    itr-&gt;second-&gt;HandlePlayerLeaveZone(player, zoneId);</div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_define" href="../../d9/d34/a00476.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} left outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../de/d15/a08643.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../df/dff/a08695.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
-<div class="line"><span class="lineno">   91</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">_battlefieldMap</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a458fb8b4943de82f0574ddd63ba466a9" name="a458fb8b4943de82f0574ddd63ba466a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a458fb8b4943de82f0574ddd63ba466a9">&#9670;&#160;</a></span>HandlePlayerResurrects()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerResurrects </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d0c/a08895.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a244ce1743c237e95c08dc8861f3ce4b3" name="a244ce1743c237e95c08dc8861f3ce4b3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a244ce1743c237e95c08dc8861f3ce4b3">&#9670;&#160;</a></span>InitBattlefield()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::InitBattlefield </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
-<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../d7/daf/a05002.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../dd/d57/a00701.html#a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a>) == 2)</div>
-<div class="line"><span class="lineno">   41</span>    {</div>
-<div class="line"><span class="lineno">   42</span>        <a class="code hl_define" href="../../d9/d34/a00476.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp is disabled.&quot;</span>);</div>
-<div class="line"><span class="lineno">   43</span>        <a class="code hl_define" href="../../d9/d34/a00476.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   44</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   45</span>    }</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_class" href="../../d5/d79/a07435.html">Battlefield</a>* bf = <span class="keyword">new</span> <a class="code hl_class" href="../../d0/d85/a07455.html">BattlefieldWG</a>;</div>
-<div class="line"><span class="lineno">   47</span>    <span class="comment">// respawn, init variables</span></div>
-<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">if</span> (!bf-&gt;<a class="code hl_function" href="../../d5/d79/a07435.html#a505d37f7c94cc081d9d3b8db1d362220">SetupBattlefield</a>())</div>
-<div class="line"><span class="lineno">   49</span>    {</div>
-<div class="line"><span class="lineno">   50</span>        <a class="code hl_define" href="../../d9/d34/a00476.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp init failed.&quot;</span>);</div>
-<div class="line"><span class="lineno">   51</span>        <a class="code hl_define" href="../../d9/d34/a00476.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   52</span>        <span class="keyword">delete</span> bf;</div>
-<div class="line"><span class="lineno">   53</span>    }</div>
-<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   55</span>    {</div>
-<div class="line"><span class="lineno">   56</span>        <a class="code hl_variable" href="../../d2/dcb/a07439.html#a4d6325668521e88a17a67318970570e1">_battlefieldSet</a>.push_back(bf);</div>
-<div class="line"><span class="lineno">   57</span>        <a class="code hl_define" href="../../d9/d34/a00476.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp successfully initiated.&quot;</span>);</div>
-<div class="line"><span class="lineno">   58</span>        <a class="code hl_define" href="../../d9/d34/a00476.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   59</span>    }</div>
-<div class="line"><span class="lineno">   60</span>}</div>
-<div class="ttc" id="aa00476_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d9/d34/a00476.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa00476_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d34/a00476.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
-<div class="ttc" id="aa00701_html_a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a"><div class="ttname"><a href="../../dd/d57/a00701.html#a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a></div><div class="ttdeci">@ CONFIG_WINTERGRASP_ENABLE</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:284</div></div>
-<div class="ttc" id="aa05002_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d7/daf/a05002.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:316</div></div>
-<div class="ttc" id="aa07435_html_a505d37f7c94cc081d9d3b8db1d362220"><div class="ttname"><a href="../../d5/d79/a07435.html#a505d37f7c94cc081d9d3b8db1d362220">Battlefield::SetupBattlefield</a></div><div class="ttdeci">virtual bool SetupBattlefield()</div><div class="ttdoc">Call this to init the Battlefield.</div><div class="ttdef"><b>Definition:</b> Battlefield.h:221</div></div>
-<div class="ttc" id="aa07455_html"><div class="ttname"><a href="../../d0/d85/a07455.html">BattlefieldWG</a></div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:253</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_battlefieldSet</a>, <a class="el" href="../../#l00284">CONFIG_WINTERGRASP_ENABLE</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00221">Battlefield::SetupBattlefield()</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
-
-</div>
-</div>
-<a id="af96d6d44aa8936f94c20d1bd92af2fb3" name="af96d6d44aa8936f94c20d1bd92af2fb3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af96d6d44aa8936f94c20d1bd92af2fb3">&#9670;&#160;</a></span>instance()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dcb/a07439.html">BattlefieldMgr</a> * BattlefieldMgr::instance </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
-<div class="line"><span class="lineno">   34</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d2/dcb/a07439.html">BattlefieldMgr</a> <a class="code hl_function" href="../../d2/dcb/a07439.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a>;</div>
-<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d2/dcb/a07439.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a>;</div>
-<div class="line"><span class="lineno">   36</span>}</div>
-<div class="ttc" id="aa07439_html"><div class="ttname"><a href="../../d2/dcb/a07439.html">BattlefieldMgr</a></div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:31</div></div>
-<div class="ttc" id="aa07439_html_af96d6d44aa8936f94c20d1bd92af2fb3"><div class="ttname"><a href="../../d2/dcb/a07439.html#af96d6d44aa8936f94c20d1bd92af2fb3">BattlefieldMgr::instance</a></div><div class="ttdeci">static BattlefieldMgr * instance()</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.cpp:32</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00032">instance()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00032">instance()</a>.</p>
-
-</div>
-</div>
-<a id="a15548a7b124741e2fa9f36f1bf087458" name="a15548a7b124741e2fa9f36f1bf087458"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a15548a7b124741e2fa9f36f1bf087458">&#9670;&#160;</a></span>Update()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::Update </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>diff</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  114</span>{</div>
-<div class="line"><span class="lineno">  115</span>    <a class="code hl_variable" href="../../d2/dcb/a07439.html#a62c5a7865d10618b0db6e098a99d0230">_updateTimer</a> += diff;</div>
-<div class="line"><span class="lineno">  116</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/dcb/a07439.html#a62c5a7865d10618b0db6e098a99d0230">_updateTimer</a> &gt; <a class="code hl_variable" href="../../df/df7/a00731.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>)</div>
-<div class="line"><span class="lineno">  117</span>    {</div>
-<div class="line"><span class="lineno">  118</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d5/d79/a07435.html">Battlefield</a>* bf : <a class="code hl_variable" href="../../d2/dcb/a07439.html#a4d6325668521e88a17a67318970570e1">_battlefieldSet</a>)</div>
-<div class="line"><span class="lineno">  119</span>            bf-&gt;Update(<a class="code hl_variable" href="../../d2/dcb/a07439.html#a62c5a7865d10618b0db6e098a99d0230">_updateTimer</a>);</div>
-<div class="line"><span class="lineno">  120</span>        <a class="code hl_variable" href="../../d2/dcb/a07439.html#a62c5a7865d10618b0db6e098a99d0230">_updateTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  121</span>    }</div>
-<div class="line"><span class="lineno">  122</span>}</div>
-<div class="ttc" id="aa00731_html_a79df696836c3edc53ca1868aab7f6e76"><div class="ttname"><a href="../../df/df7/a00731.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a></div><div class="ttdeci">constexpr auto BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</div><div class="ttdef"><b>Definition:</b> Battlefield.h:57</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_battlefieldSet</a>, <a class="el" href="../../#l00073">_updateTimer</a>, and <a class="el" href="../../#l00057">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a08c3f04abda757dd62a9e90fdbba26f9" name="a08c3f04abda757dd62a9e90fdbba26f9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a08c3f04abda757dd62a9e90fdbba26f9">&#9670;&#160;</a></span>_battlefieldMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dcb/a07439.html#af0b5390f581e99d207ec06c9645d9d63">BattlefieldMap</a> BattlefieldMgr::_battlefieldMap</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00062">AddZone()</a>, <a class="el" href="../../#l00093">GetBattlefieldToZoneId()</a>, <a class="el" href="../../#l00124">GetZoneScript()</a>, <a class="el" href="../../#l00067">HandlePlayerEnterZone()</a>, and <a class="el" href="../../#l00080">HandlePlayerLeaveZone()</a>.</p>
-
-</div>
-</div>
-<a id="a4d6325668521e88a17a67318970570e1" name="a4d6325668521e88a17a67318970570e1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4d6325668521e88a17a67318970570e1">&#9670;&#160;</a></span>_battlefieldSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dcb/a07439.html#aebece89a427833b4005c67761bba7262">BattlefieldSet</a> BattlefieldMgr::_battlefieldSet</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00104">GetBattlefieldByBattleId()</a>, <a class="el" href="../../#l00038">InitBattlefield()</a>, <a class="el" href="../../#l00113">Update()</a>, and <a class="el" href="../../#l00026">~BattlefieldMgr()</a>.</p>
-
-</div>
-</div>
-<a id="a62c5a7865d10618b0db6e098a99d0230" name="a62c5a7865d10618b0db6e098a99d0230"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62c5a7865d10618b0db6e098a99d0230">&#9670;&#160;</a></span>_updateTimer</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d8e/a00482.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlefieldMgr::_updateTimer</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00113">Update()</a>.</p>
-
-</div>
-</div>
-</div><!-- contents -->
+<p>This is the complete list of members for <a class="el" href="../../d8/ddb/a07442.html">Battlefield</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a6250ea675ea4b39303159f0f4e5428df">_scheduler</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a32281050c36a89eb240b33d6558c7bb2">Active</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a2270c546d037cca01746ae339c190f2f">AddCapturePoint</a>(BfCapturePoint *cp)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aa971aacb2e549ecabfb7a7a1b662939b">AddOrSetPlayerToCorrectBfGroup</a>(Player *player)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#acea38f5faec4bd6e9471a77d4ea3752d">AddPlayerToResurrectQueue</a>(ObjectGuid npcGuid, ObjectGuid playerGuid)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ae0a5d4dab95159c890301abb8bdd2090">AskToLeaveQueue</a>(Player *player)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#af5ee36760425c10d8b979c6caa45c78a">Battlefield</a>()</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a03cc3567faced5d283ef433b1551b183">BattlefieldMgr</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a2ed2d6b295dbd6d4fcc4eba84bdd3bee">BattleId</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a0803ba3700b5a606c4e10d38099000e7">BattleTime</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a1565e325b3c3e1574eefb1eba9069509">BfCapturePointVector</a> typedef</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ad574fd71677683547ae69e2245890647">BfMap</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a6efbeb418565424c9ef82bbdc9ee0852">BroadcastPacketToQueue</a>(WorldPacket const *data) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a0dab0e18b26f2fa8befcc1676f265922">BroadcastPacketToWar</a>(WorldPacket const *data) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a3050acedd7e484b458448ee6f793411c">BroadcastPacketToZone</a>(WorldPacket const *data) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#afea5ca0e50ddf669d196ffee65523018">CanFlyIn</a>() const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a01ee9fbc2466679c049ab67855ceccd8">CapturePoints</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ad0c8c569a6ef1d3d1d890447208b499c">Data32</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aacc517e23a46c6e9b4fc859ef566de36">Data64</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a109307b5765bac138d4d41b3cce64db4">DefenderTeam</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ab0d165cab59f354de300f4b014ffb714">DoPlaySoundToAll</a>(uint32 soundId)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aec3b826d5761b0d700d82d7091b0d390">Enabled</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a37273312df76cae483824bb433d0b7d9">EndBattle</a>(bool endByTimer)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a58c82a0d241228d076c5cb3e1362d2db">FillInitialWorldStates</a>(WorldPackets::WorldState::InitWorldStates &amp;)=0</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">pure virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a1e431ec8c07b96896f8cc4b4e3bbbd73">ForEachPlayerInQueue</a>(Func &amp;&amp;fn) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a962847972d0bb4f1dfd674eb49c3b81d">ForEachPlayerInWar</a>(Func &amp;&amp;fn) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a7219de7502ab362a02b9ea41fcdfb457">ForEachPlayerInWar</a>(TeamId team, Func &amp;&amp;fn) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a32c358d94d4f70515ffbd1e77bbde9c9">ForEachPlayerInZone</a>(Func &amp;&amp;fn) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a9ace4c9da42d56cfe1462a6123e6fadc">GetAttackerTeam</a>() const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a15b9cad14bbcafe33d90288398b86490">GetBattleId</a>() const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ad03120a119fbcb5cb1291b6d2f793094">GetClosestGraveyard</a>(Player *player)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a1348bacaf1d2b812a21d4fb9e09c657b">GetCreature</a>(ObjectGuid const &amp;guid)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#a8cabd274bffe18004c3fced46ae325b0">GetCreatureEntry</a>(ObjectGuid::LowType, CreatureData const *data)</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a1605eebf64a203761f5aeba106b2b325">GetData</a>(uint32 dataId) const override</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a097d9c00c118b1f513db0bde2eeade1f">GetData64</a>(uint32 dataId) const override</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aaa6f14c3ca5e11dccd4e5e2082e3f4d2">GetDefenderTeam</a>() const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a2f39fb7dc6ed0d149b5470c70ae00690">GetFreeBfRaid</a>(TeamId teamId)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aeb36a45ed75d522a9cdd45e64cd30775">GetGameObject</a>(ObjectGuid const &amp;guid)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#a3101d469bb171957177011fc0a76999b">GetGameObjectEntry</a>(ObjectGuid::LowType, uint32 entry)</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a76f8ac667475e8813488808b9df25ed8">GetGraveyardById</a>(uint32 id) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a569bf5df2843a94b9a1805222a7081f8">GetGraveyardVector</a>() const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a9b6dd1bfab5f61aea91baf149618048b">GetGroupPlayer</a>(ObjectGuid guid, TeamId teamId)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#aa1483a9ca7f97cef589dd141d669cc46">GetGuidData</a>(uint32) const</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a270c8e2094ea7554aec16291ab97698a">GetInvitedPlayersMap</a>(TeamId teamId) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ae9d7d8118694df9acc457b1383ff4708">GetMaxPlayersPerTeam</a>() const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ae1c92b28b46d94998feed8c9df4c5baa">GetOtherTeam</a>(TeamId team) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aae64bbf213022512083755bedce1723d">GetPlayersInWarCount</a>(TeamId teamId) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#addc494f01d86e98b2635dcc19e5b27c3">GetPlayersInWarSet</a>(TeamId teamId) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a371a2ee71a45218fde55a7a398597f52">GetPlayersInZoneCount</a>(TeamId teamId) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a964eec83018395772d76c1e31a44b5fd">GetPlayersQueueSet</a>(TeamId teamId) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aaec7df90c1300a9ffa46ce64c8cdd1d7">GetTimer</a>() const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#afcaf139b5cadab6dd3eb57d6807dbcc6">GetTypeId</a>() const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a3ea69103a5efdf45de69a260dc3d5d93">GetZoneId</a>() const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a5d5cc54e8e83757986b41779b60ec697">Groups</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aa35d274afca35b3f55cea325c64340b0">HandleKill</a>(Player *, Unit *)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#afbc41a4bc278ed1f252e8bd40e59a32c">HandlePlayerEnterZone</a>(Player *player, uint32 zone)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aead14e89d3e2927af74295ff218cc4ff">HandlePlayerLeaveZone</a>(Player *player, uint32 zone)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#addd18f1dab7d197d1f4f6547bfb28d19">HasPlayer</a>(Player *player) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#af2ff5fe4ce801e1435bff3a7b3ffc029">HasWarVacancy</a>(TeamId teamId) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a8a4b67d63f6a5be37a1aafdb7a0c6870">HideNpc</a>(Creature *creature)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aa44d7971998f9735f6be58de83e5133c">InitStalker</a>(uint32 entry, float x, float y, float z, float o)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a6b8158c04fee4d7fdb9e0239f386c0a5">InvitedPlayers</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a4f41bb2af633b95615c0b55a31a528f1">InvitePlayersInQueueToWar</a>()</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a5b9bbfce21dfb432c47351c655f94d69">InvitePlayersInZoneToQueue</a>()</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a884220e104b3c366e8b67f77a87ea282">InvitePlayersInZoneToWar</a>()</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a5d7d37d33db75c1df5511d8fc5239005">InvitePlayerToQueue</a>(Player *player)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a62640a78e1885a6f99e95155d5dc74e9">InvitePlayerToWar</a>(Player *player)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aea0c4b0948cbc408dd1b00ff305c37c0">IsEnabled</a>() const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#adf90f91a8397cbf9faea54bab36c46c6">IsPlayerInWarOrInvited</a>(Player *player) const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a401d41559df3deb55735ade67082f444">IsWarTime</a>() const</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aa9e2c86b9d4b44899e173327a49db2bf">KickAfkPlayers</a>()</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a5bbcea5dcfb86408c634c27d7b9ccf88">KickPlayerFromBattlefield</a>(ObjectGuid guid)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ad691e1287c8c36d8631a428c71abaf41">KickPosition</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a29a7b061b5fff00c63dc34c584303578">MapId</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a0c8cabca7668547d5ae4925fc2e1e3e1">MaxPlayer</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aa95f966e25c88f451ade99be37ee2a4e">MinLevel</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a71f7e127827cf71dfbb581cae9575d15">MinPlayer</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a92e91c99073b538b9cbdc414a9b37efa">NoWarBattleTime</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a37bc643a6ca1a57d0a41d6e0ae5c3f71">OnBattleEnd</a>(bool)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a7abbcf6d9cb4060cda6458dea4947226">OnBattleStart</a>()</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#ae61020e57e9ca8ae0d42a51e39b1fee0">OnCreatureCreate</a>(Creature *)</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#a8113c8738b772b740dbc7a2352637669">OnCreatureEvade</a>(Creature *)</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#adf80a1b08c7ab4451cd6967138727b56">OnCreatureRemove</a>(Creature *)</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#afa02089edff085ecd4eb7178b94ffe26">OnGameObjectCreate</a>(GameObject *)</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#a61c1ab81f65b4bfdf638eec002cb498c">OnGameObjectRemove</a>(GameObject *)</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aec2da8a188c4644ddeb9debf6d1abcb0">OnPlayerEnterZone</a>(Player *)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a74e0315500997c92b8cf8a1627a98035">OnPlayerJoinWar</a>(Player *)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ad8dc0bff4621113fe88b1f1d0ed8571b">OnPlayerLeaveWar</a>(Player *)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#abc3ad3e1d71bde88522a200dae7ca6cb">OnPlayerLeaveZone</a>(Player *)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ad48480492b9e0a54677a8f3cfa3dee62">OnStartGrouping</a>()</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#afaf1aecaaaac82508b8f1c50712b8204">OnUnitDeath</a>(Unit *)</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ac141b054fe71c6e28a4c5253d1799d67">PlayerAcceptInviteToQueue</a>(Player *player)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a6a36a765ec80193285bfff7ebd390a83">PlayerAcceptInviteToWar</a>(Player *player)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aaae93944710d031b6f83c7bf2100bc95">PlayerAskToLeave</a>(Player *player)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a94985e49b7ac98b2f06fc7b4158862ba">Players</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a38795c9c7e9e92728c927dfcdda602b5">PlayersInQueue</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a110b10b1cebb34ad116eda8c249394af">PlayersInWar</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a4b070c48e2314705b37782ce64b5b5ab">PlayersWillBeKick</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#ab32f7102df50af48e43f544bd107f964">ProcessEvent</a>(WorldObject *, uint32)</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a853ec557d586b776edb2b69758660b29">RegisterZone</a>(uint32 zoneId)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ae72d40d566a2facbc55946b30a7c1f10">RemovePlayerFromResurrectQueue</a>(ObjectGuid playerGuid)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aaa40ac881f925d773effdafc4fd3a487">RestartAfterCrash</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a52b591dfc52ab42ddf19fbb0fd397d65">SendAreaSpiritHealerQueryOpcode</a>(Player *player, ObjectGuid const &amp;guid)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a3465aabf6b7ee665df523c59b05bed68">SendInitWorldStatesToAll</a>()=0</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">pure virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a536403dc8cb245f3ef82ccf53f056fed">SendRemoveWorldStates</a>(Player *)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#af08665cd919b9d39798cd02c110b3241">SendUpdateWorldState</a>(uint32 field, uint32 value)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a818ddb7c86e77cf2d656a18f0dcae401">SendUpdateWorldStates</a>(Player *player=nullptr)=0</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">pure virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a709eb579668329424b44794df75bf85b">SendWarning</a>(uint8 id, WorldObject const *target=nullptr)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a303f65fe125aa98d5ff0a235215946c0">SetData</a>(uint32 dataId, uint32 value) override</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#abd7eea22cafc331cf7d818211bbaed8c">SetData64</a>(uint32 dataId, uint64 value) override</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a61dd4ce9efc5797b56749746a52afc21">SetDefenderTeam</a>(TeamId team)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ade950f2bc2c79fd5d37db2c144f054e1">SetGraveyardNumber</a>(uint32 number)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#ac465d5e7d00a7e3b935942f1627763f4">SetGuidData</a>(uint32, ObjectGuid)</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a26fe6cf5ff329608506a3ee390f407cb">SetTimer</a>(uint32 timer)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a505d37f7c94cc081d9d3b8db1d362220">SetupBattlefield</a>()</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a1110ba70977c1cad9bfa6c32604d4d87">ShowNpc</a>(Creature *creature, bool aggressive)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a4f205795863fa9d6cb1b53d685621b6c">SpawnCreature</a>(uint32 entry, float x, float y, float z, float o, TeamId teamId)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a28d2e8b978f76158caa58f5890484a1b">SpawnCreature</a>(uint32 entry, Position pos, TeamId teamId)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a89ce40ad00095262048e4d9cf079fbe0">SpawnGameObject</a>(uint32 entry, float x, float y, float z, float o)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a2c7c3829ac332a114d40bb0846714aba">StalkerGuid</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a740e22ee66149876955d9fe592a6e56a">StartBattle</a>()</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a1db8214941cae51c09b20d4def5560bd">StartGrouping</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aab362a6eae4cb01cdeeb9016eab26788">StartGroupingTimer</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#adf78a89196f06fa8d6250eb9d352405a">TeamApplyBuff</a>(TeamId team, uint32 spellId, uint32 spellId2=0)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#aacfd9a4e38f445411e41af8ebf5d1ccc">TeamCastSpell</a>(TeamId team, int32 spellId)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#adbbbb5c8b48e73a2611664d4705efc35">TimeForAcceptInvite</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ac6773a144c5218914ea009011cd5d6f8">Timer</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#ac61a83d36bfb7e6505fa2584139763d1">ToggleBattlefield</a>(bool enable)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#afa373c4ce3c10b8afa5c7123e066aa50">TypeId</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a5b8eb7f50f96e689a73001acfc4d6852">Update</a>(uint32 diff)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a4622f1ccae69a18463296ffa4a08faf7">UpdateData</a>(uint32 index, int32 pad)</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#acec4eaf1586d02011e20b58e3876caa6">ZoneId</a></td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#a3519b281545e348167893060c2aa352c">ZoneScript</a>()</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/ddb/a07442.html#a1a42d4d164ba4c9d01fdf488b18735ae">~Battlefield</a>() override</td><td class="entry"><a class="el" href="../../d8/ddb/a07442.html">Battlefield</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/dd0/a10198.html#af4aa4d8f6b48d7d63fb6daa85d50c756">~ZoneScript</a>()</td><td class="entry"><a class="el" href="../../d9/dd0/a10198.html">ZoneScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d2/dcb/a07439.html">BattlefieldMgr</a></li>
-    <li class="footer">Generated on Mon Mar 23 2026 21:06:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Mar 30 2026 21:11:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

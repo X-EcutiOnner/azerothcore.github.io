@@ -1,6 +1,14 @@
 var a17498 =
 [
-    [ "boss_garfrostAI", "d7/d6a/a17502.html", "d7/d6a/a17502" ],
-    [ "boss_garfrost", "d9/d30/a17498.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "d9/d30/a17498.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "npc_ball_of_flameAI", "d9/d30/a17498.html#a90314990bc6404bf2a4005bb94213926", null ],
+    [ "AttackStart", "d9/d30/a17498.html#a34d51c96005f620c0010948acb6c89ec", null ],
+    [ "DamageDealt", "d9/d30/a17498.html#ac2d36bc12bb86c329721a2af224d037f", null ],
+    [ "DoAction", "d9/d30/a17498.html#ac589db56562987de5bbed27a2bead49f", null ],
+    [ "MoveInLineOfSight", "d9/d30/a17498.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
+    [ "MovementInform", "d9/d30/a17498.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
+    [ "SetGUID", "d9/d30/a17498.html#ab82ac6ffc7f946428c26f5bd6585f95c", null ],
+    [ "_chaseGUID", "d9/d30/a17498.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
+    [ "_exploded", "d9/d30/a17498.html#a724de41f7b14755d704d5de335da380b", null ],
+    [ "_instance", "d9/d30/a17498.html#af5d8717572176409eca01ae214910c7f", null ],
+    [ "_started", "d9/d30/a17498.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
 ];

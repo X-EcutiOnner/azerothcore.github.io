@@ -1,6 +1,6 @@
 var a28186 =
 [
-    [ "go_flamesAI", "d8/d90/a28186.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d8/d90/a28186.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d8/d90/a28186.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "spawnedCreatureEntry", "d8/d90/a28186.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "d8/d90/a28186.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "d8/d90/a28186.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

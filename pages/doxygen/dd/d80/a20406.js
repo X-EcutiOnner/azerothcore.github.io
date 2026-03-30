@@ -1,8 +1,7 @@
 var a20406 =
 [
-    [ "npc_ulduar_saronite_animus", "dd/d80/a20406.html#a223063bddb3e02d4e599a37e53909c94", null ],
-    [ "JustDied", "dd/d80/a20406.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
-    [ "UpdateAI", "dd/d80/a20406.html#afc7899752e25669b37ab04b50fb2d604", null ],
-    [ "pInstance", "dd/d80/a20406.html#ad1973f3016ac70fb66710f1665728736", null ],
-    [ "timer", "dd/d80/a20406.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
+    [ "npc_ulduar_expedition_commanderAI", "dd/d80/a20406.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "dd/d80/a20406.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "dd/d80/a20406.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "dd/d80/a20406.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

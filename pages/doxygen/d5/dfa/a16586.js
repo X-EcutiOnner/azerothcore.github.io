@@ -1,6 +1,6 @@
 var a16586 =
 [
-    [ "boss_halionAI", "d8/d48/a16590.html", "d8/d48/a16590" ],
-    [ "boss_halion", "d5/dfa/a16586.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "d5/dfa/a16586.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d8/d48/a16590.html", "d8/d48/a16590" ],
+    [ "instance_trial_of_the_champion", "d5/dfa/a16586.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d5/dfa/a16586.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

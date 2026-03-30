@@ -1,5 +1,4 @@
 var a29526 =
 [
-    [ "type", "da/d87/a29526.html#af749459df7757d1bab17a54be813f6b6", null ],
-    [ "_type", "da/d87/a29526.html#ab0344571616786baef4511c647a3abea", null ]
+    [ "SetUp", "da/d87/a29526.html#a5d3dc5ba1a52545537d327fec12ea1cb", null ]
 ];

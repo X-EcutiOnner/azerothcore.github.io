@@ -1,7 +1,6 @@
 var a18614 =
 [
-    [ "PeriodicTick", "d9/dde/a18614.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
-    [ "PrepareAuraScript", "d9/dde/a18614.html#afcadfbdd84608e827b89c64bf03c8501", null ],
-    [ "Register", "d9/dde/a18614.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
-    [ "Validate", "d9/dde/a18614.html#a879b657d94c1faf6225fe64f907cdf82", null ]
+    [ "ActivateSpirit", "d9/dde/a18614.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "d9/dde/a18614.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "d9/dde/a18614.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

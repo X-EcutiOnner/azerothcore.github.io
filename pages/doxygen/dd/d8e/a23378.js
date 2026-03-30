@@ -1,5 +1,6 @@
 var a23378 =
 [
-    [ "go_main_chambers_access_panel", "dd/d8e/a23378.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "dd/d8e/a23378.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d6/d49/a23382.html", "d6/d49/a23382" ],
+    [ "instance_shattered_halls", "dd/d8e/a23378.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "dd/d8e/a23378.html#a82388466811b022a725ba721845cadf3", null ]
 ];

@@ -1,7 +1,8 @@
 var a11734 =
 [
-    [ "EffectNameCheck", "d5/d44/a11734.html#aa82307388bdda7864bb085a349b63f29", null ],
-    [ "Check", "d5/d44/a11734.html#a729d7f07669dedec50f009a87b8f32a4", null ],
-    [ "ToString", "d5/d44/a11734.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
-    [ "effName", "d5/d44/a11734.html#a905224fb028ea0eab350773b7230f871", null ]
+    [ "target_mapId", "d5/d44/a11734.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "d5/d44/a11734.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "d5/d44/a11734.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "d5/d44/a11734.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "d5/d44/a11734.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

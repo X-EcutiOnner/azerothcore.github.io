@@ -1,9 +1,12 @@
 var a21098 =
 [
-    [ "npc_vrykul_skeleton", "d2/d6c/a21098.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "d2/d6c/a21098.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "d2/d6c/a21098.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "d2/d6c/a21098.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "d2/d6c/a21098.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "d2/d6c/a21098.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "boss_moraggAI", "d2/d6c/a21098.html#a3ae881c9adca20a2cb894af85297d53e", null ],
+    [ "EnterEvadeMode", "d2/d6c/a21098.html#a4e70e42407f452c4685c732949fd2b52", null ],
+    [ "JustDied", "d2/d6c/a21098.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
+    [ "JustEngagedWith", "d2/d6c/a21098.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
+    [ "MoveInLineOfSight", "d2/d6c/a21098.html#a52a99d72dfa017baacb76717e6db931b", null ],
+    [ "Reset", "d2/d6c/a21098.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
+    [ "UpdateAI", "d2/d6c/a21098.html#aec7645eaae190d1e7982aae181ff9224", null ],
+    [ "events", "d2/d6c/a21098.html#acd021e4216e3920f0534da95d69ba5eb", null ],
+    [ "pInstance", "d2/d6c/a21098.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
 ];

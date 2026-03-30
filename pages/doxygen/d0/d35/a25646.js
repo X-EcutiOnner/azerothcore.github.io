@@ -1,7 +1,6 @@
 var a25646 =
 [
-    [ "HandleScriptEffect", "d0/d35/a25646.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
-    [ "PrepareSpellScript", "d0/d35/a25646.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
-    [ "Register", "d0/d35/a25646.html#a321098d2325bfb9cea674d1137348350", null ],
-    [ "Validate", "d0/d35/a25646.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
+    [ "PartyTimeEmoteEvent", "d0/d35/a25646.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "d0/d35/a25646.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "d0/d35/a25646.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

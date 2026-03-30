@@ -1,6 +1,6 @@
 var a18562 =
 [
-    [ "UnchainedMagicTargetSelector", "d5/de7/a18562.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "d5/de7/a18562.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "d5/de7/a18562.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "npc_terenas_menethilAI", "d2/daa/a18566.html", "d2/daa/a18566" ],
+    [ "npc_terenas_menethil", "d5/de7/a18562.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "d5/de7/a18562.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

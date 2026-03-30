@@ -1,7 +1,6 @@
 var a18014 =
 [
-    [ "HandleScript", "d2/d2e/a18014.html#a276018baa590b942d90c457faea10040", null ],
-    [ "PrepareSpellScript", "d2/d2e/a18014.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
-    [ "Register", "d2/d2e/a18014.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
-    [ "Validate", "d2/d2e/a18014.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
+    [ "PrepareSpellScript", "d2/d2e/a18014.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "d2/d2e/a18014.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "d2/d2e/a18014.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

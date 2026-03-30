@@ -1,10 +1,13 @@
 var a28418 =
 [
-    [ "go_evil_book_for_dummies", "d3/d57/a28418.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "d3/d57/a28418.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "d3/d57/a28418.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "d3/d57/a28418.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "d3/d57/a28418.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "d3/d57/a28418.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "d3/d57/a28418.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "DBCDatabaseLoader", "d3/d57/a28418.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
+    [ "DBCDatabaseLoader", "d3/d57/a28418.html#a7d93e6d37796f341edcf25062743c5b5", null ],
+    [ "CloneStringToPool", "d3/d57/a28418.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
+    [ "Load", "d3/d57/a28418.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
+    [ "operator=", "d3/d57/a28418.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
+    [ "_dbcFormat", "d3/d57/a28418.html#aa749118514d0b784ac6df295bd820d8e", null ],
+    [ "_recordSize", "d3/d57/a28418.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
+    [ "_sqlIndexPos", "d3/d57/a28418.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
+    [ "_sqlTableName", "d3/d57/a28418.html#ab6590071edf5311ccf484d48e4fd125e", null ],
+    [ "_stringPool", "d3/d57/a28418.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
 ];

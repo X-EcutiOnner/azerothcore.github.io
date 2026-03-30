@@ -1,6 +1,5 @@
 var a24046 =
 [
-    [ "go_beaconAI", "d1/d98/a24050.html", "d1/d98/a24050" ],
-    [ "go_beacon", "dd/d25/a24046.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "dd/d25/a24046.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_pet_dk_dancing_rune_weapon", "dd/d25/a24046.html#ac838b907d56c97a911d7c7454c65e180", null ],
+    [ "InitializeAI", "dd/d25/a24046.html#aafeac4a22f366591d6d66b6150e099e2", null ]
 ];

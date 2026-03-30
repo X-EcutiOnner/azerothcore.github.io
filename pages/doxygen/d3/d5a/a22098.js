@@ -1,6 +1,6 @@
 var a22098 =
 [
-    [ "npc_infra_green_bomber_genericAI", "df/d1d/a22102.html", "df/d1d/a22102" ],
-    [ "npc_infra_green_bomber_generic", "d3/d5a/a22098.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "d3/d5a/a22098.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "HandleSummon", "d3/d5a/a22098.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "d3/d5a/a22098.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "d3/d5a/a22098.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

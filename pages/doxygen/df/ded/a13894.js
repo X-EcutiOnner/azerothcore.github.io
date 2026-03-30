@@ -1,6 +1,6 @@
 var a13894 =
 [
-    [ "FilterTargets", "df/ded/a13894.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "df/ded/a13894.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "df/ded/a13894.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "npc_rinjiAI", "dc/d07/a13898.html", "dc/d07/a13898" ],
+    [ "npc_rinji", "df/ded/a13894.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
+    [ "GetAI", "df/ded/a13894.html#a5457ac00ce0b195752640358b912af10", null ]
 ];

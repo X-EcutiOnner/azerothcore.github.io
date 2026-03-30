@@ -1,6 +1,7 @@
 var a15562 =
 [
-    [ "FilterTargets", "da/d8c/a15562.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
-    [ "PrepareSpellScript", "da/d8c/a15562.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
-    [ "Register", "da/d8c/a15562.html#a3168a3f97ddb38b261a0730405ba27db", null ]
+    [ "npc_anubisath_warder", "da/d8c/a15562.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "da/d8c/a15562.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "da/d8c/a15562.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "da/d8c/a15562.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

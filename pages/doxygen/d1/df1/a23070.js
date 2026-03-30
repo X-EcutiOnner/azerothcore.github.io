@@ -1,6 +1,8 @@
 var a23070 =
 [
-    [ "HandleProc", "d1/df1/a23070.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d1/df1/a23070.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d1/df1/a23070.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "boss_mekgineer_steamrigger", "d1/df1/a23070.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "d1/df1/a23070.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "d1/df1/a23070.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "d1/df1/a23070.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "d1/df1/a23070.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

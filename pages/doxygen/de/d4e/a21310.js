@@ -1,8 +1,7 @@
 var a21310 =
 [
-    [ "npc_frozen_orbAI", "de/d4e/a21310.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "de/d4e/a21310.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "de/d4e/a21310.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "de/d4e/a21310.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "de/d4e/a21310.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "npc_valiance_keep_cannoneerAI", "de/d4e/a21310.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "de/d4e/a21310.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "de/d4e/a21310.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "de/d4e/a21310.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

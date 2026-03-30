@@ -1,6 +1,11 @@
 var a13038 =
 [
-    [ "npc_mc_core_houndAI", "d1/d78/a13042.html", "d1/d78/a13042" ],
-    [ "npc_mc_core_hound", "d6/d1c/a13038.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
-    [ "GetAI", "d6/d1c/a13038.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
+    [ "npc_demon_chain", "d6/d1c/a13038.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "d6/d1c/a13038.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "d6/d1c/a13038.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "d6/d1c/a13038.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "d6/d1c/a13038.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "d6/d1c/a13038.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "d6/d1c/a13038.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "d6/d1c/a13038.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

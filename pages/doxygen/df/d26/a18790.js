@@ -1,9 +1,13 @@
 var a18790 =
 [
-    [ "npc_icc_ice_sphereAI", "df/d26/a18790.html#a685f45e5cd15b005646e596ff61088e8", null ],
-    [ "DoAction", "df/d26/a18790.html#ac056ecdd93bc716964054f38ab81014e", null ],
-    [ "SelectNewTarget", "df/d26/a18790.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
-    [ "UpdateAI", "df/d26/a18790.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
-    [ "targetGUID", "df/d26/a18790.html#a3e202f9bde2a202d329066f7aab8897c", null ],
-    [ "timer", "df/d26/a18790.html#a42842e92926e18ef2589687d81a7d0d4", null ]
+    [ "npc_highlord_tirion_fordringAI", "df/d26/a18790.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
+    [ "Reset", "df/d26/a18790.html#a80051b1b2a663997304b1754a3f9ff25", null ],
+    [ "SetData", "df/d26/a18790.html#a5642aab7afc50a7494c43ae7a130d571", null ],
+    [ "UpdateAI", "df/d26/a18790.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
+    [ "_bolvarFordragon", "df/d26/a18790.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
+    [ "_damnedKills", "df/d26/a18790.html#a56e035884d2ab94629c133efc1fc8feb", null ],
+    [ "_events", "df/d26/a18790.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
+    [ "_factionNPC", "df/d26/a18790.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
+    [ "_instance", "df/d26/a18790.html#acd16d6200b08df23576aa9ccbb060d31", null ],
+    [ "_theLichKing", "df/d26/a18790.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
 ];

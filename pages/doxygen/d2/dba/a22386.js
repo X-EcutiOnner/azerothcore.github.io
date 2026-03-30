@@ -1,8 +1,6 @@
 var a22386 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d2/dba/a22386.html#af84e73765b1a4d810b41613824999186", null ],
-    [ "IsFriendly", "d2/dba/a22386.html#adca817c8919958db888d5e9c759ad545", null ],
-    [ "IsValidVehicle", "d2/dba/a22386.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
-    [ "UpdateAI", "d2/dba/a22386.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
-    [ "_checkTimer", "d2/dba/a22386.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
+    [ "PrepareSpellScript", "d2/dba/a22386.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
+    [ "Register", "d2/dba/a22386.html#aa41700bf097963c5a352442723181037", null ],
+    [ "SelectTarget", "d2/dba/a22386.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
 ];

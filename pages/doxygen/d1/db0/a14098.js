@@ -1,7 +1,7 @@
 var a14098 =
 [
-    [ "npc_ranger_lilatha", "d1/db0/a14098.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d1/db0/a14098.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d1/db0/a14098.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d1/db0/a14098.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
+    [ "Load", "d1/db0/a14098.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "d1/db0/a14098.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "d1/db0/a14098.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "d1/db0/a14098.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

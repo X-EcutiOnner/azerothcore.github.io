@@ -1,14 +1,11 @@
 var a13354 =
 [
-    [ "boss_priestess_delrissa", "dd/d89/a13354.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
-    [ "CheckInRoom", "dd/d89/a13354.html#afa963761e44412915a6d89f097f33b5d", null ],
-    [ "InitializeAI", "dd/d89/a13354.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
-    [ "JustDied", "dd/d89/a13354.html#a82d8c198f38c2aa881386e739dea6a08", null ],
-    [ "JustEngagedWith", "dd/d89/a13354.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
-    [ "JustSummoned", "dd/d89/a13354.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
-    [ "KilledUnit", "dd/d89/a13354.html#af0b41306f53c42745cce39069f446704", null ],
-    [ "Reset", "dd/d89/a13354.html#a60e39157aa3043284b2e1e032c0d9241", null ],
-    [ "SummonedCreatureDies", "dd/d89/a13354.html#a14757692ab4af5c1b5b311f059be9091", null ],
-    [ "HelpersKilled", "dd/d89/a13354.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
-    [ "PlayersKilled", "dd/d89/a13354.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
+    [ "npc_valkyr_battle_maidenAI", "dd/d89/a13354.html#a859b63621c500c7a36150fadbb460b2b", null ],
+    [ "Reset", "dd/d89/a13354.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
+    [ "UpdateAI", "dd/d89/a13354.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
+    [ "FlyBackTimer", "dd/d89/a13354.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
+    [ "phase", "dd/d89/a13354.html#abd5d71272aa575be8583254217194e49", null ],
+    [ "x", "dd/d89/a13354.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
+    [ "y", "dd/d89/a13354.html#acccea63fedf38de14f7818016830a0a9", null ],
+    [ "z", "dd/d89/a13354.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
 ];

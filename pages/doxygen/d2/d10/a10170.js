@@ -1,6 +1,7 @@
 var a10170 =
 [
-    [ "aiNotifyDelay", "d2/d10/a10170.html#af70453021c5ded85c73a4d5559dca2ea", null ],
-    [ "requiredMoveDistanceSq", "d2/d10/a10170.html#aaa4faa0170181e409940b5441eb2f586", null ],
-    [ "visibilityNotifyDelay", "d2/d10/a10170.html#ad566fd5eff102929247b75cf5092a60b", null ]
+    [ "flags", "d2/d10/a10170.html#a7db863994aa6692d1e2359d2c6814cd2", null ],
+    [ "groupId", "d2/d10/a10170.html#ac7efc48c61e715027a8d651fda543ada", null ],
+    [ "mapid", "d2/d10/a10170.html#a20eeb701ecbeb535fcead902cb0a49ae", null ],
+    [ "name", "d2/d10/a10170.html#a55368217a847f946def13b2123b22ed3", null ]
 ];

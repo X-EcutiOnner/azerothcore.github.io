@@ -1,7 +1,6 @@
 var a28034 =
 [
-    [ "CharacterDeleteActionIpLogger", "d7/d83/a28034.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d7/d83/a28034.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "d7/d83/a28034.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "d7/d83/a28034.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "guard_shattrath_scryerAI", "db/d4d/a28038.html", "db/d4d/a28038" ],
+    [ "guard_shattrath_scryer", "d7/d83/a28034.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "d7/d83/a28034.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

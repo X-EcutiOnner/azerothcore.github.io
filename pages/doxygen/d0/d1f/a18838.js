@@ -1,6 +1,6 @@
 var a18838 =
 [
-    [ "HandleScript", "d0/d1f/a18838.html#a9489c3454830d3826cb077c95947bf2d", null ],
-    [ "PrepareSpellScript", "d0/d1f/a18838.html#a19492e616ac6e69187bca4499175071e", null ],
-    [ "Register", "d0/d1f/a18838.html#a3446174d3308f535c27581b63ade9e8a", null ]
+    [ "npc_captain_brandonAI", "dd/d87/a18842.html", "dd/d87/a18842" ],
+    [ "npc_captain_brandon", "d0/d1f/a18838.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "d0/d1f/a18838.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

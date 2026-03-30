@@ -1,7 +1,6 @@
 var a18202 =
 [
-    [ "HandleDummy", "d6/d8e/a18202.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "d6/d8e/a18202.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "d6/d8e/a18202.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "d6/d8e/a18202.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "DespawnSelf", "d6/d8e/a18202.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d6/d8e/a18202.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d6/d8e/a18202.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

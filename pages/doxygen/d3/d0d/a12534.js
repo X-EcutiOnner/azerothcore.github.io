@@ -1,8 +1,11 @@
 var a12534 =
 [
-    [ "boss_drakkisathAI", "d3/d0d/a12534.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
-    [ "JustEngagedWith", "d3/d0d/a12534.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
-    [ "UpdateAI", "d3/d0d/a12534.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
-    [ "_conflagrateTarget", "d3/d0d/a12534.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
-    [ "_conflagrateThreat", "d3/d0d/a12534.html#aae3762b27c3d99b32f47293c544e4afe", null ]
+    [ "npc_blackhand_incarcerator", "d3/d0d/a12534.html#af44831badd703bf8c5275c749fd61d2a", null ],
+    [ "DamageTaken", "d3/d0d/a12534.html#af28b787db83769685d90cf7950d8f825", null ],
+    [ "JustEngagedWith", "d3/d0d/a12534.html#a9f4ab7c404a71da418c81b37dd14a7da", null ],
+    [ "Reset", "d3/d0d/a12534.html#a89befac34c050f9229961782156c7adf", null ],
+    [ "SetData", "d3/d0d/a12534.html#a9716a5bcc7101e9a39280ab7afd26540", null ],
+    [ "UpdateAI", "d3/d0d/a12534.html#a83bad94665e11bcb55498bad5fb055a9", null ],
+    [ "_events", "d3/d0d/a12534.html#a2c980622c898df77f3ed46cae1224c2f", null ],
+    [ "_fleedForAssistance", "d3/d0d/a12534.html#abb52cd563252e5d00e256faf6e3cd3d3", null ]
 ];

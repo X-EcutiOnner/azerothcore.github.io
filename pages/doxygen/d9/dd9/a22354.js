@@ -1,8 +1,8 @@
 var a22354 =
 [
-    [ "npc_wg_spirit_guideAI", "d1/d36/a22358.html", "d1/d36/a22358" ],
-    [ "npc_wg_spirit_guide", "d9/dd9/a22354.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "d9/dd9/a22354.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "d9/dd9/a22354.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "d9/dd9/a22354.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "FilterTargets", "d9/dd9/a22354.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d9/dd9/a22354.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d9/dd9/a22354.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d9/dd9/a22354.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d9/dd9/a22354.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

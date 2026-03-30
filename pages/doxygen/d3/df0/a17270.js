@@ -1,6 +1,6 @@
 var a17270 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "dc/d7c/a17274.html", "dc/d7c/a17274" ],
-    [ "npc_fos_corrupted_soul_fragment", "d3/df0/a17270.html#a4caefccfdfee2e906eb94e34bceb064c", null ],
-    [ "GetAI", "d3/df0/a17270.html#aed663e0a313223fcaa988b89b1b02df3", null ]
+    [ "npc_pos_icicle_triggerAI", "dc/d7c/a17274.html", "dc/d7c/a17274" ],
+    [ "npc_pos_icicle_trigger", "d3/df0/a17270.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
+    [ "GetAI", "d3/df0/a17270.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
 ];

@@ -1,7 +1,6 @@
 var a27842 =
 [
-    [ "HandleDummy", "da/dc6/a27842.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
-    [ "PrepareSpellScript", "da/dc6/a27842.html#a24634405a8d0ccdd22f4832815262446", null ],
-    [ "Register", "da/dc6/a27842.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
-    [ "Validate", "da/dc6/a27842.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
+    [ "go_witherbark_totem_bundleAI", "da/d0a/a27846.html", "da/d0a/a27846" ],
+    [ "go_witherbark_totem_bundle", "da/dc6/a27842.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "da/dc6/a27842.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

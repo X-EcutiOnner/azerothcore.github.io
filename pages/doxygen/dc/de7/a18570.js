@@ -1,6 +1,7 @@
 var a18570 =
 [
-    [ "CheckProc", "dc/de7/a18570.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "dc/de7/a18570.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "dc/de7/a18570.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "CalculateBonus", "dc/de7/a18570.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "dc/de7/a18570.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "dc/de7/a18570.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "dc/de7/a18570.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

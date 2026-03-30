@@ -1,7 +1,6 @@
 var a29310 =
 [
-    [ "Id", "d5/db5/a29310.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "d5/db5/a29310.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "d5/db5/a29310.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "d5/db5/a29310.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "hasInstantTargetProcs", "d5/db5/a29310.html#a043a2884a456208d85bc3bf8d4733682", null ],
+    [ "isRemoved", "d5/db5/a29310.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
+    [ "spellId", "d5/db5/a29310.html#aee26a119051d638047018aeb93d593f6", null ]
 ];

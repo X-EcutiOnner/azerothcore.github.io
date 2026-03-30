@@ -1,5 +1,8 @@
 var a13646 =
 [
-    [ "npc_apothecary_frye", "d1/d3e/a13646.html#a5546099958a9a267d237e65720588456", null ],
-    [ "JustDied", "d1/d3e/a13646.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
+    [ "CheckCast", "d1/d3e/a13646.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
+    [ "HandleScriptEffect", "d1/d3e/a13646.html#a22f630cb9df4b435a5624f2865915753", null ],
+    [ "PrepareSpellScript", "d1/d3e/a13646.html#a6e6b27ade1cac743946a976dbf343066", null ],
+    [ "Register", "d1/d3e/a13646.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
+    [ "Validate", "d1/d3e/a13646.html#a85779288126b21f516f2feb0238ee65b", null ]
 ];

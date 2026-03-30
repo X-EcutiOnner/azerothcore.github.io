@@ -1,7 +1,6 @@
 var a27762 =
 [
-    [ "CalculateAmount", "d2/d18/a27762.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
-    [ "PrepareAuraScript", "d2/d18/a27762.html#a20dad49a99420556f393a16525eb14b4", null ],
-    [ "Register", "d2/d18/a27762.html#ad7d339ab137ebd640981f7789e1757f0", null ],
-    [ "Validate", "d2/d18/a27762.html#a341acb2dd25c1db94777f7036f3338ac", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d2/d18/a27762.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d2/d18/a27762.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d2/d18/a27762.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

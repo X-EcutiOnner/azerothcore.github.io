@@ -1,6 +1,10 @@
 var a18442 =
 [
-    [ "FilterTargetsInitial", "dc/d40/a18442.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "dc/d40/a18442.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "dc/d40/a18442.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "npc_shambling_horror_iccAI", "dc/d40/a18442.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
+    [ "CanAIAttack", "dc/d40/a18442.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
+    [ "DamageTaken", "dc/d40/a18442.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
+    [ "Reset", "dc/d40/a18442.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
+    [ "UpdateAI", "dc/d40/a18442.html#abae6058591022057e93d48da3db1b8bc", null ],
+    [ "_events", "dc/d40/a18442.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
+    [ "_frenzied", "dc/d40/a18442.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
 ];

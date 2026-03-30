@@ -1,9 +1,7 @@
 var a28098 =
 [
-    [ "boss_lethonAI", "d4/d5d/a28098.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "d4/d5d/a28098.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "d4/d5d/a28098.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "d4/d5d/a28098.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "d4/d5d/a28098.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "d4/d5d/a28098.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "npc_engineering_tele_trinket", "d4/d5d/a28098.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "d4/d5d/a28098.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "d4/d5d/a28098.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "d4/d5d/a28098.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

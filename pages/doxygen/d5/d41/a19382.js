@@ -1,9 +1,8 @@
 var a19382 =
 [
-    [ "spell_trigger_spell_from_caster", "d5/d41/a19382.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
-    [ "HandleTrigger", "d5/d41/a19382.html#afc11c9408ea11cb04e476999a9bdf522", null ],
-    [ "PrepareSpellScript", "d5/d41/a19382.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
-    [ "Register", "d5/d41/a19382.html#ae44cc1a87267c1d08603d1aff2384957", null ],
-    [ "Validate", "d5/d41/a19382.html#a3aace9a309bc848b887b03c949c921bd", null ],
-    [ "_triggerId", "d5/d41/a19382.html#a29af52a9035f18936515a464889fefe5", null ]
+    [ "npc_teslaAI", "d5/d41/a19382.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "d5/d41/a19382.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "d5/d41/a19382.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "d5/d41/a19382.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "d5/d41/a19382.html#a962745569b07e368067ee483d2379840", null ]
 ];

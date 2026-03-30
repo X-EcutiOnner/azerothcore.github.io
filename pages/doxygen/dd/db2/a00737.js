@@ -1,27 +1,27 @@
 var a00737 =
 [
-    [ "go_type", "da/dc0/a10377.html", "da/dc0/a10377" ],
-    [ "creature_type", "d6/d1e/a10381.html", "d6/d1e/a10381" ],
-    [ "OPvPCapturePoint", "df/d90/a10385.html", "df/d90/a10385" ],
-    [ "OutdoorPvP", "da/de8/a10389.html", "da/de8/a10389" ],
-    [ "MAX_OUTDOORPVP_TYPES", "dd/db2/a00737.html#a61d2d26058751cc92ed3744e7216a061", null ],
-    [ "PlayerSet", "dd/db2/a00737.html#a080aeb08f4e15904e94076846a03e927", null ],
-    [ "ObjectiveStates", "dd/db2/a00737.html#a7908847b61cb33598912d94a2c0d153a", [
-      [ "OBJECTIVESTATE_NEUTRAL", "dd/db2/a00737.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6", null ],
-      [ "OBJECTIVESTATE_ALLIANCE", "dd/db2/a00737.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01", null ],
-      [ "OBJECTIVESTATE_HORDE", "dd/db2/a00737.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545", null ],
-      [ "OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "dd/db2/a00737.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683", null ],
-      [ "OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "dd/db2/a00737.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143", null ],
-      [ "OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "dd/db2/a00737.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b", null ],
-      [ "OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "dd/db2/a00737.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a", null ]
-    ] ],
-    [ "OutdoorPvPTypes", "dd/db2/a00737.html#a56e7764289940901c2a230103f78adee", [
-      [ "OUTDOOR_PVP_HP", "dd/db2/a00737.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780", null ],
-      [ "OUTDOOR_PVP_NA", "dd/db2/a00737.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811", null ],
-      [ "OUTDOOR_PVP_TF", "dd/db2/a00737.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab", null ],
-      [ "OUTDOOR_PVP_ZM", "dd/db2/a00737.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc", null ],
-      [ "OUTDOOR_PVP_SI", "dd/db2/a00737.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e", null ],
-      [ "OUTDOOR_PVP_EP", "dd/db2/a00737.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125", null ],
-      [ "OUTDOOR_PVP_GH", "dd/db2/a00737.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6", null ]
-    ] ]
+    [ "SpellProcPPMModifierTest", "d5/d22/a29534.html", "d5/d22/a29534" ],
+    [ "TEST_F", "dd/db2/a00737.html#aa2bec39c4b0d12991540f45313533396", null ],
+    [ "TEST_F", "dd/db2/a00737.html#aa89aed3e26b449dff635a2d80b3c6d9e", null ],
+    [ "TEST_F", "dd/db2/a00737.html#aabcf8b974f95be4625d5319f67599adf", null ],
+    [ "TEST_F", "dd/db2/a00737.html#ab826af751165cb89507993b1e67e4801", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a311a78c504af8345e2c9c3a859bdfa23", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a61b70ea722efdd0a5ef7fefae02d968e", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a55af5ca86664564775172b5d49afe313", null ],
+    [ "TEST_F", "dd/db2/a00737.html#ad304d8058fb3117080850a71033ffc73", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a54ef2e1e9f80b212b8e1d7263f2a4379", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a43454c0e6317092aedad285a01c1d525", null ],
+    [ "TEST_F", "dd/db2/a00737.html#ad2e4c02c33dffa0cfac62af5424e280c", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a55269899b416b9a218ee32727ea41686", null ],
+    [ "TEST_F", "dd/db2/a00737.html#afc454f21b772ee0486a0dde1104ed51f", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a0dcaf713e379ac19c9953c832d8b1353", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a6c5b5b7733c23575f0e7064e5eed508d", null ],
+    [ "TEST_F", "dd/db2/a00737.html#ad829d055fa5c2a97e6bc2c9b5ed8ea5e", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a62a9fc158e8997b1f0ca15a5f5c41c40", null ],
+    [ "TEST_F", "dd/db2/a00737.html#aba5574eb11e7364630a7391e7b1567cf", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a20a56c1828d7aac366535c1729b8df43", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a7ba996e0597652071689fc2a33d2a2b3", null ],
+    [ "TEST_F", "dd/db2/a00737.html#abd7d1227159442414c5be9459d9a9c23", null ],
+    [ "TEST_F", "dd/db2/a00737.html#a137ba54ef70f0a29f8b68424e786752f", null ],
+    [ "TEST_F", "dd/db2/a00737.html#aa7d0cc368c07828252aa4d377962f0da", null ]
 ];

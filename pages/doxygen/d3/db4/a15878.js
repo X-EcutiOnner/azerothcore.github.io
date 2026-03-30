@@ -1,7 +1,7 @@
 var a15878 =
 [
-    [ "npc_prophet_velen", "d3/db4/a15878.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
-    [ "JustDied", "d3/db4/a15878.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
-    [ "Reset", "d3/db4/a15878.html#a5beec39fd545129d0f124bb19524f95c", null ],
-    [ "UpdateAI", "d3/db4/a15878.html#a2d016ecfedc5c7e886e7412081b54792", null ]
+    [ "npc_kaya_flathoofAI", "db/d4e/a15882.html", "db/d4e/a15882" ],
+    [ "npc_kaya_flathoof", "d3/db4/a15878.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
+    [ "GetAI", "d3/db4/a15878.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
+    [ "OnQuestAccept", "d3/db4/a15878.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
 ];

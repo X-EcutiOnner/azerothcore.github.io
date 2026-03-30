@@ -1,7 +1,7 @@
 var a16374 =
 [
-    [ "HandleScript", "d0/d21/a16374.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "d0/d21/a16374.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "d0/d21/a16374.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "d0/d21/a16374.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "npc_orb_carrierAI", "d0/d21/a16374.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "d0/d21/a16374.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "d0/d21/a16374.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "d0/d21/a16374.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

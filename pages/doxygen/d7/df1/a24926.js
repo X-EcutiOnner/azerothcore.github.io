@@ -1,7 +1,8 @@
 var a24926 =
 [
-    [ "HandleProc", "d7/df1/a24926.html#a537f3badee8fee83ff5b1aaa26bdf96d", null ],
-    [ "PrepareAuraScript", "d7/df1/a24926.html#ac234a738270dbe0d991e55da4d497490", null ],
-    [ "Register", "d7/df1/a24926.html#a8033ae66f1c92fdf596add2985d0a6b3", null ],
-    [ "Validate", "d7/df1/a24926.html#a039e765c38eb63116a546b9c541da949", null ]
+    [ "AchievementCredit", "d7/df1/a24926.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "d7/df1/a24926.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "d7/df1/a24926.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "d7/df1/a24926.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "d7/df1/a24926.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

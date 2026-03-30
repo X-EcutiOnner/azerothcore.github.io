@@ -1,8 +1,6 @@
 var a17950 =
 [
-    [ "npc_saurfang_eventAI", "dd/dee/a17950.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "dd/dee/a17950.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "dd/dee/a17950.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "dd/dee/a17950.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "dd/dee/a17950.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "npc_vengeful_shadeAI", "d1/d7d/a17954.html", "d1/d7d/a17954" ],
+    [ "npc_vengeful_shade", "dd/dee/a17950.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "dd/dee/a17950.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

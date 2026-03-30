@@ -1,6 +1,9 @@
 var a12842 =
 [
-    [ "HandleOnHit", "d2/de1/a12842.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d2/de1/a12842.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d2/de1/a12842.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "npc_mc_core_hound", "d2/de1/a12842.html#a4768b06f344d6bbf7e3d0cef16e1b75d", null ],
+    [ "DamageTaken", "d2/de1/a12842.html#a1b9cd2776b1a3f363915fc91e1e34414", null ],
+    [ "Reset", "d2/de1/a12842.html#ab2bfa697f694b5b35129b361e171e2a4", null ],
+    [ "UpdateAI", "d2/de1/a12842.html#a9c5081e9c622eb0679cd396caed002b9", null ],
+    [ "instance", "d2/de1/a12842.html#a54da081c07184ebd5eed1ffe9a1dd8ee", null ],
+    [ "serratedBiteTimer", "d2/de1/a12842.html#afbe528a9f7d2afc6d33bf11f589d9dea", null ]
 ];

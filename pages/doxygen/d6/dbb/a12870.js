@@ -1,5 +1,6 @@
 var a12870 =
 [
-    [ "at_orb_of_command", "d6/dbb/a12870.html#a1f0b196362b76e050eba66d3ce612623", null ],
-    [ "OnTrigger", "d6/dbb/a12870.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "d2/d6c/a12874.html", "d2/d6c/a12874" ],
+    [ "instance_gnomeregan", "d6/dbb/a12870.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
+    [ "GetInstanceScript", "d6/dbb/a12870.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
 ];

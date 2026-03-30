@@ -1,6 +1,6 @@
 var a17774 =
 [
-    [ "boss_prince_taldaramAI", "de/da1/a17778.html", "de/da1/a17778" ],
-    [ "boss_prince_taldaram_icc", "d1/d62/a17774.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "d1/d62/a17774.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "npc_igb_ship_crewAI", "d1/d62/a17774.html#a3ca741b305e3235b0521f094d7abe732", null ],
+    [ "CanAIAttack", "d1/d62/a17774.html#a2c834dc151493957fc116865699ae7f5", null ],
+    [ "_instance", "d1/d62/a17774.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
 ];

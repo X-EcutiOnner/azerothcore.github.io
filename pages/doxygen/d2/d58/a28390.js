@@ -1,8 +1,6 @@
 var a28390 =
 [
-    [ "trigger_periodicAI", "d2/d58/a28390.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "d2/d58/a28390.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "d2/d58/a28390.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "d2/d58/a28390.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "d2/d58/a28390.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "CheckCast", "d2/d58/a28390.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
+    [ "PrepareSpellScript", "d2/d58/a28390.html#aa3c18907c79309a8924a98bce41e27f1", null ],
+    [ "Register", "d2/d58/a28390.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
 ];

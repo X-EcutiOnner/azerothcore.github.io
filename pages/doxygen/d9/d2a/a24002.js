@@ -1,7 +1,6 @@
 var a24002 =
 [
-    [ "HandleEffect", "d9/d2a/a24002.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d9/d2a/a24002.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d9/d2a/a24002.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d9/d2a/a24002.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "PrepareSpellScript", "d9/d2a/a24002.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "d9/d2a/a24002.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "d9/d2a/a24002.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

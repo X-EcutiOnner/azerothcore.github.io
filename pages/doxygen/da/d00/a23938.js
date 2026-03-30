@@ -1,8 +1,11 @@
 var a23938 =
 [
-    [ "instance_mechanar_InstanceMapScript", "da/d00/a23938.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "da/d00/a23938.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "da/d00/a23938.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "da/d00/a23938.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "da/d00/a23938.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "da/d00/a23938.html#af24a8d5ead256d158c86379e032aa889", null ],
+    [ "Reset", "da/d00/a23938.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
+    [ "SetData", "da/d00/a23938.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
+    [ "SpellHit", "da/d00/a23938.html#a14523a24042d23efbafc7924f394dd04", null ],
+    [ "UpdateAI", "da/d00/a23938.html#ae5cd38aa2a9cc1727141298323639660", null ],
+    [ "resetTimer", "da/d00/a23938.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
+    [ "tapped", "da/d00/a23938.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
+    [ "tuberGUID", "da/d00/a23938.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
 ];

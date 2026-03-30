@@ -1,6 +1,8 @@
 var a26238 =
 [
-    [ "CalculateAmount", "d2/de1/a26238.html#a2010f58ba86d6266e9549753fdec52ed", null ],
-    [ "PrepareAuraScript", "d2/de1/a26238.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
-    [ "Register", "d2/de1/a26238.html#acf737f74e3cb9340f3449b491e923b7f", null ]
+    [ "HandleDummy", "d2/de1/a26238.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "d2/de1/a26238.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "d2/de1/a26238.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "d2/de1/a26238.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "d2/de1/a26238.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

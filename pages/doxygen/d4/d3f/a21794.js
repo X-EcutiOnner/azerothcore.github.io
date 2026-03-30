@@ -1,6 +1,7 @@
 var a21794 =
 [
-    [ "npc_q24545_lich_kingAI", "d2/d25/a21798.html", "d2/d25/a21798" ],
-    [ "npc_q24545_lich_king", "d4/d3f/a21794.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "d4/d3f/a21794.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "Absorb", "d4/d3f/a21794.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "d4/d3f/a21794.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "d4/d3f/a21794.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "d4/d3f/a21794.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

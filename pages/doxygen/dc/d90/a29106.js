@@ -1,5 +1,6 @@
 var a29106 =
 [
-    [ "BitIndex", "dc/d90/a29106.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
-    [ "ItemId", "dc/d90/a29106.html#a998c1f6dadb823fbba56bb2154396635", null ]
+    [ "categoryMask", "dc/d90/a29106.html#abd8816e5dda7bda455ccd6932647c4be", null ],
+    [ "categoryType", "dc/d90/a29106.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
+    [ "ID", "dc/d90/a29106.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
 ];

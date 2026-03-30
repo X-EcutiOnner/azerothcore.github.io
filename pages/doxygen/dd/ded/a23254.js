@@ -1,6 +1,12 @@
 var a23254 =
 [
-    [ "HandleApplyAura", "dd/ded/a23254.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "dd/ded/a23254.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "dd/ded/a23254.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "boss_nazan", "dd/ded/a23254.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "dd/ded/a23254.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "dd/ded/a23254.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "dd/ded/a23254.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "dd/ded/a23254.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "dd/ded/a23254.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "dd/ded/a23254.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "dd/ded/a23254.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "dd/ded/a23254.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

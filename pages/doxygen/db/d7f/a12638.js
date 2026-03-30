@@ -1,6 +1,7 @@
 var a12638 =
 [
-    [ "boss_thebeastAI", "d7/de8/a12642.html", "d7/de8/a12642" ],
-    [ "boss_the_beast", "db/d7f/a12638.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
-    [ "GetAI", "db/d7f/a12638.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
+    [ "HandleScript", "db/d7f/a12638.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "db/d7f/a12638.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "db/d7f/a12638.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "db/d7f/a12638.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

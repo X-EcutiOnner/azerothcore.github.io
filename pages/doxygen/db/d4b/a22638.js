@@ -1,8 +1,7 @@
 var a22638 =
 [
-    [ "npc_anzu_spirit", "db/d4b/a22638.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "db/d4b/a22638.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "db/d4b/a22638.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "db/d4b/a22638.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "db/d4b/a22638.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "CalculateAmount", "db/d4b/a22638.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "db/d4b/a22638.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "db/d4b/a22638.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "db/d4b/a22638.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

@@ -1,7 +1,6 @@
 var a14258 =
 [
-    [ "HandleScript", "df/dd5/a14258.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "df/dd5/a14258.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "df/dd5/a14258.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "df/dd5/a14258.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "boss_grilekAI", "d5/d44/a14262.html", "d5/d44/a14262" ],
+    [ "boss_grilek", "df/dd5/a14258.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "df/dd5/a14258.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

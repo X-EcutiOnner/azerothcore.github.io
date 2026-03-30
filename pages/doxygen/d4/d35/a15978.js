@@ -1,8 +1,6 @@
 var a15978 =
 [
-    [ "CheckRequirement", "d4/d35/a15978.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d4/d35/a15978.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d4/d35/a15978.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d4/d35/a15978.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d4/d35/a15978.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_cairne_bloodhoofAI", "d9/d96/a15982.html", "d9/d96/a15982" ],
+    [ "npc_cairne_bloodhoof", "d4/d35/a15978.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "d4/d35/a15978.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

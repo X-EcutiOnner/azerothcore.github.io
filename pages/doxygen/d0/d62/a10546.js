@@ -1,10 +1,10 @@
 var a10546 =
 [
-    [ "BattlefieldScript", "d0/d62/a10546.html#a5d852a5ae3f62631280ca9f4b97b1734", null ],
-    [ "IsDatabaseBound", "d0/d62/a10546.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
-    [ "OnBattlefieldBeforeInvitePlayerToWar", "d0/d62/a10546.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
-    [ "OnBattlefieldPlayerEnterZone", "d0/d62/a10546.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
-    [ "OnBattlefieldPlayerJoinWar", "d0/d62/a10546.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
-    [ "OnBattlefieldPlayerLeaveWar", "d0/d62/a10546.html#a3e88ff9ad3772d558ab72123127a550e", null ],
-    [ "OnBattlefieldPlayerLeaveZone", "d0/d62/a10546.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ]
+    [ "AllItemScript", "d0/d62/a10546.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
+    [ "CanItemExpire", "d0/d62/a10546.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
+    [ "CanItemQuestAccept", "d0/d62/a10546.html#a545e2bc7436a064146025954eaf5ae92", null ],
+    [ "CanItemRemove", "d0/d62/a10546.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
+    [ "CanItemUse", "d0/d62/a10546.html#a89d237f426840658e4423fb9cc7428db", null ],
+    [ "OnItemGossipSelect", "d0/d62/a10546.html#a7157f72c6d09988b60480d1671892cde", null ],
+    [ "OnItemGossipSelectCode", "d0/d62/a10546.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
 ];

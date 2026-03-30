@@ -1,6 +1,7 @@
 var a27394 =
 [
-    [ "FilterTargets", "df/ddb/a27394.html#a34ca370993295225a779ee6537295112", null ],
-    [ "PrepareSpellScript", "df/ddb/a27394.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
-    [ "Register", "df/ddb/a27394.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
+    [ "HandleDummy", "df/ddb/a27394.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
+    [ "PrepareSpellScript", "df/ddb/a27394.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
+    [ "Register", "df/ddb/a27394.html#aee02661fa8845afd666ca27163b4a761", null ],
+    [ "Validate", "df/ddb/a27394.html#aba9079e2418281315029c839b22df1c5", null ]
 ];

@@ -1,8 +1,7 @@
 var a24422 =
 [
-    [ "npc_pet_darting_hatchling", "df/db5/a24422.html#a7ae5973061068396bf382dc21e88cd44", null ],
-    [ "SpellHit", "df/db5/a24422.html#a29ea5438bab7e606175c02165a607f9b", null ],
-    [ "UpdateAI", "df/db5/a24422.html#a23196d05aebe5fa4a65455c55368820a", null ],
-    [ "checkTimer", "df/db5/a24422.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
-    [ "goFast", "df/db5/a24422.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
+    [ "HandleProc", "df/db5/a24422.html#a15592382213762145eb30d85bfcbd60a", null ],
+    [ "PrepareAuraScript", "df/db5/a24422.html#a82201b03b7b642e7898889412a617712", null ],
+    [ "Register", "df/db5/a24422.html#aba014f9b0000d19cabbc5a9c763b934b", null ],
+    [ "Validate", "df/db5/a24422.html#af586c09b1ba0b25d37c43624d3871c4e", null ]
 ];

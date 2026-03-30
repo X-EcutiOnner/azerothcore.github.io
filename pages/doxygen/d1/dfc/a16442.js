@@ -1,6 +1,7 @@
 var a16442 =
 [
-    [ "FilterTargets", "d1/dfc/a16442.html#aff3223d9b3df91f9261aa2f45373f846", null ],
-    [ "PrepareSpellScript", "d1/dfc/a16442.html#a3ca9ba182a313fb741b15df63408a90e", null ],
-    [ "Register", "d1/dfc/a16442.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
+    [ "HandleDummy", "d1/dfc/a16442.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "d1/dfc/a16442.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "d1/dfc/a16442.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "d1/dfc/a16442.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];

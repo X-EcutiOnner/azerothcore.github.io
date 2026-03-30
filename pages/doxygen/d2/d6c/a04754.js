@@ -1,5 +1,6 @@
 var a04754 =
 [
-    [ "pet_commandscript", "db/d1b/a12267.html", "db/d1b/a12267" ],
-    [ "AddSC_pet_commandscript", "d2/d6c/a04754.html#a9c7b2cae4f7afb6ae0c9ccc623877625", null ]
+    [ "ObjectVisibilityContainer", "dc/d60/a08730.html", "dc/d60/a08730" ],
+    [ "VisiblePlayersMap", "d2/d6c/a04754.html#a52b38df575afa7eef8fb58759ee03bd8", null ],
+    [ "VisibleWorldObjectsMap", "d2/d6c/a04754.html#a6fe979433a4dd2c9023626ecc74bf6a5", null ]
 ];

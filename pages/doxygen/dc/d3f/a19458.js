@@ -1,7 +1,7 @@
 var a19458 =
 [
-    [ "HandleTriggerSpell", "dc/d3f/a19458.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "dc/d3f/a19458.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "dc/d3f/a19458.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "dc/d3f/a19458.html#a813bad39641956fff697580f271416d2", null ]
+    [ "FilterTargets", "dc/d3f/a19458.html#a6beccd163ab8442a1ed39c553716cb73", null ],
+    [ "Load", "dc/d3f/a19458.html#a5df67c2dbd14a75435f68939240daae6", null ],
+    [ "PrepareSpellScript", "dc/d3f/a19458.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
+    [ "Register", "dc/d3f/a19458.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
 ];

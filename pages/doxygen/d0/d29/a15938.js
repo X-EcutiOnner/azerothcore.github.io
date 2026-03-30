@@ -1,8 +1,20 @@
 var a15938 =
 [
-    [ "npc_aged_dying_ancient_kodo", "d0/d29/a15938.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
-    [ "JustRespawned", "d0/d29/a15938.html#ab401f9002bd49b26cc0526112e715d1e", null ],
-    [ "MoveInLineOfSight", "d0/d29/a15938.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
-    [ "OnGossipHello", "d0/d29/a15938.html#a760b1c45119893fc7e792139b2e9d948", null ],
-    [ "SpellHit", "d0/d29/a15938.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
+    [ "npc_twiggy_flatheadAI", "d0/d29/a15938.html#a03aee9619eafa0f497390c520cbfaf24", null ],
+    [ "CleanUp", "d0/d29/a15938.html#adfe48ed23633691608b289c4751c788a", null ],
+    [ "EnterEvadeMode", "d0/d29/a15938.html#a9fd1519e6196ba4db30740b16904964b", null ],
+    [ "JustEngagedWith", "d0/d29/a15938.html#aa601e079ed93d4d21f2ea2decf6cdab3", null ],
+    [ "MoveInLineOfSight", "d0/d29/a15938.html#a95188ce1d3abba7dfeef5a9cbd6d3306", null ],
+    [ "Reset", "d0/d29/a15938.html#ab98c38a9d8c3cb3e1ac67f321cfe90fb", null ],
+    [ "UpdateAI", "d0/d29/a15938.html#a0a9cefdaf419143eed6e6aa89489e8dd", null ],
+    [ "AffrayChallenger", "d0/d29/a15938.html#a42354987ab877f7c113ac44b50d4a660", null ],
+    [ "BigWill", "d0/d29/a15938.html#a4a017e9153c04e34b2c9c3ae30583856", null ],
+    [ "ChallengerChecker", "d0/d29/a15938.html#a9908c43715426b75c06c1e2032f4fcca", null ],
+    [ "ChallengerDown", "d0/d29/a15938.html#a8777dbc5bd40e29a46d1195414a3f754", null ],
+    [ "EventBigWill", "d0/d29/a15938.html#a32d931e4aabbabedd05ae243038cca8e", null ],
+    [ "EventGrate", "d0/d29/a15938.html#a8bc3907272941dbf2218cc0dbafb205f", null ],
+    [ "EventInProgress", "d0/d29/a15938.html#a4dd84ae18a7f79238f110659db03b984", null ],
+    [ "PlayerGUID", "d0/d29/a15938.html#aa510117962fc5294113f2f88a1f2a652", null ],
+    [ "Wave", "d0/d29/a15938.html#a5a38a9a8da1b9cd03e800fcd90e38d1a", null ],
+    [ "WaveTimer", "d0/d29/a15938.html#a8a0d2b9db7f49cdb367dcf6f68bc1633", null ]
 ];

@@ -1,6 +1,7 @@
 var a13210 =
 [
-    [ "HandleCast", "da/d69/a13210.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
-    [ "PrepareSpellScript", "da/d69/a13210.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
-    [ "Register", "da/d69/a13210.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
+    [ "HandleScriptEffect", "da/d69/a13210.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "da/d69/a13210.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "da/d69/a13210.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "da/d69/a13210.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

@@ -1,16 +1,12 @@
 var a19674 =
 [
-    [ "boss_thaddiusAI", "db/d14/a19674.html#a8a25d56cb38b755fec6f18a9616632e2", null ],
-    [ "DoAction", "db/d14/a19674.html#aa9697fa990b9d84f3cc9496df1cb4234", null ],
-    [ "IsAnyPlayerInMeleeRange", "db/d14/a19674.html#aa5175bb29e16c1c421cf16207e890d57", null ],
-    [ "JustDied", "db/d14/a19674.html#a2ec7bfa46d972cdd857289693acdc965", null ],
-    [ "JustEngagedWith", "db/d14/a19674.html#a52ec355e0ddd2a29b06b473303941b46", null ],
-    [ "JustSummoned", "db/d14/a19674.html#a1aa9a09089a2070eda14fda1bc51f0fe", null ],
-    [ "KilledUnit", "db/d14/a19674.html#a94f7852267620b0a77c2e1003f080589", null ],
-    [ "Reset", "db/d14/a19674.html#ae7b69b5e83fdbaa3df25dda989eeaf07", null ],
-    [ "UpdateAI", "db/d14/a19674.html#a5eef08082268fa181d4d396fc952dbcd", null ],
-    [ "ballLightningEnabled", "db/d14/a19674.html#a487582d59f0d717c3ec53679ad36f99a", null ],
-    [ "resetTimer", "db/d14/a19674.html#aba9f23389d5f6724883dc9f7e607a351", null ],
-    [ "reviveTimer", "db/d14/a19674.html#a11388e745e81c3ad8ba7d97812a17203", null ],
-    [ "summonTimer", "db/d14/a19674.html#a82288ef27f720b5f0f84bfd0ac6b9ccb", null ]
+    [ "boss_loken", "db/d14/a19674.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
+    [ "JustDied", "db/d14/a19674.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
+    [ "JustEngagedWith", "db/d14/a19674.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
+    [ "KilledUnit", "db/d14/a19674.html#a85ae3094927f7484216b44582f9a2bf6", null ],
+    [ "MoveInLineOfSight", "db/d14/a19674.html#ac9f3115629e5595d06c213d3e04afa68", null ],
+    [ "OnAuraRemove", "db/d14/a19674.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
+    [ "Reset", "db/d14/a19674.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
+    [ "ScheduleTasks", "db/d14/a19674.html#a600e211be40226679212a7078b26f3ed", null ],
+    [ "_introDone", "db/d14/a19674.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
 ];

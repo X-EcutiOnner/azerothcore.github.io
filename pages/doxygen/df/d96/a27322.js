@@ -1,7 +1,7 @@
 var a27322 =
 [
-    [ "HandleEffectPeriodic", "df/d96/a27322.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
-    [ "PrepareAuraScript", "df/d96/a27322.html#ae151331af09510cc91b63b65a30bdcbf", null ],
-    [ "Register", "df/d96/a27322.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
-    [ "Validate", "df/d96/a27322.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
+    [ "HandleProc", "df/d96/a27322.html#a929cf5d75df313a5e119eeb03735640c", null ],
+    [ "PrepareAuraScript", "df/d96/a27322.html#aaeacbee6f798f25e467381aa56228355", null ],
+    [ "Register", "df/d96/a27322.html#a111fa9ebfc9d9e8f0907635a4ce73bbb", null ],
+    [ "Validate", "df/d96/a27322.html#a428e6d1f5e172390986ae8fd85570e21", null ]
 ];

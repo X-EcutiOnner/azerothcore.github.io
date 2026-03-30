@@ -1,6 +1,5 @@
 var a21138 =
 [
-    [ "boss_palehoofAI", "d0/dfd/a21142.html", "d0/dfd/a21142" ],
-    [ "boss_palehoof", "d3/dfa/a21138.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "d3/dfa/a21138.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "go_vh_activation_crystal", "d3/dfa/a21138.html#a4af485ac7ab6144282f3204a6d045cea", null ],
+    [ "OnGossipHello", "d3/dfa/a21138.html#a47a61ba67086580135559332931e9c6e", null ]
 ];

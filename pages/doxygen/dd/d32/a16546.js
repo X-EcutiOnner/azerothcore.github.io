@@ -1,7 +1,6 @@
 var a16546 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "dd/d32/a16546.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "dd/d32/a16546.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "dd/d32/a16546.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "dd/d32/a16546.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "npc_black_knight_ghoulAI", "d9/dea/a16550.html", "d9/dea/a16550" ],
+    [ "npc_black_knight_ghoul", "dd/d32/a16546.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
+    [ "GetAI", "dd/d32/a16546.html#a52308f8d168e1ccea22de653813b7f6f", null ]
 ];

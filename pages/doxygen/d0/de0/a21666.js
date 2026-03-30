@@ -1,8 +1,7 @@
 var a21666 =
 [
-    [ "npc_shandy_dalaranAI", "d1/dcb/a21670.html", "d1/dcb/a21670" ],
-    [ "npc_shandy_dalaran", "d0/de0/a21666.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "d0/de0/a21666.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "d0/de0/a21666.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "d0/de0/a21666.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "HandleAfterEffectApply", "d0/de0/a21666.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "d0/de0/a21666.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "d0/de0/a21666.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "d0/de0/a21666.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

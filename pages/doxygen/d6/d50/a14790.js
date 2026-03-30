@@ -1,6 +1,5 @@
 var a14790 =
 [
-    [ "PeriodicTick", "d6/d50/a14790.html#a0832c36a9497674374b2998398bfc3a4", null ],
-    [ "PrepareAuraScript", "d6/d50/a14790.html#a89acb64235da1ff59da90a509fbeec9d", null ],
-    [ "Register", "d6/d50/a14790.html#aab689a2cb84dcd064736171035640584", null ]
+    [ "PrepareSpellScript", "d6/d50/a14790.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
+    [ "Register", "d6/d50/a14790.html#a06111bf70ee53fee6e90284f8d92642e", null ]
 ];

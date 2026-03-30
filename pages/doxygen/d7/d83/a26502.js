@@ -1,7 +1,7 @@
 var a26502 =
 [
-    [ "OnRemove", "d7/d83/a26502.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "d7/d83/a26502.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "d7/d83/a26502.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "d7/d83/a26502.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "OnProc", "d7/d83/a26502.html#a0a85e641521f1e9b7fd074f7edde97ac", null ],
+    [ "PrepareAuraScript", "d7/d83/a26502.html#a4ff27309c8848a6155ad28809ace5cba", null ],
+    [ "Register", "d7/d83/a26502.html#a20b6a18ce3fac99689b958b384da7836", null ],
+    [ "Validate", "d7/d83/a26502.html#ac4275cca4f974a5a131e4dc1be8eed23", null ]
 ];

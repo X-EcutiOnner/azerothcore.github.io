@@ -1,7 +1,6 @@
 var a13654 =
 [
-    [ "HandleAfterCast", "d6/d67/a13654.html#afa662fbe1b777047259ac6212961f7a5", null ],
-    [ "HandleScript", "d6/d67/a13654.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
-    [ "PrepareSpellScript", "d6/d67/a13654.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
-    [ "Register", "d6/d67/a13654.html#a4a898b0b096583af33f1f691a252b2ed", null ]
+    [ "CastArmageddon", "d6/d67/a13654.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "d6/d67/a13654.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "d6/d67/a13654.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

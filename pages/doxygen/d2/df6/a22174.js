@@ -1,6 +1,6 @@
 var a22174 =
 [
-    [ "npc_vekjik", "d2/df6/a22174.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d2/df6/a22174.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d2/df6/a22174.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "FilterTargets", "d2/df6/a22174.html#a4d81860c41daab44851da605d38b4753", null ],
+    [ "PrepareSpellScript", "d2/df6/a22174.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
+    [ "Register", "d2/df6/a22174.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
 ];

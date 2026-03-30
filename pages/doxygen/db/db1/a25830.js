@@ -1,6 +1,6 @@
 var a25830 =
 [
-    [ "CheckProc", "db/db1/a25830.html#a8158e7338b29b072f0c851771d0e8eee", null ],
-    [ "PrepareAuraScript", "db/db1/a25830.html#a44a18144e276e7bdc80c5a19f1d442e2", null ],
-    [ "Register", "db/db1/a25830.html#ae24336f87db322e546bd858bc50f2351", null ]
+    [ "HandleDummy", "db/db1/a25830.html#a9530db7f75987879285d224fb8381c2b", null ],
+    [ "PrepareSpellScript", "db/db1/a25830.html#ad1c1bdb577739f769802127960aaf9e5", null ],
+    [ "Register", "db/db1/a25830.html#ae3a340132caf3f8839631c92015d47a0", null ]
 ];

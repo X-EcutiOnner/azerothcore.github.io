@@ -1,6 +1,6 @@
 var a16274 =
 [
-    [ "HandleSummon", "d6/db4/a16274.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "d6/db4/a16274.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "d6/db4/a16274.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "HandleLeapBack", "d6/db4/a16274.html#a71a9b9967528c1153ad1215635bc7d01", null ],
+    [ "PrepareSpellScript", "d6/db4/a16274.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
+    [ "Register", "d6/db4/a16274.html#a6ef11d0538616315fa7cf098748aa01f", null ]
 ];

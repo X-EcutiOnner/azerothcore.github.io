@@ -1,6 +1,6 @@
 var a01913 =
 [
-    [ "ClientAuthSession", "db/d6b/a11543.html", "db/d6b/a11543" ],
-    [ "AccountInfo", "da/dc6/a05919.html", "da/dc6/a05919" ],
-    [ "compressBuff", "d4/d07/a01913.html#a3ec87fe2f43cce4ee6bfb90744e72a0d", null ]
+    [ "trigger_periodic", "db/d50/a28078.html", "db/d50/a28078" ],
+    [ "trigger_periodic::trigger_periodicAI", "da/d35/a28082.html", "da/d35/a28082" ],
+    [ "AddSC_generic_creature", "d4/d07/a01913.html#a50f66c4d6429b38157e35a75a0daa31d", null ]
 ];

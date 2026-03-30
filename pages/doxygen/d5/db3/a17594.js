@@ -1,9 +1,9 @@
 var a17594 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d5/db3/a17594.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "d5/db3/a17594.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "d5/db3/a17594.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "d5/db3/a17594.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "d5/db3/a17594.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "d5/db3/a17594.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "CheckTarget", "d5/db3/a17594.html#a43fc6a16aca217ef043fa34a58391357", null ],
+    [ "HandlePresence", "d5/db3/a17594.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
+    [ "OnCast", "d5/db3/a17594.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
+    [ "PrepareSpellScript", "d5/db3/a17594.html#abe559b32aa82f19abb0a6d664b75c748", null ],
+    [ "Register", "d5/db3/a17594.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
+    [ "Validate", "d5/db3/a17594.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
 ];

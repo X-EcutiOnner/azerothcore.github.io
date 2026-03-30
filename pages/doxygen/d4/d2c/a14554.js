@@ -1,9 +1,7 @@
 var a14554 =
 [
-    [ "npc_healing_ward", "d4/d2c/a14554.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "d4/d2c/a14554.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "d4/d2c/a14554.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "d4/d2c/a14554.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "d4/d2c/a14554.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "d4/d2c/a14554.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "FilterTargets", "d4/d2c/a14554.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "d4/d2c/a14554.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "d4/d2c/a14554.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "d4/d2c/a14554.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

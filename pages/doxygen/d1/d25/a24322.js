@@ -1,12 +1,6 @@
 var a24322 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d1/d25/a24322.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "d1/d25/a24322.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "DoNice", "d1/d25/a24322.html#aa673fc892b9c0d59b2789271140e6054", null ],
-    [ "JustEngagedWith", "d1/d25/a24322.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "d1/d25/a24322.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "UpdateAI", "d1/d25/a24322.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "CanDoQuest", "d1/d25/a24322.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
-    [ "Pulverize_Timer", "d1/d25/a24322.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
-    [ "UnkorUnfriendly_Timer", "d1/d25/a24322.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
+    [ "RaiseDeadCheck", "d1/d25/a24322.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "d1/d25/a24322.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "d1/d25/a24322.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

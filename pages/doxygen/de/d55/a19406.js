@@ -1,6 +1,7 @@
 var a19406 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "d3/d67/a19410.html", "d3/d67/a19410" ],
-    [ "instance_icecrown_citadel", "de/d55/a19406.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "de/d55/a19406.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "npc_naxxramas_trigger", "de/d55/a19406.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "de/d55/a19406.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "de/d55/a19406.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "de/d55/a19406.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

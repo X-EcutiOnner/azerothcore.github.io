@@ -1,6 +1,6 @@
 var a26554 =
 [
-    [ "HandleDummy", "da/d87/a26554.html#acb433ef020fbd090259ac969a35842ea", null ],
-    [ "PrepareSpellScript", "da/d87/a26554.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
-    [ "Register", "da/d87/a26554.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
+    [ "FilterTargets", "da/d87/a26554.html#a17626abdbc4066956b76945b11b3f0c6", null ],
+    [ "PrepareSpellScript", "da/d87/a26554.html#abfeb75060c1f930b33003dd1e458f882", null ],
+    [ "Register", "da/d87/a26554.html#a8e5146a57f181b17280d198bcd2e216d", null ]
 ];

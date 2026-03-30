@@ -1,6 +1,11 @@
 var a12550 =
 [
-    [ "boss_halyconAI", "d5/da1/a12554.html", "d5/da1/a12554" ],
-    [ "boss_halycon", "de/d7d/a12550.html#aa149c5f8b34b9c00102f9a0758dcbd9a", null ],
-    [ "GetAI", "de/d7d/a12550.html#a861f1b0213ad9bcf572c9d59eabba699", null ]
+    [ "boss_solakar_flamewreath", "de/d7d/a12550.html#aff732901de1306b363e5a3d9994b3c9b", null ],
+    [ "ExecuteEvent", "de/d7d/a12550.html#a72bf587aae341ba70bd219c8d97fe9a1", null ],
+    [ "InitializeAI", "de/d7d/a12550.html#a21875946b8e9cfa8711f36f98a61a034", null ],
+    [ "JustDied", "de/d7d/a12550.html#ae4d59238a359487e44985e040ee27732", null ],
+    [ "JustEngagedWith", "de/d7d/a12550.html#af6a0c97341547ea852d9a09d3b66358e", null ],
+    [ "Reset", "de/d7d/a12550.html#ae83c926a718af8ee0d90b8a9be800031", null ],
+    [ "UpdateAI", "de/d7d/a12550.html#ad211f24ce4019724060441529ceaa780", null ],
+    [ "resetTimer", "de/d7d/a12550.html#a602092d8262420bc51eef286b7c96d84", null ]
 ];

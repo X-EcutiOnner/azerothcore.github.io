@@ -1,6 +1,8 @@
 var a16262 =
 [
-    [ "creatureID", "d1/d6e/a16262.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "d1/d6e/a16262.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "d1/d6e/a16262.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "npc_twilight_summon", "d1/d6e/a16262.html#a34697edd1af94814862a50a038625f93", null ],
+    [ "DoAction", "d1/d6e/a16262.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
+    [ "Reset", "d1/d6e/a16262.html#aa909fac05e93a78d3f70222fb82a6841", null ],
+    [ "UpdateAI", "d1/d6e/a16262.html#afe47f7af23aa7ef5b59473579c649859", null ],
+    [ "fadeArmorTimer", "d1/d6e/a16262.html#a998e2efd9e25915d32b953d684352511", null ]
 ];

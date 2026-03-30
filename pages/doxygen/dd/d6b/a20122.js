@@ -1,6 +1,5 @@
 var a20122 =
 [
-    [ "go_celestial_planetarium_accessAI", "d5/df7/a20126.html", "d5/df7/a20126" ],
-    [ "go_celestial_planetarium_access", "dd/d6b/a20122.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "dd/d6b/a20122.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "achievement_smell_saronite", "dd/d6b/a20122.html#a42dce2aefa2561952dcf5289126035a8", null ],
+    [ "OnCheck", "dd/d6b/a20122.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
 ];

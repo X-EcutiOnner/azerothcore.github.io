@@ -1,6 +1,7 @@
 var a18470 =
 [
-    [ "npc_little_oozeAI", "d6/d4c/a18474.html", "d6/d4c/a18474" ],
-    [ "npc_little_ooze", "df/dfd/a18470.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
-    [ "GetAI", "df/dfd/a18470.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
+    [ "CheckTargetCount", "df/dfd/a18470.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
+    [ "PrepareSpellScript", "df/dfd/a18470.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
+    [ "Register", "df/dfd/a18470.html#a86e7512496fd38201d458c03a7a60296", null ],
+    [ "Validate", "df/dfd/a18470.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
 ];

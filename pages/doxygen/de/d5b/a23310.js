@@ -1,7 +1,7 @@
 var a23310 =
 [
-    [ "PeriodicTick", "de/d5b/a23310.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
-    [ "PrepareAuraScript", "de/d5b/a23310.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
-    [ "Register", "de/d5b/a23310.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
-    [ "Validate", "de/d5b/a23310.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
+    [ "FilterTargets", "de/d5b/a23310.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "de/d5b/a23310.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "de/d5b/a23310.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "de/d5b/a23310.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

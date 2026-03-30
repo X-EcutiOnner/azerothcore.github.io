@@ -1,5 +1,5 @@
 var a20230 =
 [
-    [ "achievement_auriaya_nine_lives", "d9/d65/a20230.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "d9/d65/a20230.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "achievement_staying_buffed_all_winter_25", "d9/d65/a20230.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "d9/d65/a20230.html#a36591082184bc8466e124bad9a910545", null ]
 ];

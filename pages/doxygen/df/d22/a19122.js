@@ -1,6 +1,7 @@
 var a19122 =
 [
-    [ "npc_crok_scourgebaneAI", "dc/dd8/a19126.html", "dc/dd8/a19126" ],
-    [ "npc_crok_scourgebane", "df/d22/a19122.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "df/d22/a19122.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "npc_ioc_gunship_captainAI", "df/d22/a19122.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "df/d22/a19122.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "df/d22/a19122.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "df/d22/a19122.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

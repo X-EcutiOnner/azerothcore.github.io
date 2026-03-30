@@ -1,7 +1,6 @@
 var a15526 =
 [
-    [ "go_sand_trap", "d5/d2b/a15526.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "d5/d2b/a15526.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "d5/d2b/a15526.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "d5/d2b/a15526.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d4/d4b/a15530.html", "d4/d4b/a15530" ],
+    [ "instance_temple_of_ahnqiraj", "d5/d2b/a15526.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "d5/d2b/a15526.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

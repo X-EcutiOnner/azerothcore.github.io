@@ -1,6 +1,7 @@
 var a23066 =
 [
-    [ "HandleScriptEffect", "db/d4a/a23066.html#a2b46490b70bf93effb7379686e648618", null ],
-    [ "PrepareSpellScript", "db/d4a/a23066.html#a5030d071372ef12663f6a75be637476e", null ],
-    [ "Register", "db/d4a/a23066.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
+    [ "boss_hydromancer_thespia", "db/d4a/a23066.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "db/d4a/a23066.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "db/d4a/a23066.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "db/d4a/a23066.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

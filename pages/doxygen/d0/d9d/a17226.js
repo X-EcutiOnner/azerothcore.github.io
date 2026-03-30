@@ -1,6 +1,13 @@
 var a17226 =
 [
-    [ "boss_trollgoreAI", "d2/dea/a17230.html", "d2/dea/a17230" ],
-    [ "boss_trollgore", "d0/d9d/a17226.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "d0/d9d/a17226.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "boss_tyrannusAI", "d0/d9d/a17226.html#a753de14d2cecaaed2c7b24e09397b008", null ],
+    [ "CanAIAttack", "d0/d9d/a17226.html#a0cb60f308637cbd152faf274b3e5f636", null ],
+    [ "DoAction", "d0/d9d/a17226.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
+    [ "EnterEvadeMode", "d0/d9d/a17226.html#a9d18bab323c676020dede77a498a5b77", null ],
+    [ "JustDied", "d0/d9d/a17226.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
+    [ "KilledUnit", "d0/d9d/a17226.html#abf7c8909143dac641c00cca160bef964", null ],
+    [ "Reset", "d0/d9d/a17226.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
+    [ "UpdateAI", "d0/d9d/a17226.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
+    [ "events", "d0/d9d/a17226.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
+    [ "pInstance", "d0/d9d/a17226.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
 ];

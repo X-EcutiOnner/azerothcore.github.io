@@ -1,7 +1,7 @@
 var a17990 =
 [
-    [ "HandleProc", "d3/dd4/a17990.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
-    [ "PrepareAuraScript", "d3/dd4/a17990.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
-    [ "Register", "d3/dd4/a17990.html#acc0881cf7379525a0841426867d2d850", null ],
-    [ "Validate", "d3/dd4/a17990.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
+    [ "npc_coldflameAI", "d3/dd4/a17990.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "d3/dd4/a17990.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "d3/dd4/a17990.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "d3/dd4/a17990.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

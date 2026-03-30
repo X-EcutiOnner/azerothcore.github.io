@@ -1,9 +1,7 @@
 var a22506 =
 [
-    [ "OPvPCapturePointGH", "d6/d15/a22506.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "d6/d15/a22506.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "d6/d15/a22506.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "d6/d15/a22506.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "d6/d15/a22506.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "d6/d15/a22506.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "VerasEnvenom", "d6/d15/a22506.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d6/d15/a22506.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d6/d15/a22506.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d6/d15/a22506.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

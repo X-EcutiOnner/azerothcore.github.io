@@ -1,5 +1,6 @@
 var a24454 =
 [
-    [ "npc_pet_pri_lightwell", "d6/d1d/a24454.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d6/d1d/a24454.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "CheckCast", "d6/d1d/a24454.html#a583e19667a83ada4cd793fbf391f9e93", null ],
+    [ "PrepareSpellScript", "d6/d1d/a24454.html#ac6adda0dbe544cf2457060647c01de0f", null ],
+    [ "Register", "d6/d1d/a24454.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
 ];

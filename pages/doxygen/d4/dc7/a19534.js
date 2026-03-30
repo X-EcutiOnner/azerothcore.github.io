@@ -1,7 +1,6 @@
 var a19534 =
 [
-    [ "FilterTargets", "d4/dc7/a19534.html#a56ff062a6014099623466145a66284cc", null ],
-    [ "PrepareSpellScript", "d4/dc7/a19534.html#aa14623bb948ff457e52979facf74ffab", null ],
-    [ "Register", "d4/dc7/a19534.html#a9494bea35088161c9a520395d714fde1", null ],
-    [ "Validate", "d4/dc7/a19534.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
+    [ "boss_drakosAI", "d2/d36/a19538.html", "d2/d36/a19538" ],
+    [ "boss_drakos", "d4/dc7/a19534.html#aa70ae2809af4f24eea0b83b42d695448", null ],
+    [ "GetAI", "d4/dc7/a19534.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
 ];

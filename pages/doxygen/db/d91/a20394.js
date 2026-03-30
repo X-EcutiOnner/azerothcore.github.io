@@ -1,6 +1,5 @@
 var a20394 =
 [
-    [ "achievement_freya_knock_on_wood", "db/d91/a20394.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "db/d91/a20394.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "db/d91/a20394.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "db/d91/a20394.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "db/d91/a20394.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

@@ -1,9 +1,6 @@
 var a12802 =
 [
-    [ "FilterTargets", "d1/ded/a12802.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d1/ded/a12802.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d1/ded/a12802.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d1/ded/a12802.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d1/ded/a12802.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d1/ded/a12802.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "HandleHit", "d1/ded/a12802.html#a5245f935c0cafd14e492214a51d85ad3", null ],
+    [ "PrepareSpellScript", "d1/ded/a12802.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
+    [ "Register", "d1/ded/a12802.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
 ];

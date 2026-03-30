@@ -1,5 +1,6 @@
 var a14498 =
 [
-    [ "at_zulgurub_entrance_speech", "db/d46/a14498.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "db/d46/a14498.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "HandleAfterHit", "db/d46/a14498.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
+    [ "PrepareSpellScript", "db/d46/a14498.html#a284796ec70bdfaea9919f54da94f0021", null ],
+    [ "Register", "db/d46/a14498.html#a30dcb608c20df17de9597ece1930d59d", null ]
 ];

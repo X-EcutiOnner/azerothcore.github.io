@@ -1,7 +1,6 @@
 var a27162 =
 [
-    [ "HandleScript", "dc/d84/a27162.html#aa00117e677af1e236962c59b688d8a98", null ],
-    [ "Load", "dc/d84/a27162.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
-    [ "PrepareSpellScript", "dc/d84/a27162.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
-    [ "Register", "dc/d84/a27162.html#a52d4828ccd5430a622a32b1279943f9b", null ]
+    [ "FilterTargets", "dc/d84/a27162.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
+    [ "PrepareSpellScript", "dc/d84/a27162.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
+    [ "Register", "dc/d84/a27162.html#abe63ec69fe15fd8924fb63235489e088", null ]
 ];

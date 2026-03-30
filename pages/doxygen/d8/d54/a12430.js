@@ -1,8 +1,8 @@
 var a12430 =
 [
-    [ "boss_evisceratorAI", "d8/d54/a12430.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
-    [ "DamageTaken", "d8/d54/a12430.html#aab3e8290963ca6c312715f18727d3e82", null ],
-    [ "JustEngagedWith", "d8/d54/a12430.html#a60f3942b352206888569f60776041a28", null ],
-    [ "UpdateAI", "d8/d54/a12430.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
-    [ "SpellShieldReady", "d8/d54/a12430.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
+    [ "npc_burning_spirit", "d8/d54/a12430.html#acb0a685ea9aaddd23580ebeb4a0f1e45", null ],
+    [ "EnterEvadeMode", "d8/d54/a12430.html#a162d280d1fc53de0655c99efce81c539", null ],
+    [ "IsSummonedBy", "d8/d54/a12430.html#a3ef47ad5f1697f3a890469412e43c452", null ],
+    [ "MovementInform", "d8/d54/a12430.html#a4c001de653aa8b096552247f5cbf1573", null ],
+    [ "_flamelasherGUID", "d8/d54/a12430.html#aea694b777b8437b5909bd668279837b1", null ]
 ];

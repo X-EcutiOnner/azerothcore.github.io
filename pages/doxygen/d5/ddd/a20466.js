@@ -1,15 +1,12 @@
 var a20466 =
 [
-    [ "npc_ulduar_hodir_shaman", "d5/ddd/a20466.html#a6630f2da1a4e1f19b698e9520040b059", null ],
-    [ "AttackStart", "d5/ddd/a20466.html#a933908d61afac33002411874060c0f74", null ],
-    [ "CanAIAttack", "d5/ddd/a20466.html#a8907c7300cef735a70b088de3c16cfb9", null ],
-    [ "EnterEvadeMode", "d5/ddd/a20466.html#afa6124e630cd878659172a06df68d39f", null ],
-    [ "JustDied", "d5/ddd/a20466.html#a08af85d3446c86443ff5a620b159d000", null ],
-    [ "MoveInLineOfSight", "d5/ddd/a20466.html#a29de52dcae485f00403dae8e28ff1395", null ],
-    [ "ScheduleAbilities", "d5/ddd/a20466.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
-    [ "SpellHit", "d5/ddd/a20466.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
-    [ "SpellHitTarget", "d5/ddd/a20466.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
-    [ "UpdateAI", "d5/ddd/a20466.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
-    [ "events", "d5/ddd/a20466.html#a7e147f6f230513cfb666473c61ab4be4", null ],
-    [ "pInstance", "d5/ddd/a20466.html#a05d8e52fa793df7e0a261cfa7ac3d499", null ]
+    [ "boss_thorim_start_npcs", "d5/ddd/a20466.html#a3ed7da48fc86ea00124181bb943a778d", null ],
+    [ "DamageTaken", "d5/ddd/a20466.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
+    [ "JustDied", "d5/ddd/a20466.html#af5a00c3bc633464e9fd5d02991845294", null ],
+    [ "JustEngagedWith", "d5/ddd/a20466.html#a636dd7264dd01aa5fc3c69af17425103", null ],
+    [ "Reset", "d5/ddd/a20466.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
+    [ "UpdateAI", "d5/ddd/a20466.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
+    [ "_isCaster", "d5/ddd/a20466.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
+    [ "_playerAttack", "d5/ddd/a20466.html#ab1bf0c011692377fc591610c5131d5e2", null ],
+    [ "events", "d5/ddd/a20466.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
 ];

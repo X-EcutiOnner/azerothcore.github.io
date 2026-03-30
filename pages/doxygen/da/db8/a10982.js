@@ -1,9 +1,7 @@
 var a10982 =
 [
-    [ "GuildBankUpdateTab", "da/db8/a10982.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
-    [ "Read", "da/db8/a10982.html#ac261ff0102489efb4d69bd866ffc9283", null ],
-    [ "Banker", "da/db8/a10982.html#a7ab950cee095221f9114224a624d46db", null ],
-    [ "BankTab", "da/db8/a10982.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
-    [ "Icon", "da/db8/a10982.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
-    [ "Name", "da/db8/a10982.html#a44261fbc379b3137548922faf4b5cbda", null ]
+    [ "GuildSetMemberNote", "da/db8/a10982.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "da/db8/a10982.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "da/db8/a10982.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "da/db8/a10982.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

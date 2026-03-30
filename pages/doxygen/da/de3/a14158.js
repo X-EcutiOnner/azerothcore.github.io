@@ -1,7 +1,7 @@
 var a14158 =
 [
-    [ "npc_deathstalker_erlandAI", "d0/d46/a14162.html", "d0/d46/a14162" ],
-    [ "npc_deathstalker_erland", "da/de3/a14158.html#ad49faf068e982f245f0d1e21f0700c40", null ],
-    [ "GetAI", "da/de3/a14158.html#ab59235f212ddb985056cb8e32719b723", null ],
-    [ "OnQuestAccept", "da/de3/a14158.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
+    [ "OnPeriodic", "da/de3/a14158.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "da/de3/a14158.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "da/de3/a14158.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "da/de3/a14158.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

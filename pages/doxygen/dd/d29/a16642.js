@@ -1,10 +1,11 @@
 var a16642 =
 [
-    [ "spell_halion_damage_aoe_summon", "dd/d29/a16642.html#a6152e7a0515076af2c7c2155506257b0", null ],
-    [ "HandleSummon", "dd/d29/a16642.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
-    [ "PrepareSpellScript", "dd/d29/a16642.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
-    [ "Register", "dd/d29/a16642.html#aa1f9239a2910d53c85539abba6333893", null ],
-    [ "Validate", "dd/d29/a16642.html#acb359257b29354b5962d9865e06137e7", null ],
-    [ "_auraSpell", "dd/d29/a16642.html#a497a74eca703470964157639a6f372e2", null ],
-    [ "_explosionSpell", "dd/d29/a16642.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
+    [ "npc_anubarak_spikeAI", "dd/d29/a16642.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
+    [ "DamageTaken", "dd/d29/a16642.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
+    [ "DoAction", "dd/d29/a16642.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
+    [ "Reset", "dd/d29/a16642.html#af5b4a1227467d86d9dbba57362fdf360", null ],
+    [ "SelectNewTarget", "dd/d29/a16642.html#ab9ed5d53703464c488267f578a214fb8", null ],
+    [ "UpdateAI", "dd/d29/a16642.html#af8d6d840785c718d963c7b150cd12d9c", null ],
+    [ "events", "dd/d29/a16642.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
+    [ "TargetGUID", "dd/d29/a16642.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
 ];

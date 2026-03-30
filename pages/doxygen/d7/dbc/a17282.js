@@ -1,7 +1,9 @@
 var a17282 =
 [
-    [ "HandlePeriodicTick", "d7/dbc/a17282.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
-    [ "PrepareAuraScript", "d7/dbc/a17282.html#aabaef31a3c699c322e24e064f357f82f", null ],
-    [ "Register", "d7/dbc/a17282.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
-    [ "Validate", "d7/dbc/a17282.html#a18d92a82760992bc5d8503e3f774f208", null ]
+    [ "npc_pos_collapsing_icicleAI", "d7/dbc/a17282.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
+    [ "SpellHitTarget", "d7/dbc/a17282.html#aea107ede3b11726b3f7caae590edaf52", null ],
+    [ "UpdateAI", "d7/dbc/a17282.html#ade416a422e67ce61e8874320cce7143b", null ],
+    [ "pInstance", "d7/dbc/a17282.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
+    [ "timer1", "d7/dbc/a17282.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
+    [ "timer2", "d7/dbc/a17282.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
 ];

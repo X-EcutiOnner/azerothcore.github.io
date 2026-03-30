@@ -1,7 +1,5 @@
 var a20498 =
 [
-    [ "HandleEffectPeriodic", "d7/d3e/a20498.html#af6c50396e9b47cd909184aea80244728", null ],
-    [ "PrepareAuraScript", "d7/d3e/a20498.html#aeb41825334049c8e3a39b48cbf271477", null ],
-    [ "Register", "d7/d3e/a20498.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
-    [ "Validate", "d7/d3e/a20498.html#a0098e4949fc75b1a2464128f4df869aa", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "d7/d3e/a20498.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "d7/d3e/a20498.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

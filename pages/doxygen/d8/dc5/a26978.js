@@ -1,6 +1,6 @@
 var a26978 =
 [
-    [ "CheckDummy", "d8/dc5/a26978.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
-    [ "PrepareAuraScript", "d8/dc5/a26978.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
-    [ "Register", "d8/dc5/a26978.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
+    [ "CheckProc", "d8/dc5/a26978.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
+    [ "PrepareAuraScript", "d8/dc5/a26978.html#af15109e926eb717c3f3cb2f7f617428c", null ],
+    [ "Register", "d8/dc5/a26978.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
 ];

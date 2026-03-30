@@ -1,6 +1,6 @@
 var a21542 =
 [
-    [ "npc_iruk", "de/dc4/a21542.html#a721aeefd23371cc6bc16738a797bf50a", null ],
-    [ "OnGossipHello", "de/dc4/a21542.html#a774669099330c75ab5e0bea8d460f517", null ],
-    [ "OnGossipSelect", "de/dc4/a21542.html#ae6f7d54d224488a9e29c59c560eba471", null ]
+    [ "npc_q24545_vegard_dummyAI", "d9/dae/a21546.html", "d9/dae/a21546" ],
+    [ "npc_q24545_vegard_dummy", "de/dc4/a21542.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "de/dc4/a21542.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

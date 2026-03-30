@@ -1,7 +1,8 @@
 var a20402 =
 [
-    [ "npc_ulduar_saronite_vapors", "d6/d33/a20402.html#a1b582f4b98f596d701d9f5742d345e44", null ],
-    [ "IsSummonedBy", "d6/d33/a20402.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
-    [ "JustDied", "d6/d33/a20402.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "pInstance", "d6/d33/a20402.html#aaa51547a77bcd8aa53c7a057e3ca37d6", null ]
+    [ "npc_ulduar_expedition_commanderAI", "dd/d80/a20406.html", "dd/d80/a20406" ],
+    [ "npc_ulduar_expedition_commander", "d6/d33/a20402.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
+    [ "GetAI", "d6/d33/a20402.html#aa888a3634a643a103075d44c8f52d28a", null ],
+    [ "OnGossipHello", "d6/d33/a20402.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
+    [ "OnGossipSelect", "d6/d33/a20402.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
 ];

@@ -1,19 +1,12 @@
 var a28442 =
 [
-    [ "npc_simoneAI", "d5/d24/a28442.html#ab33ec5a76f35bfd088a3d316df5c091c", null ],
-    [ "CorpseRemoved", "d5/d24/a28442.html#a0bc792b39b9d17a71c86756d2c7b9af0", null ],
-    [ "HandlePetRespawn", "d5/d24/a28442.html#a0d07b3f85a99ce3c0a1d4c482547113f", null ],
-    [ "JustDied", "d5/d24/a28442.html#a1c275b32a6d4730657e26e5a9c305eb6", null ],
-    [ "JustEngagedWith", "d5/d24/a28442.html#a17cad19f460d6cbfe2258ada48de46cd", null ],
-    [ "JustRespawned", "d5/d24/a28442.html#af456d04fec4a22fa6662ab5a0ccb902b", null ],
-    [ "Precious", "d5/d24/a28442.html#ad40c5f293558ca5a00614810a89d86c9", null ],
-    [ "PreciousAI", "d5/d24/a28442.html#acbdf0e5404402edf28fecf8657303aba", null ],
-    [ "Reset", "d5/d24/a28442.html#a1a62a843922448390151ed14e0ca2148", null ],
-    [ "RespawnPet", "d5/d24/a28442.html#af6d0cad159d88862e915c9f9337a49e3", null ],
-    [ "ScheduleEncounterStart", "d5/d24/a28442.html#ab879f0b452e511212be4df530b11d461", null ],
-    [ "SetPreciousGUID", "d5/d24/a28442.html#a1b735e7c99ba743c74c10911ec08f12b", null ],
-    [ "SpellHit", "d5/d24/a28442.html#ad50d1248c8a608c52d18ddb9d28168d9", null ],
-    [ "UpdateAI", "d5/d24/a28442.html#ae20237221e1fb3699cfe723c48d5bbf7", null ],
-    [ "events", "d5/d24/a28442.html#a1118fe0b8375db5327a9651a13832523", null ],
-    [ "preciousGUID", "d5/d24/a28442.html#a698a3015b5ad25dfd9ec07dfbb991ea8", null ]
+    [ "categoryId", "d5/d24/a28442.html#a1de0e4302757f18c08b90b40e059737b", null ],
+    [ "count", "d5/d24/a28442.html#a93aac150067979467f56d9919ff665a4", null ],
+    [ "flags", "d5/d24/a28442.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
+    [ "ID", "d5/d24/a28442.html#a843fee247948d02f7aaf04144cb37ef5", null ],
+    [ "mapID", "d5/d24/a28442.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
+    [ "name", "d5/d24/a28442.html#a806cfeddc475994f1b421679bd9699e6", null ],
+    [ "points", "d5/d24/a28442.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
+    [ "refAchievement", "d5/d24/a28442.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
+    [ "requiredFaction", "d5/d24/a28442.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
 ];

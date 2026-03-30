@@ -1,5 +1,7 @@
 var a18590 =
 [
-    [ "operator()", "d8/d3c/a18590.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "d8/d3c/a18590.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "OnPeriodic", "d8/d3c/a18590.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "d8/d3c/a18590.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "d8/d3c/a18590.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "d8/d3c/a18590.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

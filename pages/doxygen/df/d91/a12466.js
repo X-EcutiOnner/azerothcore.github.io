@@ -1,6 +1,7 @@
 var a12466 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "df/d92/a12470.html", "df/d92/a12470" ],
-    [ "boss_high_interrogator_gerstahn", "df/d91/a12466.html#a700eb542c041e9ca540f2676fc42aff9", null ],
-    [ "GetAI", "df/d91/a12466.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
+    [ "boss_magmus", "df/d91/a12466.html#aacd115473f44148837153a3a5842748c", null ],
+    [ "JustEngagedWith", "df/d91/a12466.html#a810cd11145957fe02f2099e9db7e59c8", null ],
+    [ "Reset", "df/d91/a12466.html#af12976d66c690add0d08968799946174", null ],
+    [ "UpdateAI", "df/d91/a12466.html#ab3e7dc0c1917a67ee9fe532239125b00", null ]
 ];

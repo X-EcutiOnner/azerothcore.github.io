@@ -1,5 +1,6 @@
 var a20618 =
 [
-    [ "achievement_kologarn_with_open_arms", "d6/d75/a20618.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "d6/d75/a20618.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "boss_yoggsaron_influence_tentacle", "d6/d75/a20618.html#ac5908d64a4749303a08d352d470995dd", null ],
+    [ "DamageTaken", "d6/d75/a20618.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "d6/d75/a20618.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

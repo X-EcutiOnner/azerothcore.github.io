@@ -1,8 +1,8 @@
 var a29426 =
 [
-    [ "TimeSeg", "d6/d1f/a29426.html#ab94639ba8e26b215ebd31163967574d3", null ],
-    [ "TransportEntry", "d6/d1f/a29426.html#a859d25b3c11839ad7e37facd40dc79df", null ],
-    [ "X", "d6/d1f/a29426.html#a8fbd166503396e33a4ad77448bf307ea", null ],
-    [ "Y", "d6/d1f/a29426.html#a67c279b26cebd8e5c81c36576b145af6", null ],
-    [ "Z", "d6/d1f/a29426.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
+    [ "CreateCCEffect", "d6/d1f/a29426.html#a90bb496c51cd49d187389e714360afca", null ],
+    [ "SetUp", "d6/d1f/a29426.html#af90043fc0fe122bcbb1c60efcb56a92b", null ],
+    [ "TearDown", "d6/d1f/a29426.html#a7c3946d9acc7dbcc36c56071e165f6d9", null ],
+    [ "_originalWorld", "d6/d1f/a29426.html#a2006a12966a8875132c3a2c0b905e1f8", null ],
+    [ "_worldMock", "d6/d1f/a29426.html#ad18ef661fd5ab748c1c2c5d193b2a7d0", null ]
 ];

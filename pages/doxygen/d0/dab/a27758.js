@@ -1,6 +1,6 @@
 var a27758 =
 [
-    [ "PrepareAuraScript", "d0/dab/a27758.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "d0/dab/a27758.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "d0/dab/a27758.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "AreaTrigger_at_brewfest", "d0/dab/a27758.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "d0/dab/a27758.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "d0/dab/a27758.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

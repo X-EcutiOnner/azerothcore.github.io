@@ -1,6 +1,6 @@
 var a16450 =
 [
-    [ "boss_krik_thirAI", "d5/d4d/a16454.html", "d5/d4d/a16454" ],
-    [ "boss_krik_thir", "da/d1f/a16450.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "da/d1f/a16450.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "npc_living_infernoAI", "d5/d4d/a16454.html", "d5/d4d/a16454" ],
+    [ "npc_living_inferno", "da/d1f/a16450.html#a7df2bb522e67b6f1864604c7b0182078", null ],
+    [ "GetAI", "da/d1f/a16450.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
 ];

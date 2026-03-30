@@ -1,7 +1,18 @@
 var a17190 =
 [
-    [ "HandleScriptEffect", "d7/df7/a17190.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "d7/df7/a17190.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "d7/df7/a17190.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "d7/df7/a17190.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "boss_garfrostAI", "d7/df7/a17190.html#af9f0a6bc8b982b025312d6b2c1f91549", null ],
+    [ "DamageTaken", "d7/df7/a17190.html#a7a033f54f2c994c74b7125fb549af513", null ],
+    [ "EnterEvadeMode", "d7/df7/a17190.html#acca25c3bf34760ed1f0e451d8d304ab6", null ],
+    [ "JustDied", "d7/df7/a17190.html#a6439d3163c49973b36ae10c85b9dd11e", null ],
+    [ "JustEngagedWith", "d7/df7/a17190.html#a06e1b8d8e0b1f0fd5fac0b2a4bad4ad6", null ],
+    [ "KilledUnit", "d7/df7/a17190.html#af3751410e925a20c21b282d1b2de3bf3", null ],
+    [ "MovementInform", "d7/df7/a17190.html#aadebdb2dd4402be150711f98dfab3f5f", null ],
+    [ "Reset", "d7/df7/a17190.html#a916fd78cf3fd309ab8b13c96325002f2", null ],
+    [ "SetData", "d7/df7/a17190.html#a3563e70e731836857837b1d4ac135130", null ],
+    [ "SpellHitTarget", "d7/df7/a17190.html#ab7a4941d3d4565215ab3ac200ee1d534", null ],
+    [ "UpdateAI", "d7/df7/a17190.html#a27cf76c48504dfb21f1a4a0caf9dd4cb", null ],
+    [ "bCanSayBoulderHit", "d7/df7/a17190.html#a587196314c341334418ea19c7f9ea597", null ],
+    [ "events", "d7/df7/a17190.html#addafeb61c54f95e71d9c45de3bddd25b", null ],
+    [ "phase", "d7/df7/a17190.html#a917a6a57e8c55b9be92f01e2e7422508", null ],
+    [ "pInstance", "d7/df7/a17190.html#a57ded0b0c7085ea978c01efa28e7d096", null ]
 ];

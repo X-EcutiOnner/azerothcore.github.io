@@ -1,10 +1,13 @@
 var a10514 =
 [
-    [ "AllItemScript", "db/ddb/a10514.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
-    [ "CanItemExpire", "db/ddb/a10514.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
-    [ "CanItemQuestAccept", "db/ddb/a10514.html#a545e2bc7436a064146025954eaf5ae92", null ],
-    [ "CanItemRemove", "db/ddb/a10514.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
-    [ "CanItemUse", "db/ddb/a10514.html#a89d237f426840658e4423fb9cc7428db", null ],
-    [ "OnItemGossipSelect", "db/ddb/a10514.html#a7157f72c6d09988b60480d1671892cde", null ],
-    [ "OnItemGossipSelectCode", "db/ddb/a10514.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
+    [ "AccountScript", "db/ddb/a10514.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
+    [ "CanAccountCreateCharacter", "db/ddb/a10514.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
+    [ "OnAccountLogin", "db/ddb/a10514.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
+    [ "OnBeforeAccountDelete", "db/ddb/a10514.html#a631f7deca08644da2613142c667618a8", null ],
+    [ "OnEmailChange", "db/ddb/a10514.html#adf20bd20cdc97b91db664dca95f82670", null ],
+    [ "OnFailedAccountLogin", "db/ddb/a10514.html#aae3401d74bdc9e8328a5f084462ae740", null ],
+    [ "OnFailedEmailChange", "db/ddb/a10514.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
+    [ "OnFailedPasswordChange", "db/ddb/a10514.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
+    [ "OnLastIpUpdate", "db/ddb/a10514.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
+    [ "OnPasswordChange", "db/ddb/a10514.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
 ];

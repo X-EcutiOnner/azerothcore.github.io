@@ -1,6 +1,10 @@
 var a11774 =
 [
-    [ "ObjectTargetSelectHandler", "da/d9a/a11774.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
-    [ "Call", "da/d9a/a11774.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
-    [ "pObjectTargetSelectHandlerScript", "da/d9a/a11774.html#a6982985537c0ddb8dd79647766c9ae70", null ]
+    [ "EffectHook", "da/d9a/a11774.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "da/d9a/a11774.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "da/d9a/a11774.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "da/d9a/a11774.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "da/d9a/a11774.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "da/d9a/a11774.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "da/d9a/a11774.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

@@ -1,7 +1,9 @@
 var a20374 =
 [
-    [ "boss_freya_lifebinder", "de/d29/a20374.html#a1784d6e975192a7442cabb14f688737d", null ],
-    [ "Reset", "de/d29/a20374.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
-    [ "UpdateAI", "de/d29/a20374.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
-    [ "_healTimer", "de/d29/a20374.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
+    [ "npc_ulduar_emergency_fire_bot", "de/d29/a20374.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
+    [ "AttackStart", "de/d29/a20374.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
+    [ "MoveInLineOfSight", "de/d29/a20374.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
+    [ "MovementInform", "de/d29/a20374.html#a6f7306e3da54511ddbef772044f76950", null ],
+    [ "UpdateAI", "de/d29/a20374.html#a653df31873aca5acb86020cc1e14f4a0", null ],
+    [ "_events", "de/d29/a20374.html#a99f051bd7a1136375103005f0615c4f2", null ]
 ];

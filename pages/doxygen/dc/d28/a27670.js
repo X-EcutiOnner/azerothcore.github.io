@@ -1,11 +1,5 @@
 var a27670 =
 [
-    [ "CalcPeriodic", "dc/d28/a27670.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "dc/d28/a27670.html#a55f649687813eb915c71ead6afb27276", null ],
-    [ "CalculateResistanceAmount", "dc/d28/a27670.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "dc/d28/a27670.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "dc/d28/a27670.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "dc/d28/a27670.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "dc/d28/a27670.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "dc/d28/a27670.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "achievement_bg_ic_mowed_down", "dc/d28/a27670.html#ab05387d1e14958e87123bd0fc2188445", null ],
+    [ "OnCheck", "dc/d28/a27670.html#a385e09c605084900f374090e5e19c24f", null ]
 ];
