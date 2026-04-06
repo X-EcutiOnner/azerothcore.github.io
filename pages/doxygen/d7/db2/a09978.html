@@ -201,10 +201,10 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  405</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#aec6043508b50b16f04e9b4fbf8742677">randomSuffix</a> = <a class="code hl_function" href="../../d4/d0f/a04625.html#a25026e783b088b45eebd4db8295b1b87">GenerateEnchSuffixFactor</a>(<a class="code hl_variable" href="../../d7/db2/a09978.html#a03aad2576badecebacfb0f4658fdbf4c">itemid</a>);</div>
 <div class="line"><span class="lineno">  406</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#a665a75643f49ee93f469b7b7bc52a928">randomPropertyId</a> = <a class="code hl_function" href="../../d4/d3a/a08610.html#ae5bab1b6039d2fe72fbffda36bb47906">Item::GenerateItemRandomPropertyId</a>(<a class="code hl_variable" href="../../d7/db2/a09978.html#a03aad2576badecebacfb0f4658fdbf4c">itemid</a>);</div>
 <div class="line"><span class="lineno">  407</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#a8b08275cd4e1ebabc389fc2e933b1be5">count</a> = 0;</div>
-<div class="line"><span class="lineno">  408</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#a9021fa353f7538706349702498a4e778">is_looted</a> = 0;</div>
-<div class="line"><span class="lineno">  409</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#a0e1dbe84cef1c5f3111b08f25dbb859d">is_blocked</a> = 0;</div>
-<div class="line"><span class="lineno">  410</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#a4d18c53f68ff454b7521e8afcab85b24">is_underthreshold</a> = 0;</div>
-<div class="line"><span class="lineno">  411</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#af50758cf8e8ad77e42197b13d849ae08">is_counted</a> = 0;</div>
+<div class="line"><span class="lineno">  408</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#a9021fa353f7538706349702498a4e778">is_looted</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  409</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#a0e1dbe84cef1c5f3111b08f25dbb859d">is_blocked</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  410</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#a4d18c53f68ff454b7521e8afcab85b24">is_underthreshold</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  411</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#af50758cf8e8ad77e42197b13d849ae08">is_counted</a> = <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  412</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#a2d10d36b949b8adc0c463912b3f04768">rollWinnerGUID</a> = <a class="code hl_variable" href="../../de/d59/a08702.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>;</div>
 <div class="line"><span class="lineno">  413</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#a25903e281fe742404fd8ddef6c3c53bd">groupid</a> = li.groupid;</div>
 <div class="line"><span class="lineno">  414</span>}</div>
@@ -278,14 +278,14 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  454</span>{</div>
-<div class="line"><span class="lineno">  455</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#a04c38e7bde56fff42ed3fdd59fa2ec3c">allowedGUIDs</a>.insert(player-&gt;GetGUID());</div>
-<div class="line"><span class="lineno">  456</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  472</span>{</div>
+<div class="line"><span class="lineno">  473</span>    <a class="code hl_variable" href="../../d7/db2/a09978.html#a04c38e7bde56fff42ed3fdd59fa2ec3c">allowedGUIDs</a>.insert(player-&gt;GetGUID());</div>
+<div class="line"><span class="lineno">  474</span>}</div>
 <div class="ttc" id="aa09978_html_a04c38e7bde56fff42ed3fdd59fa2ec3c"><div class="ttname"><a href="../../d7/db2/a09978.html#a04c38e7bde56fff42ed3fdd59fa2ec3c">LootItem::allowedGUIDs</a></div><div class="ttdeci">AllowedLooterSet allowedGUIDs</div><div class="ttdef"><b>Definition:</b> LootMgr.h:160</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00160">allowedGUIDs</a>, and <a class="el" href="../../#l00114">Object::GetGUID()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00690">Loot::FillNonQuestNonFFAConditionalLoot()</a>, and <a class="el" href="../../#l00638">Loot::FillQuestLoot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00708">Loot::FillNonQuestNonFFAConditionalLoot()</a>, and <a class="el" href="../../#l00656">Loot::FillQuestLoot()</a>.</p>
 
 </div>
 </div>
@@ -340,20 +340,40 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  441</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  442</span> </div>
 <div class="line"><span class="lineno">  443</span>    <span class="comment">// check quest requirements</span></div>
-<div class="line"><span class="lineno">  444</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/db2/a09978.html#a37ee3823a2144ed57f754d826fcbc093">needs_quest</a> &amp;&amp; !pProto-&gt;<a class="code hl_function" href="../../df/d76/a08634.html#a0d331f6b24699e18a74f995951353b91">HasFlagCu</a>(<a class="code hl_enumvalue" href="../../d0/dbd/a04634.html#aa1ee2102af8cb07505c512907199518da473c1accfe5a30bf857e25fb552bde3a">ITEM_FLAGS_CU_IGNORE_QUEST_STATUS</a>) &amp;&amp; !player-&gt;HasQuestForItem(<a class="code hl_variable" href="../../d7/db2/a09978.html#a03aad2576badecebacfb0f4658fdbf4c">itemid</a>))</div>
-<div class="line"><span class="lineno">  445</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  446</span> </div>
-<div class="line"><span class="lineno">  447</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d0/ddf/a03935.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnAllowedForPlayerLootCheck(player, source))</div>
-<div class="line"><span class="lineno">  448</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  449</span> </div>
-<div class="line"><span class="lineno">  450</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  451</span>}</div>
+<div class="line"><span class="lineno">  444</span>    <span class="keywordflow">if</span> (!pProto-&gt;<a class="code hl_function" href="../../df/d76/a08634.html#a0d331f6b24699e18a74f995951353b91">HasFlagCu</a>(<a class="code hl_enumvalue" href="../../d0/dbd/a04634.html#aa1ee2102af8cb07505c512907199518da473c1accfe5a30bf857e25fb552bde3a">ITEM_FLAGS_CU_IGNORE_QUEST_STATUS</a>))</div>
+<div class="line"><span class="lineno">  445</span>    {</div>
+<div class="line"><span class="lineno">  446</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/db2/a09978.html#a37ee3823a2144ed57f754d826fcbc093">needs_quest</a> &amp;&amp; !player-&gt;HasQuestForItem(<a class="code hl_variable" href="../../d7/db2/a09978.html#a03aad2576badecebacfb0f4658fdbf4c">itemid</a>))</div>
+<div class="line"><span class="lineno">  447</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  448</span> </div>
+<div class="line"><span class="lineno">  449</span>        <span class="comment">// Hide quest starter items when quest is already started/rewarded,</span></div>
+<div class="line"><span class="lineno">  450</span>        <span class="comment">// when unique count is already reached, or when prerequisite is missing.</span></div>
+<div class="line"><span class="lineno">  451</span>        <span class="keywordflow">if</span> (pProto-&gt;<a class="code hl_variable" href="../../df/d76/a08634.html#aef5389c8385f5729a2471d7ef144f05a">StartQuest</a>)</div>
+<div class="line"><span class="lineno">  452</span>        {</div>
+<div class="line"><span class="lineno">  453</span>            <a class="code hl_typedef" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> prevQuestId = 0;</div>
+<div class="line"><span class="lineno">  454</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d5f/a10498.html">Quest</a> <span class="keyword">const</span>* startQuest = <a class="code hl_define" href="../../d6/d34/a04823.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetQuestTemplate(pProto-&gt;<a class="code hl_variable" href="../../df/d76/a08634.html#aef5389c8385f5729a2471d7ef144f05a">StartQuest</a>))</div>
+<div class="line"><span class="lineno">  455</span>                prevQuestId = startQuest-&gt;GetPrevQuestId();</div>
+<div class="line"><span class="lineno">  456</span> </div>
+<div class="line"><span class="lineno">  457</span>            <span class="keywordflow">if</span> (player-&gt;GetQuestStatus(pProto-&gt;<a class="code hl_variable" href="../../df/d76/a08634.html#aef5389c8385f5729a2471d7ef144f05a">StartQuest</a>) != <a class="code hl_enumvalue" href="../../dd/d27/a03989.html#abfc87d39d69176ad25e800fb4aa6f0d8abefdf5f7417012e5d2adedf1dc155f28">QUEST_STATUS_NONE</a> ||</div>
+<div class="line"><span class="lineno">  458</span>                player-&gt;GetQuestRewardStatus(pProto-&gt;<a class="code hl_variable" href="../../df/d76/a08634.html#aef5389c8385f5729a2471d7ef144f05a">StartQuest</a>) ||</div>
+<div class="line"><span class="lineno">  459</span>                (pProto-&gt;<a class="code hl_variable" href="../../df/d76/a08634.html#a2c13c4c1edbd3add9c6e0e2263f6c717">MaxCount</a> &amp;&amp; player-&gt;HasItemCount(<a class="code hl_variable" href="../../d7/db2/a09978.html#a03aad2576badecebacfb0f4658fdbf4c">itemid</a>, pProto-&gt;<a class="code hl_variable" href="../../df/d76/a08634.html#a2c13c4c1edbd3add9c6e0e2263f6c717">MaxCount</a>, <span class="keyword">true</span>)) ||</div>
+<div class="line"><span class="lineno">  460</span>                (prevQuestId &amp;&amp; !player-&gt;GetQuestRewardStatus(prevQuestId)))</div>
+<div class="line"><span class="lineno">  461</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  462</span>        }</div>
+<div class="line"><span class="lineno">  463</span>    }</div>
+<div class="line"><span class="lineno">  464</span> </div>
+<div class="line"><span class="lineno">  465</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d0/ddf/a03935.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnAllowedForPlayerLootCheck(player, source))</div>
+<div class="line"><span class="lineno">  466</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  467</span> </div>
+<div class="line"><span class="lineno">  468</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  469</span>}</div>
+<div class="ttc" id="aa00494_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 <div class="ttc" id="aa03062_html_abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e"><div class="ttname"><a href="../../d6/d2a/a03062.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a></div><div class="ttdeci">@ TEAM_ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:748</div></div>
 <div class="ttc" id="aa03062_html_abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a"><div class="ttname"><a href="../../d6/d2a/a03062.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a></div><div class="ttdeci">@ TEAM_HORDE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:749</div></div>
 <div class="ttc" id="aa03299_html_a5ab0412c3dc24dbd690ba6d7f01657f8"><div class="ttname"><a href="../../d8/de2/a03299.html#a5ab0412c3dc24dbd690ba6d7f01657f8">sConditionMgr</a></div><div class="ttdeci">#define sConditionMgr</div><div class="ttdef"><b>Definition:</b> ConditionMgr.h:292</div></div>
 <div class="ttc" id="aa03305_html_a1a184d22bd27210ea5af79573927826a"><div class="ttname"><a href="../../d3/d34/a03305.html#a1a184d22bd27210ea5af79573927826a">sDisableMgr</a></div><div class="ttdeci">#define sDisableMgr</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:88</div></div>
 <div class="ttc" id="aa03305_html_affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f"><div class="ttname"><a href="../../d3/d34/a03305.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f">DISABLE_TYPE_LOOT</a></div><div class="ttdeci">@ DISABLE_TYPE_LOOT</div><div class="ttdef"><b>Definition:</b> DisableMgr.h:38</div></div>
 <div class="ttc" id="aa03935_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d0/ddf/a03935.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:735</div></div>
+<div class="ttc" id="aa03989_html_abfc87d39d69176ad25e800fb4aa6f0d8abefdf5f7417012e5d2adedf1dc155f28"><div class="ttname"><a href="../../dd/d27/a03989.html#abfc87d39d69176ad25e800fb4aa6f0d8abefdf5f7417012e5d2adedf1dc155f28">QUEST_STATUS_NONE</a></div><div class="ttdeci">@ QUEST_STATUS_NONE</div><div class="ttdef"><b>Definition:</b> QuestDef.h:100</div></div>
 <div class="ttc" id="aa04634_html_a0d6f7a9b6ecc402cd8d937310f7c87dfa878084d5c25c767f31272e6c738081e8"><div class="ttname"><a href="../../d0/dbd/a04634.html#a0d6f7a9b6ecc402cd8d937310f7c87dfa878084d5c25c767f31272e6c738081e8">ITEM_FLAG2_FACTION_HORDE</a></div><div class="ttdeci">@ ITEM_FLAG2_FACTION_HORDE</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:183</div></div>
 <div class="ttc" id="aa04634_html_a0d6f7a9b6ecc402cd8d937310f7c87dfaaa8555989093c0f24796f6d7b408c12a"><div class="ttname"><a href="../../d0/dbd/a04634.html#a0d6f7a9b6ecc402cd8d937310f7c87dfaaa8555989093c0f24796f6d7b408c12a">ITEM_FLAG2_FACTION_ALLIANCE</a></div><div class="ttdeci">@ ITEM_FLAG2_FACTION_ALLIANCE</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:184</div></div>
 <div class="ttc" id="aa04634_html_a40a08686fc4f70e1f190b17397f25571a648fd3e8362c1311f087220c66f58538"><div class="ttname"><a href="../../d0/dbd/a04634.html#a40a08686fc4f70e1f190b17397f25571a648fd3e8362c1311f087220c66f58538">ITEM_FLAG_HIDE_UNUSABLE_RECIPE</a></div><div class="ttdeci">@ ITEM_FLAG_HIDE_UNUSABLE_RECIPE</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:172</div></div>
@@ -362,15 +382,18 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="aa04634_html_ab76605e05d3b13f61472b9a89cd22a68a27b4e3d2f2d141bd2d795b741d82f87e"><div class="ttname"><a href="../../d0/dbd/a04634.html#ab76605e05d3b13f61472b9a89cd22a68a27b4e3d2f2d141bd2d795b741d82f87e">ITEM_CLASS_RECIPE</a></div><div class="ttdeci">@ ITEM_CLASS_RECIPE</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:300</div></div>
 <div class="ttc" id="aa08626_html_af6973a8a9a258a87a916bcd431c33d8d"><div class="ttname"><a href="../../d7/d9e/a08626.html#af6973a8a9a258a87a916bcd431c33d8d">_Spell::SpellId</a></div><div class="ttdeci">int32 SpellId</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:591</div></div>
 <div class="ttc" id="aa08634_html_a260242abd3a3f82fee20a3043d1a40d3"><div class="ttname"><a href="../../df/d76/a08634.html#a260242abd3a3f82fee20a3043d1a40d3">ItemTemplate::RequiredSkill</a></div><div class="ttdeci">uint32 RequiredSkill</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:637</div></div>
+<div class="ttc" id="aa08634_html_a2c13c4c1edbd3add9c6e0e2263f6c717"><div class="ttname"><a href="../../df/d76/a08634.html#a2c13c4c1edbd3add9c6e0e2263f6c717">ItemTemplate::MaxCount</a></div><div class="ttdeci">int32 MaxCount</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:644</div></div>
 <div class="ttc" id="aa08634_html_a5176cdcd72686fe37bbff9f2bd1d3de2"><div class="ttname"><a href="../../df/d76/a08634.html#a5176cdcd72686fe37bbff9f2bd1d3de2">ItemTemplate::Spells</a></div><div class="ttdeci">_Spell Spells[MAX_ITEM_PROTO_SPELLS]</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:662</div></div>
 <div class="ttc" id="aa08634_html_a8700ef8d4daab0aa628ade36d828534b"><div class="ttname"><a href="../../df/d76/a08634.html#a8700ef8d4daab0aa628ade36d828534b">ItemTemplate::HasFlag2</a></div><div class="ttdeci">bool HasFlag2(ItemFlags2 flag) const</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:826</div></div>
 <div class="ttc" id="aa08634_html_aa45a4f915e4ecdd88d1646b259e13f13"><div class="ttname"><a href="../../df/d76/a08634.html#aa45a4f915e4ecdd88d1646b259e13f13">ItemTemplate::Class</a></div><div class="ttdeci">uint32 Class</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:621</div></div>
+<div class="ttc" id="aa08634_html_aef5389c8385f5729a2471d7ef144f05a"><div class="ttname"><a href="../../df/d76/a08634.html#aef5389c8385f5729a2471d7ef144f05a">ItemTemplate::StartQuest</a></div><div class="ttdeci">uint32 StartQuest</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:668</div></div>
 <div class="ttc" id="aa08634_html_af901eb6a60466962d9c7847f4d634d79"><div class="ttname"><a href="../../df/d76/a08634.html#af901eb6a60466962d9c7847f4d634d79">ItemTemplate::Bonding</a></div><div class="ttdeci">uint32 Bonding</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:663</div></div>
 <div class="ttc" id="aa08902_html"><div class="ttname"><a href="../../d2/df8/a08902.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1084</div></div>
+<div class="ttc" id="aa10498_html"><div class="ttname"><a href="../../d2/d5f/a10498.html">Quest</a></div><div class="ttdef"><b>Definition:</b> QuestDef.h:210</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00096">BIND_WHEN_PICKED_UP</a>, <a class="el" href="../../#l00663">ItemTemplate::Bonding</a>, <a class="el" href="../../#l00621">ItemTemplate::Class</a>, <a class="el" href="../../#l00159">conditions</a>, <a class="el" href="../../#l00038">DISABLE_TYPE_LOOT</a>, <a class="el" href="../../#l02127">Player::GetTeamId()</a>, <a class="el" href="../../#l00825">ItemTemplate::HasFlag()</a>, <a class="el" href="../../#l00826">ItemTemplate::HasFlag2()</a>, <a class="el" href="../../#l00827">ItemTemplate::HasFlagCu()</a>, <a class="el" href="../../#l02296">Player::HasQuestForItem()</a>, <a class="el" href="../../#l05417">Player::HasSkill()</a>, <a class="el" href="../../#l03869">Player::HasSpell()</a>, <a class="el" href="../../#l00300">ITEM_CLASS_RECIPE</a>, <a class="el" href="../../#l00184">ITEM_FLAG2_FACTION_ALLIANCE</a>, <a class="el" href="../../#l00183">ITEM_FLAG2_FACTION_HORDE</a>, <a class="el" href="../../#l00172">ITEM_FLAG_HIDE_UNUSABLE_RECIPE</a>, <a class="el" href="../../#l00220">ITEM_FLAGS_CU_IGNORE_QUEST_STATUS</a>, <a class="el" href="../../#l00155">itemid</a>, <a class="el" href="../../#l00168">needs_quest</a>, <a class="el" href="../../#l00637">ItemTemplate::RequiredSkill</a>, <a class="el" href="../../#l00292">sConditionMgr</a>, <a class="el" href="../../#l00088">sDisableMgr</a>, <a class="el" href="../../#l01712">sObjectMgr</a>, <a class="el" href="../../#l00591">_Spell::SpellId</a>, <a class="el" href="../../#l00662">ItemTemplate::Spells</a>, <a class="el" href="../../#l00735">sScriptMgr</a>, <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>, and <a class="el" href="../../#l00749">TEAM_HORDE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00096">BIND_WHEN_PICKED_UP</a>, <a class="el" href="../../#l00663">ItemTemplate::Bonding</a>, <a class="el" href="../../#l00621">ItemTemplate::Class</a>, <a class="el" href="../../#l00159">conditions</a>, <a class="el" href="../../#l00038">DISABLE_TYPE_LOOT</a>, <a class="el" href="../../#l01447">Player::GetQuestRewardStatus()</a>, <a class="el" href="../../#l01462">Player::GetQuestStatus()</a>, <a class="el" href="../../#l02127">Player::GetTeamId()</a>, <a class="el" href="../../#l00825">ItemTemplate::HasFlag()</a>, <a class="el" href="../../#l00826">ItemTemplate::HasFlag2()</a>, <a class="el" href="../../#l00827">ItemTemplate::HasFlagCu()</a>, <a class="el" href="../../#l00657">Player::HasItemCount()</a>, <a class="el" href="../../#l02296">Player::HasQuestForItem()</a>, <a class="el" href="../../#l05417">Player::HasSkill()</a>, <a class="el" href="../../#l03869">Player::HasSpell()</a>, <a class="el" href="../../#l00300">ITEM_CLASS_RECIPE</a>, <a class="el" href="../../#l00184">ITEM_FLAG2_FACTION_ALLIANCE</a>, <a class="el" href="../../#l00183">ITEM_FLAG2_FACTION_HORDE</a>, <a class="el" href="../../#l00172">ITEM_FLAG_HIDE_UNUSABLE_RECIPE</a>, <a class="el" href="../../#l00220">ITEM_FLAGS_CU_IGNORE_QUEST_STATUS</a>, <a class="el" href="../../#l00155">itemid</a>, <a class="el" href="../../#l00644">ItemTemplate::MaxCount</a>, <a class="el" href="../../#l00168">needs_quest</a>, <a class="el" href="../../#l00100">QUEST_STATUS_NONE</a>, <a class="el" href="../../#l00637">ItemTemplate::RequiredSkill</a>, <a class="el" href="../../#l00292">sConditionMgr</a>, <a class="el" href="../../#l00088">sDisableMgr</a>, <a class="el" href="../../#l01712">sObjectMgr</a>, <a class="el" href="../../#l00591">_Spell::SpellId</a>, <a class="el" href="../../#l00662">ItemTemplate::Spells</a>, <a class="el" href="../../#l00735">sScriptMgr</a>, <a class="el" href="../../#l00668">ItemTemplate::StartQuest</a>, <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>, and <a class="el" href="../../#l00749">TEAM_HORDE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00463">Loot::AddItem()</a>, <a class="el" href="../../#l00959">CanRollOnItem()</a>, <a class="el" href="../../#l00615">Loot::FillFFALoot()</a>, <a class="el" href="../../#l00690">Loot::FillNonQuestNonFFAConditionalLoot()</a>, <a class="el" href="../../#l00578">Loot::FillNotNormalLootFor()</a>, <a class="el" href="../../#l00638">Loot::FillQuestLoot()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, <a class="el" href="../../#l00803">Loot::LootItemInSlot()</a>, and <a class="el" href="../../#l13535">Player::StoreLootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00481">Loot::AddItem()</a>, <a class="el" href="../../#l00959">CanRollOnItem()</a>, <a class="el" href="../../#l00633">Loot::FillFFALoot()</a>, <a class="el" href="../../#l00708">Loot::FillNonQuestNonFFAConditionalLoot()</a>, <a class="el" href="../../#l00596">Loot::FillNotNormalLootFor()</a>, <a class="el" href="../../#l00656">Loot::FillQuestLoot()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, <a class="el" href="../../#l00821">Loot::LootItemInSlot()</a>, and <a class="el" href="../../#l13550">Player::StoreLootItem()</a>.</p>
 
 </div>
 </div>
@@ -400,7 +423,7 @@ Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00160">allowedGUIDs</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, and <a class="el" href="../../#l13535">Player::StoreLootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, and <a class="el" href="../../#l13550">Player::StoreLootItem()</a>.</p>
 
 </div>
 </div>
@@ -417,7 +440,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00453">AddAllowedLooter()</a>, and <a class="el" href="../../#l00181">GetAllowedLooters()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00471">AddAllowedLooter()</a>, and <a class="el" href="../../#l00181">GetAllowedLooters()</a>.</p>
 
 </div>
 </div>
@@ -433,7 +456,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00417">AllowedForPlayer()</a>, <a class="el" href="../../#l01544">LootTemplate::CopyConditions()</a>, <a class="el" href="../../#l00690">Loot::FillNonQuestNonFFAConditionalLoot()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l00803">Loot::LootItemInSlot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00417">AllowedForPlayer()</a>, <a class="el" href="../../#l01562">LootTemplate::CopyConditions()</a>, <a class="el" href="../../#l00708">Loot::FillNonQuestNonFFAConditionalLoot()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l00821">Loot::LootItemInSlot()</a>.</p>
 
 </div>
 </div>
@@ -449,7 +472,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00463">Loot::AddItem()</a>, <a class="el" href="../../#l13508">Player::AutoStoreLoot()</a>, <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00033">WorldSession::HandleAutostoreLootItemOpcode()</a>, <a class="el" href="../../#l01703">debug_commandscript::HandleDebugLootCommand()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, <a class="el" href="../../#l00945">operator&lt;&lt;()</a>, <a class="el" href="../../#l13535">Player::StoreLootItem()</a>, and <a class="el" href="../../#l02159">Player::UpdateLootAchievements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00481">Loot::AddItem()</a>, <a class="el" href="../../#l13523">Player::AutoStoreLoot()</a>, <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00033">WorldSession::HandleAutostoreLootItemOpcode()</a>, <a class="el" href="../../#l01703">debug_commandscript::HandleDebugLootCommand()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, <a class="el" href="../../#l00963">operator&lt;&lt;()</a>, <a class="el" href="../../#l13550">Player::StoreLootItem()</a>, and <a class="el" href="../../#l02159">Player::UpdateLootAchievements()</a>.</p>
 
 </div>
 </div>
@@ -465,7 +488,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l00803">Loot::LootItemInSlot()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l00821">Loot::LootItemInSlot()</a>.</p>
 
 </div>
 </div>
@@ -481,7 +504,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00615">Loot::FillFFALoot()</a>, <a class="el" href="../../#l00690">Loot::FillNonQuestNonFFAConditionalLoot()</a>, <a class="el" href="../../#l00578">Loot::FillNotNormalLootFor()</a>, <a class="el" href="../../#l00638">Loot::FillQuestLoot()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, <a class="el" href="../../#l00803">Loot::LootItemInSlot()</a>, and <a class="el" href="../../#l13535">Player::StoreLootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00633">Loot::FillFFALoot()</a>, <a class="el" href="../../#l00708">Loot::FillNonQuestNonFFAConditionalLoot()</a>, <a class="el" href="../../#l00596">Loot::FillNotNormalLootFor()</a>, <a class="el" href="../../#l00656">Loot::FillQuestLoot()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, <a class="el" href="../../#l00821">Loot::LootItemInSlot()</a>, and <a class="el" href="../../#l13550">Player::StoreLootItem()</a>.</p>
 
 </div>
 </div>
@@ -513,7 +536,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l13535">Player::StoreLootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l13550">Player::StoreLootItem()</a>.</p>
 
 </div>
 </div>
@@ -529,7 +552,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00690">Loot::FillNonQuestNonFFAConditionalLoot()</a>, <a class="el" href="../../#l00638">Loot::FillQuestLoot()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, and <a class="el" href="../../#l00393">LootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00708">Loot::FillNonQuestNonFFAConditionalLoot()</a>, <a class="el" href="../../#l00656">Loot::FillQuestLoot()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, and <a class="el" href="../../#l00393">LootItem()</a>.</p>
 
 </div>
 </div>
@@ -545,7 +568,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00615">Loot::FillFFALoot()</a>, <a class="el" href="../../#l00690">Loot::FillNonQuestNonFFAConditionalLoot()</a>, <a class="el" href="../../#l00578">Loot::FillNotNormalLootFor()</a>, <a class="el" href="../../#l00033">WorldSession::HandleAutostoreLootItemOpcode()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, <a class="el" href="../../#l00889">Loot::hasItemFor()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, <a class="el" href="../../#l00803">Loot::LootItemInSlot()</a>, and <a class="el" href="../../#l13535">Player::StoreLootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00633">Loot::FillFFALoot()</a>, <a class="el" href="../../#l00708">Loot::FillNonQuestNonFFAConditionalLoot()</a>, <a class="el" href="../../#l00596">Loot::FillNotNormalLootFor()</a>, <a class="el" href="../../#l00033">WorldSession::HandleAutostoreLootItemOpcode()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, <a class="el" href="../../#l00907">Loot::hasItemFor()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, <a class="el" href="../../#l00821">Loot::LootItemInSlot()</a>, and <a class="el" href="../../#l13550">Player::StoreLootItem()</a>.</p>
 
 </div>
 </div>
@@ -561,7 +584,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l13535">Player::StoreLootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l13550">Player::StoreLootItem()</a>.</p>
 
 </div>
 </div>
@@ -577,7 +600,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00417">AllowedForPlayer()</a>, <a class="el" href="../../#l13508">Player::AutoStoreLoot()</a>, <a class="el" href="../../#l00959">CanRollOnItem()</a>, <a class="el" href="../../#l01544">LootTemplate::CopyConditions()</a>, <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00578">Loot::FillNotNormalLootFor()</a>, <a class="el" href="../../#l00033">WorldSession::HandleAutostoreLootItemOpcode()</a>, <a class="el" href="../../#l01703">debug_commandscript::HandleDebugLootCommand()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, <a class="el" href="../../#l00945">operator&lt;&lt;()</a>, <a class="el" href="../../#l13535">Player::StoreLootItem()</a>, and <a class="el" href="../../#l02159">Player::UpdateLootAchievements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00417">AllowedForPlayer()</a>, <a class="el" href="../../#l13523">Player::AutoStoreLoot()</a>, <a class="el" href="../../#l00959">CanRollOnItem()</a>, <a class="el" href="../../#l01562">LootTemplate::CopyConditions()</a>, <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00596">Loot::FillNotNormalLootFor()</a>, <a class="el" href="../../#l00033">WorldSession::HandleAutostoreLootItemOpcode()</a>, <a class="el" href="../../#l01703">debug_commandscript::HandleDebugLootCommand()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, <a class="el" href="../../#l00963">operator&lt;&lt;()</a>, <a class="el" href="../../#l13550">Player::StoreLootItem()</a>, and <a class="el" href="../../#l02159">Player::UpdateLootAchievements()</a>.</p>
 
 </div>
 </div>
@@ -593,7 +616,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00463">Loot::AddItem()</a>, <a class="el" href="../../#l00033">WorldSession::HandleAutostoreLootItemOpcode()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l13535">Player::StoreLootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00481">Loot::AddItem()</a>, <a class="el" href="../../#l00033">WorldSession::HandleAutostoreLootItemOpcode()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l13550">Player::StoreLootItem()</a>.</p>
 
 </div>
 </div>
@@ -625,7 +648,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l13508">Player::AutoStoreLoot()</a>, <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l01703">debug_commandscript::HandleDebugLootCommand()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, <a class="el" href="../../#l00945">operator&lt;&lt;()</a>, and <a class="el" href="../../#l13535">Player::StoreLootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l13523">Player::AutoStoreLoot()</a>, <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l01703">debug_commandscript::HandleDebugLootCommand()</a>, <a class="el" href="../../#l00421">WorldSession::HandleLootMasterGiveOpcode()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, <a class="el" href="../../#l00963">operator&lt;&lt;()</a>, and <a class="el" href="../../#l13550">Player::StoreLootItem()</a>.</p>
 
 </div>
 </div>
@@ -641,7 +664,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01703">debug_commandscript::HandleDebugLootCommand()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l00945">operator&lt;&lt;()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01703">debug_commandscript::HandleDebugLootCommand()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l00963">operator&lt;&lt;()</a>.</p>
 
 </div>
 </div>
@@ -657,7 +680,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l13535">Player::StoreLootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00164">LootItemStorage::LoadStoredLoot()</a>, <a class="el" href="../../#l00393">LootItem()</a>, and <a class="el" href="../../#l13550">Player::StoreLootItem()</a>.</p>
 
 </div>
 </div>
@@ -667,7 +690,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/db2/a09978.html">LootItem</a></li>
-    <li class="footer">Generated on Mon Mar 30 2026 21:12:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 6 2026 21:08:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

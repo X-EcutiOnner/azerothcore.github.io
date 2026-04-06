@@ -230,6 +230,7 @@ var a00884 =
       [ "CHAR_UPD_REM_AT_LOGIN_FLAG", "dd/d08/a00884.html#a76116b4fa282d8e35bf8f8e940b5cba7a1ff3b33acc4ed9097e36d66a797377b9", null ],
       [ "CHAR_UPD_ALL_AT_LOGIN_FLAGS", "dd/d08/a00884.html#a76116b4fa282d8e35bf8f8e940b5cba7af483bdda52c2a5f552ce86b02159c488", null ],
       [ "CHAR_INS_BUG_REPORT", "dd/d08/a00884.html#a76116b4fa282d8e35bf8f8e940b5cba7a5bb4a38bd69d9a0eb461a649d282df43", null ],
+      [ "CHAR_INS_SPAM_REPORT", "dd/d08/a00884.html#a76116b4fa282d8e35bf8f8e940b5cba7acbc4907ccfc409ccf2396490224c5c5f", null ],
       [ "CHAR_UPD_PETITION_NAME", "dd/d08/a00884.html#a76116b4fa282d8e35bf8f8e940b5cba7a4e56fc58d4d0ece6df9b8c8fe38eef5a", null ],
       [ "CHAR_INS_PETITION_SIGNATURE", "dd/d08/a00884.html#a76116b4fa282d8e35bf8f8e940b5cba7a0ccbbf4b8a3f454ffc6100c48be4e4b8", null ],
       [ "CHAR_UPD_ACCOUNT_ONLINE", "dd/d08/a00884.html#a76116b4fa282d8e35bf8f8e940b5cba7a854d1f745aa18ff113e63698e14421e2", null ],

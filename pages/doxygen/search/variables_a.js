@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['jainaguid_0',['JainaGUID',['../db/dac/a14042.html#aaf200bc2ab00524cd78d7cccc141d31d',1,'npc_thrall_bfu::npc_thrall_bfuAI']]],
-  ['jainaguid_1',['jainaGUID',['../d8/da9/a14014.html#a4bb7979acbcdbe3345289a5194dc6737',1,'npc_varian_wrynn::npc_varian_wrynnAI']]],
+  ['jainaguid_0',['jainaGUID',['../d8/da9/a14014.html#a4bb7979acbcdbe3345289a5194dc6737',1,'npc_varian_wrynn::npc_varian_wrynnAI']]],
+  ['jainaguid_1',['JainaGUID',['../db/dac/a14042.html#aaf200bc2ab00524cd78d7cccc141d31d',1,'npc_thrall_bfu::npc_thrall_bfuAI']]],
   ['jainaspawnpos_2',['JainaSpawnPos',['../de/db4/a02684.html#aff26eada4fd391d31073d6376a089160',1,'instance_icecrown_citadel.cpp']]],
   ['janalainpos_3',['janalainPos',['../d3/d53/a01262.html#a221fad04fa8f0cb38b93a539fbd03d2e',1,'boss_janalai.cpp']]],
   ['jedogaposition_4',['JedogaPosition',['../d5/d95/a02720.html#a478ab8fa49ee82fd1260096de7ab6b0d',1,'boss_jedoga_shadowseeker.cpp']]],

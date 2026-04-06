@@ -32,6 +32,7 @@ var a06518 =
     [ "IsSummonedBy", "dc/d82/a06518.html#a192059f2e78d9584b49f0ca740387e1c", null ],
     [ "JustDied", "dc/d82/a06518.html#a8c376dae3547daad5da5004d39b35383", null ],
     [ "JustEngagedWith", "dc/d82/a06518.html#a77b509bd7e69ed190bf8ca3c37fead8a", null ],
+    [ "JustExitedCombat", "dc/d82/a06518.html#afa437a836288ad0e8c333a95b3906123", null ],
     [ "JustReachedHome", "dc/d82/a06518.html#a570de9866b6412aabe24ca5c07e44aec", null ],
     [ "JustRespawned", "dc/d82/a06518.html#af537d9871fc9a5b5697ccada419c3419", null ],
     [ "JustSummoned", "dc/d82/a06518.html#ac22fe8dcc2724ee26c21f655b55b2682", null ],

@@ -18,7 +18,6 @@ var a16242 =
     [ "below11PctReached", "df/d86/a16242.html#a5c6190735f90121bdcd0572d7a38bae2", null ],
     [ "dragonsCount", "df/d86/a16242.html#a7fd5e7cf7579df3f918f94b4f89456fe", null ],
     [ "extraEvents", "df/d86/a16242.html#a734bc263b462552a633416489aead62c", null ],
-    [ "lastLavaSide", "df/d86/a16242.html#ae38330bb9b7bf3902c2cdfbbe3eb94cf", null ],
     [ "usedBerserk", "df/d86/a16242.html#a8821dec08484bc1794cb3ab5ea961abc", null ],
     [ "volcanoBlows", "df/d86/a16242.html#a4afb5ee2520c9a0648b978b5659d6c3a", null ]
 ];

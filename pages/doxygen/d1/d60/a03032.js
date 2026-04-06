@@ -30,6 +30,10 @@ var a03032 =
       [ "NPC_SILVERMOON_01_CW_TRIGGER", "d1/d60/a03032.html#a389d50377d83a39061dec37bd2ccf8ebaa7970d45dae9a330fd3e3bd098bb5f97", null ],
       [ "NPC_KRASUS", "d1/d60/a03032.html#a389d50377d83a39061dec37bd2ccf8eba055f28e2d12b3f0bdd256be893e30212", null ]
     ] ],
+    [ "eAlexstrasza", "d1/d60/a03032.html#ae01e3743fec60ee6af0a308d1d67c583", [
+      [ "SPELL_KEY_TO_FOCUSING_IRIS", "d1/d60/a03032.html#ae01e3743fec60ee6af0a308d1d67c583a9e69872de6b0d4686f936046cafeb8a5", null ],
+      [ "SPELL_HEROIC_KEY_TO_FOCUSING_IRIS", "d1/d60/a03032.html#ae01e3743fec60ee6af0a308d1d67c583a59fcf6ecfdb452992ffcc6db3fea9fa3", null ]
+    ] ],
     [ "Misc", "d1/d60/a03032.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "de/db5/a01181.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "de/db5/a01181.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

@@ -1248,6 +1248,7 @@ var a02963 =
       [ "EVENT_SKADI_RESET_CHECK", "d7/dc1/a02963.html#af60e00b78607064c5be6aa9397ea49c1acb05ed6426e02f11ad66dc877d0f0574", null ],
       [ "EVENT_GRAUF_START", "d7/dc1/a02963.html#af60e00b78607064c5be6aa9397ea49c1ae98aa4808fff120cb256c930036c228c", null ],
       [ "EVENT_GRAUF_LEAVE_BREACH", "d7/dc1/a02963.html#af60e00b78607064c5be6aa9397ea49c1a9d6524d429d14eed9ef2f79200d55b0c", null ],
+      [ "EVENT_GRAUF_BREATH_START", "d7/dc1/a02963.html#af60e00b78607064c5be6aa9397ea49c1ab5a3e6f02b9a8a8321d4c45fc5e35285", null ],
       [ "EVENT_GRAUF_REMOVE_AURA", "d7/dc1/a02963.html#af60e00b78607064c5be6aa9397ea49c1a93449238ada2e187e86139afb0273ecb", null ],
       [ "EVENT_SVALA_START", "d4/d32/a02951.html#af60e00b78607064c5be6aa9397ea49c1a0b71c7eb60422dc6df58d353e77798af", null ],
       [ "EVENT_SVALA_TALK1", "d4/d32/a02951.html#af60e00b78607064c5be6aa9397ea49c1ac88eaed340ec2f2ca8f7cfada67832ed", null ],
@@ -1345,6 +1346,14 @@ var a02963 =
       [ "EVENT_CORRUPTION_OF_EARTH", "de/d46/a01967.html#af60e00b78607064c5be6aa9397ea49c1a05b86477a0f6589401cc650e933d0615", null ],
       [ "EVENT_ARCANE_BLAST", "de/d46/a01967.html#af60e00b78607064c5be6aa9397ea49c1a38de9f3389120e6c6a28b2798422db74", null ],
       [ "EVENT_BELLOWING_ROAR", "de/d46/a01967.html#af60e00b78607064c5be6aa9397ea49c1a9c1eb82ba397495012178faa3efce8f9", null ]
+    ] ],
+    [ "GraufPaths", "d7/dc1/a02963.html#a12da985d4343f92957f864889586f114", [
+      [ "PATH_INITIAL", "d7/dc1/a02963.html#a12da985d4343f92957f864889586f114af62df28b317ea3d1d992203f26578873", null ],
+      [ "PATH_RIGHT", "d7/dc1/a02963.html#a12da985d4343f92957f864889586f114a512d2f9436fc74e0f956c8e038144560", null ],
+      [ "PATH_LEFT", "d7/dc1/a02963.html#a12da985d4343f92957f864889586f114a03f0df4c6aaf0cc97f8e0220b5e1bb42", null ],
+      [ "PATH_BREACH_RIGHT", "d7/dc1/a02963.html#a12da985d4343f92957f864889586f114a10b0dd43337b0e15921912c94360b0a0", null ],
+      [ "PATH_BREACH_LEFT", "d7/dc1/a02963.html#a12da985d4343f92957f864889586f114a1faa5fe13284c6f83aa7a0d78129f756", null ],
+      [ "PATH_GAUNTLET_ADDS", "d7/dc1/a02963.html#a12da985d4343f92957f864889586f114ac568c1a5bc7385075af4ad0ec09627dd", null ]
     ] ],
     [ "GraufPoints", "d7/dc1/a02963.html#a6f293cb72ee53a92661bc493262fa243", [
       [ "POINT_BREACH", "d7/dc1/a02963.html#a6f293cb72ee53a92661bc493262fa243aa70b0fa21760e8085aa5b99d6a415b4d", null ],
@@ -5288,11 +5297,9 @@ var a02963 =
     ] ],
     [ "AddSC_boss_skadi", "d7/dc1/a02963.html#aa42fcae49fd433507a2251bd5975dc84", null ],
     [ "BreachFacing", "d7/dc1/a02963.html#a3b338962b46bf75dd39d5d74d3ed2d4a", null ],
+    [ "BreathFacingLeft", "d7/dc1/a02963.html#af7146701e6558662ca8246c582516528", null ],
+    [ "BreathFacingRight", "d7/dc1/a02963.html#ae8436a255d5f5a1a81b97835376237df", null ],
     [ "FirstWaveLocations", "d7/dc1/a02963.html#a84e3caebfdec400bd7dee6f377b1bcd9", null ],
     [ "GraufLoc", "d7/dc1/a02963.html#ae8466f23b987c9969a69f679564041dc", null ],
-    [ "PATH_INITIAL", "d7/dc1/a02963.html#a1252d20ce81d35de1a1c19e88d7bb3fe", null ],
-    [ "PATH_LEFT", "d7/dc1/a02963.html#a8a90a151477c488e9a99edfac71d790c", null ],
-    [ "PATH_RIGHT", "d7/dc1/a02963.html#a772180082e8847ff6629da7a7d6262b5", null ],
-    [ "SecondaryWavesInitialPoint", "d7/dc1/a02963.html#a229ced0f4d87ae3bf0bbf359d416339f", null ],
     [ "SpawnLoc", "d7/dc1/a02963.html#abaec267a581c0b664a964785cf873278", null ]
 ];

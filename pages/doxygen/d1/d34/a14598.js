@@ -4,6 +4,7 @@ var a14598 =
     [ "MoveInLineOfSight", "d1/d34/a14598.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
     [ "Reset", "d1/d34/a14598.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
     [ "SetData", "d1/d34/a14598.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "sGossipSelect", "d1/d34/a14598.html#a642390a59ff46236dc3b429f371ea8cd", null ],
     [ "UpdateAI", "d1/d34/a14598.html#ad13b21d571833210b1c069b7ea8bea05", null ],
     [ "orphanGUID", "d1/d34/a14598.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
     [ "phase", "d1/d34/a14598.html#a98216e43888854ac93f22169a0e253e5", null ],
