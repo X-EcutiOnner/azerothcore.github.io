@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ActivePoolData Class Reference</title>
+<title>AzerothCore: WaypointNode Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,287 +106,52 @@ $(document).ready(function(){initNavTree('d0/db3/a10425.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d5/d45/a10422.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ActivePoolData Class Reference</div></div>
+  <div class="headertitle"><div class="title">WaypointNode Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">PoolMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">WaypointDefines.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a092d75db230d224ef3e322994f1c0076"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a092d75db230d224ef3e322994f1c0076"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a092d75db230d224ef3e322994f1c0076">IsActiveObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> db_guid_or_pool_id) const</td></tr>
-<tr class="separator:a092d75db230d224ef3e322994f1c0076"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a27d8f244ad75cedce9d0a341411b48b6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a27d8f244ad75cedce9d0a341411b48b6">GetActiveObjectCount</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pool_id) const</td></tr>
-<tr class="separator:a27d8f244ad75cedce9d0a341411b48b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac23fc621fc12c77718d5a1b9b9d928c4"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:ac23fc621fc12c77718d5a1b9b9d928c4"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#ac23fc621fc12c77718d5a1b9b9d928c4">ActivateObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> db_guid_or_pool_id, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pool_id)</td></tr>
-<tr class="separator:ac23fc621fc12c77718d5a1b9b9d928c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1aaeb7438df310b28e8c536a1ef83ebb"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a1aaeb7438df310b28e8c536a1ef83ebb"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a1aaeb7438df310b28e8c536a1ef83ebb">RemoveObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> db_guid_or_pool_id, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pool_id)</td></tr>
-<tr class="separator:a1aaeb7438df310b28e8c536a1ef83ebb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae5973d0bb86a4477a3471579c5697d51"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dae/a01136.html#a6fd2b29871e3f63cf9cc493968a0ab74">ActivePoolObjects</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#ae5973d0bb86a4477a3471579c5697d51">GetActiveQuests</a> () const</td></tr>
-<tr class="separator:ae5973d0bb86a4477a3471579c5697d51"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3eaf8cdcdea5103a6f8d414a11b485d0"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a3eaf8cdcdea5103a6f8d414a11b485d0"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a3eaf8cdcdea5103a6f8d414a11b485d0">IsActiveObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> db_guid) const</td></tr>
-<tr class="separator:a3eaf8cdcdea5103a6f8d414a11b485d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3eaf8cdcdea5103a6f8d414a11b485d0"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a3eaf8cdcdea5103a6f8d414a11b485d0"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a3eaf8cdcdea5103a6f8d414a11b485d0">IsActiveObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> db_guid) const</td></tr>
-<tr class="separator:a3eaf8cdcdea5103a6f8d414a11b485d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a904a2e30dd2c90c42efbd111fadb939b"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a904a2e30dd2c90c42efbd111fadb939b"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a904a2e30dd2c90c42efbd111fadb939b">IsActiveObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sub_pool_id) const</td></tr>
-<tr class="separator:a904a2e30dd2c90c42efbd111fadb939b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae6cf482063504094ce47271cf8097001"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:ae6cf482063504094ce47271cf8097001"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#ae6cf482063504094ce47271cf8097001">IsActiveObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> quest_id) const</td></tr>
-<tr class="separator:ae6cf482063504094ce47271cf8097001"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ee3c6f24c51bac7da15c165ff93ab42"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a0ee3c6f24c51bac7da15c165ff93ab42"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a0ee3c6f24c51bac7da15c165ff93ab42">ActivateObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> db_guid, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pool_id)</td></tr>
-<tr class="separator:a0ee3c6f24c51bac7da15c165ff93ab42"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ee3c6f24c51bac7da15c165ff93ab42"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a0ee3c6f24c51bac7da15c165ff93ab42"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a0ee3c6f24c51bac7da15c165ff93ab42">ActivateObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> db_guid, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pool_id)</td></tr>
-<tr class="separator:a0ee3c6f24c51bac7da15c165ff93ab42"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac06d473e60ddb91e027dabbd64d64961"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:ac06d473e60ddb91e027dabbd64d64961"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#ac06d473e60ddb91e027dabbd64d64961">ActivateObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sub_pool_id, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pool_id)</td></tr>
-<tr class="separator:ac06d473e60ddb91e027dabbd64d64961"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa11b01ff001992aa5dadf4291875c947"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:aa11b01ff001992aa5dadf4291875c947"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#aa11b01ff001992aa5dadf4291875c947">ActivateObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> quest_id, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pool_id)</td></tr>
-<tr class="separator:aa11b01ff001992aa5dadf4291875c947"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad305bcc1094ba640c2e961f2f56530b6"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:ad305bcc1094ba640c2e961f2f56530b6"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#ad305bcc1094ba640c2e961f2f56530b6">RemoveObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> db_guid, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pool_id)</td></tr>
-<tr class="separator:ad305bcc1094ba640c2e961f2f56530b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad305bcc1094ba640c2e961f2f56530b6"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:ad305bcc1094ba640c2e961f2f56530b6"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#ad305bcc1094ba640c2e961f2f56530b6">RemoveObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> db_guid, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pool_id)</td></tr>
-<tr class="separator:ad305bcc1094ba640c2e961f2f56530b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1aadfb44076691257dfb9bf97f865957"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a1aadfb44076691257dfb9bf97f865957"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a1aadfb44076691257dfb9bf97f865957">RemoveObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sub_pool_id, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pool_id)</td></tr>
-<tr class="separator:a1aadfb44076691257dfb9bf97f865957"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8979fda780644f1e678b6569bc7ca6eb"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a8979fda780644f1e678b6569bc7ca6eb"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a8979fda780644f1e678b6569bc7ca6eb">RemoveObject</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> quest_id, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pool_id)</td></tr>
-<tr class="separator:a8979fda780644f1e678b6569bc7ca6eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f4aa765b3bedfec2a11da0c8ce2c116"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a8f4aa765b3bedfec2a11da0c8ce2c116">WaypointNode</a> ()</td></tr>
+<tr class="separator:a8f4aa765b3bedfec2a11da0c8ce2c116"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab57dd64800b87f26256509533dc31f5c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#ab57dd64800b87f26256509533dc31f5c">WaypointNode</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, float x, float y, float z, std::optional&lt; float &gt; orientation={ }, float velocity=0.f, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> delay=0, bool smoothTransition=false)</td></tr>
+<tr class="separator:ab57dd64800b87f26256509533dc31f5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a9873ca821d26606ee06011a02bf3e1f8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dae/a01136.html#a6fd2b29871e3f63cf9cc493968a0ab74">ActivePoolObjects</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a9873ca821d26606ee06011a02bf3e1f8">mSpawnedCreatures</a></td></tr>
-<tr class="separator:a9873ca821d26606ee06011a02bf3e1f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae4e61f0da2ed8848c3afced7af36e761"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dae/a01136.html#a6fd2b29871e3f63cf9cc493968a0ab74">ActivePoolObjects</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#ae4e61f0da2ed8848c3afced7af36e761">mSpawnedGameobjects</a></td></tr>
-<tr class="separator:ae4e61f0da2ed8848c3afced7af36e761"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a04f133b25c58d462c35a62c57862af14"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dae/a01136.html#a6fd2b29871e3f63cf9cc493968a0ab74">ActivePoolObjects</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a04f133b25c58d462c35a62c57862af14">mActiveQuests</a></td></tr>
-<tr class="separator:a04f133b25c58d462c35a62c57862af14"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab64e67ec373ca97edab12662190e36c5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dae/a01136.html#ad18a3f26065fec260d0281c5354067dd">ActivePoolPools</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a></td></tr>
-<tr class="separator:ab64e67ec373ca97edab12662190e36c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:aec030367189f87dec789df49303916ed"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#aec030367189f87dec789df49303916ed">Id</a></td></tr>
+<tr class="separator:aec030367189f87dec789df49303916ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa62bd26c57e5cfbe62de0eb2d63e4610"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a></td></tr>
+<tr class="separator:aa62bd26c57e5cfbe62de0eb2d63e4610"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba6568aff3a204c9e4ad8bfaeeaabc56"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a></td></tr>
+<tr class="separator:aba6568aff3a204c9e4ad8bfaeeaabc56"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab4756345912b48fd2f352464e24bc1a"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#aab4756345912b48fd2f352464e24bc1a">Z</a></td></tr>
+<tr class="separator:aab4756345912b48fd2f352464e24bc1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a91fd08cd83ae7bb1b27563c38e674722"><td class="memItemLeft" align="right" valign="top">std::optional&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a91fd08cd83ae7bb1b27563c38e674722">Orientation</a></td></tr>
+<tr class="separator:a91fd08cd83ae7bb1b27563c38e674722"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab353b7326bb6bdbd5efd35574dcebbc0"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#ab353b7326bb6bdbd5efd35574dcebbc0">Velocity</a></td></tr>
+<tr class="separator:ab353b7326bb6bdbd5efd35574dcebbc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03268e85010c56f29325b80a9624a73b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a03268e85010c56f29325b80a9624a73b">Delay</a></td></tr>
+<tr class="separator:a03268e85010c56f29325b80a9624a73b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a244afd47ae7c71a15c82d9ee7036ebdb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a244afd47ae7c71a15c82d9ee7036ebdb">EventId</a></td></tr>
+<tr class="separator:a244afd47ae7c71a15c82d9ee7036ebdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd3a16c9a60b7f05816ab935b3578b8a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#afd3a16c9a60b7f05816ab935b3578b8a">MoveType</a></td></tr>
+<tr class="separator:afd3a16c9a60b7f05816ab935b3578b8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2bffe84cee4076217d7c9cc09b880ad2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a2bffe84cee4076217d7c9cc09b880ad2">EventChance</a></td></tr>
+<tr class="separator:a2bffe84cee4076217d7c9cc09b880ad2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c9c60d5c5b0941291b6e3ba0cbece5f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a8c9c60d5c5b0941291b6e3ba0cbece5f">SmoothTransition</a></td></tr>
+<tr class="separator:a8c9c60d5c5b0941291b6e3ba0cbece5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a9c709edeb58be70f51da2079bba579"><td class="memItemLeft" align="right" valign="top">std::vector&lt; G3D::Vector3 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a10425.html#a1a9c709edeb58be70f51da2079bba579">SplinePoints</a></td></tr>
+<tr class="separator:a1a9c709edeb58be70f51da2079bba579"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a0ee3c6f24c51bac7da15c165ff93ab42" name="a0ee3c6f24c51bac7da15c165ff93ab42"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ee3c6f24c51bac7da15c165ff93ab42">&#9670;&#160;</a></span>ActivateObject() <span class="overload">[1/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void ActivePoolData::ActivateObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>db_guid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pool_id</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_variable" href="../../d0/db3/a10425.html#a9873ca821d26606ee06011a02bf3e1f8">mSpawnedCreatures</a>.insert(db_guid);</div>
-<div class="line"><span class="lineno">   68</span>    ++<a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>[pool_id];</div>
-<div class="line"><span class="lineno">   69</span>}</div>
-<div class="ttc" id="aa10425_html_a9873ca821d26606ee06011a02bf3e1f8"><div class="ttname"><a href="../../d0/db3/a10425.html#a9873ca821d26606ee06011a02bf3e1f8">ActivePoolData::mSpawnedCreatures</a></div><div class="ttdeci">ActivePoolObjects mSpawnedCreatures</div><div class="ttdef"><b>Definition:</b> PoolMgr.h:61</div></div>
-<div class="ttc" id="aa10425_html_ab64e67ec373ca97edab12662190e36c5"><div class="ttname"><a href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">ActivePoolData::mSpawnedPools</a></div><div class="ttdeci">ActivePoolPools mSpawnedPools</div><div class="ttdef"><b>Definition:</b> PoolMgr.h:64</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00061">mSpawnedCreatures</a>, and <a class="el" href="../../#l00064">mSpawnedPools</a>.</p>
-
-</div>
-</div>
-<a id="a0ee3c6f24c51bac7da15c165ff93ab42" name="a0ee3c6f24c51bac7da15c165ff93ab42"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ee3c6f24c51bac7da15c165ff93ab42">&#9670;&#160;</a></span>ActivateObject() <span class="overload">[2/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void ActivePoolData::ActivateObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>db_guid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pool_id</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
-<div class="line"><span class="lineno">   74</span>    <a class="code hl_variable" href="../../d0/db3/a10425.html#ae4e61f0da2ed8848c3afced7af36e761">mSpawnedGameobjects</a>.insert(db_guid);</div>
-<div class="line"><span class="lineno">   75</span>    ++<a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>[pool_id];</div>
-<div class="line"><span class="lineno">   76</span>}</div>
-<div class="ttc" id="aa10425_html_ae4e61f0da2ed8848c3afced7af36e761"><div class="ttname"><a href="../../d0/db3/a10425.html#ae4e61f0da2ed8848c3afced7af36e761">ActivePoolData::mSpawnedGameobjects</a></div><div class="ttdeci">ActivePoolObjects mSpawnedGameobjects</div><div class="ttdef"><b>Definition:</b> PoolMgr.h:62</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00062">mSpawnedGameobjects</a>, and <a class="el" href="../../#l00064">mSpawnedPools</a>.</p>
-
-</div>
-</div>
-<a id="ac23fc621fc12c77718d5a1b9b9d928c4" name="ac23fc621fc12c77718d5a1b9b9d928c4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac23fc621fc12c77718d5a1b9b9d928c4">&#9670;&#160;</a></span>ActivateObject() <span class="overload">[3/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void ActivePoolData::ActivateObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>db_guid_or_pool_id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pool_id</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00306">PoolGroup&lt; T &gt;::SpawnObject()</a>.</p>
-
-</div>
-</div>
-<a id="aa11b01ff001992aa5dadf4291875c947" name="aa11b01ff001992aa5dadf4291875c947"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa11b01ff001992aa5dadf4291875c947">&#9670;&#160;</a></span>ActivateObject() <span class="overload">[4/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void ActivePoolData::ActivateObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>quest_id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pool_id</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   87</span>{</div>
-<div class="line"><span class="lineno">   88</span>    <a class="code hl_variable" href="../../d0/db3/a10425.html#a04f133b25c58d462c35a62c57862af14">mActiveQuests</a>.insert(quest_id);</div>
-<div class="line"><span class="lineno">   89</span>    ++<a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>[pool_id];</div>
-<div class="line"><span class="lineno">   90</span>}</div>
-<div class="ttc" id="aa10425_html_a04f133b25c58d462c35a62c57862af14"><div class="ttname"><a href="../../d0/db3/a10425.html#a04f133b25c58d462c35a62c57862af14">ActivePoolData::mActiveQuests</a></div><div class="ttdeci">ActivePoolObjects mActiveQuests</div><div class="ttdef"><b>Definition:</b> PoolMgr.h:63</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00063">mActiveQuests</a>, and <a class="el" href="../../#l00064">mSpawnedPools</a>.</p>
-
-</div>
-</div>
-<a id="ac06d473e60ddb91e027dabbd64d64961" name="ac06d473e60ddb91e027dabbd64d64961"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac06d473e60ddb91e027dabbd64d64961">&#9670;&#160;</a></span>ActivateObject() <span class="overload">[5/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void ActivePoolData::ActivateObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>sub_pool_id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pool_id</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   80</span>{</div>
-<div class="line"><span class="lineno">   81</span>    <a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>[sub_pool_id] = 0;</div>
-<div class="line"><span class="lineno">   82</span>    ++<a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>[pool_id];</div>
-<div class="line"><span class="lineno">   83</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00064">mSpawnedPools</a>.</p>
-
-</div>
-</div>
-<a id="a27d8f244ad75cedce9d0a341411b48b6" name="a27d8f244ad75cedce9d0a341411b48b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a27d8f244ad75cedce9d0a341411b48b6">&#9670;&#160;</a></span>GetActiveObjectCount()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ActivePoolData::GetActiveObjectCount </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pool_id</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
-<div class="line"><span class="lineno">   32</span>    ActivePoolPools::const_iterator itr = <a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>.find(pool_id);</div>
-<div class="line"><span class="lineno">   33</span>    <span class="keywordflow">return</span> itr != <a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>.end() ? itr-&gt;second : 0;</div>
-<div class="line"><span class="lineno">   34</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00064">mSpawnedPools</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00306">PoolGroup&lt; T &gt;::SpawnObject()</a>.</p>
-
-</div>
-</div>
-<a id="ae5973d0bb86a4477a3471579c5697d51" name="ae5973d0bb86a4477a3471579c5697d51"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae5973d0bb86a4477a3471579c5697d51">&#9670;&#160;</a></span>GetActiveQuests()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a8f4aa765b3bedfec2a11da0c8ce2c116" name="a8f4aa765b3bedfec2a11da0c8ce2c116"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f4aa765b3bedfec2a11da0c8ce2c116">&#9670;&#160;</a></span>WaypointNode() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -395,10 +160,10 @@ template&lt;&gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/dae/a01136.html#a6fd2b29871e3f63cf9cc493968a0ab74">ActivePoolObjects</a> ActivePoolData::GetActiveQuests </td>
+          <td class="memname">WaypointNode::WaypointNode </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td></td>
         </tr>
       </table>
   </td>
@@ -407,155 +172,77 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   59</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/db3/a10425.html#a04f133b25c58d462c35a62c57862af14">mActiveQuests</a>; } <span class="comment">// a copy of the set</span></div>
+<div class="fragment"><div class="line"><span class="lineno">   38</span>: <a class="code hl_variable" href="../../d0/db3/a10425.html#aec030367189f87dec789df49303916ed">Id</a>(0), <a class="code hl_variable" href="../../d0/db3/a10425.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>(0.f), <a class="code hl_variable" href="../../d0/db3/a10425.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>(0.f), <a class="code hl_variable" href="../../d0/db3/a10425.html#aab4756345912b48fd2f352464e24bc1a">Z</a>(0.f), <a class="code hl_variable" href="../../d0/db3/a10425.html#ab353b7326bb6bdbd5efd35574dcebbc0">Velocity</a>(0.f), <a class="code hl_variable" href="../../d0/db3/a10425.html#a03268e85010c56f29325b80a9624a73b">Delay</a>(0), <a class="code hl_variable" href="../../d0/db3/a10425.html#a244afd47ae7c71a15c82d9ee7036ebdb">EventId</a>(0), <a class="code hl_variable" href="../../d0/db3/a10425.html#afd3a16c9a60b7f05816ab935b3578b8a">MoveType</a>(<a class="code hl_enumvalue" href="../../d5/dd6/a01820.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55">WAYPOINT_MOVE_TYPE_RUN</a>), <a class="code hl_variable" href="../../d0/db3/a10425.html#a2bffe84cee4076217d7c9cc09b880ad2">EventChance</a>(0), <a class="code hl_variable" href="../../d0/db3/a10425.html#a8c9c60d5c5b0941291b6e3ba0cbece5f">SmoothTransition</a>(<span class="keyword">false</span>) { }</div>
+<div class="ttc" id="aa01820_html_ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55"><div class="ttname"><a href="../../d5/dd6/a01820.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55">WAYPOINT_MOVE_TYPE_RUN</a></div><div class="ttdeci">@ WAYPOINT_MOVE_TYPE_RUN</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:29</div></div>
+<div class="ttc" id="aa10425_html_a03268e85010c56f29325b80a9624a73b"><div class="ttname"><a href="../../d0/db3/a10425.html#a03268e85010c56f29325b80a9624a73b">WaypointNode::Delay</a></div><div class="ttdeci">uint32 Delay</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:51</div></div>
+<div class="ttc" id="aa10425_html_a244afd47ae7c71a15c82d9ee7036ebdb"><div class="ttname"><a href="../../d0/db3/a10425.html#a244afd47ae7c71a15c82d9ee7036ebdb">WaypointNode::EventId</a></div><div class="ttdeci">uint32 EventId</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:52</div></div>
+<div class="ttc" id="aa10425_html_a2bffe84cee4076217d7c9cc09b880ad2"><div class="ttname"><a href="../../d0/db3/a10425.html#a2bffe84cee4076217d7c9cc09b880ad2">WaypointNode::EventChance</a></div><div class="ttdeci">uint8 EventChance</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:54</div></div>
+<div class="ttc" id="aa10425_html_a8c9c60d5c5b0941291b6e3ba0cbece5f"><div class="ttname"><a href="../../d0/db3/a10425.html#a8c9c60d5c5b0941291b6e3ba0cbece5f">WaypointNode::SmoothTransition</a></div><div class="ttdeci">bool SmoothTransition</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:55</div></div>
+<div class="ttc" id="aa10425_html_aa62bd26c57e5cfbe62de0eb2d63e4610"><div class="ttname"><a href="../../d0/db3/a10425.html#aa62bd26c57e5cfbe62de0eb2d63e4610">WaypointNode::X</a></div><div class="ttdeci">float X</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:48</div></div>
+<div class="ttc" id="aa10425_html_aab4756345912b48fd2f352464e24bc1a"><div class="ttname"><a href="../../d0/db3/a10425.html#aab4756345912b48fd2f352464e24bc1a">WaypointNode::Z</a></div><div class="ttdeci">float Z</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:48</div></div>
+<div class="ttc" id="aa10425_html_ab353b7326bb6bdbd5efd35574dcebbc0"><div class="ttname"><a href="../../d0/db3/a10425.html#ab353b7326bb6bdbd5efd35574dcebbc0">WaypointNode::Velocity</a></div><div class="ttdeci">float Velocity</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:50</div></div>
+<div class="ttc" id="aa10425_html_aba6568aff3a204c9e4ad8bfaeeaabc56"><div class="ttname"><a href="../../d0/db3/a10425.html#aba6568aff3a204c9e4ad8bfaeeaabc56">WaypointNode::Y</a></div><div class="ttdeci">float Y</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:48</div></div>
+<div class="ttc" id="aa10425_html_aec030367189f87dec789df49303916ed"><div class="ttname"><a href="../../d0/db3/a10425.html#aec030367189f87dec789df49303916ed">WaypointNode::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:47</div></div>
+<div class="ttc" id="aa10425_html_afd3a16c9a60b7f05816ab935b3578b8a"><div class="ttname"><a href="../../d0/db3/a10425.html#afd3a16c9a60b7f05816ab935b3578b8a">WaypointNode::MoveType</a></div><div class="ttdeci">uint32 MoveType</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:53</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00063">mActiveQuests</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00459">PoolGroup&lt; T &gt;::SpawnObject()</a>.</p>
-
 </div>
 </div>
-<a id="a3eaf8cdcdea5103a6f8d414a11b485d0" name="a3eaf8cdcdea5103a6f8d414a11b485d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3eaf8cdcdea5103a6f8d414a11b485d0">&#9670;&#160;</a></span>IsActiveObject() <span class="overload">[1/5]</span></h2>
+<a id="ab57dd64800b87f26256509533dc31f5c" name="ab57dd64800b87f26256509533dc31f5c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab57dd64800b87f26256509533dc31f5c">&#9670;&#160;</a></span>WaypointNode() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ActivePoolData::IsActiveObject </td>
+          <td class="memname">WaypointNode::WaypointNode </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>db_guid</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
-<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/db3/a10425.html#a9873ca821d26606ee06011a02bf3e1f8">mSpawnedCreatures</a>.find(db_guid) != <a class="code hl_variable" href="../../d0/db3/a10425.html#a9873ca821d26606ee06011a02bf3e1f8">mSpawnedCreatures</a>.end();</div>
-<div class="line"><span class="lineno">   41</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00061">mSpawnedCreatures</a>.</p>
-
-</div>
-</div>
-<a id="a3eaf8cdcdea5103a6f8d414a11b485d0" name="a3eaf8cdcdea5103a6f8d414a11b485d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3eaf8cdcdea5103a6f8d414a11b485d0">&#9670;&#160;</a></span>IsActiveObject() <span class="overload">[2/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ActivePoolData::IsActiveObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>db_guid</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>{</div>
-<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/db3/a10425.html#ae4e61f0da2ed8848c3afced7af36e761">mSpawnedGameobjects</a>.find(db_guid) != <a class="code hl_variable" href="../../d0/db3/a10425.html#ae4e61f0da2ed8848c3afced7af36e761">mSpawnedGameobjects</a>.end();</div>
-<div class="line"><span class="lineno">   48</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00062">mSpawnedGameobjects</a>.</p>
-
-</div>
-</div>
-<a id="a092d75db230d224ef3e322994f1c0076" name="a092d75db230d224ef3e322994f1c0076"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a092d75db230d224ef3e322994f1c0076">&#9670;&#160;</a></span>IsActiveObject() <span class="overload">[3/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ActivePoolData::IsActiveObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>db_guid_or_pool_id</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00160">PoolGroup&lt; T &gt;::DespawnObject()</a>, <a class="el" href="../../#l00121">PoolMgr::IsSpawnedObject()</a>, and <a class="el" href="../../#l00306">PoolGroup&lt; T &gt;::SpawnObject()</a>.</p>
-
-</div>
-</div>
-<a id="ae6cf482063504094ce47271cf8097001" name="ae6cf482063504094ce47271cf8097001"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae6cf482063504094ce47271cf8097001">&#9670;&#160;</a></span>IsActiveObject() <span class="overload">[4/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ActivePoolData::IsActiveObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>quest_id</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
-<div class="line"><span class="lineno">   61</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/db3/a10425.html#a04f133b25c58d462c35a62c57862af14">mActiveQuests</a>.find(quest_id) != <a class="code hl_variable" href="../../d0/db3/a10425.html#a04f133b25c58d462c35a62c57862af14">mActiveQuests</a>.end();</div>
-<div class="line"><span class="lineno">   62</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00063">mActiveQuests</a>.</p>
-
-</div>
-</div>
-<a id="a904a2e30dd2c90c42efbd111fadb939b" name="a904a2e30dd2c90c42efbd111fadb939b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a904a2e30dd2c90c42efbd111fadb939b">&#9670;&#160;</a></span>IsActiveObject() <span class="overload">[5/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ActivePoolData::IsActiveObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>sub_pool_id</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
-<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>.find(sub_pool_id) != <a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>.end();</div>
-<div class="line"><span class="lineno">   55</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00064">mSpawnedPools</a>.</p>
-
-</div>
-</div>
-<a id="ad305bcc1094ba640c2e961f2f56530b6" name="ad305bcc1094ba640c2e961f2f56530b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad305bcc1094ba640c2e961f2f56530b6">&#9670;&#160;</a></span>RemoveObject() <span class="overload">[1/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void ActivePoolData::RemoveObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>db_guid</em>, </td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pool_id</em>&#160;</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>z</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::optional&lt; float &gt;&#160;</td>
+          <td class="paramname"><em>orientation</em> = <code>{&#160;}</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>velocity</em> = <code>0.f</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>delay</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>smoothTransition</em> = <code>false</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -563,259 +250,216 @@ template&lt;&gt; </div>
           <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   94</span>{</div>
-<div class="line"><span class="lineno">   95</span>    <a class="code hl_variable" href="../../d0/db3/a10425.html#a9873ca821d26606ee06011a02bf3e1f8">mSpawnedCreatures</a>.erase(db_guid);</div>
-<div class="line"><span class="lineno">   96</span>    <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&amp; val = <a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>[pool_id];</div>
-<div class="line"><span class="lineno">   97</span>    <span class="keywordflow">if</span> (val &gt; 0)</div>
-<div class="line"><span class="lineno">   98</span>        --val;</div>
-<div class="line"><span class="lineno">   99</span>}</div>
-<div class="ttc" id="aa00485_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>                                                                                        { }, <span class="keywordtype">float</span> velocity = 0.f, <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> delay = 0, <span class="keywordtype">bool</span> smoothTransition = <span class="keyword">false</span>) :</div>
+<div class="line"><span class="lineno">   40</span>        <a class="code hl_variable" href="../../d0/db3/a10425.html#aec030367189f87dec789df49303916ed">Id</a>(<span class="keywordtype">id</span>), <a class="code hl_variable" href="../../d0/db3/a10425.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>(x), <a class="code hl_variable" href="../../d0/db3/a10425.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>(y), <a class="code hl_variable" href="../../d0/db3/a10425.html#aab4756345912b48fd2f352464e24bc1a">Z</a>(z), <a class="code hl_variable" href="../../d0/db3/a10425.html#a91fd08cd83ae7bb1b27563c38e674722">Orientation</a>(orientation), <a class="code hl_variable" href="../../d0/db3/a10425.html#ab353b7326bb6bdbd5efd35574dcebbc0">Velocity</a>(velocity), <a class="code hl_variable" href="../../d0/db3/a10425.html#a03268e85010c56f29325b80a9624a73b">Delay</a>(delay), <a class="code hl_variable" href="../../d0/db3/a10425.html#a8c9c60d5c5b0941291b6e3ba0cbece5f">SmoothTransition</a>(smoothTransition)</div>
+<div class="line"><span class="lineno">   41</span>    {</div>
+<div class="line"><span class="lineno">   42</span>        <a class="code hl_enumeration" href="../../d3/d31/a04292.html#a4cf8d4a4d56e9f795518b6541ddeb5bf">EventId</a> = 0;</div>
+<div class="line"><span class="lineno">   43</span>        <a class="code hl_variable" href="../../d0/db3/a10425.html#afd3a16c9a60b7f05816ab935b3578b8a">MoveType</a> = <a class="code hl_enumvalue" href="../../d5/dd6/a01820.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff">WAYPOINT_MOVE_TYPE_WALK</a>;</div>
+<div class="line"><span class="lineno">   44</span>        <a class="code hl_variable" href="../../d0/db3/a10425.html#a2bffe84cee4076217d7c9cc09b880ad2">EventChance</a> = 100;</div>
+<div class="line"><span class="lineno">   45</span>    }</div>
+<div class="ttc" id="aa01820_html_ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff"><div class="ttname"><a href="../../d5/dd6/a01820.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff">WAYPOINT_MOVE_TYPE_WALK</a></div><div class="ttdeci">@ WAYPOINT_MOVE_TYPE_WALK</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:28</div></div>
+<div class="ttc" id="aa04292_html_a4cf8d4a4d56e9f795518b6541ddeb5bf"><div class="ttname"><a href="../../d3/d31/a04292.html#a4cf8d4a4d56e9f795518b6541ddeb5bf">EventId</a></div><div class="ttdeci">EventId</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3559</div></div>
+<div class="ttc" id="aa04568_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa10425_html_a91fd08cd83ae7bb1b27563c38e674722"><div class="ttname"><a href="../../d0/db3/a10425.html#a91fd08cd83ae7bb1b27563c38e674722">WaypointNode::Orientation</a></div><div class="ttdeci">std::optional&lt; float &gt; Orientation</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:49</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00061">mSpawnedCreatures</a>, and <a class="el" href="../../#l00064">mSpawnedPools</a>.</p>
-
-</div>
-</div>
-<a id="ad305bcc1094ba640c2e961f2f56530b6" name="ad305bcc1094ba640c2e961f2f56530b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad305bcc1094ba640c2e961f2f56530b6">&#9670;&#160;</a></span>RemoveObject() <span class="overload">[2/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void ActivePoolData::RemoveObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>db_guid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pool_id</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  103</span>{</div>
-<div class="line"><span class="lineno">  104</span>    <a class="code hl_variable" href="../../d0/db3/a10425.html#ae4e61f0da2ed8848c3afced7af36e761">mSpawnedGameobjects</a>.erase(db_guid);</div>
-<div class="line"><span class="lineno">  105</span>    <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&amp; val = <a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>[pool_id];</div>
-<div class="line"><span class="lineno">  106</span>    <span class="keywordflow">if</span> (val &gt; 0)</div>
-<div class="line"><span class="lineno">  107</span>        --val;</div>
-<div class="line"><span class="lineno">  108</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00062">mSpawnedGameobjects</a>, and <a class="el" href="../../#l00064">mSpawnedPools</a>.</p>
-
-</div>
-</div>
-<a id="a1aaeb7438df310b28e8c536a1ef83ebb" name="a1aaeb7438df310b28e8c536a1ef83ebb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1aaeb7438df310b28e8c536a1ef83ebb">&#9670;&#160;</a></span>RemoveObject() <span class="overload">[3/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void ActivePoolData::RemoveObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>db_guid_or_pool_id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pool_id</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00160">PoolGroup&lt; T &gt;::DespawnObject()</a>.</p>
-
-</div>
-</div>
-<a id="a8979fda780644f1e678b6569bc7ca6eb" name="a8979fda780644f1e678b6569bc7ca6eb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8979fda780644f1e678b6569bc7ca6eb">&#9670;&#160;</a></span>RemoveObject() <span class="overload">[4/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void ActivePoolData::RemoveObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>quest_id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pool_id</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  121</span>{</div>
-<div class="line"><span class="lineno">  122</span>    <a class="code hl_variable" href="../../d0/db3/a10425.html#a04f133b25c58d462c35a62c57862af14">mActiveQuests</a>.erase(quest_id);</div>
-<div class="line"><span class="lineno">  123</span>    <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&amp; val = <a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>[pool_id];</div>
-<div class="line"><span class="lineno">  124</span>    <span class="keywordflow">if</span> (val &gt; 0)</div>
-<div class="line"><span class="lineno">  125</span>        --val;</div>
-<div class="line"><span class="lineno">  126</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00063">mActiveQuests</a>, and <a class="el" href="../../#l00064">mSpawnedPools</a>.</p>
-
-</div>
-</div>
-<a id="a1aadfb44076691257dfb9bf97f865957" name="a1aadfb44076691257dfb9bf97f865957"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1aadfb44076691257dfb9bf97f865957">&#9670;&#160;</a></span>RemoveObject() <span class="overload">[5/5]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void ActivePoolData::RemoveObject </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>sub_pool_id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pool_id</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  112</span>{</div>
-<div class="line"><span class="lineno">  113</span>    <a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>.erase(sub_pool_id);</div>
-<div class="line"><span class="lineno">  114</span>    <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&amp; val = <a class="code hl_variable" href="../../d0/db3/a10425.html#ab64e67ec373ca97edab12662190e36c5">mSpawnedPools</a>[pool_id];</div>
-<div class="line"><span class="lineno">  115</span>    <span class="keywordflow">if</span> (val &gt; 0)</div>
-<div class="line"><span class="lineno">  116</span>        --val;</div>
-<div class="line"><span class="lineno">  117</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00064">mSpawnedPools</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a04f133b25c58d462c35a62c57862af14" name="a04f133b25c58d462c35a62c57862af14"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a04f133b25c58d462c35a62c57862af14">&#9670;&#160;</a></span>mActiveQuests</h2>
+<a id="a03268e85010c56f29325b80a9624a73b" name="a03268e85010c56f29325b80a9624a73b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03268e85010c56f29325b80a9624a73b">&#9670;&#160;</a></span>Delay</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/dae/a01136.html#a6fd2b29871e3f63cf9cc493968a0ab74">ActivePoolObjects</a> ActivePoolData::mActiveQuests</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WaypointNode::Delay</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00086">ActivateObject()</a>, <a class="el" href="../../#l00059">GetActiveQuests()</a>, <a class="el" href="../../#l00059">IsActiveObject()</a>, and <a class="el" href="../../#l00120">RemoveObject()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, and <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
 
 </div>
 </div>
-<a id="a9873ca821d26606ee06011a02bf3e1f8" name="a9873ca821d26606ee06011a02bf3e1f8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9873ca821d26606ee06011a02bf3e1f8">&#9670;&#160;</a></span>mSpawnedCreatures</h2>
+<a id="a2bffe84cee4076217d7c9cc09b880ad2" name="a2bffe84cee4076217d7c9cc09b880ad2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2bffe84cee4076217d7c9cc09b880ad2">&#9670;&#160;</a></span>EventChance</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/dae/a01136.html#a6fd2b29871e3f63cf9cc493968a0ab74">ActivePoolObjects</a> ActivePoolData::mSpawnedCreatures</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> WaypointNode::EventChance</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00065">ActivateObject()</a>, <a class="el" href="../../#l00038">IsActiveObject()</a>, and <a class="el" href="../../#l00093">RemoveObject()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>, and <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>.</p>
 
 </div>
 </div>
-<a id="ae4e61f0da2ed8848c3afced7af36e761" name="ae4e61f0da2ed8848c3afced7af36e761"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae4e61f0da2ed8848c3afced7af36e761">&#9670;&#160;</a></span>mSpawnedGameobjects</h2>
+<a id="a244afd47ae7c71a15c82d9ee7036ebdb" name="a244afd47ae7c71a15c82d9ee7036ebdb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a244afd47ae7c71a15c82d9ee7036ebdb">&#9670;&#160;</a></span>EventId</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/dae/a01136.html#a6fd2b29871e3f63cf9cc493968a0ab74">ActivePoolObjects</a> ActivePoolData::mSpawnedGameobjects</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WaypointNode::EventId</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00072">ActivateObject()</a>, <a class="el" href="../../#l00045">IsActiveObject()</a>, and <a class="el" href="../../#l00102">RemoveObject()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>, and <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>.</p>
 
 </div>
 </div>
-<a id="ab64e67ec373ca97edab12662190e36c5" name="ab64e67ec373ca97edab12662190e36c5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab64e67ec373ca97edab12662190e36c5">&#9670;&#160;</a></span>mSpawnedPools</h2>
+<a id="aec030367189f87dec789df49303916ed" name="aec030367189f87dec789df49303916ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec030367189f87dec789df49303916ed">&#9670;&#160;</a></span>Id</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/dae/a01136.html#ad18a3f26065fec260d0281c5354067dd">ActivePoolPools</a> ActivePoolData::mSpawnedPools</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WaypointNode::Id</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00065">ActivateObject()</a>, <a class="el" href="../../#l00030">GetActiveObjectCount()</a>, <a class="el" href="../../#l00052">IsActiveObject()</a>, and <a class="el" href="../../#l00093">RemoveObject()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00152">SmartAI::GetNextWayPoint()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, and <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+
+</div>
+</div>
+<a id="afd3a16c9a60b7f05816ab935b3578b8a" name="afd3a16c9a60b7f05816ab935b3578b8a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afd3a16c9a60b7f05816ab935b3578b8a">&#9670;&#160;</a></span>MoveType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WaypointNode::MoveType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, and <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+
+</div>
+</div>
+<a id="a91fd08cd83ae7bb1b27563c38e674722" name="a91fd08cd83ae7bb1b27563c38e674722"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a91fd08cd83ae7bb1b27563c38e674722">&#9670;&#160;</a></span>Orientation</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::optional&lt;float&gt; WaypointNode::Orientation</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00300">SmartAI::PausePath()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, and <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+
+</div>
+</div>
+<a id="a8c9c60d5c5b0941291b6e3ba0cbece5f" name="a8c9c60d5c5b0941291b6e3ba0cbece5f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c9c60d5c5b0941291b6e3ba0cbece5f">&#9670;&#160;</a></span>SmoothTransition</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool WaypointNode::SmoothTransition</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, and <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+
+</div>
+</div>
+<a id="a1a9c709edeb58be70f51da2079bba579" name="a1a9c709edeb58be70f51da2079bba579"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a9c709edeb58be70f51da2079bba579">&#9670;&#160;</a></span>SplinePoints</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;G3D::Vector3&gt; WaypointNode::SplinePoints</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+
+</div>
+</div>
+<a id="ab353b7326bb6bdbd5efd35574dcebbc0" name="ab353b7326bb6bdbd5efd35574dcebbc0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab353b7326bb6bdbd5efd35574dcebbc0">&#9670;&#160;</a></span>Velocity</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float WaypointNode::Velocity</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, and <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+
+</div>
+</div>
+<a id="aa62bd26c57e5cfbe62de0eb2d63e4610" name="aa62bd26c57e5cfbe62de0eb2d63e4610"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa62bd26c57e5cfbe62de0eb2d63e4610">&#9670;&#160;</a></span>X</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float WaypointNode::X</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00171">SmartAI::GenerateWayPointArray()</a>, <a class="el" href="../../#l00505">WaypointMovementGenerator&lt; Creature &gt;::GetResetPosition()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00640">SmartAI::MovepointReached()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>, and <a class="el" href="../../#l00113">UpdateHomePosition()</a>.</p>
+
+</div>
+</div>
+<a id="aba6568aff3a204c9e4ad8bfaeeaabc56" name="aba6568aff3a204c9e4ad8bfaeeaabc56"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba6568aff3a204c9e4ad8bfaeeaabc56">&#9670;&#160;</a></span>Y</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float WaypointNode::Y</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00171">SmartAI::GenerateWayPointArray()</a>, <a class="el" href="../../#l00505">WaypointMovementGenerator&lt; Creature &gt;::GetResetPosition()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00640">SmartAI::MovepointReached()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>, and <a class="el" href="../../#l00113">UpdateHomePosition()</a>.</p>
+
+</div>
+</div>
+<a id="aab4756345912b48fd2f352464e24bc1a" name="aab4756345912b48fd2f352464e24bc1a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aab4756345912b48fd2f352464e24bc1a">&#9670;&#160;</a></span>Z</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float WaypointNode::Z</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00171">SmartAI::GenerateWayPointArray()</a>, <a class="el" href="../../#l00505">WaypointMovementGenerator&lt; Creature &gt;::GetResetPosition()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00640">SmartAI::MovepointReached()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>, and <a class="el" href="../../#l00113">UpdateHomePosition()</a>.</p>
 
 </div>
 </div>
@@ -824,8 +468,8 @@ template&lt;&gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/db3/a10425.html">ActivePoolData</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:09:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/db3/a10425.html">WaypointNode</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:29:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

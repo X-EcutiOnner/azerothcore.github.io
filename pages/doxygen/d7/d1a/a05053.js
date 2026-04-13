@@ -1,21 +1,9 @@
 var a05053 =
 [
-    [ "Spell", "d3/da9/a08411.html", "d3/da9/a08411" ],
-    [ "Trainer", "de/d5d/a08415.html", "de/d5d/a08415" ],
-    [ "FailReason", "d7/d1a/a05053.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
-      [ "Unavailable", "d7/d1a/a05053.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
-      [ "NotEnoughMoney", "d7/d1a/a05053.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
-      [ "NotEnoughSkill", "d7/d1a/a05053.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
-    ] ],
-    [ "SpellState", "d7/d1a/a05053.html#a34dc7b354e539f94e4c8a4cbd0711758", [
-      [ "Available", "d7/d1a/a05053.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
-      [ "Unavailable", "d7/d1a/a05053.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
-      [ "Known", "d7/d1a/a05053.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
-    ] ],
-    [ "Type", "d7/d1a/a05053.html#a636cc62a0635fc1566fb574ebe9941a9", [
-      [ "Class", "d7/d1a/a05053.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
-      [ "Mount", "d7/d1a/a05053.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
-      [ "Tradeskill", "d7/d1a/a05053.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
-      [ "Pet", "d7/d1a/a05053.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
-    ] ]
+    [ "PermissibleOrderPred", "d4/deb/a06461.html", "d4/deb/a06461" ],
+    [ "GetPermitFor", "d7/d1a/a05053.html#aaf9c138ae6c123d03859db553a39892d", null ],
+    [ "SelectAI", "d7/d1a/a05053.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
+    [ "SelectFactory", "d7/d1a/a05053.html#ad553c2186f078e696768d40d217738f8", null ],
+    [ "SelectGameObjectAI", "d7/d1a/a05053.html#a2ce404e9b85f551638d8783c01a19860", null ],
+    [ "SelectMovementGenerator", "d7/d1a/a05053.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
 ];

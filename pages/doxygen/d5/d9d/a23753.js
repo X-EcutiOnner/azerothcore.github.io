@@ -1,9 +1,7 @@
 var a23753 =
 [
-    [ "HandleEffectApply", "d5/d9d/a23753.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "d5/d9d/a23753.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "d5/d9d/a23753.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "d5/d9d/a23753.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "d5/d9d/a23753.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "d5/d9d/a23753.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "npc_maxx_a_million_escortAI", "d2/d1e/a23757.html", "d2/d1e/a23757" ],
+    [ "npc_maxx_a_million_escort", "d5/d9d/a23753.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "d5/d9d/a23753.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "d5/d9d/a23753.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

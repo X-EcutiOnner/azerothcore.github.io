@@ -1,18 +1,8 @@
 var a05637 =
 [
-    [ "ProducerConsumerQueue", "d8/d0c/a05637.html#a79b3575e4e25204841ad6b2ca43b0b38", null ],
-    [ "Cancel", "d8/d0c/a05637.html#a7e9de516e77945411ad4f8bfa161489d", null ],
-    [ "DeleteQueuedObject", "d8/d0c/a05637.html#af375e232b14a288b4e514f4e1e726f06", null ],
-    [ "DeleteQueuedObject", "d8/d0c/a05637.html#a10e893856377f7f7a4be62c224a2aef3", null ],
-    [ "Empty", "d8/d0c/a05637.html#a1ad8d5d17442d0148b2d8d99e8c798b4", null ],
-    [ "Pop", "d8/d0c/a05637.html#afe8119f67dd7d95bbcd749d7ac9404d4", null ],
-    [ "Push", "d8/d0c/a05637.html#abd3bd3c88fbd7d8edb721fc5f89da5ed", null ],
-    [ "Shutdown", "d8/d0c/a05637.html#aff2060f9ae351caf2da543a5379911ca", null ],
-    [ "Size", "d8/d0c/a05637.html#adeefabd0da1df47a9ef3ec2fc6a78b80", null ],
-    [ "WaitAndPop", "d8/d0c/a05637.html#a172ef4211bcb237478ec57531c8dcc4d", null ],
-    [ "_cancel", "d8/d0c/a05637.html#a54223137936cfa679327d01313adfa01", null ],
-    [ "_condition", "d8/d0c/a05637.html#ace83931f4236e97f32c58067b05d35e9", null ],
-    [ "_queue", "d8/d0c/a05637.html#a5fc3a20c094041e2da999c4b37d735f0", null ],
-    [ "_queueLock", "d8/d0c/a05637.html#a18c7223e356b338f9ddbc17eadc6a21e", null ],
-    [ "_shutdown", "d8/d0c/a05637.html#a994ad012dfe4e9cd4d76d8eb9270f0d2", null ]
+    [ "LogOperation", "d8/d0c/a05637.html#a19e5e4731bd71697876110348f86d737", null ],
+    [ "~LogOperation", "d8/d0c/a05637.html#aae305e293044badac1a628edd501ed35", null ],
+    [ "call", "d8/d0c/a05637.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
+    [ "logger", "d8/d0c/a05637.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
+    [ "msg", "d8/d0c/a05637.html#a665effc48367f396f3e714f5d3d56d75", null ]
 ];

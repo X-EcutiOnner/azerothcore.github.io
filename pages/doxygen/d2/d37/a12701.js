@@ -1,7 +1,8 @@
 var a12701 =
 [
-    [ "go_suppression_deviceAI", "d1/d47/a12705.html", "d1/d47/a12705" ],
-    [ "go_suppression_device", "d2/d37/a12701.html#a900713d6b029015f8868a96e5e1b9018", null ],
-    [ "GetAI", "d2/d37/a12701.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
-    [ "OnLootStateChanged", "d2/d37/a12701.html#a684546c3ce0c0785d52a87eb011ef313", null ]
+    [ "FilterTargets", "d2/d37/a12701.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "d2/d37/a12701.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "d2/d37/a12701.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "d2/d37/a12701.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "d2/d37/a12701.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

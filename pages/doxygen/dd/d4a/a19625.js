@@ -1,6 +1,7 @@
 var a19625 =
 [
-    [ "boss_razuvious_minionAI", "df/d67/a19629.html", "df/d67/a19629" ],
-    [ "boss_razuvious_minion", "dd/d4a/a19625.html#ae23d51c9ebfe31f624a749578d27252c", null ],
-    [ "GetAI", "dd/d4a/a19625.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
+    [ "HandleProc", "dd/d4a/a19625.html#adb7714eca4c317ab76db0ecbc813669e", null ],
+    [ "PrepareAuraScript", "dd/d4a/a19625.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
+    [ "Register", "dd/d4a/a19625.html#a445ce7331c36e507aa24466ff9a67781", null ],
+    [ "Validate", "dd/d4a/a19625.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
 ];

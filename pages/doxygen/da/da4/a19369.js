@@ -1,5 +1,6 @@
 var a19369 =
 [
-    [ "creatureEntry", "da/da4/a19369.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "da/da4/a19369.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "boss_thaddiusAI", "dd/d77/a19373.html", "dd/d77/a19373" ],
+    [ "boss_thaddius", "da/da4/a19369.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "da/da4/a19369.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

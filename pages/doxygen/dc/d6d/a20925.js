@@ -1,11 +1,9 @@
 var a20925 =
 [
-    [ "boss_yoggsaron_neltharion", "dc/d6d/a20925.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
-    [ "NextStep", "dc/d6d/a20925.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
-    [ "Reset", "dc/d6d/a20925.html#ab26d57690c1d2477678dc9759aefeab2", null ],
-    [ "Say", "dc/d6d/a20925.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
-    [ "UpdateAI", "dc/d6d/a20925.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
-    [ "_checkTimer", "dc/d6d/a20925.html#a2adcf3f46d4003ae2044eda474e51983", null ],
-    [ "_running", "dc/d6d/a20925.html#acd807afae6aa88c2e385765231a56a86", null ],
-    [ "_step", "dc/d6d/a20925.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
+    [ "CastTheNextTwoSpells", "dc/d6d/a20925.html#a70a154ea5c19c36630e94c5214ee6722", null ],
+    [ "OnPeriodic", "dc/d6d/a20925.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
+    [ "PrepareAuraScript", "dc/d6d/a20925.html#ac7450be0713ce98e7986d322a58289f6", null ],
+    [ "PushBackTheNextTwoSpells", "dc/d6d/a20925.html#a9e470116c80cf56b425e344d73e44533", null ],
+    [ "Register", "dc/d6d/a20925.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
+    [ "_summonSpells", "dc/d6d/a20925.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
 ];

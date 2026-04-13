@@ -1,7 +1,5 @@
 var a27625 =
 [
-    [ "HandleAuraApply", "d6/d04/a27625.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "d6/d04/a27625.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "d6/d04/a27625.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "d6/d04/a27625.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "achievement_sa_defense_of_the_ancients", "d6/d04/a27625.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "d6/d04/a27625.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

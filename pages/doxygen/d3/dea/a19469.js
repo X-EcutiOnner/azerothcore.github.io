@@ -1,15 +1,8 @@
 var a19469 =
 [
-    [ "boss_gluthAI", "d3/dea/a19469.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
-    [ "JustDied", "d3/dea/a19469.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
-    [ "JustEngagedWith", "d3/dea/a19469.html#a25cf670d7254cc8331752987a854c63b", null ],
-    [ "JustSummoned", "d3/dea/a19469.html#acc09328210fbf1a6e81999d548676ae4", null ],
-    [ "KilledUnit", "d3/dea/a19469.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
-    [ "MoveInLineOfSight", "d3/dea/a19469.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
-    [ "Reset", "d3/dea/a19469.html#acb9f68205a2a210737d43893a414ca52", null ],
-    [ "SelectPlayerInRoom", "d3/dea/a19469.html#a1f8f87b00291d8164f607ac6262506cf", null ],
-    [ "SummonedCreatureDies", "d3/dea/a19469.html#a115a1f1327a931067223734dbf414675", null ],
-    [ "UpdateAI", "d3/dea/a19469.html#a2505f7ebda7b623edfedf96979a4a920", null ],
-    [ "events", "d3/dea/a19469.html#adaf9581259a774087ce02725b42b6b47", null ],
-    [ "summons", "d3/dea/a19469.html#a18f6aa3d949e68e9b38398780c017082", null ]
+    [ "Load", "d3/dea/a19469.html#af8ef90a44a5405e58dbb3003642c078b", null ],
+    [ "PrepareSpellScript", "d3/dea/a19469.html#a40649371440d62e4ba8af1b077880d0b", null ],
+    [ "Register", "d3/dea/a19469.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
+    [ "SendThreeTargets", "d3/dea/a19469.html#ab16b83839ce9136da84691640020f846", null ],
+    [ "Validate", "d3/dea/a19469.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
 ];

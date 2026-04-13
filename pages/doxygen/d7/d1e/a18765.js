@@ -1,9 +1,8 @@
 var a18765 =
 [
-    [ "npc_icc_ice_sphereAI", "d7/d1e/a18765.html#a685f45e5cd15b005646e596ff61088e8", null ],
-    [ "DoAction", "d7/d1e/a18765.html#ac056ecdd93bc716964054f38ab81014e", null ],
-    [ "SelectNewTarget", "d7/d1e/a18765.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
-    [ "UpdateAI", "d7/d1e/a18765.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
-    [ "targetGUID", "d7/d1e/a18765.html#a3e202f9bde2a202d329066f7aab8897c", null ],
-    [ "timer", "d7/d1e/a18765.html#a42842e92926e18ef2589687d81a7d0d4", null ]
+    [ "DecayPeriodicTimer", "d7/d1e/a18765.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d7/d1e/a18765.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d7/d1e/a18765.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d7/d1e/a18765.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d7/d1e/a18765.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

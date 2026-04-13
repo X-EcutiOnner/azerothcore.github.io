@@ -1,7 +1,9 @@
 var a17893 =
 [
-    [ "achievement_once_bitten_twice_shy", "d7/d6d/a17893.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
-    [ "OnCheck", "d7/d6d/a17893.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
-    [ "_spawnMode", "d7/d6d/a17893.html#a6f02f5ab07143ddff553279049714902", null ],
-    [ "_wasVampire", "d7/d6d/a17893.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
+    [ "CalculateDamage", "d7/d6d/a17893.html#a6a9e90d9463825b38b69afc234b35b39", null ],
+    [ "PrepareSpellScript", "d7/d6d/a17893.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
+    [ "Register", "d7/d6d/a17893.html#a2722814a55469e5bae572766ed36309b", null ],
+    [ "RemoveEnergy", "d7/d6d/a17893.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
+    [ "StoreEnergy", "d7/d6d/a17893.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
+    [ "_energyLeft", "d7/d6d/a17893.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
 ];

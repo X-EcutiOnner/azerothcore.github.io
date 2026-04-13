@@ -1,9 +1,26 @@
 var a10033 =
 [
-    [ "RectangleBoundary", "d0/d31/a10033.html#af401f84700a15fa1d4fcf78358a74735", null ],
-    [ "IsWithinBoundaryArea", "d0/d31/a10033.html#a2d6c735d080382263a401d91da37b934", null ],
-    [ "_maxX", "d0/d31/a10033.html#a3eff421dfe942634814e7526334f1c07", null ],
-    [ "_maxY", "d0/d31/a10033.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
-    [ "_minX", "d0/d31/a10033.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
-    [ "_minY", "d0/d31/a10033.html#af5a7e35d5d9ff23c722643141f01a916", null ]
+    [ "AddItem", "d0/d31/a10033.html#ab39b529b190bafe093a7931311c24626", null ],
+    [ "HasItems", "d0/d31/a10033.html#a0997971db668abca530f1869d71828dc", null ],
+    [ "IsCODPayment", "d0/d31/a10033.html#a113aef1ace737f4bf119ee9cec9d69bd", null ],
+    [ "IsReturnedMail", "d0/d31/a10033.html#adb7b77433c2ac76939d3fa9aa7ba5972", null ],
+    [ "IsSentByGM", "d0/d31/a10033.html#a0e07f4b90ae44b9dc2a2cac9589196db", null ],
+    [ "IsSentByPlayer", "d0/d31/a10033.html#a387fbf2f51eb9414bbcead134f59fa53", null ],
+    [ "RemoveItem", "d0/d31/a10033.html#ab96701f1ab95184d78a1a91c87d0076c", null ],
+    [ "body", "d0/d31/a10033.html#aaa91a94ee92b2712218a9cae389554f7", null ],
+    [ "checked", "d0/d31/a10033.html#ae3198d4379f7f783aa40b180311ca970", null ],
+    [ "COD", "d0/d31/a10033.html#ac6db3ffc26e23cc0aea607633390bb66", null ],
+    [ "deliver_time", "d0/d31/a10033.html#ac418d7eae438c2c3cd297477a760f0b1", null ],
+    [ "expire_time", "d0/d31/a10033.html#a5d7d7251c7a6021d9dc8b9406c0c20ff", null ],
+    [ "items", "d0/d31/a10033.html#aab1074d26d11d3216df8f7e6e9b8c1f7", null ],
+    [ "mailTemplateId", "d0/d31/a10033.html#afefffec74369d920ce395f1a04d8838c", null ],
+    [ "messageID", "d0/d31/a10033.html#a3ee287f59b36f3154cd977a1e92c4d47", null ],
+    [ "messageType", "d0/d31/a10033.html#a240dfdc4b89b7cb806330460d5256a44", null ],
+    [ "money", "d0/d31/a10033.html#af326068e66a3091aa731186e5e3295ed", null ],
+    [ "receiver", "d0/d31/a10033.html#a1cc9173228e34a23b635dfdb6fdf58a1", null ],
+    [ "removedItems", "d0/d31/a10033.html#a4299fd5b84f08ff8b1a8fa7caadf531b", null ],
+    [ "sender", "d0/d31/a10033.html#a62b403874a8e34a2ab99bc77dbe2996d", null ],
+    [ "state", "d0/d31/a10033.html#ae81b243e0ef55683b282e8bfae1d7a42", null ],
+    [ "stationery", "d0/d31/a10033.html#a88588149be95899c2fc30b144c4425a6", null ],
+    [ "subject", "d0/d31/a10033.html#a8bc2e13257b7a771c9065e35aaf02744", null ]
 ];

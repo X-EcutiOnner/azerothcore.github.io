@@ -1,7 +1,6 @@
 var a28017 =
 [
-    [ "CharacterDeleteActionIpLogger", "da/d57/a28017.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "da/d57/a28017.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "da/d57/a28017.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "da/d57/a28017.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "npc_innkeeper", "da/d57/a28017.html#a006f27d898ead8827d8b98d8b93d430d", null ],
+    [ "OnGossipHello", "da/d57/a28017.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
+    [ "OnGossipSelect", "da/d57/a28017.html#ab6cf511f5b032050336a77d1e4598dda", null ]
 ];

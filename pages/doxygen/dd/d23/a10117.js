@@ -1,9 +1,7 @@
 var a10117 =
 [
-    [ "MapUpdateRequest", "dd/d23/a10117.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "dd/d23/a10117.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "dd/d23/a10117.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "dd/d23/a10117.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "dd/d23/a10117.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "dd/d23/a10117.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "operator<", "dd/d23/a10117.html#adb62060523d8d5b11f16f3202a157f26", null ],
+    [ "respawnTime", "dd/d23/a10117.html#aaed69c7c6f9f78ecb365e233f1ff6dab", null ],
+    [ "spawnId", "dd/d23/a10117.html#a6faeab5132f3e539848ebe29cee5a5a4", null ],
+    [ "type", "dd/d23/a10117.html#a1400b212e0889c54047225ba57e95c94", null ]
 ];

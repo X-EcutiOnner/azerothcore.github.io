@@ -1,7 +1,10 @@
 var a13897 =
 [
-    [ "FilterTargets", "d2/d36/a13897.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
-    [ "HandleHit", "d2/d36/a13897.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
-    [ "PrepareSpellScript", "d2/d36/a13897.html#a905e1f979284a368463ad4829891b6ee", null ],
-    [ "Register", "d2/d36/a13897.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
+    [ "npc_sentinel_leader", "d2/d36/a13897.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "d2/d36/a13897.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "d2/d36/a13897.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "d2/d36/a13897.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "d2/d36/a13897.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "d2/d36/a13897.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "d2/d36/a13897.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

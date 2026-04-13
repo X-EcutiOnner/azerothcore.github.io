@@ -1,6 +1,10 @@
 var a13837 =
 [
-    [ "CastArmageddon", "d3/d0d/a13837.html#a2e90929b63e6151252aa01a55dbd801f", null ],
-    [ "Execute", "d3/d0d/a13837.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
-    [ "_caster", "d3/d0d/a13837.html#a1e70887099a7a47b7c26517d4363ad93", null ]
+    [ "npc_professor_phizzlethorpeAI", "d3/d0d/a13837.html#a92af4732575008c1a4f061cef0f23902", null ],
+    [ "JustEngagedWith", "d3/d0d/a13837.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
+    [ "JustSummoned", "d3/d0d/a13837.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
+    [ "sQuestAccept", "d3/d0d/a13837.html#ad4a4bd9af581abe832933da69b18d76f", null ],
+    [ "UpdateAI", "d3/d0d/a13837.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
+    [ "WaypointReached", "d3/d0d/a13837.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
+    [ "WaypointReached", "d3/d0d/a13837.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

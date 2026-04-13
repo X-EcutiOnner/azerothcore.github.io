@@ -1,13 +1,6 @@
 var a19305 =
 [
-    [ "npc_icc_spire_frostwyrm", "d6/dad/a19305.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
-    [ "CanAIAttack", "d6/dad/a19305.html#ab3364130aacf675602317651a244ae2c", null ],
-    [ "DoAction", "d6/dad/a19305.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
-    [ "JustEngagedWith", "d6/dad/a19305.html#abfc762cea6b7e40aaaff50b933410127", null ],
-    [ "JustReachedHome", "d6/dad/a19305.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
-    [ "MovementInform", "d6/dad/a19305.html#a8e7f148580d91d42959e972ef18b271b", null ],
-    [ "Reset", "d6/dad/a19305.html#a572add30e78af15a8d5d6918169802da", null ],
-    [ "UpdateAI", "d6/dad/a19305.html#ad193a9355e11ea25792e6285d375a488", null ],
-    [ "_canResetFlyingEffects", "d6/dad/a19305.html#a262d843fcb13a444ae377729135ca14d", null ],
-    [ "_scheduler", "d6/dad/a19305.html#a822096df7b1803d92e05ca27d544bd26", null ]
+    [ "boss_maexxnaAI", "d8/d85/a19309.html", "d8/d85/a19309" ],
+    [ "boss_maexxna", "d6/dad/a19305.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "d6/dad/a19305.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

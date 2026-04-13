@@ -1,7 +1,6 @@
 var a13649 =
 [
-    [ "OnPeriodic", "d5/dea/a13649.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "d5/dea/a13649.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "d5/dea/a13649.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "d5/dea/a13649.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "SpectralBlastCheck", "d5/dea/a13649.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
+    [ "operator()", "d5/dea/a13649.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
+    [ "_victim", "d5/dea/a13649.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
 ];

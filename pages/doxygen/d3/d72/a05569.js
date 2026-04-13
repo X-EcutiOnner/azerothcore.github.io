@@ -1,9 +1,10 @@
 var a05569 =
 [
-    [ "IpLocationStore", "d3/d72/a05569.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
-    [ "~IpLocationStore", "d3/d72/a05569.html#a82360c1ce130670fde23d42135f91324", null ],
-    [ "GetLocationRecord", "d3/d72/a05569.html#a06384169031d2417a7f6bac54d3187a9", null ],
-    [ "instance", "d3/d72/a05569.html#ad740adf9b81b37cf147dc00e220b29db", null ],
-    [ "Load", "d3/d72/a05569.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
-    [ "_ipLocationStore", "d3/d72/a05569.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
+    [ "Find", "d3/d72/a05569.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
+    [ "GetElements", "d3/d72/a05569.html#a653b00a9d570ae9d9276a061beda3f35", null ],
+    [ "GetElements", "d3/d72/a05569.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
+    [ "Insert", "d3/d72/a05569.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
+    [ "Remove", "d3/d72/a05569.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
+    [ "Size", "d3/d72/a05569.html#a289258c9015016a70d2867df7e113def", null ],
+    [ "_elements", "d3/d72/a05569.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
 ];

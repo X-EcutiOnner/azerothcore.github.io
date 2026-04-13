@@ -1,5 +1,7 @@
 var a28029 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "df/db1/a28029.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "df/db1/a28029.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "npc_engineering_tele_trinket", "df/db1/a28029.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "df/db1/a28029.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "df/db1/a28029.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "df/db1/a28029.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

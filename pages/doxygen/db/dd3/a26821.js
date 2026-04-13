@@ -1,8 +1,6 @@
 var a26821 =
 [
-    [ "CheckProc", "db/dd3/a26821.html#acfdb90639eb05a5ec252c20c9f302fed", null ],
-    [ "HandleProc", "db/dd3/a26821.html#aa2e48771627700ee12153b13a094cea8", null ],
-    [ "PrepareAuraScript", "db/dd3/a26821.html#a0fec47a0918ecfe3517c63190b27e91c", null ],
-    [ "Register", "db/dd3/a26821.html#a88b06e814ade33fad51c8036d963f654", null ],
-    [ "Validate", "db/dd3/a26821.html#ae9911ba6c95cfc6c345743b0f970062b", null ]
+    [ "HandleEffectPeriodic", "db/dd3/a26821.html#ab283b40ceb6dcd0a835550531321ce92", null ],
+    [ "PrepareAuraScript", "db/dd3/a26821.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
+    [ "Register", "db/dd3/a26821.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
 ];

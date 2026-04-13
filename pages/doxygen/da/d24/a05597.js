@@ -1,16 +1,11 @@
 var a05597 =
 [
-    [ "LogMessage", "da/d24/a05597.html#a563286e5cd6518e04b3069a86cf6e972", null ],
-    [ "LogMessage", "da/d24/a05597.html#a0a5626d481fe047437f213f1fa48a3aa", null ],
-    [ "LogMessage", "da/d24/a05597.html#a727fa3a719c50572711ada4e257102ab", null ],
-    [ "getTimeStr", "da/d24/a05597.html#aaeca452ae2fe32e7412f4abc30642da2", null ],
-    [ "getTimeStr", "da/d24/a05597.html#af40f502e57bf12f31fc7a2fe60584fc8", null ],
-    [ "operator=", "da/d24/a05597.html#af35b8fc183cb1848e965117497f50ab4", null ],
-    [ "Size", "da/d24/a05597.html#ad2947063f8263da27acc82ce0bba6bc2", null ],
-    [ "level", "da/d24/a05597.html#a44096654072d07e506ef6414a8ce4970", null ],
-    [ "mtime", "da/d24/a05597.html#a2dab9ed7c1aa8b784e74247667295e29", null ],
-    [ "param1", "da/d24/a05597.html#afcf2119e7c084339bd70e2ffb4c88d0e", null ],
-    [ "prefix", "da/d24/a05597.html#afe279a591acc9740457c3cd58d43a263", null ],
-    [ "text", "da/d24/a05597.html#a4ad799611980177ae87f3acbf2af8ff7", null ],
-    [ "type", "da/d24/a05597.html#a77105c721645df5654e3c48ce00c2b5a", null ]
+    [ "Decode", "da/d24/a05597.html#a1017c0ca9db8f38832271dbe04a6c22c", null ],
+    [ "DecodedSize", "da/d24/a05597.html#ae7f09527200686c22611e59e995a17ef", null ],
+    [ "Encode", "da/d24/a05597.html#a9132df0434948b03df8f79b6cc48252c", null ],
+    [ "EncodedSize", "da/d24/a05597.html#ab6808fd4c674e10ce28153394189abf5", null ],
+    [ "BITS_PER_CHAR", "da/d24/a05597.html#a04facbd14c7d876af5154cb200d74e6b", null ],
+    [ "DECODE_ERROR", "da/d24/a05597.html#ab52b675a0956909cdac9413443551086", null ],
+    [ "PAD_TO", "da/d24/a05597.html#a8cec4e14ca170842d1eadf8b7b42b12b", null ],
+    [ "PADDING", "da/d24/a05597.html#a328b2cd9dc377fb8d5b6740cde162b92", null ]
 ];

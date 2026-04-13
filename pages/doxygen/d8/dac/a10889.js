@@ -1,8 +1,11 @@
 var a10889 =
 [
-    [ "GuildEvent", "d8/dac/a10889.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "d8/dac/a10889.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "d8/dac/a10889.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "d8/dac/a10889.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "d8/dac/a10889.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "BackgroundColor", "d8/dac/a10889.html#abab86dd497de86088873178bf1d54b5b", null ],
+    [ "BorderColor", "d8/dac/a10889.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
+    [ "BorderStyle", "d8/dac/a10889.html#acd5105c31e0f56e680f3384e86186872", null ],
+    [ "EmblemColor", "d8/dac/a10889.html#a2e8a4768292d3566bb61009056a8a230", null ],
+    [ "EmblemStyle", "d8/dac/a10889.html#aa6309467f9f09725a8698de864b4e63c", null ],
+    [ "GuildName", "d8/dac/a10889.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
+    [ "RankCount", "d8/dac/a10889.html#acddb77850a86348df197afc724c4eaa0", null ],
+    [ "Ranks", "d8/dac/a10889.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
 ];

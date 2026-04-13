@@ -1,7 +1,5 @@
 var a27585 =
 [
-    [ "HandleProc", "d9/d49/a27585.html#a9531d72f68dfc46cb6a49c9d10ee14dc", null ],
-    [ "PrepareAuraScript", "d9/d49/a27585.html#a4bd22c4f4cbd80ca26b0e27081dcb406", null ],
-    [ "Register", "d9/d49/a27585.html#a5cdc48d549e97060e837c6396e19cfb4", null ],
-    [ "Validate", "d9/d49/a27585.html#ad69695289aca17548b11199a84bbaf37", null ]
+    [ "achievement_bg_control_all_nodes", "d9/d49/a27585.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "d9/d49/a27585.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

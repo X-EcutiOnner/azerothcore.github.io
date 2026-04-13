@@ -1,6 +1,5 @@
 var a12605 =
 [
-    [ "boss_solakar_flamewreathAI", "da/dde/a12609.html", "da/dde/a12609" ],
-    [ "boss_solakar_flamewreath", "d5/df9/a12605.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
-    [ "GetAI", "d5/df9/a12605.html#a0bd7971406392f15f68828ed217f4d06", null ]
+    [ "at_blackrock_stadium", "d5/df9/a12605.html#a9f577437f231a189c02e50e71ffcb85a", null ],
+    [ "OnTrigger", "d5/df9/a12605.html#a26e43099d9253ea44060194e3b38c656", null ]
 ];

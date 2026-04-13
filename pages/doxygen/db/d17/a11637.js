@@ -1,17 +1,6 @@
 var a11637 =
 [
-    [ "StaticData", "d7/ddf/a11641.html", "d7/ddf/a11641" ],
-    [ "SpellImplicitTargetInfo", "db/d17/a11637.html#a6eadac193f40d3a14db74d6e07552bdb", null ],
-    [ "SpellImplicitTargetInfo", "db/d17/a11637.html#a8e746c8dd4956a1bedc78c932740dfca", null ],
-    [ "CalcDirectionAngle", "db/d17/a11637.html#ac726d7df6103bc991e650c5d221ec4cc", null ],
-    [ "GetCheckType", "db/d17/a11637.html#a1822c2908aff0701ab6e56ccf1c83a83", null ],
-    [ "GetDirectionType", "db/d17/a11637.html#a094f5c6bc82196355aeded09cb469b7c", null ],
-    [ "GetExplicitTargetMask", "db/d17/a11637.html#ad368870f99d85f27ae2a15ee75b4b5dd", null ],
-    [ "GetObjectType", "db/d17/a11637.html#a964c185b1d3ed3563c6efa68e8bf9f42", null ],
-    [ "GetReferenceType", "db/d17/a11637.html#a59769a12291673682e1b5c3650e8aff7", null ],
-    [ "GetSelectionCategory", "db/d17/a11637.html#a5dd39484ccfed1e34b27d957614b45e6", null ],
-    [ "GetTarget", "db/d17/a11637.html#ae5a138c973300efce4744ea260108097", null ],
-    [ "IsArea", "db/d17/a11637.html#a263a4660dfdf8b77f69e5475048b414b", null ],
-    [ "_data", "db/d17/a11637.html#a1a05bbd8400ec4451ca34b2754e056e9", null ],
-    [ "_target", "db/d17/a11637.html#ab2cec29c53f0b9bc6a016ce177f97c1d", null ]
+    [ "ChannelTargetData", "db/d17/a11637.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "db/d17/a11637.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "db/d17/a11637.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

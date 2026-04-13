@@ -1,12 +1,14 @@
 var a22881 =
 [
-    [ "boss_essence_of_sufferingAI", "d5/d40/a22881.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
-    [ "DamageTaken", "d5/d40/a22881.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
-    [ "DoAction", "d5/d40/a22881.html#a08724d74523866969b12d13846eb4c1e", null ],
-    [ "JustEngagedWith", "d5/d40/a22881.html#aa2fce36768ad6e23a955cd215ca759db", null ],
-    [ "KilledUnit", "d5/d40/a22881.html#a3699b19f23cf15115ff8c92691a6d334", null ],
-    [ "MovementInform", "d5/d40/a22881.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
-    [ "Reset", "d5/d40/a22881.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "d5/d40/a22881.html#abb60432720b3720832ccc83d454a3808", null ],
-    [ "_recentlySpoken", "d5/d40/a22881.html#a71a28a61e97f6278836649411493484f", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d5/d40/a22881.html#a3e83985648f2951ee33d440c9c98bf72", null ],
+    [ "GetData", "d5/d40/a22881.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
+    [ "Initialize", "d5/d40/a22881.html#a8a2214e169acace8578c1863daf0a04c", null ],
+    [ "OnCreatureCreate", "d5/d40/a22881.html#ae5f77169c337420852962fe7ddba3006", null ],
+    [ "OnCreatureRemove", "d5/d40/a22881.html#a921442812da891a6651ddd235d4a98f9", null ],
+    [ "OnGameObjectCreate", "d5/d40/a22881.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
+    [ "SetBossState", "d5/d40/a22881.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
+    [ "SetData", "d5/d40/a22881.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
+    [ "_aliveKeepersCount", "d5/d40/a22881.html#a71f3a72d3aa47b267e3b8a7d1c90b6ff", null ],
+    [ "_frenzyCount", "d5/d40/a22881.html#acdba0cea9bdbe929a30bd2f790a613f9", null ],
+    [ "_shieldGeneratorGUID", "d5/d40/a22881.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
 ];

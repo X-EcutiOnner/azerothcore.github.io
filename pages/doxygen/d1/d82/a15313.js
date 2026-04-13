@@ -1,25 +1,7 @@
 var a15313 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "d1/d82/a15313.html#a31fbc078e2c8d2a0f070a8a52c34ef90", null ],
-    [ "CleanupInstance", "d1/d82/a15313.html#a20b8aa23c6c9e29f34cda71554c6d7a7", null ],
-    [ "GetData", "d1/d82/a15313.html#aa7ae89c6d23a061385a756cf0b0200bf", null ],
-    [ "GetGuidData", "d1/d82/a15313.html#a119965a939e79b0fb395e8e3695359aa", null ],
-    [ "Initialize", "d1/d82/a15313.html#ac9e53a8a406110bbc1d454be7b87fb34", null ],
-    [ "OnCreatureCreate", "d1/d82/a15313.html#a04bf5f844ab8e802f95745f56d996716", null ],
-    [ "OnGameObjectCreate", "d1/d82/a15313.html#ae5f9223af1488f1edd99f35f7b1c7207", null ],
-    [ "OnPlayerEnter", "d1/d82/a15313.html#a29ebe48953ba6be93da519c7a43c356e", null ],
-    [ "ReadSaveDataMore", "d1/d82/a15313.html#a81322de635b72f95de486ccd1abf9644", null ],
-    [ "Reposition", "d1/d82/a15313.html#a7fcd0c449edfe21933ee055549ea7ddf", null ],
-    [ "SetData", "d1/d82/a15313.html#a961dd71754113ce6b5aecde16b6426d2", null ],
-    [ "Update", "d1/d82/a15313.html#ac0bb22a2f69eecc269c69005777d9c38", null ],
-    [ "WriteSaveDataMore", "d1/d82/a15313.html#ae409ddd2759f8eea883cefa21d045a40", null ],
-    [ "_attemptsCount", "d1/d82/a15313.html#ac5c012148a60cc7dd26e36ba6950494b", null ],
-    [ "_barrelCount", "d1/d82/a15313.html#aeb5828d54f327c5d2a30004afa86c4af", null ],
-    [ "_encounterProgress", "d1/d82/a15313.html#a9b5fff035fb76116f0cea6f6786d506e", null ],
-    [ "_events", "d1/d82/a15313.html#ab3a9785a2240d62de4dfcf0b2523520f", null ],
-    [ "_finalFlamesSet", "d1/d82/a15313.html#a914232c182475a17e3583435f2fde9bc", null ],
-    [ "_initalFlamesSet", "d1/d82/a15313.html#a2404c19bd154f8277aa539f48ae99963", null ],
-    [ "_prisonersSet", "d1/d82/a15313.html#a43e3b3d3cb4797a8c03731df72e7cb5a", null ],
-    [ "_tarethaGUID", "d1/d82/a15313.html#ada3dcc37cba14ae8361989f1b842b462", null ],
-    [ "_thrallGUID", "d1/d82/a15313.html#add8e04fa930e970ab0e88258c10f9c5d", null ]
+    [ "boss_kurinnaxx", "d1/d82/a15313.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d1/d82/a15313.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d1/d82/a15313.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d1/d82/a15313.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

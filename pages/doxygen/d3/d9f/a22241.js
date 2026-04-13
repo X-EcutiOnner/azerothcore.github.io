@@ -1,6 +1,6 @@
 var a22241 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d1/d58/a22245.html", "d1/d58/a22245" ],
-    [ "npc_brunnhildar_prisoner", "d3/d9f/a22241.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "d3/d9f/a22241.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d1/d58/a22245.html", "d1/d58/a22245" ],
+    [ "instance_auchenai_crypts", "d3/d9f/a22241.html#a8b16924167c54a9d8120bac67bc10fed", null ],
+    [ "GetInstanceScript", "d3/d9f/a22241.html#a99e47df95fde07d4a6e7687634805b93", null ]
 ];

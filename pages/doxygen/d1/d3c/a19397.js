@@ -1,6 +1,8 @@
 var a19397 =
 [
-    [ "npc_four_car_garageAI", "df/df1/a19401.html", "df/df1/a19401" ],
-    [ "npc_four_car_garage", "d1/d3c/a19397.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
-    [ "GetAI", "d1/d3c/a19397.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
+    [ "npc_teslaAI", "d1/d3c/a19397.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "d1/d3c/a19397.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "d1/d3c/a19397.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "d1/d3c/a19397.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "d1/d3c/a19397.html#a962745569b07e368067ee483d2379840", null ]
 ];

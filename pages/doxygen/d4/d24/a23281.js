@@ -1,6 +1,6 @@
 var a23281 =
 [
-    [ "go_ahune_ice_stone", "d4/d24/a23281.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "d4/d24/a23281.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "d4/d24/a23281.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "boss_porung", "d4/d24/a23281.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d4/d24/a23281.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d4/d24/a23281.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

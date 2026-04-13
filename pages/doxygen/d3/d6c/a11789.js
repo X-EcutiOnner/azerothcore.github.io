@@ -1,6 +1,7 @@
 var a11789 =
 [
-    [ "EffectCalcAmountHandler", "d3/d6c/a11789.html#a4fe66bbf0433e80b602683a278e3a709", null ],
-    [ "Call", "d3/d6c/a11789.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
-    [ "pEffectHandlerScript", "d3/d6c/a11789.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
+    [ "EffectNameCheck", "d3/d6c/a11789.html#aa82307388bdda7864bb085a349b63f29", null ],
+    [ "Check", "d3/d6c/a11789.html#a729d7f07669dedec50f009a87b8f32a4", null ],
+    [ "ToString", "d3/d6c/a11789.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
+    [ "effName", "d3/d6c/a11789.html#a905224fb028ea0eab350773b7230f871", null ]
 ];

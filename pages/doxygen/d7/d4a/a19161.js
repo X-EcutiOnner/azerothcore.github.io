@@ -1,7 +1,7 @@
 var a19161 =
 [
-    [ "npc_impaling_spearAI", "d7/d4a/a19161.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "d7/d4a/a19161.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "d7/d4a/a19161.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "d7/d4a/a19161.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "HandleTriggerSpell", "d7/d4a/a19161.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "d7/d4a/a19161.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "d7/d4a/a19161.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "d7/d4a/a19161.html#a813bad39641956fff697580f271416d2", null ]
 ];

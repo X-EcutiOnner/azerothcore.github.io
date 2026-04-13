@@ -1,11 +1,7 @@
 var a16025 =
 [
-    [ "npc_thrall_warchiefAI", "df/d86/a16025.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
-    [ "DoAction", "df/d86/a16025.html#a511da19703e30f6e82e59c5223bf2770", null ],
-    [ "JustDied", "df/d86/a16025.html#a5e6da0a5f5190d7959faff60851e679a", null ],
-    [ "JustEngagedWith", "df/d86/a16025.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
-    [ "Reset", "df/d86/a16025.html#a920a29258228c9c2e7e0791d38b648e1", null ],
-    [ "UpdateAI", "df/d86/a16025.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
-    [ "ChainLightningTimer", "df/d86/a16025.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
-    [ "ShockTimer", "df/d86/a16025.html#aa8609f8824f68ce7259465284c01dd35", null ]
+    [ "npc_ranshallaAI", "d2/d39/a16029.html", "d2/d39/a16029" ],
+    [ "npc_ranshalla", "df/d86/a16025.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "df/d86/a16025.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "df/d86/a16025.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

@@ -1,7 +1,7 @@
 var a12465 =
 [
-    [ "boss_moira_bronzebeardAI", "d2/dd1/a12465.html#a11265b6aad76574c2c76253128c79165", null ],
-    [ "CastOnEmperorIfPossible", "d2/dd1/a12465.html#a0df43e5c605783312291bd4ba1921f8c", null ],
-    [ "JustEngagedWith", "d2/dd1/a12465.html#a40ae00eb86e2bec048a9394d4deef106", null ],
-    [ "UpdateAI", "d2/dd1/a12465.html#ae3f22a059330fb564cd30e581fc0198d", null ]
+    [ "boss_gorosh_the_dervish", "d2/dd1/a12465.html#a49b79326e3eae3f42be4955f30982ffe", null ],
+    [ "JustEngagedWith", "d2/dd1/a12465.html#ad3b7ab3db30d16549cd85c471bbb190b", null ],
+    [ "UpdateAI", "d2/dd1/a12465.html#adf24561c335f1023f44f76709e66bc83", null ],
+    [ "nextWhirlwindTime", "d2/dd1/a12465.html#a61b57a2db3d097a0da74a502fb272339", null ]
 ];

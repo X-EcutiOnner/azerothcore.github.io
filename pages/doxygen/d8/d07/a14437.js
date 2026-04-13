@@ -1,12 +1,10 @@
 var a14437 =
 [
-    [ "npc_zulian_prowlerAI", "d8/d07/a14437.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "d8/d07/a14437.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "d8/d07/a14437.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "d8/d07/a14437.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "d8/d07/a14437.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "d8/d07/a14437.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "d8/d07/a14437.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "d8/d07/a14437.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "d8/d07/a14437.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "npc_zealot_zath", "d8/d07/a14437.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "d8/d07/a14437.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "d8/d07/a14437.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "d8/d07/a14437.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "d8/d07/a14437.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "d8/d07/a14437.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "d8/d07/a14437.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

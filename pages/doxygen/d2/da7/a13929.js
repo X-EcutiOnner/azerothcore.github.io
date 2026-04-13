@@ -1,8 +1,6 @@
 var a13929 =
 [
-    [ "HandleApply", "d2/da7/a13929.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "d2/da7/a13929.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "d2/da7/a13929.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "d2/da7/a13929.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "d2/da7/a13929.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "OnEffect", "d2/da7/a13929.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "d2/da7/a13929.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "d2/da7/a13929.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

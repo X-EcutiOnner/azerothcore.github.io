@@ -1,6 +1,6 @@
 var a17201 =
 [
-    [ "boss_trollgoreAI", "d2/d8d/a17205.html", "d2/d8d/a17205" ],
-    [ "boss_trollgore", "d5/db5/a17201.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "d5/db5/a17201.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "boss_garfrostAI", "d2/d8d/a17205.html", "d2/d8d/a17205" ],
+    [ "boss_garfrost", "d5/db5/a17201.html#ac116491cf252ee476cedee55ea292827", null ],
+    [ "GetAI", "d5/db5/a17201.html#a8a67bb09249655a8706868bb26b5124d", null ]
 ];

@@ -1,6 +1,8 @@
 var a15981 =
 [
-    [ "npc_great_bear_spirit", "d1/dd9/a15981.html#a141470a3623aa1152d3505661f1532c8", null ],
-    [ "OnGossipHello", "d1/dd9/a15981.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
-    [ "OnGossipSelect", "d1/dd9/a15981.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
+    [ "npc_pluckyAI", "dc/def/a15985.html", "dc/def/a15985" ],
+    [ "npc_plucky", "d1/dd9/a15981.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "d1/dd9/a15981.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "d1/dd9/a15981.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "d1/dd9/a15981.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

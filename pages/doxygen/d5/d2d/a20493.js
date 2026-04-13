@@ -1,6 +1,11 @@
 var a20493 =
 [
-    [ "HandleAfterEffectApply", "d5/d2d/a20493.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "d5/d2d/a20493.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "d5/d2d/a20493.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "boss_thorim_ancient_rune_giant", "d5/d2d/a20493.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
+    [ "DoAction", "d5/d2d/a20493.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
+    [ "JustDied", "d5/d2d/a20493.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
+    [ "JustEngagedWith", "d5/d2d/a20493.html#a98fa309963245a0c57676ff019085fac", null ],
+    [ "Reset", "d5/d2d/a20493.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
+    [ "UpdateAI", "d5/d2d/a20493.html#a903d7448d9441866475d77fce8ca6d37", null ],
+    [ "_isInCombat", "d5/d2d/a20493.html#a148ff1fa8010466de069032f660cd08e", null ],
+    [ "events", "d5/d2d/a20493.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
 ];

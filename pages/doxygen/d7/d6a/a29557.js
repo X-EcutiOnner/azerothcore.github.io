@@ -1,22 +1,6 @@
 var a29557 =
 [
-    [ "HealInfoStub", "d7/d6a/a29557.html#afa2b7c6e93b387f16e2b545adc4fa05c", null ],
-    [ "HealInfoStub", "d7/d6a/a29557.html#ae011c5a0f72cd5581e661793c3ac2fdc", null ],
-    [ "~HealInfoStub", "d7/d6a/a29557.html#ae599d81216cbcaa69f206ac6eca6d886", null ],
-    [ "GetAbsorb", "d7/d6a/a29557.html#aae8cd0f206d4dbd78b56838cdb49dad6", null ],
-    [ "GetEffectiveHeal", "d7/d6a/a29557.html#aa19e94b9523f803f2af09fb77382f3c2", null ],
-    [ "GetHeal", "d7/d6a/a29557.html#abc0ad944af22920bc105b1b4c71ad467", null ],
-    [ "GetHitMask", "d7/d6a/a29557.html#ac110638d1729fae0ba6594d7f092d4b0", null ],
-    [ "GetOverheal", "d7/d6a/a29557.html#a5af3db6eed10c8b2cd17f0509f6085fa", null ],
-    [ "GetSpellInfo", "d7/d6a/a29557.html#a05ce52ae6ea15c8043dfeae236466017", null ],
-    [ "SetAbsorb", "d7/d6a/a29557.html#a5f7988705654a3b6f460ddbbecb3992b", null ],
-    [ "SetEffectiveHeal", "d7/d6a/a29557.html#ad8c263f50edf324a72ca366f6caf4377", null ],
-    [ "SetHeal", "d7/d6a/a29557.html#a6dede4a2256ff21fde331ae05d257718", null ],
-    [ "SetHitMask", "d7/d6a/a29557.html#a4f50475819621d56efd4e359ed004483", null ],
-    [ "SetSpellInfo", "d7/d6a/a29557.html#a2e5ac0bb798710d33e0ff4c29c8507a0", null ],
-    [ "_absorb", "d7/d6a/a29557.html#a1b6726177d88f4da4b4fa36e96136711", null ],
-    [ "_effectiveHeal", "d7/d6a/a29557.html#aab54619f78456698c646d83ac448e1e2", null ],
-    [ "_heal", "d7/d6a/a29557.html#a44c86cf0c0d87d9ceb9574ced0990845", null ],
-    [ "_hitMask", "d7/d6a/a29557.html#a2228ffd4334cc5adff51e67394d19de9", null ],
-    [ "_spellInfo", "d7/d6a/a29557.html#a94cd95b537e2510047da23a7f9176aa6", null ]
+    [ "OffsetAttributes", "d7/d6a/a29557.html#a072918c298b316823e784c2e5779be2a", null ],
+    [ "OffsetInstances", "d7/d6a/a29557.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
+    [ "used", "d7/d6a/a29557.html#a20a458e613639ea26255dd772824a642", null ]
 ];

@@ -1,6 +1,7 @@
 var a29213 =
 [
-    [ "Enchantment", "dd/df9/a29213.html#a480ab806214bb138d56dfd5e9e43936f", null ],
-    [ "ID", "dd/df9/a29213.html#acb673be771124b84dd3fdd5deb300de7", null ],
-    [ "Name", "dd/df9/a29213.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
+    [ "flatModifier", "dd/df9/a29213.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "dd/df9/a29213.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "dd/df9/a29213.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "dd/df9/a29213.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

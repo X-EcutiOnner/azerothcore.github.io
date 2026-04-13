@@ -1,7 +1,6 @@
 var a15253 =
 [
-    [ "OnRemove", "db/d9d/a15253.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "db/d9d/a15253.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "db/d9d/a15253.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "db/d9d/a15253.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "npc_idol_room_spawnerAI", "d8/d76/a15257.html", "d8/d76/a15257" ],
+    [ "npc_idol_room_spawner", "db/d9d/a15253.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "db/d9d/a15253.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

@@ -1,7 +1,9 @@
 var a29345 =
 [
-    [ "Flags", "df/d42/a29345.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "df/d42/a29345.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "df/d42/a29345.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "df/d42/a29345.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "CountQuestOnCreature", "df/d42/a29345.html#a4bf05b65d940e61567667d0939e177e5", null ],
+    [ "SetUp", "df/d42/a29345.html#a4788953a58bbea222cf59662b4427e72", null ],
+    [ "SimulateReload", "df/d42/a29345.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
+    [ "SimulateSpawn1Object", "df/d42/a29345.html#a82c53349ba3754a75b2c1570fe413d09", null ],
+    [ "TearDown", "df/d42/a29345.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
+    [ "creatureQuestMap", "df/d42/a29345.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
 ];

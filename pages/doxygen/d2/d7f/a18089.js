@@ -1,6 +1,6 @@
 var a18089 =
 [
-    [ "npc_gunship_mageAI", "df/db6/a18093.html", "df/db6/a18093" ],
-    [ "npc_gunship_mage", "d2/d7f/a18089.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
-    [ "GetAI", "d2/d7f/a18089.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
+    [ "HandleScript", "d2/d7f/a18089.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
+    [ "PrepareSpellScript", "d2/d7f/a18089.html#a68c0462bd108b04621f8288328f78b18", null ],
+    [ "Register", "d2/d7f/a18089.html#aedaec0afc414800bc481a434592ffb5d", null ]
 ];

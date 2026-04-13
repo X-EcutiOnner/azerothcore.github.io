@@ -1,6 +1,6 @@
 var a10941 =
 [
-    [ "GuildDemoteMember", "d1/df8/a10941.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "d1/df8/a10941.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "d1/df8/a10941.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "GuildInviteByName", "d1/df8/a10941.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
+    [ "Read", "d1/df8/a10941.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
+    [ "Name", "d1/df8/a10941.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
 ];

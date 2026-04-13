@@ -1,6 +1,12 @@
 var a07505 =
 [
-    [ "ArenaTeamFilterByTypes", "da/d0a/a07505.html#ac28ee86767c48219dbe141620c87e129", null ],
-    [ "Filter", "da/d0a/a07505.html#a7c04437788359b40db1c0d4492d51497", null ],
-    [ "_validTypes", "da/d0a/a07505.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
+    [ "Arena", "da/d0a/a07505.html#a74f105bc709d4728fb07f1984abfd345", null ],
+    [ "AddPlayer", "da/d0a/a07505.html#ae24fe304d35c0c09379203135e936450", null ],
+    [ "CheckWinConditions", "da/d0a/a07505.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
+    [ "EndBattleground", "da/d0a/a07505.html#a2be61602189b530a16a9ca954d180914", null ],
+    [ "FillInitialWorldStates", "da/d0a/a07505.html#a592100d0f0ed492a5cdf941e57db787f", null ],
+    [ "HandleKillPlayer", "da/d0a/a07505.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
+    [ "RemovePlayer", "da/d0a/a07505.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
+    [ "RemovePlayerAtLeave", "da/d0a/a07505.html#acae21233e11b21b612e5c051bfa7720e", null ],
+    [ "UpdateArenaWorldState", "da/d0a/a07505.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
 ];

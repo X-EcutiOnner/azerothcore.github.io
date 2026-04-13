@@ -1,7 +1,7 @@
 var a11409 =
 [
-    [ "OpcodeHandler", "d3/d64/a04974.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d3/d64/a04974.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d3/d64/a04974.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d3/d64/a04974.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "PetDismissSound", "d0/da2/a11409.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
+    [ "Write", "d0/da2/a11409.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
+    [ "ModelId", "d0/da2/a11409.html#aba65e6547adde55978ce7b2abb779d51", null ],
+    [ "ModelPosition", "d0/da2/a11409.html#a06e6bff9d70996ba890c31ea74363dad", null ]
 ];

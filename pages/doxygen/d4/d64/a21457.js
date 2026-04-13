@@ -1,6 +1,6 @@
 var a21457 =
 [
-    [ "npc_azure_stalkerAI", "d3/dc6/a21461.html", "d3/dc6/a21461" ],
-    [ "npc_azure_stalker", "d4/d64/a21457.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
-    [ "GetAI", "d4/d64/a21457.html#a1c067809f98a4d7845d2fb4269742274", null ]
+    [ "SACDeactivateEvent", "d4/d64/a21457.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "d4/d64/a21457.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "d4/d64/a21457.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

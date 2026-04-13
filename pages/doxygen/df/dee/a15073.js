@@ -1,6 +1,8 @@
 var a15073 =
 [
-    [ "HandleScriptEffect", "df/dee/a15073.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
-    [ "PrepareSpellScript", "df/dee/a15073.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
-    [ "Register", "df/dee/a15073.html#aee5d9189b6df318b57e919511a185a99", null ]
+    [ "npc_arthasAI", "d9/d04/a15077.html", "d9/d04/a15077" ],
+    [ "npc_arthas", "df/dee/a15073.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "df/dee/a15073.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "df/dee/a15073.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "df/dee/a15073.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

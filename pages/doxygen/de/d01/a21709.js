@@ -1,6 +1,6 @@
 var a21709 =
 [
-    [ "npc_hourglass_of_eternityAI", "d7/d92/a21713.html", "d7/d92/a21713" ],
-    [ "npc_hourglass_of_eternity", "de/d01/a21709.html#a40500ff582ead06bd646be86baad7d35", null ],
-    [ "GetAI", "de/d01/a21709.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
+    [ "npc_boneguard_footmanAI", "de/d01/a21709.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "de/d01/a21709.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "de/d01/a21709.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

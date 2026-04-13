@@ -1,8 +1,5 @@
 var a12413 =
 [
-    [ "boss_evisceratorAI", "dc/d83/a12413.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
-    [ "DamageTaken", "dc/d83/a12413.html#aab3e8290963ca6c312715f18727d3e82", null ],
-    [ "JustEngagedWith", "dc/d83/a12413.html#a60f3942b352206888569f60776041a28", null ],
-    [ "UpdateAI", "dc/d83/a12413.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
-    [ "SpellShieldReady", "dc/d83/a12413.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
+    [ "go_shadowforge_brazier", "dc/d83/a12413.html#a35a7aa318b20bc2b0e3081be506e835e", null ],
+    [ "GossipHello", "dc/d83/a12413.html#addeb7e7008526ca6b03438dbab09b10a", null ]
 ];

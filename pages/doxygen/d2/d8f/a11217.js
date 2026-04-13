@@ -1,5 +1,6 @@
 var a11217 =
 [
-    [ "DurabilityDamageDeath", "d2/d8f/a11217.html#a9b4350d37291b9b714be1563b28dcb43", null ],
-    [ "Write", "d2/d8f/a11217.html#a35a93d9abeeb029f3da080487423f495", null ]
+    [ "ItemRefund", "d2/d8f/a11217.html#aa257d579519d45da88694ff6306395da", null ],
+    [ "Read", "d2/d8f/a11217.html#a6d031070a4832bdc716f8b73629ebc8d", null ],
+    [ "ItemGuid", "d2/d8f/a11217.html#ac394336b15540248770f81d748206f7b", null ]
 ];

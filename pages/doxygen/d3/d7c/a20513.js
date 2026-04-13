@@ -1,5 +1,5 @@
 var a20513 =
 [
-    [ "achievement_i_have_the_coolest_friends", "d3/d7c/a20513.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "d3/d7c/a20513.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "d3/d7c/a20513.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "d3/d7c/a20513.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

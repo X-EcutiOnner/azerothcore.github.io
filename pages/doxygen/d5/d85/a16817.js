@@ -1,6 +1,6 @@
 var a16817 =
 [
-    [ "HideNpcEvent", "d5/d85/a16817.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "d5/d85/a16817.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "d5/d85/a16817.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "npc_fel_infernalAI", "dd/d22/a16821.html", "dd/d22/a16821" ],
+    [ "npc_fel_infernal", "d5/d85/a16817.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "d5/d85/a16817.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

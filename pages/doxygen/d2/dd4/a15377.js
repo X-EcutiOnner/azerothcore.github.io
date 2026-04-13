@@ -1,6 +1,7 @@
 var a15377 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d9/d9d/a15381.html", "d9/d9d/a15381" ],
-    [ "instance_dire_maul", "d2/dd4/a15377.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "d2/dd4/a15377.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "npc_hivezara_stinger", "d2/dd4/a15377.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "d2/dd4/a15377.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "d2/dd4/a15377.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "d2/dd4/a15377.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

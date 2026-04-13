@@ -1,6 +1,6 @@
 var a27045 =
 [
-    [ "CheckRequirement", "d0/da5/a27045.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "d0/da5/a27045.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "d0/da5/a27045.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "HandlePeriodic", "d0/da5/a27045.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
+    [ "PrepareAuraScript", "d0/da5/a27045.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
+    [ "Register", "d0/da5/a27045.html#ac90afe9f5d9d55faba2282a875469311", null ]
 ];

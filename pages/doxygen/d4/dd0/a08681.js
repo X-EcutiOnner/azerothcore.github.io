@@ -1,11 +1,13 @@
 var a08681 =
 [
-    [ "PackedGuid", "d4/dd0/a08681.html#a9268f8d34f24ef52369d605f94986a8d", null ],
-    [ "PackedGuid", "d4/dd0/a08681.html#a6d4559bc2a1d8c27247329c95c2b6156", null ],
-    [ "PackedGuid", "d4/dd0/a08681.html#adf388e273472f2699348c7a4361ebac4", null ],
-    [ "Set", "d4/dd0/a08681.html#aecbb8650ca713c175c30cd3ebe86b5d5", null ],
-    [ "Set", "d4/dd0/a08681.html#ae5d174d63a0b9d33b919f05760290bea", null ],
-    [ "size", "d4/dd0/a08681.html#a22ac06b7072951e84bbf69abcd7d58f6", null ],
-    [ "operator<<", "d4/dd0/a08681.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "_packedGuid", "d4/dd0/a08681.html#aeb0e51f1667a2627aabffd6d7cb1779c", null ]
+    [ "FlaggedValuesArray32", "d4/dd0/a08681.html#a0680f7b67001783f20d89989a49cbead", null ],
+    [ "AddFlag", "d4/dd0/a08681.html#a273ab3607b23881628eb0c5d6a4da288", null ],
+    [ "AddValue", "d4/dd0/a08681.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
+    [ "DelFlag", "d4/dd0/a08681.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
+    [ "GetFlags", "d4/dd0/a08681.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
+    [ "GetValue", "d4/dd0/a08681.html#a87e5949bc041f15449331aceb277e8c4", null ],
+    [ "HasFlag", "d4/dd0/a08681.html#a0ea5d977caef5152c71c515259a91f06", null ],
+    [ "SetValue", "d4/dd0/a08681.html#ad0d385589befe52103f077723fa2463c", null ],
+    [ "m_flags", "d4/dd0/a08681.html#abab31b77efb46fa796275c36964eab91", null ],
+    [ "m_values", "d4/dd0/a08681.html#aabd025f47ad522e574f603eb559500f0", null ]
 ];

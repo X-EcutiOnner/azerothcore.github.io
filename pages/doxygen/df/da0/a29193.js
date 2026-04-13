@@ -1,11 +1,15 @@
 var a29193 =
 [
-    [ "ClassID", "df/da0/a29193.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
-    [ "DisplayInfoID", "df/da0/a29193.html#a87657df2ad024245ccb2192303f76b7a", null ],
-    [ "ID", "df/da0/a29193.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
-    [ "InventoryType", "df/da0/a29193.html#a6dc33fc40a299b010c18a7009aff648b", null ],
-    [ "Material", "df/da0/a29193.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
-    [ "SheatheType", "df/da0/a29193.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
-    [ "SoundOverrideSubclassID", "df/da0/a29193.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
-    [ "SubclassID", "df/da0/a29193.html#ac39254716573e335caf312f635353a2e", null ]
+    [ "DamageInfoStubBuilder", "df/da0/a29193.html#a282b4f92722f9cf12358a9f603df6902", null ],
+    [ "Build", "df/da0/a29193.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
+    [ "WithAbsorb", "df/da0/a29193.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
+    [ "WithAttackType", "df/da0/a29193.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
+    [ "WithBlock", "df/da0/a29193.html#a81381d471627ddd6e86678551ca4ab5b", null ],
+    [ "WithDamage", "df/da0/a29193.html#abf9d30cde831f2094a181a312bcfe9df", null ],
+    [ "WithHitMask", "df/da0/a29193.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
+    [ "WithOriginalDamage", "df/da0/a29193.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
+    [ "WithResist", "df/da0/a29193.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
+    [ "WithSchoolMask", "df/da0/a29193.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
+    [ "WithSpellInfo", "df/da0/a29193.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
+    [ "_stub", "df/da0/a29193.html#abf06c6b638dcd9489fa0e3d755433514", null ]
 ];

@@ -1,6 +1,6 @@
 var a23021 =
 [
-    [ "HandleScriptEffect", "df/db1/a23021.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
-    [ "PrepareSpellScript", "df/db1/a23021.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
-    [ "Register", "df/db1/a23021.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
+    [ "instance_steam_vault_InstanceMapScript", "df/dad/a23025.html", "df/dad/a23025" ],
+    [ "instance_steam_vault", "df/db1/a23021.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "df/db1/a23021.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

@@ -1,9 +1,6 @@
 var a17277 =
 [
-    [ "HandlePeriodicTick", "d5/d16/a17277.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "d5/d16/a17277.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "d5/d16/a17277.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "d5/d16/a17277.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "d5/d16/a17277.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "d5/d16/a17277.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "npc_pos_tyrannus_eventsAI", "da/d2c/a17281.html", "da/d2c/a17281" ],
+    [ "npc_pos_tyrannus_events", "d5/d16/a17277.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
+    [ "GetAI", "d5/d16/a17277.html#ae5863e99d77815de71c1774e908b3f65", null ]
 ];

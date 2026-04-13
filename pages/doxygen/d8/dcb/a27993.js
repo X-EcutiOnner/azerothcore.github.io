@@ -1,5 +1,5 @@
 var a27993 =
 [
-    [ "achievement_not_even_a_scratch", "d8/dcb/a27993.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d8/dcb/a27993.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "item_disgusting_jar", "d8/dcb/a27993.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "d8/dcb/a27993.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

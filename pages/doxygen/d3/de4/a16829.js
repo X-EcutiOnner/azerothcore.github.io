@@ -1,6 +1,10 @@
 var a16829 =
 [
-    [ "npc_swarm_scarabAI", "d7/de4/a16833.html", "d7/de4/a16833" ],
-    [ "npc_swarm_scarab", "d3/de4/a16829.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
-    [ "GetAI", "d3/de4/a16829.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
+    [ "npc_mistress_of_painAI", "d3/de4/a16829.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "d3/de4/a16829.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "d3/de4/a16829.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "d3/de4/a16829.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "d3/de4/a16829.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "d3/de4/a16829.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "d3/de4/a16829.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

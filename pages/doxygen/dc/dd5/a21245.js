@@ -1,6 +1,7 @@
 var a21245 =
 [
-    [ "boss_emalonAI", "d2/dc4/a21249.html", "d2/dc4/a21249" ],
-    [ "boss_emalon", "dc/dd5/a21245.html#a2dd481292e02337bebd450f5c9821886", null ],
-    [ "GetAI", "dc/dd5/a21245.html#a345b0663ba89de5e37b87a436c48e446", null ]
+    [ "npc_valiance_keep_cannoneerAI", "dc/dd5/a21245.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "dc/dd5/a21245.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "dc/dd5/a21245.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "dc/dd5/a21245.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

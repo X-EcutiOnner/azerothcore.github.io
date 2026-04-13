@@ -1,14 +1,10 @@
 var a12269 =
 [
-    [ "tele_commandscript", "d6/dbc/a12269.html#a13d522c3480c5b82071d5f77bd41f942", null ],
-    [ "DoNameTeleport", "d6/dbc/a12269.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
-    [ "GetCommands", "d6/dbc/a12269.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
-    [ "HandleTeleAddCommand", "d6/dbc/a12269.html#a8d429a38c01a19f8c89c87937ef24248", null ],
-    [ "HandleTeleCommand", "d6/dbc/a12269.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
-    [ "HandleTeleDelCommand", "d6/dbc/a12269.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
-    [ "HandleTeleGroupCommand", "d6/dbc/a12269.html#af83e529b482654851a7a1ee77beb107e", null ],
-    [ "HandleTeleNameCommand", "d6/dbc/a12269.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
-    [ "HandleTeleNameNpcIdCommand", "d6/dbc/a12269.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
-    [ "HandleTeleNameNpcNameCommand", "d6/dbc/a12269.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
-    [ "HandleTeleNameNpcSpawnIdCommand", "d6/dbc/a12269.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
+    [ "mmaps_commandscript", "d6/dbc/a12269.html#a1dbdfd26bdb685315a3012453080a56f", null ],
+    [ "GetCommands", "d6/dbc/a12269.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
+    [ "HandleMmapLoadedTilesCommand", "d6/dbc/a12269.html#a40d5b7e733298210c686fe89490b6f61", null ],
+    [ "HandleMmapLocCommand", "d6/dbc/a12269.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
+    [ "HandleMmapPathCommand", "d6/dbc/a12269.html#a2c876439ad6d9ff7523f140d97743dea", null ],
+    [ "HandleMmapStatsCommand", "d6/dbc/a12269.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
+    [ "HandleMmapTestArea", "d6/dbc/a12269.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
 ];

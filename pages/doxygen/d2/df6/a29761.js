@@ -1,9 +1,8 @@
 var a29761 =
 [
-    [ "defaultHitMask", "d2/df6/a29761.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
-    [ "defaultSpellPhaseMask", "d2/df6/a29761.html#af927bd441959e8e122648de610398c65", null ],
-    [ "defaultSpellTypeMask", "d2/df6/a29761.html#aa64e6ad192c41998b368b908c499574d", null ],
-    [ "name", "d2/df6/a29761.html#a78f8589133427f536f15ea05672ad42f", null ],
-    [ "procFlag", "d2/df6/a29761.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
-    [ "requiresSpellPhase", "d2/df6/a29761.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
+    [ "Color", "d2/df6/a29761.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "d2/df6/a29761.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "d2/df6/a29761.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "d2/df6/a29761.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "d2/df6/a29761.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

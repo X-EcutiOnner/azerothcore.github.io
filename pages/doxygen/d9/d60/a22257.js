@@ -1,6 +1,8 @@
 var a22257 =
 [
-    [ "npc_icefangAI", "de/d9c/a22261.html", "de/d9c/a22261" ],
-    [ "npc_icefang", "d9/d60/a22257.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d9/d60/a22257.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "boss_pandemonius", "d9/d60/a22257.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "d9/d60/a22257.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "d9/d60/a22257.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "d9/d60/a22257.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "d9/d60/a22257.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

@@ -1,6 +1,9 @@
 var a21337 =
 [
-    [ "boss_ichoronAI", "de/d11/a21341.html", "de/d11/a21341" ],
-    [ "boss_ichoron", "db/de2/a21337.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "db/de2/a21337.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "npc_minigob_manabonk", "db/de2/a21337.html#aade5e005b68b25ede4e653629390ceb9", null ],
+    [ "Reset", "db/de2/a21337.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
+    [ "SelectTargetInDalaran", "db/de2/a21337.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
+    [ "SendMailToPlayer", "db/de2/a21337.html#a1973b7885c9fce15aab9843722bf112e", null ],
+    [ "UpdateAI", "db/de2/a21337.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
+    [ "playerGUID", "db/de2/a21337.html#ac8dccd333691f717fdbffe22126330d5", null ]
 ];

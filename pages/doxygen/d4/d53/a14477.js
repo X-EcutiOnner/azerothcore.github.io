@@ -1,5 +1,6 @@
 var a14477 =
 [
-    [ "at_zulgurub_bridge_speech", "d4/d53/a14477.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "d4/d53/a14477.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "npc_brewfest_bark_trigger", "d4/d53/a14477.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "d4/d53/a14477.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "d4/d53/a14477.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

@@ -1,12 +1,5 @@
 var a19953 =
 [
-    [ "boss_ionar", "db/d8c/a19953.html#a323da67c3ff33d09d07cf0369600a473", null ],
-    [ "JustDied", "db/d8c/a19953.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
-    [ "JustEngagedWith", "db/d8c/a19953.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
-    [ "KilledUnit", "db/d8c/a19953.html#ae6b1225147bc146066185d4d21c19f14", null ],
-    [ "Reset", "db/d8c/a19953.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
-    [ "ScheduleEvents", "db/d8c/a19953.html#af74dda7ad9cd156036689694b3bb9986", null ],
-    [ "SpellHit", "db/d8c/a19953.html#a85c0ba28de5a684435246539d2106dcd", null ],
-    [ "Split", "db/d8c/a19953.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
-    [ "UpdateAI", "db/d8c/a19953.html#ad6fb218e743bad9fec357ea7d862744d", null ]
+    [ "boss_flame_leviathan_overload_device", "db/d8c/a19953.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
+    [ "OnSpellClick", "db/d8c/a19953.html#a3f313a637fd95e28db1265ae84f349a8", null ]
 ];

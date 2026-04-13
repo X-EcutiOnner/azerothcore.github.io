@@ -1,4 +1,5 @@
 var a11277 =
 [
-    [ "Validate", "d7/dd9/a11277.html#a25f2d2033711c905ed702d844416c250", null ]
+    [ "DurabilityDamageDeath", "d7/dd9/a11277.html#a9b4350d37291b9b714be1563b28dcb43", null ],
+    [ "Write", "d7/dd9/a11277.html#a35a93d9abeeb029f3da080487423f495", null ]
 ];

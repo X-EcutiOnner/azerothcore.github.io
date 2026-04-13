@@ -1,11 +1,14 @@
 var a08941 =
 [
-    [ "UnitActionBarEntry", "d0/d45/a08941.html#a41f9020c4811b14fc543ddece6af86d7", null ],
-    [ "GetAction", "d0/d45/a08941.html#afd77e2f64ec856059759d05ddf77876e", null ],
-    [ "GetType", "d0/d45/a08941.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
-    [ "IsActionBarForSpell", "d0/d45/a08941.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
-    [ "SetAction", "d0/d45/a08941.html#aa00953783b0b3de3beb755a054c77730", null ],
-    [ "SetActionAndType", "d0/d45/a08941.html#a110840d38445795957ee0425175b4fb6", null ],
-    [ "SetType", "d0/d45/a08941.html#a38e0dcad391d09e475f90be5a5382f78", null ],
-    [ "packedData", "d0/d45/a08941.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
+    [ "SocialMap", "d0/d45/a08941.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
+    [ "SocialMgr", "d0/d45/a08941.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
+    [ "~SocialMgr", "d0/d45/a08941.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
+    [ "BroadcastToFriendListers", "d0/d45/a08941.html#a55b35ea17ebfea4ff31710186b87865f", null ],
+    [ "GetFriendInfo", "d0/d45/a08941.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
+    [ "instance", "d0/d45/a08941.html#a223f3d7811d8c360da7f467b70af808f", null ],
+    [ "LoadFromDB", "d0/d45/a08941.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
+    [ "MakeFriendStatusPacket", "d0/d45/a08941.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
+    [ "RemovePlayerSocial", "d0/d45/a08941.html#af537c83cc3d481dde68d0a60aa122289", null ],
+    [ "SendFriendStatus", "d0/d45/a08941.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
+    [ "m_socialMap", "d0/d45/a08941.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
 ];

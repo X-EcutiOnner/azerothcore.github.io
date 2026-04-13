@@ -1,8 +1,9 @@
 var a20389 =
 [
-    [ "npc_ulduar_saronite_animus", "d0/df7/a20389.html#a223063bddb3e02d4e599a37e53909c94", null ],
-    [ "JustDied", "d0/df7/a20389.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
-    [ "UpdateAI", "d0/df7/a20389.html#afc7899752e25669b37ab04b50fb2d604", null ],
-    [ "pInstance", "d0/df7/a20389.html#ad1973f3016ac70fb66710f1665728736", null ],
-    [ "timer", "d0/df7/a20389.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
+    [ "npc_ulduar_emergency_fire_bot", "d0/df7/a20389.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
+    [ "AttackStart", "d0/df7/a20389.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
+    [ "MoveInLineOfSight", "d0/df7/a20389.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
+    [ "MovementInform", "d0/df7/a20389.html#a6f7306e3da54511ddbef772044f76950", null ],
+    [ "UpdateAI", "d0/df7/a20389.html#a653df31873aca5acb86020cc1e14f4a0", null ],
+    [ "_events", "d0/df7/a20389.html#a99f051bd7a1136375103005f0615c4f2", null ]
 ];

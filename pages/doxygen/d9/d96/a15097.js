@@ -1,7 +1,6 @@
 var a15097 =
 [
-    [ "HandleOnHit", "d9/d96/a15097.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "d9/d96/a15097.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "d9/d96/a15097.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "d9/d96/a15097.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "npc_cos_stratholme_citizienAI", "d8/dc7/a15101.html", "d8/dc7/a15101" ],
+    [ "npc_cos_stratholme_citizien", "d9/d96/a15097.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "d9/d96/a15097.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

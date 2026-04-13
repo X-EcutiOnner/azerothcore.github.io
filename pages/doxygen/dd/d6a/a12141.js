@@ -1,12 +1,9 @@
 var a12141 =
 [
-    [ "guild_commandscript", "dd/d6a/a12141.html#a4394d242740505ad128e4cebf4b617f0", null ],
-    [ "GetCommands", "dd/d6a/a12141.html#a6b0a700e7fa3251373c1405d245f6931", null ],
-    [ "HandleGuildCreateCommand", "dd/d6a/a12141.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
-    [ "HandleGuildDeleteCommand", "dd/d6a/a12141.html#a4bbef641c86de37611e7ff1c906b4048", null ],
-    [ "HandleGuildInfoCommand", "dd/d6a/a12141.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
-    [ "HandleGuildInviteCommand", "dd/d6a/a12141.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
-    [ "HandleGuildRankCommand", "dd/d6a/a12141.html#adbea3b610c98354866fec52a43fedda0", null ],
-    [ "HandleGuildRenameCommand", "dd/d6a/a12141.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
-    [ "HandleGuildUninviteCommand", "dd/d6a/a12141.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
+    [ "autobroadcast_commandscript", "dd/d6a/a12141.html#a00946e483860809c8b1d92e773c8eeef", null ],
+    [ "GetCommands", "dd/d6a/a12141.html#a01d7689785a4267ac4bd57bfc0d269e9", null ],
+    [ "HandleAutobroadcastAddCommand", "dd/d6a/a12141.html#a4217bea8d83682acbdd64a225c839227", null ],
+    [ "HandleAutobroadcastListCommand", "dd/d6a/a12141.html#a0e4a07fd036d66fc5639a8e29fd45392", null ],
+    [ "HandleAutobroadcastLocaleCommand", "dd/d6a/a12141.html#aaebf528b045b05b038d2a3f8801d3c85", null ],
+    [ "HandleAutobroadcastRemoveCommand", "dd/d6a/a12141.html#af6445843506ac2b4c2b5c158480aab8c", null ]
 ];

@@ -1,6 +1,7 @@
 var a26229 =
 [
-    [ "OnRemove", "df/d52/a26229.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "df/d52/a26229.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "df/d52/a26229.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "HandleProc", "df/d52/a26229.html#a00e4e7a77373767f4a68f0ee209d4e7d", null ],
+    [ "PrepareAuraScript", "df/d52/a26229.html#a1b93f0cedfac153c2dab9d331d9fae0f", null ],
+    [ "Register", "df/d52/a26229.html#a6d171ec8688075496ec7d9f2325a5a1c", null ],
+    [ "Validate", "df/d52/a26229.html#a74be985272c75fff9592927ea010a9d9", null ]
 ];

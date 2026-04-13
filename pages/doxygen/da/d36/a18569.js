@@ -1,6 +1,6 @@
 var a18569 =
 [
-    [ "FilterTargets", "da/d36/a18569.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "da/d36/a18569.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "da/d36/a18569.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "npc_strangulate_vehicleAI", "d8/d63/a18573.html", "d8/d63/a18573" ],
+    [ "npc_strangulate_vehicle", "da/d36/a18569.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "da/d36/a18569.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

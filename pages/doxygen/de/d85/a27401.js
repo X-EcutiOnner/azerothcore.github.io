@@ -1,7 +1,6 @@
 var a27401 =
 [
-    [ "CheckProc", "de/d85/a27401.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
-    [ "HandleProc", "de/d85/a27401.html#a91ee1b654a3a26e027407635a45b80b3", null ],
-    [ "PrepareAuraScript", "de/d85/a27401.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
-    [ "Register", "de/d85/a27401.html#ab06a732203303d5533bdc4b217640d2d", null ]
+    [ "CheckProc", "de/d85/a27401.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
+    [ "PrepareAuraScript", "de/d85/a27401.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
+    [ "Register", "de/d85/a27401.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
 ];

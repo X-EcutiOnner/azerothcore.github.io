@@ -1,6 +1,8 @@
 var a11125 =
 [
-    [ "ListInventory", "de/d7a/a11125.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
-    [ "Read", "de/d7a/a11125.html#a2fd1298c1da842824fca7d971cb2028b", null ],
-    [ "VendorGuid", "de/d7a/a11125.html#a9c6288866c870b4a82169fe7fbef4512", null ]
+    [ "SetRaidDifficulty", "de/d7a/a11125.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "de/d7a/a11125.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "de/d7a/a11125.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "de/d7a/a11125.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "de/d7a/a11125.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

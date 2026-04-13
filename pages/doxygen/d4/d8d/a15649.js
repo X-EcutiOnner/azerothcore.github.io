@@ -1,6 +1,8 @@
 var a15649 =
 [
-    [ "OnRemove", "d4/d8d/a15649.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "d4/d8d/a15649.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "d4/d8d/a15649.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "npc_death_ravagerAI", "d4/d8d/a15649.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d4/d8d/a15649.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d4/d8d/a15649.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d4/d8d/a15649.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d4/d8d/a15649.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

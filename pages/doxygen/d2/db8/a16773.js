@@ -1,6 +1,6 @@
 var a16773 =
 [
-    [ "HandleSpellHit", "d2/db8/a16773.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "d2/db8/a16773.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "d2/db8/a16773.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "npc_toc_enh_shamanAI", "d7/de1/a16777.html", "d7/de1/a16777" ],
+    [ "npc_toc_enh_shaman", "d2/db8/a16773.html#ac328b63a988d2cd8640237b250c338a8", null ],
+    [ "GetAI", "d2/db8/a16773.html#a4501c9289a06750d8f153f89565b12f3", null ]
 ];

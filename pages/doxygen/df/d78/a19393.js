@@ -1,9 +1,6 @@
 var a19393 =
 [
-    [ "npc_isle_of_conquest_turretAI", "df/d78/a19393.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "df/d78/a19393.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "df/d78/a19393.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "df/d78/a19393.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "df/d78/a19393.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "df/d78/a19393.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "npc_teslaAI", "d1/d3c/a19397.html", "d1/d3c/a19397" ],
+    [ "npc_tesla", "df/d78/a19393.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "df/d78/a19393.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

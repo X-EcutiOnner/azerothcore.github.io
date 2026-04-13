@@ -1,8 +1,12 @@
 var a12545 =
 [
-    [ "boss_highlordomokkAI", "d9/d6c/a12545.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
-    [ "JustDied", "d9/d6c/a12545.html#ac7e125b4350880d3d195b915c8be9de0", null ],
-    [ "JustEngagedWith", "d9/d6c/a12545.html#a072dc582f931deb7d1e0db9ad535f146", null ],
-    [ "Reset", "d9/d6c/a12545.html#a627390013798de7a53a95817624417e3", null ],
-    [ "UpdateAI", "d9/d6c/a12545.html#a38e6008d616131d2876ae5a085a083ff", null ]
+    [ "boss_pyroguard_emberseer", "d9/d6c/a12545.html#a4c1bd9e71776fa088a84009565dc527d", null ],
+    [ "JustDied", "d9/d6c/a12545.html#a6f0e58c7107563f40e864eede5a907d5", null ],
+    [ "JustEngagedWith", "d9/d6c/a12545.html#a1c9662393ea5862ee26f5242e184fd74", null ],
+    [ "OpenDoors", "d9/d6c/a12545.html#a80761b3fad5864ce80dae81d31df748c", null ],
+    [ "Reset", "d9/d6c/a12545.html#a7eda06b39dc920040e205595a0f8efa2", null ],
+    [ "SetData", "d9/d6c/a12545.html#a533c643c9b65813f48fd92ee73670fae", null ],
+    [ "SpellHit", "d9/d6c/a12545.html#aa9842818e2ab218ac175cebfc82f6adf", null ],
+    [ "UpdateAI", "d9/d6c/a12545.html#a7e12a0ef98e8c751a33e4492ae368074", null ],
+    [ "UpdateRunes", "d9/d6c/a12545.html#af80bdd2eb6200d3abbcb08b57798f1e5", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Warden/WardenWin.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/tools/map_extractor/adt.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,292 +105,251 @@ $(document).ready(function(){initNavTree('d5/d47/a04490.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">WardenWin.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">adt.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">WardenWin.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ByteBuffer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CryptoRandom.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">HMAC.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SessionKeyGenerator.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WardenCheckMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WardenModuleWin.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
-<code>#include &lt;openssl/crypto.h&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">adt.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a411c46599e926f8cdf49c63957255359"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#a411c46599e926f8cdf49c63957255359">_CRT_SECURE_NO_DEPRECATE</a></td></tr>
+<tr class="separator:a411c46599e926f8cdf49c63957255359"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aa48d9759919f0fb8415c0fd0731a23b1"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#aa48d9759919f0fb8415c0fd0731a23b1">GetCheckPacketBaseSize</a> (<a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> type)</td></tr>
-<tr class="separator:aa48d9759919f0fb8415c0fd0731a23b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adfb39c1ce4f6159c2c70e3cdf26978c9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d5/d0f/a00494.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#adfb39c1ce4f6159c2c70e3cdf26978c9">GetCheckPacketSize</a> (<a class="el" href="../../d9/df9/a12022.html">WardenCheck</a> const *check)</td></tr>
-<tr class="separator:adfb39c1ce4f6159c2c70e3cdf26978c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aedb0d8dcf11f0df50080f361dcd78fed"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../df/d4b/a04169.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#aedb0d8dcf11f0df50080f361dcd78fed">GetMaxWardenChecksForType</a> (<a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> type)</td></tr>
-<tr class="separator:aedb0d8dcf11f0df50080f361dcd78fed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3a7e248f31dc8d832dc118d469a98bd4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#a3a7e248f31dc8d832dc118d469a98bd4">isHole</a> (int <a class="el" href="../../d8/dc4/a04487.html#a0dd5ee5c0a7fa0dacf58e50adf0e3803">holes</a>, int i, int j)</td></tr>
+<tr class="separator:a3a7e248f31dc8d832dc118d469a98bd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a259abc7d98e16cefc14404b5886cbc09"><td class="memItemLeft" align="right" valign="top">static constexpr char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#a259abc7d98e16cefc14404b5886cbc09">_luaEvalPrefix</a> [] = &quot;local S,T,R=SendAddonMessage,function()&quot;</td></tr>
-<tr class="separator:a259abc7d98e16cefc14404b5886cbc09"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5506a4e4233b2c380f79ad1225c4dc93"><td class="memItemLeft" align="right" valign="top">static constexpr char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#a5506a4e4233b2c380f79ad1225c4dc93">_luaEvalMidfix</a> [] = &quot; end R=S and T()if R then S('_TW',&quot;</td></tr>
-<tr class="separator:a5506a4e4233b2c380f79ad1225c4dc93"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad14853510c2482e64bd81633e5074206"><td class="memItemLeft" align="right" valign="top">static constexpr char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#ad14853510c2482e64bd81633e5074206">_luaEvalPostfix</a> [] = &quot;,'GUILD')end&quot;</td></tr>
-<tr class="separator:ad14853510c2482e64bd81633e5074206"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7424dd5c858116f845a676e31fe5ae5d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#a7424dd5c858116f845a676e31fe5ae5d">holetab_h</a> [4] = { 0x1111, 0x2222, 0x4444, 0x8888 }</td></tr>
+<tr class="separator:a7424dd5c858116f845a676e31fe5ae5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b1bf69bcdb58ff1605821d486da3acb"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#a2b1bf69bcdb58ff1605821d486da3acb">holetab_v</a> [4] = { 0x000F, 0x00F0, 0x0F00, 0xF000 }</td></tr>
+<tr class="separator:a2b1bf69bcdb58ff1605821d486da3acb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac97bd684dd5bacba0e790f355a3bdddf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#ac97bd684dd5bacba0e790f355a3bdddf">MHDRMagic</a> = { { 'R', 'D', 'H', 'M' } }</td></tr>
+<tr class="separator:ac97bd684dd5bacba0e790f355a3bdddf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f946547b65d321100fd6efa2966180c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#a6f946547b65d321100fd6efa2966180c">MCINMagic</a> = { { 'N', 'I', 'C', 'M' } }</td></tr>
+<tr class="separator:a6f946547b65d321100fd6efa2966180c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaeaf747e4bc5c25257f9e0ef1153b5a7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#aaeaf747e4bc5c25257f9e0ef1153b5a7">MH2OMagic</a> = { { 'O', '2', 'H', 'M' } }</td></tr>
+<tr class="separator:aaeaf747e4bc5c25257f9e0ef1153b5a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2d85d3b667d3755f6f7a993e60c574b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#aa2d85d3b667d3755f6f7a993e60c574b">MCNKMagic</a> = { { 'K', 'N', 'C', 'M' } }</td></tr>
+<tr class="separator:aa2d85d3b667d3755f6f7a993e60c574b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32010e610a970d3891ae5effca03de37"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#a32010e610a970d3891ae5effca03de37">MCVTMagic</a> = { { 'T', 'V', 'C', 'M' } }</td></tr>
+<tr class="separator:a32010e610a970d3891ae5effca03de37"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a35ae9924cb4e3ad0020167b89d5ea86f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#a35ae9924cb4e3ad0020167b89d5ea86f">MCLQMagic</a> = { { 'Q', 'L', 'C', 'M' } }</td></tr>
+<tr class="separator:a35ae9924cb4e3ad0020167b89d5ea86f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a329d005a0989137286469e197dc0c812"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d47/a04490.html#a329d005a0989137286469e197dc0c812">MFBOMagic</a> = { { 'O', 'B', 'F', 'M' } }</td></tr>
+<tr class="separator:a329d005a0989137286469e197dc0c812"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a411c46599e926f8cdf49c63957255359" name="a411c46599e926f8cdf49c63957255359"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a411c46599e926f8cdf49c63957255359">&#9670;&#160;</a></span>_CRT_SECURE_NO_DEPRECATE</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define _CRT_SECURE_NO_DEPRECATE</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aa48d9759919f0fb8415c0fd0731a23b1" name="aa48d9759919f0fb8415c0fd0731a23b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa48d9759919f0fb8415c0fd0731a23b1">&#9670;&#160;</a></span>GetCheckPacketBaseSize()</h2>
+<a id="a3a7e248f31dc8d832dc118d469a98bd4" name="a3a7e248f31dc8d832dc118d469a98bd4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3a7e248f31dc8d832dc118d469a98bd4">&#9670;&#160;</a></span>isHole()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static constexpr <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> GetCheckPacketBaseSize </td>
+          <td class="memname">bool isHole </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>type</em></td><td>)</td>
-          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>holes</em>, </td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   44</span>{</div>
-<div class="line"><span class="lineno">   45</span>    <span class="keywordflow">switch</span> (type)</div>
-<div class="line"><span class="lineno">   46</span>    {</div>
-<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93">DRIVER_CHECK</a>:</div>
-<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b">MPQ_CHECK</a>: <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">   49</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a>: <span class="keywordflow">return</span> 1 + <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d5/d47/a04490.html#a259abc7d98e16cefc14404b5886cbc09">_luaEvalPrefix</a>) - 1 + <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d5/d47/a04490.html#a5506a4e4233b2c380f79ad1225c4dc93">_luaEvalMidfix</a>) - 1 + 4 + <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d5/d47/a04490.html#ad14853510c2482e64bd81633e5074206">_luaEvalPostfix</a>) - 1;</div>
-<div class="line"><span class="lineno">   50</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f">PAGE_CHECK_A</a>: <span class="keywordflow">return</span> (4 + 1);</div>
-<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87">PAGE_CHECK_B</a>: <span class="keywordflow">return</span> (4 + 1);</div>
-<div class="line"><span class="lineno">   52</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77">MODULE_CHECK</a>: <span class="keywordflow">return</span> (4 + <a class="code hl_variable" href="../../dd/d7a/a05426.html#acc400beaab2819b6e9799b3fbd9c3dde">Acore::Crypto::Constants::SHA1_DIGEST_LENGTH_BYTES</a>);</div>
-<div class="line"><span class="lineno">   53</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074">MEM_CHECK</a>: <span class="keywordflow">return</span> (1 + 4 + 1);</div>
-<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">default</span>: <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   55</span>    }</div>
-<div class="line"><span class="lineno">   56</span>}</div>
-<div class="ttc" id="aa04460_html_a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93"><div class="ttname"><a href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93">DRIVER_CHECK</a></div><div class="ttdeci">@ DRIVER_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:53</div></div>
-<div class="ttc" id="aa04460_html_a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f"><div class="ttname"><a href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f">PAGE_CHECK_A</a></div><div class="ttdeci">@ PAGE_CHECK_A</div><div class="ttdef"><b>Definition:</b> Warden.h:49</div></div>
-<div class="ttc" id="aa04460_html_a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87"><div class="ttname"><a href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87">PAGE_CHECK_B</a></div><div class="ttdeci">@ PAGE_CHECK_B</div><div class="ttdef"><b>Definition:</b> Warden.h:50</div></div>
-<div class="ttc" id="aa04460_html_a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada"><div class="ttname"><a href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a></div><div class="ttdeci">@ LUA_EVAL_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:52</div></div>
-<div class="ttc" id="aa04460_html_a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b"><div class="ttname"><a href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b">MPQ_CHECK</a></div><div class="ttdeci">@ MPQ_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:51</div></div>
-<div class="ttc" id="aa04460_html_a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074"><div class="ttname"><a href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074">MEM_CHECK</a></div><div class="ttdeci">@ MEM_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:48</div></div>
-<div class="ttc" id="aa04460_html_a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77"><div class="ttname"><a href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77">MODULE_CHECK</a></div><div class="ttdeci">@ MODULE_CHECK</div><div class="ttdef"><b>Definition:</b> Warden.h:56</div></div>
-<div class="ttc" id="aa04490_html_a259abc7d98e16cefc14404b5886cbc09"><div class="ttname"><a href="../../d5/d47/a04490.html#a259abc7d98e16cefc14404b5886cbc09">_luaEvalPrefix</a></div><div class="ttdeci">static constexpr char _luaEvalPrefix[]</div><div class="ttdef"><b>Definition:</b> WardenWin.cpp:37</div></div>
-<div class="ttc" id="aa04490_html_a5506a4e4233b2c380f79ad1225c4dc93"><div class="ttname"><a href="../../d5/d47/a04490.html#a5506a4e4233b2c380f79ad1225c4dc93">_luaEvalMidfix</a></div><div class="ttdeci">static constexpr char _luaEvalMidfix[]</div><div class="ttdef"><b>Definition:</b> WardenWin.cpp:38</div></div>
-<div class="ttc" id="aa04490_html_ad14853510c2482e64bd81633e5074206"><div class="ttname"><a href="../../d5/d47/a04490.html#ad14853510c2482e64bd81633e5074206">_luaEvalPostfix</a></div><div class="ttdeci">static constexpr char _luaEvalPostfix[]</div><div class="ttdef"><b>Definition:</b> WardenWin.cpp:39</div></div>
-<div class="ttc" id="aa05426_html_acc400beaab2819b6e9799b3fbd9c3dde"><div class="ttname"><a href="../../dd/d7a/a05426.html#acc400beaab2819b6e9799b3fbd9c3dde">Acore::Crypto::Constants::SHA1_DIGEST_LENGTH_BYTES</a></div><div class="ttdeci">static constexpr std::size_t SHA1_DIGEST_LENGTH_BYTES</div><div class="ttdef"><b>Definition:</b> CryptoConstants.h:26</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00038">_luaEvalMidfix</a>, <a class="el" href="../../#l00039">_luaEvalPostfix</a>, <a class="el" href="../../#l00037">_luaEvalPrefix</a>, <a class="el" href="../../#l00053">DRIVER_CHECK</a>, <a class="el" href="../../#l00052">LUA_EVAL_CHECK</a>, <a class="el" href="../../#l00048">MEM_CHECK</a>, <a class="el" href="../../#l00056">MODULE_CHECK</a>, <a class="el" href="../../#l00051">MPQ_CHECK</a>, <a class="el" href="../../#l00049">PAGE_CHECK_A</a>, <a class="el" href="../../#l00050">PAGE_CHECK_B</a>, and <a class="el" href="../../#l00026">Acore::Crypto::Constants::SHA1_DIGEST_LENGTH_BYTES</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00058">GetCheckPacketSize()</a>.</p>
-
-</div>
-</div>
-<a id="adfb39c1ce4f6159c2c70e3cdf26978c9" name="adfb39c1ce4f6159c2c70e3cdf26978c9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adfb39c1ce4f6159c2c70e3cdf26978c9">&#9670;&#160;</a></span>GetCheckPacketSize()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="../../d5/d0f/a00494.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> GetCheckPacketSize </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/df9/a12022.html">WardenCheck</a> const *&#160;</td>
-          <td class="paramname"><em>check</em></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>i</em>, </td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   59</span>{</div>
-<div class="line"><span class="lineno">   60</span>    <span class="keywordflow">if</span> (!check)</div>
-<div class="line"><span class="lineno">   61</span>    {</div>
-<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   63</span>    }</div>
-<div class="line"><span class="lineno">   64</span> </div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_typedef" href="../../d5/d0f/a00494.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> size = 1;</div>
-<div class="line"><span class="lineno">   66</span> </div>
-<div class="line"><span class="lineno">   67</span>    <span class="keywordflow">if</span> (check-&gt;CheckId &gt;= <a class="code hl_variable" href="../../d0/d69/a12050.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a> &amp;&amp; check-&gt;Type == <a class="code hl_enumvalue" href="../../d0/ddf/a04460.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a>)</div>
-<div class="line"><span class="lineno">   68</span>    {</div>
-<div class="line"><span class="lineno">   69</span>        <span class="comment">// Custom payload has no prefix, midfix, postfix.</span></div>
-<div class="line"><span class="lineno">   70</span>        size = size + (4 + 1);</div>
-<div class="line"><span class="lineno">   71</span>    }</div>
-<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   73</span>    {</div>
-<div class="line"><span class="lineno">   74</span>        size = size + <a class="code hl_function" href="../../d5/d47/a04490.html#aa48d9759919f0fb8415c0fd0731a23b1">GetCheckPacketBaseSize</a>(check-&gt;Type);  <span class="comment">// 1 byte check type</span></div>
-<div class="line"><span class="lineno">   75</span>    }</div>
-<div class="line"><span class="lineno">   76</span> </div>
-<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">if</span> (!check-&gt;Str.empty())</div>
-<div class="line"><span class="lineno">   78</span>    {</div>
-<div class="line"><span class="lineno">   79</span>        size += (<span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d5/d0f/a00494.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a><span class="keyword">&gt;</span>(check-&gt;Str.length()) + 1); <span class="comment">// 1 byte string length</span></div>
-<div class="line"><span class="lineno">   80</span>    }</div>
-<div class="line"><span class="lineno">   81</span> </div>
-<div class="line"><span class="lineno">   82</span>    <a class="code hl_class" href="../../da/d27/a05422.html">BigNumber</a> tempNumber = check-&gt;Data;</div>
-<div class="line"><span class="lineno">   83</span>    <span class="keywordflow">if</span> (!tempNumber.<a class="code hl_function" href="../../da/d27/a05422.html#ab6e59df65e45251677cf033d9ca25c23">GetNumBytes</a>())</div>
-<div class="line"><span class="lineno">   84</span>    {</div>
-<div class="line"><span class="lineno">   85</span>        size += tempNumber.<a class="code hl_function" href="../../da/d27/a05422.html#ab6e59df65e45251677cf033d9ca25c23">GetNumBytes</a>();</div>
-<div class="line"><span class="lineno">   86</span>    }</div>
-<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">return</span> size;</div>
-<div class="line"><span class="lineno">   88</span>}</div>
-<div class="ttc" id="aa00494_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d5/d0f/a00494.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa04490_html_aa48d9759919f0fb8415c0fd0731a23b1"><div class="ttname"><a href="../../d5/d47/a04490.html#aa48d9759919f0fb8415c0fd0731a23b1">GetCheckPacketBaseSize</a></div><div class="ttdeci">static constexpr uint8 GetCheckPacketBaseSize(uint8 type)</div><div class="ttdef"><b>Definition:</b> WardenWin.cpp:43</div></div>
-<div class="ttc" id="aa05422_html"><div class="ttname"><a href="../../da/d27/a05422.html">BigNumber</a></div><div class="ttdef"><b>Definition:</b> BigNumber.h:29</div></div>
-<div class="ttc" id="aa05422_html_ab6e59df65e45251677cf033d9ca25c23"><div class="ttname"><a href="../../da/d27/a05422.html#ab6e59df65e45251677cf033d9ca25c23">BigNumber::GetNumBytes</a></div><div class="ttdeci">int32 GetNumBytes() const</div><div class="ttdef"><b>Definition:</b> BigNumber.cpp:165</div></div>
-<div class="ttc" id="aa12050_html_a9f7e5a100c56a6ee9a6bd39a792b9e44"><div class="ttname"><a href="../../d0/d69/a12050.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a></div><div class="ttdeci">static uint16 constexpr WardenPayloadOffsetMin</div><div class="ttdoc">The minimum id available for custom payloads.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:115</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">WardenCheck::CheckId</a>, <a class="el" href="../../#l00046">WardenCheck::Data</a>, <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, <a class="el" href="../../#l00165">BigNumber::GetNumBytes()</a>, <a class="el" href="../../#l00052">LUA_EVAL_CHECK</a>, <a class="el" href="../../#l00049">WardenCheck::Str</a>, <a class="el" href="../../#l00045">WardenCheck::Type</a>, and <a class="el" href="../../#l00115">WardenPayloadMgr::WardenPayloadOffsetMin</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
-
-</div>
-</div>
-<a id="aedb0d8dcf11f0df50080f361dcd78fed" name="aedb0d8dcf11f0df50080f361dcd78fed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aedb0d8dcf11f0df50080f361dcd78fed">&#9670;&#160;</a></span>GetMaxWardenChecksForType()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="../../df/d4b/a04169.html#a468ad15992691eb97dd20680046832e0">ServerConfigs</a> GetMaxWardenChecksForType </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>type</em></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>j</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
-<div class="line"><span class="lineno">   93</span>    <span class="comment">// Should never be higher type than defined</span></div>
-<div class="line"><span class="lineno">   94</span>    <a class="code hl_define" href="../../dd/dad/a00005.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(type &lt; <a class="code hl_variable" href="../../d1/d6c/a04478.html#a80604a840828219101f07100a7a48dad">MAX_WARDEN_CHECK_TYPES</a>);</div>
-<div class="line"><span class="lineno">   95</span> </div>
-<div class="line"><span class="lineno">   96</span>    <span class="keywordflow">switch</span> (type)</div>
-<div class="line"><span class="lineno">   97</span>    {</div>
-<div class="line"><span class="lineno">   98</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a>:</div>
-<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../df/d4b/a04169.html#a468ad15992691eb97dd20680046832e0a482567408b50b5bdce327094b6762c14">CONFIG_WARDEN_NUM_MEM_CHECKS</a>;</div>
-<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a>:</div>
-<div class="line"><span class="lineno">  101</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../df/d4b/a04169.html#a468ad15992691eb97dd20680046832e0a0ea99535fffce86366b9af4ca71d1e40">CONFIG_WARDEN_NUM_LUA_CHECKS</a>;</div>
-<div class="line"><span class="lineno">  102</span>    <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  103</span>        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  104</span>    }</div>
-<div class="line"><span class="lineno">  105</span> </div>
-<div class="line"><span class="lineno">  106</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../df/d4b/a04169.html#a468ad15992691eb97dd20680046832e0aa28215fb699969bb584015e26849308a">CONFIG_WARDEN_NUM_OTHER_CHECKS</a>;</div>
-<div class="line"><span class="lineno">  107</span>}</div>
-<div class="ttc" id="aa00005_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../dd/dad/a00005.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa04169_html_a468ad15992691eb97dd20680046832e0a0ea99535fffce86366b9af4ca71d1e40"><div class="ttname"><a href="../../df/d4b/a04169.html#a468ad15992691eb97dd20680046832e0a0ea99535fffce86366b9af4ca71d1e40">CONFIG_WARDEN_NUM_LUA_CHECKS</a></div><div class="ttdeci">@ CONFIG_WARDEN_NUM_LUA_CHECKS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:341</div></div>
-<div class="ttc" id="aa04169_html_a468ad15992691eb97dd20680046832e0a482567408b50b5bdce327094b6762c14"><div class="ttname"><a href="../../df/d4b/a04169.html#a468ad15992691eb97dd20680046832e0a482567408b50b5bdce327094b6762c14">CONFIG_WARDEN_NUM_MEM_CHECKS</a></div><div class="ttdeci">@ CONFIG_WARDEN_NUM_MEM_CHECKS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:340</div></div>
-<div class="ttc" id="aa04169_html_a468ad15992691eb97dd20680046832e0aa28215fb699969bb584015e26849308a"><div class="ttname"><a href="../../df/d4b/a04169.html#a468ad15992691eb97dd20680046832e0aa28215fb699969bb584015e26849308a">CONFIG_WARDEN_NUM_OTHER_CHECKS</a></div><div class="ttdeci">@ CONFIG_WARDEN_NUM_OTHER_CHECKS</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:342</div></div>
-<div class="ttc" id="aa04478_html_a80604a840828219101f07100a7a48dad"><div class="ttname"><a href="../../d1/d6c/a04478.html#a80604a840828219101f07100a7a48dad">MAX_WARDEN_CHECK_TYPES</a></div><div class="ttdeci">constexpr uint8 MAX_WARDEN_CHECK_TYPES</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:41</div></div>
-<div class="ttc" id="aa04478_html_ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3"><div class="ttname"><a href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_MEM_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:36</div></div>
-<div class="ttc" id="aa04478_html_ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af"><div class="ttname"><a href="../../d1/d6c/a04478.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_LUA_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:37</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
+<div class="line"><span class="lineno">   36</span>    <span class="keywordtype">int</span> testi = i / 2;</div>
+<div class="line"><span class="lineno">   37</span>    <span class="keywordtype">int</span> testj = j / 4;</div>
+<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">if</span> (testi &gt; 3) testi = 3;</div>
+<div class="line"><span class="lineno">   39</span>    <span class="keywordflow">if</span> (testj &gt; 3) testj = 3;</div>
+<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d8/dc4/a04487.html#a0dd5ee5c0a7fa0dacf58e50adf0e3803">holes</a> &amp; <a class="code hl_variable" href="../../d5/d47/a04490.html#a7424dd5c858116f845a676e31fe5ae5d">holetab_h</a>[testi] &amp; <a class="code hl_variable" href="../../d5/d47/a04490.html#a2b1bf69bcdb58ff1605821d486da3acb">holetab_v</a>[testj]) != 0;</div>
+<div class="line"><span class="lineno">   41</span>}</div>
+<div class="ttc" id="aa04487_html_a0dd5ee5c0a7fa0dacf58e50adf0e3803"><div class="ttname"><a href="../../d8/dc4/a04487.html#a0dd5ee5c0a7fa0dacf58e50adf0e3803">holes</a></div><div class="ttdeci">uint16 holes[ADT_CELLS_PER_GRID][ADT_CELLS_PER_GRID]</div><div class="ttdef"><b>Definition:</b> System.cpp:409</div></div>
+<div class="ttc" id="aa04490_html_a2b1bf69bcdb58ff1605821d486da3acb"><div class="ttname"><a href="../../d5/d47/a04490.html#a2b1bf69bcdb58ff1605821d486da3acb">holetab_v</a></div><div class="ttdeci">int holetab_v[4]</div><div class="ttdef"><b>Definition:</b> adt.cpp:24</div></div>
+<div class="ttc" id="aa04490_html_a7424dd5c858116f845a676e31fe5ae5d"><div class="ttname"><a href="../../d5/d47/a04490.html#a7424dd5c858116f845a676e31fe5ae5d">holetab_h</a></div><div class="ttdeci">int holetab_h[4]</div><div class="ttdef"><b>Definition:</b> adt.cpp:23</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00341">CONFIG_WARDEN_NUM_LUA_CHECKS</a>, <a class="el" href="../../#l00340">CONFIG_WARDEN_NUM_MEM_CHECKS</a>, <a class="el" href="../../#l00342">CONFIG_WARDEN_NUM_OTHER_CHECKS</a>, <a class="el" href="../../#l00041">MAX_WARDEN_CHECK_TYPES</a>, <a class="el" href="../../#l00037">WARDEN_CHECK_LUA_TYPE</a>, and <a class="el" href="../../#l00036">WARDEN_CHECK_MEM_TYPE</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00409">holes</a>, <a class="el" href="../../#l00023">holetab_h</a>, and <a class="el" href="../../#l00024">holetab_v</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a5506a4e4233b2c380f79ad1225c4dc93" name="a5506a4e4233b2c380f79ad1225c4dc93"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5506a4e4233b2c380f79ad1225c4dc93">&#9670;&#160;</a></span>_luaEvalMidfix</h2>
+<a id="a7424dd5c858116f845a676e31fe5ae5d" name="a7424dd5c858116f845a676e31fe5ae5d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7424dd5c858116f845a676e31fe5ae5d">&#9670;&#160;</a></span>holetab_h</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr char _luaEvalMidfix[] = &quot; end R=S and T()if R then S('_TW',&quot;</td>
+          <td class="memname">int holetab_h[4] = { 0x1111, 0x2222, 0x4444, 0x8888 }</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00034">isHole()</a>.</p>
 
 </div>
 </div>
-<a id="ad14853510c2482e64bd81633e5074206" name="ad14853510c2482e64bd81633e5074206"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad14853510c2482e64bd81633e5074206">&#9670;&#160;</a></span>_luaEvalPostfix</h2>
+<a id="a2b1bf69bcdb58ff1605821d486da3acb" name="a2b1bf69bcdb58ff1605821d486da3acb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b1bf69bcdb58ff1605821d486da3acb">&#9670;&#160;</a></span>holetab_v</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr char _luaEvalPostfix[] = &quot;,'GUILD')end&quot;</td>
+          <td class="memname">int holetab_v[4] = { 0x000F, 0x00F0, 0x0F00, 0xF000 }</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00034">isHole()</a>.</p>
 
 </div>
 </div>
-<a id="a259abc7d98e16cefc14404b5886cbc09" name="a259abc7d98e16cefc14404b5886cbc09"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a259abc7d98e16cefc14404b5886cbc09">&#9670;&#160;</a></span>_luaEvalPrefix</h2>
+<a id="a6f946547b65d321100fd6efa2966180c" name="a6f946547b65d321100fd6efa2966180c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f946547b65d321100fd6efa2966180c">&#9670;&#160;</a></span>MCINMagic</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr char _luaEvalPrefix[] = &quot;local S,T,R=SendAddonMessage,function()&quot;</td>
+          <td class="memname"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a> MCINMagic = { { 'N', 'I', 'C', 'M' } }</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00043">GetCheckPacketBaseSize()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00101">adt_MCIN::prepareLoadedData()</a>.</p>
+
+</div>
+</div>
+<a id="a35ae9924cb4e3ad0020167b89d5ea86f" name="a35ae9924cb4e3ad0020167b89d5ea86f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a35ae9924cb4e3ad0020167b89d5ea86f">&#9670;&#160;</a></span>MCLQMagic</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a> MCLQMagic = { { 'Q', 'L', 'C', 'M' } }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00153">adt_MCLQ::prepareLoadedData()</a>.</p>
+
+</div>
+</div>
+<a id="aa2d85d3b667d3755f6f7a993e60c574b" name="aa2d85d3b667d3755f6f7a993e60c574b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2d85d3b667d3755f6f7a993e60c574b">&#9670;&#160;</a></span>MCNKMagic</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a> MCNKMagic = { { 'K', 'N', 'C', 'M' } }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00127">adt_MCNK::prepareLoadedData()</a>.</p>
+
+</div>
+</div>
+<a id="a32010e610a970d3891ae5effca03de37" name="a32010e610a970d3891ae5effca03de37"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32010e610a970d3891ae5effca03de37">&#9670;&#160;</a></span>MCVTMagic</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a> MCVTMagic = { { 'T', 'V', 'C', 'M' } }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00142">adt_MCVT::prepareLoadedData()</a>.</p>
+
+</div>
+</div>
+<a id="a329d005a0989137286469e197dc0c812" name="a329d005a0989137286469e197dc0c812"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a329d005a0989137286469e197dc0c812">&#9670;&#160;</a></span>MFBOMagic</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a> MFBOMagic = { { 'O', 'B', 'F', 'M' } }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00161">adt_MFBO::prepareLoadedData()</a>.</p>
+
+</div>
+</div>
+<a id="aaeaf747e4bc5c25257f9e0ef1153b5a7" name="aaeaf747e4bc5c25257f9e0ef1153b5a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaeaf747e4bc5c25257f9e0ef1153b5a7">&#9670;&#160;</a></span>MH2OMagic</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a> MH2OMagic = { { 'O', '2', 'H', 'M' } }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00115">adt_MH2O::prepareLoadedData()</a>.</p>
+
+</div>
+</div>
+<a id="ac97bd684dd5bacba0e790f355a3bdddf" name="ac97bd684dd5bacba0e790f355a3bdddf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac97bd684dd5bacba0e790f355a3bdddf">&#9670;&#160;</a></span>MHDRMagic</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/dd6/a29605.html">u_map_fcc</a> MHDRMagic = { { 'R', 'D', 'H', 'M' } }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00079">adt_MHDR::prepareLoadedData()</a>.</p>
 
 </div>
 </div>
@@ -399,8 +358,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_4b21bdf52d2a98b0776a5d7d01fdcc43.html">Warden</a></li><li class="navelem"><a class="el" href="../../d5/d47/a04490.html">WardenWin.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 6 2026 21:07:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_816589248c496bc2270bc4e83dc7035c.html">map_extractor</a></li><li class="navelem"><a class="el" href="../../d5/d47/a04490.html">adt.cpp</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:28:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

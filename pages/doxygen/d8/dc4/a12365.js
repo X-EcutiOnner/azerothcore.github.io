@@ -1,6 +1,15 @@
 var a12365 =
 [
-    [ "npc_lokhtos_darkbargainer", "d8/dc4/a12365.html#af91685ecf0f63313968b3d82373668d2", null ],
-    [ "OnGossipHello", "d8/dc4/a12365.html#a39547487ef7db8a3942556665099893f", null ],
-    [ "OnGossipSelect", "d8/dc4/a12365.html#a5a4640678a5669c75b1fa5d787999c02", null ]
+    [ "worldstate_commandscript", "d8/dc4/a12365.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
+    [ "GetCommands", "d8/dc4/a12365.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
+    [ "HandleScourgeInvasionBattlesWonCommand", "d8/dc4/a12365.html#a1c2167ce554327d674161b7c4f63585c", null ],
+    [ "HandleScourgeInvasionCommand", "d8/dc4/a12365.html#a11aeedef82a93f8799fd788a8c492335", null ],
+    [ "HandleScourgeInvasionStartZone", "d8/dc4/a12365.html#af242372bd32ed79d839af82f82423837", null ],
+    [ "HandleScourgeInvasionStateCommand", "d8/dc4/a12365.html#a5ba0b973087f921dbb764037c8b36134", null ],
+    [ "HandleSunsReachReclamationCounterCommand", "d8/dc4/a12365.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
+    [ "HandleSunsReachReclamationPhaseCommand", "d8/dc4/a12365.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
+    [ "HandleSunsReachReclamationStatusCommand", "d8/dc4/a12365.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
+    [ "HandleSunsReachReclamationSubPhaseCommand", "d8/dc4/a12365.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
+    [ "HandleSunwellGateCommand", "d8/dc4/a12365.html#a45b73e47c8e9b21063d02922a83e103b", null ],
+    [ "HandleSunwellGateCounterCommand", "d8/dc4/a12365.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
 ];

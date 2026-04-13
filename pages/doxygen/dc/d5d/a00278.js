@@ -1,4 +1,8 @@
 var a00278 =
 [
-    [ "address_to_uint", "dc/d5d/a00278.html#abb8b9761e1df323f5c258c0a12da7bd4", null ]
+    [ "GetDefaultDatabaseInfo", "dc/d5d/a00278.html#a5560c170776773a1a20d93060003e89d", null ],
+    [ "CHARACTER_DATABASE_INFO_DEFAULT", "dc/d5d/a00278.html#a6854faf653c8b94d9e1b611db3269d1a", null ],
+    [ "EMPTY_DATABASE_INFO", "dc/d5d/a00278.html#aa2920a017ca93e102f17b0ca20885c5b", null ],
+    [ "LOGIN_DATABASE_INFO_DEFAULT", "dc/d5d/a00278.html#aa5457f479ebc812232cc3f0d67fabde1", null ],
+    [ "WORLD_DATABASE_INFO_DEFAULT", "dc/d5d/a00278.html#ad2151db3d84513bc271cf642ad76bb80", null ]
 ];

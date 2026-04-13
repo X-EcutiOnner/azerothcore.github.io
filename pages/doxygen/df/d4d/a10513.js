@@ -1,8 +1,10 @@
 var a10513 =
 [
-    [ "_OnTrigger", "df/d4d/a10513.html#a6da93a21c84345bd77e467377810e756", null ],
-    [ "AreaTriggerScript", "df/d4d/a10513.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
-    [ "OnTrigger", "df/d4d/a10513.html#a4ac7e4963d36c8163a560dc8401b5f34", null ],
-    [ "ResetAreaTriggerDone", "df/d4d/a10513.html#a3b44c1892c1100028b387d15bfbdae60", null ],
-    [ "ResetAreaTriggerDone", "df/d4d/a10513.html#a3917da4a6f605077720172cda25322ee", null ]
+    [ "QuestStatusData", "df/d4d/a10513.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "df/d4d/a10513.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "df/d4d/a10513.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "df/d4d/a10513.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "df/d4d/a10513.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "df/d4d/a10513.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "df/d4d/a10513.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

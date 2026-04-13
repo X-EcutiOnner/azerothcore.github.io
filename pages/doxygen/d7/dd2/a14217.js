@@ -1,6 +1,6 @@
 var a14217 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d5/de1/a14221.html", "d5/de1/a14221" ],
-    [ "npc_jaina_proudmoore_bfu", "d7/dd2/a14217.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "d7/dd2/a14217.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d7/dd2/a14217.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d7/dd2/a14217.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d7/dd2/a14217.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

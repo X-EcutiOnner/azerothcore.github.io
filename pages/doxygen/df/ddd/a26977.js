@@ -1,6 +1,6 @@
 var a26977 =
 [
-    [ "CheckCast", "df/ddd/a26977.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "df/ddd/a26977.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "df/ddd/a26977.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "HandleProc", "df/ddd/a26977.html#a34fc7c89e962791d76c24c40bbdba827", null ],
+    [ "PrepareAuraScript", "df/ddd/a26977.html#a3558a23d2d428ee4f0bec8ae6c1afba5", null ],
+    [ "Register", "df/ddd/a26977.html#aab998e808ec9f53e87d92e71b3cc1c30", null ]
 ];

@@ -1,5 +1,4 @@
 var a05145 =
 [
-    [ "GetBounds", "d3/d60/a05145.html#aad63d9f5960111e34b0a3005e2c51d0f", null ],
-    [ "GetBounds2", "d3/d60/a05145.html#adcedbb1fa73310dff07fb945793fb23e", null ]
+    [ "Strand", "d3/d60/a05145.html#afd0efbcfbbd1ff7ef26d7f8c476380dc", null ]
 ];

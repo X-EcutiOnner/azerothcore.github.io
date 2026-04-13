@@ -1,6 +1,5 @@
 var a27681 =
 [
-    [ "FilterTargets", "d0/da8/a27681.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "d0/da8/a27681.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "d0/da8/a27681.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "AreaTrigger_at_nats_landing", "d0/da8/a27681.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d0/da8/a27681.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

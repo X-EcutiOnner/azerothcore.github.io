@@ -1,6 +1,8 @@
 var a26189 =
 [
-    [ "PrepareSpellScript", "d1/df2/a26189.html#a7099b8d28128cfea49288792ea02606c", null ],
-    [ "Register", "d1/df2/a26189.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
-    [ "UpdateTarget", "d1/df2/a26189.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
+    [ "CheckProc", "d1/df2/a26189.html#ac3f606ee9c54ab23bdd1277594112ed1", null ],
+    [ "HandleProc", "d1/df2/a26189.html#a9d6d6d752da222fd0edbb045840893fd", null ],
+    [ "PrepareAuraScript", "d1/df2/a26189.html#a62a1ae18832157f00ee2eea31ff13d01", null ],
+    [ "Register", "d1/df2/a26189.html#a5c417d0c4e46ebd2356f2d78ba5eee14", null ],
+    [ "Validate", "d1/df2/a26189.html#a9e8a8a231ee04be353be7f0bf320776b", null ]
 ];

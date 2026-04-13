@@ -1,14 +1,11 @@
 var a07709 =
 [
-    [ "AccountId", "d4/d06/a07709.html#ae1921d1e949cec70ebbd52779b775df6", null ],
-    [ "ArenaTeamId", "d4/d06/a07709.html#a1d094e514af9970b0239cc8e27da06bc", null ],
-    [ "Class", "d4/d06/a07709.html#a19dbbbdce9dbf9993d57edbebeeaf425", null ],
-    [ "GroupGuid", "d4/d06/a07709.html#a4b6f5540de2e47959a053696698e8e05", null ],
-    [ "Guid", "d4/d06/a07709.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532", null ],
-    [ "GuildId", "d4/d06/a07709.html#a4fba749bb66642a1601c5cb37c756222", null ],
-    [ "Level", "d4/d06/a07709.html#a41ea77c9e690336b709259bfccbd939f", null ],
-    [ "MailCount", "d4/d06/a07709.html#a8a74e276dec82ac3f2950b8637ed9213", null ],
-    [ "Name", "d4/d06/a07709.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b", null ],
-    [ "Race", "d4/d06/a07709.html#aa57c5abbbd7218d26e4156b310229766", null ],
-    [ "Sex", "d4/d06/a07709.html#a91c17eef26be0a18823a9834853c296a", null ]
+    [ "BattlegroundICScore", "d4/d06/a07709.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
+    [ "BuildObjectivesBlock", "d4/d06/a07709.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
+    [ "GetAttr1", "d4/d06/a07709.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
+    [ "GetAttr2", "d4/d06/a07709.html#a758fa51038f232c7d65cd0168a4608c2", null ],
+    [ "UpdateScore", "d4/d06/a07709.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
+    [ "BattlegroundIC", "d4/d06/a07709.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
+    [ "BasesAssaulted", "d4/d06/a07709.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
+    [ "BasesDefended", "d4/d06/a07709.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
 ];

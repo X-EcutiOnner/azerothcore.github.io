@@ -1,10 +1,11 @@
 var a21545 =
 [
-    [ "npc_jenny", "da/df9/a21545.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "da/df9/a21545.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "da/df9/a21545.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "da/df9/a21545.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "da/df9/a21545.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "da/df9/a21545.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "da/df9/a21545.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "npc_emilyAI", "da/df9/a21545.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "da/df9/a21545.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "da/df9/a21545.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "da/df9/a21545.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "da/df9/a21545.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "WaypointReached", "da/df9/a21545.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_mrfloppyGUID", "da/df9/a21545.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "da/df9/a21545.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

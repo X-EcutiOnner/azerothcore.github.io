@@ -1,8 +1,6 @@
 var a26037 =
 [
-    [ "CheckRequirement", "df/d13/a26037.html#a3ed8450641baeee915fc5a129f9c7434", null ],
-    [ "HandleScript", "df/d13/a26037.html#a92e3137bb92545876ca67028bcc86a4f", null ],
-    [ "Load", "df/d13/a26037.html#a56326701447b3a88d9022ca1f1c184a6", null ],
-    [ "PrepareSpellScript", "df/d13/a26037.html#a94d4155e98a4ac5764d8bfd705b05602", null ],
-    [ "Register", "df/d13/a26037.html#a9b440dd8bf21b70d068021d05832a3fc", null ]
+    [ "CheckProc", "df/d13/a26037.html#a1642e1c445baac2be49a32797f21ca31", null ],
+    [ "PrepareAuraScript", "df/d13/a26037.html#a116d2bc302ca74ae39d98f8d5849e757", null ],
+    [ "Register", "df/d13/a26037.html#a8c0d81f8480be1853679d1f2a20ecfbb", null ]
 ];

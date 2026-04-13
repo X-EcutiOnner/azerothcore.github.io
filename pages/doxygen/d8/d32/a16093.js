@@ -1,6 +1,6 @@
 var a16093 =
 [
-    [ "npc_aquementasAI", "d8/dcb/a16097.html", "d8/dcb/a16097" ],
-    [ "npc_aquementas", "d8/d32/a16093.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d8/d32/a16093.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "HandleApply", "d8/d32/a16093.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "d8/d32/a16093.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "d8/d32/a16093.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

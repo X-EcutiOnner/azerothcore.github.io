@@ -1,6 +1,7 @@
 var a27121 =
 [
-    [ "HandleEffectApply", "d9/deb/a27121.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "d9/deb/a27121.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "d9/deb/a27121.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "HandleProc", "d9/deb/a27121.html#a46726e3e05e386892ea86d74d161e8d0", null ],
+    [ "PrepareAuraScript", "d9/deb/a27121.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
+    [ "Register", "d9/deb/a27121.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
+    [ "Validate", "d9/deb/a27121.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
 ];

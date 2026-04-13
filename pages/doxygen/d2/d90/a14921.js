@@ -1,9 +1,11 @@
 var a14921 =
 [
-    [ "npc_love_in_air_snivel", "d2/d90/a14921.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
-    [ "AllowAction", "d2/d90/a14921.html#af1097317f62bbb8f8456124001c73576", null ],
-    [ "MoveInLineOfSight", "d2/d90/a14921.html#ae6537707109b95fad20e521d07867cdd", null ],
-    [ "Reset", "d2/d90/a14921.html#a2385ea44d9f44735b193add4a0d0485b", null ],
-    [ "UpdateAI", "d2/d90/a14921.html#a9e712994663e3442359d2f574ebc812c", null ],
-    [ "delay", "d2/d90/a14921.html#a548db6245ef875ec47279246e437934c", null ]
+    [ "boss_anetheron", "d2/d90/a14921.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "d2/d90/a14921.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "d2/d90/a14921.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "d2/d90/a14921.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "d2/d90/a14921.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "d2/d90/a14921.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "d2/d90/a14921.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
+    [ "_recentlySpoken", "d2/d90/a14921.html#accd9455c3b1d536ca177be6028f3503d", null ]
 ];

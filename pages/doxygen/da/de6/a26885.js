@@ -1,6 +1,6 @@
 var a26885 =
 [
-    [ "CheckCast", "da/de6/a26885.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
-    [ "PrepareSpellScript", "da/de6/a26885.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
-    [ "Register", "da/de6/a26885.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
+    [ "PrepareAuraScript", "da/de6/a26885.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "da/de6/a26885.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "da/de6/a26885.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

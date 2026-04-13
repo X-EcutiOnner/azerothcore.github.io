@@ -1,7 +1,6 @@
 var a23505 =
 [
-    [ "PeriodicTick", "de/d86/a23505.html#a53541105e40202e4a73ecc38d84e9eca", null ],
-    [ "PrepareAuraScript", "de/d86/a23505.html#a79c8829a86db535e254db009d5286430", null ],
-    [ "Register", "de/d86/a23505.html#a58cd762eb10d224bb188aaf167c816b9", null ],
-    [ "Validate", "de/d86/a23505.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
+    [ "HandleScriptEffect", "de/d86/a23505.html#a724e857ad8604ef4546c8823bb7bd632", null ],
+    [ "PrepareSpellScript", "de/d86/a23505.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
+    [ "Register", "de/d86/a23505.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
 ];

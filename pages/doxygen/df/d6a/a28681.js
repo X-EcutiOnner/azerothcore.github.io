@@ -1,7 +1,9 @@
 var a28681 =
 [
-    [ "HandleDummy", "df/d6a/a28681.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "df/d6a/a28681.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "df/d6a/a28681.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "df/d6a/a28681.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "CinematicSequence", "df/d6a/a28681.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
+    [ "ClassID", "df/d6a/a28681.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
+    [ "expansion", "df/d6a/a28681.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
+    [ "name", "df/d6a/a28681.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
+    [ "powerType", "df/d6a/a28681.html#a74aec35dc161a7e830453b9365a6f107", null ],
+    [ "spellfamily", "df/d6a/a28681.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
 ];

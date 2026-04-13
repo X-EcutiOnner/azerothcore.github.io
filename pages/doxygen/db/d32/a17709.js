@@ -1,6 +1,7 @@
 var a17709 =
 [
-    [ "boss_slad_ranAI", "d0/d1b/a17713.html", "d0/d1b/a17713" ],
-    [ "boss_slad_ran", "db/d32/a17709.html#a9b960242e2f186d334d7ce04b999e274", null ],
-    [ "GetAI", "db/d32/a17709.html#a26651b7ca111bd64549283c37e34db11", null ]
+    [ "ExtraEffect", "db/d32/a17709.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "db/d32/a17709.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "db/d32/a17709.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "db/d32/a17709.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

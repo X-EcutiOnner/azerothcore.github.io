@@ -1,12 +1,7 @@
 var a07581 =
 [
-    [ "BGQueueRemoveEvent", "da/d04/a07581.html#ab751b728f64b2928eefb21f756539d81", null ],
-    [ "~BGQueueRemoveEvent", "da/d04/a07581.html#aab9ea24041888975439aafb246c571c3", null ],
-    [ "Abort", "da/d04/a07581.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
-    [ "Execute", "da/d04/a07581.html#a42482ff784da4b23b568888a74a0b531", null ],
-    [ "m_BgInstanceGUID", "da/d04/a07581.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
-    [ "m_BgQueueTypeId", "da/d04/a07581.html#ac059a823ae49bd0250eec15845bf153b", null ],
-    [ "m_BgTypeId", "da/d04/a07581.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
-    [ "m_PlayerGuid", "da/d04/a07581.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
-    [ "m_RemoveTime", "da/d04/a07581.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
+    [ "BattlegroundObjectInfo", "da/d04/a07581.html#a848f2b15f47ceeb91c40e916d5659486", null ],
+    [ "object", "da/d04/a07581.html#a6722b83d6969c1a34b4846f19865075a", null ],
+    [ "spellid", "da/d04/a07581.html#ae0233a1078bc735e40855ea7608f5f11", null ],
+    [ "timer", "da/d04/a07581.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
 ];

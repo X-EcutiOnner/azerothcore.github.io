@@ -1,6 +1,7 @@
 var a18209 =
 [
-    [ "DaranavanMoveEvent", "db/d38/a18209.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "db/d38/a18209.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "db/d38/a18209.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "HandleCast", "db/d38/a18209.html#aaa3262bc782e342825d4caba2954e95d", null ],
+    [ "PrepareSpellScript", "db/d38/a18209.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
+    [ "Register", "db/d38/a18209.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
+    [ "Validate", "db/d38/a18209.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
 ];

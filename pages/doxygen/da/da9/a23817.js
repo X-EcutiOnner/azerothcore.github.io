@@ -1,6 +1,5 @@
 var a23817 =
 [
-    [ "HandlePeriodic", "da/da9/a23817.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "da/da9/a23817.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "da/da9/a23817.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "npc_karynaku", "da/da9/a23817.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
+    [ "OnQuestAccept", "da/da9/a23817.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
 ];

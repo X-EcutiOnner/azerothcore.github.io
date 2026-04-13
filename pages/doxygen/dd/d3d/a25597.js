@@ -1,6 +1,7 @@
 var a25597 =
 [
-    [ "PrepareAuraScript", "dd/d3d/a25597.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "dd/d3d/a25597.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "dd/d3d/a25597.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "HandleDummy", "dd/d3d/a25597.html#a7a8016e1403caa0432242c5c3240f107", null ],
+    [ "PrepareSpellScript", "dd/d3d/a25597.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
+    [ "Register", "dd/d3d/a25597.html#abd09f5df3f31af619f24214f90791a53", null ],
+    [ "Validate", "dd/d3d/a25597.html#ab14aedfdb61d54334f60e57968fcf081", null ]
 ];

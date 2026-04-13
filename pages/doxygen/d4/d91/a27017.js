@@ -1,7 +1,6 @@
 var a27017 =
 [
-    [ "CheckRequirement", "d4/d91/a27017.html#afc9206b1d92834943c9825dfd97439c9", null ],
-    [ "HandleScriptEffect", "d4/d91/a27017.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "d4/d91/a27017.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "d4/d91/a27017.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "FilterTargets", "d4/d91/a27017.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "d4/d91/a27017.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "d4/d91/a27017.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

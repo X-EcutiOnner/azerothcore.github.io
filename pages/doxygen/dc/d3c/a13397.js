@@ -1,7 +1,6 @@
 var a13397 =
 [
-    [ "HandleScriptEffect", "dc/d3c/a13397.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "dc/d3c/a13397.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "dc/d3c/a13397.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "dc/d3c/a13397.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "boss_kirtonos_the_heraldAI", "dd/ddd/a13401.html", "dd/ddd/a13401" ],
+    [ "boss_kirtonos_the_herald", "dc/d3c/a13397.html#a0e81153a0da7910cda4c9b6d32544318", null ],
+    [ "GetAI", "dc/d3c/a13397.html#aa5e0fe2386aae52fd53ff309282db652", null ]
 ];

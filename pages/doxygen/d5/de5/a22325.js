@@ -1,7 +1,7 @@
 var a22325 =
 [
-    [ "HandleDummy", "d5/de5/a22325.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
-    [ "PrepareAuraScript", "d5/de5/a22325.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
-    [ "Register", "d5/de5/a22325.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
-    [ "Validate", "d5/de5/a22325.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
+    [ "HandleOnHit", "d5/de5/a22325.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "d5/de5/a22325.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "d5/de5/a22325.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "d5/de5/a22325.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

@@ -1,7 +1,6 @@
 var a14861 =
 [
-    [ "HandleEffectApply", "db/dab/a14861.html#a22f3143b10155635194abe22994a397c", null ],
-    [ "HandleEffectRemove", "db/dab/a14861.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
-    [ "PrepareAuraScript", "db/dab/a14861.html#abb4f53a42e701323b2fc66598ec3503c", null ],
-    [ "Register", "db/dab/a14861.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
+    [ "PrepareAuraScript", "db/dab/a14861.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "db/dab/a14861.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "db/dab/a14861.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

@@ -1,14 +1,15 @@
 var a07557 =
 [
-    [ "IsArena", "de/dcd/a07557.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "de/dcd/a07557.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "de/dcd/a07557.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "de/dcd/a07557.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "de/dcd/a07557.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "de/dcd/a07557.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "de/dcd/a07557.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "de/dcd/a07557.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "de/dcd/a07557.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "de/dcd/a07557.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "de/dcd/a07557.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "ModifyMatchmakerRating", "de/dcd/a07557.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
+    [ "ModifyPersonalRating", "de/dcd/a07557.html#a34401ea82507df97e540c698fa549b5f", null ],
+    [ "Class", "de/dcd/a07557.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
+    [ "Guid", "de/dcd/a07557.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
+    [ "MatchMakerRating", "de/dcd/a07557.html#ac91a344c7aecb72d17841413f5d935da", null ],
+    [ "MaxMMR", "de/dcd/a07557.html#afc86e111a1c699254c5ea761d0dda088", null ],
+    [ "Name", "de/dcd/a07557.html#a7917e705d8c15bbe2731c32375c34d16", null ],
+    [ "PersonalRating", "de/dcd/a07557.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
+    [ "SeasonGames", "de/dcd/a07557.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
+    [ "SeasonWins", "de/dcd/a07557.html#a7239187cef3a02839fe27577ad022ec9", null ],
+    [ "WeekGames", "de/dcd/a07557.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
+    [ "WeekWins", "de/dcd/a07557.html#a5b9e5e02d59569080d34abd9b9728693", null ]
 ];

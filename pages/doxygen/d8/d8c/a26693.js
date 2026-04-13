@@ -1,7 +1,6 @@
 var a26693 =
 [
-    [ "HandleScriptEffect", "d8/d8c/a26693.html#a6c1ac025fa93caa08737387a18003612", null ],
-    [ "PrepareSpellScript", "d8/d8c/a26693.html#acb5ad05212399b06ed9bb64bb9203069", null ],
-    [ "Register", "d8/d8c/a26693.html#afbf989d514c308f466ecfd9957d2d177", null ],
-    [ "Validate", "d8/d8c/a26693.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
+    [ "CheckProc", "d8/d8c/a26693.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
+    [ "PrepareAuraScript", "d8/d8c/a26693.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
+    [ "Register", "d8/d8c/a26693.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
 ];

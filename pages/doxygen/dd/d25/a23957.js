@@ -1,7 +1,8 @@
 var a23957 =
 [
-    [ "npc_daranelleAI", "dd/d25/a23957.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "dd/d25/a23957.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "dd/d25/a23957.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "dd/d25/a23957.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "go_skull_pile", "dd/d25/a23957.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "dd/d25/a23957.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "dd/d25/a23957.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "dd/d25/a23957.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "dd/d25/a23957.html#af74fcd75404c0886128401d661067394", null ]
 ];

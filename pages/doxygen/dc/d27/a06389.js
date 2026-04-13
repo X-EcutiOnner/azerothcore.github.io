@@ -1,10 +1,9 @@
 var a06389 =
 [
-    [ "PowerUsersSelector", "dc/d27/a06389.html#aa13229f12601a551a34628b92c0eddf3", null ],
-    [ "operator()", "dc/d27/a06389.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
-    [ "_dist", "dc/d27/a06389.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
-    [ "_me", "dc/d27/a06389.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
-    [ "_playerOnly", "dc/d27/a06389.html#aea809984a6dd46c22f414e44c9794309", null ],
-    [ "_power", "dc/d27/a06389.html#a9a518903606768e505e7230fe9344bbf", null ],
-    [ "_withTank", "dc/d27/a06389.html#a0b682b6d926ced8eecff642a4bb51756", null ]
+    [ "CritterAI", "dc/d27/a06389.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
+    [ "EnterEvadeMode", "dc/d27/a06389.html#a989d1fc00af900320dcf27cce7f247dc", null ],
+    [ "JustEngagedWith", "dc/d27/a06389.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
+    [ "MovementInform", "dc/d27/a06389.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
+    [ "Permissible", "dc/d27/a06389.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
+    [ "UpdateAI", "dc/d27/a06389.html#af860be127a671f5448cb731aa2f701b0", null ]
 ];

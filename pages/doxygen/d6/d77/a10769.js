@@ -1,6 +1,9 @@
 var a10769 =
 [
-    [ "ShowingHelm", "d6/d77/a10769.html#a67e25a4a39b14e488b5176b02e8dc995", null ],
-    [ "Read", "d6/d77/a10769.html#a9e6d525a7104f2a8f81564d3796c6211", null ],
-    [ "ShowHelm", "d6/d77/a10769.html#a9f3d52d5d6a6fa76b29afbd5a56d5622", null ]
+    [ "fX", "d6/d77/a10769.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d6/d77/a10769.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d6/d77/a10769.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d6/d77/a10769.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d6/d77/a10769.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d6/d77/a10769.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

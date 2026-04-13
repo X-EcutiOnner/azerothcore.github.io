@@ -1,6 +1,11 @@
 var a29013 =
 [
-    [ "AreaGroupId", "de/d7b/a29013.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "de/d7b/a29013.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "de/d7b/a29013.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "addToSpellBook", "de/d7b/a29013.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
+    [ "Col", "de/d7b/a29013.html#a0bc589c5b1425d5e889cd290b805169e", null ],
+    [ "DependsOn", "de/d7b/a29013.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
+    [ "DependsOnRank", "de/d7b/a29013.html#a608f232669981da3423b959479ca8683", null ],
+    [ "RankID", "de/d7b/a29013.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
+    [ "Row", "de/d7b/a29013.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
+    [ "TalentID", "de/d7b/a29013.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
+    [ "TalentTab", "de/d7b/a29013.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
 ];

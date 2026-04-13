@@ -1,6 +1,6 @@
 var a16709 =
 [
-    [ "boss_paletressAI", "d2/dca/a16713.html", "d2/dca/a16713" ],
-    [ "boss_paletress", "db/dfc/a16709.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "db/dfc/a16709.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "npc_toc_shadow_priestAI", "d2/dca/a16713.html", "d2/dca/a16713" ],
+    [ "npc_toc_shadow_priest", "db/dfc/a16709.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
+    [ "GetAI", "db/dfc/a16709.html#a93b38d23759da3b7417dbb94b4a951da", null ]
 ];

@@ -1,6 +1,6 @@
 var a11473 =
 [
-    [ "WorldSession", "db/d04/a11473.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "db/d04/a11473.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "db/d04/a11473.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "ClientOpcodeHandler", "d8/d79/a05010.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
+    [ "Call", "d8/d79/a05010.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
+    [ "ProcessingPlace", "d8/d79/a05010.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
 ];

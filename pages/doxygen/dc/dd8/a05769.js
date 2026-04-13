@@ -1,6 +1,8 @@
 var a05769 =
 [
-    [ "~AsyncProcessResult", "dc/dd8/a05769.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
-    [ "GetFutureResult", "dc/dd8/a05769.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
-    [ "Terminate", "dc/dd8/a05769.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
+    [ "result_type", "dc/dd8/a05769.html#a20f96383bade76c6185d8f20f458784e", null ],
+    [ "Instance", "dc/dd8/a05769.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
+    [ "max", "dc/dd8/a05769.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
+    [ "min", "dc/dd8/a05769.html#ab153ffca65139db4084745302dd4db7f", null ],
+    [ "operator()", "dc/dd8/a05769.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
 ];

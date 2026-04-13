@@ -1,10 +1,6 @@
 var a16617 =
 [
-    [ "spell_halion_damage_aoe_summon", "db/d75/a16617.html#a6152e7a0515076af2c7c2155506257b0", null ],
-    [ "HandleSummon", "db/d75/a16617.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
-    [ "PrepareSpellScript", "db/d75/a16617.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
-    [ "Register", "db/d75/a16617.html#aa1f9239a2910d53c85539abba6333893", null ],
-    [ "Validate", "db/d75/a16617.html#acb359257b29354b5962d9865e06137e7", null ],
-    [ "_auraSpell", "db/d75/a16617.html#a497a74eca703470964157639a6f372e2", null ],
-    [ "_explosionSpell", "db/d75/a16617.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
+    [ "HideNpcEvent", "db/d75/a16617.html#ab454295aab0f5d4586740140232e96eb", null ],
+    [ "Execute", "db/d75/a16617.html#aecfbbbcac3fd98675913a6381c891a59", null ],
+    [ "_owner", "db/d75/a16617.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
 ];

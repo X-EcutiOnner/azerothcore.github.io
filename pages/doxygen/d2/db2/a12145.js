@@ -1,8 +1,6 @@
 var a12145 =
 [
-    [ "honor_commandscript", "d2/db2/a12145.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
-    [ "GetCommands", "d2/db2/a12145.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
-    [ "HandleHonorAddCommand", "d2/db2/a12145.html#a03caa77b436e3d513e1325badf05df33", null ],
-    [ "HandleHonorAddKillCommand", "d2/db2/a12145.html#aec79f459796d821a032477827e16308a", null ],
-    [ "HandleHonorUpdateCommand", "d2/db2/a12145.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
+    [ "bg_commandscript", "d2/db2/a12145.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
+    [ "GetCommands", "d2/db2/a12145.html#a911ccd6445b08c05069f7f196556c891", null ],
+    [ "HandleBagsClearCommand", "d2/db2/a12145.html#a92347e90c2f78d0dfeb41eb033366319", null ]
 ];

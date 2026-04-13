@@ -1,7 +1,7 @@
 var a16069 =
 [
-    [ "DelayedWindstoneSummonEvent", "dd/d1a/a16069.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "dd/d1a/a16069.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "dd/d1a/a16069.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "dd/d1a/a16069.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "go_troll_cageAI", "dd/d1a/a16069.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "dd/d1a/a16069.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "dd/d1a/a16069.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "dd/d1a/a16069.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

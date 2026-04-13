@@ -1,7 +1,5 @@
 var a11049 =
 [
-    [ "InstanceResetFailed", "de/d67/a11049.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
-    [ "Write", "de/d67/a11049.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
-    [ "MapId", "de/d67/a11049.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
-    [ "Reason", "de/d67/a11049.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
+    [ "SocketEnchantID", "de/d67/a11049.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "de/d67/a11049.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

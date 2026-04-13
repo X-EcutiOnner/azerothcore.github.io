@@ -1,8 +1,7 @@
 var a21721 =
 [
-    [ "npc_future_youAI", "dd/d70/a21721.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "dd/d70/a21721.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "dd/d70/a21721.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "dd/d70/a21721.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "dd/d70/a21721.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "GetSeatNumber", "dd/d70/a21721.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
+    [ "HandleDummy", "dd/d70/a21721.html#ac5945381452559e1d5655f5345bdeff3", null ],
+    [ "PrepareSpellScript", "dd/d70/a21721.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
+    [ "Register", "dd/d70/a21721.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
 ];

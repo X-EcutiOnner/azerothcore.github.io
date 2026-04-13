@@ -1,5 +1,5 @@
 var a20229 =
 [
-    [ "boss_flame_leviathan_overload_device", "d8/dff/a20229.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
-    [ "OnSpellClick", "d8/dff/a20229.html#a3f313a637fd95e28db1265ae84f349a8", null ]
+    [ "achievement_getting_cold_in_here", "d8/dff/a20229.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "d8/dff/a20229.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

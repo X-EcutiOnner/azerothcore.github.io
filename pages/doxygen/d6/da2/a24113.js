@@ -1,7 +1,6 @@
 var a24113 =
 [
-    [ "CheckRequirement", "d6/da2/a24113.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d6/da2/a24113.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d6/da2/a24113.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d6/da2/a24113.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "HandleAfterCast", "d6/da2/a24113.html#aaa65e67362ded5318e89272acf073bf3", null ],
+    [ "PrepareSpellScript", "d6/da2/a24113.html#a7d0dd936965845c14e7b54846facdb89", null ],
+    [ "Register", "d6/da2/a24113.html#ab7b767743d62d9763bea710b7552a8cf", null ]
 ];

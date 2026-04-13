@@ -1,8 +1,9 @@
 var a17925 =
 [
-    [ "npc_saurfang_eventAI", "db/dcf/a17925.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "db/dcf/a17925.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "db/dcf/a17925.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "db/dcf/a17925.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "db/dcf/a17925.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "CheckAreaTarget", "db/dcf/a17925.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
+    [ "HandleApply", "db/dcf/a17925.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
+    [ "Load", "db/dcf/a17925.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
+    [ "PrepareAuraScript", "db/dcf/a17925.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
+    [ "Register", "db/dcf/a17925.html#a8f476129e0678149463c4b16232f6cb6", null ],
+    [ "_teamIdInInstance", "db/dcf/a17925.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
 ];

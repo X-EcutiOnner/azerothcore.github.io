@@ -1,6 +1,8 @@
 var a16793 =
 [
-    [ "boss_grand_championAI", "d1/d6b/a16797.html", "d1/d6b/a16797" ],
-    [ "boss_grand_champion", "d8/de2/a16793.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "d8/de2/a16793.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "npc_toc_pet_warlockAI", "d8/de2/a16793.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "d8/de2/a16793.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "d8/de2/a16793.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "d8/de2/a16793.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "d8/de2/a16793.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

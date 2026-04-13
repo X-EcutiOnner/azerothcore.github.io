@@ -1,10 +1,7 @@
 var a17029 =
 [
-    [ "npc_mistress_of_painAI", "d2/d7b/a17029.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "d2/d7b/a17029.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "d2/d7b/a17029.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "d2/d7b/a17029.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "d2/d7b/a17029.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "d2/d7b/a17029.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "d2/d7b/a17029.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "HandleEffectRemove", "d2/d7b/a17029.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d2/d7b/a17029.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d2/d7b/a17029.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d2/d7b/a17029.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

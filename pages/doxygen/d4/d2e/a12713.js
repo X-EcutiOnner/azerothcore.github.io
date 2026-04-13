@@ -1,6 +1,7 @@
 var a12713 =
 [
-    [ "boss_chromaggusAI", "d9/d1d/a12717.html", "d9/d1d/a12717" ],
-    [ "boss_chromaggus", "d4/d2e/a12713.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
-    [ "GetAI", "d4/d2e/a12713.html#ace78172cafb122ce5961ed837201c32b", null ]
+    [ "HandleDummy", "d4/d2e/a12713.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
+    [ "PrepareSpellScript", "d4/d2e/a12713.html#a5308de47023b89e4ff8680158a502ac0", null ],
+    [ "Register", "d4/d2e/a12713.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
+    [ "Validate", "d4/d2e/a12713.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
 ];

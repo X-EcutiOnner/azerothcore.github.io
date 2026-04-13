@@ -1,5 +1,10 @@
 var a21637 =
 [
-    [ "npc_steam_powered_auctioneerAI", "db/d4c/a21637.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "db/d4c/a21637.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_Apothecary_HanesAI", "db/d4c/a21637.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "db/d4c/a21637.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "db/d4c/a21637.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "db/d4c/a21637.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "db/d4c/a21637.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "WaypointReached", "db/d4c/a21637.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "PotTimer", "db/d4c/a21637.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

@@ -1,6 +1,7 @@
 var a21917 =
 [
-    [ "npc_venture_co_stragglerAI", "da/d04/a21921.html", "da/d04/a21921" ],
-    [ "npc_venture_co_straggler", "dd/d0c/a21917.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "dd/d0c/a21917.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "npc_hyldsmeet_protodrake", "dd/d0c/a21917.html#a409a5f5eace583ef874421819c975ed8", null ],
+    [ "PassengerBoarded", "dd/d0c/a21917.html#a0067d3b394c967946e329ea25c2dc315", null ],
+    [ "UpdateAI", "dd/d0c/a21917.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
+    [ "_accessoryRespawnTimer", "dd/d0c/a21917.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
 ];

@@ -1,7 +1,6 @@
 var a21933 =
 [
-    [ "HandleScript", "de/de8/a21933.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "de/de8/a21933.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "de/de8/a21933.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "de/de8/a21933.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "de/de8/a21933.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "de/de8/a21933.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "de/de8/a21933.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

@@ -1,6 +1,7 @@
 var a13473 =
 [
-    [ "npc_a_special_surpriseAI", "dc/dfe/a13477.html", "dc/dfe/a13477" ],
-    [ "npc_a_special_surprise", "d7/dbb/a13473.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "d7/dbb/a13473.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "HandleScript", "d7/dbb/a13473.html#ab705220b48be16090107135f9e2272cf", null ],
+    [ "PrepareSpellScript", "d7/dbb/a13473.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
+    [ "Register", "d7/dbb/a13473.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
+    [ "Validate", "d7/dbb/a13473.html#ad1d90693a427a52fa728e5ae455932a3", null ]
 ];

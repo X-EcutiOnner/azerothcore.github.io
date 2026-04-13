@@ -1,6 +1,7 @@
 var a18905 =
 [
-    [ "npc_lk_wicked_spiritAI", "d0/d13/a18909.html", "d0/d13/a18909" ],
-    [ "npc_lk_wicked_spirit", "db/dfb/a18905.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "db/dfb/a18905.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "OnApply", "db/dfb/a18905.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "db/dfb/a18905.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "db/dfb/a18905.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "db/dfb/a18905.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

@@ -1,7 +1,6 @@
 var a18873 =
 [
-    [ "HandleProc", "d5/dfc/a18873.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d5/dfc/a18873.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d5/dfc/a18873.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d5/dfc/a18873.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "npc_captain_rupertAI", "d5/dfc/a18873.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "d5/dfc/a18873.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "d5/dfc/a18873.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

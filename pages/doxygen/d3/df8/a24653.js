@@ -1,11 +1,6 @@
 var a24653 =
 [
-    [ "CalcPeriodic", "d3/df8/a24653.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "d3/df8/a24653.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "d3/df8/a24653.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "d3/df8/a24653.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "d3/df8/a24653.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "d3/df8/a24653.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "d3/df8/a24653.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "d3/df8/a24653.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "CheckAreaTarget", "d3/df8/a24653.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
+    [ "PrepareAuraScript", "d3/df8/a24653.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
+    [ "Register", "d3/df8/a24653.html#a6647a8e35009cf8559e4957a666f037a", null ]
 ];

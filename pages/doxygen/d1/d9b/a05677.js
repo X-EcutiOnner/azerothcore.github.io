@@ -1,10 +1,8 @@
 var a05677 =
 [
-    [ "AsyncCallbackProcessor", "d1/d9b/a05677.html#aee6f273ab86fad749de85cd12ea32a98", null ],
-    [ "~AsyncCallbackProcessor", "d1/d9b/a05677.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
-    [ "AsyncCallbackProcessor", "d1/d9b/a05677.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
-    [ "AddCallback", "d1/d9b/a05677.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
-    [ "operator=", "d1/d9b/a05677.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
-    [ "ProcessReadyCallbacks", "d1/d9b/a05677.html#a4fce127f587a9da913a9e9061ba538e7", null ],
-    [ "_callbacks", "d1/d9b/a05677.html#a372d9496b9a1b3e3f718cefe50164209", null ]
+    [ "~Runnable", "d1/d9b/a05677.html#add1dc9a377ee89c32cc40c42907e5bd8", null ],
+    [ "decReference", "d1/d9b/a05677.html#a69bf63c7f684de6e278de0468ed8fa06", null ],
+    [ "incReference", "d1/d9b/a05677.html#a062323e141fa33ae094adbef16caf3d6", null ],
+    [ "run", "d1/d9b/a05677.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9", null ],
+    [ "m_refs", "d1/d9b/a05677.html#ae047c0949843835f0b240484df01b7f8", null ]
 ];

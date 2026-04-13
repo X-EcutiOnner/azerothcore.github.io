@@ -1,7 +1,7 @@
 var a25405 =
 [
-    [ "PrepareAuraScript", "dd/d0b/a25405.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
-    [ "Register", "dd/d0b/a25405.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
-    [ "TriggerFoodBuff", "dd/d0b/a25405.html#a5d125413491dd377d61b8e30c4979fdd", null ],
-    [ "Validate", "dd/d0b/a25405.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
+    [ "CalcPeriodic", "dd/d0b/a25405.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "dd/d0b/a25405.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "dd/d0b/a25405.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "dd/d0b/a25405.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

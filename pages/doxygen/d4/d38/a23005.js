@@ -1,6 +1,8 @@
 var a23005 =
 [
-    [ "PrepareSpellScript", "d4/d38/a23005.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "d4/d38/a23005.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "d4/d38/a23005.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "boss_mekgineer_steamrigger", "d4/d38/a23005.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "d4/d38/a23005.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "d4/d38/a23005.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "d4/d38/a23005.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "d4/d38/a23005.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

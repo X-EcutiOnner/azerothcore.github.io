@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Creature/CreatureData.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/Random.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,519 +105,93 @@ $(document).ready(function(){initNavTree('dc/d6d/a04802.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">CreatureData.h File Reference</div></div>
+  <div class="headertitle"><div class="title">Random.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">DBCEnums.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ItemTemplate.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LootMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpawnData.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
-<code>#include &lt;list&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Random.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Errors.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SFMTRand.h</a>&quot;</code><br />
+<code>#include &lt;memory&gt;</code><br />
+<code>#include &lt;random&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d21/a08294.html">CreatureMovementData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d5f/a08298.html">CreatureModel</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2d/a08302.html">CreatureTemplate</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d02/a08306.html">CreatureBaseStats</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da3/a08310.html">CreatureLocale</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dfc/a08314.html">GossipMenuItemsLocale</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc4/a08318.html">PointOfInterestLocale</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a08322.html">EquipmentInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d63/a08326.html">CreatureData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d14/a08330.html">CreatureModelInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddf/a08334.html">CreatureAddon</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d8f/a08338.html">VendorItem</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df9/a08342.html">VendorItemData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db4/a08346.html">VendorItemCount</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d43/a08350.html">CreatureSpellCooldown</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a8e7138fa4d60c160a41804cb93cd171b"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a8e7138fa4d60c160a41804cb93cd171b">MAX_AGGRO_RESET_TIME</a>&#160;&#160;&#160;10</td></tr>
-<tr class="separator:a8e7138fa4d60c160a41804cb93cd171b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3f331d9e202385f679104cc20ef74c3d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a3f331d9e202385f679104cc20ef74c3d">MAX_KILL_CREDIT</a>&#160;&#160;&#160;2</td></tr>
-<tr class="separator:a3f331d9e202385f679104cc20ef74c3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6afabaf7b3d8095557d5fdef43a7ee32"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a6afabaf7b3d8095557d5fdef43a7ee32">CREATURE_REGEN_INTERVAL</a>&#160;&#160;&#160;2 * <a class="el" href="../../d1/d5d/a00311.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></td></tr>
-<tr class="separator:a6afabaf7b3d8095557d5fdef43a7ee32"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a946f1a01c64642a53fd348756fa74589"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a946f1a01c64642a53fd348756fa74589">MAX_CREATURE_QUEST_ITEMS</a>&#160;&#160;&#160;6</td></tr>
-<tr class="separator:a946f1a01c64642a53fd348756fa74589"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ada6042a73a1120d894eaf5d81ef7aa1a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#ada6042a73a1120d894eaf5d81ef7aa1a">MAX_EQUIPMENT_ITEMS</a>&#160;&#160;&#160;3</td></tr>
-<tr class="separator:ada6042a73a1120d894eaf5d81ef7aa1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a40f2d292ed9f49ffa155dff632dc15c5"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a40f2d292ed9f49ffa155dff632dc15c5">CreatureQuestItemList</a></td></tr>
-<tr class="separator:a40f2d292ed9f49ffa155dff632dc15c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab73ac085ce9072e26a505e0098969d7f"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dc/d6d/a04802.html#a40f2d292ed9f49ffa155dff632dc15c5">CreatureQuestItemList</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#ab73ac085ce9072e26a505e0098969d7f">CreatureQuestItemMap</a></td></tr>
-<tr class="separator:ab73ac085ce9072e26a505e0098969d7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab12170e3eeaeb988a07355262ca85757"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/d2d/a08302.html">CreatureTemplate</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#ab12170e3eeaeb988a07355262ca85757">CreatureTemplateContainer</a></td></tr>
-<tr class="separator:ab12170e3eeaeb988a07355262ca85757"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ade6a94c0d4f388a0394d648ed7663a29"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d5/d0f/a00494.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, <a class="el" href="../../d3/d02/a08306.html">CreatureBaseStats</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#ade6a94c0d4f388a0394d648ed7663a29">CreatureBaseStatsContainer</a></td></tr>
-<tr class="separator:ade6a94c0d4f388a0394d648ed7663a29"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a064cb5a850ff499a14bcf97b361ce6af"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../d2/d6c/a08322.html">EquipmentInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a064cb5a850ff499a14bcf97b361ce6af">EquipmentInfoContainerInternal</a></td></tr>
-<tr class="separator:a064cb5a850ff499a14bcf97b361ce6af"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a800848b17f866c05085ee8a59f42c6ac"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dc/d6d/a04802.html#a064cb5a850ff499a14bcf97b361ce6af">EquipmentInfoContainerInternal</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a800848b17f866c05085ee8a59f42c6ac">EquipmentInfoContainer</a></td></tr>
-<tr class="separator:a800848b17f866c05085ee8a59f42c6ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4771c8f830e8368feef2f3539fb82673"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d5/d0f/a00494.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, <a class="el" href="../../db/d14/a08330.html">CreatureModelInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a4771c8f830e8368feef2f3539fb82673">CreatureModelContainer</a></td></tr>
-<tr class="separator:a4771c8f830e8368feef2f3539fb82673"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac7a71ba63817249171653509906de7c8"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dd/ddf/a08334.html">CreatureAddon</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#ac7a71ba63817249171653509906de7c8">CreatureAddonContainer</a></td></tr>
-<tr class="separator:ac7a71ba63817249171653509906de7c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ade72c22c956598b6544cf254bdf9e975"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../de/d8f/a08338.html">VendorItem</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#ade72c22c956598b6544cf254bdf9e975">VendorItemList</a></td></tr>
-<tr class="separator:ade72c22c956598b6544cf254bdf9e975"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a545edaa9fa6e5172e0acaa6f686d8a6c"><td class="memItemLeft" align="right" valign="top">typedef std::list&lt; <a class="el" href="../../de/db4/a08346.html">VendorItemCount</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a545edaa9fa6e5172e0acaa6f686d8a6c">VendorItemCounts</a></td></tr>
-<tr class="separator:a545edaa9fa6e5172e0acaa6f686d8a6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a98f7cc9dceeeb6a0d1741093667db03c"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d5/d43/a08350.html">CreatureSpellCooldown</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a98f7cc9dceeeb6a0d1741093667db03c">CreatureSpellCooldowns</a></td></tr>
-<tr class="separator:a98f7cc9dceeeb6a0d1741093667db03c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a0ce2c6787ec2444d3b23ca43b0c5a6ae"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6ae">CreatureFlagsExtra</a> : uint32 { <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea5eb667efacd8e34e2b0c1e228703d56a">CREATURE_FLAG_EXTRA_INSTANCE_BIND</a> = 0x00000001
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeacee44eaa784b79fab1d8928d2a44ef8c">CREATURE_FLAG_EXTRA_CIVILIAN</a> = 0x00000002
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea82d02e843cfe5d025dbcd8f08ad26016">CREATURE_FLAG_EXTRA_NO_PARRY</a> = 0x00000004
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea485bf10da98d6743727c85bca2962c8a">CREATURE_FLAG_EXTRA_NO_PARRY_HASTEN</a> = 0x00000008
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea027980ae6aedbd2649f2d23b391d0018">CREATURE_FLAG_EXTRA_NO_BLOCK</a> = 0x00000010
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea0b9eaa7da44acf16db98c69a4490ee0f">CREATURE_FLAG_EXTRA_NO_CRUSHING_BLOWS</a> = 0x00000020
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea49014cb31a44f91960148878d5402936">CREATURE_FLAG_EXTRA_NO_XP</a> = 0x00000040
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea33ddfbc771eb0cf946bde28b049bcf92">CREATURE_FLAG_EXTRA_TRIGGER</a> = 0x00000080
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea8e2e57b4b720b5d232da77efa493d9e0">CREATURE_FLAG_EXTRA_NO_TAUNT</a> = 0x00000100
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea7594a0cdcfaf554a3ffaf219568d5f2a">CREATURE_FLAG_EXTRA_NO_MOVE_FLAGS_UPDATE</a> = 0x00000200
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea99456c4fd1265b9817a1d525074f369c">CREATURE_FLAG_EXTRA_GHOST_VISIBILITY</a> = 0x00000400
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac70f5bb20c581d60ed52be474d199f3e">CREATURE_FLAG_EXTRA_USE_OFFHAND_ATTACK</a> = 0x00000800
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeaa2eb07bfb0870b7d63f66785080d9878">CREATURE_FLAG_EXTRA_NO_SELL_VENDOR</a> = 0x00001000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea434b509b5c3a1a2245b0b917252afe9f">CREATURE_FLAG_EXTRA_CANNOT_ENTER_COMBAT</a> = 0x00002000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeaf088ab48174a093528b1decaf519634f">CREATURE_FLAG_EXTRA_WORLDEVENT</a> = 0x00004000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae0962d239a48b905431c02086ae9b0de">CREATURE_FLAG_EXTRA_GUARD</a> = 0x00008000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea86940606c0a6532a416f668c0a09ca65">CREATURE_FLAG_EXTRA_IGNORE_FEIGN_DEATH</a> = 0x00010000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea2c769928dc0a9de2eb3c160b14cc58fa">CREATURE_FLAG_EXTRA_NO_CRIT</a> = 0x00020000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac2ef76f3a9d7ec0bdc733ce9f2050527">CREATURE_FLAG_EXTRA_NO_SKILL_GAINS</a> = 0x00040000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea6a55dc1573efacf11b363b0f29efee62">CREATURE_FLAG_EXTRA_OBEYS_TAUNT_DIMINISHING_RETURNS</a> = 0x00080000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae5acf0dad379133a0f083e195992df6c">CREATURE_FLAG_EXTRA_ALL_DIMINISH</a> = 0x00100000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea8ff1b07b39d4513a802697b1e6796cd4">CREATURE_FLAG_EXTRA_NO_PLAYER_DAMAGE_REQ</a> = 0x00200000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac76a858f3209ba102bf261c9ffccbf99">CREATURE_FLAG_EXTRA_AVOID_AOE</a> = 0x00400000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeab9eec285fe44252e925f9ab1b0187e6c">CREATURE_FLAG_EXTRA_NO_DODGE</a> = 0x00800000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae00238b53e70a93ff8af09880d945639">CREATURE_FLAG_EXTRA_MODULE</a> = 0x01000000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea7f6a51e74361969dd3fdbf38993e590b">CREATURE_FLAG_EXTRA_DONT_CALL_ASSISTANCE</a> = 0x02000000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea33a5e887c2422c472aa4f80134bc56f4">CREATURE_FLAG_EXTRA_IGNORE_ALL_ASSISTANCE_CALLS</a> = 0x04000000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeafe175c08cff508f324fd4ee330437e87">CREATURE_FLAG_EXTRA_DONT_OVERRIDE_ENTRY_SAI</a> = 0x08000000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea30602d96feb595ff0b760c897005a799">CREATURE_FLAG_EXTRA_DUNGEON_BOSS</a> = 0x10000000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea432399b2532ba8bac59cf2d4a9896e31">CREATURE_FLAG_EXTRA_IGNORE_PATHFINDING</a> = 0x20000000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea7a34213bf9fc666bb573799a1750ba44">CREATURE_FLAG_EXTRA_IMMUNITY_KNOCKBACK</a> = 0x40000000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea5bab8409d8820db219156ff357dab245">CREATURE_FLAG_EXTRA_HARD_RESET</a> = 0x80000000
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea04400aa73c5d761f561895e223875fc5">CREATURE_FLAG_EXTRA_DB_ALLOWED</a> = (0xFFFFFFFF &amp; ~CREATURE_FLAG_EXTRA_DUNGEON_BOSS)
-<br />
- }</td></tr>
-<tr class="separator:a0ce2c6787ec2444d3b23ca43b0c5a6ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a41d8876d4a61c87754a0a48348de49bf"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bf">CreatureGroundMovementType</a> : uint8 { <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfa6adf97f83acf6453d4a6a4b1070f3754">None</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfac5301693c4e792bcd5a479ef38fb8f8d">Run</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfaeee0168be69b854c20621fc6f01cc3fc">Hover</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfa6a061313d22e51e0f25b7cd4dc065233">Max</a>
-<br />
- }</td></tr>
-<tr class="separator:a41d8876d4a61c87754a0a48348de49bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2d939485aee8367ac402f581fd13d705"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a2d939485aee8367ac402f581fd13d705">CreatureFlightMovementType</a> : uint8 { <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a2d939485aee8367ac402f581fd13d705a6adf97f83acf6453d4a6a4b1070f3754">None</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a2d939485aee8367ac402f581fd13d705a65fa4cecb88a83780edd35a065f79bc5">DisableGravity</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a2d939485aee8367ac402f581fd13d705a68d6a9750f0ac787a349f07ae2d86a69">CanFly</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a2d939485aee8367ac402f581fd13d705a6a061313d22e51e0f25b7cd4dc065233">Max</a>
-<br />
- }</td></tr>
-<tr class="separator:a2d939485aee8367ac402f581fd13d705"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3686a5cf358c5282e94cd850b1173bc9"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a3686a5cf358c5282e94cd850b1173bc9">CreatureChaseMovementType</a> : uint8 { <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a3686a5cf358c5282e94cd850b1173bc9ac5301693c4e792bcd5a479ef38fb8f8d">Run</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a3686a5cf358c5282e94cd850b1173bc9a69045874015beb7513aa025b16a386bb">CanWalk</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a3686a5cf358c5282e94cd850b1173bc9a1bc5e61a482c5dd7de8dfaaab7270c21">AlwaysWalk</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#a3686a5cf358c5282e94cd850b1173bc9a6a061313d22e51e0f25b7cd4dc065233">Max</a>
-<br />
- }</td></tr>
-<tr class="separator:a3686a5cf358c5282e94cd850b1173bc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac5419660ed841edccfaa5c7290083846"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#ac5419660ed841edccfaa5c7290083846">CreatureRandomMovementType</a> : uint8 { <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#ac5419660ed841edccfaa5c7290083846a7a16a854f32231a8df9326136b09ee62">Walk</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#ac5419660ed841edccfaa5c7290083846ad030426e7ebe1a50711689b8dd92cce3">CanRun</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#ac5419660ed841edccfaa5c7290083846a6eb62f1766deb6206aff4629e4059052">AlwaysRun</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#ac5419660ed841edccfaa5c7290083846a6a061313d22e51e0f25b7cd4dc065233">Max</a>
-<br />
- }</td></tr>
-<tr class="separator:ac5419660ed841edccfaa5c7290083846"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aec385f62258c23b8c755b8e78a0e1873"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873">InhabitTypeValues</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873a520d2ee7572e47cd40d4a81ec015a38b">INHABIT_GROUND</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873a3e409a2141cd78fb1bdd83d36c2388e7">INHABIT_WATER</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873a2e939d2dbf075bfb7c86e3e971beb228">INHABIT_AIR</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873acc3db535154ef13d1dad073fa6d5eea5">INHABIT_ROOT</a> = 8
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873ab9163dc24970d6c55bc79f344d177e15">INHABIT_ANYWHERE</a> = INHABIT_GROUND | INHABIT_WATER | INHABIT_AIR | INHABIT_ROOT
-<br />
- }</td></tr>
-<tr class="separator:aec385f62258c23b8c755b8e78a0e1873"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab474065b922c4091606228d4c785b15e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15e">ChatType</a> { <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15ea259d4bad6e08f092ee9af5a87de80961">CHAT_TYPE_SAY</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15eadc5980413f923977ff9f66e4966b005c">CHAT_TYPE_YELL</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15ea45c06648182a8ec2320d052aef7893b9">CHAT_TYPE_TEXT_EMOTE</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15ea983164442279412488cf59d326d2c81d">CHAT_TYPE_BOSS_EMOTE</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15eac9530b47feeb0908379b96ae42b417c7">CHAT_TYPE_WHISPER</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15ea42bf788b7a507b711a9fe07b4c24bcc7">CHAT_TYPE_BOSS_WHISPER</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15eac4409452bcef503c226a3480f043a82b">CHAT_TYPE_ZONE_YELL</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15eac3f09781bf0d52668b6d44455efc3e55">CHAT_TYPE_END</a> = 255
-<br />
- }</td></tr>
-<tr class="separator:ab474065b922c4091606228d4c785b15e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a8602a67daa881e92c3eb9204c88b7733"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../da/d6e/a05773.html">SFMTRand</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a8602a67daa881e92c3eb9204c88b7733">GetRng</a> ()</td></tr>
+<tr class="separator:a8602a67daa881e92c3eb9204c88b7733"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ae07d2bb0593d8339e65c136f63ecc0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a6ae07d2bb0593d8339e65c136f63ecc0">irand</a> (<a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> min, <a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> max)</td></tr>
+<tr class="separator:a6ae07d2bb0593d8339e65c136f63ecc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab17def34ccbbd868dc87a16bf35acdbd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> min, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> max)</td></tr>
+<tr class="separator:ab17def34ccbbd868dc87a16bf35acdbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af901d57f29ff48f701a375e44a0f1261"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#af901d57f29ff48f701a375e44a0f1261">urandms</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> min, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> max)</td></tr>
+<tr class="separator:af901d57f29ff48f701a375e44a0f1261"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19bd31014583536af788a65b398e4406"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a19bd31014583536af788a65b398e4406">frand</a> (float min, float max)</td></tr>
+<tr class="separator:a19bd31014583536af788a65b398e4406"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ecda65ea9686c86f47934d04d38ec69"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d4b/a04700.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a9ecda65ea9686c86f47934d04d38ec69">randtime</a> (<a class="el" href="../../d8/d4b/a04700.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> min, <a class="el" href="../../d8/d4b/a04700.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> max)</td></tr>
+<tr class="separator:a9ecda65ea9686c86f47934d04d38ec69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c8533961af63b720553e868fdaabd85"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d4b/a04700.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a7c8533961af63b720553e868fdaabd85">randtime</a> (<a class="el" href="../../d8/d4b/a04700.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> min, <a class="el" href="../../d8/d4b/a04700.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> max)</td></tr>
+<tr class="separator:a7c8533961af63b720553e868fdaabd85"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac699324b85bb2266ea8978796967c541"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#ac699324b85bb2266ea8978796967c541">rand32</a> ()</td></tr>
+<tr class="separator:ac699324b85bb2266ea8978796967c541"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2f9363ceebb6f78067b4a146d1de9df"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#af2f9363ceebb6f78067b4a146d1de9df">rand_norm</a> ()</td></tr>
+<tr class="separator:af2f9363ceebb6f78067b4a146d1de9df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a66621d09a8cc2aa9476391004fe2c427"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a66621d09a8cc2aa9476391004fe2c427">rand_chance</a> ()</td></tr>
+<tr class="separator:a66621d09a8cc2aa9476391004fe2c427"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f7e714c8fc3a6f6ccbe91d524a84f23"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a3f7e714c8fc3a6f6ccbe91d524a84f23">urandweighted</a> (std::size_t count, double const *chances)</td></tr>
+<tr class="separator:a3f7e714c8fc3a6f6ccbe91d524a84f23"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a8d66cb2ffced78d42fdd3dbc45e27cee"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/df5/a00386.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a8d66cb2ffced78d42fdd3dbc45e27cee">PET_FOCUS_REGEN_INTERVAL</a> = 4s</td></tr>
-<tr class="separator:a8d66cb2ffced78d42fdd3dbc45e27cee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a131ba7587aa544a7e73ff9884d6bc784"><td class="memItemLeft" align="right" valign="top">static thread_local std::unique_ptr&lt; <a class="el" href="../../da/d6e/a05773.html">SFMTRand</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a131ba7587aa544a7e73ff9884d6bc784">sfmtRand</a></td></tr>
+<tr class="separator:a131ba7587aa544a7e73ff9884d6bc784"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ab11e2fa939d9f333dfa1a858e7690b"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../dc/dd8/a05769.html">RandomEngine</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6d/a04802.html#a8ab11e2fa939d9f333dfa1a858e7690b">engine</a></td></tr>
+<tr class="separator:a8ab11e2fa939d9f333dfa1a858e7690b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a6afabaf7b3d8095557d5fdef43a7ee32" name="a6afabaf7b3d8095557d5fdef43a7ee32"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6afabaf7b3d8095557d5fdef43a7ee32">&#9670;&#160;</a></span>CREATURE_REGEN_INTERVAL</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a19bd31014583536af788a65b398e4406" name="a19bd31014583536af788a65b398e4406"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a19bd31014583536af788a65b398e4406">&#9670;&#160;</a></span>frand()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define CREATURE_REGEN_INTERVAL&#160;&#160;&#160;2 * <a class="el" href="../../d1/d5d/a00311.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></td>
+          <td class="memname">float frand </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>min</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a8e7138fa4d60c160a41804cb93cd171b" name="a8e7138fa4d60c160a41804cb93cd171b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8e7138fa4d60c160a41804cb93cd171b">&#9670;&#160;</a></span>MAX_AGGRO_RESET_TIME</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">#define MAX_AGGRO_RESET_TIME&#160;&#160;&#160;10</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>max</em>&#160;</td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a946f1a01c64642a53fd348756fa74589" name="a946f1a01c64642a53fd348756fa74589"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a946f1a01c64642a53fd348756fa74589">&#9670;&#160;</a></span>MAX_CREATURE_QUEST_ITEMS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">#define MAX_CREATURE_QUEST_ITEMS&#160;&#160;&#160;6</td>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<a id="ada6042a73a1120d894eaf5d81ef7aa1a" name="ada6042a73a1120d894eaf5d81ef7aa1a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ada6042a73a1120d894eaf5d81ef7aa1a">&#9670;&#160;</a></span>MAX_EQUIPMENT_ITEMS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_EQUIPMENT_ITEMS&#160;&#160;&#160;3</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a3f331d9e202385f679104cc20ef74c3d" name="a3f331d9e202385f679104cc20ef74c3d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3f331d9e202385f679104cc20ef74c3d">&#9670;&#160;</a></span>MAX_KILL_CREDIT</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_KILL_CREDIT&#160;&#160;&#160;2</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="ac7a71ba63817249171653509906de7c8" name="ac7a71ba63817249171653509906de7c8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac7a71ba63817249171653509906de7c8">&#9670;&#160;</a></span>CreatureAddonContainer</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dd/ddf/a08334.html">CreatureAddon</a>&gt; <a class="el" href="../../dc/d6d/a04802.html#ac7a71ba63817249171653509906de7c8">CreatureAddonContainer</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ade6a94c0d4f388a0394d648ed7663a29" name="ade6a94c0d4f388a0394d648ed7663a29"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ade6a94c0d4f388a0394d648ed7663a29">&#9670;&#160;</a></span>CreatureBaseStatsContainer</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d5/d0f/a00494.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, <a class="el" href="../../d3/d02/a08306.html">CreatureBaseStats</a>&gt; <a class="el" href="../../dc/d6d/a04802.html#ade6a94c0d4f388a0394d648ed7663a29">CreatureBaseStatsContainer</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a4771c8f830e8368feef2f3539fb82673" name="a4771c8f830e8368feef2f3539fb82673"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4771c8f830e8368feef2f3539fb82673">&#9670;&#160;</a></span>CreatureModelContainer</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d5/d0f/a00494.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, <a class="el" href="../../db/d14/a08330.html">CreatureModelInfo</a>&gt; <a class="el" href="../../dc/d6d/a04802.html#a4771c8f830e8368feef2f3539fb82673">CreatureModelContainer</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a40f2d292ed9f49ffa155dff632dc15c5" name="a40f2d292ed9f49ffa155dff632dc15c5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a40f2d292ed9f49ffa155dff632dc15c5">&#9670;&#160;</a></span>CreatureQuestItemList</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::vector&lt;<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; <a class="el" href="../../dc/d6d/a04802.html#a40f2d292ed9f49ffa155dff632dc15c5">CreatureQuestItemList</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab73ac085ce9072e26a505e0098969d7f" name="ab73ac085ce9072e26a505e0098969d7f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab73ac085ce9072e26a505e0098969d7f">&#9670;&#160;</a></span>CreatureQuestItemMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dc/d6d/a04802.html#a40f2d292ed9f49ffa155dff632dc15c5">CreatureQuestItemList</a>&gt; <a class="el" href="../../dc/d6d/a04802.html#ab73ac085ce9072e26a505e0098969d7f">CreatureQuestItemMap</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a98f7cc9dceeeb6a0d1741093667db03c" name="a98f7cc9dceeeb6a0d1741093667db03c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98f7cc9dceeeb6a0d1741093667db03c">&#9670;&#160;</a></span>CreatureSpellCooldowns</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d5/d43/a08350.html">CreatureSpellCooldown</a>&gt; <a class="el" href="../../dc/d6d/a04802.html#a98f7cc9dceeeb6a0d1741093667db03c">CreatureSpellCooldowns</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab12170e3eeaeb988a07355262ca85757" name="ab12170e3eeaeb988a07355262ca85757"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab12170e3eeaeb988a07355262ca85757">&#9670;&#160;</a></span>CreatureTemplateContainer</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/d2d/a08302.html">CreatureTemplate</a>&gt; <a class="el" href="../../dc/d6d/a04802.html#ab12170e3eeaeb988a07355262ca85757">CreatureTemplateContainer</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a800848b17f866c05085ee8a59f42c6ac" name="a800848b17f866c05085ee8a59f42c6ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a800848b17f866c05085ee8a59f42c6ac">&#9670;&#160;</a></span>EquipmentInfoContainer</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dc/d6d/a04802.html#a064cb5a850ff499a14bcf97b361ce6af">EquipmentInfoContainerInternal</a>&gt; <a class="el" href="../../dc/d6d/a04802.html#a800848b17f866c05085ee8a59f42c6ac">EquipmentInfoContainer</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a064cb5a850ff499a14bcf97b361ce6af" name="a064cb5a850ff499a14bcf97b361ce6af"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a064cb5a850ff499a14bcf97b361ce6af">&#9670;&#160;</a></span>EquipmentInfoContainerInternal</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../d2/d6c/a08322.html">EquipmentInfo</a>&gt; <a class="el" href="../../dc/d6d/a04802.html#a064cb5a850ff499a14bcf97b361ce6af">EquipmentInfoContainerInternal</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a545edaa9fa6e5172e0acaa6f686d8a6c" name="a545edaa9fa6e5172e0acaa6f686d8a6c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a545edaa9fa6e5172e0acaa6f686d8a6c">&#9670;&#160;</a></span>VendorItemCounts</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::list&lt;<a class="el" href="../../de/db4/a08346.html">VendorItemCount</a>&gt; <a class="el" href="../../dc/d6d/a04802.html#a545edaa9fa6e5172e0acaa6f686d8a6c">VendorItemCounts</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ade72c22c956598b6544cf254bdf9e975" name="ade72c22c956598b6544cf254bdf9e975"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ade72c22c956598b6544cf254bdf9e975">&#9670;&#160;</a></span>VendorItemList</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::vector&lt;<a class="el" href="../../de/d8f/a08338.html">VendorItem</a>*&gt; <a class="el" href="../../dc/d6d/a04802.html#ade72c22c956598b6544cf254bdf9e975">VendorItemList</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="ab474065b922c4091606228d4c785b15e" name="ab474065b922c4091606228d4c785b15e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab474065b922c4091606228d4c785b15e">&#9670;&#160;</a></span>ChatType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15e">ChatType</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab474065b922c4091606228d4c785b15ea259d4bad6e08f092ee9af5a87de80961" name="ab474065b922c4091606228d4c785b15ea259d4bad6e08f092ee9af5a87de80961"></a>CHAT_TYPE_SAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab474065b922c4091606228d4c785b15eadc5980413f923977ff9f66e4966b005c" name="ab474065b922c4091606228d4c785b15eadc5980413f923977ff9f66e4966b005c"></a>CHAT_TYPE_YELL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab474065b922c4091606228d4c785b15ea45c06648182a8ec2320d052aef7893b9" name="ab474065b922c4091606228d4c785b15ea45c06648182a8ec2320d052aef7893b9"></a>CHAT_TYPE_TEXT_EMOTE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab474065b922c4091606228d4c785b15ea983164442279412488cf59d326d2c81d" name="ab474065b922c4091606228d4c785b15ea983164442279412488cf59d326d2c81d"></a>CHAT_TYPE_BOSS_EMOTE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab474065b922c4091606228d4c785b15eac9530b47feeb0908379b96ae42b417c7" name="ab474065b922c4091606228d4c785b15eac9530b47feeb0908379b96ae42b417c7"></a>CHAT_TYPE_WHISPER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab474065b922c4091606228d4c785b15ea42bf788b7a507b711a9fe07b4c24bcc7" name="ab474065b922c4091606228d4c785b15ea42bf788b7a507b711a9fe07b4c24bcc7"></a>CHAT_TYPE_BOSS_WHISPER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab474065b922c4091606228d4c785b15eac4409452bcef503c226a3480f043a82b" name="ab474065b922c4091606228d4c785b15eac4409452bcef503c226a3480f043a82b"></a>CHAT_TYPE_ZONE_YELL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab474065b922c4091606228d4c785b15eac3f09781bf0d52668b6d44455efc3e55" name="ab474065b922c4091606228d4c785b15eac3f09781bf0d52668b6d44455efc3e55"></a>CHAT_TYPE_END&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  411</span>{</div>
-<div class="line"><span class="lineno">  412</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15ea259d4bad6e08f092ee9af5a87de80961">CHAT_TYPE_SAY</a>               = 0,</div>
-<div class="line"><span class="lineno">  413</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15eadc5980413f923977ff9f66e4966b005c">CHAT_TYPE_YELL</a>              = 1,</div>
-<div class="line"><span class="lineno">  414</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15ea45c06648182a8ec2320d052aef7893b9">CHAT_TYPE_TEXT_EMOTE</a>        = 2,</div>
-<div class="line"><span class="lineno">  415</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15ea983164442279412488cf59d326d2c81d">CHAT_TYPE_BOSS_EMOTE</a>        = 3,</div>
-<div class="line"><span class="lineno">  416</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15eac9530b47feeb0908379b96ae42b417c7">CHAT_TYPE_WHISPER</a>           = 4,</div>
-<div class="line"><span class="lineno">  417</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15ea42bf788b7a507b711a9fe07b4c24bcc7">CHAT_TYPE_BOSS_WHISPER</a>      = 5,</div>
-<div class="line"><span class="lineno">  418</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15eac4409452bcef503c226a3480f043a82b">CHAT_TYPE_ZONE_YELL</a>         = 6,</div>
-<div class="line"><span class="lineno">  419</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15eac3f09781bf0d52668b6d44455efc3e55">CHAT_TYPE_END</a>               = 255</div>
-<div class="line"><span class="lineno">  420</span>};</div>
-<div class="ttc" id="aa04802_html_ab474065b922c4091606228d4c785b15ea259d4bad6e08f092ee9af5a87de80961"><div class="ttname"><a href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15ea259d4bad6e08f092ee9af5a87de80961">CHAT_TYPE_SAY</a></div><div class="ttdeci">@ CHAT_TYPE_SAY</div><div class="ttdef"><b>Definition:</b> CreatureData.h:412</div></div>
-<div class="ttc" id="aa04802_html_ab474065b922c4091606228d4c785b15ea42bf788b7a507b711a9fe07b4c24bcc7"><div class="ttname"><a href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15ea42bf788b7a507b711a9fe07b4c24bcc7">CHAT_TYPE_BOSS_WHISPER</a></div><div class="ttdeci">@ CHAT_TYPE_BOSS_WHISPER</div><div class="ttdef"><b>Definition:</b> CreatureData.h:417</div></div>
-<div class="ttc" id="aa04802_html_ab474065b922c4091606228d4c785b15ea45c06648182a8ec2320d052aef7893b9"><div class="ttname"><a href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15ea45c06648182a8ec2320d052aef7893b9">CHAT_TYPE_TEXT_EMOTE</a></div><div class="ttdeci">@ CHAT_TYPE_TEXT_EMOTE</div><div class="ttdef"><b>Definition:</b> CreatureData.h:414</div></div>
-<div class="ttc" id="aa04802_html_ab474065b922c4091606228d4c785b15ea983164442279412488cf59d326d2c81d"><div class="ttname"><a href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15ea983164442279412488cf59d326d2c81d">CHAT_TYPE_BOSS_EMOTE</a></div><div class="ttdeci">@ CHAT_TYPE_BOSS_EMOTE</div><div class="ttdef"><b>Definition:</b> CreatureData.h:415</div></div>
-<div class="ttc" id="aa04802_html_ab474065b922c4091606228d4c785b15eac3f09781bf0d52668b6d44455efc3e55"><div class="ttname"><a href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15eac3f09781bf0d52668b6d44455efc3e55">CHAT_TYPE_END</a></div><div class="ttdeci">@ CHAT_TYPE_END</div><div class="ttdef"><b>Definition:</b> CreatureData.h:419</div></div>
-<div class="ttc" id="aa04802_html_ab474065b922c4091606228d4c785b15eac4409452bcef503c226a3480f043a82b"><div class="ttname"><a href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15eac4409452bcef503c226a3480f043a82b">CHAT_TYPE_ZONE_YELL</a></div><div class="ttdeci">@ CHAT_TYPE_ZONE_YELL</div><div class="ttdef"><b>Definition:</b> CreatureData.h:418</div></div>
-<div class="ttc" id="aa04802_html_ab474065b922c4091606228d4c785b15eac9530b47feeb0908379b96ae42b417c7"><div class="ttname"><a href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15eac9530b47feeb0908379b96ae42b417c7">CHAT_TYPE_WHISPER</a></div><div class="ttdeci">@ CHAT_TYPE_WHISPER</div><div class="ttdef"><b>Definition:</b> CreatureData.h:416</div></div>
-<div class="ttc" id="aa04802_html_ab474065b922c4091606228d4c785b15eadc5980413f923977ff9f66e4966b005c"><div class="ttname"><a href="../../dc/d6d/a04802.html#ab474065b922c4091606228d4c785b15eadc5980413f923977ff9f66e4966b005c">CHAT_TYPE_YELL</a></div><div class="ttdeci">@ CHAT_TYPE_YELL</div><div class="ttdef"><b>Definition:</b> CreatureData.h:413</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_define" href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(max &gt;= min);</div>
+<div class="line"><span class="lineno">   60</span>    std::uniform_real_distribution&lt;float&gt; urd(min, max);</div>
+<div class="line"><span class="lineno">   61</span>    <span class="keywordflow">return</span> urd(<a class="code hl_variable" href="../../dc/d6d/a04802.html#a8ab11e2fa939d9f333dfa1a858e7690b">engine</a>);</div>
+<div class="line"><span class="lineno">   62</span>}</div>
+<div class="ttc" id="aa04586_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa04802_html_a8ab11e2fa939d9f333dfa1a858e7690b"><div class="ttname"><a href="../../dc/d6d/a04802.html#a8ab11e2fa939d9f333dfa1a858e7690b">engine</a></div><div class="ttdeci">static RandomEngine engine</div><div class="ttdef"><b>Definition:</b> Random.cpp:25</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00025">engine</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00959">npc_pos_martin_or_gorkun_second::npc_pos_martin_or_gorkun_secondAI::DoAction()</a>, <a class="el" href="../../#l00297">npc_time_rift::DoSummonAtRift()</a>, <a class="el" href="../../#l02853">Unit::GetMeleeAttackPoint()</a>, <a class="el" href="../../#l00174">FleeingMovementGenerator&lt; T &gt;::GetPoint()</a>, <a class="el" href="../../#l02424">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::GoSiphon()</a>, <a class="el" href="../../#l00253">go_tadpole_cage::go_tadpole_cageAI::GossipHello()</a>, <a class="el" href="../../#l03676">spell_item_unusual_compass::HandleDummy()</a>, <a class="el" href="../../#l00452">spell_entropius_black_hole_effect::HandlePull()</a>, <a class="el" href="../../#l00275">spell_boss_magus_telestra_gravity_well::HandlePull()</a>, <a class="el" href="../../#l00141">npc_eris_hevenfire::npc_eris_hevenfireAI::JustSummoned()</a>, <a class="el" href="../../#l01078">spell_gen_random_target32::ModDest()</a>, <a class="el" href="../../#l02216">spell_q12308_escape_from_silverbrook_summon_worgen::ModDest()</a>, <a class="el" href="../../#l00704">spell_random_lightning_visual_effect::ModDestHeight()</a>, <a class="el" href="../../#l01607">npc_gunship_boarding_addAI::MovementInform()</a>, <a class="el" href="../../#l00164">SmartScript::ProcessAction()</a>, <a class="el" href="../../#l00800">npc_lake_frog::npc_lake_frogAI::ReceiveEmote()</a>, <a class="el" href="../../#l02245">npc_firework::npc_fireworkAI::Reset()</a>, <a class="el" href="../../#l00475">PassengerController::SelectSpawnPoint()</a>, <a class="el" href="../../#l00209">spell_q10898_skywing::SetDest()</a>, <a class="el" href="../../#l03372">npc_icc_gauntlet_controller::npc_icc_gauntlet_controllerAI::SummonBroodling()</a>, <a class="el" href="../../#l00129">npc_eris_hevenfire::npc_eris_hevenfireAI::SummonPeasants()</a>, <a class="el" href="../../#l00979">spell_midsummer_fling_torch::ThrowNextTorch()</a>, <a class="el" href="../../#l00192">instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00216">npc_scarlet_ghoul::npc_scarlet_ghoulAI::UpdateAI()</a>, <a class="el" href="../../#l00172">boss_arlokk::boss_arlokkAI::UpdateAI()</a>, <a class="el" href="../../#l00073">npc_pos_leader::npc_pos_leaderAI::UpdateAI()</a>, <a class="el" href="../../#l01012">npc_pos_martin_or_gorkun_second::npc_pos_martin_or_gorkun_secondAI::UpdateAI()</a>, and <a class="el" href="../../#l00812">npc_tirions_gambit_tirion::npc_tirions_gambit_tirionAI::UpdateEscortAI()</a>.</p>
+
 </div>
 </div>
-<a id="a3686a5cf358c5282e94cd850b1173bc9" name="a3686a5cf358c5282e94cd850b1173bc9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3686a5cf358c5282e94cd850b1173bc9">&#9670;&#160;</a></span>CreatureChaseMovementType</h2>
+<a id="a8602a67daa881e92c3eb9204c88b7733" name="a8602a67daa881e92c3eb9204c88b7733"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8602a67daa881e92c3eb9204c88b7733">&#9670;&#160;</a></span>GetRng()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -626,303 +200,337 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum class <a class="el" href="../../dc/d6d/a04802.html#a3686a5cf358c5282e94cd850b1173bc9">CreatureChaseMovementType</a> : <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+          <td class="memname">static <a class="el" href="../../da/d6e/a05773.html">SFMTRand</a> * GetRng </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3686a5cf358c5282e94cd850b1173bc9ac5301693c4e792bcd5a479ef38fb8f8d" name="a3686a5cf358c5282e94cd850b1173bc9ac5301693c4e792bcd5a479ef38fb8f8d"></a>Run&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3686a5cf358c5282e94cd850b1173bc9a69045874015beb7513aa025b16a386bb" name="a3686a5cf358c5282e94cd850b1173bc9a69045874015beb7513aa025b16a386bb"></a>CanWalk&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3686a5cf358c5282e94cd850b1173bc9a1bc5e61a482c5dd7de8dfaaab7270c21" name="a3686a5cf358c5282e94cd850b1173bc9a1bc5e61a482c5dd7de8dfaaab7270c21"></a>AlwaysWalk&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3686a5cf358c5282e94cd850b1173bc9a6a061313d22e51e0f25b7cd4dc065233" name="a3686a5cf358c5282e94cd850b1173bc9a6a061313d22e51e0f25b7cd4dc065233"></a>Max&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  102</span>{</div>
-<div class="line"><span class="lineno">  103</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfac5301693c4e792bcd5a479ef38fb8f8d">Run</a>         = 0,</div>
-<div class="line"><span class="lineno">  104</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a3686a5cf358c5282e94cd850b1173bc9a69045874015beb7513aa025b16a386bb">CanWalk</a>     = 1,</div>
-<div class="line"><span class="lineno">  105</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a3686a5cf358c5282e94cd850b1173bc9a1bc5e61a482c5dd7de8dfaaab7270c21">AlwaysWalk</a>  = 2,</div>
-<div class="line"><span class="lineno">  106</span> </div>
-<div class="line"><span class="lineno">  107</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfa6a061313d22e51e0f25b7cd4dc065233">Max</a></div>
-<div class="line"><span class="lineno">  108</span>};</div>
-<div class="ttc" id="aa04802_html_a3686a5cf358c5282e94cd850b1173bc9a1bc5e61a482c5dd7de8dfaaab7270c21"><div class="ttname"><a href="../../dc/d6d/a04802.html#a3686a5cf358c5282e94cd850b1173bc9a1bc5e61a482c5dd7de8dfaaab7270c21">CreatureChaseMovementType::AlwaysWalk</a></div><div class="ttdeci">@ AlwaysWalk</div></div>
-<div class="ttc" id="aa04802_html_a3686a5cf358c5282e94cd850b1173bc9a69045874015beb7513aa025b16a386bb"><div class="ttname"><a href="../../dc/d6d/a04802.html#a3686a5cf358c5282e94cd850b1173bc9a69045874015beb7513aa025b16a386bb">CreatureChaseMovementType::CanWalk</a></div><div class="ttdeci">@ CanWalk</div></div>
-<div class="ttc" id="aa04802_html_a41d8876d4a61c87754a0a48348de49bfa6a061313d22e51e0f25b7cd4dc065233"><div class="ttname"><a href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfa6a061313d22e51e0f25b7cd4dc065233">CreatureGroundMovementType::Max</a></div><div class="ttdeci">@ Max</div></div>
-<div class="ttc" id="aa04802_html_a41d8876d4a61c87754a0a48348de49bfac5301693c4e792bcd5a479ef38fb8f8d"><div class="ttname"><a href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfac5301693c4e792bcd5a479ef38fb8f8d">CreatureGroundMovementType::Run</a></div><div class="ttdeci">@ Run</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
+<div class="line"><span class="lineno">   29</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/d6d/a04802.html#a131ba7587aa544a7e73ff9884d6bc784">sfmtRand</a>)</div>
+<div class="line"><span class="lineno">   30</span>    {</div>
+<div class="line"><span class="lineno">   31</span>        <a class="code hl_variable" href="../../dc/d6d/a04802.html#a131ba7587aa544a7e73ff9884d6bc784">sfmtRand</a> = std::make_unique&lt;SFMTRand&gt;();</div>
+<div class="line"><span class="lineno">   32</span>    }</div>
+<div class="line"><span class="lineno">   33</span> </div>
+<div class="line"><span class="lineno">   34</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d6d/a04802.html#a131ba7587aa544a7e73ff9884d6bc784">sfmtRand</a>.get();</div>
+<div class="line"><span class="lineno">   35</span>}</div>
+<div class="ttc" id="aa04802_html_a131ba7587aa544a7e73ff9884d6bc784"><div class="ttname"><a href="../../dc/d6d/a04802.html#a131ba7587aa544a7e73ff9884d6bc784">sfmtRand</a></div><div class="ttdeci">static thread_local std::unique_ptr&lt; SFMTRand &gt; sfmtRand</div><div class="ttdef"><b>Definition:</b> Random.cpp:24</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00024">sfmtRand</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00080">rand32()</a>.</p>
+
 </div>
 </div>
-<a id="a0ce2c6787ec2444d3b23ca43b0c5a6ae" name="a0ce2c6787ec2444d3b23ca43b0c5a6ae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ce2c6787ec2444d3b23ca43b0c5a6ae">&#9670;&#160;</a></span>CreatureFlagsExtra</h2>
+<a id="a6ae07d2bb0593d8339e65c136f63ecc0" name="a6ae07d2bb0593d8339e65c136f63ecc0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ae07d2bb0593d8339e65c136f63ecc0">&#9670;&#160;</a></span>irand()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6ae">CreatureFlagsExtra</a> : <a class="el" href="../../d5/d0f/a00494.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> irand </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>min</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>max</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../d7/d3c/a05003.html#_todo000034">Todo:</a></b></dt><dd>: Implement missing flags from TC in places that custom flags from xinef&amp;pussywizzard use flag values. </dd></dl>
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea5eb667efacd8e34e2b0c1e228703d56a" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea5eb667efacd8e34e2b0c1e228703d56a"></a>CREATURE_FLAG_EXTRA_INSTANCE_BIND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aeacee44eaa784b79fab1d8928d2a44ef8c" name="a0ce2c6787ec2444d3b23ca43b0c5a6aeacee44eaa784b79fab1d8928d2a44ef8c"></a>CREATURE_FLAG_EXTRA_CIVILIAN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea82d02e843cfe5d025dbcd8f08ad26016" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea82d02e843cfe5d025dbcd8f08ad26016"></a>CREATURE_FLAG_EXTRA_NO_PARRY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea485bf10da98d6743727c85bca2962c8a" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea485bf10da98d6743727c85bca2962c8a"></a>CREATURE_FLAG_EXTRA_NO_PARRY_HASTEN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea027980ae6aedbd2649f2d23b391d0018" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea027980ae6aedbd2649f2d23b391d0018"></a>CREATURE_FLAG_EXTRA_NO_BLOCK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea0b9eaa7da44acf16db98c69a4490ee0f" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea0b9eaa7da44acf16db98c69a4490ee0f"></a>CREATURE_FLAG_EXTRA_NO_CRUSHING_BLOWS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea49014cb31a44f91960148878d5402936" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea49014cb31a44f91960148878d5402936"></a>CREATURE_FLAG_EXTRA_NO_XP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea33ddfbc771eb0cf946bde28b049bcf92" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea33ddfbc771eb0cf946bde28b049bcf92"></a>CREATURE_FLAG_EXTRA_TRIGGER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea8e2e57b4b720b5d232da77efa493d9e0" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea8e2e57b4b720b5d232da77efa493d9e0"></a>CREATURE_FLAG_EXTRA_NO_TAUNT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea7594a0cdcfaf554a3ffaf219568d5f2a" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea7594a0cdcfaf554a3ffaf219568d5f2a"></a>CREATURE_FLAG_EXTRA_NO_MOVE_FLAGS_UPDATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea99456c4fd1265b9817a1d525074f369c" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea99456c4fd1265b9817a1d525074f369c"></a>CREATURE_FLAG_EXTRA_GHOST_VISIBILITY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aeac70f5bb20c581d60ed52be474d199f3e" name="a0ce2c6787ec2444d3b23ca43b0c5a6aeac70f5bb20c581d60ed52be474d199f3e"></a>CREATURE_FLAG_EXTRA_USE_OFFHAND_ATTACK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aeaa2eb07bfb0870b7d63f66785080d9878" name="a0ce2c6787ec2444d3b23ca43b0c5a6aeaa2eb07bfb0870b7d63f66785080d9878"></a>CREATURE_FLAG_EXTRA_NO_SELL_VENDOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea434b509b5c3a1a2245b0b917252afe9f" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea434b509b5c3a1a2245b0b917252afe9f"></a>CREATURE_FLAG_EXTRA_CANNOT_ENTER_COMBAT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aeaf088ab48174a093528b1decaf519634f" name="a0ce2c6787ec2444d3b23ca43b0c5a6aeaf088ab48174a093528b1decaf519634f"></a>CREATURE_FLAG_EXTRA_WORLDEVENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aeae0962d239a48b905431c02086ae9b0de" name="a0ce2c6787ec2444d3b23ca43b0c5a6aeae0962d239a48b905431c02086ae9b0de"></a>CREATURE_FLAG_EXTRA_GUARD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea86940606c0a6532a416f668c0a09ca65" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea86940606c0a6532a416f668c0a09ca65"></a>CREATURE_FLAG_EXTRA_IGNORE_FEIGN_DEATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea2c769928dc0a9de2eb3c160b14cc58fa" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea2c769928dc0a9de2eb3c160b14cc58fa"></a>CREATURE_FLAG_EXTRA_NO_CRIT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aeac2ef76f3a9d7ec0bdc733ce9f2050527" name="a0ce2c6787ec2444d3b23ca43b0c5a6aeac2ef76f3a9d7ec0bdc733ce9f2050527"></a>CREATURE_FLAG_EXTRA_NO_SKILL_GAINS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea6a55dc1573efacf11b363b0f29efee62" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea6a55dc1573efacf11b363b0f29efee62"></a>CREATURE_FLAG_EXTRA_OBEYS_TAUNT_DIMINISHING_RETURNS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aeae5acf0dad379133a0f083e195992df6c" name="a0ce2c6787ec2444d3b23ca43b0c5a6aeae5acf0dad379133a0f083e195992df6c"></a>CREATURE_FLAG_EXTRA_ALL_DIMINISH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea8ff1b07b39d4513a802697b1e6796cd4" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea8ff1b07b39d4513a802697b1e6796cd4"></a>CREATURE_FLAG_EXTRA_NO_PLAYER_DAMAGE_REQ&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aeac76a858f3209ba102bf261c9ffccbf99" name="a0ce2c6787ec2444d3b23ca43b0c5a6aeac76a858f3209ba102bf261c9ffccbf99"></a>CREATURE_FLAG_EXTRA_AVOID_AOE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aeab9eec285fe44252e925f9ab1b0187e6c" name="a0ce2c6787ec2444d3b23ca43b0c5a6aeab9eec285fe44252e925f9ab1b0187e6c"></a>CREATURE_FLAG_EXTRA_NO_DODGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aeae00238b53e70a93ff8af09880d945639" name="a0ce2c6787ec2444d3b23ca43b0c5a6aeae00238b53e70a93ff8af09880d945639"></a>CREATURE_FLAG_EXTRA_MODULE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea7f6a51e74361969dd3fdbf38993e590b" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea7f6a51e74361969dd3fdbf38993e590b"></a>CREATURE_FLAG_EXTRA_DONT_CALL_ASSISTANCE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea33a5e887c2422c472aa4f80134bc56f4" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea33a5e887c2422c472aa4f80134bc56f4"></a>CREATURE_FLAG_EXTRA_IGNORE_ALL_ASSISTANCE_CALLS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aeafe175c08cff508f324fd4ee330437e87" name="a0ce2c6787ec2444d3b23ca43b0c5a6aeafe175c08cff508f324fd4ee330437e87"></a>CREATURE_FLAG_EXTRA_DONT_OVERRIDE_ENTRY_SAI&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea30602d96feb595ff0b760c897005a799" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea30602d96feb595ff0b760c897005a799"></a>CREATURE_FLAG_EXTRA_DUNGEON_BOSS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea432399b2532ba8bac59cf2d4a9896e31" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea432399b2532ba8bac59cf2d4a9896e31"></a>CREATURE_FLAG_EXTRA_IGNORE_PATHFINDING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea7a34213bf9fc666bb573799a1750ba44" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea7a34213bf9fc666bb573799a1750ba44"></a>CREATURE_FLAG_EXTRA_IMMUNITY_KNOCKBACK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea5bab8409d8820db219156ff357dab245" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea5bab8409d8820db219156ff357dab245"></a>CREATURE_FLAG_EXTRA_HARD_RESET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ce2c6787ec2444d3b23ca43b0c5a6aea04400aa73c5d761f561895e223875fc5" name="a0ce2c6787ec2444d3b23ca43b0c5a6aea04400aa73c5d761f561895e223875fc5"></a>CREATURE_FLAG_EXTRA_DB_ALLOWED&#160;</td><td class="fielddoc"></td></tr>
-</table>
+<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_define" href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(max &gt;= min);</div>
+<div class="line"><span class="lineno">   40</span>    std::uniform_int_distribution&lt;int32&gt; uid(min, max);</div>
+<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">return</span> uid(<a class="code hl_variable" href="../../dc/d6d/a04802.html#a8ab11e2fa939d9f333dfa1a858e7690b">engine</a>);</div>
+<div class="line"><span class="lineno">   42</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00025">engine</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00144">spell_shadowfang_keep_haunting_spirits_aura::CalcPeriodic()</a>, <a class="el" href="../../#l00409">SpellEffectInfo::CalcValue()</a>, <a class="el" href="../../#l05610">Spell::CheckCast()</a>, <a class="el" href="../../#l00323">Spell::EffectSchoolDMG()</a>, <a class="el" href="../../#l01180">Spell::EffectTeleportUnits()</a>, <a class="el" href="../../#l00084">GetItemEnchantMod()</a>, <a class="el" href="../../#l02769">spell_gen_gadgetzan_transporter_backfire::HandleDummy()</a>, <a class="el" href="../../#l01933">spell_item_flask_of_the_north::HandleDummy()</a>, <a class="el" href="../../#l00973">npc_echo_of_medivh::HandlePieceMoveByAI()</a>, <a class="el" href="../../#l00186">spell_winter_veil_racer_slam_hit::HandleScriptEffect()</a>, <a class="el" href="../../#l00466">spell_dk_bloodworms::HandleSummon()</a>, <a class="el" href="../../#l00531">boss_kologarn_arms::JustDied()</a>, <a class="el" href="../../#l03511">Unit::MagicSpellHitResult()</a>, <a class="el" href="../../#l01145">spell_gen_flurry_of_claws::OnPeriodic()</a>, <a class="el" href="../../#l00150">npc_doomfire_spirit::Reset()</a>, <a class="el" href="../../#l00063">roll_chance_i()</a>, <a class="el" href="../../#l00549">npc_minigob_manabonk::SendMailToPlayer()</a>, <a class="el" href="../../#l00286">boss_janalai::SpawnBombs()</a>, <a class="el" href="../../#l00452">npc_xt002_heart::SpellHitTarget()</a>, <a class="el" href="../../#l00044">boss_general_angerforge::SummonAdds()</a>, <a class="el" href="../../#l00200">boss_akilzon::SummonEagles()</a>, <a class="el" href="../../#l00050">boss_general_angerforge::SummonMedics()</a>, <a class="el" href="../../#l05265">Spell::TakePower()</a>, <a class="el" href="../../#l00274">npc_akilzon_eagle::UpdateAI()</a>, <a class="el" href="../../#l00072">npc_murkdeep::npc_murkdeepAI::UpdateAI()</a>, <a class="el" href="../../#l00532">npc_pos_after_first_boss::npc_pos_after_first_bossAI::UpdateAI()</a>, <a class="el" href="../../#l00134">boss_grobbulus::boss_grobbulusAI::UpdateAI()</a>, <a class="el" href="../../#l00814">boss_thorim_sif::UpdateAI()</a>, <a class="el" href="../../#l00300">violet_hold_trashAI::UpdateAI()</a>, <a class="el" href="../../#l00380">npc_llod_generic::npc_llod_genericAI::UpdateAI()</a>, <a class="el" href="../../#l00911">Player::UpdateSkillPro()</a>, and <a class="el" href="../../#l01460">GameObject::Use()</a>.</p>
+
+</div>
+</div>
+<a id="ac699324b85bb2266ea8978796967c541" name="ac699324b85bb2266ea8978796967c541"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac699324b85bb2266ea8978796967c541">&#9670;&#160;</a></span>rand32()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> rand32 </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
+<div class="line"><span class="lineno">   82</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d6d/a04802.html#a8602a67daa881e92c3eb9204c88b7733">GetRng</a>()-&gt;<a class="code hl_function" href="../../da/d6e/a05773.html#a8d129952ad2916419cdf54aa474c23c0">RandomUInt32</a>();</div>
+<div class="line"><span class="lineno">   83</span>}</div>
+<div class="ttc" id="aa04802_html_a8602a67daa881e92c3eb9204c88b7733"><div class="ttname"><a href="../../dc/d6d/a04802.html#a8602a67daa881e92c3eb9204c88b7733">GetRng</a></div><div class="ttdeci">static SFMTRand * GetRng()</div><div class="ttdef"><b>Definition:</b> Random.cpp:27</div></div>
+<div class="ttc" id="aa05773_html_a8d129952ad2916419cdf54aa474c23c0"><div class="ttname"><a href="../../da/d6e/a05773.html#a8d129952ad2916419cdf54aa474c23c0">SFMTRand::RandomUInt32</a></div><div class="ttdeci">uint32 RandomUInt32()</div><div class="ttdef"><b>Definition:</b> SFMTRand.cpp:76</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">GetRng()</a>, and <a class="el" href="../../#l00076">SFMTRand::RandomUInt32()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02474">npc_thrall_bfu::npc_thrall_bfuAI::ActivateValimathrasPortal()</a>, <a class="el" href="../../#l00557">boss_nefarian::KilledUnit()</a>, <a class="el" href="../../#l00135">boss_vaelastrasz::KilledUnit()</a>, <a class="el" href="../../#l00078">RandomEngine::operator()()</a>, <a class="el" href="../../#l01084">npc_varian_wrynn::npc_varian_wrynnAI::SpawnWave()</a>, and <a class="el" href="../../#l02483">npc_thrall_bfu::npc_thrall_bfuAI::SpawnWave()</a>.</p>
+
+</div>
+</div>
+<a id="a66621d09a8cc2aa9476391004fe2c427" name="a66621d09a8cc2aa9476391004fe2c427"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a66621d09a8cc2aa9476391004fe2c427">&#9670;&#160;</a></span>rand_chance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">double rand_chance </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
+<div class="line"><span class="lineno">   93</span>    std::uniform_real_distribution&lt;double&gt; urd(0.0, 100.0);</div>
+<div class="line"><span class="lineno">   94</span>    <span class="keywordflow">return</span> urd(<a class="code hl_variable" href="../../dc/d6d/a04802.html#a8ab11e2fa939d9f333dfa1a858e7690b">engine</a>);</div>
+<div class="line"><span class="lineno">   95</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00025">engine</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00158">GetExplicitDiscoverySpell()</a>, <a class="el" href="../../#l00084">GetItemEnchantMod()</a>, <a class="el" href="../../#l00280">WorldSession::HandleGMResponseResolve()</a>, <a class="el" href="../../#l01262">LootTemplate::LootGroup::Roll()</a>, <a class="el" href="../../#l00057">roll_chance_f()</a>, <a class="el" href="../../#l00306">PoolGroup&lt; T &gt;::SpawnObject()</a>, <a class="el" href="../../#l00301">boss_majordomo::UpdateAI()</a>, and <a class="el" href="../../#l00187">npc_pet_dk_ebon_gargoyle::UpdateAI()</a>.</p>
+
+</div>
+</div>
+<a id="af2f9363ceebb6f78067b4a146d1de9df" name="af2f9363ceebb6f78067b4a146d1de9df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af2f9363ceebb6f78067b4a146d1de9df">&#9670;&#160;</a></span>rand_norm()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">double rand_norm </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   86</span>{</div>
+<div class="line"><span class="lineno">   87</span>    std::uniform_real_distribution&lt;double&gt; urd;</div>
+<div class="line"><span class="lineno">   88</span>    <span class="keywordflow">return</span> urd(<a class="code hl_variable" href="../../dc/d6d/a04802.html#a8ab11e2fa939d9f333dfa1a858e7690b">engine</a>);</div>
+<div class="line"><span class="lineno">   89</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00025">engine</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l02345">Unit::CalcAbsorbResist()</a>, <a class="el" href="../../#l00095">SpellImplicitTargetInfo::CalcDirectionAngle()</a>, <a class="el" href="../../#l01110">boss_headless_horseman::DamageTaken()</a>, <a class="el" href="../../#l00716">npc_midsummer_ribbon_pole_target::DoDancingFLameChecks()</a>, <a class="el" href="../../#l00253">RandomMovementGenerator&lt; T &gt;::DoInitialize()</a>, <a class="el" href="../../#l00025">ConfusedMovementGenerator&lt; T &gt;::DoInitialize()</a>, <a class="el" href="../../#l00297">npc_time_rift::DoSummonAtRift()</a>, <a class="el" href="../../#l04147">Spell::EffectStuck()</a>, <a class="el" href="../../#l05345">Spell::EffectTransmitted()</a>, <a class="el" href="../../#l00368">violet_hold_trashAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00832">Unit::GetRandomContactPoint()</a>, <a class="el" href="../../#l02801">WorldObject::GetRandomNearPosition()</a>, <a class="el" href="../../#l01558">WorldObject::GetRandomPoint()</a>, <a class="el" href="../../#l00099">Position::GetSinCos()</a>, <a class="el" href="../../#l02424">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::GoSiphon()</a>, <a class="el" href="../../#l02037">spell_icc_geist_alarm::HandleEvent()</a>, <a class="el" href="../../#l00150">WorldSession::HandlePetActionHelper()</a>, <a class="el" href="../../#l01101">spell_dreamwalker_summon_portal::HandleScript()</a>, <a class="el" href="../../#l00269">boss_onyxia::HandleWhelpSpam()</a>, <a class="el" href="../../#l00108">spell_q11065_wrangle_some_aether_rays_aura::if()</a>, <a class="el" href="../../#l00286">npc_troll_volunteer::npc_troll_volunteerAI::InitializeAI()</a>, <a class="el" href="../../#l00371">npc_hourglass_of_eternity::npc_hourglass_of_eternityAI::InitializeAI()</a>, <a class="el" href="../../#l00114">boss_keleseth::JustEngagedWith()</a>, <a class="el" href="../../#l00120">boss_high_astromancer_solarian::JustEngagedWith()</a>, <a class="el" href="../../#l00131">boss_auriaya::JustSummoned()</a>, <a class="el" href="../../#l02664">spell_the_lich_king_teleport_to_frostmourne_hc::ModDest()</a>, <a class="el" href="../../#l00251">npc_ulduar_snow_mound::MoveInLineOfSight()</a>, <a class="el" href="../../#l00716">npc_concentrated_ball::npc_concentrated_ballAI::MoveToNextPoint()</a>, <a class="el" href="../../#l16278">Unit::PetSpellFail()</a>, <a class="el" href="../../#l00197">npc_oculus_unstable_sphere::npc_oculus_unstable_sphereAI::PickNewLocation()</a>, <a class="el" href="../../#l00067">Weather::ReGenerate()</a>, <a class="el" href="../../#l00177">boss_anubarak_trial::boss_anubarak_trialAI::Reset()</a>, <a class="el" href="../../#l00787">spell_sindragosa_s_fury::SelectDest()</a>, <a class="el" href="../../#l01341">Spell::SelectImplicitCasterDestTargets()</a>, <a class="el" href="../../#l01724">Spell::SelectImplicitDestDestTargets()</a>, <a class="el" href="../../#l01687">Spell::SelectImplicitTargetDestTargets()</a>, <a class="el" href="../../#l00552">boss_yoggsaron_sara::SpawnTentacle()</a>, <a class="el" href="../../#l01186">npc_pos_leader_second::npc_pos_leader_secondAI::SpellHitTarget()</a>, <a class="el" href="../../#l03372">npc_icc_gauntlet_controller::npc_icc_gauntlet_controllerAI::SummonBroodling()</a>, <a class="el" href="../../#l00567">boss_yoggsaron_sara::SummonDeathOrbs()</a>, <a class="el" href="../../#l01071">boss_yoggsaron::SummonImmortalGuardian()</a>, <a class="el" href="../../#l00192">instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00774">instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00359">npc_dark_iron_attack_generator::UpdateAI()</a>, <a class="el" href="../../#l00362">npc_time_rift::UpdateAI()</a>, <a class="el" href="../../#l00307">boss_onyxia::UpdateAI()</a>, <a class="el" href="../../#l00863">boss_icehowl::boss_icehowlAI::UpdateAI()</a>, <a class="el" href="../../#l00282">boss_twin_valkyrAI::UpdateAI()</a>, <a class="el" href="../../#l00073">npc_pos_leader::npc_pos_leaderAI::UpdateAI()</a>, <a class="el" href="../../#l00500">boss_sindragosa::boss_sindragosaAI::UpdateAI()</a>, <a class="el" href="../../#l03007">npc_strangulate_vehicle::npc_strangulate_vehicleAI::UpdateAI()</a>, <a class="el" href="../../#l00352">boss_malygos::UpdateAI()</a>, <a class="el" href="../../#l00108">boss_ormorok::UpdateAI()</a>, <a class="el" href="../../#l00123">boss_drakos::boss_drakosAI::UpdateAI()</a>, <a class="el" href="../../#l00171">boss_eregos::boss_eregosAI::UpdateAI()</a>, <a class="el" href="../../#l00363">boss_mimiron::UpdateAI()</a>, <a class="el" href="../../#l02084">npc_ulduar_flames_initial::UpdateAI()</a>, <a class="el" href="../../#l00782">npc_ulduar_expedition_engineer::UpdateAI()</a>, <a class="el" href="../../#l00200">boss_ymiron::boss_ymironAI::UpdateAI()</a>, <a class="el" href="../../#l00143">boss_ichoron::UpdateAI()</a>, and <a class="el" href="../../#l00417">npc_hourglass_of_eternity::npc_hourglass_of_eternityAI::UpdateAI()</a>.</p>
+
+</div>
+</div>
+<a id="a9ecda65ea9686c86f47934d04d38ec69" name="a9ecda65ea9686c86f47934d04d38ec69"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ecda65ea9686c86f47934d04d38ec69">&#9670;&#160;</a></span>randtime() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d4b/a04700.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> randtime </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d4b/a04700.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
+          <td class="paramname"><em>min</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d4b/a04700.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
+          <td class="paramname"><em>max</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   65</span>{</div>
+<div class="line"><span class="lineno">   66</span>    <span class="keywordtype">long</span> <span class="keywordtype">long</span> diff = max.count() - min.count();</div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_define" href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(diff &gt;= 0);</div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_define" href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(diff &lt;= (<a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) - 1);</div>
+<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">return</span> min + <a class="code hl_typedef" href="../../d8/d4b/a04700.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(<a class="code hl_function" href="../../dc/d6d/a04802.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, diff));</div>
+<div class="line"><span class="lineno">   70</span>}</div>
+<div class="ttc" id="aa04568_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa04700_html_a1c3834b9e3853535027d58bf21bec81f"><div class="ttname"><a href="../../d8/d4b/a04700.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a></div><div class="ttdeci">std::chrono::milliseconds Milliseconds</div><div class="ttdoc">Milliseconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:27</div></div>
+<div class="ttc" id="aa04802_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../dc/d6d/a04802.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition:</b> Random.cpp:44</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00112">EventProcessor::AddEventAtOffset()</a>, <a class="el" href="../../#l00671">boss_professor_putricide::boss_professor_putricideAI::ChangePhase()</a>, <a class="el" href="../../#l00253">go_tadpole_cage::go_tadpole_cageAI::GossipHello()</a>, <a class="el" href="../../#l00530">npc_necrotic_shard::HandleShardMinionSpawnerSmall()</a>, <a class="el" href="../../#l00093">boss_volkhan::JustEngagedWith()</a>, <a class="el" href="../../#l00068">boss_hungarfen::JustEngagedWith()</a>, <a class="el" href="../../#l00539">boss_kiljaeden::JustSummoned()</a>, <a class="el" href="../../#l00081">EventMap::Repeat()</a>, <a class="el" href="../../#l00064">EventMap::RescheduleEvent()</a>, <a class="el" href="../../#l00059">EventMap::ScheduleEvent()</a>, <a class="el" href="../../#l00228">boss_volkhan::SpellHitTarget()</a>, <a class="el" href="../../#l00231">npc_medivh_bm::SummonOrcs()</a>, <a class="el" href="../../#l00768">spell_illidari_council_deadly_strike_aura::Update()</a>, <a class="el" href="../../#l00047">boss_gorosh_the_dervish::UpdateAI()</a>, <a class="el" href="../../#l00045">boss_grizzle::UpdateAI()</a>, <a class="el" href="../../#l00048">boss_okthor::UpdateAI()</a>, <a class="el" href="../../#l00500">boss_sartharion::UpdateAI()</a>, <a class="el" href="../../#l00967">boss_the_lich_king::boss_the_lich_kingAI::UpdateAI()</a>, <a class="el" href="../../#l00257">boss_volkhan::UpdateAI()</a>, and <a class="el" href="../../#l00728">boss_yoggsaron_sara::UpdateAI()</a>.</p>
+
+</div>
+</div>
+<a id="a7c8533961af63b720553e868fdaabd85" name="a7c8533961af63b720553e868fdaabd85"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7c8533961af63b720553e868fdaabd85">&#9670;&#160;</a></span>randtime() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d4b/a04700.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> randtime </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d4b/a04700.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td>
+          <td class="paramname"><em>min</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d4b/a04700.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td>
+          <td class="paramname"><em>max</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
+<div class="line"><span class="lineno">   74</span>    <span class="keywordtype">long</span> <span class="keywordtype">long</span> diff = max.count() - min.count();</div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_define" href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(diff &gt;= 0);</div>
+<div class="line"><span class="lineno">   76</span>    <a class="code hl_define" href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(diff &lt;= (<a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) - 1);</div>
+<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">return</span> min + <a class="code hl_typedef" href="../../d8/d4b/a04700.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>(<a class="code hl_function" href="../../dc/d6d/a04802.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, diff));</div>
+<div class="line"><span class="lineno">   78</span>}</div>
+<div class="ttc" id="aa04700_html_a3cd82f1c195a0b935b4d66b02a41acd8"><div class="ttname"><a href="../../d8/d4b/a04700.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a></div><div class="ttdeci">std::chrono::seconds Seconds</div><div class="ttdoc">Seconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:30</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+
+</div>
+</div>
+<a id="ab17def34ccbbd868dc87a16bf35acdbd" name="ab17def34ccbbd868dc87a16bf35acdbd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab17def34ccbbd868dc87a16bf35acdbd">&#9670;&#160;</a></span>urand()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> urand </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>min</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>max</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea5eb667efacd8e34e2b0c1e228703d56a">CREATURE_FLAG_EXTRA_INSTANCE_BIND</a>                   = 0x00000001,   <span class="comment">// creature kill bind instance with killer and killer&#39;s group</span></div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeacee44eaa784b79fab1d8928d2a44ef8c">CREATURE_FLAG_EXTRA_CIVILIAN</a>                        = 0x00000002,   <span class="comment">// not aggro (ignore faction/reputation hostility)</span></div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea82d02e843cfe5d025dbcd8f08ad26016">CREATURE_FLAG_EXTRA_NO_PARRY</a>                        = 0x00000004,   <span class="comment">// creature can&#39;t parry</span></div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea485bf10da98d6743727c85bca2962c8a">CREATURE_FLAG_EXTRA_NO_PARRY_HASTEN</a>                 = 0x00000008,   <span class="comment">// creature can&#39;t counter-attack at parry</span></div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea027980ae6aedbd2649f2d23b391d0018">CREATURE_FLAG_EXTRA_NO_BLOCK</a>                        = 0x00000010,   <span class="comment">// creature can&#39;t block</span></div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea0b9eaa7da44acf16db98c69a4490ee0f">CREATURE_FLAG_EXTRA_NO_CRUSHING_BLOWS</a>               = 0x00000020,   <span class="comment">// creature can&#39;t do crush attacks</span></div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea49014cb31a44f91960148878d5402936">CREATURE_FLAG_EXTRA_NO_XP</a>                           = 0x00000040,   <span class="comment">// creature kill does not provide XP</span></div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea33ddfbc771eb0cf946bde28b049bcf92">CREATURE_FLAG_EXTRA_TRIGGER</a>                         = 0x00000080,   <span class="comment">// trigger creature</span></div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea8e2e57b4b720b5d232da77efa493d9e0">CREATURE_FLAG_EXTRA_NO_TAUNT</a>                        = 0x00000100,   <span class="comment">// creature is immune to taunt auras and &#39;attack me&#39; effects</span></div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea7594a0cdcfaf554a3ffaf219568d5f2a">CREATURE_FLAG_EXTRA_NO_MOVE_FLAGS_UPDATE</a>            = 0x00000200,   <span class="comment">// creature won&#39;t update movement flags</span></div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea99456c4fd1265b9817a1d525074f369c">CREATURE_FLAG_EXTRA_GHOST_VISIBILITY</a>                = 0x00000400,   <span class="comment">// creature will only be visible to dead players</span></div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac70f5bb20c581d60ed52be474d199f3e">CREATURE_FLAG_EXTRA_USE_OFFHAND_ATTACK</a>              = 0x00000800,   <span class="comment">// creature will use offhand attacks</span></div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeaa2eb07bfb0870b7d63f66785080d9878">CREATURE_FLAG_EXTRA_NO_SELL_VENDOR</a>                  = 0x00001000,   <span class="comment">// players can&#39;t sell items to this vendor</span></div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea434b509b5c3a1a2245b0b917252afe9f">CREATURE_FLAG_EXTRA_CANNOT_ENTER_COMBAT</a>             = 0x00002000,   <span class="comment">// creature is not allowed to enter combat</span></div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeaf088ab48174a093528b1decaf519634f">CREATURE_FLAG_EXTRA_WORLDEVENT</a>                      = 0x00004000,   <span class="comment">// custom flag for world event creatures (left room for merging)</span></div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae0962d239a48b905431c02086ae9b0de">CREATURE_FLAG_EXTRA_GUARD</a>                           = 0x00008000,   <span class="comment">// Creature is guard</span></div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea86940606c0a6532a416f668c0a09ca65">CREATURE_FLAG_EXTRA_IGNORE_FEIGN_DEATH</a>              = 0x00010000,   <span class="comment">// creature ignores feign death</span></div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea2c769928dc0a9de2eb3c160b14cc58fa">CREATURE_FLAG_EXTRA_NO_CRIT</a>                         = 0x00020000,   <span class="comment">// creature can&#39;t do critical strikes</span></div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac2ef76f3a9d7ec0bdc733ce9f2050527">CREATURE_FLAG_EXTRA_NO_SKILL_GAINS</a>                  = 0x00040000,   <span class="comment">// creature won&#39;t increase weapon skills</span></div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea6a55dc1573efacf11b363b0f29efee62">CREATURE_FLAG_EXTRA_OBEYS_TAUNT_DIMINISHING_RETURNS</a> = 0x00080000,   <span class="comment">// Taunt is subject to diminishing returns on this creature</span></div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae5acf0dad379133a0f083e195992df6c">CREATURE_FLAG_EXTRA_ALL_DIMINISH</a>                    = 0x00100000,   <span class="comment">// creature is subject to all diminishing returns as players are</span></div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea8ff1b07b39d4513a802697b1e6796cd4">CREATURE_FLAG_EXTRA_NO_PLAYER_DAMAGE_REQ</a>            = 0x00200000,   <span class="comment">// creature does not need to take player damage for kill credit</span></div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac76a858f3209ba102bf261c9ffccbf99">CREATURE_FLAG_EXTRA_AVOID_AOE</a>                       = 0x00400000,   <span class="comment">// pussywizard: ignored by aoe attacks (for icc blood prince council npc - Dark Nucleus)</span></div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeab9eec285fe44252e925f9ab1b0187e6c">CREATURE_FLAG_EXTRA_NO_DODGE</a>                        = 0x00800000,   <span class="comment">// xinef: target cannot dodge</span></div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae00238b53e70a93ff8af09880d945639">CREATURE_FLAG_EXTRA_MODULE</a>                          = 0x01000000,</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea7f6a51e74361969dd3fdbf38993e590b">CREATURE_FLAG_EXTRA_DONT_CALL_ASSISTANCE</a>            = 0x02000000,   <span class="comment">// Prevent creatures from calling for assistance on initial aggro</span></div>
-<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea33a5e887c2422c472aa4f80134bc56f4">CREATURE_FLAG_EXTRA_IGNORE_ALL_ASSISTANCE_CALLS</a>     = 0x04000000,   <span class="comment">// Prevents creature from responding to assistance calls</span></div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeafe175c08cff508f324fd4ee330437e87">CREATURE_FLAG_EXTRA_DONT_OVERRIDE_ENTRY_SAI</a>         = 0x08000000,   <span class="comment">// Load both ENTRY and GUID specific SAI</span></div>
-<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea30602d96feb595ff0b760c897005a799">CREATURE_FLAG_EXTRA_DUNGEON_BOSS</a>                    = 0x10000000,   <span class="comment">// creature is a dungeon boss (SET DYNAMICALLY, DO NOT ADD IN DB)</span></div>
-<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea432399b2532ba8bac59cf2d4a9896e31">CREATURE_FLAG_EXTRA_IGNORE_PATHFINDING</a>              = 0x20000000,   <span class="comment">// creature ignore pathfinding</span></div>
-<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea7a34213bf9fc666bb573799a1750ba44">CREATURE_FLAG_EXTRA_IMMUNITY_KNOCKBACK</a>              = 0x40000000,   <span class="comment">// creature is immune to knockback effects</span></div>
-<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea5bab8409d8820db219156ff357dab245">CREATURE_FLAG_EXTRA_HARD_RESET</a>                      = 0x80000000,</div>
-<div class="line"><span class="lineno">   78</span> </div>
-<div class="line"><span class="lineno">   79</span>    <span class="comment">// Masks</span></div>
-<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea04400aa73c5d761f561895e223875fc5">CREATURE_FLAG_EXTRA_DB_ALLOWED</a>                      = (0xFFFFFFFF &amp; ~CREATURE_FLAG_EXTRA_DUNGEON_BOSS) <span class="comment">// SKIP</span></div>
-<div class="line"><span class="lineno">   81</span>};</div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea027980ae6aedbd2649f2d23b391d0018"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea027980ae6aedbd2649f2d23b391d0018">CREATURE_FLAG_EXTRA_NO_BLOCK</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_NO_BLOCK</div><div class="ttdef"><b>Definition:</b> CreatureData.h:50</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea04400aa73c5d761f561895e223875fc5"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea04400aa73c5d761f561895e223875fc5">CREATURE_FLAG_EXTRA_DB_ALLOWED</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_DB_ALLOWED</div><div class="ttdef"><b>Definition:</b> CreatureData.h:80</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea0b9eaa7da44acf16db98c69a4490ee0f"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea0b9eaa7da44acf16db98c69a4490ee0f">CREATURE_FLAG_EXTRA_NO_CRUSHING_BLOWS</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_NO_CRUSHING_BLOWS</div><div class="ttdef"><b>Definition:</b> CreatureData.h:51</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea2c769928dc0a9de2eb3c160b14cc58fa"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea2c769928dc0a9de2eb3c160b14cc58fa">CREATURE_FLAG_EXTRA_NO_CRIT</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_NO_CRIT</div><div class="ttdef"><b>Definition:</b> CreatureData.h:63</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea30602d96feb595ff0b760c897005a799"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea30602d96feb595ff0b760c897005a799">CREATURE_FLAG_EXTRA_DUNGEON_BOSS</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_DUNGEON_BOSS</div><div class="ttdef"><b>Definition:</b> CreatureData.h:74</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea33a5e887c2422c472aa4f80134bc56f4"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea33a5e887c2422c472aa4f80134bc56f4">CREATURE_FLAG_EXTRA_IGNORE_ALL_ASSISTANCE_CALLS</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_IGNORE_ALL_ASSISTANCE_CALLS</div><div class="ttdef"><b>Definition:</b> CreatureData.h:72</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea33ddfbc771eb0cf946bde28b049bcf92"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea33ddfbc771eb0cf946bde28b049bcf92">CREATURE_FLAG_EXTRA_TRIGGER</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_TRIGGER</div><div class="ttdef"><b>Definition:</b> CreatureData.h:53</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea432399b2532ba8bac59cf2d4a9896e31"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea432399b2532ba8bac59cf2d4a9896e31">CREATURE_FLAG_EXTRA_IGNORE_PATHFINDING</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_IGNORE_PATHFINDING</div><div class="ttdef"><b>Definition:</b> CreatureData.h:75</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea434b509b5c3a1a2245b0b917252afe9f"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea434b509b5c3a1a2245b0b917252afe9f">CREATURE_FLAG_EXTRA_CANNOT_ENTER_COMBAT</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_CANNOT_ENTER_COMBAT</div><div class="ttdef"><b>Definition:</b> CreatureData.h:59</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea485bf10da98d6743727c85bca2962c8a"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea485bf10da98d6743727c85bca2962c8a">CREATURE_FLAG_EXTRA_NO_PARRY_HASTEN</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_NO_PARRY_HASTEN</div><div class="ttdef"><b>Definition:</b> CreatureData.h:49</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea49014cb31a44f91960148878d5402936"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea49014cb31a44f91960148878d5402936">CREATURE_FLAG_EXTRA_NO_XP</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_NO_XP</div><div class="ttdef"><b>Definition:</b> CreatureData.h:52</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea5bab8409d8820db219156ff357dab245"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea5bab8409d8820db219156ff357dab245">CREATURE_FLAG_EXTRA_HARD_RESET</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_HARD_RESET</div><div class="ttdef"><b>Definition:</b> CreatureData.h:77</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea5eb667efacd8e34e2b0c1e228703d56a"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea5eb667efacd8e34e2b0c1e228703d56a">CREATURE_FLAG_EXTRA_INSTANCE_BIND</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_INSTANCE_BIND</div><div class="ttdef"><b>Definition:</b> CreatureData.h:46</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea6a55dc1573efacf11b363b0f29efee62"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea6a55dc1573efacf11b363b0f29efee62">CREATURE_FLAG_EXTRA_OBEYS_TAUNT_DIMINISHING_RETURNS</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_OBEYS_TAUNT_DIMINISHING_RETURNS</div><div class="ttdef"><b>Definition:</b> CreatureData.h:65</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea7594a0cdcfaf554a3ffaf219568d5f2a"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea7594a0cdcfaf554a3ffaf219568d5f2a">CREATURE_FLAG_EXTRA_NO_MOVE_FLAGS_UPDATE</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_NO_MOVE_FLAGS_UPDATE</div><div class="ttdef"><b>Definition:</b> CreatureData.h:55</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea7a34213bf9fc666bb573799a1750ba44"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea7a34213bf9fc666bb573799a1750ba44">CREATURE_FLAG_EXTRA_IMMUNITY_KNOCKBACK</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_IMMUNITY_KNOCKBACK</div><div class="ttdef"><b>Definition:</b> CreatureData.h:76</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea7f6a51e74361969dd3fdbf38993e590b"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea7f6a51e74361969dd3fdbf38993e590b">CREATURE_FLAG_EXTRA_DONT_CALL_ASSISTANCE</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_DONT_CALL_ASSISTANCE</div><div class="ttdef"><b>Definition:</b> CreatureData.h:71</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea82d02e843cfe5d025dbcd8f08ad26016"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea82d02e843cfe5d025dbcd8f08ad26016">CREATURE_FLAG_EXTRA_NO_PARRY</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_NO_PARRY</div><div class="ttdef"><b>Definition:</b> CreatureData.h:48</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea86940606c0a6532a416f668c0a09ca65"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea86940606c0a6532a416f668c0a09ca65">CREATURE_FLAG_EXTRA_IGNORE_FEIGN_DEATH</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_IGNORE_FEIGN_DEATH</div><div class="ttdef"><b>Definition:</b> CreatureData.h:62</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea8e2e57b4b720b5d232da77efa493d9e0"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea8e2e57b4b720b5d232da77efa493d9e0">CREATURE_FLAG_EXTRA_NO_TAUNT</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_NO_TAUNT</div><div class="ttdef"><b>Definition:</b> CreatureData.h:54</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea8ff1b07b39d4513a802697b1e6796cd4"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea8ff1b07b39d4513a802697b1e6796cd4">CREATURE_FLAG_EXTRA_NO_PLAYER_DAMAGE_REQ</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_NO_PLAYER_DAMAGE_REQ</div><div class="ttdef"><b>Definition:</b> CreatureData.h:67</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aea99456c4fd1265b9817a1d525074f369c"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea99456c4fd1265b9817a1d525074f369c">CREATURE_FLAG_EXTRA_GHOST_VISIBILITY</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_GHOST_VISIBILITY</div><div class="ttdef"><b>Definition:</b> CreatureData.h:56</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aeaa2eb07bfb0870b7d63f66785080d9878"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeaa2eb07bfb0870b7d63f66785080d9878">CREATURE_FLAG_EXTRA_NO_SELL_VENDOR</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_NO_SELL_VENDOR</div><div class="ttdef"><b>Definition:</b> CreatureData.h:58</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aeab9eec285fe44252e925f9ab1b0187e6c"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeab9eec285fe44252e925f9ab1b0187e6c">CREATURE_FLAG_EXTRA_NO_DODGE</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_NO_DODGE</div><div class="ttdef"><b>Definition:</b> CreatureData.h:69</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aeac2ef76f3a9d7ec0bdc733ce9f2050527"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac2ef76f3a9d7ec0bdc733ce9f2050527">CREATURE_FLAG_EXTRA_NO_SKILL_GAINS</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_NO_SKILL_GAINS</div><div class="ttdef"><b>Definition:</b> CreatureData.h:64</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aeac70f5bb20c581d60ed52be474d199f3e"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac70f5bb20c581d60ed52be474d199f3e">CREATURE_FLAG_EXTRA_USE_OFFHAND_ATTACK</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_USE_OFFHAND_ATTACK</div><div class="ttdef"><b>Definition:</b> CreatureData.h:57</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aeac76a858f3209ba102bf261c9ffccbf99"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac76a858f3209ba102bf261c9ffccbf99">CREATURE_FLAG_EXTRA_AVOID_AOE</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_AVOID_AOE</div><div class="ttdef"><b>Definition:</b> CreatureData.h:68</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aeacee44eaa784b79fab1d8928d2a44ef8c"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeacee44eaa784b79fab1d8928d2a44ef8c">CREATURE_FLAG_EXTRA_CIVILIAN</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_CIVILIAN</div><div class="ttdef"><b>Definition:</b> CreatureData.h:47</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aeae00238b53e70a93ff8af09880d945639"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae00238b53e70a93ff8af09880d945639">CREATURE_FLAG_EXTRA_MODULE</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_MODULE</div><div class="ttdef"><b>Definition:</b> CreatureData.h:70</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aeae0962d239a48b905431c02086ae9b0de"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae0962d239a48b905431c02086ae9b0de">CREATURE_FLAG_EXTRA_GUARD</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_GUARD</div><div class="ttdef"><b>Definition:</b> CreatureData.h:61</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aeae5acf0dad379133a0f083e195992df6c"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae5acf0dad379133a0f083e195992df6c">CREATURE_FLAG_EXTRA_ALL_DIMINISH</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_ALL_DIMINISH</div><div class="ttdef"><b>Definition:</b> CreatureData.h:66</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aeaf088ab48174a093528b1decaf519634f"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeaf088ab48174a093528b1decaf519634f">CREATURE_FLAG_EXTRA_WORLDEVENT</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_WORLDEVENT</div><div class="ttdef"><b>Definition:</b> CreatureData.h:60</div></div>
-<div class="ttc" id="aa04802_html_a0ce2c6787ec2444d3b23ca43b0c5a6aeafe175c08cff508f324fd4ee330437e87"><div class="ttname"><a href="../../dc/d6d/a04802.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeafe175c08cff508f324fd4ee330437e87">CREATURE_FLAG_EXTRA_DONT_OVERRIDE_ENTRY_SAI</a></div><div class="ttdeci">@ CREATURE_FLAG_EXTRA_DONT_OVERRIDE_ENTRY_SAI</div><div class="ttdef"><b>Definition:</b> CreatureData.h:73</div></div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_define" href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(max &gt;= min);</div>
+<div class="line"><span class="lineno">   47</span>    std::uniform_int_distribution&lt;uint32&gt; uid(min, max);</div>
+<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">return</span> uid(<a class="code hl_variable" href="../../dc/d6d/a04802.html#a8ab11e2fa939d9f333dfa1a858e7690b">engine</a>);</div>
+<div class="line"><span class="lineno">   49</span>}</div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="a2d939485aee8367ac402f581fd13d705" name="a2d939485aee8367ac402f581fd13d705"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2d939485aee8367ac402f581fd13d705">&#9670;&#160;</a></span>CreatureFlightMovementType</h2>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00025">engine</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum class <a class="el" href="../../dc/d6d/a04802.html#a2d939485aee8367ac402f581fd13d705">CreatureFlightMovementType</a> : <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2d939485aee8367ac402f581fd13d705a6adf97f83acf6453d4a6a4b1070f3754" name="a2d939485aee8367ac402f581fd13d705a6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2d939485aee8367ac402f581fd13d705a65fa4cecb88a83780edd35a065f79bc5" name="a2d939485aee8367ac402f581fd13d705a65fa4cecb88a83780edd35a065f79bc5"></a>DisableGravity&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2d939485aee8367ac402f581fd13d705a68d6a9750f0ac787a349f07ae2d86a69" name="a2d939485aee8367ac402f581fd13d705a68d6a9750f0ac787a349f07ae2d86a69"></a>CanFly&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2d939485aee8367ac402f581fd13d705a6a061313d22e51e0f25b7cd4dc065233" name="a2d939485aee8367ac402f581fd13d705a6a061313d22e51e0f25b7cd4dc065233"></a>Max&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   93</span>{</div>
-<div class="line"><span class="lineno">   94</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfa6adf97f83acf6453d4a6a4b1070f3754">None</a>,</div>
-<div class="line"><span class="lineno">   95</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a2d939485aee8367ac402f581fd13d705a65fa4cecb88a83780edd35a065f79bc5">DisableGravity</a>,</div>
-<div class="line"><span class="lineno">   96</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a2d939485aee8367ac402f581fd13d705a68d6a9750f0ac787a349f07ae2d86a69">CanFly</a>,</div>
-<div class="line"><span class="lineno">   97</span> </div>
-<div class="line"><span class="lineno">   98</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfa6a061313d22e51e0f25b7cd4dc065233">Max</a></div>
-<div class="line"><span class="lineno">   99</span>};</div>
-<div class="ttc" id="aa04802_html_a2d939485aee8367ac402f581fd13d705a65fa4cecb88a83780edd35a065f79bc5"><div class="ttname"><a href="../../dc/d6d/a04802.html#a2d939485aee8367ac402f581fd13d705a65fa4cecb88a83780edd35a065f79bc5">CreatureFlightMovementType::DisableGravity</a></div><div class="ttdeci">@ DisableGravity</div></div>
-<div class="ttc" id="aa04802_html_a2d939485aee8367ac402f581fd13d705a68d6a9750f0ac787a349f07ae2d86a69"><div class="ttname"><a href="../../dc/d6d/a04802.html#a2d939485aee8367ac402f581fd13d705a68d6a9750f0ac787a349f07ae2d86a69">CreatureFlightMovementType::CanFly</a></div><div class="ttdeci">@ CanFly</div></div>
-<div class="ttc" id="aa04802_html_a41d8876d4a61c87754a0a48348de49bfa6adf97f83acf6453d4a6a4b1070f3754"><div class="ttname"><a href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfa6adf97f83acf6453d4a6a4b1070f3754">CreatureGroundMovementType::None</a></div><div class="ttdeci">@ None</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a41d8876d4a61c87754a0a48348de49bf" name="a41d8876d4a61c87754a0a48348de49bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a41d8876d4a61c87754a0a48348de49bf">&#9670;&#160;</a></span>CreatureGroundMovementType</h2>
+<p class="reference">Referenced by <a class="el" href="../../#l00098">at_hol_hall_of_watchers::_OnTrigger()</a>, <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l02793">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l00481">Loot::AddItem()</a>, <a class="el" href="../../#l01698">spell_dk_ghoul_thrash::CalcDamage()</a>, <a class="el" href="../../#l00099">spell_allergies::CalcPeriodic()</a>, <a class="el" href="../../#l00439">spell_item_goblin_gumbo_kettle::CalcPeriodic()</a>, <a class="el" href="../../#l05226">spell_gen_consumption::CalculateDamage()</a>, <a class="el" href="../../#l03168">Unit::CalculateDamage()</a>, <a class="el" href="../../#l00729">npc_minion_spawner::CanSpawnRareMinion()</a>, <a class="el" href="../../#l00690">BattlegroundAV::ChangeMineOwner()</a>, <a class="el" href="../../#l00671">boss_professor_putricide::boss_professor_putricideAI::ChangePhase()</a>, <a class="el" href="../../#l00246">lfg::LFGQueue::CheckCompatibility()</a>, <a class="el" href="../../#l01428">Group::CountTheRoll()</a>, <a class="el" href="../../#l00270">GameObject::Create()</a>, <a class="el" href="../../#l00697">boss_illidan_stormrage::CycleBeamPos()</a>, <a class="el" href="../../#l00147">npc_anubisath_defender::DamageTaken()</a>, <a class="el" href="../../#l01265">npc_infra_green_bomber_generic::npc_infra_green_bomber_genericAI::DamageTaken()</a>, <a class="el" href="../../#l01007">Unit::DealDamage()</a>, <a class="el" href="../../#l00175">boss_razorgore::DoAction()</a>, <a class="el" href="../../#l00092">boss_anetheron::DoAction()</a>, <a class="el" href="../../#l00095">boss_rage_winterchill::DoAction()</a>, <a class="el" href="../../#l00483">npc_hyjal_ground_trash::DoAction()</a>, <a class="el" href="../../#l00597">npc_hyjal_gargoyle::DoAction()</a>, <a class="el" href="../../#l00959">npc_pos_martin_or_gorkun_second::npc_pos_martin_or_gorkun_secondAI::DoAction()</a>, <a class="el" href="../../#l01625">npc_chesspiece::DoAction()</a>, <a class="el" href="../../#l00165">boss_maexxna::boss_maexxnaAI::DoCastWebWrap()</a>, <a class="el" href="../../#l00630">npc_midsummer_ribbon_pole_target::DoFlameCircleChecks()</a>, <a class="el" href="../../#l00253">RandomMovementGenerator&lt; T &gt;::DoInitialize()</a>, <a class="el" href="../../#l00025">ConfusedMovementGenerator&lt; T &gt;::DoInitialize()</a>, <a class="el" href="../../#l16201">Player::DoRandomRoll()</a>, <a class="el" href="../../#l00313">npc_time_rift::DoSelectSummon()</a>, <a class="el" href="../../#l00272">instance_stratholme::instance_stratholme_InstanceMapScript::DoSpawnPlaguedCritters()</a>, <a class="el" href="../../#l00103">boss_skeram::DoTeleport()</a>, <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00115">ConfusedMovementGenerator&lt; T &gt;::DoUpdate()</a>, <a class="el" href="../../#l02585">Spell::EffectDispel()</a>, <a class="el" href="../../#l00662">Spell::EffectDummy()</a>, <a class="el" href="../../#l04744">Spell::EffectForceDeselect()</a>, <a class="el" href="../../#l03792">Spell::EffectScriptEffect()</a>, <a class="el" href="../../#l05574">Spell::EffectStealBeneficialBuff()</a>, <a class="el" href="../../#l01180">Spell::EffectTeleportUnits()</a>, <a class="el" href="../../#l05345">Spell::EffectTransmitted()</a>, <a class="el" href="../../#l00353">npc_ravenclaw_apparition::npc_ravenclaw_apparitionAI::EmoteCrowd()</a>, <a class="el" href="../../#l00049">boss_gehennas::ExecuteEvent()</a>, <a class="el" href="../../#l01023">boss_sartharion_tenebron::ExecuteEvent()</a>, <a class="el" href="../../#l01164">boss_sartharion_shadron::ExecuteEvent()</a>, <a class="el" href="../../#l01248">boss_sartharion_vesperon::ExecuteEvent()</a>, <a class="el" href="../../#l00255">spell_blade_dance_targeting::FilterTargets()</a>, <a class="el" href="../../#l01166">spell_deathbringer_blood_nova_targeting::FilterTargetsInitial()</a>, <a class="el" href="../../#l00635">spell_kologarn_focused_eyebeam::FilterTargetsInitial()</a>, <a class="el" href="../../#l00736">spell_ulduar_stone_grip_cast_target::FilterTargetsInitial()</a>, <a class="el" href="../../#l00648">npc_dark_iron_guzzler::FindNextKeg()</a>, <a class="el" href="../../#l00262">boss_darkmaster_gandling::boss_darkmaster_gandlingAI::FindRoom()</a>, <a class="el" href="../../#l00808">Loot::generateMoneyLoot()</a>, <a class="el" href="../../#l08177">ObjectMgr::GeneratePetName()</a>, <a class="el" href="../../#l08164">ObjectMgr::GeneratePetNameLocale()</a>, <a class="el" href="../../#l01678">ObjectMgr::GetCreatureModelRandomGender()</a>, <a class="el" href="../../#l01454">ObjectMgr::GetEquipmentInfo()</a>, <a class="el" href="../../#l02190">npc_firework::npc_fireworkAI::GetFireworkGameObjectId()</a>, <a class="el" href="../../#l02853">Unit::GetMeleeAttackPoint()</a>, <a class="el" href="../../#l13010">Player::GetNextRandomRaidMember()</a>, <a class="el" href="../../#l08237">Unit::GetNextRandomRaidMemberOrPet()</a>, <a class="el" href="../../#l00542">npc_dark_iron_attack_generator::GetRandomBartender()</a>, <a class="el" href="../../#l03736">Creature::GetRandomId()</a>, <a class="el" href="../../#l00202">npc_brewfest_bark_trigger::GetTextFor()</a>, <a class="el" href="../../#l00105">boss_ambassador_flamelash::getValidRandomPosition()</a>, <a class="el" href="../../#l00328">go_ossirian_crystal::go_ossirian_crystalAI::GossipHello()</a>, <a class="el" href="../../#l01790">WorldState::HandleActiveZone()</a>, <a class="el" href="../../#l01077">spell_brewfest_fill_keg::HandleAfterHit()</a>, <a class="el" href="../../#l00778">spell_scourge_disguise_instability::HandleApply()</a>, <a class="el" href="../../#l00873">spell_gen_baby_murloc_passive::HandleApply()</a>, <a class="el" href="../../#l01984">AuraEffect::HandleAuraModShapeshift()</a>, <a class="el" href="../../#l02283">AuraEffect::HandleAuraTransform()</a>, <a class="el" href="../../#l01173">npc_echo_of_medivh::HandleCheat()</a>, <a class="el" href="../../#l00850">Player::HandleDrowning()</a>, <a class="el" href="../../#l01171">spell_fight_fire_bomber::HandleDummy()</a>, <a class="el" href="../../#l01117">spell_gen_focused_bursts::HandleDummy()</a>, <a class="el" href="../../#l00172">spell_hallows_end_candy::HandleDummy()</a>, <a class="el" href="../../#l00979">spell_q12589_shoot_rjr::HandleDummy()</a>, <a class="el" href="../../#l00846">spell_item_gnomish_universal_remote::HandleDummy()</a>, <a class="el" href="../../#l00986">spell_item_gnomish_shrink_ray::HandleDummy()</a>, <a class="el" href="../../#l02037">spell_item_make_a_wish::HandleDummy()</a>, <a class="el" href="../../#l02205">spell_item_net_o_matic::HandleDummy()</a>, <a class="el" href="../../#l02254">spell_item_noggenfogger_elixir::HandleDummy()</a>, <a class="el" href="../../#l02322">spell_item_savory_deviate_delight::HandleDummy()</a>, <a class="el" href="../../#l02709">spell_item_six_demon_bag::HandleDummy()</a>, <a class="el" href="../../#l02792">spell_item_underbelly_elixir::HandleDummy()</a>, <a class="el" href="../../#l00881">spell_mage_polymorph_cast_visual::HandleDummy()</a>, <a class="el" href="../../#l01271">spell_q12634_despawn_fruit_tosser::HandleDummy()</a>, <a class="el" href="../../#l00215">spell_shadowfang_keep_forsaken_skills_aura::HandleDummyTick()</a>, <a class="el" href="../../#l00682">spell_lich_king_vo_blocker::HandleEffectApply()</a>, <a class="el" href="../../#l00806">spell_midsummer_ribbon_pole::HandleEffectApply()</a>, <a class="el" href="../../#l01215">spell_gen_haunted_aura::HandleEffectCalcPeriodic()</a>, <a class="el" href="../../#l02117">spell_hor_gunship_cannon_fire_aura::HandleEffectPeriodic()</a>, <a class="el" href="../../#l01318">spell_pos_empowered_blizzard_aura::HandleEffectPeriodic()</a>, <a class="el" href="../../#l01221">spell_gen_haunted_aura::HandleEffectPeriodic()</a>, <a class="el" href="../../#l00822">spell_valkyr_touch_aura::HandleEffectPeriodic()</a>, <a class="el" href="../../#l00071">boss_warbringer_omrogg::HandleHeadTalk()</a>, <a class="el" href="../../#l00369">spell_magtheridon_quake::HandleHit()</a>, <a class="el" href="../../#l01254">spell_chapter5_return_to_capital::HandleHit()</a>, <a class="el" href="../../#l00760">boss_malygos::HandleIntroSpeech()</a>, <a class="el" href="../../#l02161">spell_yogg_saron_brain_link_aura::HandleOnEffectApply()</a>, <a class="el" href="../../#l01190">spell_gen_haunted::HandleOnEffectHit()</a>, <a class="el" href="../../#l00289">spell_serpentshrine_cavern_coilfang_water::HandlePeriodic()</a>, <a class="el" href="../../#l00878">spell_gen_baby_murloc_passive::HandlePeriodicTimer()</a>, <a class="el" href="../../#l00973">npc_echo_of_medivh::HandlePieceMoveByAI()</a>, <a class="el" href="../../#l00532">spell_item_magic_dust::HandlePreventAura()</a>, <a class="el" href="../../#l00167">spell_kormok_summon_bone_mages::HandleScript()</a>, <a class="el" href="../../#l01570">spell_gen_netherbloom::HandleScript()</a>, <a class="el" href="../../#l04213">spell_gen_upper_deck_create_foam_sword::HandleScript()</a>, <a class="el" href="../../#l02368">spell_item_scroll_of_recall::HandleScript()</a>, <a class="el" href="../../#l00272">spell_gen_elemental_shield::HandleScript()</a>, <a class="el" href="../../#l00065">spell_hallows_end_trick::HandleScript()</a>, <a class="el" href="../../#l01250">spell_putricide_choking_gas_bomb::HandleScript()</a>, <a class="el" href="../../#l01834">spell_gen_elune_candle::HandleScript()</a>, <a class="el" href="../../#l02427">spell_item_dimensional_ripper_area52::HandleScript()</a>, <a class="el" href="../../#l00153">spell_q12698_the_gift_that_keeps_on_giving::HandleScriptEffect()</a>, <a class="el" href="../../#l00868">spell_summon_amanishi_sentries::HandleScriptEffect()</a>, <a class="el" href="../../#l00226">spell_winter_veil_shoot_air_rifle::HandleScriptEffect()</a>, <a class="el" href="../../#l03972">spell_item_mirrens_drinking_hat::HandleScriptEffect()</a>, <a class="el" href="../../#l00530">npc_necrotic_shard::HandleShardMinionSpawnerSmall()</a>, <a class="el" href="../../#l01299">spell_item_draenic_pale_ale::HandleSummon()</a>, <a class="el" href="../../#l01739">Battleground::HandleTriggerBuff()</a>, <a class="el" href="../../#l02980">spell_magic_eater_food::HandleTriggerSpell()</a>, <a class="el" href="../../#l00534">boss_yoggsaron_sara::InformCloud()</a>, <a class="el" href="../../#l00076">BattlegroundSA::Init()</a>, <a class="el" href="../../#l00207">instance_blackrock_depths::Initialize()</a>, <a class="el" href="../../#l00286">npc_troll_volunteer::npc_troll_volunteerAI::InitializeAI()</a>, <a class="el" href="../../#l00230">npc_time_lost_proto_drake::npc_time_lost_proto_drakeAI::InitializeAI()</a>, <a class="el" href="../../#l00529">npc_pet_gen_imp_in_a_bottle::InitializeAI()</a>, <a class="el" href="../../#l01691">npc_wormhole::npc_wormholeAI::InitializeAI()</a>, <a class="el" href="../../#l01849">npc_chesspiece::InitializeCombatSpellsByEntry()</a>, <a class="el" href="../../#l00080">instance_karazhan::instance_karazhan_InstanceMapScript::instance_karazhan_InstanceMapScript()</a>, <a class="el" href="../../#l00121">boss_azuregos::boss_azuregosAI::JustDied()</a>, <a class="el" href="../../#l00128">boss_volazj::JustDied()</a>, <a class="el" href="../../#l00898">npc_ghostly_priest::JustDied()</a>, <a class="el" href="../../#l00991">npc_phantom_mage::JustDied()</a>, <a class="el" href="../../#l01119">npc_shadowy_mercenary::JustDied()</a>, <a class="el" href="../../#l01209">npc_spectral_footman::JustDied()</a>, <a class="el" href="../../#l01288">npc_tortured_rifleman::JustDied()</a>, <a class="el" href="../../#l00904">npc_pallid_horror::JustDied()</a>, <a class="el" href="../../#l00047">npc_webbed_creature::npc_webbed_creatureAI::JustDied()</a>, <a class="el" href="../../#l00270">npc_nerubar_victim::npc_nerubar_victimAI::JustDied()</a>, <a class="el" href="../../#l00599">boss_crone::JustEngagedWith()</a>, <a class="el" href="../../#l00127">boss_priestess_delrissa::JustEngagedWith()</a>, <a class="el" href="../../#l00081">boss_akilzon::JustEngagedWith()</a>, <a class="el" href="../../#l00381">npc_hyjal_ground_trash::JustEngagedWith()</a>, <a class="el" href="../../#l00084">npc_anubisath_defender::JustEngagedWith()</a>, <a class="el" href="../../#l00298">npc_anubisath_warder::JustEngagedWith()</a>, <a class="el" href="../../#l00095">npc_muglash::npc_muglashAI::JustEngagedWith()</a>, <a class="el" href="../../#l00077">boss_nexusprince_shaffar::JustEngagedWith()</a>, <a class="el" href="../../#l00066">boss_doomwalker::JustEngagedWith()</a>, <a class="el" href="../../#l00161">boss_nazan::JustEngagedWith()</a>, <a class="el" href="../../#l00113">npc_belnistrasz::npc_belnistraszAI::JustEngagedWith()</a>, <a class="el" href="../../#l00321">npc_prospector_remtravel::npc_prospector_remtravelAI::JustEngagedWith()</a>, <a class="el" href="../../#l00149">boss_rotface::boss_rotfaceAI::JustEngagedWith()</a>, <a class="el" href="../../#l00203">boss_steelbreaker::JustEngagedWith()</a>, <a class="el" href="../../#l00224">boss_fathomguard_sharkkis::JustEngagedWith()</a>, <a class="el" href="../../#l00448">npc_highlord_darion_mograine::npc_highlord_darion_mograineAI::JustSummoned()</a>, <a class="el" href="../../#l01226">boss_yoggsaron_brain::JustSummoned()</a>, <a class="el" href="../../#l00094">npc_frosthound::JustSummoned()</a>, <a class="el" href="../../#l00237">boss_gothik::boss_gothikAI::JustSummoned()</a>, <a class="el" href="../../#l00146">boss_epoch::boss_epochAI::KilledUnit()</a>, <a class="el" href="../../#l00097">boss_mal_ganis::boss_mal_ganisAI::KilledUnit()</a>, <a class="el" href="../../#l00077">boss_meathook::boss_meathookAI::KilledUnit()</a>, <a class="el" href="../../#l00099">boss_salramm::boss_salrammAI::KilledUnit()</a>, <a class="el" href="../../#l00162">boss_maiden_of_grief::boss_maiden_of_griefAI::KilledUnit()</a>, <a class="el" href="../../#l00249">boss_sjonnir::boss_sjonnirAI::KilledUnit()</a>, <a class="el" href="../../#l00611">boss_freya_elder_stonebark::KilledUnit()</a>, <a class="el" href="../../#l00696">boss_freya_elder_brightleaf::KilledUnit()</a>, <a class="el" href="../../#l00796">boss_freya_elder_ironbranch::KilledUnit()</a>, <a class="el" href="../../#l00311">boss_kologarn::KilledUnit()</a>, <a class="el" href="../../#l00341">boss_ymiron::boss_ymironAI::KilledUnit()</a>, <a class="el" href="../../#l00098">boss_kelidan_the_breaker::KilledUnit()</a>, <a class="el" href="../../#l00850">boss_sartharion_dragonAI::KilledUnit()</a>, <a class="el" href="../../#l00175">boss_sacrolash::KilledUnit()</a>, <a class="el" href="../../#l00309">boss_alythess::KilledUnit()</a>, <a class="el" href="../../#l00355">boss_hexlord_malacrass::KilledUnit()</a>, <a class="el" href="../../#l00152">boss_volazj::KilledUnit()</a>, <a class="el" href="../../#l00441">boss_sartharion::KilledUnit()</a>, <a class="el" href="../../#l00397">boss_algalon_the_observer::KilledUnit()</a>, <a class="el" href="../../#l00161">boss_auriaya::KilledUnit()</a>, <a class="el" href="../../#l00243">boss_freya::KilledUnit()</a>, <a class="el" href="../../#l00201">boss_xt002::KilledUnit()</a>, <a class="el" href="../../#l00119">boss_exarch_maladaar::KilledUnit()</a>, <a class="el" href="../../#l00127">boss_talon_king_ikiss::KilledUnit()</a>, <a class="el" href="../../#l00150">boss_ambassador_hellmaw::KilledUnit()</a>, <a class="el" href="../../#l00059">boss_blackheart_the_inciter::KilledUnit()</a>, <a class="el" href="../../#l01040">npc_akama_illidan::KilledUnit()</a>, <a class="el" href="../../#l00055">boss_the_maker::KilledUnit()</a>, <a class="el" href="../../#l00129">boss_faerlina::boss_faerlinaAI::KilledUnit()</a>, <a class="el" href="../../#l00075">boss_patchwerk::boss_patchwerkAI::KilledUnit()</a>, <a class="el" href="../../#l00463">boss_thaddius_summon::boss_thaddius_summonAI::KilledUnit()</a>, <a class="el" href="../../#l00644">boss_stormcaller_brundir::KilledUnit()</a>, <a class="el" href="../../#l00291">spell_wailing_souls_periodic_aura::Load()</a>, <a class="el" href="../../#l02151">spell_igb_explosion_main_aura::Load()</a>, <a class="el" href="../../#l04980">Player::LoadFromDB()</a>, <a class="el" href="../../#l03338">Unit::MeleeSpellHitResult()</a>, <a class="el" href="../../#l00874">npc_cw_area_trigger::npc_cw_area_triggerAI::MoveInLineOfSight()</a>, <a class="el" href="../../#l00063">npc_love_in_air_supply_sentry::MoveInLineOfSight()</a>, <a class="el" href="../../#l01469">npc_chesspiece::MovementInform()</a>, <a class="el" href="../../#l00707">npc_concentrated_ball::npc_concentrated_ballAI::MovementInform()</a>, <a class="el" href="../../#l01803">npc_commander_eligor_dawnbringer::npc_commander_eligor_dawnbringerAI::MovementInform()</a>, <a class="el" href="../../#l00254">boss_felmyst::MovementInform()</a>, <a class="el" href="../../#l00543">npc_xt002_scrapbot::MovementInform()</a>, <a class="el" href="../../#l00261">npc_akilzon_eagle::MovementInform()</a>, <a class="el" href="../../#l01422">npc_chesspiece::npc_chesspiece()</a>, <a class="el" href="../../#l00730">npc_corrupted_totem::npc_corrupted_totem()</a>, <a class="el" href="../../#l01531">npc_cos_stratholme_citizien::npc_cos_stratholme_citizienAI::npc_cos_stratholme_citizienAI()</a>, <a class="el" href="../../#l00171">npc_grimstone::npc_grimstone()</a>, <a class="el" href="../../#l00834">npc_pos_icicle_trigger::npc_pos_icicle_triggerAI::npc_pos_icicle_triggerAI()</a>, <a class="el" href="../../#l00331">npc_ravenclaw_apparition::npc_ravenclaw_apparitionAI::npc_ravenclaw_apparitionAI()</a>, <a class="el" href="../../#l00952">npc_scion_of_eternity::npc_scion_of_eternity()</a>, <a class="el" href="../../#l00207">spell_shadowfang_keep_forsaken_skills_aura::OnApply()</a>, <a class="el" href="../../#l02947">spell_item_ashbringer::OnDummyEffect()</a>, <a class="el" href="../../#l00672">instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript::OnGameObjectCreate()</a>, <a class="el" href="../../#l00152">instance_karazhan::instance_karazhan_InstanceMapScript::OnUnitDeath()</a>, <a class="el" href="../../#l00100">boss_anetheron::PathEndReached()</a>, <a class="el" href="../../#l00103">boss_rage_winterchill::PathEndReached()</a>, <a class="el" href="../../#l00504">npc_hyjal_ground_trash::PathEndReached()</a>, <a class="el" href="../../#l00172">boss_malchezaar::PickTarget()</a>, <a class="el" href="../../#l00400">BattlegroundAV::PostUpdateImpl()</a>, <a class="el" href="../../#l01249">boss_yoggsaron_brain::PrepareChamberIllusion()</a>, <a class="el" href="../../#l15539">Player::PrepareCharmAISpells()</a>, <a class="el" href="../../#l01282">boss_yoggsaron_brain::PrepareIceCrownIllusion()</a>, <a class="el" href="../../#l04412">spell_gen_spectator_cheer_trigger::PrepareSpellScript()</a>, <a class="el" href="../../#l00303">spell_item_titanium_seal_of_dalaran::PrepareSpellScript()</a>, <a class="el" href="../../#l00721">spell_q11653_youre_not_so_big_now::PrepareSpellScript()</a>, <a class="el" href="../../#l01316">boss_yoggsaron_brain::PrepareStormwindIllusion()</a>, <a class="el" href="../../#l00164">SmartScript::ProcessAction()</a>, <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>, <a class="el" href="../../#l00025">RAND()</a>, <a class="el" href="../../#l00400">npc_hourglass_of_eternity::npc_hourglass_of_eternityAI::randEntry()</a>, <a class="el" href="../../#l00406">TaskScheduler::RandomDurationBetween()</a>, <a class="el" href="../../#l00647">instance_halls_of_reflection::RandomizeCompositionsAndShow()</a>, <a class="el" href="../../#l00079">Acore::Containers::RandomResize()</a>, <a class="el" href="../../#l00429">boss_alyson_antille::RandomReverseFriendlyList()</a>, <a class="el" href="../../#l00502">npc_hourglass_of_eternity::npc_hourglass_of_eternityAI::randomWhisper()</a>, <a class="el" href="../../#l00064">randtime()</a>, <a class="el" href="../../#l04964">SmartScript::RecalcTimer()</a>, <a class="el" href="../../#l00067">Weather::ReGenerate()</a>, <a class="el" href="../../#l00059">boss_drekthar::boss_drektharAI::Reset()</a>, <a class="el" href="../../#l00052">boss_galvangar::boss_galvangarAI::Reset()</a>, <a class="el" href="../../#l00055">boss_vanndar::boss_vanndarAI::Reset()</a>, <a class="el" href="../../#l00051">boss_golemagg::Reset()</a>, <a class="el" href="../../#l00198">npc_echo_of_medivh::Reset()</a>, <a class="el" href="../../#l00246">npc_akilzon_eagle::Reset()</a>, <a class="el" href="../../#l00049">boss_renataki::boss_renatakiAI::Reset()</a>, <a class="el" href="../../#l00116">boss_ossirian::Reset()</a>, <a class="el" href="../../#l00170">npc_injured_draenei::npc_injured_draeneiAI::Reset()</a>, <a class="el" href="../../#l00181">npc_kerlonian::npc_kerlonianAI::Reset()</a>, <a class="el" href="../../#l00200">npc_ringo::npc_ringoAI::Reset()</a>, <a class="el" href="../../#l00602">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::Reset()</a>, <a class="el" href="../../#l01318">npc_twilight_summon::Reset()</a>, <a class="el" href="../../#l00450">npc_swarm_scarab::npc_swarm_scarabAI::Reset()</a>, <a class="el" href="../../#l00132">boss_bjarngrim::Reset()</a>, <a class="el" href="../../#l00103">boss_sjonnir::boss_sjonnirAI::Reset()</a>, <a class="el" href="../../#l01025">npc_algalon_worm_hole::Reset()</a>, <a class="el" href="../../#l00105">boss_auriaya::Reset()</a>, <a class="el" href="../../#l00219">boss_freya::Reset()</a>, <a class="el" href="../../#l00969">npc_ulduar_dark_rune_sentinel::Reset()</a>, <a class="el" href="../../#l00433">boss_yoggsaron_sara::Reset()</a>, <a class="el" href="../../#l00127">boss_palehoof::boss_palehoofAI::Reset()</a>, <a class="el" href="../../#l00120">boss_ymiron::boss_ymironAI::Reset()</a>, <a class="el" href="../../#l00853">npc_valiance_keep_cannoneer::npc_valiance_keep_cannoneerAI::Reset()</a>, <a class="el" href="../../#l00610">npc_injured_7th_legion_soldier::npc_injured_7th_legion_soldierAI::Reset()</a>, <a class="el" href="../../#l00241">npc_rodin_lightning_enabler::Reset()</a>, <a class="el" href="../../#l00201">boss_illidan_stormrage::Reset()</a>, <a class="el" href="../../#l02245">npc_firework::npc_fireworkAI::Reset()</a>, <a class="el" href="../../#l02330">npc_spring_rabbit::npc_spring_rabbitAI::Reset()</a>, <a class="el" href="../../#l01818">BattlegroundAV::ResetBGSubclass()</a>, <a class="el" href="../../#l02015">Creature::Respawn()</a>, <a class="el" href="../../#l02990">Unit::RollMeleeOutcomeAgainst()</a>, <a class="el" href="../../#l00220">boss_bjarngrim::RollStance()</a>, <a class="el" href="../../#l00178">npc_shandy_dalaran::npc_shandy_dalaranAI::RollTask()</a>, <a class="el" href="../../#l00704">npc_dark_iron_guzzler::SayText()</a>, <a class="el" href="../../#l00969">boss_julianne::ScheduleCombat()</a>, <a class="el" href="../../#l00185">boss_sjonnir::boss_sjonnirAI::ScheduleTasks()</a>, <a class="el" href="../../#l01579">boss_yoggsaron_constrictor_tentacle::SelectConstrictTarget()</a>, <a class="el" href="../../#l01534">boss_yoggsaron_corruptor_tentacle::SelectCorruptionTarget()</a>, <a class="el" href="../../#l01495">Creature::SelectLevel()</a>, <a class="el" href="../../#l00169">npc_finklestein::npc_finklesteinAI::SelectRandomCode()</a>, <a class="el" href="../../#l00133">Acore::Containers::SelectRandomContainerElement()</a>, <a class="el" href="../../#l00150">Acore::Containers::SelectRandomContainerElementIf()</a>, <a class="el" href="../../#l00689">npc_gothik_trigger::npc_gothik_triggerAI::SelectRandomSkullPile()</a>, <a class="el" href="../../#l00372">ScriptedAI::SelectSpell()</a>, <a class="el" href="../../#l01490">boss_thorim_arena_npcs::SelectT()</a>, <a class="el" href="../../#l00591">ScriptedAI::SelectTargetFromPlayerList()</a>, <a class="el" href="../../#l00107">AutobroadcastMgr::SendAutobroadcasts()</a>, <a class="el" href="../../#l00435">npc_xt002_heart::SendEnergyToCorner()</a>, <a class="el" href="../../#l07798">Player::SendLoot()</a>, <a class="el" href="../../#l00071">brd_ironhand_guardian::SetData()</a>, <a class="el" href="../../#l00274">instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript::SetData()</a>, <a class="el" href="../../#l00476">instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript::SetData()</a>, <a class="el" href="../../#l00301">spell_mother_shahraz_fatal_attraction::SetDest()</a>, <a class="el" href="../../#l00104">FleeingMovementGenerator&lt; T &gt;::SetTargetLocation()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, <a class="el" href="../../#l00255">boss_hexlord_malacrass::SpawnAdds()</a>, <a class="el" href="../../#l00566">boss_thorim::SpawnAnArenaNPC()</a>, <a class="el" href="../../#l00577">boss_thorim::SpawnCommoners()</a>, <a class="el" href="../../#l00552">boss_yoggsaron_sara::SpawnTentacle()</a>, <a class="el" href="../../#l00085">boss_grandmaster_vorpil::spawnVoidTraveler()</a>, <a class="el" href="../../#l00322">boss_freya::SpawnWave()</a>, <a class="el" href="../../#l01084">npc_varian_wrynn::npc_varian_wrynnAI::SpawnWave()</a>, <a class="el" href="../../#l02483">npc_thrall_bfu::npc_thrall_bfuAI::SpawnWave()</a>, <a class="el" href="../../#l01186">npc_pos_leader_second::npc_pos_leader_secondAI::SpellHitTarget()</a>, <a class="el" href="../../#l01886">npc_chesspiece::SpellHitTarget()</a>, <a class="el" href="../../#l00136">npc_still_at_it_trigger::npc_still_at_it_triggerAI::Start()</a>, <a class="el" href="../../#l00162">BattlegroundAB::StartingEventOpenDoors()</a>, <a class="el" href="../../#l00096">BattlegroundEY::StartingEventOpenDoors()</a>, <a class="el" href="../../#l01680">WorldState::StartNewCityAttack()</a>, <a class="el" href="../../#l01624">WorldState::StartNewCityAttackIfTime()</a>, <a class="el" href="../../#l00709">instance_halls_of_reflection::StartNextWave()</a>, <a class="el" href="../../#l00257">npc_grimstone::SummonBoss()</a>, <a class="el" href="../../#l00744">brann_bronzebeard::brann_bronzebeardAI::SummonCreatures()</a>, <a class="el" href="../../#l00344">npc_ravenclaw_apparition::npc_ravenclaw_apparitionAI::SummonCrowd()</a>, <a class="el" href="../../#l00567">boss_yoggsaron_sara::SummonDeathOrbs()</a>, <a class="el" href="../../#l00200">boss_akilzon::SummonEagles()</a>, <a class="el" href="../../#l00882">npc_pallid_horror::SummonFlameshockers()</a>, <a class="el" href="../../#l00198">boss_kelthuzad::boss_kelthuzadAI::SummonHelper()</a>, <a class="el" href="../../#l00122">boss_noth::boss_nothAI::SummonHelper()</a>, <a class="el" href="../../#l01071">boss_yoggsaron::SummonImmortalGuardian()</a>, <a class="el" href="../../#l00623">boss_sartharion::SummonLavaWaves()</a>, <a class="el" href="../../#l00305">boss_paletress::boss_paletressAI::SummonMemory()</a>, <a class="el" href="../../#l00233">go_tadpole_cage::go_tadpole_cageAI::SummonTadpoles()</a>, <a class="el" href="../../#l00570">boss_lady_deathwhisper::boss_lady_deathwhisperAI::SummonWaveP1()</a>, <a class="el" href="../../#l00594">boss_lady_deathwhisper::boss_lady_deathwhisperAI::SummonWaveP2()</a>, <a class="el" href="../../#l00064">boss_fankriss::SummonWorms()</a>, <a class="el" href="../../#l01493">TriggerBurningPitch()</a>, <a class="el" href="../../#l00418">boss_archimonde::UnleashSoulCharge()</a>, <a class="el" href="../../#l00445">spell_item_goblin_gumbo_kettle::Update()</a>, <a class="el" href="../../#l00327">instance_blackwing_lair::Update()</a>, <a class="el" href="../../#l00774">instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00559">instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript::Update()</a>, <a class="el" href="../../#l01649">instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00683">instance_naxxramas::Update()</a>, <a class="el" href="../../#l00340">instance_violet_hold::instance_violet_hold_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00438">GameObject::Update()</a>, <a class="el" href="../../#l00706">Creature::Update()</a>, <a class="el" href="../../#l00137">boss_drekthar::boss_drektharAI::UpdateAI()</a>, <a class="el" href="../../#l00072">boss_galvangar::boss_galvangarAI::UpdateAI()</a>, <a class="el" href="../../#l00126">boss_vanndar::boss_vanndarAI::UpdateAI()</a>, <a class="el" href="../../#l00222">boss_ragnaros::UpdateAI()</a>, <a class="el" href="../../#l00079">npc_mc_core_hound::UpdateAI()</a>, <a class="el" href="../../#l01329">npc_echo_of_medivh::UpdateAI()</a>, <a class="el" href="../../#l01668">npc_chesspiece::UpdateAI()</a>, <a class="el" href="../../#l00275">npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI::UpdateAI()</a>, <a class="el" href="../../#l00055">npc_partygoer_pather::UpdateAI()</a>, <a class="el" href="../../#l00146">npc_partygoer::UpdateAI()</a>, <a class="el" href="../../#l00274">npc_akilzon_eagle::UpdateAI()</a>, <a class="el" href="../../#l00172">boss_arlokk::boss_arlokkAI::UpdateAI()</a>, <a class="el" href="../../#l00122">boss_renataki::boss_renatakiAI::UpdateAI()</a>, <a class="el" href="../../#l00359">npc_dark_iron_attack_generator::UpdateAI()</a>, <a class="el" href="../../#l01379">boss_headless_horseman_head::UpdateAI()</a>, <a class="el" href="../../#l00118">boss_salramm::boss_salrammAI::UpdateAI()</a>, <a class="el" href="../../#l01611">npc_cos_stratholme_citizien::npc_cos_stratholme_citizienAI::UpdateAI()</a>, <a class="el" href="../../#l00307">boss_onyxia::UpdateAI()</a>, <a class="el" href="../../#l00152">npc_belnistrasz::npc_belnistraszAI::UpdateAI()</a>, <a class="el" href="../../#l00440">boss_cthun::UpdateAI()</a>, <a class="el" href="../../#l00161">boss_skeram::UpdateAI()</a>, <a class="el" href="../../#l00642">npc_qiraj_war_spawn::npc_qiraj_war_spawnAI::UpdateAI()</a>, <a class="el" href="../../#l00617">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::UpdateAI()</a>, <a class="el" href="../../#l00312">boss_paletress::boss_paletressAI::UpdateAI()</a>, <a class="el" href="../../#l00221">boss_black_knight::boss_black_knightAI::UpdateAI()</a>, <a class="el" href="../../#l00246">npc_toc5_grand_champion_minion::npc_toc5_grand_champion_minionAI::UpdateAI()</a>, <a class="el" href="../../#l00652">boss_grand_champion::boss_grand_championAI::UpdateAI()</a>, <a class="el" href="../../#l00245">boss_anubarak_trial::boss_anubarak_trialAI::UpdateAI()</a>, <a class="el" href="../../#l00474">npc_swarm_scarab::npc_swarm_scarabAI::UpdateAI()</a>, <a class="el" href="../../#l00200">boss_faction_championsAI::UpdateAI()</a>, <a class="el" href="../../#l00678">npc_toc_priest::npc_toc_priestAI::UpdateAI()</a>, <a class="el" href="../../#l00801">npc_toc_shadow_priest::npc_toc_shadow_priestAI::UpdateAI()</a>, <a class="el" href="../../#l00123">npc_snobold_vassal::npc_snobold_vassalAI::UpdateAI()</a>, <a class="el" href="../../#l00281">boss_gormok::boss_gormokAI::UpdateAI()</a>, <a class="el" href="../../#l00554">boss_jormungarAI::UpdateAI()</a>, <a class="el" href="../../#l00282">boss_twin_valkyrAI::UpdateAI()</a>, <a class="el" href="../../#l00156">boss_ick::boss_ickAI::UpdateAI()</a>, <a class="el" href="../../#l00073">npc_pos_leader::npc_pos_leaderAI::UpdateAI()</a>, <a class="el" href="../../#l00843">npc_pos_icicle_trigger::npc_pos_icicle_triggerAI::UpdateAI()</a>, <a class="el" href="../../#l01414">npc_rimefang::npc_rimefangAI::UpdateAI()</a>, <a class="el" href="../../#l00169">boss_gluth::boss_gluthAI::UpdateAI()</a>, <a class="el" href="../../#l00307">boss_kelthuzad::boss_kelthuzadAI::UpdateAI()</a>, <a class="el" href="../../#l00223">boss_sapphiron::boss_sapphironAI::UpdateAI()</a>, <a class="el" href="../../#l00352">boss_malygos::UpdateAI()</a>, <a class="el" href="../../#l00698">boss_stormcaller_brundir::UpdateAI()</a>, <a class="el" href="../../#l00487">boss_freya::UpdateAI()</a>, <a class="el" href="../../#l00726">boss_freya_elder_brightleaf::UpdateAI()</a>, <a class="el" href="../../#l00183">boss_vezax::UpdateAI()</a>, <a class="el" href="../../#l00290">boss_ignis::UpdateAI()</a>, <a class="el" href="../../#l00386">boss_kologarn::UpdateAI()</a>, <a class="el" href="../../#l00363">boss_mimiron::UpdateAI()</a>, <a class="el" href="../../#l01032">npc_ulduar_leviathan_mkii::UpdateAI()</a>, <a class="el" href="../../#l00294">boss_razorscale::UpdateAI()</a>, <a class="el" href="../../#l00897">npc_ulduar_dark_rune_guardian::UpdateAI()</a>, <a class="el" href="../../#l00935">npc_ulduar_dark_rune_watcher::UpdateAI()</a>, <a class="el" href="../../#l00980">npc_ulduar_dark_rune_sentinel::UpdateAI()</a>, <a class="el" href="../../#l00814">boss_thorim_sif::UpdateAI()</a>, <a class="el" href="../../#l01321">boss_thorim_runic_colossus::UpdateAI()</a>, <a class="el" href="../../#l00728">boss_yoggsaron_sara::UpdateAI()</a>, <a class="el" href="../../#l00159">boss_emalon::boss_emalonAI::UpdateAI()</a>, <a class="el" href="../../#l00300">violet_hold_trashAI::UpdateAI()</a>, <a class="el" href="../../#l00858">npc_valiance_keep_cannoneer::npc_valiance_keep_cannoneerAI::UpdateAI()</a>, <a class="el" href="../../#l00557">npc_minigob_manabonk::UpdateAI()</a>, <a class="el" href="../../#l00666">npc_dalaran_mage::npc_dalaran_mageAI::UpdateAI()</a>, <a class="el" href="../../#l00767">npc_dalaran_warrior::npc_dalaran_warriorAI::UpdateAI()</a>, <a class="el" href="../../#l01956">npc_commander_eligor_dawnbringer::npc_commander_eligor_dawnbringerAI::UpdateAI()</a>, <a class="el" href="../../#l01796">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>, <a class="el" href="../../#l00199">npc_still_at_it_trigger::npc_still_at_it_triggerAI::UpdateAI()</a>, <a class="el" href="../../#l00167">npc_maghar_captive::npc_maghar_captiveAI::UpdateAI()</a>, <a class="el" href="../../#l00080">npc_pet_hunter_snake_trap::UpdateAI()</a>, <a class="el" href="../../#l00296">go_flames::go_flamesAI::UpdateAI()</a>, <a class="el" href="../../#l00343">go_heat::go_heatAI::UpdateAI()</a>, <a class="el" href="../../#l00531">go_brewfest_music::go_brewfest_musicAI::UpdateAI()</a>, <a class="el" href="../../#l02350">npc_spring_rabbit::npc_spring_rabbitAI::UpdateAI()</a>, <a class="el" href="../../#l00923">npc_warmage_coldarra::npc_warmage_coldarraAI::UpdateAI()</a>, <a class="el" href="../../#l00148">PetAI::UpdateAI()</a>, <a class="el" href="../../#l01949">Player::UpdateCharmedAI()</a>, <a class="el" href="../../#l00405">npc_kurenai_captive::npc_kurenai_captiveAI::UpdateEscortAI()</a>, <a class="el" href="../../#l00238">npc_kerlonian::npc_kerlonianAI::UpdateFollowerAI()</a>, <a class="el" href="../../#l00391">npc_tooga::npc_toogaAI::UpdateFollowerAI()</a>, <a class="el" href="../../#l00260">npc_ringo::npc_ringoAI::UpdateFollowerAI()</a>, <a class="el" href="../../#l00051">urandms()</a>, <a class="el" href="../../#l00314">boss_hexlord_malacrass::UseAbility()</a>, and <a class="el" href="../../#l01012">WeatherForcast()</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum class <a class="el" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bf">CreatureGroundMovementType</a> : <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a41d8876d4a61c87754a0a48348de49bfa6adf97f83acf6453d4a6a4b1070f3754" name="a41d8876d4a61c87754a0a48348de49bfa6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a41d8876d4a61c87754a0a48348de49bfac5301693c4e792bcd5a479ef38fb8f8d" name="a41d8876d4a61c87754a0a48348de49bfac5301693c4e792bcd5a479ef38fb8f8d"></a>Run&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a41d8876d4a61c87754a0a48348de49bfaeee0168be69b854c20621fc6f01cc3fc" name="a41d8876d4a61c87754a0a48348de49bfaeee0168be69b854c20621fc6f01cc3fc"></a>Hover&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a41d8876d4a61c87754a0a48348de49bfa6a061313d22e51e0f25b7cd4dc065233" name="a41d8876d4a61c87754a0a48348de49bfa6a061313d22e51e0f25b7cd4dc065233"></a>Max&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   84</span>{</div>
-<div class="line"><span class="lineno">   85</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfa6adf97f83acf6453d4a6a4b1070f3754">None</a>,</div>
-<div class="line"><span class="lineno">   86</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfac5301693c4e792bcd5a479ef38fb8f8d">Run</a>,</div>
-<div class="line"><span class="lineno">   87</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfaeee0168be69b854c20621fc6f01cc3fc">Hover</a>,</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfa6a061313d22e51e0f25b7cd4dc065233">Max</a></div>
-<div class="line"><span class="lineno">   90</span>};</div>
-<div class="ttc" id="aa04802_html_a41d8876d4a61c87754a0a48348de49bfaeee0168be69b854c20621fc6f01cc3fc"><div class="ttname"><a href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfaeee0168be69b854c20621fc6f01cc3fc">CreatureGroundMovementType::Hover</a></div><div class="ttdeci">@ Hover</div></div>
-</div><!-- fragment -->
 </div>
 </div>
-<a id="ac5419660ed841edccfaa5c7290083846" name="ac5419660ed841edccfaa5c7290083846"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac5419660ed841edccfaa5c7290083846">&#9670;&#160;</a></span>CreatureRandomMovementType</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum class <a class="el" href="../../dc/d6d/a04802.html#ac5419660ed841edccfaa5c7290083846">CreatureRandomMovementType</a> : <a class="el" href="../../d5/d0f/a00494.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac5419660ed841edccfaa5c7290083846a7a16a854f32231a8df9326136b09ee62" name="ac5419660ed841edccfaa5c7290083846a7a16a854f32231a8df9326136b09ee62"></a>Walk&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ac5419660ed841edccfaa5c7290083846ad030426e7ebe1a50711689b8dd92cce3" name="ac5419660ed841edccfaa5c7290083846ad030426e7ebe1a50711689b8dd92cce3"></a>CanRun&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ac5419660ed841edccfaa5c7290083846a6eb62f1766deb6206aff4629e4059052" name="ac5419660ed841edccfaa5c7290083846a6eb62f1766deb6206aff4629e4059052"></a>AlwaysRun&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ac5419660ed841edccfaa5c7290083846a6a061313d22e51e0f25b7cd4dc065233" name="ac5419660ed841edccfaa5c7290083846a6a061313d22e51e0f25b7cd4dc065233"></a>Max&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
-<div class="line"><span class="lineno">  112</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#ac5419660ed841edccfaa5c7290083846a7a16a854f32231a8df9326136b09ee62">Walk</a>        = 0,</div>
-<div class="line"><span class="lineno">  113</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#ac5419660ed841edccfaa5c7290083846ad030426e7ebe1a50711689b8dd92cce3">CanRun</a>      = 1,</div>
-<div class="line"><span class="lineno">  114</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#ac5419660ed841edccfaa5c7290083846a6eb62f1766deb6206aff4629e4059052">AlwaysRun</a>   = 2,</div>
-<div class="line"><span class="lineno">  115</span> </div>
-<div class="line"><span class="lineno">  116</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#a41d8876d4a61c87754a0a48348de49bfa6a061313d22e51e0f25b7cd4dc065233">Max</a></div>
-<div class="line"><span class="lineno">  117</span>};</div>
-<div class="ttc" id="aa04802_html_ac5419660ed841edccfaa5c7290083846a6eb62f1766deb6206aff4629e4059052"><div class="ttname"><a href="../../dc/d6d/a04802.html#ac5419660ed841edccfaa5c7290083846a6eb62f1766deb6206aff4629e4059052">CreatureRandomMovementType::AlwaysRun</a></div><div class="ttdeci">@ AlwaysRun</div></div>
-<div class="ttc" id="aa04802_html_ac5419660ed841edccfaa5c7290083846a7a16a854f32231a8df9326136b09ee62"><div class="ttname"><a href="../../dc/d6d/a04802.html#ac5419660ed841edccfaa5c7290083846a7a16a854f32231a8df9326136b09ee62">CreatureRandomMovementType::Walk</a></div><div class="ttdeci">@ Walk</div></div>
-<div class="ttc" id="aa04802_html_ac5419660ed841edccfaa5c7290083846ad030426e7ebe1a50711689b8dd92cce3"><div class="ttname"><a href="../../dc/d6d/a04802.html#ac5419660ed841edccfaa5c7290083846ad030426e7ebe1a50711689b8dd92cce3">CreatureRandomMovementType::CanRun</a></div><div class="ttdeci">@ CanRun</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aec385f62258c23b8c755b8e78a0e1873" name="aec385f62258c23b8c755b8e78a0e1873"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec385f62258c23b8c755b8e78a0e1873">&#9670;&#160;</a></span>InhabitTypeValues</h2>
+<a id="af901d57f29ff48f701a375e44a0f1261" name="af901d57f29ff48f701a375e44a0f1261"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af901d57f29ff48f701a375e44a0f1261">&#9670;&#160;</a></span>urandms()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873">InhabitTypeValues</a></td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> urandms </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>min</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>max</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aec385f62258c23b8c755b8e78a0e1873a520d2ee7572e47cd40d4a81ec015a38b" name="aec385f62258c23b8c755b8e78a0e1873a520d2ee7572e47cd40d4a81ec015a38b"></a>INHABIT_GROUND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec385f62258c23b8c755b8e78a0e1873a3e409a2141cd78fb1bdd83d36c2388e7" name="aec385f62258c23b8c755b8e78a0e1873a3e409a2141cd78fb1bdd83d36c2388e7"></a>INHABIT_WATER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec385f62258c23b8c755b8e78a0e1873a2e939d2dbf075bfb7c86e3e971beb228" name="aec385f62258c23b8c755b8e78a0e1873a2e939d2dbf075bfb7c86e3e971beb228"></a>INHABIT_AIR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec385f62258c23b8c755b8e78a0e1873acc3db535154ef13d1dad073fa6d5eea5" name="aec385f62258c23b8c755b8e78a0e1873acc3db535154ef13d1dad073fa6d5eea5"></a>INHABIT_ROOT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aec385f62258c23b8c755b8e78a0e1873ab9163dc24970d6c55bc79f344d177e15" name="aec385f62258c23b8c755b8e78a0e1873ab9163dc24970d6c55bc79f344d177e15"></a>INHABIT_ANYWHERE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  401</span>{</div>
-<div class="line"><span class="lineno">  402</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873a520d2ee7572e47cd40d4a81ec015a38b">INHABIT_GROUND</a> = 1,</div>
-<div class="line"><span class="lineno">  403</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873a3e409a2141cd78fb1bdd83d36c2388e7">INHABIT_WATER</a>  = 2,</div>
-<div class="line"><span class="lineno">  404</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873a2e939d2dbf075bfb7c86e3e971beb228">INHABIT_AIR</a>    = 4,</div>
-<div class="line"><span class="lineno">  405</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873acc3db535154ef13d1dad073fa6d5eea5">INHABIT_ROOT</a>   = 8,</div>
-<div class="line"><span class="lineno">  406</span>    <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873ab9163dc24970d6c55bc79f344d177e15">INHABIT_ANYWHERE</a> = <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873a520d2ee7572e47cd40d4a81ec015a38b">INHABIT_GROUND</a> | <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873a3e409a2141cd78fb1bdd83d36c2388e7">INHABIT_WATER</a> | <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873a2e939d2dbf075bfb7c86e3e971beb228">INHABIT_AIR</a> | <a class="code hl_enumvalue" href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873acc3db535154ef13d1dad073fa6d5eea5">INHABIT_ROOT</a></div>
-<div class="line"><span class="lineno">  407</span>};</div>
-<div class="ttc" id="aa04802_html_aec385f62258c23b8c755b8e78a0e1873a2e939d2dbf075bfb7c86e3e971beb228"><div class="ttname"><a href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873a2e939d2dbf075bfb7c86e3e971beb228">INHABIT_AIR</a></div><div class="ttdeci">@ INHABIT_AIR</div><div class="ttdef"><b>Definition:</b> CreatureData.h:404</div></div>
-<div class="ttc" id="aa04802_html_aec385f62258c23b8c755b8e78a0e1873a3e409a2141cd78fb1bdd83d36c2388e7"><div class="ttname"><a href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873a3e409a2141cd78fb1bdd83d36c2388e7">INHABIT_WATER</a></div><div class="ttdeci">@ INHABIT_WATER</div><div class="ttdef"><b>Definition:</b> CreatureData.h:403</div></div>
-<div class="ttc" id="aa04802_html_aec385f62258c23b8c755b8e78a0e1873a520d2ee7572e47cd40d4a81ec015a38b"><div class="ttname"><a href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873a520d2ee7572e47cd40d4a81ec015a38b">INHABIT_GROUND</a></div><div class="ttdeci">@ INHABIT_GROUND</div><div class="ttdef"><b>Definition:</b> CreatureData.h:402</div></div>
-<div class="ttc" id="aa04802_html_aec385f62258c23b8c755b8e78a0e1873ab9163dc24970d6c55bc79f344d177e15"><div class="ttname"><a href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873ab9163dc24970d6c55bc79f344d177e15">INHABIT_ANYWHERE</a></div><div class="ttdeci">@ INHABIT_ANYWHERE</div><div class="ttdef"><b>Definition:</b> CreatureData.h:406</div></div>
-<div class="ttc" id="aa04802_html_aec385f62258c23b8c755b8e78a0e1873acc3db535154ef13d1dad073fa6d5eea5"><div class="ttname"><a href="../../dc/d6d/a04802.html#aec385f62258c23b8c755b8e78a0e1873acc3db535154ef13d1dad073fa6d5eea5">INHABIT_ROOT</a></div><div class="ttdeci">@ INHABIT_ROOT</div><div class="ttdef"><b>Definition:</b> CreatureData.h:405</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_define" href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(std::numeric_limits&lt;uint32&gt;::max() / Milliseconds::period::den &gt;= max);</div>
+<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d6d/a04802.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(min * Milliseconds::period::den, max * Milliseconds::period::den);</div>
+<div class="line"><span class="lineno">   55</span>}</div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00060">npc_pet_hunter_snake_trap::InitializeAI()</a>.</p>
+
+</div>
+</div>
+<a id="a3f7e714c8fc3a6f6ccbe91d524a84f23" name="a3f7e714c8fc3a6f6ccbe91d524a84f23"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3f7e714c8fc3a6f6ccbe91d524a84f23">&#9670;&#160;</a></span>urandweighted()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> urandweighted </td>
+          <td>(</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>count</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">double const *&#160;</td>
+          <td class="paramname"><em>chances</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   98</span>{</div>
+<div class="line"><span class="lineno">   99</span>    std::discrete_distribution&lt;uint32&gt; dd(chances, chances + count);</div>
+<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">return</span> dd(<a class="code hl_variable" href="../../dc/d6d/a04802.html#a8ab11e2fa939d9f333dfa1a858e7690b">engine</a>);</div>
+<div class="line"><span class="lineno">  101</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00025">engine</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00175">Acore::Containers::SelectRandomWeightedContainerElement()</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a8d66cb2ffced78d42fdd3dbc45e27cee" name="a8d66cb2ffced78d42fdd3dbc45e27cee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8d66cb2ffced78d42fdd3dbc45e27cee">&#9670;&#160;</a></span>PET_FOCUS_REGEN_INTERVAL</h2>
+<a id="a8ab11e2fa939d9f333dfa1a858e7690b" name="a8ab11e2fa939d9f333dfa1a858e7690b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ab11e2fa939d9f333dfa1a858e7690b">&#9670;&#160;</a></span>engine</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -931,17 +539,41 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr <a class="el" href="../../dd/df5/a00386.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> PET_FOCUS_REGEN_INTERVAL = 4s</td>
+          <td class="memname"><a class="el" href="../../dc/dd8/a05769.html">RandomEngine</a> engine</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00945">Creature::Regenerate()</a>, and <a class="el" href="../../#l00652">Pet::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00057">frand()</a>, <a class="el" href="../../#l00103">RandomEngine::Instance()</a>, <a class="el" href="../../#l00037">irand()</a>, <a class="el" href="../../#l00091">rand_chance()</a>, <a class="el" href="../../#l00085">rand_norm()</a>, <a class="el" href="../../#l00044">urand()</a>, and <a class="el" href="../../#l00097">urandweighted()</a>.</p>
+
+</div>
+</div>
+<a id="a131ba7587aa544a7e73ff9884d6bc784" name="a131ba7587aa544a7e73ff9884d6bc784"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a131ba7587aa544a7e73ff9884d6bc784">&#9670;&#160;</a></span>sfmtRand</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">thread_local std::unique_ptr&lt;<a class="el" href="../../da/d6e/a05773.html">SFMTRand</a>&gt; sfmtRand</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00027">GetRng()</a>.</p>
 
 </div>
 </div>
@@ -950,8 +582,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_27c47d768f113c084c0b575dcbf4137a.html">Creature</a></li><li class="navelem"><a class="el" href="../../dc/d6d/a04802.html">CreatureData.h</a></li>
-    <li class="footer">Generated on Mon Apr 6 2026 21:07:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../dc/d6d/a04802.html">Random.cpp</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:27:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

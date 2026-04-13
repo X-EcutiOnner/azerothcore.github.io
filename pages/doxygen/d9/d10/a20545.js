@@ -1,5 +1,7 @@
 var a20545 =
 [
-    [ "achievement_ignis_shattered", "d9/d10/a20545.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "d9/d10/a20545.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "npc_xt002_life_spark", "d9/d10/a20545.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
+    [ "Reset", "d9/d10/a20545.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
+    [ "UpdateAI", "d9/d10/a20545.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
+    [ "_attackTimer", "d9/d10/a20545.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
 ];

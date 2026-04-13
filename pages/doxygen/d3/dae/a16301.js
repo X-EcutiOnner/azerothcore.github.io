@@ -1,7 +1,7 @@
 var a16301 =
 [
-    [ "npc_ahnkahar_nerubian", "d3/dae/a16301.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "d3/dae/a16301.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "d3/dae/a16301.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "d3/dae/a16301.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "DelayedTalk", "d3/dae/a16301.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d3/dae/a16301.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d3/dae/a16301.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d3/dae/a16301.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

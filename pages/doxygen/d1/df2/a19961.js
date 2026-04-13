@@ -1,7 +1,9 @@
 var a19961 =
 [
-    [ "OnRemove", "d1/df2/a19961.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "d1/df2/a19961.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "d1/df2/a19961.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "d1/df2/a19961.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "npc_hodirs_fury", "d1/df2/a19961.html#abda902842d76a0a5a17196a11654f5ab", null ],
+    [ "MovementInform", "d1/df2/a19961.html#a4d82007c5b70edad74b461948629b9fb", null ],
+    [ "Reset", "d1/df2/a19961.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
+    [ "UpdateAI", "d1/df2/a19961.html#a58a8b1664bb00b930cce86e856facb8b", null ],
+    [ "_switchTargetTimer", "d1/df2/a19961.html#a9736332e6f3d163f04aa12cbd6829670", null ],
+    [ "_timeToHit", "d1/df2/a19961.html#a611d171dc27bd78d298040eabfc00e5f", null ]
 ];

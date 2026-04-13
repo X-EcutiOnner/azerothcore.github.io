@@ -1,8 +1,6 @@
 var a20629 =
 [
-    [ "npc_ulduar_mimiron_rocket", "d5/dcd/a20629.html#aec8a2c9f653ddd1e8ea72093cb02d785", null ],
-    [ "InitializeAI", "d5/dcd/a20629.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
-    [ "Reset", "d5/dcd/a20629.html#a982da2f2392882a86e72de4c4769fa41", null ],
-    [ "SetData", "d5/dcd/a20629.html#a507124f21657b62ff2b68060b52503b1", null ],
-    [ "UpdateAI", "d5/dcd/a20629.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
+    [ "boss_yoggsaron_descend_portal", "d5/dcd/a20629.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "d5/dcd/a20629.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "d5/dcd/a20629.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

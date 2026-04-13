@@ -1,6 +1,6 @@
 var a23049 =
 [
-    [ "HandleScriptEffect", "dc/d5d/a23049.html#a2b46490b70bf93effb7379686e648618", null ],
-    [ "PrepareSpellScript", "dc/d5d/a23049.html#a5030d071372ef12663f6a75be637476e", null ],
-    [ "Register", "dc/d5d/a23049.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
+    [ "HandleScript", "dc/d5d/a23049.html#ae45f8a366c1594d3723b83ee6e006957", null ],
+    [ "PrepareSpellScript", "dc/d5d/a23049.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
+    [ "Register", "dc/d5d/a23049.html#a6b9e449a64747f0a5715424295b1c30f", null ]
 ];

@@ -1,8 +1,7 @@
 var a19189 =
 [
-    [ "CountTargets", "da/dbd/a19189.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "da/dbd/a19189.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "da/dbd/a19189.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "da/dbd/a19189.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "da/dbd/a19189.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "OnApply", "da/dbd/a19189.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "da/dbd/a19189.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "da/dbd/a19189.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "da/dbd/a19189.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

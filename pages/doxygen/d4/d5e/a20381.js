@@ -1,18 +1,12 @@
 var a20381 =
 [
-    [ "boss_vezax", "d4/d5e/a20381.html#a1ffe141a8af8d1142100a95cc21d8def", null ],
-    [ "DoAction", "d4/d5e/a20381.html#ac7c14cfbae5d031615e7f62ded2045c1", null ],
-    [ "GetData", "d4/d5e/a20381.html#addfa8398f2a1c21b7ed44547fa6e2899", null ],
-    [ "JustDied", "d4/d5e/a20381.html#a1ce855485a7edaace620956cb620ed39", null ],
-    [ "JustEngagedWith", "d4/d5e/a20381.html#ac22557ea0f60a04d51f016cc09d99417", null ],
-    [ "JustReachedHome", "d4/d5e/a20381.html#ad57dabcfafbd2a10b1dbb39751600bb9", null ],
-    [ "KilledUnit", "d4/d5e/a20381.html#ab339f12be1e9da262f6243cfe22908c2", null ],
-    [ "MoveInLineOfSight", "d4/d5e/a20381.html#a79c3312d27ef44cf3aa2fb4b94e0ee0a", null ],
-    [ "Reset", "d4/d5e/a20381.html#a44ceea000e547d0e56994e9075a09a52", null ],
-    [ "SpellHitTarget", "d4/d5e/a20381.html#ab9288041d27b2cf2bf352085ba13ace1", null ],
-    [ "UpdateAI", "d4/d5e/a20381.html#a88331ae2f7cc9625aaf36836abf244f0", null ],
-    [ "bAchievShadowdodger", "d4/d5e/a20381.html#a7462985f6bd9daeec15d639fc076bbf9", null ],
-    [ "berserk", "d4/d5e/a20381.html#adc5e49598b2a9c463a91da0d50dbe3dc", null ],
-    [ "hardmodeAvailable", "d4/d5e/a20381.html#ae43a0164f3ac1876b6e6cd5f6f241ffb", null ],
-    [ "vaporsCount", "d4/d5e/a20381.html#a6f7205d1c455cc3344025e28d4eb8ed6", null ]
+    [ "npc_ulduar_flames_initial", "d4/d5e/a20381.html#ac0ba4a5631f580b23be30f6d19545a1f", null ],
+    [ "DoAction", "d4/d5e/a20381.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
+    [ "RemoveAll", "d4/d5e/a20381.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
+    [ "RemoveFlame", "d4/d5e/a20381.html#ad676a542b40b554027fc2ab491fa083d", null ],
+    [ "SpreadFlame", "d4/d5e/a20381.html#af50c950610f5277a755d1786b596b9d7", null ],
+    [ "UpdateAI", "d4/d5e/a20381.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
+    [ "_createTime", "d4/d5e/a20381.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
+    [ "_events", "d4/d5e/a20381.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
+    [ "_flameList", "d4/d5e/a20381.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
 ];

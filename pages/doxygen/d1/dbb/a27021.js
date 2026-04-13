@@ -1,8 +1,6 @@
 var a27021 =
 [
-    [ "HandleEffectRemove", "d1/dbb/a27021.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "d1/dbb/a27021.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "d1/dbb/a27021.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "d1/dbb/a27021.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "d1/dbb/a27021.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "CheckProc", "d1/dbb/a27021.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
+    [ "PrepareAuraScript", "d1/dbb/a27021.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
+    [ "Register", "d1/dbb/a27021.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
 ];

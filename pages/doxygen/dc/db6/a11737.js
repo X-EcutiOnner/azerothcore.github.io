@@ -1,8 +1,4 @@
 var a11737 =
 [
-    [ "EffectHandler", "dc/db6/a11737.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
-    [ "Call", "dc/db6/a11737.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
-    [ "CheckEffect", "dc/db6/a11737.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
-    [ "ToString", "dc/db6/a11737.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
-    [ "pEffectHandlerScript", "dc/db6/a11737.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
+    [ "operator()", "dc/db6/a11737.html#ac27052eb73a3723e8678c92aeeb2f499", null ]
 ];

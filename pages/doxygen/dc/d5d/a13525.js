@@ -1,7 +1,6 @@
 var a13525 =
 [
-    [ "OnApply", "dc/d5d/a13525.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "dc/d5d/a13525.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "dc/d5d/a13525.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "dc/d5d/a13525.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "d0/d49/a13529.html", "d0/d49/a13529" ],
+    [ "instance_sunken_temple", "dc/d5d/a13525.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "dc/d5d/a13525.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

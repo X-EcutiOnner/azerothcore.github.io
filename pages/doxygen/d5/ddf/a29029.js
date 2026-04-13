@@ -1,8 +1,13 @@
 var a29029 =
 [
-    [ "gender", "d5/ddf/a29029.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
-    [ "hair_id", "d5/ddf/a29029.html#af4646a9adb0a1dc18b34158de2116b84", null ],
-    [ "Id", "d5/ddf/a29029.html#a05de87081cf628e806d6518eef1424e4", null ],
-    [ "race", "d5/ddf/a29029.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
-    [ "type", "d5/ddf/a29029.html#a289bb362ba13235c754647ba67be1e56", null ]
+    [ "actionFlag", "d5/ddf/a29029.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "d5/ddf/a29029.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "d5/ddf/a29029.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "d5/ddf/a29029.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "d5/ddf/a29029.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "d5/ddf/a29029.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "d5/ddf/a29029.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "d5/ddf/a29029.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "d5/ddf/a29029.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "d5/ddf/a29029.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

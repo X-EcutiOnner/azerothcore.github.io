@@ -1,8 +1,8 @@
 var a13825 =
 [
-    [ "OnPeriodic", "db/da2/a13825.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "db/da2/a13825.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "db/da2/a13825.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "db/da2/a13825.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "db/da2/a13825.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "HandleEffectApply", "db/da2/a13825.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "db/da2/a13825.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "db/da2/a13825.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "db/da2/a13825.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "db/da2/a13825.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

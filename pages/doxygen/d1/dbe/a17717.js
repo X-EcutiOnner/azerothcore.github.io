@@ -1,7 +1,7 @@
 var a17717 =
 [
-    [ "HandlePeriodic", "d1/dbe/a17717.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "d1/dbe/a17717.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "d1/dbe/a17717.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "d1/dbe/a17717.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "HandleScript", "d1/dbe/a17717.html#a276018baa590b942d90c457faea10040", null ],
+    [ "PrepareSpellScript", "d1/dbe/a17717.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
+    [ "Register", "d1/dbe/a17717.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
+    [ "Validate", "d1/dbe/a17717.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
 ];

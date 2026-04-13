@@ -1,12 +1,10 @@
 var a10517 =
 [
-    [ "ArenaScript", "d9/d8e/a10517.html#acba88d9008e08873f3f20b92d69e8912", null ],
-    [ "CanAddMember", "d9/d8e/a10517.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveArenaStatsForMember", "d9/d8e/a10517.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
-    [ "CanSaveToDB", "d9/d8e/a10517.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "d9/d8e/a10517.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnArenaStart", "d9/d8e/a10517.html#ae67b000b16f56309da56f672a9f2b423", null ],
-    [ "OnBeforeArenaCheckWinConditions", "d9/d8e/a10517.html#a2b46190a3243f2306a74295975dca317", null ],
-    [ "OnBeforeArenaTeamMemberUpdate", "d9/d8e/a10517.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
-    [ "OnGetPoints", "d9/d8e/a10517.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "Flags", "d9/d8e/a10517.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "d9/d8e/a10517.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "d9/d8e/a10517.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "d9/d8e/a10517.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "d9/d8e/a10517.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "d9/d8e/a10517.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "d9/d8e/a10517.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

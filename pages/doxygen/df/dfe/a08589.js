@@ -1,7 +1,9 @@
 var a08589 =
 [
-    [ "EnchStoreItem", "df/dfe/a08589.html#a89019e156774c5b978251479264e5463", null ],
-    [ "EnchStoreItem", "df/dfe/a08589.html#aca83bb20eb6153faeaf599b07b97e357", null ],
-    [ "chance", "df/dfe/a08589.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
-    [ "ench", "df/dfe/a08589.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
+    [ "artKits", "df/dfe/a08589.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
+    [ "entry", "df/dfe/a08589.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
+    [ "faction", "df/dfe/a08589.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
+    [ "flags", "df/dfe/a08589.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
+    [ "maxgold", "df/dfe/a08589.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
+    [ "mingold", "df/dfe/a08589.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
 ];

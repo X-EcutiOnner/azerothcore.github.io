@@ -1,8 +1,6 @@
 var a12877 =
 [
-    [ "boss_garrAI", "da/d15/a12877.html#a12d403a90bf4920763ddd87b252f544a", null ],
-    [ "JustEngagedWith", "da/d15/a12877.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
-    [ "Reset", "da/d15/a12877.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
-    [ "UpdateAI", "da/d15/a12877.html#aca82837e143f4509db221de15276b90c", null ],
-    [ "massEruptionTimer", "da/d15/a12877.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
+    [ "instance_deadmines_InstanceMapScript", "dc/d49/a12881.html", "dc/d49/a12881" ],
+    [ "instance_deadmines", "da/d15/a12877.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
+    [ "GetInstanceScript", "da/d15/a12877.html#ac5cb65972d52324cedf662cc44dca626", null ]
 ];

@@ -1,8 +1,12 @@
 var a19745 =
 [
-    [ "Load", "d4/d0a/a19745.html#af8ef90a44a5405e58dbb3003642c078b", null ],
-    [ "PrepareSpellScript", "d4/d0a/a19745.html#a40649371440d62e4ba8af1b077880d0b", null ],
-    [ "Register", "d4/d0a/a19745.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
-    [ "SendThreeTargets", "d4/d0a/a19745.html#ab16b83839ce9136da84691640020f846", null ],
-    [ "Validate", "d4/d0a/a19745.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
+    [ "boss_sjonnirAI", "d4/d0a/a19745.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "d4/d0a/a19745.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "d4/d0a/a19745.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "d4/d0a/a19745.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "d4/d0a/a19745.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "d4/d0a/a19745.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "d4/d0a/a19745.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "ScheduleTasks", "d4/d0a/a19745.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "d4/d0a/a19745.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

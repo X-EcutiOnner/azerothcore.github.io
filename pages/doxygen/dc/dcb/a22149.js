@@ -1,5 +1,5 @@
 var a22149 =
 [
-    [ "go_pressure_valve", "dc/dcb/a22149.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
-    [ "OnGossipHello", "dc/dcb/a22149.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "dc/dcb/a22149.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
+    [ "GetOutdoorPvP", "dc/dcb/a22149.html#aee93a8191457d7a264053809a5c082e8", null ]
 ];

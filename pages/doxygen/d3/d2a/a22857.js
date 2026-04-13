@@ -1,9 +1,9 @@
 var a22857 =
 [
-    [ "FilterTargets", "d3/d2a/a22857.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "d3/d2a/a22857.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "d3/d2a/a22857.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "d3/d2a/a22857.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "d3/d2a/a22857.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "d3/d2a/a22857.html#a814083360970284a325621f45e109b5b", null ]
+    [ "CalcPeriodic", "d3/d2a/a22857.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
+    [ "HandleEffectApply", "d3/d2a/a22857.html#adb983cc531fa666648bbdb432684ff1d", null ],
+    [ "HandleEffectRemove", "d3/d2a/a22857.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
+    [ "OnPeriodic", "d3/d2a/a22857.html#aecefab535157dbe8e42aff3b23cd685b", null ],
+    [ "PrepareAuraScript", "d3/d2a/a22857.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
+    [ "Register", "d3/d2a/a22857.html#a3771abcc829883ba0cbae9587adbe751", null ]
 ];

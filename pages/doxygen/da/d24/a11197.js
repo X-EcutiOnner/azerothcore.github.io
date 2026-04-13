@@ -1,7 +1,9 @@
 var a11197 =
 [
-    [ "RandomRollClient", "da/d24/a11197.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "da/d24/a11197.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "da/d24/a11197.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "da/d24/a11197.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "ItemEnchantTimeUpdate", "da/d24/a11197.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
+    [ "Write", "da/d24/a11197.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
+    [ "Duration", "da/d24/a11197.html#ad576ce6011716519a70c6e00e0753a49", null ],
+    [ "ItemGuid", "da/d24/a11197.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
+    [ "PlayerGuid", "da/d24/a11197.html#a4623875e38909d8b7300e7d9c703b216", null ],
+    [ "Slot", "da/d24/a11197.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
 ];

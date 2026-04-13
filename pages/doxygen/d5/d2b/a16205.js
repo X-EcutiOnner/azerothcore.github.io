@@ -1,7 +1,6 @@
 var a16205 =
 [
-    [ "npc_ringoAI", "d0/daf/a16209.html", "d0/daf/a16209" ],
-    [ "npc_ringo", "d5/d2b/a16205.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "d5/d2b/a16205.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "d5/d2b/a16205.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
+    [ "npc_anub_ar_crusher_necromancer", "d5/d2b/a16205.html#a469d30b357551c4ce77f040bea79e951", null ],
+    [ "DoEngagedWith", "d5/d2b/a16205.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
+    [ "DoEvent", "d5/d2b/a16205.html#a67889b3a207ab26b7895e2f7996359b1", null ]
 ];

@@ -1,9 +1,10 @@
 var a28837 =
 [
-    [ "boss_ysondreAI", "d8/ded/a28837.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
-    [ "DamageTaken", "d8/ded/a28837.html#a99ee250e776001bb142815fc711ae75d", null ],
-    [ "ExecuteEvent", "d8/ded/a28837.html#a88e3caa536a71730c757590be1bd3de1", null ],
-    [ "JustEngagedWith", "d8/ded/a28837.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
-    [ "Reset", "d8/ded/a28837.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
-    [ "_stage", "d8/ded/a28837.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
+    [ "ID", "d8/ded/a28837.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "d8/ded/a28837.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "d8/ded/a28837.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "d8/ded/a28837.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "d8/ded/a28837.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "d8/ded/a28837.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "d8/ded/a28837.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

@@ -1,7 +1,6 @@
 var a15541 =
 [
-    [ "boss_rajaxx", "db/d29/a15541.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "db/d29/a15541.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "db/d29/a15541.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "db/d29/a15541.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d0/d05/a15545.html", "d0/d05/a15545" ],
+    [ "instance_temple_of_ahnqiraj", "db/d29/a15541.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "db/d29/a15541.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

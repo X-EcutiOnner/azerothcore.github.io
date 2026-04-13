@@ -1,6 +1,9 @@
 var a14201 =
 [
-    [ "npc_parqual_fintallas", "dc/d50/a14201.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
-    [ "OnGossipHello", "dc/d50/a14201.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
-    [ "OnGossipSelect", "dc/d50/a14201.html#a39276ef82ec5214a1727ebd60235a506", null ]
+    [ "npc_zulaman_hostageAI", "dc/d50/a14201.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "dc/d50/a14201.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "dc/d50/a14201.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "dc/d50/a14201.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "dc/d50/a14201.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "dc/d50/a14201.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

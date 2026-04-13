@@ -1,10 +1,11 @@
 var a22913 =
 [
-    [ "CalculateAmount", "dc/de1/a22913.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
-    [ "CheckProc", "dc/de1/a22913.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
-    [ "HandleProc", "dc/de1/a22913.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
-    [ "PrepareAuraScript", "dc/de1/a22913.html#a6e066884663276dbba82e46ca5f66e59", null ],
-    [ "Register", "dc/de1/a22913.html#ac4154f0746e77229e8d349021d5b9c30", null ],
-    [ "Update", "dc/de1/a22913.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
-    [ "Validate", "dc/de1/a22913.html#a4f10d23f63c47b408b70373623b877a8", null ]
+    [ "boss_ahune", "dc/de1/a22913.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "dc/de1/a22913.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "dc/de1/a22913.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "dc/de1/a22913.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "dc/de1/a22913.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "dc/de1/a22913.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "dc/de1/a22913.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "dc/de1/a22913.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

@@ -1,9 +1,7 @@
 var a27157 =
 [
-    [ "CheckCast", "df/da3/a27157.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
-    [ "HandleActiveObject", "df/da3/a27157.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
-    [ "HandleDummy", "df/da3/a27157.html#a39dd06ae92d04060ee41897318a701fd", null ],
-    [ "Load", "df/da3/a27157.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
-    [ "PrepareSpellScript", "df/da3/a27157.html#a016e480d7b2267c9bf824c9cb029f134", null ],
-    [ "Register", "df/da3/a27157.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
+    [ "AfterRemove", "df/da3/a27157.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "df/da3/a27157.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "df/da3/a27157.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "df/da3/a27157.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

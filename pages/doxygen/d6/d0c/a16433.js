@@ -1,5 +1,7 @@
 var a16433 =
 [
-    [ "achievement_watch_him_die", "d6/d0c/a16433.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "d6/d0c/a16433.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "OnApply", "d6/d0c/a16433.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
+    [ "PrepareAuraScript", "d6/d0c/a16433.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
+    [ "Register", "d6/d0c/a16433.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
+    [ "Validate", "d6/d0c/a16433.html#a2c9e4d82bd25f439e01a05700563b122", null ]
 ];

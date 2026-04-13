@@ -1,7 +1,8 @@
 var a23305 =
 [
-    [ "HandleScriptEffect", "dc/d9a/a23305.html#ad5e905710a20436f120c979c865571c9", null ],
-    [ "PrepareSpellScript", "dc/d9a/a23305.html#ab44aa98f47162b50f30622d67ac75395", null ],
-    [ "Register", "dc/d9a/a23305.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
-    [ "Validate", "dc/d9a/a23305.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
+    [ "npc_warchief_portal", "dc/d9a/a23305.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "dc/d9a/a23305.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "dc/d9a/a23305.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "dc/d9a/a23305.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "dc/d9a/a23305.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

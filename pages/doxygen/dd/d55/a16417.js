@@ -1,6 +1,10 @@
 var a16417 =
 [
-    [ "FilterTargets", "dd/d55/a16417.html#aff3223d9b3df91f9261aa2f45373f846", null ],
-    [ "PrepareSpellScript", "dd/d55/a16417.html#a3ca9ba182a313fb741b15df63408a90e", null ],
-    [ "Register", "dd/d55/a16417.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
+    [ "spell_halion_damage_aoe_summon", "dd/d55/a16417.html#a6152e7a0515076af2c7c2155506257b0", null ],
+    [ "HandleSummon", "dd/d55/a16417.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
+    [ "PrepareSpellScript", "dd/d55/a16417.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
+    [ "Register", "dd/d55/a16417.html#aa1f9239a2910d53c85539abba6333893", null ],
+    [ "Validate", "dd/d55/a16417.html#acb359257b29354b5962d9865e06137e7", null ],
+    [ "_auraSpell", "dd/d55/a16417.html#a497a74eca703470964157639a6f372e2", null ],
+    [ "_explosionSpell", "dd/d55/a16417.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
 ];

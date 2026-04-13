@@ -1,7 +1,9 @@
 var a19437 =
 [
-    [ "HandleScript", "d6/d4a/a19437.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "d6/d4a/a19437.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "d6/d4a/a19437.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "d6/d4a/a19437.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "npc_nexus_lord", "d6/d4a/a19437.html#ab66ba12059e8a028972d21afc11fb309", null ],
+    [ "AttackStart", "d6/d4a/a19437.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
+    [ "JustDied", "d6/d4a/a19437.html#ae97f816c5fcb71343d8483345723c300", null ],
+    [ "JustEngagedWith", "d6/d4a/a19437.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
+    [ "UpdateAI", "d6/d4a/a19437.html#acdd7954382f0de84e90d329ec0720a6d", null ],
+    [ "timer", "d6/d4a/a19437.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
 ];

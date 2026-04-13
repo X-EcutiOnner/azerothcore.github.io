@@ -1,8 +1,10 @@
 var a09709 =
 [
-    [ "AllCreaturesMatchingOneEntryInRange", "db/d7b/a09709.html#a440899ae5e52fedea316b7caa550455e", null ],
-    [ "operator()", "db/d7b/a09709.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
-    [ "m_fRange", "db/d7b/a09709.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
-    [ "m_pObject", "db/d7b/a09709.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
-    [ "m_uiEntries", "db/d7b/a09709.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
+    [ "AnyPlayerInObjectRangeCheck", "db/d7b/a09709.html#ae636bd72045687920ec1d460508bc74b", null ],
+    [ "operator()", "db/d7b/a09709.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
+    [ "operator()", "db/d7b/a09709.html#a70c477213c8b271d3402857edd87ef8b", null ],
+    [ "_disallowGM", "db/d7b/a09709.html#a9c43efd575de2edfdaa0b84def91c727", null ],
+    [ "_obj", "db/d7b/a09709.html#a07a346225f675433792d2298673acd1f", null ],
+    [ "_range", "db/d7b/a09709.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
+    [ "_reqAlive", "db/d7b/a09709.html#af1e397c5033711e65d9ac5b35311e893", null ]
 ];

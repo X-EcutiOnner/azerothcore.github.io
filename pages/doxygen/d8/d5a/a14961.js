@@ -1,6 +1,6 @@
 var a14961 =
 [
-    [ "OnApply", "d8/d5a/a14961.html#a30d33268b58507c228a4628031bffca0", null ],
-    [ "PrepareAuraScript", "d8/d5a/a14961.html#a16dc3f52152d63b5512690c761f9915a", null ],
-    [ "Register", "d8/d5a/a14961.html#a6494e4d7277e910ffa3b30c333117f00", null ]
+    [ "OnRemove", "d8/d5a/a14961.html#af9da33426d8ea4462f7d9957c4312019", null ],
+    [ "PrepareAuraScript", "d8/d5a/a14961.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
+    [ "Register", "d8/d5a/a14961.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
 ];

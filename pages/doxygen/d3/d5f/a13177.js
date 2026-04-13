@@ -1,5 +1,6 @@
 var a13177 =
 [
-    [ "at_karazhan_atiesh_aran", "d3/d5f/a13177.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
-    [ "OnTrigger", "d3/d5f/a13177.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
+    [ "boss_kagani_nightstrike", "d3/d5f/a13177.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "d3/d5f/a13177.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "d3/d5f/a13177.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

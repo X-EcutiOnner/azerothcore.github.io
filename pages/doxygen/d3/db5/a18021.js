@@ -1,8 +1,7 @@
 var a18021 =
 [
-    [ "ResetEncounterEvent", "d3/db5/a18021.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "d3/db5/a18021.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "d3/db5/a18021.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "d3/db5/a18021.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "d3/db5/a18021.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "HandleSpikes", "d3/db5/a18021.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "d3/db5/a18021.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "d3/db5/a18021.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "d3/db5/a18021.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

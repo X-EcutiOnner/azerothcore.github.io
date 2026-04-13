@@ -1,5 +1,6 @@
 var a23425 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d9/de3/a23425.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "d9/de3/a23425.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "HandlePeriodic", "d9/de3/a23425.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "d9/de3/a23425.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "d9/de3/a23425.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

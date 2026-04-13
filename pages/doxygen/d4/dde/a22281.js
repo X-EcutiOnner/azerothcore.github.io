@@ -1,6 +1,8 @@
 var a22281 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d4/dde/a22281.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "d4/dde/a22281.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "d4/dde/a22281.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "boss_darkweaver_syth", "d4/dde/a22281.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "d4/dde/a22281.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "d4/dde/a22281.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "d4/dde/a22281.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "d4/dde/a22281.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

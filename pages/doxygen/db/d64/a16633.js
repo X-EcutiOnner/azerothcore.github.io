@@ -1,7 +1,12 @@
 var a16633 =
 [
-    [ "OnApply", "db/d64/a16633.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "db/d64/a16633.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "db/d64/a16633.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "db/d64/a16633.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "npc_swarm_scarabAI", "db/d64/a16633.html#a0d0cefd52543044773e7df772f90fd37", null ],
+    [ "CanAIAttack", "db/d64/a16633.html#a95a27742f4f7fa1af45964b6270a9558", null ],
+    [ "DoAction", "db/d64/a16633.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
+    [ "JustDied", "db/d64/a16633.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
+    [ "JustEngagedWith", "db/d64/a16633.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
+    [ "Reset", "db/d64/a16633.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
+    [ "UpdateAI", "db/d64/a16633.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
+    [ "despawnTimer", "db/d64/a16633.html#a6d35e43af695ac112b972badb665f06d", null ],
+    [ "determinationTimer", "db/d64/a16633.html#af319dbf16bc1d3939602465f0a87d30c", null ]
 ];

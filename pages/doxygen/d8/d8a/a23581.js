@@ -1,7 +1,6 @@
 var a23581 =
 [
-    [ "HandleDummyApply", "d8/d8a/a23581.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "d8/d8a/a23581.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "d8/d8a/a23581.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "d8/d8a/a23581.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d0/d13/a23585.html", "d0/d13/a23585" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "d8/d8a/a23581.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "d8/d8a/a23581.html#a250707096229da28024960beeb7725bf", null ]
 ];

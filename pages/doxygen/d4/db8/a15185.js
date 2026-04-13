@@ -1,8 +1,8 @@
 var a15185 =
 [
-    [ "hyjalTyrandeAI", "d4/db8/a15185.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "d4/db8/a15185.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "d4/db8/a15185.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "d4/db8/a15185.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "d4/db8/a15185.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "Load", "d4/db8/a15185.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "d4/db8/a15185.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "d4/db8/a15185.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "d4/db8/a15185.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "d4/db8/a15185.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

@@ -1,9 +1,6 @@
 var a21589 =
 [
-    [ "npc_warmage_coldarraAI", "d5/df1/a21589.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d5/df1/a21589.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d5/df1/a21589.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d5/df1/a21589.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d5/df1/a21589.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d5/df1/a21589.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_lake_frogAI", "da/d8f/a21593.html", "da/d8f/a21593" ],
+    [ "npc_lake_frog", "d5/df1/a21589.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "d5/df1/a21589.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

@@ -1,7 +1,9 @@
 var a28217 =
 [
-    [ "go_darkmoon_faire_musicAI", "d8/d46/a28217.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "d8/d46/a28217.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "d8/d46/a28217.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "d8/d46/a28217.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "npc_fireworkAI", "d8/d46/a28217.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d8/d46/a28217.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d8/d46/a28217.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d8/d46/a28217.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d8/d46/a28217.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d8/d46/a28217.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

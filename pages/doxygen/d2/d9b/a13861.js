@@ -1,6 +1,6 @@
 var a13861 =
 [
-    [ "HandlePeriodic", "d2/d9b/a13861.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
-    [ "PrepareAuraScript", "d2/d9b/a13861.html#a7ac99d626990f068a00f403847bfa6bc", null ],
-    [ "Register", "d2/d9b/a13861.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
+    [ "npc_balance_of_light_and_shadowAI", "dd/d64/a13865.html", "dd/d64/a13865" ],
+    [ "npc_balance_of_light_and_shadow", "d2/d9b/a13861.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "d2/d9b/a13861.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

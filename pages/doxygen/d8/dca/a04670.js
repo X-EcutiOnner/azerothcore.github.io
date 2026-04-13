@@ -1,20 +1,19 @@
 var a04670 =
 [
-    [ "PlayerSetting", "d4/df8/a08914.html", "d4/df8/a08914" ],
-    [ "PlayerSettingMap", "d8/dca/a04670.html#a03676554928fdf5649c8c7f77a128d04", null ],
-    [ "PlayerSettingVector", "d8/dca/a04670.html#a5c88535ec12f87cc432b1c594bf05326", null ],
-    [ "AnnouncerFlags", "d8/dca/a04670.html#a32dfba2d10d91879403874fc75b928fd", [
-      [ "ANNOUNCER_FLAG_DISABLE_BG_QUEUE", "d8/dca/a04670.html#a32dfba2d10d91879403874fc75b928fdade902d5cd94d828fb33601d0d2461828", null ],
-      [ "ANNOUNCER_FLAG_DISABLE_ARENA_QUEUE", "d8/dca/a04670.html#a32dfba2d10d91879403874fc75b928fda9135a4bbd55879aac0e222d69a6a1704", null ],
-      [ "ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST", "d8/dca/a04670.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e", null ]
+    [ "VMAP::AreaAndLiquidData", "d6/d88/a05205.html", "d6/d88/a05205" ],
+    [ "VMAP::AreaAndLiquidData::AreaInfo", "d7/dd9/a05209.html", "d7/dd9/a05209" ],
+    [ "VMAP::AreaAndLiquidData::LiquidInfo", "d3/dbd/a05213.html", "d3/dbd/a05213" ],
+    [ "VMAP::IVMapMgr", "d9/d28/a05217.html", "d9/d28/a05217" ],
+    [ "VMAP_INVALID_HEIGHT", "d8/dca/a04670.html#aa3e862468079e7d1ca850fab429fb316", null ],
+    [ "VMAP_INVALID_HEIGHT_VALUE", "d8/dca/a04670.html#a6d0d846568e1fbb60e05aacfa9c1c73c", null ],
+    [ "LoadResult", "d8/dca/a04670.html#a3ca4e45c9be5012fb1af06ea12b759c2", [
+      [ "Success", "d8/dca/a04670.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38", null ],
+      [ "FileNotFound", "d8/dca/a04670.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2", null ],
+      [ "VersionMismatch", "d8/dca/a04670.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31", null ]
     ] ],
-    [ "CharacterSettingIndexes", "d8/dca/a04670.html#acd2ee27596acf5e6804faaf9e7b6a1f5", [
-      [ "SETTING_ANNOUNCER_FLAGS", "d8/dca/a04670.html#acd2ee27596acf5e6804faaf9e7b6a1f5a87ac7ec64e9a96e600fff40b442b4ca4", null ],
-      [ "MAX_CHAR_SETTINGS", "d8/dca/a04670.html#acd2ee27596acf5e6804faaf9e7b6a1f5af9d926aa507c306441abf0cd93f9412c", null ]
-    ] ],
-    [ "ParseSettingsData", "d8/dca/a04670.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
-    [ "PrepareReplaceStatement", "d8/dca/a04670.html#a0d5c2c2c4a1dede6bfb6e9fb0763b641", null ],
-    [ "SerializeSettingsData", "d8/dca/a04670.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
-    [ "UpdateSetting", "d8/dca/a04670.html#ab725e991f09f03e0413ffe44fa807ead", null ],
-    [ "AzerothcorePSSource", "d8/dca/a04670.html#a50fa156f5e934ed3fa7108da4c510f28", null ]
+    [ "VMAP_LOAD_RESULT", "d8/dca/a04670.html#a70f18a0d29fcdc21e145ab8306987b18", [
+      [ "VMAP_LOAD_RESULT_ERROR", "d8/dca/a04670.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663", null ],
+      [ "VMAP_LOAD_RESULT_OK", "d8/dca/a04670.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b", null ],
+      [ "VMAP_LOAD_RESULT_IGNORED", "d8/dca/a04670.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165", null ]
+    ] ]
 ];

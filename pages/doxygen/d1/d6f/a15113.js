@@ -1,7 +1,14 @@
 var a15113 =
 [
-    [ "HandleProc", "d1/d6f/a15113.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
-    [ "PrepareAuraScript", "d1/d6f/a15113.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
-    [ "Register", "d1/d6f/a15113.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
-    [ "Validate", "d1/d6f/a15113.html#a18398f81a80f9a1f47958de3be7b9189", null ]
+    [ "boss_captain_skarloc", "d1/d6f/a15113.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "d1/d6f/a15113.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "d1/d6f/a15113.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "d1/d6f/a15113.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "d1/d6f/a15113.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "d1/d6f/a15113.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "d1/d6f/a15113.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "d1/d6f/a15113.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "d1/d6f/a15113.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "d1/d6f/a15113.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "d1/d6f/a15113.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

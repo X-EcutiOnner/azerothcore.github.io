@@ -1,7 +1,5 @@
 var a20001 =
 [
-    [ "HandleScript", "d1/de4/a20001.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d1/de4/a20001.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d1/de4/a20001.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d1/de4/a20001.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "FlameLeviathanPursuedTargetSelector", "d1/de4/a20001.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
+    [ "operator()", "d1/de4/a20001.html#aaa2a49366fb651f7486b463ce597f364", null ]
 ];

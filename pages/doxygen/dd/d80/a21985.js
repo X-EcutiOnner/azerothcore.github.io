@@ -1,6 +1,8 @@
 var a21985 =
 [
-    [ "npc_razael_and_lyana", "dd/d80/a21985.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "dd/d80/a21985.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "dd/d80/a21985.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "npc_oathbound_warder", "dd/d80/a21985.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "dd/d80/a21985.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "dd/d80/a21985.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "dd/d80/a21985.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "dd/d80/a21985.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

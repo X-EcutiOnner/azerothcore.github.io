@@ -1,12 +1,14 @@
 var a30640 =
 [
-    [ "Bounds", "d3/d92/a30640.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
-    [ "DoodadSet", "d3/d92/a30640.html#abbf6e50e76b120be17215cfcf227a524", null ],
-    [ "Flags", "d3/d92/a30640.html#a06f5e96119239356eea45b9acdadf6e1", null ],
-    [ "Id", "d3/d92/a30640.html#a952442c180e8d3710af31272b54eb6ec", null ],
-    [ "NameSet", "d3/d92/a30640.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
-    [ "Position", "d3/d92/a30640.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
-    [ "Rotation", "d3/d92/a30640.html#a2c04715e800b9f375c287cced96643d1", null ],
-    [ "Scale", "d3/d92/a30640.html#a142716fecae07abc013c7f3bd053c0ea", null ],
-    [ "UniqueId", "d3/d92/a30640.html#a749e920740b9e91547fe1f87933d1c7d", null ]
+    [ "file_MVER", "de/d79/a29609.html", "de/d79/a29609" ],
+    [ "FileLoader", "d3/dc8/a29617.html", "d3/dc8/a29617" ],
+    [ "FILE_FORMAT_VERSION", "d3/d92/a30640.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
+    [ "int16", "d3/d92/a30640.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
+    [ "int32", "d3/d92/a30640.html#ab7903878916593daecbeb95b98115ab0", null ],
+    [ "int64", "d3/d92/a30640.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
+    [ "int8", "d3/d92/a30640.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
+    [ "uint16", "d3/d92/a30640.html#ac2a9e79eb120216f855626495b7bd18a", null ],
+    [ "uint32", "d3/d92/a30640.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
+    [ "uint64", "d3/d92/a30640.html#abc0f5bc07737e498f287334775dff2b6", null ],
+    [ "uint8", "d3/d92/a30640.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
 ];

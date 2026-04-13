@@ -1,15 +1,8 @@
 var a14405 =
 [
-    [ "npc_amanishi_tempest", "db/def/a14405.html#a8e15b39501998e9f8c45baef0963d160", null ],
-    [ "DoAction", "db/def/a14405.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
-    [ "EnterEvadeMode", "db/def/a14405.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
-    [ "JustDied", "db/def/a14405.html#aadda903d17a5f4560ce2db896bd7b257", null ],
-    [ "JustEngagedWith", "db/def/a14405.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
-    [ "JustSummoned", "db/def/a14405.html#aac72fdc33051370c3cffa388f466b6be", null ],
-    [ "Reset", "db/def/a14405.html#aa921f85142f9103bea839bdc0330e1cc", null ],
-    [ "ScheduleEvents", "db/def/a14405.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
-    [ "SummonedCreatureEvade", "db/def/a14405.html#a61eebb122c9288c826cdf352c17e0590", null ],
-    [ "UpdateAI", "db/def/a14405.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
-    [ "_instance", "db/def/a14405.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
-    [ "_summons", "db/def/a14405.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
+    [ "npc_spawn_of_marli", "db/def/a14405.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "db/def/a14405.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "db/def/a14405.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "db/def/a14405.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "db/def/a14405.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

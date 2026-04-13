@@ -1,8 +1,7 @@
 var a22601 =
 [
-    [ "boss_pandemonius", "d6/d90/a22601.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d6/d90/a22601.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d6/d90/a22601.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d6/d90/a22601.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d6/d90/a22601.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "HandleEffectApply", "d6/d90/a22601.html#a5857dbdb088de67cc15717dca0c5f7b5", null ],
+    [ "HandleEffectRemove", "d6/d90/a22601.html#aab0536f7f73d9e354a526f56f587fff0", null ],
+    [ "PrepareAuraScript", "d6/d90/a22601.html#a80a6b51bc6c1457edc0fb8a0089513d1", null ],
+    [ "Register", "d6/d90/a22601.html#a194ff31e6168bca23881f3804154d479", null ]
 ];

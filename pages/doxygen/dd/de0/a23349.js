@@ -1,8 +1,10 @@
 var a23349 =
 [
-    [ "boss_mekgineer_steamrigger", "dd/de0/a23349.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "dd/de0/a23349.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "dd/de0/a23349.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "dd/de0/a23349.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "dd/de0/a23349.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "boss_harbinger_skyriss", "dd/de0/a23349.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "dd/de0/a23349.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "dd/de0/a23349.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "dd/de0/a23349.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "dd/de0/a23349.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "dd/de0/a23349.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "dd/de0/a23349.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

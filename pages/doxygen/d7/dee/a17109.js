@@ -1,6 +1,7 @@
 var a17109 =
 [
-    [ "npc_concentrated_ballAI", "d0/d9e/a17113.html", "d0/d9e/a17113" ],
-    [ "npc_concentrated_ball", "d7/dee/a17109.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "d7/dee/a17109.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "OnRemove", "d7/dee/a17109.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "d7/dee/a17109.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "d7/dee/a17109.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "d7/dee/a17109.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

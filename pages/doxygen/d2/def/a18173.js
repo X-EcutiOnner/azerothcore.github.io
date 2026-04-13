@@ -1,7 +1,6 @@
 var a18173 =
 [
-    [ "FilterTargets", "d2/def/a18173.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
-    [ "HandleDummy", "d2/def/a18173.html#a04166e4e5a4ba082755433555855cb30", null ],
-    [ "PrepareSpellScript", "d2/def/a18173.html#aaefa58014db12fb76e3416ae807c69e8", null ],
-    [ "Register", "d2/def/a18173.html#a497ee30669d45341023abe549c91ddaf", null ]
+    [ "npc_little_oozeAI", "dd/d80/a18177.html", "dd/d80/a18177" ],
+    [ "npc_little_ooze", "d2/def/a18173.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "d2/def/a18173.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

@@ -1,6 +1,6 @@
 var a17313 =
 [
-    [ "boss_falricAI", "da/d45/a17317.html", "da/d45/a17317" ],
-    [ "boss_falric", "d8/dfc/a17313.html#aa64253f502f79db5947c09788fb66deb", null ],
-    [ "GetAI", "d8/dfc/a17313.html#a95249877208d19bb54edd8de18616158", null ]
+    [ "npc_pos_freed_slaveAI", "d8/dfc/a17313.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d8/dfc/a17313.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d8/dfc/a17313.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

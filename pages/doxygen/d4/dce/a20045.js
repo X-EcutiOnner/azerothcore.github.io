@@ -1,9 +1,6 @@
 var a20045 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d4/dce/a20045.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "d4/dce/a20045.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "d4/dce/a20045.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "d4/dce/a20045.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "d4/dce/a20045.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "d4/dce/a20045.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "achievement_flame_leviathan_towers", "d4/dce/a20045.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "d4/dce/a20045.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "d4/dce/a20045.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

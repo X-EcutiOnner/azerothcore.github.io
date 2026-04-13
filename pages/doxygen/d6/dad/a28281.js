@@ -1,5 +1,6 @@
 var a28281 =
 [
-    [ "go_table_theka", "d6/dad/a28281.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d6/dad/a28281.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "npc_necropolis_proxy", "d6/dad/a28281.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "d6/dad/a28281.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "d6/dad/a28281.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

@@ -1,11 +1,11 @@
 var a07461 =
 [
-    [ "WGWorkshop", "df/dee/a07461.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
-    [ "GiveControlTo", "df/dee/a07461.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
-    [ "Save", "df/dee/a07461.html#adede1c780178f20dc8339320a021e4b6", null ],
-    [ "UpdateGraveyardAndWorkshop", "df/dee/a07461.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
-    [ "bf", "df/dee/a07461.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
-    [ "state", "df/dee/a07461.html#a279d47c85843e884edef1f82b9654cd8", null ],
-    [ "teamControl", "df/dee/a07461.html#a196c8d0094a34c18835840e046fd39ef", null ],
-    [ "workshopId", "df/dee/a07461.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
+    [ "gyid", "df/dee/a07461.html#a742fcc91d2daf1a9331f02a90496328c", null ],
+    [ "o", "df/dee/a07461.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
+    [ "startcontrol", "df/dee/a07461.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
+    [ "textid", "df/dee/a07461.html#a87d80377ad632b9d667eecf11ae8faae", null ],
+    [ "type", "df/dee/a07461.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
+    [ "x", "df/dee/a07461.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
+    [ "y", "df/dee/a07461.html#a405e8098772e77250683985f957ce5f3", null ],
+    [ "z", "df/dee/a07461.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
 ];

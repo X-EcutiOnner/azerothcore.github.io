@@ -1,6 +1,7 @@
 var a26629 =
 [
-    [ "HandleRemove", "d1/d08/a26629.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "d1/d08/a26629.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "d1/d08/a26629.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "if", "d1/d08/a26629.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "d1/d08/a26629.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "d1/d08/a26629.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "d1/d08/a26629.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

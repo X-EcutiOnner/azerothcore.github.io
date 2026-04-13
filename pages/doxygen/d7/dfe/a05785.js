@@ -1,6 +1,7 @@
 var a05785 =
 [
-    [ "FromString", "d7/dfe/a05785.html#a9d10adc7fc7e9ba967ce0704ff369019", null ],
-    [ "FromString", "d7/dfe/a05785.html#a465a6f446d3482578b583d54f0109516", null ],
-    [ "ToString", "d7/dfe/a05785.html#a8e3130708d0068bd82f9c2861b130303", null ]
+    [ "Count", "d7/dfe/a05785.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
+    [ "FromIndex", "d7/dfe/a05785.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
+    [ "ToIndex", "d7/dfe/a05785.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
+    [ "ToString", "d7/dfe/a05785.html#a8d3379c79f103655dd49d993402b741d", null ]
 ];

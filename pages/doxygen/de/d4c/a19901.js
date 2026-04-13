@@ -1,7 +1,6 @@
 var a19901 =
 [
-    [ "HandleProc", "de/d4c/a19901.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "de/d4c/a19901.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "de/d4c/a19901.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "de/d4c/a19901.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "HandleInstaKill", "de/d4c/a19901.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "de/d4c/a19901.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "de/d4c/a19901.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

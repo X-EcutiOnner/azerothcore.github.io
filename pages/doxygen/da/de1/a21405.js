@@ -1,5 +1,12 @@
 var a21405 =
 [
-    [ "go_vh_activation_crystal", "da/de1/a21405.html#a4af485ac7ab6144282f3204a6d045cea", null ],
-    [ "OnGossipHello", "da/de1/a21405.html#a47a61ba67086580135559332931e9c6e", null ]
+    [ "npc_wintergarde_gryphon", "da/de1/a21405.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
+    [ "getVillager", "da/de1/a21405.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
+    [ "IsSummonedBy", "da/de1/a21405.html#acd7cea6226034d53b854c5ed659ff949", null ],
+    [ "JustDied", "da/de1/a21405.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
+    [ "MovementInform", "da/de1/a21405.html#a8f2faf49533d27d971110681e050c060", null ],
+    [ "PassengerBoarded", "da/de1/a21405.html#a16c01d26aef06358f979f59fe68c09ca", null ],
+    [ "SpellHit", "da/de1/a21405.html#acf64143ea83321556156fde30e1a34d4", null ],
+    [ "UpdateAI", "da/de1/a21405.html#aa161f280e7a7370696cecc27c51ee55c", null ],
+    [ "villagerGUID", "da/de1/a21405.html#a56a7973a05061197192111ecf55ef14a", null ]
 ];

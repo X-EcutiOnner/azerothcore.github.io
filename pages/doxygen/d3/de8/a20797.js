@@ -1,18 +1,7 @@
 var a20797 =
 [
-    [ "boss_xt002", "d3/de8/a20797.html#afd9e4cbeadc453922b43d21dce621bd4", null ],
-    [ "AttachHeart", "d3/de8/a20797.html#a56cd1cb86b52bba527fd8610b5ec668e", null ],
-    [ "DoAction", "d3/de8/a20797.html#a5146e40e5530a014d552fbc92a62d595", null ],
-    [ "GetData", "d3/de8/a20797.html#a33d64c79af00c3e306fc0c63639d39fc", null ],
-    [ "JustDied", "d3/de8/a20797.html#a4afb96f905e61c8b35941a8481e19882", null ],
-    [ "JustEngagedWith", "d3/de8/a20797.html#a034de8d2644d5b1dfb07845faecc00a3", null ],
-    [ "JustReachedHome", "d3/de8/a20797.html#a31eae472c8da2f891e7d2c3424cf8075", null ],
-    [ "KilledUnit", "d3/de8/a20797.html#ae267d5941357b0e17061483103a8bb4c", null ],
-    [ "RescheduleEvents", "d3/de8/a20797.html#a3ff4223b4eecab9c8b193cd5f63d8f50", null ],
-    [ "Reset", "d3/de8/a20797.html#a0d33da735deae0fb5a22c4f7d6b19fa2", null ],
-    [ "UpdateAI", "d3/de8/a20797.html#a326eb111c3d94e1bb57e9fe6e1f38c57", null ],
-    [ "_gravityAchievement", "d3/de8/a20797.html#ae6fbbb1b43017878d74597bd95d51cd4", null ],
-    [ "_hardMode", "d3/de8/a20797.html#a2882a78918439bbc63902cab0179049c", null ],
-    [ "_healthCheck", "d3/de8/a20797.html#a82eedd2b45b0a67c3677ba398c24c540", null ],
-    [ "_nerfAchievement", "d3/de8/a20797.html#a19aeed1f8e5b3fb4ac34f752e5cb647d", null ]
+    [ "npc_frost_tomb", "d3/de8/a20797.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "d3/de8/a20797.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "d3/de8/a20797.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "d3/de8/a20797.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

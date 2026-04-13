@@ -1,15 +1,15 @@
 var a19585 =
 [
-    [ "boss_maexxnaAI", "d4/def/a19585.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
-    [ "DoCastWebWrap", "d4/def/a19585.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
-    [ "IsInRoom", "d4/def/a19585.html#a957bd38232c020611fc24dd8a6e55640", null ],
-    [ "JustDied", "d4/def/a19585.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
-    [ "JustEngagedWith", "d4/def/a19585.html#a9974fc771b3663878964aeb20914fe43", null ],
-    [ "JustSummoned", "d4/def/a19585.html#ab45b74b3067b42089fee804844ea41dd", null ],
-    [ "KilledUnit", "d4/def/a19585.html#a11cda2b905ef2381c317a01e4163be00", null ],
-    [ "Reset", "d4/def/a19585.html#a78385da6845ce8e3075616c24696d0cc", null ],
-    [ "UpdateAI", "d4/def/a19585.html#a6f0453babfa84764467970369894eb97", null ],
-    [ "events", "d4/def/a19585.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
-    [ "summons", "d4/def/a19585.html#a7ea3de40dfd638db7e34c523a0461335", null ],
-    [ "wraps", "d4/def/a19585.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
+    [ "boss_varosAI", "d4/def/a19585.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
+    [ "EnterEvadeMode", "d4/def/a19585.html#a0b7eeef4529b47357d729852cdeab002", null ],
+    [ "JustDied", "d4/def/a19585.html#a2724167a66a059e1c0ca1612d8405d68", null ],
+    [ "JustEngagedWith", "d4/def/a19585.html#a2f25555ca2884f6bffb289d209e87740", null ],
+    [ "JustSummoned", "d4/def/a19585.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
+    [ "MoveInLineOfSight", "d4/def/a19585.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
+    [ "Reset", "d4/def/a19585.html#aef24d04954a26bb6381c860403e84288", null ],
+    [ "UpdateAI", "d4/def/a19585.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
+    [ "events", "d4/def/a19585.html#a36746118770c936e7606962365e102d8", null ],
+    [ "pInstance", "d4/def/a19585.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
+    [ "step", "d4/def/a19585.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
+    [ "ZapAngle", "d4/def/a19585.html#aef225fcf580c5e500d3242ac4be24260", null ]
 ];

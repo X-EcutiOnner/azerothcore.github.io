@@ -1,9 +1,6 @@
 var a20633 =
 [
-    [ "npc_ulduar_bot_summon_trigger", "df/dfb/a20633.html#a0d489ab4f401fc44fbc712fb84f87ec7", null ],
-    [ "DoAction", "df/dfb/a20633.html#a776782a85892d2d674773573be25bfa0", null ],
-    [ "Reset", "df/dfb/a20633.html#a4ec8487028b188347cf0c9a080076fe6", null ],
-    [ "UpdateAI", "df/dfb/a20633.html#a788d3eaba382e3af897678f6709a0242", null ],
-    [ "option", "df/dfb/a20633.html#ac44b792e3b86372bbdc7033b14f1aefc", null ],
-    [ "timer", "df/dfb/a20633.html#a05dc6f7034c1b83869d2498e51e3a928", null ]
+    [ "boss_yoggsaron_influence_tentacle", "df/dfb/a20633.html#ac5908d64a4749303a08d352d470995dd", null ],
+    [ "DamageTaken", "df/dfb/a20633.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "df/dfb/a20633.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

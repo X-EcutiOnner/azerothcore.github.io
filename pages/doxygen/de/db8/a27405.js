@@ -1,6 +1,8 @@
 var a27405 =
 [
-    [ "HandlePeriodic", "de/db8/a27405.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "de/db8/a27405.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "de/db8/a27405.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "CheckProc", "de/db8/a27405.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
+    [ "HandleProc", "de/db8/a27405.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
+    [ "PrepareAuraScript", "de/db8/a27405.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
+    [ "Register", "de/db8/a27405.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
+    [ "Validate", "de/db8/a27405.html#a28801b99335380a7e366e766b6aaea2c", null ]
 ];

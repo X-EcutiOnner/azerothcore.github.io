@@ -1,7 +1,15 @@
 var a13405 =
 [
-    [ "HandleScriptEffect", "d1/d4d/a13405.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
-    [ "PrepareSpellScript", "d1/d4d/a13405.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
-    [ "Register", "d1/d4d/a13405.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
-    [ "Validate", "d1/d4d/a13405.html#a20f7416465ba1cc04426f24037e8074e", null ]
+    [ "boss_kormok", "d1/d4d/a13405.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
+    [ "DamageTaken", "d1/d4d/a13405.html#a2aa7fedea09b4d0526028826be2cb360", null ],
+    [ "IsSummonedBy", "d1/d4d/a13405.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
+    [ "JustDied", "d1/d4d/a13405.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
+    [ "JustEngagedWith", "d1/d4d/a13405.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
+    [ "JustSummoned", "d1/d4d/a13405.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
+    [ "Reset", "d1/d4d/a13405.html#a70252bf1680510294f62e2c42220156e", null ],
+    [ "SummonedCreatureDespawn", "d1/d4d/a13405.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
+    [ "UpdateAI", "d1/d4d/a13405.html#aea5651a98492885eb4d598714df4fd40", null ],
+    [ "_mages", "d1/d4d/a13405.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
+    [ "_scheduler", "d1/d4d/a13405.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
+    [ "_summons", "d1/d4d/a13405.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
 ];

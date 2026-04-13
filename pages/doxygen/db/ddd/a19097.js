@@ -1,6 +1,5 @@
 var a19097 =
 [
-    [ "npc_crok_scourgebaneAI", "d1/db2/a19101.html", "d1/db2/a19101" ],
-    [ "npc_crok_scourgebane", "db/ddd/a19097.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "db/ddd/a19097.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "creatureEntry", "db/ddd/a19097.html#afab12c40af70303dff2a9553d47dbb7d", null ],
+    [ "questId", "db/ddd/a19097.html#ace2a7dd58d442b6afb2173311c89593b", null ]
 ];

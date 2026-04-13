@@ -1,7 +1,6 @@
 var a18733 =
 [
-    [ "OnPeriodic", "df/d36/a18733.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "df/d36/a18733.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "df/d36/a18733.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "df/d36/a18733.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "npc_blistering_zombieAI", "d0/d7b/a18737.html", "d0/d7b/a18737" ],
+    [ "npc_blistering_zombie", "df/d36/a18733.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "df/d36/a18733.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

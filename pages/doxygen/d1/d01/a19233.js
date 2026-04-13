@@ -1,6 +1,7 @@
 var a19233 =
 [
-    [ "HandleScript", "d1/d01/a19233.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "d1/d01/a19233.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "d1/d01/a19233.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "FilterTargets", "d1/d01/a19233.html#a56ff062a6014099623466145a66284cc", null ],
+    [ "PrepareSpellScript", "d1/d01/a19233.html#aa14623bb948ff457e52979facf74ffab", null ],
+    [ "Register", "d1/d01/a19233.html#a9494bea35088161c9a520395d714fde1", null ],
+    [ "Validate", "d1/d01/a19233.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
 ];

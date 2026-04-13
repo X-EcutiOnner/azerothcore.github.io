@@ -1,7 +1,6 @@
 var a26113 =
 [
-    [ "HandleHeal", "de/d8a/a26113.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "de/d8a/a26113.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "de/d8a/a26113.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "de/d8a/a26113.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "CheckProc", "de/d8a/a26113.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
+    [ "PrepareAuraScript", "de/d8a/a26113.html#a42b97406721d3493a378394132a55981", null ],
+    [ "Register", "de/d8a/a26113.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
 ];

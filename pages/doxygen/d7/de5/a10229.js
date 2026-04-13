@@ -1,8 +1,6 @@
 var a10229 =
 [
-    [ "TimedFleeingMovementGenerator", "d7/de5/a10229.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
-    [ "Finalize", "d7/de5/a10229.html#a1a18f033663fa93ef0b9885aae21f766", null ],
-    [ "GetMovementGeneratorType", "d7/de5/a10229.html#a1533d13f4e786e498353805a2a2daf85", null ],
-    [ "Update", "d7/de5/a10229.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
-    [ "i_totalFleeTime", "d7/de5/a10229.html#a2858047459ff675383e7b86805702369", null ]
+    [ "IsNeutralOrFriendlyToTeam", "d7/de5/a10229.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
+    [ "safeLocId", "d7/de5/a10229.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
+    [ "teamId", "d7/de5/a10229.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
 ];

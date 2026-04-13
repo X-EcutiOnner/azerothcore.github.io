@@ -1,14 +1,15 @@
 var a21841 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "d4/df2/a21841.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
-    [ "ChangeImage", "d4/df2/a21841.html#a815e5c67b282e2840676b5453d94d5dc", null ],
-    [ "MovementInform", "d4/df2/a21841.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
-    [ "Reset", "d4/df2/a21841.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
-    [ "StoreTargets", "d4/df2/a21841.html#a0732307643a442bc3f070b9cc91d78c9", null ],
-    [ "TurnAudience", "d4/df2/a21841.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
-    [ "UpdateAI", "d4/df2/a21841.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
-    [ "_events", "d4/df2/a21841.html#a907626beb601f789a725d88d45689eb2", null ],
-    [ "audienceList", "d4/df2/a21841.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
-    [ "imageList", "d4/df2/a21841.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
-    [ "talkWing", "d4/df2/a21841.html#ace957ffe4fba8f229946d61d63c1798c", null ]
+    [ "npc_jungle_punch_targetAI", "d4/df2/a21841.html#a04f09361f6bc4bc752ca773878187f79", null ],
+    [ "MoveInLineOfSight", "d4/df2/a21841.html#adc08551a256220bab144ef26d89c4263", null ],
+    [ "proceedCwEvent", "d4/df2/a21841.html#a54f8a5c7414f4a9fd019e02fede1970d", null ],
+    [ "Reset", "d4/df2/a21841.html#a56faff3edbe0d13969e8d20e6c3e03a2", null ],
+    [ "SpellHit", "d4/df2/a21841.html#a3515e873adf5a097f66764887e3cc5a3", null ],
+    [ "UpdateAI", "d4/df2/a21841.html#afa2a1bcdeef51e9f984307f576a1ff6e", null ],
+    [ "orphanGUID", "d4/df2/a21841.html#a5947a4415b63f8bbda4d53c44ccebf74", null ],
+    [ "phase", "d4/df2/a21841.html#a737a9016c93d621bf8cfa29d6b66b345", null ],
+    [ "playerGUID", "d4/df2/a21841.html#afbb4e4c74c2634a442171f06bb2eff08", null ],
+    [ "sayStep", "d4/df2/a21841.html#a1b1757dd6e0775f1f4791b4feafd86fb", null ],
+    [ "sayTimer", "d4/df2/a21841.html#a4edf558dbc54ff1acab15d6daf0a5613", null ],
+    [ "timer", "d4/df2/a21841.html#a0fa884bf3003267501f048d3f1287d42", null ]
 ];

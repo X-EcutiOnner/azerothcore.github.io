@@ -1,8 +1,12 @@
 var a11053 =
 [
-    [ "SetDungeonDifficulty", "da/dc2/a11053.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
-    [ "Write", "da/dc2/a11053.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
-    [ "Difficulty", "da/dc2/a11053.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
-    [ "IsInGroup", "da/dc2/a11053.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
-    [ "Unk", "da/dc2/a11053.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
+    [ "Charges", "da/dc2/a11053.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
+    [ "Count", "da/dc2/a11053.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
+    [ "EnchantmentID", "da/dc2/a11053.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
+    [ "Flags", "da/dc2/a11053.html#a3ca816132a756d3dc939877c57f6045d", null ],
+    [ "ItemID", "da/dc2/a11053.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
+    [ "RandomPropertiesID", "da/dc2/a11053.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
+    [ "RandomPropertiesSeed", "da/dc2/a11053.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
+    [ "Slot", "da/dc2/a11053.html#afcc0a78c2f9a3061830679fece476a64", null ],
+    [ "SocketEnchant", "da/dc2/a11053.html#a55545d4d1b752e4f08bd05350b22892c", null ]
 ];

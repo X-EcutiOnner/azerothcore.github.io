@@ -1,6 +1,6 @@
 var a14857 =
 [
-    [ "HandleDummy", "db/d70/a14857.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "db/d70/a14857.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "db/d70/a14857.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "OnAuraRemove", "db/d70/a14857.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "db/d70/a14857.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "db/d70/a14857.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

@@ -1,9 +1,9 @@
 var a08781 =
 [
-    [ "ActionButton", "df/d52/a08781.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
-    [ "GetAction", "df/d52/a08781.html#a7c10f6089fab30179cfe8175b740477a", null ],
-    [ "GetType", "df/d52/a08781.html#abe5bc143770d411cff0d8c8c425b1253", null ],
-    [ "SetActionAndType", "df/d52/a08781.html#a29d804ed78d79f64e868e9741b37d7be", null ],
-    [ "packedData", "df/d52/a08781.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
-    [ "uState", "df/d52/a08781.html#a6384e73650da93c96d3b4cc42b151b63", null ]
+    [ "PetInfo", "d1/dca/a08785.html", "d1/dca/a08785" ],
+    [ "GetUnslottedHunterPet", "df/d52/a08781.html#a4e0e22a135703c989976694a32912cbd", null ],
+    [ "CurrentPet", "df/d52/a08781.html#a7a9f76452985abc65560773ac413208f", null ],
+    [ "MaxStabledPets", "df/d52/a08781.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
+    [ "StabledPets", "df/d52/a08781.html#a6bd064e692fff316581d08680b163026", null ],
+    [ "UnslottedPets", "df/d52/a08781.html#a8e6f6e36722dd883e6df962a1e950346", null ]
 ];

@@ -1,8 +1,6 @@
 var a23401 =
 [
-    [ "boss_the_black_stalker", "d0/da2/a23401.html#ac33519b374509cefe43b8e97701719ee", null ],
-    [ "JustEngagedWith", "d0/da2/a23401.html#ad118347103ec463a09492e81dbd61418", null ],
-    [ "JustSummoned", "d0/da2/a23401.html#a9e0299a99df83abb7de476a765b667b9", null ],
-    [ "SummonedCreatureDies", "d0/da2/a23401.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
-    [ "UpdateAI", "d0/da2/a23401.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
+    [ "instance_the_botanica_InstanceMapScript", "dc/d19/a23405.html", "dc/d19/a23405" ],
+    [ "instance_the_botanica", "d0/da2/a23401.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "d0/da2/a23401.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

@@ -1,7 +1,7 @@
 var a17877 =
 [
-    [ "OnProc", "db/d89/a17877.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "db/d89/a17877.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "db/d89/a17877.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "db/d89/a17877.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "FilterTargets", "db/d89/a17877.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "db/d89/a17877.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "db/d89/a17877.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "db/d89/a17877.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

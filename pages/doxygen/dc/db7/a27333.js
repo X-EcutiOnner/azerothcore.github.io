@@ -1,7 +1,9 @@
 var a27333 =
 [
-    [ "HandleEffect", "dc/db7/a27333.html#ab33c9312c9ac4096140a82f381d83235", null ],
-    [ "PrepareSpellScript", "dc/db7/a27333.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
-    [ "Register", "dc/db7/a27333.html#a1f5983124756eca5666ca6adbe5a4544", null ],
-    [ "Validate", "dc/db7/a27333.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
+    [ "CheckCast", "dc/db7/a27333.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "dc/db7/a27333.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "dc/db7/a27333.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "dc/db7/a27333.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "dc/db7/a27333.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "dc/db7/a27333.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

@@ -1,7 +1,6 @@
 var a28773 =
 [
-    [ "CharacterDeleteActionIpLogger", "d7/d03/a28773.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d7/d03/a28773.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnDelete", "d7/d03/a28773.html#a35ea1362df09fccf0c4cee2e9ef6deb9", null ],
-    [ "OnFailedDelete", "d7/d03/a28773.html#a34efd44289746078fdcfae63641b5580", null ]
+    [ "Id", "d7/d03/a28773.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d7/d03/a28773.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d7/d03/a28773.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

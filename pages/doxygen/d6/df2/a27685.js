@@ -1,7 +1,5 @@
 var a27685 =
 [
-    [ "HandleDummy", "d6/df2/a27685.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
-    [ "PrepareSpellScript", "d6/df2/a27685.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
-    [ "Register", "d6/df2/a27685.html#aee02661fa8845afd666ca27163b4a761", null ],
-    [ "Validate", "d6/df2/a27685.html#aba9079e2418281315029c839b22df1c5", null ]
+    [ "AreaTrigger_at_sentry_point", "d6/df2/a27685.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "d6/df2/a27685.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

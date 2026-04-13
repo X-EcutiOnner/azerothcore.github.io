@@ -1,6 +1,11 @@
 var a19925 =
 [
-    [ "HandlePeriodic", "de/d9f/a19925.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "de/d9f/a19925.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "de/d9f/a19925.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "npc_auriaya_feral_defender", "de/d9f/a19925.html#a84425204b0ad06789edb331ed8495774", null ],
+    [ "DoAction", "de/d9f/a19925.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
+    [ "JustDied", "de/d9f/a19925.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
+    [ "JustEngagedWith", "de/d9f/a19925.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
+    [ "Reset", "de/d9f/a19925.html#a02b09b7dfdd4036827bb474a57296491", null ],
+    [ "UpdateAI", "de/d9f/a19925.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
+    [ "_feralEssenceStack", "de/d9f/a19925.html#a1ffc377dbad787a5eb132758124df534", null ],
+    [ "_summons", "de/d9f/a19925.html#a0b7960f590ba76068c377cf08291ce35", null ]
 ];

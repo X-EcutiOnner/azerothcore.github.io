@@ -1,10 +1,12 @@
 var a18225 =
 [
-    [ "npc_cult_fanaticAI", "d6/dca/a18225.html#a766e536288b84110f88a8bd282e97932", null ],
-    [ "JustEngagedWith", "d6/dca/a18225.html#a709b75f4b1519bc7c6988985a22d076f", null ],
-    [ "Reset", "d6/dca/a18225.html#a772830df1d16d0463c8c00f14c337db0", null ],
-    [ "SpellHit", "d6/dca/a18225.html#a17c02a83b522c9717de3d89517104e42", null ],
-    [ "UpdateAI", "d6/dca/a18225.html#ac79afdab3721d78d2b7e5da360083cea", null ],
-    [ "_instance", "d6/dca/a18225.html#a7448fdf85cccfcb12509b0274205bff4", null ],
-    [ "events", "d6/dca/a18225.html#a9576978141062fa1babbbc5ed42483c4", null ]
+    [ "npc_precious_iccAI", "d6/dca/a18225.html#a90dff89c652339ecf7479d2c9233962a", null ],
+    [ "JustDied", "d6/dca/a18225.html#a06671144929a3783f17397b818016032", null ],
+    [ "JustEngagedWith", "d6/dca/a18225.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
+    [ "JustSummoned", "d6/dca/a18225.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
+    [ "Reset", "d6/dca/a18225.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
+    [ "SummonedCreatureDespawn", "d6/dca/a18225.html#af59e24c588861fe7d1bcd456780f571a", null ],
+    [ "UpdateAI", "d6/dca/a18225.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
+    [ "events", "d6/dca/a18225.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
+    [ "summons", "d6/dca/a18225.html#ab752e504c7cf463a4447a07fbb67211c", null ]
 ];

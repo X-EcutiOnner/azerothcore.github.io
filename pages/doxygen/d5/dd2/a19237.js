@@ -1,7 +1,6 @@
 var a19237 =
 [
-    [ "HandleEffectPeriodic", "d5/dd2/a19237.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "d5/dd2/a19237.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "d5/dd2/a19237.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "d5/dd2/a19237.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "boss_grobbulusAI", "d8/da0/a19241.html", "d8/da0/a19241" ],
+    [ "boss_grobbulus", "d5/dd2/a19237.html#acf1b781e86e33a363b68354d34d3c015", null ],
+    [ "GetAI", "d5/dd2/a19237.html#ae918614566a0b9979aef4e1aeaac394c", null ]
 ];

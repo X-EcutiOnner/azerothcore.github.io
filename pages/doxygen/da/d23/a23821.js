@@ -1,6 +1,5 @@
 var a23821 =
 [
-    [ "HandleScriptEffect", "da/d23/a23821.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
-    [ "PrepareSpellScript", "da/d23/a23821.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
-    [ "Register", "da/d23/a23821.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
+    [ "creature", "da/d23/a23821.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
+    [ "Timer", "da/d23/a23821.html#a2be497dc190c1f01f939e12083739882", null ]
 ];

@@ -1,6 +1,4 @@
 var a00533 =
 [
-    [ "UnitStub", "d4/d01/a29375.html", "d4/d01/a29375" ],
-    [ "UnitStub::CastRecord", "d7/d73/a29379.html", "d7/d73/a29379" ],
-    [ "MockUnitStub", "df/dd2/a29383.html", "df/dd2/a29383" ]
+    [ "ScriptRegistry< OutdoorPvPScript >", "db/d44/a00533.html#a87dac516981f5c502b37a0500f6f7882", null ]
 ];

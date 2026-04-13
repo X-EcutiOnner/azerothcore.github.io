@@ -1,5 +1,6 @@
 var a20505 =
 [
-    [ "achievement_getting_cold_in_here", "d2/dd5/a20505.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "d2/dd5/a20505.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "OnPeriodic", "d2/dd5/a20505.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "d2/dd5/a20505.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "d2/dd5/a20505.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

@@ -1,9 +1,11 @@
 var a26925 =
 [
-    [ "CheckProcDummy", "dd/d45/a26925.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
-    [ "CheckProcTriggerSpell", "dd/d45/a26925.html#affbff48ab9421bda51b3a5781188546d", null ],
-    [ "HandleProcDummy", "dd/d45/a26925.html#a0113a45bd4c28d1769df7b675de697ed", null ],
-    [ "PrepareAuraScript", "dd/d45/a26925.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
-    [ "Register", "dd/d45/a26925.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
-    [ "Validate", "dd/d45/a26925.html#a63844728796945e892985720296d0c07", null ]
+    [ "AddTarget", "dd/d45/a26925.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "dd/d45/a26925.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "dd/d45/a26925.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "dd/d45/a26925.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "dd/d45/a26925.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "dd/d45/a26925.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "dd/d45/a26925.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "dd/d45/a26925.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

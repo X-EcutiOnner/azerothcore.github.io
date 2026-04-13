@@ -1,5 +1,5 @@
 var a10617 =
 [
-    [ "MailScript", "d4/d28/a10617.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
-    [ "OnBeforeMailDraftSendMailTo", "d4/d28/a10617.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
+    [ "FactoryCreatureScript", "d4/d28/a10617.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
+    [ "GetAI", "d4/d28/a10617.html#a0e491e4cda2b03456d798f6726dbde54", null ]
 ];

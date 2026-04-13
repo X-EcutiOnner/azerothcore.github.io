@@ -1,6 +1,5 @@
 var a10677 =
 [
-    [ "WorldMapScript", "d6/d9c/a10677.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
-    [ "checkValidity", "d6/d9c/a10677.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
-    [ "isAfterLoadScript", "d6/d9c/a10677.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
+    [ "MailScript", "d6/d9c/a10677.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
+    [ "OnBeforeMailDraftSendMailTo", "d6/d9c/a10677.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
 ];

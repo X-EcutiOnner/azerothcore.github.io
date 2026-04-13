@@ -1,5 +1,9 @@
 var a25541 =
 [
-    [ "PrepareSpellScript", "d1/d78/a25541.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
-    [ "Register", "d1/d78/a25541.html#ae176a1f643797b5367a593bbb2acc506", null ]
+    [ "spell_item_trigger_spell", "d1/d78/a25541.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
+    [ "HandleDummy", "d1/d78/a25541.html#a49613255eea28e34cf5ff8a06798f89a", null ],
+    [ "PrepareSpellScript", "d1/d78/a25541.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
+    [ "Register", "d1/d78/a25541.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
+    [ "Validate", "d1/d78/a25541.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
+    [ "_triggeredSpellId", "d1/d78/a25541.html#a610c5ac434fe788120ed101f7bf58f63", null ]
 ];

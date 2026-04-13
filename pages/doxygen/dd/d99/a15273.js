@@ -1,6 +1,7 @@
 var a15273 =
 [
-    [ "npc_cos_chromie_start", "dd/d99/a15273.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "dd/d99/a15273.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
-    [ "OnQuestAccept", "dd/d99/a15273.html#a038e046773718f5cd55d2b4eb98b3d24", null ]
+    [ "npc_hive_zara_larva", "dd/d99/a15273.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "dd/d99/a15273.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "dd/d99/a15273.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "dd/d99/a15273.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

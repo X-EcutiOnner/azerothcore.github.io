@@ -1,9 +1,9 @@
 var a24393 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "d4/d1c/a24393.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "d4/d1c/a24393.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "d4/d1c/a24393.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "d4/d1c/a24393.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "d4/d1c/a24393.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "d4/d1c/a24393.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "HandleApply", "d4/d1c/a24393.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "d4/d1c/a24393.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "d4/d1c/a24393.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "d4/d1c/a24393.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "d4/d1c/a24393.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "d4/d1c/a24393.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

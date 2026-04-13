@@ -1,6 +1,6 @@
 var a17817 =
 [
-    [ "ChangeSummonPos", "d2/dbd/a17817.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d2/dbd/a17817.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d2/dbd/a17817.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "npc_gunship_mageAI", "d4/d52/a17821.html", "d4/d52/a17821" ],
+    [ "npc_gunship_mage", "d2/dbd/a17817.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
+    [ "GetAI", "d2/dbd/a17817.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
 ];

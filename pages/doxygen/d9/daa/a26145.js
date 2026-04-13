@@ -1,7 +1,7 @@
 var a26145 =
 [
-    [ "HandleScript", "d9/daa/a26145.html#aad0be226a2d294d3361c1afbf644c5e4", null ],
-    [ "PrepareSpellScript", "d9/daa/a26145.html#a85dee311aab08d796a3a0c1bc9e9390d", null ],
-    [ "Register", "d9/daa/a26145.html#a2b22be9826db241ecf3f99ff16c309c0", null ],
-    [ "Validate", "d9/daa/a26145.html#a98df659504307fc0666fe2b1001eaa00", null ]
+    [ "CalculateAmount", "d9/daa/a26145.html#a0934aa8eaf442314aa6050d85304c15b", null ],
+    [ "CalculateSpellAmount", "d9/daa/a26145.html#ab765b87350bd3e73ac43879abef72d98", null ],
+    [ "PrepareAuraScript", "d9/daa/a26145.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
+    [ "Register", "d9/daa/a26145.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
 ];

@@ -1,15 +1,11 @@
 var a04217 =
 [
-    [ "MonsterMoveType", "d3/d8f/a04217.html#afd3f02560404659d901713e1228d9339", [
-      [ "MonsterMoveNormal", "d3/d8f/a04217.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
-      [ "MonsterMoveStop", "d3/d8f/a04217.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],
-      [ "MonsterMoveFacingSpot", "d3/d8f/a04217.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323", null ],
-      [ "MonsterMoveFacingTarget", "d3/d8f/a04217.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9", null ],
-      [ "MonsterMoveFacingAngle", "d3/d8f/a04217.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642", null ]
-    ] ],
-    [ "operator<<", "d3/d8f/a04217.html#ac2e9418dfdb25149170911f2cd0dd948", null ],
-    [ "operator>>", "d3/d8f/a04217.html#ae394b26156a3fa0d1d828d30cee475b1", null ],
-    [ "WriteCatmullRomCyclicPath", "d3/d8f/a04217.html#ae740cc738fed507e64b3243ce62c5952", null ],
-    [ "WriteCatmullRomPath", "d3/d8f/a04217.html#a92efeab3fe080f348fa91cb9bc5a1b05", null ],
-    [ "WriteLinearPath", "d3/d8f/a04217.html#ad0db2c4fd496c84301b43d46fbffb460", null ]
+    [ "npc_innkeeper", "da/d57/a28017.html", "da/d57/a28017" ],
+    [ "AddSC_npc_innkeeper", "d3/d8f/a04217.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "GOSSIP_MENU", "d3/d8f/a04217.html#a3115623eb3e0408aad7cd637686aaaee", null ],
+    [ "GOSSIP_MENU_EVENT", "d3/d8f/a04217.html#a6bb09725b9e6b10b76686a9059038e6b", null ],
+    [ "HALLOWEEN_EVENTID", "d3/d8f/a04217.html#a2e23760d3d379f3fa92c139f067b5984", null ],
+    [ "SPELL_TREAT", "d3/d8f/a04217.html#a072a033da374692139d9d33e63be89ca", null ],
+    [ "SPELL_TRICK", "d3/d8f/a04217.html#ad2b2ba30383cca3be221f38a809e2da1", null ],
+    [ "SPELL_TRICKED_OR_TREATED", "d3/d8f/a04217.html#a022e344eaf73aa8ab6655d2c6aaac688", null ]
 ];

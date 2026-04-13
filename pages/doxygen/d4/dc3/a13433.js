@@ -1,6 +1,6 @@
 var a13433 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "da/d5d/a13437.html", "da/d5d/a13437" ],
-    [ "npc_unworthy_initiate_anchor", "d4/dc3/a13433.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
-    [ "GetAI", "d4/dc3/a13433.html#ab012983661d20a3ffa4f58136bd2d808", null ]
+    [ "npc_scholomance_occultistAI", "da/d5d/a13437.html", "da/d5d/a13437" ],
+    [ "npc_scholomance_occultist", "d4/dc3/a13433.html#adf100912a15ff8edf056efa7eebd13ff", null ],
+    [ "GetAI", "d4/dc3/a13433.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
 ];

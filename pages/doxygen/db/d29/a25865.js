@@ -1,7 +1,6 @@
 var a25865 =
 [
-    [ "CheckProc", "db/d29/a25865.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
-    [ "HandleProc", "db/d29/a25865.html#a27569fe686e50246768fca4a7625fe0d", null ],
-    [ "PrepareAuraScript", "db/d29/a25865.html#a4f4eaa4aeeac9257804957671c16233f", null ],
-    [ "Register", "db/d29/a25865.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
+    [ "OnRemove", "db/d29/a25865.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "db/d29/a25865.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "db/d29/a25865.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

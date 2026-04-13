@@ -1,7 +1,5 @@
 var a19753 =
 [
-    [ "Load", "d1/d11/a19753.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
-    [ "PrepareSpellScript", "d1/d11/a19753.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
-    [ "Register", "d1/d11/a19753.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
-    [ "SetDest", "d1/d11/a19753.html#a231a75702f4a98f51d1be45510c5d05f", null ]
+    [ "boss_sjonnir_dwarfAI", "d1/d11/a19753.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
+    [ "UpdateAI", "d1/d11/a19753.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
 ];

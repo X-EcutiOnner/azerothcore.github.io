@@ -1,9 +1,5 @@
 var a17021 =
 [
-    [ "npc_fel_infernalAI", "dd/d39/a17021.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "dd/d39/a17021.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "dd/d39/a17021.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "dd/d39/a17021.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "dd/d39/a17021.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "dd/d39/a17021.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "achievement_consumption_junction", "dd/d39/a17021.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "dd/d39/a17021.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

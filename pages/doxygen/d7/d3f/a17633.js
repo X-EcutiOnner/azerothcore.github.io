@@ -1,6 +1,8 @@
 var a17633 =
 [
-    [ "entry", "d7/d3f/a17633.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d7/d3f/a17633.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d7/d3f/a17633.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "npc_high_overlord_saurfangAI", "d3/d00/a17637.html", "d3/d00/a17637" ],
+    [ "npc_high_overlord_saurfang_icc", "d7/d3f/a17633.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "d7/d3f/a17633.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "d7/d3f/a17633.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "d7/d3f/a17633.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

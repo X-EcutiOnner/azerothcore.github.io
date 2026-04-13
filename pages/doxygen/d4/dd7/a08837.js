@@ -1,6 +1,5 @@
 var a08837 =
 [
-    [ "SkillStatusData", "d4/dd7/a08837.html#a7594ceb20110da34f3aa68ac69996b94", null ],
-    [ "pos", "d4/dd7/a08837.html#a51ccb328b807f2c7fd275d843218f466", null ],
-    [ "uState", "d4/dd7/a08837.html#a232801ad25897a82739916d5be4fdc22", null ]
+    [ "Rank", "d4/dd7/a08837.html#a61797c7cb799308a7c20a954d287be17", null ],
+    [ "SkillId", "d4/dd7/a08837.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
 ];

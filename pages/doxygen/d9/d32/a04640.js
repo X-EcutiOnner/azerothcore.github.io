@@ -1,6 +1,8 @@
 var a04640 =
 [
-    [ "Bag", "d1/dab/a08602.html", "d1/dab/a08602" ],
-    [ "MAX_BAG_SIZE", "d9/d32/a04640.html#a60a065b8fab298fb24dfd8f22f657d77", null ],
-    [ "NewItemOrBag", "d9/d32/a04640.html#a6b74a54b7de3ced0e27f4128f0d95c64", null ]
+    [ "ModelIgnoreFlags", "d9/d32/a04640.html#a6996c44f3ac72cd9dc04515186d2da28", [
+      [ "Nothing", "d9/d32/a04640.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
+      [ "M2", "d9/d32/a04640.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
+    ] ],
+    [ "operator&", "d9/d32/a04640.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
 ];

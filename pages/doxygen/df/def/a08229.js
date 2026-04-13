@@ -1,6 +1,7 @@
 var a08229 =
 [
-    [ "LfgWaitTime", "df/def/a08229.html#a1d80e0848c06c658a4c0587b686fe09d", null ],
-    [ "number", "df/def/a08229.html#ae6bd7db37ac17752edbc8d336081b91e", null ],
-    [ "time", "df/def/a08229.html#a0d0ef1b3552e5298763a3f28714bc864", null ]
+    [ "LfgProposalPlayer", "df/def/a08229.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
+    [ "accept", "df/def/a08229.html#acbf0ce1e12307569487096dc5ca544a6", null ],
+    [ "group", "df/def/a08229.html#a900f24e9caaa1569eeea93b4284139a1", null ],
+    [ "role", "df/def/a08229.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
 ];

@@ -1,6 +1,6 @@
 var a19765 =
 [
-    [ "ChargeRifts", "d7/d05/a19765.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d7/d05/a19765.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d7/d05/a19765.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d6/dfb/a19769.html", "d6/dfb/a19769" ],
+    [ "boss_sjonnir_malformed_ooze", "d7/d05/a19765.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "d7/d05/a19765.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

@@ -1,8 +1,10 @@
 var a20833 =
 [
-    [ "OnPeriodic", "d2/d2e/a20833.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "d2/d2e/a20833.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "d2/d2e/a20833.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "d2/d2e/a20833.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "d2/d2e/a20833.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "npc_enslaved_proto_drake", "d2/d2e/a20833.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "d2/d2e/a20833.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "d2/d2e/a20833.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "d2/d2e/a20833.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "d2/d2e/a20833.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "d2/d2e/a20833.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "d2/d2e/a20833.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

@@ -1,9 +1,17 @@
 var a07653 =
 [
-    [ "entry", "dd/d37/a07653.html#a2238cabe763a588a5572611e0aefe6ba", null ],
-    [ "o", "dd/d37/a07653.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
-    [ "type", "dd/d37/a07653.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
-    [ "x", "dd/d37/a07653.html#a616d422b4e8c99ec3285a87f553d4091", null ],
-    [ "y", "dd/d37/a07653.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
-    [ "z", "dd/d37/a07653.html#a78cff0661e6d9440574306ec01389d42", null ]
+    [ "BattlegroundAVScore", "dd/d37/a07653.html#a9208f91470836f0db1257d8d8ec1aaf0", null ],
+    [ "BuildObjectivesBlock", "dd/d37/a07653.html#a99fa0ee715145176d9e36ecc39ca2e12", null ],
+    [ "GetAttr1", "dd/d37/a07653.html#a3da772b4600475972574426a86670dd3", null ],
+    [ "GetAttr2", "dd/d37/a07653.html#ac72f50e8959e759d0c285a61967680dd", null ],
+    [ "GetAttr3", "dd/d37/a07653.html#a57f53d5fb681683749ff95767dd17c0e", null ],
+    [ "GetAttr4", "dd/d37/a07653.html#ae4cc7eb2b4bc79c0166e53567edfb205", null ],
+    [ "GetAttr5", "dd/d37/a07653.html#a13edee0d2da9b539eeab5d5d7a15dcc9", null ],
+    [ "UpdateScore", "dd/d37/a07653.html#aa598cf124232e7f7a8335efe527e20e1", null ],
+    [ "BattlegroundAV", "dd/d37/a07653.html#abb499401bd69b6a6d0c8365f36a70ad7", null ],
+    [ "GraveyardsAssaulted", "dd/d37/a07653.html#a17e5ba885b1dd8d4f4f1992b3503a31f", null ],
+    [ "GraveyardsDefended", "dd/d37/a07653.html#ae8d7e9ae9602be798937c1b562d9b305", null ],
+    [ "MinesCaptured", "dd/d37/a07653.html#a09038f1133996849064da1b09983be82", null ],
+    [ "TowersAssaulted", "dd/d37/a07653.html#a28b8aa5df57cea0b481edc5a0b8c490e", null ],
+    [ "TowersDefended", "dd/d37/a07653.html#aeb6175c1a67e6f55b6719bb879bd8b62", null ]
 ];

@@ -1,6 +1,9 @@
 var a18681 =
 [
-    [ "LichKingMovieEvent", "d0/deb/a18681.html#a3e48e13dc5166c73a9f379045988f86a", null ],
-    [ "Execute", "d0/deb/a18681.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
-    [ "_owner", "d0/deb/a18681.html#a7ed68f442a644d6bb7a036812351d89e", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d0/deb/a18681.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "DoAction", "d0/deb/a18681.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "JustEnteredCombat", "d0/deb/a18681.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
+    [ "JustExitedCombat", "d0/deb/a18681.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
+    [ "MoveInLineOfSight", "d0/deb/a18681.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "d0/deb/a18681.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
 ];

@@ -1,6 +1,6 @@
 var a13693 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "dd/dbc/a13697.html", "dd/dbc/a13697" ],
-    [ "instance_sunken_temple", "db/d4c/a13693.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "db/d4c/a13693.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "HandlePeriodic", "db/d4c/a13693.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "db/d4c/a13693.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "db/d4c/a13693.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

@@ -1,5 +1,6 @@
 var a21705 =
 [
-    [ "go_the_pearl_of_the_depths", "db/d06/a21705.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "db/d06/a21705.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "npc_boneguard_footmanAI", "de/d01/a21709.html", "de/d01/a21709" ],
+    [ "npc_boneguard_footman", "db/d06/a21705.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "db/d06/a21705.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

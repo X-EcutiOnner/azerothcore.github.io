@@ -1,7 +1,7 @@
 var a11249 =
 [
-    [ "TrainerBuySpell", "d6/df7/a11249.html#a8afb92fb908d5efd54bcb78269069d39", null ],
-    [ "Read", "d6/df7/a11249.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
-    [ "SpellID", "d6/df7/a11249.html#ae342c806c8faabae54260a26659d49ea", null ],
-    [ "TrainerGUID", "d6/df7/a11249.html#aca1d9dc89b96415a5065a67f7083423c", null ]
+    [ "MinimapPingClient", "d6/df7/a11249.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
+    [ "Read", "d6/df7/a11249.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
+    [ "MapX", "d6/df7/a11249.html#ad4ff3977c260035145d6acd00429d81e", null ],
+    [ "MapY", "d6/df7/a11249.html#abd8640cb98238f339218c3b945885c97", null ]
 ];

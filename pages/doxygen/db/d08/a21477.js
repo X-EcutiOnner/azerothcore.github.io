@@ -1,8 +1,6 @@
 var a21477 =
 [
-    [ "npc_azure_captainAI", "db/d08/a21477.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "db/d08/a21477.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "db/d08/a21477.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "db/d08/a21477.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "db/d08/a21477.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "npc_q24545_vegard_dummyAI", "da/dbb/a21481.html", "da/dbb/a21481" ],
+    [ "npc_q24545_vegard_dummy", "db/d08/a21477.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "db/d08/a21477.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

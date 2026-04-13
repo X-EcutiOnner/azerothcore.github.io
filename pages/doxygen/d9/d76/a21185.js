@@ -1,6 +1,6 @@
 var a21185 =
 [
-    [ "boss_svalaAI", "d9/d79/a21189.html", "d9/d79/a21189" ],
-    [ "boss_svala", "d9/d76/a21185.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "d9/d76/a21185.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "npc_khunok_the_behemothAI", "d9/d79/a21189.html", "d9/d79/a21189" ],
+    [ "npc_khunok_the_behemoth", "d9/d76/a21185.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "d9/d76/a21185.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

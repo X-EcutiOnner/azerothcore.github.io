@@ -1,7 +1,10 @@
 var a25249 =
 [
-    [ "HandleDummy", "d4/d99/a25249.html#af5d0fc4e596c04c6ca3faf4079f6b602", null ],
-    [ "Load", "d4/d99/a25249.html#a4098aa621012c5e3623ee905d2d2c8eb", null ],
-    [ "PrepareSpellScript", "d4/d99/a25249.html#ad9d1823fa4302334419e6f9a01f0a728", null ],
-    [ "Register", "d4/d99/a25249.html#a4d683270dc086454630475d39f0105e8", null ]
+    [ "CheckProc", "d4/d99/a25249.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "d4/d99/a25249.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "d4/d99/a25249.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "d4/d99/a25249.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "d4/d99/a25249.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "d4/d99/a25249.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "d4/d99/a25249.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

@@ -1,7 +1,6 @@
 var a23765 =
 [
-    [ "CastQuill", "d9/de6/a23765.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "d9/de6/a23765.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "d9/de6/a23765.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "d9/de6/a23765.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "HandleEffectRemove", "d9/de6/a23765.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
+    [ "PrepareAuraScript", "d9/de6/a23765.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
+    [ "Register", "d9/de6/a23765.html#ac02217c103db141d75377e233e1e4242", null ]
 ];

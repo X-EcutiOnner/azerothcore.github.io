@@ -1,5 +1,6 @@
 var a10989 =
 [
-    [ "SocketEnchantID", "dc/d81/a10989.html#ae682a8405a5fa1c70033d190dde25d99", null ],
-    [ "SocketIndex", "dc/d81/a10989.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
+    [ "GuildUpdateInfoText", "dc/d81/a10989.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "dc/d81/a10989.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "dc/d81/a10989.html#a786802ce427465d66a4cea1365743975", null ]
 ];

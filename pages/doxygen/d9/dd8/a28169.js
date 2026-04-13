@@ -1,6 +1,6 @@
 var a28169 =
 [
-    [ "go_flamesAI", "d9/dd8/a28169.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d9/dd8/a28169.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d9/dd8/a28169.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "npc_guardianAI", "da/daf/a28173.html", "da/daf/a28173" ],
+    [ "npc_guardian", "d9/dd8/a28169.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "d9/dd8/a28169.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

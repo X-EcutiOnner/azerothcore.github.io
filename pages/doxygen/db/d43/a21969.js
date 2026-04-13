@@ -1,7 +1,7 @@
 var a21969 =
 [
-    [ "npc_Apothecary_HanesAI", "dd/d2d/a21973.html", "dd/d2d/a21973" ],
-    [ "npc_apothecary_hanes", "db/d43/a21969.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "db/d43/a21969.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "db/d43/a21969.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "OnApply", "db/d43/a21969.html#ad026db5f19c376d9a87f7a1554502809", null ],
+    [ "OnRemove", "db/d43/a21969.html#a0264c6f6f41da3644a803265399f1d82", null ],
+    [ "PrepareAuraScript", "db/d43/a21969.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
+    [ "Register", "db/d43/a21969.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
 ];

@@ -1,11 +1,7 @@
 var a07669 =
 [
-    [ "BattlegroundICScore", "d0/d1a/a07669.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
-    [ "BuildObjectivesBlock", "d0/d1a/a07669.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
-    [ "GetAttr1", "d0/d1a/a07669.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
-    [ "GetAttr2", "d0/d1a/a07669.html#a758fa51038f232c7d65cd0168a4608c2", null ],
-    [ "UpdateScore", "d0/d1a/a07669.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
-    [ "BattlegroundIC", "d0/d1a/a07669.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
-    [ "BasesAssaulted", "d0/d1a/a07669.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
-    [ "BasesDefended", "d0/d1a/a07669.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
+    [ "BattlegroundEYPointIconsStruct", "d0/d1a/a07669.html#a322379024d155d293d1c0083c510d232", null ],
+    [ "WorldStateAllianceControlledIndex", "d0/d1a/a07669.html#a449932bc2357e26c79520fcf01a71a2a", null ],
+    [ "WorldStateControlIndex", "d0/d1a/a07669.html#a82e87048f934b67821bc8ba308ed101d", null ],
+    [ "WorldStateHordeControlledIndex", "d0/d1a/a07669.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
 ];

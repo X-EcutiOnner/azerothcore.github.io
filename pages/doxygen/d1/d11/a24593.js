@@ -1,7 +1,10 @@
 var a24593 =
 [
-    [ "CalcDamage", "d1/d11/a24593.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "d1/d11/a24593.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "d1/d11/a24593.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "d1/d11/a24593.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "FilterTargets", "d1/d11/a24593.html#a033c63470d406ad2249c5aa223c00b2f", null ],
+    [ "HandleFinish", "d1/d11/a24593.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
+    [ "HandleScript", "d1/d11/a24593.html#a2c26838015f1b21715fc1438537e15d3", null ],
+    [ "Load", "d1/d11/a24593.html#a669aefa81d57358ef452f4c247b2ceff", null ],
+    [ "PrepareSpellScript", "d1/d11/a24593.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
+    [ "Register", "d1/d11/a24593.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
+    [ "haveTarget", "d1/d11/a24593.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
 ];

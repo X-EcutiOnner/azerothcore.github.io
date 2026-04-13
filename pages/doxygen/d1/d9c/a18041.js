@@ -1,6 +1,6 @@
 var a18041 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "db/d77/a18045.html", "db/d77/a18045" ],
-    [ "npc_muradin_bronzebeard_igb", "d1/d9c/a18041.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "d1/d9c/a18041.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "UnboundPlagueTargetSelector", "d1/d9c/a18041.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "d1/d9c/a18041.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "d1/d9c/a18041.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

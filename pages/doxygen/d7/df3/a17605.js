@@ -1,6 +1,7 @@
 var a17605 =
 [
-    [ "HandleDummy", "d7/df3/a17605.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "d7/df3/a17605.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "d7/df3/a17605.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "OnProc", "d7/df3/a17605.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "d7/df3/a17605.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "d7/df3/a17605.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "d7/df3/a17605.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

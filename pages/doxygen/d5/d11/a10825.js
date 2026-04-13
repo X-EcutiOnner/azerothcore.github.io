@@ -1,6 +1,6 @@
 var a10825 =
 [
-    [ "QueryGuildInfo", "d5/d11/a10825.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
-    [ "Read", "d5/d11/a10825.html#a0396a58ca114706f7de91f51c5ab949d", null ],
-    [ "GuildId", "d5/d11/a10825.html#ad221eecdb16233251306fff3d9801f38", null ]
+    [ "ShowingCloak", "d5/d11/a10825.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
+    [ "Read", "d5/d11/a10825.html#ad72ae43efc070655aa078d9985369442", null ],
+    [ "ShowCloak", "d5/d11/a10825.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
 ];

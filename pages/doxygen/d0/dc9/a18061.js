@@ -1,6 +1,6 @@
 var a18061 =
 [
-    [ "npc_igb_ship_crewAI", "d0/dc9/a18061.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d0/dc9/a18061.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d0/dc9/a18061.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "npc_volatile_oozeAI", "dc/d69/a18065.html", "dc/d69/a18065" ],
+    [ "npc_volatile_ooze", "d0/dc9/a18061.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "d0/dc9/a18061.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

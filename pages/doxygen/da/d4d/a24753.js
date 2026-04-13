@@ -1,6 +1,8 @@
 var a24753 =
 [
-    [ "CheckCast", "da/d4d/a24753.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "da/d4d/a24753.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "da/d4d/a24753.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "CheckProc", "da/d4d/a24753.html#a88cdab428be20027d939fe4765afc9e0", null ],
+    [ "HandleProc", "da/d4d/a24753.html#a8e49a1bc11fdfc1b7d3f8225c890206f", null ],
+    [ "PrepareAuraScript", "da/d4d/a24753.html#a33f53dc5834a3be78e24a1a58bdfd15a", null ],
+    [ "Register", "da/d4d/a24753.html#aacb126d871c0df43f5096124b8cda376", null ],
+    [ "Validate", "da/d4d/a24753.html#aa81adc61bd1149d9c43c4670f02a91ba", null ]
 ];

@@ -1,6 +1,6 @@
 var a16509 =
 [
-    [ "boss_baltharus_the_warbornAI", "d1/d8e/a16513.html", "d1/d8e/a16513" ],
-    [ "boss_baltharus_the_warborn", "d3/d78/a16509.html#aababb8862273d60f140dce675131783d", null ],
-    [ "GetAI", "d3/d78/a16509.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
+    [ "boss_paletressAI", "d1/d8e/a16513.html", "d1/d8e/a16513" ],
+    [ "boss_paletress", "d3/d78/a16509.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "d3/d78/a16509.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

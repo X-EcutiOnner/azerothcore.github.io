@@ -1,16 +1,9 @@
 var a23661 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "dc/df8/a23661.html#aa438091d2868b26d961ee4f81e9cea11", null ],
-    [ "GetGuidData", "dc/df8/a23661.html#a1a0623204ecaaa3623fc503783c4d766", null ],
-    [ "Initialize", "dc/df8/a23661.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
-    [ "OnCreatureCreate", "dc/df8/a23661.html#a9fa5637791d249553472b31c024f9fc1", null ],
-    [ "ReadSaveDataMore", "dc/df8/a23661.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
-    [ "SetData", "dc/df8/a23661.html#a566090f29d13977354fb50e68d92f046", null ],
-    [ "SetGuidData", "dc/df8/a23661.html#aba8c1ea3be2a6199cefa47c52ecf7f31", null ],
-    [ "Update", "dc/df8/a23661.html#aad1666c364feff4e2b7654f5894c129f", null ],
-    [ "WriteSaveDataMore", "dc/df8/a23661.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
-    [ "ExecutionerGUID", "dc/df8/a23661.html#aa879398b1732952eba7b2b8a822a959e", null ],
-    [ "LastArrowGUID", "dc/df8/a23661.html#a602015bb20d74f6d3aac07b23ad48aea", null ],
-    [ "PrisonerGUID", "dc/df8/a23661.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
-    [ "RescueTimer", "dc/df8/a23661.html#a8df2961264a192ab2692e3c8ca507666", null ]
+    [ "npc_ancestral_wolfAI", "dc/df8/a23661.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "dc/df8/a23661.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "dc/df8/a23661.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "dc/df8/a23661.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "WaypointReached", "dc/df8/a23661.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ryga", "dc/df8/a23661.html#ac238214604720e298124b58c35d58e05", null ]
 ];

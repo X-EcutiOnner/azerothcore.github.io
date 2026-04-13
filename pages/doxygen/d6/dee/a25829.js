@@ -1,6 +1,5 @@
 var a25829 =
 [
-    [ "HandleDummy", "d6/dee/a25829.html#aafc9efb0f8070566579724853a88ab03", null ],
-    [ "PrepareSpellScript", "d6/dee/a25829.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
-    [ "Register", "d6/dee/a25829.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
+    [ "PrepareSpellScript", "d6/dee/a25829.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
+    [ "Register", "d6/dee/a25829.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
 ];

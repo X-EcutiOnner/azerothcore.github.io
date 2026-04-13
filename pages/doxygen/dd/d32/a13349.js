@@ -1,5 +1,8 @@
 var a13349 =
 [
-    [ "boss_ellris_duskhallow", "dd/d32/a13349.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
-    [ "JustEngagedWith", "dd/d32/a13349.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
+    [ "npc_highlord_darion_mograineAI", "dc/dcb/a13353.html", "dc/dcb/a13353" ],
+    [ "npc_highlord_darion_mograine", "dd/d32/a13349.html#a86680b1a140c706b10fd48befc572286", null ],
+    [ "GetAI", "dd/d32/a13349.html#a350539ed741fa372ffff92ffbc6e6260", null ],
+    [ "OnGossipHello", "dd/d32/a13349.html#a35afc9d80b4570163af9f6013949a70c", null ],
+    [ "OnGossipSelect", "dd/d32/a13349.html#a0539d24556c16a1a72be8258c752f5f5", null ]
 ];

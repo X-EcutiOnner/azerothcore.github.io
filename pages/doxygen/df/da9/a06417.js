@@ -1,6 +1,7 @@
 var a06417 =
 [
-    [ "CreatureAIFactory", "df/da9/a06417.html#a978af64c2793b92ee2fe57763500f8d9", null ],
-    [ "Create", "df/da9/a06417.html#ab5f691811cc23c5079a7a0a7f3503638", null ],
-    [ "Permit", "df/da9/a06417.html#ae5e76ee1d1f8949214dd5421bf7e4deb", null ]
+    [ "SpellTargetSelector", "df/da9/a06417.html#a9f1f441e542500dc43c58b97729f7f51", null ],
+    [ "operator()", "df/da9/a06417.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
+    [ "_caster", "df/da9/a06417.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
+    [ "_spellInfo", "df/da9/a06417.html#a309ed04630cfb92810b7f51376b3917c", null ]
 ];

@@ -1,6 +1,7 @@
 var a00308 =
 [
-    [ "LinkedListElement", "dd/d2c/a05486.html", "dd/d2c/a05486" ],
-    [ "LinkedListHead", "d2/d30/a05490.html", "d2/d30/a05490" ],
-    [ "LinkedListHead::Iterator< _Ty >", "d5/d90/a05494.html", "d5/d90/a05494" ]
+    [ "UpdateTime", "d5/dcd/a11961.html", "d5/dcd/a11961" ],
+    [ "WorldUpdateTime", "d2/dc6/a11965.html", "d2/dc6/a11965" ],
+    [ "AVG_DIFF_COUNT", "d5/d0f/a00308.html#ac09527fd6979f77130f2ef6be46850eb", null ],
+    [ "sWorldUpdateTime", "d5/d0f/a00308.html#a911ff49ac052e337a0927c080aec20b2", null ]
 ];

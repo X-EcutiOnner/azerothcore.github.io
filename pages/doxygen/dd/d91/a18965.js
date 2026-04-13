@@ -1,6 +1,7 @@
 var a18965 =
 [
-    [ "npc_risen_archmageAI", "d0/d36/a18969.html", "d0/d36/a18969" ],
-    [ "npc_risen_archmage", "dd/d91/a18965.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
-    [ "GetAI", "dd/d91/a18965.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
+    [ "HandleEffectPeriodic", "dd/d91/a18965.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "dd/d91/a18965.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "dd/d91/a18965.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "dd/d91/a18965.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

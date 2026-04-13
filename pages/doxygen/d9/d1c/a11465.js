@@ -1,6 +1,4 @@
 var a11465 =
 [
-    [ "WorldSessionFilter", "d9/d1c/a11465.html#aba91eb2dfd56201534743b2d458fa111", null ],
-    [ "~WorldSessionFilter", "d9/d1c/a11465.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
-    [ "Process", "d9/d1c/a11465.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
+    [ "type", "d9/d1c/a11465.html#aa3307afff20191a467f7e948d9fd00ed", null ]
 ];

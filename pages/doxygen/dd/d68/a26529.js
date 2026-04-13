@@ -1,8 +1,8 @@
 var a26529 =
 [
-    [ "CheckProc", "dd/d68/a26529.html#a23dc61d8a007832a37ab7da71c36537d", null ],
-    [ "HandleProc", "dd/d68/a26529.html#a613182c741769d0983206bdfa89242f6", null ],
-    [ "PrepareAuraScript", "dd/d68/a26529.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
-    [ "Register", "dd/d68/a26529.html#acd807de02a83a97a78572d672fb16027", null ],
-    [ "Validate", "dd/d68/a26529.html#a3d2d6f1a00825ac66f507a790f468198", null ]
+    [ "HandleApplyEffect", "dd/d68/a26529.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "dd/d68/a26529.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "dd/d68/a26529.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "dd/d68/a26529.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "dd/d68/a26529.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

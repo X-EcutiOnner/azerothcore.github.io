@@ -1,7 +1,6 @@
 var a16153 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d0/d48/a16157.html", "d0/d48/a16157" ],
-    [ "npc_wizzlecrank_shredder", "d6/d1b/a16153.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
-    [ "GetAI", "d6/d1b/a16153.html#a5c42cc6d8cf2642333731138077af66e", null ],
-    [ "OnQuestAccept", "d6/d1b/a16153.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
+    [ "PrepareSpellScript", "d6/d1b/a16153.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
+    [ "Register", "d6/d1b/a16153.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
+    [ "SetDest", "d6/d1b/a16153.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
 ];

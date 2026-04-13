@@ -1,6 +1,6 @@
 var a26757 =
 [
-    [ "CheckCast", "df/d8f/a26757.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "df/d8f/a26757.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "df/d8f/a26757.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "HandleEffectApply", "df/d8f/a26757.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
+    [ "PrepareAuraScript", "df/d8f/a26757.html#a707504eccf42af77f6e6e927d208bc8c", null ],
+    [ "Register", "df/d8f/a26757.html#a7aeaa28997bbe966274a738cf45323ed", null ]
 ];

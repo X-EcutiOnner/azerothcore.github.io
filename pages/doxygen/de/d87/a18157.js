@@ -1,9 +1,7 @@
 var a18157 =
 [
-    [ "HandleApply", "de/d87/a18157.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "de/d87/a18157.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "de/d87/a18157.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "de/d87/a18157.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "de/d87/a18157.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "de/d87/a18157.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "HandleProc", "de/d87/a18157.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
+    [ "PrepareAuraScript", "de/d87/a18157.html#a5eace3a973165eb82ae95b8052bb9476", null ],
+    [ "Register", "de/d87/a18157.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
+    [ "Validate", "de/d87/a18157.html#ad2a7488006b16840e02b450cc9150289", null ]
 ];

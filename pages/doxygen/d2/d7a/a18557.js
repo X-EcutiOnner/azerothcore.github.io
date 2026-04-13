@@ -1,6 +1,9 @@
 var a18557 =
 [
-    [ "HandleSpecial", "d2/d7a/a18557.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "d2/d7a/a18557.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "d2/d7a/a18557.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "HandleScript", "d2/d7a/a18557.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "d2/d7a/a18557.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "d2/d7a/a18557.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "d2/d7a/a18557.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "d2/d7a/a18557.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "d2/d7a/a18557.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

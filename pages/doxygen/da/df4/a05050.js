@@ -1,9 +1,13 @@
 var a05050 =
 [
-    [ "PermissibleOrderPred", "d1/d0b/a06458.html", "d1/d0b/a06458" ],
-    [ "GetPermitFor", "da/df4/a05050.html#aaf9c138ae6c123d03859db553a39892d", null ],
-    [ "SelectAI", "da/df4/a05050.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
-    [ "SelectFactory", "da/df4/a05050.html#ad553c2186f078e696768d40d217738f8", null ],
-    [ "SelectGameObjectAI", "da/df4/a05050.html#a2ce404e9b85f551638d8783c01a19860", null ],
-    [ "SelectMovementGenerator", "da/df4/a05050.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
+    [ "anonymous_namespace{AddonMgr.cpp}", "d6/d32/a05051.html", [
+      [ "SavedAddonsList", "d6/d32/a05051.html#afa468163a23ed58507a89e5724c06eac", null ],
+      [ "m_bannedAddons", "d6/d32/a05051.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+      [ "m_knownAddons", "d6/d32/a05051.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    ] ],
+    [ "BannedAddonList", "da/df4/a05050.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
+    [ "GetAddonInfo", "da/df4/a05050.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "da/df4/a05050.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "da/df4/a05050.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "da/df4/a05050.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
 ];

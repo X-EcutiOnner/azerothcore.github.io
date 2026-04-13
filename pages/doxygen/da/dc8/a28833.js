@@ -1,6 +1,5 @@
 var a28833 =
 [
-    [ "boss_ysondreAI", "d8/ded/a28837.html", "d8/ded/a28837" ],
-    [ "boss_ysondre", "da/dc8/a28833.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
-    [ "GetAI", "da/dc8/a28833.html#a0da215d7bc8ee86216887e682b9335c3", null ]
+    [ "ID", "da/dc8/a28833.html#a65acb5af9a688346cbb7dc144710c768", null ],
+    [ "inventoryIcon", "da/dc8/a28833.html#a26b43ee179bd546c6e956dd797fc0842", null ]
 ];

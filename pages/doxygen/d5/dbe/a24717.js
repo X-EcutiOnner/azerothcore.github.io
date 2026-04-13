@@ -1,7 +1,7 @@
 var a24717 =
 [
-    [ "CalculateAmount", "d5/dbe/a24717.html#a44c3c1c97f0b87b261614e7eb0ce7d4d", null ],
-    [ "PrepareAuraScript", "d5/dbe/a24717.html#aaf070525419cc8af56cd0002bbef2391", null ],
-    [ "Register", "d5/dbe/a24717.html#ad37c82f88ebfb8c68aef2e574c0c4dcf", null ],
-    [ "Validate", "d5/dbe/a24717.html#a3b8d5d04ec015240d941790bd02598f8", null ]
+    [ "HandleEffectApply", "d5/dbe/a24717.html#a03c31d2d1ff8a01a03c7fa6f67a5c9c3", null ],
+    [ "HandleEffectRemove", "d5/dbe/a24717.html#a54420a5b6c4cc0e0b468f573cd4625bf", null ],
+    [ "PrepareAuraScript", "d5/dbe/a24717.html#a39e61e11ede11f029485a73e4d995809", null ],
+    [ "Register", "d5/dbe/a24717.html#a9b0a61f6f7ad9f01a293451705675eb0", null ]
 ];

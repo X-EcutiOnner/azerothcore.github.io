@@ -1,7 +1,11 @@
 var a06165 =
 [
-    [ "arg1", "de/d38/a06165.html#aa2018e5823bcf013847605847231e3c2", null ],
-    [ "arg2", "de/d38/a06165.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
-    [ "arg3", "de/d38/a06165.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
-    [ "updateType", "de/d38/a06165.html#a84cace2469c54d57b33abe5ca93588ca", null ]
+    [ "AppenderDB", "de/d38/a06165.html#af8e48076d47a06c73f6b8ae054955a83", null ],
+    [ "~AppenderDB", "de/d38/a06165.html#a7da848083d02833acc632051a2d938bf", null ],
+    [ "_write", "de/d38/a06165.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
+    [ "getType", "de/d38/a06165.html#a96221ceed23435556df03c5f7ffab61e", null ],
+    [ "setRealmId", "de/d38/a06165.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
+    [ "enabled", "de/d38/a06165.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
+    [ "realmId", "de/d38/a06165.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
+    [ "type", "de/d38/a06165.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
 ];

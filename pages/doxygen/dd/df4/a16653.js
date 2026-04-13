@@ -1,6 +1,6 @@
 var a16653 =
 [
-    [ "OnSummon", "dd/df4/a16653.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "dd/df4/a16653.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "dd/df4/a16653.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "npc_anubarak_spikeAI", "d1/d15/a16657.html", "d1/d15/a16657" ],
+    [ "npc_anubarak_spike", "dd/df4/a16653.html#a4e96de1910c23311ad4644960ccd5022", null ],
+    [ "GetAI", "dd/df4/a16653.html#a7d55b321eb7e595fe5886dc382134947", null ]
 ];

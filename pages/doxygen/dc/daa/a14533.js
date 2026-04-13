@@ -1,9 +1,6 @@
 var a14533 =
 [
-    [ "npc_shade_of_jindo", "dc/daa/a14533.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
-    [ "IsSummonedBy", "dc/daa/a14533.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
-    [ "JustEngagedWith", "dc/daa/a14533.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
-    [ "Reset", "dc/daa/a14533.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
-    [ "UpdateAI", "dc/daa/a14533.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
-    [ "_scheduler", "dc/daa/a14533.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
+    [ "OnApply", "dc/daa/a14533.html#a4a276b00d4912c210598057620368934", null ],
+    [ "PrepareAuraScript", "dc/daa/a14533.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
+    [ "Register", "dc/daa/a14533.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
 ];

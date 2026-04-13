@@ -1,13 +1,6 @@
 var a02171 =
 [
-    [ "spell_ooze_zap", "d2/d8f/a15754.html", "d2/d8f/a15754" ],
-    [ "spell_ooze_zap_channel_end", "de/ddc/a15758.html", "de/ddc/a15758" ],
-    [ "spell_energize_aoe", "df/d0a/a15762.html", "df/d0a/a15762" ],
-    [ "SpellScripts", "d6/d1e/a02171.html#a7da1350130e8c0e2dbb048bb6d532048", [
-      [ "SPELL_OOZE_ZAP", "d6/d1e/a02171.html#a7da1350130e8c0e2dbb048bb6d532048a1b2971d13842ea79dee4215970f1b0f8", null ],
-      [ "SPELL_OOZE_ZAP_CHANNEL_END", "d6/d1e/a02171.html#a7da1350130e8c0e2dbb048bb6d532048a02f7e373b9176afcf3033085c6cc4a1d", null ],
-      [ "SPELL_OOZE_CHANNEL_CREDIT", "d6/d1e/a02171.html#a7da1350130e8c0e2dbb048bb6d532048a5e8e7d71235ca347c586316d35c81f2b", null ],
-      [ "SPELL_ENERGIZED", "d6/d1e/a02171.html#a7da1350130e8c0e2dbb048bb6d532048a37a0a6328b9098980d1ec0596ddebbca", null ]
-    ] ],
-    [ "AddSC_dustwallow_marsh", "d6/d1e/a02171.html#a90fa5d1f62873c538b717bfbfb93251b", null ]
+    [ "AccountInfoQueryHolderPerRealm", "d7/daa/a11509.html", "d7/daa/a11509" ],
+    [ "REMOVE_VIOLATING_FLAGS", "d6/d1e/a02171.html#a9d7c4eaedbb2a06f275a5f59222bc747", null ],
+    [ "DefaultPlayerName", "d6/d1e/a02171.html#a586e06ca0d339349e13d81197056bb5f", null ]
 ];

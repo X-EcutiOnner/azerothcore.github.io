@@ -1,7 +1,7 @@
 var a18665 =
 [
-    [ "StartMovementEvent", "d9/d74/a18665.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
-    [ "Execute", "d9/d74/a18665.html#af1a043d953bcffe9341292e85cae2f55", null ],
-    [ "_owner", "d9/d74/a18665.html#ac2f4166af128a161c471b243144856ba", null ],
-    [ "_summoner", "d9/d74/a18665.html#afe1f7bcb3569758bc075380a24527067", null ]
+    [ "ValithriaDespawner", "d9/d74/a18665.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d9/d74/a18665.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d9/d74/a18665.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d9/d74/a18665.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

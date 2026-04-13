@@ -1,6 +1,13 @@
 var a15717 =
 [
-    [ "HandleOnHit", "dd/df2/a15717.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "dd/df2/a15717.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "dd/df2/a15717.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "npc_tharnarianAI", "dd/df2/a15717.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
+    [ "Initialize", "dd/df2/a15717.html#ad1d89491b42a56406273a04045e7e91d", null ],
+    [ "Reset", "dd/df2/a15717.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
+    [ "SetGUID", "dd/df2/a15717.html#a8717a30828b91853ceba1b5e62126f29", null ],
+    [ "sGossipSelect", "dd/df2/a15717.html#a33b5898def48e17ba27363b98f51849b", null ],
+    [ "UpdateAI", "dd/df2/a15717.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
+    [ "_bearGUID", "dd/df2/a15717.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
+    [ "_events", "dd/df2/a15717.html#aff73052a4b7407d760af3dde09fa8a07", null ],
+    [ "_facing", "dd/df2/a15717.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
+    [ "_scriptRunning", "dd/df2/a15717.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
 ];

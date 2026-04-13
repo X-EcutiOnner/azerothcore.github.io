@@ -1,6 +1,6 @@
 var a15445 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "d8/dd0/a15449.html", "d8/dd0/a15449" ],
-    [ "instance_razorfen_kraul", "d1/d77/a15445.html#aedd65b901c8131a7ac21e8576734f76f", null ],
-    [ "GetInstanceScript", "d1/d77/a15445.html#a78e77010ebb055b9530733ca25533110", null ]
+    [ "OnPeriodic", "d1/d77/a15445.html#a08dce8b98afadc134166a615b4496151", null ],
+    [ "PrepareAuraScript", "d1/d77/a15445.html#a9ebb34665b176e4e60f085da65183d8e", null ],
+    [ "Register", "d1/d77/a15445.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
 ];

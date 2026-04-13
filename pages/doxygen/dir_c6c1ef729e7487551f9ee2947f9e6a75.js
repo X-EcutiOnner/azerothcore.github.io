@@ -1,10 +1,10 @@
 var dir_c6c1ef729e7487551f9ee2947f9e6a75 =
 [
-    [ "boss_palehoof.cpp", "dd/d08/a02957.html", "dd/d08/a02957" ],
-    [ "boss_skadi.cpp", "d7/dc1/a02963.html", "d7/dc1/a02963" ],
-    [ "boss_svala.cpp", "d4/d32/a02951.html", "d4/d32/a02951" ],
-    [ "boss_ymiron.cpp", "d7/d6b/a02945.html", "d7/d6b/a02945" ],
-    [ "instance_utgarde_pinnacle.cpp", "d2/d9c/a02948.html", "d2/d9c/a02948" ],
-    [ "utgarde_pinnacle.cpp", "db/d1b/a02960.html", "db/d1b/a02960" ],
-    [ "utgarde_pinnacle.h", "d4/dbc/a02954.html", "d4/dbc/a02954" ]
+    [ "boss_palehoof.cpp", "dd/d27/a03989.html", "dd/d27/a03989" ],
+    [ "boss_skadi.cpp", "d7/df2/a03986.html", "d7/df2/a03986" ],
+    [ "boss_svala.cpp", "df/d58/a03998.html", "df/d58/a03998" ],
+    [ "boss_ymiron.cpp", "dd/d78/a03980.html", "dd/d78/a03980" ],
+    [ "instance_utgarde_pinnacle.cpp", "d9/d0d/a03995.html", "d9/d0d/a03995" ],
+    [ "utgarde_pinnacle.cpp", "d9/d0c/a03992.html", "d9/d0c/a03992" ],
+    [ "utgarde_pinnacle.h", "d1/de2/a03983.html", "d1/de2/a03983" ]
 ];

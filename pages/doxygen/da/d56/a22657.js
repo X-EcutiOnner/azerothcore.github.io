@@ -1,7 +1,6 @@
 var a22657 =
 [
-    [ "npc_voidtraveler", "da/d56/a22657.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "da/d56/a22657.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "da/d56/a22657.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "da/d56/a22657.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "HandleSchoolDamage", "da/d56/a22657.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
+    [ "PrepareSpellScript", "da/d56/a22657.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
+    [ "Register", "da/d56/a22657.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
 ];

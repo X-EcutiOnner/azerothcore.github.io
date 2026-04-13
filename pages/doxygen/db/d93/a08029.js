@@ -1,6 +1,5 @@
 var a08029 =
 [
-    [ "value_type", "db/d93/a08029.html#a6ffbf1b2887c79b97a1804a601ea585e", null ],
-    [ "StoreTo", "db/d93/a08029.html#a872daea2854f6243884ec35734f94d2e", null ],
-    [ "tag", "db/d93/a08029.html#acbb2b3fc4989e4bb51e3440dcb753719", null ]
+    [ "IsColorValid", "db/d93/a08029.html#a4e2a1ab20d086987429174f41887bc45", null ],
+    [ "IsTextValid", "db/d93/a08029.html#a4704555f7e926f8facce237de6772a3d", null ]
 ];

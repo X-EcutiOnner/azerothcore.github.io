@@ -1,6 +1,6 @@
 var a25673 =
 [
-    [ "HandleStackDrop", "d5/d03/a25673.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
-    [ "PrepareAuraScript", "d5/d03/a25673.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
-    [ "Register", "d5/d03/a25673.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
+    [ "CheckSinkholes", "d5/d03/a25673.html#a5c363144cde9e809d97730f54873fe85", null ],
+    [ "PrepareSpellScript", "d5/d03/a25673.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
+    [ "Register", "d5/d03/a25673.html#a6694fbf58b776b74df0a54cd96141688", null ]
 ];

@@ -1,9 +1,11 @@
 var a28081 =
 [
-    [ "boss_lethonAI", "de/d10/a28081.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "de/d10/a28081.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "de/d10/a28081.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "de/d10/a28081.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "de/d10/a28081.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "de/d10/a28081.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "npc_franklinAI", "de/d10/a28081.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "de/d10/a28081.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "de/d10/a28081.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "de/d10/a28081.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "de/d10/a28081.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "de/d10/a28081.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "de/d10/a28081.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "de/d10/a28081.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

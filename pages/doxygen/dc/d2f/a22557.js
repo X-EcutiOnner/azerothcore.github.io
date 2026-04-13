@@ -1,12 +1,8 @@
 var a22557 =
 [
-    [ "OPvPCapturePointZM_Beacon", "dc/d2f/a22557.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
-    [ "ChangeState", "dc/d2f/a22557.html#a5bbe87c18c814358596a9648fd92b129", null ],
-    [ "FillInitialWorldStates", "dc/d2f/a22557.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
-    [ "HandlePlayerEnter", "dc/d2f/a22557.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
-    [ "HandlePlayerLeave", "dc/d2f/a22557.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
-    [ "SendChangePhase", "dc/d2f/a22557.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
-    [ "UpdateTowerState", "dc/d2f/a22557.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
-    [ "m_TowerState", "dc/d2f/a22557.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
-    [ "m_TowerType", "dc/d2f/a22557.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
+    [ "HandleEffectApply", "dc/d2f/a22557.html#a94993441ef94f84c85aa10c693cf34fe", null ],
+    [ "HandleEffectRemove", "dc/d2f/a22557.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
+    [ "PrepareAuraScript", "dc/d2f/a22557.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
+    [ "Register", "dc/d2f/a22557.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
+    [ "Validate", "dc/d2f/a22557.html#a964637541cd64e64b4e02c00d36abf2d", null ]
 ];

@@ -1,5 +1,8 @@
 var a22421 =
 [
-    [ "go_finklestein_cauldron", "d8/d5d/a22421.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "d8/d5d/a22421.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "Load", "d8/d5d/a22421.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "d8/d5d/a22421.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "d8/d5d/a22421.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "d8/d5d/a22421.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "d8/d5d/a22421.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

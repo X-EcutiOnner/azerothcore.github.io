@@ -1,7 +1,5 @@
 var a19045 =
 [
-    [ "PeriodicTick", "d1/df4/a19045.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "d1/df4/a19045.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "d1/df4/a19045.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "d1/df4/a19045.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "npc_icc_buff_switcher", "d1/df4/a19045.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "d1/df4/a19045.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

@@ -1,7 +1,7 @@
 var a26905 =
 [
-    [ "HandleApplyEffect", "db/d1f/a26905.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "db/d1f/a26905.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "db/d1f/a26905.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "db/d1f/a26905.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "CalcPeriodic", "db/d1f/a26905.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "db/d1f/a26905.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "db/d1f/a26905.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "db/d1f/a26905.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

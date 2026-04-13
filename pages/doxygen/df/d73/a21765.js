@@ -1,6 +1,6 @@
 var a21765 =
 [
-    [ "HandleSendEvent", "df/d73/a21765.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "df/d73/a21765.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "df/d73/a21765.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_tournament_training_dummyAI", "d9/dcc/a21769.html", "d9/dcc/a21769" ],
+    [ "npc_tournament_training_dummy", "df/d73/a21765.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "df/d73/a21765.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

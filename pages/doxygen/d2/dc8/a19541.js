@@ -1,15 +1,12 @@
 var a19541 =
 [
-    [ "boss_heigan", "d2/dc8/a19541.html#a402b76bd927dd738bdbdf7faff93394c", null ],
-    [ "CheckSafetyDance", "d2/dc8/a19541.html#a378397cc91408b812c76f657a96285e1", null ],
-    [ "JustDied", "d2/dc8/a19541.html#a259c99e12b92ccb99af16949e37b5c48", null ],
-    [ "JustEngagedWith", "d2/dc8/a19541.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
-    [ "KilledUnit", "d2/dc8/a19541.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
-    [ "Reset", "d2/dc8/a19541.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
-    [ "StartFightPhase", "d2/dc8/a19541.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
-    [ "UpdateAI", "d2/dc8/a19541.html#a36c0bc5abff61b435f2a8163687b122a", null ],
-    [ "_currentPhase", "d2/dc8/a19541.html#a1065c6221b30536344e7d4d0779abd17", null ],
-    [ "_currentSection", "d2/dc8/a19541.html#adcf2448a0868ea3e900609c8e7e34154", null ],
-    [ "_eruptionScheduler", "d2/dc8/a19541.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
-    [ "_moveRight", "d2/dc8/a19541.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
+    [ "instance_nexus_InstanceMapScript", "d2/dc8/a19541.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d2/dc8/a19541.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "KillAllFrayers", "d2/dc8/a19541.html#a7c696467deba7a2f15d5175e3427bd20", null ],
+    [ "OnCreatureCreate", "d2/dc8/a19541.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d2/dc8/a19541.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d2/dc8/a19541.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d2/dc8/a19541.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d2/dc8/a19541.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
+    [ "_frayerGUIDs", "d2/dc8/a19541.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
 ];

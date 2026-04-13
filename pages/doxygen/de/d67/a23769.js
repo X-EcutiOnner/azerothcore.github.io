@@ -1,6 +1,7 @@
 var a23769 =
 [
-    [ "HandlePeriodic", "de/d67/a23769.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "de/d67/a23769.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "de/d67/a23769.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "CheckRequirement", "de/d67/a23769.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "de/d67/a23769.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "de/d67/a23769.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "de/d67/a23769.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

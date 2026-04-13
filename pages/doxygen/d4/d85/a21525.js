@@ -1,6 +1,6 @@
 var a21525 =
 [
-    [ "npc_iruk", "d4/d85/a21525.html#a721aeefd23371cc6bc16738a797bf50a", null ],
-    [ "OnGossipHello", "d4/d85/a21525.html#a774669099330c75ab5e0bea8d460f517", null ],
-    [ "OnGossipSelect", "d4/d85/a21525.html#ae6f7d54d224488a9e29c59c560eba471", null ]
+    [ "HandleScriptEffect", "d4/d85/a21525.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
+    [ "PrepareSpellScript", "d4/d85/a21525.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
+    [ "Register", "d4/d85/a21525.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
 ];

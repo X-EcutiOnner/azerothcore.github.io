@@ -1,17 +1,7 @@
 var a22929 =
 [
-    [ "npc_akama_shade", "d0/d06/a22929.html#a95e956e162cb88d2814622bc10166ca5", null ],
-    [ "DamageTaken", "d0/d06/a22929.html#a962723ebc58a2b1f813fcc0715f9f2d2", null ],
-    [ "DoAction", "d0/d06/a22929.html#a59619f193d51e3bad05044aad2d96d9a", null ],
-    [ "EnterEvadeMode", "d0/d06/a22929.html#ae2441741caf0b91196469f67a38823bc", null ],
-    [ "JustEngagedWith", "d0/d06/a22929.html#a87df13ee30423c51e50670c535fdf99d", null ],
-    [ "JustSummoned", "d0/d06/a22929.html#a2372d2e64fb36b64f638583409cf9fa8", null ],
-    [ "MovementInform", "d0/d06/a22929.html#a4f1900d16dd36fbb9e573d59cf2176a1", null ],
-    [ "Reset", "d0/d06/a22929.html#a2d8161405dbb97cc1784e3cf49679d25", null ],
-    [ "sGossipSelect", "d0/d06/a22929.html#a8a18c7195f04caed0cf93655f556ad9a", null ],
-    [ "UpdateAI", "d0/d06/a22929.html#af9091eaa02a0967cbc2acb7d0160e5f1", null ],
-    [ "_died", "d0/d06/a22929.html#a1295073fb0f2dc19baeb16ad73ceb1df", null ],
-    [ "_generators", "d0/d06/a22929.html#a84d8d87d9bb92ba20e357d5854410a5e", null ],
-    [ "_sayLowHealth", "d0/d06/a22929.html#ae068b44aff8c9e4e1b75afab7959fda8", null ],
-    [ "instance", "d0/d06/a22929.html#a590f6a445bcda767c2197da05fc3cb15", null ]
+    [ "npc_ahune_ice_spear_bunny", "d0/d06/a22929.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "d0/d06/a22929.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "d0/d06/a22929.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "d0/d06/a22929.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

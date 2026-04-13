@@ -1,10 +1,8 @@
 var a09265 =
 [
-    [ "creatureRate", "d5/dbc/a09265.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
-    [ "questDailyRate", "d5/dbc/a09265.html#a1798044bdf25ce774191b00e261add1e", null ],
-    [ "questMonthlyRate", "d5/dbc/a09265.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
-    [ "questRate", "d5/dbc/a09265.html#a914118aa28b3736ff4e6c5b61d738834", null ],
-    [ "questRepeatableRate", "d5/dbc/a09265.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
-    [ "questWeeklyRate", "d5/dbc/a09265.html#a0fb31ebc33d0ce11f392be845907e043", null ],
-    [ "spellRate", "d5/dbc/a09265.html#a508485f1e6833c58a11706667a2c24fd", null ]
+    [ "target_mapId", "d5/dbc/a09265.html#af6d7558707c026a6d64f2d7b65a344be", null ],
+    [ "target_Orientation", "d5/dbc/a09265.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
+    [ "target_X", "d5/dbc/a09265.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
+    [ "target_Y", "d5/dbc/a09265.html#a6660d360eaa47098506f246927130e32", null ],
+    [ "target_Z", "d5/dbc/a09265.html#a32fee5f497804089feb738be84548dc1", null ]
 ];

@@ -1,6 +1,6 @@
 var a26961 =
 [
-    [ "CheckDummy", "d8/dbd/a26961.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
-    [ "PrepareAuraScript", "d8/dbd/a26961.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
-    [ "Register", "d8/dbd/a26961.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
+    [ "HandleRemove", "d8/dbd/a26961.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "d8/dbd/a26961.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "d8/dbd/a26961.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

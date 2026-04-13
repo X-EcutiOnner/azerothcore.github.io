@@ -1,7 +1,6 @@
 var a26621 =
 [
-    [ "CheckProc", "d8/d8c/a26621.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
-    [ "HandleProc", "d8/d8c/a26621.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
-    [ "PrepareAuraScript", "d8/d8c/a26621.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
-    [ "Register", "d8/d8c/a26621.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
+    [ "HandleDummyEffect", "d8/d8c/a26621.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "d8/d8c/a26621.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "d8/d8c/a26621.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

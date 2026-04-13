@@ -1,17 +1,12 @@
 var a00305 =
 [
-    [ "TypeContainerVisitor< VISITOR, TYPE_CONTAINER >", "d0/d5e/a05570.html", "d0/d5e/a05570" ],
-    [ "VisitorHelper", "d3/d07/a00305.html#afb97c1925d9afe2b9cb0f316b722b286", null ],
-    [ "VisitorHelper", "d3/d07/a00305.html#a3c05d024f0dd548fe51e8d8657cdb9b8", null ],
-    [ "VisitorHelper", "d3/d07/a00305.html#ab2c2dfc68b7d3ba945e400be7066f94c", null ],
-    [ "VisitorHelper", "d3/d07/a00305.html#a2bba031b226b147ad62a069694924b83", null ],
-    [ "VisitorHelper", "d3/d07/a00305.html#a521e8e3b3a45439e572e9769ad39b512", null ],
-    [ "VisitorHelper", "d3/d07/a00305.html#ace6180e67fbb6a46929af65480632388", null ],
-    [ "VisitorHelper", "d3/d07/a00305.html#ac2220e2e1174a525d43b8449fd25a2e3", null ],
-    [ "VisitorHelper", "d3/d07/a00305.html#a87fb6736f88af014249a28bf2a95df93", null ],
-    [ "VisitorHelper", "d3/d07/a00305.html#a4160fec3fe29282a64569456f5ce1de6", null ],
-    [ "VisitorHelper", "d3/d07/a00305.html#a3a47e8382377ca85476452be8786e00f", null ],
-    [ "VisitorHelper", "d3/d07/a00305.html#a85da15ab4908f58ef09fcf703f3c01a6", null ],
-    [ "VisitorHelper", "d3/d07/a00305.html#af508b246df1e278d5ebf32da50f4e2f9", null ],
-    [ "VisitorHelper", "d3/d07/a00305.html#a3460133a0353fbe6d657e70e70653299", null ]
+    [ "Elapsed", "d3/d07/a00305.html#af9a7dcb5dfa331445f56900767b13e8b", null ],
+    [ "GetGameTime", "d3/d07/a00305.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
+    [ "GetGameTimeMS", "d3/d07/a00305.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
+    [ "GetStartTime", "d3/d07/a00305.html#a872d34d3f9d420cfc749073c809931f9", null ],
+    [ "GetSystemTime", "d3/d07/a00305.html#a443eccf314fe436192278d425d6d8220", null ],
+    [ "GetUptime", "d3/d07/a00305.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+    [ "HasElapsed", "d3/d07/a00305.html#a6acb8998bc9dae720531cb39082262f2", null ],
+    [ "Now", "d3/d07/a00305.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
+    [ "UpdateGameTimers", "d3/d07/a00305.html#a45712735241c9563a12fc3da54fb144d", null ]
 ];

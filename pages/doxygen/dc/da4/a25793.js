@@ -1,7 +1,6 @@
 var a25793 =
 [
-    [ "HandleScriptEffect", "dc/da4/a25793.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "dc/da4/a25793.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "dc/da4/a25793.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "dc/da4/a25793.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "PrepareSpellScript", "dc/da4/a25793.html#a738e105a48f6c603f3d9a690f44b8745", null ],
+    [ "Register", "dc/da4/a25793.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
+    [ "SetDest", "dc/da4/a25793.html#a59641895cead08de4a4503262505ee73", null ]
 ];

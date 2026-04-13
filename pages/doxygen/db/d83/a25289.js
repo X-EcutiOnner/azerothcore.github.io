@@ -1,9 +1,9 @@
 var a25289 =
 [
-    [ "PrepareAuraScript", "db/d83/a25289.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
-    [ "RefreshVisualShields", "db/d83/a25289.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
-    [ "Register", "db/d83/a25289.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
-    [ "RemoveDummyFromDriver", "db/d83/a25289.html#a399641ce72b74038a4517868267bd86a", null ],
-    [ "RemoveVisualShields", "db/d83/a25289.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
-    [ "Validate", "db/d83/a25289.html#ae5799f72b7fbce82799fd730f1525948", null ]
+    [ "CheckIfCorpseNear", "db/d83/a25289.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "db/d83/a25289.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "db/d83/a25289.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "db/d83/a25289.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "db/d83/a25289.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "db/d83/a25289.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

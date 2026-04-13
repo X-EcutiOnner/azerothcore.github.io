@@ -1,11 +1,15 @@
 var a12137 =
 [
-    [ "group_commandscript", "d1/d9f/a12137.html#ad2890427cfe3649b2e0fe0896693372c", null ],
-    [ "GetCommands", "d1/d9f/a12137.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
-    [ "HandleGroupDisbandCommand", "d1/d9f/a12137.html#a538539340a697e02453ddcfa669fb646", null ],
-    [ "HandleGroupJoinCommand", "d1/d9f/a12137.html#a382e8532c653464e90b45569e813ae37", null ],
-    [ "HandleGroupLeaderCommand", "d1/d9f/a12137.html#a899858a63add3c68e0e1446d29216c00", null ],
-    [ "HandleGroupListCommand", "d1/d9f/a12137.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "d1/d9f/a12137.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "d1/d9f/a12137.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "arena_commandscript", "d1/d9f/a12137.html#ad433113f5a3cf7f2cb43ff4fd3f0d49d", null ],
+    [ "GetCommands", "d1/d9f/a12137.html#a3a5e95fca957fd1898d6a7acea98931e", null ],
+    [ "HandleArenaCaptainCommand", "d1/d9f/a12137.html#a7b7123c837bbecb1a4d3d2e8aa934d4c", null ],
+    [ "HandleArenaCreateCommand", "d1/d9f/a12137.html#a10eab39042cb718d839fbdf7236b1a31", null ],
+    [ "HandleArenaDisbandCommand", "d1/d9f/a12137.html#a012626d4c101a63d9a70c530c9e98354", null ],
+    [ "HandleArenaInfoCommand", "d1/d9f/a12137.html#a90fc70aae7b3e0fec179a0a1a7482c11", null ],
+    [ "HandleArenaLookupCommand", "d1/d9f/a12137.html#a7356c0a45dcf32809a32fe6053b94de0", null ],
+    [ "HandleArenaRenameCommand", "d1/d9f/a12137.html#a4095683ee7b5a2236dac8aa36a607d7c", null ],
+    [ "HandleArenaSeasonDeleteTeamsCommand", "d1/d9f/a12137.html#a956b4450813331d5bc43c46409c4a095", null ],
+    [ "HandleArenaSeasonRewardCommand", "d1/d9f/a12137.html#a8b83f4ae0544e33d4bafe674b416f176", null ],
+    [ "HandleArenaSeasonSetStateCommand", "d1/d9f/a12137.html#a8d6c1eeaebab28859f0bdef70b50a3bb", null ],
+    [ "HandleArenaSeasonStartCommand", "d1/d9f/a12137.html#a58ea37f547986c084c04064bddc32cfb", null ]
 ];

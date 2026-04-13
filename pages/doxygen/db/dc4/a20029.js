@@ -1,5 +1,6 @@
 var a20029 =
 [
-    [ "boss_sjonnir_dwarfAI", "db/dc4/a20029.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "db/dc4/a20029.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "PrepareSpellScript", "db/dc4/a20029.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "db/dc4/a20029.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "db/dc4/a20029.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

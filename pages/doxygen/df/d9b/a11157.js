@@ -1,6 +1,7 @@
 var a11157 =
 [
-    [ "ItemRefund", "df/d9b/a11157.html#aa257d579519d45da88694ff6306395da", null ],
-    [ "Read", "df/d9b/a11157.html#a6d031070a4832bdc716f8b73629ebc8d", null ],
-    [ "ItemGuid", "df/d9b/a11157.html#ac394336b15540248770f81d748206f7b", null ]
+    [ "AutoEquipItem", "df/d9b/a11157.html#a60accc2bf5c484753f94a8fe947e8f36", null ],
+    [ "Read", "df/d9b/a11157.html#a187bcedbc110adc332c0cb1de2bd7d9c", null ],
+    [ "SourceBag", "df/d9b/a11157.html#ad8fe37595168bc57fcd4af46bdbfafdc", null ],
+    [ "SourceSlot", "df/d9b/a11157.html#aee1f081b0775d7fc9eb67764a9249ec5", null ]
 ];

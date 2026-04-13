@@ -1,18 +1,13 @@
 var a20881 =
 [
-    [ "boss_yoggsaron_brain", "d8/d77/a20881.html#acff8a9441c64626af86cfaaed7295076", null ],
-    [ "DamageTaken", "d8/d77/a20881.html#ae6447e894e75f49c61876450f2cdc7ff", null ],
-    [ "DoAction", "d8/d77/a20881.html#aff1761f23cd984cc5db31026f84b4218", null ],
-    [ "GetData", "d8/d77/a20881.html#a30593cbb193bf868f99d54279e04d39e", null ],
-    [ "JustSummoned", "d8/d77/a20881.html#a5b1aa2863bcec9dff0f87a6d4154daf6", null ],
-    [ "PrepareChamberIllusion", "d8/d77/a20881.html#ad162b38c8b4d638c6f3f6c673b6554d4", null ],
-    [ "PrepareIceCrownIllusion", "d8/d77/a20881.html#adf41fc4e1adda0e969e06f490fe59414", null ],
-    [ "PrepareStormwindIllusion", "d8/d77/a20881.html#a193b18ba9aa03583659002c6a339c0c7", null ],
-    [ "Reset", "d8/d77/a20881.html#a9d75d3a6e7d89d8d1c4e472b8fe82161", null ],
-    [ "UpdateAI", "d8/d77/a20881.html#a7146ec81c014dd9c19a18ccf0fe30d87", null ],
-    [ "_activeIllusion", "d8/d77/a20881.html#aebc5e80be39aea6be68b9b1e78ec770f", null ],
-    [ "_brainDamaged", "d8/d77/a20881.html#a9b8045951ba23deda3db3f9bfcee0754", null ],
-    [ "_induceTimer", "d8/d77/a20881.html#a3c0d87cf1dc824321aa02034f800f14b", null ],
-    [ "_tentacleCount", "d8/d77/a20881.html#a58a8dcda9f7f41f061af4cb6b26657fd", null ],
-    [ "summons", "d8/d77/a20881.html#ae51cea57d22cfac38efdddde1bed15f9", null ]
+    [ "npc_frenzied_worgenAI", "d8/d77/a20881.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
+    [ "DoAction", "d8/d77/a20881.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
+    [ "JustDied", "d8/d77/a20881.html#a33b723baef468ef79e67aaadba1b2691", null ],
+    [ "JustEngagedWith", "d8/d77/a20881.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
+    [ "JustReachedHome", "d8/d77/a20881.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
+    [ "MoveInLineOfSight", "d8/d77/a20881.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
+    [ "Reset", "d8/d77/a20881.html#adccac21b6eff18db096eb79dab4a27a0", null ],
+    [ "UpdateAI", "d8/d77/a20881.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
+    [ "events", "d8/d77/a20881.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
+    [ "m_pInstance", "d8/d77/a20881.html#a425720ce11714b145685f6d9c78a3dc1", null ]
 ];

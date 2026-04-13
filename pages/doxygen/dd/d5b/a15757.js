@@ -1,8 +1,7 @@
 var a15757 =
 [
-    [ "npc_obsidian_eradicator", "dd/d5b/a15757.html#a84a6c414b3d74468143984e57f83e383", null ],
-    [ "JustEngagedWith", "dd/d5b/a15757.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
-    [ "Reset", "dd/d5b/a15757.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
-    [ "UpdateAI", "dd/d5b/a15757.html#a1697d83e89559f047d5bab652007bb61", null ],
-    [ "_targetGUIDs", "dd/d5b/a15757.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
+    [ "HandleEffectPeriodic", "dd/d5b/a15757.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "dd/d5b/a15757.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "dd/d5b/a15757.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "dd/d5b/a15757.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

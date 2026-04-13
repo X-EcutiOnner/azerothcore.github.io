@@ -1,6 +1,14 @@
 var a16845 =
 [
-    [ "npc_nerubian_burrowerAI", "d8/dbc/a16849.html", "d8/dbc/a16849" ],
-    [ "npc_nerubian_burrower", "d5/d42/a16845.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "d5/d42/a16845.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "npc_snobold_vassalAI", "d5/d42/a16845.html#a2ecc5e8289252b2936f36de9921294e0", null ],
+    [ "AttackStart", "d5/d42/a16845.html#a50afc82c80cede8dcf3240a116463411", null ],
+    [ "DoAction", "d5/d42/a16845.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
+    [ "JustDied", "d5/d42/a16845.html#aef408460584a17f15a84e8a6435c6348", null ],
+    [ "JustEngagedWith", "d5/d42/a16845.html#a60c1704617e99239d60d24d6b7513c1a", null ],
+    [ "MoveInLineOfSight", "d5/d42/a16845.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
+    [ "Reset", "d5/d42/a16845.html#af794f46b1a7af97b52683954b556c27d", null ],
+    [ "UpdateAI", "d5/d42/a16845.html#ac1d282da6f2d9133619a212a349c777f", null ],
+    [ "events", "d5/d42/a16845.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
+    [ "pInstance", "d5/d42/a16845.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
+    [ "TargetGUID", "d5/d42/a16845.html#a0d36e4903448c5a03115df0dff3480c8", null ]
 ];

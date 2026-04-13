@@ -1,6 +1,7 @@
 var a18005 =
 [
-    [ "Cooldown", "d2/dac/a18005.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "d2/dac/a18005.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "d2/dac/a18005.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "npc_coldflameAI", "d2/dac/a18005.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "d2/dac/a18005.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "d2/dac/a18005.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "d2/dac/a18005.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

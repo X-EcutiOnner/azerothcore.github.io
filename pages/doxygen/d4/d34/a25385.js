@@ -1,6 +1,6 @@
 var a25385 =
 [
-    [ "PrepareSpellScript", "d4/d34/a25385.html#abb178100d4e5fa4032118f86aa34127d", null ],
-    [ "Register", "d4/d34/a25385.html#a50e902cc281b909259097a8bed5651f2", null ],
-    [ "RemoveVehicleAuras", "d4/d34/a25385.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
+    [ "HandleItemRemove", "d4/d34/a25385.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
+    [ "PrepareSpellScript", "d4/d34/a25385.html#a8b43e146724a2c8b3c495e886a79d021", null ],
+    [ "Register", "d4/d34/a25385.html#af8b02c31b81dce516ea47d6a1235d683", null ]
 ];

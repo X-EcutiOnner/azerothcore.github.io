@@ -1,12 +1,21 @@
 var a21801 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "dc/d32/a21801.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
-    [ "Activate", "dc/d32/a21801.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
-    [ "AttackStart", "dc/d32/a21801.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
-    [ "CanAIAttack", "dc/d32/a21801.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
-    [ "Deactivate", "dc/d32/a21801.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
-    [ "DoAction", "dc/d32/a21801.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
-    [ "JustDied", "dc/d32/a21801.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
-    [ "JustRespawned", "dc/d32/a21801.html#ab30068f7082176c279e0667f72d750a3", null ],
-    [ "Reset", "dc/d32/a21801.html#ad94a4789b5ba019d021682f15df13589", null ]
+    [ "npc_still_at_it_triggerAI", "dc/d32/a21801.html#a4c8a9984ded254aac0df168e35d658e1", null ],
+    [ "CheckAction", "dc/d32/a21801.html#ae52906e508ec3ea438c0dbde31a82197", null ],
+    [ "DamageTaken", "dc/d32/a21801.html#abeae6e59731fb70848ba719dbc18727b", null ],
+    [ "GetManus", "dc/d32/a21801.html#a1208132a9844369d0e1d87910a8576a7", null ],
+    [ "Reset", "dc/d32/a21801.html#a51f7fae0fae84e12e27840c04dde65f8", null ],
+    [ "SpellHit", "dc/d32/a21801.html#a41f2ef44c6ad7b9fff8e9ee90eebc759", null ],
+    [ "Start", "dc/d32/a21801.html#ac707759eea2d1e3d538f89d013aa96c9", null ],
+    [ "UpdateAI", "dc/d32/a21801.html#af6b279fbc562bbb702ea17eb892471d4", null ],
+    [ "currentstep", "dc/d32/a21801.html#a3206f3946f1f9a3e230c39f3370642cd", null ],
+    [ "expectedaction", "dc/d32/a21801.html#a3aa9f7db1b56bb186678455026e4d193", null ],
+    [ "playeraction", "dc/d32/a21801.html#af018e010bb709b73eec229615f401966", null ],
+    [ "playerGUID", "dc/d32/a21801.html#a3385d9f57a52914378fe2c1126600af5", null ],
+    [ "running", "dc/d32/a21801.html#a81100e14bbfdd5d31d61cef76b4c0a7f", null ],
+    [ "stepcount", "dc/d32/a21801.html#abd3273fe4758b494153c91362b01a587", null ],
+    [ "success", "dc/d32/a21801.html#a4e4d83f7b8e084f5051498f47cd57448", null ],
+    [ "tensecstimer", "dc/d32/a21801.html#a8774bbe4630b518f45508996710d006a", null ],
+    [ "thunderbrewGUID", "dc/d32/a21801.html#ac55098fa6034fe3b7efabdfaf72d083a", null ],
+    [ "timer", "dc/d32/a21801.html#a818549f4fd33d6d07e874705b09416e6", null ]
 ];

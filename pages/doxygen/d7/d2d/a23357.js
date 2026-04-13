@@ -1,6 +1,7 @@
 var a23357 =
 [
-    [ "HandleAfterRemove", "d7/d2d/a23357.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "d7/d2d/a23357.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "d7/d2d/a23357.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "boss_zereketh_the_unbound", "d7/d2d/a23357.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "d7/d2d/a23357.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "d7/d2d/a23357.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "d7/d2d/a23357.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

@@ -1,6 +1,7 @@
 var a12829 =
 [
-    [ "boss_vaelAI", "d8/d68/a12833.html", "d8/d68/a12833" ],
-    [ "boss_vaelastrasz", "dc/d0d/a12829.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
-    [ "GetAI", "dc/d0d/a12829.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
+    [ "HandleScript", "dc/d0d/a12829.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
+    [ "PrepareSpellScript", "dc/d0d/a12829.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
+    [ "Register", "dc/d0d/a12829.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
+    [ "Validate", "dc/d0d/a12829.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
 ];

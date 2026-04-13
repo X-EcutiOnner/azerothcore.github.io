@@ -1,6 +1,6 @@
 var a14557 =
 [
-    [ "npc_ohganAI", "d9/dfd/a14561.html", "d9/dfd/a14561" ],
-    [ "npc_ohgan", "df/d64/a14557.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "df/d64/a14557.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "go_direbrew_mole_machineAI", "d9/dfd/a14561.html", "d9/dfd/a14561" ],
+    [ "go_direbrew_mole_machine", "df/d64/a14557.html#a759d291a5be227d8beae3bbc779e56f4", null ],
+    [ "GetAI", "df/d64/a14557.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
 ];

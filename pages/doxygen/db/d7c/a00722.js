@@ -1,51 +1,11 @@
 var a00722 =
 [
-    [ "anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc", "df/d62/a29450.html", "df/d62/a29450" ],
-    [ "anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc", "d9/d6f/a29454.html", "d9/d6f/a29454" ],
-    [ "anonymous_namespace{SpellImmunityTest.cpp}::EffectApplyResult", "df/df1/a29458.html", "df/df1/a29458" ],
-    [ "AuraType", "db/d7c/a00722.html#ab3c8788e4514711f326743e17cf18f33", [
-      [ "AURA_NONE", "db/d7c/a00722.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c", null ],
-      [ "AURA_MOD_DECREASE_SPEED", "db/d7c/a00722.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48", null ],
-      [ "AURA_PERIODIC_DAMAGE", "db/d7c/a00722.html#ab3c8788e4514711f326743e17cf18f33a6a2e2898c74255e2be848f8d851cd61b", null ],
-      [ "AURA_TRANSFORM", "db/d7c/a00722.html#ab3c8788e4514711f326743e17cf18f33a856d9e6ed0a25dd7d099adeed0e46680", null ],
-      [ "AURA_MOD_STUN", "db/d7c/a00722.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace", null ]
-    ] ],
-    [ "EffectType", "db/d7c/a00722.html#ad4f0bfb68d839af88604b04ff47ee09b", [
-      [ "EFFECT_NONE", "db/d7c/a00722.html#ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9", null ],
-      [ "EFFECT_SCHOOL_DAMAGE", "db/d7c/a00722.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326", null ],
-      [ "EFFECT_HEALTH_LEECH", "db/d7c/a00722.html#ad4f0bfb68d839af88604b04ff47ee09badf7d20f7f73744f8801a9e3722859857", null ],
-      [ "EFFECT_POWER_DRAIN", "db/d7c/a00722.html#ad4f0bfb68d839af88604b04ff47ee09ba7f780b287e075a337dec7f1eff2f7fe6", null ],
-      [ "EFFECT_POWER_BURN", "db/d7c/a00722.html#ad4f0bfb68d839af88604b04ff47ee09baa3b002d33deb9b0c599313ec88fbacbe", null ],
-      [ "EFFECT_NORMALIZED_WEAPON_DMG", "db/d7c/a00722.html#ad4f0bfb68d839af88604b04ff47ee09bad0131549c4802cb811d2fabffcb09a86", null ],
-      [ "EFFECT_WEAPON_PERCENT_DAMAGE", "db/d7c/a00722.html#ad4f0bfb68d839af88604b04ff47ee09ba789f2fcff65ef9724496bdd61374c413", null ],
-      [ "EFFECT_APPLY_AURA", "db/d7c/a00722.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a", null ],
-      [ "EFFECT_DUMMY", "db/d7c/a00722.html#ad4f0bfb68d839af88604b04ff47ee09ba3beec166914f7490f010caa66eca7140", null ]
-    ] ],
-    [ "ApplyEffectsWithMovementImmunity", "db/d7c/a00722.html#a3f6167aede97490fe6c435b6e981ee31", null ],
-    [ "ComputeSpellHitResult", "db/d7c/a00722.html#a687cb216770a0868d03198480599bde5", null ],
-    [ "HasOnlyDamageEffects", "db/d7c/a00722.html#ac2464881723f07e073fd8ad85dbbaa61", null ],
-    [ "IsDamageEffect", "db/d7c/a00722.html#a751e7c7dd00eb27194700629d22d50c6", null ],
-    [ "IsEffectBlockedByStunImmunity", "db/d7c/a00722.html#accf0cc423cf1c4e9bf5ac0b660caed24", null ],
-    [ "IsFullyImmunedByStunImmunity", "db/d7c/a00722.html#aaa953489abf2a825aea7d2aef9f904a3", null ],
-    [ "IsStunSpell", "db/d7c/a00722.html#a95ec40b4341833086e531ed73dba7147", null ],
-    [ "MakeCycloneLikeSpell", "db/d7c/a00722.html#a6db007c75130da75c1510de68536e7fd", null ],
-    [ "MakeDamageOnlySpell", "db/d7c/a00722.html#ac9b0d1a51efd792514de07f8af0268cd", null ],
-    [ "MakeFrostboltLikeSpell", "db/d7c/a00722.html#a4ae8bc0e855177e9fb9212a0b24fa2c0", null ],
-    [ "MakeSlowOnlySpell", "db/d7c/a00722.html#ae0dcf3406441c72889d7703c788095a6", null ],
-    [ "TEST", "db/d7c/a00722.html#a33ab344e5a5a3cd55aa736f4c4076e8d", null ],
-    [ "TEST", "db/d7c/a00722.html#a0ceea3be37a3fb8d89b3ef53f31ac777", null ],
-    [ "TEST", "db/d7c/a00722.html#a7079e204a81977a4f3621da623fde93f", null ],
-    [ "TEST", "db/d7c/a00722.html#ad0300dc54f7b0fce3c749eea97288ce8", null ],
-    [ "TEST", "db/d7c/a00722.html#a98b2939a7b596ecad1bfe7fc9eea3b10", null ],
-    [ "TEST", "db/d7c/a00722.html#a93e1a99e06e23b7f476361a13f400619", null ],
-    [ "TEST", "db/d7c/a00722.html#a8a029b959e38d4926026f7dc1ba4d261", null ],
-    [ "TEST", "db/d7c/a00722.html#a113ef5bc9c956d6ddee3e2918c3ce3ab", null ],
-    [ "TEST", "db/d7c/a00722.html#a44d3aa6c1687da3b2950b5426d1a72f6", null ],
-    [ "TEST", "db/d7c/a00722.html#a101bdde4ca635021674b9c4d547289bf", null ],
-    [ "TEST", "db/d7c/a00722.html#ac84d48375a4e21b33f5c099b5ddba489", null ],
-    [ "TEST", "db/d7c/a00722.html#a29cf4cb38c8eafbe22a418f0b08cda79", null ],
-    [ "TEST", "db/d7c/a00722.html#a579210bd95da263d35a859c51af21bad", null ],
-    [ "TEST", "db/d7c/a00722.html#aa825e1abd2f35f0c5dd9ebacc11325f5", null ],
-    [ "TEST", "db/d7c/a00722.html#a364c61e1fd8f2cced1b6473676301fdc", null ],
-    [ "TEST", "db/d7c/a00722.html#a48ed8d85023d0633bff5255d90e5d2be", null ]
+    [ "AllCommandScript", "de/d96/a10545.html", "de/d96/a10545" ],
+    [ "CommandSC", "db/d7c/a00722.html#a0c35d8c2fdd730a0360fd00502881c03", null ],
+    [ "AllCommandHook", "db/d7c/a00722.html#a57c7df35e0370887ade698d62704997b", [
+      [ "ALLCOMMANDHOOK_ON_HANDLE_DEV_COMMAND", "db/d7c/a00722.html#a57c7df35e0370887ade698d62704997bab762a34db533207a5f8f5b0db870f0b0", null ],
+      [ "ALLCOMMANDHOOK_ON_TRY_EXECUTE_COMMAND", "db/d7c/a00722.html#a57c7df35e0370887ade698d62704997bac267dc607dca6da8a2195d77a9def327", null ],
+      [ "ALLCOMMANDHOOK_ON_BEFORE_IS_INVOKER_VISIBLE", "db/d7c/a00722.html#a57c7df35e0370887ade698d62704997ba7d51819392ef067de524c06437fab836", null ],
+      [ "ALLCOMMANDHOOK_END", "db/d7c/a00722.html#a57c7df35e0370887ade698d62704997bac10a14231ce403ff1812e0ec03700812", null ]
+    ] ]
 ];

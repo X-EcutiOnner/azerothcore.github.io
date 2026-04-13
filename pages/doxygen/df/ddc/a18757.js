@@ -1,7 +1,8 @@
 var a18757 =
 [
-    [ "CheckTargetCount", "df/ddc/a18757.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
-    [ "PrepareSpellScript", "df/ddc/a18757.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
-    [ "Register", "df/ddc/a18757.html#a86e7512496fd38201d458c03a7a60296", null ],
-    [ "Validate", "df/ddc/a18757.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
+    [ "Load", "df/ddc/a18757.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
+    [ "PeriodicTick", "df/ddc/a18757.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
+    [ "PrepareAuraScript", "df/ddc/a18757.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
+    [ "Register", "df/ddc/a18757.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
+    [ "_instance", "df/ddc/a18757.html#aebebb858f2ae41f2260d6843b3da8052", null ]
 ];

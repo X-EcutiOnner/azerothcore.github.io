@@ -1,11 +1,10 @@
 var a24025 =
 [
-    [ "npc_magister_aledis", "d3/dcd/a24025.html#a0e30c5d4f9fe023537a1b29258967630", null ],
-    [ "DamageTaken", "d3/dcd/a24025.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
-    [ "Reset", "d3/dcd/a24025.html#ae0a701eeaacc5188b382c59ecef14518", null ],
-    [ "sGossipSelect", "d3/dcd/a24025.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
-    [ "StartFight", "d3/dcd/a24025.html#a9149ce0a1df781043a5590fe4612511a", null ],
-    [ "UpdateAI", "d3/dcd/a24025.html#aef885088193e2597e6990e3051a31ef7", null ],
-    [ "_events", "d3/dcd/a24025.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
-    [ "_playerGUID", "d3/dcd/a24025.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
+    [ "npc_pet_gen_plump_turkey", "d3/dcd/a24025.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
+    [ "MovementInform", "d3/dcd/a24025.html#af27c91388891add6d00e251bf3187743", null ],
+    [ "UpdateAI", "d3/dcd/a24025.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
+    [ "checkTimer", "d3/dcd/a24025.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
+    [ "goGUID", "d3/dcd/a24025.html#a5fa88e045430adea9e72a3744bf72780", null ],
+    [ "jumping", "d3/dcd/a24025.html#a8486512b7594f2ce759fcb580f1baf34", null ],
+    [ "jumpTimer", "d3/dcd/a24025.html#ad53a9abad41ab6a792a55b854155135d", null ]
 ];

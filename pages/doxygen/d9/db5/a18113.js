@@ -1,8 +1,8 @@
 var a18113 =
 [
-    [ "HandlePeriodic", "d9/db5/a18113.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "d9/db5/a18113.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "d9/db5/a18113.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "d9/db5/a18113.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "d9/db5/a18113.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "FilterTargets", "d9/db5/a18113.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
+    [ "HandleScript", "d9/db5/a18113.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
+    [ "PrepareSpellScript", "d9/db5/a18113.html#ae6b30b8da52141c385f985435cac99a1", null ],
+    [ "Register", "d9/db5/a18113.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
+    [ "Validate", "d9/db5/a18113.html#accff1f03fb7c0d56cb197bb18348635c", null ]
 ];

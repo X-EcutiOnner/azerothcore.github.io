@@ -1,7 +1,6 @@
 var a24729 =
 [
-    [ "AfterApply", "d8/dd8/a24729.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "d8/dd8/a24729.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "d8/dd8/a24729.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "d8/dd8/a24729.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "HandleDummy", "d8/dd8/a24729.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
+    [ "PrepareSpellScript", "d8/dd8/a24729.html#af310c2b28ed816b9fbe494f81c42043c", null ],
+    [ "Register", "d8/dd8/a24729.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
 ];

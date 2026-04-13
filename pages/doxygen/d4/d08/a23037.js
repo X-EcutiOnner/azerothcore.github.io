@@ -1,6 +1,8 @@
 var a23037 =
 [
-    [ "PrepareAuraScript", "d4/d08/a23037.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "d4/d08/a23037.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "d4/d08/a23037.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "boss_hungarfen", "d4/d08/a23037.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "d4/d08/a23037.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "d4/d08/a23037.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "d4/d08/a23037.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "d4/d08/a23037.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

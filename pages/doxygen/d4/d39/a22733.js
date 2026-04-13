@@ -1,7 +1,8 @@
 var a22733 =
 [
-    [ "HandleEffectRemove", "d4/d39/a22733.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
-    [ "PrepareAuraScript", "d4/d39/a22733.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
-    [ "Register", "d4/d39/a22733.html#a9ee8e71020c17f593472de5a9c130753", null ],
-    [ "Validate", "d4/d39/a22733.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
+    [ "CalculateAmount", "d4/d39/a22733.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "d4/d39/a22733.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "d4/d39/a22733.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "d4/d39/a22733.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "d4/d39/a22733.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

@@ -1,9 +1,10 @@
 var a15017 =
 [
-    [ "HandlePeriodic", "d9/dfd/a15017.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
-    [ "Load", "d9/dfd/a15017.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
-    [ "PrepareAuraScript", "d9/dfd/a15017.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
-    [ "Register", "d9/dfd/a15017.html#ac331de3219ae7da9e35e962011540bdf", null ],
-    [ "Validate", "d9/dfd/a15017.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
-    [ "_buffGiven", "d9/dfd/a15017.html#aec2476ad5e046213b90af04ad91f0230", null ]
+    [ "npc_hyjal_frost_wyrm", "d9/dfd/a15017.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "d9/dfd/a15017.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "d9/dfd/a15017.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "d9/dfd/a15017.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "d9/dfd/a15017.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "d9/dfd/a15017.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "d9/dfd/a15017.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

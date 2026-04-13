@@ -1,6 +1,8 @@
 var a28689 =
 [
-    [ "CheckCast", "d3/d57/a28689.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
-    [ "PrepareSpellScript", "d3/d57/a28689.html#aa3c18907c79309a8924a98bce41e27f1", null ],
-    [ "Register", "d3/d57/a28689.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
+    [ "ID", "d3/d57/a28689.html#a36958c346c8554d9ab1cfb73ac583818", null ],
+    [ "Model", "d3/d57/a28689.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
+    [ "Origin", "d3/d57/a28689.html#a684c69add50ee545ee606ae456a93336", null ],
+    [ "OriginFacing", "d3/d57/a28689.html#a460723250353c7720cd87677991283cf", null ],
+    [ "SoundID", "d3/d57/a28689.html#aa56be05c7ab4015738e049d75ff365c6", null ]
 ];

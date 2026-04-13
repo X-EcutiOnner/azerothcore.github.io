@@ -1,6 +1,6 @@
 var a21697 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "da/da6/a21701.html", "da/da6/a21701" ],
-    [ "npc_conversing_with_the_depths_trigger", "d2/d2b/a21697.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "d2/d2b/a21697.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_lord_areteAI", "da/da6/a21701.html", "da/da6/a21701" ],
+    [ "npc_lord_arete", "d2/d2b/a21697.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "d2/d2b/a21697.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

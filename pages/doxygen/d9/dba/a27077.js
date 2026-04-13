@@ -1,8 +1,7 @@
 var a27077 =
 [
-    [ "HandleDummy", "d9/dba/a27077.html#a1afcd9c6ab96c87db8aa4899d0830899", null ],
-    [ "Load", "d9/dba/a27077.html#a11d3cd0eccd4895f5cd9d2721bd3fd0c", null ],
-    [ "PrepareSpellScript", "d9/dba/a27077.html#a252784bb4b438750db5ef7f905477140", null ],
-    [ "Register", "d9/dba/a27077.html#ab93554e82cbed0c78452846c95247584", null ],
-    [ "Validate", "d9/dba/a27077.html#a33404726f5e5986b263eb0a0beba9443", null ]
+    [ "CalculateAmount", "d9/dba/a27077.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
+    [ "PrepareAuraScript", "d9/dba/a27077.html#aa966d001c3687403dfa2b13e998ca241", null ],
+    [ "Register", "d9/dba/a27077.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
+    [ "Validate", "d9/dba/a27077.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
 ];

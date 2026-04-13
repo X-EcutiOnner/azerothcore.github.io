@@ -1,6 +1,9 @@
 var a17885 =
 [
-    [ "FilterTargets", "dd/d6c/a17885.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "dd/d6c/a17885.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "dd/d6c/a17885.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "HandleApply", "dd/d6c/a17885.html#a5f23d41765ec949486094a0da45be7e8", null ],
+    [ "HandleRemove", "dd/d6c/a17885.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
+    [ "Load", "dd/d6c/a17885.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
+    [ "PrepareAuraScript", "dd/d6c/a17885.html#aabf5fdf4578935db11e041e638fba187", null ],
+    [ "Register", "dd/d6c/a17885.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
+    [ "SendClientControl", "dd/d6c/a17885.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
 ];

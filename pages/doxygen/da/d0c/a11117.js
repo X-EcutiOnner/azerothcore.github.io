@@ -1,11 +1,6 @@
 var a11117 =
 [
-    [ "BuyItemInSlot", "da/d0c/a11117.html#a9a15be940d8eb216614dca5055be094a", null ],
-    [ "Read", "da/d0c/a11117.html#a2608e83a41fb44c8469d2b9196702627", null ],
-    [ "BagGuid", "da/d0c/a11117.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
-    [ "BagSlot", "da/d0c/a11117.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
-    [ "Count", "da/d0c/a11117.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
-    [ "Item", "da/d0c/a11117.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
-    [ "Slot", "da/d0c/a11117.html#aae1dba7644a82933a801f581551479bc", null ],
-    [ "VendorGuid", "da/d0c/a11117.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
+    [ "SetDungeonDifficultyClient", "da/d0c/a11117.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
+    [ "Read", "da/d0c/a11117.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
+    [ "Mode", "da/d0c/a11117.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
 ];

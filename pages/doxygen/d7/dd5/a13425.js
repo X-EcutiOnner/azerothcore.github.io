@@ -1,6 +1,7 @@
 var a13425 =
 [
-    [ "npc_unworthy_initiateAI", "df/dbe/a13429.html", "df/dbe/a13429" ],
-    [ "npc_unworthy_initiate", "d7/dd5/a13425.html#aaa04626b783eadc0b14bd89aa715e694", null ],
-    [ "GetAI", "d7/dd5/a13425.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
+    [ "HandleEffectApply", "d7/dd5/a13425.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "d7/dd5/a13425.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "d7/dd5/a13425.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "d7/dd5/a13425.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

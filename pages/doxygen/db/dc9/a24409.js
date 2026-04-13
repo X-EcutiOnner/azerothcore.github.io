@@ -1,5 +1,8 @@
 var a24409 =
 [
-    [ "npc_pet_proto_drake_whelp", "db/dc9/a24409.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
-    [ "Reset", "db/dc9/a24409.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
+    [ "AfterRemove", "db/dc9/a24409.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "db/dc9/a24409.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "db/dc9/a24409.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "db/dc9/a24409.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "db/dc9/a24409.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

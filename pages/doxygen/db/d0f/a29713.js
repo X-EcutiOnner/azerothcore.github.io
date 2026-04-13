@@ -1,6 +1,9 @@
 var a29713 =
 [
-    [ "hasAttr", "db/d0f/a29713.html#aec6e687803471c9e36fb371be3994db9", null ],
-    [ "name", "db/d0f/a29713.html#aff9bdbf422a9e22dacc2bbbea0c99a73", null ],
-    [ "spellId", "db/d0f/a29713.html#a6b7e7e5d028fb5c006f8785a53394535", null ]
+    [ "Flags", "db/d0f/a29713.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "db/d0f/a29713.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "db/d0f/a29713.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "db/d0f/a29713.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "db/d0f/a29713.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "db/d0f/a29713.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

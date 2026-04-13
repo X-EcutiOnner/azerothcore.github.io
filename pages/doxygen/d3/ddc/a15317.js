@@ -1,8 +1,7 @@
 var a15317 =
 [
-    [ "npc_thrall_old_hillsbradAI", "d8/d87/a15321.html", "d8/d87/a15321" ],
-    [ "npc_thrall_old_hillsbrad", "d3/ddc/a15317.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "d3/ddc/a15317.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "d3/ddc/a15317.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "d3/ddc/a15317.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "go_sand_trap", "d3/ddc/a15317.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "d3/ddc/a15317.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "d3/ddc/a15317.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "d3/ddc/a15317.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

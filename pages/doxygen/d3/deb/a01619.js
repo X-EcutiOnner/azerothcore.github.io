@@ -1,39 +1,11 @@
 var a01619 =
 [
-    [ "boss_void_reaver", "d4/d22/a23586.html", "d4/d22/a23586" ],
-    [ "Groups", "d3/deb/a01619.html#aab072245ab577ff0e12efe20a536b99a", [
-      [ "GROUP_PRECOMBAT_TALK", "d5/da7/a01283.html#aab072245ab577ff0e12efe20a536b99aa3e7953992f23b2eba8d8498bfc66e01d", null ],
-      [ "PORTAL_PHASE", "d5/df4/a01322.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829", null ],
-      [ "BANISH_PHASE", "d5/df4/a01322.html#aab072245ab577ff0e12efe20a536b99aa07e6dd48512e34c3e302df6979235f0c", null ],
-      [ "GROUP_GROUND", "d0/d00/a01286.html#aab072245ab577ff0e12efe20a536b99aadafe9cfa7e56c42fc1db09814712d7a7", null ],
-      [ "GROUP_AIR", "d0/d00/a01286.html#aab072245ab577ff0e12efe20a536b99aa2d1cdac72395e4d8222cd2ddd9b285db", null ],
-      [ "GROUP_LAND", "d0/d00/a01286.html#aab072245ab577ff0e12efe20a536b99aae24a94bb64f545d667eefe35a36a1c0f", null ],
-      [ "GROUP_DRINKING", "da/d79/a01310.html#aab072245ab577ff0e12efe20a536b99aa80ba99dcffa62244d61ae4cdfeae4f89", null ],
-      [ "GROUP_LYNX", "d4/dd5/a01244.html#aab072245ab577ff0e12efe20a536b99aaff89ad484a46d0b7b06edeacb6a01395", null ],
-      [ "GROUP_HUMAN", "d4/dd5/a01244.html#aab072245ab577ff0e12efe20a536b99aa796793e979d08c776caffceafb33aa85", null ],
-      [ "GROUP_MERGE", "d4/dd5/a01244.html#aab072245ab577ff0e12efe20a536b99aac01236358f92d366822edd70b15d96e6", null ],
-      [ "GROUP_SPLIT", "d4/dd5/a01244.html#aab072245ab577ff0e12efe20a536b99aa24fb50270283b82bb36d8edf229a98c8", null ],
-      [ "GROUP_EMERGED", "d7/d1c/a02732.html#aab072245ab577ff0e12efe20a536b99aac6762b2873125ac73a850d2e103ec31a", null ],
-      [ "GROUP_SUBMERGED", "d7/d1c/a02732.html#aab072245ab577ff0e12efe20a536b99aa4852ae10a6b1d7b9dddcdbf9a237a8a3", null ],
-      [ "GROUP_FRENZY", "d4/d70/a02579.html#aab072245ab577ff0e12efe20a536b99aa5a49dee524450f24c68e860b88e86120", null ],
-      [ "GROUP_VOID_BLAST", "d0/dc0/a01652.html#aab072245ab577ff0e12efe20a536b99aa42a5b582d3481d3a6c19206d7d5089c2", null ],
-      [ "GROUP_COMBAT", "df/d21/a01778.html#aab072245ab577ff0e12efe20a536b99aa8a276adfb1bc4c990d9fcd7622ee8b44", null ],
-      [ "GROUP_DEMON", "df/d21/a01778.html#aab072245ab577ff0e12efe20a536b99aa9ec61b4a64bb040b8e116599fa55c192", null ],
-      [ "GROUP_WHIRL", "d6/d27/a01781.html#aab072245ab577ff0e12efe20a536b99aae2fcf2e615b3c4b3730a67d2fce34236", null ],
-      [ "GROUP_GEYSER", "d6/d27/a01781.html#aab072245ab577ff0e12efe20a536b99aa1fdaf4a07bada6d867ab661c2e27f10c", null ],
-      [ "GROUP_EARLY_RELEASE_CHECK", "db/d66/a01721.html#aab072245ab577ff0e12efe20a536b99aa96283caf31f749500082e1812dcefef3", null ],
-      [ "GROUP_RP", "db/dc0/a01757.html#aab072245ab577ff0e12efe20a536b99aad9dedf51cb04f0fa875285ac3e21f994", null ],
-      [ "GROUP_ARCANE_ORB", "d3/deb/a01619.html#aab072245ab577ff0e12efe20a536b99aaf9e798664ee1611674a83cdc2f6aac67", null ]
-    ] ],
-    [ "voidReaver", "d3/deb/a01619.html#a28ac0e4c009a9641eced9517d2c0e8b6", [
-      [ "SAY_AGGRO", "d3/deb/a01619.html#a28ac0e4c009a9641eced9517d2c0e8b6a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_SLAY", "d3/deb/a01619.html#a28ac0e4c009a9641eced9517d2c0e8b6a9e64f6e600dd42567d18006912811f75", null ],
-      [ "SAY_DEATH", "d3/deb/a01619.html#a28ac0e4c009a9641eced9517d2c0e8b6a04c962d9b6aaafde54ff92a54369135e", null ],
-      [ "SAY_POUNDING", "d3/deb/a01619.html#a28ac0e4c009a9641eced9517d2c0e8b6a89c7eec707b0165a5300a6e131488f85", null ],
-      [ "SPELL_POUNDING", "d3/deb/a01619.html#a28ac0e4c009a9641eced9517d2c0e8b6aea323cffcf7dd560267a165d89d9ddb0", null ],
-      [ "SPELL_ARCANE_ORB", "d3/deb/a01619.html#a28ac0e4c009a9641eced9517d2c0e8b6a37f92b258a27961515d602836cee1bef", null ],
-      [ "SPELL_KNOCK_AWAY", "d3/deb/a01619.html#a28ac0e4c009a9641eced9517d2c0e8b6aa72ede58fa3714726fab8d4b7252f5fa", null ],
-      [ "SPELL_BERSERK", "d3/deb/a01619.html#a28ac0e4c009a9641eced9517d2c0e8b6ad7b3e50b45f9949cd0e4030ca19a6b4f", null ]
-    ] ],
-    [ "AddSC_boss_void_reaver", "d3/deb/a01619.html#a8231e3ec35a484f109599a4507751f6f", null ]
+    [ "AuraEffect", "d2/def/a11597.html", "d2/def/a11597" ],
+    [ "Acore::AbsorbAuraOrderPred", "db/d8c/a11601.html", "db/d8c/a11601" ],
+    [ "pAuraEffectHandler", "d3/deb/a01619.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
+    [ "BrewfestEntries", "d3/deb/a01619.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
+      [ "BREWFEST_KODO", "d3/deb/a01619.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],
+      [ "GREAT_BREWFEST_KODO", "d3/deb/a01619.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa", null ],
+      [ "FRESH_BREWFEST_HOPS", "d3/deb/a01619.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf", null ]
+    ] ]
 ];

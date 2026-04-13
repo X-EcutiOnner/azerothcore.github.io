@@ -1,5 +1,6 @@
 var a19057 =
 [
-    [ "achievement_portal_jockey", "db/dcd/a19057.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "db/dcd/a19057.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "npc_icc_gauntlet_controllerAI", "d4/d27/a19061.html", "d4/d27/a19061" ],
+    [ "npc_icc_gauntlet_controller", "db/dcd/a19057.html#a5fc4c941842e25bc3da93686e588627b", null ],
+    [ "GetAI", "db/dcd/a19057.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
 ];

@@ -1,6 +1,6 @@
 var a21749 =
 [
-    [ "CheckCast", "d0/da2/a21749.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "d0/da2/a21749.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "d0/da2/a21749.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "ChangeSummonPos", "d0/da2/a21749.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d0/da2/a21749.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d0/da2/a21749.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

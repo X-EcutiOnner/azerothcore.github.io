@@ -1,8 +1,8 @@
 var a13625 =
 [
-    [ "npc_apothecary_baxter", "d1/deb/a13625.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
-    [ "JustDied", "d1/deb/a13625.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
-    [ "Reset", "d1/deb/a13625.html#afee5103029bd761c48cbf6a11655c44a", null ],
-    [ "UpdateAI", "d1/deb/a13625.html#ad06090f599d0fda3a88f3182c990a49f", null ],
-    [ "_scheduler", "d1/deb/a13625.html#a6d813041e055f3c2b28be7cba3acde13", null ]
+    [ "HandleApply", "d1/deb/a13625.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
+    [ "HandleRemove", "d1/deb/a13625.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
+    [ "PrepareAuraScript", "d1/deb/a13625.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
+    [ "Register", "d1/deb/a13625.html#a3b91d692ad34b7ce965887590780e146", null ],
+    [ "Validate", "d1/deb/a13625.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
 ];

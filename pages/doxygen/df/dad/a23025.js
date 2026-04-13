@@ -1,8 +1,6 @@
 var a23025 =
 [
-    [ "CalcPeriodic", "df/dad/a23025.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "df/dad/a23025.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "df/dad/a23025.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "df/dad/a23025.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "df/dad/a23025.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "instance_steam_vault_InstanceMapScript", "df/dad/a23025.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "df/dad/a23025.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "df/dad/a23025.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

@@ -1,7 +1,7 @@
 var a20297 =
 [
-    [ "OnPeriodic", "d8/dc2/a20297.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "d8/dc2/a20297.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "d8/dc2/a20297.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "d8/dc2/a20297.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "FilterTargetsInitial", "d8/dc2/a20297.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "d8/dc2/a20297.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "d8/dc2/a20297.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "d8/dc2/a20297.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

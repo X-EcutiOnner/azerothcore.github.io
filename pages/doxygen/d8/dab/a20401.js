@@ -1,6 +1,5 @@
 var a20401 =
 [
-    [ "FilterTargets", "d8/dab/a20401.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d8/dab/a20401.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d8/dab/a20401.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "d8/dab/a20401.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "d8/dab/a20401.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

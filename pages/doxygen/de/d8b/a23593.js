@@ -1,5 +1,6 @@
 var a23593 =
 [
-    [ "go_manticron_cube", "de/d8b/a23593.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "de/d8b/a23593.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "npc_deaths_fel_cannonAI", "de/d8b/a23593.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "de/d8b/a23593.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "de/d8b/a23593.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

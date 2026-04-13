@@ -1,6 +1,15 @@
 var a19493 =
 [
-    [ "npc_boss_gothik_minionAI", "d3/dae/a19497.html", "d3/dae/a19497" ],
-    [ "npc_boss_gothik_minion", "df/d30/a19493.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "df/d30/a19493.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "boss_anomalus", "df/d30/a19493.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "df/d30/a19493.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "df/d30/a19493.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "df/d30/a19493.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "df/d30/a19493.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "df/d30/a19493.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "df/d30/a19493.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "df/d30/a19493.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "df/d30/a19493.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "_empowered", "df/d30/a19493.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
+    [ "achievement", "df/d30/a19493.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "df/d30/a19493.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

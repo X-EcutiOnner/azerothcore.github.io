@@ -1,7 +1,6 @@
 var a23941 =
 [
-    [ "OnPeriodic", "de/d43/a23941.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "de/d43/a23941.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "de/d43/a23941.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "de/d43/a23941.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "npc_unkor_the_ruthlessAI", "d7/d58/a23945.html", "d7/d58/a23945" ],
+    [ "npc_unkor_the_ruthless", "de/d43/a23941.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "de/d43/a23941.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

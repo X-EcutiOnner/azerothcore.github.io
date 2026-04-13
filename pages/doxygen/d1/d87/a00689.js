@@ -1,23 +1,19 @@
 var a00689 =
 [
-    [ "SpellProcPipelineTest", "d1/ddb/a29530.html", "d1/ddb/a29530" ],
-    [ "TEST_F", "d1/d87/a00689.html#a84713952083e2b524a32cefc480858ee", null ],
-    [ "TEST_F", "d1/d87/a00689.html#a1e85b9df4ec0b3f7d770137f7b1184ec", null ],
-    [ "TEST_F", "d1/d87/a00689.html#aa109507c0c4b2235951bbd288277f13c", null ],
-    [ "TEST_F", "d1/d87/a00689.html#a485ca0c9676a25a6fd8b861c804696d7", null ],
-    [ "TEST_F", "d1/d87/a00689.html#aa5e23f21d78acf55b11a3edfe0017068", null ],
-    [ "TEST_F", "d1/d87/a00689.html#a9b3f0e79a13fd923e704d971188beabf", null ],
-    [ "TEST_F", "d1/d87/a00689.html#abc9d5b5417f7a9db72bc69a6dee8991c", null ],
-    [ "TEST_F", "d1/d87/a00689.html#ad9d5ae60773ca5e0adec858f943d6219", null ],
-    [ "TEST_F", "d1/d87/a00689.html#af1b16c6116add0a4321bbeea7a241688", null ],
-    [ "TEST_F", "d1/d87/a00689.html#a19a74f2d1aaf27d22fa48f02d6b2d5f9", null ],
-    [ "TEST_F", "d1/d87/a00689.html#a35e27540c06c06c8f59ef51bb1a9d42e", null ],
-    [ "TEST_F", "d1/d87/a00689.html#a96cc3a634c4f6bcce6debcc6e36f4d25", null ],
-    [ "TEST_F", "d1/d87/a00689.html#a5cf9d910c9243364707c2f1dedd0582d", null ],
-    [ "TEST_F", "d1/d87/a00689.html#ad2fb2ff6f41f7e7771cb74d49a945a2f", null ],
-    [ "TEST_F", "d1/d87/a00689.html#a7bda89f7f74cbe336b48303ff1b672b1", null ],
-    [ "TEST_F", "d1/d87/a00689.html#a121e660142edeb8b8867984871635142", null ],
-    [ "TEST_F", "d1/d87/a00689.html#a4aea6e742bac43dda127936d36b603a8", null ],
-    [ "TEST_F", "d1/d87/a00689.html#aee6d5257c9330329d3161f0da69ff4b7", null ],
-    [ "TEST_F", "d1/d87/a00689.html#abe1d49b795fc6def60b42b113cec4b6f", null ]
+    [ "GuildScript", "d8/ddb/a10657.html", "d8/ddb/a10657" ],
+    [ "GuildHook", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507e", [
+      [ "GUILDHOOK_ON_ADD_MEMBER", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d", null ],
+      [ "GUILDHOOK_ON_REMOVE_MEMBER", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51", null ],
+      [ "GUILDHOOK_ON_MOTD_CHANGED", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5", null ],
+      [ "GUILDHOOK_ON_INFO_CHANGED", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f", null ],
+      [ "GUILDHOOK_ON_CREATE", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e", null ],
+      [ "GUILDHOOK_ON_DISBAND", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58", null ],
+      [ "GUILDHOOK_ON_MEMBER_WITDRAW_MONEY", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b", null ],
+      [ "GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc", null ],
+      [ "GUILDHOOK_ON_ITEM_MOVE", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8", null ],
+      [ "GUILDHOOK_ON_EVENT", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7", null ],
+      [ "GUILDHOOK_ON_BANK_EVENT", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9", null ],
+      [ "GUILDHOOK_CAN_GUILD_SEND_BANK_LIST", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b", null ],
+      [ "GUILDHOOK_END", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb", null ]
+    ] ]
 ];

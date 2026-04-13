@@ -1,8 +1,10 @@
 var a01571 =
 [
-    [ "instance_arcatraz", "dc/d70/a23426.html", "dc/d70/a23426" ],
-    [ "instance_arcatraz::instance_arcatraz_InstanceMapScript", "dc/d5b/a23430.html", "dc/d5b/a23430" ],
-    [ "AddSC_instance_arcatraz", "d5/d10/a01571.html#a80dfeb7f0ba2aa2c6cde3f26e3c50be4", null ],
-    [ "creatureData", "d5/d10/a01571.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d5/d10/a01571.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "EnchStoreItem", "dc/d01/a08621.html", "dc/d01/a08621" ],
+    [ "EnchantmentStore", "d5/d10/a01571.html#ab462bc366dd954f1c0b539c408b74c01", null ],
+    [ "EnchStoreList", "d5/d10/a01571.html#ab5e9dd6a265a402e7a9499fdaae1e850", null ],
+    [ "GenerateEnchSuffixFactor", "d5/d10/a01571.html#a25026e783b088b45eebd4db8295b1b87", null ],
+    [ "GetItemEnchantMod", "d5/d10/a01571.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
+    [ "LoadRandomEnchantmentsTable", "d5/d10/a01571.html#a376fabf7bba54eaf928217f860f1c33b", null ],
+    [ "RandomItemEnch", "d5/d10/a01571.html#a6aeb6f30f019ca8d9839fcf41beb1ac7", null ]
 ];

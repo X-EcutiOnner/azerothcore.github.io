@@ -1,7 +1,8 @@
 var a27101 =
 [
-    [ "HandleDummy", "d7/d63/a27101.html#aa9b579a8a7a23b94d9a2c8c7f932ff78", null ],
-    [ "PrepareSpellScript", "d7/d63/a27101.html#ae1dfa086c89a4180d42d231064d88602", null ],
-    [ "Register", "d7/d63/a27101.html#a256c152beadbfce6bf245779295b8758", null ],
-    [ "Validate", "d7/d63/a27101.html#acb4144be3326bcaae9c559d8e7b9d7ec", null ]
+    [ "CheckFireTotem", "d7/d63/a27101.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d7/d63/a27101.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d7/d63/a27101.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d7/d63/a27101.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d7/d63/a27101.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

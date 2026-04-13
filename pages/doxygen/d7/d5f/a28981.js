@@ -1,7 +1,8 @@
 var a28981 =
 [
-    [ "go_pirate_day_musicAI", "d7/d5f/a28981.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "d7/d5f/a28981.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "d7/d5f/a28981.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "d7/d5f/a28981.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "NoRuneCost", "d7/d5f/a28981.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "d7/d5f/a28981.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "d7/d5f/a28981.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "d7/d5f/a28981.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "d7/d5f/a28981.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

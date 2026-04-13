@@ -1,11 +1,8 @@
 var a14197 =
 [
-    [ "npc_highborne_lamenterAI", "dd/d1d/a14197.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
-    [ "JustEngagedWith", "dd/d1d/a14197.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
-    [ "Reset", "dd/d1d/a14197.html#a7cf9338767e8edf0a87a5552703de87a", null ],
-    [ "UpdateAI", "dd/d1d/a14197.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
-    [ "EventCast", "dd/d1d/a14197.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
-    [ "EventCastTimer", "dd/d1d/a14197.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
-    [ "EventMove", "dd/d1d/a14197.html#aca22c73db989f0393926067506794e43", null ],
-    [ "EventMoveTimer", "dd/d1d/a14197.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
+    [ "npc_zulaman_hostageAI", "dc/d50/a14201.html", "dc/d50/a14201" ],
+    [ "npc_zulaman_hostage", "dd/d1d/a14197.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "dd/d1d/a14197.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "dd/d1d/a14197.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "dd/d1d/a14197.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

@@ -1,7 +1,9 @@
 var a13617 =
 [
-    [ "npc_apothecary_genericAI", "de/dc4/a13617.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "de/dc4/a13617.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "de/dc4/a13617.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "de/dc4/a13617.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "npc_demonic_vapor_trail", "de/dc4/a13617.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "de/dc4/a13617.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "de/dc4/a13617.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "de/dc4/a13617.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "de/dc4/a13617.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "de/dc4/a13617.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

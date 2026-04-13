@@ -1,6 +1,7 @@
 var a24325 =
 [
-    [ "npc_slim", "db/d98/a24325.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "db/d98/a24325.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "db/d98/a24325.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "HandleProc", "db/d98/a24325.html#a66726023cd4e12b2766db027623aacf1", null ],
+    [ "PrepareAuraScript", "db/d98/a24325.html#aaec1b616a6d57d5a2554ee7cc76d835d", null ],
+    [ "Register", "db/d98/a24325.html#a12bb8475758402da599ae8fbc2f28b31", null ],
+    [ "Validate", "db/d98/a24325.html#abba724498ed4e20d8ca028f270d0bbb4", null ]
 ];

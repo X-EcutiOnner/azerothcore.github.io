@@ -1,7 +1,8 @@
 var a21561 =
 [
-    [ "npc_mootoo_the_youngerAI", "df/d80/a21565.html", "df/d80/a21565" ],
-    [ "npc_mootoo_the_younger", "d8/de1/a21561.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "d8/de1/a21561.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "d8/de1/a21561.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "npc_ravenous_worgAI", "d8/de1/a21561.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d8/de1/a21561.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d8/de1/a21561.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d8/de1/a21561.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d8/de1/a21561.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

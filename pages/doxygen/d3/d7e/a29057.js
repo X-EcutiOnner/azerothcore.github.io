@@ -1,8 +1,9 @@
 var a29057 =
 [
-    [ "ID", "d3/d7e/a29057.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "d3/d7e/a29057.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "d3/d7e/a29057.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "d3/d7e/a29057.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "d3/d7e/a29057.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "adtId", "d3/d7e/a29057.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
+    [ "areaId", "d3/d7e/a29057.html#a7f652c68036429350543fc5a2cc6861e", null ],
+    [ "Flags", "d3/d7e/a29057.html#a60f9a61948d1e28587c9d1a338730f37", null ],
+    [ "groupId", "d3/d7e/a29057.html#a09052bad3028899580ffedd556672b64", null ],
+    [ "Id", "d3/d7e/a29057.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
+    [ "rootId", "d3/d7e/a29057.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
 ];

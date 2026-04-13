@@ -1,7 +1,8 @@
 var a13157 =
 [
-    [ "FilterTargets", "df/d1b/a13157.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "df/d1b/a13157.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "df/d1b/a13157.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "df/d1b/a13157.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "CheckProc", "df/d1b/a13157.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "df/d1b/a13157.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "df/d1b/a13157.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "df/d1b/a13157.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "df/d1b/a13157.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

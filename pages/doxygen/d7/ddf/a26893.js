@@ -1,8 +1,8 @@
 var a26893 =
 [
-    [ "HandleApplyEffect", "d7/ddf/a26893.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
-    [ "Load", "d7/ddf/a26893.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
-    [ "PrepareAuraScript", "d7/ddf/a26893.html#a6e212284f72320356cfa2f0c2a59999d", null ],
-    [ "Register", "d7/ddf/a26893.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
-    [ "Validate", "d7/ddf/a26893.html#a985a52f71371443454d6dd36f7fe83b2", null ]
+    [ "CheckCast", "d7/ddf/a26893.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "d7/ddf/a26893.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "d7/ddf/a26893.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "d7/ddf/a26893.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "d7/ddf/a26893.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

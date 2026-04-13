@@ -1,6 +1,10 @@
 var a24249 =
 [
-    [ "npc_zephyr", "d0/dd2/a24249.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d0/dd2/a24249.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d0/dd2/a24249.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "HandleEffectRemove", "d0/dd2/a24249.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
+    [ "HandleImprovedBloodPresence", "d0/dd2/a24249.html#a020c0ae1f74856ae070ab2104232a079", null ],
+    [ "HandleImprovedFrostPresence", "d0/dd2/a24249.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
+    [ "HandleImprovedUnholyPresence", "d0/dd2/a24249.html#a5da86bb3686327787da5f46fc756f0a0", null ],
+    [ "PrepareAuraScript", "d0/dd2/a24249.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
+    [ "Register", "d0/dd2/a24249.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
+    [ "Validate", "d0/dd2/a24249.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
 ];

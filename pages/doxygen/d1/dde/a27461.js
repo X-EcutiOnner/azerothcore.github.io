@@ -1,8 +1,6 @@
 var a27461 =
 [
-    [ "CheckFireTotem", "d1/dde/a27461.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
-    [ "HandleDummy", "d1/dde/a27461.html#a179d07e7090cec396a7845754e545e8e", null ],
-    [ "PrepareSpellScript", "d1/dde/a27461.html#a8311cc106da26267e90acd98698cb737", null ],
-    [ "Register", "d1/dde/a27461.html#abae5a4961888e6ba2d876e450307e362", null ],
-    [ "Validate", "d1/dde/a27461.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
+    [ "HandleRemove", "d1/dde/a27461.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "d1/dde/a27461.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "d1/dde/a27461.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

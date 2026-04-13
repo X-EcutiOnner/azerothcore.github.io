@@ -1,7 +1,6 @@
 var a27829 =
 [
-    [ "HandleDummy", "dd/dab/a27829.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "dd/dab/a27829.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "dd/dab/a27829.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "dd/dab/a27829.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "go_l70_etc_musicAI", "db/d54/a27833.html", "db/d54/a27833" ],
+    [ "go_l70_etc_music", "dd/dab/a27829.html#a766dccca12fc7959273ba1e3a278564f", null ],
+    [ "GetAI", "dd/dab/a27829.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
 ];

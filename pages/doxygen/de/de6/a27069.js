@@ -1,6 +1,9 @@
 var a27069 =
 [
-    [ "HandleScriptEffect", "de/de6/a27069.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
-    [ "PrepareSpellScript", "de/de6/a27069.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
-    [ "Register", "de/de6/a27069.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
+    [ "HandleHeal", "de/de6/a27069.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "de/de6/a27069.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "de/de6/a27069.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "de/de6/a27069.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "de/de6/a27069.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "de/de6/a27069.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

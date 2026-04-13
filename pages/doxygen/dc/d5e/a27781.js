@@ -1,7 +1,5 @@
 var a27781 =
 [
-    [ "HandleProc", "dc/d5e/a27781.html#a4294ab4682ea26f78eb4c90c59e86953", null ],
-    [ "PrepareAuraScript", "dc/d5e/a27781.html#ac5d22623791d195aa767d5a28e9639b7", null ],
-    [ "Register", "dc/d5e/a27781.html#a135abc0548ba189fcf6bd662d7ae8940", null ],
-    [ "Validate", "dc/d5e/a27781.html#ac10227e6423f61b0fd67803f01fd4a0e", null ]
+    [ "go_arena_ready_marker", "dc/d5e/a27781.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "dc/d5e/a27781.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

@@ -1,13 +1,7 @@
 var a13237 =
 [
-    [ "boss_roar", "d0/d71/a13237.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
-    [ "DoAction", "d0/d71/a13237.html#a9a2778a803d6d41b256759b29452cc51", null ],
-    [ "EnterEvadeMode", "d0/d71/a13237.html#a198044653632b93838c0f79c06cb7640", null ],
-    [ "JustDied", "d0/d71/a13237.html#a3c79bea69740601ad89f0765f3af99f2", null ],
-    [ "JustEngagedWith", "d0/d71/a13237.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
-    [ "JustReachedHome", "d0/d71/a13237.html#a632929b026815a524bd79748e768e3fc", null ],
-    [ "KilledUnit", "d0/d71/a13237.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
-    [ "UpdateAI", "d0/d71/a13237.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
-    [ "_scheduler", "d0/d71/a13237.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
-    [ "instance", "d0/d71/a13237.html#a67df04e89c877d565753ac077aa923c7", null ]
+    [ "HandleScriptEffect", "d0/d71/a13237.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "d0/d71/a13237.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "d0/d71/a13237.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "d0/d71/a13237.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

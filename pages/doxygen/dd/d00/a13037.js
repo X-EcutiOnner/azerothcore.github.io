@@ -1,6 +1,5 @@
 var a13037 =
 [
-    [ "boss_mr_smiteAI", "d4/d42/a13041.html", "d4/d42/a13041" ],
-    [ "boss_mr_smite", "dd/d00/a13037.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "dd/d00/a13037.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "at_karazhan_mirkblood_entrance", "dd/d00/a13037.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
+    [ "OnTrigger", "dd/d00/a13037.html#ad99c85de36a369752fa61bab761a402e", null ]
 ];

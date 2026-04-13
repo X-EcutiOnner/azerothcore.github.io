@@ -1,6 +1,5 @@
 var a28333 =
 [
-    [ "guard_shattrath_aldorAI", "d1/d9e/a28337.html", "d1/d9e/a28337" ],
-    [ "guard_shattrath_aldor", "d4/da2/a28333.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "d4/da2/a28333.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "npc_sunwell_gate", "d4/da2/a28333.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "d4/da2/a28333.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
 ];

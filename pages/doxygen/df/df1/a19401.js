@@ -1,6 +1,5 @@
 var a19401 =
 [
-    [ "npc_four_car_garageAI", "df/df1/a19401.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "df/df1/a19401.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "df/df1/a19401.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "at_thaddius_entrance", "df/df1/a19401.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "_OnTrigger", "df/df1/a19401.html#acc869cade2b48ceb782d78aa7df6f246", null ]
 ];

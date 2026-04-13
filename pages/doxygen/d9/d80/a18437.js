@@ -1,6 +1,8 @@
 var a18437 =
 [
-    [ "boss_rotfaceAI", "d0/d97/a18441.html", "d0/d97/a18441" ],
-    [ "boss_rotface", "d9/d80/a18437.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "d9/d80/a18437.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "FilterTargets", "d9/d80/a18437.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "d9/d80/a18437.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "d9/d80/a18437.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "d9/d80/a18437.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "d9/d80/a18437.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

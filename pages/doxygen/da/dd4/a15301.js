@@ -1,7 +1,14 @@
 var a15301 =
 [
-    [ "boss_epoch_hunter", "da/dd4/a15301.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "da/dd4/a15301.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "da/dd4/a15301.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "da/dd4/a15301.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "boss_buru", "da/dd4/a15301.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
+    [ "ChaseNewVictim", "da/dd4/a15301.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
+    [ "DamageTaken", "da/dd4/a15301.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
+    [ "EnterEvadeMode", "da/dd4/a15301.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
+    [ "JustDied", "da/dd4/a15301.html#a6d8f3265dca889bc49e747471da8597f", null ],
+    [ "JustEngagedWith", "da/dd4/a15301.html#a61eeeb3eb1684943e94367a9318b3035", null ],
+    [ "KilledUnit", "da/dd4/a15301.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
+    [ "ManipulateEggs", "da/dd4/a15301.html#a4f8a92eab729c975443579560edb03a3", null ],
+    [ "SpellHit", "da/dd4/a15301.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
+    [ "UpdateAI", "da/dd4/a15301.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
+    [ "_phase", "da/dd4/a15301.html#aa395967af50f2a422bf1e81a087efc43", null ]
 ];

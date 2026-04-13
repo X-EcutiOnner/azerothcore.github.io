@@ -1,7 +1,6 @@
 var a17933 =
 [
-    [ "HandleDummy", "d6/de3/a17933.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d6/de3/a17933.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d6/de3/a17933.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d6/de3/a17933.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "CheckProc", "d6/de3/a17933.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d6/de3/a17933.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d6/de3/a17933.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

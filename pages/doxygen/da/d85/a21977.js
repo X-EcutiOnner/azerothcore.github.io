@@ -1,6 +1,7 @@
 var a21977 =
 [
-    [ "npc_plaguehound_trackerAI", "da/dc9/a21981.html", "da/dc9/a21981" ],
-    [ "npc_plaguehound_tracker", "da/d85/a21977.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "da/d85/a21977.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "HandleDummy", "da/d85/a21977.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
+    [ "PrepareAuraScript", "da/d85/a21977.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
+    [ "Register", "da/d85/a21977.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
+    [ "Validate", "da/d85/a21977.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
 ];

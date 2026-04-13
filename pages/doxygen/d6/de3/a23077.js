@@ -1,8 +1,6 @@
 var a23077 =
 [
-    [ "CalculateAmount", "d6/de3/a23077.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
-    [ "OnPeriodic", "d6/de3/a23077.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
-    [ "PrepareAuraScript", "d6/de3/a23077.html#a1278420b279449c1c6a53b1a7b53f539", null ],
-    [ "Register", "d6/de3/a23077.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
-    [ "Validate", "d6/de3/a23077.html#a601c2db3a8e47d48b956ed102cbca104", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d9/deb/a23081.html", "d9/deb/a23081" ],
+    [ "instance_the_underbog", "d6/de3/a23077.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "d6/de3/a23077.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

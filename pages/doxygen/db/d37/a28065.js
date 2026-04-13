@@ -1,11 +1,19 @@
 var a28065 =
 [
-    [ "npc_dream_fogAI", "db/d37/a28065.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
-    [ "GetRandomUnitFromDragonThreatList", "db/d37/a28065.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
-    [ "Reset", "db/d37/a28065.html#a595eeeae54d4bf323287fc408f706ac6", null ],
-    [ "ScheduleEvents", "db/d37/a28065.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
-    [ "SetGUID", "db/d37/a28065.html#a3666423921a5405ea220ba098f3f91fe", null ],
-    [ "UpdateAI", "db/d37/a28065.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
-    [ "_dragonGUID", "db/d37/a28065.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
-    [ "_targetGUID", "db/d37/a28065.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
+    [ "npc_simoneAI", "db/d37/a28065.html#ab33ec5a76f35bfd088a3d316df5c091c", null ],
+    [ "CorpseRemoved", "db/d37/a28065.html#a0bc792b39b9d17a71c86756d2c7b9af0", null ],
+    [ "HandlePetRespawn", "db/d37/a28065.html#a0d07b3f85a99ce3c0a1d4c482547113f", null ],
+    [ "JustDied", "db/d37/a28065.html#a1c275b32a6d4730657e26e5a9c305eb6", null ],
+    [ "JustEngagedWith", "db/d37/a28065.html#a17cad19f460d6cbfe2258ada48de46cd", null ],
+    [ "JustRespawned", "db/d37/a28065.html#af456d04fec4a22fa6662ab5a0ccb902b", null ],
+    [ "Precious", "db/d37/a28065.html#ad40c5f293558ca5a00614810a89d86c9", null ],
+    [ "PreciousAI", "db/d37/a28065.html#acbdf0e5404402edf28fecf8657303aba", null ],
+    [ "Reset", "db/d37/a28065.html#a1a62a843922448390151ed14e0ca2148", null ],
+    [ "RespawnPet", "db/d37/a28065.html#af6d0cad159d88862e915c9f9337a49e3", null ],
+    [ "ScheduleEncounterStart", "db/d37/a28065.html#ab879f0b452e511212be4df530b11d461", null ],
+    [ "SetPreciousGUID", "db/d37/a28065.html#a1b735e7c99ba743c74c10911ec08f12b", null ],
+    [ "SpellHit", "db/d37/a28065.html#ad50d1248c8a608c52d18ddb9d28168d9", null ],
+    [ "UpdateAI", "db/d37/a28065.html#ae20237221e1fb3699cfe723c48d5bbf7", null ],
+    [ "events", "db/d37/a28065.html#a1118fe0b8375db5327a9651a13832523", null ],
+    [ "preciousGUID", "db/d37/a28065.html#a698a3015b5ad25dfd9ec07dfbb991ea8", null ]
 ];

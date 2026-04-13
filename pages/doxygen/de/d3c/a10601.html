@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: InstanceMapScript Class Reference</title>
+<title>AzerothCore: CommandScript Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,157 +108,103 @@ $(document).ready(function(){initNavTree('de/d3c/a10601.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="../../dc/d55/a10598.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">InstanceMapScript Class Reference</div></div>
+  <div class="headertitle"><div class="title">CommandScript Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">CommandScript.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for InstanceMapScript:</div>
+Inheritance diagram for CommandScript:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../de/d3c/a10601.png" usemap="#InstanceMapScript_map" alt=""/>
-  <map id="InstanceMapScript_map" name="InstanceMapScript_map">
-<area href="../../db/d1b/a10697.html" alt="ScriptObject" shape="rect" coords="0,56,197,80"/>
-<area href="../../d3/d4e/a10705.html" alt="MapScript&lt; InstanceMap &gt;" shape="rect" coords="207,56,404,80"/>
-<area href="../../d3/dba/a10701.html" alt="UpdatableScript&lt; TObject &gt;" shape="rect" coords="207,0,404,24"/>
-<area href="../../dc/d4a/a10605.html" alt="GenericInstanceMapScript&lt; IS &gt;" shape="rect" coords="310,168,507,192"/>
-<area href="../../da/dcc/a16357.html" alt="instance_ahnkahet" shape="rect" coords="310,224,507,248"/>
-<area href="../../dd/d70/a23705.html" alt="instance_arcatraz" shape="rect" coords="310,280,507,304"/>
-<area href="../../de/d15/a22585.html" alt="instance_auchenai_crypts" shape="rect" coords="310,336,507,360"/>
-<area href="../../db/d51/a16437.html" alt="instance_azjol_nerub" shape="rect" coords="310,392,507,416"/>
-<area href="../../dd/dcd/a23009.html" alt="instance_black_temple" shape="rect" coords="310,448,507,472"/>
-<area href="../../dd/dfe/a15081.html" alt="instance_blackfathom_deeps" shape="rect" coords="310,504,507,528"/>
-<area href="../../d2/d1c/a12505.html" alt="instance_blackrock_depths" shape="rect" coords="310,560,507,584"/>
-<area href="../../d6/db7/a12653.html" alt="instance_blackrock_spire" shape="rect" coords="310,616,507,640"/>
-<area href="../../db/ddc/a12841.html" alt="instance_blackwing_lair" shape="rect" coords="310,672,507,696"/>
-<area href="../../d0/d71/a23517.html" alt="instance_blood_furnace" shape="rect" coords="310,728,507,752"/>
-<area href="../../d5/d11/a15289.html" alt="instance_culling_of_stratholme" shape="rect" coords="310,784,507,808"/>
-<area href="../../d9/d31/a13045.html" alt="instance_deadmines" shape="rect" coords="310,840,507,864"/>
-<area href="../../d2/dd4/a15377.html" alt="instance_dire_maul" shape="rect" coords="310,896,507,920"/>
-<area href="../../da/d13/a17305.html" alt="instance_forge_of_souls" shape="rect" coords="310,952,507,976"/>
-<area href="../../d7/d3d/a13053.html" alt="instance_gnomeregan" shape="rect" coords="310,1008,507,1032"/>
-<area href="../../d5/d2a/a23489.html" alt="instance_gruuls_lair" shape="rect" coords="310,1064,507,1088"/>
-<area href="../../d5/d36/a17725.html" alt="instance_gundrak" shape="rect" coords="310,1120,507,1144"/>
-<area href="../../d6/d64/a19981.html" alt="instance_halls_of_lightning" shape="rect" coords="310,1176,507,1200"/>
-<area href="../../d3/d73/a17465.html" alt="instance_halls_of_reflection" shape="rect" coords="310,1232,507,1256"/>
-<area href="../../da/dab/a20073.html" alt="instance_halls_of_stone" shape="rect" coords="310,1288,507,1312"/>
-<area href="../../d0/d9a/a23557.html" alt="instance_hellfire_ramparts" shape="rect" coords="310,1344,507,1368"/>
-<area href="../../d2/df3/a15205.html" alt="instance_hyjal" shape="rect" coords="310,1400,507,1424"/>
-<area href="../../d1/d36/a19381.html" alt="instance_icecrown_citadel" shape="rect" coords="310,1456,507,1480"/>
-<area href="../../df/d70/a13273.html" alt="instance_karazhan" shape="rect" coords="310,1512,507,1536"/>
-<area href="../../da/d7c/a13385.html" alt="instance_magisters_terrace" shape="rect" coords="310,1568,507,1592"/>
-<area href="../../d3/d8b/a23597.html" alt="instance_magtheridons_lair" shape="rect" coords="310,1624,507,1648"/>
-<area href="../../d4/d92/a22609.html" alt="instance_mana_tombs" shape="rect" coords="310,1680,507,1704"/>
-<area href="../../d3/df4/a15385.html" alt="instance_maraudon" shape="rect" coords="310,1736,507,1760"/>
-<area href="../../d0/dc8/a23917.html" alt="instance_mechanar" shape="rect" coords="310,1792,507,1816"/>
-<area href="../../d3/d68/a13013.html" alt="instance_molten_core" shape="rect" coords="310,1848,507,1872"/>
-<area href="../../d4/d06/a19813.html" alt="instance_nexus" shape="rect" coords="310,1904,507,1928"/>
-<area href="../../df/d7b/a16493.html" alt="instance_obsidian_sanctum" shape="rect" coords="310,1960,507,1984"/>
-<area href="../../d4/daf/a19865.html" alt="instance_oculus" shape="rect" coords="310,2016,507,2040"/>
-<area href="../../dd/de5/a15309.html" alt="instance_old_hillsbrad" shape="rect" coords="310,2072,507,2096"/>
-<area href="../../d1/d9b/a15405.html" alt="instance_onyxias_lair" shape="rect" coords="310,2128,507,2152"/>
-<area href="../../d1/dfd/a17517.html" alt="instance_pit_of_saron" shape="rect" coords="310,2184,507,2208"/>
-<area href="../../d7/dc0/a15413.html" alt="instance_ragefire_chasm" shape="rect" coords="310,2240,507,2264"/>
-<area href="../../d9/d7f/a15421.html" alt="instance_razorfen_downs" shape="rect" coords="310,2296,507,2320"/>
-<area href="../../d1/d77/a15445.html" alt="instance_razorfen_kraul" shape="rect" coords="310,2352,507,2376"/>
-<area href="../../d3/d56/a16689.html" alt="instance_ruby_sanctum" shape="rect" coords="310,2408,507,2432"/>
-<area href="../../da/d04/a15553.html" alt="instance_ruins_of_ahnqiraj" shape="rect" coords="310,2464,507,2488"/>
-<area href="../../d4/d99/a13541.html" alt="instance_scarlet_monastery" shape="rect" coords="310,2520,507,2544"/>
-<area href="../../d4/d67/a13585.html" alt="instance_scholomance" shape="rect" coords="310,2576,507,2600"/>
-<area href="../../d9/df8/a23221.html" alt="instance_serpent_shrine" shape="rect" coords="310,2632,507,2656"/>
-<area href="../../d9/d7f/a22637.html" alt="instance_sethekk_halls" shape="rect" coords="310,2688,507,2712"/>
-<area href="../../d4/df5/a22677.html" alt="instance_shadow_labyrinth" shape="rect" coords="310,2744,507,2768"/>
-<area href="../../d8/db4/a13653.html" alt="instance_shadowfang_keep" shape="rect" coords="310,2800,507,2824"/>
-<area href="../../dd/ddd/a23657.html" alt="instance_shattered_halls" shape="rect" coords="310,2856,507,2880"/>
-<area href="../../d6/dc9/a23365.html" alt="instance_steam_vault" shape="rect" coords="310,2912,507,2936"/>
-<area href="../../d5/d96/a13685.html" alt="instance_stratholme" shape="rect" coords="310,2968,507,2992"/>
-<area href="../../db/d4c/a13693.html" alt="instance_sunken_temple" shape="rect" coords="310,3024,507,3048"/>
-<area href="../../d5/dfd/a13945.html" alt="instance_sunwell_plateau" shape="rect" coords="310,3080,507,3104"/>
-<area href="../../d3/d8b/a15725.html" alt="instance_temple_of_ahnqiraj" shape="rect" coords="310,3136,507,3160"/>
-<area href="../../d5/d30/a15345.html" alt="instance_the_black_morass" shape="rect" coords="310,3192,507,3216"/>
-<area href="../../d0/d93/a23745.html" alt="instance_the_botanica" shape="rect" coords="310,3248,507,3272"/>
-<area href="../../d5/dbd/a23869.html" alt="instance_the_eye" shape="rect" coords="310,3304,507,3328"/>
-<area href="../../d9/d25/a23333.html" alt="instance_the_slave_pens" shape="rect" coords="310,3360,507,3384"/>
-<area href="../../d4/d69/a13973.html" alt="instance_the_stockade" shape="rect" coords="310,3416,507,3440"/>
-<area href="../../d9/ddb/a23421.html" alt="instance_the_underbog" shape="rect" coords="310,3472,507,3496"/>
-<area href="../../d9/d83/a16801.html" alt="instance_trial_of_the_champion" shape="rect" coords="310,3528,507,3552"/>
-<area href="../../db/d96/a17129.html" alt="instance_trial_of_the_crusader" shape="rect" coords="310,3584,507,3608"/>
-<area href="../../da/d74/a13981.html" alt="instance_uldaman" shape="rect" coords="310,3640,507,3664"/>
-<area href="../../dc/dd6/a21021.html" alt="instance_ulduar" shape="rect" coords="310,3696,507,3720"/>
-<area href="../../df/d5f/a21097.html" alt="instance_utgarde_keep" shape="rect" coords="310,3752,507,3776"/>
-<area href="../../d4/df4/a21221.html" alt="instance_utgarde_pinnacle" shape="rect" coords="310,3808,507,3832"/>
-<area href="../../dc/dd7/a21305.html" alt="instance_vault_of_archavon" shape="rect" coords="310,3864,507,3888"/>
-<area href="../../d5/d50/a21397.html" alt="instance_violet_hold" shape="rect" coords="310,3920,507,3944"/>
-<area href="../../d4/dcf/a15785.html" alt="instance_wailing_caverns" shape="rect" coords="310,3976,507,4000"/>
-<area href="../../d7/d55/a14369.html" alt="instance_zulaman" shape="rect" coords="310,4032,507,4056"/>
-<area href="../../d7/dbd/a16241.html" alt="instance_zulfarrak" shape="rect" coords="310,4088,507,4112"/>
-<area href="../../d6/d90/a14637.html" alt="instance_zulgurub" shape="rect" coords="310,4144,507,4168"/>
+  <img src="../../de/d3c/a10601.png" usemap="#CommandScript_map" alt=""/>
+  <map id="CommandScript_map" name="CommandScript_map">
+<area href="../../da/db8/a10757.html" alt="ScriptObject" shape="rect" coords="0,0,188,24"/>
+<area href="../../dc/d71/a12129.html" alt="account_commandscript" shape="rect" coords="198,112,386,136"/>
+<area href="../../dd/d08/a12133.html" alt="achievement_commandscript" shape="rect" coords="198,168,386,192"/>
+<area href="../../d1/d9f/a12137.html" alt="arena_commandscript" shape="rect" coords="198,224,386,248"/>
+<area href="../../dd/d6a/a12141.html" alt="autobroadcast_commandscript" shape="rect" coords="198,280,386,304"/>
+<area href="../../da/d9b/a12149.html" alt="ban_commandscript" shape="rect" coords="198,336,386,360"/>
+<area href="../../d0/dcf/a12153.html" alt="bf_commandscript" shape="rect" coords="198,392,386,416"/>
+<area href="../../d2/db2/a12145.html" alt="bg_commandscript" shape="rect" coords="198,448,386,472"/>
+<area href="../../d6/d4d/a12157.html" alt="cache_commandscript" shape="rect" coords="198,504,386,528"/>
+<area href="../../d1/d19/a12161.html" alt="cast_commandscript" shape="rect" coords="198,560,386,584"/>
+<area href="../../db/d41/a12165.html" alt="character_commandscript" shape="rect" coords="198,616,386,640"/>
+<area href="../../dd/d3b/a12173.html" alt="cheat_commandscript" shape="rect" coords="198,672,386,696"/>
+<area href="../../d5/d34/a12177.html" alt="debug_commandscript" shape="rect" coords="198,728,386,752"/>
+<area href="../../de/d4d/a12185.html" alt="deserter_commandscript" shape="rect" coords="198,784,386,808"/>
+<area href="../../df/dcf/a12189.html" alt="disable_commandscript" shape="rect" coords="198,840,386,864"/>
+<area href="../../d8/d18/a12193.html" alt="event_commandscript" shape="rect" coords="198,896,386,920"/>
+<area href="../../d9/d6b/a12197.html" alt="gear_commandscript" shape="rect" coords="198,952,386,976"/>
+<area href="../../d2/df3/a12201.html" alt="gm_commandscript" shape="rect" coords="198,1008,386,1032"/>
+<area href="../../de/ddc/a12205.html" alt="go_commandscript" shape="rect" coords="198,1064,386,1088"/>
+<area href="../../d5/d8c/a12209.html" alt="gobject_commandscript" shape="rect" coords="198,1120,386,1144"/>
+<area href="../../d9/dfd/a12213.html" alt="group_commandscript" shape="rect" coords="198,1176,386,1200"/>
+<area href="../../d4/d6e/a12217.html" alt="guild_commandscript" shape="rect" coords="198,1232,386,1256"/>
+<area href="../../d1/d20/a12221.html" alt="honor_commandscript" shape="rect" coords="198,1288,386,1312"/>
+<area href="../../d9/da2/a12225.html" alt="instance_commandscript" shape="rect" coords="198,1344,386,1368"/>
+<area href="../../d5/dd6/a12229.html" alt="inventory_commandscript" shape="rect" coords="198,1400,386,1424"/>
+<area href="../../d6/dc7/a12233.html" alt="item_commandscript" shape="rect" coords="198,1456,386,1480"/>
+<area href="../../d0/dbf/a12237.html" alt="learn_commandscript" shape="rect" coords="198,1512,386,1536"/>
+<area href="../../d9/d5b/a12241.html" alt="lfg_commandscript" shape="rect" coords="198,1568,386,1592"/>
+<area href="../../d1/d35/a12245.html" alt="list_commandscript" shape="rect" coords="198,1624,386,1648"/>
+<area href="../../df/da7/a12249.html" alt="lookup_commandscript" shape="rect" coords="198,1680,386,1704"/>
+<area href="../../d6/d4c/a12253.html" alt="mail_commandscript" shape="rect" coords="198,1736,386,1760"/>
+<area href="../../df/dd4/a12257.html" alt="message_commandscript" shape="rect" coords="198,1792,386,1816"/>
+<area href="../../db/d19/a12265.html" alt="misc_commandscript" shape="rect" coords="198,1848,386,1872"/>
+<area href="../../d6/dbc/a12269.html" alt="mmaps_commandscript" shape="rect" coords="198,1904,386,1928"/>
+<area href="../../d4/d7c/a12273.html" alt="modify_commandscript" shape="rect" coords="198,1960,386,1984"/>
+<area href="../../da/d50/a12289.html" alt="npc_commandscript" shape="rect" coords="198,2016,386,2040"/>
+<area href="../../d4/da9/a12293.html" alt="pet_commandscript" shape="rect" coords="198,2072,386,2096"/>
+<area href="../../d5/d15/a12297.html" alt="player_commandscript" shape="rect" coords="198,2128,386,2152"/>
+<area href="../../d3/d99/a12301.html" alt="player_settings_commandscript" shape="rect" coords="198,2184,386,2208"/>
+<area href="../../dd/ded/a12305.html" alt="pool_commandscript" shape="rect" coords="198,2240,386,2264"/>
+<area href="../../da/d32/a12321.html" alt="pooltools_commandscript" shape="rect" coords="198,2296,386,2320"/>
+<area href="../../de/da6/a12325.html" alt="quest_commandscript" shape="rect" coords="198,2352,386,2376"/>
+<area href="../../d4/dfc/a12329.html" alt="reload_commandscript" shape="rect" coords="198,2408,386,2432"/>
+<area href="../../df/d55/a12333.html" alt="reset_commandscript" shape="rect" coords="198,2464,386,2488"/>
+<area href="../../de/dd5/a12337.html" alt="send_commandscript" shape="rect" coords="198,2520,386,2544"/>
+<area href="../../d7/deb/a12341.html" alt="server_commandscript" shape="rect" coords="198,2576,386,2600"/>
+<area href="../../d2/dee/a12345.html" alt="spectator_commandscript" shape="rect" coords="198,2632,386,2656"/>
+<area href="../../d6/ddf/a12349.html" alt="spellinfo_commandscript" shape="rect" coords="198,2688,386,2712"/>
+<area href="../../dd/d54/a12353.html" alt="tele_commandscript" shape="rect" coords="198,2744,386,2768"/>
+<area href="../../d4/dd3/a12357.html" alt="ticket_commandscript" shape="rect" coords="198,2800,386,2824"/>
+<area href="../../dc/d92/a12361.html" alt="titles_commandscript" shape="rect" coords="198,2856,386,2880"/>
+<area href="../../d8/dc4/a12365.html" alt="worldstate_commandscript" shape="rect" coords="198,2912,386,2936"/>
+<area href="../../d0/d45/a12369.html" alt="wp_commandscript" shape="rect" coords="198,2968,386,2992"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ab77651bb427813a7e119057c3dc53ca8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3c/a10601.html#ab77651bb427813a7e119057c3dc53ca8">IsDatabaseBound</a> () const override</td></tr>
-<tr class="separator:ab77651bb427813a7e119057c3dc53ca8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a221dd91e2d2f761e66d990a6cae42306"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3c/a10601.html#a221dd91e2d2f761e66d990a6cae42306">checkValidity</a> () override</td></tr>
-<tr class="separator:a221dd91e2d2f761e66d990a6cae42306"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5a9acfc5a7c81a4953fe0e296f9bcc8"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d7/d76/a09933.html">InstanceScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3c/a10601.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8">GetInstanceScript</a> (<a class="el" href="../../d2/d8f/a10089.html">InstanceMap</a> *) const</td></tr>
-<tr class="separator:aa5a9acfc5a7c81a4953fe0e296f9bcc8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a10697"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10697')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../db/d1b/a10697.html">ScriptObject</a></td></tr>
-<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10697"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d1b/a10697.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
-<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10697"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10697"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d1b/a10697.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
-<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10697"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10697"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d1b/a10697.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
-<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10697"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10697"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d1b/a10697.html#a79588d839860d2f5caab60c5f1368f10">GetName</a> () const</td></tr>
-<tr class="separator:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10697"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10697"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d1b/a10697.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
-<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10697"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a10705"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10705')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d3/d4e/a10705.html">MapScript&lt; InstanceMap &gt;</a></td></tr>
-<tr class="memitem:abf3fbb90119e1ac5d13455217ac95a2f inherit pub_methods_a10705"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#abf3fbb90119e1ac5d13455217ac95a2f">checkMap</a> ()</td></tr>
-<tr class="separator:abf3fbb90119e1ac5d13455217ac95a2f inherit pub_methods_a10705"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa2da3eeec627cb67719d774d35f03488 inherit pub_methods_a10705"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d31/a29245.html">MapEntry</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#aa2da3eeec627cb67719d774d35f03488">GetEntry</a> ()</td></tr>
-<tr class="separator:aa2da3eeec627cb67719d774d35f03488 inherit pub_methods_a10705"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8132edffb918e8b3b1131ae29a8d9e9b inherit pub_methods_a10705"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#a8132edffb918e8b3b1131ae29a8d9e9b">OnCreate</a> (<a class="el" href="../../d2/d8f/a10089.html">InstanceMap</a> *)</td></tr>
-<tr class="separator:a8132edffb918e8b3b1131ae29a8d9e9b inherit pub_methods_a10705"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4631768d457c2804f057c565d6e8fb7a inherit pub_methods_a10705"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#a4631768d457c2804f057c565d6e8fb7a">OnDestroy</a> (<a class="el" href="../../d2/d8f/a10089.html">InstanceMap</a> *)</td></tr>
-<tr class="separator:a4631768d457c2804f057c565d6e8fb7a inherit pub_methods_a10705"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a77381401d4638c6149f21836f1ca6676 inherit pub_methods_a10705"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#a77381401d4638c6149f21836f1ca6676">OnLoadGridMap</a> (<a class="el" href="../../d2/d8f/a10089.html">InstanceMap</a> *, <a class="el" href="../../df/d2e/a09421.html">GridTerrainData</a> *, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a77381401d4638c6149f21836f1ca6676 inherit pub_methods_a10705"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a657bcd69e932d358e2c66daa6f571cfe inherit pub_methods_a10705"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#a657bcd69e932d358e2c66daa6f571cfe">OnUnloadGridMap</a> (<a class="el" href="../../d2/d8f/a10089.html">InstanceMap</a> *, <a class="el" href="../../df/d2e/a09421.html">GridTerrainData</a> *, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a657bcd69e932d358e2c66daa6f571cfe inherit pub_methods_a10705"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9cef8253d591e729b4119312ec0b670a inherit pub_methods_a10705"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#a9cef8253d591e729b4119312ec0b670a">OnPlayerEnter</a> (<a class="el" href="../../d2/d8f/a10089.html">InstanceMap</a> *, <a class="el" href="../../df/d73/a08877.html">Player</a> *)</td></tr>
-<tr class="separator:a9cef8253d591e729b4119312ec0b670a inherit pub_methods_a10705"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3d74ae0f2535cda31cf2d4125600f3e2 inherit pub_methods_a10705"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#a3d74ae0f2535cda31cf2d4125600f3e2">OnPlayerLeave</a> (<a class="el" href="../../d2/d8f/a10089.html">InstanceMap</a> *, <a class="el" href="../../df/d73/a08877.html">Player</a> *)</td></tr>
-<tr class="separator:a3d74ae0f2535cda31cf2d4125600f3e2 inherit pub_methods_a10705"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4e447511780a0c561e16b9e118361f63 inherit pub_methods_a10705"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#a4e447511780a0c561e16b9e118361f63">OnUpdate</a> (<a class="el" href="../../d2/d8f/a10089.html">InstanceMap</a> *, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) override</td></tr>
-<tr class="separator:a4e447511780a0c561e16b9e118361f63 inherit pub_methods_a10705"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a10701"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10701')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d3/dba/a10701.html">UpdatableScript&lt; TObject &gt;</a></td></tr>
-<tr class="memitem:abf328325e08aa0d6adf36e6f70b02328 inherit pub_methods_a10701"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dba/a10701.html#abf328325e08aa0d6adf36e6f70b02328">OnUpdate</a> (TObject *, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:abf328325e08aa0d6adf36e6f70b02328 inherit pub_methods_a10701"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97dc7d00b78e0030ba2a950d23b2ebd2"><td class="memItemLeft" align="right" valign="top">virtual std::vector&lt; <a class="el" href="../../d9/d29/a07845.html">Acore::ChatCommands::ChatCommandBuilder</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3c/a10601.html#a97dc7d00b78e0030ba2a950d23b2ebd2">GetCommands</a> () const =0</td></tr>
+<tr class="separator:a97dc7d00b78e0030ba2a950d23b2ebd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10757"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10757')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../da/db8/a10757.html">ScriptObject</a></td></tr>
+<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10757"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db8/a10757.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
+<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10757"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10757"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db8/a10757.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
+<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10757"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10757"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db8/a10757.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
+<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10757"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10757"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db8/a10757.html#a79588d839860d2f5caab60c5f1368f10">GetName</a> () const</td></tr>
+<tr class="separator:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10757"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10757"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db8/a10757.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
+<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10757"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:a350d328f82cc5e7ea43f3c8779d25a67"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3c/a10601.html#a350d328f82cc5e7ea43f3c8779d25a67">InstanceMapScript</a> (const char *name, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapId)</td></tr>
-<tr class="separator:a350d328f82cc5e7ea43f3c8779d25a67"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_methods_a10697"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10697')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../db/d1b/a10697.html">ScriptObject</a></td></tr>
-<tr class="memitem:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10697"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d1b/a10697.html#ae4ca97cf587379c94354e4889ff8c0c2">ScriptObject</a> (const char *name, <a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
-<tr class="separator:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10697"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10697"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d1b/a10697.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
-<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10697"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_methods_a10705"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10705')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d3/d4e/a10705.html">MapScript&lt; InstanceMap &gt;</a></td></tr>
-<tr class="memitem:a1932ac48acf7c937c060ee35804e79da inherit pro_methods_a10705"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#a1932ac48acf7c937c060ee35804e79da">MapScript</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapId)</td></tr>
-<tr class="separator:a1932ac48acf7c937c060ee35804e79da inherit pro_methods_a10705"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_methods_a10701"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10701')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d3/dba/a10701.html">UpdatableScript&lt; TObject &gt;</a></td></tr>
-<tr class="memitem:a2d6cf85d1eb98438b5022804296eff11 inherit pro_methods_a10701"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dba/a10701.html#a2d6cf85d1eb98438b5022804296eff11">UpdatableScript</a> ()=default</td></tr>
-<tr class="separator:a2d6cf85d1eb98438b5022804296eff11 inherit pro_methods_a10701"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afb9ef0145bb5eedee7fd61609868ba20"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3c/a10601.html#afb9ef0145bb5eedee7fd61609868ba20">CommandScript</a> (const char *name)</td></tr>
+<tr class="separator:afb9ef0145bb5eedee7fd61609868ba20"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_a10757"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10757')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../da/db8/a10757.html">ScriptObject</a></td></tr>
+<tr class="memitem:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10757"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db8/a10757.html#ae4ca97cf587379c94354e4889ff8c0c2">ScriptObject</a> (const char *name, <a class="el" href="../../dd/d7a/a04568.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
+<tr class="separator:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10757"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10757"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db8/a10757.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
+<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10757"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a350d328f82cc5e7ea43f3c8779d25a67" name="a350d328f82cc5e7ea43f3c8779d25a67"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a350d328f82cc5e7ea43f3c8779d25a67">&#9670;&#160;</a></span>InstanceMapScript()</h2>
+<a id="afb9ef0145bb5eedee7fd61609868ba20" name="afb9ef0145bb5eedee7fd61609868ba20"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afb9ef0145bb5eedee7fd61609868ba20">&#9670;&#160;</a></span>CommandScript()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -267,21 +213,11 @@ Protected Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">InstanceMapScript::InstanceMapScript </td>
+          <td class="memname">CommandScript::CommandScript </td>
           <td>(</td>
           <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"><em>name</em></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>mapId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -290,22 +226,20 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>                                                                   :</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_class" href="../../db/d1b/a10697.html">ScriptObject</a>(name), <a class="code hl_class" href="../../d3/d4e/a10705.html">MapScript&lt;InstanceMap&gt;</a>(mapId)</div>
-<div class="line"><span class="lineno">   31</span>{</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_function" href="../../d6/ddf/a10693.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;InstanceMapScript&gt;::AddScript</a>(<span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">   33</span>}</div>
-<div class="ttc" id="aa10693_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d6/ddf/a10693.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:762</div></div>
-<div class="ttc" id="aa10697_html"><div class="ttname"><a href="../../db/d1b/a10697.html">ScriptObject</a></div><div class="ttdef"><b>Definition:</b> ScriptObject.h:43</div></div>
-<div class="ttc" id="aa10705_html"><div class="ttname"><a href="../../d3/d4e/a10705.html">MapScript</a></div><div class="ttdef"><b>Definition:</b> ScriptObject.h:81</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   36</span>    : <a class="code hl_class" href="../../da/db8/a10757.html">ScriptObject</a>(name)</div>
+<div class="line"><span class="lineno">   37</span>{</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_function" href="../../d1/d64/a10753.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;CommandScript&gt;::AddScript</a>(<span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">   39</span>}</div>
+<div class="ttc" id="aa10753_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d1/d64/a10753.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:764</div></div>
+<div class="ttc" id="aa10757_html"><div class="ttname"><a href="../../da/db8/a10757.html">ScriptObject</a></div><div class="ttdef"><b>Definition:</b> ScriptObject.h:43</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00762">ScriptRegistry&lt; TScript &gt;::AddScript()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00764">ScriptRegistry&lt; TScript &gt;::AddScript()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a221dd91e2d2f761e66d990a6cae42306" name="a221dd91e2d2f761e66d990a6cae42306"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a221dd91e2d2f761e66d990a6cae42306">&#9670;&#160;</a></span>checkValidity()</h2>
+<a id="a97dc7d00b78e0030ba2a950d23b2ebd2" name="a97dc7d00b78e0030ba2a950d23b2ebd2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a97dc7d00b78e0030ba2a950d23b2ebd2">&#9670;&#160;</a></span>GetCommands()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -314,76 +248,7 @@ Protected Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void InstanceMapScript::checkValidity </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented from <a class="el" href="../../db/d1b/a10697.html#a585e75e34aed7aa32205daad85f8fe08">ScriptObject</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_function" href="../../d3/d4e/a10705.html#abf3fbb90119e1ac5d13455217ac95a2f">checkMap</a>();</div>
-<div class="line"><span class="lineno">   38</span> </div>
-<div class="line"><span class="lineno">   39</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/d4e/a10705.html#aa2da3eeec627cb67719d774d35f03488">GetEntry</a>() &amp;&amp; !<a class="code hl_function" href="../../d3/d4e/a10705.html#aa2da3eeec627cb67719d774d35f03488">GetEntry</a>()-&gt;IsDungeon())</div>
-<div class="line"><span class="lineno">   40</span>    {</div>
-<div class="line"><span class="lineno">   41</span>        <a class="code hl_define" href="../../d9/d4a/a00479.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps.script&quot;</span>, <span class="stringliteral">&quot;InstanceMapScript for map {} is invalid.&quot;</span>, <a class="code hl_function" href="../../d3/d4e/a10705.html#aa2da3eeec627cb67719d774d35f03488">GetEntry</a>()-&gt;MapID);</div>
-<div class="line"><span class="lineno">   42</span>    }</div>
-<div class="line"><span class="lineno">   43</span>}</div>
-<div class="ttc" id="aa00479_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d4a/a00479.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
-<div class="ttc" id="aa10705_html_aa2da3eeec627cb67719d774d35f03488"><div class="ttname"><a href="../../d3/d4e/a10705.html#aa2da3eeec627cb67719d774d35f03488">MapScript&lt; InstanceMap &gt;::GetEntry</a></div><div class="ttdeci">MapEntry const * GetEntry()</div><div class="ttdef"><b>Definition:</b> ScriptObject.h:92</div></div>
-<div class="ttc" id="aa10705_html_abf3fbb90119e1ac5d13455217ac95a2f"><div class="ttname"><a href="../../d3/d4e/a10705.html#abf3fbb90119e1ac5d13455217ac95a2f">MapScript&lt; InstanceMap &gt;::checkMap</a></div><div class="ttdeci">void checkMap()</div><div class="ttdef"><b>Definition:</b> ScriptObject.cpp:33</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00033">MapScript&lt; InstanceMap &gt;::checkMap()</a>, <a class="el" href="../../#l00092">MapScript&lt; InstanceMap &gt;::GetEntry()</a>, and <a class="el" href="../../#l00158">LOG_ERROR</a>.</p>
-
-</div>
-</div>
-<a id="aa5a9acfc5a7c81a4953fe0e296f9bcc8" name="aa5a9acfc5a7c81a4953fe0e296f9bcc8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa5a9acfc5a7c81a4953fe0e296f9bcc8">&#9670;&#160;</a></span>GetInstanceScript()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual <a class="el" href="../../d7/d76/a09933.html">InstanceScript</a> * InstanceMapScript::GetInstanceScript </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d8f/a10089.html">InstanceMap</a> *&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../dc/d4a/a10605.html#a8ca7180c1d2f8fb213e8b52bb73b2f76">GenericInstanceMapScript&lt; IS &gt;</a>, <a class="el" href="../../d2/d1c/a12505.html#af8f8c9929cae50c098efc5a0dbdd727a">instance_blackrock_depths</a>, <a class="el" href="../../d6/db7/a12653.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a">instance_blackrock_spire</a>, <a class="el" href="../../db/ddc/a12841.html#a70aff4e1bb406f232d0b4961037ed0a1">instance_blackwing_lair</a>, <a class="el" href="../../d3/d68/a13013.html#ab7c794f1503f0ecad8d41ace72737a5d">instance_molten_core</a>, <a class="el" href="../../d9/d31/a13045.html#ac5cb65972d52324cedf662cc44dca626">instance_deadmines</a>, <a class="el" href="../../d7/d3d/a13053.html#ad2130ba5eb3cd37cd2cc464a62381eda">instance_gnomeregan</a>, <a class="el" href="../../df/d70/a13273.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5">instance_karazhan</a>, <a class="el" href="../../da/d7c/a13385.html#a465cbaebb13535cdb7f6a2108e026fc5">instance_magisters_terrace</a>, <a class="el" href="../../d4/d99/a13541.html#a1c66031217457809fbe56303085715a0">instance_scarlet_monastery</a>, <a class="el" href="../../d4/d67/a13585.html#a9e2030e41154c92dbe45d7895ddf37b8">instance_scholomance</a>, <a class="el" href="../../d8/db4/a13653.html#a5c076ed86470247de5b4e3733b70fa25">instance_shadowfang_keep</a>, <a class="el" href="../../d5/d96/a13685.html#a3d3d2e773029dd1c4bc1a59a94c4e015">instance_stratholme</a>, <a class="el" href="../../db/d4c/a13693.html#a1a783056b681f1f3b90e2e33e6a4a86d">instance_sunken_temple</a>, <a class="el" href="../../d5/dfd/a13945.html#a5960785a845c87e2e1730cfd865b44b4">instance_sunwell_plateau</a>, <a class="el" href="../../d4/d69/a13973.html#a7a5a4adcd71ae5d22e6729a2d11d68d3">instance_the_stockade</a>, <a class="el" href="../../da/d74/a13981.html#a672bb8b5a16d29d25a191ab90d8007b4">instance_uldaman</a>, <a class="el" href="../../d7/d55/a14369.html#a2144a517b22c5d6e7f6cc31d344669fc">instance_zulaman</a>, <a class="el" href="../../d6/d90/a14637.html#a51f17d1135c7e97ff082d0d95ec3ffa4">instance_zulgurub</a>, <a class="el" href="../../dd/dfe/a15081.html#a62cdab4f3118ab030b4ef55243690f73">instance_blackfathom_deeps</a>, <a class="el" href="../../d2/df3/a15205.html#ae6e39933d7cfd6563f6d37636f1c6f68">instance_hyjal</a>, <a class="el" href="../../dd/de5/a15309.html#a1929c38b1c745b2df1ccaf462113e220">instance_old_hillsbrad</a>, <a class="el" href="../../d5/d30/a15345.html#a44b01fc7ab23c8f4ecfa1e375a237463">instance_the_black_morass</a>, <a class="el" href="../../d2/dd4/a15377.html#a7fc2511e0c9475512286006f0bbaed0b">instance_dire_maul</a>, <a class="el" href="../../d3/df4/a15385.html#ac4f5c7c3ee755226449c96b3e351f12d">instance_maraudon</a>, <a class="el" href="../../d7/dc0/a15413.html#a0568996a61ef91688b9f223cb3782e5a">instance_ragefire_chasm</a>, <a class="el" href="../../d9/d7f/a15421.html#a5010fc2704c3c699e39bf969f6f6ce2c">instance_razorfen_downs</a>, <a class="el" href="../../d1/d77/a15445.html#a78e77010ebb055b9530733ca25533110">instance_razorfen_kraul</a>, <a class="el" href="../../da/d04/a15553.html#a6a661e961c2599498de0ccd41c0763b4">instance_ruins_of_ahnqiraj</a>, <a class="el" href="../../d3/d8b/a15725.html#a9e3060d9f2188f410da8aa3e9526e79d">instance_temple_of_ahnqiraj</a>, <a class="el" href="../../d4/dcf/a15785.html#a0f1020e86443d6902b3c4d8726f3e610">instance_wailing_caverns</a>, <a class="el" href="../../d7/dbd/a16241.html#a5f092341e49848c9d321452be2193d56">instance_zulfarrak</a>, <a class="el" href="../../da/dcc/a16357.html#a8847099c88f11de363c45e27998f10b7">instance_ahnkahet</a>, <a class="el" href="../../db/d51/a16437.html#a8bb8477669c6369afe508a400bd4d489">instance_azjol_nerub</a>, <a class="el" href="../../d3/d56/a16689.html#ad0329f328d4be2c475d8bcd5ccefd4e1">instance_ruby_sanctum</a>, <a class="el" href="../../db/d96/a17129.html#a792034e9e5687bf5fa543175692bed66">instance_trial_of_the_crusader</a>, <a class="el" href="../../da/d13/a17305.html#a64982b527cfa6057315b8e628549480b">instance_forge_of_souls</a>, <a class="el" href="../../d1/dfd/a17517.html#a2a1bc125bfe653a1da8b8c36b86aae67">instance_pit_of_saron</a>, <a class="el" href="../../d1/d36/a19381.html#a787c32626681f15f5515385a9ba6b848">instance_icecrown_citadel</a>, <a class="el" href="../../d4/d06/a19813.html#a156210ba08caa0572c775dbd5851b250">instance_nexus</a>, <a class="el" href="../../dc/dd7/a21305.html#abb955a8873a3a3021e164225dd1f857a">instance_vault_of_archavon</a>, <a class="el" href="../../de/d15/a22585.html#a99e47df95fde07d4a6e7687634805b93">instance_auchenai_crypts</a>, <a class="el" href="../../d4/d92/a22609.html#a26e4dad0957df886bc446396ab48ceda">instance_mana_tombs</a>, <a class="el" href="../../d9/d7f/a22637.html#adc07afe1aa8132f70474f9a534ecb76c">instance_sethekk_halls</a>, <a class="el" href="../../d4/df5/a22677.html#af9edf624413593a5cdf025dd9a1c3631">instance_shadow_labyrinth</a>, <a class="el" href="../../dd/dcd/a23009.html#a947a1279eabde75d9884b1ef84b295a3">instance_black_temple</a>, <a class="el" href="../../d9/df8/a23221.html#aa81add2f4aeb8b2084bcc81c05b606c7">instance_serpent_shrine</a>, <a class="el" href="../../d9/d25/a23333.html#a0eedcecf1ddc27e139898cacf6f48965">instance_the_slave_pens</a>, <a class="el" href="../../d6/dc9/a23365.html#a3a2edb84cc7067d3c8fa2151b4763c5a">instance_steam_vault</a>, <a class="el" href="../../d9/ddb/a23421.html#ace939fb7fd89e7c9c84c17d3ca31208b">instance_the_underbog</a>, <a class="el" href="../../d5/d2a/a23489.html#ab8b5b000f6099111244b4ea48f0ab029">instance_gruuls_lair</a>, <a class="el" href="../../d0/d71/a23517.html#a885ba94e1777dfd6586daca304622d3d">instance_blood_furnace</a>, <a class="el" href="../../d0/d9a/a23557.html#a6f2dc361984b33c1d14d62d67a563e8d">instance_hellfire_ramparts</a>, <a class="el" href="../../d3/d8b/a23597.html#a6c9cc959cf4f294e6173d244f54bcd02">instance_magtheridons_lair</a>, <a class="el" href="../../dd/ddd/a23657.html#a82388466811b022a725ba721845cadf3">instance_shattered_halls</a>, <a class="el" href="../../dd/d70/a23705.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb">instance_arcatraz</a>, <a class="el" href="../../d0/d93/a23745.html#a335f671443ca0fb9db5956cefdf37182">instance_the_botanica</a>, <a class="el" href="../../d5/dbd/a23869.html#a811c7d161469f33ce4fb7d792ce30a4e">instance_the_eye</a>, <a class="el" href="../../d0/dc8/a23917.html#ae8e9810a9bfd6b0ec256dd6a288392ed">instance_mechanar</a>, <a class="el" href="../../d5/d11/a15289.html#ad8cbcb198666d44d79d6255d066c8315">instance_culling_of_stratholme</a>, <a class="el" href="../../d1/d9b/a15405.html#abbdc474ce17bca0cb55180661c5204a8">instance_onyxias_lair</a>, <a class="el" href="../../df/d7b/a16493.html#a67acb36f65c1bc3d6eca59bf71a5c220">instance_obsidian_sanctum</a>, <a class="el" href="../../d9/d83/a16801.html#a9227119fc47f38cd82a1fc07c04b0c86">instance_trial_of_the_champion</a>, <a class="el" href="../../d3/d73/a17465.html#aca27a4f654f41fe6f238c905b48285b7">instance_halls_of_reflection</a>, <a class="el" href="../../d5/d36/a17725.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c">instance_gundrak</a>, <a class="el" href="../../d4/daf/a19865.html#ae6d28dfd615e79d4308e4384b7c8857f">instance_oculus</a>, <a class="el" href="../../d6/d64/a19981.html#a5ce157aeaf2ed78e98e864059a599b36">instance_halls_of_lightning</a>, <a class="el" href="../../da/dab/a20073.html#a784906c7710a216016101cf7a6a915f3">instance_halls_of_stone</a>, <a class="el" href="../../dc/dd6/a21021.html#ad15f003a90e656910fc32d661ca9baba">instance_ulduar</a>, <a class="el" href="../../df/d5f/a21097.html#a9a42e0dde1c7598eb2ef665f11e25e92">instance_utgarde_keep</a>, <a class="el" href="../../d4/df4/a21221.html#a41bd06d5f42b09193c5f1b2bbb2323ac">instance_utgarde_pinnacle</a>, and <a class="el" href="../../d5/d50/a21397.html#aeedcbb24b0709bd172ebbbc6d9851532">instance_violet_hold</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   34</span>{ <span class="keywordflow">return</span> <span class="keyword">nullptr</span>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ab77651bb427813a7e119057c3dc53ca8" name="ab77651bb427813a7e119057c3dc53ca8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab77651bb427813a7e119057c3dc53ca8">&#9670;&#160;</a></span>IsDatabaseBound()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool InstanceMapScript::IsDatabaseBound </td>
+          <td class="memname">virtual std::vector&lt; <a class="el" href="../../d9/d29/a07845.html">Acore::ChatCommands::ChatCommandBuilder</a> &gt; CommandScript::GetCommands </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -391,14 +256,13 @@ Protected Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented from <a class="el" href="../../db/d1b/a10697.html#a37da453729d5c8fbe2d06f905563f47c">ScriptObject</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
-</div><!-- fragment -->
+<p>Implemented in <a class="el" href="../../dc/d71/a12129.html#a28baac859fcc2ee8bbf00dcdf7b38f4d">account_commandscript</a>, <a class="el" href="../../dd/d08/a12133.html#adeac4e6f74f006daa76b0ebb8ea1469c">achievement_commandscript</a>, <a class="el" href="../../d1/d9f/a12137.html#a3a5e95fca957fd1898d6a7acea98931e">arena_commandscript</a>, <a class="el" href="../../dd/d6a/a12141.html#a01d7689785a4267ac4bd57bfc0d269e9">autobroadcast_commandscript</a>, <a class="el" href="../../d2/db2/a12145.html#a911ccd6445b08c05069f7f196556c891">bg_commandscript</a>, <a class="el" href="../../da/d9b/a12149.html#a3079102518edbfd0e16576083e053a19">ban_commandscript</a>, <a class="el" href="../../d0/dcf/a12153.html#a97f0192d7ccd3532cfceaebff9f242be">bf_commandscript</a>, <a class="el" href="../../d6/d4d/a12157.html#ae62aed5b701a408460d8fedcd08bb3a4">cache_commandscript</a>, <a class="el" href="../../d1/d19/a12161.html#ab0890c036a8d301b382fdd1b6371f671">cast_commandscript</a>, <a class="el" href="../../db/d41/a12165.html#a54c43684b16e3a8e857817a566bf754a">character_commandscript</a>, <a class="el" href="../../dd/d3b/a12173.html#a7cc6ca0c216a4ff497b60dc7622623fd">cheat_commandscript</a>, <a class="el" href="../../d5/d34/a12177.html#af661244d384f7ba7a4c4d4c21be301cc">debug_commandscript</a>, <a class="el" href="../../de/d4d/a12185.html#ab5b48b9dde89c9215c51560f26324649">deserter_commandscript</a>, <a class="el" href="../../df/dcf/a12189.html#a5c0400ab0321c2d181f6288fd828c56a">disable_commandscript</a>, <a class="el" href="../../d8/d18/a12193.html#aac32a7f3d2d11dc73dfa3e9f8224560e">event_commandscript</a>, <a class="el" href="../../d9/d6b/a12197.html#a9212aa39f13c646b1b8cf8be78cc8a6a">gear_commandscript</a>, <a class="el" href="../../d2/df3/a12201.html#a17c725e18324de7aadff260c77d75c45">gm_commandscript</a>, <a class="el" href="../../de/ddc/a12205.html#a672e84a91c30f7378adce918608a6a94">go_commandscript</a>, <a class="el" href="../../d5/d8c/a12209.html#a75124102670615a7b3a0ecd457ab631a">gobject_commandscript</a>, <a class="el" href="../../d9/dfd/a12213.html#a5e7e069c58ecc5baca4ef1118e6c143e">group_commandscript</a>, <a class="el" href="../../d4/d6e/a12217.html#a6b0a700e7fa3251373c1405d245f6931">guild_commandscript</a>, <a class="el" href="../../d1/d20/a12221.html#a29a0068f9dd1e9b3f0adf80bddaadbbc">honor_commandscript</a>, <a class="el" href="../../d9/da2/a12225.html#a092d62969c835f6bf2a08ca3e05f04d5">instance_commandscript</a>, <a class="el" href="../../d5/dd6/a12229.html#ac002b65cbe2e5dafc7614c7afa4a20e6">inventory_commandscript</a>, <a class="el" href="../../d6/dc7/a12233.html#aab60aa980ef0f86938cfcb51e7ee20a8">item_commandscript</a>, <a class="el" href="../../d0/dbf/a12237.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8">learn_commandscript</a>, <a class="el" href="../../d9/d5b/a12241.html#a324310f9b04675c277ceae44ea09fbaf">lfg_commandscript</a>, <a class="el" href="../../d1/d35/a12245.html#a949c6e6f372afb50e1116b6414acdd7c">list_commandscript</a>, <a class="el" href="../../df/da7/a12249.html#afb1833fb396c6f811fa24020f22460d4">lookup_commandscript</a>, <a class="el" href="../../d6/d4c/a12253.html#a931c5f4d66e598886984458a4a7fd3b0">mail_commandscript</a>, <a class="el" href="../../df/dd4/a12257.html#a9fc83cb2d161a4158f98ec0b580bcc32">message_commandscript</a>, <a class="el" href="../../db/d19/a12265.html#a621e036c56caa93a63b27b1c317aa39c">misc_commandscript</a>, <a class="el" href="../../d6/dbc/a12269.html#aec91072f9e651c9136bf1a405a9bb95a">mmaps_commandscript</a>, <a class="el" href="../../d4/d7c/a12273.html#aa64f4f3e75561ed7212abc3d0f640fb2">modify_commandscript</a>, <a class="el" href="../../da/d50/a12289.html#ad789c3fb6523abddf4d07d38952e04a8">npc_commandscript</a>, <a class="el" href="../../d4/da9/a12293.html#a01026a4936774d2225d10e0f6e27b08c">pet_commandscript</a>, <a class="el" href="../../d5/d15/a12297.html#a0e1e8eec0fe449c95c5cf9dd06a0fced">player_commandscript</a>, <a class="el" href="../../d3/d99/a12301.html#ae545918310d22b4e66e4a668bbb7ba58">player_settings_commandscript</a>, <a class="el" href="../../dd/ded/a12305.html#a973b565473bd8f9ef5cfd61740d114b4">pool_commandscript</a>, <a class="el" href="../../da/d32/a12321.html#aebd69a3ae0a0e0833f3eaeeb637d97e6">pooltools_commandscript</a>, <a class="el" href="../../de/da6/a12325.html#afaf8c4b169a2bc7457b8ab97d13a367c">quest_commandscript</a>, <a class="el" href="../../d4/dfc/a12329.html#abe09f0ff98d5b327fd6b176afeacef91">reload_commandscript</a>, <a class="el" href="../../df/d55/a12333.html#ac19cfe7c8192194024fb38ad93a64056">reset_commandscript</a>, <a class="el" href="../../de/dd5/a12337.html#a2dc60c8c414c9131b4cda1ff82f7beed">send_commandscript</a>, <a class="el" href="../../d7/deb/a12341.html#a850c21f1ece40c576d3bf622f1c3e18f">server_commandscript</a>, <a class="el" href="../../d2/dee/a12345.html#a3451bcda07b51a33fd8368cf00ac190f">spectator_commandscript</a>, <a class="el" href="../../d6/ddf/a12349.html#ac58355105d147793fab51cfaf3cbf3bb">spellinfo_commandscript</a>, <a class="el" href="../../dd/d54/a12353.html#a296b26e39d5d575ebe68728ff1b49f68">tele_commandscript</a>, <a class="el" href="../../d4/dd3/a12357.html#a8db36489c60473f6f3fed73011c5f7ab">ticket_commandscript</a>, <a class="el" href="../../dc/d92/a12361.html#af7d00111b3190f8bc9c46cedda3621d6">titles_commandscript</a>, <a class="el" href="../../d8/dc4/a12365.html#a9c2b9e6f00727da760ca2be2c0c1aff7">worldstate_commandscript</a>, and <a class="el" href="../../d0/d45/a12369.html#a55ecc8d67d7c240df1b177f755fc5850">wp_commandscript</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -406,8 +270,8 @@ Protected Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/d3c/a10601.html">InstanceMapScript</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:09:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../de/d3c/a10601.html">CommandScript</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:28:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

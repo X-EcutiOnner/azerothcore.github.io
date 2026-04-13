@@ -1,6 +1,9 @@
 var a17845 =
 [
-    [ "boss_blood_queen_lana_thelAI", "de/db2/a17849.html", "de/db2/a17849" ],
-    [ "boss_blood_queen_lana_thel", "de/d2f/a17845.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "de/d2f/a17845.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "CheckAreaTarget", "de/d2f/a17845.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "de/d2f/a17845.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "de/d2f/a17845.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "de/d2f/a17845.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "de/d2f/a17845.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "de/d2f/a17845.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

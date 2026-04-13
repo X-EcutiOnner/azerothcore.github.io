@@ -1,6 +1,7 @@
 var a10173 =
 [
-    [ "IsNeutralOrFriendlyToTeam", "d8/d41/a10173.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
-    [ "safeLocId", "d8/d41/a10173.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
-    [ "teamId", "d8/d41/a10173.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
+    [ "LFGUpdateRequest", "d8/d41/a10173.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
+    [ "call", "d8/d41/a10173.html#a15258001db5870a0f52bb0c72cba3587", null ],
+    [ "m_diff", "d8/d41/a10173.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
+    [ "m_updater", "d8/d41/a10173.html#a1bb4423241495aebab83ebc1acf66510", null ]
 ];

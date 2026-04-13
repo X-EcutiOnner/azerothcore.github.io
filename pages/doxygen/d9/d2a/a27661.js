@@ -1,6 +1,5 @@
 var a27661 =
 [
-    [ "HandleBanish", "d9/d2a/a27661.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "d9/d2a/a27661.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "d9/d2a/a27661.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "d9/d2a/a27661.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "d9/d2a/a27661.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

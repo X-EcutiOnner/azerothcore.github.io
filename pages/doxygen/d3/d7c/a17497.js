@@ -1,8 +1,11 @@
 var a17497 =
 [
-    [ "boss_krickAI", "d3/d7c/a17497.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "d3/d7c/a17497.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "d3/d7c/a17497.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "d3/d7c/a17497.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "d3/d7c/a17497.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "npc_blood_queen_lana_thelAI", "d3/d7c/a17497.html#a7b099b90600e433e304dee1f356a9909", null ],
+    [ "MoveInLineOfSight", "d3/d7c/a17497.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
+    [ "MovementInform", "d3/d7c/a17497.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
+    [ "Reset", "d3/d7c/a17497.html#a539b0e158c800e1aade54f37aa99751e", null ],
+    [ "UpdateAI", "d3/d7c/a17497.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
+    [ "_events", "d3/d7c/a17497.html#a8ec7641bab991fc584b066fae55690bf", null ],
+    [ "_instance", "d3/d7c/a17497.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
+    [ "_introDone", "d3/d7c/a17497.html#a40c642758a751e072e41343bb75ad306", null ]
 ];

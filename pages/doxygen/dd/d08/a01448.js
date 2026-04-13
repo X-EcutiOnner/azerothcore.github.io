@@ -1,21 +1,16 @@
 var a01448 =
 [
-    [ "LocationXYZ", "d5/dd2/a13890.html", "d5/dd2/a13890" ],
-    [ "npc_rinji", "df/ded/a13894.html", "df/ded/a13894" ],
-    [ "npc_rinji::npc_rinjiAI", "dc/d07/a13898.html", "dc/d07/a13898" ],
-    [ "Rinji", "dd/d08/a01448.html#ab769c87cc823749a5fe9cc0ed4f59133", [
-      [ "SAY_RIN_BY_OUTRUNNER", "dd/d08/a01448.html#ab769c87cc823749a5fe9cc0ed4f59133a3aaaf930cf9ab49ca1d76cc6ed5e766c", null ],
-      [ "SAY_RIN_FREE", "dd/d08/a01448.html#ab769c87cc823749a5fe9cc0ed4f59133a18a3ea60620bdbd5ef82292e56df01d3", null ],
-      [ "SAY_RIN_HELP", "dd/d08/a01448.html#ab769c87cc823749a5fe9cc0ed4f59133af6414cba0564a077856ea0ee01cde0e0", null ],
-      [ "SAY_RIN_COMPLETE", "dd/d08/a01448.html#ab769c87cc823749a5fe9cc0ed4f59133a2e8b271174b0c30e02c7d465daca4632", null ],
-      [ "SAY_RIN_PROGRESS_1", "dd/d08/a01448.html#ab769c87cc823749a5fe9cc0ed4f59133a8f06b066d2b30fd7440ab8d0c0450aa5", null ],
-      [ "SAY_RIN_PROGRESS_2", "dd/d08/a01448.html#ab769c87cc823749a5fe9cc0ed4f59133a9d77a031db4f3a40f412949a95be80c5", null ],
-      [ "QUEST_RINJI_TRAPPED", "dd/d08/a01448.html#ab769c87cc823749a5fe9cc0ed4f59133aeb5734ecb62da42fe708673351c073e8", null ],
-      [ "NPC_RANGER", "dd/d08/a01448.html#ab769c87cc823749a5fe9cc0ed4f59133aec7fcfc9b715f5aeadff781115a0e69e", null ],
-      [ "NPC_OUTRUNNER", "dd/d08/a01448.html#ab769c87cc823749a5fe9cc0ed4f59133abc36fa763814aa6d572492b462e191a2", null ],
-      [ "GO_RINJI_CAGE", "dd/d08/a01448.html#ab769c87cc823749a5fe9cc0ed4f59133a8b71e8dfde4865f3891f672d000410fb", null ]
-    ] ],
-    [ "AddSC_hinterlands", "dd/d08/a01448.html#a0b6f7497a7db75be5fe9d90d14c46720", null ],
-    [ "AmbushMoveTo", "dd/d08/a01448.html#aa2e998c0f3d966c32be9106221fe957c", null ],
-    [ "AmbushSpawn", "dd/d08/a01448.html#ace1d91ebeb7be507ec886616fad7eef4", null ]
+    [ "GameObjectTemplate", "d1/db8/a08465.html", "d1/db8/a08465" ],
+    [ "GameObjectTemplateAddon", "df/dfe/a08589.html", "df/dfe/a08589" ],
+    [ "GameObjectLocale", "d0/d09/a08593.html", "d0/d09/a08593" ],
+    [ "QuaternionData", "d6/d93/a08597.html", "d6/d93/a08597" ],
+    [ "GameObjectAddon", "d8/d16/a08601.html", "d8/d16/a08601" ],
+    [ "GameObjectData", "d5/d6f/a08605.html", "d5/d6f/a08605" ],
+    [ "MAX_GAMEOBJECT_QUEST_ITEMS", "dd/d08/a01448.html#a7698721f2eb4f87abac1a64a64ecf676", null ],
+    [ "MAX_GO_STATE", "dd/d08/a01448.html#ac148792c2982ecdddc593bf3871aa520", null ],
+    [ "GOState", "dd/d08/a01448.html#ac17cd142af80da019367bb796b15e5ab", [
+      [ "GO_STATE_ACTIVE", "dd/d08/a01448.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e", null ],
+      [ "GO_STATE_READY", "dd/d08/a01448.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650", null ],
+      [ "GO_STATE_ACTIVE_ALTERNATIVE", "dd/d08/a01448.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e", null ]
+    ] ]
 ];

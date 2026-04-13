@@ -1,8 +1,9 @@
 var a17673 =
 [
-    [ "boss_eck", "db/ded/a17673.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "db/ded/a17673.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "db/ded/a17673.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "db/ded/a17673.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "db/ded/a17673.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "FilterTargetsInitial", "db/ded/a17673.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "db/ded/a17673.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "db/ded/a17673.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "db/ded/a17673.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "db/ded/a17673.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "db/ded/a17673.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

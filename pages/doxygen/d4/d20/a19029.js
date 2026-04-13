@@ -1,8 +1,9 @@
 var a19029 =
 [
-    [ "Load", "d4/d20/a19029.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
-    [ "PeriodicTick", "d4/d20/a19029.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
-    [ "PrepareAuraScript", "d4/d20/a19029.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
-    [ "Register", "d4/d20/a19029.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
-    [ "_instance", "d4/d20/a19029.html#aebebb858f2ae41f2260d6843b3da8052", null ]
+    [ "npc_icc_severed_essenceAI", "d4/d20/a19029.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "d4/d20/a19029.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "d4/d20/a19029.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "d4/d20/a19029.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "d4/d20/a19029.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "d4/d20/a19029.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

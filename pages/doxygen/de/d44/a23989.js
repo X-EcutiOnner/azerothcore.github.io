@@ -1,7 +1,9 @@
 var a23989 =
 [
-    [ "HandleDummy", "de/d44/a23989.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "de/d44/a23989.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "de/d44/a23989.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "de/d44/a23989.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "de/d44/a23989.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "de/d44/a23989.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "de/d44/a23989.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "de/d44/a23989.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "de/d44/a23989.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "de/d44/a23989.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

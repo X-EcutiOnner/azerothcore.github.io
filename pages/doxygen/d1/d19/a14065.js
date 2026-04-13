@@ -1,9 +1,10 @@
 var a14065 =
 [
-    [ "npc_partygoer", "d1/d19/a14065.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "d1/d19/a14065.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "d1/d19/a14065.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "d1/d19/a14065.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "d1/d19/a14065.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "d1/d19/a14065.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d1/d19/a14065.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "d1/d19/a14065.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "d1/d19/a14065.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "d1/d19/a14065.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "d1/d19/a14065.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "d1/d19/a14065.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "d1/d19/a14065.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

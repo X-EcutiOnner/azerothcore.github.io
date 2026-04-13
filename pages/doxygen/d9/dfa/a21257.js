@@ -1,6 +1,6 @@
 var a21257 =
 [
-    [ "HandleOnHit", "d9/dfa/a21257.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "d9/dfa/a21257.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "d9/dfa/a21257.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "npc_hidden_cultistAI", "df/de7/a21261.html", "df/de7/a21261" ],
+    [ "npc_hidden_cultist", "d9/dfa/a21257.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "d9/dfa/a21257.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

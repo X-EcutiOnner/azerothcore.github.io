@@ -1,10 +1,8 @@
 var a11585 =
 [
-    [ "TriggeredByAuraSpellData", "dd/db5/a11585.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
-    [ "Init", "dd/db5/a11585.html#a782e0056967e006748318af3112c0e43", null ],
-    [ "operator bool", "dd/db5/a11585.html#a85d4782b76b060c172aaa6f914d400da", null ],
-    [ "operator!", "dd/db5/a11585.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
-    [ "effectIndex", "dd/db5/a11585.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
-    [ "spellInfo", "dd/db5/a11585.html#af58f62fb168e9da7011f7b570f08e977", null ],
-    [ "tickNumber", "dd/db5/a11585.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
+    [ "SkillDiscoveryEntry", "dd/db5/a11585.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "dd/db5/a11585.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "dd/db5/a11585.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "dd/db5/a11585.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "dd/db5/a11585.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

@@ -1,11 +1,13 @@
 var a20773 =
 [
-    [ "boss_thorim_arena_npcs", "d8/dbb/a20773.html#a849567e412254aa8d0d7da33b6b1522f", null ],
-    [ "CanAIAttack", "d8/dbb/a20773.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
-    [ "JustEngagedWith", "d8/dbb/a20773.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
-    [ "Reset", "d8/dbb/a20773.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
-    [ "SelectT", "d8/dbb/a20773.html#a3fa38189c886a486aabb39a372834938", null ],
-    [ "UpdateAI", "d8/dbb/a20773.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
-    [ "_isCaster", "d8/dbb/a20773.html#abfd184437df3983659a9ae21a13638fb", null ],
-    [ "events", "d8/dbb/a20773.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
+    [ "npc_ulduar_arachnopod_destroyer", "d8/dbb/a20773.html#a13422abe59c4aa11bee16225d689c054", null ],
+    [ "AttackStart", "d8/dbb/a20773.html#ac634717023bd5827e2b8b1f4c79c6084", null ],
+    [ "DamageTaken", "d8/dbb/a20773.html#a80a63823a5ffb19fd84fe3da5e9e4659", null ],
+    [ "EnterEvadeMode", "d8/dbb/a20773.html#acb089a5226af27005ac2356e84e976aa", null ],
+    [ "OnCharmed", "d8/dbb/a20773.html#a3d24ff7efa6a822b5d5c6c762b026d75", null ],
+    [ "PassengerBoarded", "d8/dbb/a20773.html#a1b15edb1527095dcac5f9c0ef183fb55", null ],
+    [ "Reset", "d8/dbb/a20773.html#a7fa3aa16e4764b5ce4a93eef855010f8", null ],
+    [ "UpdateAI", "d8/dbb/a20773.html#a87d4086066ac53697793152fdcebf841", null ],
+    [ "_spawnedMechanic", "d8/dbb/a20773.html#ae781e2c258ac3ce268821b98ae310a0f", null ],
+    [ "events", "d8/dbb/a20773.html#a7cb0d83e8b94808fa16539ea098e1a2f", null ]
 ];

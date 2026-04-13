@@ -1,7 +1,9 @@
 var a19121 =
 [
-    [ "npc_captain_arnathAI", "d3/d93/a19121.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d3/d93/a19121.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d3/d93/a19121.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d3/d93/a19121.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_isle_of_conquest_turretAI", "d3/d93/a19121.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "d3/d93/a19121.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "d3/d93/a19121.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "d3/d93/a19121.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "d3/d93/a19121.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "d3/d93/a19121.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

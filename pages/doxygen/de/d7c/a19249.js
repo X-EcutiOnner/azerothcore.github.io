@@ -1,7 +1,9 @@
 var a19249 =
 [
-    [ "HandleDummy", "de/d7c/a19249.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "de/d7c/a19249.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "de/d7c/a19249.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "de/d7c/a19249.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "boss_grobbulus_poison_cloudAI", "de/d7c/a19249.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "de/d7c/a19249.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "de/d7c/a19249.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "de/d7c/a19249.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "de/d7c/a19249.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "de/d7c/a19249.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

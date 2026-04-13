@@ -1,6 +1,7 @@
 var a20081 =
 [
-    [ "CosmicSmashDamageEvent", "db/d02/a20081.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "db/d02/a20081.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "db/d02/a20081.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "boss_freya_lifebinder", "db/d02/a20081.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "db/d02/a20081.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "db/d02/a20081.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_healTimer", "db/d02/a20081.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
 ];

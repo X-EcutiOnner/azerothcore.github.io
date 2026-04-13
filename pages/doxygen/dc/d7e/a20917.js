@@ -1,11 +1,8 @@
 var a20917 =
 [
-    [ "boss_yoggsaron_lich_king", "dc/d7e/a20917.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
-    [ "NextStep", "dc/d7e/a20917.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
-    [ "Reset", "dc/d7e/a20917.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
-    [ "Say", "dc/d7e/a20917.html#ac7687fe1253701c702cf2c17986727ec", null ],
-    [ "UpdateAI", "dc/d7e/a20917.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
-    [ "_checkTimer", "dc/d7e/a20917.html#a196ffc443569494bed79f623dd9cdca3", null ],
-    [ "_running", "dc/d7e/a20917.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
-    [ "_step", "dc/d7e/a20917.html#a97244534b8c6a69807388b620df2263f", null ]
+    [ "FilterTargets", "dc/d7e/a20917.html#a028ef84c884536a28650ace1e56f8061", null ],
+    [ "HandleScript", "dc/d7e/a20917.html#a16466b4c07c06c57493082b0e84b3c66", null ],
+    [ "PrepareSpellScript", "dc/d7e/a20917.html#ad43892487ca38342a61522548b34cd2c", null ],
+    [ "Register", "dc/d7e/a20917.html#a90470761baccdcf8c5430006004abf29", null ],
+    [ "Validate", "dc/d7e/a20917.html#a1664dcb92887f6974e1750472c02d168", null ]
 ];

@@ -1,5 +1,7 @@
 var a14981 =
 [
-    [ "PrepareSpellScript", "d0/d64/a14981.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
-    [ "Register", "d0/d64/a14981.html#a99f7d0be5668d5b005400140fc9865a4", null ]
+    [ "hyjalJainaAI", "dd/d1a/a14985.html", "dd/d1a/a14985" ],
+    [ "npc_hyjal_jaina", "d0/d64/a14981.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "d0/d64/a14981.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "d0/d64/a14981.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

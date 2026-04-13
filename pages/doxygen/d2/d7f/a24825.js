@@ -1,7 +1,8 @@
 var a24825 =
 [
-    [ "FilterTargets", "d2/d7f/a24825.html#af6daf7022fc4cd18909056089c249c8a", null ],
-    [ "HandleDummy", "d2/d7f/a24825.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
-    [ "PrepareSpellScript", "d2/d7f/a24825.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
-    [ "Register", "d2/d7f/a24825.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
+    [ "HandleScript", "d2/d7f/a24825.html#a2376d12f379f75f5decfdc133c18403e", null ],
+    [ "Load", "d2/d7f/a24825.html#aa70bfd2e614f9bf68ad2972990f0f7f5", null ],
+    [ "PrepareSpellScript", "d2/d7f/a24825.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1", null ],
+    [ "Register", "d2/d7f/a24825.html#a0b32bf9d565d7d6f606150f70fc244a0", null ],
+    [ "Validate", "d2/d7f/a24825.html#a1aee8ca0cc33f949371fa5cbb4745ccd", null ]
 ];

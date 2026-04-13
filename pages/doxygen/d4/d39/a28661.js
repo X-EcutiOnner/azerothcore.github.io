@@ -1,8 +1,8 @@
 var a28661 =
 [
-    [ "npc_minion_spawner", "d4/d39/a28661.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d4/d39/a28661.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d4/d39/a28661.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d4/d39/a28661.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d4/d39/a28661.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "gender", "d4/d39/a28661.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "d4/d39/a28661.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "d4/d39/a28661.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "d4/d39/a28661.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "d4/d39/a28661.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

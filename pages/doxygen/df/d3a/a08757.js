@@ -1,20 +1,16 @@
 var a08757 =
 [
-    [ "CinematicMgr", "df/d3a/a08757.html#a95547140d5718eb7fb4a8242a6e6de05", null ],
-    [ "~CinematicMgr", "df/d3a/a08757.html#ac56017a73bed15eadfdb6d17891328ff", null ],
-    [ "BeginCinematic", "df/d3a/a08757.html#a94ef6fc060617708b7bfd3a8c311e519", null ],
-    [ "EndCinematic", "df/d3a/a08757.html#a8a47c7cff4414c6aea3aa31fa483cc60", null ],
-    [ "GetActiveCinematicCamera", "df/d3a/a08757.html#a0535dee9b0ec7aa6176809c6dca16b30", null ],
-    [ "IsOnCinematic", "df/d3a/a08757.html#a904cb7a2db9b9e92e8539b736487ad0e", null ],
-    [ "SetActiveCinematicCamera", "df/d3a/a08757.html#afa5c37702ecdb71e09e552b92fa5ad71", null ],
-    [ "UpdateCinematicLocation", "df/d3a/a08757.html#afdcf4c2361f5ce445b1dfc013cf3348d", null ],
-    [ "Player", "df/d3a/a08757.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "m_activeCinematicCameraId", "df/d3a/a08757.html#ab8cd685c623be2b2609a71e8c4ebb740", null ],
-    [ "m_cinematicCamera", "df/d3a/a08757.html#a0c527989b49df340a268b8f69911377c", null ],
-    [ "m_cinematicDiff", "df/d3a/a08757.html#a398e47385916c712677268bed43f7955", null ],
-    [ "m_cinematicLength", "df/d3a/a08757.html#a60c48bec98a06c5cc0e50268df35c9cd", null ],
-    [ "m_CinematicObject", "df/d3a/a08757.html#a969e4ab19088fd45f3ba9483efa2e481", null ],
-    [ "m_lastCinematicCheck", "df/d3a/a08757.html#a50c42e2f39ba97a39ee31043dec17337", null ],
-    [ "m_remoteSightPosition", "df/d3a/a08757.html#ae4f473744f0e3ad43ef51dbf30f62f55", null ],
-    [ "player", "df/d3a/a08757.html#a00099569f6f2b683d4d5640bf971bf2d", null ]
+    [ "WorldLocation", "df/d3a/a08757.html#a424e67f5a820f3396ed6a02c3daa05fb", null ],
+    [ "WorldLocation", "df/d3a/a08757.html#a04d7814f5d846259c5af562ce856f468", null ],
+    [ "GetDebugInfo", "df/d3a/a08757.html#a0b3f13522d288dde484c70cbf8ef5fc5", null ],
+    [ "GetMapId", "df/d3a/a08757.html#a2682e56ae4f0ce4b517a8ba3cd2798b1", null ],
+    [ "GetWorldLocation", "df/d3a/a08757.html#a48cad9058b04a5108c4b99c7fd4d0bfe", null ],
+    [ "GetWorldLocation", "df/d3a/a08757.html#aa2623109f914fd8592f865545696d27b", null ],
+    [ "GetWorldLocation", "df/d3a/a08757.html#a75c59d33f5aac8da8eb9b8c5e2711acf", null ],
+    [ "GetWorldLocation", "df/d3a/a08757.html#aed21eb7d191b1e34ebd1456b427fbb2c", null ],
+    [ "GetWorldLocation", "df/d3a/a08757.html#abb5d3b7c89fa4a39d2486f2f943159e4", null ],
+    [ "SetMapId", "df/d3a/a08757.html#ac425c27c61ecc169fe3df61991011988", null ],
+    [ "WorldRelocate", "df/d3a/a08757.html#a7f014ec2469e93ffca3ec7bbd03b1606", null ],
+    [ "WorldRelocate", "df/d3a/a08757.html#adc762865d564319245ffc3363c080365", null ],
+    [ "m_mapId", "df/d3a/a08757.html#a88161a79f13aa3ab267096cfa8e5d0ed", null ]
 ];

@@ -1,6 +1,7 @@
 var a15141 =
 [
-    [ "FilterTargets", "db/dc0/a15141.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
-    [ "PrepareSpellScript", "db/dc0/a15141.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
-    [ "Register", "db/dc0/a15141.html#a164b8b946dc801db878603488c978adb", null ]
+    [ "npc_tarethaAI", "de/d1b/a15145.html", "de/d1b/a15145" ],
+    [ "npc_taretha", "db/dc0/a15141.html#a54379e06518ff972e91e25e295731f5a", null ],
+    [ "GetAI", "db/dc0/a15141.html#a5045bb7119b12800ee0053818fcae5fe", null ],
+    [ "OnGossipHello", "db/dc0/a15141.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
 ];

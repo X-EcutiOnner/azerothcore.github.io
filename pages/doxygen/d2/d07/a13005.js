@@ -1,9 +1,7 @@
 var a13005 =
 [
-    [ "npc_flamewaker_priestAI", "d2/d07/a13005.html#aa0508dda5bc365896128f088b6de30f4", null ],
-    [ "JustDied", "d2/d07/a13005.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
-    [ "JustEngagedWith", "d2/d07/a13005.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
-    [ "Reset", "d2/d07/a13005.html#a3c3629a6c6987e861e40a893363d2508", null ],
-    [ "UpdateAI", "d2/d07/a13005.html#a28c0ed65521f3d2150874ddc1b913933", null ],
-    [ "events", "d2/d07/a13005.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
+    [ "OnRemove", "d2/d07/a13005.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d2/d07/a13005.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d2/d07/a13005.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d2/d07/a13005.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

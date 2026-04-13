@@ -1,8 +1,12 @@
 var a22581 =
 [
-    [ "CalcPeriodic", "df/d87/a22581.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "df/d87/a22581.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "df/d87/a22581.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "df/d87/a22581.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "df/d87/a22581.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "boss_shade_of_akama", "df/d87/a22581.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "df/d87/a22581.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "df/d87/a22581.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "df/d87/a22581.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "df/d87/a22581.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "df/d87/a22581.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "df/d87/a22581.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "df/d87/a22581.html#a63372527172d3f96f533b5776221c2e7", null ],
+    [ "generators", "df/d87/a22581.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
 ];

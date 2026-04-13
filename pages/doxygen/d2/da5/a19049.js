@@ -1,7 +1,6 @@
 var a19049 =
 [
-    [ "HandleForceCast", "d2/da5/a19049.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "d2/da5/a19049.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "d2/da5/a19049.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "d2/da5/a19049.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "db/dfa/a19053.html", "db/dfa/a19053" ],
+    [ "npc_icc_nerubar_broodkeeper", "d2/da5/a19049.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "d2/da5/a19049.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

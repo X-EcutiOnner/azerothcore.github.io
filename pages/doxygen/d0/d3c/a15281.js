@@ -1,6 +1,5 @@
 var a15281 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d2/dca/a15285.html", "d2/dca/a15285" ],
-    [ "npc_cos_stratholme_citizien", "d0/d3c/a15281.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "d0/d3c/a15281.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "pathId", "d0/d3c/a15281.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
+    [ "spellId", "d0/d3c/a15281.html#af495f984d5b81baeaa61ddca127a9508", null ]
 ];

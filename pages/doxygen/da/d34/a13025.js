@@ -1,9 +1,6 @@
 var a13025 =
 [
-    [ "npc_mc_core_houndAI", "da/d34/a13025.html#a9b07d662e32a342419a848ecd59d6391", null ],
-    [ "DamageTaken", "da/d34/a13025.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
-    [ "Reset", "da/d34/a13025.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
-    [ "UpdateAI", "da/d34/a13025.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
-    [ "instance", "da/d34/a13025.html#ab47451dfeff84c8467be2b76554df897", null ],
-    [ "serratedBiteTimer", "da/d34/a13025.html#a3a49df32c788497d3e82912d423683b7", null ]
+    [ "HandleCast", "da/d34/a13025.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
+    [ "PrepareSpellScript", "da/d34/a13025.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
+    [ "Register", "da/d34/a13025.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
 ];

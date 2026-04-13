@@ -1,10 +1,14 @@
 var a05773 =
 [
-    [ "FreezeDetector", "d4/d72/a04841.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
-    [ "Handler", "d4/d72/a04841.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
-    [ "Start", "d4/d72/a04841.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],
-    [ "_lastChangeMsTime", "d4/d72/a04841.html#ga0a2b971b7ea733d846be71abf7b5dc1d", null ],
-    [ "_maxCoreStuckTimeInMs", "d4/d72/a04841.html#ga54077eab38ea5d0db27f08c50fd0652e", null ],
-    [ "_timer", "d4/d72/a04841.html#ga2377cec7cca6dbb9133a3d48b4d376c3", null ],
-    [ "_worldLoopCounter", "d4/d72/a04841.html#ga0ea988a0e070d056c16d7c9f3b1035f4", null ]
+    [ "SFMTRand", "da/d6e/a05773.html#aa40843ec8c3162e4be6cbf8067f93c9b", null ],
+    [ "operator delete", "da/d6e/a05773.html#a20ef76641899ebf23ecfdfa03933d1d9", null ],
+    [ "operator delete", "da/d6e/a05773.html#ac6267ac04c03814f574a155a4a0cffcb", null ],
+    [ "operator delete[]", "da/d6e/a05773.html#a5051cdb95e18230b7fee753beb621603", null ],
+    [ "operator delete[]", "da/d6e/a05773.html#a7cfe99d3c100b6ba124b82fce756960f", null ],
+    [ "operator new", "da/d6e/a05773.html#a73dfbe0b1545b5604dfde603517efbfb", null ],
+    [ "operator new", "da/d6e/a05773.html#a3dc4f4d003c77547117ec7c31486f884", null ],
+    [ "operator new[]", "da/d6e/a05773.html#a61d2b3bc61bfa640c8b0241d09347d2b", null ],
+    [ "operator new[]", "da/d6e/a05773.html#ace8e8802bdb710f3354d3ff7d619497c", null ],
+    [ "RandomUInt32", "da/d6e/a05773.html#a8d129952ad2916419cdf54aa474c23c0", null ],
+    [ "_state", "da/d6e/a05773.html#a9bc20836138e5dd4db93f7d03a9e856b", null ]
 ];

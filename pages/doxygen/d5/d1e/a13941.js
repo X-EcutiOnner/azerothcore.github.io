@@ -1,6 +1,6 @@
 var a13941 =
 [
-    [ "ChangeSummonPos", "d5/d1e/a13941.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "d5/d1e/a13941.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "d5/d1e/a13941.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "CheckProc", "d5/d1e/a13941.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "d5/d1e/a13941.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "d5/d1e/a13941.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

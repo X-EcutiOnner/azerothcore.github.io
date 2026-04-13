@@ -1,11 +1,7 @@
 var a14997 =
 [
-    [ "HandleFinish", "da/d70/a14997.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
-    [ "HandleScript", "da/d70/a14997.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
-    [ "Load", "da/d70/a14997.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
-    [ "PrepareSpellScript", "da/d70/a14997.html#a9714f48de3982feb245f78efb8008f1b", null ],
-    [ "Register", "da/d70/a14997.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
-    [ "ThrowNextTorch", "da/d70/a14997.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
-    [ "Validate", "da/d70/a14997.html#a026fbf7123f6780459c19ff04b370b08", null ],
-    [ "handled", "da/d70/a14997.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
+    [ "hyjalTyrandeAI", "dc/dad/a15001.html", "dc/dad/a15001" ],
+    [ "npc_hyjal_tyrande", "da/d70/a14997.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "da/d70/a14997.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "da/d70/a14997.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

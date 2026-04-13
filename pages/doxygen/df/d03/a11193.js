@@ -1,8 +1,9 @@
 var a11193 =
 [
-    [ "MinimapPing", "df/d03/a11193.html#a846074f55e6224bf322b96c7bfe9e008", null ],
-    [ "Write", "df/d03/a11193.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
-    [ "MapX", "df/d03/a11193.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
-    [ "MapY", "df/d03/a11193.html#a2f8504ddba41dd09f69763d66331373b", null ],
-    [ "SourceGuid", "df/d03/a11193.html#abf5d5980b360cbf9332460b01d5816f5", null ]
+    [ "EnchantmentLog", "df/d03/a11193.html#a4427184d166b18e984dc301a6786aac3", null ],
+    [ "Write", "df/d03/a11193.html#a17752d3e862c1915f8479058a4be1eb7", null ],
+    [ "Caster", "df/d03/a11193.html#ae35a0c689357cf4b5a031f40314a7045", null ],
+    [ "EnchantId", "df/d03/a11193.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
+    [ "ItemId", "df/d03/a11193.html#ad393d5f227bb81738582572bd2601650", null ],
+    [ "Target", "df/d03/a11193.html#a9ef981f750bee2101c1f886fa2514913", null ]
 ];

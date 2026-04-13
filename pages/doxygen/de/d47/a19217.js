@@ -1,5 +1,6 @@
 var a19217 =
 [
-    [ "at_icc_shutdown_traps", "de/d47/a19217.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "de/d47/a19217.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "npc_boss_gothik_minionAI", "db/d63/a19221.html", "db/d63/a19221" ],
+    [ "npc_boss_gothik_minion", "de/d47/a19217.html#a6cabeae812639ac179133245d85a0e15", null ],
+    [ "GetAI", "de/d47/a19217.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
 ];

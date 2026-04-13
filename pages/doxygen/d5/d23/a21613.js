@@ -1,6 +1,8 @@
 var a21613 =
 [
-    [ "PrepareSpellScript", "d5/d23/a21613.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "d5/d23/a21613.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "d5/d23/a21613.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "HandleEffectApply", "d5/d23/a21613.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "d5/d23/a21613.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "d5/d23/a21613.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "d5/d23/a21613.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "d5/d23/a21613.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

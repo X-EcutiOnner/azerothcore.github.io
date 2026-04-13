@@ -1,9 +1,6 @@
 var a18009 =
 [
-    [ "BattleExperienceEvent", "d8/d10/a18009.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d8/d10/a18009.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d8/d10/a18009.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d8/d10/a18009.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d8/d10/a18009.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d8/d10/a18009.html#af682cc246c7fdae39cc2a1e57110badc", null ]
+    [ "npc_bone_spikeAI", "d0/de3/a18013.html", "d0/de3/a18013" ],
+    [ "npc_bone_spike", "d8/d10/a18009.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "d8/d10/a18009.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

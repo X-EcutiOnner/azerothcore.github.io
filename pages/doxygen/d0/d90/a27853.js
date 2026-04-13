@@ -1,8 +1,6 @@
 var a27853 =
 [
-    [ "HandleDamage", "d0/d90/a27853.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "d0/d90/a27853.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "d0/d90/a27853.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "d0/d90/a27853.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "d0/d90/a27853.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "go_darkmoon_faire_musicAI", "d2/d6d/a27857.html", "d2/d6d/a27857" ],
+    [ "go_darkmoon_faire_music", "d0/d90/a27853.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "d0/d90/a27853.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

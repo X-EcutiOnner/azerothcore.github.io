@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ItemRandomPropertiesEntry Struct Reference</title>
+<title>AzerothCore: ProcChanceTestHelper::PPMModifierConfig Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,68 +107,90 @@ $(document).ready(function(){initNavTree('dd/df9/a29213.html','../../'); initRes
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../dd/d34/a29210.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ItemRandomPropertiesEntry Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ProcChanceTestHelper::PPMModifierConfig Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">DBCStructure.h</a>&quot;</code></p>
+<p>PPM modifier configuration for testing SPELLMOD_PROC_PER_MINUTE.  
+ <a href="../../dd/df9/a29213.html#details">More...</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:acb673be771124b84dd3fdd5deb300de7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df9/a29213.html#acb673be771124b84dd3fdd5deb300de7">ID</a></td></tr>
-<tr class="separator:acb673be771124b84dd3fdd5deb300de7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a480ab806214bb138d56dfd5e9e43936f"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/d67/a04838.html#af0d8d6c7748de71fbd87ae5d02985404">MAX_ITEM_ENCHANTMENT_EFFECTS</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df9/a29213.html#a480ab806214bb138d56dfd5e9e43936f">Enchantment</a></td></tr>
-<tr class="separator:a480ab806214bb138d56dfd5e9e43936f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3ad3a1b693922ff8264d90232abb3e35"><td class="memItemLeft" align="right" valign="top">std::array&lt; char const  *, 16 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df9/a29213.html#a3ad3a1b693922ff8264d90232abb3e35">Name</a></td></tr>
-<tr class="separator:a3ad3a1b693922ff8264d90232abb3e35"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a781485dfaede63716eddba66971600e3"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df9/a29213.html#a781485dfaede63716eddba66971600e3">flatModifier</a> = 0.0f</td></tr>
+<tr class="separator:a781485dfaede63716eddba66971600e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf5a1e1118b0dcd155529978bdc172db"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df9/a29213.html#aaf5a1e1118b0dcd155529978bdc172db">pctModifier</a> = 1.0f</td></tr>
+<tr class="separator:aaf5a1e1118b0dcd155529978bdc172db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa80132f8b5cb980a4a703810fe3fa1a4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df9/a29213.html#aa80132f8b5cb980a4a703810fe3fa1a4">hasSpellModOwner</a> = true</td></tr>
+<tr class="separator:aa80132f8b5cb980a4a703810fe3fa1a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96607da311b5774eeaa01674d32ab22e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df9/a29213.html#a96607da311b5774eeaa01674d32ab22e">hasSpellProto</a> = true</td></tr>
+<tr class="separator:a96607da311b5774eeaa01674d32ab22e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a480ab806214bb138d56dfd5e9e43936f" name="a480ab806214bb138d56dfd5e9e43936f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a480ab806214bb138d56dfd5e9e43936f">&#9670;&#160;</a></span>Enchantment</h2>
+<div class="textblock"><p >PPM modifier configuration for testing SPELLMOD_PROC_PER_MINUTE. </p>
+</div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a781485dfaede63716eddba66971600e3" name="a781485dfaede63716eddba66971600e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a781485dfaede63716eddba66971600e3">&#9670;&#160;</a></span>flatModifier</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::array&lt;<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/d67/a04838.html#af0d8d6c7748de71fbd87ae5d02985404">MAX_ITEM_ENCHANTMENT_EFFECTS</a>&gt; ItemRandomPropertiesEntry::Enchantment</td>
+          <td class="memname">float ProcChanceTestHelper::PPMModifierConfig::flatModifier = 0.0f</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00668">Item::SetItemRandomProperties()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00108">TEST_F()</a>.</p>
 
 </div>
 </div>
-<a id="acb673be771124b84dd3fdd5deb300de7" name="acb673be771124b84dd3fdd5deb300de7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb673be771124b84dd3fdd5deb300de7">&#9670;&#160;</a></span>ID</h2>
+<a id="aa80132f8b5cb980a4a703810fe3fa1a4" name="aa80132f8b5cb980a4a703810fe3fa1a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa80132f8b5cb980a4a703810fe3fa1a4">&#9670;&#160;</a></span>hasSpellModOwner</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ItemRandomPropertiesEntry::ID</td>
+          <td class="memname">bool ProcChanceTestHelper::PPMModifierConfig::hasSpellModOwner = true</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00622">Item::GenerateItemRandomPropertyId()</a>, and <a class="el" href="../../#l00668">Item::SetItemRandomProperties()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00246">TEST_F()</a>.</p>
 
 </div>
 </div>
-<a id="a3ad3a1b693922ff8264d90232abb3e35" name="a3ad3a1b693922ff8264d90232abb3e35"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3ad3a1b693922ff8264d90232abb3e35">&#9670;&#160;</a></span>Name</h2>
+<a id="a96607da311b5774eeaa01674d32ab22e" name="a96607da311b5774eeaa01674d32ab22e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96607da311b5774eeaa01674d32ab22e">&#9670;&#160;</a></span>hasSpellProto</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::array&lt;char const*, 16&gt; ItemRandomPropertiesEntry::Name</td>
+          <td class="memname">bool ProcChanceTestHelper::PPMModifierConfig::hasSpellProto = true</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00135">LinkValidator&lt; LinkTags::item &gt;::IsTextValid()</a>, and <a class="el" href="../../#l00461">SearchableAuctionEntry::SetItemNames()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00267">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="aaf5a1e1118b0dcd155529978bdc172db" name="aaf5a1e1118b0dcd155529978bdc172db"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaf5a1e1118b0dcd155529978bdc172db">&#9670;&#160;</a></span>pctModifier</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float ProcChanceTestHelper::PPMModifierConfig::pctModifier = 1.0f</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00381">ProcChanceTestHelper::CalculatePPMChanceWithModifiers()</a>, and <a class="el" href="../../#l00160">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -177,8 +199,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/df9/a29213.html">ItemRandomPropertiesEntry</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:09:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/d5e/a29201.html">ProcChanceTestHelper</a></li><li class="navelem"><a class="el" href="../../dd/df9/a29213.html">PPMModifierConfig</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:29:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

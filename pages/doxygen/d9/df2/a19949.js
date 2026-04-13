@@ -1,9 +1,11 @@
 var a19949 =
 [
-    [ "npc_stormforged_lieutenant", "d9/df2/a19949.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "d9/df2/a19949.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "d9/df2/a19949.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "d9/df2/a19949.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "d9/df2/a19949.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "d9/df2/a19949.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "boss_flame_leviathan_defense_turret", "d9/df2/a19949.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
+    [ "CanAIAttack", "d9/df2/a19949.html#a17020dc7facabb0cacac3209277a73f7", null ],
+    [ "DamageTaken", "d9/df2/a19949.html#ac15aadce1954d827b7e833ed761faf10", null ],
+    [ "JustDied", "d9/df2/a19949.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
+    [ "KilledUnit", "d9/df2/a19949.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
+    [ "UpdateAI", "d9/df2/a19949.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
+    [ "_instance", "d9/df2/a19949.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
+    [ "_setHealth", "d9/df2/a19949.html#a413187aa01c119d088846a216f093baa", null ]
 ];

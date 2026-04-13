@@ -1,5 +1,7 @@
 var a22509 =
 [
-    [ "outdoorpvp_na_halaa_creatures", "d1/d41/a22509.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
-    [ "UpdateAI", "d1/d41/a22509.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
+    [ "CheckProc", "d1/d41/a22509.html#a0968b7b32f2d2bef6035e030f544088a", null ],
+    [ "PrepareAuraScript", "d1/d41/a22509.html#ac424e41948196a6e60b790ebcf40783f", null ],
+    [ "Register", "d1/d41/a22509.html#a06bdac68e36b43ee534e937ffd974086", null ],
+    [ "Update", "d1/d41/a22509.html#af6c228840f6af96e353ba964fdd01e54", null ]
 ];

@@ -1,6 +1,7 @@
 var a27161 =
 [
-    [ "OnApply", "d6/d96/a27161.html#a50ced6d5a475ccad9429dfbb05130394", null ],
-    [ "PrepareAuraScript", "d6/d96/a27161.html#abd02e129b1201449d473a66aea77d569", null ],
-    [ "Register", "d6/d96/a27161.html#a8c09775f642335252c6e548900dc9d3a", null ]
+    [ "HandleScriptEffect", "d6/d96/a27161.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
+    [ "PrepareSpellScript", "d6/d96/a27161.html#a7462fbeab2254046e12a262418ec0d2c", null ],
+    [ "Register", "d6/d96/a27161.html#ac14625182eb0289d8536ac322500ab45", null ],
+    [ "Validate", "d6/d96/a27161.html#a190b802f3b09655886e5bbb9980375af", null ]
 ];

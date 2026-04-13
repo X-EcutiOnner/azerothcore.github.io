@@ -1,5 +1,7 @@
 var a05781 =
 [
-    [ "FromString", "df/dfb/a05781.html#acfabf7e368302aa32ae96367f836edd2", null ],
-    [ "ToString", "df/dfb/a05781.html#a3a97bead5d1614412948b41fe499d50c", null ]
+    [ "EnumText", "df/dfb/a05781.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
+    [ "Constant", "df/dfb/a05781.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
+    [ "Description", "df/dfb/a05781.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
+    [ "Title", "df/dfb/a05781.html#a7326575ea4083e28ac62556526a092a4", null ]
 ];

@@ -1,7 +1,8 @@
 var a27001 =
 [
-    [ "HandleEffectRemove", "db/d7d/a27001.html#a814687d3938e966f8721438e1a722f77", null ],
-    [ "PrepareAuraScript", "db/d7d/a27001.html#a2144b0602501471a4001883ce9de6db3", null ],
-    [ "Register", "db/d7d/a27001.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
-    [ "AuraEffectHandleModes", "db/d7d/a27001.html#ab291f6c6f269ec7004df39a043f49efd", null ]
+    [ "CheckProc", "db/d7d/a27001.html#a6abcfe33cfddde117eb9d19bdf834c3f", null ],
+    [ "HandleProc", "db/d7d/a27001.html#a4ee92efd0a312f7b5b4e0e19184cd085", null ],
+    [ "PrepareAuraScript", "db/d7d/a27001.html#ac45288980b444c92daecc1392a2cd38c", null ],
+    [ "Register", "db/d7d/a27001.html#ac93280657ee8d64aced09b95dac270d4", null ],
+    [ "Validate", "db/d7d/a27001.html#ad7b22c7da5d72a392d342624c46b456b", null ]
 ];

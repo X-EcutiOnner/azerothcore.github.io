@@ -1,8 +1,8 @@
 var a15769 =
 [
-    [ "npc_ahnqiraji_critter", "d6/d8c/a15769.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d6/d8c/a15769.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d6/d8c/a15769.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d6/d8c/a15769.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d6/d8c/a15769.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "CheckRequirement", "d6/d8c/a15769.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "d6/d8c/a15769.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "d6/d8c/a15769.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "d6/d8c/a15769.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "d6/d8c/a15769.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

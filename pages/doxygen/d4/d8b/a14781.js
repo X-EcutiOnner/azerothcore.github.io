@@ -1,11 +1,8 @@
 var a14781 =
 [
-    [ "npc_the_biggest_tree", "d4/d8b/a14781.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
-    [ "MoveInLineOfSight", "d4/d8b/a14781.html#a572c0b146d461b6a8504163452570954", null ],
-    [ "Reset", "d4/d8b/a14781.html#a3fd4c5e522e8945925124426a8ff870b", null ],
-    [ "UpdateAI", "d4/d8b/a14781.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
-    [ "orphanGUID", "d4/d8b/a14781.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
-    [ "phase", "d4/d8b/a14781.html#a7101fe10b15ce1779d3d131e597ef636", null ],
-    [ "playerGUID", "d4/d8b/a14781.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
-    [ "timer", "d4/d8b/a14781.html#a7525783692c3bc9642f534296b71a5f5", null ]
+    [ "OnApply", "d4/d8b/a14781.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
+    [ "OnRemove", "d4/d8b/a14781.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
+    [ "PrepareAuraScript", "d4/d8b/a14781.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
+    [ "Register", "d4/d8b/a14781.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
+    [ "Validate", "d4/d8b/a14781.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
 ];

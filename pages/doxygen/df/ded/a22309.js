@@ -1,7 +1,15 @@
 var a22309 =
 [
-    [ "HandleScript", "df/ded/a22309.html#ad38771460ddf0f95783718775690d1f0", null ],
-    [ "PrepareSpellScript", "df/ded/a22309.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
-    [ "Register", "df/ded/a22309.html#a3ba23fd54c35c2d2866db647811c948d", null ],
-    [ "Validate", "df/ded/a22309.html#a6a58808356785c25032c2befd429ff2b", null ]
+    [ "boss_grandmaster_vorpil", "df/ded/a22309.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
+    [ "counterVoidSpawns", "df/ded/a22309.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
+    [ "JustDied", "df/ded/a22309.html#ab492fff8a9a275c662b44eeff3300b90", null ],
+    [ "JustEngagedWith", "df/ded/a22309.html#af1e6da02cd33742efad568424cf32c4f", null ],
+    [ "JustSummoned", "df/ded/a22309.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
+    [ "KilledUnit", "df/ded/a22309.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
+    [ "MoveInLineOfSight", "df/ded/a22309.html#adb24a3d337b64f37759a3a39802d7e27", null ],
+    [ "Reset", "df/ded/a22309.html#a6471121ee02a834591b36d03fae28672", null ],
+    [ "spawnVoidTraveler", "df/ded/a22309.html#aa842bc3d88d0a3a411dcba3711809956", null ],
+    [ "summonPortals", "df/ded/a22309.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
+    [ "sayHelp", "df/ded/a22309.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
+    [ "sayIntro", "df/ded/a22309.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
 ];

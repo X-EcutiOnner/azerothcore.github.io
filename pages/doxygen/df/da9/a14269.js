@@ -1,7 +1,6 @@
 var a14269 =
 [
-    [ "npc_daphne_stilwellAI", "dc/d76/a14273.html", "dc/d76/a14273" ],
-    [ "npc_daphne_stilwell", "df/da9/a14269.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "df/da9/a14269.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "df/da9/a14269.html#ad7b293efc802506a825f202e34cb0f4d", null ]
+    [ "OnEffect", "df/da9/a14269.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "df/da9/a14269.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "df/da9/a14269.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

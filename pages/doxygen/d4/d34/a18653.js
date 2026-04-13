@@ -1,11 +1,6 @@
 var a18653 =
 [
-    [ "NonTankLKTargetSelector", "d4/d34/a18653.html#a41c5372505c0c74e93f2c583a0259777", null ],
-    [ "operator()", "d4/d34/a18653.html#a2e496088092b9885f8e2391c2df91993", null ],
-    [ "_exclude1", "d4/d34/a18653.html#abe4e56597fa2918b15a003413887ac71", null ],
-    [ "_exclude2", "d4/d34/a18653.html#a6aa63c93c4e68998f621349760d9ab43", null ],
-    [ "_maxDist", "d4/d34/a18653.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
-    [ "_playerOnly", "d4/d34/a18653.html#a5ab89af79aa4840c9a024996a848540c", null ],
-    [ "_reqLOS", "d4/d34/a18653.html#a61966d6b825f25b6bbf589676cef19f9", null ],
-    [ "_source", "d4/d34/a18653.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
+    [ "ManaVoidSelector", "d4/d34/a18653.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d4/d34/a18653.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d4/d34/a18653.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

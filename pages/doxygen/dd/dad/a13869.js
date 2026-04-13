@@ -1,6 +1,12 @@
 var a13869 =
 [
-    [ "FilterTargets", "dd/dad/a13869.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "dd/dad/a13869.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "dd/dad/a13869.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "npc_cameron", "dd/dad/a13869.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "dd/dad/a13869.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "dd/dad/a13869.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "dd/dad/a13869.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "dd/dad/a13869.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "dd/dad/a13869.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "dd/dad/a13869.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "dd/dad/a13869.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "dd/dad/a13869.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

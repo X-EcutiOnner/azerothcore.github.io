@@ -1,17 +1,18 @@
 var a13101 =
 [
-    [ "boss_attumen", "dd/d53/a13101.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
-    [ "CanMeleeHit", "dd/d53/a13101.html#ae685929086090928802854cc93f9934a", null ],
-    [ "DamageTaken", "dd/d53/a13101.html#a0b426b760d9ace05211c3383e7628022", null ],
-    [ "EnterEvadeMode", "dd/d53/a13101.html#af00f91294c04d0fe932c922fd270c5dc", null ],
-    [ "Initialize", "dd/d53/a13101.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
-    [ "IsSummonedBy", "dd/d53/a13101.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
-    [ "JustDied", "dd/d53/a13101.html#a375a95d46f8db8a53ea6420dd557855e", null ],
-    [ "JustSummoned", "dd/d53/a13101.html#af91018e54244864ca4cd1b9d40c569df", null ],
-    [ "KilledUnit", "dd/d53/a13101.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
-    [ "Reset", "dd/d53/a13101.html#ab8815ed9b1068e748e43346725cd9281", null ],
-    [ "ScheduleTasks", "dd/d53/a13101.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
-    [ "SpellHit", "dd/d53/a13101.html#a1181ae1d50d6c52483b0d90423997c90", null ],
-    [ "UpdateAI", "dd/d53/a13101.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
-    [ "_phase", "dd/d53/a13101.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
+    [ "boss_romulo", "dd/d53/a13101.html#a497e0e57d2abb6640081c1d141a588ff", null ],
+    [ "DamageTaken", "dd/d53/a13101.html#a603db3883d03367406cbcf3f2cb28a08", null ],
+    [ "DoAction", "dd/d53/a13101.html#acc23f4f4f5856b9956a764c1f69bbc92", null ],
+    [ "EnterEvadeMode", "dd/d53/a13101.html#ab4dda6b70337668dd36a582e8439c3db", null ],
+    [ "JustDied", "dd/d53/a13101.html#aa60d8fe07db9444f25eec9de9e5bf365", null ],
+    [ "JustEngagedWith", "dd/d53/a13101.html#ab13e2a4ebe8a1956f6de460cdb9b199d", null ],
+    [ "JustReachedHome", "dd/d53/a13101.html#af8bff3f1c107dc7d8beae7956a25fbcc", null ],
+    [ "KilledUnit", "dd/d53/a13101.html#ae4ca6736913cc8df4d016876a8fd8576", null ],
+    [ "Reset", "dd/d53/a13101.html#a15703ee7df979b8ee5892dacf84066e2", null ],
+    [ "ScheduleCombat", "dd/d53/a13101.html#a4cc20dccb171d1f4d3c680b6b5310e73", null ],
+    [ "UpdateAI", "dd/d53/a13101.html#ac42df238a2ad354a2fb21ebb558734c6", null ],
+    [ "_scheduler", "dd/d53/a13101.html#a456abfa48f038e904c427179c2a10edb", null ],
+    [ "instance", "dd/d53/a13101.html#aae979b72844ff8fcc70956925df4fa9b", null ],
+    [ "isFakingDeath", "dd/d53/a13101.html#a88ccbe761b4703e4f309d1bb3fca4085", null ],
+    [ "phase", "dd/d53/a13101.html#ab549436aec35727665150d51f1c25714", null ]
 ];

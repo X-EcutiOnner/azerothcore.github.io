@@ -1,6 +1,8 @@
 var a13653 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "dd/df7/a13657.html", "dd/df7/a13657" ],
-    [ "instance_shadowfang_keep", "d8/db4/a13653.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
-    [ "GetInstanceScript", "d8/db4/a13653.html#a5c076ed86470247de5b4e3733b70fa25", null ]
+    [ "FilterTargets", "d8/db4/a13653.html#a3aac5e364d04a4a086aaa911051417d5", null ],
+    [ "HandleDummy", "d8/db4/a13653.html#aa0705dee3edeca7b61f82581f367e94a", null ],
+    [ "PrepareSpellScript", "d8/db4/a13653.html#a1efa036eac25d789850849dc1b209379", null ],
+    [ "Register", "d8/db4/a13653.html#a656b512d5bef657004a72acbf7875760", null ],
+    [ "Validate", "d8/db4/a13653.html#a33534d9fd70af99bbde1e4a908d22084", null ]
 ];

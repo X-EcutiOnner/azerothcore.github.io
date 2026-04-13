@@ -1,7 +1,6 @@
 var a16133 =
 [
-    [ "npc_giltharesAI", "d8/dd7/a16133.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "d8/dd7/a16133.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "d8/dd7/a16133.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "d8/dd7/a16133.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "ModDestHeight", "d8/dd7/a16133.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "d8/dd7/a16133.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "d8/dd7/a16133.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

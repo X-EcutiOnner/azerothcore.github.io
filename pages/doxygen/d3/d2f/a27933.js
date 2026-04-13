@@ -1,7 +1,5 @@
 var a27933 =
 [
-    [ "HandleProc", "d3/d2f/a27933.html#a39a69b837c5844d345f5a311f5760bf6", null ],
-    [ "PrepareAuraScript", "d3/d2f/a27933.html#a673557238631dbca8954f516718f0eb2", null ],
-    [ "Register", "d3/d2f/a27933.html#aa9f71fd65dd63f66a7ff3c7757174e67", null ],
-    [ "Validate", "d3/d2f/a27933.html#aedf17c34772c0e2030388fc9b17aec38", null ]
+    [ "go_dragonflayer_cage", "d3/d2f/a27933.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d3/d2f/a27933.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

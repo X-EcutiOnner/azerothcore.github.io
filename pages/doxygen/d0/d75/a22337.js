@@ -1,8 +1,9 @@
 var a22337 =
 [
-    [ "npc_wg_spirit_guideAI", "d5/d01/a22341.html", "d5/d01/a22341" ],
-    [ "npc_wg_spirit_guide", "d0/d75/a22337.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "d0/d75/a22337.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "d0/d75/a22337.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "d0/d75/a22337.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d0/d75/a22337.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "d0/d75/a22337.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "d0/d75/a22337.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "d0/d75/a22337.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "d0/d75/a22337.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "d0/d75/a22337.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

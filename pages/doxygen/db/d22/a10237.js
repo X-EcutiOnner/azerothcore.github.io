@@ -1,10 +1,10 @@
 var a10237 =
 [
-    [ "WaypointMgr", "db/d22/a10237.html#a2f038884959f10348bd5b7af3abee7db", null ],
-    [ "~WaypointMgr", "db/d22/a10237.html#a7b0fed55791df7ab040a46984700d18e", null ],
-    [ "GetPath", "db/d22/a10237.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
-    [ "instance", "db/d22/a10237.html#aacd2ed943503288057b3fb9a935a56e9", null ],
-    [ "Load", "db/d22/a10237.html#a69ae451ce07f2e68be81b1a86649115d", null ],
-    [ "ReloadPath", "db/d22/a10237.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
-    [ "_waypointStore", "db/d22/a10237.html#af70ce7663d7f132339ea8d163311c248", null ]
+    [ "CreateWorldPacket", "db/d22/a10237.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
+    [ "GetMotd", "db/d22/a10237.html#ab589dd8bfad950e02ee716ea9005253f", null ],
+    [ "GetMotdPacket", "db/d22/a10237.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
+    [ "instance", "db/d22/a10237.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
+    [ "LoadMotd", "db/d22/a10237.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
+    [ "LoadMotdLocale", "db/d22/a10237.html#a21aa89787d5b0bbf69158f799122edd5", null ],
+    [ "SetMotd", "db/d22/a10237.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
 ];

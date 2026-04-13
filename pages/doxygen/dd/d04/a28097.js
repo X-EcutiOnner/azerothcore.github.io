@@ -1,10 +1,12 @@
 var a28097 =
 [
-    [ "boss_emerissAI", "dd/d04/a28097.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "dd/d04/a28097.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "dd/d04/a28097.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "dd/d04/a28097.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "dd/d04/a28097.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "dd/d04/a28097.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "dd/d04/a28097.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "npc_elder_clearwaterAI", "dd/d04/a28097.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
+    [ "DoAction", "dd/d04/a28097.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
+    [ "GetData", "dd/d04/a28097.html#a077c02bf06b16439225a5cf8d83babf2", null ],
+    [ "UpdateAI", "dd/d04/a28097.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
+    [ "events", "dd/d04/a28097.html#a267fec22dc3d7272cae74267d0567618", null ],
+    [ "finished", "dd/d04/a28097.html#af51d6abb8fc8b59d068156a4859a377e", null ],
+    [ "finishWarning", "dd/d04/a28097.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
+    [ "preWarning", "dd/d04/a28097.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
+    [ "startWarning", "dd/d04/a28097.html#a01545211dec4338ac44304ebc7f18a97", null ]
 ];

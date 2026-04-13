@@ -1,5 +1,4 @@
 var a28781 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "d0/dcf/a28781.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "d0/dcf/a28781.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "ratio", "d0/dcf/a28781.html#abd6f48f1ad2826ae1c3c782337bac618", null ]
 ];

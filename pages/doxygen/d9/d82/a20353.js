@@ -1,5 +1,8 @@
 var a20353 =
 [
-    [ "boss_freya_iron_root", "d9/d82/a20353.html#af35a268c89c025d95c13ea8c87d6516e", null ],
-    [ "JustDied", "d9/d82/a20353.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
+    [ "npc_ulduar_mimiron_rocket", "d9/d82/a20353.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
+    [ "InitializeAI", "d9/d82/a20353.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "d9/d82/a20353.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetData", "d9/d82/a20353.html#a507124f21657b62ff2b68060b52503b1", null ],
+    [ "UpdateAI", "d9/d82/a20353.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
 ];

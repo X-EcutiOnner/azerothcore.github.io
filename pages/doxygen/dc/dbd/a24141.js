@@ -1,6 +1,6 @@
 var a24141 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d7/d3f/a24145.html", "d7/d3f/a24145" ],
-    [ "npc_mature_netherwing_drake", "dc/dbd/a24141.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "dc/dbd/a24141.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "CheckProc", "dc/dbd/a24141.html#afec3e119cb5ef12632b603225ccb5b8d", null ],
+    [ "PrepareAuraScript", "dc/dbd/a24141.html#a2f42e70482f71a4c275f70897b90ed72", null ],
+    [ "Register", "dc/dbd/a24141.html#a048f59b6b0d52232e3a953f173324fc2", null ]
 ];

@@ -1,6 +1,9 @@
 var a15985 =
 [
-    [ "npc_silva_filnaveth", "dc/def/a15985.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "dc/def/a15985.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "dc/def/a15985.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_pluckyAI", "dc/def/a15985.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "dc/def/a15985.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "dc/def/a15985.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "dc/def/a15985.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "dc/def/a15985.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "dc/def/a15985.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

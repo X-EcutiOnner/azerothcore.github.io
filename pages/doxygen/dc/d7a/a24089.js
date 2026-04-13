@@ -1,7 +1,7 @@
 var a24089 =
 [
-    [ "npc_bessyAI", "d3/d92/a24093.html", "d3/d92/a24093" ],
-    [ "npc_bessy", "dc/d7a/a24089.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "dc/d7a/a24089.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "dc/d7a/a24089.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "CheckCast", "dc/d7a/a24089.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
+    [ "HandleDummy", "dc/d7a/a24089.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
+    [ "PrepareSpellScript", "dc/d7a/a24089.html#a465da282630352a289d5daae7ccb1d01", null ],
+    [ "Register", "dc/d7a/a24089.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
 ];

@@ -1,7 +1,14 @@
 var a15501 =
 [
-    [ "go_sand_trap", "d9/d12/a15501.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "d9/d12/a15501.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "d9/d12/a15501.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "d9/d12/a15501.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "boss_twinemperorsAI", "d9/d12/a15501.html#ae0857b191dbbf086533062aee5885237", null ],
+    [ "DamageTaken", "d9/d12/a15501.html#a118151851f36de9dfc22971a965cb047", null ],
+    [ "DoAction", "d9/d12/a15501.html#a2b5e585749b7a59663813c7a9d56c223", null ],
+    [ "EnterEvadeMode", "d9/d12/a15501.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
+    [ "GetTwin", "d9/d12/a15501.html#af23aa54bca9752c242e80331862ace4d", null ],
+    [ "IAmVeklor", "d9/d12/a15501.html#acdccdde2ee573f51e1783ea493577258", null ],
+    [ "JustDied", "d9/d12/a15501.html#a9cc74619908c2aa9f8deda2689616735", null ],
+    [ "JustEngagedWith", "d9/d12/a15501.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
+    [ "KilledUnit", "d9/d12/a15501.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
+    [ "UpdateAI", "d9/d12/a15501.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
+    [ "_introDone", "d9/d12/a15501.html#a1b4689b0c403f7246ae100e4f716b138", null ]
 ];

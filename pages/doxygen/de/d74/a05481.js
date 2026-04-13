@@ -1,17 +1,9 @@
 var a05481 =
 [
-    [ "LockedQueue", "de/d74/a05481.html#a5ce001c1fba3468b513aa7e345113128", null ],
-    [ "~LockedQueue", "de/d74/a05481.html#a259a03cc68a36181edebe088ef669c46", null ],
-    [ "add", "de/d74/a05481.html#a03f459044b4ffb413fb8d1ba98179ab8", null ],
-    [ "cancel", "de/d74/a05481.html#ab3d04497f8a07c5c6b6208b136a297a4", null ],
-    [ "cancelled", "de/d74/a05481.html#af9e2adfcd3800e9e9fa858fcacf22e2e", null ],
-    [ "empty", "de/d74/a05481.html#a8d62ae6a4bb93f89816714ccbb519753", null ],
-    [ "next", "de/d74/a05481.html#ac818ec56d60e2ec059857e0aaa99f8a4", null ],
-    [ "next", "de/d74/a05481.html#acaade33a01794600c72efbf389fe7664", null ],
-    [ "peek", "de/d74/a05481.html#af1de22fd872bb07a5ad42779d2ddbac3", null ],
-    [ "pop_front", "de/d74/a05481.html#aa57d3a3964071fd3e0ba6b7840041c65", null ],
-    [ "readd", "de/d74/a05481.html#a4eb9aea8b399a2acc2dd893e83d16120", null ],
-    [ "_canceled", "de/d74/a05481.html#a175454f5bf20f3a312d83e2dd5fc5d7c", null ],
-    [ "_lock", "de/d74/a05481.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb", null ],
-    [ "_queue", "de/d74/a05481.html#a55ced2abb0a6dd64554597347b61ebf1", null ]
+    [ "FactoryHolderRegistry", "de/d74/a05481.html#a5384598eca62a35bc617a4c395353ecd", null ],
+    [ "FactoryHolder", "de/d74/a05481.html#a5e7097c2a475378023f33ec430f4ca85", null ],
+    [ "~FactoryHolder", "de/d74/a05481.html#a78673bd2f3d857127c1a91c49e3cd62f", null ],
+    [ "Create", "de/d74/a05481.html#a7072fb7dfe99890dea89b1ba661eb3ce", null ],
+    [ "RegisterSelf", "de/d74/a05481.html#a9e173f9daaf5c2de36bb8b46da4249e1", null ],
+    [ "_key", "de/d74/a05481.html#a98c0e66f8caaa207771efd82b2c2f9aa", null ]
 ];

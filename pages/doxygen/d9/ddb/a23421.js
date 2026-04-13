@@ -1,6 +1,7 @@
 var a23421 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d9/de3/a23425.html", "d9/de3/a23425" ],
-    [ "instance_the_underbog", "d9/ddb/a23421.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "d9/ddb/a23421.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "CastQuill", "d9/ddb/a23421.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "d9/ddb/a23421.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "d9/ddb/a23421.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "d9/ddb/a23421.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

@@ -1,6 +1,6 @@
 var a21481 =
 [
-    [ "npc_azure_sorcerorAI", "d7/d14/a21485.html", "d7/d14/a21485" ],
-    [ "npc_azure_sorceror", "da/dbb/a21481.html#ab81ec144680a37312b0a5e0110365a1a", null ],
-    [ "GetAI", "da/dbb/a21481.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
+    [ "npc_q24545_vegard_dummyAI", "da/dbb/a21481.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "da/dbb/a21481.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "da/dbb/a21481.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

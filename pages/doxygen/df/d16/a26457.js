@@ -1,6 +1,8 @@
 var a26457 =
 [
-    [ "CheckProc", "df/d16/a26457.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
-    [ "PrepareAuraScript", "df/d16/a26457.html#a9c88f86a4edafda286725008ecfeab6c", null ],
-    [ "Register", "df/d16/a26457.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
+    [ "CheckProc", "df/d16/a26457.html#acfdb90639eb05a5ec252c20c9f302fed", null ],
+    [ "HandleProc", "df/d16/a26457.html#aa2e48771627700ee12153b13a094cea8", null ],
+    [ "PrepareAuraScript", "df/d16/a26457.html#a0fec47a0918ecfe3517c63190b27e91c", null ],
+    [ "Register", "df/d16/a26457.html#a88b06e814ade33fad51c8036d963f654", null ],
+    [ "Validate", "df/d16/a26457.html#ae9911ba6c95cfc6c345743b0f970062b", null ]
 ];

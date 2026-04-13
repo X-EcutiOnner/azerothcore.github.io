@@ -1,4 +1,5 @@
 var a15449 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "d8/dd0/a15449.html#a60715ab6220e798f16b16bcaa3714ad9", null ]
+    [ "at_cthun_stomach_exit", "d8/dd0/a15449.html#ab37174eff353cdbba1f300464645ac63", null ],
+    [ "OnTrigger", "d8/dd0/a15449.html#ab56dca3fe200dc7822459a22912247bf", null ]
 ];

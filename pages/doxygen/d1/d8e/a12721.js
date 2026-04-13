@@ -1,6 +1,5 @@
 var a12721 =
 [
-    [ "go_chromaggus_leverAI", "d5/d99/a12725.html", "d5/d99/a12725" ],
-    [ "go_chromaggus_lever", "d1/d8e/a12721.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
-    [ "GetAI", "d1/d8e/a12721.html#ae307b36029147b8385b3c40878d1a3e4", null ]
+    [ "go_orb_of_domination", "d1/d8e/a12721.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
+    [ "GossipHello", "d1/d8e/a12721.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
 ];

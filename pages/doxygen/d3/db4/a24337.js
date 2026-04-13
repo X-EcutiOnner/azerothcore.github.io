@@ -1,5 +1,7 @@
 var a24337 =
 [
-    [ "npc_pet_dk_risen_ally", "d3/db4/a24337.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "d3/db4/a24337.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "HandleProc", "d3/db4/a24337.html#afc5208979ec0ce81e2bb88b3bd429012", null ],
+    [ "PrepareAuraScript", "d3/db4/a24337.html#a9eebffe3b716f7de63bfd6617e6ecf3b", null ],
+    [ "Register", "d3/db4/a24337.html#a1f364414b053ffc92c2a219b713e8c38", null ],
+    [ "Validate", "d3/db4/a24337.html#a12912ba28210850b8bc0b568357794af", null ]
 ];

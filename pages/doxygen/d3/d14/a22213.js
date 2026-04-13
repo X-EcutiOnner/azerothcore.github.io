@@ -1,16 +1,12 @@
 var a22213 =
 [
-    [ "npc_frosthound", "d3/d14/a22213.html#a90dc4d1debb64354154760b52f8b1129", null ],
-    [ "AttackStart", "d3/d14/a22213.html#adf6969c7670584747e407a3bede8c928", null ],
-    [ "EnterEvadeMode", "d3/d14/a22213.html#ad0a16989c8c65eaa58deec6f885719f3", null ],
-    [ "JustDied", "d3/d14/a22213.html#a5a20cbca9da2f80c02d0697c84689c7a", null ],
-    [ "JustEngagedWith", "d3/d14/a22213.html#a8c9d22bfd32c12b3cf60f89f6856b5a5", null ],
-    [ "JustSummoned", "d3/d14/a22213.html#a93858959a06e4f1aa014fca3044949bc", null ],
-    [ "OnCharmed", "d3/d14/a22213.html#aaf081193bdae7ef30c153a3d40dcefe7", null ],
-    [ "PassengerBoarded", "d3/d14/a22213.html#a0126be35e4bbb613c9e0a1a04bef3681", null ],
-    [ "Reset", "d3/d14/a22213.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
-    [ "UpdateAI", "d3/d14/a22213.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
-    [ "WaypointReached", "d3/d14/a22213.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
-    [ "_completionWaypoint", "d3/d14/a22213.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
-    [ "_summons", "d3/d14/a22213.html#a103a499ecce73bc4505a85a21c143e73", null ]
+    [ "OPvPCapturePointZM_Beacon", "d3/d14/a22213.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
+    [ "ChangeState", "d3/d14/a22213.html#a5bbe87c18c814358596a9648fd92b129", null ],
+    [ "FillInitialWorldStates", "d3/d14/a22213.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
+    [ "HandlePlayerEnter", "d3/d14/a22213.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
+    [ "HandlePlayerLeave", "d3/d14/a22213.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
+    [ "SendChangePhase", "d3/d14/a22213.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
+    [ "UpdateTowerState", "d3/d14/a22213.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
+    [ "m_TowerState", "d3/d14/a22213.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
+    [ "m_TowerType", "d3/d14/a22213.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
 ];

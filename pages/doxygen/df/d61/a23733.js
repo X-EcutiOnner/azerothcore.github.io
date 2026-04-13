@@ -1,8 +1,6 @@
 var a23733 =
 [
-    [ "boss_laj", "df/d61/a23733.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "df/d61/a23733.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "df/d61/a23733.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "df/d61/a23733.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "df/d61/a23733.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "npc_commander_dawnforgeAI", "d1/daa/a23737.html", "d1/daa/a23737" ],
+    [ "npc_commander_dawnforge", "df/d61/a23733.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "df/d61/a23733.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

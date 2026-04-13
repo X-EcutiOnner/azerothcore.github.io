@@ -1,6 +1,7 @@
 var a25057 =
 [
-    [ "HandleScriptEffect", "da/d41/a25057.html#a1ace281bf2fd53722f8328a79369b5df", null ],
-    [ "PrepareSpellScript", "da/d41/a25057.html#ac9a0019091f291b1b3a770ec57bd83e8", null ],
-    [ "Register", "da/d41/a25057.html#a821a6b11a177bf7586ab666081ab222a", null ]
+    [ "ModDest", "da/d41/a25057.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "da/d41/a25057.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "da/d41/a25057.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "da/d41/a25057.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

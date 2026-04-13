@@ -1,23 +1,18 @@
 var a03509 =
 [
-    [ "SPECTATOR_ADDON_PREFIX", "df/d8e/a03509.html#ad208fe13d99ebdd4ecc344c284d15e68", null ],
-    [ "SPECTATOR_ADDON_VERSION", "df/d8e/a03509.html#ae3d7b03163a946f567eb34e902d0b424", null ],
-    [ "SPECTATOR_BUFFER_LEN", "df/d8e/a03509.html#adf210ab6f5a013e4f37def30f79b2a2c", null ],
-    [ "SPECTATOR_COOLDOWN_MAX", "df/d8e/a03509.html#a5caad2c604ec8c4fe2b2653a9a629d23", null ],
-    [ "SPECTATOR_COOLDOWN_MIN", "df/d8e/a03509.html#ad2182c49e417fd86e25b7c2a209d044b", null ],
-    [ "SPECTATOR_SPELL_BINDSIGHT", "df/d8e/a03509.html#a45eed6b7e374a4b2ea26b3dd5ee915d0", null ],
-    [ "SPECTATOR_SPELL_SPEED", "df/d8e/a03509.html#a3a183131cf51fa6957a40f07d8d524ef", null ],
-    [ "CreatePacket", "df/d8e/a03509.html#a20983eb9cb8e3f584a4d8f752586d06b", null ],
-    [ "HandleResetCommand", "df/d8e/a03509.html#a4508ccc26eb193b85e4d229a088c6be5", null ],
-    [ "HandleSpectatorSpectateCommand", "df/d8e/a03509.html#ac3b35eed76fdcf00f43b226912317b4a", null ],
-    [ "HandleSpectatorWatchCommand", "df/d8e/a03509.html#ae611c9f6783ca983d1ff667f36dd7c7d", null ],
-    [ "SendCommand", "df/d8e/a03509.html#a4824203dd64e1ddcd47642df9d465ea0", null ],
-    [ "SendCommand_Aura", "df/d8e/a03509.html#a918c7c3c9fd7d26b7a78f2e6d13e1e27", null ],
-    [ "SendCommand_Cooldown", "df/d8e/a03509.html#a5e336b6d62f2d9e24551cfb96c7a8679", null ],
-    [ "SendCommand_GUID", "df/d8e/a03509.html#af537ad9da6345b285d2d726b640a0340", null ],
-    [ "SendCommand_Spell", "df/d8e/a03509.html#a461f69ba88de17058481bc77a3e9f7bb", null ],
-    [ "SendCommand_String", "df/d8e/a03509.html#ac7839fd6177447b31578a19f8ee8e42a", null ],
-    [ "SendCommand_UInt32Value", "df/d8e/a03509.html#ae899637e3543ca40ec63e98bf0426f58", null ],
-    [ "SendPacketTo", "df/d8e/a03509.html#abc5c395f3697c21f09c4e70a81f02497", null ],
-    [ "ShouldSendAura", "df/d8e/a03509.html#a29f78349223aca49d417c3f818b2dd4c", null ]
+    [ "OutdoorPvPSI", "d2/d4b/a22185.html", "d2/d4b/a22185" ],
+    [ "OutdoorPvPSISpells", "df/d8e/a03509.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
+      [ "SI_SILITHYST_FLAG_GO_SPELL", "df/d8e/a03509.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
+      [ "SI_SILITHYST_FLAG", "df/d8e/a03509.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
+      [ "SI_TRACES_OF_SILITHYST", "df/d8e/a03509.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
+      [ "SI_CENARION_FAVOR", "df/d8e/a03509.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
+    ] ],
+    [ "OutdoorPvPSIBuffZones", "df/d8e/a03509.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
+    [ "OutdoorPvPSIBuffZonesNum", "df/d8e/a03509.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
+    [ "SI_AREATRIGGER_A", "df/d8e/a03509.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
+    [ "SI_AREATRIGGER_H", "df/d8e/a03509.html#abb17804eb9913c298a5dae804e1c7206", null ],
+    [ "SI_MAX_RESOURCES", "df/d8e/a03509.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
+    [ "SI_SILITHYST_MOUND", "df/d8e/a03509.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
+    [ "SI_TURNIN_QUEST_CM_A", "df/d8e/a03509.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
+    [ "SI_TURNIN_QUEST_CM_H", "df/d8e/a03509.html#ad1787da9136bc956357571149e1f6b60", null ]
 ];

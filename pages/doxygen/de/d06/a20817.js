@@ -1,12 +1,14 @@
 var a20817 =
 [
-    [ "npc_xt002_boombot", "de/d06/a20817.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
-    [ "DamageTaken", "de/d06/a20817.html#a6686960dcf9050c62f707f80f8e378e9", null ],
-    [ "Explode", "de/d06/a20817.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
-    [ "JustDied", "de/d06/a20817.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
-    [ "MovementInform", "de/d06/a20817.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
-    [ "Reset", "de/d06/a20817.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
-    [ "UpdateAI", "de/d06/a20817.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
-    [ "_boomed", "de/d06/a20817.html#a4307aaf92856d146095497cf74ef3e67", null ],
-    [ "_locked", "de/d06/a20817.html#ad46600f129729931422b5c9c70568e3f", null ]
+    [ "boss_dalronn_the_controller", "de/d06/a20817.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "de/d06/a20817.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "de/d06/a20817.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "de/d06/a20817.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "de/d06/a20817.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "de/d06/a20817.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "de/d06/a20817.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "de/d06/a20817.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "de/d06/a20817.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "de/d06/a20817.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "de/d06/a20817.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

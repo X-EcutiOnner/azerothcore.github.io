@@ -1,7 +1,6 @@
 var a16953 =
 [
-    [ "npc_toc_warriorAI", "d5/da3/a16953.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
-    [ "myCanCast", "d5/da3/a16953.html#ac815e13cbbe9a8833330e15213420c65", null ],
-    [ "UpdateAI", "d5/da3/a16953.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
-    [ "events", "d5/da3/a16953.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
+    [ "HandleDummy", "d5/da3/a16953.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
+    [ "PrepareSpellScript", "d5/da3/a16953.html#accbf8f40b1ab123a2be81a514c94c836", null ],
+    [ "Register", "d5/da3/a16953.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
 ];

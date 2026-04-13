@@ -1,12 +1,9 @@
 var a00890 =
 [
-    [ "ArenaTeamScript", "d9/dda/a10563.html", "d9/dda/a10563" ],
-    [ "ArenaTeamHook", "d7/d46/a00890.html#adfb7077026efd17516d6b85637c2b218", [
-      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d7/d46/a00890.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
-      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d7/d46/a00890.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
-      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d7/d46/a00890.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
-      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d7/d46/a00890.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
-      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d7/d46/a00890.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
-      [ "ARENATEAMHOOK_END", "d7/d46/a00890.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
-    ] ]
+    [ "FactionState", "d9/d8e/a10517.html", "d9/d8e/a10517" ],
+    [ "ReputationMgr", "d3/dd9/a10521.html", "d3/dd9/a10521" ],
+    [ "FactionStateList", "d7/d46/a00890.html#ad6532434415723ae38cfd01814db70c4", null ],
+    [ "ForcedReactions", "d7/d46/a00890.html#a7f488a06b2477791f620e975ea444f4e", null ],
+    [ "RepListID", "d7/d46/a00890.html#a5d6355bb0de767f549aeb8f1e6481624", null ],
+    [ "ReputationRankStrIndex", "d7/d46/a00890.html#a6fbbe7a01d0d6b56a15a773ad0199b5b", null ]
 ];

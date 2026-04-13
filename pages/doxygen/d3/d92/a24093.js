@@ -1,8 +1,6 @@
 var a24093 =
 [
-    [ "npc_bessyAI", "d3/d92/a24093.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d3/d92/a24093.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d3/d92/a24093.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d3/d92/a24093.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d3/d92/a24093.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
+    [ "HandleEffectRemove", "d3/d92/a24093.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "d3/d92/a24093.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "d3/d92/a24093.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

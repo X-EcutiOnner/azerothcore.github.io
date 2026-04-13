@@ -1,9 +1,13 @@
 var a28941 =
 [
-    [ "go_tadpole_cageAI", "d0/d4a/a28941.html#a87dc192a13cecf834d49cd04451224cd", null ],
-    [ "GossipHello", "d0/d4a/a28941.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
-    [ "OnStateChanged", "d0/d4a/a28941.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
-    [ "SummonTadpoles", "d0/d4a/a28941.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
-    [ "UpdateAI", "d0/d4a/a28941.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
-    [ "requireSummon", "d0/d4a/a28941.html#a9884081855fc45776a6b12b9a68890e4", null ]
+    [ "AcquireMethod", "d0/d4a/a28941.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
+    [ "ClassMask", "d0/d4a/a28941.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
+    [ "ID", "d0/d4a/a28941.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
+    [ "MinSkillLineRank", "d0/d4a/a28941.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
+    [ "RaceMask", "d0/d4a/a28941.html#acfd38780584b90ca40a1e1cd59605832", null ],
+    [ "SkillLine", "d0/d4a/a28941.html#a0050dcf5c82f785dfc93079debe54a13", null ],
+    [ "Spell", "d0/d4a/a28941.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
+    [ "SupercededBySpell", "d0/d4a/a28941.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
+    [ "TrivialSkillLineRankHigh", "d0/d4a/a28941.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
+    [ "TrivialSkillLineRankLow", "d0/d4a/a28941.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
 ];

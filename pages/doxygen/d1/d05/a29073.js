@@ -1,12 +1,7 @@
 var a29073 =
 [
-    [ "ID", "d1/d05/a29073.html#a84ba697182123cb3e7dd3ba07241e971", null ],
-    [ "maxScale", "d1/d05/a29073.html#a23ca0ae7c45790a24f58546970194abf", null ],
-    [ "maxScaleLevel", "d1/d05/a29073.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
-    [ "minScale", "d1/d05/a29073.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
-    [ "minScaleLevel", "d1/d05/a29073.html#a49d9d7847cc4d54891d83166eb277740", null ],
-    [ "Name", "d1/d05/a29073.html#a937fc579ab2790f4a972f07d3453a762", null ],
-    [ "petFoodMask", "d1/d05/a29073.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
-    [ "petTalentType", "d1/d05/a29073.html#a802000cefb6c4d357edfc45cc291e21e", null ],
-    [ "skillLine", "d1/d05/a29073.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
+    [ "TalentSpellPos", "d1/d05/a29073.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "d1/d05/a29073.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "d1/d05/a29073.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "d1/d05/a29073.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

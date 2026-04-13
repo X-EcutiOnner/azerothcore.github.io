@@ -1,7 +1,5 @@
 var a16905 =
 [
-    [ "npc_toc_priestAI", "d7/d1a/a16905.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "d7/d1a/a16905.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "d7/d1a/a16905.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "d7/d1a/a16905.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "npc_essence_of_twin", "d7/d1a/a16905.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "d7/d1a/a16905.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

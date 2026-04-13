@@ -1,7 +1,8 @@
 var a24765 =
 [
-    [ "HandleScriptEffect", "d2/d2f/a24765.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
-    [ "PrepareSpellScript", "d2/d2f/a24765.html#ae29c4f69a34e71011192df12509e2935", null ],
-    [ "Register", "d2/d2f/a24765.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
-    [ "Validate", "d2/d2f/a24765.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
+    [ "CheckIfCorpseNear", "d2/d2f/a24765.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "d2/d2f/a24765.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "d2/d2f/a24765.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "d2/d2f/a24765.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "d2/d2f/a24765.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

@@ -1,6 +1,6 @@
 var a23961 =
 [
-    [ "npc_simon_bunnyAI", "d6/d44/a23965.html", "d6/d44/a23965" ],
-    [ "npc_simon_bunny", "d0/d6b/a23961.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "d0/d6b/a23961.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "go_ancient_skull_pile", "d0/d6b/a23961.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "d0/d6b/a23961.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "d0/d6b/a23961.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

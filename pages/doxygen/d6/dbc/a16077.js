@@ -1,9 +1,19 @@
 var a16077 =
 [
-    [ "go_wind_stoneAI", "d6/dbc/a16077.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
-    [ "GossipHello", "d6/dbc/a16077.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
-    [ "GossipSelect", "d6/dbc/a16077.html#aff4dedbf3a6fea405722f7064633edb1", null ],
-    [ "InitializeAI", "d6/dbc/a16077.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
-    [ "SummonNPC", "d6/dbc/a16077.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
-    [ "_creatureGuid", "d6/dbc/a16077.html#a50ad8b248381a6d9fac7a291796966d6", null ]
+    [ "npc_weegli_blastfuseAI", "d6/dbc/a16077.html#acde6b3e037d3c297e5d1beccdbe3d03a", null ],
+    [ "AttackStart", "d6/dbc/a16077.html#a5e9140b38021ed6a2808e026fd77f8f1", null ],
+    [ "DestroyDoor", "d6/dbc/a16077.html#a0cf76693b1af179c9857abdccc6931ee", null ],
+    [ "InitializeAI", "d6/dbc/a16077.html#a61490f8c63f8056ac9f145ed8dd789c7", null ],
+    [ "JustReachedHome", "d6/dbc/a16077.html#a4a88bc4bff8b5b2f75e3dd0c25927815", null ],
+    [ "MovementInform", "d6/dbc/a16077.html#a33470a45eba0cbb62b041010f6aed302", null ],
+    [ "Reset", "d6/dbc/a16077.html#abec9f353a1430afae12c21273bf32197", null ],
+    [ "sGossipHello", "d6/dbc/a16077.html#a3a8381fa5e5d4daf19f312166247bea5", null ],
+    [ "sGossipSelect", "d6/dbc/a16077.html#a0927116dcc55a1107dce7c65d1295e2a", null ],
+    [ "UpdateAI", "d6/dbc/a16077.html#a73e482ebbb1566738e6775a574500dc8", null ],
+    [ "Bomb_Timer", "d6/dbc/a16077.html#af6f68e291ce7d8cf25105ac64d7eebff", null ],
+    [ "destroyingDoor", "d6/dbc/a16077.html#a0c7f207666da8ad74ff9dc64b582a042", null ],
+    [ "instance", "d6/dbc/a16077.html#a609616e5136cf11bc16f9bb30ba92879", null ],
+    [ "LandMine_Timer", "d6/dbc/a16077.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7", null ],
+    [ "outroStage", "d6/dbc/a16077.html#a30cdbce7bddb4d1d221925de86329a41", null ],
+    [ "outroTimer", "d6/dbc/a16077.html#a08ef419fbef2ec38b7bcd408f135cd29", null ]
 ];

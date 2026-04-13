@@ -1,15 +1,9 @@
 var a19769 =
 [
-    [ "boss_anomalus", "d6/dfb/a19769.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d6/dfb/a19769.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "d6/dfb/a19769.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "d6/dfb/a19769.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "d6/dfb/a19769.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "d6/dfb/a19769.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "d6/dfb/a19769.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "d6/dfb/a19769.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "d6/dfb/a19769.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "_empowered", "d6/dfb/a19769.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
-    [ "achievement", "d6/dfb/a19769.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "d6/dfb/a19769.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d6/dfb/a19769.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "d6/dfb/a19769.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "d6/dfb/a19769.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "d6/dfb/a19769.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "d6/dfb/a19769.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "d6/dfb/a19769.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

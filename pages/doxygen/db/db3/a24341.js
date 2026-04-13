@@ -1,6 +1,6 @@
 var a24341 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "db/db3/a24341.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "InitializeAI", "db/db3/a24341.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
-    [ "IsSummonedBy", "db/db3/a24341.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
+    [ "HandleScriptEffect", "db/db3/a24341.html#ad9863535a38094779e765fe65450ce55", null ],
+    [ "PrepareSpellScript", "db/db3/a24341.html#a653061d36c204fbd0d2dc1f983864bf1", null ],
+    [ "Register", "db/db3/a24341.html#a5019887a078af86682eea3974bacf6dc", null ]
 ];

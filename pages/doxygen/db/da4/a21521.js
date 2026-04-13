@@ -1,5 +1,8 @@
 var a21521 =
 [
-    [ "npc_khunok_the_behemothAI", "db/da4/a21521.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "db/da4/a21521.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "AfterApply", "db/da4/a21521.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "db/da4/a21521.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "db/da4/a21521.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "db/da4/a21521.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "db/da4/a21521.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

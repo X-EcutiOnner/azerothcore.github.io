@@ -1,5 +1,10 @@
 var a29589 =
 [
-    [ "auraHasDisableProcAttr", "d4/dd9/a29589.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
-    [ "triggeringSpellIsProcDisabled", "d4/dd9/a29589.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
+    [ "Exception", "d4/dd9/a29589.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "d4/dd9/a29589.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "Exception", "d4/dd9/a29589.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "d4/dd9/a29589.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "getMessage", "d4/dd9/a29589.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "getMessage", "d4/dd9/a29589.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "message", "d4/dd9/a29589.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
 ];

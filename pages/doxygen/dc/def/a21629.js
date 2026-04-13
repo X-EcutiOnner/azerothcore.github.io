@@ -1,7 +1,6 @@
 var a21629 =
 [
-    [ "npc_warmage_violetstand", "dc/def/a21629.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "dc/def/a21629.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "dc/def/a21629.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "dc/def/a21629.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_attracted_reef_bullAI", "dc/def/a21629.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "dc/def/a21629.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "dc/def/a21629.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

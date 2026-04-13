@@ -1,17 +1,14 @@
 var a12161 =
 [
-    [ "learn_commandscript", "d1/d19/a12161.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
-    [ "GetCommands", "d1/d19/a12161.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
-    [ "HandleLearnAllCraftsCommand", "d1/d19/a12161.html#ae25064fa03d022277a368f52a17e5b70", null ],
-    [ "HandleLearnAllDefaultCommand", "d1/d19/a12161.html#a985d2a10f01808c4bff2922b1530e911", null ],
-    [ "HandleLearnAllGMCommand", "d1/d19/a12161.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
-    [ "HandleLearnAllLangCommand", "d1/d19/a12161.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
-    [ "HandleLearnAllMyClassCommand", "d1/d19/a12161.html#a956716b7743dfc6de922b0badf40aeda", null ],
-    [ "HandleLearnAllMyPetTalentsCommand", "d1/d19/a12161.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
-    [ "HandleLearnAllMySpellsCommand", "d1/d19/a12161.html#af95e27d3bfb3cd421a0fd13f9f655755", null ],
-    [ "HandleLearnAllMyTalentsCommand", "d1/d19/a12161.html#aaa19e92798ac56355a95e625ead56556", null ],
-    [ "HandleLearnAllRecipesCommand", "d1/d19/a12161.html#a44b538a1031ad69bec762f1a791cf11f", null ],
-    [ "HandleLearnCommand", "d1/d19/a12161.html#ab59da6873596596ee84509cb0060e760", null ],
-    [ "HandleLearnSkillRecipesHelper", "d1/d19/a12161.html#ae8bd0389415fdeb70d369b694b953619", null ],
-    [ "HandleUnLearnCommand", "d1/d19/a12161.html#a2dc980af9662b3b1c783e3603732ca01", null ]
+    [ "cast_commandscript", "d1/d19/a12161.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
+    [ "CheckSpellCastResult", "d1/d19/a12161.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
+    [ "CheckSpellExistsAndIsValid", "d1/d19/a12161.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
+    [ "GetCommands", "d1/d19/a12161.html#ab0890c036a8d301b382fdd1b6371f671", null ],
+    [ "GetTriggerFlags", "d1/d19/a12161.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
+    [ "HandleCastBackCommand", "d1/d19/a12161.html#a964a40278f609a5c5a0bae651484c726", null ],
+    [ "HandleCastCommand", "d1/d19/a12161.html#ac28430cc0623209b891bacbb4845509b", null ],
+    [ "HandleCastDestCommand", "d1/d19/a12161.html#a156ca81fba7155205dae106aa4c221d6", null ],
+    [ "HandleCastDistCommand", "d1/d19/a12161.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
+    [ "HandleCastSelfCommand", "d1/d19/a12161.html#a69e88bb174c2518584a9ae622e2850bf", null ],
+    [ "HandleCastTargetCommad", "d1/d19/a12161.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
 ];

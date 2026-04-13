@@ -1,7 +1,8 @@
 var a04442 =
 [
-    [ "instance_gundrak", "df/d8f/a17459.html", "df/d8f/a17459" ],
-    [ "instance_gundrak::instance_gundrak_InstanceMapScript", "de/d5c/a17463.html", "de/d5c/a17463" ],
-    [ "AddSC_instance_gundrak", "d9/d8d/a04442.html#a232822e6236513eb23c90943d98fd6dc", null ],
-    [ "doorData", "d9/d8d/a04442.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "Vec3D", "d1/d7b/a29737.html", "d1/d7b/a29737" ],
+    [ "AaBox3D", "d5/dd6/a29741.html", "d5/dd6/a29741" ],
+    [ "Vec2D", "dc/d4b/a29745.html", "dc/d4b/a29745" ],
+    [ "Quaternion", "db/d40/a29749.html", "db/d40/a29749" ],
+    [ "rotate", "d9/d8d/a04442.html#a36f9f3de1d3e6935da68df2c6e347a4d", null ]
 ];

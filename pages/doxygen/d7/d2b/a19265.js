@@ -1,9 +1,15 @@
 var a19265 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "d7/d2b/a19265.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
-    [ "AttackStart", "d7/d2b/a19265.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
-    [ "JustEngagedWith", "d7/d2b/a19265.html#a7648c626ded6d3abef798b46c77f991d", null ],
-    [ "Reset", "d7/d2b/a19265.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
-    [ "UpdateAI", "d7/d2b/a19265.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
-    [ "events", "d7/d2b/a19265.html#a5aaffc1e78c255c95893be1537e520d6", null ]
+    [ "boss_heigan", "d7/d2b/a19265.html#a402b76bd927dd738bdbdf7faff93394c", null ],
+    [ "CheckSafetyDance", "d7/d2b/a19265.html#a378397cc91408b812c76f657a96285e1", null ],
+    [ "JustDied", "d7/d2b/a19265.html#a259c99e12b92ccb99af16949e37b5c48", null ],
+    [ "JustEngagedWith", "d7/d2b/a19265.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
+    [ "KilledUnit", "d7/d2b/a19265.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
+    [ "Reset", "d7/d2b/a19265.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
+    [ "StartFightPhase", "d7/d2b/a19265.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
+    [ "UpdateAI", "d7/d2b/a19265.html#a36c0bc5abff61b435f2a8163687b122a", null ],
+    [ "_currentPhase", "d7/d2b/a19265.html#a1065c6221b30536344e7d4d0779abd17", null ],
+    [ "_currentSection", "d7/d2b/a19265.html#adcf2448a0868ea3e900609c8e7e34154", null ],
+    [ "_eruptionScheduler", "d7/d2b/a19265.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
+    [ "_moveRight", "d7/d2b/a19265.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
 ];

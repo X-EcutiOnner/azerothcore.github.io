@@ -1,6 +1,7 @@
 var a18097 =
 [
-    [ "npc_gunship_gunnerAI", "d7/dba/a18101.html", "d7/dba/a18101" ],
-    [ "npc_gunship_gunner", "dc/dda/a18097.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "dc/dda/a18097.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "HandleExtraEffect", "dc/dda/a18097.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "dc/dda/a18097.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "dc/dda/a18097.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "dc/dda/a18097.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

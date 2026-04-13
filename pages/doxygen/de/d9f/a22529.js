@@ -1,17 +1,15 @@
 var a22529 =
 [
-    [ "OutdoorPvPSI", "de/d9f/a22529.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
-    [ "FillInitialWorldStates", "de/d9f/a22529.html#a7392eed60ec3307bdea4ed35cd859077", null ],
-    [ "HandleAreaTrigger", "de/d9f/a22529.html#a7c6d70d7a611752456c55d13420ff840", null ],
-    [ "HandleCustomSpell", "de/d9f/a22529.html#a10853a2f5766b6fc75044a20b281a198", null ],
-    [ "HandleDropFlag", "de/d9f/a22529.html#a9238a5007253d84d66192bd340d8311a", null ],
-    [ "HandlePlayerEnterZone", "de/d9f/a22529.html#ad2cabd461406a61e40411850b3d31c0c", null ],
-    [ "HandlePlayerLeaveZone", "de/d9f/a22529.html#aa06088b1d80072577e6fc7653a214512", null ],
-    [ "SendRemoveWorldStates", "de/d9f/a22529.html#aae7deda0662b28f6fc0e16115a65304b", null ],
-    [ "SetupOutdoorPvP", "de/d9f/a22529.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
-    [ "Update", "de/d9f/a22529.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
-    [ "UpdateWorldState", "de/d9f/a22529.html#a81f4362ece83f37f14471926e9a85fb3", null ],
-    [ "m_Gathered_A", "de/d9f/a22529.html#ab532337ab7e66e1489221e3189e48bac", null ],
-    [ "m_Gathered_H", "de/d9f/a22529.html#abcd36fe918edbbea387573bd5fab89e7", null ],
-    [ "m_LastController", "de/d9f/a22529.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
+    [ "boss_reliquary_of_soulsAI", "de/d9f/a22529.html#abee29aab1d28a168be3b381d0765a804", null ],
+    [ "AttackStart", "de/d9f/a22529.html#af59a9972dfdb264248e78206ea0d834c", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "de/d9f/a22529.html#a67343cecd292c2dc40f8c5a275d95fdf", null ],
+    [ "DoAction", "de/d9f/a22529.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
+    [ "JustDied", "de/d9f/a22529.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
+    [ "JustEngagedWith", "de/d9f/a22529.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
+    [ "JustSummoned", "de/d9f/a22529.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
+    [ "MoveInLineOfSight", "de/d9f/a22529.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
+    [ "PhaseTransitionSpawns", "de/d9f/a22529.html#a96235ed84a30458eb5f76d87ed47dc89", null ],
+    [ "Reset", "de/d9f/a22529.html#a5dc6ec0521e2ddfb63a6818ad2de0d8b", null ],
+    [ "SummonedCreatureDies", "de/d9f/a22529.html#a51ac7df8689bf899eaaf4cde566d8202", null ],
+    [ "UpdateAI", "de/d9f/a22529.html#a4289e678a69e35db5e4ea75fddd7e8e4", null ]
 ];

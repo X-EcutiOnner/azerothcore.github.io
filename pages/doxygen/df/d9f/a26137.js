@@ -1,6 +1,8 @@
 var a26137 =
 [
-    [ "HandleDummy", "df/d9f/a26137.html#af306009f2c418e898478720b9c4ad6ab", null ],
-    [ "PrepareSpellScript", "df/d9f/a26137.html#a44cb481fe93fd1c691495cc1ead35e5e", null ],
-    [ "Register", "df/d9f/a26137.html#af51e3b3cbfb469fa6230a36d8d5fcec7", null ]
+    [ "Absorb", "df/d9f/a26137.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
+    [ "CalculateAmount", "df/d9f/a26137.html#a20d5b4776ebeb859b0641af640e41d80", null ],
+    [ "PrepareAuraScript", "df/d9f/a26137.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
+    [ "Register", "df/d9f/a26137.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
+    [ "Validate", "df/d9f/a26137.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
 ];

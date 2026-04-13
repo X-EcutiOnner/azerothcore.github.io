@@ -1,10 +1,7 @@
 var a05921 =
 [
-    [ "BasicStatementTask", "d8/d07/a05921.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
-    [ "~BasicStatementTask", "d8/d07/a05921.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
-    [ "Execute", "d8/d07/a05921.html#a7f500736cc0ec4cddf94510927989d4d", null ],
-    [ "GetFuture", "d8/d07/a05921.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
-    [ "m_has_result", "d8/d07/a05921.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
-    [ "m_result", "d8/d07/a05921.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
-    [ "m_sql", "d8/d07/a05921.html#a9320235413d1c4736301070e1faeb161", null ]
+    [ "cmd", "d8/d07/a05921.html#a91e8e56c304147b88db250259ff0a87c", null ],
+    [ "error", "d8/d07/a05921.html#a0872e20a5adcd52a94036bdc6eddc6e6", null ],
+    [ "M2", "d8/d07/a05921.html#a9bb7dca6b62d35ecae97197c4c9693b7", null ],
+    [ "unk2", "d8/d07/a05921.html#a47d83719b502236fdad41e2d07b535a0", null ]
 ];

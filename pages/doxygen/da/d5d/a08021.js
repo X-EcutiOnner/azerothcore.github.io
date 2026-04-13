@@ -1,8 +1,5 @@
 var a08021 =
 [
-    [ "CurValue", "da/d5d/a08021.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
-    [ "KnownRecipes", "da/d5d/a08021.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
-    [ "MaxValue", "da/d5d/a08021.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
-    [ "Owner", "da/d5d/a08021.html#a085e0aa9f79129920af96046c4fc29b1", null ],
-    [ "Spell", "da/d5d/a08021.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
+    [ "IsColorValid", "da/d5d/a08021.html#a816b3afba97af88a04cd5a724e9b663c", null ],
+    [ "IsTextValid", "da/d5d/a08021.html#a54af0b68fa7891adbc3001c74e251ea1", null ]
 ];

@@ -1,9 +1,10 @@
 var a24853 =
 [
-    [ "FilterTargets", "d6/d64/a24853.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
-    [ "PrepareSpellScript", "d6/d64/a24853.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
-    [ "Register", "d6/d64/a24853.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
-    [ "SetTargets", "d6/d64/a24853.html#ac77e95af9b08118e87e3329eab5515ea", null ],
-    [ "Validate", "d6/d64/a24853.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
-    [ "_targets", "d6/d64/a24853.html#acc66768f54c514552f0ab01274c24f17", null ]
+    [ "Load", "d6/d64/a24853.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "d6/d64/a24853.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "d6/d64/a24853.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "d6/d64/a24853.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "d6/d64/a24853.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "d6/d64/a24853.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "d6/d64/a24853.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

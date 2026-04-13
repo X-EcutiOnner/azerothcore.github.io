@@ -1,6 +1,6 @@
 var a13945 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "db/d85/a13949.html", "db/d85/a13949" ],
-    [ "instance_sunwell_plateau", "d5/dfd/a13945.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
-    [ "GetInstanceScript", "d5/dfd/a13945.html#a5960785a845c87e2e1730cfd865b44b4", null ]
+    [ "npc_corporal_keeshanAI", "db/d85/a13949.html", "db/d85/a13949" ],
+    [ "npc_corporal_keeshan", "d5/dfd/a13945.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "d5/dfd/a13945.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

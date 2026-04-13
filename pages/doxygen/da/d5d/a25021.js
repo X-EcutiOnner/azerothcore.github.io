@@ -1,6 +1,7 @@
 var a25021 =
 [
-    [ "CheckAreaTarget", "da/d5d/a25021.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "da/d5d/a25021.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "da/d5d/a25021.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "EjectPassenger", "da/d5d/a25021.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "da/d5d/a25021.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "da/d5d/a25021.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "da/d5d/a25021.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

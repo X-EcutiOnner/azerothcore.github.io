@@ -1,6 +1,8 @@
 var a17861 =
 [
-    [ "FilterTargets", "d7/d37/a17861.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
-    [ "PrepareSpellScript", "d7/d37/a17861.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
-    [ "Register", "d7/d37/a17861.html#add40d7731b07b30b595f76f7d4e983f4", null ]
+    [ "Load", "d7/d37/a17861.html#ad1105149d5e42318382af6c07149d522", null ],
+    [ "PeriodicTick", "d7/d37/a17861.html#a8e675178256746d08af50a6b75ec582e", null ],
+    [ "PrepareAuraScript", "d7/d37/a17861.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
+    [ "Register", "d7/d37/a17861.html#a0fa7d86214827711edd019dd3b40c667", null ],
+    [ "_tickNo", "d7/d37/a17861.html#a418212d2daa873d69a83b4c1341a8903", null ]
 ];

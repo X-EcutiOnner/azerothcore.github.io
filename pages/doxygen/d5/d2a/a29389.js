@@ -1,10 +1,5 @@
 var a29389 =
 [
-    [ "ID", "d5/d2a/a29389.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d5/d2a/a29389.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d5/d2a/a29389.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d5/d2a/a29389.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d5/d2a/a29389.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d5/d2a/a29389.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d5/d2a/a29389.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "damageApplied", "d5/d2a/a29389.html#a69a7cfd95e3e3b43879eae37963d1e14", null ],
+    [ "slowApplied", "d5/d2a/a29389.html#a2d99cc2f9c6aedfeef6e18885ff2675d", null ]
 ];

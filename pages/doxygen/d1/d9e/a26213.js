@@ -1,8 +1,7 @@
 var a26213 =
 [
-    [ "CheckQuest", "d1/d9e/a26213.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "d1/d9e/a26213.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "d1/d9e/a26213.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "d1/d9e/a26213.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "d1/d9e/a26213.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "HandleProc", "d1/d9e/a26213.html#ad97c3b5df293ed8afae3e662467088c2", null ],
+    [ "PrepareAuraScript", "d1/d9e/a26213.html#a691f14220a619e1915636417927aaa13", null ],
+    [ "Register", "d1/d9e/a26213.html#a4f3c644a91dab0641ef489fd2da171a2", null ],
+    [ "Validate", "d1/d9e/a26213.html#a6fee4af68a8d312bcb543e0c67932cc9", null ]
 ];

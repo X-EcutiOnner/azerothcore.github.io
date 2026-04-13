@@ -1,6 +1,8 @@
 var a17653 =
 [
-    [ "npc_living_mojoAI", "da/d38/a17657.html", "da/d38/a17657" ],
-    [ "npc_living_mojo", "da/d74/a17653.html#af24190023549b4ec5fa47b5959618a8a", null ],
-    [ "GetAI", "da/d74/a17653.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
+    [ "npc_saurfang_eventAI", "da/d74/a17653.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "da/d74/a17653.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "da/d74/a17653.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "da/d74/a17653.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "da/d74/a17653.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

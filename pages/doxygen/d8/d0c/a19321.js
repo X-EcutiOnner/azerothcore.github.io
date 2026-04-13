@@ -1,6 +1,7 @@
 var a19321 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "d3/d0a/a19325.html", "d3/d0a/a19325" ],
-    [ "npc_icc_nerubar_broodkeeper", "d8/d0c/a19321.html#adf9c3bfb444fed50420c2e780b373f34", null ],
-    [ "GetAI", "d8/d0c/a19321.html#ad12186da36f7bbf99275a746bc874bfc", null ]
+    [ "OnPeriodic", "d8/d0c/a19321.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "d8/d0c/a19321.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "d8/d0c/a19321.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "d8/d0c/a19321.html#a54cfed486827216817adb740efa6646e", null ]
 ];

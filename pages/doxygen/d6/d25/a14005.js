@@ -1,9 +1,7 @@
 var a14005 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d6/d25/a14005.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "d6/d25/a14005.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "d6/d25/a14005.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "d6/d25/a14005.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "d6/d25/a14005.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "d6/d25/a14005.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d1/d23/a14009.html", "d1/d23/a14009" ],
+    [ "npc_lady_sylvanas_windrunner", "d6/d25/a14005.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "d6/d25/a14005.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "d6/d25/a14005.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

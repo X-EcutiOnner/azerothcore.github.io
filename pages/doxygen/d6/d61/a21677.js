@@ -1,6 +1,5 @@
 var a21677 =
 [
-    [ "npc_dalaran_mageAI", "d2/d8b/a21681.html", "d2/d8b/a21681" ],
-    [ "npc_dalaran_mage", "d6/d61/a21677.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
-    [ "GetAI", "d6/d61/a21677.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
+    [ "npc_black_knight_graveyardAI", "d6/d61/a21677.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "d6/d61/a21677.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

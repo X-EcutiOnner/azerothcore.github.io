@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SymbolPair Struct Reference</title>
+<title>AzerothCore: Acore::Impl::CryptoGenericsImpl Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,51 +105,50 @@ $(document).ready(function(){initNavTree('d6/deb/a05433.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d4/de8/a05430.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SymbolPair Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Impl::CryptoGenericsImpl Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">WheatyExceptionReport.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">CryptoGenerics.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:ad6b1fba614fa7de6471c56078b62c57d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/deb/a05433.html#ad6b1fba614fa7de6471c56078b62c57d">SymbolPair</a> (DWORD type, DWORD_PTR offset)</td></tr>
-<tr class="separator:ad6b1fba614fa7de6471c56078b62c57d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94b5b6c8c41fb53aa2a28e089d495545"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/deb/a05433.html#a94b5b6c8c41fb53aa2a28e089d495545">operator&lt;</a> (<a class="el" href="../../d6/deb/a05433.html">SymbolPair</a> const &amp;other) const</td></tr>
-<tr class="separator:a94b5b6c8c41fb53aa2a28e089d495545"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a50579f45ce4d7ef0155bac20b1958254"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/deb/a05433.html#a50579f45ce4d7ef0155bac20b1958254">_type</a></td></tr>
-<tr class="separator:a50579f45ce4d7ef0155bac20b1958254"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac011ac111d0ced8871d315e164948bea"><td class="memItemLeft" align="right" valign="top">DWORD_PTR&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/deb/a05433.html#ac011ac111d0ced8871d315e164948bea">_offset</a></td></tr>
-<tr class="separator:ac011ac111d0ced8871d315e164948bea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:afd4b9dd6223e8bd48810b88adc24a4b7"><td class="memTemplParams" colspan="2">template&lt;typename Cipher &gt; </td></tr>
+<tr class="memitem:afd4b9dd6223e8bd48810b88adc24a4b7"><td class="memTemplItemLeft" align="right" valign="top">static Cipher::IV&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/deb/a05433.html#afd4b9dd6223e8bd48810b88adc24a4b7">GenerateRandomIV</a> ()</td></tr>
+<tr class="separator:afd4b9dd6223e8bd48810b88adc24a4b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a631dbb5771929cb72bd090e3ced49523"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../d3/da4/a01343.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </td></tr>
+<tr class="memitem:a631dbb5771929cb72bd090e3ced49523"><td class="memTemplItemLeft" align="right" valign="top">static void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/deb/a05433.html#a631dbb5771929cb72bd090e3ced49523">AppendToBack</a> (std::vector&lt; <a class="el" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &amp;data, <a class="el" href="../../d3/da4/a01343.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;tail)</td></tr>
+<tr class="separator:a631dbb5771929cb72bd090e3ced49523"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac27f3335f0fadf98dbd0bedebbfd8390"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../d3/da4/a01343.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </td></tr>
+<tr class="memitem:ac27f3335f0fadf98dbd0bedebbfd8390"><td class="memTemplItemLeft" align="right" valign="top">static void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/deb/a05433.html#ac27f3335f0fadf98dbd0bedebbfd8390">SplitFromBack</a> (std::vector&lt; <a class="el" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &amp;data, <a class="el" href="../../d3/da4/a01343.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;tail)</td></tr>
+<tr class="separator:ac27f3335f0fadf98dbd0bedebbfd8390"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad6b1fba614fa7de6471c56078b62c57d" name="ad6b1fba614fa7de6471c56078b62c57d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad6b1fba614fa7de6471c56078b62c57d">&#9670;&#160;</a></span>SymbolPair()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a631dbb5771929cb72bd090e3ced49523" name="a631dbb5771929cb72bd090e3ced49523"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a631dbb5771929cb72bd090e3ced49523">&#9670;&#160;</a></span>AppendToBack()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename <a class="el" href="../../d3/da4/a01343.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">SymbolPair::SymbolPair </td>
+          <td class="memname">static void Acore::Impl::CryptoGenericsImpl::AppendToBack </td>
           <td>(</td>
-          <td class="paramtype">DWORD&#160;</td>
-          <td class="paramname"><em>type</em>, </td>
+          <td class="paramtype">std::vector&lt; <a class="el" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &amp;&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">DWORD_PTR&#160;</td>
-          <td class="paramname"><em>offset</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/da4/a01343.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;&#160;</td>
+          <td class="paramname"><em>tail</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -159,84 +158,101 @@ Public Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>    {</div>
-<div class="line"><span class="lineno">   99</span>        <a class="code hl_variable" href="../../d6/deb/a05433.html#a50579f45ce4d7ef0155bac20b1958254">_type</a> = type;</div>
-<div class="line"><span class="lineno">  100</span>        <a class="code hl_variable" href="../../d6/deb/a05433.html#ac011ac111d0ced8871d315e164948bea">_offset</a> = offset;</div>
-<div class="line"><span class="lineno">  101</span>    }</div>
-<div class="ttc" id="aa05433_html_a50579f45ce4d7ef0155bac20b1958254"><div class="ttname"><a href="../../d6/deb/a05433.html#a50579f45ce4d7ef0155bac20b1958254">SymbolPair::_type</a></div><div class="ttdeci">DWORD _type</div><div class="ttdef"><b>Definition:</b> WheatyExceptionReport.h:109</div></div>
-<div class="ttc" id="aa05433_html_ac011ac111d0ced8871d315e164948bea"><div class="ttname"><a href="../../d6/deb/a05433.html#ac011ac111d0ced8871d315e164948bea">SymbolPair::_offset</a></div><div class="ttdeci">DWORD_PTR _offset</div><div class="ttdef"><b>Definition:</b> WheatyExceptionReport.h:110</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>        {</div>
+<div class="line"><span class="lineno">   43</span>            data.insert(data.end(), std::begin(tail), std::end(tail));</div>
+<div class="line"><span class="lineno">   44</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00110">_offset</a>, and <a class="el" href="../../#l00109">_type</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00062">Acore::Crypto::AEEncryptWithRandomIV()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a94b5b6c8c41fb53aa2a28e089d495545" name="a94b5b6c8c41fb53aa2a28e089d495545"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a94b5b6c8c41fb53aa2a28e089d495545">&#9670;&#160;</a></span>operator&lt;()</h2>
+<a id="afd4b9dd6223e8bd48810b88adc24a4b7" name="afd4b9dd6223e8bd48810b88adc24a4b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afd4b9dd6223e8bd48810b88adc24a4b7">&#9670;&#160;</a></span>GenerateRandomIV()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename Cipher &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool SymbolPair::operator&lt; </td>
+          <td class="memname">static Cipher::IV Acore::Impl::CryptoGenericsImpl::GenerateRandomIV </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/deb/a05433.html">SymbolPair</a> const &amp;&#160;</td>
-          <td class="paramname"><em>other</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  104</span>    {</div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/deb/a05433.html#ac011ac111d0ced8871d315e164948bea">_offset</a> &lt; other._offset ||</div>
-<div class="line"><span class="lineno">  106</span>               (<a class="code hl_variable" href="../../d6/deb/a05433.html#ac011ac111d0ced8871d315e164948bea">_offset</a> == other._offset &amp;&amp; <a class="code hl_variable" href="../../d6/deb/a05433.html#a50579f45ce4d7ef0155bac20b1958254">_type</a> &lt; other._type);</div>
-<div class="line"><span class="lineno">  107</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>        {</div>
+<div class="line"><span class="lineno">   35</span>            <span class="keyword">typename</span> Cipher::IV iv;</div>
+<div class="line"><span class="lineno">   36</span>            <a class="code hl_function" href="../../d1/d82/a05027.html#ab09d7cc2f8e11fc5fe6b2323d57b7184">Acore::Crypto::GetRandomBytes</a>(iv);</div>
+<div class="line"><span class="lineno">   37</span>            <span class="keywordflow">return</span> iv;</div>
+<div class="line"><span class="lineno">   38</span>        }</div>
+<div class="ttc" id="aa05027_html_ab09d7cc2f8e11fc5fe6b2323d57b7184"><div class="ttname"><a href="../../d1/d82/a05027.html#ab09d7cc2f8e11fc5fe6b2323d57b7184">Acore::Crypto::GetRandomBytes</a></div><div class="ttdeci">std::array&lt; uint8, S &gt; GetRandomBytes()</div><div class="ttdef"><b>Definition:</b> CryptoRandom.h:35</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00110">_offset</a>, and <a class="el" href="../../#l00109">_type</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">Acore::Crypto::GetRandomBytes()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="ac011ac111d0ced8871d315e164948bea" name="ac011ac111d0ced8871d315e164948bea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac011ac111d0ced8871d315e164948bea">&#9670;&#160;</a></span>_offset</h2>
+<a id="ac27f3335f0fadf98dbd0bedebbfd8390" name="ac27f3335f0fadf98dbd0bedebbfd8390"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac27f3335f0fadf98dbd0bedebbfd8390">&#9670;&#160;</a></span>SplitFromBack()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename <a class="el" href="../../d3/da4/a01343.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">DWORD_PTR SymbolPair::_offset</td>
+          <td class="memname">static void Acore::Impl::CryptoGenericsImpl::SplitFromBack </td>
+          <td>(</td>
+          <td class="paramtype">std::vector&lt; <a class="el" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &amp;&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00103">operator&lt;()</a>, and <a class="el" href="../../#l00097">SymbolPair()</a>.</p>
-
-</div>
-</div>
-<a id="a50579f45ce4d7ef0155bac20b1958254" name="a50579f45ce4d7ef0155bac20b1958254"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a50579f45ce4d7ef0155bac20b1958254">&#9670;&#160;</a></span>_type</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">DWORD SymbolPair::_type</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/da4/a01343.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;&#160;</td>
+          <td class="paramname"><em>tail</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   48</span>        {</div>
+<div class="line"><span class="lineno">   49</span>            <a class="code hl_define" href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(data.size() &gt;= std::size(tail));</div>
+<div class="line"><span class="lineno">   50</span>            <span class="keywordflow">for</span> (std::size_t i = 1, N = std::size(tail); i &lt;= N; ++i)</div>
+<div class="line"><span class="lineno">   51</span>            {</div>
+<div class="line"><span class="lineno">   52</span>                tail[N - i] = data.back();</div>
+<div class="line"><span class="lineno">   53</span>                data.pop_back();</div>
+<div class="line"><span class="lineno">   54</span>            }</div>
+<div class="line"><span class="lineno">   55</span>        }</div>
+<div class="ttc" id="aa04586_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00103">operator&lt;()</a>, and <a class="el" href="../../#l00097">SymbolPair()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00088">Acore::Crypto::AEDecrypt()</a>.</p>
 
 </div>
 </div>
@@ -245,8 +261,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/deb/a05433.html">SymbolPair</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:10:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d5/d66/a05016.html">Acore</a></li><li class="navelem"><a class="el" href="../../dc/d61/a05028.html">Impl</a></li><li class="navelem"><a class="el" href="../../d6/deb/a05433.html">CryptoGenericsImpl</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:29:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

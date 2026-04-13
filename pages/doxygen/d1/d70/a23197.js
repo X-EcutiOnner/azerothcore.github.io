@@ -1,5 +1,6 @@
 var a23197 =
 [
-    [ "go_strange_pool", "d1/d70/a23197.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "d1/d70/a23197.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "HandleScriptEffect", "d1/d70/a23197.html#adf350bccc5862252f6928faa4ae3a001", null ],
+    [ "PrepareSpellScript", "d1/d70/a23197.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
+    [ "Register", "d1/d70/a23197.html#afaf23967ede6e120caa7758ff2d3c974", null ]
 ];

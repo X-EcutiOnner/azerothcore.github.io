@@ -1,6 +1,8 @@
 var a14829 =
 [
-    [ "gameobjectId", "de/dff/a14829.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "de/dff/a14829.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "de/dff/a14829.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "CheckCast", "de/dff/a14829.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "de/dff/a14829.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "de/dff/a14829.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "de/dff/a14829.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "de/dff/a14829.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

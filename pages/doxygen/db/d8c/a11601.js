@@ -1,7 +1,5 @@
 var a11601 =
 [
-    [ "chance", "db/d8c/a11601.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "db/d8c/a11601.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "db/d8c/a11601.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "db/d8c/a11601.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "AbsorbAuraOrderPred", "db/d8c/a11601.html#a30283854715c90496e14d260f913f5fa", null ],
+    [ "operator()", "db/d8c/a11601.html#a8f705a8b053ef6ff2e2827b4c7f9c643", null ]
 ];

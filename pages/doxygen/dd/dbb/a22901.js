@@ -1,8 +1,7 @@
 var a22901 =
 [
-    [ "HandleEffectApply", "dd/dbb/a22901.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "dd/dbb/a22901.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "dd/dbb/a22901.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "dd/dbb/a22901.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "dd/dbb/a22901.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "HandleEffectRemove", "dd/dbb/a22901.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "dd/dbb/a22901.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "dd/dbb/a22901.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "dd/dbb/a22901.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

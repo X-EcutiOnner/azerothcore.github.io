@@ -1,7 +1,8 @@
 var a14757 =
 [
-    [ "HandleScriptEffect", "db/dac/a14757.html#ae758c224878aebdde0124b5d4ec902a5", null ],
-    [ "PrepareSpellScript", "db/dac/a14757.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
-    [ "Register", "db/dac/a14757.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
-    [ "Validate", "db/dac/a14757.html#a56f71954e122f651c6e2ec68453e16cc", null ]
+    [ "OnApply", "db/dac/a14757.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "db/dac/a14757.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "db/dac/a14757.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "db/dac/a14757.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "db/dac/a14757.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

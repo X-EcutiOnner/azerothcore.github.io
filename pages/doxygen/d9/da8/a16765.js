@@ -1,10 +1,6 @@
 var a16765 =
 [
-    [ "npc_black_knight_ghoulAI", "d9/da8/a16765.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
-    [ "JustEngagedWith", "d9/da8/a16765.html#a8353dea0de91017223c7624a5a96ebec", null ],
-    [ "Reset", "d9/da8/a16765.html#a8a33efa0719063a9565bc07143f8ad83", null ],
-    [ "SpellHit", "d9/da8/a16765.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
-    [ "UpdateAI", "d9/da8/a16765.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
-    [ "events", "d9/da8/a16765.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
-    [ "pInstance", "d9/da8/a16765.html#a35b8375f1b3407f5cee653ee118e0697", null ]
+    [ "npc_toc_rogueAI", "dd/d66/a16769.html", "dd/d66/a16769" ],
+    [ "npc_toc_rogue", "d9/da8/a16765.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "d9/da8/a16765.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

@@ -1,5 +1,6 @@
 var a29241 =
 [
-    [ "content", "d8/dff/a29241.html#a936eb07adb8a41480dfc196127b7e5c0", null ],
-    [ "ID", "d8/dff/a29241.html#a1a33aff67b979c3c7a76c26debb5fc25", null ]
+    [ "hasInstantTargetProcs", "d8/dff/a29241.html#a043a2884a456208d85bc3bf8d4733682", null ],
+    [ "isRemoved", "d8/dff/a29241.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
+    [ "spellId", "d8/dff/a29241.html#aee26a119051d638047018aeb93d593f6", null ]
 ];

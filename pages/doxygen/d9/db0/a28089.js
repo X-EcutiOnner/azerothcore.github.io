@@ -1,7 +1,6 @@
 var a28089 =
 [
-    [ "npc_spirit_shadeAI", "d9/db0/a28089.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d9/db0/a28089.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d9/db0/a28089.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d9/db0/a28089.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "npc_taxi", "d9/db0/a28089.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "d9/db0/a28089.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "d9/db0/a28089.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

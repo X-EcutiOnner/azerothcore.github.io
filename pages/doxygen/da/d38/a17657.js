@@ -1,10 +1,9 @@
 var a17657 =
 [
-    [ "npc_living_mojoAI", "da/d38/a17657.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "da/d38/a17657.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "da/d38/a17657.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "MoveInLineOfSight", "da/d38/a17657.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "da/d38/a17657.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "da/d38/a17657.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "da/d38/a17657.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "CheckProc", "da/d38/a17657.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "da/d38/a17657.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "da/d38/a17657.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "da/d38/a17657.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "da/d38/a17657.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "da/d38/a17657.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

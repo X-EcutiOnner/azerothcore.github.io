@@ -1,6 +1,7 @@
 var a18229 =
 [
-    [ "npc_cult_adherentAI", "d2/d6c/a18233.html", "d2/d6c/a18233" ],
-    [ "npc_cult_adherent", "d0/deb/a18229.html#a74496518cf30674044a4a8a166e4c345", null ],
-    [ "GetAI", "d0/deb/a18229.html#a2bfe464c738c983b9539f9216cabd63a", null ]
+    [ "FrostwyrmLandEvent", "d0/deb/a18229.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
+    [ "Execute", "d0/deb/a18229.html#a4da77796a223e6233ac6d908f7700623", null ],
+    [ "_dest", "d0/deb/a18229.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
+    [ "_owner", "d0/deb/a18229.html#a6336050092606ebb27a180abff55dfa2", null ]
 ];

@@ -1,6 +1,6 @@
 var a14125 =
 [
-    [ "npc_corporal_keeshanAI", "d5/df6/a14129.html", "d5/df6/a14129" ],
-    [ "npc_corporal_keeshan", "d3/d68/a14125.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "d3/d68/a14125.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "cooldown", "d3/d68/a14125.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "d3/d68/a14125.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "d3/d68/a14125.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

@@ -1,14 +1,9 @@
 var a03674 =
 [
-    [ "AllMapScript", "d6/d34/a10550.html", "d6/d34/a10550" ],
-    [ "AllMapHook", "d0/d1e/a03674.html#a78db4e64fe232d8b547270090d8e3b92", [
-      [ "ALLMAPHOOK_ON_PLAYER_ENTER_ALL", "d0/d1e/a03674.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa", null ],
-      [ "ALLMAPHOOK_ON_PLAYER_LEAVE_ALL", "d0/d1e/a03674.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae", null ],
-      [ "ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT", "d0/d1e/a03674.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182", null ],
-      [ "ALLMAPHOOK_ON_DESTROY_INSTANCE", "d0/d1e/a03674.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0", null ],
-      [ "ALLMAPHOOK_ON_CREATE_MAP", "d0/d1e/a03674.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02", null ],
-      [ "ALLMAPHOOK_ON_DESTROY_MAP", "d0/d1e/a03674.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5", null ],
-      [ "ALLMAPHOOK_ON_MAP_UPDATE", "d0/d1e/a03674.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb", null ],
-      [ "ALLMAPHOOK_END", "d0/d1e/a03674.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95", null ]
-    ] ]
+    [ "instance_ruby_sanctum", "dc/dcb/a16489.html", "dc/dcb/a16489" ],
+    [ "instance_ruby_sanctum::instance_ruby_sanctum_InstanceMapScript", "df/d7b/a16493.html", "df/d7b/a16493" ],
+    [ "spell_ruby_sanctum_rallying_shout", "d4/d59/a16497.html", "d4/d59/a16497" ],
+    [ "AddSC_instance_ruby_sanctum", "d0/d1e/a03674.html#a93f8126d2e36ad7caab980f1c3f83a14", null ],
+    [ "boundaries", "d0/d1e/a03674.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "doorData", "d0/d1e/a03674.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

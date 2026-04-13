@@ -1,11 +1,6 @@
 var a20013 =
 [
-    [ "boss_maiden_of_griefAI", "d1/d58/a20013.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
-    [ "JustDied", "d1/d58/a20013.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
-    [ "JustEngagedWith", "d1/d58/a20013.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
-    [ "KilledUnit", "d1/d58/a20013.html#a3d2173db5a852a356c187b2d2771b75f", null ],
-    [ "Reset", "d1/d58/a20013.html#a46776004549b0dcfcf73351225adaad8", null ],
-    [ "UpdateAI", "d1/d58/a20013.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
-    [ "events", "d1/d58/a20013.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
-    [ "pInstance", "d1/d58/a20013.html#abc195718a208a926f978d7f0fe0e7925", null ]
+    [ "OnPeriodic", "d1/d58/a20013.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "d1/d58/a20013.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "d1/d58/a20013.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

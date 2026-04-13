@@ -1,6 +1,5 @@
 var a27909 =
 [
-    [ "AfterCheckProc", "df/d45/a27909.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "df/d45/a27909.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "df/d45/a27909.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "go_scourge_cage", "df/d45/a27909.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "df/d45/a27909.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

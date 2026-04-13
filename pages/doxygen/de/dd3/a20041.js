@@ -1,6 +1,6 @@
 var a20041 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d4/dce/a20045.html", "d4/dce/a20045" ],
-    [ "boss_sjonnir_malformed_ooze", "de/dd3/a20041.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "de/dd3/a20041.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "CheckCast", "de/dd3/a20041.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "de/dd3/a20041.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "de/dd3/a20041.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

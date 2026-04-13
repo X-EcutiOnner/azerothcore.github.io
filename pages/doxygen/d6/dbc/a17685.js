@@ -1,7 +1,6 @@
 var a17685 =
 [
-    [ "HandleScriptEffect", "d6/dbc/a17685.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "d6/dbc/a17685.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "d6/dbc/a17685.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "d6/dbc/a17685.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "npc_icc_blood_beastAI", "d2/d41/a17689.html", "d2/d41/a17689" ],
+    [ "npc_icc_blood_beast", "d6/dbc/a17685.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "d6/dbc/a17685.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

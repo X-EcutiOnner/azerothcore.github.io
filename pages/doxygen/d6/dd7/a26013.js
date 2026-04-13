@@ -1,6 +1,6 @@
 var a26013 =
 [
-    [ "HandleProc", "d6/dd7/a26013.html#aa333d52d905e722554d8d61c4b9cb656", null ],
-    [ "PrepareAuraScript", "d6/dd7/a26013.html#aac4320b061d627e4ffef737d2e858ef3", null ],
-    [ "Register", "d6/dd7/a26013.html#ad58fea9afa6a3596437a324ec525982e", null ]
+    [ "CheckProc", "d6/dd7/a26013.html#a32944bc11db6436123d0ae58dc69049e", null ],
+    [ "PrepareAuraScript", "d6/dd7/a26013.html#a3ff37b99957c2b48b1794085a4043372", null ],
+    [ "Register", "d6/dd7/a26013.html#ada958db35d6079e25109cb06e5da209e", null ]
 ];

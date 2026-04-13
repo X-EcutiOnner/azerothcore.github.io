@@ -1,6 +1,6 @@
 var a17541 =
 [
-    [ "npc_pos_after_first_bossAI", "df/de5/a17545.html", "df/de5/a17545" ],
-    [ "npc_pos_after_first_boss", "d3/dbc/a17541.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "d3/dbc/a17541.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "ModAuraStack", "d3/dbc/a17541.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "d3/dbc/a17541.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "d3/dbc/a17541.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

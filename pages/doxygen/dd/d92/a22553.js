@@ -1,14 +1,12 @@
 var a22553 =
 [
-    [ "event_enter", "dd/d92/a22553.html#ac80d575f14dca1c901be55e34cc690e1", null ],
-    [ "event_leave", "dd/d92/a22553.html#a3dc0a11a5c06079026d27852e7561b74", null ],
-    [ "map_tower_a", "dd/d92/a22553.html#a9a65209caac3791b835c1920f5a667cf", null ],
-    [ "map_tower_h", "dd/d92/a22553.html#aa30ae484db7c69137abb13adb1b3c505", null ],
-    [ "map_tower_n", "dd/d92/a22553.html#a0453edceab2132e900bec183e360e210", null ],
-    [ "slider_disp", "dd/d92/a22553.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
-    [ "slider_n", "dd/d92/a22553.html#a65015a3a24a5554643ecb5da47e24eea", null ],
-    [ "slider_pos", "dd/d92/a22553.html#acc63481f7613242ac06c6bee6c136a30", null ],
-    [ "ui_tower_a", "dd/d92/a22553.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
-    [ "ui_tower_h", "dd/d92/a22553.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
-    [ "ui_tower_n", "dd/d92/a22553.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
+    [ "boss_essence_of_angerAI", "dd/d92/a22553.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "dd/d92/a22553.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "dd/d92/a22553.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "dd/d92/a22553.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "dd/d92/a22553.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "dd/d92/a22553.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "dd/d92/a22553.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "_recentlySpoken", "dd/d92/a22553.html#a056aa8fd704d832e83735cf2a1a22888", null ],
+    [ "targetGUID", "dd/d92/a22553.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

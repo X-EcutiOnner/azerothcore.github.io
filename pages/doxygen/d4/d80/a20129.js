@@ -1,6 +1,7 @@
 var a20129 =
 [
-    [ "PrepareSpellScript", "d4/d80/a20129.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "d4/d80/a20129.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "d4/d80/a20129.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "HandleAfterEffectApply", "d4/d80/a20129.html#a672526de2c71dcae79bacef88f34dc26", null ],
+    [ "PrepareAuraScript", "d4/d80/a20129.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
+    [ "Register", "d4/d80/a20129.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
+    [ "Validate", "d4/d80/a20129.html#ab5833f6218760a7d9829b5d453436302", null ]
 ];

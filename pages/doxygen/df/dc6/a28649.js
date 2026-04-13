@@ -1,6 +1,11 @@
 var a28649 =
 [
-    [ "npc_necropolis_proxy", "df/dc6/a28649.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "df/dc6/a28649.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "df/dc6/a28649.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "icon", "df/dc6/a28649.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "df/dc6/a28649.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "df/dc6/a28649.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "df/dc6/a28649.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "df/dc6/a28649.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "df/dc6/a28649.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "df/dc6/a28649.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "df/dc6/a28649.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

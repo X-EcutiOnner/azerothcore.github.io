@@ -1,6 +1,8 @@
 var a12293 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "d5/d15/a12297.html", "d5/d15/a12297" ],
-    [ "npc_av_marshal_or_warmaster", "d4/da9/a12293.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
-    [ "GetAI", "d4/da9/a12293.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
+    [ "pet_commandscript", "d4/da9/a12293.html#a84595dcb908398e80deee0b0aa47e335", null ],
+    [ "GetCommands", "d4/da9/a12293.html#a01026a4936774d2225d10e0f6e27b08c", null ],
+    [ "HandlePetCreateCommand", "d4/da9/a12293.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
+    [ "HandlePetLearnCommand", "d4/da9/a12293.html#a59a2a6bd9af23fe3a775319216337bda", null ],
+    [ "HandlePetUnlearnCommand", "d4/da9/a12293.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
 ];

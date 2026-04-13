@@ -1,7 +1,6 @@
 var a19565 =
 [
-    [ "HandleScript", "de/d62/a19565.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "de/d62/a19565.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "de/d62/a19565.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "de/d62/a19565.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "boss_eregosAI", "d5/d1b/a19569.html", "d5/d1b/a19569" ],
+    [ "boss_eregos", "de/d62/a19565.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "de/d62/a19565.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

@@ -1,7 +1,10 @@
 var a13789 =
 [
-    [ "HandleScriptEffect", "d6/d45/a13789.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
-    [ "PrepareSpellScript", "d6/d45/a13789.html#af9deee89e837e07486a7555632008eb2", null ],
-    [ "Register", "d6/d45/a13789.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
-    [ "Validate", "d6/d45/a13789.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
+    [ "npc_sunblade_scout", "d6/d45/a13789.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "d6/d45/a13789.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "d6/d45/a13789.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "d6/d45/a13789.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "d6/d45/a13789.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "d6/d45/a13789.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "d6/d45/a13789.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

@@ -1,7 +1,5 @@
 var a27769 =
 [
-    [ "HandleProc", "df/de9/a27769.html#a9296b52700f070af311047166f6a913b", null ],
-    [ "PrepareAuraScript", "df/de9/a27769.html#a067cc24e65f79bab10b9d1258fad3460", null ],
-    [ "Register", "df/de9/a27769.html#affbd8840159048b6ea55ab98900d38c0", null ],
-    [ "Validate", "df/de9/a27769.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
+    [ "go_seer_of_zebhalak", "df/de9/a27769.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "df/de9/a27769.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

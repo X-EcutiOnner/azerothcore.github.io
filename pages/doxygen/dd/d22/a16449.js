@@ -1,7 +1,6 @@
 var a16449 =
 [
-    [ "OnRemove", "dd/d22/a16449.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "dd/d22/a16449.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "dd/d22/a16449.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "dd/d22/a16449.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "PrepareSpellScript", "dd/d22/a16449.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "dd/d22/a16449.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "dd/d22/a16449.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

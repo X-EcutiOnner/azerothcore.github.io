@@ -1,8 +1,11 @@
 var a27649 =
 [
-    [ "CalcPeriodic", "d0/d1c/a27649.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
-    [ "CalculateAmount", "d0/d1c/a27649.html#a525009acb345d6b0a9857c30cfce2230", null ],
-    [ "HandlePeriodic", "d0/d1c/a27649.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
-    [ "PrepareAuraScript", "d0/d1c/a27649.html#a5627212e48a3044a9a7480851787a839", null ],
-    [ "Register", "d0/d1c/a27649.html#a09ea5265d7105a4bd487d383948901a0", null ]
+    [ "AccountActionIpLogger", "d0/d1c/a27649.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
+    [ "AccountIPLogAction", "d0/d1c/a27649.html#a9c978dafb71e67b8b278806df507e34b", null ],
+    [ "OnAccountLogin", "d0/d1c/a27649.html#a2952adcd73d775b924671e5a69adaccb", null ],
+    [ "OnEmailChange", "d0/d1c/a27649.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
+    [ "OnFailedAccountLogin", "d0/d1c/a27649.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
+    [ "OnFailedEmailChange", "d0/d1c/a27649.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
+    [ "OnFailedPasswordChange", "d0/d1c/a27649.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
+    [ "OnPasswordChange", "d0/d1c/a27649.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
 ];

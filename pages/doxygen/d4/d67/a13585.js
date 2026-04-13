@@ -1,6 +1,6 @@
 var a13585 =
 [
-    [ "instance_scholomance_InstanceMapScript", "db/d1c/a13589.html", "db/d1c/a13589" ],
-    [ "instance_scholomance", "d4/d67/a13585.html#ace7a781c45623419daad6143480d8fe2", null ],
-    [ "GetInstanceScript", "d4/d67/a13585.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
+    [ "FilterTargets", "d4/d67/a13585.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d4/d67/a13585.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d4/d67/a13585.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

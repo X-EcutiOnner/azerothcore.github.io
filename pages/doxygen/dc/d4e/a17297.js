@@ -1,10 +1,9 @@
 var a17297 =
 [
-    [ "HandleAfterEffectAbsorb", "dc/d4e/a17297.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "dc/d4e/a17297.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "dc/d4e/a17297.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "dc/d4e/a17297.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "dc/d4e/a17297.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "dc/d4e/a17297.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "dc/d4e/a17297.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "npc_pos_collapsing_icicleAI", "dc/d4e/a17297.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
+    [ "SpellHitTarget", "dc/d4e/a17297.html#aea107ede3b11726b3f7caae590edaf52", null ],
+    [ "UpdateAI", "dc/d4e/a17297.html#ade416a422e67ce61e8874320cce7143b", null ],
+    [ "pInstance", "dc/d4e/a17297.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
+    [ "timer1", "dc/d4e/a17297.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
+    [ "timer2", "dc/d4e/a17297.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
 ];

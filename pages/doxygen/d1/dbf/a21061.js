@@ -1,5 +1,11 @@
 var a21061 =
 [
-    [ "npc_salvaged_siege_engine", "d1/dbf/a21061.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "d1/dbf/a21061.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "boss_cyanigosa", "d1/dbf/a21061.html#af85a0c366de8785cd89d14f7990bfb54", null ],
+    [ "EnterEvadeMode", "d1/dbf/a21061.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
+    [ "ExecuteEvent", "d1/dbf/a21061.html#a694dda590c17a03534f8744838ac3176", null ],
+    [ "JustDied", "d1/dbf/a21061.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
+    [ "JustEngagedWith", "d1/dbf/a21061.html#a2432aa3610747c52f6ec3de1def55f18", null ],
+    [ "KilledUnit", "d1/dbf/a21061.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
+    [ "MoveInLineOfSight", "d1/dbf/a21061.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
+    [ "SpellHitTarget", "d1/dbf/a21061.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
 ];

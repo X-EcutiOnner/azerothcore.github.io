@@ -1,5 +1,6 @@
 var a17625 =
 [
-    [ "endPosition", "d0/ded/a17625.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "d0/ded/a17625.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "boss_deathbringer_saurfangAI", "d6/dcb/a17629.html", "d6/dcb/a17629" ],
+    [ "boss_deathbringer_saurfang", "d0/ded/a17625.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d0/ded/a17625.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

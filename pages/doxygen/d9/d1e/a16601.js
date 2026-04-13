@@ -1,7 +1,6 @@
 var a16601 =
 [
-    [ "HandlePeriodic", "d9/d1e/a16601.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d9/d1e/a16601.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d9/d1e/a16601.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d9/d1e/a16601.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d7/d27/a16605.html", "d7/d27/a16605" ],
+    [ "instance_trial_of_the_champion", "d9/d1e/a16601.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d9/d1e/a16601.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

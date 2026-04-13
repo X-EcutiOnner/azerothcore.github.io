@@ -1,7 +1,5 @@
 var a10601 =
 [
-    [ "InstanceMapScript", "de/d3c/a10601.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
-    [ "checkValidity", "de/d3c/a10601.html#a221dd91e2d2f761e66d990a6cae42306", null ],
-    [ "GetInstanceScript", "de/d3c/a10601.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
-    [ "IsDatabaseBound", "de/d3c/a10601.html#ab77651bb427813a7e119057c3dc53ca8", null ]
+    [ "CommandScript", "de/d3c/a10601.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
+    [ "GetCommands", "de/d3c/a10601.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
 ];

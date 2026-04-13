@@ -1,9 +1,7 @@
 var a22041 =
 [
-    [ "npc_lord_areteAI", "d5/d01/a22041.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "d5/d01/a22041.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "d5/d01/a22041.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "d5/d01/a22041.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "d5/d01/a22041.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "d5/d01/a22041.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "HandleScript", "d5/d01/a22041.html#a1811115f1732912bdfaeeb8272db2304", null ],
+    [ "PrepareSpellScript", "d5/d01/a22041.html#a50c24464dd88717bf78971d679715d7b", null ],
+    [ "Register", "d5/d01/a22041.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
+    [ "Validate", "d5/d01/a22041.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
 ];

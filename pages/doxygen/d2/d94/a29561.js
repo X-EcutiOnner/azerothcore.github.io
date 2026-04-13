@@ -1,15 +1,10 @@
 var a29561 =
 [
-    [ "DamageInfoStubBuilder", "d2/d94/a29561.html#a282b4f92722f9cf12358a9f603df6902", null ],
-    [ "Build", "d2/d94/a29561.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
-    [ "WithAbsorb", "d2/d94/a29561.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
-    [ "WithAttackType", "d2/d94/a29561.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
-    [ "WithBlock", "d2/d94/a29561.html#a81381d471627ddd6e86678551ca4ab5b", null ],
-    [ "WithDamage", "d2/d94/a29561.html#abf9d30cde831f2094a181a312bcfe9df", null ],
-    [ "WithHitMask", "d2/d94/a29561.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
-    [ "WithOriginalDamage", "d2/d94/a29561.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
-    [ "WithResist", "d2/d94/a29561.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
-    [ "WithSchoolMask", "d2/d94/a29561.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
-    [ "WithSpellInfo", "d2/d94/a29561.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
-    [ "_stub", "d2/d94/a29561.html#abf06c6b638dcd9489fa0e3d755433514", null ]
+    [ "plane", "d8/d94/a29569.html", "d8/d94/a29569" ],
+    [ "prepareLoadedData", "d2/d94/a29561.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
+    [ "fcc", "d2/d94/a29561.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
+    [ "fcc_txt", "d2/d94/a29561.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
+    [ "max", "d2/d94/a29561.html#afadebfc1361985b6f5d45c27e22cb303", null ],
+    [ "min", "d2/d94/a29561.html#ac3ebf1557841088ef8912b68fe6df908", null ],
+    [ "size", "d2/d94/a29561.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
 ];

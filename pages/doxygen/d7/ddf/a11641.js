@@ -1,8 +1,14 @@
 var a11641 =
 [
-    [ "DirectionType", "d7/ddf/a11641.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "d7/ddf/a11641.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "d7/ddf/a11641.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "d7/ddf/a11641.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "d7/ddf/a11641.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "alive", "d7/ddf/a11641.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
+    [ "crit", "d7/ddf/a11641.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
+    [ "damage", "d7/ddf/a11641.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
+    [ "damageBeforeTakenMods", "d7/ddf/a11641.html#a85196e5b5865856962898c18001880c7", null ],
+    [ "effectMask", "d7/ddf/a11641.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
+    [ "missCondition", "d7/ddf/a11641.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
+    [ "processed", "d7/ddf/a11641.html#a2de96d62297ff614fc3702bec035ce5b", null ],
+    [ "reflectResult", "d7/ddf/a11641.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
+    [ "scaleAura", "d7/ddf/a11641.html#a89bba366b26686d41288e9b2e725eb75", null ],
+    [ "targetGUID", "d7/ddf/a11641.html#acf55c1dd6f00c94296c592d988f959cf", null ],
+    [ "timeDelay", "d7/ddf/a11641.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
 ];

@@ -1,6 +1,7 @@
 var a28653 =
 [
-    [ "npc_necropolis_relay", "df/dad/a28653.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "df/dad/a28653.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "df/dad/a28653.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "cutPercent", "df/dad/a28653.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "df/dad/a28653.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "df/dad/a28653.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "df/dad/a28653.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

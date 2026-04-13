@@ -1,14 +1,10 @@
 var a15685 =
 [
-    [ "boss_twinemperorsAI", "de/dab/a15685.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "de/dab/a15685.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "de/dab/a15685.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "de/dab/a15685.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "de/dab/a15685.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "de/dab/a15685.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "de/dab/a15685.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "de/dab/a15685.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "de/dab/a15685.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "de/dab/a15685.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "de/dab/a15685.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "npc_murkdeepAI", "de/dab/a15685.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "de/dab/a15685.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "de/dab/a15685.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "de/dab/a15685.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "de/dab/a15685.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "de/dab/a15685.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "de/dab/a15685.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

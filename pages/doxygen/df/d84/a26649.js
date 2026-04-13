@@ -1,7 +1,9 @@
 var a26649 =
 [
-    [ "CheckAreaTarget", "df/d84/a26649.html#a2d240518259d2452d263fc436de5056e", null ],
-    [ "PrepareAuraScript", "df/d84/a26649.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
-    [ "Register", "df/d84/a26649.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
-    [ "Validate", "df/d84/a26649.html#adfd1ccae4029680415409df737aa2533", null ]
+    [ "HandleAfterCast", "df/d84/a26649.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "df/d84/a26649.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "df/d84/a26649.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "df/d84/a26649.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "df/d84/a26649.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "df/d84/a26649.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

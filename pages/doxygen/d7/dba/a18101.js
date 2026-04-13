@@ -1,10 +1,11 @@
 var a18101 =
 [
-    [ "npc_gunship_gunnerAI", "d7/dba/a18101.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
-    [ "AttackStart", "d7/dba/a18101.html#ac21b90c1892c15882794384517ef9fd2", null ],
-    [ "CanAIAttack", "d7/dba/a18101.html#aef351305ef34fa316809697125a3bc9a", null ],
-    [ "MovementInform", "d7/dba/a18101.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
-    [ "UpdateAI", "d7/dba/a18101.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
-    [ "anyValid", "d7/dba/a18101.html#a00c7dc23618c60826241133a0067c1c4", null ],
-    [ "checkTimer", "d7/dba/a18101.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
+    [ "Load", "d7/dba/a18101.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
+    [ "PrepareSpellScript", "d7/dba/a18101.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
+    [ "Register", "d7/dba/a18101.html#a9adbad7cc2185b22fb16135e78114548", null ],
+    [ "SelectTarget", "d7/dba/a18101.html#a296ec09cec9661123ea5c86f3f262f32", null ],
+    [ "SetTarget", "d7/dba/a18101.html#a15373dc2a0767e011faf504f6377e24d", null ],
+    [ "StartAttack", "d7/dba/a18101.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
+    [ "Validate", "d7/dba/a18101.html#a7619f7ec6dc0ce14293414729731ed00", null ],
+    [ "_target", "d7/dba/a18101.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
 ];

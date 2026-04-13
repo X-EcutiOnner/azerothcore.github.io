@@ -1,6 +1,8 @@
 var a18513 =
 [
-    [ "LastPhaseIceTombTargetSelector", "d6/d02/a18513.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
-    [ "operator()", "d6/d02/a18513.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
-    [ "_source", "d6/d02/a18513.html#ab10d10dd0de7717078d31ac026d4c933", null ]
+    [ "ChangeDamageAndGrow", "d6/d02/a18513.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d6/d02/a18513.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d6/d02/a18513.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d6/d02/a18513.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d6/d02/a18513.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

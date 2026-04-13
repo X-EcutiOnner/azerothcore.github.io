@@ -1,6 +1,15 @@
 var a23285 =
 [
-    [ "HandleScript", "d4/d4a/a23285.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
-    [ "PrepareSpellScript", "d4/d4a/a23285.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
-    [ "Register", "d4/d4a/a23285.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
+    [ "npc_shattered_hand_scout", "d4/d4a/a23285.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
+    [ "DamageTaken", "d4/d4a/a23285.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
+    [ "FireArrows", "d4/d4a/a23285.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
+    [ "GetPorung", "d4/d4a/a23285.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
+    [ "MoveInLineOfSight", "d4/d4a/a23285.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
+    [ "MovementInform", "d4/d4a/a23285.html#a6f6198c2faf68823b1d4c8237044784b", null ],
+    [ "Reset", "d4/d4a/a23285.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
+    [ "SetData", "d4/d4a/a23285.html#a9416dd89c4728538971abc5975c7080f", null ],
+    [ "UpdateAI", "d4/d4a/a23285.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
+    [ "_firstZealots", "d4/d4a/a23285.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
+    [ "_scheduler", "d4/d4a/a23285.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
+    [ "_zealotGUIDs", "d4/d4a/a23285.html#a26381a05bb007fdb4b7da97a19a878da", null ]
 ];

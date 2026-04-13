@@ -1,6 +1,6 @@
 var a23145 =
 [
-    [ "HandleScriptEffect", "db/dbc/a23145.html#a62ed9bff154c5aab74e044f8f9982263", null ],
-    [ "PrepareSpellScript", "db/dbc/a23145.html#a0e87265cf22ef8b4e302b8e216123395", null ],
-    [ "Register", "db/dbc/a23145.html#a0d722447d91991462245e8b392d20e10", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d2/de6/a23149.html", "d2/de6/a23149" ],
+    [ "instance_gruuls_lair", "db/dbc/a23145.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "db/dbc/a23145.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

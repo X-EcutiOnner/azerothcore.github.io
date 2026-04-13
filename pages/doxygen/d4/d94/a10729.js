@@ -1,7 +1,10 @@
 var a10729 =
 [
-    [ "AutoBankItem", "d4/d94/a10729.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
-    [ "Read", "d4/d94/a10729.html#a8651192c6040cdf5d257c134dde1208c", null ],
-    [ "Bag", "d4/d94/a10729.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
-    [ "Slot", "d4/d94/a10729.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
+    [ "VehicleScript", "d4/d94/a10729.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "d4/d94/a10729.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "d4/d94/a10729.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "d4/d94/a10729.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "d4/d94/a10729.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "d4/d94/a10729.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "d4/d94/a10729.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

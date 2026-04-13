@@ -1,6 +1,7 @@
 var a27225 =
 [
-    [ "ModDest", "d5/d16/a27225.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "d5/d16/a27225.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "d5/d16/a27225.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "HandleProc", "d5/d16/a27225.html#a9531d72f68dfc46cb6a49c9d10ee14dc", null ],
+    [ "PrepareAuraScript", "d5/d16/a27225.html#a4bd22c4f4cbd80ca26b0e27081dcb406", null ],
+    [ "Register", "d5/d16/a27225.html#a5cdc48d549e97060e837c6396e19cfb4", null ],
+    [ "Validate", "d5/d16/a27225.html#ad69695289aca17548b11199a84bbaf37", null ]
 ];

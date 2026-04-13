@@ -1,7 +1,14 @@
 var a22197 =
 [
-    [ "HandleSendEvent", "dc/dac/a22197.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "dc/dac/a22197.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "dc/dac/a22197.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "dc/dac/a22197.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "OPvPCapturePointTF", "dc/dac/a22197.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33", null ],
+    [ "ChangeState", "dc/dac/a22197.html#aa1e2611ef1b260ab363fd2645de142b0", null ],
+    [ "FillInitialWorldStates", "dc/dac/a22197.html#a8f8588000b515e0c33449f9d7c1357a3", null ],
+    [ "HandlePlayerEnter", "dc/dac/a22197.html#ae73763b63f5c1522c9b9c5950a6e5dfe", null ],
+    [ "HandlePlayerLeave", "dc/dac/a22197.html#ace20d19311478a136ae0b75016c36ea8", null ],
+    [ "ResetToTeamControlled", "dc/dac/a22197.html#a7ad637f6a4005da3166601dafda52d1b", null ],
+    [ "SendChangePhase", "dc/dac/a22197.html#a16efee78249e510e211b18694ea868f2", null ],
+    [ "Update", "dc/dac/a22197.html#a15b0758d901bf98f65fa2ee87bb4b401", null ],
+    [ "UpdateTowerState", "dc/dac/a22197.html#a3f6cbfddd3322e3d948a1330cfa0e4d8", null ],
+    [ "m_TowerState", "dc/dac/a22197.html#a74e1c07d3186fb6ba54b65efa9700989", null ],
+    [ "m_TowerType", "dc/dac/a22197.html#ace7e183b6dd438b9649e9ee60c6d00e2", null ]
 ];

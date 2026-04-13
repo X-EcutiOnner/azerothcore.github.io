@@ -1,7 +1,5 @@
 var a20573 =
 [
-    [ "FilterTargetsInitial", "d2/dd3/a20573.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "d2/dd3/a20573.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "d2/dd3/a20573.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "d2/dd3/a20573.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "achievement_xt002_nerf_engineering", "d2/dd3/a20573.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "d2/dd3/a20573.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

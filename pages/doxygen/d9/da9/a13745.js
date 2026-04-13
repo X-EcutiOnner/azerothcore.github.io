@@ -1,9 +1,9 @@
 var a13745 =
 [
-    [ "spell_eredar_twins_apply_touch", "d9/da9/a13745.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
-    [ "HandleApplyTouch", "d9/da9/a13745.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
-    [ "PrepareSpellScript", "d9/da9/a13745.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
-    [ "Register", "d9/da9/a13745.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
-    [ "Validate", "d9/da9/a13745.html#a36ff1d126191de7880d98242b3b714b5", null ],
-    [ "_touchSpell", "d9/da9/a13745.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
+    [ "npc_dark_fiend", "d9/da9/a13745.html#a8c4ebf7ba2f991df7053d40108330609", null ],
+    [ "DamageTaken", "d9/da9/a13745.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
+    [ "Reset", "d9/da9/a13745.html#a5622d14f84ad8e47da773852f1778d56", null ],
+    [ "UpdateAI", "d9/da9/a13745.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
+    [ "_lastVictimGUID", "d9/da9/a13745.html#abcccb35701f21d417e3c13709cc24281", null ],
+    [ "_spellCast", "d9/da9/a13745.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
 ];

@@ -1,7 +1,6 @@
 var a22781 =
 [
-    [ "OnPeriodic", "d1/dc4/a22781.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "d1/dc4/a22781.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "d1/dc4/a22781.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "d1/dc4/a22781.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "HandleEffectRemove", "d1/dc4/a22781.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
+    [ "PrepareAuraScript", "d1/dc4/a22781.html#a5fa56f4d61c63487919bb2080795e391", null ],
+    [ "Register", "d1/dc4/a22781.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
 ];

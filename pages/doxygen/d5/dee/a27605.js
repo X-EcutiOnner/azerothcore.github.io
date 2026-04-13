@@ -1,6 +1,5 @@
 var a27605 =
 [
-    [ "PeriodicTick", "d5/dee/a27605.html#a14e79a7bb4a5b11ddc74ab366e79a907", null ],
-    [ "PrepareAuraScript", "d5/dee/a27605.html#a0448cdf379053396f8649946e52ce690", null ],
-    [ "Register", "d5/dee/a27605.html#a2dab21ddb3c33341d560643d27042402", null ]
+    [ "achievement_bg_sa_artillery", "d5/dee/a27605.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "d5/dee/a27605.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

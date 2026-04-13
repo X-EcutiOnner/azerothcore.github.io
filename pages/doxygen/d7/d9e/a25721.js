@@ -1,7 +1,7 @@
 var a25721 =
 [
-    [ "HandlePeriodic", "d7/d9e/a25721.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
-    [ "PrepareAuraScript", "d7/d9e/a25721.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
-    [ "Register", "d7/d9e/a25721.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
-    [ "Validate", "d7/d9e/a25721.html#a55720e74edaf5eedf074738846ba6dd8", null ]
+    [ "HandleDummy", "d7/d9e/a25721.html#a5d95d2329c750692d9a4facae9ddf781", null ],
+    [ "PrepareSpellScript", "d7/d9e/a25721.html#a2699b3bc033bdd896d0f9a4b3c067354", null ],
+    [ "Register", "d7/d9e/a25721.html#a8d83f9e52ba19f75647e99760439c380", null ],
+    [ "Validate", "d7/d9e/a25721.html#a24610d5652ef85e883b1bac9256b30f7", null ]
 ];

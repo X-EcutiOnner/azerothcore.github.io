@@ -1,12 +1,7 @@
 var a18777 =
 [
-    [ "npc_raging_spiritAI", "d0/d99/a18777.html#a1c85351ae62d5f45381214373e64aec4", null ],
-    [ "AttackStart", "d0/d99/a18777.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
-    [ "CanAIAttack", "d0/d99/a18777.html#a64fa46f05861d8736d881aa3687f4320", null ],
-    [ "IsSummonedBy", "d0/d99/a18777.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
-    [ "JustDied", "d0/d99/a18777.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
-    [ "Reset", "d0/d99/a18777.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
-    [ "UpdateAI", "d0/d99/a18777.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
-    [ "_events", "d0/d99/a18777.html#af5783316983b622f20d8c677f2858111", null ],
-    [ "_instance", "d0/d99/a18777.html#aaa9b5728fcdb379849434385b3501251", null ]
+    [ "HandleForceCast", "d0/d99/a18777.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "d0/d99/a18777.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "d0/d99/a18777.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "d0/d99/a18777.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

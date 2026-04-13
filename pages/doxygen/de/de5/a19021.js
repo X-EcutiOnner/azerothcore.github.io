@@ -1,6 +1,8 @@
 var a19021 =
 [
-    [ "HandleScript", "de/de5/a19021.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
-    [ "PrepareSpellScript", "de/de5/a19021.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
-    [ "Register", "de/de5/a19021.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
+    [ "Class", "de/de5/a19021.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "de/de5/a19021.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
+    [ "id", "de/de5/a19021.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "de/de5/a19021.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "de/de5/a19021.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

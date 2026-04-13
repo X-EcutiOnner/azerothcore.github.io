@@ -1,8 +1,6 @@
 var a17001 =
 [
-    [ "npc_toc_pet_hunterAI", "de/dce/a17001.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
-    [ "EnterEvadeMode", "de/dce/a17001.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
-    [ "myCanCast", "de/dce/a17001.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
-    [ "UpdateAI", "de/dce/a17001.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
-    [ "events", "de/dce/a17001.html#ade038312363f976b34868ed2cbebb58d", null ]
+    [ "boss_trollgoreAI", "de/d5b/a17005.html", "de/d5b/a17005" ],
+    [ "boss_trollgore", "de/dce/a17001.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "de/dce/a17001.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

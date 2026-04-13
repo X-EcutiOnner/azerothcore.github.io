@@ -1,8 +1,9 @@
 var a12337 =
 [
-    [ "ironhand_guardianAI", "de/dd5/a12337.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "de/dd5/a12337.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "de/dd5/a12337.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "de/dd5/a12337.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "de/dd5/a12337.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "send_commandscript", "de/dd5/a12337.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
+    [ "GetCommands", "de/dd5/a12337.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
+    [ "HandleSendItemsCommand", "de/dd5/a12337.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
+    [ "HandleSendMailCommand", "de/dd5/a12337.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
+    [ "HandleSendMessageCommand", "de/dd5/a12337.html#a91017e6171ac9e4dfff6c2036228de47", null ],
+    [ "HandleSendMoneyCommand", "de/dd5/a12337.html#a26938bb54bb3cb678c49737a92cadb56", null ]
 ];

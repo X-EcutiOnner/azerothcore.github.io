@@ -1,6 +1,6 @@
 var a17557 =
 [
-    [ "npc_pos_icicle_triggerAI", "d3/d4e/a17561.html", "d3/d4e/a17561" ],
-    [ "npc_pos_icicle_trigger", "d1/db9/a17557.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "d1/db9/a17557.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "KnockIntoAir", "d1/db9/a17557.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "d1/db9/a17557.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "d1/db9/a17557.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

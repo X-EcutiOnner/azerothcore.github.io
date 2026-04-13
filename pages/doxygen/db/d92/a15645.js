@@ -1,10 +1,6 @@
 var a15645 =
 [
-    [ "boss_huhuran", "db/d92/a15645.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "db/d92/a15645.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "db/d92/a15645.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "db/d92/a15645.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "db/d92/a15645.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "db/d92/a15645.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "db/d92/a15645.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "npc_death_ravagerAI", "d4/d8d/a15649.html", "d4/d8d/a15649" ],
+    [ "npc_death_ravager", "db/d92/a15645.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "db/d92/a15645.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

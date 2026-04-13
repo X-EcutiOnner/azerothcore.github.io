@@ -1,7 +1,7 @@
 var a13917 =
 [
-    [ "npc_singularity", "db/dbb/a13917.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "FindAndFollowTarget", "db/dbb/a13917.html#a76c21129756dec05f6f2d88cebe948c5", null ],
-    [ "Reset", "db/dbb/a13917.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "db/dbb/a13917.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "npc_king_magni_bronzebeard", "db/dbb/a13917.html#af100ccf11c9d266be439318519280a9a", null ],
+    [ "JustDied", "db/dbb/a13917.html#a3323285cc5c4cee9df001e83584b8114", null ],
+    [ "JustEngagedWith", "db/dbb/a13917.html#a8c92169605d30c82f4699ff2b29101a6", null ],
+    [ "UpdateAI", "db/dbb/a13917.html#ad23891becf07d991c5ffc4f89719fa04", null ]
 ];

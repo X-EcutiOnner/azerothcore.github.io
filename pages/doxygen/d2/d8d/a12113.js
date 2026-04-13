@@ -1,21 +1,9 @@
 var a12113 =
 [
-    [ "disable_commandscript", "d2/d8d/a12113.html#ae49c0e3ad4aa3147194478180837c07e", null ],
-    [ "GetCommands", "d2/d8d/a12113.html#a5c0400ab0321c2d181f6288fd828c56a", null ],
-    [ "HandleAddDisableAchievementCriteriaCommand", "d2/d8d/a12113.html#a52376d1885f74d00589acb3443860df9", null ],
-    [ "HandleAddDisableBattlegroundCommand", "d2/d8d/a12113.html#a8a03b1d32ebf568222d28723c48f8f78", null ],
-    [ "HandleAddDisableMapCommand", "d2/d8d/a12113.html#aea64728b1a70aab3813190c4d5df3859", null ],
-    [ "HandleAddDisableOutdoorPvPCommand", "d2/d8d/a12113.html#a3c0250b78258394e78fd918dc43f90a2", null ],
-    [ "HandleAddDisableQuestCommand", "d2/d8d/a12113.html#a94537f796e64c68df4600041e2cc0da4", null ],
-    [ "HandleAddDisables", "d2/d8d/a12113.html#aaa2d58ba9e21e868ecbdbdfac0b6ebdf", null ],
-    [ "HandleAddDisableSpellCommand", "d2/d8d/a12113.html#a23ddab0c714a5adea49d14ecde36391b", null ],
-    [ "HandleAddDisableVmapCommand", "d2/d8d/a12113.html#aa1df5e4cbc89182eb9e31b4fa9a5325f", null ],
-    [ "HandleRemoveDisableAchievementCriteriaCommand", "d2/d8d/a12113.html#ac5088383c36894c7bd753ee99086e508", null ],
-    [ "HandleRemoveDisableBattlegroundCommand", "d2/d8d/a12113.html#a9b67a979abb6cde08b4926606a35bf93", null ],
-    [ "HandleRemoveDisableMapCommand", "d2/d8d/a12113.html#ab0d61b762d728c1a35e20cda3c347c55", null ],
-    [ "HandleRemoveDisableOutdoorPvPCommand", "d2/d8d/a12113.html#a0dfe1ac5224935dd42c6a30daf6cc099", null ],
-    [ "HandleRemoveDisableQuestCommand", "d2/d8d/a12113.html#a60e20d885194bbff5da3e824e05a35b2", null ],
-    [ "HandleRemoveDisables", "d2/d8d/a12113.html#a529428b7674ca3446a441bdf65fab756", null ],
-    [ "HandleRemoveDisableSpellCommand", "d2/d8d/a12113.html#aaa457682d8621801d457eb734673d745", null ],
-    [ "HandleRemoveDisableVmapCommand", "d2/d8d/a12113.html#aae06939a2fc52aedce54a75db4b3c218", null ]
+    [ "map", "d2/d8d/a12113.html#a274c6d61203c24b3c680055244e1f590", null ],
+    [ "mouth", "d2/d8d/a12113.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
+    [ "mouthGuid", "d2/d8d/a12113.html#a2245c14e379c83bdd47165e829de2e41", null ],
+    [ "necropolisCount", "d2/d8d/a12113.html#aec44e315616920ba8224be8c4831f5e9", null ],
+    [ "remainingNecropoli", "d2/d8d/a12113.html#a3c18c61fcd44c32f9e0009479db85399", null ],
+    [ "zoneId", "d2/d8d/a12113.html#a98e1490705f74627cf9e5483857f3f25", null ]
 ];

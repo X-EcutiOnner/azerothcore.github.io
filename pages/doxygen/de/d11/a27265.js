@@ -1,6 +1,7 @@
 var a27265 =
 [
-    [ "HandleSendEvent", "de/d11/a27265.html#a8126102215aa6eedd638b89d1a6b7110", null ],
-    [ "PrepareSpellScript", "de/d11/a27265.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
-    [ "Register", "de/d11/a27265.html#ac37abad48c398bdb22529c1a44327d34", null ]
+    [ "HandleAuraApply", "de/d11/a27265.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "de/d11/a27265.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "de/d11/a27265.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "de/d11/a27265.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

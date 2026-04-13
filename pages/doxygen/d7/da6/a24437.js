@@ -1,5 +1,7 @@
 var a24437 =
 [
-    [ "npc_pet_pri_lightwell", "d7/da6/a24437.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d7/da6/a24437.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "CalculateAmount", "d7/da6/a24437.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
+    [ "Load", "d7/da6/a24437.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
+    [ "PrepareAuraScript", "d7/da6/a24437.html#a93df43072a344485c389160306b1fecd", null ],
+    [ "Register", "d7/da6/a24437.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
 ];

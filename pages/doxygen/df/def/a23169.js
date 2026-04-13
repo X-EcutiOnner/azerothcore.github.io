@@ -1,6 +1,7 @@
 var a23169 =
 [
-    [ "HandleScriptEffect", "df/def/a23169.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
-    [ "PrepareSpellScript", "df/def/a23169.html#ae80b4ca96692035c399d1621b632fe66", null ],
-    [ "Register", "df/def/a23169.html#ac655157c74104a51f045e114fc63a42d", null ]
+    [ "boss_the_maker", "df/def/a23169.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "df/def/a23169.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "df/def/a23169.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "df/def/a23169.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

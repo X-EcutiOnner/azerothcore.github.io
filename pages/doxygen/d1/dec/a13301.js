@@ -1,17 +1,10 @@
 var a13301 =
 [
-    [ "npc_barnesAI", "d1/dec/a13301.html#acf165009e5b2164d8244e709043eba09", null ],
-    [ "JustEngagedWith", "d1/dec/a13301.html#a1f24ea5604563c9a16c5a2a91ae078f1", null ],
-    [ "PrepareEncounter", "d1/dec/a13301.html#acdefdf68be1d870f76cbd0e329e3c890", null ],
-    [ "Reset", "d1/dec/a13301.html#a67ee1ef5c6012e499a9d9d7b77938fbe", null ],
-    [ "StartEvent", "d1/dec/a13301.html#ab5ed76e189150b2bb8a57095289246fe", null ],
-    [ "Talk", "d1/dec/a13301.html#a8a5c4a97e9093220a5d8642fcf6ceece", null ],
-    [ "UpdateAI", "d1/dec/a13301.html#a19c6ac3829ae4c38263eda116d56df88", null ],
-    [ "WaypointReached", "d1/dec/a13301.html#acae5cbc4bcbe91b6810d649385a889a9", null ],
-    [ "instance", "d1/dec/a13301.html#a9094deb17c0c77c968bbfb4f9f05e521", null ],
-    [ "m_uiEventId", "d1/dec/a13301.html#a47ac00c081635aeba9ef02a7f1bbd645", null ],
-    [ "m_uiSpotlightGUID", "d1/dec/a13301.html#aceae6d1588aec9035fb80678af32e96c", null ],
-    [ "PerformanceReady", "d1/dec/a13301.html#a27a8ceb27724f074de840d24dcf0e284", null ],
-    [ "TalkCount", "d1/dec/a13301.html#a555a152b2f4981dc824a6fb0f66b5702", null ],
-    [ "TalkTimer", "d1/dec/a13301.html#afa7fd12da57b887f1254e24d444f43d1", null ]
+    [ "npc_scarlet_courierAI", "d1/dec/a13301.html#a83c5e32659d38a513790322e46dcc283", null ],
+    [ "JustEngagedWith", "d1/dec/a13301.html#aa470197f0949a413c421bda8c7c09279", null ],
+    [ "MovementInform", "d1/dec/a13301.html#add19812d92d62b602f96ffc5fb513d6c", null ],
+    [ "Reset", "d1/dec/a13301.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
+    [ "UpdateAI", "d1/dec/a13301.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
+    [ "uiStage", "d1/dec/a13301.html#a2f920922f8c6f1a878d0e4978e081257", null ],
+    [ "uiStage_timer", "d1/dec/a13301.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
 ];

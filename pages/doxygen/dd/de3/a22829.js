@@ -1,6 +1,6 @@
 var a22829 =
 [
-    [ "HandleSharedRule", "dd/de3/a22829.html#a94b783490dafae872b65e0bbfed156b9", null ],
-    [ "PrepareSpellScript", "dd/de3/a22829.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
-    [ "Register", "dd/de3/a22829.html#a31f2d90059e62da77a719a192d62328b", null ]
+    [ "HandleDummy", "dd/de3/a22829.html#a3347413822ce083085bcf1418fbdbae2", null ],
+    [ "PrepareSpellScript", "dd/de3/a22829.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
+    [ "Register", "dd/de3/a22829.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
 ];

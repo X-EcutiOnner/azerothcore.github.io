@@ -1,12 +1,16 @@
 var a19885 =
 [
-    [ "npc_oculus_drakeAI", "d6/dac/a19885.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "d6/dac/a19885.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "d6/dac/a19885.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "d6/dac/a19885.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "d6/dac/a19885.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "d6/dac/a19885.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "d6/dac/a19885.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "d6/dac/a19885.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "d6/dac/a19885.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "boss_runemaster_molgeim", "d6/dac/a19885.html#ae465b567aeba025d2fde3baa94e55e1e", null ],
+    [ "JustDied", "d6/dac/a19885.html#af278ce3237940684aa9909915e6d6962", null ],
+    [ "JustEngagedWith", "d6/dac/a19885.html#a2d779d09adfd1f19ce3655d8e9740a9f", null ],
+    [ "JustReachedHome", "d6/dac/a19885.html#a0597a7360c24899e9f74f1d3f289e9c5", null ],
+    [ "KilledUnit", "d6/dac/a19885.html#a33c0a2d070cf6d3d850c840b048de251", null ],
+    [ "Reset", "d6/dac/a19885.html#a9f8cca601307af0475141d6b8370199a", null ],
+    [ "SpellHit", "d6/dac/a19885.html#a8d05dd3f38eb24cf5be700328a874ff1", null ],
+    [ "UpdateAI", "d6/dac/a19885.html#ad8f1b523299c7a2c3dd9013fa211a090", null ],
+    [ "UpdatePhase", "d6/dac/a19885.html#a40d0466bfbe6fae8435fb4921bca6c1a", null ],
+    [ "_phase", "d6/dac/a19885.html#af1a8f1bf6dbf24890686c8acbf83dc2d", null ],
+    [ "events", "d6/dac/a19885.html#a277b45a2b2399b91650907de2fb86b89", null ],
+    [ "pInstance", "d6/dac/a19885.html#adfbc84f0922e69b38723ecbc7eeead62", null ],
+    [ "summons", "d6/dac/a19885.html#a148c913fcc44c8dfd05260d76d389538", null ]
 ];

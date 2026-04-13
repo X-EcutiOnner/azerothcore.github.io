@@ -1,7 +1,6 @@
 var a24581 =
 [
-    [ "CheckCast", "d8/d02/a24581.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d8/d02/a24581.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d8/d02/a24581.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d8/d02/a24581.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "HandleScript", "d8/d02/a24581.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
+    [ "PrepareSpellScript", "d8/d02/a24581.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
+    [ "Register", "d8/d02/a24581.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
 ];

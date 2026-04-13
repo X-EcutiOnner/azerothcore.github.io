@@ -1,6 +1,7 @@
 var a23069 =
 [
-    [ "boss_doomlordkazzakAI", "d8/dda/a23073.html", "d8/dda/a23073" ],
-    [ "boss_doomlord_kazzak", "d1/de9/a23069.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "d1/de9/a23069.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "HandleScript", "d1/de9/a23069.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
+    [ "PrepareSpellScript", "d1/de9/a23069.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
+    [ "Register", "d1/de9/a23069.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
+    [ "Validate", "d1/de9/a23069.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
 ];

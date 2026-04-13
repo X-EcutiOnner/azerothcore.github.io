@@ -1,16 +1,20 @@
 var a00398 =
 [
-    [ "frand", "d9/dd1/a00398.html#a19bd31014583536af788a65b398e4406", null ],
-    [ "GetRng", "d9/dd1/a00398.html#a8602a67daa881e92c3eb9204c88b7733", null ],
-    [ "irand", "d9/dd1/a00398.html#a6ae07d2bb0593d8339e65c136f63ecc0", null ],
-    [ "rand32", "d9/dd1/a00398.html#ac699324b85bb2266ea8978796967c541", null ],
-    [ "rand_chance", "d9/dd1/a00398.html#a66621d09a8cc2aa9476391004fe2c427", null ],
-    [ "rand_norm", "d9/dd1/a00398.html#af2f9363ceebb6f78067b4a146d1de9df", null ],
-    [ "randtime", "d9/dd1/a00398.html#a9ecda65ea9686c86f47934d04d38ec69", null ],
-    [ "randtime", "d9/dd1/a00398.html#a7c8533961af63b720553e868fdaabd85", null ],
-    [ "urand", "d9/dd1/a00398.html#ab17def34ccbbd868dc87a16bf35acdbd", null ],
-    [ "urandms", "d9/dd1/a00398.html#af901d57f29ff48f701a375e44a0f1261", null ],
-    [ "urandweighted", "d9/dd1/a00398.html#a3f7e714c8fc3a6f6ccbe91d524a84f23", null ],
-    [ "engine", "d9/dd1/a00398.html#a8ab11e2fa939d9f333dfa1a858e7690b", null ],
-    [ "sfmtRand", "d9/dd1/a00398.html#a131ba7587aa544a7e73ff9884d6bc784", null ]
+    [ "WardenCheck", "de/deb/a12033.html", "de/deb/a12033" ],
+    [ "WardenCheckResult", "df/d0b/a12037.html", "df/d0b/a12037" ],
+    [ "WardenCheckMgr", "d3/dc5/a12041.html", "d3/dc5/a12041" ],
+    [ "sWardenCheckMgr", "d9/dd1/a00398.html#a367963ecc82479f8bea3aea9e235a85c", null ],
+    [ "WardenActions", "d9/dd1/a00398.html#acd25f1c729cc9c78338c6bc117dcd5e1", [
+      [ "WARDEN_ACTION_LOG", "d9/dd1/a00398.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81", null ],
+      [ "WARDEN_ACTION_KICK", "d9/dd1/a00398.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13", null ],
+      [ "WARDEN_ACTION_BAN", "d9/dd1/a00398.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0", null ]
+    ] ],
+    [ "WardenCheckTypes", "d9/dd1/a00398.html#ad353d1b1b229bf72b97440ac296da2f0", [
+      [ "WARDEN_CHECK_MEM_TYPE", "d9/dd1/a00398.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3", null ],
+      [ "WARDEN_CHECK_LUA_TYPE", "d9/dd1/a00398.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af", null ],
+      [ "WARDEN_CHECK_OTHER_TYPE", "d9/dd1/a00398.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2", null ]
+    ] ],
+    [ "MAX_WARDEN_ACTION", "d9/dd1/a00398.html#afa0b1cff6db4dd71ef500011182f2834", null ],
+    [ "MAX_WARDEN_CHECK_TYPES", "d9/dd1/a00398.html#a80604a840828219101f07100a7a48dad", null ],
+    [ "WARDEN_MAX_LUA_CHECK_LENGTH", "d9/dd1/a00398.html#a005df8388201fb598a4eedfeac422fbc", null ]
 ];

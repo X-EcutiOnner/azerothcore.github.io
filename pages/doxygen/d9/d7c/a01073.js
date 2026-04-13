@@ -1,59 +1,25 @@
 var a01073 =
 [
-    [ "boss_apothecary_hummel", "d2/dbe/a13426.html", "d2/dbe/a13426" ],
-    [ "boss_apothecary_hummel::boss_apothecary_hummelAI", "df/d01/a13430.html", "df/d01/a13430" ],
-    [ "npc_apothecary_genericAI", "d9/dae/a13434.html", "d9/dae/a13434" ],
-    [ "npc_apothecary_frye", "d3/d87/a13438.html", "d3/d87/a13438" ],
-    [ "npc_apothecary_baxter", "df/d28/a13442.html", "df/d28/a13442" ],
-    [ "spell_apothecary_lingering_fumes", "d4/daf/a13446.html", "d4/daf/a13446" ],
-    [ "spell_apothecary_validate_area", "d3/d9e/a13450.html", "d3/d9e/a13450" ],
-    [ "spell_apothecary_throw_cologne", "d9/d43/a13454.html", "d9/d43/a13454" ],
-    [ "spell_apothecary_throw_perfume", "d0/db9/a13458.html", "d0/db9/a13458" ],
-    [ "spell_apothecary_perfume_spill", "d4/df0/a13462.html", "d4/df0/a13462" ],
-    [ "spell_apothecary_cologne_spill", "d0/d4d/a13466.html", "d0/d4d/a13466" ],
-    [ "ApothecaryMisc", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cf", [
-      [ "ACTION_START_EVENT", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9", null ],
-      [ "ACTION_START_FIGHT", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a", null ],
-      [ "GOSSIP_OPTION_START", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc", null ],
-      [ "GOSSIP_MENU_HUMMEL", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199", null ],
-      [ "QUEST_YOUVE_BEEN_SERVED", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26", null ],
-      [ "NPC_APOTHECARY_FRYE", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5", null ],
-      [ "NPC_APOTHECARY_BAXTER", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cfa767550e8e2397ec4a5c3e3a95db51c6b", null ],
-      [ "NPC_VIAL_BUNNY", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cfa6d34ef27621fd6744c37d007684718f8", null ],
-      [ "NPC_CROWN_APOTHECARY", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520", null ],
-      [ "PHASE_ALL", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe", null ],
-      [ "PHASE_INTRO", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203", null ],
-      [ "PHASE_COMBAT", "d9/d7c/a01073.html#a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825", null ]
+    [ "PlayerDump", "d9/de1/a11993.html", "d9/de1/a11993" ],
+    [ "PlayerDumpWriter", "d3/ddf/a11997.html", "d3/ddf/a11997" ],
+    [ "PlayerDumpReader", "d9/da0/a12001.html", "d9/da0/a12001" ],
+    [ "DumpReturn", "d9/d7c/a01073.html#a4471667403db9bc7532f371d28743866", [
+      [ "DUMP_SUCCESS", "d9/d7c/a01073.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
+      [ "DUMP_FILE_OPEN_ERROR", "d9/d7c/a01073.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
+      [ "DUMP_TOO_MANY_CHARS", "d9/d7c/a01073.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
+      [ "DUMP_FILE_BROKEN", "d9/d7c/a01073.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
+      [ "DUMP_CHARACTER_DELETED", "d9/d7c/a01073.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
     ] ],
-    [ "ApothecarySays", "d9/d7c/a01073.html#a6edaee5ce05b16d8360c059a2718a302", [
-      [ "SAY_INTRO_0", "d9/d7c/a01073.html#a6edaee5ce05b16d8360c059a2718a302ab67c13990cd545e383e96877a2f2c102", null ],
-      [ "SAY_INTRO_1", "d9/d7c/a01073.html#a6edaee5ce05b16d8360c059a2718a302a5d62121fc78e6a1cfc703c5caba40b23", null ],
-      [ "SAY_INTRO_2", "d9/d7c/a01073.html#a6edaee5ce05b16d8360c059a2718a302a262c474ec2073ec78c48eb44023e0069", null ],
-      [ "SAY_CALL_BAXTER", "d9/d7c/a01073.html#a6edaee5ce05b16d8360c059a2718a302a9674e0b6f0f4d0ea65fb2377204ba0b8", null ],
-      [ "SAY_CALL_FRYE", "d9/d7c/a01073.html#a6edaee5ce05b16d8360c059a2718a302aecf0479145c53d045a90ad70e2a59d6d", null ],
-      [ "SAY_HUMMEL_DEATH", "d9/d7c/a01073.html#a6edaee5ce05b16d8360c059a2718a302afdac4195099aa5b26bced2feaace598f", null ],
-      [ "SAY_SUMMON_ADDS", "d9/d7c/a01073.html#a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f", null ],
-      [ "SAY_BAXTER_DEATH", "d9/d7c/a01073.html#a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4", null ],
-      [ "SAY_FRYE_DEATH", "d9/d7c/a01073.html#a6edaee5ce05b16d8360c059a2718a302a893047362d85cb096ff4abaf274fe7f8", null ]
-    ] ],
-    [ "ApothecarySpells", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340e", [
-      [ "SPELL_ALLURING_PERFUME", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340ea69e62e4d2a0c36190609d18be6674684", null ],
-      [ "SPELL_PERFUME_SPRAY", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28", null ],
-      [ "SPELL_CHAIN_REACTION", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340ea95ae132067c31fcc5af6b66e12581081", null ],
-      [ "SPELL_SUMMON_TABLE", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04", null ],
-      [ "SPELL_PERMANENT_FEIGN_DEATH", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4", null ],
-      [ "SPELL_QUIET_SUICIDE", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340ead860f54409f76f306c7f49aad1365de5", null ],
-      [ "SPELL_COLOGNE_SPRAY", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902", null ],
-      [ "SPELL_VALIDATE_AREA", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340ea63e5ea59169bf85814945448afb792df", null ],
-      [ "SPELL_THROW_COLOGNE", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340eadbd7d9f1050873a59721ce23dab4aa90", null ],
-      [ "SPELL_BUNNY_LOCKDOWN", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340eacca7aad4d6e4f18aae288ac50699630d", null ],
-      [ "SPELL_THROW_PERFUME", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340ea56000b1d92ac98403554f3ad14c37daa", null ],
-      [ "SPELL_PERFUME_SPILL", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23", null ],
-      [ "SPELL_COLOGNE_SPILL", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340ea73c84cecf746db87cde2d73e163ce8f4", null ],
-      [ "SPELL_PERFUME_SPILL_DAMAGE", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340ea8f376fef41ce78675e6973a885d0d8aa", null ],
-      [ "SPELL_COLOGNE_SPILL_DAMAGE", "d9/d7c/a01073.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f", null ]
-    ] ],
-    [ "AddSC_boss_apothecary_hummel", "d9/d7c/a01073.html#aae2a7d6c56f8a7f3dff6f6146ec59a73", null ],
-    [ "BaxterMovePos", "d9/d7c/a01073.html#a8ff29d1fe0be700e07d22e86b6593b69", null ],
-    [ "FryeMovePos", "d9/d7c/a01073.html#a4e21cd5458c7f5e47183151858fd0776", null ]
+    [ "DumpTableType", "d9/d7c/a01073.html#ad4739d865080bb5590831b606365e7ef", [
+      [ "DTT_CHARACTER", "d9/d7c/a01073.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
+      [ "DTT_CHAR_TABLE", "d9/d7c/a01073.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
+      [ "DTT_EQSET_TABLE", "d9/d7c/a01073.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
+      [ "DTT_INVENTORY", "d9/d7c/a01073.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
+      [ "DTT_MAIL", "d9/d7c/a01073.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
+      [ "DTT_MAIL_ITEM", "d9/d7c/a01073.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
+      [ "DTT_ITEM", "d9/d7c/a01073.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
+      [ "DTT_ITEM_GIFT", "d9/d7c/a01073.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
+      [ "DTT_PET", "d9/d7c/a01073.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
+      [ "DTT_PET_TABLE", "d9/d7c/a01073.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
+    ] ]
 ];

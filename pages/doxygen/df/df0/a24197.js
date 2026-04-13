@@ -1,20 +1,12 @@
 var a24197 =
 [
-    [ "npc_lord_illidan_stormrageAI", "df/df0/a24197.html#a3b48b42c72b51bbdb222f6cd03e50ec8", null ],
-    [ "AttackStart", "df/df0/a24197.html#a5f73b83a07f24403cf55de7ef485c003", null ],
-    [ "CheckEventFail", "df/df0/a24197.html#aef1607c2132ae78b45d4f209a4320a88", null ],
-    [ "JustEngagedWith", "df/df0/a24197.html#af7166b3c7401a74615cdb5c0964200f6", null ],
-    [ "LiveCounter", "df/df0/a24197.html#a625b2891d3f9807da7733f678ea29313", null ],
-    [ "MoveInLineOfSight", "df/df0/a24197.html#a5c2313ac5767339cd26196f52ff05c5f", null ],
-    [ "Reset", "df/df0/a24197.html#a035b85302d54adf9bd7af82cadfd0317", null ],
-    [ "SummonNextWave", "df/df0/a24197.html#a240ee54d49248a1700e767568fe93648", null ],
-    [ "UpdateAI", "df/df0/a24197.html#a9cf7d73c5f81980c08f785dc3af47dec", null ],
-    [ "Announced", "df/df0/a24197.html#a448ba6e2b21273b8e07b6d0a79e856e2", null ],
-    [ "AnnounceTimer", "df/df0/a24197.html#a7037e4b43f274f3e2ce45143c029b070", null ],
-    [ "EventStarted", "df/df0/a24197.html#a41b3b39d2ea0eeca4b60960f3a903ee8", null ],
-    [ "Failed", "df/df0/a24197.html#aba564e34f0358d6c2a3c6ae91e17bf10", null ],
-    [ "LiveCount", "df/df0/a24197.html#ab86239a6470a82749f96eb5515c46c59", null ],
-    [ "PlayerGUID", "df/df0/a24197.html#af30c5c09f0262479b8920269f7bf198a", null ],
-    [ "WaveCount", "df/df0/a24197.html#abdd03400f582e9477bb376e2b34e7a0e", null ],
-    [ "WaveTimer", "df/df0/a24197.html#ae727157e6b52817051fea075c2cb7cb1", null ]
+    [ "CheckTarget", "df/df0/a24197.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
+    [ "CheckTargets", "df/df0/a24197.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
+    [ "HandleCorpseExplosion", "df/df0/a24197.html#a201de2ee86d0cf954117df0e5343ee69", null ],
+    [ "HandleDamage", "df/df0/a24197.html#a810fc65eb5d7160366d63210bad9caea", null ],
+    [ "Load", "df/df0/a24197.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
+    [ "PrepareSpellScript", "df/df0/a24197.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
+    [ "Register", "df/df0/a24197.html#a9e67ea51300569a0e163cb3e427b086e", null ],
+    [ "Validate", "df/df0/a24197.html#a93984e8b831cb4c37ec2726d44532d43", null ],
+    [ "_target", "df/df0/a24197.html#a5028b9d3166270b2b0557943e962eade", null ]
 ];

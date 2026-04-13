@@ -1,6 +1,21 @@
 var a16673 =
 [
-    [ "boss_saviana_ragefireAI", "d3/d6d/a16677.html", "d3/d6d/a16677" ],
-    [ "boss_saviana_ragefire", "da/d18/a16673.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "da/d18/a16673.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "boss_faction_championsAI", "da/d18/a16673.html#aec4455c8bdd8d0629b9c3f17178818b6", null ],
+    [ "AttackStart", "da/d18/a16673.html#a465492574894303cbce6df2107b87252", null ],
+    [ "EnemiesInRange", "da/d18/a16673.html#acbb166d6ac50f11eae591ddf1dbba917", null ],
+    [ "EnterEvadeMode", "da/d18/a16673.html#a81f01bf15e7d7d647fa01da165ee0896", null ],
+    [ "EventMapGCD", "da/d18/a16673.html#ad5d17a7895d0c92f8c63fe5689564569", null ],
+    [ "GetThreatMod", "da/d18/a16673.html#aae5bc496f0f17c2167dd8a47c8ae40cd", null ],
+    [ "IsCCed", "da/d18/a16673.html#a6df04b369e7a85e6779228f8a7657ba7", null ],
+    [ "JustDied", "da/d18/a16673.html#aa8976d148ac4882063787f144ebeeea8", null ],
+    [ "JustEngagedWith", "da/d18/a16673.html#a3c8e2e446e6325597f1687201698a2c6", null ],
+    [ "KilledUnit", "da/d18/a16673.html#ac49f6c9994484a6d905362fd66ccf81e", null ],
+    [ "RecalculateThreat", "da/d18/a16673.html#a435b28bf38824d8b36bc6cf105d2dcf2", null ],
+    [ "SelectEnemyCaster", "da/d18/a16673.html#a81a318b636472e15624d01ecf3be65fb", null ],
+    [ "SelectTarget_MostHPLostFriendlyMissingBuff", "da/d18/a16673.html#aea6f9e045fb3866cef15d890f63766d8", null ],
+    [ "UpdateAI", "da/d18/a16673.html#a6c93329b33c0fa469b04622cff1aa517", null ],
+    [ "mAIType", "da/d18/a16673.html#acff880f98ff81d25d02224931fe8ff93", null ],
+    [ "pInstance", "da/d18/a16673.html#a546bff05f2ca0e8e4c8371bfd4d6ed79", null ],
+    [ "powerTimer", "da/d18/a16673.html#a38394cc3ee369fb5bb580d3702792604", null ],
+    [ "threatTimer", "da/d18/a16673.html#a6aa684c94874d3a3bcd7150b0d7cd04b", null ]
 ];

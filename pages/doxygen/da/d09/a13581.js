@@ -1,7 +1,7 @@
 var a13581 =
 [
-    [ "HandleScript", "da/d09/a13581.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
-    [ "PrepareSpellScript", "da/d09/a13581.html#a034195e58f02225c172b70c3967fe3ad", null ],
-    [ "Register", "da/d09/a13581.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
-    [ "Validate", "da/d09/a13581.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
+    [ "CheckCast", "da/d09/a13581.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "da/d09/a13581.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "da/d09/a13581.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "da/d09/a13581.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

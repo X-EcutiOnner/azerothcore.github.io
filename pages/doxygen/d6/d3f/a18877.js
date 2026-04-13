@@ -1,7 +1,6 @@
 var a18877 =
 [
-    [ "OnPeriodic", "d6/d3f/a18877.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "d6/d3f/a18877.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "d6/d3f/a18877.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "d6/d3f/a18877.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "npc_frostwing_vrykulAI", "d4/d8e/a18881.html", "d4/d8e/a18881" ],
+    [ "npc_frostwing_vrykul", "d6/d3f/a18877.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "d6/d3f/a18877.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

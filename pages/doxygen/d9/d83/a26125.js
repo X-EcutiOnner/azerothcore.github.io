@@ -1,6 +1,5 @@
 var a26125 =
 [
-    [ "HandleDummy", "d9/d83/a26125.html#a9530db7f75987879285d224fb8381c2b", null ],
-    [ "PrepareSpellScript", "d9/d83/a26125.html#ad1c1bdb577739f769802127960aaf9e5", null ],
-    [ "Register", "d9/d83/a26125.html#ae3a340132caf3f8839631c92015d47a0", null ]
+    [ "Trigger", "d9/d83/a26125.html#aa16aba75a066e83cb56660a0e29e7453", null ],
+    [ "Validate", "d9/d83/a26125.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
 ];

@@ -1,6 +1,7 @@
 var a24357 =
 [
-    [ "achievement", "d0/d8b/a24357.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d0/d8b/a24357.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d0/d8b/a24357.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "AfterApply", "d0/d8b/a24357.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "d0/d8b/a24357.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "d0/d8b/a24357.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "d0/d8b/a24357.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

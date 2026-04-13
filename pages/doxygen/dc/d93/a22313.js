@@ -1,6 +1,7 @@
 var a22313 =
 [
-    [ "HandleDamage", "dc/d93/a22313.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "dc/d93/a22313.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "dc/d93/a22313.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "npc_voidtraveler", "dc/d93/a22313.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "dc/d93/a22313.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "dc/d93/a22313.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "dc/d93/a22313.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

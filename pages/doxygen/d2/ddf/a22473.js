@@ -1,13 +1,9 @@
 var a22473 =
 [
-    [ "OPvPCapturePointEP_PWT", "d2/ddf/a22473.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
-    [ "ChangeState", "d2/ddf/a22473.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
-    [ "FillInitialWorldStates", "d2/ddf/a22473.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
-    [ "HandlePlayerEnter", "d2/ddf/a22473.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
-    [ "HandlePlayerLeave", "d2/ddf/a22473.html#a5772e54263c613eee365856def5e74e6", null ],
-    [ "SendChangePhase", "d2/ddf/a22473.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
-    [ "SummonFlightMaster", "d2/ddf/a22473.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
-    [ "UpdateTowerState", "d2/ddf/a22473.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
-    [ "m_FlightMasterSpawnedId", "d2/ddf/a22473.html#afeefd804849b925e6d0a880d8efb5319", null ],
-    [ "m_TowerState", "d2/ddf/a22473.html#a914dcbb37baf457750cfe9829d95d88c", null ]
+    [ "HandleAfterCast", "d2/ddf/a22473.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "d2/ddf/a22473.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "d2/ddf/a22473.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "d2/ddf/a22473.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "d2/ddf/a22473.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "d2/ddf/a22473.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

@@ -1,10 +1,10 @@
 var a24381 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "d8/db3/a24381.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "d8/db3/a24381.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "d8/db3/a24381.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "d8/db3/a24381.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "d8/db3/a24381.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "d8/db3/a24381.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "d8/db3/a24381.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "CalculateAPAmount", "d8/db3/a24381.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
+    [ "CalculateResistanceAmount", "d8/db3/a24381.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
+    [ "CalculateSPAmount", "d8/db3/a24381.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
+    [ "CalculateStatAmount", "d8/db3/a24381.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
+    [ "HandleEffectApply", "d8/db3/a24381.html#aeebb14424a6ae336edd4b66d824d648a", null ],
+    [ "PrepareAuraScript", "d8/db3/a24381.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
+    [ "Register", "d8/db3/a24381.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
 ];

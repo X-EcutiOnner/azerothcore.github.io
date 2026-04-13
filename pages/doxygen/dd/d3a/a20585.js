@@ -1,6 +1,6 @@
 var a20585 =
 [
-    [ "FilterTargets", "dd/d3a/a20585.html#ae8d940a89be9b63286911bd55dcd3844", null ],
-    [ "PrepareSpellScript", "dd/d3a/a20585.html#a8f4b4d82e53c8f820b620896478681a9", null ],
-    [ "Register", "dd/d3a/a20585.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
+    [ "x", "dd/d3a/a20585.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "dd/d3a/a20585.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "dd/d3a/a20585.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

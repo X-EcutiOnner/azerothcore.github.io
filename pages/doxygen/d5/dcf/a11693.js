@@ -1,7 +1,7 @@
 var a11693 =
 [
-    [ "maxvalue", "d5/dcf/a11693.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "d5/dcf/a11693.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "d5/dcf/a11693.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "d5/dcf/a11693.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "SpellImmune", "d5/dcf/a11693.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "d5/dcf/a11693.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "d5/dcf/a11693.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "d5/dcf/a11693.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

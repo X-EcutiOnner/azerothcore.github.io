@@ -1,6 +1,6 @@
 var a12377 =
 [
-    [ "boss_ambassador_flamelashAI", "dd/dea/a12381.html", "dd/dea/a12381" ],
-    [ "boss_ambassador_flamelash", "d1/da3/a12377.html#a53d24a240e48033b0474970e8acac1f4", null ],
-    [ "GetAI", "d1/da3/a12377.html#a332e347d803a58989445ec57d75361ab", null ]
+    [ "npc_av_marshal_or_warmasterAI", "dd/dea/a12381.html", "dd/dea/a12381" ],
+    [ "npc_av_marshal_or_warmaster", "d1/da3/a12377.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
+    [ "GetAI", "d1/da3/a12377.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
 ];

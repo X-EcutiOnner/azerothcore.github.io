@@ -1,6 +1,7 @@
 var a26637 =
 [
-    [ "CalculateAmount", "df/db0/a26637.html#acc2c4cea16dfa30c49387ac166cef560", null ],
-    [ "PrepareAuraScript", "df/db0/a26637.html#a8d7e840994ba5034a249171dbfc016a6", null ],
-    [ "Register", "df/db0/a26637.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
+    [ "HandleEffectRemove", "df/db0/a26637.html#a814687d3938e966f8721438e1a722f77", null ],
+    [ "PrepareAuraScript", "df/db0/a26637.html#a2144b0602501471a4001883ce9de6db3", null ],
+    [ "Register", "df/db0/a26637.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
+    [ "AuraEffectHandleModes", "df/db0/a26637.html#ab291f6c6f269ec7004df39a043f49efd", null ]
 ];

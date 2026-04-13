@@ -1,6 +1,8 @@
 var a15629 =
 [
-    [ "OnPeriodic", "d7/d2a/a15629.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "d7/d2a/a15629.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "d7/d2a/a15629.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "npc_injured_draeneiAI", "d7/d2a/a15629.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "d7/d2a/a15629.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "d7/d2a/a15629.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "d7/d2a/a15629.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "d7/d2a/a15629.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

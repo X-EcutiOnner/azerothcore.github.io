@@ -1,6 +1,7 @@
 var a23925 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d5/ded/a23929.html", "d5/ded/a23929" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "db/dca/a23925.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "db/dca/a23925.html#a250707096229da28024960beeb7725bf", null ]
+    [ "HandleSendEvent", "db/dca/a23925.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "db/dca/a23925.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "db/dca/a23925.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "db/dca/a23925.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

@@ -1,20 +1,21 @@
 var a04451 =
 [
-    [ "CreatureTextEntry", "d8/de7/a11922.html", "d8/de7/a11922" ],
-    [ "CreatureTextLocale", "d7/d40/a11926.html", "d7/d40/a11926" ],
-    [ "CreatureTextId", "d9/de9/a11930.html", "d9/de9/a11930" ],
-    [ "CreatureTextMgr", "d7/d50/a11934.html", "d7/d50/a11934" ],
-    [ "CreatureTextLocalizer< Builder >", "da/d2b/a11938.html", "da/d2b/a11938" ],
-    [ "sCreatureTextMgr", "d0/d73/a04451.html#a2dc428da007cefe454220dcb355a1cde", null ],
-    [ "CreatureTextGroup", "d0/d73/a04451.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
-    [ "CreatureTextHolder", "d0/d73/a04451.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
-    [ "CreatureTextMap", "d0/d73/a04451.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
-    [ "LocaleCreatureTextMap", "d0/d73/a04451.html#ab39b2d82775a84108d19ed009bd14747", null ],
-    [ "CreatureTextRange", "d0/d73/a04451.html#adf847039afbebeda9e21210c1f4eb052", [
-      [ "TEXT_RANGE_NORMAL", "d0/d73/a04451.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
-      [ "TEXT_RANGE_AREA", "d0/d73/a04451.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
-      [ "TEXT_RANGE_ZONE", "d0/d73/a04451.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
-      [ "TEXT_RANGE_MAP", "d0/d73/a04451.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
-      [ "TEXT_RANGE_WORLD", "d0/d73/a04451.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
-    ] ]
+    [ "map_fileheader", "dd/d76/a09405.html", "dd/d76/a09405" ],
+    [ "map_heightHeader", "de/d56/a09413.html", "de/d56/a09413" ],
+    [ "map_liquidHeader", "d9/d5a/a09417.html", "d9/d5a/a09417" ],
+    [ "MAP_HEIGHT_AS_INT16", "d0/d73/a04451.html#aefa74fa33f3eba2d39b407c2fd2e8aba", null ],
+    [ "MAP_HEIGHT_AS_INT8", "d0/d73/a04451.html#a15a9245a53c00f1a8a89dd2d798cea9d", null ],
+    [ "MAP_HEIGHT_NO_HEIGHT", "d0/d73/a04451.html#aa5c2437972b2be5c5ff23a7ac04e2680", null ],
+    [ "MAP_LIQUID_NO_HEIGHT", "d0/d73/a04451.html#a59daadc7c96729526e05982ec6600bb1", null ],
+    [ "MAP_LIQUID_NO_TYPE", "d0/d73/a04451.html#a42b8b790a3d284e7116bcad1c391b8f9", null ],
+    [ "MAP_LIQUID_TYPE_DARK_WATER", "d0/d73/a04451.html#a661f965d11d7da56890b64484d871441", null ],
+    [ "MAP_LIQUID_TYPE_MAGMA", "d0/d73/a04451.html#a14e2a0a2291347b0ef877bc9d70f7384", null ],
+    [ "MAP_LIQUID_TYPE_NO_WATER", "d0/d73/a04451.html#a17d4c5ea32412f0fbe04a27f63d50e13", null ],
+    [ "MAP_LIQUID_TYPE_OCEAN", "d0/d73/a04451.html#a6d257e0effb928fba7534eeee5de602d", null ],
+    [ "MAP_LIQUID_TYPE_SLIME", "d0/d73/a04451.html#aa56f76510545ed9c706b8fee3061b6cb", null ],
+    [ "MAP_LIQUID_TYPE_WATER", "d0/d73/a04451.html#a5ec110bd30ec47fcd087aaf5d572de28", null ],
+    [ "holetab_h", "d0/d73/a04451.html#abeb39e913287295598939165f99abe3b", null ],
+    [ "holetab_v", "d0/d73/a04451.html#a8c5ddef856ef804076860bb176c6d9e1", null ],
+    [ "MAP_FILE_NAME_FORMAT", "d0/d73/a04451.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "MAP_VERSION_MAGIC", "d0/d73/a04451.html#aee23c8e21c084824373ce587f8fe1f04", null ]
 ];

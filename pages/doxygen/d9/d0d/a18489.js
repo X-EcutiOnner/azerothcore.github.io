@@ -1,6 +1,6 @@
 var a18489 =
 [
-    [ "DespawnSelf", "d9/d0d/a18489.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "d9/d0d/a18489.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "d9/d0d/a18489.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "npc_icc_ice_sphereAI", "d0/d2d/a18493.html", "d0/d2d/a18493" ],
+    [ "npc_icc_ice_sphere", "d9/d0d/a18489.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
+    [ "GetAI", "d9/d0d/a18489.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
 ];

@@ -1,6 +1,7 @@
 var a24133 =
 [
-    [ "npc_infernal_attackerAI", "de/d44/a24137.html", "de/d44/a24137" ],
-    [ "npc_infernal_attacker", "d3/d1c/a24133.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d3/d1c/a24133.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "CheckProc", "d3/d1c/a24133.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
+    [ "HandleProc", "d3/d1c/a24133.html#a8ab07569658cf2fa02193691bcab14ac", null ],
+    [ "PrepareAuraScript", "d3/d1c/a24133.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
+    [ "Register", "d3/d1c/a24133.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
 ];

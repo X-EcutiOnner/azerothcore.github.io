@@ -1,9 +1,7 @@
 var a27013 =
 [
-    [ "HandleAfterCast", "df/d2b/a27013.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "df/d2b/a27013.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "df/d2b/a27013.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "df/d2b/a27013.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "df/d2b/a27013.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "df/d2b/a27013.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "HandleProc", "df/d2b/a27013.html#adec7010a0de4ab9e8756d345c4adff14", null ],
+    [ "PrepareAuraScript", "df/d2b/a27013.html#a16986cb0bf0e46d44a640486580480aa", null ],
+    [ "Register", "df/d2b/a27013.html#a093cac6e19a12d01b7dba974b595502e", null ],
+    [ "Validate", "df/d2b/a27013.html#a558005f2d0ed6d42705a3e0ee940ffcc", null ]
 ];

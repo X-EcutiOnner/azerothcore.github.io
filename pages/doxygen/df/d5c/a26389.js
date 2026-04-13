@@ -1,6 +1,8 @@
 var a26389 =
 [
-    [ "CheckProc", "df/d5c/a26389.html#adb21bbda83cf0fdc30e64cabc0fb0d1c", null ],
-    [ "PrepareAuraScript", "df/d5c/a26389.html#a5fd08c4ff5ba410458a67eb91e612267", null ],
-    [ "Register", "df/d5c/a26389.html#a13c9e5a0a2a6945dfa5a4425be08703d", null ]
+    [ "CheckProc", "df/d5c/a26389.html#a2e7c3b219786c4328c6f5de2b4e6b684", null ],
+    [ "HandleProc", "df/d5c/a26389.html#ac564fc88a0cfe410b7caaeed639b5258", null ],
+    [ "PrepareAuraScript", "df/d5c/a26389.html#ab8c2f9f3f3750419ad62d72e284bf3b1", null ],
+    [ "Register", "df/d5c/a26389.html#ac5bb4e949f4a7b86b41861777f86bd7a", null ],
+    [ "Validate", "df/d5c/a26389.html#af67336b40e69f72f8cd5aa1776490bad", null ]
 ];

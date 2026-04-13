@@ -1,11 +1,7 @@
 var a18449 =
 [
-    [ "npc_little_oozeAI", "db/d42/a18449.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
-    [ "EnterEvadeMode", "db/d42/a18449.html#a0bd4bfcc8c373a449f297011289e5530", null ],
-    [ "IsSummonedBy", "db/d42/a18449.html#afb9763ade36bd742398a8bca961c136b", null ],
-    [ "JustDied", "db/d42/a18449.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
-    [ "UpdateAI", "db/d42/a18449.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
-    [ "events", "db/d42/a18449.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
-    [ "firstUpdate", "db/d42/a18449.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
-    [ "instance", "db/d42/a18449.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
+    [ "HandleScript", "db/d42/a18449.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
+    [ "PrepareSpellScript", "db/d42/a18449.html#a598baad08c685bba54ad5306e0d521b4", null ],
+    [ "Register", "db/d42/a18449.html#a471bac09c68708daefe6a39f283caa4c", null ],
+    [ "Validate", "db/d42/a18449.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
 ];

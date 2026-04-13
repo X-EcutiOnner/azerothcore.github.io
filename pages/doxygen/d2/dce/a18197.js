@@ -1,9 +1,7 @@
 var a18197 =
 [
-    [ "CheckAreaTarget", "d2/dce/a18197.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "d2/dce/a18197.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "d2/dce/a18197.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "d2/dce/a18197.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "d2/dce/a18197.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "d2/dce/a18197.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "HandleScript", "d2/dce/a18197.html#a37b261d0df2829788d8290a9194913f5", null ],
+    [ "PrepareSpellScript", "d2/dce/a18197.html#a69386dbef57322393a38eec90662135f", null ],
+    [ "Register", "d2/dce/a18197.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
+    [ "Validate", "d2/dce/a18197.html#a63c446574c700a895d7fbc5bb2b81508", null ]
 ];

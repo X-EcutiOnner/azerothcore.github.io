@@ -1,6 +1,7 @@
 var a19285 =
 [
-    [ "npc_icc_valkyr_heraldAI", "d8/dca/a19289.html", "d8/dca/a19289" ],
-    [ "npc_icc_valkyr_herald", "d6/d4a/a19285.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "d6/d4a/a19285.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "FilterTargets", "d6/d4a/a19285.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "d6/d4a/a19285.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "d6/d4a/a19285.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "d6/d4a/a19285.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

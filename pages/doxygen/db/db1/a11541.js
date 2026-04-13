@@ -1,5 +1,7 @@
 var a11541 =
 [
-    [ "AbsorbAuraOrderPred", "db/db1/a11541.html#a30283854715c90496e14d260f913f5fa", null ],
-    [ "operator()", "db/db1/a11541.html#a8f705a8b053ef6ff2e2827b4c7f9c643", null ]
+    [ "Player", "db/db1/a11541.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "db/db1/a11541.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "db/db1/a11541.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "db/db1/a11541.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

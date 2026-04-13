@@ -1,6 +1,6 @@
 var a18153 =
 [
-    [ "HandlePeriodicTick", "d4/d69/a18153.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
-    [ "PrepareAuraScript", "d4/d69/a18153.html#a9962029ce4a5223d7aa05068e8d83326", null ],
-    [ "Register", "d4/d69/a18153.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
+    [ "ExtraEffect", "d4/d69/a18153.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "d4/d69/a18153.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "d4/d69/a18153.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

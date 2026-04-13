@@ -1,7 +1,6 @@
 var a18501 =
 [
-    [ "FrostwyrmLandEvent", "dc/d2c/a18501.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "dc/d2c/a18501.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "dc/d2c/a18501.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "dc/d2c/a18501.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "npc_raging_spiritAI", "d2/d5c/a18505.html", "d2/d5c/a18505" ],
+    [ "npc_raging_spirit", "dc/d2c/a18501.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "dc/d2c/a18501.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

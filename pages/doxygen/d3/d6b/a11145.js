@@ -1,7 +1,7 @@
 var a11145 =
 [
-    [ "SocketGems", "d3/d6b/a11145.html#a29700bfeaee0bbfec3700d48c3d37dfd", null ],
-    [ "Read", "d3/d6b/a11145.html#a0e3a56488604a59a8da0bb77a1b26681", null ],
-    [ "GemGuids", "d3/d6b/a11145.html#acd8001a74aa4e2b4b7614c20e4ddfd5a", null ],
-    [ "ItemGuid", "d3/d6b/a11145.html#a2be27cf0fdd4ed6e6b7a9618eebe8914", null ]
+    [ "SwapInventoryItem", "d3/d6b/a11145.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
+    [ "Read", "d3/d6b/a11145.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
+    [ "DestinationSlot", "d3/d6b/a11145.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
+    [ "SourceSlot", "d3/d6b/a11145.html#a59117b7ce21919acc55b3da079050dc3", null ]
 ];

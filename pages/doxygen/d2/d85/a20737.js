@@ -1,11 +1,6 @@
 var a20737 =
 [
-    [ "boss_thorim_sif", "d2/d85/a20737.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
-    [ "AttackStart", "d2/d85/a20737.html#a3da2809c4e7aa0c051647be354ade759", null ],
-    [ "DoAction", "d2/d85/a20737.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
-    [ "MoveInLineOfSight", "d2/d85/a20737.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
-    [ "Reset", "d2/d85/a20737.html#a3f747b6da8db72fd61c50a24096834c2", null ],
-    [ "UpdateAI", "d2/d85/a20737.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
-    [ "_allowCast", "d2/d85/a20737.html#a6081345415b9ae3892d4f150a195908c", null ],
-    [ "events", "d2/d85/a20737.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "d2/d85/a20737.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "d2/d85/a20737.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "d2/d85/a20737.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

@@ -1,14 +1,13 @@
 var a10045 =
 [
-    [ "TriangleBoundary", "db/d97/a10045.html#acd21a26ca6b830c4d4c6ed2b4a186a30", null ],
-    [ "IsWithinBoundaryArea", "db/d97/a10045.html#aaebce21d60856976db921e22a871aae6", null ],
-    [ "_a", "db/d97/a10045.html#a11a5e1e039d39205450e8fde526f23c9", null ],
-    [ "_abx", "db/d97/a10045.html#a18ad05ab00e882af42a5dbc0cf10715b", null ],
-    [ "_aby", "db/d97/a10045.html#a50c9a60be77846c736cf278eac263b44", null ],
-    [ "_b", "db/d97/a10045.html#abcce62f1f187bc6e42f4534bfca855e8", null ],
-    [ "_bcx", "db/d97/a10045.html#a043b7c018baed6b098f93b667f47baed", null ],
-    [ "_bcy", "db/d97/a10045.html#afa03a5b23a6e0d3d4e134fe7b1599df0", null ],
-    [ "_c", "db/d97/a10045.html#a8e037f96f40d81f6c426208efb0dcd1a", null ],
-    [ "_cax", "db/d97/a10045.html#a7c8c6e8e40ec6249d672bb735d9fbdfa", null ],
-    [ "_cay", "db/d97/a10045.html#acbb7a9e61dd4e6188837461821843b9a", null ]
+    [ "ServerMail", "db/d97/a10045.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
+    [ "active", "db/d97/a10045.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
+    [ "body", "db/d97/a10045.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
+    [ "conditions", "db/d97/a10045.html#a818b993f72f82a022277e1c8d9160011", null ],
+    [ "id", "db/d97/a10045.html#a6b47994eff9201a6a75f8c621b64716c", null ],
+    [ "itemsA", "db/d97/a10045.html#a0992466672427c1d24c686bd8fa39378", null ],
+    [ "itemsH", "db/d97/a10045.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
+    [ "moneyA", "db/d97/a10045.html#a6a84ca583beef891422f67bef7919c47", null ],
+    [ "moneyH", "db/d97/a10045.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "subject", "db/d97/a10045.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

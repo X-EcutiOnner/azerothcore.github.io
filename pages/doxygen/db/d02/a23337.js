@@ -1,15 +1,14 @@
 var a23337 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "db/d02/a23337.html#a70db3eeeb55784250a13032728220005", null ],
-    [ "GetGuidData", "db/d02/a23337.html#a77e77209e779b774608f739b258ae419", null ],
-    [ "OnCreatureCreate", "db/d02/a23337.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
-    [ "SetGuidData", "db/d02/a23337.html#a21a29973bcf5ef6925239213ce50bab0", null ],
-    [ "AhuneBunnyGUID", "db/d02/a23337.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
-    [ "AhuneGUID", "db/d02/a23337.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
-    [ "BeamBunnyGUIDs", "db/d02/a23337.html#a09e3d1ca5d040268578fa770b7153a81", null ],
-    [ "BonfireBunnyGUIDs", "db/d02/a23337.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
-    [ "counter", "db/d02/a23337.html#a4ea85debc35e91668723222e8ea90071", null ],
-    [ "FlameCallerGUIDs", "db/d02/a23337.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
-    [ "FrozenCoreGUID", "db/d02/a23337.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
-    [ "LumaGUID", "db/d02/a23337.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
+    [ "npc_warden_mellicharAI", "db/d02/a23337.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
+    [ "AttackStart", "db/d02/a23337.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
+    [ "DamageTaken", "db/d02/a23337.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
+    [ "JustDied", "db/d02/a23337.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
+    [ "JustEngagedWith", "db/d02/a23337.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
+    [ "JustSummoned", "db/d02/a23337.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
+    [ "MoveInLineOfSight", "db/d02/a23337.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
+    [ "Reset", "db/d02/a23337.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
+    [ "SetData", "db/d02/a23337.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
+    [ "SummonedCreatureDies", "db/d02/a23337.html#a58e1011986be65725d4db3d782bc72ac", null ],
+    [ "UpdateAI", "db/d02/a23337.html#a944cff5367213d561a7e6df5faf2a216", null ]
 ];

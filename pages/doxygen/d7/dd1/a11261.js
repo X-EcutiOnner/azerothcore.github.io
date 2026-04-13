@@ -1,6 +1,9 @@
 var a11261 =
 [
-    [ "InvalidStringValueException", "d7/dd1/a11261.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
-    [ "GetInvalidValue", "d7/dd1/a11261.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
-    [ "_value", "d7/dd1/a11261.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
+    [ "RandomRoll", "d7/dd1/a11261.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "d7/dd1/a11261.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "d7/dd1/a11261.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "d7/dd1/a11261.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "d7/dd1/a11261.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "d7/dd1/a11261.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

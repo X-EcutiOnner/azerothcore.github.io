@@ -1,6 +1,7 @@
 var a15069 =
 [
-    [ "HandleTriggerSpell", "dd/d50/a15069.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "dd/d50/a15069.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "dd/d50/a15069.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "OnRemove", "dd/d50/a15069.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
+    [ "PrepareAuraScript", "dd/d50/a15069.html#ab082adc51983f124d0467cbff63cffb7", null ],
+    [ "Register", "dd/d50/a15069.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
+    [ "Validate", "dd/d50/a15069.html#a73421b82f483e73314dbb862fb0a11c7", null ]
 ];

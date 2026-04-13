@@ -1,6 +1,6 @@
 var a19253 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "df/d80/a19257.html", "df/d80/a19257" ],
-    [ "npc_icc_skybreaker_hierophant", "d4/df6/a19253.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "d4/df6/a19253.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "FilterTargets", "d4/df6/a19253.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "d4/df6/a19253.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "d4/df6/a19253.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

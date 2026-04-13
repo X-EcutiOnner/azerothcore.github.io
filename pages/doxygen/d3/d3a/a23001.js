@@ -1,6 +1,7 @@
 var a23001 =
 [
-    [ "HandleSchoolDamage", "d3/d3a/a23001.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "d3/d3a/a23001.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "d3/d3a/a23001.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "boss_hydromancer_thespia", "d3/d3a/a23001.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "d3/d3a/a23001.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "d3/d3a/a23001.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "d3/d3a/a23001.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

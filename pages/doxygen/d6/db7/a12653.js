@@ -1,6 +1,7 @@
 var a12653 =
 [
-    [ "instance_blackrock_spireMapScript", "d6/d00/a12657.html", "d6/d00/a12657" ],
-    [ "instance_blackrock_spire", "d6/db7/a12653.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
-    [ "GetInstanceScript", "d6/db7/a12653.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
+    [ "HandleScript", "d6/db7/a12653.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "d6/db7/a12653.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "d6/db7/a12653.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "d6/db7/a12653.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

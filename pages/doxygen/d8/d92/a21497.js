@@ -1,6 +1,6 @@
 var a21497 =
 [
-    [ "HandleEffectPeriodic", "d8/d92/a21497.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "d8/d92/a21497.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "d8/d92/a21497.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_spiritual_insightAI", "d8/d92/a21497.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "d8/d92/a21497.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "d8/d92/a21497.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

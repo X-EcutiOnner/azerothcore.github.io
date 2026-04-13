@@ -1,12 +1,10 @@
 var a22569 =
 [
-    [ "boss_exarch_maladaar", "d8/d3e/a22569.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d8/d3e/a22569.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d8/d3e/a22569.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d8/d3e/a22569.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d8/d3e/a22569.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d8/d3e/a22569.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d8/d3e/a22569.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d8/d3e/a22569.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d8/d3e/a22569.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "CalculateAmount", "d8/d3e/a22569.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "d8/d3e/a22569.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "d8/d3e/a22569.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "d8/d3e/a22569.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "d8/d3e/a22569.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "d8/d3e/a22569.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "d8/d3e/a22569.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

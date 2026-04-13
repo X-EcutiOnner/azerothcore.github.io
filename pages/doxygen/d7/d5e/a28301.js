@@ -1,5 +1,7 @@
 var a28301 =
 [
-    [ "go_hive_pod", "d7/d5e/a28301.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "d7/d5e/a28301.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "npc_flameshocker", "d7/d5e/a28301.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "d7/d5e/a28301.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "d7/d5e/a28301.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "d7/d5e/a28301.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

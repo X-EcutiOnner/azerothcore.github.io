@@ -1,9 +1,7 @@
 var a26725 =
 [
-    [ "CheckCast", "d6/d2c/a26725.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
-    [ "HandleTriggerSpellHit", "d6/d2c/a26725.html#aca027bb2995456bfcedd33c06966eb88", null ],
-    [ "HandleTriggerSpellLaunch", "d6/d2c/a26725.html#aa67bf9f81086a3837037d67306979072", null ],
-    [ "PrepareSpellScript", "d6/d2c/a26725.html#a9247b5f3a376bebdcf857565b5049944", null ],
-    [ "Register", "d6/d2c/a26725.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
-    [ "Validate", "d6/d2c/a26725.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
+    [ "HandleDummy", "d6/d2c/a26725.html#abc630a0c8274f5f85901b2505ff2ae04", null ],
+    [ "PrepareSpellScript", "d6/d2c/a26725.html#af79cd7c2f6ed47a93dbbe17aaca6834f", null ],
+    [ "Register", "d6/d2c/a26725.html#a3f1808538acca2742c19f68af9a6fd56", null ],
+    [ "Validate", "d6/d2c/a26725.html#a475e1d5d8c70e0edd5957a1e493fd43e", null ]
 ];

@@ -1,21 +1,7 @@
 var a22141 =
 [
-    [ "npc_still_at_it_triggerAI", "d7/df6/a22141.html#a4c8a9984ded254aac0df168e35d658e1", null ],
-    [ "CheckAction", "d7/df6/a22141.html#ae52906e508ec3ea438c0dbde31a82197", null ],
-    [ "DamageTaken", "d7/df6/a22141.html#abeae6e59731fb70848ba719dbc18727b", null ],
-    [ "GetManus", "d7/df6/a22141.html#a1208132a9844369d0e1d87910a8576a7", null ],
-    [ "Reset", "d7/df6/a22141.html#a51f7fae0fae84e12e27840c04dde65f8", null ],
-    [ "SpellHit", "d7/df6/a22141.html#a41f2ef44c6ad7b9fff8e9ee90eebc759", null ],
-    [ "Start", "d7/df6/a22141.html#ac707759eea2d1e3d538f89d013aa96c9", null ],
-    [ "UpdateAI", "d7/df6/a22141.html#af6b279fbc562bbb702ea17eb892471d4", null ],
-    [ "currentstep", "d7/df6/a22141.html#a3206f3946f1f9a3e230c39f3370642cd", null ],
-    [ "expectedaction", "d7/df6/a22141.html#a3aa9f7db1b56bb186678455026e4d193", null ],
-    [ "playeraction", "d7/df6/a22141.html#af018e010bb709b73eec229615f401966", null ],
-    [ "playerGUID", "d7/df6/a22141.html#a3385d9f57a52914378fe2c1126600af5", null ],
-    [ "running", "d7/df6/a22141.html#a81100e14bbfdd5d31d61cef76b4c0a7f", null ],
-    [ "stepcount", "d7/df6/a22141.html#abd3273fe4758b494153c91362b01a587", null ],
-    [ "success", "d7/df6/a22141.html#a4e4d83f7b8e084f5051498f47cd57448", null ],
-    [ "tensecstimer", "d7/df6/a22141.html#a8774bbe4630b518f45508996710d006a", null ],
-    [ "thunderbrewGUID", "d7/df6/a22141.html#ac55098fa6034fe3b7efabdfaf72d083a", null ],
-    [ "timer", "d7/df6/a22141.html#a818549f4fd33d6d07e874705b09416e6", null ]
+    [ "OutdoorPvPGH", "d7/df6/a22141.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "HandleKill", "d7/df6/a22141.html#a78cf572faf727c302f9be496d91004e0", null ],
+    [ "SendRemoveWorldStates", "d7/df6/a22141.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "d7/df6/a22141.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

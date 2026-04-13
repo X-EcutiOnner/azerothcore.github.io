@@ -1,7 +1,8 @@
 var a23309 =
 [
-    [ "HandleProc", "d1/dde/a23309.html#a03b2be5894d489a6021aff2744aee0e0", null ],
-    [ "PrepareAuraScript", "d1/dde/a23309.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
-    [ "Register", "d1/dde/a23309.html#a804e1bc3d570d28cb2e06155054f3169", null ],
-    [ "Validate", "d1/dde/a23309.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
+    [ "FilterTargets", "d1/dde/a23309.html#ae366594b668331a19f384ceb48654c0c", null ],
+    [ "HandleOnHit", "d1/dde/a23309.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
+    [ "PrepareSpellScript", "d1/dde/a23309.html#a71aa4018d293391a73d3317c1e80951d", null ],
+    [ "Register", "d1/dde/a23309.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
+    [ "Validate", "d1/dde/a23309.html#a3747ad271dc659436ae7a8203b964554", null ]
 ];

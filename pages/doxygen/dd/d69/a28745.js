@@ -1,5 +1,5 @@
 var a28745 =
 [
-    [ "ID", "dd/d69/a28745.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "dd/d69/a28745.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "Id", "dd/d69/a28745.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
+    [ "textid", "dd/d69/a28745.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
 ];

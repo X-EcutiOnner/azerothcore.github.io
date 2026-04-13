@@ -1,6 +1,6 @@
 var a12901 =
 [
-    [ "boss_gehennasAI", "d6/d0e/a12901.html#aaefd1f10d03957477863df95143a95a9", null ],
-    [ "ExecuteEvent", "d6/d0e/a12901.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
-    [ "JustEngagedWith", "d6/d0e/a12901.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
+    [ "HandleTriggerSpell", "d6/d0e/a12901.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "d6/d0e/a12901.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "d6/d0e/a12901.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

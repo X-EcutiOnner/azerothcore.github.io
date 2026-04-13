@@ -1,6 +1,6 @@
 var a11817 =
 [
-    [ "CheckProcHandler", "dd/d59/a11817.html#a1b5bfc85cb9a81a64ebd4b769e3d3651", null ],
-    [ "Call", "dd/d59/a11817.html#a977558dc8838a05259effc268235696a", null ],
-    [ "_HandlerScript", "dd/d59/a11817.html#abcb28d1a2f32402511c1e659b2f3b443", null ]
+    [ "HitHandler", "dd/d59/a11817.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "dd/d59/a11817.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "dd/d59/a11817.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

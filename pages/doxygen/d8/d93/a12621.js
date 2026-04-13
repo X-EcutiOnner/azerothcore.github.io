@@ -1,6 +1,6 @@
 var a12621 =
 [
-    [ "boss_thebeastAI", "d1/d02/a12625.html", "d1/d02/a12625" ],
-    [ "boss_the_beast", "d8/d93/a12621.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
-    [ "GetAI", "d8/d93/a12621.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
+    [ "OnEffect", "d8/d93/a12621.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "d8/d93/a12621.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "d8/d93/a12621.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

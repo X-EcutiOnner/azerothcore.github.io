@@ -1,6 +1,6 @@
 var a19209 =
 [
-    [ "PrepareSpellScript", "d0/d34/a19209.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d0/d34/a19209.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d0/d34/a19209.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "boss_gothikAI", "d6/d84/a19213.html", "d6/d84/a19213" ],
+    [ "boss_gothik", "d0/d34/a19209.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
+    [ "GetAI", "d0/d34/a19209.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
 ];

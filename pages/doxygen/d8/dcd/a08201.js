@@ -1,15 +1,7 @@
 var a08201 =
 [
-    [ "LfgProposal", "d8/dcd/a08201.html#ad67e8b90ee53576adcab0ac41e523699", null ],
-    [ "cancelTime", "d8/dcd/a08201.html#ad702ce8bccc9fbb81457456f1133e2e0", null ],
-    [ "dungeonId", "d8/dcd/a08201.html#a3f4f1e3120ed950e2272789c757a401f", null ],
-    [ "encounters", "d8/dcd/a08201.html#a6f0fb2094c6237c8bba4321b432115ad", null ],
-    [ "group", "d8/dcd/a08201.html#ac04263773858dfe70e7dd627a62113dc", null ],
-    [ "id", "d8/dcd/a08201.html#a580dfb67b8040a6267cbd20938cb8667", null ],
-    [ "isNew", "d8/dcd/a08201.html#a81989ce9df0046cfde2d805cc4edb59f", null ],
-    [ "leader", "d8/dcd/a08201.html#a12f8574ad017641808e522e1e9fdff49", null ],
-    [ "players", "d8/dcd/a08201.html#a7d0cc59e08db6fd186de1875c7313b3d", null ],
-    [ "queues", "d8/dcd/a08201.html#a7d0a8fabf7aaa632df03f8838fd2a3b4", null ],
-    [ "showorder", "d8/dcd/a08201.html#a3d388b633378c35f0efe5927fa78beef", null ],
-    [ "state", "d8/dcd/a08201.html#abd3f0fe86587f41c443735164924a3ae", null ]
+    [ "RBEntryInfo", "d8/dcd/a08201.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "d8/dcd/a08201.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "d8/dcd/a08201.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "d8/dcd/a08201.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

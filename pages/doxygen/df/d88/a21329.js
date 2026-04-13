@@ -1,6 +1,6 @@
 var a21329 =
 [
-    [ "npc_erekem_guardAI", "d6/d9b/a21333.html", "d6/d9b/a21333" ],
-    [ "npc_erekem_guard", "df/d88/a21329.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "df/d88/a21329.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "npc_mageguard_dalaranAI", "d6/d9b/a21333.html", "d6/d9b/a21333" ],
+    [ "npc_mageguard_dalaran", "df/d88/a21329.html#a0cec4f232b665325c421cecb5839885f", null ],
+    [ "GetAI", "df/d88/a21329.html#a10cbddceb53a2d432da2224128c59b28", null ]
 ];

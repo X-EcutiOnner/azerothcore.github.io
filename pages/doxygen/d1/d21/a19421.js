@@ -1,7 +1,7 @@
 var a19421 =
 [
-    [ "OnRemove", "d1/d21/a19421.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d1/d21/a19421.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d1/d21/a19421.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d1/d21/a19421.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "npc_naxxramas_trigger", "d1/d21/a19421.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d1/d21/a19421.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d1/d21/a19421.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d1/d21/a19421.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

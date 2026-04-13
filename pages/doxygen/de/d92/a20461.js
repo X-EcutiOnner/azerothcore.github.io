@@ -1,7 +1,11 @@
 var a20461 =
 [
-    [ "HandleEffectPeriodic", "de/d92/a20461.html#a428d1251465cc9947e7474eab83494e3", null ],
-    [ "PrepareAuraScript", "de/d92/a20461.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
-    [ "Register", "de/d92/a20461.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
-    [ "Validate", "de/d92/a20461.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
+    [ "boss_thorim_sif", "de/d92/a20461.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
+    [ "AttackStart", "de/d92/a20461.html#a3da2809c4e7aa0c051647be354ade759", null ],
+    [ "DoAction", "de/d92/a20461.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
+    [ "MoveInLineOfSight", "de/d92/a20461.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
+    [ "Reset", "de/d92/a20461.html#a3f747b6da8db72fd61c50a24096834c2", null ],
+    [ "UpdateAI", "de/d92/a20461.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
+    [ "_allowCast", "de/d92/a20461.html#a6081345415b9ae3892d4f150a195908c", null ],
+    [ "events", "de/d92/a20461.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
 ];

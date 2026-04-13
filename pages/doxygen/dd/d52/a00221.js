@@ -1,12 +1,19 @@
 var a00221 =
 [
-    [ "VMAP::VMapMgr2", "d6/de6/a05234.html", "d6/de6/a05234" ],
-    [ "FILENAMEBUFFER_SIZE", "dd/d52/a00221.html#aebe91d3f560a4221b135ef03b21a485f", null ],
-    [ "MAP_FILENAME_EXTENSION2", "dd/d52/a00221.html#aad39c14e5fae9fd5141df154332ae6fd", null ],
-    [ "DisableTypes", "dd/d52/a00221.html#ae6fa86a61cff3bac928739b18ffb8c1b", [
-      [ "VMAP_DISABLE_AREAFLAG", "dd/d52/a00221.html#ae6fa86a61cff3bac928739b18ffb8c1ba4fc4dc95e6df57c161e146d8da4b4a19", null ],
-      [ "VMAP_DISABLE_HEIGHT", "dd/d52/a00221.html#ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926", null ],
-      [ "VMAP_DISABLE_LOS", "dd/d52/a00221.html#ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108", null ],
-      [ "VMAP_DISABLE_LIQUIDSTATUS", "dd/d52/a00221.html#ae6fa86a61cff3bac928739b18ffb8c1ba191004652b9fbcccb26c14ce81a94cec", null ]
+    [ "QueryResultFieldMetadata", "d1/d26/a05989.html", "d1/d26/a05989" ],
+    [ "Field", "d7/d00/a05993.html", "d7/d00/a05993" ],
+    [ "Binary", "dd/d52/a00221.html#a45c2b15f675e85c1f4462be09f27c59e", null ],
+    [ "is_chrono_v", "dd/d52/a00221.html#aa6a7b1e80be2ae7ec2efb76185ee7b44", null ],
+    [ "DatabaseFieldTypes", "dd/d52/a00221.html#a52858f4c2cc23ac9372ab466fb82c091", [
+      [ "Null", "dd/d52/a00221.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94", null ],
+      [ "Int8", "dd/d52/a00221.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539", null ],
+      [ "Int16", "dd/d52/a00221.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208", null ],
+      [ "Int32", "dd/d52/a00221.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31", null ],
+      [ "Int64", "dd/d52/a00221.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487", null ],
+      [ "Float", "dd/d52/a00221.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b", null ],
+      [ "Double", "dd/d52/a00221.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b", null ],
+      [ "Decimal", "dd/d52/a00221.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3", null ],
+      [ "Date", "dd/d52/a00221.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41", null ],
+      [ "Binary", "dd/d52/a00221.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd", null ]
     ] ]
 ];

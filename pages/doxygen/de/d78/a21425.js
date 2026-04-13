@@ -1,6 +1,6 @@
 var a21425 =
 [
-    [ "npc_azure_invaderAI", "d4/d98/a21429.html", "d4/d98/a21429" ],
-    [ "npc_azure_invader", "de/d78/a21425.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
-    [ "GetAI", "de/d78/a21425.html#a19c000084ea74a401ece81ee0e20b65c", null ]
+    [ "npc_heated_battleAI", "de/d78/a21425.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "de/d78/a21425.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "de/d78/a21425.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

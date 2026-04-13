@@ -1,4 +1,4 @@
 var a00623 =
 [
-    [ "TestCreature", "d8/d20/a29334.html", "d8/d20/a29334" ]
+    [ "ScriptRegistry< AccountScript >", "df/d6f/a00623.html#a737db11e5096ba1c596f469d64c2cc97", null ]
 ];

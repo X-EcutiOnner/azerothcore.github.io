@@ -1,9 +1,7 @@
 var a21669 =
 [
-    [ "npc_mageguard_dalaranAI", "d5/df7/a21669.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
-    [ "AttackStart", "d5/df7/a21669.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
-    [ "JustEngagedWith", "d5/df7/a21669.html#aac463689ae5a488ec2acb8a0310689d8", null ],
-    [ "MoveInLineOfSight", "d5/df7/a21669.html#aafb32462693e0efd9c80cf335f489754", null ],
-    [ "Reset", "d5/df7/a21669.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
-    [ "UpdateAI", "d5/df7/a21669.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
+    [ "HandleScript", "d5/df7/a21669.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
+    [ "PrepareSpellScript", "d5/df7/a21669.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
+    [ "Register", "d5/df7/a21669.html#a713b82bc3d82a8324ce4dd090059f463", null ],
+    [ "Validate", "d5/df7/a21669.html#ac8e362d9f76350da106e128138737c5c", null ]
 ];

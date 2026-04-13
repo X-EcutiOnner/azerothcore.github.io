@@ -1,6 +1,9 @@
 var a23557 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "dd/d88/a23561.html", "dd/d88/a23561" ],
-    [ "instance_hellfire_ramparts", "d0/d9a/a23557.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "d0/d9a/a23557.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "boss_nethermancer_sepethrea", "d0/d9a/a23557.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d0/d9a/a23557.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d0/d9a/a23557.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d0/d9a/a23557.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d0/d9a/a23557.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d0/d9a/a23557.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

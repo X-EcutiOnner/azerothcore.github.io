@@ -1,6 +1,6 @@
 var a23313 =
 [
-    [ "HandleScript", "da/dbf/a23313.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
-    [ "PrepareSpellScript", "da/dbf/a23313.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
-    [ "Register", "da/dbf/a23313.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "df/de1/a23317.html", "df/de1/a23317" ],
+    [ "instance_shattered_halls", "da/dbf/a23313.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "da/dbf/a23313.html#a82388466811b022a725ba721845cadf3", null ]
 ];

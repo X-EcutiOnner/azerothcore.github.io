@@ -1,9 +1,6 @@
 var a06181 =
 [
-    [ "TurretAI", "db/d15/a06181.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
-    [ "AttackStart", "db/d15/a06181.html#ab6eb7cf777595a4b196373123da19bea", null ],
-    [ "CanAIAttack", "db/d15/a06181.html#a47c1c38ddcc1f473104fb698fe338684", null ],
-    [ "Permissible", "db/d15/a06181.html#aac81fb574d70369fb006fb7ba22a0784", null ],
-    [ "UpdateAI", "db/d15/a06181.html#aa2d308443a31d8a06bbc63517695dfef", null ],
-    [ "m_minRange", "db/d15/a06181.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
+    [ "DirectoryEntry", "db/d15/a06181.html#a02538aefc1b014b60957d4c67793000f", null ],
+    [ "path", "db/d15/a06181.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
+    [ "state", "db/d15/a06181.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
 ];

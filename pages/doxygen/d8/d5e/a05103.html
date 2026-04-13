@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: anonymous_namespace{ResetAttackTimerTest.cpp} Namespace Reference</title>
+<title>AzerothCore: anonymous_namespace{SnakeTrapEvadeTest.cpp} Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,77 +105,44 @@ $(document).ready(function(){initNavTree('d8/d5e/a05103.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">anonymous_namespace{ResetAttackTimerTest.cpp} Namespace Reference</div></div>
+  <div class="headertitle"><div class="title">anonymous_namespace{SnakeTrapEvadeTest.cpp} Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d62/a29313.html">SnakeTrapEvadeTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ab75ddecb6b6e4a6ea3bd62e8a45d2ba2"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d5e/a05103.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a> (int32_t currentTimer, int32_t fullTime)</td></tr>
-<tr class="separator:ab75ddecb6b6e4a6ea3bd62e8a45d2ba2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aae298365d32c23f29d12e5f81b91db99"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d5e/a05103.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a> (int32_t, int32_t fullTime)</td></tr>
-<tr class="separator:aae298365d32c23f29d12e5f81b91db99"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acf515241ac86050cd79d68b509c5ea29"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d5e/a05103.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a> (uint32_t baseAttackTime, float modSpeedPct)</td></tr>
-<tr class="separator:acf515241ac86050cd79d68b509c5ea29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e98f2b89f631331e38138b445fb77c2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d5e/a05103.html#a9e98f2b89f631331e38138b445fb77c2">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">SnakeTrapEvadeTest</a>, EndAllCombat_WithMultipleRefs_DoesNotRecurse)</td></tr>
+<tr class="separator:a9e98f2b89f631331e38138b445fb77c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5ce83093ca2163b3d1d02187741247d3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d5e/a05103.html#a5ce83093ca2163b3d1d02187741247d3">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">SnakeTrapEvadeTest</a>, TargetCombatStop_ClearsSnakeRefs)</td></tr>
+<tr class="separator:a5ce83093ca2163b3d1d02187741247d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a01af681e20eff16b713dfdfe3b68721a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d5e/a05103.html#a01af681e20eff16b713dfdfe3b68721a">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">SnakeTrapEvadeTest</a>, AddThreat_DuringEvade_IsRejected)</td></tr>
+<tr class="separator:a01af681e20eff16b713dfdfe3b68721a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Tests for <a class="el" href="../../df/d49/a09034.html#ae7f942c448b14628617639978bf6bd00">Unit::resetAttackTimer</a> arithmetic.</p>
-<p ><a class="el" href="../../df/d49/a09034.html#ae7f942c448b14628617639978bf6bd00">Unit::resetAttackTimer</a> resets the swing timer after an attack lands. The timer value determines when the next attack can occur.</p>
-<p >Old (buggy) formula: int32 time = <a class="el" href="../../d5/d0f/a00494.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32(GetAttackTime(type) * m_modAttackSpeedPct[type])</a>; m_attackTimer[type] = std::min(m_attackTimer[type] + time, time);</p>
-<p >New (fixed) formula: m_attackTimer[type] = <a class="el" href="../../d5/d0f/a00494.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32(GetAttackTime(type) * m_modAttackSpeedPct[type])</a>;</p>
-<p >The old formula carried forward negative timer debt, allowing burst attacks after lag spikes or parry-haste timer reductions. </p>
-</div><h2 class="groupheader">Function Documentation</h2>
-<a id="acf515241ac86050cd79d68b509c5ea29" name="acf515241ac86050cd79d68b509c5ea29"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acf515241ac86050cd79d68b509c5ea29">&#9670;&#160;</a></span>CalcFullTime()</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a01af681e20eff16b713dfdfe3b68721a" name="a01af681e20eff16b713dfdfe3b68721a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a01af681e20eff16b713dfdfe3b68721a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">int32_t anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime </td>
+          <td class="memname">anonymous_namespace{SnakeTrapEvadeTest.cpp}::TEST_F </td>
           <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>baseAttackTime</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>modSpeedPct</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>    {</div>
-<div class="line"><span class="lineno">   56</span>        <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>int32_t<span class="keyword">&gt;</span>(baseAttackTime * modSpeedPct);</div>
-<div class="line"><span class="lineno">   57</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00061">TEST()</a>.</p>
-
-</div>
-</div>
-<a id="aae298365d32c23f29d12e5f81b91db99" name="aae298365d32c23f29d12e5f81b91db99"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aae298365d32c23f29d12e5f81b91db99">&#9670;&#160;</a></span>NewResetFormula()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">int32_t anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula </td>
-          <td>(</td>
-          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">SnakeTrapEvadeTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int32_t&#160;</td>
-          <td class="paramname"><em>fullTime</em>&#160;</td>
+          <td class="paramtype">AddThreat_DuringEvade_IsRejected&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -184,31 +151,47 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   49</span>    {</div>
-<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> fullTime;</div>
-<div class="line"><span class="lineno">   51</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  178</span>{</div>
+<div class="line"><span class="lineno">  179</span>    _snake-&gt;TestGetCombatMgr().SetInCombatWith(_targetA);</div>
+<div class="line"><span class="lineno">  180</span>    _snake-&gt;TestGetThreatMgr().AddThreat(_targetA, 100.0f);</div>
+<div class="line"><span class="lineno">  181</span> </div>
+<div class="line"><span class="lineno">  182</span>    ASSERT_TRUE(_snake-&gt;TestGetThreatMgr().IsThreatenedBy(_targetA));</div>
+<div class="line"><span class="lineno">  183</span> </div>
+<div class="line"><span class="lineno">  184</span>    <span class="comment">// Enter evade state</span></div>
+<div class="line"><span class="lineno">  185</span>    _snake-&gt;AddUnitState(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a1ecb2438cddaf1339aec3cf4f37e4fba">UNIT_STATE_EVADE</a>);</div>
+<div class="line"><span class="lineno">  186</span> </div>
+<div class="line"><span class="lineno">  187</span>    <span class="comment">// AddThreat should be rejected while in evade</span></div>
+<div class="line"><span class="lineno">  188</span>    _snake-&gt;TestGetThreatMgr().ClearAllThreat();</div>
+<div class="line"><span class="lineno">  189</span>    _snake-&gt;AddThreat(_targetB, 100000.0f);</div>
+<div class="line"><span class="lineno">  190</span> </div>
+<div class="line"><span class="lineno">  191</span>    <span class="comment">// Should NOT have threat on targetB because UNIT_STATE_EVADE blocks AddThreat</span></div>
+<div class="line"><span class="lineno">  192</span>    EXPECT_FALSE(_snake-&gt;TestGetThreatMgr().IsThreatenedBy(_targetB));</div>
+<div class="line"><span class="lineno">  193</span> </div>
+<div class="line"><span class="lineno">  194</span>    _snake-&gt;ClearUnitState(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a1ecb2438cddaf1339aec3cf4f37e4fba">UNIT_STATE_EVADE</a>);</div>
+<div class="line"><span class="lineno">  195</span>}</div>
+<div class="ttc" id="aa01421_html_ae51d2ecb71f7a5cb3882982a622c9544a1ecb2438cddaf1339aec3cf4f37e4fba"><div class="ttname"><a href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a1ecb2438cddaf1339aec3cf4f37e4fba">UNIT_STATE_EVADE</a></div><div class="ttdeci">@ UNIT_STATE_EVADE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:194</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00061">TEST()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00194">UNIT_STATE_EVADE</a>.</p>
 
 </div>
 </div>
-<a id="ab75ddecb6b6e4a6ea3bd62e8a45d2ba2" name="ab75ddecb6b6e4a6ea3bd62e8a45d2ba2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">&#9670;&#160;</a></span>OldResetFormula()</h2>
+<a id="a9e98f2b89f631331e38138b445fb77c2" name="a9e98f2b89f631331e38138b445fb77c2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9e98f2b89f631331e38138b445fb77c2">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">int32_t anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula </td>
+          <td class="memname">anonymous_namespace{SnakeTrapEvadeTest.cpp}::TEST_F </td>
           <td>(</td>
-          <td class="paramtype">int32_t&#160;</td>
-          <td class="paramname"><em>currentTimer</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">SnakeTrapEvadeTest</a>&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int32_t&#160;</td>
-          <td class="paramname"><em>fullTime</em>&#160;</td>
+          <td class="paramtype">EndAllCombat_WithMultipleRefs_DoesNotRecurse&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -217,12 +200,79 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   43</span>    {</div>
-<div class="line"><span class="lineno">   44</span>        <span class="keywordflow">return</span> std::min(currentTimer + fullTime, fullTime);</div>
-<div class="line"><span class="lineno">   45</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  127</span>{</div>
+<div class="line"><span class="lineno">  128</span>    <span class="comment">// Put the snake in combat with both targets</span></div>
+<div class="line"><span class="lineno">  129</span>    _snake-&gt;TestGetCombatMgr().SetInCombatWith(_targetA);</div>
+<div class="line"><span class="lineno">  130</span>    _snake-&gt;TestGetCombatMgr().SetInCombatWith(_targetB);</div>
+<div class="line"><span class="lineno">  131</span> </div>
+<div class="line"><span class="lineno">  132</span>    ASSERT_TRUE(_snake-&gt;TestGetCombatMgr().HasCombat());</div>
+<div class="line"><span class="lineno">  133</span>    ASSERT_TRUE(_snake-&gt;TestGetCombatMgr().IsInCombatWith(_targetA));</div>
+<div class="line"><span class="lineno">  134</span>    ASSERT_TRUE(_snake-&gt;TestGetCombatMgr().IsInCombatWith(_targetB));</div>
+<div class="line"><span class="lineno">  135</span> </div>
+<div class="line"><span class="lineno">  136</span>    <span class="comment">// This is the call path that caused the crash:</span></div>
+<div class="line"><span class="lineno">  137</span>    <span class="comment">// EndAllCombat -&gt; EndCombat -&gt; JustExitedCombat -&gt; EnterEvadeMode -&gt; CombatStop -&gt; EndAllCombat</span></div>
+<div class="line"><span class="lineno">  138</span>    <span class="comment">// With the old custom EnterEvadeMode, this would recurse unboundedly.</span></div>
+<div class="line"><span class="lineno">  139</span>    _snake-&gt;TestGetCombatMgr().EndAllPvECombat();</div>
+<div class="line"><span class="lineno">  140</span> </div>
+<div class="line"><span class="lineno">  141</span>    <span class="comment">// All combat state should be cleanly resolved</span></div>
+<div class="line"><span class="lineno">  142</span>    EXPECT_FALSE(_snake-&gt;TestGetCombatMgr().HasCombat());</div>
+<div class="line"><span class="lineno">  143</span>    EXPECT_FALSE(_targetA-&gt;TestGetCombatMgr().HasCombat());</div>
+<div class="line"><span class="lineno">  144</span>    EXPECT_FALSE(_targetB-&gt;TestGetCombatMgr().HasCombat());</div>
+<div class="line"><span class="lineno">  145</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00061">TEST()</a>.</p>
+</div>
+</div>
+<a id="a5ce83093ca2163b3d1d02187741247d3" name="a5ce83093ca2163b3d1d02187741247d3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5ce83093ca2163b3d1d02187741247d3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/3]</span></h2>
 
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">anonymous_namespace{SnakeTrapEvadeTest.cpp}::TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">SnakeTrapEvadeTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">TargetCombatStop_ClearsSnakeRefs&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  149</span>{</div>
+<div class="line"><span class="lineno">  150</span>    _snake-&gt;TestGetCombatMgr().SetInCombatWith(_targetA);</div>
+<div class="line"><span class="lineno">  151</span>    _snake-&gt;TestGetCombatMgr().SetInCombatWith(_targetB);</div>
+<div class="line"><span class="lineno">  152</span> </div>
+<div class="line"><span class="lineno">  153</span>    ASSERT_TRUE(_snake-&gt;TestGetCombatMgr().HasCombat());</div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>    <span class="comment">// Simulate what Battleground::EndBattleground does: CombatStop on the target</span></div>
+<div class="line"><span class="lineno">  156</span>    <span class="comment">// This triggers ClearInCombat -&gt; EndAllCombat on _targetA, which calls</span></div>
+<div class="line"><span class="lineno">  157</span>    <span class="comment">// EndCombat on the ref(targetA, snake), which triggers JustExitedCombat</span></div>
+<div class="line"><span class="lineno">  158</span>    <span class="comment">// on the snake if it&#39;s the snake&#39;s last ref.</span></div>
+<div class="line"><span class="lineno">  159</span>    _targetA-&gt;TestGetCombatMgr().EndAllPvECombat();</div>
+<div class="line"><span class="lineno">  160</span> </div>
+<div class="line"><span class="lineno">  161</span>    <span class="comment">// targetA should be out of combat</span></div>
+<div class="line"><span class="lineno">  162</span>    EXPECT_FALSE(_targetA-&gt;TestGetCombatMgr().HasCombat());</div>
+<div class="line"><span class="lineno">  163</span>    <span class="comment">// Snake should still be in combat with targetB</span></div>
+<div class="line"><span class="lineno">  164</span>    EXPECT_TRUE(_snake-&gt;TestGetCombatMgr().HasCombat());</div>
+<div class="line"><span class="lineno">  165</span>    EXPECT_TRUE(_snake-&gt;TestGetCombatMgr().IsInCombatWith(_targetB));</div>
+<div class="line"><span class="lineno">  166</span> </div>
+<div class="line"><span class="lineno">  167</span>    <span class="comment">// Now end targetB&#39;s combat too</span></div>
+<div class="line"><span class="lineno">  168</span>    _targetB-&gt;TestGetCombatMgr().EndAllPvECombat();</div>
+<div class="line"><span class="lineno">  169</span> </div>
+<div class="line"><span class="lineno">  170</span>    <span class="comment">// Everything clean</span></div>
+<div class="line"><span class="lineno">  171</span>    EXPECT_FALSE(_snake-&gt;TestGetCombatMgr().HasCombat());</div>
+<div class="line"><span class="lineno">  172</span>    EXPECT_FALSE(_targetB-&gt;TestGetCombatMgr().HasCombat());</div>
+<div class="line"><span class="lineno">  173</span>}</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -230,8 +280,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/d5e/a05103.html">anonymous_namespace{ResetAttackTimerTest.cpp}</a></li>
-    <li class="footer">Generated on Mon Apr 6 2026 21:09:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d8/d5e/a05103.html">anonymous_namespace{SnakeTrapEvadeTest.cpp}</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:29:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

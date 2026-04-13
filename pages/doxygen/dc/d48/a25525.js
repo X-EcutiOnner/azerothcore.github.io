@@ -1,5 +1,6 @@
 var a25525 =
 [
-    [ "PrepareSpellScript", "dc/d48/a25525.html#aa07fade62e79ccc8ad969de44b886332", null ],
-    [ "Register", "dc/d48/a25525.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
+    [ "HandlePeriodicTick", "dc/d48/a25525.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "dc/d48/a25525.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "dc/d48/a25525.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

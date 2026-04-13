@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: TransactionTask Class Reference</title>
+<title>AzerothCore: SQLQueryHolderBase Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,84 +107,59 @@ $(document).ready(function(){initNavTree('da/d28/a06117.html','../../'); initRes
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a> &#124;
-<a href="#pro-static-attribs">Static Protected Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="#friends">Friends</a> &#124;
 <a href="../../de/d8c/a06114.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">TransactionTask Class Reference</div></div>
+  <div class="headertitle"><div class="title">SQLQueryHolderBase Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Transaction.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">QueryHolder.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for TransactionTask:</div>
+Inheritance diagram for SQLQueryHolderBase:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../da/d28/a06117.png" usemap="#TransactionTask_map" alt=""/>
-  <map id="TransactionTask_map" name="TransactionTask_map">
-<area href="../../d9/d39/a06109.html" alt="SQLOperation" shape="rect" coords="0,0,162,24"/>
-<area href="../../d4/d82/a06121.html" alt="TransactionWithResultTask" shape="rect" coords="0,112,162,136"/>
+  <img src="../../da/d28/a06117.png" usemap="#SQLQueryHolderBase_map" alt=""/>
+  <map id="SQLQueryHolderBase_map" name="SQLQueryHolderBase_map">
+<area href="../../d5/d57/a05969.html" alt="SQLQueryHolder&lt; T &gt;" shape="rect" coords="218,56,426,80"/>
+<area href="../../d7/daa/a11509.html" alt="AccountInfoQueryHolderPerRealm" shape="rect" coords="0,112,208,136"/>
+<area href="../../dd/d8e/a09881.html" alt="LoginQueryHolder" shape="rect" coords="218,112,426,136"/>
+<area href="../../de/d5d/a08769.html" alt="PetLoadQueryHolder" shape="rect" coords="436,112,644,136"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a13573f827891ad172847dc0e466b0b9e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a13573f827891ad172847dc0e466b0b9e">TransactionTask</a> (std::shared_ptr&lt; <a class="el" href="../../d4/dc7/a06113.html">TransactionBase</a> &gt; trans)</td></tr>
-<tr class="separator:a13573f827891ad172847dc0e466b0b9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a68bc982f025d40bbc3a7323cd8c96786"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a68bc982f025d40bbc3a7323cd8c96786">~TransactionTask</a> () override=default</td></tr>
-<tr class="separator:a68bc982f025d40bbc3a7323cd8c96786"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a06109"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a06109')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d9/d39/a06109.html">SQLOperation</a></td></tr>
-<tr class="memitem:a0f69657715b7d24458227b22a3b40b1a inherit pub_methods_a06109"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d39/a06109.html#a0f69657715b7d24458227b22a3b40b1a">SQLOperation</a> ()=default</td></tr>
-<tr class="separator:a0f69657715b7d24458227b22a3b40b1a inherit pub_methods_a06109"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afa21cafba57dd35ed2b132ef3d18c71b inherit pub_methods_a06109"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d39/a06109.html#afa21cafba57dd35ed2b132ef3d18c71b">~SQLOperation</a> ()=default</td></tr>
-<tr class="separator:afa21cafba57dd35ed2b132ef3d18c71b inherit pub_methods_a06109"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae56c06a313c4be5d0e45f5481996f1d1 inherit pub_methods_a06109"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d39/a06109.html#ae56c06a313c4be5d0e45f5481996f1d1">call</a> ()</td></tr>
-<tr class="separator:ae56c06a313c4be5d0e45f5481996f1d1 inherit pub_methods_a06109"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aff1090554bc4a6fe7a33270e63416e19 inherit pub_methods_a06109"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d39/a06109.html#aff1090554bc4a6fe7a33270e63416e19">Execute</a> ()=0</td></tr>
-<tr class="separator:aff1090554bc4a6fe7a33270e63416e19 inherit pub_methods_a06109"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a52cbd1d9b8a298ab3eade0010b5e3166 inherit pub_methods_a06109"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d39/a06109.html#a52cbd1d9b8a298ab3eade0010b5e3166">SetConnection</a> (<a class="el" href="../../d7/de6/a05981.html">MySQLConnection</a> *con)</td></tr>
-<tr class="separator:a52cbd1d9b8a298ab3eade0010b5e3166 inherit pub_methods_a06109"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05946ea4a26798e5567f632cf9f66eff"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a05946ea4a26798e5567f632cf9f66eff">SQLQueryHolderBase</a> ()=default</td></tr>
+<tr class="separator:a05946ea4a26798e5567f632cf9f66eff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9e2407821d0c40a728337f174571fc5"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#aa9e2407821d0c40a728337f174571fc5">~SQLQueryHolderBase</a> ()</td></tr>
+<tr class="separator:aa9e2407821d0c40a728337f174571fc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e62f0171bd39a13348d097ee99cb17c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a9e62f0171bd39a13348d097ee99cb17c">SetSize</a> (std::size_t size)</td></tr>
+<tr class="separator:a9e62f0171bd39a13348d097ee99cb17c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a402f961642eaa239ff8726ad66e78640"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc8/a00242.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a402f961642eaa239ff8726ad66e78640">GetPreparedResult</a> (std::size_t index) const</td></tr>
+<tr class="separator:a402f961642eaa239ff8726ad66e78640"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34bcdec6591ce40a58667197f240fbe0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a34bcdec6591ce40a58667197f240fbe0">SetPreparedResult</a> (std::size_t index, <a class="el" href="../../db/df7/a06137.html">PreparedResultSet</a> *result)</td></tr>
+<tr class="separator:a34bcdec6591ce40a58667197f240fbe0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:aa1c1df059d15fe2077ceea5cfb51ba22"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#aa1c1df059d15fe2077ceea5cfb51ba22">Execute</a> () override</td></tr>
-<tr class="separator:aa1c1df059d15fe2077ceea5cfb51ba22"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a28c9ca1d9d3fdc6a722dcec68e46a38f"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a28c9ca1d9d3fdc6a722dcec68e46a38f">TryExecute</a> ()</td></tr>
-<tr class="separator:a28c9ca1d9d3fdc6a722dcec68e46a38f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adc2f1534bce5a7ce198eeeb510fcb533"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#adc2f1534bce5a7ce198eeeb510fcb533">CleanupOnFailure</a> ()</td></tr>
-<tr class="separator:adc2f1534bce5a7ce198eeeb510fcb533"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6657bb34fab696a26af9751ded41f1d7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a6657bb34fab696a26af9751ded41f1d7">SetPreparedQueryImpl</a> (std::size_t index, <a class="el" href="../../da/d8b/a06093.html">PreparedStatementBase</a> *stmt)</td></tr>
+<tr class="separator:a6657bb34fab696a26af9751ded41f1d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
-Protected Attributes</h2></td></tr>
-<tr class="memitem:a242f0cb47bc6b456b6bea9aa372df4b6"><td class="memItemLeft" align="right" valign="top">std::shared_ptr&lt; <a class="el" href="../../d4/dc7/a06113.html">TransactionBase</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a242f0cb47bc6b456b6bea9aa372df4b6">m_trans</a></td></tr>
-<tr class="separator:a242f0cb47bc6b456b6bea9aa372df4b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-static-attribs" name="pro-static-attribs"></a>
-Static Protected Attributes</h2></td></tr>
-<tr class="memitem:a84b48dbb670dd884e9b44ea53c8b0008"><td class="memItemLeft" align="right" valign="top">static std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a84b48dbb670dd884e9b44ea53c8b0008">_deadlockLock</a></td></tr>
-<tr class="separator:a84b48dbb670dd884e9b44ea53c8b0008"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a432a52e6f9dc7f51cbc8f2877d0894e1"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::pair&lt; <a class="el" href="../../da/d8b/a06093.html">PreparedStatementBase</a> *, <a class="el" href="../../d2/dc8/a00242.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1">m_queries</a></td></tr>
+<tr class="separator:a432a52e6f9dc7f51cbc8f2877d0894e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
 Friends</h2></td></tr>
-<tr class="memitem:a5d89109a06fa4fca3057b99bbfa84e58"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:a5d89109a06fa4fca3057b99bbfa84e58"><td class="memTemplItemLeft" align="right" valign="top">class&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a5d89109a06fa4fca3057b99bbfa84e58">DatabaseWorkerPool</a></td></tr>
-<tr class="separator:a5d89109a06fa4fca3057b99bbfa84e58"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac8984f2167ec797d478f3a771d1c1c3f"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#ac8984f2167ec797d478f3a771d1c1c3f">DatabaseWorker</a></td></tr>
-<tr class="separator:ac8984f2167ec797d478f3a771d1c1c3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac3345f3314b133d53268f53e222cdc74"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#ac3345f3314b133d53268f53e222cdc74">TransactionCallback</a></td></tr>
-<tr class="separator:ac3345f3314b133d53268f53e222cdc74"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pub_attribs_a06109"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a06109')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../d9/d39/a06109.html">SQLOperation</a></td></tr>
-<tr class="memitem:adf322db48064fcf4528f713f857f1b40 inherit pub_attribs_a06109"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/de6/a05981.html">MySQLConnection</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d39/a06109.html#adf322db48064fcf4528f713f857f1b40">m_conn</a> {nullptr}</td></tr>
-<tr class="separator:adf322db48064fcf4528f713f857f1b40 inherit pub_attribs_a06109"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d6be4ca13ec7a0d213da9d1e6ec922b"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a4d6be4ca13ec7a0d213da9d1e6ec922b">SQLQueryHolderTask</a></td></tr>
+<tr class="separator:a4d6be4ca13ec7a0d213da9d1e6ec922b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Low level class </p>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a13573f827891ad172847dc0e466b0b9e" name="a13573f827891ad172847dc0e466b0b9e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a13573f827891ad172847dc0e466b0b9e">&#9670;&#160;</a></span>TransactionTask()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a05946ea4a26798e5567f632cf9f66eff" name="a05946ea4a26798e5567f632cf9f66eff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a05946ea4a26798e5567f632cf9f66eff">&#9670;&#160;</a></span>SQLQueryHolderBase()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -193,35 +168,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">TransactionTask::TransactionTask </td>
-          <td>(</td>
-          <td class="paramtype">std::shared_ptr&lt; <a class="el" href="../../d4/dc7/a06113.html">TransactionBase</a> &gt;&#160;</td>
-          <td class="paramname"><em>trans</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   83</span>: <a class="code hl_variable" href="../../da/d28/a06117.html#a242f0cb47bc6b456b6bea9aa372df4b6">m_trans</a>(std::move(trans)) { }</div>
-<div class="ttc" id="aa06117_html_a242f0cb47bc6b456b6bea9aa372df4b6"><div class="ttname"><a href="../../da/d28/a06117.html#a242f0cb47bc6b456b6bea9aa372df4b6">TransactionTask::m_trans</a></div><div class="ttdeci">std::shared_ptr&lt; TransactionBase &gt; m_trans</div><div class="ttdef"><b>Definition:</b> Transaction.h:91</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a68bc982f025d40bbc3a7323cd8c96786" name="a68bc982f025d40bbc3a7323cd8c96786"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a68bc982f025d40bbc3a7323cd8c96786">&#9670;&#160;</a></span>~TransactionTask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">TransactionTask::~TransactionTask </td>
+          <td class="memname">SQLQueryHolderBase::SQLQueryHolderBase </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -229,16 +176,81 @@ Additional Inherited Members</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa9e2407821d0c40a728337f174571fc5" name="aa9e2407821d0c40a728337f174571fc5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9e2407821d0c40a728337f174571fc5">&#9670;&#160;</a></span>~SQLQueryHolderBase()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">SQLQueryHolderBase::~SQLQueryHolderBase </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p >if the result was never used, free the resources results used already (getresult called) are expected to be deleted</p>
+<div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
+<div class="line"><span class="lineno">   61</span>    <span class="keywordflow">for</span> (std::pair&lt;PreparedStatementBase*, PreparedQueryResult&gt;&amp; query : <a class="code hl_variable" href="../../da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1">m_queries</a>)</div>
+<div class="line"><span class="lineno">   62</span>    {</div>
+<div class="line"><span class="lineno">   65</span>        <span class="keyword">delete</span> query.first;</div>
+<div class="line"><span class="lineno">   66</span>    }</div>
+<div class="line"><span class="lineno">   67</span>}</div>
+<div class="ttc" id="aa06117_html_a432a52e6f9dc7f51cbc8f2877d0894e1"><div class="ttname"><a href="../../da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1">SQLQueryHolderBase::m_queries</a></div><div class="ttdeci">std::vector&lt; std::pair&lt; PreparedStatementBase *, PreparedQueryResult &gt; &gt; m_queries</div><div class="ttdef"><b>Definition:</b> QueryHolder.h:39</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00039">m_queries</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="adc2f1534bce5a7ce198eeeb510fcb533" name="adc2f1534bce5a7ce198eeeb510fcb533"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adc2f1534bce5a7ce198eeeb510fcb533">&#9670;&#160;</a></span>CleanupOnFailure()</h2>
+<a id="a402f961642eaa239ff8726ad66e78640" name="a402f961642eaa239ff8726ad66e78640"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a402f961642eaa239ff8726ad66e78640">&#9670;&#160;</a></span>GetPreparedResult()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dc8/a00242.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> SQLQueryHolderBase::GetPreparedResult </td>
+          <td>(</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
+<div class="line"><span class="lineno">   39</span>    <span class="comment">// Don&#39;t call to this function if the index is of a prepared statement</span></div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_define" href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(index &lt; <a class="code hl_variable" href="../../da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1">m_queries</a>.size(), <span class="stringliteral">&quot;Query holder result index out of range, tried to access index {} but there are only {} results&quot;</span>,</div>
+<div class="line"><span class="lineno">   41</span>        index, <a class="code hl_variable" href="../../da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1">m_queries</a>.size());</div>
+<div class="line"><span class="lineno">   42</span> </div>
+<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1">m_queries</a>[index].second;</div>
+<div class="line"><span class="lineno">   44</span>}</div>
+<div class="ttc" id="aa04586_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00039">m_queries</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00789">WorldSession::HandlePlayerLoginFromDB()</a>, <a class="el" href="../../#l01495">WorldSession::InitializeSessionCallback()</a>, <a class="el" href="../../#l04980">Player::LoadFromDB()</a>, and <a class="el" href="../../#l00216">Pet::LoadPetFromDB()</a>.</p>
+
+</div>
+</div>
+<a id="a6657bb34fab696a26af9751ded41f1d7" name="a6657bb34fab696a26af9751ded41f1d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6657bb34fab696a26af9751ded41f1d7">&#9670;&#160;</a></span>SetPreparedQueryImpl()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -247,10 +259,21 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void TransactionTask::CleanupOnFailure </td>
+          <td class="memname">bool SQLQueryHolderBase::SetPreparedQueryImpl </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d8b/a06093.html">PreparedStatementBase</a> *&#160;</td>
+          <td class="paramname"><em>stmt</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -259,126 +282,97 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  137</span>{</div>
-<div class="line"><span class="lineno">  138</span>    <a class="code hl_variable" href="../../da/d28/a06117.html#a242f0cb47bc6b456b6bea9aa372df4b6">m_trans</a>-&gt;Cleanup();</div>
-<div class="line"><span class="lineno">  139</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
+<div class="line"><span class="lineno">   27</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1">m_queries</a>.size() &lt;= index)</div>
+<div class="line"><span class="lineno">   28</span>    {</div>
+<div class="line"><span class="lineno">   29</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Query index ({}) out of range (size: {}) for prepared statement&quot;</span>, <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(index), (<a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)<a class="code hl_variable" href="../../da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1">m_queries</a>.size());</div>
+<div class="line"><span class="lineno">   30</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   31</span>    }</div>
+<div class="line"><span class="lineno">   32</span> </div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_variable" href="../../da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1">m_queries</a>[index].first = stmt;</div>
+<div class="line"><span class="lineno">   34</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   35</span>}</div>
+<div class="ttc" id="aa04547_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d0/da8/a04547.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa04568_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00091">m_trans</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00158">LOG_ERROR</a>, and <a class="el" href="../../#l00039">m_queries</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00096">Execute()</a>, and <a class="el" href="../../#l00141">TransactionWithResultTask::Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00046">SQLQueryHolder&lt; T &gt;::SetPreparedQuery()</a>.</p>
 
 </div>
 </div>
-<a id="aa1c1df059d15fe2077ceea5cfb51ba22" name="aa1c1df059d15fe2077ceea5cfb51ba22"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa1c1df059d15fe2077ceea5cfb51ba22">&#9670;&#160;</a></span>Execute()</h2>
+<a id="a34bcdec6591ce40a58667197f240fbe0" name="a34bcdec6591ce40a58667197f240fbe0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34bcdec6591ce40a58667197f240fbe0">&#9670;&#160;</a></span>SetPreparedResult()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool TransactionTask::Execute </td>
+          <td class="memname">void SQLQueryHolderBase::SetPreparedResult </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>index</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../db/df7/a06137.html">PreparedResultSet</a> *&#160;</td>
+          <td class="paramname"><em>result</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">protected</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-
-<p>Implements <a class="el" href="../../d9/d39/a06109.html#aff1090554bc4a6fe7a33270e63416e19">SQLOperation</a>.</p>
-
-<p>Reimplemented in <a class="el" href="../../d4/d82/a06121.html#a2a05fb2aa69032797f2065cb46fe7dc4">TransactionWithResultTask</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
-<div class="line"><span class="lineno">   98</span>    <span class="keywordtype">int</span> errorCode = <a class="code hl_function" href="../../da/d28/a06117.html#a28c9ca1d9d3fdc6a722dcec68e46a38f">TryExecute</a>();</div>
-<div class="line"><span class="lineno">   99</span> </div>
-<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">if</span> (!errorCode)</div>
-<div class="line"><span class="lineno">  101</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  102</span> </div>
-<div class="line"><span class="lineno">  103</span>    <span class="keywordflow">if</span> (errorCode == ER_LOCK_DEADLOCK)</div>
-<div class="line"><span class="lineno">  104</span>    {</div>
-<div class="line"><span class="lineno">  105</span>        std::ostringstream threadIdStream;</div>
-<div class="line"><span class="lineno">  106</span>        threadIdStream &lt;&lt; std::this_thread::get_id();</div>
-<div class="line"><span class="lineno">  107</span>        std::string threadId = threadIdStream.str();</div>
-<div class="line"><span class="lineno">  108</span> </div>
-<div class="line"><span class="lineno">  109</span>        {</div>
-<div class="line"><span class="lineno">  110</span>            <span class="comment">// Make sure only 1 async thread retries a transaction so they don&#39;t keep dead-locking each other</span></div>
-<div class="line"><span class="lineno">  111</span>            std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../da/d28/a06117.html#a84b48dbb670dd884e9b44ea53c8b0008">_deadlockLock</a>);</div>
-<div class="line"><span class="lineno">  112</span> </div>
-<div class="line"><span class="lineno">  113</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d5/df9/a00044.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> loopDuration{}, startMSTime = <a class="code hl_function" href="../../df/d98/a00107.html#a002742f64e7fe0b13f08d610eca4d672">GetTimeMS</a>(); loopDuration &lt;= <a class="code hl_variable" href="../../df/d23/a02558.html#ac0b52915e8b31344cafb9042ab92e830">DEADLOCK_MAX_RETRY_TIME_MS</a>; loopDuration = <a class="code hl_function" href="../../df/d98/a00107.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(startMSTime))</div>
-<div class="line"><span class="lineno">  114</span>            {</div>
-<div class="line"><span class="lineno">  115</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../da/d28/a06117.html#a28c9ca1d9d3fdc6a722dcec68e46a38f">TryExecute</a>())</div>
-<div class="line"><span class="lineno">  116</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  117</span> </div>
-<div class="line"><span class="lineno">  118</span>                <a class="code hl_define" href="../../d9/d4a/a00479.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Deadlocked SQL Transaction, retrying. Loop timer: {} ms, Thread Id: {}&quot;</span>, loopDuration.count(), threadId);</div>
-<div class="line"><span class="lineno">  119</span>            }</div>
-<div class="line"><span class="lineno">  120</span>        }</div>
-<div class="line"><span class="lineno">  121</span> </div>
-<div class="line"><span class="lineno">  122</span>        <a class="code hl_define" href="../../d9/d4a/a00479.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Fatal deadlocked SQL Transaction, it will not be retried anymore. Thread Id: {}&quot;</span>, threadId);</div>
-<div class="line"><span class="lineno">  123</span>    }</div>
-<div class="line"><span class="lineno">  124</span> </div>
-<div class="line"><span class="lineno">  125</span>    <span class="comment">// Clean up now.</span></div>
-<div class="line"><span class="lineno">  126</span>    <a class="code hl_function" href="../../da/d28/a06117.html#adc2f1534bce5a7ce198eeeb510fcb533">CleanupOnFailure</a>();</div>
-<div class="line"><span class="lineno">  127</span> </div>
-<div class="line"><span class="lineno">  128</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  129</span>}</div>
-<div class="ttc" id="aa00044_html_a1c3834b9e3853535027d58bf21bec81f"><div class="ttname"><a href="../../d5/df9/a00044.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a></div><div class="ttdeci">std::chrono::milliseconds Milliseconds</div><div class="ttdoc">Milliseconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:27</div></div>
-<div class="ttc" id="aa00107_html_a002742f64e7fe0b13f08d610eca4d672"><div class="ttname"><a href="../../df/d98/a00107.html#a002742f64e7fe0b13f08d610eca4d672">GetTimeMS</a></div><div class="ttdeci">Milliseconds GetTimeMS()</div><div class="ttdef"><b>Definition:</b> Timer.h:84</div></div>
-<div class="ttc" id="aa00107_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../df/d98/a00107.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
-<div class="ttc" id="aa00479_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d4a/a00479.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
-<div class="ttc" id="aa00479_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d9/d4a/a00479.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:162</div></div>
-<div class="ttc" id="aa02558_html_ac0b52915e8b31344cafb9042ab92e830"><div class="ttname"><a href="../../df/d23/a02558.html#ac0b52915e8b31344cafb9042ab92e830">DEADLOCK_MAX_RETRY_TIME_MS</a></div><div class="ttdeci">constexpr Milliseconds DEADLOCK_MAX_RETRY_TIME_MS</div><div class="ttdef"><b>Definition:</b> Transaction.cpp:30</div></div>
-<div class="ttc" id="aa06117_html_a28c9ca1d9d3fdc6a722dcec68e46a38f"><div class="ttname"><a href="../../da/d28/a06117.html#a28c9ca1d9d3fdc6a722dcec68e46a38f">TransactionTask::TryExecute</a></div><div class="ttdeci">int TryExecute()</div><div class="ttdef"><b>Definition:</b> Transaction.cpp:131</div></div>
-<div class="ttc" id="aa06117_html_a84b48dbb670dd884e9b44ea53c8b0008"><div class="ttname"><a href="../../da/d28/a06117.html#a84b48dbb670dd884e9b44ea53c8b0008">TransactionTask::_deadlockLock</a></div><div class="ttdeci">static std::mutex _deadlockLock</div><div class="ttdef"><b>Definition:</b> Transaction.h:92</div></div>
-<div class="ttc" id="aa06117_html_adc2f1534bce5a7ce198eeeb510fcb533"><div class="ttname"><a href="../../da/d28/a06117.html#adc2f1534bce5a7ce198eeeb510fcb533">TransactionTask::CleanupOnFailure</a></div><div class="ttdeci">void CleanupOnFailure()</div><div class="ttdef"><b>Definition:</b> Transaction.cpp:136</div></div>
+<p >store the result in the holder</p>
+<div class="fragment"><div class="line"><span class="lineno">   47</span>{</div>
+<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">if</span> (result &amp;&amp; !result-&gt;<a class="code hl_function" href="../../db/df7/a06137.html#aa4743826c5cb07b21a5a114b2d9da2e6">GetRowCount</a>())</div>
+<div class="line"><span class="lineno">   49</span>    {</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keyword">delete</span> result;</div>
+<div class="line"><span class="lineno">   51</span>        result = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   52</span>    }</div>
+<div class="line"><span class="lineno">   53</span> </div>
+<div class="line"><span class="lineno">   55</span>    <span class="keywordflow">if</span> (index &lt; <a class="code hl_variable" href="../../da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1">m_queries</a>.size())</div>
+<div class="line"><span class="lineno">   56</span>        <a class="code hl_variable" href="../../da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1">m_queries</a>[index].second = <a class="code hl_typedef" href="../../d2/dc8/a00242.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a>(result);</div>
+<div class="line"><span class="lineno">   57</span>}</div>
+<div class="ttc" id="aa00242_html_ac6110b8d867b5f84f677555d07037acb"><div class="ttname"><a href="../../d2/dc8/a00242.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; PreparedResultSet &gt; PreparedQueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:45</div></div>
+<div class="ttc" id="aa06137_html_aa4743826c5cb07b21a5a114b2d9da2e6"><div class="ttname"><a href="../../db/df7/a06137.html#aa4743826c5cb07b21a5a114b2d9da2e6">PreparedResultSet::GetRowCount</a></div><div class="ttdeci">uint64 GetRowCount() const</div><div class="ttdef"><b>Definition:</b> QueryResult.h:105</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00092">_deadlockLock</a>, <a class="el" href="../../#l00136">CleanupOnFailure()</a>, <a class="el" href="../../#l00030">DEADLOCK_MAX_RETRY_TIME_MS</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00084">GetTimeMS()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, and <a class="el" href="../../#l00131">TryExecute()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00105">PreparedResultSet::GetRowCount()</a>, and <a class="el" href="../../#l00039">m_queries</a>.</p>
 
 </div>
 </div>
-<a id="a28c9ca1d9d3fdc6a722dcec68e46a38f" name="a28c9ca1d9d3fdc6a722dcec68e46a38f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a28c9ca1d9d3fdc6a722dcec68e46a38f">&#9670;&#160;</a></span>TryExecute()</h2>
+<a id="a9e62f0171bd39a13348d097ee99cb17c" name="a9e62f0171bd39a13348d097ee99cb17c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9e62f0171bd39a13348d097ee99cb17c">&#9670;&#160;</a></span>SetSize()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">int TransactionTask::TryExecute </td>
+          <td class="memname">void SQLQueryHolderBase::SetSize </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>size</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  132</span>{</div>
-<div class="line"><span class="lineno">  133</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d39/a06109.html#adf322db48064fcf4528f713f857f1b40">m_conn</a>-&gt;<a class="code hl_function" href="../../d7/de6/a05981.html#a33bfca5cf068fad1c3c675ae37f2f310">ExecuteTransaction</a>(<a class="code hl_variable" href="../../da/d28/a06117.html#a242f0cb47bc6b456b6bea9aa372df4b6">m_trans</a>);</div>
-<div class="line"><span class="lineno">  134</span>}</div>
-<div class="ttc" id="aa05981_html_a33bfca5cf068fad1c3c675ae37f2f310"><div class="ttname"><a href="../../d7/de6/a05981.html#a33bfca5cf068fad1c3c675ae37f2f310">MySQLConnection::ExecuteTransaction</a></div><div class="ttdeci">int ExecuteTransaction(std::shared_ptr&lt; TransactionBase &gt; transaction)</div><div class="ttdef"><b>Definition:</b> MySQLConnection.cpp:382</div></div>
-<div class="ttc" id="aa06109_html_adf322db48064fcf4528f713f857f1b40"><div class="ttname"><a href="../../d9/d39/a06109.html#adf322db48064fcf4528f713f857f1b40">SQLOperation::m_conn</a></div><div class="ttdeci">MySQLConnection * m_conn</div><div class="ttdef"><b>Definition:</b> SQLOperation.h:56</div></div>
+<p >to optimize push_back, reserve the number of queries about to be executed</p>
+<div class="fragment"><div class="line"><span class="lineno">   70</span>{</div>
+<div class="line"><span class="lineno">   72</span>    <a class="code hl_variable" href="../../da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1">m_queries</a>.resize(size);</div>
+<div class="line"><span class="lineno">   73</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00382">MySQLConnection::ExecuteTransaction()</a>, <a class="el" href="../../#l00056">SQLOperation::m_conn</a>, and <a class="el" href="../../#l00091">m_trans</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00039">m_queries</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00096">Execute()</a>, and <a class="el" href="../../#l00141">TransactionWithResultTask::Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00078">LoginQueryHolder::Initialize()</a>, and <a class="el" href="../../#l00146">PetLoadQueryHolder::PetLoadQueryHolder()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Friends And Related Function Documentation</h2>
-<a id="ac8984f2167ec797d478f3a771d1c1c3f" name="ac8984f2167ec797d478f3a771d1c1c3f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac8984f2167ec797d478f3a771d1c1c3f">&#9670;&#160;</a></span>DatabaseWorker</h2>
+<a id="a4d6be4ca13ec7a0d213da9d1e6ec922b" name="a4d6be4ca13ec7a0d213da9d1e6ec922b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d6be4ca13ec7a0d213da9d1e6ec922b">&#9670;&#160;</a></span>SQLQueryHolderTask</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -387,53 +381,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">friend class <a class="el" href="../../d8/d6b/a05945.html">DatabaseWorker</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a5d89109a06fa4fca3057b99bbfa84e58" name="a5d89109a06fa4fca3057b99bbfa84e58"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5d89109a06fa4fca3057b99bbfa84e58">&#9670;&#160;</a></span>DatabaseWorkerPool</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">friend class <a class="el" href="../../d9/d67/a05937.html">DatabaseWorkerPool</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac3345f3314b133d53268f53e222cdc74" name="ac3345f3314b133d53268f53e222cdc74"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac3345f3314b133d53268f53e222cdc74">&#9670;&#160;</a></span>TransactionCallback</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">friend class <a class="el" href="../../d7/db7/a06125.html">TransactionCallback</a></td>
+          <td class="memname">friend class <a class="el" href="../../d4/d82/a06121.html">SQLQueryHolderTask</a></td>
         </tr>
       </table>
   </td>
@@ -446,8 +394,8 @@ template&lt;class T &gt; </div>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a84b48dbb670dd884e9b44ea53c8b0008" name="a84b48dbb670dd884e9b44ea53c8b0008"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a84b48dbb670dd884e9b44ea53c8b0008">&#9670;&#160;</a></span>_deadlockLock</h2>
+<a id="a432a52e6f9dc7f51cbc8f2877d0894e1" name="a432a52e6f9dc7f51cbc8f2877d0894e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a432a52e6f9dc7f51cbc8f2877d0894e1">&#9670;&#160;</a></span>m_queries</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -456,41 +404,17 @@ template&lt;class T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::mutex TransactionTask::_deadlockLock</td>
+          <td class="memname">std::vector&lt;std::pair&lt;<a class="el" href="../../da/d8b/a06093.html">PreparedStatementBase</a>*, <a class="el" href="../../d2/dc8/a00242.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a>&gt; &gt; SQLQueryHolderBase::m_queries</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00096">Execute()</a>, and <a class="el" href="../../#l00141">TransactionWithResultTask::Execute()</a>.</p>
-
-</div>
-</div>
-<a id="a242f0cb47bc6b456b6bea9aa372df4b6" name="a242f0cb47bc6b456b6bea9aa372df4b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a242f0cb47bc6b456b6bea9aa372df4b6">&#9670;&#160;</a></span>m_trans</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::shared_ptr&lt;<a class="el" href="../../d4/dc7/a06113.html">TransactionBase</a>&gt; TransactionTask::m_trans</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00136">CleanupOnFailure()</a>, and <a class="el" href="../../#l00131">TryExecute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00037">GetPreparedResult()</a>, <a class="el" href="../../#l00025">SetPreparedQueryImpl()</a>, <a class="el" href="../../#l00046">SetPreparedResult()</a>, <a class="el" href="../../#l00069">SetSize()</a>, and <a class="el" href="../../#l00059">~SQLQueryHolderBase()</a>.</p>
 
 </div>
 </div>
@@ -499,8 +423,8 @@ template&lt;class T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/d28/a06117.html">TransactionTask</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:10:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/d28/a06117.html">SQLQueryHolderBase</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:29:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

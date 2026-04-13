@@ -1,14 +1,12 @@
 var a16141 =
 [
-    [ "npc_taskmaster_fizzuleAI", "dd/d2d/a16141.html#ac792f91930c869ce919f8fd96b3fb076", null ],
-    [ "DoFriend", "dd/d2d/a16141.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
-    [ "JustEngagedWith", "dd/d2d/a16141.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
-    [ "ReceiveEmote", "dd/d2d/a16141.html#a21d0d70086f085b715a12d05fbe5d611", null ],
-    [ "Reset", "dd/d2d/a16141.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
-    [ "SpellHit", "dd/d2d/a16141.html#a4c35104935a3a6264c853a657dc42244", null ],
-    [ "UpdateAI", "dd/d2d/a16141.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
-    [ "factionNorm", "dd/d2d/a16141.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
-    [ "FlareCount", "dd/d2d/a16141.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
-    [ "IsFriend", "dd/d2d/a16141.html#ab7e6bd2e023545c73fba758267551eee", null ],
-    [ "ResetTimer", "dd/d2d/a16141.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
+    [ "npc_taldaram_flamesphere", "dd/d2d/a16141.html#aad7d6696b54e39c6abd27a7252353360", null ],
+    [ "DoAction", "dd/d2d/a16141.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
+    [ "IsSummonedBy", "dd/d2d/a16141.html#acb232931bc181eedf4b39d5519dd45e2", null ],
+    [ "JustDied", "dd/d2d/a16141.html#ae6dfff3df39257c55495707934d5d38b", null ],
+    [ "SetVictimPos", "dd/d2d/a16141.html#a51f1683806095c760d4accff9e23f8b6", null ],
+    [ "UpdateAI", "dd/d2d/a16141.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
+    [ "instance", "dd/d2d/a16141.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
+    [ "moveTimer", "dd/d2d/a16141.html#afe50ac59ec441ab11745ca9461158a00", null ],
+    [ "victimPos", "dd/d2d/a16141.html#ae681d84f2324faf22296dcb6e08484b0", null ]
 ];

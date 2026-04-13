@@ -1,8 +1,7 @@
 var a15765 =
 [
-    [ "npc_obsidian_nullifier", "de/d98/a15765.html#a9dbb6d681e348057564750fcd7e8050a", null ],
-    [ "JustEngagedWith", "de/d98/a15765.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
-    [ "Reset", "de/d98/a15765.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
-    [ "UpdateAI", "de/d98/a15765.html#a37cf1d335dd3735b262e82828c4f904a", null ],
-    [ "_targetGUIDs", "de/d98/a15765.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
+    [ "HandleDummy", "de/d98/a15765.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "de/d98/a15765.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "de/d98/a15765.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "de/d98/a15765.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

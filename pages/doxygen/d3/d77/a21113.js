@@ -1,8 +1,5 @@
 var a21113 =
 [
-    [ "CheckProc", "d3/d77/a21113.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
-    [ "HandleProc", "d3/d77/a21113.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
-    [ "PrepareAuraScript", "d3/d77/a21113.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
-    [ "Register", "d3/d77/a21113.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
-    [ "Validate", "d3/d77/a21113.html#ad4176f188412053b9205820fb6183d38", null ]
+    [ "go_vh_activation_crystal", "d3/d77/a21113.html#a4af485ac7ab6144282f3204a6d045cea", null ],
+    [ "OnGossipHello", "d3/d77/a21113.html#a47a61ba67086580135559332931e9c6e", null ]
 ];

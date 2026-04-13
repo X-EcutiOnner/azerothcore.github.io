@@ -1,8 +1,9 @@
 var a20265 =
 [
-    [ "OnApply", "d7/d1f/a20265.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "d7/d1f/a20265.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "d7/d1f/a20265.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "d7/d1f/a20265.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "d7/d1f/a20265.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "HandleEffectPeriodic", "d7/d1f/a20265.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "d7/d1f/a20265.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "d7/d1f/a20265.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "d7/d1f/a20265.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "d7/d1f/a20265.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "d7/d1f/a20265.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

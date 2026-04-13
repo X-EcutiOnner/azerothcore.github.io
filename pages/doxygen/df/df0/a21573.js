@@ -1,9 +1,9 @@
 var a21573 =
 [
-    [ "npc_bonker_togglevoltAI", "df/df0/a21573.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "df/df0/a21573.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "df/df0/a21573.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "df/df0/a21573.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "df/df0/a21573.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "Bonker_agro", "df/df0/a21573.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "npc_wounded_skirmisher", "df/df0/a21573.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "df/df0/a21573.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "df/df0/a21573.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "df/df0/a21573.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "df/df0/a21573.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "df/df0/a21573.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

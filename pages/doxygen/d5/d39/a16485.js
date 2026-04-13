@@ -1,7 +1,6 @@
 var a16485 =
 [
-    [ "HandleHit", "d5/d39/a16485.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d5/d39/a16485.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d5/d39/a16485.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d5/d39/a16485.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "HandleScript", "d5/d39/a16485.html#a647f39eb125537cd7545ab4115be1091", null ],
+    [ "PrepareSpellScript", "d5/d39/a16485.html#a55dec84643f9bd536c7c73b5909ab303", null ],
+    [ "Register", "d5/d39/a16485.html#a0077abbe11092b9636c3bb7b5c367946", null ]
 ];

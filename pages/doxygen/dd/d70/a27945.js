@@ -1,5 +1,5 @@
 var a27945 =
 [
-    [ "achievement_bg_control_all_nodes", "dd/d70/a27945.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "dd/d70/a27945.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "go_massive_seaforium_charge", "dd/d70/a27945.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "dd/d70/a27945.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

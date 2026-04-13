@@ -1,6 +1,8 @@
 var a24165 =
 [
-    [ "npcs_flanis_swiftwing_and_kagrosh", "d4/df5/a24165.html#aa95eceea94521947bd443805c8ddb52d", null ],
-    [ "OnGossipHello", "d4/df5/a24165.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
-    [ "OnGossipSelect", "d4/df5/a24165.html#aff34165955ba93e1fcd2b9731894d871", null ]
+    [ "CheckProc", "d4/df5/a24165.html#aaba070a16ff0ba45b4062abe30c79cf5", null ],
+    [ "HandleProc", "d4/df5/a24165.html#a7682ed37759329da8e4e475e98a23161", null ],
+    [ "PrepareAuraScript", "d4/df5/a24165.html#ac4cc997ddd92e741f9f105bda4ec00b9", null ],
+    [ "Register", "d4/df5/a24165.html#a5ab16c8eb40822679739e15a2ceac715", null ],
+    [ "Validate", "d4/df5/a24165.html#a34919ab1f3b2d4e98536c3ded56cf5fc", null ]
 ];

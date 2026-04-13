@@ -1,7 +1,6 @@
 var a21241 =
 [
-    [ "HandleScript", "db/d5e/a21241.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "db/d5e/a21241.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "db/d5e/a21241.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "db/d5e/a21241.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "npc_valiance_keep_cannoneerAI", "dc/dd5/a21245.html", "dc/dd5/a21245" ],
+    [ "npc_valiance_keep_cannoneer", "db/d5e/a21241.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "db/d5e/a21241.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

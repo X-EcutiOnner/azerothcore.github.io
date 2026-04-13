@@ -1,13 +1,9 @@
 var a06457 =
 [
-    [ "HealthCheckEventData", "de/df0/a06457.html#a2610f9688b27212eb3470f55718c61f0", null ],
-    [ "GetDelay", "de/df0/a06457.html#a9bab6c9834517c4260f814f258d52d5c", null ],
-    [ "HasBeenProcessed", "de/df0/a06457.html#abe8549b1e96fc3ea7e4154cd30ff5389", null ],
-    [ "IsPending", "de/df0/a06457.html#a367c865eb488a2a95ce7e98536ccb311", null ],
-    [ "UpdateStatus", "de/df0/a06457.html#aae2283a58be68424fbe01c37a29e1c5e", null ],
-    [ "_allowedWhileCasting", "de/df0/a06457.html#aff327c455fbd912579725956c99c3a2d", null ],
-    [ "_delay", "de/df0/a06457.html#ad23fcf00ca53ef2772185b2008a84de5", null ],
-    [ "_exec", "de/df0/a06457.html#a66c38460690d77fb021c91fa676c3a12", null ],
-    [ "_healthPct", "de/df0/a06457.html#a420edc39ff982d55ae82207a0cfe7689", null ],
-    [ "_status", "de/df0/a06457.html#a787509d0963c134539e4dec7525b5608", null ]
+    [ "AISpellInfoType", "de/df0/a06457.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
+    [ "condition", "de/df0/a06457.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
+    [ "cooldown", "de/df0/a06457.html#a6ea49fdc98ece29ceee63352424e9366", null ],
+    [ "maxRange", "de/df0/a06457.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
+    [ "realCooldown", "de/df0/a06457.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
+    [ "target", "de/df0/a06457.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
 ];

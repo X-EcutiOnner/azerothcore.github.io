@@ -1,6 +1,6 @@
 var a25993 =
 [
-    [ "HandleScript", "db/d20/a25993.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
-    [ "PrepareSpellScript", "db/d20/a25993.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
-    [ "Register", "db/d20/a25993.html#ad75843039e582b64da28b4818f48aeb3", null ]
+    [ "CheckProc", "db/d20/a25993.html#ae67afabe644d2e11f85950d02325373a", null ],
+    [ "PrepareAuraScript", "db/d20/a25993.html#adf2825375a332d2829778d2a57c6f511", null ],
+    [ "Register", "db/d20/a25993.html#ad9f4946abaf474e31b518b57e1de5bf1", null ]
 ];

@@ -1,6 +1,8 @@
 var a15977 =
 [
-    [ "npc_bunthen_plainswind", "dd/d53/a15977.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "dd/d53/a15977.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "dd/d53/a15977.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npc_paoka_swiftmountainAI", "dd/d53/a15977.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "dd/d53/a15977.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "dd/d53/a15977.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "dd/d53/a15977.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
+    [ "WaypointReached", "dd/d53/a15977.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

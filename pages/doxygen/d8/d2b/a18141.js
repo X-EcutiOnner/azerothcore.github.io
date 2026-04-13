@@ -1,6 +1,6 @@
 var a18141 =
 [
-    [ "PrepareSpellScript", "d8/d2b/a18141.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "d8/d2b/a18141.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "d8/d2b/a18141.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "OnRemove", "d8/d2b/a18141.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d8/d2b/a18141.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d8/d2b/a18141.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

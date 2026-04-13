@@ -1,6 +1,9 @@
 var a14225 =
 [
-    [ "boss_blight_wormAI", "dd/dec/a14229.html", "dd/dec/a14229" ],
-    [ "boss_blight_worm", "d8/d82/a14225.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "d8/d82/a14225.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_amanishi_scout", "d8/d82/a14225.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "d8/d82/a14225.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "d8/d82/a14225.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "d8/d82/a14225.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "d8/d82/a14225.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "d8/d82/a14225.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

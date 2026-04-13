@@ -1,6 +1,5 @@
 var a22137 =
 [
-    [ "npc_still_at_it_triggerAI", "d7/df6/a22141.html", "d7/df6/a22141" ],
-    [ "npc_still_at_it_trigger", "d0/d74/a22137.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "d0/d74/a22137.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "OutdoorPvP_grizzly_hills", "d0/d74/a22137.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "d0/d74/a22137.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

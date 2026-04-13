@@ -1,5 +1,5 @@
 var a20501 =
 [
-    [ "achievement_cheese_the_freeze", "da/db7/a20501.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "da/db7/a20501.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "go_thorim_lever", "da/db7/a20501.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "da/db7/a20501.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

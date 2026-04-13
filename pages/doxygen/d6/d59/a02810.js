@@ -1,6 +1,10 @@
 var a02810 =
 [
-    [ "instance_pit_of_saron", "d2/dea/a17230.html", "d2/dea/a17230" ],
-    [ "instance_pit_of_saron::instance_pit_of_saron_InstanceScript", "d2/d96/a17234.html", "d2/d96/a17234" ],
-    [ "AddSC_instance_pit_of_saron", "d6/d59/a02810.html#a0793b7a11993f477eea1066a2da4bbb2", null ]
+    [ "instance_the_eye", "d9/dcc/a23525.html", "d9/dcc/a23525" ],
+    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "da/d70/a23529.html", "da/d70/a23529" ],
+    [ "AddSC_instance_the_eye", "d6/d59/a02810.html#a2edbd129d024cabd379cca055dd3e341", null ],
+    [ "boundaries", "d6/d59/a02810.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d6/d59/a02810.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d6/d59/a02810.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d6/d59/a02810.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
 ];

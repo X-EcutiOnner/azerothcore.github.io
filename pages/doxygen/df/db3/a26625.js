@@ -1,6 +1,6 @@
 var a26625 =
 [
-    [ "FilterTargets", "df/db3/a26625.html#aad5d183d0d7ea229cbfc11f751536624", null ],
-    [ "PrepareSpellScript", "df/db3/a26625.html#a68ba19142ae6eb04a2547495233700df", null ],
-    [ "Register", "df/db3/a26625.html#a22c313409438f94d29ab3e236a56c115", null ]
+    [ "HandleFinish", "df/db3/a26625.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
+    [ "PrepareSpellScript", "df/db3/a26625.html#a8113f61816473399f0ceab18b104d058", null ],
+    [ "Register", "df/db3/a26625.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
 ];

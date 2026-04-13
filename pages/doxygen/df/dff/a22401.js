@@ -1,5 +1,7 @@
 var a22401 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "df/dff/a22401.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "df/dff/a22401.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "HandleDummy", "df/dff/a22401.html#af5ac581f7d471300fba2c23548037eea", null ],
+    [ "PrepareSpellScript", "df/dff/a22401.html#adda61c05b544b52d98af5b7a76d4f808", null ],
+    [ "Register", "df/dff/a22401.html#a270a64dffdce230d97515f116ec49706", null ],
+    [ "Validate", "df/dff/a22401.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
 ];

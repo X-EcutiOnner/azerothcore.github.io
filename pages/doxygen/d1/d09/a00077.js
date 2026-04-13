@@ -1,11 +1,14 @@
 var a00077 =
 [
-    [ "BanMgr", "d8/dd7/a09963.html", "d8/dd7/a09963" ],
-    [ "sBan", "d1/d09/a00077.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
-    [ "BanReturn", "d1/d09/a00077.html#a4dd4670ead55e2780d09a66ab39943a7", [
-      [ "BAN_SUCCESS", "d1/d09/a00077.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
-      [ "BAN_SYNTAX_ERROR", "d1/d09/a00077.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
-      [ "BAN_NOTFOUND", "d1/d09/a00077.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
-      [ "BAN_LONGER_EXISTS", "d1/d09/a00077.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
-    ] ]
+    [ "ExtraAttackChainProcTest", "d0/de2/a29373.html", "d0/de2/a29373" ],
+    [ "TEST_F", "d1/d09/a00077.html#abc49b8d509a71311b8f4ab364e4da973", null ],
+    [ "TEST_F", "d1/d09/a00077.html#a42dbae4a1b1bebe552097cb6d7192996", null ],
+    [ "TEST_F", "d1/d09/a00077.html#a496682ab03245df2e7c1e539fe7a1b3c", null ],
+    [ "TEST_F", "d1/d09/a00077.html#ae45135f1555115aa04a957f7786ef8eb", null ],
+    [ "TEST_F", "d1/d09/a00077.html#a510139ca0dbe6b263f79cdf71e8f3104", null ],
+    [ "TEST_F", "d1/d09/a00077.html#aca644b360370337d76d0d1f955f4bf91", null ],
+    [ "TEST_F", "d1/d09/a00077.html#a9dbad8c1ef4a5f8cd46f58762938ef28", null ],
+    [ "TEST_F", "d1/d09/a00077.html#ae32b028257e04cd926bd3c20a6a63a02", null ],
+    [ "SPELL_HAND_OF_JUSTICE", "d1/d09/a00077.html#a82bc87ae06a613c804e98c7f1584cebd", null ],
+    [ "SPELL_RECKONING", "d1/d09/a00077.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48", null ]
 ];

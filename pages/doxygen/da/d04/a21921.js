@@ -1,9 +1,9 @@
 var a21921 =
 [
-    [ "npc_venture_co_stragglerAI", "da/d04/a21921.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "da/d04/a21921.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "da/d04/a21921.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "da/d04/a21921.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "da/d04/a21921.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "da/d04/a21921.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "HandlePeriodic", "da/d04/a21921.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "da/d04/a21921.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "da/d04/a21921.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "da/d04/a21921.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "da/d04/a21921.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "da/d04/a21921.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

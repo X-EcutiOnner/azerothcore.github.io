@@ -1,7 +1,6 @@
 var a23833 =
 [
-    [ "Load", "d0/d32/a23833.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "d0/d32/a23833.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "d0/d32/a23833.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "d0/d32/a23833.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "npc_torloth_the_magnificentAI", "d9/de5/a23837.html", "d9/de5/a23837" ],
+    [ "npc_torloth_the_magnificent", "d0/d32/a23833.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "d0/d32/a23833.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

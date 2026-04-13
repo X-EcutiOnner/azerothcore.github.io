@@ -1,7 +1,7 @@
 var a12649 =
 [
-    [ "boss_warmastervooneAI", "db/d6a/a12649.html#aa22519c8d3037cf07c275080b9bedcaf", null ],
-    [ "DamageTaken", "db/d6a/a12649.html#adce28de25fa74557000d60188346e2d2", null ],
-    [ "ExecuteEvent", "db/d6a/a12649.html#ac9dc6ef78503a87ea68d0e232b0376da", null ],
-    [ "JustEngagedWith", "db/d6a/a12649.html#ac419c5118a45264e24e391f7575d90fb", null ]
+    [ "HandleScript", "db/d6a/a12649.html#a0d244cc1785b136bae0960d697dc761d", null ],
+    [ "PrepareSpellScript", "db/d6a/a12649.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
+    [ "Register", "db/d6a/a12649.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
+    [ "Validate", "db/d6a/a12649.html#a1413754f3a79caf8ec57d394c68f3499", null ]
 ];

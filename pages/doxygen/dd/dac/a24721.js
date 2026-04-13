@@ -1,7 +1,6 @@
 var a24721 =
 [
-    [ "HandleProc", "dd/dac/a24721.html#a15592382213762145eb30d85bfcbd60a", null ],
-    [ "PrepareAuraScript", "dd/dac/a24721.html#a82201b03b7b642e7898889412a617712", null ],
-    [ "Register", "dd/dac/a24721.html#aba014f9b0000d19cabbc5a9c763b934b", null ],
-    [ "Validate", "dd/dac/a24721.html#af586c09b1ba0b25d37c43624d3871c4e", null ]
+    [ "ModDest", "dd/dac/a24721.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "dd/dac/a24721.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "dd/dac/a24721.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

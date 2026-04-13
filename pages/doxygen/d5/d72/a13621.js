@@ -1,5 +1,7 @@
 var a13621 =
 [
-    [ "npc_apothecary_frye", "d5/d72/a13621.html#a5546099958a9a267d237e65720588456", null ],
-    [ "JustDied", "d5/d72/a13621.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
+    [ "HandleScriptEffect", "d5/d72/a13621.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "d5/d72/a13621.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "d5/d72/a13621.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "d5/d72/a13621.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

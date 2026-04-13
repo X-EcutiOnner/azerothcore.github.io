@@ -1,8 +1,10 @@
 var a26305 =
 [
-    [ "HandleScript", "dc/dc3/a26305.html#a181434606474535b5ed8dc6ee7c2dc29", null ],
-    [ "Load", "dc/dc3/a26305.html#aee35eb07631e991dc019a2b716894237", null ],
-    [ "PrepareSpellScript", "dc/dc3/a26305.html#a4c28987223d55f31aa6c5f3e349b62b7", null ],
-    [ "Register", "dc/dc3/a26305.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb", null ],
-    [ "Validate", "dc/dc3/a26305.html#a1541ff95bfa6ddc98748381cc2cb99f6", null ]
+    [ "Load", "dc/dc3/a26305.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
+    [ "PrepareAuraScript", "dc/dc3/a26305.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
+    [ "Register", "dc/dc3/a26305.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
+    [ "Split", "dc/dc3/a26305.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
+    [ "groupSize", "dc/dc3/a26305.html#aa1e61b128f63c802dc623be551657df1", null ],
+    [ "minHpPct", "dc/dc3/a26305.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
+    [ "remainingAmount", "dc/dc3/a26305.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
 ];

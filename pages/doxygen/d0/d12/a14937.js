@@ -1,7 +1,8 @@
 var a14937 =
 [
-    [ "OnApply", "d0/d12/a14937.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "d0/d12/a14937.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "d0/d12/a14937.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "d0/d12/a14937.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "npc_doomfire_spirit", "d0/d12/a14937.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
+    [ "Reset", "d0/d12/a14937.html#a0600718fad91723eba74b903583c5942", null ],
+    [ "TryTeleportInDirection", "d0/d12/a14937.html#a7fc48df636df66a006a8179fd63e2a65", null ],
+    [ "UpdateAI", "d0/d12/a14937.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
+    [ "turnConstant", "d0/d12/a14937.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
 ];

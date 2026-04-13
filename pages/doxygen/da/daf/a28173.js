@@ -1,6 +1,7 @@
 var a28173 =
 [
-    [ "go_heatAI", "df/d23/a28177.html", "df/d23/a28177" ],
-    [ "go_heat", "da/daf/a28173.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "da/daf/a28173.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "npc_guardianAI", "da/daf/a28173.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "da/daf/a28173.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "da/daf/a28173.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "da/daf/a28173.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

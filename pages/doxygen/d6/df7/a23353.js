@@ -1,10 +1,13 @@
 var a23353 =
 [
-    [ "boss_warlord_kalithresh", "d6/df7/a23353.html#afcf2288fbea2d5010c41344ce0247559", null ],
-    [ "JustDied", "d6/df7/a23353.html#a1947562aa9dafea371e2f2da824a3f65", null ],
-    [ "JustEngagedWith", "d6/df7/a23353.html#a2712f5c363c3929550b77ef2536b1385", null ],
-    [ "KilledUnit", "d6/df7/a23353.html#a06855288497f5335a236867ef681d3f8", null ],
-    [ "MoveInLineOfSight", "d6/df7/a23353.html#a544da19b6c3a6f159ed6b1639def1071", null ],
-    [ "Reset", "d6/df7/a23353.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
-    [ "_introDone", "d6/df7/a23353.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
+    [ "boss_wrath_scryer_soccothrates", "d6/df7/a23353.html#a771980c1022e7699c3eb02baccb68a93", null ],
+    [ "InitializeAI", "d6/df7/a23353.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
+    [ "JustDied", "d6/df7/a23353.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
+    [ "JustEngagedWith", "d6/df7/a23353.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
+    [ "KilledUnit", "d6/df7/a23353.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
+    [ "MoveInLineOfSight", "d6/df7/a23353.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
+    [ "Reset", "d6/df7/a23353.html#a85435a23d36f13e348112348a26e7d12", null ],
+    [ "UpdateAI", "d6/df7/a23353.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
+    [ "events2", "d6/df7/a23353.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
+    [ "preFight", "d6/df7/a23353.html#a193889ee2815b93a1c9aeee394170fc4", null ]
 ];

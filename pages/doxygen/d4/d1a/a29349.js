@@ -1,8 +1,9 @@
 var a29349 =
 [
-    [ "NoRuneCost", "d4/d1a/a29349.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
-    [ "NoRunicPowerGain", "d4/d1a/a29349.html#a97da075ecd116ef27fd4265bb8380667", null ],
-    [ "ID", "d4/d1a/a29349.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
-    [ "RuneCost", "d4/d1a/a29349.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
-    [ "runePowerGain", "d4/d1a/a29349.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
+    [ "SetUp", "d4/d1a/a29349.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
+    [ "TearDown", "d4/d1a/a29349.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
+    [ "creatureQuestMap", "d4/d1a/a29349.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
+    [ "TEST_CREATURE_ID", "d4/d1a/a29349.html#a80a79959d4b5520f7acf671677a671e9", null ],
+    [ "TEST_POOL_ID", "d4/d1a/a29349.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
+    [ "TEST_QUEST_ID", "d4/d1a/a29349.html#a26e68107bb625d0c5b6281c7df9199be", null ]
 ];

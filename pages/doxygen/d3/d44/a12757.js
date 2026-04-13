@@ -1,6 +1,7 @@
 var a12757 =
 [
-    [ "boss_flamegorAI", "d3/d44/a12757.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
-    [ "JustEngagedWith", "d3/d44/a12757.html#a6005dca71e2f20ee599e053e531377d6", null ],
-    [ "UpdateAI", "d3/d44/a12757.html#a2e5146815e533cf62e0084a54aa222d5", null ]
+    [ "HandleAfterApply", "d3/d44/a12757.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "d3/d44/a12757.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "d3/d44/a12757.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "d3/d44/a12757.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

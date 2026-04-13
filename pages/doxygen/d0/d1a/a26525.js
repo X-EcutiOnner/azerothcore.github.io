@@ -1,6 +1,7 @@
 var a26525 =
 [
-    [ "CalculateAmount", "d0/d1a/a26525.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
-    [ "PrepareAuraScript", "d0/d1a/a26525.html#a667883298cee173af941cfc07022f318", null ],
-    [ "Register", "d0/d1a/a26525.html#a22514461b79f736e3ab595fa7fb48b68", null ]
+    [ "HandleHeal", "d0/d1a/a26525.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
+    [ "PrepareSpellScript", "d0/d1a/a26525.html#a9de9260bc1e2582138c58a708e5d899c", null ],
+    [ "Register", "d0/d1a/a26525.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
+    [ "Validate", "d0/d1a/a26525.html#aa300822cf5455404482124a6853fb314", null ]
 ];

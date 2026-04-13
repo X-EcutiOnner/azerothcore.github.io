@@ -1,5 +1,4 @@
 var a07997 =
 [
-    [ "IsColorValid", "df/d3b/a07997.html#a075621e69c80c128ec44cfb4f3ba0cf6", null ],
-    [ "IsTextValid", "df/d3b/a07997.html#a33f6c3e46c24571a8eec083087618fed", null ]
+    [ "operator()", "df/d3b/a07997.html#a1c1e59697194005023a42873b8856a50", null ]
 ];

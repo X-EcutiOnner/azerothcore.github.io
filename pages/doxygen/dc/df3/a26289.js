@@ -1,7 +1,7 @@
 var a26289 =
 [
-    [ "HandleScript", "dc/df3/a26289.html#a899d96d5fdf1fa7c46a35b681ec90daa", null ],
-    [ "PrepareSpellScript", "dc/df3/a26289.html#a8b49884cc187b32368ac5493bc65d339", null ],
-    [ "Register", "dc/df3/a26289.html#a591928501bc5b0d4c43b04ec6fa8972d", null ],
-    [ "Validate", "dc/df3/a26289.html#aba754e86c9c87f251a1fa2dff955018e", null ]
+    [ "PeriodicTick", "dc/df3/a26289.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "dc/df3/a26289.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "dc/df3/a26289.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "dc/df3/a26289.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

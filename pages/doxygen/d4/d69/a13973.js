@@ -1,6 +1,6 @@
 var a13973 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d7/dce/a13977.html", "d7/dce/a13977" ],
-    [ "instance_the_stockade", "d4/d69/a13973.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d4/d69/a13973.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "npc_lord_gregor_lescovarAI", "d7/dce/a13977.html", "d7/dce/a13977" ],
+    [ "npc_lord_gregor_lescovar", "d4/d69/a13973.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
+    [ "GetAI", "d4/d69/a13973.html#a4cf39729bb687c7db3538575a799283e", null ]
 ];

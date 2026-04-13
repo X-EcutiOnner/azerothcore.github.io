@@ -1,6 +1,11 @@
 var a24937 =
 [
-    [ "CalculateAmount", "d4/dc8/a24937.html#af8b61cade7f9daae4b982c2a4c8b4a73", null ],
-    [ "PrepareAuraScript", "d4/dc8/a24937.html#a3e1d132745f4739b8a3423cb55b0fc9d", null ],
-    [ "Register", "d4/dc8/a24937.html#a642ce3a74d7163b264ed4674e14fafbc", null ]
+    [ "GetPennatSpellId", "d4/dc8/a24937.html#a1e327a79ce90cf7ebbec644ed15ff67f", null ],
+    [ "HandleApplyEffect", "d4/dc8/a24937.html#a396c05708a89758e4038b327e09c65e8", null ],
+    [ "HandleRemoveEffect", "d4/dc8/a24937.html#adf6fd3d2a36e1ff115b5c5109d37b7a4", null ],
+    [ "Load", "d4/dc8/a24937.html#afc83ecf02a1702d48fb39d60419bdbf1", null ],
+    [ "PrepareAuraScript", "d4/dc8/a24937.html#a0230d694e9325d7ac6ac6526ecb5a0e3", null ],
+    [ "Register", "d4/dc8/a24937.html#a46782a9dfb8ee2100be00afb6aa8b9a7", null ],
+    [ "Validate", "d4/dc8/a24937.html#a095b002671940f2b3504ae2646f76d5a", null ],
+    [ "_pennantSpellId", "d4/dc8/a24937.html#a092f0d88ede12dea699b39d5df04131c", null ]
 ];

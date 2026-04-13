@@ -1,7 +1,5 @@
 var a17681 =
 [
-    [ "HandleApplyAura", "d1/ddc/a17681.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "d1/ddc/a17681.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "d1/ddc/a17681.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "d1/ddc/a17681.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "achievement_ive_gone_and_made_a_mess", "d1/ddc/a17681.html#a0e71ea3afae02176f81231e51155c038", null ],
+    [ "OnCheck", "d1/ddc/a17681.html#a638cead986783523c7c35ecb9d885b11", null ]
 ];

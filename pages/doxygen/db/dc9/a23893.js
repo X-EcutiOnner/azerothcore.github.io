@@ -1,6 +1,6 @@
 var a23893 =
 [
-    [ "HandleAfterRemove", "db/dc9/a23893.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "db/dc9/a23893.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "db/dc9/a23893.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "npc_kservantAI", "de/d0f/a23897.html", "de/d0f/a23897" ],
+    [ "npc_kservant", "db/dc9/a23893.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "db/dc9/a23893.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

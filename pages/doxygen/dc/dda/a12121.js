@@ -1,7 +1,15 @@
 var a12121 =
 [
-    [ "gear_commandscript", "dc/dda/a12121.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
-    [ "GetCommands", "dc/dda/a12121.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
-    [ "HandleGearRepairCommand", "dc/dda/a12121.html#a28cd5680f07f984326d79d91adbbfd70", null ],
-    [ "HandleGearStatsCommand", "dc/dda/a12121.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
+    [ "SunsReachReclamationData", "dc/dda/a12121.html#a840eb2024ae39f2f60f819e884db80b3", null ],
+    [ "GetData", "dc/dda/a12121.html#ae7ef124f28f2bc8230b4234652734994", null ],
+    [ "GetPhasePercentage", "dc/dda/a12121.html#a215cec505dd74695704ae7961161e195", null ],
+    [ "GetSubPhasePercentage", "dc/dda/a12121.html#aaee292336c57d967842d63f55e69bf0f", null ],
+    [ "GetSunwellGatePercentage", "dc/dda/a12121.html#a9b5de26596e174f9a94e019fcb998f9e", null ],
+    [ "m_gate", "dc/dda/a12121.html#a35755bcf3f67cfb2ebc77dcb36fa4dfb", null ],
+    [ "m_gateCounters", "dc/dda/a12121.html#a76b38d6f571386c1d818752e12a66f66", null ],
+    [ "m_phase", "dc/dda/a12121.html#a67711cd7d43f481161b8f98690d67fe3", null ],
+    [ "m_subphaseMask", "dc/dda/a12121.html#a0a94a3b69ac5ccfcfae35af007ed375c", null ],
+    [ "m_sunsReachReclamationCounters", "dc/dda/a12121.html#a14253084085c114aa2cfeefdebb0257d", null ],
+    [ "m_sunsReachReclamationMutex", "dc/dda/a12121.html#a0ef2835b702469482926ec4942d0f786", null ],
+    [ "m_sunsReachReclamationPlayers", "dc/dda/a12121.html#a72780ba8e17ccf5513d104eb228b3411", null ]
 ];

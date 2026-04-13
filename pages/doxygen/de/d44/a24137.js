@@ -1,10 +1,6 @@
 var a24137 =
 [
-    [ "npc_infernal_attackerAI", "de/d44/a24137.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "de/d44/a24137.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "de/d44/a24137.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "de/d44/a24137.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "de/d44/a24137.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "de/d44/a24137.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "de/d44/a24137.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "PrepareSpellScript", "de/d44/a24137.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
+    [ "RecalculateDamage", "de/d44/a24137.html#ab6a781160532d7cbb3bb3304eb412514", null ],
+    [ "Register", "de/d44/a24137.html#a82395d00066e90abc58103b18a5ef4dc", null ]
 ];

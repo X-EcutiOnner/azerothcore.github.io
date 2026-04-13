@@ -1,5 +1,8 @@
 var a19989 =
 [
-    [ "at_hol_hall_of_watchers", "d6/d69/a19989.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
-    [ "_OnTrigger", "d6/d69/a19989.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
+    [ "OnApply", "d6/d69/a19989.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "d6/d69/a19989.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "d6/d69/a19989.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "d6/d69/a19989.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "d6/d69/a19989.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

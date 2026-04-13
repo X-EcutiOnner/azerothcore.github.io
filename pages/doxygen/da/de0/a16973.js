@@ -1,6 +1,7 @@
 var a16973 =
 [
-    [ "npc_toc_enh_shamanAI", "d9/d6e/a16977.html", "d9/d6e/a16977" ],
-    [ "npc_toc_enh_shaman", "da/de0/a16973.html#ac328b63a988d2cd8640237b250c338a8", null ],
-    [ "GetAI", "da/de0/a16973.html#a4501c9289a06750d8f153f89565b12f3", null ]
+    [ "HandleScript", "da/de0/a16973.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
+    [ "PrepareSpellScript", "da/de0/a16973.html#a71b28156c628aacbc6cb481038c0e76c", null ],
+    [ "Register", "da/de0/a16973.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
+    [ "Validate", "da/de0/a16973.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
 ];

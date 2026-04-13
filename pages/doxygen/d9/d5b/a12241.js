@@ -1,10 +1,11 @@
 var a12241 =
 [
-    [ "quest_commandscript", "d9/d5b/a12241.html#a98804583ded14bc50d252475289dda4f", null ],
-    [ "GetCommands", "d9/d5b/a12241.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
-    [ "HandleQuestAdd", "d9/d5b/a12241.html#acd1410f224a1d69bba1321999ebf25bc", null ],
-    [ "HandleQuestComplete", "d9/d5b/a12241.html#a044c30fdaedd07060284bd37fd2e226c", null ],
-    [ "HandleQuestRemove", "d9/d5b/a12241.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
-    [ "HandleQuestReward", "d9/d5b/a12241.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
-    [ "HandleQuestStatus", "d9/d5b/a12241.html#adbba92d0cf47879e94710c971fd994ff", null ]
+    [ "lfg_commandscript", "d9/d5b/a12241.html#a90faaca821e4162e0aea40a4d98af62c", null ],
+    [ "GetCommands", "d9/d5b/a12241.html#a324310f9b04675c277ceae44ea09fbaf", null ],
+    [ "HandleLfgCleanCommand", "d9/d5b/a12241.html#a93db689dbdb97a0318d62409a863767e", null ],
+    [ "HandleLfgCooldownClearCommand", "d9/d5b/a12241.html#a0e399ec509b9f419b7f034cc95409f7b", null ],
+    [ "HandleLfgGroupInfoCommand", "d9/d5b/a12241.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
+    [ "HandleLfgOptionsCommand", "d9/d5b/a12241.html#a73187a97c883d8d1bb3765943dd98c39", null ],
+    [ "HandleLfgPlayerInfoCommand", "d9/d5b/a12241.html#acdf12aff45f16904df5724ab158e3b97", null ],
+    [ "HandleLfgQueueInfoCommand", "d9/d5b/a12241.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
 ];

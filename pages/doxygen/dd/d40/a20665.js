@@ -1,9 +1,9 @@
 var a20665 =
 [
-    [ "npc_ulduar_emergency_fire_bot", "dd/d40/a20665.html#a1b74d8fc5c0e37a1f2c54be11d6afffc", null ],
-    [ "AttackStart", "dd/d40/a20665.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
-    [ "MoveInLineOfSight", "dd/d40/a20665.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
-    [ "MovementInform", "dd/d40/a20665.html#a6f7306e3da54511ddbef772044f76950", null ],
-    [ "UpdateAI", "dd/d40/a20665.html#a653df31873aca5acb86020cc1e14f4a0", null ],
-    [ "events", "dd/d40/a20665.html#a4afecd5bc403cd4a2bee1aa3b62612a7", null ]
+    [ "HandleOnEffectApply", "dd/d40/a20665.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "dd/d40/a20665.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "dd/d40/a20665.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "dd/d40/a20665.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "dd/d40/a20665.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "dd/d40/a20665.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

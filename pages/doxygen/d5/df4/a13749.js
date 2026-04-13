@@ -1,7 +1,7 @@
 var a13749 =
 [
-    [ "CheckCast", "d5/df4/a13749.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "d5/df4/a13749.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "d5/df4/a13749.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "d5/df4/a13749.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "npc_singularity", "d5/df4/a13749.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "d5/df4/a13749.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "d5/df4/a13749.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "d5/df4/a13749.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

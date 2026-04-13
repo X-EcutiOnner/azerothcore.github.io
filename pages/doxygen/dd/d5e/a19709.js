@@ -1,10 +1,8 @@
 var a19709 =
 [
-    [ "npc_power_spark", "dd/d5e/a19709.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
-    [ "DamageTaken", "dd/d5e/a19709.html#afe33d511823666929232bfd0179ee72a", null ],
-    [ "DoAction", "dd/d5e/a19709.html#ab99a859ee718d49ce59171e7e7159abc", null ],
-    [ "UpdateAI", "dd/d5e/a19709.html#ab36e75c87aa262a57be1594289284730", null ],
-    [ "_checkTimer", "dd/d5e/a19709.html#ae63f0f359037363b840fe51a797969b5", null ],
-    [ "_instance", "dd/d5e/a19709.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
-    [ "_moveTimer", "dd/d5e/a19709.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "dd/d5e/a19709.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "dd/d5e/a19709.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "dd/d5e/a19709.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "dd/d5e/a19709.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "dd/d5e/a19709.html#a52db8081961566ef2002424f00b60189", null ]
 ];

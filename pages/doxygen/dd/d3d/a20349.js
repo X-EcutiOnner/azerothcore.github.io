@@ -1,10 +1,6 @@
 var a20349 =
 [
-    [ "boss_freya_elder_ironbranch", "dd/d3d/a20349.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
-    [ "JustDied", "dd/d3d/a20349.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
-    [ "JustEngagedWith", "dd/d3d/a20349.html#a34d87135b8dac114a8783941dba69559", null ],
-    [ "KilledUnit", "dd/d3d/a20349.html#a20b5a622ac233d1280169f54942c894f", null ],
-    [ "Reset", "dd/d3d/a20349.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
-    [ "UpdateAI", "dd/d3d/a20349.html#a00dade8af24a2240187fb4e52138c0d1", null ],
-    [ "events", "dd/d3d/a20349.html#a8693a800da6890004f3ae82fd9898480", null ]
+    [ "HandleDamage", "dd/d3d/a20349.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "dd/d3d/a20349.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "dd/d3d/a20349.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

@@ -1,6 +1,7 @@
 var a16213 =
 [
-    [ "npc_rivern_frostwind", "dd/d9b/a16213.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "dd/d9b/a16213.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "dd/d9b/a16213.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "HandleEffectRemove", "dd/d9b/a16213.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "dd/d9b/a16213.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "dd/d9b/a16213.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "dd/d9b/a16213.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

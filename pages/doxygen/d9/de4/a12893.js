@@ -1,7 +1,7 @@
 var a12893 =
 [
-    [ "HandleHit", "d9/de4/a12893.html#a18f86449945ade16140ee934a7d8703e", null ],
-    [ "PrepareSpellScript", "d9/de4/a12893.html#abaf09043858db27b05fbe544d7a15a8f", null ],
-    [ "Register", "d9/de4/a12893.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
-    [ "Validate", "d9/de4/a12893.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
+    [ "npc_kernobeeAI", "d6/dcc/a12897.html", "d6/dcc/a12897" ],
+    [ "npc_kernobee", "d9/de4/a12893.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
+    [ "GetAI", "d9/de4/a12893.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
+    [ "OnQuestAccept", "d9/de4/a12893.html#aa830285cf19211b8233620257735ab62", null ]
 ];

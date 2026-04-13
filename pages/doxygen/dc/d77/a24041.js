@@ -1,7 +1,8 @@
 var a24041 =
 [
-    [ "npc_maghar_captiveAI", "d4/d16/a24045.html", "d4/d16/a24045" ],
-    [ "npc_maghar_captive", "dc/d77/a24041.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "dc/d77/a24041.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "dc/d77/a24041.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "npc_pet_darting_hatchling", "dc/d77/a24041.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "dc/d77/a24041.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "dc/d77/a24041.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "dc/d77/a24041.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "dc/d77/a24041.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

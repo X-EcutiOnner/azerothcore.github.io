@@ -1,6 +1,5 @@
 var a23973 =
 [
-    [ "go_apexis_relic", "d9/dcb/a23973.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "d9/dcb/a23973.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "d9/dcb/a23973.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "npc_pet_dk_risen_ally", "d9/dcb/a23973.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d9/dcb/a23973.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

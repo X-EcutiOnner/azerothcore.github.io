@@ -1,8 +1,14 @@
 var a22369 =
 [
-    [ "go_wg_vehicle_teleporterAI", "de/d43/a22369.html#af84e73765b1a4d810b41613824999186", null ],
-    [ "IsFriendly", "de/d43/a22369.html#adca817c8919958db888d5e9c759ad545", null ],
-    [ "IsValidVehicle", "de/d43/a22369.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
-    [ "UpdateAI", "de/d43/a22369.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
-    [ "_checkTimer", "de/d43/a22369.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
+    [ "npc_maiev_illidan", "de/d43/a22369.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
+    [ "DamageTaken", "de/d43/a22369.html#a780cc558c483efa3293d798cc6048a33", null ],
+    [ "DoAction", "de/d43/a22369.html#a53607a158edf8fd772908b5d7af6edf1", null ],
+    [ "IsSummonedBy", "de/d43/a22369.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
+    [ "JustEngagedWith", "de/d43/a22369.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
+    [ "JustExitedCombat", "de/d43/a22369.html#a5606060b12e17edfd6ad05f4f01dd339", null ],
+    [ "Reset", "de/d43/a22369.html#a100db757c89634a58b9382216e2791ec", null ],
+    [ "SpellHit", "de/d43/a22369.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
+    [ "UpdateAI", "de/d43/a22369.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
+    [ "_outroActive", "de/d43/a22369.html#af0f1e48d3712039cb110d5a69a464009", null ],
+    [ "instance", "de/d43/a22369.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
 ];

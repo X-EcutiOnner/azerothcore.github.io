@@ -1,10 +1,7 @@
 var a23709 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d9/de4/a23709.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "d9/de4/a23709.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "d9/de4/a23709.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "d9/de4/a23709.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "d9/de4/a23709.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "d9/de4/a23709.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "d9/de4/a23709.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d9/de4/a23709.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "d9/de4/a23709.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "d9/de4/a23709.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "d9/de4/a23709.html#a29132346f117ba785039057619edb9e7", null ]
 ];

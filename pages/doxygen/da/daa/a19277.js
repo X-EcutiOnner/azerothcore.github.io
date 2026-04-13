@@ -1,6 +1,6 @@
 var a19277 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "dc/d86/a19281.html", "dc/d86/a19281" ],
-    [ "npc_icc_skybreaker_luminary", "da/daa/a19277.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "da/daa/a19277.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "boss_kelthuzad_minionAI", "dc/d86/a19281.html", "dc/d86/a19281" ],
+    [ "boss_kelthuzad_minion", "da/daa/a19277.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "da/daa/a19277.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

@@ -1,5 +1,8 @@
 var a02111 =
 [
-    [ "autobroadcast_commandscript", "d1/de7/a12130.html", "d1/de7/a12130" ],
-    [ "AddSC_autobroadcast_commandscript", "d4/d64/a02111.html#a1d398e7e3a10b992b1d0a10671683d46", null ]
+    [ "WorldPackets::Query::NameQuery", "d2/d2d/a11413.html", "d2/d2d/a11413" ],
+    [ "WorldPackets::Query::NameQueryResponse", "d6/d2e/a11417.html", "d6/d2e/a11417" ],
+    [ "WorldPackets::Query::TimeQuery", "d7/d62/a11421.html", "d7/d62/a11421" ],
+    [ "WorldPackets::Query::TimeQueryResponse", "dd/d54/a11425.html", "dd/d54/a11425" ],
+    [ "WorldPackets::Query::CorpseMapPositionQuery", "dc/d35/a11429.html", "dc/d35/a11429" ]
 ];

@@ -1,8 +1,10 @@
 var a24589 =
 [
-    [ "HandleDamage", "d8/d1c/a24589.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "d8/d1c/a24589.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "d8/d1c/a24589.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "d8/d1c/a24589.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "d8/d1c/a24589.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "HandleEffectApply", "d8/d1c/a24589.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "d8/d1c/a24589.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "d8/d1c/a24589.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "d8/d1c/a24589.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "d8/d1c/a24589.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "d8/d1c/a24589.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "d8/d1c/a24589.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

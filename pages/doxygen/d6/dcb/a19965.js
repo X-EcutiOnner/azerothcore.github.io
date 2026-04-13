@@ -1,12 +1,16 @@
 var a19965 =
 [
-    [ "boss_loken", "d6/dcb/a19965.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
-    [ "JustDied", "d6/dcb/a19965.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
-    [ "JustEngagedWith", "d6/dcb/a19965.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
-    [ "KilledUnit", "d6/dcb/a19965.html#a85ae3094927f7484216b44582f9a2bf6", null ],
-    [ "MoveInLineOfSight", "d6/dcb/a19965.html#ac9f3115629e5595d06c213d3e04afa68", null ],
-    [ "OnAuraRemove", "d6/dcb/a19965.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
-    [ "Reset", "d6/dcb/a19965.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
-    [ "ScheduleTasks", "d6/dcb/a19965.html#a600e211be40226679212a7078b26f3ed", null ],
-    [ "_introDone", "d6/dcb/a19965.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
+    [ "npc_mimirons_inferno", "d6/dcb/a19965.html#aedcded9302c0cb9e29475f471bd0612e", null ],
+    [ "AttackStart", "d6/dcb/a19965.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
+    [ "DoAction", "d6/dcb/a19965.html#ade97188bb54f7b5a15a8a596355e4170", null ],
+    [ "JustSummoned", "d6/dcb/a19965.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
+    [ "MoveInLineOfSight", "d6/dcb/a19965.html#acc2e756af50ebde8300c46ec6f369760", null ],
+    [ "Reset", "d6/dcb/a19965.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
+    [ "SummonedCreatureDespawn", "d6/dcb/a19965.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
+    [ "UpdateAI", "d6/dcb/a19965.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
+    [ "WaypointReached", "d6/dcb/a19965.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
+    [ "WaypointReached", "d6/dcb/a19965.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_recastTimer", "d6/dcb/a19965.html#ac74ee90383d6ac140d6187c6115716ed", null ],
+    [ "_spellTimer", "d6/dcb/a19965.html#a0683c956325801b63e7e31b8485f35bd", null ],
+    [ "summons", "d6/dcb/a19965.html#a7a0be8291200404285277c3689c54106", null ]
 ];

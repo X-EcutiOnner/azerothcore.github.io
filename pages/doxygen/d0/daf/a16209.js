@@ -1,14 +1,11 @@
 var a16209 =
 [
-    [ "npc_ringoAI", "d0/daf/a16209.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "d0/daf/a16209.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "d0/daf/a16209.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "d0/daf/a16209.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "d0/daf/a16209.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "d0/daf/a16209.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "d0/daf/a16209.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "d0/daf/a16209.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "d0/daf/a16209.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "d0/daf/a16209.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "d0/daf/a16209.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d0/daf/a16209.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
+    [ "HandlePeriodic", "d0/daf/a16209.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "d0/daf/a16209.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d0/daf/a16209.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d0/daf/a16209.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d0/daf/a16209.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d0/daf/a16209.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
+    [ "_spellEntry", "d0/daf/a16209.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

@@ -1,6 +1,7 @@
 var a18485 =
 [
-    [ "CheckTarget", "d6/d76/a18485.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "d6/d76/a18485.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "d6/d76/a18485.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "CheckTargetCount", "d6/d76/a18485.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
+    [ "PrepareSpellScript", "d6/d76/a18485.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
+    [ "Register", "d6/d76/a18485.html#a86e7512496fd38201d458c03a7a60296", null ],
+    [ "Validate", "d6/d76/a18485.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
 ];

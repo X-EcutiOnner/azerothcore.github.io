@@ -1,10 +1,6 @@
 var a16465 =
 [
-    [ "boss_sartharion_tenebron", "d7/d07/a16465.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
-    [ "ClearInstance", "d7/d07/a16465.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
-    [ "ExecuteEvent", "d7/d07/a16465.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
-    [ "JustDied", "d7/d07/a16465.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
-    [ "JustSummoned", "d7/d07/a16465.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
-    [ "Reset", "d7/d07/a16465.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
-    [ "summons2", "d7/d07/a16465.html#a59b131fcd2298640390fcd0f662f132d", null ]
+    [ "npc_living_infernoAI", "df/d81/a16469.html", "df/d81/a16469" ],
+    [ "npc_living_inferno", "d7/d07/a16465.html#a7df2bb522e67b6f1864604c7b0182078", null ],
+    [ "GetAI", "d7/d07/a16465.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
 ];

@@ -1,7 +1,5 @@
 var a14301 =
 [
-    [ "FilterTargets", "d2/d70/a14301.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "d2/d70/a14301.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "d2/d70/a14301.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "d2/d70/a14301.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "at_zulgurub_bloodfire_pit_speech", "d2/d70/a14301.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
+    [ "_OnTrigger", "d2/d70/a14301.html#a8f1e477942ba9a5f653077632a98930f", null ]
 ];

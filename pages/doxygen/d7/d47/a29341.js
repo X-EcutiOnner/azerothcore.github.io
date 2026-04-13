@@ -1,7 +1,6 @@
 var a29341 =
 [
-    [ "ID", "d7/d47/a29341.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d7/d47/a29341.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d7/d47/a29341.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d7/d47/a29341.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "SetUp", "d7/d47/a29341.html#ac7db18817aa330aedefd1f688d53219b", null ],
+    [ "TearDown", "d7/d47/a29341.html#a0cb70a624f55509497866a1fac787800", null ],
+    [ "_previousWorld", "d7/d47/a29341.html#afec905a799e8fe7522a2fa6756fa41d9", null ]
 ];

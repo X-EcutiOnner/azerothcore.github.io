@@ -1,6 +1,10 @@
 var a21833 =
 [
-    [ "npc_spiritual_insightAI", "dd/d09/a21833.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "dd/d09/a21833.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "dd/d09/a21833.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_engineer_heliceAI", "dd/d09/a21833.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "dd/d09/a21833.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "dd/d09/a21833.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "dd/d09/a21833.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "dd/d09/a21833.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "WaypointReached", "dd/d09/a21833.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "m_uiChatTimer", "dd/d09/a21833.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

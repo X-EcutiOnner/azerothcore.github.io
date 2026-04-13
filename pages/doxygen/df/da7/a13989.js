@@ -1,6 +1,6 @@
 var a13989 =
 [
-    [ "HandleSendEvent", "df/da7/a13989.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "df/da7/a13989.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "df/da7/a13989.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "npc_tyrion_spybotAI", "d0/d0e/a13993.html", "d0/d0e/a13993" ],
+    [ "npc_tyrion_spybot", "df/da7/a13989.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "df/da7/a13989.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

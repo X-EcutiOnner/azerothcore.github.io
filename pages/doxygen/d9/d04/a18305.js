@@ -1,9 +1,9 @@
 var a18305 =
 [
-    [ "CountTargets", "d9/d04/a18305.html#aa72b762d802c27047d485a8a314c6c6d", null ],
-    [ "Load", "d9/d04/a18305.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
-    [ "PrepareSpellScript", "d9/d04/a18305.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
-    [ "Register", "d9/d04/a18305.html#a86cad92c07fa31c730a3b560d33ed824", null ],
-    [ "SplitDamage", "d9/d04/a18305.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
-    [ "_targetCount", "d9/d04/a18305.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
+    [ "AfterApply", "d9/d04/a18305.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
+    [ "ExtraRemoveEffect", "d9/d04/a18305.html#a9f427761fcca9029eb75d586e5876fcd", null ],
+    [ "PeriodicTick", "d9/d04/a18305.html#a82430399e44001343f322b2c3b7769a5", null ],
+    [ "PrepareAuraScript", "d9/d04/a18305.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
+    [ "Register", "d9/d04/a18305.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
+    [ "Validate", "d9/d04/a18305.html#ae20873e93fbace6272a793993fb45349", null ]
 ];

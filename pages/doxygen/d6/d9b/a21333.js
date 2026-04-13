@@ -1,10 +1,9 @@
 var a21333 =
 [
-    [ "npc_erekem_guardAI", "d6/d9b/a21333.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
-    [ "JustEngagedWith", "d6/d9b/a21333.html#a93819c5c76821b1c9559be55359d677e", null ],
-    [ "MoveInLineOfSight", "d6/d9b/a21333.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
-    [ "Reset", "d6/d9b/a21333.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
-    [ "UpdateAI", "d6/d9b/a21333.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
-    [ "events", "d6/d9b/a21333.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
-    [ "pInstance", "d6/d9b/a21333.html#a81985b8522111f2aae540353cd5641fe", null ]
+    [ "npc_mageguard_dalaranAI", "d6/d9b/a21333.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "d6/d9b/a21333.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "d6/d9b/a21333.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "d6/d9b/a21333.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "d6/d9b/a21333.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "d6/d9b/a21333.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

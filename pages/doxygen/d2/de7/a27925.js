@@ -1,6 +1,6 @@
 var a27925 =
 [
-    [ "HandleProc", "d2/de7/a27925.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
-    [ "PrepareAuraScript", "d2/de7/a27925.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
-    [ "Register", "d2/de7/a27925.html#adf0852d1aad8097143df205a66a49f2f", null ]
+    [ "go_soulwellAI", "da/df8/a27929.html", "da/df8/a27929" ],
+    [ "go_soulwell", "d2/de7/a27925.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "d2/de7/a27925.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

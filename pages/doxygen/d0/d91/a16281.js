@@ -1,6 +1,10 @@
 var a16281 =
 [
-    [ "npc_shadowpriest_sezzizAI", "d7/dd3/a16285.html", "d7/dd3/a16285" ],
-    [ "npc_shadowpriest_sezziz", "d0/d91/a16281.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
-    [ "GetAI", "d0/d91/a16281.html#a1513b766f18dbc290b6682582fd33b1d", null ]
+    [ "HandleDummy", "d0/d91/a16281.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
+    [ "HandleSchoolDamage", "d0/d91/a16281.html#a8372b7d176c94689b1b7fe99add7812e", null ],
+    [ "Load", "d0/d91/a16281.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
+    [ "PrepareSpellScript", "d0/d91/a16281.html#a3fd71e2a93f99f19443640a2147b1663", null ],
+    [ "Register", "d0/d91/a16281.html#a8278d362a4354ccf81665ce0067c9a06", null ],
+    [ "Validate", "d0/d91/a16281.html#a414b1e1396910b87a671305ce9dcab09", null ],
+    [ "_spawned", "d0/d91/a16281.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
 ];

@@ -1,10 +1,5 @@
 var a10473 =
 [
-    [ "AchievementScript", "d5/de8/a10473.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
-    [ "CanCheckCriteria", "d5/de8/a10473.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
-    [ "IsCompletedCriteria", "d5/de8/a10473.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
-    [ "IsDatabaseBound", "d5/de8/a10473.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
-    [ "IsRealmCompleted", "d5/de8/a10473.html#abc54c295c1bcad45e21aed99e43a3713", null ],
-    [ "OnBeforeCheckCriteria", "d5/de8/a10473.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
-    [ "SetRealmCompleted", "d5/de8/a10473.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
+    [ "Description", "d5/de8/a10473.html#a1d49e1ff4533507cb64dfc8fc6790c37", null ],
+    [ "MaxLimit", "d5/de8/a10473.html#a38ba12a67e99cabba2388a63f12a2b53", null ]
 ];

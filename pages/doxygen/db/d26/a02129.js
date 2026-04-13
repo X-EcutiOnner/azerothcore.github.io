@@ -1,7 +1,13 @@
 var a02129 =
 [
-    [ "inventory_commandscript", "d4/d2d/a12218.html", "d4/d2d/a12218" ],
-    [ "AddSC_inventory_commandscript", "db/d26/a02129.html#a8917ab2c5001702c3dc7a14313dbc562", null ],
-    [ "bagSpecsColors", "db/d26/a02129.html#aabf9a2b965ae6153eb18635be4468eb6", null ],
-    [ "bagSpecsToString", "db/d26/a02129.html#ac004d76eb746ea415b16f1b512a057b6", null ]
+    [ "WorldPackets::Character::ShowingCloak", "d5/d11/a10825.html", "d5/d11/a10825" ],
+    [ "WorldPackets::Character::ShowingHelm", "d7/df4/a10829.html", "d7/df4/a10829" ],
+    [ "WorldPackets::Character::LogoutRequest", "d4/d71/a10833.html", "d4/d71/a10833" ],
+    [ "WorldPackets::Character::LogoutResponse", "d2/d6c/a10837.html", "d2/d6c/a10837" ],
+    [ "WorldPackets::Character::LogoutComplete", "de/d72/a10841.html", "de/d72/a10841" ],
+    [ "WorldPackets::Character::LogoutCancel", "d8/d0b/a10845.html", "d8/d0b/a10845" ],
+    [ "WorldPackets::Character::LogoutCancelAck", "d2/d1c/a10849.html", "d2/d1c/a10849" ],
+    [ "WorldPackets::Character::PlayerLogout", "db/dcd/a10853.html", "db/dcd/a10853" ],
+    [ "WorldPackets::Character::PlayedTimeClient", "d2/d59/a10857.html", "d2/d59/a10857" ],
+    [ "WorldPackets::Character::PlayedTime", "d2/d68/a10861.html", "d2/d68/a10861" ]
 ];

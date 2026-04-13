@@ -1,10 +1,8 @@
 var a29205 =
 [
-    [ "ID", "d6/db7/a29205.html#a906c42770a619884f08b67e2870bff93", null ],
-    [ "reqarenapoints", "d6/db7/a29205.html#a5d45007a832d6120e29c7821c07646de", null ],
-    [ "reqarenaslot", "d6/db7/a29205.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
-    [ "reqhonorpoints", "d6/db7/a29205.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
-    [ "reqitem", "d6/db7/a29205.html#a9cba8872c909260a55dcfdf7f4726899", null ],
-    [ "reqitemcount", "d6/db7/a29205.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
-    [ "reqpersonalarenarating", "d6/db7/a29205.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
+    [ "auraHasCanProcFromProcs", "d6/db7/a29205.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
+    [ "isTriggered", "d6/db7/a29205.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
+    [ "procAuraSpellId", "d6/db7/a29205.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
+    [ "spellHasNotAProc", "d6/db7/a29205.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
+    [ "triggeredByAuraSpellId", "d6/db7/a29205.html#ad62562e342e1d090e3f26f7c40a35795", null ]
 ];

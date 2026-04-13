@@ -1,11 +1,7 @@
 var a13605 =
 [
-    [ "npc_scholomance_occultistAI", "db/d51/a13605.html#af78103d07aef427130d26b4aed5e5ae3", null ],
-    [ "JustEngagedWith", "db/d51/a13605.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
-    [ "JustReachedHome", "db/d51/a13605.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
-    [ "SelectUnitCasting", "db/d51/a13605.html#adde187b89a74a57aac823e4eb19bfeed", null ],
-    [ "UpdateAI", "db/d51/a13605.html#ab02edf780adb553b2314045d8effa277", null ],
-    [ "events", "db/d51/a13605.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
-    [ "instance", "db/d51/a13605.html#a195fe4d681580c17086a5390fd4f82ba", null ],
-    [ "originalDisplayId", "db/d51/a13605.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
+    [ "CorruptTriggers", "db/d51/a13605.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "db/d51/a13605.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "db/d51/a13605.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "db/d51/a13605.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

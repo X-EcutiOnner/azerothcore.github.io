@@ -1,7 +1,7 @@
 var a05305 =
 [
-    [ "WModelAreaCallback", "d5/d70/a05305.html#aef7e8c21f6be4d6889faddda6b3be326", null ],
-    [ "operator()", "d5/d70/a05305.html#a8024f924c258932c874c0ac3539d2755", null ],
-    [ "hit", "d5/d70/a05305.html#a92b907262a6e2fa630148580da43c612", null ],
-    [ "prims", "d5/d70/a05305.html#abe509366e68fff92e07c1aacb90da04f", null ]
+    [ "GameobjectModelData", "d5/d70/a05305.html#a7d259df5a5541f95e0f548674d023fc8", null ],
+    [ "bound", "d5/d70/a05305.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
+    [ "isWmo", "d5/d70/a05305.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
+    [ "name", "d5/d70/a05305.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
 ];

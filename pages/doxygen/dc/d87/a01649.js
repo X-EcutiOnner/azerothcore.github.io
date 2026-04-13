@@ -1,10 +1,13 @@
 var a01649 =
 [
-    [ "instance_sethekk_halls", "d1/d36/a22358.html", "d1/d36/a22358" ],
-    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "dd/dac/a22362.html", "dd/dac/a22362" ],
-    [ "AddSC_instance_sethekk_halls", "dc/d87/a01649.html#a14325c1667938972a51bf364b00fe3c3", null ],
-    [ "anzuSummonEventId", "dc/d87/a01649.html#aa1fc295d418ed62b1c08ea6d11e111e3", null ],
-    [ "creatureData", "dc/d87/a01649.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "dc/d87/a01649.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "dc/d87/a01649.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "FollowerAI", "da/d75/a06513.html", "da/d75/a06513" ],
+    [ "eFollowState", "dc/d87/a01649.html#a1ec9c3a60a913ecbf16778626ccf0138", [
+      [ "STATE_FOLLOW_NONE", "dc/d87/a01649.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
+      [ "STATE_FOLLOW_INPROGRESS", "dc/d87/a01649.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
+      [ "STATE_FOLLOW_RETURNING", "dc/d87/a01649.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
+      [ "STATE_FOLLOW_PAUSED", "dc/d87/a01649.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
+      [ "STATE_FOLLOW_COMPLETE", "dc/d87/a01649.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
+      [ "STATE_FOLLOW_PREEVENT", "dc/d87/a01649.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
+      [ "STATE_FOLLOW_POSTEVENT", "dc/d87/a01649.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
+    ] ]
 ];

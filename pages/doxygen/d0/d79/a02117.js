@@ -1,5 +1,9 @@
 var a02117 =
 [
-    [ "quest_commandscript", "d0/db0/a12310.html", "d0/db0/a12310" ],
-    [ "AddSC_quest_commandscript", "d0/d79/a02117.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ]
+    [ "WorldPackets::NPC::Hello", "df/db3/a11297.html", "df/db3/a11297" ],
+    [ "WorldPackets::NPC::TrainerListSpell", "d8/d35/a11301.html", "d8/d35/a11301" ],
+    [ "WorldPackets::NPC::TrainerList", "d0/dbf/a11305.html", "d0/dbf/a11305" ],
+    [ "WorldPackets::NPC::TrainerBuySpell", "d8/dce/a11309.html", "d8/dce/a11309" ],
+    [ "WorldPackets::NPC::TrainerBuyFailed", "d4/d21/a11313.html", "d4/d21/a11313" ],
+    [ "WorldPackets::NPC::TrainerBuySucceeded", "d4/ddb/a11317.html", "d4/ddb/a11317" ]
 ];

@@ -1,9 +1,8 @@
 var a26153 =
 [
-    [ "OnEffectHitTargetDisarm", "de/d5b/a26153.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "de/d5b/a26153.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "de/d5b/a26153.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "de/d5b/a26153.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "de/d5b/a26153.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "de/d5b/a26153.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "CheckProc", "de/d5b/a26153.html#a801610a9f9fae5cb711850254b291268", null ],
+    [ "HandleProc", "de/d5b/a26153.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
+    [ "PrepareAuraScript", "de/d5b/a26153.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
+    [ "Register", "de/d5b/a26153.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
+    [ "Validate", "de/d5b/a26153.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
 ];

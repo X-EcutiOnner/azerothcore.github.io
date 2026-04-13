@@ -1,7 +1,7 @@
 var a18933 =
 [
-    [ "AuraRemoveEvent", "de/d85/a18933.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "de/d85/a18933.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "de/d85/a18933.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "de/d85/a18933.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "HandleScript", "de/d85/a18933.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "de/d85/a18933.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "de/d85/a18933.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "de/d85/a18933.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

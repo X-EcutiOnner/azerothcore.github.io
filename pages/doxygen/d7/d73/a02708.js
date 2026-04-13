@@ -1,10 +1,12 @@
 var a02708 =
 [
-    [ "instance_ahnkahet", "d8/dac/a16142.html", "d8/dac/a16142" ],
-    [ "instance_ahnkahet::instance_ahnkahet_InstanceScript", "d4/d27/a16146.html", "d4/d27/a16146" ],
-    [ "spell_shadow_sickle_periodic_damage", "d4/d00/a16150.html", "d4/d00/a16150" ],
-    [ "AddSC_instance_ahnkahet", "d7/d73/a02708.html#a33aed24f64879c91101f7420c4d49cc3", null ],
-    [ "boundaries", "d7/d73/a02708.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "instance_shadow_labyrinth", "d4/db8/a22333.html", "d4/db8/a22333" ],
+    [ "instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript", "d0/d75/a22337.html", "d0/d75/a22337" ],
+    [ "spell_mark_of_malice", "d5/d01/a22341.html", "d5/d01/a22341" ],
+    [ "MarkOfMalice", "d7/d73/a02708.html#a5faa1e1ef40cd28efc7332da31667677", [
+      [ "SPELL_MARK_OF_MALICE_TRIGGERED", "d7/d73/a02708.html#a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb", null ]
+    ] ],
+    [ "AddSC_instance_shadow_labyrinth", "d7/d73/a02708.html#ad8948ff8ccd6c3cee367ad7227308846", null ],
     [ "creatureData", "d7/d73/a02708.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "doorData", "d7/d73/a02708.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

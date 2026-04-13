@@ -1,7 +1,6 @@
 var a19245 =
 [
-    [ "HandleDummyLaunch", "dc/d87/a19245.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "dc/d87/a19245.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "dc/d87/a19245.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "dc/d87/a19245.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "boss_grobbulus_poison_cloudAI", "de/d7c/a19249.html", "de/d7c/a19249" ],
+    [ "boss_grobbulus_poison_cloud", "dc/d87/a19245.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "dc/d87/a19245.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

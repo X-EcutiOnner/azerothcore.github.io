@@ -1,6 +1,6 @@
 var a10881 =
 [
-    [ "GuildInviteByName", "d1/d55/a10881.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
-    [ "Read", "d1/d55/a10881.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
-    [ "Name", "d1/d55/a10881.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
+    [ "SetSheathed", "d1/d55/a10881.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
+    [ "Read", "d1/d55/a10881.html#ae2158689450e3a9207b6992ea5223106", null ],
+    [ "CurrentSheathState", "d1/d55/a10881.html#a8363787ac7959f19234def2707ef0b32", null ]
 ];

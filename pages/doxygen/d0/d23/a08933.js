@@ -1,6 +1,11 @@
 var a08933 =
 [
-    [ "GlobalCooldown", "d0/d23/a08933.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "d0/d23/a08933.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "d0/d23/a08933.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "FriendInfo", "d0/d23/a08933.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
+    [ "FriendInfo", "d0/d23/a08933.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
+    [ "Area", "d0/d23/a08933.html#adf16884b55545ed9302dbb54d653867b", null ],
+    [ "Class", "d0/d23/a08933.html#a8b797fcfda05d52d4297f32e458be519", null ],
+    [ "Flags", "d0/d23/a08933.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
+    [ "Level", "d0/d23/a08933.html#a70d9a74f4587f648db5bf49b61091213", null ],
+    [ "Note", "d0/d23/a08933.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
+    [ "Status", "d0/d23/a08933.html#a380f11d65b34e1e598b7861987cecfe6", null ]
 ];

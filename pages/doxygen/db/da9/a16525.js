@@ -1,7 +1,6 @@
 var a16525 =
 [
-    [ "CheckDistance", "db/da9/a16525.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
-    [ "PrepareSpellScript", "db/da9/a16525.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
-    [ "Register", "db/da9/a16525.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
-    [ "Validate", "db/da9/a16525.html#aa5d7a420154b156ca24e73de2faf912a", null ]
+    [ "npc_argent_soldierAI", "d6/d2f/a16529.html", "d6/d2f/a16529" ],
+    [ "npc_argent_soldier", "db/da9/a16525.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "db/da9/a16525.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

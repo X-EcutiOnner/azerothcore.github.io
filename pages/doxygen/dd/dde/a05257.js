@@ -1,13 +1,8 @@
 var a05257 =
 [
-    [ "GroupModel_Raw", "dd/dde/a05257.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
-    [ "~GroupModel_Raw", "dd/dde/a05257.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
-    [ "Read", "dd/dde/a05257.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
-    [ "bounds", "dd/dde/a05257.html#a830d79fdd2f21164bd805051352a3aa8", null ],
-    [ "GroupWMOID", "dd/dde/a05257.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
-    [ "liquid", "dd/dde/a05257.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
-    [ "liquidflags", "dd/dde/a05257.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
-    [ "mogpflags", "dd/dde/a05257.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
-    [ "triangles", "dd/dde/a05257.html#af692734697f525672027f251addebe6d", null ],
-    [ "vertexArray", "dd/dde/a05257.html#ad73c215408218900973df4dbdd8fcd18", null ]
+    [ "LocationInfoCallback", "dd/dde/a05257.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
+    [ "operator()", "dd/dde/a05257.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
+    [ "locInfo", "dd/dde/a05257.html#a9a8b8529a571b3652cd898b2888d8027", null ],
+    [ "prims", "dd/dde/a05257.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
+    [ "result", "dd/dde/a05257.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
 ];

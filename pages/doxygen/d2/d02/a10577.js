@@ -1,17 +1,12 @@
 var a10577 =
 [
-    [ "GameObjectScript", "d2/d02/a10577.html#a9d9cf73435a16d7fef450134c03980bb", null ],
-    [ "GetAI", "d2/d02/a10577.html#a05492473fa28c0f7c80770aa3445ce4e", null ],
-    [ "GetDialogStatus", "d2/d02/a10577.html#ac526fbe66b9b1e9edca51f9fd20a40b9", null ],
-    [ "IsDatabaseBound", "d2/d02/a10577.html#a020e07dfd6e99b55bf5c8e56cfdd3948", null ],
-    [ "OnDamaged", "d2/d02/a10577.html#a2fb7d0f8f01ce083643bc0cb810fc612", null ],
-    [ "OnDestroyed", "d2/d02/a10577.html#a042676e98453494ab49bb90216755052", null ],
-    [ "OnGameObjectStateChanged", "d2/d02/a10577.html#a4992d88f026bf906852f085db4e8768e", null ],
-    [ "OnGossipHello", "d2/d02/a10577.html#a58b56fc92ae87aea0530eceba1f3088d", null ],
-    [ "OnGossipSelect", "d2/d02/a10577.html#a612884c70eed9c56958ab49dc1e2bb1f", null ],
-    [ "OnGossipSelectCode", "d2/d02/a10577.html#ac9c9feb4d08ea0e5ad202ada205a9772", null ],
-    [ "OnLootStateChanged", "d2/d02/a10577.html#ab93c178f2137e92da28665d28bfec1d5", null ],
-    [ "OnModifyHealth", "d2/d02/a10577.html#a1ff457beae2b6249a9d3ecd08fd1b5a4", null ],
-    [ "OnQuestAccept", "d2/d02/a10577.html#afd22217feca39340d68b9c7fd6c1caa8", null ],
-    [ "OnQuestReward", "d2/d02/a10577.html#a233712ff412081583a8295cf512da48d", null ]
+    [ "ArenaScript", "d2/d02/a10577.html#acba88d9008e08873f3f20b92d69e8912", null ],
+    [ "CanAddMember", "d2/d02/a10577.html#aa85728dd471c2f4d58ed1794e741d060", null ],
+    [ "CanSaveArenaStatsForMember", "d2/d02/a10577.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
+    [ "CanSaveToDB", "d2/d02/a10577.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
+    [ "IsDatabaseBound", "d2/d02/a10577.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
+    [ "OnArenaStart", "d2/d02/a10577.html#ae67b000b16f56309da56f672a9f2b423", null ],
+    [ "OnBeforeArenaCheckWinConditions", "d2/d02/a10577.html#a2b46190a3243f2306a74295975dca317", null ],
+    [ "OnBeforeArenaTeamMemberUpdate", "d2/d02/a10577.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
+    [ "OnGetPoints", "d2/d02/a10577.html#a13b22ad00d3742589532e6e522258834", null ]
 ];

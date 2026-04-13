@@ -1,5 +1,7 @@
 var a13441 =
 [
-    [ "go_acherus_soul_prison", "df/d01/a13441.html#a13c858f74080b8f7963fdacc4b554019", null ],
-    [ "OnGossipHello", "df/d01/a13441.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
+    [ "boss_apothecary_hummelAI", "df/d50/a13445.html", "df/d50/a13445" ],
+    [ "boss_apothecary_hummel", "df/d01/a13441.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "df/d01/a13441.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "df/d01/a13441.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
 ];

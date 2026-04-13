@@ -1,6 +1,8 @@
 var a10545 =
 [
-    [ "ConditionScript", "de/d96/a10545.html#a546130ee7ed33c7763115cb0d1506a1b", null ],
-    [ "IsDatabaseBound", "de/d96/a10545.html#ac4f8325e3fa1e11437056818a0267342", null ],
-    [ "OnConditionCheck", "de/d96/a10545.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
+    [ "AllCommandScript", "de/d96/a10545.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "de/d96/a10545.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "de/d96/a10545.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "de/d96/a10545.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "de/d96/a10545.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

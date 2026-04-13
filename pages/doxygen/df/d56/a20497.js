@@ -1,6 +1,11 @@
 var a20497 =
 [
-    [ "HandleAfterEffectApply", "df/d56/a20497.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "df/d56/a20497.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "df/d56/a20497.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "boss_thorim_arena_npcs", "df/d56/a20497.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "df/d56/a20497.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "df/d56/a20497.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "df/d56/a20497.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "df/d56/a20497.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "df/d56/a20497.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "df/d56/a20497.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "df/d56/a20497.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

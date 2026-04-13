@@ -1,5 +1,6 @@
 var a13313 =
 [
-    [ "at_karazhan_side_entrance", "db/d00/a13313.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
-    [ "_OnTrigger", "db/d00/a13313.html#a80d0018a9442ef7f0834dc329047e135", null ]
+    [ "npc_acherus_necromancerAI", "d4/d3c/a13317.html", "d4/d3c/a13317" ],
+    [ "npc_acherus_necromancer", "db/d00/a13313.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "db/d00/a13313.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

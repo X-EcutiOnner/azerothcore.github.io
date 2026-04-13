@@ -1,6 +1,5 @@
 var a07553 =
 [
-    [ "_Battlegrounds", "d0/d8d/a07553.html#aa48f3a9d4a51e357055a0bc60ca41d7c", null ],
-    [ "_ClientBattlegroundIds", "d0/d8d/a07553.html#a0526fab23b40ac1b33ce18243ad41132", null ],
-    [ "BGFreeSlotQueue", "d0/d8d/a07553.html#a49fd7eb3a472894f233d309d35d509be", null ]
+    [ "CreateFilterByUserInput", "d0/d8d/a07553.html#ae35ff456f56290032c4c62d252a83690", null ],
+    [ "ParseTypes", "d0/d8d/a07553.html#a79a78392d31f1fbf3d8475572d570c1c", null ]
 ];

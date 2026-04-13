@@ -1,8 +1,10 @@
 var a23561 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "dd/d88/a23561.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "dd/d88/a23561.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "dd/d88/a23561.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "dd/d88/a23561.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "dd/d88/a23561.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "npc_raging_flames", "dd/d88/a23561.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "dd/d88/a23561.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "dd/d88/a23561.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "dd/d88/a23561.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "dd/d88/a23561.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "dd/d88/a23561.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "dd/d88/a23561.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

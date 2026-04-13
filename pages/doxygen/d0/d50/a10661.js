@@ -1,9 +1,7 @@
 var a10661 =
 [
-    [ "TransportScript", "d0/d50/a10661.html#a4b83123b122fa98831d304670a3de50a", null ],
-    [ "IsDatabaseBound", "d0/d50/a10661.html#a956f0d757e5d974566fa8fac0df731e5", null ],
-    [ "OnAddCreaturePassenger", "d0/d50/a10661.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
-    [ "OnAddPassenger", "d0/d50/a10661.html#a806f4829b47429900271f6dde7eaa625", null ],
-    [ "OnRelocate", "d0/d50/a10661.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
-    [ "OnRemovePassenger", "d0/d50/a10661.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
+    [ "InstanceMapScript", "d0/d50/a10661.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
+    [ "checkValidity", "d0/d50/a10661.html#a221dd91e2d2f761e66d990a6cae42306", null ],
+    [ "GetInstanceScript", "d0/d50/a10661.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
+    [ "IsDatabaseBound", "d0/d50/a10661.html#ab77651bb427813a7e119057c3dc53ca8", null ]
 ];

@@ -1,8 +1,8 @@
 var a20113 =
 [
-    [ "HandlePeriodic", "dc/dc6/a20113.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "dc/dc6/a20113.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "dc/dc6/a20113.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "dc/dc6/a20113.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "dc/dc6/a20113.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "npc_ulduar_saronite_animus", "dc/dc6/a20113.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
+    [ "JustDied", "dc/dc6/a20113.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
+    [ "UpdateAI", "dc/dc6/a20113.html#afc7899752e25669b37ab04b50fb2d604", null ],
+    [ "_instance", "dc/dc6/a20113.html#a6f2bf52c82185365efe88941b7922504", null ],
+    [ "timer", "dc/dc6/a20113.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
 ];

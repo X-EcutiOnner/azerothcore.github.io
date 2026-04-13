@@ -1,6 +1,7 @@
 var a17525 =
 [
-    [ "npc_pos_leaderAI", "de/d61/a17529.html", "de/d61/a17529" ],
-    [ "npc_pos_leader", "d2/d84/a17525.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "d2/d84/a17525.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "HandleDummyTick", "d2/d84/a17525.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "d2/d84/a17525.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "d2/d84/a17525.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "d2/d84/a17525.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

@@ -1,6 +1,5 @@
 var a27673 =
 [
-    [ "HandleScriptEffect", "d0/db2/a27673.html#a3f8988017d088d08df08ba8b696b552b", null ],
-    [ "PrepareSpellScript", "d0/db2/a27673.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
-    [ "Register", "d0/db2/a27673.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "d0/db2/a27673.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "d0/db2/a27673.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

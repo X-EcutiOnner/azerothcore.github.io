@@ -1,6 +1,6 @@
 var a15081 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "da/dd3/a15085.html", "da/dd3/a15085" ],
-    [ "instance_blackfathom_deeps", "dd/dfe/a15081.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "dd/dfe/a15081.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "npc_crate_helperAI", "da/dd3/a15085.html", "da/dd3/a15085" ],
+    [ "npc_crate_helper", "dd/dfe/a15081.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "dd/dfe/a15081.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

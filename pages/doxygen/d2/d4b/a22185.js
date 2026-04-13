@@ -1,15 +1,17 @@
 var a22185 =
 [
-    [ "npc_jungle_punch_targetAI", "d2/d4b/a22185.html#a04f09361f6bc4bc752ca773878187f79", null ],
-    [ "MoveInLineOfSight", "d2/d4b/a22185.html#adc08551a256220bab144ef26d89c4263", null ],
-    [ "proceedCwEvent", "d2/d4b/a22185.html#a54f8a5c7414f4a9fd019e02fede1970d", null ],
-    [ "Reset", "d2/d4b/a22185.html#a56faff3edbe0d13969e8d20e6c3e03a2", null ],
-    [ "SpellHit", "d2/d4b/a22185.html#a3515e873adf5a097f66764887e3cc5a3", null ],
-    [ "UpdateAI", "d2/d4b/a22185.html#afa2a1bcdeef51e9f984307f576a1ff6e", null ],
-    [ "orphanGUID", "d2/d4b/a22185.html#a5947a4415b63f8bbda4d53c44ccebf74", null ],
-    [ "phase", "d2/d4b/a22185.html#a737a9016c93d621bf8cfa29d6b66b345", null ],
-    [ "playerGUID", "d2/d4b/a22185.html#afbb4e4c74c2634a442171f06bb2eff08", null ],
-    [ "sayStep", "d2/d4b/a22185.html#a1b1757dd6e0775f1f4791b4feafd86fb", null ],
-    [ "sayTimer", "d2/d4b/a22185.html#a4edf558dbc54ff1acab15d6daf0a5613", null ],
-    [ "timer", "d2/d4b/a22185.html#a0fa884bf3003267501f048d3f1287d42", null ]
+    [ "OutdoorPvPSI", "d2/d4b/a22185.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
+    [ "FillInitialWorldStates", "d2/d4b/a22185.html#a7392eed60ec3307bdea4ed35cd859077", null ],
+    [ "HandleAreaTrigger", "d2/d4b/a22185.html#a7c6d70d7a611752456c55d13420ff840", null ],
+    [ "HandleCustomSpell", "d2/d4b/a22185.html#a10853a2f5766b6fc75044a20b281a198", null ],
+    [ "HandleDropFlag", "d2/d4b/a22185.html#a9238a5007253d84d66192bd340d8311a", null ],
+    [ "HandlePlayerEnterZone", "d2/d4b/a22185.html#ad2cabd461406a61e40411850b3d31c0c", null ],
+    [ "HandlePlayerLeaveZone", "d2/d4b/a22185.html#aa06088b1d80072577e6fc7653a214512", null ],
+    [ "SendRemoveWorldStates", "d2/d4b/a22185.html#aae7deda0662b28f6fc0e16115a65304b", null ],
+    [ "SetupOutdoorPvP", "d2/d4b/a22185.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
+    [ "Update", "d2/d4b/a22185.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
+    [ "UpdateWorldState", "d2/d4b/a22185.html#a81f4362ece83f37f14471926e9a85fb3", null ],
+    [ "m_Gathered_A", "d2/d4b/a22185.html#ab532337ab7e66e1489221e3189e48bac", null ],
+    [ "m_Gathered_H", "d2/d4b/a22185.html#abcd36fe918edbbea387573bd5fab89e7", null ],
+    [ "m_LastController", "d2/d4b/a22185.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
 ];

@@ -1,12 +1,7 @@
 var a20021 =
 [
-    [ "boss_sjonnirAI", "de/dad/a20021.html#a53127766553d1bee4d7331e6f4fcda05", null ],
-    [ "ActivatePipe", "de/dad/a20021.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
-    [ "DoAction", "de/dad/a20021.html#afb2f73908bc17c763a8028af4b499481", null ],
-    [ "JustDied", "de/dad/a20021.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
-    [ "JustEngagedWith", "de/dad/a20021.html#aade776baf55155bb3814129ddc2f9632", null ],
-    [ "KilledUnit", "de/dad/a20021.html#ac79740a8c5e4263f2917647c74e995aa", null ],
-    [ "Reset", "de/dad/a20021.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "ScheduleTasks", "de/dad/a20021.html#a5c3c31c5be424795e4e96291c910c73c", null ],
-    [ "SlugeCount", "de/dad/a20021.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
+    [ "OnPeriodic", "de/dad/a20021.html#a9407d5477a40e36863e5fb5775dda122", null ],
+    [ "PrepareAuraScript", "de/dad/a20021.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
+    [ "Register", "de/dad/a20021.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
+    [ "Validate", "de/dad/a20021.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
 ];

@@ -1,6 +1,7 @@
 var a16917 =
 [
-    [ "npc_toc_warlockAI", "dc/df6/a16921.html", "dc/df6/a16921" ],
-    [ "npc_toc_warlock", "d3/dd8/a16917.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
-    [ "GetAI", "d3/dd8/a16917.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
+    [ "HandleAfterEffectAbsorb", "d3/dd8/a16917.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
+    [ "PrepareAuraScript", "d3/dd8/a16917.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
+    [ "Register", "d3/dd8/a16917.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
+    [ "Validate", "d3/dd8/a16917.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
 ];

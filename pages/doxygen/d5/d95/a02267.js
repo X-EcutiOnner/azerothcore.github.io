@@ -1,6 +1,8 @@
 var a02267 =
 [
-    [ "instance_culling_of_stratholme", "d3/d23/a15090.html", "d3/d23/a15090" ],
-    [ "instance_culling_of_stratholme::instance_culling_of_stratholme_InstanceMapScript", "d3/dd4/a15094.html", "d3/dd4/a15094" ],
-    [ "AddSC_instance_culling_of_stratholme", "d5/d95/a02267.html#adb1b78926a09436f6897c9050ef2d9ef", null ]
+    [ "spell_gordunni_trap", "de/d86/a15789.html", "de/d86/a15789" ],
+    [ "GordunniTrap", "d5/d95/a02267.html#ae11511f5835ecdfec73fde1f9f29431c", [
+      [ "GO_GORDUNNI_DIRT_MOUND", "d5/d95/a02267.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab", null ]
+    ] ],
+    [ "AddSC_feralas", "d5/d95/a02267.html#a06e54e3edc2df068be660ac788b402e3", null ]
 ];

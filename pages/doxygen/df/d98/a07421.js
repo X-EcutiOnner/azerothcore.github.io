@@ -1,11 +1,7 @@
 var a07421 =
 [
-    [ "gyid", "df/d98/a07421.html#a742fcc91d2daf1a9331f02a90496328c", null ],
-    [ "o", "df/d98/a07421.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
-    [ "startcontrol", "df/d98/a07421.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
-    [ "textid", "df/d98/a07421.html#a87d80377ad632b9d667eecf11ae8faae", null ],
-    [ "type", "df/d98/a07421.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
-    [ "x", "df/d98/a07421.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
-    [ "y", "df/d98/a07421.html#a405e8098772e77250683985f957ce5f3", null ],
-    [ "z", "df/d98/a07421.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
+    [ "AuctionSearchUpdateBid", "df/d98/a07421.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
+    [ "auctionId", "df/d98/a07421.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
+    [ "bid", "df/d98/a07421.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
+    [ "bidderGuid", "df/d98/a07421.html#a843bcff41f694075ea056d9a3c71467f", null ]
 ];

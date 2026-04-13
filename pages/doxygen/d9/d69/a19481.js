@@ -1,6 +1,6 @@
 var a19481 =
 [
-    [ "NotOnSameSide", "d9/d69/a19481.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "d9/d69/a19481.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "d9/d69/a19481.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "HandleScript", "d9/d69/a19481.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "d9/d69/a19481.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "d9/d69/a19481.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

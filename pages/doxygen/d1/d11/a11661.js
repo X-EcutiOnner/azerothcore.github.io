@@ -1,7 +1,7 @@
 var a11661 =
 [
-    [ "attributeMask", "d1/d11/a11661.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
-    [ "customChance", "d1/d11/a11661.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
-    [ "PPMChance", "d1/d11/a11661.html#adb76c11f0073a2738374c98c01fda009", null ],
-    [ "procEx", "d1/d11/a11661.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
+    [ "chance", "d1/d11/a11661.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "d1/d11/a11661.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "d1/d11/a11661.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "d1/d11/a11661.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

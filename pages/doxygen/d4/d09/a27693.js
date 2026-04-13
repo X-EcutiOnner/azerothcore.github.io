@@ -1,9 +1,6 @@
 var a27693 =
 [
-    [ "CheckCast", "d4/d09/a27693.html#a846862b62f5750801cd804133f290d5d", null ],
-    [ "HandleDummy", "d4/d09/a27693.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
-    [ "Load", "d4/d09/a27693.html#acec7437ba80e4ae491020448a36e4559", null ],
-    [ "PrepareSpellScript", "d4/d09/a27693.html#ab5e281028c009a4b317111de9a0a17e3", null ],
-    [ "Register", "d4/d09/a27693.html#a865fa526f2131703a668e113ba0d7849", null ],
-    [ "Validate", "d4/d09/a27693.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d4/d09/a27693.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d4/d09/a27693.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d4/d09/a27693.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

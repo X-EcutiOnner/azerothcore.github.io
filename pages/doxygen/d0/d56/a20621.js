@@ -1,11 +1,10 @@
 var a20621 =
 [
-    [ "npc_ulduar_proximity_mine", "d0/d56/a20621.html#ab9ce5859157d12f4577eda515a183ef6", null ],
-    [ "AttackStart", "d0/d56/a20621.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "d0/d56/a20621.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "d0/d56/a20621.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "d0/d56/a20621.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "exploded", "d0/d56/a20621.html#a3e291553aa853ebb5ff002599c68376c", null ],
-    [ "timer", "d0/d56/a20621.html#a8c69d475914fb11c149fea527d31f758", null ],
-    [ "timer2", "d0/d56/a20621.html#a8feed3514cc188da930ef45bbaa2ff50", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "d0/d56/a20621.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
+    [ "DoAction", "d0/d56/a20621.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "JustDied", "d0/d56/a20621.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "SelectConstrictTarget", "d0/d56/a20621.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "UpdateAI", "d0/d56/a20621.html#a930b35c2385ba2977f2f2da3b4b38f07", null ],
+    [ "_checkTimer", "d0/d56/a20621.html#aa6c76606c7c9e6ee71e94433cb721f96", null ],
+    [ "_playerGUID", "d0/d56/a20621.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

@@ -1,6 +1,6 @@
 var a18081 =
 [
-    [ "npc_gunship_boarding_add_realAI", "da/d91/a18085.html", "da/d91/a18085" ],
-    [ "npc_gunship_boarding_add", "de/d84/a18081.html#aa80871f80bae7186d3665f73d757e108", null ],
-    [ "GetAI", "de/d84/a18081.html#ad7e173bffccca6d852ba545427235447", null ]
+    [ "PrepareSpellScript", "de/d84/a18081.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "de/d84/a18081.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "de/d84/a18081.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

@@ -1,6 +1,6 @@
 var a18265 =
 [
-    [ "BoneStormMoveTargetSelector", "d3/d6e/a18265.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
-    [ "operator()", "d3/d6e/a18265.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
-    [ "_source", "d3/d6e/a18265.html#a03d8b1ec5f18398fe2963418bb319973", null ]
+    [ "UnchainedMagicTargetSelector", "d3/d6e/a18265.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "d3/d6e/a18265.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "d3/d6e/a18265.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

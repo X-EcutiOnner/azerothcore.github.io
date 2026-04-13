@@ -1,11 +1,8 @@
 var a27653 =
 [
-    [ "CalcPeriodic", "d3/da4/a27653.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "d3/da4/a27653.html#a55f649687813eb915c71ead6afb27276", null ],
-    [ "CalculateResistanceAmount", "d3/da4/a27653.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "d3/da4/a27653.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "d3/da4/a27653.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "d3/da4/a27653.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "d3/da4/a27653.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "d3/da4/a27653.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "CharacterActionIpLogger", "d3/da4/a27653.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "d3/da4/a27653.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "d3/da4/a27653.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "d3/da4/a27653.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "d3/da4/a27653.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

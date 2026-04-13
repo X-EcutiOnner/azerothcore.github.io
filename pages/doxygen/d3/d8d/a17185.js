@@ -1,10 +1,5 @@
 var a17185 =
 [
-    [ "boss_tharon_jaAI", "d3/d8d/a17185.html#a03025fa529e932f23479ff19b0cd8238", null ],
-    [ "DoAction", "d3/d8d/a17185.html#a655fd83c2d671847fea9ae393c132fb9", null ],
-    [ "JustDied", "d3/d8d/a17185.html#a7928b5db061f1073e1decc2d40601195", null ],
-    [ "JustEngagedWith", "d3/d8d/a17185.html#aab194a8f802eeb625d1a74960acbe154", null ],
-    [ "KilledUnit", "d3/d8d/a17185.html#a41e929a3768768eb06bafdee3269fd24", null ],
-    [ "Reset", "d3/d8d/a17185.html#a272e8565a9b00a27505b301d52814eee", null ],
-    [ "UpdateAI", "d3/d8d/a17185.html#a6f482cabcb0bd56711878a5ea297b950", null ]
+    [ "at_hor_battered_hilt_start", "d3/d8d/a17185.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
+    [ "OnTrigger", "d3/d8d/a17185.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
 ];

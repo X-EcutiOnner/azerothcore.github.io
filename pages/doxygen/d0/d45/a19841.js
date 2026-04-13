@@ -1,6 +1,6 @@
 var a19841 =
 [
-    [ "boss_eregosAI", "d7/d2e/a19845.html", "d7/d2e/a19845" ],
-    [ "boss_eregos", "d0/d45/a19841.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "d0/d45/a19841.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "HandlePeriodic", "d0/d45/a19841.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "d0/d45/a19841.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "d0/d45/a19841.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

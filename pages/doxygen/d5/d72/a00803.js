@@ -1,14 +1,5 @@
 var a00803 =
 [
-    [ "AccountInfo", "de/d4c/a05926.html", "de/d4c/a05926" ],
-    [ "AuthSession", "d8/d5e/a05930.html", "d8/d5e/a05930" ],
-    [ "AuthHandler", "da/d76/a05934.html", "da/d76/a05934" ],
-    [ "AuthStatus", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834", [
-      [ "STATUS_CHALLENGE", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4", null ],
-      [ "STATUS_LOGON_PROOF", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16", null ],
-      [ "STATUS_RECONNECT_PROOF", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834a2a06e7508d5944327eec6c08c11db734", null ],
-      [ "STATUS_AUTHED", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b", null ],
-      [ "STATUS_WAITING_FOR_REALM_LIST", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834a570e0aef98212ddcd09f1ec9254ffdf0", null ],
-      [ "STATUS_CLOSED", "d5/d72/a00803.html#a9bc15a6035dd7c4983d87a5ccb3d5834a78785eb1e6f5b92eaea5c78b3cc0dd94", null ]
-    ] ]
+    [ "BuildPartyLockDungeonBlock", "d5/d72/a00803.html#ad66b117794d47e10cfd7ba8bd40d4291", null ],
+    [ "BuildPlayerLockDungeonBlock", "d5/d72/a00803.html#aded010efcdae2fc43acfab5ff8fbf4ad", null ]
 ];

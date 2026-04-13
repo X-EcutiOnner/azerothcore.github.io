@@ -1,6 +1,7 @@
 var a12985 =
 [
-    [ "boss_shazzrahAI", "d9/d00/a12985.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
-    [ "ExecuteEvent", "d9/d00/a12985.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
-    [ "JustEngagedWith", "d9/d00/a12985.html#aaa8111d42cacd58f767513026976668c", null ]
+    [ "npc_malchezaar_axe", "d9/d00/a12985.html#a1a5615f2def10add30e7917b770ebc74", null ],
+    [ "Initialize", "d9/d00/a12985.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
+    [ "JustEngagedWith", "d9/d00/a12985.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
+    [ "UpdateAI", "d9/d00/a12985.html#a202ba6922a426f87909eefbccd070175", null ]
 ];

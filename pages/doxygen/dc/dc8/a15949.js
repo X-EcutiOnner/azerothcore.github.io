@@ -1,7 +1,6 @@
 var a15949 =
 [
-    [ "HandleDummy", "dc/dc8/a15949.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "dc/dc8/a15949.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "dc/dc8/a15949.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "dc/dc8/a15949.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "npc_twiggy_flatheadAI", "db/d6e/a15953.html", "db/d6e/a15953" ],
+    [ "npc_twiggy_flathead", "dc/dc8/a15949.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "dc/dc8/a15949.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

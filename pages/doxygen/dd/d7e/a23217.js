@@ -1,7 +1,8 @@
 var a23217 =
 [
-    [ "FilterTargets", "dd/d7e/a23217.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "dd/d7e/a23217.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "dd/d7e/a23217.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "dd/d7e/a23217.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "dd/d7e/a23217.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "dd/d7e/a23217.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "dd/d7e/a23217.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "dd/d7e/a23217.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "dd/d7e/a23217.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

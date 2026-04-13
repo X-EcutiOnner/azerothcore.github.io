@@ -1,6 +1,7 @@
 var a21601 =
 [
-    [ "HandleEffect", "da/d41/a21601.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
-    [ "PrepareSpellScript", "da/d41/a21601.html#aec199e9f9651267fac88bd86be326bb4", null ],
-    [ "Register", "da/d41/a21601.html#a14bd854db86750704c8377d457dea360", null ]
+    [ "HandleAfterEffectApply", "da/d41/a21601.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "da/d41/a21601.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "da/d41/a21601.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "da/d41/a21601.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

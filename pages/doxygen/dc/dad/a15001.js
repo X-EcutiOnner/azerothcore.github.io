@@ -1,7 +1,8 @@
 var a15001 =
 [
-    [ "HandleFinish", "dc/dad/a15001.html#a8927aaa07145b46067d5807c2048330a", null ],
-    [ "PrepareSpellScript", "dc/dad/a15001.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
-    [ "Register", "dc/dad/a15001.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
-    [ "Validate", "dc/dad/a15001.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
+    [ "hyjalTyrandeAI", "dc/dad/a15001.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "dc/dad/a15001.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "dc/dad/a15001.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "dc/dad/a15001.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "dc/dad/a15001.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

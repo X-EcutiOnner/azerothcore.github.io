@@ -1,7 +1,7 @@
 var a14929 =
 [
-    [ "HandleEffectApply", "df/dbc/a14929.html#ad48d832fef881bfb517fb8df694b7507", null ],
-    [ "HandleEffectRemove", "df/dbc/a14929.html#a1534b010301dbaff66d41443142c50b7", null ],
-    [ "PrepareAuraScript", "df/dbc/a14929.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
-    [ "Register", "df/dbc/a14929.html#a97a0003cca808e5b03f720bb3be07419", null ]
+    [ "HandleProc", "df/dbc/a14929.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
+    [ "PrepareAuraScript", "df/dbc/a14929.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
+    [ "Register", "df/dbc/a14929.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
+    [ "Validate", "df/dbc/a14929.html#a18398f81a80f9a1f47958de3be7b9189", null ]
 ];

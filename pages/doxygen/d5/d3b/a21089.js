@@ -1,12 +1,6 @@
 var a21089 =
 [
-    [ "boss_skarvald_the_constructor", "d5/d3b/a21089.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
-    [ "DoAction", "d5/d3b/a21089.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
-    [ "JustDied", "d5/d3b/a21089.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
-    [ "JustEngagedWith", "d5/d3b/a21089.html#a529439d257abf78f76db0043549964e6", null ],
-    [ "KilledUnit", "d5/d3b/a21089.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
-    [ "Reset", "d5/d3b/a21089.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
-    [ "UpdateAI", "d5/d3b/a21089.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
-    [ "events", "d5/d3b/a21089.html#a28837280e161f6971564a4725c97a154", null ],
-    [ "pInstance", "d5/d3b/a21089.html#ab5b773a9960f611a6383578a607ba258", null ]
+    [ "HandleEffectPeriodic", "d5/d3b/a21089.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "d5/d3b/a21089.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "d5/d3b/a21089.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

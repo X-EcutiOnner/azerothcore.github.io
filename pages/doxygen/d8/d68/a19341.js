@@ -1,13 +1,6 @@
 var a19341 =
 [
-    [ "npc_icc_putricades_trapAI", "d8/d68/a19341.html#a9252a83e3deee62d5796e9f283662771", null ],
-    [ "DoAction", "d8/d68/a19341.html#ac8a30d8eba315b967c4e0713b14dcba7", null ],
-    [ "JustReachedHome", "d8/d68/a19341.html#a98f908e89630b23584982e298193cc0e", null ],
-    [ "JustSummoned", "d8/d68/a19341.html#abc5776b08b4fd43a4bb430f160eb630a", null ],
-    [ "Reset", "d8/d68/a19341.html#a3430515c94fd419bd2c59113b3f4e625", null ],
-    [ "SummonedCreatureDies", "d8/d68/a19341.html#a2e49dc8924da5d5537c33f7306287963", null ],
-    [ "UpdateAI", "d8/d68/a19341.html#a724e133f2c4d8c9fe140b3b998c88f64", null ],
-    [ "events", "d8/d68/a19341.html#a3249114a5b208109ec2c2a23533ede82", null ],
-    [ "instance", "d8/d68/a19341.html#a9f6f342ffbf6a29c745de6ea6a5ec0dc", null ],
-    [ "summons", "d8/d68/a19341.html#aaa914f4c2b48bd24c2dd06bc3599f563", null ]
+    [ "boss_razuviousAI", "d6/d71/a19345.html", "d6/d71/a19345" ],
+    [ "boss_razuvious", "d8/d68/a19341.html#ac1a2942f4a7957c671b075df7bf20215", null ],
+    [ "GetAI", "d8/d68/a19341.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
 ];

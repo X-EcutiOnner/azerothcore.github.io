@@ -1,6 +1,8 @@
 var a16801 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d2/d6f/a16805.html", "d2/d6f/a16805" ],
-    [ "instance_trial_of_the_champion", "d9/d83/a16801.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "d9/d83/a16801.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "npc_toc_pet_hunterAI", "d9/d83/a16801.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "d9/d83/a16801.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "d9/d83/a16801.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "d9/d83/a16801.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "d9/d83/a16801.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

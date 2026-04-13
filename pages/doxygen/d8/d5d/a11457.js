@@ -1,8 +1,5 @@
 var a11457 =
 [
-    [ "PacketFilter", "d8/d5d/a11457.html#accfa43359c62d2e9d6c38086c77374bd", null ],
-    [ "~PacketFilter", "d8/d5d/a11457.html#a669531cfd9c06d5cf525986069117687", null ],
-    [ "Process", "d8/d5d/a11457.html#a03679e3c241a535757608c63ca933ac9", null ],
-    [ "ProcessUnsafe", "d8/d5d/a11457.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
-    [ "m_pSession", "d8/d5d/a11457.html#ad3723289ea93f1095cf82584268335d9", null ]
+    [ "PacketHandler", "d8/d5d/a11457.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
+    [ "Call", "d8/d5d/a11457.html#a42ac77b81d5280c7f1c54991649ab501", null ]
 ];

@@ -1,11 +1,8 @@
 var a15937 =
 [
-    [ "npc_troll_volunteerAI", "d6/d19/a15937.html#a7eb0c508122616a6781c8b23210e4062", null ],
-    [ "GetMountId", "d6/d19/a15937.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
-    [ "InitializeAI", "d6/d19/a15937.html#a1c758c7601624e0620778e13e8ec60a0", null ],
-    [ "MovementInform", "d6/d19/a15937.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
-    [ "Reset", "d6/d19/a15937.html#a31439533de41c2a459af2b4d3af76139", null ],
-    [ "SpellHit", "d6/d19/a15937.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
-    [ "_complete", "d6/d19/a15937.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
-    [ "_mountModel", "d6/d19/a15937.html#ae226345bd324b9c337dc96570117d82b", null ]
+    [ "npc_giltharesAI", "d6/d19/a15937.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d6/d19/a15937.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d6/d19/a15937.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d6/d19/a15937.html#a9308c73760e50e0f3d04031b508526d1", null ],
+    [ "WaypointReached", "d6/d19/a15937.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

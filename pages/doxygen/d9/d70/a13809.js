@@ -1,7 +1,4 @@
 var a13809 =
 [
-    [ "boss_kalec", "d9/d70/a13809.html#a9c36e31c750e93840f30f001cdaca0da", null ],
-    [ "JustDied", "d9/d70/a13809.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
-    [ "JustEngagedWith", "d9/d70/a13809.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
-    [ "UpdateAI", "d9/d70/a13809.html#ab55da7584fa7f545761a5bd547245747", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d9/d70/a13809.html#a255ebc2ebda65b412f46e05e332d605e", null ]
 ];

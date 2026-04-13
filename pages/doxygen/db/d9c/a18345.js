@@ -1,6 +1,5 @@
 var a18345 =
 [
-    [ "npc_gas_cloudAI", "db/d9c/a18345.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
-    [ "CastMainSpell", "db/d9c/a18345.html#a61681f6f9616fe33274302d4160c709b", null ],
-    [ "_newTargetSelectTimer", "db/d9c/a18345.html#a6989b904abaa5b71362e43664f4b084d", null ]
+    [ "at_sindragosa_lair", "db/d9c/a18345.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
+    [ "OnTrigger", "db/d9c/a18345.html#a07074bff20272042ed05be83dd818ee9", null ]
 ];

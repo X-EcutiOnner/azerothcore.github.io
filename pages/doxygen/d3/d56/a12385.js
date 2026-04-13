@@ -1,6 +1,12 @@
 var a12385 =
 [
-    [ "npc_burning_spiritAI", "d5/d58/a12389.html", "d5/d58/a12389" ],
-    [ "npc_burning_spirit", "d3/d56/a12385.html#a596e654486c82d15d7a37b069a99856d", null ],
-    [ "GetAI", "d3/d56/a12385.html#a3c704a0856d669a1e684e5a858bc4334", null ]
+    [ "boss_balinda", "d3/d56/a12385.html#a2f3ce696dbc66843cddc13196800866b", null ],
+    [ "DamageTaken", "d3/d56/a12385.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
+    [ "JustDied", "d3/d56/a12385.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
+    [ "JustEngagedWith", "d3/d56/a12385.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
+    [ "JustSummoned", "d3/d56/a12385.html#a3c2306326d2f85fbb6766352117a1f91", null ],
+    [ "Reset", "d3/d56/a12385.html#a1ecfa5d743682997076a47cce44b19f5", null ],
+    [ "UpdateAI", "d3/d56/a12385.html#af3506dd75baef12fd0328aed21636978", null ],
+    [ "_hasCastIceBlock", "d3/d56/a12385.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
+    [ "summons", "d3/d56/a12385.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
 ];

@@ -1,6 +1,8 @@
 var a23233 =
 [
-    [ "HandleEffectRemove", "d5/dd1/a23233.html#ac74d25501690970c607a146eec02ab24", null ],
-    [ "PrepareAuraScript", "d5/dd1/a23233.html#a858929800089fee1a06948bda1c8806f", null ],
-    [ "Register", "d5/dd1/a23233.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
+    [ "HandleDummyApply", "d5/dd1/a23233.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d5/dd1/a23233.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d5/dd1/a23233.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d5/dd1/a23233.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d5/dd1/a23233.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

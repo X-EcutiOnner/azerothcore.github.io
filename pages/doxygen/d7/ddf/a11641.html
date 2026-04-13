@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellImplicitTargetInfo::StaticData Struct Reference</title>
+<title>AzerothCore: TargetInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,92 +107,212 @@ $(document).ready(function(){initNavTree('d7/ddf/a11641.html','../../'); initRes
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d3/d73/a11638.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellImplicitTargetInfo::StaticData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">TargetInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a20c29be1005aa52993d4ec0a13c36f4d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/ddc/a01802.html#abd452c9e8451ab6d47620dbda77f087a">SpellTargetObjectTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#a20c29be1005aa52993d4ec0a13c36f4d">ObjectType</a></td></tr>
-<tr class="separator:a20c29be1005aa52993d4ec0a13c36f4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a44e310a789c4c5a288f07c9254ad389a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/ddc/a01802.html#ae160272dac6c37cf297c68db99d9c987">SpellTargetReferenceTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#a44e310a789c4c5a288f07c9254ad389a">ReferenceType</a></td></tr>
-<tr class="separator:a44e310a789c4c5a288f07c9254ad389a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4a42ef329b6cfcfcd7fd4ce59e8f597c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/ddc/a01802.html#a1552887f0f9abf22f5e7af1064b8c213">SpellTargetSelectionCategories</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c">SelectionCategory</a></td></tr>
-<tr class="separator:a4a42ef329b6cfcfcd7fd4ce59e8f597c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a35c8d221b47de13408a0256598fa9d63"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/ddc/a01802.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#a35c8d221b47de13408a0256598fa9d63">SelectionCheckType</a></td></tr>
-<tr class="separator:a35c8d221b47de13408a0256598fa9d63"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8491033c0286895c2d4d3280cfd529f0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/ddc/a01802.html#a41dacfabf3231ea2ee5894d61f6c3b6f">SpellTargetDirectionTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#a8491033c0286895c2d4d3280cfd529f0">DirectionType</a></td></tr>
-<tr class="separator:a8491033c0286895c2d4d3280cfd529f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf55c1dd6f00c94296c592d988f959cf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d62/a08709.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#acf55c1dd6f00c94296c592d988f959cf">targetGUID</a></td></tr>
+<tr class="separator:acf55c1dd6f00c94296c592d988f959cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abcf1acd0c3d50c2264253dc9c052795a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#abcf1acd0c3d50c2264253dc9c052795a">timeDelay</a></td></tr>
+<tr class="separator:abcf1acd0c3d50c2264253dc9c052795a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c17740427f4f90c7c2e4fb4854ab4b3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d31/a04292.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#a6c17740427f4f90c7c2e4fb4854ab4b3">missCondition</a>:8</td></tr>
+<tr class="separator:a6c17740427f4f90c7c2e4fb4854ab4b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add2beb55eb3313e474d947fd3eb1fc65"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d31/a04292.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#add2beb55eb3313e474d947fd3eb1fc65">reflectResult</a>:8</td></tr>
+<tr class="separator:add2beb55eb3313e474d947fd3eb1fc65"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afb839b2b409a61e4d63de03dbce2abcb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#afb839b2b409a61e4d63de03dbce2abcb">effectMask</a>:8</td></tr>
+<tr class="separator:afb839b2b409a61e4d63de03dbce2abcb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2de96d62297ff614fc3702bec035ce5b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#a2de96d62297ff614fc3702bec035ce5b">processed</a>:1</td></tr>
+<tr class="separator:a2de96d62297ff614fc3702bec035ce5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebeb2f67bf8646770570e5564fb01d4d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#aebeb2f67bf8646770570e5564fb01d4d">alive</a>:1</td></tr>
+<tr class="separator:aebeb2f67bf8646770570e5564fb01d4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a908278bd46f9be3e1191f4883f9eb32f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#a908278bd46f9be3e1191f4883f9eb32f">crit</a>:1</td></tr>
+<tr class="separator:a908278bd46f9be3e1191f4883f9eb32f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89bba366b26686d41288e9b2e725eb75"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#a89bba366b26686d41288e9b2e725eb75">scaleAura</a>:1</td></tr>
+<tr class="separator:a89bba366b26686d41288e9b2e725eb75"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5bdf23f41a4a748f96dd9fffa8e8a838"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#a5bdf23f41a4a748f96dd9fffa8e8a838">damage</a></td></tr>
+<tr class="separator:a5bdf23f41a4a748f96dd9fffa8e8a838"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85196e5b5865856962898c18001880c7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddf/a11641.html#a85196e5b5865856962898c18001880c7">damageBeforeTakenMods</a></td></tr>
+<tr class="separator:a85196e5b5865856962898c18001880c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a8491033c0286895c2d4d3280cfd529f0" name="a8491033c0286895c2d4d3280cfd529f0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8491033c0286895c2d4d3280cfd529f0">&#9670;&#160;</a></span>DirectionType</h2>
+<a id="aebeb2f67bf8646770570e5564fb01d4d" name="aebeb2f67bf8646770570e5564fb01d4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aebeb2f67bf8646770570e5564fb01d4d">&#9670;&#160;</a></span>alive</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/ddc/a01802.html#a41dacfabf3231ea2ee5894d61f6c3b6f">SpellTargetDirectionTypes</a> SpellImplicitTargetInfo::StaticData::DirectionType</td>
+          <td class="memname">bool TargetInfo::alive</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l02293">Spell::AddUnitTarget()</a>, and <a class="el" href="../../#l02523">Spell::DoAllEffectOnTarget()</a>.</p>
+
 </div>
 </div>
-<a id="a20c29be1005aa52993d4ec0a13c36f4d" name="a20c29be1005aa52993d4ec0a13c36f4d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a20c29be1005aa52993d4ec0a13c36f4d">&#9670;&#160;</a></span>ObjectType</h2>
+<a id="a908278bd46f9be3e1191f4883f9eb32f" name="a908278bd46f9be3e1191f4883f9eb32f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a908278bd46f9be3e1191f4883f9eb32f">&#9670;&#160;</a></span>crit</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/ddc/a01802.html#abd452c9e8451ab6d47620dbda77f087a">SpellTargetObjectTypes</a> SpellImplicitTargetInfo::StaticData::ObjectType</td>
+          <td class="memname">bool TargetInfo::crit</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l02293">Spell::AddUnitTarget()</a>, <a class="el" href="../../#l08324">Spell::DoAllEffectOnLaunchTarget()</a>, and <a class="el" href="../../#l02523">Spell::DoAllEffectOnTarget()</a>.</p>
+
 </div>
 </div>
-<a id="a44e310a789c4c5a288f07c9254ad389a" name="a44e310a789c4c5a288f07c9254ad389a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a44e310a789c4c5a288f07c9254ad389a">&#9670;&#160;</a></span>ReferenceType</h2>
+<a id="a5bdf23f41a4a748f96dd9fffa8e8a838" name="a5bdf23f41a4a748f96dd9fffa8e8a838"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5bdf23f41a4a748f96dd9fffa8e8a838">&#9670;&#160;</a></span>damage</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/ddc/a01802.html#ae160272dac6c37cf297c68db99d9c987">SpellTargetReferenceTypes</a> SpellImplicitTargetInfo::StaticData::ReferenceType</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> TargetInfo::damage</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l02293">Spell::AddUnitTarget()</a>, <a class="el" href="../../#l08324">Spell::DoAllEffectOnLaunchTarget()</a>, and <a class="el" href="../../#l02523">Spell::DoAllEffectOnTarget()</a>.</p>
+
 </div>
 </div>
-<a id="a4a42ef329b6cfcfcd7fd4ce59e8f597c" name="a4a42ef329b6cfcfcd7fd4ce59e8f597c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4a42ef329b6cfcfcd7fd4ce59e8f597c">&#9670;&#160;</a></span>SelectionCategory</h2>
+<a id="a85196e5b5865856962898c18001880c7" name="a85196e5b5865856962898c18001880c7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85196e5b5865856962898c18001880c7">&#9670;&#160;</a></span>damageBeforeTakenMods</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/ddc/a01802.html#a1552887f0f9abf22f5e7af1064b8c213">SpellTargetSelectionCategories</a> SpellImplicitTargetInfo::StaticData::SelectionCategory</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> TargetInfo::damageBeforeTakenMods</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l02293">Spell::AddUnitTarget()</a>, <a class="el" href="../../#l08324">Spell::DoAllEffectOnLaunchTarget()</a>, and <a class="el" href="../../#l02523">Spell::DoAllEffectOnTarget()</a>.</p>
+
 </div>
 </div>
-<a id="a35c8d221b47de13408a0256598fa9d63" name="a35c8d221b47de13408a0256598fa9d63"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a35c8d221b47de13408a0256598fa9d63">&#9670;&#160;</a></span>SelectionCheckType</h2>
+<a id="afb839b2b409a61e4d63de03dbce2abcb" name="afb839b2b409a61e4d63de03dbce2abcb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afb839b2b409a61e4d63de03dbce2abcb">&#9670;&#160;</a></span>effectMask</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/ddc/a01802.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a> SpellImplicitTargetInfo::StaticData::SelectionCheckType</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> TargetInfo::effectMask</td>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02293">Spell::AddUnitTarget()</a>, <a class="el" href="../../#l08324">Spell::DoAllEffectOnLaunchTarget()</a>, <a class="el" href="../../#l02523">Spell::DoAllEffectOnTarget()</a>, <a class="el" href="../../#l08250">Spell::HandleLaunchPhase()</a>, and <a class="el" href="../../#l00822">Spell::SelectSpellTargets()</a>.</p>
+
+</div>
+</div>
+<a id="a6c17740427f4f90c7c2e4fb4854ab4b3" name="a6c17740427f4f90c7c2e4fb4854ab4b3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c17740427f4f90c7c2e4fb4854ab4b3">&#9670;&#160;</a></span>missCondition</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d31/a04292.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a> TargetInfo::missCondition</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02293">Spell::AddUnitTarget()</a>, <a class="el" href="../../#l08324">Spell::DoAllEffectOnLaunchTarget()</a>, <a class="el" href="../../#l02523">Spell::DoAllEffectOnTarget()</a>, and <a class="el" href="../../#l08250">Spell::HandleLaunchPhase()</a>.</p>
+
+</div>
+</div>
+<a id="a2de96d62297ff614fc3702bec035ce5b" name="a2de96d62297ff614fc3702bec035ce5b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2de96d62297ff614fc3702bec035ce5b">&#9670;&#160;</a></span>processed</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TargetInfo::processed</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02293">Spell::AddUnitTarget()</a>, and <a class="el" href="../../#l02523">Spell::DoAllEffectOnTarget()</a>.</p>
+
+</div>
+</div>
+<a id="add2beb55eb3313e474d947fd3eb1fc65" name="add2beb55eb3313e474d947fd3eb1fc65"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add2beb55eb3313e474d947fd3eb1fc65">&#9670;&#160;</a></span>reflectResult</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d31/a04292.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a> TargetInfo::reflectResult</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02293">Spell::AddUnitTarget()</a>, <a class="el" href="../../#l08324">Spell::DoAllEffectOnLaunchTarget()</a>, and <a class="el" href="../../#l02523">Spell::DoAllEffectOnTarget()</a>.</p>
+
+</div>
+</div>
+<a id="a89bba366b26686d41288e9b2e725eb75" name="a89bba366b26686d41288e9b2e725eb75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a89bba366b26686d41288e9b2e725eb75">&#9670;&#160;</a></span>scaleAura</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TargetInfo::scaleAura</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02293">Spell::AddUnitTarget()</a>, and <a class="el" href="../../#l02523">Spell::DoAllEffectOnTarget()</a>.</p>
+
+</div>
+</div>
+<a id="acf55c1dd6f00c94296c592d988f959cf" name="acf55c1dd6f00c94296c592d988f959cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acf55c1dd6f00c94296c592d988f959cf">&#9670;&#160;</a></span>targetGUID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d62/a08709.html">ObjectGuid</a> TargetInfo::targetGUID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02293">Spell::AddUnitTarget()</a>, <a class="el" href="../../#l08324">Spell::DoAllEffectOnLaunchTarget()</a>, <a class="el" href="../../#l02523">Spell::DoAllEffectOnTarget()</a>, and <a class="el" href="../../#l08250">Spell::HandleLaunchPhase()</a>.</p>
+
+</div>
+</div>
+<a id="abcf1acd0c3d50c2264253dc9c052795a" name="abcf1acd0c3d50c2264253dc9c052795a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abcf1acd0c3d50c2264253dc9c052795a">&#9670;&#160;</a></span>timeDelay</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> TargetInfo::timeDelay</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02293">Spell::AddUnitTarget()</a>, and <a class="el" href="../../#l02523">Spell::DoAllEffectOnTarget()</a>.</p>
 
 </div>
 </div>
@@ -201,8 +321,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/d17/a11637.html">SpellImplicitTargetInfo</a></li><li class="navelem"><a class="el" href="../../d7/ddf/a11641.html">StaticData</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:10:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/ddf/a11641.html">TargetInfo</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:29:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

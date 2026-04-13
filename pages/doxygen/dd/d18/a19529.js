@@ -1,6 +1,11 @@
 var a19529 =
 [
-    [ "FilterTargets", "dd/d18/a19529.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "dd/d18/a19529.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "dd/d18/a19529.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "boss_ormorok", "dd/d18/a19529.html#aa4862339ed41d5c593a93ef605d85a39", null ],
+    [ "JustDied", "dd/d18/a19529.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
+    [ "JustEngagedWith", "dd/d18/a19529.html#a22ac203db7c3b445e653798743e48764", null ],
+    [ "JustSummoned", "dd/d18/a19529.html#acc149b49e6658454610a7871e3c82b5e", null ],
+    [ "KilledUnit", "dd/d18/a19529.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
+    [ "Reset", "dd/d18/a19529.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
+    [ "UpdateAI", "dd/d18/a19529.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
+    [ "_spikesCount", "dd/d18/a19529.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
 ];

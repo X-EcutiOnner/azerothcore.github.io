@@ -1,5 +1,5 @@
 var a28001 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "d7/d9d/a28001.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "d7/d9d/a28001.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "item_captured_frog", "d7/d9d/a28001.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "d7/d9d/a28001.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

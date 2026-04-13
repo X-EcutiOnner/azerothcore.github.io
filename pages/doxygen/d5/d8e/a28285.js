@@ -1,6 +1,6 @@
 var a28285 =
 [
-    [ "go_soulwellAI", "da/d7c/a28289.html", "da/d7c/a28289" ],
-    [ "go_soulwell", "d5/d8e/a28285.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "d5/d8e/a28285.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "npc_necropolis_relay", "d5/d8e/a28285.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "d5/d8e/a28285.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "d5/d8e/a28285.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

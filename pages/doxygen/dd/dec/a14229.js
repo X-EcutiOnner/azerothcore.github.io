@@ -1,7 +1,7 @@
 var a14229 =
 [
-    [ "boss_blight_wormAI", "dd/dec/a14229.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "dd/dec/a14229.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "dd/dec/a14229.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "dd/dec/a14229.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "HandleTriggerSpell", "dd/dec/a14229.html#a66b366f4989d99a58b331e56024e4520", null ],
+    [ "PrepareAuraScript", "dd/dec/a14229.html#a4b00497e095b5c43571b543252b31e58", null ],
+    [ "Register", "dd/dec/a14229.html#abacee7689888bf8c5d21b534a6d71b40", null ],
+    [ "Validate", "dd/dec/a14229.html#a6bef0ac760a319deed6f71fee213e885", null ]
 ];

@@ -1,11 +1,11 @@
 var a12453 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "de/d9d/a12453.html#a557fda67d1d1de268ba661350ba915dc", null ],
-    [ "JustEngagedWith", "de/d9d/a12453.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
-    [ "Reset", "de/d9d/a12453.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
-    [ "UpdateAI", "de/d9d/a12453.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
-    [ "ManaBurn_Timer", "de/d9d/a12453.html#aede307f972942c15c4b2bfa90e75856d", null ],
-    [ "PsychicScream_Timer", "de/d9d/a12453.html#a291f3484e4d125fefe437d96b12153f1", null ],
-    [ "ShadowShield_Timer", "de/d9d/a12453.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
-    [ "ShadowWordPain_Timer", "de/d9d/a12453.html#aec0eab93e8494bc1abc87d81460fac31", null ]
+    [ "boss_emperor_dagran_thaurissan", "de/d9d/a12453.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
+    [ "JustDied", "de/d9d/a12453.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
+    [ "JustEngagedWith", "de/d9d/a12453.html#a182564d95dc677ea33e47995638a9a58", null ],
+    [ "KilledUnit", "de/d9d/a12453.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
+    [ "SetData", "de/d9d/a12453.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
+    [ "UpdateAI", "de/d9d/a12453.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
+    [ "hasYelled", "de/d9d/a12453.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
+    [ "SenatorYells", "de/d9d/a12453.html#ad94aef1875a5a863f78dc84a964638f9", null ]
 ];

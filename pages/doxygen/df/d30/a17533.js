@@ -1,6 +1,6 @@
 var a17533 =
 [
-    [ "npc_pos_deathwhisper_necrolyteAI", "dc/d29/a17537.html", "dc/d29/a17537" ],
-    [ "npc_pos_deathwhisper_necrolyte", "df/d30/a17533.html#a0dcdb5b1dfed44f74b04663758b531a0", null ],
-    [ "GetAI", "df/d30/a17533.html#ae765669f95f4f14b393b88bf7ecbbfd6", null ]
+    [ "HandleScript", "df/d30/a17533.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
+    [ "PrepareSpellScript", "df/d30/a17533.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
+    [ "Register", "df/d30/a17533.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
 ];

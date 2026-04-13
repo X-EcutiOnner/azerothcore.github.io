@@ -1,9 +1,13 @@
 var a22125 =
 [
-    [ "npc_frostbrood_skytalonAI", "d1/d49/a22125.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "d1/d49/a22125.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "d1/d49/a22125.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "d1/d49/a22125.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "d1/d49/a22125.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "d1/d49/a22125.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "OPvPCapturePointEP_CGT", "d1/d49/a22125.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
+    [ "ChangeState", "d1/d49/a22125.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
+    [ "FillInitialWorldStates", "d1/d49/a22125.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
+    [ "HandlePlayerEnter", "d1/d49/a22125.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
+    [ "HandlePlayerLeave", "d1/d49/a22125.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
+    [ "LinkGraveyard", "d1/d49/a22125.html#ada14179a31fb6235b7882a190dc96c40", null ],
+    [ "SendChangePhase", "d1/d49/a22125.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
+    [ "UpdateTowerState", "d1/d49/a22125.html#a764284d6143d4879b5bc003acc52048c", null ],
+    [ "m_GraveyardSide", "d1/d49/a22125.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
+    [ "m_TowerState", "d1/d49/a22125.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
 ];

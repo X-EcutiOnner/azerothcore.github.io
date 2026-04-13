@@ -1,7 +1,6 @@
 var a19797 =
 [
-    [ "HandlePull", "d5/d11/a19797.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d5/d11/a19797.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d5/d11/a19797.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d5/d11/a19797.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "d4/dcb/a19801.html", "d4/dcb/a19801" ],
+    [ "instance_halls_of_stone", "d5/d11/a19797.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d5/d11/a19797.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

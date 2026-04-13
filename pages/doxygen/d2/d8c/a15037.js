@@ -1,6 +1,6 @@
 var a15037 =
 [
-    [ "HandleScriptEffect", "d2/d8c/a15037.html#a074f54a4b022adc6ea34b3716dec745f", null ],
-    [ "PrepareSpellScript", "d2/d8c/a15037.html#a725d5bc1f76614778b140f3061aa2e03", null ],
-    [ "Register", "d2/d8c/a15037.html#a339df7ae9553fbae68ce791baef1df5e", null ]
+    [ "boss_infinite_corruptorAI", "d4/d9a/a15041.html", "d4/d9a/a15041" ],
+    [ "boss_infinite_corruptor", "d2/d8c/a15037.html#a78a939073ab44b818cefdb25419f92be", null ],
+    [ "GetAI", "d2/d8c/a15037.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
 ];

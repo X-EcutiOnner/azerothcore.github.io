@@ -1,7 +1,11 @@
 var a21877 =
 [
-    [ "npc_emilyAI", "dd/dba/a21881.html", "dd/dba/a21881" ],
-    [ "npc_emily", "de/d88/a21877.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "de/d88/a21877.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "de/d88/a21877.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "npc_iron_watcherAI", "de/d88/a21877.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "de/d88/a21877.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "de/d88/a21877.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "de/d88/a21877.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "de/d88/a21877.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "de/d88/a21877.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "de/d88/a21877.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "de/d88/a21877.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

@@ -1,8 +1,13 @@
 var a20873 =
 [
-    [ "boss_yoggsaron_guardian_of_ys", "d2/d21/a20873.html#a7035228621422651cc0f40f3f8b7952b", null ],
-    [ "JustDied", "d2/d21/a20873.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
-    [ "Reset", "d2/d21/a20873.html#ac803a9da5223db459b9ec48435e59c30", null ],
-    [ "UpdateAI", "d2/d21/a20873.html#a573576eaff2cbd4f779675e19ad53dea", null ],
-    [ "_spellTimer", "d2/d21/a20873.html#a5922d21c4606ab9a41e20948dc926cea", null ]
+    [ "npc_ravenous_furbolgAI", "d2/d21/a20873.html#a3e2a0cac8a02d2d6105b06b5c21f1628", null ],
+    [ "DoAction", "d2/d21/a20873.html#a837b442d7812b0c5708995d35c0d45f6", null ],
+    [ "JustDied", "d2/d21/a20873.html#a03e5dd969fcc2e3dcebc714247e18bf2", null ],
+    [ "JustEngagedWith", "d2/d21/a20873.html#a003eb350a11f3f5c2355a58958633f36", null ],
+    [ "JustReachedHome", "d2/d21/a20873.html#a09fc5ba4680c1e5a7a49a81c50cee540", null ],
+    [ "MoveInLineOfSight", "d2/d21/a20873.html#a0b4db9708b9b0288ddb1be2f2205e03a", null ],
+    [ "Reset", "d2/d21/a20873.html#aca5ae47050590ec22e6e929f44e09276", null ],
+    [ "UpdateAI", "d2/d21/a20873.html#ad044c04381a8d61a8fefc55129453ddf", null ],
+    [ "events", "d2/d21/a20873.html#a8bf068c63d7ae10c6edf0af3aab1a6c3", null ],
+    [ "m_pInstance", "d2/d21/a20873.html#aeb0a7644ada4d44e649b4ae45e0d2dc2", null ]
 ];

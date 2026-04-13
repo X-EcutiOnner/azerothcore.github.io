@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BattlefieldMgr Class Reference</title>
+<title>AzerothCore: AuctionSearchAdd Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,522 +105,61 @@ $(document).ready(function(){initNavTree('dc/d89/a07413.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d9/d20/a07410.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BattlefieldMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">AuctionSearchAdd Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">BattlefieldMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">AuctionHouseSearcher.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for AuctionSearchAdd:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../dc/d89/a07413.png" usemap="#AuctionSearchAdd_map" alt=""/>
+  <map id="AuctionSearchAdd_map" name="AuctionSearchAdd_map">
+<area href="../../da/d3a/a07409.html" alt="AuctionSearcherUpdate" shape="rect" coords="0,0,147,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:aebece89a427833b4005c67761bba7262"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#aebece89a427833b4005c67761bba7262">BattlefieldSet</a> = std::vector&lt; <a class="el" href="../../da/d3a/a07409.html">Battlefield</a> * &gt;</td></tr>
-<tr class="separator:aebece89a427833b4005c67761bba7262"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af0b5390f581e99d207ec06c9645d9d63"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#af0b5390f581e99d207ec06c9645d9d63">BattlefieldMap</a> = std::map&lt; <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/d3a/a07409.html">Battlefield</a> * &gt;</td></tr>
-<tr class="separator:af0b5390f581e99d207ec06c9645d9d63"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:afaa79f63a91c6b585b4bf10dfdf60af6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#afaa79f63a91c6b585b4bf10dfdf60af6">BattlefieldMgr</a> ()</td></tr>
-<tr class="separator:afaa79f63a91c6b585b4bf10dfdf60af6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0d5b198add5190e99a1763a168ce2895"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a0d5b198add5190e99a1763a168ce2895">~BattlefieldMgr</a> ()</td></tr>
-<tr class="separator:a0d5b198add5190e99a1763a168ce2895"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a244ce1743c237e95c08dc8861f3ce4b3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a244ce1743c237e95c08dc8861f3ce4b3">InitBattlefield</a> ()</td></tr>
-<tr class="separator:a244ce1743c237e95c08dc8861f3ce4b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a733f42fdc343d070220e8c56f24fe4ac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a733f42fdc343d070220e8c56f24fe4ac">HandlePlayerEnterZone</a> (<a class="el" href="../../df/d73/a08877.html">Player</a> *player, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a733f42fdc343d070220e8c56f24fe4ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89aa3d5d27fe61a13e381f13c599de90"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a89aa3d5d27fe61a13e381f13c599de90">HandlePlayerLeaveZone</a> (<a class="el" href="../../df/d73/a08877.html">Player</a> *player, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a89aa3d5d27fe61a13e381f13c599de90"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a458fb8b4943de82f0574ddd63ba466a9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a458fb8b4943de82f0574ddd63ba466a9">HandlePlayerResurrects</a> (<a class="el" href="../../df/d73/a08877.html">Player</a> *player, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a458fb8b4943de82f0574ddd63ba466a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a223e8c73e41441f25e557d78ddb97b81"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d3a/a07409.html">Battlefield</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a223e8c73e41441f25e557d78ddb97b81">GetBattlefieldToZoneId</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId)</td></tr>
-<tr class="separator:a223e8c73e41441f25e557d78ddb97b81"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94f2a876f8ea677bfb8bc3acfd8f238b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d3a/a07409.html">Battlefield</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a94f2a876f8ea677bfb8bc3acfd8f238b">GetBattlefieldByBattleId</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> battleId)</td></tr>
-<tr class="separator:a94f2a876f8ea677bfb8bc3acfd8f238b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:accd1dc8e86bc9ab5618483e609b9314d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/dd8/a10153.html">ZoneScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#accd1dc8e86bc9ab5618483e609b9314d">GetZoneScript</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId)</td></tr>
-<tr class="separator:accd1dc8e86bc9ab5618483e609b9314d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a40a5ca1cd0f0baa8ffd47bc91700a7ac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a40a5ca1cd0f0baa8ffd47bc91700a7ac">AddZone</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId, <a class="el" href="../../da/d3a/a07409.html">Battlefield</a> *handle)</td></tr>
-<tr class="separator:a40a5ca1cd0f0baa8ffd47bc91700a7ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a15548a7b124741e2fa9f36f1bf087458"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a15548a7b124741e2fa9f36f1bf087458">Update</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
-<tr class="separator:a15548a7b124741e2fa9f36f1bf087458"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf6b062e5dde772aa17afef185f916ad"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#aaf6b062e5dde772aa17afef185f916ad">HandleGossipOption</a> (<a class="el" href="../../df/d73/a08877.html">Player</a> *player, <a class="el" href="../../df/d68/a08677.html">ObjectGuid</a> guid, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipId)</td></tr>
-<tr class="separator:aaf6b062e5dde772aa17afef185f916ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a18fdd3c81b5641e296318f1113acf73f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a18fdd3c81b5641e296318f1113acf73f">CanTalkTo</a> (<a class="el" href="../../df/d73/a08877.html">Player</a> *player, <a class="el" href="../../de/d72/a08249.html">Creature</a> *creature, <a class="el" href="../../da/d46/a09285.html">GossipMenuItems</a> gso)</td></tr>
-<tr class="separator:a18fdd3c81b5641e296318f1113acf73f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a19b23ca8dc68ceaaca9078a33b62b70e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a19b23ca8dc68ceaaca9078a33b62b70e">HandleDropFlag</a> (<a class="el" href="../../df/d73/a08877.html">Player</a> *player, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId)</td></tr>
-<tr class="separator:a19b23ca8dc68ceaaca9078a33b62b70e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a40116c721d736fe362a3dab56e6b3113"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a40116c721d736fe362a3dab56e6b3113">AuctionSearchAdd</a> (std::shared_ptr&lt; <a class="el" href="../../d3/d40/a07373.html">SearchableAuctionEntry</a> &gt; _searchableAuctionEntry)</td></tr>
+<tr class="separator:a40116c721d736fe362a3dab56e6b3113"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a07409"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a07409')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../da/d3a/a07409.html">AuctionSearcherUpdate</a></td></tr>
+<tr class="memitem:acfc9c3749967b90c2b8633c40f1aa2bd inherit pub_methods_a07409"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d3a/a07409.html#acfc9c3749967b90c2b8633c40f1aa2bd">AuctionSearcherUpdate</a> (<a class="el" href="../../da/d3a/a07409.html#a758c9729d907d872a5e5365539486408">Type</a> const _updateType, <a class="el" href="../../dc/d84/a00338.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a> _listFaction)</td></tr>
+<tr class="separator:acfc9c3749967b90c2b8633c40f1aa2bd inherit pub_methods_a07409"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34cb7ede5d2108065a51a80396d6fc55 inherit pub_methods_a07409"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d3a/a07409.html#a34cb7ede5d2108065a51a80396d6fc55">~AuctionSearcherUpdate</a> ()=default</td></tr>
+<tr class="separator:a34cb7ede5d2108065a51a80396d6fc55 inherit pub_methods_a07409"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:af96d6d44aa8936f94c20d1bd92af2fb3"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../dc/d89/a07413.html">BattlefieldMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a> ()</td></tr>
-<tr class="separator:af96d6d44aa8936f94c20d1bd92af2fb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a48e000b0e7d9411676fd2ccacf283163"><td class="memItemLeft" align="right" valign="top">std::shared_ptr&lt; <a class="el" href="../../d3/d40/a07373.html">SearchableAuctionEntry</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a48e000b0e7d9411676fd2ccacf283163">searchableAuctionEntry</a></td></tr>
+<tr class="separator:a48e000b0e7d9411676fd2ccacf283163"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_attribs_a07409"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a07409')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../da/d3a/a07409.html">AuctionSearcherUpdate</a></td></tr>
+<tr class="memitem:af6ee8672029884bdbec327242ce5d5d2 inherit pub_attribs_a07409"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d3a/a07409.html#a758c9729d907d872a5e5365539486408">Type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d3a/a07409.html#af6ee8672029884bdbec327242ce5d5d2">updateType</a></td></tr>
+<tr class="separator:af6ee8672029884bdbec327242ce5d5d2 inherit pub_attribs_a07409"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f61acebd3d594e3a23d682d2d5292bc inherit pub_attribs_a07409"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d84/a00338.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d3a/a07409.html#a3f61acebd3d594e3a23d682d2d5292bc">listFaction</a></td></tr>
+<tr class="separator:a3f61acebd3d594e3a23d682d2d5292bc inherit pub_attribs_a07409"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a4d6325668521e88a17a67318970570e1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d89/a07413.html#aebece89a427833b4005c67761bba7262">BattlefieldSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a4d6325668521e88a17a67318970570e1">_battlefieldSet</a></td></tr>
-<tr class="separator:a4d6325668521e88a17a67318970570e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a08c3f04abda757dd62a9e90fdbba26f9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d89/a07413.html#af0b5390f581e99d207ec06c9645d9d63">BattlefieldMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a></td></tr>
-<tr class="separator:a08c3f04abda757dd62a9e90fdbba26f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62c5a7865d10618b0db6e098a99d0230"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d89/a07413.html#a62c5a7865d10618b0db6e098a99d0230">_updateTimer</a></td></tr>
-<tr class="separator:a62c5a7865d10618b0db6e098a99d0230"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
+Additional Inherited Members</h2></td></tr>
+<tr class="inherit_header pub_types_a07409"><td colspan="2" onclick="javascript:toggleInherit('pub_types_a07409')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../da/d3a/a07409.html">AuctionSearcherUpdate</a></td></tr>
+<tr class="memitem:a758c9729d907d872a5e5365539486408 inherit pub_types_a07409"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d3a/a07409.html#a758c9729d907d872a5e5365539486408">Type</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../da/d3a/a07409.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d">ADD</a>
+, <br />
+&#160;&#160;<a class="el" href="../../da/d3a/a07409.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538">REMOVE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../da/d3a/a07409.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5">UPDATE_BID</a>
+<br />
+ }</td></tr>
+<tr class="separator:a758c9729d907d872a5e5365539486408 inherit pub_types_a07409"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="af0b5390f581e99d207ec06c9645d9d63" name="af0b5390f581e99d207ec06c9645d9d63"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af0b5390f581e99d207ec06c9645d9d63">&#9670;&#160;</a></span>BattlefieldMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../dc/d89/a07413.html#af0b5390f581e99d207ec06c9645d9d63">BattlefieldMgr::BattlefieldMap</a> =  std::map&lt;<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> , <a class="el" href="../../da/d3a/a07409.html">Battlefield</a>*&gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aebece89a427833b4005c67761bba7262" name="aebece89a427833b4005c67761bba7262"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aebece89a427833b4005c67761bba7262">&#9670;&#160;</a></span>BattlefieldSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../dc/d89/a07413.html#aebece89a427833b4005c67761bba7262">BattlefieldMgr::BattlefieldSet</a> =  std::vector&lt;<a class="el" href="../../da/d3a/a07409.html">Battlefield</a>*&gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afaa79f63a91c6b585b4bf10dfdf60af6" name="afaa79f63a91c6b585b4bf10dfdf60af6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afaa79f63a91c6b585b4bf10dfdf60af6">&#9670;&#160;</a></span>BattlefieldMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">BattlefieldMgr::BattlefieldMgr </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   22</span>                               : <a class="code hl_variable" href="../../dc/d89/a07413.html#a62c5a7865d10618b0db6e098a99d0230">_updateTimer</a>(0)</div>
-<div class="line"><span class="lineno">   23</span>{</div>
-<div class="line"><span class="lineno">   24</span>}</div>
-<div class="ttc" id="aa07413_html_a62c5a7865d10618b0db6e098a99d0230"><div class="ttname"><a href="../../dc/d89/a07413.html#a62c5a7865d10618b0db6e098a99d0230">BattlefieldMgr::_updateTimer</a></div><div class="ttdeci">uint32 _updateTimer</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:73</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a0d5b198add5190e99a1763a168ce2895" name="a0d5b198add5190e99a1763a168ce2895"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0d5b198add5190e99a1763a168ce2895">&#9670;&#160;</a></span>~BattlefieldMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">BattlefieldMgr::~BattlefieldMgr </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
-<div class="line"><span class="lineno">   28</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../da/d3a/a07409.html">Battlefield</a>* bf : <a class="code hl_variable" href="../../dc/d89/a07413.html#a4d6325668521e88a17a67318970570e1">_battlefieldSet</a>)</div>
-<div class="line"><span class="lineno">   29</span>        <span class="keyword">delete</span> bf;</div>
-<div class="line"><span class="lineno">   30</span>}</div>
-<div class="ttc" id="aa07409_html"><div class="ttname"><a href="../../da/d3a/a07409.html">Battlefield</a></div><div class="ttdef"><b>Definition:</b> Battlefield.h:200</div></div>
-<div class="ttc" id="aa07413_html_a4d6325668521e88a17a67318970570e1"><div class="ttname"><a href="../../dc/d89/a07413.html#a4d6325668521e88a17a67318970570e1">BattlefieldMgr::_battlefieldSet</a></div><div class="ttdeci">BattlefieldSet _battlefieldSet</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:68</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_battlefieldSet</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a40a5ca1cd0f0baa8ffd47bc91700a7ac" name="a40a5ca1cd0f0baa8ffd47bc91700a7ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a40a5ca1cd0f0baa8ffd47bc91700a7ac">&#9670;&#160;</a></span>AddZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::AddZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d3a/a07409.html">Battlefield</a> *&#160;</td>
-          <td class="paramname"><em>handle</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   63</span>{</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_variable" href="../../dc/d89/a07413.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>[zoneId] = handle;</div>
-<div class="line"><span class="lineno">   65</span>}</div>
-<div class="ttc" id="aa07413_html_a08c3f04abda757dd62a9e90fdbba26f9"><div class="ttname"><a href="../../dc/d89/a07413.html#a08c3f04abda757dd62a9e90fdbba26f9">BattlefieldMgr::_battlefieldMap</a></div><div class="ttdeci">BattlefieldMap _battlefieldMap</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:71</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">_battlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="a18fdd3c81b5641e296318f1113acf73f" name="a18fdd3c81b5641e296318f1113acf73f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a18fdd3c81b5641e296318f1113acf73f">&#9670;&#160;</a></span>CanTalkTo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool BattlefieldMgr::CanTalkTo </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d73/a08877.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d72/a08249.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>creature</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d46/a09285.html">GossipMenuItems</a>&#160;</td>
-          <td class="paramname"><em>gso</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a94f2a876f8ea677bfb8bc3acfd8f238b" name="a94f2a876f8ea677bfb8bc3acfd8f238b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a94f2a876f8ea677bfb8bc3acfd8f238b">&#9670;&#160;</a></span>GetBattlefieldByBattleId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../da/d3a/a07409.html">Battlefield</a> * BattlefieldMgr::GetBattlefieldByBattleId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>battleId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
-<div class="line"><span class="lineno">  106</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../da/d3a/a07409.html">Battlefield</a>* bf : <a class="code hl_variable" href="../../dc/d89/a07413.html#a4d6325668521e88a17a67318970570e1">_battlefieldSet</a>)</div>
-<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">if</span> (bf-&gt;GetBattleId() == battleId)</div>
-<div class="line"><span class="lineno">  108</span>            <span class="keywordflow">return</span> bf;</div>
-<div class="line"><span class="lineno">  109</span> </div>
-<div class="line"><span class="lineno">  110</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  111</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_battlefieldSet</a>.</p>
-
-</div>
-</div>
-<a id="a223e8c73e41441f25e557d78ddb97b81" name="a223e8c73e41441f25e557d78ddb97b81"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a223e8c73e41441f25e557d78ddb97b81">&#9670;&#160;</a></span>GetBattlefieldToZoneId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../da/d3a/a07409.html">Battlefield</a> * BattlefieldMgr::GetBattlefieldToZoneId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   94</span>{</div>
-<div class="line"><span class="lineno">   95</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../dc/d89/a07413.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.find(zoneId);</div>
-<div class="line"><span class="lineno">   96</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../dc/d89/a07413.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   98</span> </div>
-<div class="line"><span class="lineno">   99</span>    <span class="keywordflow">if</span> (!itr-&gt;second-&gt;IsEnabled())</div>
-<div class="line"><span class="lineno">  100</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  101</span>    <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  102</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">_battlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="accd1dc8e86bc9ab5618483e609b9314d" name="accd1dc8e86bc9ab5618483e609b9314d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#accd1dc8e86bc9ab5618483e609b9314d">&#9670;&#160;</a></span>GetZoneScript()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/dd8/a10153.html">ZoneScript</a> * BattlefieldMgr::GetZoneScript </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  125</span>{</div>
-<div class="line"><span class="lineno">  126</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../dc/d89/a07413.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.find(zoneId);</div>
-<div class="line"><span class="lineno">  127</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../dc/d89/a07413.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">  128</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  129</span> </div>
-<div class="line"><span class="lineno">  130</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  131</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">_battlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="a19b23ca8dc68ceaaca9078a33b62b70e" name="a19b23ca8dc68ceaaca9078a33b62b70e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19b23ca8dc68ceaaca9078a33b62b70e">&#9670;&#160;</a></span>HandleDropFlag()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandleDropFlag </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d73/a08877.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spellId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aaf6b062e5dde772aa17afef185f916ad" name="aaf6b062e5dde772aa17afef185f916ad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf6b062e5dde772aa17afef185f916ad">&#9670;&#160;</a></span>HandleGossipOption()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandleGossipOption </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d73/a08877.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../df/d68/a08677.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>guid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>gossipId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a733f42fdc343d070220e8c56f24fe4ac" name="a733f42fdc343d070220e8c56f24fe4ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a733f42fdc343d070220e8c56f24fe4ac">&#9670;&#160;</a></span>HandlePlayerEnterZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerEnterZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d73/a08877.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
-<div class="line"><span class="lineno">   69</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../dc/d89/a07413.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.find(zoneId);</div>
-<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../dc/d89/a07413.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   72</span> </div>
-<div class="line"><span class="lineno">   73</span>    <span class="keywordflow">if</span> (itr-&gt;second-&gt;HasPlayer(player) || !itr-&gt;second-&gt;IsEnabled())</div>
-<div class="line"><span class="lineno">   74</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>    itr-&gt;second-&gt;HandlePlayerEnterZone(player, zoneId);</div>
-<div class="line"><span class="lineno">   77</span>    <a class="code hl_define" href="../../d9/d4a/a00479.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} entered outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../d5/d89/a08625.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../df/d68/a08677.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
-<div class="line"><span class="lineno">   78</span>}</div>
-<div class="ttc" id="aa00479_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d9/d4a/a00479.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
-<div class="ttc" id="aa08625_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d5/d89/a08625.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:114</div></div>
-<div class="ttc" id="aa08677_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../df/d68/a08677.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">_battlefieldMap</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a89aa3d5d27fe61a13e381f13c599de90" name="a89aa3d5d27fe61a13e381f13c599de90"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89aa3d5d27fe61a13e381f13c599de90">&#9670;&#160;</a></span>HandlePlayerLeaveZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerLeaveZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d73/a08877.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
-<div class="line"><span class="lineno">   82</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../dc/d89/a07413.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.find(zoneId);</div>
-<div class="line"><span class="lineno">   83</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../dc/d89/a07413.html#a08c3f04abda757dd62a9e90fdbba26f9">_battlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">   84</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   85</span> </div>
-<div class="line"><span class="lineno">   86</span>    <span class="comment">// teleport: remove once in removefromworld, once in updatezone</span></div>
-<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">if</span> (!itr-&gt;second-&gt;HasPlayer(player))</div>
-<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   89</span>    itr-&gt;second-&gt;HandlePlayerLeaveZone(player, zoneId);</div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_define" href="../../d9/d4a/a00479.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} left outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../d5/d89/a08625.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../df/d68/a08677.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
-<div class="line"><span class="lineno">   91</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">_battlefieldMap</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a458fb8b4943de82f0574ddd63ba466a9" name="a458fb8b4943de82f0574ddd63ba466a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a458fb8b4943de82f0574ddd63ba466a9">&#9670;&#160;</a></span>HandlePlayerResurrects()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerResurrects </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d73/a08877.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a244ce1743c237e95c08dc8861f3ce4b3" name="a244ce1743c237e95c08dc8861f3ce4b3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a244ce1743c237e95c08dc8861f3ce4b3">&#9670;&#160;</a></span>InitBattlefield()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::InitBattlefield </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
-<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../de/d42/a04975.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../db/d77/a00683.html#a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a>) == 2)</div>
-<div class="line"><span class="lineno">   41</span>    {</div>
-<div class="line"><span class="lineno">   42</span>        <a class="code hl_define" href="../../d9/d4a/a00479.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp is disabled.&quot;</span>);</div>
-<div class="line"><span class="lineno">   43</span>        <a class="code hl_define" href="../../d9/d4a/a00479.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   44</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   45</span>    }</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_class" href="../../da/d3a/a07409.html">Battlefield</a>* bf = <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d5e/a07429.html">BattlefieldWG</a>;</div>
-<div class="line"><span class="lineno">   47</span>    <span class="comment">// respawn, init variables</span></div>
-<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">if</span> (!bf-&gt;<a class="code hl_function" href="../../da/d3a/a07409.html#a505d37f7c94cc081d9d3b8db1d362220">SetupBattlefield</a>())</div>
-<div class="line"><span class="lineno">   49</span>    {</div>
-<div class="line"><span class="lineno">   50</span>        <a class="code hl_define" href="../../d9/d4a/a00479.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp init failed.&quot;</span>);</div>
-<div class="line"><span class="lineno">   51</span>        <a class="code hl_define" href="../../d9/d4a/a00479.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   52</span>        <span class="keyword">delete</span> bf;</div>
-<div class="line"><span class="lineno">   53</span>    }</div>
-<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   55</span>    {</div>
-<div class="line"><span class="lineno">   56</span>        <a class="code hl_variable" href="../../dc/d89/a07413.html#a4d6325668521e88a17a67318970570e1">_battlefieldSet</a>.push_back(bf);</div>
-<div class="line"><span class="lineno">   57</span>        <a class="code hl_define" href="../../d9/d4a/a00479.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp successfully initiated.&quot;</span>);</div>
-<div class="line"><span class="lineno">   58</span>        <a class="code hl_define" href="../../d9/d4a/a00479.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   59</span>    }</div>
-<div class="line"><span class="lineno">   60</span>}</div>
-<div class="ttc" id="aa00479_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d9/d4a/a00479.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa00479_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d4a/a00479.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
-<div class="ttc" id="aa00683_html_a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a"><div class="ttname"><a href="../../db/d77/a00683.html#a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a></div><div class="ttdeci">@ CONFIG_WINTERGRASP_ENABLE</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:282</div></div>
-<div class="ttc" id="aa04975_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../de/d42/a04975.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:316</div></div>
-<div class="ttc" id="aa07409_html_a505d37f7c94cc081d9d3b8db1d362220"><div class="ttname"><a href="../../da/d3a/a07409.html#a505d37f7c94cc081d9d3b8db1d362220">Battlefield::SetupBattlefield</a></div><div class="ttdeci">virtual bool SetupBattlefield()</div><div class="ttdoc">Call this to init the Battlefield.</div><div class="ttdef"><b>Definition:</b> Battlefield.h:213</div></div>
-<div class="ttc" id="aa07429_html"><div class="ttname"><a href="../../d1/d5e/a07429.html">BattlefieldWG</a></div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:253</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_battlefieldSet</a>, <a class="el" href="../../#l00282">CONFIG_WINTERGRASP_ENABLE</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00213">Battlefield::SetupBattlefield()</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
-
-</div>
-</div>
-<a id="af96d6d44aa8936f94c20d1bd92af2fb3" name="af96d6d44aa8936f94c20d1bd92af2fb3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af96d6d44aa8936f94c20d1bd92af2fb3">&#9670;&#160;</a></span>instance()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a40116c721d736fe362a3dab56e6b3113" name="a40116c721d736fe362a3dab56e6b3113"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a40116c721d736fe362a3dab56e6b3113">&#9670;&#160;</a></span>AuctionSearchAdd()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -629,131 +168,40 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d89/a07413.html">BattlefieldMgr</a> * BattlefieldMgr::instance </td>
+          <td class="memname">AuctionSearchAdd::AuctionSearchAdd </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">std::shared_ptr&lt; <a class="el" href="../../d3/d40/a07373.html">SearchableAuctionEntry</a> &gt;&#160;</td>
+          <td class="paramname"><em>_searchableAuctionEntry</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
-<div class="line"><span class="lineno">   34</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../dc/d89/a07413.html">BattlefieldMgr</a> <a class="code hl_function" href="../../dc/d89/a07413.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a>;</div>
-<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../dc/d89/a07413.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a>;</div>
-<div class="line"><span class="lineno">   36</span>}</div>
-<div class="ttc" id="aa07413_html"><div class="ttname"><a href="../../dc/d89/a07413.html">BattlefieldMgr</a></div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:31</div></div>
-<div class="ttc" id="aa07413_html_af96d6d44aa8936f94c20d1bd92af2fb3"><div class="ttname"><a href="../../dc/d89/a07413.html#af96d6d44aa8936f94c20d1bd92af2fb3">BattlefieldMgr::instance</a></div><div class="ttdeci">static BattlefieldMgr * instance()</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.cpp:32</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  206</span>        : <a class="code hl_struct" href="../../da/d3a/a07409.html">AuctionSearcherUpdate</a>(<a class="code hl_enumvalue" href="../../da/d3a/a07409.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d">AuctionSearcherUpdate::Type::ADD</a>, _searchableAuctionEntry-&gt;listFaction), <a class="code hl_variable" href="../../dc/d89/a07413.html#a48e000b0e7d9411676fd2ccacf283163">searchableAuctionEntry</a>(_searchableAuctionEntry) { }</div>
+<div class="ttc" id="aa07409_html"><div class="ttname"><a href="../../da/d3a/a07409.html">AuctionSearcherUpdate</a></div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:188</div></div>
+<div class="ttc" id="aa07409_html_a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d"><div class="ttname"><a href="../../da/d3a/a07409.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d">AuctionSearcherUpdate::Type::ADD</a></div><div class="ttdeci">@ ADD</div></div>
+<div class="ttc" id="aa07413_html_a48e000b0e7d9411676fd2ccacf283163"><div class="ttname"><a href="../../dc/d89/a07413.html#a48e000b0e7d9411676fd2ccacf283163">AuctionSearchAdd::searchableAuctionEntry</a></div><div class="ttdeci">std::shared_ptr&lt; SearchableAuctionEntry &gt; searchableAuctionEntry</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:208</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00032">instance()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00032">instance()</a>.</p>
-
-</div>
-</div>
-<a id="a15548a7b124741e2fa9f36f1bf087458" name="a15548a7b124741e2fa9f36f1bf087458"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a15548a7b124741e2fa9f36f1bf087458">&#9670;&#160;</a></span>Update()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::Update </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>diff</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  114</span>{</div>
-<div class="line"><span class="lineno">  115</span>    <a class="code hl_variable" href="../../dc/d89/a07413.html#a62c5a7865d10618b0db6e098a99d0230">_updateTimer</a> += diff;</div>
-<div class="line"><span class="lineno">  116</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d89/a07413.html#a62c5a7865d10618b0db6e098a99d0230">_updateTimer</a> &gt; <a class="code hl_variable" href="../../d1/d04/a00713.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>)</div>
-<div class="line"><span class="lineno">  117</span>    {</div>
-<div class="line"><span class="lineno">  118</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../da/d3a/a07409.html">Battlefield</a>* bf : <a class="code hl_variable" href="../../dc/d89/a07413.html#a4d6325668521e88a17a67318970570e1">_battlefieldSet</a>)</div>
-<div class="line"><span class="lineno">  119</span>            bf-&gt;Update(<a class="code hl_variable" href="../../dc/d89/a07413.html#a62c5a7865d10618b0db6e098a99d0230">_updateTimer</a>);</div>
-<div class="line"><span class="lineno">  120</span>        <a class="code hl_variable" href="../../dc/d89/a07413.html#a62c5a7865d10618b0db6e098a99d0230">_updateTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  121</span>    }</div>
-<div class="line"><span class="lineno">  122</span>}</div>
-<div class="ttc" id="aa00713_html_a79df696836c3edc53ca1868aab7f6e76"><div class="ttname"><a href="../../d1/d04/a00713.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a></div><div class="ttdeci">constexpr auto BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</div><div class="ttdef"><b>Definition:</b> Battlefield.h:56</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_battlefieldSet</a>, <a class="el" href="../../#l00073">_updateTimer</a>, and <a class="el" href="../../#l00056">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a08c3f04abda757dd62a9e90fdbba26f9" name="a08c3f04abda757dd62a9e90fdbba26f9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a08c3f04abda757dd62a9e90fdbba26f9">&#9670;&#160;</a></span>_battlefieldMap</h2>
+<a id="a48e000b0e7d9411676fd2ccacf283163" name="a48e000b0e7d9411676fd2ccacf283163"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a48e000b0e7d9411676fd2ccacf283163">&#9670;&#160;</a></span>searchableAuctionEntry</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d89/a07413.html#af0b5390f581e99d207ec06c9645d9d63">BattlefieldMap</a> BattlefieldMgr::_battlefieldMap</td>
+          <td class="memname">std::shared_ptr&lt;<a class="el" href="../../d3/d40/a07373.html">SearchableAuctionEntry</a>&gt; AuctionSearchAdd::searchableAuctionEntry</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00062">AddZone()</a>, <a class="el" href="../../#l00093">GetBattlefieldToZoneId()</a>, <a class="el" href="../../#l00124">GetZoneScript()</a>, <a class="el" href="../../#l00067">HandlePlayerEnterZone()</a>, and <a class="el" href="../../#l00080">HandlePlayerLeaveZone()</a>.</p>
-
-</div>
-</div>
-<a id="a4d6325668521e88a17a67318970570e1" name="a4d6325668521e88a17a67318970570e1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4d6325668521e88a17a67318970570e1">&#9670;&#160;</a></span>_battlefieldSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d89/a07413.html#aebece89a427833b4005c67761bba7262">BattlefieldSet</a> BattlefieldMgr::_battlefieldSet</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00104">GetBattlefieldByBattleId()</a>, <a class="el" href="../../#l00038">InitBattlefield()</a>, <a class="el" href="../../#l00113">Update()</a>, and <a class="el" href="../../#l00026">~BattlefieldMgr()</a>.</p>
-
-</div>
-</div>
-<a id="a62c5a7865d10618b0db6e098a99d0230" name="a62c5a7865d10618b0db6e098a99d0230"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62c5a7865d10618b0db6e098a99d0230">&#9670;&#160;</a></span>_updateTimer</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlefieldMgr::_updateTimer</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00113">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00086">AuctionHouseWorkerThread::SearchUpdateAdd()</a>.</p>
 
 </div>
 </div>
@@ -762,8 +210,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/d89/a07413.html">BattlefieldMgr</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:09:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/d89/a07413.html">AuctionSearchAdd</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:28:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

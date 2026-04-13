@@ -1,6 +1,6 @@
 var a11813 =
 [
-    [ "EffectSplitHandler", "d8/dfd/a11813.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "d8/dfd/a11813.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "d8/dfd/a11813.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "BeforeHitHandler", "d8/dfd/a11813.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "d8/dfd/a11813.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "d8/dfd/a11813.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

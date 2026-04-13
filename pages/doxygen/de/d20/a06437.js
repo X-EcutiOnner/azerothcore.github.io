@@ -1,5 +1,6 @@
 var a06437 =
 [
-    [ "Effects", "de/d20/a06437.html#a7ae062fbfacc6d848f5570a3bae3230f", null ],
-    [ "Targets", "de/d20/a06437.html#a390ced58f1c1981c05cc2aec32a4d579", null ]
+    [ "PlayerAI", "de/d20/a06437.html#a880c670caddc1f24e42f229457039c67", null ],
+    [ "OnCharmed", "de/d20/a06437.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
+    [ "me", "de/d20/a06437.html#a70a995521c55fb3d73d14e6be883eccc", null ]
 ];

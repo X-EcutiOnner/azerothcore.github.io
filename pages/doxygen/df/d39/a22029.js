@@ -1,6 +1,7 @@
 var a22029 =
 [
-    [ "npc_llod_genericAI", "d4/df8/a22033.html", "d4/df8/a22033" ],
-    [ "npc_llod_generic", "df/d39/a22029.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "df/d39/a22029.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "HandleScript", "df/d39/a22029.html#a26eb647b6c938df3aeff7981571dc475", null ],
+    [ "PrepareSpellScript", "df/d39/a22029.html#a10114d8fa956aabff64aa0df7708f635", null ],
+    [ "Register", "df/d39/a22029.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
+    [ "Validate", "df/d39/a22029.html#adb477d34d8012c6fb45c5548fc49e127", null ]
 ];

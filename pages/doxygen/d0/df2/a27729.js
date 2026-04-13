@@ -1,6 +1,7 @@
 var a27729 =
 [
-    [ "CalculateAmount", "d0/df2/a27729.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "d0/df2/a27729.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "d0/df2/a27729.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "npc_spirit_shadeAI", "d0/df2/a27729.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d0/df2/a27729.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d0/df2/a27729.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d0/df2/a27729.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

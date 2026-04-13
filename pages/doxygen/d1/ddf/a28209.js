@@ -1,7 +1,6 @@
 var a28209 =
 [
-    [ "go_pirate_day_musicAI", "d1/ddf/a28209.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "d1/ddf/a28209.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "d1/ddf/a28209.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "d1/ddf/a28209.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "npc_experience", "d1/ddf/a28209.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d1/ddf/a28209.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d1/ddf/a28209.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

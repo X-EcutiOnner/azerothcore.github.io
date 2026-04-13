@@ -1,5 +1,5 @@
 var a08013 =
 [
-    [ "Quest", "dd/d9e/a08013.html#aca1cbcd3319031b549c0ec6441b2c821", null ],
-    [ "QuestLevel", "dd/d9e/a08013.html#ad162701af62caac909ef9f57f68bf848", null ]
+    [ "IsColorValid", "dd/d9e/a08013.html#a537a2beaa8321095d2d67b8fb655acea", null ],
+    [ "IsTextValid", "dd/d9e/a08013.html#aeaa47302a91b5882afae3950ffc460cc", null ]
 ];

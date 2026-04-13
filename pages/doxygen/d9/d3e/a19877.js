@@ -1,10 +1,16 @@
 var a19877 =
 [
-    [ "npc_oculus_drakegiverAI", "d9/d3e/a19877.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "d9/d3e/a19877.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "d9/d3e/a19877.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "d9/d3e/a19877.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "d9/d3e/a19877.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "d9/d3e/a19877.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "d9/d3e/a19877.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "boss_steelbreaker", "d9/d3e/a19877.html#a724e315f9508b02cadc5560f6525afc7", null ],
+    [ "DoAction", "d9/d3e/a19877.html#a2f945dac566b3d24009b486cb4e37cd3", null ],
+    [ "JustDied", "d9/d3e/a19877.html#af69b423bd844f946dede44e136344077", null ],
+    [ "JustEngagedWith", "d9/d3e/a19877.html#afa14e6571e7772d9c978d45a94a40afa", null ],
+    [ "JustReachedHome", "d9/d3e/a19877.html#ad73d9abcfdf9a2fcf3345a024db1f653", null ],
+    [ "KilledUnit", "d9/d3e/a19877.html#a153f72f75fc0758591b418fe82c2628d", null ],
+    [ "Reset", "d9/d3e/a19877.html#a66e5f9c30d30ed7dc42b8ae3ef4f46b6", null ],
+    [ "SpellHit", "d9/d3e/a19877.html#adf32e50b2fc6f8d373933cc0295c7d54", null ],
+    [ "UpdateAI", "d9/d3e/a19877.html#ad96ac1dcde103ddf71b2ded15e757834", null ],
+    [ "UpdatePhase", "d9/d3e/a19877.html#a42ab7be0d80ece19dd726ed29d425183", null ],
+    [ "_phase", "d9/d3e/a19877.html#a1b94dfb3b76278475aae50720a2e85c0", null ],
+    [ "events", "d9/d3e/a19877.html#add48973c02460691e0f32a3ae3897836", null ],
+    [ "pInstance", "d9/d3e/a19877.html#acf1e2229be9f931d0825ce252116b499", null ]
 ];

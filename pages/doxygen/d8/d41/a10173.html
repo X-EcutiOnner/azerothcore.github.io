@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: GraveyardData Struct Reference</title>
+<title>AzerothCore: LFGUpdateRequest Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,30 +106,46 @@ $(document).ready(function(){initNavTree('d8/d41/a10173.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d2/d10/a10170.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">GraveyardData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">LFGUpdateRequest Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">GameGraveyard.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for LFGUpdateRequest:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d8/d41/a10173.png" usemap="#LFGUpdateRequest_map" alt=""/>
+  <map id="LFGUpdateRequest_map" name="LFGUpdateRequest_map">
+<area href="../../dc/d86/a10161.html" alt="UpdateRequest" shape="rect" coords="0,0,119,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aeeea8efaff8fe3f5044a7d5627a89cb6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d41/a10173.html#aeeea8efaff8fe3f5044a7d5627a89cb6">IsNeutralOrFriendlyToTeam</a> (<a class="el" href="../../de/df4/a04844.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> playerTeamId) const</td></tr>
-<tr class="separator:aeeea8efaff8fe3f5044a7d5627a89cb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85900fc44d5dfb5595fbe7dc3422dfaa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d41/a10173.html#a85900fc44d5dfb5595fbe7dc3422dfaa">LFGUpdateRequest</a> (<a class="el" href="../../d1/df6/a10177.html">MapUpdater</a> &amp;u, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> d)</td></tr>
+<tr class="separator:a85900fc44d5dfb5595fbe7dc3422dfaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15258001db5870a0f52bb0c72cba3587"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d41/a10173.html#a15258001db5870a0f52bb0c72cba3587">call</a> () override</td></tr>
+<tr class="separator:a15258001db5870a0f52bb0c72cba3587"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10161"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10161')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../dc/d86/a10161.html">UpdateRequest</a></td></tr>
+<tr class="memitem:a23b3dbcff54691b2710109a822a486a0 inherit pub_methods_a10161"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d86/a10161.html#a23b3dbcff54691b2710109a822a486a0">UpdateRequest</a> ()=default</td></tr>
+<tr class="separator:a23b3dbcff54691b2710109a822a486a0 inherit pub_methods_a10161"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a240bdc56685c270c597588231c3bf8f8 inherit pub_methods_a10161"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d86/a10161.html#a240bdc56685c270c597588231c3bf8f8">~UpdateRequest</a> ()=default</td></tr>
+<tr class="separator:a240bdc56685c270c597588231c3bf8f8 inherit pub_methods_a10161"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8221fa415f828a4866f85f3983f7dab9 inherit pub_methods_a10161"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d86/a10161.html#a8221fa415f828a4866f85f3983f7dab9">call</a> ()=0</td></tr>
+<tr class="separator:a8221fa415f828a4866f85f3983f7dab9 inherit pub_methods_a10161"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a4f6003cc76b70c83fbb8301cc9d5a7ad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d41/a10173.html#a4f6003cc76b70c83fbb8301cc9d5a7ad">safeLocId</a></td></tr>
-<tr class="separator:a4f6003cc76b70c83fbb8301cc9d5a7ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a287b04900d70f8ff8c6f6542edbd40a6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/df4/a04844.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d41/a10173.html#a287b04900d70f8ff8c6f6542edbd40a6">teamId</a></td></tr>
-<tr class="separator:a287b04900d70f8ff8c6f6542edbd40a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a1bb4423241495aebab83ebc1acf66510"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/df6/a10177.html">MapUpdater</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d41/a10173.html#a1bb4423241495aebab83ebc1acf66510">m_updater</a></td></tr>
+<tr class="separator:a1bb4423241495aebab83ebc1acf66510"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a27e818e5d985ac91be6eca14a1ebd73f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d41/a10173.html#a27e818e5d985ac91be6eca14a1ebd73f">m_diff</a></td></tr>
+<tr class="separator:a27e818e5d985ac91be6eca14a1ebd73f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="aeeea8efaff8fe3f5044a7d5627a89cb6" name="aeeea8efaff8fe3f5044a7d5627a89cb6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeeea8efaff8fe3f5044a7d5627a89cb6">&#9670;&#160;</a></span>IsNeutralOrFriendlyToTeam()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a85900fc44d5dfb5595fbe7dc3422dfaa" name="a85900fc44d5dfb5595fbe7dc3422dfaa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85900fc44d5dfb5595fbe7dc3422dfaa">&#9670;&#160;</a></span>LFGUpdateRequest()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -138,11 +154,21 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool GraveyardData::IsNeutralOrFriendlyToTeam </td>
+          <td class="memname">LFGUpdateRequest::LFGUpdateRequest </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/df4/a04844.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
-          <td class="paramname"><em>playerTeamId</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a10177.html">MapUpdater</a> &amp;&#160;</td>
+          <td class="paramname"><em>u</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>d</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -151,46 +177,94 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   42</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d41/a10173.html#a287b04900d70f8ff8c6f6542edbd40a6">teamId</a> == <a class="code hl_enumvalue" href="../../de/df4/a04844.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a> || playerTeamId == <a class="code hl_enumvalue" href="../../de/df4/a04844.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a> || <a class="code hl_variable" href="../../d8/d41/a10173.html#a287b04900d70f8ff8c6f6542edbd40a6">teamId</a> == playerTeamId; }</div>
-<div class="ttc" id="aa04844_html_abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5"><div class="ttname"><a href="../../de/df4/a04844.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a></div><div class="ttdeci">@ TEAM_NEUTRAL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:750</div></div>
-<div class="ttc" id="aa10173_html_a287b04900d70f8ff8c6f6542edbd40a6"><div class="ttname"><a href="../../d8/d41/a10173.html#a287b04900d70f8ff8c6f6542edbd40a6">GraveyardData::teamId</a></div><div class="ttdeci">TeamId teamId</div><div class="ttdef"><b>Definition:</b> GameGraveyard.h:40</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   81</span>: <a class="code hl_variable" href="../../d8/d41/a10173.html#a1bb4423241495aebab83ebc1acf66510">m_updater</a>(u), <a class="code hl_variable" href="../../d8/d41/a10173.html#a27e818e5d985ac91be6eca14a1ebd73f">m_diff</a>(d) {}</div>
+<div class="ttc" id="aa10173_html_a1bb4423241495aebab83ebc1acf66510"><div class="ttname"><a href="../../d8/d41/a10173.html#a1bb4423241495aebab83ebc1acf66510">LFGUpdateRequest::m_updater</a></div><div class="ttdeci">MapUpdater &amp; m_updater</div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:89</div></div>
+<div class="ttc" id="aa10173_html_a27e818e5d985ac91be6eca14a1ebd73f"><div class="ttname"><a href="../../d8/d41/a10173.html#a27e818e5d985ac91be6eca14a1ebd73f">LFGUpdateRequest::m_diff</a></div><div class="ttdeci">uint32 m_diff</div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:90</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00750">TEAM_NEUTRAL</a>, and <a class="el" href="../../#l00040">teamId</a>.</p>
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a15258001db5870a0f52bb0c72cba3587" name="a15258001db5870a0f52bb0c72cba3587"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15258001db5870a0f52bb0c72cba3587">&#9670;&#160;</a></span>call()</h2>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00097">Graveyard::GetClosestGraveyard()</a>.</p>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void LFGUpdateRequest::call </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="../../dc/d86/a10161.html#a8221fa415f828a4866f85f3983f7dab9">UpdateRequest</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   84</span>    {</div>
+<div class="line"><span class="lineno">   85</span>        <a class="code hl_define" href="../../d7/db2/a02036.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;Update(<a class="code hl_variable" href="../../d8/d41/a10173.html#a27e818e5d985ac91be6eca14a1ebd73f">m_diff</a>, 1);</div>
+<div class="line"><span class="lineno">   86</span>        <a class="code hl_variable" href="../../d8/d41/a10173.html#a1bb4423241495aebab83ebc1acf66510">m_updater</a>.<a class="code hl_function" href="../../d1/df6/a10177.html#ab874c53de215037c8fae77f9dac6601c">update_finished</a>();</div>
+<div class="line"><span class="lineno">   87</span>    }</div>
+<div class="ttc" id="aa02036_html_a9876016115774ddaf27fca5cc9adb96e"><div class="ttname"><a href="../../d7/db2/a02036.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a></div><div class="ttdeci">#define sLFGMgr</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:658</div></div>
+<div class="ttc" id="aa10177_html_ab874c53de215037c8fae77f9dac6601c"><div class="ttname"><a href="../../d1/df6/a10177.html#ab874c53de215037c8fae77f9dac6601c">MapUpdater::update_finished</a></div><div class="ttdeci">void update_finished()</div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:161</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00090">m_diff</a>, <a class="el" href="../../#l00089">m_updater</a>, <a class="el" href="../../#l00658">sLFGMgr</a>, and <a class="el" href="../../#l00161">MapUpdater::update_finished()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a4f6003cc76b70c83fbb8301cc9d5a7ad" name="a4f6003cc76b70c83fbb8301cc9d5a7ad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4f6003cc76b70c83fbb8301cc9d5a7ad">&#9670;&#160;</a></span>safeLocId</h2>
+<a id="a27e818e5d985ac91be6eca14a1ebd73f" name="a27e818e5d985ac91be6eca14a1ebd73f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a27e818e5d985ac91be6eca14a1ebd73f">&#9670;&#160;</a></span>m_diff</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GraveyardData::safeLocId</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> LFGUpdateRequest::m_diff</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00285">Graveyard::AddGraveyardLink()</a>, <a class="el" href="../../#l00272">Graveyard::FindGraveyardData()</a>, <a class="el" href="../../#l00097">Graveyard::GetClosestGraveyard()</a>, and <a class="el" href="../../#l00313">Graveyard::RemoveGraveyardLink()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00083">call()</a>.</p>
 
 </div>
 </div>
-<a id="a287b04900d70f8ff8c6f6542edbd40a6" name="a287b04900d70f8ff8c6f6542edbd40a6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a287b04900d70f8ff8c6f6542edbd40a6">&#9670;&#160;</a></span>teamId</h2>
+<a id="a1bb4423241495aebab83ebc1acf66510" name="a1bb4423241495aebab83ebc1acf66510"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1bb4423241495aebab83ebc1acf66510">&#9670;&#160;</a></span>m_updater</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/df4/a04844.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> GraveyardData::teamId</td>
+          <td class="memname"><a class="el" href="../../d1/df6/a10177.html">MapUpdater</a>&amp; LFGUpdateRequest::m_updater</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00285">Graveyard::AddGraveyardLink()</a>, <a class="el" href="../../#l01609">misc_commandscript::HandleNearGraveCommand()</a>, <a class="el" href="../../#l00042">IsNeutralOrFriendlyToTeam()</a>, and <a class="el" href="../../#l00313">Graveyard::RemoveGraveyardLink()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00083">call()</a>.</p>
 
 </div>
 </div>
@@ -199,8 +273,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/d41/a10173.html">GraveyardData</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:09:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d8/d41/a10173.html">LFGUpdateRequest</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:28:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

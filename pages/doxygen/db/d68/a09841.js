@@ -1,16 +1,12 @@
 var a09841 =
 [
-    [ "BankMoveItemData", "db/d68/a09841.html#a9edb987f4866e8bc473fe853597bebae", null ],
-    [ "_ReserveSpace", "db/d68/a09841.html#a109e8d55108b005426110626815ba866", null ],
-    [ "_StoreItem", "db/d68/a09841.html#aa11267f5d6202753310da567c0be0e57", null ],
-    [ "CanStore", "db/d68/a09841.html#ade47c73460329ca1af752921173ca75e", null ],
-    [ "CanStoreItemInTab", "db/d68/a09841.html#a5ca7975887e5583466d066c86b3a205f", null ],
-    [ "HasStoreRights", "db/d68/a09841.html#acd684824cab9ccb4d8fd9cbb1f1782e1", null ],
-    [ "HasWithdrawRights", "db/d68/a09841.html#ae9d8f497b4459c982ac73ee8b5742aad", null ],
-    [ "InitItem", "db/d68/a09841.html#a69d6b28ccdda7790f821f5181da0db96", null ],
-    [ "IsBank", "db/d68/a09841.html#a6f1787e15918092ba000ee8bd0852b09", null ],
-    [ "LogAction", "db/d68/a09841.html#a4f23cdffba39ffa78c38851ff7aa7d0c", null ],
-    [ "LogBankEvent", "db/d68/a09841.html#a054ca0f7eecfd404651c11b886d106bf", null ],
-    [ "RemoveItem", "db/d68/a09841.html#abd15e25136ec2a00bcddbc0e81978a78", null ],
-    [ "StoreItem", "db/d68/a09841.html#a9367b938768eefcaf5bb88e74dde9aa3", null ]
+    [ "EventLogEntry", "db/d68/a09841.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
+    [ "EventLogEntry", "db/d68/a09841.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
+    [ "~EventLogEntry", "db/d68/a09841.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
+    [ "SaveToDB", "db/d68/a09841.html#a2ca71e291a44f95bb42d51083aa84985", null ],
+    [ "WritePacket", "db/d68/a09841.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
+    [ "m_eventType", "db/d68/a09841.html#a00216643e6856591402c21df490c1fec", null ],
+    [ "m_newRank", "db/d68/a09841.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
+    [ "m_playerGuid1", "db/d68/a09841.html#a06a2b45d16860c711829f49f97624272", null ],
+    [ "m_playerGuid2", "db/d68/a09841.html#a1f66e71f9536e484663e437bbcbcefca", null ]
 ];

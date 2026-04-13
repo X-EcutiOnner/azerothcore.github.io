@@ -1,7 +1,6 @@
 var a10961 =
 [
-    [ "GuildBankBuyTab", "d0/d4f/a10961.html#af2195db72eeaefea13c958e5ef62c411", null ],
-    [ "Read", "d0/d4f/a10961.html#a502153232a314d099ed43e1101bdfc1f", null ],
-    [ "Banker", "d0/d4f/a10961.html#a46f3b910aa6d69f4a82c7a603f9f0fb3", null ],
-    [ "BankTab", "d0/d4f/a10961.html#a5df7be995a177706fa364e31a6f8df1e", null ]
+    [ "GuildEventLogQueryResults", "d0/d4f/a10961.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "d0/d4f/a10961.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "d0/d4f/a10961.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

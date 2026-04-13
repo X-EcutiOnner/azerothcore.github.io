@@ -1,6 +1,7 @@
 var a16925 =
 [
-    [ "npc_toc_mageAI", "dd/d97/a16929.html", "dd/d97/a16929" ],
-    [ "npc_toc_mage", "df/d58/a16925.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "df/d58/a16925.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "HandleEffectPeriodic", "df/d58/a16925.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "df/d58/a16925.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "df/d58/a16925.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "df/d58/a16925.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

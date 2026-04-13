@@ -1,6 +1,7 @@
 var a26041 =
 [
-    [ "CheckSinkholes", "dd/d6e/a26041.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "dd/d6e/a26041.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "dd/d6e/a26041.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "HandleProc", "dd/d6e/a26041.html#adae03d8ff102215e61bbfff13c63290d", null ],
+    [ "PrepareAuraScript", "dd/d6e/a26041.html#acbaa8391980af138bd53173f0b8bd243", null ],
+    [ "Register", "dd/d6e/a26041.html#aec87249ec23b6b3314e5fb95fd832ad0", null ],
+    [ "Validate", "dd/d6e/a26041.html#abfb835c784033a6b2eb4159a6a15221e", null ]
 ];

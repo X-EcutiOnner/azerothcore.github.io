@@ -1,9 +1,9 @@
 var a15341 =
 [
-    [ "boss_temporus", "d9/dc1/a15341.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d9/dc1/a15341.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d9/dc1/a15341.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d9/dc1/a15341.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d9/dc1/a15341.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d9/dc1/a15341.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "go_ossirian_crystalAI", "d9/dc1/a15341.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "d9/dc1/a15341.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "d9/dc1/a15341.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "d9/dc1/a15341.html#a9b4af48363a6d3194a22312fafa48587", null ],
+    [ "_instance", "d9/dc1/a15341.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "d9/dc1/a15341.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

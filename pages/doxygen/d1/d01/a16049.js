@@ -1,6 +1,6 @@
 var a16049 =
 [
-    [ "npc_qiraj_war_spawnAI", "da/d19/a16053.html", "da/d19/a16053" ],
-    [ "npc_qiraj_war_spawn", "d1/d01/a16049.html#a2afba33e9fd879ac3fea206768b14334", null ],
-    [ "GetAI", "d1/d01/a16049.html#a32339f20251c188b895c02b6cc9217e9", null ]
+    [ "HandleSummon", "d1/d01/a16049.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "d1/d01/a16049.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "d1/d01/a16049.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

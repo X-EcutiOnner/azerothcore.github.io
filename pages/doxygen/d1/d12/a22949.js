@@ -1,6 +1,7 @@
 var a22949 =
 [
-    [ "PrepareSpellScript", "d1/d12/a22949.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "d1/d12/a22949.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "d1/d12/a22949.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "PeriodicTick", "d1/d12/a22949.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
+    [ "PrepareAuraScript", "d1/d12/a22949.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
+    [ "Register", "d1/d12/a22949.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
+    [ "Validate", "d1/d12/a22949.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
 ];

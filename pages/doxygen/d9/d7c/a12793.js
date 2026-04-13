@@ -1,7 +1,6 @@
 var a12793 =
 [
-    [ "HandlePeriodic", "d9/d7c/a12793.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "d9/d7c/a12793.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "d9/d7c/a12793.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "d9/d7c/a12793.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "boss_magmadar", "d9/d7c/a12793.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
+    [ "ExecuteEvent", "d9/d7c/a12793.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
+    [ "JustEngagedWith", "d9/d7c/a12793.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
 ];

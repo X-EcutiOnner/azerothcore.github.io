@@ -1,6 +1,6 @@
 var a18825 =
 [
-    [ "ModDestHeight", "d8/d8f/a18825.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
-    [ "PrepareSpellScript", "d8/d8f/a18825.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
-    [ "Register", "d8/d8f/a18825.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
+    [ "npc_crok_scourgebaneAI", "d7/d40/a18829.html", "d7/d40/a18829" ],
+    [ "npc_crok_scourgebane", "d8/d8f/a18825.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "d8/d8f/a18825.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

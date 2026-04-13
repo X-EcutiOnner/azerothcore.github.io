@@ -1,7 +1,7 @@
 var a26433 =
 [
-    [ "HandleProc", "d9/d40/a26433.html#a296b2622253bae04cb797cad703bd2f1", null ],
-    [ "PrepareAuraScript", "d9/d40/a26433.html#af4f7eca08c657fe0195b29c9e59b886b", null ],
-    [ "Register", "d9/d40/a26433.html#af09d94a90a098ef0ec69653d0393d868", null ],
-    [ "Validate", "d9/d40/a26433.html#a6da970621e4d1a898be940a09023e7cd", null ]
+    [ "OnProc", "d9/d40/a26433.html#a0a85e641521f1e9b7fd074f7edde97ac", null ],
+    [ "PrepareAuraScript", "d9/d40/a26433.html#a4ff27309c8848a6155ad28809ace5cba", null ],
+    [ "Register", "d9/d40/a26433.html#a20b6a18ce3fac99689b958b384da7836", null ],
+    [ "Validate", "d9/d40/a26433.html#ac4275cca4f974a5a131e4dc1be8eed23", null ]
 ];

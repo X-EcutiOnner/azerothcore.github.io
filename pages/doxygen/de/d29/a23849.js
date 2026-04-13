@@ -1,6 +1,6 @@
 var a23849 =
 [
-    [ "HandleScriptEffect", "de/d29/a23849.html#a724e857ad8604ef4546c8823bb7bd632", null ],
-    [ "PrepareSpellScript", "de/d29/a23849.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
-    [ "Register", "de/d29/a23849.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
+    [ "npc_illidari_spawnAI", "d7/d19/a23853.html", "d7/d19/a23853" ],
+    [ "npc_illidari_spawn", "de/d29/a23849.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "de/d29/a23849.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

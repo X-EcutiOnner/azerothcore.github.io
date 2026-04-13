@@ -1,15 +1,19 @@
 var a14429 =
 [
-    [ "boss_arlokkAI", "d7/db9/a14429.html#adb598bf47620cd077fb689fb8f9a4ad8", null ],
-    [ "EnterEvadeMode", "d7/db9/a14429.html#a8553c4d173e7c39315f022f69587c6c0", null ],
-    [ "JustDied", "d7/db9/a14429.html#ac03a6599a5b41e01bd4ed9ebd55cc0ba", null ],
-    [ "JustEngagedWith", "d7/db9/a14429.html#ac4ee55299a9389c4fee1ad96140b00d0", null ],
-    [ "JustReachedHome", "d7/db9/a14429.html#ab0499a80ea8406457e6bfaac96eae975", null ],
-    [ "Reset", "d7/db9/a14429.html#a3ea2c720ac5c4b1fa6ea4d2eb8bf163f", null ],
-    [ "SetData", "d7/db9/a14429.html#a7eedf1d1b55740698c314d4afbb2b0b2", null ],
-    [ "UpdateAI", "d7/db9/a14429.html#a3a2d07d42be88244c0c72b998792dd28", null ],
-    [ "_summonCountA", "d7/db9/a14429.html#a77f83909fca59d1c5d72dc583d7ec22e", null ],
-    [ "_summonCountB", "d7/db9/a14429.html#a7e7d091ea00fb42e7f97cb79168e0dc3", null ],
-    [ "_triggersSideAGUID", "d7/db9/a14429.html#aedc8dda728ed849f33dc83396da51bce", null ],
-    [ "_triggersSideBGUID", "d7/db9/a14429.html#a0fc797fd56c4f12272b647087492670a", null ]
+    [ "boss_thekal", "d7/db9/a14429.html#a91e8fd9ba169d5096fd06471f8bd16e9", null ],
+    [ "CheckPhaseTransition", "d7/db9/a14429.html#a95aeb81565f5863eec67106ae1118ac4", null ],
+    [ "DamageTaken", "d7/db9/a14429.html#a98be9a4d815f6fdc01acbfaa916b721c", null ],
+    [ "DoAction", "d7/db9/a14429.html#aa3d81738fbb42d5575dd8e5b30d84563", null ],
+    [ "Initialize", "d7/db9/a14429.html#aec365f330eed69513e988f895ec780e7", null ],
+    [ "JustDied", "d7/db9/a14429.html#a79bc19df134cbeb17f0941865461bd0d", null ],
+    [ "JustEngagedWith", "d7/db9/a14429.html#af5e2b2b5665270f29243921e51280190", null ],
+    [ "Reset", "d7/db9/a14429.html#a684bf1fc087970a41cf79959ba57b31b", null ],
+    [ "ReviveZealot", "d7/db9/a14429.html#aab84b3390cf8cc95dc8a2067ed38b4ab", null ],
+    [ "SetData", "d7/db9/a14429.html#a586805c5f8d20a35055cf12a3c9f673f", null ],
+    [ "UpdateAI", "d7/db9/a14429.html#a4b5e7dae10900a197d047b6ea32c33ed", null ],
+    [ "UpdateZealotStatus", "d7/db9/a14429.html#ac69068240dfc1ecf30f37e36c3e51353", null ],
+    [ "_enraged", "d7/db9/a14429.html#aba5ac2c4cdac1d4a0e37e9d6cd3b1422", null ],
+    [ "_lorkhanDied", "d7/db9/a14429.html#a0f84ad2f224fe29fc4ddde3258200e10", null ],
+    [ "_wasDead", "d7/db9/a14429.html#aec4eea1f0d8ebffb1bbc2646e986f300", null ],
+    [ "_zathDied", "d7/db9/a14429.html#ae3df1561ee3dcb3887f6e646b6277b29", null ]
 ];

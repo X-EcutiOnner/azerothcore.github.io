@@ -1,5 +1,8 @@
 var a19317 =
 [
-    [ "npc_icc_buff_switcher", "dc/dea/a19317.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "dc/dea/a19317.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "boss_maexxna_webwrapAI", "dc/dea/a19317.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "dc/dea/a19317.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "dc/dea/a19317.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "dc/dea/a19317.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "dc/dea/a19317.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

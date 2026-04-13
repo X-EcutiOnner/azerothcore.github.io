@@ -1,11 +1,11 @@
 var a20769 =
 [
-    [ "boss_thorim_ancient_rune_giant", "de/dbe/a20769.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
-    [ "DoAction", "de/dbe/a20769.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
-    [ "JustDied", "de/dbe/a20769.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
-    [ "JustEngagedWith", "de/dbe/a20769.html#a98fa309963245a0c57676ff019085fac", null ],
-    [ "Reset", "de/dbe/a20769.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
-    [ "UpdateAI", "de/dbe/a20769.html#a903d7448d9441866475d77fce8ca6d37", null ],
-    [ "_isInCombat", "de/dbe/a20769.html#a148ff1fa8010466de069032f660cd08e", null ],
-    [ "events", "de/dbe/a20769.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
+    [ "npc_ulduar_storm_tempered_keeper", "de/dbe/a20769.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
+    [ "JustDied", "de/dbe/a20769.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
+    [ "JustEngagedWith", "de/dbe/a20769.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
+    [ "JustSummoned", "de/dbe/a20769.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
+    [ "Reset", "de/dbe/a20769.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
+    [ "UpdateAI", "de/dbe/a20769.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
+    [ "events", "de/dbe/a20769.html#a4a79bd561fa63230a52730da20d7143c", null ],
+    [ "otherGUID", "de/dbe/a20769.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
 ];

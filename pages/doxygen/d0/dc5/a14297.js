@@ -1,7 +1,5 @@
 var a14297 =
 [
-    [ "Load", "d0/dc5/a14297.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
-    [ "OnRemove", "d0/dc5/a14297.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
-    [ "PrepareAuraScript", "d0/dc5/a14297.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
-    [ "Register", "d0/dc5/a14297.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
+    [ "at_zulgurub_temple_speech", "d0/dc5/a14297.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
+    [ "_OnTrigger", "d0/dc5/a14297.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
 ];

@@ -1,5 +1,5 @@
 var a07977 =
 [
-    [ "IsColorValid", "df/d36/a07977.html#a6fca3f0ea620fbef8ed532ddb26875a0", null ],
-    [ "IsTextValid", "df/d36/a07977.html#aef8ebbb11dc11311ba7152732a1ace58", null ]
+    [ "value_type", "df/d36/a07977.html#ae75362e108b0a7323fe92cae75c4729c", null ],
+    [ "TryConsume", "df/d36/a07977.html#a19112294c2e36c8e36fb3f77f2ccabba", null ]
 ];

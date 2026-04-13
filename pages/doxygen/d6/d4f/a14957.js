@@ -1,5 +1,6 @@
 var a14957 =
 [
-    [ "PrepareSpellScript", "d6/d4f/a14957.html#a50ee42c11937759b6c52c2ab994481c4", null ],
-    [ "Register", "d6/d4f/a14957.html#a8dc12a723c2da948c38119e3fc34df35", null ]
+    [ "FilterTargets", "d6/d4f/a14957.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
+    [ "PrepareSpellScript", "d6/d4f/a14957.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
+    [ "Register", "d6/d4f/a14957.html#a164b8b946dc801db878603488c978adb", null ]
 ];

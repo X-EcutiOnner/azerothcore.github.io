@@ -1,9 +1,11 @@
 var a04607 =
 [
-    [ "PetSpell", "d6/d2d/a08766.html", "d6/d2d/a08766" ],
-    [ "Pet", "d6/d0d/a08770.html", "d6/d0d/a08770" ],
-    [ "AutoSpellList", "de/d76/a04607.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
-    [ "PetSpellMap", "de/d76/a04607.html#a5b33058abef8c309621a9029df331c0e", null ],
-    [ "HAPPINESS_LEVEL_SIZE", "de/d76/a04607.html#a892e58d225a828ccac38c7d241365e30", null ],
-    [ "PET_LOSE_HAPPINES_INTERVAL", "de/d76/a04607.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
+    [ "VMAP::ModelPosition", "da/dd7/a05285.html", "da/dd7/a05285" ],
+    [ "VMAP::MapSpawns", "da/d4c/a05289.html", "da/d4c/a05289" ],
+    [ "VMAP::GroupModel_Raw", "dc/d46/a05293.html", "dc/d46/a05293" ],
+    [ "VMAP::WorldModel_Raw", "d9/d63/a05297.html", "d9/d63/a05297" ],
+    [ "VMAP::TileAssembler", "d9/d5f/a05301.html", "d9/d5f/a05301" ],
+    [ "MapData", "de/d76/a04607.html#a28dc2e567f8620fed1128b6c4cf5b749", null ],
+    [ "TileMap", "de/d76/a04607.html#abfe766a1b58bbf69ce3b17ff14d1c101", null ],
+    [ "UniqueEntryMap", "de/d76/a04607.html#a3424b44a092b5f3d8074649ae11ee481", null ]
 ];

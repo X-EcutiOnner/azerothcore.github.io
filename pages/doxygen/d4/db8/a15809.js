@@ -1,6 +1,6 @@
 var a15809 =
 [
-    [ "npc_injured_draeneiAI", "d1/dc7/a15813.html", "d1/dc7/a15813" ],
-    [ "npc_injured_draenei", "d4/db8/a15809.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
-    [ "GetAI", "d4/db8/a15809.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
+    [ "npc_omenAI", "d1/dc7/a15813.html", "d1/dc7/a15813" ],
+    [ "npc_omen", "d4/db8/a15809.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d4/db8/a15809.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

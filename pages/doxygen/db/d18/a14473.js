@@ -1,5 +1,6 @@
 var a14473 =
 [
-    [ "at_zulgurub_entrance_speech", "db/d18/a14473.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "db/d18/a14473.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "npc_brewfest_keg_reciver", "db/d18/a14473.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "db/d18/a14473.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "db/d18/a14473.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

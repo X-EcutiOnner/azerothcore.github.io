@@ -1,5 +1,7 @@
 var a29113 =
 [
-    [ "Id", "db/dc0/a29113.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "db/dc0/a29113.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "RealmHandle", "db/dc0/a29113.html#a120fb45f2301188a843ab2e712f768e4", null ],
+    [ "RealmHandle", "db/dc0/a29113.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
+    [ "operator<", "db/dc0/a29113.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
+    [ "Realm", "db/dc0/a29113.html#a31af0d9064a295b1579fce3c80217bfd", null ]
 ];

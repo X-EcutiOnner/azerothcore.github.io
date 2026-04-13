@@ -1,5 +1,6 @@
 var a16065 =
 [
-    [ "go_crystalline_tear", "d8/d9d/a16065.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "d8/d9d/a16065.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "go_troll_cageAI", "dd/d1a/a16069.html", "dd/d1a/a16069" ],
+    [ "go_troll_cage", "d8/d9d/a16065.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "d8/d9d/a16065.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

@@ -1,8 +1,11 @@
 var a16477 =
 [
-    [ "npc_twilight_summon", "d9/d63/a16477.html#a34697edd1af94814862a50a038625f93", null ],
-    [ "DoAction", "d9/d63/a16477.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
-    [ "Reset", "d9/d63/a16477.html#aa909fac05e93a78d3f70222fb82a6841", null ],
-    [ "UpdateAI", "d9/d63/a16477.html#afe47f7af23aa7ef5b59473579c649859", null ],
-    [ "fadeArmorTimer", "d9/d63/a16477.html#a998e2efd9e25915d32b953d684352511", null ]
+    [ "boss_saviana_ragefireAI", "d9/d63/a16477.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
+    [ "JustDied", "d9/d63/a16477.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
+    [ "JustEngagedWith", "d9/d63/a16477.html#a458eb370872c20441b5ec6ecd2c97500", null ],
+    [ "JustReachedHome", "d9/d63/a16477.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
+    [ "KilledUnit", "d9/d63/a16477.html#ac07513681c72d6748246cc7c349d117c", null ],
+    [ "MovementInform", "d9/d63/a16477.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
+    [ "Reset", "d9/d63/a16477.html#a4b7f103331c566cbf007a075161505af", null ],
+    [ "UpdateAI", "d9/d63/a16477.html#af36ca2a359f950a10214d07aad240324", null ]
 ];

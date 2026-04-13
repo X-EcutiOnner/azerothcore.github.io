@@ -1,7 +1,8 @@
 var a07385 =
 [
-    [ "AuctionSorter", "d0/d0e/a07385.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
-    [ "operator()", "d0/d0e/a07385.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
-    [ "_loc_idx", "d0/d0e/a07385.html#a11708aa660757db95c88d9dc7e9b9521", null ],
-    [ "_sort", "d0/d0e/a07385.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
+    [ "faction", "d0/d0e/a07385.html#acb80e9b49dda9771679b871cf862d876", null ],
+    [ "loc_idx", "d0/d0e/a07385.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
+    [ "locdbc_idx", "d0/d0e/a07385.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
+    [ "playerGuid", "d0/d0e/a07385.html#a6aaee409b729275b9089d7db5145ba58", null ],
+    [ "usablePlayerInfo", "d0/d0e/a07385.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
 ];

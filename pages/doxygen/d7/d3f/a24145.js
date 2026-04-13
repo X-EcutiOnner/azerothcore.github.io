@@ -1,14 +1,7 @@
 var a24145 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d7/d3f/a24145.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
-    [ "JustReachedHome", "d7/d3f/a24145.html#a0de69b5fda6342217697ad264d64d4e6", null ],
-    [ "MovementInform", "d7/d3f/a24145.html#a456b5de60672120f82506d177faf6b47", null ],
-    [ "Reset", "d7/d3f/a24145.html#a72eb39e259aed0ab230d4d43722cba13", null ],
-    [ "SpellHit", "d7/d3f/a24145.html#a749690b386c0c726d11b77bc705b9b01", null ],
-    [ "UpdateAI", "d7/d3f/a24145.html#a624c256f29d3cefed0bb909da3841853", null ],
-    [ "bCanEat", "d7/d3f/a24145.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
-    [ "bIsEating", "d7/d3f/a24145.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
-    [ "CastTimer", "d7/d3f/a24145.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
-    [ "EatTimer", "d7/d3f/a24145.html#aa50d3a21103dc769d162b1c917100630", null ],
-    [ "uiPlayerGUID", "d7/d3f/a24145.html#a6b9a435245ddce156d0657aa9e35175b", null ]
+    [ "CheckProc", "d7/d3f/a24145.html#a64414347ed5e132c3268451653082821", null ],
+    [ "HandleProc", "d7/d3f/a24145.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
+    [ "PrepareAuraScript", "d7/d3f/a24145.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
+    [ "Register", "d7/d3f/a24145.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
 ];

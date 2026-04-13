@@ -1,6 +1,7 @@
 var a28177 =
 [
-    [ "go_heatAI", "df/d23/a28177.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "df/d23/a28177.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "df/d23/a28177.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "npc_sayge", "df/d23/a28177.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "df/d23/a28177.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "df/d23/a28177.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "df/d23/a28177.html#aed1988335672423d024546654aa95298", null ]
 ];

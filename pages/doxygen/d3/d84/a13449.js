@@ -1,7 +1,7 @@
 var a13449 =
 [
-    [ "HandleEffectApply", "d3/d84/a13449.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d3/d84/a13449.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d3/d84/a13449.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d3/d84/a13449.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_apothecary_genericAI", "d3/d84/a13449.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d3/d84/a13449.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d3/d84/a13449.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d3/d84/a13449.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

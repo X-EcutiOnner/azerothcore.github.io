@@ -1,7 +1,7 @@
 var a16681 =
 [
-    [ "HandleDummy", "db/d55/a16681.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
-    [ "PrepareSpellScript", "db/d55/a16681.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
-    [ "Register", "db/d55/a16681.html#a144224b42aabc0402b729dcc808d779d", null ],
-    [ "Validate", "db/d55/a16681.html#a985e843e856a7322bccf8544c45df48c", null ]
+    [ "npc_toc_druidAI", "db/d55/a16681.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "db/d55/a16681.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "db/d55/a16681.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "db/d55/a16681.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

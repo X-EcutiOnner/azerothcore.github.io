@@ -1,11 +1,9 @@
 var a29129 =
 [
-    [ "Displayid", "d9/db5/a29129.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
-    [ "filename", "d9/db5/a29129.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
-    [ "maxX", "d9/db5/a29129.html#a10563ae885d34e516825a18db95b40e7", null ],
-    [ "maxY", "d9/db5/a29129.html#a711286df6d2bd74246dee2170052c17a", null ],
-    [ "maxZ", "d9/db5/a29129.html#acb74e32790b2c60cca5faef1caa225e4", null ],
-    [ "minX", "d9/db5/a29129.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
-    [ "minY", "d9/db5/a29129.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
-    [ "minZ", "d9/db5/a29129.html#ac88aefc2530212b9dff10e018c4e9305", null ]
+    [ "flags", "d9/db5/a29129.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "d9/db5/a29129.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "d9/db5/a29129.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "d9/db5/a29129.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "d9/db5/a29129.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "d9/db5/a29129.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

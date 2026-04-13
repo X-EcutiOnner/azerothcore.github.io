@@ -1,11 +1,11 @@
 var a28761 =
 [
-    [ "material", "df/dcd/a28761.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "df/dcd/a28761.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "df/dcd/a28761.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "df/dcd/a28761.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "df/dcd/a28761.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "df/dcd/a28761.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "df/dcd/a28761.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "df/dcd/a28761.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "Displayid", "df/dcd/a28761.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
+    [ "filename", "df/dcd/a28761.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
+    [ "maxX", "df/dcd/a28761.html#a10563ae885d34e516825a18db95b40e7", null ],
+    [ "maxY", "df/dcd/a28761.html#a711286df6d2bd74246dee2170052c17a", null ],
+    [ "maxZ", "df/dcd/a28761.html#acb74e32790b2c60cca5faef1caa225e4", null ],
+    [ "minX", "df/dcd/a28761.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
+    [ "minY", "df/dcd/a28761.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
+    [ "minZ", "df/dcd/a28761.html#ac88aefc2530212b9dff10e018c4e9305", null ]
 ];

@@ -1,7 +1,6 @@
 var a16349 =
 [
-    [ "HandleScript", "d5/de3/a16349.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "d5/de3/a16349.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "d5/de3/a16349.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "d5/de3/a16349.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "npc_onyx_flamecallerAI", "da/dcf/a16353.html", "da/dcf/a16353" ],
+    [ "npc_onyx_flamecaller", "d5/de3/a16349.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
+    [ "GetAI", "d5/de3/a16349.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
 ];

@@ -1,6 +1,8 @@
 var a23897 =
 [
-    [ "HandleDummy", "de/d0f/a23897.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "de/d0f/a23897.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "de/d0f/a23897.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "npc_kservantAI", "de/d0f/a23897.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "de/d0f/a23897.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "de/d0f/a23897.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "de/d0f/a23897.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
+    [ "WaypointReached", "de/d0f/a23897.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

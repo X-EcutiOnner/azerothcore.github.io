@@ -1,9 +1,22 @@
 var a17945 =
 [
-    [ "FilterTargetsInitial", "d3/dfe/a17945.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "d3/dfe/a17945.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "d3/dfe/a17945.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "d3/dfe/a17945.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "d3/dfe/a17945.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "d3/dfe/a17945.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "boss_lady_deathwhisperAI", "d3/dfe/a17945.html#a277180410090d1857bcc8962e22d965d", null ],
+    [ "AttackStart", "d3/dfe/a17945.html#a95268fc3088ecb1e0689bc502389eed1", null ],
+    [ "DamageTaken", "d3/dfe/a17945.html#a929dea6ce420f201341a20ab5d9273ed", null ],
+    [ "DoAction", "d3/dfe/a17945.html#a563f30e5e2a46c514cb114ef72dfa9e8", null ],
+    [ "EmpowerCultist", "d3/dfe/a17945.html#afc8a2df592e16bbac65a7aee4e6c7c95", null ],
+    [ "JustDied", "d3/dfe/a17945.html#a974094ecbdc1149ca3d1eec9211438df", null ],
+    [ "JustEngagedWith", "d3/dfe/a17945.html#ac56045f2aa26423bd69e97d8f279cf5e", null ],
+    [ "JustSummoned", "d3/dfe/a17945.html#a6ab4dc86911debb47e9d1784cb65dbb8", null ],
+    [ "KilledUnit", "d3/dfe/a17945.html#a325834b73d181e0506e1ea40380cddac", null ],
+    [ "Reset", "d3/dfe/a17945.html#a7eec8900602522cf39dd3a8dba733649", null ],
+    [ "SpellHitTarget", "d3/dfe/a17945.html#a868b18df67744868a8f694e7df7f1e66", null ],
+    [ "Summon", "d3/dfe/a17945.html#a933a9e13ca59d1d1049038f9f182470b", null ],
+    [ "SummonedCreatureDespawn", "d3/dfe/a17945.html#aa630ff1884cf1ebaa189c094d2278a1f", null ],
+    [ "SummonWaveP1", "d3/dfe/a17945.html#ad0cf8e10b041409868b8b75558f07e1b", null ],
+    [ "SummonWaveP2", "d3/dfe/a17945.html#a72971bdfe394da6fe94ce340143ab060", null ],
+    [ "UpdateAI", "d3/dfe/a17945.html#af602295a448fca10719861983a567d99", null ],
+    [ "_darnavanGUID", "d3/dfe/a17945.html#af4f251406b3a4ae3db32e83005993dfa", null ],
+    [ "_introDone", "d3/dfe/a17945.html#a162870aad6c99276f760b2e37b42c6c9", null ],
+    [ "_waveCounter", "d3/dfe/a17945.html#ab2819e4ade2c7a07d1d0a67d86063f16", null ]
 ];

@@ -1,7 +1,8 @@
 var a17821 =
 [
-    [ "HandleDummyTick", "d4/d52/a17821.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "d4/d52/a17821.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "d4/d52/a17821.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "d4/d52/a17821.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "npc_gunship_mageAI", "d4/d52/a17821.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "d4/d52/a17821.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "d4/d52/a17821.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "d4/d52/a17821.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "d4/d52/a17821.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

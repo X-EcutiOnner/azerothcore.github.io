@@ -1,6 +1,5 @@
 var a13997 =
 [
-    [ "HandleSendEvent", "d4/d33/a13997.html#a1be975f4440b823c34cc3e790fcff608", null ],
-    [ "PrepareSpellScript", "d4/d33/a13997.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
-    [ "Register", "d4/d33/a13997.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
+    [ "npc_tyrion", "d4/d33/a13997.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "d4/d33/a13997.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

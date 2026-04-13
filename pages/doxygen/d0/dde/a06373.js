@@ -1,6 +1,8 @@
 var a06373 =
 [
-    [ "KillMagnetEvent", "d0/dde/a06373.html#a1f044cb51674faebe45c0e2119601b59", null ],
-    [ "Execute", "d0/dde/a06373.html#a2905731d24060dfa7c2069b05adfa2b2", null ],
-    [ "_self", "d0/dde/a06373.html#a0fe06efbc00b38f98f2e077d7dfb1941", null ]
+    [ "GuardAI", "d0/dde/a06373.html#ac1f0ba47d8e32c65845808170330b7af", null ],
+    [ "EnterEvadeMode", "d0/dde/a06373.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
+    [ "JustDied", "d0/dde/a06373.html#a96820cdcb632d3a71f9deacf4998a774", null ],
+    [ "Permissible", "d0/dde/a06373.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
+    [ "Reset", "d0/dde/a06373.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
 ];

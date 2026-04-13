@@ -1,14 +1,11 @@
 var a09373 =
 [
-    [ "areaMapOffset", "d3/db8/a09373.html#a70f82337112bb8cbff0b3344666885a1", null ],
-    [ "areaMapSize", "d3/db8/a09373.html#adfbbb622974b7942f47dd16d2300246f", null ],
-    [ "buildMagic", "d3/db8/a09373.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
-    [ "heightMapOffset", "d3/db8/a09373.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
-    [ "heightMapSize", "d3/db8/a09373.html#a71c9cd42801697a927543e3acd4c3daf", null ],
-    [ "holesOffset", "d3/db8/a09373.html#a876d70dcd6ccec9ad09de77718c02150", null ],
-    [ "holesSize", "d3/db8/a09373.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
-    [ "liquidMapOffset", "d3/db8/a09373.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
-    [ "liquidMapSize", "d3/db8/a09373.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
-    [ "mapMagic", "d3/db8/a09373.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
-    [ "versionMagic", "d3/db8/a09373.html#abe722f653ba057fbba84401acbaffbfa", null ]
+    [ "~GridCell", "d3/db8/a09373.html#a042be8f85e83068d4bb39a0de0618146", null ],
+    [ "AddFarVisibleObject", "d3/db8/a09373.html#a9a81bdbf151463b4687227df0fa39ece", null ],
+    [ "AddGridObject", "d3/db8/a09373.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
+    [ "RemoveFarVisibleObject", "d3/db8/a09373.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
+    [ "Visit", "d3/db8/a09373.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
+    [ "Visit", "d3/db8/a09373.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
+    [ "_farVisibleObjects", "d3/db8/a09373.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
+    [ "_gridObjects", "d3/db8/a09373.html#ac5a741aebc11124aa228e5107e664335", null ]
 ];

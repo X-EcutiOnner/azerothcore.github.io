@@ -1,6 +1,7 @@
 var a26717 =
 [
-    [ "HandleDummy", "df/d7d/a26717.html#a1e9ecf50304f5ccd8578befea898bf81", null ],
-    [ "PrepareSpellScript", "df/d7d/a26717.html#a9cf7d1dd37f6df4651ffc83e6aa0b1c0", null ],
-    [ "Register", "df/d7d/a26717.html#a98a5ad12cdb54f48d6014fda3915fd70", null ]
+    [ "HandleDummy", "df/d7d/a26717.html#a123ddc812fb358b7517eba60d1f90eba", null ],
+    [ "Load", "df/d7d/a26717.html#a64ca188f58b4f34827f03ae2878deef0", null ],
+    [ "PrepareSpellScript", "df/d7d/a26717.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
+    [ "Register", "df/d7d/a26717.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
 ];

@@ -1,6 +1,6 @@
 var a16217 =
 [
-    [ "SayerEntry", "de/dae/a16217.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "de/dae/a16217.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "de/dae/a16217.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "FilterTargets", "de/dae/a16217.html#aff3223d9b3df91f9261aa2f45373f846", null ],
+    [ "PrepareSpellScript", "de/dae/a16217.html#a3ca9ba182a313fb741b15df63408a90e", null ],
+    [ "Register", "de/dae/a16217.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
 ];

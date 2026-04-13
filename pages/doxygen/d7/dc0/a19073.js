@@ -1,6 +1,5 @@
 var a19073 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d3/d97/a19077.html", "d3/d97/a19077" ],
-    [ "npc_highlord_tirion_fordring_lh", "d7/dc0/a19073.html#a96102a488330c54a3e3654c767e8e1a5", null ],
-    [ "GetAI", "d7/dc0/a19073.html#aea42394c04c1763cffe10eb5eba09854", null ]
+    [ "at_icc_gauntlet_event", "d7/dc0/a19073.html#ae8790bad655661aeda887f56b9393847", null ],
+    [ "OnTrigger", "d7/dc0/a19073.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
 ];

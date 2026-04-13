@@ -1,32 +1,4 @@
 var a05897 =
 [
-    [ "AuthSocket", "dd/d35/a05897.html#a79d35828c93c4856d97243b52796740e", null ],
-    [ "AuthSession", "dd/d35/a05897.html#a89c83cdde43f36c19d10716172aed04b", null ],
-    [ "CheckIpCallback", "dd/d35/a05897.html#ac83f750802866266a63bdf30289e4d36", null ],
-    [ "HandleLogonChallenge", "dd/d35/a05897.html#a4658712d8a64d05ad2463e6d9aa6f5d2", null ],
-    [ "HandleLogonProof", "dd/d35/a05897.html#a892bb74d2438381be8ddd65a741d69dd", null ],
-    [ "HandleRealmList", "dd/d35/a05897.html#a9fac4cb261cb121b1fed5bbae70855b8", null ],
-    [ "HandleReconnectChallenge", "dd/d35/a05897.html#a92f8fee9db6cdfb62545ff42c88c023f", null ],
-    [ "HandleReconnectProof", "dd/d35/a05897.html#ad7fa3ea3aee1d1ffa324a293c2ca0b08", null ],
-    [ "InitHandlers", "dd/d35/a05897.html#a45e41d4d4ff52d386cf3363313d5e9e8", null ],
-    [ "LogonChallengeCallback", "dd/d35/a05897.html#ab5bfe50f5cc0bbf745eb38c337c73d77", null ],
-    [ "ReadHandler", "dd/d35/a05897.html#ab454aea5dde8d1d80c1f899e731045a8", null ],
-    [ "RealmListCallback", "dd/d35/a05897.html#a4d4c3ad60e60b22499f97ba9b3b2ea9b", null ],
-    [ "ReconnectChallengeCallback", "dd/d35/a05897.html#a851bf3628a9b68423ddba57c6517c86a", null ],
-    [ "SendPacket", "dd/d35/a05897.html#ab2d0efe156b204bd57db317d5dd1469a", null ],
-    [ "Start", "dd/d35/a05897.html#a580b2155dca635f2722d60147ebc5869", null ],
-    [ "Update", "dd/d35/a05897.html#a60c796bbf2a8a4d52eb75bb7ae567c7d", null ],
-    [ "VerifyVersion", "dd/d35/a05897.html#a5bb7976850813070a70566391e689669", null ],
-    [ "_accountInfo", "dd/d35/a05897.html#a3dad5f922abf9d975bf52d387dbd4859", null ],
-    [ "_build", "dd/d35/a05897.html#ac2f108dc8c11bdc8f4d7853d8e463422", null ],
-    [ "_expversion", "dd/d35/a05897.html#ae577d9cc22534d7fb7843758dedb7c8c", null ],
-    [ "_ipCountry", "dd/d35/a05897.html#a95fe22aa168db55c1f3876e465d6beca", null ],
-    [ "_localizationName", "dd/d35/a05897.html#ae4d2a496f4709fd0f6f2fe6a5928e130", null ],
-    [ "_os", "dd/d35/a05897.html#a84a76453af6b61caaf81fca202c581e2", null ],
-    [ "_queryProcessor", "dd/d35/a05897.html#aa5ed4bd2d1037814782fbb345b59163b", null ],
-    [ "_reconnectProof", "dd/d35/a05897.html#adb41530c1ae128b88b873e77c6d6d653", null ],
-    [ "_sessionKey", "dd/d35/a05897.html#a0cee323a4befb136e34065b6dba4e328", null ],
-    [ "_srp6", "dd/d35/a05897.html#a0325e66f862e10e6aed85e7ddf8eedca", null ],
-    [ "_status", "dd/d35/a05897.html#a47f346c78a1bca5917cbbfc502086395", null ],
-    [ "_totpSecret", "dd/d35/a05897.html#ac48aab93700877bf5761593b13477ce0", null ]
+    [ "operator()", "dd/d35/a05897.html#a644eb925cf9395163e712f2aaa6d3968", null ]
 ];

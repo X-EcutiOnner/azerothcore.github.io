@@ -1,8 +1,6 @@
 var a11533 =
 [
-    [ "SkillExtraItemEntry", "dd/de2/a11533.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "dd/de2/a11533.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "dd/de2/a11533.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "dd/de2/a11533.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "dd/de2/a11533.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "WorldSession", "dd/de2/a11533.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "dd/de2/a11533.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "dd/de2/a11533.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

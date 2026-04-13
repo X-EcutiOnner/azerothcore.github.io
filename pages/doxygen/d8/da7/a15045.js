@@ -1,6 +1,6 @@
 var a15045 =
 [
-    [ "PrepareAuraScript", "d8/da7/a15045.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "d8/da7/a15045.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "d8/da7/a15045.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "boss_mal_ganisAI", "dd/dc8/a15049.html", "dd/dc8/a15049" ],
+    [ "boss_mal_ganis", "d8/da7/a15045.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "d8/da7/a15045.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

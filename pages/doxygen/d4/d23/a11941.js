@@ -1,7 +1,8 @@
 var a11941 =
 [
-    [ "Command", "d4/d23/a11941.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "d4/d23/a11941.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "d4/d23/a11941.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "d4/d23/a11941.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "CreatureTextId", "d4/d23/a11941.html#ae8058e922bafc69b718ca4be1be39688", null ],
+    [ "operator<", "d4/d23/a11941.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
+    [ "entry", "d4/d23/a11941.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
+    [ "textGroup", "d4/d23/a11941.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
+    [ "textId", "d4/d23/a11941.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
 ];

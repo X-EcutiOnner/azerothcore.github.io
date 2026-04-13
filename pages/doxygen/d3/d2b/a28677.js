@@ -1,4 +1,6 @@
 var a28677 =
 [
-    [ "operator()", "d3/d2b/a28677.html#a76ede7ef27a41a284821e690c88375c9", null ]
+    [ "ChannelID", "d3/d2b/a28677.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "d3/d2b/a28677.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "d3/d2b/a28677.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

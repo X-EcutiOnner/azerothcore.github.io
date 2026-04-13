@@ -1,6 +1,11 @@
 var a17141 =
 [
-    [ "boss_dredAI", "db/d51/a17145.html", "db/d51/a17145" ],
-    [ "boss_dred", "db/d9e/a17141.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "db/d9e/a17141.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "npc_tortured_rifleman", "db/d9e/a17141.html#a5ab42b048c14838b6992716f62200c57", null ],
+    [ "AttackStart", "db/d9e/a17141.html#a82f84e5b66d8cbcb25267e0eeb5ce65c", null ],
+    [ "DoAction", "db/d9e/a17141.html#aafd02b19ba0280db3eacc21b24d3ceaa", null ],
+    [ "EnterEvadeMode", "db/d9e/a17141.html#a1eddbbfa45174c05a24ad01f200983e3", null ],
+    [ "JustDied", "db/d9e/a17141.html#abb8349f4f1c19a60c7566f1801ae3087", null ],
+    [ "JustEngagedWith", "db/d9e/a17141.html#ab60cf1d4e6a58613a032b25b043aceea", null ],
+    [ "Reset", "db/d9e/a17141.html#a04210cb211db92a1be6de7bc28953953", null ],
+    [ "UpdateAI", "db/d9e/a17141.html#aa794584f9a842f9725f1f926b4099181", null ]
 ];

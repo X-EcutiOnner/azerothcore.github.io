@@ -1,13 +1,8 @@
 var a23105 =
 [
-    [ "boss_fathomguard_caribdis", "da/dbc/a23105.html#a9172b9717e5137ddde7df38bb237478c", null ],
-    [ "EnterEvadeMode", "da/dbc/a23105.html#aa666a491a776b12a042ee140aedc95eb", null ],
-    [ "JustDied", "da/dbc/a23105.html#ab821365b35a48f70a11c6033fe2ca714", null ],
-    [ "JustEngagedWith", "da/dbc/a23105.html#a5503519998f51f475420ada2210f32f0", null ],
-    [ "JustSummoned", "da/dbc/a23105.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
-    [ "Reset", "da/dbc/a23105.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
-    [ "UpdateAI", "da/dbc/a23105.html#af4a544f37d178de21d84f2544f24431e", null ],
-    [ "_instance", "da/dbc/a23105.html#a73f567f2269aeca1435af82e1c6880e9", null ],
-    [ "_scheduler", "da/dbc/a23105.html#a08b01e9735e421d8d5bbc2b552217762", null ],
-    [ "_summons", "da/dbc/a23105.html#ac8b53cb81547a2423a13c997badb77e3", null ]
+    [ "ApplyStun", "da/dbc/a23105.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "da/dbc/a23105.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "da/dbc/a23105.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "da/dbc/a23105.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "da/dbc/a23105.html#a66d91a87078c663903cd836344eec867", null ]
 ];

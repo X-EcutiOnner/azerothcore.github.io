@@ -1,10 +1,7 @@
 var a10169 =
 [
-    [ "ID", "d7/d9a/a10169.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "d7/d9a/a10169.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "d7/d9a/a10169.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "d7/d9a/a10169.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "d7/d9a/a10169.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "d7/d9a/a10169.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "d7/d9a/a10169.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "MapPreloadRequest", "d7/d9a/a10169.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
+    [ "call", "d7/d9a/a10169.html#a688f4e2c5517c29c10c0810325211b50", null ],
+    [ "_mapId", "d7/d9a/a10169.html#aa207469ff8369f9b5559b35404d16847", null ],
+    [ "_updater", "d7/d9a/a10169.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
 ];

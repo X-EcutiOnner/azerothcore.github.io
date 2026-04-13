@@ -1,13 +1,10 @@
 var a21209 =
 [
-    [ "MoveX", "d3/d05/a21209.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d3/d05/a21209.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d3/d05/a21209.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d3/d05/a21209.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d3/d05/a21209.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d3/d05/a21209.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d3/d05/a21209.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d3/d05/a21209.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d3/d05/a21209.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d3/d05/a21209.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "npc_jenny", "d3/d05/a21209.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d3/d05/a21209.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d3/d05/a21209.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d3/d05/a21209.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d3/d05/a21209.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d3/d05/a21209.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d3/d05/a21209.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

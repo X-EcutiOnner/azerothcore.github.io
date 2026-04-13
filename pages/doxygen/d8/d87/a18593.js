@@ -1,5 +1,6 @@
 var a18593 =
 [
-    [ "achievement_all_you_can_eat", "d8/d87/a18593.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "d8/d87/a18593.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "npc_spirit_wardenAI", "df/d39/a18597.html", "df/d39/a18597" ],
+    [ "npc_spirit_warden", "d8/d87/a18593.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "d8/d87/a18593.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

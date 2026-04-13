@@ -1,6 +1,6 @@
 var a18273 =
 [
-    [ "npc_coldflameAI", "d9/d44/a18277.html", "d9/d44/a18277" ],
-    [ "npc_coldflame", "d8/db5/a18273.html#a573b887358e2ba2281c4c119a267c33f", null ],
-    [ "GetAI", "d8/db5/a18273.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
+    [ "CheckProc", "d8/db5/a18273.html#ad701d353f03eb5a1ccca28a6530555db", null ],
+    [ "PrepareAuraScript", "d8/db5/a18273.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
+    [ "Register", "d8/db5/a18273.html#a4f787e29064c15f4dad9047ff618982a", null ]
 ];

@@ -1,6 +1,6 @@
 var a27741 =
 [
-    [ "PrepareAuraScript", "d6/d89/a27741.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "d6/d89/a27741.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "d6/d89/a27741.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "boss_taerarAI", "d3/dd1/a27745.html", "d3/dd1/a27745" ],
+    [ "boss_taerar", "d6/d89/a27741.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d6/d89/a27741.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

@@ -1,5 +1,4 @@
 var a29373 =
 [
-    [ "Price", "d0/de2/a29373.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
-    [ "Slot", "d0/de2/a29373.html#aa53247914bda0ceca015b8b9ca117379", null ]
+    [ "MakeConfig", "d0/de2/a29373.html#af13a52623068599431891319a5a9e417", null ]
 ];

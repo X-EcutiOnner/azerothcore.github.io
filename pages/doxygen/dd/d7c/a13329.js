@@ -1,12 +1,7 @@
 var a13329 =
 [
-    [ "boss_felblood_kaelthas", "dd/d7c/a13329.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
-    [ "DamageTaken", "dd/d7c/a13329.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
-    [ "DoAction", "dd/d7c/a13329.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
-    [ "GravityLapseSequence", "dd/d7c/a13329.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
-    [ "JustDied", "dd/d7c/a13329.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
-    [ "JustEngagedWith", "dd/d7c/a13329.html#a1d8806d7813d11aa61e043e420852218", null ],
-    [ "LapseAction", "dd/d7c/a13329.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
-    [ "Reset", "dd/d7c/a13329.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
-    [ "_gravityLapseCounter", "dd/d7c/a13329.html#ab4e884a341fa25a555c160f6978861fc", null ]
+    [ "HandleHit", "dd/d7c/a13329.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
+    [ "Load", "dd/d7c/a13329.html#affe2cd261752db89b1b418eb18a3370c", null ],
+    [ "PrepareSpellScript", "dd/d7c/a13329.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
+    [ "Register", "dd/d7c/a13329.html#aaadaf49a3757e78d69ffc32768945d16", null ]
 ];

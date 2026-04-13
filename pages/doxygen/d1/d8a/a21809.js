@@ -1,7 +1,5 @@
 var a21809 =
 [
-    [ "FilterTargets", "d1/d8a/a21809.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "d1/d8a/a21809.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "d1/d8a/a21809.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "d1/d8a/a21809.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "go_pressure_valve", "d1/d8a/a21809.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "d1/d8a/a21809.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

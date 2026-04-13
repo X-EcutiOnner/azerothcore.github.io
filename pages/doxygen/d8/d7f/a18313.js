@@ -1,6 +1,6 @@
 var a18313 =
 [
-    [ "UnboundPlagueTargetSelector", "d8/d7f/a18313.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "d8/d7f/a18313.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "d8/d7f/a18313.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "FilterTargets", "d8/d7f/a18313.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "d8/d7f/a18313.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "d8/d7f/a18313.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

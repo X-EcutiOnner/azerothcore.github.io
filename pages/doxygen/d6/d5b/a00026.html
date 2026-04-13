@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Debugging/WheatyExceptionReport.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Combat/CombatManagerTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,271 +106,188 @@ $(document).ready(function(){initNavTree('d6/d5b/a00026.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">WheatyExceptionReport.cpp File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">CombatManagerTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CompilerDefs.h</a>&quot;</code><br />
-<code>#include &lt;windows.h&gt;</code><br />
-<code>#include &lt;tlhelp32.h&gt;</code><br />
-<code>#include &lt;stdio.h&gt;</code><br />
-<code>#include &lt;tchar.h&gt;</code><br />
-<code>#include &lt;dbghelp.h&gt;</code><br />
-<code>#include &quot;<a class="el" href="../../">WheatyExceptionReport.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Errors.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GitRevision.h</a>&quot;</code><br />
-<code>#include &lt;algorithm&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CombatManager.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ThreatManager.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DBCStores.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TestCreature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TestMap.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldMock.h</a>&quot;</code><br />
+<code>#include &quot;gmock/gmock.h&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd4/a05455.html">CSymbolInfoPackage</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d2c/a29309.html">anonymous_namespace{CombatManagerTest.cpp}::CombatManagerIntegrationTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ac7bef5d85e3dcd73eef56ad39ffc84a9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5b/a00026.html#ac7bef5d85e3dcd73eef56ad39ffc84a9">WIN32_LEAN_AND_MEAN</a></td></tr>
-<tr class="separator:ac7bef5d85e3dcd73eef56ad39ffc84a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af8660cbefcf140a8992e862e401bc473"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5b/a00026.html#af8660cbefcf140a8992e862e401bc473">_NO_CVCONST_H</a></td></tr>
-<tr class="separator:af8660cbefcf140a8992e862e401bc473"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a55b3d8676a4478f058eeb12d4e8b35b2"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5b/a00026.html#a55b3d8676a4478f058eeb12d4e8b35b2">CrashFolder</a>&#160;&#160;&#160;_T(&quot;Crashes&quot;)</td></tr>
-<tr class="separator:a55b3d8676a4478f058eeb12d4e8b35b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a04a8ef8e5d1a39a04fed031f53ffa2db"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5b/a00026.html#a04a8ef8e5d1a39a04fed031f53ffa2db">EXCEPTION</a>(x)&#160;&#160;&#160;case EXCEPTION_##x: return LPTSTR(_T(#x));</td></tr>
-<tr class="separator:a04a8ef8e5d1a39a04fed031f53ffa2db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:dd/d94/a05102"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html">anonymous_namespace{CombatManagerTest.cpp}</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a75b4eb6a99991d301f7d44683ce13c9e"><td class="memItemLeft" align="right" valign="top">LPTSTR&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5b/a00026.html#a75b4eb6a99991d301f7d44683ce13c9e">ErrorMessage</a> (DWORD dw)</td></tr>
-<tr class="separator:a75b4eb6a99991d301f7d44683ce13c9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a74d70382aec7501d6df3dcb969b85902"><td class="memTemplParams" colspan="2">template&lt;std::size_t size&gt; </td></tr>
-<tr class="memitem:a74d70382aec7501d6df3dcb969b85902"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/d5b/a00026.html#a74d70382aec7501d6df3dcb969b85902">ToTchar</a> (wchar_t const *src, TCHAR(&amp;dst)[size], std::true_type)</td></tr>
-<tr class="separator:a74d70382aec7501d6df3dcb969b85902"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9f2ce59205c508258855d0568854e367"><td class="memTemplParams" colspan="2">template&lt;std::size_t size&gt; </td></tr>
-<tr class="memitem:a9f2ce59205c508258855d0568854e367"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/d5b/a00026.html#a9f2ce59205c508258855d0568854e367">ToTchar</a> (wchar_t const *src, TCHAR(&amp;dst)[size], std::false_type)</td></tr>
-<tr class="separator:a9f2ce59205c508258855d0568854e367"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a9fff8ce906026fe3179e50e97182d90d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d89/a05467.html">WheatyExceptionReport</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5b/a00026.html#a9fff8ce906026fe3179e50e97182d90d">g_WheatyExceptionReport</a></td></tr>
-<tr class="separator:a9fff8ce906026fe3179e50e97182d90d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59c3395cd98c3ecba0f61f5e536ce8e8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a59c3395cd98c3ecba0f61f5e536ce8e8">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SetInCombatWith_CreatesReference)</td></tr>
+<tr class="separator:a59c3395cd98c3ecba0f61f5e536ce8e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa71cd92d685055eb5099b73f921411f2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#aa71cd92d685055eb5099b73f921411f2">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SetInCombatWith_SameUnit_Fails)</td></tr>
+<tr class="separator:aa71cd92d685055eb5099b73f921411f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a428fdff39dfb7974531e2582af17739e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a428fdff39dfb7974531e2582af17739e">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SetInCombatWith_DeadUnit_Fails)</td></tr>
+<tr class="separator:a428fdff39dfb7974531e2582af17739e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69dddeb708577027f5a76f78391402a0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a69dddeb708577027f5a76f78391402a0">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SetInCombatWith_DifferentPhase_Fails)</td></tr>
+<tr class="separator:a69dddeb708577027f5a76f78391402a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76325e089f137df06e4f67f99cf0b297"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a76325e089f137df06e4f67f99cf0b297">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EndAllPvECombat_ClearsAll)</td></tr>
+<tr class="separator:a76325e089f137df06e4f67f99cf0b297"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48b717929633d36f712798fb017071ed"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a48b717929633d36f712798fb017071ed">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EndAllPvECombat_AlsoClearsThreat)</td></tr>
+<tr class="separator:a48b717929633d36f712798fb017071ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9b4b348581ea16d8ccd8f3a72919714"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#ac9b4b348581ea16d8ccd8f3a72919714">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, HasCombat_ReflectsState)</td></tr>
+<tr class="separator:ac9b4b348581ea16d8ccd8f3a72919714"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75e5f6e5a00adf325f186014a5609e45"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a75e5f6e5a00adf325f186014a5609e45">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_StartAndExpiry)</td></tr>
+<tr class="separator:a75e5f6e5a00adf325f186014a5609e45"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7009e90f25714cb449b482ee0f91787"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#ab7009e90f25714cb449b482ee0f91787">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeState_Transitions)</td></tr>
+<tr class="separator:ab7009e90f25714cb449b482ee0f91787"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8762723033a81aae4c1deaa0367aa363"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a8762723033a81aae4c1deaa0367aa363">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, ContinueEvadeRegen_KeepsRegenActive)</td></tr>
+<tr class="separator:a8762723033a81aae4c1deaa0367aa363"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94f34a6d8f5e37f5d7d97d0ff7d6ec21"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a94f34a6d8f5e37f5d7d97d0ff7d6ec21">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, ContinueEvadeRegen_StopEvadeClearsIt)</td></tr>
+<tr class="separator:a94f34a6d8f5e37f5d7d97d0ff7d6ec21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c2e3437d5769838b83a01160d25dc2b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a2c2e3437d5769838b83a01160d25dc2b">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeConstants)</td></tr>
+<tr class="separator:a2c2e3437d5769838b83a01160d25dc2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2496c5a69106a2f5739ed2c8154a5191"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a2496c5a69106a2f5739ed2c8154a5191">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EndCombat_SingleReference_KeepsOthers)</td></tr>
+<tr class="separator:a2496c5a69106a2f5739ed2c8154a5191"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e3c8aafc51033ac2223e18867e3fb35"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a9e3c8aafc51033ac2223e18867e3fb35">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EndCombat_AlsoClearsThreatForThatRef)</td></tr>
+<tr class="separator:a9e3c8aafc51033ac2223e18867e3fb35"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7297c2d50e43f0cb37c766cb1a0e1fed"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a7297c2d50e43f0cb37c766cb1a0e1fed">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EndCombat_BidirectionalCleanup)</td></tr>
+<tr class="separator:a7297c2d50e43f0cb37c766cb1a0e1fed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0521e9b58f6cadc91035b1c242d26c8e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a0521e9b58f6cadc91035b1c242d26c8e">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SetImmuneToNPC_EndsCombatWithNPCs)</td></tr>
+<tr class="separator:a0521e9b58f6cadc91035b1c242d26c8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e2b9764fa0d1590856b02a81a8ff20b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a2e2b9764fa0d1590856b02a81a8ff20b">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SetImmuneToNPC_KeepCombat_PreservesRefs)</td></tr>
+<tr class="separator:a2e2b9764fa0d1590856b02a81a8ff20b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7ffeb67b003a6e8f58d79c9342e5ba7e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a7ffeb67b003a6e8f58d79c9342e5ba7e">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, StopAttackFaction_EndsCombatForFaction)</td></tr>
+<tr class="separator:a7ffeb67b003a6e8f58d79c9342e5ba7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a305bac1d1d3003cc5846d669f43db4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a0a305bac1d1d3003cc5846d669f43db4">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, ClearInCombat_ClearsAllState)</td></tr>
+<tr class="separator:a0a305bac1d1d3003cc5846d669f43db4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3f861e156a25f4628d57867b7467b67"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#ae3f861e156a25f4628d57867b7467b67">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_PartialCountdown_StillActive)</td></tr>
+<tr class="separator:ae3f861e156a25f4628d57867b7467b67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad1922f390e8aae24fd301cfaaac7d653"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#ad1922f390e8aae24fd301cfaaac7d653">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_FullCountdown_Expires)</td></tr>
+<tr class="separator:ad1922f390e8aae24fd301cfaaac7d653"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab58a0dd0de12b7cdedd28d5f293e4a14"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#ab58a0dd0de12b7cdedd28d5f293e4a14">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_Overshoot_StillExpires)</td></tr>
+<tr class="separator:ab58a0dd0de12b7cdedd28d5f293e4a14"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5715267ef2739bc89f87135fbd2648e5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a5715267ef2739bc89f87135fbd2648e5">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_IncrementalCountdown_Expires)</td></tr>
+<tr class="separator:a5715267ef2739bc89f87135fbd2648e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03b0d9631770f7bf9b933612dc55f7f0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a03b0d9631770f7bf9b933612dc55f7f0">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_StopEvade_CancelsBeforeExpiry)</td></tr>
+<tr class="separator:a03b0d9631770f7bf9b933612dc55f7f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2aa388667dccce392e3487cabc49ec29"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a2aa388667dccce392e3487cabc49ec29">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_RestartAfterStop_WorksAgain)</td></tr>
+<tr class="separator:a2aa388667dccce392e3487cabc49ec29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d070eddaea3db7089b139b5d7ea47fe"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a8d070eddaea3db7089b139b5d7ea47fe">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_InitialStart_NotInRegen)</td></tr>
+<tr class="separator:a8d070eddaea3db7089b139b5d7ea47fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d584a89ebb44f46dd025c0c9ca3d9d7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a4d584a89ebb44f46dd025c0c9ca3d9d7">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_CountdownToRegenPhase)</td></tr>
+<tr class="separator:a4d584a89ebb44f46dd025c0c9ca3d9d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a782f2d59e815c05666e881a62c19b0a5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a782f2d59e815c05666e881a62c19b0a5">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_ContinueEvadeRegen_ResetsToRegenDelay)</td></tr>
+<tr class="separator:a782f2d59e815c05666e881a62c19b0a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a459c6d81cca2b01c9ff20f0172194d1d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a459c6d81cca2b01c9ff20f0172194d1d">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_ContinueEvadeRegen_RepeatKeepsRegen)</td></tr>
+<tr class="separator:a459c6d81cca2b01c9ff20f0172194d1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a180bd7194d0cf8b3906fd47bf8ad43b5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a180bd7194d0cf8b3906fd47bf8ad43b5">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeState_SetToNone_ClearsTimer)</td></tr>
+<tr class="separator:a180bd7194d0cf8b3906fd47bf8ad43b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e910b82af7ca46646463e55732fc5a8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a6e910b82af7ca46646463e55732fc5a8">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeState_HomeState_IsInEvadeMode)</td></tr>
+<tr class="separator:a6e910b82af7ca46646463e55732fc5a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4ad62c8f463a676ebf431b88ce67dc6e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a4ad62c8f463a676ebf431b88ce67dc6e">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeState_CombatState_IsInEvadeMode)</td></tr>
+<tr class="separator:a4ad62c8f463a676ebf431b88ce67dc6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a680dbef45066ca75b956b30c9c75a416"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a680dbef45066ca75b956b30c9c75a416">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeState_FullLifecycle)</td></tr>
+<tr class="separator:a680dbef45066ca75b956b30c9c75a416"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb246baf08bbc815a302247546c7fab2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#abb246baf08bbc815a302247546c7fab2">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_StopEvade_WithActiveState_ClearsState)</td></tr>
+<tr class="separator:abb246baf08bbc815a302247546c7fab2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca1cfef7a7cb354f97a270e6d773e97d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#aca1cfef7a7cb354f97a270e6d773e97d">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EvadeTimer_StopEvade_TimerAndState_ClearsBoth)</td></tr>
+<tr class="separator:aca1cfef7a7cb354f97a270e6d773e97d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adea29e85b548baea6c9cf1102b1f763b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#adea29e85b548baea6c9cf1102b1f763b">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SetCannotReachTarget_StartsEvadeTimer)</td></tr>
+<tr class="separator:adea29e85b548baea6c9cf1102b1f763b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ddfad51375c76b6a77f358687180604"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a3ddfad51375c76b6a77f358687180604">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SetCannotReachTarget_Clear_StopsEvade)</td></tr>
+<tr class="separator:a3ddfad51375c76b6a77f358687180604"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a270d57737253f8509c7678490013132a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a270d57737253f8509c7678490013132a">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SetCannotReachTarget_SameTarget_NoDuplicate)</td></tr>
+<tr class="separator:a270d57737253f8509c7678490013132a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d2ec48454d3e1b7110e4e51d0c563e2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a6d2ec48454d3e1b7110e4e51d0c563e2">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, IsNotReachableAndNeedRegen_Integration)</td></tr>
+<tr class="separator:a6d2ec48454d3e1b7110e4e51d0c563e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82fdc9e39ddb06308b110416ba5684cf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a82fdc9e39ddb06308b110416ba5684cf">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SuppressedRef_DoesNotGenerateCombat)</td></tr>
+<tr class="separator:a82fdc9e39ddb06308b110416ba5684cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63eb5bafef53b2d66e29e3c6238b5c9d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a63eb5bafef53b2d66e29e3c6238b5c9d">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, GetAnyTarget_NoCombat_ReturnsNull)</td></tr>
+<tr class="separator:a63eb5bafef53b2d66e29e3c6238b5c9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:addaf5d1b433862b716a00d9c488a96e3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#addaf5d1b433862b716a00d9c488a96e3">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, GetAnyTarget_WithCombat_ReturnsTarget)</td></tr>
+<tr class="separator:addaf5d1b433862b716a00d9c488a96e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abde2b8da6ab8a4aa2e80352c46d6ef41"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#abde2b8da6ab8a4aa2e80352c46d6ef41">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, GetAnyTarget_SuppressedOnly_ReturnsNull)</td></tr>
+<tr class="separator:abde2b8da6ab8a4aa2e80352c46d6ef41"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a8ee7473edfad9dc4cd3f0bb59cbe5c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a1a8ee7473edfad9dc4cd3f0bb59cbe5c">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, HasPvECombatWithPlayers_CreaturesOnly_ReturnsFalse)</td></tr>
+<tr class="separator:a1a8ee7473edfad9dc4cd3f0bb59cbe5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8515f25cf0f94c60cd0458faf96849a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#ae8515f25cf0f94c60cd0458faf96849a">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EndAllCombat_ClearsEverything)</td></tr>
+<tr class="separator:ae8515f25cf0f94c60cd0458faf96849a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4272f189bed8bb299f5e4d984d07727c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a4272f189bed8bb299f5e4d984d07727c">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EndAllPvPCombat_NoRefs_DoesNotCrash)</td></tr>
+<tr class="separator:a4272f189bed8bb299f5e4d984d07727c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a322e67cb44d58a317bb8a3c3c3b27d0c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a322e67cb44d58a317bb8a3c3c3b27d0c">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, InheritCombatStatesFrom_InheritsPvERefs)</td></tr>
+<tr class="separator:a322e67cb44d58a317bb8a3c3c3b27d0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9bc54993c722a58a64efd41a5d5528c1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a9bc54993c722a58a64efd41a5d5528c1">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, InheritCombatStatesFrom_SkipsDuplicate)</td></tr>
+<tr class="separator:a9bc54993c722a58a64efd41a5d5528c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abfce506353543ee955ad6dcac88aabdf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#abfce506353543ee955ad6dcac88aabdf">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, InheritCombatStatesFrom_SkipsImmuneTargets)</td></tr>
+<tr class="separator:abfce506353543ee955ad6dcac88aabdf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75cff65c2cc4759eb98ca5ec45a0f2ce"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a75cff65c2cc4759eb98ca5ec45a0f2ce">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EndCombatBeyondRange_InRange_KeepsCombat)</td></tr>
+<tr class="separator:a75cff65c2cc4759eb98ca5ec45a0f2ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd786adafc651b99011f0b6467ce9705"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#acd786adafc651b99011f0b6467ce9705">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EndCombatBeyondRange_OutOfRange_EndsCombat)</td></tr>
+<tr class="separator:acd786adafc651b99011f0b6467ce9705"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a553bdc07fe15d557ba327615538abccb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a553bdc07fe15d557ba327615538abccb">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, EndCombatBeyondRange_MixedDistances_EndsOnlyFar)</td></tr>
+<tr class="separator:a553bdc07fe15d557ba327615538abccb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab86b862f5572db1f6005b2612112f8db"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#ab86b862f5572db1f6005b2612112f8db">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, RevalidateCombat_ValidRefs_KeepsAll)</td></tr>
+<tr class="separator:ab86b862f5572db1f6005b2612112f8db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2192d536955c249dc29886d8fab9cb9e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a2192d536955c249dc29886d8fab9cb9e">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, RevalidateCombat_InvalidRef_RemovesIt)</td></tr>
+<tr class="separator:a2192d536955c249dc29886d8fab9cb9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7ec07ae7549fc9e3f02936925a57bae"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#ad7ec07ae7549fc9e3f02936925a57bae">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, RevalidateCombat_DifferentPhase_RemovesIt)</td></tr>
+<tr class="separator:ad7ec07ae7549fc9e3f02936925a57bae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a149dee01a3d6d3c588eb780c4a1099f8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a149dee01a3d6d3c588eb780c4a1099f8">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, CombatRefresh_UnsuppressesRef)</td></tr>
+<tr class="separator:a149dee01a3d6d3c588eb780c4a1099f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf05c794bea64153973b45676f5d9db9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#aaf05c794bea64153973b45676f5d9db9">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SuppressFor_SuppressesOneSide)</td></tr>
+<tr class="separator:aaf05c794bea64153973b45676f5d9db9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeb28ce0b1b56c90ed5d958737d9fd3bd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#aeb28ce0b1b56c90ed5d958737d9fd3bd">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, CanBeginCombat_UnitStateEvade_Fails)</td></tr>
+<tr class="separator:aeb28ce0b1b56c90ed5d958737d9fd3bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af251aed9984ce31f0fffb0cb0d187956"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#af251aed9984ce31f0fffb0cb0d187956">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, CanBeginCombat_UnitStateInFlight_Fails)</td></tr>
+<tr class="separator:af251aed9984ce31f0fffb0cb0d187956"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a57bd84ef74a905a79bd6fc66669e95f3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a57bd84ef74a905a79bd6fc66669e95f3">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, CanBeginCombat_CombatDisallowed_Fails)</td></tr>
+<tr class="separator:a57bd84ef74a905a79bd6fc66669e95f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace3d7cb8b49485c95b477c36b10749b4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#ace3d7cb8b49485c95b477c36b10749b4">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, CanBeginCombat_FriendlyFactions_Fails)</td></tr>
+<tr class="separator:ace3d7cb8b49485c95b477c36b10749b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a142cd9aaa680708f5bc17f0f7ae3938b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a142cd9aaa680708f5bc17f0f7ae3938b">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, CanBeginCombat_ValidUnits_Succeeds)</td></tr>
+<tr class="separator:a142cd9aaa680708f5bc17f0f7ae3938b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c6371109288a6c27a2eaecd835c8027"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a1c6371109288a6c27a2eaecd835c8027">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, IsInCombatWith_ObjectGuid_Variant)</td></tr>
+<tr class="separator:a1c6371109288a6c27a2eaecd835c8027"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa661ce49c1ee773b1b610749e2bcbdd4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#aa661ce49c1ee773b1b610749e2bcbdd4">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, Update_NoPvPRefs_DoesNotCrash)</td></tr>
+<tr class="separator:aa661ce49c1ee773b1b610749e2bcbdd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a339462888c2f46a63c5ffb6798744896"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a339462888c2f46a63c5ffb6798744896">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, Update_EvadeTimerAndCombat_BothWork)</td></tr>
+<tr class="separator:a339462888c2f46a63c5ffb6798744896"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29ea013b4b3f8c8f2b618e713caed868"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a29ea013b4b3f8c8f2b618e713caed868">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, CombatReference_GetOther_ReturnsPeer)</td></tr>
+<tr class="separator:a29ea013b4b3f8c8f2b618e713caed868"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa3167cf5b634100e94f62bed13330c92"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#aa3167cf5b634100e94f62bed13330c92">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, HasPvPCombat_NoPvPRefs_ReturnsFalse)</td></tr>
+<tr class="separator:aa3167cf5b634100e94f62bed13330c92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e52ce8231be48471b0806adf2d0dd6f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a7e52ce8231be48471b0806adf2d0dd6f">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SuppressPvPCombat_NoPvPRefs_DoesNotCrash)</td></tr>
+<tr class="separator:a7e52ce8231be48471b0806adf2d0dd6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3a59be825850607cde709af77d692667"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a3a59be825850607cde709af77d692667">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SetInCombatWith_ExistingPvE_RefreshesRef)</td></tr>
+<tr class="separator:a3a59be825850607cde709af77d692667"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac09ef1d30f042ba64188bd42c647086d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#ac09ef1d30f042ba64188bd42c647086d">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, MultipleRefs_IndependentLifecycle)</td></tr>
+<tr class="separator:ac09ef1d30f042ba64188bd42c647086d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a734ff1f0a5561e9df1eb4ee2ca5a9e06"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a734ff1f0a5561e9df1eb4ee2ca5a9e06">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, CanBeginCombat_DifferentMaps_Fails)</td></tr>
+<tr class="separator:a734ff1f0a5561e9df1eb4ee2ca5a9e06"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c35693066b74828345b941e263971ad"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#a3c35693066b74828345b941e263971ad">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SetEvadeState_SameState_NoOp)</td></tr>
+<tr class="separator:a3c35693066b74828345b941e263971ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac513837ea261e146f883154709fbc8de"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html#ac513837ea261e146f883154709fbc8de">anonymous_namespace{CombatManagerTest.cpp}::TEST_F</a> (CombatManagerIntegrationTest, SetEvadeState_SameState_DoesNotClearTimer)</td></tr>
+<tr class="separator:ac513837ea261e146f883154709fbc8de"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="af8660cbefcf140a8992e862e401bc473" name="af8660cbefcf140a8992e862e401bc473"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af8660cbefcf140a8992e862e401bc473">&#9670;&#160;</a></span>_NO_CVCONST_H</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define _NO_CVCONST_H</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a55b3d8676a4478f058eeb12d4e8b35b2" name="a55b3d8676a4478f058eeb12d4e8b35b2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55b3d8676a4478f058eeb12d4e8b35b2">&#9670;&#160;</a></span>CrashFolder</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define CrashFolder&#160;&#160;&#160;_T(&quot;Crashes&quot;)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a04a8ef8e5d1a39a04fed031f53ffa2db" name="a04a8ef8e5d1a39a04fed031f53ffa2db"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a04a8ef8e5d1a39a04fed031f53ffa2db">&#9670;&#160;</a></span>EXCEPTION</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define EXCEPTION</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">x</td><td>)</td>
-          <td>&#160;&#160;&#160;case EXCEPTION_##x: return LPTSTR(_T(#x));</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac7bef5d85e3dcd73eef56ad39ffc84a9" name="ac7bef5d85e3dcd73eef56ad39ffc84a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac7bef5d85e3dcd73eef56ad39ffc84a9">&#9670;&#160;</a></span>WIN32_LEAN_AND_MEAN</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define WIN32_LEAN_AND_MEAN</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a75b4eb6a99991d301f7d44683ce13c9e" name="a75b4eb6a99991d301f7d44683ce13c9e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a75b4eb6a99991d301f7d44683ce13c9e">&#9670;&#160;</a></span>ErrorMessage()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">LPTSTR ErrorMessage </td>
-          <td>(</td>
-          <td class="paramtype">DWORD&#160;</td>
-          <td class="paramname"><em>dw</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
-<div class="line"><span class="lineno">   34</span>    LPVOID lpMsgBuf;</div>
-<div class="line"><span class="lineno">   35</span>    DWORD formatResult = FormatMessage(</div>
-<div class="line"><span class="lineno">   36</span>                             FORMAT_MESSAGE_ALLOCATE_BUFFER |</div>
-<div class="line"><span class="lineno">   37</span>                             FORMAT_MESSAGE_FROM_SYSTEM,</div>
-<div class="line"><span class="lineno">   38</span>                             <span class="keyword">nullptr</span>,</div>
-<div class="line"><span class="lineno">   39</span>                             dw,</div>
-<div class="line"><span class="lineno">   40</span>                             MAKELANGID(LANG_NEUTRAL, SUBLANG_DEFAULT),</div>
-<div class="line"><span class="lineno">   41</span>                             (LPTSTR) &amp;lpMsgBuf,</div>
-<div class="line"><span class="lineno">   42</span>                             0, <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">if</span> (formatResult != 0)</div>
-<div class="line"><span class="lineno">   44</span>    {</div>
-<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">return</span> (LPTSTR)lpMsgBuf;</div>
-<div class="line"><span class="lineno">   46</span>    }</div>
-<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   48</span>    {</div>
-<div class="line"><span class="lineno">   49</span>        LPTSTR msgBuf = (LPTSTR)LocalAlloc(LPTR, 30);</div>
-<div class="line"><span class="lineno">   50</span>        sprintf(msgBuf, <span class="stringliteral">&quot;Unknown error: %u&quot;</span>, dw);</div>
-<div class="line"><span class="lineno">   51</span>        <span class="keywordflow">return</span> msgBuf;</div>
-<div class="line"><span class="lineno">   52</span>    }</div>
-<div class="line"><span class="lineno">   53</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00595">WheatyExceptionReport::GenerateExceptionReport()</a>.</p>
-
-</div>
-</div>
-<a id="a9f2ce59205c508258855d0568854e367" name="a9f2ce59205c508258855d0568854e367"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9f2ce59205c508258855d0568854e367">&#9670;&#160;</a></span>ToTchar() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;std::size_t size&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void ToTchar </td>
-          <td>(</td>
-          <td class="paramtype">wchar_t const *&#160;</td>
-          <td class="paramname"><em>src</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">TCHAR(&amp;)&#160;</td>
-          <td class="paramname"><em>dst</em>[size], </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::false_type&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  271</span>{</div>
-<div class="line"><span class="lineno">  272</span>    wcscpy_s(dst, src);</div>
-<div class="line"><span class="lineno">  273</span>}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a74d70382aec7501d6df3dcb969b85902" name="a74d70382aec7501d6df3dcb969b85902"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a74d70382aec7501d6df3dcb969b85902">&#9670;&#160;</a></span>ToTchar() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;std::size_t size&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void ToTchar </td>
-          <td>(</td>
-          <td class="paramtype">wchar_t const *&#160;</td>
-          <td class="paramname"><em>src</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">TCHAR(&amp;)&#160;</td>
-          <td class="paramname"><em>dst</em>[size], </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::true_type&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  265</span>{</div>
-<div class="line"><span class="lineno">  266</span>    wcstombs_s(<span class="keyword">nullptr</span>, dst, src, size);</div>
-<div class="line"><span class="lineno">  267</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00275">WheatyExceptionReport::_GetWindowsVersion()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a9fff8ce906026fe3179e50e97182d90d" name="a9fff8ce906026fe3179e50e97182d90d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9fff8ce906026fe3179e50e97182d90d">&#9670;&#160;</a></span>g_WheatyExceptionReport</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d89/a05467.html">WheatyExceptionReport</a> g_WheatyExceptionReport</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_6c98940a6e08261f1f635365628c2cb0.html">Debugging</a></li><li class="navelem"><a class="el" href="../../d6/d5b/a00026.html">WheatyExceptionReport.cpp</a></li>
-    <li class="footer">Generated on Mon Mar 23 2026 21:05:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_43e7897c178d93c6d8680fe95b52aac8.html">Combat</a></li><li class="navelem"><a class="el" href="../../d6/d5b/a00026.html">CombatManagerTest.cpp</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:28:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

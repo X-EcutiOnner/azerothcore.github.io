@@ -1,9 +1,7 @@
 var a22413 =
 [
-    [ "npc_finklesteinAI", "dc/d91/a22417.html", "dc/d91/a22417" ],
-    [ "npc_finklestein", "d1/d49/a22413.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "d1/d49/a22413.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "d1/d49/a22413.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "d1/d49/a22413.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "d1/d49/a22413.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "HandleOnEffectApply", "d1/d49/a22413.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "d1/d49/a22413.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "d1/d49/a22413.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "d1/d49/a22413.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

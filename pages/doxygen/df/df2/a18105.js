@@ -1,6 +1,7 @@
 var a18105 =
 [
-    [ "npc_gunship_rocketeerAI", "dd/dfd/a18109.html", "dd/dfd/a18109" ],
-    [ "npc_gunship_rocketeer", "df/df2/a18105.html#a7ed2cf258269f239bb73f2f06411db07", null ],
-    [ "GetAI", "df/df2/a18105.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
+    [ "HandleDummy", "df/df2/a18105.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "df/df2/a18105.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "df/df2/a18105.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "df/df2/a18105.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

@@ -1,7 +1,13 @@
 var a05669 =
 [
-    [ "Lock", "d2/d92/a05673.html", "d2/d92/a05673" ],
-    [ "ClassLevelLockable", "d0/d2a/a05669.html#a507181347374b55f335a9e872293c6e0", null ],
-    [ "Lock", "d0/d2a/a05669.html#a5bf7608e05250fb524a1229bcf83ece3", null ],
-    [ "si_mtx", "d0/d2a/a05669.html#a2bcba35930178d1cd094ed1c34320997", null ]
+    [ "MPSCQueueIntrusive", "d0/d2a/a05669.html#a8e05361abed759932c49b0fc71ed09c1", null ],
+    [ "~MPSCQueueIntrusive", "d0/d2a/a05669.html#a8155857825ceb1b7154ea82a63dbce08", null ],
+    [ "MPSCQueueIntrusive", "d0/d2a/a05669.html#afaee06af7734e53ce50674e4ef7277b2", null ],
+    [ "Dequeue", "d0/d2a/a05669.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
+    [ "Enqueue", "d0/d2a/a05669.html#a233004b906cfa66cdd285233105dddf7", null ],
+    [ "operator=", "d0/d2a/a05669.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
+    [ "_dummy", "d0/d2a/a05669.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
+    [ "_dummyPtr", "d0/d2a/a05669.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
+    [ "_head", "d0/d2a/a05669.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
+    [ "_tail", "d0/d2a/a05669.html#ac7e333db415e6301a02052c53779d1d4", null ]
 ];

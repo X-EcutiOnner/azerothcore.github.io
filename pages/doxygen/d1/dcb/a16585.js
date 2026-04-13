@@ -1,6 +1,6 @@
 var a16585 =
 [
-    [ "npc_orb_carrierAI", "de/dd2/a16589.html", "de/dd2/a16589" ],
-    [ "npc_orb_carrier", "d1/dcb/a16585.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
-    [ "GetAI", "d1/dcb/a16585.html#ab5b7bbffc43b840c686dc889805ea401", null ]
+    [ "npc_toc5_grand_champion_minionAI", "de/dd2/a16589.html", "de/dd2/a16589" ],
+    [ "npc_toc5_grand_champion_minion", "d1/dcb/a16585.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "d1/dcb/a16585.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

@@ -1,11 +1,9 @@
 var a22649 =
 [
-    [ "boss_blackheart_the_inciter", "dc/d2e/a22649.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "dc/d2e/a22649.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "dc/d2e/a22649.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "dc/d2e/a22649.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "dc/d2e/a22649.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "dc/d2e/a22649.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "dc/d2e/a22649.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "dc/d2e/a22649.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "boss_najentus", "dc/d2e/a22649.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "dc/d2e/a22649.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "dc/d2e/a22649.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "dc/d2e/a22649.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "dc/d2e/a22649.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "dc/d2e/a22649.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

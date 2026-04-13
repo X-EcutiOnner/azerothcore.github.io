@@ -1,13 +1,22 @@
 var a14189 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "dd/d3d/a14189.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
-    [ "JustDied", "dd/d3d/a14189.html#a410c84a1fcf50b50e6ebc340c1b58939", null ],
-    [ "JustEngagedWith", "dd/d3d/a14189.html#a36324482fb264cc3cacf11c3ed542eee", null ],
-    [ "JustSummoned", "dd/d3d/a14189.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
-    [ "Reset", "dd/d3d/a14189.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
-    [ "SetGUID", "dd/d3d/a14189.html#a10ecf7bf7551be186e1c00390eaad203", null ],
-    [ "UpdateAI", "dd/d3d/a14189.html#ab704e4f3af8aa734910efd259db31407", null ],
-    [ "_events", "dd/d3d/a14189.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
-    [ "LamentEvent", "dd/d3d/a14189.html#ace9e901a965665e0f97cb9646af308aa", null ],
-    [ "playerGUID", "dd/d3d/a14189.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
+    [ "instance_zulaman_InstanceMapScript", "dd/d3d/a14189.html#a55a0c486845dc63865cf557271304c20", null ],
+    [ "CheckInstanceStatus", "dd/d3d/a14189.html#a195e4175f943bfaf42ded378cde928e4", null ],
+    [ "DoAction", "dd/d3d/a14189.html#ad5eed417fb2a38a1b02bc6275e9f229a", null ],
+    [ "GetData", "dd/d3d/a14189.html#ad6c1123183e28dd91f78a993a79bf3e8", null ],
+    [ "Initialize", "dd/d3d/a14189.html#a070925eb76b8af866819844411da1beb", null ],
+    [ "OnCreatureCreate", "dd/d3d/a14189.html#a92d7ca86c2ecbad6a64a2bc7131b7260", null ],
+    [ "OnCreatureEvade", "dd/d3d/a14189.html#a654947f2b1dce457f56327e7dff8ccf4", null ],
+    [ "OnGameObjectCreate", "dd/d3d/a14189.html#a4545b6c8ff9e9908466ce105b484ef70", null ],
+    [ "OnPlayerEnter", "dd/d3d/a14189.html#a1cf2834e928692c69fdfcf7ae8910745", null ],
+    [ "OnUnitDeath", "dd/d3d/a14189.html#a5cb0702b7cad42f0760d360dfc3345f3", null ],
+    [ "ResetAkilzonGauntlet", "dd/d3d/a14189.html#a1623080f2466aeca03f048decc34bdb5", null ],
+    [ "SetBossState", "dd/d3d/a14189.html#a79b3f358115fecb63e1cfb45801fdffb", null ],
+    [ "SetData", "dd/d3d/a14189.html#a7381d84943028f66b339168724b467b8", null ],
+    [ "StartAkilzonGauntlet", "dd/d3d/a14189.html#a16b67dce6407db52ec7571c9bbc9f8c5", null ],
+    [ "SummonHostage", "dd/d3d/a14189.html#a907b3f4a59cbd366f702daeffe05d607", null ],
+    [ "Update", "dd/d3d/a14189.html#a826800c63083d2af31847118c8b05e57", null ],
+    [ "_akilzonGauntlet", "dd/d3d/a14189.html#a57cf874e315f0f9686b684151c37e740", null ],
+    [ "AkilzonTrash", "dd/d3d/a14189.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
+    [ "RandVendor", "dd/d3d/a14189.html#ae1e7cad436566533b7673438884e6210", null ]
 ];

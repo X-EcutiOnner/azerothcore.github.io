@@ -1,14 +1,19 @@
 var a12109 =
 [
-    [ "deserter_commandscript", "d3/d06/a12109.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
-    [ "GetCommands", "d3/d06/a12109.html#ab5b48b9dde89c9215c51560f26324649", null ],
-    [ "HandleDeserterAdd", "d3/d06/a12109.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
-    [ "HandleDeserterBGAdd", "d3/d06/a12109.html#a11fba09d369e7244244887947a91369e", null ],
-    [ "HandleDeserterBGRemove", "d3/d06/a12109.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
-    [ "HandleDeserterBGRemoveAll", "d3/d06/a12109.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
-    [ "HandleDeserterInstanceAdd", "d3/d06/a12109.html#aabd2b23e2dc61fac10890077b41d8179", null ],
-    [ "HandleDeserterInstanceRemove", "d3/d06/a12109.html#a3197e5228284ba50da7f3a31b3e76060", null ],
-    [ "HandleDeserterInstanceRemoveAll", "d3/d06/a12109.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
-    [ "HandleDeserterRemove", "d3/d06/a12109.html#a210dc9a7eddede6fe976157d6b22b683", null ],
-    [ "HandleDeserterRemoveAll", "d3/d06/a12109.html#a6274f79b9884586069f94137b44d89e9", null ]
+    [ "CityAttack", "d2/d36/a12117.html", "d2/d36/a12117" ],
+    [ "InvasionZone", "d2/d8d/a12113.html", "d2/d8d/a12113" ],
+    [ "ScourgeInvasionData", "d3/d06/a12109.html#a40749458bbad64d1d277cd7cd9dac939", null ],
+    [ "GetData", "d3/d06/a12109.html#adca57b4cf5a065fad1a7bd184571bdc5", null ],
+    [ "Reset", "d3/d06/a12109.html#a0ae2fc830e4f85fb619c38fdcad794ae", null ],
+    [ "m_activeInvasions", "d3/d06/a12109.html#af98aea31bf9c878adf2870890911282f", null ],
+    [ "m_battlesWon", "d3/d06/a12109.html#aea7079c6f876188857219c574ca0798d", null ],
+    [ "m_broadcastTimer", "d3/d06/a12109.html#a7c251f312e332ab60fa6de6e8cf4189d", null ],
+    [ "m_cityAttacks", "d3/d06/a12109.html#a70127135568b3a439f040697f1dc525c", null ],
+    [ "m_lastAttackZone", "d3/d06/a12109.html#a38ead6b33009083055538fd4f0b7de35", null ],
+    [ "m_pendingInvasions", "d3/d06/a12109.html#af62efb05ce49a3cb764328976f8054f6", null ],
+    [ "m_pendingPallids", "d3/d06/a12109.html#a2a2f610d9c398bc82f4e39eea4fbadfc", null ],
+    [ "m_remaining", "d3/d06/a12109.html#afa0f9b63b3c2111affdf9769ee529d88", null ],
+    [ "m_siMutex", "d3/d06/a12109.html#acefb72f28d000395bc1362cd9a62b26a", null ],
+    [ "m_state", "d3/d06/a12109.html#acb26a954f14aec654513b16e5e53cad8", null ],
+    [ "m_timers", "d3/d06/a12109.html#a06375cf97a023be4f3fff94cc43405a9", null ]
 ];

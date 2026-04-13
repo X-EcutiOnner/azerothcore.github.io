@@ -1,7 +1,6 @@
 var a27033 =
 [
-    [ "CheckTarget", "d6/d8c/a27033.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "d6/d8c/a27033.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "d6/d8c/a27033.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "d6/d8c/a27033.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "HandleAfterCast", "d6/d8c/a27033.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "d6/d8c/a27033.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "d6/d8c/a27033.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

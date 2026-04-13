@@ -1,6 +1,6 @@
 var a19881 =
 [
-    [ "npc_oculus_drakeAI", "d6/dac/a19885.html", "d6/dac/a19885" ],
-    [ "npc_oculus_drake", "da/dd9/a19881.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "da/dd9/a19881.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "CastRunesEvent", "da/dd9/a19881.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "da/dd9/a19881.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "da/dd9/a19881.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

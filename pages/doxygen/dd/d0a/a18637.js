@@ -1,6 +1,8 @@
 var a18637 =
 [
-    [ "HandleScript", "dd/d0a/a18637.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "dd/d0a/a18637.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "dd/d0a/a18637.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "npc_lk_wicked_spiritAI", "dd/d0a/a18637.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "dd/d0a/a18637.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "dd/d0a/a18637.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "dd/d0a/a18637.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "dd/d0a/a18637.html#a8b15079251b6855679d738a342126006", null ]
 ];

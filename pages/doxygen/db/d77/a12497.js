@@ -1,11 +1,5 @@
 var a12497 =
 [
-    [ "boss_doomrelAI", "db/d77/a12497.html#a231cc3989d1c575af941a5462ad94cbd", null ],
-    [ "EnterEvadeMode", "db/d77/a12497.html#ae633f4cc1747f291a3911ca50ee39370", null ],
-    [ "JustEngagedWith", "db/d77/a12497.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
-    [ "Reset", "db/d77/a12497.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
-    [ "UpdateAI", "db/d77/a12497.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
-    [ "_events", "db/d77/a12497.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
-    [ "instance", "db/d77/a12497.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
-    [ "Voidwalkers", "db/d77/a12497.html#af29d871a370a534f508f225d49c3dc9f", null ]
+    [ "boss_gloomrel", "db/d77/a12497.html#a2fe4ce0ddf75725dcb388a346ee13af8", null ],
+    [ "sGossipSelect", "db/d77/a12497.html#a28b2c02b2a4195c90ce313324f056131", null ]
 ];

@@ -1,7 +1,9 @@
 var a26313 =
 [
-    [ "HandlePeriodicDummy", "d0/d28/a26313.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
-    [ "PrepareAuraScript", "d0/d28/a26313.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
-    [ "Register", "d0/d28/a26313.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
-    [ "Validate", "d0/d28/a26313.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
+    [ "CountTargets", "d0/d28/a26313.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "d0/d28/a26313.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "d0/d28/a26313.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "d0/d28/a26313.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "d0/d28/a26313.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "d0/d28/a26313.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

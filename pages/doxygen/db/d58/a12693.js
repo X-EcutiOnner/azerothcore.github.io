@@ -1,6 +1,7 @@
 var a12693 =
 [
-    [ "boss_broodlordAI", "d8/d33/a12697.html", "d8/d33/a12697" ],
-    [ "boss_broodlord", "db/d58/a12693.html#a936f7eb723111877e2a5e3a85cb95b2b", null ],
-    [ "GetAI", "db/d58/a12693.html#a5bd506c6f397608ce84496fa0fea2679", null ]
+    [ "HandlePeriodic", "db/d58/a12693.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "db/d58/a12693.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "db/d58/a12693.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "db/d58/a12693.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

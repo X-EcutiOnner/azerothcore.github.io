@@ -1,7 +1,7 @@
 var a21565 =
 [
-    [ "npc_mootoo_the_youngerAI", "df/d80/a21565.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "df/d80/a21565.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "df/d80/a21565.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "df/d80/a21565.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "HandleScriptEffect", "df/d80/a21565.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "df/d80/a21565.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "df/d80/a21565.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "df/d80/a21565.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

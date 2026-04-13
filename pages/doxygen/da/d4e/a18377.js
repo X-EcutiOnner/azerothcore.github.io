@@ -1,7 +1,9 @@
 var a18377 =
 [
-    [ "HandleDummy", "da/d4e/a18377.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "da/d4e/a18377.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "da/d4e/a18377.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "da/d4e/a18377.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "ShadowTrapLKTargetSelector", "da/d4e/a18377.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "da/d4e/a18377.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "da/d4e/a18377.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "da/d4e/a18377.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "da/d4e/a18377.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "da/d4e/a18377.html#af416013aabf3b217b07228072076603d", null ]
 ];

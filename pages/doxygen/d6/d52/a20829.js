@@ -1,6 +1,10 @@
 var a20829 =
 [
-    [ "PrepareSpellScript", "d6/d52/a20829.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "d6/d52/a20829.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "d6/d52/a20829.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "npc_dragonflayer_forge_master", "d6/d52/a20829.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "d6/d52/a20829.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "d6/d52/a20829.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "d6/d52/a20829.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "d6/d52/a20829.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "d6/d52/a20829.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "d6/d52/a20829.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

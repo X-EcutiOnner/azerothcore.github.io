@@ -1,5 +1,7 @@
 var a28925 =
 [
-    [ "go_ethereum_prison", "dd/d64/a28925.html#a1872dab11a8470194ab35f87e217aa8a", null ],
-    [ "OnGossipHello", "dd/d64/a28925.html#a73479b0512ea778336fad4bd5cd9b909", null ]
+    [ "Id", "dd/d64/a28925.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "dd/d64/a28925.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "dd/d64/a28925.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "dd/d64/a28925.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

@@ -1,9 +1,9 @@
 var a29425 =
 [
-    [ "adtId", "dd/dbc/a29425.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
-    [ "areaId", "dd/dbc/a29425.html#a7f652c68036429350543fc5a2cc6861e", null ],
-    [ "Flags", "dd/dbc/a29425.html#a60f9a61948d1e28587c9d1a338730f37", null ],
-    [ "groupId", "dd/dbc/a29425.html#a09052bad3028899580ffedd556672b64", null ],
-    [ "Id", "dd/dbc/a29425.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
-    [ "rootId", "dd/dbc/a29425.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
+    [ "defaultHitMask", "dd/dbc/a29425.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
+    [ "defaultSpellPhaseMask", "dd/dbc/a29425.html#af927bd441959e8e122648de610398c65", null ],
+    [ "defaultSpellTypeMask", "dd/dbc/a29425.html#aa64e6ad192c41998b368b908c499574d", null ],
+    [ "name", "dd/dbc/a29425.html#a78f8589133427f536f15ea05672ad42f", null ],
+    [ "procFlag", "dd/dbc/a29425.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
+    [ "requiresSpellPhase", "dd/dbc/a29425.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
 ];

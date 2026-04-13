@@ -1,5 +1,7 @@
 var a22341 =
 [
-    [ "npc_wg_spirit_guideAI", "d5/d01/a22341.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "d5/d01/a22341.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "HandleProc", "d5/d01/a22341.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "d5/d01/a22341.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "d5/d01/a22341.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "d5/d01/a22341.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

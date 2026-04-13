@@ -1,13 +1,8 @@
 var a19441 =
 [
-    [ "boss_anubrekhan", "d8/d6c/a19441.html#ad748de528ca78739236b9586ddaa19bd", null ],
-    [ "JustDied", "d8/d6c/a19441.html#a9dfb1b89c4f47235e463d90f17522113", null ],
-    [ "JustEngagedWith", "d8/d6c/a19441.html#a97d56653381e7a7f8c724263148cd61e", null ],
-    [ "JustSummoned", "d8/d6c/a19441.html#af1a01ff6c9790e1660619767c16cfd94", null ],
-    [ "KilledUnit", "d8/d6c/a19441.html#a73906e3681c767e5818d380e77525ba2", null ],
-    [ "MoveInLineOfSight", "d8/d6c/a19441.html#a9fcbc921973e0bd02867217d15efcc64", null ],
-    [ "Reset", "d8/d6c/a19441.html#a1a495fddf89c4c92136d1fd61fba6594", null ],
-    [ "SummonCryptGuards", "d8/d6c/a19441.html#a30d2e7464cffc6894882897ed0d66c6a", null ],
-    [ "SummonedCreatureDies", "d8/d6c/a19441.html#a12b4f2878b54f5bd34c470d2c7b40098", null ],
-    [ "_sayGreet", "d8/d6c/a19441.html#a7f61eb4aab4d0bf81480dea011b11f95", null ]
+    [ "npc_scion_of_eternity", "d8/d6c/a19441.html#ac1a9111bc835a3d2cffc43b840985763", null ],
+    [ "AttackStart", "d8/d6c/a19441.html#a86b5e235096ad107217f36150c618d73", null ],
+    [ "JustDied", "d8/d6c/a19441.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
+    [ "MoveInLineOfSight", "d8/d6c/a19441.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
+    [ "UpdateAI", "d8/d6c/a19441.html#a49be60ccd03d75cf56931b870ddf086c", null ]
 ];

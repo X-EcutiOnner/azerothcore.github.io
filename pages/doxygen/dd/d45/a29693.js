@@ -1,9 +1,8 @@
 var a29693 =
 [
-    [ "CountQuestOnCreature", "dd/d45/a29693.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "dd/d45/a29693.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "dd/d45/a29693.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "dd/d45/a29693.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "dd/d45/a29693.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "dd/d45/a29693.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "TileInfo", "dd/d45/a29693.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "dd/d45/a29693.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "dd/d45/a29693.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "dd/d45/a29693.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "dd/d45/a29693.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

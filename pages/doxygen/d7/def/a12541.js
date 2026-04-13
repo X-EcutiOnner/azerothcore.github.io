@@ -1,6 +1,9 @@
 var a12541 =
 [
-    [ "boss_highlordomokkAI", "d9/d6c/a12545.html", "d9/d6c/a12545" ],
-    [ "boss_highlord_omokk", "d7/def/a12541.html#af5174587ed3cd1c46f604183a75de99e", null ],
-    [ "GetAI", "d7/def/a12541.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
+    [ "boss_overlord_wyrmthalak", "d7/def/a12541.html#a412ced7f6cbb2c02b174824b57132ab3", null ],
+    [ "JustDied", "d7/def/a12541.html#a66f2bda1b2352c42a15be505f6d610c6", null ],
+    [ "JustEngagedWith", "d7/def/a12541.html#a4673b2e6c3b7143ab088b699c7f41d8a", null ],
+    [ "Reset", "d7/def/a12541.html#a8c4bff3d35d4ddb5c6c8994cb4ee9d67", null ],
+    [ "UpdateAI", "d7/def/a12541.html#afcca6360598b40df4c35bff752eee3f4", null ],
+    [ "_summoned", "d7/def/a12541.html#a4ccbe2c20ef1303141005a79ec418705", null ]
 ];

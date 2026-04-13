@@ -1,7 +1,9 @@
 var a05849 =
 [
-    [ "TransactionWithResultTask", "d1/d9d/a05849.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
-    [ "Execute", "d1/d9d/a05849.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
-    [ "GetFuture", "d1/d9d/a05849.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
-    [ "m_result", "d1/d9d/a05849.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
+    [ "TimeTracker", "d1/d9d/a05849.html#a2b9f585de223c1051136b10b03a27684", null ],
+    [ "GetExpiry", "d1/d9d/a05849.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3", null ],
+    [ "Passed", "d1/d9d/a05849.html#a9a13002766153882150b1985a84013ad", null ],
+    [ "Reset", "d1/d9d/a05849.html#a798cf19378c4de243fac01d7d51a3572", null ],
+    [ "Update", "d1/d9d/a05849.html#a2009e98647f04c20cb3064e1e9e9a611", null ],
+    [ "i_expiryTime", "d1/d9d/a05849.html#adf2e301fdefb32008f14ced5f1c37f33", null ]
 ];

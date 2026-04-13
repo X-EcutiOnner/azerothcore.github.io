@@ -1,6 +1,5 @@
 var a18893 =
 [
-    [ "npc_lk_spirit_bombAI", "de/da6/a18897.html", "de/da6/a18897" ],
-    [ "npc_lk_spirit_bomb", "d6/dbd/a18893.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "d6/dbd/a18893.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "npc_alchemist_adrianna", "d6/dbd/a18893.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "d6/dbd/a18893.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

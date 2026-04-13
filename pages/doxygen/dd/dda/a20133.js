@@ -1,9 +1,7 @@
 var a20133 =
 [
-    [ "CheckTargets", "dd/dda/a20133.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "dd/dda/a20133.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "dd/dda/a20133.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "dd/dda/a20133.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "dd/dda/a20133.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "dd/dda/a20133.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "HandleAfterHit", "dd/dda/a20133.html#a75953cbb3a288fd373e602ed07d84441", null ],
+    [ "PrepareSpellScript", "dd/dda/a20133.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
+    [ "Register", "dd/dda/a20133.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
+    [ "Validate", "dd/dda/a20133.html#aea2b951dd2353800958f654df58d8fd8", null ]
 ];

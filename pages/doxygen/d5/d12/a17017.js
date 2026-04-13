@@ -1,6 +1,6 @@
 var a17017 =
 [
-    [ "npc_fel_infernalAI", "dd/d39/a17021.html", "dd/d39/a17021" ],
-    [ "npc_fel_infernal", "d5/d12/a17017.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
-    [ "GetAI", "d5/d12/a17017.html#a768201a7516c9972800c941cf2079a11", null ]
+    [ "HandleScriptEffect", "d5/d12/a17017.html#a90b13b2a093fdd430a383d7ea4126290", null ],
+    [ "PrepareSpellScript", "d5/d12/a17017.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
+    [ "Register", "d5/d12/a17017.html#a53c8d47ee21637055ad901946be1e2c2", null ]
 ];

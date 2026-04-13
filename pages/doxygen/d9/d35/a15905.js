@@ -1,7 +1,13 @@
 var a15905 =
 [
-    [ "npc_cork_gizeltonAI", "d6/dad/a15909.html", "d6/dad/a15909" ],
-    [ "npc_cork_gizelton", "d9/d35/a15905.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "d9/d35/a15905.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "d9/d35/a15905.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "npc_aquementasAI", "d9/d35/a15905.html#aad63986cdb8a65c528af3ccd114d2041", null ],
+    [ "JustEngagedWith", "d9/d35/a15905.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
+    [ "Reset", "d9/d35/a15905.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
+    [ "SendItem", "d9/d35/a15905.html#a60bafbd70783411236dcf3d0bfe244de", null ],
+    [ "UpdateAI", "d9/d35/a15905.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
+    [ "AquaJetTimer", "d9/d35/a15905.html#a8506acc69436af869d1404bd95109e68", null ],
+    [ "FrostShockTimer", "d9/d35/a15905.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
+    [ "isFriendly", "d9/d35/a15905.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
+    [ "SendItemTimer", "d9/d35/a15905.html#a3a0883b43056b176ef2ae55673adacf3", null ],
+    [ "SwitchFactionTimer", "d9/d35/a15905.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
 ];

@@ -1,6 +1,8 @@
 var a28937 =
 [
-    [ "go_tadpole_cageAI", "d0/d4a/a28941.html", "d0/d4a/a28941" ],
-    [ "go_tadpole_cage", "d4/d88/a28937.html#a1a9acacd0ebff33d402018d4205e415b", null ],
-    [ "GetAI", "d4/d88/a28937.html#a38990dc5edd725623b6c35dba7802612", null ]
+    [ "canLink", "d4/d88/a28937.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "d4/d88/a28937.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "d4/d88/a28937.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "d4/d88/a28937.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "d4/d88/a28937.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

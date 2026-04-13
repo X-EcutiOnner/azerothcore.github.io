@@ -1,8 +1,9 @@
 var a19673 =
 [
-    [ "npc_teslaAI", "d7/d1f/a19673.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d7/d1f/a19673.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d7/d1f/a19673.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d7/d1f/a19673.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d7/d1f/a19673.html#a962745569b07e368067ee483d2379840", null ]
+    [ "npc_stormforged_lieutenant", "d7/d1f/a19673.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
+    [ "JustEngagedWith", "d7/d1f/a19673.html#a262ac995279b1a936534c858e21122a9", null ],
+    [ "Reset", "d7/d1f/a19673.html#abc359564370152b28a002a801ba1ab3d", null ],
+    [ "UpdateAI", "d7/d1f/a19673.html#a4c207f0ef172585b97695b63e119d1bc", null ],
+    [ "BjarngrimGUID", "d7/d1f/a19673.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
+    [ "events", "d7/d1f/a19673.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
 ];

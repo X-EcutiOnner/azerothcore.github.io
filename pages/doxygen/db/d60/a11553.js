@@ -1,12 +1,19 @@
 var a11553 =
 [
-    [ "UnitAura", "db/d60/a11553.html#ada4033955271dfb21d16a95b316087f5", null ],
-    [ "_ApplyForTarget", "db/d60/a11553.html#a920549cf55c8def37149b00ae971127d", null ],
-    [ "_UnapplyForTarget", "db/d60/a11553.html#af4d453cee6758e633bdcae0049581898", null ],
-    [ "FillTargetMap", "db/d60/a11553.html#add5ce04446338e078c5986420abfd16e", null ],
-    [ "GetDiminishGroup", "db/d60/a11553.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
-    [ "Remove", "db/d60/a11553.html#a28f714404942bb5c614ac844cf937546", null ],
-    [ "SetDiminishGroup", "db/d60/a11553.html#a6d858a153c5d3046574f3387ab852050", null ],
-    [ "Aura::Create", "db/d60/a11553.html#ae2c0fdfb409846fec5e861de60797112", null ],
-    [ "m_AuraDRGroup", "db/d60/a11553.html#a4b413c5e62eee76875a22345059e6124", null ]
+    [ "PacketThrottlingMap", "db/d60/a11553.html#aa41dd21032403490c49a400651c98855", null ],
+    [ "Policy", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aa", [
+      [ "Process", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
+      [ "Kick", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
+      [ "Ban", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
+      [ "Log", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
+      [ "BlockingThrottle", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
+      [ "DropPacket", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
+    ] ],
+    [ "DosProtection", "db/d60/a11553.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
+    [ "DosProtection", "db/d60/a11553.html#a8850d18ae254633f6bde5c85cbcef830", null ],
+    [ "EvaluateOpcode", "db/d60/a11553.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
+    [ "operator=", "db/d60/a11553.html#a98394089b867ff6e8107b7975a67737d", null ],
+    [ "World", "db/d60/a11553.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
+    [ "_PacketThrottlingMap", "db/d60/a11553.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
+    [ "Session", "db/d60/a11553.html#a3f3f5397fb30cdf14141480659b18208", null ]
 ];

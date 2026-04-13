@@ -1,8 +1,6 @@
 var a13821 =
 [
-    [ "FilterTargets", "d1/da2/a13821.html#a3aac5e364d04a4a086aaa911051417d5", null ],
-    [ "HandleDummy", "d1/da2/a13821.html#aa0705dee3edeca7b61f82581f367e94a", null ],
-    [ "PrepareSpellScript", "d1/da2/a13821.html#a1efa036eac25d789850849dc1b209379", null ],
-    [ "Register", "d1/da2/a13821.html#a656b512d5bef657004a72acbf7875760", null ],
-    [ "Validate", "d1/da2/a13821.html#a33534d9fd70af99bbde1e4a908d22084", null ]
+    [ "HandleSendEvent", "d1/da2/a13821.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "d1/da2/a13821.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "d1/da2/a13821.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

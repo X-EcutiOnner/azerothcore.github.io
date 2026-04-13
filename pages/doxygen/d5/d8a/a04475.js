@@ -1,5 +1,5 @@
 var a04475 =
 [
-    [ "WardenInitModuleRequest", "df/db4/a12054.html", "df/db4/a12054" ],
-    [ "WardenWin", "d9/dc7/a12058.html", "d9/dc7/a12058" ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d5/d8a/a04475.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MverMagic", "d5/d8a/a04475.html#a076cdc3e61f69e52913492840fc864cf", null ]
 ];

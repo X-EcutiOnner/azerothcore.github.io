@@ -1,7 +1,7 @@
 var a26121 =
 [
-    [ "HandleDummy", "d7/d68/a26121.html#addfcb17cbbb56bda88997b34ce3e3ddd", null ],
-    [ "PrepareSpellScript", "d7/d68/a26121.html#a22614b06c6f1853f02a992dcab027a60", null ],
-    [ "Register", "d7/d68/a26121.html#a9ad5691f6049078c45052d07513b35a2", null ],
-    [ "Validate", "d7/d68/a26121.html#a3fab2057be5de9e2f7703b8f43a99ed5", null ]
+    [ "OnRemove", "d7/d68/a26121.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
+    [ "PrepareAuraScript", "d7/d68/a26121.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
+    [ "Register", "d7/d68/a26121.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
+    [ "Validate", "d7/d68/a26121.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
 ];

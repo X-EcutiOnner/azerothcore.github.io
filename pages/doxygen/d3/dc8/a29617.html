@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ProcEventInfoBuilder Class Reference</title>
+<title>AzerothCore: FileLoader Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,123 +106,157 @@ $(document).ready(function(){initNavTree('d3/dc8/a29617.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d1/d86/a29614.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ProcEventInfoBuilder Class Reference</div></div>
+  <div class="headertitle"><div class="title">FileLoader Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Builder class for creating <a class="el" href="../../dc/dcd/a08981.html">ProcEventInfo</a> test instances.  
- <a href="../../d3/dc8/a29617.html#details">More...</a></p>
-
-<p><code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">loadlib.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for FileLoader:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d3/dc8/a29617.png" usemap="#FileLoader_map" alt=""/>
+  <map id="FileLoader_map" name="FileLoader_map">
+<area href="../../d6/d97/a29581.html" alt="ADT_file" shape="rect" coords="0,56,73,80"/>
+<area href="../../dd/d35/a29653.html" alt="WDT_file" shape="rect" coords="83,56,156,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a38c50e7852d5c87d2774372fbde47bc9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a38c50e7852d5c87d2774372fbde47bc9">ProcEventInfoBuilder</a> ()</td></tr>
-<tr class="separator:a38c50e7852d5c87d2774372fbde47bc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4a2faf802f7ef682e7be2b7ada7a0ff5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a> (<a class="el" href="../../d2/d50/a09009.html">Unit</a> *actor)</td></tr>
-<tr class="separator:a4a2faf802f7ef682e7be2b7ada7a0ff5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a07d934345c43ecd6c8cebeb678e08dab"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a> (<a class="el" href="../../d2/d50/a09009.html">Unit</a> *target)</td></tr>
-<tr class="separator:a07d934345c43ecd6c8cebeb678e08dab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af39d23e9a51f924215a20a578062a9db"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#af39d23e9a51f924215a20a578062a9db">WithProcTarget</a> (<a class="el" href="../../d2/d50/a09009.html">Unit</a> *target)</td></tr>
-<tr class="separator:af39d23e9a51f924215a20a578062a9db"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a83de461b19bd737c5aa2e7fd3ad2a302"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> typeMask)</td></tr>
-<tr class="separator:a83de461b19bd737c5aa2e7fd3ad2a302"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aebac87d053e09dba16456a9f49322973"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#aebac87d053e09dba16456a9f49322973">WithSpellTypeMask</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../d2/d20/a01790.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a>)</td></tr>
-<tr class="separator:aebac87d053e09dba16456a9f49322973"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2247bbb4936f6d48c4214641a5a466af"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellPhaseMask)</td></tr>
-<tr class="separator:a2247bbb4936f6d48c4214641a5a466af"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac8d9c890333158313fb6bd9bdcd14fcf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> hitMask)</td></tr>
-<tr class="separator:ac8d9c890333158313fb6bd9bdcd14fcf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a42ec10664e0fdad98e02267099f0e73c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a42ec10664e0fdad98e02267099f0e73c">WithSpell</a> (<a class="el" href="../../d8/d5b/a11589.html">Spell</a> const *spell)</td></tr>
-<tr class="separator:a42ec10664e0fdad98e02267099f0e73c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4d207196177033340282dd33b11c9d82"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a4d207196177033340282dd33b11c9d82">WithDamageInfo</a> (<a class="el" href="../../d0/df2/a08973.html">DamageInfo</a> *damageInfo)</td></tr>
-<tr class="separator:a4d207196177033340282dd33b11c9d82"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3883e3ba66735492617a9907cdde3794"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a3883e3ba66735492617a9907cdde3794">WithHealInfo</a> (<a class="el" href="../../dc/d4d/a08977.html">HealInfo</a> *healInfo)</td></tr>
-<tr class="separator:a3883e3ba66735492617a9907cdde3794"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5c0b48710a9526e1dc8202a92a91e852"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a5c0b48710a9526e1dc8202a92a91e852">WithTriggeredByAuraSpell</a> (<a class="el" href="../../db/d5a/a11653.html">SpellInfo</a> const *spellInfo)</td></tr>
-<tr class="separator:a5c0b48710a9526e1dc8202a92a91e852"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aec3496f0ce0cd0be4f8b1b2f48146206"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#aec3496f0ce0cd0be4f8b1b2f48146206">WithProcAuraEffectIndex</a> (<a class="el" href="../../d6/d1a/a00485.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> index)</td></tr>
-<tr class="separator:aec3496f0ce0cd0be4f8b1b2f48146206"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae0f8d3a43a218b4459db0aa3fee95bf0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dcd/a08981.html">ProcEventInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a> ()</td></tr>
-<tr class="separator:ae0f8d3a43a218b4459db0aa3fee95bf0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab66347098d7c9ac470339c232f9b7588"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#ab66347098d7c9ac470339c232f9b7588">prepareLoadedData</a> ()</td></tr>
+<tr class="separator:ab66347098d7c9ac470339c232f9b7588"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed85cdbd6a4e52096292c6ed8578f7bd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d92/a30640.html#a33a5e996e7a90acefb8b1c0bea47e365">uint8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#aed85cdbd6a4e52096292c6ed8578f7bd">GetData</a> ()</td></tr>
+<tr class="separator:aed85cdbd6a4e52096292c6ed8578f7bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a07adb0692a51af06ccd31d449ae444"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d92/a30640.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a2a07adb0692a51af06ccd31d449ae444">GetDataSize</a> ()</td></tr>
+<tr class="separator:a2a07adb0692a51af06ccd31d449ae444"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51313b536560d1d89d8350475d2bc749"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a51313b536560d1d89d8350475d2bc749">FileLoader</a> ()</td></tr>
+<tr class="separator:a51313b536560d1d89d8350475d2bc749"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0954776182dd01364bdb216539ce398b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a0954776182dd01364bdb216539ce398b">~FileLoader</a> ()</td></tr>
+<tr class="separator:a0954776182dd01364bdb216539ce398b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11908109042f93ddde393e7a874683c9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a11908109042f93ddde393e7a874683c9">loadFile</a> (std::string const &amp;filename, bool log=true)</td></tr>
+<tr class="separator:a11908109042f93ddde393e7a874683c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a738aeb2ebe751c9fc75013dbce30dcc4"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a738aeb2ebe751c9fc75013dbce30dcc4">free</a> ()</td></tr>
+<tr class="separator:a738aeb2ebe751c9fc75013dbce30dcc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a498a33d80768843b4ab1ff2d5ffe68d9"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a498a33d80768843b4ab1ff2d5ffe68d9">prepareLoadedData</a> ()</td></tr>
+<tr class="separator:a498a33d80768843b4ab1ff2d5ffe68d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed85cdbd6a4e52096292c6ed8578f7bd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d92/a30640.html#a33a5e996e7a90acefb8b1c0bea47e365">uint8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#aed85cdbd6a4e52096292c6ed8578f7bd">GetData</a> ()</td></tr>
+<tr class="separator:aed85cdbd6a4e52096292c6ed8578f7bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a07adb0692a51af06ccd31d449ae444"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d92/a30640.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a2a07adb0692a51af06ccd31d449ae444">GetDataSize</a> ()</td></tr>
+<tr class="separator:a2a07adb0692a51af06ccd31d449ae444"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51313b536560d1d89d8350475d2bc749"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a51313b536560d1d89d8350475d2bc749">FileLoader</a> ()</td></tr>
+<tr class="separator:a51313b536560d1d89d8350475d2bc749"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0954776182dd01364bdb216539ce398b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a0954776182dd01364bdb216539ce398b">~FileLoader</a> ()</td></tr>
+<tr class="separator:a0954776182dd01364bdb216539ce398b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11908109042f93ddde393e7a874683c9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a11908109042f93ddde393e7a874683c9">loadFile</a> (std::string const &amp;filename, bool log=true)</td></tr>
+<tr class="separator:a11908109042f93ddde393e7a874683c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef98564821c8e63b6d484179cda0b380"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#aef98564821c8e63b6d484179cda0b380">free</a> ()</td></tr>
+<tr class="separator:aef98564821c8e63b6d484179cda0b380"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a41cedec185e5909d83c8a185d1476dee"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d79/a29609.html">file_MVER</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a41cedec185e5909d83c8a185d1476dee">version</a></td></tr>
+<tr class="separator:a41cedec185e5909d83c8a185d1476dee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a03c844febd2cafe041e5426a02816633"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d50/a09009.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a03c844febd2cafe041e5426a02816633">_actor</a></td></tr>
-<tr class="separator:a03c844febd2cafe041e5426a02816633"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8571e92b47a6ad8327bdf8d1a0b57f04"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d50/a09009.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a8571e92b47a6ad8327bdf8d1a0b57f04">_actionTarget</a></td></tr>
-<tr class="separator:a8571e92b47a6ad8327bdf8d1a0b57f04"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afbc6d5efae5c965c61ebb7972aafb7f0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d50/a09009.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#afbc6d5efae5c965c61ebb7972aafb7f0">_procTarget</a></td></tr>
-<tr class="separator:afbc6d5efae5c965c61ebb7972aafb7f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab64fb7418fce62b008ca62a2fea54c67"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#ab64fb7418fce62b008ca62a2fea54c67">_typeMask</a></td></tr>
-<tr class="separator:ab64fb7418fce62b008ca62a2fea54c67"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aefbc707a11b34a2bae78f5cf52d4b7a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#aefbc707a11b34a2bae78f5cf52d4b7a0">_spellTypeMask</a></td></tr>
-<tr class="separator:aefbc707a11b34a2bae78f5cf52d4b7a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a58ea480d734bfccb3835a2a29618c8ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a58ea480d734bfccb3835a2a29618c8ea">_spellPhaseMask</a></td></tr>
-<tr class="separator:a58ea480d734bfccb3835a2a29618c8ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ef08d3b368b347a4c4e2538616329b4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a0ef08d3b368b347a4c4e2538616329b4">_hitMask</a></td></tr>
-<tr class="separator:a0ef08d3b368b347a4c4e2538616329b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5e6cc0a9d3a3afc81453d606116450d7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d5b/a11589.html">Spell</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a5e6cc0a9d3a3afc81453d606116450d7">_spell</a></td></tr>
-<tr class="separator:a5e6cc0a9d3a3afc81453d606116450d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acf2feea658b0a4a3d7b2d663aae7e3ee"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/df2/a08973.html">DamageInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#acf2feea658b0a4a3d7b2d663aae7e3ee">_damageInfo</a></td></tr>
-<tr class="separator:acf2feea658b0a4a3d7b2d663aae7e3ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa9756e003fd8c4f2d88197e9c4ec159f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d4d/a08977.html">HealInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#aa9756e003fd8c4f2d88197e9c4ec159f">_healInfo</a></td></tr>
-<tr class="separator:aa9756e003fd8c4f2d88197e9c4ec159f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a71180307b8e60ec02f11f388f43df126"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d5a/a11653.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a71180307b8e60ec02f11f388f43df126">_triggeredByAuraSpell</a></td></tr>
-<tr class="separator:a71180307b8e60ec02f11f388f43df126"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3d2adb99c5291a29b2265c4d834b8df0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a3d2adb99c5291a29b2265c4d834b8df0">_procAuraEffectIndex</a></td></tr>
-<tr class="separator:a3d2adb99c5291a29b2265c4d834b8df0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff1880ac2038f17f4d1f63bc9f7d9afd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d92/a30640.html#a33a5e996e7a90acefb8b1c0bea47e365">uint8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#aff1880ac2038f17f4d1f63bc9f7d9afd">data</a></td></tr>
+<tr class="separator:aff1880ac2038f17f4d1f63bc9f7d9afd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a355891fc980538e74080b9b83a95dec8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d92/a30640.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc8/a29617.html#a355891fc980538e74080b9b83a95dec8">data_size</a></td></tr>
+<tr class="separator:a355891fc980538e74080b9b83a95dec8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Builder class for creating <a class="el" href="../../dc/dcd/a08981.html">ProcEventInfo</a> test instances. </p>
-<p >This helper allows easy construction of <a class="el" href="../../dc/dcd/a08981.html">ProcEventInfo</a> objects for unit testing the proc system without requiring full game objects. </p>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a38c50e7852d5c87d2774372fbde47bc9" name="a38c50e7852d5c87d2774372fbde47bc9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a38c50e7852d5c87d2774372fbde47bc9">&#9670;&#160;</a></span>ProcEventInfoBuilder()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a51313b536560d1d89d8350475d2bc749" name="a51313b536560d1d89d8350475d2bc749"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51313b536560d1d89d8350475d2bc749">&#9670;&#160;</a></span>FileLoader() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ProcEventInfoBuilder::ProcEventInfoBuilder </td>
+          <td class="memname">FileLoader::FileLoader </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   34</span>        : <a class="code hl_variable" href="../../d3/dc8/a29617.html#a03c844febd2cafe041e5426a02816633">_actor</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d3/dc8/a29617.html#a8571e92b47a6ad8327bdf8d1a0b57f04">_actionTarget</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d3/dc8/a29617.html#afbc6d5efae5c965c61ebb7972aafb7f0">_procTarget</a>(<span class="keyword">nullptr</span>),</div>
-<div class="line"><span class="lineno">   35</span>          <a class="code hl_variable" href="../../d3/dc8/a29617.html#ab64fb7418fce62b008ca62a2fea54c67">_typeMask</a>(0), <a class="code hl_variable" href="../../d3/dc8/a29617.html#aefbc707a11b34a2bae78f5cf52d4b7a0">_spellTypeMask</a>(0), <a class="code hl_variable" href="../../d3/dc8/a29617.html#a58ea480d734bfccb3835a2a29618c8ea">_spellPhaseMask</a>(0), <a class="code hl_variable" href="../../d3/dc8/a29617.html#a0ef08d3b368b347a4c4e2538616329b4">_hitMask</a>(0),</div>
-<div class="line"><span class="lineno">   36</span>          <a class="code hl_variable" href="../../d3/dc8/a29617.html#a5e6cc0a9d3a3afc81453d606116450d7">_spell</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d3/dc8/a29617.html#acf2feea658b0a4a3d7b2d663aae7e3ee">_damageInfo</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d3/dc8/a29617.html#aa9756e003fd8c4f2d88197e9c4ec159f">_healInfo</a>(<span class="keyword">nullptr</span>),</div>
-<div class="line"><span class="lineno">   37</span>          <a class="code hl_variable" href="../../d3/dc8/a29617.html#a71180307b8e60ec02f11f388f43df126">_triggeredByAuraSpell</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d3/dc8/a29617.html#a3d2adb99c5291a29b2265c4d834b8df0">_procAuraEffectIndex</a>(-1) {}</div>
-<div class="ttc" id="aa29617_html_a03c844febd2cafe041e5426a02816633"><div class="ttname"><a href="../../d3/dc8/a29617.html#a03c844febd2cafe041e5426a02816633">ProcEventInfoBuilder::_actor</a></div><div class="ttdeci">Unit * _actor</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:120</div></div>
-<div class="ttc" id="aa29617_html_a0ef08d3b368b347a4c4e2538616329b4"><div class="ttname"><a href="../../d3/dc8/a29617.html#a0ef08d3b368b347a4c4e2538616329b4">ProcEventInfoBuilder::_hitMask</a></div><div class="ttdeci">uint32 _hitMask</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:126</div></div>
-<div class="ttc" id="aa29617_html_a3d2adb99c5291a29b2265c4d834b8df0"><div class="ttname"><a href="../../d3/dc8/a29617.html#a3d2adb99c5291a29b2265c4d834b8df0">ProcEventInfoBuilder::_procAuraEffectIndex</a></div><div class="ttdeci">int8 _procAuraEffectIndex</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:131</div></div>
-<div class="ttc" id="aa29617_html_a58ea480d734bfccb3835a2a29618c8ea"><div class="ttname"><a href="../../d3/dc8/a29617.html#a58ea480d734bfccb3835a2a29618c8ea">ProcEventInfoBuilder::_spellPhaseMask</a></div><div class="ttdeci">uint32 _spellPhaseMask</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:125</div></div>
-<div class="ttc" id="aa29617_html_a5e6cc0a9d3a3afc81453d606116450d7"><div class="ttname"><a href="../../d3/dc8/a29617.html#a5e6cc0a9d3a3afc81453d606116450d7">ProcEventInfoBuilder::_spell</a></div><div class="ttdeci">Spell const  * _spell</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:127</div></div>
-<div class="ttc" id="aa29617_html_a71180307b8e60ec02f11f388f43df126"><div class="ttname"><a href="../../d3/dc8/a29617.html#a71180307b8e60ec02f11f388f43df126">ProcEventInfoBuilder::_triggeredByAuraSpell</a></div><div class="ttdeci">SpellInfo const  * _triggeredByAuraSpell</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:130</div></div>
-<div class="ttc" id="aa29617_html_a8571e92b47a6ad8327bdf8d1a0b57f04"><div class="ttname"><a href="../../d3/dc8/a29617.html#a8571e92b47a6ad8327bdf8d1a0b57f04">ProcEventInfoBuilder::_actionTarget</a></div><div class="ttdeci">Unit * _actionTarget</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:121</div></div>
-<div class="ttc" id="aa29617_html_aa9756e003fd8c4f2d88197e9c4ec159f"><div class="ttname"><a href="../../d3/dc8/a29617.html#aa9756e003fd8c4f2d88197e9c4ec159f">ProcEventInfoBuilder::_healInfo</a></div><div class="ttdeci">HealInfo * _healInfo</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:129</div></div>
-<div class="ttc" id="aa29617_html_ab64fb7418fce62b008ca62a2fea54c67"><div class="ttname"><a href="../../d3/dc8/a29617.html#ab64fb7418fce62b008ca62a2fea54c67">ProcEventInfoBuilder::_typeMask</a></div><div class="ttdeci">uint32 _typeMask</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:123</div></div>
-<div class="ttc" id="aa29617_html_acf2feea658b0a4a3d7b2d663aae7e3ee"><div class="ttname"><a href="../../d3/dc8/a29617.html#acf2feea658b0a4a3d7b2d663aae7e3ee">ProcEventInfoBuilder::_damageInfo</a></div><div class="ttdeci">DamageInfo * _damageInfo</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:128</div></div>
-<div class="ttc" id="aa29617_html_aefbc707a11b34a2bae78f5cf52d4b7a0"><div class="ttname"><a href="../../d3/dc8/a29617.html#aefbc707a11b34a2bae78f5cf52d4b7a0">ProcEventInfoBuilder::_spellTypeMask</a></div><div class="ttdeci">uint32 _spellTypeMask</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:124</div></div>
-<div class="ttc" id="aa29617_html_afbc6d5efae5c965c61ebb7972aafb7f0"><div class="ttname"><a href="../../d3/dc8/a29617.html#afbc6d5efae5c965c61ebb7972aafb7f0">ProcEventInfoBuilder::_procTarget</a></div><div class="ttdeci">Unit * _procTarget</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:122</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_variable" href="../../d3/dc8/a29617.html#aff1880ac2038f17f4d1f63bc9f7d9afd">data</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_variable" href="../../d3/dc8/a29617.html#a355891fc980538e74080b9b83a95dec8">data_size</a> = 0;</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_variable" href="../../d3/dc8/a29617.html#a41cedec185e5909d83c8a185d1476dee">version</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   33</span>}</div>
+<div class="ttc" id="aa29617_html_a355891fc980538e74080b9b83a95dec8"><div class="ttname"><a href="../../d3/dc8/a29617.html#a355891fc980538e74080b9b83a95dec8">FileLoader::data_size</a></div><div class="ttdeci">uint32 data_size</div><div class="ttdef"><b>Definition:</b> loadlib.h:50</div></div>
+<div class="ttc" id="aa29617_html_a41cedec185e5909d83c8a185d1476dee"><div class="ttname"><a href="../../d3/dc8/a29617.html#a41cedec185e5909d83c8a185d1476dee">FileLoader::version</a></div><div class="ttdeci">file_MVER * version</div><div class="ttdef"><b>Definition:</b> loadlib.h:56</div></div>
+<div class="ttc" id="aa29617_html_aff1880ac2038f17f4d1f63bc9f7d9afd"><div class="ttname"><a href="../../d3/dc8/a29617.html#aff1880ac2038f17f4d1f63bc9f7d9afd">FileLoader::data</a></div><div class="ttdeci">uint8 * data</div><div class="ttdef"><b>Definition:</b> loadlib.h:49</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00049">data</a>, <a class="el" href="../../#l00050">data_size</a>, and <a class="el" href="../../#l00056">version</a>.</p>
+
+</div>
+</div>
+<a id="a0954776182dd01364bdb216539ce398b" name="a0954776182dd01364bdb216539ce398b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0954776182dd01364bdb216539ce398b">&#9670;&#160;</a></span>~FileLoader() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">FileLoader::~FileLoader </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_function" href="../../d3/dc8/a29617.html#a738aeb2ebe751c9fc75013dbce30dcc4">free</a>();</div>
+<div class="line"><span class="lineno">   38</span>}</div>
+<div class="ttc" id="aa29617_html_a738aeb2ebe751c9fc75013dbce30dcc4"><div class="ttname"><a href="../../d3/dc8/a29617.html#a738aeb2ebe751c9fc75013dbce30dcc4">FileLoader::free</a></div><div class="ttdeci">virtual void free()</div><div class="ttdef"><b>Definition:</b> loadlib.cpp:76</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00076">free()</a>.</p>
+
+</div>
+</div>
+<a id="a51313b536560d1d89d8350475d2bc749" name="a51313b536560d1d89d8350475d2bc749"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51313b536560d1d89d8350475d2bc749">&#9670;&#160;</a></span>FileLoader() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">FileLoader::FileLoader </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0954776182dd01364bdb216539ce398b" name="a0954776182dd01364bdb216539ce398b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0954776182dd01364bdb216539ce398b">&#9670;&#160;</a></span>~FileLoader() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">FileLoader::~FileLoader </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="ae0f8d3a43a218b4459db0aa3fee95bf0" name="ae0f8d3a43a218b4459db0aa3fee95bf0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae0f8d3a43a218b4459db0aa3fee95bf0">&#9670;&#160;</a></span>Build()</h2>
+<a id="a738aeb2ebe751c9fc75013dbce30dcc4" name="a738aeb2ebe751c9fc75013dbce30dcc4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a738aeb2ebe751c9fc75013dbce30dcc4">&#9670;&#160;</a></span>free() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -231,7 +265,71 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/dcd/a08981.html">ProcEventInfo</a> ProcEventInfoBuilder::Build </td>
+          <td class="memname">void FileLoader::free </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented in <a class="el" href="../../d6/d97/a29581.html#a8fc207b8cc83596577166a0008965dc6">ADT_file</a>, and <a class="el" href="../../dd/d35/a29653.html#aee6c7e1e402cf986e754753c5e8aee72">WDT_file</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
+<div class="line"><span class="lineno">   78</span>    <span class="keyword">delete</span>[] <a class="code hl_variable" href="../../d3/dc8/a29617.html#aff1880ac2038f17f4d1f63bc9f7d9afd">data</a>;</div>
+<div class="line"><span class="lineno">   79</span>    <a class="code hl_variable" href="../../d3/dc8/a29617.html#aff1880ac2038f17f4d1f63bc9f7d9afd">data</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_variable" href="../../d3/dc8/a29617.html#a355891fc980538e74080b9b83a95dec8">data_size</a> = 0;</div>
+<div class="line"><span class="lineno">   81</span>    <a class="code hl_variable" href="../../d3/dc8/a29617.html#a41cedec185e5909d83c8a185d1476dee">version</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   82</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00049">data</a>, <a class="el" href="../../#l00050">data_size</a>, and <a class="el" href="../../#l00056">version</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00056">ADT_file::free()</a>, <a class="el" href="../../#l00050">WDT_file::free()</a>, <a class="el" href="../../#l00040">loadFile()</a>, and <a class="el" href="../../#l00035">~FileLoader()</a>.</p>
+
+</div>
+</div>
+<a id="aef98564821c8e63b6d484179cda0b380" name="aef98564821c8e63b6d484179cda0b380"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef98564821c8e63b6d484179cda0b380">&#9670;&#160;</a></span>free() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void FileLoader::free </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented in <a class="el" href="../../d6/d97/a29581.html#a8fc207b8cc83596577166a0008965dc6">ADT_file</a>, and <a class="el" href="../../dd/d35/a29653.html#aee6c7e1e402cf986e754753c5e8aee72">WDT_file</a>.</p>
+
+</div>
+</div>
+<a id="aed85cdbd6a4e52096292c6ed8578f7bd" name="aed85cdbd6a4e52096292c6ed8578f7bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aed85cdbd6a4e52096292c6ed8578f7bd">&#9670;&#160;</a></span>GetData() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d92/a30640.html#a33a5e996e7a90acefb8b1c0bea47e365">uint8</a> * FileLoader::GetData </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -243,22 +341,16 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  112</span>    {</div>
-<div class="line"><span class="lineno">  113</span>        <span class="keywordflow">return</span> <a class="code hl_class" href="../../dc/dcd/a08981.html">ProcEventInfo</a>(<a class="code hl_variable" href="../../d3/dc8/a29617.html#a03c844febd2cafe041e5426a02816633">_actor</a>, <a class="code hl_variable" href="../../d3/dc8/a29617.html#a8571e92b47a6ad8327bdf8d1a0b57f04">_actionTarget</a>, <a class="code hl_variable" href="../../d3/dc8/a29617.html#afbc6d5efae5c965c61ebb7972aafb7f0">_procTarget</a>, <a class="code hl_variable" href="../../d3/dc8/a29617.html#ab64fb7418fce62b008ca62a2fea54c67">_typeMask</a>,</div>
-<div class="line"><span class="lineno">  114</span>                             <a class="code hl_variable" href="../../d3/dc8/a29617.html#aefbc707a11b34a2bae78f5cf52d4b7a0">_spellTypeMask</a>, <a class="code hl_variable" href="../../d3/dc8/a29617.html#a58ea480d734bfccb3835a2a29618c8ea">_spellPhaseMask</a>, <a class="code hl_variable" href="../../d3/dc8/a29617.html#a0ef08d3b368b347a4c4e2538616329b4">_hitMask</a>,</div>
-<div class="line"><span class="lineno">  115</span>                             <a class="code hl_variable" href="../../d3/dc8/a29617.html#a5e6cc0a9d3a3afc81453d606116450d7">_spell</a>, <a class="code hl_variable" href="../../d3/dc8/a29617.html#acf2feea658b0a4a3d7b2d663aae7e3ee">_damageInfo</a>, <a class="code hl_variable" href="../../d3/dc8/a29617.html#aa9756e003fd8c4f2d88197e9c4ec159f">_healInfo</a>,</div>
-<div class="line"><span class="lineno">  116</span>                             <a class="code hl_variable" href="../../d3/dc8/a29617.html#a71180307b8e60ec02f11f388f43df126">_triggeredByAuraSpell</a>, <a class="code hl_variable" href="../../d3/dc8/a29617.html#a3d2adb99c5291a29b2265c4d834b8df0">_procAuraEffectIndex</a>);</div>
-<div class="line"><span class="lineno">  117</span>    }</div>
-<div class="ttc" id="aa08981_html"><div class="ttname"><a href="../../dc/dcd/a08981.html">ProcEventInfo</a></div><div class="ttdef"><b>Definition:</b> Unit.h:440</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{<span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/dc8/a29617.html#aff1880ac2038f17f4d1f63bc9f7d9afd">data</a>;}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00121">_actionTarget</a>, <a class="el" href="../../#l00120">_actor</a>, <a class="el" href="../../#l00128">_damageInfo</a>, <a class="el" href="../../#l00129">_healInfo</a>, <a class="el" href="../../#l00126">_hitMask</a>, <a class="el" href="../../#l00131">_procAuraEffectIndex</a>, <a class="el" href="../../#l00122">_procTarget</a>, <a class="el" href="../../#l00127">_spell</a>, <a class="el" href="../../#l00125">_spellPhaseMask</a>, <a class="el" href="../../#l00124">_spellTypeMask</a>, <a class="el" href="../../#l00130">_triggeredByAuraSpell</a>, and <a class="el" href="../../#l00123">_typeMask</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00049">data</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00184">AuraScriptProcTestFixture::CreateEventInfo()</a>, <a class="el" href="../../#l00261">TEST_F()</a>, and <a class="el" href="../../#l00197">AuraScriptProcTestFixture::TestCanProc()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00065">ADT_file::prepareLoadedData()</a>.</p>
 
 </div>
 </div>
-<a id="a07d934345c43ecd6c8cebeb678e08dab" name="a07d934345c43ecd6c8cebeb678e08dab"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a07d934345c43ecd6c8cebeb678e08dab">&#9670;&#160;</a></span>WithActionTarget()</h2>
+<a id="aed85cdbd6a4e52096292c6ed8578f7bd" name="aed85cdbd6a4e52096292c6ed8578f7bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aed85cdbd6a4e52096292c6ed8578f7bd">&#9670;&#160;</a></span>GetData() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -267,10 +359,9 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp; ProcEventInfoBuilder::WithActionTarget </td>
+          <td class="memname"><a class="el" href="../../d3/d92/a30640.html#a33a5e996e7a90acefb8b1c0bea47e365">uint8</a> * FileLoader::GetData </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d50/a09009.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>target</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -280,19 +371,156 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>    {</div>
-<div class="line"><span class="lineno">   47</span>        <a class="code hl_variable" href="../../d3/dc8/a29617.html#a8571e92b47a6ad8327bdf8d1a0b57f04">_actionTarget</a> = target;</div>
-<div class="line"><span class="lineno">   48</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="fragment"><div class="line"><span class="lineno">   71</span>{<span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/dc8/a29617.html#aff1880ac2038f17f4d1f63bc9f7d9afd">data</a>;}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00049">data</a>.</p>
+
+</div>
+</div>
+<a id="a2a07adb0692a51af06ccd31d449ae444" name="a2a07adb0692a51af06ccd31d449ae444"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a07adb0692a51af06ccd31d449ae444">&#9670;&#160;</a></span>GetDataSize() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d92/a30640.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> FileLoader::GetDataSize </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   54</span>{<span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/dc8/a29617.html#a355891fc980538e74080b9b83a95dec8">data_size</a>;}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00050">data_size</a>.</p>
+
+</div>
+</div>
+<a id="a2a07adb0692a51af06ccd31d449ae444" name="a2a07adb0692a51af06ccd31d449ae444"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a07adb0692a51af06ccd31d449ae444">&#9670;&#160;</a></span>GetDataSize() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d92/a30640.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> FileLoader::GetDataSize </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   72</span>{<span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/dc8/a29617.html#a355891fc980538e74080b9b83a95dec8">data_size</a>;}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00050">data_size</a>.</p>
+
+</div>
+</div>
+<a id="a11908109042f93ddde393e7a874683c9" name="a11908109042f93ddde393e7a874683c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a11908109042f93ddde393e7a874683c9">&#9670;&#160;</a></span>loadFile() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool FileLoader::loadFile </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>filename</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>log</em> = <code>true</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_function" href="../../d3/dc8/a29617.html#a738aeb2ebe751c9fc75013dbce30dcc4">free</a>();</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_class" href="../../d7/dea/a29625.html">MPQFile</a> mf(fileName.c_str());</div>
+<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">if</span> (mf.isEof())</div>
+<div class="line"><span class="lineno">   45</span>    {</div>
+<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">if</span> (log)</div>
+<div class="line"><span class="lineno">   47</span>            printf(<span class="stringliteral">&quot;No such file %s\n&quot;</span>, fileName.c_str());</div>
+<div class="line"><span class="lineno">   48</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">   49</span>    }</div>
+<div class="line"><span class="lineno">   50</span> </div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_variable" href="../../d3/dc8/a29617.html#a355891fc980538e74080b9b83a95dec8">data_size</a> = mf.getSize();</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_variable" href="../../d3/dc8/a29617.html#aff1880ac2038f17f4d1f63bc9f7d9afd">data</a> = <span class="keyword">new</span> <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> [<a class="code hl_variable" href="../../d3/dc8/a29617.html#a355891fc980538e74080b9b83a95dec8">data_size</a>];</div>
+<div class="line"><span class="lineno">   54</span>    mf.read(<a class="code hl_variable" href="../../d3/dc8/a29617.html#aff1880ac2038f17f4d1f63bc9f7d9afd">data</a>, <a class="code hl_variable" href="../../d3/dc8/a29617.html#a355891fc980538e74080b9b83a95dec8">data_size</a>);</div>
+<div class="line"><span class="lineno">   55</span>    mf.close();</div>
+<div class="line"><span class="lineno">   56</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/dc8/a29617.html#ab66347098d7c9ac470339c232f9b7588">prepareLoadedData</a>())</div>
+<div class="line"><span class="lineno">   57</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   58</span> </div>
+<div class="line"><span class="lineno">   59</span>    printf(<span class="stringliteral">&quot;Error loading %s&quot;</span>, fileName.c_str());</div>
+<div class="line"><span class="lineno">   60</span>    mf.close();</div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_function" href="../../d3/dc8/a29617.html#a738aeb2ebe751c9fc75013dbce30dcc4">free</a>();</div>
+<div class="line"><span class="lineno">   62</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   63</span>}</div>
+<div class="ttc" id="aa04568_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa29617_html_ab66347098d7c9ac470339c232f9b7588"><div class="ttname"><a href="../../d3/dc8/a29617.html#ab66347098d7c9ac470339c232f9b7588">FileLoader::prepareLoadedData</a></div><div class="ttdeci">virtual bool prepareLoadedData()</div><div class="ttdef"><b>Definition:</b> loadlib.cpp:65</div></div>
+<div class="ttc" id="aa29625_html"><div class="ttname"><a href="../../d7/dea/a29625.html">MPQFile</a></div><div class="ttdef"><b>Definition:</b> mpq_libmpq04.h:74</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00121">_actionTarget</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00126">MPQFile::close()</a>, <a class="el" href="../../#l00049">data</a>, <a class="el" href="../../#l00050">data_size</a>, <a class="el" href="../../#l00076">free()</a>, <a class="el" href="../../#l00088">MPQFile::getSize()</a>, <a class="el" href="../../#l00092">MPQFile::isEof()</a>, <a class="el" href="../../#l00065">prepareLoadedData()</a>, and <a class="el" href="../../#l00096">MPQFile::read()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00068">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>, and <a class="el" href="../../#l00976">ExtractMapsFromMpq()</a>.</p>
 
 </div>
 </div>
-<a id="a4a2faf802f7ef682e7be2b7ada7a0ff5" name="a4a2faf802f7ef682e7be2b7ada7a0ff5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4a2faf802f7ef682e7be2b7ada7a0ff5">&#9670;&#160;</a></span>WithActor()</h2>
+<a id="a11908109042f93ddde393e7a874683c9" name="a11908109042f93ddde393e7a874683c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a11908109042f93ddde393e7a874683c9">&#9670;&#160;</a></span>loadFile() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool FileLoader::loadFile </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>filename</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>log</em> = <code>true</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab66347098d7c9ac470339c232f9b7588" name="ab66347098d7c9ac470339c232f9b7588"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab66347098d7c9ac470339c232f9b7588">&#9670;&#160;</a></span>prepareLoadedData() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -301,32 +529,44 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp; ProcEventInfoBuilder::WithActor </td>
+          <td class="memname">bool FileLoader::prepareLoadedData </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d50/a09009.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>actor</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   40</span>    {</div>
-<div class="line"><span class="lineno">   41</span>        <a class="code hl_variable" href="../../d3/dc8/a29617.html#a03c844febd2cafe041e5426a02816633">_actor</a> = actor;</div>
-<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   43</span>    }</div>
+
+<p>Reimplemented in <a class="el" href="../../d6/d97/a29581.html#ac9f498cb9c8e21a1947be87904e3760b">ADT_file</a>, and <a class="el" href="../../dd/d35/a29653.html#add675f96f010e67ca1df01b029c9ebfb">WDT_file</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
+<div class="line"><span class="lineno">   67</span>    <span class="comment">// Check version</span></div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_variable" href="../../d3/dc8/a29617.html#a41cedec185e5909d83c8a185d1476dee">version</a> = (<a class="code hl_struct" href="../../de/d79/a29609.html">file_MVER</a>*) <a class="code hl_variable" href="../../d3/dc8/a29617.html#aff1880ac2038f17f4d1f63bc9f7d9afd">data</a>;</div>
+<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/dc8/a29617.html#a41cedec185e5909d83c8a185d1476dee">version</a>-&gt;<a class="code hl_variable" href="../../de/d79/a29609.html#afbaa5fdd612d1c93f7f07aa299d144ad">fcc</a> != <a class="code hl_variable" href="../../d5/d8a/a04475.html#a076cdc3e61f69e52913492840fc864cf">MverMagic</a>.<a class="code hl_variable" href="../../df/dd6/a29605.html#a828a2845e666d6eb47d6d4705a663a3d">fcc</a>)</div>
+<div class="line"><span class="lineno">   70</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   71</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/dc8/a29617.html#a41cedec185e5909d83c8a185d1476dee">version</a>-&gt;<a class="code hl_variable" href="../../de/d79/a29609.html#adb92d3e9f7e35255a2e6e147d51ba8fc">ver</a> != <a class="code hl_define" href="../../d3/d92/a30640.html#a82680783457cdcbe83db9eefe68f8a9b">FILE_FORMAT_VERSION</a>)</div>
+<div class="line"><span class="lineno">   72</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   73</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   74</span>}</div>
+<div class="ttc" id="aa04475_html_a076cdc3e61f69e52913492840fc864cf"><div class="ttname"><a href="../../d5/d8a/a04475.html#a076cdc3e61f69e52913492840fc864cf">MverMagic</a></div><div class="ttdeci">u_map_fcc MverMagic</div><div class="ttdef"><b>Definition:</b> loadlib.cpp:26</div></div>
+<div class="ttc" id="aa29605_html_a828a2845e666d6eb47d6d4705a663a3d"><div class="ttname"><a href="../../df/dd6/a29605.html#a828a2845e666d6eb47d6d4705a663a3d">u_map_fcc::fcc</a></div><div class="ttdeci">uint32 fcc</div><div class="ttdef"><b>Definition:</b> loadlib.h:29</div></div>
+<div class="ttc" id="aa29609_html"><div class="ttname"><a href="../../de/d79/a29609.html">file_MVER</a></div><div class="ttdef"><b>Definition:</b> loadlib.h:37</div></div>
+<div class="ttc" id="aa29609_html_adb92d3e9f7e35255a2e6e147d51ba8fc"><div class="ttname"><a href="../../de/d79/a29609.html#adb92d3e9f7e35255a2e6e147d51ba8fc">file_MVER::ver</a></div><div class="ttdeci">uint32 ver</div><div class="ttdef"><b>Definition:</b> loadlib.h:44</div></div>
+<div class="ttc" id="aa29609_html_afbaa5fdd612d1c93f7f07aa299d144ad"><div class="ttname"><a href="../../de/d79/a29609.html#afbaa5fdd612d1c93f7f07aa299d144ad">file_MVER::fcc</a></div><div class="ttdeci">uint32 fcc</div><div class="ttdef"><b>Definition:</b> loadlib.h:40</div></div>
+<div class="ttc" id="aa30640_html_a82680783457cdcbe83db9eefe68f8a9b"><div class="ttname"><a href="../../d3/d92/a30640.html#a82680783457cdcbe83db9eefe68f8a9b">FILE_FORMAT_VERSION</a></div><div class="ttdeci">#define FILE_FORMAT_VERSION</div><div class="ttdef"><b>Definition:</b> loadlib.h:49</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00120">_actor</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00049">data</a>, <a class="el" href="../../#l00029">u_map_fcc::fcc</a>, <a class="el" href="../../#l00040">file_MVER::fcc</a>, <a class="el" href="../../#l00049">FILE_FORMAT_VERSION</a>, <a class="el" href="../../#l00026">MverMagic</a>, <a class="el" href="../../#l00044">file_MVER::ver</a>, and <a class="el" href="../../#l00056">version</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00068">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00040">loadFile()</a>, <a class="el" href="../../#l00065">ADT_file::prepareLoadedData()</a>, and <a class="el" href="../../#l00057">WDT_file::prepareLoadedData()</a>.</p>
 
 </div>
 </div>
-<a id="a4d207196177033340282dd33b11c9d82" name="a4d207196177033340282dd33b11c9d82"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4d207196177033340282dd33b11c9d82">&#9670;&#160;</a></span>WithDamageInfo()</h2>
+<a id="a498a33d80768843b4ab1ff2d5ffe68d9" name="a498a33d80768843b4ab1ff2d5ffe68d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a498a33d80768843b4ab1ff2d5ffe68d9">&#9670;&#160;</a></span>prepareLoadedData() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -335,332 +575,26 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp; ProcEventInfoBuilder::WithDamageInfo </td>
+          <td class="memname">virtual bool FileLoader::prepareLoadedData </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/df2/a08973.html">DamageInfo</a> *&#160;</td>
-          <td class="paramname"><em>damageInfo</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   88</span>    {</div>
-<div class="line"><span class="lineno">   89</span>        <a class="code hl_variable" href="../../d3/dc8/a29617.html#acf2feea658b0a4a3d7b2d663aae7e3ee">_damageInfo</a> = damageInfo;</div>
-<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   91</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">_damageInfo</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00386">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a3883e3ba66735492617a9907cdde3794" name="a3883e3ba66735492617a9907cdde3794"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3883e3ba66735492617a9907cdde3794">&#9670;&#160;</a></span>WithHealInfo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp; ProcEventInfoBuilder::WithHealInfo </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d4d/a08977.html">HealInfo</a> *&#160;</td>
-          <td class="paramname"><em>healInfo</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   94</span>    {</div>
-<div class="line"><span class="lineno">   95</span>        <a class="code hl_variable" href="../../d3/dc8/a29617.html#aa9756e003fd8c4f2d88197e9c4ec159f">_healInfo</a> = healInfo;</div>
-<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   97</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00129">_healInfo</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00337">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="ac8d9c890333158313fb6bd9bdcd14fcf" name="ac8d9c890333158313fb6bd9bdcd14fcf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac8d9c890333158313fb6bd9bdcd14fcf">&#9670;&#160;</a></span>WithHitMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp; ProcEventInfoBuilder::WithHitMask </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>hitMask</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   76</span>    {</div>
-<div class="line"><span class="lineno">   77</span>        <a class="code hl_variable" href="../../d3/dc8/a29617.html#a0ef08d3b368b347a4c4e2538616329b4">_hitMask</a> = hitMask;</div>
-<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   79</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">_hitMask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00422">ProcScenarioBuilder::Build()</a>, <a class="el" href="../../#l00218">SpellProcDatabaseTest::CreateEventInfo()</a>, <a class="el" href="../../#l00184">AuraScriptProcTestFixture::CreateEventInfo()</a>, <a class="el" href="../../#l00261">TEST_F()</a>, and <a class="el" href="../../#l00197">AuraScriptProcTestFixture::TestCanProc()</a>.</p>
-
-</div>
-</div>
-<a id="aec3496f0ce0cd0be4f8b1b2f48146206" name="aec3496f0ce0cd0be4f8b1b2f48146206"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec3496f0ce0cd0be4f8b1b2f48146206">&#9670;&#160;</a></span>WithProcAuraEffectIndex()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp; ProcEventInfoBuilder::WithProcAuraEffectIndex </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>&#160;</td>
-          <td class="paramname"><em>index</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  106</span>    {</div>
-<div class="line"><span class="lineno">  107</span>        <a class="code hl_variable" href="../../d3/dc8/a29617.html#a3d2adb99c5291a29b2265c4d834b8df0">_procAuraEffectIndex</a> = index;</div>
-<div class="line"><span class="lineno">  108</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  109</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">_procAuraEffectIndex</a>.</p>
-
-</div>
-</div>
-<a id="af39d23e9a51f924215a20a578062a9db" name="af39d23e9a51f924215a20a578062a9db"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af39d23e9a51f924215a20a578062a9db">&#9670;&#160;</a></span>WithProcTarget()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp; ProcEventInfoBuilder::WithProcTarget </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d50/a09009.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>target</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   52</span>    {</div>
-<div class="line"><span class="lineno">   53</span>        <a class="code hl_variable" href="../../d3/dc8/a29617.html#afbc6d5efae5c965c61ebb7972aafb7f0">_procTarget</a> = target;</div>
-<div class="line"><span class="lineno">   54</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   55</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00122">_procTarget</a>.</p>
-
-</div>
-</div>
-<a id="a42ec10664e0fdad98e02267099f0e73c" name="a42ec10664e0fdad98e02267099f0e73c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a42ec10664e0fdad98e02267099f0e73c">&#9670;&#160;</a></span>WithSpell()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp; ProcEventInfoBuilder::WithSpell </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d5b/a11589.html">Spell</a> const *&#160;</td>
-          <td class="paramname"><em>spell</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>    {</div>
-<div class="line"><span class="lineno">   83</span>        <a class="code hl_variable" href="../../d3/dc8/a29617.html#a5e6cc0a9d3a3afc81453d606116450d7">_spell</a> = spell;</div>
-<div class="line"><span class="lineno">   84</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   85</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00127">_spell</a>.</p>
-
-</div>
-</div>
-<a id="a2247bbb4936f6d48c4214641a5a466af" name="a2247bbb4936f6d48c4214641a5a466af"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2247bbb4936f6d48c4214641a5a466af">&#9670;&#160;</a></span>WithSpellPhaseMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp; ProcEventInfoBuilder::WithSpellPhaseMask </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spellPhaseMask</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   70</span>    {</div>
-<div class="line"><span class="lineno">   71</span>        <a class="code hl_variable" href="../../d3/dc8/a29617.html#a58ea480d734bfccb3835a2a29618c8ea">_spellPhaseMask</a> = spellPhaseMask;</div>
-<div class="line"><span class="lineno">   72</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   73</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00125">_spellPhaseMask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00422">ProcScenarioBuilder::Build()</a>, <a class="el" href="../../#l00218">SpellProcDatabaseTest::CreateEventInfo()</a>, <a class="el" href="../../#l00184">AuraScriptProcTestFixture::CreateEventInfo()</a>, <a class="el" href="../../#l00261">TEST_F()</a>, and <a class="el" href="../../#l00197">AuraScriptProcTestFixture::TestCanProc()</a>.</p>
-
-</div>
-</div>
-<a id="aebac87d053e09dba16456a9f49322973" name="aebac87d053e09dba16456a9f49322973"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aebac87d053e09dba16456a9f49322973">&#9670;&#160;</a></span>WithSpellTypeMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp; ProcEventInfoBuilder::WithSpellTypeMask </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spellTypeMask</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   64</span>    {</div>
-<div class="line"><span class="lineno">   65</span>        <a class="code hl_variable" href="../../d3/dc8/a29617.html#aefbc707a11b34a2bae78f5cf52d4b7a0">_spellTypeMask</a> = <a class="code hl_variable" href="../../d2/d20/a01790.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a>;</div>
-<div class="line"><span class="lineno">   66</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   67</span>    }</div>
-<div class="ttc" id="aa01790_html_aacbfece2441a495ad1e709acd28bc9b7"><div class="ttname"><a href="../../d2/d20/a01790.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a></div><div class="ttdeci">static uint32 spellTypeMask[TOTAL_AURAS]</div><div class="ttdef"><b>Definition:</b> SpellMgr.cpp:1770</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00124">_spellTypeMask</a>, and <a class="el" href="../../#l01770">spellTypeMask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00422">ProcScenarioBuilder::Build()</a>, <a class="el" href="../../#l00218">SpellProcDatabaseTest::CreateEventInfo()</a>, <a class="el" href="../../#l00184">AuraScriptProcTestFixture::CreateEventInfo()</a>, <a class="el" href="../../#l00261">TEST_F()</a>, and <a class="el" href="../../#l00197">AuraScriptProcTestFixture::TestCanProc()</a>.</p>
-
-</div>
-</div>
-<a id="a5c0b48710a9526e1dc8202a92a91e852" name="a5c0b48710a9526e1dc8202a92a91e852"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5c0b48710a9526e1dc8202a92a91e852">&#9670;&#160;</a></span>WithTriggeredByAuraSpell()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp; ProcEventInfoBuilder::WithTriggeredByAuraSpell </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d5a/a11653.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>spellInfo</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  100</span>    {</div>
-<div class="line"><span class="lineno">  101</span>        <a class="code hl_variable" href="../../d3/dc8/a29617.html#a71180307b8e60ec02f11f388f43df126">_triggeredByAuraSpell</a> = spellInfo;</div>
-<div class="line"><span class="lineno">  102</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  103</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00130">_triggeredByAuraSpell</a>.</p>
-
-</div>
-</div>
-<a id="a83de461b19bd737c5aa2e7fd3ad2a302" name="a83de461b19bd737c5aa2e7fd3ad2a302"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a83de461b19bd737c5aa2e7fd3ad2a302">&#9670;&#160;</a></span>WithTypeMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a> &amp; ProcEventInfoBuilder::WithTypeMask </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>typeMask</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   58</span>    {</div>
-<div class="line"><span class="lineno">   59</span>        <a class="code hl_variable" href="../../d3/dc8/a29617.html#ab64fb7418fce62b008ca62a2fea54c67">_typeMask</a> = typeMask;</div>
-<div class="line"><span class="lineno">   60</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">   61</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00123">_typeMask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00422">ProcScenarioBuilder::Build()</a>, <a class="el" href="../../#l00218">SpellProcDatabaseTest::CreateEventInfo()</a>, <a class="el" href="../../#l00184">AuraScriptProcTestFixture::CreateEventInfo()</a>, <a class="el" href="../../#l00261">TEST_F()</a>, and <a class="el" href="../../#l00197">AuraScriptProcTestFixture::TestCanProc()</a>.</p>
+<p>Reimplemented in <a class="el" href="../../d6/d97/a29581.html#ac9f498cb9c8e21a1947be87904e3760b">ADT_file</a>, and <a class="el" href="../../dd/d35/a29653.html#add675f96f010e67ca1df01b029c9ebfb">WDT_file</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a8571e92b47a6ad8327bdf8d1a0b57f04" name="a8571e92b47a6ad8327bdf8d1a0b57f04"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8571e92b47a6ad8327bdf8d1a0b57f04">&#9670;&#160;</a></span>_actionTarget</h2>
+<a id="aff1880ac2038f17f4d1f63bc9f7d9afd" name="aff1880ac2038f17f4d1f63bc9f7d9afd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff1880ac2038f17f4d1f63bc9f7d9afd">&#9670;&#160;</a></span>data</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -669,7 +603,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/d50/a09009.html">Unit</a>* ProcEventInfoBuilder::_actionTarget</td>
+          <td class="memname"><a class="el" href="../../d3/d92/a30640.html#a33a5e996e7a90acefb8b1c0bea47e365">uint8</a> * FileLoader::data</td>
         </tr>
       </table>
   </td>
@@ -679,12 +613,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00111">Build()</a>, and <a class="el" href="../../#l00045">WithActionTarget()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00028">FileLoader()</a>, <a class="el" href="../../#l00076">free()</a>, <a class="el" href="../../#l00053">GetData()</a>, <a class="el" href="../../#l00040">loadFile()</a>, and <a class="el" href="../../#l00065">prepareLoadedData()</a>.</p>
 
 </div>
 </div>
-<a id="a03c844febd2cafe041e5426a02816633" name="a03c844febd2cafe041e5426a02816633"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03c844febd2cafe041e5426a02816633">&#9670;&#160;</a></span>_actor</h2>
+<a id="a355891fc980538e74080b9b83a95dec8" name="a355891fc980538e74080b9b83a95dec8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a355891fc980538e74080b9b83a95dec8">&#9670;&#160;</a></span>data_size</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -693,7 +627,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/d50/a09009.html">Unit</a>* ProcEventInfoBuilder::_actor</td>
+          <td class="memname"><a class="el" href="../../d3/d92/a30640.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> FileLoader::data_size</td>
         </tr>
       </table>
   </td>
@@ -703,247 +637,23 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00111">Build()</a>, and <a class="el" href="../../#l00039">WithActor()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00028">FileLoader()</a>, <a class="el" href="../../#l00076">free()</a>, <a class="el" href="../../#l00054">GetDataSize()</a>, and <a class="el" href="../../#l00040">loadFile()</a>.</p>
 
 </div>
 </div>
-<a id="acf2feea658b0a4a3d7b2d663aae7e3ee" name="acf2feea658b0a4a3d7b2d663aae7e3ee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acf2feea658b0a4a3d7b2d663aae7e3ee">&#9670;&#160;</a></span>_damageInfo</h2>
+<a id="a41cedec185e5909d83c8a185d1476dee" name="a41cedec185e5909d83c8a185d1476dee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41cedec185e5909d83c8a185d1476dee">&#9670;&#160;</a></span>version</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/df2/a08973.html">DamageInfo</a>* ProcEventInfoBuilder::_damageInfo</td>
+          <td class="memname"><a class="el" href="../../de/d79/a29609.html">file_MVER</a> * FileLoader::version</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00111">Build()</a>, and <a class="el" href="../../#l00087">WithDamageInfo()</a>.</p>
-
-</div>
-</div>
-<a id="aa9756e003fd8c4f2d88197e9c4ec159f" name="aa9756e003fd8c4f2d88197e9c4ec159f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa9756e003fd8c4f2d88197e9c4ec159f">&#9670;&#160;</a></span>_healInfo</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d4d/a08977.html">HealInfo</a>* ProcEventInfoBuilder::_healInfo</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00111">Build()</a>, and <a class="el" href="../../#l00093">WithHealInfo()</a>.</p>
-
-</div>
-</div>
-<a id="a0ef08d3b368b347a4c4e2538616329b4" name="a0ef08d3b368b347a4c4e2538616329b4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ef08d3b368b347a4c4e2538616329b4">&#9670;&#160;</a></span>_hitMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ProcEventInfoBuilder::_hitMask</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00111">Build()</a>, and <a class="el" href="../../#l00075">WithHitMask()</a>.</p>
-
-</div>
-</div>
-<a id="a3d2adb99c5291a29b2265c4d834b8df0" name="a3d2adb99c5291a29b2265c4d834b8df0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3d2adb99c5291a29b2265c4d834b8df0">&#9670;&#160;</a></span>_procAuraEffectIndex</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> ProcEventInfoBuilder::_procAuraEffectIndex</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00111">Build()</a>, and <a class="el" href="../../#l00105">WithProcAuraEffectIndex()</a>.</p>
-
-</div>
-</div>
-<a id="afbc6d5efae5c965c61ebb7972aafb7f0" name="afbc6d5efae5c965c61ebb7972aafb7f0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afbc6d5efae5c965c61ebb7972aafb7f0">&#9670;&#160;</a></span>_procTarget</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/d50/a09009.html">Unit</a>* ProcEventInfoBuilder::_procTarget</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00111">Build()</a>, and <a class="el" href="../../#l00051">WithProcTarget()</a>.</p>
-
-</div>
-</div>
-<a id="a5e6cc0a9d3a3afc81453d606116450d7" name="a5e6cc0a9d3a3afc81453d606116450d7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5e6cc0a9d3a3afc81453d606116450d7">&#9670;&#160;</a></span>_spell</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/d5b/a11589.html">Spell</a> const* ProcEventInfoBuilder::_spell</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00111">Build()</a>, and <a class="el" href="../../#l00081">WithSpell()</a>.</p>
-
-</div>
-</div>
-<a id="a58ea480d734bfccb3835a2a29618c8ea" name="a58ea480d734bfccb3835a2a29618c8ea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a58ea480d734bfccb3835a2a29618c8ea">&#9670;&#160;</a></span>_spellPhaseMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ProcEventInfoBuilder::_spellPhaseMask</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00111">Build()</a>, and <a class="el" href="../../#l00069">WithSpellPhaseMask()</a>.</p>
-
-</div>
-</div>
-<a id="aefbc707a11b34a2bae78f5cf52d4b7a0" name="aefbc707a11b34a2bae78f5cf52d4b7a0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aefbc707a11b34a2bae78f5cf52d4b7a0">&#9670;&#160;</a></span>_spellTypeMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ProcEventInfoBuilder::_spellTypeMask</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00111">Build()</a>, and <a class="el" href="../../#l00063">WithSpellTypeMask()</a>.</p>
-
-</div>
-</div>
-<a id="a71180307b8e60ec02f11f388f43df126" name="a71180307b8e60ec02f11f388f43df126"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a71180307b8e60ec02f11f388f43df126">&#9670;&#160;</a></span>_triggeredByAuraSpell</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d5a/a11653.html">SpellInfo</a> const* ProcEventInfoBuilder::_triggeredByAuraSpell</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00111">Build()</a>, and <a class="el" href="../../#l00099">WithTriggeredByAuraSpell()</a>.</p>
-
-</div>
-</div>
-<a id="ab64fb7418fce62b008ca62a2fea54c67" name="ab64fb7418fce62b008ca62a2fea54c67"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab64fb7418fce62b008ca62a2fea54c67">&#9670;&#160;</a></span>_typeMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ProcEventInfoBuilder::_typeMask</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00111">Build()</a>, and <a class="el" href="../../#l00057">WithTypeMask()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00028">FileLoader()</a>, <a class="el" href="../../#l00076">free()</a>, <a class="el" href="../../#l00065">prepareLoadedData()</a>, <a class="el" href="../../#l00065">ADT_file::prepareLoadedData()</a>, and <a class="el" href="../../#l00057">WDT_file::prepareLoadedData()</a>.</p>
 
 </div>
 </div>
@@ -952,8 +662,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/dc8/a29617.html">ProcEventInfoBuilder</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:10:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/dc8/a29617.html">FileLoader</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:28:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

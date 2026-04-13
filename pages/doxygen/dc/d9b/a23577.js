@@ -1,8 +1,8 @@
 var a23577 =
 [
-    [ "HandleDummyApply", "dc/d9b/a23577.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "dc/d9b/a23577.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "dc/d9b/a23577.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "dc/d9b/a23577.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "dc/d9b/a23577.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "instance_mechanar_InstanceMapScript", "dc/d9b/a23577.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "dc/d9b/a23577.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "dc/d9b/a23577.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "dc/d9b/a23577.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "dc/d9b/a23577.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

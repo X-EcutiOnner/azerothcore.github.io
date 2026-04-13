@@ -1,5 +1,10 @@
 var a08717 =
 [
-    [ "PositionXYZStreamer", "d3/d3d/a08717.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
-    [ "m_pos", "d3/d3d/a08717.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
+    [ "ObjectGuidGeneratorBase", "d3/d3d/a08717.html#a8af6741cc884915ee86b489fc970fed1", null ],
+    [ "~ObjectGuidGeneratorBase", "d3/d3d/a08717.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
+    [ "Generate", "d3/d3d/a08717.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
+    [ "GetNextAfterMaxUsed", "d3/d3d/a08717.html#abf1f20b97af8071459bd850e7106a442", null ],
+    [ "HandleCounterOverflow", "d3/d3d/a08717.html#ada7a44ac47b112491c575c38465740fc", null ],
+    [ "Set", "d3/d3d/a08717.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
+    [ "_nextGuid", "d3/d3d/a08717.html#a4a14102e019aa10f41b050054cacca22", null ]
 ];

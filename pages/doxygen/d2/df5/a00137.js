@@ -1,4 +1,5 @@
 var a00137 =
 [
-    [ "get_listen_fd", "d2/df5/a00137.html#a0564629d7b84ad2abab3b0a3a78f888e", null ]
+    [ "ProcEventInfoBuilder", "d4/d97/a29249.html", "d4/d97/a29249" ],
+    [ "SpellProcEntryBuilder", "d1/d1e/a29253.html", "d1/d1e/a29253" ]
 ];

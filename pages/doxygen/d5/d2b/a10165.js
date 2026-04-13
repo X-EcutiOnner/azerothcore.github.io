@@ -1,8 +1,9 @@
 var a10165 =
 [
-    [ "GetAINotifyDelay", "d5/d2b/a10165.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "d5/d2b/a10165.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "d5/d2b/a10165.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "d5/d2b/a10165.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "d5/d2b/a10165.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "MapUpdateRequest", "d5/d2b/a10165.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "d5/d2b/a10165.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "d5/d2b/a10165.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "d5/d2b/a10165.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "d5/d2b/a10165.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "d5/d2b/a10165.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

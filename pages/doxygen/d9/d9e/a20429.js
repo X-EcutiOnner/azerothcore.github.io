@@ -1,7 +1,11 @@
 var a20429 =
 [
-    [ "npc_ulduar_icicle", "d9/d9e/a20429.html#af52ccbf93e54673f8a91dcea682d9e9b", null ],
-    [ "UpdateAI", "d9/d9e/a20429.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
-    [ "timer1", "d9/d9e/a20429.html#ae277d302131abd17cef018872b12da06", null ],
-    [ "timer2", "d9/d9e/a20429.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
+    [ "npc_ulduar_expedition_engineer", "d9/d9e/a20429.html#af3fe5048712bae3add6867e998c2824d", null ],
+    [ "Reset", "d9/d9e/a20429.html#a7bbdbdaed353d450161e470e5f656c17", null ],
+    [ "SetData", "d9/d9e/a20429.html#a9a714463750de3513e65174f796fb4de", null ],
+    [ "UpdateAI", "d9/d9e/a20429.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
+    [ "fixingGUID", "d9/d9e/a20429.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
+    [ "pInstance", "d9/d9e/a20429.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
+    [ "timer", "d9/d9e/a20429.html#a57f187130777929a921e2c35b6f43559", null ],
+    [ "working", "d9/d9e/a20429.html#a3450381dc89cabede2ccde6feab96dad", null ]
 ];

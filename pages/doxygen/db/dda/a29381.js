@@ -1,11 +1,5 @@
 var a29381 =
 [
-    [ "addToSpellBook", "db/dda/a29381.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
-    [ "Col", "db/dda/a29381.html#a0bc589c5b1425d5e889cd290b805169e", null ],
-    [ "DependsOn", "db/dda/a29381.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
-    [ "DependsOnRank", "db/dda/a29381.html#a608f232669981da3423b959479ca8683", null ],
-    [ "RankID", "db/dda/a29381.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
-    [ "Row", "db/dda/a29381.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
-    [ "TalentID", "db/dda/a29381.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
-    [ "TalentTab", "db/dda/a29381.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
+    [ "aura", "db/dda/a29381.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
+    [ "effect", "db/dda/a29381.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
 ];

@@ -1,6 +1,12 @@
 var a22225 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d9/d82/a22229.html", "d9/d82/a22229" ],
-    [ "npc_time_lost_proto_drake", "d6/d8a/a22225.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "d6/d8a/a22225.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "boss_exarch_maladaar", "d6/d8a/a22225.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "d6/d8a/a22225.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "d6/d8a/a22225.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "d6/d8a/a22225.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "d6/d8a/a22225.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "d6/d8a/a22225.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "d6/d8a/a22225.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "d6/d8a/a22225.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "d6/d8a/a22225.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

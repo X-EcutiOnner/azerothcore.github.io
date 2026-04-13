@@ -1,13 +1,7 @@
 var a22465 =
 [
-    [ "OPvPCapturePointEP_NPT", "dc/de7/a22465.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
-    [ "ChangeState", "dc/de7/a22465.html#a9e046ace6129ce67568ed7c15130b617", null ],
-    [ "FillInitialWorldStates", "dc/de7/a22465.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
-    [ "HandlePlayerEnter", "dc/de7/a22465.html#ace643b7f7bc793934972c61c618045eb", null ],
-    [ "HandlePlayerLeave", "dc/de7/a22465.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
-    [ "SendChangePhase", "dc/de7/a22465.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
-    [ "SummonGO", "dc/de7/a22465.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
-    [ "UpdateTowerState", "dc/de7/a22465.html#ad8cfefcc567346273914e8039b039835", null ],
-    [ "m_SummonedGOSideId", "dc/de7/a22465.html#aa034240d169c9ab7276786bb188abc70", null ],
-    [ "m_TowerState", "dc/de7/a22465.html#a703b68024362d13ceaf9012202b72e7d", null ]
+    [ "boss_veras_darkshadow", "dc/de7/a22465.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "dc/de7/a22465.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "dc/de7/a22465.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "dc/de7/a22465.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

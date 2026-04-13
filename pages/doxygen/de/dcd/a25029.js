@@ -1,5 +1,6 @@
 var a25029 =
 [
-    [ "PrepareSpellScript", "de/dcd/a25029.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
-    [ "Register", "de/dcd/a25029.html#a560ff22e718e8a975a2e2dc2340da917", null ]
+    [ "OnApply", "de/dcd/a25029.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
+    [ "PrepareAuraScript", "de/dcd/a25029.html#a159ee8a9b0af729ed01f7632adb58863", null ],
+    [ "Register", "de/dcd/a25029.html#a0f33043317402119aa14e50a1eb6c227", null ]
 ];

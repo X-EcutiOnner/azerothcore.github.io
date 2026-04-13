@@ -1,7 +1,7 @@
 var a18289 =
 [
-    [ "HandleScriptEffect", "d7/dac/a18289.html#abeb703f8f050677bafb8f5ce4173751a", null ],
-    [ "PrepareSpellScript", "d7/dac/a18289.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
-    [ "Register", "d7/dac/a18289.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
-    [ "SelectTarget", "d7/dac/a18289.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
+    [ "PeriodicTick", "d7/dac/a18289.html#a79b63e30f37df8a961b57c4b10669800", null ],
+    [ "PrepareAuraScript", "d7/dac/a18289.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
+    [ "Register", "d7/dac/a18289.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
+    [ "Validate", "d7/dac/a18289.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
 ];

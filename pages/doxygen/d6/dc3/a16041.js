@@ -1,6 +1,6 @@
 var a16041 =
 [
-    [ "npc_anachronos_the_ancientAI", "d6/db0/a16045.html", "d6/db0/a16045" ],
-    [ "npc_anachronos_the_ancient", "d6/dc3/a16041.html#a720884359886e6f881190471005f4cfc", null ],
-    [ "GetAI", "d6/dc3/a16041.html#a345c801231907d98f2ab2425b1d35cbc", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "d6/db0/a16045.html", "d6/db0/a16045" ],
+    [ "instance_zulfarrak", "d6/dc3/a16041.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "d6/dc3/a16041.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

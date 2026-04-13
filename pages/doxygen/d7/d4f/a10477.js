@@ -1,6 +1,6 @@
 var a10477 =
 [
-    [ "ALEScript", "d7/d4f/a10477.html#a3949e8bd9d83297871c60778f3fe9f9e", null ],
-    [ "CanAreaTrigger", "d7/d4f/a10477.html#ad5d8f66949b0f7638dd85ccba4c569d0", null ],
-    [ "OnWeatherChange", "d7/d4f/a10477.html#a109b1cb14f602065ce4346d0370407a7", null ]
+    [ "PoolObject", "d7/d4f/a10477.html#a772dc7bc9e1ce25edba89977bf87e3f0", null ],
+    [ "chance", "d7/d4f/a10477.html#ae129795bb2f358af900dbc8892502123", null ],
+    [ "guid", "d7/d4f/a10477.html#ae10fa01f5959e231fe2c16d38d9f3615", null ]
 ];

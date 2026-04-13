@@ -1,6 +1,12 @@
 var a21465 =
 [
-    [ "npc_azure_spellbreakerAI", "da/ddd/a21469.html", "da/ddd/a21469" ],
-    [ "npc_azure_spellbreaker", "dc/d38/a21465.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
-    [ "GetAI", "dc/d38/a21465.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
+    [ "npc_q24545_wretched_ghoulAI", "dc/d38/a21465.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
+    [ "Activate", "dc/d38/a21465.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
+    [ "AttackStart", "dc/d38/a21465.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
+    [ "CanAIAttack", "dc/d38/a21465.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
+    [ "Deactivate", "dc/d38/a21465.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
+    [ "DoAction", "dc/d38/a21465.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
+    [ "JustDied", "dc/d38/a21465.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
+    [ "JustRespawned", "dc/d38/a21465.html#ab30068f7082176c279e0667f72d750a3", null ],
+    [ "Reset", "dc/d38/a21465.html#ad94a4789b5ba019d021682f15df13589", null ]
 ];

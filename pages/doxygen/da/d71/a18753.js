@@ -1,7 +1,6 @@
 var a18753 =
 [
-    [ "CheckTargetCount", "da/d71/a18753.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "da/d71/a18753.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "da/d71/a18753.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "da/d71/a18753.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "HandleScript", "da/d71/a18753.html#a930b8a515b5d156c16925dc218cf8172", null ],
+    [ "PrepareSpellScript", "da/d71/a18753.html#a892b0ba0f6541b3557a0200be5028479", null ],
+    [ "Register", "da/d71/a18753.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
 ];

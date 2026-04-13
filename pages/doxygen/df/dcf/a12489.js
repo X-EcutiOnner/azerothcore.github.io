@@ -1,6 +1,6 @@
 var a12489 =
 [
-    [ "boss_gloomrel", "df/dcf/a12489.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
-    [ "OnGossipHello", "df/dcf/a12489.html#a6ce6898142d767a130ec09769f2be488", null ],
-    [ "OnGossipSelect", "df/dcf/a12489.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
+    [ "boss_high_priestess_thaurissan", "df/dcf/a12489.html#a72b25580dc84301be59d72df45a3ac87", null ],
+    [ "JustEngagedWith", "df/dcf/a12489.html#aa8ba467dd5633e96a20c634880710936", null ],
+    [ "UpdateAI", "df/dcf/a12489.html#a66612582a2362e4f07d7a2bda529af06", null ]
 ];

@@ -1,10 +1,7 @@
 var a26857 =
 [
-    [ "CalculateAmount", "d1/d03/a26857.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
-    [ "CheckDropCharge", "d1/d03/a26857.html#a69bcdbce43cee47873a2ba54ff03d928", null ],
-    [ "HandleUpdateSpellclick", "d1/d03/a26857.html#a89956d7f3a6404d5b60e46034867c82c", null ],
-    [ "InitializeAmount", "d1/d03/a26857.html#a4b0656e78d748d974d6d77a43cfa7910", null ],
-    [ "PrepareAuraScript", "d1/d03/a26857.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
-    [ "Register", "d1/d03/a26857.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ],
-    [ "_remainingAmount", "d1/d03/a26857.html#aa9a60ff01b89cb7c800d068e92c00ce3", null ]
+    [ "HandleDummy", "d1/d03/a26857.html#a4c837e7342603519d1f23ab8702c3160", null ],
+    [ "PrepareSpellScript", "d1/d03/a26857.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371", null ],
+    [ "Register", "d1/d03/a26857.html#a16a5ca3ec9a8c463c9a2975fa29eb1e9", null ],
+    [ "Validate", "d1/d03/a26857.html#ad742f4ce0d0db70427f7ba849a4526df", null ]
 ];

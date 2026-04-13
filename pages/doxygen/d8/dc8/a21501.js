@@ -1,6 +1,6 @@
 var a21501 =
 [
-    [ "npc_violet_hold_defense_system", "d8/dc8/a21501.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "d8/dc8/a21501.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "d8/dc8/a21501.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d5/d71/a21505.html", "d5/d71/a21505" ],
+    [ "npc_commander_eligor_dawnbringer", "d8/dc8/a21501.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d8/dc8/a21501.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

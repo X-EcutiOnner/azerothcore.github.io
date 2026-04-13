@@ -1,7 +1,7 @@
 var a18721 =
 [
-    [ "HandleScript", "d5/d7b/a18721.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
-    [ "PrepareSpellScript", "d5/d7b/a18721.html#a598baad08c685bba54ad5306e0d521b4", null ],
-    [ "Register", "d5/d7b/a18721.html#a471bac09c68708daefe6a39f283caa4c", null ],
-    [ "Validate", "d5/d7b/a18721.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
+    [ "npc_blazing_skeletonAI", "d5/d7b/a18721.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "d5/d7b/a18721.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "d5/d7b/a18721.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "d5/d7b/a18721.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

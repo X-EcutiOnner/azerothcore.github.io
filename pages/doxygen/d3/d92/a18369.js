@@ -1,7 +1,6 @@
 var a18369 =
 [
-    [ "HandleExtraEffect", "d3/d92/a18369.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "d3/d92/a18369.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "d3/d92/a18369.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "d3/d92/a18369.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "PeriodicTick", "d3/d92/a18369.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "d3/d92/a18369.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "d3/d92/a18369.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

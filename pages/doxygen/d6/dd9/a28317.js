@@ -1,8 +1,7 @@
 var a28317 =
 [
-    [ "go_bellsAI", "d6/dd9/a28317.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d6/dd9/a28317.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d6/dd9/a28317.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d6/dd9/a28317.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d6/dd9/a28317.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "HandleDummy", "d6/dd9/a28317.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d6/dd9/a28317.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d6/dd9/a28317.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d6/dd9/a28317.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

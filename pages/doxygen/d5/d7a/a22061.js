@@ -1,7 +1,5 @@
 var a22061 =
 [
-    [ "GetSeatNumber", "d5/d7a/a22061.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d5/d7a/a22061.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d5/d7a/a22061.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d5/d7a/a22061.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "d5/d7a/a22061.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "d5/d7a/a22061.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

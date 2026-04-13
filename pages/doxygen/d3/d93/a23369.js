@@ -1,6 +1,8 @@
 var a23369 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d3/d93/a23369.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "d3/d93/a23369.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "d3/d93/a23369.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "boss_commander_sarannis", "d3/d93/a23369.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d3/d93/a23369.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d3/d93/a23369.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d3/d93/a23369.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d3/d93/a23369.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

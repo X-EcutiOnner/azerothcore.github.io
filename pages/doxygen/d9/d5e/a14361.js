@@ -1,7 +1,5 @@
 var a14361 =
 [
-    [ "HandleScript", "d9/d5e/a14361.html#ac45614416a710794b3e3a5cee239e28a", null ],
-    [ "PrepareSpellScript", "d9/d5e/a14361.html#a832aee6557e27bfa418957297a05bea3", null ],
-    [ "Register", "d9/d5e/a14361.html#a2f5d255de09818203e498c0090bdd3fb", null ],
-    [ "Validate", "d9/d5e/a14361.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
+    [ "npc_brain_wash_totem", "d9/d5e/a14361.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "d9/d5e/a14361.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

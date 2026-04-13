@@ -1,6 +1,6 @@
 var a17397 =
 [
-    [ "npc_hor_spiritual_reflectionAI", "df/dde/a17401.html", "df/dde/a17401" ],
-    [ "npc_hor_spiritual_reflection", "d5/d7d/a17397.html#a5f43c7b336335698468092f72c804fea", null ],
-    [ "GetAI", "d5/d7d/a17397.html#ab6aafc6db10943662fb66b0f77fc34ec", null ]
+    [ "HandleScriptEffect", "d5/d7d/a17397.html#ab9c289e946cfaf2b63f2526914d79812", null ],
+    [ "PrepareSpellScript", "d5/d7d/a17397.html#a832f8ab737254760fe2b91f19d119781", null ],
+    [ "Register", "d5/d7d/a17397.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
 ];

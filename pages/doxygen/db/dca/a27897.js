@@ -1,6 +1,5 @@
 var a27897 =
 [
-    [ "CheckProc", "db/dca/a27897.html#a957f8837b5613a3bfd8200ded3529c54", null ],
-    [ "PrepareAuraScript", "db/dca/a27897.html#a37950bfd846e1c2c550a108461941a26", null ],
-    [ "Register", "db/dca/a27897.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
+    [ "go_tele_to_violet_stand", "db/dca/a27897.html#a63350db1dfd400c565e30775378d48cc", null ],
+    [ "OnGossipHello", "db/dca/a27897.html#a4d075584f065501a2c3be9ef82387f43", null ]
 ];

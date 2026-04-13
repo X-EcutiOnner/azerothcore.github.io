@@ -1,5 +1,5 @@
 var a05557 =
 [
-    [ "Decode", "d9/ddf/a05557.html#a9c18a834b227a8f60104100bd5c47df5", null ],
-    [ "Encode", "d9/ddf/a05557.html#a2b0f76655d4e56d8a7aa9a98de87f6cf", null ]
+    [ "_elements", "d9/ddf/a05557.html#a40b7d4b51ba0849a77a41abc76407e39", null ],
+    [ "_TailElements", "d9/ddf/a05557.html#a8762b1028a8b81762e9b08fd45d13269", null ]
 ];

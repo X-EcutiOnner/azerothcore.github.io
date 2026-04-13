@@ -1,7 +1,6 @@
 var a17501 =
 [
-    [ "HandlePeriodicTick", "d2/dd6/a17501.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
-    [ "PrepareAuraScript", "d2/dd6/a17501.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
-    [ "Register", "d2/dd6/a17501.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
-    [ "Validate", "d2/dd6/a17501.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
+    [ "npc_dark_nucleusAI", "d3/dd1/a17505.html", "d3/dd1/a17505" ],
+    [ "npc_dark_nucleus", "d2/dd6/a17501.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "d2/dd6/a17501.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

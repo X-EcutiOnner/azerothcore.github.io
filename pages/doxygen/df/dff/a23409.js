@@ -1,7 +1,9 @@
 var a23409 =
 [
-    [ "HandleScript", "df/dff/a23409.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "df/dff/a23409.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "df/dff/a23409.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "df/dff/a23409.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "HandleEffectApply", "df/dff/a23409.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "df/dff/a23409.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "df/dff/a23409.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "df/dff/a23409.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "df/dff/a23409.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "df/dff/a23409.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

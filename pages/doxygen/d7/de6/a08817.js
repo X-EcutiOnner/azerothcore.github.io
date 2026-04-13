@@ -1,10 +1,6 @@
 var a08817 =
 [
-    [ "DuelInfo", "d7/de6/a08817.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
-    [ "Initiator", "d7/de6/a08817.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
-    [ "IsMounted", "d7/de6/a08817.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
-    [ "Opponent", "d7/de6/a08817.html#a2765770367c839ad28f804e2df3205cb", null ],
-    [ "OutOfBoundsTime", "d7/de6/a08817.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
-    [ "StartTime", "d7/de6/a08817.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
-    [ "State", "d7/de6/a08817.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
+    [ "PlayerCreateInfoItem", "d7/de6/a08817.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
+    [ "item_amount", "d7/de6/a08817.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
+    [ "item_id", "d7/de6/a08817.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
 ];

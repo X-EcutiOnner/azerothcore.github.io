@@ -1,7 +1,10 @@
 var a23413 =
 [
-    [ "HandleScript", "db/df7/a23413.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
-    [ "PrepareSpellScript", "db/df7/a23413.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
-    [ "Register", "db/df7/a23413.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
-    [ "Validate", "db/df7/a23413.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
+    [ "CheckProc", "db/df7/a23413.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "db/df7/a23413.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "db/df7/a23413.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "db/df7/a23413.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "db/df7/a23413.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "db/df7/a23413.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "db/df7/a23413.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

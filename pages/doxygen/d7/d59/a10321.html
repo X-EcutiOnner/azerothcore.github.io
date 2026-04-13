@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Movement::CommonInitializer Struct Reference</title>
+<title>AzerothCore: PointMovementGenerator&lt; T &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,79 +106,217 @@ $(document).ready(function(){initNavTree('d7/d59/a10321.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../dc/d20/a10318.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Movement::CommonInitializer Struct Reference</div></div>
+  <div class="headertitle"><div class="title">PointMovementGenerator&lt; T &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">PointMovementGenerator.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for PointMovementGenerator&lt; T &gt;:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d7/d59/a10321.png" usemap="#PointMovementGenerator_3C_20T_20_3E_map" alt=""/>
+  <map id="PointMovementGenerator_3C_20T_20_3E_map" name="PointMovementGenerator_3C_20T_20_3E_map">
+<area href="../../d9/dfa/a10261.html" alt="MovementGeneratorMedium&lt; T, PointMovementGenerator&lt; T &gt; &gt;" shape="rect" coords="0,56,385,80"/>
+<area href="../../da/d1b/a10257.html" alt="MovementGenerator" shape="rect" coords="0,0,385,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ab472ff63e0178a3414630f743d4de906"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#ab472ff63e0178a3414630f743d4de906">CommonInitializer</a> (float _velocity)</td></tr>
-<tr class="separator:ab472ff63e0178a3414630f743d4de906"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba4cce84b89416f54a0a25b1702a322c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#aba4cce84b89416f54a0a25b1702a322c">operator()</a> (<a class="el" href="../../d5/d30/a10365.html">Spline</a>&lt; <a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &gt; &amp;s, <a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> i)</td></tr>
-<tr class="separator:aba4cce84b89416f54a0a25b1702a322c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1325ef6a7e2798293849b55623220b8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#ac1325ef6a7e2798293849b55623220b8">PointMovementGenerator</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _id, float _x, float _y, float _z, <a class="el" href="../../d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0">ForcedMovement</a> forcedMovement, float _speed=0.0f, float orientation=0.0f, const <a class="el" href="../../d7/d59/a05065.html#a86528b2e04ddf38b80888e45d6b9c37d">Movement::PointsArray</a> *_path=nullptr, bool generatePath=false, bool forceDestination=false, std::optional&lt; <a class="el" href="../../d6/dbd/a01829.html#ae799184a3f3653b4b574f6df7a414255">AnimTier</a> &gt; animTier=std::nullopt, <a class="el" href="../../de/d62/a08709.html">ObjectGuid</a> chargeTargetGUID=<a class="el" href="../../de/d62/a08709.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>, bool reverseOrientation=false, <a class="el" href="../../de/d62/a08709.html">ObjectGuid</a> facingTargetGuid=<a class="el" href="../../de/d62/a08709.html">ObjectGuid</a>())</td></tr>
+<tr class="separator:ac1325ef6a7e2798293849b55623220b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9e5b0c6f330f1a8e6382556d4c719f0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#af9e5b0c6f330f1a8e6382556d4c719f0">DoInitialize</a> (T *)</td></tr>
+<tr class="separator:af9e5b0c6f330f1a8e6382556d4c719f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1f16559c7683a4f6841c597d81ac310"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#af1f16559c7683a4f6841c597d81ac310">DoFinalize</a> (T *)</td></tr>
+<tr class="separator:af1f16559c7683a4f6841c597d81ac310"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6bcb5aa00fd281df102b3fb34dcbfea6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a6bcb5aa00fd281df102b3fb34dcbfea6">DoReset</a> (T *)</td></tr>
+<tr class="separator:a6bcb5aa00fd281df102b3fb34dcbfea6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d1db29c07ae319f6f76d06cc4eca525"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a4d1db29c07ae319f6f76d06cc4eca525">DoUpdate</a> (T *, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a4d1db29c07ae319f6f76d06cc4eca525"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6bb0bf8d9225906331756383ef0bb418"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a6bb0bf8d9225906331756383ef0bb418">MovementInform</a> (T *)</td></tr>
+<tr class="separator:a6bb0bf8d9225906331756383ef0bb418"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7605fcf7552ebc5f353eebee1a165695"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a7605fcf7552ebc5f353eebee1a165695">Pause</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> timer=0) override</td></tr>
+<tr class="separator:a7605fcf7552ebc5f353eebee1a165695"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6fc876bfef21154dceb3f5ceba5c148b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a6fc876bfef21154dceb3f5ceba5c148b">Resume</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> overrideTimer=0) override</td></tr>
+<tr class="separator:a6fc876bfef21154dceb3f5ceba5c148b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5884c1b3288f076bbc3faed37c167d5e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a5884c1b3288f076bbc3faed37c167d5e">unitSpeedChanged</a> () override</td></tr>
+<tr class="separator:a5884c1b3288f076bbc3faed37c167d5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a84998a5e4e6628b4f2374fd2990fea68"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9">MovementGeneratorType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a84998a5e4e6628b4f2374fd2990fea68">GetMovementGeneratorType</a> () override</td></tr>
+<tr class="separator:a84998a5e4e6628b4f2374fd2990fea68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af49ef70c422e7acbeb5cb6a55130ab61"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#af49ef70c422e7acbeb5cb6a55130ab61">GetDestination</a> (float &amp;x, float &amp;y, float &amp;z) const</td></tr>
+<tr class="separator:af49ef70c422e7acbeb5cb6a55130ab61"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10261"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10261')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d9/dfa/a10261.html">MovementGeneratorMedium&lt; T, PointMovementGenerator&lt; T &gt; &gt;</a></td></tr>
+<tr class="memitem:ad6b97c3e2884dfbe3f17e2579b31ac66 inherit pub_methods_a10261"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dfa/a10261.html#ad6b97c3e2884dfbe3f17e2579b31ac66">Initialize</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *u) override</td></tr>
+<tr class="separator:ad6b97c3e2884dfbe3f17e2579b31ac66 inherit pub_methods_a10261"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a90c8b42ef67968bf58acae5678dc7496 inherit pub_methods_a10261"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dfa/a10261.html#a90c8b42ef67968bf58acae5678dc7496">Finalize</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *u) override</td></tr>
+<tr class="separator:a90c8b42ef67968bf58acae5678dc7496 inherit pub_methods_a10261"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6db99ea9863dc60d032bacda37afa078 inherit pub_methods_a10261"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dfa/a10261.html#a6db99ea9863dc60d032bacda37afa078">Reset</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *u) override</td></tr>
+<tr class="separator:a6db99ea9863dc60d032bacda37afa078 inherit pub_methods_a10261"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af044c8725ef11e8a152987225521ef8b inherit pub_methods_a10261"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dfa/a10261.html#af044c8725ef11e8a152987225521ef8b">Update</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *u, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time_diff) override</td></tr>
+<tr class="separator:af044c8725ef11e8a152987225521ef8b inherit pub_methods_a10261"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10257"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10257')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../da/d1b/a10257.html">MovementGenerator</a></td></tr>
+<tr class="memitem:a13c3c432ac2a91dd4d07b090ec06b903 inherit pub_methods_a10257"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a10257.html#a13c3c432ac2a91dd4d07b090ec06b903">~MovementGenerator</a> ()</td></tr>
+<tr class="separator:a13c3c432ac2a91dd4d07b090ec06b903 inherit pub_methods_a10257"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0040e427ac4a09273641a96a13fd4c1f inherit pub_methods_a10257"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a10257.html#a0040e427ac4a09273641a96a13fd4c1f">Initialize</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *)=0</td></tr>
+<tr class="separator:a0040e427ac4a09273641a96a13fd4c1f inherit pub_methods_a10257"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef4cf800aa06dddac4efd36e3c058d2b inherit pub_methods_a10257"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a10257.html#aef4cf800aa06dddac4efd36e3c058d2b">Finalize</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *)=0</td></tr>
+<tr class="separator:aef4cf800aa06dddac4efd36e3c058d2b inherit pub_methods_a10257"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa6641fa1182551421fc8572afad8e083 inherit pub_methods_a10257"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a10257.html#aa6641fa1182551421fc8572afad8e083">Reset</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *)=0</td></tr>
+<tr class="separator:aa6641fa1182551421fc8572afad8e083 inherit pub_methods_a10257"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3014d8c6e728799c86134ef64737ed5 inherit pub_methods_a10257"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a10257.html#ae3014d8c6e728799c86134ef64737ed5">Update</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time_diff)=0</td></tr>
+<tr class="separator:ae3014d8c6e728799c86134ef64737ed5 inherit pub_methods_a10257"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60bac341b438ea7258986f234a952324 inherit pub_methods_a10257"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9">MovementGeneratorType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a10257.html#a60bac341b438ea7258986f234a952324">GetMovementGeneratorType</a> ()=0</td></tr>
+<tr class="separator:a60bac341b438ea7258986f234a952324 inherit pub_methods_a10257"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99865a1b7cf84b02784bfa8df958585f inherit pub_methods_a10257"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a10257.html#a99865a1b7cf84b02784bfa8df958585f">GetSplineId</a> () const</td></tr>
+<tr class="separator:a99865a1b7cf84b02784bfa8df958585f inherit pub_methods_a10257"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f9c4fd52947688dcda1161924e829bb inherit pub_methods_a10257"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a10257.html#a0f9c4fd52947688dcda1161924e829bb">unitSpeedChanged</a> ()</td></tr>
+<tr class="separator:a0f9c4fd52947688dcda1161924e829bb inherit pub_methods_a10257"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37530e5cd743faecabd21eba08dce939 inherit pub_methods_a10257"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a10257.html#a37530e5cd743faecabd21eba08dce939">Pause</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a37530e5cd743faecabd21eba08dce939 inherit pub_methods_a10257"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51988a8b0a45459242467e38ca46303c inherit pub_methods_a10257"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a10257.html#a51988a8b0a45459242467e38ca46303c">Resume</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a51988a8b0a45459242467e38ca46303c inherit pub_methods_a10257"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60ac9e99f41d1f5c320441cf78b4b46a inherit pub_methods_a10257"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a10257.html#a60ac9e99f41d1f5c320441cf78b4b46a">GetResetPosition</a> (float &amp;, float &amp;, float &amp;)</td></tr>
+<tr class="separator:a60ac9e99f41d1f5c320441cf78b4b46a inherit pub_methods_a10257"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ac2f731afc2aae338bb8b1b616b0a39c1"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#ac2f731afc2aae338bb8b1b616b0a39c1">velocityInv</a></td></tr>
-<tr class="separator:ac2f731afc2aae338bb8b1b616b0a39c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a483d83836ccbe90a842c09f7d4906436"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a483d83836ccbe90a842c09f7d4906436">_time</a></td></tr>
-<tr class="separator:a483d83836ccbe90a842c09f7d4906436"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ae5ccfacff01eae1ac14009ced2eb3fc0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#ae5ccfacff01eae1ac14009ced2eb3fc0">id</a></td></tr>
+<tr class="separator:ae5ccfacff01eae1ac14009ced2eb3fc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa34a4a7d3459bb21b30bf1b242dcb306"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">i_x</a></td></tr>
+<tr class="separator:aa34a4a7d3459bb21b30bf1b242dcb306"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af728b5d511fde310fcc249ef26b59267"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">i_y</a></td></tr>
+<tr class="separator:af728b5d511fde310fcc249ef26b59267"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4444b62b04d24b8b77cac0ef70bed4fc"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a4444b62b04d24b8b77cac0ef70bed4fc">i_z</a></td></tr>
+<tr class="separator:a4444b62b04d24b8b77cac0ef70bed4fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a802a423ddcd370a1f45813142070b5fd"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a802a423ddcd370a1f45813142070b5fd">speed</a></td></tr>
+<tr class="separator:a802a423ddcd370a1f45813142070b5fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c63903feea52d65dd4d013133207308"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a8c63903feea52d65dd4d013133207308">i_orientation</a></td></tr>
+<tr class="separator:a8c63903feea52d65dd4d013133207308"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5247656bbf2460cd4b60c207022581ec"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a5247656bbf2460cd4b60c207022581ec">i_recalculateSpeed</a> {}</td></tr>
+<tr class="separator:a5247656bbf2460cd4b60c207022581ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97a653d40f44d778b1ad30fd0bfba753"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d59/a05065.html#a86528b2e04ddf38b80888e45d6b9c37d">Movement::PointsArray</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a></td></tr>
+<tr class="separator:a97a653d40f44d778b1ad30fd0bfba753"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a74611835dfb7cbaeaf177caec56be417"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a74611835dfb7cbaeaf177caec56be417">_generatePath</a></td></tr>
+<tr class="separator:a74611835dfb7cbaeaf177caec56be417"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa6a7aa15e4ea21a73bbc674da87f3f0b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#aa6a7aa15e4ea21a73bbc674da87f3f0b">_forceDestination</a></td></tr>
+<tr class="separator:aa6a7aa15e4ea21a73bbc674da87f3f0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8c0026f0f7889cbe6782f407fa58234"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#ab8c0026f0f7889cbe6782f407fa58234">_reverseOrientation</a></td></tr>
+<tr class="separator:ab8c0026f0f7889cbe6782f407fa58234"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26496f8fcfeb2097d7c4c35bfdbdb357"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d62/a08709.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a26496f8fcfeb2097d7c4c35bfdbdb357">_chargeTargetGUID</a></td></tr>
+<tr class="separator:a26496f8fcfeb2097d7c4c35bfdbdb357"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64c9d44a05702654b79d035bcc65032c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0">ForcedMovement</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a64c9d44a05702654b79d035bcc65032c">_forcedMovement</a></td></tr>
+<tr class="separator:a64c9d44a05702654b79d035bcc65032c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa3cf06d166dea10292c44fc5c5443dba"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d62/a08709.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#aa3cf06d166dea10292c44fc5c5443dba">_facingTargetGuid</a></td></tr>
+<tr class="separator:aa3cf06d166dea10292c44fc5c5443dba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a091c487af48837e82f546f4be6c824e1"><td class="memItemLeft" align="right" valign="top">std::optional&lt; <a class="el" href="../../d6/dbd/a01829.html#ae799184a3f3653b4b574f6df7a414255">AnimTier</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#a091c487af48837e82f546f4be6c824e1">_animTier</a></td></tr>
+<tr class="separator:a091c487af48837e82f546f4be6c824e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab2aa66a088a7bcf06c2b4fe6b5acf824"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#ab2aa66a088a7bcf06c2b4fe6b5acf824">_stalled</a> {}</td></tr>
+<tr class="separator:ab2aa66a088a7bcf06c2b4fe6b5acf824"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae391133673b9907bc73966479bc71e95"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#ae391133673b9907bc73966479bc71e95">_hasBeenStalled</a> {}</td></tr>
+<tr class="separator:ae391133673b9907bc73966479bc71e95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9838148fecfdb51a017c12f808fb563"><td class="memItemLeft" align="right" valign="top">std::optional&lt; <a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a10321.html#af9838148fecfdb51a017c12f808fb563">_pauseTime</a></td></tr>
+<tr class="separator:af9838148fecfdb51a017c12f808fb563"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ab472ff63e0178a3414630f743d4de906" name="ab472ff63e0178a3414630f743d4de906"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab472ff63e0178a3414630f743d4de906">&#9670;&#160;</a></span>CommonInitializer()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class T&gt;<br />
+class PointMovementGenerator&lt; T &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ac1325ef6a7e2798293849b55623220b8" name="ac1325ef6a7e2798293849b55623220b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac1325ef6a7e2798293849b55623220b8">&#9670;&#160;</a></span>PointMovementGenerator()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Movement::CommonInitializer::CommonInitializer </td>
+          <td class="memname"><a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;<a class="el" href="../../d7/d59/a10321.html">::PointMovementGenerator</a> </td>
           <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_velocity</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  110</span>: <a class="code hl_variable" href="../../d7/d59/a10321.html#ac2f731afc2aae338bb8b1b616b0a39c1">velocityInv</a>(1000.f / _velocity), <a class="code hl_variable" href="../../d7/d59/a10321.html#a483d83836ccbe90a842c09f7d4906436">_time</a>(<a class="code hl_enumvalue" href="../../dd/dbe/a05029.html#a38662d7ee90bab980921c3ae38a96c78ac0830cab2ceed6a2184d7ae9a6cd4e30">minimal_duration</a>) {}</div>
-<div class="ttc" id="aa05029_html_a38662d7ee90bab980921c3ae38a96c78ac0830cab2ceed6a2184d7ae9a6cd4e30"><div class="ttname"><a href="../../dd/dbe/a05029.html#a38662d7ee90bab980921c3ae38a96c78ac0830cab2ceed6a2184d7ae9a6cd4e30">Movement::minimal_duration</a></div><div class="ttdeci">@ minimal_duration</div><div class="ttdef"><b>Definition:</b> MoveSpline.cpp:105</div></div>
-<div class="ttc" id="aa10321_html_a483d83836ccbe90a842c09f7d4906436"><div class="ttname"><a href="../../d7/d59/a10321.html#a483d83836ccbe90a842c09f7d4906436">Movement::CommonInitializer::_time</a></div><div class="ttdeci">int32 _time</div><div class="ttdef"><b>Definition:</b> MoveSpline.cpp:119</div></div>
-<div class="ttc" id="aa10321_html_ac2f731afc2aae338bb8b1b616b0a39c1"><div class="ttname"><a href="../../d7/d59/a10321.html#ac2f731afc2aae338bb8b1b616b0a39c1">Movement::CommonInitializer::velocityInv</a></div><div class="ttdeci">float velocityInv</div><div class="ttdef"><b>Definition:</b> MoveSpline.cpp:118</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="aba4cce84b89416f54a0a25b1702a322c" name="aba4cce84b89416f54a0a25b1702a322c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba4cce84b89416f54a0a25b1702a322c">&#9670;&#160;</a></span>operator()()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> Movement::CommonInitializer::operator() </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d30/a10365.html">Spline</a>&lt; <a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &gt; &amp;&#160;</td>
-          <td class="paramname"><em>s</em>, </td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>_id</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
-          <td class="paramname"><em>i</em>&#160;</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>_x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>_y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>_z</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0">ForcedMovement</a>&#160;</td>
+          <td class="paramname"><em>forcedMovement</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>_speed</em> = <code>0.0f</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>orientation</em> = <code>0.0f</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../d7/d59/a05065.html#a86528b2e04ddf38b80888e45d6b9c37d">Movement::PointsArray</a> *&#160;</td>
+          <td class="paramname"><em>_path</em> = <code>nullptr</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>generatePath</em> = <code>false</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>forceDestination</em> = <code>false</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::optional&lt; <a class="el" href="../../d6/dbd/a01829.html#ae799184a3f3653b4b574f6df7a414255">AnimTier</a> &gt;&#160;</td>
+          <td class="paramname"><em>animTier</em> = <code>std::nullopt</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d62/a08709.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>chargeTargetGUID</em> = <code><a class="el" href="../../de/d62/a08709.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>reverseOrientation</em> = <code>false</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d62/a08709.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>facingTargetGuid</em> = <code><a class="el" href="../../de/d62/a08709.html">ObjectGuid</a>()</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -192,46 +330,1045 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  113</span>        {</div>
-<div class="line"><span class="lineno">  114</span>            <a class="code hl_variable" href="../../d7/d59/a10321.html#a483d83836ccbe90a842c09f7d4906436">_time</a> += (s.<a class="code hl_function" href="../../dc/db6/a10361.html#a7fbf9bef91573f74a8260d0b98726bc9">SegLength</a>(i) * <a class="code hl_variable" href="../../d7/d59/a10321.html#ac2f731afc2aae338bb8b1b616b0a39c1">velocityInv</a>);</div>
-<div class="line"><span class="lineno">  115</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d59/a10321.html#a483d83836ccbe90a842c09f7d4906436">_time</a>;</div>
-<div class="line"><span class="lineno">  116</span>        }</div>
-<div class="ttc" id="aa10361_html_a7fbf9bef91573f74a8260d0b98726bc9"><div class="ttname"><a href="../../dc/db6/a10361.html#a7fbf9bef91573f74a8260d0b98726bc9">Movement::SplineBase::SegLength</a></div><div class="ttdeci">float SegLength(index_type i) const</div><div class="ttdef"><b>Definition:</b> Spline.h:133</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   32</span>        : <a class="code hl_variable" href="../../d7/d59/a10321.html#ae5ccfacff01eae1ac14009ced2eb3fc0">id</a>(_id), <a class="code hl_variable" href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">i_x</a>(_x), <a class="code hl_variable" href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">i_y</a>(_y), <a class="code hl_variable" href="../../d7/d59/a10321.html#a4444b62b04d24b8b77cac0ef70bed4fc">i_z</a>(_z), <a class="code hl_variable" href="../../d7/d59/a10321.html#a802a423ddcd370a1f45813142070b5fd">speed</a>(_speed), <a class="code hl_variable" href="../../d7/d59/a10321.html#a8c63903feea52d65dd4d013133207308">i_orientation</a>(orientation), <a class="code hl_variable" href="../../d7/d59/a10321.html#a74611835dfb7cbaeaf177caec56be417">_generatePath</a>(generatePath), <a class="code hl_variable" href="../../d7/d59/a10321.html#aa6a7aa15e4ea21a73bbc674da87f3f0b">_forceDestination</a>(forceDestination), <a class="code hl_variable" href="../../d7/d59/a10321.html#ab8c0026f0f7889cbe6782f407fa58234">_reverseOrientation</a>(reverseOrientation),</div>
+<div class="line"><span class="lineno">   33</span>        <a class="code hl_variable" href="../../d7/d59/a10321.html#a26496f8fcfeb2097d7c4c35bfdbdb357">_chargeTargetGUID</a>(chargeTargetGUID), <a class="code hl_variable" href="../../d7/d59/a10321.html#a64c9d44a05702654b79d035bcc65032c">_forcedMovement</a>(forcedMovement), <a class="code hl_variable" href="../../d7/d59/a10321.html#aa3cf06d166dea10292c44fc5c5443dba">_facingTargetGuid</a>(facingTargetGuid), <a class="code hl_variable" href="../../d7/d59/a10321.html#a091c487af48837e82f546f4be6c824e1">_animTier</a>(animTier)</div>
+<div class="line"><span class="lineno">   34</span>    {</div>
+<div class="line"><span class="lineno">   35</span>        <span class="keywordflow">if</span> (_path)</div>
+<div class="line"><span class="lineno">   36</span>            <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a> = *_path;</div>
+<div class="line"><span class="lineno">   37</span>    }</div>
+<div class="ttc" id="aa10321_html_a091c487af48837e82f546f4be6c824e1"><div class="ttname"><a href="../../d7/d59/a10321.html#a091c487af48837e82f546f4be6c824e1">PointMovementGenerator::_animTier</a></div><div class="ttdeci">std::optional&lt; AnimTier &gt; _animTier</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:68</div></div>
+<div class="ttc" id="aa10321_html_a26496f8fcfeb2097d7c4c35bfdbdb357"><div class="ttname"><a href="../../d7/d59/a10321.html#a26496f8fcfeb2097d7c4c35bfdbdb357">PointMovementGenerator::_chargeTargetGUID</a></div><div class="ttdeci">ObjectGuid _chargeTargetGUID</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:65</div></div>
+<div class="ttc" id="aa10321_html_a4444b62b04d24b8b77cac0ef70bed4fc"><div class="ttname"><a href="../../d7/d59/a10321.html#a4444b62b04d24b8b77cac0ef70bed4fc">PointMovementGenerator::i_z</a></div><div class="ttdeci">float i_z</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:57</div></div>
+<div class="ttc" id="aa10321_html_a64c9d44a05702654b79d035bcc65032c"><div class="ttname"><a href="../../d7/d59/a10321.html#a64c9d44a05702654b79d035bcc65032c">PointMovementGenerator::_forcedMovement</a></div><div class="ttdeci">ForcedMovement _forcedMovement</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:66</div></div>
+<div class="ttc" id="aa10321_html_a74611835dfb7cbaeaf177caec56be417"><div class="ttname"><a href="../../d7/d59/a10321.html#a74611835dfb7cbaeaf177caec56be417">PointMovementGenerator::_generatePath</a></div><div class="ttdeci">bool _generatePath</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:62</div></div>
+<div class="ttc" id="aa10321_html_a802a423ddcd370a1f45813142070b5fd"><div class="ttname"><a href="../../d7/d59/a10321.html#a802a423ddcd370a1f45813142070b5fd">PointMovementGenerator::speed</a></div><div class="ttdeci">float speed</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:58</div></div>
+<div class="ttc" id="aa10321_html_a8c63903feea52d65dd4d013133207308"><div class="ttname"><a href="../../d7/d59/a10321.html#a8c63903feea52d65dd4d013133207308">PointMovementGenerator::i_orientation</a></div><div class="ttdeci">float i_orientation</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:59</div></div>
+<div class="ttc" id="aa10321_html_a97a653d40f44d778b1ad30fd0bfba753"><div class="ttname"><a href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">PointMovementGenerator::m_precomputedPath</a></div><div class="ttdeci">Movement::PointsArray m_precomputedPath</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:61</div></div>
+<div class="ttc" id="aa10321_html_aa34a4a7d3459bb21b30bf1b242dcb306"><div class="ttname"><a href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">PointMovementGenerator::i_x</a></div><div class="ttdeci">float i_x</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:57</div></div>
+<div class="ttc" id="aa10321_html_aa3cf06d166dea10292c44fc5c5443dba"><div class="ttname"><a href="../../d7/d59/a10321.html#aa3cf06d166dea10292c44fc5c5443dba">PointMovementGenerator::_facingTargetGuid</a></div><div class="ttdeci">ObjectGuid _facingTargetGuid</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:67</div></div>
+<div class="ttc" id="aa10321_html_aa6a7aa15e4ea21a73bbc674da87f3f0b"><div class="ttname"><a href="../../d7/d59/a10321.html#aa6a7aa15e4ea21a73bbc674da87f3f0b">PointMovementGenerator::_forceDestination</a></div><div class="ttdeci">bool _forceDestination</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:63</div></div>
+<div class="ttc" id="aa10321_html_ab8c0026f0f7889cbe6782f407fa58234"><div class="ttname"><a href="../../d7/d59/a10321.html#ab8c0026f0f7889cbe6782f407fa58234">PointMovementGenerator::_reverseOrientation</a></div><div class="ttdeci">bool _reverseOrientation</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:64</div></div>
+<div class="ttc" id="aa10321_html_ae5ccfacff01eae1ac14009ced2eb3fc0"><div class="ttname"><a href="../../d7/d59/a10321.html#ae5ccfacff01eae1ac14009ced2eb3fc0">PointMovementGenerator::id</a></div><div class="ttdeci">uint32 id</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:56</div></div>
+<div class="ttc" id="aa10321_html_af728b5d511fde310fcc249ef26b59267"><div class="ttname"><a href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">PointMovementGenerator::i_y</a></div><div class="ttdeci">float i_y</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:57</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00119">_time</a>, <a class="el" href="../../#l00133">Movement::SplineBase::SegLength()</a>, and <a class="el" href="../../#l00118">velocityInv</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00061">PointMovementGenerator&lt; T &gt;::m_precomputedPath</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="af1f16559c7683a4f6841c597d81ac310" name="af1f16559c7683a4f6841c597d81ac310"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1f16559c7683a4f6841c597d81ac310">&#9670;&#160;</a></span>DoFinalize()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">template void <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::DoFinalize </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  250</span>{</div>
+<div class="line"><span class="lineno">  251</span>    unit-&gt;ClearUnitState(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544aa36759647797ae28c5b8c36dbb4872d5">UNIT_STATE_ROAMING</a> | <a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
+<div class="line"><span class="lineno">  252</span>    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> == <a class="code hl_enumvalue" href="../../d3/d31/a04292.html#a4cf8d4a4d56e9f795518b6541ddeb5bfa4dcdb8f71251fbaa12367412388a8f7e">EVENT_CHARGE</a> || <span class="keywordtype">id</span> == <a class="code hl_define" href="../../da/db4/a04199.html#a9c317db681d954aca490545ed2c1b929">EVENT_CHARGE_PREPATH</a>)</div>
+<div class="line"><span class="lineno">  253</span>    {</div>
+<div class="line"><span class="lineno">  254</span>        unit-&gt;ClearUnitState(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a868bf79cf39a2435d301ac1ade19e3a6">UNIT_STATE_CHARGING</a>);</div>
+<div class="line"><span class="lineno">  255</span> </div>
+<div class="line"><span class="lineno">  256</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a26496f8fcfeb2097d7c4c35bfdbdb357">_chargeTargetGUID</a> &amp;&amp; <a class="code hl_variable" href="../../d7/d59/a10321.html#a26496f8fcfeb2097d7c4c35bfdbdb357">_chargeTargetGUID</a> == unit-&gt;GetTarget())</div>
+<div class="line"><span class="lineno">  257</span>        {</div>
+<div class="line"><span class="lineno">  258</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d68/a09041.html">Unit</a>* target = <a class="code hl_function" href="../../d3/df0/a05067.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a>(*unit, <a class="code hl_variable" href="../../d7/d59/a10321.html#a26496f8fcfeb2097d7c4c35bfdbdb357">_chargeTargetGUID</a>))</div>
+<div class="line"><span class="lineno">  259</span>            {</div>
+<div class="line"><span class="lineno">  260</span>                unit-&gt;Attack(target, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  261</span>            }</div>
+<div class="line"><span class="lineno">  262</span>        }</div>
+<div class="line"><span class="lineno">  263</span>    }</div>
+<div class="line"><span class="lineno">  264</span> </div>
+<div class="line"><span class="lineno">  265</span>    <span class="comment">// Only inform AI if this is a real arrival, not a finalize caused by a Pause/Stop</span></div>
+<div class="line"><span class="lineno">  266</span>    <span class="keywordflow">if</span> (unit-&gt;movespline-&gt;Finalized() &amp;&amp; !<a class="code hl_variable" href="../../d7/d59/a10321.html#ae391133673b9907bc73966479bc71e95">_hasBeenStalled</a>)</div>
+<div class="line"><span class="lineno">  267</span>        <a class="code hl_function" href="../../d7/d59/a10321.html#a6bb0bf8d9225906331756383ef0bb418">MovementInform</a>(unit);</div>
+<div class="line"><span class="lineno">  268</span>}</div>
+<div class="ttc" id="aa01421_html_ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b"><div class="ttname"><a href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a></div><div class="ttdeci">@ UNIT_STATE_ROAMING_MOVE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:195</div></div>
+<div class="ttc" id="aa01421_html_ae51d2ecb71f7a5cb3882982a622c9544a868bf79cf39a2435d301ac1ade19e3a6"><div class="ttname"><a href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a868bf79cf39a2435d301ac1ade19e3a6">UNIT_STATE_CHARGING</a></div><div class="ttdeci">@ UNIT_STATE_CHARGING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:190</div></div>
+<div class="ttc" id="aa01421_html_ae51d2ecb71f7a5cb3882982a622c9544aa36759647797ae28c5b8c36dbb4872d5"><div class="ttname"><a href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544aa36759647797ae28c5b8c36dbb4872d5">UNIT_STATE_ROAMING</a></div><div class="ttdeci">@ UNIT_STATE_ROAMING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:177</div></div>
+<div class="ttc" id="aa04199_html_a9c317db681d954aca490545ed2c1b929"><div class="ttname"><a href="../../da/db4/a04199.html#a9c317db681d954aca490545ed2c1b929">EVENT_CHARGE_PREPATH</a></div><div class="ttdeci">#define EVENT_CHARGE_PREPATH</div><div class="ttdef"><b>Definition:</b> boss_icecrown_gunship_battle.cpp:108</div></div>
+<div class="ttc" id="aa04292_html_a4cf8d4a4d56e9f795518b6541ddeb5bfa4dcdb8f71251fbaa12367412388a8f7e"><div class="ttname"><a href="../../d3/d31/a04292.html#a4cf8d4a4d56e9f795518b6541ddeb5bfa4dcdb8f71251fbaa12367412388a8f7e">EVENT_CHARGE</a></div><div class="ttdeci">@ EVENT_CHARGE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3560</div></div>
+<div class="ttc" id="aa05067_html_a1cb1e2f3906c3bd150a0d18377253d16"><div class="ttname"><a href="../../d3/df0/a05067.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:199</div></div>
+<div class="ttc" id="aa09041_html"><div class="ttname"><a href="../../da/d68/a09041.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:664</div></div>
+<div class="ttc" id="aa10321_html_a6bb0bf8d9225906331756383ef0bb418"><div class="ttname"><a href="../../d7/d59/a10321.html#a6bb0bf8d9225906331756383ef0bb418">PointMovementGenerator::MovementInform</a></div><div class="ttdeci">void MovementInform(T *)</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.cpp:308</div></div>
+<div class="ttc" id="aa10321_html_ae391133673b9907bc73966479bc71e95"><div class="ttname"><a href="../../d7/d59/a10321.html#ae391133673b9907bc73966479bc71e95">PointMovementGenerator::_hasBeenStalled</a></div><div class="ttdeci">bool _hasBeenStalled</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:70</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l03560">EVENT_CHARGE</a>, <a class="el" href="../../#l00108">EVENT_CHARGE_PREPATH</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00190">UNIT_STATE_CHARGING</a>, <a class="el" href="../../#l00177">UNIT_STATE_ROAMING</a>, and <a class="el" href="../../#l00195">UNIT_STATE_ROAMING_MOVE</a>.</p>
+
+</div>
+</div>
+<a id="af9e5b0c6f330f1a8e6382556d4c719f0" name="af9e5b0c6f330f1a8e6382556d4c719f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9e5b0c6f330f1a8e6382556d4c719f0">&#9670;&#160;</a></span>DoInitialize()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">template void <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::DoInitialize </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<dl class="todo"><dt><b><a class="el" href="../../d5/dc0/a05006.html#_todo000097">Todo:</a></b></dt><dd>: rename this flag to something more appropriate since it is set to true even without speed change now. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_variable" href="../../d7/d59/a10321.html#ab2aa66a088a7bcf06c2b4fe6b5acf824">_stalled</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_variable" href="../../d7/d59/a10321.html#ae391133673b9907bc73966479bc71e95">_hasBeenStalled</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_variable" href="../../d7/d59/a10321.html#af9838148fecfdb51a017c12f808fb563">_pauseTime</a>.reset();</div>
+<div class="line"><span class="lineno">   35</span> </div>
+<div class="line"><span class="lineno">   36</span>    <span class="keywordflow">if</span> (unit-&gt;HasUnitState(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a>) || unit-&gt;IsMovementPreventedByCasting())</div>
+<div class="line"><span class="lineno">   37</span>    {</div>
+<div class="line"><span class="lineno">   38</span>        <span class="comment">// the next line is to ensure that a new spline is created in DoUpdate() once the unit is no longer rooted/stunned</span></div>
+<div class="line"><span class="lineno">   40</span><span class="comment"></span>        <a class="code hl_variable" href="../../d7/d59/a10321.html#a5247656bbf2460cd4b60c207022581ec">i_recalculateSpeed</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   41</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   42</span>    }</div>
+<div class="line"><span class="lineno">   43</span> </div>
+<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">if</span> (!unit-&gt;IsStopped())</div>
+<div class="line"><span class="lineno">   45</span>        unit-&gt;StopMoving();</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>    unit-&gt;AddUnitState(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544aa36759647797ae28c5b8c36dbb4872d5">UNIT_STATE_ROAMING</a> | <a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
+<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> == <a class="code hl_enumvalue" href="../../d3/d31/a04292.html#a4cf8d4a4d56e9f795518b6541ddeb5bfa4dcdb8f71251fbaa12367412388a8f7e">EVENT_CHARGE</a> || <span class="keywordtype">id</span> == <a class="code hl_define" href="../../da/db4/a04199.html#a9c317db681d954aca490545ed2c1b929">EVENT_CHARGE_PREPATH</a>)</div>
+<div class="line"><span class="lineno">   49</span>    {</div>
+<div class="line"><span class="lineno">   50</span>        unit-&gt;AddUnitState(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a868bf79cf39a2435d301ac1ade19e3a6">UNIT_STATE_CHARGING</a>);</div>
+<div class="line"><span class="lineno">   51</span>    }</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_variable" href="../../d7/d59/a10321.html#a5247656bbf2460cd4b60c207022581ec">i_recalculateSpeed</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_class" href="../../d1/dba/a10401.html">Movement::MoveSplineInit</a> init(unit);</div>
+<div class="line"><span class="lineno">   55</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.size() &gt; 2) <span class="comment">// pussywizard: for charge</span></div>
+<div class="line"><span class="lineno">   56</span>        init.MovebyPath(<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>);</div>
+<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a74611835dfb7cbaeaf177caec56be417">_generatePath</a>)</div>
+<div class="line"><span class="lineno">   58</span>    {</div>
+<div class="line"><span class="lineno">   59</span>        <a class="code hl_class" href="../../d5/d26/a10317.html">PathGenerator</a> path(unit);</div>
+<div class="line"><span class="lineno">   60</span>        <span class="keywordtype">bool</span> result = path.CalculatePath(<a class="code hl_variable" href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">i_x</a>, <a class="code hl_variable" href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">i_y</a>, <a class="code hl_variable" href="../../d7/d59/a10321.html#a4444b62b04d24b8b77cac0ef70bed4fc">i_z</a>, <a class="code hl_variable" href="../../d7/d59/a10321.html#aa6a7aa15e4ea21a73bbc674da87f3f0b">_forceDestination</a>);</div>
+<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">if</span> (result &amp;&amp; !(path.GetPathType() &amp; <a class="code hl_enumvalue" href="../../da/dcd/a01835.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984">PATHFIND_NOPATH</a>) &amp;&amp; path.GetPath().size() &gt; 2)</div>
+<div class="line"><span class="lineno">   62</span>        {</div>
+<div class="line"><span class="lineno">   63</span>            <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a> = path.GetPath();</div>
+<div class="line"><span class="lineno">   64</span>            init.MovebyPath(<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>);</div>
+<div class="line"><span class="lineno">   65</span>        }</div>
+<div class="line"><span class="lineno">   66</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   67</span>        {</div>
+<div class="line"><span class="lineno">   68</span>            <span class="comment">// Xinef: fix strange client visual bug, moving on z coordinate only switches orientation by 180 degrees (visual only)</span></div>
+<div class="line"><span class="lineno">   69</span>            <span class="keywordflow">if</span> (G3D::fuzzyEq(unit-&gt;GetPositionX(), <a class="code hl_variable" href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">i_x</a>) &amp;&amp; G3D::fuzzyEq(unit-&gt;GetPositionY(), <a class="code hl_variable" href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">i_y</a>))</div>
+<div class="line"><span class="lineno">   70</span>            {</div>
+<div class="line"><span class="lineno">   71</span>                <a class="code hl_variable" href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">i_x</a> += 0.2f * cos(unit-&gt;GetOrientation());</div>
+<div class="line"><span class="lineno">   72</span>                <a class="code hl_variable" href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">i_y</a> += 0.2f * std::sin(unit-&gt;GetOrientation());</div>
+<div class="line"><span class="lineno">   73</span>            }</div>
+<div class="line"><span class="lineno">   74</span> </div>
+<div class="line"><span class="lineno">   75</span>            init.MoveTo(<a class="code hl_variable" href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">i_x</a>, <a class="code hl_variable" href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">i_y</a>, <a class="code hl_variable" href="../../d7/d59/a10321.html#a4444b62b04d24b8b77cac0ef70bed4fc">i_z</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   76</span>        }</div>
+<div class="line"><span class="lineno">   77</span>    }</div>
+<div class="line"><span class="lineno">   78</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   79</span>    {</div>
+<div class="line"><span class="lineno">   80</span>        <span class="comment">// Xinef: fix strange client visual bug, moving on z coordinate only switches orientation by 180 degrees (visual only)</span></div>
+<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">if</span> (G3D::fuzzyEq(unit-&gt;GetPositionX(), <a class="code hl_variable" href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">i_x</a>) &amp;&amp; G3D::fuzzyEq(unit-&gt;GetPositionY(), <a class="code hl_variable" href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">i_y</a>))</div>
+<div class="line"><span class="lineno">   82</span>        {</div>
+<div class="line"><span class="lineno">   83</span>            <a class="code hl_variable" href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">i_x</a> += 0.2f * cos(unit-&gt;GetOrientation());</div>
+<div class="line"><span class="lineno">   84</span>            <a class="code hl_variable" href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">i_y</a> += 0.2f * std::sin(unit-&gt;GetOrientation());</div>
+<div class="line"><span class="lineno">   85</span>        }</div>
+<div class="line"><span class="lineno">   86</span> </div>
+<div class="line"><span class="lineno">   87</span>        init.MoveTo(<a class="code hl_variable" href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">i_x</a>, <a class="code hl_variable" href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">i_y</a>, <a class="code hl_variable" href="../../d7/d59/a10321.html#a4444b62b04d24b8b77cac0ef70bed4fc">i_z</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   88</span>    }</div>
+<div class="line"><span class="lineno">   89</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a802a423ddcd370a1f45813142070b5fd">speed</a> &gt; 0.0f)</div>
+<div class="line"><span class="lineno">   90</span>        init.SetVelocity(<a class="code hl_variable" href="../../d7/d59/a10321.html#a802a423ddcd370a1f45813142070b5fd">speed</a>);</div>
+<div class="line"><span class="lineno">   91</span> </div>
+<div class="line"><span class="lineno">   92</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a64c9d44a05702654b79d035bcc65032c">_forcedMovement</a> == <a class="code hl_enumvalue" href="../../d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37">FORCED_MOVEMENT_WALK</a>)</div>
+<div class="line"><span class="lineno">   93</span>        init.SetWalk(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   94</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a64c9d44a05702654b79d035bcc65032c">_forcedMovement</a> == <a class="code hl_enumvalue" href="../../d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2">FORCED_MOVEMENT_RUN</a>)</div>
+<div class="line"><span class="lineno">   95</span>        init.SetWalk(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   96</span> </div>
+<div class="line"><span class="lineno">   97</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a8c63903feea52d65dd4d013133207308">i_orientation</a> &gt; 0.0f)</div>
+<div class="line"><span class="lineno">   98</span>    {</div>
+<div class="line"><span class="lineno">   99</span>        init.SetFacing(<a class="code hl_variable" href="../../d7/d59/a10321.html#a8c63903feea52d65dd4d013133207308">i_orientation</a>);</div>
+<div class="line"><span class="lineno">  100</span>    }</div>
+<div class="line"><span class="lineno">  101</span> </div>
+<div class="line"><span class="lineno">  102</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a091c487af48837e82f546f4be6c824e1">_animTier</a>)</div>
+<div class="line"><span class="lineno">  103</span>        init.SetAnimation(*<a class="code hl_variable" href="../../d7/d59/a10321.html#a091c487af48837e82f546f4be6c824e1">_animTier</a>);</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>    init.Launch();</div>
+<div class="line"><span class="lineno">  106</span>}</div>
+<div class="ttc" id="aa01421_html_ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545"><div class="ttname"><a href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a></div><div class="ttdeci">@ UNIT_STATE_NOT_MOVE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:225</div></div>
+<div class="ttc" id="aa01829_html_a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37"><div class="ttname"><a href="../../d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37">FORCED_MOVEMENT_WALK</a></div><div class="ttdeci">@ FORCED_MOVEMENT_WALK</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:87</div></div>
+<div class="ttc" id="aa01829_html_a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2"><div class="ttname"><a href="../../d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2">FORCED_MOVEMENT_RUN</a></div><div class="ttdeci">@ FORCED_MOVEMENT_RUN</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:88</div></div>
+<div class="ttc" id="aa01835_html_ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984"><div class="ttname"><a href="../../da/dcd/a01835.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984">PATHFIND_NOPATH</a></div><div class="ttdeci">@ PATHFIND_NOPATH</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:50</div></div>
+<div class="ttc" id="aa10317_html"><div class="ttname"><a href="../../d5/d26/a10317.html">PathGenerator</a></div><div class="ttdef"><b>Definition:</b> PathGenerator.h:59</div></div>
+<div class="ttc" id="aa10321_html_a5247656bbf2460cd4b60c207022581ec"><div class="ttname"><a href="../../d7/d59/a10321.html#a5247656bbf2460cd4b60c207022581ec">PointMovementGenerator::i_recalculateSpeed</a></div><div class="ttdeci">bool i_recalculateSpeed</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:60</div></div>
+<div class="ttc" id="aa10321_html_ab2aa66a088a7bcf06c2b4fe6b5acf824"><div class="ttname"><a href="../../d7/d59/a10321.html#ab2aa66a088a7bcf06c2b4fe6b5acf824">PointMovementGenerator::_stalled</a></div><div class="ttdeci">bool _stalled</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:69</div></div>
+<div class="ttc" id="aa10321_html_af9838148fecfdb51a017c12f808fb563"><div class="ttname"><a href="../../d7/d59/a10321.html#af9838148fecfdb51a017c12f808fb563">PointMovementGenerator::_pauseTime</a></div><div class="ttdeci">std::optional&lt; int32 &gt; _pauseTime</div><div class="ttdef"><b>Definition:</b> PointMovementGenerator.h:71</div></div>
+<div class="ttc" id="aa10401_html"><div class="ttname"><a href="../../d1/dba/a10401.html">Movement::MoveSplineInit</a></div><div class="ttdef"><b>Definition:</b> MoveSplineInit.h:63</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00225">UNIT_STATE_NOT_MOVE</a>.</p>
+
+</div>
+</div>
+<a id="a6bcb5aa00fd281df102b3fb34dcbfea6" name="a6bcb5aa00fd281df102b3fb34dcbfea6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6bcb5aa00fd281df102b3fb34dcbfea6">&#9670;&#160;</a></span>DoReset()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">template void <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::DoReset </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  296</span>{</div>
+<div class="line"><span class="lineno">  297</span>    <span class="keywordflow">if</span> (!unit-&gt;IsStopped())</div>
+<div class="line"><span class="lineno">  298</span>        unit-&gt;StopMoving();</div>
+<div class="line"><span class="lineno">  299</span> </div>
+<div class="line"><span class="lineno">  300</span>    unit-&gt;AddUnitState(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544aa36759647797ae28c5b8c36dbb4872d5">UNIT_STATE_ROAMING</a> | <a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
+<div class="line"><span class="lineno">  301</span>    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> == <a class="code hl_enumvalue" href="../../d3/d31/a04292.html#a4cf8d4a4d56e9f795518b6541ddeb5bfa4dcdb8f71251fbaa12367412388a8f7e">EVENT_CHARGE</a> || <span class="keywordtype">id</span> == <a class="code hl_define" href="../../da/db4/a04199.html#a9c317db681d954aca490545ed2c1b929">EVENT_CHARGE_PREPATH</a>)</div>
+<div class="line"><span class="lineno">  302</span>    {</div>
+<div class="line"><span class="lineno">  303</span>        unit-&gt;AddUnitState(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a868bf79cf39a2435d301ac1ade19e3a6">UNIT_STATE_CHARGING</a>);</div>
+<div class="line"><span class="lineno">  304</span>    }</div>
+<div class="line"><span class="lineno">  305</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l03560">EVENT_CHARGE</a>, <a class="el" href="../../#l00108">EVENT_CHARGE_PREPATH</a>, <a class="el" href="../../#l00190">UNIT_STATE_CHARGING</a>, <a class="el" href="../../#l00177">UNIT_STATE_ROAMING</a>, and <a class="el" href="../../#l00195">UNIT_STATE_ROAMING_MOVE</a>.</p>
+
+</div>
+</div>
+<a id="a4d1db29c07ae319f6f76d06cc4eca525" name="a4d1db29c07ae319f6f76d06cc4eca525"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d1db29c07ae319f6f76d06cc4eca525">&#9670;&#160;</a></span>DoUpdate()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">template bool <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::DoUpdate </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  110</span>{</div>
+<div class="line"><span class="lineno">  111</span>    <span class="keywordflow">if</span> (!unit)</div>
+<div class="line"><span class="lineno">  112</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  113</span> </div>
+<div class="line"><span class="lineno">  114</span>    <span class="keywordflow">if</span> (unit-&gt;IsMovementPreventedByCasting())</div>
+<div class="line"><span class="lineno">  115</span>    {</div>
+<div class="line"><span class="lineno">  116</span>        unit-&gt;StopMoving();</div>
+<div class="line"><span class="lineno">  117</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  118</span>    }</div>
+<div class="line"><span class="lineno">  119</span> </div>
+<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">if</span> (unit-&gt;HasUnitState(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a>))</div>
+<div class="line"><span class="lineno">  121</span>    {</div>
+<div class="line"><span class="lineno">  122</span>        <span class="keywordflow">if</span> (!unit-&gt;HasUnitState(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a868bf79cf39a2435d301ac1ade19e3a6">UNIT_STATE_CHARGING</a>))</div>
+<div class="line"><span class="lineno">  123</span>            unit-&gt;StopMoving();</div>
+<div class="line"><span class="lineno">  124</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  125</span>    }</div>
+<div class="line"><span class="lineno">  126</span> </div>
+<div class="line"><span class="lineno">  127</span>    unit-&gt;AddUnitState(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
+<div class="line"><span class="lineno">  128</span> </div>
+<div class="line"><span class="lineno">  129</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#af9838148fecfdb51a017c12f808fb563">_pauseTime</a>.has_value())</div>
+<div class="line"><span class="lineno">  130</span>    {</div>
+<div class="line"><span class="lineno">  131</span>        <span class="keywordflow">if</span> (diff &gt;= <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(<a class="code hl_variable" href="../../d7/d59/a10321.html#af9838148fecfdb51a017c12f808fb563">_pauseTime</a>.value()))</div>
+<div class="line"><span class="lineno">  132</span>            <a class="code hl_variable" href="../../d7/d59/a10321.html#af9838148fecfdb51a017c12f808fb563">_pauseTime</a>.reset();</div>
+<div class="line"><span class="lineno">  133</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  134</span>        {</div>
+<div class="line"><span class="lineno">  135</span>            <a class="code hl_variable" href="../../d7/d59/a10321.html#af9838148fecfdb51a017c12f808fb563">_pauseTime</a> = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a><span class="keyword">&gt;</span>(<a class="code hl_variable" href="../../d7/d59/a10321.html#af9838148fecfdb51a017c12f808fb563">_pauseTime</a>.value() - diff);</div>
+<div class="line"><span class="lineno">  136</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  137</span>        }</div>
+<div class="line"><span class="lineno">  138</span> </div>
+<div class="line"><span class="lineno">  139</span>        <a class="code hl_variable" href="../../d7/d59/a10321.html#ae391133673b9907bc73966479bc71e95">_hasBeenStalled</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  140</span>        <a class="code hl_variable" href="../../d7/d59/a10321.html#ab2aa66a088a7bcf06c2b4fe6b5acf824">_stalled</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  141</span>        <a class="code hl_variable" href="../../d7/d59/a10321.html#a5247656bbf2460cd4b60c207022581ec">i_recalculateSpeed</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  142</span>    }</div>
+<div class="line"><span class="lineno">  143</span> </div>
+<div class="line"><span class="lineno">  144</span>    <span class="comment">// Relaunch path when speed changed or when resuming from a stall.</span></div>
+<div class="line"><span class="lineno">  145</span>    <span class="comment">// Keep an indefinitely paused movement stalled until Resume() clears _stalled.</span></div>
+<div class="line"><span class="lineno">  146</span>    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> != <a class="code hl_define" href="../../da/db4/a04199.html#a9c317db681d954aca490545ed2c1b929">EVENT_CHARGE_PREPATH</a> &amp;&amp; !<a class="code hl_variable" href="../../d7/d59/a10321.html#ab2aa66a088a7bcf06c2b4fe6b5acf824">_stalled</a> &amp;&amp; (<a class="code hl_variable" href="../../d7/d59/a10321.html#a5247656bbf2460cd4b60c207022581ec">i_recalculateSpeed</a> || <a class="code hl_variable" href="../../d7/d59/a10321.html#ae391133673b9907bc73966479bc71e95">_hasBeenStalled</a>))</div>
+<div class="line"><span class="lineno">  147</span>    {</div>
+<div class="line"><span class="lineno">  148</span>        <a class="code hl_variable" href="../../d7/d59/a10321.html#a5247656bbf2460cd4b60c207022581ec">i_recalculateSpeed</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  149</span>        <a class="code hl_class" href="../../d1/dba/a10401.html">Movement::MoveSplineInit</a> init(unit);</div>
+<div class="line"><span class="lineno">  150</span>        <span class="keyword">auto</span> rebasePrecomputedPath = [<span class="keyword">this</span>, unit](std::optional&lt;uint32&gt; offset = std::nullopt)</div>
+<div class="line"><span class="lineno">  151</span>        {</div>
+<div class="line"><span class="lineno">  152</span>            <a class="code hl_typedef" href="../../d7/d59/a05065.html#a86528b2e04ddf38b80888e45d6b9c37d">Movement::PointsArray</a> rebasedPath;</div>
+<div class="line"><span class="lineno">  153</span>            G3D::Vector3 currentPos(unit-&gt;GetPositionX(), unit-&gt;GetPositionY(), unit-&gt;GetPositionZ());</div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.empty())</div>
+<div class="line"><span class="lineno">  156</span>                <span class="keywordflow">return</span> rebasedPath;</div>
+<div class="line"><span class="lineno">  157</span> </div>
+<div class="line"><span class="lineno">  158</span>            <span class="keywordflow">if</span> (offset.has_value())</div>
+<div class="line"><span class="lineno">  159</span>            {</div>
+<div class="line"><span class="lineno">  160</span>                <span class="keywordflow">if</span> (offset.value() &gt;= <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.size())</div>
+<div class="line"><span class="lineno">  161</span>                {</div>
+<div class="line"><span class="lineno">  162</span>                    rebasedPath.push_back(currentPos);</div>
+<div class="line"><span class="lineno">  163</span>                    rebasedPath.push_back(<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.back());</div>
+<div class="line"><span class="lineno">  164</span>                    <span class="keywordflow">return</span> rebasedPath;</div>
+<div class="line"><span class="lineno">  165</span>                }</div>
+<div class="line"><span class="lineno">  166</span> </div>
+<div class="line"><span class="lineno">  167</span>                rebasedPath.insert(rebasedPath.end(), <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.begin() + offset.value(), <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.end());</div>
+<div class="line"><span class="lineno">  168</span>            }</div>
+<div class="line"><span class="lineno">  169</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  170</span>            {</div>
+<div class="line"><span class="lineno">  171</span>                <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> closestPointIndex = 0;</div>
+<div class="line"><span class="lineno">  172</span>                <span class="keywordtype">float</span> closestPointDist = std::numeric_limits&lt;float&gt;::max();</div>
+<div class="line"><span class="lineno">  173</span>                <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pointIndex = 1; pointIndex &lt; <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.size(); ++pointIndex)</div>
+<div class="line"><span class="lineno">  174</span>                {</div>
+<div class="line"><span class="lineno">  175</span>                    <span class="keywordtype">float</span> <span class="keyword">const</span> sqDist = (currentPos - <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>[pointIndex]).squaredLength();</div>
+<div class="line"><span class="lineno">  176</span>                    <span class="keywordflow">if</span> (sqDist &lt; closestPointDist)</div>
+<div class="line"><span class="lineno">  177</span>                    {</div>
+<div class="line"><span class="lineno">  178</span>                        closestPointDist = sqDist;</div>
+<div class="line"><span class="lineno">  179</span>                        closestPointIndex = pointIndex;</div>
+<div class="line"><span class="lineno">  180</span>                    }</div>
+<div class="line"><span class="lineno">  181</span>                }</div>
+<div class="line"><span class="lineno">  182</span> </div>
+<div class="line"><span class="lineno">  183</span>                rebasedPath.insert(rebasedPath.end(), <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.begin() + closestPointIndex, <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.end());</div>
+<div class="line"><span class="lineno">  184</span>            }</div>
+<div class="line"><span class="lineno">  185</span> </div>
+<div class="line"><span class="lineno">  186</span>            <span class="comment">// MovebyPath requires the first point to be the mover&#39;s current position.</span></div>
+<div class="line"><span class="lineno">  187</span>            rebasedPath.insert(rebasedPath.begin(), currentPos);</div>
+<div class="line"><span class="lineno">  188</span>            <span class="keywordflow">return</span> rebasedPath;</div>
+<div class="line"><span class="lineno">  189</span>        };</div>
+<div class="line"><span class="lineno">  190</span> </div>
+<div class="line"><span class="lineno">  191</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.size())</div>
+<div class="line"><span class="lineno">  192</span>        {</div>
+<div class="line"><span class="lineno">  193</span>            <span class="keywordflow">if</span> (!unit-&gt;movespline-&gt;Finalized())</div>
+<div class="line"><span class="lineno">  194</span>            {</div>
+<div class="line"><span class="lineno">  195</span>                <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> offset = std::min(<a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(unit-&gt;movespline-&gt;_currentSplineIdx()), <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.size()));</div>
+<div class="line"><span class="lineno">  196</span>                <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a> = rebasePrecomputedPath(offset);</div>
+<div class="line"><span class="lineno">  197</span> </div>
+<div class="line"><span class="lineno">  198</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.size() &gt; 2)</div>
+<div class="line"><span class="lineno">  199</span>                    init.MovebyPath(<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>);</div>
+<div class="line"><span class="lineno">  200</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.size() == 2)</div>
+<div class="line"><span class="lineno">  201</span>                    init.MoveTo(<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>[1].x, <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>[1].y, <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>[1].z, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  202</span>            }</div>
+<div class="line"><span class="lineno">  203</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  204</span>            {</div>
+<div class="line"><span class="lineno">  205</span>                <span class="comment">// Unit was stopped (finalized) due to Pause/StopMoving; trim path from current position.</span></div>
+<div class="line"><span class="lineno">  206</span>                <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a> = rebasePrecomputedPath();</div>
+<div class="line"><span class="lineno">  207</span> </div>
+<div class="line"><span class="lineno">  208</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.size() &gt; 2)</div>
+<div class="line"><span class="lineno">  209</span>                    init.MovebyPath(<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>);</div>
+<div class="line"><span class="lineno">  210</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>.size() == 2)</div>
+<div class="line"><span class="lineno">  211</span>                    init.MoveTo(<a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>[1].x, <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>[1].y, <a class="code hl_variable" href="../../d7/d59/a10321.html#a97a653d40f44d778b1ad30fd0bfba753">m_precomputedPath</a>[1].z, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  212</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  213</span>                    init.MoveTo(<a class="code hl_variable" href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">i_x</a>, <a class="code hl_variable" href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">i_y</a>, <a class="code hl_variable" href="../../d7/d59/a10321.html#a4444b62b04d24b8b77cac0ef70bed4fc">i_z</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  214</span>            }</div>
+<div class="line"><span class="lineno">  215</span>        }</div>
+<div class="line"><span class="lineno">  216</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  217</span>            init.MoveTo(<a class="code hl_variable" href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">i_x</a>, <a class="code hl_variable" href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">i_y</a>, <a class="code hl_variable" href="../../d7/d59/a10321.html#a4444b62b04d24b8b77cac0ef70bed4fc">i_z</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  218</span> </div>
+<div class="line"><span class="lineno">  219</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a802a423ddcd370a1f45813142070b5fd">speed</a> &gt; 0.0f) <span class="comment">// Default value for point motion type is 0.0, if 0.0 spline will use GetSpeed on unit</span></div>
+<div class="line"><span class="lineno">  220</span>            init.SetVelocity(<a class="code hl_variable" href="../../d7/d59/a10321.html#a802a423ddcd370a1f45813142070b5fd">speed</a>);</div>
+<div class="line"><span class="lineno">  221</span> </div>
+<div class="line"><span class="lineno">  222</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a64c9d44a05702654b79d035bcc65032c">_forcedMovement</a> == <a class="code hl_enumvalue" href="../../d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37">FORCED_MOVEMENT_WALK</a>)</div>
+<div class="line"><span class="lineno">  223</span>            init.SetWalk(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  224</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a64c9d44a05702654b79d035bcc65032c">_forcedMovement</a> == <a class="code hl_enumvalue" href="../../d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2">FORCED_MOVEMENT_RUN</a>)</div>
+<div class="line"><span class="lineno">  225</span>            init.SetWalk(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  226</span> </div>
+<div class="line"><span class="lineno">  227</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a091c487af48837e82f546f4be6c824e1">_animTier</a>)</div>
+<div class="line"><span class="lineno">  228</span>            init.SetAnimation(*<a class="code hl_variable" href="../../d7/d59/a10321.html#a091c487af48837e82f546f4be6c824e1">_animTier</a>);</div>
+<div class="line"><span class="lineno">  229</span> </div>
+<div class="line"><span class="lineno">  230</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#a8c63903feea52d65dd4d013133207308">i_orientation</a> &gt; 0.0f)</div>
+<div class="line"><span class="lineno">  231</span>            init.SetFacing(<a class="code hl_variable" href="../../d7/d59/a10321.html#a8c63903feea52d65dd4d013133207308">i_orientation</a>);</div>
+<div class="line"><span class="lineno">  232</span> </div>
+<div class="line"><span class="lineno">  233</span>        init.Launch();</div>
+<div class="line"><span class="lineno">  234</span>    }</div>
+<div class="line"><span class="lineno">  235</span> </div>
+<div class="line"><span class="lineno">  236</span>    <span class="comment">// If finalized but we were stalled (paused) keep generator active so Finalize() won&#39;t be called</span></div>
+<div class="line"><span class="lineno">  237</span>    <span class="keywordflow">if</span> (unit-&gt;movespline-&gt;Finalized())</div>
+<div class="line"><span class="lineno">  238</span>    {</div>
+<div class="line"><span class="lineno">  239</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d59/a10321.html#ae391133673b9907bc73966479bc71e95">_hasBeenStalled</a>)</div>
+<div class="line"><span class="lineno">  240</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  241</span> </div>
+<div class="line"><span class="lineno">  242</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  243</span>    }</div>
+<div class="line"><span class="lineno">  244</span> </div>
+<div class="line"><span class="lineno">  245</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  246</span>}</div>
+<div class="ttc" id="aa04568_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
+<div class="ttc" id="aa04568_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa05065_html_a86528b2e04ddf38b80888e45d6b9c37d"><div class="ttname"><a href="../../d7/d59/a05065.html#a86528b2e04ddf38b80888e45d6b9c37d">Movement::PointsArray</a></div><div class="ttdeci">std::vector&lt; Vector3 &gt; PointsArray</div><div class="ttdef"><b>Definition:</b> MoveSplineInitArgs.h:28</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00108">EVENT_CHARGE_PREPATH</a>, <a class="el" href="../../#l00088">FORCED_MOVEMENT_RUN</a>, <a class="el" href="../../#l00087">FORCED_MOVEMENT_WALK</a>, <a class="el" href="../../#l00035">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00168">Movement::MoveSplineInit::MovebyPath()</a>, <a class="el" href="../../#l00202">Movement::MoveSplineInit::MoveTo()</a>, <a class="el" href="../../#l00187">Movement::MoveSplineInit::SetAnimation()</a>, <a class="el" href="../../#l00188">Movement::MoveSplineInit::SetFacing()</a>, <a class="el" href="../../#l00162">Movement::MoveSplineInit::SetVelocity()</a>, <a class="el" href="../../#l00158">Movement::MoveSplineInit::SetWalk()</a>, <a class="el" href="../../#l00190">UNIT_STATE_CHARGING</a>, <a class="el" href="../../#l00225">UNIT_STATE_NOT_MOVE</a>, and <a class="el" href="../../#l00195">UNIT_STATE_ROAMING_MOVE</a>.</p>
+
+</div>
+</div>
+<a id="af49ef70c422e7acbeb5cb6a55130ab61" name="af49ef70c422e7acbeb5cb6a55130ab61"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af49ef70c422e7acbeb5cb6a55130ab61">&#9670;&#160;</a></span>GetDestination()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::GetDestination </td>
+          <td>(</td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname"><em>z</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   54</span>{ x = <a class="code hl_variable" href="../../d7/d59/a10321.html#aa34a4a7d3459bb21b30bf1b242dcb306">i_x</a>; y = <a class="code hl_variable" href="../../d7/d59/a10321.html#af728b5d511fde310fcc249ef26b59267">i_y</a>; z = <a class="code hl_variable" href="../../d7/d59/a10321.html#a4444b62b04d24b8b77cac0ef70bed4fc">i_z</a>; <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00057">PointMovementGenerator&lt; T &gt;::i_x</a>, <a class="el" href="../../#l00057">PointMovementGenerator&lt; T &gt;::i_y</a>, and <a class="el" href="../../#l00057">PointMovementGenerator&lt; T &gt;::i_z</a>.</p>
+
+</div>
+</div>
+<a id="a84998a5e4e6628b4f2374fd2990fea68" name="a84998a5e4e6628b4f2374fd2990fea68"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a84998a5e4e6628b4f2374fd2990fea68">&#9670;&#160;</a></span>GetMovementGeneratorType()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9">MovementGeneratorType</a> <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::GetMovementGeneratorType </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="../../da/d1b/a10257.html#a60bac341b438ea7258986f234a952324">MovementGenerator</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{ <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467">POINT_MOTION_TYPE</a>; }</div>
+<div class="ttc" id="aa01829_html_a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467"><div class="ttname"><a href="../../d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467">POINT_MOTION_TYPE</a></div><div class="ttdeci">@ POINT_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:48</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">POINT_MOTION_TYPE</a>.</p>
+
+</div>
+</div>
+<a id="a6bb0bf8d9225906331756383ef0bb418" name="a6bb0bf8d9225906331756383ef0bb418"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6bb0bf8d9225906331756383ef0bb418">&#9670;&#160;</a></span>MovementInform()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::MovementInform </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  309</span>{</div>
+<div class="line"><span class="lineno">  310</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a7605fcf7552ebc5f353eebee1a165695" name="a7605fcf7552ebc5f353eebee1a165695"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7605fcf7552ebc5f353eebee1a165695">&#9670;&#160;</a></span>Pause()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">template void <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::Pause </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>timer</em> = <code>0</code></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../da/d1b/a10257.html#a37530e5cd743faecabd21eba08dce939">MovementGenerator</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  272</span>{</div>
+<div class="line"><span class="lineno">  273</span>    <a class="code hl_variable" href="../../d7/d59/a10321.html#ab2aa66a088a7bcf06c2b4fe6b5acf824">_stalled</a> = timer ? false : <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  274</span>    <a class="code hl_variable" href="../../d7/d59/a10321.html#ae391133673b9907bc73966479bc71e95">_hasBeenStalled</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  275</span>    <span class="keywordflow">if</span> (timer)</div>
+<div class="line"><span class="lineno">  276</span>        <a class="code hl_variable" href="../../d7/d59/a10321.html#af9838148fecfdb51a017c12f808fb563">_pauseTime</a> = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a><span class="keyword">&gt;</span>(timer);</div>
+<div class="line"><span class="lineno">  277</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  278</span>        <a class="code hl_variable" href="../../d7/d59/a10321.html#af9838148fecfdb51a017c12f808fb563">_pauseTime</a>.reset();</div>
+<div class="line"><span class="lineno">  279</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a6fc876bfef21154dceb3f5ceba5c148b" name="a6fc876bfef21154dceb3f5ceba5c148b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6fc876bfef21154dceb3f5ceba5c148b">&#9670;&#160;</a></span>Resume()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">template void <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::Resume </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>overrideTimer</em> = <code>0</code></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../da/d1b/a10257.html#a51988a8b0a45459242467e38ca46303c">MovementGenerator</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  283</span>{</div>
+<div class="line"><span class="lineno">  284</span>    <a class="code hl_variable" href="../../d7/d59/a10321.html#ae391133673b9907bc73966479bc71e95">_hasBeenStalled</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  285</span>    <a class="code hl_variable" href="../../d7/d59/a10321.html#ab2aa66a088a7bcf06c2b4fe6b5acf824">_stalled</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  286</span>    <span class="keywordflow">if</span> (overrideTimer)</div>
+<div class="line"><span class="lineno">  287</span>        <a class="code hl_variable" href="../../d7/d59/a10321.html#af9838148fecfdb51a017c12f808fb563">_pauseTime</a> = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a><span class="keyword">&gt;</span>(overrideTimer);</div>
+<div class="line"><span class="lineno">  288</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  289</span>        <a class="code hl_variable" href="../../d7/d59/a10321.html#af9838148fecfdb51a017c12f808fb563">_pauseTime</a>.reset();</div>
+<div class="line"><span class="lineno">  290</span> </div>
+<div class="line"><span class="lineno">  291</span>    <a class="code hl_variable" href="../../d7/d59/a10321.html#a5247656bbf2460cd4b60c207022581ec">i_recalculateSpeed</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  292</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a5884c1b3288f076bbc3faed37c167d5e" name="a5884c1b3288f076bbc3faed37c167d5e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5884c1b3288f076bbc3faed37c167d5e">&#9670;&#160;</a></span>unitSpeedChanged()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::unitSpeedChanged </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../da/d1b/a10257.html#a0f9c4fd52947688dcda1161924e829bb">MovementGenerator</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{ <a class="code hl_variable" href="../../d7/d59/a10321.html#a5247656bbf2460cd4b60c207022581ec">i_recalculateSpeed</a> = <span class="keyword">true</span>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00060">PointMovementGenerator&lt; T &gt;::i_recalculateSpeed</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a483d83836ccbe90a842c09f7d4906436" name="a483d83836ccbe90a842c09f7d4906436"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a483d83836ccbe90a842c09f7d4906436">&#9670;&#160;</a></span>_time</h2>
+<a id="a091c487af48837e82f546f4be6c824e1" name="a091c487af48837e82f546f4be6c824e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a091c487af48837e82f546f4be6c824e1">&#9670;&#160;</a></span>_animTier</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> Movement::CommonInitializer::_time</td>
+          <td class="memname">std::optional&lt;<a class="el" href="../../d6/dbd/a01829.html#ae799184a3f3653b4b574f6df7a414255">AnimTier</a>&gt; <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::_animTier</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00112">operator()()</a>.</p>
-
 </div>
 </div>
-<a id="ac2f731afc2aae338bb8b1b616b0a39c1" name="ac2f731afc2aae338bb8b1b616b0a39c1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac2f731afc2aae338bb8b1b616b0a39c1">&#9670;&#160;</a></span>velocityInv</h2>
+<a id="a26496f8fcfeb2097d7c4c35bfdbdb357" name="a26496f8fcfeb2097d7c4c35bfdbdb357"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a26496f8fcfeb2097d7c4c35bfdbdb357">&#9670;&#160;</a></span>_chargeTargetGUID</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float Movement::CommonInitializer::velocityInv</td>
+          <td class="memname"><a class="el" href="../../de/d62/a08709.html">ObjectGuid</a> <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::_chargeTargetGUID</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00112">operator()()</a>.</p>
+</div>
+</div>
+<a id="aa3cf06d166dea10292c44fc5c5443dba" name="aa3cf06d166dea10292c44fc5c5443dba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa3cf06d166dea10292c44fc5c5443dba">&#9670;&#160;</a></span>_facingTargetGuid</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d62/a08709.html">ObjectGuid</a> <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::_facingTargetGuid</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa6a7aa15e4ea21a73bbc674da87f3f0b" name="aa6a7aa15e4ea21a73bbc674da87f3f0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa6a7aa15e4ea21a73bbc674da87f3f0b">&#9670;&#160;</a></span>_forceDestination</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::_forceDestination</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a64c9d44a05702654b79d035bcc65032c" name="a64c9d44a05702654b79d035bcc65032c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a64c9d44a05702654b79d035bcc65032c">&#9670;&#160;</a></span>_forcedMovement</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0">ForcedMovement</a> <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::_forcedMovement</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a74611835dfb7cbaeaf177caec56be417" name="a74611835dfb7cbaeaf177caec56be417"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a74611835dfb7cbaeaf177caec56be417">&#9670;&#160;</a></span>_generatePath</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::_generatePath</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae391133673b9907bc73966479bc71e95" name="ae391133673b9907bc73966479bc71e95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae391133673b9907bc73966479bc71e95">&#9670;&#160;</a></span>_hasBeenStalled</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::_hasBeenStalled {}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af9838148fecfdb51a017c12f808fb563" name="af9838148fecfdb51a017c12f808fb563"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9838148fecfdb51a017c12f808fb563">&#9670;&#160;</a></span>_pauseTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::optional&lt;<a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&gt; <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::_pauseTime</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab8c0026f0f7889cbe6782f407fa58234" name="ab8c0026f0f7889cbe6782f407fa58234"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8c0026f0f7889cbe6782f407fa58234">&#9670;&#160;</a></span>_reverseOrientation</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::_reverseOrientation</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab2aa66a088a7bcf06c2b4fe6b5acf824" name="ab2aa66a088a7bcf06c2b4fe6b5acf824"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab2aa66a088a7bcf06c2b4fe6b5acf824">&#9670;&#160;</a></span>_stalled</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::_stalled {}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8c63903feea52d65dd4d013133207308" name="a8c63903feea52d65dd4d013133207308"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c63903feea52d65dd4d013133207308">&#9670;&#160;</a></span>i_orientation</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::i_orientation</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5247656bbf2460cd4b60c207022581ec" name="a5247656bbf2460cd4b60c207022581ec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5247656bbf2460cd4b60c207022581ec">&#9670;&#160;</a></span>i_recalculateSpeed</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::i_recalculateSpeed {}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00050">PointMovementGenerator&lt; T &gt;::unitSpeedChanged()</a>.</p>
+
+</div>
+</div>
+<a id="aa34a4a7d3459bb21b30bf1b242dcb306" name="aa34a4a7d3459bb21b30bf1b242dcb306"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa34a4a7d3459bb21b30bf1b242dcb306">&#9670;&#160;</a></span>i_x</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::i_x</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00054">PointMovementGenerator&lt; T &gt;::GetDestination()</a>.</p>
+
+</div>
+</div>
+<a id="af728b5d511fde310fcc249ef26b59267" name="af728b5d511fde310fcc249ef26b59267"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af728b5d511fde310fcc249ef26b59267">&#9670;&#160;</a></span>i_y</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::i_y</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00054">PointMovementGenerator&lt; T &gt;::GetDestination()</a>.</p>
+
+</div>
+</div>
+<a id="a4444b62b04d24b8b77cac0ef70bed4fc" name="a4444b62b04d24b8b77cac0ef70bed4fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4444b62b04d24b8b77cac0ef70bed4fc">&#9670;&#160;</a></span>i_z</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::i_z</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00054">PointMovementGenerator&lt; T &gt;::GetDestination()</a>.</p>
+
+</div>
+</div>
+<a id="ae5ccfacff01eae1ac14009ced2eb3fc0" name="ae5ccfacff01eae1ac14009ced2eb3fc0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae5ccfacff01eae1ac14009ced2eb3fc0">&#9670;&#160;</a></span>id</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::id</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a97a653d40f44d778b1ad30fd0bfba753" name="a97a653d40f44d778b1ad30fd0bfba753"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a97a653d40f44d778b1ad30fd0bfba753">&#9670;&#160;</a></span>m_precomputedPath</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/d59/a05065.html#a86528b2e04ddf38b80888e45d6b9c37d">Movement::PointsArray</a> <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::m_precomputedPath</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00030">PointMovementGenerator&lt; T &gt;::PointMovementGenerator()</a>.</p>
+
+</div>
+</div>
+<a id="a802a423ddcd370a1f45813142070b5fd" name="a802a423ddcd370a1f45813142070b5fd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a802a423ddcd370a1f45813142070b5fd">&#9670;&#160;</a></span>speed</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float <a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a>&lt; T &gt;::speed</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -240,8 +1377,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/dbe/a05029.html">Movement</a></li><li class="navelem"><a class="el" href="../../d7/d59/a10321.html">CommonInitializer</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:10:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d59/a10321.html">PointMovementGenerator</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:29:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,6 @@
 var a18885 =
 [
-    [ "npc_icc_lk_checktargetAI", "d3/d8d/a18885.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
-    [ "CanAIAttack", "d3/d8d/a18885.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
+    [ "npc_impaling_spearAI", "d3/de1/a18889.html", "d3/de1/a18889" ],
+    [ "npc_impaling_spear", "d3/d8d/a18885.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "d3/d8d/a18885.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

@@ -1,8 +1,6 @@
 var a18093 =
 [
-    [ "npc_gunship_mageAI", "df/db6/a18093.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "df/db6/a18093.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "df/db6/a18093.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "df/db6/a18093.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "df/db6/a18093.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "FilterTargets", "df/db6/a18093.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
+    [ "PrepareSpellScript", "df/db6/a18093.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
+    [ "Register", "df/db6/a18093.html#a32e04a1110d651701b8eab1648c69a57", null ]
 ];

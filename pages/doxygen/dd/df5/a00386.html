@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/Duration.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/OutdoorPvP/OutdoorPvP.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,354 +105,184 @@ $(document).ready(function(){initNavTree('dd/df5/a00386.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">Duration.h File Reference</div></div>
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">OutdoorPvP.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;chrono&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ZoneScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldStatePackets.h</a>&quot;</code><br />
+<code>#include &lt;array&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d11/a10437.html">go_type</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d38/a10441.html">creature_type</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd0/a10445.html">OPvPCapturePoint</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d8c/a10449.html">OutdoorPvP</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a61d2d26058751cc92ed3744e7216a061"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#a61d2d26058751cc92ed3744e7216a061">MAX_OUTDOORPVP_TYPES</a>&#160;&#160;&#160;8</td></tr>
+<tr class="separator:a61d2d26058751cc92ed3744e7216a061"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:a201a83ed0d59d2baf946daf42dac834f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#a201a83ed0d59d2baf946daf42dac834f">Microseconds</a> = std::chrono::microseconds</td></tr>
-<tr class="memdesc:a201a83ed0d59d2baf946daf42dac834f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Microseconds shorthand typedef.  <a href="../../dd/df5/a00386.html#a201a83ed0d59d2baf946daf42dac834f">More...</a><br /></td></tr>
-<tr class="separator:a201a83ed0d59d2baf946daf42dac834f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1c3834b9e3853535027d58bf21bec81f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> = std::chrono::milliseconds</td></tr>
-<tr class="memdesc:a1c3834b9e3853535027d58bf21bec81f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Milliseconds shorthand typedef.  <a href="../../dd/df5/a00386.html#a1c3834b9e3853535027d58bf21bec81f">More...</a><br /></td></tr>
-<tr class="separator:a1c3834b9e3853535027d58bf21bec81f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3cd82f1c195a0b935b4d66b02a41acd8"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> = std::chrono::seconds</td></tr>
-<tr class="memdesc:a3cd82f1c195a0b935b4d66b02a41acd8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Seconds shorthand typedef.  <a href="../../dd/df5/a00386.html#a3cd82f1c195a0b935b4d66b02a41acd8">More...</a><br /></td></tr>
-<tr class="separator:a3cd82f1c195a0b935b4d66b02a41acd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af2161f9db850581e2228078614990df8"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#af2161f9db850581e2228078614990df8">Minutes</a> = std::chrono::minutes</td></tr>
-<tr class="memdesc:af2161f9db850581e2228078614990df8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Minutes shorthand typedef.  <a href="../../dd/df5/a00386.html#af2161f9db850581e2228078614990df8">More...</a><br /></td></tr>
-<tr class="separator:af2161f9db850581e2228078614990df8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0f87984d2b3835a61dffc22ae8bf083"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#aa0f87984d2b3835a61dffc22ae8bf083">Hours</a> = std::chrono::hours</td></tr>
-<tr class="memdesc:aa0f87984d2b3835a61dffc22ae8bf083"><td class="mdescLeft">&#160;</td><td class="mdescRight">Hours shorthand typedef.  <a href="../../dd/df5/a00386.html#aa0f87984d2b3835a61dffc22ae8bf083">More...</a><br /></td></tr>
-<tr class="separator:aa0f87984d2b3835a61dffc22ae8bf083"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af5dc5e7ad7b3f6d8e84530de842d125b"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a> = std::chrono::days</td></tr>
-<tr class="memdesc:af5dc5e7ad7b3f6d8e84530de842d125b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Days shorthand typedef.  <a href="../../dd/df5/a00386.html#af5dc5e7ad7b3f6d8e84530de842d125b">More...</a><br /></td></tr>
-<tr class="separator:af5dc5e7ad7b3f6d8e84530de842d125b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a983745490d3d3a0322c4ccf0f418f179"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a> = std::chrono::weeks</td></tr>
-<tr class="memdesc:a983745490d3d3a0322c4ccf0f418f179"><td class="mdescLeft">&#160;</td><td class="mdescRight">Weeks shorthand typedef.  <a href="../../dd/df5/a00386.html#a983745490d3d3a0322c4ccf0f418f179">More...</a><br /></td></tr>
-<tr class="separator:a983745490d3d3a0322c4ccf0f418f179"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab4fa20b33a9b5ee358963159b01d72f3"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a> = std::chrono::years</td></tr>
-<tr class="memdesc:ab4fa20b33a9b5ee358963159b01d72f3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Years shorthand typedef.  <a href="../../dd/df5/a00386.html#ab4fa20b33a9b5ee358963159b01d72f3">More...</a><br /></td></tr>
-<tr class="separator:ab4fa20b33a9b5ee358963159b01d72f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5f2ffeea2459944dfaa4443f1efb7f42"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a> = std::chrono::months</td></tr>
-<tr class="memdesc:a5f2ffeea2459944dfaa4443f1efb7f42"><td class="mdescLeft">&#160;</td><td class="mdescRight">Months shorthand typedef.  <a href="../../dd/df5/a00386.html#a5f2ffeea2459944dfaa4443f1efb7f42">More...</a><br /></td></tr>
-<tr class="separator:a5f2ffeea2459944dfaa4443f1efb7f42"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae5ca775e8d8c664b6edef818ce1251b9"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> = std::chrono::steady_clock::time_point</td></tr>
-<tr class="memdesc:ae5ca775e8d8c664b6edef818ce1251b9"><td class="mdescLeft">&#160;</td><td class="mdescRight">time_point shorthand typedefs  <a href="../../dd/df5/a00386.html#ae5ca775e8d8c664b6edef818ce1251b9">More...</a><br /></td></tr>
-<tr class="separator:ae5ca775e8d8c664b6edef818ce1251b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ada798961abc5a533d616ff780f567bb6"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a> = std::chrono::system_clock::time_point</td></tr>
-<tr class="separator:ada798961abc5a533d616ff780f567bb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a080aeb08f4e15904e94076846a03e927"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d3/da4/a01343.html#a62874da4f73709809fa3c7609d3e30af">GuidSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#a080aeb08f4e15904e94076846a03e927">PlayerSet</a></td></tr>
+<tr class="separator:a080aeb08f4e15904e94076846a03e927"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:ae62919aa53468bfadd4984bdd0498c03"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/df5/a00386.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#ae62919aa53468bfadd4984bdd0498c03">operator&quot;&quot;_days</a> (unsigned long long days)</td></tr>
-<tr class="separator:ae62919aa53468bfadd4984bdd0498c03"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7ff3ff81243ee7b2ce873364bb7ad676"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/df5/a00386.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#a7ff3ff81243ee7b2ce873364bb7ad676">operator&quot;&quot;_weeks</a> (unsigned long long weeks)</td></tr>
-<tr class="separator:a7ff3ff81243ee7b2ce873364bb7ad676"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a25baa64022678f43cf423c945dbd0226"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/df5/a00386.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#a25baa64022678f43cf423c945dbd0226">operator&quot;&quot;_years</a> (unsigned long long years)</td></tr>
-<tr class="separator:a25baa64022678f43cf423c945dbd0226"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f38d5f5e7db75251b49712f910059ac"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/df5/a00386.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#a7f38d5f5e7db75251b49712f910059ac">operator&quot;&quot;_months</a> (unsigned long long months)</td></tr>
-<tr class="separator:a7f38d5f5e7db75251b49712f910059ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a56e7764289940901c2a230103f78adee"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adee">OutdoorPvPTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780">OUTDOOR_PVP_HP</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811">OUTDOOR_PVP_NA</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab">OUTDOOR_PVP_TF</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc">OUTDOOR_PVP_ZM</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e">OUTDOOR_PVP_SI</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125">OUTDOOR_PVP_EP</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6">OUTDOOR_PVP_GH</a> = 7
+<br />
+ }</td></tr>
+<tr class="separator:a56e7764289940901c2a230103f78adee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7908847b61cb33598912d94a2c0d153a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153a">ObjectiveStates</a> { <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6">OBJECTIVESTATE_NEUTRAL</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01">OBJECTIVESTATE_ALLIANCE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545">OBJECTIVESTATE_HORDE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683">OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143">OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b">OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a">OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a>
+<br />
+ }</td></tr>
+<tr class="separator:a7908847b61cb33598912d94a2c0d153a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a61d2d26058751cc92ed3744e7216a061" name="a61d2d26058751cc92ed3744e7216a061"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61d2d26058751cc92ed3744e7216a061">&#9670;&#160;</a></span>MAX_OUTDOORPVP_TYPES</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_OUTDOORPVP_TYPES&#160;&#160;&#160;8</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Typedef Documentation</h2>
-<a id="af5dc5e7ad7b3f6d8e84530de842d125b" name="af5dc5e7ad7b3f6d8e84530de842d125b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5dc5e7ad7b3f6d8e84530de842d125b">&#9670;&#160;</a></span>Days</h2>
+<a id="a080aeb08f4e15904e94076846a03e927" name="a080aeb08f4e15904e94076846a03e927"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a080aeb08f4e15904e94076846a03e927">&#9670;&#160;</a></span>PlayerSet</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../dd/df5/a00386.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a> =  std::chrono::days</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Days shorthand typedef. </p>
-
-</div>
-</div>
-<a id="aa0f87984d2b3835a61dffc22ae8bf083" name="aa0f87984d2b3835a61dffc22ae8bf083"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa0f87984d2b3835a61dffc22ae8bf083">&#9670;&#160;</a></span>Hours</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../dd/df5/a00386.html#aa0f87984d2b3835a61dffc22ae8bf083">Hours</a> =  std::chrono::hours</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Hours shorthand typedef. </p>
-
-</div>
-</div>
-<a id="a201a83ed0d59d2baf946daf42dac834f" name="a201a83ed0d59d2baf946daf42dac834f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a201a83ed0d59d2baf946daf42dac834f">&#9670;&#160;</a></span>Microseconds</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../dd/df5/a00386.html#a201a83ed0d59d2baf946daf42dac834f">Microseconds</a> =  std::chrono::microseconds</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Microseconds shorthand typedef. </p>
-
-</div>
-</div>
-<a id="a1c3834b9e3853535027d58bf21bec81f" name="a1c3834b9e3853535027d58bf21bec81f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1c3834b9e3853535027d58bf21bec81f">&#9670;&#160;</a></span>Milliseconds</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../dd/df5/a00386.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> =  std::chrono::milliseconds</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Milliseconds shorthand typedef. </p>
-
-</div>
-</div>
-<a id="af2161f9db850581e2228078614990df8" name="af2161f9db850581e2228078614990df8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2161f9db850581e2228078614990df8">&#9670;&#160;</a></span>Minutes</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../dd/df5/a00386.html#af2161f9db850581e2228078614990df8">Minutes</a> =  std::chrono::minutes</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Minutes shorthand typedef. </p>
-
-</div>
-</div>
-<a id="a5f2ffeea2459944dfaa4443f1efb7f42" name="a5f2ffeea2459944dfaa4443f1efb7f42"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5f2ffeea2459944dfaa4443f1efb7f42">&#9670;&#160;</a></span>Months</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../dd/df5/a00386.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a> =  std::chrono::months</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Months shorthand typedef. </p>
-
-</div>
-</div>
-<a id="a3cd82f1c195a0b935b4d66b02a41acd8" name="a3cd82f1c195a0b935b4d66b02a41acd8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3cd82f1c195a0b935b4d66b02a41acd8">&#9670;&#160;</a></span>Seconds</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../dd/df5/a00386.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> =  std::chrono::seconds</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Seconds shorthand typedef. </p>
-
-</div>
-</div>
-<a id="ada798961abc5a533d616ff780f567bb6" name="ada798961abc5a533d616ff780f567bb6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ada798961abc5a533d616ff780f567bb6">&#9670;&#160;</a></span>SystemTimePoint</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../dd/df5/a00386.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a> =  std::chrono::system_clock::time_point</td>
+          <td class="memname">typedef <a class="el" href="../../d3/da4/a01343.html#a62874da4f73709809fa3c7609d3e30af">GuidSet</a> <a class="el" href="../../dd/df5/a00386.html#a080aeb08f4e15904e94076846a03e927">PlayerSet</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="ae5ca775e8d8c664b6edef818ce1251b9" name="ae5ca775e8d8c664b6edef818ce1251b9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae5ca775e8d8c664b6edef818ce1251b9">&#9670;&#160;</a></span>TimePoint</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a7908847b61cb33598912d94a2c0d153a" name="a7908847b61cb33598912d94a2c0d153a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7908847b61cb33598912d94a2c0d153a">&#9670;&#160;</a></span>ObjectiveStates</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../dd/df5/a00386.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> =  std::chrono::steady_clock::time_point</td>
+          <td class="memname">enum <a class="el" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153a">ObjectiveStates</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p>time_point shorthand typedefs </p>
-
-</div>
-</div>
-<a id="a983745490d3d3a0322c4ccf0f418f179" name="a983745490d3d3a0322c4ccf0f418f179"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a983745490d3d3a0322c4ccf0f418f179">&#9670;&#160;</a></span>Weeks</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../dd/df5/a00386.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a> =  std::chrono::weeks</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Weeks shorthand typedef. </p>
-
-</div>
-</div>
-<a id="ab4fa20b33a9b5ee358963159b01d72f3" name="ab4fa20b33a9b5ee358963159b01d72f3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab4fa20b33a9b5ee358963159b01d72f3">&#9670;&#160;</a></span>Years</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../dd/df5/a00386.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a> =  std::chrono::years</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Years shorthand typedef. </p>
-
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="ae62919aa53468bfadd4984bdd0498c03" name="ae62919aa53468bfadd4984bdd0498c03"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae62919aa53468bfadd4984bdd0498c03">&#9670;&#160;</a></span>operator&quot;&quot;_days()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../dd/df5/a00386.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a> operator&quot;&quot;_days </td>
-          <td>(</td>
-          <td class="paramtype">unsigned long long&#160;</td>
-          <td class="paramname"><em>days</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6" name="a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6"></a>OBJECTIVESTATE_NEUTRAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01" name="a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01"></a>OBJECTIVESTATE_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545" name="a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545"></a>OBJECTIVESTATE_HORDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683" name="a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683"></a>OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143" name="a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143"></a>OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b" name="a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b"></a>OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a" name="a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a"></a>OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   76</span>{</div>
-<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../dd/df5/a00386.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a>(days);</div>
-<div class="line"><span class="lineno">   78</span>}</div>
-<div class="ttc" id="aa00386_html_af5dc5e7ad7b3f6d8e84530de842d125b"><div class="ttname"><a href="../../dd/df5/a00386.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a></div><div class="ttdeci">std::chrono::days Days</div><div class="ttdoc">Days shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:55</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6">OBJECTIVESTATE_NEUTRAL</a> = 0,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01">OBJECTIVESTATE_ALLIANCE</a>,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545">OBJECTIVESTATE_HORDE</a>,</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683">OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a>,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143">OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a>,</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b">OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a>,</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a">OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a>,</div>
+<div class="line"><span class="lineno">   50</span>};</div>
+<div class="ttc" id="aa00386_html_a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545"><div class="ttname"><a href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545">OBJECTIVESTATE_HORDE</a></div><div class="ttdeci">@ OBJECTIVESTATE_HORDE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:45</div></div>
+<div class="ttc" id="aa00386_html_a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143"><div class="ttname"><a href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143">OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a></div><div class="ttdeci">@ OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:47</div></div>
+<div class="ttc" id="aa00386_html_a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01"><div class="ttname"><a href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01">OBJECTIVESTATE_ALLIANCE</a></div><div class="ttdeci">@ OBJECTIVESTATE_ALLIANCE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:44</div></div>
+<div class="ttc" id="aa00386_html_a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683"><div class="ttname"><a href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683">OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a></div><div class="ttdeci">@ OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:46</div></div>
+<div class="ttc" id="aa00386_html_a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a"><div class="ttname"><a href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a">OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a></div><div class="ttdeci">@ OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:49</div></div>
+<div class="ttc" id="aa00386_html_a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6"><div class="ttname"><a href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6">OBJECTIVESTATE_NEUTRAL</a></div><div class="ttdeci">@ OBJECTIVESTATE_NEUTRAL</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:43</div></div>
+<div class="ttc" id="aa00386_html_a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b"><div class="ttname"><a href="../../dd/df5/a00386.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b">OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a></div><div class="ttdeci">@ OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:48</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a7f38d5f5e7db75251b49712f910059ac" name="a7f38d5f5e7db75251b49712f910059ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7f38d5f5e7db75251b49712f910059ac">&#9670;&#160;</a></span>operator&quot;&quot;_months()</h2>
+<a id="a56e7764289940901c2a230103f78adee" name="a56e7764289940901c2a230103f78adee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a56e7764289940901c2a230103f78adee">&#9670;&#160;</a></span>OutdoorPvPTypes</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr <a class="el" href="../../dd/df5/a00386.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a> operator&quot;&quot;_months </td>
-          <td>(</td>
-          <td class="paramtype">unsigned long long&#160;</td>
-          <td class="paramname"><em>months</em></td><td>)</td>
-          <td></td>
+          <td class="memname">enum <a class="el" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adee">OutdoorPvPTypes</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   91</span>{</div>
-<div class="line"><span class="lineno">   92</span>    <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../dd/df5/a00386.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a>(months);</div>
-<div class="line"><span class="lineno">   93</span>}</div>
-<div class="ttc" id="aa00386_html_a5f2ffeea2459944dfaa4443f1efb7f42"><div class="ttname"><a href="../../dd/df5/a00386.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a></div><div class="ttdeci">std::chrono::months Months</div><div class="ttdoc">Months shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:64</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a7ff3ff81243ee7b2ce873364bb7ad676" name="a7ff3ff81243ee7b2ce873364bb7ad676"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7ff3ff81243ee7b2ce873364bb7ad676">&#9670;&#160;</a></span>operator&quot;&quot;_weeks()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../dd/df5/a00386.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a> operator&quot;&quot;_weeks </td>
-          <td>(</td>
-          <td class="paramtype">unsigned long long&#160;</td>
-          <td class="paramname"><em>weeks</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780" name="a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780"></a>OUTDOOR_PVP_HP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811" name="a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811"></a>OUTDOOR_PVP_NA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab" name="a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab"></a>OUTDOOR_PVP_TF&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc" name="a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc"></a>OUTDOOR_PVP_ZM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e" name="a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e"></a>OUTDOOR_PVP_SI&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125" name="a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125"></a>OUTDOOR_PVP_EP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6" name="a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6"></a>OUTDOOR_PVP_GH&#160;</td><td class="fielddoc"></td></tr>
 </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
-<div class="line"><span class="lineno">   82</span>    <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../dd/df5/a00386.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a>(weeks);</div>
-<div class="line"><span class="lineno">   83</span>}</div>
-<div class="ttc" id="aa00386_html_a983745490d3d3a0322c4ccf0f418f179"><div class="ttname"><a href="../../dd/df5/a00386.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a></div><div class="ttdeci">std::chrono::weeks Weeks</div><div class="ttdoc">Weeks shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:58</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a25baa64022678f43cf423c945dbd0226" name="a25baa64022678f43cf423c945dbd0226"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a25baa64022678f43cf423c945dbd0226">&#9670;&#160;</a></span>operator&quot;&quot;_years()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr <a class="el" href="../../dd/df5/a00386.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a> operator&quot;&quot;_years </td>
-          <td>(</td>
-          <td class="paramtype">unsigned long long&#160;</td>
-          <td class="paramname"><em>years</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   86</span>{</div>
-<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../dd/df5/a00386.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a>(years);</div>
-<div class="line"><span class="lineno">   88</span>}</div>
-<div class="ttc" id="aa00386_html_ab4fa20b33a9b5ee358963159b01d72f3"><div class="ttname"><a href="../../dd/df5/a00386.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a></div><div class="ttdeci">std::chrono::years Years</div><div class="ttdoc">Years shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:61</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780">OUTDOOR_PVP_HP</a> = 1,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811">OUTDOOR_PVP_NA</a> = 2,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab">OUTDOOR_PVP_TF</a> = 3,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc">OUTDOOR_PVP_ZM</a> = 4,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e">OUTDOOR_PVP_SI</a> = 5,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125">OUTDOOR_PVP_EP</a> = 6,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6">OUTDOOR_PVP_GH</a> = 7,</div>
+<div class="line"><span class="lineno">   37</span>};</div>
+<div class="ttc" id="aa00386_html_a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e"><div class="ttname"><a href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e">OUTDOOR_PVP_SI</a></div><div class="ttdeci">@ OUTDOOR_PVP_SI</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:34</div></div>
+<div class="ttc" id="aa00386_html_a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab"><div class="ttname"><a href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab">OUTDOOR_PVP_TF</a></div><div class="ttdeci">@ OUTDOOR_PVP_TF</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:32</div></div>
+<div class="ttc" id="aa00386_html_a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc"><div class="ttname"><a href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc">OUTDOOR_PVP_ZM</a></div><div class="ttdeci">@ OUTDOOR_PVP_ZM</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:33</div></div>
+<div class="ttc" id="aa00386_html_a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6"><div class="ttname"><a href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6">OUTDOOR_PVP_GH</a></div><div class="ttdeci">@ OUTDOOR_PVP_GH</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:36</div></div>
+<div class="ttc" id="aa00386_html_a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125"><div class="ttname"><a href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125">OUTDOOR_PVP_EP</a></div><div class="ttdeci">@ OUTDOOR_PVP_EP</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:35</div></div>
+<div class="ttc" id="aa00386_html_a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811"><div class="ttname"><a href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811">OUTDOOR_PVP_NA</a></div><div class="ttdeci">@ OUTDOOR_PVP_NA</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:31</div></div>
+<div class="ttc" id="aa00386_html_a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780"><div class="ttname"><a href="../../dd/df5/a00386.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780">OUTDOOR_PVP_HP</a></div><div class="ttdeci">@ OUTDOOR_PVP_HP</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:30</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -461,8 +291,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../dd/df5/a00386.html">Duration.h</a></li>
-    <li class="footer">Generated on Mon Apr 6 2026 21:06:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_25d8f4185a27c7d78867bf9666699c3c.html">OutdoorPvP</a></li><li class="navelem"><a class="el" href="../../dd/df5/a00386.html">OutdoorPvP.h</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:27:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

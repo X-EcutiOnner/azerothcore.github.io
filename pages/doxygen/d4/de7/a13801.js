@@ -1,8 +1,6 @@
 var a13801 =
 [
-    [ "FilterTargets", "d4/de7/a13801.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
-    [ "HandleAfterCast", "d4/de7/a13801.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
-    [ "Load", "d4/de7/a13801.html#aecfa38940ea3dd287179bdef3d290487", null ],
-    [ "PrepareSpellScript", "d4/de7/a13801.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
-    [ "Register", "d4/de7/a13801.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
+    [ "OnApply", "d4/de7/a13801.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
+    [ "PrepareAuraScript", "d4/de7/a13801.html#a236892b4fd6cf081a907becab6187069", null ],
+    [ "Register", "d4/de7/a13801.html#aa37819b82692df8a21cbbda8833ad492", null ]
 ];

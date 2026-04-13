@@ -1,8 +1,8 @@
 var a08833 =
 [
-    [ "EnchantDuration", "db/d9b/a08833.html#a1ce5f81deaa60494c247673c113632d8", null ],
-    [ "EnchantDuration", "db/d9b/a08833.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
-    [ "item", "db/d9b/a08833.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
-    [ "leftduration", "db/d9b/a08833.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
-    [ "slot", "db/d9b/a08833.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
+    [ "PlayerCreateInfoAction", "db/d9b/a08833.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "db/d9b/a08833.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "db/d9b/a08833.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "db/d9b/a08833.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "db/d9b/a08833.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

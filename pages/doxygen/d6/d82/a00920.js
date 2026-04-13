@@ -1,4 +1,5 @@
 var a00920 =
 [
-    [ "BasicStatementTask", "d9/d23/a05954.html", "d9/d23/a05954" ]
+    [ "ArenaScore", "dd/d6f/a07509.html", "dd/d6f/a07509" ],
+    [ "ArenaTeamScore", "db/db0/a07513.html", "db/db0/a07513" ]
 ];

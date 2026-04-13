@@ -1,8 +1,6 @@
 var a05297 =
 [
-    [ "GModelRayCallback", "d9/d63/a05297.html#a39bc53ae3bf18800ea215a5a54568606", null ],
-    [ "operator()", "d9/d63/a05297.html#af0072bed861fb89a63c37fd72482ed42", null ],
-    [ "hit", "d9/d63/a05297.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
-    [ "triangles", "d9/d63/a05297.html#a09ef515a1b16d184071e708ed9245b3d", null ],
-    [ "vertices", "d9/d63/a05297.html#af80815b123c6611f38e3d5b41e501546", null ]
+    [ "Read", "d9/d63/a05297.html#a652bcf37d435efc3fb82f4d8cbf00e51", null ],
+    [ "groupsArray", "d9/d63/a05297.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
+    [ "RootWMOID", "d9/d63/a05297.html#a6b9058e7062c970438c79f08103c3c61", null ]
 ];

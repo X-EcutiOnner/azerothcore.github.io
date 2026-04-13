@@ -1,7 +1,6 @@
 var a22021 =
 [
-    [ "npc_battle_at_valhalasAI", "d5/d80/a22025.html", "d5/d80/a22025" ],
-    [ "npc_battle_at_valhalas", "d4/d04/a22021.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "d4/d04/a22021.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "d4/d04/a22021.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "go_wg_vehicle_teleporterAI", "d5/d80/a22025.html", "d5/d80/a22025" ],
+    [ "go_wg_vehicle_teleporter", "d4/d04/a22021.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "d4/d04/a22021.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

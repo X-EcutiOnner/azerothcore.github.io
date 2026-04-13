@@ -1,6 +1,8 @@
 var a13753 =
 [
-    [ "FilterTargets", "d8/d91/a13753.html#a78675c3421e0243de9e136b646c56be1", null ],
-    [ "PrepareSpellScript", "d8/d91/a13753.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
-    [ "Register", "d8/d91/a13753.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
+    [ "HandleApply", "d8/d91/a13753.html#a9dce02909356193476e66586aee87f1d", null ],
+    [ "OnPeriodic", "d8/d91/a13753.html#add4f000f81d5d4112719c6dd7464163c", null ],
+    [ "PrepareAuraScript", "d8/d91/a13753.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
+    [ "Register", "d8/d91/a13753.html#abc349f12f375b1f284eb78a363e8172a", null ],
+    [ "Validate", "d8/d91/a13753.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
 ];

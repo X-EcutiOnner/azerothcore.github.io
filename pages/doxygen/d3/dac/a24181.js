@@ -1,8 +1,10 @@
 var a24181 =
 [
-    [ "CreatureId", "d3/dac/a24181.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d3/dac/a24181.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d3/dac/a24181.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d3/dac/a24181.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d3/dac/a24181.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "Absorb", "d3/dac/a24181.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
+    [ "CalculateAmount", "d3/dac/a24181.html#a279a025cac490ee3647f47584b59179f", null ],
+    [ "Load", "d3/dac/a24181.html#a3fededdbfca9d12e6dbd097620e104be", null ],
+    [ "PrepareAuraScript", "d3/dac/a24181.html#a818875a8073491eab2508182bd941e25", null ],
+    [ "Register", "d3/dac/a24181.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
+    [ "Validate", "d3/dac/a24181.html#a60eb14be1b3108b7b896a27eab35569b", null ],
+    [ "absorbPct", "d3/dac/a24181.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
 ];

@@ -1,7 +1,8 @@
 var a24365 =
 [
-    [ "npc_pet_gen_target_following_bomb", "dd/dd7/a24365.html#a447c2cd258d784ca1d79c79412a1a426", null ],
-    [ "UpdateAI", "dd/dd7/a24365.html#ac68f18d68a313623c04e885f9506f287", null ],
-    [ "bombSpellId", "dd/dd7/a24365.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
-    [ "checkTimer", "dd/dd7/a24365.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
+    [ "CheckProc", "dd/dd7/a24365.html#a1b7b855383b04bd1b627c6f1e33ad7a5", null ],
+    [ "HandleProc", "dd/dd7/a24365.html#a726af9faf0170050f662cb1cc99e6ec8", null ],
+    [ "PrepareAuraScript", "dd/dd7/a24365.html#a204655e4eea1cf8694c62ddae6d5a760", null ],
+    [ "Register", "dd/dd7/a24365.html#a23e8088d6d9626ec4c3f8fc6e66c1e24", null ],
+    [ "Validate", "dd/dd7/a24365.html#a5a3006bb5d54d68b8eb529a8c680c5c0", null ]
 ];

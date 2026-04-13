@@ -1,10 +1,12 @@
 var a10497 =
 [
-    [ "AllItemScript", "d4/d40/a10497.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
-    [ "CanItemExpire", "d4/d40/a10497.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
-    [ "CanItemQuestAccept", "d4/d40/a10497.html#a545e2bc7436a064146025954eaf5ae92", null ],
-    [ "CanItemRemove", "d4/d40/a10497.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
-    [ "CanItemUse", "d4/d40/a10497.html#a89d237f426840658e4423fb9cc7428db", null ],
-    [ "OnItemGossipSelect", "d4/d40/a10497.html#a7157f72c6d09988b60480d1671892cde", null ],
-    [ "OnItemGossipSelectCode", "d4/d40/a10497.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
+    [ "QuestLocale", "d4/d40/a10497.html#a887d474a470ee0278fb4b465a7ad9547", null ],
+    [ "AreaDescription", "d4/d40/a10497.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
+    [ "CompletedText", "d4/d40/a10497.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
+    [ "Details", "d4/d40/a10497.html#afd23d37c92f2b28e1c125bba0d670497", null ],
+    [ "Objectives", "d4/d40/a10497.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
+    [ "ObjectiveText", "d4/d40/a10497.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
+    [ "OfferRewardText", "d4/d40/a10497.html#aaba6d07625232a77e3457454f7d4fa77", null ],
+    [ "RequestItemsText", "d4/d40/a10497.html#a764d2092084454844e59c484fb637017", null ],
+    [ "Title", "d4/d40/a10497.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
 ];

@@ -1,6 +1,7 @@
 var a16249 =
 [
-    [ "HandleSummon", "dd/dcd/a16249.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "dd/dcd/a16249.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "dd/dcd/a16249.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "OnRemove", "dd/dcd/a16249.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "dd/dcd/a16249.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "dd/dcd/a16249.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "dd/dcd/a16249.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

@@ -1,5 +1,6 @@
 var a00809 =
 [
-    [ "AuthSocketMgr", "dc/d8f/a05938.html", "dc/d8f/a05938" ],
-    [ "sAuthSocketMgr", "dd/d7e/a00809.html#abd297ee25e8d77bf56f22d43561d9451", null ]
+    [ "clearAcceptTradeMode", "dd/d7e/a00809.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
+    [ "clearAcceptTradeMode", "dd/d7e/a00809.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
+    [ "setAcceptTradeMode", "dd/d7e/a00809.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
 ];

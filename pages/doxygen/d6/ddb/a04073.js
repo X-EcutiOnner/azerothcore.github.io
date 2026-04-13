@@ -1,21 +1,50 @@
 var a04073 =
 [
-    [ "instance_scholomance", "d7/d83/a13391.html", "d7/d83/a13391" ],
-    [ "instance_scholomance::instance_scholomance_InstanceMapScript", "da/d2b/a13395.html", "da/d2b/a13395" ],
-    [ "spell_scholomance_fixate_aura", "d7/dec/a13399.html", "d7/dec/a13399" ],
-    [ "spell_scholomance_boon_of_life_aura", "de/dc9/a13403.html", "de/dc9/a13403" ],
-    [ "npc_scholomance_occultist", "de/d8c/a13407.html", "de/d8c/a13407" ],
-    [ "npc_scholomance_occultist::npc_scholomance_occultistAI", "d2/d5d/a13411.html", "d2/d5d/a13411" ],
-    [ "OccultistEntries", "d6/ddb/a04073.html#a8b43fe18f8176260ed382582db3c3818", [
-      [ "CASTER_ENTRY", "d6/ddb/a04073.html#a8b43fe18f8176260ed382582db3c3818a5bb832c5eb17f3850f1178b2b3590a5a", null ],
-      [ "DARK_SHADE_ENTRY", "d6/ddb/a04073.html#a8b43fe18f8176260ed382582db3c3818a404c94392628f9372866677c936edb15", null ]
+    [ "npc_oculus_drakegiver", "d2/deb/a19597.html", "d2/deb/a19597" ],
+    [ "npc_oculus_drakegiver::npc_oculus_drakegiverAI", "d8/d31/a19601.html", "d8/d31/a19601" ],
+    [ "npc_oculus_drake", "d3/ddd/a19605.html", "d3/ddd/a19605" ],
+    [ "npc_oculus_drake::npc_oculus_drakeAI", "d9/dba/a19609.html", "d9/dba/a19609" ],
+    [ "npc_centrifuge_construct", "d6/d76/a19613.html", "d6/d76/a19613" ],
+    [ "npc_centrifuge_construct::npc_centrifuge_constructAI", "d8/d0e/a19617.html", "d8/d0e/a19617" ],
+    [ "spell_oculus_stop_time_aura", "de/d48/a19621.html", "de/d48/a19621" ],
+    [ "spell_oculus_evasive_maneuvers_aura", "dd/d4a/a19625.html", "dd/d4a/a19625" ],
+    [ "spell_oculus_shock_lance", "df/d67/a19629.html", "df/d67/a19629" ],
+    [ "spell_oculus_temporal_rift_aura", "d9/da8/a19633.html", "d9/da8/a19633" ],
+    [ "spell_oculus_touch_the_nightmare", "d9/de3/a19637.html", "d9/de3/a19637" ],
+    [ "spell_oculus_dream_funnel_aura", "d6/d8e/a19641.html", "d6/d8e/a19641" ],
+    [ "spell_oculus_call_ruby_emerald_amber_drake", "d9/d14/a19645.html", "d9/d14/a19645" ],
+    [ "spell_oculus_ride_ruby_emerald_amber_drake_que_aura", "d6/dd1/a19649.html", "d6/dd1/a19649" ],
+    [ "spell_oculus_evasive_charges_aura", "d8/d78/a19653.html", "d8/d78/a19653" ],
+    [ "spell_oculus_soar_aura", "d6/d80/a19657.html", "d6/d80/a19657" ],
+    [ "spell_oculus_rider_aura", "de/d5b/a19661.html", "de/d5b/a19661" ],
+    [ "spell_oculus_drake_flag_aura", "d2/d14/a19665.html", "d2/d14/a19665" ],
+    [ "HAS_ESSENCE", "d6/ddb/a04073.html#aad8883e78e9afef9daca7491aa162c8c", null ],
+    [ "DrakeGiverTexts", "d6/ddb/a04073.html#ac3a5c0d6b6a7ab24832adce4fd436e58", [
+      [ "GOSSIP_TEXTID_DRAKES", "d6/ddb/a04073.html#ac3a5c0d6b6a7ab24832adce4fd436e58a5dd545edd279e8b713f39d9d5b725c9e", null ],
+      [ "GOSSIP_TEXTID_BELGARISTRASZ1", "d6/ddb/a04073.html#ac3a5c0d6b6a7ab24832adce4fd436e58a8e5b7d65d8983abc140c8aa681cf9a1c", null ],
+      [ "GOSSIP_TEXTID_BELGARISTRASZ2", "d6/ddb/a04073.html#ac3a5c0d6b6a7ab24832adce4fd436e58a506e9eee232ad98a72834b04e5c9787e", null ],
+      [ "GOSSIP_TEXTID_VERDISA1", "d6/ddb/a04073.html#ac3a5c0d6b6a7ab24832adce4fd436e58a988e54c528362900b72b40027d3eef5d", null ],
+      [ "GOSSIP_TEXTID_VERDISA2", "d6/ddb/a04073.html#ac3a5c0d6b6a7ab24832adce4fd436e58a5a05abc18f63f569b4856d1b5a2098fb", null ],
+      [ "GOSSIP_TEXTID_VERDISA3", "d6/ddb/a04073.html#ac3a5c0d6b6a7ab24832adce4fd436e58aebdd6b2cdac7983c247a1a42e78771cc", null ],
+      [ "GOSSIP_TEXTID_ETERNOS1", "d6/ddb/a04073.html#ac3a5c0d6b6a7ab24832adce4fd436e58ae1a121435466004734f56085e9e46925", null ],
+      [ "GOSSIP_TEXTID_ETERNOS2", "d6/ddb/a04073.html#ac3a5c0d6b6a7ab24832adce4fd436e58ab2bb3a053b68620eefaf1997dce0bf5f", null ],
+      [ "GOSSIP_TEXTID_ETERNOS3", "d6/ddb/a04073.html#ac3a5c0d6b6a7ab24832adce4fd436e58ab6324d1c2afca8bc0980d58bfe5a6677", null ]
     ] ],
-    [ "OccultistSpells", "d6/ddb/a04073.html#a9f85ef6fae02a6e177aa60a656ac2b3d", [
-      [ "BONE_ARMOR_SPELL", "d6/ddb/a04073.html#a9f85ef6fae02a6e177aa60a656ac2b3da89e933b806d06611ede39194aec55c1a", null ],
-      [ "COUNTER_SPELL", "d6/ddb/a04073.html#a9f85ef6fae02a6e177aa60a656ac2b3da8b221e5c5dc36e75186eb2b8bdc0e313", null ],
-      [ "DRAIN_MANA_SPELL", "d6/ddb/a04073.html#a9f85ef6fae02a6e177aa60a656ac2b3da5a3228d15aeb4d8cb7c29650200766af", null ],
-      [ "SHADOWBOLT_VOLLEY_SPELL", "d6/ddb/a04073.html#a9f85ef6fae02a6e177aa60a656ac2b3da2e1fda31c0d43a826ad22b89a62cfb8c", null ]
+    [ "Drakes", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528", [
+      [ "SPELL_RIDE_RUBY_DRAKE_QUE", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528af541b20e84bf5f579d9e482d7aa8a8be", null ],
+      [ "SPELL_RIDE_AMBER_DRAKE_QUE", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528a92fce45d9cbce0450ed91e2e78b025d2", null ],
+      [ "SPELL_RIDE_EMERALD_DRAKE_QUE", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528a778d5f012fd7d1541bfae3038c1d0a85", null ],
+      [ "SPELL_EMPOWERING_BLOWS", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528a54228d0fabb74c8e39747855c9302e75", null ],
+      [ "SPELL_AMBER_SHOCK_CHARGE", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528a08e9f1ae93fd2469f2c97cf4c98731af", null ],
+      [ "SPELL_RUBY_EVASIVE_CHARGES", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528a7c4cc6300acfcaaf61fc0dc7e31cda35", null ],
+      [ "SPELL_DRAKE_FLAG_VISUAL", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528a09668a45c49a57b5d70e2961a2ccdf9a", null ],
+      [ "SPELL_SOAR_TRIGGER", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528adfbf98e4377ddf5ada53b9d204099c5d", null ],
+      [ "SPELL_SOAR_BUFF", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528a9ec1abead0774fc9b03a5fdfd3b94c62", null ],
+      [ "SPELL_SCALE_STATS", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528a300f58de77f75b2f78df18d76a69ca14", null ],
+      [ "SPELL_RUBY_EVASIVE_AURA", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528a5ce8fff57a28a3412818d08a7a1de535", null ],
+      [ "SPELL_RUBY_EVASIVE_MANEUVERS", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528a20e83133eb94ba56940fd74c655fa3eb", null ],
+      [ "POINT_LAND", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528a858ba1dc5b34b3ff5f41a194feea519f", null ],
+      [ "POINT_TAKE_OFF", "d6/ddb/a04073.html#a222a3a69cee0aa1d09375ffa8e2ab528a5d2a7910d1b37d273b0cf215d624b394", null ]
     ] ],
-    [ "AddSC_instance_scholomance", "d6/ddb/a04073.html#a57729392acbf8df56faae2a7865f65b4", null ],
-    [ "KirtonosSpawn", "d6/ddb/a04073.html#a5e00a038de93e0b1fc4ac53b49bf47da", null ]
+    [ "AddSC_oculus", "d6/ddb/a04073.html#aa8f1a8c35b82599cd1ebfc60ae15931c", null ]
 ];

@@ -1,8 +1,9 @@
 var a21949 =
 [
-    [ "HandleEffectApply", "d2/ddc/a21949.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "d2/ddc/a21949.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "d2/ddc/a21949.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "d2/ddc/a21949.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "d2/ddc/a21949.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "HandlePeriodic", "d2/ddc/a21949.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "d2/ddc/a21949.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "d2/ddc/a21949.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "d2/ddc/a21949.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "d2/ddc/a21949.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "d2/ddc/a21949.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

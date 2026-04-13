@@ -1,6 +1,5 @@
 var a27597 =
 [
-    [ "HandleProc", "dd/d16/a27597.html#afb4fb2152937e62982aab2a17820d1d9", null ],
-    [ "PrepareAuraScript", "dd/d16/a27597.html#a43ec587b6e8ac94baba7253dfec47640", null ],
-    [ "Register", "dd/d16/a27597.html#ad0824cc4c53915239d609aa117fc4691", null ]
+    [ "achievement_bg_ic_glaive_grave", "dd/d16/a27597.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "dd/d16/a27597.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

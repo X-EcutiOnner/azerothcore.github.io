@@ -1,9 +1,7 @@
 var a15093 =
 [
-    [ "boss_azuregosAI", "dc/d89/a15093.html#a839ab1e096d30062d64c1c515a7462a4", null ],
-    [ "JustDied", "dc/d89/a15093.html#aea4d204173b7882d2d9acf8204410947", null ],
-    [ "JustEngagedWith", "dc/d89/a15093.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
-    [ "KilledUnit", "dc/d89/a15093.html#aeefc791e17d2a687f8beae809c44d123", null ],
-    [ "Reset", "dc/d89/a15093.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
-    [ "UpdateAI", "dc/d89/a15093.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
+    [ "npc_cos_chromie_middle", "dc/d89/a15093.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "dc/d89/a15093.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "dc/d89/a15093.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "dc/d89/a15093.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
 ];

@@ -1,7 +1,7 @@
 var a18277 =
 [
-    [ "npc_coldflameAI", "d9/d44/a18277.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "d9/d44/a18277.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "d9/d44/a18277.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "d9/d44/a18277.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "OnRemove", "d9/d44/a18277.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "d9/d44/a18277.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "d9/d44/a18277.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "d9/d44/a18277.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

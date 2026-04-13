@@ -1,14 +1,12 @@
 var a02072 =
 [
-    [ "NpcFlagText", "d0/d10/a12266.html", "d0/d10/a12266" ],
-    [ "MechanicImmune", "dd/dec/a12270.html", "dd/dec/a12270" ],
-    [ "SpellSchoolImmune", "d5/d3c/a12274.html", "d5/d3c/a12274" ],
-    [ "npc_commandscript", "d0/d48/a12278.html", "d0/d48/a12278" ],
-    [ "NPCFLAG_COUNT", "de/d9d/a02072.html#afc1ed6083684621f30fbabb23d2986c0", null ],
-    [ "CreatureEntry", "de/d9d/a02072.html#a220449830f7fe293c9d82dcd3b84acd9", null ],
-    [ "CreatureSpawnId", "de/d9d/a02072.html#a5e5fd5f7a85fd4ad7fe92f2125f17acc", null ],
-    [ "AddSC_npc_commandscript", "de/d9d/a02072.html#ae99689f5e8e57f75adfcf54370ed979d", null ],
-    [ "mechanicImmunes", "de/d9d/a02072.html#a9e8359f68aec0f69f42fe7aee7934859", null ],
-    [ "npcFlagTexts", "de/d9d/a02072.html#a048bdd249b6deeed66fba6bad126b30b", null ],
-    [ "spellSchoolImmunes", "de/d9d/a02072.html#a8708a11856730666b04e749bc0952c8f", null ]
+    [ "WorldPackets::Instance::InstanceReset", "d3/d01/a11105.html", "d3/d01/a11105" ],
+    [ "WorldPackets::Instance::InstanceResetFailed", "d8/d94/a11109.html", "d8/d94/a11109" ],
+    [ "WorldPackets::Instance::SetDungeonDifficulty", "dd/de3/a11113.html", "dd/de3/a11113" ],
+    [ "WorldPackets::Instance::SetDungeonDifficultyClient", "da/d0c/a11117.html", "da/d0c/a11117" ],
+    [ "WorldPackets::Instance::ResetFailedNotify", "d0/df1/a11121.html", "d0/df1/a11121" ],
+    [ "WorldPackets::Instance::SetRaidDifficulty", "de/d7a/a11125.html", "de/d7a/a11125" ],
+    [ "WorldPackets::Instance::SetRaidDifficultyClient", "d8/d80/a11129.html", "d8/d80/a11129" ],
+    [ "WorldPackets::Instance::ResetInstances", "d0/d2b/a11133.html", "d0/d2b/a11133" ],
+    [ "WorldPackets::Instance::InstanceLockResponse", "d3/d4e/a11137.html", "d3/d4e/a11137" ]
 ];

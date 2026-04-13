@@ -1,5 +1,6 @@
 var a10925 =
 [
-    [ "GuildDeleteRank", "d5/d93/a10925.html#ae21057ea5cc30ed07deaa736149617b3", null ],
-    [ "Read", "d5/d93/a10925.html#a91a7883299fe09e08c247c96987a8333", null ]
+    [ "GuildUpdateMotdText", "d5/d93/a10925.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "d5/d93/a10925.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "d5/d93/a10925.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

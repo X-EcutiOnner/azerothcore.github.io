@@ -1,9 +1,15 @@
 var a22993 =
 [
-    [ "boss_najentus", "d7/d66/a22993.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "d7/d66/a22993.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "d7/d66/a22993.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "d7/d66/a22993.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "d7/d66/a22993.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
-    [ "_canTalk", "d7/d66/a22993.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "d7/d66/a22993.html#a70db3eeeb55784250a13032728220005", null ],
+    [ "GetGuidData", "d7/d66/a22993.html#a77e77209e779b774608f739b258ae419", null ],
+    [ "OnCreatureCreate", "d7/d66/a22993.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
+    [ "SetGuidData", "d7/d66/a22993.html#a21a29973bcf5ef6925239213ce50bab0", null ],
+    [ "AhuneBunnyGUID", "d7/d66/a22993.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
+    [ "AhuneGUID", "d7/d66/a22993.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
+    [ "BeamBunnyGUIDs", "d7/d66/a22993.html#a09e3d1ca5d040268578fa770b7153a81", null ],
+    [ "BonfireBunnyGUIDs", "d7/d66/a22993.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
+    [ "counter", "d7/d66/a22993.html#a4ea85debc35e91668723222e8ea90071", null ],
+    [ "FlameCallerGUIDs", "d7/d66/a22993.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
+    [ "FrozenCoreGUID", "d7/d66/a22993.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
+    [ "LumaGUID", "d7/d66/a22993.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
 ];

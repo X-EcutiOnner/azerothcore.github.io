@@ -1,9 +1,5 @@
 var a22297 =
 [
-    [ "HandlePeriodic", "dc/ddf/a22297.html#a0943e7887ff935ccea21d913429e25a0", null ],
-    [ "OnRemove", "dc/ddf/a22297.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
-    [ "PrepareAuraScript", "dc/ddf/a22297.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
-    [ "Register", "dc/ddf/a22297.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
-    [ "_tickNumber", "dc/ddf/a22297.html#a3f8943e288e96f639fb805869749879b", null ],
-    [ "_warning", "dc/ddf/a22297.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "dc/ddf/a22297.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "dc/ddf/a22297.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

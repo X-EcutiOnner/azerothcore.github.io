@@ -1,7 +1,6 @@
 var a20821 =
 [
-    [ "npc_xt002_life_spark", "d9/d9a/a20821.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
-    [ "Reset", "d9/d9a/a20821.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
-    [ "UpdateAI", "d9/d9a/a20821.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
-    [ "_attackTimer", "d9/d9a/a20821.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "d9/d36/a20825.html", "d9/d36/a20825" ],
+    [ "instance_utgarde_keep", "d9/d9a/a20821.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "d9/d9a/a20821.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

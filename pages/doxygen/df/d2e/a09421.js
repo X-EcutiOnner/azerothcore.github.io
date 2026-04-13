@@ -1,26 +1,6 @@
 var a09421 =
 [
-    [ "GetHeightPtr", "df/d2e/a09421.html#a347927f9d7df887b2a6fd89d841e004c", null ],
-    [ "GridTerrainData", "df/d2e/a09421.html#a1cf2965cea22f5a98ad2d737e372ac18", null ],
-    [ "~GridTerrainData", "df/d2e/a09421.html#a7380c5dbf731134733b87cab470603a4", null ],
-    [ "getArea", "df/d2e/a09421.html#a938710a8304ef342373d41581018c623", null ],
-    [ "getHeight", "df/d2e/a09421.html#a1269f47abd6faf5304494c85628bb961", null ],
-    [ "getHeightFromFlat", "df/d2e/a09421.html#adc73b5d06468dbf30b7b6507f6ac6474", null ],
-    [ "getHeightFromFloat", "df/d2e/a09421.html#a43b34255bd40b0824ad161bd40c8a5ec", null ],
-    [ "getHeightFromUint16", "df/d2e/a09421.html#a4ae5997baa9f9905cf13a3a214781df9", null ],
-    [ "getHeightFromUint8", "df/d2e/a09421.html#af849394add099d86aa8ec9eb8c807f5d", null ],
-    [ "GetLiquidData", "df/d2e/a09421.html#a07d7e85ff8386eaad8c9d1d32414e3b9", null ],
-    [ "getLiquidLevel", "df/d2e/a09421.html#a2e3b2ea01f5ce3f93944529d73fa70de", null ],
-    [ "getMinHeight", "df/d2e/a09421.html#ab39ef52957f9c1ece42c3fc11893a3fc", null ],
-    [ "isHole", "df/d2e/a09421.html#abdf3da449ed62b2d7a54547178d21110", null ],
-    [ "Load", "df/d2e/a09421.html#acacaa661126e761a863b5490a3e78e73", null ],
-    [ "LoadAreaData", "df/d2e/a09421.html#a28f80f4acdb72dd9641a261178df0859", null ],
-    [ "LoadHeightData", "df/d2e/a09421.html#ae50db87879b0b0bca66f0f0a625e2bc9", null ],
-    [ "LoadHolesData", "df/d2e/a09421.html#a0741c8d46e938fcf7b18fe7c9254b629", null ],
-    [ "LoadLiquidData", "df/d2e/a09421.html#ac3dc194ca16a7e9b604b2c2d14c478d8", null ],
-    [ "_gridGetHeight", "df/d2e/a09421.html#a2425f13f62b37931192acdc02127c243", null ],
-    [ "_loadedAreaData", "df/d2e/a09421.html#a6d4887b105ac3c7f6c49ef0d92a33780", null ],
-    [ "_loadedHeightData", "df/d2e/a09421.html#aea51fcf34105d685405203093ce67085", null ],
-    [ "_loadedHoleData", "df/d2e/a09421.html#a421f20b133fab6afa2295de1ebe5b51a", null ],
-    [ "_loadedLiquidData", "df/d2e/a09421.html#a3d72914b55d6c6413ade869503b259cc", null ]
+    [ "AreaMapType", "df/d2e/a09421.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
+    [ "areaMap", "df/d2e/a09421.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
+    [ "gridArea", "df/d2e/a09421.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
 ];

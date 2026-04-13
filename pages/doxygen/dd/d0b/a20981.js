@@ -1,6 +1,6 @@
 var a20981 =
 [
-    [ "OnEffect", "dd/d0b/a20981.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "dd/d0b/a20981.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "dd/d0b/a20981.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "boss_archavonAI", "df/d35/a20985.html", "df/d35/a20985" ],
+    [ "boss_archavon", "dd/d0b/a20981.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "dd/d0b/a20981.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

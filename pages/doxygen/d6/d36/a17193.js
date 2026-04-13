@@ -1,8 +1,7 @@
 var a17193 =
 [
-    [ "HandleEffectApply", "d6/d36/a17193.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
-    [ "HandleEffectRemove", "d6/d36/a17193.html#a04504220319ec562b1b6691f471c1b8d", null ],
-    [ "PrepareAuraScript", "d6/d36/a17193.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
-    [ "Register", "d6/d36/a17193.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
-    [ "Validate", "d6/d36/a17193.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
+    [ "UtherBatteredHiltEvent", "d6/d36/a17193.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d6/d36/a17193.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d6/d36/a17193.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d6/d36/a17193.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

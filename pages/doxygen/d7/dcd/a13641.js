@@ -1,7 +1,7 @@
 var a13641 =
 [
-    [ "HandleScript", "d7/dcd/a13641.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "d7/dcd/a13641.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "d7/dcd/a13641.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "d7/dcd/a13641.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "boss_kalec", "d7/dcd/a13641.html#a9c36e31c750e93840f30f001cdaca0da", null ],
+    [ "JustDied", "d7/dcd/a13641.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
+    [ "JustEngagedWith", "d7/dcd/a13641.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
+    [ "UpdateAI", "d7/dcd/a13641.html#ab55da7584fa7f545761a5bd547245747", null ]
 ];

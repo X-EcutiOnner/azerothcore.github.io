@@ -1,8 +1,7 @@
 var a27105 =
 [
-    [ "HandleDummy", "de/d7d/a27105.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
-    [ "Load", "de/d7d/a27105.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
-    [ "PrepareSpellScript", "de/d7d/a27105.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
-    [ "Register", "de/d7d/a27105.html#afb1c744f263b21c30a5dfd3675acb364", null ],
-    [ "Validate", "de/d7d/a27105.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
+    [ "HandleDispel", "de/d7d/a27105.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "de/d7d/a27105.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "de/d7d/a27105.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "de/d7d/a27105.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

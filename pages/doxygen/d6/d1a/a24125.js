@@ -1,6 +1,6 @@
 var a24125 =
 [
-    [ "npc_invis_infernal_casterAI", "de/dc5/a24129.html", "de/dc5/a24129" ],
-    [ "npc_invis_infernal_caster", "d6/d1a/a24125.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "d6/d1a/a24125.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "PrepareSpellScript", "d6/d1a/a24125.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
+    [ "Register", "d6/d1a/a24125.html#a4b349a325759517c35d04202e5df9cec", null ],
+    [ "SetDest", "d6/d1a/a24125.html#a951f733ab2452655a3b579f8ed190fb0", null ]
 ];

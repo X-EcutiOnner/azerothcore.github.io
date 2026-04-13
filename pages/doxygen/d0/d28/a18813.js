@@ -1,6 +1,8 @@
 var a18813 =
 [
-    [ "HandleScript", "d0/d28/a18813.html#a9489c3454830d3826cb077c95947bf2d", null ],
-    [ "PrepareSpellScript", "d0/d28/a18813.html#a19492e616ac6e69187bca4499175071e", null ],
-    [ "Register", "d0/d28/a18813.html#a3446174d3308f535c27581b63ade9e8a", null ]
+    [ "npc_rotting_frost_giantAI", "d0/d28/a18813.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d0/d28/a18813.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d0/d28/a18813.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d0/d28/a18813.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d0/d28/a18813.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

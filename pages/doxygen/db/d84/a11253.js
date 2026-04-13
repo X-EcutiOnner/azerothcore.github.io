@@ -1,8 +1,8 @@
 var a11253 =
 [
-    [ "TrainerBuyFailed", "db/d84/a11253.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
-    [ "Write", "db/d84/a11253.html#a75c3bff5da4699fc412793caef1b75af", null ],
-    [ "SpellID", "db/d84/a11253.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
-    [ "TrainerFailedReason", "db/d84/a11253.html#a746ff497fba16adb16bbb647dff385df", null ],
-    [ "TrainerGUID", "db/d84/a11253.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
+    [ "MinimapPing", "db/d84/a11253.html#a846074f55e6224bf322b96c7bfe9e008", null ],
+    [ "Write", "db/d84/a11253.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
+    [ "MapX", "db/d84/a11253.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
+    [ "MapY", "db/d84/a11253.html#a2f8504ddba41dd09f69763d66331373b", null ],
+    [ "SourceGuid", "db/d84/a11253.html#abf5d5980b360cbf9332460b01d5816f5", null ]
 ];

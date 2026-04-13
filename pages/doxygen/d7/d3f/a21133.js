@@ -1,14 +1,7 @@
 var a21133 =
 [
-    [ "npc_massive_jormungarAI", "d7/d3f/a21133.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "d7/d3f/a21133.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "d7/d3f/a21133.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "d7/d3f/a21133.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "d7/d3f/a21133.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "d7/d3f/a21133.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "d7/d3f/a21133.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "d7/d3f/a21133.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "d7/d3f/a21133.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "d7/d3f/a21133.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "d7/d3f/a21133.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "npc_azure_binder", "d7/d3f/a21133.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
+    [ "Reset", "d7/d3f/a21133.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
+    [ "UpdateAI", "d7/d3f/a21133.html#add9f304212a1a10267e564cd939f3751", null ],
+    [ "_events", "d7/d3f/a21133.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
 ];

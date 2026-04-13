@@ -1,6 +1,8 @@
 var a19617 =
 [
-    [ "boss_razuviousAI", "de/d48/a19621.html", "de/d48/a19621" ],
-    [ "boss_razuvious", "d8/d0e/a19617.html#ac1a2942f4a7957c671b075df7bf20215", null ],
-    [ "GetAI", "d8/d0e/a19617.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
+    [ "npc_centrifuge_constructAI", "d8/d0e/a19617.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "d8/d0e/a19617.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "d8/d0e/a19617.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "d8/d0e/a19617.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "d8/d0e/a19617.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

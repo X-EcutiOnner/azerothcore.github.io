@@ -1,10 +1,6 @@
 var a24101 =
 [
-    [ "npc_maxx_a_million_escortAI", "dd/d52/a24101.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "dd/d52/a24101.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "dd/d52/a24101.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "dd/d52/a24101.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "dd/d52/a24101.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "bTake", "dd/d52/a24101.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "dd/d52/a24101.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "PrepareSpellScript", "dd/d52/a24101.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
+    [ "RecalculateDamage", "dd/d52/a24101.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
+    [ "Register", "dd/d52/a24101.html#a834484683d2d782b4f4c027091108172", null ]
 ];

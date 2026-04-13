@@ -1,5 +1,7 @@
 var a21017 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "da/d02/a21017.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "da/d02/a21017.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "HandleDummy", "da/d02/a21017.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "da/d02/a21017.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "da/d02/a21017.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "da/d02/a21017.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

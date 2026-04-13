@@ -1,6 +1,6 @@
 var a24429 =
 [
-    [ "DeathEvent", "d6/d4b/a24429.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d6/d4b/a24429.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d6/d4b/a24429.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "PrepareAuraScript", "d6/d4b/a24429.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
+    [ "Register", "d6/d4b/a24429.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
+    [ "UpdateAmount", "d6/d4b/a24429.html#a621e73a09438f3f9cbaa232125df3b87", null ]
 ];

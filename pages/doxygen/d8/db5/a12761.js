@@ -1,7 +1,8 @@
 var a12761 =
 [
-    [ "ClassCallSelector", "d8/db5/a12761.html#a223895c97121b0727aac258c12c89e0b", null ],
-    [ "operator()", "d8/db5/a12761.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
-    [ "_me", "d8/db5/a12761.html#a5347a24609a21ae0a342682104b1dc14", null ],
-    [ "_targetClass", "d8/db5/a12761.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
+    [ "boss_garr", "d8/db5/a12761.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "d8/db5/a12761.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "d8/db5/a12761.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "d8/db5/a12761.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "d8/db5/a12761.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

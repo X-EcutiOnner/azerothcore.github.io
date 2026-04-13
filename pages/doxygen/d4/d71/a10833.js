@@ -1,7 +1,5 @@
 var a10833 =
 [
-    [ "QueryGuildInfoResponse", "d4/d71/a10833.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "d4/d71/a10833.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "d4/d71/a10833.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "d4/d71/a10833.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "LogoutRequest", "d4/d71/a10833.html#ab92b0a8a5d3d076adbd465fcf24b7975", null ],
+    [ "Read", "d4/d71/a10833.html#a84701a16603f8b0f1e8dda1020ec1161", null ]
 ];

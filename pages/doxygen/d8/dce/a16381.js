@@ -1,6 +1,14 @@
 var a16381 =
 [
-    [ "PrepareSpellScript", "d8/dce/a16381.html#a2a3602af522bb8658c1bfdede1234efd", null ],
-    [ "Register", "d8/dce/a16381.html#aba235111ea4e186064a85295466f2a3f", null ],
-    [ "SetDest", "d8/dce/a16381.html#a89827e4db37bea4847c79265d95386c6", null ]
+    [ "npc_halion_controllerAI", "d8/dce/a16381.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
+    [ "DoAction", "d8/dce/a16381.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
+    [ "Reset", "d8/dce/a16381.html#a3004aecb50815287d5f832f2a8a0d250", null ],
+    [ "SetData", "d8/dce/a16381.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
+    [ "UpdateAI", "d8/dce/a16381.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
+    [ "UpdateCorporeality", "d8/dce/a16381.html#ac82987f2b2b069b90c509c477004bae6", null ],
+    [ "_corporeality", "d8/dce/a16381.html#a4c23df1bb774ac724bdf537453592671", null ],
+    [ "_events", "d8/dce/a16381.html#a92e3f116260265a2d0dbeef769eee03e", null ],
+    [ "_instance", "d8/dce/a16381.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
+    [ "_materialDamage", "d8/dce/a16381.html#afcc510b0d4be10ed057d1a304b803b69", null ],
+    [ "_twilightDamage", "d8/dce/a16381.html#a13a9efcb11ed31725c45011508407287", null ]
 ];

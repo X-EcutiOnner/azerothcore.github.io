@@ -1,5 +1,8 @@
 var a18917 =
 [
-    [ "achievement_neck_deep_in_vile", "d9/d74/a18917.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d9/d74/a18917.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "CountTargets", "d9/d74/a18917.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d9/d74/a18917.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d9/d74/a18917.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d9/d74/a18917.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d9/d74/a18917.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

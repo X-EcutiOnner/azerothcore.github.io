@@ -1,7 +1,6 @@
 var a21901 =
 [
-    [ "HandleScriptEffect", "d6/d93/a21901.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "d6/d93/a21901.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "d6/d93/a21901.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "d6/d93/a21901.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_freed_protodrakeAI", "d6/d97/a21905.html", "d6/d97/a21905" ],
+    [ "npc_freed_protodrake", "d6/d93/a21901.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "d6/d93/a21901.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

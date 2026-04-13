@@ -1,6 +1,6 @@
 var a23861 =
 [
-    [ "HandleScriptEffect", "df/da5/a23861.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
-    [ "PrepareSpellScript", "df/da5/a23861.html#af475c0968aabaf56e8ca38950ad651f0", null ],
-    [ "Register", "df/da5/a23861.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
+    [ "npc_enraged_spiritAI", "d1/d7d/a23865.html", "d1/d7d/a23865" ],
+    [ "npc_enraged_spirit", "df/da5/a23861.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "df/da5/a23861.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

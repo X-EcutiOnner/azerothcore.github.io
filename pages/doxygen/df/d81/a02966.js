@@ -1,39 +1,26 @@
 var a02966 =
 [
-    [ "npc_attracted_reef_bull", "d7/d36/a21690.html", "d7/d36/a21690" ],
-    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "dc/dd7/a21694.html", "dc/dd7/a21694" ],
-    [ "npc_apothecary_hanes", "d9/de8/a21698.html", "d9/de8/a21698" ],
-    [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "dc/deb/a21702.html", "dc/deb/a21702" ],
-    [ "npc_plaguehound_tracker", "d4/dc0/a21706.html", "d4/dc0/a21706" ],
-    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "d2/d0e/a21710.html", "d2/d0e/a21710" ],
-    [ "npc_rodin_lightning_enabler", "d6/d05/a21714.html", "d6/d05/a21714" ],
-    [ "spell_hawk_hunting", "d8/d88/a21718.html", "d8/d88/a21718" ],
-    [ "spell_the_cleansing_shrine_cast", "d6/d28/a21722.html", "d6/d28/a21722" ],
-    [ "spell_the_cleansing_cleansing_soul", "d6/dde/a21726.html", "d6/dde/a21726" ],
-    [ "spell_the_cleansing_mirror_image_script_effect", "d3/d34/a21730.html", "d3/d34/a21730" ],
-    [ "spell_the_cleansing_on_death_cast_on_master", "d9/d46/a21734.html", "d9/d46/a21734" ],
-    [ "Entries", "df/d81/a02966.html#a06de533fb3e7ec530f0493022ad98889", [
-      [ "NPC_APOTHECARY_HANES", "df/d81/a02966.html#a06de533fb3e7ec530f0493022ad98889acf2750295b6eec6dd126edd3e314b704", null ],
-      [ "NPC_HANES_FIRE_TRIGGER", "df/d81/a02966.html#a06de533fb3e7ec530f0493022ad98889a1d184f3197ea2249507f226925f86d51", null ],
-      [ "QUEST_TRAIL_OF_FIRE", "df/d81/a02966.html#a06de533fb3e7ec530f0493022ad98889a3b04eef2d1544dfd01157f3936b8931e", null ],
-      [ "SPELL_COSMETIC_LOW_POLY_FIRE", "df/d81/a02966.html#a06de533fb3e7ec530f0493022ad98889a3e64d85cd00e4529984f105930950743", null ],
-      [ "SPELL_HEALING_POTION", "df/d81/a02966.html#a06de533fb3e7ec530f0493022ad98889a13bb6f847a01b8a989be597f21d79b75", null ]
+    [ "boss_supremus", "d4/d92/a22609.html", "d4/d92/a22609" ],
+    [ "npc_supremus_punch_invisible_stalker", "df/dee/a22613.html", "df/dee/a22613" ],
+    [ "Supremus", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1ab", [
+      [ "EMOTE_NEW_TARGET", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1abacce041f211d3aacd7153648b2b22657d", null ],
+      [ "EMOTE_PUNCH_GROUND", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1aba18c2c02f5902d5eb449f84ea9b0dda48", null ],
+      [ "EMOTE_GROUND_CRACK", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1abaf6e451c3b6d1ba936baa236a0676e9da", null ],
+      [ "EMOTE_BERSERK", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1abad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "SPELL_SNARE_SELF", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1aba088a20b95bb9f7f7225f39e5785ef4ea", null ],
+      [ "SPELL_MOLTEN_PUNCH", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1abad4325a0886f125ee1e818a2b0b78ceed", null ],
+      [ "SPELL_MOLTEN_FLAME", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1aba75a6d3be947216957892ac27dcf52a1d", null ],
+      [ "SPELL_HATEFUL_STRIKE", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1ababad6e8ef38e36b223ac12f2dbb1711b1", null ],
+      [ "SPELL_VOLCANIC_ERUPTION", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1aba35f23f72605836bef98b77ae75bb8103", null ],
+      [ "SPELL_VOLCANIC_ERUPTION_TRIGGER", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1abad1c54825503fd69f4f3beb7d4079ad6c", null ],
+      [ "SPELL_VOLCANIC_GEYSER", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1aba6c3253da2383661bc757e74284163365", null ],
+      [ "SPELL_BERSERK", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1abad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
+      [ "SPELL_CHARGE", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1aba379cd345f5bd4f776413760e5e279963", null ],
+      [ "SPELL_SERVERSIDE_RANDOM_TARGET", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1aba4afeaddc7e00f338f7033e0421934935", null ],
+      [ "NPC_SUPREMUS_VOLCANO", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1aba01e88a8ace84793859cb15cd5301cf2e", null ],
+      [ "GROUP_ABILITIES", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1abab77bbe102634006229e15f0a32fb6c9a", null ],
+      [ "GROUP_MOLTEN_PUNCH", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1abafd320e90ca8fd7f4c9b70c71f92e4bd6", null ],
+      [ "GROUP_PHASE_CHANGE", "df/d81/a02966.html#a5a2dccece1c55769858f3285c94af1aba9ef91e5b4ca91a9b1f730f400fef1c78", null ]
     ] ],
-    [ "HawkHunting", "df/d81/a02966.html#a096cc98a9aabe12e9a0d16fa3f6c7467", [
-      [ "SPELL_HAWK_HUNTING_ITEM", "df/d81/a02966.html#a096cc98a9aabe12e9a0d16fa3f6c7467a6ec995a1ccedcab945036b6b96fbfa2e", null ]
-    ] ],
-    [ "RodinLightningSpells", "df/d81/a02966.html#a80e7ba946308fea1c6de5c21365652f3", [
-      [ "SPELL_RODIN_LIGHTNING_START", "df/d81/a02966.html#a80e7ba946308fea1c6de5c21365652f3a7fbdcf0c94df64ba932ea4666d375a4c", null ],
-      [ "SPELL_RODIN_LIGHTNING_END", "df/d81/a02966.html#a80e7ba946308fea1c6de5c21365652f3ab99cec97c6cf09d8ae5863d97e4c1632", null ],
-      [ "NPC_RODIN", "df/d81/a02966.html#a80e7ba946308fea1c6de5c21365652f3adc9bd59249c9654d416ff92475586895", null ]
-    ] ],
-    [ "TheCleansing", "df/d81/a02966.html#a72e1fc2fb7f2d445c9e22195c32dfe0c", [
-      [ "SPELL_CLEANSING_SOUL", "df/d81/a02966.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca85c707f1dd04c7a7bcbd939bf09f2bf1", null ],
-      [ "SPELL_SUMMON_INNER_TURMOIL", "df/d81/a02966.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafcb3e66b7b65655d2b2ee1e97b205073", null ],
-      [ "SPELL_RECENT_MEDITATION", "df/d81/a02966.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafd95316ce2b15dfc3e7150a2cb09a7c1", null ],
-      [ "SPELL_MIRROR_IMAGE_AURA", "df/d81/a02966.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca97f96c604fb7a22850a56756fe3b176a", null ],
-      [ "QUEST_THE_CLEANSING_H", "df/d81/a02966.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca8986a58dfd3cb3e376200de1039e6529", null ],
-      [ "QUEST_THE_CLEANSING_A", "df/d81/a02966.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca7b3fd5b03fd32aeda7f996691764daa7", null ]
-    ] ],
-    [ "AddSC_howling_fjord", "df/d81/a02966.html#a1f2f485d0649e510913e07a28b6082a5", null ]
+    [ "AddSC_boss_supremus", "df/d81/a02966.html#aca4140213fae739c682d7d7e241294e0", null ]
 ];

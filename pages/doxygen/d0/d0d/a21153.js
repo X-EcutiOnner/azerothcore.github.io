@@ -1,6 +1,7 @@
 var a21153 =
 [
-    [ "npc_frenzied_worgenAI", "d5/deb/a21157.html", "d5/deb/a21157" ],
-    [ "npc_frenzied_worgen", "d0/d0d/a21153.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d0/d0d/a21153.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "npc_azure_captain", "d0/d0d/a21153.html#abbdba89267506b8dd1e93ea0e059979c", null ],
+    [ "Reset", "d0/d0d/a21153.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
+    [ "UpdateAI", "d0/d0d/a21153.html#a9aacf1533414ade27973ddcc46434978", null ],
+    [ "_events", "d0/d0d/a21153.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
 ];

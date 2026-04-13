@@ -1,10 +1,18 @@
 var a29429 =
 [
-    [ "area_id", "d9/d2f/a29429.html#acbd77950bf9548d266e568640cf38458", null ],
-    [ "map_id", "d9/d2f/a29429.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
-    [ "virtual_map_id", "d9/d2f/a29429.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
-    [ "x1", "d9/d2f/a29429.html#a78967fef40841f705c2564a177cb36f3", null ],
-    [ "x2", "d9/d2f/a29429.html#a037dca812715df0b4f2551f8684b537c", null ],
-    [ "y1", "d9/d2f/a29429.html#a7f90073656e1cd00a88add9f8d881d11", null ],
-    [ "y2", "d9/d2f/a29429.html#ad8e0164952e5565488d5443f269ec79e", null ]
+    [ "CreateEventInfo", "d9/d2f/a29429.html#a34bc192406fd9f489e57a7ad6e5aab6d", null ],
+    [ "FindMatchingScenario", "d9/d2f/a29429.html#a9b31d6d9880ee54a17df6fb57f334396", null ],
+    [ "GetEffectiveHitMask", "d9/d2f/a29429.html#a1a2a08ffb1b7750d8292d70baa22109d", null ],
+    [ "GetEffectiveSpellPhaseMask", "d9/d2f/a29429.html#a84919c55f1ea5a3318982fe73e39c6f1", null ],
+    [ "GetEffectiveSpellTypeMask", "d9/d2f/a29429.html#aada93a604c8e7f4b5a9d0c62fb134784", null ],
+    [ "IsSpellTypeProc", "d9/d2f/a29429.html#afe8b7929c8489d9c19bbfef2daaa0e9a", null ],
+    [ "RequiresSpellFamilyMatch", "d9/d2f/a29429.html#a483394c3827b435220ff73a22b202cbd", null ],
+    [ "SetUp", "d9/d2f/a29429.html#a97a6a44cf781708f376088b8d755e51e", null ],
+    [ "TearDown", "d9/d2f/a29429.html#aa7cf1e7c860169791235a8c83079b7c3", null ],
+    [ "_allEntries", "d9/d2f/a29429.html#a863fca9ea018277f0f70f074cc5cbee0", null ],
+    [ "_damageInfo", "d9/d2f/a29429.html#a79d9c97408a50b436bff5466b20de7fe", null ],
+    [ "_defaultSpellInfo", "d9/d2f/a29429.html#affaa8e236d7ba203b1f2077ffbcad0c4", null ],
+    [ "_healInfo", "d9/d2f/a29429.html#a3495fb2c09817a1605e46de9b5ab4a5a", null ],
+    [ "_originalWorld", "d9/d2f/a29429.html#a1616643b4020ac84e039f96a535d3a7f", null ],
+    [ "_worldMock", "d9/d2f/a29429.html#a5d64d7a5be1af3d13d67fd7ce82f7d58", null ]
 ];

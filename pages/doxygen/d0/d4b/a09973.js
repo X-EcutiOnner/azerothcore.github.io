@@ -1,6 +1,7 @@
 var a09973 =
 [
-    [ "LootValidatorRef", "d0/d4b/a09973.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
-    [ "sourceObjectDestroyLink", "d0/d4b/a09973.html#a8833022cf1acf786c06f1580fbe11c24", null ],
-    [ "targetObjectDestroyLink", "d0/d4b/a09973.html#a93baac45dcb801215c28ac0dba097eba", null ]
+    [ "LootGroupInvalidSelector", "d0/d4b/a09973.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
+    [ "operator()", "d0/d4b/a09973.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
+    [ "_loot", "d0/d4b/a09973.html#a67b9d223426512af79bbf5b035c18a6d", null ],
+    [ "_lootMode", "d0/d4b/a09973.html#a10e307846a0731aa812388c29c0d4bc8", null ]
 ];

@@ -1,6 +1,8 @@
 var a04262 =
 [
-    [ "instance_pit_of_saron", "df/d98/a17251.html", "df/d98/a17251" ],
-    [ "instance_pit_of_saron::instance_pit_of_saron_InstanceScript", "db/d99/a17255.html", "db/d99/a17255" ],
-    [ "AddSC_instance_pit_of_saron", "d1/d7a/a04262.html#a0793b7a11993f477eea1066a2da4bbb2", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "df/ddf/a28261.html", "df/ddf/a28261" ],
+    [ "ApprenticeAnglerQuestEnum", "d1/d7a/a04262.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
+      [ "QUEST_APPRENTICE_ANGLER", "d1/d7a/a04262.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
+    ] ],
+    [ "AddSC_player_scripts", "d1/d7a/a04262.html#a1f476a8466c12651b57fd55bf13b9617", null ]
 ];

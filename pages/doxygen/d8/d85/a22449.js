@@ -1,8 +1,13 @@
 var a22449 =
 [
-    [ "HandleApply", "d8/d85/a22449.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "d8/d85/a22449.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "d8/d85/a22449.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "d8/d85/a22449.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "d8/d85/a22449.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "boss_illidari_council_memberAI", "d8/d85/a22449.html#ac32366dfad13cd37ced2428d041e25c9", null ],
+    [ "DamageTaken", "d8/d85/a22449.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
+    [ "DoAction", "d8/d85/a22449.html#a203310b84d71a24145b1c39e7faff182", null ],
+    [ "EnterEvadeMode", "d8/d85/a22449.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
+    [ "JustDied", "d8/d85/a22449.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
+    [ "JustEngagedWith", "d8/d85/a22449.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
+    [ "KilledUnit", "d8/d85/a22449.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
+    [ "Reset", "d8/d85/a22449.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
+    [ "events", "d8/d85/a22449.html#ad47a350f5ed066e04816e72961a80bd0", null ],
+    [ "instance", "d8/d85/a22449.html#adb11720cd0fd87a42b9a78490a70251e", null ]
 ];

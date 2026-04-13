@@ -1,5 +1,6 @@
 var a09905 =
 [
-    [ "bossId", "df/daa/a09905.html#af9fc7d02d16d4fb3547273428553cf05", null ],
-    [ "boundary", "df/daa/a09905.html#a7b474c6b9225102ba08864256d07d9e6", null ]
+    [ "NpcTextLocale", "df/daa/a09905.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
+    [ "Text_0", "df/daa/a09905.html#adf17307b9d00e0b63b9c2827fca96320", null ],
+    [ "Text_1", "df/daa/a09905.html#a40f69a13a202c350fdce2177288727e9", null ]
 ];

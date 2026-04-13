@@ -1,9 +1,6 @@
 var a12389 =
 [
-    [ "npc_burning_spiritAI", "d5/d58/a12389.html#a52f63423d09794446b0c01da2feb325d", null ],
-    [ "EnterEvadeMode", "d5/d58/a12389.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
-    [ "IsSummonedBy", "d5/d58/a12389.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
-    [ "MovementInform", "d5/d58/a12389.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
-    [ "_events", "d5/d58/a12389.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
-    [ "_flamelasherGUID", "d5/d58/a12389.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
+    [ "boss_drektharAI", "d2/dd5/a12393.html", "d2/dd5/a12393" ],
+    [ "boss_drekthar", "d5/d58/a12389.html#ac9296654b10191ac9d58219ba36f57b3", null ],
+    [ "GetAI", "d5/d58/a12389.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
 ];

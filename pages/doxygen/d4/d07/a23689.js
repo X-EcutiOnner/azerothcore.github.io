@@ -1,9 +1,6 @@
 var a23689 =
 [
-    [ "boss_dalliah_the_doomsayer", "d4/d07/a23689.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "d4/d07/a23689.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "d4/d07/a23689.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "d4/d07/a23689.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "d4/d07/a23689.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "d4/d07/a23689.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "go_beaconAI", "d4/d07/a23689.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "d4/d07/a23689.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "creatureList", "d4/d07/a23689.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
 ];

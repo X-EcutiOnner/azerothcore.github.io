@@ -1,8 +1,7 @@
 var a06201 =
 [
-    [ "PassiveAI", "dd/dae/a06201.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
-    [ "AttackStart", "dd/dae/a06201.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
-    [ "MoveInLineOfSight", "dd/dae/a06201.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
-    [ "Permissible", "dd/dae/a06201.html#a2960223799a5b3baedbdd7e664604865", null ],
-    [ "UpdateAI", "dd/dae/a06201.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
+    [ "arg1", "dd/dae/a06201.html#aa2018e5823bcf013847605847231e3c2", null ],
+    [ "arg2", "dd/dae/a06201.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
+    [ "arg3", "dd/dae/a06201.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
+    [ "updateType", "dd/dae/a06201.html#a84cace2469c54d57b33abe5ca93588ca", null ]
 ];

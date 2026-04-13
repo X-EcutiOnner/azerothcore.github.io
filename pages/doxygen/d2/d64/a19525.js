@@ -1,9 +1,5 @@
 var a19525 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d2/d64/a19525.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "d2/d64/a19525.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "d2/d64/a19525.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "d2/d64/a19525.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "d2/d64/a19525.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "d2/d64/a19525.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "achievement_split_personality", "d2/d64/a19525.html#aac29ae7c321306a663e55493987af45d", null ],
+    [ "OnCheck", "d2/d64/a19525.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AsyncCallbackProcessor&lt; T &gt; Class Template Reference</title>
+<title>AzerothCore: Acore::Runnable Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,54 +106,43 @@ $(document).ready(function(){initNavTree('d1/d9b/a05677.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../de/df3/a05674.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AsyncCallbackProcessor&lt; T &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Runnable Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">AsyncCallbackProcessor.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Threading.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aee6f273ab86fad749de85cd12ea32a98"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9b/a05677.html#aee6f273ab86fad749de85cd12ea32a98">AsyncCallbackProcessor</a> ()=default</td></tr>
-<tr class="separator:aee6f273ab86fad749de85cd12ea32a98"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0a1b8fb7112485c9461387b6effcd56b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9b/a05677.html#a0a1b8fb7112485c9461387b6effcd56b">~AsyncCallbackProcessor</a> ()=default</td></tr>
-<tr class="separator:a0a1b8fb7112485c9461387b6effcd56b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a47ef165fe4c31f46998f69e8e16625f1"><td class="memItemLeft" align="right" valign="top">T &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9b/a05677.html#a47ef165fe4c31f46998f69e8e16625f1">AddCallback</a> (T &amp;&amp;query)</td></tr>
-<tr class="separator:a47ef165fe4c31f46998f69e8e16625f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4fce127f587a9da913a9e9061ba538e7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9b/a05677.html#a4fce127f587a9da913a9e9061ba538e7">ProcessReadyCallbacks</a> ()</td></tr>
-<tr class="separator:a4fce127f587a9da913a9e9061ba538e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:af575ef04d5b2440ad3a787348e5baf9a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9b/a05677.html#af575ef04d5b2440ad3a787348e5baf9a">AsyncCallbackProcessor</a> (<a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a> const &amp;)=delete</td></tr>
-<tr class="separator:af575ef04d5b2440ad3a787348e5baf9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae95508c8bd67d6246279f37cbe6ca8d3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9b/a05677.html#ae95508c8bd67d6246279f37cbe6ca8d3">operator=</a> (<a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a> const &amp;)=delete</td></tr>
-<tr class="separator:ae95508c8bd67d6246279f37cbe6ca8d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add1dc9a377ee89c32cc40c42907e5bd8"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9b/a05677.html#add1dc9a377ee89c32cc40c42907e5bd8">~Runnable</a> ()=default</td></tr>
+<tr class="separator:add1dc9a377ee89c32cc40c42907e5bd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad92d9c0459fbcc59d2b0d8fe2ed620c9"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9b/a05677.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9">run</a> ()=0</td></tr>
+<tr class="separator:ad92d9c0459fbcc59d2b0d8fe2ed620c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a062323e141fa33ae094adbef16caf3d6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9b/a05677.html#a062323e141fa33ae094adbef16caf3d6">incReference</a> ()</td></tr>
+<tr class="separator:a062323e141fa33ae094adbef16caf3d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69bf63c7f684de6e278de0468ed8fa06"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9b/a05677.html#a69bf63c7f684de6e278de0468ed8fa06">decReference</a> ()</td></tr>
+<tr class="separator:a69bf63c7f684de6e278de0468ed8fa06"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a372d9496b9a1b3e3f718cefe50164209"><td class="memItemLeft" align="right" valign="top">std::vector&lt; T &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9b/a05677.html#a372d9496b9a1b3e3f718cefe50164209">_callbacks</a></td></tr>
-<tr class="separator:a372d9496b9a1b3e3f718cefe50164209"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae047c0949843835f0b240484df01b7f8"><td class="memItemLeft" align="right" valign="top">std::atomic_long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9b/a05677.html#ae047c0949843835f0b240484df01b7f8">m_refs</a></td></tr>
+<tr class="separator:ae047c0949843835f0b240484df01b7f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
-class AsyncCallbackProcessor&lt; T &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aee6f273ab86fad749de85cd12ea32a98" name="aee6f273ab86fad749de85cd12ea32a98"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aee6f273ab86fad749de85cd12ea32a98">&#9670;&#160;</a></span>AsyncCallbackProcessor() <span class="overload">[1/2]</span></h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="add1dc9a377ee89c32cc40c42907e5bd8" name="add1dc9a377ee89c32cc40c42907e5bd8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add1dc9a377ee89c32cc40c42907e5bd8">&#9670;&#160;</a></span>~Runnable()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a>&lt; T &gt;<a class="el" href="../../d1/d9b/a05677.html">::AsyncCallbackProcessor</a> </td>
+          <td class="memname">virtual Acore::Runnable::~Runnable </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -161,62 +150,7 @@ template&lt;typename T &gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0a1b8fb7112485c9461387b6effcd56b" name="a0a1b8fb7112485c9461387b6effcd56b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0a1b8fb7112485c9461387b6effcd56b">&#9670;&#160;</a></span>~AsyncCallbackProcessor()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a>&lt; T &gt;::~<a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a> </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af575ef04d5b2440ad3a787348e5baf9a" name="af575ef04d5b2440ad3a787348e5baf9a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af575ef04d5b2440ad3a787348e5baf9a">&#9670;&#160;</a></span>AsyncCallbackProcessor() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a>&lt; T &gt;<a class="el" href="../../d1/d9b/a05677.html">::AsyncCallbackProcessor</a> </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a>&lt; T &gt; const &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -224,84 +158,17 @@ template&lt;typename T &gt; </div>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a47ef165fe4c31f46998f69e8e16625f1" name="a47ef165fe4c31f46998f69e8e16625f1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a47ef165fe4c31f46998f69e8e16625f1">&#9670;&#160;</a></span>AddCallback()</h2>
+<a id="a69bf63c7f684de6e278de0468ed8fa06" name="a69bf63c7f684de6e278de0468ed8fa06"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69bf63c7f684de6e278de0468ed8fa06">&#9670;&#160;</a></span>decReference()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">T &amp; <a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a>&lt; T &gt;::AddCallback </td>
-          <td>(</td>
-          <td class="paramtype">T &amp;&amp;&#160;</td>
-          <td class="paramname"><em>query</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
-<div class="line"><span class="lineno">   36</span>        <a class="code hl_variable" href="../../d1/d9b/a05677.html#a372d9496b9a1b3e3f718cefe50164209">_callbacks</a>.emplace_back(std::move(query));</div>
-<div class="line"><span class="lineno">   37</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/d9b/a05677.html#a372d9496b9a1b3e3f718cefe50164209">_callbacks</a>.back();</div>
-<div class="line"><span class="lineno">   38</span>    }</div>
-<div class="ttc" id="aa05677_html_a372d9496b9a1b3e3f718cefe50164209"><div class="ttname"><a href="../../d1/d9b/a05677.html#a372d9496b9a1b3e3f718cefe50164209">AsyncCallbackProcessor::_callbacks</a></div><div class="ttdeci">std::vector&lt; T &gt; _callbacks</div><div class="ttdef"><b>Definition:</b> AsyncCallbackProcessor.h:59</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">AsyncCallbackProcessor&lt; T &gt;::_callbacks</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l15145">Player::ActivateSpec()</a>, <a class="el" href="../../#l01328">WorldSession::AddQueryHolderCallback()</a>, <a class="el" href="../../#l01323">WorldSession::AddTransactionCallback()</a>, <a class="el" href="../../#l00529">WorldSocket::HandleAuthSession()</a>, <a class="el" href="../../#l00273">WorldSession::HandleCharCreateOpcode()</a>, <a class="el" href="../../#l01620">WorldSession::HandleCharCustomize()</a>, <a class="el" href="../../#l00256">WorldSession::HandleCharEnumOpcode()</a>, <a class="el" href="../../#l01925">WorldSession::HandleCharFactionOrRaceChange()</a>, <a class="el" href="../../#l01344">WorldSession::HandleCharRenameOpcode()</a>, <a class="el" href="../../#l00284">AuthSession::HandleLogonChallenge()</a>, <a class="el" href="../../#l00457">AuthSession::HandleLogonProof()</a>, <a class="el" href="../../#l00204">WorldSession::HandleOpenItemOpcode()</a>, <a class="el" href="../../#l00727">AuthSession::HandleRealmList()</a>, <a class="el" href="../../#l00621">AuthSession::HandleReconnectChallenge()</a>, <a class="el" href="../../#l00030">ServerMailReward::OnPlayerLogin()</a>, <a class="el" href="../../#l00169">AuthSession::Start()</a>, <a class="el" href="../../#l00128">WorldSocket::Start()</a>, and <a class="el" href="../../#l01573">World::UpdateRealmCharCount()</a>.</p>
-
-</div>
-</div>
-<a id="ae95508c8bd67d6246279f37cbe6ca8d3" name="ae95508c8bd67d6246279f37cbe6ca8d3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae95508c8bd67d6246279f37cbe6ca8d3">&#9670;&#160;</a></span>operator=()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a> &amp; <a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a>&lt; T &gt;::operator= </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a>&lt; T &gt; const &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a4fce127f587a9da913a9e9061ba538e7" name="a4fce127f587a9da913a9e9061ba538e7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4fce127f587a9da913a9e9061ba538e7">&#9670;&#160;</a></span>ProcessReadyCallbacks()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a>&lt; T &gt;::ProcessReadyCallbacks </td>
+          <td class="memname">void Acore::Runnable::decReference </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -313,40 +180,89 @@ template&lt;typename T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   41</span>    {</div>
-<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d9b/a05677.html#a372d9496b9a1b3e3f718cefe50164209">_callbacks</a>.empty())</div>
-<div class="line"><span class="lineno">   43</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   44</span> </div>
-<div class="line"><span class="lineno">   45</span>        std::vector&lt;T&gt; updateCallbacks{ std::move(<a class="code hl_variable" href="../../d1/d9b/a05677.html#a372d9496b9a1b3e3f718cefe50164209">_callbacks</a>) };</div>
-<div class="line"><span class="lineno">   46</span> </div>
-<div class="line"><span class="lineno">   47</span>        updateCallbacks.erase(std::remove_if(updateCallbacks.begin(), updateCallbacks.end(), [](T&amp; callback)</div>
-<div class="line"><span class="lineno">   48</span>        {</div>
-<div class="line"><span class="lineno">   49</span>            return callback.InvokeIfReady();</div>
-<div class="line"><span class="lineno">   50</span>        }), updateCallbacks.end());</div>
-<div class="line"><span class="lineno">   51</span> </div>
-<div class="line"><span class="lineno">   52</span>        <a class="code hl_variable" href="../../d1/d9b/a05677.html#a372d9496b9a1b3e3f718cefe50164209">_callbacks</a>.insert(<a class="code hl_variable" href="../../d1/d9b/a05677.html#a372d9496b9a1b3e3f718cefe50164209">_callbacks</a>.end(), std::make_move_iterator(updateCallbacks.begin()), std::make_move_iterator(updateCallbacks.end()));</div>
-<div class="line"><span class="lineno">   53</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>        {</div>
+<div class="line"><span class="lineno">   35</span>            <span class="keywordflow">if</span> (!--<a class="code hl_variable" href="../../d1/d9b/a05677.html#ae047c0949843835f0b240484df01b7f8">m_refs</a>)</div>
+<div class="line"><span class="lineno">   36</span>            {</div>
+<div class="line"><span class="lineno">   37</span>                <span class="keyword">delete</span> <span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">   38</span>            }</div>
+<div class="line"><span class="lineno">   39</span>        }</div>
+<div class="ttc" id="aa05677_html_ae047c0949843835f0b240484df01b7f8"><div class="ttname"><a href="../../d1/d9b/a05677.html#ae047c0949843835f0b240484df01b7f8">Acore::Runnable::m_refs</a></div><div class="ttdeci">std::atomic_long m_refs</div><div class="ttdef"><b>Definition:</b> Threading.h:41</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">AsyncCallbackProcessor&lt; T &gt;::_callbacks</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00041">m_refs</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01316">WorldSession::ProcessQueryCallbacks()</a>, <a class="el" href="../../#l01810">World::ProcessQueryCallbacks()</a>, <a class="el" href="../../#l00180">AuthSession::Update()</a>, and <a class="el" href="../../#l00164">WorldSocket::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00044">Acore::Thread::~Thread()</a>.</p>
+
+</div>
+</div>
+<a id="a062323e141fa33ae094adbef16caf3d6" name="a062323e141fa33ae094adbef16caf3d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a062323e141fa33ae094adbef16caf3d6">&#9670;&#160;</a></span>incReference()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Acore::Runnable::incReference </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   32</span>{ ++<a class="code hl_variable" href="../../d1/d9b/a05677.html#ae047c0949843835f0b240484df01b7f8">m_refs</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00041">m_refs</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00033">Acore::Thread::Thread()</a>.</p>
+
+</div>
+</div>
+<a id="ad92d9c0459fbcc59d2b0d8fe2ed620c9" name="ad92d9c0459fbcc59d2b0d8fe2ed620c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad92d9c0459fbcc59d2b0d8fe2ed620c9">&#9670;&#160;</a></span>run()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void Acore::Runnable::run </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00091">Acore::Thread::ThreadTask()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a372d9496b9a1b3e3f718cefe50164209" name="a372d9496b9a1b3e3f718cefe50164209"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a372d9496b9a1b3e3f718cefe50164209">&#9670;&#160;</a></span>_callbacks</h2>
+<a id="ae047c0949843835f0b240484df01b7f8" name="ae047c0949843835f0b240484df01b7f8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae047c0949843835f0b240484df01b7f8">&#9670;&#160;</a></span>m_refs</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;T&gt; <a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a>&lt; T &gt;::_callbacks</td>
+          <td class="memname">std::atomic_long Acore::Runnable::m_refs</td>
         </tr>
       </table>
   </td>
@@ -356,7 +272,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">AsyncCallbackProcessor&lt; T &gt;::AddCallback()</a>, and <a class="el" href="../../#l00040">AsyncCallbackProcessor&lt; T &gt;::ProcessReadyCallbacks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00033">decReference()</a>, and <a class="el" href="../../#l00032">incReference()</a>.</p>
 
 </div>
 </div>
@@ -365,8 +281,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/d9b/a05677.html">AsyncCallbackProcessor</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:09:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d5/d66/a05016.html">Acore</a></li><li class="navelem"><a class="el" href="../../d1/d9b/a05677.html">Runnable</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:29:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

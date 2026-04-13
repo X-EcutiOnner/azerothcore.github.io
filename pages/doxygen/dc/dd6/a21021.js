@@ -1,6 +1,7 @@
 var a21021 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d2/db7/a21025.html", "d2/db7/a21025" ],
-    [ "instance_ulduar", "dc/dd6/a21021.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "dc/dd6/a21021.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "PrepareAuraScript", "dc/dd6/a21021.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
+    [ "Register", "dc/dd6/a21021.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
+    [ "TriggerFists", "dc/dd6/a21021.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
+    [ "Validate", "dc/dd6/a21021.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
 ];

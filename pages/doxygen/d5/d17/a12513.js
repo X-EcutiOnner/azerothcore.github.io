@@ -1,6 +1,8 @@
 var a12513 =
 [
-    [ "boss_drakkisathAI", "d2/db7/a12517.html", "d2/db7/a12517" ],
-    [ "boss_drakkisath", "d5/d17/a12513.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
-    [ "GetAI", "d5/d17/a12513.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
+    [ "boss_drakkisath", "d5/d17/a12513.html#a77fdb667d0dc262dcacc5e988cf5fc8e", null ],
+    [ "JustEngagedWith", "d5/d17/a12513.html#a502ca053bb96215c8386ee694a963cfa", null ],
+    [ "UpdateAI", "d5/d17/a12513.html#a90bf913d6d94e5fc6d982049dd96e3b1", null ],
+    [ "_conflagrateTarget", "d5/d17/a12513.html#aec0bd29626d8b59e33bfba370788ac40", null ],
+    [ "_conflagrateThreat", "d5/d17/a12513.html#ac1cb21a95bbfcfbffc5a3046b233c183", null ]
 ];

@@ -1,8 +1,7 @@
 var a20109 =
 [
-    [ "go_celestial_planetarium_accessAI", "db/d46/a20109.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
-    [ "GossipHello", "db/d46/a20109.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
-    [ "UpdateAI", "db/d46/a20109.html#a9b2bfb74a12e3258476387fc78cde574", null ],
-    [ "_locked", "db/d46/a20109.html#a37f83dbbb05e461d613a4c38001f785c", null ],
-    [ "events", "db/d46/a20109.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
+    [ "npc_ulduar_saronite_vapors", "db/d46/a20109.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
+    [ "IsSummonedBy", "db/d46/a20109.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
+    [ "JustDied", "db/d46/a20109.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "_instance", "db/d46/a20109.html#ad304110ff1bfc33066cd17f04cf40181", null ]
 ];

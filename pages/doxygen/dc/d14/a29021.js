@@ -1,7 +1,10 @@
 var a29021 =
 [
-    [ "cutPercent", "dc/d14/a29021.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "dc/d14/a29021.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "dc/d14/a29021.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "dc/d14/a29021.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "ID", "dc/d14/a29021.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "dc/d14/a29021.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "dc/d14/a29021.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "dc/d14/a29021.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "dc/d14/a29021.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "dc/d14/a29021.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "dc/d14/a29021.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

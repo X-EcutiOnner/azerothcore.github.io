@@ -1,54 +1,65 @@
 var a01829 =
 [
-    [ "DataHeader", "d6/dbd/a01829.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterTheSlavePensCreatureAI", "d6/dbd/a01829.html#a3163756712dfa617a183a8a7e234f330", null ],
-    [ "SPScriptName", "d6/dbd/a01829.html#ad12e3a1d9bc4f583f7c1612211dc5f97", null ],
-    [ "SPCreaturesIds", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9", [
-      [ "NPC_AHUNE", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9a7b52f920d935d156de587e3d4788b10d", null ],
-      [ "NPC_FROZEN_CORE", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9a4ae7ea256d2502a30f8011100a6c1acd", null ],
-      [ "NPC_AHUNE_SUMMON_LOC_BUNNY", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9ae0aab405ed6b525a06267474c9436141", null ],
-      [ "NPC_TOTEM", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9a76871419e416cabd16418062e27e10c2", null ],
-      [ "NPC_TOTEM_BUNNY_1", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9ab0e27d6bbd85ffb6eead5db071c83962", null ],
-      [ "NPC_TOTEM_BUNNY_2", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9a5905ea1b882167c8081078f04f1867f3", null ],
-      [ "NPC_TOTEM_BUNNY_3", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9a1b1e3b0aa23d1a5d80bf0d94571977c0", null ],
-      [ "NPC_LUMA_SKYMOTHER", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9ae354c44597fa3888483aad4f29b35a34", null ],
-      [ "NPC_AHUNE_LOC_BUNNY", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9ac37335e6968f0005aa445f3a474d938d", null ],
-      [ "NPC_EARTHEN_RING_FLAMECALLER", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9ab0b52806663da11e2af217ba49014b73", null ],
-      [ "NPC_SHAMAN_BONFIRE_BUNNY_000", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9ad7221cf7270ee3529dd08d512ba11c7b", null ],
-      [ "NPC_SHAMAN_BONFIRE_BUNNY_001", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9a0385169e92f230f8fcbbb5339cf2073a", null ],
-      [ "NPC_SHAMAN_BONFIRE_BUNNY_002", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9abefeecf6f36b5a0f870f1d704e1e0c66", null ],
-      [ "NPC_SHAMAN_BEAM_BUNNY_000", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9a44667bf4ca952b0377f5309a61fb8ff5", null ],
-      [ "NPC_SHAMAN_BEAM_BUNNY_001", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9a0d5020c204e75b61afaec1ae09353771", null ],
-      [ "NPC_SHAMAN_BEAM_BUNNY_002", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9afd502a4325dd30dc41b02789a3a9cc8f", null ],
-      [ "NPC_WHISP_DEST_BUNNY", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9ab01e6d5b6907eedb3217488becb575ed", null ],
-      [ "NPC_WHISP_SOURCE_BUNNY", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9ab8cf059751e1c34a5d7322a909f19ecd", null ],
-      [ "NPC_MENNU_THE_BETRAYER", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9ace05d3d524d64eeb435794f71ddd6d5e", null ],
-      [ "NPC_ROKMAR_THE_CRACKLER", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9aa40e204141e353064349ee5560718734", null ],
-      [ "NPC_QUAGMIRRAN", "d6/dbd/a01829.html#a0949b9d87e6cb0f614b4259c55978bf9a242cb62e9ac4171ea8f0e23267fde9a6", null ]
+    [ "ChaseRange", "d6/d81/a10245.html", "d6/d81/a10245" ],
+    [ "ChaseAngle", "d7/d72/a10249.html", "d7/d72/a10249" ],
+    [ "MotionMaster", "df/d3f/a10253.html", "df/d3f/a10253" ],
+    [ "SPEED_CHARGE", "d6/dbd/a01829.html#a6386d0a4b64b17a25a60627bb55b360c", null ],
+    [ "VISUAL_WAYPOINT", "d6/dbd/a01829.html#af0544189c7fc748059c3075861102b40", null ],
+    [ "AnimTier", "d6/dbd/a01829.html#ae799184a3f3653b4b574f6df7a414255", [
+      [ "Ground", "d6/dbd/a01829.html#ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf", null ],
+      [ "Swim", "d6/dbd/a01829.html#ae799184a3f3653b4b574f6df7a414255ad0d933facd58904b226d055e75da2a6d", null ],
+      [ "Hover", "d6/dbd/a01829.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc", null ],
+      [ "Fly", "d6/dbd/a01829.html#ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51", null ],
+      [ "Submerged", "d6/dbd/a01829.html#ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062", null ],
+      [ "Max", "d6/dbd/a01829.html#ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233", null ]
     ] ],
-    [ "SPDataTypes", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33", [
-      [ "DATA_MENNU_THE_BETRAYER", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33a9a4846d10869a465ee97689a8c31be84", null ],
-      [ "DATA_ROKMAR_THE_CRACKLER", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33aa2d510e3d7d8aacbd276f46b67ec50ba", null ],
-      [ "DATA_QUAGMIRRAN", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33a996c3d733a334ff43a5c3db4cfc2cdd4", null ],
-      [ "DATA_AHUNE", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33a7db315b7ae5f43fb479e2d2759714d08", null ],
-      [ "MAX_ENCOUNTER", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33a7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_AHUNE_BUNNY", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33a17cb4e91ea780c7c647787360cdf3d10", null ],
-      [ "DATA_FROZEN_CORE", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33a7465fb1fdde84dec6aa67a9532f96178", null ],
-      [ "DATA_FLAMECALLER_000", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33a1df225c4000747793df6334bcc996c5b", null ],
-      [ "DATA_FLAMECALLER_001", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33aadde7253f7f2c6e8ecb0af06fe6df0e7", null ],
-      [ "DATA_FLAMECALLER_002", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33af47696141156c87950b2631476f33856", null ],
-      [ "DATA_BONFIRE_BUNNY_000", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33a010b5719726313aa294ff8c5a6304dce", null ],
-      [ "DATA_BONFIRE_BUNNY_001", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33ac7f468760925e95b552ffcfc8f29ec22", null ],
-      [ "DATA_BONFIRE_BUNNY_002", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33aedc5988e0e5a570a3023cab44f9665cc", null ],
-      [ "DATA_BEAM_BUNNY_000", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33aec05cd253367d24f1277428b2889fe1e", null ],
-      [ "DATA_BEAM_BUNNY_001", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33a8e8a822ec2e70bc4e565506318e71a2b", null ],
-      [ "DATA_BEAM_BUNNY_002", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33a0213f3a9c9a0c68ab4296da965b2407f", null ],
-      [ "DATA_LUMA_SKYMOTHER", "d6/dbd/a01829.html#a4d50a813b257ac5428d26a240d41fd33adfc20cd7d13d2b98dcd69991b2142f5d", null ]
+    [ "ForcedMovement", "d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0", [
+      [ "FORCED_MOVEMENT_NONE", "d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece", null ],
+      [ "FORCED_MOVEMENT_WALK", "d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37", null ],
+      [ "FORCED_MOVEMENT_RUN", "d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2", null ],
+      [ "FORCED_MOVEMENT_MAX", "d6/dbd/a01829.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f", null ]
     ] ],
-    [ "SPGameObjectIds", "d6/dbd/a01829.html#a06cef748157acc5cdb608eba18a2611c", [
-      [ "GO_ICE_SPEAR", "d6/dbd/a01829.html#a06cef748157acc5cdb608eba18a2611ca9b75ef7e173cd15b3202777fce52a66e", null ],
-      [ "GO_ICE_STONE", "d6/dbd/a01829.html#a06cef748157acc5cdb608eba18a2611cab111ea8e2dbb3555a27b1a933059f1e0", null ]
+    [ "MMCleanFlag", "d6/dbd/a01829.html#a1a14fe34f2e738c20bcc4e3c5cc71de5", [
+      [ "MMCF_NONE", "d6/dbd/a01829.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79", null ],
+      [ "MMCF_UPDATE", "d6/dbd/a01829.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5", null ],
+      [ "MMCF_RESET", "d6/dbd/a01829.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2", null ],
+      [ "MMCF_INUSE", "d6/dbd/a01829.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0", null ]
     ] ],
-    [ "GetTheSlavePensAI", "d6/dbd/a01829.html#a105b38fe7319e4a168abd4c0592c50b5", null ],
-    [ "EncounterCount", "d6/dbd/a01829.html#a31d630c40753c29f94ceac2db5e451a8", null ]
+    [ "MovementGeneratorType", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9", [
+      [ "IDLE_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e", null ],
+      [ "RANDOM_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2", null ],
+      [ "WAYPOINT_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9", null ],
+      [ "MAX_DB_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b", null ],
+      [ "ANIMAL_RANDOM_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9ae9aa98899960f240ae2de52288b2dbd6", null ],
+      [ "CONFUSED_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611", null ],
+      [ "CHASE_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881", null ],
+      [ "HOME_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426", null ],
+      [ "FLIGHT_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9ad1cbffaeac9c9f09b8aeedbaadef54f4", null ],
+      [ "POINT_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467", null ],
+      [ "FLEEING_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e", null ],
+      [ "DISTRACT_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a35aa056191b760ab18515a11f00f1759", null ],
+      [ "ASSISTANCE_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a32a9419cbc2b947d521e0ea050020a9c", null ],
+      [ "ASSISTANCE_DISTRACT_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4", null ],
+      [ "TIMED_FLEEING_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc", null ],
+      [ "FOLLOW_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c", null ],
+      [ "ROTATE_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a5e3cb574fe15a9c73536dab95be16c3f", null ],
+      [ "EFFECT_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac", null ],
+      [ "ESCORT_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf", null ],
+      [ "FORMATION_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a0c2be8cafce0c581d8b51ac1b31d0721", null ],
+      [ "NULL_MOTION_TYPE", "d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b", null ]
+    ] ],
+    [ "MovementSlot", "d6/dbd/a01829.html#a42f80f4e5d95e3ba656adbee43cfc3f5", [
+      [ "MOTION_SLOT_IDLE", "d6/dbd/a01829.html#a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7", null ],
+      [ "MOTION_SLOT_ACTIVE", "d6/dbd/a01829.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc", null ],
+      [ "MOTION_SLOT_CONTROLLED", "d6/dbd/a01829.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e", null ],
+      [ "MAX_MOTION_SLOT", "d6/dbd/a01829.html#a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5", null ]
+    ] ],
+    [ "PathSource", "d6/dbd/a01829.html#a7c48b62afc7f5aeede09278c110acbac", [
+      [ "WAYPOINT_MGR", "d6/dbd/a01829.html#a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7", null ],
+      [ "SMART_WAYPOINT_MGR", "d6/dbd/a01829.html#a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f", null ]
+    ] ],
+    [ "RotateDirection", "d6/dbd/a01829.html#a1978c8aa3f81d04079c45fe56aa51233", [
+      [ "ROTATE_DIRECTION_LEFT", "d6/dbd/a01829.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a", null ],
+      [ "ROTATE_DIRECTION_RIGHT", "d6/dbd/a01829.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5", null ]
+    ] ]
 ];

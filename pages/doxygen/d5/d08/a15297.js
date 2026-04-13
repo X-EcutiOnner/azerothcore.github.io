@@ -1,14 +1,9 @@
 var a15297 =
 [
-    [ "boss_captain_skarloc", "d5/d08/a15297.html#a196477160ab6d07dc644ddadf756a1e0", null ],
-    [ "InitializeAI", "d5/d08/a15297.html#a1c67fb99984f666b63f8f79c6783341d", null ],
-    [ "JustDied", "d5/d08/a15297.html#aca0d536010a53efdf9270146f15f9058", null ],
-    [ "JustEngagedWith", "d5/d08/a15297.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
-    [ "JustSummoned", "d5/d08/a15297.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
-    [ "KilledUnit", "d5/d08/a15297.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
-    [ "MovementInform", "d5/d08/a15297.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
-    [ "Reset", "d5/d08/a15297.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
-    [ "UpdateAI", "d5/d08/a15297.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
-    [ "_spawnedAdds", "d5/d08/a15297.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
-    [ "summons", "d5/d08/a15297.html#a83a9e5971411de1c136cbad91f73f487", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "d5/d08/a15297.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "d5/d08/a15297.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "d5/d08/a15297.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "d5/d08/a15297.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "d5/d08/a15297.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "d5/d08/a15297.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

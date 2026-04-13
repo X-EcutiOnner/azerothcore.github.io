@@ -1,6 +1,7 @@
 var a16101 =
 [
-    [ "npc_custodian_of_timeAI", "d6/d21/a16105.html", "d6/d21/a16105" ],
-    [ "npc_custodian_of_time", "da/de7/a16101.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "da/de7/a16101.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "npc_ahnkahar_nerubian", "da/de7/a16101.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "da/de7/a16101.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "da/de7/a16101.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "da/de7/a16101.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

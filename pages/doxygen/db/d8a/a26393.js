@@ -1,7 +1,6 @@
 var a26393 =
 [
-    [ "HandleProc", "db/d8a/a26393.html#a5c116e916fac786def41354086989b1e", null ],
-    [ "PrepareAuraScript", "db/d8a/a26393.html#a3073bfa4a55e618d77becadcbf0590df", null ],
-    [ "Register", "db/d8a/a26393.html#a1ed55488c7ea36395de9bebe24dffd22", null ],
-    [ "Validate", "db/d8a/a26393.html#a6b3633e4a11ad9d7ddb9bcd73018fe8f", null ]
+    [ "CheckCast", "db/d8a/a26393.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "db/d8a/a26393.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "db/d8a/a26393.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

@@ -1,12 +1,18 @@
 var a21365 =
 [
-    [ "boss_moraggAI", "d2/dd3/a21365.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "d2/dd3/a21365.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "d2/dd3/a21365.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "d2/dd3/a21365.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "d2/dd3/a21365.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "d2/dd3/a21365.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "d2/dd3/a21365.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "d2/dd3/a21365.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "d2/dd3/a21365.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d2/dd3/a21365.html#af2a8c43537cac96be12e6dc8d7874cec", null ],
+    [ "DespawnOachanoa", "d2/dd3/a21365.html#ac9c4473578ba8a19b280548b4257bafa", null ],
+    [ "GetOachanoa", "d2/dd3/a21365.html#acf992e311bb8ab91683556036b0fbe86", null ],
+    [ "GetPlayer", "d2/dd3/a21365.html#aec678cda5d636e66907593d8b3f952f4", null ],
+    [ "NextStep", "d2/dd3/a21365.html#ae66ac194b89e761808cd3e226fc7e495", null ],
+    [ "Reset", "d2/dd3/a21365.html#af52e16097889f80d02ab2362f5578257", null ],
+    [ "Start", "d2/dd3/a21365.html#ad34d850e1f11da93dc461995d9f00115", null ],
+    [ "UpdateAI", "d2/dd3/a21365.html#aa47d7c8a0c34fc2cf4a7b1d31d21cd4a", null ],
+    [ "canjump", "d2/dd3/a21365.html#a6705fda3183602c11573735e0ac536a8", null ],
+    [ "oachanoaGUID", "d2/dd3/a21365.html#a32c351c44121629bccea71f2fd27cf9c", null ],
+    [ "pGUID", "d2/dd3/a21365.html#aabca8fe8385fe88d6ed6ad7ae6da0261", null ],
+    [ "running", "d2/dd3/a21365.html#a62e33501656b57698b19d8fec44afa37", null ],
+    [ "secondpart", "d2/dd3/a21365.html#a98e6aaa14d458228e97ced45e553c2bf", null ],
+    [ "step", "d2/dd3/a21365.html#ab8f80e5b25f58028abdd2077c2e9de7f", null ],
+    [ "timer", "d2/dd3/a21365.html#a694c235ee9a23b30ac0aa7b15ee8db3c", null ]
 ];

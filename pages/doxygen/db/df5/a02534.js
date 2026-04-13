@@ -1,11 +1,5 @@
 var a02534 =
 [
-    [ "npc_announcer_toc10", "d8/d8a/a16922.html", "d8/d8a/a16922" ],
-    [ "MenuTexts", "db/df5/a02534.html#a5e87c460d493df2d4629af8c1a30fc5a", [
-      [ "MSG_TESTED", "db/df5/a02534.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
-      [ "MSG_NEXT_STAGE", "db/df5/a02534.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
-      [ "MSG_CRUSADERS", "db/df5/a02534.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
-      [ "MSG_ANUBARAK", "db/df5/a02534.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
-    ] ],
-    [ "AddSC_trial_of_the_crusader", "db/df5/a02534.html#aae8fa1928137dde06462a753ceebcca6", null ]
+    [ "list_commandscript", "d1/d35/a12245.html", "d1/d35/a12245" ],
+    [ "AddSC_list_commandscript", "db/df5/a02534.html#a81af00772e7a06ad952109222b1f53a3", null ]
 ];

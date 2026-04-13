@@ -1,18 +1,13 @@
 var a11997 =
 [
-    [ "WardenWin", "d3/ddf/a11997.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
-    [ "~WardenWin", "d3/ddf/a11997.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
-    [ "ForceChecks", "d3/ddf/a11997.html#a2a0e780572b1870f692803caa1ef673d", null ],
-    [ "GetModuleForClient", "d3/ddf/a11997.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
-    [ "HandleData", "d3/ddf/a11997.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
-    [ "HandleHashResult", "d3/ddf/a11997.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],
-    [ "Init", "d3/ddf/a11997.html#a3222620148b84a4d95593800a83ba3fa", null ],
-    [ "InitializeModule", "d3/ddf/a11997.html#a2082c6a634c5b1f6cb63d376ff9a9695", null ],
-    [ "IsCheckInProgress", "d3/ddf/a11997.html#aee57f10f6f4f676908c54f305210b6bc", null ],
-    [ "RequestChecks", "d3/ddf/a11997.html#a9a3e9b53f66e97a615c288058b9adcf3", null ],
-    [ "RequestHash", "d3/ddf/a11997.html#abb53eb2b1d9dc95f8e77d12d4086c6c1", null ],
-    [ "_ChecksTodo", "d3/ddf/a11997.html#a61d85f3e94cb64aedbc977c74a64e0be", null ],
-    [ "_CurrentChecks", "d3/ddf/a11997.html#a9cb49a2629d08e0f54d363f81c284425", null ],
-    [ "_PendingChecks", "d3/ddf/a11997.html#a463e1f12600b12ddf54f762093ae57f0", null ],
-    [ "_serverTicks", "d3/ddf/a11997.html#a79e969e649fa057cd3a1a835837188c6", null ]
+    [ "PlayerDumpWriter", "d3/ddf/a11997.html#a060152c060b37c4bf1208a99edc4a840", null ],
+    [ "AppendTable", "d3/ddf/a11997.html#a7f285fddf6d33dd1664b5af801f110e9", null ],
+    [ "GetDump", "d3/ddf/a11997.html#a17457008e1262c0aed284469e55841c6", null ],
+    [ "PopulateGuids", "d3/ddf/a11997.html#aab122c84eefe801ac23211ec5a41e888", null ],
+    [ "WriteDumpToFile", "d3/ddf/a11997.html#a81612bfc0d161595f4de1a6133d5c46d", null ],
+    [ "WriteDumpToString", "d3/ddf/a11997.html#a43d30815c9b3b2608e0fecad7bba7254", null ],
+    [ "_items", "d3/ddf/a11997.html#a5da825b82a09809ded2ce2c88458cc26", null ],
+    [ "_itemSets", "d3/ddf/a11997.html#a33ff3a269064d883eff84ec83c394e92", null ],
+    [ "_mails", "d3/ddf/a11997.html#a2863e88ee13debe77e4b1d3d0960d18a", null ],
+    [ "_pets", "d3/ddf/a11997.html#a33325b0514324020bba98364a7f59de5", null ]
 ];

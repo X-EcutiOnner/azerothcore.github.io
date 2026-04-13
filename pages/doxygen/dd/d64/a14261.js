@@ -1,6 +1,6 @@
 var a14261 =
 [
-    [ "npc_andorhal_towerAI", "d4/d6c/a14265.html", "d4/d6c/a14265" ],
-    [ "npc_andorhal_tower", "dd/d64/a14261.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
-    [ "GetAI", "dd/d64/a14261.html#a51139c28da736d26bf27a061862d24ee", null ]
+    [ "boss_gahzranka", "dd/d64/a14261.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "dd/d64/a14261.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "dd/d64/a14261.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

@@ -1,9 +1,6 @@
 var a17881 =
 [
-    [ "CheckTarget", "dc/d09/a17881.html#a43fc6a16aca217ef043fa34a58391357", null ],
-    [ "HandlePresence", "dc/d09/a17881.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
-    [ "OnCast", "dc/d09/a17881.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
-    [ "PrepareSpellScript", "dc/d09/a17881.html#abe559b32aa82f19abb0a6d664b75c748", null ],
-    [ "Register", "dc/d09/a17881.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
-    [ "Validate", "dc/d09/a17881.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
+    [ "HandlePeriodicTick", "dc/d09/a17881.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "dc/d09/a17881.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "dc/d09/a17881.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

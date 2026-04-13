@@ -1,12 +1,7 @@
 var a22577 =
 [
-    [ "boss_shirrak_the_dead_watcher", "de/db7/a22577.html#aaa6826de3b6563342b89544b38386d93", null ],
-    [ "EnterEvadeMode", "de/db7/a22577.html#a23768629c4ab48954880c3c29099f432", null ],
-    [ "getStackCount", "de/db7/a22577.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
-    [ "JustEngagedWith", "de/db7/a22577.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
-    [ "JustSummoned", "de/db7/a22577.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
-    [ "Reset", "de/db7/a22577.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
-    [ "SpellHitTarget", "de/db7/a22577.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
-    [ "UpdateAI", "de/db7/a22577.html#a855505f949f53f979187abcb5b2f617f", null ],
-    [ "focusGUID", "de/db7/a22577.html#a81a7eade42ef595c173d7828ce59ef88", null ]
+    [ "HandleEffectRemove", "de/db7/a22577.html#a6adc572bb13dde9b83a44a1c27833019", null ],
+    [ "PrepareAuraScript", "de/db7/a22577.html#a877c26735531508d1806273117f3e8bc", null ],
+    [ "Register", "de/db7/a22577.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
+    [ "Validate", "de/db7/a22577.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
 ];

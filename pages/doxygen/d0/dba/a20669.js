@@ -1,5 +1,7 @@
 var a20669 =
 [
-    [ "npc_ulduar_rocket_strike_trigger", "d0/dba/a20669.html#aeed5dd446c67bba7edac698fe5e237c8", null ],
-    [ "SpellHitTarget", "d0/dba/a20669.html#ad4a438c5143a6de2b469baa28f0893c5", null ]
+    [ "OnApply", "d0/dba/a20669.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "d0/dba/a20669.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "d0/dba/a20669.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "d0/dba/a20669.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

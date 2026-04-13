@@ -1,10 +1,6 @@
 var a15201 =
 [
-    [ "npc_hyjal_frost_wyrm", "d7/d20/a15201.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d7/d20/a15201.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d7/d20/a15201.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d7/d20/a15201.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d7/d20/a15201.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d7/d20/a15201.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d7/d20/a15201.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "instance_maraudon_InstanceMapScript", "d2/df3/a15205.html", "d2/df3/a15205" ],
+    [ "instance_maraudon", "d7/d20/a15201.html#aaae11d2569d04b42840b101a5702cf24", null ],
+    [ "GetInstanceScript", "d7/d20/a15201.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
 ];

@@ -1,10 +1,10 @@
 var a07573 =
 [
-    [ "SelectionPool", "df/d40/a07573.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
-    [ "AddGroup", "df/d40/a07573.html#a87fe4747536355ad7affda76640a082e", null ],
-    [ "GetPlayerCount", "df/d40/a07573.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
-    [ "Init", "df/d40/a07573.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
-    [ "KickGroup", "df/d40/a07573.html#a74fb708546a8612ca52b24b8472b71ef", null ],
-    [ "PlayerCount", "df/d40/a07573.html#a0c08c47f68dbb45175efc524f4553e16", null ],
-    [ "SelectedGroups", "df/d40/a07573.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
+    [ "BattlegroundChatBuilder", "df/d40/a07573.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
+    [ "do_helper", "df/d40/a07573.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
+    [ "operator()", "df/d40/a07573.html#ab84296c320b09a387de6e6e6a2326b83", null ],
+    [ "_args", "df/d40/a07573.html#a32a72bf1110179cc58dcf2df914c7389", null ],
+    [ "_msgtype", "df/d40/a07573.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
+    [ "_source", "df/d40/a07573.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
+    [ "_textId", "df/d40/a07573.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
 ];

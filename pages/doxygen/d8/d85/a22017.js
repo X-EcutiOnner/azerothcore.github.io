@@ -1,5 +1,7 @@
 var a22017 =
 [
-    [ "npc_black_knight_graveyardAI", "d8/d85/a22017.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "d8/d85/a22017.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "npc_wg_siege_machineAI", "d8/d85/a22017.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d8/d85/a22017.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d8/d85/a22017.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d8/d85/a22017.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

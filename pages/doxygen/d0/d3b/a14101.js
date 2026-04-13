@@ -1,6 +1,5 @@
 var a14101 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "d7/d04/a14105.html", "d7/d04/a14105" ],
-    [ "npc_bh_thalorien_dawnseeker", "d0/d3b/a14101.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "d0/d3b/a14101.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "npc_mikhail", "d0/d3b/a14101.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "d0/d3b/a14101.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
 ];

@@ -1,13 +1,7 @@
 var a12013 =
 [
-    [ "CommandFinished", "df/d89/a12013.html#af7ce6ffac9fa11ce0db6fd10919c4e4a", null ],
-    [ "Print", "df/d89/a12013.html#ab10379cf266b38f4d81e2477b727471e", null ],
-    [ "CliCommandHolder", "df/d89/a12013.html#a5a45e891607114cd070721fd51926cd5", null ],
-    [ "~CliCommandHolder", "df/d89/a12013.html#a44ca7e8af5c717b1cff7b143afc077ee", null ],
-    [ "CliCommandHolder", "df/d89/a12013.html#ad9c7b2da92d97c464fb14ad1e0b9a4a9", null ],
-    [ "operator=", "df/d89/a12013.html#aaca241ecd81dc25788eaccbdc4aa5f60", null ],
-    [ "m_callbackArg", "df/d89/a12013.html#a4579ce86ff43da89524b62eefe308a59", null ],
-    [ "m_command", "df/d89/a12013.html#ae333918e09a9de4c9e402c334e076674", null ],
-    [ "m_commandFinished", "df/d89/a12013.html#a416a66ac78f1d2cb1ee2d0d93f276f43", null ],
-    [ "m_print", "df/d89/a12013.html#aa49897105905b9812fcf962326486d5d", null ]
+    [ "Command", "df/d89/a12013.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
+    [ "ModuleId", "df/d89/a12013.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
+    [ "ModuleKey", "df/d89/a12013.html#aba0f236c39186022816bd86f8e8e9093", null ],
+    [ "Size", "df/d89/a12013.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
 ];

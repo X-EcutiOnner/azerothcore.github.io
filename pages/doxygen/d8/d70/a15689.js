@@ -1,6 +1,7 @@
 var a15689 =
 [
-    [ "boss_veknilash", "d8/d70/a15689.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "d8/d70/a15689.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "d8/d70/a15689.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "npc_kerlonianAI", "d3/d97/a15693.html", "d3/d97/a15693" ],
+    [ "npc_kerlonian", "d8/d70/a15689.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
+    [ "GetAI", "d8/d70/a15689.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
+    [ "OnQuestAccept", "d8/d70/a15689.html#a257d24295318605ac2fd5554315dfd63", null ]
 ];

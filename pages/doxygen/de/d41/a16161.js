@@ -1,7 +1,8 @@
 var a16161 =
 [
-    [ "npc_lakota_windsongAI", "d7/dd2/a16165.html", "d7/dd2/a16165" ],
-    [ "npc_lakota_windsong", "de/d41/a16161.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "de/d41/a16161.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "de/d41/a16161.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "instance_ahnkahet_InstanceScript", "de/d41/a16161.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "de/d41/a16161.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "de/d41/a16161.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "de/d41/a16161.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "de/d41/a16161.html#a840ce69595c384be321c1167513d151e", null ]
 ];

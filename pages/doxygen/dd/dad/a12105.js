@@ -1,8 +1,5 @@
 var a12105 =
 [
-    [ "CreatureCountWorker", "dd/dad/a12105.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
-    [ "GetTopCreatureCount", "dd/dad/a12105.html#a5d4d009b6685dd71703f96f9945a463e", null ],
-    [ "Visit", "dd/dad/a12105.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
-    [ "Visit", "dd/dad/a12105.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
-    [ "creatureIds", "dd/dad/a12105.html#a3a6f946c40b1006164793dbaed2b3948", null ]
+    [ "WorldConfig", "dd/dad/a12105.html#abe3f855f1902d7f3974b741cfc0a3663", null ],
+    [ "BuildConfigCache", "dd/dad/a12105.html#aaf6bfad583f3a2dbb1e9ea2487dd2c9d", null ]
 ];

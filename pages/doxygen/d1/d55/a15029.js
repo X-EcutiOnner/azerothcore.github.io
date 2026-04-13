@@ -1,7 +1,6 @@
 var a15029 =
 [
-    [ "GetVisualThrow", "d1/d55/a15029.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d1/d55/a15029.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d1/d55/a15029.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d1/d55/a15029.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "boss_epochAI", "d8/dd2/a15033.html", "d8/dd2/a15033" ],
+    [ "boss_epoch", "d1/d55/a15029.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
+    [ "GetAI", "d1/d55/a15029.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
 ];

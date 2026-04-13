@@ -1,6 +1,9 @@
 var a22145 =
 [
-    [ "npc_mcmanus", "db/db0/a22145.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "db/db0/a22145.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "db/db0/a22145.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "OPvPCapturePointGH", "db/db0/a22145.html#a6e46100e50212310af4301c492d5773e", null ],
+    [ "ChangeState", "db/db0/a22145.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
+    [ "FillInitialWorldStates", "db/db0/a22145.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
+    [ "HandlePlayerEnter", "db/db0/a22145.html#afea733c44d129d9a5af78a8337d9e04a", null ],
+    [ "HandlePlayerLeave", "db/db0/a22145.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
+    [ "SendChangePhase", "db/db0/a22145.html#aec741b9102829bf77850dc06a49bb8da", null ]
 ];

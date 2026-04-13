@@ -1,6 +1,12 @@
 var a17425 =
 [
-    [ "npc_hor_raging_ghoulAI", "db/da8/a17429.html", "db/da8/a17429" ],
-    [ "npc_hor_raging_ghoul", "d0/d44/a17425.html#ad2130edf27295719c46dde14deefe5a4", null ],
-    [ "GetAI", "d0/d44/a17425.html#ab29cebad1d54d14ecf21bbd215dc2f2d", null ]
+    [ "boss_moorabiAI", "d0/d44/a17425.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "EnterEvadeMode", "d0/d44/a17425.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
+    [ "JustDied", "d0/d44/a17425.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "d0/d44/a17425.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "d0/d44/a17425.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "d0/d44/a17425.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "d0/d44/a17425.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "d0/d44/a17425.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "d0/d44/a17425.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

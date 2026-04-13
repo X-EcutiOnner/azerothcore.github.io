@@ -1,9 +1,8 @@
 var a08241 =
 [
-    [ "LFGGroupScript", "d3/d63/a08241.html#adb7730ba67910121a255a6da535d2fc2", null ],
-    [ "OnAddMember", "d3/d63/a08241.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
-    [ "OnChangeLeader", "d3/d63/a08241.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
-    [ "OnDisband", "d3/d63/a08241.html#a7d8d28f1919e407ed93474d970733d86", null ],
-    [ "OnInviteMember", "d3/d63/a08241.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
-    [ "OnRemoveMember", "d3/d63/a08241.html#a1385adec817221a83653a6fa03e57858", null ]
+    [ "cancelTime", "d3/d63/a08241.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
+    [ "inProgress", "d3/d63/a08241.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
+    [ "reason", "d3/d63/a08241.html#a279a5575ca0956266ae81b7a165874cf", null ],
+    [ "victim", "d3/d63/a08241.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
+    [ "votes", "d3/d63/a08241.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
 ];

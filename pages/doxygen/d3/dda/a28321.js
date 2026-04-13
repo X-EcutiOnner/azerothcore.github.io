@@ -1,5 +1,6 @@
 var a28321 =
 [
-    [ "go_duskwither_spire_power_source", "d3/dda/a28321.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "d3/dda/a28321.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "CheckCast", "d3/dda/a28321.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
+    [ "PrepareSpellScript", "d3/dda/a28321.html#aa3c18907c79309a8924a98bce41e27f1", null ],
+    [ "Register", "d3/dda/a28321.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
 ];

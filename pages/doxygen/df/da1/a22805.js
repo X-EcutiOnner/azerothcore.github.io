@@ -1,7 +1,6 @@
 var a22805 =
 [
-    [ "boss_lady_malande", "df/da1/a22805.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "df/da1/a22805.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "df/da1/a22805.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "df/da1/a22805.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "HandleScriptEffect", "df/da1/a22805.html#a766edc5924124c869b04ec82cd2bc693", null ],
+    [ "PrepareSpellScript", "df/da1/a22805.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
+    [ "Register", "df/da1/a22805.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
 ];

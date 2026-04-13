@@ -1,17 +1,45 @@
 var a04016 =
 [
-    [ "GuidLinkType", "d9/d97/a04016.html#a7c58fae67eb0c9a1b6f18b403121b2f5", [
-      [ "SPELL_LINK_PLAYER", "d9/d97/a04016.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028", null ],
-      [ "SPELL_LINK_CREATURE", "d9/d97/a04016.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8", null ],
-      [ "SPELL_LINK_GAMEOBJECT", "d9/d97/a04016.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7", null ]
+    [ "AhnKahetScriptName", "d9/d97/a04016.html#a506431ce00265fd3122a043804560c86", null ],
+    [ "DataHeader", "d9/d97/a04016.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterAhnKahetCreatureAI", "d9/d97/a04016.html#aa9d11f00daa1d5fe3fccebf717ab93f6", null ],
+    [ "AhnKahetActions", "d9/d97/a04016.html#ab602224ee107d47ea7a8fd34e7e11dcf", [
+      [ "ACTION_REMOVE_PRISON", "d9/d97/a04016.html#ab602224ee107d47ea7a8fd34e7e11dcfa16fb04e016b069c88508a114006910a8", null ]
     ] ],
-    [ "SpellLinkType", "d9/d97/a04016.html#a39157073e48b2e925e7227a28d1f09f9", [
-      [ "SPELL_LINK_SPELL", "d9/d97/a04016.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd", null ],
-      [ "SPELL_LINK_TALENT", "d9/d97/a04016.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56", null ],
-      [ "SPELL_LINK_ENCHANT", "d9/d97/a04016.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654", null ],
-      [ "SPELL_LINK_TRADE", "d9/d97/a04016.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919", null ],
-      [ "SPELL_LINK_GLYPH", "d9/d97/a04016.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e", null ]
+    [ "AhnKahetCreatures", "d9/d97/a04016.html#a0a7022dbeba8e4c5922bca61c1ac6be0", [
+      [ "NPC_ELDER_NADOX", "d9/d97/a04016.html#a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303", null ],
+      [ "NPC_PRINCE_TALDARAM", "d9/d97/a04016.html#a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f", null ],
+      [ "NPC_JEDOGA_SHADOWSEEKER", "d9/d97/a04016.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092", null ],
+      [ "NPC_HERALD_VOLAZJ", "d9/d97/a04016.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85", null ],
+      [ "NPC_AMANITAR", "d9/d97/a04016.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f", null ],
+      [ "NPC_JEDOGA_CONTROLLER", "d9/d97/a04016.html#a0a7022dbeba8e4c5922bca61c1ac6be0acf6f2f93580795c52ed4700df297d549", null ],
+      [ "NPC_TWILIGHT_WORSHIPPER", "d9/d97/a04016.html#a0a7022dbeba8e4c5922bca61c1ac6be0ab0141026243071cdda0cc9e51f1e1c99", null ]
     ] ],
-    [ "guidKeys", "d9/d97/a04016.html#ae39447b85bcee503ddb354d2950d638a", null ],
-    [ "spellKeys", "d9/d97/a04016.html#a493fba30c4b66be28baeb971844ea593", null ]
+    [ "AhnkahetData", "d9/d97/a04016.html#aff905f3bb30004af8919ddfe3d29e8dd", [
+      [ "DATA_ELDER_NADOX", "d9/d97/a04016.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f", null ],
+      [ "DATA_PRINCE_TALDARAM", "d9/d97/a04016.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0", null ],
+      [ "DATA_JEDOGA_SHADOWSEEKER", "d9/d97/a04016.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66", null ],
+      [ "DATA_HERALD_VOLAZJ", "d9/d97/a04016.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5", null ],
+      [ "DATA_AMANITAR", "d9/d97/a04016.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f", null ],
+      [ "DATA_PRINCE_TALDARAM_PLATFORM", "d9/d97/a04016.html#aff905f3bb30004af8919ddfe3d29e8dda75ab4b9865126fdcf77107ef317fe7cc", null ]
+    ] ],
+    [ "AhnkahetObjects", "d9/d97/a04016.html#a497b1d427e80ac610cd1cc5e3bc2a02f", [
+      [ "GO_TELDARAM_DOOR", "d9/d97/a04016.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811", null ],
+      [ "GO_TELDARAM_SPHERE1", "d9/d97/a04016.html#a497b1d427e80ac610cd1cc5e3bc2a02fa4586ff1377f4e4c184e57a56e7f962ed", null ],
+      [ "GO_TELDARAM_SPHERE2", "d9/d97/a04016.html#a497b1d427e80ac610cd1cc5e3bc2a02fa637eb0aff225b388e0c611a9cbccd03e", null ],
+      [ "GO_TELDARAM_PLATFORM", "d9/d97/a04016.html#a497b1d427e80ac610cd1cc5e3bc2a02fa9ae027e64960ba5d20a93c5123469e74", null ]
+    ] ],
+    [ "AhnKahetPersistentData", "d9/d97/a04016.html#acc056f2f7be3fe09395716ca57e7c7f3", [
+      [ "DATA_TELDRAM_SPHERE1", "d9/d97/a04016.html#acc056f2f7be3fe09395716ca57e7c7f3a748636fe536f29e09b02edcebc095d56", null ],
+      [ "DATA_TELDRAM_SPHERE2", "d9/d97/a04016.html#acc056f2f7be3fe09395716ca57e7c7f3aa71df9961714e4f37168c84236d3ca51", null ],
+      [ "MAX_PERSISTENT_DATA", "d9/d97/a04016.html#acc056f2f7be3fe09395716ca57e7c7f3ade8daf2d97d89b7bc637c9b5550e0449", null ]
+    ] ],
+    [ "AhnkahetSpells", "d9/d97/a04016.html#a04c8c0beb3d5fd05b695be78e77cfe8d", [
+      [ "SPELL_SHADOW_SICKLE", "d9/d97/a04016.html#a04c8c0beb3d5fd05b695be78e77cfe8dacf16c95dd7397632ddf94f2d9f3c3c39", null ]
+    ] ],
+    [ "AhnKahetTexts", "d9/d97/a04016.html#ad2ad73bb93c442e3d70b9efad1b6c305", [
+      [ "SAY_SPHERE_ACTIVATED", "d9/d97/a04016.html#ad2ad73bb93c442e3d70b9efad1b6c305aea5e4c72402492816a8bafad5323cff8", null ]
+    ] ],
+    [ "GetAhnKahetAI", "d9/d97/a04016.html#a7d67882176cbe7ff747f0bb785985b00", null ],
+    [ "MAX_ENCOUNTER", "d9/d97/a04016.html#a42b654ad1177faa1b68541d8c6ca1fae", null ]
 ];

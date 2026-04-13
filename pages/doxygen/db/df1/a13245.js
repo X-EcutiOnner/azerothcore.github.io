@@ -1,15 +1,11 @@
 var a13245 =
 [
-    [ "boss_tinhead", "db/df1/a13245.html#aa56375e9b031db15bee833375b7a4405", null ],
-    [ "DoAction", "db/df1/a13245.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
-    [ "EnterEvadeMode", "db/df1/a13245.html#ae83464d571103a67980b413325988921", null ],
-    [ "JustDied", "db/df1/a13245.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
-    [ "JustEngagedWith", "db/df1/a13245.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
-    [ "JustReachedHome", "db/df1/a13245.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
-    [ "KilledUnit", "db/df1/a13245.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
-    [ "Reset", "db/df1/a13245.html#ac22d86f58d59c81429e45fba9393fd37", null ],
-    [ "UpdateAI", "db/df1/a13245.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
-    [ "_rustCount", "db/df1/a13245.html#a48901503085fd3d4ee5624626a526ce2", null ],
-    [ "_scheduler", "db/df1/a13245.html#ababc9f32611a9ea35ef41725bce22df5", null ],
-    [ "instance", "db/df1/a13245.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
+    [ "npc_scarlet_ghoulAI", "db/df1/a13245.html#a194795143717de5aa8f0ca4c4e516136", null ],
+    [ "InitializeAI", "db/df1/a13245.html#ad0fd204d15350332508b0c9d9decefb1", null ],
+    [ "MovementInform", "db/df1/a13245.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
+    [ "OwnerAttackedBy", "db/df1/a13245.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
+    [ "SetGUID", "db/df1/a13245.html#aa7f73c3a1ab4938c1037c0bdd38b6db1", null ],
+    [ "UpdateAI", "db/df1/a13245.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
+    [ "events", "db/df1/a13245.html#a105ac0982d28be590d514d2e452109c0", null ],
+    [ "gothikGUID", "db/df1/a13245.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
 ];

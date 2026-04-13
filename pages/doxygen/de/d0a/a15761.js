@@ -1,7 +1,7 @@
 var a15761 =
 [
-    [ "npc_anubisath_warder", "de/d0a/a15761.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "de/d0a/a15761.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "de/d0a/a15761.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "de/d0a/a15761.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "HandleDummy", "de/d0a/a15761.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "de/d0a/a15761.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "de/d0a/a15761.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "de/d0a/a15761.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

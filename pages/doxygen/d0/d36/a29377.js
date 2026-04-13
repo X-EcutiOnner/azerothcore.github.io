@@ -1,9 +1,7 @@
 var a29377 =
 [
-    [ "Category", "d0/d36/a29377.html#acd933f251a1faa1f705420307136681d", null ],
-    [ "Faction", "d0/d36/a29377.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
-    [ "Flags", "d0/d36/a29377.html#a8b41ed573eae71196664a61bac83fe3e", null ],
-    [ "Id", "d0/d36/a29377.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
-    [ "Slot", "d0/d36/a29377.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
-    [ "Type", "d0/d36/a29377.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
+    [ "SetUp", "d0/d36/a29377.html#a63d060f7643fc3d35eb4f0fd082f1af4", null ],
+    [ "TearDown", "d0/d36/a29377.html#a685e2dbb620ab792ed3e952cf2b5dab8", null ],
+    [ "_originalWorld", "d0/d36/a29377.html#aec7f3f7af8f936fb2419cee4be837eb7", null ],
+    [ "_worldMock", "d0/d36/a29377.html#a2d10e74ba4f778b395a48eb68a586711", null ]
 ];

@@ -1,8 +1,5 @@
 var a08825 =
 [
-    [ "BaseRune", "d7/df0/a08825.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
-    [ "ConvertAura", "d7/df0/a08825.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
-    [ "Cooldown", "d7/df0/a08825.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
-    [ "CurrentRune", "d7/df0/a08825.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
-    [ "GracePeriod", "d7/df0/a08825.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
+    [ "PlayerClassInfo", "d7/df0/a08825.html#a6a0a6db24e144593356e0505946e8f06", null ],
+    [ "levelInfo", "d7/df0/a08825.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
 ];

@@ -1,10 +1,10 @@
 var a04625 =
 [
-    [ "EnchStoreItem", "dc/d59/a08614.html", "dc/d59/a08614" ],
-    [ "EnchantmentStore", "d4/d0f/a04625.html#ab462bc366dd954f1c0b539c408b74c01", null ],
-    [ "EnchStoreList", "d4/d0f/a04625.html#ab5e9dd6a265a402e7a9499fdaae1e850", null ],
-    [ "GenerateEnchSuffixFactor", "d4/d0f/a04625.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "d4/d0f/a04625.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "d4/d0f/a04625.html#a376fabf7bba54eaf928217f860f1c33b", null ],
-    [ "RandomItemEnch", "d4/d0f/a04625.html#a6aeb6f30f019ca8d9839fcf41beb1ac7", null ]
+    [ "VMAP::ModelSpawn", "d9/d96/a05317.html", "d9/d96/a05317" ],
+    [ "VMAP::ModelInstance", "d8/d16/a05321.html", "d8/d16/a05321" ],
+    [ "ModelFlags", "d4/d0f/a04625.html#ac540ff16efadcc07eeb9d8511b94ccce", [
+      [ "MOD_M2", "d4/d0f/a04625.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
+      [ "MOD_WORLDSPAWN", "d4/d0f/a04625.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
+      [ "MOD_HAS_BOUND", "d4/d0f/a04625.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
+    ] ]
 ];

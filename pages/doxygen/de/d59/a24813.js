@@ -1,6 +1,7 @@
 var a24813 =
 [
-    [ "CheckCast", "de/d59/a24813.html#a8ab8394c56201264ac4f2d859dd52092", null ],
-    [ "PrepareSpellScript", "de/d59/a24813.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
-    [ "Register", "de/d59/a24813.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
+    [ "HandleEffectApply", "de/d59/a24813.html#a2854357f92b1faac6e7840f1576138e0", null ],
+    [ "HandleEffectRemove", "de/d59/a24813.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
+    [ "PrepareAuraScript", "de/d59/a24813.html#a2120cecbca61e4c7380892fe8d43772a", null ],
+    [ "Register", "de/d59/a24813.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
 ];

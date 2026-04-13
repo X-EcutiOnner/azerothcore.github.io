@@ -1,7 +1,5 @@
 var a19425 =
 [
-    [ "HandleGameObjectDamage", "dc/dbf/a19425.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "dc/dbf/a19425.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "dc/dbf/a19425.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "dc/dbf/a19425.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "at_naxxramas_hub_portal", "dc/dbf/a19425.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "dc/dbf/a19425.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

@@ -1,6 +1,6 @@
 var a16241 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "d8/d42/a16245.html", "d8/d42/a16245" ],
-    [ "instance_zulfarrak", "d7/dbd/a16241.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "d7/dbd/a16241.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d7/dbd/a16241.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureEvade", "d7/dbd/a16241.html#af163238686bf22f11908f64ffb5cacca", null ],
+    [ "OnUnitDeath", "d7/dbd/a16241.html#a45792f7c2d1a042d68907a0f475634d1", null ]
 ];

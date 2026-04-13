@@ -1,13 +1,11 @@
 var a05285 =
 [
-    [ "ModelInstance", "da/dd7/a05285.html#a7a4efa321915b77801e9fc87924df572", null ],
-    [ "ModelInstance", "da/dd7/a05285.html#a1d29459f4f79da938ae969509246fcf1", null ],
-    [ "GetLiquidLevel", "da/dd7/a05285.html#a6150e52c7fdff3cba536e04e115d86ba", null ],
-    [ "GetLocationInfo", "da/dd7/a05285.html#a2e756866245d8131d5fc040489a563e3", null ],
-    [ "getWorldModel", "da/dd7/a05285.html#a464922875649215b0b60aafc1ff70c3c", null ],
-    [ "intersectRay", "da/dd7/a05285.html#aca8a2a07911eba5ec362080e2790453c", null ],
-    [ "setUnloaded", "da/dd7/a05285.html#a1797ec305f365e58cd92c8cd3f3094ba", null ],
-    [ "iInvRot", "da/dd7/a05285.html#a9ac1d8dbfc566a2b5e508cae92ef4019", null ],
-    [ "iInvScale", "da/dd7/a05285.html#adc23d9c9a79ac7cfdb1f90b96485b089", null ],
-    [ "iModel", "da/dd7/a05285.html#ac0b95c6fde838667e007781bde2f2917", null ]
+    [ "ModelPosition", "da/dd7/a05285.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
+    [ "init", "da/dd7/a05285.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
+    [ "moveToBasePos", "da/dd7/a05285.html#a2fe1b48319a056f110ef700877257731", null ],
+    [ "transform", "da/dd7/a05285.html#add4c2efec70be75d8ffcd1009b6c2699", null ],
+    [ "iDir", "da/dd7/a05285.html#a24ba62281166e60036ac8a57b26c6abd", null ],
+    [ "iPos", "da/dd7/a05285.html#a36a3bd930273e0313e3b09c1289e9317", null ],
+    [ "iRotation", "da/dd7/a05285.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
+    [ "iScale", "da/dd7/a05285.html#a81bb029dce2aadec2f147a1329ee285e", null ]
 ];

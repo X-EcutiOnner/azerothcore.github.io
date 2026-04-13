@@ -1,7 +1,9 @@
 var a27081 =
 [
-    [ "HandleDummy", "d4/df3/a27081.html#a123ddc812fb358b7517eba60d1f90eba", null ],
-    [ "Load", "d4/df3/a27081.html#a64ca188f58b4f34827f03ae2878deef0", null ],
-    [ "PrepareSpellScript", "d4/df3/a27081.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
-    [ "Register", "d4/df3/a27081.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
+    [ "CalculateAmount", "d4/df3/a27081.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "d4/df3/a27081.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "d4/df3/a27081.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "d4/df3/a27081.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "d4/df3/a27081.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "d4/df3/a27081.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

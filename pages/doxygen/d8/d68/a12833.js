@@ -1,18 +1,6 @@
 var a12833 =
 [
-    [ "boss_vaelAI", "d8/d68/a12833.html#acc7eceafe9cc5a5cb5e7045d143d5ca6", null ],
-    [ "BeginSpeech", "d8/d68/a12833.html#a448dcc64099fff57b4c18841f8715dbe", null ],
-    [ "Initialize", "d8/d68/a12833.html#a4364710f3634b6caeea3b739efe7dc56", null ],
-    [ "JustEngagedWith", "d8/d68/a12833.html#a860aa0077f235f652bd6f9a247a40e30", null ],
-    [ "JustSummoned", "d8/d68/a12833.html#a6eb3e6649d0a476fc9b2c12107cea43b", null ],
-    [ "KilledUnit", "d8/d68/a12833.html#a15e4df870d3c5263ab534cd1d2bb8a75", null ],
-    [ "Reset", "d8/d68/a12833.html#a8aab1f11a688d05289bae6acf216cf1c", null ],
-    [ "sGossipSelect", "d8/d68/a12833.html#abd3c8c7ab8d7af10ae297443ac24bd9c", null ],
-    [ "UpdateAI", "d8/d68/a12833.html#a570948cbf0c2ddde65ca77092c4b37a3", null ],
-    [ "_burningAdrenalineCast", "d8/d68/a12833.html#ab1048eb2da3e93f5cb67a8f23d35be2e", null ],
-    [ "_eventsIntro", "d8/d68/a12833.html#aed37566236cb2872b3a85de9f994f0cb", null ],
-    [ "_introDone", "d8/d68/a12833.html#aab29cb166d390a56a1d3b94dd07f1c63", null ],
-    [ "HasYelled", "d8/d68/a12833.html#a4eace0c62b5ad50f7c1a525485da08fb", null ],
-    [ "m_nefariusGuid", "d8/d68/a12833.html#a9402e7435904dffb8a494dc60d6d02e9", null ],
-    [ "PlayerGUID", "d8/d68/a12833.html#a1a86b7b15e0a435284afab6ac724968c", null ]
+    [ "boss_shazzrah", "d8/d68/a12833.html#a9886c4c93017936beae1babacffa76a2", null ],
+    [ "ExecuteEvent", "d8/d68/a12833.html#a2d8ab48c6abb3e0334ef54e0b918ff27", null ],
+    [ "JustEngagedWith", "d8/d68/a12833.html#aa23aecbb28a9bb1fc138691f143f8e53", null ]
 ];

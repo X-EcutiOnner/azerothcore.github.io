@@ -1,6 +1,10 @@
 var a22453 =
 [
-    [ "FilterTargets", "d3/d61/a22453.html#a4d81860c41daab44851da605d38b4753", null ],
-    [ "PrepareSpellScript", "d3/d61/a22453.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
-    [ "Register", "d3/d61/a22453.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
+    [ "boss_gathios_the_shatterer", "d3/d61/a22453.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "d3/d61/a22453.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "d3/d61/a22453.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "d3/d61/a22453.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "d3/d61/a22453.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "d3/d61/a22453.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "d3/d61/a22453.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

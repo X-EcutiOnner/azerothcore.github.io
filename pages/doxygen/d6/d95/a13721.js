@@ -1,6 +1,6 @@
 var a13721 =
 [
-    [ "HandleActivateObject", "d6/d95/a13721.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d6/d95/a13721.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d6/d95/a13721.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "HandlePeriodic", "d6/d95/a13721.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
+    [ "PrepareAuraScript", "d6/d95/a13721.html#a2722b97e12e9371745d7f38504d9efdf", null ],
+    [ "Register", "d6/d95/a13721.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
 ];

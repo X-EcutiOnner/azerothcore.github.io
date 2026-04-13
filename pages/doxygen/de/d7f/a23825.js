@@ -1,7 +1,7 @@
 var a23825 =
 [
-    [ "HandleEffect", "de/d7f/a23825.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "de/d7f/a23825.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "de/d7f/a23825.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "de/d7f/a23825.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "o", "de/d7f/a23825.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "de/d7f/a23825.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "de/d7f/a23825.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "de/d7f/a23825.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

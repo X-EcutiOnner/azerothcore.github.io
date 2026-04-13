@@ -1,10 +1,6 @@
 var a13149 =
 [
-    [ "npc_netherspite_infernal", "db/d89/a13149.html#af9837d7a671533523ce323c083c4e847", null ],
-    [ "DamageTaken", "db/d89/a13149.html#aee9b38f3590e08b16de1789576986a09", null ],
-    [ "JustEngagedWith", "db/d89/a13149.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
-    [ "KilledUnit", "db/d89/a13149.html#a49c37fbebed2951c493962c1a3bd0339", null ],
-    [ "MoveInLineOfSight", "db/d89/a13149.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
-    [ "SpellHit", "db/d89/a13149.html#abb6c7d0b5e231e460b069198b16106b7", null ],
-    [ "UpdateAI", "db/d89/a13149.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
+    [ "HandleProc", "db/d89/a13149.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "db/d89/a13149.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "db/d89/a13149.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

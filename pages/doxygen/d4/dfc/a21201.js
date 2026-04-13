@@ -1,6 +1,7 @@
 var a21201 =
 [
-    [ "HandleDummyEffect", "d4/dfc/a21201.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "d4/dfc/a21201.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "d4/dfc/a21201.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "npc_lurgglbrAI", "de/dc3/a21205.html", "de/dc3/a21205" ],
+    [ "npc_lurgglbr", "d4/dfc/a21201.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "d4/dfc/a21201.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "d4/dfc/a21201.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

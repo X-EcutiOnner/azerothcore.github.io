@@ -1,6 +1,9 @@
 var a12685 =
 [
-    [ "npc_vaelastrasz_the_redAI", "df/df4/a12689.html", "df/df4/a12689" ],
-    [ "npc_vaelastrasz_the_red", "d4/d65/a12685.html#af39fcaa29b200e3b7933f97de277df6b", null ],
-    [ "GetAI", "d4/d65/a12685.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
+    [ "npc_drakonid_spawner", "d4/d65/a12685.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "d4/d65/a12685.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "d4/d65/a12685.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "d4/d65/a12685.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "d4/d65/a12685.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "d4/d65/a12685.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

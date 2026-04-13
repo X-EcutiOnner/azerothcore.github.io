@@ -1,11 +1,8 @@
 var a14585 =
 [
-    [ "boss_marli", "dc/ddd/a14585.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
-    [ "_chargePlayer", "dc/ddd/a14585.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
-    [ "_schedulePhaseSpider", "dc/ddd/a14585.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
-    [ "_schedulePhaseTroll", "dc/ddd/a14585.html#ad6977930dac1cddd2162f7db1b239c83", null ],
-    [ "JustDied", "dc/ddd/a14585.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
-    [ "JustEngagedWith", "dc/ddd/a14585.html#ac74bd382c3dc826f7e4426bec3557094", null ],
-    [ "Reset", "dc/ddd/a14585.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
-    [ "_phase", "dc/ddd/a14585.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
+    [ "OnApply", "dc/ddd/a14585.html#a6f3f05316f025ef638672a82cc855136", null ],
+    [ "PeriodicTick", "dc/ddd/a14585.html#a051d292f9483e6b82d773fba3ab52460", null ],
+    [ "PrepareAuraScript", "dc/ddd/a14585.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
+    [ "Register", "dc/ddd/a14585.html#a0004de73250b8523db2b9ab714c8a246", null ],
+    [ "Validate", "dc/ddd/a14585.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
 ];

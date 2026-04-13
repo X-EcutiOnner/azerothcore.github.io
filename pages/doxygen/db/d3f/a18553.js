@@ -1,7 +1,6 @@
 var a18553 =
 [
-    [ "HandleScript", "db/d3f/a18553.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "db/d3f/a18553.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "db/d3f/a18553.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "db/d3f/a18553.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "ModDestHeight", "db/d3f/a18553.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "db/d3f/a18553.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "db/d3f/a18553.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

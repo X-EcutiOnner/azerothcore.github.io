@@ -1,6 +1,4 @@
 var a05325 =
 [
-    [ "NodeArray", "df/dd6/a05325.html#ad14de28828d5dd9c425e47a261125423", null ],
-    [ "AddNode", "df/dd6/a05325.html#a370b6e8633c2c739ff68c0399e315a7e", null ],
-    [ "_nodes", "df/dd6/a05325.html#a581a71d15d245efc585297c218313134", null ]
+    [ "GetBounds", "df/dd6/a05325.html#a01ceb11072dfedbd099c2461f817c895", null ]
 ];

@@ -1,6 +1,7 @@
 var a23613 =
 [
-    [ "PrepareSpellScript", "d3/dcd/a23613.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d3/dcd/a23613.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d3/dcd/a23613.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "npc_daranelleAI", "d3/dcd/a23613.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d3/dcd/a23613.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d3/dcd/a23613.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d3/dcd/a23613.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

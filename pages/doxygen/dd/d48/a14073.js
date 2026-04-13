@@ -1,7 +1,8 @@
 var a14073 =
 [
-    [ "npc_ranger_lilatha", "dd/d48/a14073.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "dd/d48/a14073.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "dd/d48/a14073.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "dd/d48/a14073.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
+    [ "npc_the_scourge_cauldronAI", "dd/d48/a14073.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
+    [ "DoDie", "dd/d48/a14073.html#a9f720a27db2943a66b11ad6355690bf5", null ],
+    [ "JustEngagedWith", "dd/d48/a14073.html#a89954dec2f7d57d933c18822333243ac", null ],
+    [ "MoveInLineOfSight", "dd/d48/a14073.html#a256195dbe75859d72afcd0defb9ff76e", null ],
+    [ "Reset", "dd/d48/a14073.html#ab18bb2eb344f45827685786c665b1750", null ]
 ];

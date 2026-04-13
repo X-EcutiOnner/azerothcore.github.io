@@ -1,9 +1,14 @@
 var a04490 =
 [
-    [ "GetCheckPacketBaseSize", "d5/d47/a04490.html#aa48d9759919f0fb8415c0fd0731a23b1", null ],
-    [ "GetCheckPacketSize", "d5/d47/a04490.html#adfb39c1ce4f6159c2c70e3cdf26978c9", null ],
-    [ "GetMaxWardenChecksForType", "d5/d47/a04490.html#aedb0d8dcf11f0df50080f361dcd78fed", null ],
-    [ "_luaEvalMidfix", "d5/d47/a04490.html#a5506a4e4233b2c380f79ad1225c4dc93", null ],
-    [ "_luaEvalPostfix", "d5/d47/a04490.html#ad14853510c2482e64bd81633e5074206", null ],
-    [ "_luaEvalPrefix", "d5/d47/a04490.html#a259abc7d98e16cefc14404b5886cbc09", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d5/d47/a04490.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "isHole", "d5/d47/a04490.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
+    [ "holetab_h", "d5/d47/a04490.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
+    [ "holetab_v", "d5/d47/a04490.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
+    [ "MCINMagic", "d5/d47/a04490.html#a6f946547b65d321100fd6efa2966180c", null ],
+    [ "MCLQMagic", "d5/d47/a04490.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
+    [ "MCNKMagic", "d5/d47/a04490.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
+    [ "MCVTMagic", "d5/d47/a04490.html#a32010e610a970d3891ae5effca03de37", null ],
+    [ "MFBOMagic", "d5/d47/a04490.html#a329d005a0989137286469e197dc0c812", null ],
+    [ "MH2OMagic", "d5/d47/a04490.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
+    [ "MHDRMagic", "d5/d47/a04490.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
 ];

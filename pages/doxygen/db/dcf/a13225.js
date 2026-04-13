@@ -1,11 +1,7 @@
 var a13225 =
 [
-    [ "boss_terestian_illhoof", "db/dcf/a13225.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "db/dcf/a13225.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "db/dcf/a13225.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "db/dcf/a13225.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "db/dcf/a13225.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "db/dcf/a13225.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "db/dcf/a13225.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "db/dcf/a13225.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "HandleScriptEffect", "db/dcf/a13225.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "db/dcf/a13225.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "db/dcf/a13225.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "db/dcf/a13225.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

@@ -1,6 +1,7 @@
 var a15965 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d9/d95/a15965.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "d9/d95/a15965.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "d9/d95/a15965.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "npc_lakota_windsongAI", "da/da3/a15969.html", "da/da3/a15969" ],
+    [ "npc_lakota_windsong", "d9/d95/a15965.html#a08a585ac36189ec23354c7acb26d223d", null ],
+    [ "GetAI", "d9/d95/a15965.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
+    [ "OnQuestAccept", "d9/d95/a15965.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
 ];

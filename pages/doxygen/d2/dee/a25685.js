@@ -1,8 +1,6 @@
 var a25685 =
 [
-    [ "OnApply", "d2/dee/a25685.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
-    [ "OnRemove", "d2/dee/a25685.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
-    [ "PrepareAuraScript", "d2/dee/a25685.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
-    [ "Register", "d2/dee/a25685.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
-    [ "Validate", "d2/dee/a25685.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
+    [ "HandleTriggerSpell", "d2/dee/a25685.html#a2c9f565aec4c42900037dd387549df18", null ],
+    [ "PrepareAuraScript", "d2/dee/a25685.html#a5864bbba50001cdb84b0015d08134c56", null ],
+    [ "Register", "d2/dee/a25685.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
 ];

@@ -1,11 +1,8 @@
 var a04934 =
 [
-    [ "ADT::MDDF", "d6/de9/a29811.html", "d6/de9/a29811" ],
-    [ "ADT::MODF", "d0/d26/a29815.html", "d0/d26/a29815" ],
-    [ "ADTFile", "d2/dcb/a29819.html", "d2/dcb/a29819" ],
-    [ "fixname2", "d9/d75/a04934.html#ac0029be4572a61d00eb1435db5526a74", null ],
-    [ "fixnamen", "d9/d75/a04934.html#abdc56edc46e0804c456749761cff8daf", null ],
-    [ "GetExtension", "d9/d75/a04934.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
-    [ "GetPlainName", "d9/d75/a04934.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
-    [ "GetPlainName", "d9/d75/a04934.html#a05f8969fb6d17548033afc24b906a83f", null ]
+    [ "Acore::Impl::CryptoGenericsImpl", "d6/deb/a05433.html", "d6/deb/a05433" ],
+    [ "AEDecrypt", "d9/d75/a04934.html#a1173a93d3f38af692d24411d34829de0", null ],
+    [ "AEDecrypt", "d9/d75/a04934.html#aeb3d22d5d1d2ceeb4a752b7dccc143b0", null ],
+    [ "AEEncryptWithRandomIV", "d9/d75/a04934.html#a0057c59e47839100792e392e2d73783a", null ],
+    [ "AEEncryptWithRandomIV", "d9/d75/a04934.html#a42045f5644391c1c876f0ae1bc180f7c", null ]
 ];

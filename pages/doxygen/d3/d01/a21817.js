@@ -1,6 +1,6 @@
 var a21817 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d3/d01/a21817.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "d3/d01/a21817.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "d3/d01/a21817.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "npc_vekjik", "d3/d01/a21817.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "d3/d01/a21817.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "d3/d01/a21817.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

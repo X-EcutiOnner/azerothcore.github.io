@@ -1,6 +1,6 @@
 var a14445 =
 [
-    [ "boss_gahzranka", "d0/df4/a14445.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "d0/df4/a14445.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "d0/df4/a14445.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "boss_wushoolayAI", "d7/d3a/a14449.html", "d7/d3a/a14449" ],
+    [ "boss_wushoolay", "d0/df4/a14445.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "d0/df4/a14445.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

@@ -1,8 +1,7 @@
 var a26021 =
 [
-    [ "OnRemove", "d7/df9/a26021.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "d7/df9/a26021.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "d7/df9/a26021.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "d7/df9/a26021.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "d7/df9/a26021.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "HandleProc", "d7/df9/a26021.html#aebcd51739dd9d4e898e97bdb296d6318", null ],
+    [ "PrepareAuraScript", "d7/df9/a26021.html#a22c77e732d014aef99c077ee58f3a80d", null ],
+    [ "Register", "d7/df9/a26021.html#a3b1baf102b8f034dc762b4d6c029649c", null ],
+    [ "Validate", "d7/df9/a26021.html#a44168885a726eef1e0430e0f483d78fc", null ]
 ];

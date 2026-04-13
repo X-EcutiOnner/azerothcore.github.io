@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ClientPktHeader Struct Reference</title>
+<title>AzerothCore: AccountInfoQueryHolderPerRealm Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,33 +105,95 @@ $(document).ready(function(){initNavTree('d7/daa/a11509.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../da/d63/a11506.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ClientPktHeader Struct Reference</div></div>
+  <div class="headertitle"><div class="title">AccountInfoQueryHolderPerRealm Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">WorldSocket.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for AccountInfoQueryHolderPerRealm:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d7/daa/a11509.png" usemap="#AccountInfoQueryHolderPerRealm_map" alt=""/>
+  <map id="AccountInfoQueryHolderPerRealm_map" name="AccountInfoQueryHolderPerRealm_map">
+<area href="../../d5/d57/a05969.html" alt="SQLQueryHolder&lt; T &gt;" shape="rect" coords="0,56,309,80"/>
+<area href="../../da/d28/a06117.html" alt="SQLQueryHolderBase" shape="rect" coords="0,0,309,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:ababe870b2f1e38e93bc48b0cf25589b0"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <br />
+&#160;&#160;<a class="el" href="../../d7/daa/a11509.html#ababe870b2f1e38e93bc48b0cf25589b0ab58e55eac4a420a0c3e3c2782dae65d6">GLOBAL_ACCOUNT_DATA</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d7/daa/a11509.html#ababe870b2f1e38e93bc48b0cf25589b0a2faeed0c573ad781d2bd33c5828532a1">TUTORIALS</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d7/daa/a11509.html#ababe870b2f1e38e93bc48b0cf25589b0a2a729de91a5db74171ade3057dc08314">MAX_QUERIES</a>
+<br />
+ }</td></tr>
+<tr class="separator:ababe870b2f1e38e93bc48b0cf25589b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aec5192f7f57a16c9dfa244ff3874e693"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/daa/a11509.html#aec5192f7f57a16c9dfa244ff3874e693">IsValidSize</a> () const</td></tr>
-<tr class="separator:aec5192f7f57a16c9dfa244ff3874e693"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afdba55f89a1c7ffb9e7c302f2269687f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/daa/a11509.html#afdba55f89a1c7ffb9e7c302f2269687f">IsValidOpcode</a> () const</td></tr>
-<tr class="separator:afdba55f89a1c7ffb9e7c302f2269687f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d821669804cd04cf121e141d94ead36"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/daa/a11509.html#a9d821669804cd04cf121e141d94ead36">AccountInfoQueryHolderPerRealm</a> ()</td></tr>
+<tr class="separator:a9d821669804cd04cf121e141d94ead36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d4e4de9a038697f61e6350f5f59713b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/daa/a11509.html#a9d4e4de9a038697f61e6350f5f59713b">Initialize</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> accountId)</td></tr>
+<tr class="separator:a9d4e4de9a038697f61e6350f5f59713b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a05969"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05969')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d5/d57/a05969.html">SQLQueryHolder&lt; T &gt;</a></td></tr>
+<tr class="memitem:a1cbb8be93d83bc3ed6295c6b13f6ce69 inherit pub_methods_a05969"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d57/a05969.html#a1cbb8be93d83bc3ed6295c6b13f6ce69">SetPreparedQuery</a> (std::size_t index, <a class="el" href="../../d2/d52/a05961.html">PreparedStatement</a>&lt; T &gt; *stmt)</td></tr>
+<tr class="separator:a1cbb8be93d83bc3ed6295c6b13f6ce69 inherit pub_methods_a05969"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a06117"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a06117')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../da/d28/a06117.html">SQLQueryHolderBase</a></td></tr>
+<tr class="memitem:a05946ea4a26798e5567f632cf9f66eff inherit pub_methods_a06117"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a05946ea4a26798e5567f632cf9f66eff">SQLQueryHolderBase</a> ()=default</td></tr>
+<tr class="separator:a05946ea4a26798e5567f632cf9f66eff inherit pub_methods_a06117"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9e2407821d0c40a728337f174571fc5 inherit pub_methods_a06117"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#aa9e2407821d0c40a728337f174571fc5">~SQLQueryHolderBase</a> ()</td></tr>
+<tr class="separator:aa9e2407821d0c40a728337f174571fc5 inherit pub_methods_a06117"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e62f0171bd39a13348d097ee99cb17c inherit pub_methods_a06117"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a9e62f0171bd39a13348d097ee99cb17c">SetSize</a> (std::size_t size)</td></tr>
+<tr class="separator:a9e62f0171bd39a13348d097ee99cb17c inherit pub_methods_a06117"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a402f961642eaa239ff8726ad66e78640 inherit pub_methods_a06117"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc8/a00242.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a402f961642eaa239ff8726ad66e78640">GetPreparedResult</a> (std::size_t index) const</td></tr>
+<tr class="separator:a402f961642eaa239ff8726ad66e78640 inherit pub_methods_a06117"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34bcdec6591ce40a58667197f240fbe0 inherit pub_methods_a06117"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a34bcdec6591ce40a58667197f240fbe0">SetPreparedResult</a> (std::size_t index, <a class="el" href="../../db/df7/a06137.html">PreparedResultSet</a> *result)</td></tr>
+<tr class="separator:a34bcdec6591ce40a58667197f240fbe0 inherit pub_methods_a06117"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ac1d551036381db4f85b8dc92ea55d4ee"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/daa/a11509.html#ac1d551036381db4f85b8dc92ea55d4ee">size</a></td></tr>
-<tr class="separator:ac1d551036381db4f85b8dc92ea55d4ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad0a112cb2a8a71e6e8c20e320af63f49"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/daa/a11509.html#ad0a112cb2a8a71e6e8c20e320af63f49">cmd</a></td></tr>
-<tr class="separator:ad0a112cb2a8a71e6e8c20e320af63f49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
+Additional Inherited Members</h2></td></tr>
+<tr class="inherit_header pro_methods_a06117"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a06117')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../da/d28/a06117.html">SQLQueryHolderBase</a></td></tr>
+<tr class="memitem:a6657bb34fab696a26af9751ded41f1d7 inherit pro_methods_a06117"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a06117.html#a6657bb34fab696a26af9751ded41f1d7">SetPreparedQueryImpl</a> (std::size_t index, <a class="el" href="../../da/d8b/a06093.html">PreparedStatementBase</a> *stmt)</td></tr>
+<tr class="separator:a6657bb34fab696a26af9751ded41f1d7 inherit pro_methods_a06117"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="afdba55f89a1c7ffb9e7c302f2269687f" name="afdba55f89a1c7ffb9e7c302f2269687f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afdba55f89a1c7ffb9e7c302f2269687f">&#9670;&#160;</a></span>IsValidOpcode()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Enumeration Documentation</h2>
+<a id="ababe870b2f1e38e93bc48b0cf25589b0" name="ababe870b2f1e38e93bc48b0cf25589b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ababe870b2f1e38e93bc48b0cf25589b0">&#9670;&#160;</a></span>anonymous enum</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">anonymous enum</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ababe870b2f1e38e93bc48b0cf25589b0ab58e55eac4a420a0c3e3c2782dae65d6" name="ababe870b2f1e38e93bc48b0cf25589b0ab58e55eac4a420a0c3e3c2782dae65d6"></a>GLOBAL_ACCOUNT_DATA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ababe870b2f1e38e93bc48b0cf25589b0a2faeed0c573ad781d2bd33c5828532a1" name="ababe870b2f1e38e93bc48b0cf25589b0a2faeed0c573ad781d2bd33c5828532a1"></a>TUTORIALS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ababe870b2f1e38e93bc48b0cf25589b0a2a729de91a5db74171ade3057dc08314" name="ababe870b2f1e38e93bc48b0cf25589b0a2a729de91a5db74171ade3057dc08314"></a>MAX_QUERIES&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno"> 1452</span>    {</div>
+<div class="line"><span class="lineno"> 1453</span>        <a class="code hl_enumvalue" href="../../d7/daa/a11509.html#ababe870b2f1e38e93bc48b0cf25589b0ab58e55eac4a420a0c3e3c2782dae65d6">GLOBAL_ACCOUNT_DATA</a> = 0,</div>
+<div class="line"><span class="lineno"> 1454</span>        <a class="code hl_enumvalue" href="../../d7/daa/a11509.html#ababe870b2f1e38e93bc48b0cf25589b0a2faeed0c573ad781d2bd33c5828532a1">TUTORIALS</a>,</div>
+<div class="line"><span class="lineno"> 1455</span> </div>
+<div class="line"><span class="lineno"> 1456</span>        <a class="code hl_enumvalue" href="../../d7/daa/a11509.html#ababe870b2f1e38e93bc48b0cf25589b0a2a729de91a5db74171ade3057dc08314">MAX_QUERIES</a></div>
+<div class="line"><span class="lineno"> 1457</span>    };</div>
+<div class="ttc" id="aa11509_html_ababe870b2f1e38e93bc48b0cf25589b0a2a729de91a5db74171ade3057dc08314"><div class="ttname"><a href="../../d7/daa/a11509.html#ababe870b2f1e38e93bc48b0cf25589b0a2a729de91a5db74171ade3057dc08314">AccountInfoQueryHolderPerRealm::MAX_QUERIES</a></div><div class="ttdeci">@ MAX_QUERIES</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:1456</div></div>
+<div class="ttc" id="aa11509_html_ababe870b2f1e38e93bc48b0cf25589b0a2faeed0c573ad781d2bd33c5828532a1"><div class="ttname"><a href="../../d7/daa/a11509.html#ababe870b2f1e38e93bc48b0cf25589b0a2faeed0c573ad781d2bd33c5828532a1">AccountInfoQueryHolderPerRealm::TUTORIALS</a></div><div class="ttdeci">@ TUTORIALS</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:1454</div></div>
+<div class="ttc" id="aa11509_html_ababe870b2f1e38e93bc48b0cf25589b0ab58e55eac4a420a0c3e3c2782dae65d6"><div class="ttname"><a href="../../d7/daa/a11509.html#ababe870b2f1e38e93bc48b0cf25589b0ab58e55eac4a420a0c3e3c2782dae65d6">AccountInfoQueryHolderPerRealm::GLOBAL_ACCOUNT_DATA</a></div><div class="ttdeci">@ GLOBAL_ACCOUNT_DATA</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:1453</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a9d821669804cd04cf121e141d94ead36" name="a9d821669804cd04cf121e141d94ead36"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d821669804cd04cf121e141d94ead36">&#9670;&#160;</a></span>AccountInfoQueryHolderPerRealm()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,10 +202,10 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ClientPktHeader::IsValidOpcode </td>
+          <td class="memname">AccountInfoQueryHolderPerRealm::AccountInfoQueryHolderPerRealm </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td></td>
         </tr>
       </table>
   </td>
@@ -152,18 +214,14 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   64</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/daa/a11509.html#ad0a112cb2a8a71e6e8c20e320af63f49">cmd</a> &lt; <a class="code hl_enumvalue" href="../../d3/d64/a04974.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a>; }</div>
-<div class="ttc" id="aa04974_html_ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611"><div class="ttname"><a href="../../d3/d64/a04974.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a></div><div class="ttdeci">@ NUM_OPCODE_HANDLERS</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1346</div></div>
-<div class="ttc" id="aa11509_html_ad0a112cb2a8a71e6e8c20e320af63f49"><div class="ttname"><a href="../../d7/daa/a11509.html#ad0a112cb2a8a71e6e8c20e320af63f49">ClientPktHeader::cmd</a></div><div class="ttdeci">uint32 cmd</div><div class="ttdef"><b>Definition:</b> WorldSocket.h:61</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1459</span>{ <a class="code hl_function" href="../../da/d28/a06117.html#a9e62f0171bd39a13348d097ee99cb17c">SetSize</a>(<a class="code hl_enumvalue" href="../../d7/daa/a11509.html#ababe870b2f1e38e93bc48b0cf25589b0a2a729de91a5db74171ade3057dc08314">MAX_QUERIES</a>); }</div>
+<div class="ttc" id="aa06117_html_a9e62f0171bd39a13348d097ee99cb17c"><div class="ttname"><a href="../../da/d28/a06117.html#a9e62f0171bd39a13348d097ee99cb17c">SQLQueryHolderBase::SetSize</a></div><div class="ttdeci">void SetSize(std::size_t size)</div><div class="ttdef"><b>Definition:</b> QueryHolder.cpp:69</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00061">cmd</a>, and <a class="el" href="../../#l01346">NUM_OPCODE_HANDLERS</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00305">WorldSocket::ReadHeaderHandler()</a>.</p>
-
 </div>
 </div>
-<a id="aec5192f7f57a16c9dfa244ff3874e693" name="aec5192f7f57a16c9dfa244ff3874e693"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec5192f7f57a16c9dfa244ff3874e693">&#9670;&#160;</a></span>IsValidSize()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a9d4e4de9a038697f61e6350f5f59713b" name="a9d4e4de9a038697f61e6350f5f59713b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d4e4de9a038697f61e6350f5f59713b">&#9670;&#160;</a></span>Initialize()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -172,10 +230,11 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ClientPktHeader::IsValidSize </td>
+          <td class="memname">bool AccountInfoQueryHolderPerRealm::Initialize </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>accountId</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
@@ -184,45 +243,27 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   63</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/daa/a11509.html#ac1d551036381db4f85b8dc92ea55d4ee">size</a> &gt;= 4 &amp;&amp; <a class="code hl_variable" href="../../d7/daa/a11509.html#ac1d551036381db4f85b8dc92ea55d4ee">size</a> &lt; 10240; }</div>
-<div class="ttc" id="aa11509_html_ac1d551036381db4f85b8dc92ea55d4ee"><div class="ttname"><a href="../../d7/daa/a11509.html#ac1d551036381db4f85b8dc92ea55d4ee">ClientPktHeader::size</a></div><div class="ttdeci">uint16 size</div><div class="ttdef"><b>Definition:</b> WorldSocket.h:60</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1462</span>    {</div>
+<div class="line"><span class="lineno"> 1463</span>        <span class="keywordtype">bool</span> ok = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1464</span> </div>
+<div class="line"><span class="lineno"> 1465</span>        <a class="code hl_class" href="../../d2/d52/a05961.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d3/db1/a00200.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d5/d35/a00266.html#a76116b4fa282d8e35bf8f8e940b5cba7a79a05764e3d67ea6d1b0788f4cb8f30a">CHAR_SEL_ACCOUNT_DATA</a>);</div>
+<div class="line"><span class="lineno"> 1466</span>        stmt-&gt;<a class="code hl_function" href="../../da/d8b/a06093.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
+<div class="line"><span class="lineno"> 1467</span>        ok = <a class="code hl_function" href="../../d5/d57/a05969.html#a1cbb8be93d83bc3ed6295c6b13f6ce69">SetPreparedQuery</a>(<a class="code hl_enumvalue" href="../../d7/daa/a11509.html#ababe870b2f1e38e93bc48b0cf25589b0ab58e55eac4a420a0c3e3c2782dae65d6">GLOBAL_ACCOUNT_DATA</a>, stmt) &amp;&amp; ok;</div>
+<div class="line"><span class="lineno"> 1468</span> </div>
+<div class="line"><span class="lineno"> 1469</span>        stmt = <a class="code hl_variable" href="../../d3/db1/a00200.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d5/d35/a00266.html#a76116b4fa282d8e35bf8f8e940b5cba7a5a2600a437c6ca43cda77708d276ac23">CHAR_SEL_TUTORIALS</a>);</div>
+<div class="line"><span class="lineno"> 1470</span>        stmt-&gt;<a class="code hl_function" href="../../da/d8b/a06093.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, accountId);</div>
+<div class="line"><span class="lineno"> 1471</span>        ok = <a class="code hl_function" href="../../d5/d57/a05969.html#a1cbb8be93d83bc3ed6295c6b13f6ce69">SetPreparedQuery</a>(<a class="code hl_enumvalue" href="../../d7/daa/a11509.html#ababe870b2f1e38e93bc48b0cf25589b0a2faeed0c573ad781d2bd33c5828532a1">TUTORIALS</a>, stmt) &amp;&amp; ok;</div>
+<div class="line"><span class="lineno"> 1472</span> </div>
+<div class="line"><span class="lineno"> 1473</span>        <span class="keywordflow">return</span> ok;</div>
+<div class="line"><span class="lineno"> 1474</span>    }</div>
+<div class="ttc" id="aa00200_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d3/db1/a00200.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
+<div class="ttc" id="aa00266_html_a76116b4fa282d8e35bf8f8e940b5cba7a5a2600a437c6ca43cda77708d276ac23"><div class="ttname"><a href="../../d5/d35/a00266.html#a76116b4fa282d8e35bf8f8e940b5cba7a5a2600a437c6ca43cda77708d276ac23">CHAR_SEL_TUTORIALS</a></div><div class="ttdeci">@ CHAR_SEL_TUTORIALS</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:205</div></div>
+<div class="ttc" id="aa00266_html_a76116b4fa282d8e35bf8f8e940b5cba7a79a05764e3d67ea6d1b0788f4cb8f30a"><div class="ttname"><a href="../../d5/d35/a00266.html#a76116b4fa282d8e35bf8f8e940b5cba7a79a05764e3d67ea6d1b0788f4cb8f30a">CHAR_SEL_ACCOUNT_DATA</a></div><div class="ttdeci">@ CHAR_SEL_ACCOUNT_DATA</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:198</div></div>
+<div class="ttc" id="aa05961_html"><div class="ttname"><a href="../../d2/d52/a05961.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
+<div class="ttc" id="aa05969_html_a1cbb8be93d83bc3ed6295c6b13f6ce69"><div class="ttname"><a href="../../d5/d57/a05969.html#a1cbb8be93d83bc3ed6295c6b13f6ce69">SQLQueryHolder::SetPreparedQuery</a></div><div class="ttdeci">bool SetPreparedQuery(std::size_t index, PreparedStatement&lt; T &gt; *stmt)</div><div class="ttdef"><b>Definition:</b> QueryHolder.h:46</div></div>
+<div class="ttc" id="aa06093_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../da/d8b/a06093.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00060">size</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00305">WorldSocket::ReadHeaderHandler()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="ad0a112cb2a8a71e6e8c20e320af63f49" name="ad0a112cb2a8a71e6e8c20e320af63f49"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad0a112cb2a8a71e6e8c20e320af63f49">&#9670;&#160;</a></span>cmd</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ClientPktHeader::cmd</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00064">IsValidOpcode()</a>, <a class="el" href="../../#l00401">WorldSocket::ReadDataHandler()</a>, and <a class="el" href="../../#l00305">WorldSocket::ReadHeaderHandler()</a>.</p>
-
-</div>
-</div>
-<a id="ac1d551036381db4f85b8dc92ea55d4ee" name="ac1d551036381db4f85b8dc92ea55d4ee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac1d551036381db4f85b8dc92ea55d4ee">&#9670;&#160;</a></span>size</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> ClientPktHeader::size</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00063">IsValidSize()</a>, and <a class="el" href="../../#l00305">WorldSocket::ReadHeaderHandler()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00198">CHAR_SEL_ACCOUNT_DATA</a>, <a class="el" href="../../#l00205">CHAR_SEL_TUTORIALS</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, and <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>.</p>
 
 </div>
 </div>
@@ -231,8 +272,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/daa/a11509.html">ClientPktHeader</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:09:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/daa/a11509.html">AccountInfoQueryHolderPerRealm</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:28:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

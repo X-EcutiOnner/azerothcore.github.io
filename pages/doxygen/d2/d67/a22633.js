@@ -1,8 +1,7 @@
 var a22633 =
 [
-    [ "FilterTargets", "d2/d67/a22633.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "d2/d67/a22633.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "d2/d67/a22633.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "d2/d67/a22633.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "d2/d67/a22633.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "CalculateAmount", "d2/d67/a22633.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "d2/d67/a22633.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "d2/d67/a22633.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "d2/d67/a22633.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

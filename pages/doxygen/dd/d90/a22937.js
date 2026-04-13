@@ -1,5 +1,6 @@
 var a22937 =
 [
-    [ "npc_ashtongue_sorcerer", "dd/d90/a22937.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "dd/d90/a22937.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "go_ahune_ice_stone", "dd/d90/a22937.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "dd/d90/a22937.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "dd/d90/a22937.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

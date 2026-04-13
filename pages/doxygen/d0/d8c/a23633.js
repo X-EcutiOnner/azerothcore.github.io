@@ -1,7 +1,6 @@
 var a23633 =
 [
-    [ "FilterTargets", "d0/d8c/a23633.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "d0/d8c/a23633.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "d0/d8c/a23633.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "d0/d8c/a23633.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d6/d2a/a23637.html", "d6/d2a/a23637" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "d0/d8c/a23633.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "d0/d8c/a23633.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

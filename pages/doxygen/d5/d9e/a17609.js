@@ -1,6 +1,9 @@
 var a17609 =
 [
-    [ "HandleDummy", "d5/d9e/a17609.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "d5/d9e/a17609.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "d5/d9e/a17609.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "CheckTarget", "d5/d9e/a17609.html#a43fc6a16aca217ef043fa34a58391357", null ],
+    [ "HandlePresence", "d5/d9e/a17609.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
+    [ "OnCast", "d5/d9e/a17609.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
+    [ "PrepareSpellScript", "d5/d9e/a17609.html#abe559b32aa82f19abb0a6d664b75c748", null ],
+    [ "Register", "d5/d9e/a17609.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
+    [ "Validate", "d5/d9e/a17609.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
 ];

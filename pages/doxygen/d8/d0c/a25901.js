@@ -1,6 +1,7 @@
 var a25901 =
 [
-    [ "HandleOnEffectHit", "d8/d0c/a25901.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
-    [ "PrepareSpellScript", "d8/d0c/a25901.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
-    [ "Register", "d8/d0c/a25901.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
+    [ "HandleDummy", "d8/d0c/a25901.html#a787b5b1c0d0687bad944452c678f33b9", null ],
+    [ "Load", "d8/d0c/a25901.html#a8d7e2821f74443292c43c40bbfb9ed92", null ],
+    [ "PrepareSpellScript", "d8/d0c/a25901.html#a79dcac5234ca195488e647a280806e69", null ],
+    [ "Register", "d8/d0c/a25901.html#ae9cbe89924c2578bb1ed21a55a48cf6b", null ]
 ];

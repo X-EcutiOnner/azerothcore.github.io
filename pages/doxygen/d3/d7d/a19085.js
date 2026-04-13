@@ -1,8 +1,9 @@
 var a19085 =
 [
-    [ "npc_rotting_frost_giantAI", "d3/d7d/a19085.html#a7b412075e17a81bf50aba63f96c16e53", null ],
-    [ "JustDied", "d3/d7d/a19085.html#a68b4e823de82fdfd31ccf765192e8768", null ],
-    [ "Reset", "d3/d7d/a19085.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
-    [ "UpdateAI", "d3/d7d/a19085.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
-    [ "_events", "d3/d7d/a19085.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
+    [ "spell_trigger_spell_from_caster", "d3/d7d/a19085.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "d3/d7d/a19085.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "d3/d7d/a19085.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "d3/d7d/a19085.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "d3/d7d/a19085.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "d3/d7d/a19085.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

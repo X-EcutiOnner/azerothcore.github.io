@@ -1,6 +1,11 @@
 var a29137 =
 [
-    [ "Id", "dc/d63/a29137.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "dc/d63/a29137.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "dc/d63/a29137.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "IsAvailable", "dc/d63/a29137.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "dc/d63/a29137.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "dc/d63/a29137.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "dc/d63/a29137.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "dc/d63/a29137.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "dc/d63/a29137.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "dc/d63/a29137.html#acc49c1f1701d0119ea5fd92c49a80c8e", null ],
+    [ "value", "dc/d63/a29137.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

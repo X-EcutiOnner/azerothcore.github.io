@@ -1,9 +1,6 @@
 var a20313 =
 [
-    [ "Absorb", "d8/dbf/a20313.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "d8/dbf/a20313.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "d8/dbf/a20313.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "d8/dbf/a20313.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "d8/dbf/a20313.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "d8/dbf/a20313.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "OnPeriodic", "d8/dbf/a20313.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "d8/dbf/a20313.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "d8/dbf/a20313.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

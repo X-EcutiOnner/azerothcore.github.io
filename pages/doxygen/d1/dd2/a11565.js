@@ -1,12 +1,9 @@
 var a11565 =
 [
-    [ "SpellDestination", "d1/dd2/a11565.html#aa91f31101de3139b2e2d2976dac94686", null ],
-    [ "SpellDestination", "d1/dd2/a11565.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
-    [ "SpellDestination", "d1/dd2/a11565.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
-    [ "SpellDestination", "d1/dd2/a11565.html#a7b8949fa80249aee8bebc56620ec746c", null ],
-    [ "Relocate", "d1/dd2/a11565.html#ab565861d5013130639013e3c4d22d712", null ],
-    [ "RelocateOffset", "d1/dd2/a11565.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
-    [ "_position", "d1/dd2/a11565.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
-    [ "_transportGUID", "d1/dd2/a11565.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
-    [ "_transportOffset", "d1/dd2/a11565.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
+    [ "EncryptableAndCompressiblePacket", "d1/dd2/a11565.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "d1/dd2/a11565.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "d1/dd2/a11565.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "d1/dd2/a11565.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "d1/dd2/a11565.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "d1/dd2/a11565.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

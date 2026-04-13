@@ -1,6 +1,9 @@
 var a22869 =
 [
-    [ "boss_reliquary_of_soulsAI", "d4/d2a/a22873.html", "d4/d2a/a22873" ],
-    [ "boss_reliquary_of_souls", "de/d2c/a22869.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "de/d2c/a22869.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "FilterTargets", "de/d2c/a22869.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "de/d2c/a22869.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "de/d2c/a22869.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "de/d2c/a22869.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "de/d2c/a22869.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "de/d2c/a22869.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

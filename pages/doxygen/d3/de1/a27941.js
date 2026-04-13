@@ -1,5 +1,5 @@
 var a27941 =
 [
-    [ "achievement_resilient_victory", "d3/de1/a27941.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "d3/de1/a27941.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "go_hive_pod", "d3/de1/a27941.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "d3/de1/a27941.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

@@ -1,6 +1,5 @@
 var a22077 =
 [
-    [ "HandleDummy", "d0/d6c/a22077.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "d0/d6c/a22077.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "d0/d6c/a22077.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "go_finklestein_cauldron", "d0/d6c/a22077.html#a8aa352319c54526069588dacd75ab883", null ],
+    [ "OnGossipHello", "d0/d6c/a22077.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
 ];

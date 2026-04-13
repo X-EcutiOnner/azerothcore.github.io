@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: anonymous_namespace{SpellImmunityTest.cpp} Namespace Reference</title>
+<title>AzerothCore: anonymous_namespace{ResetAttackTimerTest.cpp} Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,181 +105,44 @@ $(document).ready(function(){initNavTree('d1/ddb/a05106.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">anonymous_namespace{SpellImmunityTest.cpp} Namespace Reference</div></div>
+  <div class="headertitle"><div class="title">anonymous_namespace{ResetAttackTimerTest.cpp} Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df1/a29458.html">EffectApplyResult</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d62/a29450.html">EffectDesc</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:ad4f0bfb68d839af88604b04ff47ee09b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09b">EffectType</a> : uint8_t { <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9">EFFECT_NONE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326">EFFECT_SCHOOL_DAMAGE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09badf7d20f7f73744f8801a9e3722859857">EFFECT_HEALTH_LEECH</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba7f780b287e075a337dec7f1eff2f7fe6">EFFECT_POWER_DRAIN</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09baa3b002d33deb9b0c599313ec88fbacbe">EFFECT_POWER_BURN</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09bad0131549c4802cb811d2fabffcb09a86">EFFECT_NORMALIZED_WEAPON_DMG</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba789f2fcff65ef9724496bdd61374c413">EFFECT_WEAPON_PERCENT_DAMAGE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">EFFECT_APPLY_AURA</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba3beec166914f7490f010caa66eca7140">EFFECT_DUMMY</a>
-<br />
- }</td></tr>
-<tr class="separator:ad4f0bfb68d839af88604b04ff47ee09b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab3c8788e4514711f326743e17cf18f33"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33">AuraType</a> : uint8_t { <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c">AURA_NONE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48">AURA_MOD_DECREASE_SPEED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a6a2e2898c74255e2be848f8d851cd61b">AURA_PERIODIC_DAMAGE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a856d9e6ed0a25dd7d099adeed0e46680">AURA_TRANSFORM</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace">AURA_MOD_STUN</a>
-<br />
- }</td></tr>
-<tr class="separator:ab3c8788e4514711f326743e17cf18f33"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a751e7c7dd00eb27194700629d22d50c6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#a751e7c7dd00eb27194700629d22d50c6">IsDamageEffect</a> (<a class="el" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09b">EffectType</a> effect)</td></tr>
-<tr class="separator:a751e7c7dd00eb27194700629d22d50c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac2464881723f07e073fd8ad85dbbaa61"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#ac2464881723f07e073fd8ad85dbbaa61">HasOnlyDamageEffects</a> (<a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> const &amp;spell)</td></tr>
-<tr class="separator:ac2464881723f07e073fd8ad85dbbaa61"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a95ec40b4341833086e531ed73dba7147"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#a95ec40b4341833086e531ed73dba7147">IsStunSpell</a> (<a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> const &amp;spell)</td></tr>
-<tr class="separator:a95ec40b4341833086e531ed73dba7147"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:accf0cc423cf1c4e9bf5ac0b660caed24"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#accf0cc423cf1c4e9bf5ac0b660caed24">IsEffectBlockedByStunImmunity</a> (<a class="el" href="../../df/d62/a29450.html">EffectDesc</a> const &amp;effect, bool immuneToStun)</td></tr>
-<tr class="separator:accf0cc423cf1c4e9bf5ac0b660caed24"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa953489abf2a825aea7d2aef9f904a3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#aaa953489abf2a825aea7d2aef9f904a3">IsFullyImmunedByStunImmunity</a> (<a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> const &amp;spell, bool immuneToStun)</td></tr>
-<tr class="separator:aaa953489abf2a825aea7d2aef9f904a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a687cb216770a0868d03198480599bde5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d2a/a03062.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a> (bool isImmunedToSpell, bool isImmunedToDamage, <a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> const &amp;spell, bool immuneToStun=false)</td></tr>
-<tr class="separator:a687cb216770a0868d03198480599bde5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3f6167aede97490fe6c435b6e981ee31"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/df1/a29458.html">EffectApplyResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#a3f6167aede97490fe6c435b6e981ee31">ApplyEffectsWithMovementImmunity</a> (<a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> const &amp;spell, bool immuneToMovementImpairing)</td></tr>
-<tr class="separator:a3f6167aede97490fe6c435b6e981ee31"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac9b0d1a51efd792514de07f8af0268cd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#ac9b0d1a51efd792514de07f8af0268cd">MakeDamageOnlySpell</a> ()</td></tr>
-<tr class="separator:ac9b0d1a51efd792514de07f8af0268cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4ae8bc0e855177e9fb9212a0b24fa2c0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#a4ae8bc0e855177e9fb9212a0b24fa2c0">MakeFrostboltLikeSpell</a> ()</td></tr>
-<tr class="separator:a4ae8bc0e855177e9fb9212a0b24fa2c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6db007c75130da75c1510de68536e7fd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#a6db007c75130da75c1510de68536e7fd">MakeCycloneLikeSpell</a> ()</td></tr>
-<tr class="separator:a6db007c75130da75c1510de68536e7fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae0dcf3406441c72889d7703c788095a6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#ae0dcf3406441c72889d7703c788095a6">MakeSlowOnlySpell</a> ()</td></tr>
-<tr class="separator:ae0dcf3406441c72889d7703c788095a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab75ddecb6b6e4a6ea3bd62e8a45d2ba2"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a> (int32_t currentTimer, int32_t fullTime)</td></tr>
+<tr class="separator:ab75ddecb6b6e4a6ea3bd62e8a45d2ba2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae298365d32c23f29d12e5f81b91db99"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a> (int32_t, int32_t fullTime)</td></tr>
+<tr class="separator:aae298365d32c23f29d12e5f81b91db99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf515241ac86050cd79d68b509c5ea29"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddb/a05106.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a> (uint32_t baseAttackTime, float modSpeedPct)</td></tr>
+<tr class="separator:acf515241ac86050cd79d68b509c5ea29"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="ab3c8788e4514711f326743e17cf18f33" name="ab3c8788e4514711f326743e17cf18f33"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab3c8788e4514711f326743e17cf18f33">&#9670;&#160;</a></span>AuraType</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Tests for <a class="el" href="../../da/d68/a09041.html#ae7f942c448b14628617639978bf6bd00">Unit::resetAttackTimer</a> arithmetic.</p>
+<p ><a class="el" href="../../da/d68/a09041.html#ae7f942c448b14628617639978bf6bd00">Unit::resetAttackTimer</a> resets the swing timer after an attack lands. The timer value determines when the next attack can occur.</p>
+<p >Old (buggy) formula: int32 time = <a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32(GetAttackTime(type) * m_modAttackSpeedPct[type])</a>; m_attackTimer[type] = std::min(m_attackTimer[type] + time, time);</p>
+<p >New (fixed) formula: m_attackTimer[type] = <a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32(GetAttackTime(type) * m_modAttackSpeedPct[type])</a>;</p>
+<p >The old formula carried forward negative timer debt, allowing burst attacks after lag spikes or parry-haste timer reductions. </p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="acf515241ac86050cd79d68b509c5ea29" name="acf515241ac86050cd79d68b509c5ea29"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acf515241ac86050cd79d68b509c5ea29">&#9670;&#160;</a></span>CalcFullTime()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum anonymous_namespace{SpellImmunityTest.cpp}<a class="el" href="../../de/dce/a03362.html#a538cdc259460b365f406fe0b3a981799">::AuraType</a> : uint8_t</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c" name="ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c"></a>AURA_NONE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48" name="ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48"></a>AURA_MOD_DECREASE_SPEED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab3c8788e4514711f326743e17cf18f33a6a2e2898c74255e2be848f8d851cd61b" name="ab3c8788e4514711f326743e17cf18f33a6a2e2898c74255e2be848f8d851cd61b"></a>AURA_PERIODIC_DAMAGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab3c8788e4514711f326743e17cf18f33a856d9e6ed0a25dd7d099adeed0e46680" name="ab3c8788e4514711f326743e17cf18f33a856d9e6ed0a25dd7d099adeed0e46680"></a>AURA_TRANSFORM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace" name="ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace"></a>AURA_MOD_STUN&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   45</span>    {</div>
-<div class="line"><span class="lineno">   46</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c">AURA_NONE</a>,</div>
-<div class="line"><span class="lineno">   47</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48">AURA_MOD_DECREASE_SPEED</a>,</div>
-<div class="line"><span class="lineno">   48</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a6a2e2898c74255e2be848f8d851cd61b">AURA_PERIODIC_DAMAGE</a>,</div>
-<div class="line"><span class="lineno">   49</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a856d9e6ed0a25dd7d099adeed0e46680">AURA_TRANSFORM</a>,</div>
-<div class="line"><span class="lineno">   50</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace">AURA_MOD_STUN</a></div>
-<div class="line"><span class="lineno">   51</span>    };</div>
-<div class="ttc" id="aa05106_html_ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48"><div class="ttname"><a href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48">anonymous_namespace{SpellImmunityTest.cpp}::AURA_MOD_DECREASE_SPEED</a></div><div class="ttdeci">@ AURA_MOD_DECREASE_SPEED</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:47</div></div>
-<div class="ttc" id="aa05106_html_ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace"><div class="ttname"><a href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace">anonymous_namespace{SpellImmunityTest.cpp}::AURA_MOD_STUN</a></div><div class="ttdeci">@ AURA_MOD_STUN</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:50</div></div>
-<div class="ttc" id="aa05106_html_ab3c8788e4514711f326743e17cf18f33a6a2e2898c74255e2be848f8d851cd61b"><div class="ttname"><a href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a6a2e2898c74255e2be848f8d851cd61b">anonymous_namespace{SpellImmunityTest.cpp}::AURA_PERIODIC_DAMAGE</a></div><div class="ttdeci">@ AURA_PERIODIC_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:48</div></div>
-<div class="ttc" id="aa05106_html_ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c"><div class="ttname"><a href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c">anonymous_namespace{SpellImmunityTest.cpp}::AURA_NONE</a></div><div class="ttdeci">@ AURA_NONE</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:46</div></div>
-<div class="ttc" id="aa05106_html_ab3c8788e4514711f326743e17cf18f33a856d9e6ed0a25dd7d099adeed0e46680"><div class="ttname"><a href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a856d9e6ed0a25dd7d099adeed0e46680">anonymous_namespace{SpellImmunityTest.cpp}::AURA_TRANSFORM</a></div><div class="ttdeci">@ AURA_TRANSFORM</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:49</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ad4f0bfb68d839af88604b04ff47ee09b" name="ad4f0bfb68d839af88604b04ff47ee09b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad4f0bfb68d839af88604b04ff47ee09b">&#9670;&#160;</a></span>EffectType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum anonymous_namespace{SpellImmunityTest.cpp}::EffectType : uint8_t</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9" name="ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9"></a>EFFECT_NONE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326" name="ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326"></a>EFFECT_SCHOOL_DAMAGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4f0bfb68d839af88604b04ff47ee09badf7d20f7f73744f8801a9e3722859857" name="ad4f0bfb68d839af88604b04ff47ee09badf7d20f7f73744f8801a9e3722859857"></a>EFFECT_HEALTH_LEECH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4f0bfb68d839af88604b04ff47ee09ba7f780b287e075a337dec7f1eff2f7fe6" name="ad4f0bfb68d839af88604b04ff47ee09ba7f780b287e075a337dec7f1eff2f7fe6"></a>EFFECT_POWER_DRAIN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4f0bfb68d839af88604b04ff47ee09baa3b002d33deb9b0c599313ec88fbacbe" name="ad4f0bfb68d839af88604b04ff47ee09baa3b002d33deb9b0c599313ec88fbacbe"></a>EFFECT_POWER_BURN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4f0bfb68d839af88604b04ff47ee09bad0131549c4802cb811d2fabffcb09a86" name="ad4f0bfb68d839af88604b04ff47ee09bad0131549c4802cb811d2fabffcb09a86"></a>EFFECT_NORMALIZED_WEAPON_DMG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4f0bfb68d839af88604b04ff47ee09ba789f2fcff65ef9724496bdd61374c413" name="ad4f0bfb68d839af88604b04ff47ee09ba789f2fcff65ef9724496bdd61374c413"></a>EFFECT_WEAPON_PERCENT_DAMAGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a" name="ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a"></a>EFFECT_APPLY_AURA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ad4f0bfb68d839af88604b04ff47ee09ba3beec166914f7490f010caa66eca7140" name="ad4f0bfb68d839af88604b04ff47ee09ba3beec166914f7490f010caa66eca7140"></a>EFFECT_DUMMY&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   32</span>    {</div>
-<div class="line"><span class="lineno">   33</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9">EFFECT_NONE</a>,</div>
-<div class="line"><span class="lineno">   34</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326">EFFECT_SCHOOL_DAMAGE</a>,</div>
-<div class="line"><span class="lineno">   35</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09badf7d20f7f73744f8801a9e3722859857">EFFECT_HEALTH_LEECH</a>,</div>
-<div class="line"><span class="lineno">   36</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba7f780b287e075a337dec7f1eff2f7fe6">EFFECT_POWER_DRAIN</a>,</div>
-<div class="line"><span class="lineno">   37</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09baa3b002d33deb9b0c599313ec88fbacbe">EFFECT_POWER_BURN</a>,</div>
-<div class="line"><span class="lineno">   38</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09bad0131549c4802cb811d2fabffcb09a86">EFFECT_NORMALIZED_WEAPON_DMG</a>,</div>
-<div class="line"><span class="lineno">   39</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba789f2fcff65ef9724496bdd61374c413">EFFECT_WEAPON_PERCENT_DAMAGE</a>,</div>
-<div class="line"><span class="lineno">   40</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">EFFECT_APPLY_AURA</a>,</div>
-<div class="line"><span class="lineno">   41</span>        <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba3beec166914f7490f010caa66eca7140">EFFECT_DUMMY</a></div>
-<div class="line"><span class="lineno">   42</span>    };</div>
-<div class="ttc" id="aa05106_html_ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9"><div class="ttname"><a href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_NONE</a></div><div class="ttdeci">@ EFFECT_NONE</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:33</div></div>
-<div class="ttc" id="aa05106_html_ad4f0bfb68d839af88604b04ff47ee09ba3beec166914f7490f010caa66eca7140"><div class="ttname"><a href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba3beec166914f7490f010caa66eca7140">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_DUMMY</a></div><div class="ttdeci">@ EFFECT_DUMMY</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:41</div></div>
-<div class="ttc" id="aa05106_html_ad4f0bfb68d839af88604b04ff47ee09ba789f2fcff65ef9724496bdd61374c413"><div class="ttname"><a href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba789f2fcff65ef9724496bdd61374c413">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_WEAPON_PERCENT_DAMAGE</a></div><div class="ttdeci">@ EFFECT_WEAPON_PERCENT_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:39</div></div>
-<div class="ttc" id="aa05106_html_ad4f0bfb68d839af88604b04ff47ee09ba7f780b287e075a337dec7f1eff2f7fe6"><div class="ttname"><a href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba7f780b287e075a337dec7f1eff2f7fe6">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_POWER_DRAIN</a></div><div class="ttdeci">@ EFFECT_POWER_DRAIN</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:36</div></div>
-<div class="ttc" id="aa05106_html_ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a"><div class="ttname"><a href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_APPLY_AURA</a></div><div class="ttdeci">@ EFFECT_APPLY_AURA</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:40</div></div>
-<div class="ttc" id="aa05106_html_ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326"><div class="ttname"><a href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_SCHOOL_DAMAGE</a></div><div class="ttdeci">@ EFFECT_SCHOOL_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:34</div></div>
-<div class="ttc" id="aa05106_html_ad4f0bfb68d839af88604b04ff47ee09baa3b002d33deb9b0c599313ec88fbacbe"><div class="ttname"><a href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09baa3b002d33deb9b0c599313ec88fbacbe">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_POWER_BURN</a></div><div class="ttdeci">@ EFFECT_POWER_BURN</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:37</div></div>
-<div class="ttc" id="aa05106_html_ad4f0bfb68d839af88604b04ff47ee09bad0131549c4802cb811d2fabffcb09a86"><div class="ttname"><a href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09bad0131549c4802cb811d2fabffcb09a86">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_NORMALIZED_WEAPON_DMG</a></div><div class="ttdeci">@ EFFECT_NORMALIZED_WEAPON_DMG</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:38</div></div>
-<div class="ttc" id="aa05106_html_ad4f0bfb68d839af88604b04ff47ee09badf7d20f7f73744f8801a9e3722859857"><div class="ttname"><a href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09badf7d20f7f73744f8801a9e3722859857">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_HEALTH_LEECH</a></div><div class="ttdeci">@ EFFECT_HEALTH_LEECH</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:35</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a3f6167aede97490fe6c435b6e981ee31" name="a3f6167aede97490fe6c435b6e981ee31"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3f6167aede97490fe6c435b6e981ee31">&#9670;&#160;</a></span>ApplyEffectsWithMovementImmunity()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../df/df1/a29458.html">EffectApplyResult</a> anonymous_namespace{SpellImmunityTest.cpp}::ApplyEffectsWithMovementImmunity </td>
+          <td class="memname">int32_t anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> const &amp;&#160;</td>
-          <td class="paramname"><em>spell</em>, </td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>baseAttackTime</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>immuneToMovementImpairing</em>&#160;</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>modSpeedPct</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -288,69 +151,31 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  163</span>    {</div>
-<div class="line"><span class="lineno">  164</span>        <a class="code hl_struct" href="../../df/df1/a29458.html">EffectApplyResult</a> result;</div>
-<div class="line"><span class="lineno">  165</span> </div>
-<div class="line"><span class="lineno">  166</span>        <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../df/d62/a29450.html">EffectDesc</a> <span class="keyword">const</span>&amp; e : spell.effects)</div>
-<div class="line"><span class="lineno">  167</span>        {</div>
-<div class="line"><span class="lineno">  168</span>            <span class="keywordflow">if</span> (e.<a class="code hl_variable" href="../../df/d62/a29450.html#a24ce38279cb514bab8ef9924d93b5dfc">effect</a> == <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9">EFFECT_NONE</a>)</div>
-<div class="line"><span class="lineno">  169</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  170</span> </div>
-<div class="line"><span class="lineno">  171</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d1/ddb/a05106.html#a751e7c7dd00eb27194700629d22d50c6">IsDamageEffect</a>(e.<a class="code hl_variable" href="../../df/d62/a29450.html#a24ce38279cb514bab8ef9924d93b5dfc">effect</a>))</div>
-<div class="line"><span class="lineno">  172</span>                result.<a class="code hl_variable" href="../../df/df1/a29458.html#a69a7cfd95e3e3b43879eae37963d1e14">damageApplied</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  173</span> </div>
-<div class="line"><span class="lineno">  174</span>            <span class="keywordflow">if</span> (e.<a class="code hl_variable" href="../../df/d62/a29450.html#a24ce38279cb514bab8ef9924d93b5dfc">effect</a> == <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">EFFECT_APPLY_AURA</a> &amp;&amp; e.<a class="code hl_variable" href="../../df/d62/a29450.html#a6a57282648f4792e6dfaf4c892be90eb">aura</a> == <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48">AURA_MOD_DECREASE_SPEED</a>)</div>
-<div class="line"><span class="lineno">  175</span>            {</div>
-<div class="line"><span class="lineno">  176</span>                <span class="keywordflow">if</span> (!immuneToMovementImpairing)</div>
-<div class="line"><span class="lineno">  177</span>                    result.<a class="code hl_variable" href="../../df/df1/a29458.html#a2d99cc2f9c6aedfeef6e18885ff2675d">slowApplied</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  178</span>            }</div>
-<div class="line"><span class="lineno">  179</span>        }</div>
-<div class="line"><span class="lineno">  180</span> </div>
-<div class="line"><span class="lineno">  181</span>        <span class="keywordflow">return</span> result;</div>
-<div class="line"><span class="lineno">  182</span>    }</div>
-<div class="ttc" id="aa05106_html_a751e7c7dd00eb27194700629d22d50c6"><div class="ttname"><a href="../../d1/ddb/a05106.html#a751e7c7dd00eb27194700629d22d50c6">anonymous_namespace{SpellImmunityTest.cpp}::IsDamageEffect</a></div><div class="ttdeci">bool IsDamageEffect(EffectType effect)</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:64</div></div>
-<div class="ttc" id="aa29450_html"><div class="ttname"><a href="../../df/d62/a29450.html">anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc</a></div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:54</div></div>
-<div class="ttc" id="aa29450_html_a24ce38279cb514bab8ef9924d93b5dfc"><div class="ttname"><a href="../../df/d62/a29450.html#a24ce38279cb514bab8ef9924d93b5dfc">anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc::effect</a></div><div class="ttdeci">EffectType effect</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:55</div></div>
-<div class="ttc" id="aa29450_html_a6a57282648f4792e6dfaf4c892be90eb"><div class="ttname"><a href="../../df/d62/a29450.html#a6a57282648f4792e6dfaf4c892be90eb">anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc::aura</a></div><div class="ttdeci">AuraType aura</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:56</div></div>
-<div class="ttc" id="aa29458_html"><div class="ttname"><a href="../../df/df1/a29458.html">anonymous_namespace{SpellImmunityTest.cpp}::EffectApplyResult</a></div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:157</div></div>
-<div class="ttc" id="aa29458_html_a2d99cc2f9c6aedfeef6e18885ff2675d"><div class="ttname"><a href="../../df/df1/a29458.html#a2d99cc2f9c6aedfeef6e18885ff2675d">anonymous_namespace{SpellImmunityTest.cpp}::EffectApplyResult::slowApplied</a></div><div class="ttdeci">bool slowApplied</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:159</div></div>
-<div class="ttc" id="aa29458_html_a69a7cfd95e3e3b43879eae37963d1e14"><div class="ttname"><a href="../../df/df1/a29458.html#a69a7cfd95e3e3b43879eae37963d1e14">anonymous_namespace{SpellImmunityTest.cpp}::EffectApplyResult::damageApplied</a></div><div class="ttdeci">bool damageApplied</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:158</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   55</span>    {</div>
+<div class="line"><span class="lineno">   56</span>        <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>int32_t<span class="keyword">&gt;</span>(baseAttackTime * modSpeedPct);</div>
+<div class="line"><span class="lineno">   57</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00056">anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc::aura</a>, <a class="el" href="../../#l00047">AURA_MOD_DECREASE_SPEED</a>, <a class="el" href="../../#l00158">anonymous_namespace{SpellImmunityTest.cpp}::EffectApplyResult::damageApplied</a>, <a class="el" href="../../#l00055">anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc::effect</a>, <a class="el" href="../../#l00040">EFFECT_APPLY_AURA</a>, <a class="el" href="../../#l00033">EFFECT_NONE</a>, <a class="el" href="../../#l00061">anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc::effects</a>, <a class="el" href="../../#l00064">IsDamageEffect()</a>, and <a class="el" href="../../#l00159">anonymous_namespace{SpellImmunityTest.cpp}::EffectApplyResult::slowApplied</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00265">TEST()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00061">TEST()</a>.</p>
 
 </div>
 </div>
-<a id="a687cb216770a0868d03198480599bde5" name="a687cb216770a0868d03198480599bde5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a687cb216770a0868d03198480599bde5">&#9670;&#160;</a></span>ComputeSpellHitResult()</h2>
+<a id="aae298365d32c23f29d12e5f81b91db99" name="aae298365d32c23f29d12e5f81b91db99"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae298365d32c23f29d12e5f81b91db99">&#9670;&#160;</a></span>NewResetFormula()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d2a/a03062.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a> anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult </td>
+          <td class="memname">int32_t anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula </td>
           <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>isImmunedToSpell</em>, </td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>isImmunedToDamage</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> const &amp;&#160;</td>
-          <td class="paramname"><em>spell</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>immuneToStun</em> = <code>false</code>&#160;</td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>fullTime</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -359,123 +184,31 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  139</span>    {</div>
-<div class="line"><span class="lineno">  140</span>        <span class="comment">// Mirrors current core ordering:</span></div>
-<div class="line"><span class="lineno">  141</span>        <span class="comment">// 1) full spell immunity check</span></div>
-<div class="line"><span class="lineno">  142</span>        <span class="comment">// 2) full immunity from mechanic immunity (all effects blocked)</span></div>
-<div class="line"><span class="lineno">  143</span>        <span class="comment">// 3) damage immunity only for damage-only spells</span></div>
-<div class="line"><span class="lineno">  144</span>        <span class="keywordflow">if</span> (isImmunedToSpell)</div>
-<div class="line"><span class="lineno">  145</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d6/d2a/a03062.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>;</div>
-<div class="line"><span class="lineno">  146</span> </div>
-<div class="line"><span class="lineno">  147</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d1/ddb/a05106.html#aaa953489abf2a825aea7d2aef9f904a3">IsFullyImmunedByStunImmunity</a>(spell, immuneToStun))</div>
-<div class="line"><span class="lineno">  148</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d6/d2a/a03062.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>;</div>
-<div class="line"><span class="lineno">  149</span> </div>
-<div class="line"><span class="lineno">  150</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d1/ddb/a05106.html#ac2464881723f07e073fd8ad85dbbaa61">HasOnlyDamageEffects</a>(spell) &amp;&amp; isImmunedToDamage)</div>
-<div class="line"><span class="lineno">  151</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d6/d2a/a03062.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>;</div>
-<div class="line"><span class="lineno">  152</span> </div>
-<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d6/d2a/a03062.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>;</div>
-<div class="line"><span class="lineno">  154</span>    }</div>
-<div class="ttc" id="aa03062_html_ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f"><div class="ttname"><a href="../../d6/d2a/a03062.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a></div><div class="ttdeci">@ SPELL_MISS_IMMUNE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1530</div></div>
-<div class="ttc" id="aa03062_html_ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096"><div class="ttname"><a href="../../d6/d2a/a03062.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a></div><div class="ttdeci">@ SPELL_MISS_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1523</div></div>
-<div class="ttc" id="aa05106_html_aaa953489abf2a825aea7d2aef9f904a3"><div class="ttname"><a href="../../d1/ddb/a05106.html#aaa953489abf2a825aea7d2aef9f904a3">anonymous_namespace{SpellImmunityTest.cpp}::IsFullyImmunedByStunImmunity</a></div><div class="ttdeci">bool IsFullyImmunedByStunImmunity(SpellDesc const &amp;spell, bool immuneToStun)</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:116</div></div>
-<div class="ttc" id="aa05106_html_ac2464881723f07e073fd8ad85dbbaa61"><div class="ttname"><a href="../../d1/ddb/a05106.html#ac2464881723f07e073fd8ad85dbbaa61">anonymous_namespace{SpellImmunityTest.cpp}::HasOnlyDamageEffects</a></div><div class="ttdeci">bool HasOnlyDamageEffects(SpellDesc const &amp;spell)</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:80</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   49</span>    {</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> fullTime;</div>
+<div class="line"><span class="lineno">   51</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00080">HasOnlyDamageEffects()</a>, <a class="el" href="../../#l00116">IsFullyImmunedByStunImmunity()</a>, <a class="el" href="../../#l01530">SPELL_MISS_IMMUNE</a>, and <a class="el" href="../../#l01523">SPELL_MISS_NONE</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00227">TEST()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00061">TEST()</a>.</p>
 
 </div>
 </div>
-<a id="ac2464881723f07e073fd8ad85dbbaa61" name="ac2464881723f07e073fd8ad85dbbaa61"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac2464881723f07e073fd8ad85dbbaa61">&#9670;&#160;</a></span>HasOnlyDamageEffects()</h2>
+<a id="ab75ddecb6b6e4a6ea3bd62e8a45d2ba2" name="ab75ddecb6b6e4a6ea3bd62e8a45d2ba2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">&#9670;&#160;</a></span>OldResetFormula()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool anonymous_namespace{SpellImmunityTest.cpp}::HasOnlyDamageEffects </td>
+          <td class="memname">int32_t anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> const &amp;&#160;</td>
-          <td class="paramname"><em>spell</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   81</span>    {</div>
-<div class="line"><span class="lineno">   82</span>        <span class="keywordtype">bool</span> hasAny = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   83</span> </div>
-<div class="line"><span class="lineno">   84</span>        <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../df/d62/a29450.html">EffectDesc</a> <span class="keyword">const</span>&amp; e : spell.effects)</div>
-<div class="line"><span class="lineno">   85</span>        {</div>
-<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">if</span> (e.<a class="code hl_variable" href="../../df/d62/a29450.html#a24ce38279cb514bab8ef9924d93b5dfc">effect</a> == <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9">EFFECT_NONE</a>)</div>
-<div class="line"><span class="lineno">   87</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>            hasAny = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   90</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d1/ddb/a05106.html#a751e7c7dd00eb27194700629d22d50c6">IsDamageEffect</a>(e.<a class="code hl_variable" href="../../df/d62/a29450.html#a24ce38279cb514bab8ef9924d93b5dfc">effect</a>))</div>
-<div class="line"><span class="lineno">   91</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   92</span>        }</div>
-<div class="line"><span class="lineno">   93</span> </div>
-<div class="line"><span class="lineno">   94</span>        <span class="keywordflow">return</span> hasAny;</div>
-<div class="line"><span class="lineno">   95</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00055">anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc::effect</a>, <a class="el" href="../../#l00033">EFFECT_NONE</a>, <a class="el" href="../../#l00061">anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc::effects</a>, and <a class="el" href="../../#l00064">IsDamageEffect()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00137">ComputeSpellHitResult()</a>, and <a class="el" href="../../#l00215">TEST()</a>.</p>
-
-</div>
-</div>
-<a id="a751e7c7dd00eb27194700629d22d50c6" name="a751e7c7dd00eb27194700629d22d50c6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a751e7c7dd00eb27194700629d22d50c6">&#9670;&#160;</a></span>IsDamageEffect()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool anonymous_namespace{SpellImmunityTest.cpp}::IsDamageEffect </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09b">EffectType</a>&#160;</td>
-          <td class="paramname"><em>effect</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   65</span>    {</div>
-<div class="line"><span class="lineno">   66</span>        <span class="keywordflow">switch</span> (effect)</div>
-<div class="line"><span class="lineno">   67</span>        {</div>
-<div class="line"><span class="lineno">   68</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326">EFFECT_SCHOOL_DAMAGE</a>:</div>
-<div class="line"><span class="lineno">   69</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09badf7d20f7f73744f8801a9e3722859857">EFFECT_HEALTH_LEECH</a>:</div>
-<div class="line"><span class="lineno">   70</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba7f780b287e075a337dec7f1eff2f7fe6">EFFECT_POWER_DRAIN</a>:</div>
-<div class="line"><span class="lineno">   71</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09baa3b002d33deb9b0c599313ec88fbacbe">EFFECT_POWER_BURN</a>:</div>
-<div class="line"><span class="lineno">   72</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09bad0131549c4802cb811d2fabffcb09a86">EFFECT_NORMALIZED_WEAPON_DMG</a>:</div>
-<div class="line"><span class="lineno">   73</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba789f2fcff65ef9724496bdd61374c413">EFFECT_WEAPON_PERCENT_DAMAGE</a>:</div>
-<div class="line"><span class="lineno">   74</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   75</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">   76</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   77</span>        }</div>
-<div class="line"><span class="lineno">   78</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">EFFECT_HEALTH_LEECH</a>, <a class="el" href="../../#l00038">EFFECT_NORMALIZED_WEAPON_DMG</a>, <a class="el" href="../../#l00037">EFFECT_POWER_BURN</a>, <a class="el" href="../../#l00036">EFFECT_POWER_DRAIN</a>, <a class="el" href="../../#l00034">EFFECT_SCHOOL_DAMAGE</a>, and <a class="el" href="../../#l00039">EFFECT_WEAPON_PERCENT_DAMAGE</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00162">ApplyEffectsWithMovementImmunity()</a>, and <a class="el" href="../../#l00080">HasOnlyDamageEffects()</a>.</p>
-
-</div>
-</div>
-<a id="accf0cc423cf1c4e9bf5ac0b660caed24" name="accf0cc423cf1c4e9bf5ac0b660caed24"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#accf0cc423cf1c4e9bf5ac0b660caed24">&#9670;&#160;</a></span>IsEffectBlockedByStunImmunity()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool anonymous_namespace{SpellImmunityTest.cpp}::IsEffectBlockedByStunImmunity </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d62/a29450.html">EffectDesc</a> const &amp;&#160;</td>
-          <td class="paramname"><em>effect</em>, </td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>currentTimer</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>immuneToStun</em>&#160;</td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>fullTime</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -484,202 +217,11 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  109</span>    {</div>
-<div class="line"><span class="lineno">  110</span>        <span class="keywordflow">if</span> (!immuneToStun)</div>
-<div class="line"><span class="lineno">  111</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  112</span> </div>
-<div class="line"><span class="lineno">  113</span>        <span class="keywordflow">return</span> effect.effect == <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">EFFECT_APPLY_AURA</a> &amp;&amp; effect.aura == <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace">AURA_MOD_STUN</a>;</div>
-<div class="line"><span class="lineno">  114</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   43</span>    {</div>
+<div class="line"><span class="lineno">   44</span>        <span class="keywordflow">return</span> std::min(currentTimer + fullTime, fullTime);</div>
+<div class="line"><span class="lineno">   45</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00056">anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc::aura</a>, <a class="el" href="../../#l00050">AURA_MOD_STUN</a>, <a class="el" href="../../#l00055">anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc::effect</a>, and <a class="el" href="../../#l00040">EFFECT_APPLY_AURA</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00116">IsFullyImmunedByStunImmunity()</a>.</p>
-
-</div>
-</div>
-<a id="aaa953489abf2a825aea7d2aef9f904a3" name="aaa953489abf2a825aea7d2aef9f904a3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaa953489abf2a825aea7d2aef9f904a3">&#9670;&#160;</a></span>IsFullyImmunedByStunImmunity()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool anonymous_namespace{SpellImmunityTest.cpp}::IsFullyImmunedByStunImmunity </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> const &amp;&#160;</td>
-          <td class="paramname"><em>spell</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>immuneToStun</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  117</span>    {</div>
-<div class="line"><span class="lineno">  118</span>        <span class="keywordtype">bool</span> hasAnyEffect = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  119</span> </div>
-<div class="line"><span class="lineno">  120</span>        <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../df/d62/a29450.html">EffectDesc</a> <span class="keyword">const</span>&amp; effect : spell.effects)</div>
-<div class="line"><span class="lineno">  121</span>        {</div>
-<div class="line"><span class="lineno">  122</span>            <span class="keywordflow">if</span> (effect.<a class="code hl_variable" href="../../df/d62/a29450.html#a24ce38279cb514bab8ef9924d93b5dfc">effect</a> == <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9">EFFECT_NONE</a>)</div>
-<div class="line"><span class="lineno">  123</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  124</span> </div>
-<div class="line"><span class="lineno">  125</span>            hasAnyEffect = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  126</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d1/ddb/a05106.html#accf0cc423cf1c4e9bf5ac0b660caed24">IsEffectBlockedByStunImmunity</a>(effect, immuneToStun))</div>
-<div class="line"><span class="lineno">  127</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  128</span>        }</div>
-<div class="line"><span class="lineno">  129</span> </div>
-<div class="line"><span class="lineno">  130</span>        <span class="keywordflow">return</span> hasAnyEffect;</div>
-<div class="line"><span class="lineno">  131</span>    }</div>
-<div class="ttc" id="aa05106_html_accf0cc423cf1c4e9bf5ac0b660caed24"><div class="ttname"><a href="../../d1/ddb/a05106.html#accf0cc423cf1c4e9bf5ac0b660caed24">anonymous_namespace{SpellImmunityTest.cpp}::IsEffectBlockedByStunImmunity</a></div><div class="ttdeci">bool IsEffectBlockedByStunImmunity(EffectDesc const &amp;effect, bool immuneToStun)</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:108</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00055">anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc::effect</a>, <a class="el" href="../../#l00033">EFFECT_NONE</a>, <a class="el" href="../../#l00061">anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc::effects</a>, and <a class="el" href="../../#l00108">IsEffectBlockedByStunImmunity()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00137">ComputeSpellHitResult()</a>.</p>
-
-</div>
-</div>
-<a id="a95ec40b4341833086e531ed73dba7147" name="a95ec40b4341833086e531ed73dba7147"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a95ec40b4341833086e531ed73dba7147">&#9670;&#160;</a></span>IsStunSpell()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool anonymous_namespace{SpellImmunityTest.cpp}::IsStunSpell </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> const &amp;&#160;</td>
-          <td class="paramname"><em>spell</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   99</span>    {</div>
-<div class="line"><span class="lineno">  100</span>        <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../df/d62/a29450.html">EffectDesc</a> <span class="keyword">const</span>&amp; e : spell.effects)</div>
-<div class="line"><span class="lineno">  101</span>        {</div>
-<div class="line"><span class="lineno">  102</span>            <span class="keywordflow">if</span> (e.<a class="code hl_variable" href="../../df/d62/a29450.html#a24ce38279cb514bab8ef9924d93b5dfc">effect</a> == <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">EFFECT_APPLY_AURA</a> &amp;&amp; e.<a class="code hl_variable" href="../../df/d62/a29450.html#a6a57282648f4792e6dfaf4c892be90eb">aura</a> == <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace">AURA_MOD_STUN</a>)</div>
-<div class="line"><span class="lineno">  103</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  104</span>        }</div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  106</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00056">anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc::aura</a>, <a class="el" href="../../#l00050">AURA_MOD_STUN</a>, <a class="el" href="../../#l00055">anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc::effect</a>, <a class="el" href="../../#l00040">EFFECT_APPLY_AURA</a>, and <a class="el" href="../../#l00061">anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc::effects</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00357">TEST()</a>.</p>
-
-</div>
-</div>
-<a id="a6db007c75130da75c1510de68536e7fd" name="a6db007c75130da75c1510de68536e7fd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6db007c75130da75c1510de68536e7fd">&#9670;&#160;</a></span>MakeCycloneLikeSpell()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> anonymous_namespace{SpellImmunityTest.cpp}::MakeCycloneLikeSpell </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  200</span>    {</div>
-<div class="line"><span class="lineno">  201</span>        <a class="code hl_struct" href="../../d9/d6f/a29454.html">SpellDesc</a> spell;</div>
-<div class="line"><span class="lineno">  202</span>        spell.<a class="code hl_variable" href="../../d9/d6f/a29454.html#a00a2f9a365f421985e426c8cdf3ece91">effects</a>[0] = { <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">EFFECT_APPLY_AURA</a>, <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a856d9e6ed0a25dd7d099adeed0e46680">AURA_TRANSFORM</a> };</div>
-<div class="line"><span class="lineno">  203</span>        <span class="keywordflow">return</span> spell;</div>
-<div class="line"><span class="lineno">  204</span>    }</div>
-<div class="ttc" id="aa29454_html"><div class="ttname"><a href="../../d9/d6f/a29454.html">anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc</a></div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:60</div></div>
-<div class="ttc" id="aa29454_html_a00a2f9a365f421985e426c8cdf3ece91"><div class="ttname"><a href="../../d9/d6f/a29454.html#a00a2f9a365f421985e426c8cdf3ece91">anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc::effects</a></div><div class="ttdeci">std::array&lt; EffectDesc, 3 &gt; effects</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:61</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00049">AURA_TRANSFORM</a>, <a class="el" href="../../#l00040">EFFECT_APPLY_AURA</a>, and <a class="el" href="../../#l00061">anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc::effects</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00227">TEST()</a>.</p>
-
-</div>
-</div>
-<a id="ac9b0d1a51efd792514de07f8af0268cd" name="ac9b0d1a51efd792514de07f8af0268cd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac9b0d1a51efd792514de07f8af0268cd">&#9670;&#160;</a></span>MakeDamageOnlySpell()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> anonymous_namespace{SpellImmunityTest.cpp}::MakeDamageOnlySpell </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  185</span>    {</div>
-<div class="line"><span class="lineno">  186</span>        <a class="code hl_struct" href="../../d9/d6f/a29454.html">SpellDesc</a> spell;</div>
-<div class="line"><span class="lineno">  187</span>        spell.<a class="code hl_variable" href="../../d9/d6f/a29454.html#a00a2f9a365f421985e426c8cdf3ece91">effects</a>[0] = { <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326">EFFECT_SCHOOL_DAMAGE</a>, <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c">AURA_NONE</a> };</div>
-<div class="line"><span class="lineno">  188</span>        <span class="keywordflow">return</span> spell;</div>
-<div class="line"><span class="lineno">  189</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">AURA_NONE</a>, <a class="el" href="../../#l00034">EFFECT_SCHOOL_DAMAGE</a>, and <a class="el" href="../../#l00061">anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc::effects</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00215">TEST()</a>.</p>
-
-</div>
-</div>
-<a id="a4ae8bc0e855177e9fb9212a0b24fa2c0" name="a4ae8bc0e855177e9fb9212a0b24fa2c0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4ae8bc0e855177e9fb9212a0b24fa2c0">&#9670;&#160;</a></span>MakeFrostboltLikeSpell()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> anonymous_namespace{SpellImmunityTest.cpp}::MakeFrostboltLikeSpell </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  192</span>    {</div>
-<div class="line"><span class="lineno">  193</span>        <a class="code hl_struct" href="../../d9/d6f/a29454.html">SpellDesc</a> spell;</div>
-<div class="line"><span class="lineno">  194</span>        spell.<a class="code hl_variable" href="../../d9/d6f/a29454.html#a00a2f9a365f421985e426c8cdf3ece91">effects</a>[0] = { <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326">EFFECT_SCHOOL_DAMAGE</a>, <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c">AURA_NONE</a> };</div>
-<div class="line"><span class="lineno">  195</span>        spell.<a class="code hl_variable" href="../../d9/d6f/a29454.html#a00a2f9a365f421985e426c8cdf3ece91">effects</a>[1] = { <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">EFFECT_APPLY_AURA</a>, <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48">AURA_MOD_DECREASE_SPEED</a> };</div>
-<div class="line"><span class="lineno">  196</span>        <span class="keywordflow">return</span> spell;</div>
-<div class="line"><span class="lineno">  197</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00047">AURA_MOD_DECREASE_SPEED</a>, <a class="el" href="../../#l00046">AURA_NONE</a>, <a class="el" href="../../#l00040">EFFECT_APPLY_AURA</a>, <a class="el" href="../../#l00034">EFFECT_SCHOOL_DAMAGE</a>, and <a class="el" href="../../#l00061">anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc::effects</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00221">TEST()</a>.</p>
-
-</div>
-</div>
-<a id="ae0dcf3406441c72889d7703c788095a6" name="ae0dcf3406441c72889d7703c788095a6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae0dcf3406441c72889d7703c788095a6">&#9670;&#160;</a></span>MakeSlowOnlySpell()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d6f/a29454.html">SpellDesc</a> anonymous_namespace{SpellImmunityTest.cpp}::MakeSlowOnlySpell </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  207</span>    {</div>
-<div class="line"><span class="lineno">  208</span>        <span class="comment">// represents effects such as Frost Trap or Desecration, which only slow</span></div>
-<div class="line"><span class="lineno">  209</span>        <a class="code hl_struct" href="../../d9/d6f/a29454.html">SpellDesc</a> spell;</div>
-<div class="line"><span class="lineno">  210</span>        spell.<a class="code hl_variable" href="../../d9/d6f/a29454.html#a00a2f9a365f421985e426c8cdf3ece91">effects</a>[0] = { <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">EFFECT_APPLY_AURA</a>, <a class="code hl_enumvalue" href="../../d1/ddb/a05106.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48">AURA_MOD_DECREASE_SPEED</a> };</div>
-<div class="line"><span class="lineno">  211</span>        <span class="keywordflow">return</span> spell;</div>
-<div class="line"><span class="lineno">  212</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00047">AURA_MOD_DECREASE_SPEED</a>, <a class="el" href="../../#l00040">EFFECT_APPLY_AURA</a>, and <a class="el" href="../../#l00061">anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc::effects</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00297">TEST()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00061">TEST()</a>.</p>
 
 </div>
 </div>
@@ -688,8 +230,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/ddb/a05106.html">anonymous_namespace{SpellImmunityTest.cpp}</a></li>
-    <li class="footer">Generated on Mon Apr 6 2026 21:09:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/ddb/a05106.html">anonymous_namespace{ResetAttackTimerTest.cpp}</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:29:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

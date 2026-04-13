@@ -1,10 +1,10 @@
 var a17145 =
 [
-    [ "boss_dredAI", "db/d51/a17145.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "db/d51/a17145.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "db/d51/a17145.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "db/d51/a17145.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "ScheduleTasks", "db/d51/a17145.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
-    [ "SetData", "db/d51/a17145.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "_raptorCount", "db/d51/a17145.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "boss_frostsworn_general", "db/d51/a17145.html#adae1b1d60e78a33b875ac08312a454cf", null ],
+    [ "EnterEvadeMode", "db/d51/a17145.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
+    [ "JustDied", "db/d51/a17145.html#a14741cafce857fa819418ec3208c62fc", null ],
+    [ "JustEngagedWith", "db/d51/a17145.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
+    [ "Reset", "db/d51/a17145.html#a1576562e5fe2247235b152029aa8edce", null ],
+    [ "UpdateAI", "db/d51/a17145.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
+    [ "instance", "db/d51/a17145.html#ab04347cee4d7542171d622cfde936cb1", null ]
 ];

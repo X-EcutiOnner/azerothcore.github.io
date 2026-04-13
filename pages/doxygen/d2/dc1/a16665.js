@@ -1,6 +1,7 @@
 var a16665 =
 [
-    [ "npc_living_infernoAI", "dd/da7/a16669.html", "dd/da7/a16669" ],
-    [ "npc_living_inferno", "d2/dc1/a16665.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "d2/dc1/a16665.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "HandleEffectPeriodic", "d2/dc1/a16665.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "d2/dc1/a16665.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "d2/dc1/a16665.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "d2/dc1/a16665.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

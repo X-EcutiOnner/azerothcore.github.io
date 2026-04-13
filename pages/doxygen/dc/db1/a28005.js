@@ -1,5 +1,5 @@
 var a28005 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "dc/db1/a28005.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "dc/db1/a28005.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "item_generic_limit_chance_above_60", "dc/db1/a28005.html#abc18809810f0a7668020d01c482be84b", null ],
+    [ "OnCastItemCombatSpell", "dc/db1/a28005.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
 ];

@@ -1,7 +1,14 @@
 var a12641 =
 [
-    [ "boss_urok_doomhowlAI", "d5/db4/a12641.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
-    [ "InitializeAI", "d5/db4/a12641.html#a530bef523a27523827d3a94aa5f88698", null ],
-    [ "JustEngagedWith", "d5/db4/a12641.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
-    [ "UpdateAI", "d5/db4/a12641.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
+    [ "boss_chromaggus", "d5/db4/a12641.html#a2da694ece234807365ce4f22e067eb5c", null ],
+    [ "CanAIAttack", "d5/db4/a12641.html#aed1d8ef49450c5495045bd62f0f3e2e6", null ],
+    [ "Initialize", "d5/db4/a12641.html#ac8d72d4c3b265abca798c9ddc166df3b", null ],
+    [ "JustEngagedWith", "d5/db4/a12641.html#a7a9e301d17657ace82b4243814cbb52c", null ],
+    [ "PathEndReached", "d5/db4/a12641.html#a790a3e06fb4db275bb447b15bb838508", null ],
+    [ "Reset", "d5/db4/a12641.html#a003db2053b634c969499d45f7f65be6e", null ],
+    [ "SetGUID", "d5/db4/a12641.html#afec7a40681ff89c4712bc50b7bc49d6a", null ],
+    [ "UpdateAI", "d5/db4/a12641.html#abc27a22d82555fe3301708e9aaa61997", null ],
+    [ "_breathSpells", "d5/db4/a12641.html#a5d46c6903fd106fd83f8115b48d40cf9", null ],
+    [ "_playerGUID", "d5/db4/a12641.html#a3c04a19e87a122c12508e181319411a0", null ],
+    [ "Enraged", "d5/db4/a12641.html#a4c19a112decabb38f1bca7dc60d622ef", null ]
 ];

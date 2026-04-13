@@ -1,6 +1,5 @@
 var a20317 =
 [
-    [ "CheckCast", "d0/d83/a20317.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "d0/d83/a20317.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "d0/d83/a20317.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "achievement_kologarn_looks_could_kill", "d0/d83/a20317.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
+    [ "OnCheck", "d0/d83/a20317.html#a0e7be4fb00808fab9a231530822fc93d", null ]
 ];

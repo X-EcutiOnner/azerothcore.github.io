@@ -1,10 +1,8 @@
 var a13957 =
 [
-    [ "npc_sunblade_scout", "d2/d3a/a13957.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
-    [ "JustEngagedWith", "d2/d3a/a13957.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
-    [ "Reset", "d2/d3a/a13957.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
-    [ "ScheduleCombat", "d2/d3a/a13957.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
-    [ "ScheduleOOC", "d2/d3a/a13957.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
-    [ "UpdateAI", "d2/d3a/a13957.html#aca75482085b72070487c24feefa23fd6", null ],
-    [ "_protectorGUID", "d2/d3a/a13957.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
+    [ "npc_deathstalker_erlandAI", "d2/d3a/a13957.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "d2/d3a/a13957.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "d2/d3a/a13957.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "d2/d3a/a13957.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ],
+    [ "WaypointReached", "d2/d3a/a13957.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

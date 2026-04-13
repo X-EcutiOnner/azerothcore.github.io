@@ -1,9 +1,10 @@
 var a28125 =
 [
-    [ "ChatLogScript", "d4/d77/a28125.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerCanUseChat", "d4/d77/a28125.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
-    [ "OnPlayerCanUseChat", "d4/d77/a28125.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
-    [ "OnPlayerCanUseChat", "d4/d77/a28125.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
-    [ "OnPlayerCanUseChat", "d4/d77/a28125.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
-    [ "OnPlayerCanUseChat", "d4/d77/a28125.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
+    [ "npc_air_force_botsAI", "d4/d77/a28125.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d4/d77/a28125.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d4/d77/a28125.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d4/d77/a28125.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d4/d77/a28125.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d4/d77/a28125.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d4/d77/a28125.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

@@ -1,6 +1,7 @@
 var a25065 =
 [
-    [ "CheckLevel", "da/d1a/a25065.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "da/d1a/a25065.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "da/d1a/a25065.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "HandleDummy", "da/d1a/a25065.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
+    [ "PrepareSpellScript", "da/d1a/a25065.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
+    [ "Register", "da/d1a/a25065.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
+    [ "Validate", "da/d1a/a25065.html#ad4bb369ef46122cd45c38d876884d350", null ]
 ];

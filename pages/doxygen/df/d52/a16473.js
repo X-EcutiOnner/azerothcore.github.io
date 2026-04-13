@@ -1,8 +1,6 @@
 var a16473 =
 [
-    [ "boss_sartharion_vesperon", "df/d52/a16473.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
-    [ "ClearInstance", "df/d52/a16473.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
-    [ "ExecuteEvent", "df/d52/a16473.html#aefc42452e75c476aef39ba0df3a03d70", null ],
-    [ "Reset", "df/d52/a16473.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
-    [ "SummonedCreatureDies", "df/d52/a16473.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
+    [ "boss_saviana_ragefireAI", "d9/d63/a16477.html", "d9/d63/a16477" ],
+    [ "boss_saviana_ragefire", "df/d52/a16473.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "df/d52/a16473.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

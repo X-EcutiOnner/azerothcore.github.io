@@ -1,5 +1,12 @@
 var a07689 =
 [
-    [ "time", "d8/d5c/a07689.html#a4270f34fef655cb9ff9998b36055c3ec", null ],
-    [ "winner", "d8/d5c/a07689.html#a728a3e4efbae3be9224c70f2d70000cf", null ]
+    [ "CapturePointInfo", "d8/d5c/a07689.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "d8/d5c/a07689.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "d8/d5c/a07689.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "d8/d5c/a07689.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "d8/d5c/a07689.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "d8/d5c/a07689.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "d8/d5c/a07689.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "d8/d5c/a07689.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "d8/d5c/a07689.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

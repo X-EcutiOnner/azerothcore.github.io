@@ -1,7 +1,6 @@
 var a11901 =
 [
-    [ "PlayerGuid", "df/dcc/a11901.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "df/dcc/a11901.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "df/dcc/a11901.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "df/dcc/a11901.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "AuraProcHandler", "df/dcc/a11901.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
+    [ "Call", "df/dcc/a11901.html#abc0c3be9dee08e995c282f20900f3c46", null ],
+    [ "_HandlerScript", "df/dcc/a11901.html#ada8d7a5659598b0092739a91ba2653bd", null ]
 ];

@@ -1,6 +1,8 @@
 var a20437 =
 [
-    [ "npc_ulduar_toasty_fire", "d2/de5/a20437.html#aa4447547d1689440813877ddd0347d5a", null ],
-    [ "DoAction", "d2/de5/a20437.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "d2/de5/a20437.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "npc_ulduar_dark_rune_guardian", "d2/de5/a20437.html#a225445f5593694dd6b7d9c338735690f", null ],
+    [ "CanAIAttack", "d2/de5/a20437.html#a0e739a36a33d7ab401a55d629230e2df", null ],
+    [ "Reset", "d2/de5/a20437.html#a4839f5722ba8d12beb679ac7edd0fe0e", null ],
+    [ "UpdateAI", "d2/de5/a20437.html#acecc92ef5ad06821854f3afe4f2b673e", null ],
+    [ "timer2", "d2/de5/a20437.html#a5a3af42aaff640e8e286eda5a658c411", null ]
 ];

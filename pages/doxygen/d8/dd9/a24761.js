@@ -1,9 +1,6 @@
 var a24761 =
 [
-    [ "HandleApply", "d8/dd9/a24761.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "d8/dd9/a24761.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "d8/dd9/a24761.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "d8/dd9/a24761.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "d8/dd9/a24761.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "d8/dd9/a24761.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "HandleEffectPeriodicUpdate", "d8/dd9/a24761.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "d8/dd9/a24761.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "d8/dd9/a24761.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

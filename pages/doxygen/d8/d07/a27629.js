@@ -1,6 +1,5 @@
 var a27629 =
 [
-    [ "HandleSchoolDMG", "d8/d07/a27629.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "d8/d07/a27629.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "d8/d07/a27629.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "achievement_tilted", "d8/d07/a27629.html#a868d7b8a437434d6dc34b5000c429e66", null ],
+    [ "OnCheck", "d8/d07/a27629.html#a61d3eb78450383485699532d96f79d93", null ]
 ];

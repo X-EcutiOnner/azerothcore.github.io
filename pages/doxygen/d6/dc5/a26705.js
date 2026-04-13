@@ -1,6 +1,6 @@
 var a26705 =
 [
-    [ "CalculateAmount", "d6/dc5/a26705.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
-    [ "PrepareAuraScript", "d6/dc5/a26705.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
-    [ "Register", "d6/dc5/a26705.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
+    [ "HandleScriptEffect", "d6/dc5/a26705.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
+    [ "PrepareSpellScript", "d6/dc5/a26705.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
+    [ "Register", "d6/dc5/a26705.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
 ];

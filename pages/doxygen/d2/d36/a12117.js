@@ -1,9 +1,7 @@
 var a12117 =
 [
-    [ "event_commandscript", "d2/d36/a12117.html#a160db0ad8874b0834ef863043b1796ae", null ],
-    [ "GetCommands", "d2/d36/a12117.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
-    [ "HandleEventActiveListCommand", "d2/d36/a12117.html#a6752be35103bb585984083a449c85714", null ],
-    [ "HandleEventInfoCommand", "d2/d36/a12117.html#a1f0815bccd6cef61826ada4e349708d9", null ],
-    [ "HandleEventStartCommand", "d2/d36/a12117.html#ad46dbd8892db3548d889d4127461c8e3", null ],
-    [ "HandleEventStopCommand", "d2/d36/a12117.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
+    [ "map", "d2/d36/a12117.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
+    [ "pallid", "d2/d36/a12117.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
+    [ "pallidGuid", "d2/d36/a12117.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
+    [ "zoneId", "d2/d36/a12117.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
 ];

@@ -1,6 +1,7 @@
 var a27393 =
 [
-    [ "HandleAfterCast", "db/dfe/a27393.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "db/dfe/a27393.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "db/dfe/a27393.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleProc", "db/dfe/a27393.html#a864e976a61091512a7eab904e5390234", null ],
+    [ "PrepareAuraScript", "db/dfe/a27393.html#a8cd8814aa7c53aa28399b4ff51f0fa41", null ],
+    [ "Register", "db/dfe/a27393.html#a8509759360e3443ceca9a9fcbd729996", null ],
+    [ "Validate", "db/dfe/a27393.html#a7687471989fc9595e36201dba74b8689", null ]
 ];

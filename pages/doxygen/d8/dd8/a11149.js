@@ -1,6 +1,7 @@
 var a11149 =
 [
-    [ "CancelTempEnchantment", "d8/dd8/a11149.html#aa70516ab1b16789cb7b705751162b70b", null ],
-    [ "Read", "d8/dd8/a11149.html#a2c77f79d63247d7aa321cf6bda026ffa", null ],
-    [ "EquipmentSlot", "d8/dd8/a11149.html#a0b06dfb31f70cc547c54723d0bf70952", null ]
+    [ "AutoEquipItemSlot", "d8/dd8/a11149.html#aa51f40a4172ac41548ec6199bc84375d", null ],
+    [ "Read", "d8/dd8/a11149.html#ade6a15026e9c461b38301edf79f367be", null ],
+    [ "DestinationSlot", "d8/dd8/a11149.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
+    [ "ItemGuid", "d8/dd8/a11149.html#a9d4da587061833262acff66674d3ac41", null ]
 ];

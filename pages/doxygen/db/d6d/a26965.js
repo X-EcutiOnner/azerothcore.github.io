@@ -1,7 +1,6 @@
 var a26965 =
 [
-    [ "HandleProc", "db/d6d/a26965.html#ac65d59f4632194120b58b34561f2c812", null ],
-    [ "PrepareAuraScript", "db/d6d/a26965.html#ac9ab849c618fb1172dbde50876a4f5f3", null ],
-    [ "Register", "db/d6d/a26965.html#aea263594afe1d0e2fe3fac906dfb7e4e", null ],
-    [ "Validate", "db/d6d/a26965.html#afe98e7e6dfbe3bcdaaa353e608dc69d6", null ]
+    [ "CheckCast", "db/d6d/a26965.html#a97f479cccecc6f37c75b47122b47e333", null ],
+    [ "PrepareSpellScript", "db/d6d/a26965.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
+    [ "Register", "db/d6d/a26965.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
 ];

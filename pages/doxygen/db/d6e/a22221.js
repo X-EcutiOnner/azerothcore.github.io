@@ -1,11 +1,18 @@
 var a22221 =
 [
-    [ "npc_iron_watcherAI", "db/d6e/a22221.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "db/d6e/a22221.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "db/d6e/a22221.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "db/d6e/a22221.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "db/d6e/a22221.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "db/d6e/a22221.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "db/d6e/a22221.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "db/d6e/a22221.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "OutdoorPvPZM", "db/d6e/a22221.html#a8351867658985b66dd97f39e68c16b94", null ],
+    [ "FillInitialWorldStates", "db/d6e/a22221.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
+    [ "GetAllianceTowersControlled", "db/d6e/a22221.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
+    [ "GetHordeTowersControlled", "db/d6e/a22221.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
+    [ "HandleKillImpl", "db/d6e/a22221.html#a6cd61b99305a2838261e36652fda42b1", null ],
+    [ "HandlePlayerEnterZone", "db/d6e/a22221.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
+    [ "HandlePlayerLeaveZone", "db/d6e/a22221.html#a93105e3229db7798ad882fc7e538b250", null ],
+    [ "SendRemoveWorldStates", "db/d6e/a22221.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
+    [ "SetAllianceTowersControlled", "db/d6e/a22221.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
+    [ "SetHordeTowersControlled", "db/d6e/a22221.html#a27239875476bbce8ff18b30cdfe6815b", null ],
+    [ "SetupOutdoorPvP", "db/d6e/a22221.html#a7e71d2c2480da1a2d155981999201b99", null ],
+    [ "Update", "db/d6e/a22221.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
+    [ "m_AllianceTowersControlled", "db/d6e/a22221.html#aff4124f54572e0812c39562fbc6390c3", null ],
+    [ "m_Graveyard", "db/d6e/a22221.html#a9842f1c5de04af4db3e0397839de7765", null ],
+    [ "m_HordeTowersControlled", "db/d6e/a22221.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
 ];

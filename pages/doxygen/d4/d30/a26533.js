@@ -1,8 +1,6 @@
 var a26533 =
 [
-    [ "HandleDummy", "d4/d30/a26533.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
-    [ "PrepareSpellScript", "d4/d30/a26533.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
-    [ "Register", "d4/d30/a26533.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
-    [ "Validate", "d4/d30/a26533.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
-    [ "PolymorhForms", "d4/d30/a26533.html#a1443d2532a060514e697a8d5e0c21b20", null ]
+    [ "HandleDamage", "d4/d30/a26533.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "d4/d30/a26533.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "d4/d30/a26533.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

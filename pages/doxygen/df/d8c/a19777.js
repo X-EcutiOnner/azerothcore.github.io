@@ -1,7 +1,8 @@
 var a19777 =
 [
-    [ "boss_commander_stoutbeard", "df/d8c/a19777.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "df/d8c/a19777.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "df/d8c/a19777.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "df/d8c/a19777.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "brann_bronzebeardAI", "de/d35/a19781.html", "de/d35/a19781" ],
+    [ "brann_bronzebeard", "df/d8c/a19777.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "df/d8c/a19777.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "df/d8c/a19777.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "df/d8c/a19777.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

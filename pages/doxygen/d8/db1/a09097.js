@@ -1,9 +1,9 @@
 var a09097 =
 [
-    [ "day", "d8/db1/a09097.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
-    [ "holidayId", "d8/db1/a09097.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
-    [ "month", "d8/db1/a09097.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
-    [ "offset", "d8/db1/a09097.html#aaa9bf14668239ea561aecc33104e245a", null ],
-    [ "type", "d8/db1/a09097.html#a25f2529332f23c93b37e5c918032eb3d", null ],
-    [ "weekday", "d8/db1/a09097.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
+    [ "TransportBase", "d8/db1/a09097.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "d8/db1/a09097.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "d8/db1/a09097.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "d8/db1/a09097.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "d8/db1/a09097.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "d8/db1/a09097.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

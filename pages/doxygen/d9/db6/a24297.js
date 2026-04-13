@@ -1,6 +1,8 @@
 var a24297 =
 [
-    [ "PrepareSpellScript", "d9/db6/a24297.html#ac781a5ff389268d1f18867ff5585ca71", null ],
-    [ "Register", "d9/db6/a24297.html#a5cb9e02774ea6c307e76183253ffb472", null ],
-    [ "SetDest", "d9/db6/a24297.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
+    [ "CheckProc", "d9/db6/a24297.html#af8ecd189601dbbc34a1d633e1de3eed8", null ],
+    [ "HandleProc", "d9/db6/a24297.html#a03f5428462b132c438b40575182e5081", null ],
+    [ "PrepareAuraScript", "d9/db6/a24297.html#a301947c8053d4a4ee4de2a05f58b7505", null ],
+    [ "Register", "d9/db6/a24297.html#a9b3793739de21b5117e4a66e2951f939", null ],
+    [ "Validate", "d9/db6/a24297.html#acc50882146bad569108852b207d519fd", null ]
 ];

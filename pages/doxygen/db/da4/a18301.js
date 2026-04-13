@@ -1,6 +1,9 @@
 var a18301 =
 [
-    [ "PrepareSpellScript", "db/da4/a18301.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "db/da4/a18301.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "db/da4/a18301.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "FilterTargets", "db/da4/a18301.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "db/da4/a18301.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "db/da4/a18301.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "db/da4/a18301.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "db/da4/a18301.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "db/da4/a18301.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

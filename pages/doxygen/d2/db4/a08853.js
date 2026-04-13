@@ -1,8 +1,9 @@
 var a08853 =
 [
-    [ "checkLeaderOnly", "d2/db4/a08853.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "d2/db4/a08853.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "d2/db4/a08853.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "d2/db4/a08853.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "d2/db4/a08853.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "areaFlag", "d2/db4/a08853.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "d2/db4/a08853.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "d2/db4/a08853.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "d2/db4/a08853.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "d2/db4/a08853.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "d2/db4/a08853.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

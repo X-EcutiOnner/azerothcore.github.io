@@ -1,18 +1,8 @@
 var a28729 =
 [
-    [ "DBCStorageBase", "d9/df6/a28729.html#ad688053187f77a4a016274f7e46a76a3", null ],
-    [ "~DBCStorageBase", "d9/df6/a28729.html#a39d4e4f05a50b952c2f952a452beb010", null ],
-    [ "GetFieldCount", "d9/df6/a28729.html#a867375a50bcf7ec8c40b6ff7305a5e81", null ],
-    [ "GetFormat", "d9/df6/a28729.html#ab333cdbf4cb7c6f527045902256fdf2f", null ],
-    [ "Load", "d9/df6/a28729.html#a779bd666cbdc6587eab6a81e51e894d8", null ],
-    [ "Load", "d9/df6/a28729.html#a14dfcde7f1c9c63a293638009b6ce16b", null ],
-    [ "LoadFromDB", "d9/df6/a28729.html#abea56cf48880a3ae02d322b6283032b4", null ],
-    [ "LoadFromDB", "d9/df6/a28729.html#a7156af21138d19a978b9551a2ca24708", null ],
-    [ "LoadStringsFrom", "d9/df6/a28729.html#a912b4793ddc3e3ff3bc9279693373b79", null ],
-    [ "LoadStringsFrom", "d9/df6/a28729.html#a0e3e3be24e2404fad11c322190e0e337", null ],
-    [ "_dataTable", "d9/df6/a28729.html#ab13a1018e69345a3665f50d696bc7236", null ],
-    [ "_fieldCount", "d9/df6/a28729.html#aa9bebefe18610016bef2c7d087d20abe", null ],
-    [ "_fileFormat", "d9/df6/a28729.html#a3ac1c70817c9b7a351ea0e0d2e602351", null ],
-    [ "_indexTableSize", "d9/df6/a28729.html#aa17bb429de3b9df9bb6ffcbc9bf9010b", null ],
-    [ "_stringPool", "d9/df6/a28729.html#a8d571b107344a2dbde0b2cbcfa3c9b52", null ]
+    [ "difficulty", "d9/df6/a28729.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "d9/df6/a28729.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "d9/df6/a28729.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "d9/df6/a28729.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "d9/df6/a28729.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

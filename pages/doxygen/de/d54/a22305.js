@@ -1,8 +1,11 @@
 var a22305 =
 [
-    [ "spell_loosen_grip", "de/d54/a22305.html#ae35f230e0c66e88f59558748c80470dd", null ],
-    [ "HandleScript", "de/d54/a22305.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
-    [ "PrepareSpellScript", "de/d54/a22305.html#a219dc7d735f82d8e3b85390f0a881743", null ],
-    [ "Register", "de/d54/a22305.html#a8b446d8b5ab00b984272c74b06663326", null ],
-    [ "_stacksToLose", "de/d54/a22305.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
+    [ "boss_blackheart_the_inciter", "de/d54/a22305.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "de/d54/a22305.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "de/d54/a22305.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "de/d54/a22305.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "de/d54/a22305.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "de/d54/a22305.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "de/d54/a22305.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "de/d54/a22305.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

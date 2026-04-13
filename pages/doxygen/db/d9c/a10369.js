@@ -1,12 +1,9 @@
 var a10369 =
 [
-    [ "delay", "db/d9c/a10369.html#aa05ef99c3e04589501362a07d0dd032a", null ],
-    [ "event_chance", "db/d9c/a10369.html#af54f2d38ca1a11664f516799f3bb80c8", null ],
-    [ "event_id", "db/d9c/a10369.html#a083020691278af836e48f0a0c2feff96", null ],
-    [ "id", "db/d9c/a10369.html#af7248c313ceefedb5b7ff6ed4c2ffd6b", null ],
-    [ "move_type", "db/d9c/a10369.html#afb1a57b423a258e99c6921727a27e2e7", null ],
-    [ "orientation", "db/d9c/a10369.html#a971411811b0e60839538f82cd55dcfb7", null ],
-    [ "x", "db/d9c/a10369.html#a2dfd7f1f946ebef0b67d8f1542198b4b", null ],
-    [ "y", "db/d9c/a10369.html#a574c5ba7eb5e6bd55f6c55bb511c03f7", null ],
-    [ "z", "db/d9c/a10369.html#a013fa650f43e790e652016fbce2e1bd5", null ]
+    [ "counter", "db/d9c/a10369.html#a0efb94229f4a9370dc5b256ba623385b", null ],
+    [ "getCurrent", "db/d9c/a10369.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
+    [ "Increase", "db/d9c/a10369.html#a463e0ba077c8398a6125e715afcd8860", null ],
+    [ "init", "db/d9c/a10369.html#a0369662be009b781174021a2eb6b3202", null ],
+    [ "NewId", "db/d9c/a10369.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
+    [ "m_counter", "db/d9c/a10369.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
 ];

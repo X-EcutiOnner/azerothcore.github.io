@@ -1,6 +1,6 @@
 var a28205 =
 [
-    [ "go_pirate_day_musicAI", "d1/ddf/a28209.html", "d1/ddf/a28209" ],
-    [ "go_pirate_day_music", "da/d41/a28205.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "da/d41/a28205.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "npc_locksmith", "da/d41/a28205.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "da/d41/a28205.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "da/d41/a28205.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

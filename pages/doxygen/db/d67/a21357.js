@@ -1,12 +1,7 @@
 var a21357 =
 [
-    [ "boss_lavanthorAI", "db/d67/a21357.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "db/d67/a21357.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "db/d67/a21357.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "db/d67/a21357.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "db/d67/a21357.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "db/d67/a21357.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "db/d67/a21357.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "db/d67/a21357.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "db/d67/a21357.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "npc_cosmetic_toy_plane", "db/d67/a21357.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "db/d67/a21357.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "db/d67/a21357.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "db/d67/a21357.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

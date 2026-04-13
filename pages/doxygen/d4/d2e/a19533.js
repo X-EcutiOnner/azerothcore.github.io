@@ -1,7 +1,8 @@
 var a19533 =
 [
-    [ "HandleRemove", "d4/d2e/a19533.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d4/d2e/a19533.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d4/d2e/a19533.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d4/d2e/a19533.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "npc_crystal_spike", "d4/d2e/a19533.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "d4/d2e/a19533.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "d4/d2e/a19533.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "d4/d2e/a19533.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "d4/d2e/a19533.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

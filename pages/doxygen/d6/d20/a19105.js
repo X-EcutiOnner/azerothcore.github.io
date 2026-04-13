@@ -1,6 +1,7 @@
 var a19105 =
 [
-    [ "boss_sister_svalnaAI", "d5/d1a/a19109.html", "d5/d1a/a19109" ],
-    [ "boss_sister_svalna", "d6/d20/a19105.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "d6/d20/a19105.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "DelayedCastMincharEvent", "d6/d20/a19105.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "d6/d20/a19105.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "d6/d20/a19105.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "d6/d20/a19105.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

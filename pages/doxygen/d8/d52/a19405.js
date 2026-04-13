@@ -1,6 +1,6 @@
 var a19405 =
 [
-    [ "npc_ioc_gunship_captainAI", "de/d17/a19409.html", "de/d17/a19409" ],
-    [ "npc_ioc_gunship_captain", "d8/d52/a19405.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
-    [ "GetAI", "d8/d52/a19405.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
+    [ "DespawnTime", "d8/d52/a19405.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "d8/d52/a19405.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "d8/d52/a19405.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

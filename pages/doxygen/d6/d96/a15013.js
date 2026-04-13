@@ -1,8 +1,10 @@
 var a15013 =
 [
-    [ "CheckCast", "d6/d96/a15013.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "d6/d96/a15013.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "d6/d96/a15013.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "d6/d96/a15013.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "d6/d96/a15013.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "npc_hyjal_gargoyle", "d6/d96/a15013.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "d6/d96/a15013.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "d6/d96/a15013.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "d6/d96/a15013.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "d6/d96/a15013.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "d6/d96/a15013.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "d6/d96/a15013.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

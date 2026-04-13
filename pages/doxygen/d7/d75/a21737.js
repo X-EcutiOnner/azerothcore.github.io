@@ -1,6 +1,6 @@
 var a21737 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d7/d75/a21737.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "d7/d75/a21737.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "d7/d75/a21737.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "HandleDummy", "d7/d75/a21737.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "d7/d75/a21737.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "d7/d75/a21737.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

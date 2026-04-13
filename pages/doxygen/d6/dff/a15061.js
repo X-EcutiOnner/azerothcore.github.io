@@ -1,7 +1,6 @@
 var a15061 =
 [
-    [ "HandleScript", "d6/dff/a15061.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "d6/dff/a15061.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "d6/dff/a15061.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "d6/dff/a15061.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "boss_salrammAI", "d9/d51/a15065.html", "d9/d51/a15065" ],
+    [ "boss_salramm", "d6/dff/a15061.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "d6/dff/a15061.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

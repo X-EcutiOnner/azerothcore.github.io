@@ -1,5 +1,8 @@
 var a28045 =
 [
-    [ "AreaTrigger_at_sentry_point", "d7/d35/a28045.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "d7/d35/a28045.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "npc_artoriusAI", "dc/dd6/a28049.html", "dc/dd6/a28049" ],
+    [ "npc_artorius", "d7/d35/a28045.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
+    [ "GetAI", "d7/d35/a28045.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
+    [ "OnGossipHello", "d7/d35/a28045.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
+    [ "OnGossipSelect", "d7/d35/a28045.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
 ];

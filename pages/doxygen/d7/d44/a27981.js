@@ -1,5 +1,5 @@
 var a27981 =
 [
-    [ "achievement_bg_av_perfection", "d7/d44/a27981.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "d7/d44/a27981.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "item_only_for_flight", "d7/d44/a27981.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d7/d44/a27981.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

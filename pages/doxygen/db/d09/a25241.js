@@ -1,6 +1,7 @@
 var a25241 =
 [
-    [ "CheckSeat", "db/d09/a25241.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "db/d09/a25241.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "db/d09/a25241.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "HandleOnEffectApply", "db/d09/a25241.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "db/d09/a25241.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "db/d09/a25241.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "db/d09/a25241.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

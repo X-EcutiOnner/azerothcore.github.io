@@ -1,10 +1,8 @@
 var a28861 =
 [
-    [ "boss_emerissAI", "df/d29/a28861.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "df/d29/a28861.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "df/d29/a28861.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "df/d29/a28861.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "df/d29/a28861.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "df/d29/a28861.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "df/d29/a28861.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "Id", "df/d29/a28861.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "df/d29/a28861.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "df/d29/a28861.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "df/d29/a28861.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "df/d29/a28861.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

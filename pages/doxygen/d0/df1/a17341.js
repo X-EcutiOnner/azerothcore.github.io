@@ -1,6 +1,7 @@
 var a17341 =
 [
-    [ "npc_ghostly_priestAI", "d2/d89/a17345.html", "d2/d89/a17345" ],
-    [ "npc_ghostly_priest", "d0/df1/a17341.html#a7c03bb327cfc65f4df515969da482ddb", null ],
-    [ "GetAI", "d0/df1/a17341.html#a0fab76345c5459efcedff02123e4fc8d", null ]
+    [ "HandleEffectPeriodic", "d0/df1/a17341.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "d0/df1/a17341.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "d0/df1/a17341.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "d0/df1/a17341.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

@@ -1,7 +1,12 @@
 var a13645 =
 [
-    [ "OnPeriodic", "df/da3/a13645.html#aa48b6f35302a8857465c6567f811dec6", null ],
-    [ "PrepareAuraScript", "df/da3/a13645.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
-    [ "Register", "df/da3/a13645.html#aa7708067531131738b86077638eda7ac", null ],
-    [ "Validate", "df/da3/a13645.html#a665698b54201184185d96bd33f53e584", null ]
+    [ "boss_sathrovarr", "df/da3/a13645.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "df/da3/a13645.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "df/da3/a13645.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "df/da3/a13645.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "df/da3/a13645.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "df/da3/a13645.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "df/da3/a13645.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "df/da3/a13645.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "df/da3/a13645.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

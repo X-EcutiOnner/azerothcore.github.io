@@ -1,5 +1,6 @@
 var a22409 =
 [
-    [ "achievement_wg_within_our_grasp", "d6/d5c/a22409.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d6/d5c/a22409.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "FilterTargets", "d6/d5c/a22409.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
+    [ "PrepareSpellScript", "d6/d5c/a22409.html#ae8f3906007580963bda33cd0e420299b", null ],
+    [ "Register", "d6/d5c/a22409.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
 ];

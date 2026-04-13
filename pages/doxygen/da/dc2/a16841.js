@@ -1,8 +1,6 @@
 var a16841 =
 [
-    [ "npc_frost_sphereAI", "da/dc2/a16841.html#ae697a98d23d94315768dc866852b6e07", null ],
-    [ "DamageTaken", "da/dc2/a16841.html#a3960f19b456f29a33016d799809a82a8", null ],
-    [ "SpellHit", "da/dc2/a16841.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
-    [ "UpdateAI", "da/dc2/a16841.html#a4e866332045135c867f2b9ee871db0c2", null ],
-    [ "permafrostTimer", "da/dc2/a16841.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
+    [ "npc_snobold_vassalAI", "d5/d42/a16845.html", "d5/d42/a16845" ],
+    [ "npc_snobold_vassal", "da/dc2/a16841.html#a243cefbc15931ebbb555936d54583314", null ],
+    [ "GetAI", "da/dc2/a16841.html#a77976a59f600591454fac197ded613ef", null ]
 ];

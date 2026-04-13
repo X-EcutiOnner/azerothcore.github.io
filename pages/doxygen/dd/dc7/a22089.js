@@ -1,6 +1,6 @@
 var a22089 =
 [
-    [ "ChangeSummonPos", "dd/dc7/a22089.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "dd/dc7/a22089.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "dd/dc7/a22089.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_released_offspring_harkoaAI", "dd/dc7/a22089.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "dd/dc7/a22089.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "dd/dc7/a22089.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

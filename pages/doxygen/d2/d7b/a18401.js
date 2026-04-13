@@ -1,7 +1,7 @@
 var a18401 =
 [
-    [ "CheckRequirement", "d2/d7b/a18401.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "d2/d7b/a18401.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "d2/d7b/a18401.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "d2/d7b/a18401.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "TriggerWickedSpirit", "d2/d7b/a18401.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "d2/d7b/a18401.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "d2/d7b/a18401.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "d2/d7b/a18401.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ItemPosCount Struct Reference</title>
+<title>AzerothCore: PvPInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('d4/de7/a08845.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d8/d60/a08842.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ItemPosCount Struct Reference</div></div>
+  <div class="headertitle"><div class="title">PvPInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -116,22 +116,44 @@ $(document).ready(function(){initNavTree('d4/de7/a08845.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a43458da1fc31d827b6de726754f7901e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/a08845.html#a43458da1fc31d827b6de726754f7901e">ItemPosCount</a> (<a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _pos, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _count)</td></tr>
-<tr class="separator:a43458da1fc31d827b6de726754f7901e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6977c544a2d39ca5872b75f27517974f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/a08845.html#a6977c544a2d39ca5872b75f27517974f">isContainedIn</a> (std::vector&lt; <a class="el" href="../../d4/de7/a08845.html">ItemPosCount</a> &gt; const &amp;vec) const</td></tr>
-<tr class="separator:a6977c544a2d39ca5872b75f27517974f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad956667bc89b49e5a520ee5a4f19f22e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/a08845.html#ad956667bc89b49e5a520ee5a4f19f22e">PvPInfo</a> ()=default</td></tr>
+<tr class="separator:ad956667bc89b49e5a520ee5a4f19f22e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ad8954f1a6323316510cfe0f332ee495f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/a08845.html#ad8954f1a6323316510cfe0f332ee495f">pos</a></td></tr>
-<tr class="separator:ad8954f1a6323316510cfe0f332ee495f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4e09f94aa0808f76b2d5ff23691abb27"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/a08845.html#a4e09f94aa0808f76b2d5ff23691abb27">count</a></td></tr>
-<tr class="separator:a4e09f94aa0808f76b2d5ff23691abb27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22a1c8f0e8c51f4a27cb8ab362028d61"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/a08845.html#a22a1c8f0e8c51f4a27cb8ab362028d61">IsHostile</a> {false}</td></tr>
+<tr class="separator:a22a1c8f0e8c51f4a27cb8ab362028d61"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92d3c8991f7e3c5d683b414d18cbbd64"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/a08845.html#a92d3c8991f7e3c5d683b414d18cbbd64">IsInHostileArea</a> {false}</td></tr>
+<tr class="separator:a92d3c8991f7e3c5d683b414d18cbbd64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6858b8db9a441bf950f7d9fdca1587b5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/a08845.html#a6858b8db9a441bf950f7d9fdca1587b5">IsInNoPvPArea</a> {false}</td></tr>
+<tr class="memdesc:a6858b8db9a441bf950f7d9fdca1587b5"><td class="mdescLeft">&#160;</td><td class="mdescRight"><blockquote class="doxtable">
+<p >&zwj;Marks if player is in an area which forces PvP flag </p>
+</blockquote>
+ <a href="../../d4/de7/a08845.html#a6858b8db9a441bf950f7d9fdca1587b5">More...</a><br /></td></tr>
+<tr class="separator:a6858b8db9a441bf950f7d9fdca1587b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a654926248b3974587af1eb9c064d15"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/a08845.html#a8a654926248b3974587af1eb9c064d15">IsInFFAPvPArea</a> {false}</td></tr>
+<tr class="memdesc:a8a654926248b3974587af1eb9c064d15"><td class="mdescLeft">&#160;</td><td class="mdescRight"><blockquote class="doxtable">
+<p >&zwj;Marks if player is in a sanctuary or friendly capital city </p>
+</blockquote>
+ <a href="../../d4/de7/a08845.html#a8a654926248b3974587af1eb9c064d15">More...</a><br /></td></tr>
+<tr class="separator:a8a654926248b3974587af1eb9c064d15"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae06b5030552c02f30fe8386633a753df"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/a08845.html#ae06b5030552c02f30fe8386633a753df">EndTimer</a> {0}</td></tr>
+<tr class="memdesc:ae06b5030552c02f30fe8386633a753df"><td class="mdescLeft">&#160;</td><td class="mdescRight"><blockquote class="doxtable">
+<p >&zwj;Marks if player is in an FFAPvP area (such as Gurubashi <a class="el" href="../../da/d0a/a07505.html">Arena</a>) </p>
+</blockquote>
+ <a href="../../d4/de7/a08845.html#ae06b5030552c02f30fe8386633a753df">More...</a><br /></td></tr>
+<tr class="separator:ae06b5030552c02f30fe8386633a753df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a739dfc63dfe39429a44ea682d9120522"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de7/a08845.html#a739dfc63dfe39429a44ea682d9120522">FFAPvPEndTimer</a> {0}</td></tr>
+<tr class="memdesc:a739dfc63dfe39429a44ea682d9120522"><td class="mdescLeft">&#160;</td><td class="mdescRight"><blockquote class="doxtable">
+<p >&zwj;Time when player unflags himself for PvP (flag removed after 5 minutes) </p>
+</blockquote>
+ <a href="../../d4/de7/a08845.html#a739dfc63dfe39429a44ea682d9120522">More...</a><br /></td></tr>
+<tr class="separator:a739dfc63dfe39429a44ea682d9120522"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a43458da1fc31d827b6de726754f7901e" name="a43458da1fc31d827b6de726754f7901e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a43458da1fc31d827b6de726754f7901e">&#9670;&#160;</a></span>ItemPosCount()</h2>
+<a id="ad956667bc89b49e5a520ee5a4f19f22e" name="ad956667bc89b49e5a520ee5a4f19f22e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad956667bc89b49e5a520ee5a4f19f22e">&#9670;&#160;</a></span>PvPInfo()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,94 +162,135 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ItemPosCount::ItemPosCount </td>
+          <td class="memname">PvPInfo::PvPInfo </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>_pos</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>_count</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  752</span>: <a class="code hl_variable" href="../../d4/de7/a08845.html#ad8954f1a6323316510cfe0f332ee495f">pos</a>(_pos), <a class="code hl_variable" href="../../d4/de7/a08845.html#a4e09f94aa0808f76b2d5ff23691abb27">count</a>(_count) {}</div>
-<div class="ttc" id="aa08845_html_a4e09f94aa0808f76b2d5ff23691abb27"><div class="ttname"><a href="../../d4/de7/a08845.html#a4e09f94aa0808f76b2d5ff23691abb27">ItemPosCount::count</a></div><div class="ttdeci">uint32 count</div><div class="ttdef"><b>Definition:</b> Player.h:755</div></div>
-<div class="ttc" id="aa08845_html_ad8954f1a6323316510cfe0f332ee495f"><div class="ttname"><a href="../../d4/de7/a08845.html#ad8954f1a6323316510cfe0f332ee495f">ItemPosCount::pos</a></div><div class="ttdeci">uint16 pos</div><div class="ttdef"><b>Definition:</b> Player.h:754</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a6977c544a2d39ca5872b75f27517974f" name="a6977c544a2d39ca5872b75f27517974f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6977c544a2d39ca5872b75f27517974f">&#9670;&#160;</a></span>isContainedIn()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ItemPosCount::isContainedIn </td>
-          <td>(</td>
-          <td class="paramtype">std::vector&lt; <a class="el" href="../../d4/de7/a08845.html">ItemPosCount</a> &gt; const &amp;&#160;</td>
-          <td class="paramname"><em>vec</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">13142</span>{</div>
-<div class="line"><span class="lineno">13143</span>    <span class="keywordflow">for</span> (ItemPosCountVec::const_iterator itr = vec.begin(); itr != vec.end(); ++itr)</div>
-<div class="line"><span class="lineno">13144</span>        <span class="keywordflow">if</span> (itr-&gt;pos == <a class="code hl_variable" href="../../d4/de7/a08845.html#ad8954f1a6323316510cfe0f332ee495f">pos</a>)</div>
-<div class="line"><span class="lineno">13145</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">13146</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">13147</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00754">pos</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00941">Guild::BankMoveItemData::_ReserveSpace()</a>, <a class="el" href="../../#l00987">Player::CanStoreItem_InBag()</a>, <a class="el" href="../../#l01057">Player::CanStoreItem_InInventorySlots()</a>, and <a class="el" href="../../#l00916">Player::CanStoreItem_InSpecificSlot()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a4e09f94aa0808f76b2d5ff23691abb27" name="a4e09f94aa0808f76b2d5ff23691abb27"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4e09f94aa0808f76b2d5ff23691abb27">&#9670;&#160;</a></span>count</h2>
+<a id="ae06b5030552c02f30fe8386633a753df" name="ae06b5030552c02f30fe8386633a753df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae06b5030552c02f30fe8386633a753df">&#9670;&#160;</a></span>EndTimer</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ItemPosCount::count</td>
+          <td class="memname">time_t PvPInfo::EndTimer {0}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00908">Guild::BankMoveItemData::_StoreItem()</a>.</p>
+<p><blockquote class="doxtable">
+<p >&zwj;Marks if player is in an FFAPvP area (such as Gurubashi <a class="el" href="../../da/d0a/a07505.html">Arena</a>) </p>
+</blockquote>
+</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00667">FlightPathMovementGenerator::DoReset()</a>, <a class="el" href="../../#l01452">Player::UpdateFFAPvPState()</a>, <a class="el" href="../../#l01525">Player::UpdatePvP()</a>, <a class="el" href="../../#l00364">Player::UpdatePvPFlag()</a>, and <a class="el" href="../../#l01432">Player::UpdatePvPState()</a>.</p>
 
 </div>
 </div>
-<a id="ad8954f1a6323316510cfe0f332ee495f" name="ad8954f1a6323316510cfe0f332ee495f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad8954f1a6323316510cfe0f332ee495f">&#9670;&#160;</a></span>pos</h2>
+<a id="a739dfc63dfe39429a44ea682d9120522" name="a739dfc63dfe39429a44ea682d9120522"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a739dfc63dfe39429a44ea682d9120522">&#9670;&#160;</a></span>FFAPvPEndTimer</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> ItemPosCount::pos</td>
+          <td class="memname">time_t PvPInfo::FFAPvPEndTimer {0}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00908">Guild::BankMoveItemData::_StoreItem()</a>, and <a class="el" href="../../#l13141">isContainedIn()</a>.</p>
+<p><blockquote class="doxtable">
+<p >&zwj;Time when player unflags himself for PvP (flag removed after 5 minutes) </p>
+</blockquote>
+</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00383">Player::UpdateFFAPvPFlag()</a>, and <a class="el" href="../../#l01452">Player::UpdateFFAPvPState()</a>.</p>
+
+</div>
+</div>
+<a id="a22a1c8f0e8c51f4a27cb8ab362028d61" name="a22a1c8f0e8c51f4a27cb8ab362028d61"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a22a1c8f0e8c51f4a27cb8ab362028d61">&#9670;&#160;</a></span>IsHostile</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PvPInfo::IsHostile {false}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00508">Player::AddQuest()</a>, <a class="el" href="../../#l05045">Spell::EffectQuestClear()</a>, <a class="el" href="../../#l00274">WorldSession::HandleMoveTeleportAck()</a>, <a class="el" href="../../#l00398">WorldSession::HandleQuestLogRemoveQuest()</a>, <a class="el" href="../../#l00660">Player::RewardQuest()</a>, <a class="el" href="../../#l00364">Player::UpdatePvPFlag()</a>, <a class="el" href="../../#l01432">Player::UpdatePvPState()</a>, and <a class="el" href="../../#l01248">Player::UpdateZone()</a>.</p>
+
+</div>
+</div>
+<a id="a8a654926248b3974587af1eb9c064d15" name="a8a654926248b3974587af1eb9c064d15"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a654926248b3974587af1eb9c064d15">&#9670;&#160;</a></span>IsInFFAPvPArea</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PvPInfo::IsInFFAPvPArea {false}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><blockquote class="doxtable">
+<p >&zwj;Marks if player is in a sanctuary or friendly capital city </p>
+</blockquote>
+</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01210">Player::UpdateArea()</a>, and <a class="el" href="../../#l01452">Player::UpdateFFAPvPState()</a>.</p>
+
+</div>
+</div>
+<a id="a92d3c8991f7e3c5d683b414d18cbbd64" name="a92d3c8991f7e3c5d683b414d18cbbd64"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a92d3c8991f7e3c5d683b414d18cbbd64">&#9670;&#160;</a></span>IsInHostileArea</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PvPInfo::IsInHostileArea {false}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l05045">Spell::EffectQuestClear()</a>, <a class="el" href="../../#l00398">WorldSession::HandleQuestLogRemoveQuest()</a>, <a class="el" href="../../#l00660">Player::RewardQuest()</a>, and <a class="el" href="../../#l01248">Player::UpdateZone()</a>.</p>
+
+</div>
+</div>
+<a id="a6858b8db9a441bf950f7d9fdca1587b5" name="a6858b8db9a441bf950f7d9fdca1587b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6858b8db9a441bf950f7d9fdca1587b5">&#9670;&#160;</a></span>IsInNoPvPArea</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PvPInfo::IsInNoPvPArea {false}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p><blockquote class="doxtable">
+<p >&zwj;Marks if player is in an area which forces PvP flag </p>
+</blockquote>
+</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01210">Player::UpdateArea()</a>, <a class="el" href="../../#l01452">Player::UpdateFFAPvPState()</a>, and <a class="el" href="../../#l01248">Player::UpdateZone()</a>.</p>
 
 </div>
 </div>
@@ -236,8 +299,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/de7/a08845.html">ItemPosCount</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:09:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/de7/a08845.html">PvPInfo</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:29:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

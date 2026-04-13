@@ -1,5 +1,6 @@
 var a08149 =
 [
-    [ "number", "d2/d5d/a08149.html#af111e542d7a276e27d2b14757293bc42", null ],
-    [ "offset_elements", "d2/d5d/a08149.html#ad633b2e9afc82762c6b43675844f8fea", null ]
+    [ "ConditionSourceInfo", "d2/d5d/a08149.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
+    [ "mConditionTargets", "d2/d5d/a08149.html#acb67deba44021698a447e8288bca0bd4", null ],
+    [ "mLastFailedCondition", "d2/d5d/a08149.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
 ];

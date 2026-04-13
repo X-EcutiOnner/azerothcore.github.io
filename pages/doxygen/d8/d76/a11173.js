@@ -1,9 +1,7 @@
 var a11173 =
 [
-    [ "LevelUpInfo", "d8/d76/a11173.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
-    [ "Write", "d8/d76/a11173.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
-    [ "HealthDelta", "d8/d76/a11173.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
-    [ "Level", "d8/d76/a11173.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
-    [ "PowerDelta", "d8/d76/a11173.html#a697da64ac234c24fe73e68d408697ee6", null ],
-    [ "StatDelta", "d8/d76/a11173.html#a580e4a3cd77631e960b7753542375d6d", null ]
+    [ "BuybackItem", "d8/d76/a11173.html#a05dec559746537669fcf32f52a171b44", null ],
+    [ "Read", "d8/d76/a11173.html#aefe27701674c75f8937f72ee418a6692", null ],
+    [ "Slot", "d8/d76/a11173.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
+    [ "VendorGuid", "d8/d76/a11173.html#a6be9d8d3f564621780e458c4a785b709", null ]
 ];

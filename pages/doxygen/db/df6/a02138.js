@@ -1,5 +1,6 @@
 var a02138 =
 [
-    [ "lookup_commandscript", "d2/db7/a12238.html", "d2/db7/a12238" ],
-    [ "AddSC_lookup_commandscript", "db/df6/a02138.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
+    [ "WorldPackets::Chat::Emote", "db/d82/a10865.html", "db/d82/a10865" ],
+    [ "WorldPackets::Chat::EmoteClient", "d9/d8d/a10869.html", "d9/d8d/a10869" ],
+    [ "WorldPackets::Chat::ChatServerMessage", "d9/d31/a10873.html", "d9/d31/a10873" ]
 ];

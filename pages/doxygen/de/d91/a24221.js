@@ -1,6 +1,8 @@
 var a24221 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "d2/d51/a24225.html", "d2/d51/a24225" ],
-    [ "npc_shadowmoon_tuber_node", "de/d91/a24221.html#a98e8c7a84789457900fa342cca209d41", null ],
-    [ "GetAI", "de/d91/a24221.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
+    [ "HandleDamage", "de/d91/a24221.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "de/d91/a24221.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "de/d91/a24221.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "de/d91/a24221.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "de/d91/a24221.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

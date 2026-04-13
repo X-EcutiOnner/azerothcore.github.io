@@ -1,7 +1,8 @@
 var a11113 =
 [
-    [ "BuybackItem", "dd/de3/a11113.html#a05dec559746537669fcf32f52a171b44", null ],
-    [ "Read", "dd/de3/a11113.html#aefe27701674c75f8937f72ee418a6692", null ],
-    [ "Slot", "dd/de3/a11113.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
-    [ "VendorGuid", "dd/de3/a11113.html#a6be9d8d3f564621780e458c4a785b709", null ]
+    [ "SetDungeonDifficulty", "dd/de3/a11113.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
+    [ "Write", "dd/de3/a11113.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
+    [ "Difficulty", "dd/de3/a11113.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
+    [ "IsInGroup", "dd/de3/a11113.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
+    [ "Unk", "dd/de3/a11113.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
 ];

@@ -1,9 +1,5 @@
 var a15641 =
 [
-    [ "boss_fankriss", "de/df0/a15641.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "de/df0/a15641.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "de/df0/a15641.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "de/df0/a15641.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "de/df0/a15641.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "de/df0/a15641.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "go_ravager_cage", "de/df0/a15641.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "de/df0/a15641.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

@@ -1,6 +1,6 @@
 var a23517 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "d3/db9/a23521.html", "d3/db9/a23521" ],
-    [ "instance_blood_furnace", "d0/d71/a23517.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "d0/d71/a23517.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "HandleScriptEffect", "d0/d71/a23517.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "d0/d71/a23517.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "d0/d71/a23517.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

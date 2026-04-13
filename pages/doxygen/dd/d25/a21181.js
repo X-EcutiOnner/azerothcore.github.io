@@ -1,5 +1,10 @@
 var a21181 =
 [
-    [ "go_harpoon_canon", "dd/d25/a21181.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "dd/d25/a21181.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "npc_sinkhole_kill_creditAI", "dd/d25/a21181.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "dd/d25/a21181.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "dd/d25/a21181.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "dd/d25/a21181.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "dd/d25/a21181.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "dd/d25/a21181.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "dd/d25/a21181.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

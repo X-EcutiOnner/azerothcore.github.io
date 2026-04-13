@@ -1,10 +1,7 @@
 var a22629 =
 [
-    [ "boss_talon_king_ikiss", "d7/dc8/a22629.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
-    [ "JustDied", "d7/dc8/a22629.html#ada1d993842d04453d6afad91e186a3fe", null ],
-    [ "JustEngagedWith", "d7/dc8/a22629.html#a325312ce6695435fcca701720434c64f", null ],
-    [ "KilledUnit", "d7/dc8/a22629.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
-    [ "MoveInLineOfSight", "d7/dc8/a22629.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
-    [ "Reset", "d7/dc8/a22629.html#adcb1dca375ec548499da5a7690babc21", null ],
-    [ "_spoken", "d7/dc8/a22629.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
+    [ "Absorb", "d7/dc8/a22629.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
+    [ "HandleEffectRemove", "d7/dc8/a22629.html#a3d4026e5208acb948c089a4bedba0de8", null ],
+    [ "PrepareAuraScript", "d7/dc8/a22629.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
+    [ "Register", "d7/dc8/a22629.html#a983cf678001efcbccc4b34a9ad919881", null ]
 ];

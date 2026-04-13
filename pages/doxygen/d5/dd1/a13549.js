@@ -1,6 +1,8 @@
 var a13549 =
 [
-    [ "boss_darkmaster_gandlingAI", "d8/d51/a13553.html", "d8/d51/a13553" ],
-    [ "boss_darkmaster_gandling", "d5/dd1/a13549.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "d5/dd1/a13549.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "npc_madrigosa", "d5/dd1/a13549.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "d5/dd1/a13549.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "d5/dd1/a13549.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "d5/dd1/a13549.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "d5/dd1/a13549.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

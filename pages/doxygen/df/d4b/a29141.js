@@ -1,6 +1,5 @@
 var a29141 =
 [
-    [ "Id", "df/d4b/a29141.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "df/d4b/a29141.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "df/d4b/a29141.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "type", "df/d4b/a29141.html#af749459df7757d1bab17a54be813f6b6", null ],
+    [ "_type", "df/d4b/a29141.html#ab0344571616786baef4511c647a3abea", null ]
 ];

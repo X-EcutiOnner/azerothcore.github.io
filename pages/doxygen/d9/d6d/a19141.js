@@ -1,6 +1,6 @@
 var a19141 =
 [
-    [ "npc_captain_rupertAI", "d6/de6/a19145.html", "d6/de6/a19145" ],
-    [ "npc_captain_rupert", "d9/d6d/a19141.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
-    [ "GetAI", "d9/d6d/a19141.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
+    [ "boss_isle_of_conquestAI", "d6/de6/a19145.html", "d6/de6/a19145" ],
+    [ "boss_isle_of_conquest", "d9/d6d/a19141.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "d9/d6d/a19141.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

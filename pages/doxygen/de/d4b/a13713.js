@@ -1,9 +1,7 @@
 var a13713 =
 [
-    [ "boss_brutallus", "de/d4b/a13713.html#a501c898505eb4265edee1546bc54713e", null ],
-    [ "AttackStart", "de/d4b/a13713.html#a05edf7010f4e7364399bc81582502219", null ],
-    [ "JustDied", "de/d4b/a13713.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
-    [ "JustEngagedWith", "de/d4b/a13713.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
-    [ "KilledUnit", "de/d4b/a13713.html#a608607d83680da85f91324ce0035804b", null ],
-    [ "Reset", "de/d4b/a13713.html#a20ad64739072e39e7ff3132c6f637af7", null ]
+    [ "HandleScriptEffect", "de/d4b/a13713.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "de/d4b/a13713.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "de/d4b/a13713.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "de/d4b/a13713.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

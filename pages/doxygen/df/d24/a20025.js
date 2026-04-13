@@ -1,6 +1,6 @@
 var a20025 =
 [
-    [ "boss_sjonnir_dwarfAI", "db/dc4/a20029.html", "db/dc4/a20029" ],
-    [ "boss_sjonnir_dwarf", "df/d24/a20025.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
-    [ "GetAI", "df/d24/a20025.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
+    [ "CheckAreaTarget", "df/d24/a20025.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "df/d24/a20025.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "df/d24/a20025.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

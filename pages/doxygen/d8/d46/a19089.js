@@ -1,6 +1,6 @@
 var a19089 =
 [
-    [ "npc_frost_freeze_trapAI", "dd/da7/a19093.html", "dd/da7/a19093" ],
-    [ "npc_frost_freeze_trap", "d8/d46/a19089.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "d8/d46/a19089.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "icecrown_citadel_teleport", "d8/d46/a19089.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d8/d46/a19089.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d8/d46/a19089.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

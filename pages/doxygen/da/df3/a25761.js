@@ -1,5 +1,6 @@
 var a25761 =
 [
-    [ "PrepareSpellScript", "da/df3/a25761.html#aadb11335a487f83639260fc4246ba26f", null ],
-    [ "Register", "da/df3/a25761.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ]
+    [ "HandleDummy", "da/df3/a25761.html#a9530db7f75987879285d224fb8381c2b", null ],
+    [ "PrepareSpellScript", "da/df3/a25761.html#ad1c1bdb577739f769802127960aaf9e5", null ],
+    [ "Register", "da/df3/a25761.html#ae3a340132caf3f8839631c92015d47a0", null ]
 ];

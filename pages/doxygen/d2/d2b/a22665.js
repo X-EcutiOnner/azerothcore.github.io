@@ -1,6 +1,6 @@
 var a22665 =
 [
-    [ "PrepareSpellScript", "d2/d2b/a22665.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d2/d2b/a22665.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d2/d2b/a22665.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "instance_black_temple_InstanceMapScript", "d7/dcb/a22669.html", "d7/dcb/a22669" ],
+    [ "instance_black_temple", "d2/d2b/a22665.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d2/d2b/a22665.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

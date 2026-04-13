@@ -1,6 +1,6 @@
 var a18541 =
 [
-    [ "FilterTargets", "dc/df9/a18541.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
-    [ "PrepareSpellScript", "dc/df9/a18541.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
-    [ "Register", "dc/df9/a18541.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
+    [ "HandleScript", "dc/df9/a18541.html#a9489c3454830d3826cb077c95947bf2d", null ],
+    [ "PrepareSpellScript", "dc/df9/a18541.html#a19492e616ac6e69187bca4499175071e", null ],
+    [ "Register", "dc/df9/a18541.html#a3446174d3308f535c27581b63ade9e8a", null ]
 ];

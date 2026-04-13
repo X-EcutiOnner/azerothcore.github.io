@@ -1,9 +1,15 @@
 var a19281 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "dc/d86/a19281.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "dc/d86/a19281.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "dc/d86/a19281.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "dc/d86/a19281.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "dc/d86/a19281.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "dc/d86/a19281.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "boss_kelthuzad_minionAI", "dc/d86/a19281.html#addeb3112e8b6da5713e6c25878c7e785", null ],
+    [ "AttackStart", "dc/d86/a19281.html#ae6e2b0dd529f819b5b62348059dacb02", null ],
+    [ "DoAction", "dc/d86/a19281.html#acd08aa78c1620f5552bbbc77c06b4344", null ],
+    [ "JustDied", "dc/d86/a19281.html#abc6db76c9dcdbdb1c51b7f67d4c39551", null ],
+    [ "JustEngagedWith", "dc/d86/a19281.html#a135dd028f95eeb34b2852e8dafebbe63", null ],
+    [ "JustReachedHome", "dc/d86/a19281.html#aedfaf037ddf66d0e3aa990b4ea5b171c", null ],
+    [ "KilledUnit", "dc/d86/a19281.html#ac8a2297a89310f4902fdc544ef71b673", null ],
+    [ "MoveInLineOfSight", "dc/d86/a19281.html#aee871ff356bcfd38162a5f6c9bd3c994", null ],
+    [ "Reset", "dc/d86/a19281.html#a01db0df4ec5f49d0915e90c418ebba75", null ],
+    [ "UpdateAI", "dc/d86/a19281.html#ad60ec485144e447fd9d43b0cd5d6c87c", null ],
+    [ "callHelp", "dc/d86/a19281.html#a6c6935e058bc18c013bc31f03f5a914b", null ],
+    [ "events", "dc/d86/a19281.html#a2885d65bfaf345e7c3dfa42d8c80a892", null ]
 ];

@@ -1,9 +1,13 @@
 var a22821 =
 [
-    [ "HandleAfterCast", "db/db1/a22821.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "db/db1/a22821.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "db/db1/a22821.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "db/db1/a22821.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "db/db1/a22821.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "db/db1/a22821.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "npc_inner_demon", "db/db1/a22821.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
+    [ "CanAIAttack", "db/db1/a22821.html#a7498fd32b0ace832b38dc624d07478ed", null ],
+    [ "CanBeSeen", "db/db1/a22821.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
+    [ "CanReceiveDamage", "db/db1/a22821.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
+    [ "IsSummonedBy", "db/db1/a22821.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
+    [ "JustDied", "db/db1/a22821.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
+    [ "OnCalculateMeleeDamageReceived", "db/db1/a22821.html#ae95022548b44b23ef93fae24729b5af5", null ],
+    [ "OnCalculatePeriodicTickReceived", "db/db1/a22821.html#a546281a2257d0407d294fba1f7d3426f", null ],
+    [ "OnCalculateSpellDamageReceived", "db/db1/a22821.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
+    [ "UpdateAI", "db/db1/a22821.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
 ];

@@ -1,7 +1,9 @@
 var a15157 =
 [
-    [ "OnPeriodic", "d0/d2b/a15157.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "d0/d2b/a15157.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "d0/d2b/a15157.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "d0/d2b/a15157.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "boss_temporus", "d0/d2b/a15157.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "d0/d2b/a15157.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "d0/d2b/a15157.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "d0/d2b/a15157.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "d0/d2b/a15157.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "d0/d2b/a15157.html#a99356589a048debbc308b8431259da5c", null ]
 ];

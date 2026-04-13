@@ -1,9 +1,9 @@
 var a12689 =
 [
-    [ "npc_vaelastrasz_the_redAI", "df/df4/a12689.html#aa800617f887a21d8a61cac099c86faed", null ],
-    [ "IsSummonedBy", "df/df4/a12689.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
-    [ "UpdateAI", "df/df4/a12689.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
-    [ "_combatEnabled", "df/df4/a12689.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
-    [ "_events2", "df/df4/a12689.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
-    [ "_victorGUID", "df/df4/a12689.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
+    [ "FilterTargets", "df/df4/a12689.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
+    [ "HandleOnHitRogue", "df/df4/a12689.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
+    [ "HandleOnHitWarlock", "df/df4/a12689.html#a76f9e5e11a6f2e25868dba567d798002", null ],
+    [ "PrepareSpellScript", "df/df4/a12689.html#a4792a25aa6fe6126a94900784798dbee", null ],
+    [ "Register", "df/df4/a12689.html#a0f6146c64a86e953c042f8404bbfe683", null ],
+    [ "Validate", "df/df4/a12689.html#af65d372cdbb365eff73edb8cf18734c8", null ]
 ];

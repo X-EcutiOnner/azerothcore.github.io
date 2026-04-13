@@ -1,8 +1,12 @@
 var a17977 =
 [
-    [ "HandleHit", "dd/de6/a17977.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
-    [ "HandleScript", "dd/de6/a17977.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "dd/de6/a17977.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "dd/de6/a17977.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "dd/de6/a17977.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "npc_darnavanAI", "dd/de6/a17977.html#ae06019c24910c873877398f29f5a1737", null ],
+    [ "JustDied", "dd/de6/a17977.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
+    [ "JustEngagedWith", "dd/de6/a17977.html#acbaedacea5ad19d82002c25b68623a27", null ],
+    [ "MovementInform", "dd/de6/a17977.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
+    [ "Reset", "dd/de6/a17977.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
+    [ "UpdateAI", "dd/de6/a17977.html#a2b3b5e168989db21fc047acaf01413d9", null ],
+    [ "_canCharge", "dd/de6/a17977.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
+    [ "_canShatter", "dd/de6/a17977.html#aa7750edc8051c8ee453143491dccf122", null ],
+    [ "events", "dd/de6/a17977.html#aa8a022ccb1367432480f72d305c752ac", null ]
 ];

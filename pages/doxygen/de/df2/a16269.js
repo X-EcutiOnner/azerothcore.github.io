@@ -1,7 +1,7 @@
 var a16269 =
 [
-    [ "go_troll_cageAI", "de/df2/a16269.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "de/df2/a16269.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "de/df2/a16269.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "de/df2/a16269.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "boss_sartharion_shadron", "de/df2/a16269.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "de/df2/a16269.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "de/df2/a16269.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "de/df2/a16269.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

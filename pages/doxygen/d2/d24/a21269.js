@@ -1,7 +1,6 @@
 var a21269 =
 [
-    [ "HandleDummy", "d2/d24/a21269.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d2/d24/a21269.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d2/d24/a21269.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d2/d24/a21269.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "npc_bloodmage_laurithAI", "d8/dae/a21273.html", "d8/dae/a21273" ],
+    [ "npc_bloodmage_laurith", "d2/d24/a21269.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "d2/d24/a21269.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

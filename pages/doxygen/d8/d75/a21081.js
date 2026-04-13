@@ -1,9 +1,8 @@
 var a21081 =
 [
-    [ "npc_vrykul_skeleton", "d8/d75/a21081.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "d8/d75/a21081.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "d8/d75/a21081.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "d8/d75/a21081.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "d8/d75/a21081.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "d8/d75/a21081.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "boss_lavanthor", "d8/d75/a21081.html#ad264818ef0f539c48160de9dbebeac7f", null ],
+    [ "EnterEvadeMode", "d8/d75/a21081.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
+    [ "ExecuteEvent", "d8/d75/a21081.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
+    [ "JustEngagedWith", "d8/d75/a21081.html#a4bc5fa66192daab98027539efda37bdc", null ],
+    [ "MoveInLineOfSight", "d8/d75/a21081.html#a6f68cd280561b428400a08a155f83ccb", null ]
 ];

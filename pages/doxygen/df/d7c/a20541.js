@@ -1,9 +1,12 @@
 var a20541 =
 [
-    [ "HandleEffectPeriodic", "df/d7c/a20541.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "df/d7c/a20541.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "df/d7c/a20541.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "df/d7c/a20541.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "df/d7c/a20541.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "df/d7c/a20541.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "npc_xt002_boombot", "df/d7c/a20541.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
+    [ "DamageTaken", "df/d7c/a20541.html#a6686960dcf9050c62f707f80f8e378e9", null ],
+    [ "Explode", "df/d7c/a20541.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
+    [ "JustDied", "df/d7c/a20541.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
+    [ "MovementInform", "df/d7c/a20541.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
+    [ "Reset", "df/d7c/a20541.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
+    [ "UpdateAI", "df/d7c/a20541.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
+    [ "_boomed", "df/d7c/a20541.html#a4307aaf92856d146095497cf74ef3e67", null ],
+    [ "_locked", "df/d7c/a20541.html#ad46600f129729931422b5c9c70568e3f", null ]
 ];

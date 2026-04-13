@@ -1,8 +1,9 @@
 var a27721 =
 [
-    [ "Load", "d6/d5c/a27721.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
-    [ "OnRemove", "d6/d5c/a27721.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
-    [ "PrepareAuraScript", "d6/d5c/a27721.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
-    [ "Register", "d6/d5c/a27721.html#a932760326c822f1b47df1afdec6bb9cb", null ],
-    [ "Validate", "d6/d5c/a27721.html#a69bcfedb7f566c572201aadc9e75df08", null ]
+    [ "boss_lethonAI", "d6/d5c/a27721.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "d6/d5c/a27721.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "d6/d5c/a27721.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "d6/d5c/a27721.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "d6/d5c/a27721.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "d6/d5c/a27721.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

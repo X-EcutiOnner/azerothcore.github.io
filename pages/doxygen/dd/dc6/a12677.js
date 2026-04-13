@@ -1,5 +1,13 @@
 var a12677 =
 [
-    [ "at_scarshield_infiltrator", "dd/dc6/a12677.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
-    [ "OnTrigger", "dd/dc6/a12677.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
+    [ "boss_nefarian", "dd/dc6/a12677.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
+    [ "JustDied", "dd/dc6/a12677.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
+    [ "JustEngagedWith", "dd/dc6/a12677.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
+    [ "KilledUnit", "dd/dc6/a12677.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
+    [ "MovementInform", "dd/dc6/a12677.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
+    [ "PathEndReached", "dd/dc6/a12677.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
+    [ "Reset", "dd/dc6/a12677.html#a5d687fce34b17e22c605c263395e823b", null ],
+    [ "UpdateAI", "dd/dc6/a12677.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
+    [ "_introDone", "dd/dc6/a12677.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
+    [ "classesPresent", "dd/dc6/a12677.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
 ];

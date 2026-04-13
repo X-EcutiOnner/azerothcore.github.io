@@ -1,10 +1,6 @@
 var a25229 =
 [
-    [ "Load", "db/d5c/a25229.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
-    [ "OnPeriodic", "db/d5c/a25229.html#ab1dc8acb8072f70625375480742fee5e", null ],
-    [ "PrepareAuraScript", "db/d5c/a25229.html#a2e81d03893b23aa8dc9c615683206f75", null ],
-    [ "Register", "db/d5c/a25229.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
-    [ "Validate", "db/d5c/a25229.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
-    [ "_applyTimes", "db/d5c/a25229.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
-    [ "stackAmount", "db/d5c/a25229.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
+    [ "PrepareAuraScript", "db/d5c/a25229.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "db/d5c/a25229.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "db/d5c/a25229.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

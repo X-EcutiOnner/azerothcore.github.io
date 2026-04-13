@@ -1,7 +1,9 @@
 var a26929 =
 [
-    [ "CheckProc", "d2/d5d/a26929.html#a068e3d66059d0d34b39ef43bc259eb70", null ],
-    [ "HandleProc", "d2/d5d/a26929.html#ac3da721ff9df529738eeb33e95fb0dac", null ],
-    [ "PrepareAuraScript", "d2/d5d/a26929.html#ab346f33f7d467f89c9bc9ecc569a8c8c", null ],
-    [ "Register", "d2/d5d/a26929.html#afa041c16f5d6c80aa74402fbdbea1701", null ]
+    [ "CheckCast", "d2/d5d/a26929.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
+    [ "FilterTargets", "d2/d5d/a26929.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
+    [ "HandleDummy", "d2/d5d/a26929.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
+    [ "PrepareSpellScript", "d2/d5d/a26929.html#a9c992e732b525e29f684947398d20efb", null ],
+    [ "Register", "d2/d5d/a26929.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
+    [ "Validate", "d2/d5d/a26929.html#abca1e5aa46e7753588c8120090775195", null ]
 ];

@@ -1,11 +1,15 @@
 var a23257 =
 [
-    [ "boss_ahune", "d4/de7/a23257.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "d4/de7/a23257.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "d4/de7/a23257.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "d4/de7/a23257.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "d4/de7/a23257.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "d4/de7/a23257.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "d4/de7/a23257.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "d4/de7/a23257.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "d4/de7/a23257.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
+    [ "Initialize", "d4/de7/a23257.html#afa054fb11fe777019baa70f46bfd8212", null ],
+    [ "OnCreatureCreate", "d4/de7/a23257.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
+    [ "OnCreatureRemove", "d4/de7/a23257.html#a727d4d3bfc52391a088e86fef013617c", null ],
+    [ "OnGameObjectCreate", "d4/de7/a23257.html#a020584d79926d170c02655c5e2841127", null ],
+    [ "OnGameObjectRemove", "d4/de7/a23257.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
+    [ "SetBossState", "d4/de7/a23257.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
+    [ "SetData", "d4/de7/a23257.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
+    [ "_columnSet", "d4/de7/a23257.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
+    [ "_cubesSet", "d4/de7/a23257.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
+    [ "_magtheridonGUID", "d4/de7/a23257.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
+    [ "_wardersSet", "d4/de7/a23257.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
 ];

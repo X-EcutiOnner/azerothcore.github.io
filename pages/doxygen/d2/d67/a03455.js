@@ -1,7 +1,10 @@
 var a03455 =
 [
-    [ "BG_RV_CLOSE_FIRE_TIMER", "d2/d67/a03455.html#adea63e30cefe486dd1cbeb0353fdaeb2", null ],
-    [ "BG_RV_FIRE_TO_PILLAR_TIMER", "d2/d67/a03455.html#a20f119684cfae65594c4cb1fc59e60c1", null ],
-    [ "BG_RV_FIRST_TIMER", "d2/d67/a03455.html#abb49be7549db0a88e8b5fcd470741084", null ],
-    [ "BG_RV_PILLAR_SWITCH_TIMER", "d2/d67/a03455.html#a6ecc5972946e4de12babadf07ce85e2f", null ]
+    [ "spell_razelikh_teleport_group", "d7/d07/a13841.html", "d7/d07/a13841" ],
+    [ "DeathlyUsher", "d2/d67/a03455.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
+      [ "SPELL_TELEPORT_SINGLE", "d2/d67/a03455.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
+      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "d2/d67/a03455.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
+      [ "SPELL_TELEPORT_GROUP", "d2/d67/a03455.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
+    ] ],
+    [ "AddSC_blasted_lands", "d2/d67/a03455.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
 ];

@@ -1,8 +1,6 @@
 var a11129 =
 [
-    [ "AutoStoreBagItem", "d8/d80/a11129.html#a09e4b117d8789d513a0e766986340140", null ],
-    [ "Read", "d8/d80/a11129.html#a172832ec72012278b000f38d761823b4", null ],
-    [ "DestinationBag", "d8/d80/a11129.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
-    [ "SourceBag", "d8/d80/a11129.html#a27e27653e6f00869070de7354adff52d", null ],
-    [ "SourceSlot", "d8/d80/a11129.html#a517202ccb270d78289630404beb61afc", null ]
+    [ "SetRaidDifficultyClient", "d8/d80/a11129.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
+    [ "Read", "d8/d80/a11129.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
+    [ "Mode", "d8/d80/a11129.html#a445a55f5069f60a184b119c57cfedf9a", null ]
 ];

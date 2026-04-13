@@ -1,8 +1,7 @@
 var a22597 =
 [
-    [ "npc_yor", "d8/d22/a22597.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "d8/d22/a22597.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "d8/d22/a22597.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "d8/d22/a22597.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "d8/d22/a22597.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "npc_ashtongue_channeler", "d8/d22/a22597.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "d8/d22/a22597.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "d8/d22/a22597.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "d8/d22/a22597.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

@@ -1,10 +1,6 @@
 var a21881 =
 [
-    [ "npc_emilyAI", "dd/dba/a21881.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "dd/dba/a21881.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "dd/dba/a21881.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "dd/dba/a21881.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "dd/dba/a21881.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "dd/dba/a21881.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "dd/dba/a21881.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "npc_time_lost_proto_drakeAI", "d3/d15/a21885.html", "d3/d15/a21885" ],
+    [ "npc_time_lost_proto_drake", "dd/dba/a21881.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "dd/dba/a21881.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

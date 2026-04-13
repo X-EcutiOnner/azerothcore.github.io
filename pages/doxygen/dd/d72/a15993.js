@@ -1,17 +1,6 @@
 var a15993 =
 [
-    [ "npc_clintar_spiritAI", "dd/d72/a15993.html#ab64c9da6af7246e1665a5264a26d75ab", null ],
-    [ "EnterEvadeMode", "dd/d72/a15993.html#a2ccffe81e2bd7cddcab10746bc9311bf", null ],
-    [ "IsSummonedBy", "dd/d72/a15993.html#af55bc32b17bfd45968e668c5591325ae", null ],
-    [ "JustDied", "dd/d72/a15993.html#a4e90511d9daf0545f0fee471f3ab0d5e", null ],
-    [ "Reset", "dd/d72/a15993.html#afd59b5e50deb65f7175138272f439740", null ],
-    [ "StartEvent", "dd/d72/a15993.html#ae3bbfd8374bf667d4eeb26e047ee2186", null ],
-    [ "UpdateAI", "dd/d72/a15993.html#a4b780f14cb2aa08c06e39a58501a21fe", null ],
-    [ "WaypointReached", "dd/d72/a15993.html#a98315f3202daaac261a1e7f0222b01c5", null ],
-    [ "checkPlayerTimer", "dd/d72/a15993.html#a10165a369bb8a7775050ae425cb94123", null ],
-    [ "CurrWP", "dd/d72/a15993.html#ae3b4588a2dfd337ffc71456652fa136f", null ],
-    [ "EventOnWait", "dd/d72/a15993.html#a7473dff3417d3e7510bc4fb7acbeb494", null ],
-    [ "EventTimer", "dd/d72/a15993.html#a27b0a90757df63df276b1e26bfbaba83", null ],
-    [ "PlayerGUID", "dd/d72/a15993.html#ad721852353215d46bc623efca358981f", null ],
-    [ "Step", "dd/d72/a15993.html#af9b65e2de0dcce5844fbc642b32f5a3f", null ]
+    [ "npc_cairne_bloodhoofAI", "dc/d24/a15997.html", "dc/d24/a15997" ],
+    [ "npc_cairne_bloodhoof", "dd/d72/a15993.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "dd/d72/a15993.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

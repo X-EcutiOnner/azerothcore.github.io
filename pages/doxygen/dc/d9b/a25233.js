@@ -1,6 +1,6 @@
 var a25233 =
 [
-    [ "CalculateAmount", "dc/d9b/a25233.html#a66b009487462241e573ea23f081a140a", null ],
-    [ "PrepareAuraScript", "dc/d9b/a25233.html#a0eee16c77a3c3cea882b67c78826a140", null ],
-    [ "Register", "dc/d9b/a25233.html#afeafc6922b0a0389fec969e3c7191dda", null ]
+    [ "CalculateAmount", "dc/d9b/a25233.html#ac0018b57967a3d3ae71aa81745032f15", null ],
+    [ "PrepareAuraScript", "dc/d9b/a25233.html#ab249a493050c5527eeec8913e94cfc64", null ],
+    [ "Register", "dc/d9b/a25233.html#a8f078f8370eacba197ceb2068b6a538d", null ]
 ];

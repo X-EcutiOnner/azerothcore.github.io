@@ -1,7 +1,6 @@
 var a18833 =
 [
-    [ "CheckTargetCount", "d6/dc5/a18833.html#a44f558248f944464c773105728cffbca", null ],
-    [ "PrepareSpellScript", "d6/dc5/a18833.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
-    [ "Register", "d6/dc5/a18833.html#aeda833ca8483d337311086b9d0a14081", null ],
-    [ "Validate", "d6/dc5/a18833.html#aee84751e352dbfc12472fc15924c48fa", null ]
+    [ "boss_sister_svalnaAI", "d8/da7/a18837.html", "d8/da7/a18837" ],
+    [ "boss_sister_svalna", "d6/dc5/a18833.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "d6/dc5/a18833.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

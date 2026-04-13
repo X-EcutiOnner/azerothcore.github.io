@@ -1,10 +1,24 @@
 var a08393 =
 [
-    [ "IsCastable", "da/dc2/a08393.html#a677b21866e24d2c94de28d96db07aafd", null ],
-    [ "MoneyCost", "da/dc2/a08393.html#af20caa962ba1f5edb376b78b6b35b119", null ],
-    [ "ReqAbility", "da/dc2/a08393.html#a101686190208be6fb46a46768ca779f9", null ],
-    [ "ReqLevel", "da/dc2/a08393.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
-    [ "ReqSkillLine", "da/dc2/a08393.html#a008ff0df36f2e19534a5fda97616f14f", null ],
-    [ "ReqSkillRank", "da/dc2/a08393.html#aa151d559cb276797a39dd203fd1b24c2", null ],
-    [ "SpellId", "da/dc2/a08393.html#ac289744925387c199fde756867bbfc57", null ]
+    [ "PlayerMenu", "da/dc2/a08393.html#a690175d52d57aa33ec8fac8c1f25972a", null ],
+    [ "~PlayerMenu", "da/dc2/a08393.html#a764418c67a206ddfb783ea2f8a755bcc", null ],
+    [ "ClearMenus", "da/dc2/a08393.html#a64e6ddbdb6e894f56578339efa62e752", null ],
+    [ "Empty", "da/dc2/a08393.html#a7b8937a48631f9dab1ab117ea9e3dfaf", null ],
+    [ "GetGossipMenu", "da/dc2/a08393.html#acc519746fa45290cde3967dc5f604158", null ],
+    [ "GetGossipOptionAction", "da/dc2/a08393.html#afe2b7121b08000226986315ab2da007c", null ],
+    [ "GetGossipOptionSender", "da/dc2/a08393.html#ab85bfb274849b70e5e49d9dfdd9ea414", null ],
+    [ "GetQuestMenu", "da/dc2/a08393.html#a6129e728a42a0d74e462073ba7219eb1", null ],
+    [ "IsGossipOptionCoded", "da/dc2/a08393.html#a74e2796d83f1643a98aa8107d496ca22", null ],
+    [ "SendCloseGossip", "da/dc2/a08393.html#a1071f28b7138ecbd7e94d95175059ba1", null ],
+    [ "SendGossipMenu", "da/dc2/a08393.html#a78a00a19e9e55fe5582dd70183b01e8b", null ],
+    [ "SendPointOfInterest", "da/dc2/a08393.html#a192c3c40d28b331851fb36a8c936bde3", null ],
+    [ "SendQuestGiverOfferReward", "da/dc2/a08393.html#afc3d8fc9f8fd2f20ea0068b101d90f91", null ],
+    [ "SendQuestGiverQuestDetails", "da/dc2/a08393.html#a3961687838852446af0db40d6458fb41", null ],
+    [ "SendQuestGiverQuestList", "da/dc2/a08393.html#a1995bf53009911627fbbcb20049a1fbf", null ],
+    [ "SendQuestGiverRequestItems", "da/dc2/a08393.html#a61a5f8d9b8b9c4baa511028884011f89", null ],
+    [ "SendQuestGiverStatus", "da/dc2/a08393.html#a873a174b6ef46140ff8d8acf0c683ffb", null ],
+    [ "SendQuestQueryResponse", "da/dc2/a08393.html#a950ed922c39040db8a1fe16588c7c65a", null ],
+    [ "_gossipMenu", "da/dc2/a08393.html#a7a31b60fd003326c8f975675168efd10", null ],
+    [ "_questMenu", "da/dc2/a08393.html#a1d1d9ec0ac5fea6b1905390f0719073a", null ],
+    [ "_session", "da/dc2/a08393.html#aa55a3dbe879c3d0166ba7a8deda0d6e0", null ]
 ];

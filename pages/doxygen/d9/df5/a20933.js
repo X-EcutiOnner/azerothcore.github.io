@@ -1,8 +1,6 @@
 var a20933 =
 [
-    [ "OnApply", "d9/df5/a20933.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "d9/df5/a20933.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "d9/df5/a20933.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "d9/df5/a20933.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "d9/df5/a20933.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_svalaAI", "d1/d84/a20937.html", "d1/d84/a20937" ],
+    [ "boss_svala", "d9/df5/a20933.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "d9/df5/a20933.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

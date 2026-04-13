@@ -1,10 +1,7 @@
 var a12025 =
 [
-    [ "lfg_commandscript", "d5/d48/a12025.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "d5/d48/a12025.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "d5/d48/a12025.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgGroupInfoCommand", "d5/d48/a12025.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "d5/d48/a12025.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "d5/d48/a12025.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "d5/d48/a12025.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "CompressedData", "d5/d48/a12025.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
+    [ "CompressedSize", "d5/d48/a12025.html#ab57879b41c825623a989db13a53f2f4e", null ],
+    [ "Id", "d5/d48/a12025.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
+    [ "Key", "d5/d48/a12025.html#ad100540b5c6722a19c938b134a985aed", null ]
 ];

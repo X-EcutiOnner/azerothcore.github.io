@@ -1,7 +1,5 @@
 var a18293 =
 [
-    [ "HandleSpikes", "df/d77/a18293.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "df/d77/a18293.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "df/d77/a18293.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "df/d77/a18293.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "operator()", "df/d77/a18293.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
+    [ "operator()", "df/d77/a18293.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
 ];

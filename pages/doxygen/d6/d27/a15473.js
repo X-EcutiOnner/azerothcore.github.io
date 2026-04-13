@@ -1,7 +1,8 @@
 var a15473 =
 [
-    [ "HandleScript", "d6/d27/a15473.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "d6/d27/a15473.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "d6/d27/a15473.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "d6/d27/a15473.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "npc_ouro_spawner", "d6/d27/a15473.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "d6/d27/a15473.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "d6/d27/a15473.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "d6/d27/a15473.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "d6/d27/a15473.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

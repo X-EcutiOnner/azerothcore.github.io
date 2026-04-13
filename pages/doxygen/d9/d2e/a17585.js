@@ -1,6 +1,6 @@
 var a17585 =
 [
-    [ "npc_pos_freed_slaveAI", "d9/d2e/a17585.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "d9/d2e/a17585.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "d9/d2e/a17585.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "FilterTargets", "d9/d2e/a17585.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
+    [ "PrepareSpellScript", "d9/d2e/a17585.html#a8e9d81b34e05506569f4b910c1958de3", null ],
+    [ "Register", "d9/d2e/a17585.html#aa80980c3f68abcb0fac7a41172f70012", null ]
 ];

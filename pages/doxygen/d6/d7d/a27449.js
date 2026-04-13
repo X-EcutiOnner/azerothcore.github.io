@@ -1,5 +1,7 @@
 var a27449 =
 [
-    [ "EarthenPowerTargetSelector", "d6/d7d/a27449.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
-    [ "operator()", "d6/d7d/a27449.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
+    [ "HandleApplyAura", "d6/d7d/a27449.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "d6/d7d/a27449.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "d6/d7d/a27449.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "d6/d7d/a27449.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

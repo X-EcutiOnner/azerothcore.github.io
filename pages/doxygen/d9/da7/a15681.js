@@ -1,6 +1,6 @@
 var a15681 =
 [
-    [ "FilterTargets", "d9/da7/a15681.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "d9/da7/a15681.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "d9/da7/a15681.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "npc_murkdeepAI", "de/dab/a15685.html", "de/dab/a15685" ],
+    [ "npc_murkdeep", "d9/da7/a15681.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
+    [ "GetAI", "d9/da7/a15681.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
 ];

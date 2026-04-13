@@ -1,6 +1,6 @@
 var a18761 =
 [
-    [ "npc_icc_ice_sphereAI", "d7/d1e/a18765.html", "d7/d1e/a18765" ],
-    [ "npc_icc_ice_sphere", "db/d18/a18761.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
-    [ "GetAI", "db/d18/a18761.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
+    [ "PeriodicTick", "db/d18/a18761.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "db/d18/a18761.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "db/d18/a18761.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

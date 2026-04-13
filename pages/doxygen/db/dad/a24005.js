@@ -1,8 +1,8 @@
 var a24005 =
 [
-    [ "npc_ancestral_wolfAI", "db/dad/a24005.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "db/dad/a24005.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "db/dad/a24005.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "db/dad/a24005.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "ryga", "db/dad/a24005.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "db/dad/a24005.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "db/dad/a24005.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "db/dad/a24005.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "db/dad/a24005.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "db/dad/a24005.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

@@ -1,28 +1,14 @@
 var a01529 =
 [
-    [ "OPvPCapturePointHP", "dd/d9b/a22218.html", "dd/d9b/a22218" ],
-    [ "OutdoorPvPHP", "d2/da7/a22222.html", "d2/da7/a22222" ],
-    [ "OutdoorPvPHPBuffZonesNum", "db/dce/a01529.html#a01aada98c8079ea71a361cba06e10640", null ],
-    [ "OutdoorPvPHPSpells", "db/dce/a01529.html#a09664100577cc20866b21589f3c1eb4a", [
-      [ "AlliancePlayerKillReward", "db/dce/a01529.html#a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc", null ],
-      [ "HordePlayerKillReward", "db/dce/a01529.html#a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45", null ],
-      [ "AllianceBuff", "db/dce/a01529.html#a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a", null ],
-      [ "HordeBuff", "db/dce/a01529.html#a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2", null ]
-    ] ],
-    [ "OutdoorPvPHPTowerType", "db/dce/a01529.html#ad618152baad1f5a1d7f70f40941e8f33", [
-      [ "HP_TOWER_BROKEN_HILL", "db/dce/a01529.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9", null ],
-      [ "HP_TOWER_OVERLOOK", "db/dce/a01529.html#ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447", null ],
-      [ "HP_TOWER_STADIUM", "db/dce/a01529.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84", null ],
-      [ "HP_TOWER_NUM", "db/dce/a01529.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355", null ]
-    ] ],
-    [ "HP_CREDITMARKER", "db/dce/a01529.html#a3be5b978c2160f84a013071d76c121aa", null ],
-    [ "HP_MAP_A", "db/dce/a01529.html#ab540dae1c3c44e27c4441e9d56e10d1d", null ],
-    [ "HP_MAP_H", "db/dce/a01529.html#ab15c51d80dc177784041dedc55e39c56", null ],
-    [ "HP_MAP_N", "db/dce/a01529.html#a8a39817e7479fa79181e8c99bb83ca5c", null ],
-    [ "HP_TowerArtKit_A", "db/dce/a01529.html#ab9c6e470e4a4759ce2e77f88661521bb", null ],
-    [ "HP_TowerArtKit_H", "db/dce/a01529.html#a6791490624d9d1c2995c6a13659f8692", null ],
-    [ "HP_TowerArtKit_N", "db/dce/a01529.html#ae64775fc45fae501937d72c9d55c8dc1", null ],
-    [ "HPCapturePoints", "db/dce/a01529.html#a23f671f25a8a3e3db11f4a0953b34773", null ],
-    [ "HPTowerFlags", "db/dce/a01529.html#ae6571d986fbbf7b469cf495033f46516", null ],
-    [ "OutdoorPvPHPBuffZones", "db/dce/a01529.html#a876ea3aeffde8ab2532706d13ae6e2ce", null ]
+    [ "BeforeVisibilityDestroy", "db/dce/a01529.html#a8172910e1dfdc7b56ca3931dd2fab1fb", null ],
+    [ "BeforeVisibilityDestroy< Creature >", "db/dce/a01529.html#a62188ab6a72d08b62bf37442dbbfdaa6", null ],
+    [ "getProbabilityOfLevelUp", "db/dce/a01529.html#aa890f698ac89e4049e1107c05d065495", null ],
+    [ "SkillGainChance", "db/dce/a01529.html#a66adde9ba6a85d585f6e6e8355499aa6", null ],
+    [ "UpdateVisibilityOf_helper", "db/dce/a01529.html#a74b7f95092456b1438f82ae741c77e3b", null ],
+    [ "UpdateVisibilityOf_helper", "db/dce/a01529.html#ac66d5bddb2e8a54da47fa75b3fedc154", null ],
+    [ "UpdateVisibilityOf_helper", "db/dce/a01529.html#a9ad7cb34613338094db01b886d54cf25", null ],
+    [ "UpdateVisibilityOf_helper", "db/dce/a01529.html#a6b71c41b4869661630086bd26c35b630", null ],
+    [ "bonusSkillLevels", "db/dce/a01529.html#a72b3624ee55553e28f82ef06d7c74c6a", null ],
+    [ "bonusSkillLevelsSize", "db/dce/a01529.html#ad103e97f7db0cfd188ab64f5748c7464", null ],
+    [ "ZONE_UPDATE_INTERVAL", "db/dce/a01529.html#afabbcd46bf6f03c5dca10b117810b710", null ]
 ];

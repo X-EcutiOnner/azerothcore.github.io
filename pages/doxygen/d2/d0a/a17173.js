@@ -1,7 +1,8 @@
 var a17173 =
 [
-    [ "HandleScript", "d2/d0a/a17173.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "d2/d0a/a17173.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "d2/d0a/a17173.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "d2/d0a/a17173.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "npc_hor_risen_witch_doctor", "d2/d0a/a17173.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "d2/d0a/a17173.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "d2/d0a/a17173.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "d2/d0a/a17173.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "d2/d0a/a17173.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

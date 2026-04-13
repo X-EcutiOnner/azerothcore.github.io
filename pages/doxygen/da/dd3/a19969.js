@@ -1,6 +1,9 @@
 var a19969 =
 [
-    [ "CalculateDamage", "da/dd3/a19969.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "da/dd3/a19969.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "da/dd3/a19969.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "npc_thorims_hammer", "da/dd3/a19969.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
+    [ "Reset", "da/dd3/a19969.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
+    [ "UpdateAI", "da/dd3/a19969.html#a006414298b31eb0cfb964916298d66ce", null ],
+    [ "_beamTimer", "da/dd3/a19969.html#adcd5af2b86d1d8f119514f799c42444b", null ],
+    [ "_finishTime", "da/dd3/a19969.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
+    [ "_removeTimer", "da/dd3/a19969.html#a7b9a2435b0953c12e693c562193d45e0", null ]
 ];

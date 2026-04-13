@@ -1,7 +1,6 @@
 var a22941 =
 [
-    [ "npc_ashtongue_channeler", "de/dad/a22941.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "de/dad/a22941.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "de/dad/a22941.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "de/dad/a22941.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "HandleScript", "de/dad/a22941.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "de/dad/a22941.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "de/dad/a22941.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

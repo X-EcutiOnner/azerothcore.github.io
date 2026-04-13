@@ -1,5 +1,6 @@
 var a27965 =
 [
-    [ "achievement_bg_sa_artillery", "df/de1/a27965.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "df/de1/a27965.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "guard_shattrath_scryerAI", "d6/dcb/a27969.html", "d6/dcb/a27969" ],
+    [ "guard_shattrath_scryer", "df/de1/a27965.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "df/de1/a27965.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

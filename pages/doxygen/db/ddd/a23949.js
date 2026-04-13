@@ -1,16 +1,7 @@
 var a23949 =
 [
-    [ "npc_nether_drakeAI", "db/ddd/a23949.html#a82f2c29b380be95303e1558776ea2d88", null ],
-    [ "JustEngagedWith", "db/ddd/a23949.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
-    [ "MoveInLineOfSight", "db/ddd/a23949.html#a9e122d4533155c926904a13e8534d32e", null ],
-    [ "MovementInform", "db/ddd/a23949.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
-    [ "Reset", "db/ddd/a23949.html#acb03513dd67988e0961632846021a42d", null ],
-    [ "SpellHit", "db/ddd/a23949.html#a40f05363f38d71954c9fb8773c382444", null ],
-    [ "UpdateAI", "db/ddd/a23949.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
-    [ "ArcaneBlast_Timer", "db/ddd/a23949.html#ace872917954f4978f3568d7ddecf22ad", null ],
-    [ "IntangiblePresence_Timer", "db/ddd/a23949.html#acecff3846090fa83c8fc43537d788501", null ],
-    [ "IsNihil", "db/ddd/a23949.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
-    [ "ManaBurn_Timer", "db/ddd/a23949.html#ae6c33df878497d29d5f61234b048009d", null ],
-    [ "NihilSpeech_Phase", "db/ddd/a23949.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
-    [ "NihilSpeech_Timer", "db/ddd/a23949.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
+    [ "npc_isla_starmaneAI", "dd/dfd/a23953.html", "dd/dfd/a23953" ],
+    [ "npc_isla_starmane", "db/ddd/a23949.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
+    [ "GetAI", "db/ddd/a23949.html#a0ea2dbaab4115772f92849e06aa85575", null ],
+    [ "OnQuestAccept", "db/ddd/a23949.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
 ];

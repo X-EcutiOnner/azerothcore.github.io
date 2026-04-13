@@ -1,5 +1,11 @@
 var a07833 =
 [
-    [ "IsColorValid", "db/d8b/a07833.html#a6fca3f0ea620fbef8ed532ddb26875a0", null ],
-    [ "IsTextValid", "db/d8b/a07833.html#aef8ebbb11dc11311ba7152732a1ace58", null ]
+    [ "wrapper_func", "db/d8b/a07833.html#a4ebb895343c2cfae053a605aafe0e461", null ],
+    [ "CommandInvoker", "db/d8b/a07833.html#a6541779cccd36a87d65acc1b6a9725e2", null ],
+    [ "CommandInvoker", "db/d8b/a07833.html#ad941d54b994fbfe0f572348d18a790be", null ],
+    [ "CommandInvoker", "db/d8b/a07833.html#a6b693468375cc6b92870194e10eb4140", null ],
+    [ "operator bool", "db/d8b/a07833.html#aa00bfcf3938781f5e454f7acddb12e7e", null ],
+    [ "operator()", "db/d8b/a07833.html#a611756a2205ffb2bccabb53929a4644b", null ],
+    [ "_handler", "db/d8b/a07833.html#af9bece7be346ed85c5b45cc07c7b176a", null ],
+    [ "_wrapper", "db/d8b/a07833.html#a1605d492889200f2d18d6759882913aa", null ]
 ];

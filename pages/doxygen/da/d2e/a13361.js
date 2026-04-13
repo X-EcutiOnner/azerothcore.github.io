@@ -1,5 +1,8 @@
 var a13361 =
 [
-    [ "boss_warlord_salaris", "da/d2e/a13361.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
-    [ "JustEngagedWith", "da/d2e/a13361.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
+    [ "HandleHit", "da/d2e/a13361.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "da/d2e/a13361.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "da/d2e/a13361.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "da/d2e/a13361.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "da/d2e/a13361.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

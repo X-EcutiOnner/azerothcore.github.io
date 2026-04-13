@@ -1,6 +1,5 @@
 var a13193 =
 [
-    [ "HandleCast", "d3/d2c/a13193.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
-    [ "PrepareSpellScript", "d3/d2c/a13193.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
-    [ "Register", "d3/d2c/a13193.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
+    [ "boss_warlord_salaris", "d3/d2c/a13193.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
+    [ "JustEngagedWith", "d3/d2c/a13193.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
 ];

@@ -1,12 +1,13 @@
 var a05473 =
 [
-    [ "RegistryMapType", "dd/da9/a05473.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2", null ],
-    [ "ObjectRegistry", "dd/da9/a05473.html#aa3bcc30791e82bc900eacf1c5833b7f8", null ],
-    [ "~ObjectRegistry", "dd/da9/a05473.html#a2734a0e6001f597b43e006bc9d84a6b1", null ],
-    [ "GetRegisteredItems", "dd/da9/a05473.html#aba4a4fcc7ee59afbb4dea6df7410dc02", null ],
-    [ "GetRegistryItem", "dd/da9/a05473.html#a474bdff0ab0f0a3db5f914b9dfaa48d1", null ],
-    [ "HasItem", "dd/da9/a05473.html#a3c95897734a780c1f299d24a058b3595", null ],
-    [ "InsertItem", "dd/da9/a05473.html#a55416824a5dff4138f5d828e352e3d7c", null ],
-    [ "instance", "dd/da9/a05473.html#a7a6582a84361d5ad1142f29c9e1d9cb5", null ],
-    [ "_registeredObjects", "dd/da9/a05473.html#a61e6a6eb75512241e82092abfeba7a65", null ]
+    [ "SymbolDetail", "dd/da9/a05473.html#a980674204558954b7a10799c5e71fb31", null ],
+    [ "empty", "dd/da9/a05473.html#a0cd6b5c40ffb307db4a3930ba5a36b76", null ],
+    [ "ToString", "dd/da9/a05473.html#a5466cf91b53b85332b301b3d51b075aa", null ],
+    [ "HasChildren", "dd/da9/a05473.html#abb8aaaf18cc617dbf5628bd10dc76bc8", null ],
+    [ "Logged", "dd/da9/a05473.html#a89231f1fafa96100d432ace9fc1f08c3", null ],
+    [ "Name", "dd/da9/a05473.html#acb905ff2f54f69367de324b2bf33fbe7", null ],
+    [ "Prefix", "dd/da9/a05473.html#a21fb89604255111403d1c0bf331d72fb", null ],
+    [ "Suffix", "dd/da9/a05473.html#ab3e36a19236208f25dddaf0ff8ecec4f", null ],
+    [ "Type", "dd/da9/a05473.html#a8cb6fb216847f8e1b669b9693ef017dc", null ],
+    [ "Value", "dd/da9/a05473.html#a8a469bdb1f1ea087f5c0a95fc0431b55", null ]
 ];

@@ -1,8 +1,8 @@
 var a26617 =
 [
-    [ "CheckProc", "da/d33/a26617.html#a05580997d10960d8a8186c42b008894f", null ],
-    [ "OnRemove", "da/d33/a26617.html#a55cc4caf383fa643dd9df6c335937063", null ],
-    [ "PrepareAuraScript", "da/d33/a26617.html#a19bbc19f6a8f2e59903319eb56afacea", null ],
-    [ "Register", "da/d33/a26617.html#a2caaa38b44038e58f1715deb2af1a7ec", null ],
-    [ "Validate", "da/d33/a26617.html#a93fe3df6878e3edb540a70871dd98e7d", null ]
+    [ "HandleEffectApply", "da/d33/a26617.html#aed959961fcd07649cd4914fcd38a3214", null ],
+    [ "if", "da/d33/a26617.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
+    [ "PrepareAuraScript", "da/d33/a26617.html#a42167bc6bf7992debea8582680251da4", null ],
+    [ "Register", "da/d33/a26617.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
+    [ "AuraEffectHandleModes", "da/d33/a26617.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
 ];

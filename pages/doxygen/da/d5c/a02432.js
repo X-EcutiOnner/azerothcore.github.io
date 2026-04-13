@@ -1,12 +1,8 @@
 var a02432 =
 [
-    [ "instance_violet_hold", "d0/d10/a21130.html", "d0/d10/a21130" ],
-    [ "instance_violet_hold::instance_violet_hold_InstanceMapScript", "d9/de7/a21134.html", "d9/de7/a21134" ],
-    [ "vYells", "da/d5c/a02432.html#af81bfaea39a160ddb9422869d6637d65", [
-      [ "CYANIGOSA_SAY_SPAWN", "da/d5c/a02432.html#af81bfaea39a160ddb9422869d6637d65ad55452f43eb6c2a7803dd3a6914ff586", null ],
-      [ "SAY_SINCLARI_LEAVING", "da/d5c/a02432.html#af81bfaea39a160ddb9422869d6637d65a98abfd4974743840603721fea2cd0192", null ],
-      [ "SAY_SINCLARI_DOOR_LOCK", "da/d5c/a02432.html#af81bfaea39a160ddb9422869d6637d65a009be97ca2bddcb508aeed20f057fd61", null ],
-      [ "SAY_SINCLARI_COMPLETE", "da/d5c/a02432.html#af81bfaea39a160ddb9422869d6637d65aeb5bea74e085aa8ec9a176deb36cdcf1", null ]
-    ] ],
-    [ "AddSC_instance_violet_hold", "da/d5c/a02432.html#a3d339190942c6b50cafaf9780d32ffb4", null ]
+    [ "instance_old_hillsbrad", "df/da9/a15125.html", "df/da9/a15125" ],
+    [ "instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript", "dc/da8/a15129.html", "dc/da8/a15129" ],
+    [ "AddSC_instance_old_hillsbrad", "da/d5c/a02432.html#a2b3faa69a9526f156ca7bae70c720075", null ],
+    [ "instancePositions", "da/d5c/a02432.html#a79b42da504a3cfde2581f63a639c7936", null ],
+    [ "thrallPositions", "da/d5c/a02432.html#a04c9058e75a93a56057912eb1c896bd0", null ]
 ];

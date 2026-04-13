@@ -1,6 +1,7 @@
 var a17049 =
 [
-    [ "boss_gormokAI", "d4/d79/a17053.html", "d4/d79/a17053" ],
-    [ "boss_gormok", "d5/d85/a17049.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d5/d85/a17049.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "HandlePeriodicTick", "d5/d85/a17049.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
+    [ "PrepareAuraScript", "d5/d85/a17049.html#aabaef31a3c699c322e24e064f357f82f", null ],
+    [ "Register", "d5/d85/a17049.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
+    [ "Validate", "d5/d85/a17049.html#a18d92a82760992bc5d8503e3f774f208", null ]
 ];

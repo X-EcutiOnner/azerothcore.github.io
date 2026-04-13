@@ -1,9 +1,22 @@
 var a18829 =
 [
-    [ "HandleScript", "d7/d40/a18829.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "d7/d40/a18829.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "d7/d40/a18829.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "d7/d40/a18829.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "d7/d40/a18829.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "d7/d40/a18829.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "npc_crok_scourgebaneAI", "d7/d40/a18829.html#a0b59ffcc00aeb1b9ac23ddc0b1504054", null ],
+    [ "CanAIAttack", "d7/d40/a18829.html#a0a26fdecc1748b96d0e7598a80449dc9", null ],
+    [ "DamageTaken", "d7/d40/a18829.html#ae727d192e29c63d5aa699b491425cdc6", null ],
+    [ "DoAction", "d7/d40/a18829.html#aaf9b034a97510ce7d58aa2d9ecfc0c14", null ],
+    [ "Reset", "d7/d40/a18829.html#a6c1d480fff0a4a6361986dc82a945534", null ],
+    [ "SetGUID", "d7/d40/a18829.html#a185a5ebbf77067ce9e233c55d47f84d0", null ],
+    [ "UpdateAI", "d7/d40/a18829.html#a109b1bf28de7903557c9c03957fa7d71", null ],
+    [ "UpdateEscortAI", "d7/d40/a18829.html#af883cb5fd419eaf1c82a21f980d3e893", null ],
+    [ "WaypointReached", "d7/d40/a18829.html#a58c3e2ed37552b3adde1aa4f1a8ba0ba", null ],
+    [ "WaypointReached", "d7/d40/a18829.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "WaypointStart", "d7/d40/a18829.html#a900611179c3c9d4ceffd86261f62151b", null ],
+    [ "_aliveTrash", "d7/d40/a18829.html#ae0c99157db5daa07643715a56217bccd", null ],
+    [ "_currentWPid", "d7/d40/a18829.html#a541f03486042a87f3ff223d7424d32f8", null ],
+    [ "_didUnderTenPercentText", "d7/d40/a18829.html#a8cb4c0126549dbb10e0b60d164ba7924", null ],
+    [ "_events", "d7/d40/a18829.html#a8f6b1618223d4660cce33d34d215f323", null ],
+    [ "_handledWP4", "d7/d40/a18829.html#acf6f70f93dbca7f5139af17ec411b971", null ],
+    [ "_instance", "d7/d40/a18829.html#a0698a3297da669fd5440743be200c378", null ],
+    [ "_isEventDone", "d7/d40/a18829.html#a184a0a5b62cfc33c9ae71c0d2d651c27", null ],
+    [ "_wipeCheckTimer", "d7/d40/a18829.html#a91be80fbce6f6f0ae6a249128ba319c9", null ]
 ];

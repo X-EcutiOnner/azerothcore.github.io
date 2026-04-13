@@ -1,7 +1,6 @@
 var a18857 =
 [
-    [ "CalculateBonus", "d6/d1f/a18857.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "d6/d1f/a18857.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "d6/d1f/a18857.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "d6/d1f/a18857.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "npc_captain_brandonAI", "d6/d1f/a18857.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d6/d1f/a18857.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d6/d1f/a18857.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

@@ -1,6 +1,7 @@
 var a19521 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d2/d64/a19525.html", "d2/d64/a19525" ],
-    [ "boss_grobbulus_poison_cloud", "d0/d39/a19521.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "d0/d39/a19521.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "HandlePull", "d0/d39/a19521.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "d0/d39/a19521.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "d0/d39/a19521.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "d0/d39/a19521.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

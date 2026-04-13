@@ -1,13 +1,7 @@
 var a21149 =
 [
-    [ "npc_ravenous_furbolgAI", "da/d95/a21149.html#a3e2a0cac8a02d2d6105b06b5c21f1628", null ],
-    [ "DoAction", "da/d95/a21149.html#a837b442d7812b0c5708995d35c0d45f6", null ],
-    [ "JustDied", "da/d95/a21149.html#a03e5dd969fcc2e3dcebc714247e18bf2", null ],
-    [ "JustEngagedWith", "da/d95/a21149.html#a003eb350a11f3f5c2355a58958633f36", null ],
-    [ "JustReachedHome", "da/d95/a21149.html#a09fc5ba4680c1e5a7a49a81c50cee540", null ],
-    [ "MoveInLineOfSight", "da/d95/a21149.html#a0b4db9708b9b0288ddb1be2f2205e03a", null ],
-    [ "Reset", "da/d95/a21149.html#aca5ae47050590ec22e6e929f44e09276", null ],
-    [ "UpdateAI", "da/d95/a21149.html#ad044c04381a8d61a8fefc55129453ddf", null ],
-    [ "events", "da/d95/a21149.html#a8bf068c63d7ae10c6edf0af3aab1a6c3", null ],
-    [ "m_pInstance", "da/d95/a21149.html#aeb0a7644ada4d44e649b4ae45e0d2dc2", null ]
+    [ "npc_azure_spellbreaker", "da/d95/a21149.html#ae884adc9619d3458d81a2029bd490893", null ],
+    [ "Reset", "da/d95/a21149.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
+    [ "UpdateAI", "da/d95/a21149.html#a938a93a71490bb42158e2215d125509f", null ],
+    [ "_events", "da/d95/a21149.html#a9f526cff54cb949cc68046e7816c3c89", null ]
 ];

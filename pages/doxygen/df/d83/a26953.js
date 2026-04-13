@@ -1,8 +1,10 @@
 var a26953 =
 [
-    [ "CheckProc", "df/d83/a26953.html#ae431b65ed505bbc483244ef50c2d35c8", null ],
-    [ "HandleProc", "df/d83/a26953.html#ab744f28533935c4a236f0635bbe6465c", null ],
-    [ "PrepareAuraScript", "df/d83/a26953.html#a7a531ef1c65bdb0d8001956454a43cd3", null ],
-    [ "Register", "df/d83/a26953.html#a8919dc1d487413f54e4a99002350f8d8", null ],
-    [ "Validate", "df/d83/a26953.html#aad134b5ef026a8a58ae233090ca01986", null ]
+    [ "HandleProc", "df/d83/a26953.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "df/d83/a26953.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "df/d83/a26953.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "df/d83/a26953.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "df/d83/a26953.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "df/d83/a26953.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "df/d83/a26953.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

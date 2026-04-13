@@ -1,11 +1,10 @@
 var a21237 =
 [
-    [ "boss_archavonAI", "d6/d58/a21237.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "d6/d58/a21237.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "d6/d58/a21237.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "d6/d58/a21237.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "d6/d58/a21237.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "d6/d58/a21237.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "d6/d58/a21237.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "d6/d58/a21237.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "npc_bonker_togglevoltAI", "d6/d58/a21237.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "d6/d58/a21237.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "d6/d58/a21237.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "d6/d58/a21237.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "d6/d58/a21237.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "WaypointReached", "d6/d58/a21237.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Bonker_agro", "d6/d58/a21237.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

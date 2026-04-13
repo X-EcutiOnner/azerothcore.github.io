@@ -1,6 +1,7 @@
 var a25781 =
 [
-    [ "HandlePreventAura", "d0/dfe/a25781.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
-    [ "PrepareSpellScript", "d0/dfe/a25781.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
-    [ "Register", "d0/dfe/a25781.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
+    [ "HandleScript", "d0/dfe/a25781.html#aad0be226a2d294d3361c1afbf644c5e4", null ],
+    [ "PrepareSpellScript", "d0/dfe/a25781.html#a85dee311aab08d796a3a0c1bc9e9390d", null ],
+    [ "Register", "d0/dfe/a25781.html#a2b22be9826db241ecf3f99ff16c309c0", null ],
+    [ "Validate", "d0/dfe/a25781.html#a98df659504307fc0666fe2b1001eaa00", null ]
 ];

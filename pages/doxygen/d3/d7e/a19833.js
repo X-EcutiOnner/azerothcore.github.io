@@ -1,6 +1,8 @@
 var a19833 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d4/d45/a19837.html", "d4/d45/a19837" ],
-    [ "npc_oculus_unstable_sphere", "d3/d7e/a19833.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "d3/d7e/a19833.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "go_celestial_planetarium_accessAI", "d3/d7e/a19833.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "d3/d7e/a19833.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "d3/d7e/a19833.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "d3/d7e/a19833.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "d3/d7e/a19833.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

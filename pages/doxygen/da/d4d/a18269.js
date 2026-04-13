@@ -1,18 +1,6 @@
 var a18269 =
 [
-    [ "boss_lord_marrowgar", "da/d4d/a18269.html#ab6a4afec9ed7153054b2d5ffb8f3b8ab", null ],
-    [ "CanAIAttack", "da/d4d/a18269.html#a019816e930781889f39c561577eaecc0", null ],
-    [ "GetGUID", "da/d4d/a18269.html#a0f3d27442ce651574ab66c2f94d27c88", null ],
-    [ "JustDied", "da/d4d/a18269.html#a8f1143de6695cf3fc2e54d5dc29ae9f2", null ],
-    [ "JustEngagedWith", "da/d4d/a18269.html#a3fa8b012f5e3ae94cecb537aa1952b63", null ],
-    [ "JustReachedHome", "da/d4d/a18269.html#ac59e0e13d5226fcdb4af08a1f9eff089", null ],
-    [ "KilledUnit", "da/d4d/a18269.html#acfe53ec83fa2056b37269608182fb25b", null ],
-    [ "MoveInLineOfSight", "da/d4d/a18269.html#ab3a7a37af22ab4dd7178f1cce2e2ab6a", null ],
-    [ "MovementInform", "da/d4d/a18269.html#abba7e15c065a80677fc88a6dafa8ecfd", null ],
-    [ "Reset", "da/d4d/a18269.html#a2692d00185ef27f50af01d125e39d549", null ],
-    [ "SpellHitTarget", "da/d4d/a18269.html#adf886210abbd492f897b39145748f78a", null ],
-    [ "UpdateAI", "da/d4d/a18269.html#aa19fdc486c0c9cca1033e0747d631a7e", null ],
-    [ "_boneSlice", "da/d4d/a18269.html#a50478639cd1f13732646fcc2349c5474", null ],
-    [ "_introDone", "da/d4d/a18269.html#a87f5036e8ba62e54ed7c502469cffe10", null ],
-    [ "_lastBoneSliceTargets", "da/d4d/a18269.html#aaf8ca2baf4c68ea64d4c163ede7813c8", null ]
+    [ "FilterTargets", "da/d4d/a18269.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "da/d4d/a18269.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "da/d4d/a18269.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

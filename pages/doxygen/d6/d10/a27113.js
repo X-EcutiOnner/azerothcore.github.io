@@ -1,7 +1,8 @@
 var a27113 =
 [
-    [ "HandleDummy", "d6/d10/a27113.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
-    [ "PrepareSpellScript", "d6/d10/a27113.html#a125f7550ce826f74ac14902bc82d5021", null ],
-    [ "Register", "d6/d10/a27113.html#a35e9132e2414383caafbde699de6061d", null ],
-    [ "Validate", "d6/d10/a27113.html#a530489a10287a6dd281d518683b1a3f3", null ]
+    [ "ApplyDebuff", "d6/d10/a27113.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
+    [ "PrepareSpellScript", "d6/d10/a27113.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
+    [ "Register", "d6/d10/a27113.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
+    [ "RemoveInvalidTargets", "d6/d10/a27113.html#a1374c764b20b95febbca44c593bde218", null ],
+    [ "Validate", "d6/d10/a27113.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
 ];

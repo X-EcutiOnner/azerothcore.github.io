@@ -1,23 +1,12 @@
 var a07389 =
 [
-    [ "AuctionHouseWorkerThread", "d6/d00/a07389.html#ac008f885bf78e4bfe1e847bcb9b39f04", null ],
-    [ "AddAuctionSearchUpdateToQueue", "d6/d00/a07389.html#afeef919ad04cfedbca376668997a69f4", null ],
-    [ "BuildListAuctionItems", "d6/d00/a07389.html#a4f645c52213b513d3869c3934fec56df", null ],
-    [ "GetSearchableAuctionMap", "d6/d00/a07389.html#a8f0ed06055dd0c50bb65017289c6104c", null ],
-    [ "ProcessSearchRequests", "d6/d00/a07389.html#a3cc7697e74c9acd6dd902a75044d64d3", null ],
-    [ "ProcessSearchUpdates", "d6/d00/a07389.html#a8901d50705c3e4a4977a547aef241d1d", null ],
-    [ "Run", "d6/d00/a07389.html#a78eb3d86cdb1f7590af5a5f54ac97b6a", null ],
-    [ "SearchBidderListRequest", "d6/d00/a07389.html#af23c367773406ed52439f21d4b288264", null ],
-    [ "SearchListRequest", "d6/d00/a07389.html#a2b455c5d62c280c97d30d3b02ce7601d", null ],
-    [ "SearchOwnerListRequest", "d6/d00/a07389.html#a99371b6ef770b00d4c32227392234732", null ],
-    [ "SearchUpdateAdd", "d6/d00/a07389.html#a64414f54c6a84546bee85eb4e46ae04f", null ],
-    [ "SearchUpdateBid", "d6/d00/a07389.html#ac42f800d004e90bc728df43d3c9c7244", null ],
-    [ "SearchUpdateRemove", "d6/d00/a07389.html#a31f1510cd146eac4718c6577caf72cc4", null ],
-    [ "Stop", "d6/d00/a07389.html#ae5e76c712f46e8801c2b63e335a246ff", null ],
-    [ "_auctionUpdatesQueue", "d6/d00/a07389.html#aecd36ccabd34131c42ec1d7964b8840a", null ],
-    [ "_requestQueue", "d6/d00/a07389.html#a8b92df23eb97b8f3b11c495dbdb15696", null ],
-    [ "_responseQueue", "d6/d00/a07389.html#a68a0b0ea5c3292989471f00346ca1318", null ],
-    [ "_searchableAuctionMap", "d6/d00/a07389.html#a68f698401f671fb75901daea75575ce0", null ],
-    [ "_stopped", "d6/d00/a07389.html#af4d4c4672e67953c7c909174652b99d1", null ],
-    [ "_workerThread", "d6/d00/a07389.html#a9a386c2dc09b128fd427d5a2b44653c5", null ]
+    [ "Type", "d6/d00/a07389.html#abfb75b18c4a43f1818cd78212c668109", [
+      [ "LIST", "d6/d00/a07389.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
+      [ "OWNER_LIST", "d6/d00/a07389.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
+      [ "BIDDER_LIST", "d6/d00/a07389.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
+    ] ],
+    [ "AuctionSearcherRequest", "d6/d00/a07389.html#afadcce053f82ae124263a501671f35e3", null ],
+    [ "~AuctionSearcherRequest", "d6/d00/a07389.html#a8122177f0ca9b5c2393e87998a15e950", null ],
+    [ "listFaction", "d6/d00/a07389.html#a1847f75715da2de1098d0f767163f62d", null ],
+    [ "requestType", "d6/d00/a07389.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
 ];

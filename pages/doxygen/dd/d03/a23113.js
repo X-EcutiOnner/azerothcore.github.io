@@ -1,6 +1,7 @@
 var a23113 =
 [
-    [ "OnPeriodic", "dd/d03/a23113.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
-    [ "PrepareAuraScript", "dd/d03/a23113.html#ac9231c238adf7e733d55bc6098daddc0", null ],
-    [ "Register", "dd/d03/a23113.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
+    [ "OnApply", "dd/d03/a23113.html#a301e47da9be4b4a449701c59c19bc62b", null ],
+    [ "PrepareAuraScript", "dd/d03/a23113.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
+    [ "Register", "dd/d03/a23113.html#aaf38547f7fa233b03429734dbe374f13", null ],
+    [ "Validate", "dd/d03/a23113.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
 ];

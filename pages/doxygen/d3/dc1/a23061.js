@@ -1,7 +1,7 @@
 var a23061 =
 [
-    [ "HandleScriptEffect", "d3/dc1/a23061.html#a0038e566bc5054e4208fd727fcc266fa", null ],
-    [ "PrepareSpellScript", "d3/dc1/a23061.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
-    [ "Register", "d3/dc1/a23061.html#a416b811c2676c598df0ac0e5906a94d3", null ],
-    [ "Validate", "d3/dc1/a23061.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
+    [ "HandleScript", "d3/dc1/a23061.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
+    [ "PrepareSpellScript", "d3/dc1/a23061.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
+    [ "Register", "d3/dc1/a23061.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
+    [ "Validate", "d3/dc1/a23061.html#a46aca18049e02d50f57579b3fdc705bd", null ]
 ];

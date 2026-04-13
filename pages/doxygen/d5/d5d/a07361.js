@@ -1,6 +1,6 @@
 var a07361 =
 [
-    [ "AuctionSearchBidderListRequest", "d5/d5d/a07361.html#a193c39468959c998a2ccae74342983d2", null ],
-    [ "outbiddedAuctionIds", "d5/d5d/a07361.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
-    [ "ownerGuid", "d5/d5d/a07361.html#a6fb69f4996993f264466c50e7485c4a6", null ]
+    [ "AuctionSortInfo", "d5/d5d/a07361.html#a4ceca7230706e6906942306595686502", null ],
+    [ "isDesc", "d5/d5d/a07361.html#a0077ee9a4d8727c460e07efd517ae0c6", null ],
+    [ "sortOrder", "d5/d5d/a07361.html#ac6afc258e0eca83f8e2fd8996e83231b", null ]
 ];

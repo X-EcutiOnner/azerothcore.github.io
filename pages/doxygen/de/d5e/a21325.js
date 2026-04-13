@@ -1,14 +1,9 @@
 var a21325 =
 [
-    [ "boss_erekemAI", "de/d5e/a21325.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
-    [ "EnterEvadeMode", "de/d5e/a21325.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
-    [ "GetChainHealTargetGUID", "de/d5e/a21325.html#aa346cbaded883bbb3806acf9cb32579a", null ],
-    [ "JustDied", "de/d5e/a21325.html#a12e7fb5389977dcacb4e1eadda771467", null ],
-    [ "JustEngagedWith", "de/d5e/a21325.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
-    [ "KilledUnit", "de/d5e/a21325.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
-    [ "MoveInLineOfSight", "de/d5e/a21325.html#a5905809cba20d426c4d222b1e91055bc", null ],
-    [ "Reset", "de/d5e/a21325.html#a338bbc123b1d3adef4f014c3302c4590", null ],
-    [ "UpdateAI", "de/d5e/a21325.html#a234ae447260ae30a137a53fb986e5dc4", null ],
-    [ "events", "de/d5e/a21325.html#a8d4445b6d35f534061818f7708f39f7e", null ],
-    [ "pInstance", "de/d5e/a21325.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
+    [ "npc_archmage_landalockAI", "de/d5e/a21325.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "de/d5e/a21325.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "de/d5e/a21325.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "de/d5e/a21325.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "de/d5e/a21325.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "de/d5e/a21325.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

@@ -1,10 +1,7 @@
 var a27657 =
 [
-    [ "CalculateAPAmount", "d0/dcf/a27657.html#ae76d10c68df1f149f83d4247122b47a7", null ],
-    [ "CalculateResistanceAmount", "d0/dcf/a27657.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
-    [ "CalculateSPAmount", "d0/dcf/a27657.html#a421996ca946d5b04c264718e6dd63fa9", null ],
-    [ "CalculateStatAmount", "d0/dcf/a27657.html#ae695515c915f2452dccb71aeb018f3a3", null ],
-    [ "HandleEffectApply", "d0/dcf/a27657.html#a207864c73e485e0db0fe47bde97d87a2", null ],
-    [ "PrepareAuraScript", "d0/dcf/a27657.html#a4179be48195872410bda69cac3454812", null ],
-    [ "Register", "d0/dcf/a27657.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
+    [ "CharacterDeleteActionIpLogger", "d0/dcf/a27657.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d0/dcf/a27657.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d0/dcf/a27657.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d0/dcf/a27657.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

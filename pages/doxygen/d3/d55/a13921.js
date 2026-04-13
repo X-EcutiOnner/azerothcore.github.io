@@ -1,8 +1,6 @@
 var a13921 =
 [
-    [ "HandleApply", "d3/d55/a13921.html#a9dce02909356193476e66586aee87f1d", null ],
-    [ "OnPeriodic", "d3/d55/a13921.html#add4f000f81d5d4112719c6dd7464163c", null ],
-    [ "PrepareAuraScript", "d3/d55/a13921.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
-    [ "Register", "d3/d55/a13921.html#abc349f12f375b1f284eb78a363e8172a", null ],
-    [ "Validate", "d3/d55/a13921.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "db/d51/a13925.html", "db/d51/a13925" ],
+    [ "npc_bh_thalorien_dawnseeker", "d3/d55/a13921.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
+    [ "GetAI", "d3/d55/a13921.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
 ];

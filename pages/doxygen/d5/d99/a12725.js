@@ -1,6 +1,6 @@
 var a12725 =
 [
-    [ "go_chromaggus_leverAI", "d5/d99/a12725.html#a51406a7e313702282cebfbf067c9ce4e", null ],
-    [ "GossipHello", "d5/d99/a12725.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
-    [ "_instance", "d5/d99/a12725.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
+    [ "HandleOnHit", "d5/d99/a12725.html#a804097903354ab3a730f0fe3eb5ec863", null ],
+    [ "PrepareSpellScript", "d5/d99/a12725.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
+    [ "Register", "d5/d99/a12725.html#a53bed6f1af71fd309a04bc004d07be80", null ]
 ];

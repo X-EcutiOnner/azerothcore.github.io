@@ -1,6 +1,7 @@
 var a23489 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "db/d53/a23493.html", "db/d53/a23493" ],
-    [ "instance_gruuls_lair", "d5/d2a/a23489.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "d5/d2a/a23489.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "Load", "d5/d2a/a23489.html#aba7e1a0b87607386649bb842b5058c3e", null ],
+    [ "OnRemove", "d5/d2a/a23489.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
+    [ "PrepareAuraScript", "d5/d2a/a23489.html#ac62b18eedbadb0b3581d772909175e96", null ],
+    [ "Register", "d5/d2a/a23489.html#a17e8be131f01b2434b18740b20a08d6e", null ]
 ];

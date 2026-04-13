@@ -1,9 +1,8 @@
 var a24021 =
 [
-    [ "npc_fel_guard_houndAI", "d7/d13/a24021.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "d7/d13/a24021.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "d7/d13/a24021.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "d7/d13/a24021.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "d7/d13/a24021.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "d7/d13/a24021.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "npc_pet_gen_wind_rider_cub", "d7/d13/a24021.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "d7/d13/a24021.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "d7/d13/a24021.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "d7/d13/a24021.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "d7/d13/a24021.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

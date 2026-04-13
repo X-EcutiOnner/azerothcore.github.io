@@ -1,6 +1,7 @@
 var a18849 =
 [
-    [ "npc_terenas_menethilAI", "d0/d9a/a18853.html", "d0/d9a/a18853" ],
-    [ "npc_terenas_menethil", "db/de2/a18849.html#a6b6850598c582e3d44c13275302fd32d", null ],
-    [ "GetAI", "db/de2/a18849.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
+    [ "npc_captain_arnathAI", "db/de2/a18849.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "db/de2/a18849.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "db/de2/a18849.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "db/de2/a18849.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

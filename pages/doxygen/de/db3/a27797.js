@@ -1,8 +1,6 @@
 var a27797 =
 [
-    [ "CheckProc", "de/db3/a27797.html#ae202a117ff86eee618dfdf4600746de5", null ],
-    [ "HandleProc", "de/db3/a27797.html#a28c409af8e7a8115ce86f2a51fff1afd", null ],
-    [ "PrepareAuraScript", "de/db3/a27797.html#a334db12ee8ed29b34269a0ca3172d7b4", null ],
-    [ "Register", "de/db3/a27797.html#a392724c604ce325415aaa3410e18a60c", null ],
-    [ "Validate", "de/db3/a27797.html#af0b153ca9e28a3cdc06a30ff30b46f39", null ]
+    [ "go_tadpole_cageAI", "d2/dc4/a27801.html", "d2/dc4/a27801" ],
+    [ "go_tadpole_cage", "de/db3/a27797.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "de/db3/a27797.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

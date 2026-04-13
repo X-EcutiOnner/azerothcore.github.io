@@ -1,5 +1,5 @@
 var a27985 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "d0/d19/a27985.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "d0/d19/a27985.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "item_incendiary_explosives", "d0/d19/a27985.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "d0/d19/a27985.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

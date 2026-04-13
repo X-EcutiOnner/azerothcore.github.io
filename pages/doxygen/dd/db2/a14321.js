@@ -1,7 +1,9 @@
 var a14321 =
 [
-    [ "HandleDispel", "dd/db2/a14321.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "dd/db2/a14321.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "dd/db2/a14321.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "dd/db2/a14321.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "boss_hazzarah", "dd/db2/a14321.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "dd/db2/a14321.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "dd/db2/a14321.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "dd/db2/a14321.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "dd/db2/a14321.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "dd/db2/a14321.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

@@ -1,6 +1,17 @@
 var a22157 =
 [
-    [ "npc_vekjik", "dd/d54/a22157.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "dd/d54/a22157.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "dd/d54/a22157.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "OutdoorPvPHP", "dd/d54/a22157.html#a19118d7facc4a745e391491fb7d95421", null ],
+    [ "FillInitialWorldStates", "dd/d54/a22157.html#a4ecc55395f1f792075e07026e1ccd171", null ],
+    [ "GetAllianceTowersControlled", "dd/d54/a22157.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
+    [ "GetHordeTowersControlled", "dd/d54/a22157.html#a9395b6966bcdd36b448ca1c403f17873", null ],
+    [ "HandleKillImpl", "dd/d54/a22157.html#aad7804f10c42f6643397d673ba4e9bee", null ],
+    [ "HandlePlayerEnterZone", "dd/d54/a22157.html#a117149e3db7fa02fdcfab05a6ff6de18", null ],
+    [ "HandlePlayerLeaveZone", "dd/d54/a22157.html#abf21499824ad64aa7a26a4b33090783e", null ],
+    [ "SendRemoveWorldStates", "dd/d54/a22157.html#ac94c44783b2141c751d5c16a24bce8d4", null ],
+    [ "SetAllianceTowersControlled", "dd/d54/a22157.html#a1f9bbc083ae0bb7c00a303909ab043f5", null ],
+    [ "SetHordeTowersControlled", "dd/d54/a22157.html#ae5de375e1ec88dc5ce0059490596a935", null ],
+    [ "SetupOutdoorPvP", "dd/d54/a22157.html#aee60f1d1da4d6eecd0e66cf975272979", null ],
+    [ "Update", "dd/d54/a22157.html#aeec44f41e6d6fe7c768bb738a3eafb47", null ],
+    [ "m_AllianceTowersControlled", "dd/d54/a22157.html#a90c41df874abfee0a4861cf923de9ab5", null ],
+    [ "m_HordeTowersControlled", "dd/d54/a22157.html#ada8244f57fe3a693d167689d3f921025", null ]
 ];

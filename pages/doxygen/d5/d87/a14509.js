@@ -1,6 +1,6 @@
 var a14509 =
 [
-    [ "FilterTargets", "d5/d87/a14509.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "d5/d87/a14509.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "d5/d87/a14509.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "HandleEffectApply", "d5/d87/a14509.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
+    [ "PrepareAuraScript", "d5/d87/a14509.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
+    [ "Register", "d5/d87/a14509.html#a2b39daf6fe325cfa909b964da62c2571", null ]
 ];

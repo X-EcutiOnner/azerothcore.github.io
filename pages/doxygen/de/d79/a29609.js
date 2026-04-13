@@ -1,6 +1,7 @@
 var a29609 =
 [
-    [ "hasInstantTargetProcs", "de/d79/a29609.html#a043a2884a456208d85bc3bf8d4733682", null ],
-    [ "isRemoved", "de/d79/a29609.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
-    [ "spellId", "de/d79/a29609.html#aee26a119051d638047018aeb93d593f6", null ]
+    [ "fcc", "de/d79/a29609.html#afbaa5fdd612d1c93f7f07aa299d144ad", null ],
+    [ "fcc_txt", "de/d79/a29609.html#a89ed22b0a63dae9f1443309e54e9e421", null ],
+    [ "size", "de/d79/a29609.html#a0b9002c302e4dfef6dc533bf8c5bcdcc", null ],
+    [ "ver", "de/d79/a29609.html#adb92d3e9f7e35255a2e6e147d51ba8fc", null ]
 ];

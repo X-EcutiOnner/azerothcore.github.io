@@ -1,8 +1,7 @@
 var a11109 =
 [
-    [ "SellItem", "d8/d94/a11109.html#a5c7bdfba6d948b9fdaea3416bce03e5e", null ],
-    [ "Read", "d8/d94/a11109.html#a7387e53c30f41dc8f5fd3ffbe4e4a347", null ],
-    [ "Count", "d8/d94/a11109.html#a0116f5d02f18bf1a315fbf81b6467239", null ],
-    [ "ItemGuid", "d8/d94/a11109.html#a92ae3a3dc04a699c4f201026c08974ca", null ],
-    [ "VendorGuid", "d8/d94/a11109.html#a13200b200096a11e93a6d23fd6122378", null ]
+    [ "InstanceResetFailed", "d8/d94/a11109.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "d8/d94/a11109.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "d8/d94/a11109.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "d8/d94/a11109.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

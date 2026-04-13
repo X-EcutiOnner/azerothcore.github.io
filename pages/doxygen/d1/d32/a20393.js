@@ -1,8 +1,5 @@
 var a20393 =
 [
-    [ "OnApply", "d1/d32/a20393.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "d1/d32/a20393.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "d1/d32/a20393.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "d1/d32/a20393.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "d1/d32/a20393.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "npc_ulduar_rocket_strike_trigger", "d1/d32/a20393.html#a14fc5830fe192856bd7c99f78de91070", null ],
+    [ "SpellHitTarget", "d1/d32/a20393.html#ad4a438c5143a6de2b469baa28f0893c5", null ]
 ];

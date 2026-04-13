@@ -1,6 +1,5 @@
 var a22997 =
 [
-    [ "HandleDummy", "dc/d75/a22997.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
-    [ "PrepareSpellScript", "dc/d75/a22997.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
-    [ "Register", "dc/d75/a22997.html#a972574075c86c32593982add71dc893f", null ]
+    [ "at_quagmirran_lair", "dc/d75/a22997.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "dc/d75/a22997.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

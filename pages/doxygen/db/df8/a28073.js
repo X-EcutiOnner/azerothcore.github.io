@@ -1,9 +1,13 @@
 var a28073 =
 [
-    [ "boss_ysondreAI", "db/df8/a28073.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
-    [ "DamageTaken", "db/df8/a28073.html#a99ee250e776001bb142815fc711ae75d", null ],
-    [ "ExecuteEvent", "db/df8/a28073.html#a88e3caa536a71730c757590be1bd3de1", null ],
-    [ "JustEngagedWith", "db/df8/a28073.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
-    [ "Reset", "db/df8/a28073.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
-    [ "_stage", "db/df8/a28073.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
+    [ "npc_nelsonAI", "db/df8/a28073.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "db/df8/a28073.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "db/df8/a28073.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "db/df8/a28073.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "db/df8/a28073.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "db/df8/a28073.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "db/df8/a28073.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "db/df8/a28073.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "db/df8/a28073.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "db/df8/a28073.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

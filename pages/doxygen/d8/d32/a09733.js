@@ -1,7 +1,8 @@
 var a09733 =
 [
-    [ "ObjectTypeIdCheck", "d8/d32/a09733.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
-    [ "operator()", "d8/d32/a09733.html#a9cbd09a6021bef7819a0002952264293", null ],
-    [ "_equals", "d8/d32/a09733.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
-    [ "_typeId", "d8/d32/a09733.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
+    [ "AllCreaturesOfEntryInRange", "d8/d32/a09733.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "d8/d32/a09733.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "d8/d32/a09733.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "d8/d32/a09733.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "d8/d32/a09733.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

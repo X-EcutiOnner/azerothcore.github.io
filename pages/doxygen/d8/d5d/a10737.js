@@ -1,6 +1,6 @@
 var a10737 =
 [
-    [ "BuyBankSlot", "d8/d5d/a10737.html#a0bc11087e9359c6ac762f915b11287d8", null ],
-    [ "Read", "d8/d5d/a10737.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
-    [ "Banker", "d8/d5d/a10737.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
+    [ "WorldMapScript", "d8/d5d/a10737.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
+    [ "checkValidity", "d8/d5d/a10737.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "d8/d5d/a10737.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

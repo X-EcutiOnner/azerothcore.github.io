@@ -1,7 +1,7 @@
 var a28185 =
 [
-    [ "go_bear_trapAI", "d0/dbe/a28185.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d0/dbe/a28185.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d0/dbe/a28185.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d0/dbe/a28185.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "npc_steam_tonkAI", "d0/dbe/a28185.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "d0/dbe/a28185.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "d0/dbe/a28185.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "d0/dbe/a28185.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

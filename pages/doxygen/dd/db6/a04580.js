@@ -1,13 +1,12 @@
 var a04580 =
 [
-    [ "instance_halls_of_lightning", "d6/d39/a19715.html", "d6/d39/a19715" ],
-    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "d6/d3a/a19719.html", "d6/d3a/a19719" ],
-    [ "at_hol_hall_of_watchers", "d1/d60/a19723.html", "d1/d60/a19723" ],
-    [ "TitaniumHallwaySpells", "dd/db6/a04580.html#acb18ad00890035d01ae1c735f67fd0c8", [
-      [ "SPELL_FREEZE_ANIM", "dd/db6/a04580.html#acb18ad00890035d01ae1c735f67fd0c8a09463e66b152e3f856401806af0a4823", null ],
-      [ "SPELL_AWAKEN", "dd/db6/a04580.html#acb18ad00890035d01ae1c735f67fd0c8a76e1fd225869c359917096a4030f4799", null ]
-    ] ],
-    [ "AddSC_instance_halls_of_lightning", "dd/db6/a04580.html#acb5e7d848388449d05e307ed07fbcfc6", null ],
-    [ "doorData", "dd/db6/a04580.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "dd/db6/a04580.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "CSymbolInfoPackage", "d8/d42/a05465.html", "d8/d42/a05465" ],
+    [ "_NO_CVCONST_H", "dd/db6/a04580.html#af8660cbefcf140a8992e862e401bc473", null ],
+    [ "CrashFolder", "dd/db6/a04580.html#a55b3d8676a4478f058eeb12d4e8b35b2", null ],
+    [ "EXCEPTION", "dd/db6/a04580.html#a04a8ef8e5d1a39a04fed031f53ffa2db", null ],
+    [ "WIN32_LEAN_AND_MEAN", "dd/db6/a04580.html#ac7bef5d85e3dcd73eef56ad39ffc84a9", null ],
+    [ "ErrorMessage", "dd/db6/a04580.html#a75b4eb6a99991d301f7d44683ce13c9e", null ],
+    [ "ToTchar", "dd/db6/a04580.html#a9f2ce59205c508258855d0568854e367", null ],
+    [ "ToTchar", "dd/db6/a04580.html#a74d70382aec7501d6df3dcb969b85902", null ],
+    [ "g_WheatyExceptionReport", "dd/db6/a04580.html#a9fff8ce906026fe3179e50e97182d90d", null ]
 ];

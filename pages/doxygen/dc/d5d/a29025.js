@@ -1,5 +1,7 @@
 var a29025 =
 [
-    [ "ID", "dc/d5d/a29025.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "dc/d5d/a29025.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "from", "dc/d5d/a29025.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
+    [ "ID", "dc/d5d/a29025.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
+    [ "price", "dc/d5d/a29025.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
+    [ "to", "dc/d5d/a29025.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
 ];

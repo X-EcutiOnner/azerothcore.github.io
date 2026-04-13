@@ -1,4 +1,7 @@
 var a18921 =
 [
-    [ "operator()", "da/d86/a18921.html#adb7207ebbfe52e2f84f9b8d3249b54d1", null ]
+    [ "HandleQuestComplete", "da/d86/a18921.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "da/d86/a18921.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "da/d86/a18921.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "da/d86/a18921.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

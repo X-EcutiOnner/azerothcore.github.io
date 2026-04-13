@@ -1,12 +1,8 @@
 var a05581 =
 [
-    [ "AppenderConsole", "d7/df4/a05581.html#aaf770a87f2151a7e6f92087751528c68", null ],
-    [ "_write", "d7/df4/a05581.html#a94e529229bd707fa2bad0a0206a386d5", null ],
-    [ "getType", "d7/df4/a05581.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
-    [ "InitColors", "d7/df4/a05581.html#a1a4deceeafc9a111a519ea55dc646266", null ],
-    [ "ResetColor", "d7/df4/a05581.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
-    [ "SetColor", "d7/df4/a05581.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
-    [ "_colored", "d7/df4/a05581.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
-    [ "_colors", "d7/df4/a05581.html#acdf277241cd25715e48500a15ab6bd30", null ],
-    [ "type", "d7/df4/a05581.html#ab5cbc074f7d9306838974863913c8a5b", null ]
+    [ "Decode", "d7/df4/a05581.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
+    [ "Encode", "d7/df4/a05581.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
+    [ "BITS_PER_CHAR", "d7/df4/a05581.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
+    [ "DECODE_ERROR", "d7/df4/a05581.html#ace6b211be8a36043942f0a1aaee063b1", null ],
+    [ "PADDING", "d7/df4/a05581.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
 ];

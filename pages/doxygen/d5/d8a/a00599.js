@@ -1,21 +1,9 @@
 var a00599 =
 [
-    [ "map_fileheader", "dd/d93/a09398.html", "dd/d93/a09398" ],
-    [ "map_heightHeader", "d8/d13/a09406.html", "d8/d13/a09406" ],
-    [ "map_liquidHeader", "d0/dc8/a09410.html", "d0/dc8/a09410" ],
-    [ "MAP_HEIGHT_AS_INT16", "d5/d8a/a00599.html#aefa74fa33f3eba2d39b407c2fd2e8aba", null ],
-    [ "MAP_HEIGHT_AS_INT8", "d5/d8a/a00599.html#a15a9245a53c00f1a8a89dd2d798cea9d", null ],
-    [ "MAP_HEIGHT_NO_HEIGHT", "d5/d8a/a00599.html#aa5c2437972b2be5c5ff23a7ac04e2680", null ],
-    [ "MAP_LIQUID_NO_HEIGHT", "d5/d8a/a00599.html#a59daadc7c96729526e05982ec6600bb1", null ],
-    [ "MAP_LIQUID_NO_TYPE", "d5/d8a/a00599.html#a42b8b790a3d284e7116bcad1c391b8f9", null ],
-    [ "MAP_LIQUID_TYPE_DARK_WATER", "d5/d8a/a00599.html#a661f965d11d7da56890b64484d871441", null ],
-    [ "MAP_LIQUID_TYPE_MAGMA", "d5/d8a/a00599.html#a14e2a0a2291347b0ef877bc9d70f7384", null ],
-    [ "MAP_LIQUID_TYPE_NO_WATER", "d5/d8a/a00599.html#a17d4c5ea32412f0fbe04a27f63d50e13", null ],
-    [ "MAP_LIQUID_TYPE_OCEAN", "d5/d8a/a00599.html#a6d257e0effb928fba7534eeee5de602d", null ],
-    [ "MAP_LIQUID_TYPE_SLIME", "d5/d8a/a00599.html#aa56f76510545ed9c706b8fee3061b6cb", null ],
-    [ "MAP_LIQUID_TYPE_WATER", "d5/d8a/a00599.html#a5ec110bd30ec47fcd087aaf5d572de28", null ],
-    [ "holetab_h", "d5/d8a/a00599.html#abeb39e913287295598939165f99abe3b", null ],
-    [ "holetab_v", "d5/d8a/a00599.html#a8c5ddef856ef804076860bb176c6d9e1", null ],
-    [ "MAP_FILE_NAME_FORMAT", "d5/d8a/a00599.html#a1d57d156046bda88886b7488ab0b83bc", null ],
-    [ "MAP_VERSION_MAGIC", "d5/d8a/a00599.html#aee23c8e21c084824373ce587f8fe1f04", null ]
+    [ "DatabaseScript", "da/d42/a10621.html", "da/d42/a10621" ],
+    [ "DatabaseHook", "d5/d8a/a00599.html#a5f7dd71299279ad5a845d4d4030e707e", [
+      [ "DATABASEHOOK_ON_AFTER_DATABASES_LOADED", "d5/d8a/a00599.html#a5f7dd71299279ad5a845d4d4030e707ea669793dd5bb736daf7bf4e7a57422171", null ],
+      [ "DATABASEHOOK_ON_AFTER_DATABASE_LOAD_CREATURETEMPLATES", "d5/d8a/a00599.html#a5f7dd71299279ad5a845d4d4030e707ea5da0ac4b05308347ca9a69286153d974", null ],
+      [ "DATABASEHOOK_END", "d5/d8a/a00599.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04", null ]
+    ] ]
 ];

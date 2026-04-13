@@ -1,6 +1,6 @@
 var a25505 =
 [
-    [ "HandleScript", "d8/de1/a25505.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
-    [ "PrepareSpellScript", "d8/de1/a25505.html#a16c358062cee300e4c54f046a6c1accf", null ],
-    [ "Register", "d8/de1/a25505.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
+    [ "PrepareSpellScript", "d8/de1/a25505.html#a3a77016a3a8314969ce41cc6483761ec", null ],
+    [ "Register", "d8/de1/a25505.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
+    [ "SetDest", "d8/de1/a25505.html#a724217c09faa57ec2e6dad034e8709ed", null ]
 ];

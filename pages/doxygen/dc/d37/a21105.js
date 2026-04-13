@@ -1,10 +1,6 @@
 var a21105 =
 [
-    [ "npc_dragonflayer_forge_master", "dc/d37/a21105.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "dc/d37/a21105.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "dc/d37/a21105.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "dc/d37/a21105.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "dc/d37/a21105.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "dc/d37/a21105.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "dc/d37/a21105.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "instance_violet_hold_InstanceMapScript", "d1/d62/a21109.html", "d1/d62/a21109" ],
+    [ "instance_violet_hold", "dc/d37/a21105.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "dc/d37/a21105.html#ab459840bcb0c8bcc58d20e658be0f63a", null ]
 ];

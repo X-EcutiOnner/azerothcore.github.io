@@ -1,7 +1,6 @@
 var a12849 =
 [
-    [ "HandleEffectScriptEffect", "da/db2/a12849.html#a8157c4b213b3b4e260222976e283e2ae", null ],
-    [ "PrepareSpellScript", "da/db2/a12849.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
-    [ "Register", "da/db2/a12849.html#aeda056b568b4956ba35b32a3f20c053e", null ],
-    [ "Validate", "da/db2/a12849.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
+    [ "bossId", "da/db2/a12849.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
+    [ "circleId", "da/db2/a12849.html#aaa379e61fda2f7225ab4089757df5d24", null ],
+    [ "runeId", "da/db2/a12849.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
 ];

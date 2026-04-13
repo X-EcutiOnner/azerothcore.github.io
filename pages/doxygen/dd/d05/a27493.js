@@ -1,7 +1,8 @@
 var a27493 =
 [
-    [ "HandleEffectProc", "dd/d05/a27493.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
-    [ "PrepareAuraScript", "dd/d05/a27493.html#a47d844a9700cd8add793e3f3088d1b82", null ],
-    [ "Register", "dd/d05/a27493.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
-    [ "Validate", "dd/d05/a27493.html#a97f5239399e7135b02000722eaf837ad", null ]
+    [ "HandleDamage", "dd/d05/a27493.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "dd/d05/a27493.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "dd/d05/a27493.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "dd/d05/a27493.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "dd/d05/a27493.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

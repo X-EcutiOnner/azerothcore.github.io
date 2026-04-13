@@ -1,6 +1,11 @@
 var a24161 =
 [
-    [ "npc_drake_dealer_hurlunk", "df/d00/a24161.html#ae6d095365d23c30d5b772b047b459ddb", null ],
-    [ "OnGossipHello", "df/d00/a24161.html#ad04b7f906f029d9935e29c585b0de421", null ],
-    [ "OnGossipSelect", "df/d00/a24161.html#aa23833dcdefb909899120c25d5376111", null ]
+    [ "CalcPeriodic", "df/d00/a24161.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
+    [ "CalculateHasteAmount", "df/d00/a24161.html#a75d428e0b3619d53bd9436712d2e394e", null ],
+    [ "CalculateSPAmount", "df/d00/a24161.html#a81805b43a47065281f83889d8be95c54", null ],
+    [ "CalculateStatAmount", "df/d00/a24161.html#a763276aaa00bb6953e0b52118662e7a8", null ],
+    [ "HandleEffectApply", "df/d00/a24161.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
+    [ "HandlePeriodic", "df/d00/a24161.html#ab3c7d479eae88ab4a59b06610af19429", null ],
+    [ "PrepareAuraScript", "df/d00/a24161.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
+    [ "Register", "df/d00/a24161.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
 ];

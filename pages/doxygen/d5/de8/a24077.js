@@ -1,6 +1,9 @@
 var a24077 =
 [
-    [ "npc_commander_dawnforgeAI", "d7/d1a/a24081.html", "d7/d1a/a24081" ],
-    [ "npc_commander_dawnforge", "d5/de8/a24077.html#ab4d430725f68f906e9c8def66b1d6646", null ],
-    [ "GetAI", "d5/de8/a24077.html#a6089b087b7c3b18659e23c677814318b", null ]
+    [ "npc_pet_shaman_earth_elemental", "d5/de8/a24077.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "d5/de8/a24077.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "d5/de8/a24077.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "d5/de8/a24077.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "d5/de8/a24077.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "d5/de8/a24077.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

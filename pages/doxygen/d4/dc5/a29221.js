@@ -1,9 +1,5 @@
 var a29221 =
 [
-    [ "itemId", "d4/dc5/a29221.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "d4/dc5/a29221.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "d4/dc5/a29221.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "d4/dc5/a29221.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "d4/dc5/a29221.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "d4/dc5/a29221.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "auraHasDisableProcAttr", "d4/dc5/a29221.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
+    [ "triggeringSpellIsProcDisabled", "d4/dc5/a29221.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
 ];

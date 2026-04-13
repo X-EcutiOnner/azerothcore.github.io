@@ -1,6 +1,6 @@
 var a16037 =
 [
-    [ "SpellId", "d2/d64/a16037.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d2/d64/a16037.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d2/d64/a16037.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "creatureID", "d2/d64/a16037.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d2/d64/a16037.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d2/d64/a16037.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

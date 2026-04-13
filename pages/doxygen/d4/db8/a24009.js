@@ -1,6 +1,8 @@
 var a24009 =
 [
-    [ "npc_wounded_blood_elfAI", "d5/db8/a24013.html", "d5/db8/a24013" ],
-    [ "npc_wounded_blood_elf", "d4/db8/a24009.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "d4/db8/a24009.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "npc_pet_gen_valkyr_guardian", "d4/db8/a24009.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "d4/db8/a24009.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "d4/db8/a24009.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "d4/db8/a24009.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "d4/db8/a24009.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

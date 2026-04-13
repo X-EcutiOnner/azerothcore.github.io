@@ -1,9 +1,8 @@
 var a09741 =
 [
-    [ "UnitAuraCheck", "d2/d27/a09741.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "d2/d27/a09741.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "d2/d27/a09741.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "d2/d27/a09741.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "d2/d27/a09741.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "d2/d27/a09741.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "MostHPMissingGroupInRange", "d2/d27/a09741.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
+    [ "operator()", "d2/d27/a09741.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
+    [ "i_hp", "d2/d27/a09741.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
+    [ "i_obj", "d2/d27/a09741.html#ae0d85f9738301b40c3e950b02ee20026", null ],
+    [ "i_range", "d2/d27/a09741.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
 ];

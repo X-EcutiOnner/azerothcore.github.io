@@ -1,11 +1,7 @@
 var a06157 =
 [
-    [ "AppliedFileEntry", "d9/d8a/a06157.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
-    [ "GetStateAsString", "d9/d8a/a06157.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
-    [ "StateConvert", "d9/d8a/a06157.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
-    [ "StateConvert", "d9/d8a/a06157.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
-    [ "hash", "d9/d8a/a06157.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
-    [ "name", "d9/d8a/a06157.html#a8fc429eae6816054b5828952a5698a4c", null ],
-    [ "state", "d9/d8a/a06157.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
-    [ "timestamp", "d9/d8a/a06157.html#a13703e88b76f26858696b33a8bc8f862", null ]
+    [ "TransactionWithResultTask", "d9/d8a/a06157.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "d9/d8a/a06157.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "d9/d8a/a06157.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "d9/d8a/a06157.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

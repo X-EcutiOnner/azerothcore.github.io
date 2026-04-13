@@ -1,6 +1,6 @@
 var a16733 =
 [
-    [ "FilterTargets", "da/d46/a16733.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "da/d46/a16733.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "da/d46/a16733.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "npc_toc_hunterAI", "d6/d8f/a16737.html", "d6/d8f/a16737" ],
+    [ "npc_toc_hunter", "da/d46/a16733.html#a73d4113df71626af7b8294e08373965e", null ],
+    [ "GetAI", "da/d46/a16733.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
 ];

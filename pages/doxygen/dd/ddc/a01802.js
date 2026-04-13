@@ -1,26 +1,29 @@
 var a01802 =
 [
-    [ "boss_the_black_stalker", "db/d03/a23122.html", "db/d03/a23122" ],
-    [ "spell_the_black_stalker_levitate", "d3/db8/a23126.html", "d3/db8/a23126" ],
-    [ "spell_the_black_stalker_levitation_pulse", "dc/d86/a23130.html", "dc/d86/a23130" ],
-    [ "spell_the_black_stalker_someone_grab_me", "dd/d01/a23134.html", "dd/d01/a23134" ],
-    [ "spell_the_black_stalker_magnetic_pull", "d4/d2e/a23138.html", "d4/d2e/a23138" ],
-    [ "eBlackStalker", "dd/ddc/a01802.html#afbee42c6927db9ad2cf9d9096eeac954", [
-      [ "SPELL_ACID_BREATH", "d6/dfc/a01814.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
-      [ "SPELL_ACID_SPIT", "d6/dfc/a01814.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],
-      [ "SPELL_TAIL_SWEEP", "d6/dfc/a01814.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823", null ],
-      [ "SPELL_ENRAGE", "d6/dfc/a01814.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "ACTION_MOVE_TO_PLATFORM", "d6/dfc/a01814.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa", null ],
-      [ "SPELL_LEVITATE", "dd/ddc/a01802.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2", null ],
-      [ "SPELL_CHAIN_LIGHTNING", "dd/ddc/a01802.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_STATIC_CHARGE", "dd/ddc/a01802.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0", null ],
-      [ "SPELL_SUMMON_SPORE_STRIDER", "dd/ddc/a01802.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed", null ],
-      [ "SPELL_LEVITATION_PULSE", "dd/ddc/a01802.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1", null ],
-      [ "SPELL_SOMEONE_GRAB_ME", "dd/ddc/a01802.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b", null ],
-      [ "SPELL_MAGNETIC_PULL", "dd/ddc/a01802.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5", null ],
-      [ "SPELL_SUSPENSION_PRIMER", "dd/ddc/a01802.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de", null ],
-      [ "SPELL_SUSPENSION", "dd/ddc/a01802.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0", null ],
-      [ "ENTRY_SPORE_STRIDER", "dd/ddc/a01802.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2", null ]
+    [ "PallidHorrorPaths", "dd/ddc/a01802.html#ad2d2b5f255f79a9389125d179974fa6c", [
+      [ "PATH_STORMWIND_KEEP", "dd/ddc/a01802.html#ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589", null ],
+      [ "PATH_STORMWIND_TRADE_DISTRICT", "dd/ddc/a01802.html#ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c", null ],
+      [ "PATH_UNDERCITY_TRADE_QUARTER", "dd/ddc/a01802.html#ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130", null ],
+      [ "PATH_UNDERCITY_ROYAL_QUARTER", "dd/ddc/a01802.html#ad2d2b5f255f79a9389125d179974fa6caa4c7de27637688faf47903d52c69102b", null ]
     ] ],
-    [ "AddSC_boss_the_black_stalker", "dd/ddc/a01802.html#aed8364eb84dab70c060c0a88e6522a7c", null ]
+    [ "WorldStateSunsReachQuests", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704", [
+      [ "QUEST_ERRATIC_BEHAVIOR", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24", null ],
+      [ "QUEST_SANCTUM_WARDS", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0", null ],
+      [ "QUEST_BATTLE_FOR_THE_SUNS_REACH_ARMORY", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a", null ],
+      [ "QUEST_DISTRACTION_AT_THE_DEAD_SCAR", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873", null ],
+      [ "QUEST_INTERCEPTING_THE_MANA_CELLS", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377", null ],
+      [ "QUEST_INTERCEPT_THE_REINFORCEMENTS", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5", null ],
+      [ "QUEST_TAKING_THE_HARBOR", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3", null ],
+      [ "QUEST_MAKING_READY", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430", null ],
+      [ "QUEST_DISCOVERING_YOUR_ROOTS", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158", null ],
+      [ "QUEST_A_CHARITABLE_DONATION", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b", null ],
+      [ "QUEST_A_MAGNANIMOUS_BENEFACTOR", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4", null ],
+      [ "COUNTER_MAX_VAL_REQ", "dd/ddc/a01802.html#ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5", null ]
+    ] ],
+    [ "WorldStateSunwellGateQuests", "dd/ddc/a01802.html#ab96270d11fbb117a1f967bc0d80f91ca", [
+      [ "QUEST_AGAMATH_THE_FIRST_GATE", "dd/ddc/a01802.html#ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb", null ],
+      [ "QUEST_ROHENDOR_THE_SECOND_GATE", "dd/ddc/a01802.html#ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52", null ],
+      [ "QUEST_ARCHONISUS_THE_FINAL_GATE", "dd/ddc/a01802.html#ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc", null ],
+      [ "COUNTER_MAX_VAL_REQ_SWP_GATES", "dd/ddc/a01802.html#ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5", null ]
+    ] ]
 ];

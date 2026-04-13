@@ -1,7 +1,6 @@
 var a22321 =
 [
-    [ "HandleDummy", "d9/dc0/a22321.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "d9/dc0/a22321.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "d9/dc0/a22321.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "d9/dc0/a22321.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "PrepareSpellScript", "d9/dc0/a22321.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
+    [ "Register", "d9/dc0/a22321.html#aa41700bf097963c5a352442723181037", null ],
+    [ "SelectTarget", "d9/dc0/a22321.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
 ];

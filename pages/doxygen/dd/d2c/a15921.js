@@ -1,6 +1,7 @@
 var a15921 =
 [
-    [ "npc_tiger_matriarch_creditAI", "dd/d2c/a15921.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "dd/d2c/a15921.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "dd/d2c/a15921.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "npc_toogaAI", "d5/dc9/a15925.html", "d5/dc9/a15925" ],
+    [ "npc_tooga", "dd/d2c/a15921.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "dd/d2c/a15921.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "dd/d2c/a15921.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

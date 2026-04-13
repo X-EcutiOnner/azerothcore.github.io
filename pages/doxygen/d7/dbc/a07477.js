@@ -1,7 +1,12 @@
 var a07477 =
 [
-    [ "ArenaSeasonReward", "d7/dbc/a07477.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
-    [ "operator==", "d7/dbc/a07477.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
-    [ "entry", "d7/dbc/a07477.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
-    [ "type", "d7/dbc/a07477.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
+    [ "damageText", "d7/dbc/a07477.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
+    [ "destroyText", "d7/dbc/a07477.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
+    [ "entry", "d7/dbc/a07477.html#a58d0395a47190698d309e80d91358bb1", null ],
+    [ "o", "d7/dbc/a07477.html#a21238943701f594e1a5346193c895d33", null ],
+    [ "type", "d7/dbc/a07477.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
+    [ "WorldState", "d7/dbc/a07477.html#a4b4881aba2d297e125443f0c8ccab618", null ],
+    [ "x", "d7/dbc/a07477.html#a80ebabba7265753a05367a4c79f6450c", null ],
+    [ "y", "d7/dbc/a07477.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
+    [ "z", "d7/dbc/a07477.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
 ];

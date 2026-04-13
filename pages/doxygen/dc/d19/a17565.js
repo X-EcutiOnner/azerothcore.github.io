@@ -1,6 +1,6 @@
 var a17565 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d9/df7/a17569.html", "d9/df7/a17569" ],
-    [ "npc_pos_collapsing_icicle", "dc/d19/a17565.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "dc/d19/a17565.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "PrepareSpellScript", "dc/d19/a17565.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "dc/d19/a17565.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "dc/d19/a17565.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

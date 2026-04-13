@@ -1,5 +1,6 @@
 var a11433 =
 [
-    [ "SocketIPBytes", "d5/d8a/a11433.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
-    [ "SocketPort", "d5/d8a/a11433.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
+    [ "TotemDestroyed", "d5/d8a/a11433.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
+    [ "Read", "d5/d8a/a11433.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
+    [ "Slot", "d5/d8a/a11433.html#a41eebde65aa696c2dec812da0aeab633", null ]
 ];

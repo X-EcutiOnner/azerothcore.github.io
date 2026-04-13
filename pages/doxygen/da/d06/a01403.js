@@ -1,72 +1,257 @@
 var a01403 =
 [
-    [ "npc_cameron", "d3/d19/a13854.html", "d3/d19/a13854" ],
-    [ "npc_supervisor_raelen", "d2/d17/a13858.html", "d2/d17/a13858" ],
-    [ "npc_eastvale_peasent", "db/dc4/a13862.html", "db/dc4/a13862" ],
-    [ "COG_Creatures", "da/d06/a01403.html#a65c53b71f65b39ebdb719ba85df40c00", [
-      [ "NPC_DANA", "da/d06/a01403.html#a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79", null ],
-      [ "NPC_CAMERON", "da/d06/a01403.html#a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee", null ],
-      [ "NPC_JOHN", "da/d06/a01403.html#a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8", null ],
-      [ "NPC_LISA", "da/d06/a01403.html#a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00", null ],
-      [ "NPC_AARON", "da/d06/a01403.html#a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648", null ],
-      [ "NPC_JOSE", "da/d06/a01403.html#a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9", null ]
+    [ "DiminishingReturn", "d7/d54/a08993.html", "d7/d54/a08993" ],
+    [ "DispelInfo", "df/d8a/a08997.html", "df/d8a/a08997" ],
+    [ "CleanDamage", "d4/d1e/a09001.html", "d4/d1e/a09001" ],
+    [ "DamageInfo", "db/d91/a09005.html", "db/d91/a09005" ],
+    [ "HealInfo", "d2/d50/a09009.html", "d2/d50/a09009" ],
+    [ "ProcEventInfo", "de/d68/a09013.html", "de/d68/a09013" ],
+    [ "CalcDamageInfo", "d8/d99/a09017.html", "d8/d99/a09017" ],
+    [ "SpellNonMeleeDamage", "de/d81/a09025.html", "de/d81/a09025" ],
+    [ "SpellPeriodicAuraLogInfo", "dc/d58/a09029.html", "dc/d58/a09029" ],
+    [ "DeclinedName", "d6/dc9/a09033.html", "d6/dc9/a09033" ],
+    [ "AttackPosition", "d7/d26/a09037.html", "d7/d26/a09037" ],
+    [ "Unit", "da/d68/a09041.html", "da/d68/a09041" ],
+    [ "Acore::PowerPctOrderPred", "d9/d21/a09045.html", "d9/d21/a09045" ],
+    [ "Acore::HealthPctOrderPred", "d8/d10/a09049.html", "d8/d10/a09049" ],
+    [ "RedirectSpellEvent", "d3/d63/a09053.html", "d3/d63/a09053" ],
+    [ "ATTACK_DISPLAY_DELAY", "da/d06/a01403.html#aa02d6a93a0021b2c52a47f8bb09a173a", null ],
+    [ "BASE_ATTACK_TIME", "da/d06/a01403.html#a6e75af6bfeb72695535b30f4523d119a", null ],
+    [ "BASE_MAXDAMAGE", "da/d06/a01403.html#ab29c54715d6bd3adbe462b0a9773530c", null ],
+    [ "BASE_MINDAMAGE", "da/d06/a01403.html#af86b0f98f2f6241146c8006a7a9f6f4c", null ],
+    [ "CURRENT_FIRST_NON_MELEE_SPELL", "da/d06/a01403.html#a67df18abace700a63e433024dee15b90", null ],
+    [ "CURRENT_MAX_SPELL", "da/d06/a01403.html#aa55ee1b0aa8f9779fbe5f0c4eeaf6bed", null ],
+    [ "MAX_AGGRO_RADIUS", "da/d06/a01403.html#a664c114bdaa48d227bce3c91eb5eb5ad", null ],
+    [ "MAX_COMBAT_RATING", "da/d06/a01403.html#a89a822f82e3d3eafe03f7ae0d1310300", null ],
+    [ "MAX_DECLINED_NAME_CASES", "da/d06/a01403.html#a8c9f2cb96962bbba77bd38e8bd014659", null ],
+    [ "MAX_PLAYER_STEALTH_DETECT_RANGE", "da/d06/a01403.html#a1b237c948e52a86fe31e61cc089a2200", null ],
+    [ "MOD_END", "da/d06/a01403.html#a1dc9cc1719eb57a6058fc9bc2d7b4024", null ],
+    [ "REACTIVE_TIMER_START", "da/d06/a01403.html#abd0c4747d54e7c5f4485fcbdd6735f4a", null ],
+    [ "WORLD_TRIGGER", "da/d06/a01403.html#a14e3dcee1542d1f8fe5bdcbb2a66142e", null ],
+    [ "DispelChargesList", "da/d06/a01403.html#ac60ae645aa0b9216de7dac56c3ed8c37", null ],
+    [ "PacketCooldowns", "da/d06/a01403.html#acd1c012e0d368edde1e17c9ed84836f2", null ],
+    [ "SharedVisionList", "da/d06/a01403.html#a7987df2bda81f8939c39418ea78d20a5", null ],
+    [ "SpeedOpcodePair", "da/d06/a01403.html#ab52bc855c0c581574dfd53d868dc587f", null ],
+    [ "UnitList", "da/d06/a01403.html#abbe331960980fa852a0be15ccebef947", null ],
+    [ "BaseModGroup", "da/d06/a01403.html#a938646605f1e70b8f1613bf9bdb78b4f", [
+      [ "CRIT_PERCENTAGE", "da/d06/a01403.html#a938646605f1e70b8f1613bf9bdb78b4fa75a0f4d4487127ec7c34e7f0f547efb4", null ],
+      [ "RANGED_CRIT_PERCENTAGE", "da/d06/a01403.html#a938646605f1e70b8f1613bf9bdb78b4faa6c2bba993427bbcd1ee001e9730c59d", null ],
+      [ "OFFHAND_CRIT_PERCENTAGE", "da/d06/a01403.html#a938646605f1e70b8f1613bf9bdb78b4fa379fa05fe54b3ef17e6e9e2f159b9a8f", null ],
+      [ "SHIELD_BLOCK_VALUE", "da/d06/a01403.html#a938646605f1e70b8f1613bf9bdb78b4fa63a0b2c814bdfeeb5e4979e43fe90ad0", null ],
+      [ "BASEMOD_END", "da/d06/a01403.html#a938646605f1e70b8f1613bf9bdb78b4fa50898d8713a3a0d7825818daf16cbd30", null ]
     ] ],
-    [ "COG_Events", "da/d06/a01403.html#ab264f1364ee8d7515c93f7604d783521", [
-      [ "EVENT_WP_START_GOLDSHIRE", "da/d06/a01403.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f", null ],
-      [ "EVENT_WP_START_WOODS", "da/d06/a01403.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a", null ],
-      [ "EVENT_WP_START_HOUSE", "da/d06/a01403.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d", null ],
-      [ "EVENT_WP_START_LISA", "da/d06/a01403.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8", null ],
-      [ "EVENT_PLAY_SOUNDS", "da/d06/a01403.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4", null ],
-      [ "EVENT_BEGIN_EVENT", "da/d06/a01403.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7", null ],
-      [ "EVENT_RANDOM_MOVEMENT", "da/d06/a01403.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1", null ]
+    [ "BaseModType", "da/d06/a01403.html#a114d5261840f2cea1ebee7abcad43e10", [
+      [ "FLAT_MOD", "da/d06/a01403.html#a114d5261840f2cea1ebee7abcad43e10a13f6d70c134b3744ab0581ab8df32177", null ],
+      [ "PCT_MOD", "da/d06/a01403.html#a114d5261840f2cea1ebee7abcad43e10ad445af08f58d13cde94091cab97f7deb", null ]
     ] ],
-    [ "COG_GameEvent", "da/d06/a01403.html#a7f96446be0a530da18223bb22482eb13", [
-      [ "GAME_EVENT_CHILDREN_OF_GOLDSHIRE", "da/d06/a01403.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb", null ]
+    [ "CombatRating", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3", [
+      [ "CR_WEAPON_SKILL", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a5c90e6260c204f73b2c4b45d25892572", null ],
+      [ "CR_DEFENSE_SKILL", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a832531ac5d4a382e49391f88cd399ca4", null ],
+      [ "CR_DODGE", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a8200fcaa4607c184b12d61cbbb001767", null ],
+      [ "CR_PARRY", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a605b66409c77482f95159a42c093985f", null ],
+      [ "CR_BLOCK", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3abc080bbc3c53cdae00ae44e46179d2f1", null ],
+      [ "CR_HIT_MELEE", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a1a3d99c4ebe1f20c84224d8fd0ee8458", null ],
+      [ "CR_HIT_RANGED", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3aea4092645711d322247fdc0e20e27ecf", null ],
+      [ "CR_HIT_SPELL", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3acb66efc9eeb8a80af7ee8cbf6f7d5083", null ],
+      [ "CR_CRIT_MELEE", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a42cdd7970e625eb5a49ed191887a12a1", null ],
+      [ "CR_CRIT_RANGED", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a45e7d9ff90a3261fbe1c66557c12b04e", null ],
+      [ "CR_CRIT_SPELL", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3adea061f6bf3278a55f54a7f930bc34fe", null ],
+      [ "CR_HIT_TAKEN_MELEE", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a042dc39624a8424a9717051f68bc3ca7", null ],
+      [ "CR_HIT_TAKEN_RANGED", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3acf6a2e896a4631eff4530af87546cfbc", null ],
+      [ "CR_HIT_TAKEN_SPELL", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a477387faa71c3a3ab5cdb2c85abedb98", null ],
+      [ "CR_CRIT_TAKEN_MELEE", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3afc9dc4fb264e7352e649c382a2d05bed", null ],
+      [ "CR_CRIT_TAKEN_RANGED", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a2776e60e783998e320c7c9af33ffd807", null ],
+      [ "CR_CRIT_TAKEN_SPELL", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a40402f79e36b6c6687d2a6511bb19aad", null ],
+      [ "CR_HASTE_MELEE", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3aa802d0dafa7983a85583662f59eba430", null ],
+      [ "CR_HASTE_RANGED", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a135ef039ef91f2b450d83663ae6f2439", null ],
+      [ "CR_HASTE_SPELL", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3ac3d309e81b26ab610ed447863d403617", null ],
+      [ "CR_WEAPON_SKILL_MAINHAND", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3abe35819c1f26bc8a11889d5f6efe026c", null ],
+      [ "CR_WEAPON_SKILL_OFFHAND", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a6d6cfbdb0875d4dd77872dddb41e4608", null ],
+      [ "CR_WEAPON_SKILL_RANGED", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a0fe62fe28d82bbcadb49c5dde5941621", null ],
+      [ "CR_EXPERTISE", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a001ce13a6e28ca1e052bcda7e1cdc837", null ],
+      [ "CR_ARMOR_PENETRATION", "da/d06/a01403.html#aa940f0fb19cbfeaf128b78cc7fb15da3a418b75d076ba67aadea3a78145b9cac5", null ]
     ] ],
-    [ "COG_Paths", "da/d06/a01403.html#a2be3c31abb125ee2f4e5db0dffba1303", [
-      [ "STORMWIND_PATH", "da/d06/a01403.html#a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713", null ],
-      [ "GOLDSHIRE_PATH", "da/d06/a01403.html#a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172", null ],
-      [ "WOODS_PATH", "da/d06/a01403.html#a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097", null ],
-      [ "HOUSE_PATH", "da/d06/a01403.html#a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773", null ],
-      [ "LISA_PATH", "da/d06/a01403.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c", null ]
+    [ "CommandStates", "da/d06/a01403.html#af147d8054b617fd731305de8a69bd257", [
+      [ "COMMAND_STAY", "da/d06/a01403.html#af147d8054b617fd731305de8a69bd257ab33055c9492afc567e3a602f88347ca5", null ],
+      [ "COMMAND_FOLLOW", "da/d06/a01403.html#af147d8054b617fd731305de8a69bd257af73d9126113ee58d7e19783dd3c38c45", null ],
+      [ "COMMAND_ATTACK", "da/d06/a01403.html#af147d8054b617fd731305de8a69bd257a0ad8b8f2e03da995c7b131bb43d126f2", null ],
+      [ "COMMAND_ABANDON", "da/d06/a01403.html#af147d8054b617fd731305de8a69bd257aae505a147f7cd3134f045534a1e2e68f", null ]
     ] ],
-    [ "COG_Sounds", "da/d06/a01403.html#a41b64d07acba30bca6797dd30accb701", [
-      [ "BANSHEE_DEATH", "da/d06/a01403.html#a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d", null ],
-      [ "BANSHEEPREAGGRO", "da/d06/a01403.html#a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e", null ],
-      [ "CTHUN_YOU_WILL_DIE", "da/d06/a01403.html#a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c", null ],
-      [ "CTHUN_DEATH_IS_CLOSE", "da/d06/a01403.html#a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05", null ],
-      [ "HUMAN_FEMALE_EMOTE_CRY", "da/d06/a01403.html#a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a", null ],
-      [ "GHOSTDEATH", "da/d06/a01403.html#a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05", null ]
+    [ "CurrentSpellTypes", "da/d06/a01403.html#ab791040bd6d685b1fd2cfd12c96d0a1f", [
+      [ "CURRENT_MELEE_SPELL", "da/d06/a01403.html#ab791040bd6d685b1fd2cfd12c96d0a1fabf840fee2a2e133105c6a92a7b43a272", null ],
+      [ "CURRENT_GENERIC_SPELL", "da/d06/a01403.html#ab791040bd6d685b1fd2cfd12c96d0a1fa9cbac6c5133585dece51a40e9c1908b0", null ],
+      [ "CURRENT_CHANNELED_SPELL", "da/d06/a01403.html#ab791040bd6d685b1fd2cfd12c96d0a1fa960a792eef11d7eca70b058265e3cca6", null ],
+      [ "CURRENT_AUTOREPEAT_SPELL", "da/d06/a01403.html#ab791040bd6d685b1fd2cfd12c96d0a1faf4d9017fa01b68842e61b948323e93c1", null ]
     ] ],
-    [ "EastvalePeasent", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769", [
-      [ "EVENT_MOVETORAELEN", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01", null ],
-      [ "EVENT_TALKTORAELEN1", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6", null ],
-      [ "EVENT_TALKTORAELEN2", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49", null ],
-      [ "EVENT_RAELENTALK", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0", null ],
-      [ "EVENT_TALKTORAELEN3", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343", null ],
-      [ "EVENT_TALKTORAELEN4", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f", null ],
-      [ "EVENT_PATHBACK", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85", null ],
-      [ "NPC_SUPERVISOR_RAELEN", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667", null ],
-      [ "PATH_PEASENT_0", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90", null ],
-      [ "PATH_PEASENT_1", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6", null ],
-      [ "PATH_PEASENT_2", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7", null ],
-      [ "PATH_PEASENT_3", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d", null ],
-      [ "PATH_PEASENT_4", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0", null ],
-      [ "SAY_RAELEN", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc", null ],
-      [ "SOUND_PEASENT_GREETING_1", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2", null ],
-      [ "SOUND_PEASENT_GREETING_2", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d", null ],
-      [ "SOUND_PEASENT_GREETING_3", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942", null ],
-      [ "SOUND_PEASENT_LEAVING_1", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf", null ],
-      [ "SOUND_PEASENT_LEAVING_2", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1", null ],
-      [ "SOUND_PEASENT_LEAVING_3", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65", null ],
-      [ "SOUND_PEASENT_LEAVING_4", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404", null ],
-      [ "SOUND_PEASENT_LEAVING_5", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358", null ],
-      [ "SPELL_TRANSFORM_PEASENT_WITH_WOOD", "da/d06/a01403.html#a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56", null ]
+    [ "DamageEffectType", "da/d06/a01403.html#ab0b8a9de485ea928c497ac0b5f9040b1", [
+      [ "DIRECT_DAMAGE", "da/d06/a01403.html#ab0b8a9de485ea928c497ac0b5f9040b1a471bd179f0ee161d55f1bb3dd5825336", null ],
+      [ "SPELL_DIRECT_DAMAGE", "da/d06/a01403.html#ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54", null ],
+      [ "DOT", "da/d06/a01403.html#ab0b8a9de485ea928c497ac0b5f9040b1a87fdcd2ffa8f71b49da9e0cfd4fb893f", null ],
+      [ "HEAL", "da/d06/a01403.html#ab0b8a9de485ea928c497ac0b5f9040b1abb9fb5962c8d829b60b6d124bb4fca50", null ],
+      [ "NODAMAGE", "da/d06/a01403.html#ab0b8a9de485ea928c497ac0b5f9040b1a4d37f6fc3002a603384fa9e9d9368d35", null ],
+      [ "SELF_DAMAGE", "da/d06/a01403.html#ab0b8a9de485ea928c497ac0b5f9040b1a28acdc0c8049108b938b341f90a9183a", null ]
     ] ],
-    [ "SupervisorRaelen", "da/d06/a01403.html#a3bd40a8e75f5b073b6027152c2acd047", [
-      [ "EVENT_FIND_PEASENTS", "da/d06/a01403.html#a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19", null ],
-      [ "EVENT_NEXT_PEASENT", "da/d06/a01403.html#a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0", null ],
-      [ "NPC_EASTVALE_PEASENT", "da/d06/a01403.html#a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd", null ]
+    [ "DeathState", "da/d06/a01403.html#a40766b10780b3416efddc6acf0f16306", [
+      [ "Alive", "da/d06/a01403.html#a40766b10780b3416efddc6acf0f16306abd9f7c5d6ab4201b138a3e51dab7056f", null ],
+      [ "JustDied", "da/d06/a01403.html#a40766b10780b3416efddc6acf0f16306aae649c7a16dd2cc0a03b454de711f6d0", null ],
+      [ "Corpse", "da/d06/a01403.html#a40766b10780b3416efddc6acf0f16306a417799dc63b3ebb2852970ae4b5c0f4a", null ],
+      [ "Dead", "da/d06/a01403.html#a40766b10780b3416efddc6acf0f16306a183b62c7f067711f9c5a54913c054617", null ],
+      [ "JustRespawned", "da/d06/a01403.html#a40766b10780b3416efddc6acf0f16306ae2be3907a40b4b2c02c6194cd37aad81", null ]
     ] ],
-    [ "AddSC_elwynn_forest", "da/d06/a01403.html#aef9caff22cc5e92156da2c393ecfb531", null ]
+    [ "DiminishingLevels", "da/d06/a01403.html#aa8baff9cbdf61bbb483c1e7ae739f930", [
+      [ "DIMINISHING_LEVEL_1", "da/d06/a01403.html#aa8baff9cbdf61bbb483c1e7ae739f930a686cebb344da5f1a40407c2feb03d2da", null ],
+      [ "DIMINISHING_LEVEL_2", "da/d06/a01403.html#aa8baff9cbdf61bbb483c1e7ae739f930adb4991dc5d3badb8e27bb713ecebb178", null ],
+      [ "DIMINISHING_LEVEL_3", "da/d06/a01403.html#aa8baff9cbdf61bbb483c1e7ae739f930a1508cd45d5170a4c0e0b322cf862a5ae", null ],
+      [ "DIMINISHING_LEVEL_IMMUNE", "da/d06/a01403.html#aa8baff9cbdf61bbb483c1e7ae739f930a753de913b5eed5c74aaa9d3b567a3980", null ],
+      [ "DIMINISHING_LEVEL_4", "da/d06/a01403.html#aa8baff9cbdf61bbb483c1e7ae739f930a6a87e4624cd0ceb45668005528094937", null ],
+      [ "DIMINISHING_LEVEL_TAUNT_IMMUNE", "da/d06/a01403.html#aa8baff9cbdf61bbb483c1e7ae739f930a955f8a1e9b85ae1f13831001779d0dc9", null ]
+    ] ],
+    [ "DualWieldMode", "da/d06/a01403.html#a1769e25b63c7fa4ad80ea05008afacee", [
+      [ "AUTO", "da/d06/a01403.html#a1769e25b63c7fa4ad80ea05008afaceeae1f2d5134ed2543d38a0de9751cf75d9", null ],
+      [ "DISABLED", "da/d06/a01403.html#a1769e25b63c7fa4ad80ea05008afaceea055c1a591abb0e8cd86dc969727bcc0b", null ],
+      [ "ENABLED", "da/d06/a01403.html#a1769e25b63c7fa4ad80ea05008afaceeac8cf6eea8f096ed51160b484d97c5bbd", null ]
+    ] ],
+    [ "ExtraAttackSpells", "da/d06/a01403.html#acbae0b3833c77496bf4cff9429476408", [
+      [ "SPELL_SWORD_SPECIALIZATION", "da/d06/a01403.html#acbae0b3833c77496bf4cff9429476408a808f9b7965f5d2344868b2bb70497a8d", null ],
+      [ "SPELL_HACK_AND_SLASH", "da/d06/a01403.html#acbae0b3833c77496bf4cff9429476408a1e08998d2114a6246cdee19d526a55d2", null ]
+    ] ],
+    [ "HitInfo", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3", [
+      [ "HITINFO_NORMALSWING", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a132d3d38beb2c1ba29ccc90c9a2d66f9", null ],
+      [ "HITINFO_UNK1", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3ac559aca6c3ee598a049ad3c74e6c2277", null ],
+      [ "HITINFO_AFFECTS_VICTIM", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3aefdc5bd23a2977847198bcf2b3b12a29", null ],
+      [ "HITINFO_OFFHAND", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3ab3a78fef2da3fc0e2430e43fb5a056a3", null ],
+      [ "HITINFO_UNK2", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a0c4e7fa93960abd05d20dad8a73adc85", null ],
+      [ "HITINFO_MISS", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a7c43c1456879d0a16c36c9da05f5ff73", null ],
+      [ "HITINFO_FULL_ABSORB", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a883543f388da0e05e8e745011ce1b9e8", null ],
+      [ "HITINFO_PARTIAL_ABSORB", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a022f5277968992c4fef911f834626cc3", null ],
+      [ "HITINFO_FULL_RESIST", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a11b1ed73bb6e0983b659d158449e49e6", null ],
+      [ "HITINFO_PARTIAL_RESIST", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3aee4b09551f2283f499ae1206937a3acb", null ],
+      [ "HITINFO_CRITICALHIT", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3aebb0887e5009f73e469b757cf96b1e96", null ],
+      [ "HITINFO_UNK10", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3afff0c33e91ffa22a1af01905eb06ee24", null ],
+      [ "HITINFO_UNK11", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3acd5946c5134e10bf661be8710e62402b", null ],
+      [ "HITINFO_UNK12", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a68a95bf3496531e1b8a1733e6f1c8865", null ],
+      [ "HITINFO_BLOCK", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a1ac0e533a6bf0b71c56840209197d5fd", null ],
+      [ "HITINFO_UNK14", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3af127642102a09aa23acf0578951d46c4", null ],
+      [ "HITINFO_UNK15", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a2c41ce9a9d48184b38c24775463215b8", null ],
+      [ "HITINFO_GLANCING", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3ac6b983128756e95cc801eb7d66152898", null ],
+      [ "HITINFO_CRUSHING", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a38e4367712b46b4c0de8b7a260892065", null ],
+      [ "HITINFO_NO_ANIMATION", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a8dc0eb96b2b8c1ebbfa8877e0a724863", null ],
+      [ "HITINFO_UNK19", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a2ed45f37f3666c6df5a36731f5077ee7", null ],
+      [ "HITINFO_UNK20", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a594f8b39be41e8b4b1525c70311d2cd7", null ],
+      [ "HITINFO_SWINGNOHITSOUND", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a664b37f2b3a93e9e9ad114a61fec8b76", null ],
+      [ "HITINFO_UNK22", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a17cd8ada5363fc2709a341d086b0ab03", null ],
+      [ "HITINFO_RAGE_GAIN", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a8755012b62467ed0a03e934c9e101e2e", null ],
+      [ "HITINFO_FAKE_DAMAGE", "da/d06/a01403.html#a4f13e19b0b93a3a4dde752b929d38dc3a59fc553fa18e7692de419ec58ca2976b", null ]
+    ] ],
+    [ "MeleeHitOutcome", "da/d06/a01403.html#aba4a9525e87c7e76c6c005bc3c3f53a5", [
+      [ "MELEE_HIT_EVADE", "da/d06/a01403.html#aba4a9525e87c7e76c6c005bc3c3f53a5ac796a4cfbee69fa86fc62baf8a4e0917", null ],
+      [ "MELEE_HIT_MISS", "da/d06/a01403.html#aba4a9525e87c7e76c6c005bc3c3f53a5adfca95e2a5ad725b7f8f416c4c347545", null ],
+      [ "MELEE_HIT_DODGE", "da/d06/a01403.html#aba4a9525e87c7e76c6c005bc3c3f53a5adc228cbe63eb5f62db81d5e44784ea35", null ],
+      [ "MELEE_HIT_BLOCK", "da/d06/a01403.html#aba4a9525e87c7e76c6c005bc3c3f53a5a44706058a14300e6eecd11d66db8c1da", null ],
+      [ "MELEE_HIT_PARRY", "da/d06/a01403.html#aba4a9525e87c7e76c6c005bc3c3f53a5aea9a35065734e8e991b794313a00642d", null ],
+      [ "MELEE_HIT_GLANCING", "da/d06/a01403.html#aba4a9525e87c7e76c6c005bc3c3f53a5af67172afb249fa44bdeadefeb4258ff9", null ],
+      [ "MELEE_HIT_CRIT", "da/d06/a01403.html#aba4a9525e87c7e76c6c005bc3c3f53a5a484bae12abe1c864433abe4450a3ddba", null ],
+      [ "MELEE_HIT_CRUSHING", "da/d06/a01403.html#aba4a9525e87c7e76c6c005bc3c3f53a5a3e8075fe0b9a2c88400951a56adc9bc7", null ],
+      [ "MELEE_HIT_NORMAL", "da/d06/a01403.html#aba4a9525e87c7e76c6c005bc3c3f53a5a9c5d76fbca1fce33b08a1655b9017272", null ]
+    ] ],
+    [ "ReactiveType", "da/d06/a01403.html#abd1700cb7205e6e64d9f8ca35795ff27", [
+      [ "REACTIVE_DEFENSE", "da/d06/a01403.html#abd1700cb7205e6e64d9f8ca35795ff27a59bfb38c451db3d03f0e5b8b13745da0", null ],
+      [ "REACTIVE_HUNTER_PARRY", "da/d06/a01403.html#abd1700cb7205e6e64d9f8ca35795ff27a635ab1007034f32bd4494025160cd38f", null ],
+      [ "REACTIVE_OVERPOWER", "da/d06/a01403.html#abd1700cb7205e6e64d9f8ca35795ff27a479797b6c51b5dd66ee9f8bb378d918e", null ],
+      [ "REACTIVE_WOLVERINE_BITE", "da/d06/a01403.html#abd1700cb7205e6e64d9f8ca35795ff27ab39ff7e0d62e002306b72add24774201", null ],
+      [ "MAX_REACTIVE", "da/d06/a01403.html#abd1700cb7205e6e64d9f8ca35795ff27a372ac35e29d0eff3dc05db1f84e68a3a", null ]
+    ] ],
+    [ "ReactStates", "da/d06/a01403.html#a5e9099d162ad74df5a3e3f5c0f056c37", [
+      [ "REACT_PASSIVE", "da/d06/a01403.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0", null ],
+      [ "REACT_DEFENSIVE", "da/d06/a01403.html#a5e9099d162ad74df5a3e3f5c0f056c37a7183e7251db222734d0d007a258d65c7", null ],
+      [ "REACT_AGGRESSIVE", "da/d06/a01403.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc", null ]
+    ] ],
+    [ "SearchMethod", "da/d06/a01403.html#abd60910b52e9fd2a0b8f4b030183f02c", [
+      [ "MatchAll", "da/d06/a01403.html#abd60910b52e9fd2a0b8f4b030183f02ca9f0b169d4598df6b4325177393e01b9c", null ],
+      [ "MatchAny", "da/d06/a01403.html#abd60910b52e9fd2a0b8f4b030183f02cae0760d67b3b4ae87e8f3f00540ed5fc5", null ]
+    ] ],
+    [ "SpeedOpcodeIndex", "da/d06/a01403.html#ab9a3e815ba8c7b902bb137e2dd93b452", [
+      [ "PC", "da/d06/a01403.html#ab9a3e815ba8c7b902bb137e2dd93b452a88dba0c4e2af76447df43d1e31331a3d", null ],
+      [ "NPC", "da/d06/a01403.html#ab9a3e815ba8c7b902bb137e2dd93b452a2bda99597da06a11feafd8760b68aec6", null ],
+      [ "ACK_RESPONSE", "da/d06/a01403.html#ab9a3e815ba8c7b902bb137e2dd93b452a16b840e80041585cf4d1cf617018b804", null ],
+      [ "MAX", "da/d06/a01403.html#ab9a3e815ba8c7b902bb137e2dd93b452a26a4b44a837bf97b972628509912b4a5", null ]
+    ] ],
+    [ "SpellCooldownFlags", "da/d06/a01403.html#a7cf8dcf8ef7984bd27584b93d9fac4e3", [
+      [ "SPELL_COOLDOWN_FLAG_NONE", "da/d06/a01403.html#a7cf8dcf8ef7984bd27584b93d9fac4e3a91b5375b6d01dcf322150126fb2018ae", null ],
+      [ "SPELL_COOLDOWN_FLAG_INCLUDE_GCD", "da/d06/a01403.html#a7cf8dcf8ef7984bd27584b93d9fac4e3a663e093617d37a13962555e10c530187", null ],
+      [ "SPELL_COOLDOWN_FLAG_INCLUDE_EVENT_COOLDOWNS", "da/d06/a01403.html#a7cf8dcf8ef7984bd27584b93d9fac4e3a072d9616de877b7588d31d2c9c4401ef", null ]
+    ] ],
+    [ "UnitModifierFlatType", "da/d06/a01403.html#a03704f1b603948628d253730e5437735", [
+      [ "BASE_VALUE", "da/d06/a01403.html#a03704f1b603948628d253730e5437735a6e506f81d8257be9b031ecaf9d9922d1", null ],
+      [ "TOTAL_VALUE", "da/d06/a01403.html#a03704f1b603948628d253730e5437735a85637bc3b7127fbfc1d35d5e3ca4a95c", null ],
+      [ "MODIFIER_TYPE_FLAT_END", "da/d06/a01403.html#a03704f1b603948628d253730e5437735a6ffe8acca082a77325b9c052e71775d8", null ]
+    ] ],
+    [ "UnitModifierPctType", "da/d06/a01403.html#afa85283e60912e924673863b5b94e6dd", [
+      [ "BASE_PCT", "da/d06/a01403.html#afa85283e60912e924673863b5b94e6ddabb35437d15ab9bfc3b7dbf7bac7c0dee", null ],
+      [ "TOTAL_PCT", "da/d06/a01403.html#afa85283e60912e924673863b5b94e6ddab3ddc12b0760eec54f45b90b8671af4d", null ],
+      [ "MODIFIER_TYPE_PCT_END", "da/d06/a01403.html#afa85283e60912e924673863b5b94e6dda4c572258f8ccb9e1c0348832842ae946", null ]
+    ] ],
+    [ "UnitMods", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bde", [
+      [ "UNIT_MOD_STAT_STRENGTH", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea7a3c5cbdc3ced891780002389b3dcd8e", null ],
+      [ "UNIT_MOD_STAT_AGILITY", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdeab7a02dfffcefb8b769c5fa1b45afea9a", null ],
+      [ "UNIT_MOD_STAT_STAMINA", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaeb6cc5edea088858c2439cb51ada4173", null ],
+      [ "UNIT_MOD_STAT_INTELLECT", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea064052321024a81030a913b673c998ab", null ],
+      [ "UNIT_MOD_STAT_SPIRIT", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea0ac04241b1b4aea49a3d87c675a7119b", null ],
+      [ "UNIT_MOD_HEALTH", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea45d2a58d49ab909fd6a6e78467f7ca0d", null ],
+      [ "UNIT_MOD_MANA", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdeae06346b2541d3e99698435cb0e0bdcf3", null ],
+      [ "UNIT_MOD_RAGE", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdeae90db694c912c6fdcba4aa700169df3f", null ],
+      [ "UNIT_MOD_FOCUS", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdeac1a101ffc2b3e1c261a1f27c5b95147e", null ],
+      [ "UNIT_MOD_ENERGY", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea44e12d41e08bdc27e6c7736e593ad8e1", null ],
+      [ "UNIT_MOD_HAPPINESS", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdeadeade1270a4a74a43289c8389e164b64", null ],
+      [ "UNIT_MOD_RUNE", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea044288c9ec8e479b7fc1816ff8351335", null ],
+      [ "UNIT_MOD_RUNIC_POWER", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaec4b16bf2e45d9666bbf47d9380022b5", null ],
+      [ "UNIT_MOD_ARMOR", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea0d5ec0678c61e8de24b4e3d731bd4716", null ],
+      [ "UNIT_MOD_RESISTANCE_HOLY", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea2820ab7c24d9ae9e7c2522c5cd60da32", null ],
+      [ "UNIT_MOD_RESISTANCE_FIRE", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea79440a990c465c7f19a3aa5cd7808c62", null ],
+      [ "UNIT_MOD_RESISTANCE_NATURE", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea81f275f6f428145c4d3227e52b905e40", null ],
+      [ "UNIT_MOD_RESISTANCE_FROST", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea15818d82be400d6f9a2a1911b2453272", null ],
+      [ "UNIT_MOD_RESISTANCE_SHADOW", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea11af935ee8dafba1fb2c3c3746282a4f", null ],
+      [ "UNIT_MOD_RESISTANCE_ARCANE", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea37c195e8bf305bc76cd18324824ad4e0", null ],
+      [ "UNIT_MOD_ATTACK_POWER", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea2520001e4fe2a621d4b6b232413b5a73", null ],
+      [ "UNIT_MOD_ATTACK_POWER_RANGED", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdeafac2a3c286aff376e7cbb8ed2124534c", null ],
+      [ "UNIT_MOD_DAMAGE_MAINHAND", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaccdf98ed89e64b2482699a13bc1fd28c", null ],
+      [ "UNIT_MOD_DAMAGE_OFFHAND", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea036e8ca8fe78e5addf8e68a79732b742", null ],
+      [ "UNIT_MOD_DAMAGE_RANGED", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea49e9d4df8d30a4fa19a5d422dbb2fb41", null ],
+      [ "UNIT_MOD_END", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea219aea696972619c58ded1c16850f6b7", null ],
+      [ "UNIT_MOD_STAT_START", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdeae4231ed105be6058ed4deb6b4a5f3ba0", null ],
+      [ "UNIT_MOD_STAT_END", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea258aae10f381a608fa0ea602c9db7e81", null ],
+      [ "UNIT_MOD_RESISTANCE_START", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea2ca084c2061b3ebd16a486bd8e64a0d2", null ],
+      [ "UNIT_MOD_RESISTANCE_END", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdeac09868c22ce88ad6bce5f6321c994de6", null ],
+      [ "UNIT_MOD_POWER_START", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea5aad5ea92b88fa48fb05a367e6d70bb8", null ],
+      [ "UNIT_MOD_POWER_END", "da/d06/a01403.html#a4c5336cd4be5f0162bd4874b0a1e5bdea07a06b26bc376c624963716b95fdd381", null ]
+    ] ],
+    [ "VictimState", "da/d06/a01403.html#a2e286ee4a83a7807f3dc1a62af7aafd6", [
+      [ "VICTIMSTATE_INTACT", "da/d06/a01403.html#a2e286ee4a83a7807f3dc1a62af7aafd6a79274299b137c1f878a7b411595df7ef", null ],
+      [ "VICTIMSTATE_HIT", "da/d06/a01403.html#a2e286ee4a83a7807f3dc1a62af7aafd6a9f914d14cdb6832f4e393434f27e935d", null ],
+      [ "VICTIMSTATE_DODGE", "da/d06/a01403.html#a2e286ee4a83a7807f3dc1a62af7aafd6ab243889b8ad4c8c14e665aa1b4a3067f", null ],
+      [ "VICTIMSTATE_PARRY", "da/d06/a01403.html#a2e286ee4a83a7807f3dc1a62af7aafd6ae579b4fdb0db389ad4537f68251b01ac", null ],
+      [ "VICTIMSTATE_INTERRUPT", "da/d06/a01403.html#a2e286ee4a83a7807f3dc1a62af7aafd6a5641e7d96ae7d9f3fd6c97b804910d58", null ],
+      [ "VICTIMSTATE_BLOCKS", "da/d06/a01403.html#a2e286ee4a83a7807f3dc1a62af7aafd6af23e80436e76273d2c56c5dde5e63589", null ],
+      [ "VICTIMSTATE_EVADES", "da/d06/a01403.html#a2e286ee4a83a7807f3dc1a62af7aafd6af66381529ea49ed70a698b1f1d70a11d", null ],
+      [ "VICTIMSTATE_IS_IMMUNE", "da/d06/a01403.html#a2e286ee4a83a7807f3dc1a62af7aafd6ada18913e4248795d60f430cc1561e56d", null ],
+      [ "VICTIMSTATE_DEFLECTS", "da/d06/a01403.html#a2e286ee4a83a7807f3dc1a62af7aafd6a48ed76ad4fb7d2c8869cc5abb7b916e3", null ]
+    ] ],
+    [ "WeaponAttackType", "da/d06/a01403.html#a85524ab4e1fb005ed500bd190f79c352", [
+      [ "BASE_ATTACK", "da/d06/a01403.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae", null ],
+      [ "OFF_ATTACK", "da/d06/a01403.html#a85524ab4e1fb005ed500bd190f79c352a052681ec165e5b5e3edcf2089607ae67", null ],
+      [ "RANGED_ATTACK", "da/d06/a01403.html#a85524ab4e1fb005ed500bd190f79c352aa2557af152c5f2b27bbf59915cbd1670", null ],
+      [ "MAX_ATTACK", "da/d06/a01403.html#a85524ab4e1fb005ed500bd190f79c352a0f966a2f1219b75a945c686c3cad21e4", null ]
+    ] ],
+    [ "WeaponDamageRange", "da/d06/a01403.html#a4961ced707837d09157e8296ab8a2507", [
+      [ "MINDAMAGE", "da/d06/a01403.html#a4961ced707837d09157e8296ab8a2507a353ec7972b73e76751349c9abe91e80b", null ],
+      [ "MAXDAMAGE", "da/d06/a01403.html#a4961ced707837d09157e8296ab8a2507a5e4c68960c0bd10b439817ec3f1112ca", null ],
+      [ "MAX_WEAPON_DAMAGE_RANGE", "da/d06/a01403.html#a4961ced707837d09157e8296ab8a2507a353a691300043008469d161b1bf49247", null ]
+    ] ],
+    [ "createProcFlags", "da/d06/a01403.html#a7d920511c20f084098c0f68a75006159", null ],
+    [ "baseMoveSpeed", "da/d06/a01403.html#a2ede1cce0416c74db2d4599bab36eb57", null ],
+    [ "infinityCooldownDelay", "da/d06/a01403.html#a76b85ce9200f098d29159574458e921e", null ],
+    [ "infinityCooldownDelayCheck", "da/d06/a01403.html#a12cb62c744887f9c3df04b223bb04080", null ],
+    [ "MAX_CREATURE_SPELLS", "da/d06/a01403.html#ac6af0816f1cdb55cd57c5975ff99ad18", null ],
+    [ "playerBaseMoveSpeed", "da/d06/a01403.html#afef08589b9944f10d66bdc1de74d0270", null ],
+    [ "SetSpeed2Opc_table", "da/d06/a01403.html#ab8425e2a6602134c64c3a54919e49c32", null ]
 ];

@@ -1,6 +1,6 @@
 var a24477 =
 [
-    [ "HandleAfterCast", "dc/d93/a24477.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "dc/d93/a24477.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "dc/d93/a24477.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "HandleKnockBack", "dc/d93/a24477.html#ae50d143953074b83183482770046e131", null ],
+    [ "PrepareSpellScript", "dc/d93/a24477.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
+    [ "Register", "dc/d93/a24477.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
 ];

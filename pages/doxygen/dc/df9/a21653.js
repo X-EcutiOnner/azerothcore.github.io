@@ -1,13 +1,7 @@
 var a21653 =
 [
-    [ "npc_shandy_dalaranAI", "dc/df9/a21653.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
-    [ "Reset", "dc/df9/a21653.html#a38f0630d4e18cea01de343afdcb96db3", null ],
-    [ "RollTask", "dc/df9/a21653.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
-    [ "SetData", "dc/df9/a21653.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
-    [ "UpdateAI", "dc/df9/a21653.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
-    [ "_aquanosGUID", "dc/df9/a21653.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
-    [ "_canWash", "dc/df9/a21653.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
-    [ "_events", "dc/df9/a21653.html#a3fbae63669c8382097b0bcb936301945", null ],
-    [ "_lCount", "dc/df9/a21653.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
-    [ "_lSource", "dc/df9/a21653.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
+    [ "HandleScriptEffect", "dc/df9/a21653.html#a7b0fca053f225beda41942d8fee86383", null ],
+    [ "PrepareSpellScript", "dc/df9/a21653.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
+    [ "Register", "dc/df9/a21653.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
+    [ "Validate", "dc/df9/a21653.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
 ];

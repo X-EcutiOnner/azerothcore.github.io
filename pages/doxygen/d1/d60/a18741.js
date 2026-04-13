@@ -1,11 +1,6 @@
 var a18741 =
 [
-    [ "AddMissingStack", "d1/d60/a18741.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
-    [ "CheckAura", "d1/d60/a18741.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
-    [ "FilterTargets", "d1/d60/a18741.html#ab6c86c3680823329d5f3aad985aa316a", null ],
-    [ "Load", "d1/d60/a18741.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
-    [ "PrepareSpellScript", "d1/d60/a18741.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
-    [ "Register", "d1/d60/a18741.html#af0e6f1fc6687de1abcc1689116150088", null ],
-    [ "_hadInitialAura", "d1/d60/a18741.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
-    [ "_hadJumpingAura", "d1/d60/a18741.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
+    [ "npc_gluttonous_abominationAI", "d8/d13/a18745.html", "d8/d13/a18745" ],
+    [ "npc_gluttonous_abomination", "d1/d60/a18741.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "d1/d60/a18741.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

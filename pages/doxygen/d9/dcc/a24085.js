@@ -1,5 +1,6 @@
 var a24085 =
 [
-    [ "at_commander_dawnforge", "d9/dcc/a24085.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d9/dcc/a24085.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "FilterTargets", "d9/dcc/a24085.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "d9/dcc/a24085.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "d9/dcc/a24085.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

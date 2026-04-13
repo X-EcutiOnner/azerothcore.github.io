@@ -1,16 +1,10 @@
 var a20765 =
 [
-    [ "boss_thorim_runic_colossus", "d7/dbb/a20765.html#a3beda3351911803a0c0ea719256c4514", null ],
-    [ "JustDied", "d7/dbb/a20765.html#a9682ccf2c6109888385fd621ecac16a4", null ],
-    [ "JustEngagedWith", "d7/dbb/a20765.html#ad18388379fc026c1bf707eee8fae9826", null ],
-    [ "Reset", "d7/dbb/a20765.html#a5a6d3e8c1e756fe9a982c6be215a0577", null ],
-    [ "RunRunicSmash", "d7/dbb/a20765.html#a4b36e8e92cae14912354691f0dc09a64", null ],
-    [ "SpellHit", "d7/dbb/a20765.html#a9787e064886ddee55bc2434c6d4f1927", null ],
-    [ "UpdateAI", "d7/dbb/a20765.html#a470b0571db91075603504d91fb13721c", null ],
-    [ "_checkTarget", "d7/dbb/a20765.html#a16c4b7194f1db8710732b35189823efe", null ],
-    [ "_leftHand", "d7/dbb/a20765.html#a2d3c2799fcf9a2761c331109a713a4c6", null ],
-    [ "_nextTriggerPos", "d7/dbb/a20765.html#a5f265413890df938e00dc08e0dee9829", null ],
-    [ "_triggerLeftGUID", "d7/dbb/a20765.html#af1a54a839bcd3308edf1c7769274b889", null ],
-    [ "_triggerRightGUID", "d7/dbb/a20765.html#a72196fe61ab799be949b7148a52933a9", null ],
-    [ "events", "d7/dbb/a20765.html#a859e1d83f4002c8017d5d8f8fdf34a1e", null ]
+    [ "npc_ulduar_snow_mound", "d7/dbb/a20765.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "d7/dbb/a20765.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "d7/dbb/a20765.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "d7/dbb/a20765.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "d7/dbb/a20765.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "d7/dbb/a20765.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "d7/dbb/a20765.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

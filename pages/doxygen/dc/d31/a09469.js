@@ -1,9 +1,12 @@
 var a09469 =
 [
-    [ "InserterType", "dc/d31/a09469.html#a8ea29aedfb1eaf2b3eac29bc61849319", null ],
-    [ "ContainerInserter", "dc/d31/a09469.html#a44cd545e2965b309c48d40f4617bc38e", null ],
-    [ "Insert", "dc/d31/a09469.html#af482d9f7940d548193fc56839bc2cb87", null ],
-    [ "InserterOf", "dc/d31/a09469.html#a003318d4ec066ca45d79ec5b669cdb8c", null ],
-    [ "inserter", "dc/d31/a09469.html#ac10b2769f02687260efd531af666fbb3", null ],
-    [ "ref", "dc/d31/a09469.html#a60d4a9120523c28d8c408c981305535e", null ]
+    [ "VisibleNotifier", "dc/d31/a09469.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "dc/d31/a09469.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "dc/d31/a09469.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "dc/d31/a09469.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "dc/d31/a09469.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "dc/d31/a09469.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "dc/d31/a09469.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "dc/d31/a09469.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "dc/d31/a09469.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

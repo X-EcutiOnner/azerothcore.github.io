@@ -1,7 +1,5 @@
 var a29065 =
 [
-    [ "Displayid", "d8/d0b/a29065.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "d8/d0b/a29065.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "d8/d0b/a29065.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "d8/d0b/a29065.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "areatableID", "d8/d0b/a29065.html#a991f3242c87939be42d107d6908f441d", null ],
+    [ "ID", "d8/d0b/a29065.html#ac57c444da58dea7227bd26e0f6b7bbff", null ]
 ];

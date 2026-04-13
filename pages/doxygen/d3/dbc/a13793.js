@@ -1,8 +1,9 @@
 var a13793 =
 [
-    [ "HandleApply", "d3/dbc/a13793.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
-    [ "HandleRemove", "d3/dbc/a13793.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
-    [ "PrepareAuraScript", "d3/dbc/a13793.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
-    [ "Register", "d3/dbc/a13793.html#a3b91d692ad34b7ce965887590780e146", null ],
-    [ "Validate", "d3/dbc/a13793.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
+    [ "spell_sunwell_teleport", "d3/dbc/a13793.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "d3/dbc/a13793.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "d3/dbc/a13793.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "d3/dbc/a13793.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "d3/dbc/a13793.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "d3/dbc/a13793.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

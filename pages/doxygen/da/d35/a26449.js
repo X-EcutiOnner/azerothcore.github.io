@@ -1,9 +1,8 @@
 var a26449 =
 [
-    [ "HandleAfterCast", "da/d35/a26449.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "da/d35/a26449.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "da/d35/a26449.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "da/d35/a26449.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "da/d35/a26449.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "da/d35/a26449.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "CheckCast", "da/d35/a26449.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
+    [ "PrepareSpellScript", "da/d35/a26449.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
+    [ "Register", "da/d35/a26449.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
+    [ "TriggerDebuffs", "da/d35/a26449.html#a1579b28071e2194625f722a29ded39b8", null ],
+    [ "Validate", "da/d35/a26449.html#a767853d4b05e055cb32991bfe8c6516a", null ]
 ];

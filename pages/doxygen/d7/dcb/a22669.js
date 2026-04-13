@@ -1,7 +1,8 @@
 var a22669 =
 [
-    [ "HandleOnHit", "d7/dcb/a22669.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "d7/dcb/a22669.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "d7/dcb/a22669.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "d7/dcb/a22669.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "instance_black_temple_InstanceMapScript", "d7/dcb/a22669.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "d7/dcb/a22669.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "d7/dcb/a22669.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "d7/dcb/a22669.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "d7/dcb/a22669.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

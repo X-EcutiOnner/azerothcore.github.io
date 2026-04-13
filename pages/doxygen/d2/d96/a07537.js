@@ -1,10 +1,6 @@
 var a07537 =
 [
-    [ "Battleground2ChatBuilder", "d2/d96/a07537.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
-    [ "operator()", "d2/d96/a07537.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
-    [ "_arg1", "d2/d96/a07537.html#aa6959944406804f01baa18cd898bfc41", null ],
-    [ "_arg2", "d2/d96/a07537.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
-    [ "_msgtype", "d2/d96/a07537.html#a770d30e207e41a8f985776787d53f2cf", null ],
-    [ "_source", "d2/d96/a07537.html#a8867dd698d0457688202e1a9378255d2", null ],
-    [ "_textId", "d2/d96/a07537.html#a632cab30adc21c22f1a8890b1627262a", null ]
+    [ "ArenaSeasonRewardDistributor", "d2/d96/a07537.html#a9b60eb5be0be5c1be68b9c371c99f28c", null ],
+    [ "DistributeRewards", "d2/d96/a07537.html#a93640633dc11edda2cd1fce4f1da496b", null ],
+    [ "_rewarder", "d2/d96/a07537.html#af2801ea5d098bebac111589e1fcf7004", null ]
 ];

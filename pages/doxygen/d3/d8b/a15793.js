@@ -1,6 +1,6 @@
 var a15793 =
 [
-    [ "npc_muglashAI", "da/dc9/a15797.html", "da/dc9/a15797" ],
-    [ "npc_muglash", "d3/d8b/a15793.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "d3/d8b/a15793.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "npc_bunthen_plainswind", "d3/d8b/a15793.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "d3/d8b/a15793.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "d3/d8b/a15793.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

@@ -1,12 +1,14 @@
 var a17369 =
 [
-    [ "npc_shadowy_mercenaryAI", "d9/d90/a17369.html#ac631624615653a4f82ecfae2aa418455", null ],
-    [ "AttackStart", "d9/d90/a17369.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
-    [ "DoAction", "d9/d90/a17369.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
-    [ "EnterEvadeMode", "d9/d90/a17369.html#a31a9ddf038046534fad1d41afcf76548", null ],
-    [ "JustDied", "d9/d90/a17369.html#a33e576c92d1b10492cb6e65000ca8198", null ],
-    [ "JustEngagedWith", "d9/d90/a17369.html#ae12ade5e863a0022ea99620f354ca51b", null ],
-    [ "Reset", "d9/d90/a17369.html#afad174f812e2aadf6db86703a46f61d2", null ],
-    [ "UpdateAI", "d9/d90/a17369.html#a7a0238f32aa0d608b9d883db5f170052", null ],
-    [ "events", "d9/d90/a17369.html#a4c6e5a49dc4364477187a0189a166578", null ]
+    [ "boss_drakkari_colossusAI", "d9/d90/a17369.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
+    [ "DoAction", "d9/d90/a17369.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
+    [ "JustReachedHome", "d9/d90/a17369.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
+    [ "JustSummoned", "d9/d90/a17369.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
+    [ "MoveInLineOfSight", "d9/d90/a17369.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
+    [ "Reset", "d9/d90/a17369.html#a5e9c6da15df58a206533a7c718056c3e", null ],
+    [ "ScheduleTasks", "d9/d90/a17369.html#afefbba70f93142110dcf9d7940d91d2c", null ],
+    [ "SummonedCreatureDespawn", "d9/d90/a17369.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
+    [ "SummonedCreatureDies", "d9/d90/a17369.html#a59f9efbc2964eec057606d69458b4402", null ],
+    [ "UpdateAI", "d9/d90/a17369.html#afc816b7d1c2705675560ddd13ecce22d", null ],
+    [ "_secondEmerge", "d9/d90/a17369.html#a2e97f8f1f5c53efba04afc213f410870", null ]
 ];

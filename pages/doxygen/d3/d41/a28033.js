@@ -1,5 +1,7 @@
 var a28033 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "d3/d41/a28033.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "d3/d41/a28033.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "npc_prof_leather", "d3/d41/a28033.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "d3/d41/a28033.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "d3/d41/a28033.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "d3/d41/a28033.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

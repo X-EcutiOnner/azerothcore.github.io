@@ -1,26 +1,16 @@
 var a00572 =
 [
-    [ "map_id", "da/d7e/a29698.html", "da/d7e/a29698" ],
-    [ "_CRT_SECURE_NO_DEPRECATE", "d6/d06/a00572.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MPQ_BLOCK_SIZE", "d6/d06/a00572.html#a402d9c2814f85cee14f9bc8dbc999de8", null ],
-    [ "ExtractSingleWmo", "d6/d06/a00572.html#afc9839262206eb10094c1769141ae146", null ],
-    [ "FileExists", "d6/d06/a00572.html#aab524156a5705c5cd09f96106eaac92d", null ],
-    [ "fillArchiveNameVector", "d6/d06/a00572.html#a32b84e03161e7056f809d12d8b7b71b2", null ],
-    [ "GenerateUniqueObjectId", "d6/d06/a00572.html#a6a3d179f34597554b17a122f27cd6be5", null ],
-    [ "getGamePath", "d6/d06/a00572.html#a6bb580270fe96b7e6ccb585658850d17", null ],
-    [ "main", "d6/d06/a00572.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "ParsMapFiles", "d6/d06/a00572.html#a50c73ad000da4df06ae438373eeaf60e", null ],
-    [ "processArgv", "d6/d06/a00572.html#a8f05dfc74cc4db726161d81ab714bfe1", null ],
-    [ "scan_patches", "d6/d06/a00572.html#a995d89b97dfb31a6a8c1c4e1c96d47f4", null ],
-    [ "strToLower", "d6/d06/a00572.html#ac9e88429cc2168db83793cb7074bc69f", null ],
-    [ "gOpenArchives", "d6/d06/a00572.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ],
-    [ "hasInputPathParam", "d6/d06/a00572.html#a5ef7a611bb56bdaa370aaf1770059365", null ],
-    [ "input_path", "d6/d06/a00572.html#a773984b4a48966b7ea95d0586db0210b", null ],
-    [ "map_count", "d6/d06/a00572.html#a6fcdefd114e6ec71964d6539163fc055", null ],
-    [ "map_ids", "d6/d06/a00572.html#a12b965536bcabf2e2edd7db2196630cd", null ],
-    [ "output_path", "d6/d06/a00572.html#aeb9ec80db9cddb3d9ab2303f2a825d0b", null ],
-    [ "preciseVectorData", "d6/d06/a00572.html#a2191d2ffb8973cd0ddb269bcaa06a31d", null ],
-    [ "szWorkDirWmo", "d6/d06/a00572.html#ae79cb6c3493a63f0e1058be3bd5ba328", null ],
-    [ "uniqueObjectIds", "d6/d06/a00572.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154", null ],
-    [ "WmoDoodads", "d6/d06/a00572.html#a17b22c7645963c9e5c277b72605a4966", null ]
+    [ "AccountScript", "d2/d73/a10525.html", "d2/d73/a10525" ],
+    [ "AccountHook", "d6/d06/a00572.html#a4b5c567266fc875ca26b1f3c273a0e3f", [
+      [ "ACCOUNTHOOK_ON_ACCOUNT_LOGIN", "d6/d06/a00572.html#a4b5c567266fc875ca26b1f3c273a0e3fa97110c19d0d3bf4985d037248fc9a520", null ],
+      [ "ACCOUNTHOOK_ON_BEFORE_ACCOUNT_DELETE", "d6/d06/a00572.html#a4b5c567266fc875ca26b1f3c273a0e3fa68eae28cd3d4824d5a1f43be23334ecb", null ],
+      [ "ACCOUNTHOOK_ON_LAST_IP_UPDATE", "d6/d06/a00572.html#a4b5c567266fc875ca26b1f3c273a0e3faef7c124ffc203147c487a3fdf3fb3993", null ],
+      [ "ACCOUNTHOOK_ON_FAILED_ACCOUNT_LOGIN", "d6/d06/a00572.html#a4b5c567266fc875ca26b1f3c273a0e3fad9e09c448ea9ea11d0dab7b19364a744", null ],
+      [ "ACCOUNTHOOK_ON_EMAIL_CHANGE", "d6/d06/a00572.html#a4b5c567266fc875ca26b1f3c273a0e3fa614cf50cd5271ecd85b56e2c96417982", null ],
+      [ "ACCOUNTHOOK_ON_FAILED_EMAIL_CHANGE", "d6/d06/a00572.html#a4b5c567266fc875ca26b1f3c273a0e3fa8d513341e8c3bd3b9ab3d56ad1854fdf", null ],
+      [ "ACCOUNTHOOK_ON_PASSWORD_CHANGE", "d6/d06/a00572.html#a4b5c567266fc875ca26b1f3c273a0e3fa1a346d78a8f0cd7fbf326655e791eec5", null ],
+      [ "ACCOUNTHOOK_ON_FAILED_PASSWORD_CHANGE", "d6/d06/a00572.html#a4b5c567266fc875ca26b1f3c273a0e3faa64f8339ee297e9e9d5591423f18f283", null ],
+      [ "ACCOUNTHOOK_CAN_ACCOUNT_CREATE_CHARACTER", "d6/d06/a00572.html#a4b5c567266fc875ca26b1f3c273a0e3fabbf594e3be51c108e40d535b8ba1baf3", null ],
+      [ "ACCOUNTHOOK_END", "d6/d06/a00572.html#a4b5c567266fc875ca26b1f3c273a0e3fafdbdba3262877bcac001a3013cdd4f5f", null ]
+    ] ]
 ];

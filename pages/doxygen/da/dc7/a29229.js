@@ -1,8 +1,6 @@
 var a29229 =
 [
-    [ "Id", "da/dc7/a29229.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "da/dc7/a29229.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "da/dc7/a29229.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "da/dc7/a29229.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "da/dc7/a29229.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "conditionsMet", "da/dc7/a29229.html#ade58814e6b27763d1bb6c1f730ef53e0", null ],
+    [ "hasConditions", "da/dc7/a29229.html#a160ac902a994fdaaa36b66dbaa4c8282", null ],
+    [ "sourceType", "da/dc7/a29229.html#abbfa5f40abb5713e15311f8259d70dc6", null ]
 ];

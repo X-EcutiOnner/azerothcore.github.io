@@ -1,6 +1,6 @@
 var a27321 =
 [
-    [ "HandleRemove", "db/d6c/a27321.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "db/d6c/a27321.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "db/d6c/a27321.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "FilterTargets", "db/d6c/a27321.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "db/d6c/a27321.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "db/d6c/a27321.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

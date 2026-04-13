@@ -1,6 +1,7 @@
 var a18341 =
 [
-    [ "npc_gas_cloudAI", "db/d9c/a18345.html", "db/d9c/a18345" ],
-    [ "npc_gas_cloud", "d4/d06/a18341.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "d4/d06/a18341.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "HandleTriggerMissile", "d4/d06/a18341.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "d4/d06/a18341.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "d4/d06/a18341.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "d4/d06/a18341.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

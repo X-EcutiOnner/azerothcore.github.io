@@ -1,10 +1,6 @@
 var a23693 =
 [
-    [ "boss_harbinger_skyriss", "d1/d02/a23693.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "d1/d02/a23693.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "d1/d02/a23693.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "d1/d02/a23693.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "d1/d02/a23693.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "d1/d02/a23693.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "d1/d02/a23693.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "go_magtheridons_head", "d1/d02/a23693.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "d1/d02/a23693.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "d1/d02/a23693.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

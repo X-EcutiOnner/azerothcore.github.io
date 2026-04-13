@@ -1,4 +1,7 @@
 var a04082 =
 [
-    [ "SplineRawInitializer", "d0/d6f/a10178.html", "d0/d6f/a10178" ]
+    [ "instance_eye_of_eternity", "da/db4/a19485.html", "da/db4/a19485" ],
+    [ "AddSC_instance_eye_of_eternity", "db/d64/a04082.html#acd10e2ef086dd7938d397abc8ced1de3", null ],
+    [ "creatureData", "db/d64/a04082.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "gameobjectData", "db/d64/a04082.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

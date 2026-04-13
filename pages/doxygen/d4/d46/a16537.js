@@ -1,5 +1,6 @@
 var a16537 =
 [
-    [ "at_baltharus_plateau", "d4/d46/a16537.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "d4/d46/a16537.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "FilterTargets", "d4/d46/a16537.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
+    [ "PrepareSpellScript", "d4/d46/a16537.html#a697a52cbc50eafd2b0377621afb01557", null ],
+    [ "Register", "d4/d46/a16537.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
 ];

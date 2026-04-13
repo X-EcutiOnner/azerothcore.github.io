@@ -1,6 +1,5 @@
 var a27633 =
 [
-    [ "HandleAuraApply", "d5/d6d/a27633.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d5/d6d/a27633.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d5/d6d/a27633.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "achievement_not_even_a_scratch", "d5/d6d/a27633.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d5/d6d/a27633.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

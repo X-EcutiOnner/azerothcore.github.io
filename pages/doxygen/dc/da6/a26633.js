@@ -1,6 +1,6 @@
 var a26633 =
 [
-    [ "CheckProc", "dc/da6/a26633.html#a0f1461140b08deac3f044142067368e7", null ],
-    [ "PrepareAuraScript", "dc/da6/a26633.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
-    [ "Register", "dc/da6/a26633.html#a05e31c2252c9054a18b4267be84895b9", null ]
+    [ "HandleScriptEffect", "dc/da6/a26633.html#a8b60ae77f13045a582548fe5d1186d54", null ],
+    [ "PrepareSpellScript", "dc/da6/a26633.html#ad68619783c4a1aad5a24826bf5d89858", null ],
+    [ "Register", "dc/da6/a26633.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
 ];

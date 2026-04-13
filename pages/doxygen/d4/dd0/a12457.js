@@ -1,6 +1,8 @@
 var a12457 =
 [
-    [ "boss_magmusAI", "db/d1c/a12461.html", "db/d1c/a12461" ],
-    [ "boss_magmus", "d4/dd0/a12457.html#a97747c0d7e1fd33204033d6061d6d570", null ],
-    [ "GetAI", "d4/dd0/a12457.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
+    [ "boss_eviscerator", "d4/dd0/a12457.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
+    [ "DamageTaken", "d4/dd0/a12457.html#af31de4643026e44c80252e156a39bc69", null ],
+    [ "JustEngagedWith", "d4/dd0/a12457.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
+    [ "UpdateAI", "d4/dd0/a12457.html#af974908902d30b8144d1b734e795d6ea", null ],
+    [ "SpellShieldReady", "d4/dd0/a12457.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
 ];

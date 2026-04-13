@@ -1,6 +1,5 @@
 var a21761 =
 [
-    [ "npc_heated_battleAI", "de/d8a/a21761.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "de/d8a/a21761.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "de/d8a/a21761.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "npc_guardian_pavilionAI", "de/d8a/a21761.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "de/d8a/a21761.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

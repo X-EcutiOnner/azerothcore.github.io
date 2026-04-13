@@ -1,6 +1,6 @@
 var a19025 =
 [
-    [ "HandleScript", "dc/db3/a19025.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "dc/db3/a19025.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "dc/db3/a19025.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "npc_icc_severed_essenceAI", "d4/d20/a19029.html", "d4/d20/a19029" ],
+    [ "npc_icc_severed_essence", "dc/db3/a19025.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
+    [ "GetAI", "dc/db3/a19025.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
 ];

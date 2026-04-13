@@ -1,6 +1,9 @@
 var a16557 =
 [
-    [ "SendEncounterUnit", "d4/d81/a16557.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "d4/d81/a16557.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "d4/d81/a16557.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d4/d81/a16557.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "d4/d81/a16557.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "d4/d81/a16557.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "d4/d81/a16557.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "d4/d81/a16557.html#a74b5fb1d3631c404e7797085e45e6159", null ],
+    [ "WaypointReached", "d4/d81/a16557.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

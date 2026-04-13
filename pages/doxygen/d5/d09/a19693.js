@@ -1,5 +1,6 @@
 var a19693 =
 [
-    [ "npc_living_poison", "d5/d09/a19693.html#a277440068846eac71c795880a16475dd", null ],
-    [ "UpdateAI", "d5/d09/a19693.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
+    [ "CalculateDamage", "d5/d09/a19693.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d5/d09/a19693.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d5/d09/a19693.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

@@ -1,6 +1,9 @@
 var a11233 =
 [
-    [ "ComplainResult", "de/d8f/a11233.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
-    [ "Write", "de/d8f/a11233.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
-    [ "Unk", "de/d8f/a11233.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
+    [ "LevelUpInfo", "de/d8f/a11233.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "de/d8f/a11233.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "de/d8f/a11233.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "de/d8f/a11233.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "de/d8f/a11233.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "de/d8f/a11233.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

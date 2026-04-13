@@ -1,6 +1,6 @@
 var a23173 =
 [
-    [ "HandleDummy", "da/d6a/a23173.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "da/d6a/a23173.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "da/d6a/a23173.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d6/d3f/a23177.html", "d6/d3f/a23177" ],
+    [ "instance_blood_furnace", "da/d6a/a23173.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "da/d6a/a23173.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

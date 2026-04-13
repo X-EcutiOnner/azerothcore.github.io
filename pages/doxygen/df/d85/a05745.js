@@ -1,7 +1,8 @@
 var a05745 =
 [
-    [ "EnumText", "df/d85/a05745.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
-    [ "Constant", "df/d85/a05745.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
-    [ "Description", "df/d85/a05745.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
-    [ "Title", "df/d85/a05745.html#a7326575ea4083e28ac62556526a092a4", null ]
+    [ "Event", "df/d85/a05745.html#acd0d1988a60808384e2cc0dba8735cd3", null ],
+    [ "Event", "df/d85/a05745.html#a0c6f6d46b2210c42e41fbeb1241c9e7d", null ],
+    [ "_groupMask", "df/d85/a05745.html#a7f752259eafab986537db2d70c56d211", null ],
+    [ "_id", "df/d85/a05745.html#a7b60d3d526fd45833d87165d8356f896", null ],
+    [ "_phaseMask", "df/d85/a05745.html#afce8fa5e187a1c2110a06c70707db247", null ]
 ];

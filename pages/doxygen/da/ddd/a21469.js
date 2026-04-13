@@ -1,10 +1,6 @@
 var a21469 =
 [
-    [ "npc_azure_spellbreakerAI", "da/ddd/a21469.html#a1daf4cb20f4081380d8deda9a58da2fd", null ],
-    [ "Reset", "da/ddd/a21469.html#a731ff2d4311359145c353de2d91935c8", null ],
-    [ "UpdateAI", "da/ddd/a21469.html#a053ecfe5c78220c4fa1ac896ce161210", null ],
-    [ "uiArcaneBlastTimer", "da/ddd/a21469.html#a1e752971a31c7d3415c1820eb3574a98", null ],
-    [ "uiChainsOfIceTimer", "da/ddd/a21469.html#a2cbf33865a79a781d8b7aad04cd2095c", null ],
-    [ "uiConeOfColdTimer", "da/ddd/a21469.html#a4970c7459b044b08bf36e17c703395fb", null ],
-    [ "uiSlowTimer", "da/ddd/a21469.html#a2a02b42ec104cfb6682782a80f813eef", null ]
+    [ "GhoulTargetCheck", "da/ddd/a21469.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "da/ddd/a21469.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "da/ddd/a21469.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

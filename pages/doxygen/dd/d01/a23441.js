@@ -1,11 +1,6 @@
 var a23441 =
 [
-    [ "boss_gruul", "dd/d01/a23441.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "dd/d01/a23441.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "dd/d01/a23441.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "dd/d01/a23441.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "dd/d01/a23441.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "dd/d01/a23441.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "dd/d01/a23441.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "dd/d01/a23441.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "AfterRemove", "dd/d01/a23441.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "dd/d01/a23441.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "dd/d01/a23441.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

@@ -1,14 +1,16 @@
 var a13377 =
 [
-    [ "boss_selin_fireheart", "d3/d57/a13377.html#ae3270a227550391fd752d3f241e5ea46", null ],
-    [ "CanAIAttack", "d3/d57/a13377.html#a36f409a006a09812452052d554d5e810", null ],
-    [ "JustDied", "d3/d57/a13377.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
-    [ "JustEngagedWith", "d3/d57/a13377.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
-    [ "KilledUnit", "d3/d57/a13377.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
-    [ "MovementInform", "d3/d57/a13377.html#a8072412acc5f52fdeea3b4f740021a91", null ],
-    [ "OnPowerUpdate", "d3/d57/a13377.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
-    [ "Reset", "d3/d57/a13377.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
-    [ "SelectNearestCrystal", "d3/d57/a13377.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
-    [ "SpawnCrystals", "d3/d57/a13377.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
-    [ "SummonedCreatureDies", "d3/d57/a13377.html#a396341d39bead723a7c6f716c08aa447", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "d3/d57/a13377.html#a4abdd53f735be815cb2d43497d1531e0", null ],
+    [ "GetData", "d3/d57/a13377.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
+    [ "GetGuidData", "d3/d57/a13377.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
+    [ "OnCreatureCreate", "d3/d57/a13377.html#a71fcfc166f945325a4ee149645a9ccef", null ],
+    [ "OnGameObjectCreate", "d3/d57/a13377.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
+    [ "SetData", "d3/d57/a13377.html#aaf498d563d070d6250a182f583651777", null ],
+    [ "_ashbringerNpcGUID", "d3/d57/a13377.html#a1abdafc284def7ab4069a17c0aeda535", null ],
+    [ "_ashencounter", "d3/d57/a13377.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
+    [ "_doorChapelGUID", "d3/d57/a13377.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
+    [ "_doorHighInquisitorGUID", "d3/d57/a13377.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
+    [ "_encounter", "d3/d57/a13377.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
+    [ "_mograineGUID", "d3/d57/a13377.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
+    [ "_whitemaneGUID", "d3/d57/a13377.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
 ];

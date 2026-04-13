@@ -1,8 +1,7 @@
 var a15833 =
 [
-    [ "npc_death_ravagerAI", "d3/d42/a15833.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "d3/d42/a15833.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "d3/d42/a15833.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "d3/d42/a15833.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "d3/d42/a15833.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "npc_thrall_warchiefAI", "dc/dfe/a15837.html", "dc/dfe/a15837" ],
+    [ "npc_thrall_warchief", "d3/d42/a15833.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "d3/d42/a15833.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnQuestReward", "d3/d42/a15833.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

@@ -1,12 +1,13 @@
 var a22925 =
 [
-    [ "boss_shade_of_akama", "d2/d75/a22925.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "d2/d75/a22925.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "d2/d75/a22925.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "d2/d75/a22925.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "d2/d75/a22925.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "d2/d75/a22925.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "d2/d75/a22925.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "d2/d75/a22925.html#a63372527172d3f96f533b5776221c2e7", null ],
-    [ "generators", "d2/d75/a22925.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
+    [ "npc_earthen_ring_flamecaller", "d2/d75/a22925.html#ab402dd321fa0df641b674324386d7591", null ],
+    [ "DoAction", "d2/d75/a22925.html#af745c83529a34a89c430d6113703fff5", null ],
+    [ "LookOpening", "d2/d75/a22925.html#adfc752e7700a816b66b639007a1a90fa", null ],
+    [ "MovementInform", "d2/d75/a22925.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
+    [ "Reset", "d2/d75/a22925.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
+    [ "SpellHit", "d2/d75/a22925.html#ab9c5ad7e56033997042031566748ee2b", null ],
+    [ "UpdateAI", "d2/d75/a22925.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
+    [ "_events", "d2/d75/a22925.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
+    [ "_instance", "d2/d75/a22925.html#a79aa6e628a50ed485cc55513c28362dc", null ],
+    [ "_mySpot", "d2/d75/a22925.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
 ];

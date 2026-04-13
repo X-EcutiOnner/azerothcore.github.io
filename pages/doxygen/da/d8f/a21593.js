@@ -1,6 +1,11 @@
 var a21593 =
 [
-    [ "npc_hidden_cultistAI", "d9/d7c/a21597.html", "d9/d7c/a21597" ],
-    [ "npc_hidden_cultist", "da/d8f/a21593.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "da/d8f/a21593.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "npc_lake_frogAI", "da/d8f/a21593.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
+    [ "ReceiveEmote", "da/d8f/a21593.html#abd58e65b6829c70818c578ed615a980b", null ],
+    [ "Reset", "da/d8f/a21593.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
+    [ "sGossipSelect", "da/d8f/a21593.html#a95906677ff65e004408ae65df3f49b5c", null ],
+    [ "UpdateAI", "da/d8f/a21593.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
+    [ "_events", "da/d8f/a21593.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
+    [ "_following", "da/d8f/a21593.html#a0078f9134a61f0ec2465ce103523e341", null ],
+    [ "_runningScript", "da/d8f/a21593.html#af76102ba6c9ffd80baa95623b7312980", null ]
 ];

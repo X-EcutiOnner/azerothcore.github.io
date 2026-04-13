@@ -1,6 +1,10 @@
 var a16333 =
 [
-    [ "ModDestHeight", "de/dd1/a16333.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "de/dd1/a16333.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "de/dd1/a16333.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "npc_xerestraszaAI", "de/dd1/a16333.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
+    [ "DoAction", "de/dd1/a16333.html#af696ecee315892b2bf0233113d2f89f9", null ],
+    [ "Reset", "de/dd1/a16333.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
+    [ "UpdateAI", "de/dd1/a16333.html#a6389ab58f4b44c668590113ec75f2adf", null ],
+    [ "_events", "de/dd1/a16333.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
+    [ "_introDone", "de/dd1/a16333.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
+    [ "_isIntro", "de/dd1/a16333.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
 ];

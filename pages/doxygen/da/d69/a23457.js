@@ -1,7 +1,5 @@
 var a23457 =
 [
-    [ "OnApply", "da/d69/a23457.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "da/d69/a23457.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "da/d69/a23457.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "da/d69/a23457.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "npc_lord_sanguinar", "da/d69/a23457.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "da/d69/a23457.html#af9231da98547875527a519c5884cbec0", null ]
 ];

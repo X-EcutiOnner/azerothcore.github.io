@@ -1,12 +1,8 @@
 var a20657 =
 [
-    [ "npc_ulduar_flames_initial", "d7/db7/a20657.html#afccccada26b0cc4dc2d40eb2a500f433", null ],
-    [ "DoAction", "d7/db7/a20657.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
-    [ "RemoveAll", "d7/db7/a20657.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
-    [ "RemoveFlame", "d7/db7/a20657.html#ad676a542b40b554027fc2ab491fa083d", null ],
-    [ "SpreadFlame", "d7/db7/a20657.html#af50c950610f5277a755d1786b596b9d7", null ],
-    [ "UpdateAI", "d7/db7/a20657.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
-    [ "CreateTime", "d7/db7/a20657.html#a3c144d00dde48bf3ff5c50f458015951", null ],
-    [ "events", "d7/db7/a20657.html#aef4e95ffc9c7abb15d932e7abd926972", null ],
-    [ "FlameList", "d7/db7/a20657.html#abb7318634b633756a2fa23fda81d4fd8", null ]
+    [ "OnApply", "d7/db7/a20657.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "d7/db7/a20657.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "d7/db7/a20657.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "d7/db7/a20657.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "d7/db7/a20657.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

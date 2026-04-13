@@ -1,9 +1,11 @@
 var a12565 =
 [
-    [ "boss_overlordwyrmthalakAI", "df/d49/a12565.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
-    [ "JustDied", "df/d49/a12565.html#ade379755d256c4c290e6dc8bbd862261", null ],
-    [ "JustEngagedWith", "df/d49/a12565.html#af7780f467df92c9218700773d1257a8c", null ],
-    [ "Reset", "df/d49/a12565.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
-    [ "UpdateAI", "df/d49/a12565.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
-    [ "Summoned", "df/d49/a12565.html#a8183e3f02d931809440adc8cc0cd3654", null ]
+    [ "boss_solakar_flamewreath", "df/d49/a12565.html#aff732901de1306b363e5a3d9994b3c9b", null ],
+    [ "ExecuteEvent", "df/d49/a12565.html#a72bf587aae341ba70bd219c8d97fe9a1", null ],
+    [ "InitializeAI", "df/d49/a12565.html#a21875946b8e9cfa8711f36f98a61a034", null ],
+    [ "JustDied", "df/d49/a12565.html#ae4d59238a359487e44985e040ee27732", null ],
+    [ "JustEngagedWith", "df/d49/a12565.html#af6a0c97341547ea852d9a09d3b66358e", null ],
+    [ "Reset", "df/d49/a12565.html#ae83c926a718af8ee0d90b8a9be800031", null ],
+    [ "UpdateAI", "df/d49/a12565.html#ad211f24ce4019724060441529ceaa780", null ],
+    [ "resetTimer", "df/d49/a12565.html#a602092d8262420bc51eef286b7c96d84", null ]
 ];

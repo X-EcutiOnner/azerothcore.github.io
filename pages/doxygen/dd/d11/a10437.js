@@ -1,12 +1,13 @@
 var a10437 =
 [
-    [ "QuestLocale", "dd/d11/a10437.html#a887d474a470ee0278fb4b465a7ad9547", null ],
-    [ "AreaDescription", "dd/d11/a10437.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
-    [ "CompletedText", "dd/d11/a10437.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
-    [ "Details", "dd/d11/a10437.html#afd23d37c92f2b28e1c125bba0d670497", null ],
-    [ "Objectives", "dd/d11/a10437.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
-    [ "ObjectiveText", "dd/d11/a10437.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
-    [ "OfferRewardText", "dd/d11/a10437.html#aaba6d07625232a77e3457454f7d4fa77", null ],
-    [ "RequestItemsText", "dd/d11/a10437.html#a764d2092084454844e59c484fb637017", null ],
-    [ "Title", "dd/d11/a10437.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
+    [ "entry", "dd/d11/a10437.html#a300fb240386044aab139e777d6244d19", null ],
+    [ "map", "dd/d11/a10437.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
+    [ "o", "dd/d11/a10437.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
+    [ "rot0", "dd/d11/a10437.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
+    [ "rot1", "dd/d11/a10437.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
+    [ "rot2", "dd/d11/a10437.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
+    [ "rot3", "dd/d11/a10437.html#a60460fc3030b24eef0246dae28af2282", null ],
+    [ "x", "dd/d11/a10437.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
+    [ "y", "dd/d11/a10437.html#ab42ebe981ba589e3d67110487bd88255", null ],
+    [ "z", "dd/d11/a10437.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
 ];

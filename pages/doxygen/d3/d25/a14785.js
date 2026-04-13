@@ -1,11 +1,17 @@
 var a14785 =
 [
-    [ "npc_high_oracle_soo_roo", "d3/d25/a14785.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
-    [ "MoveInLineOfSight", "d3/d25/a14785.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
-    [ "Reset", "d3/d25/a14785.html#a89a60a83a46e0095045b2353e50483ed", null ],
-    [ "UpdateAI", "d3/d25/a14785.html#ac22cfa519e478da643a51ae887f306fd", null ],
-    [ "orphanGUID", "d3/d25/a14785.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
-    [ "phase", "d3/d25/a14785.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
-    [ "playerGUID", "d3/d25/a14785.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
-    [ "timer", "d3/d25/a14785.html#aa5238d3ee361374681947de874391a1f", null ]
+    [ "npc_midsummer_ribbon_pole_target", "d3/d25/a14785.html#ac09222eff300a11e03e8a3a1c9a3fd5f", null ],
+    [ "DoCleanupChecks", "d3/d25/a14785.html#a5e5a67ed5492db34fd6c2e28a2cd7f74", null ],
+    [ "DoDancingFLameChecks", "d3/d25/a14785.html#af4e76d832c3fd47eb88c1a69d0cdf9ff", null ],
+    [ "DoFireworkChecks", "d3/d25/a14785.html#a19eb48c537d58ad8f2021e9eabe4fae2", null ],
+    [ "DoFlameCircleChecks", "d3/d25/a14785.html#af37e104b67dcf9a2c181c142d56cc708", null ],
+    [ "DoGroundFlowerChecks", "d3/d25/a14785.html#a0a9961eb0c2d5afde8f96bb0580d1974", null ],
+    [ "DoSpewLavaChecks", "d3/d25/a14785.html#a94086429fe5cf506c64ea79ebcf03317", null ],
+    [ "LocateRibbonPole", "d3/d25/a14785.html#a55f16f2ced0045ea373e9d0a239301d1", null ],
+    [ "SpawnFireSpiralBunny", "d3/d25/a14785.html#ae91d1899212fa391f6ae4ec3a1de6e85", null ],
+    [ "SpellHit", "d3/d25/a14785.html#ab732995946655894611eb1c12ce4e8a8", null ],
+    [ "UpdateAI", "d3/d25/a14785.html#affeb3025627dd5697f0c4dccab66d3b6", null ],
+    [ "_bunny", "d3/d25/a14785.html#a0161d569d4c1fb2e1bf69936312be8df", null ],
+    [ "_dancerList", "d3/d25/a14785.html#a41e453f742a06bc7485e290756dbc746", null ],
+    [ "_ribbonPole", "d3/d25/a14785.html#aeea38608ae98cd5597c104ea04e32523", null ]
 ];

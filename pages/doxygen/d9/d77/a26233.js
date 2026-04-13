@@ -1,7 +1,9 @@
 var a26233 =
 [
-    [ "HandleProc", "d9/d77/a26233.html#ac3ee18bf705b107ec87ce6974a7442a5", null ],
-    [ "PrepareAuraScript", "d9/d77/a26233.html#ab4b5f754ced5843a753e8dd6a6ba779c", null ],
-    [ "Register", "d9/d77/a26233.html#a4fc4de06c7906d95a45635b418c7d760", null ],
-    [ "Validate", "d9/d77/a26233.html#a7ec7e886d7757163e5ae81b579a0ef04", null ]
+    [ "AllowT10Proc", "d9/d77/a26233.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
+    [ "OnRemove", "d9/d77/a26233.html#a52807f94eba44a9b574577a0b27acb22", null ],
+    [ "PrepareAuraScript", "d9/d77/a26233.html#a430303b7df445d38da9316324359c2d6", null ],
+    [ "Register", "d9/d77/a26233.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
+    [ "Validate", "d9/d77/a26233.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
+    [ "_canProcT10", "d9/d77/a26233.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
 ];

@@ -1,5 +1,5 @@
 var a27997 =
 [
-    [ "achievement_killed_exp_or_honor_target", "dd/d3d/a27997.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "dd/d3d/a27997.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "item_petrov_cluster_bombs", "dd/d3d/a27997.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "dd/d3d/a27997.html#a14e8a00a532b5aebc8469ff538848f53", null ]
 ];

@@ -1,8 +1,26 @@
 var a20273 =
 [
-    [ "OnApply", "d2/d6f/a20273.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "d2/d6f/a20273.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "d2/d6f/a20273.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "d2/d6f/a20273.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "d2/d6f/a20273.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "boss_kologarn", "d2/d6f/a20273.html#a785ca1b78ef1c04b3c1d5f0b243b99d9", null ],
+    [ "AttachLeftArm", "d2/d6f/a20273.html#a74183a296b722f14ff6d06751733f425", null ],
+    [ "AttachRightArm", "d2/d6f/a20273.html#ab6daf2bc1350574ca3d96864fbac298a", null ],
+    [ "AttackStart", "d2/d6f/a20273.html#a87285d89c60ad61b76805e7bef75c55f", null ],
+    [ "DamageTaken", "d2/d6f/a20273.html#a78f85fbbf7da9a6b8dd78859ec727bf5", null ],
+    [ "DoAction", "d2/d6f/a20273.html#af7bf97511705a8dabb6fe40334c3a38a", null ],
+    [ "EnterEvadeMode", "d2/d6f/a20273.html#ac372b1e4f7ae9478066b1ff990853025", null ],
+    [ "GetData", "d2/d6f/a20273.html#a1b1929673af5db04cf3b00400784b06d", null ],
+    [ "JustDied", "d2/d6f/a20273.html#a519cf71d4734d9e67af10ac5516c544a", null ],
+    [ "JustEngagedWith", "d2/d6f/a20273.html#a6638cf2efb62d2a2b861e78e360554f3", null ],
+    [ "JustSummoned", "d2/d6f/a20273.html#a18c17d9dd89aeb8dd154b2a2dc1bd0ed", null ],
+    [ "KilledUnit", "d2/d6f/a20273.html#ac311a3c891f723d82c6c848675b27c4e", null ],
+    [ "MoveInLineOfSight", "d2/d6f/a20273.html#ad6fd6e129721757fca0d36e31bd7269c", null ],
+    [ "PassengerBoarded", "d2/d6f/a20273.html#a14aaed01a6d1824521e4e95c751cc248", null ],
+    [ "Reset", "d2/d6f/a20273.html#a56a7feee3a13fdb499e87549343aaca5", null ],
+    [ "SummonedCreatureDespawn", "d2/d6f/a20273.html#a3c449eaadc7e505c91ff60ee240f5a3c", null ],
+    [ "UpdateAI", "d2/d6f/a20273.html#a658921f3049414613e5b2245d6137c61", null ],
+    [ "_left", "d2/d6f/a20273.html#aea5354051bd277287336c670296442b8", null ],
+    [ "_looksAchievement", "d2/d6f/a20273.html#a5ecb293f05940091d3c824025d474bd3", null ],
+    [ "_right", "d2/d6f/a20273.html#a955364165d45784ca506bf77d8ab7e7c", null ],
+    [ "_rubbleAchievement", "d2/d6f/a20273.html#a5d7df3f5ef09e7f294759be909d9d955", null ],
+    [ "breathReady", "d2/d6f/a20273.html#a4ad6f7048bf3ba0bb39294cf4a7ca118", null ],
+    [ "vehicle", "d2/d6f/a20273.html#a660ae775be9cf6c5e506a31d97c720fa", null ]
 ];

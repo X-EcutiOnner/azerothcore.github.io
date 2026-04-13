@@ -1,7 +1,7 @@
 var a27841 =
 [
-    [ "OnProc", "d2/d9e/a27841.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d2/d9e/a27841.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d2/d9e/a27841.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d2/d9e/a27841.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "go_brewfest_musicAI", "d2/d9e/a27841.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "d2/d9e/a27841.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "d2/d9e/a27841.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "d2/d9e/a27841.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

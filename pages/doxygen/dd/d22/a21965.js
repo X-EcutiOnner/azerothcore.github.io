@@ -1,6 +1,6 @@
 var a21965 =
 [
-    [ "npc_attracted_reef_bullAI", "dd/d22/a21965.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "dd/d22/a21965.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "dd/d22/a21965.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "HandleDamage", "dd/d22/a21965.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "dd/d22/a21965.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "dd/d22/a21965.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

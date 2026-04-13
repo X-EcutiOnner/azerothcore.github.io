@@ -1,10 +1,13 @@
 var a00608 =
 [
-    [ "ListFilesResult", "d4/d14/a00608.html#a030b28c9f552c0de4a4b4844fc5e6101", [
-      [ "LISTFILE_DIRECTORY_NOT_FOUND", "d4/d14/a00608.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6", null ],
-      [ "LISTFILE_OK", "d4/d14/a00608.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687", null ]
-    ] ],
-    [ "executableDirectoryPath", "d4/d14/a00608.html#acc9fa8dfc5903454eab1eb410866b694", null ],
-    [ "getDirContents", "d4/d14/a00608.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab", null ],
-    [ "matchWildcardFilter", "d4/d14/a00608.html#a0b1c31a5b3e8bebc7fa860b40f7997e1", null ]
+    [ "ServerScript", "d3/d4e/a10705.html", "d3/d4e/a10705" ],
+    [ "ServerHook", "d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9", [
+      [ "SERVERHOOK_ON_NETWORK_START", "d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3", null ],
+      [ "SERVERHOOK_ON_NETWORK_STOP", "d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4", null ],
+      [ "SERVERHOOK_ON_SOCKET_OPEN", "d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd", null ],
+      [ "SERVERHOOK_ON_SOCKET_CLOSE", "d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d", null ],
+      [ "SERVERHOOK_CAN_PACKET_SEND", "d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12", null ],
+      [ "SERVERHOOK_CAN_PACKET_RECEIVE", "d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971", null ],
+      [ "SERVERHOOK_END", "d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc", null ]
+    ] ]
 ];

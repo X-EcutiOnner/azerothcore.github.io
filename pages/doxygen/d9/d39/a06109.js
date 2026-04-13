@@ -1,11 +1,24 @@
 var a06109 =
 [
-    [ "SQLOperation", "d9/d39/a06109.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "d9/d39/a06109.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "d9/d39/a06109.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "d9/d39/a06109.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "d9/d39/a06109.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "d9/d39/a06109.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "d9/d39/a06109.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "d9/d39/a06109.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "QueryCallbackData", "df/d5e/a06101.html", "df/d5e/a06101" ],
+    [ "QueryCallback", "d9/d39/a06109.html#a66ee303783486beec802351027c466e0", null ],
+    [ "QueryCallback", "d9/d39/a06109.html#ac3ff3ce98767a2df178586b28f753b1e", null ],
+    [ "QueryCallback", "d9/d39/a06109.html#a6dd1e7c0b80f6420d820629b1d4c7f83", null ],
+    [ "~QueryCallback", "d9/d39/a06109.html#a85c9655f50b29e696adc0498615498fe", null ],
+    [ "QueryCallback", "d9/d39/a06109.html#a18c36fe01e5bc1ffa92b1ddf9a1873e8", null ],
+    [ "InvokeIfReady", "d9/d39/a06109.html#a4fa575b3a905906cde2fe1c24362639e", null ],
+    [ "operator=", "d9/d39/a06109.html#a825e0907ca606c764e967696dd4397a8", null ],
+    [ "operator=", "d9/d39/a06109.html#aecac362ce15206aef0f544e9485a5bcd", null ],
+    [ "SetNextQuery", "d9/d39/a06109.html#a88ad1ca3946b0db8db4f7befca1d1b9e", null ],
+    [ "WithCallback", "d9/d39/a06109.html#a5e53829af90b6661ffcf0eefdb5c8f25", null ],
+    [ "WithChainingCallback", "d9/d39/a06109.html#ab96af2084492fb64756ab1d751da2283", null ],
+    [ "WithChainingPreparedCallback", "d9/d39/a06109.html#a9c098ed933e0fcd1f639c23dae546f8a", null ],
+    [ "WithPreparedCallback", "d9/d39/a06109.html#af881e4cbb2742817a4075d9d6deef26c", null ],
+    [ "ConstructActiveMember", "d9/d39/a06109.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "DestroyActiveMember", "d9/d39/a06109.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "d9/d39/a06109.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ],
+    [ "_callbacks", "d9/d39/a06109.html#a0c1c3dbbe82846340770760cf9c11aa4", null ],
+    [ "_isPrepared", "d9/d39/a06109.html#a4421543960dfbf550988ba4e7aa71a1f", null ],
+    [ "_prepared", "d9/d39/a06109.html#a2de8fa0d761f5e412b95209db02ceb11", null ],
+    [ "_string", "d9/d39/a06109.html#a127cf43567892ef69ac864862165308a", null ]
 ];

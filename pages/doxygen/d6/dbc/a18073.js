@@ -1,6 +1,6 @@
 var a18073 =
 [
-    [ "npc_gunship_boarding_leaderAI", "dc/d5d/a18077.html", "dc/d5d/a18077" ],
-    [ "npc_gunship_boarding_leader", "d6/dbc/a18073.html#a8390eadab34a89643252f573588b140a", null ],
-    [ "GetAI", "d6/dbc/a18073.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
+    [ "npc_gas_cloudAI", "d6/dbc/a18073.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
+    [ "CastMainSpell", "d6/dbc/a18073.html#a61681f6f9616fe33274302d4160c709b", null ],
+    [ "_newTargetSelectTimer", "d6/dbc/a18073.html#a6989b904abaa5b71362e43664f4b084d", null ]
 ];

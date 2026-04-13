@@ -1,11 +1,6 @@
 var a15105 =
 [
-    [ "boss_anetheron", "d2/dec/a15105.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "d2/dec/a15105.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "d2/dec/a15105.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "d2/dec/a15105.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "d2/dec/a15105.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "d2/dec/a15105.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "d2/dec/a15105.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "d2/dec/a15105.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "d1/db5/a15109.html", "d1/db5/a15109" ],
+    [ "instance_culling_of_stratholme", "d2/dec/a15105.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
+    [ "GetInstanceScript", "d2/dec/a15105.html#ad8cbcb198666d44d79d6255d066c8315", null ]
 ];

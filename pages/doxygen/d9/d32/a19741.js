@@ -1,6 +1,6 @@
 var a19741 =
 [
-    [ "FilterTargets", "d9/d32/a19741.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "PrepareSpellScript", "d9/d32/a19741.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "d9/d32/a19741.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
+    [ "boss_sjonnirAI", "d4/d0a/a19745.html", "d4/d0a/a19745" ],
+    [ "boss_sjonnir", "d9/d32/a19741.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
+    [ "GetAI", "d9/d32/a19741.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
 ];

@@ -1,6 +1,7 @@
 var a24213 =
 [
-    [ "npc_enraged_spiritAI", "d1/dc3/a24217.html", "d1/dc3/a24217" ],
-    [ "npc_enraged_spirit", "d2/d4d/a24213.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d2/d4d/a24213.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "CheckCast", "d2/d4d/a24213.html#ab215bbeea333d250ecbff0482f4f0966", null ],
+    [ "FilterTargets", "d2/d4d/a24213.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
+    [ "PrepareSpellScript", "d2/d4d/a24213.html#a83447d184bb2299987d0c54d5af4c910", null ],
+    [ "Register", "d2/d4d/a24213.html#a6107ba00471dd346c363db80fe81b698", null ]
 ];

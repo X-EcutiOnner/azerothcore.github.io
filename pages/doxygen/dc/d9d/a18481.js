@@ -1,7 +1,7 @@
 var a18481 =
 [
-    [ "HandleCast", "dc/d9d/a18481.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "dc/d9d/a18481.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "dc/d9d/a18481.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "dc/d9d/a18481.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "CheckTargetCount", "dc/d9d/a18481.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "dc/d9d/a18481.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "dc/d9d/a18481.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "dc/d9d/a18481.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

@@ -1,6 +1,8 @@
 var a11673 =
 [
-    [ "apPctMod", "de/dc1/a11673.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
-    [ "flatMod", "de/dc1/a11673.html#a0d66e48d986f246e6aea08dd00837158", null ],
-    [ "pctMod", "de/dc1/a11673.html#af13802a7f6872cfce3a1d14655f30287", null ]
+    [ "WorldObjectSpellAreaTargetCheck", "de/dc1/a11673.html#a0a6275bc4d2bbf7da27e4b0df7245ec2", null ],
+    [ "operator()", "de/dc1/a11673.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
+    [ "_position", "de/dc1/a11673.html#a680c45dd148161657da011a1772375ca", null ],
+    [ "_range", "de/dc1/a11673.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ],
+    [ "_searchReason", "de/dc1/a11673.html#aad544cdfe9423a7967dfed64aeaed995", null ]
 ];

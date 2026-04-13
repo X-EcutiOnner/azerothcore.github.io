@@ -1,7 +1,7 @@
 var a12741 =
 [
-    [ "boss_ebonrocAI", "dc/d41/a12741.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
-    [ "JustEngagedWith", "dc/d41/a12741.html#a2c74e0030b1093d79245978939043d53", null ],
-    [ "MovementInform", "dc/d41/a12741.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
-    [ "UpdateAI", "dc/d41/a12741.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
+    [ "HandleEffectScriptEffect", "dc/d41/a12741.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "dc/d41/a12741.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "dc/d41/a12741.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "dc/d41/a12741.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

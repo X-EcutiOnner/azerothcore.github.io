@@ -1,6 +1,6 @@
 var a21953 =
 [
-    [ "HandleOnEffectRemove", "d7/d98/a21953.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d7/d98/a21953.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d7/d98/a21953.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "HandleScript", "d7/d98/a21953.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
+    [ "PrepareSpellScript", "d7/d98/a21953.html#af0f5206d98dbc9de355abbeb03709c05", null ],
+    [ "Register", "d7/d98/a21953.html#a53d9d7de4922ed6509b6036921640352", null ]
 ];

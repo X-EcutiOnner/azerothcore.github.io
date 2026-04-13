@@ -1,7 +1,5 @@
 var a22853 =
 [
-    [ "CheckProc", "d7/dfa/a22853.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "d7/dfa/a22853.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "d7/dfa/a22853.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "d7/dfa/a22853.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "go_strange_pool", "d7/dfa/a22853.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "d7/dfa/a22853.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

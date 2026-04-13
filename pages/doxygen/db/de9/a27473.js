@@ -1,8 +1,7 @@
 var a27473 =
 [
-    [ "ApplyDebuff", "db/de9/a27473.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
-    [ "PrepareSpellScript", "db/de9/a27473.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
-    [ "Register", "db/de9/a27473.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
-    [ "RemoveInvalidTargets", "db/de9/a27473.html#a1374c764b20b95febbca44c593bde218", null ],
-    [ "Validate", "db/de9/a27473.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
+    [ "HandleDummy", "db/de9/a27473.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "db/de9/a27473.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "db/de9/a27473.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "db/de9/a27473.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

@@ -1,7 +1,6 @@
 var a27809 =
 [
-    [ "HandleApplyAura", "df/de4/a27809.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "df/de4/a27809.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "df/de4/a27809.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "df/de4/a27809.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "go_flamesAI", "df/de4/a27809.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "df/de4/a27809.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "df/de4/a27809.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

@@ -1,6 +1,6 @@
 var a27905 =
 [
-    [ "HandleOnHit", "df/d3c/a27905.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "df/d3c/a27905.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "df/d3c/a27905.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "go_bashir_crystalforge", "df/d3c/a27905.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "df/d3c/a27905.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "df/d3c/a27905.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

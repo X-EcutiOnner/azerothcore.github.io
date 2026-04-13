@@ -1,12 +1,14 @@
 var a00626 =
 [
-    [ "SpellProcSpellTypeMaskTest", "d0/d0e/a29571.html", "d0/d0e/a29571" ],
-    [ "TEST_F", "d6/dfa/a00626.html#a0e299f1164a6c1e0f315da2c5551e58a", null ],
-    [ "TEST_F", "d6/dfa/a00626.html#ae1ae997d3f0f1ba7825ae4b2e5436d44", null ],
-    [ "TEST_F", "d6/dfa/a00626.html#a7a5da3689f4cd8516f8998a3eb8516f1", null ],
-    [ "TEST_F", "d6/dfa/a00626.html#a0b4b6b9b08a21068764a01b658ede70d", null ],
-    [ "TEST_F", "d6/dfa/a00626.html#abd75b3776c8e55bbc898c408aad3f34d", null ],
-    [ "TEST_F", "d6/dfa/a00626.html#ab03489d280d80145880f52bc0a09c584", null ],
-    [ "TEST_F", "d6/dfa/a00626.html#a6ae8c3849f8042eeff0379c4ea6d2adc", null ],
-    [ "TEST_F", "d6/dfa/a00626.html#a790970fbe1cfb4df4e5ba38abf4c9bae", null ]
+    [ "ArenaScript", "d2/d02/a10577.html", "d2/d02/a10577" ],
+    [ "ArenaHook", "d6/dfa/a00626.html#a93515f145fed15b3645f2240f39214ba", [
+      [ "ARENAHOOK_CAN_ADD_MEMBER", "d6/dfa/a00626.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0", null ],
+      [ "ARENAHOOK_ON_GET_POINTS", "d6/dfa/a00626.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588", null ],
+      [ "ARENAHOOK_CAN_SAVE_TO_DB", "d6/dfa/a00626.html#a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657", null ],
+      [ "ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION", "d6/dfa/a00626.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e", null ],
+      [ "ARENAHOOK_ON_ARENA_START", "d6/dfa/a00626.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09", null ],
+      [ "ARENAHOOK_ON_BEFORE_TEAM_MEMBER_UPDATE", "d6/dfa/a00626.html#a93515f145fed15b3645f2240f39214baade4a09676bcc54d050070c72869f1a03", null ],
+      [ "ARENAHOOK_CAN_SAVE_ARENA_STATS_FOR_MEMBER", "d6/dfa/a00626.html#a93515f145fed15b3645f2240f39214baad43433f7b2150f062d884904a861ede7", null ],
+      [ "ARENAHOOK_END", "d6/dfa/a00626.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58", null ]
+    ] ]
 ];

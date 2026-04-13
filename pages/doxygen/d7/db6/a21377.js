@@ -1,16 +1,20 @@
 var a21377 =
 [
-    [ "boss_xevozzAI", "d7/db6/a21377.html#a422359074a43e84ee6462b61fc4ce6a9", null ],
-    [ "EnterEvadeMode", "d7/db6/a21377.html#a5557f799c862759c8fd94a98cadee7d5", null ],
-    [ "JustDied", "d7/db6/a21377.html#a6e66dec2e1bc198d9b3e855366ca8b02", null ],
-    [ "JustEngagedWith", "d7/db6/a21377.html#a0f8c06f3e0934eb22bf8a26aa3238b50", null ],
-    [ "JustSummoned", "d7/db6/a21377.html#a04787f7600a817fd63132676590505a8", null ],
-    [ "KilledUnit", "d7/db6/a21377.html#ad47008e9044815cc4475adbaf3ece543", null ],
-    [ "MoveInLineOfSight", "d7/db6/a21377.html#a519c1222ef186067dcb9a98bb84ea031", null ],
-    [ "Reset", "d7/db6/a21377.html#a435b22ca3c7e573d4e3c70e2497063e7", null ],
-    [ "SummonedCreatureDespawn", "d7/db6/a21377.html#ab6e7bb57110831079ede943a74641bd4", null ],
-    [ "UpdateAI", "d7/db6/a21377.html#aa61271e4a9d8e13ac875f6efd550aa4b", null ],
-    [ "events", "d7/db6/a21377.html#a8a5796089d42dad89c9cec5ea4d38321", null ],
-    [ "pInstance", "d7/db6/a21377.html#a9eda85f10a814efa32f7b224e1772b89", null ],
-    [ "spheres", "d7/db6/a21377.html#ab1d51bbfd433b37b8ceec15a18d62b17", null ]
+    [ "npc_hourglass_of_eternityAI", "d7/db6/a21377.html#a51c68ff78150b7351dc34edf7a51e1a7", null ],
+    [ "GetCopy", "d7/db6/a21377.html#addacaa0e3ba686d9cb343689c56fc4b5", null ],
+    [ "GetPlayer", "d7/db6/a21377.html#a1216634009d635f5a1658cae62f92133", null ],
+    [ "HideNozdormu", "d7/db6/a21377.html#acbcf4d9602bf87b2c4c4f898c8a6f6b0", null ],
+    [ "InitializeAI", "d7/db6/a21377.html#af592003f019ace3e78ff7a19ada3e8f6", null ],
+    [ "IsFuture", "d7/db6/a21377.html#a19527a426055c689a36f5b02e2978307", null ],
+    [ "randEntry", "d7/db6/a21377.html#af581d3a7697fdb0f257d72568c342df8", null ],
+    [ "randomWhisper", "d7/db6/a21377.html#a235353e41ee463f43f3d18a7b4f5a75d", null ],
+    [ "ShowNozdormu", "d7/db6/a21377.html#a483e2a5a89b3dc4cfd51bb78732a6af2", null ],
+    [ "UpdateAI", "d7/db6/a21377.html#a66a80c2c36a5fa7a89b30a7c872007d8", null ],
+    [ "copyGUID", "d7/db6/a21377.html#add68894964681b8345c3751510f7e48c", null ],
+    [ "count", "d7/db6/a21377.html#a126b67aacdfd0d96ad443944e9244f3b", null ],
+    [ "events", "d7/db6/a21377.html#ae2d5690e0dc5205d68bd1ddb1b0ca3a9", null ],
+    [ "lastRandomTalk", "d7/db6/a21377.html#aa00ff56a5a906e97ddf4d10d300c85c4", null ],
+    [ "pGUID", "d7/db6/a21377.html#a6ad97b2c11057f936dce4aad04894177", null ],
+    [ "phase", "d7/db6/a21377.html#ad7d3755e7b13c4b37d56f14746acc1e1", null ],
+    [ "randomTalk", "d7/db6/a21377.html#a19042362c0dc7da80b81d284d2fa7e4b", null ]
 ];

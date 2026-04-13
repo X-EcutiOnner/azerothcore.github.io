@@ -1,12 +1,9 @@
 var a12625 =
 [
-    [ "boss_thebeastAI", "d1/d02/a12625.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
-    [ "FindNearbyOrcs", "d1/d02/a12625.html#ad832a878880ac32e05d360262546422a", null ],
-    [ "JustEngagedWith", "d1/d02/a12625.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
-    [ "Reset", "d1/d02/a12625.html#abfa1bca308a02ef0e80d2baf11670305", null ],
-    [ "SetData", "d1/d02/a12625.html#a6f30ed7c0451613998660b258145f801", null ],
-    [ "UpdateAI", "d1/d02/a12625.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
-    [ "_beastReached", "d1/d02/a12625.html#a01271598b4b3c85a7066e66d8150e522", null ],
-    [ "_nearbyOrcsGUIDs", "d1/d02/a12625.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
-    [ "_orcYelled", "d1/d02/a12625.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
+    [ "npc_vaelastrasz_the_red", "d1/d02/a12625.html#a28ba5ca91e61707360c8a1f9a8550567", null ],
+    [ "IsSummonedBy", "d1/d02/a12625.html#ad5f2aeaee704c436e60bc5c5400c0f75", null ],
+    [ "UpdateAI", "d1/d02/a12625.html#a95b48026759f9e5e5f0c452a8019ef03", null ],
+    [ "_combatEnabled", "d1/d02/a12625.html#a373fe15d1e754f11db59186517783a40", null ],
+    [ "_events2", "d1/d02/a12625.html#acecc982854e9d587112e9117e7d7a3fa", null ],
+    [ "_victorGUID", "d1/d02/a12625.html#a0e5d6bd095c980a45dcfe68faf2c7b3f", null ]
 ];

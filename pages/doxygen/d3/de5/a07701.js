@@ -1,11 +1,8 @@
 var a07701 =
 [
-    [ "BattlegroundWGScore", "d3/de5/a07701.html#a43b7933c5e217376e5bb10e9b5bb208b", null ],
-    [ "BuildObjectivesBlock", "d3/de5/a07701.html#a804e56dbd666336d961cce2b0e4d6452", null ],
-    [ "GetAttr1", "d3/de5/a07701.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
-    [ "GetAttr2", "d3/de5/a07701.html#a191e205e08ef15cc36dabedc32614fd2", null ],
-    [ "UpdateScore", "d3/de5/a07701.html#aa560d7f5f13dd235d43a9e3571090055", null ],
-    [ "BattlegroundWS", "d3/de5/a07701.html#a4285b67c5d8593dce759422a4eb78c77", null ],
-    [ "FlagCaptures", "d3/de5/a07701.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],
-    [ "FlagReturns", "d3/de5/a07701.html#ab400c9fb692ff157eb4809f0536c05f7", null ]
+    [ "NodeId", "d3/de5/a07701.html#a09d4904c622dd7810e154bc0f3bd7eaf", null ],
+    [ "TextAllianceTaken", "d3/de5/a07701.html#a20cb8eaefa0e45b45a57645c62409ba4", null ],
+    [ "TextAssaulted", "d3/de5/a07701.html#a2e49a6d7f8ca935800062d98f1c660de", null ],
+    [ "TextDefended", "d3/de5/a07701.html#a27ee2d5be23a110943438a8888b14202", null ],
+    [ "TextHordeTaken", "d3/de5/a07701.html#a835c00ebdc2fe61f7e7757b0ed26bd1d", null ]
 ];

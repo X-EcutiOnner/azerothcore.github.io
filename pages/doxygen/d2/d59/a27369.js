@@ -1,6 +1,6 @@
 var a27369 =
 [
-    [ "HandleEffectApply", "d2/d59/a27369.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
-    [ "PrepareAuraScript", "d2/d59/a27369.html#aed642c73ab31fb63aa497ada45863ae6", null ],
-    [ "Register", "d2/d59/a27369.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
+    [ "CalculateAmount", "d2/d59/a27369.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "d2/d59/a27369.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "d2/d59/a27369.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

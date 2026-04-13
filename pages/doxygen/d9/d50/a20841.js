@@ -1,6 +1,7 @@
 var a20841 =
 [
-    [ "PrepareSpellScript", "d9/d50/a20841.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "d9/d50/a20841.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "d9/d50/a20841.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "HandleOnEffectRemove", "d9/d50/a20841.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "d9/d50/a20841.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "d9/d50/a20841.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "d9/d50/a20841.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

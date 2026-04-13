@@ -1,9 +1,7 @@
 var a25909 =
 [
-    [ "spell_item_trigger_spell", "dc/d1e/a25909.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
-    [ "HandleDummy", "dc/d1e/a25909.html#a49613255eea28e34cf5ff8a06798f89a", null ],
-    [ "PrepareSpellScript", "dc/d1e/a25909.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
-    [ "Register", "dc/d1e/a25909.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
-    [ "Validate", "dc/d1e/a25909.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
-    [ "_triggeredSpellId", "dc/d1e/a25909.html#a610c5ac434fe788120ed101f7bf58f63", null ]
+    [ "HandleDummy", "dc/d1e/a25909.html#a14bf65690e857c6a16dfcd8e036abbbb", null ],
+    [ "PrepareSpellScript", "dc/d1e/a25909.html#a2ec497a2dfe2364ad9011aba8532e73c", null ],
+    [ "Register", "dc/d1e/a25909.html#afca09c1e1c5389db67d081d6e033f025", null ],
+    [ "Validate", "dc/d1e/a25909.html#af54f926b69002b2277dad34e1773e450", null ]
 ];

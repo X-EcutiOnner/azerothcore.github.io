@@ -1,6 +1,7 @@
 var a24193 =
 [
-    [ "npc_lord_illidan_stormrageAI", "df/df0/a24197.html", "df/df0/a24197" ],
-    [ "npc_lord_illidan_stormrage", "d7/d7a/a24193.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "d7/d7a/a24193.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "CorpseExplosionCheck", "d7/d7a/a24193.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "d7/d7a/a24193.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "d7/d7a/a24193.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "d7/d7a/a24193.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

@@ -1,13 +1,11 @@
 var a06117 =
 [
-    [ "TransactionTask", "da/d28/a06117.html#a13573f827891ad172847dc0e466b0b9e", null ],
-    [ "~TransactionTask", "da/d28/a06117.html#a68bc982f025d40bbc3a7323cd8c96786", null ],
-    [ "CleanupOnFailure", "da/d28/a06117.html#adc2f1534bce5a7ce198eeeb510fcb533", null ],
-    [ "Execute", "da/d28/a06117.html#aa1c1df059d15fe2077ceea5cfb51ba22", null ],
-    [ "TryExecute", "da/d28/a06117.html#a28c9ca1d9d3fdc6a722dcec68e46a38f", null ],
-    [ "DatabaseWorker", "da/d28/a06117.html#ac8984f2167ec797d478f3a771d1c1c3f", null ],
-    [ "DatabaseWorkerPool", "da/d28/a06117.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
-    [ "TransactionCallback", "da/d28/a06117.html#ac3345f3314b133d53268f53e222cdc74", null ],
-    [ "_deadlockLock", "da/d28/a06117.html#a84b48dbb670dd884e9b44ea53c8b0008", null ],
-    [ "m_trans", "da/d28/a06117.html#a242f0cb47bc6b456b6bea9aa372df4b6", null ]
+    [ "SQLQueryHolderBase", "da/d28/a06117.html#a05946ea4a26798e5567f632cf9f66eff", null ],
+    [ "~SQLQueryHolderBase", "da/d28/a06117.html#aa9e2407821d0c40a728337f174571fc5", null ],
+    [ "GetPreparedResult", "da/d28/a06117.html#a402f961642eaa239ff8726ad66e78640", null ],
+    [ "SetPreparedQueryImpl", "da/d28/a06117.html#a6657bb34fab696a26af9751ded41f1d7", null ],
+    [ "SetPreparedResult", "da/d28/a06117.html#a34bcdec6591ce40a58667197f240fbe0", null ],
+    [ "SetSize", "da/d28/a06117.html#a9e62f0171bd39a13348d097ee99cb17c", null ],
+    [ "SQLQueryHolderTask", "da/d28/a06117.html#a4d6be4ca13ec7a0d213da9d1e6ec922b", null ],
+    [ "m_queries", "da/d28/a06117.html#a432a52e6f9dc7f51cbc8f2877d0894e1", null ]
 ];

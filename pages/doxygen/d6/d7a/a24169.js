@@ -1,5 +1,7 @@
 var a24169 =
 [
-    [ "npc_karynaku", "d6/d7a/a24169.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "d6/d7a/a24169.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "CheckProc", "d6/d7a/a24169.html#a7d829589ea098e002206b72f789c95df", null ],
+    [ "PrepareAuraScript", "d6/d7a/a24169.html#a04258b702d79372c0e9c2e1845a6563e", null ],
+    [ "Register", "d6/d7a/a24169.html#af62e0a7a43a6762e8e067931e7ec09af", null ],
+    [ "Validate", "d6/d7a/a24169.html#a56eaad6f2b1d14cea5fe3f7f27cdb877", null ]
 ];

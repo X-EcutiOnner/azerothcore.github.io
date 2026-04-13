@@ -1,9 +1,13 @@
 var a21033 =
 [
-    [ "npc_ulduar_keeperAI", "d8/df6/a21033.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d8/df6/a21033.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d8/df6/a21033.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d8/df6/a21033.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d8/df6/a21033.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d8/df6/a21033.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "boss_toravonAI", "d8/df6/a21033.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d8/df6/a21033.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d8/df6/a21033.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d8/df6/a21033.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d8/df6/a21033.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d8/df6/a21033.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d8/df6/a21033.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d8/df6/a21033.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d8/df6/a21033.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d8/df6/a21033.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

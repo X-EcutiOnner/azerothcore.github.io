@@ -1,22 +1,21 @@
 var a03287 =
 [
-    [ "ServerMailCondition", "d8/d23/a10030.html", "d8/d23/a10030" ],
-    [ "ServerMailItems", "de/d67/a10034.html", "de/d67/a10034" ],
-    [ "ServerMail", "da/d8a/a10038.html", "da/d8a/a10038" ],
-    [ "ServerMailMgr", "df/d1c/a10042.html", "df/d1c/a10042" ],
-    [ "sServerMailMgr", "d8/dcc/a03287.html#a6423d219eaead162b40b6021eadca0c4", null ],
-    [ "ServerMailContainer", "d8/dcc/a03287.html#a9c10c94a0a8508b3af2e92d3455d063b", null ],
-    [ "ServerMailConditionType", "d8/dcc/a03287.html#ab25c41bc314095f74fe678a33e086a2b", [
-      [ "Invalid", "d8/dcc/a03287.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b", null ],
-      [ "Level", "d8/dcc/a03287.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153", null ],
-      [ "PlayTime", "d8/dcc/a03287.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3", null ],
-      [ "Quest", "d8/dcc/a03287.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d", null ],
-      [ "Achievement", "d8/dcc/a03287.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e", null ],
-      [ "Reputation", "d8/dcc/a03287.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092", null ],
-      [ "Faction", "d8/dcc/a03287.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201", null ],
-      [ "Race", "d8/dcc/a03287.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879", null ],
-      [ "Class", "d8/dcc/a03287.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af", null ],
-      [ "AccountFlags", "d8/dcc/a03287.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225", null ]
+    [ "LocationXYZ", "d3/d9e/a13905.html", "d3/d9e/a13905" ],
+    [ "npc_rinji", "da/dd0/a13909.html", "da/dd0/a13909" ],
+    [ "npc_rinji::npc_rinjiAI", "df/d92/a13913.html", "df/d92/a13913" ],
+    [ "Rinji", "d8/dcc/a03287.html#ab769c87cc823749a5fe9cc0ed4f59133", [
+      [ "SAY_RIN_BY_OUTRUNNER", "d8/dcc/a03287.html#ab769c87cc823749a5fe9cc0ed4f59133a3aaaf930cf9ab49ca1d76cc6ed5e766c", null ],
+      [ "SAY_RIN_FREE", "d8/dcc/a03287.html#ab769c87cc823749a5fe9cc0ed4f59133a18a3ea60620bdbd5ef82292e56df01d3", null ],
+      [ "SAY_RIN_HELP", "d8/dcc/a03287.html#ab769c87cc823749a5fe9cc0ed4f59133af6414cba0564a077856ea0ee01cde0e0", null ],
+      [ "SAY_RIN_COMPLETE", "d8/dcc/a03287.html#ab769c87cc823749a5fe9cc0ed4f59133a2e8b271174b0c30e02c7d465daca4632", null ],
+      [ "SAY_RIN_PROGRESS_1", "d8/dcc/a03287.html#ab769c87cc823749a5fe9cc0ed4f59133a8f06b066d2b30fd7440ab8d0c0450aa5", null ],
+      [ "SAY_RIN_PROGRESS_2", "d8/dcc/a03287.html#ab769c87cc823749a5fe9cc0ed4f59133a9d77a031db4f3a40f412949a95be80c5", null ],
+      [ "QUEST_RINJI_TRAPPED", "d8/dcc/a03287.html#ab769c87cc823749a5fe9cc0ed4f59133aeb5734ecb62da42fe708673351c073e8", null ],
+      [ "NPC_RANGER", "d8/dcc/a03287.html#ab769c87cc823749a5fe9cc0ed4f59133aec7fcfc9b715f5aeadff781115a0e69e", null ],
+      [ "NPC_OUTRUNNER", "d8/dcc/a03287.html#ab769c87cc823749a5fe9cc0ed4f59133abc36fa763814aa6d572492b462e191a2", null ],
+      [ "GO_RINJI_CAGE", "d8/dcc/a03287.html#ab769c87cc823749a5fe9cc0ed4f59133a8b71e8dfde4865f3891f672d000410fb", null ]
     ] ],
-    [ "ServerMailConditionTypePairs", "d8/dcc/a03287.html#af981b509cb816fa6720cf16cceaa9081", null ]
+    [ "AddSC_hinterlands", "d8/dcc/a03287.html#a0b6f7497a7db75be5fe9d90d14c46720", null ],
+    [ "AmbushMoveTo", "d8/dcc/a03287.html#aa2e998c0f3d966c32be9106221fe957c", null ],
+    [ "AmbushSpawn", "d8/dcc/a03287.html#ace1d91ebeb7be507ec886616fad7eef4", null ]
 ];

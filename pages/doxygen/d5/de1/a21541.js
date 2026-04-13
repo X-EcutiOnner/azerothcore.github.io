@@ -1,9 +1,7 @@
 var a21541 =
 [
-    [ "npc_lurgglbrAI", "d5/de1/a21541.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "d5/de1/a21541.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "d5/de1/a21541.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "d5/de1/a21541.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "IntroPhase", "d5/de1/a21541.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "d5/de1/a21541.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "npc_emilyAI", "da/df9/a21545.html", "da/df9/a21545" ],
+    [ "npc_emily", "d5/de1/a21541.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d5/de1/a21541.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d5/de1/a21541.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

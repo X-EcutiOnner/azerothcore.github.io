@@ -1,6 +1,8 @@
 var a20477 =
 [
-    [ "FilterTargets", "d4/d2a/a20477.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "d4/d2a/a20477.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "d4/d2a/a20477.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "boss_thorim_pillar", "d4/d2a/a20477.html#aec2fc6e420499c9ce991753b912bef1e", null ],
+    [ "Reset", "d4/d2a/a20477.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
+    [ "SpellHit", "d4/d2a/a20477.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
+    [ "UpdateAI", "d4/d2a/a20477.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
+    [ "_resetTimer", "d4/d2a/a20477.html#ac9c8ef8622496593b5f91611d22120b3", null ]
 ];

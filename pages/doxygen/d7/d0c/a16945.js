@@ -1,8 +1,10 @@
 var a16945 =
 [
-    [ "npc_toc_boomkinAI", "d7/d0c/a16945.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "d7/d0c/a16945.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "d7/d0c/a16945.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "d7/d0c/a16945.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "d7/d0c/a16945.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "boss_dredAI", "d7/d0c/a16945.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "d7/d0c/a16945.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "d7/d0c/a16945.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "d7/d0c/a16945.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "ScheduleTasks", "d7/d0c/a16945.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
+    [ "SetData", "d7/d0c/a16945.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "_raptorCount", "d7/d0c/a16945.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

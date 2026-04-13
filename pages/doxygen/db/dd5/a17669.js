@@ -1,6 +1,6 @@
 var a17669 =
 [
-    [ "HandleScriptEffect", "db/dd5/a17669.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "db/dd5/a17669.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "db/dd5/a17669.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "PrepareAuraScript", "db/dd5/a17669.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "db/dd5/a17669.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "db/dd5/a17669.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

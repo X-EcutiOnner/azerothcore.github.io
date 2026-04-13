@@ -1,6 +1,6 @@
 var a24105 =
 [
-    [ "CheckCast", "d2/d19/a24105.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "d2/d19/a24105.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "d2/d19/a24105.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "HandlePeriodic", "d2/d19/a24105.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
+    [ "PrepareAuraScript", "d2/d19/a24105.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
+    [ "Register", "d2/d19/a24105.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
 ];

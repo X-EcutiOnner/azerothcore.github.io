@@ -1,9 +1,7 @@
 var a24989 =
 [
-    [ "PrepareAuraScript", "d7/dc6/a24989.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "d7/dc6/a24989.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "d7/dc6/a24989.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "d7/dc6/a24989.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "d7/dc6/a24989.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "d7/dc6/a24989.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "HandleScript", "d7/dc6/a24989.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
+    [ "PrepareSpellScript", "d7/dc6/a24989.html#a7909f23da8385abdabb62e5196d88d38", null ],
+    [ "Register", "d7/dc6/a24989.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
+    [ "Validate", "d7/dc6/a24989.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
 ];

@@ -1,8 +1,8 @@
 var a27541 =
 [
-    [ "CheckProc", "df/d2f/a27541.html#a825ef4acafa2371f27ca8ca6465610f9", null ],
-    [ "HandleProc", "df/d2f/a27541.html#a311916a7939ea2c4c2e23d6e4778aba4", null ],
-    [ "PrepareAuraScript", "df/d2f/a27541.html#a89c7a57718cdb23f7235ff2379a7a192", null ],
-    [ "Register", "df/d2f/a27541.html#abff50b0398b596898db4638fbadffa9c", null ],
-    [ "Validate", "df/d2f/a27541.html#abedd0e9efa9c595e1142f0358d135d1b", null ]
+    [ "CheckProc", "df/d2f/a27541.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "df/d2f/a27541.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "df/d2f/a27541.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "df/d2f/a27541.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "df/d2f/a27541.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

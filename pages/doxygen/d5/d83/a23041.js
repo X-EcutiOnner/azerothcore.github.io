@@ -1,7 +1,7 @@
 var a23041 =
 [
-    [ "PrepareAuraScript", "d5/d83/a23041.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "d5/d83/a23041.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "d5/d83/a23041.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "d5/d83/a23041.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "npc_underbog_mushroom", "d5/d83/a23041.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d5/d83/a23041.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d5/d83/a23041.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d5/d83/a23041.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

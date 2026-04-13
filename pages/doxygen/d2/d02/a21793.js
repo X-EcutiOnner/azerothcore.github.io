@@ -1,6 +1,6 @@
 var a21793 =
 [
-    [ "SACDeactivateEvent", "d2/d02/a21793.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "d2/d02/a21793.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "d2/d02/a21793.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "HandleHealPct", "d2/d02/a21793.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "d2/d02/a21793.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "d2/d02/a21793.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

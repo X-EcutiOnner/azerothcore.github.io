@@ -1,6 +1,7 @@
 var a28849 =
 [
-    [ "npc_spirit_shadeAI", "d7/d3e/a28853.html", "d7/d3e/a28853" ],
-    [ "npc_spirit_shade", "d2/d25/a28849.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d2/d25/a28849.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "AllocationPct", "d2/d25/a28849.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "d2/d25/a28849.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "d2/d25/a28849.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "d2/d25/a28849.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

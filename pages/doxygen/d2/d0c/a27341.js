@@ -1,8 +1,7 @@
 var a27341 =
 [
-    [ "AfterApply", "d2/d0c/a27341.html#a3299de0703ca1e14760e9f33b124ac44", null ],
-    [ "PeriodicTick", "d2/d0c/a27341.html#a34f2fd8d142083705101f8265297c20e", null ],
-    [ "PrepareAuraScript", "d2/d0c/a27341.html#a79c80876d5788a20a9f686548b70fd64", null ],
-    [ "Register", "d2/d0c/a27341.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
-    [ "Validate", "d2/d0c/a27341.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
+    [ "HandleTeleport", "d2/d0c/a27341.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d2/d0c/a27341.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d2/d0c/a27341.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d2/d0c/a27341.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

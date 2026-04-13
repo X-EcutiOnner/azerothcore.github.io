@@ -1,12 +1,9 @@
 var a10249 =
 [
-    [ "RotateMovementGenerator", "d7/d72/a10249.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
-    [ "Finalize", "d7/d72/a10249.html#afd7588c7877b116cc9626a774b89d584", null ],
-    [ "GetMovementGeneratorType", "d7/d72/a10249.html#a20677803edf5d93ceae3bf76ef426a81", null ],
-    [ "Initialize", "d7/d72/a10249.html#a18fea8760bb24912af9349a06ff7b596", null ],
-    [ "Reset", "d7/d72/a10249.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
-    [ "Update", "d7/d72/a10249.html#a0dc8600e3aa862a81735dfb927232e53", null ],
-    [ "m_direction", "d7/d72/a10249.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
-    [ "m_duration", "d7/d72/a10249.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
-    [ "m_maxDuration", "d7/d72/a10249.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
+    [ "ChaseAngle", "d7/d72/a10249.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "d7/d72/a10249.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "d7/d72/a10249.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "d7/d72/a10249.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "d7/d72/a10249.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "d7/d72/a10249.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

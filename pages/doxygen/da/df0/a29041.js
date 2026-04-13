@@ -1,7 +1,8 @@
 var a29041 =
 [
-    [ "bit_index", "da/df0/a29041.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "da/df0/a29041.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "da/df0/a29041.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "da/df0/a29041.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "TimeSeg", "da/df0/a29041.html#ab94639ba8e26b215ebd31163967574d3", null ],
+    [ "TransportEntry", "da/df0/a29041.html#a859d25b3c11839ad7e37facd40dc79df", null ],
+    [ "X", "da/df0/a29041.html#a8fbd166503396e33a4ad77448bf307ea", null ],
+    [ "Y", "da/df0/a29041.html#a67c279b26cebd8e5c81c36576b145af6", null ],
+    [ "Z", "da/df0/a29041.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
 ];

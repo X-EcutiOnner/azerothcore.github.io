@@ -1,7 +1,6 @@
 var a13773 =
 [
-    [ "CorruptTriggers", "d0/d50/a13773.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
-    [ "Execute", "d0/d50/a13773.html#a9929f3518f307e0b753782967f06c6c1", null ],
-    [ "_caster", "d0/d50/a13773.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
-    [ "_currentLane", "d0/d50/a13773.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
+    [ "ChangeSummonPos", "d0/d50/a13773.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "d0/d50/a13773.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "d0/d50/a13773.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

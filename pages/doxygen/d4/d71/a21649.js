@@ -1,8 +1,7 @@
 var a21649 =
 [
-    [ "npc_shandy_dalaranAI", "dc/df9/a21653.html", "dc/df9/a21653" ],
-    [ "npc_shandy_dalaran", "d4/d71/a21649.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "d4/d71/a21649.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "d4/d71/a21649.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "d4/d71/a21649.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "npc_rodin_lightning_enabler", "d4/d71/a21649.html#ae014b208af7664acd2147663d9338583", null ],
+    [ "Reset", "d4/d71/a21649.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
+    [ "UpdateAI", "d4/d71/a21649.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
+    [ "_scheduler", "d4/d71/a21649.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
 ];

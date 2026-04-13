@@ -1,12 +1,10 @@
 var a10717 =
 [
-    [ "Packet", "d8/d4a/a10717.html#a316af2b7ce1ac7189fb1e57f534bad11", null ],
-    [ "~Packet", "d8/d4a/a10717.html#a2ca1e6377bb2fb10bf042311e72eb5d4", null ],
-    [ "Packet", "d8/d4a/a10717.html#a00213b64110a99004b3d9a6b38876cd4", null ],
-    [ "GetRawPacket", "d8/d4a/a10717.html#a9d8649e1b035fe7387dcee3e0b062a5e", null ],
-    [ "GetSize", "d8/d4a/a10717.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a", null ],
-    [ "operator=", "d8/d4a/a10717.html#a6d2afd0d4b0d7daff11868854b7c4715", null ],
-    [ "Read", "d8/d4a/a10717.html#a94afc4d66c2b5bced3063bab5a666bfd", null ],
-    [ "Write", "d8/d4a/a10717.html#af7c79156d7b6cfe3142fc530f9ed262a", null ],
-    [ "_worldPacket", "d8/d4a/a10717.html#ab85f1c9f20117bc5015180165c7b458a", null ]
+    [ "TicketScript", "d8/d4a/a10717.html#aec2b310ba0b26aa84a245207256edb0e", null ],
+    [ "IsDatabaseBound", "d8/d4a/a10717.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
+    [ "OnTicketClose", "d8/d4a/a10717.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
+    [ "OnTicketCreate", "d8/d4a/a10717.html#a3436bbc78425bf5144c81f6309060b33", null ],
+    [ "OnTicketResolve", "d8/d4a/a10717.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
+    [ "OnTicketStatusUpdate", "d8/d4a/a10717.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
+    [ "OnTicketUpdateLastChange", "d8/d4a/a10717.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
 ];

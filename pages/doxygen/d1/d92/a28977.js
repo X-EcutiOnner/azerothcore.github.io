@@ -1,6 +1,7 @@
 var a28977 =
 [
-    [ "go_pirate_day_musicAI", "d7/d5f/a28981.html", "d7/d5f/a28981" ],
-    [ "go_pirate_day_music", "d1/d92/a28977.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "d1/d92/a28977.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "Flags", "d1/d92/a28977.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "d1/d92/a28977.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "d1/d92/a28977.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "d1/d92/a28977.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

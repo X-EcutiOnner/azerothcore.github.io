@@ -1,6 +1,5 @@
 var a20785 =
 [
-    [ "OnPeriodic", "d3/dee/a20785.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "d3/dee/a20785.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "d3/dee/a20785.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "npc_salvaged_siege_engine", "d3/dee/a20785.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "d3/dee/a20785.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

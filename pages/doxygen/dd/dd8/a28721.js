@@ -1,6 +1,5 @@
 var a28721 =
 [
-    [ "X", "dd/dd8/a28721.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "dd/dd8/a28721.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "dd/dd8/a28721.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "BitIndex", "dd/dd8/a28721.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
+    [ "ItemId", "dd/dd8/a28721.html#a998c1f6dadb823fbba56bb2154396635", null ]
 ];

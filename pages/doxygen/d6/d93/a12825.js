@@ -1,6 +1,7 @@
 var a12825 =
 [
-    [ "HandleOnHit", "d6/d93/a12825.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d6/d93/a12825.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d6/d93/a12825.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "HandleScript", "d6/d93/a12825.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
+    [ "PrepareSpellScript", "d6/d93/a12825.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
+    [ "Register", "d6/d93/a12825.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
+    [ "Validate", "d6/d93/a12825.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
 ];

@@ -1,17 +1,11 @@
 var a19945 =
 [
-    [ "boss_bjarngrim", "d9/d1a/a19945.html#a1bf90864479939ba3f251c38b173e23a", null ],
-    [ "InitializeWaypoints", "d9/d1a/a19945.html#a87eab2b27b48d98b94a030936722781e", null ],
-    [ "JustDied", "d9/d1a/a19945.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
-    [ "JustEngagedWith", "d9/d1a/a19945.html#ad150ab7d9837861e8c4673a78978bb11", null ],
-    [ "KilledUnit", "d9/d1a/a19945.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
-    [ "RemoveStanceAura", "d9/d1a/a19945.html#a55a695e27192313c6cbe263a739e669e", null ],
-    [ "Reset", "d9/d1a/a19945.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
-    [ "RollStance", "d9/d1a/a19945.html#acd511435f9d77aa4839e1c856382ea51", null ],
-    [ "UpdateEscortAI", "d9/d1a/a19945.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
-    [ "WaypointReached", "d9/d1a/a19945.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
-    [ "events", "d9/d1a/a19945.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
-    [ "m_pInstance", "d9/d1a/a19945.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
-    [ "m_uiStance", "d9/d1a/a19945.html#aec11755c71f056c8294a8af1c1084353", null ],
-    [ "summons", "d9/d1a/a19945.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
+    [ "boss_flame_leviathan_seat", "d9/d1a/a19945.html#a2fc2adc846b2939cf633bf47b4307896", null ],
+    [ "AttackStart", "d9/d1a/a19945.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
+    [ "EnterEvadeMode", "d9/d1a/a19945.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
+    [ "PassengerBoarded", "d9/d1a/a19945.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
+    [ "Reset", "d9/d1a/a19945.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
+    [ "UpdateAI", "d9/d1a/a19945.html#a303c50b5684410013f95b0202ea33c8e", null ],
+    [ "_despawnTimer", "d9/d1a/a19945.html#afe673a7903cffa7acefb725d52efb08a", null ],
+    [ "vehicle", "d9/d1a/a19945.html#a9772b52283f16120dbefb5d218844c38", null ]
 ];

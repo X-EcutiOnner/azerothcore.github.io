@@ -1,6 +1,11 @@
 var a28157 =
 [
-    [ "go_tadpole_cageAI", "de/d40/a28161.html", "de/d40/a28161" ],
-    [ "go_tadpole_cage", "d6/da0/a28157.html#a1a9acacd0ebff33d402018d4205e415b", null ],
-    [ "GetAI", "d6/da0/a28157.html#a38990dc5edd725623b6c35dba7802612", null ]
+    [ "npc_injured_patientAI", "d6/da0/a28157.html#a0973487623f1771c598648bc06a6d9a3", null ],
+    [ "JustEngagedWith", "d6/da0/a28157.html#a621a8cc3f6b9655760431d52766ca589", null ],
+    [ "Reset", "d6/da0/a28157.html#a007c9c7a4047374574cad17e9309d7c1", null ],
+    [ "SpellHit", "d6/da0/a28157.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
+    [ "UpdateAI", "d6/da0/a28157.html#a54d0a5574175747779878dce0ebfd44f", null ],
+    [ "_scheduler", "d6/da0/a28157.html#a60428fa97c8f6520338d53ed368c4c35", null ],
+    [ "Coord", "d6/da0/a28157.html#af5a6f87c0379edd07a8756018b0c8661", null ],
+    [ "DoctorGUID", "d6/da0/a28157.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
 ];

@@ -1,8 +1,6 @@
 var a17361 =
 [
-    [ "npc_phantom_hallucinationAI", "d6/da0/a17361.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "d6/da0/a17361.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "d6/da0/a17361.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "d6/da0/a17361.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "d6/da0/a17361.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "entry", "d6/da0/a17361.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "d6/da0/a17361.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "d6/da0/a17361.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

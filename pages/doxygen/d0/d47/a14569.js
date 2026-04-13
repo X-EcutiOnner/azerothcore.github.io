@@ -1,10 +1,7 @@
 var a14569 =
 [
-    [ "npc_vilebranch_speaker", "d0/d47/a14569.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
-    [ "JustDied", "d0/d47/a14569.html#aa7708f176879db3acd50399b74e4a90c", null ],
-    [ "JustEngagedWith", "d0/d47/a14569.html#a236afb8512c2d941479f8a7c18f688a6", null ],
-    [ "Reset", "d0/d47/a14569.html#a248195a137cb91f10a882ec12974c7c5", null ],
-    [ "UpdateAI", "d0/d47/a14569.html#a75f263fa9241319b58bf77cbf1b75088", null ],
-    [ "_scheduler", "d0/d47/a14569.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
-    [ "instance", "d0/d47/a14569.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
+    [ "FilterTargets", "d0/d47/a14569.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "d0/d47/a14569.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "d0/d47/a14569.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "d0/d47/a14569.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

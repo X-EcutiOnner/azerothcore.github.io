@@ -1,6 +1,5 @@
 var a18941 =
 [
-    [ "boss_valithria_dreamwalkerAI", "dc/da0/a18945.html", "dc/da0/a18945" ],
-    [ "boss_valithria_dreamwalker", "d1/d03/a18941.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d1/d03/a18941.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "at_icc_saurfang_portal", "d1/d03/a18941.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "d1/d03/a18941.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

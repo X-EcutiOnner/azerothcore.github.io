@@ -1,8 +1,6 @@
 var a17873 =
 [
-    [ "OnApply", "da/d8d/a17873.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "da/d8d/a17873.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "da/d8d/a17873.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "da/d8d/a17873.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "da/d8d/a17873.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "IgbTeleportOnVictoryCheck", "da/d8d/a17873.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "da/d8d/a17873.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "da/d8d/a17873.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

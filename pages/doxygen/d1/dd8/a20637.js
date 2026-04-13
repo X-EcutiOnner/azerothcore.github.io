@@ -1,6 +1,10 @@
 var a20637 =
 [
-    [ "ModDest", "d1/dd8/a20637.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
-    [ "PrepareSpellScript", "d1/dd8/a20637.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
-    [ "Register", "d1/dd8/a20637.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
+    [ "boss_yoggsaron_immortal_guardian", "d1/dd8/a20637.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "d1/dd8/a20637.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "Reset", "d1/dd8/a20637.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "d1/dd8/a20637.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "d1/dd8/a20637.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spellTimer", "d1/dd8/a20637.html#a521b956c116a23523fdfceb95a42c1e2", null ],
+    [ "_visualTimer", "d1/dd8/a20637.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
 ];

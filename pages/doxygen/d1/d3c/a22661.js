@@ -1,10 +1,6 @@
 var a22661 =
 [
-    [ "boss_murmur", "d1/d3c/a22661.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CastSuppressionOOC", "d1/d3c/a22661.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "EnterEvadeMode", "d1/d3c/a22661.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "d1/d3c/a22661.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "d1/d3c/a22661.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "d1/d3c/a22661.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
-    [ "ShouldCastResonance", "d1/d3c/a22661.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "PrepareSpellScript", "d1/d3c/a22661.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "d1/d3c/a22661.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "d1/d3c/a22661.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

@@ -1,6 +1,7 @@
 var a21473 =
 [
-    [ "npc_azure_captainAI", "db/d08/a21477.html", "db/d08/a21477" ],
-    [ "npc_azure_captain", "d6/dd0/a21473.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "d6/dd0/a21473.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "FilterTargets", "d6/dd0/a21473.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "d6/dd0/a21473.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "d6/dd0/a21473.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "d6/dd0/a21473.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

@@ -1,12 +1,14 @@
 var a07437 =
 [
-    [ "damageText", "d7/dc5/a07437.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
-    [ "destroyText", "d7/dc5/a07437.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
-    [ "entry", "d7/dc5/a07437.html#a58d0395a47190698d309e80d91358bb1", null ],
-    [ "o", "d7/dc5/a07437.html#a21238943701f594e1a5346193c895d33", null ],
-    [ "type", "d7/dc5/a07437.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
-    [ "WorldState", "d7/dc5/a07437.html#a4b4881aba2d297e125443f0c8ccab618", null ],
-    [ "x", "d7/dc5/a07437.html#a80ebabba7265753a05367a4c79f6450c", null ],
-    [ "y", "d7/dc5/a07437.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
-    [ "z", "d7/dc5/a07437.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
+    [ "AutobroadcastsMap", "d7/dc5/a07437.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
+    [ "AutobroadcastsWeightMap", "d7/dc5/a07437.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
+    [ "instance", "d7/dc5/a07437.html#aead196df7f590d43c89f179ca0bd4a68", null ],
+    [ "LoadAutobroadcasts", "d7/dc5/a07437.html#a48748969b122aee47d03697b6e9a2ee1", null ],
+    [ "LoadAutobroadcastsLocalized", "d7/dc5/a07437.html#a105fa2c33da0662785551027430d40c6", null ],
+    [ "SendAutobroadcasts", "d7/dc5/a07437.html#a225907be4944713af11c312185c8aea7", null ],
+    [ "SendNotificationAnnouncement", "d7/dc5/a07437.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
+    [ "SendWorldAnnouncement", "d7/dc5/a07437.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
+    [ "_announceType", "d7/dc5/a07437.html#a3889edc4001e26519d9df042a8b477fc", null ],
+    [ "_autobroadcasts", "d7/dc5/a07437.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
+    [ "_autobroadcastsWeights", "d7/dc5/a07437.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
 ];

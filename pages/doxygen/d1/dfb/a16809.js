@@ -1,8 +1,6 @@
 var a16809 =
 [
-    [ "npc_announcer_toc5AI", "d8/d14/a16813.html", "d8/d14/a16813" ],
-    [ "npc_announcer_toc5", "d1/dfb/a16809.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
-    [ "GetAI", "d1/dfb/a16809.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
-    [ "OnGossipHello", "d1/dfb/a16809.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
-    [ "OnGossipSelect", "d1/dfb/a16809.html#a9017488c652fd75882db75914f4a2db2", null ]
+    [ "boss_jaraxxusAI", "d8/d14/a16813.html", "d8/d14/a16813" ],
+    [ "boss_jaraxxus", "d1/dfb/a16809.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
+    [ "GetAI", "d1/dfb/a16809.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
 ];

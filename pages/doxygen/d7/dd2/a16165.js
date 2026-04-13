@@ -1,7 +1,6 @@
 var a16165 =
 [
-    [ "npc_lakota_windsongAI", "d7/dd2/a16165.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "d7/dd2/a16165.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "d7/dd2/a16165.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "d7/dd2/a16165.html#a6435c8b1521206789131889e5fa527a6", null ]
+    [ "HandlePeriodic", "d7/dd2/a16165.html#ad22b433005b2678bde3516a01eaaaa60", null ],
+    [ "PrepareAuraScript", "d7/dd2/a16165.html#a3711004edaef7242d9cae1f23f9b7467", null ],
+    [ "Register", "d7/dd2/a16165.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
 ];

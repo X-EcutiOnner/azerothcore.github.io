@@ -1,7 +1,6 @@
 var a22985 =
 [
-    [ "HandleEffectApply", "d5/d51/a22985.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
-    [ "Load", "d5/d51/a22985.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
-    [ "PrepareAuraScript", "d5/d51/a22985.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
-    [ "Register", "d5/d51/a22985.html#a647f21e79e3fef72cf84439fc84e708f", null ]
+    [ "boss_rokmar_the_crackler", "d5/d51/a22985.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d5/d51/a22985.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d5/d51/a22985.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

@@ -1,5 +1,7 @@
 var a12629 =
 [
-    [ "at_trigger_the_beast_movement", "d9/dd0/a12629.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
-    [ "OnTrigger", "d9/dd0/a12629.html#a333d685d765497a950fde35067d876a1", null ]
+    [ "boss_broodlord", "d9/dd0/a12629.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
+    [ "JustDied", "d9/dd0/a12629.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
+    [ "JustEngagedWith", "d9/dd0/a12629.html#acb7214857320945a646574b0130a9585", null ],
+    [ "UpdateAI", "d9/dd0/a12629.html#a5cdb166366938797de9d691096f0f155", null ]
 ];

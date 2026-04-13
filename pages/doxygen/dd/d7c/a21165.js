@@ -1,6 +1,6 @@
 var a21165 =
 [
-    [ "boss_skadiAI", "de/d76/a21169.html", "de/d76/a21169" ],
-    [ "boss_skadi", "dd/d7c/a21165.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "dd/d7c/a21165.html#a4b66199169442af5ec6542be71c19033", null ]
+    [ "HandleEffectPeriodic", "dd/d7c/a21165.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "dd/d7c/a21165.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "dd/d7c/a21165.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

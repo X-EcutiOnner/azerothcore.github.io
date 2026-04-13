@@ -1,6 +1,5 @@
 var a17433 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "da/d04/a17437.html", "da/d04/a17437" ],
-    [ "npc_hor_risen_witch_doctor", "d2/d9a/a17433.html#add06a10c9b4342b136b5cab49338b095", null ],
-    [ "GetAI", "d2/d9a/a17433.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
+    [ "achievement_less_rabi", "d2/d9a/a17433.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
+    [ "OnCheck", "d2/d9a/a17433.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
 ];

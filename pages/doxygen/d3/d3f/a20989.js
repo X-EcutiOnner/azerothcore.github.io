@@ -1,7 +1,7 @@
 var a20989 =
 [
-    [ "HandleScriptEffect", "d3/d3f/a20989.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "d3/d3f/a20989.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "d3/d3f/a20989.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "d3/d3f/a20989.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "HandleScript", "d3/d3f/a20989.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "d3/d3f/a20989.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "d3/d3f/a20989.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "d3/d3f/a20989.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

@@ -1,7 +1,5 @@
 var a20197 =
 [
-    [ "npc_auriaya_sanctum_sentry", "d2/dfd/a20197.html#ae5ed159c476c8b4569de7e2730edf447", null ],
-    [ "JustEngagedWith", "d2/dfd/a20197.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
-    [ "Reset", "d2/dfd/a20197.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
-    [ "UpdateAI", "d2/dfd/a20197.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
+    [ "FlashFreezeCheck", "d2/dfd/a20197.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "d2/dfd/a20197.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

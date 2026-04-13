@@ -1,6 +1,5 @@
 var a10269 =
 [
-    [ "AssistanceMovementGenerator", "db/dba/a10269.html#a649b7d2833aaf895a5f6f290131c88f5", null ],
-    [ "Finalize", "db/dba/a10269.html#a6fc296a5283726cca409d7df1137743d", null ],
-    [ "GetMovementGeneratorType", "db/dba/a10269.html#a1d4b6fe8693fdd21c364b53075c27439", null ]
+    [ "IdleMovementFactory", "db/dba/a10269.html#af2bb5ef9fe67f3dda64d6ce44e825f52", null ],
+    [ "Create", "db/dba/a10269.html#a5e99eab3436482927bc83100f85581cd", null ]
 ];

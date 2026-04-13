@@ -1,6 +1,17 @@
 var a18841 =
 [
-    [ "npc_strangulate_vehicleAI", "d0/dea/a18845.html", "d0/dea/a18845" ],
-    [ "npc_strangulate_vehicle", "da/dae/a18841.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "da/dae/a18841.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "npc_argent_captainAI", "da/dae/a18841.html#a4e9d65fa7c870c98d79ff30ae262385d", null ],
+    [ "CanAIAttack", "da/dae/a18841.html#a542075fcf2d487dedc6f11672e3507ba", null ],
+    [ "DoAction", "da/dae/a18841.html#a77f0b2d41d631f3ff7a3ea8d13716de1", null ],
+    [ "EnterEvadeMode", "da/dae/a18841.html#afaebff86ad9be5835c2e289625c07d16", null ],
+    [ "JustDied", "da/dae/a18841.html#a7f132fa843ba292cc89a64c77ce48bc4", null ],
+    [ "JustEngagedWith", "da/dae/a18841.html#a43818e75274cad597fd883f75119d63c", null ],
+    [ "KilledUnit", "da/dae/a18841.html#abc2dbc233082f9d7626759fbcccb34a2", null ],
+    [ "Reset", "da/dae/a18841.html#a0709350a6841b6008935c050a1db7784", null ],
+    [ "SpellHit", "da/dae/a18841.html#a8aee635d2739564281b5af04955e4d4a", null ],
+    [ "Events", "da/dae/a18841.html#a1cffce3d371bef959d76270608247def", null ],
+    [ "FollowAngle", "da/dae/a18841.html#a059c34261439fc80b0bff9d62b537489", null ],
+    [ "FollowDist", "da/dae/a18841.html#a4fde069032f7c6578f7f518b45f141d2", null ],
+    [ "instance", "da/dae/a18841.html#a131f11a8a67e3eb60759c699fc2cec1b", null ],
+    [ "IsUndead", "da/dae/a18841.html#a9eaf5d2c9e52650c28b8f7feef0e681c", null ]
 ];

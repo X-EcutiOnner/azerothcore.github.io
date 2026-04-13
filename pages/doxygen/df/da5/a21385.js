@@ -1,16 +1,8 @@
 var a21385 =
 [
-    [ "boss_zuramatAI", "df/da5/a21385.html#ab4c04fec01023295946d170a466d1c48", null ],
-    [ "EnterEvadeMode", "df/da5/a21385.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
-    [ "JustDied", "df/da5/a21385.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
-    [ "JustEngagedWith", "df/da5/a21385.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
-    [ "JustSummoned", "df/da5/a21385.html#a6e925207ddc112f7dd7044c08023f90e", null ],
-    [ "KilledUnit", "df/da5/a21385.html#adb79f8c244f57b88848dd44b592faf41", null ],
-    [ "MoveInLineOfSight", "df/da5/a21385.html#aa3ef3256d203d264dee12eff4491a28c", null ],
-    [ "Reset", "df/da5/a21385.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
-    [ "SummonedCreatureDespawn", "df/da5/a21385.html#a242f814bfec2e937e1338097e78080e3", null ],
-    [ "UpdateAI", "df/da5/a21385.html#adb591699b7d8ece0b1775afd40a4181b", null ],
-    [ "events", "df/da5/a21385.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
-    [ "pInstance", "df/da5/a21385.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
-    [ "summons", "df/da5/a21385.html#a42cb09654095c8a157720f99e7957102", null ]
+    [ "npc_future_youAI", "df/da5/a21385.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "df/da5/a21385.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "df/da5/a21385.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "df/da5/a21385.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "df/da5/a21385.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

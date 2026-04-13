@@ -1,5 +1,9 @@
 var a11949 =
 [
-    [ "Command", "d7/dfe/a11949.html#af0e8f46d4352430d12f932b5a9e4c44e", null ],
-    [ "Seed", "d7/dfe/a11949.html#a8770c7de1b983d75214d1de39d0c02ab", null ]
+    [ "CreatureTextLocalizer", "d7/dfe/a11949.html#a799f1007b9977224d71da1451c3454e1", null ],
+    [ "~CreatureTextLocalizer", "d7/dfe/a11949.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
+    [ "operator()", "d7/dfe/a11949.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
+    [ "_builder", "d7/dfe/a11949.html#a1d8d97d3e423810d044a8155b182899d", null ],
+    [ "_msgType", "d7/dfe/a11949.html#adf9260955b0141e85ff47c66350244e2", null ],
+    [ "_packetCache", "d7/dfe/a11949.html#a660b352a1c1855f4b10a8aebef88133f", null ]
 ];

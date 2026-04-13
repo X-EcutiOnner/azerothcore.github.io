@@ -1,9 +1,8 @@
 var a22681 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d5/dac/a22681.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "d5/dac/a22681.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "d5/dac/a22681.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "d5/dac/a22681.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "d5/dac/a22681.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "d5/dac/a22681.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "CalcPeriodic", "d5/dac/a22681.html#aad87c25b9b3255a4871bec39d9787299", null ],
+    [ "PrepareAuraScript", "d5/dac/a22681.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
+    [ "Register", "d5/dac/a22681.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
+    [ "Update", "d5/dac/a22681.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
+    [ "Validate", "d5/dac/a22681.html#ae4f7bfb1cd95666acada217173876352", null ]
 ];

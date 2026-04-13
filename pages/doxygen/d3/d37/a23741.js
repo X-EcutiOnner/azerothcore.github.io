@@ -1,7 +1,5 @@
 var a23741 =
 [
-    [ "boss_warp_splinter", "d3/d37/a23741.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d3/d37/a23741.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d3/d37/a23741.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d3/d37/a23741.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "at_commander_dawnforge", "d3/d37/a23741.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
+    [ "OnTrigger", "d3/d37/a23741.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
 ];

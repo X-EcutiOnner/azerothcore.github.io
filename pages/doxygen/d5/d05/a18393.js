@@ -1,6 +1,7 @@
 var a18393 =
 [
-    [ "HandleScript", "d5/d05/a18393.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "d5/d05/a18393.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "d5/d05/a18393.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "StartMovementEvent", "d5/d05/a18393.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "d5/d05/a18393.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "d5/d05/a18393.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "d5/d05/a18393.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

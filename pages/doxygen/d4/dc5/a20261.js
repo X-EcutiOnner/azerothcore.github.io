@@ -1,5 +1,7 @@
 var a20261 =
 [
-    [ "go_ulduar_tower", "d4/dc5/a20261.html#afc1add1a0543921f52afe1eb907f5de3", null ],
-    [ "OnDestroyed", "d4/dc5/a20261.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
+    [ "HandleScript", "d4/dc5/a20261.html#a760bb60198017605111d02af98c827b1", null ],
+    [ "PrepareSpellScript", "d4/dc5/a20261.html#a6128956f1037b62fff2e6f10ec22d956", null ],
+    [ "Register", "d4/dc5/a20261.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
+    [ "Validate", "d4/dc5/a20261.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
 ];

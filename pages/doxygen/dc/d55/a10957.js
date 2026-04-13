@@ -1,7 +1,5 @@
 var a10957 =
 [
-    [ "GuildBankActivate", "dc/d55/a10957.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "dc/d55/a10957.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "dc/d55/a10957.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "dc/d55/a10957.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "GuildEventLogQuery", "dc/d55/a10957.html#af66d667a4b722745fa4f855870ef332c", null ],
+    [ "Read", "dc/d55/a10957.html#a48881f116070d5a7c03e7cace86656f6", null ]
 ];

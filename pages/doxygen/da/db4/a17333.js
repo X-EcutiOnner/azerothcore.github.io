@@ -1,8 +1,6 @@
 var a17333 =
 [
-    [ "npc_hor_leaderAI", "d8/db5/a17337.html", "d8/db5/a17337" ],
-    [ "npc_hor_leader", "da/db4/a17333.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "da/db4/a17333.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "da/db4/a17333.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "da/db4/a17333.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "HandleDummy", "da/db4/a17333.html#aef592aafe931351186edf98f7aba7e22", null ],
+    [ "PrepareSpellScript", "da/db4/a17333.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
+    [ "Register", "da/db4/a17333.html#a7594952f23cba22b886c2c3b10f363d4", null ]
 ];

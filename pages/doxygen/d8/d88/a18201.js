@@ -1,5 +1,7 @@
 var a18201 =
 [
-    [ "achievement_im_on_a_boat", "d8/d88/a18201.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d8/d88/a18201.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "HandleScript", "d8/d88/a18201.html#a802f667b20bccd3395c233482aa2485b", null ],
+    [ "PrepareSpellScript", "d8/d88/a18201.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
+    [ "Register", "d8/d88/a18201.html#a730fded490df68f501010f952ceea40b", null ],
+    [ "Validate", "d8/d88/a18201.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
 ];

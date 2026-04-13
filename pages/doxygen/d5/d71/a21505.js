@@ -1,8 +1,14 @@
 var a21505 =
 [
-    [ "HandleEffectRemove", "d5/d71/a21505.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d5/d71/a21505.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d5/d71/a21505.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d5/d71/a21505.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d5/d71/a21505.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d5/d71/a21505.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
+    [ "ChangeImage", "d5/d71/a21505.html#a815e5c67b282e2840676b5453d94d5dc", null ],
+    [ "MovementInform", "d5/d71/a21505.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
+    [ "Reset", "d5/d71/a21505.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
+    [ "StoreTargets", "d5/d71/a21505.html#a0732307643a442bc3f070b9cc91d78c9", null ],
+    [ "TurnAudience", "d5/d71/a21505.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
+    [ "UpdateAI", "d5/d71/a21505.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
+    [ "_events", "d5/d71/a21505.html#a907626beb601f789a725d88d45689eb2", null ],
+    [ "audienceList", "d5/d71/a21505.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
+    [ "imageList", "d5/d71/a21505.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
+    [ "talkWing", "d5/d71/a21505.html#ace957ffe4fba8f229946d61d63c1798c", null ]
 ];

@@ -1,8 +1,8 @@
 var a12529 =
 [
-    [ "CheckProc", "d0/ded/a12529.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d0/ded/a12529.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d0/ded/a12529.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d0/ded/a12529.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d0/ded/a12529.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_highlord_omokk", "d0/ded/a12529.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
+    [ "JustDied", "d0/ded/a12529.html#a2a8931227eb65759ceebd27919976cb5", null ],
+    [ "JustEngagedWith", "d0/ded/a12529.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
+    [ "Reset", "d0/ded/a12529.html#ada6bf702dc1827e60b558b4fb752b789", null ],
+    [ "UpdateAI", "d0/ded/a12529.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
 ];

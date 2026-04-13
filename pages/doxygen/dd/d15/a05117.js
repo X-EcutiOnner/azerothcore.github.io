@@ -1,7 +1,5 @@
 var a05117 =
 [
-    [ "indices", "dd/d15/a05117.html#a23cadbd54502fb4edc68e052e5774664", null ],
-    [ "maxPrims", "dd/d15/a05117.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
-    [ "numPrims", "dd/d15/a05117.html#a623b9ee05707ecdbaa816c797e358e86", null ],
-    [ "primBound", "dd/d15/a05117.html#a3304ad5d821f178941fd44da897213de", null ]
+    [ "MODD", "d2/df6/a29761.html", "d2/df6/a29761" ],
+    [ "MODS", "d2/d0e/a29757.html", "d2/d0e/a29757" ]
 ];

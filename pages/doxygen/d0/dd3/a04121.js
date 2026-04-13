@@ -1,8 +1,7 @@
 var a04121 =
 [
-    [ "StoredLootItem", "dd/dbc/a09958.html", "dd/dbc/a09958" ],
-    [ "LootItemStorage", "d2/d5e/a09962.html", "d2/d5e/a09962" ],
-    [ "sLootItemStorage", "d0/dd3/a04121.html#a06515a8a4bd76cd02aa0ab99d3d7c64e", null ],
-    [ "LootItemContainer", "d0/dd3/a04121.html#a06cc23df363d1d767959d7ab5ec29ad5", null ],
-    [ "StoredLootItemList", "d0/dd3/a04121.html#aa16defe92374d7db2d28958ee8fce21d", null ]
+    [ "instance_trial_of_the_champion", "d9/d1e/a16601.html", "d9/d1e/a16601" ],
+    [ "instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript", "d7/d27/a16605.html", "d7/d27/a16605" ],
+    [ "AddSC_instance_trial_of_the_champion", "d0/dd3/a04121.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd", null ],
+    [ "SpawnPosition", "d0/dd3/a04121.html#a70438d12d4153aa7d510c89551abf7c9", null ]
 ];

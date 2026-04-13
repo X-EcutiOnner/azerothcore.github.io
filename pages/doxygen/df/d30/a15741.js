@@ -1,6 +1,6 @@
 var a15741 =
 [
-    [ "OnPeriodic", "df/d30/a15741.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "df/d30/a15741.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "df/d30/a15741.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "npc_tiger_matriarchAI", "dc/d62/a15745.html", "dc/d62/a15745" ],
+    [ "npc_tiger_matriarch", "df/d30/a15741.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "df/d30/a15741.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

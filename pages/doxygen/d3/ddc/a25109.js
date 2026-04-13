@@ -1,6 +1,7 @@
 var a25109 =
 [
-    [ "HandleOnEffectHit", "d3/ddc/a25109.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "d3/ddc/a25109.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "d3/ddc/a25109.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "OnRemove", "d3/ddc/a25109.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
+    [ "PrepareAuraScript", "d3/ddc/a25109.html#ac2b1a2311f97ab427439b45fb0770063", null ],
+    [ "Register", "d3/ddc/a25109.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
+    [ "Validate", "d3/ddc/a25109.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
 ];

@@ -1,7 +1,7 @@
 var a27221 =
 [
-    [ "HandleDummy", "db/dab/a27221.html#a4c837e7342603519d1f23ab8702c3160", null ],
-    [ "PrepareSpellScript", "db/dab/a27221.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371", null ],
-    [ "Register", "db/dab/a27221.html#a16a5ca3ec9a8c463c9a2975fa29eb1e9", null ],
-    [ "Validate", "db/dab/a27221.html#ad742f4ce0d0db70427f7ba849a4526df", null ]
+    [ "HandleBonus", "db/dab/a27221.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
+    [ "PrepareAuraScript", "db/dab/a27221.html#aebf4afa25b50be9b99900ef830f26f04", null ],
+    [ "Register", "db/dab/a27221.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
+    [ "Validate", "db/dab/a27221.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
 ];

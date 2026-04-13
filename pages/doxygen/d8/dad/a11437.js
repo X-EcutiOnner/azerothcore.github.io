@@ -1,12 +1,9 @@
 var a11437 =
 [
-    [ "PacketLog", "d8/dad/a11437.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
-    [ "~PacketLog", "d8/dad/a11437.html#a595a42f9aaa94d6c46d185955df801e0", null ],
-    [ "CanLogPacket", "d8/dad/a11437.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
-    [ "Initialize", "d8/dad/a11437.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
-    [ "instance", "d8/dad/a11437.html#a484418a51ca0bf150d17b23d97979bf4", null ],
-    [ "LogPacket", "d8/dad/a11437.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
-    [ "_file", "d8/dad/a11437.html#a03346a709f7586f6445e03b9a3b6af04", null ],
-    [ "_initializeFlag", "d8/dad/a11437.html#a490cafe009f7b2ecb303a76c781f8960", null ],
-    [ "_logPacketLock", "d8/dad/a11437.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
+    [ "TotemCreated", "d8/dad/a11437.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "d8/dad/a11437.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "d8/dad/a11437.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "d8/dad/a11437.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "d8/dad/a11437.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "d8/dad/a11437.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

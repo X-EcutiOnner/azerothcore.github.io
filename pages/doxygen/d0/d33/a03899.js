@@ -1,10 +1,9 @@
 var a03899 =
 [
-    [ "GameEventScript", "dc/d72/a10622.html", "dc/d72/a10622" ],
-    [ "GameEventHook", "d0/d33/a03899.html#a6f634b591917b5ff2ab57f9739afa44b", [
-      [ "GAMEEVENTHOOK_ON_START", "d0/d33/a03899.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
-      [ "GAMEEVENTHOOK_ON_STOP", "d0/d33/a03899.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
-      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "d0/d33/a03899.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
-      [ "GAMEEVENTHOOK_END", "d0/d33/a03899.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
-    ] ]
+    [ "instance_halls_of_stone", "d5/d11/a19797.html", "d5/d11/a19797" ],
+    [ "instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript", "d4/dcb/a19801.html", "d4/dcb/a19801" ],
+    [ "AddSC_instance_halls_of_stone", "d0/d33/a03899.html#a81d8c56de5920b1e73d7955e1c7399ed", null ],
+    [ "boundaries", "d0/d33/a03899.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d0/d33/a03899.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "summonData", "d0/d33/a03899.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

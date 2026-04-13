@@ -1,6 +1,7 @@
 var a11617 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "d3/dfa/a11617.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "d3/dfa/a11617.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "d3/dfa/a11617.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "DynObjAura", "d3/dfa/a11617.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
+    [ "FillTargetMap", "d3/dfa/a11617.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
+    [ "Remove", "d3/dfa/a11617.html#ada3f65b4a817e2337da43da437b93a3b", null ],
+    [ "Aura::Create", "d3/dfa/a11617.html#ae2c0fdfb409846fec5e861de60797112", null ]
 ];

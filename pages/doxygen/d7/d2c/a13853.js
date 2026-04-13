@@ -1,6 +1,7 @@
 var a13853 =
 [
-    [ "FixOrientation", "d7/d2c/a13853.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
-    [ "Execute", "d7/d2c/a13853.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
-    [ "_owner", "d7/d2c/a13853.html#a5f12db3774bdeef25a300780c00db1fb", null ]
+    [ "npc_eris_hevenfireAI", "d2/dfe/a13857.html", "d2/dfe/a13857" ],
+    [ "npc_eris_hevenfire", "d7/d2c/a13853.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "d7/d2c/a13853.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "d7/d2c/a13853.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

@@ -1,8 +1,6 @@
 var a21865 =
 [
-    [ "OnRemove", "de/dbf/a21865.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "de/dbf/a21865.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "de/dbf/a21865.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "de/dbf/a21865.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "de/dbf/a21865.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "HandleScriptEffect", "de/dbf/a21865.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "de/dbf/a21865.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "de/dbf/a21865.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

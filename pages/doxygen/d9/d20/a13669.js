@@ -1,6 +1,6 @@
 var a13669 =
 [
-    [ "boss_baroness_anastariAI", "d2/da2/a13673.html", "d2/da2/a13673" ],
-    [ "boss_baroness_anastari", "d9/d20/a13669.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
-    [ "GetAI", "d9/d20/a13669.html#a38073f80afbceb5535cc18ab524378a6", null ]
+    [ "CastArmageddon", "d9/d20/a13669.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "d9/d20/a13669.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "d9/d20/a13669.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

@@ -1,7 +1,8 @@
 var a10573 =
 [
-    [ "GameEventScript", "d0/d0d/a10573.html#ac43a9c70638ad56b69b5841ee8410374", null ],
-    [ "OnEventCheck", "d0/d0d/a10573.html#aadab9593da561e9b19202d09b53cba36", null ],
-    [ "OnStart", "d0/d0d/a10573.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
-    [ "OnStop", "d0/d0d/a10573.html#a4813f26f03e5ba79a740bf30558e604c", null ]
+    [ "_OnTrigger", "d0/d0d/a10573.html#a6da93a21c84345bd77e467377810e756", null ],
+    [ "AreaTriggerScript", "d0/d0d/a10573.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "OnTrigger", "d0/d0d/a10573.html#a4ac7e4963d36c8163a560dc8401b5f34", null ],
+    [ "ResetAreaTriggerDone", "d0/d0d/a10573.html#a3b44c1892c1100028b387d15bfbdae60", null ],
+    [ "ResetAreaTriggerDone", "d0/d0d/a10573.html#a3917da4a6f605077720172cda25322ee", null ]
 ];

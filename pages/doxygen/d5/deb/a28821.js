@@ -1,9 +1,12 @@
 var a28821 =
 [
-    [ "emerald_dragonAI", "d5/deb/a28821.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "d5/deb/a28821.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "d5/deb/a28821.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "d5/deb/a28821.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "d5/deb/a28821.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "d5/deb/a28821.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "CalendarFilterType", "d5/deb/a28821.html#a082b59a0ead8223e590cbb371f3ad122", null ],
+    [ "CalendarFlags", "d5/deb/a28821.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
+    [ "Date", "d5/deb/a28821.html#ac5b08b086ef0668508ea9da48642e95b", null ],
+    [ "Duration", "d5/deb/a28821.html#a10cae1b1fbb91930209a714c545b129b", null ],
+    [ "Id", "d5/deb/a28821.html#a1119824959b87fb312209a998a5869b1", null ],
+    [ "Looping", "d5/deb/a28821.html#afa2d93998650f88e62bfa76807961274", null ],
+    [ "Priority", "d5/deb/a28821.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
+    [ "Region", "d5/deb/a28821.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
+    [ "TextureFilename", "d5/deb/a28821.html#a2209ecbb78f1f467491506cc97df57e4", null ]
 ];

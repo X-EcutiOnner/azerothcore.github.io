@@ -1,5 +1,7 @@
 var a08797 =
 [
-    [ "PlayerLevelInfo", "d3/d0d/a08797.html#af0d716577a3645fe1cef95968382ec80", null ],
-    [ "stats", "d3/d0d/a08797.html#a796af7d07604474adebf5a6f3518ca30", null ]
+    [ "IsInSpec", "d3/d0d/a08797.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "d3/d0d/a08797.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "d3/d0d/a08797.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "d3/d0d/a08797.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

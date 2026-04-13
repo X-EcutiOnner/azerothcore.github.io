@@ -1,6 +1,6 @@
 var a16989 =
 [
-    [ "npc_toc_pet_warlockAI", "dd/dd6/a16993.html", "dd/dd6/a16993" ],
-    [ "npc_toc_pet_warlock", "d0/d76/a16989.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "d0/d76/a16989.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "OnPeriodic", "d0/d76/a16989.html#ab71faf6fb2900e176aac245317113758", null ],
+    [ "PrepareAuraScript", "d0/d76/a16989.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
+    [ "Register", "d0/d76/a16989.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
 ];

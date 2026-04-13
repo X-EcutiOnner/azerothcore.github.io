@@ -1,12 +1,9 @@
 var a13737 =
 [
-    [ "boss_sacrolash", "db/dda/a13737.html#a6e251340b2ba8a8300611cf229b93095", null ],
-    [ "CheckInRoom", "db/dda/a13737.html#ae650b6019d2f9191e1b532176159804d", null ],
-    [ "DoAction", "db/dda/a13737.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
-    [ "JustDied", "db/dda/a13737.html#a17c995220572cf803c36470ca80840e2", null ],
-    [ "JustEngagedWith", "db/dda/a13737.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
-    [ "JustSummoned", "db/dda/a13737.html#a94214bc45414f61ff53102d6136b7b5c", null ],
-    [ "KilledUnit", "db/dda/a13737.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
-    [ "Reset", "db/dda/a13737.html#aa3128dae87d181e7ab93cf3a13723982", null ],
-    [ "_isSisterDead", "db/dda/a13737.html#a248d37df91c82069321fc5ea8b1e885d", null ]
+    [ "boss_muru", "db/dda/a13737.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
+    [ "DamageTaken", "db/dda/a13737.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
+    [ "JustEngagedWith", "db/dda/a13737.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
+    [ "JustSummoned", "db/dda/a13737.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
+    [ "MoveInLineOfSight", "db/dda/a13737.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
+    [ "Reset", "db/dda/a13737.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
 ];

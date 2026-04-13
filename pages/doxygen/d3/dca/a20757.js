@@ -1,12 +1,9 @@
 var a20757 =
 [
-    [ "boss_thorim_start_npcs", "d3/dca/a20757.html#a3ed7da48fc86ea00124181bb943a778d", null ],
-    [ "DamageTaken", "d3/dca/a20757.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
-    [ "JustDied", "d3/dca/a20757.html#af5a00c3bc633464e9fd5d02991845294", null ],
-    [ "JustEngagedWith", "d3/dca/a20757.html#a636dd7264dd01aa5fc3c69af17425103", null ],
-    [ "Reset", "d3/dca/a20757.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
-    [ "UpdateAI", "d3/dca/a20757.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
-    [ "_isCaster", "d3/dca/a20757.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
-    [ "_playerAttack", "d3/dca/a20757.html#ab1bf0c011692377fc591610c5131d5e2", null ],
-    [ "events", "d3/dca/a20757.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
+    [ "npc_ulduar_keeperAI", "d3/dca/a20757.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "d3/dca/a20757.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "d3/dca/a20757.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "d3/dca/a20757.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "d3/dca/a20757.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "d3/dca/a20757.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

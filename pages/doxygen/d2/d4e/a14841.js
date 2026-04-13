@@ -1,6 +1,5 @@
 var a14841 =
 [
-    [ "HandleAfterEffectApply", "d2/d4e/a14841.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
-    [ "PrepareAuraScript", "d2/d4e/a14841.html#a917379c33352721b5b76c1d9dac0c025", null ],
-    [ "Register", "d2/d4e/a14841.html#a846d79564d76d6000c2276045775d7da", null ]
+    [ "npc_pilgrims_bounty_plate", "d2/d4e/a14841.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "d2/d4e/a14841.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

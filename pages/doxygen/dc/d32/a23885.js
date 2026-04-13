@@ -1,8 +1,6 @@
 var a23885 =
 [
-    [ "boss_mechano_lord_capacitus", "dc/d32/a23885.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
-    [ "JustDied", "dc/d32/a23885.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
-    [ "JustEngagedWith", "dc/d32/a23885.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
-    [ "JustSummoned", "dc/d32/a23885.html#a9a0b2cac08002db63162f95b9476c251", null ],
-    [ "KilledUnit", "dc/d32/a23885.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
+    [ "CheckRequirement", "dc/d32/a23885.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "dc/d32/a23885.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "dc/d32/a23885.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

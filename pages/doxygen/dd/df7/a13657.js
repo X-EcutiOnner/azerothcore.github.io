@@ -1,13 +1,8 @@
 var a13657 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "dd/df7/a13657.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
-    [ "Initialize", "dd/df7/a13657.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
-    [ "OnCreatureCreate", "dd/df7/a13657.html#a3f9cca96886b97f7657edc04f4997d41", null ],
-    [ "OnGameObjectCreate", "dd/df7/a13657.html#ad420b6b549b8d76a80844d81548b1143", null ],
-    [ "ReadSaveDataMore", "dd/df7/a13657.html#a83a24703aafb973809618d3ac3ac0375", null ],
-    [ "SetData", "dd/df7/a13657.html#abdc105e9306d9abc776259be97e2488f", null ],
-    [ "WriteSaveDataMore", "dd/df7/a13657.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
-    [ "_apothecaryHummel", "dd/df7/a13657.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
-    [ "_crazedApothecaryGeneratorGUIDs", "dd/df7/a13657.html#a00880eedbbc2deb4dc36e4c851558861", null ],
-    [ "_encounters", "dd/df7/a13657.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
+    [ "OnPeriodic", "dd/df7/a13657.html#acd400b0a061d1814591e33d16bf4180a", null ],
+    [ "OnRemove", "dd/df7/a13657.html#a3da85c726007690220e9b4f81d30f185", null ],
+    [ "PrepareAuraScript", "dd/df7/a13657.html#a216d723f309ffa46df4bba7af79752c8", null ],
+    [ "Register", "dd/df7/a13657.html#a43fe84c2717d73e20a2562f596a84f36", null ],
+    [ "Validate", "dd/df7/a13657.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
 ];

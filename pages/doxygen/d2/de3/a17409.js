@@ -1,6 +1,7 @@
 var a17409 =
 [
-    [ "npc_hor_lich_kingAI", "dc/d10/a17413.html", "dc/d10/a17413" ],
-    [ "npc_hor_lich_king", "d2/de3/a17409.html#aab2562a7a204699735a89e7a15b3b472", null ],
-    [ "GetAI", "d2/de3/a17409.html#ad670ae69daa742c19c06267399445a11", null ]
+    [ "HandleApplyAura", "d2/de3/a17409.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
+    [ "PrepareSpellScript", "d2/de3/a17409.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
+    [ "Register", "d2/de3/a17409.html#a80638966202cb9e27d204ea621e379ef", null ],
+    [ "Validate", "d2/de3/a17409.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
 ];

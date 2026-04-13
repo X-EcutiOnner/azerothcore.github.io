@@ -1,10 +1,9 @@
 var a24313 =
 [
-    [ "npc_isla_starmaneAI", "d4/d21/a24313.html#a0cb655d324ddde173dcfdee069c0f694", null ],
-    [ "JustDied", "d4/d21/a24313.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
-    [ "JustEngagedWith", "d4/d21/a24313.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
-    [ "JustRespawned", "d4/d21/a24313.html#a69b395a9b9504737109870c5e8db74c8", null ],
-    [ "UpdateEscortAI", "d4/d21/a24313.html#af4b8c80e7443bb671be253238b124910", null ],
-    [ "WaypointReached", "d4/d21/a24313.html#a5d00583afa4e811e4f3cb8400787a990", null ],
-    [ "events", "d4/d21/a24313.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
+    [ "CheckProc", "d4/d21/a24313.html#a13245a545210eed1ddfd7c49c4a43f6b", null ],
+    [ "HandleProc", "d4/d21/a24313.html#aeec6c9e949d1edc09259a55583b3bae2", null ],
+    [ "Load", "d4/d21/a24313.html#ae3ffe29eef4f803f08ab728d959f1932", null ],
+    [ "PeriodicTick", "d4/d21/a24313.html#a1621c06bce0a28a2416385563b989cbf", null ],
+    [ "PrepareAuraScript", "d4/d21/a24313.html#a79a8c2a9ef00a9c1a2bba481e9cc522f", null ],
+    [ "Register", "d4/d21/a24313.html#ad47775cc21d4d5e0c28b68c68d595a39", null ]
 ];

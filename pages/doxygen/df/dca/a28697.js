@@ -1,5 +1,7 @@
 var a28697 =
 [
-    [ "npc_suns_reach_reclamation", "df/dca/a28697.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "df/dca/a28697.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "Displayid", "df/dca/a28697.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "df/dca/a28697.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "df/dca/a28697.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "df/dca/a28697.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

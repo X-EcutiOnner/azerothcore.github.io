@@ -1,7 +1,6 @@
 var a23881 =
 [
-    [ "boss_gatewatcher_iron_hand", "d0/d92/a23881.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "d0/d92/a23881.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "d0/d92/a23881.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "d0/d92/a23881.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "PrepareSpellScript", "d0/d92/a23881.html#aa858fff409e5c75d865c91cb5fbef679", null ],
+    [ "Register", "d0/d92/a23881.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
+    [ "SetDest", "d0/d92/a23881.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
 ];

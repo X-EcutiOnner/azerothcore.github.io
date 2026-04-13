@@ -1,7 +1,6 @@
 var a27093 =
 [
-    [ "HandleDummy", "db/d39/a27093.html#a367bd26543382ad71668fbe4f524d823", null ],
-    [ "PrepareSpellScript", "db/d39/a27093.html#a71cde3f81fdb253d8e93a19be104e9db", null ],
-    [ "Register", "db/d39/a27093.html#a7c73e3381592bef44d2265aff296b301", null ],
-    [ "Validate", "db/d39/a27093.html#a03d59b6859286dbe460b348df6de63d7", null ]
+    [ "FilterTargets", "db/d39/a27093.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
+    [ "PrepareSpellScript", "db/d39/a27093.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
+    [ "Register", "db/d39/a27093.html#abe63ec69fe15fd8924fb63235489e088", null ]
 ];

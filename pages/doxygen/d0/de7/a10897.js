@@ -1,5 +1,6 @@
 var a10897 =
 [
-    [ "GuildEventLogQuery", "d0/de7/a10897.html#af66d667a4b722745fa4f855870ef332c", null ],
-    [ "Read", "d0/de7/a10897.html#a48881f116070d5a7c03e7cace86656f6", null ]
+    [ "GuildCreate", "d0/de7/a10897.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
+    [ "Read", "d0/de7/a10897.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
+    [ "GuildName", "d0/de7/a10897.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
 ];

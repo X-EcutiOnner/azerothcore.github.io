@@ -1,6 +1,8 @@
 var a16737 =
 [
-    [ "FilterTargets", "d6/d8f/a16737.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "d6/d8f/a16737.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "d6/d8f/a16737.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "npc_toc_hunterAI", "d6/d8f/a16737.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d6/d8f/a16737.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d6/d8f/a16737.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d6/d8f/a16737.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d6/d8f/a16737.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

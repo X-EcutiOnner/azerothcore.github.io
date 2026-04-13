@@ -1,7 +1,7 @@
 var a26653 =
 [
-    [ "PeriodicTick", "d9/d4b/a26653.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
-    [ "PrepareAuraScript", "d9/d4b/a26653.html#ad332660b3b30ecb7b5c949c702574879", null ],
-    [ "Register", "d9/d4b/a26653.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
-    [ "Validate", "d9/d4b/a26653.html#a426b39c9733464c5d69d707d4e931f64", null ]
+    [ "CheckRequirement", "d9/d4b/a26653.html#afc9206b1d92834943c9825dfd97439c9", null ],
+    [ "HandleScriptEffect", "d9/d4b/a26653.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
+    [ "PrepareSpellScript", "d9/d4b/a26653.html#a0223c05b5832c64b248e82eba770f7fa", null ],
+    [ "Register", "d9/d4b/a26653.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
 ];

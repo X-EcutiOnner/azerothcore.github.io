@@ -1,9 +1,9 @@
 var a08237 =
 [
-    [ "LFGPlayerScript", "db/d1b/a08237.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
-    [ "OnPlayerBindToInstance", "db/d1b/a08237.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
-    [ "OnPlayerLevelChanged", "db/d1b/a08237.html#afd530a2823a7187b49645c9d0625c8ba", null ],
-    [ "OnPlayerLogin", "db/d1b/a08237.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
-    [ "OnPlayerLogout", "db/d1b/a08237.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
-    [ "OnPlayerMapChanged", "db/d1b/a08237.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
+    [ "cancelTime", "db/d1b/a08237.html#ac1d5edf075556c488aff36799ee6cb96", null ],
+    [ "dungeons", "db/d1b/a08237.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
+    [ "leader", "db/d1b/a08237.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
+    [ "rDungeonId", "db/d1b/a08237.html#af07fdfed0b56211af723db06959013f6", null ],
+    [ "roles", "db/d1b/a08237.html#a3759dc8140194b09be842365dc0053d7", null ],
+    [ "state", "db/d1b/a08237.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
 ];

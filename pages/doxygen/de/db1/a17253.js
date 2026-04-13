@@ -1,6 +1,6 @@
 var a17253 =
 [
-    [ "PrepareSpellScript", "de/db1/a17253.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "de/db1/a17253.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "de/db1/a17253.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "npc_pos_leaderAI", "d2/dc3/a17257.html", "d2/dc3/a17257" ],
+    [ "npc_pos_leader", "de/db1/a17253.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "de/db1/a17253.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

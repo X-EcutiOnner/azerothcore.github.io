@@ -1,12 +1,26 @@
 var a07349 =
 [
-    [ "Type", "d8/dd9/a07349.html#abfb75b18c4a43f1818cd78212c668109", [
-      [ "LIST", "d8/dd9/a07349.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
-      [ "OWNER_LIST", "d8/dd9/a07349.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
-      [ "BIDDER_LIST", "d8/dd9/a07349.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
-    ] ],
-    [ "AuctionSearcherRequest", "d8/dd9/a07349.html#afadcce053f82ae124263a501671f35e3", null ],
-    [ "~AuctionSearcherRequest", "d8/dd9/a07349.html#a8122177f0ca9b5c2393e87998a15e950", null ],
-    [ "listFaction", "d8/dd9/a07349.html#a1847f75715da2de1098d0f767163f62d", null ],
-    [ "requestType", "d8/dd9/a07349.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
+    [ "BuildAuctionMailBody", "d8/dd9/a07349.html#a146f034b64f65c03866ecc2f45a9b448", null ],
+    [ "BuildAuctionMailSubject", "d8/dd9/a07349.html#a8e3dee79fd65c7f25ca1d74fe7924163", null ],
+    [ "CalculateAuctionOutBid", "d8/dd9/a07349.html#aa6854cd3ccd30bafdac8e13f05f97c1d", null ],
+    [ "DeleteFromDB", "d8/dd9/a07349.html#a13750d00897a07a57a881c3dcb1f6737", null ],
+    [ "GetAuctionCut", "d8/dd9/a07349.html#ab18794a9a9287cee3328625ae715a57e", null ],
+    [ "GetAuctionOutBid", "d8/dd9/a07349.html#a0d34f5709de579b0eea0884598755adc", null ],
+    [ "GetFactionId", "d8/dd9/a07349.html#ac5f752011b382f3b37a155b13cb5cb69", null ],
+    [ "GetHouseId", "d8/dd9/a07349.html#a2d5a849d817aaee17738aba2a53009f9", null ],
+    [ "LoadFromDB", "d8/dd9/a07349.html#acca59324d63bc3eb7a0ffa22c6101770", null ],
+    [ "SaveToDB", "d8/dd9/a07349.html#a62b83210cbde94626f6e092b454b83d8", null ],
+    [ "auctionHouseEntry", "d8/dd9/a07349.html#a46668a8214d200bf508a157aa256e9ec", null ],
+    [ "bid", "d8/dd9/a07349.html#a11521c90c74d1eba7d7d3ef55e960a93", null ],
+    [ "bidder", "d8/dd9/a07349.html#a3d4e0baffa36cf643b0c645efe4bf3f4", null ],
+    [ "buyout", "d8/dd9/a07349.html#aa75d261f77460c16f98f211b481a9af0", null ],
+    [ "deposit", "d8/dd9/a07349.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c", null ],
+    [ "expire_time", "d8/dd9/a07349.html#a8520c9664918d452d8e6b643df8486b5", null ],
+    [ "houseId", "d8/dd9/a07349.html#a014be11a4e161eea637098a4e9243b6f", null ],
+    [ "Id", "d8/dd9/a07349.html#aa65a8b6b8be81f705378e2f510196c48", null ],
+    [ "item_guid", "d8/dd9/a07349.html#a9b1f40baa8c949995acdab008944f403", null ],
+    [ "item_template", "d8/dd9/a07349.html#ac8935b680716aa5c0d50d750fb934bab", null ],
+    [ "itemCount", "d8/dd9/a07349.html#aa67975f37a4ef343422a471ef65a98fd", null ],
+    [ "owner", "d8/dd9/a07349.html#adf2b61be66a9afc7114198fe993d526d", null ],
+    [ "startbid", "d8/dd9/a07349.html#aa1e6771187c237136d34645db9f852f9", null ]
 ];

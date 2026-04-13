@@ -1,7 +1,6 @@
 var a22053 =
 [
-    [ "npc_tirions_gambit_tirionAI", "de/da4/a22057.html", "de/da4/a22057" ],
-    [ "npc_tirions_gambit_tirion", "dd/d2e/a22053.html#ad52abd46ccdd3b4409671679434c193c", null ],
-    [ "GetAI", "dd/d2e/a22053.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
-    [ "OnGossipSelect", "dd/d2e/a22053.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
+    [ "PrepareSpellScript", "dd/d2e/a22053.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "dd/d2e/a22053.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "dd/d2e/a22053.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

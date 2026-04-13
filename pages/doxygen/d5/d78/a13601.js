@@ -1,6 +1,5 @@
 var a13601 =
 [
-    [ "npc_scholomance_occultistAI", "db/d51/a13605.html", "db/d51/a13605" ],
-    [ "npc_scholomance_occultist", "d5/d78/a13601.html#adf100912a15ff8edf056efa7eebd13ff", null ],
-    [ "GetAI", "d5/d78/a13601.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
+    [ "go_eredar_twins_blaze", "d5/d78/a13601.html#a19d28875d3506d337e0ecbd93169f140", null ],
+    [ "InitializeAI", "d5/d78/a13601.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
 ];

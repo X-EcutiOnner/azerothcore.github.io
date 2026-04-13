@@ -1,6 +1,6 @@
 var a21805 =
 [
-    [ "GhoulTargetCheck", "d7/d7f/a21805.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "d7/d7f/a21805.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "d7/d7f/a21805.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_mcmanus", "d7/d7f/a21805.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "d7/d7f/a21805.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "d7/d7f/a21805.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

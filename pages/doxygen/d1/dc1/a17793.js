@@ -1,13 +1,12 @@
 var a17793 =
 [
-    [ "npc_kinetic_bombAI", "d1/dc1/a17793.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
-    [ "DoAction", "d1/dc1/a17793.html#a52e913b244e58f99745926d021dc0d95", null ],
-    [ "IsSummonedBy", "d1/dc1/a17793.html#a03dc3870b23105bb1d0d207adefe2541", null ],
-    [ "Reset", "d1/dc1/a17793.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
-    [ "UpdateAI", "d1/dc1/a17793.html#a1ce9bf99879796652878990a773e6a2c", null ],
-    [ "_events", "d1/dc1/a17793.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
-    [ "_groundZ", "d1/dc1/a17793.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
-    [ "_x", "d1/dc1/a17793.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
-    [ "_y", "d1/dc1/a17793.html#a5d9f4039c87e1e57234af51cd4617022", null ],
-    [ "exploded", "d1/dc1/a17793.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
+    [ "gunship_npc_AI", "d1/dc1/a17793.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d1/dc1/a17793.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d1/dc1/a17793.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d1/dc1/a17793.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d1/dc1/a17793.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d1/dc1/a17793.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d1/dc1/a17793.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d1/dc1/a17793.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d1/dc1/a17793.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

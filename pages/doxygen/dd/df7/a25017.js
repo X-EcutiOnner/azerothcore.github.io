@@ -1,6 +1,6 @@
 var a25017 =
 [
-    [ "CheckAreaTarget", "dd/df7/a25017.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
-    [ "PrepareAuraScript", "dd/df7/a25017.html#a2b6dbd33e34357917f662000a1cd932f", null ],
-    [ "Register", "dd/df7/a25017.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
+    [ "PrepareSpellScript", "dd/df7/a25017.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "dd/df7/a25017.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "dd/df7/a25017.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

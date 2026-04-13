@@ -1,9 +1,8 @@
 var a08061 =
 [
-    [ "HyperlinkColor", "d9/d19/a08061.html#a4b246814aa2e2ac930e1e9e4e79345f0", null ],
-    [ "operator==", "d9/d19/a08061.html#aad186f06a8d61834ec94d29d305fa0f2", null ],
-    [ "a", "d9/d19/a08061.html#a57d68da0bcaec609d89efb18185b7f03", null ],
-    [ "b", "d9/d19/a08061.html#a5ef7a2aab07e2e9a5097a27a466adeca", null ],
-    [ "g", "d9/d19/a08061.html#a4570365880f14c7f7c5e7d96332ae150", null ],
-    [ "r", "d9/d19/a08061.html#a1b4e0f604b95a773d28b93601af8ffe0", null ]
+    [ "CurValue", "d9/d19/a08061.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
+    [ "KnownRecipes", "d9/d19/a08061.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
+    [ "MaxValue", "d9/d19/a08061.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
+    [ "Owner", "d9/d19/a08061.html#a085e0aa9f79129920af96046c4fc29b1", null ],
+    [ "Spell", "d9/d19/a08061.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
 ];

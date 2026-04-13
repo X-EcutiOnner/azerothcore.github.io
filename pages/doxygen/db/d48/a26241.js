@@ -1,7 +1,8 @@
 var a26241 =
 [
-    [ "HandleProc", "db/d48/a26241.html#ac162e47e5334e15865a315b1a30fc645", null ],
-    [ "PrepareAuraScript", "db/d48/a26241.html#a0d30a007e3f67b78197ac0cae83e2976", null ],
-    [ "Register", "db/d48/a26241.html#aad337f75e2132940ed3cfef209e1c73b", null ],
-    [ "Validate", "db/d48/a26241.html#afc4741f952c253924de7397d991a24ac", null ]
+    [ "ApplyPermafrost", "db/d48/a26241.html#a06bb458e038b97696362681a6fd28104", null ],
+    [ "PrepareAuraScript", "db/d48/a26241.html#a3d96d6f5f798efc92572e2a52349102d", null ],
+    [ "Register", "db/d48/a26241.html#a613e5af53064357f4e8e4d6260c6856a", null ],
+    [ "RemovePermafrost", "db/d48/a26241.html#a9414746a76f53a5258cf617abefd5bd6", null ],
+    [ "Validate", "db/d48/a26241.html#addd58a0138e3cdb5cb274c8a38151a45", null ]
 ];

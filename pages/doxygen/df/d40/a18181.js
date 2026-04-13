@@ -1,6 +1,6 @@
 var a18181 =
 [
-    [ "IgbArtilleryCheck", "df/d40/a18181.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "df/d40/a18181.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "df/d40/a18181.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "npc_big_oozeAI", "dc/dba/a18185.html", "dc/dba/a18185" ],
+    [ "npc_big_ooze", "df/d40/a18181.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "df/d40/a18181.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

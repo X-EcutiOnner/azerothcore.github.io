@@ -1,8 +1,8 @@
 var a21229 =
 [
-    [ "CheckProc", "d3/df4/a21229.html#ac955cc78dd3206816906dd06b3e006f6", null ],
-    [ "HandleProc", "d3/df4/a21229.html#a966d23cc5714fe35d80b2964dddda536", null ],
-    [ "PrepareAuraScript", "d3/df4/a21229.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
-    [ "Register", "d3/df4/a21229.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
-    [ "Validate", "d3/df4/a21229.html#a5d8e764dafd26548af8588593bf27990", null ]
+    [ "npc_mootoo_the_youngerAI", "d3/df4/a21229.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d3/df4/a21229.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d3/df4/a21229.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d3/df4/a21229.html#ac758a992ed0d62a272930c84d617b348", null ],
+    [ "WaypointReached", "d3/df4/a21229.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

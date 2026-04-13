@@ -1,8 +1,5 @@
 var a14625 =
 [
-    [ "boss_venoxis", "d4/df0/a14625.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "d4/df0/a14625.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "d4/df0/a14625.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "d4/df0/a14625.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "d4/df0/a14625.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "npc_cw_area_triggerAI", "d4/df0/a14625.html#aede21e01dfe762922562b6f5d57bc406", null ],
+    [ "MoveInLineOfSight", "d4/df0/a14625.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
 ];

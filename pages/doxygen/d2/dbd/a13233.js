@@ -1,8 +1,6 @@
 var a13233 =
 [
-    [ "npc_tito", "d2/dbd/a13233.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "d2/dbd/a13233.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "d2/dbd/a13233.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "d2/dbd/a13233.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "d2/dbd/a13233.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "CheckRequirement", "d2/dbd/a13233.html#a31d69034f463d552afa4063bf89271da", null ],
+    [ "PrepareSpellScript", "d2/dbd/a13233.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
+    [ "Register", "d2/dbd/a13233.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
 ];

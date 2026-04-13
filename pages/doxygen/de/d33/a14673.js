@@ -1,19 +1,6 @@
 var a14673 =
 [
-    [ "npc_dark_iron_guzzler", "de/d33/a14673.html#a53ce152d0bf8e727ed0b385bb2293363", null ],
-    [ "AttackStart", "de/d33/a14673.html#a47295b69eaecf3c001c43a1550dd1a80", null ],
-    [ "DamageTaken", "de/d33/a14673.html#affd1f78b5c1df26824b08416d6bd03a1", null ],
-    [ "FindNextKeg", "de/d33/a14673.html#ac063799097f89c09f30bed79151e8ed6", null ],
-    [ "GetTarget", "de/d33/a14673.html#a076305d37ce348b24b35f7956385e8fc", null ],
-    [ "JustEngagedWith", "de/d33/a14673.html#ae8142b745e493ab4a77b9df12ea9474d", null ],
-    [ "KilledUnit", "de/d33/a14673.html#a018513f23158fcd6f929a90cfecfde4c", null ],
-    [ "MoveInLineOfSight", "de/d33/a14673.html#aaa4df56f1f587029b24626ae1aca552a", null ],
-    [ "MovementInform", "de/d33/a14673.html#ada6c7f97e25eb545926d6531495bb397", null ],
-    [ "Reset", "de/d33/a14673.html#af608024d4b41fa218a7baeae9bee72ef", null ],
-    [ "SayText", "de/d33/a14673.html#a872bdd2e2ff2b72c983658c63d74e2c3", null ],
-    [ "SpellHit", "de/d33/a14673.html#ae195867416885e570c2c9a4837ac33c1", null ],
-    [ "UpdateAI", "de/d33/a14673.html#a5decab6f76369ec9ce037dd050898423", null ],
-    [ "attacking", "de/d33/a14673.html#a18a1d7e61b99819666366c6791154e01", null ],
-    [ "targetGUID", "de/d33/a14673.html#a620df1502373954020a910853cb6dd3a", null ],
-    [ "timer", "de/d33/a14673.html#a9748d587b61c148a27be690a6354473f", null ]
+    [ "HandleDummy", "de/d33/a14673.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
+    [ "PrepareSpellScript", "de/d33/a14673.html#a87a787c6ab3804847c90266f570381c6", null ],
+    [ "Register", "de/d33/a14673.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
 ];

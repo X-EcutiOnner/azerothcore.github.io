@@ -1,6 +1,5 @@
 var a08593 =
 [
-    [ "DamageMax", "d0/d09/a08593.html#afc0bd7960848f6434c182a3fadc1e256", null ],
-    [ "DamageMin", "d0/d09/a08593.html#acbab962cbc25ad032c97216feac281bb", null ],
-    [ "DamageType", "d0/d09/a08593.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
+    [ "CastBarCaption", "d0/d09/a08593.html#ae78195bdc8edd6f4996c617e7a541e12", null ],
+    [ "Name", "d0/d09/a08593.html#a462917eda1e095c99054495abf70cd67", null ]
 ];

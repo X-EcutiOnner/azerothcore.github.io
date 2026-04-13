@@ -1,6 +1,6 @@
 var a16577 =
 [
-    [ "npc_halion_controllerAI", "d0/d64/a16581.html", "d0/d64/a16581" ],
-    [ "npc_halion_controller", "dc/dd9/a16577.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "dc/dd9/a16577.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "npc_toc5_player_vehicleAI", "d0/d64/a16581.html", "d0/d64/a16581" ],
+    [ "npc_toc5_player_vehicle", "dc/dd9/a16577.html#a8786627999d3d1681d9de58cd8c46744", null ],
+    [ "GetAI", "dc/dd9/a16577.html#af89c559eff828130df821c0c30c61f7a", null ]
 ];

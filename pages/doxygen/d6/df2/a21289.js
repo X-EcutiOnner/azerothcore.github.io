@@ -1,6 +1,13 @@
 var a21289 =
 [
-    [ "npc_frozen_orbAI", "da/dee/a21293.html", "da/dee/a21293" ],
-    [ "npc_frozen_orb", "d6/df2/a21289.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "d6/df2/a21289.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "npc_preparations_for_war_vehicle", "d6/df2/a21289.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "MovementInform", "d6/df2/a21289.html#a5380670d521c7805a045aeac26c7c686", null ],
+    [ "PassengerBoarded", "d6/df2/a21289.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
+    [ "SpellHit", "d6/df2/a21289.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
+    [ "UpdateAI", "d6/df2/a21289.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "passenger_x", "d6/df2/a21289.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
+    [ "passenger_y", "d6/df2/a21289.html#afd99c49b3c3b996c92def21229f1ec87", null ],
+    [ "passenger_z", "d6/df2/a21289.html#a18d051868134d8c62f64923905bf19db", null ],
+    [ "searchForShipTimer", "d6/df2/a21289.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "d6/df2/a21289.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

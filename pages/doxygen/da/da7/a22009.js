@@ -1,7 +1,7 @@
 var a22009 =
 [
-    [ "HandleScript", "da/da7/a22009.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
-    [ "PrepareSpellScript", "da/da7/a22009.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
-    [ "Register", "da/da7/a22009.html#a713b82bc3d82a8324ce4dd090059f463", null ],
-    [ "Validate", "da/da7/a22009.html#ac8e362d9f76350da106e128138737c5c", null ]
+    [ "npc_wg_quest_giver", "da/da7/a22009.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "da/da7/a22009.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "da/da7/a22009.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "da/da7/a22009.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

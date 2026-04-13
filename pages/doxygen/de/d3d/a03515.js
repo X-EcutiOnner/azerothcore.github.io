@@ -1,7 +1,5 @@
 var a03515 =
 [
-    [ "GetExplicitDiscoverySpell", "de/d3d/a03515.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
-    [ "GetSkillDiscoverySpell", "de/d3d/a03515.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
-    [ "HasDiscoveredAllSpells", "de/d3d/a03515.html#abdf3c2fcf65212466dfb54053e35024c", null ],
-    [ "LoadSkillDiscoveryTable", "de/d3d/a03515.html#addd95f0a239a27ed32cd943aa1052019", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "d1/d6f/a22113.html", "d1/d6f/a22113" ],
+    [ "AddSC_outdoorpvp_ep", "de/d3d/a03515.html#ac97adfc1efbcf82840cffa915a55fecb", null ]
 ];

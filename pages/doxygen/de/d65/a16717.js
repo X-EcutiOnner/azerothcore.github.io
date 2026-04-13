@@ -1,6 +1,6 @@
 var a16717 =
 [
-    [ "npc_memoryAI", "d8/dd9/a16721.html", "d8/dd9/a16721" ],
-    [ "npc_memory", "de/d65/a16717.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "de/d65/a16717.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "npc_toc_warlockAI", "d8/dd9/a16721.html", "d8/dd9/a16721" ],
+    [ "npc_toc_warlock", "de/d65/a16717.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "de/d65/a16717.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

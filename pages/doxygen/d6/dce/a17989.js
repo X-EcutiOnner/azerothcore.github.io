@@ -1,7 +1,5 @@
 var a17989 =
 [
-    [ "HandleScript", "d6/dce/a17989.html#a276018baa590b942d90c457faea10040", null ],
-    [ "PrepareSpellScript", "d6/dce/a17989.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
-    [ "Register", "d6/dce/a17989.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
-    [ "Validate", "d6/dce/a17989.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
+    [ "at_lady_deathwhisper_entrance", "d6/dce/a17989.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "d6/dce/a17989.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

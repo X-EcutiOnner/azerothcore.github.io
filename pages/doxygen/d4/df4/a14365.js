@@ -1,6 +1,6 @@
 var a14365 =
 [
-    [ "go", "d4/df4/a14365.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "d4/df4/a14365.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "d4/df4/a14365.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "boss_mandokirAI", "d7/d55/a14369.html", "d7/d55/a14369" ],
+    [ "boss_mandokir", "d4/df4/a14365.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "d4/df4/a14365.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

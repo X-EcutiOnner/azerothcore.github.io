@@ -1,9 +1,7 @@
 var a15525 =
 [
-    [ "go_ossirian_crystalAI", "d5/df9/a15525.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "d5/df9/a15525.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "d5/df9/a15525.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "d5/df9/a15525.html#a9b4af48363a6d3194a22312fafa48587", null ],
-    [ "_instance", "d5/df9/a15525.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "d5/df9/a15525.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "boss_glob_of_viscidus", "d5/df9/a15525.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d5/df9/a15525.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d5/df9/a15525.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d5/df9/a15525.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

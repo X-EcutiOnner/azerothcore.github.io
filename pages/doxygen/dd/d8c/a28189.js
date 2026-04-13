@@ -1,6 +1,8 @@
 var a28189 =
 [
-    [ "go_l70_etc_musicAI", "dd/d1a/a28193.html", "dd/d1a/a28193" ],
-    [ "go_l70_etc_music", "dd/d8c/a28189.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "dd/d8c/a28189.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "npc_wormholeAI", "dd/d1a/a28193.html", "dd/d1a/a28193" ],
+    [ "npc_wormhole", "dd/d8c/a28189.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "dd/d8c/a28189.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "dd/d8c/a28189.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "dd/d8c/a28189.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

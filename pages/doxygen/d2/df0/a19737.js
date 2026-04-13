@@ -1,8 +1,11 @@
 var a19737 =
 [
-    [ "Load", "d2/df0/a19737.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
-    [ "OnRemove", "d2/df0/a19737.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
-    [ "PrepareAuraScript", "d2/df0/a19737.html#aae6c3a215b09fd2270976190600e2cc4", null ],
-    [ "Register", "d2/df0/a19737.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
-    [ "Validate", "d2/df0/a19737.html#ae4ac76269793280335d76a78e5dced91", null ]
+    [ "boss_maiden_of_griefAI", "d2/df0/a19737.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "d2/df0/a19737.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "d2/df0/a19737.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "d2/df0/a19737.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "d2/df0/a19737.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "d2/df0/a19737.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "d2/df0/a19737.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "d2/df0/a19737.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

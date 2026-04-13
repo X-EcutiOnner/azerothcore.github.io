@@ -1,6 +1,7 @@
 var a27177 =
 [
-    [ "HandleTriggerSpell", "db/dba/a27177.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
-    [ "PrepareAuraScript", "db/dba/a27177.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
-    [ "Register", "db/dba/a27177.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
+    [ "HandleProc", "db/dba/a27177.html#aeaeacf85b822cc7427234fe469aaff7f", null ],
+    [ "PrepareAuraScript", "db/dba/a27177.html#ac9df7bea2f626b95291c18c740968da6", null ],
+    [ "Register", "db/dba/a27177.html#a7152aa6ab02938d981ee83875e533b32", null ],
+    [ "Validate", "db/dba/a27177.html#a0e488d9d96e37a20887f0befc1950dd5", null ]
 ];

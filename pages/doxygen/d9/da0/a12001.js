@@ -1,6 +1,7 @@
 var a12001 =
 [
-    [ "rainChance", "de/d42/a04975.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
-    [ "snowChance", "de/d42/a04975.html#ga474650c5237c4a7428e858775fea7b86", null ],
-    [ "stormChance", "de/d42/a04975.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
+    [ "PlayerDumpReader", "d9/da0/a12001.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "d9/da0/a12001.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "d9/da0/a12001.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "d9/da0/a12001.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

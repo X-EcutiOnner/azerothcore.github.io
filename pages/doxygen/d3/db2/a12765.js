@@ -1,6 +1,5 @@
 var a12765 =
 [
-    [ "boss_victor_nefariusAI", "d5/d1b/a12769.html", "d5/d1b/a12769" ],
-    [ "boss_victor_nefarius", "d3/db2/a12765.html#a85c529c49a0373a553bc59818fb18f49", null ],
-    [ "GetAI", "d3/db2/a12765.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
+    [ "npc_garr_firesworn", "d3/db2/a12765.html#a5efff706f522accd5f8be0d29080dea4", null ],
+    [ "DamageTaken", "d3/db2/a12765.html#a172435821316d28c5b0043015c68595e", null ]
 ];

@@ -1,8 +1,11 @@
 var a12213 =
 [
-    [ "pet_commandscript", "d9/dfd/a12213.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "d9/dfd/a12213.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "d9/dfd/a12213.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetLearnCommand", "d9/dfd/a12213.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetUnlearnCommand", "d9/dfd/a12213.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "group_commandscript", "d9/dfd/a12213.html#ad2890427cfe3649b2e0fe0896693372c", null ],
+    [ "GetCommands", "d9/dfd/a12213.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
+    [ "HandleGroupDisbandCommand", "d9/dfd/a12213.html#a538539340a697e02453ddcfa669fb646", null ],
+    [ "HandleGroupJoinCommand", "d9/dfd/a12213.html#a382e8532c653464e90b45569e813ae37", null ],
+    [ "HandleGroupLeaderCommand", "d9/dfd/a12213.html#a899858a63add3c68e0e1446d29216c00", null ],
+    [ "HandleGroupListCommand", "d9/dfd/a12213.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
+    [ "HandleGroupRemoveCommand", "d9/dfd/a12213.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
+    [ "HandleGroupReviveCommand", "d9/dfd/a12213.html#a13968d61ec037aacc8070bc675290f94", null ]
 ];

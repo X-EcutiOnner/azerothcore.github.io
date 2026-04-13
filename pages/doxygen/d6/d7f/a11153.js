@@ -1,6 +1,9 @@
 var a11153 =
 [
-    [ "ItemRefundInfo", "d6/d7f/a11153.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
-    [ "Read", "d6/d7f/a11153.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
-    [ "ItemGuid", "d6/d7f/a11153.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
+    [ "SwapItem", "d6/d7f/a11153.html#a603871bfd69a2bcc2083de350f48875a", null ],
+    [ "Read", "d6/d7f/a11153.html#a475122a155c96446ecad1b92ef5c7a19", null ],
+    [ "DestinationBag", "d6/d7f/a11153.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
+    [ "DestinationSlot", "d6/d7f/a11153.html#a0cf0b21ebfccb843ee23831e17982081", null ],
+    [ "SourceBag", "d6/d7f/a11153.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
+    [ "SourceSlot", "d6/d7f/a11153.html#ab080d55f63eb07c8db090123260bee23", null ]
 ];

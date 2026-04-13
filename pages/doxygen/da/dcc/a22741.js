@@ -1,7 +1,11 @@
 var a22741 =
 [
-    [ "HandleEffectRemove", "da/dcc/a22741.html#a09124a4351930a35e33359e95ca88580", null ],
-    [ "PrepareAuraScript", "da/dcc/a22741.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
-    [ "Register", "da/dcc/a22741.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
-    [ "Validate", "da/dcc/a22741.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
+    [ "boss_doomwalker", "da/dcc/a22741.html#a47811086ff98b1a09af5300af94b6c0e", null ],
+    [ "JustDied", "da/dcc/a22741.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
+    [ "JustEngagedWith", "da/dcc/a22741.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
+    [ "KilledUnit", "da/dcc/a22741.html#a2335eb642940397f73ee2a8051624e8e", null ],
+    [ "MoveInLineOfSight", "da/dcc/a22741.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
+    [ "Reset", "da/dcc/a22741.html#aba08b227d629c9f35e59f465e29c267b", null ],
+    [ "UpdateAI", "da/dcc/a22741.html#a3105c50e512c6f709985cece619b131f", null ],
+    [ "_inEnrage", "da/dcc/a22741.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
 ];

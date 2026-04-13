@@ -1,6 +1,8 @@
 var a26053 =
 [
-    [ "HandleTriggerSpell", "d6/d4b/a26053.html#a2c9f565aec4c42900037dd387549df18", null ],
-    [ "PrepareAuraScript", "d6/d4b/a26053.html#a5864bbba50001cdb84b0015d08134c56", null ],
-    [ "Register", "d6/d4b/a26053.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
+    [ "HandleProc", "d6/d4b/a26053.html#ad470545a3c3f1ffaad2d895f122522e1", null ],
+    [ "OnRemove", "d6/d4b/a26053.html#adc9b9b988aa1342c34a49622f54d8484", null ],
+    [ "PrepareAuraScript", "d6/d4b/a26053.html#ab3008bcdeb90825213d2352812ff21d5", null ],
+    [ "Register", "d6/d4b/a26053.html#a9ee52d89eeff45a4f9df1982da6f7d78", null ],
+    [ "Validate", "d6/d4b/a26053.html#a0ea66a92b78e59b50181b54ab285b9db", null ]
 ];

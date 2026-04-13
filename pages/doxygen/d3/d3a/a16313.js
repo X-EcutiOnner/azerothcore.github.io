@@ -1,15 +1,14 @@
 var a16313 =
 [
-    [ "boss_volazj", "d3/d3a/a16313.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
-    [ "CheckPhaseMinions", "d3/d3a/a16313.html#aa79bf97b6772956795bd2f16b85e061f", null ],
-    [ "GetPlrInsanityAuraId", "d3/d3a/a16313.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
-    [ "JustDied", "d3/d3a/a16313.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
-    [ "JustEngagedWith", "d3/d3a/a16313.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
-    [ "KilledUnit", "d3/d3a/a16313.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
-    [ "Reset", "d3/d3a/a16313.html#a0377375b89b02db3cae01390fdd13ee2", null ],
-    [ "ResetPlayersPhaseMask", "d3/d3a/a16313.html#afbfa62f2b72a95434348f74fdda46da6", null ],
-    [ "ScheduleTasks", "d3/d3a/a16313.html#a44a8aa836a45e5a9827814bb731d2882", null ],
-    [ "SetData", "d3/d3a/a16313.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
-    [ "UpdateAI", "d3/d3a/a16313.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
-    [ "insanityPhase", "d3/d3a/a16313.html#ae90de1e956eb3653c8c2f0c04d89585b", null ]
+    [ "boss_baltharus_the_warbornAI", "d3/d3a/a16313.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
+    [ "DoAction", "d3/d3a/a16313.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
+    [ "InitializeAI", "d3/d3a/a16313.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
+    [ "JustDied", "d3/d3a/a16313.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
+    [ "JustEngagedWith", "d3/d3a/a16313.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
+    [ "JustReachedHome", "d3/d3a/a16313.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
+    [ "JustSummoned", "d3/d3a/a16313.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
+    [ "KilledUnit", "d3/d3a/a16313.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
+    [ "Reset", "d3/d3a/a16313.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
+    [ "UpdateAI", "d3/d3a/a16313.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
+    [ "_introDone", "d3/d3a/a16313.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
 ];

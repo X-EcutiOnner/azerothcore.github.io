@@ -1,11 +1,9 @@
 var a13741 =
 [
-    [ "boss_alythess", "de/d86/a13741.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "de/d86/a13741.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "de/d86/a13741.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "de/d86/a13741.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "de/d86/a13741.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "de/d86/a13741.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "de/d86/a13741.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "de/d86/a13741.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "boss_entropius", "de/d86/a13741.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "de/d86/a13741.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "de/d86/a13741.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "de/d86/a13741.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "de/d86/a13741.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "de/d86/a13741.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

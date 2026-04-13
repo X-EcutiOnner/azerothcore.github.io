@@ -1,7 +1,11 @@
 var a24285 =
 [
-    [ "HandleSendEvent", "d4/d1d/a24285.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d4/d1d/a24285.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d4/d1d/a24285.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d4/d1d/a24285.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "CalcPeriodic", "d4/d1d/a24285.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
+    [ "CalculateAPAmount", "d4/d1d/a24285.html#ab23f26c3470f629f0a20f28faf272a68", null ],
+    [ "CalculateHealthAmount", "d4/d1d/a24285.html#a4f827a906ac279e143ba8545545090ad", null ],
+    [ "CalculateSPAmount", "d4/d1d/a24285.html#ae94493ffed217a218e21c05e002cec00", null ],
+    [ "HandleEffectApply", "d4/d1d/a24285.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
+    [ "HandlePeriodic", "d4/d1d/a24285.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
+    [ "PrepareAuraScript", "d4/d1d/a24285.html#a5052689d815e0a0543693b39b7454deb", null ],
+    [ "Register", "d4/d1d/a24285.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
 ];

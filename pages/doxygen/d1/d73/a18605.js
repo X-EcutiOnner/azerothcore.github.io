@@ -1,6 +1,7 @@
 var a18605 =
 [
-    [ "npc_rimefangAI", "d3/db3/a18609.html", "d3/db3/a18609" ],
-    [ "npc_rimefang", "d1/d73/a18605.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "d1/d73/a18605.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "OnPeriodic", "d1/d73/a18605.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "d1/d73/a18605.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "d1/d73/a18605.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "d1/d73/a18605.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

@@ -1,7 +1,9 @@
 var a26085 =
 [
-    [ "HandleDummy", "d6/d32/a26085.html#aec0b2ad3b10f2ccbc755cf7278a5ed46", null ],
-    [ "PrepareSpellScript", "d6/d32/a26085.html#ac1ba0d23cbf805c234ac9d898f6bab85", null ],
-    [ "Register", "d6/d32/a26085.html#afd1588dc55730c52a922f37e60ec134a", null ],
-    [ "Validate", "d6/d32/a26085.html#aaed3ba3d986173b5941e048370d5ebe2", null ]
+    [ "HandleAfterCast", "d6/d32/a26085.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "d6/d32/a26085.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "d6/d32/a26085.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "d6/d32/a26085.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "d6/d32/a26085.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "d6/d32/a26085.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

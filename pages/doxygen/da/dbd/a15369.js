@@ -1,8 +1,6 @@
 var a15369 =
 [
-    [ "Load", "da/dbd/a15369.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "da/dbd/a15369.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "da/dbd/a15369.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "da/dbd/a15369.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "da/dbd/a15369.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "df/df2/a15373.html", "df/df2/a15373" ],
+    [ "instance_ruins_of_ahnqiraj", "da/dbd/a15369.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "da/dbd/a15369.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

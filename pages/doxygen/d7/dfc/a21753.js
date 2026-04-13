@@ -1,7 +1,7 @@
 var a21753 =
 [
-    [ "CheckRequirement", "d7/dfc/a21753.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d7/dfc/a21753.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d7/dfc/a21753.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d7/dfc/a21753.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "HandleScriptEffect", "d7/dfc/a21753.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "d7/dfc/a21753.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "d7/dfc/a21753.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "d7/dfc/a21753.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

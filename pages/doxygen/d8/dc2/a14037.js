@@ -1,6 +1,7 @@
 var a14037 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "dc/da3/a14041.html", "dc/da3/a14041" ],
-    [ "npc_balance_of_light_and_shadow", "d8/dc2/a14037.html#a55229e3ea8dd9c52972185b36c08908b", null ],
-    [ "GetAI", "d8/dc2/a14037.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d8/dc2/a14037.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "d8/dc2/a14037.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "d8/dc2/a14037.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "d8/dc2/a14037.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

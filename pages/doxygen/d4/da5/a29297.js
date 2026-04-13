@@ -1,18 +1,9 @@
 var a29297 =
 [
-    [ "getArmorMod", "d4/da5/a29297.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
-    [ "getDPSMod", "d4/da5/a29297.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
-    [ "getFeralBonus", "d4/da5/a29297.html#aa54c3d1add4a1b982c05138f876fd138", null ],
-    [ "getSpellBonus", "d4/da5/a29297.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
-    [ "getssdMultiplier", "d4/da5/a29297.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
-    [ "IsTwoHand", "d4/da5/a29297.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
-    [ "armorMod", "d4/da5/a29297.html#a742f8447dca5961fb39e50de8233fa86", null ],
-    [ "armorMod2", "d4/da5/a29297.html#a36dba32ea7febb8dab627fa992de878b", null ],
-    [ "dpsMod", "d4/da5/a29297.html#ace956cab0056bcf0e116ac0884ad3575", null ],
-    [ "Id", "d4/da5/a29297.html#aebc75b8f80cb210b6af081077bd88e85", null ],
-    [ "Level", "d4/da5/a29297.html#a5758f5152401efde26edf3110c0d11e2", null ],
-    [ "spellPower", "d4/da5/a29297.html#a03804cca02fd1146dffb762bcd1274f8", null ],
-    [ "ssdMultiplier", "d4/da5/a29297.html#a7559b9045268d8050372153c8c976946", null ],
-    [ "ssdMultiplier2", "d4/da5/a29297.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
-    [ "ssdMultiplier3", "d4/da5/a29297.html#ae78f00d5ed42704a4093b5df939498d7", null ]
+    [ "SetUp", "d4/da5/a29297.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
+    [ "TearDown", "d4/da5/a29297.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
+    [ "_distributor", "d4/da5/a29297.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
+    [ "_mockRewarder", "d4/da5/a29297.html#ad466c2751d8e9739db56f9f82d15deff", null ],
+    [ "_previousWorld", "d4/da5/a29297.html#aef822a2309df5d13af31ea5a5da74df7", null ],
+    [ "_worldMock", "d4/da5/a29297.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
 ];

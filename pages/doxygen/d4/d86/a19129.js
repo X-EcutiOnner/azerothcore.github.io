@@ -1,6 +1,6 @@
 var a19129 =
 [
-    [ "npc_captain_brandonAI", "d4/d86/a19129.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d4/d86/a19129.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d4/d86/a19129.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_four_car_garageAI", "d4/d86/a19129.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "d4/d86/a19129.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "d4/d86/a19129.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

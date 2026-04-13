@@ -1,9 +1,20 @@
 var a07605 =
 [
-    [ "CapturePointInfo", "de/d01/a07605.html#a47ba3bbadd15909726e87dc5adc67686", null ],
-    [ "_captured", "de/d01/a07605.html#aac26833d9951853183095b3985254e03", null ],
-    [ "_iconCapture", "de/d01/a07605.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
-    [ "_iconNone", "de/d01/a07605.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
-    [ "_ownerTeamId", "de/d01/a07605.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
-    [ "_state", "de/d01/a07605.html#a98cb154218423e295b8007c62222831c", null ]
+    [ "ArenaMatchmakerRating", "de/d01/a07605.html#aebaba68d0d75e08eb909975d70ab7084", null ],
+    [ "ArenaTeamId", "de/d01/a07605.html#a62d4963600711b2476d6de964fc51f5e", null ],
+    [ "ArenaTeamRating", "de/d01/a07605.html#a167a97bcd0ee298dfc49cabc4193fd3e", null ],
+    [ "ArenaType", "de/d01/a07605.html#a607a585ca374dc2cf9e8f5e460465f22", null ],
+    [ "BgTypeId", "de/d01/a07605.html#aad98458292aca41fc7feb2e63ba5125f", null ],
+    [ "BracketId", "de/d01/a07605.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4", null ],
+    [ "GroupType", "de/d01/a07605.html#af4ad41d00ee448097eb4b7e468f336f8", null ],
+    [ "IsInvitedToBGInstanceGUID", "de/d01/a07605.html#a0261df1066e01602f475e9a08e142883", null ],
+    [ "IsRated", "de/d01/a07605.html#af6bac7c32a8e3e7faf647a4f6b6722a0", null ],
+    [ "JoinTime", "de/d01/a07605.html#a44939a98ff1ec940e42e79faf31a2e9a", null ],
+    [ "OpponentsMatchmakerRating", "de/d01/a07605.html#a558a2febf6dcc2aed2ddedfd1f5d342a", null ],
+    [ "OpponentsTeamRating", "de/d01/a07605.html#adf219cc12cebeaddebf8c04c5004c30a", null ],
+    [ "Players", "de/d01/a07605.html#ae5912a881a5ecaa761ea28c87e6c45ad", null ],
+    [ "PreviousOpponentsTeamId", "de/d01/a07605.html#a2fac6fffa7bec4507fdde7632e2b4df0", null ],
+    [ "RealTeamID", "de/d01/a07605.html#a972df7095f38b6f2617bc12a67ac30f7", null ],
+    [ "RemoveInviteTime", "de/d01/a07605.html#aefe5994744194e7db9110fb36fa9c4bb", null ],
+    [ "teamId", "de/d01/a07605.html#a2303f13880bbac9faf4b1fd4fc6334d5", null ]
 ];

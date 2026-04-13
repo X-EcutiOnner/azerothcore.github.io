@@ -1,6 +1,6 @@
 var a18309 =
 [
-    [ "AbominationDespawner", "d3/d8e/a18309.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "d3/d8e/a18309.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "d3/d8e/a18309.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "MysticBuffetTargetFilter", "d3/d8e/a18309.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
+    [ "operator()", "d3/d8e/a18309.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
+    [ "_caster", "d3/d8e/a18309.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
 ];

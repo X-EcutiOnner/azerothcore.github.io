@@ -1,8 +1,9 @@
 var a28665 =
 [
-    [ "npc_cultist_engineer", "dd/d3d/a28665.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "dd/d3d/a28665.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "dd/d3d/a28665.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "dd/d3d/a28665.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "dd/d3d/a28665.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "HolidayWorldStateId", "dd/d3d/a28665.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
+    [ "id", "dd/d3d/a28665.html#a52f7840f9247d2af63062dd280b37341", null ],
+    [ "mapid", "dd/d3d/a28665.html#a11e1326eeb24b436b10db53acc323c13", null ],
+    [ "maxGroupSize", "dd/d3d/a28665.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
+    [ "name", "dd/d3d/a28665.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
+    [ "type", "dd/d3d/a28665.html#a647669b97599d7edf02b5a38dd1d5116", null ]
 ];

@@ -1,6 +1,6 @@
 var a20993 =
 [
-    [ "CheckCast", "d9/db8/a20993.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d9/db8/a20993.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d9/db8/a20993.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "boss_emalonAI", "db/d39/a20997.html", "db/d39/a20997" ],
+    [ "boss_emalon", "d9/db8/a20993.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d9/db8/a20993.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

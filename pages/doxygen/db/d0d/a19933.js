@@ -1,8 +1,5 @@
 var a19933 =
 [
-    [ "HandleEffectPeriodic", "db/d0d/a19933.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "db/d0d/a19933.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "db/d0d/a19933.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "db/d0d/a19933.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "db/d0d/a19933.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "db/d0d/a19933.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "db/d0d/a19933.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

@@ -1,10 +1,11 @@
 var a08685 =
 [
-    [ "ObjectGuidGeneratorBase", "da/d9b/a08685.html#a8af6741cc884915ee86b489fc970fed1", null ],
-    [ "~ObjectGuidGeneratorBase", "da/d9b/a08685.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
-    [ "Generate", "da/d9b/a08685.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
-    [ "GetNextAfterMaxUsed", "da/d9b/a08685.html#abf1f20b97af8071459bd850e7106a442", null ],
-    [ "HandleCounterOverflow", "da/d9b/a08685.html#ada7a44ac47b112491c575c38465740fc", null ],
-    [ "Set", "da/d9b/a08685.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
-    [ "_nextGuid", "da/d9b/a08685.html#a4a14102e019aa10f41b050054cacca22", null ]
+    [ "MovableMapObject", "da/d9b/a08685.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
+    [ "GetCurrentCell", "da/d9b/a08685.html#a6d7d87cff5f00f3b370584675caf7870", null ],
+    [ "SetCurrentCell", "da/d9b/a08685.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
+    [ "Map", "da/d9b/a08685.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "ObjectGridLoader", "da/d9b/a08685.html#a9551c85ae0e43e4d212225c643da2262", null ],
+    [ "RandomMovementGenerator", "da/d9b/a08685.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
+    [ "_currentCell", "da/d9b/a08685.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
+    [ "_moveState", "da/d9b/a08685.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
 ];

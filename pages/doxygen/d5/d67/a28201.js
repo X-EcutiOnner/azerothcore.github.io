@@ -1,7 +1,5 @@
 var a28201 =
 [
-    [ "go_brewfest_musicAI", "d5/d67/a28201.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
-    [ "UpdateAI", "d5/d67/a28201.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
-    [ "_currentMusicEvent", "d5/d67/a28201.html#ad26a0309bdd4eafce4dfa310db929357", null ],
-    [ "_events", "d5/d67/a28201.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
+    [ "npc_pet_trainerAI", "d5/d67/a28201.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "d5/d67/a28201.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

@@ -1,4 +1,6 @@
 var a24401 =
 [
-    [ "npc_pet_gen_moth", "de/d36/a24401.html#a527b48528cce28f6b468af170e5ae45f", null ]
+    [ "HandleEffectCalcSpellMod", "de/d36/a24401.html#aaf21dafa72b58245f548ed946a49659d", null ],
+    [ "PrepareAuraScript", "de/d36/a24401.html#ac05d3ae466ad64ac590f399827aac0c9", null ],
+    [ "Register", "de/d36/a24401.html#a46a643985647d8a8e033b637b31214a5", null ]
 ];

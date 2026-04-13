@@ -1,7 +1,7 @@
 var a18017 =
 [
-    [ "DelayedMovementEvent", "d1/df2/a18017.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "d1/df2/a18017.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "d1/df2/a18017.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "d1/df2/a18017.html#a046942728282a997068de447271f3cbe", null ]
+    [ "HandleScriptEffect", "d1/df2/a18017.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d1/df2/a18017.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d1/df2/a18017.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d1/df2/a18017.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

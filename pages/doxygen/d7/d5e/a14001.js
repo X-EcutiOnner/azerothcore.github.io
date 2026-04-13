@@ -1,6 +1,7 @@
 var a14001 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d6/d25/a14005.html", "d6/d25/a14005" ],
-    [ "npc_professor_phizzlethorpe", "d7/d5e/a14001.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "d7/d5e/a14001.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "npc_king_varian_wrynn", "d7/d5e/a14001.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
+    [ "JustDied", "d7/d5e/a14001.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
+    [ "OnQuestReward", "d7/d5e/a14001.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
+    [ "UpdateAI", "d7/d5e/a14001.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
 ];

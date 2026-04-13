@@ -1,6 +1,7 @@
 var a23237 =
 [
-    [ "HandleApplyAura", "d4/dd8/a23237.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d4/dd8/a23237.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d4/dd8/a23237.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "HandleDummyApply", "d4/dd8/a23237.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
+    [ "HandleDummyRemove", "d4/dd8/a23237.html#a5d68d9e15600119deca7179ffe00acda", null ],
+    [ "PrepareAuraScript", "d4/dd8/a23237.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
+    [ "Register", "d4/dd8/a23237.html#a094004ccf6b4cae4d27bca639b76b899", null ]
 ];

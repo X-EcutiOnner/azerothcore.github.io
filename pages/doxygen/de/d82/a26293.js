@@ -1,7 +1,8 @@
 var a26293 =
 [
-    [ "AfterRemove", "de/d82/a26293.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
-    [ "PrepareAuraScript", "de/d82/a26293.html#a13f11ec412f18d805282b3810aff5e90", null ],
-    [ "Register", "de/d82/a26293.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
-    [ "Validate", "de/d82/a26293.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
+    [ "HandleApply", "de/d82/a26293.html#aafdf3712f163919f010d11d0becb398f", null ],
+    [ "HandleRemove", "de/d82/a26293.html#ac3e33cb37d13b633f3938a48917a4975", null ],
+    [ "PrepareAuraScript", "de/d82/a26293.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
+    [ "Register", "de/d82/a26293.html#a84e7337494dc2e1772ca10dea26c675f", null ],
+    [ "Validate", "de/d82/a26293.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
 ];

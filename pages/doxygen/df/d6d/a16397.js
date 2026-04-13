@@ -1,6 +1,8 @@
 var a16397 =
 [
-    [ "npc_anub_ar_crusher_champion", "df/d6d/a16397.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
-    [ "DoEngagedWith", "df/d6d/a16397.html#a2dcef4fe57880ba725dff52455a7a428", null ],
-    [ "DoEvent", "df/d6d/a16397.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
+    [ "OnApply", "df/d6d/a16397.html#a96321003a002be0e4838901f03f8a5d8", null ],
+    [ "OnRemove", "df/d6d/a16397.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
+    [ "PrepareAuraScript", "df/d6d/a16397.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
+    [ "Register", "df/d6d/a16397.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
+    [ "Validate", "df/d6d/a16397.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
 ];

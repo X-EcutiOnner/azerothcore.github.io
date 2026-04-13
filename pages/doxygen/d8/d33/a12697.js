@@ -1,7 +1,7 @@
 var a12697 =
 [
-    [ "boss_broodlordAI", "d8/d33/a12697.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
-    [ "JustDied", "d8/d33/a12697.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
-    [ "JustEngagedWith", "d8/d33/a12697.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
-    [ "UpdateAI", "d8/d33/a12697.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
+    [ "HandlePeriodic", "d8/d33/a12697.html#ac2196cc9de34e286581d44d147fe9d04", null ],
+    [ "PrepareAuraScript", "d8/d33/a12697.html#a149c974371f23268d2d929b483637b14", null ],
+    [ "Register", "d8/d33/a12697.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
+    [ "Validate", "d8/d33/a12697.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
 ];

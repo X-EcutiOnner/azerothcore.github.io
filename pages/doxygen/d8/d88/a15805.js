@@ -1,14 +1,18 @@
 var a15805 =
 [
-    [ "npc_draenei_survivorAI", "d8/d88/a15805.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
-    [ "JustEngagedWith", "d8/d88/a15805.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
-    [ "MoveInLineOfSight", "d8/d88/a15805.html#a2b3f0a595fde04ad1e054331a596e225", null ],
-    [ "Reset", "d8/d88/a15805.html#a3db19a846ce3b4810321eb02d314633f", null ],
-    [ "SpellHit", "d8/d88/a15805.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
-    [ "UpdateAI", "d8/d88/a15805.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
-    [ "CanSayHelp", "d8/d88/a15805.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
-    [ "pCaster", "d8/d88/a15805.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
-    [ "RunAwayTimer", "d8/d88/a15805.html#a233885b12615bfbc927d8845d0cff3fd", null ],
-    [ "SayHelpTimer", "d8/d88/a15805.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
-    [ "SayThanksTimer", "d8/d88/a15805.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
+    [ "npc_clintar_spiritAI", "d8/d88/a15805.html#ab64c9da6af7246e1665a5264a26d75ab", null ],
+    [ "EnterEvadeMode", "d8/d88/a15805.html#a2ccffe81e2bd7cddcab10746bc9311bf", null ],
+    [ "IsSummonedBy", "d8/d88/a15805.html#af55bc32b17bfd45968e668c5591325ae", null ],
+    [ "JustDied", "d8/d88/a15805.html#a4e90511d9daf0545f0fee471f3ab0d5e", null ],
+    [ "Reset", "d8/d88/a15805.html#afd59b5e50deb65f7175138272f439740", null ],
+    [ "StartEvent", "d8/d88/a15805.html#ae3bbfd8374bf667d4eeb26e047ee2186", null ],
+    [ "UpdateAI", "d8/d88/a15805.html#a4b780f14cb2aa08c06e39a58501a21fe", null ],
+    [ "WaypointReached", "d8/d88/a15805.html#a98315f3202daaac261a1e7f0222b01c5", null ],
+    [ "WaypointReached", "d8/d88/a15805.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "checkPlayerTimer", "d8/d88/a15805.html#a10165a369bb8a7775050ae425cb94123", null ],
+    [ "CurrWP", "d8/d88/a15805.html#ae3b4588a2dfd337ffc71456652fa136f", null ],
+    [ "EventOnWait", "d8/d88/a15805.html#a7473dff3417d3e7510bc4fb7acbeb494", null ],
+    [ "EventTimer", "d8/d88/a15805.html#a27b0a90757df63df276b1e26bfbaba83", null ],
+    [ "PlayerGUID", "d8/d88/a15805.html#ad721852353215d46bc623efca358981f", null ],
+    [ "Step", "d8/d88/a15805.html#af9b65e2de0dcce5844fbc642b32f5a3f", null ]
 ];

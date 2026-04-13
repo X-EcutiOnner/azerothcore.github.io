@@ -1,6 +1,7 @@
 var a18465 =
 [
-    [ "ExtraRemoveEffect", "d3/dbe/a18465.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "d3/dbe/a18465.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "d3/dbe/a18465.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "OnRemove", "d3/dbe/a18465.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "d3/dbe/a18465.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "d3/dbe/a18465.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "d3/dbe/a18465.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

@@ -1,6 +1,7 @@
 var a20285 =
 [
-    [ "HandleScript", "d1/d56/a20285.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "d1/d56/a20285.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "d1/d56/a20285.html#a04a5b3a4f768200d74f4641508633d35", null ]
+    [ "FilterTargetsInitial", "d1/d56/a20285.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "d1/d56/a20285.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "d1/d56/a20285.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "d1/d56/a20285.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

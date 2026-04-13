@@ -1,7 +1,9 @@
 var a20533 =
 [
-    [ "HandleEffectPeriodic", "d8/de4/a20533.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "d8/de4/a20533.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "d8/de4/a20533.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "d8/de4/a20533.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "npc_xt002_pummeller", "d8/de4/a20533.html#a5e6fe72dbdedef5526704656c58a9e35", null ],
+    [ "Reset", "d8/de4/a20533.html#a6140f9b246abeba75c291aa7e9624217", null ],
+    [ "UpdateAI", "d8/de4/a20533.html#a90c16a2da7c6c28759a89580736d34e8", null ],
+    [ "_arcingSmashTimer", "d8/de4/a20533.html#ae6118dc72cac8f8f7509999fcdbc219e", null ],
+    [ "_trampleTimer", "d8/de4/a20533.html#a5999bcaf51e20265e7b74d6e47803c69", null ],
+    [ "_uppercutTimer", "d8/de4/a20533.html#a4a2427392e5531a4cab88243150f1ecf", null ]
 ];

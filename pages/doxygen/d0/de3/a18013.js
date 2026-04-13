@@ -1,13 +1,10 @@
 var a18013 =
 [
-    [ "PassengerController", "d0/de3/a18013.html#ab834deac8dfd9a7ddd1bcb37b1e5c354", null ],
-    [ "ClearSlot", "d0/de3/a18013.html#ae10f0917fb6fd395c3bb4428cbb617cb", null ],
-    [ "ResetSlots", "d0/de3/a18013.html#a2302ac8b9fac75ba58ced41e2b5236f0", null ],
-    [ "SelectSpawnPoint", "d0/de3/a18013.html#a4a4d575417a7c7940471f21e32d48b5c", null ],
-    [ "SummonCreatures", "d0/de3/a18013.html#a287e4cafc1d3739edf90c00ad91e2c64", null ],
-    [ "_controlledSlots", "d0/de3/a18013.html#af4271e53792477394a5c1022ed8fb30f", null ],
-    [ "_respawnCooldowns", "d0/de3/a18013.html#a98a6d819ec193d5a1e96739ac507b146", null ],
-    [ "_slotInfo", "d0/de3/a18013.html#a9c8fa44394c10eb2a7fec3c4f273f448", null ],
-    [ "_spawnPoint", "d0/de3/a18013.html#ab168baee9c4d6343c7adb6978a3a56d2", null ],
-    [ "_transport", "d0/de3/a18013.html#ac2c664d3b5941c673c13f7e36aa2d974", null ]
+    [ "npc_bone_spikeAI", "d0/de3/a18013.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
+    [ "DoAction", "d0/de3/a18013.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
+    [ "IsSummonedBy", "d0/de3/a18013.html#af2794484ee3ebf0579ce7357d222240d", null ],
+    [ "JustDied", "d0/de3/a18013.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
+    [ "UpdateAI", "d0/de3/a18013.html#a8eff2bcc6507c65e563ed272977f224e", null ],
+    [ "events", "d0/de3/a18013.html#a6a35900435d41d0603919f29415667a5", null ],
+    [ "hasTrappedUnit", "d0/de3/a18013.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
 ];

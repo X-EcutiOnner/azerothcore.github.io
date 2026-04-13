@@ -1,11 +1,8 @@
 var a11241 =
 [
-    [ "MoneyCost", "d7/dbf/a11241.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
-    [ "PointCost", "d7/dbf/a11241.html#aebcad3f23dbca753ad970081af0a78c9", null ],
-    [ "ReqAbility", "d7/dbf/a11241.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
-    [ "ReqLevel", "d7/dbf/a11241.html#a9478dc1065bc10ebc591ff8022e43993", null ],
-    [ "ReqSkillLine", "d7/dbf/a11241.html#a5267f4615e01571a4a16d17d6914981b", null ],
-    [ "ReqSkillRank", "d7/dbf/a11241.html#ae6f9640e257d83d633c48168edc658b6", null ],
-    [ "SpellID", "d7/dbf/a11241.html#accf0f9aa4c8f2130f6926235dca69476", null ],
-    [ "Usable", "d7/dbf/a11241.html#a35d7186073a231f0dd1fe5920eec175b", null ]
+    [ "PlayObjectSound", "d7/dbf/a11241.html#ab322044d36abddeb2fafbf99261bb70b", null ],
+    [ "PlayObjectSound", "d7/dbf/a11241.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
+    [ "Write", "d7/dbf/a11241.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
+    [ "SoundKitID", "d7/dbf/a11241.html#a5e794706b8793d164a1189e9a6918735", null ],
+    [ "SourceObjectGUID", "d7/dbf/a11241.html#a82b226eba66e569c1f377f529e511361", null ]
 ];

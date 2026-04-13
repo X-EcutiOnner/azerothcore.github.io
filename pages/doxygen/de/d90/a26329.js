@@ -1,7 +1,7 @@
 var a26329 =
 [
-    [ "HandleProc", "de/d90/a26329.html#a0564e0b3ae8c18c35d4c32feb7e365bd", null ],
-    [ "PrepareAuraScript", "de/d90/a26329.html#a07f8c8aa2ed37512b197084febed50ef", null ],
-    [ "Register", "de/d90/a26329.html#a10d283df17223afb32c238844bb5db67", null ],
-    [ "Validate", "de/d90/a26329.html#a1ee914e76abd22ba119740aa4aa6805e", null ]
+    [ "HandleScriptEffect", "de/d90/a26329.html#a6c1ac025fa93caa08737387a18003612", null ],
+    [ "PrepareSpellScript", "de/d90/a26329.html#acb5ad05212399b06ed9bb64bb9203069", null ],
+    [ "Register", "de/d90/a26329.html#afbf989d514c308f466ecfd9957d2d177", null ],
+    [ "Validate", "de/d90/a26329.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
 ];

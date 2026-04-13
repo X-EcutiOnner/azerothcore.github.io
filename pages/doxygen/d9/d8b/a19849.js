@@ -1,6 +1,7 @@
 var a19849 =
 [
-    [ "boss_uromAI", "d5/dfe/a19853.html", "d5/dfe/a19853" ],
-    [ "boss_urom", "d9/d8b/a19849.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
-    [ "GetAI", "d9/d8b/a19849.html#ac381b851f3cc746fb323ff238892c537", null ]
+    [ "HandleDummyEffect", "d9/d8b/a19849.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "d9/d8b/a19849.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "d9/d8b/a19849.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "d9/d8b/a19849.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

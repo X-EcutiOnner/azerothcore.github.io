@@ -1,10 +1,18 @@
 var a23737 =
 [
-    [ "boss_thorngrin_the_tender", "d1/daa/a23737.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
-    [ "JustDied", "d1/daa/a23737.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
-    [ "JustEngagedWith", "d1/daa/a23737.html#a647ed5b29861b719d3c4a11fd110c512", null ],
-    [ "KilledUnit", "d1/daa/a23737.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
-    [ "MoveInLineOfSight", "d1/daa/a23737.html#a9467e59287b3e917907de82507d1a16d", null ],
-    [ "Reset", "d1/daa/a23737.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
-    [ "_intro", "d1/daa/a23737.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
+    [ "npc_commander_dawnforgeAI", "d1/daa/a23737.html#a70ff1a69374b62bf6aadf1bfabe8bdb3", null ],
+    [ "CanStartEvent", "d1/daa/a23737.html#afb3eb981fe7e7cdcd0caca8f7d7c14f9", null ],
+    [ "JustEngagedWith", "d1/daa/a23737.html#affa24c62af088b4b216aaa4789f6a40e", null ],
+    [ "JustSummoned", "d1/daa/a23737.html#a76bfbed03ad9f83b953da5f53aa45b73", null ],
+    [ "Reset", "d1/daa/a23737.html#af57a218b98606c273ee3eba5d661d5d1", null ],
+    [ "Turn_to_eachother", "d1/daa/a23737.html#a7442d526cc09f98a3cd53749e09fb6f0", null ],
+    [ "Turn_to_Pathaleons_Image", "d1/daa/a23737.html#a88cca74225a0099c85bb661c7f2ad382", null ],
+    [ "UpdateAI", "d1/daa/a23737.html#ae4ca305e3067cbdb2771d6a9e858f191", null ],
+    [ "ardonisGUID", "d1/daa/a23737.html#ad0f1b869b85c8a94e84be5714a191cab", null ],
+    [ "isEvent", "d1/daa/a23737.html#a93cf7cfcf3197543c3878278d99ff980", null ],
+    [ "pathaleonGUID", "d1/daa/a23737.html#a9b20a0ad46dc0be2fe1a65072eb3477a", null ],
+    [ "Phase", "d1/daa/a23737.html#a1a440773676ab7e2cd416eba70c90d74", null ],
+    [ "Phase_Timer", "d1/daa/a23737.html#a798cf4bf43df377f764dac07c13bc676", null ],
+    [ "PhaseSubphase", "d1/daa/a23737.html#ae8f5216936ce3a3b5aa9d5b773521523", null ],
+    [ "PlayerGUID", "d1/daa/a23737.html#ab6c0afdc952c048efeea9d665075c54f", null ]
 ];

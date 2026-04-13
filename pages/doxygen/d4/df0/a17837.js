@@ -1,6 +1,7 @@
 var a17837 =
 [
-    [ "PrepareSpellScript", "d4/df0/a17837.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d4/df0/a17837.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d4/df0/a17837.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "npc_gunship_rocketeerAI", "d4/df0/a17837.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "d4/df0/a17837.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "d4/df0/a17837.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "d4/df0/a17837.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

@@ -1,5 +1,5 @@
 var a05485 =
 [
-    [ "_elements", "de/dc0/a05485.html#acf30d76638f2906421de881ced591fbd", null ],
-    [ "_TailElements", "de/dc0/a05485.html#afbb7352f16ec774a372d2cbf699e3e0e", null ]
+    [ "~Permissible", "de/dc0/a05485.html#a9ed19d14dda478fe1ff6cb092d684be2", null ],
+    [ "Permit", "de/dc0/a05485.html#a0fccdbc46c9bafea63757ceee62b0385", null ]
 ];

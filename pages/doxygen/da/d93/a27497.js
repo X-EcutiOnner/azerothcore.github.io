@@ -1,6 +1,6 @@
 var a27497 =
 [
-    [ "HandleDummy", "da/d93/a27497.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
-    [ "PrepareSpellScript", "da/d93/a27497.html#a6c2b858c893ed215d1192073b06db81d", null ],
-    [ "Register", "da/d93/a27497.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
+    [ "HandleHeal", "da/d93/a27497.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "da/d93/a27497.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "da/d93/a27497.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

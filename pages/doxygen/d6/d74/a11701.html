@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellCooldownOverride Struct Reference</title>
+<title>AzerothCore: ImmunityInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,86 +107,140 @@ $(document).ready(function(){initNavTree('d6/d74/a11701.html','../../'); initRes
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../dd/da4/a11698.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellCooldownOverride Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ImmunityInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ac0e514cfe760baf23f4f05d871e6779a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11701.html#ac0e514cfe760baf23f4f05d871e6779a">RecoveryTime</a></td></tr>
-<tr class="separator:ac0e514cfe760baf23f4f05d871e6779a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5a089aa55b5db1f3e3d3fa0ff61bbfdd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11701.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd">CategoryRecoveryTime</a></td></tr>
-<tr class="separator:a5a089aa55b5db1f3e3d3fa0ff61bbfdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3155069a4ef8d87d4c952f92df2ec42d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11701.html#a3155069a4ef8d87d4c952f92df2ec42d">StartRecoveryTime</a></td></tr>
-<tr class="separator:a3155069a4ef8d87d4c952f92df2ec42d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb7ca704f04612ddcec3e2e52470ca77"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11701.html#abb7ca704f04612ddcec3e2e52470ca77">StartRecoveryCategory</a></td></tr>
-<tr class="separator:abb7ca704f04612ddcec3e2e52470ca77"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b4b786ef6fe3bb4247eff61416d3400"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11701.html#a4b4b786ef6fe3bb4247eff61416d3400">SchoolImmuneMask</a> = 0</td></tr>
+<tr class="separator:a4b4b786ef6fe3bb4247eff61416d3400"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afb005a71205a573357afae14481cf5a4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11701.html#afb005a71205a573357afae14481cf5a4">ApplyHarmfulAuraImmuneMask</a> = 0</td></tr>
+<tr class="separator:afb005a71205a573357afae14481cf5a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad001d68adbf9c985f26476dda31898ad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11701.html#ad001d68adbf9c985f26476dda31898ad">MechanicImmuneMask</a> = 0</td></tr>
+<tr class="separator:ad001d68adbf9c985f26476dda31898ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a142a794d2927b25592fece914f7a40fa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11701.html#a142a794d2927b25592fece914f7a40fa">DispelImmuneMask</a> = 0</td></tr>
+<tr class="separator:a142a794d2927b25592fece914f7a40fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0917b0bacb75c03a527e170ef08f0811"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11701.html#a0917b0bacb75c03a527e170ef08f0811">DamageSchoolMask</a> = 0</td></tr>
+<tr class="separator:a0917b0bacb75c03a527e170ef08f0811"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad585a49cd0b72b84e2146b8d6acdb2fc"><td class="memItemLeft" align="right" valign="top">boost::container::flat_set&lt; <a class="el" href="../../d3/da1/a01613.html#a538cdc259460b365f406fe0b3a981799">AuraType</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11701.html#ad585a49cd0b72b84e2146b8d6acdb2fc">AuraTypeImmune</a></td></tr>
+<tr class="separator:ad585a49cd0b72b84e2146b8d6acdb2fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd9f307ea408ac6f88fae8bcde2f1ce7"><td class="memItemLeft" align="right" valign="top">boost::container::flat_set&lt; <a class="el" href="../../d3/d31/a04292.html#a292c893150c454dd75628b719db1fe97">SpellEffects</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11701.html#afd9f307ea408ac6f88fae8bcde2f1ce7">SpellEffectImmune</a></td></tr>
+<tr class="separator:afd9f307ea408ac6f88fae8bcde2f1ce7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a5a089aa55b5db1f3e3d3fa0ff61bbfdd" name="a5a089aa55b5db1f3e3d3fa0ff61bbfdd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5a089aa55b5db1f3e3d3fa0ff61bbfdd">&#9670;&#160;</a></span>CategoryRecoveryTime</h2>
+<a id="afb005a71205a573357afae14481cf5a4" name="afb005a71205a573357afae14481cf5a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afb005a71205a573357afae14481cf5a4">&#9670;&#160;</a></span>ApplyHarmfulAuraImmuneMask</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellCooldownOverride::CategoryRecoveryTime</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ImmunityInfo::ApplyHarmfulAuraImmuneMask = 0</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02883">SpellMgr::LoadSpellCooldownOverrides()</a>, and <a class="el" href="../../#l02996">SpellMgr::LoadSpellInfoCustomAttributes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02229">SpellInfo::_LoadImmunityInfo()</a>, and <a class="el" href="../../#l02578">SpellInfo::CanSpellProvideImmunityAgainstAura()</a>.</p>
 
 </div>
 </div>
-<a id="ac0e514cfe760baf23f4f05d871e6779a" name="ac0e514cfe760baf23f4f05d871e6779a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac0e514cfe760baf23f4f05d871e6779a">&#9670;&#160;</a></span>RecoveryTime</h2>
+<a id="ad585a49cd0b72b84e2146b8d6acdb2fc" name="ad585a49cd0b72b84e2146b8d6acdb2fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad585a49cd0b72b84e2146b8d6acdb2fc">&#9670;&#160;</a></span>AuraTypeImmune</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellCooldownOverride::RecoveryTime</td>
+          <td class="memname">boost::container::flat_set&lt;<a class="el" href="../../d3/da1/a01613.html#a538cdc259460b365f406fe0b3a981799">AuraType</a>&gt; ImmunityInfo::AuraTypeImmune</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02883">SpellMgr::LoadSpellCooldownOverrides()</a>, and <a class="el" href="../../#l02996">SpellMgr::LoadSpellInfoCustomAttributes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02229">SpellInfo::_LoadImmunityInfo()</a>, <a class="el" href="../../#l02488">SpellInfo::ApplyAllSpellImmunitiesTo()</a>, and <a class="el" href="../../#l02578">SpellInfo::CanSpellProvideImmunityAgainstAura()</a>.</p>
 
 </div>
 </div>
-<a id="abb7ca704f04612ddcec3e2e52470ca77" name="abb7ca704f04612ddcec3e2e52470ca77"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abb7ca704f04612ddcec3e2e52470ca77">&#9670;&#160;</a></span>StartRecoveryCategory</h2>
+<a id="a0917b0bacb75c03a527e170ef08f0811" name="a0917b0bacb75c03a527e170ef08f0811"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0917b0bacb75c03a527e170ef08f0811">&#9670;&#160;</a></span>DamageSchoolMask</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellCooldownOverride::StartRecoveryCategory</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ImmunityInfo::DamageSchoolMask = 0</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02883">SpellMgr::LoadSpellCooldownOverrides()</a>, and <a class="el" href="../../#l02996">SpellMgr::LoadSpellInfoCustomAttributes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02229">SpellInfo::_LoadImmunityInfo()</a>, and <a class="el" href="../../#l02488">SpellInfo::ApplyAllSpellImmunitiesTo()</a>.</p>
 
 </div>
 </div>
-<a id="a3155069a4ef8d87d4c952f92df2ec42d" name="a3155069a4ef8d87d4c952f92df2ec42d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3155069a4ef8d87d4c952f92df2ec42d">&#9670;&#160;</a></span>StartRecoveryTime</h2>
+<a id="a142a794d2927b25592fece914f7a40fa" name="a142a794d2927b25592fece914f7a40fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a142a794d2927b25592fece914f7a40fa">&#9670;&#160;</a></span>DispelImmuneMask</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellCooldownOverride::StartRecoveryTime</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ImmunityInfo::DispelImmuneMask = 0</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02883">SpellMgr::LoadSpellCooldownOverrides()</a>, and <a class="el" href="../../#l02996">SpellMgr::LoadSpellInfoCustomAttributes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02229">SpellInfo::_LoadImmunityInfo()</a>, <a class="el" href="../../#l02488">SpellInfo::ApplyAllSpellImmunitiesTo()</a>, and <a class="el" href="../../#l02578">SpellInfo::CanSpellProvideImmunityAgainstAura()</a>.</p>
+
+</div>
+</div>
+<a id="ad001d68adbf9c985f26476dda31898ad" name="ad001d68adbf9c985f26476dda31898ad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad001d68adbf9c985f26476dda31898ad">&#9670;&#160;</a></span>MechanicImmuneMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> ImmunityInfo::MechanicImmuneMask = 0</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02229">SpellInfo::_LoadImmunityInfo()</a>, <a class="el" href="../../#l02488">SpellInfo::ApplyAllSpellImmunitiesTo()</a>, and <a class="el" href="../../#l02578">SpellInfo::CanSpellProvideImmunityAgainstAura()</a>.</p>
+
+</div>
+</div>
+<a id="a4b4b786ef6fe3bb4247eff61416d3400" name="a4b4b786ef6fe3bb4247eff61416d3400"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b4b786ef6fe3bb4247eff61416d3400">&#9670;&#160;</a></span>SchoolImmuneMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ImmunityInfo::SchoolImmuneMask = 0</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02229">SpellInfo::_LoadImmunityInfo()</a>, <a class="el" href="../../#l02488">SpellInfo::ApplyAllSpellImmunitiesTo()</a>, and <a class="el" href="../../#l02578">SpellInfo::CanSpellProvideImmunityAgainstAura()</a>.</p>
+
+</div>
+</div>
+<a id="afd9f307ea408ac6f88fae8bcde2f1ce7" name="afd9f307ea408ac6f88fae8bcde2f1ce7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afd9f307ea408ac6f88fae8bcde2f1ce7">&#9670;&#160;</a></span>SpellEffectImmune</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">boost::container::flat_set&lt;<a class="el" href="../../d3/d31/a04292.html#a292c893150c454dd75628b719db1fe97">SpellEffects</a>&gt; ImmunityInfo::SpellEffectImmune</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02229">SpellInfo::_LoadImmunityInfo()</a>, <a class="el" href="../../#l02488">SpellInfo::ApplyAllSpellImmunitiesTo()</a>, and <a class="el" href="../../#l02578">SpellInfo::CanSpellProvideImmunityAgainstAura()</a>.</p>
 
 </div>
 </div>
@@ -195,8 +249,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/d74/a11701.html">SpellCooldownOverride</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:10:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/d74/a11701.html">ImmunityInfo</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:28:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

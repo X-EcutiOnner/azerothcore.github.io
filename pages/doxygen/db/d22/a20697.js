@@ -1,7 +1,6 @@
 var a20697 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "db/d22/a20697.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "db/d22/a20697.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "db/d22/a20697.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "db/d22/a20697.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "OnRemove", "db/d22/a20697.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
+    [ "PrepareAuraScript", "db/d22/a20697.html#a5fb0837417b915676549370cc76c477d", null ],
+    [ "Register", "db/d22/a20697.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
 ];

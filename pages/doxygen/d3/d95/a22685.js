@@ -1,7 +1,6 @@
 var a22685 =
 [
-    [ "HandleProc", "d3/d95/a22685.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "d3/d95/a22685.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "d3/d95/a22685.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "d3/d95/a22685.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "HandleEffectRemove", "d3/d95/a22685.html#a99f96034b5976615c38e13e5e55c61b6", null ],
+    [ "PrepareAuraScript", "d3/d95/a22685.html#a0515a72abd37df13606876021659b995", null ],
+    [ "Register", "d3/d95/a22685.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
 ];

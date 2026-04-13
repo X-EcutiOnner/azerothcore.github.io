@@ -1,9 +1,8 @@
 var a21661 =
 [
-    [ "npc_archmage_landalockAI", "dc/d94/a21661.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "dc/d94/a21661.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "dc/d94/a21661.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "dc/d94/a21661.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "dc/d94/a21661.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "dc/d94/a21661.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "AfterApply", "dc/d94/a21661.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "dc/d94/a21661.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "dc/d94/a21661.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "dc/d94/a21661.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "dc/d94/a21661.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

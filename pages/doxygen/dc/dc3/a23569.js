@@ -1,8 +1,11 @@
 var a23569 =
 [
-    [ "npc_target_trigger", "dc/dc3/a23569.html#a238058ba80130c6239b7267db3247196", null ],
-    [ "Reset", "dc/dc3/a23569.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
-    [ "UpdateAI", "dc/dc3/a23569.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
-    [ "_cast", "dc/dc3/a23569.html#a4ec89ca960323f7ad135d5a425a82416", null ],
-    [ "_scheduler", "dc/dc3/a23569.html#a9b418b09e25c8f96692b4e2626339c96", null ]
+    [ "boss_pathaleon_the_calculator", "dc/dc3/a23569.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "dc/dc3/a23569.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "dc/dc3/a23569.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "dc/dc3/a23569.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "dc/dc3/a23569.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "dc/dc3/a23569.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "dc/dc3/a23569.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "dc/dc3/a23569.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

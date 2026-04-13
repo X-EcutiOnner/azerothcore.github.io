@@ -1,6 +1,5 @@
 var a05261 =
 [
-    [ "Read", "dc/de1/a05261.html#a652bcf37d435efc3fb82f4d8cbf00e51", null ],
-    [ "groupsArray", "dc/de1/a05261.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
-    [ "RootWMOID", "dc/de1/a05261.html#a6b9058e7062c970438c79f08103c3c61", null ]
+    [ "hitModel", "dc/de1/a05261.html#a4802cb0c38ad72e7671cb77e1f3e6174", null ],
+    [ "rootId", "dc/de1/a05261.html#aa855bd49800e7a3b6713d72f0cf629d5", null ]
 ];

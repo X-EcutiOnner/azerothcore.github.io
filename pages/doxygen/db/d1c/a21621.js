@@ -1,7 +1,7 @@
 var a21621 =
 [
-    [ "HandleEffectHit", "db/d1c/a21621.html#a8d7dd2411c3b786e682260eb30862602", null ],
-    [ "PrepareSpellScript", "db/d1c/a21621.html#a49b6d005013e480f8161779119bc9b2d", null ],
-    [ "Register", "db/d1c/a21621.html#a017ae25fead98a5c18cdb83128085ddd", null ],
-    [ "Validate", "db/d1c/a21621.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
+    [ "HandleScript", "db/d1c/a21621.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "db/d1c/a21621.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "db/d1c/a21621.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "db/d1c/a21621.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

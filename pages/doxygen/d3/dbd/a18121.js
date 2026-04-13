@@ -1,6 +1,6 @@
 var a18121 =
 [
-    [ "PrepareSpellScript", "d3/dbd/a18121.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d3/dbd/a18121.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d3/dbd/a18121.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "HandleScript", "d3/dbd/a18121.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
+    [ "PrepareSpellScript", "d3/dbd/a18121.html#a50560d754709e6b9ec6863142c1ffce3", null ],
+    [ "Register", "d3/dbd/a18121.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
 ];

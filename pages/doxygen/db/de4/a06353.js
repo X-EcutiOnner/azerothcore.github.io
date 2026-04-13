@@ -1,9 +1,8 @@
 var a06353 =
 [
-    [ "CritterAI", "db/de4/a06353.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
-    [ "EnterEvadeMode", "db/de4/a06353.html#a989d1fc00af900320dcf27cce7f247dc", null ],
-    [ "JustEngagedWith", "db/de4/a06353.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
-    [ "MovementInform", "db/de4/a06353.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
-    [ "Permissible", "db/de4/a06353.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
-    [ "UpdateAI", "db/de4/a06353.html#af860be127a671f5448cb731aa2f701b0", null ]
+    [ "ArcherAI", "db/de4/a06353.html#a113c138958054716182c15ee9f2b47da", null ],
+    [ "AttackStart", "db/de4/a06353.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
+    [ "Permissible", "db/de4/a06353.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
+    [ "UpdateAI", "db/de4/a06353.html#aa6e072e239549d337de61670a05eb6f8", null ],
+    [ "m_minRange", "db/de4/a06353.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
 ];

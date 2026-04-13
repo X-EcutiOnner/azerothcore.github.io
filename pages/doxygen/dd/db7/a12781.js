@@ -1,9 +1,10 @@
 var a12781 =
 [
-    [ "npc_drakonid_spawner", "dd/db7/a12781.html#a2b657e800dc5cc30c618391413ded116", null ],
-    [ "DoAction", "dd/db7/a12781.html#ab013cff0430c09fe1045fdc735e45182", null ],
-    [ "IsSummonedBy", "dd/db7/a12781.html#a6a2170e0f20736d69006ce6d6c769476", null ],
-    [ "SummonedCreatureDies", "dd/db7/a12781.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
-    [ "UpdateAI", "dd/db7/a12781.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
-    [ "_owner", "dd/db7/a12781.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
+    [ "boss_golemagg", "dd/db7/a12781.html#ac7a23be0a51bd73b5c5b8215ba31412e", null ],
+    [ "DamageTaken", "dd/db7/a12781.html#acf0917a65764074ebb11d51cb537c2f5", null ],
+    [ "Reset", "dd/db7/a12781.html#ac663539bac3bcd858dfbfba6095172dd", null ],
+    [ "UpdateAI", "dd/db7/a12781.html#aa68a9ff1858591b65ad650c18954bdea", null ],
+    [ "earthquakeTimer", "dd/db7/a12781.html#ad581b8e54e08342041886b180c139db0", null ],
+    [ "enraged", "dd/db7/a12781.html#a27a5041fcf93a3da6fe2130af24de386", null ],
+    [ "pyroblastTimer", "dd/db7/a12781.html#aae54e1e74dd44329af4f66bf26b2e277", null ]
 ];

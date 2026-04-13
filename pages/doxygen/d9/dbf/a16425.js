@@ -1,6 +1,8 @@
 var a16425 =
 [
-    [ "boss_krik_thirAI", "d9/dea/a16429.html", "d9/dea/a16429" ],
-    [ "boss_krik_thir", "d9/dbf/a16425.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "d9/dbf/a16425.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "Load", "d9/dbf/a16425.html#a55dc086667f0fe23e513608e951276ed", null ],
+    [ "Phase", "d9/dbf/a16425.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
+    [ "PrepareSpellScript", "d9/dbf/a16425.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
+    [ "Register", "d9/dbf/a16425.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
+    [ "Validate", "d9/dbf/a16425.html#a87192df547adaf3cb060155d9cf4da79", null ]
 ];

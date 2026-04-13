@@ -1,6 +1,6 @@
 var a22393 =
 [
-    [ "HandlePeriodicDummy", "d3/d55/a22393.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d3/d55/a22393.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d3/d55/a22393.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "HandleScriptEffect", "d3/d55/a22393.html#aa60961c2609184e739dea3be8ba992d5", null ],
+    [ "PrepareSpellScript", "d3/d55/a22393.html#aacde592314399112786b024153389024", null ],
+    [ "Register", "d3/d55/a22393.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
 ];

@@ -1,10 +1,10 @@
 var a27737 =
 [
-    [ "CheckProc", "db/d16/a27737.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "db/d16/a27737.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "db/d16/a27737.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "db/d16/a27737.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "db/d16/a27737.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "db/d16/a27737.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "db/d16/a27737.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "boss_emerissAI", "db/d16/a27737.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
+    [ "DamageTaken", "db/d16/a27737.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
+    [ "ExecuteEvent", "db/d16/a27737.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
+    [ "JustEngagedWith", "db/d16/a27737.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
+    [ "KilledUnit", "db/d16/a27737.html#ad851169bc09a362137e211dd10d30a1b", null ],
+    [ "Reset", "db/d16/a27737.html#a44dfb325c4e8413662052137edc710ef", null ],
+    [ "_stage", "db/d16/a27737.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
 ];

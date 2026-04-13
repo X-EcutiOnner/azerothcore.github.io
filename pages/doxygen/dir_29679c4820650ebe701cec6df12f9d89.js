@@ -1,8 +1,8 @@
 var dir_29679c4820650ebe701cec6df12f9d89 =
 [
-    [ "boss_darkmaster_gandling.cpp", "d1/dd8/a01022.html", "d1/dd8/a01022" ],
-    [ "boss_kirtonos_the_herald.cpp", "de/d91/a01034.html", "de/d91/a01034" ],
-    [ "boss_kormok.cpp", "db/d23/a01025.html", "db/d23/a01025" ],
-    [ "instance_scholomance.cpp", "db/d08/a01028.html", "db/d08/a01028" ],
-    [ "scholomance.h", "d6/dcf/a01031.html", "d6/dcf/a01031" ]
+    [ "boss_darkmaster_gandling.cpp", "d5/d56/a03437.html", "d5/d56/a03437" ],
+    [ "boss_kirtonos_the_herald.cpp", "d7/dc5/a03449.html", "d7/dc5/a03449" ],
+    [ "boss_kormok.cpp", "d4/d60/a03446.html", "d4/d60/a03446" ],
+    [ "instance_scholomance.cpp", "d8/df8/a03443.html", "d8/df8/a03443" ],
+    [ "scholomance.h", "df/d89/a03440.html", "df/d89/a03440" ]
 ];

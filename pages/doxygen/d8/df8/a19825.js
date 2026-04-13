@@ -1,6 +1,8 @@
 var a19825 =
 [
-    [ "boss_drakosAI", "d1/d48/a19829.html", "d1/d48/a19829" ],
-    [ "boss_drakos", "d8/df8/a19825.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d8/df8/a19825.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "npc_algalon_worm_hole", "d8/df8/a19825.html#a546bd0ede2586fcbe3812698b68528d4", null ],
+    [ "JustSummoned", "d8/df8/a19825.html#a077425b35d86c007daa93fc8b1fd9717", null ],
+    [ "Reset", "d8/df8/a19825.html#a363814abdee714faddfd966b11a4fddc", null ],
+    [ "UpdateAI", "d8/df8/a19825.html#a16f644be53169adc67fc971bdeaa7263", null ],
+    [ "_summonTimer", "d8/df8/a19825.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
 ];

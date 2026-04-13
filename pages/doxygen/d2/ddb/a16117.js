@@ -1,7 +1,8 @@
 var a16117 =
 [
-    [ "npc_toogaAI", "de/de6/a16121.html", "de/de6/a16121" ],
-    [ "npc_tooga", "d2/ddb/a16117.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "d2/ddb/a16117.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "d2/ddb/a16117.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "HandleAfterCast", "d2/ddb/a16117.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "d2/ddb/a16117.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "d2/ddb/a16117.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "d2/ddb/a16117.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "d2/ddb/a16117.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

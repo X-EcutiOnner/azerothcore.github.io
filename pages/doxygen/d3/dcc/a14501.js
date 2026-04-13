@@ -1,6 +1,6 @@
 var a14501 =
 [
-    [ "HandleOnHit", "d3/dcc/a14501.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "d3/dcc/a14501.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "d3/dcc/a14501.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "HandleEffectRemove", "d3/dcc/a14501.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
+    [ "PrepareAuraScript", "d3/dcc/a14501.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
+    [ "Register", "d3/dcc/a14501.html#aa436788f638fedacb217ca508da5f426", null ]
 ];

@@ -1,11 +1,14 @@
 var a06129 =
 [
-    [ "AppenderDB", "d8/d6b/a06129.html#af8e48076d47a06c73f6b8ae054955a83", null ],
-    [ "~AppenderDB", "d8/d6b/a06129.html#a7da848083d02833acc632051a2d938bf", null ],
-    [ "_write", "d8/d6b/a06129.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
-    [ "getType", "d8/d6b/a06129.html#a96221ceed23435556df03c5f7ffab61e", null ],
-    [ "setRealmId", "d8/d6b/a06129.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
-    [ "enabled", "d8/d6b/a06129.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
-    [ "realmId", "d8/d6b/a06129.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
-    [ "type", "d8/d6b/a06129.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
+    [ "difference_type", "d8/d6b/a06129.html#aa5abd2b7fa1dc64ac1eb085521b27d6f", null ],
+    [ "iterator_category", "d8/d6b/a06129.html#acaafbe30e2be9953852968b633d8237f", null ],
+    [ "pointer", "d8/d6b/a06129.html#a33215a042f7b7ddb243e8434a4c26346", null ],
+    [ "reference", "d8/d6b/a06129.html#a5618bd9b42f553be7feaf26fac8fe3ba", null ],
+    [ "value_type", "d8/d6b/a06129.html#aa4866b181d8cd3264394657a2dac99a8", null ],
+    [ "ResultIterator", "d8/d6b/a06129.html#a0a7d6ac1eee62492330353b15edb4fd0", null ],
+    [ "operator!=", "d8/d6b/a06129.html#a56f56c284c3001703ec4ee6ac705066f", null ],
+    [ "operator*", "d8/d6b/a06129.html#a4c7ba1d0e7251aeab6b255bf1c78defd", null ],
+    [ "operator++", "d8/d6b/a06129.html#ae66f3f0e1fd5af21ff0854826fb37075", null ],
+    [ "operator->", "d8/d6b/a06129.html#a0b6cee284fea4a4023cc688614432b69", null ],
+    [ "_ptr", "d8/d6b/a06129.html#a0be3611fcc2a6eb680a6f4aaba57068e", null ]
 ];

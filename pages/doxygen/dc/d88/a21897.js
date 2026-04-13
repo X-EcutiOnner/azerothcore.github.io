@@ -1,8 +1,9 @@
 var a21897 =
 [
-    [ "npc_ravenous_worgAI", "dc/d88/a21897.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "dc/d88/a21897.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "dc/d88/a21897.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "dc/d88/a21897.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "dc/d88/a21897.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "npc_brunnhildar_prisonerAI", "dc/d88/a21897.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "dc/d88/a21897.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "dc/d88/a21897.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "dc/d88/a21897.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "dc/d88/a21897.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "dc/d88/a21897.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

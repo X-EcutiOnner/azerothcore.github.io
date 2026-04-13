@@ -1,6 +1,14 @@
 var a22249 =
 [
-    [ "npc_freed_protodrakeAI", "dd/dc3/a22253.html", "dd/dc3/a22253" ],
-    [ "npc_freed_protodrake", "d4/de4/a22249.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "d4/de4/a22249.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "boss_nexusprince_shaffar", "d4/de4/a22249.html#a2e861fb53bca7a40e967971b5e7be533", null ],
+    [ "JustDied", "d4/de4/a22249.html#abf2fef0888bced83511883027bf4d500", null ],
+    [ "JustEngagedWith", "d4/de4/a22249.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
+    [ "JustSummoned", "d4/de4/a22249.html#a576240b46ce0988f0ef86e1460c831ef", null ],
+    [ "KilledUnit", "d4/de4/a22249.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
+    [ "MoveInLineOfSight", "d4/de4/a22249.html#a71e501225d88851210d2e0e58de27f99", null ],
+    [ "Reset", "d4/de4/a22249.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
+    [ "SummonedCreatureDespawn", "d4/de4/a22249.html#ab806564e96708ca12f444249abd3c88c", null ],
+    [ "UpdateAI", "d4/de4/a22249.html#a147500575a3821262ec718ec023b458c", null ],
+    [ "HasTaunted", "d4/de4/a22249.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
+    [ "summons", "d4/de4/a22249.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
 ];

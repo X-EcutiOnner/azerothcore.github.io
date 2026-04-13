@@ -1,6 +1,5 @@
 var a28261 =
 [
-    [ "go_fel_crystalforge", "df/ddf/a28261.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "df/ddf/a28261.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "df/ddf/a28261.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "df/ddf/a28261.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "df/ddf/a28261.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

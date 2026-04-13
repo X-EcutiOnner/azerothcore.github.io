@@ -1,8 +1,9 @@
 var a26361 =
 [
-    [ "CheckProc", "da/d3a/a26361.html#af82895c2ed07f43c28923b61427f4ddf", null ],
-    [ "HandleProc", "da/d3a/a26361.html#ad1a13141720e0e605966c2304b0f8eb9", null ],
-    [ "PrepareAuraScript", "da/d3a/a26361.html#af3ff786badfbb56f90bc3c8865c839bb", null ],
-    [ "Register", "da/d3a/a26361.html#ac1fea3f63b5ffd742a83e8d45a26ae68", null ],
-    [ "Validate", "da/d3a/a26361.html#a980784152abf41e91b5fe5a9c2e3d5dc", null ]
+    [ "CheckCast", "da/d3a/a26361.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "da/d3a/a26361.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "da/d3a/a26361.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "da/d3a/a26361.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "da/d3a/a26361.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "da/d3a/a26361.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

@@ -1,10 +1,9 @@
 var a22497 =
 [
-    [ "OPvPCapturePointHP", "db/d39/a22497.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "db/d39/a22497.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "db/d39/a22497.html#aa8d725422951485970d9106450fb6a38", null ],
-    [ "HandlePlayerEnter", "db/d39/a22497.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "db/d39/a22497.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "db/d39/a22497.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "db/d39/a22497.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "boss_mother_shahraz", "db/d39/a22497.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "db/d39/a22497.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "db/d39/a22497.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "db/d39/a22497.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "db/d39/a22497.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "db/d39/a22497.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

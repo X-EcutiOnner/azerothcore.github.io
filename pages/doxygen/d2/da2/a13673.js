@@ -1,11 +1,12 @@
 var a13673 =
 [
-    [ "boss_baroness_anastariAI", "d2/da2/a13673.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "d2/da2/a13673.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "d2/da2/a13673.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "d2/da2/a13673.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "d2/da2/a13673.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "d2/da2/a13673.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "d2/da2/a13673.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "d2/da2/a13673.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "npc_kiljaeden_controller", "d2/da2/a13673.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
+    [ "JustDied", "d2/da2/a13673.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
+    [ "JustSummoned", "d2/da2/a13673.html#af28211012d8398a450439b8e24bf60ce", null ],
+    [ "Reset", "d2/da2/a13673.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
+    [ "ResetOrbs", "d2/da2/a13673.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
+    [ "SummonedCreatureDies", "d2/da2/a13673.html#aed2772552dd500c180c3db4aeef8359a", null ],
+    [ "UpdateAI", "d2/da2/a13673.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
+    [ "instance", "d2/da2/a13673.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
+    [ "summons", "d2/da2/a13673.html#a116a739b2bff3257b35ff7946a3d1995", null ]
 ];

@@ -1,6 +1,6 @@
 var a22893 =
 [
-    [ "boss_essence_of_angerAI", "d5/d85/a22897.html", "d5/d85/a22897" ],
-    [ "boss_essence_of_anger", "d3/d11/a22893.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "d3/d11/a22893.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "HandleApplyAura", "d3/d11/a22893.html#a4fde347d339f08cd01e2a47883d4b988", null ],
+    [ "PrepareSpellScript", "d3/d11/a22893.html#ab22bd56638a6adc8d111250780221cb9", null ],
+    [ "Register", "d3/d11/a22893.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
 ];

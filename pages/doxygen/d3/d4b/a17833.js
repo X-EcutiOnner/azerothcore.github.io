@@ -1,6 +1,6 @@
 var a17833 =
 [
-    [ "PrepareSpellScript", "d3/d4b/a17833.html#a37899f12707930d038de38bae92c9aff", null ],
-    [ "Register", "d3/d4b/a17833.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
-    [ "SelectDest", "d3/d4b/a17833.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
+    [ "npc_gunship_rocketeerAI", "d4/df0/a17837.html", "d4/df0/a17837" ],
+    [ "npc_gunship_rocketeer", "d3/d4b/a17833.html#a7ed2cf258269f239bb73f2f06411db07", null ],
+    [ "GetAI", "d3/d4b/a17833.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
 ];

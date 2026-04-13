@@ -1,7 +1,7 @@
 var a17985 =
 [
-    [ "HandleScript", "d7/dc5/a17985.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "d7/dc5/a17985.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "d7/dc5/a17985.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "d7/dc5/a17985.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "OnPeriodic", "d7/dc5/a17985.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
+    [ "PrepareAuraScript", "d7/dc5/a17985.html#a0e87dae1be4f69e6412129f14056eb79", null ],
+    [ "Register", "d7/dc5/a17985.html#a1b26d102252bf7e0fd480076820d343f", null ],
+    [ "Validate", "d7/dc5/a17985.html#a211d52aa385a874730abc43b083f2d22", null ]
 ];

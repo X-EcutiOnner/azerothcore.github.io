@@ -1,6 +1,6 @@
 var a17725 =
 [
-    [ "instance_gundrak_InstanceMapScript", "d0/dc5/a17729.html", "d0/dc5/a17729" ],
-    [ "instance_gundrak", "d5/d36/a17725.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
-    [ "GetInstanceScript", "d5/d36/a17725.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
+    [ "npc_stinky_iccAI", "d0/dc5/a17729.html", "d0/dc5/a17729" ],
+    [ "npc_stinky_icc", "d5/d36/a17725.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "d5/d36/a17725.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

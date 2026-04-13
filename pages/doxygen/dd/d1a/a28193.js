@@ -1,6 +1,7 @@
 var a28193 =
 [
-    [ "go_l70_etc_musicAI", "dd/d1a/a28193.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "dd/d1a/a28193.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "dd/d1a/a28193.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "npc_wormholeAI", "dd/d1a/a28193.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "dd/d1a/a28193.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "dd/d1a/a28193.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "dd/d1a/a28193.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

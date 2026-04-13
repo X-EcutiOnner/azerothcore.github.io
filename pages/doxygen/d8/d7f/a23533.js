@@ -1,12 +1,7 @@
 var a23533 =
 [
-    [ "boss_nazan", "d8/d7f/a23533.html#a4390d3e181c4db46e364df3302612763", null ],
-    [ "AttackStart", "d8/d7f/a23533.html#a7acea69f908e7a004c2a78c103528975", null ],
-    [ "DoAction", "d8/d7f/a23533.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
-    [ "EnterEvadeMode", "d8/d7f/a23533.html#ab6338a7d240014e548b22044b788ce8f", null ],
-    [ "JustEngagedWith", "d8/d7f/a23533.html#a4d44b759530f32207a46a608fb7d6209", null ],
-    [ "MovementInform", "d8/d7f/a23533.html#ad35866322ff55263b1f8b105d2cad952", null ],
-    [ "Reset", "d8/d7f/a23533.html#a5c10e932075130399a9127869f45ce1d", null ],
-    [ "UpdateAI", "d8/d7f/a23533.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
-    [ "_scheduler", "d8/d7f/a23533.html#a8915d84ec4ffb8dade18041d5e910018", null ]
+    [ "boss_gatewatcher_gyrokill", "d8/d7f/a23533.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d8/d7f/a23533.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d8/d7f/a23533.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d8/d7f/a23533.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

@@ -1,6 +1,5 @@
 var a22161 =
 [
-    [ "npc_avatar_of_freya", "d1/d3e/a22161.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
-    [ "OnGossipHello", "d1/d3e/a22161.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
-    [ "OnGossipSelect", "d1/d3e/a22161.html#aba1b13e922873e939b2510b4bc77f49d", null ]
+    [ "OutdoorPvP_nagrand", "d1/d3e/a22161.html#ac6e0f41eafb915604bd1b1d84e915f87", null ],
+    [ "GetOutdoorPvP", "d1/d3e/a22161.html#ae8ce0bf210e2be8229b9ac4d8615b058", null ]
 ];

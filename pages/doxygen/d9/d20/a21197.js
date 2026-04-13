@@ -1,5 +1,5 @@
 var a21197 =
 [
-    [ "npc_ritual_channelerAI", "d9/d20/a21197.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "d9/d20/a21197.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "npc_nerubar_victimAI", "d9/d20/a21197.html#a494976030dd48544742dd14fc09ffdbd", null ],
+    [ "JustDied", "d9/d20/a21197.html#abe3813465cad08800708726cb7ffa021", null ]
 ];

@@ -1,9 +1,5 @@
 var a06313 =
 [
-    [ "CasterAI", "d9/da2/a06313.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
-    [ "AttackStart", "d9/da2/a06313.html#a28386fd1a275c002445e5eaf90314a3d", null ],
-    [ "InitializeAI", "d9/da2/a06313.html#a2a24cdc24b665c52363dae587572fc4d", null ],
-    [ "JustEngagedWith", "d9/da2/a06313.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
-    [ "UpdateAI", "d9/da2/a06313.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
-    [ "m_attackDist", "d9/da2/a06313.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
+    [ "Subject", "d9/da2/a06313.html#ad9bd686973c6e59518889bd5d9b6a11f", null ],
+    [ "Text", "d9/da2/a06313.html#a95f203f9e53a61988a4d2af6ac6820a2", null ]
 ];

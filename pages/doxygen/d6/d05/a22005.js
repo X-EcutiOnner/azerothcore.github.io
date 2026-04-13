@@ -1,7 +1,6 @@
 var a22005 =
 [
-    [ "HandleScript", "d6/d05/a22005.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
-    [ "PrepareSpellScript", "d6/d05/a22005.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
-    [ "Register", "d6/d05/a22005.html#a9b8efef83b515f2250bda500ff741aa3", null ],
-    [ "Validate", "d6/d05/a22005.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
+    [ "npc_wg_queueAI", "d6/d05/a22005.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "d6/d05/a22005.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "d6/d05/a22005.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

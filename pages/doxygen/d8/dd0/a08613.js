@@ -1,5 +1,6 @@
 var a08613 =
 [
-    [ "Description", "d8/dd0/a08613.html#a4187f2b02014c83bc4f1b3d65d229311", null ],
-    [ "Name", "d8/dd0/a08613.html#a787ca2c05ddac7ee5c3a5c28a02b8494", null ]
+    [ "item_count", "d8/dd0/a08613.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
+    [ "setid", "d8/dd0/a08613.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
+    [ "spells", "d8/dd0/a08613.html#af8156bad9771ed816fd861d3eb992aaa", null ]
 ];

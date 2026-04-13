@@ -1,9 +1,7 @@
 var a14173 =
 [
-    [ "npc_tyrion_spybotAI", "db/ddf/a14173.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "db/ddf/a14173.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "db/ddf/a14173.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "db/ddf/a14173.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "uiPhase", "db/ddf/a14173.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "db/ddf/a14173.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "OnPeriodic", "db/ddf/a14173.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "db/ddf/a14173.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "db/ddf/a14173.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "db/ddf/a14173.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

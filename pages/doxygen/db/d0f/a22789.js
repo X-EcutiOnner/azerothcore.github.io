@@ -1,10 +1,19 @@
 var a22789 =
 [
-    [ "boss_illidari_council", "db/d0f/a22789.html#a078c36be39b377f6d1cdbf061d70270d", null ],
-    [ "AttackStart", "db/d0f/a22789.html#a260b15ec58164f17543aa044a89875a8", null ],
-    [ "DamageTaken", "db/d0f/a22789.html#af8e88c307efaba392cc2a1d2f3862078", null ],
-    [ "DoAction", "db/d0f/a22789.html#a6c3c57523ed2775ba553af1171b46463", null ],
-    [ "EnterEvadeMode", "db/d0f/a22789.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
-    [ "MoveInLineOfSight", "db/d0f/a22789.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
-    [ "UpdateAI", "db/d0f/a22789.html#a8b30df956aa4ce1727756f1d19e151be", null ]
+    [ "boss_lady_vashj", "db/d0f/a22789.html#a3934fc6c6363f7c2ee235a58a262135f", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "db/d0f/a22789.html#ad424f1c23cc893e7e48c3e854bf20936", null ],
+    [ "JustDied", "db/d0f/a22789.html#a8f0074b650b6e0a245726ebdeb8651b6", null ],
+    [ "JustEngagedWith", "db/d0f/a22789.html#a2b3b3a3bacd8042eb64a49cc9ca8847f", null ],
+    [ "JustSummoned", "db/d0f/a22789.html#ac577c4f0d0c3e9d1635a1ca9a0954095", null ],
+    [ "KilledUnit", "db/d0f/a22789.html#a0418ead0213eeea16a531baca96db704", null ],
+    [ "MoveInLineOfSight", "db/d0f/a22789.html#a4780e7cbcb7984c5742a5c072acfe252", null ],
+    [ "MovementInform", "db/d0f/a22789.html#ad2d58872d657b3a81c6be0e69d8bff1f", null ],
+    [ "Reset", "db/d0f/a22789.html#a114729e5a3caa70c89d8c8b53eba5af3", null ],
+    [ "ScheduleSpells", "db/d0f/a22789.html#ac4821984e5b5310877204fdb93810029", null ],
+    [ "UpdateAI", "db/d0f/a22789.html#a6ec56730a2735b1d9d35c63242c310b2", null ],
+    [ "_batTimer", "db/d0f/a22789.html#a0ccfbf23e8f47b77496d35cdeae5e3ac", null ],
+    [ "_count", "db/d0f/a22789.html#a2c4c2ecaa4b3ad859f46e36be34b1076", null ],
+    [ "_intro", "db/d0f/a22789.html#a2aafb94d956182723ccc9374854c7fb0", null ],
+    [ "_playerAngle", "db/d0f/a22789.html#a005515a4f2ad0661d5faff9107ea068b", null ],
+    [ "_recentlySpoken", "db/d0f/a22789.html#ac7dd5e6962e72a0eb56c89d417bda37a", null ]
 ];

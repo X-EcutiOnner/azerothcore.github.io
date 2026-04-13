@@ -1,7 +1,6 @@
 var a27817 =
 [
-    [ "FilterTargets", "dd/dca/a27817.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "dd/dca/a27817.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "dd/dca/a27817.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "dd/dca/a27817.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "go_heatAI", "dd/dca/a27817.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
+    [ "UpdateAI", "dd/dca/a27817.html#a2332206ee47b2cea9e4707d16ea79325", null ],
+    [ "timer", "dd/dca/a27817.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
 ];

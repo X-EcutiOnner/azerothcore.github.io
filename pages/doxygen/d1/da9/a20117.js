@@ -1,6 +1,8 @@
 var a20117 =
 [
-    [ "HandlePeriodic", "d1/da9/a20117.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d1/da9/a20117.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d1/da9/a20117.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "OnApply", "d1/da9/a20117.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "d1/da9/a20117.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "d1/da9/a20117.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "d1/da9/a20117.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "d1/da9/a20117.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

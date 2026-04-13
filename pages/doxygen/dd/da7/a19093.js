@@ -1,7 +1,5 @@
 var a19093 =
 [
-    [ "npc_frost_freeze_trapAI", "dd/da7/a19093.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "dd/da7/a19093.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "dd/da7/a19093.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "dd/da7/a19093.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "at_frozen_throne_teleport", "dd/da7/a19093.html#a8065b9f9b55b267be1757775f84de349", null ],
+    [ "OnTrigger", "dd/da7/a19093.html#ae1f9476b7f47320f545e702e9317bd03", null ]
 ];

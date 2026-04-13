@@ -1,5 +1,6 @@
 var a14645 =
 [
-    [ "go_brazier_of_madness", "d2/d0c/a14645.html#aeb900e575be02244e62c6e5e4153c855", null ],
-    [ "GossipHello", "d2/d0c/a14645.html#aba3af326b01cd045523434aec189fd47", null ]
+    [ "gameobjectId", "d2/d0c/a14645.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "d2/d0c/a14645.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "d2/d0c/a14645.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

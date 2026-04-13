@@ -1,6 +1,10 @@
 var a27969 =
 [
-    [ "achievement_arena_by_type", "d6/dcb/a27969.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d6/dcb/a27969.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d6/dcb/a27969.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "guard_shattrath_scryerAI", "d6/dcb/a27969.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d6/dcb/a27969.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d6/dcb/a27969.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d6/dcb/a27969.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d6/dcb/a27969.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d6/dcb/a27969.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d6/dcb/a27969.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

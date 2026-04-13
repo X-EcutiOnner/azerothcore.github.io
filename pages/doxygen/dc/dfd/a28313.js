@@ -1,6 +1,7 @@
 var a28313 =
 [
-    [ "go_bellsAI", "d6/dd9/a28317.html", "d6/dd9/a28317" ],
-    [ "go_bells", "dc/dfd/a28313.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "dc/dfd/a28313.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "HandleDummy", "dc/dfd/a28313.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "dc/dfd/a28313.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "dc/dfd/a28313.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "dc/dfd/a28313.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ArenaTeamFilter Class Reference</title>
+<title>AzerothCore: WGWorkshop Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,34 +106,40 @@ $(document).ready(function(){initNavTree('d7/d1e/a07501.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/dd7/a07498.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ArenaTeamFilter Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
+  <div class="headertitle"><div class="title">WGWorkshop Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ArenaTeamFilter.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for ArenaTeamFilter:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d7/d1e/a07501.png" usemap="#ArenaTeamFilter_map" alt=""/>
-  <map id="ArenaTeamFilter_map" name="ArenaTeamFilter_map">
-<area href="../../dd/d6f/a07509.html" alt="ArenaTeamFilterAllTeams" shape="rect" coords="0,56,157,80"/>
-<area href="../../da/d0a/a07505.html" alt="ArenaTeamFilterByTypes" shape="rect" coords="167,56,324,80"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">BattlefieldWG.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:afc05f637cc782712e6aa09bea6e85693"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d1e/a07501.html#afc05f637cc782712e6aa09bea6e85693">~ArenaTeamFilter</a> ()=default</td></tr>
-<tr class="separator:afc05f637cc782712e6aa09bea6e85693"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9a0bcfa1e5e79d2539465d84b44a235c"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../d5/dd2/a07529.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d1e/a07501.html#a9a0bcfa1e5e79d2539465d84b44a235c">Filter</a> (<a class="el" href="../../d5/dd2/a07529.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> teams)=0</td></tr>
-<tr class="separator:a9a0bcfa1e5e79d2539465d84b44a235c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d2d7b24ec77275f24efa54d31e98bbb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d1e/a07501.html#a2d2d7b24ec77275f24efa54d31e98bbb">WGWorkshop</a> (<a class="el" href="../../da/d10/a07469.html">BattlefieldWG</a> *_bf, <a class="el" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _workshopId)</td></tr>
+<tr class="separator:a2d2d7b24ec77275f24efa54d31e98bbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b69312f4ffa562b0e8fdcf5da3568d3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d1e/a07501.html#a6b69312f4ffa562b0e8fdcf5da3568d3">GiveControlTo</a> (<a class="el" href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> team, bool init)</td></tr>
+<tr class="separator:a6b69312f4ffa562b0e8fdcf5da3568d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ff11801fb50cd3a463c44fafbddaed4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d1e/a07501.html#a2ff11801fb50cd3a463c44fafbddaed4">UpdateGraveyardAndWorkshop</a> ()</td></tr>
+<tr class="separator:a2ff11801fb50cd3a463c44fafbddaed4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adede1c780178f20dc8339320a021e4b6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d1e/a07501.html#adede1c780178f20dc8339320a021e4b6">Save</a> ()</td></tr>
+<tr class="separator:adede1c780178f20dc8339320a021e4b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ae2b7e050289ad5922ddcd73c6da9f5a5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d10/a07469.html">BattlefieldWG</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a></td></tr>
+<tr class="separator:ae2b7e050289ad5922ddcd73c6da9f5a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a42d7337c67e4f19886b0ec86f0e60596"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a></td></tr>
+<tr class="separator:a42d7337c67e4f19886b0ec86f0e60596"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a196c8d0094a34c18835840e046fd39ef"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d1e/a07501.html#a196c8d0094a34c18835840e046fd39ef">teamControl</a></td></tr>
+<tr class="separator:a196c8d0094a34c18835840e046fd39ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a279d47c85843e884edef1f82b9654cd8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d1e/a07501.html#a279d47c85843e884edef1f82b9654cd8">state</a></td></tr>
+<tr class="separator:a279d47c85843e884edef1f82b9654cd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afc05f637cc782712e6aa09bea6e85693" name="afc05f637cc782712e6aa09bea6e85693"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afc05f637cc782712e6aa09bea6e85693">&#9670;&#160;</a></span>~ArenaTeamFilter()</h2>
+<a id="a2d2d7b24ec77275f24efa54d31e98bbb" name="a2d2d7b24ec77275f24efa54d31e98bbb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2d2d7b24ec77275f24efa54d31e98bbb">&#9670;&#160;</a></span>WGWorkshop()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -142,7 +148,164 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual ArenaTeamFilter::~ArenaTeamFilter </td>
+          <td class="memname">WGWorkshop::WGWorkshop </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d10/a07469.html">BattlefieldWG</a> *&#160;</td>
+          <td class="paramname"><em>_bf</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>_workshopId</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1412</span>    {</div>
+<div class="line"><span class="lineno"> 1413</span>        <a class="code hl_define" href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(_bf || _workshopId &lt; <a class="code hl_variable" href="../../d2/d3d/a01982.html#ad60d096a6b2eeda76a6150d8258cd811">WG_MAX_WORKSHOP</a>);</div>
+<div class="line"><span class="lineno"> 1414</span> </div>
+<div class="line"><span class="lineno"> 1415</span>        <a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a> = _bf;</div>
+<div class="line"><span class="lineno"> 1416</span>        <a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a> = _workshopId;</div>
+<div class="line"><span class="lineno"> 1417</span>        <a class="code hl_variable" href="../../d7/d1e/a07501.html#a196c8d0094a34c18835840e046fd39ef">teamControl</a> = <a class="code hl_enumvalue" href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>;</div>
+<div class="line"><span class="lineno"> 1418</span>        <a class="code hl_variable" href="../../d7/d1e/a07501.html#a279d47c85843e884edef1f82b9654cd8">state</a> = <a class="code hl_enumvalue" href="../../d2/d3d/a01982.html#af094ad05f7b14210534e8def57b86fe8a1f2bef644b1416fccc23fb1759c20664">BATTLEFIELD_WG_OBJECTSTATE_NONE</a>;</div>
+<div class="line"><span class="lineno"> 1419</span>    }</div>
+<div class="ttc" id="aa01982_html_ad60d096a6b2eeda76a6150d8258cd811"><div class="ttname"><a href="../../d2/d3d/a01982.html#ad60d096a6b2eeda76a6150d8258cd811">WG_MAX_WORKSHOP</a></div><div class="ttdeci">uint8 const WG_MAX_WORKSHOP</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1018</div></div>
+<div class="ttc" id="aa01982_html_af094ad05f7b14210534e8def57b86fe8a1f2bef644b1416fccc23fb1759c20664"><div class="ttname"><a href="../../d2/d3d/a01982.html#af094ad05f7b14210534e8def57b86fe8a1f2bef644b1416fccc23fb1759c20664">BATTLEFIELD_WG_OBJECTSTATE_NONE</a></div><div class="ttdeci">@ BATTLEFIELD_WG_OBJECTSTATE_NONE</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:475</div></div>
+<div class="ttc" id="aa04292_html_abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5"><div class="ttname"><a href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a></div><div class="ttdeci">@ TEAM_NEUTRAL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:750</div></div>
+<div class="ttc" id="aa04586_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa07501_html_a196c8d0094a34c18835840e046fd39ef"><div class="ttname"><a href="../../d7/d1e/a07501.html#a196c8d0094a34c18835840e046fd39ef">WGWorkshop::teamControl</a></div><div class="ttdeci">TeamId teamControl</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1407</div></div>
+<div class="ttc" id="aa07501_html_a279d47c85843e884edef1f82b9654cd8"><div class="ttname"><a href="../../d7/d1e/a07501.html#a279d47c85843e884edef1f82b9654cd8">WGWorkshop::state</a></div><div class="ttdeci">uint32 state</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1409</div></div>
+<div class="ttc" id="aa07501_html_a42d7337c67e4f19886b0ec86f0e60596"><div class="ttname"><a href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">WGWorkshop::workshopId</a></div><div class="ttdeci">uint8 workshopId</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1405</div></div>
+<div class="ttc" id="aa07501_html_ae2b7e050289ad5922ddcd73c6da9f5a5"><div class="ttname"><a href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">WGWorkshop::bf</a></div><div class="ttdeci">BattlefieldWG * bf</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1403</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00475">BATTLEFIELD_WG_OBJECTSTATE_NONE</a>, <a class="el" href="../../#l01403">bf</a>, <a class="el" href="../../#l01409">state</a>, <a class="el" href="../../#l00750">TEAM_NEUTRAL</a>, <a class="el" href="../../#l01407">teamControl</a>, <a class="el" href="../../#l01018">WG_MAX_WORKSHOP</a>, and <a class="el" href="../../#l01405">workshopId</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a6b69312f4ffa562b0e8fdcf5da3568d3" name="a6b69312f4ffa562b0e8fdcf5da3568d3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b69312f4ffa562b0e8fdcf5da3568d3">&#9670;&#160;</a></span>GiveControlTo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WGWorkshop::GiveControlTo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
+          <td class="paramname"><em>team</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>init</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1422</span>    {</div>
+<div class="line"><span class="lineno"> 1423</span>        <span class="keywordflow">switch</span> (team)</div>
+<div class="line"><span class="lineno"> 1424</span>        {</div>
+<div class="line"><span class="lineno"> 1425</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>:</div>
+<div class="line"><span class="lineno"> 1426</span>                {</div>
+<div class="line"><span class="lineno"> 1427</span>                    <span class="comment">// Send warning message to all player to inform a faction attack to a workshop</span></div>
+<div class="line"><span class="lineno"> 1428</span>                    <span class="comment">// alliance / horde attacking a workshop</span></div>
+<div class="line"><span class="lineno"> 1429</span>                    <a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d0f/a07449.html#a709eb579668329424b44794df75bf85b">SendWarning</a>(<a class="code hl_variable" href="../../d7/d1e/a07501.html#a196c8d0094a34c18835840e046fd39ef">teamControl</a> ? <a class="code hl_variable" href="../../d2/d3d/a01982.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].attackText : (<a class="code hl_variable" href="../../d2/d3d/a01982.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].attackText + 2));</div>
+<div class="line"><span class="lineno"> 1430</span> </div>
+<div class="line"><span class="lineno"> 1431</span>                    <span class="comment">// Updating worldstate, update icon to neutral</span></div>
+<div class="line"><span class="lineno"> 1432</span>                    <a class="code hl_variable" href="../../d7/d1e/a07501.html#a279d47c85843e884edef1f82b9654cd8">state</a> = <a class="code hl_enumvalue" href="../../d2/d3d/a01982.html#af094ad05f7b14210534e8def57b86fe8aa27f366d6a832de752fdfb9eb9392101">BATTLEFIELD_WG_OBJECTSTATE_NEUTRAL_INTACT</a>;</div>
+<div class="line"><span class="lineno"> 1433</span>                    <a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d0f/a07449.html#af08665cd919b9d39798cd02c110b3241">SendUpdateWorldState</a>(<a class="code hl_variable" href="../../d2/d3d/a01982.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].worldstate, <a class="code hl_variable" href="../../d7/d1e/a07501.html#a279d47c85843e884edef1f82b9654cd8">state</a>);</div>
+<div class="line"><span class="lineno"> 1434</span> </div>
+<div class="line"><span class="lineno"> 1435</span>                    <span class="comment">// Found associate graveyard and update it</span></div>
+<div class="line"><span class="lineno"> 1436</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a> &lt; <a class="code hl_enumvalue" href="../../d2/d3d/a01982.html#af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567">BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</a>)</div>
+<div class="line"><span class="lineno"> 1437</span>                        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d0f/a07449.html#a76f8ac667475e8813488808b9df25ed8">GetGraveyardById</a>(<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>))</div>
+<div class="line"><span class="lineno"> 1438</span>                            <a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d0f/a07449.html#a76f8ac667475e8813488808b9df25ed8">GetGraveyardById</a>(<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>)-&gt;<a class="code hl_function" href="../../dd/d6e/a07445.html#a9fe22d9ebbe1b652322b9a8e5f18ee91">GiveControlTo</a>(team);</div>
+<div class="line"><span class="lineno"> 1439</span> </div>
+<div class="line"><span class="lineno"> 1440</span>                    <a class="code hl_variable" href="../../d7/d1e/a07501.html#a196c8d0094a34c18835840e046fd39ef">teamControl</a> = team;</div>
+<div class="line"><span class="lineno"> 1441</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1442</span>                }</div>
+<div class="line"><span class="lineno"> 1443</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>:</div>
+<div class="line"><span class="lineno"> 1444</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>:</div>
+<div class="line"><span class="lineno"> 1445</span>                {</div>
+<div class="line"><span class="lineno"> 1446</span>                    <span class="comment">// Updating worldstate</span></div>
+<div class="line"><span class="lineno"> 1447</span>                    <a class="code hl_variable" href="../../d7/d1e/a07501.html#a279d47c85843e884edef1f82b9654cd8">state</a> = team == <a class="code hl_enumvalue" href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> ? <a class="code hl_enumvalue" href="../../d2/d3d/a01982.html#af094ad05f7b14210534e8def57b86fe8aad32b4fd44d8b851ddf6b6c6e899254d">BATTLEFIELD_WG_OBJECTSTATE_ALLIANCE_INTACT</a> : <a class="code hl_enumvalue" href="../../d2/d3d/a01982.html#af094ad05f7b14210534e8def57b86fe8ad42a6ac2ffae24fb1b8cfcf1bebf3cf3">BATTLEFIELD_WG_OBJECTSTATE_HORDE_INTACT</a>;</div>
+<div class="line"><span class="lineno"> 1448</span>                    <a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d0f/a07449.html#af08665cd919b9d39798cd02c110b3241">SendUpdateWorldState</a>(<a class="code hl_variable" href="../../d2/d3d/a01982.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].worldstate, <a class="code hl_variable" href="../../d7/d1e/a07501.html#a279d47c85843e884edef1f82b9654cd8">state</a>);</div>
+<div class="line"><span class="lineno"> 1449</span> </div>
+<div class="line"><span class="lineno"> 1450</span>                    <span class="comment">// Warning message</span></div>
+<div class="line"><span class="lineno"> 1451</span>                    <span class="keywordflow">if</span> (!init)                              <span class="comment">// workshop taken - alliance</span></div>
+<div class="line"><span class="lineno"> 1452</span>                        <a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d0f/a07449.html#a709eb579668329424b44794df75bf85b">SendWarning</a>(team == <a class="code hl_enumvalue" href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> ? <a class="code hl_variable" href="../../d2/d3d/a01982.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].takenText : (<a class="code hl_variable" href="../../d2/d3d/a01982.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].takenText + 2));</div>
+<div class="line"><span class="lineno"> 1453</span> </div>
+<div class="line"><span class="lineno"> 1454</span>                    <span class="comment">// Found associate graveyard and update it</span></div>
+<div class="line"><span class="lineno"> 1455</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a> &lt; <a class="code hl_enumvalue" href="../../d2/d3d/a01982.html#af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567">BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</a>)</div>
+<div class="line"><span class="lineno"> 1456</span>                        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d0f/a07449.html#a76f8ac667475e8813488808b9df25ed8">GetGraveyardById</a>(<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>))</div>
+<div class="line"><span class="lineno"> 1457</span>                            <a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d0f/a07449.html#a76f8ac667475e8813488808b9df25ed8">GetGraveyardById</a>(<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>)-&gt;<a class="code hl_function" href="../../dd/d6e/a07445.html#a9fe22d9ebbe1b652322b9a8e5f18ee91">GiveControlTo</a>(team);</div>
+<div class="line"><span class="lineno"> 1458</span> </div>
+<div class="line"><span class="lineno"> 1459</span>                    <a class="code hl_variable" href="../../d7/d1e/a07501.html#a196c8d0094a34c18835840e046fd39ef">teamControl</a> = team;</div>
+<div class="line"><span class="lineno"> 1460</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1461</span>                }</div>
+<div class="line"><span class="lineno"> 1462</span>        }</div>
+<div class="line"><span class="lineno"> 1463</span> </div>
+<div class="line"><span class="lineno"> 1464</span>        <span class="keywordflow">if</span> (!init)</div>
+<div class="line"><span class="lineno"> 1465</span>        {</div>
+<div class="line"><span class="lineno"> 1466</span>            <a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d10/a07469.html#a241873a0d0875b5cc040ff775f182171">UpdateCounterVehicle</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1467</span>            <a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d10/a07469.html#a9a0271f0b293c0254ce7d62de4feffad">CapturePointTaken</a>(<a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d10/a07469.html#a575c3c315ace0a0bb258b27b08931068">GetAreaByGraveyardId</a>(<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>));</div>
+<div class="line"><span class="lineno"> 1468</span>        }</div>
+<div class="line"><span class="lineno"> 1469</span>    }</div>
+<div class="ttc" id="aa01982_html_a1c77d9e019ffe8d4bad9e01823bf27b8"><div class="ttname"><a href="../../d2/d3d/a01982.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a></div><div class="ttdeci">WGWorkshopData const WorkshopsData[WG_MAX_WORKSHOP]</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1028</div></div>
+<div class="ttc" id="aa01982_html_af094ad05f7b14210534e8def57b86fe8aa27f366d6a832de752fdfb9eb9392101"><div class="ttname"><a href="../../d2/d3d/a01982.html#af094ad05f7b14210534e8def57b86fe8aa27f366d6a832de752fdfb9eb9392101">BATTLEFIELD_WG_OBJECTSTATE_NEUTRAL_INTACT</a></div><div class="ttdeci">@ BATTLEFIELD_WG_OBJECTSTATE_NEUTRAL_INTACT</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:476</div></div>
+<div class="ttc" id="aa01982_html_af094ad05f7b14210534e8def57b86fe8aad32b4fd44d8b851ddf6b6c6e899254d"><div class="ttname"><a href="../../d2/d3d/a01982.html#af094ad05f7b14210534e8def57b86fe8aad32b4fd44d8b851ddf6b6c6e899254d">BATTLEFIELD_WG_OBJECTSTATE_ALLIANCE_INTACT</a></div><div class="ttdeci">@ BATTLEFIELD_WG_OBJECTSTATE_ALLIANCE_INTACT</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:482</div></div>
+<div class="ttc" id="aa01982_html_af094ad05f7b14210534e8def57b86fe8ad42a6ac2ffae24fb1b8cfcf1bebf3cf3"><div class="ttname"><a href="../../d2/d3d/a01982.html#af094ad05f7b14210534e8def57b86fe8ad42a6ac2ffae24fb1b8cfcf1bebf3cf3">BATTLEFIELD_WG_OBJECTSTATE_HORDE_INTACT</a></div><div class="ttdeci">@ BATTLEFIELD_WG_OBJECTSTATE_HORDE_INTACT</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:479</div></div>
+<div class="ttc" id="aa01982_html_af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567"><div class="ttname"><a href="../../d2/d3d/a01982.html#af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567">BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</a></div><div class="ttdeci">@ BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:493</div></div>
+<div class="ttc" id="aa04292_html_abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e"><div class="ttname"><a href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a></div><div class="ttdeci">@ TEAM_ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:748</div></div>
+<div class="ttc" id="aa04292_html_abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a"><div class="ttname"><a href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a></div><div class="ttdeci">@ TEAM_HORDE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:749</div></div>
+<div class="ttc" id="aa07445_html_a9fe22d9ebbe1b652322b9a8e5f18ee91"><div class="ttname"><a href="../../dd/d6e/a07445.html#a9fe22d9ebbe1b652322b9a8e5f18ee91">BfGraveyard::GiveControlTo</a></div><div class="ttdeci">void GiveControlTo(TeamId team)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:712</div></div>
+<div class="ttc" id="aa07449_html_a709eb579668329424b44794df75bf85b"><div class="ttname"><a href="../../da/d0f/a07449.html#a709eb579668329424b44794df75bf85b">Battlefield::SendWarning</a></div><div class="ttdeci">void SendWarning(uint8 id, WorldObject const *target=nullptr)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:456</div></div>
+<div class="ttc" id="aa07449_html_a76f8ac667475e8813488808b9df25ed8"><div class="ttname"><a href="../../da/d0f/a07449.html#a76f8ac667475e8813488808b9df25ed8">Battlefield::GetGraveyardById</a></div><div class="ttdeci">BfGraveyard * GetGraveyardById(uint32 id) const</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:549</div></div>
+<div class="ttc" id="aa07449_html_af08665cd919b9d39798cd02c110b3241"><div class="ttname"><a href="../../da/d0f/a07449.html#af08665cd919b9d39798cd02c110b3241">Battlefield::SendUpdateWorldState</a></div><div class="ttdeci">void SendUpdateWorldState(uint32 field, uint32 value)</div><div class="ttdoc">Update data of a worldstate to all players present in zone.</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:462</div></div>
+<div class="ttc" id="aa07469_html_a241873a0d0875b5cc040ff775f182171"><div class="ttname"><a href="../../da/d10/a07469.html#a241873a0d0875b5cc040ff775f182171">BattlefieldWG::UpdateCounterVehicle</a></div><div class="ttdeci">void UpdateCounterVehicle(bool init)</div><div class="ttdoc">Vehicle world states update.</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.cpp:301</div></div>
+<div class="ttc" id="aa07469_html_a575c3c315ace0a0bb258b27b08931068"><div class="ttname"><a href="../../da/d10/a07469.html#a575c3c315ace0a0bb258b27b08931068">BattlefieldWG::GetAreaByGraveyardId</a></div><div class="ttdeci">uint32 GetAreaByGraveyardId(uint8 gId) const</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.cpp:539</div></div>
+<div class="ttc" id="aa07469_html_a9a0271f0b293c0254ce7d62de4feffad"><div class="ttname"><a href="../../da/d10/a07469.html#a9a0271f0b293c0254ce7d62de4feffad">BattlefieldWG::CapturePointTaken</a></div><div class="ttdeci">void CapturePointTaken(uint32 areaId)</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.cpp:339</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00482">BATTLEFIELD_WG_OBJECTSTATE_ALLIANCE_INTACT</a>, <a class="el" href="../../#l00479">BATTLEFIELD_WG_OBJECTSTATE_HORDE_INTACT</a>, <a class="el" href="../../#l00476">BATTLEFIELD_WG_OBJECTSTATE_NEUTRAL_INTACT</a>, <a class="el" href="../../#l00493">BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</a>, <a class="el" href="../../#l01403">bf</a>, <a class="el" href="../../#l00339">BattlefieldWG::CapturePointTaken()</a>, <a class="el" href="../../#l00539">BattlefieldWG::GetAreaByGraveyardId()</a>, <a class="el" href="../../#l00549">Battlefield::GetGraveyardById()</a>, <a class="el" href="../../#l00712">BfGraveyard::GiveControlTo()</a>, <a class="el" href="../../#l00462">Battlefield::SendUpdateWorldState()</a>, <a class="el" href="../../#l00456">Battlefield::SendWarning()</a>, <a class="el" href="../../#l01409">state</a>, <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>, <a class="el" href="../../#l00749">TEAM_HORDE</a>, <a class="el" href="../../#l00750">TEAM_NEUTRAL</a>, <a class="el" href="../../#l01407">teamControl</a>, <a class="el" href="../../#l00301">BattlefieldWG::UpdateCounterVehicle()</a>, <a class="el" href="../../#l01405">workshopId</a>, and <a class="el" href="../../#l01028">WorkshopsData</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01240">WintergraspCapturePoint::ChangeTeam()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, and <a class="el" href="../../#l01471">UpdateGraveyardAndWorkshop()</a>.</p>
+
+</div>
+</div>
+<a id="adede1c780178f20dc8339320a021e4b6" name="adede1c780178f20dc8339320a021e4b6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adede1c780178f20dc8339320a021e4b6">&#9670;&#160;</a></span>Save()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WGWorkshop::Save </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -150,16 +313,21 @@ Public Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1480</span>    {</div>
+<div class="line"><span class="lineno"> 1481</span>        <a class="code hl_define" href="../../d6/d27/a01781.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;setWorldState(<a class="code hl_variable" href="../../d2/d3d/a01982.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].worldstate, <a class="code hl_variable" href="../../d7/d1e/a07501.html#a279d47c85843e884edef1f82b9654cd8">state</a>);</div>
+<div class="line"><span class="lineno"> 1482</span>    }</div>
+<div class="ttc" id="aa01781_html_a3a4f495a024c9f1774c913dd8ac4929f"><div class="ttname"><a href="../../d6/d27/a01781.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a></div><div class="ttdeci">#define sWorldState</div><div class="ttdef"><b>Definition:</b> WorldState.h:377</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01409">state</a>, <a class="el" href="../../#l00377">sWorldState</a>, <a class="el" href="../../#l01405">workshopId</a>, and <a class="el" href="../../#l01028">WorkshopsData</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a9a0bcfa1e5e79d2539465d84b44a235c" name="a9a0bcfa1e5e79d2539465d84b44a235c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9a0bcfa1e5e79d2539465d84b44a235c">&#9670;&#160;</a></span>Filter()</h2>
+<a id="a2ff11801fb50cd3a463c44fafbddaed4" name="a2ff11801fb50cd3a463c44fafbddaed4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ff11801fb50cd3a463c44fafbddaed4">&#9670;&#160;</a></span>UpdateGraveyardAndWorkshop()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -168,21 +336,94 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="../../d5/dd2/a07529.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> ArenaTeamFilter::Filter </td>
+          <td class="memname">void WGWorkshop::UpdateGraveyardAndWorkshop </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/dd2/a07529.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a>&#160;</td>
-          <td class="paramname"><em>teams</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1472</span>    {</div>
+<div class="line"><span class="lineno"> 1473</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a> &lt; <a class="code hl_enumvalue" href="../../d2/d3d/a01982.html#af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567">BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</a>)</div>
+<div class="line"><span class="lineno"> 1474</span>            <a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d0f/a07449.html#a76f8ac667475e8813488808b9df25ed8">GetGraveyardById</a>(<a class="code hl_variable" href="../../d7/d1e/a07501.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>)-&gt;<a class="code hl_function" href="../../dd/d6e/a07445.html#a9fe22d9ebbe1b652322b9a8e5f18ee91">GiveControlTo</a>(<a class="code hl_enumeration" href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>(<a class="code hl_variable" href="../../d7/d1e/a07501.html#a196c8d0094a34c18835840e046fd39ef">teamControl</a>));</div>
+<div class="line"><span class="lineno"> 1475</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1476</span>            <a class="code hl_function" href="../../d7/d1e/a07501.html#a6b69312f4ffa562b0e8fdcf5da3568d3">GiveControlTo</a>(<a class="code hl_variable" href="../../d7/d1e/a07501.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../da/d0f/a07449.html#aaa6f14c3ca5e11dccd4e5e2082e3f4d2">GetDefenderTeam</a>(), <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1477</span>    }</div>
+<div class="ttc" id="aa04292_html_abfb349736a7699bdfcdb134035ef7865"><div class="ttname"><a href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a></div><div class="ttdeci">TeamId</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:747</div></div>
+<div class="ttc" id="aa07449_html_aaa6f14c3ca5e11dccd4e5e2082e3f4d2"><div class="ttname"><a href="../../da/d0f/a07449.html#aaa6f14c3ca5e11dccd4e5e2082e3f4d2">Battlefield::GetDefenderTeam</a></div><div class="ttdeci">TeamId GetDefenderTeam() const</div><div class="ttdef"><b>Definition:</b> Battlefield.h:279</div></div>
+<div class="ttc" id="aa07501_html_a6b69312f4ffa562b0e8fdcf5da3568d3"><div class="ttname"><a href="../../d7/d1e/a07501.html#a6b69312f4ffa562b0e8fdcf5da3568d3">WGWorkshop::GiveControlTo</a></div><div class="ttdeci">void GiveControlTo(TeamId team, bool init)</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1421</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00493">BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</a>, <a class="el" href="../../#l01403">bf</a>, <a class="el" href="../../#l00279">Battlefield::GetDefenderTeam()</a>, <a class="el" href="../../#l00549">Battlefield::GetGraveyardById()</a>, <a class="el" href="../../#l00712">BfGraveyard::GiveControlTo()</a>, <a class="el" href="../../#l01421">GiveControlTo()</a>, <a class="el" href="../../#l01407">teamControl</a>, and <a class="el" href="../../#l01405">workshopId</a>.</p>
 
-<p>Implemented in <a class="el" href="../../da/d0a/a07505.html#a7c04437788359b40db1c0d4492d51497">ArenaTeamFilterByTypes</a>, and <a class="el" href="../../dd/d6f/a07509.html#a1fcb023fe0dee17790b3636bf1ff3e9a">ArenaTeamFilterAllTeams</a>.</p>
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ae2b7e050289ad5922ddcd73c6da9f5a5" name="ae2b7e050289ad5922ddcd73c6da9f5a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2b7e050289ad5922ddcd73c6da9f5a5">&#9670;&#160;</a></span>bf</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d10/a07469.html">BattlefieldWG</a>* WGWorkshop::bf</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01421">GiveControlTo()</a>, <a class="el" href="../../#l01471">UpdateGraveyardAndWorkshop()</a>, and <a class="el" href="../../#l01411">WGWorkshop()</a>.</p>
+
+</div>
+</div>
+<a id="a279d47c85843e884edef1f82b9654cd8" name="a279d47c85843e884edef1f82b9654cd8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a279d47c85843e884edef1f82b9654cd8">&#9670;&#160;</a></span>state</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WGWorkshop::state</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01421">GiveControlTo()</a>, <a class="el" href="../../#l01479">Save()</a>, and <a class="el" href="../../#l01411">WGWorkshop()</a>.</p>
+
+</div>
+</div>
+<a id="a196c8d0094a34c18835840e046fd39ef" name="a196c8d0094a34c18835840e046fd39ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a196c8d0094a34c18835840e046fd39ef">&#9670;&#160;</a></span>teamControl</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d31/a04292.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> WGWorkshop::teamControl</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01421">GiveControlTo()</a>, <a class="el" href="../../#l01471">UpdateGraveyardAndWorkshop()</a>, and <a class="el" href="../../#l01411">WGWorkshop()</a>.</p>
+
+</div>
+</div>
+<a id="a42d7337c67e4f19886b0ec86f0e60596" name="a42d7337c67e4f19886b0ec86f0e60596"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a42d7337c67e4f19886b0ec86f0e60596">&#9670;&#160;</a></span>workshopId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> WGWorkshop::workshopId</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01421">GiveControlTo()</a>, <a class="el" href="../../#l01479">Save()</a>, <a class="el" href="../../#l01471">UpdateGraveyardAndWorkshop()</a>, and <a class="el" href="../../#l01411">WGWorkshop()</a>.</p>
 
 </div>
 </div>
@@ -191,8 +432,8 @@ Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d1e/a07501.html">ArenaTeamFilter</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:09:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d1e/a07501.html">WGWorkshop</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:29:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

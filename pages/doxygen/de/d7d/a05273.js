@@ -1,11 +1,10 @@
 var a05273 =
 [
-    [ "~GameObjectModelOwnerBase", "de/d7d/a05273.html#a307c744710782fcb0d5c287b23c74d69", null ],
-    [ "DebugVisualizeCorner", "de/d7d/a05273.html#acf130fbdfb086a9c6d35d145116357c8", null ],
-    [ "GetDisplayId", "de/d7d/a05273.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
-    [ "GetOrientation", "de/d7d/a05273.html#a35c11d2346c5156b95558729d84b3fe8", null ],
-    [ "GetPhaseMask", "de/d7d/a05273.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
-    [ "GetPosition", "de/d7d/a05273.html#a82e89b7fac5f46a25519674930294ed8", null ],
-    [ "GetScale", "de/d7d/a05273.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
-    [ "IsSpawned", "de/d7d/a05273.html#ad824da6970d512c344160714cd7ec434", null ]
+    [ "AreaInfo", "de/d7d/a05273.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
+    [ "adtId", "de/d7d/a05273.html#a95c1c986b14dfeba867fa55e77553499", null ],
+    [ "flags", "de/d7d/a05273.html#a780bdbb606fe694941d2105e14a29d70", null ],
+    [ "ground_Z", "de/d7d/a05273.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
+    [ "groupId", "de/d7d/a05273.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
+    [ "result", "de/d7d/a05273.html#ab9e9a7658d5fb76be208835f786036b0", null ],
+    [ "rootId", "de/d7d/a05273.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
 ];

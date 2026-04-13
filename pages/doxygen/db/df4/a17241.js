@@ -1,17 +1,13 @@
 var a17241 =
 [
-    [ "boss_bronjahmAI", "db/df4/a17241.html#a1cf523f4d7d23187fbc44efee4ca9ea3", null ],
-    [ "DamageTaken", "db/df4/a17241.html#addd45cd8ecccaf5e0f2fd3f08282af28", null ],
-    [ "EnterEvadeMode", "db/df4/a17241.html#aafe8adec1b16ecb324f81ac954889e2a", null ],
-    [ "JustDied", "db/df4/a17241.html#aec27198e51022639fd002879d8afa40d", null ],
-    [ "JustEngagedWith", "db/df4/a17241.html#a60719369456cb55155966ccefffe49ba", null ],
-    [ "JustReachedHome", "db/df4/a17241.html#adacba5b04f9d0c273226f055a19c0b16", null ],
-    [ "JustSummoned", "db/df4/a17241.html#a97836e7dbe9670fc5c08339bee5e4608", null ],
-    [ "KilledUnit", "db/df4/a17241.html#a7d338c31c1ec906f0395f4dfbe88448a", null ],
-    [ "Reset", "db/df4/a17241.html#a553dd0d2dd6f074bc03415f81254bc2b", null ],
-    [ "SpellHitTarget", "db/df4/a17241.html#afdc24fb0a530813e1a6618f469911f89", null ],
-    [ "UpdateAI", "db/df4/a17241.html#a883e2672d391fcc3fd643f550e3a9d45", null ],
-    [ "events", "db/df4/a17241.html#a092d2b12172f7c303bc2b0b51ecc1834", null ],
-    [ "pInstance", "db/df4/a17241.html#aa9f0c2b3e420b61e922af48be84d20d7", null ],
-    [ "summons", "db/df4/a17241.html#ad8b011080db0d4829fbbde4739371d36", null ]
+    [ "boss_tyrannusAI", "db/df4/a17241.html#a753de14d2cecaaed2c7b24e09397b008", null ],
+    [ "CanAIAttack", "db/df4/a17241.html#a0cb60f308637cbd152faf274b3e5f636", null ],
+    [ "DoAction", "db/df4/a17241.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
+    [ "EnterEvadeMode", "db/df4/a17241.html#a9d18bab323c676020dede77a498a5b77", null ],
+    [ "JustDied", "db/df4/a17241.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
+    [ "KilledUnit", "db/df4/a17241.html#abf7c8909143dac641c00cca160bef964", null ],
+    [ "Reset", "db/df4/a17241.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
+    [ "UpdateAI", "db/df4/a17241.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
+    [ "events", "db/df4/a17241.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
+    [ "pInstance", "db/df4/a17241.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
 ];

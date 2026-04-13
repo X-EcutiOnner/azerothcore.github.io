@@ -1,6 +1,5 @@
 var a11577 =
 [
-    [ "ChannelTargetData", "d0/db4/a11577.html#a26f2a2037750712d8718d9537603e3a1", null ],
-    [ "channelGUID", "d0/db4/a11577.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "d0/db4/a11577.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "SocketAdded", "d0/db4/a11577.html#a01090d6713f49dc026f77f8481b492cb", null ],
+    [ "SocketRemoved", "d0/db4/a11577.html#a4a978f9304e4aeabfb9ce1998b8a27cc", null ]
 ];

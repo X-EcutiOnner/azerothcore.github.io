@@ -1,7 +1,6 @@
 var a18349 =
 [
-    [ "HandleScript", "d5/dff/a18349.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d5/dff/a18349.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d5/dff/a18349.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d5/dff/a18349.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "npc_sindragosa_trashAI", "dd/d0c/a18353.html", "dd/d0c/a18353" ],
+    [ "npc_sindragosa_trash", "d5/dff/a18349.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "d5/dff/a18349.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

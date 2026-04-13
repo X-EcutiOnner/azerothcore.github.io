@@ -1,6 +1,6 @@
 var a20845 =
 [
-    [ "OnRemove", "dd/da5/a20845.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "dd/da5/a20845.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "dd/da5/a20845.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "boss_palehoofAI", "da/def/a20849.html", "da/def/a20849" ],
+    [ "boss_palehoof", "dd/da5/a20845.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "dd/da5/a20845.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

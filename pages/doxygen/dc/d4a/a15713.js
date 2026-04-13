@@ -1,5 +1,7 @@
 var a15713 =
 [
-    [ "npc_toxic_slime", "dc/d4a/a15713.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "dc/d4a/a15713.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "npc_tharnarianAI", "dd/df2/a15717.html", "dd/df2/a15717" ],
+    [ "npc_tharnarian", "dc/d4a/a15713.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "dc/d4a/a15713.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "dc/d4a/a15713.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
 ];

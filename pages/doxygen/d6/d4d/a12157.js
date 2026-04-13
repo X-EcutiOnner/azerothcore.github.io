@@ -1,10 +1,8 @@
 var a12157 =
 [
-    [ "item_commandscript", "d6/d4d/a12157.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
-    [ "GetCommands", "d6/d4d/a12157.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
-    [ "HandleItemMoveCommand", "d6/d4d/a12157.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
-    [ "HandleItemRefundCommand", "d6/d4d/a12157.html#af914e33be05148062abd89c754d939c9", null ],
-    [ "HandleItemRestoreCommand", "d6/d4d/a12157.html#a84c67a46c513c1aac2b9d2563d693929", null ],
-    [ "HandleItemRestoreListCommand", "d6/d4d/a12157.html#a40181310f4187a71a6f5f5f600a8f468", null ],
-    [ "HasItemDeletionConfig", "d6/d4d/a12157.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
+    [ "cache_commandscript", "d6/d4d/a12157.html#a709e1d02632aed18113c1adb52e962b5", null ],
+    [ "GetCommands", "d6/d4d/a12157.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
+    [ "HandleCacheDeleteCommand", "d6/d4d/a12157.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
+    [ "HandleCacheInfoCommand", "d6/d4d/a12157.html#aa9bce5578450a35909a4e481bc21867f", null ],
+    [ "HandleCacheRefreshCommand", "d6/d4d/a12157.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
 ];

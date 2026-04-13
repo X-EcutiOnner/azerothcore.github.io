@@ -1,8 +1,10 @@
 var a13993 =
 [
-    [ "HandleEffectApply", "d0/d0e/a13993.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
-    [ "HandleEffectRemove", "d0/d0e/a13993.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
-    [ "Load", "d0/d0e/a13993.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
-    [ "PrepareAuraScript", "d0/d0e/a13993.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
-    [ "Register", "d0/d0e/a13993.html#a6a90296c9903ce65913f3bba29dea176", null ]
+    [ "npc_tyrion_spybotAI", "d0/d0e/a13993.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "d0/d0e/a13993.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "d0/d0e/a13993.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "d0/d0e/a13993.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "WaypointReached", "d0/d0e/a13993.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "uiPhase", "d0/d0e/a13993.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "d0/d0e/a13993.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

@@ -1,6 +1,6 @@
 var a22813 =
 [
-    [ "CalculateAmount", "d9/d1b/a22813.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
-    [ "PrepareAuraScript", "d9/d1b/a22813.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
-    [ "Register", "d9/d1b/a22813.html#a0d2e97463f268892965e307628aaa931", null ]
+    [ "HandleEffectRemove", "d9/d1b/a22813.html#ae31aae4e762b3c19e7df0c1d3a3733c3", null ],
+    [ "PrepareAuraScript", "d9/d1b/a22813.html#a3758550ba42e01aff3a1e23c624a84b9", null ],
+    [ "Register", "d9/d1b/a22813.html#a6fb7aec222f9282b0300b0d2f309d47e", null ]
 ];

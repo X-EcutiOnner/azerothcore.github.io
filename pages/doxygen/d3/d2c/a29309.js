@@ -1,13 +1,10 @@
 var a29309 =
 [
-    [ "AcquireMethod", "d3/d2c/a29309.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
-    [ "ClassMask", "d3/d2c/a29309.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
-    [ "ID", "d3/d2c/a29309.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
-    [ "MinSkillLineRank", "d3/d2c/a29309.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
-    [ "RaceMask", "d3/d2c/a29309.html#acfd38780584b90ca40a1e1cd59605832", null ],
-    [ "SkillLine", "d3/d2c/a29309.html#a0050dcf5c82f785dfc93079debe54a13", null ],
-    [ "Spell", "d3/d2c/a29309.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
-    [ "SupercededBySpell", "d3/d2c/a29309.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
-    [ "TrivialSkillLineRankHigh", "d3/d2c/a29309.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
-    [ "TrivialSkillLineRankLow", "d3/d2c/a29309.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
+    [ "SetUp", "d3/d2c/a29309.html#a577c64b32e7d6e1055f23a9204a9dc9d", null ],
+    [ "TearDown", "d3/d2c/a29309.html#a154bc25a4e054558748b5599b56de11f", null ],
+    [ "_creatureA", "d3/d2c/a29309.html#a95e6c0f1f7a8692ec255c052b40416df", null ],
+    [ "_creatureB", "d3/d2c/a29309.html#af5d64516264eeb9f1acadeeba44b79c2", null ],
+    [ "_map", "d3/d2c/a29309.html#ada2e0d28b42465ea6f7c8de71142efd0", null ],
+    [ "_previousWorld", "d3/d2c/a29309.html#a2805a828f7a7c92845f7c712b90af381", null ],
+    [ "_worldMock", "d3/d2c/a29309.html#ab8d82db4b26a11e286ec603c63ea1613", null ]
 ];

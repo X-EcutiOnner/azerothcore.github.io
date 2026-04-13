@@ -1,6 +1,6 @@
 var a16997 =
 [
-    [ "npc_toc_pet_hunterAI", "de/dce/a17001.html", "de/dce/a17001" ],
-    [ "npc_toc_pet_hunter", "d2/d61/a16997.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
-    [ "GetAI", "d2/d61/a16997.html#a9febc3086b0627324277f45d49cdd03f", null ]
+    [ "HandleScript", "d2/d61/a16997.html#a4786e0c38f03f7e671174d0641526681", null ],
+    [ "PrepareSpellScript", "d2/d61/a16997.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
+    [ "Register", "d2/d61/a16997.html#a943117bfb56b846e99d04bd9a348af8d", null ]
 ];

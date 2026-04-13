@@ -1,5 +1,9 @@
 var a28245 =
 [
-    [ "go_sacred_fire_of_life", "dc/d0c/a28245.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "dc/d0c/a28245.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "npc_arcanite_dragonling", "dc/d0c/a28245.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "dc/d0c/a28245.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "dc/d0c/a28245.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "dc/d0c/a28245.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "dc/d0c/a28245.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "dc/d0c/a28245.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

@@ -1,6 +1,5 @@
 var a20885 =
 [
-    [ "boss_yoggsaron_death_orb", "d4/dcc/a20885.html#aad626ea1576dc2efe2d228e4919de393", null ],
-    [ "UpdateAI", "d4/dcc/a20885.html#a9557c25da8cfdc6b7e62ff9b2b78714b", null ],
-    [ "_startTimer", "d4/dcc/a20885.html#a272b6b4c6c8f1f9fed933b9e1fd6f749", null ]
+    [ "go_palehoof_sphere", "d4/dcc/a20885.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
+    [ "OnGossipHello", "d4/dcc/a20885.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
 ];

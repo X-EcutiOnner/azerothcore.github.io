@@ -1,8 +1,6 @@
 var a22033 =
 [
-    [ "npc_llod_genericAI", "d4/df8/a22033.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d4/df8/a22033.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d4/df8/a22033.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d4/df8/a22033.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d4/df8/a22033.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "HandleSummon", "d4/df8/a22033.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "d4/df8/a22033.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "d4/df8/a22033.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

@@ -1,6 +1,8 @@
 var a11745 =
 [
-    [ "HitHandler", "d7/d23/a11745.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
-    [ "Call", "d7/d23/a11745.html#a157baaa3ceba62a9910cba5377bd7699", null ],
-    [ "pHitHandlerScript", "d7/d23/a11745.html#ac24144e49930a01a3049740a4072f626", null ]
+    [ "target_mapId", "d7/d23/a11745.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "d7/d23/a11745.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "d7/d23/a11745.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "d7/d23/a11745.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "d7/d23/a11745.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

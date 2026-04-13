@@ -1,7 +1,8 @@
 var a10069 =
 [
-    [ "ownerGUID", "dc/db9/a10069.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "dc/db9/a10069.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "dc/db9/a10069.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "dc/db9/a10069.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "EllipseBoundary", "dc/db9/a10069.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "dc/db9/a10069.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "dc/db9/a10069.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "dc/db9/a10069.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "dc/db9/a10069.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

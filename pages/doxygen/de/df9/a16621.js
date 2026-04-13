@@ -1,7 +1,6 @@
 var a16621 =
 [
-    [ "HandleScriptEffect", "de/df9/a16621.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "de/df9/a16621.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "de/df9/a16621.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "de/df9/a16621.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "boss_anubarak_trialAI", "d8/dfe/a16625.html", "d8/dfe/a16625" ],
+    [ "boss_anubarak_trial", "de/df9/a16621.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "de/df9/a16621.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

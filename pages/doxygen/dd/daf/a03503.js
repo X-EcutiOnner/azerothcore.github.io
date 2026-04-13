@@ -1,17 +1,57 @@
 var a03503 =
 [
-    [ "Arena", "d1/dd7/a07498.html", "d1/dd7/a07498" ],
-    [ "ArenaBroadcastTexts", "dd/daf/a03503.html#a407f2036481e3d9e2def3daa50546c71", [
-      [ "ARENA_TEXT_START_ONE_MINUTE", "dd/daf/a03503.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
-      [ "ARENA_TEXT_START_THIRTY_SECONDS", "dd/daf/a03503.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
-      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "dd/daf/a03503.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
-      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "dd/daf/a03503.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
+    [ "OPvPCapturePointEP_EWT", "dd/d59/a22117.html", "dd/d59/a22117" ],
+    [ "OPvPCapturePointEP_NPT", "d8/dc5/a22121.html", "d8/dc5/a22121" ],
+    [ "OPvPCapturePointEP_CGT", "d1/d49/a22125.html", "d1/d49/a22125" ],
+    [ "OPvPCapturePointEP_PWT", "d5/dd0/a22129.html", "d5/dd0/a22129" ],
+    [ "OutdoorPvPEP", "d1/dbd/a22133.html", "d1/dbd/a22133" ],
+    [ "EP_GoSummons", "dd/daf/a03503.html#a0b5226d66242870e9f2bd6067ac871da", [
+      [ "EP_NPT_BUFF", "dd/daf/a03503.html#a0b5226d66242870e9f2bd6067ac871daabd6b57d3cd665b36305c0aac5f5721d0", null ],
+      [ "EP_NPT_FLAGS", "dd/daf/a03503.html#a0b5226d66242870e9f2bd6067ac871daa161f6913680b58a1eabe5ebbc4893cd9", null ],
+      [ "EP_EWT_FLAGS", "dd/daf/a03503.html#a0b5226d66242870e9f2bd6067ac871daa4c73d6edbab9874b66f52c45839132a0", null ],
+      [ "EP_CGT_FLAGS", "dd/daf/a03503.html#a0b5226d66242870e9f2bd6067ac871daa59ab547c79765b3a7d9bd772721ecdcc", null ],
+      [ "EP_PWT_FLAGS", "dd/daf/a03503.html#a0b5226d66242870e9f2bd6067ac871daaccecd1b4caaa55e2c67bfe71db5c3e3d", null ]
     ] ],
-    [ "ArenaSpellIds", "dd/daf/a03503.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
-      [ "SPELL_ALLIANCE_GOLD_FLAG", "dd/daf/a03503.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
-      [ "SPELL_ALLIANCE_GREEN_FLAG", "dd/daf/a03503.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
-      [ "SPELL_HORDE_GOLD_FLAG", "dd/daf/a03503.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
-      [ "SPELL_HORDE_GREEN_FLAG", "dd/daf/a03503.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
-      [ "SPELL_LAST_MAN_STANDING", "dd/daf/a03503.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
-    ] ]
+    [ "EP_Summons", "dd/daf/a03503.html#ad9bf5a52eb45ee872984e5b5001e3847", [
+      [ "EP_EWT_COMMANDER", "dd/daf/a03503.html#ad9bf5a52eb45ee872984e5b5001e3847a02e7088d225f255f315ccd7c0c3bfa9c", null ],
+      [ "EP_EWT_SOLDIER1", "dd/daf/a03503.html#ad9bf5a52eb45ee872984e5b5001e3847ac57e6293c6754a601a94375add313fd3", null ],
+      [ "EP_EWT_SOLDIER2", "dd/daf/a03503.html#ad9bf5a52eb45ee872984e5b5001e3847a692d9c882b6949c9954095e18bcbaaf7", null ],
+      [ "EP_EWT_SOLDIER3", "dd/daf/a03503.html#ad9bf5a52eb45ee872984e5b5001e3847ac9c561614a0184c10a0f92efe3e49ddc", null ],
+      [ "EP_EWT_SOLDIER4", "dd/daf/a03503.html#ad9bf5a52eb45ee872984e5b5001e3847a6f60ef02c8ecf993fde2ce5cb1dc281d", null ],
+      [ "EP_PWT_FLIGHTMASTER", "dd/daf/a03503.html#ad9bf5a52eb45ee872984e5b5001e3847a1a3531875652cba7423a81d95710bc89", null ]
+    ] ],
+    [ "EP_Towers", "dd/daf/a03503.html#acb017cec20a6986c80544c74f4755313", [
+      [ "EP_EWT", "dd/daf/a03503.html#acb017cec20a6986c80544c74f4755313a886963cebfd5423ed826003d66282535", null ],
+      [ "EP_NPT", "dd/daf/a03503.html#acb017cec20a6986c80544c74f4755313a325af9e8b22e4a01e1c6e1c2e98de869", null ],
+      [ "EP_PWT", "dd/daf/a03503.html#acb017cec20a6986c80544c74f4755313a03b88e9657ca925556db1d3e7b6d253e", null ],
+      [ "EP_CGT", "dd/daf/a03503.html#acb017cec20a6986c80544c74f4755313a7cb411796051126f28519def8023bdda", null ],
+      [ "EP_TOWER_NUM", "dd/daf/a03503.html#acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73", null ]
+    ] ],
+    [ "EP_TowerStates", "dd/daf/a03503.html#a803bc1884225e56dd663001b104aeb2c", [
+      [ "EP_TS_N", "dd/daf/a03503.html#a803bc1884225e56dd663001b104aeb2ca114ce72e85bdab2aa278d07a3ed6f86c", null ],
+      [ "EP_TS_N_A", "dd/daf/a03503.html#a803bc1884225e56dd663001b104aeb2ca374de4c147a53afd1e446644329ca589", null ],
+      [ "EP_TS_N_H", "dd/daf/a03503.html#a803bc1884225e56dd663001b104aeb2ca3b9fcbaa216c28e21276e608aa77aee7", null ],
+      [ "EP_TS_A_P", "dd/daf/a03503.html#a803bc1884225e56dd663001b104aeb2caff0b067d2f9e15a88447d855c711afcf", null ],
+      [ "EP_TS_H_P", "dd/daf/a03503.html#a803bc1884225e56dd663001b104aeb2ca6f356a7dbe409b3f8fa98e0e30f17866", null ],
+      [ "EP_TS_A", "dd/daf/a03503.html#a803bc1884225e56dd663001b104aeb2ca19f979dcdacbc0d3bb1c4babb4fcbdf0", null ],
+      [ "EP_TS_H", "dd/daf/a03503.html#a803bc1884225e56dd663001b104aeb2cab9edf90a3d5c3e17ecb71fe92672e57b", null ]
+    ] ],
+    [ "EP_AllianceBuffs", "dd/daf/a03503.html#a39190e48b2170e2d0d0628b06d6da8f1", null ],
+    [ "EP_CGT_CM", "dd/daf/a03503.html#a4eb66c50d410c58b22546406eda37e5f", null ],
+    [ "EP_EWT_CM", "dd/daf/a03503.html#a9bf83dc59a4ca7a56297e572ee782e9e", null ],
+    [ "EP_EWT_NUM_CREATURES", "dd/daf/a03503.html#aa62021ba8da0171188d5327cade2d79c", null ],
+    [ "EP_EWT_Summons_A", "dd/daf/a03503.html#a13c9b3f39108790585875365648e6a51", null ],
+    [ "EP_EWT_Summons_H", "dd/daf/a03503.html#adae054ab5e44ffc0c7a528c417aff670", null ],
+    [ "EP_GraveyardId", "dd/daf/a03503.html#a1751b41516eaecd46b28e8a1f80c6f07", null ],
+    [ "EP_GraveyardZone", "dd/daf/a03503.html#a3b7f1cd13477df42bd29e674cb329ad4", null ],
+    [ "EP_HordeBuffs", "dd/daf/a03503.html#a870abed831404a02d171e9cf1bd741cb", null ],
+    [ "EP_NPT_CM", "dd/daf/a03503.html#aad6c6d1e803fa77420b7d8bc5450975a", null ],
+    [ "EP_NPT_LordaeronShrine", "dd/daf/a03503.html#ab95dc19577389e3d84821796921e3cc1", null ],
+    [ "EP_NUM_CREATURES", "dd/daf/a03503.html#a60340c7ab3a1dd51078336de7759f588", null ],
+    [ "EP_PWT_CM", "dd/daf/a03503.html#a25cbe7281f91d6a29b183f97340385ef", null ],
+    [ "EP_PWT_FlightMaster", "dd/daf/a03503.html#ab9af729b1e6ed3b993d963037395a531", null ],
+    [ "EPBuffZones", "dd/daf/a03503.html#a2acf7be696695ceaa968a2eac356e562", null ],
+    [ "EPBuffZonesNum", "dd/daf/a03503.html#a8e411865d0acd6cd6c6f10172adf4ad4", null ],
+    [ "EPCapturePoints", "dd/daf/a03503.html#a45924b22012276ef73ca0a50fa786e52", null ],
+    [ "EPTowerFlags", "dd/daf/a03503.html#af18f636f66cc238611a1f2dd03b2ddcb", null ]
 ];

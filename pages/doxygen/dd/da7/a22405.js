@@ -1,5 +1,7 @@
 var a22405 =
 [
-    [ "achievement_wg_vehicular_gnomeslaughter", "dd/da7/a22405.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
-    [ "OnCheck", "dd/da7/a22405.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
+    [ "OnPeriodic", "dd/da7/a22405.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
+    [ "PrepareAuraScript", "dd/da7/a22405.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
+    [ "Register", "dd/da7/a22405.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
+    [ "Validate", "dd/da7/a22405.html#a006d67e9e82cce68930b90b00d3555a4", null ]
 ];

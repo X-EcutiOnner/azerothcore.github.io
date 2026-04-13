@@ -1,12 +1,11 @@
 var a23097 =
 [
-    [ "boss_fathomguard_sharkkis", "d6/d5f/a23097.html#affc3a4422ce62311879bef6df104c9b9", null ],
-    [ "EnterEvadeMode", "d6/d5f/a23097.html#a344072e382566575168cdcf57d0f6481", null ],
-    [ "JustDied", "d6/d5f/a23097.html#a1a4fdf91f6d8d0e3e0672e174152a59d", null ],
-    [ "JustEngagedWith", "d6/d5f/a23097.html#a5724db6f55f1c5ed2e351603a1b26943", null ],
-    [ "JustSummoned", "d6/d5f/a23097.html#a31098d1e91412b797663fe677114af20", null ],
-    [ "Reset", "d6/d5f/a23097.html#a5d8b89e2d4a203df5ec574b96df0d489", null ],
-    [ "UpdateAI", "d6/d5f/a23097.html#ab71689fda10d6d31dd2bfc72026bd755", null ],
-    [ "_instance", "d6/d5f/a23097.html#ad3dc90987a8b01fcd55799f66d18906c", null ],
-    [ "_summons", "d6/d5f/a23097.html#a73f887b3f829027fc336a8e4a9c5b963", null ]
+    [ "boss_gruul", "d6/d5f/a23097.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
+    [ "JustDied", "d6/d5f/a23097.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
+    [ "JustEngagedWith", "d6/d5f/a23097.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
+    [ "KilledUnit", "d6/d5f/a23097.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
+    [ "Reset", "d6/d5f/a23097.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
+    [ "UpdateAI", "d6/d5f/a23097.html#a3503b84f4fb896d439ccd49a997e4087", null ],
+    [ "_caveInTimer", "d6/d5f/a23097.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
+    [ "_recentlySpoken", "d6/d5f/a23097.html#a411ec67153dd4715eb397a420c45bb12", null ]
 ];

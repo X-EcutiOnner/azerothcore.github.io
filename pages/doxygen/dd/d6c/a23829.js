@@ -1,6 +1,8 @@
 var a23829 =
 [
-    [ "HandlePeriodic", "dd/d6c/a23829.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
-    [ "PrepareAuraScript", "dd/d6c/a23829.html#a75d72d196ded2ee109d0231d4342890a", null ],
-    [ "Register", "dd/d6c/a23829.html#a148013ea68bbc573bddc1c3639dba019", null ]
+    [ "CreatureId", "dd/d6c/a23829.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "dd/d6c/a23829.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "dd/d6c/a23829.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "dd/d6c/a23829.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "dd/d6c/a23829.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

@@ -1,6 +1,7 @@
 var a24949 =
 [
-    [ "HandleScript", "d2/d86/a24949.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "d2/d86/a24949.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "d2/d86/a24949.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "PrepareSpellScript", "d2/d86/a24949.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "d2/d86/a24949.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "d2/d86/a24949.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "d2/d86/a24949.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

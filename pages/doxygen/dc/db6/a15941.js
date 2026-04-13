@@ -1,7 +1,6 @@
 var a15941 =
 [
-    [ "HandleEffectPeriodic", "dc/db6/a15941.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "dc/db6/a15941.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "dc/db6/a15941.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "dc/db6/a15941.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npc_taskmaster_fizzuleAI", "da/d3b/a15945.html", "da/d3b/a15945" ],
+    [ "npc_taskmaster_fizzule", "dc/db6/a15941.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
+    [ "GetAI", "dc/db6/a15941.html#a6281de7424932fe6580ffefa199498d9", null ]
 ];

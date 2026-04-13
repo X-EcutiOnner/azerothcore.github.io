@@ -1,11 +1,7 @@
 var a17393 =
 [
-    [ "boss_frostsworn_generalAI", "d8/d2c/a17393.html#afd3e486cd9a0ac18d10675f40f7f6314", null ],
-    [ "EnterEvadeMode", "d8/d2c/a17393.html#a4f45facb49cb5c1a8b0565e87dccf50e", null ],
-    [ "JustDied", "d8/d2c/a17393.html#ac2653a5664c87045df16f2fdcf850edf", null ],
-    [ "JustEngagedWith", "d8/d2c/a17393.html#a64f2b0426491f1471c8cf653e94a2fa2", null ],
-    [ "Reset", "d8/d2c/a17393.html#a8333b3f2637f029de4182ca16e2fb634", null ],
-    [ "UpdateAI", "d8/d2c/a17393.html#aea65a8fab859db4396690d846d10f5a1", null ],
-    [ "events", "d8/d2c/a17393.html#a4e5c714486cdba1fc4a6db609d8b6a97", null ],
-    [ "pInstance", "d8/d2c/a17393.html#a01cc3db24e03600501b9980aa966ad7d", null ]
+    [ "HandleDummy", "d8/d2c/a17393.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
+    [ "PrepareSpellScript", "d8/d2c/a17393.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
+    [ "Register", "d8/d2c/a17393.html#a371073fb37337719115242fc8758026f", null ],
+    [ "Validate", "d8/d2c/a17393.html#ad5df08da54defc89a7a552c39de089c3", null ]
 ];

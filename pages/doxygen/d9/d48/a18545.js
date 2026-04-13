@@ -1,6 +1,7 @@
 var a18545 =
 [
-    [ "CheckProc", "d9/d48/a18545.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "d9/d48/a18545.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "d9/d48/a18545.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "PrepareSpellScript", "d9/d48/a18545.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "d9/d48/a18545.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "d9/d48/a18545.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "d9/d48/a18545.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

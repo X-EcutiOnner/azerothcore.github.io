@@ -1,6 +1,6 @@
 var a17573 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "db/d3c/a17577.html", "db/d3c/a17577" ],
-    [ "npc_pos_martin_or_gorkun_second", "df/dce/a17573.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
-    [ "GetAI", "df/dce/a17573.html#a180936e3bb98eb55d29ebd51350906c0", null ]
+    [ "boss_blood_queen_lana_thelAI", "db/d3c/a17577.html", "db/d3c/a17577" ],
+    [ "boss_blood_queen_lana_thel", "df/dce/a17573.html#a9f8fa906f01082caacd106abc2707b07", null ],
+    [ "GetAI", "df/dce/a17573.html#a7873efd945bdb24228866f639e32879b", null ]
 ];

@@ -1,10 +1,6 @@
 var a19613 =
 [
-    [ "boss_patchwerkAI", "d6/d76/a19613.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "d6/d76/a19613.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "d6/d76/a19613.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "d6/d76/a19613.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "d6/d76/a19613.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "d6/d76/a19613.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "d6/d76/a19613.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "npc_centrifuge_constructAI", "d8/d0e/a19617.html", "d8/d0e/a19617" ],
+    [ "npc_centrifuge_construct", "d6/d76/a19613.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "d6/d76/a19613.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

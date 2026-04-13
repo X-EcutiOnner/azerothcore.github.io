@@ -1,6 +1,7 @@
 var a23917 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d0/d84/a23921.html", "d0/d84/a23921" ],
-    [ "instance_mechanar", "d0/dc8/a23917.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "d0/dc8/a23917.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "HandleEffectRemove", "d0/dc8/a23917.html#a317c238b165ad331beb447ea5d0de7e1", null ],
+    [ "PrepareAuraScript", "d0/dc8/a23917.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
+    [ "Register", "d0/dc8/a23917.html#a13fdde1557249328306a57e159d821a7", null ],
+    [ "Validate", "d0/dc8/a23917.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
 ];

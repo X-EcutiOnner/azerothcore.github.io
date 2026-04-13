@@ -1,6 +1,7 @@
 var a04631 =
 [
-    [ "GenerateEnchSuffixFactor", "de/d65/a04631.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "de/d65/a04631.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "de/d65/a04631.html#a376fabf7bba54eaf928217f860f1c33b", null ]
+    [ "VMAP::MeshTriangle", "de/d6f/a05345.html", "de/d6f/a05345" ],
+    [ "VMAP::WmoLiquid", "d9/d67/a05349.html", "d9/d67/a05349" ],
+    [ "VMAP::GroupModel", "d9/d74/a05353.html", "d9/d74/a05353" ],
+    [ "VMAP::WorldModel", "df/d8b/a05357.html", "df/d8b/a05357" ]
 ];

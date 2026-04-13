@@ -1,9 +1,10 @@
 var a00749 =
 [
-    [ "TEST", "d5/de8/a00749.html#a7a11632378897367b979b12423a3f5dd", null ],
-    [ "TEST", "d5/de8/a00749.html#ac23831b7258f696b9e9a4972c42b5a4c", null ],
-    [ "TEST", "d5/de8/a00749.html#a5fcf85473a490662471938a1f773d6e2", null ],
-    [ "TEST", "d5/de8/a00749.html#a8ffadf8c8dbffb858cf2a925473d6bff", null ],
-    [ "TEST", "d5/de8/a00749.html#a23ac78cb09ef0a7b924b271ffefbc6a9", null ],
-    [ "TEST", "d5/de8/a00749.html#a9b7a926251db0fa2bd2678cee360e161", null ]
+    [ "CALL_ENABLED_BOOLEAN_HOOKS", "d5/de8/a00749.html#a6ed5893c246e1f2c46b3d33ef8729a64", null ],
+    [ "CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE", "d5/de8/a00749.html#a370083225ad9db5b05a730ce4fb26d2f", null ],
+    [ "CALL_ENABLED_HOOKS", "d5/de8/a00749.html#a9662d12a9f13490594165729108aa0b1", null ],
+    [ "ExecuteScript", "d5/de8/a00749.html#a80951f767a7c77417a671490893db073", null ],
+    [ "GetReturnAIScript", "d5/de8/a00749.html#aceff01aa3f5ab68a0253704ef30041df", null ],
+    [ "IsValidBoolScript", "d5/de8/a00749.html#a9dedac0cb410c9d87f0470ffd0eb6c66", null ],
+    [ "ReturnValidBool", "d5/de8/a00749.html#a670fda94f7e41c38816a1e12f9efec7c", null ]
 ];

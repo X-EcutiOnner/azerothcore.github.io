@@ -1,5 +1,7 @@
 var a25077 =
 [
-    [ "PrepareSpellScript", "dc/d04/a25077.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "dc/d04/a25077.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "HandleScript", "dc/d04/a25077.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
+    [ "PrepareSpellScript", "dc/d04/a25077.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
+    [ "Register", "dc/d04/a25077.html#a984b2af5268fbf294a0292502b8ddb44", null ],
+    [ "Validate", "dc/d04/a25077.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
 ];

@@ -1,7 +1,11 @@
 var a25049 =
 [
-    [ "HandleApply", "d3/d60/a25049.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
-    [ "HandlePeriodicTimer", "d3/d60/a25049.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
-    [ "PrepareAuraScript", "d3/d60/a25049.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
-    [ "Register", "d3/d60/a25049.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
+    [ "spell_gen_consume", "d3/d60/a25049.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
+    [ "AfterRemove", "d3/d60/a25049.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
+    [ "HandleProc", "d3/d60/a25049.html#af69251aa0415a2148162f32dd9113917", null ],
+    [ "PrepareAuraScript", "d3/d60/a25049.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
+    [ "Register", "d3/d60/a25049.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
+    [ "Validate", "d3/d60/a25049.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
+    [ "_spellId1", "d3/d60/a25049.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
+    [ "_spellId2", "d3/d60/a25049.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
 ];

@@ -1,14 +1,20 @@
 var a12557 =
 [
-    [ "boss_mor_grayhoof", "d4/db0/a12557.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "d4/db0/a12557.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "d4/db0/a12557.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "d4/db0/a12557.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "d4/db0/a12557.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "d4/db0/a12557.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "d4/db0/a12557.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "d4/db0/a12557.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "d4/db0/a12557.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "d4/db0/a12557.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "d4/db0/a12557.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "boss_rend_blackhand", "d4/db0/a12557.html#a978a2a5262df73afa1e661b23c27a57a", null ],
+    [ "EnterEvadeMode", "d4/db0/a12557.html#a21ca0c54590356cc58675e71add93c3a", null ],
+    [ "IsSummonedBy", "d4/db0/a12557.html#aa9d1bfa716b0427d7f23578b8ca954e1", null ],
+    [ "JustDied", "d4/db0/a12557.html#a498218ab4298cdab728b8a5403d98de1", null ],
+    [ "JustEngagedWith", "d4/db0/a12557.html#a494550b92a25c99470c72697e87eff87", null ],
+    [ "JustSummoned", "d4/db0/a12557.html#aeebd94ed5b08587dfab88b8826f64173", null ],
+    [ "MovementInform", "d4/db0/a12557.html#ae8869425b1f03f6f430585d563de0b27", null ],
+    [ "Reset", "d4/db0/a12557.html#afcea6a09eabe661051fc58d5de9a3802", null ],
+    [ "SetData", "d4/db0/a12557.html#abe31d366de24aefd9c0c9c534494af11", null ],
+    [ "SummonedCreatureDespawn", "d4/db0/a12557.html#ae5a8775c0cf1ad5dee501a50a22e25f9", null ],
+    [ "SummonedCreatureDies", "d4/db0/a12557.html#a49d4011af4ee01ff3dc8708d0950b03b", null ],
+    [ "SummonWave", "d4/db0/a12557.html#a127365a60504f988bcd7bc1858e0fb94", null ],
+    [ "UpdateAI", "d4/db0/a12557.html#afdca704e8aca473986037ab2bc16194e", null ],
+    [ "_currentWave", "d4/db0/a12557.html#a9e4ffc20609e50188e0f5a552b164590", null ],
+    [ "_gythEvent", "d4/db0/a12557.html#a3699984d920375e9631105bf0a47469b", null ],
+    [ "_victorGUID", "d4/db0/a12557.html#a8337c912349eb2798c33fd5794a28437", null ],
+    [ "_waveDoorGUID", "d4/db0/a12557.html#a5a4085439515aeed3f3f6aba0764ba68", null ]
 ];

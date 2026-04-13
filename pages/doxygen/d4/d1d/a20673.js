@@ -1,5 +1,8 @@
 var a20673 =
 [
-    [ "achievement_mimiron_firefighter", "d4/d1d/a20673.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
-    [ "OnCheck", "d4/d1d/a20673.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
+    [ "FilterTargets", "d4/d1d/a20673.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
+    [ "HandleDummyEffect", "d4/d1d/a20673.html#afbf3aab6724d12426ab0197fb9459562", null ],
+    [ "PrepareSpellScript", "d4/d1d/a20673.html#a7ec441904bc100c6b15ee219617489ff", null ],
+    [ "Register", "d4/d1d/a20673.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
+    [ "Validate", "d4/d1d/a20673.html#a85388adbc15d449e687f9f463cce3833", null ]
 ];

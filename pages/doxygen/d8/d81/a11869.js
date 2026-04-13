@@ -1,8 +1,6 @@
 var a11869 =
 [
-    [ "CreatureTextId", "d8/d81/a11869.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "d8/d81/a11869.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "d8/d81/a11869.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "d8/d81/a11869.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "d8/d81/a11869.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "EffectCalcSpellModHandler", "d8/d81/a11869.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "d8/d81/a11869.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "d8/d81/a11869.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

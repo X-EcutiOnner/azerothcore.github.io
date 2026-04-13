@@ -1,6 +1,8 @@
 var a25849 =
 [
-    [ "OnRemove", "df/d6a/a25849.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "df/d6a/a25849.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "df/d6a/a25849.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "CheckQuest", "df/d6a/a25849.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "df/d6a/a25849.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "df/d6a/a25849.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "df/d6a/a25849.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "df/d6a/a25849.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

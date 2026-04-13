@@ -1,9 +1,15 @@
 var a13961 =
 [
-    [ "spell_sunwell_teleport", "da/d9d/a13961.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
-    [ "HandleScript", "da/d9d/a13961.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
-    [ "PrepareSpellScript", "da/d9d/a13961.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
-    [ "Register", "da/d9d/a13961.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
-    [ "Validate", "da/d9d/a13961.html#a351a2beced058f9354515baa38b0292e", null ],
-    [ "_triggeredSpellId", "da/d9d/a13961.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
+    [ "npc_deathstalker_fearleia", "da/d9d/a13961.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
+    [ "JustDied", "da/d9d/a13961.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
+    [ "JustEngagedWith", "da/d9d/a13961.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
+    [ "JustSummoned", "da/d9d/a13961.html#a8ef363de7292d366eea128b55b1acaeb", null ],
+    [ "Reset", "da/d9d/a13961.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
+    [ "sQuestAccept", "da/d9d/a13961.html#a5da116182685dfac72139b40266f2884", null ],
+    [ "SummonCreatureWithRandomTarget", "da/d9d/a13961.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
+    [ "SummonedCreatureDespawn", "da/d9d/a13961.html#a36415976d5ae2034578581bdec183f33", null ],
+    [ "UpdateAI", "da/d9d/a13961.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
+    [ "_playerGUID", "da/d9d/a13961.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
+    [ "_questInProgress", "da/d9d/a13961.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
+    [ "_summons", "da/d9d/a13961.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
 ];

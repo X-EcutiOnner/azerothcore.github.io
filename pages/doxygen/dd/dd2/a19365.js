@@ -1,5 +1,6 @@
 var a19365 =
 [
-    [ "at_frozen_throne_teleport", "dd/dd2/a19365.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "dd/dd2/a19365.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "FilterTargets", "dd/dd2/a19365.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "dd/dd2/a19365.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "dd/dd2/a19365.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

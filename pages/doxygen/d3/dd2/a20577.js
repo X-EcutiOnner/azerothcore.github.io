@@ -1,6 +1,5 @@
 var a20577 =
 [
-    [ "OnRemoveStun", "d3/dd2/a20577.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "d3/dd2/a20577.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "d3/dd2/a20577.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "achievement_xt002_nerf_gravity_bombs", "d3/dd2/a20577.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
+    [ "OnCheck", "d3/dd2/a20577.html#a03f61470694399ab32aea354cd697771", null ]
 ];

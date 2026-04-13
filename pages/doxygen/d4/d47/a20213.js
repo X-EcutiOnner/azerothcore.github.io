@@ -1,5 +1,7 @@
 var a20213 =
 [
-    [ "achievement_auriaya_nine_lives", "d4/d47/a20213.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "d4/d47/a20213.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "HandleEffectPeriodic", "d4/d47/a20213.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "d4/d47/a20213.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "d4/d47/a20213.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "d4/d47/a20213.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

@@ -1,5 +1,6 @@
 var a17093 =
 [
-    [ "boss_eydisAI", "d6/d91/a17093.html#a0e97e184b2a2f610730cd3d455702955", null ],
-    [ "JustSummoned", "d6/d91/a17093.html#aa5ae64cfe003a25859364a12cb871199", null ]
+    [ "instance_forge_of_souls_InstanceScript", "dc/de6/a17097.html", "dc/de6/a17097" ],
+    [ "instance_forge_of_souls", "d6/d91/a17093.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "d6/d91/a17093.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

@@ -1,6 +1,6 @@
 var a26861 =
 [
-    [ "HandleAfterHit", "dd/d66/a26861.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "dd/d66/a26861.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "dd/d66/a26861.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "ModDest", "dd/d66/a26861.html#ab03387aec0a02a6b3bac1014443554b6", null ],
+    [ "PrepareSpellScript", "dd/d66/a26861.html#a53f7da301759fb18686bc73281c4a321", null ],
+    [ "Register", "dd/d66/a26861.html#a266198fbc6203517f9845ef6212ddf13", null ]
 ];

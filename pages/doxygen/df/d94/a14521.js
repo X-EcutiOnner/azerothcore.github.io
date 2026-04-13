@@ -1,7 +1,9 @@
 var a14521 =
 [
-    [ "HandleScriptEffect", "df/d94/a14521.html#ace68732d578fbaeb2b209bfded88853a", null ],
-    [ "PrepareSpellScript", "df/d94/a14521.html#a42a69995e8f527a383e96e2ead832f72", null ],
-    [ "Register", "df/d94/a14521.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
-    [ "Validate", "df/d94/a14521.html#a7697caf8e5390d290b353fb6a291aa10", null ]
+    [ "CheckCast", "df/d94/a14521.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "df/d94/a14521.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "df/d94/a14521.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "df/d94/a14521.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "df/d94/a14521.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "df/d94/a14521.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

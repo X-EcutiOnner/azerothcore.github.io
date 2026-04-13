@@ -1,16 +1,16 @@
 var a29117 =
 [
-    [ "CanBeSetAtWar", "dc/d4a/a29117.html#ae165dc23f25386eb086e1fa2cb820153", null ],
-    [ "CanHaveReputation", "dc/d4a/a29117.html#ab3da6918e197c1098a932418d5c51799", null ],
-    [ "BaseRepClassMask", "dc/d4a/a29117.html#ae73655de567de3766fcb3bbfb7f9eed3", null ],
-    [ "BaseRepRaceMask", "dc/d4a/a29117.html#aa8e1c08416d07882af7075fbb020ae5a", null ],
-    [ "BaseRepValue", "dc/d4a/a29117.html#a52f0753d1e1e69a4994eb6b1eab6824c", null ],
-    [ "ID", "dc/d4a/a29117.html#a1953f7a343201113dae80cdd97e1ac90", null ],
-    [ "name", "dc/d4a/a29117.html#ad9d326ed1aac5ea66825775665dfea00", null ],
-    [ "ReputationFlags", "dc/d4a/a29117.html#ae23a3c94554b2043928d6e1ea748e709", null ],
-    [ "reputationListID", "dc/d4a/a29117.html#aee99121c2d7298e16540229923391aee", null ],
-    [ "spilloverMaxRankIn", "dc/d4a/a29117.html#a14cea5365f14880850e788ba328d0c8e", null ],
-    [ "spilloverRateIn", "dc/d4a/a29117.html#a7a72bc65fb3fe76ffa1d072800c5daed", null ],
-    [ "spilloverRateOut", "dc/d4a/a29117.html#a7cea150843bf48277aa9cc917d210fcb", null ],
-    [ "team", "dc/d4a/a29117.html#a6210fabf2688f26a0a0050f6c148485d", null ]
+    [ "GetAddressForClient", "dc/d4a/a29117.html#a2a3f3db57bb7e6f69ca4f030b65c7331", null ],
+    [ "AllowedSecurityLevel", "dc/d4a/a29117.html#a25e953d80aa3c80e068afe6b57f67d99", null ],
+    [ "Build", "dc/d4a/a29117.html#a64533e919d8c3a37bd5668af77d09166", null ],
+    [ "ExternalAddress", "dc/d4a/a29117.html#a703504aaf54f1ecf934b9184e9737367", null ],
+    [ "Flags", "dc/d4a/a29117.html#a1984cc9564b01b6456f31f77fd65a6d6", null ],
+    [ "Id", "dc/d4a/a29117.html#ab0ccda7e7a58eee0965261767f3ee2ee", null ],
+    [ "LocalAddress", "dc/d4a/a29117.html#a61f429ddc92895e66dff2808e17cc322", null ],
+    [ "LocalSubnetMask", "dc/d4a/a29117.html#a52a4b2704e7f76d8ea296148cefb9482", null ],
+    [ "Name", "dc/d4a/a29117.html#a9381717fdc924158ecd61a8f00488fc0", null ],
+    [ "PopulationLevel", "dc/d4a/a29117.html#a63cdbd47c50f368974b43c3db2f32cee", null ],
+    [ "Port", "dc/d4a/a29117.html#a0131d758f10cbae0c610c2c088299feb", null ],
+    [ "Timezone", "dc/d4a/a29117.html#a377055c4729f21beecb8601cd79017db", null ],
+    [ "Type", "dc/d4a/a29117.html#af77452a4cf7f632d692079615af4737c", null ]
 ];

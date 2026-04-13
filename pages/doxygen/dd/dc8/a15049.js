@@ -1,6 +1,12 @@
 var a15049 =
 [
-    [ "HandleScriptEffect", "dd/dc8/a15049.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
-    [ "PrepareSpellScript", "dd/dc8/a15049.html#a55115ca986d5226588d168ced7ab1f55", null ],
-    [ "Register", "dd/dc8/a15049.html#ad8811bf48dfb564afcd82cf51b860255", null ]
+    [ "boss_mal_ganisAI", "dd/dc8/a15049.html#aa8b70930372cd0729686f7c6032d3152", null ],
+    [ "DamageTaken", "dd/dc8/a15049.html#a4873386266ce3b4b849377028ff746a5", null ],
+    [ "JustDied", "dd/dc8/a15049.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
+    [ "JustEngagedWith", "dd/dc8/a15049.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
+    [ "KilledUnit", "dd/dc8/a15049.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
+    [ "Reset", "dd/dc8/a15049.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
+    [ "UpdateAI", "dd/dc8/a15049.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
+    [ "events", "dd/dc8/a15049.html#a194c002efe244b8c94a072faf72be771", null ],
+    [ "finished", "dd/dc8/a15049.html#ac4c90c814aa55781f863c958253e9df2", null ]
 ];

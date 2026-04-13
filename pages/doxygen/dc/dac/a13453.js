@@ -1,8 +1,5 @@
 var a13453 =
 [
-    [ "HandleDummy", "dc/dac/a13453.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "dc/dac/a13453.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "dc/dac/a13453.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "dc/dac/a13453.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "dc/dac/a13453.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_apothecary_frye", "dc/dac/a13453.html#a5546099958a9a267d237e65720588456", null ],
+    [ "JustDied", "dc/dac/a13453.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
 ];

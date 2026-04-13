@@ -1,6 +1,8 @@
 var a12221 =
 [
-    [ "player_settings_commandscript", "d1/d20/a12221.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "d1/d20/a12221.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "d1/d20/a12221.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "honor_commandscript", "d1/d20/a12221.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
+    [ "GetCommands", "d1/d20/a12221.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
+    [ "HandleHonorAddCommand", "d1/d20/a12221.html#a03caa77b436e3d513e1325badf05df33", null ],
+    [ "HandleHonorAddKillCommand", "d1/d20/a12221.html#aec79f459796d821a032477827e16308a", null ],
+    [ "HandleHonorUpdateCommand", "d1/d20/a12221.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
 ];

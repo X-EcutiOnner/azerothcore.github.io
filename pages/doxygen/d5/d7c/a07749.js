@@ -1,20 +1,14 @@
 var a07749 =
 [
-    [ "ChannelMap", "d5/d7c/a07749.html#a84c686f095464d67f750309244a47ba5", null ],
-    [ "ChannelRightsMap", "d5/d7c/a07749.html#a4e153c81aede8182160b0a5ab89e5b4b", null ],
-    [ "ChannelMgr", "d5/d7c/a07749.html#aa671334be6933f374466666ec5c6cc46", null ],
-    [ "~ChannelMgr", "d5/d7c/a07749.html#a2f9099cf528aacae9110d349841e57a7", null ],
-    [ "forTeam", "d5/d7c/a07749.html#a62fd837572c3c88d8848115c98587401", null ],
-    [ "GetChannel", "d5/d7c/a07749.html#a89dbd4095eeeb79ae59947beb2d2cd17", null ],
-    [ "GetChannelRightsFor", "d5/d7c/a07749.html#a5cc03c09dfc33a89d3d4f59d1e92d757", null ],
-    [ "GetJoinChannel", "d5/d7c/a07749.html#a92540d37b38ccc032665fa220349a4ec", null ],
-    [ "LoadChannelRights", "d5/d7c/a07749.html#a4fa043d2c61f5013d62b192d46bd453a", null ],
-    [ "LoadChannels", "d5/d7c/a07749.html#a73e822c758aacb7f959407b100b9aff6", null ],
-    [ "MakeNotOnPacket", "d5/d7c/a07749.html#ae85b95eac40037d5066efa17fb484bc5", null ],
-    [ "SetChannelRightsFor", "d5/d7c/a07749.html#a1d672ab806b5e00bdd96d3a56fe3520b", null ],
-    [ "_channelIdMax", "d5/d7c/a07749.html#a41bbe928d2e50c899a10b4b7da0e1a68", null ],
-    [ "_teamId", "d5/d7c/a07749.html#a1ac5de545c0cb91088176fae883748ed", null ],
-    [ "channelRightsEmpty", "d5/d7c/a07749.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9", null ],
-    [ "channels", "d5/d7c/a07749.html#a823810bd463e51a0fb007712717f13dd", null ],
-    [ "channels_rights", "d5/d7c/a07749.html#adfc7c2e0156b2dc290c1c0f307a6911f", null ]
+    [ "AccountId", "d5/d7c/a07749.html#ae1921d1e949cec70ebbd52779b775df6", null ],
+    [ "ArenaTeamId", "d5/d7c/a07749.html#a1d094e514af9970b0239cc8e27da06bc", null ],
+    [ "Class", "d5/d7c/a07749.html#a19dbbbdce9dbf9993d57edbebeeaf425", null ],
+    [ "GroupGuid", "d5/d7c/a07749.html#a4b6f5540de2e47959a053696698e8e05", null ],
+    [ "Guid", "d5/d7c/a07749.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532", null ],
+    [ "GuildId", "d5/d7c/a07749.html#a4fba749bb66642a1601c5cb37c756222", null ],
+    [ "Level", "d5/d7c/a07749.html#a41ea77c9e690336b709259bfccbd939f", null ],
+    [ "MailCount", "d5/d7c/a07749.html#a8a74e276dec82ac3f2950b8637ed9213", null ],
+    [ "Name", "d5/d7c/a07749.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b", null ],
+    [ "Race", "d5/d7c/a07749.html#aa57c5abbbd7218d26e4156b310229766", null ],
+    [ "Sex", "d5/d7c/a07749.html#a91c17eef26be0a18823a9834853c296a", null ]
 ];

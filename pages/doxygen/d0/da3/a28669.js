@@ -1,7 +1,7 @@
 var a28669 =
 [
-    [ "npc_flameshocker", "d0/da3/a28669.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "d0/da3/a28669.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "d0/da3/a28669.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "d0/da3/a28669.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "Class", "d0/da3/a28669.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d0/da3/a28669.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d0/da3/a28669.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d0/da3/a28669.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

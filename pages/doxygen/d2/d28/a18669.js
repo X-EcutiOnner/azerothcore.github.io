@@ -1,6 +1,6 @@
 var a18669 =
 [
-    [ "VileSpiritActivateEvent", "d2/d28/a18669.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
-    [ "Execute", "d2/d28/a18669.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
-    [ "_owner", "d2/d28/a18669.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
+    [ "boss_valithria_dreamwalkerAI", "df/d30/a18673.html", "df/d30/a18673" ],
+    [ "boss_valithria_dreamwalker", "d2/d28/a18669.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
+    [ "GetAI", "d2/d28/a18669.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
 ];

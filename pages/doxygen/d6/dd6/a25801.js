@@ -1,6 +1,6 @@
 var a25801 =
 [
-    [ "OnBaseRemove", "d6/dd6/a25801.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "PrepareAuraScript", "d6/dd6/a25801.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "d6/dd6/a25801.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "HandleScriptEffect", "d6/dd6/a25801.html#a14df2ed73118826254a6ffa923063f6c", null ],
+    [ "PrepareSpellScript", "d6/dd6/a25801.html#a1b20ba3fe209ebf0100f32d4013f2d08", null ],
+    [ "Register", "d6/dd6/a25801.html#ac70a96209898dc6f2c7b2532dc9f5e6c", null ]
 ];

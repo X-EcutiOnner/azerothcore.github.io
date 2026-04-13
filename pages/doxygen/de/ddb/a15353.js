@@ -1,6 +1,6 @@
 var a15353 =
 [
-    [ "NpcRunToHome", "de/ddb/a15353.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
-    [ "Execute", "de/ddb/a15353.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
-    [ "_owner", "de/ddb/a15353.html#a7dd38171a6e55665fc28a74212313e51", null ]
+    [ "FilterTargets", "de/ddb/a15353.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
+    [ "PrepareSpellScript", "de/ddb/a15353.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
+    [ "Register", "de/ddb/a15353.html#a3168a3f97ddb38b261a0730405ba27db", null ]
 ];

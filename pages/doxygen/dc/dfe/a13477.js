@@ -1,11 +1,7 @@
 var a13477 =
 [
-    [ "npc_a_special_surpriseAI", "dc/dfe/a13477.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "dc/dfe/a13477.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "dc/dfe/a13477.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "dc/dfe/a13477.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "dc/dfe/a13477.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "dc/dfe/a13477.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "dc/dfe/a13477.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "dc/dfe/a13477.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "OnPeriodic", "dc/dfe/a13477.html#aa48b6f35302a8857465c6567f811dec6", null ],
+    [ "PrepareAuraScript", "dc/dfe/a13477.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
+    [ "Register", "dc/dfe/a13477.html#aa7708067531131738b86077638eda7ac", null ],
+    [ "Validate", "dc/dfe/a13477.html#a665698b54201184185d96bd33f53e584", null ]
 ];

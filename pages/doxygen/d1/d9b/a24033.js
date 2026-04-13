@@ -1,6 +1,9 @@
 var a24033 =
 [
-    [ "go_beaconAI", "d1/d9b/a24033.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d1/d9b/a24033.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "d1/d9b/a24033.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "npc_pet_gen_fetch_ball", "d1/d9b/a24033.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "d1/d9b/a24033.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "d1/d9b/a24033.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "d1/d9b/a24033.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "d1/d9b/a24033.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "d1/d9b/a24033.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

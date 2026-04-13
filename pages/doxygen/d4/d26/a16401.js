@@ -1,6 +1,7 @@
 var a16401 =
 [
-    [ "npc_anub_ar_crusher_crypt_fiend", "d4/d26/a16401.html#a89abbce738f115c26dae9dacb065cc3d", null ],
-    [ "DoEngagedWith", "d4/d26/a16401.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
-    [ "DoEvent", "d4/d26/a16401.html#a276eca6e65b32905f6919d49530ccc2f", null ]
+    [ "HandlePeriodic", "d4/d26/a16401.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
+    [ "PrepareAuraScript", "d4/d26/a16401.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
+    [ "Register", "d4/d26/a16401.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
+    [ "Validate", "d4/d26/a16401.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
 ];

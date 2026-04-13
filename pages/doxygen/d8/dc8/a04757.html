@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Object/Object.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/Containers.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,103 +105,78 @@ $(document).ready(function(){initNavTree('d8/dc8/a04757.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">Object.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">Containers.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Object.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Battlefield.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlefieldMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DynamicVisibility.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MiscPackets.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MovementPacketBuilder.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OutdoorPvPMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Physics.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">StringConvert.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TargetedMovementGenerator.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TemporarySummon.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Tokenize.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Totem.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UpdateData.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UpdateFieldFlags.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UpdateMask.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Vehicle.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Random.h</a>&quot;</code><br />
+<code>#include &lt;algorithm&gt;</code><br />
+<code>#include &lt;iterator&gt;</code><br />
+<code>#include &lt;stdexcept&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a6165c6736a6e152a38f7dea1aa2c956b"><td class="memItemLeft" align="right" valign="top">constexpr float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc8/a04757.html#a6165c6736a6e152a38f7dea1aa2c956b">VisibilityDistances</a> [<a class="el" href="../../d9/d10/a00449.html#aa9f8f55551b813f0996c6fd351a4e4be">AsUnderlyingType</a>(<a class="el" href="../../db/dc8/a04760.html#ae675d6469643e2aca0b1840013245a1da6a061313d22e51e0f25b7cd4dc065233">VisibilityDistanceType::Max</a>)]</td></tr>
-<tr class="separator:a6165c6736a6e152a38f7dea1aa2c956b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d30/a05721.html">Acore::CheckedBufferOutputIterator&lt; T &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d5/d66/a05016"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d66/a05016.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d8/d09/a05036"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d09/a05036.html">Acore::Containers</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:aa676a34e943f3ea366194be6f31da865"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:aa676a34e943f3ea366194be6f31da865"><td class="memTemplItemLeft" align="right" valign="top">constexpr T *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d66/a05016.html#aa676a34e943f3ea366194be6f31da865">Acore::AddressOrSelf</a> (T *ptr)</td></tr>
+<tr class="separator:aa676a34e943f3ea366194be6f31da865"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31c35cb4c5901c4bdb56be356d5ab9b3"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a31c35cb4c5901c4bdb56be356d5ab9b3"><td class="memTemplItemLeft" align="right" valign="top">constexpr T *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d66/a05016.html#a31c35cb4c5901c4bdb56be356d5ab9b3">Acore::AddressOrSelf</a> (T &amp;not_ptr)</td></tr>
+<tr class="separator:a31c35cb4c5901c4bdb56be356d5ab9b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8b2c621f5a22f8ae253a1c9733794b9"><td class="memTemplParams" colspan="2">template&lt;class C &gt; </td></tr>
+<tr class="memitem:ad8b2c621f5a22f8ae253a1c9733794b9"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d09/a05036.html#ad8b2c621f5a22f8ae253a1c9733794b9">Acore::Containers::RandomResize</a> (C &amp;container, std::size_t requestedSize)</td></tr>
+<tr class="separator:ad8b2c621f5a22f8ae253a1c9733794b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a356dc36492769fc1473e5f5214bd6a11"><td class="memTemplParams" colspan="2">template&lt;class C , class Predicate &gt; </td></tr>
+<tr class="memitem:a356dc36492769fc1473e5f5214bd6a11"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d09/a05036.html#a356dc36492769fc1473e5f5214bd6a11">Acore::Containers::RandomResize</a> (C &amp;container, Predicate &amp;&amp;predicate, std::size_t requestedSize)</td></tr>
+<tr class="separator:a356dc36492769fc1473e5f5214bd6a11"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ca673d18562735d4ed20a11519b3d46"><td class="memTemplParams" colspan="2">template&lt;class C &gt; </td></tr>
+<tr class="memitem:a8ca673d18562735d4ed20a11519b3d46"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d09/a05036.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a> (C const &amp;container) -&gt; typename std::add_const&lt; decltype(*std::begin(container))&gt;::type &amp;</td></tr>
+<tr class="separator:a8ca673d18562735d4ed20a11519b3d46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a2b0eddd5cd5b91e5dc86ca27f0bb86"><td class="memTemplParams" colspan="2">template&lt;class C , class Predicate &gt; </td></tr>
+<tr class="memitem:a1a2b0eddd5cd5b91e5dc86ca27f0bb86"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d09/a05036.html#a1a2b0eddd5cd5b91e5dc86ca27f0bb86">Acore::Containers::SelectRandomContainerElementIf</a> (C const &amp;container, Predicate &amp;&amp;predicate) -&gt; decltype(std::begin(container))</td></tr>
+<tr class="separator:a1a2b0eddd5cd5b91e5dc86ca27f0bb86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a220cb6c43559036273f478f15d047eb9"><td class="memTemplParams" colspan="2">template&lt;class C &gt; </td></tr>
+<tr class="memitem:a220cb6c43559036273f478f15d047eb9"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d09/a05036.html#a220cb6c43559036273f478f15d047eb9">Acore::Containers::SelectRandomWeightedContainerElement</a> (C const &amp;container, std::vector&lt; double &gt; weights) -&gt; decltype(std::begin(container))</td></tr>
+<tr class="separator:a220cb6c43559036273f478f15d047eb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e1de71c76e525a6fdf4c76b0d09c94b"><td class="memTemplParams" colspan="2">template&lt;class C , class Fn &gt; </td></tr>
+<tr class="memitem:a4e1de71c76e525a6fdf4c76b0d09c94b"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d09/a05036.html#a4e1de71c76e525a6fdf4c76b0d09c94b">Acore::Containers::SelectRandomWeightedContainerElement</a> (C const &amp;container, Fn weightExtractor) -&gt; decltype(std::begin(container))</td></tr>
+<tr class="separator:a4e1de71c76e525a6fdf4c76b0d09c94b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a288324cfca487d8ecc2eab8a6014c513"><td class="memTemplParams" colspan="2">template&lt;class M &gt; </td></tr>
+<tr class="memitem:a288324cfca487d8ecc2eab8a6014c513"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d09/a05036.html#a288324cfca487d8ecc2eab8a6014c513">Acore::Containers::MapGetValuePtr</a> (M &amp;map, typename M::key_type const &amp;key) -&gt; decltype(AddressOrSelf(map.find(key) -&gt;second))</td></tr>
+<tr class="separator:a288324cfca487d8ecc2eab8a6014c513"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4585a27b1f592547062d7bc039cff3b4"><td class="memTemplParams" colspan="2">template&lt;class C &gt; </td></tr>
+<tr class="memitem:a4585a27b1f592547062d7bc039cff3b4"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d09/a05036.html#a4585a27b1f592547062d7bc039cff3b4">Acore::Containers::RandomShuffle</a> (C &amp;container)</td></tr>
+<tr class="separator:a4585a27b1f592547062d7bc039cff3b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a965e5e257e71e0d1a8c708fbd00867a7"><td class="memTemplParams" colspan="2">template&lt;class K , class V , template&lt; class, class, class... &gt; class M, class... Rest&gt; </td></tr>
+<tr class="memitem:a965e5e257e71e0d1a8c708fbd00867a7"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d09/a05036.html#a965e5e257e71e0d1a8c708fbd00867a7">Acore::Containers::MultimapErasePair</a> (M&lt; K, V, Rest... &gt; &amp;multimap, K const &amp;key, V const &amp;value)</td></tr>
+<tr class="separator:a965e5e257e71e0d1a8c708fbd00867a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7821713bb3723db62da8a4d0e3711407"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d09/a05036.html#a7821713bb3723db62da8a4d0e3711407">Acore::Containers::EraseIf</a> (<a class="el" href="../../d3/da4/a01343.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;c, Predicate p)</td></tr>
+<tr class="separator:a7821713bb3723db62da8a4d0e3711407"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a6165c6736a6e152a38f7dea1aa2c956b" name="a6165c6736a6e152a38f7dea1aa2c956b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6165c6736a6e152a38f7dea1aa2c956b">&#9670;&#160;</a></span>VisibilityDistances</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr float VisibilityDistances[<a class="el" href="../../d9/d10/a00449.html#aa9f8f55551b813f0996c6fd351a4e4be">AsUnderlyingType</a>(<a class="el" href="../../db/dc8/a04760.html#ae675d6469643e2aca0b1840013245a1da6a061313d22e51e0f25b7cd4dc065233">VisibilityDistanceType::Max</a>)]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    <a class="code hl_define" href="../../db/dc8/a04760.html#a22c041da6769a0cb3ef89726dd33981d">DEFAULT_VISIBILITY_DISTANCE</a>,</div>
-<div class="line">    <a class="code hl_define" href="../../db/dc8/a04760.html#a3e2fbd681c4b511f283f7b4d429a5f80">VISIBILITY_DISTANCE_TINY</a>,</div>
-<div class="line">    <a class="code hl_define" href="../../db/dc8/a04760.html#ae57720dd4437b418bb332db290c71d45">VISIBILITY_DISTANCE_SMALL</a>,</div>
-<div class="line">    <a class="code hl_define" href="../../db/dc8/a04760.html#a2c7e0d3a0783990d50e50d41a916a595">VISIBILITY_DISTANCE_LARGE</a>,</div>
-<div class="line">    <a class="code hl_define" href="../../db/dc8/a04760.html#ac42804b48d734699eef6b8f584e2fb90">VISIBILITY_DISTANCE_GIGANTIC</a>,</div>
-<div class="line">    <a class="code hl_define" href="../../db/dc8/a04760.html#a383cb16bb626159d72cc6b5928429f90">VISIBILITY_DISTANCE_INFINITE</a></div>
-<div class="line">}</div>
-<div class="ttc" id="aa04760_html_a22c041da6769a0cb3ef89726dd33981d"><div class="ttname"><a href="../../db/dc8/a04760.html#a22c041da6769a0cb3ef89726dd33981d">DEFAULT_VISIBILITY_DISTANCE</a></div><div class="ttdeci">#define DEFAULT_VISIBILITY_DISTANCE</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:39</div></div>
-<div class="ttc" id="aa04760_html_a2c7e0d3a0783990d50e50d41a916a595"><div class="ttname"><a href="../../db/dc8/a04760.html#a2c7e0d3a0783990d50e50d41a916a595">VISIBILITY_DISTANCE_LARGE</a></div><div class="ttdeci">#define VISIBILITY_DISTANCE_LARGE</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:35</div></div>
-<div class="ttc" id="aa04760_html_a383cb16bb626159d72cc6b5928429f90"><div class="ttname"><a href="../../db/dc8/a04760.html#a383cb16bb626159d72cc6b5928429f90">VISIBILITY_DISTANCE_INFINITE</a></div><div class="ttdeci">#define VISIBILITY_DISTANCE_INFINITE</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:33</div></div>
-<div class="ttc" id="aa04760_html_a3e2fbd681c4b511f283f7b4d429a5f80"><div class="ttname"><a href="../../db/dc8/a04760.html#a3e2fbd681c4b511f283f7b4d429a5f80">VISIBILITY_DISTANCE_TINY</a></div><div class="ttdeci">#define VISIBILITY_DISTANCE_TINY</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:38</div></div>
-<div class="ttc" id="aa04760_html_ac42804b48d734699eef6b8f584e2fb90"><div class="ttname"><a href="../../db/dc8/a04760.html#ac42804b48d734699eef6b8f584e2fb90">VISIBILITY_DISTANCE_GIGANTIC</a></div><div class="ttdeci">#define VISIBILITY_DISTANCE_GIGANTIC</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:34</div></div>
-<div class="ttc" id="aa04760_html_ae57720dd4437b418bb332db290c71d45"><div class="ttname"><a href="../../db/dc8/a04760.html#ae57720dd4437b418bb332db290c71d45">VISIBILITY_DISTANCE_SMALL</a></div><div class="ttdeci">#define VISIBILITY_DISTANCE_SMALL</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:37</div></div>
-</div><!-- fragment --><dl class="todo"><dt><b><a class="el" href="../../d7/d3c/a05003.html#_todo000040">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01102">WorldObject::GetVisibilityOverrideDistance()</a>.</p>
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_7cceb56be83a77325820340cc4b7f0cb.html">Object</a></li><li class="navelem"><a class="el" href="../../d8/dc8/a04757.html">Object.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 6 2026 21:07:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d8/dc8/a04757.html">Containers.h</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:27:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

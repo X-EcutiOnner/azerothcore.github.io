@@ -1,8 +1,8 @@
 var a28013 =
 [
-    [ "CharacterActionIpLogger", "db/d62/a28013.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "db/d62/a28013.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "db/d62/a28013.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "db/d62/a28013.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "db/d62/a28013.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "trigger_periodicAI", "db/d62/a28013.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "db/d62/a28013.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "db/d62/a28013.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "db/d62/a28013.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "db/d62/a28013.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

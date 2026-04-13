@@ -1,18 +1,14 @@
 var a03278 =
 [
-    [ "ChangeEmail", "d9/d7f/a03278.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
-    [ "ChangePassword", "d9/d7f/a03278.html#a6a9cb892c15d78b5de65738005234ff6", null ],
-    [ "ChangeUsername", "d9/d7f/a03278.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
-    [ "CheckPassword", "d9/d7f/a03278.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-    [ "CreateAccount", "d9/d7f/a03278.html#a761f39260d15a979ce0214f212b936b7", null ],
-    [ "DeleteAccount", "d9/d7f/a03278.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
-    [ "GetCharactersCount", "d9/d7f/a03278.html#a4fb760897161c3d463f842b28bcf7c20", null ],
-    [ "GetId", "d9/d7f/a03278.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
-    [ "GetName", "d9/d7f/a03278.html#af911e3860ec519c541d6df35468ee41b", null ],
-    [ "GetSecurity", "d9/d7f/a03278.html#a8280510b2564ec6ea76727218c1687b3", null ],
-    [ "GetSecurity", "d9/d7f/a03278.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
-    [ "IsAdminAccount", "d9/d7f/a03278.html#adb1b210137b09011677c74011addeefa", null ],
-    [ "IsConsoleAccount", "d9/d7f/a03278.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
-    [ "IsGMAccount", "d9/d7f/a03278.html#a2f5fb2cf0c24e610c09ac734be93c7a9", null ],
-    [ "IsPlayerAccount", "d9/d7f/a03278.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
+    [ "npc_tapoke_slim_jahn", "d7/d43/a14093.html", "d7/d43/a14093" ],
+    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "d0/dae/a14097.html", "d0/dae/a14097" ],
+    [ "npc_mikhail", "d0/d3b/a14101.html", "d0/d3b/a14101" ],
+    [ "TapokeSlim", "d9/d7f/a03278.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
+      [ "QUEST_MISSING_DIPLO_PT11", "d9/d7f/a03278.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
+      [ "SPELL_STEALTH", "d9/d7f/a03278.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
+      [ "SPELL_CALL_FRIENDS", "d9/d7f/a03278.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
+      [ "NPC_SLIMS_FRIEND", "d9/d7f/a03278.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
+      [ "NPC_TAPOKE_SLIM_JAHN", "d9/d7f/a03278.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
+    ] ],
+    [ "AddSC_wetlands", "d9/d7f/a03278.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
 ];

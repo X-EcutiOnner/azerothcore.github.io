@@ -1,5 +1,6 @@
 var a15465 =
 [
-    [ "pathId", "d9/d13/a15465.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
-    [ "spellId", "d9/d13/a15465.html#af495f984d5b81baeaa61ddca127a9508", null ]
+    [ "OnRemove", "d9/d13/a15465.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
+    [ "PrepareAuraScript", "d9/d13/a15465.html#a47849d8241ed17ad0fb541c1178b0760", null ],
+    [ "Register", "d9/d13/a15465.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
 ];

@@ -1,8 +1,7 @@
 var a25437 =
 [
-    [ "HandleApply", "df/d53/a25437.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "df/d53/a25437.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "df/d53/a25437.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "df/d53/a25437.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "df/d53/a25437.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "HandleJump", "df/d53/a25437.html#ac70f6d53e85af1ee2591e761e21872db", null ],
+    [ "HandleScriptEffect", "df/d53/a25437.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
+    [ "PrepareSpellScript", "df/d53/a25437.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
+    [ "Register", "df/d53/a25437.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
 ];

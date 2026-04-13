@@ -1,6 +1,7 @@
 var a15773 =
 [
-    [ "HandleDummy", "d6/d70/a15773.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "d6/d70/a15773.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "d6/d70/a15773.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "HandleDummy", "d6/d70/a15773.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "d6/d70/a15773.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "d6/d70/a15773.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "d6/d70/a15773.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

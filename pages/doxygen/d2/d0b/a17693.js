@@ -1,6 +1,7 @@
 var a17693 =
 [
-    [ "boss_moorabiAI", "db/d9b/a17697.html", "db/d9b/a17697" ],
-    [ "boss_moorabi", "d2/d0b/a17693.html#a94e14b2a9b06143985f785e781d1c302", null ],
-    [ "GetAI", "d2/d0b/a17693.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
+    [ "HandleProc", "d2/d0b/a17693.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
+    [ "PrepareAuraScript", "d2/d0b/a17693.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
+    [ "Register", "d2/d0b/a17693.html#acc0881cf7379525a0841426867d2d850", null ],
+    [ "Validate", "d2/d0b/a17693.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
 ];

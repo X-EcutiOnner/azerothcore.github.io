@@ -1,9 +1,6 @@
 var a17437 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "da/d04/a17437.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "da/d04/a17437.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "da/d04/a17437.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "da/d04/a17437.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "da/d04/a17437.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "da/d04/a17437.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "boss_slad_ranAI", "d6/de0/a17441.html", "d6/de0/a17441" ],
+    [ "boss_slad_ran", "da/d04/a17437.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "da/d04/a17437.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

@@ -1,8 +1,9 @@
 var a19009 =
 [
-    [ "npc_blistering_zombieAI", "d7/dcc/a19009.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "d7/dcc/a19009.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "d7/dcc/a19009.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "d7/dcc/a19009.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "d7/dcc/a19009.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d7/dcc/a19009.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "d7/dcc/a19009.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "d7/dcc/a19009.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "d7/dcc/a19009.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "d7/dcc/a19009.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "d7/dcc/a19009.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

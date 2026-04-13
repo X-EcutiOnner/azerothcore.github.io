@@ -1,6 +1,12 @@
 var a20813 =
 [
-    [ "BoomEvent", "db/d15/a20813.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
-    [ "Execute", "db/d15/a20813.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
-    [ "_me", "db/d15/a20813.html#a30de77ee751f1c10231088cb84942342", null ]
+    [ "boss_skarvald_the_constructor", "db/d15/a20813.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
+    [ "DoAction", "db/d15/a20813.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
+    [ "JustDied", "db/d15/a20813.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
+    [ "JustEngagedWith", "db/d15/a20813.html#a529439d257abf78f76db0043549964e6", null ],
+    [ "KilledUnit", "db/d15/a20813.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
+    [ "Reset", "db/d15/a20813.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
+    [ "UpdateAI", "db/d15/a20813.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
+    [ "events", "db/d15/a20813.html#a28837280e161f6971564a4725c97a154", null ],
+    [ "pInstance", "db/d15/a20813.html#ab5b773a9960f611a6383578a607ba258", null ]
 ];

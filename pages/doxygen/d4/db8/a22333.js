@@ -1,7 +1,6 @@
 var a22333 =
 [
-    [ "npc_wg_demolisher_engineer", "d4/db8/a22333.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d4/db8/a22333.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d4/db8/a22333.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d4/db8/a22333.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d0/d75/a22337.html", "d0/d75/a22337" ],
+    [ "instance_shadow_labyrinth", "d4/db8/a22333.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
+    [ "GetInstanceScript", "d4/db8/a22333.html#af9edf624413593a5cdf025dd9a1c3631", null ]
 ];

@@ -1,7 +1,7 @@
 var a20257 =
 [
-    [ "boss_flame_leviathan_safety_container", "d7/df4/a20257.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
-    [ "MovementInform", "d7/df4/a20257.html#a42842de299fd9346cc0d61b649b652a4", null ],
-    [ "UpdateAI", "d7/df4/a20257.html#a55119d077f905a8207ad2afbe31f17a4", null ],
-    [ "_allowTimer", "d7/df4/a20257.html#a70134398c054c837407d6a22591a2d96", null ]
+    [ "HandleEffectPeriodic", "d7/df4/a20257.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "d7/df4/a20257.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "d7/df4/a20257.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "d7/df4/a20257.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

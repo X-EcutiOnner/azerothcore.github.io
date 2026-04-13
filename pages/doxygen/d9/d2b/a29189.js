@@ -1,12 +1,22 @@
 var a29189 =
 [
-    [ "CalendarFilterType", "d9/d2b/a29189.html#a082b59a0ead8223e590cbb371f3ad122", null ],
-    [ "CalendarFlags", "d9/d2b/a29189.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
-    [ "Date", "d9/d2b/a29189.html#ac5b08b086ef0668508ea9da48642e95b", null ],
-    [ "Duration", "d9/d2b/a29189.html#a10cae1b1fbb91930209a714c545b129b", null ],
-    [ "Id", "d9/d2b/a29189.html#a1119824959b87fb312209a998a5869b1", null ],
-    [ "Looping", "d9/d2b/a29189.html#afa2d93998650f88e62bfa76807961274", null ],
-    [ "Priority", "d9/d2b/a29189.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
-    [ "Region", "d9/d2b/a29189.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
-    [ "TextureFilename", "d9/d2b/a29189.html#a2209ecbb78f1f467491506cc97df57e4", null ]
+    [ "HealInfoStub", "d9/d2b/a29189.html#afa2b7c6e93b387f16e2b545adc4fa05c", null ],
+    [ "HealInfoStub", "d9/d2b/a29189.html#ae011c5a0f72cd5581e661793c3ac2fdc", null ],
+    [ "~HealInfoStub", "d9/d2b/a29189.html#ae599d81216cbcaa69f206ac6eca6d886", null ],
+    [ "GetAbsorb", "d9/d2b/a29189.html#aae8cd0f206d4dbd78b56838cdb49dad6", null ],
+    [ "GetEffectiveHeal", "d9/d2b/a29189.html#aa19e94b9523f803f2af09fb77382f3c2", null ],
+    [ "GetHeal", "d9/d2b/a29189.html#abc0ad944af22920bc105b1b4c71ad467", null ],
+    [ "GetHitMask", "d9/d2b/a29189.html#ac110638d1729fae0ba6594d7f092d4b0", null ],
+    [ "GetOverheal", "d9/d2b/a29189.html#a5af3db6eed10c8b2cd17f0509f6085fa", null ],
+    [ "GetSpellInfo", "d9/d2b/a29189.html#a05ce52ae6ea15c8043dfeae236466017", null ],
+    [ "SetAbsorb", "d9/d2b/a29189.html#a5f7988705654a3b6f460ddbbecb3992b", null ],
+    [ "SetEffectiveHeal", "d9/d2b/a29189.html#ad8c263f50edf324a72ca366f6caf4377", null ],
+    [ "SetHeal", "d9/d2b/a29189.html#a6dede4a2256ff21fde331ae05d257718", null ],
+    [ "SetHitMask", "d9/d2b/a29189.html#a4f50475819621d56efd4e359ed004483", null ],
+    [ "SetSpellInfo", "d9/d2b/a29189.html#a2e5ac0bb798710d33e0ff4c29c8507a0", null ],
+    [ "_absorb", "d9/d2b/a29189.html#a1b6726177d88f4da4b4fa36e96136711", null ],
+    [ "_effectiveHeal", "d9/d2b/a29189.html#aab54619f78456698c646d83ac448e1e2", null ],
+    [ "_heal", "d9/d2b/a29189.html#a44c86cf0c0d87d9ceb9574ced0990845", null ],
+    [ "_hitMask", "d9/d2b/a29189.html#a2228ffd4334cc5adff51e67394d19de9", null ],
+    [ "_spellInfo", "d9/d2b/a29189.html#a94cd95b537e2510047da23a7f9176aa6", null ]
 ];

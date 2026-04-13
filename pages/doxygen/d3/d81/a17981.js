@@ -1,7 +1,6 @@
 var a17981 =
 [
-    [ "ExtraEffect", "d3/d81/a17981.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "d3/d81/a17981.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "d3/d81/a17981.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "d3/d81/a17981.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "HandlePeriodicTick", "d3/d81/a17981.html#a29bf443cdb53b10032ba382b8ae44828", null ],
+    [ "PrepareAuraScript", "d3/d81/a17981.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
+    [ "Register", "d3/d81/a17981.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
 ];

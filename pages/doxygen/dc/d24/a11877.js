@@ -1,9 +1,6 @@
 var a11877 =
 [
-    [ "CreatureTextLocalizer", "dc/d24/a11877.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "dc/d24/a11877.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "dc/d24/a11877.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "dc/d24/a11877.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "dc/d24/a11877.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "dc/d24/a11877.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "EffectAbsorbHandler", "dc/d24/a11877.html#a29bb773b8271acf651b08f33ce358720", null ],
+    [ "Call", "dc/d24/a11877.html#a56bfb0fd0d860678920445d1182c09ef", null ],
+    [ "pEffectHandlerScript", "dc/d24/a11877.html#a519489b8d951173a806e86cfe075faf1", null ]
 ];

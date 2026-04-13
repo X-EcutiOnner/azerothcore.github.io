@@ -1,6 +1,8 @@
 var a28077 =
 [
-    [ "boss_lethonAI", "de/d10/a28081.html", "de/d10/a28081" ],
-    [ "boss_lethon", "d9/d4a/a28077.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "d9/d4a/a28077.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "npc_franklinAI", "de/d10/a28081.html", "de/d10/a28081" ],
+    [ "npc_franklin", "d9/d4a/a28077.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "d9/d4a/a28077.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "d9/d4a/a28077.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "d9/d4a/a28077.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

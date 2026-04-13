@@ -1,10 +1,8 @@
 var a20913 =
 [
-    [ "boss_yoggsaron_immortal_guardian", "d9/d2b/a20913.html#af282d41a1ee71c15bb51e03bebd97486", null ],
-    [ "DamageTaken", "d9/d2b/a20913.html#a9bf936d6a501e53ce98786f043562a71", null ],
-    [ "Reset", "d9/d2b/a20913.html#a1173d401233670a45b31040b8e5d98cb", null ],
-    [ "SpellHit", "d9/d2b/a20913.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
-    [ "UpdateAI", "d9/d2b/a20913.html#adaae7e2cd52951095cb82819d9874426", null ],
-    [ "_spellTimer", "d9/d2b/a20913.html#a521b956c116a23523fdfceb95a42c1e2", null ],
-    [ "_visualTimer", "d9/d2b/a20913.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
+    [ "FilterTargets", "d9/d2b/a20913.html#a6f3d275e5ff06a6fc37f143d6394bf45", null ],
+    [ "HandleScript", "d9/d2b/a20913.html#aa97e0b2f4a8e33d412501f6625ab1504", null ],
+    [ "PrepareSpellScript", "d9/d2b/a20913.html#a0db5183ec1aa7f490202ac41cd00b153", null ],
+    [ "Register", "d9/d2b/a20913.html#acd4b270dbe27be417892e0a4183ffa0d", null ],
+    [ "Validate", "d9/d2b/a20913.html#abb3ca41a50087763d731d1f911065e14", null ]
 ];

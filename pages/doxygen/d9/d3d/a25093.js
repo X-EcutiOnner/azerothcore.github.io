@@ -1,6 +1,7 @@
 var a25093 =
 [
-    [ "HandleDummy", "d9/d3d/a25093.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
-    [ "PrepareSpellScript", "d9/d3d/a25093.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
-    [ "Register", "d9/d3d/a25093.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
+    [ "HandleScript", "d9/d3d/a25093.html#a27e2575e538732ac76add53f2f8f6832", null ],
+    [ "PrepareSpellScript", "d9/d3d/a25093.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
+    [ "Register", "d9/d3d/a25093.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
+    [ "Validate", "d9/d3d/a25093.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
 ];

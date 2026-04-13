@@ -1,10 +1,5 @@
 var a27637 =
 [
-    [ "CalcPeriodic", "da/d9e/a27637.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
-    [ "CalculateAmount", "da/d9e/a27637.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
-    [ "HandleEffectCalcSpellMod", "da/d9e/a27637.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
-    [ "HandlePeriodic", "da/d9e/a27637.html#ae2c4de235fc727039a50f1b6ba729422", null ],
-    [ "Load", "da/d9e/a27637.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
-    [ "PrepareAuraScript", "da/d9e/a27637.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
-    [ "Register", "da/d9e/a27637.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
+    [ "achievement_killed_exp_or_honor_target", "da/d9e/a27637.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "da/d9e/a27637.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

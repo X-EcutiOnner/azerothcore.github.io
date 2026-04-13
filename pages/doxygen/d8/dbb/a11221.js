@@ -1,8 +1,11 @@
 var a11221 =
 [
-    [ "CrossedInebriationThreshold", "d8/dbb/a11221.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "d8/dbb/a11221.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "d8/dbb/a11221.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "d8/dbb/a11221.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "d8/dbb/a11221.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "LFGJoin", "d8/dbb/a11221.html#a50c79bdef7393907673a328bc36ff8ae", null ],
+    [ "Read", "d8/dbb/a11221.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
+    [ "Achievements", "d8/dbb/a11221.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
+    [ "Comment", "d8/dbb/a11221.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
+    [ "Needs", "d8/dbb/a11221.html#a313c16e84e2cd0b55551d16273e95917", null ],
+    [ "NoPartialClear", "d8/dbb/a11221.html#aad54be871d0978034fb69a464fd5b9df", null ],
+    [ "Roles", "d8/dbb/a11221.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
+    [ "Slots", "d8/dbb/a11221.html#aa14a07716504723283ad80c6357cf53f", null ]
 ];

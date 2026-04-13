@@ -1,5 +1,6 @@
 var a10605 =
 [
-    [ "GenericInstanceMapScript", "dc/d4a/a10605.html#a39aef4c434d791f18fc04ea692bf2255", null ],
-    [ "GetInstanceScript", "dc/d4a/a10605.html#a8ca7180c1d2f8fb213e8b52bb73b2f76", null ]
+    [ "ConditionScript", "dc/d4a/a10605.html#a546130ee7ed33c7763115cb0d1506a1b", null ],
+    [ "IsDatabaseBound", "dc/d4a/a10605.html#ac4f8325e3fa1e11437056818a0267342", null ],
+    [ "OnConditionCheck", "dc/d4a/a10605.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
 ];

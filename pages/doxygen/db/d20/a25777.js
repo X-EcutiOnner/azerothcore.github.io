@@ -1,9 +1,6 @@
 var a25777 =
 [
-    [ "getMountSpellId", "db/d20/a25777.html#afe306ed6057050baf342ee717723764d", null ],
-    [ "OnApply", "db/d20/a25777.html#aa8bee986d413be60d00ac1d2111ef719", null ],
-    [ "OnRemove", "db/d20/a25777.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
-    [ "PrepareAuraScript", "db/d20/a25777.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
-    [ "Register", "db/d20/a25777.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
-    [ "Validate", "db/d20/a25777.html#a6868f6e88c9179efd921b266c83f6daf", null ]
+    [ "HandleDummy", "db/d20/a25777.html#a1daf78c552ffd963f181eded01b570a9", null ],
+    [ "PrepareSpellScript", "db/d20/a25777.html#adaa82dfd828ed915cfc16f95e73cd224", null ],
+    [ "Register", "db/d20/a25777.html#a63771475c954e4bddf6c1fc4c04990e0", null ]
 ];

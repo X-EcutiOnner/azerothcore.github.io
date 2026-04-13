@@ -1,7 +1,6 @@
 var a18817 =
 [
-    [ "PrepareSpellScript", "d5/df8/a18817.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "d5/df8/a18817.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "d5/df8/a18817.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "d5/df8/a18817.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "npc_frost_freeze_trapAI", "d5/d70/a18821.html", "d5/d70/a18821" ],
+    [ "npc_frost_freeze_trap", "d5/df8/a18817.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "d5/df8/a18817.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

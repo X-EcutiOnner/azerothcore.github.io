@@ -1,7 +1,7 @@
 var a13953 =
 [
-    [ "HandleAfterCast", "da/d4f/a13953.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "da/d4f/a13953.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "da/d4f/a13953.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "da/d4f/a13953.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "npc_deathstalker_erlandAI", "d2/d3a/a13957.html", "d2/d3a/a13957" ],
+    [ "npc_deathstalker_erland", "da/d4f/a13953.html#ad49faf068e982f245f0d1e21f0700c40", null ],
+    [ "GetAI", "da/d4f/a13953.html#ab59235f212ddb985056cb8e32719b723", null ],
+    [ "OnQuestAccept", "da/d4f/a13953.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
 ];

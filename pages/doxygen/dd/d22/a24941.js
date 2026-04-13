@@ -1,6 +1,7 @@
 var a24941 =
 [
-    [ "HandleHeal", "dd/d22/a24941.html#a682a496d59201774de50951ffd2c7c0d", null ],
-    [ "PrepareSpellScript", "dd/d22/a24941.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
-    [ "Register", "dd/d22/a24941.html#abc29f509e703f3807241b63f728a69af", null ]
+    [ "HandleApplyEffect", "dd/d22/a24941.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "dd/d22/a24941.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "dd/d22/a24941.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "dd/d22/a24941.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

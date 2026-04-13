@@ -1,5 +1,6 @@
 var a13389 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d3/d00/a13389.html#ad083ab5aa00902987e18f4e9423a705a", null ],
-    [ "ProcessEvent", "d3/d00/a13389.html#a8dbe1537ea00412a6fa366891204d645", null ]
+    [ "npc_risen_guardianAI", "d5/dbd/a13393.html", "d5/dbd/a13393" ],
+    [ "npc_risen_guardian", "d3/d00/a13389.html#a472274c69abe912f5781c60911204eb5", null ],
+    [ "GetAI", "d3/d00/a13389.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
 ];

@@ -1,7 +1,12 @@
 var a19053 =
 [
-    [ "OnApply", "db/dfa/a19053.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "db/dfa/a19053.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "db/dfa/a19053.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "db/dfa/a19053.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "db/dfa/a19053.html#a2e3abb6f8889b8df818e8260e6428375", null ],
+    [ "InitializeAI", "db/dfa/a19053.html#ac39bb8074ebb7106b426f507b73b368e", null ],
+    [ "JustEngagedWith", "db/dfa/a19053.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
+    [ "MoveInLineOfSight", "db/dfa/a19053.html#a846fe2784308eb694f5f482133a33a7f", null ],
+    [ "MovementInform", "db/dfa/a19053.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
+    [ "Reset", "db/dfa/a19053.html#afbb260e4968865e7c4141e73a050e663", null ],
+    [ "UpdateAI", "db/dfa/a19053.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
+    [ "_didWebBeam", "db/dfa/a19053.html#a8772cf938d30ddcc439d3912db578dfa", null ],
+    [ "events", "db/dfa/a19053.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
 ];

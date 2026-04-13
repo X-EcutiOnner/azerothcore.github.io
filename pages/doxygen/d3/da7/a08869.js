@@ -1,10 +1,6 @@
 var a08869 =
 [
-    [ "TradeStatusInfo", "d3/da7/a08869.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
-    [ "IsTargetResult", "d3/da7/a08869.html#a10427d72e5bafd643648638a1fe7e854", null ],
-    [ "ItemLimitedByLimitCategory", "d3/da7/a08869.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
-    [ "Result", "d3/da7/a08869.html#ac90552353a0fb8ff175fec99bf573981", null ],
-    [ "Slot", "d3/da7/a08869.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
-    [ "Status", "d3/da7/a08869.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
-    [ "TraderGuid", "d3/da7/a08869.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
+    [ "SkillStatusData", "d3/da7/a08869.html#a7594ceb20110da34f3aa68ac69996b94", null ],
+    [ "pos", "d3/da7/a08869.html#a51ccb328b807f2c7fd275d843218f466", null ],
+    [ "uState", "d3/da7/a08869.html#a232801ad25897a82739916d5be4fdc22", null ]
 ];

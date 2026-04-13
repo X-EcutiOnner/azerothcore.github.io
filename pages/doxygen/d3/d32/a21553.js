@@ -1,6 +1,9 @@
 var a21553 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d9/de0/a21557.html", "d9/de0/a21557" ],
-    [ "npc_imprisoned_beryl_sorcerer", "d3/d32/a21553.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
-    [ "GetAI", "d3/d32/a21553.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
+    [ "npc_mrfloppyAI", "d3/d32/a21553.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
+    [ "EnterEvadeMode", "d3/d32/a21553.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
+    [ "JustEngagedWith", "d3/d32/a21553.html#a490bf07de00cc5c59b5f0024317d8125", null ],
+    [ "MoveInLineOfSight", "d3/d32/a21553.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
+    [ "Reset", "d3/d32/a21553.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
+    [ "UpdateAI", "d3/d32/a21553.html#afad6db1ccd903fd18192f832a10a32f4", null ]
 ];

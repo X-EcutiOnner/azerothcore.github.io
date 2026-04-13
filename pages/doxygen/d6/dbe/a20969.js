@@ -1,8 +1,6 @@
 var a20969 =
 [
-    [ "FilterTargets", "d6/dbe/a20969.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "d6/dbe/a20969.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "d6/dbe/a20969.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "d6/dbe/a20969.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "d6/dbe/a20969.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "d5/d30/a20973.html", "d5/d30/a20973" ],
+    [ "instance_utgarde_pinnacle", "d6/dbe/a20969.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "d6/dbe/a20969.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

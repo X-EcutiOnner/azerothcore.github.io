@@ -1,6 +1,8 @@
 var a24201 =
 [
-    [ "npc_illidari_spawnAI", "df/d7d/a24205.html", "df/d7d/a24205" ],
-    [ "npc_illidari_spawn", "db/d2b/a24201.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
-    [ "GetAI", "db/d2b/a24201.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
+    [ "CheckCast", "db/d2b/a24201.html#a94851a2b6a62138e28466317e9e88480", null ],
+    [ "HandleDummy", "db/d2b/a24201.html#a970684d219c99519512c437a8efd8d43", null ],
+    [ "PrepareSpellScript", "db/d2b/a24201.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
+    [ "Register", "db/d2b/a24201.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
+    [ "Validate", "db/d2b/a24201.html#a59cca008a97447e257bf24071301b366", null ]
 ];

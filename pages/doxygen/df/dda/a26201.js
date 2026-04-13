@@ -1,6 +1,6 @@
 var a26201 =
 [
-    [ "OnPeriodic", "df/dda/a26201.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
-    [ "PrepareAuraScript", "df/dda/a26201.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
-    [ "Register", "df/dda/a26201.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
+    [ "HandleProc", "df/dda/a26201.html#a746a66c768e1987eb3752a41b19b822d", null ],
+    [ "PrepareAuraScript", "df/dda/a26201.html#a396023bc98b70b6357630e45a2278afc", null ],
+    [ "Register", "df/dda/a26201.html#a6af4e80cf3c88320a6157e986a4b719f", null ]
 ];

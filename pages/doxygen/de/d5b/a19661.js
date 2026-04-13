@@ -1,8 +1,9 @@
 var a19661 =
 [
-    [ "HandleDamage", "de/d5b/a19661.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
-    [ "HandleTargets", "de/d5b/a19661.html#ac36e689bad93aa17738f390680764a7e", null ],
-    [ "PrepareSpellScript", "de/d5b/a19661.html#a149db071722ce12cded16087c8eec1df", null ],
-    [ "Register", "de/d5b/a19661.html#abd073f34a414fab7ee23ee933863f1c7", null ],
-    [ "Validate", "de/d5b/a19661.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
+    [ "HandleOnEffectApply", "de/d5b/a19661.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "de/d5b/a19661.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "de/d5b/a19661.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "de/d5b/a19661.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "de/d5b/a19661.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "de/d5b/a19661.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

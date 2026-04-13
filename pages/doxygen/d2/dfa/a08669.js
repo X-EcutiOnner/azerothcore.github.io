@@ -1,5 +1,9 @@
 var a08669 =
 [
-    [ "Global", "d2/dfa/a08669.html#a77d72711ba9384384f9fd789f778e8c8", null ],
-    [ "MapSpecific", "d2/dfa/a08669.html#a42e5a0249b84d4e8175a4cb65480bbcf", null ]
+    [ "Reset", "d2/dfa/a08669.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "d2/dfa/a08669.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "d2/dfa/a08669.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "d2/dfa/a08669.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "d2/dfa/a08669.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "d2/dfa/a08669.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

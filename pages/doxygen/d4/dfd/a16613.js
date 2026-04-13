@@ -1,10 +1,8 @@
 var a16613 =
 [
-    [ "spell_halion_marks_aura", "d4/dfd/a16613.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "d4/dfd/a16613.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "d4/dfd/a16613.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "d4/dfd/a16613.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "d4/dfd/a16613.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "d4/dfd/a16613.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "d4/dfd/a16613.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "npc_announcer_toc5AI", "d4/dfd/a16613.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "d4/dfd/a16613.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "d4/dfd/a16613.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "d4/dfd/a16613.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "d4/dfd/a16613.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

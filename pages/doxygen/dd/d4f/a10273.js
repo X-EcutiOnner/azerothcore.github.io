@@ -1,11 +1,17 @@
 var a10273 =
 [
-    [ "EffectMovementGenerator", "dd/d4f/a10273.html#a5b00ae06964d5c572bf2c6d14c82147e", null ],
-    [ "Finalize", "dd/d4f/a10273.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
-    [ "GetMovementGeneratorType", "dd/d4f/a10273.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
-    [ "Initialize", "dd/d4f/a10273.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
-    [ "Reset", "dd/d4f/a10273.html#a9627573a7206e12ff469e8e6e076862b", null ],
-    [ "Update", "dd/d4f/a10273.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
-    [ "i_spline", "dd/d4f/a10273.html#a35b92e440aa2af623f62d4fe8ecf216e", null ],
-    [ "m_Id", "dd/d4f/a10273.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
+    [ "ConfusedMovementGenerator", "dd/d4f/a10273.html#a694dd083a1c01378e4877939f78309b8", null ],
+    [ "_InitSpecific", "dd/d4f/a10273.html#aea922e45838ab8a9cfe1787f0f7c169c", null ],
+    [ "_InitSpecific", "dd/d4f/a10273.html#a212665e4306ca335181c255573d30a06", null ],
+    [ "_InitSpecific", "dd/d4f/a10273.html#af597e5c544e56c255b179a08290f4ccb", null ],
+    [ "DoFinalize", "dd/d4f/a10273.html#a9e2a3f0e1a99436b33a883a1ac797f43", null ],
+    [ "DoFinalize", "dd/d4f/a10273.html#a82c2458b43334f06cae1a91224753fd3", null ],
+    [ "DoFinalize", "dd/d4f/a10273.html#ab18018803d8e194e9d2220eb8c6450ac", null ],
+    [ "DoInitialize", "dd/d4f/a10273.html#a8f1e9d0e00517b0d7f88b4213fd25104", null ],
+    [ "DoReset", "dd/d4f/a10273.html#a734a73ffa4008898a170b913aafce899", null ],
+    [ "DoUpdate", "dd/d4f/a10273.html#a8703ba139d90194a481388a543a14de6", null ],
+    [ "GetMovementGeneratorType", "dd/d4f/a10273.html#a3f0760b38745b9e065e069d6ad984d51", null ],
+    [ "i_nextMove", "dd/d4f/a10273.html#ad36fe1fd2d07af01691a319c425dc92c", null ],
+    [ "i_nextMoveTime", "dd/d4f/a10273.html#ad7b5bb65d55f6149e8df8cb4e2cdda50", null ],
+    [ "i_waypoints", "dd/d4f/a10273.html#a02b83b879cc31fb1a0e2f90e97556ba1", null ]
 ];

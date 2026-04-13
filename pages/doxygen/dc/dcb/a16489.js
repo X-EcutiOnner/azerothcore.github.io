@@ -1,6 +1,6 @@
 var a16489 =
 [
-    [ "HandleLeapBack", "dc/dcb/a16489.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "dc/dcb/a16489.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "dc/dcb/a16489.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "df/d7b/a16493.html", "df/d7b/a16493" ],
+    [ "instance_ruby_sanctum", "dc/dcb/a16489.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "dc/dcb/a16489.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

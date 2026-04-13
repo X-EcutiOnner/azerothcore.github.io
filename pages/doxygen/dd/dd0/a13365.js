@@ -1,6 +1,6 @@
 var a13365 =
 [
-    [ "boss_garaxxas", "dd/dd0/a13365.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "dd/dd0/a13365.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "dd/dd0/a13365.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "npc_valkyr_battle_maidenAI", "d4/d6d/a13369.html", "d4/d6d/a13369" ],
+    [ "npc_valkyr_battle_maiden", "dd/dd0/a13365.html#a4316dd483b262e637ea39ba9e972744b", null ],
+    [ "GetAI", "dd/dd0/a13365.html#ab067ea6f5f92039d471708039089e79c", null ]
 ];

@@ -1,7 +1,10 @@
 var a17505 =
 [
-    [ "HandlePeriodicTick", "d3/dd1/a17505.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "d3/dd1/a17505.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "d3/dd1/a17505.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "d3/dd1/a17505.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "npc_dark_nucleusAI", "d3/dd1/a17505.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "d3/dd1/a17505.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "d3/dd1/a17505.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "d3/dd1/a17505.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "d3/dd1/a17505.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "d3/dd1/a17505.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "d3/dd1/a17505.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

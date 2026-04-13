@@ -1,11 +1,9 @@
 var a07341 =
 [
-    [ "GetSkillValue", "da/dea/a07341.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
-    [ "HasSpell", "da/dea/a07341.html#a3400ad05d8423ae6878fab815521ec6f", null ],
-    [ "PlayerCanUseItem", "da/dea/a07341.html#aee11f4f45f83664483344e3bbfba7463", null ],
-    [ "classMask", "da/dea/a07341.html#a41a57c372871c84a572d2f3697cb18aa", null ],
-    [ "level", "da/dea/a07341.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
-    [ "raceMask", "da/dea/a07341.html#a96e56943da42f1a1258fc1d716259e1a", null ],
-    [ "skills", "da/dea/a07341.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
-    [ "spells", "da/dea/a07341.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
+    [ "SmartWaypointMgr", "da/dea/a07341.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "da/dea/a07341.html#a7299029b0e2063740fd2fe9d9b218749", null ],
+    [ "GetPath", "da/dea/a07341.html#ab3fb0cb109b9bf28ee09173f4340c351", null ],
+    [ "instance", "da/dea/a07341.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "da/dea/a07341.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "da/dea/a07341.html#ac34eb4bd79106db2574cce0208a785e5", null ]
 ];

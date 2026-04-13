@@ -1,6 +1,6 @@
 var a18025 =
 [
-    [ "npc_gunshipAI", "d6/dd5/a18029.html", "d6/dd5/a18029" ],
-    [ "npc_gunship", "d1/d33/a18025.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
-    [ "GetAI", "d1/d33/a18025.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
+    [ "HandleScriptEffect", "d1/d33/a18025.html#ac6017cbe86b328aef00f707051c67e5f", null ],
+    [ "PrepareSpellScript", "d1/d33/a18025.html#a3e21794652b0ffea67571f9b294b4961", null ],
+    [ "Register", "d1/d33/a18025.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
 ];

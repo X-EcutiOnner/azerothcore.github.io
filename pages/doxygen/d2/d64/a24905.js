@@ -1,7 +1,6 @@
 var a24905 =
 [
-    [ "HandleProc", "d2/d64/a24905.html#a17f1f652f4144bfade0072e311f579e7", null ],
-    [ "PrepareAuraScript", "d2/d64/a24905.html#a8ab8da270b52ce7be6419f5947df6566", null ],
-    [ "Register", "d2/d64/a24905.html#a660b69eb520799733f59218c919b28ed", null ],
-    [ "Validate", "d2/d64/a24905.html#a433be7a238be09e86c395a6d3625c56d", null ]
+    [ "HandleEffectPeriodic", "d2/d64/a24905.html#a248ba0e88498e36355491b2b89063e17", null ],
+    [ "PrepareAuraScript", "d2/d64/a24905.html#ac9aed434fe7602ef846e9f052402620e", null ],
+    [ "Register", "d2/d64/a24905.html#a039eec910c802276b9e979253141cdee", null ]
 ];

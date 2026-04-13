@@ -1,7 +1,6 @@
 var a18409 =
 [
-    [ "HandleSummon", "d8/dd1/a18409.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d8/dd1/a18409.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d8/dd1/a18409.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d8/dd1/a18409.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "LichKingMovieEvent", "d8/dd1/a18409.html#a3e48e13dc5166c73a9f379045988f86a", null ],
+    [ "Execute", "d8/dd1/a18409.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
+    [ "_owner", "d8/dd1/a18409.html#a7ed68f442a644d6bb7a036812351d89e", null ]
 ];

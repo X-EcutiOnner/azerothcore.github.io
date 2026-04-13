@@ -1,9 +1,12 @@
 var a28057 =
 [
-    [ "emerald_dragonAI", "d8/dd0/a28057.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "d8/dd0/a28057.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "d8/dd0/a28057.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "d8/dd0/a28057.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "d8/dd0/a28057.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "d8/dd0/a28057.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "npc_preciousAI", "d8/dd0/a28057.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
+    [ "FlagForDespawn", "d8/dd0/a28057.html#a934a5147c1cc9937189011fb061657da", null ],
+    [ "InitializeAI", "d8/dd0/a28057.html#aa15843c4029f2df2ee04d21b5157602a", null ],
+    [ "JustEngagedWith", "d8/dd0/a28057.html#a58bc4149111605850f070a77ee776313", null ],
+    [ "JustReachedHome", "d8/dd0/a28057.html#a31893e9441b24398554370a58ef8bd78", null ],
+    [ "Reset", "d8/dd0/a28057.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
+    [ "UpdateAI", "d8/dd0/a28057.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
+    [ "events", "d8/dd0/a28057.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
+    [ "flaggedForDespawn", "d8/dd0/a28057.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
 ];

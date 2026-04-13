@@ -1,11 +1,10 @@
 var a05989 =
 [
-    [ "AppenderDB", "d1/d26/a05989.html#af8e48076d47a06c73f6b8ae054955a83", null ],
-    [ "~AppenderDB", "d1/d26/a05989.html#a7da848083d02833acc632051a2d938bf", null ],
-    [ "_write", "d1/d26/a05989.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
-    [ "getType", "d1/d26/a05989.html#a96221ceed23435556df03c5f7ffab61e", null ],
-    [ "setRealmId", "d1/d26/a05989.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
-    [ "enabled", "d1/d26/a05989.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
-    [ "realmId", "d1/d26/a05989.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
-    [ "type", "d1/d26/a05989.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
+    [ "Alias", "d1/d26/a05989.html#ac885c365760ade7b0c74e5fead82a210", null ],
+    [ "Index", "d1/d26/a05989.html#ad841e71a9394fc114a35f0234ef581b6", null ],
+    [ "Name", "d1/d26/a05989.html#af8b9f87733157401cff6b0846a545fa4", null ],
+    [ "TableAlias", "d1/d26/a05989.html#aa9ca2448829defe395b479a9a4ca3c3e", null ],
+    [ "TableName", "d1/d26/a05989.html#ada6594cc2aa67c8d34bdb45e757fda8c", null ],
+    [ "Type", "d1/d26/a05989.html#a76dec8aee42dce6698e4fda0ee1e3eba", null ],
+    [ "TypeName", "d1/d26/a05989.html#aba1b90e43c4f4c545f76568cae86ad43", null ]
 ];

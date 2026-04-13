@@ -1,6 +1,13 @@
 var a21913 =
 [
-    [ "CheckRequirement", "dc/df7/a21913.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "dc/df7/a21913.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "dc/df7/a21913.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_icefangAI", "dc/df7/a21913.html#ab74b58a77e3c1349ed308f7febef794a", null ],
+    [ "AttackStart", "dc/df7/a21913.html#a56615ecdb45389aa793374d26a636d45", null ],
+    [ "EnterEvadeMode", "dc/df7/a21913.html#a1465c4779ea8b080f934163c8db6c99c", null ],
+    [ "JustDied", "dc/df7/a21913.html#a3140c8306a384833cca1580ad964d73a", null ],
+    [ "JustEngagedWith", "dc/df7/a21913.html#a8455dd4afb5ef5a694ca9237848df907", null ],
+    [ "OnCharmed", "dc/df7/a21913.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
+    [ "PassengerBoarded", "dc/df7/a21913.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
+    [ "UpdateAI", "dc/df7/a21913.html#ab4d752f2273062c48339b53e611e617c", null ],
+    [ "WaypointReached", "dc/df7/a21913.html#ae315a1d22317edb2864e4d796f808ffb", null ],
+    [ "WaypointReached", "dc/df7/a21913.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

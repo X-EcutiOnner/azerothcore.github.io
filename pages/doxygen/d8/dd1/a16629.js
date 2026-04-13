@@ -1,7 +1,6 @@
 var a16629 =
 [
-    [ "OnApply", "d8/dd1/a16629.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "d8/dd1/a16629.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "d8/dd1/a16629.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "d8/dd1/a16629.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "npc_swarm_scarabAI", "db/d64/a16633.html", "db/d64/a16633" ],
+    [ "npc_swarm_scarab", "d8/dd1/a16629.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "d8/dd1/a16629.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

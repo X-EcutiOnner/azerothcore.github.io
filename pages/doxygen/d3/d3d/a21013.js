@@ -1,6 +1,12 @@
 var a21013 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d3/d3d/a21013.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d3/d3d/a21013.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d3/d3d/a21013.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "boss_koralonAI", "d3/d3d/a21013.html#a3f5bc42a141011e543d1215eac09dc74", null ],
+    [ "AttackStart", "d3/d3d/a21013.html#aa84e6e9a302172e134163cd07ca57864", null ],
+    [ "JustDied", "d3/d3d/a21013.html#a102c10792d9e7df61d920b5a43f58e51", null ],
+    [ "JustEngagedWith", "d3/d3d/a21013.html#aa7503618dd09e0aebac44394595f4715", null ],
+    [ "Reset", "d3/d3d/a21013.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
+    [ "UpdateAI", "d3/d3d/a21013.html#aa944aad2eb68adc917cba743d1e530c7", null ],
+    [ "events", "d3/d3d/a21013.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
+    [ "pInstance", "d3/d3d/a21013.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
+    [ "rotateTimer", "d3/d3d/a21013.html#ad4b766094f28e940b0b7971d6dadc277", null ]
 ];

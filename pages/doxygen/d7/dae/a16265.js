@@ -1,6 +1,10 @@
 var a16265 =
 [
-    [ "go_troll_cageAI", "de/df2/a16269.html", "de/df2/a16269" ],
-    [ "go_troll_cage", "d7/dae/a16265.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "d7/dae/a16265.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "boss_sartharion_tenebron", "d7/dae/a16265.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
+    [ "ClearInstance", "d7/dae/a16265.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
+    [ "ExecuteEvent", "d7/dae/a16265.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
+    [ "JustDied", "d7/dae/a16265.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
+    [ "JustSummoned", "d7/dae/a16265.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
+    [ "Reset", "d7/dae/a16265.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
+    [ "summons2", "d7/dae/a16265.html#a59b131fcd2298640390fcd0f662f132d", null ]
 ];

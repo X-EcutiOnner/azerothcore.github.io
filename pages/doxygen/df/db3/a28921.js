@@ -1,5 +1,7 @@
 var a28921 =
 [
-    [ "go_arena_ready_marker", "df/db3/a28921.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "df/db3/a28921.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "EpicPropertiesPoints", "df/db3/a28921.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "df/db3/a28921.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "df/db3/a28921.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "df/db3/a28921.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

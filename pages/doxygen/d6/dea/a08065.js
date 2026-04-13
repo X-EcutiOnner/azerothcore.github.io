@@ -1,12 +1,7 @@
 var a08065 =
 [
-    [ "HyperlinkInfo", "d6/dea/a08065.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
-    [ "HyperlinkInfo", "d6/dea/a08065.html#ac08518b3afb878fc7979807d764b7872", null ],
-    [ "operator bool", "d6/dea/a08065.html#a834ac95bb310f6653208026e203e065f", null ],
-    [ "color", "d6/dea/a08065.html#a38c0121d4001ad938d9bc53ca08217db", null ],
-    [ "data", "d6/dea/a08065.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
-    [ "ok", "d6/dea/a08065.html#a54c7a812f79593258002d367110b2403", null ],
-    [ "tag", "d6/dea/a08065.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
-    [ "tail", "d6/dea/a08065.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
-    [ "text", "d6/dea/a08065.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
+    [ "StoreTo", "d6/dea/a08065.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
+    [ "StoreTo", "d6/dea/a08065.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
+    [ "StoreTo", "d6/dea/a08065.html#a071922c9c431637de3cb2d6b52def7bd", null ],
+    [ "StoreTo", "d6/dea/a08065.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
 ];

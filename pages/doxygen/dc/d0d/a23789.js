@@ -1,7 +1,6 @@
 var a23789 =
 [
-    [ "OnApply", "dc/d0d/a23789.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "dc/d0d/a23789.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "dc/d0d/a23789.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "dc/d0d/a23789.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "npc_infernal_attackerAI", "dd/d8f/a23793.html", "dd/d8f/a23793" ],
+    [ "npc_infernal_attacker", "dc/d0d/a23789.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "dc/d0d/a23789.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

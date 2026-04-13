@@ -1,7 +1,6 @@
 var a22093 =
 [
-    [ "HandleScriptEffect", "d6/d01/a22093.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "d6/d01/a22093.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "d6/d01/a22093.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "d6/d01/a22093.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "npc_crusade_recruitAI", "d1/d9f/a22097.html", "d1/d9f/a22097" ],
+    [ "npc_crusade_recruit", "d6/d01/a22093.html#a6e130f153c506255ef5ece1baf006028", null ],
+    [ "GetAI", "d6/d01/a22093.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
 ];

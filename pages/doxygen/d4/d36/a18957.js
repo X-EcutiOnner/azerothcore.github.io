@@ -1,6 +1,7 @@
 var a18957 =
 [
-    [ "npc_the_lich_king_controllerAI", "d9/dbb/a18961.html", "d9/dbb/a18961" ],
-    [ "npc_the_lich_king_controller", "d4/d36/a18957.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "d4/d36/a18957.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "OnRemove", "d4/d36/a18957.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
+    [ "PrepareAuraScript", "d4/d36/a18957.html#acf654e563f47df9ad033d7080f47662b", null ],
+    [ "Register", "d4/d36/a18957.html#aad4497ba7cad48b9547e8696714d8c23", null ],
+    [ "Validate", "d4/d36/a18957.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
 ];

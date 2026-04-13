@@ -1,11 +1,6 @@
 var a03350 =
 [
-    [ "SpellEvent", "d2/d96/a11610.html", "d2/d96/a11610" ],
-    [ "DEBUG_TRAJ", "d6/d18/a03350.html#ac27bc73435b380df600d6da0b753a144", null ],
-    [ "GCDLimits", "d6/d18/a03350.html#aea36520bcbaa2ebe9c062b9c5d9df777", [
-      [ "MIN_GCD", "d6/d18/a03350.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f", null ],
-      [ "MAX_GCD", "d6/d18/a03350.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c", null ]
-    ] ],
-    [ "tangent", "d6/d18/a03350.html#a885f76b28cf9930383ddf099d75ccef1", null ],
-    [ "SpellEffects", "d6/d18/a03350.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
+    [ "instance_deadmines", "da/d15/a12877.html", "da/d15/a12877" ],
+    [ "instance_deadmines::instance_deadmines_InstanceMapScript", "dc/d49/a12881.html", "dc/d49/a12881" ],
+    [ "AddSC_instance_deadmines", "d6/d18/a03350.html#a5c92c13d577422c37a1de0e3b5b4a020", null ]
 ];

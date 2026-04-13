@@ -1,15 +1,9 @@
 var a19761 =
 [
-    [ "instance_eye_of_eternity", "dc/d67/a19761.html#a8b8bccd4969d18cf0c56742c65150ef1", null ],
-    [ "CheckAchievementCriteriaMeet", "dc/d67/a19761.html#ae2cbbc353f1dfcb24346fb707b15e19d", null ],
-    [ "GetGuidData", "dc/d67/a19761.html#a9a8a000c1f3a4139e280c7b20711dbcc", null ],
-    [ "OnCreatureCreate", "dc/d67/a19761.html#a72ede46385cd3f4d36e360ed67d5634f", null ],
-    [ "OnGameObjectCreate", "dc/d67/a19761.html#a276b14a880ac762439213f85b17c5b8b", null ],
-    [ "OnPlayerEnter", "dc/d67/a19761.html#a1f525d686ec2447a0aa9c2b9631b2e2f", null ],
-    [ "ProcessEvent", "dc/d67/a19761.html#a1408e66a14a7af228d7dfa40d09133f7", null ],
-    [ "SetBossState", "dc/d67/a19761.html#a1d4ea255b6f65abd63a69e04ec43ab90", null ],
-    [ "SetData", "dc/d67/a19761.html#a361bf36921e723ff38005d43be1c900b", null ],
-    [ "VortexHandling", "dc/d67/a19761.html#aa413a00eeba3fa864c104b6475b72d7c", null ],
-    [ "_pokeAchievementValid", "dc/d67/a19761.html#ab2d2e6d8f1117cf91646dd2634dc6014", null ],
-    [ "_vortexTriggers", "dc/d67/a19761.html#a21b0f26e2bf09d875b3708c594e652bc", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "dc/d67/a19761.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "dc/d67/a19761.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "dc/d67/a19761.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "dc/d67/a19761.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "dc/d67/a19761.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "dc/d67/a19761.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

@@ -1,7 +1,8 @@
 var a15133 =
 [
-    [ "PeriodicTick", "d4/d63/a15133.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "d4/d63/a15133.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "d4/d63/a15133.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "d4/d63/a15133.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "npc_thrall_old_hillsbradAI", "d7/db2/a15137.html", "d7/db2/a15137" ],
+    [ "npc_thrall_old_hillsbrad", "d4/d63/a15133.html#a3e6fa750b095af3beac806a619e18328", null ],
+    [ "GetAI", "d4/d63/a15133.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
+    [ "OnGossipHello", "d4/d63/a15133.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
+    [ "OnGossipSelect", "d4/d63/a15133.html#a17fcb00850503903f430506654e035c0", null ]
 ];

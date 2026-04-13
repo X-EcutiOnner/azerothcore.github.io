@@ -1,5 +1,5 @@
 var a27949 =
 [
-    [ "achievement_save_the_day", "d9/d23/a27949.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "d9/d23/a27949.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "go_veil_skith_cage", "d9/d23/a27949.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
+    [ "OnGossipHello", "d9/d23/a27949.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
 ];

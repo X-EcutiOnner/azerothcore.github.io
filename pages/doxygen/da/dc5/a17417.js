@@ -1,7 +1,5 @@
 var a17417 =
 [
-    [ "npc_hor_leader_secondAI", "d9/d3d/a17421.html", "d9/d3d/a17421" ],
-    [ "npc_hor_leader_second", "da/dc5/a17417.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
-    [ "GetAI", "da/dc5/a17417.html#af5b97ecca35501a75658919d384a18f7", null ],
-    [ "OnGossipSelect", "da/dc5/a17417.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
+    [ "achievement_share_the_love", "da/dc5/a17417.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
+    [ "OnCheck", "da/dc5/a17417.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
 ];

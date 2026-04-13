@@ -1,6 +1,7 @@
 var a14045 =
 [
-    [ "npc_augustus_the_touched", "db/da7/a14045.html#abc84c884345f44cf780410569cdee10c", null ],
-    [ "OnGossipHello", "db/da7/a14045.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
-    [ "OnGossipSelect", "db/da7/a14045.html#a992da9b22693c1fac1148b4ba545b819", null ]
+    [ "boss_blight_wormAI", "db/da7/a14045.html#af267e395fbd539f871e498dc6745c610", null ],
+    [ "Reset", "db/da7/a14045.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
+    [ "UpdateAI", "db/da7/a14045.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
+    [ "_events", "db/da7/a14045.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
 ];

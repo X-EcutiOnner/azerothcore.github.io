@@ -1,6 +1,7 @@
 var a24333 =
 [
-    [ "npc_pet_dk_ghoul", "dc/dc7/a24333.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "dc/dc7/a24333.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "dc/dc7/a24333.html#a6095e3619b470283b9875b90e2805b54", null ]
+    [ "HandleProc", "dc/dc7/a24333.html#af3169e55f8dea7f0efffd11fbe8e06fe", null ],
+    [ "PrepareAuraScript", "dc/dc7/a24333.html#abe4d50c9839defc99ca9806cd9d5445f", null ],
+    [ "Register", "dc/dc7/a24333.html#a2eb1b84ad1af2437e298255b0499b03d", null ],
+    [ "Validate", "dc/dc7/a24333.html#ae8fa6922908b4204e16a81b739d01fb1", null ]
 ];

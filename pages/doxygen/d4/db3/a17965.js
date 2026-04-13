@@ -1,7 +1,6 @@
 var a17965 =
 [
-    [ "HandleProc", "d4/db3/a17965.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
-    [ "PrepareAuraScript", "d4/db3/a17965.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
-    [ "Register", "d4/db3/a17965.html#acc0881cf7379525a0841426867d2d850", null ],
-    [ "Validate", "d4/db3/a17965.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
+    [ "npc_vengeful_shadeAI", "d7/d58/a17969.html", "d7/d58/a17969" ],
+    [ "npc_vengeful_shade", "d4/db3/a17965.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "d4/db3/a17965.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

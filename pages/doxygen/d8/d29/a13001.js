@@ -1,6 +1,9 @@
 var a13001 =
 [
-    [ "npc_flamewaker_priestAI", "d2/d07/a13005.html", "d2/d07/a13005" ],
-    [ "npc_flamewaker_priest", "d8/d29/a13001.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
-    [ "GetAI", "d8/d29/a13001.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
+    [ "FilterTargets", "d8/d29/a13001.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "d8/d29/a13001.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "d8/d29/a13001.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "d8/d29/a13001.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "d8/d29/a13001.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "d8/d29/a13001.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

@@ -1,6 +1,6 @@
 var a12645 =
 [
-    [ "boss_warmastervooneAI", "db/d6a/a12649.html", "db/d6a/a12649" ],
-    [ "boss_warmaster_voone", "dd/dd7/a12645.html#ac363118e4201adccd4be0028a558442f", null ],
-    [ "GetAI", "dd/dd7/a12645.html#a560469e60fda04b2c7d8fd3994493868", null ]
+    [ "go_chromaggus_lever", "dd/dd7/a12645.html#aa592f93028e323ed10102121d2d6b20e", null ],
+    [ "GossipHello", "dd/dd7/a12645.html#abfb91ccfeb90152dc252f0110fb51715", null ],
+    [ "_instance", "dd/dd7/a12645.html#a481373f4c49d76d3d0a41efcf2821f8f", null ]
 ];

@@ -1,6 +1,7 @@
 var a22437 =
 [
-    [ "npc_crusade_recruitAI", "d6/d63/a22441.html", "d6/d63/a22441" ],
-    [ "npc_crusade_recruit", "d6/d82/a22437.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "d6/d82/a22437.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "OnPeriodic", "d6/d82/a22437.html#a165d47b116b0a53e37b05f664960e6ec", null ],
+    [ "PrepareAuraScript", "d6/d82/a22437.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
+    [ "Register", "d6/d82/a22437.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
+    [ "Validate", "d6/d82/a22437.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
 ];

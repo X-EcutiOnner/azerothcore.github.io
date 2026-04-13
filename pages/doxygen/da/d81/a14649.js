@@ -1,7 +1,9 @@
 var a14649 =
 [
-    [ "FilterTargets", "da/d81/a14649.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "da/d81/a14649.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "da/d81/a14649.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "da/d81/a14649.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "entries", "da/d81/a14649.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "da/d81/a14649.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "da/d81/a14649.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "da/d81/a14649.html#a318d5e1c78e24df88077fe33ba5d9b5b", null ],
+    [ "size", "da/d81/a14649.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "da/d81/a14649.html#a54ef87964b52bb4fc2cc2846afd7e7d3", null ]
 ];

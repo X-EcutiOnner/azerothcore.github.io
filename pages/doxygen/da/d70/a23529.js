@@ -1,12 +1,16 @@
 var a23529 =
 [
-    [ "boss_vazruden_the_herald", "da/d70/a23529.html#a97f761b2e3477a22cdc65c68700de72c", null ],
-    [ "AttackStart", "da/d70/a23529.html#a190621f4130b913348a49d6dfe76b591", null ],
-    [ "JustSummoned", "da/d70/a23529.html#a66d8c6252e6baf88144da3af57bf65a4", null ],
-    [ "MovementInform", "da/d70/a23529.html#abd89aa3911c626864f8aada889ce99c9", null ],
-    [ "Reset", "da/d70/a23529.html#a18076b0fd12bc9a002394d5fe3aa5f81", null ],
-    [ "SetData", "da/d70/a23529.html#a7dcbec1c99fdf4f740656a8379a99080", null ],
-    [ "SummonedCreatureDespawn", "da/d70/a23529.html#a7621077082a3b53d1d21265e6dd00dce", null ],
-    [ "SummonedCreatureDies", "da/d70/a23529.html#a336feba0d88e4fccce28b2730a9aea9e", null ],
-    [ "UpdateAI", "da/d70/a23529.html#adc98e358a751fd9881589aada4baf320", null ]
+    [ "instance_the_eye_InstanceMapScript", "da/d70/a23529.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
+    [ "GetGuidData", "da/d70/a23529.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
+    [ "OnCreatureCreate", "da/d70/a23529.html#a8a89f56945022e34cc5d9ead06a58b63", null ],
+    [ "OnGameObjectCreate", "da/d70/a23529.html#a56c6933c2c231c228ca147107fbfc930", null ],
+    [ "AlarGUID", "da/d70/a23529.html#a2a5323d92963da3b4b99ef1f7debaa4d", null ],
+    [ "BridgeWindowGUID", "da/d70/a23529.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
+    [ "GrandAstromancerCapernianGUID", "da/d70/a23529.html#aa8e267617231a7816a43e9957c745c58", null ],
+    [ "KaelStateLeftGUID", "da/d70/a23529.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
+    [ "KaelStateRightGUID", "da/d70/a23529.html#a25ba703325800d2976eff860437f3d57", null ],
+    [ "KaelthasGUID", "da/d70/a23529.html#a547528fbfe31974759b0e6fbdf12df31", null ],
+    [ "LordSanguinarGUID", "da/d70/a23529.html#a5794e1c326ad2eb4fee2bdfab8261257", null ],
+    [ "MasterEngineerTelonicusGUID", "da/d70/a23529.html#abded7dc13c226ccad53c151d75ced243", null ],
+    [ "ThaladredTheDarkenerGUID", "da/d70/a23529.html#ada64ef9f71d61ea19144cec596ba06e2", null ]
 ];

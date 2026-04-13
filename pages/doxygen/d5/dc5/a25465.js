@@ -1,5 +1,6 @@
 var a25465 =
 [
-    [ "PrepareSpellScript", "d5/dc5/a25465.html#a7478d96ac24bc4b70a10bc83335c9b76", null ],
-    [ "Register", "d5/dc5/a25465.html#ab3ab9557cd1969fd977a3df6f2c59d7c", null ]
+    [ "HandleDummy", "d5/dc5/a25465.html#ad086618ff3caadcf5126e12a1359503f", null ],
+    [ "PrepareSpellScript", "d5/dc5/a25465.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
+    [ "Register", "d5/dc5/a25465.html#a214526ddc986ee829daf9090678e3a7b", null ]
 ];

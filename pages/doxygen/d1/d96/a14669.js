@@ -1,11 +1,6 @@
 var a14669 =
 [
-    [ "npc_dark_iron_attack_mole_machine", "d1/d96/a14669.html#a473a8fb4905e5d1333196797d7d0f371", null ],
-    [ "AttackStart", "d1/d96/a14669.html#a999dd932fbaf22a8275dfdba150c3291", null ],
-    [ "JustEngagedWith", "d1/d96/a14669.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
-    [ "MoveInLineOfSight", "d1/d96/a14669.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
-    [ "Reset", "d1/d96/a14669.html#a0727aab751ddfbd94ae070e60e47e768", null ],
-    [ "UpdateAI", "d1/d96/a14669.html#a1217ed510a846d011143ae0a386c6236", null ],
-    [ "goTimer", "d1/d96/a14669.html#a8686845ebef564c9fcaa115866c99749", null ],
-    [ "summonTimer", "d1/d96/a14669.html#a4713da02f4a86547a0f796167e24d8bb", null ]
+    [ "HandleScript", "d1/d96/a14669.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
+    [ "PrepareSpellScript", "d1/d96/a14669.html#a26b296c1c4d9f5193dc3773509267284", null ],
+    [ "Register", "d1/d96/a14669.html#aad66e4079ea9404b9057546d8959a395", null ]
 ];

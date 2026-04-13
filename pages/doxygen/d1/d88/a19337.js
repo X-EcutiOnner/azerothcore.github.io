@@ -1,6 +1,10 @@
 var a19337 =
 [
-    [ "npc_icc_putricades_trapAI", "d8/d68/a19341.html", "d8/d68/a19341" ],
-    [ "npc_icc_putricades_trap", "d1/d88/a19337.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "d1/d88/a19337.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "boss_patchwerkAI", "d1/d88/a19337.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d1/d88/a19337.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d1/d88/a19337.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d1/d88/a19337.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d1/d88/a19337.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d1/d88/a19337.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d1/d88/a19337.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

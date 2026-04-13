@@ -1,8 +1,8 @@
 var a13253 =
 [
-    [ "npc_cyclone", "df/d61/a13253.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "df/d61/a13253.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "df/d61/a13253.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "df/d61/a13253.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "df/d61/a13253.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "npc_dkc1_gothikAI", "df/d61/a13253.html#a35e65bd943f86ba3a1d6841569289df6", null ],
+    [ "DoAction", "df/d61/a13253.html#a3193c562973bbf995ab5e0173a93d01f", null ],
+    [ "MoveInLineOfSight", "df/d61/a13253.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
+    [ "UpdateAI", "df/d61/a13253.html#a346d32c9831babe6fb5f675b70b7a897", null ],
+    [ "spoken", "df/d61/a13253.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
 ];

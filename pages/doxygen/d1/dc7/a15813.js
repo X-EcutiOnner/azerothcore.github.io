@@ -1,8 +1,10 @@
 var a15813 =
 [
-    [ "npc_injured_draeneiAI", "d1/dc7/a15813.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "d1/dc7/a15813.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "d1/dc7/a15813.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "d1/dc7/a15813.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "d1/dc7/a15813.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "npc_omenAI", "d1/dc7/a15813.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
+    [ "JustDied", "d1/dc7/a15813.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
+    [ "JustEngagedWith", "d1/dc7/a15813.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
+    [ "MovementInform", "d1/dc7/a15813.html#a92e59bde1f0da2ee537a836304a3c385", null ],
+    [ "SpellHit", "d1/dc7/a15813.html#a4e3960d506fd0435de055a365906a9c9", null ],
+    [ "UpdateAI", "d1/dc7/a15813.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
+    [ "events", "d1/dc7/a15813.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
 ];

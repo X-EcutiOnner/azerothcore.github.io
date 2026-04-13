@@ -1,6 +1,10 @@
 var a12981 =
 [
-    [ "boss_shazzrahAI", "d9/d00/a12985.html", "d9/d00/a12985" ],
-    [ "boss_shazzrah", "d9/d73/a12981.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
-    [ "GetAI", "d9/d73/a12981.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
+    [ "npc_netherspite_infernal", "d9/d73/a12981.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d9/d73/a12981.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d9/d73/a12981.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d9/d73/a12981.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d9/d73/a12981.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d9/d73/a12981.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d9/d73/a12981.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

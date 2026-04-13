@@ -1,6 +1,7 @@
 var a21509 =
 [
-    [ "npc_sinkhole_kill_creditAI", "db/ddd/a21513.html", "db/ddd/a21513" ],
-    [ "npc_sinkhole_kill_credit", "d2/d05/a21509.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "d2/d05/a21509.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "HandleDummy", "d2/d05/a21509.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
+    [ "PrepareSpellScript", "d2/d05/a21509.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
+    [ "Register", "d2/d05/a21509.html#a45f80e0436f93a597deb4653852df6a1", null ],
+    [ "Validate", "d2/d05/a21509.html#ad13fdade1fb7455485bfd68687de53c5", null ]
 ];

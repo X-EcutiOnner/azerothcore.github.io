@@ -1,6 +1,6 @@
 var a23705 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d9/de4/a23709.html", "d9/de4/a23709" ],
-    [ "instance_arcatraz", "dd/d70/a23705.html#a6fc8860651573353b54fd26bddea32aa", null ],
-    [ "GetInstanceScript", "dd/d70/a23705.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d9/de4/a23709.html", "d9/de4/a23709" ],
+    [ "npc_creditmarker_visit_with_ancestors", "dd/d70/a23705.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "dd/d70/a23705.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

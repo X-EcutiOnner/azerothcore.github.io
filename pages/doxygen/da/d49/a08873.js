@@ -1,9 +1,10 @@
 var a08873 =
 [
-    [ "PendingSpellCastRequest", "da/d49/a08873.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
-    [ "cancelInProgress", "da/d49/a08873.html#a726b6e423b23f8c12c65e07809462ad1", null ],
-    [ "category", "da/d49/a08873.html#a51a702f257b784dac4556397dd1c0be4", null ],
-    [ "isItem", "da/d49/a08873.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
-    [ "requestPacket", "da/d49/a08873.html#a6ee868c6161e49dc8774ab357f313116", null ],
-    [ "spellId", "da/d49/a08873.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
+    [ "EquipmentSet", "da/d49/a08873.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "da/d49/a08873.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "da/d49/a08873.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "da/d49/a08873.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "da/d49/a08873.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "da/d49/a08873.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "da/d49/a08873.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

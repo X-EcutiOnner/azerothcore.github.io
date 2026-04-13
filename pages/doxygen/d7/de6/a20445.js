@@ -1,14 +1,9 @@
 var a20445 =
 [
-    [ "npc_ulduar_hodir_druid", "d7/de6/a20445.html#afab822c1363aaf51a94bb002a531b4a8", null ],
-    [ "AttackStart", "d7/de6/a20445.html#a67884f16c32f849bc68d68256c19d21a", null ],
-    [ "CanAIAttack", "d7/de6/a20445.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
-    [ "EnterEvadeMode", "d7/de6/a20445.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
-    [ "JustDied", "d7/de6/a20445.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
-    [ "MoveInLineOfSight", "d7/de6/a20445.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
-    [ "ScheduleAbilities", "d7/de6/a20445.html#ac8bee382634e20a49178be8b224eca2d", null ],
-    [ "SpellHit", "d7/de6/a20445.html#a1053d484f30df43fba465981cd3cfa38", null ],
-    [ "UpdateAI", "d7/de6/a20445.html#abcd580306a3abb5663bbac33f68115eb", null ],
-    [ "events", "d7/de6/a20445.html#a323184c52fcbc3e18eb74c96db716327", null ],
-    [ "pInstance", "d7/de6/a20445.html#a2c5e8b14d1feedc6ff6f4634653e9b47", null ]
+    [ "npc_ulduar_dark_rune_sentinel", "d7/de6/a20445.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
+    [ "CanAIAttack", "d7/de6/a20445.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
+    [ "Reset", "d7/de6/a20445.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
+    [ "UpdateAI", "d7/de6/a20445.html#ae0c37055a213f91a46b68d7286ef3867", null ],
+    [ "timer1", "d7/de6/a20445.html#a836d5ed8691a08303622389475380eae", null ],
+    [ "timer2", "d7/de6/a20445.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
 ];

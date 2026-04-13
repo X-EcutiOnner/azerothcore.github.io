@@ -1,5 +1,5 @@
 var a08129 =
 [
-    [ "flags", "d7/d87/a08129.html#ac55cea8114883b0000fb9fd195910f65", null ],
-    [ "params", "d7/d87/a08129.html#a5426d7accbe5734016fed99e632ea313", null ]
+    [ "ThreatReferenceImpl", "d7/d87/a08129.html#ae69492bf301cc65e2554ac6d46039086", null ],
+    [ "_handle", "d7/d87/a08129.html#a500806ed499b69bcae1d9a05071dea2c", null ]
 ];

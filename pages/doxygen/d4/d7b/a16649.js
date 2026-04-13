@@ -1,6 +1,10 @@
 var a16649 =
 [
-    [ "PrepareSpellScript", "d4/d7b/a16649.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "d4/d7b/a16649.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "d4/d7b/a16649.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "npc_nerubian_burrowerAI", "d4/d7b/a16649.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "d4/d7b/a16649.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "d4/d7b/a16649.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "d4/d7b/a16649.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "d4/d7b/a16649.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "d4/d7b/a16649.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "d4/d7b/a16649.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

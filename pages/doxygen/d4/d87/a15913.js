@@ -1,8 +1,10 @@
 var a15913 =
 [
-    [ "npc_aged_dying_ancient_kodo", "d4/d87/a15913.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
-    [ "JustRespawned", "d4/d87/a15913.html#ab401f9002bd49b26cc0526112e715d1e", null ],
-    [ "MoveInLineOfSight", "d4/d87/a15913.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
-    [ "OnGossipHello", "d4/d87/a15913.html#a760b1c45119893fc7e792139b2e9d948", null ],
-    [ "SpellHit", "d4/d87/a15913.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
+    [ "npc_custodian_of_timeAI", "d4/d87/a15913.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "d4/d87/a15913.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "d4/d87/a15913.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "d4/d87/a15913.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "d4/d87/a15913.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "d4/d87/a15913.html#a963736e62fbd0caea631ee3fb69fca46", null ],
+    [ "WaypointReached", "d4/d87/a15913.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

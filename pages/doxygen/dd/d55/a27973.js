@@ -1,5 +1,6 @@
 var a27973 =
 [
-    [ "achievement_sickly_gazelle", "dd/d55/a27973.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "dd/d55/a27973.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "guard_shattrath_aldorAI", "d8/da6/a27977.html", "d8/da6/a27977" ],
+    [ "guard_shattrath_aldor", "dd/d55/a27973.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "dd/d55/a27973.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

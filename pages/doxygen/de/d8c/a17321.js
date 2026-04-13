@@ -1,6 +1,11 @@
 var a17321 =
 [
-    [ "boss_marwynAI", "d7/dfe/a17325.html", "d7/dfe/a17325" ],
-    [ "boss_marwyn", "de/d8c/a17321.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "de/d8c/a17321.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "npc_pos_leader_secondAI", "de/d8c/a17321.html#a2ded8591da2548921cd016d592d1f1c8", null ],
+    [ "DoAction", "de/d8c/a17321.html#a941d3b42d6a0e58496b724af56fee44a", null ],
+    [ "MovementInform", "de/d8c/a17321.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
+    [ "SpellHitTarget", "de/d8c/a17321.html#ae630b7b225379831d15a11f66507bc6a", null ],
+    [ "UpdateAI", "de/d8c/a17321.html#a640aea9ce4a47dd13d417748e533fc33", null ],
+    [ "barrierGUID", "de/d8c/a17321.html#a452c096475581c12bf2f4ccb12448026", null ],
+    [ "events", "de/d8c/a17321.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
+    [ "pInstance", "de/d8c/a17321.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
 ];

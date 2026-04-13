@@ -1,6 +1,7 @@
 var a20017 =
 [
-    [ "boss_sjonnirAI", "de/dad/a20021.html", "de/dad/a20021" ],
-    [ "boss_sjonnir", "d8/d41/a20017.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d8/d41/a20017.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "HandleScript", "d8/d41/a20017.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d8/d41/a20017.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d8/d41/a20017.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d8/d41/a20017.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

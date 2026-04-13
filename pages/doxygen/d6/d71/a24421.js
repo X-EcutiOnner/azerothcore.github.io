@@ -1,8 +1,9 @@
 var a24421 =
 [
-    [ "CheckProc", "d6/d71/a24421.html#a746a3e24e07ef9a6ddecef80621768f0", null ],
-    [ "HandleProc", "d6/d71/a24421.html#aa0c2bbb60940982e14ae98799fb220a6", null ],
-    [ "PrepareAuraScript", "d6/d71/a24421.html#a0d9decd8a0901b7ab35de6af120baf34", null ],
-    [ "Register", "d6/d71/a24421.html#aae146676b2ca0f29b1712b774b7f9148", null ],
-    [ "Validate", "d6/d71/a24421.html#a7725ff69907bb8328c5f7dffaf941478", null ]
+    [ "Absorb", "d6/d71/a24421.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
+    [ "CalculateAmount", "d6/d71/a24421.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
+    [ "Load", "d6/d71/a24421.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
+    [ "PrepareAuraScript", "d6/d71/a24421.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
+    [ "Register", "d6/d71/a24421.html#a47bd5ef93255a2d926874d6d70861374", null ],
+    [ "absorbPct", "d6/d71/a24421.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
 ];

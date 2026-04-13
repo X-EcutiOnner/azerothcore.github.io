@@ -1,7 +1,13 @@
 var a19561 =
 [
-    [ "FilterTargets", "de/df2/a19561.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "de/df2/a19561.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "de/df2/a19561.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "de/df2/a19561.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "npc_oculus_unstable_sphereAI", "de/df2/a19561.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "de/df2/a19561.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "de/df2/a19561.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "de/df2/a19561.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "de/df2/a19561.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "de/df2/a19561.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "de/df2/a19561.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "de/df2/a19561.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "de/df2/a19561.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "de/df2/a19561.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

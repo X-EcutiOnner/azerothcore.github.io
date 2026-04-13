@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Hyperlinks::LinkTags::base_tag Struct Reference</title>
+<title>AzerothCore: LinkValidator&lt; LinkTags::enchant &gt; Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,28 +107,21 @@ $(document).ready(function(){initNavTree('df/d1c/a08025.html','../../'); initRes
   <div class="summary">
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d0/dd1/a08022.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Hyperlinks::LinkTags::base_tag Struct Reference</div></div>
+  <div class="headertitle"><div class="title">LinkValidator&lt; LinkTags::enchant &gt; Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">Hyperlinks.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a071922c9c431637de3cb2d6b52def7bd"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d1c/a08025.html#a071922c9c431637de3cb2d6b52def7bd">StoreTo</a> (std::string_view &amp;val, std::string_view data)</td></tr>
-<tr class="separator:a071922c9c431637de3cb2d6b52def7bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3d9382dd50447477f9f04bc0f055e55c"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d1c/a08025.html#a3d9382dd50447477f9f04bc0f055e55c">StoreTo</a> (std::string &amp;val, std::string_view data)</td></tr>
-<tr class="separator:a3d9382dd50447477f9f04bc0f055e55c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a45556cc3ac64a6692ef08d6d93d48a4d"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a45556cc3ac64a6692ef08d6d93d48a4d"><td class="memTemplItemLeft" align="right" valign="top">static std::enable_if_t&lt; std::is_integral_v&lt; T &gt;, bool &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/d1c/a08025.html#a45556cc3ac64a6692ef08d6d93d48a4d">StoreTo</a> (T &amp;val, std::string_view data)</td></tr>
-<tr class="separator:a45556cc3ac64a6692ef08d6d93d48a4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1f368b832f95ce4acc6ed47ad4ca2e8d"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d1c/a08025.html#a1f368b832f95ce4acc6ed47ad4ca2e8d">StoreTo</a> (<a class="el" href="../../df/d68/a08677.html">ObjectGuid</a> &amp;val, std::string_view data)</td></tr>
-<tr class="separator:a1f368b832f95ce4acc6ed47ad4ca2e8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b729ae39753a31c38c16e5186fe7f46"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d1c/a08025.html#a3b729ae39753a31c38c16e5186fe7f46">IsTextValid</a> (<a class="el" href="../../da/dae/a11721.html">SpellInfo</a> const *info, std::string_view text)</td></tr>
+<tr class="separator:a3b729ae39753a31c38c16e5186fe7f46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9f1623f6e04696a0e3520d3996170e4"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d1c/a08025.html#ad9f1623f6e04696a0e3520d3996170e4">IsColorValid</a> (<a class="el" href="../../da/dae/a11721.html">SpellInfo</a> const *, <a class="el" href="../../d8/dda/a08101.html">HyperlinkColor</a> c)</td></tr>
+<tr class="separator:ad9f1623f6e04696a0e3520d3996170e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a1f368b832f95ce4acc6ed47ad4ca2e8d" name="a1f368b832f95ce4acc6ed47ad4ca2e8d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1f368b832f95ce4acc6ed47ad4ca2e8d">&#9670;&#160;</a></span>StoreTo() <span class="overload">[1/4]</span></h2>
+<a id="ad9f1623f6e04696a0e3520d3996170e4" name="ad9f1623f6e04696a0e3520d3996170e4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9f1623f6e04696a0e3520d3996170e4">&#9670;&#160;</a></span>IsColorValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -137,16 +130,16 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool Acore::Hyperlinks::LinkTags::base_tag::StoreTo </td>
+          <td class="memname">static bool <a class="el" href="../../d4/ddd/a08005.html">LinkValidator</a>&lt; <a class="el" href="../../d6/d23/a08073.html">LinkTags::enchant</a> &gt;::IsColorValid </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d68/a08677.html">ObjectGuid</a> &amp;&#160;</td>
-          <td class="paramname"><em>val</em>, </td>
+          <td class="paramtype"><a class="el" href="../../da/dae/a11721.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>data</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d8/dda/a08101.html">HyperlinkColor</a>&#160;</td>
+          <td class="paramname"><em>c</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -160,24 +153,17 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  132</span>            {</div>
-<div class="line"><span class="lineno">  133</span>                <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d24/a00068.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;uint64&gt;</a> res = Acore::StringTo&lt;uint64&gt;(data, 16))</div>
-<div class="line"><span class="lineno">  134</span>                {</div>
-<div class="line"><span class="lineno">  135</span>                    val.<a class="code hl_function" href="../../df/d68/a08677.html#adfd90f25996d5e85a14e25f1af152c94">Set</a>(*res);</div>
-<div class="line"><span class="lineno">  136</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  137</span>                }</div>
-<div class="line"><span class="lineno">  138</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  139</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  140</span>            }</div>
-<div class="ttc" id="aa00068_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../da/d24/a00068.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
-<div class="ttc" id="aa08677_html_adfd90f25996d5e85a14e25f1af152c94"><div class="ttname"><a href="../../df/d68/a08677.html#adfd90f25996d5e85a14e25f1af152c94">ObjectGuid::Set</a></div><div class="ttdeci">void Set(uint64 guid)</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:137</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  269</span>    {</div>
+<div class="line"><span class="lineno">  270</span>        <span class="keywordflow">return</span> c == <a class="code hl_enumvalue" href="../../d3/d31/a04292.html#aff4462a11392766622feb9f20463ffb6aef6e6e18af8edc27efc8b497b1bff3ea">CHAT_LINK_COLOR_ENCHANT</a>;</div>
+<div class="line"><span class="lineno">  271</span>    }</div>
+<div class="ttc" id="aa04292_html_aff4462a11392766622feb9f20463ffb6aef6e6e18af8edc27efc8b497b1bff3ea"><div class="ttname"><a href="../../d3/d31/a04292.html#aff4462a11392766622feb9f20463ffb6aef6e6e18af8edc27efc8b497b1bff3ea">CHAT_LINK_COLOR_ENCHANT</a></div><div class="ttdeci">@ CHAT_LINK_COLOR_ENCHANT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3446</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00137">ObjectGuid::Set()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l03446">CHAT_LINK_COLOR_ENCHANT</a>.</p>
 
 </div>
 </div>
-<a id="a3d9382dd50447477f9f04bc0f055e55c" name="a3d9382dd50447477f9f04bc0f055e55c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3d9382dd50447477f9f04bc0f055e55c">&#9670;&#160;</a></span>StoreTo() <span class="overload">[2/4]</span></h2>
+<a id="a3b729ae39753a31c38c16e5186fe7f46" name="a3b729ae39753a31c38c16e5186fe7f46"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b729ae39753a31c38c16e5186fe7f46">&#9670;&#160;</a></span>IsTextValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -186,16 +172,16 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool Acore::Hyperlinks::LinkTags::base_tag::StoreTo </td>
+          <td class="memname">static bool <a class="el" href="../../d4/ddd/a08005.html">LinkValidator</a>&lt; <a class="el" href="../../d6/d23/a08073.html">LinkTags::enchant</a> &gt;::IsTextValid </td>
           <td>(</td>
-          <td class="paramtype">std::string &amp;&#160;</td>
-          <td class="paramname"><em>val</em>, </td>
+          <td class="paramtype"><a class="el" href="../../da/dae/a11721.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>info</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>data</em>&#160;</td>
+          <td class="paramname"><em>text</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -209,100 +195,45 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  114</span>            {</div>
-<div class="line"><span class="lineno">  115</span>                val.assign(data);</div>
-<div class="line"><span class="lineno">  116</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  117</span>            }</div>
+<div class="fragment"><div class="line"><span class="lineno">  239</span>    {</div>
+<div class="line"><span class="lineno">  240</span>        <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d4/ddd/a08005.html">LinkValidator&lt;LinkTags::spell&gt;::IsTextValid</a>(info, text))</div>
+<div class="line"><span class="lineno">  241</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  242</span> </div>
+<div class="line"><span class="lineno">  243</span>        <a class="code hl_typedef" href="../../dd/deb/a01628.html#ac821b7d2d8a9effd8fafef038528e877">SkillLineAbilityMapBounds</a> bounds = <a class="code hl_define" href="../../dd/deb/a01628.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSkillLineAbilityMapBounds(info-&gt;Id);</div>
+<div class="line"><span class="lineno">  244</span>        <span class="keywordflow">if</span> (bounds.first == bounds.second)</div>
+<div class="line"><span class="lineno">  245</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  246</span> </div>
+<div class="line"><span class="lineno">  247</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> pair = bounds.first; pair != bounds.second; ++pair)</div>
+<div class="line"><span class="lineno">  248</span>        {</div>
+<div class="line"><span class="lineno">  249</span>            <a class="code hl_struct" href="../../d4/d88/a28937.html">SkillLineEntry</a> <span class="keyword">const</span>* skill = <a class="code hl_variable" href="../../db/d1c/a01229.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a>.LookupEntry(pair-&gt;second-&gt;SkillLine);</div>
+<div class="line"><span class="lineno">  250</span>            <span class="keywordflow">if</span> (!skill)</div>
+<div class="line"><span class="lineno">  251</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  252</span> </div>
+<div class="line"><span class="lineno">  253</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../dc/d27/a04808.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
+<div class="line"><span class="lineno">  254</span>            {</div>
+<div class="line"><span class="lineno">  255</span>                std::string_view skillName = skill-&gt;<a class="code hl_variable" href="../../d4/d88/a28937.html#afb5e77ab4f6faa132ca62f7664dce116">name</a>[i];</div>
+<div class="line"><span class="lineno">  256</span>                std::string_view spellName = info-&gt;SpellName[i];</div>
+<div class="line"><span class="lineno">  257</span>                <span class="comment">// alternate form [Skill Name: Spell Name]</span></div>
+<div class="line"><span class="lineno">  258</span>                <span class="keywordflow">if</span> ((text.length() == (skillName.length() + 2 + spellName.length())) &amp;&amp;</div>
+<div class="line"><span class="lineno">  259</span>                    (text.substr(0, skillName.length()) == skillName) &amp;&amp;</div>
+<div class="line"><span class="lineno">  260</span>                    (text.substr(skillName.length(), 2) == <span class="stringliteral">&quot;: &quot;</span>) &amp;&amp;</div>
+<div class="line"><span class="lineno">  261</span>                    (text.substr(skillName.length() + 2) == spellName))</div>
+<div class="line"><span class="lineno">  262</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  263</span>            }</div>
+<div class="line"><span class="lineno">  264</span>        }</div>
+<div class="line"><span class="lineno">  265</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  266</span>    }</div>
+<div class="ttc" id="aa01229_html_ab4bb35cde6511a56d8b9d23f4290f8e7"><div class="ttname"><a href="../../db/d1c/a01229.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a></div><div class="ttdeci">DBCStorage&lt; SkillLineEntry &gt; sSkillLineStore(SkillLinefmt)</div></div>
+<div class="ttc" id="aa01628_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../dd/deb/a01628.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:836</div></div>
+<div class="ttc" id="aa01628_html_ac821b7d2d8a9effd8fafef038528e877"><div class="ttname"><a href="../../dd/deb/a01628.html#ac821b7d2d8a9effd8fafef038528e877">SkillLineAbilityMapBounds</a></div><div class="ttdeci">std::pair&lt; SkillLineAbilityMap::const_iterator, SkillLineAbilityMap::const_iterator &gt; SkillLineAbilityMapBounds</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:586</div></div>
+<div class="ttc" id="aa04568_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa04808_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../dc/d27/a04808.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:128</div></div>
+<div class="ttc" id="aa08005_html"><div class="ttname"><a href="../../d4/ddd/a08005.html">LinkValidator</a></div><div class="ttdef"><b>Definition:</b> Hyperlinks.cpp:106</div></div>
+<div class="ttc" id="aa28937_html"><div class="ttname"><a href="../../d4/d88/a28937.html">SkillLineEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1583</div></div>
+<div class="ttc" id="aa28937_html_afb5e77ab4f6faa132ca62f7664dce116"><div class="ttname"><a href="../../d4/d88/a28937.html#afb5e77ab4f6faa132ca62f7664dce116">SkillLineEntry::name</a></div><div class="ttdeci">char const  * name[16]</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1587</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="a071922c9c431637de3cb2d6b52def7bd" name="a071922c9c431637de3cb2d6b52def7bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a071922c9c431637de3cb2d6b52def7bd">&#9670;&#160;</a></span>StoreTo() <span class="overload">[3/4]</span></h2>
+<p class="reference">References <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l01587">SkillLineEntry::name</a>, <a class="el" href="../../#l00407">SpellInfo::SpellName</a>, <a class="el" href="../../db/d1c/a01229.html#ab4bb35cde6511a56d8b9d23f4290f8e7">sSkillLineStore</a>, <a class="el" href="../../#l00836">sSpellMgr</a>, and <a class="el" href="../../#l00128">TOTAL_LOCALES</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static bool Acore::Hyperlinks::LinkTags::base_tag::StoreTo </td>
-          <td>(</td>
-          <td class="paramtype">std::string_view &amp;&#160;</td>
-          <td class="paramname"><em>val</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>data</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  108</span>            {</div>
-<div class="line"><span class="lineno">  109</span>                val = data;</div>
-<div class="line"><span class="lineno">  110</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  111</span>            }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00033">HyperlinkDataTokenizer::TryConsumeTo()</a>.</p>
-
-</div>
-</div>
-<a id="a45556cc3ac64a6692ef08d6d93d48a4d" name="a45556cc3ac64a6692ef08d6d93d48a4d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a45556cc3ac64a6692ef08d6d93d48a4d">&#9670;&#160;</a></span>StoreTo() <span class="overload">[4/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static std::enable_if_t&lt; std::is_integral_v&lt; T &gt;, bool &gt; Acore::Hyperlinks::LinkTags::base_tag::StoreTo </td>
-          <td>(</td>
-          <td class="paramtype">T &amp;&#160;</td>
-          <td class="paramname"><em>val</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>data</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  121</span>            {</div>
-<div class="line"><span class="lineno">  122</span>                <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d24/a00068.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;T&gt;</a> res = Acore::StringTo&lt;T&gt;(data))</div>
-<div class="line"><span class="lineno">  123</span>                {</div>
-<div class="line"><span class="lineno">  124</span>                    val = *res;</div>
-<div class="line"><span class="lineno">  125</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  126</span>                }</div>
-<div class="line"><span class="lineno">  127</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  128</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  129</span>            }</div>
-</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -310,8 +241,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/d4c/a04980.html">Acore</a></li><li class="navelem"><a class="el" href="../../db/d39/a05023.html">Hyperlinks</a></li><li class="navelem"><a class="el" href="../../d7/d17/a05024.html">LinkTags</a></li><li class="navelem"><a class="el" href="../../df/d1c/a08025.html">base_tag</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:10:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/d1c/a08025.html">LinkValidator&lt; LinkTags::enchant &gt;</a></li>
+    <li class="footer">Generated on Mon Apr 13 2026 21:28:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

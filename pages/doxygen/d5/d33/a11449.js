@@ -1,5 +1,7 @@
 var a11449 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "d5/d33/a11449.html#a9d821669804cd04cf121e141d94ead36", null ],
-    [ "Initialize", "d5/d33/a11449.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
+    [ "UpdateWorldState", "d5/d33/a11449.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
+    [ "Write", "d5/d33/a11449.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
+    [ "Value", "d5/d33/a11449.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
+    [ "VariableID", "d5/d33/a11449.html#aa73278b324822f509f48e6edcdaed457", null ]
 ];

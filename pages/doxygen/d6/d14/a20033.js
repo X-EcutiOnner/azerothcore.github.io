@@ -1,6 +1,8 @@
 var a20033 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "de/de5/a20037.html", "de/de5/a20037" ],
-    [ "boss_sjonnir_iron_sludge", "d6/d14/a20033.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
-    [ "GetAI", "d6/d14/a20033.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
+    [ "HandleOnEffectApply", "d6/d14/a20033.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "d6/d14/a20033.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "d6/d14/a20033.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "d6/d14/a20033.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "d6/d14/a20033.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

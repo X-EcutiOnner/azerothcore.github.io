@@ -1,12 +1,7 @@
 var a16833 =
 [
-    [ "npc_swarm_scarabAI", "d7/de4/a16833.html#a0d0cefd52543044773e7df772f90fd37", null ],
-    [ "CanAIAttack", "d7/de4/a16833.html#a95a27742f4f7fa1af45964b6270a9558", null ],
-    [ "DoAction", "d7/de4/a16833.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
-    [ "JustDied", "d7/de4/a16833.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
-    [ "JustEngagedWith", "d7/de4/a16833.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
-    [ "Reset", "d7/de4/a16833.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
-    [ "UpdateAI", "d7/de4/a16833.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
-    [ "despawnTimer", "d7/de4/a16833.html#a6d35e43af695ac112b972badb665f06d", null ],
-    [ "determinationTimer", "d7/de4/a16833.html#af319dbf16bc1d3939602465f0a87d30c", null ]
+    [ "HandleEffectPeriodic", "d7/de4/a16833.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
+    [ "PrepareAuraScript", "d7/de4/a16833.html#a66dcb98f38ed6b040928543015f59c9b", null ],
+    [ "Register", "d7/de4/a16833.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
+    [ "Validate", "d7/de4/a16833.html#a1131f0014f298b87483412d960bc0221", null ]
 ];

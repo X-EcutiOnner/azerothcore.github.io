@@ -1,6 +1,6 @@
 var a12397 =
 [
-    [ "boss_anubshiahAI", "de/d64/a12397.html#ae5bdb5509aad0d386bf73e5aad728744", null ],
-    [ "JustEngagedWith", "de/d64/a12397.html#ae83c1def323828814b5db6b032002438", null ],
-    [ "UpdateAI", "de/d64/a12397.html#a3acd88f97e2f1e3386c9b5dfa4f15d15", null ]
+    [ "boss_galvangarAI", "d3/d59/a12401.html", "d3/d59/a12401" ],
+    [ "boss_galvangar", "de/d64/a12397.html#a3949cfd3c987bdf52d313568de9379ba", null ],
+    [ "GetAI", "de/d64/a12397.html#a9fd978eb38ae3e2d8d65cf4214e673e3", null ]
 ];

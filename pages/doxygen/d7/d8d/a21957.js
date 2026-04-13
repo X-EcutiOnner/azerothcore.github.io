@@ -1,7 +1,8 @@
 var a21957 =
 [
-    [ "HandleScript", "d7/d8d/a21957.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "d7/d8d/a21957.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "d7/d8d/a21957.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "d7/d8d/a21957.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "spell_loosen_grip", "d7/d8d/a21957.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "d7/d8d/a21957.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "d7/d8d/a21957.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "d7/d8d/a21957.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "d7/d8d/a21957.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

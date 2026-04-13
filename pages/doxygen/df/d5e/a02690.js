@@ -1,15 +1,6 @@
 var a02690 =
 [
-    [ "icecrown_citadel_teleport", "d9/dc5/a19074.html", "d9/dc5/a19074" ],
-    [ "at_frozen_throne_teleport", "df/d7e/a19078.html", "df/d7e/a19078" ],
-    [ "GOSSIP_SENDER_ICC_PORT", "df/d5e/a02690.html#a6fba34564bcdeb5d7a73d3c21850f02a", null ],
-    [ "ICCTeleportOption", "df/d5e/a02690.html#a6fd4f2624c3269860a58fdcfbb273928", [
-      [ "ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER", "df/d5e/a02690.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED", "df/d5e/a02690.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS", "df/d5e/a02690.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE", "df/d5e/a02690.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE", "df/d5e/a02690.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR", "df/d5e/a02690.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b", null ]
-    ] ],
-    [ "AddSC_icecrown_citadel_teleport", "df/d5e/a02690.html#aba5bcd7624aeee0dbd61deec7f8d5d5b", null ]
+    [ "instance_auchenai_crypts", "d3/d9f/a22241.html", "d3/d9f/a22241" ],
+    [ "instance_auchenai_crypts::instance_auchenai_crypts_InstanceMapScript", "d1/d58/a22245.html", "d1/d58/a22245" ],
+    [ "AddSC_instance_auchenai_crypts", "df/d5e/a02690.html#a3a9866226f3a0e32fdb3501e506ab0b5", null ]
 ];

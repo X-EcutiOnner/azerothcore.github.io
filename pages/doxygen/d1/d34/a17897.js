@@ -1,6 +1,6 @@
 var a17897 =
 [
-    [ "boss_deathbringer_saurfangAI", "d3/df0/a17901.html", "d3/df0/a17901" ],
-    [ "boss_deathbringer_saurfang", "d1/d34/a17897.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
-    [ "GetAI", "d1/d34/a17897.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
+    [ "BurningPitchFilterCheck", "d1/d34/a17897.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "d1/d34/a17897.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "d1/d34/a17897.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

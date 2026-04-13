@@ -1,8 +1,8 @@
 var a21857 =
 [
-    [ "AfterApply", "d1/d55/a21857.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "d1/d55/a21857.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "d1/d55/a21857.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "d1/d55/a21857.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "d1/d55/a21857.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "CheckCast", "d1/d55/a21857.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "d1/d55/a21857.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "d1/d55/a21857.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "d1/d55/a21857.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "d1/d55/a21857.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

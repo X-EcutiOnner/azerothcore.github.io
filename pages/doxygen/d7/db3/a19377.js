@@ -1,7 +1,6 @@
 var a19377 =
 [
-    [ "DelayedCastMincharEvent", "d7/db3/a19377.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "d7/db3/a19377.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "d7/db3/a19377.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "d7/db3/a19377.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "boss_thaddius_summonAI", "d1/d36/a19381.html", "d1/d36/a19381" ],
+    [ "boss_thaddius_summon", "d7/db3/a19377.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "d7/db3/a19377.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

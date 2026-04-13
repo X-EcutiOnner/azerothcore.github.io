@@ -1,6 +1,5 @@
 var a23157 =
 [
-    [ "HandleEffectRemove", "d7/df2/a23157.html#ae31aae4e762b3c19e7df0c1d3a3733c3", null ],
-    [ "PrepareAuraScript", "d7/df2/a23157.html#a3758550ba42e01aff3a1e23c624a84b9", null ],
-    [ "Register", "d7/df2/a23157.html#a6fb7aec222f9282b0300b0d2f309d47e", null ]
+    [ "go_broggok_lever", "d7/df2/a23157.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
+    [ "OnGossipHello", "d7/df2/a23157.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
 ];

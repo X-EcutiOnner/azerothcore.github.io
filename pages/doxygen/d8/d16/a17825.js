@@ -1,6 +1,6 @@
 var a17825 =
 [
-    [ "OnAbsorb", "d8/d16/a17825.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "d8/d16/a17825.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "d8/d16/a17825.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "npc_gunship_gunnerAI", "db/d2e/a17829.html", "db/d2e/a17829" ],
+    [ "npc_gunship_gunner", "d8/d16/a17825.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "d8/d16/a17825.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

@@ -1,7 +1,6 @@
 var a25797 =
 [
-    [ "CheckProc", "d5/d29/a25797.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "d5/d29/a25797.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "d5/d29/a25797.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "d5/d29/a25797.html#a55557026689613e91aeabce1af442237", null ]
+    [ "CalculateDamage", "d5/d29/a25797.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
+    [ "PrepareSpellScript", "d5/d29/a25797.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
+    [ "Register", "d5/d29/a25797.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
 ];

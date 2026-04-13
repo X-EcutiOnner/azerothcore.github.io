@@ -1,7 +1,5 @@
 var a27889 =
 [
-    [ "HandleScript", "d4/de7/a27889.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "d4/de7/a27889.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "d4/de7/a27889.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "d4/de7/a27889.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "go_southfury_moonstone", "d4/de7/a27889.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
+    [ "OnGossipHello", "d4/de7/a27889.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
 ];

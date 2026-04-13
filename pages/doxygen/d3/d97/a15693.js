@@ -1,8 +1,11 @@
 var a15693 =
 [
-    [ "boss_veklor", "d3/d97/a15693.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
-    [ "AttackStart", "d3/d97/a15693.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
-    [ "IAmVeklor", "d3/d97/a15693.html#a4c43713c24b5537f292be1e0fcaee703", null ],
-    [ "JustEngagedWith", "d3/d97/a15693.html#a05913da666b1715eac68441195dd9df4", null ],
-    [ "SpellHit", "d3/d97/a15693.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
+    [ "npc_kerlonianAI", "d3/d97/a15693.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "d3/d97/a15693.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "d3/d97/a15693.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "d3/d97/a15693.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "d3/d97/a15693.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "d3/d97/a15693.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "d3/d97/a15693.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "d3/d97/a15693.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

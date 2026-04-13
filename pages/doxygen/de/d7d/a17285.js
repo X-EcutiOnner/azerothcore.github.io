@@ -1,8 +1,6 @@
 var a17285 =
 [
-    [ "npc_fos_leaderAI", "de/d7d/a17285.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "de/d7d/a17285.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "de/d7d/a17285.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "de/d7d/a17285.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "de/d7d/a17285.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "npc_pos_icicle_triggerAI", "dd/df9/a17289.html", "dd/df9/a17289" ],
+    [ "npc_pos_icicle_trigger", "de/d7d/a17285.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
+    [ "GetAI", "de/d7d/a17285.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
 ];

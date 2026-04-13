@@ -1,5 +1,7 @@
 var a09353 =
 [
-    [ "Visit", "d7/d03/a09353.html#aa0f56809b23b117bde869576ddaa9dbd", null ],
-    [ "Visit", "d7/d03/a09353.html#afab06305b5b3568b93d07f80efd616ae", null ]
+    [ "GetAntiDosPolicyForOpcode", "d7/d03/a09353.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
+    [ "instance", "d7/d03/a09353.html#a859596f153aa470fa503f67092e26160", null ],
+    [ "LoadAntiDosOpcodePolicies", "d7/d03/a09353.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
+    [ "_antiDosOpcodePolicies", "d7/d03/a09353.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
 ];

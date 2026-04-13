@@ -1,11 +1,11 @@
 var a20345 =
 [
-    [ "boss_freya_elder_brightleaf", "de/d9a/a20345.html#a7454f4dec1f1ccc471f42eeee513f272", null ],
-    [ "JustDied", "de/d9a/a20345.html#a98aed4b2a4ebf10c807d9bb54c65a273", null ],
-    [ "JustEngagedWith", "de/d9a/a20345.html#ad0f003e5b57b7c7df4b860df2f8e1e85", null ],
-    [ "KilledUnit", "de/d9a/a20345.html#a3c45c1c87f793cb4dbd447065b09d108", null ],
-    [ "Reset", "de/d9a/a20345.html#ae9687c330856da6d5e7bed9bccbe8e52", null ],
-    [ "UpdateAI", "de/d9a/a20345.html#aa53a5a5ada35c8717c58553b397d58d9", null ],
-    [ "events", "de/d9a/a20345.html#aaa459ae8f2e0f83330359d45259d9f79", null ],
-    [ "summons", "de/d9a/a20345.html#a0c11c362ecc29e91f21c87ca0fb3d92e", null ]
+    [ "npc_ulduar_proximity_mine", "de/d9a/a20345.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "de/d9a/a20345.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "de/d9a/a20345.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "de/d9a/a20345.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "de/d9a/a20345.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "de/d9a/a20345.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "de/d9a/a20345.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "de/d9a/a20345.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

@@ -1,6 +1,5 @@
 var a20781 =
 [
-    [ "OnPeriodic", "d9/d8b/a20781.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "d9/d8b/a20781.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "d9/d8b/a20781.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "d9/d8b/a20781.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "d9/d8b/a20781.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

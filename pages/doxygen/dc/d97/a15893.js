@@ -1,10 +1,7 @@
 var a15893 =
 [
-    [ "npc_rabid_thistle_bearAI", "dc/d97/a15893.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "dc/d97/a15893.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "dc/d97/a15893.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "dc/d97/a15893.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "dc/d97/a15893.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "dc/d97/a15893.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "dc/d97/a15893.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "npc_kaya_flathoofAI", "da/d64/a15897.html", "da/d64/a15897" ],
+    [ "npc_kaya_flathoof", "dc/d97/a15893.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
+    [ "GetAI", "dc/d97/a15893.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
+    [ "OnQuestAccept", "dc/d97/a15893.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
 ];

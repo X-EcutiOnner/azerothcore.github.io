@@ -1,7 +1,8 @@
 var a18737 =
 [
-    [ "OnRemove", "d0/d7b/a18737.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "d0/d7b/a18737.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "d0/d7b/a18737.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "d0/d7b/a18737.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "npc_blistering_zombieAI", "d0/d7b/a18737.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "d0/d7b/a18737.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "d0/d7b/a18737.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "d0/d7b/a18737.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "d0/d7b/a18737.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

@@ -1,9 +1,6 @@
 var a06469 =
 [
-    [ "Escort_Waypoint", "d6/d1b/a06469.html#a272aeeba02403a21c4900e6b0844a328", null ],
-    [ "id", "d6/d1b/a06469.html#a6a763373fcc37e5a463b54e1e1a68235", null ],
-    [ "WaitTimeMs", "d6/d1b/a06469.html#a467a869dba9243bd165e4c480e339705", null ],
-    [ "x", "d6/d1b/a06469.html#a4d751062b2ab46734049bf8939a30731", null ],
-    [ "y", "d6/d1b/a06469.html#a88648b1bd70afad73d402c40abcd68b5", null ],
-    [ "z", "d6/d1b/a06469.html#a810ad58fe70fd6402f01ed7e70b450e0", null ]
+    [ "GameObjectAIFactory", "d6/d1b/a06469.html#a2f658540a81d207694b6d2d783009380", null ],
+    [ "Create", "d6/d1b/a06469.html#a94fa057baafbbad4b81b97aea34354a3", null ],
+    [ "Permit", "d6/d1b/a06469.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
 ];

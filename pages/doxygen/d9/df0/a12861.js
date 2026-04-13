@@ -1,9 +1,9 @@
 var a12861 =
 [
-    [ "boss_baron_geddonAI", "d9/df0/a12861.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
-    [ "DamageTaken", "d9/df0/a12861.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
-    [ "ExecuteEvent", "d9/df0/a12861.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
-    [ "JustEngagedWith", "d9/df0/a12861.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
-    [ "Reset", "d9/df0/a12861.html#aaf47fc993e672877f51b5095f682906c", null ],
-    [ "armageddonCasted", "d9/df0/a12861.html#a1a034601a7dda94becbf1801bda63d55", null ]
+    [ "HandleEffectApply", "d9/df0/a12861.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "d9/df0/a12861.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "d9/df0/a12861.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "d9/df0/a12861.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "d9/df0/a12861.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "d9/df0/a12861.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

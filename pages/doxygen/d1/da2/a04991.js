@@ -1,5 +1,8 @@
 var a04991 =
 [
-    [ "_characterCacheByNameStore", "d1/da2/a04991.html#a409431c82eb6a62b40d55a773cdb02c6", null ],
-    [ "_characterCacheStore", "d1/da2/a04991.html#a2a209686002fed926e50d55f7c7ca795", null ]
+    [ "CleanStringForMysqlQuery", "d1/da2/a04991.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
+    [ "GetLocaleByName", "d1/da2/a04991.html#a8051d28826d995169bd4ce60310d5d65", null ],
+    [ "GetNameByLocaleConstant", "d1/da2/a04991.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
+    [ "IsLocaleValid", "d1/da2/a04991.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
+    [ "localeNames", "d1/da2/a04991.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
 ];

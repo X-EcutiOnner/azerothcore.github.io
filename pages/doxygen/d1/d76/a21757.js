@@ -1,6 +1,6 @@
 var a21757 =
 [
-    [ "npc_heated_battleAI", "de/d8a/a21761.html", "de/d8a/a21761" ],
-    [ "npc_heated_battle", "d1/d76/a21757.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "d1/d76/a21757.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "npc_guardian_pavilionAI", "de/d8a/a21761.html", "de/d8a/a21761" ],
+    [ "npc_guardian_pavilion", "d1/d76/a21757.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d1/d76/a21757.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

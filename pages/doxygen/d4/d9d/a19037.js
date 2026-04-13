@@ -1,8 +1,6 @@
 var a19037 =
 [
-    [ "DecayPeriodicTimer", "d4/d9d/a19037.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d4/d9d/a19037.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d4/d9d/a19037.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d4/d9d/a19037.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d4/d9d/a19037.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "d6/dab/a19041.html", "d6/dab/a19041" ],
+    [ "npc_icc_vengeful_fleshreaper", "d4/d9d/a19037.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "d4/d9d/a19037.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

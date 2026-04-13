@@ -1,11 +1,6 @@
 var a21045 =
 [
-    [ "npc_ulduar_storm_tempered_keeper", "d7/d87/a21045.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
-    [ "JustDied", "d7/d87/a21045.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
-    [ "JustEngagedWith", "d7/d87/a21045.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
-    [ "JustSummoned", "d7/d87/a21045.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
-    [ "Reset", "d7/d87/a21045.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
-    [ "UpdateAI", "d7/d87/a21045.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
-    [ "events", "d7/d87/a21045.html#a4a79bd561fa63230a52730da20d7143c", null ],
-    [ "otherGUID", "d7/d87/a21045.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
+    [ "npc_frozen_orb_stalkerAI", "d3/d3f/a21049.html", "d3/d3f/a21049" ],
+    [ "npc_frozen_orb_stalker", "d7/d87/a21045.html#a7f025c829106aa6668427f913d07a722", null ],
+    [ "GetAI", "d7/d87/a21045.html#af33e27138a70286bac561113ed09f350", null ]
 ];

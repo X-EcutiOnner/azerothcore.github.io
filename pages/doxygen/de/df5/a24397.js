@@ -1,9 +1,7 @@
 var a24397 =
 [
-    [ "npc_pet_gen_fetch_ball", "de/df5/a24397.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "de/df5/a24397.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "de/df5/a24397.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "de/df5/a24397.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "de/df5/a24397.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "de/df5/a24397.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "HandleScriptEffect", "de/df5/a24397.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
+    [ "PrepareSpellScript", "de/df5/a24397.html#ae29c4f69a34e71011192df12509e2935", null ],
+    [ "Register", "de/df5/a24397.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
+    [ "Validate", "de/df5/a24397.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
 ];

@@ -1,19 +1,6 @@
 var a16385 =
 [
-    [ "boss_hadronox", "db/d41/a16385.html#a5f99247a1eb3ca11741c656db9f91864", null ],
-    [ "DamageTaken", "db/d41/a16385.html#a4c74557d814776061fe6df4c234885f1", null ],
-    [ "DoAction", "db/d41/a16385.html#a822059f4efa5e311bf3f79698ed3aa6e", null ],
-    [ "GetData", "db/d41/a16385.html#a9666b5af984f15afd52b9a81a12fd334", null ],
-    [ "IsInCombatWithPlayer", "db/d41/a16385.html#a00d15de04d2f63c71b762d8c05161295", null ],
-    [ "JustEngagedWith", "db/d41/a16385.html#a0ecc876405753200c1c2fe575635ffb0", null ],
-    [ "JustSummoned", "db/d41/a16385.html#a3a5680abcef0529dcfca6c27f42f8f61", null ],
-    [ "KilledUnit", "db/d41/a16385.html#a721fabc47cb7416879e73e143898ddef", null ],
-    [ "MovementInform", "db/d41/a16385.html#a5e7c5226b0fb26a3c2d75726d5323af6", null ],
-    [ "Reset", "db/d41/a16385.html#a0d73acbe4061d48c2c5deb4203d0c9fb", null ],
-    [ "SummonCrusherPack", "db/d41/a16385.html#ab58a7949dd4797849cf98152e541b9a9", null ],
-    [ "SummonedCreatureEvade", "db/d41/a16385.html#a23fb17d6eb7a03e7efe0bffb28adee0c", null ],
-    [ "UpdateAI", "db/d41/a16385.html#aef361a41c7a3db94c00b594dd82ffabd", null ],
-    [ "_crushersLeft", "db/d41/a16385.html#a386cafa7de8fcaf6ac5d823af01fc443", null ],
-    [ "_doorsWebbed", "db/d41/a16385.html#a1515f5161e04e97734c538d7dede2902", null ],
-    [ "_lastPlayerCombatState", "db/d41/a16385.html#a0cd1b2eae097b327e845e5a3038c6342", null ]
+    [ "npc_orb_carrierAI", "d5/dc2/a16389.html", "d5/dc2/a16389" ],
+    [ "npc_orb_carrier", "db/d41/a16385.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "db/d41/a16385.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

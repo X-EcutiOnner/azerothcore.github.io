@@ -1,5 +1,8 @@
 var a08885 =
 [
-    [ "bgQueueTypeId", "d6/dbe/a08885.html#a171a9be34883429a97f6f2e3035b5fca", null ],
-    [ "invitedToInstance", "d6/dbe/a08885.html#a5efaf8479d7afb8c24e7f3389ad9c8cf", null ]
+    [ "checkLeaderOnly", "d6/dbe/a08885.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
+    [ "faction", "d6/dbe/a08885.html#a23c649e494795b27856b67225370a820", null ],
+    [ "id", "d6/dbe/a08885.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
+    [ "note", "d6/dbe/a08885.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
+    [ "priority", "d6/dbe/a08885.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
 ];

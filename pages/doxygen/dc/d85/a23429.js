@@ -1,8 +1,6 @@
 var a23429 =
 [
-    [ "npc_underbat", "dc/d85/a23429.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "dc/d85/a23429.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "dc/d85/a23429.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "dc/d85/a23429.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "dc/d85/a23429.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "HandleCast", "dc/d85/a23429.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "dc/d85/a23429.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "dc/d85/a23429.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

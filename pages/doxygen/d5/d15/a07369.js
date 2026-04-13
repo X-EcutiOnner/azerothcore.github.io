@@ -1,12 +1,11 @@
 var a07369 =
 [
-    [ "Type", "d5/d15/a07369.html#a758c9729d907d872a5e5365539486408", [
-      [ "ADD", "d5/d15/a07369.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
-      [ "REMOVE", "d5/d15/a07369.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
-      [ "UPDATE_BID", "d5/d15/a07369.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
-    ] ],
-    [ "AuctionSearcherUpdate", "d5/d15/a07369.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
-    [ "~AuctionSearcherUpdate", "d5/d15/a07369.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
-    [ "listFaction", "d5/d15/a07369.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
-    [ "updateType", "d5/d15/a07369.html#af6ee8672029884bdbec327242ce5d5d2", null ]
+    [ "count", "d5/d15/a07369.html#a3fc02342ec2cdd81de7ef378edf30b54", null ],
+    [ "enchants", "d5/d15/a07369.html#af076353ee7ce0fd3665e13449c248629", null ],
+    [ "entry", "d5/d15/a07369.html#aa3332c4ea806c944c9c4e95ddb31efa9", null ],
+    [ "itemName", "d5/d15/a07369.html#a9184925bad61ad58f35c4e4b3dbccd81", null ],
+    [ "itemTemplate", "d5/d15/a07369.html#a356adde7f6574f697e02e6657f325baa", null ],
+    [ "randomPropertyId", "d5/d15/a07369.html#aa1c185178359f1cbd5afcedd38a0e69f", null ],
+    [ "spellCharges", "d5/d15/a07369.html#a73f9647b66aa316bdb97c50a20bc826f", null ],
+    [ "suffixFactor", "d5/d15/a07369.html#a650acd7b902fd4038f1ea384f595b058", null ]
 ];

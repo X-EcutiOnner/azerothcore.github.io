@@ -1,14 +1,7 @@
 var a09477 =
 [
-    [ "WorldObjectLastSearcher", "d6/ddd/a09477.html#af8baf5ff23a3167a963ade43faec09fc", null ],
-    [ "Visit", "d6/ddd/a09477.html#ac011f150695eb1f3a83536175fd2a016", null ],
-    [ "Visit", "d6/ddd/a09477.html#af5c5a533084c436e0d7de828e1ef82ad", null ],
-    [ "Visit", "d6/ddd/a09477.html#a962a050f568dab037a9a48879eae0f86", null ],
-    [ "Visit", "d6/ddd/a09477.html#a98967233e04c6223361897c02bc0edc5", null ],
-    [ "Visit", "d6/ddd/a09477.html#a94d30e81eb509ff4fd3dac7c207c819b", null ],
-    [ "Visit", "d6/ddd/a09477.html#a39a9d66014df641c0cb08f619f9d8434", null ],
-    [ "i_check", "d6/ddd/a09477.html#a66afc21dd0fd740c2723516b8c33a319", null ],
-    [ "i_mapTypeMask", "d6/ddd/a09477.html#a5689c8aa9120bc545c98ec0916d78d56", null ],
-    [ "i_object", "d6/ddd/a09477.html#a765d65a90639b34a8cf9f42fdd6ae653", null ],
-    [ "i_phaseMask", "d6/ddd/a09477.html#a966213d495a613f33aebaa8ebda7c380", null ]
+    [ "PlayerRelocationNotifier", "d6/ddd/a09477.html#afa316348fb6151cc992b0da7aab39ec3", null ],
+    [ "Visit", "d6/ddd/a09477.html#ab9b3ad469216db3a7a49176b41b0b1ea", null ],
+    [ "Visit", "d6/ddd/a09477.html#acffc7490cb9b0cf171a1cfc6e1dbdc79", null ],
+    [ "Visit", "d6/ddd/a09477.html#aa92ab4dcd81b669f41f6ab1029b791df", null ]
 ];

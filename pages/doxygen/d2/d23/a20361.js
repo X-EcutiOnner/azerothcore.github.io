@@ -1,7 +1,6 @@
 var a20361 =
 [
-    [ "boss_freya_healthy_spore", "d2/d23/a20361.html#abc2492b9cf96cb00940b18fac549fb00", null ],
-    [ "Reset", "d2/d23/a20361.html#abe3f794707aa722e73b1728700876083", null ],
-    [ "UpdateAI", "d2/d23/a20361.html#ac8c952848687cd883aaefe466b799e3b", null ],
-    [ "_despawnTimer", "d2/d23/a20361.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
+    [ "ModDest", "d2/d23/a20361.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "d2/d23/a20361.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "d2/d23/a20361.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

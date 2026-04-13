@@ -1,7 +1,16 @@
 var a13609 =
 [
-    [ "boss_apothecary_hummelAI", "d1/d10/a13613.html", "d1/d10/a13613" ],
-    [ "boss_apothecary_hummel", "df/dd7/a13609.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "df/dd7/a13609.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "df/dd7/a13609.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "boss_felmyst", "df/dd7/a13609.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
+    [ "InitializeAI", "df/dd7/a13609.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
+    [ "JustDied", "df/dd7/a13609.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
+    [ "JustEngagedWith", "df/dd7/a13609.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
+    [ "KilledUnit", "df/dd7/a13609.html#a0233ebbcbb21d100425ac76223e839be", null ],
+    [ "MovementInform", "df/dd7/a13609.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
+    [ "Reset", "df/dd7/a13609.html#ae5181c789809a859edb40488e206c0d3", null ],
+    [ "ScheduleGroundAbilities", "df/dd7/a13609.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
+    [ "SpellHitTarget", "df/dd7/a13609.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
+    [ "StartIntro", "df/dd7/a13609.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
+    [ "UpdateAI", "df/dd7/a13609.html#a0e429d8cf49946c0232b9c405c340356", null ],
+    [ "_currentLane", "df/dd7/a13609.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
+    [ "_strafeCount", "df/dd7/a13609.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
 ];

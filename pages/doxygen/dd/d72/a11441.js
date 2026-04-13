@@ -1,8 +1,10 @@
 var a11441 =
 [
-    [ "ServerPktHeader", "dd/d72/a11441.html#a761e294fccc02055a46bfc46656da706", null ],
-    [ "getHeaderLength", "dd/d72/a11441.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
-    [ "isLargePacket", "dd/d72/a11441.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
-    [ "header", "dd/d72/a11441.html#adc69128832b16124c284c584e7540b11", null ],
-    [ "size", "dd/d72/a11441.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
+    [ "WorldStateInfo", "d0/d81/a11445.html", "d0/d81/a11445" ],
+    [ "InitWorldStates", "dd/d72/a11441.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
+    [ "Write", "dd/d72/a11441.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
+    [ "AreaID", "dd/d72/a11441.html#a98ac08c68b5c004fd352f38c7084531f", null ],
+    [ "MapID", "dd/d72/a11441.html#a657c3043204c6957e8438c3c3c7068f3", null ],
+    [ "Worldstates", "dd/d72/a11441.html#a29ffba2a130f0b93d61b2025255502fb", null ],
+    [ "ZoneID", "dd/d72/a11441.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
 ];

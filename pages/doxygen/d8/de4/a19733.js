@@ -1,7 +1,6 @@
 var a19733 =
 [
-    [ "HandleScript", "d8/de4/a19733.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
-    [ "Load", "d8/de4/a19733.html#a94661c7652572b1671a611b35c8f68a7", null ],
-    [ "PrepareSpellScript", "d8/de4/a19733.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
-    [ "Register", "d8/de4/a19733.html#a09352bd458fe3dbeacea38c5104656ff", null ]
+    [ "boss_maiden_of_griefAI", "d2/df0/a19737.html", "d2/df0/a19737" ],
+    [ "boss_maiden_of_grief", "d8/de4/a19733.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
+    [ "GetAI", "d8/de4/a19733.html#af8d2e6392a0c73add801910945b2558e", null ]
 ];

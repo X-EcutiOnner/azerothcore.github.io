@@ -1,13 +1,18 @@
 var a16097 =
 [
-    [ "npc_aquementasAI", "d8/dcb/a16097.html#aad63986cdb8a65c528af3ccd114d2041", null ],
-    [ "JustEngagedWith", "d8/dcb/a16097.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
-    [ "Reset", "d8/dcb/a16097.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
-    [ "SendItem", "d8/dcb/a16097.html#a60bafbd70783411236dcf3d0bfe244de", null ],
-    [ "UpdateAI", "d8/dcb/a16097.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
-    [ "AquaJetTimer", "d8/dcb/a16097.html#a8506acc69436af869d1404bd95109e68", null ],
-    [ "FrostShockTimer", "d8/dcb/a16097.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
-    [ "isFriendly", "d8/dcb/a16097.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
-    [ "SendItemTimer", "d8/dcb/a16097.html#a3a0883b43056b176ef2ae55673adacf3", null ],
-    [ "SwitchFactionTimer", "d8/dcb/a16097.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
+    [ "boss_elder_nadox", "d8/dcb/a16097.html#a718d8fffde11b1df5a44650096c474cc", null ],
+    [ "DamageTaken", "d8/dcb/a16097.html#a34dd3a07faeee096b1c8574f63353893", null ],
+    [ "GetData", "d8/dcb/a16097.html#ad2f80bcefb6c43370546d867fd4fc951", null ],
+    [ "JustDied", "d8/dcb/a16097.html#a1342dbd6de10197c6ba4bc8e43cceace", null ],
+    [ "JustEngagedWith", "d8/dcb/a16097.html#a659f83714070b7358b43d1c7eb46ac1c", null ],
+    [ "KilledUnit", "d8/dcb/a16097.html#a78310e83e518b64c1373b60a946f9748", null ],
+    [ "Reset", "d8/dcb/a16097.html#ab5e492f39552b64c0333b6fbce89c1ae", null ],
+    [ "SummonedCreatureDies", "d8/dcb/a16097.html#a77d9861b2e2de593d0b44c2fd9449f17", null ],
+    [ "SummonHelpers", "d8/dcb/a16097.html#ae65044c111e514a3050ea14f1155a7dc", null ],
+    [ "UpdateAI", "d8/dcb/a16097.html#abbb783581208c76fa371f01efd481b66", null ],
+    [ "guardianEggs", "d8/dcb/a16097.html#aae96b622766ab4478a8510bd1c7a9f1f", null ],
+    [ "guardianSummoned", "d8/dcb/a16097.html#a5543be0c08bf1d432b36bfdb2d532f0d", null ],
+    [ "previousSwarmEgg_GUID", "d8/dcb/a16097.html#add5ff92f92b8d01caef0b12a98569535", null ],
+    [ "respectYourElders", "d8/dcb/a16097.html#aac97ef9511e64692a152077b43e83e75", null ],
+    [ "swarmEggs", "d8/dcb/a16097.html#a28c8b6826ed86e30b573883cab83168f", null ]
 ];

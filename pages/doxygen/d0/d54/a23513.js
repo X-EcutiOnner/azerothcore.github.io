@@ -1,7 +1,6 @@
 var a23513 =
 [
-    [ "boss_the_maker", "d0/d54/a23513.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d0/d54/a23513.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d0/d54/a23513.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d0/d54/a23513.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "HandleScriptEffect", "d0/d54/a23513.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
+    [ "PrepareSpellScript", "d0/d54/a23513.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
+    [ "Register", "d0/d54/a23513.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
 ];

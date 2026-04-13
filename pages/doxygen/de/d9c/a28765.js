@@ -1,6 +1,6 @@
 var a28765 =
 [
-    [ "height", "de/d9c/a28765.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "de/d9c/a28765.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "de/d9c/a28765.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "color", "de/d9c/a28765.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "de/d9c/a28765.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "de/d9c/a28765.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

@@ -1,14 +1,15 @@
 var a11581 =
 [
-    [ "alive", "d0/d65/a11581.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
-    [ "crit", "d0/d65/a11581.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
-    [ "damage", "d0/d65/a11581.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
-    [ "damageBeforeTakenMods", "d0/d65/a11581.html#a85196e5b5865856962898c18001880c7", null ],
-    [ "effectMask", "d0/d65/a11581.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
-    [ "missCondition", "d0/d65/a11581.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
-    [ "processed", "d0/d65/a11581.html#a2de96d62297ff614fc3702bec035ce5b", null ],
-    [ "reflectResult", "d0/d65/a11581.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
-    [ "scaleAura", "d0/d65/a11581.html#a89bba366b26686d41288e9b2e725eb75", null ],
-    [ "targetGUID", "d0/d65/a11581.html#acf55c1dd6f00c94296c592d988f959cf", null ],
-    [ "timeDelay", "d0/d65/a11581.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
+    [ "BaseSocketMgr", "d0/d65/a11581.html#a6f9671b94ae64c0c3482e085cb2a252f", null ],
+    [ "WorldSocketMgr", "d0/d65/a11581.html#a8e46ddcf7ba33a66c7226150400cc08b", null ],
+    [ "CreateThreads", "d0/d65/a11581.html#a04e98fcb25c09ff85e9536cf43fd4e6e", null ],
+    [ "GetApplicationSendBufferSize", "d0/d65/a11581.html#a8deeaffd7d25bacd8bfa15d29dff6aeb", null ],
+    [ "Instance", "d0/d65/a11581.html#aaa32a527707cb66916b1499a2e283250", null ],
+    [ "OnSocketAccept", "d0/d65/a11581.html#add84a09a7111cca079a11289c7ef672d", null ],
+    [ "OnSocketOpen", "d0/d65/a11581.html#a916e6d479b7281c26fc7820a2ed0255d", null ],
+    [ "StartWorldNetwork", "d0/d65/a11581.html#acaf85b16b490bfda8532b49456a38b71", null ],
+    [ "StopNetwork", "d0/d65/a11581.html#aede126ecfe75f2917aaf730330ea3b82", null ],
+    [ "_socketApplicationSendBufferSize", "d0/d65/a11581.html#a7a5ca8c2c9165d3cb1f46adbdfe917b0", null ],
+    [ "_socketSystemSendBufferSize", "d0/d65/a11581.html#a043da77b04a29c4c5fe81698ae279985", null ],
+    [ "_tcpNoDelay", "d0/d65/a11581.html#a6f440c4cde2deaa72cbc5dbd348a00b6", null ]
 ];

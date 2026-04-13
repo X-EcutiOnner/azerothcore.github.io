@@ -1,14 +1,13 @@
 var a21317 =
 [
-    [ "boss_cyanigosaAI", "d6/dff/a21317.html#a4b24132889b17b3e682a15009a1ae910", null ],
-    [ "EnterEvadeMode", "d6/dff/a21317.html#a8da6ddc9b1c9f7b145920205046ce095", null ],
-    [ "JustDied", "d6/dff/a21317.html#a805117db567dd3d529a1c862bc24179c", null ],
-    [ "JustEngagedWith", "d6/dff/a21317.html#a4ef85c0178120f14f2a7b29efb7a9abf", null ],
-    [ "KilledUnit", "d6/dff/a21317.html#a5e69b631ab6844160b1e53fd1d731bae", null ],
-    [ "MoveInLineOfSight", "d6/dff/a21317.html#adb699a22dbf1c14cb80f8fdcca9c6f82", null ],
-    [ "Reset", "d6/dff/a21317.html#a7b0fdaa4f2603db8fd2d0c1ee6975817", null ],
-    [ "SpellHitTarget", "d6/dff/a21317.html#ae8218b69e6dc7489e65d891048d84da1", null ],
-    [ "UpdateAI", "d6/dff/a21317.html#ae69afba77636c962045160b610177bd9", null ],
-    [ "events", "d6/dff/a21317.html#ab5fe766d46e9445b9e7cfc605073983f", null ],
-    [ "pInstance", "d6/dff/a21317.html#a075f4a592202dc73d9b5d63ca5178093", null ]
+    [ "npc_shandy_dalaranAI", "d6/dff/a21317.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "d6/dff/a21317.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "d6/dff/a21317.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "d6/dff/a21317.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "d6/dff/a21317.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "d6/dff/a21317.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "d6/dff/a21317.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "d6/dff/a21317.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "d6/dff/a21317.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "d6/dff/a21317.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

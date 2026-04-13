@@ -1,5 +1,6 @@
 var a25533 =
 [
-    [ "PrepareSpellScript", "d2/d68/a25533.html#ac83289482a8f83a2af80e2f9f35b6716", null ],
-    [ "Register", "d2/d68/a25533.html#a5e2cdc942b9972f79ff0a4fac2f0d77d", null ]
+    [ "HandleOnEffectHit", "d2/d68/a25533.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
+    [ "PrepareSpellScript", "d2/d68/a25533.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
+    [ "Register", "d2/d68/a25533.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
 ];

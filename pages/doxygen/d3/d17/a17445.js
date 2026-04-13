@@ -1,9 +1,7 @@
 var a17445 =
 [
-    [ "npc_hor_lumbering_abominationAI", "d3/d17/a17445.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
-    [ "JustDied", "d3/d17/a17445.html#af243a79da3028d3d66facc8a15132f78", null ],
-    [ "JustEngagedWith", "d3/d17/a17445.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
-    [ "Reset", "d3/d17/a17445.html#a4270f405bbade0028fce4df0655a1987", null ],
-    [ "UpdateAI", "d3/d17/a17445.html#a995d0f7902cb70280d1448ac7731a816", null ],
-    [ "events", "d3/d17/a17445.html#aee9063950477b50e38ec904e91882689", null ]
+    [ "HandlePeriodic", "d3/d17/a17445.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
+    [ "PrepareAuraScript", "d3/d17/a17445.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
+    [ "Register", "d3/d17/a17445.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
+    [ "Validate", "d3/d17/a17445.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
 ];

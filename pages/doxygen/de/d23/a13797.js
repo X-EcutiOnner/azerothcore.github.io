@@ -1,4 +1,8 @@
 var a13797 =
 [
-    [ "operator()", "de/d23/a13797.html#ae5ec191753b6dac7916f1012930ea901", null ]
+    [ "npc_sunblade_arch_mage", "de/d23/a13797.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "de/d23/a13797.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "de/d23/a13797.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "de/d23/a13797.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "de/d23/a13797.html#aa6680f06651316996868907b1d28126c", null ]
 ];

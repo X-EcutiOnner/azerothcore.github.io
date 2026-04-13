@@ -1,6 +1,6 @@
 var a27193 =
 [
-    [ "CheckRequirement", "d3/d0c/a27193.html#a4ad49f2f781d1c6b27dd04f46203c6d4", null ],
-    [ "PrepareSpellScript", "d3/d0c/a27193.html#a4263eebcb64f00152a4b64dafef20510", null ],
-    [ "Register", "d3/d0c/a27193.html#a8b825a97f50abb0231036a3ff651531d", null ]
+    [ "CheckProc", "d3/d0c/a27193.html#a705be9d078a9c7b04bcec0594cab9ac5", null ],
+    [ "PrepareAuraScript", "d3/d0c/a27193.html#a68fd79f1f62bcc748f9cce4423632f7f", null ],
+    [ "Register", "d3/d0c/a27193.html#acac1c6d063090bf191fcd202d7d07c20", null ]
 ];

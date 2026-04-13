@@ -1,6 +1,5 @@
 var a22981 =
 [
-    [ "HandleEffectRemove", "d5/d70/a22981.html#a99891cf49d35a857cd014fe83bc83e43", null ],
-    [ "PrepareAuraScript", "d5/d70/a22981.html#ab8fed8e7b561146cca35fe8534ea248c", null ],
-    [ "Register", "d5/d70/a22981.html#a5a65a3fca846dc40aeb31e4ff56958ca", null ]
+    [ "boss_quagmirran", "d5/d70/a22981.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "d5/d70/a22981.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

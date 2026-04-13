@@ -1,8 +1,6 @@
 var a27813 =
 [
-    [ "CheckProc", "d0/d70/a27813.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
-    [ "OnProc", "d0/d70/a27813.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
-    [ "PrepareAuraScript", "d0/d70/a27813.html#a8bf573bb900773d4669708536b0b8011", null ],
-    [ "Register", "d0/d70/a27813.html#ae8ddcb6329088f904cbae3292ff92023", null ],
-    [ "Validate", "d0/d70/a27813.html#a918c9334b7f20710c0d6448a33c94601", null ]
+    [ "go_heatAI", "dd/dca/a27817.html", "dd/dca/a27817" ],
+    [ "go_heat", "d0/d70/a27813.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
+    [ "GetAI", "d0/d70/a27813.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
 ];

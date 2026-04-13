@@ -1,9 +1,9 @@
 var a04283 =
 [
-    [ "GetChaseRange", "dc/d16/a04283.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
-    [ "GetTargetSpeedInMotion", "dc/d16/a04283.html#a56719695683e0a1fbeaeb49d31f62d74", null ],
-    [ "GetVelocity", "dc/d16/a04283.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
-    [ "IsMutualChase", "dc/d16/a04283.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
-    [ "IsValidPredictedPosition", "dc/d16/a04283.html#a27995927630ed43ca4a79dff89cfb99c", null ],
-    [ "PredictPosition", "dc/d16/a04283.html#ada5b031ff95410ba84fd734c95c68099", null ]
+    [ "SecretInfo", "d9/db5/a29129.html", "d9/db5/a29129" ],
+    [ "SECRET_FLAG", "dc/d16/a04283.html#a70a4d0f8c2ee51e0b67794cea19657d1", null ],
+    [ "SECRET_FLAG_FOR", "dc/d16/a04283.html#a7e7cfdab68c3e6a9600329d157ed30e7", null ],
+    [ "SecretFlags", "dc/d16/a04283.html#a03463ea440a7f843bdf8415f362a49f5", null ],
+    [ "GetHexFromConfig", "dc/d16/a04283.html#a39b73180b1b7c528faf5774c3a2a7676", null ],
+    [ "secret_info", "dc/d16/a04283.html#a7a4c8b2d083fa8310d30aa4b21217766", null ]
 ];

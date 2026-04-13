@@ -1,6 +1,6 @@
 var a20565 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "d3/d39/a20565.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "d3/d39/a20565.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "d3/d39/a20565.html#ad863666aec3db81f73165148ffc98033", null ]
+    [ "PrepareSpellScript", "d3/d39/a20565.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
+    [ "Register", "d3/d39/a20565.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "SelectTarget", "d3/d39/a20565.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
 ];

@@ -1,6 +1,7 @@
 var a17805 =
 [
-    [ "HandleScript", "d4/df0/a17805.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
-    [ "PrepareSpellScript", "d4/df0/a17805.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
-    [ "Register", "d4/df0/a17805.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
+    [ "npc_gunship_boarding_leaderAI", "d4/df0/a17805.html#ac20099905fd6fddda2561b88cf077b77", null ],
+    [ "JustEngagedWith", "d4/df0/a17805.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
+    [ "UpdateAI", "d4/df0/a17805.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
+    [ "_events", "d4/df0/a17805.html#affb899bbaa288e72a48d5518367b023d", null ]
 ];

@@ -1,7 +1,7 @@
 var a29289 =
 [
-    [ "EpicPropertiesPoints", "dd/dfd/a29289.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "dd/dfd/a29289.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "dd/dfd/a29289.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "dd/dfd/a29289.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "EnsureScriptRegistriesInitialized", "dd/dfd/a29289.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
+    [ "SetUp", "dd/dfd/a29289.html#a6934840a3250922d4de42044dd35211c", null ],
+    [ "TearDown", "dd/dfd/a29289.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
+    [ "previousWorld_", "dd/dfd/a29289.html#adff0b9d4abad7843811c543dfd10572e", null ]
 ];

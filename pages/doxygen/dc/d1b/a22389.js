@@ -1,6 +1,7 @@
 var a22389 =
 [
-    [ "CheckCast", "dc/d1b/a22389.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "dc/d1b/a22389.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "dc/d1b/a22389.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "HandleEffectRemove", "dc/d1b/a22389.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
+    [ "PrepareAuraScript", "dc/d1b/a22389.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
+    [ "Register", "dc/d1b/a22389.html#a9ee8e71020c17f593472de5a9c130753", null ],
+    [ "Validate", "dc/d1b/a22389.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
 ];

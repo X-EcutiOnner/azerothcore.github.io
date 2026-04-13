@@ -1,5 +1,6 @@
 var a20777 =
 [
-    [ "go_thorim_lever", "d6/d34/a20777.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "d6/d34/a20777.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "HandleEffectPeriodic", "d6/d34/a20777.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "d6/d34/a20777.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "d6/d34/a20777.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

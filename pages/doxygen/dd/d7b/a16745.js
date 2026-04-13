@@ -1,6 +1,8 @@
 var a16745 =
 [
-    [ "boss_black_knightAI", "de/dd8/a16749.html", "de/dd8/a16749" ],
-    [ "boss_black_knight", "dd/d7b/a16745.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "dd/d7b/a16745.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "npc_toc_boomkinAI", "dd/d7b/a16745.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "dd/d7b/a16745.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "dd/d7b/a16745.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "dd/d7b/a16745.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "dd/d7b/a16745.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

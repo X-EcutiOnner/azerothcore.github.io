@@ -1,6 +1,6 @@
 var a28053 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "d8/dfd/a28053.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "d8/dfd/a28053.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "d8/dfd/a28053.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "npc_preciousAI", "d8/dd0/a28057.html", "d8/dd0/a28057" ],
+    [ "npc_precious", "d8/dfd/a28053.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "d8/dfd/a28053.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

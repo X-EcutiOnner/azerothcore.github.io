@@ -1,7 +1,7 @@
 var a21537 =
 [
-    [ "npc_lurgglbrAI", "d5/de1/a21541.html", "d5/de1/a21541" ],
-    [ "npc_lurgglbr", "d9/dd8/a21537.html#a7df52667e4d789391820a4c2182db8d2", null ],
-    [ "GetAI", "d9/dd8/a21537.html#a2795346371e7b474c53dcacb9daf2001", null ],
-    [ "OnQuestAccept", "d9/dd8/a21537.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
+    [ "OnRemove", "d9/dd8/a21537.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "d9/dd8/a21537.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "d9/dd8/a21537.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "d9/dd8/a21537.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

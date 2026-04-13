@@ -1,5 +1,6 @@
 var a04949 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "d7/dca/a04949.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MverMagic", "d7/dca/a04949.html#a076cdc3e61f69e52913492840fc864cf", null ]
+    [ "GetRandomBytes", "d7/dca/a04949.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
+    [ "GetRandomBytes", "d7/dca/a04949.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
+    [ "GetRandomBytes", "d7/dca/a04949.html#a2ff283a7b883696205a91f122b194f6f", null ]
 ];

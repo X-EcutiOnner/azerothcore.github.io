@@ -1,6 +1,6 @@
 var a21577 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d7/dba/a21581.html", "d7/dba/a21581" ],
-    [ "npc_valiance_keep_cannoneer", "d6/de8/a21577.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "d6/de8/a21577.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "CheckRequirement", "d6/de8/a21577.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "d6/de8/a21577.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "d6/de8/a21577.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

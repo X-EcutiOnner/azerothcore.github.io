@@ -1,12 +1,6 @@
 var a23525 =
 [
-    [ "boss_omor_the_unscarred", "d9/dcc/a23525.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "d9/dcc/a23525.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "d9/dcc/a23525.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "d9/dcc/a23525.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "d9/dcc/a23525.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "d9/dcc/a23525.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "d9/dcc/a23525.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "d9/dcc/a23525.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "d9/dcc/a23525.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "instance_the_eye_InstanceMapScript", "da/d70/a23529.html", "da/d70/a23529" ],
+    [ "instance_the_eye", "d9/dcc/a23525.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d9/dcc/a23525.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

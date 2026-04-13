@@ -1,7 +1,6 @@
 var a19193 =
 [
-    [ "HandleQuestComplete", "d1/d8f/a19193.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "d1/d8f/a19193.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "d1/d8f/a19193.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "d1/d8f/a19193.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "boss_gluthAI", "d8/da8/a19197.html", "d8/da8/a19197" ],
+    [ "boss_gluth", "d1/d8f/a19193.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
+    [ "GetAI", "d1/d8f/a19193.html#a3b19c938aaecc897d6552715064be7f8", null ]
 ];

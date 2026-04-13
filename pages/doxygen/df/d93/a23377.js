@@ -1,5 +1,7 @@
 var a23377 =
 [
-    [ "at_underbog_ghazan", "df/d93/a23377.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "df/d93/a23377.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
+    [ "HandleCast", "df/d93/a23377.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "df/d93/a23377.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "df/d93/a23377.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "df/d93/a23377.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

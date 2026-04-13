@@ -1,7 +1,8 @@
 var a27229 =
 [
-    [ "HandleDummy", "df/d3a/a27229.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
-    [ "PrepareSpellScript", "df/d3a/a27229.html#ac293d1c1aac41808f81cad2974424c2e", null ],
-    [ "Register", "df/d3a/a27229.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
-    [ "Validate", "df/d3a/a27229.html#aa725a6ee483dfac46724d291de4ee54b", null ]
+    [ "CheckProc", "df/d3a/a27229.html#a11d7fe14f7b3cca93578926f157ef0d5", null ],
+    [ "HandleProc", "df/d3a/a27229.html#ac18d7286dd26ebbb868e01d17a412124", null ],
+    [ "PrepareAuraScript", "df/d3a/a27229.html#a8af3179c6688cfe0940bcd932f6766fa", null ],
+    [ "Register", "df/d3a/a27229.html#a239b3daf5f03f5e5930c7b6712a63d8a", null ],
+    [ "Validate", "df/d3a/a27229.html#a9919c0a8d284a36b3162ed435d2f7711", null ]
 ];

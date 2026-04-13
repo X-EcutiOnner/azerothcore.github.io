@@ -1,9 +1,7 @@
 var a18929 =
 [
-    [ "DelayedCastEvent", "dc/d09/a18929.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "dc/d09/a18929.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "dc/d09/a18929.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "dc/d09/a18929.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "dc/d09/a18929.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "dc/d09/a18929.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "Land", "dc/d09/a18929.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
+    [ "PrepareSpellScript", "dc/d09/a18929.html#a31e45adb87719c311fb5b94b2b744487", null ],
+    [ "Register", "dc/d09/a18929.html#a652eca6ec8079b2835d911807857c8a8", null ],
+    [ "RemoveAliveTarget", "dc/d09/a18929.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
 ];

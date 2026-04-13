@@ -1,9 +1,12 @@
 var a22817 =
 [
-    [ "HandleAfterCast", "d1/dac/a22817.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "d1/dac/a22817.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "d1/dac/a22817.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "d1/dac/a22817.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "d1/dac/a22817.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "d1/dac/a22817.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "boss_leotheras_the_blind", "d1/dac/a22817.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d1/dac/a22817.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d1/dac/a22817.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d1/dac/a22817.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d1/dac/a22817.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d1/dac/a22817.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d1/dac/a22817.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d1/dac/a22817.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "d1/dac/a22817.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

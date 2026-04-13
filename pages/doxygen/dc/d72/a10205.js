@@ -1,7 +1,23 @@
 var a10205 =
 [
-    [ "Finalize", "dc/d72/a10205.html#a90c8b42ef67968bf58acae5678dc7496", null ],
-    [ "Initialize", "dc/d72/a10205.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
-    [ "Reset", "dc/d72/a10205.html#a6db99ea9863dc60d032bacda37afa078", null ],
-    [ "Update", "dc/d72/a10205.html#af044c8725ef11e8a152987225521ef8b", null ]
+    [ "TransportMgr", "dc/d72/a10205.html#a864650522d61689f4915228165849d38", null ],
+    [ "~TransportMgr", "dc/d72/a10205.html#a3804895a34944bf7971b27f6069e4e33", null ],
+    [ "TransportMgr", "dc/d72/a10205.html#a6aff0c119db7cd54732955f684acfab4", null ],
+    [ "AddPathNodeToTransport", "dc/d72/a10205.html#aac45c48421abd6a85bddf4b2570807dc", null ],
+    [ "AddPathRotationToTransport", "dc/d72/a10205.html#ab2fc9ffddd2c6acb4f6b8db4629a11d8", null ],
+    [ "CreateInstanceTransports", "dc/d72/a10205.html#a818028f54e44fd23ca0afecccf44ccba", null ],
+    [ "CreateTransport", "dc/d72/a10205.html#a7e0ba6cf10e10a6aeca1f683bbf7e755", null ],
+    [ "GeneratePath", "dc/d72/a10205.html#afd703e2da6667f5499e75eb6c85c4fec", null ],
+    [ "GetTransportAnimInfo", "dc/d72/a10205.html#a205be05963bc790f64ed5bfac58a87e2", null ],
+    [ "GetTransportTemplate", "dc/d72/a10205.html#a93ea26ec255ff5be114b3c0779ae894f", null ],
+    [ "instance", "dc/d72/a10205.html#a843726202931931587280fefd703cff8", null ],
+    [ "LoadTransportTemplates", "dc/d72/a10205.html#a0b3e4e63bc4194c40f5dba6ced1ed205", null ],
+    [ "operator=", "dc/d72/a10205.html#accb329967e8129ddcf857ecb6269c4d5", null ],
+    [ "PreloadGridsFromQuery", "dc/d72/a10205.html#abbb04cc2b20a061c8044735cd1db7446", null ],
+    [ "SpawnContinentTransports", "dc/d72/a10205.html#afff76c3893f5a76d83d48f0074e77349", null ],
+    [ "Unload", "dc/d72/a10205.html#a99b8ff087e7d32428b8463f3ff229dee", null ],
+    [ "LoadDBCStores", "dc/d72/a10205.html#a0bbf145faec5eed353431235243dbcbf", null ],
+    [ "_instanceTransports", "dc/d72/a10205.html#a97799b68a08a24beb14abd4fae1468d1", null ],
+    [ "_transportAnimations", "dc/d72/a10205.html#a4dc2def28c51bfa78fdf01aaa25e40ae", null ],
+    [ "_transportTemplates", "dc/d72/a10205.html#a0b89cc26375f14eb4bb5f8b0d1722f8f", null ]
 ];

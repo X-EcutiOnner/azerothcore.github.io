@@ -1,7 +1,6 @@
 var a18357 =
 [
-    [ "HandleTriggerSpell", "d8/dde/a18357.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d8/dde/a18357.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d8/dde/a18357.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d8/dde/a18357.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "OrderWhelpTargetSelector", "d8/dde/a18357.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
+    [ "operator()", "d8/dde/a18357.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
+    [ "_owner", "d8/dde/a18357.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
 ];

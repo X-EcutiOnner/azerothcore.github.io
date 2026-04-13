@@ -1,7 +1,7 @@
 var a27825 =
 [
-    [ "HandleDummy", "d0/d7b/a27825.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
-    [ "PrepareSpellScript", "d0/d7b/a27825.html#a24634405a8d0ccdd22f4832815262446", null ],
-    [ "Register", "d0/d7b/a27825.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
-    [ "Validate", "d0/d7b/a27825.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
+    [ "go_bear_trapAI", "d0/d7b/a27825.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "d0/d7b/a27825.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "d0/d7b/a27825.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "d0/d7b/a27825.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

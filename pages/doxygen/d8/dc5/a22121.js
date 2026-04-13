@@ -1,6 +1,13 @@
 var a22121 =
 [
-    [ "npc_frostbrood_skytalonAI", "d1/d49/a22125.html", "d1/d49/a22125" ],
-    [ "npc_frostbrood_skytalon", "d8/dc5/a22121.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "d8/dc5/a22121.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "OPvPCapturePointEP_NPT", "d8/dc5/a22121.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
+    [ "ChangeState", "d8/dc5/a22121.html#a9e046ace6129ce67568ed7c15130b617", null ],
+    [ "FillInitialWorldStates", "d8/dc5/a22121.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
+    [ "HandlePlayerEnter", "d8/dc5/a22121.html#ace643b7f7bc793934972c61c618045eb", null ],
+    [ "HandlePlayerLeave", "d8/dc5/a22121.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
+    [ "SendChangePhase", "d8/dc5/a22121.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
+    [ "SummonGO", "d8/dc5/a22121.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
+    [ "UpdateTowerState", "d8/dc5/a22121.html#ad8cfefcc567346273914e8039b039835", null ],
+    [ "m_SummonedGOSideId", "d8/dc5/a22121.html#aa034240d169c9ab7276786bb188abc70", null ],
+    [ "m_TowerState", "d8/dc5/a22121.html#a703b68024362d13ceaf9012202b72e7d", null ]
 ];

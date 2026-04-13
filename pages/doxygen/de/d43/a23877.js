@@ -1,7 +1,9 @@
 var a23877 =
 [
-    [ "boss_gatewatcher_gyrokill", "de/d43/a23877.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "de/d43/a23877.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "de/d43/a23877.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "de/d43/a23877.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "npc_korkron_or_wildhammer", "de/d43/a23877.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "de/d43/a23877.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "de/d43/a23877.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "de/d43/a23877.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "de/d43/a23877.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "de/d43/a23877.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

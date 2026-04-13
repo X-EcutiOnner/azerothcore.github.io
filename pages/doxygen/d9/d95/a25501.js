@@ -1,9 +1,6 @@
 var a25501 =
 [
-    [ "spell_gen_translocate", "d9/d95/a25501.html#a56a3df0eba3e1521aa2898194c39e919", null ],
-    [ "HandleScript", "d9/d95/a25501.html#a67684fb76da60fdc13dbece055dae157", null ],
-    [ "PrepareSpellScript", "d9/d95/a25501.html#a6f0986e54ad410c2f42a7935645485ed", null ],
-    [ "Register", "d9/d95/a25501.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
-    [ "Validate", "d9/d95/a25501.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
-    [ "_spellId", "d9/d95/a25501.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
+    [ "HandleProc", "d9/d95/a25501.html#a04796308cb57993dea310e0aca051c46", null ],
+    [ "PrepareAuraScript", "d9/d95/a25501.html#a1a0291eb2ca9073b0bac8dc8c7d22550", null ],
+    [ "Register", "d9/d95/a25501.html#a191d0bcc015b92a6f2481b3b5c196cab", null ]
 ];

@@ -1,6 +1,5 @@
 var a09141 =
 [
-    [ "EmoteDelay", "d5/da2/a09141.html#a053adbedc95026b192360e13d32c9401", null ],
-    [ "EmoteType", "d5/da2/a09141.html#aa5189cb250b3f46086ecd69dee23414b", null ],
-    [ "Greeting", "d5/da2/a09141.html#a84aa5fced9b8989487d1468c4eccb976", null ]
+    [ "NextPage", "d5/da2/a09141.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef", null ],
+    [ "Text", "d5/da2/a09141.html#a9c13498341adce66590cb198b720f96f", null ]
 ];

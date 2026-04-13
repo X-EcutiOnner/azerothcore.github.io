@@ -1,6 +1,6 @@
 var a16405 =
 [
-    [ "npc_anub_ar_crusher_necromancer", "da/d27/a16405.html#a469d30b357551c4ce77f040bea79e951", null ],
-    [ "DoEngagedWith", "da/d27/a16405.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
-    [ "DoEvent", "da/d27/a16405.html#a67889b3a207ab26b7895e2f7996359b1", null ]
+    [ "HandleForceCast", "da/d27/a16405.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "da/d27/a16405.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "da/d27/a16405.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

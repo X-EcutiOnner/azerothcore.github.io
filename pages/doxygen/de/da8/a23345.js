@@ -1,7 +1,9 @@
 var a23345 =
 [
-    [ "boss_hydromancer_thespia", "de/da8/a23345.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "de/da8/a23345.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "de/da8/a23345.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "de/da8/a23345.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "boss_dalliah_the_doomsayer", "de/da8/a23345.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "de/da8/a23345.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "de/da8/a23345.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "de/da8/a23345.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "de/da8/a23345.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "de/da8/a23345.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

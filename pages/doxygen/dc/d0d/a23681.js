@@ -1,14 +1,11 @@
 var a23681 =
 [
-    [ "npc_warden_mellicharAI", "dc/d0d/a23681.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
-    [ "AttackStart", "dc/d0d/a23681.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
-    [ "DamageTaken", "dc/d0d/a23681.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
-    [ "JustDied", "dc/d0d/a23681.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
-    [ "JustEngagedWith", "dc/d0d/a23681.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
-    [ "JustSummoned", "dc/d0d/a23681.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
-    [ "MoveInLineOfSight", "dc/d0d/a23681.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
-    [ "Reset", "dc/d0d/a23681.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
-    [ "SetData", "dc/d0d/a23681.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
-    [ "SummonedCreatureDies", "dc/d0d/a23681.html#a58e1011986be65725d4db3d782bc72ac", null ],
-    [ "UpdateAI", "dc/d0d/a23681.html#a944cff5367213d561a7e6df5faf2a216", null ]
+    [ "npc_magister_aledis", "dc/d0d/a23681.html#a0e30c5d4f9fe023537a1b29258967630", null ],
+    [ "DamageTaken", "dc/d0d/a23681.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
+    [ "Reset", "dc/d0d/a23681.html#ae0a701eeaacc5188b382c59ecef14518", null ],
+    [ "sGossipSelect", "dc/d0d/a23681.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
+    [ "StartFight", "dc/d0d/a23681.html#a9149ce0a1df781043a5590fe4612511a", null ],
+    [ "UpdateAI", "dc/d0d/a23681.html#aef885088193e2597e6990e3051a31ef7", null ],
+    [ "_events", "dc/d0d/a23681.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
+    [ "_playerGUID", "dc/d0d/a23681.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
 ];

@@ -1,7 +1,6 @@
 var a15469 =
 [
-    [ "HandleScript", "de/d91/a15469.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "de/d91/a15469.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "de/d91/a15469.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "de/d91/a15469.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "FilterTargets", "de/d91/a15469.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "de/d91/a15469.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "de/d91/a15469.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

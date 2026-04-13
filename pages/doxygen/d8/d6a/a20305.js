@@ -1,6 +1,6 @@
 var a20305 =
 [
-    [ "PrepareSpellScript", "d8/d6a/a20305.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "d8/d6a/a20305.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "d8/d6a/a20305.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "HandleInstaKill", "d8/d6a/a20305.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "d8/d6a/a20305.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "d8/d6a/a20305.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

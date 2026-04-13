@@ -1,6 +1,6 @@
 var a18397 =
 [
-    [ "HandleScript", "d3/db9/a18397.html#abd766c298f8aa363d28198b6a5d7e374", null ],
-    [ "PrepareSpellScript", "d3/db9/a18397.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
-    [ "Register", "d3/db9/a18397.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
+    [ "VileSpiritActivateEvent", "d3/db9/a18397.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "d3/db9/a18397.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "d3/db9/a18397.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

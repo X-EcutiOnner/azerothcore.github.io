@@ -1,19 +1,9 @@
 var a00227 =
 [
-    [ "VMAP::AreaAndLiquidData", "dc/d65/a05195.html", "dc/d65/a05195" ],
-    [ "VMAP::AreaAndLiquidData::AreaInfo", "d4/ddd/a05199.html", "d4/ddd/a05199" ],
-    [ "VMAP::AreaAndLiquidData::LiquidInfo", "de/d1b/a05203.html", "de/d1b/a05203" ],
-    [ "VMAP::IVMapMgr", "d8/d42/a05207.html", "d8/d42/a05207" ],
-    [ "VMAP_INVALID_HEIGHT", "d9/d01/a00227.html#aa3e862468079e7d1ca850fab429fb316", null ],
-    [ "VMAP_INVALID_HEIGHT_VALUE", "d9/d01/a00227.html#a6d0d846568e1fbb60e05aacfa9c1c73c", null ],
-    [ "LoadResult", "d9/d01/a00227.html#a3ca4e45c9be5012fb1af06ea12b759c2", [
-      [ "Success", "d9/d01/a00227.html#a3ca4e45c9be5012fb1af06ea12b759c2a505a83f220c02df2f85c3810cd9ceb38", null ],
-      [ "FileNotFound", "d9/d01/a00227.html#a3ca4e45c9be5012fb1af06ea12b759c2a2767828026039e8ba7b38973cbb701f2", null ],
-      [ "VersionMismatch", "d9/d01/a00227.html#a3ca4e45c9be5012fb1af06ea12b759c2a2d50084f04994afa70d78b604a22dd31", null ]
-    ] ],
-    [ "VMAP_LOAD_RESULT", "d9/d01/a00227.html#a70f18a0d29fcdc21e145ab8306987b18", [
-      [ "VMAP_LOAD_RESULT_ERROR", "d9/d01/a00227.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663", null ],
-      [ "VMAP_LOAD_RESULT_OK", "d9/d01/a00227.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b", null ],
-      [ "VMAP_LOAD_RESULT_IGNORED", "d9/d01/a00227.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165", null ]
+    [ "SQLElementData", "dd/d73/a06141.html", "dd/d73/a06141" ],
+    [ "SQLOperation", "d5/d6e/a06145.html", "d5/d6e/a06145" ],
+    [ "SQLElementDataType", "d9/d01/a00227.html#abb4a6cfcce013f18b29779f1f435e627", [
+      [ "SQL_ELEMENT_RAW", "d9/d01/a00227.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a", null ],
+      [ "SQL_ELEMENT_PREPARED", "d9/d01/a00227.html#abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d", null ]
     ] ]
 ];

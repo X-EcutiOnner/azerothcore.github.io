@@ -1,28 +1,7 @@
 var a08353 =
 [
-    [ "GossipMenu", "de/dcd/a08353.html#a57bbd11a89194b24566279bb846edd54", null ],
-    [ "~GossipMenu", "de/dcd/a08353.html#a4c72e949bfa5cff5bb2b4ecc5ea56f96", null ],
-    [ "AddGossipMenuItemData", "de/dcd/a08353.html#ac15f7a55f03d50cb50cb366150fb6fd8", null ],
-    [ "AddMenuItem", "de/dcd/a08353.html#a47c99098962324ba20efb029df24fd3e", null ],
-    [ "AddMenuItem", "de/dcd/a08353.html#a7d04c8b60bd9ec1ebec5537ef8233d0a", null ],
-    [ "ClearMenu", "de/dcd/a08353.html#ac6ce4a1565afa7c86eb93ab0c981b866", null ],
-    [ "Empty", "de/dcd/a08353.html#a02393cb3a0a3b9cf3ccfc788479bd1ca", null ],
-    [ "GetItem", "de/dcd/a08353.html#a61be1f9f0c25093a19d2a6b1c46bfd84", null ],
-    [ "GetItemData", "de/dcd/a08353.html#a8b58b8a09b1363e56eb5b8f623009597", null ],
-    [ "GetLocale", "de/dcd/a08353.html#a300a0ffdf513e3fc405028b72d9ad600", null ],
-    [ "GetMenuId", "de/dcd/a08353.html#a6bc424e3e19032ac7516a566412436d1", null ],
-    [ "GetMenuItemAction", "de/dcd/a08353.html#a46a06b2b50a50ad061a3e11b08f35153", null ],
-    [ "GetMenuItemCount", "de/dcd/a08353.html#a143ee125ba5709c1a3f5fb75fb9ade1c", null ],
-    [ "GetMenuItems", "de/dcd/a08353.html#a8fff76a2af9895fe41bc958712466191", null ],
-    [ "GetMenuItemSender", "de/dcd/a08353.html#a95b4a761301c7d76437a2dea0bcd304a", null ],
-    [ "GetSenderGUID", "de/dcd/a08353.html#a73d538927373b67ad66380e14a33d00e", null ],
-    [ "IsMenuItemCoded", "de/dcd/a08353.html#abbf16fa0780a4ce02f75e379bfefb2b9", null ],
-    [ "SetLocale", "de/dcd/a08353.html#a2a1a8781e502f814d7b5f8368c02030e", null ],
-    [ "SetMenuId", "de/dcd/a08353.html#a0dd173ce7a9995c9bac5080e53d78b07", null ],
-    [ "SetSenderGUID", "de/dcd/a08353.html#ac85ede62cc43925ba82a5c407e115243", null ],
-    [ "_locale", "de/dcd/a08353.html#a8fbffff023b7b3347e967d81cf801172", null ],
-    [ "_menuId", "de/dcd/a08353.html#abdcc39069ea7c750308292f28e7277fe", null ],
-    [ "_menuItemData", "de/dcd/a08353.html#a74963fbb82523fe99aced2bd8325e062", null ],
-    [ "_menuItems", "de/dcd/a08353.html#a258217dfb85114323231ded153b0099d", null ],
-    [ "_senderGUID", "de/dcd/a08353.html#affe2150aac16ac70c14a6f7161bc9085", null ]
+    [ "VendorItemCount", "de/dcd/a08353.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
+    [ "count", "de/dcd/a08353.html#aff4c062138792ffb37dadb19b725c87c", null ],
+    [ "itemId", "de/dcd/a08353.html#a225158bbb56d6666ba4918155f08f993", null ],
+    [ "lastIncrementTime", "de/dcd/a08353.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
 ];

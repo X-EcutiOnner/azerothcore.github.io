@@ -1,8 +1,12 @@
 var a14381 =
 [
-    [ "npc_zulaman_hostageAI", "d2/d01/a14385.html", "d2/d01/a14385" ],
-    [ "npc_zulaman_hostage", "d2/db5/a14381.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "d2/db5/a14381.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "d2/db5/a14381.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "d2/db5/a14381.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "npc_chained_spirit", "d2/db5/a14381.html#a5f407e700a2086f971bed0e8c0def0db", null ],
+    [ "DoAction", "d2/db5/a14381.html#a7205ef13ca0d164a9222c049bc582254", null ],
+    [ "JustDied", "d2/db5/a14381.html#a3b405503231173e7ff7aa52e34f63da5", null ],
+    [ "MovementInform", "d2/db5/a14381.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
+    [ "Reset", "d2/db5/a14381.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
+    [ "SetGUID", "d2/db5/a14381.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
+    [ "UpdateAI", "d2/db5/a14381.html#a38d14b69c71bf2902a916028580fbfad", null ],
+    [ "instance", "d2/db5/a14381.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
+    [ "revivePlayerGUID", "d2/db5/a14381.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
 ];

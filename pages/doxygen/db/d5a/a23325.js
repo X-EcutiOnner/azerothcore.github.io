@@ -1,5 +1,6 @@
 var a23325 =
 [
-    [ "boss_quagmirran", "db/d5a/a23325.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "db/d5a/a23325.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "npc_millhouse_manastormAI", "db/d41/a23329.html", "db/d41/a23329" ],
+    [ "npc_millhouse_manastorm", "db/d5a/a23325.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "db/d5a/a23325.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

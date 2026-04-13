@@ -1,6 +1,6 @@
 var a25837 =
 [
-    [ "HandleDummy", "df/d3f/a25837.html#ade4c16273ebefaeefac3bfb51c61d19a", null ],
-    [ "PrepareSpellScript", "df/d3f/a25837.html#adfa89e065aa18b3e11998331c426151a", null ],
-    [ "Register", "df/d3f/a25837.html#ab37569c6b2362220cbce92eb184cc6db", null ]
+    [ "OnPeriodic", "df/d3f/a25837.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "df/d3f/a25837.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "df/d3f/a25837.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

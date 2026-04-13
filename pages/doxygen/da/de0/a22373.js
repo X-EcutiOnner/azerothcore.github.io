@@ -1,7 +1,8 @@
 var a22373 =
 [
-    [ "HandleScript", "da/de0/a22373.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "da/de0/a22373.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "da/de0/a22373.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "da/de0/a22373.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_parasitic_shadowfiend", "da/de0/a22373.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "da/de0/a22373.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "da/de0/a22373.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "da/de0/a22373.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "da/de0/a22373.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

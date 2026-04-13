@@ -1,7 +1,7 @@
 var a19473 =
 [
-    [ "HandleScriptEffect", "d7/da0/a19473.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "d7/da0/a19473.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "d7/da0/a19473.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "d7/da0/a19473.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "FilterTargets", "d7/da0/a19473.html#a6beccd163ab8442a1ed39c553716cb73", null ],
+    [ "Load", "d7/da0/a19473.html#a5df67c2dbd14a75435f68939240daae6", null ],
+    [ "PrepareSpellScript", "d7/da0/a19473.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
+    [ "Register", "d7/da0/a19473.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
 ];

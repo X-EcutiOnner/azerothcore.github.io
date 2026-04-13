@@ -1,9 +1,6 @@
 var a14525 =
 [
-    [ "boss_jindo", "d7/d0c/a14525.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
-    [ "EnterEvadeMode", "d7/d0c/a14525.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
-    [ "JustEngagedWith", "d7/d0c/a14525.html#a7f612a1e5033c5097856222cee41f2af", null ],
-    [ "JustSummoned", "d7/d0c/a14525.html#ac7382289d174ec70703b76dc4e451d39", null ],
-    [ "UpdateAI", "d7/d0c/a14525.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
-    [ "_scheduler", "d7/d0c/a14525.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
+    [ "HandleDummyEffect", "d7/d0c/a14525.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
+    [ "PrepareSpellScript", "d7/d0c/a14525.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
+    [ "Register", "d7/d0c/a14525.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
 ];
