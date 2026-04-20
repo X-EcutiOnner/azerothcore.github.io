@@ -1,10 +1,6 @@
 var a21237 =
 [
-    [ "npc_bonker_togglevoltAI", "d6/d58/a21237.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "d6/d58/a21237.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "d6/d58/a21237.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "d6/d58/a21237.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "d6/d58/a21237.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "WaypointReached", "d6/d58/a21237.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "Bonker_agro", "d6/d58/a21237.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "npc_valiance_keep_cannoneerAI", "db/d5e/a21241.html", "db/d5e/a21241" ],
+    [ "npc_valiance_keep_cannoneer", "d6/d58/a21237.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "d6/d58/a21237.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

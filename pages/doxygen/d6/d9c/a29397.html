@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellProcAttributeTest Class Reference</title>
+<title>AzerothCore: SpellProcCooldownTest Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,12 +106,13 @@ $(document).ready(function(){initNavTree('d6/d9c/a29397.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="../../de/df9/a29394.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellProcAttributeTest Class Reference</div></div>
+  <div class="headertitle"><div class="title">SpellProcCooldownTest Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="dynheader">
-Inheritance diagram for SpellProcAttributeTest:</div>
+Inheritance diagram for SpellProcCooldownTest:</div>
 <div class="dyncontent">
  <div class="center">
   <img src="../../d6/d9c/a29397.png" alt=""/>
@@ -119,13 +120,18 @@ Inheritance diagram for SpellProcAttributeTest:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:a3435d06dcb74c39719a1b141bd50cb23"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/a29397.html#a3435d06dcb74c39719a1b141bd50cb23">SetUp</a> () override</td></tr>
-<tr class="separator:a3435d06dcb74c39719a1b141bd50cb23"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a502fcdf3eb4a377df1616262ca7b8d01"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/a29397.html#a502fcdf3eb4a377df1616262ca7b8d01">SetUp</a> () override</td></tr>
+<tr class="separator:a502fcdf3eb4a377df1616262ca7b8d01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:a1209729d4d037c8bb63d685fa9bdd07a"><td class="memItemLeft" align="right" valign="top">std::chrono::steady_clock::time_point&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9c/a29397.html#a1209729d4d037c8bb63d685fa9bdd07a">_now</a></td></tr>
+<tr class="separator:a1209729d4d037c8bb63d685fa9bdd07a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a3435d06dcb74c39719a1b141bd50cb23" name="a3435d06dcb74c39719a1b141bd50cb23"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3435d06dcb74c39719a1b141bd50cb23">&#9670;&#160;</a></span>SetUp()</h2>
+<a id="a502fcdf3eb4a377df1616262ca7b8d01" name="a502fcdf3eb4a377df1616262ca7b8d01"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a502fcdf3eb4a377df1616262ca7b8d01">&#9670;&#160;</a></span>SetUp()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -134,7 +140,7 @@ Protected Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void SpellProcAttributeTest::SetUp </td>
+          <td class="memname">void SpellProcCooldownTest::SetUp </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -146,8 +152,38 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   44</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
+<div class="line"><span class="lineno">   36</span>        <a class="code hl_variable" href="../../d6/d9c/a29397.html#a1209729d4d037c8bb63d685fa9bdd07a">_now</a> = std::chrono::steady_clock::now();</div>
+<div class="line"><span class="lineno">   37</span>    }</div>
+<div class="ttc" id="aa29397_html_a1209729d4d037c8bb63d685fa9bdd07a"><div class="ttname"><a href="../../d6/d9c/a29397.html#a1209729d4d037c8bb63d685fa9bdd07a">SpellProcCooldownTest::_now</a></div><div class="ttdeci">std::chrono::steady_clock::time_point _now</div><div class="ttdef"><b>Definition:</b> SpellProcCooldownTest.cpp:39</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00039">_now</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a1209729d4d037c8bb63d685fa9bdd07a" name="a1209729d4d037c8bb63d685fa9bdd07a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1209729d4d037c8bb63d685fa9bdd07a">&#9670;&#160;</a></span>_now</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::chrono::steady_clock::time_point SpellProcCooldownTest::_now</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00034">SetUp()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -155,8 +191,8 @@ Protected Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/d9c/a29397.html">SpellProcAttributeTest</a></li>
-    <li class="footer">Generated on Mon Apr 13 2026 21:29:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/d9c/a29397.html">SpellProcCooldownTest</a></li>
+    <li class="footer">Generated on Mon Apr 20 2026 21:16:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

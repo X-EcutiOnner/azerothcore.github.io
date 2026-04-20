@@ -1,5 +1,5 @@
 var a27921 =
 [
-    [ "go_table_theka", "d6/d91/a27921.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d6/d91/a27921.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "go_massive_seaforium_charge", "d6/d91/a27921.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "d6/d91/a27921.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

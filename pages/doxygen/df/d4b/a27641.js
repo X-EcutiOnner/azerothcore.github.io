@@ -1,5 +1,5 @@
 var a27641 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "df/d4b/a27641.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "df/d4b/a27641.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "AreaTrigger_at_legion_teleporter", "df/d4b/a27641.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "df/d4b/a27641.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

@@ -1,7 +1,8 @@
 var a20617 =
 [
-    [ "boss_yoggsaron_corruptor_tentacle", "de/d25/a20617.html#afc092be8079630b1214c98b8896a22c3", null ],
-    [ "DoAction", "de/d25/a20617.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
-    [ "SelectCorruptionTarget", "de/d25/a20617.html#a8b868941372af612e269e013594a5c14", null ],
-    [ "UpdateAI", "de/d25/a20617.html#a2f8911a615d32689088a6c358ac80d3f", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "de/d25/a20617.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "de/d25/a20617.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "de/d25/a20617.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "de/d25/a20617.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "de/d25/a20617.html#ae22a12401dc98534da1cb771468a58ce", null ]
 ];

@@ -1,6 +1,9 @@
 var a26897 =
 [
-    [ "HandleScript", "d4/d2a/a26897.html#a54c724bd8786c894ecaa584c164c2e53", null ],
-    [ "PrepareSpellScript", "d4/d2a/a26897.html#a4505b9196609ae9339fe7e5948963663", null ],
-    [ "Register", "d4/d2a/a26897.html#ae293d6a2a477f716f357516781246069", null ]
+    [ "HandleAfterHit", "d4/d2a/a26897.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "d4/d2a/a26897.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "d4/d2a/a26897.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "d4/d2a/a26897.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "d4/d2a/a26897.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "d4/d2a/a26897.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

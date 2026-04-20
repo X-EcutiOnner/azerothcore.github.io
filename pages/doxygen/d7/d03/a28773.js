@@ -1,6 +1,4 @@
 var a28773 =
 [
-    [ "Id", "d7/d03/a28773.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "d7/d03/a28773.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "d7/d03/a28773.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "ratio", "d7/d03/a28773.html#a4d2880eb4c15dca8148ee5aa21920e6d", null ]
 ];

@@ -1,7 +1,6 @@
 var a21417 =
 [
-    [ "CheckRequirement", "df/dad/a21417.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "df/dad/a21417.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "df/dad/a21417.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "df/dad/a21417.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_heated_battleAI", "d1/def/a21421.html", "d1/def/a21421" ],
+    [ "npc_heated_battle", "df/dad/a21417.html#aceafde04a60940c1027a6e838ffdc137", null ],
+    [ "GetAI", "df/dad/a21417.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
 ];

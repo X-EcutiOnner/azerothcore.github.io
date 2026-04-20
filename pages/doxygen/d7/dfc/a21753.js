@@ -1,7 +1,6 @@
 var a21753 =
 [
-    [ "HandleScriptEffect", "d7/dfc/a21753.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "d7/dfc/a21753.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "d7/dfc/a21753.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "d7/dfc/a21753.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "npc_guardian_pavilionAI", "d1/d76/a21757.html", "d1/d76/a21757" ],
+    [ "npc_guardian_pavilion", "d7/dfc/a21753.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d7/dfc/a21753.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

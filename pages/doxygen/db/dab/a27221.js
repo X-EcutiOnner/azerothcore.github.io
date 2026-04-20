@@ -1,7 +1,6 @@
 var a27221 =
 [
-    [ "HandleBonus", "db/dab/a27221.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
-    [ "PrepareAuraScript", "db/dab/a27221.html#aebf4afa25b50be9b99900ef830f26f04", null ],
-    [ "Register", "db/dab/a27221.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
-    [ "Validate", "db/dab/a27221.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
+    [ "PeriodicTick", "db/dab/a27221.html#a14e79a7bb4a5b11ddc74ab366e79a907", null ],
+    [ "PrepareAuraScript", "db/dab/a27221.html#a0448cdf379053396f8649946e52ce690", null ],
+    [ "Register", "db/dab/a27221.html#a2dab21ddb3c33341d560643d27042402", null ]
 ];

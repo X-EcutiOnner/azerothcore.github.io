@@ -1,11 +1,7 @@
 var a28081 =
 [
-    [ "npc_franklinAI", "de/d10/a28081.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "de/d10/a28081.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "de/d10/a28081.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "de/d10/a28081.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "de/d10/a28081.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "de/d10/a28081.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "de/d10/a28081.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "de/d10/a28081.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "npc_riggle_bassbaitAI", "de/d10/a28081.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "de/d10/a28081.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "de/d10/a28081.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "de/d10/a28081.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

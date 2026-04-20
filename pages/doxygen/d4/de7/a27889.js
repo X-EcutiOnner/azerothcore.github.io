@@ -1,5 +1,5 @@
 var a27889 =
 [
-    [ "go_southfury_moonstone", "d4/de7/a27889.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "d4/de7/a27889.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
+    [ "go_arcane_prison", "d4/de7/a27889.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "d4/de7/a27889.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

@@ -1,6 +1,6 @@
 var a02744 =
 [
-    [ "boss_the_maker", "df/def/a23169.html", "df/def/a23169" ],
+    [ "boss_the_maker", "de/d80/a23165.html", "de/d80/a23165" ],
     [ "Says", "d5/dc7/a02744.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "db/d09/a03131.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "d4/d1c/a03272.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],

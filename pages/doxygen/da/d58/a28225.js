@@ -1,13 +1,7 @@
 var a28225 =
 [
-    [ "npc_spring_rabbitAI", "da/d58/a28225.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
-    [ "DoAction", "da/d58/a28225.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
-    [ "JustEngagedWith", "da/d58/a28225.html#a0c36f1dfc094007990f067544a940538", null ],
-    [ "Reset", "da/d58/a28225.html#ac0f6b47044099016dd6453674b75b2c8", null ],
-    [ "UpdateAI", "da/d58/a28225.html#af9da118068234755fa9219b84050d2a3", null ],
-    [ "bunnyTimer", "da/d58/a28225.html#a99c2923194cf6a07bee8924abf98f470", null ],
-    [ "inLove", "da/d58/a28225.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
-    [ "jumpTimer", "da/d58/a28225.html#a5c17e00187ac87b23482dfbabb89809b", null ],
-    [ "rabbitGUID", "da/d58/a28225.html#af838b25c8442767aaef16e95022cb062", null ],
-    [ "searchTimer", "da/d58/a28225.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
+    [ "npc_crashin_thrashin_robot", "da/d58/a28225.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "da/d58/a28225.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "da/d58/a28225.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "da/d58/a28225.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

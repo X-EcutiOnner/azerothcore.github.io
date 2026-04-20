@@ -1,15 +1,13 @@
 var a29193 =
 [
-    [ "DamageInfoStubBuilder", "df/da0/a29193.html#a282b4f92722f9cf12358a9f603df6902", null ],
-    [ "Build", "df/da0/a29193.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
-    [ "WithAbsorb", "df/da0/a29193.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
-    [ "WithAttackType", "df/da0/a29193.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
-    [ "WithBlock", "df/da0/a29193.html#a81381d471627ddd6e86678551ca4ab5b", null ],
-    [ "WithDamage", "df/da0/a29193.html#abf9d30cde831f2094a181a312bcfe9df", null ],
-    [ "WithHitMask", "df/da0/a29193.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
-    [ "WithOriginalDamage", "df/da0/a29193.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
-    [ "WithResist", "df/da0/a29193.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
-    [ "WithSchoolMask", "df/da0/a29193.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
-    [ "WithSpellInfo", "df/da0/a29193.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
-    [ "_stub", "df/da0/a29193.html#abf06c6b638dcd9489fa0e3d755433514", null ]
+    [ "attackType", "df/da0/a29193.html#a4715e7e37c120d791e6a32cd275b8cbd", null ],
+    [ "equippedItemClass", "df/da0/a29193.html#aceba901b7f666b4a3806c35b6d8697ad", null ],
+    [ "equippedItemSubClassMask", "df/da0/a29193.html#a3384bf3ae58fb0977f8fa81f84d940e2", null ],
+    [ "hasEquippedItem", "df/da0/a29193.html#a5d7780265fe18a0657f2a68d9c737fe7", null ],
+    [ "hasNoEquipRequirementAttr", "df/da0/a29193.html#ab754fdbbb49982e7152057341fc3e3af", null ],
+    [ "isInFeralForm", "df/da0/a29193.html#a3d8d88f4640c3100a88efee52ecf5822", null ],
+    [ "isPassive", "df/da0/a29193.html#ad56881b893a29dc5d6be193c6720c4e0", null ],
+    [ "isPlayer", "df/da0/a29193.html#a7de2ea9efe7606f26e2c11d8963357d0", null ],
+    [ "itemFitsRequirements", "df/da0/a29193.html#a760a3b39c124c3f408f0541744b6b34a", null ],
+    [ "itemIsBroken", "df/da0/a29193.html#a3b53871ecd10bd1f6d624431b0907b90", null ]
 ];

@@ -1,7 +1,7 @@
 var a20909 =
 [
-    [ "HandleScript", "d6/dd0/a20909.html#ac8d984ac87f51050113f7ac1a4625785", null ],
-    [ "PrepareSpellScript", "d6/dd0/a20909.html#a34f6166e27cb99e424dd081ffce704a5", null ],
-    [ "Register", "d6/dd0/a20909.html#a0dd5b7a8cf086ee3b5a6f30326874ee3", null ],
-    [ "Validate", "d6/dd0/a20909.html#a364c96f7253fde59e1a9a59a42c4d3a5", null ]
+    [ "FilterTargets", "d6/dd0/a20909.html#aacfc70299b20cfef5b2feac954779f1c", null ],
+    [ "HandleDamageCalc", "d6/dd0/a20909.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
+    [ "PrepareSpellScript", "d6/dd0/a20909.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
+    [ "Register", "d6/dd0/a20909.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
 ];

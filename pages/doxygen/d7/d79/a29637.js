@@ -1,8 +1,15 @@
 var a29637 =
 [
-    [ "bp0", "d7/d79/a29637.html#ada8e047c960181610ff1942cbdfa2e27", null ],
-    [ "bp1", "d7/d79/a29637.html#aaf81afde542db481bde1e26fcc21b945", null ],
-    [ "bp2", "d7/d79/a29637.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
-    [ "spellId", "d7/d79/a29637.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
-    [ "triggered", "d7/d79/a29637.html#a0ee8feba0856c5497612e15128ba8273", null ]
+    [ "toMMAPTileRecastConfig", "d7/d79/a29637.html#ad46c79822cfc2af7b0fbcab1f4c617fa", null ],
+    [ "baseUnitDim", "d7/d79/a29637.html#a9e09d86e08925e501f9f9a5d73f9119c", null ],
+    [ "cellSizeHorizontal", "d7/d79/a29637.html#a4dfcfc16d4c854bc210d8c6827d27ba7", null ],
+    [ "cellSizeVertical", "d7/d79/a29637.html#a0b49e8a9b40c7bed81a28fb5b284c735", null ],
+    [ "maxSimplificationError", "d7/d79/a29637.html#a37fbb64246708db0e7c9788d8f06c04b", null ],
+    [ "tilesPerMapEdge", "d7/d79/a29637.html#a14a858b17d96f6d5945ecfa77bc0fb00", null ],
+    [ "vertexPerMapEdge", "d7/d79/a29637.html#adba40fb00d24af999a1970e3a5fed198", null ],
+    [ "vertexPerTileEdge", "d7/d79/a29637.html#ae7421270c917171607ff972483df0ba1", null ],
+    [ "walkableClimb", "d7/d79/a29637.html#a5501534adbc4018b5047599c12a2e582", null ],
+    [ "walkableHeight", "d7/d79/a29637.html#a3513a1b33d8682303eae1eaa30615a07", null ],
+    [ "walkableRadius", "d7/d79/a29637.html#a0fd92998a753ea4ae76fac8c649645ac", null ],
+    [ "walkableSlopeAngle", "d7/d79/a29637.html#afa96a254067d2173288479cc60a6c97c", null ]
 ];

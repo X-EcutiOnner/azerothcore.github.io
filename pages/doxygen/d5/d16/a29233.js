@@ -1,16 +1,20 @@
 var a29233 =
 [
-    [ "ProcTestScenario", "d5/d16/a29233.html#aba69369df56d3d631a9a62bcde791537", null ],
-    [ "AdvanceTime", "d5/d16/a29233.html#a3b6e8c7f5207be98b7696b478559b24a", null ],
-    [ "GetActor", "d5/d16/a29233.html#a52dcbfa52c49f54ce29cb73253746f70", null ],
-    [ "GetActor", "d5/d16/a29233.html#a7b2084c740b51289f6e2f7ec74dacf17", null ],
-    [ "GetAura", "d5/d16/a29233.html#aa5e30fdf4a8b4912a48ce12aa7763624", null ],
-    [ "GetNow", "d5/d16/a29233.html#a014a9082421c022c2fac91070f8f062e", null ],
-    [ "SimulateProc", "d5/d16/a29233.html#af3f83abbfbd4a902689b232853fdbcfb", null ],
-    [ "WithActorLevel", "d5/d16/a29233.html#ad0ca3530818d3091ab420bd76aab8dcb", null ],
-    [ "WithAura", "d5/d16/a29233.html#a6c6dc6438b7503dcda2a89f1e53bc324", null ],
-    [ "WithWeaponSpeed", "d5/d16/a29233.html#a05d00a17b60c3fd94e85c75d896ca2bb", null ],
-    [ "_actor", "d5/d16/a29233.html#a8928fbb771f94e66af2a24c6c2a3351d", null ],
-    [ "_aura", "d5/d16/a29233.html#a81e71f6e78e8c715899c85dcb9423589", null ],
-    [ "_now", "d5/d16/a29233.html#ae20c57ecb893219e52fe055d1662e527", null ]
+    [ "TestSpellEntryHelper", "d5/d16/a29233.html#a3f6b812ad6767cf68cf41653f29fa998", null ],
+    [ "Get", "d5/d16/a29233.html#a43cc8638601f863dc0b55f7fee6a314a", null ],
+    [ "WithAttributes", "d5/d16/a29233.html#a9461b84bb0ee2937a28727b1b79c9a30", null ],
+    [ "WithAttributesEx3", "d5/d16/a29233.html#aa1538c2401ad99f7ee7b83dcc1acb86b", null ],
+    [ "WithDmgClass", "d5/d16/a29233.html#af2f2490bfad43901e0c43c43a658b7b8", null ],
+    [ "WithEffect", "d5/d16/a29233.html#a97111bde77ad15919433437546f141eb", null ],
+    [ "WithEffectBasePoints", "d5/d16/a29233.html#ada34e949ac38e9b9e91110b1b559ab0e", null ],
+    [ "WithEffectDieSides", "d5/d16/a29233.html#afe3e4ffa52e28004f851d8668cf8601f", null ],
+    [ "WithEffectTriggerSpell", "d5/d16/a29233.html#a10af5cfe1d3e166c38b250c5043039e7", null ],
+    [ "WithId", "d5/d16/a29233.html#ac469f44922b05f410d14e2dff045b9d9", null ],
+    [ "WithProcChance", "d5/d16/a29233.html#a624882a20497cf5d1fd8ed2abd9421d0", null ],
+    [ "WithProcCharges", "d5/d16/a29233.html#a88f8f08b3f6e6c81afdc47516798052d", null ],
+    [ "WithProcFlags", "d5/d16/a29233.html#a639ff4b1423de03e6430d43c6097bef6", null ],
+    [ "WithSchoolMask", "d5/d16/a29233.html#ac9fe293e3223a216131083e2a03d6a14", null ],
+    [ "WithSpellFamilyFlags", "d5/d16/a29233.html#a43d22d9da0f5ad65a570e06c6d0879b6", null ],
+    [ "WithSpellFamilyName", "d5/d16/a29233.html#a241f5b1cd4d2303e39ca65909a99312e", null ],
+    [ "_entry", "d5/d16/a29233.html#a37bfa11482f013bdc5014dc11bd955df", null ]
 ];

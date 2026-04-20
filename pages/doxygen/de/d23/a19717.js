@@ -1,6 +1,5 @@
 var a19717 =
 [
-    [ "boss_krystallusAI", "d1/d03/a19721.html", "d1/d03/a19721" ],
-    [ "boss_krystallus", "de/d23/a19717.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "de/d23/a19717.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "at_hol_hall_of_watchers", "de/d23/a19717.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
+    [ "_OnTrigger", "de/d23/a19717.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
 ];

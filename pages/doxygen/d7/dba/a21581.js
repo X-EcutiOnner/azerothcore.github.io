@@ -1,6 +1,9 @@
 var a21581 =
 [
-    [ "npc_venture_co_stragglerAI", "d0/d71/a21585.html", "d0/d71/a21585" ],
-    [ "npc_venture_co_straggler", "d7/dba/a21581.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d7/dba/a21581.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "npc_venture_co_stragglerAI", "d7/dba/a21581.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "d7/dba/a21581.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "d7/dba/a21581.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "d7/dba/a21581.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "d7/dba/a21581.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "d7/dba/a21581.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

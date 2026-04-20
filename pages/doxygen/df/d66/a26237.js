@@ -1,6 +1,6 @@
 var a26237 =
 [
-    [ "CheckProc", "df/d66/a26237.html#a0158185a5c1c3b3d1d79f93bbb9c6fa7", null ],
-    [ "PrepareAuraScript", "df/d66/a26237.html#a50084bc759ee453a3f5552ca2e039de2", null ],
-    [ "Register", "df/d66/a26237.html#ab79fcdd56767e0199b96d24d71bea452", null ]
+    [ "FilterTargets", "df/d66/a26237.html#aad5d183d0d7ea229cbfc11f751536624", null ],
+    [ "PrepareSpellScript", "df/d66/a26237.html#a68ba19142ae6eb04a2547495233700df", null ],
+    [ "Register", "df/d66/a26237.html#a22c313409438f94d29ab3e236a56c115", null ]
 ];

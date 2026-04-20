@@ -991,10 +991,10 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  395</span>        }</div>
 <div class="line"><span class="lineno">  396</span>    }</div>
 <div class="line"><span class="lineno">  397</span>}</div>
-<div class="ttc" id="aa08281_html_a224f40a0c8521ce5a63064cd00be618e"><div class="ttname"><a href="../../d0/d4d/a08281.html#a224f40a0c8521ce5a63064cd00be618e">Creature::LoadCreatureFromDB</a></div><div class="ttdeci">bool LoadCreatureFromDB(ObjectGuid::LowType guid, Map *map, bool addToMap=true, bool allowDuplicate=false)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:1677</div></div>
+<div class="ttc" id="aa08281_html_a224f40a0c8521ce5a63064cd00be618e"><div class="ttname"><a href="../../d0/d4d/a08281.html#a224f40a0c8521ce5a63064cd00be618e">Creature::LoadCreatureFromDB</a></div><div class="ttdeci">bool LoadCreatureFromDB(ObjectGuid::LowType guid, Map *map, bool addToMap=true, bool allowDuplicate=false)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:1674</div></div>
 <div class="ttc" id="aa10113_html_a93137bdd833540e5c698d3890c47f413"><div class="ttname"><a href="../../de/de5/a10113.html#a93137bdd833540e5c698d3890c47f413">Map::IsGridLoaded</a></div><div class="ttdeci">bool IsGridLoaded(GridCoord const &amp;gridCoord) const</div><div class="ttdef"><b>Definition:</b> Map.cpp:203</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00034">PoolObject::guid</a>, <a class="el" href="../../#l00296">Map::Instanceable()</a>, <a class="el" href="../../#l00203">Map::IsGridLoaded()</a>, <a class="el" href="../../#l01677">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l00220">sMapMgr</a>, and <a class="el" href="../../#l01723">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00034">PoolObject::guid</a>, <a class="el" href="../../#l00296">Map::Instanceable()</a>, <a class="el" href="../../#l00203">Map::IsGridLoaded()</a>, <a class="el" href="../../#l01674">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l00220">sMapMgr</a>, and <a class="el" href="../../#l01723">sObjectMgr</a>.</p>
 
 </div>
 </div>
@@ -1104,9 +1104,9 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  454</span>        questMap-&gt;insert(QuestRelations::value_type(itr-&gt;second, itr-&gt;first));</div>
 <div class="line"><span class="lineno">  455</span>    }</div>
 <div class="line"><span class="lineno">  456</span>}</div>
-<div class="ttc" id="aa04547_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d0/da8/a04547.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
+<div class="ttc" id="aa04547_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d0/da8/a04547.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00034">PoolObject::guid</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l01723">sObjectMgr</a>, and <a class="el" href="../../#l00177">sPoolMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00034">PoolObject::guid</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l01723">sObjectMgr</a>, and <a class="el" href="../../#l00177">sPoolMgr</a>.</p>
 
 </div>
 </div>
@@ -1244,7 +1244,7 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aa10489_html_a235cd9ecd41ebd961b5b91ffc6b5e8cd"><div class="ttname"><a href="../../db/d56/a10489.html#a235cd9ecd41ebd961b5b91ffc6b5e8cd">PoolGroup::DespawnObject</a></div><div class="ttdeci">void DespawnObject(ActivePoolData &amp;spawns, ObjectGuid::LowType guid=0)</div><div class="ttdef"><b>Definition:</b> PoolMgr.cpp:160</div></div>
 <div class="ttc" id="aa10509_html"><div class="ttname"><a href="../../d6/d1c/a10509.html">Quest</a></div><div class="ttdef"><b>Definition:</b> QuestDef.h:210</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../da/d5a/a10485.html#ac23fc621fc12c77718d5a1b9b9d928c4">ActivePoolData::ActivateObject()</a>, <a class="el" href="../../#l00344">CHAR_SEL_POOL_QUEST_SAVE</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00060">ActivePoolData::GetActiveQuests()</a>, <a class="el" href="../../da/d5a/a10485.html#a092d75db230d224ef3e322994f1c0076">ActivePoolData::IsActiveObject()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00133">Acore::Containers::SelectRandomContainerElement()</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, and <a class="el" href="../../#l00177">sPoolMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../da/d5a/a10485.html#ac23fc621fc12c77718d5a1b9b9d928c4">ActivePoolData::ActivateObject()</a>, <a class="el" href="../../#l00344">CHAR_SEL_POOL_QUEST_SAVE</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00060">ActivePoolData::GetActiveQuests()</a>, <a class="el" href="../../da/d5a/a10485.html#a092d75db230d224ef3e322994f1c0076">ActivePoolData::IsActiveObject()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00133">Acore::Containers::SelectRandomContainerElement()</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, and <a class="el" href="../../#l00177">sPoolMgr</a>.</p>
 
 </div>
 </div>
@@ -1443,7 +1443,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d56/a10489.html">PoolGroup</a></li>
-    <li class="footer">Generated on Mon Apr 13 2026 21:29:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 20 2026 21:16:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -3,7 +3,6 @@ var a04547 =
     [ "Log", "db/d7d/a05625.html", "db/d7d/a05625" ],
     [ "LOG_DEBUG", "d0/da8/a04547.html#a47ac782b14a7531c6232777165a1a161", null ],
     [ "LOG_ERROR", "d0/da8/a04547.html#a43832e3fa8508deb4ce43e520005fcd9", null ],
-    [ "LOG_EXCEPTION_FREE", "d0/da8/a04547.html#aa30f9aa89655372730e1d6fec2e40c5e", null ],
     [ "LOG_FATAL", "d0/da8/a04547.html#a0e09b50c268dc6897a1c70aa46de936e", null ],
     [ "LOG_GM", "d0/da8/a04547.html#aeeb132f13796dfa459eb05386acff8fe", null ],
     [ "LOG_INFO", "d0/da8/a04547.html#a271e427d8e8481efd5cd5f537ec9e419", null ],

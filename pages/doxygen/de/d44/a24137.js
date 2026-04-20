@@ -1,6 +1,6 @@
 var a24137 =
 [
-    [ "PrepareSpellScript", "de/d44/a24137.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "de/d44/a24137.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "de/d44/a24137.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "CheckProc", "de/d44/a24137.html#afec3e119cb5ef12632b603225ccb5b8d", null ],
+    [ "PrepareAuraScript", "de/d44/a24137.html#a2f42e70482f71a4c275f70897b90ed72", null ],
+    [ "Register", "de/d44/a24137.html#a048f59b6b0d52232e3a953f173324fc2", null ]
 ];

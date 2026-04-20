@@ -1,9 +1,6 @@
 var a21701 =
 [
-    [ "npc_lord_areteAI", "da/da6/a21701.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "da/da6/a21701.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "da/da6/a21701.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "da/da6/a21701.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "da/da6/a21701.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "da/da6/a21701.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_boneguard_footmanAI", "db/d06/a21705.html", "db/d06/a21705" ],
+    [ "npc_boneguard_footman", "da/da6/a21701.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "da/da6/a21701.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

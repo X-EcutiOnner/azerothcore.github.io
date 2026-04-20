@@ -1,8 +1,7 @@
 var a20157 =
 [
-    [ "npc_ulduar_flash_freeze", "dc/df0/a20157.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
-    [ "DamageTaken", "dc/df0/a20157.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "dc/df0/a20157.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "_instance", "dc/df0/a20157.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
-    [ "timer", "dc/df0/a20157.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "npc_ulduar_icicle", "dc/df0/a20157.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
+    [ "UpdateAI", "dc/df0/a20157.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
+    [ "timer1", "dc/df0/a20157.html#ae277d302131abd17cef018872b12da06", null ],
+    [ "timer2", "dc/df0/a20157.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
 ];

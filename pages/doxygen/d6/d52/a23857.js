@@ -1,5 +1,6 @@
 var a23857 =
 [
-    [ "go_crystal_prison", "d6/d52/a23857.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "d6/d52/a23857.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "npc_enraged_spiritAI", "df/da5/a23861.html", "df/da5/a23861" ],
+    [ "npc_enraged_spirit", "d6/d52/a23857.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d6/d52/a23857.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

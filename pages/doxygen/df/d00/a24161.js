@@ -1,11 +1,8 @@
 var a24161 =
 [
-    [ "CalcPeriodic", "df/d00/a24161.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
-    [ "CalculateHasteAmount", "df/d00/a24161.html#a75d428e0b3619d53bd9436712d2e394e", null ],
-    [ "CalculateSPAmount", "df/d00/a24161.html#a81805b43a47065281f83889d8be95c54", null ],
-    [ "CalculateStatAmount", "df/d00/a24161.html#a763276aaa00bb6953e0b52118662e7a8", null ],
-    [ "HandleEffectApply", "df/d00/a24161.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
-    [ "HandlePeriodic", "df/d00/a24161.html#ab3c7d479eae88ab4a59b06610af19429", null ],
-    [ "PrepareAuraScript", "df/d00/a24161.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
-    [ "Register", "df/d00/a24161.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
+    [ "CheckProc", "df/d00/a24161.html#aaba070a16ff0ba45b4062abe30c79cf5", null ],
+    [ "HandleProc", "df/d00/a24161.html#a7682ed37759329da8e4e475e98a23161", null ],
+    [ "PrepareAuraScript", "df/d00/a24161.html#ac4cc997ddd92e741f9f105bda4ec00b9", null ],
+    [ "Register", "df/d00/a24161.html#a5ab16c8eb40822679739e15a2ceac715", null ],
+    [ "Validate", "df/d00/a24161.html#a34919ab1f3b2d4e98536c3ded56cf5fc", null ]
 ];

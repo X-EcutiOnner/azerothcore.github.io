@@ -1,7 +1,6 @@
 var a25929 =
 [
-    [ "AfterRemove", "d0/dd0/a25929.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
-    [ "PrepareAuraScript", "d0/dd0/a25929.html#a13f11ec412f18d805282b3810aff5e90", null ],
-    [ "Register", "d0/dd0/a25929.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
-    [ "Validate", "d0/dd0/a25929.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
+    [ "PrepareSpellScript", "d0/dd0/a25929.html#a8127429829afd4b82395a821a4bea19c", null ],
+    [ "Register", "d0/dd0/a25929.html#a73717914aa23764fa16c8a2965798a6a", null ],
+    [ "SecondaryEffect", "d0/dd0/a25929.html#a6150d8615c7f579aadd50e28aba0d569", null ]
 ];

@@ -1,7 +1,9 @@
 var a22645 =
 [
-    [ "HandleOnHit", "d2/d2f/a22645.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "d2/d2f/a22645.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "d2/d2f/a22645.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "d2/d2f/a22645.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "boss_najentus", "d2/d2f/a22645.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d2/d2f/a22645.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d2/d2f/a22645.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d2/d2f/a22645.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d2/d2f/a22645.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "d2/d2f/a22645.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

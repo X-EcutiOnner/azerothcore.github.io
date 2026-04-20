@@ -1,7 +1,8 @@
 var a27041 =
 [
-    [ "CheckProc", "d0/dcc/a27041.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
-    [ "HandleProc", "d0/dcc/a27041.html#a91ee1b654a3a26e027407635a45b80b3", null ],
-    [ "PrepareAuraScript", "d0/dcc/a27041.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
-    [ "Register", "d0/dcc/a27041.html#ab06a732203303d5533bdc4b217640d2d", null ]
+    [ "ApplyDebuff", "d0/dcc/a27041.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "d0/dcc/a27041.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "d0/dcc/a27041.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "d0/dcc/a27041.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "d0/dcc/a27041.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

@@ -1,6 +1,15 @@
 var a21441 =
 [
-    [ "npc_q24545_lich_kingAI", "d0/d5c/a21445.html", "d0/d5c/a21445" ],
-    [ "npc_q24545_lich_king", "d8/dd8/a21441.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "d8/dd8/a21441.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "npc_q24545_lich_kingAI", "d8/dd8/a21441.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
+    [ "CleanAll", "d8/dd8/a21441.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
+    [ "JustSummoned", "d8/dd8/a21441.html#a6049433795be30eb31e240a4939ad42f", null ],
+    [ "Reset", "d8/dd8/a21441.html#aebd396de51edef790cd0b599c94f78a0", null ],
+    [ "SetData", "d8/dd8/a21441.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
+    [ "SetGUID", "d8/dd8/a21441.html#ac7c41ebfa7979907aea246af20bcf368", null ],
+    [ "SpellHitTarget", "d8/dd8/a21441.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
+    [ "SummonedCreatureDespawn", "d8/dd8/a21441.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
+    [ "UpdateAI", "d8/dd8/a21441.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
+    [ "events", "d8/dd8/a21441.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
+    [ "playerGUID", "d8/dd8/a21441.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
+    [ "summons", "d8/dd8/a21441.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
 ];

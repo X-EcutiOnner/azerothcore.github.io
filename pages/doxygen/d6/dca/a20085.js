@@ -1,7 +1,7 @@
 var a20085 =
 [
-    [ "boss_freya_healthy_spore", "d6/dca/a20085.html#abc2492b9cf96cb00940b18fac549fb00", null ],
-    [ "Reset", "d6/dca/a20085.html#abe3f794707aa722e73b1728700876083", null ],
-    [ "UpdateAI", "d6/dca/a20085.html#ac8c952848687cd883aaefe466b799e3b", null ],
-    [ "_despawnTimer", "d6/dca/a20085.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
+    [ "boss_freya_lifebinder", "d6/dca/a20085.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "d6/dca/a20085.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "d6/dca/a20085.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_healTimer", "d6/dca/a20085.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
 ];

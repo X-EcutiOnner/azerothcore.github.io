@@ -1,9 +1,10 @@
 var a19437 =
 [
-    [ "npc_nexus_lord", "d6/d4a/a19437.html#ab66ba12059e8a028972d21afc11fb309", null ],
-    [ "AttackStart", "d6/d4a/a19437.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
-    [ "JustDied", "d6/d4a/a19437.html#ae97f816c5fcb71343d8483345723c300", null ],
-    [ "JustEngagedWith", "d6/d4a/a19437.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
-    [ "UpdateAI", "d6/d4a/a19437.html#acdd7954382f0de84e90d329ec0720a6d", null ],
-    [ "timer", "d6/d4a/a19437.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
+    [ "npc_power_spark", "d6/d4a/a19437.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "d6/d4a/a19437.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "d6/d4a/a19437.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "d6/d4a/a19437.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "d6/d4a/a19437.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "d6/d4a/a19437.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "d6/d4a/a19437.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

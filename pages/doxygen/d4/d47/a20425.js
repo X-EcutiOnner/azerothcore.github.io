@@ -1,10 +1,7 @@
 var a20425 =
 [
-    [ "npc_ulduar_harpoonfirestate", "d4/d47/a20425.html#a2456fbee16367a524f26873da99247e8", null ],
-    [ "GetData", "d4/d47/a20425.html#a83ba5a0cc62ba15cf671d49fccf75f7d", null ],
-    [ "GetHarpoonGunIdForThisHFS", "d4/d47/a20425.html#ae8e0613e67ee4e17157a05910c1551c8", null ],
-    [ "Reset", "d4/d47/a20425.html#aba0f9525ef9e3eddbc4a78164c2f8ffd", null ],
-    [ "SetData", "d4/d47/a20425.html#a338c6cb2be0e05726f372344fdc2b436", null ],
-    [ "pInstance", "d4/d47/a20425.html#aee0914001b38be87976cd44b6bbaf276", null ],
-    [ "repairPoints", "d4/d47/a20425.html#a64bf7ba3b4930eb141b66075b772e64d", null ]
+    [ "npc_ulduar_expedition_commanderAI", "d4/d47/a20425.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "d4/d47/a20425.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "d4/d47/a20425.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "d4/d47/a20425.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

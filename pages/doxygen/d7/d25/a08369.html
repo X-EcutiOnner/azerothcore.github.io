@@ -277,14 +277,14 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  182</span>    member-&gt;<a class="code hl_function" href="../../d0/d4d/a08281.html#ad58781a5fb6888d1e82dd4d068628709">SetFormation</a>(<span class="keyword">this</span>);</div>
 <div class="line"><span class="lineno">  183</span>}</div>
 <div class="ttc" id="aa01463_html_ae80a51404625cee821a8727ed7369352"><div class="ttname"><a href="../../d7/d42/a01463.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a></div><div class="ttdeci">#define sFormationMgr</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:130</div></div>
-<div class="ttc" id="aa04547_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d0/da8/a04547.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
+<div class="ttc" id="aa04547_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d0/da8/a04547.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
 <div class="ttc" id="aa08281_html_a94ab8e421d4a244df52b7a6b74b2842a"><div class="ttname"><a href="../../d0/d4d/a08281.html#a94ab8e421d4a244df52b7a6b74b2842a">Creature::GetSpawnId</a></div><div class="ttdeci">ObjectGuid::LowType GetSpawnId() const</div><div class="ttdef"><b>Definition:</b> Creature.h:69</div></div>
 <div class="ttc" id="aa08281_html_ad58781a5fb6888d1e82dd4d068628709"><div class="ttname"><a href="../../d0/d4d/a08281.html#ad58781a5fb6888d1e82dd4d068628709">Creature::SetFormation</a></div><div class="ttdeci">void SetFormation(CreatureGroup *formation)</div><div class="ttdef"><b>Definition:</b> Creature.h:374</div></div>
 <div class="ttc" id="aa08369_html_a63805a04ef3ef80270ae7e7d03014d83"><div class="ttname"><a href="../../d7/d25/a08369.html#a63805a04ef3ef80270ae7e7d03014d83">CreatureGroup::m_members</a></div><div class="ttdeci">CreatureGroupMemberType m_members</div><div class="ttdef"><b>Definition:</b> CreatureGroups.h:124</div></div>
 <div class="ttc" id="aa08657_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d4/d38/a08657.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:114</div></div>
 <div class="ttc" id="aa08709_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../de/d62/a08709.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00126">m_groupID</a>, <a class="el" href="../../#l00123">m_leader</a>, <a class="el" href="../../#l00124">m_members</a>, <a class="el" href="../../#l00374">Creature::SetFormation()</a>, <a class="el" href="../../#l00130">sFormationMgr</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00126">m_groupID</a>, <a class="el" href="../../#l00123">m_leader</a>, <a class="el" href="../../#l00124">m_members</a>, <a class="el" href="../../#l00374">Creature::SetFormation()</a>, <a class="el" href="../../#l00130">sFormationMgr</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00038">FormationMgr::AddCreatureToGroup()</a>.</p>
 
@@ -412,9 +412,9 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa10253_html_a48a7732160d5a64aa32a82f976f2aeb4"><div class="ttname"><a href="../../df/d3f/a10253.html#a48a7732160d5a64aa32a82f976f2aeb4">MotionMaster::MovementExpiredOnSlot</a></div><div class="ttdeci">void MovementExpiredOnSlot(MovementSlot slot, bool reset=true)</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:220</div></div>
 <div class="ttc" id="aa10253_html_ad0697d75ff06afb1247424100c99619f"><div class="ttname"><a href="../../df/d3f/a10253.html#ad0697d75ff06afb1247424100c99619f">MotionMaster::MoveIdle</a></div><div class="ttdeci">void MoveIdle()</div><div class="ttdef"><b>Definition:</b> MotionMaster.cpp:234</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l01759">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00127">m_Formed</a>, <a class="el" href="../../#l00123">m_leader</a>, <a class="el" href="../../#l00124">m_members</a>, <a class="el" href="../../#l00064">MOTION_SLOT_IDLE</a>, <a class="el" href="../../#l00234">MotionMaster::MoveIdle()</a>, <a class="el" href="../../#l00220">MotionMaster::MovementExpiredOnSlot()</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l01759">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00127">m_Formed</a>, <a class="el" href="../../#l00123">m_leader</a>, <a class="el" href="../../#l00124">m_members</a>, <a class="el" href="../../#l00064">MOTION_SLOT_IDLE</a>, <a class="el" href="../../#l00234">MotionMaster::MoveIdle()</a>, <a class="el" href="../../#l00220">MotionMaster::MovementExpiredOnSlot()</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01122">Creature::Motion_Initialize()</a>, and <a class="el" href="../../#l01944">Creature::setDeathState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01119">Creature::Motion_Initialize()</a>, and <a class="el" href="../../#l01941">Creature::setDeathState()</a>.</p>
 
 </div>
 </div>
@@ -474,7 +474,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00123">m_leader</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l00391">Creature::IsFormationLeader()</a>, <a class="el" href="../../#l03898">Creature::IsUpdateNeeded()</a>, <a class="el" href="../../#l01122">Creature::Motion_Initialize()</a>, <a class="el" href="../../#l00119">instance_azjol_nerub::instance_azjol_nerub_InstanceScript::OnUnitDeath()</a>, <a class="el" href="../../#l01944">Creature::setDeathState()</a>, and <a class="el" href="../../#l00399">Creature::SignalFormationMovement()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l00391">Creature::IsFormationLeader()</a>, <a class="el" href="../../#l03899">Creature::IsUpdateNeeded()</a>, <a class="el" href="../../#l01119">Creature::Motion_Initialize()</a>, <a class="el" href="../../#l00119">instance_azjol_nerub::instance_azjol_nerub_InstanceScript::OnUnitDeath()</a>, <a class="el" href="../../#l01941">Creature::setDeathState()</a>, and <a class="el" href="../../#l00399">Creature::SignalFormationMovement()</a>.</p>
 
 </div>
 </div>
@@ -568,9 +568,9 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  282</span>}</div>
 <div class="ttc" id="aa04568_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
 <div class="ttc" id="aa09041_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../da/d68/a09041.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:903</div></div>
-<div class="ttc" id="aa09041_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../da/d68/a09041.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10746</div></div>
+<div class="ttc" id="aa09041_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../da/d68/a09041.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10729</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00903">Unit::GetVictim()</a>, <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l10746">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00123">m_leader</a>, <a class="el" href="../../#l00124">m_members</a>, and <a class="el" href="../../#l00130">sFormationMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00903">Unit::GetVictim()</a>, <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l10729">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00123">m_leader</a>, <a class="el" href="../../#l00124">m_members</a>, and <a class="el" href="../../#l00130">sFormationMgr</a>.</p>
 
 </div>
 </div>
@@ -696,7 +696,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00127">m_Formed</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01122">Creature::Motion_Initialize()</a>, and <a class="el" href="../../#l00173">npc_cameron::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01119">Creature::Motion_Initialize()</a>, and <a class="el" href="../../#l00173">npc_cameron::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -751,7 +751,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00065">FormationInfo::follow_angle</a>, <a class="el" href="../../#l00064">FormationInfo::follow_dist</a>, <a class="el" href="../../#l01759">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00903">Unit::GetVictim()</a>, <a class="el" href="../../#l00070">FormationInfo::HasGroupFlag()</a>, <a class="el" href="../../#l00747">Unit::HasUnitFlag()</a>, <a class="el" href="../../#l00736">Unit::HasUnitState()</a>, <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l01311">Unit::isPossessed()</a>, <a class="el" href="../../#l00123">m_leader</a>, <a class="el" href="../../#l00124">m_members</a>, <a class="el" href="../../#l00470">MotionMaster::MoveFormation()</a>, <a class="el" href="../../#l00067">FormationInfo::point_1</a>, <a class="el" href="../../#l00068">FormationInfo::point_2</a>, <a class="el" href="../../#l00260">UNIT_FLAG_PLAYER_CONTROLLED</a>, <a class="el" href="../../#l00199">UNIT_STATE_FOLLOW_MOVE</a>, and <a class="el" href="../../#l00225">UNIT_STATE_NOT_MOVE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l01122">Creature::Motion_Initialize()</a>, and <a class="el" href="../../#l00399">Creature::SignalFormationMovement()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l01119">Creature::Motion_Initialize()</a>, and <a class="el" href="../../#l00399">Creature::SignalFormationMovement()</a>.</p>
 
 </div>
 </div>
@@ -818,9 +818,9 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  233</span>        }</div>
 <div class="line"><span class="lineno">  234</span>    }</div>
 <div class="line"><span class="lineno">  235</span>}</div>
-<div class="ttc" id="aa09041_html_a9fe4066ee863cfc8934e1f06dbe42bfc"><div class="ttname"><a href="../../da/d68/a09041.html#a9fe4066ee863cfc8934e1f06dbe42bfc">Unit::EngageWithTarget</a></div><div class="ttdeci">void EngageWithTarget(Unit *who)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7530</div></div>
+<div class="ttc" id="aa09041_html_a9fe4066ee863cfc8934e1f06dbe42bfc"><div class="ttname"><a href="../../da/d68/a09041.html#a9fe4066ee863cfc8934e1f06dbe42bfc">Unit::EngageWithTarget</a></div><div class="ttdeci">void EngageWithTarget(Unit *who)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7519</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l07530">Unit::EngageWithTarget()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00903">Unit::GetVictim()</a>, <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l10746">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00123">m_leader</a>, <a class="el" href="../../#l00124">m_members</a>, and <a class="el" href="../../#l00130">sFormationMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l07519">Unit::EngageWithTarget()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00903">Unit::GetVictim()</a>, <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l10729">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00123">m_leader</a>, <a class="el" href="../../#l00124">m_members</a>, and <a class="el" href="../../#l00130">sFormationMgr</a>.</p>
 
 </div>
 </div>
@@ -878,13 +878,13 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  321</span>    }</div>
 <div class="line"><span class="lineno">  322</span>}</div>
 <div class="ttc" id="aa06445_html"><div class="ttname"><a href="../../d6/d6e/a06445.html">CreatureAI</a></div><div class="ttdef"><b>Definition:</b> CreatureAI.h:69</div></div>
-<div class="ttc" id="aa08281_html_a1277512afd7e270a9d0b4acd90c17550"><div class="ttname"><a href="../../d0/d4d/a08281.html#a1277512afd7e270a9d0b4acd90c17550">Creature::Respawn</a></div><div class="ttdeci">void Respawn(bool force=false)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2015</div></div>
+<div class="ttc" id="aa08281_html_a1277512afd7e270a9d0b4acd90c17550"><div class="ttname"><a href="../../d0/d4d/a08281.html#a1277512afd7e270a9d0b4acd90c17550">Creature::Respawn</a></div><div class="ttdeci">void Respawn(bool force=false)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2012</div></div>
 <div class="ttc" id="aa08281_html_aef9d08b3201a7ca820db28b6bbdd9463"><div class="ttname"><a href="../../d0/d4d/a08281.html#aef9d08b3201a7ca820db28b6bbdd9463">Creature::IsInEvadeMode</a></div><div class="ttdeci">bool IsInEvadeMode() const</div><div class="ttdef"><b>Definition:</b> Creature.h:138</div></div>
 <div class="ttc" id="aa08281_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../d0/d4d/a08281.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition:</b> Creature.h:144</div></div>
 <div class="ttc" id="aa09041_html_ab395fef0b407c0af40ba6274c32730a6"><div class="ttname"><a href="../../da/d68/a09041.html#ab395fef0b407c0af40ba6274c32730a6">Unit::IsAIEnabled</a></div><div class="ttdeci">bool IsAIEnabled</div><div class="ttdef"><b>Definition:</b> Unit.h:2098</div></div>
 <div class="ttc" id="aa09041_html_af5e75d013dfa8a8b888d7714992e3f2a"><div class="ttname"><a href="../../da/d68/a09041.html#af5e75d013dfa8a8b888d7714992e3f2a">Unit::IsInCombat</a></div><div class="ttdeci">bool IsInCombat() const</div><div class="ttdef"><b>Definition:</b> Unit.h:935</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00144">Creature::AI()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l02098">Unit::IsAIEnabled</a>, <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l00935">Unit::IsInCombat()</a>, <a class="el" href="../../#l00138">Creature::IsInEvadeMode()</a>, <a class="el" href="../../#l00123">m_leader</a>, <a class="el" href="../../#l00124">m_members</a>, <a class="el" href="../../#l02015">Creature::Respawn()</a>, and <a class="el" href="../../#l00130">sFormationMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00144">Creature::AI()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l02098">Unit::IsAIEnabled</a>, <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l00935">Unit::IsInCombat()</a>, <a class="el" href="../../#l00138">Creature::IsInEvadeMode()</a>, <a class="el" href="../../#l00123">m_leader</a>, <a class="el" href="../../#l00124">m_members</a>, <a class="el" href="../../#l02012">Creature::Respawn()</a>, and <a class="el" href="../../#l00130">sFormationMgr</a>.</p>
 
 </div>
 </div>
@@ -1089,7 +1089,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d25/a08369.html">CreatureGroup</a></li>
-    <li class="footer">Generated on Mon Apr 13 2026 21:28:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 20 2026 21:15:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

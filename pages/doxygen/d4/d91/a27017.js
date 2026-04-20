@@ -1,6 +1,7 @@
 var a27017 =
 [
-    [ "FilterTargets", "d4/d91/a27017.html#a34ca370993295225a779ee6537295112", null ],
-    [ "PrepareSpellScript", "d4/d91/a27017.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
-    [ "Register", "d4/d91/a27017.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
+    [ "CheckProc", "d4/d91/a27017.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
+    [ "HandleProc", "d4/d91/a27017.html#a91ee1b654a3a26e027407635a45b80b3", null ],
+    [ "PrepareAuraScript", "d4/d91/a27017.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
+    [ "Register", "d4/d91/a27017.html#ab06a732203303d5533bdc4b217640d2d", null ]
 ];

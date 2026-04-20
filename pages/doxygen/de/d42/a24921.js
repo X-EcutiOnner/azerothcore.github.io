@@ -1,9 +1,6 @@
 var a24921 =
 [
-    [ "PrepareAuraScript", "de/d42/a24921.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
-    [ "RefreshVisualShields", "de/d42/a24921.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
-    [ "Register", "de/d42/a24921.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
-    [ "RemoveDummyFromDriver", "de/d42/a24921.html#a399641ce72b74038a4517868267bd86a", null ],
-    [ "RemoveVisualShields", "de/d42/a24921.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
-    [ "Validate", "de/d42/a24921.html#ae5799f72b7fbce82799fd730f1525948", null ]
+    [ "HandleScriptEffect", "de/d42/a24921.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
+    [ "PrepareSpellScript", "de/d42/a24921.html#a1d7e2beafb55464f928ea5904441d698", null ],
+    [ "Register", "de/d42/a24921.html#aeaa8321255f377b85884df25a455554f", null ]
 ];

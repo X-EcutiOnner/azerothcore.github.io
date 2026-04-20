@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['u_5fmap_5ffcc_0',['u_map_fcc',['../df/dd6/a29605.html',1,'']]],
+  ['u_5fmap_5ffcc_0',['u_map_fcc',['../d6/d97/a29581.html',1,'']]],
   ['u_5fmap_5fmagic_1',['u_map_magic',['../d3/dd5/a09401.html',1,'']]],
   ['uint16heightdata_2',['Uint16HeightData',['../d3/d4f/a09429.html',1,'LoadedHeightData']]],
   ['uint8heightdata_3',['Uint8HeightData',['../d8/dab/a09433.html',1,'LoadedHeightData']]],
@@ -8,8 +8,8 @@ var searchData=
   ['unary_5ffunction_5',['unary_function',['../d0/d61/a05385.html',1,'Acore']]],
   ['unary_5ffunction_3c_20lootstoreitem_20_2a_2c_20bool_20_3e_6',['unary_function&lt; LootStoreItem *, bool &gt;',['../d0/d61/a05385.html',1,'Acore']]],
   ['unary_5ffunction_3c_20unit_20_2a_2c_20bool_20_3e_7',['unary_function&lt; Unit *, bool &gt;',['../d0/d61/a05385.html',1,'Acore']]],
-  ['unboundplaguetargetselector_8',['UnboundPlagueTargetSelector',['../d1/d9c/a18041.html',1,'']]],
-  ['unchainedmagictargetselector_9',['UnchainedMagicTargetSelector',['../d3/d6e/a18265.html',1,'']]],
+  ['unboundplaguetargetselector_8',['UnboundPlagueTargetSelector',['../db/d77/a18045.html',1,'']]],
+  ['unchainedmagictargetselector_9',['UnchainedMagicTargetSelector',['../da/d4d/a18269.html',1,'']]],
   ['unit_10',['Unit',['../da/d68/a09041.html',1,'']]],
   ['unitactionbarentry_11',['UnitActionBarEntry',['../d0/df2/a08973.html',1,'']]],
   ['unitai_12',['UnitAI',['../dc/d99/a06433.html',1,'']]],
@@ -19,7 +19,7 @@ var searchData=
   ['unitlistsearcher_16',['UnitListSearcher',['../d7/d77/a09541.html',1,'Acore']]],
   ['unitscript_17',['UnitScript',['../d6/da1/a10725.html',1,'']]],
   ['unitsearcher_18',['UnitSearcher',['../da/d38/a09533.html',1,'Acore']]],
-  ['unitstub_19',['UnitStub',['../db/ddc/a29273.html',1,'']]],
+  ['unitstub_19',['UnitStub',['../d4/d97/a29249.html',1,'']]],
   ['updatablemapobject_20',['UpdatableMapObject',['../d5/dd1/a08689.html',1,'']]],
   ['updatablescript_21',['UpdatableScript',['../d9/d38/a10761.html',1,'']]],
   ['updatablescript_3c_20battlegroundmap_20_3e_22',['UpdatableScript&lt; BattlegroundMap &gt;',['../d9/d38/a10761.html',1,'']]],

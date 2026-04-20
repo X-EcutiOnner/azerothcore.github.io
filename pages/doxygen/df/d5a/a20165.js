@@ -1,14 +1,6 @@
 var a20165 =
 [
-    [ "npc_ulduar_hodir_priest", "df/d5a/a20165.html#af18269ae027e71f86796e723111227b4", null ],
-    [ "AttackStart", "df/d5a/a20165.html#ad86f47516d9f245a4ae241bba26b37a4", null ],
-    [ "CanAIAttack", "df/d5a/a20165.html#a8545bd2492bd32d333e8d144b3d548a5", null ],
-    [ "EnterEvadeMode", "df/d5a/a20165.html#a9d3f3e950b0f9c9a7b85ba3835000a80", null ],
-    [ "JustDied", "df/d5a/a20165.html#a3ac7967a61a774670e25aa3c0477d7ac", null ],
-    [ "MoveInLineOfSight", "df/d5a/a20165.html#abc0c766a88dd64e8f5bbcc2afd883552", null ],
-    [ "ScheduleAbilities", "df/d5a/a20165.html#a10b5f3575c2de311d54c15220c68f4b7", null ],
-    [ "SpellHit", "df/d5a/a20165.html#a2dd6faeb45ba2278e1b4693d20550d4e", null ],
-    [ "UpdateAI", "df/d5a/a20165.html#a450b21ab190ec335d910b38a6a2d9329", null ],
-    [ "_instance", "df/d5a/a20165.html#adb189dbf0e536f469f1a0d82d42de6de", null ],
-    [ "events", "df/d5a/a20165.html#a803e3f35c784716170f9fa8c4484b66c", null ]
+    [ "npc_ulduar_toasty_fire", "df/d5a/a20165.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
+    [ "DoAction", "df/d5a/a20165.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
+    [ "SpellHit", "df/d5a/a20165.html#ad1ac241490db52177ae13640d7ae3eec", null ]
 ];

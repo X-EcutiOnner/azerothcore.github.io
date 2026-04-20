@@ -1,8 +1,7 @@
 var a21885 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d3/d15/a21885.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "InitializeAI", "d3/d15/a21885.html#a6b99780951a126a97db88e7307c1d1b9", null ],
-    [ "JustEngagedWith", "d3/d15/a21885.html#ab95266d60769aa4099ca0f1bf678f237", null ],
-    [ "Reset", "d3/d15/a21885.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "UpdateAI", "d3/d15/a21885.html#abb28428b77beada6a378541ba11d090b", null ]
+    [ "HandleDummy", "d3/d15/a21885.html#a68c638c6e056cbadb101ddd025909f54", null ],
+    [ "PrepareSpellScript", "d3/d15/a21885.html#a5a857bace5232d259145a0a095f70eec", null ],
+    [ "Register", "d3/d15/a21885.html#af9c657e1fac6ee630af0bea337fbff62", null ],
+    [ "Validate", "d3/d15/a21885.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
 ];

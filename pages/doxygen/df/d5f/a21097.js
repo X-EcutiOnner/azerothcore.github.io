@@ -1,12 +1,12 @@
 var a21097 =
 [
-    [ "boss_zuramat", "df/d5f/a21097.html#af033b96498fb71059701caad1fed8f8a", null ],
-    [ "EnterEvadeMode", "df/d5f/a21097.html#a0d7ca9fe585e0dc87118c61ddc0dac84", null ],
-    [ "ExecuteEvent", "df/d5f/a21097.html#a350f06b88af5444a0d4086434ddbe6f4", null ],
-    [ "JustDied", "df/d5f/a21097.html#a1917921efc7a44c3cc3a799187c1718a", null ],
-    [ "JustEngagedWith", "df/d5f/a21097.html#a4c448c8b51795943a6e746479f3ad121", null ],
-    [ "JustSummoned", "df/d5f/a21097.html#a76c2de51333f57db6612effb92d07bd1", null ],
-    [ "KilledUnit", "df/d5f/a21097.html#ae3f00d76928cbd6adf7882f4cccc0518", null ],
-    [ "MoveInLineOfSight", "df/d5f/a21097.html#a6d46d73baf2c0b3c1706d9163564797f", null ],
-    [ "SummonedCreatureDespawn", "df/d5f/a21097.html#afc8869687e9a6050cfee2c674ef7e7f1", null ]
+    [ "boss_xevozz", "df/d5f/a21097.html#aea402ffbe689ca65e29b30899862a8bc", null ],
+    [ "EnterEvadeMode", "df/d5f/a21097.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
+    [ "ExecuteEvent", "df/d5f/a21097.html#af5b37fc643f2b22468a38655fce63d25", null ],
+    [ "JustDied", "df/d5f/a21097.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
+    [ "JustEngagedWith", "df/d5f/a21097.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
+    [ "JustSummoned", "df/d5f/a21097.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
+    [ "KilledUnit", "df/d5f/a21097.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
+    [ "MoveInLineOfSight", "df/d5f/a21097.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
+    [ "SummonedCreatureDespawn", "df/d5f/a21097.html#a1493a5acdfcca7d01446564db622239e", null ]
 ];

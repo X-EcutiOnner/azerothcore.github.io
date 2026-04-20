@@ -1,11 +1,10 @@
 var a20769 =
 [
-    [ "npc_ulduar_storm_tempered_keeper", "de/dbe/a20769.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
-    [ "JustDied", "de/dbe/a20769.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
-    [ "JustEngagedWith", "de/dbe/a20769.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
-    [ "JustSummoned", "de/dbe/a20769.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
-    [ "Reset", "de/dbe/a20769.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
-    [ "UpdateAI", "de/dbe/a20769.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
-    [ "events", "de/dbe/a20769.html#a4a79bd561fa63230a52730da20d7143c", null ],
-    [ "otherGUID", "de/dbe/a20769.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
+    [ "npc_ulduar_snow_mound", "de/dbe/a20769.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "de/dbe/a20769.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "de/dbe/a20769.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "de/dbe/a20769.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "de/dbe/a20769.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "de/dbe/a20769.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "de/dbe/a20769.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

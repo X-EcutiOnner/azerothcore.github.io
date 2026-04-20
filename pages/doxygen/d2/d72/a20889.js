@@ -1,6 +1,5 @@
 var a20889 =
 [
-    [ "boss_skadiAI", "d2/d5a/a20893.html", "d2/d5a/a20893" ],
-    [ "boss_skadi", "d2/d72/a20889.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "d2/d72/a20889.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
+    [ "go_palehoof_sphere", "d2/d72/a20889.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
+    [ "OnGossipHello", "d2/d72/a20889.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
 ];

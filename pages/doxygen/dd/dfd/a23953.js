@@ -1,11 +1,8 @@
 var a23953 =
 [
-    [ "npc_isla_starmaneAI", "dd/dfd/a23953.html#a0cb655d324ddde173dcfdee069c0f694", null ],
-    [ "JustDied", "dd/dfd/a23953.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
-    [ "JustEngagedWith", "dd/dfd/a23953.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
-    [ "JustRespawned", "dd/dfd/a23953.html#a69b395a9b9504737109870c5e8db74c8", null ],
-    [ "UpdateEscortAI", "dd/dfd/a23953.html#af4b8c80e7443bb671be253238b124910", null ],
-    [ "WaypointReached", "dd/dfd/a23953.html#a5d00583afa4e811e4f3cb8400787a990", null ],
-    [ "WaypointReached", "dd/dfd/a23953.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "events", "dd/dfd/a23953.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
+    [ "go_skull_pile", "dd/dfd/a23953.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "dd/dfd/a23953.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "dd/dfd/a23953.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "dd/dfd/a23953.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "dd/dfd/a23953.html#af74fcd75404c0886128401d661067394", null ]
 ];

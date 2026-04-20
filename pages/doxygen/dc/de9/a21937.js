@@ -1,6 +1,7 @@
 var a21937 =
 [
-    [ "CheckCast", "dc/de9/a21937.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "dc/de9/a21937.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "dc/de9/a21937.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "HandleOnEffectHit", "dc/de9/a21937.html#a909ec44339061a114697cacee5fba5b2", null ],
+    [ "PrepareSpellScript", "dc/de9/a21937.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
+    [ "Register", "dc/de9/a21937.html#aa241c97b4e895d07fe89d03edca29912", null ],
+    [ "Validate", "dc/de9/a21937.html#aa84f4c29ca00789bb47661267549cda6", null ]
 ];

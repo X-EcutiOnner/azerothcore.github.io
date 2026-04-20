@@ -1,8 +1,7 @@
 var a21229 =
 [
-    [ "npc_mootoo_the_youngerAI", "d3/df4/a21229.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d3/df4/a21229.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d3/df4/a21229.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d3/df4/a21229.html#ac758a992ed0d62a272930c84d617b348", null ],
-    [ "WaypointReached", "d3/df4/a21229.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_bonker_togglevoltAI", "d0/dcd/a21233.html", "d0/dcd/a21233" ],
+    [ "npc_bonker_togglevolt", "d3/df4/a21229.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "d3/df4/a21229.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "d3/df4/a21229.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

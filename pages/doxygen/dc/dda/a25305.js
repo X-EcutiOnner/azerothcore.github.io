@@ -1,6 +1,6 @@
 var a25305 =
 [
-    [ "HandleStackDrop", "dc/dda/a25305.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
-    [ "PrepareAuraScript", "dc/dda/a25305.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
-    [ "Register", "dc/dda/a25305.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
+    [ "CheckCast", "dc/dda/a25305.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
+    [ "PrepareSpellScript", "dc/dda/a25305.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
+    [ "Register", "dc/dda/a25305.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
 ];

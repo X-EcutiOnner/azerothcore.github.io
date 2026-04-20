@@ -1,6 +1,6 @@
 var a21789 =
 [
-    [ "PrepareSpellScript", "da/dc5/a21789.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "da/dc5/a21789.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "da/dc5/a21789.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "HandleHealPct", "da/dc5/a21789.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "da/dc5/a21789.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "da/dc5/a21789.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

@@ -1,13 +1,6 @@
 var a19553 =
 [
-    [ "boss_drakosAI", "df/d60/a19553.html#a75d771095897081457353be898b332c3", null ],
-    [ "JustDied", "df/d60/a19553.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
-    [ "JustEngagedWith", "df/d60/a19553.html#a4bc15075d9e9a913783da482a7a167c7", null ],
-    [ "JustSummoned", "df/d60/a19553.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
-    [ "KilledUnit", "df/d60/a19553.html#a4bd3e45b45660311d7510f58a1850648", null ],
-    [ "MoveInLineOfSight", "df/d60/a19553.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
-    [ "Reset", "df/d60/a19553.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
-    [ "UpdateAI", "df/d60/a19553.html#abf761c7cda4031c31354d8c8d42963e0", null ],
-    [ "events", "df/d60/a19553.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
-    [ "pInstance", "df/d60/a19553.html#adc9461ae5334634a9140f338547688b4", null ]
+    [ "boss_drakosAI", "d6/daf/a19557.html", "d6/daf/a19557" ],
+    [ "boss_drakos", "df/d60/a19553.html#aa70ae2809af4f24eea0b83b42d695448", null ],
+    [ "GetAI", "df/d60/a19553.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
 ];

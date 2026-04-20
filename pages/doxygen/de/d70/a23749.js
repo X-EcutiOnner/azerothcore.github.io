@@ -1,9 +1,7 @@
 var a23749 =
 [
-    [ "npc_bessyAI", "de/d70/a23749.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "de/d70/a23749.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "de/d70/a23749.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "de/d70/a23749.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "de/d70/a23749.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
-    [ "WaypointReached", "de/d70/a23749.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_maxx_a_million_escortAI", "d5/d9d/a23753.html", "d5/d9d/a23753" ],
+    [ "npc_maxx_a_million_escort", "de/d70/a23749.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "de/d70/a23749.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "de/d70/a23749.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

@@ -1,7 +1,7 @@
 var a02702 =
 [
-    [ "boss_grandmaster_vorpil", "df/ded/a22309.html", "df/ded/a22309" ],
-    [ "npc_voidtraveler", "dc/d93/a22313.html", "dc/d93/a22313" ],
+    [ "boss_grandmaster_vorpil", "de/d54/a22305.html", "de/d54/a22305" ],
+    [ "npc_voidtraveler", "df/ded/a22309.html", "df/ded/a22309" ],
     [ "Npc", "d7/d94/a02702.html#a8d8031a9ef6bd14633aa0a1bc87e2753", [
       [ "NPC_DWARFES_FRIENDLY", "d5/d45/a03887.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7", null ],
       [ "NPC_OOZE", "d5/d45/a03887.html#a8d8031a9ef6bd14633aa0a1bc87e2753a31de9593493f6c0df4bc225a579b416a", null ],

@@ -1,12 +1,6 @@
 var a18573 =
 [
-    [ "npc_strangulate_vehicleAI", "d8/d63/a18573.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
-    [ "DoAction", "d8/d63/a18573.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
-    [ "IsHeroic", "d8/d63/a18573.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
-    [ "IsSummonedBy", "d8/d63/a18573.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
-    [ "OnCharmed", "d8/d63/a18573.html#a40e5537897c452d35093920ddd3669b0", null ],
-    [ "PassengerBoarded", "d8/d63/a18573.html#a819746e13af95fa964c6da3d765a7c21", null ],
-    [ "UpdateAI", "d8/d63/a18573.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
-    [ "_events", "d8/d63/a18573.html#a19b493e994d246128f63d9109e87737a", null ],
-    [ "_instance", "d8/d63/a18573.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
+    [ "npc_strangulate_vehicleAI", "d2/d3c/a18577.html", "d2/d3c/a18577" ],
+    [ "npc_strangulate_vehicle", "d8/d63/a18573.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "d8/d63/a18573.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

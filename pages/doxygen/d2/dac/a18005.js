@@ -1,7 +1,6 @@
 var a18005 =
 [
-    [ "npc_coldflameAI", "d2/dac/a18005.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "d2/dac/a18005.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "d2/dac/a18005.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "d2/dac/a18005.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "npc_coldflameAI", "d8/d10/a18009.html", "d8/d10/a18009" ],
+    [ "npc_coldflame", "d2/dac/a18005.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d2/dac/a18005.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

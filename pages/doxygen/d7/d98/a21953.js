@@ -1,6 +1,8 @@
 var a21953 =
 [
-    [ "HandleScript", "d7/d98/a21953.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "d7/d98/a21953.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "d7/d98/a21953.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "spell_loosen_grip", "d7/d98/a21953.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "d7/d98/a21953.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "d7/d98/a21953.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "d7/d98/a21953.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "d7/d98/a21953.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

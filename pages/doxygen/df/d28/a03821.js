@@ -1,7 +1,7 @@
 var a03821 =
 [
-    [ "instance_ulduar", "de/d89/a20745.html", "de/d89/a20745" ],
-    [ "instance_ulduar::instance_ulduar_InstanceMapScript", "d9/d25/a20749.html", "d9/d25/a20749" ],
+    [ "instance_ulduar", "d9/d25/a20749.html", "d9/d25/a20749" ],
+    [ "instance_ulduar::instance_ulduar_InstanceMapScript", "d9/d5a/a20753.html", "d9/d5a/a20753" ],
     [ "AddSC_instance_ulduar", "df/d28/a03821.html#a93e6e71a7717be3946c53d3b6093e517", null ],
     [ "creatureData", "df/d28/a03821.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "doorData", "df/d28/a03821.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],

@@ -1,8 +1,9 @@
 var a20929 =
 [
-    [ "CountTargets", "de/d0b/a20929.html#aaf8528038c6b3172d4810ed773f71644", null ],
-    [ "HandleDummy", "de/d0b/a20929.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
-    [ "PrepareSpellScript", "de/d0b/a20929.html#a1f31273cb1826cd07196eacfbdc46673", null ],
-    [ "Register", "de/d0b/a20929.html#adce6a5d920ac616dc0579fcd96c49288", null ],
-    [ "_targetCount", "de/d0b/a20929.html#acfd8832cb9a197dddb034a003b318911", null ]
+    [ "CastTheNextTwoSpells", "de/d0b/a20929.html#a70a154ea5c19c36630e94c5214ee6722", null ],
+    [ "OnPeriodic", "de/d0b/a20929.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
+    [ "PrepareAuraScript", "de/d0b/a20929.html#ac7450be0713ce98e7986d322a58289f6", null ],
+    [ "PushBackTheNextTwoSpells", "de/d0b/a20929.html#a9e470116c80cf56b425e344d73e44533", null ],
+    [ "Register", "de/d0b/a20929.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
+    [ "_summonSpells", "de/d0b/a20929.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
 ];

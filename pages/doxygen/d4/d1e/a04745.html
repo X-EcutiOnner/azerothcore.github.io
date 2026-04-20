@@ -141,14 +141,14 @@ Functions</h2></td></tr>
 <tr class="memitem:abd5773b7124dcbc8deb88f522cdcc86f"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
 <tr class="memitem:abd5773b7124dcbc8deb88f522cdcc86f"><td class="memTemplItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d66/a05016.html#abd5773b7124dcbc8deb88f522cdcc86f">Acore::MakeFormatArgs</a> (Args &amp;&amp;... args)</td></tr>
 <tr class="separator:abd5773b7124dcbc8deb88f522cdcc86f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a868406b9609960d4ae0189588c8cbbf4"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
-<tr class="memitem:a868406b9609960d4ae0189588c8cbbf4"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d66/a05016.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a> (FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</td></tr>
-<tr class="memdesc:a868406b9609960d4ae0189588c8cbbf4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Default AC string format function.  <a href="../../d5/d66/a05016.html#a868406b9609960d4ae0189588c8cbbf4">More...</a><br /></td></tr>
-<tr class="separator:a868406b9609960d4ae0189588c8cbbf4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af3ff0360b52ce9775bd34de6e4255f50"><td class="memTemplParams" colspan="2">template&lt;typename OutputIt , typename... Args&gt; </td></tr>
-<tr class="memitem:af3ff0360b52ce9775bd34de6e4255f50"><td class="memTemplItemLeft" align="right" valign="top">OutputIt&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d66/a05016.html#af3ff0360b52ce9775bd34de6e4255f50">Acore::StringFormatTo</a> (OutputIt out, FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</td></tr>
-<tr class="memdesc:af3ff0360b52ce9775bd34de6e4255f50"><td class="mdescLeft">&#160;</td><td class="mdescRight">Format directly to an output iterator.  <a href="../../d5/d66/a05016.html#af3ff0360b52ce9775bd34de6e4255f50">More...</a><br /></td></tr>
-<tr class="separator:af3ff0360b52ce9775bd34de6e4255f50"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b97349dfcb88c6974882d7e34c55895"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
+<tr class="memitem:a1b97349dfcb88c6974882d7e34c55895"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a> (FormatStringView fmt, Args &amp;&amp;... args)</td></tr>
+<tr class="memdesc:a1b97349dfcb88c6974882d7e34c55895"><td class="mdescLeft">&#160;</td><td class="mdescRight">Default AC string format function.  <a href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">More...</a><br /></td></tr>
+<tr class="separator:a1b97349dfcb88c6974882d7e34c55895"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c53f407c3169d5a97d012ca3470880d"><td class="memTemplParams" colspan="2">template&lt;typename OutputIt , typename... Args&gt; </td></tr>
+<tr class="memitem:a7c53f407c3169d5a97d012ca3470880d"><td class="memTemplItemLeft" align="right" valign="top">OutputIt&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d66/a05016.html#a7c53f407c3169d5a97d012ca3470880d">Acore::StringFormatTo</a> (OutputIt out, FormatStringView fmt, Args &amp;&amp;... args)</td></tr>
+<tr class="memdesc:a7c53f407c3169d5a97d012ca3470880d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Format directly to an output iterator.  <a href="../../d5/d66/a05016.html#a7c53f407c3169d5a97d012ca3470880d">More...</a><br /></td></tr>
+<tr class="separator:a7c53f407c3169d5a97d012ca3470880d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acc68f8d815604ae13c370c09fbb60efd"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d66/a05016.html#acc68f8d815604ae13c370c09fbb60efd">Acore::StringVFormat</a> (FormatStringView fmt, FormatArgs args)</td></tr>
 <tr class="memdesc:acc68f8d815604ae13c370c09fbb60efd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Format with pre-built format args.  <a href="../../d5/d66/a05016.html#acc68f8d815604ae13c370c09fbb60efd">More...</a><br /></td></tr>
 <tr class="separator:acc68f8d815604ae13c370c09fbb60efd"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -202,7 +202,7 @@ template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d4/d1e/a04745.html">StringFormat.h</a></li>
-    <li class="footer">Generated on Mon Apr 13 2026 21:27:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 20 2026 21:14:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

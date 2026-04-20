@@ -1,10 +1,9 @@
 var a29021 =
 [
-    [ "ID", "dc/d14/a29021.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "dc/d14/a29021.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "dc/d14/a29021.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "dc/d14/a29021.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "dc/d14/a29021.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "dc/d14/a29021.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "dc/d14/a29021.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "TimeSeg", "dc/d14/a29021.html#a16782e722a5bada41691841fe594b7a6", null ],
+    [ "TransportEntry", "dc/d14/a29021.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
+    [ "W", "dc/d14/a29021.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
+    [ "X", "dc/d14/a29021.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
+    [ "Y", "dc/d14/a29021.html#a7f0ff898e752e2e904ebee1412643df6", null ],
+    [ "Z", "dc/d14/a29021.html#a87647d71a965e80154ca36dc05421585", null ]
 ];

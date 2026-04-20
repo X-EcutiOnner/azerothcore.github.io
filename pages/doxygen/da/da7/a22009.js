@@ -1,7 +1,6 @@
 var a22009 =
 [
-    [ "npc_wg_quest_giver", "da/da7/a22009.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "da/da7/a22009.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "da/da7/a22009.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "da/da7/a22009.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_wg_siege_machineAI", "da/d55/a22013.html", "da/d55/a22013" ],
+    [ "npc_wg_siege_machine", "da/da7/a22009.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
+    [ "GetAI", "da/da7/a22009.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
 ];

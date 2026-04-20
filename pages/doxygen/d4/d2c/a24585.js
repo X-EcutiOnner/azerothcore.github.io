@@ -1,10 +1,10 @@
 var a24585 =
 [
-    [ "CalcAmount", "d4/d2c/a24585.html#a182d563b0527e35ea641116a6a808aa8", null ],
-    [ "CalcPeriodic", "d4/d2c/a24585.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
-    [ "Load", "d4/d2c/a24585.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
-    [ "PrepareAuraScript", "d4/d2c/a24585.html#ac320eec2b8a3a7cc3820a49007710520", null ],
-    [ "Register", "d4/d2c/a24585.html#a37181afac00639716ae2ce10d82ecb23", null ],
-    [ "UpdatePeriodic", "d4/d2c/a24585.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
-    [ "Validate", "d4/d2c/a24585.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
+    [ "HandleEffectApply", "d4/d2c/a24585.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "d4/d2c/a24585.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "d4/d2c/a24585.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "d4/d2c/a24585.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "d4/d2c/a24585.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "d4/d2c/a24585.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "d4/d2c/a24585.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

@@ -1,6 +1,5 @@
 var a27557 =
 [
-    [ "HandleProc", "d6/d5b/a27557.html#a6b321d6ee3002f32b546aeaed0925183", null ],
-    [ "PrepareAuraScript", "d6/d5b/a27557.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
-    [ "Register", "d6/d5b/a27557.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
+    [ "achievement_resilient_victory", "d6/d5b/a27557.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "d6/d5b/a27557.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

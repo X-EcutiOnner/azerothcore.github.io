@@ -1,8 +1,8 @@
 var a26413 =
 [
-    [ "CheckProc", "d5/df2/a26413.html#adf8318a646fab2d5794e6207e14a05d5", null ],
-    [ "HandleProc", "d5/df2/a26413.html#a09d717ce8371e15c38093cb120f7b39a", null ],
-    [ "PrepareAuraScript", "d5/df2/a26413.html#a6df6c44fbb742caf264e81d2bf73f662", null ],
-    [ "Register", "d5/df2/a26413.html#ac7fc2bff25209f4ebbc9305734a7878b", null ],
-    [ "Validate", "d5/df2/a26413.html#ab0b647863fec0fd7880cdcc506caa148", null ]
+    [ "HandleProc", "d5/df2/a26413.html#a95553bc0c973be3a2e3911602e4067c8", null ],
+    [ "PrepareAuraScript", "d5/df2/a26413.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
+    [ "Register", "d5/df2/a26413.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
+    [ "Validate", "d5/df2/a26413.html#aad1324e94920136258c419094cfca4c3", null ],
+    [ "_cooldownEnd", "d5/df2/a26413.html#a4f19a965ed8ddab712633abdb761d210", null ]
 ];

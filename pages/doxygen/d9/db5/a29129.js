@@ -1,9 +1,27 @@
 var a29129 =
 [
-    [ "flags", "d9/db5/a29129.html#a064de2e88c563121bbb78549a7bab868", null ],
-    [ "_flags", "d9/db5/a29129.html#a16f1b30a57eb6703e8073ef55d988391", null ],
-    [ "bits", "d9/db5/a29129.html#a529f1856635132646457c57f3546f4ec", null ],
-    [ "configKey", "d9/db5/a29129.html#af14d118016b9e01612769c00f13aa2d6", null ],
-    [ "oldKey", "d9/db5/a29129.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
-    [ "owner", "d9/db5/a29129.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
+    [ "ProcTestContext", "d9/db5/a29129.html#a3be4a95c438667ccdd0cbed0d606a46b", null ],
+    [ "GetActor", "d9/db5/a29129.html#aa253eaa33458abfa16562c288a23b34f", null ],
+    [ "GetActor", "d9/db5/a29129.html#ae25b85f794cc9174bc67a0a2d28fab8c", null ],
+    [ "GetAura", "d9/db5/a29129.html#a2892ee3c159c616c6b1cd9bb7d4edc21", null ],
+    [ "GetAura", "d9/db5/a29129.html#ae05f6f826284e174d8bcba0902758bd0", null ],
+    [ "GetDamageInfo", "d9/db5/a29129.html#a0ffdd8fa38d8d98fa7beee6d08a44bdb", null ],
+    [ "GetDamageInfo", "d9/db5/a29129.html#ab9821a9a36ab9c54c44726b00bde5c1c", null ],
+    [ "GetHealInfo", "d9/db5/a29129.html#acf3d0ab18a726decfb635fd0aa83d5db", null ],
+    [ "GetHealInfo", "d9/db5/a29129.html#a538e45b713a53a45d453e0ea79993e8b", null ],
+    [ "GetTarget", "d9/db5/a29129.html#a0abd60970b6588ffdc80fa4030554979", null ],
+    [ "GetTarget", "d9/db5/a29129.html#ae1ee18f20e12406a8979a611285ab7ef", null ],
+    [ "WithActorAsPlayer", "d9/db5/a29129.html#ae2a9f04d30cbb14fc1d528a58521a602", null ],
+    [ "WithAuraCharges", "d9/db5/a29129.html#a544da38ede50c01868a3e918efcad8a1", null ],
+    [ "WithAuraId", "d9/db5/a29129.html#a538af7b841e7e64d16e53e57e303b3e0", null ],
+    [ "WithAuraSpellFamily", "d9/db5/a29129.html#a43c994ff3ac8fc4d1b535beffea985bc", null ],
+    [ "WithCriticalHit", "d9/db5/a29129.html#aaf70bafc7d7fa0fc030ac2a3988c2bfe", null ],
+    [ "WithDamage", "d9/db5/a29129.html#a46b0dc60ef6bc0d433a4089c4e755d8e", null ],
+    [ "WithHeal", "d9/db5/a29129.html#a4f396c33b767cce2c538c94578dcdcbd", null ],
+    [ "WithNormalHit", "d9/db5/a29129.html#af0cf99f26f6f220bb2da889bcd139a5e", null ],
+    [ "_actor", "d9/db5/a29129.html#ac62553cbe1667cbfd695ca3bd9834184", null ],
+    [ "_aura", "d9/db5/a29129.html#aaaa64249b6f8bd281834e2b7c309ed38", null ],
+    [ "_damageInfo", "d9/db5/a29129.html#aa76666ba435170552f3b9a355bf2d0b8", null ],
+    [ "_healInfo", "d9/db5/a29129.html#aab8d47fcad592c5269991e85b3ad2cf0", null ],
+    [ "_target", "d9/db5/a29129.html#a7dcbdab19d62f509912d7067075bd82d", null ]
 ];

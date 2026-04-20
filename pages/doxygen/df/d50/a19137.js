@@ -1,7 +1,6 @@
 var a19137 =
 [
-    [ "npc_ioc_gunship_captainAI", "df/d50/a19137.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "df/d50/a19137.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "df/d50/a19137.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "df/d50/a19137.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "npc_ioc_gunship_captainAI", "d9/d6d/a19141.html", "d9/d6d/a19141" ],
+    [ "npc_ioc_gunship_captain", "df/d50/a19137.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
+    [ "GetAI", "df/d50/a19137.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
 ];

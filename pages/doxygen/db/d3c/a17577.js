@@ -1,25 +1,6 @@
 var a17577 =
 [
-    [ "boss_blood_queen_lana_thelAI", "db/d3c/a17577.html#ab28467f9b11a87162dae0306a1f2fb20", null ],
-    [ "CanAIAttack", "db/d3c/a17577.html#a4b6ce34090fcf21eb68560c078278303", null ],
-    [ "CleanAuras", "db/d3c/a17577.html#a78b0d391090e9d2424da315bf1f696e9", null ],
-    [ "DoAction", "db/d3c/a17577.html#a2e7d45ce9d7a0e05b60c9e94f736d1b3", null ],
-    [ "EnterEvadeMode", "db/d3c/a17577.html#afb02799e3fad05e2e0d48ea5b3be7526", null ],
-    [ "GoToMinchar", "db/d3c/a17577.html#acb939a02a912d1db13947a939f4c554c", null ],
-    [ "JustDied", "db/d3c/a17577.html#a475fcf43849c5cd2144020f57c2a461f", null ],
-    [ "JustEngagedWith", "db/d3c/a17577.html#a01866a1f5a20bd9b4ccf754051dedd10", null ],
-    [ "KilledUnit", "db/d3c/a17577.html#aebb53f7599dd3a55953946b7cc9e76d6", null ],
-    [ "MovementInform", "db/d3c/a17577.html#a4b74cb2b2f36ae115327e8a0532fdc23", null ],
-    [ "Reset", "db/d3c/a17577.html#abc58e7c6c384ea4c342d6b153557c4b1", null ],
-    [ "SetGUID", "db/d3c/a17577.html#a7a6f58a3af0e9b2bf4665f6ab161cf88", null ],
-    [ "UpdateAI", "db/d3c/a17577.html#a13fe9d7463efbecf63d78fce59fc4fab", null ],
-    [ "WasBloodbolted", "db/d3c/a17577.html#a76f5eca557f9d25c8025a909b1de8faf", null ],
-    [ "WasVampire", "db/d3c/a17577.html#a7a74b7241f0ff736bdff7088ee384695", null ],
-    [ "_bloodboltedPlayers", "db/d3c/a17577.html#a1c5ef6d44112d67a29dde74371ab644a", null ],
-    [ "_creditBloodQuickening", "db/d3c/a17577.html#a3534b15706cd35ad8de485fc430207b1", null ],
-    [ "_killMinchar", "db/d3c/a17577.html#ac617b5511beacd7b98d0e9ae8773e7dc", null ],
-    [ "_offtankGUID", "db/d3c/a17577.html#a8a4d21d7ab9ad827c88a7869000c3628", null ],
-    [ "_tankGUID", "db/d3c/a17577.html#a231f68b31fdd105559c186d4edbfc47b", null ],
-    [ "_vampires", "db/d3c/a17577.html#af808b2b543ea9b27b4b03d0e561fb90e", null ],
-    [ "bEnteredCombat", "db/d3c/a17577.html#aca37d322e154ae01ceb4e96b3b42d5d0", null ]
+    [ "boss_blood_queen_lana_thelAI", "d2/d1f/a17581.html", "d2/d1f/a17581" ],
+    [ "boss_blood_queen_lana_thel", "db/d3c/a17577.html#a9f8fa906f01082caacd106abc2707b07", null ],
+    [ "GetAI", "db/d3c/a17577.html#a7873efd945bdb24228866f639e32879b", null ]
 ];

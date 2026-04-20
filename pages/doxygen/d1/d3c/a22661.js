@@ -1,6 +1,6 @@
 var a22661 =
 [
-    [ "PrepareSpellScript", "d1/d3c/a22661.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "d1/d3c/a22661.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "d1/d3c/a22661.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "instance_black_temple_InstanceMapScript", "d2/d2b/a22665.html", "d2/d2b/a22665" ],
+    [ "instance_black_temple", "d1/d3c/a22661.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d1/d3c/a22661.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

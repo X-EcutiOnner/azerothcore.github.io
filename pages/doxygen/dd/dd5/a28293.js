@@ -1,8 +1,7 @@
 var a28293 =
 [
-    [ "npc_minion_spawner", "dd/dd5/a28293.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "dd/dd5/a28293.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "dd/dd5/a28293.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "dd/dd5/a28293.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "dd/dd5/a28293.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "HandleDummy", "dd/dd5/a28293.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "dd/dd5/a28293.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "dd/dd5/a28293.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "dd/dd5/a28293.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

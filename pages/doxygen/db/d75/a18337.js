@@ -1,17 +1,6 @@
 var a18337 =
 [
-    [ "npc_rimefangAI", "db/d75/a18337.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
-    [ "DoAction", "db/d75/a18337.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
-    [ "InitializeAI", "db/d75/a18337.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
-    [ "JustDied", "db/d75/a18337.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
-    [ "JustEngagedWith", "db/d75/a18337.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
-    [ "JustReachedHome", "db/d75/a18337.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
-    [ "JustRespawned", "db/d75/a18337.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
-    [ "MovementInform", "db/d75/a18337.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
-    [ "Reset", "db/d75/a18337.html#a8956324e2806393d26bf146f4e2c48b0", null ],
-    [ "UpdateAI", "db/d75/a18337.html#a00872042199924a14089c1057c479ff7", null ],
-    [ "_events", "db/d75/a18337.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
-    [ "_icyBlastCounter", "db/d75/a18337.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
-    [ "_instance", "db/d75/a18337.html#ad12541907c439117cf8c8a6741c07445", null ],
-    [ "_summoned", "db/d75/a18337.html#aa27dd1e338145a65915262a8d44f7519", null ]
+    [ "npc_rimefangAI", "d4/d06/a18341.html", "d4/d06/a18341" ],
+    [ "npc_rimefang", "db/d75/a18337.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "db/d75/a18337.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

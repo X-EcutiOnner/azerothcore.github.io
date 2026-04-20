@@ -1,7 +1,7 @@
 var a17921 =
 [
-    [ "PrepareSpellScript", "da/da4/a17921.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "da/da4/a17921.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "da/da4/a17921.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "da/da4/a17921.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "DamageGunship", "da/da4/a17921.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "da/da4/a17921.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "da/da4/a17921.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "da/da4/a17921.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

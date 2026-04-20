@@ -1,8 +1,6 @@
 var a20353 =
 [
-    [ "npc_ulduar_mimiron_rocket", "d9/d82/a20353.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
-    [ "InitializeAI", "d9/d82/a20353.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
-    [ "Reset", "d9/d82/a20353.html#a982da2f2392882a86e72de4c4769fa41", null ],
-    [ "SetData", "d9/d82/a20353.html#a507124f21657b62ff2b68060b52503b1", null ],
-    [ "UpdateAI", "d9/d82/a20353.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
+    [ "HandleDamage", "d9/d82/a20353.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "d9/d82/a20353.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "d9/d82/a20353.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

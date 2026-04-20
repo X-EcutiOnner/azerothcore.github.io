@@ -344,9 +344,9 @@ template&lt;typename... Ts&gt; </div>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  126</span>    {</div>
-<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d5/d66/a05016.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<a class="code hl_function" href="../../d3/d45/a05057.html#a1106e69269315156c6019b7812547ce9">GetAcoreString</a>(handler, which), std::forward&lt;Ts&gt;(args)...);</div>
+<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(<a class="code hl_function" href="../../d3/d45/a05057.html#a1106e69269315156c6019b7812547ce9">GetAcoreString</a>(handler, which), std::forward&lt;Ts&gt;(args)...);</div>
 <div class="line"><span class="lineno">  128</span>    }</div>
-<div class="ttc" id="aa05016_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d5/d66/a05016.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:44</div></div>
+<div class="ttc" id="aa05016_html_a1b97349dfcb88c6974882d7e34c55895"><div class="ttname"><a href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatStringView fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:44</div></div>
 <div class="ttc" id="aa05057_html_a1106e69269315156c6019b7812547ce9"><div class="ttname"><a href="../../d3/d45/a05057.html#a1106e69269315156c6019b7812547ce9">Acore::Impl::ChatCommands::GetAcoreString</a></div><div class="ttdeci">AC_GAME_API std::string GetAcoreString(ChatHandler const *handler, AcoreStrings which)</div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.cpp:27</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00027">GetAcoreString()</a>, and <a class="el" href="../../#l00044">Acore::StringFormat()</a>.</p>
@@ -386,7 +386,7 @@ template&lt;typename... Ts&gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00041">ChatHandler::GetAcoreString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00125">FormatAcoreString()</a>, <a class="el" href="../../#l00260">Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::TryAtIndex()</a>, <a class="el" href="../../#l00284">Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::TryConsume()</a>, <a class="el" href="../../#l00130">Acore::ChatCommands::WTail::TryConsume()</a>, <a class="el" href="../../#l00061">Acore::ChatCommands::AccountIdentifier::TryConsume()</a>, <a class="el" href="../../#l00208">Acore::ChatCommands::Hyperlink&lt; linktag &gt;::TryConsume()</a>, <a class="el" href="../../#l00108">Acore::Impl::ChatCommands::ArgInfo&lt; std::wstring, void &gt;::TryConsume()</a>, and <a class="el" href="../../#l00074">Acore::Impl::ChatCommands::MultiConsumer&lt; Tuple, Optional&lt; NestedNextType &gt;, offset &gt;::TryConsumeTo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00125">FormatAcoreString()</a>, <a class="el" href="../../#l00260">Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::TryAtIndex()</a>, <a class="el" href="../../#l00284">Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::TryConsume()</a>, <a class="el" href="../../#l00130">Acore::ChatCommands::WTail::TryConsume()</a>, <a class="el" href="../../#l00061">Acore::ChatCommands::AccountIdentifier::TryConsume()</a>, <a class="el" href="../../#l00213">Acore::ChatCommands::Hyperlink&lt; linktag &gt;::TryConsume()</a>, <a class="el" href="../../#l00108">Acore::Impl::ChatCommands::ArgInfo&lt; std::wstring, void &gt;::TryConsume()</a>, and <a class="el" href="../../#l00074">Acore::Impl::ChatCommands::MultiConsumer&lt; Tuple, Optional&lt; NestedNextType &gt;, offset &gt;::TryConsumeTo()</a>.</p>
 
 </div>
 </div>
@@ -512,7 +512,7 @@ template&lt;std::size_t N&gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00037">COMMAND_DELIMITER</a>, <a class="el" href="../../#l00051">Acore::Impl::ChatCommands::TokenizeResult::tail</a>, and <a class="el" href="../../#l00050">Acore::Impl::ChatCommands::TokenizeResult::token</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00412">Acore::Impl::ChatCommands::ChatCommandNode::GetAutoCompletionsFor()</a>, <a class="el" href="../../#l00028">Acore::ChatCommands::QuotedString::TryConsume()</a>, <a class="el" href="../../#l00208">Acore::ChatCommands::Hyperlink&lt; linktag &gt;::TryConsume()</a>, <a class="el" href="../../#l00088">Acore::ChatCommands::ExactSequence&lt; chars &gt;::TryConsume()</a>, <a class="el" href="../../#l00080">Acore::Impl::ChatCommands::ArgInfo&lt; std::string_view, void &gt;::TryConsume()</a>, <a class="el" href="../../#l00055">Acore::Impl::ChatCommands::ArgInfo&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt;||std::is_floating_point_v&lt; T &gt; &gt; &gt;::TryConsume()</a>, and <a class="el" href="../../#l00274">Acore::Impl::ChatCommands::ChatCommandNode::TryExecuteCommand()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00412">Acore::Impl::ChatCommands::ChatCommandNode::GetAutoCompletionsFor()</a>, <a class="el" href="../../#l00028">Acore::ChatCommands::QuotedString::TryConsume()</a>, <a class="el" href="../../#l00213">Acore::ChatCommands::Hyperlink&lt; linktag &gt;::TryConsume()</a>, <a class="el" href="../../#l00088">Acore::ChatCommands::ExactSequence&lt; chars &gt;::TryConsume()</a>, <a class="el" href="../../#l00080">Acore::Impl::ChatCommands::ArgInfo&lt; std::string_view, void &gt;::TryConsume()</a>, <a class="el" href="../../#l00055">Acore::Impl::ChatCommands::ArgInfo&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt;||std::is_floating_point_v&lt; T &gt; &gt; &gt;::TryConsume()</a>, and <a class="el" href="../../#l00274">Acore::Impl::ChatCommands::ChatCommandNode::TryExecuteCommand()</a>.</p>
 
 </div>
 </div>
@@ -547,7 +547,7 @@ template&lt;std::size_t N&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d66/a05016.html">Acore</a></li><li class="navelem"><a class="el" href="../../dc/d61/a05028.html">Impl</a></li><li class="navelem"><a class="el" href="../../d3/d45/a05057.html">ChatCommands</a></li>
-    <li class="footer">Generated on Mon Apr 13 2026 21:29:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 20 2026 21:16:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

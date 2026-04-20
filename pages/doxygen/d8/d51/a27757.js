@@ -1,7 +1,5 @@
 var a27757 =
 [
-    [ "HandlePeriodic", "d8/d51/a27757.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d8/d51/a27757.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d8/d51/a27757.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d8/d51/a27757.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "go_arena_ready_marker", "d8/d51/a27757.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "d8/d51/a27757.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

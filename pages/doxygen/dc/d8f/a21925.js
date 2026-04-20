@@ -1,6 +1,6 @@
 var a21925 =
 [
-    [ "HandleScriptEffect", "dc/d8f/a21925.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "dc/d8f/a21925.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "dc/d8f/a21925.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d0/d29/a21929.html", "d0/d29/a21929" ],
+    [ "npc_vehicle_d16_propelled_delivery", "dc/d8f/a21925.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "dc/d8f/a21925.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

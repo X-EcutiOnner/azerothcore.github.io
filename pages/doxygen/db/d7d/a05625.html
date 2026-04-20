@@ -132,12 +132,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a28f2b0881d40f20481dc38cda915f84b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a24f8f8d91419c6b4f7830799bf4d3eb6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d7d/a05625.html#a24f8f8d91419c6b4f7830799bf4d3eb6">SetLogLevel</a> (std::string const &amp;name, <a class="el" href="../../dd/d7a/a04568.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> level, bool isLogger=true)</td></tr>
 <tr class="separator:a24f8f8d91419c6b4f7830799bf4d3eb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a29188dc2bc4e093aecf9b0d823cda9d0"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
-<tr class="memitem:a29188dc2bc4e093aecf9b0d823cda9d0"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d7d/a05625.html#a29188dc2bc4e093aecf9b0d823cda9d0">outMessage</a> (std::string const &amp;filter, <a class="el" href="../../db/d3f/a04565.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> const level, <a class="el" href="../../d5/d66/a05016.html#a32c972cafca136b88de5b298d6cba338">Acore::FormatString</a>&lt; Args... &gt; fmt, Args &amp;&amp;... args)</td></tr>
-<tr class="separator:a29188dc2bc4e093aecf9b0d823cda9d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a48d8d5f43bd0df640aad46d3cb3c3166"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
-<tr class="memitem:a48d8d5f43bd0df640aad46d3cb3c3166"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d7d/a05625.html#a48d8d5f43bd0df640aad46d3cb3c3166">outCommand</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> account, <a class="el" href="../../d5/d66/a05016.html#a32c972cafca136b88de5b298d6cba338">Acore::FormatString</a>&lt; Args... &gt; fmt, Args &amp;&amp;... args)</td></tr>
-<tr class="separator:a48d8d5f43bd0df640aad46d3cb3c3166"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a691a27af8f547a3445a8380d2f881a12"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
+<tr class="memitem:a691a27af8f547a3445a8380d2f881a12"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d7d/a05625.html#a691a27af8f547a3445a8380d2f881a12">outMessage</a> (std::string const &amp;filter, <a class="el" href="../../db/d3f/a04565.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> const level, <a class="el" href="../../d5/d66/a05016.html#a9a310e3057a14b5ee0f7520e08cb0410">Acore::FormatStringView</a> fmt, Args &amp;&amp;... args)</td></tr>
+<tr class="separator:a691a27af8f547a3445a8380d2f881a12"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5bc50bb65d68f151795b990c7f64dae6"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
+<tr class="memitem:a5bc50bb65d68f151795b990c7f64dae6"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d7d/a05625.html#a5bc50bb65d68f151795b990c7f64dae6">outCommand</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> account, <a class="el" href="../../d5/d66/a05016.html#a9a310e3057a14b5ee0f7520e08cb0410">Acore::FormatStringView</a> fmt, Args &amp;&amp;... args)</td></tr>
+<tr class="separator:a5bc50bb65d68f151795b990c7f64dae6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4ce4d433cb066453144c6dbca0abd3d3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d7d/a05625.html#a4ce4d433cb066453144c6dbca0abd3d3">SetRealmId</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id)</td></tr>
 <tr class="separator:a4ce4d433cb066453144c6dbca0abd3d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abd592c7fc6941bd1e431c98d8788ae55"><td class="memTemplParams" colspan="2">template&lt;class AppenderImpl &gt; </td></tr>
@@ -521,7 +521,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   69</span>    <span class="comment">// Format = type, level, flags, optional1, optional2</span></div>
 <div class="line"><span class="lineno">   70</span>    <span class="comment">// if type = File. optional1 = file and option2 = mode</span></div>
 <div class="line"><span class="lineno">   71</span>    <span class="comment">// if type = Console. optional1 = Color</span></div>
-<div class="line"><span class="lineno">   72</span>    std::string options = <a class="code hl_define" href="../../da/d58/a30619.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(appenderName, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">   72</span>    std::string options = <a class="code hl_define" href="../../dc/d61/a30595.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(appenderName, <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">   73</span> </div>
 <div class="line"><span class="lineno">   74</span>    std::vector&lt;std::string_view&gt; tokens = <a class="code hl_function" href="../../d5/d66/a05016.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(options, <span class="charliteral">&#39;,&#39;</span>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">   75</span> </div>
@@ -588,7 +588,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa05613_html"><div class="ttname"><a href="../../dc/daa/a05613.html">InvalidAppenderArgsException</a></div><div class="ttdef"><b>Definition:</b> Appender.h:55</div></div>
 <div class="ttc" id="aa05625_html_a20f1c9877dbe19a75a46d756757d3fc2"><div class="ttname"><a href="../../db/d7d/a05625.html#a20f1c9877dbe19a75a46d756757d3fc2">Log::NextAppenderId</a></div><div class="ttdeci">uint8 NextAppenderId()</div><div class="ttdef"><b>Definition:</b> Log.cpp:46</div></div>
 <div class="ttc" id="aa05625_html_aea6024bb1b054aef15a7851238721d24"><div class="ttname"><a href="../../db/d7d/a05625.html#aea6024bb1b054aef15a7851238721d24">Log::appenderFactory</a></div><div class="ttdeci">std::unordered_map&lt; uint8, AppenderCreatorFn &gt; appenderFactory</div><div class="ttdef"><b>Definition:</b> Log.h:114</div></div>
-<div class="ttc" id="aa30619_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../da/d58/a30619.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
+<div class="ttc" id="aa30595_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dc/d61/a30595.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00052">APPENDER_FLAGS_NONE</a>, <a class="el" href="../../#l00046">APPENDER_INVALID</a>, <a class="el" href="../../#l00114">appenderFactory</a>, <a class="el" href="../../#l00115">appenders</a>, <a class="el" href="../../#l00028">Appender::getId()</a>, <a class="el" href="../../#l00035">LOG_LEVEL_INVALID</a>, <a class="el" href="../../#l00046">NextAppenderId()</a>, <a class="el" href="../../#l00034">NUM_ENABLED_LOG_LEVELS</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
 
@@ -627,7 +627,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  132</span> </div>
 <div class="line"><span class="lineno">  133</span>    <a class="code hl_enumeration" href="../../db/d3f/a04565.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> level = <a class="code hl_enumvalue" href="../../db/d3f/a04565.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61">LOG_LEVEL_DISABLED</a>;</div>
 <div class="line"><span class="lineno">  134</span> </div>
-<div class="line"><span class="lineno">  135</span>    std::string options = <a class="code hl_define" href="../../da/d58/a30619.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(appenderName, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">  135</span>    std::string options = <a class="code hl_define" href="../../dc/d61/a30595.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(appenderName, <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">  136</span>    std::string name = appenderName.substr(7);</div>
 <div class="line"><span class="lineno">  137</span> </div>
 <div class="line"><span class="lineno">  138</span>    <span class="keywordflow">if</span> (options.empty())</div>
@@ -955,7 +955,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  390</span> </div>
 <div class="line"><span class="lineno">  391</span>    <a class="code hl_variable" href="../../db/d7d/a05625.html#ad4124d370aa4aa47c2172c5dd9cede17">highestLogLevel</a> = <a class="code hl_enumvalue" href="../../db/d3f/a04565.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5">LOG_LEVEL_FATAL</a>;</div>
 <div class="line"><span class="lineno">  392</span>    <a class="code hl_variable" href="../../db/d7d/a05625.html#a90022da6d95dcba62a2b1a57c351939b">AppenderId</a> = 0;</div>
-<div class="line"><span class="lineno">  393</span>    <a class="code hl_variable" href="../../db/d7d/a05625.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a> = <a class="code hl_define" href="../../da/d58/a30619.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;LogsDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  393</span>    <a class="code hl_variable" href="../../db/d7d/a05625.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a> = <a class="code hl_define" href="../../dc/d61/a30595.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;LogsDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  394</span> </div>
 <div class="line"><span class="lineno">  395</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/d7d/a05625.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.empty())</div>
 <div class="line"><span class="lineno">  396</span>        <span class="keywordflow">if</span> ((<a class="code hl_variable" href="../../db/d7d/a05625.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.at(<a class="code hl_variable" href="../../db/d7d/a05625.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.length() - 1) != <span class="charliteral">&#39;/&#39;</span>) &amp;&amp; (<a class="code hl_variable" href="../../db/d7d/a05625.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.at(<a class="code hl_variable" href="../../db/d7d/a05625.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.length() - 1) != <span class="charliteral">&#39;\\&#39;</span>))</div>
@@ -1059,8 +1059,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a48d8d5f43bd0df640aad46d3cb3c3166" name="a48d8d5f43bd0df640aad46d3cb3c3166"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a48d8d5f43bd0df640aad46d3cb3c3166">&#9670;&#160;</a></span>outCommand()</h2>
+<a id="a5bc50bb65d68f151795b990c7f64dae6" name="a5bc50bb65d68f151795b990c7f64dae6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5bc50bb65d68f151795b990c7f64dae6">&#9670;&#160;</a></span>outCommand()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1079,7 +1079,7 @@ template&lt;typename... Args&gt; </div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d66/a05016.html#a32c972cafca136b88de5b298d6cba338">Acore::FormatString</a>&lt; Args... &gt;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d5/d66/a05016.html#a9a310e3057a14b5ee0f7520e08cb0410">Acore::FormatStringView</a>&#160;</td>
           <td class="paramname"><em>fmt</em>, </td>
         </tr>
         <tr>
@@ -1106,9 +1106,9 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">   82</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   83</span>        }</div>
 <div class="line"><span class="lineno">   84</span> </div>
-<div class="line"><span class="lineno">   85</span>        <a class="code hl_function" href="../../db/d7d/a05625.html#ae38308d7812306ea967c88e482177c71">_outCommand</a>(<a class="code hl_function" href="../../d5/d66/a05016.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(fmt, std::forward&lt;Args&gt;(args)...), std::to_string(account));</div>
+<div class="line"><span class="lineno">   85</span>        <a class="code hl_function" href="../../db/d7d/a05625.html#ae38308d7812306ea967c88e482177c71">_outCommand</a>(<a class="code hl_function" href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(fmt, std::forward&lt;Args&gt;(args)...), std::to_string(account));</div>
 <div class="line"><span class="lineno">   86</span>    }</div>
-<div class="ttc" id="aa05016_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d5/d66/a05016.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:44</div></div>
+<div class="ttc" id="aa05016_html_a1b97349dfcb88c6974882d7e34c55895"><div class="ttname"><a href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatStringView fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:44</div></div>
 <div class="ttc" id="aa05625_html_a28f2b0881d40f20481dc38cda915f84b"><div class="ttname"><a href="../../db/d7d/a05625.html#a28f2b0881d40f20481dc38cda915f84b">Log::ShouldLog</a></div><div class="ttdeci">bool ShouldLog(std::string const &amp;type, LogLevel level) const</div><div class="ttdef"><b>Definition:</b> Log.cpp:342</div></div>
 <div class="ttc" id="aa05625_html_ae38308d7812306ea967c88e482177c71"><div class="ttname"><a href="../../db/d7d/a05625.html#ae38308d7812306ea967c88e482177c71">Log::_outCommand</a></div><div class="ttdeci">void _outCommand(std::string_view message, std::string_view param1)</div><div class="ttdef"><b>Definition:</b> Log.cpp:239</div></div>
 </div><!-- fragment -->
@@ -1116,8 +1116,8 @@ template&lt;typename... Args&gt; </div>
 
 </div>
 </div>
-<a id="a29188dc2bc4e093aecf9b0d823cda9d0" name="a29188dc2bc4e093aecf9b0d823cda9d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a29188dc2bc4e093aecf9b0d823cda9d0">&#9670;&#160;</a></span>outMessage()</h2>
+<a id="a691a27af8f547a3445a8380d2f881a12" name="a691a27af8f547a3445a8380d2f881a12"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a691a27af8f547a3445a8380d2f881a12">&#9670;&#160;</a></span>outMessage()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1142,7 +1142,7 @@ template&lt;typename... Args&gt; </div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d66/a05016.html#a32c972cafca136b88de5b298d6cba338">Acore::FormatString</a>&lt; Args... &gt;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d5/d66/a05016.html#a9a310e3057a14b5ee0f7520e08cb0410">Acore::FormatStringView</a>&#160;</td>
           <td class="paramname"><em>fmt</em>, </td>
         </tr>
         <tr>
@@ -1164,7 +1164,7 @@ template&lt;typename... Args&gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   73</span>    {</div>
-<div class="line"><span class="lineno">   74</span>        <a class="code hl_function" href="../../db/d7d/a05625.html#a6bf321b54b12221ff11837745a083d82">_outMessage</a>(filter, level, <a class="code hl_function" href="../../d5/d66/a05016.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(fmt, std::forward&lt;Args&gt;(args)...));</div>
+<div class="line"><span class="lineno">   74</span>        <a class="code hl_function" href="../../db/d7d/a05625.html#a6bf321b54b12221ff11837745a083d82">_outMessage</a>(filter, level, <a class="code hl_function" href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(fmt, std::forward&lt;Args&gt;(args)...));</div>
 <div class="line"><span class="lineno">   75</span>    }</div>
 <div class="ttc" id="aa05625_html_a6bf321b54b12221ff11837745a083d82"><div class="ttname"><a href="../../db/d7d/a05625.html#a6bf321b54b12221ff11837745a083d82">Log::_outMessage</a></div><div class="ttdeci">void _outMessage(std::string const &amp;filter, LogLevel level, std::string_view message)</div><div class="ttdef"><b>Definition:</b> Log.cpp:234</div></div>
 </div><!-- fragment -->
@@ -1195,7 +1195,7 @@ template&lt;typename... Args&gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  187</span>{</div>
-<div class="line"><span class="lineno">  188</span>    std::vector&lt;std::string&gt; keys = <a class="code hl_define" href="../../da/d58/a30619.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetKeysByString(<span class="stringliteral">&quot;Appender.&quot;</span>);</div>
+<div class="line"><span class="lineno">  188</span>    std::vector&lt;std::string&gt; keys = <a class="code hl_define" href="../../dc/d61/a30595.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetKeysByString(<span class="stringliteral">&quot;Appender.&quot;</span>);</div>
 <div class="line"><span class="lineno">  189</span>    <span class="keywordflow">for</span> (std::string <span class="keyword">const</span>&amp; appenderName : keys)</div>
 <div class="line"><span class="lineno">  190</span>    {</div>
 <div class="line"><span class="lineno">  191</span>        <a class="code hl_function" href="../../db/d7d/a05625.html#a2aa9a587a843e3a83659e8c795e7d59e">CreateAppenderFromConfig</a>(appenderName);</div>
@@ -1232,7 +1232,7 @@ template&lt;typename... Args&gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
-<div class="line"><span class="lineno">  197</span>    std::vector&lt;std::string&gt; keys = <a class="code hl_define" href="../../da/d58/a30619.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetKeysByString(<span class="stringliteral">&quot;Logger.&quot;</span>);</div>
+<div class="line"><span class="lineno">  197</span>    std::vector&lt;std::string&gt; keys = <a class="code hl_define" href="../../dc/d61/a30595.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetKeysByString(<span class="stringliteral">&quot;Logger.&quot;</span>);</div>
 <div class="line"><span class="lineno">  198</span>    <span class="keywordflow">for</span> (std::string <span class="keyword">const</span>&amp; loggerName : keys)</div>
 <div class="line"><span class="lineno">  199</span>    {</div>
 <div class="line"><span class="lineno">  200</span>        <a class="code hl_function" href="../../db/d7d/a05625.html#ad86e5e34ed5c40bf22467bd33c90c69a">CreateLoggerFromConfig</a>(loggerName);</div>
@@ -1800,7 +1800,7 @@ template&lt;class AppenderImpl &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d7d/a05625.html">Log</a></li>
-    <li class="footer">Generated on Mon Apr 13 2026 21:28:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 20 2026 21:15:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

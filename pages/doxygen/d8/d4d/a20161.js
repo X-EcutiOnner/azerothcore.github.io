@@ -1,6 +1,8 @@
 var a20161 =
 [
-    [ "npc_ulduar_toasty_fire", "d8/d4d/a20161.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "d8/d4d/a20161.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "d8/d4d/a20161.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "npc_ulduar_flash_freeze", "d8/d4d/a20161.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
+    [ "DamageTaken", "d8/d4d/a20161.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "d8/d4d/a20161.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "_instance", "d8/d4d/a20161.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
+    [ "timer", "d8/d4d/a20161.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

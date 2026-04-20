@@ -1,5 +1,5 @@
 var a28965 =
 [
-    [ "ID", "dd/dde/a28965.html#a0272b3c1130508a2681035c91ee416e6", null ],
-    [ "SpellID", "dd/dde/a28965.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
+    [ "Duration", "dd/dde/a28965.html#a20417b0f394c08c779fd3851c2cde87d", null ],
+    [ "ID", "dd/dde/a28965.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
 ];

@@ -1,7 +1,7 @@
 var a03878 =
 [
-    [ "boss_loken", "db/d4c/a19689.html", "db/d4c/a19689" ],
-    [ "spell_loken_pulsing_shockwave", "d5/d09/a19693.html", "d5/d09/a19693" ],
+    [ "boss_loken", "d5/d09/a19693.html", "d5/d09/a19693" ],
+    [ "spell_loken_pulsing_shockwave", "d0/d47/a19697.html", "d0/d47/a19697" ],
     [ "LokenSpells", "d0/d60/a03878.html#ac8ac02e933ca6a1b9128844eed6d45a4", [
       [ "SPELL_ARC_LIGHTNING", "d0/d60/a03878.html#ac8ac02e933ca6a1b9128844eed6d45a4a24f0fbfb98278e23cb4fffa403193d0a", null ],
       [ "SPELL_LIGHTNING_NOVA", "d0/d60/a03878.html#ac8ac02e933ca6a1b9128844eed6d45a4aac47796ae5355ebf558988c4c62b8e28", null ],

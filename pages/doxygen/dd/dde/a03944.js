@@ -8,6 +8,12 @@ var a03944 =
       [ "CRITERIA_A_VOID_DANCE", "dd/dde/a03944.html#a895f0b1a53d4bf190879bf5ebcceef1eadf51f15d2ff829e0247ca376b02d71a2", null ],
       [ "CRITERIA_DEHYDRATION", "dd/dde/a03944.html#a895f0b1a53d4bf190879bf5ebcceef1ea6b837aacbdf0326bdb2026d8c373ed4d", null ]
     ] ],
+    [ "VHActions", "dd/dde/a03944.html#abe6992bac2d8052f606da958bd11d80e", [
+      [ "ACTION_START_INSTANCE", "dd/dde/a03944.html#abe6992bac2d8052f606da958bd11d80ea555eabbe9272cf62392020f7d6cfa25a", null ],
+      [ "ACTION_PORTAL_DEFEATED", "dd/dde/a03944.html#abe6992bac2d8052f606da958bd11d80ea03c212af733c1bcf555938b2559bc56c", null ],
+      [ "ACTION_RELEASE_BOSS", "dd/dde/a03944.html#abe6992bac2d8052f606da958bd11d80eabdbdc5c3883b94b52ef81f9b5b238996", null ],
+      [ "ACTION_DECREASE_DOOR_HEALTH", "dd/dde/a03944.html#abe6992bac2d8052f606da958bd11d80ead5b7e3328018464265ad7409eb25c7c6", null ]
+    ] ],
     [ "VHBosses", "dd/dde/a03944.html#a93d4da7f36c949518d64ea14290a0d82", [
       [ "DATA_1ST_BOSS", "dd/dde/a03944.html#a93d4da7f36c949518d64ea14290a0d82a6404eb5c161ce3ee285a53f937d6fdf2", null ],
       [ "DATA_2ND_BOSS", "dd/dde/a03944.html#a93d4da7f36c949518d64ea14290a0d82a3d4c13e581a9bf2a26febabaa9401633", null ],
@@ -67,15 +73,10 @@ var a03944 =
       [ "DATA_XEVOZZ_CELL", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a8acd92e22bb16c14dee7a0d408adff63", null ],
       [ "DATA_ZURAMAT_CELL", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a133ad5921853a9fc07440e31642cd63c", null ],
       [ "DATA_ENCOUNTER_STATUS", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a06e771c0d2e0da47d4fd955db056b0c4", null ],
-      [ "DATA_ACTIVATE_DEFENSE_SYSTEM", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a6dcad9a09de5053c1914e774b668fc20", null ],
-      [ "DATA_START_INSTANCE", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a2b6f8be8dffb30ef8c0a86651557d9f1", null ],
       [ "DATA_ADD_TRASH_MOB", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a449b19f3bebee5f7f2217c277b0f894e", null ],
       [ "DATA_DELETE_TRASH_MOB", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a0b6308febcdfd661a238367b497b7779", null ],
-      [ "DATA_PORTAL_DEFEATED", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a63df89a4eaf308dfa103588e8dda4603", null ],
       [ "DATA_WAVE_COUNT", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a862f0c9134c86e397112353ef49530a7", null ],
       [ "DATA_PORTAL_LOCATION", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a9a478c99cb73b1b3495c4320ecdefce7", null ],
-      [ "DATA_RELEASE_BOSS", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80aa5e8f5d9ad5cff86839264caf30581bc", null ],
-      [ "DATA_DECREASE_DOOR_HEALTH", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a9dac8cb79e3778374efeabd55f362047", null ],
       [ "DATA_ACHIEV", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a017589bf4c8a9c402a3a436adbd2a933", null ],
       [ "DATA_EREKEM_GUARD_1_GUID", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80aab57a9aa19fb76748c2b8e8f3c310a64", null ],
       [ "DATA_EREKEM_GUARD_2_GUID", "dd/dde/a03944.html#a543dcb5e72bf511136d67291c2881f80a814d3c25fcbfae4755942da0fdab46c8", null ]
@@ -103,7 +104,7 @@ var a03944 =
       [ "EVENT_CYANIGOSA_TRANSFORM", "dd/dde/a03944.html#af19b6dc055e892aff8cfd0b3039648b6a613c69bf33c5c71ff592594510b76dbb", null ],
       [ "EVENT_CYANIGOSA_ATTACK", "dd/dde/a03944.html#af19b6dc055e892aff8cfd0b3039648b6adaf30b69e230ca4dee420d88e93c588f", null ],
       [ "EVENT_ARCANE_LIGHTNING", "dd/dde/a03944.html#af19b6dc055e892aff8cfd0b3039648b6a2db5971980a15c0eee436c18a862a40b", null ],
-      [ "EVENT_ARCANE_LIGHTNING_INSTAKILL", "dd/dde/a03944.html#af19b6dc055e892aff8cfd0b3039648b6aad8bad682fc50ca0409f66fe7e5875d8", null ]
+      [ "EVENT_ACTIVATE_CRYSTAL", "dd/dde/a03944.html#af19b6dc055e892aff8cfd0b3039648b6afd29c05159f40497e07ee2f5231997d1", null ]
     ] ],
     [ "VHPersistentData", "dd/dde/a03944.html#a7f7fea12c5fea5ba6f59b43e2ded013b", [
       [ "PERSISTENT_DATA_FIRST_BOSS", "dd/dde/a03944.html#a7f7fea12c5fea5ba6f59b43e2ded013baebd281c3cdd389c447a7ce71c0be8aca", null ],

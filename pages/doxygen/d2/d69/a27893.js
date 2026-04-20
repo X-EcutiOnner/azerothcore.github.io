@@ -1,5 +1,5 @@
 var a27893 =
 [
-    [ "go_tele_to_dalaran_crystal", "d2/d69/a27893.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "d2/d69/a27893.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "go_jotunheim_cage", "d2/d69/a27893.html#a28c9312de97a822e34f05c7358b42df4", null ],
+    [ "OnGossipHello", "d2/d69/a27893.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
 ];

@@ -15,5 +15,6 @@ var a01148 =
     [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED", "db/d17/a01148.html#ae9ad890da39c16320a177ed5fbdffdf1", null ],
     [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR", "db/d17/a01148.html#a55b2f2ab9e15f11a5b44f6d616f28e8a", null ],
     [ "EXACT_SEQUENCE", "db/d17/a01148.html#ac61bb0d0d29d3ccc94188eb93516adf5", null ],
+    [ "format_as", "db/d17/a01148.html#a474622d2cd7db21b03271a0f2c3237b9", null ],
     [ "GetChar", "db/d17/a01148.html#ab72843264c39ce4d9aa3d4d8fbd83fc4", null ]
 ];

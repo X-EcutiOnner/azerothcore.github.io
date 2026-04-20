@@ -1,6 +1,6 @@
 var a27829 =
 [
-    [ "go_l70_etc_musicAI", "db/d54/a27833.html", "db/d54/a27833" ],
-    [ "go_l70_etc_music", "dd/dab/a27829.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "dd/dab/a27829.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "go_darkmoon_faire_musicAI", "db/d54/a27833.html", "db/d54/a27833" ],
+    [ "go_darkmoon_faire_music", "dd/dab/a27829.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "dd/dab/a27829.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

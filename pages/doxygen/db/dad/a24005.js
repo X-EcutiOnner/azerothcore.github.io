@@ -1,8 +1,8 @@
 var a24005 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "db/dad/a24005.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "db/dad/a24005.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "db/dad/a24005.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "db/dad/a24005.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "db/dad/a24005.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "npc_pet_gen_valkyr_guardian", "db/dad/a24005.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "db/dad/a24005.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "db/dad/a24005.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "db/dad/a24005.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "db/dad/a24005.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

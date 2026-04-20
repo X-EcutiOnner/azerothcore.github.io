@@ -1,9 +1,10 @@
 var a26929 =
 [
-    [ "CheckCast", "d2/d5d/a26929.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "d2/d5d/a26929.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "d2/d5d/a26929.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "d2/d5d/a26929.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "d2/d5d/a26929.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "d2/d5d/a26929.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "HandleProc", "d2/d5d/a26929.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "d2/d5d/a26929.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "d2/d5d/a26929.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "d2/d5d/a26929.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "d2/d5d/a26929.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "d2/d5d/a26929.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "d2/d5d/a26929.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

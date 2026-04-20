@@ -350,7 +350,7 @@ var searchData=
   ['text_5fbk_5fmeaning_347',['TEXT_BK_MEANING',['../d4/ddb/a04118.html#aafc8c074c401ed6c3767e66ecaf56f5da2041788576122be87da07f5cc80407a3',1,'trial_of_the_champion.h']]],
   ['text_5fbroadcast_5fcower_348',['TEXT_BROADCAST_COWER',['../d5/da8/a03302.html#aed30148e36f529292aee0375972d6f64a608d56f35d323aa9a56f118fb29a0b61',1,'chapter5.cpp']]],
   ['text_5fdeath_349',['TEXT_DEATH',['../de/d6a/a03833.html#ae7521b78042d15a40eb39b60a718c957af8b238ae98e59a1d10ffbe601b871fd7',1,'boss_hodir.cpp']]],
-  ['text_5fdecahedral_5fdwarven_5fdice_350',['TEXT_DECAHEDRAL_DWARVEN_DICE',['../da/d48/a25941.html#a5d8d732ee693765b82c6c31e8ee8dff7a70628cdf2ca4d57abfe1223cff84601b',1,'spell_item_decahedral_dwarven_dice']]],
+  ['text_5fdecahedral_5fdwarven_5fdice_350',['TEXT_DECAHEDRAL_DWARVEN_DICE',['../dc/df5/a25937.html#a5d8d732ee693765b82c6c31e8ee8dff7a70628cdf2ca4d57abfe1223cff84601b',1,'spell_item_decahedral_dwarven_dice']]],
   ['text_5felder_5fkekek_5f1_351',['TEXT_ELDER_KEKEK_1',['../d0/d20/a03557.html#aa80bce1d0ea05213c0d6c327126caf31a3dd8ab04a3e0ac26955fccea41590162',1,'childrens_week.cpp']]],
   ['text_5femote_352',['TEXT_EMOTE',['../d5/d8b/a04112.html#a0cfcc61ebd7905935d3b9472af3edfc4a77d76bfa1c6234b9866a0162468137a6',1,'zone_storm_peaks.cpp']]],
   ['text_5femote_5fabsent_353',['TEXT_EMOTE_ABSENT',['../d3/d31/a04292.html#a745c5be4d6fbeb9a2744f84c81734ba9a1ef8d471776f4c19d6a25f3678a61ee6',1,'SharedDefines.h']]],

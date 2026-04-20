@@ -1,6 +1,5 @@
 var a27565 =
 [
-    [ "HandleProc", "db/d7d/a27565.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
-    [ "PrepareAuraScript", "db/d7d/a27565.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
-    [ "Register", "db/d7d/a27565.html#adf0852d1aad8097143df205a66a49f2f", null ]
+    [ "achievement_save_the_day", "db/d7d/a27565.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "db/d7d/a27565.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

@@ -1,6 +1,8 @@
 var a26201 =
 [
-    [ "HandleProc", "df/dda/a26201.html#a746a66c768e1987eb3752a41b19b822d", null ],
-    [ "PrepareAuraScript", "df/dda/a26201.html#a396023bc98b70b6357630e45a2278afc", null ],
-    [ "Register", "df/dda/a26201.html#a6af4e80cf3c88320a6157e986a4b719f", null ]
+    [ "CheckProc", "df/dda/a26201.html#a180edf3dd9f3abd42ae6cd43353451fe", null ],
+    [ "HandleProc", "df/dda/a26201.html#a9d6daf153d86cf93e35c43d05dda2459", null ],
+    [ "PrepareAuraScript", "df/dda/a26201.html#a874672016641a737a197588ea980c2c3", null ],
+    [ "Register", "df/dda/a26201.html#a3578470f10bb4c10868d02d62cafceac", null ],
+    [ "Validate", "df/dda/a26201.html#a4f496a310941e40c9c841772be3e6414", null ]
 ];

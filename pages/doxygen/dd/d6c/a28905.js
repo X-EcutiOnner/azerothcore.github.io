@@ -1,10 +1,18 @@
 var a28905 =
 [
-    [ "PvPDifficultyEntry", "dd/d6c/a28905.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "dd/d6c/a28905.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "dd/d6c/a28905.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "dd/d6c/a28905.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "dd/d6c/a28905.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "dd/d6c/a28905.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "dd/d6c/a28905.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "getArmorMod", "dd/d6c/a28905.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
+    [ "getDPSMod", "dd/d6c/a28905.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
+    [ "getFeralBonus", "dd/d6c/a28905.html#aa54c3d1add4a1b982c05138f876fd138", null ],
+    [ "getSpellBonus", "dd/d6c/a28905.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
+    [ "getssdMultiplier", "dd/d6c/a28905.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
+    [ "IsTwoHand", "dd/d6c/a28905.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
+    [ "armorMod", "dd/d6c/a28905.html#a742f8447dca5961fb39e50de8233fa86", null ],
+    [ "armorMod2", "dd/d6c/a28905.html#a36dba32ea7febb8dab627fa992de878b", null ],
+    [ "dpsMod", "dd/d6c/a28905.html#ace956cab0056bcf0e116ac0884ad3575", null ],
+    [ "Id", "dd/d6c/a28905.html#aebc75b8f80cb210b6af081077bd88e85", null ],
+    [ "Level", "dd/d6c/a28905.html#a5758f5152401efde26edf3110c0d11e2", null ],
+    [ "spellPower", "dd/d6c/a28905.html#a03804cca02fd1146dffb762bcd1274f8", null ],
+    [ "ssdMultiplier", "dd/d6c/a28905.html#a7559b9045268d8050372153c8c976946", null ],
+    [ "ssdMultiplier2", "dd/d6c/a28905.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
+    [ "ssdMultiplier3", "dd/d6c/a28905.html#ae78f00d5ed42704a4093b5df939498d7", null ]
 ];

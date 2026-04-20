@@ -1,6 +1,7 @@
 var a28169 =
 [
-    [ "npc_guardianAI", "da/daf/a28173.html", "da/daf/a28173" ],
-    [ "npc_guardian", "d9/dd8/a28169.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "d9/dd8/a28169.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "npc_wormholeAI", "d9/dd8/a28169.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "d9/dd8/a28169.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "d9/dd8/a28169.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "d9/dd8/a28169.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

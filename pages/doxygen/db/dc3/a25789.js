@@ -1,9 +1,6 @@
 var a25789 =
 [
-    [ "OnEffectHitTargetDisarm", "db/dc3/a25789.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "db/dc3/a25789.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "db/dc3/a25789.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "db/dc3/a25789.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "db/dc3/a25789.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "db/dc3/a25789.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "PrepareSpellScript", "db/dc3/a25789.html#a738e105a48f6c603f3d9a690f44b8745", null ],
+    [ "Register", "db/dc3/a25789.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
+    [ "SetDest", "db/dc3/a25789.html#a59641895cead08de4a4503262505ee73", null ]
 ];

@@ -1,13 +1,13 @@
 var a02981 =
 [
-    [ "ShadowOfDeathSelector", "d1/d04/a22617.html", "d1/d04/a22617" ],
-    [ "boss_teron_gorefiend", "d7/d7d/a22621.html", "d7/d7d/a22621" ],
-    [ "npc_vengeful_spirit", "d2/deb/a22625.html", "d2/deb/a22625" ],
-    [ "spell_teron_gorefiend_shadow_of_death", "d7/dc8/a22629.html", "d7/dc8/a22629" ],
-    [ "spell_teron_gorefiend_spirit_lance", "d2/d67/a22633.html", "d2/d67/a22633" ],
-    [ "spell_teron_gorefiend_spiritual_vengeance", "d9/d7f/a22637.html", "d9/d7f/a22637" ],
-    [ "spell_teron_gorefiend_shadowy_construct", "d2/dec/a22641.html", "d2/dec/a22641" ],
-    [ "spell_teron_gorefiend_shadow_of_death_remove", "d2/d2f/a22645.html", "d2/d2f/a22645" ],
+    [ "ShadowOfDeathSelector", "df/dee/a22613.html", "df/dee/a22613" ],
+    [ "boss_teron_gorefiend", "d1/d04/a22617.html", "d1/d04/a22617" ],
+    [ "npc_vengeful_spirit", "d7/d7d/a22621.html", "d7/d7d/a22621" ],
+    [ "spell_teron_gorefiend_shadow_of_death", "d2/deb/a22625.html", "d2/deb/a22625" ],
+    [ "spell_teron_gorefiend_spirit_lance", "d7/dc8/a22629.html", "d7/dc8/a22629" ],
+    [ "spell_teron_gorefiend_spiritual_vengeance", "d2/d67/a22633.html", "d2/d67/a22633" ],
+    [ "spell_teron_gorefiend_shadowy_construct", "d9/d7f/a22637.html", "d9/d7f/a22637" ],
+    [ "spell_teron_gorefiend_shadow_of_death_remove", "d2/dec/a22641.html", "d2/dec/a22641" ],
     [ "Misc", "d7/d93/a02981.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "df/dc9/a03230.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "df/dc9/a03230.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

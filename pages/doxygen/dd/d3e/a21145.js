@@ -1,7 +1,7 @@
 var a21145 =
 [
-    [ "npc_azure_stalker", "dd/d3e/a21145.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
-    [ "Reset", "dd/d3e/a21145.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
-    [ "UpdateAI", "dd/d3e/a21145.html#a22352aad7c55a4d454b9732469395139", null ],
-    [ "_events", "dd/d3e/a21145.html#ad83249d787d2f763ac2d01723ff305ef", null ]
+    [ "npc_azure_spellbreaker", "dd/d3e/a21145.html#ae884adc9619d3458d81a2029bd490893", null ],
+    [ "Reset", "dd/d3e/a21145.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
+    [ "UpdateAI", "dd/d3e/a21145.html#a938a93a71490bb42158e2215d125509f", null ],
+    [ "_events", "dd/d3e/a21145.html#a9f526cff54cb949cc68046e7816c3c89", null ]
 ];

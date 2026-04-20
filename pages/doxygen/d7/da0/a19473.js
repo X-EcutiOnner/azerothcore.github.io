@@ -1,7 +1,8 @@
 var a19473 =
 [
-    [ "FilterTargets", "d7/da0/a19473.html#a6beccd163ab8442a1ed39c553716cb73", null ],
-    [ "Load", "d7/da0/a19473.html#a5df67c2dbd14a75435f68939240daae6", null ],
-    [ "PrepareSpellScript", "d7/da0/a19473.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
-    [ "Register", "d7/da0/a19473.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
+    [ "Load", "d7/da0/a19473.html#af8ef90a44a5405e58dbb3003642c078b", null ],
+    [ "PrepareSpellScript", "d7/da0/a19473.html#a40649371440d62e4ba8af1b077880d0b", null ],
+    [ "Register", "d7/da0/a19473.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
+    [ "SendThreeTargets", "d7/da0/a19473.html#ab16b83839ce9136da84691640020f846", null ],
+    [ "Validate", "d7/da0/a19473.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
 ];

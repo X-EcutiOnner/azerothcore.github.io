@@ -1,6 +1,7 @@
 var a26393 =
 [
-    [ "CheckCast", "db/d8a/a26393.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "db/d8a/a26393.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "db/d8a/a26393.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "OnProc", "db/d8a/a26393.html#a00545522da76162e837a3f9ce1f38988", null ],
+    [ "PrepareAuraScript", "db/d8a/a26393.html#ae11900dc2baee4882ffbc7fde71204e9", null ],
+    [ "Register", "db/d8a/a26393.html#aa326bd80c927ee5ffb06b5676e8d5b40", null ],
+    [ "Validate", "db/d8a/a26393.html#af5525b7097363c3357db853b46a26bd7", null ]
 ];

@@ -1,7 +1,15 @@
 var a19921 =
 [
-    [ "npc_auriaya_sanctum_sentry", "df/dff/a19921.html#ae5ed159c476c8b4569de7e2730edf447", null ],
-    [ "JustEngagedWith", "df/dff/a19921.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
-    [ "Reset", "df/dff/a19921.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
-    [ "UpdateAI", "df/dff/a19921.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
+    [ "boss_auriaya", "df/dff/a19921.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DoAction", "df/dff/a19921.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "df/dff/a19921.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "df/dff/a19921.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "df/dff/a19921.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "df/dff/a19921.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "JustSummoned", "df/dff/a19921.html#aaec8af440e83fd614041cb63115adc48", null ],
+    [ "KilledUnit", "df/dff/a19921.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "df/dff/a19921.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "SummonedCreatureDies", "df/dff/a19921.html#a928a8d7c084125136bdef1ab0a3a4737", null ],
+    [ "_feralDied", "df/dff/a19921.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "df/dff/a19921.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

@@ -1,6 +1,10 @@
 var a23665 =
 [
-    [ "npc_wounded_blood_elfAI", "dc/d31/a23669.html", "dc/d31/a23669" ],
-    [ "npc_wounded_blood_elf", "d2/d98/a23665.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "d2/d98/a23665.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "npc_wounded_blood_elfAI", "d2/d98/a23665.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d2/d98/a23665.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d2/d98/a23665.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d2/d98/a23665.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d2/d98/a23665.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d2/d98/a23665.html#a5affcb00e28a582f8926ab2226001cd0", null ],
+    [ "WaypointReached", "d2/d98/a23665.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

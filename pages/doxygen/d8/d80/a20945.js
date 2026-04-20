@@ -1,5 +1,6 @@
 var a20945 =
 [
-    [ "npc_ritual_channelerAI", "d8/d80/a20945.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "d8/d80/a20945.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "npc_ritual_channelerAI", "d2/dc5/a20949.html", "d2/dc5/a20949" ],
+    [ "npc_ritual_channeler", "d8/d80/a20945.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "d8/d80/a20945.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

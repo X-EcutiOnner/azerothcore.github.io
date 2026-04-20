@@ -1,7 +1,6 @@
 var a19789 =
 [
-    [ "HandleEffectRemove", "d6/db6/a19789.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "d6/db6/a19789.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "d6/db6/a19789.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "d6/db6/a19789.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "HandleScript", "d6/db6/a19789.html#a992dbad02eab01824d870bdd3fca93d0", null ],
+    [ "PrepareSpellScript", "d6/db6/a19789.html#a0e6b4d1f59896a255929556baa943bdb", null ],
+    [ "Register", "d6/db6/a19789.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
 ];

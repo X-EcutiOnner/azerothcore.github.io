@@ -1,7 +1,10 @@
 var a21633 =
 [
-    [ "npc_Apothecary_HanesAI", "db/d4c/a21637.html", "db/d4c/a21637" ],
-    [ "npc_apothecary_hanes", "db/dfe/a21633.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "db/dfe/a21633.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "db/dfe/a21633.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "npc_Apothecary_HanesAI", "db/dfe/a21633.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "db/dfe/a21633.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "db/dfe/a21633.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "db/dfe/a21633.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "db/dfe/a21633.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "WaypointReached", "db/dfe/a21633.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "PotTimer", "db/dfe/a21633.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

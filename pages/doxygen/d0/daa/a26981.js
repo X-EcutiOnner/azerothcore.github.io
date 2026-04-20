@@ -1,8 +1,6 @@
 var a26981 =
 [
-    [ "AfterApply", "d0/daa/a26981.html#a3299de0703ca1e14760e9f33b124ac44", null ],
-    [ "PeriodicTick", "d0/daa/a26981.html#a34f2fd8d142083705101f8265297c20e", null ],
-    [ "PrepareAuraScript", "d0/daa/a26981.html#a79c80876d5788a20a9f686548b70fd64", null ],
-    [ "Register", "d0/daa/a26981.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
-    [ "Validate", "d0/daa/a26981.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
+    [ "FilterTargets", "d0/daa/a26981.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
+    [ "PrepareSpellScript", "d0/daa/a26981.html#af41d6353088c5565b0027265c9bd4d8b", null ],
+    [ "Register", "d0/daa/a26981.html#a95e386af9016e598e932177cb400fd8b", null ]
 ];

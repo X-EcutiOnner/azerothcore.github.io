@@ -1,6 +1,6 @@
 var a18269 =
 [
-    [ "FilterTargets", "da/d4d/a18269.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
-    [ "PrepareSpellScript", "da/d4d/a18269.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
-    [ "Register", "da/d4d/a18269.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
+    [ "UnchainedMagicTargetSelector", "da/d4d/a18269.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "da/d4d/a18269.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "da/d4d/a18269.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

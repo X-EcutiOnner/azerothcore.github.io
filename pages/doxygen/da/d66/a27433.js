@@ -1,7 +1,7 @@
 var a27433 =
 [
-    [ "HandleProc", "da/d66/a27433.html#a5046d3b14fcf4260da937032c043fe42", null ],
-    [ "PrepareAuraScript", "da/d66/a27433.html#abcc31343fd53057e8116b47dd56033c1", null ],
-    [ "Register", "da/d66/a27433.html#a9a04291ffb75010ccaa46801d06e2080", null ],
-    [ "Validate", "da/d66/a27433.html#a13ecea64673f78b4b384a411a7aa8ca7", null ]
+    [ "FilterTargets", "da/d66/a27433.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "da/d66/a27433.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "da/d66/a27433.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "da/d66/a27433.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

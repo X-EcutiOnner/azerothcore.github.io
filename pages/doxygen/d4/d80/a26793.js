@@ -1,9 +1,6 @@
 var a26793 =
 [
-    [ "CheckCast", "d4/d80/a26793.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
-    [ "HandleActiveObject", "d4/d80/a26793.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
-    [ "HandleDummy", "d4/d80/a26793.html#a39dd06ae92d04060ee41897318a701fd", null ],
-    [ "Load", "d4/d80/a26793.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
-    [ "PrepareSpellScript", "d4/d80/a26793.html#a016e480d7b2267c9bf824c9cb029f134", null ],
-    [ "Register", "d4/d80/a26793.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
+    [ "HandleDummy", "d4/d80/a26793.html#a73628636431d3549d6e3530c6ef23c08", null ],
+    [ "PrepareSpellScript", "d4/d80/a26793.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
+    [ "Register", "d4/d80/a26793.html#a7f42cf47831d3c8544453530a1454ddc", null ]
 ];

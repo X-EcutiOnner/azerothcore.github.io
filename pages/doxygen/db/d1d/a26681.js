@@ -1,6 +1,6 @@
 var a26681 =
 [
-    [ "CheckRequirement", "db/d1d/a26681.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "db/d1d/a26681.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "db/d1d/a26681.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "HandleScriptEffect", "db/d1d/a26681.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
+    [ "PrepareSpellScript", "db/d1d/a26681.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
+    [ "Register", "db/d1d/a26681.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
 ];

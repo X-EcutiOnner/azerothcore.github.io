@@ -1,6 +1,6 @@
 var a27533 =
 [
-    [ "HandleEffectCalcSpellMod", "d0/ddf/a27533.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
-    [ "PrepareAuraScript", "d0/ddf/a27533.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
-    [ "Register", "d0/ddf/a27533.html#af60592a9f1e595f31814eae405d03d5a", null ]
+    [ "HandleProc", "d0/ddf/a27533.html#a6b321d6ee3002f32b546aeaed0925183", null ],
+    [ "PrepareAuraScript", "d0/ddf/a27533.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
+    [ "Register", "d0/ddf/a27533.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
 ];

@@ -1,8 +1,10 @@
 var a26437 =
 [
-    [ "HandleProc", "d3/d55/a26437.html#a95553bc0c973be3a2e3911602e4067c8", null ],
-    [ "PrepareAuraScript", "d3/d55/a26437.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
-    [ "Register", "d3/d55/a26437.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
-    [ "Validate", "d3/d55/a26437.html#aad1324e94920136258c419094cfca4c3", null ],
-    [ "_cooldownEnd", "d3/d55/a26437.html#a4f19a965ed8ddab712633abdb761d210", null ]
+    [ "CalculateAPAmount", "d3/d55/a26437.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "d3/d55/a26437.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "d3/d55/a26437.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "d3/d55/a26437.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "d3/d55/a26437.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "d3/d55/a26437.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "d3/d55/a26437.html#a88520214bd87511b615965593f1b927f", null ]
 ];

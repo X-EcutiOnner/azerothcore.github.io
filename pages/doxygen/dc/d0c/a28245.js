@@ -1,9 +1,9 @@
 var a28245 =
 [
-    [ "npc_arcanite_dragonling", "dc/d0c/a28245.html#a9b7e4cefa312a16c90018d655ad94758", null ],
-    [ "CanAIAttack", "dc/d0c/a28245.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
-    [ "IsSummonedBy", "dc/d0c/a28245.html#a921b35a91c4f21258efdb41fd87413db", null ],
-    [ "JustEngagedWith", "dc/d0c/a28245.html#a65f6d779681861117f750b70154b3e0d", null ],
-    [ "Reset", "dc/d0c/a28245.html#a4468d91430add821bf7a7ab11d8063da", null ],
-    [ "UpdateAI", "dc/d0c/a28245.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
+    [ "npc_herald_of_the_lich_king", "dc/d0c/a28245.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "dc/d0c/a28245.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "dc/d0c/a28245.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "dc/d0c/a28245.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "dc/d0c/a28245.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "dc/d0c/a28245.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

@@ -1,6 +1,10 @@
 var a28017 =
 [
-    [ "npc_innkeeper", "da/d57/a28017.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "da/d57/a28017.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "da/d57/a28017.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "go_evil_book_for_dummies", "da/d57/a28017.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "da/d57/a28017.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "da/d57/a28017.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "da/d57/a28017.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "da/d57/a28017.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "da/d57/a28017.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "da/d57/a28017.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

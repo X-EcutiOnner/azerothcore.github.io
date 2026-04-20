@@ -1,7 +1,7 @@
 var a21133 =
 [
-    [ "npc_azure_binder", "d7/d3f/a21133.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
-    [ "Reset", "d7/d3f/a21133.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
-    [ "UpdateAI", "d7/d3f/a21133.html#add9f304212a1a10267e564cd939f3751", null ],
-    [ "_events", "d7/d3f/a21133.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
+    [ "npc_azure_mage_slayer", "d7/d3f/a21133.html#a8f537bf85f7d50dda0f3e2e9cb7bd293", null ],
+    [ "Reset", "d7/d3f/a21133.html#ad760e69d3246117726b2a2e066e6c5ce", null ],
+    [ "UpdateAI", "d7/d3f/a21133.html#a412a23b56efad90af180dee17f9f2be3", null ],
+    [ "_events", "d7/d3f/a21133.html#aadb7b09a9fbdd9ca8f04ba38e79901b3", null ]
 ];

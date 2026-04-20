@@ -1,8 +1,7 @@
 var a26345 =
 [
-    [ "CheckCast", "da/d8b/a26345.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
-    [ "HandleDummy", "da/d8b/a26345.html#a1eac1eb5f39093ff48942e82728478dd", null ],
-    [ "PrepareSpellScript", "da/d8b/a26345.html#adbb58b75232560d101b291c0d99a2a20", null ],
-    [ "Register", "da/d8b/a26345.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
-    [ "Validate", "da/d8b/a26345.html#a4b67c348685a8094668e4ed2f0c78446", null ]
+    [ "HandleProc", "da/d8b/a26345.html#a342163af13b2282b97792972da490f98", null ],
+    [ "PrepareAuraScript", "da/d8b/a26345.html#a2d72ba251ca9ccfd1e2d84a23c539719", null ],
+    [ "Register", "da/d8b/a26345.html#ac474d006203de8eceb93e50c6430e603", null ],
+    [ "Validate", "da/d8b/a26345.html#a831d13676b4ef44f44cb17ba077b7943", null ]
 ];

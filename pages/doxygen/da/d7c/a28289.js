@@ -1,24 +1,7 @@
 var a28289 =
 [
-    [ "npc_necrotic_shard", "da/d7c/a28289.html#a2992dbe8b0d18a7d41b28abd224fc697", null ],
-    [ "DamageTaken", "da/d7c/a28289.html#a86289f7c8ec1f3a52c7d88b1be15201d", null ],
-    [ "DespawnCultists", "da/d7c/a28289.html#a0d2d4526d484d7f173d24d5a92b1d3ea", null ],
-    [ "DespawnEventDoodads", "da/d7c/a28289.html#a65e2066192fa7c7fadc4aeaf8b0a9dd2", null ],
-    [ "DespawnShadowsOfDoom", "da/d7c/a28289.html#a5ea43bf63be68390a8bf5e193bc5d651", null ],
-    [ "HandleShardMinionSpawnerSmall", "da/d7c/a28289.html#a9a3dfceaa896a63cbf4b517acc243468", null ],
-    [ "HasCampTypeAura", "da/d7c/a28289.html#a83e16b403c352c29a4274d3641876e72", null ],
-    [ "HasMinion", "da/d7c/a28289.html#a1180dc1fa894886b492508afbc692667", null ],
-    [ "JustDied", "da/d7c/a28289.html#a2178a576224ff9bf33d76793356c5281", null ],
-    [ "Reset", "da/d7c/a28289.html#aecc545eefc308b525052f86bfab5b390", null ],
-    [ "ScheduleCultistSpawnTask", "da/d7c/a28289.html#aa71daa74d312f6da03ccd64a8141624b", null ],
-    [ "ScheduleMinionSpawnTask", "da/d7c/a28289.html#a469b1379d557096d2bf17f0eb9d9adad", null ],
-    [ "ScheduleTasks", "da/d7c/a28289.html#a302fd24804b81ee7aa538f66ec74150b", null ],
-    [ "SpellHit", "da/d7c/a28289.html#aef06aa96540360a9edf7006f6438ad5d", null ],
-    [ "SpellHitTarget", "da/d7c/a28289.html#aeea71f3ba1e79722280da9b7adf5c212", null ],
-    [ "SummonCultists", "da/d7c/a28289.html#a2db6786b77d0a3a2ec923e5eee7e3ce0", null ],
-    [ "UpdateAI", "da/d7c/a28289.html#a1b40f869dbf2d1d3d4cc9c26cb711600", null ],
-    [ "UpdateFindersAmount", "da/d7c/a28289.html#aa38be6224d7712e710861a4b3ba0424e", null ],
-    [ "_nearbyFinderCount", "da/d7c/a28289.html#a213d09001f9c498756e43a7fd6d49f10", null ],
-    [ "_spellCampType", "da/d7c/a28289.html#acf6c33a5b342e5a6a97e5f7565d8dc87", null ],
-    [ "_zapCount", "da/d7c/a28289.html#aa456d50b6e77bc86ecf0399474ced4d3", null ]
+    [ "HandleDummy", "da/d7c/a28289.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "da/d7c/a28289.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "da/d7c/a28289.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "da/d7c/a28289.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

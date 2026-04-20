@@ -390,13 +390,13 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  298</span>    <span class="keywordflow">return</span> <a class="code hl_class" href="../../d1/d3d/a06161.html">TransactionCallback</a>(std::move(result));</div>
 <div class="line"><span class="lineno">  299</span>}</div>
 <div class="ttc" id="aa00242_html_ad8826e834522c9cacfd021d4529b4f87"><div class="ttname"><a href="../../d2/dc8/a00242.html#ad8826e834522c9cacfd021d4529b4f87">TransactionFuture</a></div><div class="ttdeci">std::future&lt; bool &gt; TransactionFuture</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:58</div></div>
-<div class="ttc" id="aa04547_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d0/da8/a04547.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
+<div class="ttc" id="aa04547_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d0/da8/a04547.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
 <div class="ttc" id="aa05973_html_a2abae7a058f85531e85c2c6bf54d3012"><div class="ttname"><a href="../../d2/d3c/a05973.html#a2abae7a058f85531e85c2c6bf54d3012">DatabaseWorkerPool::Enqueue</a></div><div class="ttdeci">void Enqueue(SQLOperation *op)</div><div class="ttdef"><b>Definition:</b> DatabaseWorkerPool.cpp:469</div></div>
 <div class="ttc" id="aa06157_html"><div class="ttname"><a href="../../d9/d8a/a06157.html">TransactionWithResultTask</a></div><div class="ttdef"><b>Definition:</b> Transaction.h:96</div></div>
 <div class="ttc" id="aa06157_html_a5bc976207b1d695c8e8c052b0eacc7a6"><div class="ttname"><a href="../../d9/d8a/a06157.html#a5bc976207b1d695c8e8c052b0eacc7a6">TransactionWithResultTask::GetFuture</a></div><div class="ttdeci">TransactionFuture GetFuture()</div><div class="ttdef"><b>Definition:</b> Transaction.h:100</div></div>
 <div class="ttc" id="aa06161_html"><div class="ttname"><a href="../../d1/d3d/a06161.html">TransactionCallback</a></div><div class="ttdef"><b>Definition:</b> Transaction.h:109</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00100">TransactionWithResultTask::GetFuture()</a>, and <a class="el" href="../../#l00170">LOG_DEBUG</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00100">TransactionWithResultTask::GetFuture()</a>, and <a class="el" href="../../#l00157">LOG_DEBUG</a>.</p>
 
 </div>
 </div>
@@ -520,11 +520,11 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  132</span> </div>
 <div class="line"><span class="lineno">  133</span>    <a class="code hl_define" href="../../d0/da8/a04547.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;sql.driver&quot;</span>, <span class="stringliteral">&quot;All connections on DatabasePool &#39;{}&#39; closed.&quot;</span>, <a class="code hl_function" href="../../d2/d3c/a05973.html#a7c2cac43d3111bef15ac91a1f389168d">GetDatabaseName</a>());</div>
 <div class="line"><span class="lineno">  134</span>}</div>
-<div class="ttc" id="aa04547_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d0/da8/a04547.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
+<div class="ttc" id="aa04547_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d0/da8/a04547.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:153</div></div>
 <div class="ttc" id="aa05973_html_a75dd7ab7e3bc90f00c3f93e92c5540c9"><div class="ttname"><a href="../../d2/d3c/a05973.html#a75dd7ab7e3bc90f00c3f93e92c5540c9">DatabaseWorkerPool::_connections</a></div><div class="ttdeci">std::array&lt; std::vector&lt; std::unique_ptr&lt; T &gt; &gt;, IDX_SIZE &gt; _connections</div><div class="ttdef"><b>Definition:</b> DatabaseWorkerPool.h:233</div></div>
 <div class="ttc" id="aa05973_html_a7c2cac43d3111bef15ac91a1f389168d"><div class="ttname"><a href="../../d2/d3c/a05973.html#a7c2cac43d3111bef15ac91a1f389168d">DatabaseWorkerPool::GetDatabaseName</a></div><div class="ttdeci">std::string_view GetDatabaseName() const</div><div class="ttdef"><b>Definition:</b> DatabaseWorkerPool.cpp:509</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00166">LOG_INFO</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00153">LOG_INFO</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00053">DatabaseLoader::AddDatabase()</a>.</p>
 
@@ -567,7 +567,7 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  273</span>}</div>
 <div class="ttc" id="aa06153_html"><div class="ttname"><a href="../../d1/dc5/a06153.html">TransactionTask</a></div><div class="ttdef"><b>Definition:</b> Transaction.h:75</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00170">LOG_DEBUG</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00157">LOG_DEBUG</a>.</p>
 
 </div>
 </div>
@@ -757,9 +757,9 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">  112</span>        <span class="keywordflow">if</span> (sql.empty())</div>
 <div class="line"><span class="lineno">  113</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  114</span> </div>
-<div class="line"><span class="lineno">  115</span>        <a class="code hl_function" href="../../d2/d3c/a05973.html#ab6f68567b1dc23c16723f84504b47eb1">DirectExecute</a>(<a class="code hl_function" href="../../d5/d66/a05016.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(sql, std::forward&lt;Args&gt;(args)...));</div>
+<div class="line"><span class="lineno">  115</span>        <a class="code hl_function" href="../../d2/d3c/a05973.html#ab6f68567b1dc23c16723f84504b47eb1">DirectExecute</a>(<a class="code hl_function" href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(sql, std::forward&lt;Args&gt;(args)...));</div>
 <div class="line"><span class="lineno">  116</span>    }</div>
-<div class="ttc" id="aa05016_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d5/d66/a05016.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:44</div></div>
+<div class="ttc" id="aa05016_html_a1b97349dfcb88c6974882d7e34c55895"><div class="ttname"><a href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatStringView fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:44</div></div>
 <div class="ttc" id="aa05973_html_ab6f68567b1dc23c16723f84504b47eb1"><div class="ttname"><a href="../../d2/d3c/a05973.html#ab6f68567b1dc23c16723f84504b47eb1">DatabaseWorkerPool::DirectExecute</a></div><div class="ttdeci">void DirectExecute(std::string_view sql)</div><div class="ttdef"><b>Definition:</b> DatabaseWorkerPool.cpp:532</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00532">DatabaseWorkerPool&lt; T &gt;::DirectExecute()</a>, and <a class="el" href="../../#l00044">Acore::StringFormat()</a>.</p>
@@ -977,7 +977,7 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">   89</span>        <span class="keywordflow">if</span> (sql.empty())</div>
 <div class="line"><span class="lineno">   90</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   91</span> </div>
-<div class="line"><span class="lineno">   92</span>        <a class="code hl_function" href="../../d2/d3c/a05973.html#a7f10adb58da657128cd4cc950d361074">Execute</a>(<a class="code hl_function" href="../../d5/d66/a05016.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(sql, std::forward&lt;Args&gt;(args)...));</div>
+<div class="line"><span class="lineno">   92</span>        <a class="code hl_function" href="../../d2/d3c/a05973.html#a7f10adb58da657128cd4cc950d361074">Execute</a>(<a class="code hl_function" href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(sql, std::forward&lt;Args&gt;(args)...));</div>
 <div class="line"><span class="lineno">   93</span>    }</div>
 <div class="ttc" id="aa05973_html_a7f10adb58da657128cd4cc950d361074"><div class="ttname"><a href="../../d2/d3c/a05973.html#a7f10adb58da657128cd4cc950d361074">DatabaseWorkerPool::Execute</a></div><div class="ttdeci">void Execute(std::string_view sql)</div><div class="ttdef"><b>Definition:</b> DatabaseWorkerPool.cpp:515</div></div>
 </div><!-- fragment -->
@@ -1168,9 +1168,9 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  504</span> </div>
 <div class="line"><span class="lineno">  505</span>    <span class="keywordflow">return</span> connection;</div>
 <div class="line"><span class="lineno">  506</span>}</div>
-<div class="ttc" id="aa04547_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d0/da8/a04547.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:162</div></div>
+<div class="ttc" id="aa04547_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d0/da8/a04547.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:149</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00162">LOG_WARN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00149">LOG_WARN</a>.</p>
 
 </div>
 </div>
@@ -1274,7 +1274,7 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  110</span>}</div>
 <div class="ttc" id="aa05973_html_a0afa2a6d6159289aedf75b23bef19561"><div class="ttname"><a href="../../d2/d3c/a05973.html#a0afa2a6d6159289aedf75b23bef19561">DatabaseWorkerPool::OpenConnections</a></div><div class="ttdeci">uint32 OpenConnections(InternalIndex type, uint8 numConnections)</div><div class="ttdef"><b>Definition:</b> DatabaseWorkerPool.cpp:418</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00166">LOG_INFO</a>, and <a class="el" href="../../#l00059">WPFatal</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00153">LOG_INFO</a>, and <a class="el" href="../../#l00059">WPFatal</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00053">DatabaseLoader::AddDatabase()</a>.</p>
 
@@ -1355,10 +1355,10 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  456</span>    <span class="keywordflow">return</span> 0;</div>
 <div class="line"><span class="lineno">  457</span>}</div>
 <div class="ttc" id="aa00248_html_a31d71bc4748fa66e040eb20dc995e12e"><div class="ttname"><a href="../../dd/dd7/a00248.html#a31d71bc4748fa66e040eb20dc995e12e">DatabaseIncompatibleVersion</a></div><div class="ttdeci">bool DatabaseIncompatibleVersion(std::string const mysqlVersion)</div><div class="ttdoc">Returns true if the version string given is incompatible.</div><div class="ttdef"><b>Definition:</b> DatabaseWorkerPool.cpp:387</div></div>
-<div class="ttc" id="aa04547_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d0/da8/a04547.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa04547_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d0/da8/a04547.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:145</div></div>
 <div class="ttc" id="aa04586_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../df/dd7/a04586.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition:</b> Errors.h:76</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00387">DatabaseIncompatibleVersion()</a>, and <a class="el" href="../../#l00158">LOG_ERROR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00387">DatabaseIncompatibleVersion()</a>, and <a class="el" href="../../#l00145">LOG_ERROR</a>.</p>
 
 </div>
 </div>
@@ -1555,7 +1555,7 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">  135</span>        <span class="keywordflow">if</span> (sql.empty())</div>
 <div class="line"><span class="lineno">  136</span>            <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../d2/dc8/a00242.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a>(<span class="keyword">nullptr</span>);</div>
 <div class="line"><span class="lineno">  137</span> </div>
-<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d2/d3c/a05973.html#a9073e4eb5be9bda6c8464dbff263dbc8">Query</a>(<a class="code hl_function" href="../../d5/d66/a05016.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(sql, std::forward&lt;Args&gt;(args)...));</div>
+<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d2/d3c/a05973.html#a9073e4eb5be9bda6c8464dbff263dbc8">Query</a>(<a class="code hl_function" href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(sql, std::forward&lt;Args&gt;(args)...));</div>
 <div class="line"><span class="lineno">  139</span>    }</div>
 <div class="ttc" id="aa05973_html_a9073e4eb5be9bda6c8464dbff263dbc8"><div class="ttname"><a href="../../d2/d3c/a05973.html#a9073e4eb5be9bda6c8464dbff263dbc8">DatabaseWorkerPool::Query</a></div><div class="ttdeci">QueryResult Query(std::string_view sql)</div><div class="ttdef"><b>Definition:</b> DatabaseWorkerPool.cpp:181</div></div>
 </div><!-- fragment -->
@@ -1814,7 +1814,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d3c/a05973.html">DatabaseWorkerPool</a></li>
-    <li class="footer">Generated on Mon Apr 13 2026 21:28:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 20 2026 21:15:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

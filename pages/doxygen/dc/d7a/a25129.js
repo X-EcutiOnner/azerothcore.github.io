@@ -1,6 +1,9 @@
 var a25129 =
 [
-    [ "OnProc", "dc/d7a/a25129.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "dc/d7a/a25129.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "dc/d7a/a25129.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "spell_gen_translocate", "dc/d7a/a25129.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "dc/d7a/a25129.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "dc/d7a/a25129.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "dc/d7a/a25129.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "dc/d7a/a25129.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "dc/d7a/a25129.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

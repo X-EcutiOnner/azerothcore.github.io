@@ -1,6 +1,5 @@
 var a28321 =
 [
-    [ "CheckCast", "d3/dda/a28321.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
-    [ "PrepareSpellScript", "d3/dda/a28321.html#aa3c18907c79309a8924a98bce41e27f1", null ],
-    [ "Register", "d3/dda/a28321.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
+    [ "go_transport_the_purple_princess", "d3/dda/a28321.html#ab0c79197964857d578036693a2c18e8a", null ],
+    [ "EventInform", "d3/dda/a28321.html#ac5b73f1bea180797169138f8e9228783", null ]
 ];

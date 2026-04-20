@@ -1,8 +1,8 @@
 var a26593 =
 [
-    [ "CheckProc", "de/d24/a26593.html#ab37749506a197a97cb3cc567cdff199c", null ],
-    [ "HandleProc", "de/d24/a26593.html#a4af1cc19b8ccc4ce0d3bdcaa93a3cce2", null ],
-    [ "PrepareAuraScript", "de/d24/a26593.html#a0c7c91113f0a4a289dcc5e53450a635a", null ],
-    [ "Register", "de/d24/a26593.html#af52bd6c3d698e3e1f7144431ee5c7d69", null ],
-    [ "Validate", "de/d24/a26593.html#aa4639d482cfda229e0a6eaa53c320ea8", null ]
+    [ "HandleEffectApply", "de/d24/a26593.html#aed959961fcd07649cd4914fcd38a3214", null ],
+    [ "if", "de/d24/a26593.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
+    [ "PrepareAuraScript", "de/d24/a26593.html#a42167bc6bf7992debea8582680251da4", null ],
+    [ "Register", "de/d24/a26593.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
+    [ "AuraEffectHandleModes", "de/d24/a26593.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
 ];

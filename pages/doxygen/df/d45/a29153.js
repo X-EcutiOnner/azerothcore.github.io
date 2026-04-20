@@ -1,27 +1,7 @@
 var a29153 =
 [
-    [ "ProcTestContext", "df/d45/a29153.html#a3be4a95c438667ccdd0cbed0d606a46b", null ],
-    [ "GetActor", "df/d45/a29153.html#aa253eaa33458abfa16562c288a23b34f", null ],
-    [ "GetActor", "df/d45/a29153.html#ae25b85f794cc9174bc67a0a2d28fab8c", null ],
-    [ "GetAura", "df/d45/a29153.html#a2892ee3c159c616c6b1cd9bb7d4edc21", null ],
-    [ "GetAura", "df/d45/a29153.html#ae05f6f826284e174d8bcba0902758bd0", null ],
-    [ "GetDamageInfo", "df/d45/a29153.html#a0ffdd8fa38d8d98fa7beee6d08a44bdb", null ],
-    [ "GetDamageInfo", "df/d45/a29153.html#ab9821a9a36ab9c54c44726b00bde5c1c", null ],
-    [ "GetHealInfo", "df/d45/a29153.html#acf3d0ab18a726decfb635fd0aa83d5db", null ],
-    [ "GetHealInfo", "df/d45/a29153.html#a538e45b713a53a45d453e0ea79993e8b", null ],
-    [ "GetTarget", "df/d45/a29153.html#a0abd60970b6588ffdc80fa4030554979", null ],
-    [ "GetTarget", "df/d45/a29153.html#ae1ee18f20e12406a8979a611285ab7ef", null ],
-    [ "WithActorAsPlayer", "df/d45/a29153.html#ae2a9f04d30cbb14fc1d528a58521a602", null ],
-    [ "WithAuraCharges", "df/d45/a29153.html#a544da38ede50c01868a3e918efcad8a1", null ],
-    [ "WithAuraId", "df/d45/a29153.html#a538af7b841e7e64d16e53e57e303b3e0", null ],
-    [ "WithAuraSpellFamily", "df/d45/a29153.html#a43c994ff3ac8fc4d1b535beffea985bc", null ],
-    [ "WithCriticalHit", "df/d45/a29153.html#aaf70bafc7d7fa0fc030ac2a3988c2bfe", null ],
-    [ "WithDamage", "df/d45/a29153.html#a46b0dc60ef6bc0d433a4089c4e755d8e", null ],
-    [ "WithHeal", "df/d45/a29153.html#a4f396c33b767cce2c538c94578dcdcbd", null ],
-    [ "WithNormalHit", "df/d45/a29153.html#af0cf99f26f6f220bb2da889bcd139a5e", null ],
-    [ "_actor", "df/d45/a29153.html#ac62553cbe1667cbfd695ca3bd9834184", null ],
-    [ "_aura", "df/d45/a29153.html#aaaa64249b6f8bd281834e2b7c309ed38", null ],
-    [ "_damageInfo", "df/d45/a29153.html#aa76666ba435170552f3b9a355bf2d0b8", null ],
-    [ "_healInfo", "df/d45/a29153.html#aab8d47fcad592c5269991e85b3ad2cf0", null ],
-    [ "_target", "df/d45/a29153.html#a7dcbdab19d62f509912d7067075bd82d", null ]
+    [ "MockAuraStub", "df/d45/a29153.html#a9f0561eabca5230f8fe27384e0deb6b8", null ],
+    [ "MOCK_METHOD", "df/d45/a29153.html#a727233484b563f548c9f0e2d8a78b9a6", null ],
+    [ "MOCK_METHOD", "df/d45/a29153.html#a9581f1887abbe708bc4e2da24e1996b5", null ],
+    [ "MOCK_METHOD", "df/d45/a29153.html#abe2d675e124d5cb9115e8f726b1c7d8b", null ]
 ];

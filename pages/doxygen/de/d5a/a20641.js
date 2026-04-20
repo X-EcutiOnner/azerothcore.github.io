@@ -1,11 +1,10 @@
 var a20641 =
 [
-    [ "boss_yoggsaron_lich_king", "de/d5a/a20641.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
-    [ "NextStep", "de/d5a/a20641.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
-    [ "Reset", "de/d5a/a20641.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
-    [ "Say", "de/d5a/a20641.html#ac7687fe1253701c702cf2c17986727ec", null ],
-    [ "UpdateAI", "de/d5a/a20641.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
-    [ "_checkTimer", "de/d5a/a20641.html#a196ffc443569494bed79f623dd9cdca3", null ],
-    [ "_running", "de/d5a/a20641.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
-    [ "_step", "de/d5a/a20641.html#a97244534b8c6a69807388b620df2263f", null ]
+    [ "boss_yoggsaron_immortal_guardian", "de/d5a/a20641.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "de/d5a/a20641.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "Reset", "de/d5a/a20641.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "de/d5a/a20641.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "de/d5a/a20641.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spellTimer", "de/d5a/a20641.html#a521b956c116a23523fdfceb95a42c1e2", null ],
+    [ "_visualTimer", "de/d5a/a20641.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
 ];

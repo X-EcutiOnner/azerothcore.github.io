@@ -172,24 +172,24 @@ template&lt;class T &gt; </div>
 <ul>
 <li>object will get delinked from the manager when deleted</li>
 </ul>
-<div class="fragment"><div class="line"><span class="lineno">  122</span>{</div>
-<div class="line"><span class="lineno">  123</span>    <span class="keywordflow">while</span> (!m.<a class="code hl_function" href="../../d2/da0/a05493.html#a5f450b83a615d010bedc7b0c6aa18d70">IsEmpty</a>())</div>
-<div class="line"><span class="lineno">  124</span>    {</div>
-<div class="line"><span class="lineno">  125</span>        T* obj = m.<a class="code hl_function" href="../../dc/dc6/a09393.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">getFirst</a>()-&gt;<a class="code hl_function" href="../../d2/d18/a05501.html#a95ef762721fcc58e9655c57fab05899b">GetSource</a>();</div>
-<div class="line"><span class="lineno">  126</span>        <span class="comment">// if option set then object already saved at this moment</span></div>
-<div class="line"><span class="lineno">  127</span>        <span class="comment">//if (!sWorld-&gt;getBoolConfig(CONFIG_SAVE_RESPAWN_TIME_IMMEDIATELY))</span></div>
-<div class="line"><span class="lineno">  128</span>        <span class="comment">//    obj-&gt;SaveRespawnTime();</span></div>
-<div class="line"><span class="lineno">  129</span>        <span class="comment">//Some creatures may summon other temp summons in CleanupsBeforeDelete()</span></div>
-<div class="line"><span class="lineno">  130</span>        <span class="comment">//So we need this even after cleaner (maybe we can remove cleaner)</span></div>
-<div class="line"><span class="lineno">  131</span>        <span class="comment">//Example: Flame Leviathan Turret 33139 is summoned when a creature is deleted</span></div>
-<div class="line"><span class="lineno">  132</span>        <span class="comment">//TODO: Check if that script has the correct logic. Do we really need to summons something before deleting?</span></div>
-<div class="line"><span class="lineno">  133</span>        obj-&gt;CleanupsBeforeDelete();</div>
-<div class="line"><span class="lineno">  134</span> </div>
-<div class="line"><span class="lineno">  135</span>        obj-&gt;GetMap()-&gt;RemoveObjectFromMapUpdateList(obj);</div>
-<div class="line"><span class="lineno">  136</span> </div>
-<div class="line"><span class="lineno">  138</span>        <span class="keyword">delete</span> obj;</div>
-<div class="line"><span class="lineno">  139</span>    }</div>
-<div class="line"><span class="lineno">  140</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  127</span>{</div>
+<div class="line"><span class="lineno">  128</span>    <span class="keywordflow">while</span> (!m.<a class="code hl_function" href="../../d2/da0/a05493.html#a5f450b83a615d010bedc7b0c6aa18d70">IsEmpty</a>())</div>
+<div class="line"><span class="lineno">  129</span>    {</div>
+<div class="line"><span class="lineno">  130</span>        T* obj = m.<a class="code hl_function" href="../../dc/dc6/a09393.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">getFirst</a>()-&gt;<a class="code hl_function" href="../../d2/d18/a05501.html#a95ef762721fcc58e9655c57fab05899b">GetSource</a>();</div>
+<div class="line"><span class="lineno">  131</span>        <span class="comment">// if option set then object already saved at this moment</span></div>
+<div class="line"><span class="lineno">  132</span>        <span class="comment">//if (!sWorld-&gt;getBoolConfig(CONFIG_SAVE_RESPAWN_TIME_IMMEDIATELY))</span></div>
+<div class="line"><span class="lineno">  133</span>        <span class="comment">//    obj-&gt;SaveRespawnTime();</span></div>
+<div class="line"><span class="lineno">  134</span>        <span class="comment">//Some creatures may summon other temp summons in CleanupsBeforeDelete()</span></div>
+<div class="line"><span class="lineno">  135</span>        <span class="comment">//So we need this even after cleaner (maybe we can remove cleaner)</span></div>
+<div class="line"><span class="lineno">  136</span>        <span class="comment">//Example: Flame Leviathan Turret 33139 is summoned when a creature is deleted</span></div>
+<div class="line"><span class="lineno">  137</span>        <span class="comment">//TODO: Check if that script has the correct logic. Do we really need to summons something before deleting?</span></div>
+<div class="line"><span class="lineno">  138</span>        obj-&gt;CleanupsBeforeDelete();</div>
+<div class="line"><span class="lineno">  139</span> </div>
+<div class="line"><span class="lineno">  140</span>        obj-&gt;GetMap()-&gt;RemoveObjectFromMapUpdateList(obj);</div>
+<div class="line"><span class="lineno">  141</span> </div>
+<div class="line"><span class="lineno">  143</span>        <span class="keyword">delete</span> obj;</div>
+<div class="line"><span class="lineno">  144</span>    }</div>
+<div class="line"><span class="lineno">  145</span>}</div>
 <div class="ttc" id="aa05493_html_a5f450b83a615d010bedc7b0c6aa18d70"><div class="ttname"><a href="../../d2/da0/a05493.html#a5f450b83a615d010bedc7b0c6aa18d70">LinkedListHead::IsEmpty</a></div><div class="ttdeci">bool IsEmpty() const</div><div class="ttdef"><b>Definition:</b> LinkedList.h:97</div></div>
 <div class="ttc" id="aa05501_html_a95ef762721fcc58e9655c57fab05899b"><div class="ttname"><a href="../../d2/d18/a05501.html#a95ef762721fcc58e9655c57fab05899b">Reference::GetSource</a></div><div class="ttdeci">FROM * GetSource() const</div><div class="ttdef"><b>Definition:</b> Reference.h:97</div></div>
 <div class="ttc" id="aa09393_html_aa0156c2ad3ec5ca0df6f6a4c55d71a05"><div class="ttname"><a href="../../dc/dc6/a09393.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">GridRefMgr::getFirst</a></div><div class="ttdeci">GridReference&lt; OBJECT &gt; * getFirst()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:32</div></div>
@@ -231,7 +231,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d11/a09389.html">GridObjectUnloader</a></li>
-    <li class="footer">Generated on Mon Apr 13 2026 21:28:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 20 2026 21:15:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

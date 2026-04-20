@@ -1,7 +1,6 @@
 var a27481 =
 [
-    [ "OnProc", "de/db0/a27481.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "de/db0/a27481.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "de/db0/a27481.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "de/db0/a27481.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "FilterTargets", "de/db0/a27481.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "de/db0/a27481.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "de/db0/a27481.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

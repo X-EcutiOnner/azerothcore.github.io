@@ -1,5 +1,6 @@
 var a23981 =
 [
-    [ "npc_pet_dk_dancing_rune_weapon", "de/dc5/a23981.html#ac838b907d56c97a911d7c7454c65e180", null ],
-    [ "InitializeAI", "de/dc5/a23981.html#aafeac4a22f366591d6d66b6150e099e2", null ]
+    [ "HandleDamageCalc", "de/dc5/a23981.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
+    [ "PrepareSpellScript", "de/dc5/a23981.html#a183477b6269dbc705a10e60ab36c13b1", null ],
+    [ "Register", "de/dc5/a23981.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
 ];

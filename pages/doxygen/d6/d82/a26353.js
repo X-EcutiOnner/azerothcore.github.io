@@ -1,6 +1,8 @@
 var a26353 =
 [
-    [ "HandleDummy", "d6/d82/a26353.html#a1e9ecf50304f5ccd8578befea898bf81", null ],
-    [ "PrepareSpellScript", "d6/d82/a26353.html#a9cf7d1dd37f6df4651ffc83e6aa0b1c0", null ],
-    [ "Register", "d6/d82/a26353.html#a98a5ad12cdb54f48d6014fda3915fd70", null ]
+    [ "CheckProc", "d6/d82/a26353.html#a14978c8908b7a928459c2f6ef9adfac2", null ],
+    [ "HandleProc", "d6/d82/a26353.html#ac888d49403a03aaf9a37432c3c119241", null ],
+    [ "PrepareAuraScript", "d6/d82/a26353.html#ab63e1f31dbc34dd2f44a6771631a2330", null ],
+    [ "Register", "d6/d82/a26353.html#ad88268da8fae421f76a5e644aae6b296", null ],
+    [ "Validate", "d6/d82/a26353.html#a0cdb80ee885922a9a38c0e2bea4d33af", null ]
 ];

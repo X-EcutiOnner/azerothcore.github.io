@@ -1,6 +1,6 @@
 var a26597 =
 [
-    [ "CheckDummy", "dc/dc3/a26597.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
-    [ "PrepareAuraScript", "dc/dc3/a26597.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
-    [ "Register", "dc/dc3/a26597.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
+    [ "HandleDummyEffect", "dc/dc3/a26597.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "dc/dc3/a26597.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "dc/dc3/a26597.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

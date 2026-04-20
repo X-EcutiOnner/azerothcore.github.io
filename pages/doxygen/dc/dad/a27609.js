@@ -1,6 +1,5 @@
 var a27609 =
 [
-    [ "achievement_arena_by_type", "dc/dad/a27609.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "dc/dad/a27609.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "dc/dad/a27609.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "achievement_not_even_a_scratch", "dc/dad/a27609.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "dc/dad/a27609.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

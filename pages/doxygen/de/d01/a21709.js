@@ -1,6 +1,7 @@
 var a21709 =
 [
-    [ "npc_boneguard_footmanAI", "de/d01/a21709.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "de/d01/a21709.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "de/d01/a21709.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_tirions_gambit_tirionAI", "d7/d92/a21713.html", "d7/d92/a21713" ],
+    [ "npc_tirions_gambit_tirion", "de/d01/a21709.html#ad52abd46ccdd3b4409671679434c193c", null ],
+    [ "GetAI", "de/d01/a21709.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
+    [ "OnGossipSelect", "de/d01/a21709.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
 ];

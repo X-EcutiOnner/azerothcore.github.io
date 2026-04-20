@@ -1,8 +1,10 @@
 var a26893 =
 [
-    [ "CheckCast", "d7/ddf/a26893.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
-    [ "CheckQuest", "d7/ddf/a26893.html#abc927d932c1d5e05eab1918364d68ed5", null ],
-    [ "HandleActiveObject", "d7/ddf/a26893.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
-    [ "PrepareSpellScript", "d7/ddf/a26893.html#a96e69476965cc2466213a5371a57093a", null ],
-    [ "Register", "d7/ddf/a26893.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
+    [ "Absorb", "d7/ddf/a26893.html#aedee311aa77597674b3665eaf74e98c8", null ],
+    [ "CalculateAmount", "d7/ddf/a26893.html#a5fdabb367ab86589d733d1da906446ab", null ],
+    [ "Load", "d7/ddf/a26893.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
+    [ "PrepareAuraScript", "d7/ddf/a26893.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
+    [ "Register", "d7/ddf/a26893.html#abfc540163e9eb34cbf8a48d39bede840", null ],
+    [ "Validate", "d7/ddf/a26893.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
+    [ "absorbChance", "d7/ddf/a26893.html#a293be81af42d810126eda35b1d27e3bc", null ]
 ];

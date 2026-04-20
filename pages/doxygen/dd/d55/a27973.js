@@ -1,6 +1,5 @@
 var a27973 =
 [
-    [ "guard_shattrath_aldorAI", "d8/da6/a27977.html", "d8/da6/a27977" ],
-    [ "guard_shattrath_aldor", "dd/d55/a27973.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "dd/d55/a27973.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "item_petrov_cluster_bombs", "dd/d55/a27973.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "dd/d55/a27973.html#a14e8a00a532b5aebc8469ff538848f53", null ]
 ];

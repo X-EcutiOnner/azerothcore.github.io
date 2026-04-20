@@ -1,6 +1,5 @@
 var a28229 =
 [
-    [ "npc_stable_masterAI", "d2/dfb/a28233.html", "d2/dfb/a28233" ],
-    [ "npc_stable_master", "da/dd4/a28229.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "da/dd4/a28229.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_controller", "da/dd4/a28229.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "da/dd4/a28229.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

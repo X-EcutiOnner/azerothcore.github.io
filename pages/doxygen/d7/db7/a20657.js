@@ -1,8 +1,10 @@
 var a20657 =
 [
-    [ "OnApply", "d7/db7/a20657.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "d7/db7/a20657.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "d7/db7/a20657.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "d7/db7/a20657.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "d7/db7/a20657.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_voice", "d7/db7/a20657.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
+    [ "Reset", "d7/db7/a20657.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "d7/db7/a20657.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "d7/db7/a20657.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "d7/db7/a20657.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "d7/db7/a20657.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "d7/db7/a20657.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

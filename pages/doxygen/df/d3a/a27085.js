@@ -1,8 +1,7 @@
 var a27085 =
 [
-    [ "Apply", "df/d3a/a27085.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "df/d3a/a27085.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "df/d3a/a27085.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "df/d3a/a27085.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "df/d3a/a27085.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "HandleDummy", "df/d3a/a27085.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
+    [ "PrepareSpellScript", "df/d3a/a27085.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
+    [ "Register", "df/d3a/a27085.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
+    [ "Validate", "df/d3a/a27085.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
 ];

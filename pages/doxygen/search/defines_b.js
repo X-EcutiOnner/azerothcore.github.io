@@ -9,12 +9,11 @@ var searchData=
   ['load_5fdbc_6',['LOAD_DBC',['../db/d1c/a01229.html#a12fc54e4657cae3a3e84be6e33305257',1,'DBCStores.cpp']]],
   ['log_5fdebug_7',['LOG_DEBUG',['../d0/da8/a04547.html#a47ac782b14a7531c6232777165a1a161',1,'Log.h']]],
   ['log_5ferror_8',['LOG_ERROR',['../d0/da8/a04547.html#a43832e3fa8508deb4ce43e520005fcd9',1,'Log.h']]],
-  ['log_5fexception_5ffree_9',['LOG_EXCEPTION_FREE',['../d0/da8/a04547.html#aa30f9aa89655372730e1d6fec2e40c5e',1,'Log.h']]],
-  ['log_5ffatal_10',['LOG_FATAL',['../d0/da8/a04547.html#a0e09b50c268dc6897a1c70aa46de936e',1,'Log.h']]],
-  ['log_5fgm_11',['LOG_GM',['../d0/da8/a04547.html#aeeb132f13796dfa459eb05386acff8fe',1,'Log.h']]],
-  ['log_5finfo_12',['LOG_INFO',['../d0/da8/a04547.html#a271e427d8e8481efd5cd5f537ec9e419',1,'Log.h']]],
-  ['log_5fmessage_5fbody_13',['LOG_MESSAGE_BODY',['../d0/da8/a04547.html#a1ce833e7403b29687774e0539da6f4b9',1,'Log.h']]],
-  ['log_5ftrace_14',['LOG_TRACE',['../d0/da8/a04547.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5',1,'Log.h']]],
-  ['log_5fwarn_15',['LOG_WARN',['../d0/da8/a04547.html#adf09840a666e1d86bcd3439105db6edc',1,'Log.h']]],
-  ['logger_5froot_16',['LOGGER_ROOT',['../d0/da8/a04547.html#a6f9b401329ff7cf191e6b1801caeb441',1,'Log.h']]]
+  ['log_5ffatal_9',['LOG_FATAL',['../d0/da8/a04547.html#a0e09b50c268dc6897a1c70aa46de936e',1,'Log.h']]],
+  ['log_5fgm_10',['LOG_GM',['../d0/da8/a04547.html#aeeb132f13796dfa459eb05386acff8fe',1,'Log.h']]],
+  ['log_5finfo_11',['LOG_INFO',['../d0/da8/a04547.html#a271e427d8e8481efd5cd5f537ec9e419',1,'Log.h']]],
+  ['log_5fmessage_5fbody_12',['LOG_MESSAGE_BODY',['../d0/da8/a04547.html#a1ce833e7403b29687774e0539da6f4b9',1,'Log.h']]],
+  ['log_5ftrace_13',['LOG_TRACE',['../d0/da8/a04547.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5',1,'Log.h']]],
+  ['log_5fwarn_14',['LOG_WARN',['../d0/da8/a04547.html#adf09840a666e1d86bcd3439105db6edc',1,'Log.h']]],
+  ['logger_5froot_15',['LOGGER_ROOT',['../d0/da8/a04547.html#a6f9b401329ff7cf191e6b1801caeb441',1,'Log.h']]]
 ];

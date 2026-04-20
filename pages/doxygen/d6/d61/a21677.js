@@ -1,5 +1,7 @@
 var a21677 =
 [
-    [ "npc_black_knight_graveyardAI", "d6/d61/a21677.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "d6/d61/a21677.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "npc_battle_at_valhalasAI", "d2/d8b/a21681.html", "d2/d8b/a21681" ],
+    [ "npc_battle_at_valhalas", "d6/d61/a21677.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "d6/d61/a21677.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "d6/d61/a21677.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

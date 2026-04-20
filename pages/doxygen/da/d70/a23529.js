@@ -1,16 +1,7 @@
 var a23529 =
 [
-    [ "instance_the_eye_InstanceMapScript", "da/d70/a23529.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
-    [ "GetGuidData", "da/d70/a23529.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
-    [ "OnCreatureCreate", "da/d70/a23529.html#a8a89f56945022e34cc5d9ead06a58b63", null ],
-    [ "OnGameObjectCreate", "da/d70/a23529.html#a56c6933c2c231c228ca147107fbfc930", null ],
-    [ "AlarGUID", "da/d70/a23529.html#a2a5323d92963da3b4b99ef1f7debaa4d", null ],
-    [ "BridgeWindowGUID", "da/d70/a23529.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
-    [ "GrandAstromancerCapernianGUID", "da/d70/a23529.html#aa8e267617231a7816a43e9957c745c58", null ],
-    [ "KaelStateLeftGUID", "da/d70/a23529.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
-    [ "KaelStateRightGUID", "da/d70/a23529.html#a25ba703325800d2976eff860437f3d57", null ],
-    [ "KaelthasGUID", "da/d70/a23529.html#a547528fbfe31974759b0e6fbdf12df31", null ],
-    [ "LordSanguinarGUID", "da/d70/a23529.html#a5794e1c326ad2eb4fee2bdfab8261257", null ],
-    [ "MasterEngineerTelonicusGUID", "da/d70/a23529.html#abded7dc13c226ccad53c151d75ced243", null ],
-    [ "ThaladredTheDarkenerGUID", "da/d70/a23529.html#ada64ef9f71d61ea19144cec596ba06e2", null ]
+    [ "boss_gatewatcher_gyrokill", "da/d70/a23529.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "da/d70/a23529.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "da/d70/a23529.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "da/d70/a23529.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

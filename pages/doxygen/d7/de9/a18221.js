@@ -1,6 +1,6 @@
 var a18221 =
 [
-    [ "npc_precious_iccAI", "d6/dca/a18225.html", "d6/dca/a18225" ],
-    [ "npc_precious_icc", "d7/de9/a18221.html#a463eb0df1edb17e154658dac131f0898", null ],
-    [ "GetAI", "d7/de9/a18221.html#aa63840c5968a089bff41dcd9c86d5849", null ]
+    [ "DespawnSelf", "d7/de9/a18221.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d7/de9/a18221.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d7/de9/a18221.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

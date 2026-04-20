@@ -1,10 +1,6 @@
 var a26481 =
 [
-    [ "Absorb", "da/d3d/a26481.html#ab4006b00d415a94e6a49856cee7e272b", null ],
-    [ "CalculateAmount", "da/d3d/a26481.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
-    [ "Load", "da/d3d/a26481.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
-    [ "PrepareAuraScript", "da/d3d/a26481.html#a456c1bd5b284f642d1e040de52eee24b", null ],
-    [ "Register", "da/d3d/a26481.html#a905994099dcc4ac9512d5f27b78a778c", null ],
-    [ "Validate", "da/d3d/a26481.html#ad99966111a1919c610a942a8eb133ea1", null ],
-    [ "healPct", "da/d3d/a26481.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
+    [ "FilterTargets", "da/d3d/a26481.html#a23c7b977f7e213322b3702367d6a28c7", null ],
+    [ "PrepareSpellScript", "da/d3d/a26481.html#a7000b2fd940c914933c486e847932b62", null ],
+    [ "Register", "da/d3d/a26481.html#a870ee08d0341f6640710a87c97a6b98b", null ]
 ];

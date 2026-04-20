@@ -1,7 +1,7 @@
 var a19453 =
 [
-    [ "npc_eoe_wyrmrest_skytalon", "d1/dd3/a19453.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
-    [ "IsSummonedBy", "d1/dd3/a19453.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
-    [ "JustDied", "d1/dd3/a19453.html#a65df31829e801154ee20d55ad1c15721", null ],
-    [ "PassengerBoarded", "d1/dd3/a19453.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
+    [ "npc_alexstrasza", "d1/dd3/a19453.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
+    [ "AttackStart", "d1/dd3/a19453.html#ab47f439968b7e9358158eae3e31f4e29", null ],
+    [ "MoveInLineOfSight", "d1/dd3/a19453.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
+    [ "UpdateAI", "d1/dd3/a19453.html#aec1c93eee408ecefbceec22be4b90dba", null ]
 ];

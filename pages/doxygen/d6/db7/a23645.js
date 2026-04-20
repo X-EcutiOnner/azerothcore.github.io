@@ -1,7 +1,6 @@
 var a23645 =
 [
-    [ "HandleDummy", "d6/db7/a23645.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d6/db7/a23645.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d6/db7/a23645.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d6/db7/a23645.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_aeranasAI", "dc/ddc/a23649.html", "dc/ddc/a23649" ],
+    [ "npc_aeranas", "d6/db7/a23645.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "d6/db7/a23645.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

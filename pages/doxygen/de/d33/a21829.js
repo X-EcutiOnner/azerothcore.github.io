@@ -1,7 +1,10 @@
 var a21829 =
 [
-    [ "npc_engineer_heliceAI", "dd/d09/a21833.html", "dd/d09/a21833" ],
-    [ "npc_engineer_helice", "de/d33/a21829.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "de/d33/a21829.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "de/d33/a21829.html#ae0979d68744372d5d4669b6f014eb123", null ]
+    [ "npc_engineer_heliceAI", "de/d33/a21829.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "de/d33/a21829.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "de/d33/a21829.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "de/d33/a21829.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "de/d33/a21829.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "WaypointReached", "de/d33/a21829.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "m_uiChatTimer", "de/d33/a21829.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

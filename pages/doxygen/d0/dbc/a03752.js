@@ -1,6 +1,6 @@
 var a03752 =
 [
-    [ "boss_heigan", "d7/d2b/a19265.html", "d7/d2b/a19265" ],
+    [ "boss_heigan", "d3/d9f/a19269.html", "d3/d9f/a19269" ],
     [ "Events", "d0/dbc/a03752.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

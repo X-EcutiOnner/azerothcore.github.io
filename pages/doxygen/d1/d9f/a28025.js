@@ -1,10 +1,11 @@
 var a28025 =
 [
-    [ "npc_prof_blacksmith", "d1/d9f/a28025.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d1/d9f/a28025.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d1/d9f/a28025.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d1/d9f/a28025.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d1/d9f/a28025.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d1/d9f/a28025.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d1/d9f/a28025.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "npc_artoriusAI", "d1/d9f/a28025.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "d1/d9f/a28025.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "d1/d9f/a28025.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "d1/d9f/a28025.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "d1/d9f/a28025.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "d1/d9f/a28025.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "d1/d9f/a28025.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "d1/d9f/a28025.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

@@ -1,7 +1,6 @@
 var a27105 =
 [
-    [ "HandleDispel", "de/d7d/a27105.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
-    [ "PrepareAuraScript", "de/d7d/a27105.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
-    [ "Register", "de/d7d/a27105.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
-    [ "Validate", "de/d7d/a27105.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
+    [ "CheckProc", "de/d7d/a27105.html#a3b98aef2d745773a55ac10daded629e7", null ],
+    [ "PrepareAuraScript", "de/d7d/a27105.html#ab49dc1c178c4089fe8f708da3cd22bf2", null ],
+    [ "Register", "de/d7d/a27105.html#a5c0c53a39fdc770f8c6e9a86cd87c74a", null ]
 ];

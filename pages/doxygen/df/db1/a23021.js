@@ -1,6 +1,6 @@
 var a23021 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "df/dad/a23025.html", "df/dad/a23025" ],
-    [ "instance_steam_vault", "df/db1/a23021.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "df/db1/a23021.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "instance_steam_vault_InstanceMapScript", "df/db1/a23021.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "df/db1/a23021.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "df/db1/a23021.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

@@ -1,5 +1,9 @@
 var a22065 =
 [
-    [ "achievement_wg_within_our_grasp", "dc/d3f/a22065.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "dc/d3f/a22065.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "npc_finklesteinAI", "dc/d7b/a22069.html", "dc/d7b/a22069" ],
+    [ "npc_finklestein", "dc/d3f/a22065.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "dc/d3f/a22065.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "dc/d3f/a22065.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "dc/d3f/a22065.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "dc/d3f/a22065.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

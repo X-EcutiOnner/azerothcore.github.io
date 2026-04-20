@@ -1,4 +1,7 @@
 var a28717 =
 [
-    [ "ID", "db/d0c/a28717.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
+    [ "EmoteType", "db/d0c/a28717.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "db/d0c/a28717.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "db/d0c/a28717.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "db/d0c/a28717.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

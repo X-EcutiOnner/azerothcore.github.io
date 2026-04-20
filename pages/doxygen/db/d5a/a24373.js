@@ -1,7 +1,7 @@
 var a24373 =
 [
-    [ "OnRemove", "db/d5a/a24373.html#aae9f02415a256ce01b81c3dd6fdafb33", null ],
-    [ "PrepareAuraScript", "db/d5a/a24373.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "db/d5a/a24373.html#a6c105609c1ee61a8f845018550b2e3ba", null ],
-    [ "Validate", "db/d5a/a24373.html#ac1f03d22c5fdb1c07a0e0859e08bd561", null ]
+    [ "HandleProc", "db/d5a/a24373.html#ae8764fc6c284a13f610e55933b24102e", null ],
+    [ "PrepareAuraScript", "db/d5a/a24373.html#a9ea55387324cbcecc72b82a58bcd9a48", null ],
+    [ "Register", "db/d5a/a24373.html#ae65e0a22aab9802ed869b7fb6e823d9e", null ],
+    [ "Validate", "db/d5a/a24373.html#aafa30eef7a8c8aac3699edc4afb97f19", null ]
 ];

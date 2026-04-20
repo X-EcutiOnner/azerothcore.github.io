@@ -1,9 +1,6 @@
 var a21325 =
 [
-    [ "npc_archmage_landalockAI", "de/d5e/a21325.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "de/d5e/a21325.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "de/d5e/a21325.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "de/d5e/a21325.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "de/d5e/a21325.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "de/d5e/a21325.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "npc_mageguard_dalaranAI", "df/d88/a21329.html", "df/d88/a21329" ],
+    [ "npc_mageguard_dalaran", "de/d5e/a21325.html#a0cec4f232b665325c421cecb5839885f", null ],
+    [ "GetAI", "de/d5e/a21325.html#a10cbddceb53a2d432da2224128c59b28", null ]
 ];

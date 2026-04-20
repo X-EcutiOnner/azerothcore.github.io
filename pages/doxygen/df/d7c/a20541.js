@@ -1,12 +1,6 @@
 var a20541 =
 [
-    [ "npc_xt002_boombot", "df/d7c/a20541.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
-    [ "DamageTaken", "df/d7c/a20541.html#a6686960dcf9050c62f707f80f8e378e9", null ],
-    [ "Explode", "df/d7c/a20541.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
-    [ "JustDied", "df/d7c/a20541.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
-    [ "MovementInform", "df/d7c/a20541.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
-    [ "Reset", "df/d7c/a20541.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
-    [ "UpdateAI", "df/d7c/a20541.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
-    [ "_boomed", "df/d7c/a20541.html#a4307aaf92856d146095497cf74ef3e67", null ],
-    [ "_locked", "df/d7c/a20541.html#ad46600f129729931422b5c9c70568e3f", null ]
+    [ "BoomEvent", "df/d7c/a20541.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
+    [ "Execute", "df/d7c/a20541.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
+    [ "_me", "df/d7c/a20541.html#a30de77ee751f1c10231088cb84942342", null ]
 ];

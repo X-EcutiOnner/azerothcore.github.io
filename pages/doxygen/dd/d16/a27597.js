@@ -1,5 +1,5 @@
 var a27597 =
 [
-    [ "achievement_bg_ic_glaive_grave", "dd/d16/a27597.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "dd/d16/a27597.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "achievement_bg_av_perfection", "dd/d16/a27597.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "dd/d16/a27597.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

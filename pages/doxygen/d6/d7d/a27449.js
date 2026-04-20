@@ -1,7 +1,7 @@
 var a27449 =
 [
-    [ "HandleApplyAura", "d6/d7d/a27449.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d6/d7d/a27449.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d6/d7d/a27449.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d6/d7d/a27449.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "HandleDummy", "d6/d7d/a27449.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "d6/d7d/a27449.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "d6/d7d/a27449.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "d6/d7d/a27449.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

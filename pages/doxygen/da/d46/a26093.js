@@ -1,6 +1,6 @@
 var a26093 =
 [
-    [ "CheckProc", "da/d46/a26093.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
-    [ "PrepareAuraScript", "da/d46/a26093.html#a9c88f86a4edafda286725008ecfeab6c", null ],
-    [ "Register", "da/d46/a26093.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
+    [ "OnRemove", "da/d46/a26093.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "da/d46/a26093.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "da/d46/a26093.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

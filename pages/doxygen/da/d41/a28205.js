@@ -1,6 +1,6 @@
 var a28205 =
 [
-    [ "npc_locksmith", "da/d41/a28205.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "da/d41/a28205.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "da/d41/a28205.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "npc_stable_masterAI", "d1/ddf/a28209.html", "d1/ddf/a28209" ],
+    [ "npc_stable_master", "da/d41/a28205.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "da/d41/a28205.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

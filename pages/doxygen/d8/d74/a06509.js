@@ -19,6 +19,7 @@ var a06509 =
     [ "IsEscortNPC", "d8/d74/a06509.html#a78f5579b0858eef176b750647986fee2", null ],
     [ "IsPlayerOrGroupInRange", "d8/d74/a06509.html#a648799d00219673bd974e08e1176c495", null ],
     [ "JustDied", "d8/d74/a06509.html#ae25140568b7dccf0ab73aa87452bd985", null ],
+    [ "JustExitedCombat", "d8/d74/a06509.html#a8d9bd969ac4c081250b5cce16eb688a6", null ],
     [ "JustRespawned", "d8/d74/a06509.html#ac0b0fe06c694cbc0490fa3965c7c38ee", null ],
     [ "MoveInLineOfSight", "d8/d74/a06509.html#ac2cf14b3755ee8fae2e3269dcd86806a", null ],
     [ "MovementInform", "d8/d74/a06509.html#a7072858f20dfe0cab0c873a730912853", null ],

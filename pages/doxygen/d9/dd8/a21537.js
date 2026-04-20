@@ -1,7 +1,7 @@
 var a21537 =
 [
-    [ "OnRemove", "d9/dd8/a21537.html#a335bc64860227122e0536f61144e2003", null ],
-    [ "PrepareAuraScript", "d9/dd8/a21537.html#ae38bdeb74493f73bed1246c011bb2076", null ],
-    [ "Register", "d9/dd8/a21537.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
-    [ "Validate", "d9/dd8/a21537.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
+    [ "npc_emilyAI", "d5/de1/a21541.html", "d5/de1/a21541" ],
+    [ "npc_emily", "d9/dd8/a21537.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d9/dd8/a21537.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d9/dd8/a21537.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

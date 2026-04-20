@@ -1,6 +1,6 @@
 var a17817 =
 [
-    [ "npc_gunship_mageAI", "d4/d52/a17821.html", "d4/d52/a17821" ],
-    [ "npc_gunship_mage", "d2/dbd/a17817.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
-    [ "GetAI", "d2/dbd/a17817.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
+    [ "npc_gunship_boarding_add_realAI", "d2/dbd/a17817.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "d2/dbd/a17817.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "d2/dbd/a17817.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

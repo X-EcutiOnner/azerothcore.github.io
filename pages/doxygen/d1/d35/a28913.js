@@ -1,5 +1,8 @@
 var a28913 =
 [
-    [ "Exp", "d1/d35/a28913.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "d1/d35/a28913.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "canLink", "d1/d35/a28913.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "d1/d35/a28913.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "d1/d35/a28913.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "d1/d35/a28913.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "d1/d35/a28913.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

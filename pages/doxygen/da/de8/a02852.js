@@ -1,6 +1,6 @@
 var a02852 =
 [
-    [ "boss_zereketh_the_unbound", "d7/d2d/a23357.html", "d7/d2d/a23357" ],
+    [ "boss_zereketh_the_unbound", "d6/df7/a23353.html", "d6/df7/a23353" ],
     [ "Say", "da/de8/a02852.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d2/d94/a03167.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "d2/d94/a03167.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],

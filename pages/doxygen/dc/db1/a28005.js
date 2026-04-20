@@ -1,5 +1,7 @@
 var a28005 =
 [
-    [ "item_generic_limit_chance_above_60", "dc/db1/a28005.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "dc/db1/a28005.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "npc_engineering_tele_trinket", "dc/db1/a28005.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "dc/db1/a28005.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "dc/db1/a28005.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "dc/db1/a28005.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

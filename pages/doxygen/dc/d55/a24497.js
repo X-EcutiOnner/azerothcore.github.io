@@ -1,10 +1,8 @@
 var a24497 =
 [
-    [ "Load", "dc/d55/a24497.html#a2c4e408e45995098b01a05815fffb34c", null ],
-    [ "OnApply", "dc/d55/a24497.html#acae1047046bb8f555d1798ca024a2650", null ],
-    [ "OnRemove", "dc/d55/a24497.html#aa01df2b86cf69508866f6e7d063c735a", null ],
-    [ "PrepareAuraScript", "dc/d55/a24497.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
-    [ "Register", "dc/d55/a24497.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
-    [ "Validate", "dc/d55/a24497.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
-    [ "_casterGUID", "dc/d55/a24497.html#a8047fb4309487c7a529047ec5148a2e3", null ]
+    [ "CheckProc", "dc/d55/a24497.html#a465402287949b12e5f4a4fe5405c32ce", null ],
+    [ "HandleProc", "dc/d55/a24497.html#a11329d2093e30e91d7582c5eb34228ab", null ],
+    [ "PrepareAuraScript", "dc/d55/a24497.html#a0c17de6a23adf74e32cf7c50b09762fc", null ],
+    [ "Register", "dc/d55/a24497.html#ade6720401687c7ad102e51572351705c", null ],
+    [ "Validate", "dc/d55/a24497.html#a71c224e13289673e5d2ed700cde6cd6a", null ]
 ];

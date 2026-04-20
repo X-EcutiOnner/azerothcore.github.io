@@ -1,9 +1,13 @@
 var a20093 =
 [
-    [ "boss_freya_nature_bomb", "da/db7/a20093.html#a050672942ab467557d21a930ab22827c", null ],
-    [ "Reset", "da/db7/a20093.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
-    [ "UpdateAI", "da/db7/a20093.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
-    [ "_explodeTimer", "da/db7/a20093.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
-    [ "_goGUID", "da/db7/a20093.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
-    [ "Timer", "da/db7/a20093.html#affadb797817ddf512209d1d71097baf3", null ]
+    [ "boss_freya_summons", "da/db7/a20093.html#a1d53e3d32307347532f96ca2b27734cb", null ],
+    [ "DoAction", "da/db7/a20093.html#aa8e03a2aced95f104e6714a469bf2de3", null ],
+    [ "JustDied", "da/db7/a20093.html#a15d9b71a31a840917b449c0094049e00", null ],
+    [ "JustEngagedWith", "da/db7/a20093.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
+    [ "Reset", "da/db7/a20093.html#af7e842a7bc2be806816a942026670d71", null ],
+    [ "UpdateAI", "da/db7/a20093.html#abc3634dce208478e82d3c9bb19d222df", null ],
+    [ "_hasDied", "da/db7/a20093.html#a145f46cfda95e50fa30c98581a30de9e", null ],
+    [ "_isTrio", "da/db7/a20093.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
+    [ "_stackCount", "da/db7/a20093.html#af1c54be4cab9c465ae9bf04427050d7a", null ],
+    [ "events", "da/db7/a20093.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
 ];

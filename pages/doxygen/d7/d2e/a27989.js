@@ -1,5 +1,8 @@
 var a27989 =
 [
-    [ "item_mysterious_egg", "d7/d2e/a27989.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "d7/d2e/a27989.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "trigger_periodicAI", "d7/d2e/a27989.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "d7/d2e/a27989.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "d7/d2e/a27989.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "d7/d2e/a27989.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "d7/d2e/a27989.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

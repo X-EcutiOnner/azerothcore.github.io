@@ -1,6 +1,5 @@
 var a27905 =
 [
-    [ "go_bashir_crystalforge", "df/d3c/a27905.html#a8b68a63933e14d82198580912fddc280", null ],
-    [ "OnGossipHello", "df/d3c/a27905.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
-    [ "OnGossipSelect", "df/d3c/a27905.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
+    [ "go_soulwellAI", "df/d3c/a27905.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "df/d3c/a27905.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

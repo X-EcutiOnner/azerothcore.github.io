@@ -1,15 +1,7 @@
 var a22309 =
 [
-    [ "boss_grandmaster_vorpil", "df/ded/a22309.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
-    [ "counterVoidSpawns", "df/ded/a22309.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
-    [ "JustDied", "df/ded/a22309.html#ab492fff8a9a275c662b44eeff3300b90", null ],
-    [ "JustEngagedWith", "df/ded/a22309.html#af1e6da02cd33742efad568424cf32c4f", null ],
-    [ "JustSummoned", "df/ded/a22309.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
-    [ "KilledUnit", "df/ded/a22309.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
-    [ "MoveInLineOfSight", "df/ded/a22309.html#adb24a3d337b64f37759a3a39802d7e27", null ],
-    [ "Reset", "df/ded/a22309.html#a6471121ee02a834591b36d03fae28672", null ],
-    [ "spawnVoidTraveler", "df/ded/a22309.html#aa842bc3d88d0a3a411dcba3711809956", null ],
-    [ "summonPortals", "df/ded/a22309.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
-    [ "sayHelp", "df/ded/a22309.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
-    [ "sayIntro", "df/ded/a22309.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
+    [ "npc_voidtraveler", "df/ded/a22309.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "df/ded/a22309.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "df/ded/a22309.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "df/ded/a22309.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

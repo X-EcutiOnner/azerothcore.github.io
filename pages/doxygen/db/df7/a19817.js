@@ -1,6 +1,9 @@
 var a19817 =
 [
-    [ "npc_collapsing_star", "db/df7/a19817.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
-    [ "DamageTaken", "db/df7/a19817.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
-    [ "JustSummoned", "db/df7/a19817.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
+    [ "npc_brann_bronzebeard_algalon", "db/df7/a19817.html#ac00755dca7e187b55516be889386c499", null ],
+    [ "DoAction", "db/df7/a19817.html#a6d44478868a74ed7baac757258334806", null ],
+    [ "MovementInform", "db/df7/a19817.html#a33af1a38ab2827aec38f95e57e54f589", null ],
+    [ "UpdateAI", "db/df7/a19817.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
+    [ "_currentPoint", "db/df7/a19817.html#a5403badf59f96111aefaddf78379e65f", null ],
+    [ "events", "db/df7/a19817.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
 ];

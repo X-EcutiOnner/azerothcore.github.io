@@ -158,7 +158,7 @@ var a10701 =
     [ "OnPlayerRemoveFromBattleground", "d3/dba/a10701.html#a74fcd7575a5ef26db28f411779336a19", null ],
     [ "OnPlayerReputationChange", "d3/dba/a10701.html#a9ab15f7d630448eb438fa09340c49764", null ],
     [ "OnPlayerReputationRankChange", "d3/dba/a10701.html#a29461fafa9ee3f5781e8cdc4204f4a07", null ],
-    [ "OnPlayerResurrect", "d3/dba/a10701.html#a3031e35fdc06606d7d9b6de18fd08d7d", null ],
+    [ "OnPlayerResurrect", "d3/dba/a10701.html#a9b9596adaf58dc5e2384cfdb3216a801", null ],
     [ "OnPlayerRewardKillRewarder", "d3/dba/a10701.html#af395a893e54efeb4493f80c945be512e", null ],
     [ "OnPlayerSave", "d3/dba/a10701.html#adf5e7994101d601bc3da89b7a7b65789", null ],
     [ "OnPlayerSendInitialPacketsBeforeAddToMap", "d3/dba/a10701.html#adf7e18448a0b2bd7bf665f758ddd9dea", null ],

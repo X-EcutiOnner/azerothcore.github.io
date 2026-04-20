@@ -1,6 +1,6 @@
 var a21009 =
 [
-    [ "boss_koralonAI", "d3/d3d/a21013.html", "d3/d3d/a21013" ],
-    [ "boss_koralon", "df/d91/a21009.html#a43b9fb1224abeba44080fb02062451b0", null ],
-    [ "GetAI", "df/d91/a21009.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
+    [ "HandleOnHit", "df/d91/a21009.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "df/d91/a21009.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "df/d91/a21009.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

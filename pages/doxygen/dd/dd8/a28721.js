@@ -1,5 +1,5 @@
 var a28721 =
 [
-    [ "BitIndex", "dd/dd8/a28721.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
-    [ "ItemId", "dd/dd8/a28721.html#a998c1f6dadb823fbba56bb2154396635", null ]
+    [ "Id", "dd/dd8/a28721.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
+    [ "textid", "dd/dd8/a28721.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
 ];

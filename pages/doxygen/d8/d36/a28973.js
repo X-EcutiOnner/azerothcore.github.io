@@ -1,7 +1,8 @@
 var a28973 =
 [
-    [ "ID", "d8/d36/a28973.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d8/d36/a28973.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d8/d36/a28973.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d8/d36/a28973.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "Color", "d8/d36/a28973.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "d8/d36/a28973.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "d8/d36/a28973.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "d8/d36/a28973.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "d8/d36/a28973.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

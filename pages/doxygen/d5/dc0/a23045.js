@@ -1,6 +1,6 @@
 var a23045 =
 [
-    [ "HandlePeriodic", "d5/dc0/a23045.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "d5/dc0/a23045.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "d5/dc0/a23045.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "HandleScript", "d5/dc0/a23045.html#ae45f8a366c1594d3723b83ee6e006957", null ],
+    [ "PrepareSpellScript", "d5/dc0/a23045.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
+    [ "Register", "d5/dc0/a23045.html#a6b9e449a64747f0a5715424295b1c30f", null ]
 ];

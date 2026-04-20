@@ -1,6 +1,9 @@
 var a20629 =
 [
-    [ "boss_yoggsaron_descend_portal", "d5/dcd/a20629.html#aa64788351819e9c7f5505c929818770d", null ],
-    [ "OnSpellClick", "d5/dcd/a20629.html#af72e8c3611b5e134e39ab9695405e08e", null ],
-    [ "_instance", "d5/dcd/a20629.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
+    [ "boss_yoggsaron_keeper", "d5/dcd/a20629.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "d5/dcd/a20629.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "d5/dcd/a20629.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "d5/dcd/a20629.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "d5/dcd/a20629.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "d5/dcd/a20629.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

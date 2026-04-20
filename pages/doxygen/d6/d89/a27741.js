@@ -1,6 +1,9 @@
 var a27741 =
 [
-    [ "boss_taerarAI", "d3/dd1/a27745.html", "d3/dd1/a27745" ],
-    [ "boss_taerar", "d6/d89/a27741.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "d6/d89/a27741.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "ChatLogScript", "d6/d89/a27741.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "d6/d89/a27741.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "d6/d89/a27741.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "d6/d89/a27741.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "d6/d89/a27741.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "d6/d89/a27741.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

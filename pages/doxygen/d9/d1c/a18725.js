@@ -1,6 +1,7 @@
 var a18725 =
 [
-    [ "npc_suppresserAI", "d5/dea/a18729.html", "d5/dea/a18729" ],
-    [ "npc_suppresser", "d9/d1c/a18725.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d9/d1c/a18725.html#a48869515abbac1491337a93b987231da", null ]
+    [ "npc_blazing_skeletonAI", "d9/d1c/a18725.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "d9/d1c/a18725.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "d9/d1c/a18725.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "d9/d1c/a18725.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

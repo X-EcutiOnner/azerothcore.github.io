@@ -1,8 +1,6 @@
 var a25381 =
 [
-    [ "CheckProc", "d1/d15/a25381.html#adbd524ef767a8b5cde13a5358969e344", null ],
-    [ "HandleProc", "d1/d15/a25381.html#ab208e39ea63158688a6a028696b9adc5", null ],
-    [ "PrepareAuraScript", "d1/d15/a25381.html#ad078ad76f0d0f88b9d52c88127d1aae7", null ],
-    [ "Register", "d1/d15/a25381.html#a834868e504beece0ce5e1e1745f96f63", null ],
-    [ "Validate", "d1/d15/a25381.html#a779b560a877ac0e731fe50c25af3d4d9", null ]
+    [ "HandleItemRemove", "d1/d15/a25381.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
+    [ "PrepareSpellScript", "d1/d15/a25381.html#a8b43e146724a2c8b3c495e886a79d021", null ],
+    [ "Register", "d1/d15/a25381.html#af8b02c31b81dce516ea47d6a1235d683", null ]
 ];

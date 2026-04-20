@@ -1,8 +1,8 @@
 var a28069 =
 [
-    [ "npc_nelsonAI", "db/df8/a28073.html", "db/df8/a28073" ],
-    [ "npc_nelson", "df/d81/a28069.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "df/d81/a28069.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "df/d81/a28069.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "df/d81/a28069.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "npc_elder_clearwaterAI", "db/df8/a28073.html", "db/df8/a28073" ],
+    [ "npc_elder_clearwater", "df/d81/a28069.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "df/d81/a28069.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "df/d81/a28069.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "df/d81/a28069.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

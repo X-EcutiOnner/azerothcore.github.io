@@ -1,6 +1,8 @@
 var a20921 =
 [
-    [ "CanBeAppliedOn", "d6/d74/a20921.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
-    [ "PrepareAuraScript", "d6/d74/a20921.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
-    [ "Register", "d6/d74/a20921.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
+    [ "FilterTargets", "d6/d74/a20921.html#a028ef84c884536a28650ace1e56f8061", null ],
+    [ "HandleScript", "d6/d74/a20921.html#a16466b4c07c06c57493082b0e84b3c66", null ],
+    [ "PrepareSpellScript", "d6/d74/a20921.html#ad43892487ca38342a61522548b34cd2c", null ],
+    [ "Register", "d6/d74/a20921.html#a90470761baccdcf8c5430006004abf29", null ],
+    [ "Validate", "d6/d74/a20921.html#a1664dcb92887f6974e1750472c02d168", null ]
 ];

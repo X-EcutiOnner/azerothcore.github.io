@@ -1,5 +1,5 @@
 var a27917 =
 [
-    [ "go_jotunheim_cage", "d1/dc0/a27917.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "d1/dc0/a27917.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "go_hive_pod", "d1/dc0/a27917.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "d1/dc0/a27917.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

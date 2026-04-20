@@ -1,7 +1,8 @@
 var a21153 =
 [
-    [ "npc_azure_captain", "d0/d0d/a21153.html#abbdba89267506b8dd1e93ea0e059979c", null ],
-    [ "Reset", "d0/d0d/a21153.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
-    [ "UpdateAI", "d0/d0d/a21153.html#a9aacf1533414ade27973ddcc46434978", null ],
-    [ "_events", "d0/d0d/a21153.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
+    [ "npc_azure_sorceror", "d0/d0d/a21153.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "d0/d0d/a21153.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "d0/d0d/a21153.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "d0/d0d/a21153.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "d0/d0d/a21153.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

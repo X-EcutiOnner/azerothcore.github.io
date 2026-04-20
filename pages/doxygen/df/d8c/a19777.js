@@ -1,8 +1,7 @@
 var a19777 =
 [
-    [ "brann_bronzebeardAI", "de/d35/a19781.html", "de/d35/a19781" ],
-    [ "brann_bronzebeard", "df/d8c/a19777.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "df/d8c/a19777.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "df/d8c/a19777.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "df/d8c/a19777.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "creature", "df/d8c/a19777.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "df/d8c/a19777.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "df/d8c/a19777.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "df/d8c/a19777.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

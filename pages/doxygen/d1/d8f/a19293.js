@@ -1,6 +1,7 @@
 var a19293 =
 [
-    [ "boss_loathebAI", "dd/db8/a19297.html", "dd/db8/a19297" ],
-    [ "boss_loatheb", "d1/d8f/a19293.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
-    [ "GetAI", "d1/d8f/a19293.html#aca9b3a2515777f81b354c01a9727276e", null ]
+    [ "HandleScript", "d1/d8f/a19293.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "d1/d8f/a19293.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "d1/d8f/a19293.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "d1/d8f/a19293.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

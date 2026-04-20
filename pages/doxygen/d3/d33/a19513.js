@@ -1,14 +1,5 @@
 var a19513 =
 [
-    [ "boss_magus_telestra", "d3/d33/a19513.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
-    [ "AttackStart", "d3/d33/a19513.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
-    [ "GetData", "d3/d33/a19513.html#a713f93edc709edabe003c305efdd709c", null ],
-    [ "JustDied", "d3/d33/a19513.html#ac69759755637749a58f712b86d3bf9ac", null ],
-    [ "JustEngagedWith", "d3/d33/a19513.html#a91b4569027b3414814bf1f2e86441fc6", null ],
-    [ "JustSummoned", "d3/d33/a19513.html#a1fc0f30287916d6606829987d29d9387", null ],
-    [ "KilledUnit", "d3/d33/a19513.html#a85b333905e5dcd34dbe001306924529a", null ],
-    [ "Reset", "d3/d33/a19513.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
-    [ "SpellHit", "d3/d33/a19513.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
-    [ "UpdateAI", "d3/d33/a19513.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
-    [ "achievement", "d3/d33/a19513.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
+    [ "achievement_intense_cold", "d3/d33/a19513.html#a2377357d6bfc03e5b91354428d3da3de", null ],
+    [ "OnCheck", "d3/d33/a19513.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
 ];

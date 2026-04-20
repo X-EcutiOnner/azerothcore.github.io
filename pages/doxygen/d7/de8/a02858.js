@@ -1,9 +1,9 @@
 var a02858 =
 [
-    [ "boss_doomlord_kazzak", "df/d46/a22725.html", "df/d46/a22725" ],
-    [ "boss_doomlord_kazzak::boss_doomlordkazzakAI", "dd/d4b/a22729.html", "dd/d4b/a22729" ],
-    [ "spell_mark_of_kazzak_aura", "d4/d39/a22733.html", "d4/d39/a22733" ],
-    [ "spell_twisted_reflection", "d4/d10/a22737.html", "d4/d10/a22737" ],
+    [ "boss_doomlord_kazzak", "d9/d3e/a22721.html", "d9/d3e/a22721" ],
+    [ "boss_doomlord_kazzak::boss_doomlordkazzakAI", "df/d46/a22725.html", "df/d46/a22725" ],
+    [ "spell_mark_of_kazzak_aura", "dd/d4b/a22729.html", "dd/d4b/a22729" ],
+    [ "spell_twisted_reflection", "d4/d39/a22733.html", "d4/d39/a22733" ],
     [ "Spells", "d7/de8/a02858.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d3/de5/a00956.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d3/de5/a00956.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],
@@ -3862,13 +3862,6 @@ var a02858 =
       [ "SAY_DRAKE_BREATH", "d7/df2/a03986.html#aa80bce1d0ea05213c0d6c327126caf31a89e08ca608c7df1074c5c9aa78c9ce50", null ],
       [ "EMOTE_DEEP_BREATH", "d7/df2/a03986.html#aa80bce1d0ea05213c0d6c327126caf31a301dd510f1ca6604fda24c94112e97fe", null ],
       [ "EMOTE_ON_RANGE", "d7/df2/a03986.html#aa80bce1d0ea05213c0d6c327126caf31adb77050e8f898e5fb46cc830a3f22823", null ],
-      [ "GOSSIP_MENU_START_1", "d3/d8f/a03956.html#aa80bce1d0ea05213c0d6c327126caf31a83bd642e6c2dedeeafbca644269a4210", null ],
-      [ "GOSSIP_MENU_START_2", "d3/d8f/a03956.html#aa80bce1d0ea05213c0d6c327126caf31a4fcb437e117f369cbe28ea394d68ec9e", null ],
-      [ "GOSSIP_MENU_LATE_JOIN", "d3/d8f/a03956.html#aa80bce1d0ea05213c0d6c327126caf31a20da3630df21a8f4a9c71a03e19c7e00", null ],
-      [ "NPC_TEXT_SINCLARI_IN", "d3/d8f/a03956.html#aa80bce1d0ea05213c0d6c327126caf31af8db7bb923ce369bbe25951c07031f85", null ],
-      [ "NPC_TEXT_SINCLARI_START", "d3/d8f/a03956.html#aa80bce1d0ea05213c0d6c327126caf31a9e1a7fcbb09e28085ad3476b6a1f390b", null ],
-      [ "NPC_TEXT_SINCLARI_DONE", "d3/d8f/a03956.html#aa80bce1d0ea05213c0d6c327126caf31ac5fd8cbccadc817d35683bb72b36df61", null ],
-      [ "NPC_TEXT_SINCLARI_LATE_JOIN", "d3/d8f/a03956.html#aa80bce1d0ea05213c0d6c327126caf31a3fce9f72975cbf4670608759f1c559f7", null ],
       [ "SAY_AGGRO", "da/de8/a02657.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_KILL", "da/de8/a02657.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5", null ],
       [ "SAY_DEATH", "da/de8/a02657.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e", null ],

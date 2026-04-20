@@ -1,6 +1,8 @@
 var a21901 =
 [
-    [ "npc_freed_protodrakeAI", "d6/d97/a21905.html", "d6/d97/a21905" ],
-    [ "npc_freed_protodrake", "d6/d93/a21901.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "d6/d93/a21901.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "npc_freed_protodrakeAI", "d6/d93/a21901.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d6/d93/a21901.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d6/d93/a21901.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d6/d93/a21901.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d6/d93/a21901.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

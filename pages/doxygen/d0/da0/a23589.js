@@ -1,6 +1,6 @@
 var a23589 =
 [
-    [ "npc_deaths_fel_cannonAI", "de/d8b/a23593.html", "de/d8b/a23593" ],
-    [ "npc_deaths_fel_cannon", "d0/da0/a23589.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "d0/da0/a23589.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "npc_deaths_fel_cannonAI", "d0/da0/a23589.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "d0/da0/a23589.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "d0/da0/a23589.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

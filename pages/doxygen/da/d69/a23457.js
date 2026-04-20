@@ -1,5 +1,6 @@
 var a23457 =
 [
-    [ "npc_lord_sanguinar", "da/d69/a23457.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "da/d69/a23457.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "npc_capernian", "da/d69/a23457.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "da/d69/a23457.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "da/d69/a23457.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

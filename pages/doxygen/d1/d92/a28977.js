@@ -1,7 +1,5 @@
 var a28977 =
 [
-    [ "Flags", "d1/d92/a28977.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d1/d92/a28977.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d1/d92/a28977.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d1/d92/a28977.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "HasMissile", "d1/d92/a28977.html#af8f9e79164ee3c7a617f63552bb23816", null ],
+    [ "MissileModel", "d1/d92/a28977.html#ae9ab544537448113f628c22ed8c91a27", null ]
 ];

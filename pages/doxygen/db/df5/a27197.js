@@ -1,6 +1,7 @@
 var a27197 =
 [
-    [ "PeriodicTick", "db/df5/a27197.html#a8765e8f662c4279669c955108ff356e3", null ],
-    [ "PrepareAuraScript", "db/df5/a27197.html#a15f077618950e4526ffcee9ee172d89f", null ],
-    [ "Register", "db/df5/a27197.html#aeeca3a2be368025147702c4aa8c518ce", null ]
+    [ "HandleBonus", "db/df5/a27197.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
+    [ "PrepareAuraScript", "db/df5/a27197.html#aebf4afa25b50be9b99900ef830f26f04", null ],
+    [ "Register", "db/df5/a27197.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
+    [ "Validate", "db/df5/a27197.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
 ];

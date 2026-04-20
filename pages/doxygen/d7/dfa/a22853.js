@@ -1,5 +1,9 @@
 var a22853 =
 [
-    [ "go_strange_pool", "d7/dfa/a22853.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "d7/dfa/a22853.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "CalcPeriodic", "d7/dfa/a22853.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
+    [ "HandleEffectApply", "d7/dfa/a22853.html#adb983cc531fa666648bbdb432684ff1d", null ],
+    [ "HandleEffectRemove", "d7/dfa/a22853.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
+    [ "OnPeriodic", "d7/dfa/a22853.html#aecefab535157dbe8e42aff3b23cd685b", null ],
+    [ "PrepareAuraScript", "d7/dfa/a22853.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
+    [ "Register", "d7/dfa/a22853.html#a3771abcc829883ba0cbae9587adbe751", null ]
 ];

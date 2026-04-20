@@ -329,11 +329,11 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  115</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;[ERROR] Prepared Statement (id: {}) trying to bind value on already bound index ({}).&quot;</span>, <a class="code hl_variable" href="../../de/d5c/a06085.html#a14e22c4c1b6393277d2b30894d839906">m_stmt</a>-&gt;<a class="code hl_function" href="../../da/d8b/a06093.html#ac5e94130932a8975a95cd830051cbeab">GetIndex</a>(), index);</div>
 <div class="line"><span class="lineno">  116</span>}</div>
 <div class="ttc" id="aa00224_html_a4c2b053ff0b94326f3c01cc7c6e61e8a"><div class="ttname"><a href="../../d5/ddf/a00224.html#a4c2b053ff0b94326f3c01cc7c6e61e8a">ParamenterIndexAssertFail</a></div><div class="ttdeci">static bool ParamenterIndexAssertFail(uint32 stmtIndex, uint8 index, uint32 paramCount)</div><div class="ttdef"><b>Definition:</b> MySQLPreparedStatement.cpp:101</div></div>
-<div class="ttc" id="aa04547_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d0/da8/a04547.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa04547_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d0/da8/a04547.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:145</div></div>
 <div class="ttc" id="aa04586_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../df/dd7/a04586.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
 <div class="ttc" id="aa06093_html_ac5e94130932a8975a95cd830051cbeab"><div class="ttname"><a href="../../da/d8b/a06093.html#ac5e94130932a8975a95cd830051cbeab">PreparedStatementBase::GetIndex</a></div><div class="ttdeci">uint32 GetIndex() const</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:123</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00123">PreparedStatementBase::GetIndex()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00064">m_paramCount</a>, <a class="el" href="../../#l00065">m_paramsSet</a>, <a class="el" href="../../#l00057">m_stmt</a>, and <a class="el" href="../../#l00101">ParamenterIndexAssertFail()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00123">PreparedStatementBase::GetIndex()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00064">m_paramCount</a>, <a class="el" href="../../#l00065">m_paramsSet</a>, <a class="el" href="../../#l00057">m_stmt</a>, and <a class="el" href="../../#l00101">ParamenterIndexAssertFail()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00119">SetParameter()</a>.</p>
 
@@ -373,13 +373,13 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   85</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;[WARNING]: BindParameters() for statement {} did not bind all allocated parameters&quot;</span>, stmt-&gt;<a class="code hl_function" href="../../da/d8b/a06093.html#ac5e94130932a8975a95cd830051cbeab">GetIndex</a>());</div>
 <div class="line"><span class="lineno">   86</span><span class="preprocessor">#endif</span></div>
 <div class="line"><span class="lineno">   87</span>}</div>
-<div class="ttc" id="aa04547_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d0/da8/a04547.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:162</div></div>
+<div class="ttc" id="aa04547_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d0/da8/a04547.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:149</div></div>
 <div class="ttc" id="aa04568_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
 <div class="ttc" id="aa06085_html_a60cf8db07fe9eaed61602973bdf471bd"><div class="ttname"><a href="../../de/d5c/a06085.html#a60cf8db07fe9eaed61602973bdf471bd">MySQLPreparedStatement::SetParameter</a></div><div class="ttdeci">void SetParameter(const uint8 index, bool value)</div><div class="ttdef"><b>Definition:</b> MySQLPreparedStatement.cpp:136</div></div>
 <div class="ttc" id="aa06089_html"><div class="ttname"><a href="../../d5/d15/a06089.html">PreparedStatementData</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:42</div></div>
 <div class="ttc" id="aa06093_html_add343f1f2017791df2434463f6114c68"><div class="ttname"><a href="../../da/d8b/a06093.html#add343f1f2017791df2434463f6114c68">PreparedStatementBase::GetParameters</a></div><div class="ttdeci">std::vector&lt; PreparedStatementData &gt; const &amp; GetParameters() const</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:124</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00123">PreparedStatementBase::GetIndex()</a>, <a class="el" href="../../#l00124">PreparedStatementBase::GetParameters()</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00064">m_paramCount</a>, <a class="el" href="../../#l00057">m_stmt</a>, and <a class="el" href="../../#l00136">SetParameter()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00123">PreparedStatementBase::GetIndex()</a>, <a class="el" href="../../#l00124">PreparedStatementBase::GetParameters()</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, <a class="el" href="../../#l00064">m_paramCount</a>, <a class="el" href="../../#l00057">m_stmt</a>, and <a class="el" href="../../#l00136">SetParameter()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00253">MySQLConnection::_Query()</a>, and <a class="el" href="../../#l00202">MySQLConnection::Execute()</a>.</p>
 
@@ -1037,7 +1037,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d5c/a06085.html">MySQLPreparedStatement</a></li>
-    <li class="footer">Generated on Mon Apr 13 2026 21:28:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 20 2026 21:15:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -432,7 +432,7 @@ var a09041 =
     [ "HasHealthRegenInCombatAura", "da/d68/a09041.html#a902b04049d0e50c05c3c24982dcb29d7", null ],
     [ "HasHoverAura", "da/d68/a09041.html#a98c1063458adcb4b98e3ca5b34d14a10", null ],
     [ "HasIgnoreHitDirectionAura", "da/d68/a09041.html#a0d0ef0eaccdb2627741e0e15d9a8edd6", null ],
-    [ "HasIgnoreTargetResistAura", "da/d68/a09041.html#a70e673924c534be8487a3aca89f82b2f", null ],
+    [ "HasIgnoreTargetResistModifiersAura", "da/d68/a09041.html#ae7f1769fdd8fa4af8033e97919305070", null ],
     [ "HasIncreaseMountedFlightSpeedAura", "da/d68/a09041.html#ad14ac5966d6a1e6e29b1d0c8116bfc7d", null ],
     [ "HasIncreaseMountedSpeedAura", "da/d68/a09041.html#a8f32d4ffe9eaab2fe4ecefe581e275c4", null ],
     [ "HasInterruptRegenAura", "da/d68/a09041.html#a144195033adfe0e98f9c567da2e8cc60", null ],

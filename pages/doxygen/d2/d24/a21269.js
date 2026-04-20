@@ -1,6 +1,9 @@
 var a21269 =
 [
-    [ "npc_bloodmage_laurithAI", "d8/dae/a21273.html", "d8/dae/a21273" ],
-    [ "npc_bloodmage_laurith", "d2/d24/a21269.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "d2/d24/a21269.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "npc_bloodmage_laurithAI", "d2/d24/a21269.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "d2/d24/a21269.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "d2/d24/a21269.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
+    [ "UpdateAI", "d2/d24/a21269.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "d2/d24/a21269.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "d2/d24/a21269.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

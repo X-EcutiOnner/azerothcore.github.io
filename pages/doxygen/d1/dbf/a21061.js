@@ -1,11 +1,22 @@
 var a21061 =
 [
-    [ "boss_cyanigosa", "d1/dbf/a21061.html#af85a0c366de8785cd89d14f7990bfb54", null ],
-    [ "EnterEvadeMode", "d1/dbf/a21061.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
-    [ "ExecuteEvent", "d1/dbf/a21061.html#a694dda590c17a03534f8744838ac3176", null ],
-    [ "JustDied", "d1/dbf/a21061.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
-    [ "JustEngagedWith", "d1/dbf/a21061.html#a2432aa3610747c52f6ec3de1def55f18", null ],
-    [ "KilledUnit", "d1/dbf/a21061.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
-    [ "MoveInLineOfSight", "d1/dbf/a21061.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
-    [ "SpellHitTarget", "d1/dbf/a21061.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "d1/dbf/a21061.html#ab0f9e62a516c2a572d438ee6b33ffe89", null ],
+    [ "CheckAchievementCriteriaMeet", "d1/dbf/a21061.html#afafb4c0c0e79b58094ea09068ebdf724", null ],
+    [ "GetData", "d1/dbf/a21061.html#aa3f41b9c79c7bcdd9ad330fa58376799", null ],
+    [ "GetGuidData", "d1/dbf/a21061.html#a371a688192e9c7c239fc4c1de8e45877", null ],
+    [ "Initialize", "d1/dbf/a21061.html#acc0816a05728b59ddf7aeb4077a7329d", null ],
+    [ "IsEncounterInProgress", "d1/dbf/a21061.html#ae2607badcd241cf6b0d4b3a224acc802", null ],
+    [ "OnCreatureCreate", "d1/dbf/a21061.html#ae16d97e5a2cfe7fce6ede12874cb9243", null ],
+    [ "OnPlayerEnter", "d1/dbf/a21061.html#a82fdae36261fa7d845e8d7fdf2428637", null ],
+    [ "ReadSaveDataMore", "d1/dbf/a21061.html#a07a9861d018a35cd295f65b7e68a5bd1", null ],
+    [ "SetData", "d1/dbf/a21061.html#a336bd80e5118d6b5cfa0f76f5d207fc5", null ],
+    [ "Update", "d1/dbf/a21061.html#ac22e9b215c1351f543289af2875491b4", null ],
+    [ "WriteSaveDataMore", "d1/dbf/a21061.html#a22e3c4bb29159588a96f13644218c427", null ],
+    [ "ArchavonDeath", "d1/dbf/a21061.html#a1259cf1ed03095fb3e93f6aab203aa99", null ],
+    [ "bossGUIDs", "d1/dbf/a21061.html#a6dc53f3e4385f09869d91f59520b79d4", null ],
+    [ "checkTimer", "d1/dbf/a21061.html#aabf39e7d3cef7951c861c194dfff9ecd", null ],
+    [ "EmalonDeath", "d1/dbf/a21061.html#ac9235ec40c6648bb2a7d252b0053bc47", null ],
+    [ "KoralonDeath", "d1/dbf/a21061.html#a544c022446c0ddb39797417271ec1259", null ],
+    [ "m_auiEncounter", "d1/dbf/a21061.html#a708d88ed26d8c00cd9fc8f1601c9358e", null ],
+    [ "stoned", "d1/dbf/a21061.html#acde4794f2e980d523e873c0e610f726a", null ]
 ];

@@ -1,5 +1,6 @@
 var a28329 =
 [
-    [ "npc_suns_reach_reclamation", "dd/d60/a28329.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "dd/d60/a28329.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "X", "dd/d60/a28329.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "dd/d60/a28329.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "dd/d60/a28329.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

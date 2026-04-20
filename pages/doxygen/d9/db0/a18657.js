@@ -1,9 +1,6 @@
 var a18657 =
 [
-    [ "DelayedCastEvent", "d9/db0/a18657.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "d9/db0/a18657.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "d9/db0/a18657.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "d9/db0/a18657.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "d9/db0/a18657.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "d9/db0/a18657.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "ManaVoidSelector", "d9/db0/a18657.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d9/db0/a18657.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d9/db0/a18657.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

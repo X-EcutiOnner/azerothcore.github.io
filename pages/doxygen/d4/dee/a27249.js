@@ -1,7 +1,6 @@
 var a27249 =
 [
-    [ "HandleProc", "d4/dee/a27249.html#aa28268bdb7e3063cff0880baefe02824", null ],
-    [ "PrepareAuraScript", "d4/dee/a27249.html#a8b19c9d128d568be695f985e5ed28b2d", null ],
-    [ "Register", "d4/dee/a27249.html#a5a0f0e1558c1d4c687b94fe8874512ef", null ],
-    [ "Validate", "d4/dee/a27249.html#a8461f9dc90d1df9a91350d3e277fffeb", null ]
+    [ "HandleAuraApply", "d4/dee/a27249.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "d4/dee/a27249.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "d4/dee/a27249.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

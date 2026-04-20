@@ -1,11 +1,11 @@
 var a20497 =
 [
-    [ "boss_thorim_arena_npcs", "df/d56/a20497.html#a849567e412254aa8d0d7da33b6b1522f", null ],
-    [ "CanAIAttack", "df/d56/a20497.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
-    [ "JustEngagedWith", "df/d56/a20497.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
-    [ "Reset", "df/d56/a20497.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
-    [ "SelectT", "df/d56/a20497.html#a3fa38189c886a486aabb39a372834938", null ],
-    [ "UpdateAI", "df/d56/a20497.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
-    [ "_isCaster", "df/d56/a20497.html#abfd184437df3983659a9ae21a13638fb", null ],
-    [ "events", "df/d56/a20497.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
+    [ "boss_thorim_ancient_rune_giant", "df/d56/a20497.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
+    [ "DoAction", "df/d56/a20497.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
+    [ "JustDied", "df/d56/a20497.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
+    [ "JustEngagedWith", "df/d56/a20497.html#a98fa309963245a0c57676ff019085fac", null ],
+    [ "Reset", "df/d56/a20497.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
+    [ "UpdateAI", "df/d56/a20497.html#a903d7448d9441866475d77fce8ca6d37", null ],
+    [ "_isInCombat", "df/d56/a20497.html#a148ff1fa8010466de069032f660cd08e", null ],
+    [ "events", "df/d56/a20497.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
 ];

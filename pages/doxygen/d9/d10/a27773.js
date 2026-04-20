@@ -1,6 +1,6 @@
 var a27773 =
 [
-    [ "go_witherbark_totem_bundleAI", "d0/d4f/a27777.html", "d0/d4f/a27777" ],
-    [ "go_witherbark_totem_bundle", "d9/d10/a27773.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "d9/d10/a27773.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "go_tadpole_cageAI", "d0/d4f/a27777.html", "d0/d4f/a27777" ],
+    [ "go_tadpole_cage", "d9/d10/a27773.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d9/d10/a27773.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

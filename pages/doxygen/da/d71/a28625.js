@@ -1,8 +1,11 @@
 var a28625 =
 [
-    [ "npc_traveler_mammoth_vendor", "da/d71/a28625.html#af3b5fc14371eb03e8259799b296967c1", null ],
-    [ "Reset", "da/d71/a28625.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
-    [ "UpdateAI", "da/d71/a28625.html#a98129bb78476ddc0b1a09593b8894fff", null ],
-    [ "_hasEjected", "da/d71/a28625.html#af801e9849a795358c812fddf69ec8434", null ],
-    [ "_playerGuid", "da/d71/a28625.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
+    [ "icon", "da/d71/a28625.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "da/d71/a28625.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "da/d71/a28625.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "da/d71/a28625.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "da/d71/a28625.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "da/d71/a28625.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "da/d71/a28625.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "da/d71/a28625.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

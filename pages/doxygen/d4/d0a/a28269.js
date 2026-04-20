@@ -1,9 +1,8 @@
 var a28269 =
 [
-    [ "npc_herald_of_the_lich_king", "d4/d0a/a28269.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "d4/d0a/a28269.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "d4/d0a/a28269.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "d4/d0a/a28269.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "d4/d0a/a28269.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "d4/d0a/a28269.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "npc_minion_spawner", "d4/d0a/a28269.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
+    [ "CanSpawnRareMinion", "d4/d0a/a28269.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
+    [ "JustSummoned", "d4/d0a/a28269.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
+    [ "Reset", "d4/d0a/a28269.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
+    [ "UpdateAI", "d4/d0a/a28269.html#a24f93f1314bb73edb369e188eda83104", null ]
 ];

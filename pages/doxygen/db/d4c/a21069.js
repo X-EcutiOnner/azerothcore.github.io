@@ -1,10 +1,11 @@
 var a21069 =
 [
-    [ "npc_erekem_guard", "db/d4c/a21069.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
-    [ "JustEngagedWith", "db/d4c/a21069.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
-    [ "MoveInLineOfSight", "db/d4c/a21069.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
-    [ "Reset", "db/d4c/a21069.html#aacdc16855938d9f133b751f91b5e9402", null ],
-    [ "UpdateAI", "db/d4c/a21069.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
-    [ "_events", "db/d4c/a21069.html#a13829cd26d18c42213be1f6640a2b979", null ],
-    [ "_instance", "db/d4c/a21069.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
+    [ "boss_erekem", "db/d4c/a21069.html#a32a7d3b83f201bd77423da1a98e742ae", null ],
+    [ "EnterEvadeMode", "db/d4c/a21069.html#a3d946004c120c6daec6565e7ba815fa1", null ],
+    [ "ExecuteEvent", "db/d4c/a21069.html#a24100918d900f974144f94f399e429b3", null ],
+    [ "GetChainHealTargetGuid", "db/d4c/a21069.html#a809a25ac441f1ef1c60273ac1094a3b2", null ],
+    [ "JustDied", "db/d4c/a21069.html#a23ce09bbe023ebab5dbe1bf26cd84c7a", null ],
+    [ "JustEngagedWith", "db/d4c/a21069.html#a82faaeb00a41745d331f97037e5b4800", null ],
+    [ "KilledUnit", "db/d4c/a21069.html#acaa92e69b5d4ff536d8a0a3e965a93d5", null ],
+    [ "MoveInLineOfSight", "db/d4c/a21069.html#ad89c95919671fd1ae2656ed468ee022a", null ]
 ];

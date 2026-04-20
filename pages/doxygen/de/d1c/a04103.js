@@ -1,6 +1,6 @@
 var a04103 =
 [
-    [ "boss_commander_stoutbeard", "df/d24/a19501.html", "df/d24/a19501" ],
+    [ "boss_commander_stoutbeard", "d7/d24/a19505.html", "d7/d24/a19505" ],
     [ "Says", "de/d1c/a04103.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "db/d09/a03131.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "d4/d1c/a03272.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],

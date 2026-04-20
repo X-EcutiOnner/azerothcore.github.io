@@ -1,18 +1,17 @@
 var a20605 =
 [
-    [ "boss_yoggsaron_brain", "db/d07/a20605.html#a36521541acc73c7cb67d88dfd7cfe2ab", null ],
-    [ "DamageTaken", "db/d07/a20605.html#ae6447e894e75f49c61876450f2cdc7ff", null ],
-    [ "DoAction", "db/d07/a20605.html#aff1761f23cd984cc5db31026f84b4218", null ],
-    [ "GetData", "db/d07/a20605.html#a30593cbb193bf868f99d54279e04d39e", null ],
-    [ "JustSummoned", "db/d07/a20605.html#a5b1aa2863bcec9dff0f87a6d4154daf6", null ],
-    [ "PrepareChamberIllusion", "db/d07/a20605.html#ad162b38c8b4d638c6f3f6c673b6554d4", null ],
-    [ "PrepareIceCrownIllusion", "db/d07/a20605.html#adf41fc4e1adda0e969e06f490fe59414", null ],
-    [ "PrepareStormwindIllusion", "db/d07/a20605.html#a193b18ba9aa03583659002c6a339c0c7", null ],
-    [ "Reset", "db/d07/a20605.html#a9d75d3a6e7d89d8d1c4e472b8fe82161", null ],
-    [ "UpdateAI", "db/d07/a20605.html#a7146ec81c014dd9c19a18ccf0fe30d87", null ],
-    [ "_activeIllusion", "db/d07/a20605.html#aebc5e80be39aea6be68b9b1e78ec770f", null ],
-    [ "_brainDamaged", "db/d07/a20605.html#a9b8045951ba23deda3db3f9bfcee0754", null ],
-    [ "_induceTimer", "db/d07/a20605.html#a3c0d87cf1dc824321aa02034f800f14b", null ],
-    [ "_tentacleCount", "db/d07/a20605.html#a58a8dcda9f7f41f061af4cb6b26657fd", null ],
-    [ "summons", "db/d07/a20605.html#ae51cea57d22cfac38efdddde1bed15f9", null ]
+    [ "boss_yoggsaron", "db/d07/a20605.html#a28abd29c2f570dd5f6f56289a6cc5e9e", null ],
+    [ "AttackStart", "db/d07/a20605.html#a8110dc78a8e60d25df6195107960365a", null ],
+    [ "DoAction", "db/d07/a20605.html#a647c5cf55081ec4d66ae75be5d471210", null ],
+    [ "GetData", "db/d07/a20605.html#a68bb5622ddd9bd74f2eaefce3a0ac54f", null ],
+    [ "JustDied", "db/d07/a20605.html#afa4914458cbcf03ae8e305b2d2c40131", null ],
+    [ "JustSummoned", "db/d07/a20605.html#af641e349634bc2977fd2fe7b7edad310", null ],
+    [ "SpellHit", "db/d07/a20605.html#ab477975d288844051b22991649bdedd4", null ],
+    [ "SummonImmortalGuardian", "db/d07/a20605.html#ad8ba569e58047dcfff8d764489f024ad", null ],
+    [ "UpdateAI", "db/d07/a20605.html#a395114524b73f0176aa9ed331cc0683f", null ],
+    [ "_instance", "db/d07/a20605.html#aa9878513823c8f3f71a5dd5b80ae20f4", null ],
+    [ "_thirdPhase", "db/d07/a20605.html#a0d76e9ae977a2165d52413807897604e", null ],
+    [ "_usedInsane", "db/d07/a20605.html#a28191094a0252d5af48f5b046013eb3e", null ],
+    [ "events", "db/d07/a20605.html#ac27bba5841f4c50a01a8e2b434ee56cf", null ],
+    [ "summons", "db/d07/a20605.html#a0a11e2b828a90ca1ba72d7c19804e654", null ]
 ];

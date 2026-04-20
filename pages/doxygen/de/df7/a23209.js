@@ -1,6 +1,6 @@
 var a23209 =
 [
-    [ "CheckProc", "de/df7/a23209.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "de/df7/a23209.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "de/df7/a23209.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d9/dac/a23213.html", "d9/dac/a23213" ],
+    [ "instance_hellfire_ramparts", "de/df7/a23209.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "de/df7/a23209.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

@@ -1,6 +1,6 @@
 var a03929 =
 [
-    [ "boss_lavanthor", "d8/d75/a21081.html", "d8/d75/a21081" ],
+    [ "boss_lavanthor", "d6/d41/a21085.html", "d6/d41/a21085" ],
     [ "eEvents", "d1/dd9/a03929.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "d4/ddb/a04118.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "d4/ddb/a04118.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

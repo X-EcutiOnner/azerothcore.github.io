@@ -1,11 +1,11 @@
 var a03884 =
 [
-    [ "Yells", "da/d21/a19773.html", "da/d21/a19773" ],
-    [ "brann_bronzebeard", "df/d8c/a19777.html", "df/d8c/a19777" ],
-    [ "brann_bronzebeard::brann_bronzebeardAI", "de/d35/a19781.html", "de/d35/a19781" ],
-    [ "spell_taunt_brann", "d0/dc0/a19785.html", "d0/dc0/a19785" ],
-    [ "spell_hos_dark_matter", "d6/db6/a19789.html", "d6/db6/a19789" ],
-    [ "spell_hos_dark_matter_size", "d1/dce/a19793.html", "d1/dce/a19793" ],
+    [ "Yells", "df/d8c/a19777.html", "df/d8c/a19777" ],
+    [ "brann_bronzebeard", "de/d35/a19781.html", "de/d35/a19781" ],
+    [ "brann_bronzebeard::brann_bronzebeardAI", "d0/dc0/a19785.html", "d0/dc0/a19785" ],
+    [ "spell_taunt_brann", "d6/db6/a19789.html", "d6/db6/a19789" ],
+    [ "spell_hos_dark_matter", "d1/dce/a19793.html", "d1/dce/a19793" ],
+    [ "spell_hos_dark_matter_size", "d5/d11/a19797.html", "d5/d11/a19797" ],
     [ "GOSSIP_ITEM_1", "d6/db7/a03884.html#a4f7e6d5fa5cb408e00605d73f02590f9", null ],
     [ "GOSSIP_ITEM_2", "d6/db7/a03884.html#a320c0ccd04527287746bd25b6db6e150", null ],
     [ "GOSSIP_ITEM_3", "d6/db7/a03884.html#a3107224f02eeaa2f2c4395d097421ac3", null ],

@@ -1,7 +1,8 @@
 var a26185 =
 [
-    [ "CheckProc", "db/dac/a26185.html#a4aadc249b5c568b5317c4eb41abeb6b4", null ],
-    [ "PrepareAuraScript", "db/dac/a26185.html#acc3d194b3f23ecfe42c40d011c957138", null ],
-    [ "Register", "db/dac/a26185.html#a0b104698a7c763bee1af656e127591bd", null ],
-    [ "Validate", "db/dac/a26185.html#a493e63aafcbfd4279cabe91aaa21cee2", null ]
+    [ "HandleProc", "db/dac/a26185.html#ab98571b7f614d66c44c25d0d2c6aa738", null ],
+    [ "PrepareAuraScript", "db/dac/a26185.html#a194c83ebc29c4522b5fc313a3ab4d1dd", null ],
+    [ "Register", "db/dac/a26185.html#a6dfd4dc774e58a8881b20a31d4c1be56", null ],
+    [ "Validate", "db/dac/a26185.html#a886d2b1a2bf2f25bde5248edcef9733d", null ],
+    [ "_critStreak", "db/dac/a26185.html#a4a8e3c9d8754844d74e72cb328c44221", null ]
 ];

@@ -1,6 +1,5 @@
 var a21757 =
 [
-    [ "npc_guardian_pavilionAI", "de/d8a/a21761.html", "de/d8a/a21761" ],
-    [ "npc_guardian_pavilion", "d1/d76/a21757.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "d1/d76/a21757.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "npc_guardian_pavilionAI", "d1/d76/a21757.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d1/d76/a21757.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

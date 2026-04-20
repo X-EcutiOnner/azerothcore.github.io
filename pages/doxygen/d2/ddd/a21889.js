@@ -1,7 +1,6 @@
 var a21889 =
 [
-    [ "HandleDummy", "d2/ddd/a21889.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "d2/ddd/a21889.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "d2/ddd/a21889.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "d2/ddd/a21889.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_brunnhildar_prisonerAI", "d4/d84/a21893.html", "d4/d84/a21893" ],
+    [ "npc_brunnhildar_prisoner", "d2/ddd/a21889.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "d2/ddd/a21889.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

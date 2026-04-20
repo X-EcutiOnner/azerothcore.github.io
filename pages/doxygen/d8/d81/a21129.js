@@ -1,7 +1,7 @@
 var a21129 =
 [
-    [ "npc_azure_invader", "d8/d81/a21129.html#a6b7fcdd4e5166a932e85fcc6ec57d086", null ],
-    [ "Reset", "d8/d81/a21129.html#a51d349d0254f2d5a67f27298952fbb06", null ],
-    [ "UpdateAI", "d8/d81/a21129.html#a6677b18604e15017d15f1d3b0386cfae", null ],
-    [ "_events", "d8/d81/a21129.html#ac178244e22f71a15d7af91946cf961ef", null ]
+    [ "npc_azure_binder", "d8/d81/a21129.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
+    [ "Reset", "d8/d81/a21129.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
+    [ "UpdateAI", "d8/d81/a21129.html#add9f304212a1a10267e564cd939f3751", null ],
+    [ "_events", "d8/d81/a21129.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
 ];

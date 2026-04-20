@@ -1,6 +1,6 @@
 var a24569 =
 [
-    [ "CalculateAmount", "db/db5/a24569.html#af8b61cade7f9daae4b982c2a4c8b4a73", null ],
-    [ "PrepareAuraScript", "db/db5/a24569.html#a3e1d132745f4739b8a3423cb55b0fc9d", null ],
-    [ "Register", "db/db5/a24569.html#a642ce3a74d7163b264ed4674e14fafbc", null ]
+    [ "HandleHeal", "db/db5/a24569.html#a682a496d59201774de50951ffd2c7c0d", null ],
+    [ "PrepareSpellScript", "db/db5/a24569.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
+    [ "Register", "db/db5/a24569.html#abc29f509e703f3807241b63f728a69af", null ]
 ];

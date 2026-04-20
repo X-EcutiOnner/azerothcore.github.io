@@ -1,7 +1,8 @@
 var a25369 =
 [
-    [ "HandleProc", "d3/d25/a25369.html#a675a17a574539f2da85a5401afc18fec", null ],
-    [ "PrepareAuraScript", "d3/d25/a25369.html#a9e5ea1da302356a41b4eff338956ab93", null ],
-    [ "Register", "d3/d25/a25369.html#a2bade504b1ab2c2869ecaf8873864d19", null ],
-    [ "Validate", "d3/d25/a25369.html#aec327c219229ae9d59cb491eef2d95d3", null ]
+    [ "HandleRapidFireProc", "d3/d25/a25369.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
+    [ "HandleRapidKillingProc", "d3/d25/a25369.html#a12f24814d41837c8ddb8a42c8e932077", null ],
+    [ "PrepareAuraScript", "d3/d25/a25369.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
+    [ "Register", "d3/d25/a25369.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
+    [ "Validate", "d3/d25/a25369.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
 ];

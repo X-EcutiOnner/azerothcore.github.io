@@ -1,9 +1,6 @@
 var a22649 =
 [
-    [ "boss_najentus", "dc/d2e/a22649.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "dc/d2e/a22649.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "dc/d2e/a22649.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "dc/d2e/a22649.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "dc/d2e/a22649.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
-    [ "_canTalk", "dc/d2e/a22649.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "HandleDummy", "dc/d2e/a22649.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "dc/d2e/a22649.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "dc/d2e/a22649.html#a972574075c86c32593982add71dc893f", null ]
 ];
