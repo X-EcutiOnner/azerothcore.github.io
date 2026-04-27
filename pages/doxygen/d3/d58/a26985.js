@@ -1,6 +1,6 @@
 var a26985 =
 [
-    [ "HandleEffectApply", "d3/d58/a26985.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
-    [ "PrepareAuraScript", "d3/d58/a26985.html#aed642c73ab31fb63aa497ada45863ae6", null ],
-    [ "Register", "d3/d58/a26985.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
+    [ "HandleAfterCast", "d3/d58/a26985.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "d3/d58/a26985.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "d3/d58/a26985.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

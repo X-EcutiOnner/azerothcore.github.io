@@ -1,11 +1,9 @@
 var a14813 =
 [
-    [ "HandleFinish", "d9/d75/a14813.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
-    [ "HandleScript", "d9/d75/a14813.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
-    [ "Load", "d9/d75/a14813.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
-    [ "PrepareSpellScript", "d9/d75/a14813.html#a9714f48de3982feb245f78efb8008f1b", null ],
-    [ "Register", "d9/d75/a14813.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
-    [ "ThrowNextTorch", "d9/d75/a14813.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
-    [ "Validate", "d9/d75/a14813.html#a026fbf7123f6780459c19ff04b370b08", null ],
-    [ "handled", "d9/d75/a14813.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
+    [ "HandlePeriodic", "d9/d75/a14813.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d9/d75/a14813.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d9/d75/a14813.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d9/d75/a14813.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d9/d75/a14813.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d9/d75/a14813.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

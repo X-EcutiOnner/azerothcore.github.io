@@ -1,6 +1,9 @@
 var a13773 =
 [
-    [ "ChangeSummonPos", "d0/d50/a13773.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "d0/d50/a13773.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "d0/d50/a13773.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "spell_sunwell_teleport", "d0/d50/a13773.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "d0/d50/a13773.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "d0/d50/a13773.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "d0/d50/a13773.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "d0/d50/a13773.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "d0/d50/a13773.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

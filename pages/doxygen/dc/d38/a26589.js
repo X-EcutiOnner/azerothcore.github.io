@@ -1,6 +1,7 @@
 var a26589 =
 [
-    [ "CheckCast", "dc/d38/a26589.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "dc/d38/a26589.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "dc/d38/a26589.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "HandleEffectRemove", "dc/d38/a26589.html#a814687d3938e966f8721438e1a722f77", null ],
+    [ "PrepareAuraScript", "dc/d38/a26589.html#a2144b0602501471a4001883ce9de6db3", null ],
+    [ "Register", "dc/d38/a26589.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
+    [ "AuraEffectHandleModes", "dc/d38/a26589.html#ab291f6c6f269ec7004df39a043f49efd", null ]
 ];

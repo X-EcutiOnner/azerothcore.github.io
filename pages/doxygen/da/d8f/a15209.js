@@ -1,10 +1,6 @@
 var a15209 =
 [
-    [ "CurrId", "da/d8f/a15209.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
-    [ "DestId", "da/d8f/a15209.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
-    [ "o", "da/d8f/a15209.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
-    [ "spellId", "da/d8f/a15209.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
-    [ "x", "da/d8f/a15209.html#a41c7bdb057d984f552a41835651d84f5", null ],
-    [ "y", "da/d8f/a15209.html#abe083129d7a4e514e97eeae7cff40af5", null ],
-    [ "z", "da/d8f/a15209.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "d6/da0/a15213.html", "d6/da0/a15213" ],
+    [ "instance_ragefire_chasm", "da/d8f/a15209.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "da/d8f/a15209.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

@@ -1,8 +1,6 @@
 var a14197 =
 [
-    [ "npc_zulaman_hostageAI", "dc/d50/a14201.html", "dc/d50/a14201" ],
-    [ "npc_zulaman_hostage", "dd/d1d/a14197.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "dd/d1d/a14197.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "dd/d1d/a14197.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "dd/d1d/a14197.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "npc_eagle_trash_aggro_trigger", "dd/d1d/a14197.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "dd/d1d/a14197.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "dd/d1d/a14197.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

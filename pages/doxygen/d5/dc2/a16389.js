@@ -1,7 +1,10 @@
 var a16389 =
 [
-    [ "npc_orb_carrierAI", "d5/dc2/a16389.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "d5/dc2/a16389.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "d5/dc2/a16389.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "d5/dc2/a16389.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "spell_halion_combustion_consumption_aura", "d5/dc2/a16389.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
+    [ "AddMarkStack", "d5/dc2/a16389.html#a337776c42bd6c42ecdffb508808ed070", null ],
+    [ "OnApply", "d5/dc2/a16389.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
+    [ "OnRemove", "d5/dc2/a16389.html#a3959dbe8bbdf2d3953daf14072614708", null ],
+    [ "PrepareAuraScript", "d5/dc2/a16389.html#a334f2211429dde989b6beb6c10a71464", null ],
+    [ "Register", "d5/dc2/a16389.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
+    [ "_markSpell", "d5/dc2/a16389.html#a8236d9d50f267a12216d90f8041da439", null ]
 ];

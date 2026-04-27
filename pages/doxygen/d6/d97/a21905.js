@@ -1,6 +1,6 @@
 var a21905 =
 [
-    [ "npc_icefangAI", "da/d71/a21909.html", "da/d71/a21909" ],
-    [ "npc_icefang", "d6/d97/a21905.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d6/d97/a21905.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "da/d71/a21909.html", "da/d71/a21909" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d6/d97/a21905.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "d6/d97/a21905.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

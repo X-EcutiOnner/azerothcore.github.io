@@ -1,8 +1,6 @@
 var a17225 =
 [
-    [ "boss_krickAI", "df/dd6/a17225.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "df/dd6/a17225.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "df/dd6/a17225.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "df/dd6/a17225.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "df/dd6/a17225.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "instance_pit_of_saron_InstanceScript", "d1/d9c/a17229.html", "d1/d9c/a17229" ],
+    [ "instance_pit_of_saron", "df/dd6/a17225.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
+    [ "GetInstanceScript", "df/dd6/a17225.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
 ];

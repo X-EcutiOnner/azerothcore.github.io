@@ -1,6 +1,7 @@
 var a28817 =
 [
-    [ "ID", "d0/d4e/a28817.html#a7d40e334785d96a2e57d28f87a59778a", null ],
-    [ "maxCount", "d0/d4e/a28817.html#a5edc6442e026b12dae654fa86440a11a", null ],
-    [ "mode", "d0/d4e/a28817.html#a76553ecf9f880a5e5967f818123742fd", null ]
+    [ "Id", "d0/d4e/a28817.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "d0/d4e/a28817.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "d0/d4e/a28817.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "d0/d4e/a28817.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

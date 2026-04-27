@@ -1,6 +1,5 @@
 var a14273 =
 [
-    [ "boss_grilekAI", "de/de0/a14277.html", "de/de0/a14277" ],
-    [ "boss_grilek", "dc/d76/a14273.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "dc/d76/a14273.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "at_zulgurub_bridge_speech", "dc/d76/a14273.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
+    [ "_OnTrigger", "dc/d76/a14273.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
 ];

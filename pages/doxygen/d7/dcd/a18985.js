@@ -1,6 +1,9 @@
 var a18985 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "db/dbf/a18989.html", "db/dbf/a18989" ],
-    [ "npc_icc_skybreaker_hierophant", "d7/dcd/a18985.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "d7/dcd/a18985.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d7/dcd/a18985.html#ae74a306850b328f536b55e5c24c040ab", null ],
+    [ "AttackStart", "d7/dcd/a18985.html#a52b753e1f599eb02385d980a78cd3c78", null ],
+    [ "JustEngagedWith", "d7/dcd/a18985.html#afdb4215cd0578de7342b152783666ed6", null ],
+    [ "Reset", "d7/dcd/a18985.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
+    [ "UpdateAI", "d7/dcd/a18985.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
+    [ "events", "d7/dcd/a18985.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
 ];

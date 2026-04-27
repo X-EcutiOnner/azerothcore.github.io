@@ -1,6 +1,8 @@
 var a14421 =
 [
-    [ "boss_renatakiAI", "d9/d10/a14425.html", "d9/d10/a14425" ],
-    [ "boss_renataki", "de/dd5/a14421.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "de/dd5/a14421.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "boss_venoxis", "de/dd5/a14421.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "de/dd5/a14421.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "de/dd5/a14421.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "de/dd5/a14421.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "de/dd5/a14421.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

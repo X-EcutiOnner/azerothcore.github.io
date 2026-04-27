@@ -1,8 +1,14 @@
 var a13797 =
 [
-    [ "npc_sunblade_arch_mage", "de/d23/a13797.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
-    [ "JustEngagedWith", "de/d23/a13797.html#aadeae32d691229b7b7b531175b8a5018", null ],
-    [ "Reset", "de/d23/a13797.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
-    [ "UpdateAI", "de/d23/a13797.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
-    [ "scheduler", "de/d23/a13797.html#aa6680f06651316996868907b1d28126c", null ]
+    [ "instance_uldaman_InstanceMapScript", "de/d23/a13797.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "de/d23/a13797.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "de/d23/a13797.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "de/d23/a13797.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "de/d23/a13797.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "de/d23/a13797.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "de/d23/a13797.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "de/d23/a13797.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "de/d23/a13797.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "de/d23/a13797.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "de/d23/a13797.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

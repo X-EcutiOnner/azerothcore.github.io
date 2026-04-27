@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: npc_oathbound_warder Struct Reference</title>
+<title>AzerothCore: npc_wg_queue::npc_wg_queueAI Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,36 +106,30 @@ $(document).ready(function(){initNavTree('da/dc9/a21981.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../da/d10/a21978.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">npc_oathbound_warder Struct Reference</div></div>
+  <div class="headertitle"><div class="title">npc_wg_queue::npc_wg_queueAI Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="dynheader">
-Inheritance diagram for npc_oathbound_warder:</div>
+Inheritance diagram for npc_wg_queue::npc_wg_queueAI:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../da/dc9/a21981.png" usemap="#npc_5Foathbound_5Fwarder_map" alt=""/>
-  <map id="npc_5Foathbound_5Fwarder_map" name="npc_5Foathbound_5Fwarder_map">
-<area href="../../d0/d7b/a06489.html" alt="ScriptedAI" shape="rect" coords="0,112,146,136"/>
-<area href="../../d6/d6e/a06445.html" alt="CreatureAI" shape="rect" coords="0,56,146,80"/>
-<area href="../../dc/d99/a06433.html" alt="UnitAI" shape="rect" coords="0,0,146,24"/>
+  <img src="../../da/dc9/a21981.png" usemap="#npc_5Fwg_5Fqueue::npc_5Fwg_5FqueueAI_map" alt=""/>
+  <map id="npc_5Fwg_5Fqueue::npc_5Fwg_5FqueueAI_map" name="npc_5Fwg_5Fqueue::npc_5Fwg_5FqueueAI_map">
+<area href="../../d0/d7b/a06489.html" alt="ScriptedAI" shape="rect" coords="0,112,200,136"/>
+<area href="../../d6/d6e/a06445.html" alt="CreatureAI" shape="rect" coords="0,56,200,80"/>
+<area href="../../dc/d99/a06433.html" alt="UnitAI" shape="rect" coords="0,0,200,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:af4e56bd77dc1c12e795736f117a9b7f1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc9/a21981.html#af4e56bd77dc1c12e795736f117a9b7f1">npc_oathbound_warder</a> (<a class="el" href="../../d0/d4d/a08281.html">Creature</a> *creature)</td></tr>
-<tr class="separator:af4e56bd77dc1c12e795736f117a9b7f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afa3e523d3c4b7659df3d06be11eea7e4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc9/a21981.html#afa3e523d3c4b7659df3d06be11eea7e4">AttackStart</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *) override</td></tr>
-<tr class="separator:afa3e523d3c4b7659df3d06be11eea7e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af5c0cb0f8cd8bf5a77bf7460dc576a6f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc9/a21981.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f">JustEngagedWith</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *) override</td></tr>
-<tr class="memdesc:af5c0cb0f8cd8bf5a77bf7460dc576a6f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called for reaction when initially engaged - this happens <em>after</em> JustEnteredCombat.  <a href="../../da/dc9/a21981.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f">More...</a><br /></td></tr>
-<tr class="separator:af5c0cb0f8cd8bf5a77bf7460dc576a6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2e97b16356a6aec04c7c0b1a2d872070"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc9/a21981.html#a2e97b16356a6aec04c7c0b1a2d872070">UpdateAI</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) override</td></tr>
-<tr class="memdesc:a2e97b16356a6aec04c7c0b1a2d872070"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to start attacking a target. Called just before <a class="el" href="../../da/dc9/a21981.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a>  <a href="../../da/dc9/a21981.html#a2e97b16356a6aec04c7c0b1a2d872070">More...</a><br /></td></tr>
-<tr class="separator:a2e97b16356a6aec04c7c0b1a2d872070"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62c4c568ad615013afa46c7da84d057a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc9/a21981.html#a62c4c568ad615013afa46c7da84d057a">InitializeAI</a> () override</td></tr>
-<tr class="separator:a62c4c568ad615013afa46c7da84d057a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3760738d61b6148042fc30bd96b88fdc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc9/a21981.html#a3760738d61b6148042fc30bd96b88fdc">npc_wg_queueAI</a> (<a class="el" href="../../d0/d4d/a08281.html">Creature</a> *creature)</td></tr>
+<tr class="separator:a3760738d61b6148042fc30bd96b88fdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e5f19a0f01eeb3d1585c7b02f2073b2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc9/a21981.html#a2e5f19a0f01eeb3d1585c7b02f2073b2">UpdateAI</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff) override</td></tr>
+<tr class="memdesc:a2e5f19a0f01eeb3d1585c7b02f2073b2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to start attacking a target. Called just before <a class="el" href="../../d0/d7b/a06489.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a>  <a href="../../da/dc9/a21981.html#a2e5f19a0f01eeb3d1585c7b02f2073b2">More...</a><br /></td></tr>
+<tr class="separator:a2e5f19a0f01eeb3d1585c7b02f2073b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_a06489"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a06489')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d0/d7b/a06489.html">ScriptedAI</a></td></tr>
 <tr class="memitem:add1448dcbdaa4ac1a84ace8c1729da6e inherit pub_methods_a06489"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7b/a06489.html#add1448dcbdaa4ac1a84ace8c1729da6e">ScriptedAI</a> (<a class="el" href="../../d0/d4d/a08281.html">Creature</a> *creature)</td></tr>
 <tr class="separator:add1448dcbdaa4ac1a84ace8c1729da6e inherit pub_methods_a06489"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -534,6 +528,14 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aa96fa3aa7728e3ae090105bb3d10de4a inherit pub_methods_a06433"><td class="memItemLeft" align="right" valign="top">virtual std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d99/a06433.html#aa96fa3aa7728e3ae090105bb3d10de4a">GetDebugInfo</a> () const</td></tr>
 <tr class="separator:aa96fa3aa7728e3ae090105bb3d10de4a inherit pub_methods_a06433"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ab0eb949272e48120cff1c3df27ad8e92"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d6a/a05741.html">EventMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dc9/a21981.html#ab0eb949272e48120cff1c3df27ad8e92">events</a></td></tr>
+<tr class="separator:ab0eb949272e48120cff1c3df27ad8e92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_attribs_a06489"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a06489')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../d0/d7b/a06489.html">ScriptedAI</a></td></tr>
+<tr class="memitem:a5da7193f0a8713b8fa5e7ff2f19ac3bb inherit pub_attribs_a06489"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d4d/a08281.html">Creature</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7b/a06489.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a></td></tr>
+<tr class="separator:a5da7193f0a8713b8fa5e7ff2f19ac3bb inherit pub_attribs_a06489"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pub_types_a06489"><td colspan="2" onclick="javascript:toggleInherit('pub_types_a06489')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../d0/d7b/a06489.html">ScriptedAI</a></td></tr>
@@ -564,9 +566,6 @@ Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pub_static_methods_a06433"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_a06433')"><img src="../../closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="../../dc/d99/a06433.html">UnitAI</a></td></tr>
 <tr class="memitem:a1ff3f1e75730e6464e622267a73d6cc3 inherit pub_static_methods_a06433"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d99/a06433.html#a1ff3f1e75730e6464e622267a73d6cc3">FillAISpellInfo</a> ()</td></tr>
 <tr class="separator:a1ff3f1e75730e6464e622267a73d6cc3 inherit pub_static_methods_a06433"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_attribs_a06489"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a06489')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../d0/d7b/a06489.html">ScriptedAI</a></td></tr>
-<tr class="memitem:a5da7193f0a8713b8fa5e7ff2f19ac3bb inherit pub_attribs_a06489"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d4d/a08281.html">Creature</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7b/a06489.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a></td></tr>
-<tr class="separator:a5da7193f0a8713b8fa5e7ff2f19ac3bb inherit pub_attribs_a06489"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_static_attribs_a06433"><td colspan="2" onclick="javascript:toggleInherit('pub_static_attribs_a06433')"><img src="../../closed.png" alt="-"/>&#160;Static Public Attributes inherited from <a class="el" href="../../dc/d99/a06433.html">UnitAI</a></td></tr>
 <tr class="memitem:adaf99f0a5a2d4993e5408eec175f5e24 inherit pub_static_attribs_a06433"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../de/df0/a06457.html">AISpellInfoType</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d99/a06433.html#adaf99f0a5a2d4993e5408eec175f5e24">AISpellInfo</a></td></tr>
 <tr class="separator:adaf99f0a5a2d4993e5408eec175f5e24 inherit pub_static_attribs_a06433"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -606,8 +605,8 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="af4e56bd77dc1c12e795736f117a9b7f1" name="af4e56bd77dc1c12e795736f117a9b7f1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af4e56bd77dc1c12e795736f117a9b7f1">&#9670;&#160;</a></span>npc_oathbound_warder()</h2>
+<a id="a3760738d61b6148042fc30bd96b88fdc" name="a3760738d61b6148042fc30bd96b88fdc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3760738d61b6148042fc30bd96b88fdc">&#9670;&#160;</a></span>npc_wg_queueAI()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -616,7 +615,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">npc_oathbound_warder::npc_oathbound_warder </td>
+          <td class="memname">npc_wg_queue::npc_wg_queueAI::npc_wg_queueAI </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../d0/d4d/a08281.html">Creature</a> *&#160;</td>
           <td class="paramname"><em>creature</em></td><td>)</td>
@@ -629,14 +628,31 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1297</span>: <a class="code hl_struct" href="../../d0/d7b/a06489.html">ScriptedAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  344</span>                                           : <a class="code hl_struct" href="../../d0/d7b/a06489.html">ScriptedAI</a>(creature)</div>
+<div class="line"><span class="lineno">  345</span>        {</div>
+<div class="line"><span class="lineno">  346</span>            <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_function" href="../../d4/d38/a08657.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7ab93cc4dc480545cb812fff456281cbfd">NPC_ARCANIST_BRAEDIN</a>)</div>
+<div class="line"><span class="lineno">  347</span>                <a class="code hl_enumeration" href="../../db/dda/a02318.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a50a07d5a03d9101afeda66be27abf348">EVENT_ARCANIST_BRAEDIN_YELL</a>, 0ms);</div>
+<div class="line"><span class="lineno">  348</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_function" href="../../d4/d38/a08657.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7abcb555fac266c1f381a94d799cf7aac9">NPC_MAGISTER_SURDIEL</a>)</div>
+<div class="line"><span class="lineno">  349</span>                <a class="code hl_enumeration" href="../../db/dda/a02318.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7ae1667169ac21f5fe1945c8a8bd65b6c3">EVENT_MAGISTER_SURDIEL_YELL</a>, 0ms);</div>
+<div class="line"><span class="lineno">  350</span> </div>
+<div class="line"><span class="lineno">  351</span>            <a class="code hl_enumeration" href="../../db/dda/a02318.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a345d1f196fc525b7e87af7a2de032880">EVENT_SPELL_FROST_ARMOR</a>, 0ms);</div>
+<div class="line"><span class="lineno">  352</span>        }</div>
+<div class="ttc" id="aa02318_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../db/dda/a02318.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition:</b> boss_sartura.cpp:43</div></div>
+<div class="ttc" id="aa03923_html_a64c3f8a647667a03f55f65fdd6303da7a345d1f196fc525b7e87af7a2de032880"><div class="ttname"><a href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a345d1f196fc525b7e87af7a2de032880">EVENT_SPELL_FROST_ARMOR</a></div><div class="ttdeci">@ EVENT_SPELL_FROST_ARMOR</div><div class="ttdef"><b>Definition:</b> zone_wintergrasp.cpp:275</div></div>
+<div class="ttc" id="aa03923_html_a64c3f8a647667a03f55f65fdd6303da7a50a07d5a03d9101afeda66be27abf348"><div class="ttname"><a href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a50a07d5a03d9101afeda66be27abf348">EVENT_ARCANIST_BRAEDIN_YELL</a></div><div class="ttdeci">@ EVENT_ARCANIST_BRAEDIN_YELL</div><div class="ttdef"><b>Definition:</b> zone_wintergrasp.cpp:273</div></div>
+<div class="ttc" id="aa03923_html_a64c3f8a647667a03f55f65fdd6303da7ab93cc4dc480545cb812fff456281cbfd"><div class="ttname"><a href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7ab93cc4dc480545cb812fff456281cbfd">NPC_ARCANIST_BRAEDIN</a></div><div class="ttdeci">@ NPC_ARCANIST_BRAEDIN</div><div class="ttdef"><b>Definition:</b> zone_wintergrasp.cpp:280</div></div>
+<div class="ttc" id="aa03923_html_a64c3f8a647667a03f55f65fdd6303da7abcb555fac266c1f381a94d799cf7aac9"><div class="ttname"><a href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7abcb555fac266c1f381a94d799cf7aac9">NPC_MAGISTER_SURDIEL</a></div><div class="ttdeci">@ NPC_MAGISTER_SURDIEL</div><div class="ttdef"><b>Definition:</b> zone_wintergrasp.cpp:281</div></div>
+<div class="ttc" id="aa03923_html_a64c3f8a647667a03f55f65fdd6303da7ae1667169ac21f5fe1945c8a8bd65b6c3"><div class="ttname"><a href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7ae1667169ac21f5fe1945c8a8bd65b6c3">EVENT_MAGISTER_SURDIEL_YELL</a></div><div class="ttdeci">@ EVENT_MAGISTER_SURDIEL_YELL</div><div class="ttdef"><b>Definition:</b> zone_wintergrasp.cpp:274</div></div>
 <div class="ttc" id="aa06489_html"><div class="ttname"><a href="../../d0/d7b/a06489.html">ScriptedAI</a></div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:191</div></div>
+<div class="ttc" id="aa08657_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d4/d38/a08657.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:117</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00273">EVENT_ARCANIST_BRAEDIN_YELL</a>, <a class="el" href="../../#l00274">EVENT_MAGISTER_SURDIEL_YELL</a>, <a class="el" href="../../#l00275">EVENT_SPELL_FROST_ARMOR</a>, <a class="el" href="../../#l00117">Object::GetEntry()</a>, <a class="el" href="../../#l00280">NPC_ARCANIST_BRAEDIN</a>, and <a class="el" href="../../#l00281">NPC_MAGISTER_SURDIEL</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="afa3e523d3c4b7659df3d06be11eea7e4" name="afa3e523d3c4b7659df3d06be11eea7e4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa3e523d3c4b7659df3d06be11eea7e4">&#9670;&#160;</a></span>AttackStart()</h2>
+<a id="a2e5f19a0f01eeb3d1585c7b02f2073b2" name="a2e5f19a0f01eeb3d1585c7b02f2073b2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2e5f19a0f01eeb3d1585c7b02f2073b2">&#9670;&#160;</a></span>UpdateAI()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -645,137 +661,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void npc_oathbound_warder::AttackStart </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d68/a09041.html">Unit</a> *&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented from <a class="el" href="../../d0/d7b/a06489.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1299</span>{ }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a62c4c568ad615013afa46c7da84d057a" name="a62c4c568ad615013afa46c7da84d057a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62c4c568ad615013afa46c7da84d057a">&#9670;&#160;</a></span>InitializeAI()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void npc_oathbound_warder::InitializeAI </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented from <a class="el" href="../../dc/d99/a06433.html#aa88ecdf57b44fb013c3fed4ff59aec0d">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1304</span>    {</div>
-<div class="line"><span class="lineno"> 1305</span>        <a class="code hl_function" href="../../dc/d99/a06433.html#aa88ecdf57b44fb013c3fed4ff59aec0d">ScriptedAI::InitializeAI</a>();</div>
-<div class="line"><span class="lineno"> 1306</span>        <a class="code hl_variable" href="../../d0/d7b/a06489.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/d4d/a08281.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../da/d06/a01403.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>);</div>
-<div class="line"><span class="lineno"> 1307</span> </div>
-<div class="line"><span class="lineno"> 1308</span>        <a class="code hl_struct" href="../../dc/d4d/a08977.html">CharmInfo</a>* charmInfo = <a class="code hl_variable" href="../../d0/d7b/a06489.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#a66f99d0d7cdf9c7013788fe6265a5c3b">GetCharmInfo</a>();</div>
-<div class="line"><span class="lineno"> 1309</span>        <span class="keywordflow">if</span> (!charmInfo)</div>
-<div class="line"><span class="lineno"> 1310</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1311</span> </div>
-<div class="line"><span class="lineno"> 1312</span>        charmInfo-&gt;<a class="code hl_function" href="../../dc/d4d/a08977.html#ae2e9bdba70936fbe54f7dd757fbb2af3">InitEmptyActionBar</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 1313</span> </div>
-<div class="line"><span class="lineno"> 1314</span>        <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> slot = 0;</div>
-<div class="line"><span class="lineno"> 1315</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; <a class="code hl_variable" href="../../da/d06/a01403.html#ac6af0816f1cdb55cd57c5975ff99ad18">MAX_CREATURE_SPELLS</a>; ++i)</div>
-<div class="line"><span class="lineno"> 1316</span>        {</div>
-<div class="line"><span class="lineno"> 1317</span>            <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = <a class="code hl_variable" href="../../d0/d7b/a06489.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_variable" href="../../d0/d4d/a08281.html#a38727e1fc7443d11afa6e37598e932ea">m_spells</a>[i];</div>
-<div class="line"><span class="lineno"> 1318</span>            <span class="keywordflow">if</span> (!spellId)</div>
-<div class="line"><span class="lineno"> 1319</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno"> 1320</span> </div>
-<div class="line"><span class="lineno"> 1321</span>            <a class="code hl_class" href="../../da/dae/a11721.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = <a class="code hl_define" href="../../dd/deb/a01628.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(spellId);</div>
-<div class="line"><span class="lineno"> 1322</span>            <span class="keywordflow">if</span> (spellInfo &amp;&amp; spellInfo-&gt;<a class="code hl_function" href="../../da/dae/a11721.html#a44ac36a7f40b3c5b26a82a3bb0e8af30">IsPassive</a>())</div>
-<div class="line"><span class="lineno"> 1323</span>                <a class="code hl_variable" href="../../d0/d7b/a06489.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d0/d7b/a06489.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, spellInfo, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1324</span> </div>
-<div class="line"><span class="lineno"> 1325</span>            charmInfo-&gt;<a class="code hl_function" href="../../dc/d4d/a08977.html#a4951b83a10c85f36f25f2236983a51a3">SetActionBar</a>(6 + slot, spellId, <a class="code hl_enumvalue" href="../../d5/da5/a01424.html#aaec28a439b9086a5fd69bd5358bb46daad917b891f555940a135b2634d2e72b3b">ACT_PASSIVE</a>);</div>
-<div class="line"><span class="lineno"> 1326</span>            ++slot;</div>
-<div class="line"><span class="lineno"> 1327</span>        }</div>
-<div class="line"><span class="lineno"> 1328</span>    }</div>
-<div class="ttc" id="aa01403_html_a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0"><div class="ttname"><a href="../../da/d06/a01403.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a></div><div class="ttdeci">@ REACT_PASSIVE</div><div class="ttdef"><b>Definition:</b> Unit.h:566</div></div>
-<div class="ttc" id="aa01403_html_ac6af0816f1cdb55cd57c5975ff99ad18"><div class="ttname"><a href="../../da/d06/a01403.html#ac6af0816f1cdb55cd57c5975ff99ad18">MAX_CREATURE_SPELLS</a></div><div class="ttdeci">static constexpr uint32 MAX_CREATURE_SPELLS</div><div class="ttdef"><b>Definition:</b> Unit.h:45</div></div>
-<div class="ttc" id="aa01424_html_aaec28a439b9086a5fd69bd5358bb46daad917b891f555940a135b2634d2e72b3b"><div class="ttname"><a href="../../d5/da5/a01424.html#aaec28a439b9086a5fd69bd5358bb46daad917b891f555940a135b2634d2e72b3b">ACT_PASSIVE</a></div><div class="ttdeci">@ ACT_PASSIVE</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:61</div></div>
-<div class="ttc" id="aa01628_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../dd/deb/a01628.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:836</div></div>
-<div class="ttc" id="aa04568_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa06433_html_aa88ecdf57b44fb013c3fed4ff59aec0d"><div class="ttname"><a href="../../dc/d99/a06433.html#aa88ecdf57b44fb013c3fed4ff59aec0d">UnitAI::InitializeAI</a></div><div class="ttdeci">virtual void InitializeAI()</div><div class="ttdef"><b>Definition:</b> UnitAI.h:209</div></div>
-<div class="ttc" id="aa06489_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../d0/d7b/a06489.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:281</div></div>
-<div class="ttc" id="aa08281_html_a38727e1fc7443d11afa6e37598e932ea"><div class="ttname"><a href="../../d0/d4d/a08281.html#a38727e1fc7443d11afa6e37598e932ea">Creature::m_spells</a></div><div class="ttdeci">uint32 m_spells[MAX_CREATURE_SPELLS]</div><div class="ttdef"><b>Definition:</b> Creature.h:255</div></div>
-<div class="ttc" id="aa08281_html_acb27b2a3a09a2a9c520fba6ba2c69c4e"><div class="ttname"><a href="../../d0/d4d/a08281.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">Creature::SetReactState</a></div><div class="ttdeci">void SetReactState(ReactStates state)</div><div class="ttdoc">A creature can have 3 ReactStates : Agressive, Passive, Neutral.</div><div class="ttdef"><b>Definition:</b> Creature.h:100</div></div>
-<div class="ttc" id="aa08977_html"><div class="ttname"><a href="../../dc/d4d/a08977.html">CharmInfo</a></div><div class="ttdef"><b>Definition:</b> CharmInfo.h:127</div></div>
-<div class="ttc" id="aa08977_html_a4951b83a10c85f36f25f2236983a51a3"><div class="ttname"><a href="../../dc/d4d/a08977.html#a4951b83a10c85f36f25f2236983a51a3">CharmInfo::SetActionBar</a></div><div class="ttdeci">void SetActionBar(uint8 index, uint32 spellOrAction, ActiveStates type)</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:150</div></div>
-<div class="ttc" id="aa08977_html_ae2e9bdba70936fbe54f7dd757fbb2af3"><div class="ttname"><a href="../../dc/d4d/a08977.html#ae2e9bdba70936fbe54f7dd757fbb2af3">CharmInfo::InitEmptyActionBar</a></div><div class="ttdeci">void InitEmptyActionBar(bool withAttack=true)</div><div class="ttdef"><b>Definition:</b> CharmInfo.cpp:67</div></div>
-<div class="ttc" id="aa09041_html_a66f99d0d7cdf9c7013788fe6265a5c3b"><div class="ttname"><a href="../../da/d68/a09041.html#a66f99d0d7cdf9c7013788fe6265a5c3b">Unit::GetCharmInfo</a></div><div class="ttdeci">CharmInfo * GetCharmInfo()</div><div class="ttdef"><b>Definition:</b> Unit.h:1281</div></div>
-<div class="ttc" id="aa09041_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../da/d68/a09041.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1375</div></div>
-<div class="ttc" id="aa11721_html"><div class="ttname"><a href="../../da/dae/a11721.html">SpellInfo</a></div><div class="ttdef"><b>Definition:</b> SpellInfo.h:340</div></div>
-<div class="ttc" id="aa11721_html_a44ac36a7f40b3c5b26a82a3bb0e8af30"><div class="ttname"><a href="../../da/dae/a11721.html#a44ac36a7f40b3c5b26a82a3bb0e8af30">SpellInfo::IsPassive</a></div><div class="ttdeci">bool IsPassive() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:1130</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00061">ACT_PASSIVE</a>, <a class="el" href="../../#l01375">Unit::CastSpell()</a>, <a class="el" href="../../#l01281">Unit::GetCharmInfo()</a>, <a class="el" href="../../#l00067">CharmInfo::InitEmptyActionBar()</a>, <a class="el" href="../../#l00209">UnitAI::InitializeAI()</a>, <a class="el" href="../../#l01130">SpellInfo::IsPassive()</a>, <a class="el" href="../../#l00255">Creature::m_spells</a>, <a class="el" href="../../#l00045">MAX_CREATURE_SPELLS</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00566">REACT_PASSIVE</a>, <a class="el" href="../../#l00150">CharmInfo::SetActionBar()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, and <a class="el" href="../../#l00836">sSpellMgr</a>.</p>
-
-</div>
-</div>
-<a id="af5c0cb0f8cd8bf5a77bf7460dc576a6f" name="af5c0cb0f8cd8bf5a77bf7460dc576a6f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5c0cb0f8cd8bf5a77bf7460dc576a6f">&#9670;&#160;</a></span>JustEngagedWith()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void npc_oathbound_warder::JustEngagedWith </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d68/a09041.html">Unit</a> *&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Called for reaction when initially engaged - this happens <em>after</em> JustEnteredCombat. </p>
-
-<p>Reimplemented from <a class="el" href="../../d0/d7b/a06489.html#ac2ce21ab709e349abb8206ce2368cd37">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1300</span>{ }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a2e97b16356a6aec04c7c0b1a2d872070" name="a2e97b16356a6aec04c7c0b1a2d872070"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e97b16356a6aec04c7c0b1a2d872070">&#9670;&#160;</a></span>UpdateAI()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void npc_oathbound_warder::UpdateAI </td>
+          <td class="memname">void npc_wg_queue::npc_wg_queueAI::UpdateAI </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
           <td class="paramname"></td><td>)</td>
@@ -789,11 +675,81 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Use to start attacking a target. Called just before <a class="el" href="../../da/dc9/a21981.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a> </p>
+<p>Use to start attacking a target. Called just before <a class="el" href="../../d0/d7b/a06489.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../d0/d7b/a06489.html#aff5fd4e142a5cf930ffacbfc7259cce5">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1301</span>{ } <span class="comment">// Need so AI doesn&#39;t stop casting when hit in combat</span></div>
+<div class="fragment"><div class="line"><span class="lineno">  357</span>        {</div>
+<div class="line"><span class="lineno">  358</span>            <span class="keywordflow">if</span> (<a class="code hl_define" href="../../db/dc2/a05011.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d6/d3d/a01784.html#a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a>) != 1)</div>
+<div class="line"><span class="lineno">  359</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  360</span> </div>
+<div class="line"><span class="lineno">  361</span>            <a class="code hl_function" href="../../d0/d7b/a06489.html#aff5fd4e142a5cf930ffacbfc7259cce5">ScriptedAI::UpdateAI</a>(diff);</div>
+<div class="line"><span class="lineno">  362</span> </div>
+<div class="line"><span class="lineno">  363</span>            <a class="code hl_enumeration" href="../../db/dda/a02318.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
+<div class="line"><span class="lineno">  364</span>            <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../db/dda/a02318.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
+<div class="line"><span class="lineno">  365</span>            {</div>
+<div class="line"><span class="lineno">  366</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a50a07d5a03d9101afeda66be27abf348">EVENT_ARCANIST_BRAEDIN_YELL</a>:</div>
+<div class="line"><span class="lineno">  367</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d0f/a07449.html">Battlefield</a>* wintergrasp = <a class="code hl_define" href="../../d9/da1/a01976.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;GetBattlefieldByBattleId(<a class="code hl_enumvalue" href="../../d5/dd7/a01970.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010">BATTLEFIELD_BATTLEID_WG</a>))</div>
+<div class="line"><span class="lineno">  368</span>                    {</div>
+<div class="line"><span class="lineno">  369</span>                        <span class="keywordflow">if</span> (wintergrasp-&gt;IsWarTime())</div>
+<div class="line"><span class="lineno">  370</span>                        {</div>
+<div class="line"><span class="lineno">  371</span>                            <a class="code hl_enumeration" href="../../d9/d4f/a02366.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a20ab54f83b69b92f90779e8aaee82c13">SAY_ARCANIST_BRAEDIN</a>);</div>
+<div class="line"><span class="lineno">  372</span>                            <a class="code hl_enumeration" href="../../db/dda/a02318.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a50a07d5a03d9101afeda66be27abf348">EVENT_ARCANIST_BRAEDIN_YELL</a>, 4min);</div>
+<div class="line"><span class="lineno">  373</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  374</span>                        }</div>
+<div class="line"><span class="lineno">  375</span>                    }</div>
+<div class="line"><span class="lineno">  376</span>                    <a class="code hl_enumeration" href="../../db/dda/a02318.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a50a07d5a03d9101afeda66be27abf348">EVENT_ARCANIST_BRAEDIN_YELL</a>, 5s);</div>
+<div class="line"><span class="lineno">  377</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  378</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7ae1667169ac21f5fe1945c8a8bd65b6c3">EVENT_MAGISTER_SURDIEL_YELL</a>:</div>
+<div class="line"><span class="lineno">  379</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d0f/a07449.html">Battlefield</a>* wintergrasp = <a class="code hl_define" href="../../d9/da1/a01976.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;GetBattlefieldByBattleId(<a class="code hl_enumvalue" href="../../d5/dd7/a01970.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010">BATTLEFIELD_BATTLEID_WG</a>))</div>
+<div class="line"><span class="lineno">  380</span>                    {</div>
+<div class="line"><span class="lineno">  381</span>                        <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> timer = wintergrasp-&gt;GetTimer() / 1000;</div>
+<div class="line"><span class="lineno">  382</span>                        <span class="keywordflow">if</span> (!wintergrasp-&gt;IsWarTime() &amp;&amp; timer &lt; 5 * MINUTE &amp;&amp; timer &gt; 4 * <a class="code hl_variable" href="../../dc/d27/a04808.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a>)</div>
+<div class="line"><span class="lineno">  383</span>                        {</div>
+<div class="line"><span class="lineno">  384</span>                            <a class="code hl_enumeration" href="../../d9/d4f/a02366.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7ac069519bd3953b5092adc50929c5ff1b">SAY_MAGISTER_SURDIEL</a>);</div>
+<div class="line"><span class="lineno">  385</span>                            <a class="code hl_enumeration" href="../../db/dda/a02318.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7ae1667169ac21f5fe1945c8a8bd65b6c3">EVENT_MAGISTER_SURDIEL_YELL</a>, 5min);</div>
+<div class="line"><span class="lineno">  386</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  387</span>                        }</div>
+<div class="line"><span class="lineno">  388</span>                    }</div>
+<div class="line"><span class="lineno">  389</span>                    <a class="code hl_enumeration" href="../../db/dda/a02318.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7ae1667169ac21f5fe1945c8a8bd65b6c3">EVENT_MAGISTER_SURDIEL_YELL</a>, 5s);</div>
+<div class="line"><span class="lineno">  390</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  391</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a345d1f196fc525b7e87af7a2de032880">EVENT_SPELL_FROST_ARMOR</a>:</div>
+<div class="line"><span class="lineno">  392</span>                    <a class="code hl_variable" href="../../d0/d7b/a06489.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d0/d7b/a06489.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a9ae0ef67fad278c0f119dd3ceb49e475">SPELL_FROST_ARMOR</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  393</span>                    <a class="code hl_enumeration" href="../../db/dda/a02318.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a345d1f196fc525b7e87af7a2de032880">EVENT_SPELL_FROST_ARMOR</a>, 15min);</div>
+<div class="line"><span class="lineno">  394</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  395</span>            }</div>
+<div class="line"><span class="lineno">  396</span>        }</div>
+<div class="ttc" id="aa01784_html_a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a"><div class="ttname"><a href="../../d6/d3d/a01784.html#a468ad15992691eb97dd20680046832e0aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a></div><div class="ttdeci">@ CONFIG_WINTERGRASP_ENABLE</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:285</div></div>
+<div class="ttc" id="aa01970_html_aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010"><div class="ttname"><a href="../../d5/dd7/a01970.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010">BATTLEFIELD_BATTLEID_WG</a></div><div class="ttdeci">@ BATTLEFIELD_BATTLEID_WG</div><div class="ttdef"><b>Definition:</b> Battlefield.h:36</div></div>
+<div class="ttc" id="aa01976_html_a4545b2a440043037e8dad52c0f644f48"><div class="ttname"><a href="../../d9/da1/a01976.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a></div><div class="ttdeci">#define sBattlefieldMgr</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:76</div></div>
+<div class="ttc" id="aa02366_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d9/d4f/a02366.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition:</b> hyjal.cpp:82</div></div>
+<div class="ttc" id="aa03923_html_a64c3f8a647667a03f55f65fdd6303da7a20ab54f83b69b92f90779e8aaee82c13"><div class="ttname"><a href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a20ab54f83b69b92f90779e8aaee82c13">SAY_ARCANIST_BRAEDIN</a></div><div class="ttdeci">@ SAY_ARCANIST_BRAEDIN</div><div class="ttdef"><b>Definition:</b> zone_wintergrasp.cpp:277</div></div>
+<div class="ttc" id="aa03923_html_a64c3f8a647667a03f55f65fdd6303da7a9ae0ef67fad278c0f119dd3ceb49e475"><div class="ttname"><a href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7a9ae0ef67fad278c0f119dd3ceb49e475">SPELL_FROST_ARMOR</a></div><div class="ttdeci">@ SPELL_FROST_ARMOR</div><div class="ttdef"><b>Definition:</b> zone_wintergrasp.cpp:283</div></div>
+<div class="ttc" id="aa03923_html_a64c3f8a647667a03f55f65fdd6303da7ac069519bd3953b5092adc50929c5ff1b"><div class="ttname"><a href="../../d9/d2a/a03923.html#a64c3f8a647667a03f55f65fdd6303da7ac069519bd3953b5092adc50929c5ff1b">SAY_MAGISTER_SURDIEL</a></div><div class="ttdeci">@ SAY_MAGISTER_SURDIEL</div><div class="ttdef"><b>Definition:</b> zone_wintergrasp.cpp:278</div></div>
+<div class="ttc" id="aa04568_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa04808_html_afacf27522adfacf698390ddafc53fa30"><div class="ttname"><a href="../../dc/d27/a04808.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a></div><div class="ttdeci">constexpr auto MINUTE</div><div class="ttdef"><b>Definition:</b> Common.h:47</div></div>
+<div class="ttc" id="aa05011_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../db/dc2/a05011.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:316</div></div>
+<div class="ttc" id="aa06489_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../d0/d7b/a06489.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:281</div></div>
+<div class="ttc" id="aa06489_html_aff5fd4e142a5cf930ffacbfc7259cce5"><div class="ttname"><a href="../../d0/d7b/a06489.html#aff5fd4e142a5cf930ffacbfc7259cce5">ScriptedAI::UpdateAI</a></div><div class="ttdeci">void UpdateAI(uint32 diff) override</div><div class="ttdoc">Use to start attacking a target. Called just before JustEngagedWith()</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:236</div></div>
+<div class="ttc" id="aa07449_html"><div class="ttname"><a href="../../da/d0f/a07449.html">Battlefield</a></div><div class="ttdef"><b>Definition:</b> Battlefield.h:208</div></div>
+<div class="ttc" id="aa09041_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../da/d68/a09041.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1375</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00036">BATTLEFIELD_BATTLEID_WG</a>, <a class="el" href="../../#l01375">Unit::CastSpell()</a>, <a class="el" href="../../#l00285">CONFIG_WINTERGRASP_ENABLE</a>, <a class="el" href="../../#l00273">EVENT_ARCANIST_BRAEDIN_YELL</a>, <a class="el" href="../../#l00274">EVENT_MAGISTER_SURDIEL_YELL</a>, <a class="el" href="../../#l00275">EVENT_SPELL_FROST_ARMOR</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../#l00277">SAY_ARCANIST_BRAEDIN</a>, <a class="el" href="../../#l00278">SAY_MAGISTER_SURDIEL</a>, <a class="el" href="../../#l00076">sBattlefieldMgr</a>, <a class="el" href="../../#l00283">SPELL_FROST_ARMOR</a>, <a class="el" href="../../#l00316">sWorld</a>, and <a class="el" href="../../#l00236">ScriptedAI::UpdateAI()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ab0eb949272e48120cff1c3df27ad8e92" name="ab0eb949272e48120cff1c3df27ad8e92"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab0eb949272e48120cff1c3df27ad8e92">&#9670;&#160;</a></span>events</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d6a/a05741.html">EventMap</a> npc_wg_queue::npc_wg_queueAI::events</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
 </div>
 </div>
 </div><!-- contents -->
@@ -801,8 +757,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/dc9/a21981.html">npc_oathbound_warder</a></li>
-    <li class="footer">Generated on Mon Apr 20 2026 21:15:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/d85/a21977.html">npc_wg_queue</a></li><li class="navelem"><a class="el" href="../../da/dc9/a21981.html">npc_wg_queueAI</a></li>
+    <li class="footer">Generated on Mon Apr 27 2026 21:38:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,11 @@
 var a23757 =
 [
-    [ "CheckCast", "d2/d1e/a23757.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "d2/d1e/a23757.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "d2/d1e/a23757.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "npc_invis_infernal_casterAI", "d2/d1e/a23757.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "d2/d1e/a23757.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "d2/d1e/a23757.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "d2/d1e/a23757.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "d2/d1e/a23757.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "d2/d1e/a23757.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "d2/d1e/a23757.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "d2/d1e/a23757.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

@@ -1,6 +1,7 @@
 var a15549 =
 [
-    [ "aqsentinelAI", "da/d04/a15553.html", "da/d04/a15553" ],
-    [ "npc_anubisath_sentinel", "dc/d02/a15549.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "dc/d02/a15549.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "npc_vekniss_stinger", "dc/d02/a15549.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "dc/d02/a15549.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "dc/d02/a15549.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "dc/d02/a15549.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

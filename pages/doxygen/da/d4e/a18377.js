@@ -1,7 +1,7 @@
 var a18377 =
 [
-    [ "HandleInfusion", "da/d4e/a18377.html#a9f77330d81fef646dd5d5399800cba66", null ],
-    [ "PrepareSpellScript", "da/d4e/a18377.html#ae0a272902b0a9f74058c1dbe62974358", null ],
-    [ "Register", "da/d4e/a18377.html#ad759f6215e722f799156b4bdddcb7af1", null ],
-    [ "Validate", "da/d4e/a18377.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
+    [ "StartMovementEvent", "da/d4e/a18377.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "da/d4e/a18377.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "da/d4e/a18377.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "da/d4e/a18377.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

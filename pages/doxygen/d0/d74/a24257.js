@@ -1,6 +1,11 @@
 var a24257 =
 [
-    [ "CheckTargets", "d0/d74/a24257.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "d0/d74/a24257.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "d0/d74/a24257.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "CalcPeriodic", "d0/d74/a24257.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
+    [ "CalculateAPAmount", "d0/d74/a24257.html#ab23f26c3470f629f0a20f28faf272a68", null ],
+    [ "CalculateHealthAmount", "d0/d74/a24257.html#a4f827a906ac279e143ba8545545090ad", null ],
+    [ "CalculateSPAmount", "d0/d74/a24257.html#ae94493ffed217a218e21c05e002cec00", null ],
+    [ "HandleEffectApply", "d0/d74/a24257.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
+    [ "HandlePeriodic", "d0/d74/a24257.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
+    [ "PrepareAuraScript", "d0/d74/a24257.html#a5052689d815e0a0543693b39b7454deb", null ],
+    [ "Register", "d0/d74/a24257.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
 ];

@@ -1,7 +1,7 @@
 var a27401 =
 [
-    [ "HandleProc", "de/d85/a27401.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
-    [ "PrepareAuraScript", "de/d85/a27401.html#aadbaea984fedb04e77b92174efd5e83d", null ],
-    [ "Register", "de/d85/a27401.html#aedd1652a571275a305db70fbbe6f725c", null ],
-    [ "Validate", "de/d85/a27401.html#a28c281aeef80409b419753f71da80f92", null ]
+    [ "HandleApplyAura", "de/d85/a27401.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "de/d85/a27401.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "de/d85/a27401.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "de/d85/a27401.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

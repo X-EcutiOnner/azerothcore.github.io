@@ -1,8 +1,8 @@
 var a04091 =
 [
-    [ "ChargeRifts", "df/d30/a19493.html", "df/d30/a19493" ],
-    [ "boss_anomalus", "d3/dae/a19497.html", "d3/dae/a19497" ],
-    [ "achievement_chaos_theory", "df/d24/a19501.html", "df/d24/a19501" ],
+    [ "ChargeRifts", "d7/da0/a19473.html", "d7/da0/a19473" ],
+    [ "boss_anomalus", "d7/dcb/a19477.html", "d7/dcb/a19477" ],
+    [ "achievement_chaos_theory", "d9/d69/a19481.html", "d9/d69/a19481" ],
     [ "Events", "de/da8/a04091.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

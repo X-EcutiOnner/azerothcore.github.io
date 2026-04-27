@@ -1,9 +1,9 @@
 var a19013 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "dc/d42/a19013.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "dc/d42/a19013.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "dc/d42/a19013.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "dc/d42/a19013.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "dc/d42/a19013.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "dc/d42/a19013.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "npc_icc_severed_essenceAI", "dc/d42/a19013.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "dc/d42/a19013.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "dc/d42/a19013.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "dc/d42/a19013.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "dc/d42/a19013.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "dc/d42/a19013.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

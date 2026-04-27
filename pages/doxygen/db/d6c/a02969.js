@@ -1,11 +1,11 @@
 var a02969 =
 [
-    [ "boss_mother_shahraz", "d5/d7b/a22493.html", "d5/d7b/a22493" ],
-    [ "spell_mother_shahraz_random_periodic_aura", "db/d39/a22497.html", "db/d39/a22497" ],
-    [ "spell_mother_shahraz_beam_periodic_aura", "d7/d85/a22501.html", "d7/d85/a22501" ],
-    [ "spell_mother_shahraz_saber_lash_aura", "d2/dd7/a22505.html", "d2/dd7/a22505" ],
-    [ "spell_mother_shahraz_fatal_attraction", "d1/d41/a22509.html", "d1/d41/a22509" ],
-    [ "spell_mother_shahraz_fatal_attraction_dummy", "d5/d05/a22513.html", "d5/d05/a22513" ],
+    [ "boss_mother_shahraz", "d2/ddf/a22473.html", "d2/ddf/a22473" ],
+    [ "spell_mother_shahraz_random_periodic_aura", "d1/d58/a22477.html", "d1/d58/a22477" ],
+    [ "spell_mother_shahraz_beam_periodic_aura", "db/d3e/a22481.html", "db/d3e/a22481" ],
+    [ "spell_mother_shahraz_saber_lash_aura", "d9/dbf/a22485.html", "d9/dbf/a22485" ],
+    [ "spell_mother_shahraz_fatal_attraction", "d9/ddf/a22489.html", "d9/ddf/a22489" ],
+    [ "spell_mother_shahraz_fatal_attraction_dummy", "d5/d7b/a22493.html", "d5/d7b/a22493" ],
     [ "Misc", "db/d6c/a02969.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "df/dc9/a03230.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "df/dc9/a03230.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],
@@ -371,6 +371,9 @@ var a02969 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

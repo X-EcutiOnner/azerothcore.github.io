@@ -1,8 +1,9 @@
 var a23721 =
 [
-    [ "npc_captain_saeedAI", "d4/d77/a23725.html", "d4/d77/a23725" ],
-    [ "npc_captain_saeed", "d1/d01/a23721.html#a8a5bee9f908b10451b8d4720dff85670", null ],
-    [ "GetAI", "d1/d01/a23721.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
-    [ "OnGossipHello", "d1/d01/a23721.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
-    [ "OnGossipSelect", "d1/d01/a23721.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
+    [ "npc_bessyAI", "d1/d01/a23721.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d1/d01/a23721.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d1/d01/a23721.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d1/d01/a23721.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d1/d01/a23721.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
+    [ "WaypointReached", "d1/d01/a23721.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

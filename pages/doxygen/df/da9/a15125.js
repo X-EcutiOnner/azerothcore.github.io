@@ -1,6 +1,11 @@
 var a15125 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "dc/da8/a15129.html", "dc/da8/a15129" ],
-    [ "instance_old_hillsbrad", "df/da9/a15125.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "df/da9/a15125.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "npc_tarethaAI", "df/da9/a15125.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
+    [ "AttackStart", "df/da9/a15125.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
+    [ "DoAction", "df/da9/a15125.html#adbb40db0b70532a20731cf5039e44d0b", null ],
+    [ "MoveInLineOfSight", "df/da9/a15125.html#afa0427372e43316851018bf78274707f", null ],
+    [ "Reset", "df/da9/a15125.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
+    [ "WaypointReached", "df/da9/a15125.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
+    [ "WaypointReached", "df/da9/a15125.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "instance", "df/da9/a15125.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
 ];

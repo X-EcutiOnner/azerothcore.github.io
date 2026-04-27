@@ -1,9 +1,6 @@
 var a22065 =
 [
-    [ "npc_finklesteinAI", "dc/d7b/a22069.html", "dc/d7b/a22069" ],
-    [ "npc_finklestein", "dc/d3f/a22065.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "dc/d3f/a22065.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "dc/d3f/a22065.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "dc/d3f/a22065.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "dc/d3f/a22065.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "npc_released_offspring_harkoaAI", "dc/d3f/a22065.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "dc/d3f/a22065.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "dc/d3f/a22065.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

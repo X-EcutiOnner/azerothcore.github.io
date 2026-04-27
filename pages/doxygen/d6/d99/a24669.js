@@ -1,6 +1,6 @@
 var a24669 =
 [
-    [ "CheckProc", "d6/d99/a24669.html#ad1678a96784add01965d67c3d86bcd77", null ],
-    [ "PrepareAuraScript", "d6/d99/a24669.html#a6e164a8e3482b566b776c5ffeeb1b6ac", null ],
-    [ "Register", "d6/d99/a24669.html#a148f3fe7ee4bdc8e148fe71100779e56", null ]
+    [ "CheckLevel", "d6/d99/a24669.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "d6/d99/a24669.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "d6/d99/a24669.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

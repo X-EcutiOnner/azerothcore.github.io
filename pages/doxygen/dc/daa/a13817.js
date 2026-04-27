@@ -1,14 +1,10 @@
 var a13817 =
 [
-    [ "instance_uldaman_InstanceMapScript", "dc/daa/a13817.html#ab2607f229d1e34852c82139ddb597712", null ],
-    [ "GetData", "dc/daa/a13817.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
-    [ "Initialize", "dc/daa/a13817.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
-    [ "OnCreatureCreate", "dc/daa/a13817.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
-    [ "OnGameObjectCreate", "dc/daa/a13817.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
-    [ "ReadSaveDataMore", "dc/daa/a13817.html#a8e0e03189463039dd31d883ad9c40e51", null ],
-    [ "SetData", "dc/daa/a13817.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
-    [ "WriteSaveDataMore", "dc/daa/a13817.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
-    [ "_encounters", "dc/daa/a13817.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
-    [ "ancientVaultDoorGUID", "dc/daa/a13817.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
-    [ "archaedasTempleDoorGUID", "dc/daa/a13817.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
+    [ "npc_professor_phizzlethorpeAI", "dc/daa/a13817.html#a92af4732575008c1a4f061cef0f23902", null ],
+    [ "JustEngagedWith", "dc/daa/a13817.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
+    [ "JustSummoned", "dc/daa/a13817.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
+    [ "sQuestAccept", "dc/daa/a13817.html#ad4a4bd9af581abe832933da69b18d76f", null ],
+    [ "UpdateAI", "dc/daa/a13817.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
+    [ "WaypointReached", "dc/daa/a13817.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
+    [ "WaypointReached", "dc/daa/a13817.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

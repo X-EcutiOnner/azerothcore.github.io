@@ -1,7 +1,6 @@
 var a25437 =
 [
-    [ "HandleDummy", "df/d53/a25437.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
-    [ "HandleScriptEffect", "df/d53/a25437.html#a30d760a8708b49a185eb000249a9a5eb", null ],
-    [ "PrepareSpellScript", "df/d53/a25437.html#a102d8493d285757c789cbba4a1bdc688", null ],
-    [ "Register", "df/d53/a25437.html#ab4031ddb745995128854c149f7706045", null ]
+    [ "HandleDummy", "df/d53/a25437.html#ad086618ff3caadcf5126e12a1359503f", null ],
+    [ "PrepareSpellScript", "df/d53/a25437.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
+    [ "Register", "df/d53/a25437.html#a214526ddc986ee829daf9090678e3a7b", null ]
 ];

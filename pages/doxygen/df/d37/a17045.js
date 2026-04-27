@@ -1,6 +1,9 @@
 var a17045 =
 [
-    [ "PrepareSpellScript", "df/d37/a17045.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "df/d37/a17045.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "df/d37/a17045.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "HandlePeriodicTick", "df/d37/a17045.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "df/d37/a17045.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "df/d37/a17045.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "df/d37/a17045.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "df/d37/a17045.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "df/d37/a17045.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

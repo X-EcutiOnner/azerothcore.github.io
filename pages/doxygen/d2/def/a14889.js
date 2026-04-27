@@ -1,6 +1,9 @@
 var a14889 =
 [
-    [ "HandleScriptEffect", "d2/def/a14889.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
-    [ "PrepareSpellScript", "d2/def/a14889.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
-    [ "Register", "d2/def/a14889.html#aee5d9189b6df318b57e919511a185a99", null ]
+    [ "boss_azuregosAI", "d2/def/a14889.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "d2/def/a14889.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "d2/def/a14889.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "d2/def/a14889.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "d2/def/a14889.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "d2/def/a14889.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

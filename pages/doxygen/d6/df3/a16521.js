@@ -1,9 +1,7 @@
 var a16521 =
 [
-    [ "npc_memoryAI", "d6/df3/a16521.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "d6/df3/a16521.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "d6/df3/a16521.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "d6/df3/a16521.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "d6/df3/a16521.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "d6/df3/a16521.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "HandleAfterEffectAbsorb", "d6/df3/a16521.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d6/df3/a16521.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d6/df3/a16521.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d6/df3/a16521.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

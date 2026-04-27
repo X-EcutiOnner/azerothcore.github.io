@@ -1,6 +1,6 @@
 var a19113 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "d0/d0d/a19117.html", "d0/d0d/a19117" ],
-    [ "instance_icecrown_citadel", "d4/dea/a19113.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "d4/dea/a19113.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "npc_four_car_garageAI", "d4/dea/a19113.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "d4/dea/a19113.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "d4/dea/a19113.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

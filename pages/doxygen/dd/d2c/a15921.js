@@ -1,7 +1,6 @@
 var a15921 =
 [
-    [ "npc_toogaAI", "d5/dc9/a15925.html", "d5/dc9/a15925" ],
-    [ "npc_tooga", "dd/d2c/a15921.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "dd/d2c/a15921.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "dd/d2c/a15921.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "npc_taskmaster_fizzuleAI", "d5/dc9/a15925.html", "d5/dc9/a15925" ],
+    [ "npc_taskmaster_fizzule", "dd/d2c/a15921.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
+    [ "GetAI", "dd/d2c/a15921.html#a6281de7424932fe6580ffefa199498d9", null ]
 ];

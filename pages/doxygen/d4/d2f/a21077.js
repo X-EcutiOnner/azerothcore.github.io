@@ -1,18 +1,12 @@
 var a21077 =
 [
-    [ "boss_ichoron", "d4/d2f/a21077.html#abdcfe5b89cb1e2413de309a316e472f8", null ],
-    [ "DoAction", "d4/d2f/a21077.html#abe3d4e3f3c435f7cbe5b5b00c5dbb190", null ],
-    [ "DoExplodeCompleted", "d4/d2f/a21077.html#ae56fae748297a02404b984277a1dd25f", null ],
-    [ "EnterEvadeMode", "d4/d2f/a21077.html#a635d040533afa80e293ba9dbc141152a", null ],
-    [ "IchoronDoCastToAllHostilePlayers", "d4/d2f/a21077.html#aadcf249665816ada6c2efa7f30f743f0", null ],
-    [ "JustDied", "d4/d2f/a21077.html#ac85c574360da81216074b32dc9d40f74", null ],
-    [ "JustEngagedWith", "d4/d2f/a21077.html#ae5353b8cf2d14b169c6d65064d81d0e4", null ],
-    [ "JustSummoned", "d4/d2f/a21077.html#a45f9889887270ea51af6dcb1379408a9", null ],
-    [ "KilledUnit", "d4/d2f/a21077.html#a2bf779fb863f09654d51fdb37af6ed47", null ],
-    [ "MoveInLineOfSight", "d4/d2f/a21077.html#a4e323050c78bd1b95f691d0edc4fea3f", null ],
-    [ "Reset", "d4/d2f/a21077.html#aa3ea79b6cb639d659868e9ddd0e97df1", null ],
-    [ "SummonedCreatureDespawn", "d4/d2f/a21077.html#aaabedddd146e71e51db11772c635f8a2", null ],
-    [ "UpdateAI", "d4/d2f/a21077.html#a7f1902ff2071f4f1a6232d6970a0b6b0", null ],
-    [ "_isExploded", "d4/d2f/a21077.html#a23180ff62429fd94a08627f40ce5cbde", null ],
-    [ "_isFrenzy", "d4/d2f/a21077.html#a02f51f706c2183708ae29a990379e25a", null ]
+    [ "boss_xevozz", "d4/d2f/a21077.html#aea402ffbe689ca65e29b30899862a8bc", null ],
+    [ "EnterEvadeMode", "d4/d2f/a21077.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
+    [ "ExecuteEvent", "d4/d2f/a21077.html#af5b37fc643f2b22468a38655fce63d25", null ],
+    [ "JustDied", "d4/d2f/a21077.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
+    [ "JustEngagedWith", "d4/d2f/a21077.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
+    [ "JustSummoned", "d4/d2f/a21077.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
+    [ "KilledUnit", "d4/d2f/a21077.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
+    [ "MoveInLineOfSight", "d4/d2f/a21077.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
+    [ "SummonedCreatureDespawn", "d4/d2f/a21077.html#a1493a5acdfcca7d01446564db622239e", null ]
 ];

@@ -1,10 +1,7 @@
 var a15813 =
 [
-    [ "npc_omenAI", "d1/dc7/a15813.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "d1/dc7/a15813.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "d1/dc7/a15813.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "d1/dc7/a15813.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "d1/dc7/a15813.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "d1/dc7/a15813.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "d1/dc7/a15813.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "npc_thrall_warchiefAI", "d6/d48/a15817.html", "d6/d48/a15817" ],
+    [ "npc_thrall_warchief", "d1/dc7/a15813.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "d1/dc7/a15813.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnQuestReward", "d1/dc7/a15813.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

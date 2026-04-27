@@ -1,15 +1,15 @@
 var a03863 =
 [
-    [ "boss_vezax", "db/d46/a20109.html", "db/d46/a20109" ],
-    [ "npc_ulduar_saronite_vapors", "dc/dc6/a20113.html", "dc/dc6/a20113" ],
-    [ "npc_ulduar_saronite_animus", "d1/da9/a20117.html", "d1/da9/a20117" ],
-    [ "spell_aura_of_despair_aura", "d8/d3b/a20121.html", "d8/d3b/a20121" ],
-    [ "spell_mark_of_the_faceless_periodic_aura", "d6/d7a/a20125.html", "d6/d7a/a20125" ],
-    [ "spell_mark_of_the_faceless_drainhealth", "d4/d80/a20129.html", "d4/d80/a20129" ],
-    [ "spell_saronite_vapors_dummy_aura", "dd/dda/a20133.html", "dd/dda/a20133" ],
-    [ "spell_saronite_vapors_damage", "d4/d32/a20137.html", "d4/d32/a20137" ],
-    [ "achievement_smell_saronite", "d4/d5f/a20141.html", "d4/d5f/a20141" ],
-    [ "achievement_shadowdodger", "d5/dcf/a20145.html", "d5/dcf/a20145" ],
+    [ "boss_vezax", "d1/d16/a20089.html", "d1/d16/a20089" ],
+    [ "npc_ulduar_saronite_vapors", "da/db7/a20093.html", "da/db7/a20093" ],
+    [ "npc_ulduar_saronite_animus", "df/d54/a20097.html", "df/d54/a20097" ],
+    [ "spell_aura_of_despair_aura", "df/d89/a20101.html", "df/d89/a20101" ],
+    [ "spell_mark_of_the_faceless_periodic_aura", "db/d06/a20105.html", "db/d06/a20105" ],
+    [ "spell_mark_of_the_faceless_drainhealth", "db/d46/a20109.html", "db/d46/a20109" ],
+    [ "spell_saronite_vapors_dummy_aura", "dc/dc6/a20113.html", "dc/dc6/a20113" ],
+    [ "spell_saronite_vapors_damage", "d1/da9/a20117.html", "d1/da9/a20117" ],
+    [ "achievement_smell_saronite", "d8/d3b/a20121.html", "d8/d3b/a20121" ],
+    [ "achievement_shadowdodger", "d6/d7a/a20125.html", "d6/d7a/a20125" ],
     [ "VaporsText", "d4/db7/a03863.html#a108c2a2d27e6ae9f94af4a209440d93e", [
       [ "SAY_EMOTE_VAPORS", "d4/db7/a03863.html#a108c2a2d27e6ae9f94af4a209440d93eac51fb1605f030790acd10ceedb8aa954", null ]
     ] ],

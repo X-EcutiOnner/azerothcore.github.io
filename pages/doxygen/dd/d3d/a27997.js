@@ -1,10 +1,8 @@
 var a27997 =
 [
-    [ "npc_prof_alchemy", "dd/d3d/a27997.html#a43ea842214fc507c34586d12df8f7fea", null ],
-    [ "HasAlchemySpell", "dd/d3d/a27997.html#ac9df824e0923ca86189a53ae391b43c0", null ],
-    [ "OnGossipHello", "dd/d3d/a27997.html#add760c538c7882e1ad8331b8ded74f5c", null ],
-    [ "OnGossipSelect", "dd/d3d/a27997.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
-    [ "SendActionMenu", "dd/d3d/a27997.html#a2d4c7337b40be323a384a9e755fc3145", null ],
-    [ "SendConfirmLearn", "dd/d3d/a27997.html#a548224b30494636b9ee292a533fc7b39", null ],
-    [ "SendConfirmUnlearn", "dd/d3d/a27997.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
+    [ "npc_artoriusAI", "d7/d9d/a28001.html", "d7/d9d/a28001" ],
+    [ "npc_artorius", "dd/d3d/a27997.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
+    [ "GetAI", "dd/d3d/a27997.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
+    [ "OnGossipHello", "dd/d3d/a27997.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
+    [ "OnGossipSelect", "dd/d3d/a27997.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
 ];

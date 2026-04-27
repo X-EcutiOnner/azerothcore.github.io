@@ -1,7 +1,12 @@
 var a19205 =
 [
-    [ "HandleScriptEffect", "d1/d53/a19205.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "d1/d53/a19205.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "d1/d53/a19205.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "d1/d53/a19205.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "npc_boss_gothik_minionAI", "d1/d53/a19205.html#aa719d87c65294fc483b424b125619a10", null ],
+    [ "IsOnSameSide", "d1/d53/a19205.html#a7d305be5e3d66c1317fa91e588223da0", null ],
+    [ "JustDied", "d1/d53/a19205.html#a752b6eab9cf1b016962c6f535586b59d", null ],
+    [ "JustEngagedWith", "d1/d53/a19205.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
+    [ "KilledUnit", "d1/d53/a19205.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
+    [ "Reset", "d1/d53/a19205.html#a309401236c254cd850759a0cbb4004e0", null ],
+    [ "UpdateAI", "d1/d53/a19205.html#a43744e96be00d8bc0afc34a570e79947", null ],
+    [ "events", "d1/d53/a19205.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
+    [ "livingSide", "d1/d53/a19205.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
 ];

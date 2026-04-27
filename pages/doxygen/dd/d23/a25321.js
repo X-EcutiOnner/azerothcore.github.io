@@ -1,8 +1,7 @@
 var a25321 =
 [
-    [ "HandleFinish", "dd/d23/a25321.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "dd/d23/a25321.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "dd/d23/a25321.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "dd/d23/a25321.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "dd/d23/a25321.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "HandleProc", "dd/d23/a25321.html#a202ed9cca388b984f0dfebb64a512c47", null ],
+    [ "PrepareAuraScript", "dd/d23/a25321.html#a133ff30c99bd6521d83e2de2361a5123", null ],
+    [ "Register", "dd/d23/a25321.html#a6cab1853296da43b4a4cb39bedb20ffa", null ],
+    [ "Validate", "dd/d23/a25321.html#a39b41d1560869ef9a1231fd39d0a652f", null ]
 ];

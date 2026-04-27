@@ -1,11 +1,11 @@
 var a13573 =
 [
-    [ "boss_alythess", "df/d7d/a13573.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "df/d7d/a13573.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "df/d7d/a13573.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "df/d7d/a13573.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "df/d7d/a13573.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "df/d7d/a13573.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "df/d7d/a13573.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "df/d7d/a13573.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "spell_eredar_twins_handle_touch_periodic", "df/d7d/a13573.html#aa41bba6ce2889eb2a58409b611f53e49", null ],
+    [ "OnPeriodic", "df/d7d/a13573.html#a8d863af82300eacc1456a08f8461d5a7", null ],
+    [ "PrepareAuraScript", "df/d7d/a13573.html#af04b38478379a10c5d94a7e4216ad9fa", null ],
+    [ "Register", "df/d7d/a13573.html#a4908c5c3e6afdf0305dfb4729cfba503", null ],
+    [ "Validate", "df/d7d/a13573.html#aebeee23df951737b99e7a4ab026cbb1b", null ],
+    [ "_aura", "df/d7d/a13573.html#a0b1df96674584554d53688e993c2a310", null ],
+    [ "_effectIndex", "df/d7d/a13573.html#aa873d0475c70db5c5ba9cea802dc3569", null ],
+    [ "_touchSpell", "df/d7d/a13573.html#ae60a5c2918105785805dc45b3942ee4a", null ]
 ];

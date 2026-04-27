@@ -1,6 +1,7 @@
 var a15645 =
 [
-    [ "npc_death_ravagerAI", "d4/d8d/a15649.html", "d4/d8d/a15649" ],
-    [ "npc_death_ravager", "db/d92/a15645.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
-    [ "GetAI", "db/d92/a15645.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
+    [ "HandleEffectRemove", "db/d92/a15645.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "db/d92/a15645.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "db/d92/a15645.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "db/d92/a15645.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

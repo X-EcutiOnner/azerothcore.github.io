@@ -1,7 +1,6 @@
 var a15217 =
 [
-    [ "npc_onyxian_lair_guard", "d5/d1e/a15217.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "d5/d1e/a15217.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "d5/d1e/a15217.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "d5/d1e/a15217.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d6/dd6/a15221.html", "d6/dd6/a15221" ],
+    [ "instance_razorfen_downs", "d5/d1e/a15217.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "d5/d1e/a15217.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

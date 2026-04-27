@@ -1,6 +1,6 @@
 var a13649 =
 [
-    [ "SpectralBlastCheck", "d5/dea/a13649.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
-    [ "operator()", "d5/dea/a13649.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
-    [ "_victim", "d5/dea/a13649.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
+    [ "CastArmageddon", "d5/dea/a13649.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "d5/dea/a13649.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "d5/dea/a13649.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

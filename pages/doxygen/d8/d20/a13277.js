@@ -1,6 +1,6 @@
 var a13277 =
 [
-    [ "HandleScriptEffect", "d8/d20/a13277.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "d8/d20/a13277.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "d8/d20/a13277.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "npc_scarlet_courierAI", "d2/df2/a13281.html", "d2/df2/a13281" ],
+    [ "npc_scarlet_courier", "d8/d20/a13277.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
+    [ "GetAI", "d8/d20/a13277.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
 ];

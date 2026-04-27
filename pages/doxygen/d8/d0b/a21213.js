@@ -1,6 +1,10 @@
 var a21213 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d7/d75/a21217.html", "d7/d75/a21217" ],
-    [ "npc_imprisoned_beryl_sorcerer", "d8/d0b/a21213.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
-    [ "GetAI", "d8/d0b/a21213.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
+    [ "npc_bonker_togglevoltAI", "d8/d0b/a21213.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "d8/d0b/a21213.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "d8/d0b/a21213.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "d8/d0b/a21213.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "d8/d0b/a21213.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "WaypointReached", "d8/d0b/a21213.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Bonker_agro", "d8/d0b/a21213.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

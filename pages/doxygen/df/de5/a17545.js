@@ -1,6 +1,6 @@
 var a17545 =
 [
-    [ "HandleStackDrop", "df/de5/a17545.html#a5c1064d764a6bfa4b3fde8bf57316e44", null ],
-    [ "PrepareAuraScript", "df/de5/a17545.html#a294db521fc56c4fe5e50317fedd8a86d", null ],
-    [ "Register", "df/de5/a17545.html#a45b1fd2c1896023d71a0916100376e57", null ]
+    [ "PrepareSpellScript", "df/de5/a17545.html#a37899f12707930d038de38bae92c9aff", null ],
+    [ "Register", "df/de5/a17545.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
+    [ "SelectDest", "df/de5/a17545.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
 ];

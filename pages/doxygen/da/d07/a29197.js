@@ -1,5 +1,6 @@
 var a29197 =
 [
-    [ "auraHasDisableProcAttr", "da/d07/a29197.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
-    [ "triggeringSpellIsProcDisabled", "da/d07/a29197.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
+    [ "canProcDuringTrigger", "da/d07/a29197.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
+    [ "procDeepDuringTrigger", "da/d07/a29197.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
+    [ "spellId", "da/d07/a29197.html#ac63803a380695f311a39cd62a4f298b4", null ]
 ];

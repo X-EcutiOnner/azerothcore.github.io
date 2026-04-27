@@ -1,8 +1,14 @@
 var a20161 =
 [
-    [ "npc_ulduar_flash_freeze", "d8/d4d/a20161.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
-    [ "DamageTaken", "d8/d4d/a20161.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "d8/d4d/a20161.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "_instance", "d8/d4d/a20161.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
-    [ "timer", "d8/d4d/a20161.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "npc_ulduar_hodir_mage", "d8/d4d/a20161.html#a1f16ae119ae7819348b3013bac867b68", null ],
+    [ "AttackStart", "d8/d4d/a20161.html#aa486b501aefeb70beb325feece5ec34c", null ],
+    [ "CanAIAttack", "d8/d4d/a20161.html#afe11d15da8769f50db470460cf759c2d", null ],
+    [ "EnterEvadeMode", "d8/d4d/a20161.html#a7c942a1ad420731a6e57ede7720d164b", null ],
+    [ "JustDied", "d8/d4d/a20161.html#a411b6a3b456fb216f96a9426a13e3369", null ],
+    [ "MoveInLineOfSight", "d8/d4d/a20161.html#aab476b5a585b30d429bdcae64a18424c", null ],
+    [ "ScheduleAbilities", "d8/d4d/a20161.html#add40de5492e4ec9bd19260669b4bbb22", null ],
+    [ "SpellHit", "d8/d4d/a20161.html#af35bcc1ee03dd8128ff0fe7329eb980d", null ],
+    [ "UpdateAI", "d8/d4d/a20161.html#ae9aa4904f3deaa6cae56853f8541eb40", null ],
+    [ "_instance", "d8/d4d/a20161.html#a75528e6ce772183e63a9a415932b05cf", null ],
+    [ "events", "d8/d4d/a20161.html#a8c89348ce80bc9e4ac72dec41855db8a", null ]
 ];

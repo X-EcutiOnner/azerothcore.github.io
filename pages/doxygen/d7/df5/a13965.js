@@ -1,6 +1,9 @@
 var a13965 =
 [
-    [ "npc_ravenclaw_apparitionAI", "d6/d6d/a13969.html", "d6/d6d/a13969" ],
-    [ "npc_ravenclaw_apparition", "d7/df5/a13965.html#a961044571250519e62d7d33633974038", null ],
-    [ "GetAI", "d7/df5/a13965.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
+    [ "npc_marzon_silent_bladeAI", "d7/df5/a13965.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "d7/df5/a13965.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "d7/df5/a13965.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "d7/df5/a13965.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "d7/df5/a13965.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "d7/df5/a13965.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

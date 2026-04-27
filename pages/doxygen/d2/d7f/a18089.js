@@ -1,7 +1,7 @@
 var a18089 =
 [
-    [ "HandleTriggerSpell", "d2/d7f/a18089.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d2/d7f/a18089.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d2/d7f/a18089.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d2/d7f/a18089.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "HandleDummy", "d2/d7f/a18089.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "d2/d7f/a18089.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "d2/d7f/a18089.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "d2/d7f/a18089.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

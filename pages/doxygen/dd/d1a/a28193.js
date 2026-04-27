@@ -1,9 +1,6 @@
 var a28193 =
 [
-    [ "npc_fireworkAI", "dd/d1a/a28193.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "dd/d1a/a28193.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "dd/d1a/a28193.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "dd/d1a/a28193.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "dd/d1a/a28193.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "dd/d1a/a28193.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "npc_venomhide_hatchlingAI", "dd/d1a/a28193.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "dd/d1a/a28193.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "dd/d1a/a28193.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

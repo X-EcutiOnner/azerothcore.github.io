@@ -1,7 +1,7 @@
 var a03692 =
 [
-    [ "boss_tyrannus", "d8/d12/a17237.html", "d8/d12/a17237" ],
-    [ "boss_tyrannus::boss_tyrannusAI", "db/df4/a17241.html", "db/df4/a17241" ],
+    [ "boss_tyrannus", "d9/dd7/a17217.html", "d9/dd7/a17217" ],
+    [ "boss_tyrannus::boss_tyrannusAI", "dc/d51/a17221.html", "dc/d51/a17221" ],
     [ "Events", "d6/d1c/a03692.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

@@ -1,12 +1,10 @@
 var a14965 =
 [
-    [ "boss_kazrogal", "d4/d80/a14965.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
-    [ "DoAction", "d4/d80/a14965.html#a7721debceeefaeb69e71855b8e8742f8", null ],
-    [ "GetMarkRepeatTimer", "d4/d80/a14965.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
-    [ "JustDied", "d4/d80/a14965.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
-    [ "JustEngagedWith", "d4/d80/a14965.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
-    [ "KilledUnit", "d4/d80/a14965.html#ab1439114a84d85947106d979f38d12fa", null ],
-    [ "Reset", "d4/d80/a14965.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
-    [ "_markCounter", "d4/d80/a14965.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
-    [ "_recentlySpoken", "d4/d80/a14965.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
+    [ "hyjalJainaAI", "d4/d80/a14965.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "d4/d80/a14965.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "d4/d80/a14965.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "d4/d80/a14965.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "d4/d80/a14965.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "d4/d80/a14965.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "d4/d80/a14965.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

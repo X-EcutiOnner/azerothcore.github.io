@@ -1,8 +1,6 @@
 var a20805 =
 [
-    [ "boss_keleseth", "d1/dff/a20805.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "d1/dff/a20805.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "d1/dff/a20805.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "d1/dff/a20805.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "d1/dff/a20805.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "d8/d99/a20809.html", "d8/d99/a20809" ],
+    [ "instance_utgarde_keep", "d1/dff/a20805.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "d1/dff/a20805.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

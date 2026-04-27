@@ -1,6 +1,5 @@
 var a18877 =
 [
-    [ "npc_captain_rupertAI", "d6/d3f/a18877.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d6/d3f/a18877.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d6/d3f/a18877.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "npc_alchemist_adrianna", "d6/d3f/a18877.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "d6/d3f/a18877.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

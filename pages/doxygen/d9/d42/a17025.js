@@ -1,6 +1,6 @@
 var a17025 =
 [
-    [ "instance_drak_tharon_keep", "d9/d42/a17025.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
-    [ "OnGameObjectCreate", "d9/d42/a17025.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
-    [ "OnGameObjectRemove", "d9/d42/a17025.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
+    [ "PrepareSpellScript", "d9/d42/a17025.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
+    [ "RecalculateDamage", "d9/d42/a17025.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
+    [ "Register", "d9/d42/a17025.html#a1a740e697fc84f5f035f2ec251872009", null ]
 ];

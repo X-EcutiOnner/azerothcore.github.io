@@ -1,6 +1,6 @@
 var a21273 =
 [
-    [ "PrepareSpellScript", "d8/dae/a21273.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "d8/dae/a21273.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "d8/dae/a21273.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "npc_steam_powered_auctioneerAI", "da/d85/a21277.html", "da/d85/a21277" ],
+    [ "npc_steam_powered_auctioneer", "d8/dae/a21273.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "d8/dae/a21273.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

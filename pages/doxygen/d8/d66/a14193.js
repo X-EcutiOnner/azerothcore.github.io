@@ -1,12 +1,9 @@
 var a14193 =
 [
-    [ "npc_forest_frog", "d8/d66/a14193.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
-    [ "DoSpawnRandom", "d8/d66/a14193.html#aac140826b8c4b7ce55925b5abeee936e", null ],
-    [ "JustEngagedWith", "d8/d66/a14193.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
-    [ "MovementInform", "d8/d66/a14193.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
-    [ "SpellHit", "d8/d66/a14193.html#a9501955507e1f236bb48384928fd6a32", null ],
-    [ "UpdateAI", "d8/d66/a14193.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
-    [ "eventTimer", "d8/d66/a14193.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
-    [ "instance", "d8/d66/a14193.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
-    [ "PlayerGUID", "d8/d66/a14193.html#a3544a83bb22e12d247e562ef32e378c0", null ]
+    [ "npc_amanishi_lookout", "d8/d66/a14193.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "d8/d66/a14193.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "d8/d66/a14193.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "d8/d66/a14193.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "d8/d66/a14193.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "d8/d66/a14193.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

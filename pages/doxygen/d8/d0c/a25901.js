@@ -1,7 +1,7 @@
 var a25901 =
 [
-    [ "HandleDummy", "d8/d0c/a25901.html#a334563491c3cbb9daa9d97dad738e9e5", null ],
-    [ "PrepareSpellScript", "d8/d0c/a25901.html#a69fe453f3c6764c3977c539d5fc71049", null ],
-    [ "Register", "d8/d0c/a25901.html#af81469f371224a3180d73b3cf8cf001a", null ],
-    [ "Validate", "d8/d0c/a25901.html#af0ab473a4ec7f1eebb70d0f2344de8ca", null ]
+    [ "AfterRemove", "d8/d0c/a25901.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
+    [ "PrepareAuraScript", "d8/d0c/a25901.html#a13f11ec412f18d805282b3810aff5e90", null ],
+    [ "Register", "d8/d0c/a25901.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
+    [ "Validate", "d8/d0c/a25901.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
 ];

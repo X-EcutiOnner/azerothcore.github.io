@@ -1,7 +1,17 @@
 var a19169 =
 [
-    [ "HandleScript", "da/df0/a19169.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "da/df0/a19169.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "da/df0/a19169.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "da/df0/a19169.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "boss_four_horsemenAI", "da/df0/a19169.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "da/df0/a19169.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "EnterEvadeMode", "da/df0/a19169.html#a86f458f0413cab4c8129affff1b73a70", null ],
+    [ "JustDied", "da/df0/a19169.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "da/df0/a19169.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "da/df0/a19169.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "da/df0/a19169.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "da/df0/a19169.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "da/df0/a19169.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "da/df0/a19169.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "da/df0/a19169.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "da/df0/a19169.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "da/df0/a19169.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "da/df0/a19169.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

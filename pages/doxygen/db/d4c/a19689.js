@@ -1,7 +1,6 @@
 var a19689 =
 [
-    [ "OnRemove", "db/d4c/a19689.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "db/d4c/a19689.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "db/d4c/a19689.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "db/d4c/a19689.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d5/d09/a19693.html", "d5/d09/a19693" ],
+    [ "instance_halls_of_lightning", "db/d4c/a19689.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "db/d4c/a19689.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

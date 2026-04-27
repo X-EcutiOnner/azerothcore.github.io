@@ -1,6 +1,6 @@
 var a16453 =
 [
-    [ "OnSummon", "d6/dc0/a16453.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "d6/dc0/a16453.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "d6/dc0/a16453.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "boss_saviana_ragefireAI", "d4/d19/a16457.html", "d4/d19/a16457" ],
+    [ "boss_saviana_ragefire", "d6/dc0/a16453.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "d6/dc0/a16453.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

@@ -1,8 +1,6 @@
 var a23053 =
 [
-    [ "boss_the_black_stalker", "d1/d11/a23053.html#ac33519b374509cefe43b8e97701719ee", null ],
-    [ "JustEngagedWith", "d1/d11/a23053.html#ad118347103ec463a09492e81dbd61418", null ],
-    [ "JustSummoned", "d1/d11/a23053.html#a9e0299a99df83abb7de476a765b667b9", null ],
-    [ "SummonedCreatureDies", "d1/d11/a23053.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
-    [ "UpdateAI", "d1/d11/a23053.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d8/d1f/a23057.html", "d8/d1f/a23057" ],
+    [ "instance_the_underbog", "d1/d11/a23053.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "d1/d11/a23053.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

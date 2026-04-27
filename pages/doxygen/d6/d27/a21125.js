@@ -1,7 +1,7 @@
 var a21125 =
 [
-    [ "npc_azure_invader", "d6/d27/a21125.html#a6b7fcdd4e5166a932e85fcc6ec57d086", null ],
-    [ "Reset", "d6/d27/a21125.html#a51d349d0254f2d5a67f27298952fbb06", null ],
-    [ "UpdateAI", "d6/d27/a21125.html#a6677b18604e15017d15f1d3b0386cfae", null ],
-    [ "_events", "d6/d27/a21125.html#ac178244e22f71a15d7af91946cf961ef", null ]
+    [ "npc_azure_spellbreaker", "d6/d27/a21125.html#ae884adc9619d3458d81a2029bd490893", null ],
+    [ "Reset", "d6/d27/a21125.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
+    [ "UpdateAI", "d6/d27/a21125.html#a938a93a71490bb42158e2215d125509f", null ],
+    [ "_events", "d6/d27/a21125.html#a9f526cff54cb949cc68046e7816c3c89", null ]
 ];

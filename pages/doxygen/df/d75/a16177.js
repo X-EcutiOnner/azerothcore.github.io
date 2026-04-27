@@ -1,6 +1,6 @@
 var a16177 =
 [
-    [ "HandleApplyAura", "df/d75/a16177.html#aeddfd61eab5aa077ca07a924ec491285", null ],
-    [ "PrepareSpellScript", "df/d75/a16177.html#ad53341842455d98722c03318dd80fb94", null ],
-    [ "Register", "df/d75/a16177.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
+    [ "npc_anub_ar_crusher_champion", "df/d75/a16177.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "df/d75/a16177.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "df/d75/a16177.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

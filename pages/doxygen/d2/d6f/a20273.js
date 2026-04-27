@@ -1,5 +1,6 @@
 var a20273 =
 [
-    [ "achievement_ignis_shattered", "d2/d6f/a20273.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "d2/d6f/a20273.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "boss_kologarn_pit_kill_bunny", "d2/d6f/a20273.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "d2/d6f/a20273.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "d2/d6f/a20273.html#ad863666aec3db81f73165148ffc98033", null ]
 ];

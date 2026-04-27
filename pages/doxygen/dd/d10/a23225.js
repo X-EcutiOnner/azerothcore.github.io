@@ -1,6 +1,5 @@
 var a23225 =
 [
-    [ "HandleScriptEffect", "dd/d10/a23225.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "dd/d10/a23225.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "dd/d10/a23225.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "go_manticron_cube", "dd/d10/a23225.html#a87d9571aea57f16d38067ebd9e22200d", null ],
+    [ "OnGossipHello", "dd/d10/a23225.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
 ];

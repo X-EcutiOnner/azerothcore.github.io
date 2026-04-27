@@ -1,6 +1,7 @@
 var a20893 =
 [
-    [ "boss_skadiAI", "d3/d29/a20897.html", "d3/d29/a20897" ],
-    [ "boss_skadi", "d2/d5a/a20893.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "d2/d5a/a20893.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
+    [ "HandleScript", "d2/d5a/a20893.html#ac8d984ac87f51050113f7ac1a4625785", null ],
+    [ "PrepareSpellScript", "d2/d5a/a20893.html#a34f6166e27cb99e424dd081ffce704a5", null ],
+    [ "Register", "d2/d5a/a20893.html#a0dd5b7a8cf086ee3b5a6f30326874ee3", null ],
+    [ "Validate", "d2/d5a/a20893.html#a364c96f7253fde59e1a9a59a42c4d3a5", null ]
 ];

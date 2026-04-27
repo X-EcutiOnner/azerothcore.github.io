@@ -1,6 +1,5 @@
 var a14281 =
 [
-    [ "boss_hakkarAI", "db/d18/a14285.html", "db/d18/a14285" ],
-    [ "boss_hakkar", "d8/d6f/a14281.html#a834bd1f223154fbf1be94bf43136da28", null ],
-    [ "GetAI", "d8/d6f/a14281.html#aff3a089e30dcddfde4db372104153723", null ]
+    [ "at_zulgurub_bloodfire_pit_speech", "d8/d6f/a14281.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
+    [ "_OnTrigger", "d8/d6f/a14281.html#a8f1e477942ba9a5f653077632a98930f", null ]
 ];

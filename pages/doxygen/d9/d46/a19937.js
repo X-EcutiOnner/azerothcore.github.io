@@ -1,5 +1,5 @@
 var a19937 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "d9/d46/a19937.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "d9/d46/a19937.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "boss_flame_leviathan_overload_device", "d9/d46/a19937.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
+    [ "OnSpellClick", "d9/d46/a19937.html#a3f313a637fd95e28db1265ae84f349a8", null ]
 ];

@@ -1,9 +1,9 @@
 var a04028 =
 [
-    [ "boss_jedoga_shadowseeker", "d5/d59/a16125.html", "d5/d59/a16125" ],
-    [ "npc_twilight_volunteer", "d0/d8c/a16129.html", "d0/d8c/a16129" ],
-    [ "spell_random_lightning_visual_effect", "d8/dd7/a16133.html", "d8/dd7/a16133" ],
-    [ "achievement_volunteer_work", "d8/d5e/a16137.html", "d8/d5e/a16137" ],
+    [ "boss_jedoga_shadowseeker", "d6/d21/a16105.html", "d6/d21/a16105" ],
+    [ "npc_twilight_volunteer", "df/d33/a16109.html", "df/d33/a16109" ],
+    [ "spell_random_lightning_visual_effect", "da/d8e/a16113.html", "da/d8e/a16113" ],
+    [ "achievement_volunteer_work", "d2/ddb/a16117.html", "d2/ddb/a16117" ],
     [ "Actions", "d7/dcb/a04028.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d3/de5/a00956.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d3/de5/a00956.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -1903,6 +1903,9 @@ var a04028 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

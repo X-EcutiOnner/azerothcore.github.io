@@ -1,6 +1,5 @@
 var a20221 =
 [
-    [ "HandleAfterEffectApply", "de/db4/a20221.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "de/db4/a20221.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "de/db4/a20221.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "achievement_i_have_the_coolest_friends", "de/db4/a20221.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "de/db4/a20221.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

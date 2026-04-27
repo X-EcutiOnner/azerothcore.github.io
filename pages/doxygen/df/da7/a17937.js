@@ -1,6 +1,10 @@
 var a17937 =
 [
-    [ "CheckProc", "df/da7/a17937.html#a86e62fa26606a77284c80583e7b35d27", null ],
-    [ "PrepareAuraScript", "df/da7/a17937.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
-    [ "Register", "df/da7/a17937.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
+    [ "npc_cult_fanaticAI", "df/da7/a17937.html#a766e536288b84110f88a8bd282e97932", null ],
+    [ "JustEngagedWith", "df/da7/a17937.html#a709b75f4b1519bc7c6988985a22d076f", null ],
+    [ "Reset", "df/da7/a17937.html#a772830df1d16d0463c8c00f14c337db0", null ],
+    [ "SpellHit", "df/da7/a17937.html#a17c02a83b522c9717de3d89517104e42", null ],
+    [ "UpdateAI", "df/da7/a17937.html#ac79afdab3721d78d2b7e5da360083cea", null ],
+    [ "_instance", "df/da7/a17937.html#a7448fdf85cccfcb12509b0274205bff4", null ],
+    [ "events", "df/da7/a17937.html#a9576978141062fa1babbbc5ed42483c4", null ]
 ];

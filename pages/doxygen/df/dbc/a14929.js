@@ -1,7 +1,7 @@
 var a14929 =
 [
-    [ "HandleProc", "df/dbc/a14929.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
-    [ "PrepareAuraScript", "df/dbc/a14929.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
-    [ "Register", "df/dbc/a14929.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
-    [ "Validate", "df/dbc/a14929.html#a18398f81a80f9a1f47958de3be7b9189", null ]
+    [ "PeriodicTick", "df/dbc/a14929.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "df/dbc/a14929.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "df/dbc/a14929.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "df/dbc/a14929.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

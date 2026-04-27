@@ -1,7 +1,6 @@
 var a18785 =
 [
-    [ "OnApply", "df/d27/a18785.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "df/d27/a18785.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "df/d27/a18785.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "df/d27/a18785.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "npc_highlord_tirion_fordringAI", "dc/d9c/a18789.html", "dc/d9c/a18789" ],
+    [ "npc_highlord_tirion_fordring_lh", "df/d27/a18785.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "df/d27/a18785.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

@@ -1,6 +1,6 @@
 var a16157 =
 [
-    [ "instance_ahnkahet_InstanceScript", "de/d41/a16161.html", "de/d41/a16161" ],
-    [ "instance_ahnkahet", "d0/d48/a16157.html#afbe11bc040019231878cf31cc357830b", null ],
-    [ "GetInstanceScript", "d0/d48/a16157.html#a8847099c88f11de363c45e27998f10b7", null ]
+    [ "HandleApplyAura", "d0/d48/a16157.html#aeddfd61eab5aa077ca07a924ec491285", null ],
+    [ "PrepareSpellScript", "d0/d48/a16157.html#ad53341842455d98722c03318dd80fb94", null ],
+    [ "Register", "d0/d48/a16157.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
 ];

@@ -1,7 +1,9 @@
 var a17713 =
 [
-    [ "ExtraEffect", "d0/d1b/a17713.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "d0/d1b/a17713.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "d0/d1b/a17713.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "d0/d1b/a17713.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "npc_stinky_iccAI", "d0/d1b/a17713.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "d0/d1b/a17713.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "d0/d1b/a17713.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "d0/d1b/a17713.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "d0/d1b/a17713.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "d0/d1b/a17713.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

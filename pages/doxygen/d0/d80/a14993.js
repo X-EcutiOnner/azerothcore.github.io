@@ -1,8 +1,10 @@
 var a14993 =
 [
-    [ "hyjalThrallAI", "d0/d80/a14993.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d0/d80/a14993.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d0/d80/a14993.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d0/d80/a14993.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d0/d80/a14993.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "npc_hyjal_gargoyle", "d0/d80/a14993.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "d0/d80/a14993.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "d0/d80/a14993.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "d0/d80/a14993.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "d0/d80/a14993.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "d0/d80/a14993.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "d0/d80/a14993.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

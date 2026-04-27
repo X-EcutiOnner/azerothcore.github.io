@@ -1,5 +1,7 @@
 var a13601 =
 [
-    [ "go_eredar_twins_blaze", "d5/d78/a13601.html#a19d28875d3506d337e0ecbd93169f140", null ],
-    [ "InitializeAI", "d5/d78/a13601.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
+    [ "HandleScriptEffect", "d5/d78/a13601.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "d5/d78/a13601.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "d5/d78/a13601.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "d5/d78/a13601.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

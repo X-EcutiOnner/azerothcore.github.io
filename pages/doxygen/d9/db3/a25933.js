@@ -1,6 +1,7 @@
 var a25933 =
 [
-    [ "PrepareSpellScript", "d9/db3/a25933.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "d9/db3/a25933.html#a313abe6367e5494bd81a557ab42f9f50", null ],
-    [ "SecondaryEffect", "d9/db3/a25933.html#ac12d466f3aeb86a30dc498f10082aab1", null ]
+    [ "HandleProc", "d9/db3/a25933.html#ab25ebdc33ed9f13d9b1f880df064be13", null ],
+    [ "PrepareAuraScript", "d9/db3/a25933.html#afa5dcaae76c60f38b8be4c47cbdaaf95", null ],
+    [ "Register", "d9/db3/a25933.html#ab56b68dce7bf0c1cc251ff261e606cf9", null ],
+    [ "Validate", "d9/db3/a25933.html#a53ad60f89b9db1b0cc34385477aea856", null ]
 ];

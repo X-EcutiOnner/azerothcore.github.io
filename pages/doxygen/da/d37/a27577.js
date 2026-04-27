@@ -1,5 +1,5 @@
 var a27577 =
 [
-    [ "achievement_bg_ic_mowed_down", "da/d37/a27577.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "da/d37/a27577.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "achievement_sa_defense_of_the_ancients", "da/d37/a27577.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "da/d37/a27577.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

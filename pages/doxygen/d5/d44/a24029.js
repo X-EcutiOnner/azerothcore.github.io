@@ -1,9 +1,8 @@
 var a24029 =
 [
-    [ "npc_pet_gen_fetch_ball", "d5/d44/a24029.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "d5/d44/a24029.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "d5/d44/a24029.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "d5/d44/a24029.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "d5/d44/a24029.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "d5/d44/a24029.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "CheckProc", "d5/d44/a24029.html#a746a3e24e07ef9a6ddecef80621768f0", null ],
+    [ "HandleProc", "d5/d44/a24029.html#aa0c2bbb60940982e14ae98799fb220a6", null ],
+    [ "PrepareAuraScript", "d5/d44/a24029.html#a0d9decd8a0901b7ab35de6af120baf34", null ],
+    [ "Register", "d5/d44/a24029.html#aae146676b2ca0f29b1712b774b7f9148", null ],
+    [ "Validate", "d5/d44/a24029.html#a7725ff69907bb8328c5f7dffaf941478", null ]
 ];

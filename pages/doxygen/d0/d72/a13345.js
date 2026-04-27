@@ -1,8 +1,6 @@
 var a13345 =
 [
-    [ "DelayedSummonEvent", "d0/d72/a13345.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "d0/d72/a13345.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "d0/d72/a13345.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "d0/d72/a13345.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "d0/d72/a13345.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "npc_valkyr_battle_maidenAI", "dd/d32/a13349.html", "dd/d32/a13349" ],
+    [ "npc_valkyr_battle_maiden", "d0/d72/a13345.html#a4316dd483b262e637ea39ba9e972744b", null ],
+    [ "GetAI", "d0/d72/a13345.html#ab067ea6f5f92039d471708039089e79c", null ]
 ];

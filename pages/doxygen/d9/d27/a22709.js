@@ -1,6 +1,8 @@
 var a22709 =
 [
-    [ "OnPeriodic", "d9/d27/a22709.html#aef6afe014ce90711cd7628563aada2a4", null ],
-    [ "PrepareAuraScript", "d9/d27/a22709.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
-    [ "Register", "d9/d27/a22709.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
+    [ "CalculateAmount", "d9/d27/a22709.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "d9/d27/a22709.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "d9/d27/a22709.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "d9/d27/a22709.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "d9/d27/a22709.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

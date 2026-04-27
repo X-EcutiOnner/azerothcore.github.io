@@ -1,6 +1,6 @@
 var a13257 =
 [
-    [ "npc_unworthy_initiateAI", "d3/d31/a13261.html", "d3/d31/a13261" ],
-    [ "npc_unworthy_initiate", "d1/d88/a13257.html#aaa04626b783eadc0b14bd89aa715e694", null ],
-    [ "GetAI", "d1/d88/a13257.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
+    [ "HandleScriptEffect", "d1/d88/a13257.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
+    [ "PrepareSpellScript", "d1/d88/a13257.html#ad110e0dba330acde845c47501256cf5d", null ],
+    [ "Register", "d1/d88/a13257.html#ab6971aa466055a1280cd258e26645157", null ]
 ];

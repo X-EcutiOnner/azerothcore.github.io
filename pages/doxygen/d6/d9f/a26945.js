@@ -1,8 +1,8 @@
 var a26945 =
 [
-    [ "HandleRootRemove", "d6/d9f/a26945.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "d6/d9f/a26945.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "d6/d9f/a26945.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "d6/d9f/a26945.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "d6/d9f/a26945.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "CheckProc", "d6/d9f/a26945.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
+    [ "HandleProc", "d6/d9f/a26945.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
+    [ "PrepareAuraScript", "d6/d9f/a26945.html#a91ef63b96918e797e677423d51f94112", null ],
+    [ "Register", "d6/d9f/a26945.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
+    [ "Validate", "d6/d9f/a26945.html#ab6178007664afc34556336ec9620cd4f", null ]
 ];

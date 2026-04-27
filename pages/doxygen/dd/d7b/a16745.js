@@ -1,8 +1,6 @@
 var a16745 =
 [
-    [ "npc_toc_boomkinAI", "dd/d7b/a16745.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "dd/d7b/a16745.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "dd/d7b/a16745.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "dd/d7b/a16745.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "dd/d7b/a16745.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "npc_toc_rogueAI", "de/dd8/a16749.html", "de/dd8/a16749" ],
+    [ "npc_toc_rogue", "dd/d7b/a16745.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "dd/d7b/a16745.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

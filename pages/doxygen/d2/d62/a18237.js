@@ -1,7 +1,6 @@
 var a18237 =
 [
-    [ "FrostBombExplosion", "d2/d62/a18237.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "d2/d62/a18237.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "d2/d62/a18237.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "d2/d62/a18237.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "npc_ice_tombAI", "d2/df6/a18241.html", "d2/df6/a18241" ],
+    [ "npc_ice_tomb", "d2/d62/a18237.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "d2/d62/a18237.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

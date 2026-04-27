@@ -1,6 +1,6 @@
 var a23857 =
 [
-    [ "npc_enraged_spiritAI", "df/da5/a23861.html", "df/da5/a23861" ],
-    [ "npc_enraged_spirit", "d6/d52/a23857.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d6/d52/a23857.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "CheckRequirement", "d6/d52/a23857.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d6/d52/a23857.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d6/d52/a23857.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

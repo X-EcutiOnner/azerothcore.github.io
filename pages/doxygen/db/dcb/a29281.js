@@ -1,11 +1,12 @@
 var a29281 =
 [
-    [ "SetUp", "db/dcb/a29281.html#abb28ef64461635a540dad471b7b12ebc", null ],
-    [ "TearDown", "db/dcb/a29281.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
-    [ "_previousWorld", "db/dcb/a29281.html#a2633d21816e5aa3e4a649292f07a3369", null ],
-    [ "_worldMock", "db/dcb/a29281.html#ae1629c69438e29ea7be460120132b68b", null ],
-    [ "arenaTeams", "db/dcb/a29281.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
-    [ "team1", "db/dcb/a29281.html#a325d8058950e53d17e16fd90cd105776", null ],
-    [ "team2", "db/dcb/a29281.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
-    [ "team3", "db/dcb/a29281.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
+    [ "ApplyGmVisibleState", "db/dcb/a29281.html#a3deb6c8e282913959275b537bb748860", null ],
+    [ "EnsureScriptRegistriesInitialized", "db/dcb/a29281.html#a4238366c75dd8889993888e4e8bce5a2", null ],
+    [ "ExecuteCommand", "db/dcb/a29281.html#ad6c2132a8f827fd0ff6bad1868bf34c2", null ],
+    [ "SetUp", "db/dcb/a29281.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "TearDown", "db/dcb/a29281.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "db/dcb/a29281.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "db/dcb/a29281.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "db/dcb/a29281.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "db/dcb/a29281.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];

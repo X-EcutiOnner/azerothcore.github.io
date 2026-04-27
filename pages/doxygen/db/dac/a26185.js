@@ -1,8 +1,9 @@
 var a26185 =
 [
-    [ "HandleProc", "db/dac/a26185.html#ab98571b7f614d66c44c25d0d2c6aa738", null ],
-    [ "PrepareAuraScript", "db/dac/a26185.html#a194c83ebc29c4522b5fc313a3ab4d1dd", null ],
-    [ "Register", "db/dac/a26185.html#a6dfd4dc774e58a8881b20a31d4c1be56", null ],
-    [ "Validate", "db/dac/a26185.html#a886d2b1a2bf2f25bde5248edcef9733d", null ],
-    [ "_critStreak", "db/dac/a26185.html#a4a8e3c9d8754844d74e72cb328c44221", null ]
+    [ "AllowT10Proc", "db/dac/a26185.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
+    [ "OnRemove", "db/dac/a26185.html#a52807f94eba44a9b574577a0b27acb22", null ],
+    [ "PrepareAuraScript", "db/dac/a26185.html#a430303b7df445d38da9316324359c2d6", null ],
+    [ "Register", "db/dac/a26185.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
+    [ "Validate", "db/dac/a26185.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
+    [ "_canProcT10", "db/dac/a26185.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
 ];

@@ -1,6 +1,6 @@
 var a20965 =
 [
-    [ "boss_ymironAI", "d6/dbe/a20969.html", "d6/dbe/a20969" ],
-    [ "boss_ymiron", "d7/db5/a20965.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "d7/db5/a20965.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "boss_archavonAI", "d6/dbe/a20969.html", "d6/dbe/a20969" ],
+    [ "boss_archavon", "d7/db5/a20965.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "d7/db5/a20965.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

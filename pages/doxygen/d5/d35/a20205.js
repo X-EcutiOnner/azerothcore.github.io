@@ -1,6 +1,6 @@
 var a20205 =
 [
-    [ "FilterTargets", "d5/d35/a20205.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "d5/d35/a20205.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "d5/d35/a20205.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "HandleAfterEffectApply", "d5/d35/a20205.html#af655bb31dc24a3cede08ca371f784913", null ],
+    [ "PrepareAuraScript", "d5/d35/a20205.html#a1824853d0b369deac0745fabe2df657c", null ],
+    [ "Register", "d5/d35/a20205.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
 ];

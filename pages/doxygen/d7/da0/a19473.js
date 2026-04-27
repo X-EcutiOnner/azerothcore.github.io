@@ -1,8 +1,6 @@
 var a19473 =
 [
-    [ "Load", "d7/da0/a19473.html#af8ef90a44a5405e58dbb3003642c078b", null ],
-    [ "PrepareSpellScript", "d7/da0/a19473.html#a40649371440d62e4ba8af1b077880d0b", null ],
-    [ "Register", "d7/da0/a19473.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
-    [ "SendThreeTargets", "d7/da0/a19473.html#ab16b83839ce9136da84691640020f846", null ],
-    [ "Validate", "d7/da0/a19473.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
+    [ "ChargeRifts", "d7/da0/a19473.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "d7/da0/a19473.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "d7/da0/a19473.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

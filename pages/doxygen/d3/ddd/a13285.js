@@ -1,8 +1,6 @@
 var a13285 =
 [
-    [ "HandleDummy", "d3/ddd/a13285.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d3/ddd/a13285.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d3/ddd/a13285.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d3/ddd/a13285.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d3/ddd/a13285.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_a_special_surpriseAI", "d0/d05/a13289.html", "d0/d05/a13289" ],
+    [ "npc_a_special_surprise", "d3/ddd/a13285.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "d3/ddd/a13285.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

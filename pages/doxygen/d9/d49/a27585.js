@@ -1,6 +1,5 @@
 var a27585 =
 [
-    [ "achievement_arena_by_type", "d9/d49/a27585.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d9/d49/a27585.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d9/d49/a27585.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "achievement_not_even_a_scratch", "d9/d49/a27585.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d9/d49/a27585.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

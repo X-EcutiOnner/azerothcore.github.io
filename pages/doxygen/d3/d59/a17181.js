@@ -1,7 +1,6 @@
 var a17181 =
 [
-    [ "HandleEffectPeriodic", "d3/d59/a17181.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
-    [ "PrepareAuraScript", "d3/d59/a17181.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
-    [ "Register", "d3/d59/a17181.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
-    [ "Validate", "d3/d59/a17181.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
+    [ "boss_garfrostAI", "d3/d8d/a17185.html", "d3/d8d/a17185" ],
+    [ "boss_garfrost", "d3/d59/a17181.html#ac116491cf252ee476cedee55ea292827", null ],
+    [ "GetAI", "d3/d59/a17181.html#a8a67bb09249655a8706868bb26b5124d", null ]
 ];

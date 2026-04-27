@@ -1,9 +1,5 @@
 var a13545 =
 [
-    [ "boss_brutallus", "d8/d26/a13545.html#a501c898505eb4265edee1546bc54713e", null ],
-    [ "AttackStart", "d8/d26/a13545.html#a05edf7010f4e7364399bc81582502219", null ],
-    [ "JustDied", "d8/d26/a13545.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
-    [ "JustEngagedWith", "d8/d26/a13545.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
-    [ "KilledUnit", "d8/d26/a13545.html#a608607d83680da85f91324ce0035804b", null ],
-    [ "Reset", "d8/d26/a13545.html#a20ad64739072e39e7ff3132c6f637af7", null ]
+    [ "at_sunwell_madrigosa", "d8/d26/a13545.html#a489ddb537ef272f22bd69ced194762e7", null ],
+    [ "_OnTrigger", "d8/d26/a13545.html#a137c231ea66d3781080a5617a2ffcc9e", null ]
 ];

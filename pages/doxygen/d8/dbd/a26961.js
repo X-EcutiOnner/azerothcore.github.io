@@ -1,6 +1,6 @@
 var a26961 =
 [
-    [ "HandleProc", "d8/dbd/a26961.html#a88c2793fb6043d4d4e970a99df38681a", null ],
-    [ "PrepareAuraScript", "d8/dbd/a26961.html#aa2b2e8a0b209d96828ad8c5dd84726b6", null ],
-    [ "Register", "d8/dbd/a26961.html#a9e69ca6fa962ccf17c090243a91b4d51", null ]
+    [ "HandleEffectApply", "d8/dbd/a26961.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
+    [ "PrepareAuraScript", "d8/dbd/a26961.html#aed642c73ab31fb63aa497ada45863ae6", null ],
+    [ "Register", "d8/dbd/a26961.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
 ];

@@ -1,7 +1,6 @@
 var a14905 =
 [
-    [ "boss_azuregosAI", "de/df0/a14909.html", "de/df0/a14909" ],
-    [ "boss_azuregos", "df/dee/a14905.html#a48590db0037870ca5c9425a468e5ea3a", null ],
-    [ "GetAI", "df/dee/a14905.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
-    [ "OnGossipSelect", "df/dee/a14905.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
+    [ "FilterTargets", "df/dee/a14905.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
+    [ "PrepareSpellScript", "df/dee/a14905.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
+    [ "Register", "df/dee/a14905.html#a6375482bd9d1fc6c6941607273c506dc", null ]
 ];

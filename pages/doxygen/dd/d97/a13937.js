@@ -1,10 +1,8 @@
 var a13937 =
 [
-    [ "npc_grand_magister_rommathAI", "dd/d97/a13937.html#a5e9404dd8bf4b513e05daac53c076314", null ],
-    [ "DoAction", "dd/d97/a13937.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
-    [ "MoveInLineOfSight", "dd/d97/a13937.html#ad35b64b37915484b133bcd185a832011", null ],
-    [ "UpdateAI", "dd/d97/a13937.html#ac687bd20f0ae66b21ce52c21561af417", null ],
-    [ "announced", "dd/d97/a13937.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
-    [ "events", "dd/d97/a13937.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
-    [ "playerGUID", "dd/d97/a13937.html#ad0ac0647feb998e837a44b0a688694e9", null ]
+    [ "npc_deathstalker_erlandAI", "dd/d97/a13937.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "dd/d97/a13937.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "dd/d97/a13937.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "dd/d97/a13937.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ],
+    [ "WaypointReached", "dd/d97/a13937.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

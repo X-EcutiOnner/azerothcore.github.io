@@ -1,7 +1,7 @@
 var a13441 =
 [
-    [ "boss_apothecary_hummelAI", "df/d50/a13445.html", "df/d50/a13445" ],
-    [ "boss_apothecary_hummel", "df/d01/a13441.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "df/d01/a13441.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "df/d01/a13441.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "HandleAfterCast", "df/d01/a13441.html#afa662fbe1b777047259ac6212961f7a5", null ],
+    [ "HandleScript", "df/d01/a13441.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
+    [ "PrepareSpellScript", "df/d01/a13441.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
+    [ "Register", "df/d01/a13441.html#a4a898b0b096583af33f1f691a252b2ed", null ]
 ];

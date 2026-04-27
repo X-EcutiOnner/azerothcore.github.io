@@ -1,7 +1,7 @@
 var a13461 =
 [
-    [ "HandleAfterCast", "de/dd2/a13461.html#afa662fbe1b777047259ac6212961f7a5", null ],
-    [ "HandleScript", "de/dd2/a13461.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
-    [ "PrepareSpellScript", "de/dd2/a13461.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
-    [ "Register", "de/dd2/a13461.html#a4a898b0b096583af33f1f691a252b2ed", null ]
+    [ "OnPeriodic", "de/dd2/a13461.html#ab193b7cf8a8fe91879317e7d21522976", null ],
+    [ "PrepareAuraScript", "de/dd2/a13461.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
+    [ "Register", "de/dd2/a13461.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
+    [ "Validate", "de/dd2/a13461.html#a290b864756ceff85d52ba3f974a28217", null ]
 ];

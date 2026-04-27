@@ -1,8 +1,7 @@
 var a15981 =
 [
-    [ "npc_pluckyAI", "dc/def/a15985.html", "dc/def/a15985" ],
-    [ "npc_plucky", "d1/dd9/a15981.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "d1/dd9/a15981.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "d1/dd9/a15981.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "d1/dd9/a15981.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_ameAI", "dc/def/a15985.html", "dc/def/a15985" ],
+    [ "npc_ame", "d1/dd9/a15981.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d1/dd9/a15981.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d1/dd9/a15981.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

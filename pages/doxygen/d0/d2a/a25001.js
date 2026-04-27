@@ -1,5 +1,6 @@
 var a25001 =
 [
-    [ "PrepareSpellScript", "d0/d2a/a25001.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
-    [ "Register", "d0/d2a/a25001.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
+    [ "OnApply", "d0/d2a/a25001.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
+    [ "PrepareAuraScript", "d0/d2a/a25001.html#a159ee8a9b0af729ed01f7632adb58863", null ],
+    [ "Register", "d0/d2a/a25001.html#a0f33043317402119aa14e50a1eb6c227", null ]
 ];

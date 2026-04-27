@@ -1,6 +1,4 @@
 var a28741 =
 [
-    [ "color", "d2/d70/a28741.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "d2/d70/a28741.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "d2/d70/a28741.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "ratio", "d2/d70/a28741.html#a4df2f98014dd653657b80b4d98e54896", null ]
 ];

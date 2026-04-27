@@ -1,5 +1,7 @@
 var a23717 =
 [
-    [ "go_warmaul_prison", "dd/d47/a23717.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "dd/d47/a23717.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "npc_bessyAI", "d1/d01/a23721.html", "d1/d01/a23721" ],
+    [ "npc_bessy", "dd/d47/a23717.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "dd/d47/a23717.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "dd/d47/a23717.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

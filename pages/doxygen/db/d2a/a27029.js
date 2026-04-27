@@ -1,10 +1,7 @@
 var a27029 =
 [
-    [ "CalculateAPAmount", "db/d2a/a27029.html#abba0772c18bf98696dc1f236da79401e", null ],
-    [ "CalculateResistanceAmount", "db/d2a/a27029.html#a2db04d2d4af16e34cb69b71dbcd0c066", null ],
-    [ "CalculateSPAmount", "db/d2a/a27029.html#a4ecc412bb7d5e89a886c9ad4cc562187", null ],
-    [ "CalculateStatAmount", "db/d2a/a27029.html#a9269eee5ef676c466e662305389988f0", null ],
-    [ "HandleEffectApply", "db/d2a/a27029.html#aa818ca9c4e7b1320f97931525faff1c4", null ],
-    [ "PrepareAuraScript", "db/d2a/a27029.html#a5b35686a2ddd761343d811a8472c1c3b", null ],
-    [ "Register", "db/d2a/a27029.html#a9bf7cd6309b4724462b03c1080324f83", null ]
+    [ "CalculateAmount", "db/d2a/a27029.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
+    [ "PrepareAuraScript", "db/d2a/a27029.html#aa966d001c3687403dfa2b13e998ca241", null ],
+    [ "Register", "db/d2a/a27029.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
+    [ "Validate", "db/d2a/a27029.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
 ];

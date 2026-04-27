@@ -1,7 +1,6 @@
 var a15761 =
 [
-    [ "HandleDummy", "de/d0a/a15761.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "de/d0a/a15761.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "de/d0a/a15761.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "de/d0a/a15761.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npcs_riverbreeze_and_silversky", "de/d0a/a15761.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "de/d0a/a15761.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "de/d0a/a15761.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

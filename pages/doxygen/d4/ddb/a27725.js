@@ -1,7 +1,6 @@
 var a27725 =
 [
-    [ "FilterTargets", "d4/ddb/a27725.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d4/ddb/a27725.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d4/ddb/a27725.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d4/ddb/a27725.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "go_witherbark_totem_bundleAI", "d0/df2/a27729.html", "d0/df2/a27729" ],
+    [ "go_witherbark_totem_bundle", "d4/ddb/a27725.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "d4/ddb/a27725.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

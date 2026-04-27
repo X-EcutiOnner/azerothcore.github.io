@@ -1,7 +1,5 @@
 var a21277 =
 [
-    [ "HandleProc", "da/d85/a21277.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "da/d85/a21277.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "da/d85/a21277.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "da/d85/a21277.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "npc_steam_powered_auctioneerAI", "da/d85/a21277.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "da/d85/a21277.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

@@ -1,7 +1,10 @@
 var a20621 =
 [
-    [ "boss_yoggsaron_corruptor_tentacle", "d0/d56/a20621.html#afc092be8079630b1214c98b8896a22c3", null ],
-    [ "DoAction", "d0/d56/a20621.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
-    [ "SelectCorruptionTarget", "d0/d56/a20621.html#a8b868941372af612e269e013594a5c14", null ],
-    [ "UpdateAI", "d0/d56/a20621.html#a2f8911a615d32689088a6c358ac80d3f", null ]
+    [ "boss_yoggsaron_immortal_guardian", "d0/d56/a20621.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "d0/d56/a20621.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "Reset", "d0/d56/a20621.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "d0/d56/a20621.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "d0/d56/a20621.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spellTimer", "d0/d56/a20621.html#a521b956c116a23523fdfceb95a42c1e2", null ],
+    [ "_visualTimer", "d0/d56/a20621.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
 ];

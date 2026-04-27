@@ -1,6 +1,8 @@
 var a15949 =
 [
-    [ "npc_twiggy_flatheadAI", "db/d6e/a15953.html", "db/d6e/a15953" ],
-    [ "npc_twiggy_flathead", "dc/dc8/a15949.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "dc/dc8/a15949.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "npc_lakota_windsongAI", "dc/dc8/a15949.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "dc/dc8/a15949.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "dc/dc8/a15949.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "dc/dc8/a15949.html#a6435c8b1521206789131889e5fa527a6", null ],
+    [ "WaypointReached", "dc/dc8/a15949.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

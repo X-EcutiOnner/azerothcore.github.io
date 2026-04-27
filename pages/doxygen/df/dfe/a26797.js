@@ -1,6 +1,6 @@
 var a26797 =
 [
-    [ "HandleEffectPeriodic", "df/dfe/a26797.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "df/dfe/a26797.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "df/dfe/a26797.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "PrepareSpellScript", "df/dfe/a26797.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
+    [ "Register", "df/dfe/a26797.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
+    [ "SetDest", "df/dfe/a26797.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
 ];

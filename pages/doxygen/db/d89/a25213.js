@@ -1,6 +1,7 @@
 var a25213 =
 [
-    [ "FilterTargets", "db/d89/a25213.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
-    [ "PrepareSpellScript", "db/d89/a25213.html#a9fb910382c89750e38cb36bed48a1597", null ],
-    [ "Register", "db/d89/a25213.html#a667b10129d2d23f72712be523dc93180", null ]
+    [ "HandleOnEffectApply", "db/d89/a25213.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "db/d89/a25213.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "db/d89/a25213.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "db/d89/a25213.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

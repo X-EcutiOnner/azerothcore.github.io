@@ -1,6 +1,5 @@
 var a21737 =
 [
-    [ "npc_infra_green_bomber_genericAI", "db/da5/a21741.html", "db/da5/a21741" ],
-    [ "npc_infra_green_bomber_generic", "d7/d75/a21737.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "d7/d75/a21737.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "npc_guardian_pavilionAI", "d7/d75/a21737.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d7/d75/a21737.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

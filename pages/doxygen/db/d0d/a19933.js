@@ -1,6 +1,11 @@
 var a19933 =
 [
-    [ "FilterTargets", "db/d0d/a19933.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "db/d0d/a19933.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "db/d0d/a19933.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "boss_flame_leviathan_defense_turret", "db/d0d/a19933.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
+    [ "CanAIAttack", "db/d0d/a19933.html#a17020dc7facabb0cacac3209277a73f7", null ],
+    [ "DamageTaken", "db/d0d/a19933.html#ac15aadce1954d827b7e833ed761faf10", null ],
+    [ "JustDied", "db/d0d/a19933.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
+    [ "KilledUnit", "db/d0d/a19933.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
+    [ "UpdateAI", "db/d0d/a19933.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
+    [ "_instance", "db/d0d/a19933.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
+    [ "_setHealth", "db/d0d/a19933.html#a413187aa01c119d088846a216f093baa", null ]
 ];

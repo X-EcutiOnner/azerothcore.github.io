@@ -1,11 +1,11 @@
 var a03332 =
 [
-    [ "SpiritInfoStruct", "da/d7c/a14157.html", "da/d7c/a14157" ],
-    [ "TransformStruct", "d1/d4c/a14161.html", "d1/d4c/a14161" ],
-    [ "boss_zuljin", "d2/dd9/a14165.html", "d2/dd9/a14165" ],
-    [ "npc_zuljin_vortex", "d8/d52/a14169.html", "d8/d52/a14169" ],
-    [ "spell_claw_rage_aura", "db/ddf/a14173.html", "db/ddf/a14173" ],
-    [ "spell_zuljin_zap", "d9/d69/a14177.html", "d9/d69/a14177" ],
+    [ "SpiritInfoStruct", "dc/dd7/a14137.html", "dc/dd7/a14137" ],
+    [ "TransformStruct", "d8/d95/a14141.html", "d8/d95/a14141" ],
+    [ "boss_zuljin", "d9/d29/a14145.html", "d9/d29/a14145" ],
+    [ "npc_zuljin_vortex", "da/dd9/a14149.html", "da/dd9/a14149" ],
+    [ "spell_claw_rage_aura", "d8/d2d/a14153.html", "d8/d2d/a14153" ],
+    [ "spell_zuljin_zap", "da/d7c/a14157.html", "da/d7c/a14157" ],
     [ "CreatureEntries", "d6/d83/a03332.html#a8954ba92de87382cc5d2ff27d0ec3918", [
       [ "NPC_SPIRIT_BEAR", "d6/d83/a03332.html#a8954ba92de87382cc5d2ff27d0ec3918a8e01247ce5b414c3d524c17f3402be51", null ],
       [ "NPC_SPIRIT_EAGLE", "d6/d83/a03332.html#a8954ba92de87382cc5d2ff27d0ec3918aaba9b813f2d7aead25a6f8dde61b2cfc", null ],
@@ -377,6 +377,9 @@ var a03332 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

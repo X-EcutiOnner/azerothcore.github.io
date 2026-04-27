@@ -1,5 +1,6 @@
 var a13533 =
 [
-    [ "at_malfurion_stormrage", "d1/df2/a13533.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
-    [ "OnTrigger", "d1/df2/a13533.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
+    [ "HandleActivateObject", "d1/df2/a13533.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
+    [ "PrepareSpellScript", "d1/df2/a13533.html#ad55914fdc6771e09a508572d59ad30ed", null ],
+    [ "Register", "d1/df2/a13533.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
 ];

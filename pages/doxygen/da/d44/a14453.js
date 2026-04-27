@@ -1,6 +1,6 @@
 var a14453 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "dd/d42/a14457.html", "dd/d42/a14457" ],
-    [ "instance_zulgurub", "da/d44/a14453.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "da/d44/a14453.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "npc_brewfest_keg_reciver", "da/d44/a14453.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "da/d44/a14453.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "da/d44/a14453.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

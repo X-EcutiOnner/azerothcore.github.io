@@ -1,6 +1,6 @@
 var a18045 =
 [
-    [ "UnboundPlagueTargetSelector", "db/d77/a18045.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "db/d77/a18045.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "db/d77/a18045.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "npc_volatile_oozeAI", "d9/d1f/a18049.html", "d9/d1f/a18049" ],
+    [ "npc_volatile_ooze", "db/d77/a18045.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "db/d77/a18045.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

@@ -1,7 +1,10 @@
 var a14417 =
 [
-    [ "HandleApply", "d6/de3/a14417.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
-    [ "HandleRemove", "d6/de3/a14417.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
-    [ "PrepareAuraScript", "d6/de3/a14417.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
-    [ "Register", "d6/de3/a14417.html#af2343add2ed014832bd34d11519b391b", null ]
+    [ "npc_zealot_zath", "d6/de3/a14417.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "d6/de3/a14417.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "d6/de3/a14417.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "d6/de3/a14417.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "d6/de3/a14417.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "d6/de3/a14417.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "d6/de3/a14417.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

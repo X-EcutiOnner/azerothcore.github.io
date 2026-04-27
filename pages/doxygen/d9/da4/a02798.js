@@ -1,8 +1,8 @@
 var a02798 =
 [
-    [ "boss_high_astromancer_solarian", "dc/d46/a23433.html", "dc/d46/a23433" ],
-    [ "spell_astromancer_wrath_of_the_astromancer", "d8/d9f/a23437.html", "d8/d9f/a23437" ],
-    [ "spell_astromancer_solarian_transform", "dd/d01/a23441.html", "dd/d01/a23441" ],
+    [ "boss_high_astromancer_solarian", "db/df7/a23413.html", "db/df7/a23413" ],
+    [ "spell_astromancer_wrath_of_the_astromancer", "dc/d49/a23417.html", "dc/d49/a23417" ],
+    [ "spell_astromancer_solarian_transform", "d9/ddb/a23421.html", "d9/ddb/a23421" ],
     [ "CENTER_O", "d9/da4/a02798.html#a1b683ec7a35f03622bada41f50aac881", null ],
     [ "CENTER_X", "d9/da4/a02798.html#affb36ca3a6519ca609cfa9a0d70a682a", null ],
     [ "CENTER_Y", "d9/da4/a02798.html#a65dba9379097de8ea0bb4afd9d504b2b", null ],
@@ -378,6 +378,9 @@ var a02798 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

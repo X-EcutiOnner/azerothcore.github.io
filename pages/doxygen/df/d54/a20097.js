@@ -1,9 +1,8 @@
 var a20097 =
 [
-    [ "boss_freya_nature_bomb", "df/d54/a20097.html#a050672942ab467557d21a930ab22827c", null ],
-    [ "Reset", "df/d54/a20097.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
-    [ "UpdateAI", "df/d54/a20097.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
-    [ "_explodeTimer", "df/d54/a20097.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
-    [ "_goGUID", "df/d54/a20097.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
-    [ "Timer", "df/d54/a20097.html#affadb797817ddf512209d1d71097baf3", null ]
+    [ "npc_ulduar_saronite_animus", "df/d54/a20097.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
+    [ "JustDied", "df/d54/a20097.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
+    [ "UpdateAI", "df/d54/a20097.html#afc7899752e25669b37ab04b50fb2d604", null ],
+    [ "_instance", "df/d54/a20097.html#a6f2bf52c82185365efe88941b7922504", null ],
+    [ "timer", "df/d54/a20097.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
 ];

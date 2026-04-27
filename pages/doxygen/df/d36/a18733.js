@@ -1,8 +1,6 @@
 var a18733 =
 [
-    [ "npc_suppresserAI", "df/d36/a18733.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "df/d36/a18733.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "df/d36/a18733.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "df/d36/a18733.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "df/d36/a18733.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "HandleScript", "df/d36/a18733.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
+    [ "PrepareSpellScript", "df/d36/a18733.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
+    [ "Register", "df/d36/a18733.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
 ];

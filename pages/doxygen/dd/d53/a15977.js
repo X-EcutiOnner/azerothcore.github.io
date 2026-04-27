@@ -1,8 +1,13 @@
 var a15977 =
 [
-    [ "npc_paoka_swiftmountainAI", "dd/d53/a15977.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "dd/d53/a15977.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "dd/d53/a15977.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "dd/d53/a15977.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
-    [ "WaypointReached", "dd/d53/a15977.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_cairne_bloodhoofAI", "dd/d53/a15977.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
+    [ "JustDied", "dd/d53/a15977.html#a88bab853ee3f7445c1d5f0d4d1f3485b", null ],
+    [ "Reset", "dd/d53/a15977.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
+    [ "sGossipSelect", "dd/d53/a15977.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
+    [ "UpdateAI", "dd/d53/a15977.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
+    [ "_berserkerChargeTimer", "dd/d53/a15977.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
+    [ "_cleaveTimer", "dd/d53/a15977.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
+    [ "_mortalStrikeTimer", "dd/d53/a15977.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
+    [ "_thunderclapTimer", "dd/d53/a15977.html#a6bdca667875353db2badc40fd95a1ce4", null ],
+    [ "_uppercutTimer", "dd/d53/a15977.html#a9f13acd7df900d9bdac64898b183c67d", null ]
 ];

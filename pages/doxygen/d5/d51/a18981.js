@@ -1,7 +1,6 @@
 var a18981 =
 [
-    [ "HandleDummy", "d5/d51/a18981.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "d5/d51/a18981.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "d5/d51/a18981.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "d5/d51/a18981.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d7/dcd/a18985.html", "d7/dcd/a18985" ],
+    [ "npc_icc_skybreaker_vicar", "d5/d51/a18981.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
+    [ "GetAI", "d5/d51/a18981.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
 ];

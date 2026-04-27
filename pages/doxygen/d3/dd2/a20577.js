@@ -1,5 +1,15 @@
 var a20577 =
 [
-    [ "achievement_xt002_nerf_engineering", "d3/dd2/a20577.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "d3/dd2/a20577.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "boss_yoggsaron_cloud", "d3/dd2/a20577.html#a4efbeab85d5770784f1474176a23fd74", null ],
+    [ "AttackStart", "d3/dd2/a20577.html#a280ad77f30f06c01ee16434794814767", null ],
+    [ "DoAction", "d3/dd2/a20577.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
+    [ "InitWaypoint", "d3/dd2/a20577.html#a390c25b21c29aafb616bd2c827352ffe", null ],
+    [ "JustSummoned", "d3/dd2/a20577.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
+    [ "MoveInLineOfSight", "d3/dd2/a20577.html#a798009bca30677a645529b1313cc89ae", null ],
+    [ "Reset", "d3/dd2/a20577.html#ad548ae65a05f600487a57899760ebab0", null ],
+    [ "UpdateEscortAI", "d3/dd2/a20577.html#aba8043fca75864e583da9c5167efce3b", null ],
+    [ "WaypointReached", "d3/dd2/a20577.html#aae9f3ac55a3008fcc88d78c907056827", null ],
+    [ "WaypointReached", "d3/dd2/a20577.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_checkTimer", "d3/dd2/a20577.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
+    [ "_isSummoning", "d3/dd2/a20577.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ]
 ];

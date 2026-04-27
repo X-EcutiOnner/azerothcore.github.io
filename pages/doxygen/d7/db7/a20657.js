@@ -1,10 +1,8 @@
 var a20657 =
 [
-    [ "boss_yoggsaron_voice", "d7/db7/a20657.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
-    [ "Reset", "d7/db7/a20657.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
-    [ "SpellHitTarget", "d7/db7/a20657.html#aae3b82dbb871f0f297bdacf975958492", null ],
-    [ "UpdateAI", "d7/db7/a20657.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
-    [ "_current", "d7/db7/a20657.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
-    [ "_targets", "d7/db7/a20657.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
-    [ "events", "d7/db7/a20657.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
+    [ "FilterTargets", "d7/db7/a20657.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
+    [ "HandleDummyEffect", "d7/db7/a20657.html#afbf3aab6724d12426ab0197fb9459562", null ],
+    [ "PrepareSpellScript", "d7/db7/a20657.html#a7ec441904bc100c6b15ee219617489ff", null ],
+    [ "Register", "d7/db7/a20657.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
+    [ "Validate", "d7/db7/a20657.html#a85388adbc15d449e687f9f463cce3833", null ]
 ];

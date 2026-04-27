@@ -1,10 +1,7 @@
 var a18265 =
 [
-    [ "CountTargets", "d3/d6e/a18265.html#a042c3f2ee73533b397a2d697d1da6563", null ],
-    [ "HandleDummy", "d3/d6e/a18265.html#ab314680d5349c0c3e449694b92ab7311", null ],
-    [ "Load", "d3/d6e/a18265.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
-    [ "PrepareSpellScript", "d3/d6e/a18265.html#a8b831c01cd9fd997279f6a81170786de", null ],
-    [ "Register", "d3/d6e/a18265.html#ab0d87ba23eb252075cb0779b06813a31", null ],
-    [ "SelectDest", "d3/d6e/a18265.html#a6061486d0067af51c8ef079224ea63f1", null ],
-    [ "_targetCount", "d3/d6e/a18265.html#a58f839370a885c450e6742cbb3116784", null ]
+    [ "HandleScript", "d3/d6e/a18265.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "d3/d6e/a18265.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "d3/d6e/a18265.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "d3/d6e/a18265.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

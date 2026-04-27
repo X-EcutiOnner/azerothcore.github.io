@@ -1,6 +1,7 @@
 var a22405 =
 [
-    [ "FilterTargets", "dd/da7/a22405.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
-    [ "PrepareSpellScript", "dd/da7/a22405.html#ae8f3906007580963bda33cd0e420299b", null ],
-    [ "Register", "dd/da7/a22405.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
+    [ "HandleDummy", "dd/da7/a22405.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
+    [ "PrepareSpellScript", "dd/da7/a22405.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
+    [ "Register", "dd/da7/a22405.html#af5926d8570de13e66aa1870184620b94", null ],
+    [ "Validate", "dd/da7/a22405.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
 ];

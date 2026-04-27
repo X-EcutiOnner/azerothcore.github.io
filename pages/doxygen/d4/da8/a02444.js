@@ -1,9 +1,9 @@
 var a02444 =
 [
-    [ "npc_thrall_old_hillsbrad", "d4/d63/a15133.html", "d4/d63/a15133" ],
-    [ "npc_thrall_old_hillsbrad::npc_thrall_old_hillsbradAI", "d7/db2/a15137.html", "d7/db2/a15137" ],
-    [ "npc_taretha", "db/dc0/a15141.html", "db/dc0/a15141" ],
-    [ "npc_taretha::npc_tarethaAI", "de/d1b/a15145.html", "de/d1b/a15145" ],
+    [ "npc_thrall_old_hillsbrad", "d1/d6f/a15113.html", "d1/d6f/a15113" ],
+    [ "npc_thrall_old_hillsbrad::npc_thrall_old_hillsbradAI", "d8/d0b/a15117.html", "d8/d0b/a15117" ],
+    [ "npc_taretha", "d2/d94/a15121.html", "d2/d94/a15121" ],
+    [ "npc_taretha::npc_tarethaAI", "df/da9/a15125.html", "df/da9/a15125" ],
     [ "SPEED_MOUNTED", "d4/da8/a02444.html#a7e059016e4f9b8f2cc7c2b89ead8de5a", null ],
     [ "SPEED_RUNNING", "d4/da8/a02444.html#a90caa16af6201f0e06561b0c8cb762fc", null ],
     [ "Events", "d4/da8/a02444.html#af60e00b78607064c5be6aa9397ea49c1", [
@@ -1604,6 +1604,9 @@ var a02444 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

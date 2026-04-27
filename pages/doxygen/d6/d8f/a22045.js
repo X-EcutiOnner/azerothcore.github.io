@@ -1,6 +1,9 @@
 var a22045 =
 [
-    [ "HandlePeriodicDummy", "d6/d8f/a22045.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d6/d8f/a22045.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d6/d8f/a22045.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "npc_finklesteinAI", "d5/d64/a22049.html", "d5/d64/a22049" ],
+    [ "npc_finklestein", "d6/d8f/a22045.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "d6/d8f/a22045.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "d6/d8f/a22045.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "d6/d8f/a22045.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "d6/d8f/a22045.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

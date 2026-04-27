@@ -1,6 +1,6 @@
 var a17317 =
 [
-    [ "npc_pos_leader_secondAI", "de/d8c/a17321.html", "de/d8c/a17321" ],
-    [ "npc_pos_leader_second", "da/d45/a17317.html#ac4758674cc97eae0937264fa028e6da5", null ],
-    [ "GetAI", "da/d45/a17317.html#ac403cfc86247990d78c9cf4179df8b87", null ]
+    [ "HandleDummy", "da/d45/a17317.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
+    [ "PrepareSpellScript", "da/d45/a17317.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
+    [ "Register", "da/d45/a17317.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
 ];

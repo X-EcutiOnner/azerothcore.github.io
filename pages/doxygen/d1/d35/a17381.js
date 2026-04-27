@@ -1,6 +1,8 @@
 var a17381 =
 [
-    [ "npc_living_mojoAI", "d5/d0e/a17385.html", "d5/d0e/a17385" ],
-    [ "npc_living_mojo", "d1/d35/a17381.html#af24190023549b4ec5fa47b5959618a8a", null ],
-    [ "GetAI", "d1/d35/a17381.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
+    [ "boss_eck", "d1/d35/a17381.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "d1/d35/a17381.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "d1/d35/a17381.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "d1/d35/a17381.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "d1/d35/a17381.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

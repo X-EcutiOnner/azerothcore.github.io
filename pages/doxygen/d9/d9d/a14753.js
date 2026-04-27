@@ -1,7 +1,5 @@
 var a14753 =
 [
-    [ "OnApply", "d9/d9d/a14753.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "d9/d9d/a14753.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "d9/d9d/a14753.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "d9/d9d/a14753.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "PrepareSpellScript", "d9/d9d/a14753.html#a50ee42c11937759b6c52c2ab994481c4", null ],
+    [ "Register", "d9/d9d/a14753.html#a8dc12a723c2da948c38119e3fc34df35", null ]
 ];

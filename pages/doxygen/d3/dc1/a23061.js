@@ -1,7 +1,8 @@
 var a23061 =
 [
-    [ "HandleScript", "d3/dc1/a23061.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "d3/dc1/a23061.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "d3/dc1/a23061.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "d3/dc1/a23061.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "npc_underbat", "d3/dc1/a23061.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "d3/dc1/a23061.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "d3/dc1/a23061.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "d3/dc1/a23061.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "d3/dc1/a23061.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

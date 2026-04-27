@@ -1,5 +1,8 @@
 var a27965 =
 [
-    [ "item_mysterious_egg", "df/de1/a27965.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "df/de1/a27965.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "trigger_periodicAI", "df/de1/a27965.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "df/de1/a27965.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "df/de1/a27965.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "df/de1/a27965.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "df/de1/a27965.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

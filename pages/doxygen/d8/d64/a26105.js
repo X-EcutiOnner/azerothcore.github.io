@@ -1,7 +1,8 @@
 var a26105 =
 [
-    [ "HandleKnockBack", "d8/d64/a26105.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "d8/d64/a26105.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "d8/d64/a26105.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "d8/d64/a26105.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "CheckProc", "d8/d64/a26105.html#a801610a9f9fae5cb711850254b291268", null ],
+    [ "HandleProc", "d8/d64/a26105.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
+    [ "PrepareAuraScript", "d8/d64/a26105.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
+    [ "Register", "d8/d64/a26105.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
+    [ "Validate", "d8/d64/a26105.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
 ];

@@ -1,6 +1,6 @@
 var a26293 =
 [
-    [ "HandleEffectCalcSpellMod", "de/d82/a26293.html#a81395c735b9546632af71319067b575b", null ],
-    [ "PrepareAuraScript", "de/d82/a26293.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
-    [ "Register", "de/d82/a26293.html#ae49a0ec525819981595c12839133a35b", null ]
+    [ "CalculateAmount", "de/d82/a26293.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "de/d82/a26293.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "de/d82/a26293.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

@@ -1,5 +1,6 @@
 var a14789 =
 [
-    [ "PrepareSpellScript", "db/d65/a14789.html#af219083d127afe24b2541a95bfd449ff", null ],
-    [ "Register", "db/d65/a14789.html#a03f7ac8d5968970f769191c7df7f5899", null ]
+    [ "HandleAfterEffectRemove", "db/d65/a14789.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
+    [ "PrepareAuraScript", "db/d65/a14789.html#a3b54e232c0502eaa03b314a05dce1835", null ],
+    [ "Register", "db/d65/a14789.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
 ];

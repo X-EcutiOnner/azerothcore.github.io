@@ -1,6 +1,5 @@
 var a19737 =
 [
-    [ "boss_maiden_of_griefAI", "d9/d32/a19741.html", "d9/d32/a19741" ],
-    [ "boss_maiden_of_grief", "d2/df0/a19737.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
-    [ "GetAI", "d2/df0/a19737.html#af8d2e6392a0c73add801910945b2558e", null ]
+    [ "boss_sjonnir_dwarfAI", "d2/df0/a19737.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
+    [ "UpdateAI", "d2/df0/a19737.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
 ];

@@ -1,7 +1,6 @@
 var a26833 =
 [
-    [ "HandleDummy", "dc/dab/a26833.html#a4c837e7342603519d1f23ab8702c3160", null ],
-    [ "PrepareSpellScript", "dc/dab/a26833.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371", null ],
-    [ "Register", "dc/dab/a26833.html#a16a5ca3ec9a8c463c9a2975fa29eb1e9", null ],
-    [ "Validate", "dc/dab/a26833.html#ad742f4ce0d0db70427f7ba849a4526df", null ]
+    [ "HandleScript", "dc/dab/a26833.html#acde0ae837d0cd3af0f38481027200291", null ],
+    [ "PrepareSpellScript", "dc/dab/a26833.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
+    [ "Register", "dc/dab/a26833.html#a2dc2628984358628afe7d9b62ced7794", null ]
 ];

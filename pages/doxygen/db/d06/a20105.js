@@ -1,6 +1,7 @@
 var a20105 =
 [
-    [ "achievement_freya_knock_on_wood", "db/d06/a20105.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "db/d06/a20105.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "db/d06/a20105.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "HandleEffectPeriodic", "db/d06/a20105.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
+    [ "PrepareAuraScript", "db/d06/a20105.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
+    [ "Register", "db/d06/a20105.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
+    [ "Validate", "db/d06/a20105.html#a16c536c913d003826ef4b86c7a497fec", null ]
 ];

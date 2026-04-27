@@ -1,5 +1,10 @@
 var a27973 =
 [
-    [ "item_petrov_cluster_bombs", "dd/d55/a27973.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "dd/d55/a27973.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "npc_prof_alchemy", "dd/d55/a27973.html#a43ea842214fc507c34586d12df8f7fea", null ],
+    [ "HasAlchemySpell", "dd/d55/a27973.html#ac9df824e0923ca86189a53ae391b43c0", null ],
+    [ "OnGossipHello", "dd/d55/a27973.html#add760c538c7882e1ad8331b8ded74f5c", null ],
+    [ "OnGossipSelect", "dd/d55/a27973.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
+    [ "SendActionMenu", "dd/d55/a27973.html#a2d4c7337b40be323a384a9e755fc3145", null ],
+    [ "SendConfirmLearn", "dd/d55/a27973.html#a548224b30494636b9ee292a533fc7b39", null ],
+    [ "SendConfirmUnlearn", "dd/d55/a27973.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
 ];

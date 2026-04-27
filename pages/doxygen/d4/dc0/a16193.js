@@ -1,9 +1,7 @@
 var a16193 =
 [
-    [ "npc_anub_ar_crusher", "d4/dc0/a16193.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
-    [ "DamageTaken", "d4/dc0/a16193.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
-    [ "DoEngagedWith", "d4/dc0/a16193.html#a70238afe4b9ae58b99067581db6734c8", null ],
-    [ "DoEvent", "d4/dc0/a16193.html#ac20630563a1869f56f538968cb8bb1ea", null ],
-    [ "JustDied", "d4/dc0/a16193.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
-    [ "_hadFrenzy", "d4/dc0/a16193.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
+    [ "HandleEffectRemove", "d4/dc0/a16193.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "d4/dc0/a16193.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "d4/dc0/a16193.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "d4/dc0/a16193.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

@@ -1,5 +1,9 @@
 var a15277 =
 [
-    [ "npc_hive_zara_swarmer", "d1/d4e/a15277.html#a374fa63e210e0be8a074af9199126a9e", null ],
-    [ "PathEndReached", "d1/d4e/a15277.html#a3b3510bd00853395b756e1d83d96a474", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "d1/d4e/a15277.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "d1/d4e/a15277.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "d1/d4e/a15277.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "d1/d4e/a15277.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "d1/d4e/a15277.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "d1/d4e/a15277.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

@@ -1,8 +1,8 @@
 var a03701 =
 [
-    [ "boss_garfrost", "d5/db5/a17201.html", "d5/db5/a17201" ],
-    [ "boss_garfrost::boss_garfrostAI", "d2/d8d/a17205.html", "d2/d8d/a17205" ],
-    [ "spell_garfrost_permafrost", "d0/da9/a17209.html", "d0/da9/a17209" ],
+    [ "boss_garfrost", "d3/d59/a17181.html", "d3/d59/a17181" ],
+    [ "boss_garfrost::boss_garfrostAI", "d3/d8d/a17185.html", "d3/d8d/a17185" ],
+    [ "spell_garfrost_permafrost", "de/df3/a17189.html", "de/df3/a17189" ],
     [ "Events", "d4/df9/a03701.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

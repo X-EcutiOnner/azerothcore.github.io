@@ -1,7 +1,6 @@
 var a24885 =
 [
-    [ "HandleDummy", "de/d4f/a24885.html#a582208e608c9fdca7464b817c76c13b3", null ],
-    [ "PrepareSpellScript", "de/d4f/a24885.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
-    [ "Register", "de/d4f/a24885.html#a3882606b9e9201163cf76cb20b8e6364", null ],
-    [ "Validate", "de/d4f/a24885.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
+    [ "HandleScriptEffect", "de/d4f/a24885.html#a884d0f5f8bf0f3515b4fedd54dd20ebf", null ],
+    [ "PrepareSpellScript", "de/d4f/a24885.html#a45151bb2eacdd642e8f11564d4ef0d65", null ],
+    [ "Register", "de/d4f/a24885.html#ae01695fd336fca36a7d2569ca741fba5", null ]
 ];

@@ -1,6 +1,7 @@
 var a26137 =
 [
-    [ "CalculateAmount", "df/d9f/a26137.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
-    [ "PrepareAuraScript", "df/d9f/a26137.html#a667883298cee173af941cfc07022f318", null ],
-    [ "Register", "df/d9f/a26137.html#a22514461b79f736e3ab595fa7fb48b68", null ]
+    [ "CheckProc", "df/d9f/a26137.html#a4aadc249b5c568b5317c4eb41abeb6b4", null ],
+    [ "PrepareAuraScript", "df/d9f/a26137.html#acc3d194b3f23ecfe42c40d011c957138", null ],
+    [ "Register", "df/d9f/a26137.html#a0b104698a7c763bee1af656e127591bd", null ],
+    [ "Validate", "df/d9f/a26137.html#a493e63aafcbfd4279cabe91aaa21cee2", null ]
 ];

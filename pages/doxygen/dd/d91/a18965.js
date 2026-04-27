@@ -1,6 +1,6 @@
 var a18965 =
 [
-    [ "HandleScript", "dd/d91/a18965.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "dd/d91/a18965.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "dd/d91/a18965.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d0/d36/a18969.html", "d0/d36/a18969" ],
+    [ "npc_icc_skybreaker_hierophant", "dd/d91/a18965.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "dd/d91/a18965.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

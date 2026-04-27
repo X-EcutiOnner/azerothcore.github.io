@@ -1,13 +1,13 @@
 var a13949 =
 [
-    [ "npc_corporal_keeshanAI", "db/d85/a13949.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "db/d85/a13949.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "db/d85/a13949.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "db/d85/a13949.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "db/d85/a13949.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "WaypointReached", "db/d85/a13949.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "mockingBlowTimer", "db/d85/a13949.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "db/d85/a13949.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "db/d85/a13949.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "db/d85/a13949.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "npc_ravenclaw_apparitionAI", "db/d85/a13949.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "db/d85/a13949.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "db/d85/a13949.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "db/d85/a13949.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "db/d85/a13949.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "db/d85/a13949.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "db/d85/a13949.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "db/d85/a13949.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "db/d85/a13949.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "db/d85/a13949.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

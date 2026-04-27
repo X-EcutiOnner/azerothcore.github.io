@@ -1,9 +1,8 @@
 var a22645 =
 [
-    [ "boss_najentus", "d2/d2f/a22645.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "d2/d2f/a22645.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "d2/d2f/a22645.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "d2/d2f/a22645.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "d2/d2f/a22645.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
-    [ "_canTalk", "d2/d2f/a22645.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "instance_black_temple_InstanceMapScript", "d2/d2f/a22645.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "d2/d2f/a22645.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "d2/d2f/a22645.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "d2/d2f/a22645.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "d2/d2f/a22645.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

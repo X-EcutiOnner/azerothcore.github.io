@@ -1,6 +1,6 @@
 var a17985 =
 [
-    [ "HandlePeriodicTick", "d7/dc5/a17985.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "d7/dc5/a17985.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "d7/dc5/a17985.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_coldflameAI", "d6/dce/a17989.html", "d6/dce/a17989" ],
+    [ "npc_coldflame", "d7/dc5/a17985.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d7/dc5/a17985.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

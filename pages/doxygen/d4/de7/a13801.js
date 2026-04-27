@@ -1,6 +1,6 @@
 var a13801 =
 [
-    [ "OnApply", "d4/de7/a13801.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
-    [ "PrepareAuraScript", "d4/de7/a13801.html#a236892b4fd6cf081a907becab6187069", null ],
-    [ "Register", "d4/de7/a13801.html#aa37819b82692df8a21cbbda8833ad492", null ]
+    [ "HandleSendEvent", "d4/de7/a13801.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "d4/de7/a13801.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "d4/de7/a13801.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

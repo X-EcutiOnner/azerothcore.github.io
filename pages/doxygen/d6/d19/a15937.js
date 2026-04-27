@@ -1,8 +1,7 @@
 var a15937 =
 [
-    [ "npc_giltharesAI", "d6/d19/a15937.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "d6/d19/a15937.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "d6/d19/a15937.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "d6/d19/a15937.html#a9308c73760e50e0f3d04031b508526d1", null ],
-    [ "WaypointReached", "d6/d19/a15937.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_wizzlecrank_shredderAI", "dc/db6/a15941.html", "dc/db6/a15941" ],
+    [ "npc_wizzlecrank_shredder", "d6/d19/a15937.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "d6/d19/a15937.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "d6/d19/a15937.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

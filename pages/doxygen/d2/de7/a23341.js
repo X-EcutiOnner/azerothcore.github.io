@@ -1,9 +1,10 @@
 var a23341 =
 [
-    [ "boss_dalliah_the_doomsayer", "d2/de7/a23341.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "d2/de7/a23341.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "d2/de7/a23341.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "d2/de7/a23341.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "d2/de7/a23341.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "d2/de7/a23341.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d2/de7/a23341.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "d2/de7/a23341.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "d2/de7/a23341.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "d2/de7/a23341.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "d2/de7/a23341.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "d2/de7/a23341.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "d2/de7/a23341.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

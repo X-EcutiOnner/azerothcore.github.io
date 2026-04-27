@@ -1,5 +1,8 @@
 var a28249 =
 [
-    [ "npc_necropolis", "d7/d74/a28249.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
-    [ "SpellHit", "d7/d74/a28249.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
+    [ "npc_cultist_engineer", "d7/d74/a28249.html#a02675a96d20902d147b0370fa1715d81", null ],
+    [ "JustDied", "d7/d74/a28249.html#a4b4d561f827553998caa204e0e1b9e54", null ],
+    [ "Reset", "d7/d74/a28249.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
+    [ "sGossipSelect", "d7/d74/a28249.html#ab26d124cbfdc4d649fef6058e9637845", null ],
+    [ "UpdateAI", "d7/d74/a28249.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
 ];

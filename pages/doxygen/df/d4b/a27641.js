@@ -1,5 +1,6 @@
 var a27641 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "df/d4b/a27641.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "df/d4b/a27641.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "AreaTrigger_at_brewfest", "df/d4b/a27641.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "df/d4b/a27641.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "df/d4b/a27641.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

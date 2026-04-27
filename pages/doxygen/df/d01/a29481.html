@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellProcTest Class Reference</title>
+<title>AzerothCore: adt_MCIN Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,46 +105,54 @@ $(document).ready(function(){initNavTree('df/d01/a29481.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d2/dd6/a29478.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellProcTest Class Reference</div></div>
+  <div class="headertitle"><div class="title">adt_MCIN Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Test fixture for <a class="el" href="../../d9/dee/a11777.html">SpellMgr</a> proc tests.  
- <a href="../../df/d01/a29481.html#details">More...</a></p>
-<div class="dynheader">
-Inheritance diagram for SpellProcTest:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../df/d01/a29481.png" alt=""/>
- </div></div>
+<p><code>#include &quot;<a class="el" href="../../">adt.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:abd89fcaf8f8c38b5d992a21430f9ecdb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d01/a29481.html#abd89fcaf8f8c38b5d992a21430f9ecdb">SetUp</a> () override</td></tr>
-<tr class="separator:abd89fcaf8f8c38b5d992a21430f9ecdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acb5697251398888a4cc282c359cfc4ec"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d01/a29481.html#acb5697251398888a4cc282c359cfc4ec">TearDown</a> () override</td></tr>
-<tr class="separator:acb5697251398888a4cc282c359cfc4ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a83fe2676ce2ae1374600de46967aeae5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/dae/a11721.html">SpellInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d01/a29481.html#a83fe2676ce2ae1374600de46967aeae5">CreateSpellInfo</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id=1, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> familyName=0, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> familyFlag0=0, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> familyFlag1=0, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> familyFlag2=0)</td></tr>
-<tr class="separator:a83fe2676ce2ae1374600de46967aeae5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d3b/a29489.html">adt_CELLS</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
-Protected Attributes</h2></td></tr>
-<tr class="memitem:ae44f699ee1acedae6ead179c3f012594"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d41/a12089.html">IWorld</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d01/a29481.html#ae44f699ee1acedae6ead179c3f012594">_originalWorld</a> = nullptr</td></tr>
-<tr class="separator:ae44f699ee1acedae6ead179c3f012594"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a98d5f98dfc4d63705920b7b164530022"><td class="memItemLeft" align="right" valign="top">NiceMock&lt; <a class="el" href="../../da/dd3/a29285.html">WorldMock</a> &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d01/a29481.html#a98d5f98dfc4d63705920b7b164530022">_worldMock</a> = nullptr</td></tr>
-<tr class="separator:a98d5f98dfc4d63705920b7b164530022"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac06654664782d249c4233f79990c817b"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../da/dae/a11721.html">SpellInfo</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d01/a29481.html#ac06654664782d249c4233f79990c817b">_spellInfos</a></td></tr>
-<tr class="separator:ac06654664782d249c4233f79990c817b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:adc7346499aa51f4422c810b7e757f835"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d01/a29481.html#adc7346499aa51f4422c810b7e757f835">prepareLoadedData</a> ()</td></tr>
+<tr class="separator:adc7346499aa51f4422c810b7e757f835"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8330b7cb405146399d3d20e6952a8b40"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/def/a29473.html">adt_MCNK</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d01/a29481.html#a8330b7cb405146399d3d20e6952a8b40">getMCNK</a> (int x, int y)</td></tr>
+<tr class="separator:a8330b7cb405146399d3d20e6952a8b40"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a1a40f52ea9eef3add8207da89cb71210"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d01/a29481.html#a1a40f52ea9eef3add8207da89cb71210">size</a></td></tr>
+<tr class="separator:a1a40f52ea9eef3add8207da89cb71210"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a434ed0ca354ec27d5334cc63e5650038"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../d1/d3b/a29489.html">adt_MCIN::adt_CELLS</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d01/a29481.html#a434ed0ca354ec27d5334cc63e5650038">cells</a> [<a class="el" href="../../d1/d6c/a04478.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>][<a class="el" href="../../d1/d6c/a04478.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>]</td></tr>
+<tr class="separator:a434ed0ca354ec27d5334cc63e5650038"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae7d4acf20e102b6b8f19ded3fe219a7d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d01/a29481.html#ae7d4acf20e102b6b8f19ded3fe219a7d">fcc</a></td></tr>
+<tr class="separator:ae7d4acf20e102b6b8f19ded3fe219a7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a514bae36851623daf76b26a9d63f1ae0"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d01/a29481.html#a514bae36851623daf76b26a9d63f1ae0">fcc_txt</a> [4]</td></tr>
+<tr class="separator:a514bae36851623daf76b26a9d63f1ae0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:abca35b002e4416d1efeb461546267f13"><td class="memItemLeft" >union {</td></tr>
+<tr class="memitem:a5cd545cb58aa439288da479a7813c622"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../df/d01/a29481.html#ae7d4acf20e102b6b8f19ded3fe219a7d">fcc</a></td></tr>
+<tr class="separator:a5cd545cb58aa439288da479a7813c622"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76c544284d8d2e74a55e4ec864870856"><td class="memItemLeft" >&#160;&#160;&#160;char&#160;&#160;&#160;<a class="el" href="../../df/d01/a29481.html#a514bae36851623daf76b26a9d63f1ae0">fcc_txt</a> [4]</td></tr>
+<tr class="separator:a76c544284d8d2e74a55e4ec864870856"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abca35b002e4416d1efeb461546267f13"><td class="memItemLeft" valign="top">};&#160;</td><td class="memItemRight" valign="bottom"></td></tr>
+<tr class="separator:abca35b002e4416d1efeb461546267f13"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Test fixture for <a class="el" href="../../d9/dee/a11777.html">SpellMgr</a> proc tests. </p>
-<p >Tests the CanSpellTriggerProcOnEvent function and related proc logic. </p>
-</div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a83fe2676ce2ae1374600de46967aeae5" name="a83fe2676ce2ae1374600de46967aeae5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a83fe2676ce2ae1374600de46967aeae5">&#9670;&#160;</a></span>CreateSpellInfo()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a8330b7cb405146399d3d20e6952a8b40" name="a8330b7cb405146399d3d20e6952a8b40"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8330b7cb405146399d3d20e6952a8b40">&#9670;&#160;</a></span>getMCNK()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -153,34 +161,16 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/dae/a11721.html">SpellInfo</a> * SpellProcTest::CreateSpellInfo </td>
+          <td class="memname"><a class="el" href="../../de/def/a29473.html">adt_MCNK</a> * adt_MCIN::getMCNK </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>id</em> = <code>1</code>, </td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>familyName</em> = <code>0</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>familyFlag0</em> = <code>0</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>familyFlag1</em> = <code>0</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>familyFlag2</em> = <code>0</code>&#160;</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>y</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -190,179 +180,136 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   63</span>    {</div>
-<div class="line"><span class="lineno">   64</span>        <span class="keyword">auto</span>* spellInfo = <a class="code hl_class" href="../../da/de1/a29261.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">   65</span>            .<a class="code hl_function" href="../../da/de1/a29261.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(<span class="keywordtype">id</span>)</div>
-<div class="line"><span class="lineno">   66</span>            .<a class="code hl_function" href="../../da/de1/a29261.html#ae64bb11a8877c42ed63addc210fae8cc">WithSpellFamilyName</a>(familyName)</div>
-<div class="line"><span class="lineno">   67</span>            .<a class="code hl_function" href="../../da/de1/a29261.html#aa4f184402512fd50c6066910787c4595">WithSpellFamilyFlags</a>(familyFlag0, familyFlag1, familyFlag2)</div>
-<div class="line"><span class="lineno">   68</span>            .<a class="code hl_function" href="../../da/de1/a29261.html#ab8ba5082d8c0d5d98837e7df20229906">Build</a>();</div>
-<div class="line"><span class="lineno">   69</span>        <a class="code hl_variable" href="../../df/d01/a29481.html#ac06654664782d249c4233f79990c817b">_spellInfos</a>.push_back(spellInfo);</div>
-<div class="line"><span class="lineno">   70</span>        <span class="keywordflow">return</span> spellInfo;</div>
-<div class="line"><span class="lineno">   71</span>    }</div>
-<div class="ttc" id="aa29261_html"><div class="ttname"><a href="../../da/de1/a29261.html">SpellInfoBuilder</a></div><div class="ttdoc">Builder class for creating SpellInfo test instances.</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:160</div></div>
-<div class="ttc" id="aa29261_html_a1f23f2372b8fd2e7ce8e6aad99868892"><div class="ttname"><a href="../../da/de1/a29261.html#a1f23f2372b8fd2e7ce8e6aad99868892">SpellInfoBuilder::WithId</a></div><div class="ttdeci">SpellInfoBuilder &amp; WithId(uint32 id)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:164</div></div>
-<div class="ttc" id="aa29261_html_aa4f184402512fd50c6066910787c4595"><div class="ttname"><a href="../../da/de1/a29261.html#aa4f184402512fd50c6066910787c4595">SpellInfoBuilder::WithSpellFamilyFlags</a></div><div class="ttdeci">SpellInfoBuilder &amp; WithSpellFamilyFlags(uint32 flag0, uint32 flag1=0, uint32 flag2=0)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:176</div></div>
-<div class="ttc" id="aa29261_html_ab8ba5082d8c0d5d98837e7df20229906"><div class="ttname"><a href="../../da/de1/a29261.html#ab8ba5082d8c0d5d98837e7df20229906">SpellInfoBuilder::Build</a></div><div class="ttdeci">SpellInfo * Build()</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:250</div></div>
-<div class="ttc" id="aa29261_html_ae64bb11a8877c42ed63addc210fae8cc"><div class="ttname"><a href="../../da/de1/a29261.html#ae64bb11a8877c42ed63addc210fae8cc">SpellInfoBuilder::WithSpellFamilyName</a></div><div class="ttdeci">SpellInfoBuilder &amp; WithSpellFamilyName(uint32 familyName)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:170</div></div>
-<div class="ttc" id="aa29481_html_ac06654664782d249c4233f79990c817b"><div class="ttname"><a href="../../df/d01/a29481.html#ac06654664782d249c4233f79990c817b">SpellProcTest::_spellInfos</a></div><div class="ttdeci">std::vector&lt; SpellInfo * &gt; _spellInfos</div><div class="ttdef"><b>Definition:</b> SpellProcTest.cpp:75</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  173</span>    {</div>
+<div class="line"><span class="lineno">  174</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d01/a29481.html#a434ed0ca354ec27d5334cc63e5650038">cells</a>[x][y].offsMCNK)</div>
+<div class="line"><span class="lineno">  175</span>            <span class="keywordflow">return</span> (<a class="code hl_class" href="../../de/def/a29473.html">adt_MCNK</a>*)((<a class="code hl_typedef" href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)<span class="keyword">this</span> + <a class="code hl_variable" href="../../df/d01/a29481.html#a434ed0ca354ec27d5334cc63e5650038">cells</a>[x][y].offsMCNK - 84);</div>
+<div class="line"><span class="lineno">  176</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  177</span>    }</div>
+<div class="ttc" id="aa04568_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../dd/d7a/a04568.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa29473_html"><div class="ttname"><a href="../../de/def/a29473.html">adt_MCNK</a></div><div class="ttdef"><b>Definition:</b> adt.h:94</div></div>
+<div class="ttc" id="aa29481_html_a434ed0ca354ec27d5334cc63e5650038"><div class="ttname"><a href="../../df/d01/a29481.html#a434ed0ca354ec27d5334cc63e5650038">adt_MCIN::cells</a></div><div class="ttdeci">struct adt_MCIN::adt_CELLS cells[ADT_CELLS_PER_GRID][ADT_CELLS_PER_GRID]</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00075">_spellInfos</a>, <a class="el" href="../../#l00250">SpellInfoBuilder::Build()</a>, <a class="el" href="../../#l00164">SpellInfoBuilder::WithId()</a>, <a class="el" href="../../#l00176">SpellInfoBuilder::WithSpellFamilyFlags()</a>, and <a class="el" href="../../#l00170">SpellInfoBuilder::WithSpellFamilyName()</a>.</p>
+<p class="reference">References <a class="el" href="../../df/d01/a29481.html#a434ed0ca354ec27d5334cc63e5650038">cells</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00414">ConvertADT()</a>, and <a class="el" href="../../#l00101">prepareLoadedData()</a>.</p>
 
 </div>
 </div>
-<a id="abd89fcaf8f8c38b5d992a21430f9ecdb" name="abd89fcaf8f8c38b5d992a21430f9ecdb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abd89fcaf8f8c38b5d992a21430f9ecdb">&#9670;&#160;</a></span>SetUp()</h2>
+<a id="adc7346499aa51f4422c810b7e757f835" name="adc7346499aa51f4422c810b7e757f835"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc7346499aa51f4422c810b7e757f835">&#9670;&#160;</a></span>prepareLoadedData()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void SpellProcTest::SetUp </td>
+          <td class="memname">bool adt_MCIN::prepareLoadedData </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>    {</div>
-<div class="line"><span class="lineno">   37</span>        <a class="code hl_variable" href="../../df/d01/a29481.html#ae44f699ee1acedae6ead179c3f012594">_originalWorld</a> = <a class="code hl_define" href="../../db/dc2/a05011.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.release();</div>
-<div class="line"><span class="lineno">   38</span>        <a class="code hl_variable" href="../../df/d01/a29481.html#a98d5f98dfc4d63705920b7b164530022">_worldMock</a> = <span class="keyword">new</span> NiceMock&lt;WorldMock&gt;();</div>
-<div class="line"><span class="lineno">   39</span>        <a class="code hl_define" href="../../db/dc2/a05011.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.reset(<a class="code hl_variable" href="../../df/d01/a29481.html#a98d5f98dfc4d63705920b7b164530022">_worldMock</a>);</div>
-<div class="line"><span class="lineno">   40</span> </div>
-<div class="line"><span class="lineno">   41</span>        <span class="keyword">static</span> std::string emptyString;</div>
-<div class="line"><span class="lineno">   42</span>        ON_CALL(*<a class="code hl_variable" href="../../df/d01/a29481.html#a98d5f98dfc4d63705920b7b164530022">_worldMock</a>, GetDataPath()).WillByDefault(ReturnRef(emptyString));</div>
-<div class="line"><span class="lineno">   43</span>    }</div>
-<div class="ttc" id="aa05011_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../db/dc2/a05011.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:316</div></div>
-<div class="ttc" id="aa29481_html_a98d5f98dfc4d63705920b7b164530022"><div class="ttname"><a href="../../df/d01/a29481.html#a98d5f98dfc4d63705920b7b164530022">SpellProcTest::_worldMock</a></div><div class="ttdeci">NiceMock&lt; WorldMock &gt; * _worldMock</div><div class="ttdef"><b>Definition:</b> SpellProcTest.cpp:74</div></div>
-<div class="ttc" id="aa29481_html_ae44f699ee1acedae6ead179c3f012594"><div class="ttname"><a href="../../df/d01/a29481.html#ae44f699ee1acedae6ead179c3f012594">SpellProcTest::_originalWorld</a></div><div class="ttdeci">IWorld * _originalWorld</div><div class="ttdef"><b>Definition:</b> SpellProcTest.cpp:73</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  102</span>{</div>
+<div class="line"><span class="lineno">  103</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d01/a29481.html#ae7d4acf20e102b6b8f19ded3fe219a7d">fcc</a> != <a class="code hl_variable" href="../../d5/d47/a04490.html#a6f946547b65d321100fd6efa2966180c">MCINMagic</a>.<a class="code hl_variable" href="../../d7/d6a/a29557.html#a828a2845e666d6eb47d6d4705a663a3d">fcc</a>)</div>
+<div class="line"><span class="lineno">  104</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  105</span> </div>
+<div class="line"><span class="lineno">  106</span>    <span class="comment">// Check cells data</span></div>
+<div class="line"><span class="lineno">  107</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; <a class="code hl_define" href="../../d1/d6c/a04478.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>; i++)</div>
+<div class="line"><span class="lineno">  108</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> j = 0; j &lt; <a class="code hl_define" href="../../d1/d6c/a04478.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>; j++)</div>
+<div class="line"><span class="lineno">  109</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d01/a29481.html#a434ed0ca354ec27d5334cc63e5650038">cells</a>[i][j].offsMCNK &amp;&amp; !<a class="code hl_function" href="../../df/d01/a29481.html#a8330b7cb405146399d3d20e6952a8b40">getMCNK</a>(i, j)-&gt;<a class="code hl_function" href="../../df/d01/a29481.html#adc7346499aa51f4422c810b7e757f835">prepareLoadedData</a>())</div>
+<div class="line"><span class="lineno">  110</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  111</span> </div>
+<div class="line"><span class="lineno">  112</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  113</span>}</div>
+<div class="ttc" id="aa04478_html_aaa17abcdb17267fda5cd146bec40af39"><div class="ttname"><a href="../../d1/d6c/a04478.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a></div><div class="ttdeci">#define ADT_CELLS_PER_GRID</div><div class="ttdef"><b>Definition:</b> adt.h:38</div></div>
+<div class="ttc" id="aa04490_html_a6f946547b65d321100fd6efa2966180c"><div class="ttname"><a href="../../d5/d47/a04490.html#a6f946547b65d321100fd6efa2966180c">MCINMagic</a></div><div class="ttdeci">u_map_fcc MCINMagic</div><div class="ttdef"><b>Definition:</b> adt.cpp:27</div></div>
+<div class="ttc" id="aa29481_html_a8330b7cb405146399d3d20e6952a8b40"><div class="ttname"><a href="../../df/d01/a29481.html#a8330b7cb405146399d3d20e6952a8b40">adt_MCIN::getMCNK</a></div><div class="ttdeci">adt_MCNK * getMCNK(int x, int y)</div><div class="ttdef"><b>Definition:</b> adt.h:172</div></div>
+<div class="ttc" id="aa29481_html_adc7346499aa51f4422c810b7e757f835"><div class="ttname"><a href="../../df/d01/a29481.html#adc7346499aa51f4422c810b7e757f835">adt_MCIN::prepareLoadedData</a></div><div class="ttdeci">bool prepareLoadedData()</div><div class="ttdef"><b>Definition:</b> adt.cpp:101</div></div>
+<div class="ttc" id="aa29481_html_ae7d4acf20e102b6b8f19ded3fe219a7d"><div class="ttname"><a href="../../df/d01/a29481.html#ae7d4acf20e102b6b8f19ded3fe219a7d">adt_MCIN::fcc</a></div><div class="ttdeci">uint32 fcc</div><div class="ttdef"><b>Definition:</b> adt.h:157</div></div>
+<div class="ttc" id="aa29557_html_a828a2845e666d6eb47d6d4705a663a3d"><div class="ttname"><a href="../../d7/d6a/a29557.html#a828a2845e666d6eb47d6d4705a663a3d">u_map_fcc::fcc</a></div><div class="ttdeci">uint32 fcc</div><div class="ttdef"><b>Definition:</b> loadlib.h:29</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00073">_originalWorld</a>, <a class="el" href="../../#l00074">_worldMock</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00038">ADT_CELLS_PER_GRID</a>, <a class="el" href="../../df/d01/a29481.html#a434ed0ca354ec27d5334cc63e5650038">cells</a>, <a class="el" href="../../#l00157">fcc</a>, <a class="el" href="../../#l00029">u_map_fcc::fcc</a>, <a class="el" href="../../#l00172">getMCNK()</a>, <a class="el" href="../../#l00027">MCINMagic</a>, and <a class="el" href="../../#l00101">prepareLoadedData()</a>.</p>
 
-</div>
-</div>
-<a id="acb5697251398888a4cc282c359cfc4ec" name="acb5697251398888a4cc282c359cfc4ec"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb5697251398888a4cc282c359cfc4ec">&#9670;&#160;</a></span>TearDown()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void SpellProcTest::TearDown </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>    {</div>
-<div class="line"><span class="lineno">   47</span>        <a class="code hl_class" href="../../df/d41/a12089.html">IWorld</a>* currentWorld = <a class="code hl_define" href="../../db/dc2/a05011.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.release();</div>
-<div class="line"><span class="lineno">   48</span>        <span class="keyword">delete</span> currentWorld;</div>
-<div class="line"><span class="lineno">   49</span>        <a class="code hl_variable" href="../../df/d01/a29481.html#a98d5f98dfc4d63705920b7b164530022">_worldMock</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   50</span> </div>
-<div class="line"><span class="lineno">   51</span>        <a class="code hl_define" href="../../db/dc2/a05011.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.reset(<a class="code hl_variable" href="../../df/d01/a29481.html#ae44f699ee1acedae6ead179c3f012594">_originalWorld</a>);</div>
-<div class="line"><span class="lineno">   52</span>        <a class="code hl_variable" href="../../df/d01/a29481.html#ae44f699ee1acedae6ead179c3f012594">_originalWorld</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   53</span> </div>
-<div class="line"><span class="lineno">   54</span>        <span class="comment">// Clean up any SpellInfo objects we created</span></div>
-<div class="line"><span class="lineno">   55</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span>* spellInfo : <a class="code hl_variable" href="../../df/d01/a29481.html#ac06654664782d249c4233f79990c817b">_spellInfos</a>)</div>
-<div class="line"><span class="lineno">   56</span>            <span class="keyword">delete</span> spellInfo;</div>
-<div class="line"><span class="lineno">   57</span>        <a class="code hl_variable" href="../../df/d01/a29481.html#ac06654664782d249c4233f79990c817b">_spellInfos</a>.clear();</div>
-<div class="line"><span class="lineno">   58</span>    }</div>
-<div class="ttc" id="aa12089_html"><div class="ttname"><a href="../../df/d41/a12089.html">IWorld</a></div><div class="ttdef"><b>Definition:</b> IWorld.h:63</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00073">_originalWorld</a>, <a class="el" href="../../#l00075">_spellInfos</a>, <a class="el" href="../../#l00074">_worldMock</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00101">prepareLoadedData()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ae44f699ee1acedae6ead179c3f012594" name="ae44f699ee1acedae6ead179c3f012594"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae44f699ee1acedae6ead179c3f012594">&#9670;&#160;</a></span>_originalWorld</h2>
+<a id="abca35b002e4416d1efeb461546267f13" name="abca35b002e4416d1efeb461546267f13"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abca35b002e4416d1efeb461546267f13">&#9670;&#160;</a></span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/d41/a12089.html">IWorld</a>* SpellProcTest::_originalWorld = nullptr</td>
+          <td class="memname">union  { ... }  adt_MCIN::@385</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">SetUp()</a>, and <a class="el" href="../../#l00045">TearDown()</a>.</p>
-
 </div>
 </div>
-<a id="ac06654664782d249c4233f79990c817b" name="ac06654664782d249c4233f79990c817b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac06654664782d249c4233f79990c817b">&#9670;&#160;</a></span>_spellInfos</h2>
+<a id="a434ed0ca354ec27d5334cc63e5650038" name="a434ed0ca354ec27d5334cc63e5650038"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a434ed0ca354ec27d5334cc63e5650038">&#9670;&#160;</a></span>cells</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../da/dae/a11721.html">SpellInfo</a>*&gt; SpellProcTest::_spellInfos</td>
+          <td class="memname">struct <a class="el" href="../../d1/d3b/a29489.html">adt_MCIN::adt_CELLS</a> adt_MCIN::cells[<a class="el" href="../../d1/d6c/a04478.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>][<a class="el" href="../../d1/d6c/a04478.html#aaa17abcdb17267fda5cd146bec40af39">ADT_CELLS_PER_GRID</a>]</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00061">CreateSpellInfo()</a>, and <a class="el" href="../../#l00045">TearDown()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00172">getMCNK()</a>, and <a class="el" href="../../#l00101">prepareLoadedData()</a>.</p>
 
 </div>
 </div>
-<a id="a98d5f98dfc4d63705920b7b164530022" name="a98d5f98dfc4d63705920b7b164530022"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98d5f98dfc4d63705920b7b164530022">&#9670;&#160;</a></span>_worldMock</h2>
+<a id="ae7d4acf20e102b6b8f19ded3fe219a7d" name="ae7d4acf20e102b6b8f19ded3fe219a7d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae7d4acf20e102b6b8f19ded3fe219a7d">&#9670;&#160;</a></span>fcc</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">NiceMock&lt;<a class="el" href="../../da/dd3/a29285.html">WorldMock</a>&gt;* SpellProcTest::_worldMock = nullptr</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> adt_MCIN::fcc</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">SetUp()</a>, and <a class="el" href="../../#l00045">TearDown()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00101">prepareLoadedData()</a>.</p>
+
+</div>
+</div>
+<a id="a514bae36851623daf76b26a9d63f1ae0" name="a514bae36851623daf76b26a9d63f1ae0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a514bae36851623daf76b26a9d63f1ae0">&#9670;&#160;</a></span>fcc_txt</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char adt_MCIN::fcc_txt[4]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1a40f52ea9eef3add8207da89cb71210" name="a1a40f52ea9eef3add8207da89cb71210"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a40f52ea9eef3add8207da89cb71210">&#9670;&#160;</a></span>size</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> adt_MCIN::size</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -371,8 +318,8 @@ Protected Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d01/a29481.html">SpellProcTest</a></li>
-    <li class="footer">Generated on Mon Apr 13 2026 21:29:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/d01/a29481.html">adt_MCIN</a></li>
+    <li class="footer">Generated on Mon Apr 27 2026 21:37:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

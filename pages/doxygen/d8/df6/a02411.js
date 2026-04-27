@@ -1,8 +1,8 @@
 var a02411 =
 [
-    [ "boss_salramm", "d6/dff/a15061.html", "d6/dff/a15061" ],
-    [ "boss_salramm::boss_salrammAI", "d9/d51/a15065.html", "d9/d51/a15065" ],
-    [ "spell_boss_salramm_steal_flesh_aura", "dd/d50/a15069.html", "dd/d50/a15069" ],
+    [ "boss_salramm", "d4/d9a/a15041.html", "d4/d9a/a15041" ],
+    [ "boss_salramm::boss_salrammAI", "d8/da7/a15045.html", "d8/da7/a15045" ],
+    [ "spell_boss_salramm_steal_flesh_aura", "dd/dc8/a15049.html", "dd/dc8/a15049" ],
     [ "Events", "d8/df6/a02411.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

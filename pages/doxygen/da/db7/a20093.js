@@ -1,13 +1,7 @@
 var a20093 =
 [
-    [ "boss_freya_summons", "da/db7/a20093.html#a1d53e3d32307347532f96ca2b27734cb", null ],
-    [ "DoAction", "da/db7/a20093.html#aa8e03a2aced95f104e6714a469bf2de3", null ],
-    [ "JustDied", "da/db7/a20093.html#a15d9b71a31a840917b449c0094049e00", null ],
-    [ "JustEngagedWith", "da/db7/a20093.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
-    [ "Reset", "da/db7/a20093.html#af7e842a7bc2be806816a942026670d71", null ],
-    [ "UpdateAI", "da/db7/a20093.html#abc3634dce208478e82d3c9bb19d222df", null ],
-    [ "_hasDied", "da/db7/a20093.html#a145f46cfda95e50fa30c98581a30de9e", null ],
-    [ "_isTrio", "da/db7/a20093.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
-    [ "_stackCount", "da/db7/a20093.html#af1c54be4cab9c465ae9bf04427050d7a", null ],
-    [ "events", "da/db7/a20093.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
+    [ "npc_ulduar_saronite_vapors", "da/db7/a20093.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
+    [ "IsSummonedBy", "da/db7/a20093.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
+    [ "JustDied", "da/db7/a20093.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "_instance", "da/db7/a20093.html#ad304110ff1bfc33066cd17f04cf40181", null ]
 ];

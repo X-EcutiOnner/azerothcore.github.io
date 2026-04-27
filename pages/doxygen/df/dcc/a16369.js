@@ -1,6 +1,7 @@
 var a16369 =
 [
-    [ "boss_twilight_halionAI", "d6/d1c/a16373.html", "d6/d1c/a16373" ],
-    [ "boss_twilight_halion", "df/dcc/a16369.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "df/dcc/a16369.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "npc_orb_carrierAI", "df/dcc/a16369.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "df/dcc/a16369.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "df/dcc/a16369.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "df/dcc/a16369.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

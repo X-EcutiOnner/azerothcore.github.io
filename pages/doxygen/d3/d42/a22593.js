@@ -1,7 +1,6 @@
 var a22593 =
 [
-    [ "npc_ashtongue_channeler", "d3/d42/a22593.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "d3/d42/a22593.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "d3/d42/a22593.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "d3/d42/a22593.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "ShadowOfDeathSelector", "d3/d42/a22593.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d3/d42/a22593.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d3/d42/a22593.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

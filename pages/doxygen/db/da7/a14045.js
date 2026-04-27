@@ -1,7 +1,10 @@
 var a14045 =
 [
-    [ "boss_blight_wormAI", "db/da7/a14045.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "db/da7/a14045.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "db/da7/a14045.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "db/da7/a14045.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "db/da7/a14045.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "db/da7/a14045.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "db/da7/a14045.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "db/da7/a14045.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "db/da7/a14045.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "db/da7/a14045.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "db/da7/a14045.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

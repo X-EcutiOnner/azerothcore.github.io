@@ -1,7 +1,6 @@
 var a28005 =
 [
-    [ "npc_engineering_tele_trinket", "dc/db1/a28005.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
-    [ "CanLearn", "dc/db1/a28005.html#a8a35f1c09a9df609561e76f4ed578647", null ],
-    [ "OnGossipHello", "dc/db1/a28005.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
-    [ "OnGossipSelect", "dc/db1/a28005.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
+    [ "npc_preciousAI", "d3/d33/a28009.html", "d3/d33/a28009" ],
+    [ "npc_precious", "dc/db1/a28005.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "dc/db1/a28005.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

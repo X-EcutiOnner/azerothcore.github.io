@@ -1,11 +1,9 @@
 var a20349 =
 [
-    [ "npc_ulduar_proximity_mine", "dd/d3d/a20349.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
-    [ "AttackStart", "dd/d3d/a20349.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "dd/d3d/a20349.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "dd/d3d/a20349.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "dd/d3d/a20349.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "_exploded", "dd/d3d/a20349.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
-    [ "_timer", "dd/d3d/a20349.html#afe009de55826305826105bd29458d0eb", null ],
-    [ "_timer2", "dd/d3d/a20349.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
+    [ "OnApply", "dd/d3d/a20349.html#aaf6e89fc5d101b1622666a6fe15f20e7", null ],
+    [ "OnRemove", "dd/d3d/a20349.html#a9bfdefb3e212cca086dec752687e2b93", null ],
+    [ "OnRemoveSelf", "dd/d3d/a20349.html#a3076446d6761263fdb7f973f01be3cf2", null ],
+    [ "PrepareAuraScript", "dd/d3d/a20349.html#a685d6c0ffcc258f9d6857242cb28f6a8", null ],
+    [ "Register", "dd/d3d/a20349.html#a1369972dfbf969cb39efa88075fc13df", null ],
+    [ "Validate", "dd/d3d/a20349.html#ada8c858f70beb71765fd0f796209677b", null ]
 ];

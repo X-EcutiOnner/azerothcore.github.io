@@ -1,10 +1,21 @@
 var a13837 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d3/d0d/a13837.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "d3/d0d/a13837.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "d3/d0d/a13837.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "d3/d0d/a13837.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "d3/d0d/a13837.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "d3/d0d/a13837.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
-    [ "WaypointReached", "d3/d0d/a13837.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_eris_hevenfireAI", "d3/d0d/a13837.html#a07d91015d64f5d6ac5b78a6082e0280d", null ],
+    [ "CanBeSeen", "d3/d0d/a13837.html#a16293cab0ff15d13675dcadc3050365f", null ],
+    [ "DoAction", "d3/d0d/a13837.html#a982f2efef39ac47d2df6579676b25862", null ],
+    [ "JustSummoned", "d3/d0d/a13837.html#a21f91de064bec6943aae5d710e6ec485", null ],
+    [ "Reset", "d3/d0d/a13837.html#a0b328182914ca26786808b6fd2491619", null ],
+    [ "SetData", "d3/d0d/a13837.html#a8c012a9c083921770980fb8c037d6ccc", null ],
+    [ "SetGUID", "d3/d0d/a13837.html#a09db4a9cf9ccab011271cc671187c9be", null ],
+    [ "SummonArchers", "d3/d0d/a13837.html#aa415baa9bff7c93c57f327b661689ac3", null ],
+    [ "SummonPeasants", "d3/d0d/a13837.html#ab5a69679bad85ed42b2f408231781da9", null ],
+    [ "UpdateAI", "d3/d0d/a13837.html#a3f3da888c1076f4f728157f7ba9edf1c", null ],
+    [ "_counter", "d3/d0d/a13837.html#aa5f1374bbf98a613db266994b6640031", null ],
+    [ "_deathCount", "d3/d0d/a13837.html#a258d870137c02dd74ff23b94cb3f90d1", null ],
+    [ "_faction", "d3/d0d/a13837.html#a2b11d54ff39f568cf26845251a38a612", null ],
+    [ "_playerGUID", "d3/d0d/a13837.html#a8ba92ce2b32b70e1275f551871d640fe", null ],
+    [ "_savedCount", "d3/d0d/a13837.html#aef83dfb3c6c737af77b63b650fdf5749", null ],
+    [ "_spoken", "d3/d0d/a13837.html#abe9dbd5111b73ac6c7bf336da98d06d1", null ],
+    [ "events", "d3/d0d/a13837.html#a62dee89eca10f43af3051800e4a69c74", null ],
+    [ "summons", "d3/d0d/a13837.html#a8d30f6f513ee7e195dbef56071f136fc", null ]
 ];

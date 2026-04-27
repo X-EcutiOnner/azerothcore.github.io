@@ -1,4 +1,5 @@
 var a16873 =
 [
-    [ "boss_dreadscaleAI", "df/d9a/a16873.html#ab0d0f8a7ec6567e8811d09721f6fa9ed", null ]
+    [ "boss_eydisAI", "df/d9a/a16873.html#a0e97e184b2a2f610730cd3d455702955", null ],
+    [ "JustSummoned", "df/d9a/a16873.html#aa5ae64cfe003a25859364a12cb871199", null ]
 ];

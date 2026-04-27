@@ -1,6 +1,10 @@
 var a22261 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "d7/dc6/a22265.html", "d7/dc6/a22265" ],
-    [ "instance_mana_tombs", "de/d9c/a22261.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
-    [ "GetInstanceScript", "de/d9c/a22261.html#a26e4dad0957df886bc446396ab48ceda", null ]
+    [ "boss_talon_king_ikiss", "de/d9c/a22261.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "de/d9c/a22261.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "de/d9c/a22261.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "de/d9c/a22261.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "de/d9c/a22261.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "de/d9c/a22261.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "de/d9c/a22261.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

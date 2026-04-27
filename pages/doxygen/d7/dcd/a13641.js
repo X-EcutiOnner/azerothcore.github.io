@@ -1,7 +1,8 @@
 var a13641 =
 [
-    [ "boss_kalec", "d7/dcd/a13641.html#a9c36e31c750e93840f30f001cdaca0da", null ],
-    [ "JustDied", "d7/dcd/a13641.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
-    [ "JustEngagedWith", "d7/dcd/a13641.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
-    [ "UpdateAI", "d7/dcd/a13641.html#ab55da7584fa7f545761a5bd547245747", null ]
+    [ "CheckCast", "d7/dcd/a13641.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
+    [ "HandleScriptEffect", "d7/dcd/a13641.html#a22f630cb9df4b435a5624f2865915753", null ],
+    [ "PrepareSpellScript", "d7/dcd/a13641.html#a6e6b27ade1cac743946a976dbf343066", null ],
+    [ "Register", "d7/dcd/a13641.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
+    [ "Validate", "d7/dcd/a13641.html#a85779288126b21f516f2feb0238ee65b", null ]
 ];

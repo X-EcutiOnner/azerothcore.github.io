@@ -1,6 +1,6 @@
 var a15797 =
 [
-    [ "npc_silva_filnaveth", "da/dc9/a15797.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "da/dc9/a15797.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "da/dc9/a15797.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_giant_spotlightAI", "dc/d75/a15801.html", "dc/d75/a15801" ],
+    [ "npc_giant_spotlight", "da/dc9/a15797.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "da/dc9/a15797.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

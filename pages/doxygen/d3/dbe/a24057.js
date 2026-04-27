@@ -1,6 +1,6 @@
 var a24057 =
 [
-    [ "CheckProc", "d3/dbe/a24057.html#a5c7245398c005a133576493366010e58", null ],
-    [ "PrepareAuraScript", "d3/dbe/a24057.html#ac2a2d20470e7fa3df8491c7c81330a52", null ],
-    [ "Register", "d3/dbe/a24057.html#a4f6bcdb58b02d351aee9efcd37af3492", null ]
+    [ "FilterTargets", "d3/dbe/a24057.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "d3/dbe/a24057.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "d3/dbe/a24057.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

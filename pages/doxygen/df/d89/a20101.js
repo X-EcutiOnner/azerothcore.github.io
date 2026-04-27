@@ -1,5 +1,8 @@
 var a20101 =
 [
-    [ "achievement_freya_getting_back_to_nature", "df/d89/a20101.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "df/d89/a20101.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "OnApply", "df/d89/a20101.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "df/d89/a20101.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "df/d89/a20101.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "df/d89/a20101.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "df/d89/a20101.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

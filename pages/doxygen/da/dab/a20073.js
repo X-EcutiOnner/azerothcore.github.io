@@ -1,11 +1,13 @@
 var a20073 =
 [
-    [ "boss_freya_elder_brightleaf", "da/dab/a20073.html#a7454f4dec1f1ccc471f42eeee513f272", null ],
-    [ "JustDied", "da/dab/a20073.html#a98aed4b2a4ebf10c807d9bb54c65a273", null ],
-    [ "JustEngagedWith", "da/dab/a20073.html#ad0f003e5b57b7c7df4b860df2f8e1e85", null ],
-    [ "KilledUnit", "da/dab/a20073.html#a3c45c1c87f793cb4dbd447065b09d108", null ],
-    [ "Reset", "da/dab/a20073.html#ae9687c330856da6d5e7bed9bccbe8e52", null ],
-    [ "UpdateAI", "da/dab/a20073.html#aa53a5a5ada35c8717c58553b397d58d9", null ],
-    [ "events", "da/dab/a20073.html#aaa459ae8f2e0f83330359d45259d9f79", null ],
-    [ "summons", "da/dab/a20073.html#a0c11c362ecc29e91f21c87ca0fb3d92e", null ]
+    [ "boss_freya_summons", "da/dab/a20073.html#a1d53e3d32307347532f96ca2b27734cb", null ],
+    [ "DoAction", "da/dab/a20073.html#aa8e03a2aced95f104e6714a469bf2de3", null ],
+    [ "JustDied", "da/dab/a20073.html#a15d9b71a31a840917b449c0094049e00", null ],
+    [ "JustEngagedWith", "da/dab/a20073.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
+    [ "Reset", "da/dab/a20073.html#af7e842a7bc2be806816a942026670d71", null ],
+    [ "UpdateAI", "da/dab/a20073.html#abc3634dce208478e82d3c9bb19d222df", null ],
+    [ "_hasDied", "da/dab/a20073.html#a145f46cfda95e50fa30c98581a30de9e", null ],
+    [ "_isTrio", "da/dab/a20073.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
+    [ "_stackCount", "da/dab/a20073.html#af1c54be4cab9c465ae9bf04427050d7a", null ],
+    [ "events", "da/dab/a20073.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
 ];

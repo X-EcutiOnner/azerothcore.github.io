@@ -1,7 +1,4 @@
 var a14749 =
 [
-    [ "HandleScript", "da/daf/a14749.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "da/daf/a14749.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "da/daf/a14749.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "da/daf/a14749.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "npc_midsummer_bonfire_despawner", "da/daf/a14749.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
 ];

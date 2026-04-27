@@ -1,7 +1,8 @@
 var a14005 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "d1/d23/a14009.html", "d1/d23/a14009" ],
-    [ "npc_lady_sylvanas_windrunner", "d6/d25/a14005.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
-    [ "GetAI", "d6/d25/a14005.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
-    [ "OnQuestReward", "d6/d25/a14005.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
+    [ "npc_varian_wrynnAI", "d1/d23/a14009.html", "d1/d23/a14009" ],
+    [ "npc_varian_wrynn", "d6/d25/a14005.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d6/d25/a14005.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d6/d25/a14005.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d6/d25/a14005.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

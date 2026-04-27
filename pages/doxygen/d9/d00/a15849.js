@@ -1,6 +1,6 @@
 var a15849 =
 [
-    [ "SpellId", "d9/d00/a15849.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d9/d00/a15849.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d9/d00/a15849.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_anachronos_quest_triggerAI", "d8/da0/a15853.html", "d8/da0/a15853" ],
+    [ "npc_anachronos_quest_trigger", "d9/d00/a15849.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "d9/d00/a15849.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

@@ -1,6 +1,8 @@
 var a27357 =
 [
-    [ "PrepareAuraScript", "d8/ddf/a27357.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "d8/ddf/a27357.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "d8/ddf/a27357.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "CheckProc", "d8/ddf/a27357.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
+    [ "HandleProc", "d8/ddf/a27357.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
+    [ "PrepareAuraScript", "d8/ddf/a27357.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
+    [ "Register", "d8/ddf/a27357.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
+    [ "Validate", "d8/ddf/a27357.html#a28801b99335380a7e366e766b6aaea2c", null ]
 ];

@@ -1,18 +1,12 @@
 var a19673 =
 [
-    [ "boss_bjarngrim", "d7/d1f/a19673.html#a1bf90864479939ba3f251c38b173e23a", null ],
-    [ "InitializeWaypoints", "d7/d1f/a19673.html#a87eab2b27b48d98b94a030936722781e", null ],
-    [ "JustDied", "d7/d1f/a19673.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
-    [ "JustEngagedWith", "d7/d1f/a19673.html#ad150ab7d9837861e8c4673a78978bb11", null ],
-    [ "KilledUnit", "d7/d1f/a19673.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
-    [ "RemoveStanceAura", "d7/d1f/a19673.html#a55a695e27192313c6cbe263a739e669e", null ],
-    [ "Reset", "d7/d1f/a19673.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
-    [ "RollStance", "d7/d1f/a19673.html#acd511435f9d77aa4839e1c856382ea51", null ],
-    [ "UpdateEscortAI", "d7/d1f/a19673.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
-    [ "WaypointReached", "d7/d1f/a19673.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
-    [ "WaypointReached", "d7/d1f/a19673.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "events", "d7/d1f/a19673.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
-    [ "m_pInstance", "d7/d1f/a19673.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
-    [ "m_uiStance", "d7/d1f/a19673.html#aec11755c71f056c8294a8af1c1084353", null ],
-    [ "summons", "d7/d1f/a19673.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
+    [ "boss_loken", "d7/d1f/a19673.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
+    [ "JustDied", "d7/d1f/a19673.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
+    [ "JustEngagedWith", "d7/d1f/a19673.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
+    [ "KilledUnit", "d7/d1f/a19673.html#a85ae3094927f7484216b44582f9a2bf6", null ],
+    [ "MoveInLineOfSight", "d7/d1f/a19673.html#ac9f3115629e5595d06c213d3e04afa68", null ],
+    [ "OnAuraRemove", "d7/d1f/a19673.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
+    [ "Reset", "d7/d1f/a19673.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
+    [ "ScheduleTasks", "d7/d1f/a19673.html#a600e211be40226679212a7078b26f3ed", null ],
+    [ "_introDone", "d7/d1f/a19673.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
 ];

@@ -1,8 +1,7 @@
 var a25377 =
 [
-    [ "CheckProc", "d0/db7/a25377.html#adbd524ef767a8b5cde13a5358969e344", null ],
-    [ "HandleProc", "d0/db7/a25377.html#ab208e39ea63158688a6a028696b9adc5", null ],
-    [ "PrepareAuraScript", "d0/db7/a25377.html#ad078ad76f0d0f88b9d52c88127d1aae7", null ],
-    [ "Register", "d0/db7/a25377.html#a834868e504beece0ce5e1e1745f96f63", null ],
-    [ "Validate", "d0/db7/a25377.html#a779b560a877ac0e731fe50c25af3d4d9", null ]
+    [ "CalcPeriodic", "d0/db7/a25377.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "d0/db7/a25377.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "d0/db7/a25377.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "d0/db7/a25377.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

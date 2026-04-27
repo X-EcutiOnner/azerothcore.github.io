@@ -514,7 +514,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  217</span>        }</div>
 <div class="line"><span class="lineno">  218</span>        <span class="keywordflow">case</span> ServerMailConditionType::Achievement:</div>
 <div class="line"><span class="lineno">  219</span>        {</div>
-<div class="line"><span class="lineno">  220</span>            <a class="code hl_struct" href="../../d1/d19/a28349.html">AchievementEntry</a> <span class="keyword">const</span>* achievement = <a class="code hl_variable" href="../../db/d1c/a01229.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a>.LookupEntry(conditionValue);</div>
+<div class="line"><span class="lineno">  220</span>            <a class="code hl_struct" href="../../d4/d53/a28325.html">AchievementEntry</a> <span class="keyword">const</span>* achievement = <a class="code hl_variable" href="../../db/d1c/a01229.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a>.LookupEntry(conditionValue);</div>
 <div class="line"><span class="lineno">  221</span>            <span class="keywordflow">if</span> (!achievement)</div>
 <div class="line"><span class="lineno">  222</span>            {</div>
 <div class="line"><span class="lineno">  223</span>                <a class="code hl_define" href="../../d0/da8/a04547.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionType &#39;Achievement&#39; with invalid achievement in conditionValue ({}) for templateID {}, skipped.&quot;</span>, conditionValue, templateID);</div>
@@ -524,7 +524,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  227</span>        }</div>
 <div class="line"><span class="lineno">  228</span>        <span class="keywordflow">case</span> ServerMailConditionType::Reputation:</div>
 <div class="line"><span class="lineno">  229</span>        {</div>
-<div class="line"><span class="lineno">  230</span>            <a class="code hl_struct" href="../../df/df9/a28725.html">FactionEntry</a> <span class="keyword">const</span>* faction = <a class="code hl_variable" href="../../db/d1c/a01229.html#a0fff35395ba871f73cf11434790780d7">sFactionStore</a>.LookupEntry(conditionValue);</div>
+<div class="line"><span class="lineno">  230</span>            <a class="code hl_struct" href="../../d0/d59/a28701.html">FactionEntry</a> <span class="keyword">const</span>* faction = <a class="code hl_variable" href="../../db/d1c/a01229.html#a0fff35395ba871f73cf11434790780d7">sFactionStore</a>.LookupEntry(conditionValue);</div>
 <div class="line"><span class="lineno">  231</span>            <span class="keywordflow">if</span> (!faction)</div>
 <div class="line"><span class="lineno">  232</span>            {</div>
 <div class="line"><span class="lineno">  233</span>                <a class="code hl_define" href="../../d0/da8/a04547.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table `mail_server_template_conditions` has conditionType &#39;Reputation&#39; with invalid faction in conditionValue ({}) for templateID {}, skipped.&quot;</span>, conditionValue, templateID);</div>
@@ -597,8 +597,8 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa10049_html_a2e7a8cdc7ebdb51204823fd30a0449b3"><div class="ttname"><a href="../../d8/d45/a10049.html#a2e7a8cdc7ebdb51204823fd30a0449b3">ServerMailMgr::ConditionTypeUsesConditionState</a></div><div class="ttdeci">bool ConditionTypeUsesConditionState(ServerMailConditionType type) const</div><div class="ttdoc">Check if ConditionType should use ConditionState.</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.cpp:325</div></div>
 <div class="ttc" id="aa10049_html_a57f8aea4b5bb15ff77b9ebd8e65e8092"><div class="ttname"><a href="../../d8/d45/a10049.html#a57f8aea4b5bb15ff77b9ebd8e65e8092">ServerMailMgr::GetServerMailConditionType</a></div><div class="ttdeci">ServerMailConditionType GetServerMailConditionType(std::string_view conditionTypeStr) const</div><div class="ttdoc">Convert DB value of conditionType to ServerMailConditionType.</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.cpp:316</div></div>
 <div class="ttc" id="aa10509_html"><div class="ttname"><a href="../../d6/d1c/a10509.html">Quest</a></div><div class="ttdef"><b>Definition:</b> QuestDef.h:210</div></div>
-<div class="ttc" id="aa28349_html"><div class="ttname"><a href="../../d1/d19/a28349.html">AchievementEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:40</div></div>
-<div class="ttc" id="aa28725_html"><div class="ttname"><a href="../../df/df9/a28725.html">FactionEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:907</div></div>
+<div class="ttc" id="aa28325_html"><div class="ttname"><a href="../../d4/d53/a28325.html">AchievementEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:40</div></div>
+<div class="ttc" id="aa28701_html"><div class="ttname"><a href="../../d0/d59/a28701.html">FactionEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:907</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00228">_serverMailStore</a>, <a class="el" href="../../#l00103">ACCOUNT_FLAGS_ALL</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00142">CLASSMASK_ALL_PLAYABLE</a>, <a class="el" href="../../#l00325">ConditionTypeUsesConditionState()</a>, <a class="el" href="../../#l00194">CONFIG_MAX_PLAYER_LEVEL</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00316">GetServerMailConditionType()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, <a class="el" href="../../#l00107">MAX_QUEST_STATUS</a>, <a class="el" href="../../#l00164">REP_EXALTED</a>, <a class="el" href="../../db/d1c/a01229.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a>, <a class="el" href="../../db/d1c/a01229.html#a0fff35395ba871f73cf11434790780d7">sFactionStore</a>, <a class="el" href="../../#l01723">sObjectMgr</a>, <a class="el" href="../../#l00052">sRaceMgr</a>, <a class="el" href="../../#l00093">ServerMailCondition::state</a>, <a class="el" href="../../#l00316">sWorld</a>, <a class="el" href="../../#l00749">TEAM_HORDE</a>, <a class="el" href="../../#l00091">ServerMailCondition::type</a>, and <a class="el" href="../../#l00092">ServerMailCondition::value</a>.</p>
 
@@ -850,7 +850,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d45/a10049.html">ServerMailMgr</a></li>
-    <li class="footer">Generated on Mon Apr 20 2026 21:16:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 27 2026 21:38:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

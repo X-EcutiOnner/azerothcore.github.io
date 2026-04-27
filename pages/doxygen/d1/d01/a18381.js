@@ -1,9 +1,6 @@
 var a18381 =
 [
-    [ "ShadowTrapLKTargetSelector", "d1/d01/a18381.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "d1/d01/a18381.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "d1/d01/a18381.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "d1/d01/a18381.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "d1/d01/a18381.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "d1/d01/a18381.html#af416013aabf3b217b07228072076603d", null ]
+    [ "VileSpiritActivateEvent", "d1/d01/a18381.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "d1/d01/a18381.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "d1/d01/a18381.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

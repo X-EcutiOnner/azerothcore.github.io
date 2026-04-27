@@ -1,7 +1,6 @@
 var a21649 =
 [
-    [ "HandleScriptEffect", "d4/d71/a21649.html#a7b0fca053f225beda41942d8fee86383", null ],
-    [ "PrepareSpellScript", "d4/d71/a21649.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
-    [ "Register", "d4/d71/a21649.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
-    [ "Validate", "d4/d71/a21649.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
+    [ "npc_black_knight_graveyardAI", "dc/df9/a21653.html", "dc/df9/a21653" ],
+    [ "npc_black_knight_graveyard", "d4/d71/a21649.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
+    [ "GetAI", "d4/d71/a21649.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
 ];

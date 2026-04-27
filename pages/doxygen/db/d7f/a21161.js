@@ -1,6 +1,6 @@
 var a21161 =
 [
-    [ "HandleEffectPeriodic", "db/d7f/a21161.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "db/d7f/a21161.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "db/d7f/a21161.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_khunok_the_behemothAI", "dd/d7c/a21165.html", "dd/d7c/a21165" ],
+    [ "npc_khunok_the_behemoth", "db/d7f/a21161.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "db/d7f/a21161.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

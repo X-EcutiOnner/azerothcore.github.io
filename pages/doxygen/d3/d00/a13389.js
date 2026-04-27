@@ -1,6 +1,7 @@
 var a13389 =
 [
-    [ "npc_risen_guardianAI", "d5/dbd/a13393.html", "d5/dbd/a13393" ],
-    [ "npc_risen_guardian", "d3/d00/a13389.html#a472274c69abe912f5781c60911204eb5", null ],
-    [ "GetAI", "d3/d00/a13389.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
+    [ "HandleScript", "d3/d00/a13389.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "d3/d00/a13389.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "d3/d00/a13389.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "d3/d00/a13389.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

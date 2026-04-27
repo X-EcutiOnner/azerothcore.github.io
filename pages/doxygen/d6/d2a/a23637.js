@@ -1,7 +1,9 @@
 var a23637 =
 [
-    [ "HandleEffect", "d6/d2a/a23637.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d6/d2a/a23637.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d6/d2a/a23637.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d6/d2a/a23637.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_ancestral_wolfAI", "d6/d2a/a23637.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "d6/d2a/a23637.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "d6/d2a/a23637.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "d6/d2a/a23637.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "WaypointReached", "d6/d2a/a23637.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ryga", "d6/d2a/a23637.html#ac238214604720e298124b58c35d58e05", null ]
 ];

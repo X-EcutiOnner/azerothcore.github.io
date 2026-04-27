@@ -1,6 +1,7 @@
 var a19709 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d1/dc9/a19713.html", "d1/dc9/a19713" ],
-    [ "instance_halls_of_lightning", "dd/d5e/a19709.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "dd/d5e/a19709.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "HandleScript", "dd/d5e/a19709.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "dd/d5e/a19709.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "dd/d5e/a19709.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "dd/d5e/a19709.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

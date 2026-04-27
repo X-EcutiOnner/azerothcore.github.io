@@ -1,6 +1,9 @@
 var a20513 =
 [
-    [ "OnPeriodic", "d3/d7c/a20513.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "d3/d7c/a20513.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "d3/d7c/a20513.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "npc_xt002_scrapbot", "d3/d7c/a20513.html#a0c7270ccbac5c12af8aaec998408046f", null ],
+    [ "JustDied", "d3/d7c/a20513.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0", null ],
+    [ "MovementInform", "d3/d7c/a20513.html#a7c167b396927f73736531b53056bc262", null ],
+    [ "Reset", "d3/d7c/a20513.html#aa9753f72910da1bb56a090e77fc029fb", null ],
+    [ "UpdateAI", "d3/d7c/a20513.html#a3f5cffc3225ced1ccdf3fc0964cc2c05", null ],
+    [ "_locked", "d3/d7c/a20513.html#aaa4e129ebea658b0f2e224e024f6010f", null ]
 ];

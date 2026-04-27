@@ -1,6 +1,5 @@
 var a16317 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d1/df0/a16321.html", "d1/df0/a16321" ],
-    [ "npc_baltharus_the_warborn_clone", "d3/d3f/a16317.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "d3/d3f/a16317.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "at_baltharus_plateau", "d3/d3f/a16317.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "d3/d3f/a16317.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

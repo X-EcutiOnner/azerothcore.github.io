@@ -1,6 +1,6 @@
 var a17057 =
 [
-    [ "FilterTargets", "d3/d27/a17057.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d3/d27/a17057.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d3/d27/a17057.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "npc_fos_leader_secondAI", "df/dc3/a17061.html", "df/dc3/a17061" ],
+    [ "npc_fos_leader_second", "d3/d27/a17057.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "d3/d27/a17057.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

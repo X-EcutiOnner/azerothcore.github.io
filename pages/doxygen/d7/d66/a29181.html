@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ProcChanceTestHelper::TriggeredSpellConfig Struct Reference</title>
+<title>AzerothCore: ProcChanceTestHelper::ConditionsConfig Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,108 +107,72 @@ $(document).ready(function(){initNavTree('d7/d66/a29181.html','../../'); initRes
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../dd/d1f/a29178.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ProcChanceTestHelper::TriggeredSpellConfig Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ProcChanceTestHelper::ConditionsConfig Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Configuration for simulating triggered spell filtering.  
+<p>Configuration for simulating conditions system.  
  <a href="../../d7/d66/a29181.html#details">More...</a></p>
 
 <p><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aae527e9b8a2969ef67e9c4fbaf43c381"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a29181.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = false</td></tr>
-<tr class="separator:aae527e9b8a2969ef67e9c4fbaf43c381"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af3e394eb5563aa4a76bd51d6c52f6db2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a29181.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = false</td></tr>
-<tr class="separator:af3e394eb5563aa4a76bd51d6c52f6db2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab2f859d45c5a9a02301ecc117bf3e25e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a29181.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = false</td></tr>
-<tr class="separator:ab2f859d45c5a9a02301ecc117bf3e25e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad62562e342e1d090e3f26f7c40a35795"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a29181.html#ad62562e342e1d090e3f26f7c40a35795">triggeredByAuraSpellId</a> = 0</td></tr>
-<tr class="separator:ad62562e342e1d090e3f26f7c40a35795"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae198c80e6c72eeb72da0abcde8a0f13a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a29181.html#ae198c80e6c72eeb72da0abcde8a0f13a">procAuraSpellId</a> = 0</td></tr>
-<tr class="separator:ae198c80e6c72eeb72da0abcde8a0f13a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a160ac902a994fdaaa36b66dbaa4c8282"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a29181.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = false</td></tr>
+<tr class="separator:a160ac902a994fdaaa36b66dbaa4c8282"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade58814e6b27763d1bb6c1f730ef53e0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a29181.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = true</td></tr>
+<tr class="separator:ade58814e6b27763d1bb6c1f730ef53e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbfa5f40abb5713e15311f8259d70dc6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a29181.html#abbfa5f40abb5713e15311f8259d70dc6">sourceType</a> = 24</td></tr>
+<tr class="separator:abbfa5f40abb5713e15311f8259d70dc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Configuration for simulating triggered spell filtering. </p>
+<div class="textblock"><p >Configuration for simulating conditions system. </p>
 </div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="af3e394eb5563aa4a76bd51d6c52f6db2" name="af3e394eb5563aa4a76bd51d6c52f6db2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af3e394eb5563aa4a76bd51d6c52f6db2">&#9670;&#160;</a></span>auraHasCanProcFromProcs</h2>
+<a id="ade58814e6b27763d1bb6c1f730ef53e0" name="ade58814e6b27763d1bb6c1f730ef53e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade58814e6b27763d1bb6c1f730ef53e0">&#9670;&#160;</a></span>conditionsMet</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs = false</td>
+          <td class="memname">bool ProcChanceTestHelper::ConditionsConfig::conditionsMet = true</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00217">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>, and <a class="el" href="../../#l00076">TEST_F()</a>.</p>
 
 </div>
 </div>
-<a id="aae527e9b8a2969ef67e9c4fbaf43c381" name="aae527e9b8a2969ef67e9c4fbaf43c381"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aae527e9b8a2969ef67e9c4fbaf43c381">&#9670;&#160;</a></span>isTriggered</h2>
+<a id="a160ac902a994fdaaa36b66dbaa4c8282" name="a160ac902a994fdaaa36b66dbaa4c8282"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a160ac902a994fdaaa36b66dbaa4c8282">&#9670;&#160;</a></span>hasConditions</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool ProcChanceTestHelper::TriggeredSpellConfig::isTriggered = false</td>
+          <td class="memname">bool ProcChanceTestHelper::ConditionsConfig::hasConditions = false</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00217">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>, and <a class="el" href="../../#l00067">TEST_F()</a>.</p>
 
 </div>
 </div>
-<a id="ae198c80e6c72eeb72da0abcde8a0f13a" name="ae198c80e6c72eeb72da0abcde8a0f13a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae198c80e6c72eeb72da0abcde8a0f13a">&#9670;&#160;</a></span>procAuraSpellId</h2>
+<a id="abbfa5f40abb5713e15311f8259d70dc6" name="abbfa5f40abb5713e15311f8259d70dc6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abbfa5f40abb5713e15311f8259d70dc6">&#9670;&#160;</a></span>sourceType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ProcChanceTestHelper::TriggeredSpellConfig::procAuraSpellId = 0</td>
+          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ProcChanceTestHelper::ConditionsConfig::sourceType = 24</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00056">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="ab2f859d45c5a9a02301ecc117bf3e25e" name="ab2f859d45c5a9a02301ecc117bf3e25e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab2f859d45c5a9a02301ecc117bf3e25e">&#9670;&#160;</a></span>spellHasNotAProc</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc = false</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00217">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="ad62562e342e1d090e3f26f7c40a35795" name="ad62562e342e1d090e3f26f7c40a35795"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad62562e342e1d090e3f26f7c40a35795">&#9670;&#160;</a></span>triggeredByAuraSpellId</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ProcChanceTestHelper::TriggeredSpellConfig::triggeredByAuraSpellId = 0</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00056">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00100">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -217,8 +181,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/d34/a29177.html">ProcChanceTestHelper</a></li><li class="navelem"><a class="el" href="../../d7/d66/a29181.html">TriggeredSpellConfig</a></li>
-    <li class="footer">Generated on Mon Apr 20 2026 21:16:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/d45/a29153.html">ProcChanceTestHelper</a></li><li class="navelem"><a class="el" href="../../d7/d66/a29181.html">ConditionsConfig</a></li>
+    <li class="footer">Generated on Mon Apr 27 2026 21:38:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

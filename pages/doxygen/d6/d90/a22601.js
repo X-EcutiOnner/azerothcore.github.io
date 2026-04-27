@@ -1,6 +1,5 @@
 var a22601 =
 [
-    [ "PrepareSpellScript", "d6/d90/a22601.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "d6/d90/a22601.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "d6/d90/a22601.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "npc_vengeful_spirit", "d6/d90/a22601.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
+    [ "OnCharmed", "d6/d90/a22601.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
 ];

@@ -1,6 +1,7 @@
 var a18757 =
 [
-    [ "HandleScript", "df/ddc/a18757.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "df/ddc/a18757.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "df/ddc/a18757.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "PeriodicTick", "df/ddc/a18757.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "df/ddc/a18757.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "df/ddc/a18757.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "df/ddc/a18757.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

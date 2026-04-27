@@ -1,7 +1,5 @@
 var a20125 =
 [
-    [ "HandleEffectPeriodic", "d6/d7a/a20125.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "d6/d7a/a20125.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "d6/d7a/a20125.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "d6/d7a/a20125.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "achievement_shadowdodger", "d6/d7a/a20125.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
+    [ "OnCheck", "d6/d7a/a20125.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
 ];

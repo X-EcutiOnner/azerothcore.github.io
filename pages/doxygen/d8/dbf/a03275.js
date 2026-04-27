@@ -1,6 +1,6 @@
 var a03275 =
 [
-    [ "npc_king_magni_bronzebeard", "db/dbb/a13917.html", "db/dbb/a13917" ],
+    [ "npc_king_magni_bronzebeard", "d2/d36/a13897.html", "d2/d36/a13897" ],
     [ "KingMagniBronzebeard", "d8/dbf/a03275.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e", [
       [ "SOUND_AGGRO", "d8/dbf/a03275.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa", null ],
       [ "SPELL_AVATAR", "d8/dbf/a03275.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35", null ],

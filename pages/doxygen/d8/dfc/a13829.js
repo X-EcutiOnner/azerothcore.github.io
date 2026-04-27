@@ -1,6 +1,5 @@
 var a13829 =
 [
-    [ "HandleSendEvent", "d8/dfc/a13829.html#a1be975f4440b823c34cc3e790fcff608", null ],
-    [ "PrepareSpellScript", "d8/dfc/a13829.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
-    [ "Register", "d8/dfc/a13829.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
+    [ "at_twilight_grove", "d8/dfc/a13829.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
+    [ "OnTrigger", "d8/dfc/a13829.html#a8ee7239b8429df38a237926a7252322b", null ]
 ];

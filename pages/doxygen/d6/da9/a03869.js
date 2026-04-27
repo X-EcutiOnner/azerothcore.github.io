@@ -1,7 +1,7 @@
 var a03869 =
 [
-    [ "boss_volkhan", "d3/dfa/a19701.html", "d3/dfa/a19701" ],
-    [ "npc_molten_golem", "db/d71/a19705.html", "db/d71/a19705" ],
+    [ "boss_volkhan", "d8/d26/a19681.html", "d8/d26/a19681" ],
+    [ "npc_molten_golem", "d3/d43/a19685.html", "d3/d43/a19685" ],
     [ "VolkahnSpells", "d6/da9/a03869.html#a3d8eeb9f7fe68b166b8a2f065a81d72d", [
       [ "SPELL_HEAT", "d6/da9/a03869.html#a3d8eeb9f7fe68b166b8a2f065a81d72da9329da13a5cbfa0d7dad14d7aeceeac7", null ],
       [ "SPELL_SHATTERING_STOMP", "d6/da9/a03869.html#a3d8eeb9f7fe68b166b8a2f065a81d72daec9ae5b4353163fe5840d94c9371bd80", null ],

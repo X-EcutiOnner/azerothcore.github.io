@@ -1,6 +1,6 @@
 var a16869 =
 [
-    [ "boss_dreadscaleAI", "df/d9a/a16873.html", "df/d9a/a16873" ],
-    [ "boss_dreadscale", "d1/daf/a16869.html#ab3276e515419303358b0ee59bc92c12e", null ],
-    [ "GetAI", "d1/daf/a16869.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
+    [ "boss_eydisAI", "df/d9a/a16873.html", "df/d9a/a16873" ],
+    [ "boss_eydis", "d1/daf/a16869.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "d1/daf/a16869.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

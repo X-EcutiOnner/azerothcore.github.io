@@ -1,6 +1,7 @@
 var a21409 =
 [
-    [ "CheckCast", "df/d7a/a21409.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "df/d7a/a21409.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "df/d7a/a21409.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "HandleApplyEffect", "df/d7a/a21409.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "df/d7a/a21409.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "df/d7a/a21409.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "df/d7a/a21409.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

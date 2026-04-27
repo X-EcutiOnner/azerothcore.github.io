@@ -1,11 +1,6 @@
 var a18105 =
 [
-    [ "Load", "df/df2/a18105.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "df/df2/a18105.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "df/df2/a18105.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "df/df2/a18105.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "df/df2/a18105.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "df/df2/a18105.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "df/df2/a18105.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "df/df2/a18105.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "HandleScript", "df/df2/a18105.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
+    [ "PrepareSpellScript", "df/df2/a18105.html#a50560d754709e6b9ec6863142c1ffce3", null ],
+    [ "Register", "df/df2/a18105.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
 ];

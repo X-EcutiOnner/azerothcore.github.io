@@ -1,6 +1,7 @@
 var a17533 =
 [
-    [ "HandleScript", "df/d30/a17533.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
-    [ "PrepareSpellScript", "df/d30/a17533.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
-    [ "Register", "df/d30/a17533.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
+    [ "HandleDummyTick", "df/d30/a17533.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "df/d30/a17533.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "df/d30/a17533.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "df/d30/a17533.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

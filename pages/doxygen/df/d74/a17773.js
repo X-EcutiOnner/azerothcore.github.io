@@ -1,6 +1,6 @@
 var a17773 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "d6/d76/a17777.html", "d6/d76/a17777" ],
-    [ "npc_muradin_bronzebeard_igb", "df/d74/a17773.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "df/d74/a17773.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "npc_igb_ship_crewAI", "df/d74/a17773.html#a3ca741b305e3235b0521f094d7abe732", null ],
+    [ "CanAIAttack", "df/d74/a17773.html#a2c834dc151493957fc116865699ae7f5", null ],
+    [ "_instance", "df/d74/a17773.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
 ];

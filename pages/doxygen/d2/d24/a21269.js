@@ -1,9 +1,7 @@
 var a21269 =
 [
-    [ "npc_bloodmage_laurithAI", "d2/d24/a21269.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d2/d24/a21269.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d2/d24/a21269.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
-    [ "UpdateAI", "d2/d24/a21269.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d2/d24/a21269.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d2/d24/a21269.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_warmage_violetstand", "d2/d24/a21269.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d2/d24/a21269.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d2/d24/a21269.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d2/d24/a21269.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

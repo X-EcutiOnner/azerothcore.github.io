@@ -1,9 +1,9 @@
 var a02906 =
 [
-    [ "boss_hungarfen", "d9/d9f/a23033.html", "d9/d9f/a23033" ],
-    [ "npc_underbog_mushroom", "d4/d08/a23037.html", "d4/d08/a23037" ],
-    [ "spell_spore_cloud", "d5/d83/a23041.html", "d5/d83/a23041" ],
-    [ "spell_despawn_underbog_mushrooms", "d5/dc0/a23045.html", "d5/dc0/a23045" ],
+    [ "boss_hungarfen", "d7/de0/a23013.html", "d7/de0/a23013" ],
+    [ "npc_underbog_mushroom", "df/ddd/a23017.html", "df/ddd/a23017" ],
+    [ "spell_spore_cloud", "df/db1/a23021.html", "df/db1/a23021" ],
+    [ "spell_despawn_underbog_mushrooms", "df/dad/a23025.html", "df/dad/a23025" ],
     [ "Misc", "d6/d1d/a02906.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "df/dc9/a03230.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "df/dc9/a03230.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],
@@ -369,6 +369,9 @@ var a02906 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

@@ -1,6 +1,8 @@
 var a19821 =
 [
-    [ "npc_collapsing_star", "dd/da6/a19821.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
-    [ "DamageTaken", "dd/da6/a19821.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
-    [ "JustSummoned", "dd/da6/a19821.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
+    [ "HandlePeriodic", "dd/da6/a19821.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "dd/da6/a19821.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "dd/da6/a19821.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "dd/da6/a19821.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "dd/da6/a19821.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

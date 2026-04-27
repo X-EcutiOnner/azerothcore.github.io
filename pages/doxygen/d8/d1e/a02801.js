@@ -1,10 +1,10 @@
 var a02801 =
 [
-    [ "boss_alar", "db/df7/a23413.html", "db/df7/a23413" ],
-    [ "CastQuill", "dc/d49/a23417.html", "dc/d49/a23417" ],
-    [ "spell_alar_flame_quills", "d9/ddb/a23421.html", "d9/ddb/a23421" ],
-    [ "spell_alar_ember_blast", "d9/de3/a23425.html", "d9/de3/a23425" ],
-    [ "spell_alar_dive_bomb", "dc/d85/a23429.html", "dc/d85/a23429" ],
+    [ "boss_alar", "d8/d2a/a23393.html", "d8/d2a/a23393" ],
+    [ "CastQuill", "d6/dd2/a23397.html", "d6/dd2/a23397" ],
+    [ "spell_alar_flame_quills", "d0/da2/a23401.html", "d0/da2/a23401" ],
+    [ "spell_alar_ember_blast", "dc/d19/a23405.html", "dc/d19/a23405" ],
+    [ "spell_alar_dive_bomb", "df/dff/a23409.html", "df/dff/a23409" ],
     [ "GroupAlar", "d8/d1e/a02801.html#affdfad05d59fe2df3a25189df6c3bf7e", [
       [ "GROUP_FLAME_BUFFET", "d8/d1e/a02801.html#affdfad05d59fe2df3a25189df6c3bf7ea736f8214156adfa79b40871fd56adf53", null ]
     ] ],
@@ -373,6 +373,9 @@ var a02801 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

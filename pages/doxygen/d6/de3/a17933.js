@@ -1,5 +1,6 @@
 var a17933 =
 [
-    [ "achievement_im_on_a_boat", "d6/de3/a17933.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d6/de3/a17933.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "npc_cult_fanaticAI", "df/da7/a17937.html", "df/da7/a17937" ],
+    [ "npc_cult_fanatic", "d6/de3/a17933.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d6/de3/a17933.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

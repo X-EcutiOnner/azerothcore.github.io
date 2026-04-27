@@ -1,5 +1,6 @@
 var a16221 =
 [
-    [ "achievement_hadronox_denied", "d9/dbc/a16221.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
-    [ "OnCheck", "d9/dbc/a16221.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d9/dbc/a16221.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureEvade", "d9/dbc/a16221.html#af163238686bf22f11908f64ffb5cacca", null ],
+    [ "OnUnitDeath", "d9/dbc/a16221.html#a45792f7c2d1a042d68907a0f475634d1", null ]
 ];

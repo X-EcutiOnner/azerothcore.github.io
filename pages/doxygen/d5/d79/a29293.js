@@ -1,10 +1,6 @@
 var a29293 =
 [
-    [ "SetUp", "d5/d79/a29293.html#a59657ac0b1eef5636d297ef3fd72f81e", null ],
-    [ "TearDown", "d5/d79/a29293.html#a3e60f8d66a4d2ade8a844cd273079799", null ],
-    [ "_creatureA", "d5/d79/a29293.html#a9b8fd602bcafd1e7da74d84ff650bb8d", null ],
-    [ "_creatureB", "d5/d79/a29293.html#a013f2803435327693032f6bf23728219", null ],
-    [ "_map", "d5/d79/a29293.html#aff1204f57b91638d6f2513bfec515b88", null ],
-    [ "_previousWorld", "d5/d79/a29293.html#a4f5f721748aaae7fc00172049fe75639", null ],
-    [ "_worldMock", "d5/d79/a29293.html#a3f59d709f3f43cb7b7a86b4370350982", null ]
+    [ "SetUp", "d5/d79/a29293.html#ac7db18817aa330aedefd1f688d53219b", null ],
+    [ "TearDown", "d5/d79/a29293.html#a0cb70a624f55509497866a1fac787800", null ],
+    [ "_previousWorld", "d5/d79/a29293.html#afec905a799e8fe7522a2fa6756fa41d9", null ]
 ];

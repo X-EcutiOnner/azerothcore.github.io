@@ -1,19 +1,8 @@
 var a29229 =
 [
-    [ "SpellProcEntryBuilder", "da/dc7/a29229.html#ad5df1abe27dde6d70c030bd19ed5c928", null ],
-    [ "Build", "da/dc7/a29229.html#a2a69603215e9fa526304f420bd5a490c", null ],
-    [ "WithAttributesMask", "da/dc7/a29229.html#ab9585e517adc231979ca5b817a2f2142", null ],
-    [ "WithChance", "da/dc7/a29229.html#a3c99a07866eb497717932af6b7f3a485", null ],
-    [ "WithCharges", "da/dc7/a29229.html#a6b8ecf0c38751be02b7003a7547d550f", null ],
-    [ "WithCooldown", "da/dc7/a29229.html#acd3a4b7ab057b5f36dd407acc11a4da4", null ],
-    [ "WithDisableEffectsMask", "da/dc7/a29229.html#ad414f75756b0fd284c636568dd74e57c", null ],
-    [ "WithHitMask", "da/dc7/a29229.html#a1cdd7bec2aa80d5036d614ad0296a695", null ],
-    [ "WithProcFlags", "da/dc7/a29229.html#acebcb2a676a7e8e6821854137e056fff", null ],
-    [ "WithProcsPerMinute", "da/dc7/a29229.html#aa373ae9df6697d722e7f6084a70c8b7a", null ],
-    [ "WithSchoolMask", "da/dc7/a29229.html#a713d576e3a6daf3c6f96b662b5789f14", null ],
-    [ "WithSpellFamilyMask", "da/dc7/a29229.html#a57a1699a8238dd535a44908734e3c7fd", null ],
-    [ "WithSpellFamilyName", "da/dc7/a29229.html#abf221ae8a8ef5e995bbe9b3f01f004c1", null ],
-    [ "WithSpellPhaseMask", "da/dc7/a29229.html#ae7ddfcb398c2f5e52834bd74d25754dc", null ],
-    [ "WithSpellTypeMask", "da/dc7/a29229.html#aa0691e03294c5317fdd173d4dd70edc1", null ],
-    [ "_entry", "da/dc7/a29229.html#a42632c6cb19221bbca3441f46e1f1b3c", null ]
+    [ "bp0", "da/dc7/a29229.html#ada8e047c960181610ff1942cbdfa2e27", null ],
+    [ "bp1", "da/dc7/a29229.html#aaf81afde542db481bde1e26fcc21b945", null ],
+    [ "bp2", "da/dc7/a29229.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
+    [ "spellId", "da/dc7/a29229.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
+    [ "triggered", "da/dc7/a29229.html#a0ee8feba0856c5497612e15128ba8273", null ]
 ];

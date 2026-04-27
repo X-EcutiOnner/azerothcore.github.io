@@ -1,11 +1,7 @@
 var a28625 =
 [
-    [ "icon", "da/d71/a28625.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
-    [ "id", "da/d71/a28625.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
-    [ "mapId", "da/d71/a28625.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
-    [ "worldState", "da/d71/a28625.html#a9d745d26316726c861cc5a242f6a4f57", null ],
-    [ "x", "da/d71/a28625.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
-    [ "y", "da/d71/a28625.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
-    [ "z", "da/d71/a28625.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
-    [ "zoneId", "da/d71/a28625.html#a0cc33089981237694ca550cba6793a3e", null ]
+    [ "bit_index", "da/d71/a28625.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "da/d71/a28625.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "da/d71/a28625.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "da/d71/a28625.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

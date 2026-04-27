@@ -1,8 +1,6 @@
 var a13761 =
 [
-    [ "HandleApply", "dd/d04/a13761.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "dd/d04/a13761.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "dd/d04/a13761.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "dd/d04/a13761.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "dd/d04/a13761.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "dd/d04/a13761.html#aae99b35ff990fd7486d5b70693b6729a", null ],
+    [ "Load", "dd/d04/a13761.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
+    [ "OnPlayerEnter", "dd/d04/a13761.html#ab45827eaa92aea4746378b3c11fda219", null ]
 ];

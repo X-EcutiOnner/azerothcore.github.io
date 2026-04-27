@@ -1,7 +1,8 @@
 var a17109 =
 [
-    [ "OnRemove", "d7/dee/a17109.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "d7/dee/a17109.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "d7/dee/a17109.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "d7/dee/a17109.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "npc_phantom_hallucination", "d7/dee/a17109.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "d7/dee/a17109.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "d7/dee/a17109.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "d7/dee/a17109.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "d7/dee/a17109.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

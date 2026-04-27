@@ -1,7 +1,6 @@
 var a15069 =
 [
-    [ "OnRemove", "dd/d50/a15069.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "dd/d50/a15069.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "dd/d50/a15069.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "dd/d50/a15069.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "npc_cos_chromie_start", "dd/d50/a15069.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "dd/d50/a15069.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
+    [ "OnQuestAccept", "dd/d50/a15069.html#a038e046773718f5cd55d2b4eb98b3d24", null ]
 ];

@@ -1,14 +1,14 @@
 var a03077 =
 [
-    [ "boss_mandokir", "d4/df4/a14365.html", "d4/df4/a14365" ],
-    [ "boss_mandokir::boss_mandokirAI", "d7/d55/a14369.html", "d7/d55/a14369" ],
-    [ "npc_ohgan", "d6/dad/a14373.html", "d6/dad/a14373" ],
-    [ "npc_ohgan::npc_ohganAI", "dc/deb/a14377.html", "dc/deb/a14377" ],
-    [ "npc_chained_spirit", "d2/db5/a14381.html", "d2/db5/a14381" ],
-    [ "npc_vilebranch_speaker", "d2/d01/a14385.html", "d2/d01/a14385" ],
-    [ "spell_threatening_gaze_aura", "df/dcd/a14389.html", "df/dcd/a14389" ],
-    [ "spell_mandokir_charge", "db/de2/a14393.html", "db/de2/a14393" ],
-    [ "spell_threatening_gaze_charge", "d8/d9c/a14397.html", "d8/d9c/a14397" ],
+    [ "boss_mandokir", "d4/da9/a14345.html", "d4/da9/a14345" ],
+    [ "boss_mandokir::boss_mandokirAI", "dc/dcb/a14349.html", "dc/dcb/a14349" ],
+    [ "npc_ohgan", "d8/db0/a14353.html", "d8/db0/a14353" ],
+    [ "npc_ohgan::npc_ohganAI", "d6/d0c/a14357.html", "d6/d0c/a14357" ],
+    [ "npc_chained_spirit", "d9/d5e/a14361.html", "d9/d5e/a14361" ],
+    [ "npc_vilebranch_speaker", "d4/df4/a14365.html", "d4/df4/a14365" ],
+    [ "spell_threatening_gaze_aura", "d7/d55/a14369.html", "d7/d55/a14369" ],
+    [ "spell_mandokir_charge", "d6/dad/a14373.html", "d6/dad/a14373" ],
+    [ "spell_threatening_gaze_charge", "dc/deb/a14377.html", "dc/deb/a14377" ],
     [ "Action", "d7/deb/a03077.html#a8bb1ef53467e4f61410d12822d922498", [
       [ "ACTION_START_REVIVE", "d7/deb/a03077.html#a8bb1ef53467e4f61410d12822d922498a14acc6a83289f297aabd7f8da3c85502", null ],
       [ "ACTION_REVIVE", "d7/deb/a03077.html#a8bb1ef53467e4f61410d12822d922498ae4cd22dece403cdfe2b94719ca179265", null ]
@@ -1611,6 +1611,9 @@ var a03077 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

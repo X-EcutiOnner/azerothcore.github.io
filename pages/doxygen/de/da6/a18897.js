@@ -1,5 +1,6 @@
 var a18897 =
 [
-    [ "npc_alchemist_adrianna", "de/da6/a18897.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "de/da6/a18897.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "HandleEvent", "de/da6/a18897.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "de/da6/a18897.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "de/da6/a18897.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

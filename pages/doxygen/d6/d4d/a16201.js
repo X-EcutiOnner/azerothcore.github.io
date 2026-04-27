@@ -1,6 +1,5 @@
 var a16201 =
 [
-    [ "npc_anub_ar_crusher_crypt_fiend", "d6/d4d/a16201.html#a89abbce738f115c26dae9dacb065cc3d", null ],
-    [ "DoEngagedWith", "d6/d4d/a16201.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
-    [ "DoEvent", "d6/d4d/a16201.html#a276eca6e65b32905f6919d49530ccc2f", null ]
+    [ "achievement_hadronox_denied", "d6/d4d/a16201.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
+    [ "OnCheck", "d6/d4d/a16201.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
 ];

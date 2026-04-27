@@ -1,15 +1,14 @@
 var a19497 =
 [
-    [ "boss_anomalus", "d3/dae/a19497.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d3/dae/a19497.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "d3/dae/a19497.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "d3/dae/a19497.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "d3/dae/a19497.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "d3/dae/a19497.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "d3/dae/a19497.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "d3/dae/a19497.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "d3/dae/a19497.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "_empowered", "d3/dae/a19497.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
-    [ "achievement", "d3/dae/a19497.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "d3/dae/a19497.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "boss_magus_telestra", "d3/dae/a19497.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
+    [ "AttackStart", "d3/dae/a19497.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
+    [ "GetData", "d3/dae/a19497.html#a713f93edc709edabe003c305efdd709c", null ],
+    [ "JustDied", "d3/dae/a19497.html#ac69759755637749a58f712b86d3bf9ac", null ],
+    [ "JustEngagedWith", "d3/dae/a19497.html#a91b4569027b3414814bf1f2e86441fc6", null ],
+    [ "JustSummoned", "d3/dae/a19497.html#a1fc0f30287916d6606829987d29d9387", null ],
+    [ "KilledUnit", "d3/dae/a19497.html#a85b333905e5dcd34dbe001306924529a", null ],
+    [ "Reset", "d3/dae/a19497.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
+    [ "SpellHit", "d3/dae/a19497.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
+    [ "UpdateAI", "d3/dae/a19497.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
+    [ "achievement", "d3/dae/a19497.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
 ];

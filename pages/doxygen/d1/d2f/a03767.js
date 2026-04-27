@@ -1,11 +1,11 @@
 var a03767 =
 [
-    [ "WebTargetSelector", "d6/dad/a19305.html", "d6/dad/a19305" ],
-    [ "boss_maexxna", "d8/d85/a19309.html", "d8/d85/a19309" ],
-    [ "boss_maexxna::boss_maexxnaAI", "d9/ddb/a19313.html", "d9/ddb/a19313" ],
-    [ "boss_maexxna_webwrap", "dc/dea/a19317.html", "dc/dea/a19317" ],
-    [ "boss_maexxna_webwrap::boss_maexxna_webwrapAI", "d8/d0c/a19321.html", "d8/d0c/a19321" ],
-    [ "spell_web_wrap_damage", "d3/d0a/a19325.html", "d3/d0a/a19325" ],
+    [ "WebTargetSelector", "d6/d4a/a19285.html", "d6/d4a/a19285" ],
+    [ "boss_maexxna", "d8/dca/a19289.html", "d8/dca/a19289" ],
+    [ "boss_maexxna::boss_maexxnaAI", "d1/d8f/a19293.html", "d1/d8f/a19293" ],
+    [ "boss_maexxna_webwrap", "dd/db8/a19297.html", "dd/db8/a19297" ],
+    [ "boss_maexxna_webwrap::boss_maexxna_webwrapAI", "de/d7b/a19301.html", "de/d7b/a19301" ],
+    [ "spell_web_wrap_damage", "d6/dad/a19305.html", "d6/dad/a19305" ],
     [ "Emotes", "d1/d2f/a03767.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "dd/d71/a03182.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "dd/d71/a03182.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],
@@ -1638,6 +1638,9 @@ var a03767 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

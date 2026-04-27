@@ -1,6 +1,6 @@
 var a17793 =
 [
-    [ "npc_igb_ship_crewAI", "d1/dc1/a17793.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d1/dc1/a17793.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d1/dc1/a17793.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "npc_gunship_boarding_add_realAI", "d6/d06/a17797.html", "d6/d06/a17797" ],
+    [ "npc_gunship_boarding_add", "d1/dc1/a17793.html#aa80871f80bae7186d3665f73d757e108", null ],
+    [ "GetAI", "d1/dc1/a17793.html#ad7e173bffccca6d852ba545427235447", null ]
 ];

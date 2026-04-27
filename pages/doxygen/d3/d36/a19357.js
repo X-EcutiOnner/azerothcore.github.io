@@ -1,10 +1,16 @@
 var a19357 =
 [
-    [ "boss_razuvious_minionAI", "d3/d36/a19357.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "d3/d36/a19357.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "d3/d36/a19357.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "d3/d36/a19357.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "d3/d36/a19357.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "d3/d36/a19357.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "d3/d36/a19357.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "boss_thaddiusAI", "d3/d36/a19357.html#a8a25d56cb38b755fec6f18a9616632e2", null ],
+    [ "DoAction", "d3/d36/a19357.html#aa9697fa990b9d84f3cc9496df1cb4234", null ],
+    [ "IsAnyPlayerInMeleeRange", "d3/d36/a19357.html#aa5175bb29e16c1c421cf16207e890d57", null ],
+    [ "JustDied", "d3/d36/a19357.html#a2ec7bfa46d972cdd857289693acdc965", null ],
+    [ "JustEngagedWith", "d3/d36/a19357.html#a52ec355e0ddd2a29b06b473303941b46", null ],
+    [ "JustSummoned", "d3/d36/a19357.html#a1aa9a09089a2070eda14fda1bc51f0fe", null ],
+    [ "KilledUnit", "d3/d36/a19357.html#a94f7852267620b0a77c2e1003f080589", null ],
+    [ "Reset", "d3/d36/a19357.html#ae7b69b5e83fdbaa3df25dda989eeaf07", null ],
+    [ "UpdateAI", "d3/d36/a19357.html#a5eef08082268fa181d4d396fc952dbcd", null ],
+    [ "ballLightningEnabled", "d3/d36/a19357.html#a487582d59f0d717c3ec53679ad36f99a", null ],
+    [ "resetTimer", "d3/d36/a19357.html#aba9f23389d5f6724883dc9f7e607a351", null ],
+    [ "reviveTimer", "d3/d36/a19357.html#a11388e745e81c3ad8ba7d97812a17203", null ],
+    [ "summonTimer", "d3/d36/a19357.html#a82288ef27f720b5f0f84bfd0ac6b9ccb", null ]
 ];

@@ -1,6 +1,6 @@
 var a04262 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d2/d37/a28237.html", "d2/d37/a28237" ],
+    [ "QuestApprenticeAnglerPlayerScript", "de/d25/a28213.html", "de/d25/a28213" ],
     [ "ApprenticeAnglerQuestEnum", "d1/d7a/a04262.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
       [ "QUEST_APPRENTICE_ANGLER", "d1/d7a/a04262.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
     ] ],

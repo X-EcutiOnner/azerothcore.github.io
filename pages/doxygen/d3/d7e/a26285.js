@@ -1,9 +1,8 @@
 var a26285 =
 [
-    [ "Load", "d3/d7e/a26285.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "d3/d7e/a26285.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "d3/d7e/a26285.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "d3/d7e/a26285.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "d3/d7e/a26285.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "d3/d7e/a26285.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "Load", "d3/d7e/a26285.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "d3/d7e/a26285.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "d3/d7e/a26285.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "d3/d7e/a26285.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "d3/d7e/a26285.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

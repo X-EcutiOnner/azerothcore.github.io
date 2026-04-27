@@ -1,6 +1,11 @@
 var a21493 =
 [
-    [ "npc_spiritual_insightAI", "d4/de3/a21493.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "d4/de3/a21493.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "d4/de3/a21493.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_torturer_lecraftAI", "d4/de3/a21493.html#a0886d83c8ab8b7db728928ecf922031b", null ],
+    [ "JustEngagedWith", "d4/de3/a21493.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
+    [ "Reset", "d4/de3/a21493.html#a13177e318e7777ecb13ba71c4f10f425", null ],
+    [ "SpellHit", "d4/de3/a21493.html#a837805efcb6c99de55646a232f151ae8", null ],
+    [ "UpdateAI", "d4/de3/a21493.html#a45919da006b0e767ec38810a6fcbac5d", null ],
+    [ "_events", "d4/de3/a21493.html#a7879e11a94c32266ed11dc352ae7e802", null ],
+    [ "_playerGUID", "d4/de3/a21493.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
+    [ "_textCounter", "d4/de3/a21493.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
 ];

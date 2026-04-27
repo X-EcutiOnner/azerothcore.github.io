@@ -1,9 +1,6 @@
 var a13793 =
 [
-    [ "spell_sunwell_teleport", "d3/dbc/a13793.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
-    [ "HandleScript", "d3/dbc/a13793.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
-    [ "PrepareSpellScript", "d3/dbc/a13793.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
-    [ "Register", "d3/dbc/a13793.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
-    [ "Validate", "d3/dbc/a13793.html#a351a2beced058f9354515baa38b0292e", null ],
-    [ "_triggeredSpellId", "d3/dbc/a13793.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
+    [ "instance_uldaman_InstanceMapScript", "de/d23/a13797.html", "de/d23/a13797" ],
+    [ "instance_uldaman", "d3/dbc/a13793.html#a854807db729d15aa4a09aad051fe3bda", null ],
+    [ "GetInstanceScript", "d3/dbc/a13793.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
 ];

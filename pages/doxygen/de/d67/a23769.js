@@ -1,7 +1,6 @@
 var a23769 =
 [
-    [ "HandleScriptEffect", "de/d67/a23769.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
-    [ "PrepareSpellScript", "de/d67/a23769.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
-    [ "Register", "de/d67/a23769.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
-    [ "Validate", "de/d67/a23769.html#a5209de3456c374010502a94f67ff4544", null ]
+    [ "npc_mature_netherwing_drakeAI", "dd/d24/a23773.html", "dd/d24/a23773" ],
+    [ "npc_mature_netherwing_drake", "de/d67/a23769.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "de/d67/a23769.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

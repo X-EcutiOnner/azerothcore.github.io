@@ -1,7 +1,7 @@
 var a20113 =
 [
-    [ "npc_ulduar_saronite_vapors", "dc/dc6/a20113.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "IsSummonedBy", "dc/dc6/a20113.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
-    [ "JustDied", "dc/dc6/a20113.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "dc/dc6/a20113.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "HandleAfterEffectApply", "dc/dc6/a20113.html#a672526de2c71dcae79bacef88f34dc26", null ],
+    [ "PrepareAuraScript", "dc/dc6/a20113.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
+    [ "Register", "dc/dc6/a20113.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
+    [ "Validate", "dc/dc6/a20113.html#ab5833f6218760a7d9829b5d453436302", null ]
 ];

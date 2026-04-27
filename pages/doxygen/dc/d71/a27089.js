@@ -1,8 +1,6 @@
 var a27089 =
 [
-    [ "ApplyDebuff", "dc/d71/a27089.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
-    [ "PrepareSpellScript", "dc/d71/a27089.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
-    [ "Register", "dc/d71/a27089.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
-    [ "RemoveInvalidTargets", "dc/d71/a27089.html#a1374c764b20b95febbca44c593bde218", null ],
-    [ "Validate", "dc/d71/a27089.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
+    [ "HandleDummy", "dc/d71/a27089.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
+    [ "PrepareSpellScript", "dc/d71/a27089.html#a6c2b858c893ed215d1192073b06db81d", null ],
+    [ "Register", "dc/d71/a27089.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
 ];

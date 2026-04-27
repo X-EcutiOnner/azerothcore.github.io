@@ -1,5 +1,5 @@
 var a27581 =
 [
-    [ "achievement_bg_sa_artillery", "dd/d4f/a27581.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "dd/d4f/a27581.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "achievement_tilted", "dd/d4f/a27581.html#a868d7b8a437434d6dc34b5000c429e66", null ],
+    [ "OnCheck", "dd/d4f/a27581.html#a61d3eb78450383485699532d96f79d93", null ]
 ];

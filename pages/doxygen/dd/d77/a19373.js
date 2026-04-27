@@ -1,6 +1,8 @@
 var a19373 =
 [
-    [ "boss_thaddiusAI", "d7/db3/a19377.html", "d7/db3/a19377" ],
-    [ "boss_thaddius", "dd/d77/a19373.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "dd/d77/a19373.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "HandleAfterCast", "dd/d77/a19373.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "dd/d77/a19373.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "dd/d77/a19373.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "dd/d77/a19373.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "dd/d77/a19373.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

@@ -1,6 +1,6 @@
 var a16181 =
 [
-    [ "PrepareSpellScript", "d5/d74/a16181.html#a2a3602af522bb8658c1bfdede1234efd", null ],
-    [ "Register", "d5/d74/a16181.html#aba235111ea4e186064a85295466f2a3f", null ],
-    [ "SetDest", "d5/d74/a16181.html#a89827e4db37bea4847c79265d95386c6", null ]
+    [ "npc_anub_ar_crusher_crypt_fiend", "d5/d74/a16181.html#a89abbce738f115c26dae9dacb065cc3d", null ],
+    [ "DoEngagedWith", "d5/d74/a16181.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
+    [ "DoEvent", "d5/d74/a16181.html#a276eca6e65b32905f6919d49530ccc2f", null ]
 ];

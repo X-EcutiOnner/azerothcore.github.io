@@ -1,6 +1,11 @@
 var a25021 =
 [
-    [ "HandleCast", "da/d5d/a25021.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "da/d5d/a25021.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "da/d5d/a25021.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "spell_gen_consume", "da/d5d/a25021.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
+    [ "AfterRemove", "da/d5d/a25021.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
+    [ "HandleProc", "da/d5d/a25021.html#af69251aa0415a2148162f32dd9113917", null ],
+    [ "PrepareAuraScript", "da/d5d/a25021.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
+    [ "Register", "da/d5d/a25021.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
+    [ "Validate", "da/d5d/a25021.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
+    [ "_spellId1", "da/d5d/a25021.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
+    [ "_spellId2", "da/d5d/a25021.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
 ];

@@ -1,6 +1,8 @@
 var a24829 =
 [
-    [ "PrepareSpellScript", "d6/d81/a24829.html#a47d6dbe250410458fe54421158545efb", null ],
-    [ "Register", "d6/d81/a24829.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
-    [ "SetDest", "d6/d81/a24829.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
+    [ "AchievementCredit", "d6/d81/a24829.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "d6/d81/a24829.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "d6/d81/a24829.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "d6/d81/a24829.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "d6/d81/a24829.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

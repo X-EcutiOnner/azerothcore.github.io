@@ -1,9 +1,9 @@
 var a03323 =
 [
-    [ "PlayerAbilityStruct", "d3/d68/a14125.html", "d3/d68/a14125" ],
-    [ "boss_hexlord_malacrass", "d5/df6/a14129.html", "d5/df6/a14129" ],
-    [ "boss_alyson_antille", "d6/d38/a14133.html", "d6/d38/a14133" ],
-    [ "spell_hexlord_unstable_affliction", "dc/dd7/a14137.html", "dc/dd7/a14137" ],
+    [ "PlayerAbilityStruct", "d7/d04/a14105.html", "d7/d04/a14105" ],
+    [ "boss_hexlord_malacrass", "d7/d8e/a14109.html", "d7/d8e/a14109" ],
+    [ "boss_alyson_antille", "d5/d42/a14113.html", "d5/d42/a14113" ],
+    [ "spell_hexlord_unstable_affliction", "d2/d6c/a14117.html", "d2/d6c/a14117" ],
     [ "AbilityTarget", "d4/d00/a03323.html#adfb3b9eec5ef9b543982c5266b78f0c4", [
       [ "ABILITY_TARGET_SELF", "d4/d00/a03323.html#adfb3b9eec5ef9b543982c5266b78f0c4a81d07873b9878cb8207d7cb0dd38cc68", null ],
       [ "ABILITY_TARGET_VICTIM", "d4/d00/a03323.html#adfb3b9eec5ef9b543982c5266b78f0c4a67ce529cf704574a9f7db49aac831901", null ],
@@ -588,6 +588,9 @@ var a03323 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

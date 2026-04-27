@@ -1,7 +1,6 @@
 var a17553 =
 [
-    [ "HandleDummyTick", "dd/d77/a17553.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "dd/d77/a17553.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "dd/d77/a17553.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "dd/d77/a17553.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "VampiricBiteTargetSelector", "dd/d77/a17553.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "dd/d77/a17553.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "dd/d77/a17553.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

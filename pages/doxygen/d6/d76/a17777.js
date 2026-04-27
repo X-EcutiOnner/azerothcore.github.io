@@ -1,20 +1,12 @@
 var a17777 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "d6/d76/a17777.html#aa29123d2482962c17a48e66db205207b", null ],
-    [ "AttackStart", "d6/d76/a17777.html#a7b5de4a7fd5fd49847a749a82d3dbb3e", null ],
-    [ "CanAIAttack", "d6/d76/a17777.html#a2e0d4d678cf315ac1d58e6bab290479f", null ],
-    [ "DamageTaken", "d6/d76/a17777.html#afd7e3b65e8091e5f24367c8de65df200", null ],
-    [ "DoAction", "d6/d76/a17777.html#ae57b20a747ec0421f28f6d12a55d48d3", null ],
-    [ "EnterEvadeMode", "d6/d76/a17777.html#ac3ab7ebfd6ae536743d557bb26434d28", null ],
-    [ "JustEngagedWith", "d6/d76/a17777.html#ad2693aba63dec87b5d57aeac7969819a", null ],
-    [ "SetData", "d6/d76/a17777.html#a5416f116eb1a8707d546c99af157642d", null ],
-    [ "sGossipSelect", "d6/d76/a17777.html#ad6362193938539f78d3726687f03badc", null ],
-    [ "UpdateAI", "d6/d76/a17777.html#a7fe22201514986bc20fbe9e7f27d410a", null ],
-    [ "_controller", "d6/d76/a17777.html#aec8a2a424ff10099437cbc7e7ca03ae3", null ],
-    [ "_events", "d6/d76/a17777.html#ab72a5bf5b6313b51002ff96ca8ee4971", null ],
-    [ "_firstMageCooldown", "d6/d76/a17777.html#a7cb5e81a09283c1ca915ec4419363af4", null ],
-    [ "_instance", "d6/d76/a17777.html#a5d6a8a6c7b0469de2151c9363d63c0ce", null ],
-    [ "_mortarYellCooldown", "d6/d76/a17777.html#af13f2f59692b16ad24d17442efe9f834", null ],
-    [ "_riflemanYellCooldown", "d6/d76/a17777.html#ac7f039bb890fdd08dc616f23680d37e4", null ],
-    [ "checkTimer", "d6/d76/a17777.html#a0416f980547177f722cdd4305823d99e", null ]
+    [ "gunship_npc_AI", "d6/d76/a17777.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d6/d76/a17777.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d6/d76/a17777.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d6/d76/a17777.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d6/d76/a17777.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d6/d76/a17777.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d6/d76/a17777.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d6/d76/a17777.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d6/d76/a17777.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

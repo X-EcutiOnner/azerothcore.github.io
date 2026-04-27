@@ -1,7 +1,6 @@
 var a19325 =
 [
-    [ "OnPeriodic", "d3/d0a/a19325.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "d3/d0a/a19325.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "d3/d0a/a19325.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "d3/d0a/a19325.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "boss_razuviousAI", "d6/df7/a19329.html", "d6/df7/a19329" ],
+    [ "boss_razuvious", "d3/d0a/a19325.html#ac1a2942f4a7957c671b075df7bf20215", null ],
+    [ "GetAI", "d3/d0a/a19325.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
 ];

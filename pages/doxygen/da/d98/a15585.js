@@ -1,8 +1,13 @@
 var a15585 =
 [
-    [ "npc_ahnqiraji_critter", "da/d98/a15585.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "da/d98/a15585.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "da/d98/a15585.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "da/d98/a15585.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "da/d98/a15585.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "da/d98/a15585.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "da/d98/a15585.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "da/d98/a15585.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "da/d98/a15585.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "da/d98/a15585.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "da/d98/a15585.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "da/d98/a15585.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "da/d98/a15585.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "da/d98/a15585.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "da/d98/a15585.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

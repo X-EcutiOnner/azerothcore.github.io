@@ -1,6 +1,8 @@
 var a23929 =
 [
-    [ "PrepareSpellScript", "d5/ded/a23929.html#a190f6dc3d9b336324da29f627a743fe9", null ],
-    [ "Register", "d5/ded/a23929.html#a3afc8035b852bc31abd3228e88d59819", null ],
-    [ "SetDest", "d5/ded/a23929.html#a85d66a58597954501305ad5b674cc8a2", null ]
+    [ "go_skull_pile", "d5/ded/a23929.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "d5/ded/a23929.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "d5/ded/a23929.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "d5/ded/a23929.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "d5/ded/a23929.html#af74fcd75404c0886128401d661067394", null ]
 ];

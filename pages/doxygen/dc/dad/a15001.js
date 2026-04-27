@@ -1,8 +1,6 @@
 var a15001 =
 [
-    [ "hyjalTyrandeAI", "dc/dad/a15001.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "dc/dad/a15001.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "dc/dad/a15001.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "dc/dad/a15001.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "dc/dad/a15001.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "instance_mount_hyjal_InstanceMapScript", "d1/d7f/a15005.html", "d1/d7f/a15005" ],
+    [ "instance_hyjal", "dc/dad/a15001.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
+    [ "GetInstanceScript", "dc/dad/a15001.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
 ];

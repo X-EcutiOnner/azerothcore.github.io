@@ -1,6 +1,6 @@
 var a25529 =
 [
-    [ "HandleOnEffectHit", "d6/dab/a25529.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
-    [ "PrepareSpellScript", "d6/dab/a25529.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
-    [ "Register", "d6/dab/a25529.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
+    [ "HandleScript", "d6/dab/a25529.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
+    [ "PrepareSpellScript", "d6/dab/a25529.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
+    [ "Register", "d6/dab/a25529.html#a8769cbce815d1f1c457979743e10535c", null ]
 ];

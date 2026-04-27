@@ -1,8 +1,15 @@
 var a22285 =
 [
-    [ "FilterTargets", "da/dfa/a22285.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "da/dfa/a22285.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "da/dfa/a22285.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "da/dfa/a22285.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "da/dfa/a22285.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "boss_grandmaster_vorpil", "da/dfa/a22285.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
+    [ "counterVoidSpawns", "da/dfa/a22285.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
+    [ "JustDied", "da/dfa/a22285.html#ab492fff8a9a275c662b44eeff3300b90", null ],
+    [ "JustEngagedWith", "da/dfa/a22285.html#af1e6da02cd33742efad568424cf32c4f", null ],
+    [ "JustSummoned", "da/dfa/a22285.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
+    [ "KilledUnit", "da/dfa/a22285.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
+    [ "MoveInLineOfSight", "da/dfa/a22285.html#adb24a3d337b64f37759a3a39802d7e27", null ],
+    [ "Reset", "da/dfa/a22285.html#a6471121ee02a834591b36d03fae28672", null ],
+    [ "spawnVoidTraveler", "da/dfa/a22285.html#aa842bc3d88d0a3a411dcba3711809956", null ],
+    [ "summonPortals", "da/dfa/a22285.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
+    [ "sayHelp", "da/dfa/a22285.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
+    [ "sayIntro", "da/dfa/a22285.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
 ];

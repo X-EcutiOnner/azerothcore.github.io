@@ -1,9 +1,9 @@
 var a03107 =
 [
-    [ "npc_eris_hevenfire", "d7/d2c/a13853.html", "d7/d2c/a13853" ],
-    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "d2/dfe/a13857.html", "d2/dfe/a13857" ],
-    [ "npc_balance_of_light_and_shadow", "d2/d9b/a13861.html", "d2/d9b/a13861" ],
-    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "dd/d64/a13865.html", "dd/d64/a13865" ],
+    [ "npc_eris_hevenfire", "d2/d41/a13833.html", "d2/d41/a13833" ],
+    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "d3/d0d/a13837.html", "d3/d0d/a13837" ],
+    [ "npc_balance_of_light_and_shadow", "d7/d07/a13841.html", "d7/d07/a13841" ],
+    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "d5/dba/a13845.html", "d5/dba/a13845" ],
     [ "eEris", "da/d4a/a03107.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
       [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "da/d4a/a03107.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
       [ "ITEM_EYE_OF_DIVINITY", "da/d4a/a03107.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],

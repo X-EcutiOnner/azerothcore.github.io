@@ -1,6 +1,7 @@
 var a13541 =
 [
-    [ "HandleSendEvent", "d4/d99/a13541.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "d4/d99/a13541.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "d4/d99/a13541.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "HandleScriptEffect", "d4/d99/a13541.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
+    [ "PrepareSpellScript", "d4/d99/a13541.html#a17c49de5f6a37ff83126398d96b43a51", null ],
+    [ "Register", "d4/d99/a13541.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
+    [ "Validate", "d4/d99/a13541.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
 ];

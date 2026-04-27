@@ -1,7 +1,6 @@
 var a24085 =
 [
-    [ "CheckCast", "d9/dcc/a24085.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d9/dcc/a24085.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d9/dcc/a24085.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d9/dcc/a24085.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "HandleAfterCast", "d9/dcc/a24085.html#aaa65e67362ded5318e89272acf073bf3", null ],
+    [ "PrepareSpellScript", "d9/dcc/a24085.html#a7d0dd936965845c14e7b54846facdb89", null ],
+    [ "Register", "d9/dcc/a24085.html#ab7b767743d62d9763bea710b7552a8cf", null ]
 ];

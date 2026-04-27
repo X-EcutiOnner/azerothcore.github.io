@@ -1,6 +1,10 @@
 var a29013 =
 [
-    [ "categoryMask", "de/d7b/a29013.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "de/d7b/a29013.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "de/d7b/a29013.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "area_id", "de/d7b/a29013.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "de/d7b/a29013.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "de/d7b/a29013.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "de/d7b/a29013.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "de/d7b/a29013.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "de/d7b/a29013.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "de/d7b/a29013.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

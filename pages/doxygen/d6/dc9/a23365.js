@@ -1,8 +1,8 @@
 var a23365 =
 [
-    [ "boss_commander_sarannis", "d6/dc9/a23365.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "d6/dc9/a23365.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "d6/dc9/a23365.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "d6/dc9/a23365.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "d6/dc9/a23365.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "boss_laj", "d6/dc9/a23365.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "d6/dc9/a23365.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "d6/dc9/a23365.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "d6/dc9/a23365.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "d6/dc9/a23365.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

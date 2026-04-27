@@ -1,5 +1,7 @@
 var a14157 =
 [
-    [ "entry", "da/d7c/a14157.html#ad7431eb64907aed0a03205a37c65a735", null ],
-    [ "pos", "da/d7c/a14157.html#ab60283e91e81c141f3b31218aa4442a3", null ]
+    [ "HandleScript", "da/d7c/a14157.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "da/d7c/a14157.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "da/d7c/a14157.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "da/d7c/a14157.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

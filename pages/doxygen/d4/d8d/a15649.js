@@ -1,8 +1,7 @@
 var a15649 =
 [
-    [ "npc_death_ravagerAI", "d4/d8d/a15649.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "d4/d8d/a15649.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "d4/d8d/a15649.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "d4/d8d/a15649.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "d4/d8d/a15649.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "npc_prophet_velen", "d4/d8d/a15649.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "d4/d8d/a15649.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "d4/d8d/a15649.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "d4/d8d/a15649.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

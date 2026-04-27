@@ -1,6 +1,8 @@
 var a20017 =
 [
-    [ "OnPeriodic", "d8/d41/a20017.html#a379c55df994c58932fef7e7a59fd8426", null ],
-    [ "PrepareAuraScript", "d8/d41/a20017.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
-    [ "Register", "d8/d41/a20017.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
+    [ "HandleOnEffectApply", "d8/d41/a20017.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "d8/d41/a20017.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "d8/d41/a20017.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "d8/d41/a20017.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "d8/d41/a20017.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

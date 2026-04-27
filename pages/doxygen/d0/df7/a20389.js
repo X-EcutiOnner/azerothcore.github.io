@@ -1,5 +1,5 @@
 var a20389 =
 [
-    [ "npc_ulduar_flames_spread", "d0/df7/a20389.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
-    [ "SpellHit", "d0/df7/a20389.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "d0/df7/a20389.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "d0/df7/a20389.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

@@ -1,14 +1,14 @@
 var a02336 =
 [
-    [ "npc_anubisath_defender", "d4/dbb/a15565.html", "d4/dbb/a15565" ],
-    [ "npc_vekniss_stinger", "dc/d2e/a15569.html", "dc/d2e/a15569" ],
-    [ "npc_obsidian_eradicator", "da/d24/a15573.html", "da/d24/a15573" ],
-    [ "npc_anubisath_warder", "d9/dff/a15577.html", "d9/dff/a15577" ],
-    [ "npc_obsidian_nullifier", "df/d78/a15581.html", "df/d78/a15581" ],
-    [ "npc_ahnqiraji_critter", "da/d98/a15585.html", "da/d98/a15585" ],
-    [ "spell_aggro_drones", "d0/d6b/a15589.html", "d0/d6b/a15589" ],
-    [ "spell_nullify", "d1/db6/a15593.html", "d1/db6/a15593" ],
-    [ "at_battleguard_sartura", "de/d79/a15597.html", "de/d79/a15597" ],
+    [ "npc_anubisath_defender", "d0/d05/a15545.html", "d0/d05/a15545" ],
+    [ "npc_vekniss_stinger", "dc/d02/a15549.html", "dc/d02/a15549" ],
+    [ "npc_obsidian_eradicator", "da/d04/a15553.html", "da/d04/a15553" ],
+    [ "npc_anubisath_warder", "d4/dab/a15557.html", "d4/dab/a15557" ],
+    [ "npc_obsidian_nullifier", "d4/d9a/a15561.html", "d4/d9a/a15561" ],
+    [ "npc_ahnqiraji_critter", "d4/dbb/a15565.html", "d4/dbb/a15565" ],
+    [ "spell_aggro_drones", "dc/d2e/a15569.html", "dc/d2e/a15569" ],
+    [ "spell_nullify", "da/d24/a15573.html", "da/d24/a15573" ],
+    [ "at_battleguard_sartura", "d9/dff/a15577.html", "d9/dff/a15577" ],
     [ "NPCs", "d3/d9c/a02336.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_EMI_SHORTFUSE", "d3/d8b/a02996.html#a6986ec7b2d3274669934af9795f26d5ca9e4a9c0c7e0adc0ef8c70ad7a302078a", null ],
       [ "BOSS_VENOXIS", "df/d48/a03071.html#a6986ec7b2d3274669934af9795f26d5caae68e55f680ae41a7b7f050bb06a5702", null ],

@@ -1,6 +1,7 @@
 var a27709 =
 [
-    [ "boss_emerissAI", "d7/dd2/a27713.html", "d7/dd2/a27713" ],
-    [ "boss_emeriss", "d1/dc5/a27709.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d1/dc5/a27709.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "HandlePeriodic", "d1/dc5/a27709.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d1/dc5/a27709.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d1/dc5/a27709.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d1/dc5/a27709.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

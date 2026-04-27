@@ -1,7 +1,7 @@
 var a24329 =
 [
-    [ "HandleProc", "dc/dc0/a24329.html#af3169e55f8dea7f0efffd11fbe8e06fe", null ],
-    [ "PrepareAuraScript", "dc/dc0/a24329.html#abe4d50c9839defc99ca9806cd9d5445f", null ],
-    [ "Register", "dc/dc0/a24329.html#a2eb1b84ad1af2437e298255b0499b03d", null ],
-    [ "Validate", "dc/dc0/a24329.html#ae8fa6922908b4204e16a81b739d01fb1", null ]
+    [ "AfterApply", "dc/dc0/a24329.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "dc/dc0/a24329.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "dc/dc0/a24329.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "dc/dc0/a24329.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

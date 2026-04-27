@@ -1,7 +1,7 @@
 var a21641 =
 [
-    [ "npc_plaguehound_trackerAI", "d7/d0f/a21641.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "d7/d0f/a21641.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "d7/d0f/a21641.html#a67c345f49572cde76d9109a1baff6788", null ],
-    [ "WaypointReached", "d7/d0f/a21641.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "HandleScript", "d7/d0f/a21641.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
+    [ "PrepareSpellScript", "d7/d0f/a21641.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
+    [ "Register", "d7/d0f/a21641.html#a9b8efef83b515f2250bda500ff741aa3", null ],
+    [ "Validate", "d7/d0f/a21641.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
 ];

@@ -1,11 +1,11 @@
 var a03719 =
 [
-    [ "boss_bronjahm", "d3/daa/a17037.html", "d3/daa/a17037" ],
-    [ "npc_fos_corrupted_soul_fragment", "de/dce/a17041.html", "de/dce/a17041" ],
-    [ "spell_bronjahm_magic_bane", "df/d37/a17045.html", "df/d37/a17045" ],
-    [ "spell_bronjahm_soulstorm_channel_ooc_aura", "d5/d85/a17049.html", "d5/d85/a17049" ],
-    [ "spell_bronjahm_soulstorm_visual_aura", "d4/d79/a17053.html", "d4/d79/a17053" ],
-    [ "spell_bronjahm_soulstorm_targeting", "d3/d27/a17057.html", "d3/d27/a17057" ],
+    [ "boss_bronjahm", "d5/d12/a17017.html", "d5/d12/a17017" ],
+    [ "npc_fos_corrupted_soul_fragment", "dd/d39/a17021.html", "dd/d39/a17021" ],
+    [ "spell_bronjahm_magic_bane", "d9/d42/a17025.html", "d9/d42/a17025" ],
+    [ "spell_bronjahm_soulstorm_channel_ooc_aura", "d2/d7b/a17029.html", "d2/d7b/a17029" ],
+    [ "spell_bronjahm_soulstorm_visual_aura", "d8/ded/a17033.html", "d8/ded/a17033" ],
+    [ "spell_bronjahm_soulstorm_targeting", "d3/daa/a17037.html", "d3/daa/a17037" ],
     [ "Events", "d7/da7/a03719.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

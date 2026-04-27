@@ -1,5 +1,11 @@
 var a20413 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "de/d84/a20413.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "de/d84/a20413.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "npc_ulduar_expedition_engineer", "de/d84/a20413.html#af3fe5048712bae3add6867e998c2824d", null ],
+    [ "Reset", "de/d84/a20413.html#a7bbdbdaed353d450161e470e5f656c17", null ],
+    [ "SetData", "de/d84/a20413.html#a9a714463750de3513e65174f796fb4de", null ],
+    [ "UpdateAI", "de/d84/a20413.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
+    [ "fixingGUID", "de/d84/a20413.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
+    [ "pInstance", "de/d84/a20413.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
+    [ "timer", "de/d84/a20413.html#a57f187130777929a921e2c35b6f43559", null ],
+    [ "working", "de/d84/a20413.html#a3450381dc89cabede2ccde6feab96dad", null ]
 ];

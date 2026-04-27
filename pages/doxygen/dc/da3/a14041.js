@@ -1,6 +1,6 @@
 var a14041 =
 [
-    [ "boss_blight_wormAI", "db/da7/a14045.html", "db/da7/a14045" ],
-    [ "boss_blight_worm", "dc/da3/a14041.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "dc/da3/a14041.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "db/da7/a14045.html", "db/da7/a14045" ],
+    [ "npc_lady_sylvanas_windrunner_bfu", "dc/da3/a14041.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
+    [ "GetAI", "dc/da3/a14041.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
 ];

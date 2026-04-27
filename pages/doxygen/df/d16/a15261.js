@@ -1,6 +1,5 @@
 var a15261 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "d0/dff/a15265.html", "d0/dff/a15265" ],
-    [ "instance_razorfen_kraul", "df/d16/a15261.html#aedd65b901c8131a7ac21e8576734f76f", null ],
-    [ "GetInstanceScript", "df/d16/a15261.html#a78e77010ebb055b9530733ca25533110", null ]
+    [ "pathId", "df/d16/a15261.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
+    [ "spellId", "df/d16/a15261.html#af495f984d5b81baeaa61ddca127a9508", null ]
 ];

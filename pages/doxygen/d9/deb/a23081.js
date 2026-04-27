@@ -1,8 +1,8 @@
 var a23081 =
 [
-    [ "npc_underbat", "d9/deb/a23081.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "d9/deb/a23081.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "d9/deb/a23081.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "d9/deb/a23081.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "d9/deb/a23081.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "ApplyStun", "d9/deb/a23081.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "d9/deb/a23081.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "d9/deb/a23081.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "d9/deb/a23081.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "d9/deb/a23081.html#a66d91a87078c663903cd836344eec867", null ]
 ];

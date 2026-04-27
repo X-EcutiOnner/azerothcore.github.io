@@ -1,5 +1,7 @@
 var a14725 =
 [
-    [ "go_loosely_turned_soilAI", "dc/d92/a14725.html#a603641bc52d26521d64afaaeed3abc4d", null ],
-    [ "CanBeSeen", "dc/d92/a14725.html#a424b51b08d17ceb04b015cd535256889", null ]
+    [ "HandleEffectApply", "dc/d92/a14725.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "dc/d92/a14725.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "dc/d92/a14725.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "dc/d92/a14725.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

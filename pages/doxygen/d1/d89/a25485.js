@@ -1,6 +1,6 @@
 var a25485 =
 [
-    [ "PrepareSpellScript", "d1/d89/a25485.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
-    [ "Register", "d1/d89/a25485.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
-    [ "SelectTarget", "d1/d89/a25485.html#a3153b6c6814922cd7220e19b06f2a602", null ]
+    [ "HandleSummon", "d1/d89/a25485.html#aadfea4a2238754473a8abbc487fd7f7b", null ],
+    [ "PrepareSpellScript", "d1/d89/a25485.html#a4974a3687df394d51db322210ebb5ddb", null ],
+    [ "Register", "d1/d89/a25485.html#a89146ab41d1408c18ce2bff403ae8e4e", null ]
 ];

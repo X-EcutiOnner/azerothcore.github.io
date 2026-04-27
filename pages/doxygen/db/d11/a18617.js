@@ -1,5 +1,6 @@
 var a18617 =
 [
-    [ "npc_icc_lk_checktargetAI", "db/d11/a18617.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
-    [ "CanAIAttack", "db/d11/a18617.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
+    [ "npc_lk_wicked_spiritAI", "d1/d96/a18621.html", "d1/d96/a18621" ],
+    [ "npc_lk_wicked_spirit", "db/d11/a18617.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "db/d11/a18617.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

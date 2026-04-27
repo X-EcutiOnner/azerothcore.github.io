@@ -1,7 +1,10 @@
 var a14313 =
 [
-    [ "OnRemove", "d2/d2a/a14313.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "d2/d2a/a14313.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "d2/d2a/a14313.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "d2/d2a/a14313.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "npc_batrider", "d2/d2a/a14313.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
+    [ "DamageTaken", "d2/d2a/a14313.html#ad4818b1363082a91223526908c38777c", null ],
+    [ "JustEngagedWith", "d2/d2a/a14313.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
+    [ "Reset", "d2/d2a/a14313.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
+    [ "UpdateAI", "d2/d2a/a14313.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
+    [ "_mode", "d2/d2a/a14313.html#acd53ec78a754219511af1ad2f11422a9", null ],
+    [ "_scheduler", "d2/d2a/a14313.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
 ];

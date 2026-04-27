@@ -1,7 +1,5 @@
 var a17665 =
 [
-    [ "HandleDummy", "d5/d3c/a17665.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d5/d3c/a17665.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d5/d3c/a17665.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d5/d3c/a17665.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "achievement_ive_gone_and_made_a_mess", "d5/d3c/a17665.html#a0e71ea3afae02176f81231e51155c038", null ],
+    [ "OnCheck", "d5/d3c/a17665.html#a638cead986783523c7c35ecb9d885b11", null ]
 ];

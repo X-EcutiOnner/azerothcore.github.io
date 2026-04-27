@@ -1,10 +1,13 @@
 var a15461 =
 [
-    [ "boss_huhuran", "d9/d43/a15461.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "d9/d43/a15461.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "d9/d43/a15461.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "d9/d43/a15461.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "d9/d43/a15461.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "d9/d43/a15461.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "d9/d43/a15461.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "npc_dirt_mound", "d9/d43/a15461.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
+    [ "ChaseNewTarget", "d9/d43/a15461.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
+    [ "EnterEvadeMode", "d9/d43/a15461.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
+    [ "JustEngagedWith", "d9/d43/a15461.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
+    [ "JustSummoned", "d9/d43/a15461.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
+    [ "Reset", "d9/d43/a15461.html#ae1662eb73f21351e07d00a717421de68", null ],
+    [ "SetData", "d9/d43/a15461.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
+    [ "UpdateAI", "d9/d43/a15461.html#a88447191070cf8b84df96db565eef48d", null ],
+    [ "_instance", "d9/d43/a15461.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
+    [ "_ouroHealth", "d9/d43/a15461.html#ac83391fa5069ae4574748f82d15e833d", null ]
 ];

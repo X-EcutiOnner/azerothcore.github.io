@@ -1,5 +1,5 @@
 var a27565 =
 [
-    [ "achievement_save_the_day", "db/d7d/a27565.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "db/d7d/a27565.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "achievement_sickly_gazelle", "db/d7d/a27565.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "db/d7d/a27565.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

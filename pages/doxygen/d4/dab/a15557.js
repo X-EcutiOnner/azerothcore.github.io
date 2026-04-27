@@ -1,6 +1,7 @@
 var a15557 =
 [
-    [ "OnPeriodic", "d4/dab/a15557.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "d4/dab/a15557.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "d4/dab/a15557.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "npc_anubisath_warder", "d4/dab/a15557.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "d4/dab/a15557.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "d4/dab/a15557.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "d4/dab/a15557.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

@@ -1,6 +1,7 @@
 var a15801 =
 [
-    [ "npc_clintar_spiritAI", "d8/d88/a15805.html", "d8/d88/a15805" ],
-    [ "npc_clintar_spirit", "dc/d75/a15801.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "dc/d75/a15801.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "npc_giant_spotlightAI", "dc/d75/a15801.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "dc/d75/a15801.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "dc/d75/a15801.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "dc/d75/a15801.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

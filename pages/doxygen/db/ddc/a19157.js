@@ -1,7 +1,6 @@
 var a19157 =
 [
-    [ "HandleGameObjectDamage", "db/ddc/a19157.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "db/ddc/a19157.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "db/ddc/a19157.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "db/ddc/a19157.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "boss_faerlinaAI", "d7/d4a/a19161.html", "d7/d4a/a19161" ],
+    [ "boss_faerlina", "db/ddc/a19157.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
+    [ "GetAI", "db/ddc/a19157.html#aed8214323ff5b792d9bd6aae478e7848", null ]
 ];

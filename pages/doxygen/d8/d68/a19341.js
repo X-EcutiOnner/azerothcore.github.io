@@ -1,10 +1,6 @@
 var a19341 =
 [
-    [ "boss_patchwerkAI", "d8/d68/a19341.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "d8/d68/a19341.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "d8/d68/a19341.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "d8/d68/a19341.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "d8/d68/a19341.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "d8/d68/a19341.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "d8/d68/a19341.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "boss_sapphironAI", "d6/d71/a19345.html", "d6/d71/a19345" ],
+    [ "boss_sapphiron", "d8/d68/a19341.html#a87a70204dd727f92d035ad98e2ab9010", null ],
+    [ "GetAI", "d8/d68/a19341.html#a31209287faa721bef341388ae4383b6c", null ]
 ];

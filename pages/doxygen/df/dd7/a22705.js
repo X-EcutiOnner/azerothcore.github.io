@@ -1,6 +1,11 @@
 var a22705 =
 [
-    [ "HandleProc", "df/dd7/a22705.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "df/dd7/a22705.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "df/dd7/a22705.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "boss_doomlordkazzakAI", "df/dd7/a22705.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
+    [ "JustDied", "df/dd7/a22705.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
+    [ "JustEngagedWith", "df/dd7/a22705.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
+    [ "JustRespawned", "df/dd7/a22705.html#a174912c149657f4d88446f4ac0631598", null ],
+    [ "KilledUnit", "df/dd7/a22705.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
+    [ "Reset", "df/dd7/a22705.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
+    [ "UpdateAI", "df/dd7/a22705.html#a28a0a8345fcd5411491409854acef729", null ],
+    [ "_inBerserk", "df/dd7/a22705.html#a996d17128aca96c00c8416957ebc24d0", null ]
 ];

@@ -1,6 +1,8 @@
 var a24717 =
 [
-    [ "ModDest", "d5/dbe/a24717.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "d5/dbe/a24717.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "d5/dbe/a24717.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "HandleEffectCalcPeriodic", "d5/dbe/a24717.html#a78c46695cab8da2280686ea49d88f036", null ],
+    [ "HandleEffectPeriodic", "d5/dbe/a24717.html#a65b8a9dcd836cb538d5d2bec3d03d4a2", null ],
+    [ "HandleOnEffectRemove", "d5/dbe/a24717.html#af722cf30e478802784178a9346bd1bdd", null ],
+    [ "PrepareAuraScript", "d5/dbe/a24717.html#a6352d1ab3dd67efd9be171f7db20a62d", null ],
+    [ "Register", "d5/dbe/a24717.html#ae6c2b365463345c71ed1a4acdee04a15", null ]
 ];

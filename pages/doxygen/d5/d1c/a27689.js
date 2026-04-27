@@ -1,9 +1,10 @@
 var a27689 =
 [
-    [ "boss_ysondreAI", "d5/d1c/a27689.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
-    [ "DamageTaken", "d5/d1c/a27689.html#a99ee250e776001bb142815fc711ae75d", null ],
-    [ "ExecuteEvent", "d5/d1c/a27689.html#a88e3caa536a71730c757590be1bd3de1", null ],
-    [ "JustEngagedWith", "d5/d1c/a27689.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
-    [ "Reset", "d5/d1c/a27689.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
-    [ "_stage", "d5/d1c/a27689.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
+    [ "boss_emerissAI", "d5/d1c/a27689.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
+    [ "DamageTaken", "d5/d1c/a27689.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
+    [ "ExecuteEvent", "d5/d1c/a27689.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
+    [ "JustEngagedWith", "d5/d1c/a27689.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
+    [ "KilledUnit", "d5/d1c/a27689.html#ad851169bc09a362137e211dd10d30a1b", null ],
+    [ "Reset", "d5/d1c/a27689.html#a44dfb325c4e8413662052137edc710ef", null ],
+    [ "_stage", "d5/d1c/a27689.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
 ];

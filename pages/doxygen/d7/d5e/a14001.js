@@ -1,7 +1,7 @@
 var a14001 =
 [
-    [ "npc_king_varian_wrynn", "d7/d5e/a14001.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
-    [ "JustDied", "d7/d5e/a14001.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
-    [ "OnQuestReward", "d7/d5e/a14001.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
-    [ "UpdateAI", "d7/d5e/a14001.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
+    [ "o", "d7/d5e/a14001.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "d7/d5e/a14001.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "d7/d5e/a14001.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "d7/d5e/a14001.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

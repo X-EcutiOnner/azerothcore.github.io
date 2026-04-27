@@ -1,6 +1,6 @@
 var a21793 =
 [
-    [ "npc_still_at_it_triggerAI", "df/d29/a21797.html", "df/d29/a21797" ],
-    [ "npc_still_at_it_trigger", "d2/d02/a21793.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "d2/d02/a21793.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "npc_vekjik", "d2/d02/a21793.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "d2/d02/a21793.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "d2/d02/a21793.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

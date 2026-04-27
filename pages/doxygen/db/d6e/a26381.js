@@ -1,9 +1,7 @@
 var a26381 =
 [
-    [ "CheckProc", "db/d6e/a26381.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
-    [ "HandleProc", "db/d6e/a26381.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
-    [ "PrepareAuraScript", "db/d6e/a26381.html#a9585ecde57ccfa26f59174732e3132fc", null ],
-    [ "Register", "db/d6e/a26381.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
-    [ "Validate", "db/d6e/a26381.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
-    [ "_triggeredSpellId", "db/d6e/a26381.html#a560ade778e046213f60f48364ea3800c", null ]
+    [ "HandleProc", "db/d6e/a26381.html#a9601839ce1fff4e1be66f435a78693ac", null ],
+    [ "PrepareAuraScript", "db/d6e/a26381.html#ae7b3804ed0fe40c85d245e2762fd8181", null ],
+    [ "Register", "db/d6e/a26381.html#a588226cc60a7ff0f8a05e8ec34c855e5", null ],
+    [ "Validate", "db/d6e/a26381.html#aea68ea2da0853d72d94a19b98db9375f", null ]
 ];

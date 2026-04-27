@@ -1,5 +1,8 @@
 var a15917 =
 [
-    [ "npc_steward_of_time", "df/d6a/a15917.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnQuestAccept", "df/d6a/a15917.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "npc_giltharesAI", "df/d6a/a15917.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "df/d6a/a15917.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "df/d6a/a15917.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "df/d6a/a15917.html#a9308c73760e50e0f3d04031b508526d1", null ],
+    [ "WaypointReached", "df/d6a/a15917.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

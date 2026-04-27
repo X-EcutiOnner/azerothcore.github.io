@@ -1,7 +1,6 @@
 var a15713 =
 [
-    [ "npc_tharnarianAI", "dd/df2/a15717.html", "dd/df2/a15717" ],
-    [ "npc_tharnarian", "dc/d4a/a15713.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
-    [ "GetAI", "dc/d4a/a15713.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
-    [ "OnQuestReward", "dc/d4a/a15713.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
+    [ "npc_tiger_matriarch_creditAI", "dd/df2/a15717.html", "dd/df2/a15717" ],
+    [ "npc_tiger_matriarch_credit", "dc/d4a/a15713.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "dc/d4a/a15713.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

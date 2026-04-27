@@ -1,7 +1,6 @@
 var a21593 =
 [
-    [ "HandleScript", "da/d8f/a21593.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "da/d8f/a21593.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "da/d8f/a21593.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "da/d8f/a21593.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "HandleOnEffectRemove", "da/d8f/a21593.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "da/d8f/a21593.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "da/d8f/a21593.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

@@ -1,7 +1,7 @@
 var a27361 =
 [
-    [ "CalculateAmount", "d2/dca/a27361.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
-    [ "PrepareAuraScript", "d2/dca/a27361.html#a20dad49a99420556f393a16525eb14b4", null ],
-    [ "Register", "d2/dca/a27361.html#ad7d339ab137ebd640981f7789e1757f0", null ],
-    [ "Validate", "d2/dca/a27361.html#a341acb2dd25c1db94777f7036f3338ac", null ]
+    [ "HandleProc", "d2/dca/a27361.html#a9296b52700f070af311047166f6a913b", null ],
+    [ "PrepareAuraScript", "d2/dca/a27361.html#a067cc24e65f79bab10b9d1258fad3460", null ],
+    [ "Register", "d2/dca/a27361.html#affbd8840159048b6ea55ab98900d38c0", null ],
+    [ "Validate", "d2/dca/a27361.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
 ];

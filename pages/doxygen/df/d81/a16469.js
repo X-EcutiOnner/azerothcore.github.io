@@ -1,6 +1,6 @@
 var a16469 =
 [
-    [ "npc_living_infernoAI", "df/d81/a16469.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "df/d81/a16469.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "df/d81/a16469.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "df/d52/a16473.html", "df/d52/a16473" ],
+    [ "instance_ruby_sanctum", "df/d81/a16469.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "df/d81/a16469.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

@@ -1,7 +1,5 @@
 var a27633 =
 [
-    [ "CharacterDeleteActionIpLogger", "d5/d6d/a27633.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d5/d6d/a27633.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "d5/d6d/a27633.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "d5/d6d/a27633.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "AreaTrigger_at_nats_landing", "d5/d6d/a27633.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d5/d6d/a27633.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

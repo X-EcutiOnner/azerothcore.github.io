@@ -1,5 +1,6 @@
 var a28305 =
 [
-    [ "npc_suns_reach_reclamation", "d5/dc4/a28305.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "d5/dc4/a28305.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "X", "d5/dc4/a28305.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "d5/dc4/a28305.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "d5/dc4/a28305.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

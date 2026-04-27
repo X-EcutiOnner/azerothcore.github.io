@@ -1,6 +1,5 @@
 var a19061 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d4/d05/a19065.html", "d4/d05/a19065" ],
-    [ "npc_icc_gauntlet_controller", "d4/d27/a19061.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "d4/d27/a19061.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "at_icc_putricide_trap", "d4/d27/a19061.html#a9d4183629deada9c22750b8a34e94583", null ],
+    [ "OnTrigger", "d4/d27/a19061.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
 ];

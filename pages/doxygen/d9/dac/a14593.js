@@ -1,11 +1,13 @@
 var a14593 =
 [
-    [ "npc_snowfall_glade_playmate", "d9/dac/a14593.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "d9/dac/a14593.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "d9/dac/a14593.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "d9/dac/a14593.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "d9/dac/a14593.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "d9/dac/a14593.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "d9/dac/a14593.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "d9/dac/a14593.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "npc_alexstraza_the_lifebinder", "d9/dac/a14593.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d9/dac/a14593.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d9/dac/a14593.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d9/dac/a14593.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "sGossipSelect", "d9/dac/a14593.html#a642390a59ff46236dc3b429f371ea8cd", null ],
+    [ "UpdateAI", "d9/dac/a14593.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d9/dac/a14593.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d9/dac/a14593.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d9/dac/a14593.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d9/dac/a14593.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

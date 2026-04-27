@@ -1,8 +1,6 @@
 var a13465 =
 [
-    [ "FilterTargets", "d4/d63/a13465.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
-    [ "HandleScript", "d4/d63/a13465.html#aecb62c147905d0a4fe60086b8028df0b", null ],
-    [ "PrepareSpellScript", "d4/d63/a13465.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
-    [ "Register", "d4/d63/a13465.html#a2832f131d99608923ade8070e17da86d", null ],
-    [ "Validate", "d4/d63/a13465.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d9/dc2/a13469.html", "d9/dc2/a13469" ],
+    [ "instance_shadowfang_keep", "d4/d63/a13465.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "d4/d63/a13465.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

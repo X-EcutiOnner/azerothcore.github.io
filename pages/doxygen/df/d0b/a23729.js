@@ -1,6 +1,11 @@
 var a23729 =
 [
-    [ "npc_commander_dawnforgeAI", "df/d61/a23733.html", "df/d61/a23733" ],
-    [ "npc_commander_dawnforge", "df/d0b/a23729.html#ab4d430725f68f906e9c8def66b1d6646", null ],
-    [ "GetAI", "df/d0b/a23729.html#a6089b087b7c3b18659e23c677814318b", null ]
+    [ "npc_maxx_a_million_escortAI", "df/d0b/a23729.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "df/d0b/a23729.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "df/d0b/a23729.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "df/d0b/a23729.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "df/d0b/a23729.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "WaypointReached", "df/d0b/a23729.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bTake", "df/d0b/a23729.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "df/d0b/a23729.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

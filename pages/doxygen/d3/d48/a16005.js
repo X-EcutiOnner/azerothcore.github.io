@@ -1,11 +1,7 @@
 var a16005 =
 [
-    [ "npc_ameAI", "d3/d48/a16005.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d3/d48/a16005.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d3/d48/a16005.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d3/d48/a16005.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d3/d48/a16005.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d3/d48/a16005.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "WaypointReached", "d3/d48/a16005.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "DemoralizingShoutTimer", "d3/d48/a16005.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_ranshallaAI", "d2/dfb/a16009.html", "d2/dfb/a16009" ],
+    [ "npc_ranshalla", "d3/d48/a16005.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "d3/d48/a16005.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "d3/d48/a16005.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

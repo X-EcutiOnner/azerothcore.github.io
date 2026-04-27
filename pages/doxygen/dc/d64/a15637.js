@@ -1,12 +1,11 @@
 var a15637 =
 [
-    [ "npc_magwinAI", "dc/d64/a15637.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
-    [ "JustEngagedWith", "dc/d64/a15637.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
-    [ "Reset", "dc/d64/a15637.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
-    [ "sQuestAccept", "dc/d64/a15637.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
-    [ "UpdateEscortAI", "dc/d64/a15637.html#a34236331be8842a9e2a98036ea382e18", null ],
-    [ "WaypointReached", "dc/d64/a15637.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
-    [ "WaypointReached", "dc/d64/a15637.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_events", "dc/d64/a15637.html#a32dad2bde92efab7e0f0d16e809df665", null ],
-    [ "_player", "dc/d64/a15637.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
+    [ "npc_stillpine_capitiveAI", "dc/d64/a15637.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
+    [ "MovementInform", "dc/d64/a15637.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
+    [ "Reset", "dc/d64/a15637.html#a9c884f892e64044057d477bdc0f89eed", null ],
+    [ "StartMoving", "dc/d64/a15637.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
+    [ "UpdateAI", "dc/d64/a15637.html#a25dc06767382b5fee2a7098b58726fb2", null ],
+    [ "_events", "dc/d64/a15637.html#a93dd55d392836d8d085e34293344b700", null ],
+    [ "_movementComplete", "dc/d64/a15637.html#ae8e39ca782aee412e39d65a33d14014e", null ],
+    [ "_playerGUID", "dc/d64/a15637.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
 ];

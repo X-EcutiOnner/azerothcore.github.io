@@ -1,7 +1,5 @@
 var a19985 =
 [
-    [ "boss_flame_leviathan_safety_container", "d9/d2d/a19985.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
-    [ "MovementInform", "d9/d2d/a19985.html#a42842de299fd9346cc0d61b649b652a4", null ],
-    [ "UpdateAI", "d9/d2d/a19985.html#a55119d077f905a8207ad2afbe31f17a4", null ],
-    [ "_allowTimer", "d9/d2d/a19985.html#a70134398c054c837407d6a22591a2d96", null ]
+    [ "FlameLeviathanPursuedTargetSelector", "d9/d2d/a19985.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
+    [ "operator()", "d9/d2d/a19985.html#aaa2a49366fb651f7486b463ce597f364", null ]
 ];

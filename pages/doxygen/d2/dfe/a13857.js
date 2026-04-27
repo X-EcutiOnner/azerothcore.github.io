@@ -1,21 +1,12 @@
 var a13857 =
 [
-    [ "npc_eris_hevenfireAI", "d2/dfe/a13857.html#a07d91015d64f5d6ac5b78a6082e0280d", null ],
-    [ "CanBeSeen", "d2/dfe/a13857.html#a16293cab0ff15d13675dcadc3050365f", null ],
-    [ "DoAction", "d2/dfe/a13857.html#a982f2efef39ac47d2df6579676b25862", null ],
-    [ "JustSummoned", "d2/dfe/a13857.html#a21f91de064bec6943aae5d710e6ec485", null ],
-    [ "Reset", "d2/dfe/a13857.html#a0b328182914ca26786808b6fd2491619", null ],
-    [ "SetData", "d2/dfe/a13857.html#a8c012a9c083921770980fb8c037d6ccc", null ],
-    [ "SetGUID", "d2/dfe/a13857.html#a09db4a9cf9ccab011271cc671187c9be", null ],
-    [ "SummonArchers", "d2/dfe/a13857.html#aa415baa9bff7c93c57f327b661689ac3", null ],
-    [ "SummonPeasants", "d2/dfe/a13857.html#ab5a69679bad85ed42b2f408231781da9", null ],
-    [ "UpdateAI", "d2/dfe/a13857.html#a3f3da888c1076f4f728157f7ba9edf1c", null ],
-    [ "_counter", "d2/dfe/a13857.html#aa5f1374bbf98a613db266994b6640031", null ],
-    [ "_deathCount", "d2/dfe/a13857.html#a258d870137c02dd74ff23b94cb3f90d1", null ],
-    [ "_faction", "d2/dfe/a13857.html#a2b11d54ff39f568cf26845251a38a612", null ],
-    [ "_playerGUID", "d2/dfe/a13857.html#a8ba92ce2b32b70e1275f551871d640fe", null ],
-    [ "_savedCount", "d2/dfe/a13857.html#aef83dfb3c6c737af77b63b650fdf5749", null ],
-    [ "_spoken", "d2/dfe/a13857.html#abe9dbd5111b73ac6c7bf336da98d06d1", null ],
-    [ "events", "d2/dfe/a13857.html#a62dee89eca10f43af3051800e4a69c74", null ],
-    [ "summons", "d2/dfe/a13857.html#a8d30f6f513ee7e195dbef56071f136fc", null ]
+    [ "npc_eastvale_peasent", "d2/dfe/a13857.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "d2/dfe/a13857.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "d2/dfe/a13857.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "d2/dfe/a13857.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "d2/dfe/a13857.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "d2/dfe/a13857.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "d2/dfe/a13857.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "d2/dfe/a13857.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "d2/dfe/a13857.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

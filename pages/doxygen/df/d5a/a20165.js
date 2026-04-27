@@ -1,6 +1,6 @@
 var a20165 =
 [
-    [ "npc_ulduar_toasty_fire", "df/d5a/a20165.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "df/d5a/a20165.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "df/d5a/a20165.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "DestroyWinterCache", "df/d5a/a20165.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "df/d5a/a20165.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "df/d5a/a20165.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

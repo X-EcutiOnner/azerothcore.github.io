@@ -1,5 +1,5 @@
 var a20229 =
 [
-    [ "achievement_cheese_the_freeze", "d8/dff/a20229.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "d8/dff/a20229.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "achievement_staying_buffed_all_winter_25", "d8/dff/a20229.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "d8/dff/a20229.html#a36591082184bc8466e124bad9a910545", null ]
 ];

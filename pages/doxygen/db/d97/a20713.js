@@ -1,7 +1,5 @@
 var a20713 =
 [
-    [ "HandleScriptEffect", "db/d97/a20713.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "db/d97/a20713.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "db/d97/a20713.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "db/d97/a20713.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "achievement_yogg_saron_drive_me_crazy", "db/d97/a20713.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
+    [ "OnCheck", "db/d97/a20713.html#a029fdd68e0643b53971efbb1056f19d8", null ]
 ];

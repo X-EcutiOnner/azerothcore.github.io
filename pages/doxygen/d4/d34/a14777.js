@@ -1,6 +1,5 @@
 var a14777 =
 [
-    [ "OnApply", "d4/d34/a14777.html#a30d33268b58507c228a4628031bffca0", null ],
-    [ "PrepareAuraScript", "d4/d34/a14777.html#a16dc3f52152d63b5512690c761f9915a", null ],
-    [ "Register", "d4/d34/a14777.html#a6494e4d7277e910ffa3b30c333117f00", null ]
+    [ "PrepareSpellScript", "d4/d34/a14777.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
+    [ "Register", "d4/d34/a14777.html#a99f7d0be5668d5b005400140fc9865a4", null ]
 ];

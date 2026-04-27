@@ -1,8 +1,14 @@
 var a20841 =
 [
-    [ "CheckProc", "d9/d50/a20841.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
-    [ "HandleProc", "d9/d50/a20841.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
-    [ "PrepareAuraScript", "d9/d50/a20841.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
-    [ "Register", "d9/d50/a20841.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
-    [ "Validate", "d9/d50/a20841.html#ad4176f188412053b9205820fb6183d38", null ]
+    [ "npc_massive_jormungarAI", "d9/d50/a20841.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
+    [ "DoAction", "d9/d50/a20841.html#a8084994ba056c907b2e487568fa7502a", null ],
+    [ "JustDied", "d9/d50/a20841.html#a02b4e75227811250e2210f754e6e04f2", null ],
+    [ "JustEngagedWith", "d9/d50/a20841.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
+    [ "JustReachedHome", "d9/d50/a20841.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
+    [ "MoveInLineOfSight", "d9/d50/a20841.html#a55c817111fab479c3abcfca8942f16e8", null ],
+    [ "Reset", "d9/d50/a20841.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
+    [ "UpdateAI", "d9/d50/a20841.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
+    [ "events", "d9/d50/a20841.html#a92334b8178317a91a7d4336096d75f33", null ],
+    [ "m_pInstance", "d9/d50/a20841.html#ad50a9852370798817fda318f71f27653", null ],
+    [ "summons", "d9/d50/a20841.html#acfa84efc38b994706015e6d82fe1f653", null ]
 ];

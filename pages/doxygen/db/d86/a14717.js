@@ -1,10 +1,9 @@
 var a14717 =
 [
-    [ "boss_headless_horseman_pumpkin", "db/d86/a14717.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "db/d86/a14717.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "db/d86/a14717.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "db/d86/a14717.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "db/d86/a14717.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "db/d86/a14717.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "db/d86/a14717.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "npc_love_in_air_snivel", "db/d86/a14717.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "db/d86/a14717.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "db/d86/a14717.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "db/d86/a14717.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "db/d86/a14717.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "db/d86/a14717.html#a548db6245ef875ec47279246e437934c", null ]
 ];

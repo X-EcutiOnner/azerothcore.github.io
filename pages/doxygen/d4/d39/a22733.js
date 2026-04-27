@@ -1,7 +1,19 @@
 var a22733 =
 [
-    [ "HandleProc", "d4/d39/a22733.html#a43892c85339867a65e992b7f17fdc61c", null ],
-    [ "PrepareAuraScript", "d4/d39/a22733.html#ab5728e2c3df5b887c26f2485575087ff", null ],
-    [ "Register", "d4/d39/a22733.html#aae9f80730de402ebbda918e0116e59a0", null ],
-    [ "Validate", "d4/d39/a22733.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
+    [ "boss_fathomguard_tidalvess", "d4/d39/a22733.html#aa4c3ac27c72e659bd87ad83bbadfb04c", null ],
+    [ "DoAction", "d4/d39/a22733.html#a909601091c25285e0a6c9773b61ff049", null ],
+    [ "EnterEvadeMode", "d4/d39/a22733.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33", null ],
+    [ "JustDied", "d4/d39/a22733.html#a7f79a16e0c186e97aeb7f16f3b7d45ea", null ],
+    [ "JustEngagedWith", "d4/d39/a22733.html#aa524d5c047b50df8d83b5faa3fd791fc", null ],
+    [ "JustSummoned", "d4/d39/a22733.html#a1dc16180610c742e98a93f87653e93e9", null ],
+    [ "Reset", "d4/d39/a22733.html#af218abccb0b61e483dcc6d7a3313d99d", null ],
+    [ "ScheduleRemoval", "d4/d39/a22733.html#a07c887552c8705b52caf9e102788a781", null ],
+    [ "SummonTotem", "d4/d39/a22733.html#adb4d877f50ba5653d699a0a123f5961c", null ],
+    [ "UpdateAI", "d4/d39/a22733.html#abce5d58fced89ecaac1d1f34989f0d9e", null ],
+    [ "_choice", "d4/d39/a22733.html#a0ced209c6f22a0bf435a0249a25b15c4", null ],
+    [ "_entryList", "d4/d39/a22733.html#a9eaeaf02dbe143d38ca857e5ae478aca", null ],
+    [ "_instance", "d4/d39/a22733.html#a958c76b6ad9d9713625b10baa0d6d992", null ],
+    [ "_scheduler", "d4/d39/a22733.html#ae1652d83938dc820255e383870b957a7", null ],
+    [ "_summons", "d4/d39/a22733.html#aea75646687854c08eaee75c55718376d", null ],
+    [ "_totemScheduler", "d4/d39/a22733.html#a1b4ace7575946c585cc63057e81a1529", null ]
 ];

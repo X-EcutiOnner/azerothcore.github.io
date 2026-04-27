@@ -1,7 +1,6 @@
 var a18485 =
 [
-    [ "CheckTargetCount", "d6/d76/a18485.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "d6/d76/a18485.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "d6/d76/a18485.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "d6/d76/a18485.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "npc_raging_spiritAI", "d9/d0d/a18489.html", "d9/d0d/a18489" ],
+    [ "npc_raging_spirit", "d6/d76/a18485.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "d6/d76/a18485.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

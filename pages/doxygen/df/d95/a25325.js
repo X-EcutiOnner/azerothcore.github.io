@@ -1,10 +1,7 @@
 var a25325 =
 [
-    [ "CheckPeriodicProc", "df/d95/a25325.html#abd7673f268b80681b27a862bd8013de3", null ],
-    [ "CheckProc", "df/d95/a25325.html#a439aa5395d222291fbd5943f853d8961", null ],
-    [ "CheckTrapProc", "df/d95/a25325.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
-    [ "HandleProc", "df/d95/a25325.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
-    [ "PrepareAuraScript", "df/d95/a25325.html#a475320d20875b2d710ed3734b78f4645", null ],
-    [ "Register", "df/d95/a25325.html#aca7649a87ace4e22793ca33705b1500c", null ],
-    [ "Validate", "df/d95/a25325.html#a45630b6dc703996321286ff16a17e3e3", null ]
+    [ "HandlePeriodic", "df/d95/a25325.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
+    [ "PrepareAuraScript", "df/d95/a25325.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
+    [ "Register", "df/d95/a25325.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
+    [ "Validate", "df/d95/a25325.html#a55720e74edaf5eedf074738846ba6dd8", null ]
 ];

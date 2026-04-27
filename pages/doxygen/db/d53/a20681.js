@@ -1,7 +1,6 @@
 var a20681 =
 [
-    [ "FilterTargets", "db/d53/a20681.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "db/d53/a20681.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "db/d53/a20681.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "db/d53/a20681.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "OnRemove", "db/d53/a20681.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
+    [ "PrepareAuraScript", "db/d53/a20681.html#a5fb0837417b915676549370cc76c477d", null ],
+    [ "Register", "db/d53/a20681.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
 ];

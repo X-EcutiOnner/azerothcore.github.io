@@ -1,6 +1,7 @@
 var a13821 =
 [
-    [ "HandleSendEvent", "d1/da2/a13821.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "d1/da2/a13821.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "d1/da2/a13821.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "HandleScriptEffect", "d1/da2/a13821.html#aa537704c2066df4f5b4c60a775026a83", null ],
+    [ "PrepareSpellScript", "d1/da2/a13821.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
+    [ "Register", "d1/da2/a13821.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
+    [ "Validate", "d1/da2/a13821.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
 ];

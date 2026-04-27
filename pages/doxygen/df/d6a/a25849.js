@@ -1,7 +1,7 @@
 var a25849 =
 [
-    [ "CheckCast", "df/d6a/a25849.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "df/d6a/a25849.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "df/d6a/a25849.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "df/d6a/a25849.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "HandleProc", "df/d6a/a25849.html#ac162e47e5334e15865a315b1a30fc645", null ],
+    [ "PrepareAuraScript", "df/d6a/a25849.html#a0d30a007e3f67b78197ac0cae83e2976", null ],
+    [ "Register", "df/d6a/a25849.html#aad337f75e2132940ed3cfef209e1c73b", null ],
+    [ "Validate", "df/d6a/a25849.html#afc4741f952c253924de7397d991a24ac", null ]
 ];

@@ -1,6 +1,5 @@
 var a18145 =
 [
-    [ "OnRemove", "d6/d54/a18145.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "d6/d54/a18145.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "d6/d54/a18145.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "RotfaceHeightCheck", "d6/d54/a18145.html#aabdeaee465989c339fc7a3f186e20498", null ],
+    [ "operator()", "d6/d54/a18145.html#a585743e0e76c64a5caa37acab46d04d5", null ]
 ];

@@ -1,7 +1,14 @@
 var a15093 =
 [
-    [ "npc_cos_chromie_middle", "dc/d89/a15093.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "dc/d89/a15093.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "dc/d89/a15093.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "dc/d89/a15093.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "boss_captain_skarloc", "dc/d89/a15093.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "dc/d89/a15093.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "dc/d89/a15093.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "dc/d89/a15093.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "dc/d89/a15093.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "dc/d89/a15093.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "dc/d89/a15093.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "dc/d89/a15093.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "dc/d89/a15093.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "dc/d89/a15093.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "dc/d89/a15093.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

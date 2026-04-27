@@ -1,13 +1,12 @@
 var a14089 =
 [
-    [ "npc_daphne_stilwellAI", "d8/dab/a14089.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
-    [ "AttackStart", "d8/dab/a14089.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
-    [ "JustSummoned", "d8/dab/a14089.html#ae56554d30e9de7644efab891555c57e0", null ],
-    [ "Reset", "d8/dab/a14089.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
-    [ "SummonedCreatureDies", "d8/dab/a14089.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
-    [ "Update", "d8/dab/a14089.html#a4099d75c4a6bca1525781a5753ef9972", null ],
-    [ "WaypointReached", "d8/dab/a14089.html#a1035eb0a1696730d8304593b5fb079e4", null ],
-    [ "WaypointReached", "d8/dab/a14089.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "summons", "d8/dab/a14089.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
-    [ "textCounter", "d8/dab/a14089.html#a62ab24169c1b7c3028ab33303b217f63", null ]
+    [ "npc_akilzon_eagle", "d8/dab/a14089.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "d8/dab/a14089.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "d8/dab/a14089.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "d8/dab/a14089.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "d8/dab/a14089.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "d8/dab/a14089.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "d8/dab/a14089.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "d8/dab/a14089.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "d8/dab/a14089.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

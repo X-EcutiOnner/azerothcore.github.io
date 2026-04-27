@@ -1,7 +1,9 @@
 var a22625 =
 [
-    [ "Absorb", "d2/deb/a22625.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "d2/deb/a22625.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "d2/deb/a22625.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "d2/deb/a22625.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "boss_najentus", "d2/deb/a22625.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d2/deb/a22625.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d2/deb/a22625.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d2/deb/a22625.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d2/deb/a22625.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "d2/deb/a22625.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

@@ -1,6 +1,7 @@
 var a13585 =
 [
-    [ "FilterTargets", "d4/d67/a13585.html#a78675c3421e0243de9e136b646c56be1", null ],
-    [ "PrepareSpellScript", "d4/d67/a13585.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
-    [ "Register", "d4/d67/a13585.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
+    [ "CorruptTriggers", "d4/d67/a13585.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "d4/d67/a13585.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "d4/d67/a13585.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "d4/d67/a13585.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

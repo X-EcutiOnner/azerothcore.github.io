@@ -1,6 +1,6 @@
 var a15385 =
 [
-    [ "HandleScript", "d3/df4/a15385.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
-    [ "PrepareSpellScript", "d3/df4/a15385.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
-    [ "Register", "d3/df4/a15385.html#a434f0aef7f32edb6990efb992e4d57af", null ]
+    [ "HandleScriptEffect", "d3/df4/a15385.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
+    [ "PrepareSpellScript", "d3/df4/a15385.html#aa109d61baba87acf5bce5d44bff55214", null ],
+    [ "Register", "d3/df4/a15385.html#ac8412777c84abfe56262d6d83163e9a1", null ]
 ];

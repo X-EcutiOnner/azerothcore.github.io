@@ -1,7 +1,6 @@
 var a28149 =
 [
-    [ "npc_guardianAI", "da/dc7/a28149.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "da/dc7/a28149.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "da/dc7/a28149.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "da/dc7/a28149.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "npc_pet_trainerAI", "d2/d16/a28153.html", "d2/d16/a28153" ],
+    [ "npc_pet_trainer", "da/dc7/a28149.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "da/dc7/a28149.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

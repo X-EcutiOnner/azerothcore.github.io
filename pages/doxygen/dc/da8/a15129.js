@@ -1,25 +1,10 @@
 var a15129 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "dc/da8/a15129.html#a31fbc078e2c8d2a0f070a8a52c34ef90", null ],
-    [ "CleanupInstance", "dc/da8/a15129.html#a20b8aa23c6c9e29f34cda71554c6d7a7", null ],
-    [ "GetData", "dc/da8/a15129.html#aa7ae89c6d23a061385a756cf0b0200bf", null ],
-    [ "GetGuidData", "dc/da8/a15129.html#a119965a939e79b0fb395e8e3695359aa", null ],
-    [ "Initialize", "dc/da8/a15129.html#ac9e53a8a406110bbc1d454be7b87fb34", null ],
-    [ "OnCreatureCreate", "dc/da8/a15129.html#a04bf5f844ab8e802f95745f56d996716", null ],
-    [ "OnGameObjectCreate", "dc/da8/a15129.html#ae5f9223af1488f1edd99f35f7b1c7207", null ],
-    [ "OnPlayerEnter", "dc/da8/a15129.html#a29ebe48953ba6be93da519c7a43c356e", null ],
-    [ "ReadSaveDataMore", "dc/da8/a15129.html#a81322de635b72f95de486ccd1abf9644", null ],
-    [ "Reposition", "dc/da8/a15129.html#a7fcd0c449edfe21933ee055549ea7ddf", null ],
-    [ "SetData", "dc/da8/a15129.html#a961dd71754113ce6b5aecde16b6426d2", null ],
-    [ "Update", "dc/da8/a15129.html#ac0bb22a2f69eecc269c69005777d9c38", null ],
-    [ "WriteSaveDataMore", "dc/da8/a15129.html#ae409ddd2759f8eea883cefa21d045a40", null ],
-    [ "_attemptsCount", "dc/da8/a15129.html#ac5c012148a60cc7dd26e36ba6950494b", null ],
-    [ "_barrelCount", "dc/da8/a15129.html#aeb5828d54f327c5d2a30004afa86c4af", null ],
-    [ "_encounterProgress", "dc/da8/a15129.html#a9b5fff035fb76116f0cea6f6786d506e", null ],
-    [ "_events", "dc/da8/a15129.html#ab3a9785a2240d62de4dfcf0b2523520f", null ],
-    [ "_finalFlamesSet", "dc/da8/a15129.html#a914232c182475a17e3583435f2fde9bc", null ],
-    [ "_initalFlamesSet", "dc/da8/a15129.html#a2404c19bd154f8277aa539f48ae99963", null ],
-    [ "_prisonersSet", "dc/da8/a15129.html#a43e3b3d3cb4797a8c03731df72e7cb5a", null ],
-    [ "_tarethaGUID", "dc/da8/a15129.html#ada3dcc37cba14ae8361989f1b842b462", null ],
-    [ "_thrallGUID", "dc/da8/a15129.html#add8e04fa930e970ab0e88258c10f9c5d", null ]
+    [ "boss_aeonus", "dc/da8/a15129.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "dc/da8/a15129.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "dc/da8/a15129.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "dc/da8/a15129.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "dc/da8/a15129.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "dc/da8/a15129.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "dc/da8/a15129.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

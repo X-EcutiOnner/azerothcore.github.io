@@ -1,6 +1,5 @@
 var a27533 =
 [
-    [ "HandleProc", "d0/ddf/a27533.html#a6b321d6ee3002f32b546aeaed0925183", null ],
-    [ "PrepareAuraScript", "d0/ddf/a27533.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
-    [ "Register", "d0/ddf/a27533.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
+    [ "achievement_resilient_victory", "d0/ddf/a27533.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "d0/ddf/a27533.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

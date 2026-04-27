@@ -1,7 +1,7 @@
 var a13729 =
 [
-    [ "FilterTargets", "dd/dd6/a13729.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
-    [ "HandleHit", "dd/dd6/a13729.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
-    [ "PrepareSpellScript", "dd/dd6/a13729.html#a905e1f979284a368463ad4829891b6ee", null ],
-    [ "Register", "dd/dd6/a13729.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
+    [ "npc_singularity", "dd/dd6/a13729.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "dd/dd6/a13729.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "dd/dd6/a13729.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "dd/dd6/a13729.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

@@ -1,12 +1,9 @@
 var a29297 =
 [
-    [ "TestVisibilityScript", "d4/da5/a29297.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "d4/da5/a29297.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "d4/da5/a29297.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "d4/da5/a29297.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "d4/da5/a29297.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "d4/da5/a29297.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "d4/da5/a29297.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "d4/da5/a29297.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "d4/da5/a29297.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "CountQuestOnCreature", "d4/da5/a29297.html#a4bf05b65d940e61567667d0939e177e5", null ],
+    [ "SetUp", "d4/da5/a29297.html#a4788953a58bbea222cf59662b4427e72", null ],
+    [ "SimulateReload", "d4/da5/a29297.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
+    [ "SimulateSpawn1Object", "d4/da5/a29297.html#a82c53349ba3754a75b2c1570fe413d09", null ],
+    [ "TearDown", "d4/da5/a29297.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
+    [ "creatureQuestMap", "d4/da5/a29297.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
 ];

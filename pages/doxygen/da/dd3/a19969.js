@@ -1,16 +1,5 @@
 var a19969 =
 [
-    [ "npc_mimirons_inferno", "da/dd3/a19969.html#aedcded9302c0cb9e29475f471bd0612e", null ],
-    [ "AttackStart", "da/dd3/a19969.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
-    [ "DoAction", "da/dd3/a19969.html#ade97188bb54f7b5a15a8a596355e4170", null ],
-    [ "JustSummoned", "da/dd3/a19969.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
-    [ "MoveInLineOfSight", "da/dd3/a19969.html#acc2e756af50ebde8300c46ec6f369760", null ],
-    [ "Reset", "da/dd3/a19969.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
-    [ "SummonedCreatureDespawn", "da/dd3/a19969.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
-    [ "UpdateAI", "da/dd3/a19969.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
-    [ "WaypointReached", "da/dd3/a19969.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
-    [ "WaypointReached", "da/dd3/a19969.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_recastTimer", "da/dd3/a19969.html#ac74ee90383d6ac140d6187c6115716ed", null ],
-    [ "_spellTimer", "da/dd3/a19969.html#a0683c956325801b63e7e31b8485f35bd", null ],
-    [ "summons", "da/dd3/a19969.html#a7a0be8291200404285277c3689c54106", null ]
+    [ "go_ulduar_tower", "da/dd3/a19969.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "da/dd3/a19969.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

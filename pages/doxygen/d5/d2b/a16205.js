@@ -1,6 +1,6 @@
 var a16205 =
 [
-    [ "npc_anub_ar_crusher_necromancer", "d5/d2b/a16205.html#a469d30b357551c4ce77f040bea79e951", null ],
-    [ "DoEngagedWith", "d5/d2b/a16205.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
-    [ "DoEvent", "d5/d2b/a16205.html#a67889b3a207ab26b7895e2f7996359b1", null ]
+    [ "boss_krik_thirAI", "d0/daf/a16209.html", "d0/daf/a16209" ],
+    [ "boss_krik_thir", "d5/d2b/a16205.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
+    [ "GetAI", "d5/d2b/a16205.html#a10e582440092d5c6558c2a11d60907aa", null ]
 ];

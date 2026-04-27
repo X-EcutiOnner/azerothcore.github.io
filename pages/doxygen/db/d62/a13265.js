@@ -1,6 +1,8 @@
 var a13265 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "d1/d98/a13269.html", "d1/d98/a13269" ],
-    [ "npc_unworthy_initiate_anchor", "db/d62/a13265.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
-    [ "GetAI", "db/d62/a13265.html#ab012983661d20a3ffa4f58136bd2d808", null ]
+    [ "HandleDummy", "db/d62/a13265.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "db/d62/a13265.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "db/d62/a13265.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "db/d62/a13265.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "db/d62/a13265.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

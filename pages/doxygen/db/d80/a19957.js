@@ -1,5 +1,6 @@
 var a19957 =
 [
-    [ "boss_flame_leviathan_overload_device", "db/d80/a19957.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
-    [ "OnSpellClick", "db/d80/a19957.html#a3f313a637fd95e28db1265ae84f349a8", null ]
+    [ "npc_pool_of_tar", "db/d80/a19957.html#a03de46dfa133992d094ab607a49b7236", null ],
+    [ "DamageTaken", "db/d80/a19957.html#ac72ad742cb16e27abf25fe0e88408315", null ],
+    [ "SpellHit", "db/d80/a19957.html#a61886862df88b41bf0c6959c9a564cea", null ]
 ];

@@ -1,8 +1,5 @@
 var a15509 =
 [
-    [ "boss_veklor", "d6/dc3/a15509.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
-    [ "AttackStart", "d6/dc3/a15509.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
-    [ "IAmVeklor", "d6/dc3/a15509.html#a4c43713c24b5537f292be1e0fcaee703", null ],
-    [ "JustEngagedWith", "d6/dc3/a15509.html#a05913da666b1715eac68441195dd9df4", null ],
-    [ "SpellHit", "d6/dc3/a15509.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
+    [ "npc_toxic_slime", "d6/dc3/a15509.html#a4c3a03916280342ec9aec07049de161f", null ],
+    [ "InitializeAI", "d6/dc3/a15509.html#ae69f228040aaa5bc4df40a652f551992", null ]
 ];

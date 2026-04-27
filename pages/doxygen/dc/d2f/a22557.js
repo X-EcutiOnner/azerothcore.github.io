@@ -1,6 +1,12 @@
 var a22557 =
 [
-    [ "FilterTargets", "dc/d2f/a22557.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "dc/d2f/a22557.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "dc/d2f/a22557.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "boss_shade_of_akama", "dc/d2f/a22557.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "dc/d2f/a22557.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "dc/d2f/a22557.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "dc/d2f/a22557.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "dc/d2f/a22557.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "dc/d2f/a22557.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "dc/d2f/a22557.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "dc/d2f/a22557.html#a63372527172d3f96f533b5776221c2e7", null ],
+    [ "generators", "dc/d2f/a22557.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
 ];

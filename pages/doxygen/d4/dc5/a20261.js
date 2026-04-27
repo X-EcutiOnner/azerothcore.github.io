@@ -1,7 +1,14 @@
 var a20261 =
 [
-    [ "HandleEffectPeriodic", "d4/dc5/a20261.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "d4/dc5/a20261.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "d4/dc5/a20261.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "d4/dc5/a20261.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "boss_kologarn_arms", "d4/dc5/a20261.html#a938ba2bc623d8bfea80e76743adadd6b", null ],
+    [ "AttackStart", "d4/dc5/a20261.html#aa900d84701962847fe8c50ca42a9e395", null ],
+    [ "DamageTaken", "d4/dc5/a20261.html#ab9dfb82063b299c4b983ea48e78a17be", null ],
+    [ "EnterEvadeMode", "d4/dc5/a20261.html#abb2cf784779f808ab5d5340047ce95e4", null ],
+    [ "JustDied", "d4/dc5/a20261.html#a165f77b79a3e601fe2269f20362df3ca", null ],
+    [ "MoveInLineOfSight", "d4/dc5/a20261.html#a515d1d1eb959a03adca5e2c79da9082b", null ],
+    [ "PassengerBoarded", "d4/dc5/a20261.html#aa0c14ab6b8b0081c1e8c43de1883ae59", null ],
+    [ "Reset", "d4/dc5/a20261.html#a1d164aa9234edb81ed6d4e0713d16a91", null ],
+    [ "UpdateAI", "d4/dc5/a20261.html#a013d5b17e93486679f625872331c94f6", null ],
+    [ "_combatStarted", "d4/dc5/a20261.html#a8b4f90719ef93e7f8d8e435e090d566a", null ],
+    [ "_damageDone", "d4/dc5/a20261.html#a0e196cc2602f325f4639d9e854f013b9", null ]
 ];

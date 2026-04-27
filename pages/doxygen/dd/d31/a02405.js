@@ -1,7 +1,7 @@
 var a02405 =
 [
-    [ "boss_mal_ganis", "d8/da7/a15045.html", "d8/da7/a15045" ],
-    [ "boss_mal_ganis::boss_mal_ganisAI", "dd/dc8/a15049.html", "dd/dc8/a15049" ],
+    [ "boss_mal_ganis", "d3/de8/a15025.html", "d3/de8/a15025" ],
+    [ "boss_mal_ganis::boss_mal_ganisAI", "d1/d55/a15029.html", "d1/d55/a15029" ],
     [ "Events", "dd/d31/a02405.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "de/d27/a03002.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

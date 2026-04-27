@@ -1,7 +1,6 @@
 var a14845 =
 [
-    [ "GetVisualThrow", "d6/d47/a14845.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d6/d47/a14845.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d6/d47/a14845.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d6/d47/a14845.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "HandleScriptEffect", "d6/d47/a14845.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
+    [ "PrepareSpellScript", "d6/d47/a14845.html#a55115ca986d5226588d168ced7ab1f55", null ],
+    [ "Register", "d6/d47/a14845.html#ad8811bf48dfb564afcd82cf51b860255", null ]
 ];

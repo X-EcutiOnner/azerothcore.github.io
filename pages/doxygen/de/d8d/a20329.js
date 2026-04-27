@@ -1,5 +1,11 @@
 var a20329 =
 [
-    [ "achievement_kologarn_with_open_arms", "de/d8d/a20329.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "de/d8d/a20329.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "npc_ulduar_proximity_mine", "de/d8d/a20329.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "de/d8d/a20329.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "de/d8d/a20329.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "de/d8d/a20329.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "de/d8d/a20329.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "de/d8d/a20329.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "de/d8d/a20329.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "de/d8d/a20329.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

@@ -1,6 +1,6 @@
 var a23577 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d8/d8a/a23581.html", "d8/d8a/a23581" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "dc/d9b/a23577.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "dc/d9b/a23577.html#a250707096229da28024960beeb7725bf", null ]
+    [ "npc_nether_drakeAI", "d8/d8a/a23581.html", "d8/d8a/a23581" ],
+    [ "npc_nether_drake", "dc/d9b/a23577.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "dc/d9b/a23577.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

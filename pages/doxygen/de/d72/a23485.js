@@ -1,7 +1,6 @@
 var a23485 =
 [
-    [ "Load", "de/d72/a23485.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "de/d72/a23485.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "de/d72/a23485.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "de/d72/a23485.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "FilterTargets", "de/d72/a23485.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "de/d72/a23485.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "de/d72/a23485.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

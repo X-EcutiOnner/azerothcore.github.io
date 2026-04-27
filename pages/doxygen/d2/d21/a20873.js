@@ -1,6 +1,6 @@
 var a20873 =
 [
-    [ "npc_ravenous_furbolgAI", "dc/d28/a20877.html", "dc/d28/a20877" ],
-    [ "npc_ravenous_furbolg", "d2/d21/a20873.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "d2/d21/a20873.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "boss_skadiAI", "dc/d28/a20877.html", "dc/d28/a20877" ],
+    [ "boss_skadi", "d2/d21/a20873.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "d2/d21/a20873.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
 ];

@@ -1,6 +1,6 @@
 var a14241 =
 [
-    [ "boss_arlokkAI", "d2/d26/a14245.html", "d2/d26/a14245" ],
-    [ "boss_arlokk", "db/db5/a14241.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "db/db5/a14241.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "boss_gahzranka", "db/db5/a14241.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "db/db5/a14241.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "db/db5/a14241.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

@@ -1,12 +1,6 @@
 var a13293 =
 [
-    [ "npc_koltira_deathweaverAI", "dd/d87/a13293.html#adbc46fce90170aec986faacf012bd2b2", null ],
-    [ "MovementInform", "dd/d87/a13293.html#afed53c190d875d0e59775ebfeb749fcf", null ],
-    [ "Reset", "dd/d87/a13293.html#ac07053d3798d57449c23bfff68e12f1b", null ],
-    [ "sGossipSelect", "dd/d87/a13293.html#af481beffaeb97a69483a62fd5f110616", null ],
-    [ "sQuestAccept", "dd/d87/a13293.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
-    [ "StartEvent", "dd/d87/a13293.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
-    [ "SummonedCreatureDies", "dd/d87/a13293.html#a967575fafe29db364b4e6a00a5e0457b", null ],
-    [ "UpdateAI", "dd/d87/a13293.html#ac90ed956ba45b6363a21af76393126ac", null ],
-    [ "_valrothGUID", "dd/d87/a13293.html#ad041942412fb8288ff5f850ee6472e78", null ]
+    [ "npc_acherus_necromancerAI", "d0/d0a/a13297.html", "d0/d0a/a13297" ],
+    [ "npc_acherus_necromancer", "dd/d87/a13293.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "dd/d87/a13293.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

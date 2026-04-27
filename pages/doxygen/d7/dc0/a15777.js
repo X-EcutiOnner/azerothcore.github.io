@@ -1,8 +1,6 @@
 var a15777 =
 [
-    [ "FilterTargets", "d7/dc0/a15777.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "d7/dc0/a15777.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "d7/dc0/a15777.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "d7/dc0/a15777.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "d7/dc0/a15777.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_silva_filnaveth", "d7/dc0/a15777.html#a5998381865214a7b3af7823bd2557cb0", null ],
+    [ "OnGossipHello", "d7/dc0/a15777.html#a32019c17271a3f504d86cd694262fd53", null ],
+    [ "OnGossipSelect", "d7/dc0/a15777.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
 ];

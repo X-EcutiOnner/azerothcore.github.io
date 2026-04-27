@@ -1,7 +1,6 @@
 var a13757 =
 [
-    [ "OnPeriodic", "d6/de1/a13757.html#a25e7a59384f262a36c74696a1befa01d", null ],
-    [ "PrepareAuraScript", "d6/de1/a13757.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
-    [ "Register", "d6/de1/a13757.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
-    [ "Validate", "d6/de1/a13757.html#a6843deda5be8b684c06a86920714f255", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "dd/d04/a13761.html", "dd/d04/a13761" ],
+    [ "instance_sunwell_plateau", "d6/de1/a13757.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
+    [ "GetInstanceScript", "d6/de1/a13757.html#a5960785a845c87e2e1730cfd865b44b4", null ]
 ];

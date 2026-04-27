@@ -1,6 +1,6 @@
 var a23605 =
 [
-    [ "npc_daranelleAI", "d2/da2/a23609.html", "d2/da2/a23609" ],
-    [ "npc_daranelle", "da/dd4/a23605.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "da/dd4/a23605.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "go_apexis_relic", "da/dd4/a23605.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "da/dd4/a23605.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "da/dd4/a23605.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

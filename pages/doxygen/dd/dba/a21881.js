@@ -1,8 +1,8 @@
 var a21881 =
 [
-    [ "npc_time_lost_proto_drakeAI", "dd/dba/a21881.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "InitializeAI", "dd/dba/a21881.html#a6b99780951a126a97db88e7307c1d1b9", null ],
-    [ "JustEngagedWith", "dd/dba/a21881.html#ab95266d60769aa4099ca0f1bf678f237", null ],
-    [ "Reset", "dd/dba/a21881.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "UpdateAI", "dd/dba/a21881.html#abb28428b77beada6a378541ba11d090b", null ]
+    [ "npc_freed_protodrakeAI", "dd/dba/a21881.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "dd/dba/a21881.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "dd/dba/a21881.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "dd/dba/a21881.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "dd/dba/a21881.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

@@ -1,7 +1,5 @@
 var a28277 =
 [
-    [ "npc_flameshocker", "d3/db9/a28277.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "d3/db9/a28277.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "d3/db9/a28277.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "d3/db9/a28277.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "ServerMailReward", "d3/db9/a28277.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "d3/db9/a28277.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

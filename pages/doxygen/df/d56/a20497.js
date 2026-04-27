@@ -1,11 +1,5 @@
 var a20497 =
 [
-    [ "boss_thorim_ancient_rune_giant", "df/d56/a20497.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
-    [ "DoAction", "df/d56/a20497.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
-    [ "JustDied", "df/d56/a20497.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
-    [ "JustEngagedWith", "df/d56/a20497.html#a98fa309963245a0c57676ff019085fac", null ],
-    [ "Reset", "df/d56/a20497.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
-    [ "UpdateAI", "df/d56/a20497.html#a903d7448d9441866475d77fce8ca6d37", null ],
-    [ "_isInCombat", "df/d56/a20497.html#a148ff1fa8010466de069032f660cd08e", null ],
-    [ "events", "df/d56/a20497.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "df/d56/a20497.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "df/d56/a20497.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

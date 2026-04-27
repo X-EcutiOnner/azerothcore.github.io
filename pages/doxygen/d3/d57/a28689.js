@@ -1,5 +1,5 @@
 var a28689 =
 [
-    [ "ID", "d3/d57/a28689.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
-    [ "spellId", "d3/d57/a28689.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
+    [ "Id", "d3/d57/a28689.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "d3/d57/a28689.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

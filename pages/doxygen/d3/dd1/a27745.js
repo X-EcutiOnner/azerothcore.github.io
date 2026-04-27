@@ -1,5 +1,5 @@
 var a27745 =
 [
-    [ "go_seer_of_zebhalak", "d3/dd1/a27745.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
-    [ "OnGossipHello", "d3/dd1/a27745.html#a84009789ce8e8d0d7c42996fde161135", null ]
+    [ "go_resonite_cask", "d3/dd1/a27745.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "d3/dd1/a27745.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

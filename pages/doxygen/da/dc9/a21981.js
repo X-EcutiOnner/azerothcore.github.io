@@ -1,8 +1,6 @@
 var a21981 =
 [
-    [ "npc_oathbound_warder", "da/dc9/a21981.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
-    [ "AttackStart", "da/dc9/a21981.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
-    [ "InitializeAI", "da/dc9/a21981.html#a62c4c568ad615013afa46c7da84d057a", null ],
-    [ "JustEngagedWith", "da/dc9/a21981.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
-    [ "UpdateAI", "da/dc9/a21981.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
+    [ "npc_wg_queueAI", "da/dc9/a21981.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "da/dc9/a21981.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "da/dc9/a21981.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

@@ -1,6 +1,6 @@
 var a14353 =
 [
-    [ "HandleOnHit", "d8/db0/a14353.html#a76b09288d14d399735250607e2105eb3", null ],
-    [ "PrepareSpellScript", "d8/db0/a14353.html#a2270ce546ae286ffa701d094df591aa2", null ],
-    [ "Register", "d8/db0/a14353.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
+    [ "npc_ohganAI", "d6/d0c/a14357.html", "d6/d0c/a14357" ],
+    [ "npc_ohgan", "d8/db0/a14353.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "d8/db0/a14353.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

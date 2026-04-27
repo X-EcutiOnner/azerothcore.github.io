@@ -1,6 +1,8 @@
 var a21821 =
 [
-    [ "npc_bushwhackerAI", "d4/d44/a21821.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "d4/d44/a21821.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "d4/d44/a21821.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "npc_adventurous_dwarfAI", "dc/db8/a21825.html", "dc/db8/a21825" ],
+    [ "npc_adventurous_dwarf", "d4/d44/a21821.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "d4/d44/a21821.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "d4/d44/a21821.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "d4/d44/a21821.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

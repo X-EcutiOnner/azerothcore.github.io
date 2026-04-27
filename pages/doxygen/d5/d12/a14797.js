@@ -1,5 +1,7 @@
 var a14797 =
 [
-    [ "PrepareSpellScript", "d5/d12/a14797.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
-    [ "Register", "d5/d12/a14797.html#a99f7d0be5668d5b005400140fc9865a4", null ]
+    [ "HandleFinish", "d5/d12/a14797.html#a8927aaa07145b46067d5807c2048330a", null ],
+    [ "PrepareSpellScript", "d5/d12/a14797.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
+    [ "Register", "d5/d12/a14797.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
+    [ "Validate", "d5/d12/a14797.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
 ];

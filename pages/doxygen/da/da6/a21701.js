@@ -1,6 +1,7 @@
 var a21701 =
 [
-    [ "npc_boneguard_footmanAI", "db/d06/a21705.html", "db/d06/a21705" ],
-    [ "npc_boneguard_footman", "da/da6/a21701.html#aba17f89b9546deff5401ad33224b2b3e", null ],
-    [ "GetAI", "da/da6/a21701.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
+    [ "HandleDummy", "da/da6/a21701.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "da/da6/a21701.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "da/da6/a21701.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "da/da6/a21701.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

@@ -120,6 +120,12 @@ $(document).ready(function(){initNavTree('d9/d10/a01103.html','../../'); initRes
 Functions</h2></td></tr>
 <tr class="memitem:a6dd118cfa29609d98e0207909b863c88"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d10/a01103.html#a6dd118cfa29609d98e0207909b863c88">sind</a> (double deg)</td></tr>
 <tr class="separator:a6dd118cfa29609d98e0207909b863c88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1cf1f3ca105c1ba63d7f783db70d91ae"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d10/a01103.html#a1cf1f3ca105c1ba63d7f783db70d91ae">IsLeapYear</a> (int year)</td></tr>
+<tr class="separator:a1cf1f3ca105c1ba63d7f783db70d91ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abff9a870b94032b446650ea043e9983b"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d10/a01103.html#abff9a870b94032b446650ea043e9983b">DaysInMonth</a> (int year, int month)</td></tr>
+<tr class="separator:abff9a870b94032b446650ea043e9983b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a867322206e11e2197b7815e7584eeaba"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d10/a01103.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a> (std::tm &amp;date)</td></tr>
+<tr class="separator:a867322206e11e2197b7815e7584eeaba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
@@ -131,6 +137,166 @@ Variables</h2></td></tr>
 <tr class="separator:a629dd822786c11d06b417c4326ae30fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
+<a id="abff9a870b94032b446650ea043e9983b" name="abff9a870b94032b446650ea043e9983b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abff9a870b94032b446650ea043e9983b">&#9670;&#160;</a></span>DaysInMonth()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static int DaysInMonth </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>year</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>month</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
+<div class="line"><span class="lineno">   37</span>    <span class="keyword">static</span> <span class="keywordtype">int</span> <span class="keyword">const</span> table[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };</div>
+<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">return</span> (month == 2 &amp;&amp; <a class="code hl_function" href="../../d9/d10/a01103.html#a1cf1f3ca105c1ba63d7f783db70d91ae">IsLeapYear</a>(year)) ? 29 : table[month - 1];</div>
+<div class="line"><span class="lineno">   39</span>}</div>
+<div class="ttc" id="aa01103_html_a1cf1f3ca105c1ba63d7f783db70d91ae"><div class="ttname"><a href="../../d9/d10/a01103.html#a1cf1f3ca105c1ba63d7f783db70d91ae">IsLeapYear</a></div><div class="ttdeci">static bool IsLeapYear(int year)</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:30</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00030">IsLeapYear()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00041">NormalizeDate()</a>.</p>
+
+</div>
+</div>
+<a id="a1cf1f3ca105c1ba63d7f783db70d91ae" name="a1cf1f3ca105c1ba63d7f783db70d91ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1cf1f3ca105c1ba63d7f783db70d91ae">&#9670;&#160;</a></span>IsLeapYear()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool IsLeapYear </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>year</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">return</span> (year % 4 == 0 &amp;&amp; year % 100 != 0) || (year % 400 == 0);</div>
+<div class="line"><span class="lineno">   33</span>}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00035">DaysInMonth()</a>, and <a class="el" href="../../#l00694">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a867322206e11e2197b7815e7584eeaba" name="a867322206e11e2197b7815e7584eeaba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a867322206e11e2197b7815e7584eeaba">&#9670;&#160;</a></span>NormalizeDate()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void NormalizeDate </td>
+          <td>(</td>
+          <td class="paramtype">std::tm &amp;&#160;</td>
+          <td class="paramname"><em>date</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
+<div class="line"><span class="lineno">   43</span>    <span class="keywordtype">int</span> year = date.tm_year + 1900;</div>
+<div class="line"><span class="lineno">   44</span>    <span class="keywordtype">int</span> month = date.tm_mon + 1;</div>
+<div class="line"><span class="lineno">   45</span>    <span class="keywordtype">int</span> day = date.tm_mday;</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">while</span> (month &gt; 12)</div>
+<div class="line"><span class="lineno">   48</span>    {</div>
+<div class="line"><span class="lineno">   49</span>        month -= 12;</div>
+<div class="line"><span class="lineno">   50</span>        ++year;</div>
+<div class="line"><span class="lineno">   51</span>    }</div>
+<div class="line"><span class="lineno">   52</span>    <span class="keywordflow">while</span> (month &lt; 1)</div>
+<div class="line"><span class="lineno">   53</span>    {</div>
+<div class="line"><span class="lineno">   54</span>        month += 12;</div>
+<div class="line"><span class="lineno">   55</span>        --year;</div>
+<div class="line"><span class="lineno">   56</span>    }</div>
+<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">while</span> (day &gt; <a class="code hl_function" href="../../d9/d10/a01103.html#abff9a870b94032b446650ea043e9983b">DaysInMonth</a>(year, month))</div>
+<div class="line"><span class="lineno">   58</span>    {</div>
+<div class="line"><span class="lineno">   59</span>        day -= <a class="code hl_function" href="../../d9/d10/a01103.html#abff9a870b94032b446650ea043e9983b">DaysInMonth</a>(year, month);</div>
+<div class="line"><span class="lineno">   60</span>        ++month;</div>
+<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">if</span> (month &gt; 12)</div>
+<div class="line"><span class="lineno">   62</span>        {</div>
+<div class="line"><span class="lineno">   63</span>            month = 1;</div>
+<div class="line"><span class="lineno">   64</span>            ++year;</div>
+<div class="line"><span class="lineno">   65</span>        }</div>
+<div class="line"><span class="lineno">   66</span>    }</div>
+<div class="line"><span class="lineno">   67</span>    <span class="keywordflow">while</span> (day &lt; 1)</div>
+<div class="line"><span class="lineno">   68</span>    {</div>
+<div class="line"><span class="lineno">   69</span>        --month;</div>
+<div class="line"><span class="lineno">   70</span>        <span class="keywordflow">if</span> (month &lt; 1)</div>
+<div class="line"><span class="lineno">   71</span>        {</div>
+<div class="line"><span class="lineno">   72</span>            month = 12;</div>
+<div class="line"><span class="lineno">   73</span>            --year;</div>
+<div class="line"><span class="lineno">   74</span>        }</div>
+<div class="line"><span class="lineno">   75</span>        day += <a class="code hl_function" href="../../d9/d10/a01103.html#abff9a870b94032b446650ea043e9983b">DaysInMonth</a>(year, month);</div>
+<div class="line"><span class="lineno">   76</span>    }</div>
+<div class="line"><span class="lineno">   77</span> </div>
+<div class="line"><span class="lineno">   78</span>    date.tm_year = year - 1900;</div>
+<div class="line"><span class="lineno">   79</span>    date.tm_mon = month - 1;</div>
+<div class="line"><span class="lineno">   80</span>    date.tm_mday = day;</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    <span class="comment">// Zeller&#39;s congruence; remap 0=Sat to POSIX 0=Sun.</span></div>
+<div class="line"><span class="lineno">   83</span>    <span class="keywordtype">int</span> zy = year;</div>
+<div class="line"><span class="lineno">   84</span>    <span class="keywordtype">int</span> zm = month;</div>
+<div class="line"><span class="lineno">   85</span>    <span class="keywordflow">if</span> (zm &lt; 3)</div>
+<div class="line"><span class="lineno">   86</span>    {</div>
+<div class="line"><span class="lineno">   87</span>        zm += 12;</div>
+<div class="line"><span class="lineno">   88</span>        --zy;</div>
+<div class="line"><span class="lineno">   89</span>    }</div>
+<div class="line"><span class="lineno">   90</span>    <span class="keywordtype">int</span> <span class="keyword">const</span> K = zy % 100;</div>
+<div class="line"><span class="lineno">   91</span>    <span class="keywordtype">int</span> <span class="keyword">const</span> J = zy / 100;</div>
+<div class="line"><span class="lineno">   92</span>    <span class="keywordtype">int</span> <span class="keyword">const</span> h = (day + (13 * (zm + 1)) / 5 + K + K / 4 + J / 4 + 5 * J) % 7;</div>
+<div class="line"><span class="lineno">   93</span>    date.tm_wday = (h + 6) % 7;</div>
+<div class="line"><span class="lineno">   94</span>}</div>
+<div class="ttc" id="aa01103_html_abff9a870b94032b446650ea043e9983b"><div class="ttname"><a href="../../d9/d10/a01103.html#abff9a870b94032b446650ea043e9983b">DaysInMonth</a></div><div class="ttdeci">static int DaysInMonth(int year, int month)</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:35</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">DaysInMonth()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00378">HolidayDateCalculator::CalculateAutumnEquinox()</a>, <a class="el" href="../../#l00151">HolidayDateCalculator::CalculateEasterSunday()</a>, <a class="el" href="../../#l00482">HolidayDateCalculator::CalculateHolidayDate()</a>, <a class="el" href="../../#l00328">HolidayDateCalculator::CalculateLunarNewYear()</a>, <a class="el" href="../../#l00179">HolidayDateCalculator::CalculateNthWeekday()</a>, <a class="el" href="../../#l00199">HolidayDateCalculator::CalculateWeekdayOnOrAfter()</a>, <a class="el" href="../../#l00433">HolidayDateCalculator::CalculateWinterSolstice()</a>, and <a class="el" href="../../#l00621">HolidayDateCalculator::GetDarkmoonFaireDates()</a>.</p>
+
+</div>
+</div>
 <a id="a6dd118cfa29609d98e0207909b863c88" name="a6dd118cfa29609d98e0207909b863c88"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a6dd118cfa29609d98e0207909b863c88">&#9670;&#160;</a></span>sind()</h2>
 
@@ -159,7 +325,7 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00024">DEG_TO_RAD</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00188">HolidayDateCalculator::CalculateNewMoon()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00255">HolidayDateCalculator::CalculateNewMoon()</a>.</p>
 
 </div>
 </div>
@@ -184,7 +350,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00311">HolidayDateCalculator::CalculateAutumnEquinox()</a>, <a class="el" href="../../#l00366">HolidayDateCalculator::CalculateWinterSolstice()</a>, and <a class="el" href="../../#l00027">sind()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00378">HolidayDateCalculator::CalculateAutumnEquinox()</a>, <a class="el" href="../../#l00433">HolidayDateCalculator::CalculateWinterSolstice()</a>, and <a class="el" href="../../#l00027">sind()</a>.</p>
 
 </div>
 </div>
@@ -208,7 +374,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00079">HolidayDateCalculator::GetHolidayRules()</a>, and <a class="el" href="../../#l00541">HolidayDateCalculator::GetPackedHolidayDate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00146">HolidayDateCalculator::GetHolidayRules()</a>, and <a class="el" href="../../#l00608">HolidayDateCalculator::GetPackedHolidayDate()</a>.</p>
 
 </div>
 </div>
@@ -240,7 +406,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_be7ddcf5a4570b7daa864eaef60ffbc7.html">Events</a></li><li class="navelem"><a class="el" href="../../d9/d10/a01103.html">HolidayDateCalculator.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 20 2026 21:14:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 27 2026 21:36:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

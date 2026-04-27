@@ -1,9 +1,6 @@
 var a18601 =
 [
-    [ "npc_spirit_wardenAI", "db/da7/a18601.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "db/da7/a18601.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "db/da7/a18601.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "db/da7/a18601.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "db/da7/a18601.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "db/da7/a18601.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "HandleScript", "db/da7/a18601.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
+    [ "PrepareSpellScript", "db/da7/a18601.html#a2c6acef52962f606130d643cbd93104b", null ],
+    [ "Register", "db/da7/a18601.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
 ];

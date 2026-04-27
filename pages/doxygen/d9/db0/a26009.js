@@ -1,6 +1,7 @@
 var a26009 =
 [
-    [ "CheckProc", "d9/db0/a26009.html#a26a6b40751b0c0b68932b9a6438a4571", null ],
-    [ "PrepareAuraScript", "d9/db0/a26009.html#a7bde487cba726ab6601e82db8e2a092a", null ],
-    [ "Register", "d9/db0/a26009.html#a60130890b5e10e2f29c7eadb20c057b7", null ]
+    [ "HandleProc", "d9/db0/a26009.html#a88510ad234c654bbe3316f6557742f77", null ],
+    [ "PrepareAuraScript", "d9/db0/a26009.html#adff2a6b6161cc6fa6a49bd55c088394c", null ],
+    [ "Register", "d9/db0/a26009.html#aeaae510592ba20f76e322701a9c30c17", null ],
+    [ "Validate", "d9/db0/a26009.html#a1d9dc752bd385ff99ee4c39094c68d8a", null ]
 ];

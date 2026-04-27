@@ -1,28 +1,6 @@
 var a15077 =
 [
-    [ "npc_arthasAI", "d9/d04/a15077.html#abaddb70881894577e50a01294ab1c8de", null ],
-    [ "DoAction", "d9/d04/a15077.html#ac54fa660cf90d16e8088d15d2faf59c9", null ],
-    [ "GetEventNpc", "d9/d04/a15077.html#aae8b1d8c4e51aadfb46e8ed664ce3c74", null ],
-    [ "JustDied", "d9/d04/a15077.html#a22ff78f354f7bfcc4bda3eba934a1953", null ],
-    [ "JustEngagedWith", "d9/d04/a15077.html#aace0b9c977da69b311eecf6de0cf42bb", null ],
-    [ "JustSummoned", "d9/d04/a15077.html#a2e582bfb89c21ec6bc1451b70d0664ea", null ],
-    [ "ReorderInstance", "d9/d04/a15077.html#aca7309b36c531ffdbdee842a69d11e84", null ],
-    [ "Reset", "d9/d04/a15077.html#a4d839cda5bd7a6e20b2ee3052624f23a", null ],
-    [ "ScheduleNextEvent", "d9/d04/a15077.html#ab811bf2cab2982ef2f65021a61b0cee3", null ],
-    [ "SendNextWave", "d9/d04/a15077.html#ace215df8a11c009aa5b4f29ffa6ec5e3", null ],
-    [ "SpawnTimeRift", "d9/d04/a15077.html#aa4908055e48e76ee1189c7bc7046b01d", null ],
-    [ "SummonedCreatureDespawn", "d9/d04/a15077.html#a29e7be7b161f8add8e7f502dc29efcb2", null ],
-    [ "SummonedCreatureDies", "d9/d04/a15077.html#a28044cc9374c63dd7cd853918eeab5bd", null ],
-    [ "SummonNextWave", "d9/d04/a15077.html#abf90e835139da0fdfca443a690e49a0b", null ],
-    [ "UpdateAI", "d9/d04/a15077.html#ac17e7dd501117025ea07c3d834e4e598", null ],
-    [ "WaypointReached", "d9/d04/a15077.html#a32c42420cad46b39db528611893ffc12", null ],
-    [ "WaypointReached", "d9/d04/a15077.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "actionEvents", "d9/d04/a15077.html#a581e9b0704ebb1d154e81b772dcf5dea", null ],
-    [ "combatEvents", "d9/d04/a15077.html#a4ca63fe136d8acacedb1a3770c36beab", null ],
-    [ "eventInRun", "d9/d04/a15077.html#abd0371c89f2d0986c73ac26080b61a4e", null ],
-    [ "pInstance", "d9/d04/a15077.html#a57aa8b51d0c55b196dbbcc6aa4e300c3", null ],
-    [ "summons", "d9/d04/a15077.html#a820fda0dce1083821b7a121e8ffc148a", null ],
-    [ "timeRiftId", "d9/d04/a15077.html#aa1896b017eecc8a87715ac0cd2383266", null ],
-    [ "waveGroupId", "d9/d04/a15077.html#a552bf13e89cb6f5fe9a79c596a3d7b99", null ],
-    [ "waveKillCount", "d9/d04/a15077.html#a37d5ead96159ee03d31a2ac3bcf955de", null ]
+    [ "npc_cos_stratholme_citizienAI", "dd/dfe/a15081.html", "dd/dfe/a15081" ],
+    [ "npc_cos_stratholme_citizien", "d9/d04/a15077.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "d9/d04/a15077.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

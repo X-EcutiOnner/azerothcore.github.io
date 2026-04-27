@@ -1,8 +1,11 @@
 var a13349 =
 [
-    [ "npc_highlord_darion_mograineAI", "dc/dcb/a13353.html", "dc/dcb/a13353" ],
-    [ "npc_highlord_darion_mograine", "dd/d32/a13349.html#a86680b1a140c706b10fd48befc572286", null ],
-    [ "GetAI", "dd/d32/a13349.html#a350539ed741fa372ffff92ffbc6e6260", null ],
-    [ "OnGossipHello", "dd/d32/a13349.html#a35afc9d80b4570163af9f6013949a70c", null ],
-    [ "OnGossipSelect", "dd/d32/a13349.html#a0539d24556c16a1a72be8258c752f5f5", null ]
+    [ "npc_valkyr_battle_maidenAI", "dd/d32/a13349.html#a859b63621c500c7a36150fadbb460b2b", null ],
+    [ "Reset", "dd/d32/a13349.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
+    [ "UpdateAI", "dd/d32/a13349.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
+    [ "FlyBackTimer", "dd/d32/a13349.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
+    [ "phase", "dd/d32/a13349.html#abd5d71272aa575be8583254217194e49", null ],
+    [ "x", "dd/d32/a13349.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
+    [ "y", "dd/d32/a13349.html#acccea63fedf38de14f7818016830a0a9", null ],
+    [ "z", "dd/d32/a13349.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
 ];

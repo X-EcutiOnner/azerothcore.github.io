@@ -1,18 +1,8 @@
 var a16097 =
 [
-    [ "boss_elder_nadox", "d8/dcb/a16097.html#a718d8fffde11b1df5a44650096c474cc", null ],
-    [ "DamageTaken", "d8/dcb/a16097.html#a34dd3a07faeee096b1c8574f63353893", null ],
-    [ "GetData", "d8/dcb/a16097.html#ad2f80bcefb6c43370546d867fd4fc951", null ],
-    [ "JustDied", "d8/dcb/a16097.html#a1342dbd6de10197c6ba4bc8e43cceace", null ],
-    [ "JustEngagedWith", "d8/dcb/a16097.html#a659f83714070b7358b43d1c7eb46ac1c", null ],
-    [ "KilledUnit", "d8/dcb/a16097.html#a78310e83e518b64c1373b60a946f9748", null ],
-    [ "Reset", "d8/dcb/a16097.html#ab5e492f39552b64c0333b6fbce89c1ae", null ],
-    [ "SummonedCreatureDies", "d8/dcb/a16097.html#a77d9861b2e2de593d0b44c2fd9449f17", null ],
-    [ "SummonHelpers", "d8/dcb/a16097.html#ae65044c111e514a3050ea14f1155a7dc", null ],
-    [ "UpdateAI", "d8/dcb/a16097.html#abbb783581208c76fa371f01efd481b66", null ],
-    [ "guardianEggs", "d8/dcb/a16097.html#aae96b622766ab4478a8510bd1c7a9f1f", null ],
-    [ "guardianSummoned", "d8/dcb/a16097.html#a5543be0c08bf1d432b36bfdb2d532f0d", null ],
-    [ "previousSwarmEgg_GUID", "d8/dcb/a16097.html#add5ff92f92b8d01caef0b12a98569535", null ],
-    [ "respectYourElders", "d8/dcb/a16097.html#aac97ef9511e64692a152077b43e83e75", null ],
-    [ "swarmEggs", "d8/dcb/a16097.html#a28c8b6826ed86e30b573883cab83168f", null ]
+    [ "HandleAfterCast", "d8/dcb/a16097.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "d8/dcb/a16097.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "d8/dcb/a16097.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "d8/dcb/a16097.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "d8/dcb/a16097.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

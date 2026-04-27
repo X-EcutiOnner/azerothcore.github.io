@@ -1,7 +1,9 @@
 var a18665 =
 [
-    [ "AuraRemoveEvent", "d9/d74/a18665.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d9/d74/a18665.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d9/d74/a18665.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d9/d74/a18665.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d9/d74/a18665.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "DoAction", "d9/d74/a18665.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "JustEnteredCombat", "d9/d74/a18665.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
+    [ "JustExitedCombat", "d9/d74/a18665.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
+    [ "MoveInLineOfSight", "d9/d74/a18665.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "d9/d74/a18665.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
 ];

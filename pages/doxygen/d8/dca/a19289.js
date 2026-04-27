@@ -1,7 +1,6 @@
 var a19289 =
 [
-    [ "FilterTargets", "d8/dca/a19289.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "d8/dca/a19289.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "d8/dca/a19289.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "d8/dca/a19289.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "boss_maexxnaAI", "d1/d8f/a19293.html", "d1/d8f/a19293" ],
+    [ "boss_maexxna", "d8/dca/a19289.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "d8/dca/a19289.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

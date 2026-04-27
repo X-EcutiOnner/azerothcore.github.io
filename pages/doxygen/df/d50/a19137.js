@@ -1,6 +1,7 @@
 var a19137 =
 [
-    [ "npc_ioc_gunship_captainAI", "d9/d6d/a19141.html", "d9/d6d/a19141" ],
-    [ "npc_ioc_gunship_captain", "df/d50/a19137.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
-    [ "GetAI", "df/d50/a19137.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
+    [ "HandleGameObjectDamage", "df/d50/a19137.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "df/d50/a19137.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "df/d50/a19137.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "df/d50/a19137.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

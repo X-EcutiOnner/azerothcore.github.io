@@ -1,6 +1,7 @@
 var a15097 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d8/dc7/a15101.html", "d8/dc7/a15101" ],
-    [ "npc_cos_stratholme_citizien", "d9/d96/a15097.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "d9/d96/a15097.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "boss_epoch_hunter", "d9/d96/a15097.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "d9/d96/a15097.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "d9/d96/a15097.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "d9/d96/a15097.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

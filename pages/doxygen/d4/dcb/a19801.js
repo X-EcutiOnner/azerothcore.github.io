@@ -1,6 +1,6 @@
 var a19801 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "d5/d25/a19805.html", "d5/d25/a19805" ],
-    [ "instance_halls_of_stone", "d4/dcb/a19801.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "d4/dcb/a19801.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "npc_collapsing_star", "d4/dcb/a19801.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
+    [ "DamageTaken", "d4/dcb/a19801.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
+    [ "JustSummoned", "d4/dcb/a19801.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
 ];

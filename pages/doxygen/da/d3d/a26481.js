@@ -1,6 +1,8 @@
 var a26481 =
 [
-    [ "FilterTargets", "da/d3d/a26481.html#a23c7b977f7e213322b3702367d6a28c7", null ],
-    [ "PrepareSpellScript", "da/d3d/a26481.html#a7000b2fd940c914933c486e847932b62", null ],
-    [ "Register", "da/d3d/a26481.html#a870ee08d0341f6640710a87c97a6b98b", null ]
+    [ "HandleApplyEffect", "da/d3d/a26481.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "da/d3d/a26481.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "da/d3d/a26481.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "da/d3d/a26481.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "da/d3d/a26481.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

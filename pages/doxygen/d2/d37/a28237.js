@@ -1,5 +1,6 @@
 var a28237 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d2/d37/a28237.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "d2/d37/a28237.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "npc_necropolis_relay", "d2/d37/a28237.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "d2/d37/a28237.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "d2/d37/a28237.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

@@ -1,15 +1,12 @@
 var a21441 =
 [
-    [ "npc_q24545_lich_kingAI", "d8/dd8/a21441.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
-    [ "CleanAll", "d8/dd8/a21441.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
-    [ "JustSummoned", "d8/dd8/a21441.html#a6049433795be30eb31e240a4939ad42f", null ],
-    [ "Reset", "d8/dd8/a21441.html#aebd396de51edef790cd0b599c94f78a0", null ],
-    [ "SetData", "d8/dd8/a21441.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
-    [ "SetGUID", "d8/dd8/a21441.html#ac7c41ebfa7979907aea246af20bcf368", null ],
-    [ "SpellHitTarget", "d8/dd8/a21441.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
-    [ "SummonedCreatureDespawn", "d8/dd8/a21441.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
-    [ "UpdateAI", "d8/dd8/a21441.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
-    [ "events", "d8/dd8/a21441.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
-    [ "playerGUID", "d8/dd8/a21441.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
-    [ "summons", "d8/dd8/a21441.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d8/dd8/a21441.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
+    [ "Activate", "d8/dd8/a21441.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
+    [ "AttackStart", "d8/dd8/a21441.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
+    [ "CanAIAttack", "d8/dd8/a21441.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
+    [ "Deactivate", "d8/dd8/a21441.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
+    [ "DoAction", "d8/dd8/a21441.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
+    [ "JustDied", "d8/dd8/a21441.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
+    [ "JustRespawned", "d8/dd8/a21441.html#ab30068f7082176c279e0667f72d750a3", null ],
+    [ "Reset", "d8/dd8/a21441.html#ad94a4789b5ba019d021682f15df13589", null ]
 ];

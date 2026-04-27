@@ -1,7 +1,7 @@
 var a21965 =
 [
-    [ "OnApply", "dd/d22/a21965.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "dd/d22/a21965.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "dd/d22/a21965.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "dd/d22/a21965.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "npc_wg_demolisher_engineer", "dd/d22/a21965.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "dd/d22/a21965.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "dd/d22/a21965.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "dd/d22/a21965.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

@@ -1,6 +1,5 @@
 var a26637 =
 [
-    [ "HandleScriptEffect", "df/db0/a26637.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
-    [ "PrepareSpellScript", "df/db0/a26637.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
-    [ "Register", "df/db0/a26637.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
+    [ "PrepareSpellScript", "df/db0/a26637.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
+    [ "Register", "df/db0/a26637.html#a721430db1738b255f114483bdddef5e2", null ]
 ];

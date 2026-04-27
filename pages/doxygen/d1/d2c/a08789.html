@@ -308,7 +308,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   46</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/d2c/a08789.html#a3c747cf6679bb2533789581fcb09f246">_remoteSightPosition</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l13245">Player::GetSightPosition()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l13251">Player::GetSightPosition()</a>.</p>
 
 </div>
 </div>
@@ -336,7 +336,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   42</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d1/d2c/a08789.html#aceda58e6f506fbefc70292abb0687411">_cinematicCamera</a> != <span class="keyword">nullptr</span>); }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l13245">Player::GetSightPosition()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l13251">Player::GetSightPosition()</a>.</p>
 
 </div>
 </div>
@@ -386,15 +386,15 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
 <div class="line"><span class="lineno">   33</span>    <a class="code hl_variable" href="../../d1/d2c/a08789.html#a1f471f895c8cda67733cf3df29441886">_player</a>.<a class="code hl_function" href="../../de/d6b/a08909.html#aa200b1a7e5ba41136515e6ae9d1afe02">SendCinematicStart</a>(cinematicSequenceId);</div>
-<div class="line"><span class="lineno">   34</span>    <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d0/da3/a28669.html">CinematicSequencesEntry</a> <span class="keyword">const</span>* sequence = <a class="code hl_variable" href="../../db/d1c/a01229.html#ae2d0342340981e0015a66c4045a9c70c">sCinematicSequencesStore</a>.LookupEntry(cinematicSequenceId))</div>
+<div class="line"><span class="lineno">   34</span>    <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d6/d4f/a28645.html">CinematicSequencesEntry</a> <span class="keyword">const</span>* sequence = <a class="code hl_variable" href="../../db/d1c/a01229.html#ae2d0342340981e0015a66c4045a9c70c">sCinematicSequencesStore</a>.LookupEntry(cinematicSequenceId))</div>
 <div class="line"><span class="lineno">   35</span>        <a class="code hl_function" href="../../d1/d2c/a08789.html#afa5c37702ecdb71e09e552b92fa5ad71">SetActiveCinematicCamera</a>(sequence-&gt;cinematicCamera);</div>
 <div class="line"><span class="lineno">   36</span>}</div>
 <div class="ttc" id="aa01229_html_ae2d0342340981e0015a66c4045a9c70c"><div class="ttname"><a href="../../db/d1c/a01229.html#ae2d0342340981e0015a66c4045a9c70c">sCinematicSequencesStore</a></div><div class="ttdeci">DBCStorage&lt; CinematicSequencesEntry &gt; sCinematicSequencesStore(CinematicSequencesEntryfmt)</div></div>
 <div class="ttc" id="aa08789_html_afa5c37702ecdb71e09e552b92fa5ad71"><div class="ttname"><a href="../../d1/d2c/a08789.html#afa5c37702ecdb71e09e552b92fa5ad71">CinematicMgr::SetActiveCinematicCamera</a></div><div class="ttdeci">void SetActiveCinematicCamera(uint32 cinematicCameraId=0)</div><div class="ttdef"><b>Definition:</b> CinematicMgr.h:41</div></div>
-<div class="ttc" id="aa08909_html_aa200b1a7e5ba41136515e6ae9d1afe02"><div class="ttname"><a href="../../de/d6b/a08909.html#aa200b1a7e5ba41136515e6ae9d1afe02">Player::SendCinematicStart</a></div><div class="ttdeci">void SendCinematicStart(uint32 CinematicSequenceId) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5685</div></div>
-<div class="ttc" id="aa28669_html"><div class="ttname"><a href="../../d0/da3/a28669.html">CinematicSequencesEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:713</div></div>
+<div class="ttc" id="aa08909_html_aa200b1a7e5ba41136515e6ae9d1afe02"><div class="ttname"><a href="../../de/d6b/a08909.html#aa200b1a7e5ba41136515e6ae9d1afe02">Player::SendCinematicStart</a></div><div class="ttdeci">void SendCinematicStart(uint32 CinematicSequenceId) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5686</div></div>
+<div class="ttc" id="aa28645_html"><div class="ttname"><a href="../../d6/d4f/a28645.html">CinematicSequencesEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:713</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00049">_player</a>, <a class="el" href="../../db/d1c/a01229.html#ae2d0342340981e0015a66c4045a9c70c">sCinematicSequencesStore</a>, <a class="el" href="../../#l05685">Player::SendCinematicStart()</a>, and <a class="el" href="../../#l00041">SetActiveCinematicCamera()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00049">_player</a>, <a class="el" href="../../db/d1c/a01229.html#ae2d0342340981e0015a66c4045a9c70c">sCinematicSequencesStore</a>, <a class="el" href="../../#l05686">Player::SendCinematicStart()</a>, and <a class="el" href="../../#l00041">SetActiveCinematicCamera()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00130">debug_commandscript::HandleDebugPlayCinematicCommand()</a>, <a class="el" href="../../#l00789">WorldSession::HandlePlayerLoginFromDB()</a>, and <a class="el" href="../../#l01460">GameObject::Use()</a>.</p>
 
@@ -724,7 +724,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d2c/a08789.html">CinematicMgr</a></li>
-    <li class="footer">Generated on Mon Apr 20 2026 21:15:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 27 2026 21:37:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

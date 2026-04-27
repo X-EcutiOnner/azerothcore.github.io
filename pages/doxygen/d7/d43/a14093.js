@@ -1,6 +1,7 @@
 var a14093 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d0/dae/a14097.html", "d0/dae/a14097" ],
-    [ "npc_tapoke_slim_jahn", "d7/d43/a14093.html#a61e36b57f8ba78c371d454efb1512579", null ],
-    [ "GetAI", "d7/d43/a14093.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
+    [ "Load", "d7/d43/a14093.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "d7/d43/a14093.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "d7/d43/a14093.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "d7/d43/a14093.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

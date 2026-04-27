@@ -1,9 +1,6 @@
 var a23985 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "d5/d74/a23985.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "d5/d74/a23985.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHitTarget", "d5/d74/a23985.html#a6c0d3181b913c5022325f66586f66bfa", null ],
-    [ "UpdateAI", "d5/d74/a23985.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "d5/d74/a23985.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "d5/d74/a23985.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "PrepareSpellScript", "d5/d74/a23985.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
+    [ "RecalculateDamage", "d5/d74/a23985.html#af01757d0968da2a096d800782ed7e66e", null ],
+    [ "Register", "d5/d74/a23985.html#a62b6613707a2a9b78d52bffe92de604e", null ]
 ];

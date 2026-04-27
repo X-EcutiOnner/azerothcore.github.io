@@ -1,10 +1,10 @@
 var a03911 =
 [
-    [ "boss_novos", "d7/d08/a16961.html", "d7/d08/a16961" ],
-    [ "spell_novos_despawn_crystal_handler", "d2/d72/a16965.html", "d2/d72/a16965" ],
-    [ "spell_novos_crystal_handler_death_aura", "de/d10/a16969.html", "de/d10/a16969" ],
-    [ "spell_novos_summon_minions", "da/de0/a16973.html", "da/de0/a16973" ],
-    [ "achievement_oh_novos", "d9/d6e/a16977.html", "d9/d6e/a16977" ],
+    [ "boss_novos", "dd/dc2/a16941.html", "dd/dc2/a16941" ],
+    [ "spell_novos_despawn_crystal_handler", "d7/d0c/a16945.html", "d7/d0c/a16945" ],
+    [ "spell_novos_crystal_handler_death_aura", "da/d1a/a16949.html", "da/d1a/a16949" ],
+    [ "spell_novos_summon_minions", "d5/da3/a16953.html", "d5/da3/a16953" ],
+    [ "achievement_oh_novos", "d8/dca/a16957.html", "d8/dca/a16957" ],
     [ "Misc", "d4/da4/a03911.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "df/dc9/a03230.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "df/dc9/a03230.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],
@@ -370,6 +370,9 @@ var a03911 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

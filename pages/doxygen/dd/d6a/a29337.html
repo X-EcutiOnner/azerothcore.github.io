@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CascadeProcSuppressionTest Class Reference</title>
+<title>AzerothCore: anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,69 +105,32 @@ $(document).ready(function(){initNavTree('dd/d6a/a29337.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d8/d20/a29334.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CascadeProcSuppressionTest Class Reference</div></div>
+  <div class="headertitle"><div class="title">anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="dynheader">
-Inheritance diagram for CascadeProcSuppressionTest:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../dd/d6a/a29337.png" alt=""/>
- </div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:a4497365ace6ba22681024b5d3cb745c8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d07/a29197.html">ProcChanceTestHelper::CascadeProcConfig</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d6a/a29337.html#a4497365ace6ba22681024b5d3cb745c8">MakeConfig</a> (bool isProcDisabled, bool hasDisableProcAttr)</td></tr>
-<tr class="separator:a4497365ace6ba22681024b5d3cb745c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a00a2f9a365f421985e426c8cdf3ece91"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../d1/d1a/a29333.html">EffectDesc</a>, 3 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d6a/a29337.html#a00a2f9a365f421985e426c8cdf3ece91">effects</a> {}</td></tr>
+<tr class="separator:a00a2f9a365f421985e426c8cdf3ece91"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a4497365ace6ba22681024b5d3cb745c8" name="a4497365ace6ba22681024b5d3cb745c8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4497365ace6ba22681024b5d3cb745c8">&#9670;&#160;</a></span>MakeConfig()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a00a2f9a365f421985e426c8cdf3ece91" name="a00a2f9a365f421985e426c8cdf3ece91"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a00a2f9a365f421985e426c8cdf3ece91">&#9670;&#160;</a></span>effects</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/d07/a29197.html">ProcChanceTestHelper::CascadeProcConfig</a> CascadeProcSuppressionTest::MakeConfig </td>
-          <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>isProcDisabled</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>hasDisableProcAttr</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">std::array&lt;<a class="el" href="../../d1/d1a/a29333.html">EffectDesc</a>, 3&gt; anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc::effects {}</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   40</span>    {</div>
-<div class="line"><span class="lineno">   41</span>        <a class="code hl_struct" href="../../da/d07/a29197.html">ProcChanceTestHelper::CascadeProcConfig</a> config;</div>
-<div class="line"><span class="lineno">   42</span>        config.<a class="code hl_variable" href="../../da/d07/a29197.html#a38c3523c80d30ed10b8c3b5e19c083f6">triggeringSpellIsProcDisabled</a> = isProcDisabled;</div>
-<div class="line"><span class="lineno">   43</span>        config.<a class="code hl_variable" href="../../da/d07/a29197.html#aec81d4f80c7cb7749f860601c9e5aac8">auraHasDisableProcAttr</a> = hasDisableProcAttr;</div>
-<div class="line"><span class="lineno">   44</span>        <span class="keywordflow">return</span> config;</div>
-<div class="line"><span class="lineno">   45</span>    }</div>
-<div class="ttc" id="aa29197_html"><div class="ttname"><a href="../../da/d07/a29197.html">ProcChanceTestHelper::CascadeProcConfig</a></div><div class="ttdoc">Configuration for simulating cascade proc suppression.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:507</div></div>
-<div class="ttc" id="aa29197_html_a38c3523c80d30ed10b8c3b5e19c083f6"><div class="ttname"><a href="../../da/d07/a29197.html#a38c3523c80d30ed10b8c3b5e19c083f6">ProcChanceTestHelper::CascadeProcConfig::triggeringSpellIsProcDisabled</a></div><div class="ttdeci">bool triggeringSpellIsProcDisabled</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:508</div></div>
-<div class="ttc" id="aa29197_html_aec81d4f80c7cb7749f860601c9e5aac8"><div class="ttname"><a href="../../da/d07/a29197.html#aec81d4f80c7cb7749f860601c9e5aac8">ProcChanceTestHelper::CascadeProcConfig::auraHasDisableProcAttr</a></div><div class="ttdeci">bool auraHasDisableProcAttr</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:509</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00509">ProcChanceTestHelper::CascadeProcConfig::auraHasDisableProcAttr</a>, and <a class="el" href="../../#l00508">ProcChanceTestHelper::CascadeProcConfig::triggeringSpellIsProcDisabled</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00162">anonymous_namespace{SpellImmunityTest.cpp}::ApplyEffectsWithMovementImmunity()</a>, <a class="el" href="../../#l00081">anonymous_namespace{SpellImmunityTest.cpp}::HasOnlyDamageEffects()</a>, <a class="el" href="../../#l00111">anonymous_namespace{SpellImmunityTest.cpp}::IsFullyImmunedByStunImmunity()</a>, <a class="el" href="../../#l00095">anonymous_namespace{SpellImmunityTest.cpp}::IsStunSpell()</a>, <a class="el" href="../../#l00199">anonymous_namespace{SpellImmunityTest.cpp}::MakeCycloneLikeSpell()</a>, <a class="el" href="../../#l00184">anonymous_namespace{SpellImmunityTest.cpp}::MakeDamageOnlySpell()</a>, <a class="el" href="../../#l00191">anonymous_namespace{SpellImmunityTest.cpp}::MakeFrostboltLikeSpell()</a>, and <a class="el" href="../../#l00206">anonymous_namespace{SpellImmunityTest.cpp}::MakeSlowOnlySpell()</a>.</p>
 
 </div>
 </div>
@@ -176,8 +139,8 @@ Protected Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/d6a/a29337.html">CascadeProcSuppressionTest</a></li>
-    <li class="footer">Generated on Mon Apr 20 2026 21:15:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/d83/a05109.html">anonymous_namespace{SpellImmunityTest.cpp}</a></li><li class="navelem"><a class="el" href="../../dd/d6a/a29337.html">SpellDesc</a></li>
+    <li class="footer">Generated on Mon Apr 27 2026 21:39:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

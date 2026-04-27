@@ -1,6 +1,6 @@
 var a23625 =
 [
-    [ "go_apexis_relic", "de/dd4/a23625.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "de/dd4/a23625.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "de/dd4/a23625.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "npc_aeranasAI", "d2/d86/a23629.html", "d2/d86/a23629" ],
+    [ "npc_aeranas", "de/dd4/a23625.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "de/dd4/a23625.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

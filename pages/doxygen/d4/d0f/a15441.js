@@ -1,6 +1,10 @@
 var a15441 =
 [
-    [ "FilterTargets", "d4/d0f/a15441.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
-    [ "PrepareSpellScript", "d4/d0f/a15441.html#a511e54100036307aa5d37bc959405c73", null ],
-    [ "Register", "d4/d0f/a15441.html#a31d1d590f0e6fc2e56322d606961828f", null ]
+    [ "boss_huhuran", "d4/d0f/a15441.html#a64e0b20891992764c708cbb661c18196", null ],
+    [ "DamageTaken", "d4/d0f/a15441.html#adb47086f29b41f4168ad5d1b2728547d", null ],
+    [ "JustEngagedWith", "d4/d0f/a15441.html#a08f1d6550680d5bcf07332eade115730", null ],
+    [ "Reset", "d4/d0f/a15441.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
+    [ "UpdateAI", "d4/d0f/a15441.html#a23962e668f046b373f94ea6a2d75574a", null ],
+    [ "_berserk", "d4/d0f/a15441.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
+    [ "_hardEnrage", "d4/d0f/a15441.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
 ];

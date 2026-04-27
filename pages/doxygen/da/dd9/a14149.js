@@ -1,8 +1,7 @@
 var a14149 =
 [
-    [ "FilterTargets", "da/dd9/a14149.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "da/dd9/a14149.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "da/dd9/a14149.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "da/dd9/a14149.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "da/dd9/a14149.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "npc_zuljin_vortex", "da/dd9/a14149.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "da/dd9/a14149.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "da/dd9/a14149.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "da/dd9/a14149.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

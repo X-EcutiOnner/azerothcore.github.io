@@ -1,7 +1,8 @@
 var a15957 =
 [
-    [ "npc_wizzlecrank_shredderAI", "da/d5b/a15961.html", "da/d5b/a15961" ],
-    [ "npc_wizzlecrank_shredder", "d2/dcb/a15957.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
-    [ "GetAI", "d2/dcb/a15957.html#a5c42cc6d8cf2642333731138077af66e", null ],
-    [ "OnQuestAccept", "d2/dcb/a15957.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
+    [ "npc_paoka_swiftmountainAI", "d2/dcb/a15957.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d2/dcb/a15957.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d2/dcb/a15957.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d2/dcb/a15957.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
+    [ "WaypointReached", "d2/dcb/a15957.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

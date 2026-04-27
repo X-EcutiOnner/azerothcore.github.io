@@ -1,7 +1,7 @@
 var a24409 =
 [
-    [ "HandleProc", "db/dc9/a24409.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
-    [ "PrepareAuraScript", "db/dc9/a24409.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
-    [ "Register", "db/dc9/a24409.html#affd88326ea293f82055700ec7183d194", null ],
-    [ "Validate", "db/dc9/a24409.html#acc8797afece569e68c6d754ca09e206d", null ]
+    [ "CalculateAmount", "db/dc9/a24409.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
+    [ "Load", "db/dc9/a24409.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
+    [ "PrepareAuraScript", "db/dc9/a24409.html#a93df43072a344485c389160306b1fecd", null ],
+    [ "Register", "db/dc9/a24409.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
 ];

@@ -1,13 +1,13 @@
 var a29109 =
 [
-    [ "Secret", "db/dc0/a29113.html", "db/dc0/a29113" ],
-    [ "SecretMgr", "de/d6d/a29109.html#a28ee0858a14656d7fc464eb604b127b7", null ],
-    [ "~SecretMgr", "de/d6d/a29109.html#ae6f15def262312b17456583b4e548d99", null ],
-    [ "SecretMgr", "de/d6d/a29109.html#ab48b891b84f116dc5efffe0a10a82f79", null ],
-    [ "AttemptLoad", "de/d6d/a29109.html#a65c2fd304c0f851f81cd80037deac8fb", null ],
-    [ "AttemptTransition", "de/d6d/a29109.html#a4b6cbe75e50ec3e4765fdb9e965ee84f", null ],
-    [ "GetSecret", "de/d6d/a29109.html#aff0b6ca546a62a3d6e7da52c3a2752bd", null ],
-    [ "Initialize", "de/d6d/a29109.html#a929de7b687d7c6bb91ef35306134ebac", null ],
-    [ "instance", "de/d6d/a29109.html#a27e237503dc523367fa94bd28a289d97", null ],
-    [ "_secrets", "de/d6d/a29109.html#a143bb8b3855a9f28df72abc9cfc94f3c", null ]
+    [ "Context", "de/d6d/a29109.html#a0dd9f22f9528a05b229828e4a2c97757", null ],
+    [ "CreateEventInfo", "de/d6d/a29109.html#a81032fc22ce45902d34cf897606bd966", null ],
+    [ "CreateProcEntry", "de/d6d/a29109.html#a26531bd3f3256075455b32b42a172f6a", null ],
+    [ "CreateSpellInfo", "de/d6d/a29109.html#adee75944dc2e9a3fff7848d0ccfff527", null ],
+    [ "SetUp", "de/d6d/a29109.html#a65b0d4a0beb4c2f986f71ff5732e0f3c", null ],
+    [ "TearDown", "de/d6d/a29109.html#a782580d41f8233b93d51fe347601e730", null ],
+    [ "TestCanProc", "de/d6d/a29109.html#a409ccb130f529cb20e5164b465e05ca6", null ],
+    [ "TestSpellFamilyMatch", "de/d6d/a29109.html#a97d06c4fdf207051543fbf8c9207242e", null ],
+    [ "_context", "de/d6d/a29109.html#a0b5925a6df47ba704bfc196cc89c4919", null ],
+    [ "_spellInfos", "de/d6d/a29109.html#a30ebff666ac835168f1bf7d6aa771e0c", null ]
 ];

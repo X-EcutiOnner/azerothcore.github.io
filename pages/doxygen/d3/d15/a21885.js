@@ -1,7 +1,6 @@
 var a21885 =
 [
-    [ "HandleDummy", "d3/d15/a21885.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "d3/d15/a21885.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "d3/d15/a21885.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "d3/d15/a21885.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_icefangAI", "d2/ddd/a21889.html", "d2/ddd/a21889" ],
+    [ "npc_icefang", "d3/d15/a21885.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "d3/d15/a21885.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

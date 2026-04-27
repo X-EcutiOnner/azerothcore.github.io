@@ -1,8 +1,7 @@
 var a15293 =
 [
-    [ "HandleScript", "d3/d12/a15293.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "d3/d12/a15293.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "d3/d12/a15293.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "d3/d12/a15293.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "d3/d12/a15293.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "boss_kurinnaxx", "d3/d12/a15293.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d3/d12/a15293.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d3/d12/a15293.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d3/d12/a15293.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

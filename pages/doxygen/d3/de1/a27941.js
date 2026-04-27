@@ -1,6 +1,5 @@
 var a27941 =
 [
-    [ "guard_shattrath_scryerAI", "dd/d70/a27945.html", "dd/d70/a27945" ],
-    [ "guard_shattrath_scryer", "d3/de1/a27941.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "d3/de1/a27941.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "item_mysterious_egg", "d3/de1/a27941.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
+    [ "OnExpire", "d3/de1/a27941.html#a5ea72284626826b75819f89b3b91c540", null ]
 ];

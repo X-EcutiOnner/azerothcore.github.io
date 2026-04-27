@@ -1,6 +1,14 @@
 var a23429 =
 [
-    [ "OnApply", "dc/d85/a23429.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "dc/d85/a23429.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "dc/d85/a23429.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "advisor_baseAI", "dc/d85/a23429.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
+    [ "DamageTaken", "dc/d85/a23429.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
+    [ "JustDied", "dc/d85/a23429.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
+    [ "JustEngagedWith", "dc/d85/a23429.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
+    [ "JustRespawned", "dc/d85/a23429.html#a6491439ac2fd4acec3379a17be92251e", null ],
+    [ "Reset", "dc/d85/a23429.html#a008c30414ecebf4e2996d06b81539255", null ],
+    [ "ScheduleEvents", "dc/d85/a23429.html#a24d22ccec834770bc5bcf44119fb0045", null ],
+    [ "SpellHit", "dc/d85/a23429.html#a4fc41f3985244b6baf25b3417f67054e", null ],
+    [ "UpdateAI", "dc/d85/a23429.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
+    [ "_feigning", "dc/d85/a23429.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
+    [ "_preventDeath", "dc/d85/a23429.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
 ];

@@ -1,6 +1,5 @@
 var a27845 =
 [
-    [ "go_gilded_brazierAI", "df/dec/a27849.html", "df/dec/a27849" ],
-    [ "go_gilded_brazier", "d0/de3/a27845.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "d0/de3/a27845.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "go_tele_to_dalaran_crystal", "d0/de3/a27845.html#ab41268b7d568e8f189338f27cd90a62c", null ],
+    [ "OnGossipHello", "d0/de3/a27845.html#a7f754a29249653ca7848494310ef1a8d", null ]
 ];

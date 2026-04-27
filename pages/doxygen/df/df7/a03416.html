@@ -111,7 +111,8 @@ $(document).ready(function(){initNavTree('df/df7/a03416.html','../../'); initRes
   <div class="headertitle"><div class="title">instance_karazhan.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaBoundary.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">GameObject.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
@@ -152,6 +153,8 @@ Variables</h2></td></tr>
 <tr class="separator:a1461582839e3b7fdbb7397e5d2086e31"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/db2/a09929.html">DoorData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df7/a03416.html#a69c4a0ca4694d5ed1d42f0373dd5d80c">doorData</a> []</td></tr>
 <tr class="separator:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa75d7d0ffe0cef214f982966c33db1c1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dc0/a09937.html">BossBoundaryData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df7/a03416.html#aa75d7d0ffe0cef214f982966c33db1c1">boundaries</a></td></tr>
+<tr class="separator:aa75d7d0ffe0cef214f982966c33db1c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="adc62e82adedf1c9e8d47332aaa7a4cf5" name="adc62e82adedf1c9e8d47332aaa7a4cf5"></a>
@@ -168,17 +171,17 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  578</span>{</div>
-<div class="line"><span class="lineno">  579</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d28/a13105.html">instance_karazhan</a>();</div>
-<div class="line"><span class="lineno">  580</span>    <a class="code hl_define" href="../../d5/dee/a00518.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d75/a13113.html">spell_karazhan_brittle_bones_aura</a>);</div>
-<div class="line"><span class="lineno">  581</span>    <a class="code hl_define" href="../../d5/dee/a00518.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/d5b/a13117.html">spell_karazhan_overload_aura</a>);</div>
-<div class="line"><span class="lineno">  582</span>    <a class="code hl_define" href="../../d5/dee/a00518.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d86/a13121.html">spell_karazhan_blink</a>);</div>
-<div class="line"><span class="lineno">  583</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  586</span>{</div>
+<div class="line"><span class="lineno">  587</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d28/a13105.html">instance_karazhan</a>();</div>
+<div class="line"><span class="lineno">  588</span>    <a class="code hl_define" href="../../d5/dee/a00518.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d75/a13113.html">spell_karazhan_brittle_bones_aura</a>);</div>
+<div class="line"><span class="lineno">  589</span>    <a class="code hl_define" href="../../d5/dee/a00518.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/d5b/a13117.html">spell_karazhan_overload_aura</a>);</div>
+<div class="line"><span class="lineno">  590</span>    <a class="code hl_define" href="../../d5/dee/a00518.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d86/a13121.html">spell_karazhan_blink</a>);</div>
+<div class="line"><span class="lineno">  591</span>}</div>
 <div class="ttc" id="aa00518_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d5/dee/a00518.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa13105_html"><div class="ttname"><a href="../../d2/d28/a13105.html">instance_karazhan</a></div><div class="ttdef"><b>Definition:</b> instance_karazhan.cpp:69</div></div>
-<div class="ttc" id="aa13113_html"><div class="ttname"><a href="../../d6/d75/a13113.html">spell_karazhan_brittle_bones_aura</a></div><div class="ttdef"><b>Definition:</b> instance_karazhan.cpp:504</div></div>
-<div class="ttc" id="aa13117_html"><div class="ttname"><a href="../../dc/d5b/a13117.html">spell_karazhan_overload_aura</a></div><div class="ttdef"><b>Definition:</b> instance_karazhan.cpp:533</div></div>
-<div class="ttc" id="aa13121_html"><div class="ttname"><a href="../../d2/d86/a13121.html">spell_karazhan_blink</a></div><div class="ttdef"><b>Definition:</b> instance_karazhan.cpp:555</div></div>
+<div class="ttc" id="aa13105_html"><div class="ttname"><a href="../../d2/d28/a13105.html">instance_karazhan</a></div><div class="ttdef"><b>Definition:</b> instance_karazhan.cpp:76</div></div>
+<div class="ttc" id="aa13113_html"><div class="ttname"><a href="../../d6/d75/a13113.html">spell_karazhan_brittle_bones_aura</a></div><div class="ttdef"><b>Definition:</b> instance_karazhan.cpp:512</div></div>
+<div class="ttc" id="aa13117_html"><div class="ttname"><a href="../../dc/d5b/a13117.html">spell_karazhan_overload_aura</a></div><div class="ttdef"><b>Definition:</b> instance_karazhan.cpp:541</div></div>
+<div class="ttc" id="aa13121_html"><div class="ttname"><a href="../../d2/d86/a13121.html">spell_karazhan_blink</a></div><div class="ttdef"><b>Definition:</b> instance_karazhan.cpp:563</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
@@ -187,6 +190,31 @@ Variables</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
+<a id="aa75d7d0ffe0cef214f982966c33db1c1" name="aa75d7d0ffe0cef214f982966c33db1c1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa75d7d0ffe0cef214f982966c33db1c1">&#9670;&#160;</a></span>boundaries</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dc0/a09937.html">BossBoundaryData</a> const boundaries</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94a3d9ae12bd492b28ff4cce04e5d32e641">DATA_ATTUMEN</a>,     <span class="keyword">new</span> <a class="code hl_class" href="../../d3/dfc/a10065.html">CircleBoundary</a>(<a class="code hl_struct" href="../../d2/d90/a08741.html">Position</a>(-11126.3f, -1929.11f), 50.0f) },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94a3d9ae12bd492b28ff4cce04e5d32e641">DATA_ATTUMEN</a>,     <span class="keyword">new</span> <a class="code hl_class" href="../../da/d65/a10081.html">ZRangeBoundary</a>(49.0f, 55.0f) },</div>
+<div class="line">}</div>
+<div class="ttc" id="aa03377_html_ac1c8b8b6be9767f56555c40adf01ee94a3d9ae12bd492b28ff4cce04e5d32e641"><div class="ttname"><a href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94a3d9ae12bd492b28ff4cce04e5d32e641">DATA_ATTUMEN</a></div><div class="ttdeci">@ DATA_ATTUMEN</div><div class="ttdef"><b>Definition:</b> karazhan.h:30</div></div>
+<div class="ttc" id="aa08741_html"><div class="ttname"><a href="../../d2/d90/a08741.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
+<div class="ttc" id="aa10065_html"><div class="ttname"><a href="../../d3/dfc/a10065.html">CircleBoundary</a></div><div class="ttdef"><b>Definition:</b> AreaBoundary.h:89</div></div>
+<div class="ttc" id="aa10081_html"><div class="ttname"><a href="../../da/d65/a10081.html">ZRangeBoundary</a></div><div class="ttdef"><b>Definition:</b> AreaBoundary.h:143</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00087">instance_karazhan::instance_karazhan_InstanceMapScript::instance_karazhan_InstanceMapScript()</a>.</p>
+
+</div>
+</div>
 <a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
 
@@ -232,7 +260,6 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa03377_html_ac1c8b8b6be9767f56555c40adf01ee94a1a288e2b317a003aba1a3fd7746c9cf1"><div class="ttname"><a href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94a1a288e2b317a003aba1a3fd7746c9cf1">DATA_DOROTHEE</a></div><div class="ttdeci">@ DATA_DOROTHEE</div><div class="ttdef"><b>Definition:</b> karazhan.h:69</div></div>
 <div class="ttc" id="aa03377_html_ac1c8b8b6be9767f56555c40adf01ee94a24a573bf62f453c9706f5179dc0e5d5c"><div class="ttname"><a href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94a24a573bf62f453c9706f5179dc0e5d5c">DATA_ROMULO</a></div><div class="ttdeci">@ DATA_ROMULO</div><div class="ttdef"><b>Definition:</b> karazhan.h:70</div></div>
 <div class="ttc" id="aa03377_html_ac1c8b8b6be9767f56555c40adf01ee94a2ae30e5eb5612a4c5d3e4c2192622214"><div class="ttname"><a href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94a2ae30e5eb5612a4c5d3e4c2192622214">DATA_STRAWMAN</a></div><div class="ttdeci">@ DATA_STRAWMAN</div><div class="ttdef"><b>Definition:</b> karazhan.h:74</div></div>
-<div class="ttc" id="aa03377_html_ac1c8b8b6be9767f56555c40adf01ee94a3d9ae12bd492b28ff4cce04e5d32e641"><div class="ttname"><a href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94a3d9ae12bd492b28ff4cce04e5d32e641">DATA_ATTUMEN</a></div><div class="ttdeci">@ DATA_ATTUMEN</div><div class="ttdef"><b>Definition:</b> karazhan.h:30</div></div>
 <div class="ttc" id="aa03377_html_ac1c8b8b6be9767f56555c40adf01ee94a428e94125fd4312ba1329315a980718c"><div class="ttname"><a href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94a428e94125fd4312ba1329315a980718c">DATA_JULIANNE</a></div><div class="ttdeci">@ DATA_JULIANNE</div><div class="ttdef"><b>Definition:</b> karazhan.h:71</div></div>
 <div class="ttc" id="aa03377_html_ac1c8b8b6be9767f56555c40adf01ee94a698f3c32afd1a7a7bf913cff22681da1"><div class="ttname"><a href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94a698f3c32afd1a7a7bf913cff22681da1">DATA_MIDNIGHT</a></div><div class="ttdeci">@ DATA_MIDNIGHT</div><div class="ttdef"><b>Definition:</b> karazhan.h:59</div></div>
 <div class="ttc" id="aa03377_html_ac1c8b8b6be9767f56555c40adf01ee94a9b8d41116bfd0e2974abe3fbd29a7e01"><div class="ttname"><a href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94a9b8d41116bfd0e2974abe3fbd29a7e01">DATA_TERESTIAN</a></div><div class="ttdeci">@ DATA_TERESTIAN</div><div class="ttdef"><b>Definition:</b> karazhan.h:37</div></div>
@@ -242,7 +269,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa03377_html_ac1c8b8b6be9767f56555c40adf01ee94ac034fb12aeaf0c4947b1ee6abaf71995"><div class="ttname"><a href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94ac034fb12aeaf0c4947b1ee6abaf71995">DATA_ARAN</a></div><div class="ttdeci">@ DATA_ARAN</div><div class="ttdef"><b>Definition:</b> karazhan.h:36</div></div>
 <div class="ttc" id="aa03377_html_ac1c8b8b6be9767f56555c40adf01ee94ad9c601dfad3d6d50da02d542a4d8ed1f"><div class="ttname"><a href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94ad9c601dfad3d6d50da02d542a4d8ed1f">DATA_NIGHTBANE</a></div><div class="ttdeci">@ DATA_NIGHTBANE</div><div class="ttdef"><b>Definition:</b> karazhan.h:41</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00080">instance_karazhan::instance_karazhan_InstanceMapScript::instance_karazhan_InstanceMapScript()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00087">instance_karazhan::instance_karazhan_InstanceMapScript::instance_karazhan_InstanceMapScript()</a>.</p>
 
 </div>
 </div>
@@ -270,7 +297,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa03377_html_ae24e433b8d42cf365463d73feb31d490abccd2e145e0976111dc7294ae9595d8e"><div class="ttname"><a href="../../dd/d8e/a03377.html#ae24e433b8d42cf365463d73feb31d490abccd2e145e0976111dc7294ae9595d8e">GO_MASTERS_TERRACE_DOOR</a></div><div class="ttdeci">@ GO_MASTERS_TERRACE_DOOR</div><div class="ttdef"><b>Definition:</b> karazhan.h:156</div></div>
 <div class="ttc" id="aa03377_html_ae24e433b8d42cf365463d73feb31d490ae2cadfe21e44b1b9042c7112fc39f3bf"><div class="ttname"><a href="../../dd/d8e/a03377.html#ae24e433b8d42cf365463d73feb31d490ae2cadfe21e44b1b9042c7112fc39f3bf">GO_MASTERS_TERRACE_DOOR2</a></div><div class="ttdeci">@ GO_MASTERS_TERRACE_DOOR2</div><div class="ttdef"><b>Definition:</b> karazhan.h:157</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00080">instance_karazhan::instance_karazhan_InstanceMapScript::instance_karazhan_InstanceMapScript()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00087">instance_karazhan::instance_karazhan_InstanceMapScript::instance_karazhan_InstanceMapScript()</a>.</p>
 
 </div>
 </div>
@@ -293,7 +320,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa03377_html_ac1c8b8b6be9767f56555c40adf01ee94abcbdbfaa7ef0fccace731fad0f4ab24e"><div class="ttname"><a href="../../dd/d8e/a03377.html#ac1c8b8b6be9767f56555c40adf01ee94abcbdbfaa7ef0fccace731fad0f4ab24e">DATA_GO_SIDE_ENTRANCE_DOOR</a></div><div class="ttdeci">@ DATA_GO_SIDE_ENTRANCE_DOOR</div><div class="ttdef"><b>Definition:</b> karazhan.h:56</div></div>
 <div class="ttc" id="aa03377_html_ae24e433b8d42cf365463d73feb31d490abbdc282732379e1cd58b6a8551700751"><div class="ttname"><a href="../../dd/d8e/a03377.html#ae24e433b8d42cf365463d73feb31d490abbdc282732379e1cd58b6a8551700751">GO_SIDE_ENTRANCE_DOOR</a></div><div class="ttdeci">@ GO_SIDE_ENTRANCE_DOOR</div><div class="ttdef"><b>Definition:</b> karazhan.h:158</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>, <a class="el" href="../../#l00080">instance_karazhan::instance_karazhan_InstanceMapScript::instance_karazhan_InstanceMapScript()</a>, and <a class="el" href="../../#l00193">InstanceScript::LoadObjectData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02214">GameObject::GetScriptId()</a>, <a class="el" href="../../#l00087">instance_karazhan::instance_karazhan_InstanceMapScript::instance_karazhan_InstanceMapScript()</a>, and <a class="el" href="../../#l00193">InstanceScript::LoadObjectData()</a>.</p>
 
 </div>
 </div>
@@ -315,7 +342,7 @@ Variables</h2></td></tr>
 <div class="line">    { -10899.903320f, -2085.573730f, 49.474449f, 1.38f }  </div>
 <div class="line">}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00152">instance_karazhan::instance_karazhan_InstanceMapScript::OnUnitDeath()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00160">instance_karazhan::instance_karazhan_InstanceMapScript::OnUnitDeath()</a>.</p>
 
 </div>
 </div>
@@ -325,7 +352,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_4741540d90fc7603479c20e4d5a7e517.html">Karazhan</a></li><li class="navelem"><a class="el" href="../../df/df7/a03416.html">instance_karazhan.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 20 2026 21:14:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 27 2026 21:36:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

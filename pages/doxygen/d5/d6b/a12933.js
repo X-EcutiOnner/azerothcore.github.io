@@ -1,7 +1,6 @@
 var a12933 =
 [
     [ "boss_attumen", "d5/d6b/a12933.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
-    [ "CanMeleeHit", "d5/d6b/a12933.html#ae685929086090928802854cc93f9934a", null ],
     [ "DamageTaken", "d5/d6b/a12933.html#a0b426b760d9ace05211c3383e7628022", null ],
     [ "EnterEvadeMode", "d5/d6b/a12933.html#af00f91294c04d0fe932c922fd270c5dc", null ],
     [ "Initialize", "d5/d6b/a12933.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],

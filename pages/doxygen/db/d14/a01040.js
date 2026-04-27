@@ -104,6 +104,7 @@ var a01040 =
       [ "CONDITION_WORLD_SCRIPT", "db/d14/a01040.html#aab5835ceff4b64ce6db4148256e0a0f0a01b7b91ea994f8e304d9402772d4c74d", null ],
       [ "CONDITION_AI_DATA", "db/d14/a01040.html#aab5835ceff4b64ce6db4148256e0a0f0a253b100542c4eab659d45953fa66d8af", null ],
       [ "CONDITION_PLAYER_QUEUED_RANDOM_DUNGEON", "db/d14/a01040.html#aab5835ceff4b64ce6db4148256e0a0f0a063d588469822fd888e505458d40a661", null ],
+      [ "CONDITION_UNIT_IN_COMBAT", "db/d14/a01040.html#aab5835ceff4b64ce6db4148256e0a0f0a4be8be94b759897bf588f0eb0456acf3", null ],
       [ "CONDITION_AC_END", "db/d14/a01040.html#aab5835ceff4b64ce6db4148256e0a0f0add0ddf7c2278950223ec24a30a0a6ed9", null ]
     ] ],
     [ "InstanceInfo", "db/d14/a01040.html#a71c9edff7d630e15fff711b8eb0a130c", [

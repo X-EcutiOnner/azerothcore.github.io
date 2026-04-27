@@ -1,7 +1,6 @@
 var a14021 =
 [
-    [ "o", "d5/dd5/a14021.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
-    [ "x", "d5/dd5/a14021.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
-    [ "y", "d5/dd5/a14021.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
-    [ "z", "d5/dd5/a14021.html#abf42d988d416ebe409100c4b860d26db", null ]
+    [ "boss_blight_wormAI", "d4/d02/a14025.html", "d4/d02/a14025" ],
+    [ "boss_blight_worm", "d5/dd5/a14021.html#a6dea51baebc6b44ef94342565136e56d", null ],
+    [ "GetAI", "d5/dd5/a14021.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
 ];

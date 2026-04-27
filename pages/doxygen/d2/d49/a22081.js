@@ -1,6 +1,8 @@
 var a22081 =
 [
-    [ "npc_released_offspring_harkoaAI", "d3/d36/a22085.html", "d3/d36/a22085" ],
-    [ "npc_released_offspring_harkoa", "d2/d49/a22081.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "d2/d49/a22081.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "HandleApply", "d2/d49/a22081.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "d2/d49/a22081.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "d2/d49/a22081.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "d2/d49/a22081.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "d2/d49/a22081.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

@@ -1,6 +1,7 @@
 var a18185 =
 [
-    [ "npc_big_oozeAI", "dd/d36/a18189.html", "dd/d36/a18189" ],
-    [ "npc_big_ooze", "dc/dba/a18185.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
-    [ "GetAI", "dc/dba/a18185.html#ad06308602d69b51ff3f269bda6c465b5", null ]
+    [ "HandleScript", "dc/dba/a18185.html#a802f667b20bccd3395c233482aa2485b", null ],
+    [ "PrepareSpellScript", "dc/dba/a18185.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
+    [ "Register", "dc/dba/a18185.html#a730fded490df68f501010f952ceea40b", null ],
+    [ "Validate", "dc/dba/a18185.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
 ];

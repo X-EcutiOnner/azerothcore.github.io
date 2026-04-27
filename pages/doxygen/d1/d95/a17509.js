@@ -1,6 +1,6 @@
 var a17509 =
 [
-    [ "npc_ball_of_flameAI", "db/dd9/a17513.html", "db/dd9/a17513" ],
-    [ "npc_ball_of_flame", "d1/d95/a17509.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
-    [ "GetAI", "d1/d95/a17509.html#ac0309668f9f0ca85a644d4928966e577", null ]
+    [ "AddExtraDamage", "d1/d95/a17509.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "d1/d95/a17509.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "d1/d95/a17509.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

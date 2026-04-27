@@ -1,9 +1,11 @@
 var a15985 =
 [
-    [ "npc_pluckyAI", "dc/def/a15985.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "dc/def/a15985.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "dc/def/a15985.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "dc/def/a15985.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "dc/def/a15985.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "dc/def/a15985.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_ameAI", "dc/def/a15985.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
+    [ "JustDied", "dc/def/a15985.html#a9b77f94f112477509c3163945ceb8201", null ],
+    [ "JustSummoned", "dc/def/a15985.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
+    [ "Reset", "dc/def/a15985.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
+    [ "UpdateAI", "dc/def/a15985.html#a0a073e4c216985607aa51099044ff6c5", null ],
+    [ "WaypointReached", "dc/def/a15985.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "WaypointReached", "dc/def/a15985.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "DemoralizingShoutTimer", "dc/def/a15985.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

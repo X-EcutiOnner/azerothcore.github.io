@@ -1,12 +1,6 @@
 var a19749 =
 [
-    [ "boss_sjonnirAI", "d8/d2a/a19749.html#a53127766553d1bee4d7331e6f4fcda05", null ],
-    [ "ActivatePipe", "d8/d2a/a19749.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
-    [ "DoAction", "d8/d2a/a19749.html#afb2f73908bc17c763a8028af4b499481", null ],
-    [ "JustDied", "d8/d2a/a19749.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
-    [ "JustEngagedWith", "d8/d2a/a19749.html#aade776baf55155bb3814129ddc2f9632", null ],
-    [ "KilledUnit", "d8/d2a/a19749.html#ac79740a8c5e4263f2917647c74e995aa", null ],
-    [ "Reset", "d8/d2a/a19749.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "ScheduleTasks", "d8/d2a/a19749.html#a5c3c31c5be424795e4e96291c910c73c", null ],
-    [ "SlugeCount", "d8/d2a/a19749.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d1/d11/a19753.html", "d1/d11/a19753" ],
+    [ "boss_sjonnir_malformed_ooze", "d8/d2a/a19749.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "d8/d2a/a19749.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

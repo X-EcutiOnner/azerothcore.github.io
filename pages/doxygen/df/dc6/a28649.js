@@ -1,7 +1,7 @@
 var a28649 =
 [
-    [ "bit_index", "df/dc6/a28649.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "df/dc6/a28649.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "df/dc6/a28649.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "df/dc6/a28649.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "Displayid", "df/dc6/a28649.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "df/dc6/a28649.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "df/dc6/a28649.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "df/dc6/a28649.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

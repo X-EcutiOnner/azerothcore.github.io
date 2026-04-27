@@ -1,7 +1,6 @@
 var a22997 =
 [
-    [ "boss_hydromancer_thespia", "dc/d75/a22997.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "dc/d75/a22997.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "dc/d75/a22997.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "dc/d75/a22997.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d3/d3a/a23001.html", "d3/d3a/a23001" ],
+    [ "instance_steam_vault", "dc/d75/a22997.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "dc/d75/a22997.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

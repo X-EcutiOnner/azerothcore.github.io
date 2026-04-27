@@ -1,9 +1,8 @@
 var a28613 =
 [
-    [ "npc_arcanite_dragonling", "da/d92/a28613.html#a9b7e4cefa312a16c90018d655ad94758", null ],
-    [ "CanAIAttack", "da/d92/a28613.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
-    [ "IsSummonedBy", "da/d92/a28613.html#a921b35a91c4f21258efdb41fd87413db", null ],
-    [ "JustEngagedWith", "da/d92/a28613.html#a65f6d779681861117f750b70154b3e0d", null ],
-    [ "Reset", "da/d92/a28613.html#a4468d91430add821bf7a7ab11d8063da", null ],
-    [ "UpdateAI", "da/d92/a28613.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
+    [ "gender", "da/d92/a28613.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "da/d92/a28613.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "da/d92/a28613.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "da/d92/a28613.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "da/d92/a28613.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

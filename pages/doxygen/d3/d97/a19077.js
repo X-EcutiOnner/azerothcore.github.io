@@ -1,5 +1,5 @@
 var a19077 =
 [
-    [ "at_icc_gauntlet_event", "d3/d97/a19077.html#ae8790bad655661aeda887f56b9393847", null ],
-    [ "OnTrigger", "d3/d97/a19077.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
+    [ "at_frozen_throne_teleport", "d3/d97/a19077.html#a8065b9f9b55b267be1757775f84de349", null ],
+    [ "OnTrigger", "d3/d97/a19077.html#ae1f9476b7f47320f545e702e9317bd03", null ]
 ];

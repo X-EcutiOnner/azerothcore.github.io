@@ -1,13 +1,21 @@
 var a29213 =
 [
-    [ "AuraConfig", "d8/db1/a29217.html", "d8/db1/a29217" ],
-    [ "ProcRecord", "d4/dc5/a29221.html", "d4/dc5/a29221" ],
-    [ "ProcChainGuardSimulator", "dd/df9/a29213.html#ad729e5f44922b9b6c44c9a4d732818e7", null ],
-    [ "CanProc", "dd/df9/a29213.html#a267703c4a51bf3e8020e3298c85b74b3", null ],
-    [ "GetProcDeep", "dd/df9/a29213.html#afe8e4320a882c474f883347860ad4d47", null ],
-    [ "GetRecords", "dd/df9/a29213.html#ae21baa9f43fb78e30dedfc6608684e9e", null ],
-    [ "SetCantProc", "dd/df9/a29213.html#ab479d1a30e547ce04775abe397cfea14", null ],
-    [ "SimulateTriggerAurasProc", "dd/df9/a29213.html#ab0a0af1461f0f94a87273f468bc5454d", null ],
-    [ "_procDeep", "dd/df9/a29213.html#a5fd0de564b32520971082df9620d40b4", null ],
-    [ "_records", "dd/df9/a29213.html#abdecfb4d1da86f5a5d4cd7c92c228617", null ]
+    [ "SpellInfoBuilder", "dd/df9/a29213.html#a1af4c9aaf8b9707697c1e030beee389a", null ],
+    [ "Build", "dd/df9/a29213.html#ab8ba5082d8c0d5d98837e7df20229906", null ],
+    [ "BuildUnique", "dd/df9/a29213.html#a96bd1eea56970fdc051fe3c494ee6396", null ],
+    [ "WithAttributes", "dd/df9/a29213.html#ad08396120fbe9b27e7ae6e156b338e95", null ],
+    [ "WithAttributesEx3", "dd/df9/a29213.html#ab92a2a4b9be30a760ce90467c7dfa234", null ],
+    [ "WithDmgClass", "dd/df9/a29213.html#aae876b0fda0da198b04bb43cf9b8851e", null ],
+    [ "WithEffect", "dd/df9/a29213.html#aec11a1d4ff5ce438e052d58bd6dbbd1f", null ],
+    [ "WithEffectBasePoints", "dd/df9/a29213.html#a5a480961571af48bd8cd13aefb58248f", null ],
+    [ "WithEffectDieSides", "dd/df9/a29213.html#adcf13d48e0289bce0a0de09c0ae5dbcc", null ],
+    [ "WithEffectTriggerSpell", "dd/df9/a29213.html#ab7e6d316ff67f1610695b89723b7e364", null ],
+    [ "WithId", "dd/df9/a29213.html#a1f23f2372b8fd2e7ce8e6aad99868892", null ],
+    [ "WithProcChance", "dd/df9/a29213.html#a9a82d31ff56c42ad264d1daf97c1a445", null ],
+    [ "WithProcCharges", "dd/df9/a29213.html#a49152801fbf954772dfdf6c94cb91fb8", null ],
+    [ "WithProcFlags", "dd/df9/a29213.html#a76fd05f8130f02bba9b159e9e09c4f52", null ],
+    [ "WithSchoolMask", "dd/df9/a29213.html#adbc655e188cade9675943e2f57a4a242", null ],
+    [ "WithSpellFamilyFlags", "dd/df9/a29213.html#aa4f184402512fd50c6066910787c4595", null ],
+    [ "WithSpellFamilyName", "dd/df9/a29213.html#ae64bb11a8877c42ed63addc210fae8cc", null ],
+    [ "_entryHelper", "dd/df9/a29213.html#a764a57f15f5383d3555b7763c0dc718b", null ]
 ];

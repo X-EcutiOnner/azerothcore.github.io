@@ -1,9 +1,9 @@
 var a26513 =
 [
-    [ "CheckProc", "d9/d75/a26513.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
-    [ "HandleDispel", "d9/d75/a26513.html#a64235032423050de10581165c57f8b0a", null ],
-    [ "HandleProc", "d9/d75/a26513.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
-    [ "PrepareAuraScript", "d9/d75/a26513.html#af7ba0eb96dca76a288dd034665822069", null ],
-    [ "Register", "d9/d75/a26513.html#ababc8b42c64740655864d2834a639384", null ],
-    [ "Validate", "d9/d75/a26513.html#a03ecf2489369cbb7a6dff555db153a96", null ]
+    [ "CheckProcDummy", "d9/d75/a26513.html#ae4e6d0683039ca5e8ff1877248048b3b", null ],
+    [ "CheckProcTriggerSpell", "d9/d75/a26513.html#affbff48ab9421bda51b3a5781188546d", null ],
+    [ "HandleProcDummy", "d9/d75/a26513.html#a0113a45bd4c28d1769df7b675de697ed", null ],
+    [ "PrepareAuraScript", "d9/d75/a26513.html#af7d9ac7e014bbda32275bb584f5e2660", null ],
+    [ "Register", "d9/d75/a26513.html#aa575597dab0670e768e20a3a06c6dc0a", null ],
+    [ "Validate", "d9/d75/a26513.html#a63844728796945e892985720296d0c07", null ]
 ];

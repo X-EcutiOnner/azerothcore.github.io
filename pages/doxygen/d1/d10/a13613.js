@@ -1,8 +1,8 @@
 var a13613 =
 [
-    [ "npc_demonic_vapor", "d1/d10/a13613.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
-    [ "IsSummonedBy", "d1/d10/a13613.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
-    [ "Reset", "d1/d10/a13613.html#a7d2b88ab26904cedaac34f03567806bc", null ],
-    [ "UpdateAI", "d1/d10/a13613.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
-    [ "_timer", "d1/d10/a13613.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
+    [ "FilterTargets", "d1/d10/a13613.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
+    [ "HandleAfterCast", "d1/d10/a13613.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
+    [ "Load", "d1/d10/a13613.html#aecfa38940ea3dd287179bdef3d290487", null ],
+    [ "PrepareSpellScript", "d1/d10/a13613.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
+    [ "Register", "d1/d10/a13613.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
 ];

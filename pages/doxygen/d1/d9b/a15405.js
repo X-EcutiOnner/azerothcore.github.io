@@ -1,6 +1,9 @@
 var a15405 =
 [
-    [ "HandleScriptEffect", "d1/d9b/a15405.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
-    [ "PrepareSpellScript", "d1/d9b/a15405.html#aa109d61baba87acf5bce5d44bff55214", null ],
-    [ "Register", "d1/d9b/a15405.html#ac8412777c84abfe56262d6d83163e9a1", null ]
+    [ "npc_eye_tentacle", "d1/d9b/a15405.html#a106deeb95d74597377d32e81695dc3c9", null ],
+    [ "JustDied", "d1/d9b/a15405.html#aac965d97034f4f623172297e4f82647e", null ],
+    [ "JustEngagedWith", "d1/d9b/a15405.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
+    [ "Reset", "d1/d9b/a15405.html#a715439dfa31b4cf9df7ddd678d912108", null ],
+    [ "UpdateAI", "d1/d9b/a15405.html#a48f9067f27d61e609a014669c1daedb9", null ],
+    [ "_portalGUID", "d1/d9b/a15405.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
 ];

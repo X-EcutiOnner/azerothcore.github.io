@@ -1,6 +1,6 @@
 var a21389 =
 [
-    [ "npc_mindless_ghoulAI", "d8/dcf/a21389.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "d8/dcf/a21389.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "d8/dcf/a21389.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "CheckCast", "d8/dcf/a21389.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "d8/dcf/a21389.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "d8/dcf/a21389.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

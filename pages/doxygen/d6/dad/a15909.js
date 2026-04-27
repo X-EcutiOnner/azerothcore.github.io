@@ -1,6 +1,6 @@
 var a15909 =
 [
-    [ "npc_custodian_of_timeAI", "d4/d87/a15913.html", "d4/d87/a15913" ],
-    [ "npc_custodian_of_time", "d6/dad/a15909.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "d6/dad/a15909.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "npc_tyrande_whisperwind", "d6/dad/a15909.html#af716e954e59221d26ee88032e895fa18", null ],
+    [ "JustDied", "d6/dad/a15909.html#a707f6167de4eafc6d81613d0edc29436", null ],
+    [ "UpdateAI", "d6/dad/a15909.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
 ];

@@ -1,13 +1,14 @@
 var a28593 =
 [
-    [ "npc_spring_rabbitAI", "d8/df4/a28593.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
-    [ "DoAction", "d8/df4/a28593.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
-    [ "JustEngagedWith", "d8/df4/a28593.html#a0c36f1dfc094007990f067544a940538", null ],
-    [ "Reset", "d8/df4/a28593.html#ac0f6b47044099016dd6453674b75b2c8", null ],
-    [ "UpdateAI", "d8/df4/a28593.html#af9da118068234755fa9219b84050d2a3", null ],
-    [ "bunnyTimer", "d8/df4/a28593.html#a99c2923194cf6a07bee8924abf98f470", null ],
-    [ "inLove", "d8/df4/a28593.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
-    [ "jumpTimer", "d8/df4/a28593.html#a5c17e00187ac87b23482dfbabb89809b", null ],
-    [ "rabbitGUID", "d8/df4/a28593.html#af838b25c8442767aaef16e95022cb062", null ],
-    [ "searchTimer", "d8/df4/a28593.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
+    [ "IsFlyable", "d8/df4/a28593.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
+    [ "IsSanctuary", "d8/df4/a28593.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
+    [ "area_level", "d8/df4/a28593.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
+    [ "area_name", "d8/df4/a28593.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
+    [ "exploreFlag", "d8/df4/a28593.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
+    [ "flags", "d8/df4/a28593.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
+    [ "ID", "d8/df4/a28593.html#ad02bb9fce21f464e38223581074a9e21", null ],
+    [ "LiquidTypeOverride", "d8/df4/a28593.html#abe743a4b542c4356aab9d41f3fae7457", null ],
+    [ "mapid", "d8/df4/a28593.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
+    [ "team", "d8/df4/a28593.html#ae18e0efef83e663452715f6be15ecaef", null ],
+    [ "zone", "d8/df4/a28593.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
 ];

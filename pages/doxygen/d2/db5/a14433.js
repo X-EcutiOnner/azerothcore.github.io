@@ -1,10 +1,6 @@
 var a14433 =
 [
-    [ "npc_zealot_lorkhan", "d2/db5/a14433.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "d2/db5/a14433.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "d2/db5/a14433.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "d2/db5/a14433.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "d2/db5/a14433.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "d2/db5/a14433.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "d2/db5/a14433.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "instance_zulgurub_InstanceMapScript", "d8/d07/a14437.html", "d8/d07/a14437" ],
+    [ "instance_zulgurub", "d2/db5/a14433.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
+    [ "GetInstanceScript", "d2/db5/a14433.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
 ];

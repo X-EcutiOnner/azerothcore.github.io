@@ -1,9 +1,7 @@
 var a20533 =
 [
-    [ "npc_xt002_scrapbot", "d8/de4/a20533.html#a0c7270ccbac5c12af8aaec998408046f", null ],
-    [ "JustDied", "d8/de4/a20533.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0", null ],
-    [ "MovementInform", "d8/de4/a20533.html#a7c167b396927f73736531b53056bc262", null ],
-    [ "Reset", "d8/de4/a20533.html#aa9753f72910da1bb56a090e77fc029fb", null ],
-    [ "UpdateAI", "d8/de4/a20533.html#a3f5cffc3225ced1ccdf3fc0964cc2c05", null ],
-    [ "_locked", "d8/de4/a20533.html#aaa4e129ebea658b0f2e224e024f6010f", null ]
+    [ "FilterTargets", "d8/de4/a20533.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "d8/de4/a20533.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "d8/de4/a20533.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "d8/de4/a20533.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

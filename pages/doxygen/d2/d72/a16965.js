@@ -1,7 +1,10 @@
 var a16965 =
 [
-    [ "HandleScriptEffect", "d2/d72/a16965.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "d2/d72/a16965.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "d2/d72/a16965.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "d2/d72/a16965.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "boss_tharon_jaAI", "d2/d72/a16965.html#a03025fa529e932f23479ff19b0cd8238", null ],
+    [ "DoAction", "d2/d72/a16965.html#a655fd83c2d671847fea9ae393c132fb9", null ],
+    [ "JustDied", "d2/d72/a16965.html#a7928b5db061f1073e1decc2d40601195", null ],
+    [ "JustEngagedWith", "d2/d72/a16965.html#aab194a8f802eeb625d1a74960acbe154", null ],
+    [ "KilledUnit", "d2/d72/a16965.html#a41e929a3768768eb06bafdee3269fd24", null ],
+    [ "Reset", "d2/d72/a16965.html#a272e8565a9b00a27505b301d52814eee", null ],
+    [ "UpdateAI", "d2/d72/a16965.html#a6f482cabcb0bd56711878a5ea297b950", null ]
 ];

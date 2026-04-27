@@ -1,6 +1,7 @@
 var a14969 =
 [
-    [ "FilterTargets", "db/d18/a14969.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "db/d18/a14969.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "db/d18/a14969.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "hyjalThrallAI", "d6/d49/a14973.html", "d6/d49/a14973" ],
+    [ "npc_hyjal_thrall", "db/d18/a14969.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "db/d18/a14969.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "db/d18/a14969.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

@@ -1,6 +1,7 @@
 var a20793 =
 [
-    [ "CheckRequirement", "d0/d83/a20793.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
-    [ "PrepareSpellScript", "d0/d83/a20793.html#a06e1b98a589717bdef6444912a7ad602", null ],
-    [ "Register", "d0/d83/a20793.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
+    [ "HandleEffectPeriodic", "d0/d83/a20793.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "d0/d83/a20793.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "d0/d83/a20793.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "d0/d83/a20793.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

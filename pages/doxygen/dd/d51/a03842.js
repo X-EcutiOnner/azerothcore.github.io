@@ -1,11 +1,11 @@
 var a03842 =
 [
-    [ "boss_auriaya", "df/dff/a19921.html", "df/dff/a19921" ],
-    [ "npc_auriaya_sanctum_sentry", "de/d9f/a19925.html", "de/d9f/a19925" ],
-    [ "npc_auriaya_feral_defender", "d4/d56/a19929.html", "d4/d56/a19929" ],
-    [ "spell_auriaya_sentinel_blast", "db/d0d/a19933.html", "db/d0d/a19933" ],
-    [ "achievement_auriaya_crazy_cat_lady", "d9/d46/a19937.html", "d9/d46/a19937" ],
-    [ "achievement_auriaya_nine_lives", "d6/d83/a19941.html", "d6/d83/a19941" ],
+    [ "boss_auriaya", "de/d4c/a19901.html", "de/d4c/a19901" ],
+    [ "npc_auriaya_sanctum_sentry", "d3/d8b/a19905.html", "d3/d8b/a19905" ],
+    [ "npc_auriaya_feral_defender", "d9/d30/a19909.html", "d9/d30/a19909" ],
+    [ "spell_auriaya_sentinel_blast", "d3/db7/a19913.html", "d3/db7/a19913" ],
+    [ "achievement_auriaya_crazy_cat_lady", "d5/db0/a19917.html", "d5/db0/a19917" ],
+    [ "achievement_auriaya_nine_lives", "df/dff/a19921.html", "df/dff/a19921" ],
     [ "AuriayaEvents", "dd/d51/a03842.html#a7e23dcf30d7d2163bfeb660ab6e77eac", [
       [ "EVENT_SUMMON_FERAL_DEFENDER", "dd/d51/a03842.html#a7e23dcf30d7d2163bfeb660ab6e77eacafe6d3d06c62342e7ad92842f6977317d", null ],
       [ "EVENT_TERRIFYING_SCREECH", "dd/d51/a03842.html#a7e23dcf30d7d2163bfeb660ab6e77eacadae3b32642ab8b6c6e415f0570d70e94", null ],
@@ -404,6 +404,9 @@ var a03842 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

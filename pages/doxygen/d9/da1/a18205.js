@@ -1,7 +1,6 @@
 var a18205 =
 [
-    [ "HandleScript", "d9/da1/a18205.html#a802f667b20bccd3395c233482aa2485b", null ],
-    [ "PrepareSpellScript", "d9/da1/a18205.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
-    [ "Register", "d9/da1/a18205.html#a730fded490df68f501010f952ceea40b", null ],
-    [ "Validate", "d9/da1/a18205.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
+    [ "npc_precious_iccAI", "db/d38/a18209.html", "db/d38/a18209" ],
+    [ "npc_precious_icc", "d9/da1/a18205.html#a463eb0df1edb17e154658dac131f0898", null ],
+    [ "GetAI", "d9/da1/a18205.html#aa63840c5968a089bff41dcd9c86d5849", null ]
 ];

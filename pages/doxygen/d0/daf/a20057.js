@@ -1,7 +1,10 @@
 var a20057 =
 [
-    [ "achievement_flame_leviathan_garage", "d0/daf/a20057.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "d0/daf/a20057.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "d0/daf/a20057.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "d0/daf/a20057.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "boss_freya_elder_ironbranch", "d0/daf/a20057.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
+    [ "JustDied", "d0/daf/a20057.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
+    [ "JustEngagedWith", "d0/daf/a20057.html#a34d87135b8dac114a8783941dba69559", null ],
+    [ "KilledUnit", "d0/daf/a20057.html#a20b5a622ac233d1280169f54942c894f", null ],
+    [ "Reset", "d0/daf/a20057.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
+    [ "UpdateAI", "d0/daf/a20057.html#a00dade8af24a2240187fb4e52138c0d1", null ],
+    [ "events", "d0/daf/a20057.html#a8693a800da6890004f3ae82fd9898480", null ]
 ];

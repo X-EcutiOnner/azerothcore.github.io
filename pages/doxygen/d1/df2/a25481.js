@@ -1,6 +1,6 @@
 var a25481 =
 [
-    [ "HandleActivateObject", "d1/df2/a25481.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "d1/df2/a25481.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "d1/df2/a25481.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "HandlePeriodicTick", "d1/df2/a25481.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
+    [ "PrepareAuraScript", "d1/df2/a25481.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
+    [ "Register", "d1/df2/a25481.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
 ];

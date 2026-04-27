@@ -1,6 +1,6 @@
 var a13921 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "db/d51/a13925.html", "db/d51/a13925" ],
-    [ "npc_bh_thalorien_dawnseeker", "d3/d55/a13921.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "d3/d55/a13921.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "CheckProc", "d3/d55/a13921.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "d3/d55/a13921.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "d3/d55/a13921.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

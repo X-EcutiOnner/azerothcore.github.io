@@ -1,5 +1,6 @@
 var a21445 =
 [
-    [ "at_q24545_frostmourne_cavern", "d0/d5c/a21445.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "d0/d5c/a21445.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "GhoulTargetCheck", "d0/d5c/a21445.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d0/d5c/a21445.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d0/d5c/a21445.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

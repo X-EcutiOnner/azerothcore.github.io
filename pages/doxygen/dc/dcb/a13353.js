@@ -1,25 +1,6 @@
 var a13353 =
 [
-    [ "npc_highlord_darion_mograineAI", "dc/dcb/a13353.html#a04be4c12a255c082b2a00daf40e86d96", null ],
-    [ "DoAction", "dc/dcb/a13353.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
-    [ "FinishFight", "dc/dcb/a13353.html#ab3fef458ca3180f49d78579f7485e76c", null ],
-    [ "GetData", "dc/dcb/a13353.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
-    [ "GetEntryFromSummons", "dc/dcb/a13353.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
-    [ "JustDied", "dc/dcb/a13353.html#a2875789a251381677106f74e61efaa77", null ],
-    [ "JustEngagedWith", "dc/dcb/a13353.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
-    [ "JustRespawned", "dc/dcb/a13353.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
-    [ "JustSummoned", "dc/dcb/a13353.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
-    [ "MovementInform", "dc/dcb/a13353.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
-    [ "Reset", "dc/dcb/a13353.html#a7dde645763bab79e34fa7421dbec518e", null ],
-    [ "SendInitialWorldStates", "dc/dcb/a13353.html#ab49e38e481fcb263337f5224c1db7383", null ],
-    [ "SendUpdateWorldState", "dc/dcb/a13353.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
-    [ "SummonedCreatureDies", "dc/dcb/a13353.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
-    [ "UpdateAI", "dc/dcb/a13353.html#a086efd646a7298ce17f7ead4688fa022", null ],
-    [ "battleStarted", "dc/dcb/a13353.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
-    [ "defendersRemaining", "dc/dcb/a13353.html#a49b41a9719548bffd2020caea7a94a3d", null ],
-    [ "events", "dc/dcb/a13353.html#a2155cbea373225904a3645a77738dea4", null ],
-    [ "resetExecuted", "dc/dcb/a13353.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
-    [ "scourgeRemaining", "dc/dcb/a13353.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
-    [ "startTimeRemaining", "dc/dcb/a13353.html#a503f8e5166ec08664085ae032611de61", null ],
-    [ "summons", "dc/dcb/a13353.html#ae592eef844350ca8fa8415f343d8dffc", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "d9/da6/a13357.html", "d9/da6/a13357" ],
+    [ "instance_scarlet_monastery", "dc/dcb/a13353.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
+    [ "GetInstanceScript", "dc/dcb/a13353.html#a1c66031217457809fbe56303085715a0", null ]
 ];

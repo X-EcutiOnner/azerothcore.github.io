@@ -1,6 +1,7 @@
 var a23509 =
 [
-    [ "HandleScriptEffect", "dd/d7c/a23509.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
-    [ "PrepareSpellScript", "dd/d7c/a23509.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
-    [ "Register", "dd/d7c/a23509.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
+    [ "boss_gatewatcher_gyrokill", "dd/d7c/a23509.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "dd/d7c/a23509.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "dd/d7c/a23509.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "dd/d7c/a23509.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

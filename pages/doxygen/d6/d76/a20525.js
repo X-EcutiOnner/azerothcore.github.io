@@ -1,18 +1,12 @@
 var a20525 =
 [
-    [ "boss_xt002", "d6/d76/a20525.html#afd9e4cbeadc453922b43d21dce621bd4", null ],
-    [ "AttachHeart", "d6/d76/a20525.html#a56cd1cb86b52bba527fd8610b5ec668e", null ],
-    [ "DoAction", "d6/d76/a20525.html#a5146e40e5530a014d552fbc92a62d595", null ],
-    [ "GetData", "d6/d76/a20525.html#a33d64c79af00c3e306fc0c63639d39fc", null ],
-    [ "JustDied", "d6/d76/a20525.html#a4afb96f905e61c8b35941a8481e19882", null ],
-    [ "JustEngagedWith", "d6/d76/a20525.html#a034de8d2644d5b1dfb07845faecc00a3", null ],
-    [ "JustReachedHome", "d6/d76/a20525.html#a31eae472c8da2f891e7d2c3424cf8075", null ],
-    [ "KilledUnit", "d6/d76/a20525.html#ae267d5941357b0e17061483103a8bb4c", null ],
-    [ "RescheduleEvents", "d6/d76/a20525.html#a3ff4223b4eecab9c8b193cd5f63d8f50", null ],
-    [ "Reset", "d6/d76/a20525.html#a0d33da735deae0fb5a22c4f7d6b19fa2", null ],
-    [ "UpdateAI", "d6/d76/a20525.html#a326eb111c3d94e1bb57e9fe6e1f38c57", null ],
-    [ "_gravityAchievement", "d6/d76/a20525.html#ae6fbbb1b43017878d74597bd95d51cd4", null ],
-    [ "_hardMode", "d6/d76/a20525.html#a2882a78918439bbc63902cab0179049c", null ],
-    [ "_healthCheck", "d6/d76/a20525.html#a82eedd2b45b0a67c3677ba398c24c540", null ],
-    [ "_nerfAchievement", "d6/d76/a20525.html#a19aeed1f8e5b3fb4ac34f752e5cb647d", null ]
+    [ "npc_xt002_boombot", "d6/d76/a20525.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
+    [ "DamageTaken", "d6/d76/a20525.html#a6686960dcf9050c62f707f80f8e378e9", null ],
+    [ "Explode", "d6/d76/a20525.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
+    [ "JustDied", "d6/d76/a20525.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
+    [ "MovementInform", "d6/d76/a20525.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
+    [ "Reset", "d6/d76/a20525.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
+    [ "UpdateAI", "d6/d76/a20525.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
+    [ "_boomed", "d6/d76/a20525.html#a4307aaf92856d146095497cf74ef3e67", null ],
+    [ "_locked", "d6/d76/a20525.html#ad46600f129729931422b5c9c70568e3f", null ]
 ];

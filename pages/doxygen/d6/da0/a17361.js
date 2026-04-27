@@ -1,6 +1,6 @@
 var a17361 =
 [
-    [ "entry", "d6/da0/a17361.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d6/da0/a17361.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d6/da0/a17361.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "npc_living_mojoAI", "d9/df7/a17365.html", "d9/df7/a17365" ],
+    [ "npc_living_mojo", "d6/da0/a17361.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d6/da0/a17361.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

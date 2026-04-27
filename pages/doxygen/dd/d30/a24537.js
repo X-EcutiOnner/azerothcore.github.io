@@ -1,7 +1,7 @@
 var a24537 =
 [
-    [ "HandleProc", "dd/d30/a24537.html#a537f3badee8fee83ff5b1aaa26bdf96d", null ],
-    [ "PrepareAuraScript", "dd/d30/a24537.html#ac234a738270dbe0d991e55da4d497490", null ],
-    [ "Register", "dd/d30/a24537.html#a8033ae66f1c92fdf596add2985d0a6b3", null ],
-    [ "Validate", "dd/d30/a24537.html#a039e765c38eb63116a546b9c541da949", null ]
+    [ "HandlePeriodic", "dd/d30/a24537.html#abc823ccb417c7ee54b275fd765c2e9a5", null ],
+    [ "PrepareAuraScript", "dd/d30/a24537.html#a51d8701f84737d91cf4367967e2c9439", null ],
+    [ "Register", "dd/d30/a24537.html#a57d210027c9fa2a4a7a90c4b1fd7589b", null ],
+    [ "Validate", "dd/d30/a24537.html#a507e7e61eef30115812dc5ab5ad33fea", null ]
 ];

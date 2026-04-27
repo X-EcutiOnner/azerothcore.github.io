@@ -1,6 +1,6 @@
 var a00074 =
 [
-    [ "SpellProcSpellTypeMaskTest", "d0/d51/a29449.html", "d0/d51/a29449" ],
+    [ "SpellProcSpellTypeMaskTest", "dd/dbc/a29425.html", "dd/dbc/a29425" ],
     [ "TEST_F", "db/db6/a00074.html#a0e299f1164a6c1e0f315da2c5551e58a", null ],
     [ "TEST_F", "db/db6/a00074.html#ae1ae997d3f0f1ba7825ae4b2e5436d44", null ],
     [ "TEST_F", "db/db6/a00074.html#a7a5da3689f4cd8516f8998a3eb8516f1", null ],

@@ -1,5 +1,20 @@
 var a23817 =
 [
-    [ "creature", "da/da9/a23817.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
-    [ "Timer", "da/da9/a23817.html#a2be497dc190c1f01f939e12083739882", null ]
+    [ "npc_lord_illidan_stormrageAI", "da/da9/a23817.html#a3b48b42c72b51bbdb222f6cd03e50ec8", null ],
+    [ "AttackStart", "da/da9/a23817.html#a5f73b83a07f24403cf55de7ef485c003", null ],
+    [ "CheckEventFail", "da/da9/a23817.html#aef1607c2132ae78b45d4f209a4320a88", null ],
+    [ "JustEngagedWith", "da/da9/a23817.html#af7166b3c7401a74615cdb5c0964200f6", null ],
+    [ "LiveCounter", "da/da9/a23817.html#a625b2891d3f9807da7733f678ea29313", null ],
+    [ "MoveInLineOfSight", "da/da9/a23817.html#a5c2313ac5767339cd26196f52ff05c5f", null ],
+    [ "Reset", "da/da9/a23817.html#a035b85302d54adf9bd7af82cadfd0317", null ],
+    [ "SummonNextWave", "da/da9/a23817.html#a240ee54d49248a1700e767568fe93648", null ],
+    [ "UpdateAI", "da/da9/a23817.html#a9cf7d73c5f81980c08f785dc3af47dec", null ],
+    [ "Announced", "da/da9/a23817.html#a448ba6e2b21273b8e07b6d0a79e856e2", null ],
+    [ "AnnounceTimer", "da/da9/a23817.html#a7037e4b43f274f3e2ce45143c029b070", null ],
+    [ "EventStarted", "da/da9/a23817.html#a41b3b39d2ea0eeca4b60960f3a903ee8", null ],
+    [ "Failed", "da/da9/a23817.html#aba564e34f0358d6c2a3c6ae91e17bf10", null ],
+    [ "LiveCount", "da/da9/a23817.html#ab86239a6470a82749f96eb5515c46c59", null ],
+    [ "PlayerGUID", "da/da9/a23817.html#af30c5c09f0262479b8920269f7bf198a", null ],
+    [ "WaveCount", "da/da9/a23817.html#abdd03400f582e9477bb376e2b34e7a0e", null ],
+    [ "WaveTimer", "da/da9/a23817.html#ae727157e6b52817051fea075c2cb7cb1", null ]
 ];

@@ -1,6 +1,16 @@
 var a19869 =
 [
-    [ "PrepareSpellScript", "da/d8e/a19869.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "da/d8e/a19869.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "da/d8e/a19869.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "boss_runemaster_molgeim", "da/d8e/a19869.html#ae465b567aeba025d2fde3baa94e55e1e", null ],
+    [ "JustDied", "da/d8e/a19869.html#af278ce3237940684aa9909915e6d6962", null ],
+    [ "JustEngagedWith", "da/d8e/a19869.html#a2d779d09adfd1f19ce3655d8e9740a9f", null ],
+    [ "JustReachedHome", "da/d8e/a19869.html#a0597a7360c24899e9f74f1d3f289e9c5", null ],
+    [ "KilledUnit", "da/d8e/a19869.html#a33c0a2d070cf6d3d850c840b048de251", null ],
+    [ "Reset", "da/d8e/a19869.html#a9f8cca601307af0475141d6b8370199a", null ],
+    [ "SpellHit", "da/d8e/a19869.html#a8d05dd3f38eb24cf5be700328a874ff1", null ],
+    [ "UpdateAI", "da/d8e/a19869.html#ad8f1b523299c7a2c3dd9013fa211a090", null ],
+    [ "UpdatePhase", "da/d8e/a19869.html#a40d0466bfbe6fae8435fb4921bca6c1a", null ],
+    [ "_phase", "da/d8e/a19869.html#af1a8f1bf6dbf24890686c8acbf83dc2d", null ],
+    [ "events", "da/d8e/a19869.html#a277b45a2b2399b91650907de2fb86b89", null ],
+    [ "pInstance", "da/d8e/a19869.html#adfbc84f0922e69b38723ecbc7eeead62", null ],
+    [ "summons", "da/d8e/a19869.html#a148c913fcc44c8dfd05260d76d389538", null ]
 ];

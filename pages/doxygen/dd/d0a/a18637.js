@@ -1,6 +1,6 @@
 var a18637 =
 [
-    [ "npc_lk_wicked_spiritAI", "d8/d95/a18641.html", "d8/d95/a18641" ],
-    [ "npc_lk_wicked_spirit", "dd/d0a/a18637.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "dd/d0a/a18637.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "ManaVoidSelector", "dd/d0a/a18637.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "dd/d0a/a18637.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "dd/d0a/a18637.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

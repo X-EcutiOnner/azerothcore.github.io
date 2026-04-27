@@ -1,7 +1,7 @@
 var a03608 =
 [
-    [ "spell_summon_noblegarden_bunny_controller", "de/dff/a14829.html", "de/dff/a14829" ],
-    [ "spell_item_noblegarden_chocolate", "df/d46/a14833.html", "df/d46/a14833" ],
+    [ "spell_summon_noblegarden_bunny_controller", "d1/d1a/a14809.html", "d1/d1a/a14809" ],
+    [ "spell_item_noblegarden_chocolate", "d9/d75/a14813.html", "d9/d75/a14813" ],
     [ "eNoblegarden", "d3/dce/a03608.html#a2009b91b1ae924c27559f49fd9fc0e3d", [
       [ "SPELL_NOBLEGARDEN_BUNNY", "d3/dce/a03608.html#a2009b91b1ae924c27559f49fd9fc0e3da713d80d4de08c5ec515a4d2164f00510", null ],
       [ "SPELL_WELL_FED", "d3/dce/a03608.html#a2009b91b1ae924c27559f49fd9fc0e3da5e004e090ce4bb16a1328cc8423247ae", null ]

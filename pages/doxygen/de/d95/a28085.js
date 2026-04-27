@@ -1,8 +1,9 @@
 var a28085 =
 [
-    [ "npc_training_dummy", "de/d95/a28085.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
-    [ "DamageTaken", "de/d95/a28085.html#accd7c39cd7b22b30e654288b034f1319", null ],
-    [ "JustEnteredCombat", "de/d95/a28085.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
-    [ "UpdateAI", "de/d95/a28085.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
-    [ "_combatTimer", "de/d95/a28085.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
+    [ "npc_chicken_cluckAI", "de/d95/a28085.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
+    [ "JustEngagedWith", "de/d95/a28085.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
+    [ "ReceiveEmote", "de/d95/a28085.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
+    [ "Reset", "de/d95/a28085.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
+    [ "UpdateAI", "de/d95/a28085.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
+    [ "ResetFlagTimer", "de/d95/a28085.html#a0d0507ae7a1eca369df288515856e1b5", null ]
 ];

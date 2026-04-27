@@ -1,6 +1,6 @@
 var a25813 =
 [
-    [ "HandleEffect", "d1/d5e/a25813.html#a41b46d8918b59a1617f383b3eedfe343", null ],
-    [ "PrepareSpellScript", "d1/d5e/a25813.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
-    [ "Register", "d1/d5e/a25813.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
+    [ "OnPeriodic", "d1/d5e/a25813.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
+    [ "PrepareAuraScript", "d1/d5e/a25813.html#ad3d091510685ebc2d87aadb658cacf58", null ],
+    [ "Register", "d1/d5e/a25813.html#a9552ba0f4c18623b6b00ababa034942c", null ]
 ];

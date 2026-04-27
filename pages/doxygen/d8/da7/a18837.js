@@ -1,6 +1,6 @@
 var a18837 =
 [
-    [ "boss_sister_svalnaAI", "da/dae/a18841.html", "da/dae/a18841" ],
-    [ "boss_sister_svalna", "d8/da7/a18837.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "d8/da7/a18837.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "npc_captain_brandonAI", "da/dae/a18841.html", "da/dae/a18841" ],
+    [ "npc_captain_brandon", "d8/da7/a18837.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "d8/da7/a18837.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

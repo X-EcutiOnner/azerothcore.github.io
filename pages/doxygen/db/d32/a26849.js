@@ -1,6 +1,6 @@
 var a26849 =
 [
-    [ "HandleScript", "db/d32/a26849.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
-    [ "PrepareSpellScript", "db/d32/a26849.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
-    [ "Register", "db/d32/a26849.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
+    [ "HandleScript", "db/d32/a26849.html#a54c724bd8786c894ecaa584c164c2e53", null ],
+    [ "PrepareSpellScript", "db/d32/a26849.html#a4505b9196609ae9339fe7e5948963663", null ],
+    [ "Register", "db/d32/a26849.html#ae293d6a2a477f716f357516781246069", null ]
 ];

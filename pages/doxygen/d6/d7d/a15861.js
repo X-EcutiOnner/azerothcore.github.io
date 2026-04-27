@@ -1,6 +1,7 @@
 var a15861 =
 [
-    [ "npc_qiraj_war_spawnAI", "d1/db1/a15865.html", "d1/db1/a15865" ],
-    [ "npc_qiraj_war_spawn", "d6/d7d/a15861.html#a2afba33e9fd879ac3fea206768b14334", null ],
-    [ "GetAI", "d6/d7d/a15861.html#a32339f20251c188b895c02b6cc9217e9", null ]
+    [ "DelayedWindstoneSummonEvent", "d6/d7d/a15861.html#aa97daf8cf3479395ffd6558b6699436a", null ],
+    [ "Execute", "d6/d7d/a15861.html#aa413bc8709bc543b89ffb3df42185475", null ],
+    [ "_playerGUID", "d6/d7d/a15861.html#ad83bb6d87b569f59e99abcc16517745b", null ],
+    [ "_summon", "d6/d7d/a15861.html#af9804d276da5daebab3a37f2c75301ea", null ]
 ];

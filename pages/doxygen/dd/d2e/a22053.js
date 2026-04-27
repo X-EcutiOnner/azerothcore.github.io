@@ -1,5 +1,5 @@
 var a22053 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "dd/d2e/a22053.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "dd/d2e/a22053.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "go_finklestein_cauldron", "dd/d2e/a22053.html#a8aa352319c54526069588dacd75ab883", null ],
+    [ "OnGossipHello", "dd/d2e/a22053.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
 ];

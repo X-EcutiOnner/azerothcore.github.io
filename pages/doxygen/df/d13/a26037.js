@@ -1,8 +1,9 @@
 var a26037 =
 [
-    [ "HandleProc", "df/d13/a26037.html#ad470545a3c3f1ffaad2d895f122522e1", null ],
-    [ "OnRemove", "df/d13/a26037.html#adc9b9b988aa1342c34a49622f54d8484", null ],
-    [ "PrepareAuraScript", "df/d13/a26037.html#ab3008bcdeb90825213d2352812ff21d5", null ],
-    [ "Register", "df/d13/a26037.html#a9ee52d89eeff45a4f9df1982da6f7d78", null ],
-    [ "Validate", "df/d13/a26037.html#a0ea66a92b78e59b50181b54ab285b9db", null ]
+    [ "HandleAfterCast", "df/d13/a26037.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "df/d13/a26037.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "df/d13/a26037.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "df/d13/a26037.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "df/d13/a26037.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "df/d13/a26037.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

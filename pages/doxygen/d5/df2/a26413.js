@@ -1,8 +1,10 @@
 var a26413 =
 [
-    [ "HandleProc", "d5/df2/a26413.html#a95553bc0c973be3a2e3911602e4067c8", null ],
-    [ "PrepareAuraScript", "d5/df2/a26413.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
-    [ "Register", "d5/df2/a26413.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
-    [ "Validate", "d5/df2/a26413.html#aad1324e94920136258c419094cfca4c3", null ],
-    [ "_cooldownEnd", "d5/df2/a26413.html#a4f19a965ed8ddab712633abdb761d210", null ]
+    [ "CalculateAPAmount", "d5/df2/a26413.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "d5/df2/a26413.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "d5/df2/a26413.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "d5/df2/a26413.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "d5/df2/a26413.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "d5/df2/a26413.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "d5/df2/a26413.html#a88520214bd87511b615965593f1b927f", null ]
 ];

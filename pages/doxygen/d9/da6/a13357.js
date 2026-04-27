@@ -1,7 +1,16 @@
 var a13357 =
 [
-    [ "OnApply", "d9/da6/a13357.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "d9/da6/a13357.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "d9/da6/a13357.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "d9/da6/a13357.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "d9/da6/a13357.html#a4abdd53f735be815cb2d43497d1531e0", null ],
+    [ "GetData", "d9/da6/a13357.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
+    [ "GetGuidData", "d9/da6/a13357.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
+    [ "OnCreatureCreate", "d9/da6/a13357.html#a71fcfc166f945325a4ee149645a9ccef", null ],
+    [ "OnGameObjectCreate", "d9/da6/a13357.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
+    [ "SetData", "d9/da6/a13357.html#aaf498d563d070d6250a182f583651777", null ],
+    [ "_ashbringerNpcGUID", "d9/da6/a13357.html#a1abdafc284def7ab4069a17c0aeda535", null ],
+    [ "_ashencounter", "d9/da6/a13357.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
+    [ "_doorChapelGUID", "d9/da6/a13357.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
+    [ "_doorHighInquisitorGUID", "d9/da6/a13357.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
+    [ "_encounter", "d9/da6/a13357.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
+    [ "_mograineGUID", "d9/da6/a13357.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
+    [ "_whitemaneGUID", "d9/da6/a13357.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
 ];

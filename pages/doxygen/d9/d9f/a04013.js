@@ -1,9 +1,9 @@
 var a04013 =
 [
-    [ "boss_anub_arak", "db/d30/a16169.html", "db/d30/a16169" ],
-    [ "spell_azjol_nerub_carrion_beetles", "d1/db1/a16173.html", "d1/db1/a16173" ],
-    [ "spell_azjol_nerub_pound", "df/d75/a16177.html", "df/d75/a16177" ],
-    [ "spell_azjol_nerub_impale_summon", "d5/d74/a16181.html", "d5/d74/a16181" ],
+    [ "boss_anub_arak", "da/db3/a16149.html", "da/db3/a16149" ],
+    [ "spell_azjol_nerub_carrion_beetles", "d6/d1b/a16153.html", "d6/d1b/a16153" ],
+    [ "spell_azjol_nerub_pound", "d0/d48/a16157.html", "d0/d48/a16157" ],
+    [ "spell_azjol_nerub_impale_summon", "de/d41/a16161.html", "de/d41/a16161" ],
     [ "CreatureIds", "d9/d9f/a04013.html#a92f6fd626e1834a4cc509efc1186963e", [
       [ "NPC_RISEN_GUARDIAN", "df/d89/a03440.html#a92f6fd626e1834a4cc509efc1186963eaf339195dfd125f52b68ee71aedd6f544", null ],
       [ "NPC_DARKMASTER_GANDLING", "df/d89/a03440.html#a92f6fd626e1834a4cc509efc1186963ea49fadbff12ca663e6d4e7ce3d9af8431", null ],
@@ -1881,6 +1881,9 @@ var a04013 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

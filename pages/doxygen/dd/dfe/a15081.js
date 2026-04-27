@@ -1,6 +1,19 @@
 var a15081 =
 [
-    [ "npc_crate_helperAI", "da/dd3/a15085.html", "da/dd3/a15085" ],
-    [ "npc_crate_helper", "dd/dfe/a15081.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "dd/dfe/a15081.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "npc_cos_stratholme_citizienAI", "dd/dfe/a15081.html#a591aaf16ef5befada12378acfbef9465", null ],
+    [ "DoAction", "dd/dfe/a15081.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
+    [ "InfectMe", "dd/dfe/a15081.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
+    [ "MoveInLineOfSight", "dd/dfe/a15081.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
+    [ "Reset", "dd/dfe/a15081.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
+    [ "SpellHit", "dd/dfe/a15081.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
+    [ "UpdateAI", "dd/dfe/a15081.html#a81a1382493091a99cae1c2bb580a7f32", null ],
+    [ "allowTimer", "dd/dfe/a15081.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
+    [ "ambientTalkTimer", "dd/dfe/a15081.html#aaa8eef94d1707207d241010d066d02fc", null ],
+    [ "changeTimer", "dd/dfe/a15081.html#aa757ab2eef813dceaaad65d84681099b", null ],
+    [ "isBrandonCrowd", "dd/dfe/a15081.html#a7ded1c196b311e5b61686ba9f22efd20", null ],
+    [ "isStephanieCrowd", "dd/dfe/a15081.html#a211859fa8f83c08d6150f9fb5730e409", null ],
+    [ "locked", "dd/dfe/a15081.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
+    [ "pInstance", "dd/dfe/a15081.html#aadae06c487a7755114f856a835d48c7e", null ],
+    [ "stephanieDialoguePhase", "dd/dfe/a15081.html#a5cadb975125ec915dcc1899d159c2aa3", null ],
+    [ "stephanieDialogueTimer", "dd/dfe/a15081.html#a61fa61e81acfc543353312914a99d841", null ]
 ];

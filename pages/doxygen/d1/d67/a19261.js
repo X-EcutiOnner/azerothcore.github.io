@@ -1,7 +1,6 @@
 var a19261 =
 [
-    [ "HandleRemove", "d1/d67/a19261.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d1/d67/a19261.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d1/d67/a19261.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d1/d67/a19261.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "boss_kelthuzad_minionAI", "d7/d2b/a19265.html", "d7/d2b/a19265" ],
+    [ "boss_kelthuzad_minion", "d1/d67/a19261.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "d1/d67/a19261.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

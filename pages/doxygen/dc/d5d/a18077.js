@@ -1,6 +1,6 @@
 var a18077 =
 [
-    [ "npc_gas_cloudAI", "dc/d5d/a18077.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
-    [ "CastMainSpell", "dc/d5d/a18077.html#a61681f6f9616fe33274302d4160c709b", null ],
-    [ "_newTargetSelectTimer", "dc/d5d/a18077.html#a6989b904abaa5b71362e43664f4b084d", null ]
+    [ "FilterTargets", "dc/d5d/a18077.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
+    [ "PrepareSpellScript", "dc/d5d/a18077.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
+    [ "Register", "dc/d5d/a18077.html#a32e04a1110d651701b8eab1648c69a57", null ]
 ];

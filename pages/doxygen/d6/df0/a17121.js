@@ -1,11 +1,11 @@
 var a17121 =
 [
-    [ "npc_ghostly_priest", "d6/df0/a17121.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
-    [ "AttackStart", "d6/df0/a17121.html#acbc2eb708773500136deebb8542d36aa", null ],
-    [ "DoAction", "d6/df0/a17121.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
-    [ "EnterEvadeMode", "d6/df0/a17121.html#ac944330e3834bd4c65e30c595752746c", null ],
-    [ "JustDied", "d6/df0/a17121.html#ae7ef06904aa2039d3552a2a62b846042", null ],
-    [ "JustEngagedWith", "d6/df0/a17121.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
-    [ "Reset", "d6/df0/a17121.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
-    [ "UpdateAI", "d6/df0/a17121.html#a3722469ea1445f7dbaf834853a9ed654", null ]
+    [ "npc_tortured_rifleman", "d6/df0/a17121.html#a5ab42b048c14838b6992716f62200c57", null ],
+    [ "AttackStart", "d6/df0/a17121.html#a82f84e5b66d8cbcb25267e0eeb5ce65c", null ],
+    [ "DoAction", "d6/df0/a17121.html#aafd02b19ba0280db3eacc21b24d3ceaa", null ],
+    [ "EnterEvadeMode", "d6/df0/a17121.html#a1eddbbfa45174c05a24ad01f200983e3", null ],
+    [ "JustDied", "d6/df0/a17121.html#abb8349f4f1c19a60c7566f1801ae3087", null ],
+    [ "JustEngagedWith", "d6/df0/a17121.html#ab60cf1d4e6a58613a032b25b043aceea", null ],
+    [ "Reset", "d6/df0/a17121.html#a04210cb211db92a1be6de7bc28953953", null ],
+    [ "UpdateAI", "d6/df0/a17121.html#aa794584f9a842f9725f1f926b4099181", null ]
 ];

@@ -1,7 +1,8 @@
 var a15489 =
 [
-    [ "npc_sartura_royal_guard", "d1/d6c/a15489.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
-    [ "JustEngagedWith", "d1/d6c/a15489.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
-    [ "Reset", "d1/d6c/a15489.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
-    [ "UpdateAI", "d1/d6c/a15489.html#a2ed50f65847133c897facecbaa4711d8", null ]
+    [ "boss_veklor", "d1/d6c/a15489.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d1/d6c/a15489.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d1/d6c/a15489.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d1/d6c/a15489.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d1/d6c/a15489.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

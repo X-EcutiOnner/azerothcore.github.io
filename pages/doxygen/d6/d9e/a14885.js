@@ -1,6 +1,7 @@
 var a14885 =
 [
-    [ "HandleTriggerSpell", "d6/d9e/a14885.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "d6/d9e/a14885.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "d6/d9e/a14885.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "boss_azuregosAI", "d2/def/a14889.html", "d2/def/a14889" ],
+    [ "boss_azuregos", "d6/d9e/a14885.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d6/d9e/a14885.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d6/d9e/a14885.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

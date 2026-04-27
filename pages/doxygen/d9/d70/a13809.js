@@ -1,4 +1,6 @@
 var a13809 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d9/d70/a13809.html#a255ebc2ebda65b412f46e05e332d605e", null ]
+    [ "HandleSendEvent", "d9/d70/a13809.html#a1be975f4440b823c34cc3e790fcff608", null ],
+    [ "PrepareSpellScript", "d9/d70/a13809.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
+    [ "Register", "d9/d70/a13809.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
 ];

@@ -1,8 +1,6 @@
 var a15969 =
 [
-    [ "npc_lakota_windsongAI", "da/da3/a15969.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "da/da3/a15969.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "da/da3/a15969.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "da/da3/a15969.html#a6435c8b1521206789131889e5fa527a6", null ],
-    [ "WaypointReached", "da/da3/a15969.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "HandleDummy", "da/da3/a15969.html#a2750ae788168e7496ea2345c5535509c", null ],
+    [ "PrepareSpellScript", "da/da3/a15969.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
+    [ "Register", "da/da3/a15969.html#ab6c961d89d22761402eb4f5881cbd318", null ]
 ];

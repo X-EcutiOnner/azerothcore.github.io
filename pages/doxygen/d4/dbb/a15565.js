@@ -1,10 +1,8 @@
 var a15565 =
 [
-    [ "npc_anubisath_defender", "d4/dbb/a15565.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
-    [ "DamageTaken", "d4/dbb/a15565.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
-    [ "JustDied", "d4/dbb/a15565.html#a225ca1b3144953bcc5890caf0d32b606", null ],
-    [ "JustEngagedWith", "d4/dbb/a15565.html#a6505fcae0e99cae44750f16daddc3309", null ],
-    [ "Reset", "d4/dbb/a15565.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
-    [ "UpdateAI", "d4/dbb/a15565.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
-    [ "_enraged", "d4/dbb/a15565.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
+    [ "npc_ahnqiraji_critter", "d4/dbb/a15565.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "d4/dbb/a15565.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "d4/dbb/a15565.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "d4/dbb/a15565.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "d4/dbb/a15565.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

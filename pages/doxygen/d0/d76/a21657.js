@@ -1,8 +1,7 @@
 var a21657 =
 [
-    [ "AfterApply", "d0/d76/a21657.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "d0/d76/a21657.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "d0/d76/a21657.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "d0/d76/a21657.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "d0/d76/a21657.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "npc_battle_at_valhalasAI", "dc/d94/a21661.html", "dc/d94/a21661" ],
+    [ "npc_battle_at_valhalas", "d0/d76/a21657.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "d0/d76/a21657.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "d0/d76/a21657.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

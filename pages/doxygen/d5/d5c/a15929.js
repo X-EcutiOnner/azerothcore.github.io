@@ -1,6 +1,6 @@
 var a15929 =
 [
-    [ "npc_tyrande_whisperwind", "d5/d5c/a15929.html#af716e954e59221d26ee88032e895fa18", null ],
-    [ "JustDied", "d5/d5c/a15929.html#a707f6167de4eafc6d81613d0edc29436", null ],
-    [ "UpdateAI", "d5/d5c/a15929.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
+    [ "npc_twiggy_flatheadAI", "df/dad/a15933.html", "df/dad/a15933" ],
+    [ "npc_twiggy_flathead", "d5/d5c/a15929.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "d5/d5c/a15929.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

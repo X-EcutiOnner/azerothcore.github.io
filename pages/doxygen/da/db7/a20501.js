@@ -1,11 +1,5 @@
 var a20501 =
 [
-    [ "boss_thorim_arena_npcs", "da/db7/a20501.html#a849567e412254aa8d0d7da33b6b1522f", null ],
-    [ "CanAIAttack", "da/db7/a20501.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
-    [ "JustEngagedWith", "da/db7/a20501.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
-    [ "Reset", "da/db7/a20501.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
-    [ "SelectT", "da/db7/a20501.html#a3fa38189c886a486aabb39a372834938", null ],
-    [ "UpdateAI", "da/db7/a20501.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
-    [ "_isCaster", "da/db7/a20501.html#abfd184437df3983659a9ae21a13638fb", null ],
-    [ "events", "da/db7/a20501.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
+    [ "achievement_thorim_lose_your_illusion", "da/db7/a20501.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
+    [ "OnCheck", "da/db7/a20501.html#a322df4f30445a84085615925f74a8a6b", null ]
 ];

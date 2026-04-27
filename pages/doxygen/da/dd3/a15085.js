@@ -1,6 +1,6 @@
 var a15085 =
 [
-    [ "npc_crate_helperAI", "da/dd3/a15085.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "da/dd3/a15085.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "da/dd3/a15085.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "dd/d71/a15089.html", "dd/d71/a15089" ],
+    [ "instance_culling_of_stratholme", "da/dd3/a15085.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
+    [ "GetInstanceScript", "da/dd3/a15085.html#ad8cbcb198666d44d79d6255d066c8315", null ]
 ];

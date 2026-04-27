@@ -1,6 +1,6 @@
 var a02888 =
 [
-    [ "boss_hydromancer_thespia", "dc/d75/a22997.html", "dc/d75/a22997" ],
+    [ "boss_hydromancer_thespia", "d1/d7d/a22977.html", "d1/d7d/a22977" ],
     [ "HydromancerThespia", "d4/d04/a02888.html#a3f4b673ff8add0ad1c96080f6252130d", [
       [ "SAY_SUMMON", "d4/d04/a02888.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf", null ],
       [ "SAY_AGGRO", "d4/d04/a02888.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe", null ],

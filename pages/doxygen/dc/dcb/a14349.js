@@ -1,9 +1,20 @@
 var a14349 =
 [
-    [ "npc_shade_of_jindo", "dc/dcb/a14349.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
-    [ "IsSummonedBy", "dc/dcb/a14349.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
-    [ "JustEngagedWith", "dc/dcb/a14349.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
-    [ "Reset", "dc/dcb/a14349.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
-    [ "UpdateAI", "dc/dcb/a14349.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
-    [ "_scheduler", "dc/dcb/a14349.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
+    [ "boss_mandokirAI", "dc/dcb/a14349.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
+    [ "CalculateThreat", "dc/dcb/a14349.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
+    [ "DamageDealt", "dc/dcb/a14349.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
+    [ "DoAction", "dc/dcb/a14349.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
+    [ "DoMeleeAttackIfReady", "dc/dcb/a14349.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
+    [ "JustDied", "dc/dcb/a14349.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
+    [ "JustEngagedWith", "dc/dcb/a14349.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
+    [ "KilledUnit", "dc/dcb/a14349.html#a6230dc14db38d43fb060f028cfde9d32", null ],
+    [ "MovementInform", "dc/dcb/a14349.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
+    [ "OnTeleportUnreacheablePlayer", "dc/dcb/a14349.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
+    [ "Reset", "dc/dcb/a14349.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
+    [ "SetGUID", "dc/dcb/a14349.html#ad496b4bd7e97988b44357ac91ac3701c", null ],
+    [ "UpdateAI", "dc/dcb/a14349.html#a1037b770bb46400aef0ec034f86468fc", null ],
+    [ "_chargeTarget", "dc/dcb/a14349.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
+    [ "_useExecute", "dc/dcb/a14349.html#a305f064869874d8620d794a7d26f6358", null ],
+    [ "killCount", "dc/dcb/a14349.html#a280e27385988e0f5cc65c60511bd4100", null ],
+    [ "reviveGUID", "dc/dcb/a14349.html#a7f955c8399167d3f3aa974596f398c13", null ]
 ];

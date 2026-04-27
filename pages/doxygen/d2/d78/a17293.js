@@ -1,6 +1,6 @@
 var a17293 =
 [
-    [ "npc_pos_collapsing_icicleAI", "dc/d4e/a17297.html", "dc/d4e/a17297" ],
-    [ "npc_pos_collapsing_icicle", "d2/d78/a17293.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "d2/d78/a17293.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "npc_pos_freed_slaveAI", "d2/d78/a17293.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d2/d78/a17293.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d2/d78/a17293.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

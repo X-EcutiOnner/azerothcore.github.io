@@ -1,6 +1,6 @@
 var a20701 =
 [
-    [ "OnRemove", "d8/d48/a20701.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "d8/d48/a20701.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "d8/d48/a20701.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "CheckCast", "d8/d48/a20701.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "d8/d48/a20701.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "d8/d48/a20701.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

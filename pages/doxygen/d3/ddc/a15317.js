@@ -1,7 +1,6 @@
 var a15317 =
 [
-    [ "go_sand_trap", "d3/ddc/a15317.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "d3/ddc/a15317.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "d3/ddc/a15317.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "d3/ddc/a15317.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "go_ossirian_crystalAI", "d8/d87/a15321.html", "d8/d87/a15321" ],
+    [ "go_ossirian_crystal", "d3/ddc/a15317.html#a783f0f0570ee0f667920e29613b565b2", null ],
+    [ "GetAI", "d3/ddc/a15317.html#a2f7b12eddc6504917614913e347ec0a0", null ]
 ];

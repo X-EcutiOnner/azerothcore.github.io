@@ -1,6 +1,6 @@
 var a21253 =
 [
-    [ "npc_hidden_cultistAI", "d9/dfa/a21257.html", "d9/dfa/a21257" ],
-    [ "npc_hidden_cultist", "d5/d9b/a21253.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "d5/d9b/a21253.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "PrepareSpellScript", "d5/d9b/a21253.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "d5/d9b/a21253.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "d5/d9b/a21253.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

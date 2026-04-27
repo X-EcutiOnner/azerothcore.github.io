@@ -1,13 +1,11 @@
 var a17097 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "dc/de6/a17097.html#ae39e116a01c17592037e12185a03201a", null ],
-    [ "CheckAchievementCriteriaMeet", "dc/de6/a17097.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
-    [ "HandleOutro", "dc/de6/a17097.html#aadf4a99e89f354901ff63c600725b07f", null ],
-    [ "OnCreatureCreate", "dc/de6/a17097.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
-    [ "OnPlayerEnter", "dc/de6/a17097.html#aac223f0ae25071d3323052c52c887636", null ],
-    [ "SetBossState", "dc/de6/a17097.html#a76241f1358b8e6c7660f76c98e1556e7", null ],
-    [ "GuardFirstGUID", "dc/de6/a17097.html#ae2e33eee94f285b9d4c2c747dec52714", null ],
-    [ "GuardSecondGUID", "dc/de6/a17097.html#a68c2495f80ac2b53c8f46c857472709c", null ],
-    [ "LeaderFirstGUID", "dc/de6/a17097.html#acaa05485af70315b1d091e5c9bbb7217", null ],
-    [ "LeaderSecondGUID", "dc/de6/a17097.html#a165f784f54e178b51ac899aff6f12747", null ]
+    [ "npc_hor_leaderAI", "dc/de6/a17097.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "dc/de6/a17097.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "dc/de6/a17097.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "dc/de6/a17097.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "dc/de6/a17097.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "first", "dc/de6/a17097.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
+    [ "instance", "dc/de6/a17097.html#aaf5ee73e8d3a52c51cbc64853843ed4e", null ],
+    [ "shortver", "dc/de6/a17097.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

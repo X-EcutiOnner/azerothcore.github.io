@@ -1,6 +1,7 @@
 var a17701 =
 [
-    [ "boss_festergutAI", "d6/d7a/a17705.html", "d6/d7a/a17705" ],
-    [ "boss_festergut", "dc/d0c/a17701.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
-    [ "GetAI", "dc/d0c/a17701.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
+    [ "HandleScript", "dc/d0c/a17701.html#a276018baa590b942d90c457faea10040", null ],
+    [ "PrepareSpellScript", "dc/d0c/a17701.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
+    [ "Register", "dc/d0c/a17701.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
+    [ "Validate", "dc/d0c/a17701.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
 ];

@@ -1,10 +1,10 @@
 var a02330 =
 [
-    [ "boss_twinemperorsAI", "d9/d12/a15501.html", "d9/d12/a15501" ],
-    [ "boss_veknilash", "d4/d80/a15505.html", "d4/d80/a15505" ],
-    [ "boss_veklor", "d6/dc3/a15509.html", "d6/dc3/a15509" ],
-    [ "at_twin_emperors", "d5/df0/a15513.html", "d5/df0/a15513" ],
-    [ "spell_mutate_explode_bug", "d9/d76/a15517.html", "d9/d76/a15517" ],
+    [ "boss_twinemperorsAI", "d2/d01/a15481.html", "d2/d01/a15481" ],
+    [ "boss_veknilash", "d2/dcf/a15485.html", "d2/dcf/a15485" ],
+    [ "boss_veklor", "d1/d6c/a15489.html", "d1/d6c/a15489" ],
+    [ "at_twin_emperors", "d2/dbe/a15493.html", "d2/dbe/a15493" ],
+    [ "spell_mutate_explode_bug", "d1/d74/a15497.html", "d1/d74/a15497" ],
     [ "Actions", "d4/d42/a02330.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d3/de5/a00956.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d3/de5/a00956.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -460,6 +460,9 @@ var a02330 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

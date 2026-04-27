@@ -1,6 +1,8 @@
 var a16621 =
 [
-    [ "boss_anubarak_trialAI", "d8/dfe/a16625.html", "d8/dfe/a16625" ],
-    [ "boss_anubarak_trial", "de/df9/a16621.html#a5204e33a412608b53cc155a043356d58", null ],
-    [ "GetAI", "de/df9/a16621.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
+    [ "npc_frost_sphereAI", "de/df9/a16621.html#ae697a98d23d94315768dc866852b6e07", null ],
+    [ "DamageTaken", "de/df9/a16621.html#a3960f19b456f29a33016d799809a82a8", null ],
+    [ "SpellHit", "de/df9/a16621.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
+    [ "UpdateAI", "de/df9/a16621.html#a4e866332045135c867f2b9ee871db0c2", null ],
+    [ "permafrostTimer", "de/df9/a16621.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
 ];

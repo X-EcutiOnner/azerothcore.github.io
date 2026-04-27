@@ -1,8 +1,6 @@
 var a23301 =
 [
-    [ "npc_warchief_portal", "da/d8e/a23301.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "da/d8e/a23301.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "da/d8e/a23301.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "da/d8e/a23301.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "da/d8e/a23301.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "npc_millhouse_manastormAI", "dc/d9a/a23305.html", "dc/d9a/a23305" ],
+    [ "npc_millhouse_manastorm", "da/d8e/a23301.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "da/d8e/a23301.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

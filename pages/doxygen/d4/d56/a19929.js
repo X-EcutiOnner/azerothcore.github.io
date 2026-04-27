@@ -1,11 +1,11 @@
 var a19929 =
 [
-    [ "npc_auriaya_feral_defender", "d4/d56/a19929.html#a84425204b0ad06789edb331ed8495774", null ],
-    [ "DoAction", "d4/d56/a19929.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
-    [ "JustDied", "d4/d56/a19929.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
-    [ "JustEngagedWith", "d4/d56/a19929.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
-    [ "Reset", "d4/d56/a19929.html#a02b09b7dfdd4036827bb474a57296491", null ],
-    [ "UpdateAI", "d4/d56/a19929.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
-    [ "_feralEssenceStack", "d4/d56/a19929.html#a1ffc377dbad787a5eb132758124df534", null ],
-    [ "_summons", "d4/d56/a19929.html#a0b7960f590ba76068c377cf08291ce35", null ]
+    [ "boss_flame_leviathan_seat", "d4/d56/a19929.html#a2fc2adc846b2939cf633bf47b4307896", null ],
+    [ "AttackStart", "d4/d56/a19929.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
+    [ "EnterEvadeMode", "d4/d56/a19929.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
+    [ "PassengerBoarded", "d4/d56/a19929.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
+    [ "Reset", "d4/d56/a19929.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
+    [ "UpdateAI", "d4/d56/a19929.html#a303c50b5684410013f95b0202ea33c8e", null ],
+    [ "_despawnTimer", "d4/d56/a19929.html#afe673a7903cffa7acefb725d52efb08a", null ],
+    [ "vehicle", "d4/d56/a19929.html#a9772b52283f16120dbefb5d218844c38", null ]
 ];

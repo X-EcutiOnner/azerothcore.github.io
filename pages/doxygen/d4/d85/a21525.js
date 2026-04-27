@@ -1,8 +1,6 @@
 var a21525 =
 [
-    [ "OnRemove", "d4/d85/a21525.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "d4/d85/a21525.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "d4/d85/a21525.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "d4/d85/a21525.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "d4/d85/a21525.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_mrfloppyAI", "d1/da7/a21529.html", "d1/da7/a21529" ],
+    [ "npc_mrfloppy", "d4/d85/a21525.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "d4/d85/a21525.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

@@ -1,5 +1,6 @@
 var a18165 =
 [
-    [ "RotfaceHeightCheck", "d5/db7/a18165.html#aabdeaee465989c339fc7a3f186e20498", null ],
-    [ "operator()", "d5/db7/a18165.html#a585743e0e76c64a5caa37acab46d04d5", null ]
+    [ "npc_big_oozeAI", "d3/db6/a18169.html", "d3/db6/a18169" ],
+    [ "npc_big_ooze", "d5/db7/a18165.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "d5/db7/a18165.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

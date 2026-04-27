@@ -1,8 +1,9 @@
 var a18641 =
 [
-    [ "npc_lk_wicked_spiritAI", "d8/d95/a18641.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "d8/d95/a18641.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "d8/d95/a18641.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "d8/d95/a18641.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "d8/d95/a18641.html#a8b15079251b6855679d738a342126006", null ]
+    [ "DelayedCastEvent", "d8/d95/a18641.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
+    [ "Execute", "d8/d95/a18641.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "d8/d95/a18641.html#afcaeafb72df77c36b5496588c219fac4", null ],
+    [ "_originalCaster", "d8/d95/a18641.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "d8/d95/a18641.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "d8/d95/a18641.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

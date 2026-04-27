@@ -1,7 +1,13 @@
 var a25097 =
 [
-    [ "OnApply", "d9/d37/a25097.html#a455a885611978a390cd4bfa76b05f82b", null ],
-    [ "PrepareAuraScript", "d9/d37/a25097.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
-    [ "Register", "d9/d37/a25097.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
-    [ "Validate", "d9/d37/a25097.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
+    [ "CalcPeriodic", "d9/d37/a25097.html#a3ac8408619d30ad092b624c2894d40bb", null ],
+    [ "CalculateExpertiseAmount", "d9/d37/a25097.html#ae974eed8254bace2a758917a4b629fa9", null ],
+    [ "CalculateSpellHitAmount", "d9/d37/a25097.html#ad42047dcb29d96224f6bd44064b1da32", null ],
+    [ "CalculateSpellPenAmount", "d9/d37/a25097.html#a300e649beb785c4ebc84eb1b0613164e", null ],
+    [ "HandleEffectApply", "d9/d37/a25097.html#ac01bc37e10b1072fb12aeb0bbfbdcc41", null ],
+    [ "HandlePeriodic", "d9/d37/a25097.html#a26c15c411ff09d8107dfc360b71dbc0a", null ],
+    [ "PrepareAuraScript", "d9/d37/a25097.html#a8b1230d7a14f87966ecf834fcbf83b58", null ],
+    [ "Register", "d9/d37/a25097.html#a47cb8f043f8b8984615520db25696f8e", null ],
+    [ "cap", "d9/d37/a25097.html#a5e168cfe5d9b620d523ea780f1e18cc7", null ],
+    [ "maxChance", "d9/d37/a25097.html#a11f2c759a5587eb865560eceff5b8414", null ]
 ];

@@ -1,12 +1,15 @@
 var a21097 =
 [
-    [ "boss_xevozz", "df/d5f/a21097.html#aea402ffbe689ca65e29b30899862a8bc", null ],
-    [ "EnterEvadeMode", "df/d5f/a21097.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
-    [ "ExecuteEvent", "df/d5f/a21097.html#af5b37fc643f2b22468a38655fce63d25", null ],
-    [ "JustDied", "df/d5f/a21097.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
-    [ "JustEngagedWith", "df/d5f/a21097.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
-    [ "JustSummoned", "df/d5f/a21097.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
-    [ "KilledUnit", "df/d5f/a21097.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
-    [ "MoveInLineOfSight", "df/d5f/a21097.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
-    [ "SummonedCreatureDespawn", "df/d5f/a21097.html#a1493a5acdfcca7d01446564db622239e", null ]
+    [ "npc_vh_teleportation_portal", "df/d5f/a21097.html#ae4ed2aebf39ab2593c07ba3098341c91", null ],
+    [ "JustDied", "df/d5f/a21097.html#af86eefc8c9e4187e52c4dd88c41cbc38", null ],
+    [ "JustSummoned", "df/d5f/a21097.html#ad3606d29d814232a492e9e3e85048bd7", null ],
+    [ "SummonedMobDied", "df/d5f/a21097.html#aa58672b2022e44b90adc8bf331ee84fc", null ],
+    [ "UpdateAI", "df/d5f/a21097.html#a3bb6021855bed917fdd2ef47f8ddca29", null ],
+    [ "_addValue", "df/d5f/a21097.html#ad71dd5636c683cfac15423375c0dcc6d", null ],
+    [ "_events", "df/d5f/a21097.html#a1eb415b24f794c8cbb0d01084eb09669", null ],
+    [ "_instance", "df/d5f/a21097.html#acf09515827ae926fe83ffc87a7e35ac5", null ],
+    [ "_isKeeperOrGuardian", "df/d5f/a21097.html#a7483553634133f980929aaeef39bd6a6", null ],
+    [ "_listOfMobs", "df/d5f/a21097.html#a8856350d299bfb25a4e77bb8753afa14", null ],
+    [ "_spawned", "df/d5f/a21097.html#ac89ccf4030e5dffe15d0b24b991176de", null ],
+    [ "_wave", "df/d5f/a21097.html#a0d82b870a2f6bc0de62502f02fd8c1b4", null ]
 ];

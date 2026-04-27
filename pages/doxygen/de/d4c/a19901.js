@@ -1,7 +1,15 @@
 var a19901 =
 [
-    [ "OnRemove", "de/d4c/a19901.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "de/d4c/a19901.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "de/d4c/a19901.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "de/d4c/a19901.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "boss_auriaya", "de/d4c/a19901.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DoAction", "de/d4c/a19901.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "de/d4c/a19901.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "de/d4c/a19901.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "de/d4c/a19901.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "de/d4c/a19901.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "JustSummoned", "de/d4c/a19901.html#aaec8af440e83fd614041cb63115adc48", null ],
+    [ "KilledUnit", "de/d4c/a19901.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "de/d4c/a19901.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "SummonedCreatureDies", "de/d4c/a19901.html#a928a8d7c084125136bdef1ab0a3a4737", null ],
+    [ "_feralDied", "de/d4c/a19901.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "de/d4c/a19901.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

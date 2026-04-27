@@ -1,7 +1,6 @@
 var a19165 =
 [
-    [ "HandleTriggerSpell", "d3/d1e/a19165.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "d3/d1e/a19165.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "d3/d1e/a19165.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "d3/d1e/a19165.html#a813bad39641956fff697580f271416d2", null ]
+    [ "boss_four_horsemenAI", "da/df0/a19169.html", "da/df0/a19169" ],
+    [ "boss_four_horsemen", "d3/d1e/a19165.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
+    [ "GetAI", "d3/d1e/a19165.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
 ];

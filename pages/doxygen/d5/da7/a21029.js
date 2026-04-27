@@ -1,7 +1,6 @@
 var a21029 =
 [
-    [ "PrepareAuraScript", "d5/da7/a21029.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
-    [ "Register", "d5/da7/a21029.html#a7225d1f83921e4de06516c1db5a5038a", null ],
-    [ "TriggerFists", "d5/da7/a21029.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
-    [ "Validate", "d5/da7/a21029.html#a977897c569245148eb94892bb42d4ca5", null ]
+    [ "npc_frozen_orb_stalkerAI", "d8/df6/a21033.html", "d8/df6/a21033" ],
+    [ "npc_frozen_orb_stalker", "d5/da7/a21029.html#a7f025c829106aa6668427f913d07a722", null ],
+    [ "GetAI", "d5/da7/a21029.html#af33e27138a70286bac561113ed09f350", null ]
 ];

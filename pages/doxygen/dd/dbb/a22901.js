@@ -1,10 +1,13 @@
 var a22901 =
 [
-    [ "Spells", "dd/dbb/a22901.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "dd/dbb/a22901.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "dd/dbb/a22901.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "dd/dbb/a22901.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "dd/dbb/a22901.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "dd/dbb/a22901.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "npc_earthen_ring_flamecaller", "dd/dbb/a22901.html#ab402dd321fa0df641b674324386d7591", null ],
+    [ "DoAction", "dd/dbb/a22901.html#af745c83529a34a89c430d6113703fff5", null ],
+    [ "LookOpening", "dd/dbb/a22901.html#adfc752e7700a816b66b639007a1a90fa", null ],
+    [ "MovementInform", "dd/dbb/a22901.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
+    [ "Reset", "dd/dbb/a22901.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
+    [ "SpellHit", "dd/dbb/a22901.html#ab9c5ad7e56033997042031566748ee2b", null ],
+    [ "UpdateAI", "dd/dbb/a22901.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
+    [ "_events", "dd/dbb/a22901.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
+    [ "_instance", "dd/dbb/a22901.html#a79aa6e628a50ed485cc55513c28362dc", null ],
+    [ "_mySpot", "dd/dbb/a22901.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
 ];

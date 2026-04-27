@@ -1,11 +1,9 @@
 var a19953 =
 [
-    [ "boss_flame_leviathan_defense_turret", "db/d8c/a19953.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
-    [ "CanAIAttack", "db/d8c/a19953.html#a17020dc7facabb0cacac3209277a73f7", null ],
-    [ "DamageTaken", "db/d8c/a19953.html#ac15aadce1954d827b7e833ed761faf10", null ],
-    [ "JustDied", "db/d8c/a19953.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
-    [ "KilledUnit", "db/d8c/a19953.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
-    [ "UpdateAI", "db/d8c/a19953.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
-    [ "_instance", "db/d8c/a19953.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
-    [ "_setHealth", "db/d8c/a19953.html#a413187aa01c119d088846a216f093baa", null ]
+    [ "npc_thorims_hammer", "db/d8c/a19953.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
+    [ "Reset", "db/d8c/a19953.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
+    [ "UpdateAI", "db/d8c/a19953.html#a006414298b31eb0cfb964916298d66ce", null ],
+    [ "_beamTimer", "db/d8c/a19953.html#adcd5af2b86d1d8f119514f799c42444b", null ],
+    [ "_finishTime", "db/d8c/a19953.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
+    [ "_removeTimer", "db/d8c/a19953.html#a7b9a2435b0953c12e693c562193d45e0", null ]
 ];

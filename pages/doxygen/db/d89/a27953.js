@@ -1,10 +1,5 @@
 var a27953 =
 [
-    [ "guard_shattrath_aldorAI", "db/d89/a27953.html#a88961dfe4100dfe207af693a1eed86ad", null ],
-    [ "Reset", "db/d89/a27953.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
-    [ "UpdateAI", "db/d89/a27953.html#ac87ee12d4487971b68c70f06f63eb410", null ],
-    [ "banishTimer", "db/d89/a27953.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
-    [ "canTeleport", "db/d89/a27953.html#af4d933b56431d2f2755d87fb05922458", null ],
-    [ "exileTimer", "db/d89/a27953.html#a8d56205206f3e14184922f96873456ad", null ],
-    [ "playerGUID", "db/d89/a27953.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
+    [ "item_captured_frog", "db/d89/a27953.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "db/d89/a27953.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

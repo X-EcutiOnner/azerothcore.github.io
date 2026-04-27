@@ -1,8 +1,5 @@
 var a16117 =
 [
-    [ "HandleAfterCast", "d2/ddb/a16117.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "d2/ddb/a16117.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "d2/ddb/a16117.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "d2/ddb/a16117.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "d2/ddb/a16117.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "achievement_volunteer_work", "d2/ddb/a16117.html#a43db6e553b370f139ac376840fdf6d70", null ],
+    [ "OnCheck", "d2/ddb/a16117.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
 ];

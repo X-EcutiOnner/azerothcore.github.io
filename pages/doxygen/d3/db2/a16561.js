@@ -1,6 +1,8 @@
 var a16561 =
 [
-    [ "npc_black_knight_ghoulAI", "d0/dbc/a16565.html", "d0/dbc/a16565" ],
-    [ "npc_black_knight_ghoul", "d3/db2/a16561.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
-    [ "GetAI", "d3/db2/a16561.html#a52308f8d168e1ccea22de653813b7f6f", null ]
+    [ "npc_toc5_player_vehicleAI", "d3/db2/a16561.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "d3/db2/a16561.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "d3/db2/a16561.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "d3/db2/a16561.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "d3/db2/a16561.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

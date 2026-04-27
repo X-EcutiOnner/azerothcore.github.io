@@ -1,6 +1,7 @@
 var a14801 =
 [
-    [ "HandleAfterEffectApply", "db/d67/a14801.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
-    [ "PrepareAuraScript", "db/d67/a14801.html#a917379c33352721b5b76c1d9dac0c025", null ],
-    [ "Register", "db/d67/a14801.html#a846d79564d76d6000c2276045775d7da", null ]
+    [ "HandleDummy", "db/d67/a14801.html#a05c3589ee04eed87449f652db065f0e9", null ],
+    [ "PrepareSpellScript", "db/d67/a14801.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
+    [ "Register", "db/d67/a14801.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
+    [ "Validate", "db/d67/a14801.html#a5fc6dae87ffb634cc0de389196751b22", null ]
 ];

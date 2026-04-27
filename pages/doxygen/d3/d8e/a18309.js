@@ -1,9 +1,6 @@
 var a18309 =
 [
-    [ "AfterApply", "d3/d8e/a18309.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
-    [ "ExtraRemoveEffect", "d3/d8e/a18309.html#a9f427761fcca9029eb75d586e5876fcd", null ],
-    [ "PeriodicTick", "d3/d8e/a18309.html#a82430399e44001343f322b2c3b7769a5", null ],
-    [ "PrepareAuraScript", "d3/d8e/a18309.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
-    [ "Register", "d3/d8e/a18309.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
-    [ "Validate", "d3/d8e/a18309.html#ae20873e93fbace6272a793993fb45349", null ]
+    [ "npc_spinestalkerAI", "d8/d7f/a18313.html", "d8/d7f/a18313" ],
+    [ "npc_spinestalker", "d3/d8e/a18309.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
+    [ "GetAI", "d3/d8e/a18309.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
 ];

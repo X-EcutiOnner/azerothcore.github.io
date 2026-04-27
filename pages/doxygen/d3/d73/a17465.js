@@ -1,6 +1,6 @@
 var a17465 =
 [
-    [ "ShockVortexExplodeEvent", "d3/d73/a17465.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "d3/d73/a17465.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "d3/d73/a17465.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "boss_prince_valanarAI", "d1/d04/a17469.html", "d1/d04/a17469" ],
+    [ "boss_prince_valanar_icc", "d3/d73/a17465.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "d3/d73/a17465.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

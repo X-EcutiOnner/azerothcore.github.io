@@ -1,12 +1,8 @@
 var a23941 =
 [
-    [ "npc_unkor_the_ruthlessAI", "de/d43/a23941.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "de/d43/a23941.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "DoNice", "de/d43/a23941.html#aa673fc892b9c0d59b2789271140e6054", null ],
-    [ "JustEngagedWith", "de/d43/a23941.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "de/d43/a23941.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "UpdateAI", "de/d43/a23941.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "CanDoQuest", "de/d43/a23941.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
-    [ "Pulverize_Timer", "de/d43/a23941.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
-    [ "UnkorUnfriendly_Timer", "de/d43/a23941.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
+    [ "npc_pet_dk_ghoul", "de/d43/a23941.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "de/d43/a23941.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "de/d43/a23941.html#a6095e3619b470283b9875b90e2805b54", null ],
+    [ "UpdateAI", "de/d43/a23941.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
+    [ "_summonTargetGUID", "de/d43/a23941.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
 ];

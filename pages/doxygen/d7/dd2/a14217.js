@@ -1,6 +1,7 @@
 var a14217 =
 [
-    [ "npc_eagle_trash_aggro_trigger", "d7/dd2/a14217.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
-    [ "MoveInLineOfSight", "d7/dd2/a14217.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
-    [ "_instance", "d7/dd2/a14217.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
+    [ "HandleEffect", "d7/dd2/a14217.html#a8cda8eff109af7441d6990a236a52b80", null ],
+    [ "PrepareSpellScript", "d7/dd2/a14217.html#acc2698ba702be211bef63cefa41005f4", null ],
+    [ "Register", "d7/dd2/a14217.html#a5d6dccbb44a5d95055755673ad70707f", null ],
+    [ "Validate", "d7/dd2/a14217.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
 ];

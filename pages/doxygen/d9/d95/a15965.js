@@ -1,7 +1,9 @@
 var a15965 =
 [
-    [ "npc_lakota_windsongAI", "da/da3/a15969.html", "da/da3/a15969" ],
-    [ "npc_lakota_windsong", "d9/d95/a15965.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "d9/d95/a15965.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "d9/d95/a15965.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "npc_pluckyAI", "d9/d95/a15965.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "d9/d95/a15965.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "d9/d95/a15965.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "d9/d95/a15965.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "d9/d95/a15965.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "d9/d95/a15965.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

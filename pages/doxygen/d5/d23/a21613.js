@@ -1,6 +1,10 @@
 var a21613 =
 [
-    [ "HandleOnEffectRemove", "d5/d23/a21613.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d5/d23/a21613.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d5/d23/a21613.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_Apothecary_HanesAI", "d5/d23/a21613.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "d5/d23/a21613.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "d5/d23/a21613.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "d5/d23/a21613.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "d5/d23/a21613.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "WaypointReached", "d5/d23/a21613.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "PotTimer", "d5/d23/a21613.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

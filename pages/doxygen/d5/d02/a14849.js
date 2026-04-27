@@ -1,6 +1,5 @@
 var a14849 =
 [
-    [ "HandleDummy", "d5/d02/a14849.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "d5/d02/a14849.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "d5/d02/a14849.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "achievement_pb_pilgrims_peril", "d5/d02/a14849.html#a9516eab18d7e1401a5637913d8ec9595", null ],
+    [ "OnCheck", "d5/d02/a14849.html#a78c92eab532448080c1d28dc8fcabaca", null ]
 ];

@@ -1,6 +1,8 @@
 var a25229 =
 [
-    [ "CalculateAmount", "db/d5c/a25229.html#ac0018b57967a3d3ae71aa81745032f15", null ],
-    [ "PrepareAuraScript", "db/d5c/a25229.html#ab249a493050c5527eeec8913e94cfc64", null ],
-    [ "Register", "db/d5c/a25229.html#a8f078f8370eacba197ceb2068b6a538d", null ]
+    [ "CheckProc", "db/d5c/a25229.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
+    [ "HandleProc", "db/d5c/a25229.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
+    [ "PrepareAuraScript", "db/d5c/a25229.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
+    [ "Register", "db/d5c/a25229.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
+    [ "Validate", "db/d5c/a25229.html#a7762ce25775b98dba14b4ac465cad711", null ]
 ];

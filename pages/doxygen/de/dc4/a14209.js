@@ -1,6 +1,7 @@
 var a14209 =
 [
-    [ "OnEffect", "de/dc4/a14209.html#ab87d53faac04ced3c11088e260782068", null ],
-    [ "PrepareSpellScript", "de/dc4/a14209.html#af618e8d84029dda5e48b699cbcf671be", null ],
-    [ "Register", "de/dc4/a14209.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
+    [ "HandleTriggerSpell", "de/dc4/a14209.html#a66b366f4989d99a58b331e56024e4520", null ],
+    [ "PrepareAuraScript", "de/dc4/a14209.html#a4b00497e095b5c43571b543252b31e58", null ],
+    [ "Register", "de/dc4/a14209.html#abacee7689888bf8c5d21b534a6d71b40", null ],
+    [ "Validate", "de/dc4/a14209.html#a6bef0ac760a319deed6f71fee213e885", null ]
 ];

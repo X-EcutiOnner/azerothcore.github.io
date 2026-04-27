@@ -1,7 +1,6 @@
 var a26557 =
 [
-    [ "HandleProc", "d5/df8/a26557.html#af27f9408725ff9c7ec17e8ae352234a9", null ],
-    [ "PrepareAuraScript", "d5/df8/a26557.html#a11c2e125d7a583966be3f8a64064a5ad", null ],
-    [ "Register", "d5/df8/a26557.html#a283f05b3649e3c137679ab92386f7a84", null ],
-    [ "Validate", "d5/df8/a26557.html#a4805c758dc85e065cdb9550a5856fe31", null ]
+    [ "CheckCast", "d5/df8/a26557.html#a624ee45c92b37da12204dcc95dc815ca", null ],
+    [ "PrepareSpellScript", "d5/df8/a26557.html#acdbb427ed3ebe9e2b8089a5bb50489a9", null ],
+    [ "Register", "d5/df8/a26557.html#abc4e276c4759bad63b692a467f2f88f2", null ]
 ];

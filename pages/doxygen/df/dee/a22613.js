@@ -1,6 +1,6 @@
 var a22613 =
 [
-    [ "ShadowOfDeathSelector", "df/dee/a22613.html#a1190094fbde74ccffd954fea742ab0ae", null ],
-    [ "operator()", "df/dee/a22613.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
-    [ "_tank", "df/dee/a22613.html#adc238645eec306e00918dbab05549fc8", null ]
+    [ "HandleEffectRemove", "df/dee/a22613.html#a99891cf49d35a857cd014fe83bc83e43", null ],
+    [ "PrepareAuraScript", "df/dee/a22613.html#ab8fed8e7b561146cca35fe8534ea248c", null ],
+    [ "Register", "df/dee/a22613.html#a5a65a3fca846dc40aeb31e4ff56958ca", null ]
 ];

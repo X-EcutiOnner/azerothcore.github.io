@@ -1,6 +1,6 @@
 var a18149 =
 [
-    [ "FilterTargetsInitial", "d2/d88/a18149.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "d2/d88/a18149.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "d2/d88/a18149.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "boss_rotfaceAI", "d4/d69/a18153.html", "d4/d69/a18153" ],
+    [ "boss_rotface", "d2/d88/a18149.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d2/d88/a18149.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

@@ -1,9 +1,6 @@
 var a20537 =
 [
-    [ "npc_xt002_pummeller", "db/ddb/a20537.html#a5e6fe72dbdedef5526704656c58a9e35", null ],
-    [ "Reset", "db/ddb/a20537.html#a6140f9b246abeba75c291aa7e9624217", null ],
-    [ "UpdateAI", "db/ddb/a20537.html#a90c16a2da7c6c28759a89580736d34e8", null ],
-    [ "_arcingSmashTimer", "db/ddb/a20537.html#ae6118dc72cac8f8f7509999fcdbc219e", null ],
-    [ "_trampleTimer", "db/ddb/a20537.html#a5999bcaf51e20265e7b74d6e47803c69", null ],
-    [ "_uppercutTimer", "db/ddb/a20537.html#a4a2427392e5531a4cab88243150f1ecf", null ]
+    [ "PrepareSpellScript", "db/ddb/a20537.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "db/ddb/a20537.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "db/ddb/a20537.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

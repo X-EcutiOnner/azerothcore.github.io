@@ -1,6 +1,6 @@
 var a15309 =
 [
-    [ "HandleDummyHitTarget", "dd/de5/a15309.html#ae773d73496578170061baedd8f7daec1", null ],
-    [ "PrepareSpellScript", "dd/de5/a15309.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
-    [ "Register", "dd/de5/a15309.html#a651cc94581130224ba23e864f8ad7060", null ]
+    [ "HandleScript", "dd/de5/a15309.html#a7e6ec873a252106ba865bdef05f757f5", null ],
+    [ "PrepareSpellScript", "dd/de5/a15309.html#a98e80c8726c350aca850b6c87c5861da", null ],
+    [ "Register", "dd/de5/a15309.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
 ];

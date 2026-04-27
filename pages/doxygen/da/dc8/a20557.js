@@ -1,6 +1,5 @@
 var a20557 =
 [
-    [ "PrepareSpellScript", "da/dc8/a20557.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "da/dc8/a20557.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "da/dc8/a20557.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "achievement_xt002_nerf_engineering", "da/dc8/a20557.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "da/dc8/a20557.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

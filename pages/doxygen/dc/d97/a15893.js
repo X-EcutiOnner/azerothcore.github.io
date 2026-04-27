@@ -1,7 +1,10 @@
 var a15893 =
 [
-    [ "npc_kaya_flathoofAI", "da/d64/a15897.html", "da/d64/a15897" ],
-    [ "npc_kaya_flathoof", "dc/d97/a15893.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "dc/d97/a15893.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "dc/d97/a15893.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "npc_custodian_of_timeAI", "dc/d97/a15893.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "dc/d97/a15893.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "dc/d97/a15893.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "dc/d97/a15893.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "dc/d97/a15893.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "dc/d97/a15893.html#a963736e62fbd0caea631ee3fb69fca46", null ],
+    [ "WaypointReached", "dc/d97/a15893.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

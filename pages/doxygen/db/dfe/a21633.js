@@ -1,10 +1,8 @@
 var a21633 =
 [
-    [ "npc_Apothecary_HanesAI", "db/dfe/a21633.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "db/dfe/a21633.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "db/dfe/a21633.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "db/dfe/a21633.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "db/dfe/a21633.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "WaypointReached", "db/dfe/a21633.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "PotTimer", "db/dfe/a21633.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "CheckCast", "db/dfe/a21633.html#a49e425fa95e5107f38aa16e546674b7d", null ],
+    [ "HandleScript", "db/dfe/a21633.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
+    [ "PrepareSpellScript", "db/dfe/a21633.html#a9e7a1239e165131b70c437793b5371d0", null ],
+    [ "Register", "db/dfe/a21633.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
+    [ "Validate", "db/dfe/a21633.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
 ];

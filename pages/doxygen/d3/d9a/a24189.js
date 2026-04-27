@@ -1,7 +1,7 @@
 var a24189 =
 [
-    [ "CorpseExplosionCheck", "d3/d9a/a24189.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
-    [ "operator()", "d3/d9a/a24189.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
-    [ "_allowGhoul", "d3/d9a/a24189.html#abd42a0731af969ceccdfceae722ba276", null ],
-    [ "_casterGUID", "d3/d9a/a24189.html#a497df87745f452716c652e9b1be6d46f", null ]
+    [ "HandleDummy", "d3/d9a/a24189.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
+    [ "PrepareSpellScript", "d3/d9a/a24189.html#a2fe4b009fa3741c180e18730af5853e3", null ],
+    [ "Register", "d3/d9a/a24189.html#a762c2320ab8d48e1284d81962a4b078f", null ],
+    [ "Validate", "d3/d9a/a24189.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
 ];

@@ -1,6 +1,8 @@
 var a16701 =
 [
-    [ "npc_toc_priestAI", "dd/d9a/a16705.html", "dd/d9a/a16705" ],
-    [ "npc_toc_priest", "d2/dd7/a16701.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "d2/dd7/a16701.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "npc_toc_warlockAI", "d2/dd7/a16701.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d2/dd7/a16701.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d2/dd7/a16701.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d2/dd7/a16701.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d2/dd7/a16701.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

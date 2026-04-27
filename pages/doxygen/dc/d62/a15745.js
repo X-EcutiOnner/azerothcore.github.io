@@ -1,11 +1,7 @@
 var a15745 =
 [
-    [ "npc_tiger_matriarchAI", "dc/d62/a15745.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
-    [ "DamageTaken", "dc/d62/a15745.html#ab41c4275fe4f42b36615f746a100ccda", null ],
-    [ "IsSummonedBy", "dc/d62/a15745.html#a8b02683be93944a65b38658bba0af4d8", null ],
-    [ "JustEngagedWith", "dc/d62/a15745.html#a9a9295008552f5330f778dd3a0c591ea", null ],
-    [ "KilledUnit", "dc/d62/a15745.html#aabde7633ac07966ee1cd2d9817582189", null ],
-    [ "UpdateAI", "dc/d62/a15745.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
-    [ "_events", "dc/d62/a15745.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
-    [ "_tigerGuid", "dc/d62/a15745.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
+    [ "HandleDummy", "dc/d62/a15745.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "dc/d62/a15745.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "dc/d62/a15745.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "dc/d62/a15745.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

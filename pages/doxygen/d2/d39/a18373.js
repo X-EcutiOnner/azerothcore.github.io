@@ -1,6 +1,5 @@
 var a18373 =
 [
-    [ "PeriodicTick", "d2/d39/a18373.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
-    [ "PrepareAuraScript", "d2/d39/a18373.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
-    [ "Register", "d2/d39/a18373.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
+    [ "FrozenThroneResetWorker", "d2/d39/a18373.html#afd21e9c1449d4e391713256e197bc92b", null ],
+    [ "operator()", "d2/d39/a18373.html#a7119548d30d760ae817a87cacf712cf6", null ]
 ];

@@ -127,6 +127,8 @@ Inheritance diagram for ServerScript:</div>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:ab51ce520816236687820d1f72bae0ed6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#ab51ce520816236687820d1f72bae0ed6">OnNetworkStart</a> ()</td></tr>
 <tr class="separator:ab51ce520816236687820d1f72bae0ed6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22b726d849ee171482ca7d6e0e1e4527"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#a22b726d849ee171482ca7d6e0e1e4527">OnNetworkStart</a> (<a class="el" href="../../d0/d6f/a05137.html">Acore::Asio::IoContext</a> &amp;)</td></tr>
+<tr class="separator:a22b726d849ee171482ca7d6e0e1e4527"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1f2e87caed202bbcde98e2cb0c8f19c6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#a1f2e87caed202bbcde98e2cb0c8f19c6">OnNetworkStop</a> ()</td></tr>
 <tr class="separator:a1f2e87caed202bbcde98e2cb0c8f19c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a22e84aee366a0010a753b7ed3403172f"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4e/a10705.html#a22e84aee366a0010a753b7ed3403172f">OnSocketOpen</a> (std::shared_ptr&lt; <a class="el" href="../../d6/d3d/a11573.html">WorldSocket</a> &gt; const &amp;)</td></tr>
@@ -196,21 +198,21 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   65</span>    : <a class="code hl_class" href="../../da/db8/a10757.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc">SERVERHOOK_END</a>)</div>
-<div class="line"><span class="lineno">   66</span>{</div>
-<div class="line"><span class="lineno">   67</span>    <span class="comment">// If empty - enable all available hooks.</span></div>
-<div class="line"><span class="lineno">   68</span>    <span class="keywordflow">if</span> (enabledHooks.empty())</div>
-<div class="line"><span class="lineno">   69</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../dd/d7a/a04568.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc">SERVERHOOK_END</a>; ++i)</div>
-<div class="line"><span class="lineno">   70</span>            enabledHooks.emplace_back(i);</div>
-<div class="line"><span class="lineno">   71</span> </div>
-<div class="line"><span class="lineno">   72</span>    <a class="code hl_function" href="../../d1/d64/a10753.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;ServerScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
-<div class="line"><span class="lineno">   73</span>}</div>
-<div class="ttc" id="aa00608_html_af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc"><div class="ttname"><a href="../../d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc">SERVERHOOK_END</a></div><div class="ttdeci">@ SERVERHOOK_END</div><div class="ttdef"><b>Definition:</b> ServerScript.h:33</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   66</span>    : <a class="code hl_class" href="../../da/db8/a10757.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc">SERVERHOOK_END</a>)</div>
+<div class="line"><span class="lineno">   67</span>{</div>
+<div class="line"><span class="lineno">   68</span>    <span class="comment">// If empty - enable all available hooks.</span></div>
+<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">if</span> (enabledHooks.empty())</div>
+<div class="line"><span class="lineno">   70</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../dd/d7a/a04568.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc">SERVERHOOK_END</a>; ++i)</div>
+<div class="line"><span class="lineno">   71</span>            enabledHooks.emplace_back(i);</div>
+<div class="line"><span class="lineno">   72</span> </div>
+<div class="line"><span class="lineno">   73</span>    <a class="code hl_function" href="../../d1/d64/a10753.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;ServerScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
+<div class="line"><span class="lineno">   74</span>}</div>
+<div class="ttc" id="aa00608_html_af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc"><div class="ttname"><a href="../../d4/d14/a00608.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc">SERVERHOOK_END</a></div><div class="ttdeci">@ SERVERHOOK_END</div><div class="ttdef"><b>Definition:</b> ServerScript.h:34</div></div>
 <div class="ttc" id="aa04568_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../dd/d7a/a04568.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa10753_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d1/d64/a10753.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:764</div></div>
+<div class="ttc" id="aa10753_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d1/d64/a10753.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:765</div></div>
 <div class="ttc" id="aa10757_html"><div class="ttname"><a href="../../da/db8/a10757.html">ScriptObject</a></div><div class="ttdef"><b>Definition:</b> ScriptObject.h:43</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00764">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00033">SERVERHOOK_END</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00765">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00034">SERVERHOOK_END</a>.</p>
 
 </div>
 </div>
@@ -258,7 +260,7 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>True if you want to continue receiving the packet, false if you want to disallow receiving the packet </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">   72</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   74</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -305,12 +307,12 @@ Protected Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>True if you want to continue sending the packet, false if you want to disallow sending the packet </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   64</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 </div>
 </div>
 <a id="ab51ce520816236687820d1f72bae0ed6" name="ab51ce520816236687820d1f72bae0ed6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab51ce520816236687820d1f72bae0ed6">&#9670;&#160;</a></span>OnNetworkStart()</h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ab51ce520816236687820d1f72bae0ed6">&#9670;&#160;</a></span>OnNetworkStart() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -331,8 +333,40 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   44</span>{ }</div>
 </div><!-- fragment -->
+</div>
+</div>
+<a id="a22b726d849ee171482ca7d6e0e1e4527" name="a22b726d849ee171482ca7d6e0e1e4527"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a22b726d849ee171482ca7d6e0e1e4527">&#9670;&#160;</a></span>OnNetworkStart() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void ServerScript::OnNetworkStart </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d6f/a05137.html">Acore::Asio::IoContext</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   45</span>{ <a class="code hl_function" href="../../d3/d4e/a10705.html#ab51ce520816236687820d1f72bae0ed6">OnNetworkStart</a>(); }</div>
+<div class="ttc" id="aa10705_html_ab51ce520816236687820d1f72bae0ed6"><div class="ttname"><a href="../../d3/d4e/a10705.html#ab51ce520816236687820d1f72bae0ed6">ServerScript::OnNetworkStart</a></div><div class="ttdeci">virtual void OnNetworkStart()</div><div class="ttdef"><b>Definition:</b> ServerScript.h:44</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00045">OnNetworkStart()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00045">OnNetworkStart()</a>.</p>
+
 </div>
 </div>
 <a id="a1f2e87caed202bbcde98e2cb0c8f19c6" name="a1f2e87caed202bbcde98e2cb0c8f19c6"></a>
@@ -357,7 +391,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -384,7 +418,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   53</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   55</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -411,7 +445,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   49</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -421,7 +455,7 @@ Protected Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d4e/a10705.html">ServerScript</a></li>
-    <li class="footer">Generated on Mon Apr 20 2026 21:16:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 27 2026 21:38:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

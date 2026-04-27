@@ -1,6 +1,5 @@
 var a28609 =
 [
-    [ "npc_venomhide_hatchlingAI", "d5/d82/a28609.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d5/d82/a28609.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d5/d82/a28609.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "ID", "d5/d82/a28609.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "d5/d82/a28609.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

@@ -1,9 +1,8 @@
 var a24269 =
 [
-    [ "Absorb", "df/d58/a24269.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
-    [ "CalculateAmount", "df/d58/a24269.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
-    [ "Load", "df/d58/a24269.html#ab7eae0747736dea5633ef51eb0945fae", null ],
-    [ "PrepareAuraScript", "df/d58/a24269.html#a760b72149ee11ad88e290c9537b3094b", null ],
-    [ "Register", "df/d58/a24269.html#a0d25efee128ee95f9ad268b53358f376", null ],
-    [ "absorbPct", "df/d58/a24269.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
+    [ "CheckProc", "df/d58/a24269.html#af8ecd189601dbbc34a1d633e1de3eed8", null ],
+    [ "HandleProc", "df/d58/a24269.html#a03f5428462b132c438b40575182e5081", null ],
+    [ "PrepareAuraScript", "df/d58/a24269.html#a301947c8053d4a4ee4de2a05f58b7505", null ],
+    [ "Register", "df/d58/a24269.html#a9b3793739de21b5117e4a66e2951f939", null ],
+    [ "Validate", "df/d58/a24269.html#acc50882146bad569108852b207d519fd", null ]
 ];

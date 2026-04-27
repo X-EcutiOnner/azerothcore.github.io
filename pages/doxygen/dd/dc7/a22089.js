@@ -1,6 +1,5 @@
 var a22089 =
 [
-    [ "npc_crusade_recruitAI", "d6/d01/a22093.html", "d6/d01/a22093" ],
-    [ "npc_crusade_recruit", "dd/dc7/a22089.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "dd/dc7/a22089.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "dd/dc7/a22089.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "dd/dc7/a22089.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

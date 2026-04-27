@@ -1,6 +1,9 @@
 var a17873 =
 [
-    [ "PrepareSpellScript", "da/d8d/a17873.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "da/d8d/a17873.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "da/d8d/a17873.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "CalculatePower", "da/d8d/a17873.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "da/d8d/a17873.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "da/d8d/a17873.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "da/d8d/a17873.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "da/d8d/a17873.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "da/d8d/a17873.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

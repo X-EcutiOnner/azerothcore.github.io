@@ -1,7 +1,10 @@
 var a22421 =
 [
-    [ "HandleScriptEffect", "d8/d5d/a22421.html#a16f131e42272bc75c99df2a9cf43470e", null ],
-    [ "PrepareSpellScript", "d8/d5d/a22421.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
-    [ "Register", "d8/d5d/a22421.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
-    [ "Validate", "d8/d5d/a22421.html#a58ff628906f3077a354ed486d3c56d23", null ]
+    [ "boss_illidari_council", "d8/d5d/a22421.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "d8/d5d/a22421.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "d8/d5d/a22421.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "d8/d5d/a22421.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "d8/d5d/a22421.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "d8/d5d/a22421.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "d8/d5d/a22421.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

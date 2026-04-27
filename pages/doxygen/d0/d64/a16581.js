@@ -1,8 +1,6 @@
 var a16581 =
 [
-    [ "npc_toc5_player_vehicleAI", "d0/d64/a16581.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "d0/d64/a16581.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "d0/d64/a16581.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "d0/d64/a16581.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "d0/d64/a16581.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d1/dcb/a16585.html", "d1/dcb/a16585" ],
+    [ "instance_trial_of_the_champion", "d0/d64/a16581.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d0/d64/a16581.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

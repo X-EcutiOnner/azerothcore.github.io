@@ -1,6 +1,9 @@
 var a21897 =
 [
-    [ "npc_freed_protodrakeAI", "d6/d93/a21901.html", "d6/d93/a21901" ],
-    [ "npc_freed_protodrake", "dc/d88/a21897.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "dc/d88/a21897.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "HandlePeriodic", "dc/d88/a21897.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "dc/d88/a21897.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "dc/d88/a21897.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "dc/d88/a21897.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "dc/d88/a21897.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "dc/d88/a21897.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

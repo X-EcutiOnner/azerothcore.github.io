@@ -1,6 +1,7 @@
 var a18873 =
 [
-    [ "npc_captain_rupertAI", "d6/d3f/a18877.html", "d6/d3f/a18877" ],
-    [ "npc_captain_rupert", "d5/dfc/a18873.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
-    [ "GetAI", "d5/dfc/a18873.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
+    [ "npc_impaling_spearAI", "d5/dfc/a18873.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "d5/dfc/a18873.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "d5/dfc/a18873.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "d5/dfc/a18873.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

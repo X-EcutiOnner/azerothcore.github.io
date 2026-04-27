@@ -1,7 +1,7 @@
 var a27109 =
 [
-    [ "HandleEffectProc", "d4/d06/a27109.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
-    [ "PrepareAuraScript", "d4/d06/a27109.html#a47d844a9700cd8add793e3f3088d1b82", null ],
-    [ "Register", "d4/d06/a27109.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
-    [ "Validate", "d4/d06/a27109.html#a97f5239399e7135b02000722eaf837ad", null ]
+    [ "AfterRemove", "d4/d06/a27109.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "d4/d06/a27109.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "d4/d06/a27109.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "d4/d06/a27109.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

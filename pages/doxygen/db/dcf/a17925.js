@@ -1,7 +1,6 @@
 var a17925 =
 [
-    [ "PrepareSpellScript", "db/dcf/a17925.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "db/dcf/a17925.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "db/dcf/a17925.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "db/dcf/a17925.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "boss_lady_deathwhisperAI", "d0/d76/a17929.html", "d0/d76/a17929" ],
+    [ "boss_lady_deathwhisper", "db/dcf/a17925.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "db/dcf/a17925.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

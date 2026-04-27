@@ -1,7 +1,6 @@
 var a20729 =
 [
-    [ "HandleProc", "d8/df9/a20729.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d8/df9/a20729.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d8/df9/a20729.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d8/df9/a20729.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "instance_ulduar_InstanceMapScript", "d6/d37/a20733.html", "d6/d37/a20733" ],
+    [ "instance_ulduar", "d8/df9/a20729.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "d8/df9/a20729.html#ae263428f4229c75b22f990dabe6b3c06", null ]
 ];

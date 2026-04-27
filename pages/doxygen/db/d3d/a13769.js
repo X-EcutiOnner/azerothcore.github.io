@@ -1,7 +1,10 @@
 var a13769 =
 [
-    [ "PeriodicTick", "db/d3d/a13769.html#acca46d585d06d461f735cddb6075b3b1", null ],
-    [ "PrepareAuraScript", "db/d3d/a13769.html#abd7382ab22efd3d82c4f00745255d024", null ],
-    [ "Register", "db/d3d/a13769.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
-    [ "Validate", "db/d3d/a13769.html#acb31ba162452a30ff0c208829560f9fd", null ]
+    [ "npc_sunblade_scout", "db/d3d/a13769.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "db/d3d/a13769.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "db/d3d/a13769.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "db/d3d/a13769.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "db/d3d/a13769.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "db/d3d/a13769.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "db/d3d/a13769.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

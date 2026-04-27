@@ -1,7 +1,6 @@
 var a15141 =
 [
-    [ "npc_tarethaAI", "de/d1b/a15145.html", "de/d1b/a15145" ],
-    [ "npc_taretha", "db/dc0/a15141.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "db/dc0/a15141.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "db/dc0/a15141.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "de/d1b/a15145.html", "de/d1b/a15145" ],
+    [ "instance_the_black_morass", "db/dc0/a15141.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
+    [ "GetInstanceScript", "db/dc0/a15141.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
 ];

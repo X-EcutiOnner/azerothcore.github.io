@@ -1,6 +1,6 @@
 var a21457 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d3/dc6/a21461.html", "d3/dc6/a21461" ],
-    [ "npc_q24545_wretched_ghoul", "d4/d64/a21457.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "d4/d64/a21457.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_q24545_vegard_dummyAI", "d4/d64/a21457.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "d4/d64/a21457.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "d4/d64/a21457.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

@@ -1,11 +1,11 @@
 var a03035 =
 [
-    [ "boss_brutallus", "d8/d26/a13545.html", "d8/d26/a13545" ],
-    [ "npc_madrigosa", "d5/dd1/a13549.html", "d5/dd1/a13549" ],
-    [ "spell_madrigosa_activate_barrier", "d8/d51/a13553.html", "d8/d51/a13553" ],
-    [ "spell_madrigosa_deactivate_barrier", "dd/d41/a13557.html", "dd/d41/a13557" ],
-    [ "spell_brutallus_burn", "d6/df5/a13561.html", "d6/df5/a13561" ],
-    [ "at_sunwell_madrigosa", "db/d01/a13565.html", "db/d01/a13565" ],
+    [ "boss_brutallus", "dc/d5d/a13525.html", "dc/d5d/a13525" ],
+    [ "npc_madrigosa", "d0/d49/a13529.html", "d0/d49/a13529" ],
+    [ "spell_madrigosa_activate_barrier", "d1/df2/a13533.html", "d1/df2/a13533" ],
+    [ "spell_madrigosa_deactivate_barrier", "dc/dc7/a13537.html", "dc/dc7/a13537" ],
+    [ "spell_brutallus_burn", "d4/d99/a13541.html", "d4/d99/a13541" ],
+    [ "at_sunwell_madrigosa", "d8/d26/a13545.html", "d8/d26/a13545" ],
     [ "eMadrigosa", "d1/d89/a03035.html#a9c013fd339fb1c6ec76dc9784b1fd77c", [
       [ "EVENT_MAD_1", "d1/d89/a03035.html#a9c013fd339fb1c6ec76dc9784b1fd77ca8adbf4ce28357322d3e36e80ac8abe2b", null ],
       [ "EVENT_MAD_2", "d1/d89/a03035.html#a9c013fd339fb1c6ec76dc9784b1fd77ca0f9096979814eadf4a111ed1d7e4fc5f", null ],
@@ -411,6 +411,9 @@ var a03035 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

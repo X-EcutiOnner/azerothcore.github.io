@@ -1,7 +1,6 @@
 var a14229 =
 [
-    [ "HandleTriggerSpell", "dd/dec/a14229.html#a66b366f4989d99a58b331e56024e4520", null ],
-    [ "PrepareAuraScript", "dd/dec/a14229.html#a4b00497e095b5c43571b543252b31e58", null ],
-    [ "Register", "dd/dec/a14229.html#abacee7689888bf8c5d21b534a6d71b40", null ],
-    [ "Validate", "dd/dec/a14229.html#a6bef0ac760a319deed6f71fee213e885", null ]
+    [ "npc_zulian_prowlerAI", "d1/db6/a14233.html", "d1/db6/a14233" ],
+    [ "npc_zulian_prowler", "dd/dec/a14229.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "dd/dec/a14229.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

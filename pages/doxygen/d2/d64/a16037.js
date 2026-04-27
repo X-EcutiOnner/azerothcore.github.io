@@ -1,6 +1,6 @@
 var a16037 =
 [
-    [ "creatureID", "d2/d64/a16037.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "d2/d64/a16037.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "d2/d64/a16037.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "npc_sergeant_blyAI", "d6/dc3/a16041.html", "d6/dc3/a16041" ],
+    [ "npc_sergeant_bly", "d2/d64/a16037.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
+    [ "GetAI", "d2/d64/a16037.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
 ];

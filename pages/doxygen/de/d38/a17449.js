@@ -1,5 +1,6 @@
 var a17449 =
 [
-    [ "achievement_snakes_whyd_it_have_to_be_snakes", "de/d38/a17449.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
-    [ "OnCheck", "de/d38/a17449.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
+    [ "boss_prince_kelesethAI", "dd/d7f/a17453.html", "dd/d7f/a17453" ],
+    [ "boss_prince_keleseth_icc", "de/d38/a17449.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "de/d38/a17449.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

@@ -1,6 +1,10 @@
 var a19337 =
 [
-    [ "boss_patchwerkAI", "d8/d68/a19341.html", "d8/d68/a19341" ],
-    [ "boss_patchwerk", "d1/d88/a19337.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
-    [ "GetAI", "d1/d88/a19337.html#a03f2dec61192405760958e26d998d67e", null ]
+    [ "boss_razuvious_minionAI", "d1/d88/a19337.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "d1/d88/a19337.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "d1/d88/a19337.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "d1/d88/a19337.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "d1/d88/a19337.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "d1/d88/a19337.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "d1/d88/a19337.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

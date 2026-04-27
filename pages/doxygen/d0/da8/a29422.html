@@ -104,21 +104,29 @@ $(document).ready(function(){initNavTree('dd/dbc/a29425.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">SpellProcFullCoverageTest Member List</div></div>
+  <div class="headertitle"><div class="title">SpellProcSpellTypeMaskTest Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../dd/dbc/a29425.html">SpellProcFullCoverageTest</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../dd/dbc/a29425.html">SpellProcSpellTypeMaskTest</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../dd/dbc/a29425.html#a36067d0031cbdbc00b1c6dcfbfe2358c">_entry</a></td><td class="entry"><a class="el" href="../../dd/dbc/a29425.html">SpellProcFullCoverageTest</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../dd/dbc/a29425.html#affb4da9ec7478c526f07056b83bfff60">_procEntry</a></td><td class="entry"><a class="el" href="../../dd/dbc/a29425.html">SpellProcFullCoverageTest</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../dd/dbc/a29425.html#a1aea096e3b4fe9657c3166e0688a2407">SetUp</a>() override</td><td class="entry"><a class="el" href="../../dd/dbc/a29425.html">SpellProcFullCoverageTest</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d6d/a29109.html#a0b5925a6df47ba704bfc196cc89c4919">_context</a></td><td class="entry"><a class="el" href="../../de/d6d/a29109.html">AuraScriptProcTestFixture</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d6d/a29109.html#a30ebff666ac835168f1bf7d6aa771e0c">_spellInfos</a></td><td class="entry"><a class="el" href="../../de/d6d/a29109.html">AuraScriptProcTestFixture</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dd/dbc/a29425.html#ad4f136e69c7553ac32b1de047bf73c59">CalculateSpellTypeMask</a>(uint32 procPhase, DamageInfo *damageInfo, HealInfo *healInfo, bool hasSpellInfo)</td><td class="entry"><a class="el" href="../../dd/dbc/a29425.html">SpellProcSpellTypeMaskTest</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d6d/a29109.html#a0dd9f22f9528a05b229828e4a2c97757">Context</a>()</td><td class="entry"><a class="el" href="../../de/d6d/a29109.html">AuraScriptProcTestFixture</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d6d/a29109.html#a81032fc22ce45902d34cf897606bd966">CreateEventInfo</a>(uint32_t typeMask, uint32_t hitMask, uint32_t spellTypeMask=PROC_SPELL_TYPE_MASK_ALL, uint32_t spellPhaseMask=PROC_SPELL_PHASE_HIT)</td><td class="entry"><a class="el" href="../../de/d6d/a29109.html">AuraScriptProcTestFixture</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d6d/a29109.html#a26531bd3f3256075455b32b42a172f6a">CreateProcEntry</a>()</td><td class="entry"><a class="el" href="../../de/d6d/a29109.html">AuraScriptProcTestFixture</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d6d/a29109.html#adee75944dc2e9a3fff7848d0ccfff527">CreateSpellInfo</a>(uint32_t id, uint32_t familyName=0, uint32_t familyFlags0=0, uint32_t familyFlags1=0, uint32_t familyFlags2=0)</td><td class="entry"><a class="el" href="../../de/d6d/a29109.html">AuraScriptProcTestFixture</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dd/dbc/a29425.html#a57be47f0c3962451b527ffe247dee814">SetUp</a>() override</td><td class="entry"><a class="el" href="../../dd/dbc/a29425.html">SpellProcSpellTypeMaskTest</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d6d/a29109.html#a782580d41f8233b93d51fe347601e730">TearDown</a>() override</td><td class="entry"><a class="el" href="../../de/d6d/a29109.html">AuraScriptProcTestFixture</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d6d/a29109.html#a409ccb130f529cb20e5164b465e05ca6">TestCanProc</a>(SpellProcEntry const &amp;procEntry, uint32_t typeMask, uint32_t hitMask, SpellInfo const *triggerSpell=nullptr)</td><td class="entry"><a class="el" href="../../de/d6d/a29109.html">AuraScriptProcTestFixture</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d6d/a29109.html#a97d06c4fdf207051543fbf8c9207242e">TestSpellFamilyMatch</a>(uint32_t procFamilyName, flag96 const &amp;procFamilyMask, SpellInfo const *triggerSpell)</td><td class="entry"><a class="el" href="../../de/d6d/a29109.html">AuraScriptProcTestFixture</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Apr 20 2026 21:16:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Apr 27 2026 21:38:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

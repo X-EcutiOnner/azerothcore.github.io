@@ -1,6 +1,6 @@
 var a15589 =
 [
-    [ "HandleDummy", "d0/d6b/a15589.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "d0/d6b/a15589.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "d0/d6b/a15589.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "npc_muglashAI", "d1/db6/a15593.html", "d1/db6/a15593" ],
+    [ "npc_muglash", "d0/d6b/a15589.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
+    [ "GetAI", "d0/d6b/a15589.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
 ];

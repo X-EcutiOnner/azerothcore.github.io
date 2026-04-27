@@ -1,6 +1,7 @@
 var a27521 =
 [
-    [ "HandleOnHit", "d0/df6/a27521.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "d0/df6/a27521.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "d0/df6/a27521.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "HandleProc", "d0/df6/a27521.html#ae41ac4278c643bcd14ff4ab0ecc6dc46", null ],
+    [ "PrepareAuraScript", "d0/df6/a27521.html#abdb4073728e7e637a8538a238eda2f6d", null ],
+    [ "Register", "d0/df6/a27521.html#a052f2a48c2b30b5e83c95eb4aada0899", null ],
+    [ "Validate", "d0/df6/a27521.html#a04085f70b61ea7ff2073a1cd777eca1b", null ]
 ];

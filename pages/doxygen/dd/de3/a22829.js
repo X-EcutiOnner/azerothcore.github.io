@@ -1,6 +1,5 @@
 var a22829 =
 [
-    [ "FilterTargets", "dd/de3/a22829.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "dd/de3/a22829.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "dd/de3/a22829.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "go_strange_pool", "dd/de3/a22829.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "dd/de3/a22829.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

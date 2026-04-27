@@ -1,11 +1,7 @@
 var a21105 =
 [
-    [ "npc_vh_void_sentry", "dc/d37/a21105.html#adeb66953fb7540aab5190b825ff98ec8", null ],
-    [ "DoAction", "dc/d37/a21105.html#a37ed72c221f23cd653694c10d536eec4", null ],
-    [ "JustDied", "dc/d37/a21105.html#aabf96934586d38d6f958c1571c0b3b56", null ],
-    [ "SummonedCreatureDespawn", "dc/d37/a21105.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
-    [ "UpdateAI", "dc/d37/a21105.html#a417af2ca21310ca105d7561e3ab21272", null ],
-    [ "_events", "dc/d37/a21105.html#a30899a2d4d8a82b26251911dc3b48008", null ],
-    [ "_instance", "dc/d37/a21105.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
-    [ "_summonedGuid", "dc/d37/a21105.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
+    [ "npc_azure_invader", "dc/d37/a21105.html#a6b7fcdd4e5166a932e85fcc6ec57d086", null ],
+    [ "Reset", "dc/d37/a21105.html#a51d349d0254f2d5a67f27298952fbb06", null ],
+    [ "UpdateAI", "dc/d37/a21105.html#a6677b18604e15017d15f1d3b0386cfae", null ],
+    [ "_events", "dc/d37/a21105.html#ac178244e22f71a15d7af91946cf961ef", null ]
 ];

@@ -1,12 +1,9 @@
 var a20469 =
 [
-    [ "boss_thorim_lightning_orb", "db/d3e/a20469.html#a04d4de44a41e62d6c1c4c68d3064a861", null ],
-    [ "AttackStart", "db/d3e/a20469.html#a8e512ec039d93b1ceb7a2b8ee556fa56", null ],
-    [ "EnterEvadeMode", "db/d3e/a20469.html#a855df9994de0901e56ac6f84d71ab7e4", null ],
-    [ "InitWaypoint", "db/d3e/a20469.html#a46a7a73cb200d7bbaa7f38871c765254", null ],
-    [ "MoveInLineOfSight", "db/d3e/a20469.html#a3577618ff9d5bdea191d840b6c968fad", null ],
-    [ "Reset", "db/d3e/a20469.html#adeefc7cd014021305b77cc9c52102ce6", null ],
-    [ "WaypointReached", "db/d3e/a20469.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
-    [ "WaypointReached", "db/d3e/a20469.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "Timer", "db/d3e/a20469.html#a79c24c42364c9932199ece2775f7a7f2", null ]
+    [ "boss_thorim_gauntlet_npcs", "db/d3e/a20469.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "db/d3e/a20469.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "db/d3e/a20469.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "db/d3e/a20469.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "db/d3e/a20469.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "db/d3e/a20469.html#aec35e2b91841c386f083681673e15598", null ]
 ];

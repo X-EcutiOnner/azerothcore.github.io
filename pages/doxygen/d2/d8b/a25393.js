@@ -1,5 +1,6 @@
 var a25393 =
 [
-    [ "PrepareSpellScript", "d2/d8b/a25393.html#a999d5173e12b643e0bdcefcd099f65d1", null ],
-    [ "Register", "d2/d8b/a25393.html#afd92511fb578c1df33248dba5055315e", null ]
+    [ "HandleDummyTick", "d2/d8b/a25393.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "d2/d8b/a25393.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "d2/d8b/a25393.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

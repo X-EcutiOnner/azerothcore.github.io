@@ -1,6 +1,6 @@
 var a16385 =
 [
-    [ "npc_orb_carrierAI", "d5/dc2/a16389.html", "d5/dc2/a16389" ],
-    [ "npc_orb_carrier", "db/d41/a16385.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
-    [ "GetAI", "db/d41/a16385.html#ab5b7bbffc43b840c686dc889805ea401", null ]
+    [ "HandleForceCast", "db/d41/a16385.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "db/d41/a16385.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "db/d41/a16385.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

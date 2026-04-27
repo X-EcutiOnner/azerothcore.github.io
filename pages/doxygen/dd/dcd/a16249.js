@@ -1,7 +1,7 @@
 var a16249 =
 [
-    [ "OnRemove", "dd/dcd/a16249.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "dd/dcd/a16249.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "dd/dcd/a16249.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "dd/dcd/a16249.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "boss_sartharion_shadron", "dd/dcd/a16249.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "dd/dcd/a16249.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "dd/dcd/a16249.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "dd/dcd/a16249.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

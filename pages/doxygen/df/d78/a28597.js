@@ -1,6 +1,6 @@
 var a28597 =
 [
-    [ "npc_stable_masterAI", "d5/d35/a28601.html", "d5/d35/a28601" ],
-    [ "npc_stable_master", "df/d78/a28597.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "df/d78/a28597.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "AreaGroupId", "df/d78/a28597.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "df/d78/a28597.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "df/d78/a28597.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

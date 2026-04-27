@@ -1,10 +1,7 @@
 var a16265 =
 [
-    [ "boss_sartharion_tenebron", "d7/dae/a16265.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
-    [ "ClearInstance", "d7/dae/a16265.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
-    [ "ExecuteEvent", "d7/dae/a16265.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
-    [ "JustDied", "d7/dae/a16265.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
-    [ "JustSummoned", "d7/dae/a16265.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
-    [ "Reset", "d7/dae/a16265.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
-    [ "summons2", "d7/dae/a16265.html#a59b131fcd2298640390fcd0f662f132d", null ]
+    [ "HandleHit", "d7/dae/a16265.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
+    [ "PrepareSpellScript", "d7/dae/a16265.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
+    [ "Register", "d7/dae/a16265.html#af132eee38064c5123f4e01d52efb9314", null ],
+    [ "Validate", "d7/dae/a16265.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
 ];

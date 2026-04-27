@@ -1,7 +1,12 @@
 var a19729 =
 [
-    [ "HandleScript", "d0/d37/a19729.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d0/d37/a19729.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d0/d37/a19729.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d0/d37/a19729.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "boss_sjonnirAI", "d0/d37/a19729.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "d0/d37/a19729.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "d0/d37/a19729.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "d0/d37/a19729.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "d0/d37/a19729.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "d0/d37/a19729.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "d0/d37/a19729.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "ScheduleTasks", "d0/d37/a19729.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "d0/d37/a19729.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

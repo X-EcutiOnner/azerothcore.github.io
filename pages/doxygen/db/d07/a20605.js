@@ -1,17 +1,10 @@
 var a20605 =
 [
-    [ "boss_yoggsaron", "db/d07/a20605.html#a28abd29c2f570dd5f6f56289a6cc5e9e", null ],
-    [ "AttackStart", "db/d07/a20605.html#a8110dc78a8e60d25df6195107960365a", null ],
-    [ "DoAction", "db/d07/a20605.html#a647c5cf55081ec4d66ae75be5d471210", null ],
-    [ "GetData", "db/d07/a20605.html#a68bb5622ddd9bd74f2eaefce3a0ac54f", null ],
-    [ "JustDied", "db/d07/a20605.html#afa4914458cbcf03ae8e305b2d2c40131", null ],
-    [ "JustSummoned", "db/d07/a20605.html#af641e349634bc2977fd2fe7b7edad310", null ],
-    [ "SpellHit", "db/d07/a20605.html#ab477975d288844051b22991649bdedd4", null ],
-    [ "SummonImmortalGuardian", "db/d07/a20605.html#ad8ba569e58047dcfff8d764489f024ad", null ],
-    [ "UpdateAI", "db/d07/a20605.html#a395114524b73f0176aa9ed331cc0683f", null ],
-    [ "_instance", "db/d07/a20605.html#aa9878513823c8f3f71a5dd5b80ae20f4", null ],
-    [ "_thirdPhase", "db/d07/a20605.html#a0d76e9ae977a2165d52413807897604e", null ],
-    [ "_usedInsane", "db/d07/a20605.html#a28191094a0252d5af48f5b046013eb3e", null ],
-    [ "events", "db/d07/a20605.html#ac27bba5841f4c50a01a8e2b434ee56cf", null ],
-    [ "summons", "db/d07/a20605.html#a0a11e2b828a90ca1ba72d7c19804e654", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "db/d07/a20605.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
+    [ "DoAction", "db/d07/a20605.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "JustDied", "db/d07/a20605.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "SelectConstrictTarget", "db/d07/a20605.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "UpdateAI", "db/d07/a20605.html#a930b35c2385ba2977f2f2da3b4b38f07", null ],
+    [ "_checkTimer", "db/d07/a20605.html#aa6c76606c7c9e6ee71e94433cb721f96", null ],
+    [ "_playerGUID", "db/d07/a20605.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

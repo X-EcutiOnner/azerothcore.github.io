@@ -1,7 +1,6 @@
 var a16769 =
 [
-    [ "npc_toc_rogueAI", "dd/d66/a16769.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "dd/d66/a16769.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "dd/d66/a16769.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "dd/d66/a16769.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "npc_toc_pet_warlockAI", "d2/db8/a16773.html", "d2/db8/a16773" ],
+    [ "npc_toc_pet_warlock", "dd/d66/a16769.html#a4703f506d677d7e490c6813c6d9b060b", null ],
+    [ "GetAI", "dd/d66/a16769.html#aebcaff82726508a14028cb22a1ef944b", null ]
 ];

@@ -1,7 +1,8 @@
 var a19453 =
 [
-    [ "npc_alexstrasza", "d1/dd3/a19453.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
-    [ "AttackStart", "d1/dd3/a19453.html#ab47f439968b7e9358158eae3e31f4e29", null ],
-    [ "MoveInLineOfSight", "d1/dd3/a19453.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
-    [ "UpdateAI", "d1/dd3/a19453.html#aec1c93eee408ecefbceec22be4b90dba", null ]
+    [ "Load", "d1/dd3/a19453.html#af8ef90a44a5405e58dbb3003642c078b", null ],
+    [ "PrepareSpellScript", "d1/dd3/a19453.html#a40649371440d62e4ba8af1b077880d0b", null ],
+    [ "Register", "d1/dd3/a19453.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
+    [ "SendThreeTargets", "d1/dd3/a19453.html#ab16b83839ce9136da84691640020f846", null ],
+    [ "Validate", "d1/dd3/a19453.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
 ];

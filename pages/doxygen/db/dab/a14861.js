@@ -1,6 +1,6 @@
 var a14861 =
 [
-    [ "PrepareAuraScript", "db/dab/a14861.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "db/dab/a14861.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "db/dab/a14861.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "HandleScriptEffect", "db/dab/a14861.html#aebd700897688157ca62405c92fe58680", null ],
+    [ "PrepareSpellScript", "db/dab/a14861.html#a09e11d1938279a2302fb8805e71c6c36", null ],
+    [ "Register", "db/dab/a14861.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
 ];

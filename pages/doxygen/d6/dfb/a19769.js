@@ -1,6 +1,6 @@
 var a19769 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "da/d21/a19773.html", "da/d21/a19773" ],
-    [ "boss_sjonnir_malformed_ooze", "d6/dfb/a19769.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "d6/dfb/a19769.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "HandleScript", "d6/dfb/a19769.html#a992dbad02eab01824d870bdd3fca93d0", null ],
+    [ "PrepareSpellScript", "d6/dfb/a19769.html#a0e6b4d1f59896a255929556baa943bdb", null ],
+    [ "Register", "d6/dfb/a19769.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
 ];

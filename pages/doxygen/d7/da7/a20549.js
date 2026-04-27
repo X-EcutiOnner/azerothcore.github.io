@@ -1,7 +1,6 @@
 var a20549 =
 [
-    [ "npc_xt002_life_spark", "d7/da7/a20549.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
-    [ "Reset", "d7/da7/a20549.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
-    [ "UpdateAI", "d7/da7/a20549.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
-    [ "_attackTimer", "d7/da7/a20549.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
+    [ "PrepareSpellScript", "d7/da7/a20549.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
+    [ "Register", "d7/da7/a20549.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "SelectTarget", "d7/da7/a20549.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
 ];

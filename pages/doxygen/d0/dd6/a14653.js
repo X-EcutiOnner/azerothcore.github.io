@@ -1,6 +1,6 @@
 var a14653 =
 [
-    [ "npc_brewfest_keg_thrower", "d0/dd6/a14653.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "d0/dd6/a14653.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "d0/dd6/a14653.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "HandleDummy", "d0/dd6/a14653.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
+    [ "PrepareSpellScript", "d0/dd6/a14653.html#a87a787c6ab3804847c90266f570381c6", null ],
+    [ "Register", "d0/dd6/a14653.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
 ];

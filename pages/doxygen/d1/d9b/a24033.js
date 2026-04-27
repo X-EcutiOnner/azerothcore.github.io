@@ -1,4 +1,6 @@
 var a24033 =
 [
-    [ "npc_pet_gen_moth", "d1/d9b/a24033.html#a527b48528cce28f6b468af170e5ae45f", null ]
+    [ "CheckProc", "d1/d9b/a24033.html#a5c7245398c005a133576493366010e58", null ],
+    [ "PrepareAuraScript", "d1/d9b/a24033.html#ac2a2d20470e7fa3df8491c7c81330a52", null ],
+    [ "Register", "d1/d9b/a24033.html#a4f6bcdb58b02d351aee9efcd37af3492", null ]
 ];

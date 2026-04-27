@@ -1,6 +1,8 @@
 var a19761 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "d7/d05/a19765.html", "d7/d05/a19765" ],
-    [ "boss_sjonnir_iron_sludge", "dc/d67/a19761.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
-    [ "GetAI", "dc/d67/a19761.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
+    [ "brann_bronzebeardAI", "d7/d05/a19765.html", "d7/d05/a19765" ],
+    [ "brann_bronzebeard", "dc/d67/a19761.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "dc/d67/a19761.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "dc/d67/a19761.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "dc/d67/a19761.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

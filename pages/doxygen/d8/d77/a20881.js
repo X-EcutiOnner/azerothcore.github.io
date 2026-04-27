@@ -1,6 +1,6 @@
 var a20881 =
 [
-    [ "npc_frenzied_worgenAI", "d4/dcc/a20885.html", "d4/dcc/a20885" ],
-    [ "npc_frenzied_worgen", "d8/d77/a20881.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d8/d77/a20881.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "boss_skadi_graufAI", "d4/dcc/a20885.html", "d4/dcc/a20885" ],
+    [ "boss_skadi_grauf", "d8/d77/a20881.html#a571db2d2ae21f38b7051319da0f042f6", null ],
+    [ "GetAI", "d8/d77/a20881.html#ab464e605bf001eee5517ad805066af57", null ]
 ];

@@ -1,7 +1,6 @@
 var a21469 =
 [
-    [ "FilterTargets", "da/ddd/a21469.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "da/ddd/a21469.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "da/ddd/a21469.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "da/ddd/a21469.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_spiritual_insightAI", "d6/dd0/a21473.html", "d6/dd0/a21473" ],
+    [ "npc_spiritual_insight", "da/ddd/a21469.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "da/ddd/a21469.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

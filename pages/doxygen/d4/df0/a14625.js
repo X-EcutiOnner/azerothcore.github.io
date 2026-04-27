@@ -1,5 +1,6 @@
 var a14625 =
 [
-    [ "npc_cw_area_triggerAI", "d4/df0/a14625.html#aede21e01dfe762922562b6f5d57bc406", null ],
-    [ "MoveInLineOfSight", "d4/df0/a14625.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
+    [ "gameobjectId", "d4/df0/a14625.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "d4/df0/a14625.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "d4/df0/a14625.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

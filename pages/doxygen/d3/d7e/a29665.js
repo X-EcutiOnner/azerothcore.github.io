@@ -1,10 +1,9 @@
 var a29665 =
 [
-    [ "Tile", "d3/d7e/a29665.html#aa68e7829d0a4109a5fca036afe725756", null ],
-    [ "~Tile", "d3/d7e/a29665.html#aa5be25df0d267368c90c8f790b218f7a", null ],
-    [ "chf", "d3/d7e/a29665.html#a9cd4f4be0393e1b40d1ea83dad189a35", null ],
-    [ "cset", "d3/d7e/a29665.html#a8263aa243c049daa70ed537f206c6a15", null ],
-    [ "dmesh", "d3/d7e/a29665.html#a23efb981de3dbc2ecdbe4dafdbaa8f58", null ],
-    [ "pmesh", "d3/d7e/a29665.html#a00dde7c2b62890f4d78697e669f2a810", null ],
-    [ "solid", "d3/d7e/a29665.html#a6c263578a352c75a21570a26439d6156", null ]
+    [ "Flags", "d3/d7e/a29665.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "d3/d7e/a29665.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "d3/d7e/a29665.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "d3/d7e/a29665.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "d3/d7e/a29665.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "d3/d7e/a29665.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

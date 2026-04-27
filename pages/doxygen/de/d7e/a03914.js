@@ -1,10 +1,10 @@
 var a03914 =
 [
-    [ "boss_tharon_ja", "d6/dea/a16981.html", "d6/dea/a16981" ],
-    [ "boss_tharon_ja::boss_tharon_jaAI", "d4/dc9/a16985.html", "d4/dc9/a16985" ],
-    [ "spell_tharon_ja_curse_of_life_aura", "d0/d76/a16989.html", "d0/d76/a16989" ],
-    [ "spell_tharon_ja_dummy_aura", "dd/dd6/a16993.html", "dd/dd6/a16993" ],
-    [ "spell_tharon_ja_clear_gift_of_tharon_ja", "d2/d61/a16997.html", "d2/d61/a16997" ],
+    [ "boss_tharon_ja", "d7/d08/a16961.html", "d7/d08/a16961" ],
+    [ "boss_tharon_ja::boss_tharon_jaAI", "d2/d72/a16965.html", "d2/d72/a16965" ],
+    [ "spell_tharon_ja_curse_of_life_aura", "de/d10/a16969.html", "de/d10/a16969" ],
+    [ "spell_tharon_ja_dummy_aura", "da/de0/a16973.html", "da/de0/a16973" ],
+    [ "spell_tharon_ja_clear_gift_of_tharon_ja", "d9/d6e/a16977.html", "d9/d6e/a16977" ],
     [ "Misc", "de/d7e/a03914.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "df/dc9/a03230.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "df/dc9/a03230.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],
@@ -370,6 +370,9 @@ var a03914 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

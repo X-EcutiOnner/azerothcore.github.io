@@ -1,6 +1,7 @@
 var a20353 =
 [
-    [ "HandleDamage", "d9/d82/a20353.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "d9/d82/a20353.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "d9/d82/a20353.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "HandleEffectPeriodic", "d9/d82/a20353.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "d9/d82/a20353.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "d9/d82/a20353.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "d9/d82/a20353.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

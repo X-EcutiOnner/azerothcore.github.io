@@ -1,5 +1,8 @@
 var a15453 =
 [
-    [ "at_cthun_center", "de/da4/a15453.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "de/da4/a15453.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "npc_ouro_spawner", "de/da4/a15453.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "de/da4/a15453.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "de/da4/a15453.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "de/da4/a15453.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "de/da4/a15453.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

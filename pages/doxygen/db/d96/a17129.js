@@ -1,8 +1,9 @@
 var a17129 =
 [
-    [ "npc_phantom_hallucination", "db/d96/a17129.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
-    [ "EnterEvadeMode", "db/d96/a17129.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
-    [ "JustDied", "db/d96/a17129.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
-    [ "UpdateAI", "db/d96/a17129.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
-    [ "numOfUpd", "db/d96/a17129.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
+    [ "npc_hor_spiritual_reflection", "db/d96/a17129.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
+    [ "EnterEvadeMode", "db/d96/a17129.html#a3973e83b013df723849939635071324f", null ],
+    [ "JustDied", "db/d96/a17129.html#a913d17e1534a5940b7841e38eae246f7", null ],
+    [ "JustEngagedWith", "db/d96/a17129.html#ad47d12654c88cc94b7c17906e4096115", null ],
+    [ "Reset", "db/d96/a17129.html#aa7dad28bbe53286ec298ba5480717e69", null ],
+    [ "UpdateAI", "db/d96/a17129.html#a5093b6502bca95c22b2b0f0117f86047", null ]
 ];

@@ -1,5 +1,6 @@
 var a20145 =
 [
-    [ "achievement_shadowdodger", "d5/dcf/a20145.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
-    [ "OnCheck", "d5/dcf/a20145.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
+    [ "npc_ulduar_toasty_fire", "d5/dcf/a20145.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
+    [ "DoAction", "d5/dcf/a20145.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
+    [ "SpellHit", "d5/dcf/a20145.html#ad1ac241490db52177ae13640d7ae3eec", null ]
 ];

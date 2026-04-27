@@ -1,6 +1,6 @@
 var a16349 =
 [
-    [ "npc_onyx_flamecallerAI", "da/dcf/a16353.html", "da/dcf/a16353" ],
-    [ "npc_onyx_flamecaller", "d5/de3/a16349.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "d5/de3/a16349.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "boss_twilight_halionAI", "da/dcf/a16353.html", "da/dcf/a16353" ],
+    [ "boss_twilight_halion", "d5/de3/a16349.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "d5/de3/a16349.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

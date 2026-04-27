@@ -1,7 +1,6 @@
 var a14517 =
 [
-    [ "GetEmptyEntry", "d5/d1b/a14517.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "d5/d1b/a14517.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "d5/d1b/a14517.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "d5/d1b/a14517.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "CheckItem", "d5/d1b/a14517.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
+    [ "PrepareSpellScript", "d5/d1b/a14517.html#a0fa160f1218cf838444f894716cb8aed", null ],
+    [ "Register", "d5/d1b/a14517.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
 ];

@@ -1,7 +1,6 @@
 var a18669 =
 [
-    [ "ValithriaDespawner", "d2/d28/a18669.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "d2/d28/a18669.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "d2/d28/a18669.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "d2/d28/a18669.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "npc_the_lich_king_controllerAI", "df/d30/a18673.html", "df/d30/a18673" ],
+    [ "npc_the_lich_king_controller", "d2/d28/a18669.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "d2/d28/a18669.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

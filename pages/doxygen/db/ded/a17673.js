@@ -1,6 +1,7 @@
 var a17673 =
 [
-    [ "PrepareAuraScript", "db/ded/a17673.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "db/ded/a17673.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "db/ded/a17673.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "npc_icc_blood_beastAI", "db/ded/a17673.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "db/ded/a17673.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "db/ded/a17673.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "db/ded/a17673.html#a1074059162f818088808795119f081be", null ]
 ];

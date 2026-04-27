@@ -1,6 +1,6 @@
 var a22501 =
 [
-    [ "PrepareAuraScript", "d7/d85/a22501.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "d7/d85/a22501.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "d7/d85/a22501.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "boss_reliquary_of_soulsAI", "d2/dd7/a22505.html", "d2/dd7/a22505" ],
+    [ "boss_reliquary_of_souls", "d7/d85/a22501.html#a0c73fc6221da0b19903e534932ca6406", null ],
+    [ "GetAI", "d7/d85/a22501.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
 ];

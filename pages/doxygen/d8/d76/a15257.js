@@ -1,5 +1,5 @@
 var a15257 =
 [
-    [ "npc_idol_room_spawnerAI", "d8/d76/a15257.html#a77c4aa88d213271166158c8e75d41a69", null ],
-    [ "SetData", "d8/d76/a15257.html#aa0626c837086b4a275f4d51d1659a242", null ]
+    [ "npc_hive_zara_swarmer", "d8/d76/a15257.html#a374fa63e210e0be8a074af9199126a9e", null ],
+    [ "PathEndReached", "d8/d76/a15257.html#a3b3510bd00853395b756e1d83d96a474", null ]
 ];

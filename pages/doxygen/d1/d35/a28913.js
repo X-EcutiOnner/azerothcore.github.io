@@ -1,8 +1,5 @@
 var a28913 =
 [
-    [ "canLink", "d1/d35/a28913.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "d1/d35/a28913.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "d1/d35/a28913.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "d1/d35/a28913.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "d1/d35/a28913.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "Flags", "d1/d35/a28913.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
+    [ "Id", "d1/d35/a28913.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
 ];

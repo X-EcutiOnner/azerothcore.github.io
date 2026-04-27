@@ -1,14 +1,15 @@
 var a15501 =
 [
-    [ "boss_twinemperorsAI", "d9/d12/a15501.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "d9/d12/a15501.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "d9/d12/a15501.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "d9/d12/a15501.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "d9/d12/a15501.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "d9/d12/a15501.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "d9/d12/a15501.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "d9/d12/a15501.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "d9/d12/a15501.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "d9/d12/a15501.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "d9/d12/a15501.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "boss_viscidus", "d9/d12/a15501.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
+    [ "CheckInRoom", "d9/d12/a15501.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
+    [ "DamageTaken", "d9/d12/a15501.html#adb41e6f64c1fe61cf623539353b0c959", null ],
+    [ "InitSpells", "d9/d12/a15501.html#a24357bfc552ecb5205e50241cadb05f4", null ],
+    [ "JustEngagedWith", "d9/d12/a15501.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
+    [ "Reset", "d9/d12/a15501.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
+    [ "SoftReset", "d9/d12/a15501.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
+    [ "SpellHit", "d9/d12/a15501.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
+    [ "SummonedCreatureDies", "d9/d12/a15501.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
+    [ "UpdateAI", "d9/d12/a15501.html#a1a194c161b485d2abbb862506b6c239f", null ],
+    [ "_hitcounter", "d9/d12/a15501.html#a12ee60a91dab2f95aab6e9914351344a", null ],
+    [ "_phase", "d9/d12/a15501.html#a321f1f96af51d3d70de0cca89512d965", null ]
 ];

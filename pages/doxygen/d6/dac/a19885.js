@@ -1,6 +1,6 @@
 var a19885 =
 [
-    [ "CastRunesEvent", "d6/dac/a19885.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "d6/dac/a19885.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "d6/dac/a19885.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "HandleInstaKill", "d6/dac/a19885.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "d6/dac/a19885.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "d6/dac/a19885.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

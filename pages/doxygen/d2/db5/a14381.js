@@ -1,12 +1,11 @@
 var a14381 =
 [
-    [ "npc_chained_spirit", "d2/db5/a14381.html#a5f407e700a2086f971bed0e8c0def0db", null ],
-    [ "DoAction", "d2/db5/a14381.html#a7205ef13ca0d164a9222c049bc582254", null ],
-    [ "JustDied", "d2/db5/a14381.html#a3b405503231173e7ff7aa52e34f63da5", null ],
-    [ "MovementInform", "d2/db5/a14381.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
-    [ "Reset", "d2/db5/a14381.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
-    [ "SetGUID", "d2/db5/a14381.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
-    [ "UpdateAI", "d2/db5/a14381.html#a38d14b69c71bf2902a916028580fbfad", null ],
-    [ "instance", "d2/db5/a14381.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
-    [ "revivePlayerGUID", "d2/db5/a14381.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
+    [ "boss_marli", "d2/db5/a14381.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
+    [ "_chargePlayer", "d2/db5/a14381.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
+    [ "_schedulePhaseSpider", "d2/db5/a14381.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
+    [ "_schedulePhaseTroll", "d2/db5/a14381.html#ad6977930dac1cddd2162f7db1b239c83", null ],
+    [ "JustDied", "d2/db5/a14381.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
+    [ "JustEngagedWith", "d2/db5/a14381.html#ac74bd382c3dc826f7e4426bec3557094", null ],
+    [ "Reset", "d2/db5/a14381.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
+    [ "_phase", "d2/db5/a14381.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
 ];

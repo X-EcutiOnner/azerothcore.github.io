@@ -1,6 +1,29 @@
 var a29201 =
 [
-    [ "auraName", "dc/d5e/a29201.html#a953f930e046655ca0d8f373362d3f334", null ],
-    [ "isAlwaysTriggeredAura", "dc/d5e/a29201.html#a05786c8e0daef9a2da98f832c230d99c", null ],
-    [ "procFlags", "dc/d5e/a29201.html#aed48a1ad923118ac0a86d864e1e98519", null ]
+    [ "ProcEventInfoBuilder", "dc/d5e/a29201.html#a38c50e7852d5c87d2774372fbde47bc9", null ],
+    [ "Build", "dc/d5e/a29201.html#ae0f8d3a43a218b4459db0aa3fee95bf0", null ],
+    [ "WithActionTarget", "dc/d5e/a29201.html#a07d934345c43ecd6c8cebeb678e08dab", null ],
+    [ "WithActor", "dc/d5e/a29201.html#a4a2faf802f7ef682e7be2b7ada7a0ff5", null ],
+    [ "WithDamageInfo", "dc/d5e/a29201.html#a4d207196177033340282dd33b11c9d82", null ],
+    [ "WithHealInfo", "dc/d5e/a29201.html#a3883e3ba66735492617a9907cdde3794", null ],
+    [ "WithHitMask", "dc/d5e/a29201.html#ac8d9c890333158313fb6bd9bdcd14fcf", null ],
+    [ "WithProcAuraEffectIndex", "dc/d5e/a29201.html#aec3496f0ce0cd0be4f8b1b2f48146206", null ],
+    [ "WithProcTarget", "dc/d5e/a29201.html#af39d23e9a51f924215a20a578062a9db", null ],
+    [ "WithSpell", "dc/d5e/a29201.html#a42ec10664e0fdad98e02267099f0e73c", null ],
+    [ "WithSpellPhaseMask", "dc/d5e/a29201.html#a2247bbb4936f6d48c4214641a5a466af", null ],
+    [ "WithSpellTypeMask", "dc/d5e/a29201.html#aebac87d053e09dba16456a9f49322973", null ],
+    [ "WithTriggeredByAuraSpell", "dc/d5e/a29201.html#a5c0b48710a9526e1dc8202a92a91e852", null ],
+    [ "WithTypeMask", "dc/d5e/a29201.html#a83de461b19bd737c5aa2e7fd3ad2a302", null ],
+    [ "_actionTarget", "dc/d5e/a29201.html#a8571e92b47a6ad8327bdf8d1a0b57f04", null ],
+    [ "_actor", "dc/d5e/a29201.html#a03c844febd2cafe041e5426a02816633", null ],
+    [ "_damageInfo", "dc/d5e/a29201.html#acf2feea658b0a4a3d7b2d663aae7e3ee", null ],
+    [ "_healInfo", "dc/d5e/a29201.html#aa9756e003fd8c4f2d88197e9c4ec159f", null ],
+    [ "_hitMask", "dc/d5e/a29201.html#a0ef08d3b368b347a4c4e2538616329b4", null ],
+    [ "_procAuraEffectIndex", "dc/d5e/a29201.html#a3d2adb99c5291a29b2265c4d834b8df0", null ],
+    [ "_procTarget", "dc/d5e/a29201.html#afbc6d5efae5c965c61ebb7972aafb7f0", null ],
+    [ "_spell", "dc/d5e/a29201.html#a5e6cc0a9d3a3afc81453d606116450d7", null ],
+    [ "_spellPhaseMask", "dc/d5e/a29201.html#a58ea480d734bfccb3835a2a29618c8ea", null ],
+    [ "_spellTypeMask", "dc/d5e/a29201.html#aefbc707a11b34a2bae78f5cf52d4b7a0", null ],
+    [ "_triggeredByAuraSpell", "dc/d5e/a29201.html#a71180307b8e60ec02f11f388f43df126", null ],
+    [ "_typeMask", "dc/d5e/a29201.html#ab64fb7418fce62b008ca62a2fea54c67", null ]
 ];

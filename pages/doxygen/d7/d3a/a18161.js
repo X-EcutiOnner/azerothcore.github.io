@@ -1,7 +1,11 @@
 var a18161 =
 [
-    [ "HandleProc", "d7/d3a/a18161.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
-    [ "PrepareAuraScript", "d7/d3a/a18161.html#a5eace3a973165eb82ae95b8052bb9476", null ],
-    [ "Register", "d7/d3a/a18161.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
-    [ "Validate", "d7/d3a/a18161.html#ad2a7488006b16840e02b450cc9150289", null ]
+    [ "npc_little_oozeAI", "d7/d3a/a18161.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "d7/d3a/a18161.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "d7/d3a/a18161.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "d7/d3a/a18161.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "d7/d3a/a18161.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "d7/d3a/a18161.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "d7/d3a/a18161.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "d7/d3a/a18161.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

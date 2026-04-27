@@ -1,7 +1,6 @@
 var a20717 =
 [
-    [ "HandleScriptEffect", "db/df5/a20717.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "db/df5/a20717.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "db/df5/a20717.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "db/df5/a20717.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "achievement_yogg_saron_darkness", "db/df5/a20717.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "db/df5/a20717.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "db/df5/a20717.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

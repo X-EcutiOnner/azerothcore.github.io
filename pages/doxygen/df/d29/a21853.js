@@ -1,8 +1,11 @@
 var a21853 =
 [
-    [ "CheckCast", "df/d29/a21853.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "df/d29/a21853.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "df/d29/a21853.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "df/d29/a21853.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "df/d29/a21853.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "npc_iron_watcherAI", "df/d29/a21853.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "df/d29/a21853.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "df/d29/a21853.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "df/d29/a21853.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "df/d29/a21853.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "df/d29/a21853.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "df/d29/a21853.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "df/d29/a21853.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

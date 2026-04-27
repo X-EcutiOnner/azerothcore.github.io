@@ -1,7 +1,6 @@
 var a18201 =
 [
-    [ "HandleScript", "d8/d88/a18201.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "d8/d88/a18201.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "d8/d88/a18201.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "d8/d88/a18201.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "DespawnSelf", "d8/d88/a18201.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d8/d88/a18201.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d8/d88/a18201.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

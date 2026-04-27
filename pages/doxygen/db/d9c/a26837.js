@@ -1,6 +1,6 @@
 var a26837 =
 [
-    [ "ModDest", "db/d9c/a26837.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "db/d9c/a26837.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "db/d9c/a26837.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "PrepareAuraScript", "db/d9c/a26837.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "db/d9c/a26837.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "db/d9c/a26837.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

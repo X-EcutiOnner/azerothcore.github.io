@@ -1,5 +1,7 @@
 var a20453 =
 [
-    [ "achievement_quick_shave", "da/db3/a20453.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "da/db3/a20453.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "boss_thorim_trap", "da/db3/a20453.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "da/db3/a20453.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "da/db3/a20453.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "da/db3/a20453.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

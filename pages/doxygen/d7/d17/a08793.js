@@ -1,6 +1,7 @@
 var a08793 =
 [
     [ "KillRewarder", "d7/d17/a08793.html#af65907016d7068967ab1dc436b2d595a", null ],
+    [ "_GetPlayerLevel", "d7/d17/a08793.html#ad7969c940acffaaab79c5b56606076d7", null ],
     [ "_InitGroupData", "d7/d17/a08793.html#ae6ed6662efcd1cdefa3ec0a85323f49c", null ],
     [ "_InitXP", "d7/d17/a08793.html#a7166686977002152a99f929a82625def", null ],
     [ "_RewardGroup", "d7/d17/a08793.html#a97a338868eaf192e847726a23edb6685", null ],
@@ -22,6 +23,7 @@ var a08793 =
     [ "_killer", "d7/d17/a08793.html#aa3b06442af864a5f4612b75be05abb90", null ],
     [ "_maxLevel", "d7/d17/a08793.html#a0d27e75392a5dcc8a93117676cee3aed", null ],
     [ "_maxNotGrayMember", "d7/d17/a08793.html#a981fa4d51f166c69dbcbbfba2f17dff1", null ],
+    [ "_maxNotGrayMemberLevel", "d7/d17/a08793.html#a2420c470b3b1d1b8968100cd4fd84fed", null ],
     [ "_sumLevel", "d7/d17/a08793.html#a8e8c3f10b1a2055c90820360dd04bfab", null ],
     [ "_victim", "d7/d17/a08793.html#a9a6ce23ed555e7bff286d01e5df841f1", null ],
     [ "_xp", "d7/d17/a08793.html#a7898dee0f9855664d07ca834ceabd3bb", null ]

@@ -1,10 +1,8 @@
 var a21205 =
 [
-    [ "npc_jenny", "de/dc3/a21205.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "de/dc3/a21205.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "de/dc3/a21205.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "de/dc3/a21205.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "de/dc3/a21205.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "de/dc3/a21205.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "de/dc3/a21205.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "npc_mootoo_the_youngerAI", "de/dc3/a21205.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "de/dc3/a21205.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "de/dc3/a21205.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "de/dc3/a21205.html#ac758a992ed0d62a272930c84d617b348", null ],
+    [ "WaypointReached", "de/dc3/a21205.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

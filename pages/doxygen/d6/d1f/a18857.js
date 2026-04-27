@@ -1,6 +1,6 @@
 var a18857 =
 [
-    [ "npc_captain_brandonAI", "da/de7/a18861.html", "da/de7/a18861" ],
-    [ "npc_captain_brandon", "d6/d1f/a18857.html#ad522dd280882d894b5d32e7c888f2360", null ],
-    [ "GetAI", "d6/d1f/a18857.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
+    [ "npc_captain_rupertAI", "d6/d1f/a18857.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "d6/d1f/a18857.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "d6/d1f/a18857.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

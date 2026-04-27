@@ -1,7 +1,7 @@
 var a13621 =
 [
-    [ "HandleScriptEffect", "d5/d72/a13621.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
-    [ "PrepareSpellScript", "d5/d72/a13621.html#af9deee89e837e07486a7555632008eb2", null ],
-    [ "Register", "d5/d72/a13621.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
-    [ "Validate", "d5/d72/a13621.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
+    [ "boss_kalec", "d5/d72/a13621.html#a9c36e31c750e93840f30f001cdaca0da", null ],
+    [ "JustDied", "d5/d72/a13621.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
+    [ "JustEngagedWith", "d5/d72/a13621.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
+    [ "UpdateAI", "d5/d72/a13621.html#ab55da7584fa7f545761a5bd547245747", null ]
 ];

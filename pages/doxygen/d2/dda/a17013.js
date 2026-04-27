@@ -1,8 +1,7 @@
 var a17013 =
 [
-    [ "HandleRemove", "d2/dda/a17013.html#a362b16f69a19adae6b673bd9ead55a83", null ],
-    [ "PeriodicTick", "d2/dda/a17013.html#aa432052d61dc48066433b41b84ffbe5f", null ],
-    [ "PrepareAuraScript", "d2/dda/a17013.html#a3ffbd618820adf77b2c64a29816f5204", null ],
-    [ "Register", "d2/dda/a17013.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
-    [ "Validate", "d2/dda/a17013.html#abed6574398a7d005e95feba6b54243a1", null ]
+    [ "HandleScriptEffect", "d2/dda/a17013.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "d2/dda/a17013.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "d2/dda/a17013.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "d2/dda/a17013.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

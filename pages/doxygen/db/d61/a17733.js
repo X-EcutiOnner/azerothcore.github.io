@@ -1,9 +1,8 @@
 var a17733 =
 [
-    [ "npc_stinky_iccAI", "db/d61/a17733.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "db/d61/a17733.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "db/d61/a17733.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "db/d61/a17733.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "db/d61/a17733.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "db/d61/a17733.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "ResetEncounterEvent", "db/d61/a17733.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "db/d61/a17733.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "db/d61/a17733.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "db/d61/a17733.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "db/d61/a17733.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

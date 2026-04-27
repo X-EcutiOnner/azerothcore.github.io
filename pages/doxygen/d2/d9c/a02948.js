@@ -1,9 +1,9 @@
 var a02948 =
 [
-    [ "boss_the_lurker_below", "dd/d89/a22845.html", "dd/d89/a22845" ],
-    [ "go_strange_pool", "db/d82/a22849.html", "db/d82/a22849" ],
-    [ "spell_lurker_below_spout", "d7/dfa/a22853.html", "d7/dfa/a22853" ],
-    [ "spell_lurker_below_spout_cone", "d3/d2a/a22857.html", "d3/d2a/a22857" ],
+    [ "boss_the_lurker_below", "d6/db7/a22825.html", "d6/db7/a22825" ],
+    [ "go_strange_pool", "dd/de3/a22829.html", "dd/de3/a22829" ],
+    [ "spell_lurker_below_spout", "d9/d32/a22833.html", "d9/d32/a22833" ],
+    [ "spell_lurker_below_spout_cone", "d7/d91/a22837.html", "d7/d91/a22837" ],
     [ "Groups", "d2/d9c/a02948.html#aab072245ab577ff0e12efe20a536b99a", [
       [ "GROUP_PRECOMBAT_TALK", "d4/d6f/a03374.html#aab072245ab577ff0e12efe20a536b99aa3e7953992f23b2eba8d8498bfc66e01d", null ],
       [ "PORTAL_PHASE", "d2/dce/a03389.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829", null ],
@@ -393,6 +393,9 @@ var a02948 =
       [ "DATA_GET_ELDER_COUNT", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0", null ],
       [ "DATA_BACK_TO_NATURE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3", null ],
       [ "CRITERIA_LUMBERJACKED", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd", null ],
+      [ "WAYPOINT_GREEN", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad493cb13f0f59ed9d954dfb0216c0cb0", null ],
+      [ "WAYPOINT_YELLOW", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4daa8d9d9dc5211f13570c5ab2035d81", null ],
+      [ "WAYPOINT_BLUE", "d5/de2/a03830.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af49b72e82990cf67bfca6170dc86007a", null ],
       [ "ACHIEVEMENT_DISARMED_CRITERIA", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad12834f67b7048109ea2679064cd1173", null ],
       [ "DATA_KOLOGARN_LOOKS_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5617e126e882cb74a21ae6364b385d87", null ],
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "de/de6/a03848.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],

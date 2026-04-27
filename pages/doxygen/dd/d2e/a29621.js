@@ -1,13 +1,7 @@
 var a29621 =
 [
-    [ "MPQArchive", "dd/d2e/a29621.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "dd/d2e/a29621.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "dd/d2e/a29621.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "dd/d2e/a29621.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "dd/d2e/a29621.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "dd/d2e/a29621.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "dd/d2e/a29621.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "dd/d2e/a29621.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "dd/d2e/a29621.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "dd/d2e/a29621.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "walkableClimb", "dd/d2e/a29621.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
+    [ "walkableHeight", "dd/d2e/a29621.html#a32f39a07562c47be0a311d7959678044", null ],
+    [ "walkableRadius", "dd/d2e/a29621.html#a6e708a591e7b5597e129a653e1379a1e", null ],
+    [ "walkableSlopeAngle", "dd/d2e/a29621.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
 ];

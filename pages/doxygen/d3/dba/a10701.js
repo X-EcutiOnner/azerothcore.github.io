@@ -32,6 +32,7 @@ var a10701 =
     [ "OnPlayerBeforeCriteriaProgress", "d3/dba/a10701.html#a34ed7754ea926ab69321a5e8680d4bb7", null ],
     [ "OnPlayerBeforeDurabilityRepair", "d3/dba/a10701.html#a5952ee1a1fa98564d01bb544b9a503da", null ],
     [ "OnPlayerBeforeFillQuestLootItem", "d3/dba/a10701.html#a7d3250477cf00d53e734f63cd9a5854d", null ],
+    [ "OnPlayerBeforeGetLevelForXPGain", "d3/dba/a10701.html#ace41ca541fe15f78eae62b63bf58777e", null ],
     [ "OnPlayerBeforeGuardianInitStatsForLevel", "d3/dba/a10701.html#afd1ea56109b58e3493e4708a7bfdded0", null ],
     [ "OnPlayerBeforeInitTalentForLevel", "d3/dba/a10701.html#accc79f88b2781a3d301e7d918913cfd6", null ],
     [ "OnPlayerBeforeLoadPetFromDB", "d3/dba/a10701.html#add3286b9f45d3d9a355cef84f89aa02e", null ],

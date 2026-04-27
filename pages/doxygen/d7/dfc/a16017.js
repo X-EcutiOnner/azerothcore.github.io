@@ -1,6 +1,6 @@
 var a16017 =
 [
-    [ "SayerEntry", "d7/dfc/a16017.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "d7/dfc/a16017.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "d7/dfc/a16017.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "creatureID", "d7/dfc/a16017.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d7/dfc/a16017.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d7/dfc/a16017.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

@@ -1,7 +1,9 @@
 var a20909 =
 [
-    [ "FilterTargets", "d6/dd0/a20909.html#aacfc70299b20cfef5b2feac954779f1c", null ],
-    [ "HandleDamageCalc", "d6/dd0/a20909.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
-    [ "PrepareSpellScript", "d6/dd0/a20909.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
-    [ "Register", "d6/dd0/a20909.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
+    [ "CastTheNextTwoSpells", "d6/dd0/a20909.html#a70a154ea5c19c36630e94c5214ee6722", null ],
+    [ "OnPeriodic", "d6/dd0/a20909.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
+    [ "PrepareAuraScript", "d6/dd0/a20909.html#ac7450be0713ce98e7986d322a58289f6", null ],
+    [ "PushBackTheNextTwoSpells", "d6/dd0/a20909.html#a9e470116c80cf56b425e344d73e44533", null ],
+    [ "Register", "d6/dd0/a20909.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
+    [ "_summonSpells", "d6/dd0/a20909.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
 ];

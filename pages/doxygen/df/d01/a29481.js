@@ -1,9 +1,10 @@
 var a29481 =
 [
-    [ "CreateSpellInfo", "df/d01/a29481.html#a83fe2676ce2ae1374600de46967aeae5", null ],
-    [ "SetUp", "df/d01/a29481.html#abd89fcaf8f8c38b5d992a21430f9ecdb", null ],
-    [ "TearDown", "df/d01/a29481.html#acb5697251398888a4cc282c359cfc4ec", null ],
-    [ "_originalWorld", "df/d01/a29481.html#ae44f699ee1acedae6ead179c3f012594", null ],
-    [ "_spellInfos", "df/d01/a29481.html#ac06654664782d249c4233f79990c817b", null ],
-    [ "_worldMock", "df/d01/a29481.html#a98d5f98dfc4d63705920b7b164530022", null ]
+    [ "adt_CELLS", "d1/d3b/a29489.html", "d1/d3b/a29489" ],
+    [ "getMCNK", "df/d01/a29481.html#a8330b7cb405146399d3d20e6952a8b40", null ],
+    [ "prepareLoadedData", "df/d01/a29481.html#adc7346499aa51f4422c810b7e757f835", null ],
+    [ "cells", "df/d01/a29481.html#a434ed0ca354ec27d5334cc63e5650038", null ],
+    [ "fcc", "df/d01/a29481.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
+    [ "fcc_txt", "df/d01/a29481.html#a514bae36851623daf76b26a9d63f1ae0", null ],
+    [ "size", "df/d01/a29481.html#a1a40f52ea9eef3add8207da89cb71210", null ]
 ];

@@ -1,6 +1,10 @@
 var a21053 =
 [
-    [ "npc_frozen_orb_stalkerAI", "de/d51/a21053.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "de/d51/a21053.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "de/d51/a21053.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "npc_erekem_guard", "de/d51/a21053.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
+    [ "JustEngagedWith", "de/d51/a21053.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
+    [ "MoveInLineOfSight", "de/d51/a21053.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
+    [ "Reset", "de/d51/a21053.html#aacdc16855938d9f133b751f91b5e9402", null ],
+    [ "UpdateAI", "de/d51/a21053.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
+    [ "_events", "de/d51/a21053.html#a13829cd26d18c42213be1f6640a2b979", null ],
+    [ "_instance", "de/d51/a21053.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
 ];

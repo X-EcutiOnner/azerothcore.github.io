@@ -1,14 +1,8 @@
 var a24173 =
 [
-    [ "Absorb", "d4/d2c/a24173.html#a401274543919a81efea81008f8020ed1", null ],
-    [ "CalculateAmount", "d4/d2c/a24173.html#a837b0e3f0135f7b8393f1ee630d90c50", null ],
-    [ "HandleEffectApply", "d4/d2c/a24173.html#a0acb2be86ed6da238e8769d4871526d3", null ],
-    [ "HandleEffectRemove", "d4/d2c/a24173.html#a2b1e9dbb5d3543acd36f9253f224b9a7", null ],
-    [ "Load", "d4/d2c/a24173.html#ab22271735c240c0d375324f54efc8313", null ],
-    [ "PrepareAuraScript", "d4/d2c/a24173.html#af040fefa0f25f319f98340b9908bb85e", null ],
-    [ "Register", "d4/d2c/a24173.html#af89379413ea3b10477ea267ac8e51004", null ],
-    [ "Trigger", "d4/d2c/a24173.html#ae1704ed58255389c7483f75b5f0a227c", null ],
-    [ "Validate", "d4/d2c/a24173.html#a58faaf03fc6a0974049da2af0fc70825", null ],
-    [ "absorbPct", "d4/d2c/a24173.html#a3a9bd069cf4732f64990277227d71d0d", null ],
-    [ "hpPct", "d4/d2c/a24173.html#a83ef3e3f9534366c24311f3281a8d0b8", null ]
+    [ "CheckCast", "d4/d2c/a24173.html#a94851a2b6a62138e28466317e9e88480", null ],
+    [ "HandleDummy", "d4/d2c/a24173.html#a970684d219c99519512c437a8efd8d43", null ],
+    [ "PrepareSpellScript", "d4/d2c/a24173.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
+    [ "Register", "d4/d2c/a24173.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
+    [ "Validate", "d4/d2c/a24173.html#a59cca008a97447e257bf24071301b366", null ]
 ];

@@ -1,6 +1,13 @@
 var a18681 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "dd/db6/a18685.html", "dd/db6/a18685" ],
-    [ "npc_green_dragon_combat_trigger", "d0/deb/a18681.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "d0/deb/a18681.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "npc_risen_archmageAI", "d0/deb/a18681.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "d0/deb/a18681.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "d0/deb/a18681.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEnteredCombat", "d0/deb/a18681.html#a50bd33c1b28b3691f42a5f167f27e342", null ],
+    [ "JustSummoned", "d0/deb/a18681.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "d0/deb/a18681.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "d0/deb/a18681.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "d0/deb/a18681.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "d0/deb/a18681.html#a1b4e12b199bf3ada517c895c5f387c4a", null ],
+    [ "_isInitialArchmage", "d0/deb/a18681.html#ac871eeab6510fa9f5e8f38f35f299149", null ]
 ];

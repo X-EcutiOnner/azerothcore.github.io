@@ -1,7 +1,5 @@
 var a15577 =
 [
-    [ "npc_anubisath_warder", "d9/dff/a15577.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "d9/dff/a15577.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "d9/dff/a15577.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "d9/dff/a15577.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "at_battleguard_sartura", "d9/dff/a15577.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
+    [ "OnTrigger", "d9/dff/a15577.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
 ];

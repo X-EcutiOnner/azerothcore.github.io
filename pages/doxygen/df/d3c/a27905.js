@@ -1,5 +1,6 @@
 var a27905 =
 [
-    [ "go_soulwellAI", "df/d3c/a27905.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "df/d3c/a27905.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "go_bellsAI", "df/d45/a27909.html", "df/d45/a27909" ],
+    [ "go_bells", "df/d3c/a27905.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "df/d3c/a27905.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

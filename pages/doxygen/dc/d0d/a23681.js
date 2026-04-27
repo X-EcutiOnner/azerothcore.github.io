@@ -1,6 +1,7 @@
 var a23681 =
 [
-    [ "go_beaconAI", "d0/de1/a23685.html", "d0/de1/a23685" ],
-    [ "go_beacon", "dc/d0d/a23681.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "dc/d0d/a23681.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "dc/d0d/a23681.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "dc/d0d/a23681.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "dc/d0d/a23681.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "dc/d0d/a23681.html#a29132346f117ba785039057619edb9e7", null ]
 ];
