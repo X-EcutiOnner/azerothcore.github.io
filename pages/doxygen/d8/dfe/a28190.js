@@ -1,6 +1,6 @@
 var a28190 =
 [
-    [ "npc_air_force_botsAI", "d7/dca/a28194.html", "d7/dca/a28194" ],
-    [ "npc_air_force_bots", "d8/dfe/a28190.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "d8/dfe/a28190.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "npc_locksmith", "d8/dfe/a28190.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "d8/dfe/a28190.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "d8/dfe/a28190.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

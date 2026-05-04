@@ -1,6 +1,17 @@
 var a18862 =
 [
-    [ "npc_frostwing_vrykulAI", "d2/d49/a18866.html", "d2/d49/a18866" ],
-    [ "npc_frostwing_vrykul", "da/d5c/a18862.html#ab915aa094ddebd9201a1c626e6427409", null ],
-    [ "GetAI", "da/d5c/a18862.html#a11678e59b6db9a41c7b6a575339995fd", null ]
+    [ "npc_argent_captainAI", "da/d5c/a18862.html#a4e9d65fa7c870c98d79ff30ae262385d", null ],
+    [ "CanAIAttack", "da/d5c/a18862.html#a542075fcf2d487dedc6f11672e3507ba", null ],
+    [ "DoAction", "da/d5c/a18862.html#a77f0b2d41d631f3ff7a3ea8d13716de1", null ],
+    [ "EnterEvadeMode", "da/d5c/a18862.html#afaebff86ad9be5835c2e289625c07d16", null ],
+    [ "JustDied", "da/d5c/a18862.html#a7f132fa843ba292cc89a64c77ce48bc4", null ],
+    [ "JustEngagedWith", "da/d5c/a18862.html#a43818e75274cad597fd883f75119d63c", null ],
+    [ "KilledUnit", "da/d5c/a18862.html#abc2dbc233082f9d7626759fbcccb34a2", null ],
+    [ "Reset", "da/d5c/a18862.html#a0709350a6841b6008935c050a1db7784", null ],
+    [ "SpellHit", "da/d5c/a18862.html#a8aee635d2739564281b5af04955e4d4a", null ],
+    [ "Events", "da/d5c/a18862.html#a1cffce3d371bef959d76270608247def", null ],
+    [ "FollowAngle", "da/d5c/a18862.html#a059c34261439fc80b0bff9d62b537489", null ],
+    [ "FollowDist", "da/d5c/a18862.html#a4fde069032f7c6578f7f518b45f141d2", null ],
+    [ "instance", "da/d5c/a18862.html#a131f11a8a67e3eb60759c699fc2cec1b", null ],
+    [ "IsUndead", "da/d5c/a18862.html#a9eaf5d2c9e52650c28b8f7feef0e681c", null ]
 ];

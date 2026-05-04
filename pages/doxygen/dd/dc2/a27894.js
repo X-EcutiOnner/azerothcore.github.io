@@ -1,7 +1,5 @@
 var a27894 =
 [
-    [ "go_bear_trapAI", "dd/dc2/a27894.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "dd/dc2/a27894.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "dd/dc2/a27894.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "dd/dc2/a27894.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "go_scourge_cage", "dd/dc2/a27894.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "dd/dc2/a27894.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

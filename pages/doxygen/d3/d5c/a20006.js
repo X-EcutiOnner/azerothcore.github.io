@@ -1,7 +1,7 @@
 var a20006 =
 [
-    [ "OnPeriodic", "d3/d5c/a20006.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "d3/d5c/a20006.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "d3/d5c/a20006.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "d3/d5c/a20006.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "boss_flame_leviathan_safety_container", "d3/d5c/a20006.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
+    [ "MovementInform", "d3/d5c/a20006.html#a42842de299fd9346cc0d61b649b652a4", null ],
+    [ "UpdateAI", "d3/d5c/a20006.html#a55119d077f905a8207ad2afbe31f17a4", null ],
+    [ "_allowTimer", "d3/d5c/a20006.html#a70134398c054c837407d6a22591a2d96", null ]
 ];

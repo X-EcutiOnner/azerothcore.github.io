@@ -1,5 +1,7 @@
 var a12730 =
 [
-    [ "at_orb_of_command", "db/d48/a12730.html#a1f0b196362b76e050eba66d3ce612623", null ],
-    [ "OnTrigger", "db/d48/a12730.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
+    [ "HandlePeriodic", "db/d48/a12730.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "db/d48/a12730.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "db/d48/a12730.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "db/d48/a12730.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

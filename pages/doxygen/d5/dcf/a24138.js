@@ -1,5 +1,7 @@
 var a24138 =
 [
-    [ "npc_pet_pri_lightwell", "d5/dcf/a24138.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d5/dcf/a24138.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "CheckProc", "d5/dcf/a24138.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
+    [ "HandleProc", "d5/dcf/a24138.html#a8ab07569658cf2fa02193691bcab14ac", null ],
+    [ "PrepareAuraScript", "d5/dcf/a24138.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
+    [ "Register", "d5/dcf/a24138.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
 ];

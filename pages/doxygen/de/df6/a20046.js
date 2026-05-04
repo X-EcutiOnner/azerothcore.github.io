@@ -1,25 +1,7 @@
 var a20046 =
 [
-    [ "boss_freya", "de/df6/a20046.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "de/df6/a20046.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
-    [ "DamageTaken", "de/df6/a20046.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
-    [ "DoAction", "de/df6/a20046.html#a099f983a17e002990aaecbb0995bb3b0", null ],
-    [ "GetData", "de/df6/a20046.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
-    [ "JustEngagedWith", "de/df6/a20046.html#a85a00b03079df9ce9b8fa035820c959b", null ],
-    [ "JustReachedHome", "de/df6/a20046.html#a577c8714fef829a57533c1cfbd400dc0", null ],
-    [ "JustSummoned", "de/df6/a20046.html#a24e4d87c3007c1c17c0d3c7c9bf68d79", null ],
-    [ "KilledUnit", "de/df6/a20046.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
-    [ "Reset", "de/df6/a20046.html#abadf6447f33116039e82065ce44f4322", null ],
-    [ "SpawnWave", "de/df6/a20046.html#af1f486e8725a2710b237fe233f7fe181", null ],
-    [ "SpellHit", "de/df6/a20046.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
-    [ "SpellHitTarget", "de/df6/a20046.html#a22c4097731727de032fd6db3c9cef7cf", null ],
-    [ "UpdateAI", "de/df6/a20046.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
-    [ "_backToNature", "de/df6/a20046.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
-    [ "_deforestation", "de/df6/a20046.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
-    [ "_elderGUID", "de/df6/a20046.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
-    [ "_lumberjacked", "de/df6/a20046.html#aa35101951b2d47848b69170ab36ae414", null ],
-    [ "_respawningTrio", "de/df6/a20046.html#a9e0326bd0eff372fca2b5e0e310dd1da", null ],
-    [ "_spawnedAmount", "de/df6/a20046.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
-    [ "_trioKilled", "de/df6/a20046.html#ae141a7cf3554c606738774fe96a371dc", null ],
-    [ "_waveNumber", "de/df6/a20046.html#af4e2576558c3c15303245f76c6e30aa0", null ]
+    [ "OnPeriodic", "de/df6/a20046.html#a9407d5477a40e36863e5fb5775dda122", null ],
+    [ "PrepareAuraScript", "de/df6/a20046.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
+    [ "Register", "de/df6/a20046.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
+    [ "Validate", "de/df6/a20046.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
 ];

@@ -1,21 +1,15 @@
 var a01076 =
 [
-    [ "CleaningFlags", "d6/d80/a01076.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
-      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "d6/d80/a01076.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
-      [ "CLEANING_FLAG_SKILLS", "d6/d80/a01076.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
-      [ "CLEANING_FLAG_SPELLS", "d6/d80/a01076.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
-      [ "CLEANING_FLAG_TALENTS", "d6/d80/a01076.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
-      [ "CLEANING_FLAG_QUESTSTATUS", "d6/d80/a01076.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
-    ] ],
-    [ "AchievementProgressCheck", "d6/d80/a01076.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
-    [ "CheckUnique", "d6/d80/a01076.html#ab98182e5f92f72090600314cc41f0d39", null ],
-    [ "CleanCharacterAchievementProgress", "d6/d80/a01076.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
-    [ "CleanCharacterQuestStatus", "d6/d80/a01076.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
-    [ "CleanCharacterSkills", "d6/d80/a01076.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
-    [ "CleanCharacterSpell", "d6/d80/a01076.html#aca5826d283031348e5d6ae6eb75ad605", null ],
-    [ "CleanCharacterTalent", "d6/d80/a01076.html#a344f61fb209b507b775a0bbfb1315fac", null ],
-    [ "CleanDatabase", "d6/d80/a01076.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
-    [ "SkillCheck", "d6/d80/a01076.html#a0f72cf24646d1ece0eb793890840992d", null ],
-    [ "SpellCheck", "d6/d80/a01076.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
-    [ "TalentCheck", "d6/d80/a01076.html#aac707369555aa95807c11b1578ae80d2", null ]
+    [ "PoolTemplateData", "dc/d63/a10502.html", "dc/d63/a10502" ],
+    [ "PoolObject", "dc/d06/a10506.html", "dc/d06/a10506" ],
+    [ "Pool", "dd/d31/a10510.html", null ],
+    [ "ActivePoolData", "db/ddb/a10514.html", "db/ddb/a10514" ],
+    [ "PoolGroup< T >", "db/dab/a10518.html", "db/dab/a10518" ],
+    [ "PoolMgr", "d5/dea/a10522.html", "d5/dea/a10522" ],
+    [ "sPoolMgr", "d6/d80/a01076.html#a9189dd9c6265b9e6d57104dd61a5fe85", null ],
+    [ "ActivePoolObjects", "d6/d80/a01076.html#a6fd2b29871e3f63cf9cc493968a0ab74", null ],
+    [ "ActivePoolPools", "d6/d80/a01076.html#ad18a3f26065fec260d0281c5354067dd", null ],
+    [ "PooledQuestRelation", "d6/d80/a01076.html#ace9e74e256f166b08f2834044ecfba43", null ],
+    [ "PooledQuestRelationBounds", "d6/d80/a01076.html#adabd05f382474650e093706cf4ea4e35", null ],
+    [ "PooledQuestRelationBoundsNC", "d6/d80/a01076.html#a54dd98ebecf13a92dd29f7d3789d5b56", null ]
 ];

@@ -1,9 +1,5 @@
 var a21318 =
 [
-    [ "npc_warmage_coldarraAI", "d9/d82/a21318.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d9/d82/a21318.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d9/d82/a21318.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d9/d82/a21318.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d9/d82/a21318.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d9/d82/a21318.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_steam_powered_auctioneerAI", "d9/d82/a21318.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d9/d82/a21318.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

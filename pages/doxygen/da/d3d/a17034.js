@@ -1,7 +1,6 @@
 var a17034 =
 [
-    [ "HandlePeriodicTick", "da/d3d/a17034.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
-    [ "PrepareAuraScript", "da/d3d/a17034.html#aabaef31a3c699c322e24e064f357f82f", null ],
-    [ "Register", "da/d3d/a17034.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
-    [ "Validate", "da/d3d/a17034.html#a18d92a82760992bc5d8503e3f774f208", null ]
+    [ "HandleScriptEffect", "da/d3d/a17034.html#a90b13b2a093fdd430a383d7ea4126290", null ],
+    [ "PrepareSpellScript", "da/d3d/a17034.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
+    [ "Register", "da/d3d/a17034.html#a53c8d47ee21637055ad901946be1e2c2", null ]
 ];

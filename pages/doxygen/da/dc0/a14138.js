@@ -1,19 +1,16 @@
 var a14138 =
 [
-    [ "boss_nalorakk", "da/dc0/a14138.html#a4dd18b28685e3dac2406c4e3d8be95aa", null ],
-    [ "CheckAnyEvadeGroup", "da/dc0/a14138.html#a2ef7e2a115b8f2292580c88ff55bb797", null ],
-    [ "CheckFullyDeadGroup", "da/dc0/a14138.html#a0754b8a39fd26f5fb026f9460faa17aa", null ],
-    [ "GroupedAttack", "da/dc0/a14138.html#a249f35697e422a7e7e8a583f85cc97b1", null ],
-    [ "JustDied", "da/dc0/a14138.html#a6f79e518e3a356e0f6093afa8c438fe5", null ],
-    [ "JustEngagedWith", "da/dc0/a14138.html#a1d3c302161e8666c0343d449727c35a9", null ],
-    [ "MoveInLineOfSight", "da/dc0/a14138.html#a3455e91061cfb9ea03712b8006d298df", null ],
-    [ "Reset", "da/dc0/a14138.html#a85093d79b866ceff41357dde22e06867", null ],
-    [ "ShapeShift", "da/dc0/a14138.html#a78b12658138455ccddd9c62b6c7e26dd", null ],
-    [ "UpdateAI", "da/dc0/a14138.html#a4cf5656619dd9339000236ed6b006c90", null ],
-    [ "_active", "da/dc0/a14138.html#a8825e186d58b8f6bbd39976e013ee114", null ],
-    [ "_bearForm", "da/dc0/a14138.html#aa76da1d9912aaa97242f5d27e567e895", null ],
-    [ "_introScheduler", "da/dc0/a14138.html#ac654307d732ac59155321008418f8c90", null ],
-    [ "_phase", "da/dc0/a14138.html#a390142234210027d37f5e4ec7cea84ae", null ],
-    [ "_ranIntro", "da/dc0/a14138.html#a78bd5a9970ab205d9553ed5746a42066", null ],
-    [ "_waveList", "da/dc0/a14138.html#a6093dac3b1353a047174e5aae98c13d6", null ]
+    [ "boss_halazzi", "da/dc0/a14138.html#aed961a9e12b44dfd97bd31c981184be5", null ],
+    [ "AttackStart", "da/dc0/a14138.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
+    [ "DamageTaken", "da/dc0/a14138.html#aaa698dfa4d4a991968eebee3330e967a", null ],
+    [ "DoAction", "da/dc0/a14138.html#a1685c7c99a797ec332b67797a294d83a", null ],
+    [ "EnterPhase", "da/dc0/a14138.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
+    [ "JustDied", "da/dc0/a14138.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
+    [ "JustEngagedWith", "da/dc0/a14138.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
+    [ "JustSummoned", "da/dc0/a14138.html#a152267cb31912106443ceea9488fee0a", null ],
+    [ "KilledUnit", "da/dc0/a14138.html#a4d69fa8e754f823a599c52e227361600", null ],
+    [ "Reset", "da/dc0/a14138.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
+    [ "SpellHit", "da/dc0/a14138.html#a36141673391a423174db874ca425ea07", null ],
+    [ "_phase", "da/dc0/a14138.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
+    [ "_transformCount", "da/dc0/a14138.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
 ];

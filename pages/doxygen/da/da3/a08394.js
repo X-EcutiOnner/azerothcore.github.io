@@ -1,7 +1,28 @@
 var a08394 =
 [
-    [ "entry", "da/da3/a08394.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
-    [ "pos", "da/da3/a08394.html#af264c1262d9fcd204a2a536847a613b1", null ],
-    [ "respawnTime", "da/da3/a08394.html#abeadd86c92a8c301626dde6943da1b9b", null ],
-    [ "rot", "da/da3/a08394.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
+    [ "CreatureGroupMemberType", "da/da3/a08394.html#a0c8f7d4ceda056e0d39d80d434e4feca", null ],
+    [ "CreatureGroup", "da/da3/a08394.html#aa5016e1ecda1477992e159bf604e4280", null ],
+    [ "~CreatureGroup", "da/da3/a08394.html#a16be792f604999ba80b361b59ea77a76", null ],
+    [ "AddMember", "da/da3/a08394.html#afca7fafddd0f361507469f875bf5d17c", null ],
+    [ "CanLeaderStartMoving", "da/da3/a08394.html#ab6371dfdcceb23f52935a8aee833a381", null ],
+    [ "DespawnFormation", "da/da3/a08394.html#a07388907629846288949a5a896d0c00d", null ],
+    [ "FormationReset", "da/da3/a08394.html#a1b206e69df855ed13f3b687017474a1a", null ],
+    [ "GetId", "da/da3/a08394.html#a0d67df48ef040fc8f14b1ddf307aed14", null ],
+    [ "GetLeader", "da/da3/a08394.html#a160d77342c8e11d97f66def5ff795929", null ],
+    [ "GetMembers", "da/da3/a08394.html#a889df9f73068078942c5e4cef1669e35", null ],
+    [ "GetNewTargetForMember", "da/da3/a08394.html#af6204f37e817c59cd556d76a5a19bf77", null ],
+    [ "IsAnyMemberAlive", "da/da3/a08394.html#adf09b1ad9b9f48f56ea1f2e0e6579689", null ],
+    [ "IsEmpty", "da/da3/a08394.html#ad88320d89fba23f6cdf5fd0b4de33c18", null ],
+    [ "IsFormationInCombat", "da/da3/a08394.html#a6e2dc8bde0b1c0db11bb04f31dafe96d", null ],
+    [ "IsFormed", "da/da3/a08394.html#a60d646229e75ac6bf0be825f43e7368c", null ],
+    [ "LeaderStartedMoving", "da/da3/a08394.html#a8f7f63a7244479625dd66ec27366d040", null ],
+    [ "MemberEngagingTarget", "da/da3/a08394.html#a9964d390c9276d3e058c20afc6932367", null ],
+    [ "MemberEvaded", "da/da3/a08394.html#a2547bae861879c20724c1d04db55e88a", null ],
+    [ "RemoveFormationMovement", "da/da3/a08394.html#a93f43557cae43ebe978fc4a25c1d10a5", null ],
+    [ "RemoveMember", "da/da3/a08394.html#a8080ff17f223119659870c49db3ae6d9", null ],
+    [ "RespawnFormation", "da/da3/a08394.html#a4777b1e1b5a4d084ba0648917b372c47", null ],
+    [ "m_Formed", "da/da3/a08394.html#a2215d3dc155916d657c499fac6d4ce3e", null ],
+    [ "m_groupID", "da/da3/a08394.html#afd1a31d9316e6cca399bea0e328b8333", null ],
+    [ "m_leader", "da/da3/a08394.html#ae9689e23f755a12f1be14601bb2f2677", null ],
+    [ "m_members", "da/da3/a08394.html#a63805a04ef3ef80270ae7e7d03014d83", null ]
 ];

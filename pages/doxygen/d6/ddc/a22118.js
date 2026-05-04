@@ -1,6 +1,6 @@
 var a22118 =
 [
-    [ "PrepareSpellScript", "d6/ddc/a22118.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "d6/ddc/a22118.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "d6/ddc/a22118.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "FilterTargets", "d6/ddc/a22118.html#a4d81860c41daab44851da605d38b4753", null ],
+    [ "PrepareSpellScript", "d6/ddc/a22118.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
+    [ "Register", "d6/ddc/a22118.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
 ];

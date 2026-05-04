@@ -1,12 +1,8 @@
 var a09294 =
 [
-    [ "IsTeamAward1", "dc/d37/a09294.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
-    [ "IsTeamAward2", "dc/d37/a09294.html#a053bd7825d0464ac322b449f3d243722", null ],
-    [ "RepFaction1", "dc/d37/a09294.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
-    [ "RepFaction2", "dc/d37/a09294.html#a5934590811c666d06b68216428574d8a", null ],
-    [ "ReputationMaxCap1", "dc/d37/a09294.html#a292b78f629723c3993a796eb256dd9b8", null ],
-    [ "ReputationMaxCap2", "dc/d37/a09294.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
-    [ "RepValue1", "dc/d37/a09294.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
-    [ "RepValue2", "dc/d37/a09294.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
-    [ "TeamDependent", "dc/d37/a09294.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
+    [ "target_mapId", "dc/d37/a09294.html#af6d7558707c026a6d64f2d7b65a344be", null ],
+    [ "target_Orientation", "dc/d37/a09294.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
+    [ "target_X", "dc/d37/a09294.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
+    [ "target_Y", "dc/d37/a09294.html#a6660d360eaa47098506f246927130e32", null ],
+    [ "target_Z", "dc/d37/a09294.html#a32fee5f497804089feb738be84548dc1", null ]
 ];

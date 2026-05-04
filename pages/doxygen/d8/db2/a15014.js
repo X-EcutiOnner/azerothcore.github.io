@@ -1,6 +1,7 @@
 var a15014 =
 [
-    [ "boss_epochAI", "d2/d16/a15018.html", "d2/d16/a15018" ],
-    [ "boss_epoch", "d8/db2/a15014.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "d8/db2/a15014.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "hyjalTyrandeAI", "d2/d16/a15018.html", "d2/d16/a15018" ],
+    [ "npc_hyjal_tyrande", "d8/db2/a15014.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "d8/db2/a15014.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "d8/db2/a15014.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

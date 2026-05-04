@@ -1,9 +1,6 @@
 var a23814 =
 [
-    [ "npc_bessyAI", "dc/dad/a23814.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "dc/dad/a23814.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "dc/dad/a23814.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "dc/dad/a23814.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "dc/dad/a23814.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
-    [ "WaypointReached", "dc/dad/a23814.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_dragonmaw_peonAI", "d2/d9c/a23818.html", "d2/d9c/a23818" ],
+    [ "npc_dragonmaw_peon", "dc/dad/a23814.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "dc/dad/a23814.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

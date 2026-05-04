@@ -1,6 +1,7 @@
 var a27162 =
 [
-    [ "FilterTargets", "dc/d84/a27162.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "dc/d84/a27162.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "dc/d84/a27162.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "HandleProc", "dc/d84/a27162.html#aeaeacf85b822cc7427234fe469aaff7f", null ],
+    [ "PrepareAuraScript", "dc/d84/a27162.html#ac9df7bea2f626b95291c18c740968da6", null ],
+    [ "Register", "dc/d84/a27162.html#a7152aa6ab02938d981ee83875e533b32", null ],
+    [ "Validate", "dc/d84/a27162.html#a0e488d9d96e37a20887f0befc1950dd5", null ]
 ];

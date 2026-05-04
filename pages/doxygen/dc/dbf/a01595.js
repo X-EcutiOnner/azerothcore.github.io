@@ -1,17 +1,45 @@
 var a01595 =
 [
-    [ "DeleteSpellFromAllPlayers", "dc/dbf/a01595.html#af0dec25ac7c118b67a71a0356eb37877", null ],
-    [ "GetDiminishingReturnsGroupForSpell", "dc/dbf/a01595.html#a35697cceaf39daf069d06c53e8e3cdf7", null ],
-    [ "GetDiminishingReturnsGroupType", "dc/dbf/a01595.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1", null ],
-    [ "GetDiminishingReturnsLimitDuration", "dc/dbf/a01595.html#a2ba27d428865ac3f87bf6f6843271d3f", null ],
-    [ "GetDiminishingReturnsMaxLevel", "dc/dbf/a01595.html#ad621262d491c800fb5ddd016250dd46f", null ],
-    [ "InitTriggerAuraData", "dc/dbf/a01595.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
-    [ "IsDiminishingReturnsGroupDurationLimited", "dc/dbf/a01595.html#a423a80c889a3456a2b55e0e9c22ad060", null ],
-    [ "IsPartOfSkillLine", "dc/dbf/a01595.html#a18102741b602d3b4473f75d4f619a09b", null ],
-    [ "IsPrimaryProfessionSkill", "dc/dbf/a01595.html#a09c4e23bd85fab812b67beafbbf1b7b3", null ],
-    [ "LoadPetDefaultSpells_helper", "dc/dbf/a01595.html#a26626d5f5404864fcd622872f5cd8af1", null ],
-    [ "isAlwaysTriggeredAura", "dc/dbf/a01595.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
-    [ "isTriggerAura", "dc/dbf/a01595.html#ad51bed43268eefcceebdda05d85c6a61", null ],
-    [ "procPrepared", "dc/dbf/a01595.html#a11410c456e972de7cfb44bbe17709cc4", null ],
-    [ "spellTypeMask", "dc/dbf/a01595.html#aacbfece2441a495ad1e709acd28bc9b7", null ]
+    [ "PassengerInfo", "d0/def/a09110.html", "d0/def/a09110" ],
+    [ "VehicleSeatAddon", "d4/d6b/a09114.html", "d4/d6b/a09114" ],
+    [ "VehicleSeat", "d0/d65/a09118.html", "d0/d65/a09118" ],
+    [ "VehicleAccessory", "de/d1f/a09122.html", "de/d1f/a09122" ],
+    [ "TransportBase", "d0/d6d/a09126.html", "d0/d6d/a09126" ],
+    [ "SeatMap", "dc/dbf/a01595.html#a2dadb2596b27d20ebbc12696cb7b9a74", null ],
+    [ "VehicleAccessoryContainer", "dc/dbf/a01595.html#a5b46179616c0e205a7c933e02f87160b", null ],
+    [ "VehicleAccessoryList", "dc/dbf/a01595.html#af5d682a742080008bd21db9bba6e162f", null ],
+    [ "PowerType", "dc/dbf/a01595.html#a0d0e3226055ad5266e487b58fd01cebd", [
+      [ "POWER_STEAM", "dc/dbf/a01595.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f", null ],
+      [ "POWER_PYRITE", "dc/dbf/a01595.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9", null ],
+      [ "POWER_HEAT", "dc/dbf/a01595.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434", null ],
+      [ "POWER_OOZE", "dc/dbf/a01595.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097", null ],
+      [ "POWER_BLOOD", "dc/dbf/a01595.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68", null ],
+      [ "POWER_WRATH", "dc/dbf/a01595.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1", null ]
+    ] ],
+    [ "VehicleExitParameters", "dc/dbf/a01595.html#a7f17d71c7e2664769a8e8a8b40cb5116", [
+      [ "VehicleExitParamNone", "dc/dbf/a01595.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb", null ],
+      [ "VehicleExitParamOffset", "dc/dbf/a01595.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427", null ],
+      [ "VehicleExitParamDest", "dc/dbf/a01595.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d", null ],
+      [ "VehicleExitParamMax", "dc/dbf/a01595.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0", null ]
+    ] ],
+    [ "VehicleFlags", "dc/dbf/a01595.html#a6f71ae83254cc7417ec04e6ac2a55f7a", [
+      [ "VEHICLE_FLAG_NO_STRAFE", "dc/dbf/a01595.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b", null ],
+      [ "VEHICLE_FLAG_NO_JUMPING", "dc/dbf/a01595.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f", null ],
+      [ "VEHICLE_FLAG_FULLSPEEDTURNING", "dc/dbf/a01595.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1", null ],
+      [ "VEHICLE_FLAG_ALLOW_PITCHING", "dc/dbf/a01595.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f", null ],
+      [ "VEHICLE_FLAG_FULLSPEEDPITCHING", "dc/dbf/a01595.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5", null ],
+      [ "VEHICLE_FLAG_CUSTOM_PITCH", "dc/dbf/a01595.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22", null ],
+      [ "VEHICLE_FLAG_ADJUST_AIM_ANGLE", "dc/dbf/a01595.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103", null ],
+      [ "VEHICLE_FLAG_ADJUST_AIM_POWER", "dc/dbf/a01595.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5", null ]
+    ] ],
+    [ "VehicleNPCs", "dc/dbf/a01595.html#aecacfdf074f78c4655fc7b038cce5c06", [
+      [ "NPC_EIDOLON_WATCHER", "dc/dbf/a01595.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8", null ],
+      [ "NPC_LITHE_STALKER", "dc/dbf/a01595.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612", null ]
+    ] ],
+    [ "VehicleSpells", "dc/dbf/a01595.html#a5829b6d4bd25b5c2a56495142fa8ca54", [
+      [ "VEHICLE_SPELL_RIDE_HARDCODED", "dc/dbf/a01595.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119", null ],
+      [ "VEHICLE_SPELL_PARACHUTE", "dc/dbf/a01595.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae", null ],
+      [ "VEHICLE_SPELL_GEIST_CONTROL_END", "dc/dbf/a01595.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe", null ],
+      [ "VEHICLE_SPELL_SHADE_CONTROL_END", "dc/dbf/a01595.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b", null ]
+    ] ]
 ];

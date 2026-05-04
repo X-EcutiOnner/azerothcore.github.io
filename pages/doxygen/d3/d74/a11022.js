@@ -1,8 +1,7 @@
 var a11022 =
 [
-    [ "GuildBankQueryTab", "d3/d74/a11022.html#a29fc27016b597f051898db7bb30214c8", null ],
-    [ "Read", "d3/d74/a11022.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
-    [ "Banker", "d3/d74/a11022.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
-    [ "FullUpdate", "d3/d74/a11022.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
-    [ "Tab", "d3/d74/a11022.html#a949488c1696f92cb0a081cf28bffb48f", null ]
+    [ "GuildSetMemberNote", "d3/d74/a11022.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "d3/d74/a11022.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "d3/d74/a11022.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "d3/d74/a11022.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

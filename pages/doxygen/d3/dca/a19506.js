@@ -1,7 +1,6 @@
 var a19506 =
 [
-    [ "HandlePull", "d3/dca/a19506.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d3/dca/a19506.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d3/dca/a19506.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d3/dca/a19506.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "HandleScript", "d3/dca/a19506.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "d3/dca/a19506.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "d3/dca/a19506.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

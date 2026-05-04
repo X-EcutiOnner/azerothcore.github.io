@@ -1,5 +1,8 @@
 var a14774 =
 [
-    [ "PrepareSpellScript", "d2/d2a/a14774.html#af219083d127afe24b2541a95bfd449ff", null ],
-    [ "Register", "d2/d2a/a14774.html#a03f7ac8d5968970f769191c7df7f5899", null ]
+    [ "OnApply", "d2/d2a/a14774.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "d2/d2a/a14774.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "d2/d2a/a14774.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "d2/d2a/a14774.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "d2/d2a/a14774.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

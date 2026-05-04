@@ -1,6 +1,8 @@
 var a21966 =
 [
-    [ "npc_freed_protodrakeAI", "d6/db9/a21970.html", "d6/db9/a21970" ],
-    [ "npc_freed_protodrake", "d6/dba/a21966.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "d6/dba/a21966.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "spell_loosen_grip", "d6/dba/a21966.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "d6/dba/a21966.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "d6/dba/a21966.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "d6/dba/a21966.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "d6/dba/a21966.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

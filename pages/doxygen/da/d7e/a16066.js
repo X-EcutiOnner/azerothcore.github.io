@@ -1,6 +1,6 @@
 var a16066 =
 [
-    [ "npc_shadowpriest_sezzizAI", "d9/d48/a16070.html", "d9/d48/a16070" ],
-    [ "npc_shadowpriest_sezziz", "da/d7e/a16066.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
-    [ "GetAI", "da/d7e/a16066.html#a1513b766f18dbc290b6682582fd33b1d", null ]
+    [ "HandleSummon", "da/d7e/a16066.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "da/d7e/a16066.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "da/d7e/a16066.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

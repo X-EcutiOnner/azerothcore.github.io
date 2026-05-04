@@ -1,6 +1,7 @@
 var a16342 =
 [
-    [ "SendEncounterUnit", "d9/dc6/a16342.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "d9/dc6/a16342.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "d9/dc6/a16342.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "CheckDistance", "d9/dc6/a16342.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "d9/dc6/a16342.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "d9/dc6/a16342.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "d9/dc6/a16342.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

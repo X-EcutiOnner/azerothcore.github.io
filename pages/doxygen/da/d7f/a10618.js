@@ -1,13 +1,10 @@
 var a10618 =
 [
-    [ "FormulaScript", "da/d7f/a10618.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
-    [ "OnAfterArenaRatingCalculation", "da/d7f/a10618.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
-    [ "OnBaseGainCalculation", "da/d7f/a10618.html#ab154eaf469d5fe3e86c364940816270a", null ],
-    [ "OnBeforeUpdatingPersonalRating", "da/d7f/a10618.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
-    [ "OnColorCodeCalculation", "da/d7f/a10618.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
-    [ "OnGainCalculation", "da/d7f/a10618.html#aa83fab65cc89bd03021da2805e935ffb", null ],
-    [ "OnGrayLevelCalculation", "da/d7f/a10618.html#affeb57234f961b9e01f5898c7738f38f", null ],
-    [ "OnGroupRateCalculation", "da/d7f/a10618.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
-    [ "OnHonorCalculation", "da/d7f/a10618.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
-    [ "OnZeroDifferenceCalculation", "da/d7f/a10618.html#a7755c35bc56e6645e36de08c12a4847d", null ]
+    [ "BattlefieldScript", "da/d7f/a10618.html#a5d852a5ae3f62631280ca9f4b97b1734", null ],
+    [ "IsDatabaseBound", "da/d7f/a10618.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
+    [ "OnBattlefieldBeforeInvitePlayerToWar", "da/d7f/a10618.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
+    [ "OnBattlefieldPlayerEnterZone", "da/d7f/a10618.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
+    [ "OnBattlefieldPlayerJoinWar", "da/d7f/a10618.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
+    [ "OnBattlefieldPlayerLeaveWar", "da/d7f/a10618.html#a3e88ff9ad3772d558ab72123127a550e", null ],
+    [ "OnBattlefieldPlayerLeaveZone", "da/d7f/a10618.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ]
 ];

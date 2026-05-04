@@ -1,7 +1,8 @@
 var a27214 =
 [
-    [ "PeriodicTick", "d6/deb/a27214.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
-    [ "PrepareAuraScript", "d6/deb/a27214.html#afd362a7dd0373e9480445a99023a5c8c", null ],
-    [ "Register", "d6/deb/a27214.html#a0332788648661d5c2665c5d1431e4ca7", null ],
-    [ "Validate", "d6/deb/a27214.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
+    [ "CheckProc", "d6/deb/a27214.html#a11d7fe14f7b3cca93578926f157ef0d5", null ],
+    [ "HandleProc", "d6/deb/a27214.html#ac18d7286dd26ebbb868e01d17a412124", null ],
+    [ "PrepareAuraScript", "d6/deb/a27214.html#a8af3179c6688cfe0940bcd932f6766fa", null ],
+    [ "Register", "d6/deb/a27214.html#a239b3daf5f03f5e5930c7b6712a63d8a", null ],
+    [ "Validate", "d6/deb/a27214.html#a9919c0a8d284a36b3162ed435d2f7711", null ]
 ];

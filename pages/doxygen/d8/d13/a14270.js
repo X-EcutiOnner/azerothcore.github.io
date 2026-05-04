@@ -1,11 +1,12 @@
 var a14270 =
 [
-    [ "boss_hakkarAI", "d8/d13/a14270.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
-    [ "ApplyHakkarPowerStacks", "d8/d13/a14270.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
-    [ "CheckInRoom", "d8/d13/a14270.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
-    [ "EnterEvadeMode", "d8/d13/a14270.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
-    [ "JustDied", "d8/d13/a14270.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
-    [ "JustEngagedWith", "d8/d13/a14270.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
-    [ "Reset", "d8/d13/a14270.html#a52db5743c09088e2e9f1aff1513960f2", null ],
-    [ "UpdateAI", "d8/d13/a14270.html#a1119212465bcf293991d7a520c6ffe42", null ]
+    [ "npc_zulian_prowlerAI", "d8/d13/a14270.html#a367613efead335b060173011267ddcff", null ],
+    [ "JustDied", "d8/d13/a14270.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
+    [ "JustEngagedWith", "d8/d13/a14270.html#a207504b15ecd22b78088593b80433581", null ],
+    [ "Reset", "d8/d13/a14270.html#a62d14bae970d8a70a997c683e0e94259", null ],
+    [ "SpellHit", "d8/d13/a14270.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
+    [ "UpdateAI", "d8/d13/a14270.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
+    [ "_events", "d8/d13/a14270.html#a994ae5b4e72429141155d1342830e5ad", null ],
+    [ "_instance", "d8/d13/a14270.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
+    [ "_sideData", "d8/d13/a14270.html#afa44e09c5677c2fc567be6a67b766bde", null ]
 ];

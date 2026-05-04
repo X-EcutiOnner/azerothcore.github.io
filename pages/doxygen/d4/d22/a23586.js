@@ -1,9 +1,8 @@
 var a23586 =
 [
-    [ "boss_void_reaver", "d4/d22/a23586.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "d4/d22/a23586.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "d4/d22/a23586.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "d4/d22/a23586.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "d4/d22/a23586.html#a02c36ea960de24991f879943991a93c6", null ],
-    [ "_recentlySpoken", "d4/d22/a23586.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
+    [ "instance_mechanar_InstanceMapScript", "d4/d22/a23586.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "d4/d22/a23586.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "d4/d22/a23586.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "d4/d22/a23586.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "d4/d22/a23586.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

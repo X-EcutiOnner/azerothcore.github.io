@@ -1,5 +1,6 @@
 var a22362 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "dd/dac/a22362.html#a037ee225b626b64436570680ae4e9ea0", null ],
-    [ "ProcessEvent", "dd/dac/a22362.html#aba05b0edb57e6c42bd45593a51598365", null ]
+    [ "HandleScriptEffect", "dd/dac/a22362.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "dd/dac/a22362.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "dd/dac/a22362.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

@@ -1,14 +1,6 @@
 var a17354 =
 [
-    [ "boss_drakkari_colossusAI", "dd/df7/a17354.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
-    [ "DamageTaken", "dd/df7/a17354.html#ae31f77e5b63fee3d0745919ed737b599", null ],
-    [ "DoAction", "dd/df7/a17354.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
-    [ "JustReachedHome", "dd/df7/a17354.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
-    [ "JustSummoned", "dd/df7/a17354.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
-    [ "MoveInLineOfSight", "dd/df7/a17354.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
-    [ "Reset", "dd/df7/a17354.html#a5e9c6da15df58a206533a7c718056c3e", null ],
-    [ "ScheduleTasks", "dd/df7/a17354.html#afefbba70f93142110dcf9d7940d91d2c", null ],
-    [ "SummonedCreatureDespawn", "dd/df7/a17354.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
-    [ "SummonedCreatureDies", "dd/df7/a17354.html#a59f9efbc2964eec057606d69458b4402", null ],
-    [ "UpdateAI", "dd/df7/a17354.html#afc816b7d1c2705675560ddd13ecce22d", null ]
+    [ "HandleDummy", "dd/df7/a17354.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
+    [ "PrepareSpellScript", "dd/df7/a17354.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
+    [ "Register", "dd/df7/a17354.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
 ];

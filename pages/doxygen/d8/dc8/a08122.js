@@ -1,5 +1,6 @@
 var a08122 =
 [
-    [ "ThreatReferenceImpl", "d8/dc8/a08122.html#ae69492bf301cc65e2554ac6d46039086", null ],
-    [ "_handle", "d8/dc8/a08122.html#a500806ed499b69bcae1d9a05071dea2c", null ]
+    [ "value_type", "d8/dc8/a08122.html#a39c517c76f9109f1bccd27cd04ec88cd", null ],
+    [ "StoreTo", "d8/dc8/a08122.html#a5658d34ee9af224a3d19ba5d5123535e", null ],
+    [ "tag", "d8/dc8/a08122.html#a3538ae91cb7d37c3d0a6a4964f4baaf9", null ]
 ];

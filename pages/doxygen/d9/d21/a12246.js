@@ -1,12 +1,12 @@
 var a12246 =
 [
-    [ "message_commandscript", "d9/d21/a12246.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
-    [ "GetCommands", "d9/d21/a12246.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
-    [ "HandleAnnounceCommand", "d9/d21/a12246.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
-    [ "HandleGMAnnounceCommand", "d9/d21/a12246.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
-    [ "HandleGMNameAnnounceCommand", "d9/d21/a12246.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
-    [ "HandleGMNotifyCommand", "d9/d21/a12246.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
-    [ "HandleNameAnnounceCommand", "d9/d21/a12246.html#a786902b70345712c6dba9f638695dd9e", null ],
-    [ "HandleNotifyCommand", "d9/d21/a12246.html#a0d53b2414931451b30abd2fe5acee1af", null ],
-    [ "HandleWhispersCommand", "d9/d21/a12246.html#a9a02c97677250136f9717968a9f47b73", null ]
+    [ "guild_commandscript", "d9/d21/a12246.html#a4394d242740505ad128e4cebf4b617f0", null ],
+    [ "GetCommands", "d9/d21/a12246.html#a6b0a700e7fa3251373c1405d245f6931", null ],
+    [ "HandleGuildCreateCommand", "d9/d21/a12246.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
+    [ "HandleGuildDeleteCommand", "d9/d21/a12246.html#a4bbef641c86de37611e7ff1c906b4048", null ],
+    [ "HandleGuildInfoCommand", "d9/d21/a12246.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
+    [ "HandleGuildInviteCommand", "d9/d21/a12246.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
+    [ "HandleGuildRankCommand", "d9/d21/a12246.html#adbea3b610c98354866fec52a43fedda0", null ],
+    [ "HandleGuildRenameCommand", "d9/d21/a12246.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
+    [ "HandleGuildUninviteCommand", "d9/d21/a12246.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
 ];

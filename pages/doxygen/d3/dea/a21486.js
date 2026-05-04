@@ -1,6 +1,6 @@
 var a21486 =
 [
-    [ "npc_heated_battleAI", "de/db2/a21490.html", "de/db2/a21490" ],
-    [ "npc_heated_battle", "d3/dea/a21486.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "d3/dea/a21486.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "GhoulTargetCheck", "d3/dea/a21486.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d3/dea/a21486.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d3/dea/a21486.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

@@ -1,5 +1,6 @@
 var dir_432bda28dad7986d3a1dc3010dcbb57c =
 [
+    [ "Accounts", "dir_e09b2498ecb731f0e33a0d4703100d8f.html", "dir_e09b2498ecb731f0e33a0d4703100d8f" ],
     [ "Battlegrounds", "dir_d68c8764f6b69d1180b66c35742ddf05.html", "dir_d68c8764f6b69d1180b66c35742ddf05" ],
     [ "Combat", "dir_43e7897c178d93c6d8680fe95b52aac8.html", "dir_43e7897c178d93c6d8680fe95b52aac8" ],
     [ "Commands", "dir_3bf2c71940346ae5daa53b7ea4ecf20c.html", "dir_3bf2c71940346ae5daa53b7ea4ecf20c" ],

@@ -1,7 +1,6 @@
 var a13838 =
 [
-    [ "npc_eris_hevenfireAI", "d3/db7/a13842.html", "d3/db7/a13842" ],
-    [ "npc_eris_hevenfire", "d8/da6/a13838.html#a77f0836dc0b19114316b8b67839d8033", null ],
-    [ "GetAI", "d8/da6/a13838.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
-    [ "OnQuestAccept", "d8/da6/a13838.html#a1e0baec5706cfddd678b58eb9359997e", null ]
+    [ "HandleSendEvent", "d8/da6/a13838.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "d8/da6/a13838.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "d8/da6/a13838.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

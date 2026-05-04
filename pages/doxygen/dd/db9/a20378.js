@@ -1,5 +1,8 @@
 var a20378 =
 [
-    [ "npc_ulduar_rocket_strike_trigger", "dd/db9/a20378.html#a14fc5830fe192856bd7c99f78de91070", null ],
-    [ "SpellHitTarget", "dd/db9/a20378.html#ad4a438c5143a6de2b469baa28f0893c5", null ]
+    [ "npc_ulduar_mimiron_rocket", "dd/db9/a20378.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
+    [ "InitializeAI", "dd/db9/a20378.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "dd/db9/a20378.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetData", "dd/db9/a20378.html#a507124f21657b62ff2b68060b52503b1", null ],
+    [ "UpdateAI", "dd/db9/a20378.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
 ];

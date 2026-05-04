@@ -1,8 +1,14 @@
 var a15962 =
 [
-    [ "npc_paoka_swiftmountainAI", "d0/dfb/a15962.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "d0/dfb/a15962.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "d0/dfb/a15962.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "d0/dfb/a15962.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
-    [ "WaypointReached", "d0/dfb/a15962.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_taskmaster_fizzuleAI", "d0/dfb/a15962.html#ac792f91930c869ce919f8fd96b3fb076", null ],
+    [ "DoFriend", "d0/dfb/a15962.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
+    [ "JustEngagedWith", "d0/dfb/a15962.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
+    [ "ReceiveEmote", "d0/dfb/a15962.html#a21d0d70086f085b715a12d05fbe5d611", null ],
+    [ "Reset", "d0/dfb/a15962.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
+    [ "SpellHit", "d0/dfb/a15962.html#a4c35104935a3a6264c853a657dc42244", null ],
+    [ "UpdateAI", "d0/dfb/a15962.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
+    [ "factionNorm", "d0/dfb/a15962.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
+    [ "FlareCount", "d0/dfb/a15962.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
+    [ "IsFriend", "d0/dfb/a15962.html#ab7e6bd2e023545c73fba758267551eee", null ],
+    [ "ResetTimer", "d0/dfb/a15962.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
 ];

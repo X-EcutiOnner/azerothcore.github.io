@@ -1,5 +1,7 @@
 var a04811 =
 [
-    [ "ACORE_LINKAGE_TYPE_STR", "d8/d95/a04811.html#a498cc8d79612cf645e7afc2ceb4174f3", null ],
-    [ "AZEROTH_PLATFORM_STR", "d8/d95/a04811.html#af7cd76a18bc19a0ec34ac7693e406971", null ]
+    [ "EnumText", "d4/dc2/a05794.html", "d4/dc2/a05794" ],
+    [ "Acore::Impl::EnumUtilsImpl::EnumUtils< Enum >", "d5/db7/a05798.html", "d5/db7/a05798" ],
+    [ "EnumUtils", "dd/dd9/a05802.html", "dd/dd9/a05802" ],
+    [ "EnumUtils::Iterator< Enum >", "dd/d3e/a05806.html", "dd/d3e/a05806" ]
 ];

@@ -1,5 +1,6 @@
 var a25486 =
 [
-    [ "PrepareSpellScript", "d1/d17/a25486.html#adaaa520c889970d91f3f38c958efdad4", null ],
-    [ "Register", "d1/d17/a25486.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
+    [ "OnRemove", "d1/d17/a25486.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "d1/d17/a25486.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "d1/d17/a25486.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

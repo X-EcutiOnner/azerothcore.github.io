@@ -1,10 +1,8 @@
 var a17130 =
 [
-    [ "boss_frostsworn_general", "d5/d3b/a17130.html#adae1b1d60e78a33b875ac08312a454cf", null ],
-    [ "EnterEvadeMode", "d5/d3b/a17130.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
-    [ "JustDied", "d5/d3b/a17130.html#a14741cafce857fa819418ec3208c62fc", null ],
-    [ "JustEngagedWith", "d5/d3b/a17130.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
-    [ "Reset", "d5/d3b/a17130.html#a1576562e5fe2247235b152029aa8edce", null ],
-    [ "UpdateAI", "d5/d3b/a17130.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
-    [ "instance", "d5/d3b/a17130.html#ab04347cee4d7542171d622cfde936cb1", null ]
+    [ "npc_hor_leaderAI", "d5/d70/a17134.html", "d5/d70/a17134" ],
+    [ "npc_hor_leader", "d5/d3b/a17130.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
+    [ "GetAI", "d5/d3b/a17130.html#a55e7357aa6dff1efdff08541e88413e9", null ],
+    [ "OnGossipHello", "d5/d3b/a17130.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
+    [ "OnGossipSelect", "d5/d3b/a17130.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
 ];

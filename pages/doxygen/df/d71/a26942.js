@@ -1,6 +1,6 @@
 var a26942 =
 [
-    [ "HandleScript", "df/d71/a26942.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
-    [ "PrepareSpellScript", "df/d71/a26942.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
-    [ "Register", "df/d71/a26942.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
+    [ "DoAfterHit", "df/d71/a26942.html#a38ede5147a11c41770c4483a70d81e5d", null ],
+    [ "PrepareSpellScript", "df/d71/a26942.html#abcc738fc154e6be5de168fb23be806f4", null ],
+    [ "Register", "df/d71/a26942.html#ac81d60d54a87a23bd9481934f5753de0", null ]
 ];

@@ -1,13 +1,14 @@
 var a12190 =
 [
-    [ "gm_commandscript", "d3/df8/a12190.html#a1b24112b70818778755ef9b5b062b2e8", null ],
-    [ "GetCommands", "d3/df8/a12190.html#a17c725e18324de7aadff260c77d75c45", null ],
-    [ "HandleGMChatCommand", "d3/df8/a12190.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
-    [ "HandleGMFlyCommand", "d3/df8/a12190.html#a29829660f39c9bfa4190bbb118f482ba", null ],
-    [ "HandleGMListFullCommand", "d3/df8/a12190.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
-    [ "HandleGMListIngameCommand", "d3/df8/a12190.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
-    [ "HandleGMOffCommand", "d3/df8/a12190.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
-    [ "HandleGMOnCommand", "d3/df8/a12190.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
-    [ "HandleGMSpectatorCommand", "d3/df8/a12190.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
-    [ "HandleGMVisibleCommand", "d3/df8/a12190.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
+    [ "cast_commandscript", "d3/df8/a12190.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
+    [ "CheckSpellCastResult", "d3/df8/a12190.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
+    [ "CheckSpellExistsAndIsValid", "d3/df8/a12190.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
+    [ "GetCommands", "d3/df8/a12190.html#ab0890c036a8d301b382fdd1b6371f671", null ],
+    [ "GetTriggerFlags", "d3/df8/a12190.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
+    [ "HandleCastBackCommand", "d3/df8/a12190.html#a964a40278f609a5c5a0bae651484c726", null ],
+    [ "HandleCastCommand", "d3/df8/a12190.html#ac28430cc0623209b891bacbb4845509b", null ],
+    [ "HandleCastDestCommand", "d3/df8/a12190.html#a156ca81fba7155205dae106aa4c221d6", null ],
+    [ "HandleCastDistCommand", "d3/df8/a12190.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
+    [ "HandleCastSelfCommand", "d3/df8/a12190.html#a69e88bb174c2518584a9ae622e2850bf", null ],
+    [ "HandleCastTargetCommad", "d3/df8/a12190.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
 ];

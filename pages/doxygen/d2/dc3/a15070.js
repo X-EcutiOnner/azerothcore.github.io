@@ -1,6 +1,6 @@
 var a15070 =
 [
-    [ "npc_crate_helperAI", "d2/dc3/a15070.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "d2/dc3/a15070.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "d2/dc3/a15070.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "boss_meathookAI", "d4/d55/a15074.html", "d4/d55/a15074" ],
+    [ "boss_meathook", "d2/dc3/a15070.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
+    [ "GetAI", "d2/dc3/a15070.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
 ];

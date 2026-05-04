@@ -1,9 +1,18 @@
 var a28346 =
 [
-    [ "npc_necropolis_health", "de/df3/a28346.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
-    [ "DespawnNecropolis", "de/df3/a28346.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
-    [ "JustDied", "de/df3/a28346.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
-    [ "SpellHit", "de/df3/a28346.html#ad4a9f9b166ab8107a16da918082c6625", null ],
-    [ "SpellHitTarget", "de/df3/a28346.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
-    [ "_zapCount", "de/df3/a28346.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
+    [ "DBCStorageBase", "de/df3/a28346.html#ad688053187f77a4a016274f7e46a76a3", null ],
+    [ "~DBCStorageBase", "de/df3/a28346.html#a39d4e4f05a50b952c2f952a452beb010", null ],
+    [ "GetFieldCount", "de/df3/a28346.html#a867375a50bcf7ec8c40b6ff7305a5e81", null ],
+    [ "GetFormat", "de/df3/a28346.html#ab333cdbf4cb7c6f527045902256fdf2f", null ],
+    [ "Load", "de/df3/a28346.html#a779bd666cbdc6587eab6a81e51e894d8", null ],
+    [ "Load", "de/df3/a28346.html#a14dfcde7f1c9c63a293638009b6ce16b", null ],
+    [ "LoadFromDB", "de/df3/a28346.html#abea56cf48880a3ae02d322b6283032b4", null ],
+    [ "LoadFromDB", "de/df3/a28346.html#a7156af21138d19a978b9551a2ca24708", null ],
+    [ "LoadStringsFrom", "de/df3/a28346.html#a912b4793ddc3e3ff3bc9279693373b79", null ],
+    [ "LoadStringsFrom", "de/df3/a28346.html#a0e3e3be24e2404fad11c322190e0e337", null ],
+    [ "_dataTable", "de/df3/a28346.html#ab13a1018e69345a3665f50d696bc7236", null ],
+    [ "_fieldCount", "de/df3/a28346.html#aa9bebefe18610016bef2c7d087d20abe", null ],
+    [ "_fileFormat", "de/df3/a28346.html#a3ac1c70817c9b7a351ea0e0d2e602351", null ],
+    [ "_indexTableSize", "de/df3/a28346.html#aa17bb429de3b9df9bb6ffcbc9bf9010b", null ],
+    [ "_stringPool", "de/df3/a28346.html#a8d571b107344a2dbde0b2cbcfa3c9b52", null ]
 ];

@@ -1,17 +1,11 @@
 var a10734 =
 [
-    [ "WorldScript", "d0/db7/a10734.html#a89b4180130e22738c2898562de6b9145", null ],
-    [ "OnAfterConfigLoad", "d0/db7/a10734.html#affadabcae325631b2683ef458c6d13ee", null ],
-    [ "OnAfterUnloadAllMaps", "d0/db7/a10734.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
-    [ "OnBeforeConfigLoad", "d0/db7/a10734.html#a78baa1285b6495d7beace131dfba8400", null ],
-    [ "OnBeforeFinalizePlayerWorldSession", "d0/db7/a10734.html#a480e411f6178e5128bc5e760d9f36d99", null ],
-    [ "OnBeforeWorldInitialized", "d0/db7/a10734.html#a8ec0a2cc97986db07698392e5c503571", null ],
-    [ "OnLoadCustomDatabaseTable", "d0/db7/a10734.html#af9c5296102d7ef0f716796788650ec4d", null ],
-    [ "OnMotdChange", "d0/db7/a10734.html#a3a72e488dd36a672d7aaa0b59fffe154", null ],
-    [ "OnOpenStateChange", "d0/db7/a10734.html#a7eab4282e8be8ef2a643478f9fe6e0e2", null ],
-    [ "OnShutdown", "d0/db7/a10734.html#a3578707d9be5da90530633a93b4b2bf8", null ],
-    [ "OnShutdownCancel", "d0/db7/a10734.html#a322bd84359ac77369d9aa84bc8bf9649", null ],
-    [ "OnShutdownInitiate", "d0/db7/a10734.html#a83c76efd3de10b0a35c4a311c44d13c1", null ],
-    [ "OnStartup", "d0/db7/a10734.html#a117234aac087ec653c83cfe01a6dce7a", null ],
-    [ "OnUpdate", "d0/db7/a10734.html#ad28857965a9f6f993a47c95af6d9c5ad", null ]
+    [ "ServerScript", "d0/db7/a10734.html#a164286c210360b97b9efb48aed33b0d8", null ],
+    [ "CanPacketReceive", "d0/db7/a10734.html#ada6045c5dcd48a011d66bd2998000d27", null ],
+    [ "CanPacketSend", "d0/db7/a10734.html#ae7d02121a95adcc53263d006bc14da2f", null ],
+    [ "OnNetworkStart", "d0/db7/a10734.html#ab51ce520816236687820d1f72bae0ed6", null ],
+    [ "OnNetworkStart", "d0/db7/a10734.html#a22b726d849ee171482ca7d6e0e1e4527", null ],
+    [ "OnNetworkStop", "d0/db7/a10734.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
+    [ "OnSocketClose", "d0/db7/a10734.html#a8386aef9c139f06732a5f36eadccec6c", null ],
+    [ "OnSocketOpen", "d0/db7/a10734.html#a22e84aee366a0010a753b7ed3403172f", null ]
 ];

@@ -1,10 +1,6 @@
 var a10506 =
 [
-    [ "Flags", "dc/d06/a10506.html#abf9c2701e766951e5a211bf6bf85b175", null ],
-    [ "ID", "dc/d06/a10506.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
-    [ "needSave", "dc/d06/a10506.html#aae888b1bf10f654ee212f3d687c111e9", null ],
-    [ "needSend", "dc/d06/a10506.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
-    [ "ReputationListID", "dc/d06/a10506.html#a052caeeae1ecdca831097591e0fddaf6", null ],
-    [ "roundedUp", "dc/d06/a10506.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
-    [ "Standing", "dc/d06/a10506.html#ae87da6cada559e11a9607e194013d671", null ]
+    [ "PoolObject", "dc/d06/a10506.html#a772dc7bc9e1ce25edba89977bf87e3f0", null ],
+    [ "chance", "dc/d06/a10506.html#ae129795bb2f358af900dbc8892502123", null ],
+    [ "guid", "dc/d06/a10506.html#ae10fa01f5959e231fe2c16d38d9f3615", null ]
 ];

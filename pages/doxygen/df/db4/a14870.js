@@ -1,6 +1,6 @@
 var a14870 =
 [
-    [ "HandleTriggerSpell", "df/db4/a14870.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "df/db4/a14870.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "df/db4/a14870.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "HandleScriptEffect", "df/db4/a14870.html#a074f54a4b022adc6ea34b3716dec745f", null ],
+    [ "PrepareSpellScript", "df/db4/a14870.html#a725d5bc1f76614778b140f3061aa2e03", null ],
+    [ "Register", "df/db4/a14870.html#a339df7ae9553fbae68ce791baef1df5e", null ]
 ];

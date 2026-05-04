@@ -1,4 +1,9 @@
 var a11334 =
 [
-    [ "Validate", "de/d98/a11334.html#ab0d4c07b4ce9903a913bdced5e05bbd6", null ]
+    [ "TrainerList", "de/d98/a11334.html#aebb173d4f46d00f383c4ed62e8b130a7", null ],
+    [ "Write", "de/d98/a11334.html#a4d44b3310c3733ae56ffce9a84eff8d1", null ],
+    [ "Greeting", "de/d98/a11334.html#ad88c53405b38f276815e0f013ce5261f", null ],
+    [ "Spells", "de/d98/a11334.html#a6b3a33adeeab2c09ac83e7e430312158", null ],
+    [ "TrainerGUID", "de/d98/a11334.html#ab5e93d6c38efd311c701401ec03f7958", null ],
+    [ "TrainerType", "de/d98/a11334.html#a56a96a12b526f0e0cf89a6472c6a206b", null ]
 ];

@@ -1,6 +1,7 @@
 var a21622 =
 [
-    [ "npc_ravenous_worgAI", "d3/d13/a21626.html", "d3/d13/a21626" ],
-    [ "npc_ravenous_worg", "d4/d36/a21622.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
-    [ "GetAI", "d4/d36/a21622.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
+    [ "HandleDummy", "d4/d36/a21622.html#abb5726c8afa66a946eefc8767094ea9b", null ],
+    [ "PrepareSpellScript", "d4/d36/a21622.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
+    [ "Register", "d4/d36/a21622.html#a38efc59fcbb40469521419723a1dceb3", null ],
+    [ "Validate", "d4/d36/a21622.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
 ];

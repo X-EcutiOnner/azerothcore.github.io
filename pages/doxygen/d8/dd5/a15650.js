@@ -1,7 +1,6 @@
 var a15650 =
 [
-    [ "HandleEffectRemove", "d8/dd5/a15650.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d8/dd5/a15650.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d8/dd5/a15650.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d8/dd5/a15650.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "npc_magwinAI", "de/dea/a15654.html", "de/dea/a15654" ],
+    [ "npc_magwin", "d8/dd5/a15650.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
+    [ "GetAI", "d8/dd5/a15650.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
 ];

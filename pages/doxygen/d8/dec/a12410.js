@@ -1,5 +1,5 @@
 var a12410 =
 [
-    [ "at_ring_of_law", "d8/dec/a12410.html#ad9bb44e898f90fb489b50cad0a711976", null ],
-    [ "OnTrigger", "d8/dec/a12410.html#a613471caae75ab3d82ce915101a20108", null ]
+    [ "npcEntry", "d8/dec/a12410.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
+    [ "spellId", "d8/dec/a12410.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
 ];

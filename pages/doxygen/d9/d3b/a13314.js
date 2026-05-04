@@ -1,7 +1,6 @@
 var a13314 =
 [
-    [ "HandleHit", "d9/d3b/a13314.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
-    [ "Load", "d9/d3b/a13314.html#affe2cd261752db89b1b418eb18a3370c", null ],
-    [ "PrepareSpellScript", "d9/d3b/a13314.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
-    [ "Register", "d9/d3b/a13314.html#aaadaf49a3757e78d69ffc32768945d16", null ]
+    [ "npc_scarlet_courierAI", "da/d9b/a13318.html", "da/d9b/a13318" ],
+    [ "npc_scarlet_courier", "d9/d3b/a13314.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
+    [ "GetAI", "d9/d3b/a13314.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
 ];

@@ -1,10 +1,12 @@
 var a17998 =
 [
-    [ "npc_bone_spikeAI", "da/da5/a17998.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
-    [ "DoAction", "da/da5/a17998.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
-    [ "IsSummonedBy", "da/da5/a17998.html#af2794484ee3ebf0579ce7357d222240d", null ],
-    [ "JustDied", "da/da5/a17998.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
-    [ "UpdateAI", "da/da5/a17998.html#a8eff2bcc6507c65e563ed272977f224e", null ],
-    [ "events", "da/da5/a17998.html#a6a35900435d41d0603919f29415667a5", null ],
-    [ "hasTrappedUnit", "da/da5/a17998.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
+    [ "npc_darnavanAI", "da/da5/a17998.html#ae06019c24910c873877398f29f5a1737", null ],
+    [ "JustDied", "da/da5/a17998.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
+    [ "JustEngagedWith", "da/da5/a17998.html#acbaedacea5ad19d82002c25b68623a27", null ],
+    [ "MovementInform", "da/da5/a17998.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
+    [ "Reset", "da/da5/a17998.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
+    [ "UpdateAI", "da/da5/a17998.html#a2b3b5e168989db21fc047acaf01413d9", null ],
+    [ "_canCharge", "da/da5/a17998.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
+    [ "_canShatter", "da/da5/a17998.html#aa7750edc8051c8ee453143491dccf122", null ],
+    [ "events", "da/da5/a17998.html#aa8a022ccb1367432480f72d305c752ac", null ]
 ];

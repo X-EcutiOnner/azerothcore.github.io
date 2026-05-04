@@ -1,8 +1,20 @@
 var a08986 =
 [
-    [ "DiminishingReturn", "d2/dd5/a08986.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "d2/dd5/a08986.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "d2/dd5/a08986.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "d2/dd5/a08986.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "d2/dd5/a08986.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "StaticTransport", "d2/dd5/a08986.html#a85d28733791b54ab76af97338c83d293", null ],
+    [ "~StaticTransport", "d2/dd5/a08986.html#ade4493306f4ae366de36318ecb135c18", null ],
+    [ "AddPassenger", "d2/dd5/a08986.html#a2139a5fe8d531e332d6e12678fb3167b", null ],
+    [ "BuildUpdate", "d2/dd5/a08986.html#a79bfe2856ccc526b03b308158db9e8fc", null ],
+    [ "CleanupsBeforeDelete", "d2/dd5/a08986.html#aec75e819a3de528d282e0a1b72c3d460", null ],
+    [ "Create", "d2/dd5/a08986.html#a5e9c6c3a75d54314783c3b5bab48c66f", null ],
+    [ "GetPauseTime", "d2/dd5/a08986.html#a6be1d21626f3749b695413d9a6703823", null ],
+    [ "GetPeriod", "d2/dd5/a08986.html#aedf0413dbd588acf5c8646390f003060", null ],
+    [ "LoadFromDB", "d2/dd5/a08986.html#a6d0f5b6c6d445132cb37082d12320afd", null ],
+    [ "LoadGameObjectFromDB", "d2/dd5/a08986.html#a50b6b6bca35e44e246bde1c1b02b3d69", null ],
+    [ "RelocateToProgress", "d2/dd5/a08986.html#acf98efbbabb71e4e9f7cf0a152b33e2b", null ],
+    [ "RemovePassenger", "d2/dd5/a08986.html#ad4362ce7937c48ce0e5eb68ae97f789f", null ],
+    [ "SetPauseTime", "d2/dd5/a08986.html#aaa57cb09072c6a7f22af38055f83b3b1", null ],
+    [ "Update", "d2/dd5/a08986.html#aa904c077782b7760e0247c941c4e9d01", null ],
+    [ "UpdatePassengerPositions", "d2/dd5/a08986.html#a79c30c2463d714d8980dcfa73351b493", null ],
+    [ "UpdatePosition", "d2/dd5/a08986.html#a9b2661d0b90270aa97fe550b8ae27c95", null ],
+    [ "_needDoInitialRelocation", "d2/dd5/a08986.html#a54f37a0c74b4cc2afbebaf53ebcf2e2b", null ]
 ];

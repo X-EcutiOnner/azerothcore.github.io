@@ -1,5 +1,5 @@
 var a02609 =
 [
-    [ "mail_commandscript", "d6/d4c/a12253.html", "d6/d4c/a12253" ],
-    [ "AddSC_mail_commandscript", "df/d40/a02609.html#a60390ceaf08c6b305bdc77fd27243938", null ]
+    [ "item_commandscript", "da/d0a/a12262.html", "da/d0a/a12262" ],
+    [ "AddSC_item_commandscript", "df/d40/a02609.html#ad129450eb89b9c3e5c98717b2c44de8e", null ]
 ];

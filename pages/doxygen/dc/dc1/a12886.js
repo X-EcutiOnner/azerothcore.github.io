@@ -1,6 +1,6 @@
 var a12886 =
 [
-    [ "HandleTriggerSpell", "dc/dc1/a12886.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "dc/dc1/a12886.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "dc/dc1/a12886.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "bossId", "dc/dc1/a12886.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
+    [ "circleId", "dc/dc1/a12886.html#aaa379e61fda2f7225ab4089757df5d24", null ],
+    [ "runeId", "dc/dc1/a12886.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
 ];

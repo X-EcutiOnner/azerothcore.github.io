@@ -1,5 +1,5 @@
 var a02486 =
 [
-    [ "reload_commandscript", "d4/dfc/a12329.html", "d4/dfc/a12329" ],
-    [ "AddSC_reload_commandscript", "dc/d2b/a02486.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
+    [ "spellinfo_commandscript", "d3/de1/a12386.html", "d3/de1/a12386" ],
+    [ "AddSC_spellinfo_commandscript", "dc/d2b/a02486.html#ab9e45d5e5eb40c48734ab273bdb3be64", null ]
 ];

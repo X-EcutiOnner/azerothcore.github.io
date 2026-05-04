@@ -1,11 +1,6 @@
 var a19514 =
 [
-    [ "boss_ormorok", "d1/d80/a19514.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "d1/d80/a19514.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "d1/d80/a19514.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "d1/d80/a19514.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "d1/d80/a19514.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "d1/d80/a19514.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "d1/d80/a19514.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "d1/d80/a19514.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "ChargeRifts", "d1/d80/a19514.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "d1/d80/a19514.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "d1/d80/a19514.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

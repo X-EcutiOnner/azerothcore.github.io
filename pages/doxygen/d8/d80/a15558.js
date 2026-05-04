@@ -1,8 +1,6 @@
 var a15558 =
 [
-    [ "npc_obsidian_eradicator", "d8/d80/a15558.html#a84a6c414b3d74468143984e57f83e383", null ],
-    [ "JustEngagedWith", "d8/d80/a15558.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
-    [ "Reset", "d8/d80/a15558.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
-    [ "UpdateAI", "d8/d80/a15558.html#a1697d83e89559f047d5bab652007bb61", null ],
-    [ "_targetGUIDs", "d8/d80/a15558.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "da/d8c/a15562.html", "da/d8c/a15562" ],
+    [ "instance_temple_of_ahnqiraj", "d8/d80/a15558.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "d8/d80/a15558.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

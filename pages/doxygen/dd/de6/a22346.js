@@ -1,8 +1,9 @@
 var a22346 =
 [
-    [ "boss_darkweaver_syth", "dd/de6/a22346.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "dd/de6/a22346.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "dd/de6/a22346.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "dd/de6/a22346.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "dd/de6/a22346.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "dd/de6/a22346.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "dd/de6/a22346.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "dd/de6/a22346.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "dd/de6/a22346.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "dd/de6/a22346.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "dd/de6/a22346.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

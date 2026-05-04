@@ -1,5 +1,6 @@
 var a15902 =
 [
-    [ "npc_steward_of_time", "dc/d8f/a15902.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnQuestAccept", "dc/d8f/a15902.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "go_wind_stoneAI", "d5/d50/a15906.html", "d5/d50/a15906" ],
+    [ "go_wind_stone", "dc/d8f/a15902.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
+    [ "GetAI", "dc/d8f/a15902.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
 ];

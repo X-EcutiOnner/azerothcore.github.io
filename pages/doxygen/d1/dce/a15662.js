@@ -1,7 +1,6 @@
 var a15662 =
 [
-    [ "npc_webbed_creatureAI", "d1/dce/a15662.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
-    [ "JustDied", "d1/dce/a15662.html#a153d461124ec9266ffcac147a217f6d9", null ],
-    [ "JustEngagedWith", "d1/dce/a15662.html#ac52ad6512bcaee35932f856abdac80d4", null ],
-    [ "Reset", "d1/dce/a15662.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
+    [ "npc_death_ravagerAI", "d6/d94/a15666.html", "d6/d94/a15666" ],
+    [ "npc_death_ravager", "d1/dce/a15662.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "d1/dce/a15662.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

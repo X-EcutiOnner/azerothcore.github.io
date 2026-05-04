@@ -1,11 +1,9 @@
 var a07362 =
 [
-    [ "count", "d4/d99/a07362.html#a3fc02342ec2cdd81de7ef378edf30b54", null ],
-    [ "enchants", "d4/d99/a07362.html#af076353ee7ce0fd3665e13449c248629", null ],
-    [ "entry", "d4/d99/a07362.html#aa3332c4ea806c944c9c4e95ddb31efa9", null ],
-    [ "itemName", "d4/d99/a07362.html#a9184925bad61ad58f35c4e4b3dbccd81", null ],
-    [ "itemTemplate", "d4/d99/a07362.html#a356adde7f6574f697e02e6657f325baa", null ],
-    [ "randomPropertyId", "d4/d99/a07362.html#aa1c185178359f1cbd5afcedd38a0e69f", null ],
-    [ "spellCharges", "d4/d99/a07362.html#a73f9647b66aa316bdb97c50a20bc826f", null ],
-    [ "suffixFactor", "d4/d99/a07362.html#a650acd7b902fd4038f1ea384f595b058", null ]
+    [ "ObjectGuidVector", "d4/d99/a07362.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "d4/d99/a07362.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "d4/d99/a07362.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "d4/d99/a07362.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "d4/d99/a07362.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "d4/d99/a07362.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

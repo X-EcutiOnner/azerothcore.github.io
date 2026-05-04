@@ -1,8 +1,7 @@
 var a14922 =
 [
-    [ "npc_doomfire_spirit", "d5/dee/a14922.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "d5/dee/a14922.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "d5/dee/a14922.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "d5/dee/a14922.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "d5/dee/a14922.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "boss_azuregosAI", "d1/d32/a14926.html", "d1/d32/a14926" ],
+    [ "boss_azuregos", "d5/dee/a14922.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d5/dee/a14922.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d5/dee/a14922.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

@@ -1,9 +1,7 @@
 var a13970 =
 [
-    [ "npc_marzon_silent_bladeAI", "da/da0/a13970.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
-    [ "EnterEvadeMode", "da/da0/a13970.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
-    [ "JustEngagedWith", "da/da0/a13970.html#a116b3458f342811e378713e6a67f76a6", null ],
-    [ "MovementInform", "da/da0/a13970.html#a32201d45f0c19212becb6319a48366f8", null ],
-    [ "Reset", "da/da0/a13970.html#a51c2b16c767ce2922564dc9e4048e089", null ],
-    [ "UpdateAI", "da/da0/a13970.html#aa6686399b41d32429d530dcc2ec41185", null ]
+    [ "npc_deathstalker_erlandAI", "d0/d0d/a13974.html", "d0/d0d/a13974" ],
+    [ "npc_deathstalker_erland", "da/da0/a13970.html#ad49faf068e982f245f0d1e21f0700c40", null ],
+    [ "GetAI", "da/da0/a13970.html#ab59235f212ddb985056cb8e32719b723", null ],
+    [ "OnQuestAccept", "da/da0/a13970.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
 ];

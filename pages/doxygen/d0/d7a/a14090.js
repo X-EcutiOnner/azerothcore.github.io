@@ -1,16 +1,8 @@
 var a14090 =
 [
-    [ "boss_akilzon", "d0/d7a/a14090.html#a8c56c6920488ac507e24db384782e2ab", null ],
-    [ "DoAction", "d0/d7a/a14090.html#a691625a18583d58b1be4d2caeb21b1e0", null ],
-    [ "HandleStormSequence", "d0/d7a/a14090.html#a54d2f18adf59dc89553dd1778e5ea0b1", null ],
-    [ "JustDied", "d0/d7a/a14090.html#a93b34ed1f80dc138e54f77eb4f64b1bc", null ],
-    [ "JustEngagedWith", "d0/d7a/a14090.html#a2783ec5db681651f8c43c238e9ed25f3", null ],
-    [ "KilledUnit", "d0/d7a/a14090.html#a1a5ffe4c6aabeaa39971f2376761a7d7", null ],
-    [ "Reset", "d0/d7a/a14090.html#a69302e4ac8f349e884f0745fe66edce2", null ],
-    [ "SetWeather", "d0/d7a/a14090.html#a9c8eeed625f33153819df19b6c2c5670", null ],
-    [ "SummonEagles", "d0/d7a/a14090.html#acde7c47a3ebee988753cd2af93fe16d4", null ],
-    [ "_birdGUIDs", "d0/d7a/a14090.html#ad5c56493e1e6331ae09bb70b920282fc", null ],
-    [ "_cycloneGUID", "d0/d7a/a14090.html#aaa712019eb5d17684d7f048f81e36270", null ],
-    [ "_isRaining", "d0/d7a/a14090.html#af61142c59ca9c5868afe7bc94ca40dcf", null ],
-    [ "_targetGUID", "d0/d7a/a14090.html#a4e8349e5ea281a40b9623b14e235bf41", null ]
+    [ "npc_the_scourge_cauldronAI", "d0/d7a/a14090.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
+    [ "DoDie", "d0/d7a/a14090.html#a9f720a27db2943a66b11ad6355690bf5", null ],
+    [ "JustEngagedWith", "d0/d7a/a14090.html#a89954dec2f7d57d933c18822333243ac", null ],
+    [ "MoveInLineOfSight", "d0/d7a/a14090.html#a256195dbe75859d72afcd0defb9ff76e", null ],
+    [ "Reset", "d0/d7a/a14090.html#ab18bb2eb344f45827685786c665b1750", null ]
 ];

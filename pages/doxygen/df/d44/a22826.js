@@ -1,13 +1,12 @@
 var a22826 =
 [
-    [ "boss_fathomguard_caribdis", "df/d44/a22826.html#a9172b9717e5137ddde7df38bb237478c", null ],
-    [ "EnterEvadeMode", "df/d44/a22826.html#aa666a491a776b12a042ee140aedc95eb", null ],
-    [ "JustDied", "df/d44/a22826.html#ab821365b35a48f70a11c6033fe2ca714", null ],
-    [ "JustEngagedWith", "df/d44/a22826.html#a5503519998f51f475420ada2210f32f0", null ],
-    [ "JustSummoned", "df/d44/a22826.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
-    [ "Reset", "df/d44/a22826.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
-    [ "UpdateAI", "df/d44/a22826.html#af4a544f37d178de21d84f2544f24431e", null ],
-    [ "_instance", "df/d44/a22826.html#a73f567f2269aeca1435af82e1c6880e9", null ],
-    [ "_scheduler", "df/d44/a22826.html#a08b01e9735e421d8d5bbc2b552217762", null ],
-    [ "_summons", "df/d44/a22826.html#ac8b53cb81547a2423a13c997badb77e3", null ]
+    [ "boss_leotheras_the_blind", "df/d44/a22826.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "df/d44/a22826.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "df/d44/a22826.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "df/d44/a22826.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "df/d44/a22826.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "df/d44/a22826.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "df/d44/a22826.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "df/d44/a22826.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "df/d44/a22826.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

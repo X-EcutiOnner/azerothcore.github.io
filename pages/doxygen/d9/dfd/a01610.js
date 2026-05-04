@@ -1,4 +1,4 @@
 var a01610 =
 [
-    [ "ApplySpellFix", "d9/dfd/a01610.html#ab2692a866ddb9539875213c10f37b84e", null ]
+    [ "GetTargetFlagMask", "d9/dfd/a01610.html#adc898dfddc20010c41bb771b6d6f274e", null ]
 ];

@@ -1,5 +1,6 @@
 var a11706 =
 [
-    [ "ImplicitTargetType", "df/d44/a11706.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
-    [ "UsedTargetObjectType", "df/d44/a11706.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
+    [ "WorldObjectSpellConeTargetCheck", "df/d44/a11706.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "df/d44/a11706.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "df/d44/a11706.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

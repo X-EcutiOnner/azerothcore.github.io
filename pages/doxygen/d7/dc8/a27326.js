@@ -1,7 +1,7 @@
 var a27326 =
 [
-    [ "HandleProc", "d7/dc8/a27326.html#a5e428ae0d1d6b54494a62ca0a77820c9", null ],
-    [ "PrepareAuraScript", "d7/dc8/a27326.html#a953eee0cd2f18703ce04b1579d698365", null ],
-    [ "Register", "d7/dc8/a27326.html#a8552c78a1d78fae17650a24c25b87ad3", null ],
-    [ "Validate", "d7/dc8/a27326.html#aadd49f63e9203d3314c5597ef72f6658", null ]
+    [ "HandleTeleport", "d7/dc8/a27326.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d7/dc8/a27326.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d7/dc8/a27326.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d7/dc8/a27326.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

@@ -1,12 +1,6 @@
 var a19162 =
 [
-    [ "boss_faerlinaAI", "d4/d2d/a19162.html#a3a97178599b9053c23a079ed1a2ed163", null ],
-    [ "JustDied", "d4/d2d/a19162.html#a7ac2e510568a9dad710beaad42db0544", null ],
-    [ "JustEngagedWith", "d4/d2d/a19162.html#a830dfa4fed62b4588ea8866174d3653a", null ],
-    [ "KilledUnit", "d4/d2d/a19162.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
-    [ "MoveInLineOfSight", "d4/d2d/a19162.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
-    [ "Reset", "d4/d2d/a19162.html#acee81492b9b751df587a3a2cdd691ab3", null ],
-    [ "SpellHit", "d4/d2d/a19162.html#aa4fac163e31dcd9353238f993259d5ec", null ],
-    [ "SummonHelpers", "d4/d2d/a19162.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
-    [ "_introDone", "d4/d2d/a19162.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
+    [ "boss_isle_of_conquestAI", "dd/d80/a19166.html", "dd/d80/a19166" ],
+    [ "boss_isle_of_conquest", "d4/d2d/a19162.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "d4/d2d/a19162.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

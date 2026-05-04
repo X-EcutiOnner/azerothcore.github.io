@@ -1,6 +1,9 @@
 var a21930 =
 [
-    [ "HandleScriptEffect", "d8/dcd/a21930.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "d8/dcd/a21930.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "d8/dcd/a21930.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "HandlePeriodic", "d8/dcd/a21930.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "d8/dcd/a21930.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "d8/dcd/a21930.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "d8/dcd/a21930.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "d8/dcd/a21930.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "d8/dcd/a21930.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

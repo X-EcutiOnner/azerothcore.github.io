@@ -1,5 +1,6 @@
 var a20386 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "d7/d51/a20386.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "d7/d51/a20386.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "ModDest", "d7/d51/a20386.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "d7/d51/a20386.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "d7/d51/a20386.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

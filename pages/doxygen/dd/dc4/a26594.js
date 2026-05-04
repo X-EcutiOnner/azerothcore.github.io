@@ -1,7 +1,6 @@
 var a26594 =
 [
-    [ "HandleHeal", "dd/dc4/a26594.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "dd/dc4/a26594.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "dd/dc4/a26594.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "dd/dc4/a26594.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "HandleDummyEffect", "dd/dc4/a26594.html#a6340c91d8419755386cb3e138cb3c171", null ],
+    [ "PrepareSpellScript", "dd/dc4/a26594.html#a67d08252c8b8deee312f17affb557df8", null ],
+    [ "Register", "dd/dc4/a26594.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
 ];

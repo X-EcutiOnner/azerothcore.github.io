@@ -1,6 +1,5 @@
 var a27866 =
 [
-    [ "go_tadpole_cageAI", "dd/d22/a27870.html", "dd/d22/a27870" ],
-    [ "go_tadpole_cage", "dd/d23/a27866.html#a1a9acacd0ebff33d402018d4205e415b", null ],
-    [ "GetAI", "dd/d23/a27866.html#a38990dc5edd725623b6c35dba7802612", null ]
+    [ "go_jump_a_tron", "dd/d23/a27866.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
+    [ "OnGossipHello", "dd/d23/a27866.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
 ];

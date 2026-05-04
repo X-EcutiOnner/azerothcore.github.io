@@ -1,5 +1,6 @@
 var a13174 =
 [
-    [ "boss_yazzai", "db/d69/a13174.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
-    [ "JustEngagedWith", "db/d69/a13174.html#ab504de0e51a3715485eb65e006352a6f", null ]
+    [ "npc_image_of_medivhAI", "df/d50/a13178.html", "df/d50/a13178" ],
+    [ "npc_image_of_medivh", "db/d69/a13174.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
+    [ "GetAI", "db/d69/a13174.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
 ];

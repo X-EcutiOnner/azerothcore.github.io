@@ -1,12 +1,18 @@
 var a21098 =
 [
-    [ "boss_moraggAI", "d2/d6c/a21098.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "d2/d6c/a21098.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "d2/d6c/a21098.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "d2/d6c/a21098.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "d2/d6c/a21098.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "d2/d6c/a21098.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "d2/d6c/a21098.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "d2/d6c/a21098.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "d2/d6c/a21098.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "boss_ichoron", "d2/d6c/a21098.html#abdcfe5b89cb1e2413de309a316e472f8", null ],
+    [ "DoAction", "d2/d6c/a21098.html#abe3d4e3f3c435f7cbe5b5b00c5dbb190", null ],
+    [ "DoExplodeCompleted", "d2/d6c/a21098.html#ae56fae748297a02404b984277a1dd25f", null ],
+    [ "EnterEvadeMode", "d2/d6c/a21098.html#a635d040533afa80e293ba9dbc141152a", null ],
+    [ "IchoronDoCastToAllHostilePlayers", "d2/d6c/a21098.html#aadcf249665816ada6c2efa7f30f743f0", null ],
+    [ "JustDied", "d2/d6c/a21098.html#ac85c574360da81216074b32dc9d40f74", null ],
+    [ "JustEngagedWith", "d2/d6c/a21098.html#ae5353b8cf2d14b169c6d65064d81d0e4", null ],
+    [ "JustSummoned", "d2/d6c/a21098.html#a45f9889887270ea51af6dcb1379408a9", null ],
+    [ "KilledUnit", "d2/d6c/a21098.html#a2bf779fb863f09654d51fdb37af6ed47", null ],
+    [ "MoveInLineOfSight", "d2/d6c/a21098.html#a4e323050c78bd1b95f691d0edc4fea3f", null ],
+    [ "Reset", "d2/d6c/a21098.html#aa3ea79b6cb639d659868e9ddd0e97df1", null ],
+    [ "SummonedCreatureDespawn", "d2/d6c/a21098.html#aaabedddd146e71e51db11772c635f8a2", null ],
+    [ "UpdateAI", "d2/d6c/a21098.html#a7f1902ff2071f4f1a6232d6970a0b6b0", null ],
+    [ "_isExploded", "d2/d6c/a21098.html#a23180ff62429fd94a08627f40ce5cbde", null ],
+    [ "_isFrenzy", "d2/d6c/a21098.html#a02f51f706c2183708ae29a990379e25a", null ]
 ];

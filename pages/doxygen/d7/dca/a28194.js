@@ -1,10 +1,6 @@
 var a28194 =
 [
-    [ "npc_air_force_botsAI", "d7/dca/a28194.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "d7/dca/a28194.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "d7/dca/a28194.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "d7/dca/a28194.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "d7/dca/a28194.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "d7/dca/a28194.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "d7/dca/a28194.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "npc_experience", "d7/dca/a28194.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d7/dca/a28194.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d7/dca/a28194.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

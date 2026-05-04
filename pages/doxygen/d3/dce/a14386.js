@@ -1,11 +1,20 @@
 var a14386 =
 [
-    [ "boss_marli", "d3/dce/a14386.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
-    [ "_chargePlayer", "d3/dce/a14386.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
-    [ "_schedulePhaseSpider", "d3/dce/a14386.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
-    [ "_schedulePhaseTroll", "d3/dce/a14386.html#ad6977930dac1cddd2162f7db1b239c83", null ],
-    [ "JustDied", "d3/dce/a14386.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
-    [ "JustEngagedWith", "d3/dce/a14386.html#ac74bd382c3dc826f7e4426bec3557094", null ],
-    [ "Reset", "d3/dce/a14386.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
-    [ "_phase", "d3/dce/a14386.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
+    [ "boss_mandokirAI", "d3/dce/a14386.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
+    [ "CalculateThreat", "d3/dce/a14386.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
+    [ "DamageDealt", "d3/dce/a14386.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
+    [ "DoAction", "d3/dce/a14386.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
+    [ "DoMeleeAttackIfReady", "d3/dce/a14386.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
+    [ "JustDied", "d3/dce/a14386.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
+    [ "JustEngagedWith", "d3/dce/a14386.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
+    [ "KilledUnit", "d3/dce/a14386.html#a6230dc14db38d43fb060f028cfde9d32", null ],
+    [ "MovementInform", "d3/dce/a14386.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
+    [ "OnTeleportUnreacheablePlayer", "d3/dce/a14386.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
+    [ "Reset", "d3/dce/a14386.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
+    [ "SetGUID", "d3/dce/a14386.html#ad496b4bd7e97988b44357ac91ac3701c", null ],
+    [ "UpdateAI", "d3/dce/a14386.html#a1037b770bb46400aef0ec034f86468fc", null ],
+    [ "_chargeTarget", "d3/dce/a14386.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
+    [ "_useExecute", "d3/dce/a14386.html#a305f064869874d8620d794a7d26f6358", null ],
+    [ "killCount", "d3/dce/a14386.html#a280e27385988e0f5cc65c60511bd4100", null ],
+    [ "reviveGUID", "d3/dce/a14386.html#a7f955c8399167d3f3aa974596f398c13", null ]
 ];

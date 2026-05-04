@@ -1,11 +1,6 @@
 var a23502 =
 [
-    [ "boss_high_astromancer_solarian", "dd/d07/a23502.html#a2db48cc179539f81b55188de08a7e180", null ],
-    [ "AttackStart", "dd/d07/a23502.html#acaf94134aef553447e766a5e431c8b83", null ],
-    [ "JustDied", "dd/d07/a23502.html#a510eb2e4f0770670d6767bc2545375b7", null ],
-    [ "JustEngagedWith", "dd/d07/a23502.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
-    [ "JustSummoned", "dd/d07/a23502.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
-    [ "KilledUnit", "dd/d07/a23502.html#a561a78193615575b7e43e0f21387f1b8", null ],
-    [ "Reset", "dd/d07/a23502.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
-    [ "UpdateAI", "dd/d07/a23502.html#a07a76c34a978c31212390cf10ed3e382", null ]
+    [ "lapseTeleport", "dd/d07/a23502.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "dd/d07/a23502.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "dd/d07/a23502.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

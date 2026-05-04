@@ -1,9 +1,8 @@
 var a11218 =
 [
-    [ "Weather", "d1/d17/a11218.html#aa404c94fec05b825454a7309827767c6", null ],
-    [ "Weather", "d1/d17/a11218.html#a28f45d81441d2dde6917380978dfb4d0", null ],
-    [ "Write", "d1/d17/a11218.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
-    [ "Abrupt", "d1/d17/a11218.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
-    [ "Intensity", "d1/d17/a11218.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
-    [ "WeatherID", "d1/d17/a11218.html#a32e56458b1e562c124cfc0288a578134", null ]
+    [ "AutoStoreBagItem", "d1/d17/a11218.html#a09e4b117d8789d513a0e766986340140", null ],
+    [ "Read", "d1/d17/a11218.html#a172832ec72012278b000f38d761823b4", null ],
+    [ "DestinationBag", "d1/d17/a11218.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
+    [ "SourceBag", "d1/d17/a11218.html#a27e27653e6f00869070de7354adff52d", null ],
+    [ "SourceSlot", "d1/d17/a11218.html#a517202ccb270d78289630404beb61afc", null ]
 ];

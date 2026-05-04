@@ -1,5 +1,6 @@
 var a18934 =
 [
-    [ "at_icc_start_blood_quickening", "d1/d48/a18934.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "d1/d48/a18934.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "HandleEvent", "d1/d48/a18934.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "d1/d48/a18934.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "d1/d48/a18934.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

@@ -1,10 +1,12 @@
 var a07642 =
 [
-    [ "OwnerId", "d6/da6/a07642.html#ae6203d7a867838b279825925841a99df", null ],
-    [ "PrevOwnerId", "d6/da6/a07642.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
-    [ "PrevState", "d6/da6/a07642.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
-    [ "State", "d6/da6/a07642.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
-    [ "Timer", "d6/da6/a07642.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
-    [ "TotalOwnerId", "d6/da6/a07642.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
-    [ "Tower", "d6/da6/a07642.html#a222db96ad937e31986c0c39a5a371dd7", null ]
+    [ "BGQueueInviteEvent", "d6/da6/a07642.html#acee27900339fdcebbfd21bb0e602654d", null ],
+    [ "~BGQueueInviteEvent", "d6/da6/a07642.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
+    [ "Abort", "d6/da6/a07642.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
+    [ "Execute", "d6/da6/a07642.html#a444aceb1c29c951271bab5186a7f3064", null ],
+    [ "m_ArenaType", "d6/da6/a07642.html#a1b7d1161d46578606396efd515ab1739", null ],
+    [ "m_BgInstanceGUID", "d6/da6/a07642.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
+    [ "m_BgTypeId", "d6/da6/a07642.html#a608c24288f24bc4da77124257320c741", null ],
+    [ "m_PlayerGuid", "d6/da6/a07642.html#a200b4bcd336846df60ec11de8d829d7d", null ],
+    [ "m_RemoveTime", "d6/da6/a07642.html#a4c78e5a74eaf859db40772008557201f", null ]
 ];

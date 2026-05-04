@@ -1,7 +1,6 @@
 var a18874 =
 [
-    [ "npc_impaling_spearAI", "dd/d10/a18874.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "dd/d10/a18874.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "dd/d10/a18874.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "dd/d10/a18874.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "npc_captain_brandonAI", "d2/d86/a18878.html", "d2/d86/a18878" ],
+    [ "npc_captain_brandon", "dd/d10/a18874.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "dd/d10/a18874.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

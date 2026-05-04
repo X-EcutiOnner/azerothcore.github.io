@@ -1,6 +1,30 @@
 var a19826 =
 [
-    [ "HandlePeriodic", "dd/d12/a19826.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "dd/d12/a19826.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "dd/d12/a19826.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "dd/d12/a19826.html#abf1e566b7cff32561a68c7ad59783126", null ],
+    [ "CheckAchievementCriteriaMeet", "dd/d12/a19826.html#a0cb02aa1c1e2147eac7f925173a045ff", null ],
+    [ "GetData", "dd/d12/a19826.html#ae12e593786124d9151b06a8aa35a9024", null ],
+    [ "GetGuidData", "dd/d12/a19826.html#ae1a1acdf4eace32ad37e3556c35e3ca2", null ],
+    [ "Initialize", "dd/d12/a19826.html#a62feee8bc5d28c3361a62a77188c4dd0", null ],
+    [ "IsEncounterInProgress", "dd/d12/a19826.html#ae75d01e5cd0787e5a0a17e39bbf53567", null ],
+    [ "OnCreatureCreate", "dd/d12/a19826.html#a577cdfa8f49c2ec0f3fc8fd836345f8d", null ],
+    [ "OnGameObjectCreate", "dd/d12/a19826.html#a5b658dd42d84a74033c12217ca67ea11", null ],
+    [ "ReadSaveDataMore", "dd/d12/a19826.html#a46bb87153d9b09876c720f9bc1d16a5d", null ],
+    [ "SetData", "dd/d12/a19826.html#a276ec28a0276f07da3940243c76c53e1", null ],
+    [ "WriteSaveDataMore", "dd/d12/a19826.html#aeb55af0c6e517499a4153cfbd3fe2eae", null ],
+    [ "brannAchievement", "dd/d12/a19826.html#a0ba409129e2b0cb84b731043755e70e3", null ],
+    [ "BrannGUID", "dd/d12/a19826.html#ae764788f5a202371ce5ea506ba5ea05f", null ],
+    [ "Encounter", "dd/d12/a19826.html#ac04691adf41dd7aca1fad3fa95807e4e", null ],
+    [ "goAbedneumGUID", "dd/d12/a19826.html#ab44bcd56bdc9731e5e00941126e2c848", null ],
+    [ "goKaddrakGUID", "dd/d12/a19826.html#ae3754dac0d344b44d000599f01b5d287", null ],
+    [ "goLeftPipeGUID", "dd/d12/a19826.html#a4f08c3579b6b5bd91356252b89fcb36e", null ],
+    [ "goMarnakGUID", "dd/d12/a19826.html#ae471a3707b95e40fc7ccc9c566657a62", null ],
+    [ "goRightPipeGUID", "dd/d12/a19826.html#a43e7e1d4b2c8328ea3650ba9363b7512", null ],
+    [ "goSjonnirConsoleGUID", "dd/d12/a19826.html#a8d5b25ceb4f77c6ce928b48b714d3d20", null ],
+    [ "goSjonnirDoorGUID", "dd/d12/a19826.html#a81c812791b26833b3dd1aa3036ad28cc", null ],
+    [ "goSkyRoomFloorGUID", "dd/d12/a19826.html#ab45223f5f1282adbd0a208ae05807ffd", null ],
+    [ "goTribunalConsoleGUID", "dd/d12/a19826.html#aff8bc3094ae24f282623d525f2884e4b", null ],
+    [ "isKrystalusDead", "dd/d12/a19826.html#a7ae1fdc168ece52389aabde3857d7ba3", null ],
+    [ "isMaidenOfGriefDead", "dd/d12/a19826.html#aa303da423ad09251abefd6983936dc03", null ],
+    [ "sjonnirAchievement", "dd/d12/a19826.html#a11e2eaaa01e4267515ecb530129ca63a", null ],
+    [ "SjonnirGUID", "dd/d12/a19826.html#a84541b0645efa4acbd27ef390b47b39e", null ]
 ];

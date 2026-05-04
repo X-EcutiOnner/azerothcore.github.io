@@ -1,7 +1,10 @@
 var a26486 =
 [
-    [ "OnProc", "d2/de5/a26486.html#a00545522da76162e837a3f9ce1f38988", null ],
-    [ "PrepareAuraScript", "d2/de5/a26486.html#ae11900dc2baee4882ffbc7fde71204e9", null ],
-    [ "Register", "d2/de5/a26486.html#aa326bd80c927ee5ffb06b5676e8d5b40", null ],
-    [ "Validate", "d2/de5/a26486.html#af5525b7097363c3357db853b46a26bd7", null ]
+    [ "CheckProc", "d2/de5/a26486.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
+    [ "HandleProc", "d2/de5/a26486.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
+    [ "Load", "d2/de5/a26486.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
+    [ "PrepareAuraScript", "d2/de5/a26486.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
+    [ "Register", "d2/de5/a26486.html#a4cb08499767ab58f0e525c382b662fbd", null ],
+    [ "Validate", "d2/de5/a26486.html#aa6165f28706d49940dd1f62065631119", null ],
+    [ "_procTarget", "d2/de5/a26486.html#a7b9426e18b454bf631992518c2bdbde0", null ]
 ];

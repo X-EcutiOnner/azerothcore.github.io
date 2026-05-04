@@ -1,5 +1,5 @@
 var a27990 =
 [
-    [ "go_table_theka", "d1/d7f/a27990.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d1/d7f/a27990.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "item_generic_limit_chance_above_60", "d1/d7f/a27990.html#abc18809810f0a7668020d01c482be84b", null ],
+    [ "OnCastItemCombatSpell", "d1/d7f/a27990.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
 ];

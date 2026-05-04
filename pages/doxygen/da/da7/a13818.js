@@ -1,6 +1,6 @@
 var a13818 =
 [
-    [ "npc_professor_phizzlethorpeAI", "db/dfd/a13822.html", "db/dfd/a13822" ],
-    [ "npc_professor_phizzlethorpe", "da/da7/a13818.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "da/da7/a13818.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "OnApply", "da/da7/a13818.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
+    [ "PrepareAuraScript", "da/da7/a13818.html#a236892b4fd6cf081a907becab6187069", null ],
+    [ "Register", "da/da7/a13818.html#aa37819b82692df8a21cbbda8833ad492", null ]
 ];

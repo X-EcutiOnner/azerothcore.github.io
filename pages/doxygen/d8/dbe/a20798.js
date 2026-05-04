@@ -1,12 +1,13 @@
 var a20798 =
 [
-    [ "boss_skarvald_the_constructor", "d8/dbe/a20798.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
-    [ "DoAction", "d8/dbe/a20798.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
-    [ "JustDied", "d8/dbe/a20798.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
-    [ "JustEngagedWith", "d8/dbe/a20798.html#a529439d257abf78f76db0043549964e6", null ],
-    [ "KilledUnit", "d8/dbe/a20798.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
-    [ "Reset", "d8/dbe/a20798.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
-    [ "UpdateAI", "d8/dbe/a20798.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
-    [ "events", "d8/dbe/a20798.html#a28837280e161f6971564a4725c97a154", null ],
-    [ "pInstance", "d8/dbe/a20798.html#ab5b773a9960f611a6383578a607ba258", null ]
+    [ "npc_ulduar_arachnopod_destroyer", "d8/dbe/a20798.html#a13422abe59c4aa11bee16225d689c054", null ],
+    [ "AttackStart", "d8/dbe/a20798.html#ac634717023bd5827e2b8b1f4c79c6084", null ],
+    [ "DamageTaken", "d8/dbe/a20798.html#a80a63823a5ffb19fd84fe3da5e9e4659", null ],
+    [ "EnterEvadeMode", "d8/dbe/a20798.html#acb089a5226af27005ac2356e84e976aa", null ],
+    [ "OnCharmed", "d8/dbe/a20798.html#a3d24ff7efa6a822b5d5c6c762b026d75", null ],
+    [ "PassengerBoarded", "d8/dbe/a20798.html#a1b15edb1527095dcac5f9c0ef183fb55", null ],
+    [ "Reset", "d8/dbe/a20798.html#a7fa3aa16e4764b5ce4a93eef855010f8", null ],
+    [ "UpdateAI", "d8/dbe/a20798.html#a87d4086066ac53697793152fdcebf841", null ],
+    [ "_spawnedMechanic", "d8/dbe/a20798.html#ae781e2c258ac3ce268821b98ae310a0f", null ],
+    [ "events", "d8/dbe/a20798.html#a7cb0d83e8b94808fa16539ea098e1a2f", null ]
 ];

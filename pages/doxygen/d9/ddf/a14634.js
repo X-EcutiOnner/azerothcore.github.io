@@ -1,9 +1,5 @@
 var a14634 =
 [
-    [ "entries", "d9/ddf/a14634.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "d9/ddf/a14634.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "d9/ddf/a14634.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "d9/ddf/a14634.html#a7fd78a5fa19a14ab1b002f5b6ef4e20f", null ],
-    [ "size", "d9/ddf/a14634.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "d9/ddf/a14634.html#aa22c51469489fbb6551de2b751f06c94", null ]
+    [ "at_bring_your_orphan_to", "d9/ddf/a14634.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "d9/ddf/a14634.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

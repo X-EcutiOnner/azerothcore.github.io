@@ -1,8 +1,6 @@
 var a17690 =
 [
-    [ "HandleHit", "d7/dd5/a17690.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
-    [ "HandleScript", "d7/dd5/a17690.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "d7/dd5/a17690.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "d7/dd5/a17690.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "d7/dd5/a17690.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "PrepareAuraScript", "d7/dd5/a17690.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "d7/dd5/a17690.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "d7/dd5/a17690.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

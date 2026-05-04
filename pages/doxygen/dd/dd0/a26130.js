@@ -1,7 +1,7 @@
 var a26130 =
 [
-    [ "HandleProc", "dd/dd0/a26130.html#a58e243bf7eca18d2ff1a9c72f9453f10", null ],
-    [ "PrepareAuraScript", "dd/dd0/a26130.html#af6ca1636d67b2d9f81a8743706ffb800", null ],
-    [ "Register", "dd/dd0/a26130.html#ad3e4a18ce21270eede17e29faa7dd897", null ],
-    [ "Validate", "dd/dd0/a26130.html#aa9b2fa0685a0936ebf7b7e6df0fd9b22", null ]
+    [ "CalculateAmount", "dd/dd0/a26130.html#a0934aa8eaf442314aa6050d85304c15b", null ],
+    [ "CalculateSpellAmount", "dd/dd0/a26130.html#ab765b87350bd3e73ac43879abef72d98", null ],
+    [ "PrepareAuraScript", "dd/dd0/a26130.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
+    [ "Register", "dd/dd0/a26130.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
 ];

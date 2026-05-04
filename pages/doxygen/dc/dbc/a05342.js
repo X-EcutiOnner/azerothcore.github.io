@@ -1,8 +1,6 @@
 var a05342 =
 [
-    [ "MeshTriangle", "dc/dbc/a05342.html#af99ecf0b02af73e6727095df1dce8422", null ],
-    [ "MeshTriangle", "dc/dbc/a05342.html#a36109fc79a9ca9c6bf19959fd1493e60", null ],
-    [ "idx0", "dc/dbc/a05342.html#aed1048a2b6745215a7b8f70dec378371", null ],
-    [ "idx1", "dc/dbc/a05342.html#a560bb163f63ff7202aade4d115f31664", null ],
-    [ "idx2", "dc/dbc/a05342.html#ac939c5e66526c67c067288b9d6484cac", null ]
+    [ "TriBoundFunc", "dc/dbc/a05342.html#a42711c10595c048420a09e35e3345229", null ],
+    [ "operator()", "dc/dbc/a05342.html#a026d443e9156f884a21351700b6c69dd", null ],
+    [ "vertices", "dc/dbc/a05342.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
 ];

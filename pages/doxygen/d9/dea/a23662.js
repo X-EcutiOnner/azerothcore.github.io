@@ -1,7 +1,11 @@
 var a23662 =
 [
-    [ "OnPeriodic", "d9/dea/a23662.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d9/dea/a23662.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d9/dea/a23662.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d9/dea/a23662.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "npc_aeranasAI", "d9/dea/a23662.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "JustReachedHome", "d9/dea/a23662.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
+    [ "Reset", "d9/dea/a23662.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d9/dea/a23662.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "_defeated", "d9/dea/a23662.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
+    [ "envelopingWinds_Timer", "d9/dea/a23662.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d9/dea/a23662.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d9/dea/a23662.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

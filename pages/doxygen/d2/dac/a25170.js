@@ -1,7 +1,5 @@
 var a25170 =
 [
-    [ "OnApply", "d2/dac/a25170.html#a455a885611978a390cd4bfa76b05f82b", null ],
-    [ "PrepareAuraScript", "d2/dac/a25170.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
-    [ "Register", "d2/dac/a25170.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
-    [ "Validate", "d2/dac/a25170.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
+    [ "PrepareSpellScript", "d2/dac/a25170.html#ac83289482a8f83a2af80e2f9f35b6716", null ],
+    [ "Register", "d2/dac/a25170.html#a5e2cdc942b9972f79ff0a4fac2f0d77d", null ]
 ];

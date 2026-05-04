@@ -1,6 +1,6 @@
 var a26950 =
 [
-    [ "HandleScript", "df/d3a/a26950.html#acde0ae837d0cd3af0f38481027200291", null ],
-    [ "PrepareSpellScript", "df/d3a/a26950.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
-    [ "Register", "df/d3a/a26950.html#a2dc2628984358628afe7d9b62ced7794", null ]
+    [ "CheckCast", "df/d3a/a26950.html#a97f479cccecc6f37c75b47122b47e333", null ],
+    [ "PrepareSpellScript", "df/d3a/a26950.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
+    [ "Register", "df/d3a/a26950.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
 ];

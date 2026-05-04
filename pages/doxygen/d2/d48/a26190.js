@@ -1,7 +1,6 @@
 var a26190 =
 [
-    [ "OnRemove", "d2/d48/a26190.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "d2/d48/a26190.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "d2/d48/a26190.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "d2/d48/a26190.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "HandleProc", "d2/d48/a26190.html#a81736c5dd5fd02181673a9f12d4d9ab2", null ],
+    [ "PrepareAuraScript", "d2/d48/a26190.html#a1710a08cfe8b6f9b3890840bac97c711", null ],
+    [ "Register", "d2/d48/a26190.html#a2e65cb7fa379f1330610aaa56e002ba3", null ]
 ];

@@ -1,9 +1,8 @@
 var a27942 =
 [
-    [ "go_gilded_brazierAI", "dc/d03/a27942.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "dc/d03/a27942.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "dc/d03/a27942.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "dc/d03/a27942.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "dc/d03/a27942.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "dc/d03/a27942.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "go_bellsAI", "dc/d03/a27942.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "dc/d03/a27942.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "dc/d03/a27942.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "dc/d03/a27942.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "dc/d03/a27942.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

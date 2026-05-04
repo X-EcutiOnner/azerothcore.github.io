@@ -1,8 +1,10 @@
 var a01388 =
 [
-    [ "GUID_TRAIT_INSTANTIATE_GUID", "d0/d36/a01388.html#a62c17cbc4f3da3f26f9c1ae3ba2c4953", null ],
-    [ "operator<<", "d0/d36/a01388.html#a039758f4b57c94c411a4c3882334ada8", null ],
-    [ "operator<<", "d0/d36/a01388.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "operator>>", "d0/d36/a01388.html#a30aef535f2839648f0ae4648c746d3e2", null ],
-    [ "operator>>", "d0/d36/a01388.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
+    [ "ObjectPosSelector", "d1/d41/a08754.html", "d1/d41/a08754" ],
+    [ "ObjectPosSelector::UsedPos", "dd/dcd/a08758.html", "dd/dcd/a08758" ],
+    [ "UsedPosType", "d0/d36/a01388.html#a2f1e7723f9d73cff4490d29d2b3df397", [
+      [ "USED_POS_PLUS", "d0/d36/a01388.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e", null ],
+      [ "USED_POS_MINUS", "d0/d36/a01388.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816", null ]
+    ] ],
+    [ "operator~", "d0/d36/a01388.html#a083d37b8f4388d54d83aeb6562b5fe09", null ]
 ];

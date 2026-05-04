@@ -1,5 +1,9 @@
 var a27750 =
 [
-    [ "AreaTrigger_at_nats_landing", "df/d69/a27750.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
-    [ "OnTrigger", "df/d69/a27750.html#a67434f74300fa3463e679afb7d344467", null ]
+    [ "ChatLogScript", "df/d69/a27750.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "df/d69/a27750.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "df/d69/a27750.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "df/d69/a27750.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "df/d69/a27750.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "df/d69/a27750.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

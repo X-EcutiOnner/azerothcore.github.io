@@ -1,19 +1,16 @@
 var a08782 =
 [
-    [ "CinematicMgr", "d0/d6f/a08782.html#ac6d3a6361ec36a26dbea43e994d169f8", null ],
-    [ "~CinematicMgr", "d0/d6f/a08782.html#a8c9788deb0f2dd3b49b935262b752d57", null ],
-    [ "EndCinematic", "d0/d6f/a08782.html#a8a47c7cff4414c6aea3aa31fa483cc60", null ],
-    [ "GetActiveCinematicCamera", "d0/d6f/a08782.html#a0535dee9b0ec7aa6176809c6dca16b30", null ],
-    [ "GetRemoteSightPosition", "d0/d6f/a08782.html#a6665f77804ae876fe7bb9c43e2415ea3", null ],
-    [ "IsOnCinematic", "d0/d6f/a08782.html#a904cb7a2db9b9e92e8539b736487ad0e", null ],
-    [ "SetActiveCinematicCamera", "d0/d6f/a08782.html#afa5c37702ecdb71e09e552b92fa5ad71", null ],
-    [ "StartCinematic", "d0/d6f/a08782.html#a8de8388c8f90dc84c1ce0342f17d45aa", null ],
-    [ "StartCinematicCamera", "d0/d6f/a08782.html#a69857bfd9eafbb8580938619aba9a9b9", null ],
-    [ "UpdateCinematic", "d0/d6f/a08782.html#a629943ec0d64f2eba830da551222598d", null ],
-    [ "_activeCinematicCameraId", "d0/d6f/a08782.html#aa64550198cbacf5fdedd2d30d015d99d", null ],
-    [ "_cinematicCamera", "d0/d6f/a08782.html#aceda58e6f506fbefc70292abb0687411", null ],
-    [ "_cinematicDiff", "d0/d6f/a08782.html#a96d52cf985cbf4a2192e88de846d4a92", null ],
-    [ "_cinematicUpdateTimer", "d0/d6f/a08782.html#aa7d5e62f0fd5542e9c99c0ac5b9ae898", null ],
-    [ "_player", "d0/d6f/a08782.html#a1f471f895c8cda67733cf3df29441886", null ],
-    [ "_remoteSightPosition", "d0/d6f/a08782.html#a3c747cf6679bb2533789581fcb09f246", null ]
+    [ "WorldLocation", "d0/d6f/a08782.html#a424e67f5a820f3396ed6a02c3daa05fb", null ],
+    [ "WorldLocation", "d0/d6f/a08782.html#a04d7814f5d846259c5af562ce856f468", null ],
+    [ "GetDebugInfo", "d0/d6f/a08782.html#a0b3f13522d288dde484c70cbf8ef5fc5", null ],
+    [ "GetMapId", "d0/d6f/a08782.html#a2682e56ae4f0ce4b517a8ba3cd2798b1", null ],
+    [ "GetWorldLocation", "d0/d6f/a08782.html#a48cad9058b04a5108c4b99c7fd4d0bfe", null ],
+    [ "GetWorldLocation", "d0/d6f/a08782.html#aa2623109f914fd8592f865545696d27b", null ],
+    [ "GetWorldLocation", "d0/d6f/a08782.html#a75c59d33f5aac8da8eb9b8c5e2711acf", null ],
+    [ "GetWorldLocation", "d0/d6f/a08782.html#aed21eb7d191b1e34ebd1456b427fbb2c", null ],
+    [ "GetWorldLocation", "d0/d6f/a08782.html#abb5d3b7c89fa4a39d2486f2f943159e4", null ],
+    [ "SetMapId", "d0/d6f/a08782.html#ac425c27c61ecc169fe3df61991011988", null ],
+    [ "WorldRelocate", "d0/d6f/a08782.html#a7f014ec2469e93ffca3ec7bbd03b1606", null ],
+    [ "WorldRelocate", "d0/d6f/a08782.html#adc762865d564319245ffc3363c080365", null ],
+    [ "m_mapId", "d0/d6f/a08782.html#a88161a79f13aa3ab267096cfa8e5d0ed", null ]
 ];

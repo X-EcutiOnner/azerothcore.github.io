@@ -1,11 +1,20 @@
 var a01310 =
 [
-    [ "BaseGain", "da/d79/a01310.html#ada8e56c81ab672d85f2ff274d109e477", null ],
-    [ "Gain", "da/d79/a01310.html#ab923dd9a0df7d75127965b40539d4a10", null ],
-    [ "GetColorCode", "da/d79/a01310.html#a812c722ab7eb34807d8cad9659d34245", null ],
-    [ "GetGrayLevel", "da/d79/a01310.html#a9c310a4423fd5ada14fac549e4b1a6fd", null ],
-    [ "GetZeroDifference", "da/d79/a01310.html#a4152e9ef9972f6a20cbc990dce953c36", null ],
-    [ "hk_honor_at_level", "da/d79/a01310.html#ad25519337dcc6370a39a072c53386f55", null ],
-    [ "hk_honor_at_level_f", "da/d79/a01310.html#a218866625f1b3b8224fb44f5a0c8b416", null ],
-    [ "xp_in_group_rate", "da/d79/a01310.html#a304088bebc0743c764589112d2ba3b7f", null ]
+    [ "CreatureTextEntry", "d0/d4c/a11962.html", "d0/d4c/a11962" ],
+    [ "CreatureTextLocale", "d6/d4f/a11966.html", "d6/d4f/a11966" ],
+    [ "CreatureTextId", "db/d54/a11970.html", "db/d54/a11970" ],
+    [ "CreatureTextMgr", "d7/d70/a11974.html", "d7/d70/a11974" ],
+    [ "CreatureTextLocalizer< Builder >", "d8/dd5/a11978.html", "d8/dd5/a11978" ],
+    [ "sCreatureTextMgr", "da/d79/a01310.html#a2dc428da007cefe454220dcb355a1cde", null ],
+    [ "CreatureTextGroup", "da/d79/a01310.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
+    [ "CreatureTextHolder", "da/d79/a01310.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
+    [ "CreatureTextMap", "da/d79/a01310.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
+    [ "LocaleCreatureTextMap", "da/d79/a01310.html#ab39b2d82775a84108d19ed009bd14747", null ],
+    [ "CreatureTextRange", "da/d79/a01310.html#adf847039afbebeda9e21210c1f4eb052", [
+      [ "TEXT_RANGE_NORMAL", "da/d79/a01310.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
+      [ "TEXT_RANGE_AREA", "da/d79/a01310.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
+      [ "TEXT_RANGE_ZONE", "da/d79/a01310.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
+      [ "TEXT_RANGE_MAP", "da/d79/a01310.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
+      [ "TEXT_RANGE_WORLD", "da/d79/a01310.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
+    ] ]
 ];

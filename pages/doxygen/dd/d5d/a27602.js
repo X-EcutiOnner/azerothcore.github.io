@@ -1,6 +1,5 @@
 var a27602 =
 [
-    [ "HandleEffectCalcSpellMod", "dd/d5d/a27602.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
-    [ "PrepareAuraScript", "dd/d5d/a27602.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
-    [ "Register", "dd/d5d/a27602.html#af60592a9f1e595f31814eae405d03d5a", null ]
+    [ "achievement_everything_counts", "dd/d5d/a27602.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
+    [ "OnCheck", "dd/d5d/a27602.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
 ];

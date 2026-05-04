@@ -1,15 +1,7 @@
 var a14750 =
 [
-    [ "npc_midsummer_bonfire", "d6/d25/a14750.html#a07c8b1add555697fdb29fda89f42c4af", null ],
-    [ "Ignite", "d6/d25/a14750.html#a2a398299b3584e3a871b1b6e83b4ff5f", null ],
-    [ "InitBonfire", "d6/d25/a14750.html#a9210a0a472d609f66895bfa0a8e324b0", null ],
-    [ "SpellHit", "d6/d25/a14750.html#a9ad2102b2dea60fbb81c1578b97f34dc", null ],
-    [ "StampOut", "d6/d25/a14750.html#a1f8bd11d0f49c0a44764a2f34e6ee147", null ],
-    [ "UpdateAI", "d6/d25/a14750.html#a46733a171006e4693a32391cfe954050", null ],
-    [ "UpdateBonfireBlessingBuffs", "d6/d25/a14750.html#a1236b61f21ff1a1b85bbc7058ca8e17c", null ],
-    [ "_bonfire", "d6/d25/a14750.html#aaa2f2822cb5c104ec2d90c2a344b409d", null ],
-    [ "_isStampedOut", "d6/d25/a14750.html#aa21c9f7a5d7ac29663d94da55ef34373", null ],
-    [ "_spellFocus", "d6/d25/a14750.html#abef815568f7d39bbda20f9611e3abc52", null ],
-    [ "_teamId", "d6/d25/a14750.html#a5c0894721d13dd49961c0687c100d7a5", null ],
-    [ "_type", "d6/d25/a14750.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5", null ]
+    [ "npc_love_in_air_supply_sentry", "d6/d25/a14750.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
+    [ "MoveInLineOfSight", "d6/d25/a14750.html#a9df110324c74277e07183c7db231bbda", null ],
+    [ "UpdateAI", "d6/d25/a14750.html#aaa658222954f96d45b75daf83555f6f8", null ],
+    [ "lock", "d6/d25/a14750.html#a59bf67b114014542538165c21aa109a6", null ]
 ];

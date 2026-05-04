@@ -1,6 +1,10 @@
 var a09338 =
 [
-    [ "m_guid", "d2/dc1/a09338.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "d2/dc1/a09338.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "d2/dc1/a09338.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "Flags", "d2/dc1/a09338.html#a5292a64de662f608915844d58199542f", null ],
+    [ "Icon", "d2/dc1/a09338.html#ab7460f125e05509baf9331e424b8bacf", null ],
+    [ "ID", "d2/dc1/a09338.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
+    [ "Importance", "d2/dc1/a09338.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
+    [ "Name", "d2/dc1/a09338.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
+    [ "PositionX", "d2/dc1/a09338.html#a561763556f1ac77e988c350c37a3a0a1", null ],
+    [ "PositionY", "d2/dc1/a09338.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
 ];

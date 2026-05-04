@@ -1,17 +1,16 @@
 var a04880 =
 [
-    [ "TypeContainerVisitor< VISITOR, TYPE_CONTAINER >", "d3/dc0/a05573.html", "d3/dc0/a05573" ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#afb97c1925d9afe2b9cb0f316b722b286", null ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#a3c05d024f0dd548fe51e8d8657cdb9b8", null ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#ab2c2dfc68b7d3ba945e400be7066f94c", null ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#a2bba031b226b147ad62a069694924b83", null ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#a521e8e3b3a45439e572e9769ad39b512", null ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#ace6180e67fbb6a46929af65480632388", null ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#ac2220e2e1174a525d43b8449fd25a2e3", null ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#a87fb6736f88af014249a28bf2a95df93", null ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#a4160fec3fe29282a64569456f5ce1de6", null ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#a3a47e8382377ca85476452be8786e00f", null ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#a85da15ab4908f58ef09fcf703f3c01a6", null ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#af508b246df1e278d5ebf32da50f4e2f9", null ],
-    [ "VisitorHelper", "d1/dcd/a04880.html#a3460133a0353fbe6d657e70e70653299", null ]
+    [ "DBCFileLoader", "da/d10/a05470.html", "da/d10/a05470" ],
+    [ "DBCFileLoader::Record", "df/d07/a05474.html", "df/d07/a05474" ],
+    [ "DbcFieldFormat", "d1/dcd/a04880.html#a969264ba91452f632e809db524c68960", [
+      [ "FT_NA", "d1/dcd/a04880.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
+      [ "FT_NA_BYTE", "d1/dcd/a04880.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
+      [ "FT_STRING", "d1/dcd/a04880.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
+      [ "FT_FLOAT", "d1/dcd/a04880.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
+      [ "FT_INT", "d1/dcd/a04880.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
+      [ "FT_BYTE", "d1/dcd/a04880.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
+      [ "FT_SORT", "d1/dcd/a04880.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
+      [ "FT_IND", "d1/dcd/a04880.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
+      [ "FT_LOGIC", "d1/dcd/a04880.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
+    ] ]
 ];

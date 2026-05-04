@@ -1,7 +1,7 @@
 var a26134 =
 [
-    [ "HandleProc", "da/d0e/a26134.html#a18407e24557465a32d3d0a0ac274039e", null ],
-    [ "PrepareAuraScript", "da/d0e/a26134.html#a8d8cc8d38e72911c529039961bf19094", null ],
-    [ "Register", "da/d0e/a26134.html#a0e770622694eb54dcff4077b17e4f811", null ],
-    [ "Validate", "da/d0e/a26134.html#a42165d070ce0e04106d3df06e4890eb8", null ]
+    [ "CalculateSpellAmount", "da/d0e/a26134.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "da/d0e/a26134.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "da/d0e/a26134.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "da/d0e/a26134.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

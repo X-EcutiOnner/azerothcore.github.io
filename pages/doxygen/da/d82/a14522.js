@@ -1,6 +1,7 @@
 var a14522 =
 [
-    [ "CheckItem", "da/d82/a14522.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
-    [ "PrepareSpellScript", "da/d82/a14522.html#a0fa160f1218cf838444f894716cb8aed", null ],
-    [ "Register", "da/d82/a14522.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
+    [ "FilterTargets", "da/d82/a14522.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "da/d82/a14522.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "da/d82/a14522.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "da/d82/a14522.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

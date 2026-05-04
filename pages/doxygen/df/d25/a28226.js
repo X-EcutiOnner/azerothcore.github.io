@@ -1,11 +1,6 @@
 var a28226 =
 [
-    [ "npc_injured_patientAI", "df/d25/a28226.html#a0973487623f1771c598648bc06a6d9a3", null ],
-    [ "JustEngagedWith", "df/d25/a28226.html#a621a8cc3f6b9655760431d52766ca589", null ],
-    [ "Reset", "df/d25/a28226.html#a007c9c7a4047374574cad17e9309d7c1", null ],
-    [ "SpellHit", "df/d25/a28226.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
-    [ "UpdateAI", "df/d25/a28226.html#a54d0a5574175747779878dce0ebfd44f", null ],
-    [ "_scheduler", "df/d25/a28226.html#a60428fa97c8f6520338d53ed368c4c35", null ],
-    [ "Coord", "df/d25/a28226.html#af5a6f87c0379edd07a8756018b0c8661", null ],
-    [ "DoctorGUID", "df/d25/a28226.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
+    [ "npc_venomhide_hatchlingAI", "df/d25/a28226.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "df/d25/a28226.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "df/d25/a28226.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

@@ -1,5 +1,6 @@
 var a15386 =
 [
-    [ "boss_yauj", "da/da8/a15386.html#a15ab7b6b35d29fb1552b11586163320e", null ],
-    [ "JustEngagedWith", "da/da8/a15386.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d0/d49/a15390.html", "d0/d49/a15390" ],
+    [ "instance_ruins_of_ahnqiraj", "da/da8/a15386.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "da/da8/a15386.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

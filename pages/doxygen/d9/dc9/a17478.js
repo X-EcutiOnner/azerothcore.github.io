@@ -1,6 +1,6 @@
 var a17478 =
 [
-    [ "npc_blood_queen_lana_thelAI", "db/d49/a17482.html", "db/d49/a17482" ],
-    [ "npc_blood_queen_lana_thel", "d9/dc9/a17478.html#a39adef3ae54efd4433805bd8ad4719be", null ],
-    [ "GetAI", "d9/dc9/a17478.html#a02d928ac4ef1704cee2498ebe6533561", null ]
+    [ "StandUpEvent", "d9/dc9/a17478.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
+    [ "Execute", "d9/dc9/a17478.html#a56bc1071300ff8f81e62839685e8f53a", null ],
+    [ "_owner", "d9/dc9/a17478.html#a456a494140657d81b203834f7b88d5d1", null ]
 ];

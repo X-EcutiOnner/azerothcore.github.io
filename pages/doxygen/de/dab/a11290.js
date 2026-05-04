@@ -1,11 +1,9 @@
 var a11290 =
 [
-    [ "MoneyCost", "de/dab/a11290.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
-    [ "PointCost", "de/dab/a11290.html#aebcad3f23dbca753ad970081af0a78c9", null ],
-    [ "ReqAbility", "de/dab/a11290.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
-    [ "ReqLevel", "de/dab/a11290.html#a9478dc1065bc10ebc591ff8022e43993", null ],
-    [ "ReqSkillLine", "de/dab/a11290.html#a5267f4615e01571a4a16d17d6914981b", null ],
-    [ "ReqSkillRank", "de/dab/a11290.html#ae6f9640e257d83d633c48168edc658b6", null ],
-    [ "SpellID", "de/dab/a11290.html#accf0f9aa4c8f2130f6926235dca69476", null ],
-    [ "Usable", "de/dab/a11290.html#a35d7186073a231f0dd1fe5920eec175b", null ]
+    [ "RandomRoll", "de/dab/a11290.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "de/dab/a11290.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "de/dab/a11290.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "de/dab/a11290.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "de/dab/a11290.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "de/dab/a11290.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

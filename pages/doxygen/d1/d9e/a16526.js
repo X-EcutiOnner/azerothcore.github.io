@@ -1,7 +1,6 @@
 var a16526 =
 [
-    [ "HandleAfterEffectAbsorb", "d1/d9e/a16526.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "d1/d9e/a16526.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "d1/d9e/a16526.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "d1/d9e/a16526.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "boss_paletressAI", "de/d67/a16530.html", "de/d67/a16530" ],
+    [ "boss_paletress", "d1/d9e/a16526.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "d1/d9e/a16526.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

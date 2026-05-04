@@ -1,6 +1,6 @@
 var a21518 =
 [
-    [ "SACActivateEvent", "d9/dbb/a21518.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "d9/dbb/a21518.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "d9/dbb/a21518.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "df/d27/a21522.html", "df/d27/a21522" ],
+    [ "npc_commander_eligor_dawnbringer", "d9/dbb/a21518.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d9/dbb/a21518.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

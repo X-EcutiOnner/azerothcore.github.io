@@ -1,8 +1,6 @@
 var a27182 =
 [
-    [ "ApplyDebuff", "d3/d1f/a27182.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
-    [ "PrepareSpellScript", "d3/d1f/a27182.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
-    [ "Register", "d3/d1f/a27182.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
-    [ "RemoveInvalidTargets", "d3/d1f/a27182.html#a1374c764b20b95febbca44c593bde218", null ],
-    [ "Validate", "d3/d1f/a27182.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
+    [ "PeriodicTick", "d3/d1f/a27182.html#a8765e8f662c4279669c955108ff356e3", null ],
+    [ "PrepareAuraScript", "d3/d1f/a27182.html#a15f077618950e4526ffcee9ee172d89f", null ],
+    [ "Register", "d3/d1f/a27182.html#aeeca3a2be368025147702c4aa8c518ce", null ]
 ];

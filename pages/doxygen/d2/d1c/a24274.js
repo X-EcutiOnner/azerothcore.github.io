@@ -1,7 +1,11 @@
 var a24274 =
 [
-    [ "CheckClass", "d2/d1c/a24274.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
-    [ "HandleScript", "d2/d1c/a24274.html#a4f4f7004be5629efdc48b52b6667edba", null ],
-    [ "PrepareSpellScript", "d2/d1c/a24274.html#a599ce758681c5196bd40e4c7b86635cc", null ],
-    [ "Register", "d2/d1c/a24274.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
+    [ "HandleAfterHit", "d2/d1c/a24274.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "d2/d1c/a24274.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "d2/d1c/a24274.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "d2/d1c/a24274.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "d2/d1c/a24274.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "d2/d1c/a24274.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "d2/d1c/a24274.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "d2/d1c/a24274.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

@@ -1,4 +1,8 @@
 var a08322 =
 [
-    [ "ItemEntry", "d2/d6c/a08322.html#aa941274a50c076189d0957120ca25e5e", null ]
+    [ "TemporaryThreatModifierEvent", "d2/d6c/a08322.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
+    [ "Execute", "d2/d6c/a08322.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
+    [ "m_owner", "d2/d6c/a08322.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
+    [ "m_threatValue", "d2/d6c/a08322.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
+    [ "m_threatVictimGUID", "d2/d6c/a08322.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
 ];

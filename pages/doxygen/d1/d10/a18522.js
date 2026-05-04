@@ -1,10 +1,6 @@
 var a18522 =
 [
-    [ "HandleScript", "d1/d10/a18522.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
-    [ "Load", "d1/d10/a18522.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
-    [ "PrepareSpellScript", "d1/d10/a18522.html#afcc1efc69d73086a9ab686855911e516", null ],
-    [ "Register", "d1/d10/a18522.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
-    [ "ReplaceTarget", "d1/d10/a18522.html#a01cb7d25bef14a2266d81594544f6283", null ],
-    [ "SelectTarget", "d1/d10/a18522.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
-    [ "_target", "d1/d10/a18522.html#a3a84a9d7109845d201b395f05f66d109", null ]
+    [ "npc_raging_spiritAI", "d0/d5e/a18526.html", "d0/d5e/a18526" ],
+    [ "npc_raging_spirit", "d1/d10/a18522.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "d1/d10/a18522.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

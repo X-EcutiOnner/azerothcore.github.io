@@ -1,5 +1,6 @@
 var a14142 =
 [
-    [ "entry", "dc/d1e/a14142.html#ad7431eb64907aed0a03205a37c65a735", null ],
-    [ "pos", "dc/d1e/a14142.html#ab60283e91e81c141f3b31218aa4442a3", null ]
+    [ "cooldown", "dc/d1e/a14142.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "dc/d1e/a14142.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "dc/d1e/a14142.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

@@ -1,6 +1,7 @@
 var a23050 =
 [
-    [ "boss_rokmar_the_crackler", "d5/d5c/a23050.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "d5/d5c/a23050.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "d5/d5c/a23050.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "npc_underbog_mushroom", "d5/d5c/a23050.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d5/d5c/a23050.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d5/d5c/a23050.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d5/d5c/a23050.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

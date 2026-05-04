@@ -1,7 +1,6 @@
 var a23154 =
 [
-    [ "OnApply", "df/d74/a23154.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "df/d74/a23154.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "df/d74/a23154.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "df/d74/a23154.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "de/d74/a23158.html", "de/d74/a23158" ],
+    [ "instance_gruuls_lair", "df/d74/a23154.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "df/d74/a23154.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

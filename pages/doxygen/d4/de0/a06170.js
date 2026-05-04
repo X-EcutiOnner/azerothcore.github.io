@@ -1,6 +1,7 @@
 var a06170 =
 [
-    [ "CheckExecutable", "d4/de0/a06170.html#a65cf44a18a72ba92f91a667e41f9da80", null ],
-    [ "corrected_path", "d4/de0/a06170.html#a31499b458f0ff0ec518980f51d6a242a", null ],
-    [ "GetCorrectedMySQLExecutable", "d4/de0/a06170.html#a8ab8efffe5408f97f438e06766f65ec9", null ]
+    [ "TransactionWithResultTask", "d4/de0/a06170.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "d4/de0/a06170.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "d4/de0/a06170.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "d4/de0/a06170.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

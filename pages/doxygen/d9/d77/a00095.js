@@ -1,9 +1,8 @@
 var a00095 =
 [
-    [ "PeriodicAbsorbStealthProcTest", "d5/df8/a29329.html", "d5/df8/a29329" ],
-    [ "TEST_F", "d9/d77/a00095.html#a7b28cb80729f223f6772fd88f7441c0b", null ],
-    [ "TEST_F", "d9/d77/a00095.html#af38e03c4149e38394abfe3d5406f75f1", null ],
-    [ "TEST_F", "d9/d77/a00095.html#afd68d87fc4d1d7cc374fc6b9ff683a15", null ],
-    [ "TEST_F", "d9/d77/a00095.html#a92938638e5fd7cecefeef4d8793fc666", null ],
-    [ "TEST_F", "d9/d77/a00095.html#a21b7dc27da143cb66ebe44eb44b932cc", null ]
+    [ "SpellProcTestEntry", "dd/d5d/a29578.html", "dd/d5d/a29578" ],
+    [ "GetAllSpellProcTestEntries", "d9/d77/a00095.html#a39025d5b336e745566f739e9d1f68e78", null ],
+    [ "GroupByHitMask", "d9/d77/a00095.html#a9c10a33f80d5dad16ac98bf115774ded", null ],
+    [ "GroupByProcFlags", "d9/d77/a00095.html#a8a30ea152f1ec07a3e93549376c04b74", null ],
+    [ "GroupBySpellFamily", "d9/d77/a00095.html#ac781b3845801dede698012d7118061a4", null ]
 ];

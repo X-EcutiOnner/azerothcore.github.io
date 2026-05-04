@@ -1,6 +1,6 @@
 var a21494 =
 [
-    [ "HandleSendEvent", "d6/dca/a21494.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d6/dca/a21494.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d6/dca/a21494.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_q24545_vegard_dummyAI", "d3/d0f/a21498.html", "d3/d0f/a21498" ],
+    [ "npc_q24545_vegard_dummy", "d6/dca/a21494.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "d6/dca/a21494.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

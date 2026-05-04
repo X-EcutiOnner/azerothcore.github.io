@@ -1,10 +1,17 @@
 var a10578 =
 [
-    [ "BattlefieldScript", "de/dfd/a10578.html#a5d852a5ae3f62631280ca9f4b97b1734", null ],
-    [ "IsDatabaseBound", "de/dfd/a10578.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
-    [ "OnBattlefieldBeforeInvitePlayerToWar", "de/dfd/a10578.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
-    [ "OnBattlefieldPlayerEnterZone", "de/dfd/a10578.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
-    [ "OnBattlefieldPlayerJoinWar", "de/dfd/a10578.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
-    [ "OnBattlefieldPlayerLeaveWar", "de/dfd/a10578.html#a3e88ff9ad3772d558ab72123127a550e", null ],
-    [ "OnBattlefieldPlayerLeaveZone", "de/dfd/a10578.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ]
+    [ "AllCreatureScript", "de/dfd/a10578.html#ae933414c901fc5d3606fd5c239156f1b", null ],
+    [ "CanCreatureGossipHello", "de/dfd/a10578.html#a2cf3bd5ad27bf97fde905bc69a6dec5e", null ],
+    [ "CanCreatureGossipSelect", "de/dfd/a10578.html#a551633c543dd01e876ee10452b98fb5e", null ],
+    [ "CanCreatureGossipSelectCode", "de/dfd/a10578.html#aa193e968ecc1639ca33fee052dafb0b3", null ],
+    [ "CanCreatureQuestAccept", "de/dfd/a10578.html#af45ef5e7a0a6b3ca6126d5af87753b5c", null ],
+    [ "CanCreatureQuestReward", "de/dfd/a10578.html#a31659a18df4206122a56ce69f3e4809d", null ],
+    [ "GetCreatureAI", "de/dfd/a10578.html#a1e568b6f85a8b60a65a987c8d081ca3e", null ],
+    [ "OnAllCreatureUpdate", "de/dfd/a10578.html#abba47678a4f5e73c2db3b27b4cfa3dbe", null ],
+    [ "OnBeforeCreatureSelectLevel", "de/dfd/a10578.html#a136f18625787127115566bb4625fc490", null ],
+    [ "OnCreatureAddWorld", "de/dfd/a10578.html#aa5ba65ba430a95724a814311382c9a67", null ],
+    [ "OnCreatureRemoveWorld", "de/dfd/a10578.html#aba119c6b59f3dd4a489bb227c1b1208d", null ],
+    [ "OnCreatureSaveToDB", "de/dfd/a10578.html#acad4f67abbd5906f38be136be2ae1f53", null ],
+    [ "OnCreatureSelectLevel", "de/dfd/a10578.html#a72e4b4f205e153cb72c3401028b065c9", null ],
+    [ "OnFfaPvpStateUpdate", "de/dfd/a10578.html#a8022ccb5b3d0b6d900512f3d8ea6dbfa", null ]
 ];

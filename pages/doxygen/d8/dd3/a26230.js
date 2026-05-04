@@ -1,6 +1,7 @@
 var a26230 =
 [
-    [ "CalculateAmount", "d8/dd3/a26230.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
-    [ "PrepareAuraScript", "d8/dd3/a26230.html#a667883298cee173af941cfc07022f318", null ],
-    [ "Register", "d8/dd3/a26230.html#a22514461b79f736e3ab595fa7fb48b68", null ]
+    [ "PrepareSpellScript", "d8/dd3/a26230.html#ade3a3f956ae8be922bd1d2204919d360", null ],
+    [ "Register", "d8/dd3/a26230.html#a71d397da4a4804cf6023806c15e8bedf", null ],
+    [ "TriggerHypothermia", "d8/dd3/a26230.html#af40f92afae93778e477c50ddf18c8adc", null ],
+    [ "Validate", "d8/dd3/a26230.html#a1f0cef532c2bd13d94e647722f85457a", null ]
 ];

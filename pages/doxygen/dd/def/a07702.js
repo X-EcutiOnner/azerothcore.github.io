@@ -1,11 +1,10 @@
 var a07702 =
 [
-    [ "BattlegroundICScore", "dd/def/a07702.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
-    [ "BuildObjectivesBlock", "dd/def/a07702.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
-    [ "GetAttr1", "dd/def/a07702.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
-    [ "GetAttr2", "dd/def/a07702.html#a758fa51038f232c7d65cd0168a4608c2", null ],
-    [ "UpdateScore", "dd/def/a07702.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
-    [ "BattlegroundIC", "dd/def/a07702.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
-    [ "BasesAssaulted", "dd/def/a07702.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
-    [ "BasesDefended", "dd/def/a07702.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
+    [ "BattlegroundEYCapturingPointStruct", "dd/def/a07702.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
+    [ "DespawnNeutralObjectType", "dd/def/a07702.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
+    [ "GraveyardId", "dd/def/a07702.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
+    [ "MessageIdAlliance", "dd/def/a07702.html#af3295d59367354a4ddaac12258e793b8", null ],
+    [ "MessageIdHorde", "dd/def/a07702.html#a5c82eae433ee69b5bda8c96049a06422", null ],
+    [ "SpawnObjectTypeAlliance", "dd/def/a07702.html#aeeeecdf09990c74ffc868a135854d49b", null ],
+    [ "SpawnObjectTypeHorde", "dd/def/a07702.html#a4b25984504b15c7249d2e5866ad35962", null ]
 ];

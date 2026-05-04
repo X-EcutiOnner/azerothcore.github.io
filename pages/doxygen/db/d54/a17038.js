@@ -1,7 +1,5 @@
 var a17038 =
 [
-    [ "HandlePeriodicTick", "db/d54/a17038.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
-    [ "PrepareAuraScript", "db/d54/a17038.html#a93e894c642101160dd51f30952c82d24", null ],
-    [ "Register", "db/d54/a17038.html#a49172ede0f888e391b9b4a835475220a", null ],
-    [ "Validate", "db/d54/a17038.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
+    [ "achievement_consumption_junction", "db/d54/a17038.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "db/d54/a17038.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

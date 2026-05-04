@@ -1,14 +1,8 @@
 var a15998 =
 [
-    [ "npc_ringoAI", "db/d00/a15998.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "db/d00/a15998.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "db/d00/a15998.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "db/d00/a15998.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "db/d00/a15998.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "db/d00/a15998.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "db/d00/a15998.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "db/d00/a15998.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "db/d00/a15998.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "db/d00/a15998.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "db/d00/a15998.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "npc_pluckyAI", "da/d8a/a16002.html", "da/d8a/a16002" ],
+    [ "npc_plucky", "db/d00/a15998.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "db/d00/a15998.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "db/d00/a15998.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "db/d00/a15998.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

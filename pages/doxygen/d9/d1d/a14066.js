@@ -1,5 +1,7 @@
 var a14066 =
 [
-    [ "npc_andorhal_towerAI", "d9/d1d/a14066.html#ad2f8a14f2adfe1418a23de274493f85e", null ],
-    [ "MoveInLineOfSight", "d9/d1d/a14066.html#a1165ee0e066dcaeb300096e55758389b", null ]
+    [ "HandleScript", "d9/d1d/a14066.html#acd4373ab762d00d262984c36190d6f93", null ],
+    [ "PrepareSpellScript", "d9/d1d/a14066.html#a113216b272d0386f248a75bfcf30c6a3", null ],
+    [ "Register", "d9/d1d/a14066.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
+    [ "Validate", "d9/d1d/a14066.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
 ];

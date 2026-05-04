@@ -1,6 +1,5 @@
 var a27574 =
 [
-    [ "FilterTargets", "d8/dfe/a27574.html#a6224b3193474f569d09edaf29b40c2fb", null ],
-    [ "PrepareSpellScript", "d8/dfe/a27574.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
-    [ "Register", "d8/dfe/a27574.html#a2fab1592d19331239b1ef63045389886", null ]
+    [ "achievement_save_the_day", "d8/dfe/a27574.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "d8/dfe/a27574.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

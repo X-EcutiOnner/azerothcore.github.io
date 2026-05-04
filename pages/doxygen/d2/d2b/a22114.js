@@ -1,6 +1,8 @@
 var a22114 =
 [
-    [ "HandlePeriodicDummy", "d2/d2b/a22114.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d2/d2b/a22114.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d2/d2b/a22114.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "HandleApply", "d2/d2b/a22114.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "d2/d2b/a22114.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "d2/d2b/a22114.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "d2/d2b/a22114.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "d2/d2b/a22114.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

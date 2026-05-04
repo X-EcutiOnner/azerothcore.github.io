@@ -1,11 +1,8 @@
 var a19930 =
 [
-    [ "boss_flame_leviathan_seat", "db/da7/a19930.html#a2fc2adc846b2939cf633bf47b4307896", null ],
-    [ "AttackStart", "db/da7/a19930.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
-    [ "EnterEvadeMode", "db/da7/a19930.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
-    [ "PassengerBoarded", "db/da7/a19930.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
-    [ "Reset", "db/da7/a19930.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
-    [ "UpdateAI", "db/da7/a19930.html#a303c50b5684410013f95b0202ea33c8e", null ],
-    [ "_despawnTimer", "db/da7/a19930.html#afe673a7903cffa7acefb725d52efb08a", null ],
-    [ "vehicle", "db/da7/a19930.html#a9772b52283f16120dbefb5d218844c38", null ]
+    [ "OnPeriodic", "db/da7/a19930.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
+    [ "OnRemove", "db/da7/a19930.html#ac6d961793ddb6423540da9d97e016b82", null ],
+    [ "PrepareAuraScript", "db/da7/a19930.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
+    [ "Register", "db/da7/a19930.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
+    [ "Validate", "db/da7/a19930.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
 ];

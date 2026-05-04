@@ -1,16 +1,9 @@
 var a13594 =
 [
-    [ "boss_felmyst", "dc/de8/a13594.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
-    [ "InitializeAI", "dc/de8/a13594.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
-    [ "JustDied", "dc/de8/a13594.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
-    [ "JustEngagedWith", "dc/de8/a13594.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
-    [ "KilledUnit", "dc/de8/a13594.html#a0233ebbcbb21d100425ac76223e839be", null ],
-    [ "MovementInform", "dc/de8/a13594.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
-    [ "Reset", "dc/de8/a13594.html#ae5181c789809a859edb40488e206c0d3", null ],
-    [ "ScheduleGroundAbilities", "dc/de8/a13594.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
-    [ "SpellHitTarget", "dc/de8/a13594.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
-    [ "StartIntro", "dc/de8/a13594.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
-    [ "UpdateAI", "dc/de8/a13594.html#a0e429d8cf49946c0232b9c405c340356", null ],
-    [ "_currentLane", "dc/de8/a13594.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
-    [ "_strafeCount", "dc/de8/a13594.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
+    [ "spell_eredar_twins_apply_touch", "dc/de8/a13594.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
+    [ "HandleApplyTouch", "dc/de8/a13594.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
+    [ "PrepareSpellScript", "dc/de8/a13594.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
+    [ "Register", "dc/de8/a13594.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
+    [ "Validate", "dc/de8/a13594.html#a36ff1d126191de7880d98242b3b714b5", null ],
+    [ "_touchSpell", "dc/de8/a13594.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
 ];

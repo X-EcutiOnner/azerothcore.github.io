@@ -1,6 +1,11 @@
 var a16226 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d5/dd5/a16226.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureEvade", "d5/dd5/a16226.html#af163238686bf22f11908f64ffb5cacca", null ],
-    [ "OnUnitDeath", "d5/dd5/a16226.html#a45792f7c2d1a042d68907a0f475634d1", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d5/dd5/a16226.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
+    [ "HandlePeriodic", "d5/dd5/a16226.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "d5/dd5/a16226.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d5/dd5/a16226.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d5/dd5/a16226.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d5/dd5/a16226.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d5/dd5/a16226.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
+    [ "_spellEntry", "d5/dd5/a16226.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

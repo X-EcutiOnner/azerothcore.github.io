@@ -1,8 +1,10 @@
 var a11102 =
 [
-    [ "SetDungeonDifficulty", "d3/ddb/a11102.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
-    [ "Write", "d3/ddb/a11102.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
-    [ "Difficulty", "d3/ddb/a11102.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
-    [ "IsInGroup", "d3/ddb/a11102.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
-    [ "Unk", "d3/ddb/a11102.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
+    [ "Count", "d3/ddb/a11102.html#a97b56650a40ff3d39c6281d43261f06f", null ],
+    [ "EntryType", "d3/ddb/a11102.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
+    [ "ItemID", "d3/ddb/a11102.html#a1daad03864355f94d90315fea68892d4", null ],
+    [ "Money", "d3/ddb/a11102.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
+    [ "OtherTab", "d3/ddb/a11102.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
+    [ "PlayerGUID", "d3/ddb/a11102.html#a90e01e455d373204617b2747ca95fe04", null ],
+    [ "TimeOffset", "d3/ddb/a11102.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
 ];

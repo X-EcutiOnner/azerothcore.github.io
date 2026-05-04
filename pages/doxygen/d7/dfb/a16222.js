@@ -1,6 +1,6 @@
 var a16222 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d5/dd5/a16226.html", "d5/dd5/a16226" ],
-    [ "instance_azjol_nerub", "d7/dfb/a16222.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "d7/dfb/a16222.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "npc_anub_ar_crusher_necromancer", "d7/dfb/a16222.html#a469d30b357551c4ce77f040bea79e951", null ],
+    [ "DoEngagedWith", "d7/dfb/a16222.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
+    [ "DoEvent", "d7/dfb/a16222.html#a67889b3a207ab26b7895e2f7996359b1", null ]
 ];

@@ -1,14 +1,15 @@
 var a12446 =
 [
-    [ "boss_general_angerforge", "dd/d2c/a12446.html#a0f65a3a8acdca0361f468538b4c8bb5e", null ],
-    [ "JustEngagedWith", "dd/d2c/a12446.html#a5b2e7aead30ad3c07786c616c0b2f44e", null ],
-    [ "Reset", "dd/d2c/a12446.html#a8f05f134eb43a6812bc2d41734d2429e", null ],
-    [ "SummonAdds", "dd/d2c/a12446.html#a723891cc60b4d84b29d395e4ddffff57", null ],
-    [ "SummonMedics", "dd/d2c/a12446.html#ac21b4424cdf3e5e336970e1f8d5aea98", null ],
-    [ "UpdateAI", "dd/d2c/a12446.html#ae37de4567bf4a03779a87e9d650ac1ea", null ],
-    [ "_addsTimer", "dd/d2c/a12446.html#a1ddffcd960d1c06ade7b6de70faeb46d", null ],
-    [ "_cleaveTimer", "dd/d2c/a12446.html#a47958223deb7aa97aaf331bdffd9dd2d", null ],
-    [ "_hamStringTimer", "dd/d2c/a12446.html#adaa360262079ea390077cea70e401da5", null ],
-    [ "_medics", "dd/d2c/a12446.html#ac1039c144c16e70818a199d91cace370", null ],
-    [ "_mightyBlowTimer", "dd/d2c/a12446.html#a7bd4ccf9648804c972dec5d7a35eaaa4", null ]
+    [ "boss_vanndarAI", "dd/d2c/a12446.html#ada061b4363340602fd1f4744433d9cf9", null ],
+    [ "AttackStart", "dd/d2c/a12446.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
+    [ "EnterEvadeMode", "dd/d2c/a12446.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
+    [ "JustEngagedWith", "dd/d2c/a12446.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
+    [ "Reset", "dd/d2c/a12446.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
+    [ "UpdateAI", "dd/d2c/a12446.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
+    [ "Attacked", "dd/d2c/a12446.html#ac5994c76a9d84cf303021a9298673d68", null ],
+    [ "AvatarTimer", "dd/d2c/a12446.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
+    [ "ResetTimer", "dd/d2c/a12446.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
+    [ "StormboltTimer", "dd/d2c/a12446.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
+    [ "ThunderclapTimer", "dd/d2c/a12446.html#a681a103b6cf937dad3fb15e5be358c26", null ],
+    [ "YellTimer", "dd/d2c/a12446.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
 ];

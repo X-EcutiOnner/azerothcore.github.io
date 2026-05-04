@@ -1,8 +1,8 @@
 var a17058 =
 [
-    [ "npc_fos_leaderAI", "db/db5/a17058.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "db/db5/a17058.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "db/db5/a17058.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "db/db5/a17058.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "db/db5/a17058.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "npc_fos_corrupted_soul_fragment", "db/db5/a17058.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
+    [ "Reset", "db/db5/a17058.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
+    [ "UpdateAI", "db/db5/a17058.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
+    [ "Instance", "db/db5/a17058.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
+    [ "Timer", "db/db5/a17058.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
 ];

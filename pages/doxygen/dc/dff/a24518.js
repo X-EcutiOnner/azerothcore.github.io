@@ -1,8 +1,8 @@
 var a24518 =
 [
-    [ "AfterApply", "dc/dff/a24518.html#a4d2941ebb326d603ac08f428f811c29b", null ],
-    [ "AfterRemove", "dc/dff/a24518.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
-    [ "PrepareAuraScript", "dc/dff/a24518.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
-    [ "Register", "dc/dff/a24518.html#a78e30a950b9fc08dff5072028816b8b4", null ],
-    [ "Validate", "dc/dff/a24518.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
+    [ "CheckProc", "dc/dff/a24518.html#ab960abbaa9d2728ff1c471e491844e2f", null ],
+    [ "HandleProc", "dc/dff/a24518.html#a23746c343ca01160b73822e3457514d5", null ],
+    [ "PrepareAuraScript", "dc/dff/a24518.html#a2ddb4cb53c7aabb8e1e09eb1036fafe0", null ],
+    [ "Register", "dc/dff/a24518.html#a78dbfa8833c8f8958e8e9a38cc9812a7", null ],
+    [ "Validate", "dc/dff/a24518.html#a715de16d0510d8b2cbd9e281c3e3274a", null ]
 ];

@@ -1,11 +1,8 @@
 var a12550 =
 [
-    [ "boss_solakar_flamewreath", "de/d7d/a12550.html#aff732901de1306b363e5a3d9994b3c9b", null ],
-    [ "ExecuteEvent", "de/d7d/a12550.html#a72bf587aae341ba70bd219c8d97fe9a1", null ],
-    [ "InitializeAI", "de/d7d/a12550.html#a21875946b8e9cfa8711f36f98a61a034", null ],
-    [ "JustDied", "de/d7d/a12550.html#ae4d59238a359487e44985e040ee27732", null ],
-    [ "JustEngagedWith", "de/d7d/a12550.html#af6a0c97341547ea852d9a09d3b66358e", null ],
-    [ "Reset", "de/d7d/a12550.html#ae83c926a718af8ee0d90b8a9be800031", null ],
-    [ "UpdateAI", "de/d7d/a12550.html#ad211f24ce4019724060441529ceaa780", null ],
-    [ "resetTimer", "de/d7d/a12550.html#a602092d8262420bc51eef286b7c96d84", null ]
+    [ "boss_drakkisath", "de/d7d/a12550.html#a77fdb667d0dc262dcacc5e988cf5fc8e", null ],
+    [ "JustEngagedWith", "de/d7d/a12550.html#a502ca053bb96215c8386ee694a963cfa", null ],
+    [ "UpdateAI", "de/d7d/a12550.html#a90bf913d6d94e5fc6d982049dd96e3b1", null ],
+    [ "_conflagrateTarget", "de/d7d/a12550.html#aec0bd29626d8b59e33bfba370788ac40", null ],
+    [ "_conflagrateThreat", "de/d7d/a12550.html#ac1cb21a95bbfcfbffc5a3046b233c183", null ]
 ];

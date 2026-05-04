@@ -1,7 +1,6 @@
 var a24874 =
 [
-    [ "HandleScript", "db/d83/a24874.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
-    [ "PrepareSpellScript", "db/d83/a24874.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
-    [ "Register", "db/d83/a24874.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
-    [ "Validate", "db/d83/a24874.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
+    [ "CheckRequirement", "db/d83/a24874.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
+    [ "PrepareSpellScript", "db/d83/a24874.html#a859ac50e6774471c232113e5c007f602", null ],
+    [ "Register", "db/d83/a24874.html#aceafb7d6cfa300011935026f4d7ac491", null ]
 ];

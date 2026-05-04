@@ -1,7 +1,9 @@
 var a17906 =
 [
-    [ "PrepareSpellScript", "d0/d9b/a17906.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "d0/d9b/a17906.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "d0/d9b/a17906.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "d0/d9b/a17906.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "HandleApply", "d0/d9b/a17906.html#a5f23d41765ec949486094a0da45be7e8", null ],
+    [ "HandleRemove", "d0/d9b/a17906.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
+    [ "Load", "d0/d9b/a17906.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
+    [ "PrepareAuraScript", "d0/d9b/a17906.html#aabf5fdf4578935db11e041e638fba187", null ],
+    [ "Register", "d0/d9b/a17906.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
+    [ "SendClientControl", "d0/d9b/a17906.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
 ];

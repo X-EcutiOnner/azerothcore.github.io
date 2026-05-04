@@ -1,7 +1,6 @@
 var a10622 =
 [
-    [ "GameEventScript", "dc/d72/a10622.html#ac43a9c70638ad56b69b5841ee8410374", null ],
-    [ "OnEventCheck", "dc/d72/a10622.html#aadab9593da561e9b19202d09b53cba36", null ],
-    [ "OnStart", "dc/d72/a10622.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
-    [ "OnStop", "dc/d72/a10622.html#a4813f26f03e5ba79a740bf30558e604c", null ]
+    [ "BattlegroundMapScript", "dc/d72/a10622.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
+    [ "checkValidity", "dc/d72/a10622.html#a90584770132eb71cffc6e25a674750ad", null ],
+    [ "isAfterLoadScript", "dc/d72/a10622.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
 ];

@@ -1,7 +1,6 @@
 var a11134 =
 [
-    [ "SwapInventoryItem", "d3/d4b/a11134.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
-    [ "Read", "d3/d4b/a11134.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
-    [ "DestinationSlot", "d3/d4b/a11134.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
-    [ "SourceSlot", "d3/d4b/a11134.html#a59117b7ce21919acc55b3da079050dc3", null ]
+    [ "InstanceReset", "d3/d4b/a11134.html#ab1ff5009dc40f18c30941e327e5c3863", null ],
+    [ "Write", "d3/d4b/a11134.html#a0809c4de226d3aaab9817c393cef6055", null ],
+    [ "MapId", "d3/d4b/a11134.html#a7b80bb32e524fe1d0ddadf955f1ec4a2", null ]
 ];

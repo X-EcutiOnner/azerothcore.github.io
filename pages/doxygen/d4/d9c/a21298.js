@@ -1,7 +1,7 @@
 var a21298 =
 [
-    [ "npc_bonker_togglevoltAI", "d2/d4a/a21302.html", "d2/d4a/a21302" ],
-    [ "npc_bonker_togglevolt", "d4/d9c/a21298.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
-    [ "GetAI", "d4/d9c/a21298.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
-    [ "OnQuestAccept", "d4/d9c/a21298.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
+    [ "HandleProc", "d4/d9c/a21298.html#aeb5b70614b266bac0792906bf89a5b97", null ],
+    [ "PrepareAuraScript", "d4/d9c/a21298.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
+    [ "Register", "d4/d9c/a21298.html#a163e0099271f21362deeb1ba1f169f3f", null ],
+    [ "Validate", "d4/d9c/a21298.html#abdb889e4c6d19f756c143d7b36f82257", null ]
 ];

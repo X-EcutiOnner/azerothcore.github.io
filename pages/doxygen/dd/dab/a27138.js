@@ -1,9 +1,8 @@
 var a27138 =
 [
-    [ "HandleHeal", "dd/dab/a27138.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "dd/dab/a27138.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "dd/dab/a27138.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "dd/dab/a27138.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "dd/dab/a27138.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "dd/dab/a27138.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "CheckProc", "dd/dab/a27138.html#a9fedf04ae5a49ad2f2b0c9f34f5813f6", null ],
+    [ "HandleProc", "dd/dab/a27138.html#ad41f37b773e528385151f8059974b821", null ],
+    [ "PrepareAuraScript", "dd/dab/a27138.html#acd65db816c8562108272e6849481f0ca", null ],
+    [ "Register", "dd/dab/a27138.html#a56d85b502b6660ab4ecccc92dd799720", null ],
+    [ "Validate", "dd/dab/a27138.html#aa722dde17ef9142578d50b19b8c4c8e5", null ]
 ];

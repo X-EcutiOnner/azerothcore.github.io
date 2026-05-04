@@ -1,11 +1,10 @@
 var a08926 =
 [
-    [ "FriendInfo", "d0/d16/a08926.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "d0/d16/a08926.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "d0/d16/a08926.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "d0/d16/a08926.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "d0/d16/a08926.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "d0/d16/a08926.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "d0/d16/a08926.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "d0/d16/a08926.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "TradeStatusInfo", "d0/d16/a08926.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
+    [ "IsTargetResult", "d0/d16/a08926.html#a10427d72e5bafd643648638a1fe7e854", null ],
+    [ "ItemLimitedByLimitCategory", "d0/d16/a08926.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
+    [ "Result", "d0/d16/a08926.html#ac90552353a0fb8ff175fec99bf573981", null ],
+    [ "Slot", "d0/d16/a08926.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
+    [ "Status", "d0/d16/a08926.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
+    [ "TraderGuid", "d0/d16/a08926.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
 ];

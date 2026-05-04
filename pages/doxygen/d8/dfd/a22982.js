@@ -1,10 +1,7 @@
 var a22982 =
 [
-    [ "npc_frozen_core", "d8/dfd/a22982.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "d8/dfd/a22982.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "d8/dfd/a22982.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "d8/dfd/a22982.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "d8/dfd/a22982.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "d8/dfd/a22982.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "d8/dfd/a22982.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "HandleScriptEffect", "d8/dfd/a22982.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "d8/dfd/a22982.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "d8/dfd/a22982.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "d8/dfd/a22982.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

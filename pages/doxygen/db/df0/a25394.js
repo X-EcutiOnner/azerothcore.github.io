@@ -1,8 +1,5 @@
 var a25394 =
 [
-    [ "HandleFinish", "db/df0/a25394.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "db/df0/a25394.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "db/df0/a25394.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "db/df0/a25394.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "db/df0/a25394.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "PrepareSpellScript", "db/df0/a25394.html#a9137654c01f41c735f477b85e4ec6d73", null ],
+    [ "Register", "db/df0/a25394.html#af1002e90bc0801c0759393d2d4af8778", null ]
 ];

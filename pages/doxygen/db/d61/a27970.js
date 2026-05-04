@@ -1,6 +1,5 @@
 var a27970 =
 [
-    [ "go_fel_crystalforge", "db/d61/a27970.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "db/d61/a27970.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "db/d61/a27970.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "item_incendiary_explosives", "db/d61/a27970.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "db/d61/a27970.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

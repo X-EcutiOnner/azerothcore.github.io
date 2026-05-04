@@ -1,7 +1,11 @@
 var a20094 =
 [
-    [ "npc_ulduar_saronite_vapors", "dd/d59/a20094.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "IsSummonedBy", "dd/d59/a20094.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
-    [ "JustDied", "dd/d59/a20094.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "dd/d59/a20094.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "boss_freya_elder_brightleaf", "dd/d59/a20094.html#a7454f4dec1f1ccc471f42eeee513f272", null ],
+    [ "JustDied", "dd/d59/a20094.html#a98aed4b2a4ebf10c807d9bb54c65a273", null ],
+    [ "JustEngagedWith", "dd/d59/a20094.html#ad0f003e5b57b7c7df4b860df2f8e1e85", null ],
+    [ "KilledUnit", "dd/d59/a20094.html#a3c45c1c87f793cb4dbd447065b09d108", null ],
+    [ "Reset", "dd/d59/a20094.html#ae9687c330856da6d5e7bed9bccbe8e52", null ],
+    [ "UpdateAI", "dd/d59/a20094.html#aa53a5a5ada35c8717c58553b397d58d9", null ],
+    [ "events", "dd/d59/a20094.html#aaa459ae8f2e0f83330359d45259d9f79", null ],
+    [ "summons", "dd/d59/a20094.html#a0c11c362ecc29e91f21c87ca0fb3d92e", null ]
 ];

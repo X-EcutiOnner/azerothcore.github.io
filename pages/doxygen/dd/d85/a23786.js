@@ -1,5 +1,6 @@
 var a23786 =
 [
-    [ "go_warmaul_prison", "dd/d85/a23786.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "dd/d85/a23786.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "npc_invis_infernal_casterAI", "db/dbd/a23790.html", "db/dbd/a23790" ],
+    [ "npc_invis_infernal_caster", "dd/d85/a23786.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "dd/d85/a23786.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

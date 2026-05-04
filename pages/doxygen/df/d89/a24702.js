@@ -1,5 +1,6 @@
 var a24702 =
 [
-    [ "PrepareSpellScript", "df/d89/a24702.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
-    [ "Register", "df/d89/a24702.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
+    [ "CheckLevel", "df/d89/a24702.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "df/d89/a24702.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "df/d89/a24702.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

@@ -1,6 +1,5 @@
 var a13226 =
 [
-    [ "npc_scarlet_ghoulAI", "d6/d6b/a13230.html", "d6/d6b/a13230" ],
-    [ "npc_scarlet_ghoul", "d1/d15/a13226.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d1/d15/a13226.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "boss_yazzai", "d1/d15/a13226.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
+    [ "JustEngagedWith", "d1/d15/a13226.html#ab504de0e51a3715485eb65e006352a6f", null ]
 ];

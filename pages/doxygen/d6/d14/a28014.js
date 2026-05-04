@@ -1,5 +1,7 @@
 var a28014 =
 [
-    [ "go_massive_seaforium_charge", "d6/d14/a28014.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "d6/d14/a28014.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "npc_engineering_tele_trinket", "d6/d14/a28014.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "d6/d14/a28014.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "d6/d14/a28014.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "d6/d14/a28014.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

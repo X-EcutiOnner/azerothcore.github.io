@@ -1,6 +1,7 @@
 var a18178 =
 [
-    [ "ExtraRemoveEffect", "df/d3d/a18178.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "df/d3d/a18178.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "df/d3d/a18178.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "HandleProc", "df/d3d/a18178.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
+    [ "PrepareAuraScript", "df/d3d/a18178.html#a5eace3a973165eb82ae95b8052bb9476", null ],
+    [ "Register", "df/d3d/a18178.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
+    [ "Validate", "df/d3d/a18178.html#ad2a7488006b16840e02b450cc9150289", null ]
 ];

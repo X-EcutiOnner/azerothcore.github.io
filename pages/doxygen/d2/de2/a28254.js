@@ -1,7 +1,9 @@
 var a28254 =
 [
-    [ "npc_steam_tonkAI", "d2/de2/a28254.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "d2/de2/a28254.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "d2/de2/a28254.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "d2/de2/a28254.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "npc_herald_of_the_lich_king", "d2/de2/a28254.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "d2/de2/a28254.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "d2/de2/a28254.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "d2/de2/a28254.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "d2/de2/a28254.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "d2/de2/a28254.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

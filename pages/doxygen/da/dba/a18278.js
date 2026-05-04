@@ -1,5 +1,11 @@
 var a18278 =
 [
-    [ "operator()", "da/dba/a18278.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "da/dba/a18278.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "npc_ice_tombAI", "da/dba/a18278.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "da/dba/a18278.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "da/dba/a18278.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "da/dba/a18278.html#ac406bece1d1f1517b5837e311feef9ae", null ],
+    [ "UpdateAI", "da/dba/a18278.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "da/dba/a18278.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "da/dba/a18278.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "da/dba/a18278.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

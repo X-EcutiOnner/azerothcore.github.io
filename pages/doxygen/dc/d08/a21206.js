@@ -1,6 +1,5 @@
 var a21206 =
 [
-    [ "npc_azure_captainAI", "de/dff/a21210.html", "de/dff/a21210" ],
-    [ "npc_azure_captain", "dc/d08/a21206.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "dc/d08/a21206.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "npc_khunok_the_behemothAI", "dc/d08/a21206.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
+    [ "MoveInLineOfSight", "dc/d08/a21206.html#a5d54954a159da764aa7b83579e03688c", null ]
 ];

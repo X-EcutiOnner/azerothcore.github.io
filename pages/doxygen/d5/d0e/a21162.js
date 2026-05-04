@@ -1,10 +1,7 @@
 var a21162 =
 [
-    [ "npc_azure_invaderAI", "d5/d0e/a21162.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "d5/d0e/a21162.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "d5/d0e/a21162.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "d5/d0e/a21162.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "d5/d0e/a21162.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "d5/d0e/a21162.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "d5/d0e/a21162.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "npc_azure_stalker", "d5/d0e/a21162.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
+    [ "Reset", "d5/d0e/a21162.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
+    [ "UpdateAI", "d5/d0e/a21162.html#a22352aad7c55a4d454b9732469395139", null ],
+    [ "_events", "d5/d0e/a21162.html#ad83249d787d2f763ac2d01723ff305ef", null ]
 ];

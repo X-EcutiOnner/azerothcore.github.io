@@ -1,11 +1,13 @@
 var a12230 =
 [
-    [ "lfg_commandscript", "d6/da0/a12230.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "d6/da0/a12230.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "d6/da0/a12230.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgCooldownClearCommand", "d6/da0/a12230.html#a0e399ec509b9f419b7f034cc95409f7b", null ],
-    [ "HandleLfgGroupInfoCommand", "d6/da0/a12230.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "d6/da0/a12230.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "d6/da0/a12230.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "d6/da0/a12230.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "gm_commandscript", "d6/da0/a12230.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "d6/da0/a12230.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "d6/da0/a12230.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "d6/da0/a12230.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "d6/da0/a12230.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "d6/da0/a12230.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "d6/da0/a12230.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "d6/da0/a12230.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "d6/da0/a12230.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
+    [ "HandleGMVisibleCommand", "d6/da0/a12230.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

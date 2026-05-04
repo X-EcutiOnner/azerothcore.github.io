@@ -1,6 +1,7 @@
 var a27370 =
 [
-    [ "HandleBanish", "df/d34/a27370.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "df/d34/a27370.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "df/d34/a27370.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "CalculateAmount", "df/d34/a27370.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "df/d34/a27370.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "df/d34/a27370.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "df/d34/a27370.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

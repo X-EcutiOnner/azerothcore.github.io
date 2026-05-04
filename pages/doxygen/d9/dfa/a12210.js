@@ -1,8 +1,8 @@
 var a12210 =
 [
-    [ "honor_commandscript", "d9/dfa/a12210.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
-    [ "GetCommands", "d9/dfa/a12210.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
-    [ "HandleHonorAddCommand", "d9/dfa/a12210.html#a03caa77b436e3d513e1325badf05df33", null ],
-    [ "HandleHonorAddKillCommand", "d9/dfa/a12210.html#aec79f459796d821a032477827e16308a", null ],
-    [ "HandleHonorUpdateCommand", "d9/dfa/a12210.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
+    [ "CreatureCountWorker", "d9/dfa/a12210.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "d9/dfa/a12210.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "d9/dfa/a12210.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "d9/dfa/a12210.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "d9/dfa/a12210.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

@@ -1,20 +1,10 @@
 var a08238 =
 [
-    [ "LFGDungeonData", "de/d8b/a08238.html#af609ccb3be2e80fa6cd0339f91f6d094", null ],
-    [ "LFGDungeonData", "de/d8b/a08238.html#ada24faec77a2174bd436535eb283ebc2", null ],
-    [ "Entry", "de/d8b/a08238.html#ad421a384c1e1c37ff897cc50421fe3d9", null ],
-    [ "difficulty", "de/d8b/a08238.html#a310b9d83b84a6f8896ac62b89ca16be3", null ],
-    [ "expansion", "de/d8b/a08238.html#a0d5bc7c615666f52aca24ee34d849992", null ],
-    [ "group", "de/d8b/a08238.html#a8791fcc476a5ebec99327f497f53db04", null ],
-    [ "id", "de/d8b/a08238.html#ae25732254c64f1a2bca8a938a240e509", null ],
-    [ "map", "de/d8b/a08238.html#ac981fbb0aaf96ea75482273c50bc53e7", null ],
-    [ "maxlevel", "de/d8b/a08238.html#a9419e8826804b6d0a2c8b65de3b513dd", null ],
-    [ "minlevel", "de/d8b/a08238.html#a4ef8f3bbf52a2ac8c45eeaa61aa22e2d", null ],
-    [ "name", "de/d8b/a08238.html#a6eef80ccf8defe89696cec1675033ea2", null ],
-    [ "o", "de/d8b/a08238.html#a42dd178512ebfbba612889f3ff5384bb", null ],
-    [ "seasonal", "de/d8b/a08238.html#ad8b1d936512ebb1075fe2a15f29abff1", null ],
-    [ "type", "de/d8b/a08238.html#aaea170ae5069dc46022652bfacd22edf", null ],
-    [ "x", "de/d8b/a08238.html#a90ca0afe02dfe5aa50bfd378e38de865", null ],
-    [ "y", "de/d8b/a08238.html#a32ef5d26a8c16690889eed2e3e230de1", null ],
-    [ "z", "de/d8b/a08238.html#a7ec9ddbd30f0cd2c602cfef7d2eb8956", null ]
+    [ "LfgUpdateData", "de/d8b/a08238.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "de/d8b/a08238.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "de/d8b/a08238.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "de/d8b/a08238.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "de/d8b/a08238.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "de/d8b/a08238.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "de/d8b/a08238.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

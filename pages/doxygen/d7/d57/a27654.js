@@ -1,5 +1,5 @@
 var a27654 =
 [
-    [ "achievement_bg_control_all_nodes", "d7/d57/a27654.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "d7/d57/a27654.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "AreaTrigger_at_stormwright_shelf", "d7/d57/a27654.html#a97cdf51a8992b3d9edc138351770fd75", null ],
+    [ "OnTrigger", "d7/d57/a27654.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
 ];

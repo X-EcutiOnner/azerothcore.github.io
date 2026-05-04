@@ -1,21 +1,8 @@
 var a04604 =
 [
-    [ "MmapTileRecastConfig", "d4/d21/a05245.html", "d4/d21/a05245" ],
-    [ "MmapTileHeader", "dc/d42/a05249.html", "dc/d42/a05249" ],
-    [ "MAX_NUMBER_OF_CELLS", "dd/d03/a04604.html#a2c6994ea025f427f1485c1c7aaee01fe", null ],
-    [ "MAX_NUMBER_OF_GRIDS", "dd/d03/a04604.html#a857252154f120575d940ffbdf63bace6", null ],
-    [ "MMAP_MAGIC", "dd/d03/a04604.html#af7a9a5e840ab3ad1c160e832500016d1", null ],
-    [ "MMAP_VERSION", "dd/d03/a04604.html#aea71555fdd0af33ccc21c76c67574421", null ],
-    [ "SIZE_OF_GRIDS", "dd/d03/a04604.html#a55c9adba46c0c14cd4ac80ab51228816", null ],
-    [ "NavTerrain", "dd/d03/a04604.html#a8a4d0b36dd46d60b691b894fb8c1c5db", [
-      [ "NAV_EMPTY", "dd/d03/a04604.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5", null ],
-      [ "NAV_GROUND", "dd/d03/a04604.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98", null ],
-      [ "NAV_MAGMA", "dd/d03/a04604.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670", null ],
-      [ "NAV_SLIME", "dd/d03/a04604.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75", null ],
-      [ "NAV_WATER", "dd/d03/a04604.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1", null ],
-      [ "NAV_UNUSED1", "dd/d03/a04604.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03", null ],
-      [ "NAV_UNUSED2", "dd/d03/a04604.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb", null ],
-      [ "NAV_UNUSED3", "dd/d03/a04604.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530", null ],
-      [ "NAV_UNUSED4", "dd/d03/a04604.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56", null ]
-    ] ]
+    [ "LIQUID_TILE_SIZE", "dd/d03/a04604.html#a1596e8a465c0638086c77467a2dde3a6", null ],
+    [ "readChunk", "dd/d03/a04604.html#a166f3eeee53079ac9df4f15ccd577974", null ],
+    [ "GAMEOBJECT_MODELS", "dd/d03/a04604.html#ada4191301386f881525b3f0b0760cb60", null ],
+    [ "RAW_VMAP_MAGIC", "dd/d03/a04604.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],
+    [ "VMAP_MAGIC", "dd/d03/a04604.html#aa7e5a571fdcb9d62ceefdcf5744746cb", null ]
 ];

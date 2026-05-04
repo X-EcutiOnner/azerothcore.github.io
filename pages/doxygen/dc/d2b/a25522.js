@@ -1,7 +1,6 @@
 var a25522 =
 [
-    [ "HandleScriptEffect", "dc/d2b/a25522.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
-    [ "Load", "dc/d2b/a25522.html#af89783564da25769be15e22291717f6a", null ],
-    [ "PrepareSpellScript", "dc/d2b/a25522.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
-    [ "Register", "dc/d2b/a25522.html#addbe722d9f3727578f817789e3010bab", null ]
+    [ "HandleSummon", "dc/d2b/a25522.html#ad1ee0eb347454d50216610a266226d68", null ],
+    [ "PrepareSpellScript", "dc/d2b/a25522.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
+    [ "Register", "dc/d2b/a25522.html#aa145041af68291f107c3ff11ce15b85e", null ]
 ];

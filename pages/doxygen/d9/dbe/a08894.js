@@ -1,10 +1,6 @@
 var a08894 =
 [
-    [ "TradeStatusInfo", "d9/dbe/a08894.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
-    [ "IsTargetResult", "d9/dbe/a08894.html#a10427d72e5bafd643648638a1fe7e854", null ],
-    [ "ItemLimitedByLimitCategory", "d9/dbe/a08894.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
-    [ "Result", "d9/dbe/a08894.html#ac90552353a0fb8ff175fec99bf573981", null ],
-    [ "Slot", "d9/dbe/a08894.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
-    [ "Status", "d9/dbe/a08894.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
-    [ "TraderGuid", "d9/dbe/a08894.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
+    [ "SkillStatusData", "d9/dbe/a08894.html#a7594ceb20110da34f3aa68ac69996b94", null ],
+    [ "pos", "d9/dbe/a08894.html#a51ccb328b807f2c7fd275d843218f466", null ],
+    [ "uState", "d9/dbe/a08894.html#a232801ad25897a82739916d5be4fdc22", null ]
 ];

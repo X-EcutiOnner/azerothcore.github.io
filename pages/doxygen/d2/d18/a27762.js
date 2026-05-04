@@ -1,6 +1,6 @@
 var a27762 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "d2/d18/a27762.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "d2/d18/a27762.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "d2/d18/a27762.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "go_witherbark_totem_bundleAI", "d2/d18/a27762.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "d2/d18/a27762.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "d2/d18/a27762.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

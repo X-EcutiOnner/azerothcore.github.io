@@ -1,6 +1,9 @@
 var a21958 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d6/d59/a21962.html", "d6/d59/a21962" ],
-    [ "npc_brunnhildar_prisoner", "d4/d35/a21958.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "d4/d35/a21958.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "HandlePeriodic", "d4/d35/a21958.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "d4/d35/a21958.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "d4/d35/a21958.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "d4/d35/a21958.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "d4/d35/a21958.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "d4/d35/a21958.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

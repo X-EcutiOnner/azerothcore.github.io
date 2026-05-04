@@ -1,5 +1,8 @@
 var a15646 =
 [
-    [ "go_bristlelimb_cage", "df/dbd/a15646.html#ab965b9c529577a5e58639285fa35d3d7", null ],
-    [ "OnGossipHello", "df/dbd/a15646.html#a6f29e07550767c1c0610f46e4921503f", null ]
+    [ "npc_injured_draeneiAI", "df/dbd/a15646.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "df/dbd/a15646.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "df/dbd/a15646.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "df/dbd/a15646.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "df/dbd/a15646.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

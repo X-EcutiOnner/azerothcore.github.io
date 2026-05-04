@@ -1,8 +1,7 @@
 var a17626 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "d0/db3/a17630.html", "d0/db3/a17630" ],
-    [ "npc_muradin_bronzebeard_icc", "d6/dc9/a17626.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
-    [ "GetAI", "d6/dc9/a17626.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
-    [ "OnGossipHello", "d6/dc9/a17626.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
-    [ "OnGossipSelect", "d6/dc9/a17626.html#a46c4893be723a848d985ff55e28d55a2", null ]
+    [ "OnProc", "d6/dc9/a17626.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "d6/dc9/a17626.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "d6/dc9/a17626.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "d6/dc9/a17626.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

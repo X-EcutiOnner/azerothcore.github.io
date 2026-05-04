@@ -1,7 +1,6 @@
 var a27334 =
 [
-    [ "HandleAuraApply", "d2/da4/a27334.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "d2/da4/a27334.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "d2/da4/a27334.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "d2/da4/a27334.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "HandleAfterHit", "d2/da4/a27334.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
+    [ "PrepareSpellScript", "d2/da4/a27334.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
+    [ "Register", "d2/da4/a27334.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
 ];

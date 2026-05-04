@@ -1,9 +1,8 @@
 var a09762 =
 [
-    [ "UnitAuraCheck", "d4/d57/a09762.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "d4/d57/a09762.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "d4/d57/a09762.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "d4/d57/a09762.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "d4/d57/a09762.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "d4/d57/a09762.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "AllCreaturesOfEntryInRange", "d4/d57/a09762.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "d4/d57/a09762.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "d4/d57/a09762.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "d4/d57/a09762.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "d4/d57/a09762.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

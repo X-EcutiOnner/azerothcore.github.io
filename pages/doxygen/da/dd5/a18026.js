@@ -1,6 +1,7 @@
 var a18026 =
 [
-    [ "UnboundPlagueTargetSelector", "da/dd5/a18026.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "da/dd5/a18026.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "da/dd5/a18026.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "npc_coldflameAI", "da/dd5/a18026.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "da/dd5/a18026.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "da/dd5/a18026.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "da/dd5/a18026.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

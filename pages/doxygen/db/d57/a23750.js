@@ -1,6 +1,7 @@
 var a23750 =
 [
-    [ "go_beaconAI", "d6/d28/a23754.html", "d6/d28/a23754" ],
-    [ "go_beacon", "db/d57/a23750.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "db/d57/a23750.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_bessyAI", "d6/d28/a23754.html", "d6/d28/a23754" ],
+    [ "npc_bessy", "db/d57/a23750.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "db/d57/a23750.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "db/d57/a23750.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

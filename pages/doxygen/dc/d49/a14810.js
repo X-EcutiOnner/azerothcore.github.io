@@ -1,6 +1,7 @@
 var a14810 =
 [
-    [ "HandleDummy", "dc/d49/a14810.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "dc/d49/a14810.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "dc/d49/a14810.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "HandleEffectApply", "dc/d49/a14810.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "dc/d49/a14810.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "dc/d49/a14810.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "dc/d49/a14810.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

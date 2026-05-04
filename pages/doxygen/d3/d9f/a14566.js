@@ -1,6 +1,7 @@
 var a14566 =
 [
-    [ "PeriodicTick", "d3/d9f/a14566.html#a0832c36a9497674374b2998398bfc3a4", null ],
-    [ "PrepareAuraScript", "d3/d9f/a14566.html#a89acb64235da1ff59da90a509fbeec9d", null ],
-    [ "Register", "d3/d9f/a14566.html#aab689a2cb84dcd064736171035640584", null ]
+    [ "npc_direbrew_minion", "d3/d9f/a14566.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d3/d9f/a14566.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d3/d9f/a14566.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d3/d9f/a14566.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

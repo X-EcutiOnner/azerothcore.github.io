@@ -1,11 +1,8 @@
 var a10958 =
 [
-    [ "GuildRankTabPermissions", "d4/d62/a10962.html", "d4/d62/a10962" ],
-    [ "GuildPermissionsQueryResults", "dd/da6/a10958.html#aa643af51780fc550f3947936266d54f5", null ],
-    [ "Write", "dd/da6/a10958.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
-    [ "Flags", "dd/da6/a10958.html#a368162426ab526adafc7ecb223fdf865", null ],
-    [ "NumTabs", "dd/da6/a10958.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
-    [ "RankID", "dd/da6/a10958.html#a795ba45650991bd5c1aa03c17886d86b", null ],
-    [ "Tab", "dd/da6/a10958.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
-    [ "WithdrawGoldLimit", "dd/da6/a10958.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
+    [ "GuildCommandResult", "dd/da6/a10958.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
+    [ "Write", "dd/da6/a10958.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
+    [ "Command", "dd/da6/a10958.html#a099cf9f39c403f76971d006245b03f29", null ],
+    [ "Name", "dd/da6/a10958.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
+    [ "Result", "dd/da6/a10958.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
 ];

@@ -1,8 +1,11 @@
 var a19974 =
 [
-    [ "OnApply", "d9/d2e/a19974.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "d9/d2e/a19974.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "d9/d2e/a19974.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "d9/d2e/a19974.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "d9/d2e/a19974.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "boss_flame_leviathan_defense_turret", "d9/d2e/a19974.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
+    [ "CanAIAttack", "d9/d2e/a19974.html#a17020dc7facabb0cacac3209277a73f7", null ],
+    [ "DamageTaken", "d9/d2e/a19974.html#ac15aadce1954d827b7e833ed761faf10", null ],
+    [ "JustDied", "d9/d2e/a19974.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
+    [ "KilledUnit", "d9/d2e/a19974.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
+    [ "UpdateAI", "d9/d2e/a19974.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
+    [ "_instance", "d9/d2e/a19974.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
+    [ "_setHealth", "d9/d2e/a19974.html#a413187aa01c119d088846a216f093baa", null ]
 ];

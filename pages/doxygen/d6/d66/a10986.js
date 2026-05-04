@@ -1,5 +1,5 @@
 var a10986 =
 [
-    [ "GuildDelete", "d6/d66/a10986.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
-    [ "Read", "d6/d66/a10986.html#ae5ca379b187902323638f4c10be0a4d0", null ]
+    [ "GuildEventLogQuery", "d6/d66/a10986.html#af66d667a4b722745fa4f855870ef332c", null ],
+    [ "Read", "d6/d66/a10986.html#a48881f116070d5a7c03e7cace86656f6", null ]
 ];

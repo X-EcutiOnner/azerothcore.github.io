@@ -1,7 +1,7 @@
 var a11138 =
 [
-    [ "AutoEquipItemSlot", "dd/dfb/a11138.html#aa51f40a4172ac41548ec6199bc84375d", null ],
-    [ "Read", "dd/dfb/a11138.html#ade6a15026e9c461b38301edf79f367be", null ],
-    [ "DestinationSlot", "dd/dfb/a11138.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
-    [ "ItemGuid", "dd/dfb/a11138.html#a9d4da587061833262acff66674d3ac41", null ]
+    [ "InstanceResetFailed", "dd/dfb/a11138.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "dd/dfb/a11138.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "dd/dfb/a11138.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "dd/dfb/a11138.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

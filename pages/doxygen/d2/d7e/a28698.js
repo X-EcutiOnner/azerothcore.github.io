@@ -1,7 +1,5 @@
 var a28698 =
 [
-    [ "HandleDummy", "d2/d7e/a28698.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "d2/d7e/a28698.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "d2/d7e/a28698.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "d2/d7e/a28698.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "ID", "d2/d7e/a28698.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
+    [ "spellId", "d2/d7e/a28698.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
 ];

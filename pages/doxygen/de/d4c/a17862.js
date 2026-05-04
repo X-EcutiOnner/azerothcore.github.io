@@ -1,7 +1,8 @@
 var a17862 =
 [
-    [ "FilterTargets", "de/d4c/a17862.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
-    [ "Load", "de/d4c/a17862.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
-    [ "PrepareSpellScript", "de/d4c/a17862.html#a7526a6df4c25136f4be78e753c6abf62", null ],
-    [ "Register", "de/d4c/a17862.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
+    [ "HandlePeriodic", "de/d4c/a17862.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "de/d4c/a17862.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "de/d4c/a17862.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "de/d4c/a17862.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "de/d4c/a17862.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

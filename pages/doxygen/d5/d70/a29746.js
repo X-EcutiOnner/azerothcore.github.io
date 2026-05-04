@@ -1,10 +1,9 @@
 var a29746 =
 [
-    [ "maxSimplificationError", "d5/d70/a29746.html#a010878a247d639234d2bb8571280aca6", null ],
-    [ "vertexPerMapEdge", "d5/d70/a29746.html#af620af11a09215f106fc6704c88fa411", null ],
-    [ "vertexPerTileEdge", "d5/d70/a29746.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
-    [ "walkableClimb", "d5/d70/a29746.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
-    [ "walkableHeight", "d5/d70/a29746.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
-    [ "walkableRadius", "d5/d70/a29746.html#a43f00aacc5e1497c169d4ba908883140", null ],
-    [ "walkableSlopeAngle", "d5/d70/a29746.html#a9792dfe730bfc437797a359896a14528", null ]
+    [ "WDT_file", "d5/d70/a29746.html#afa32849d31abde3cb2c9f3b558816368", null ],
+    [ "~WDT_file", "d5/d70/a29746.html#a29bf710b8346204eb848017450afebe1", null ],
+    [ "free", "d5/d70/a29746.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
+    [ "prepareLoadedData", "d5/d70/a29746.html#add675f96f010e67ca1df01b029c9ebfb", null ],
+    [ "main", "d5/d70/a29746.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
+    [ "mphd", "d5/d70/a29746.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
 ];

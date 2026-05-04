@@ -1,7 +1,7 @@
 var a09778 =
 [
-    [ "RaidCheck", "de/d09/a09778.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
-    [ "operator()", "de/d09/a09778.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
-    [ "_compare", "de/d09/a09778.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
-    [ "_equals", "de/d09/a09778.html#a7d253c94403bd50012722a9a9b113c3a", null ]
+    [ "PlayerAtMinimumRangeAway", "de/d09/a09778.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
+    [ "operator()", "de/d09/a09778.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
+    [ "fRange", "de/d09/a09778.html#a0c58929de429694f24877525287f15a6", null ],
+    [ "unit", "de/d09/a09778.html#a4ea0f83c3287079cff40fac15272fa94", null ]
 ];

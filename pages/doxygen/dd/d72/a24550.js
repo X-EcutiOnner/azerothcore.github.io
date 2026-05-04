@@ -1,7 +1,7 @@
 var a24550 =
 [
-    [ "FilterTargets", "dd/d72/a24550.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "dd/d72/a24550.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "dd/d72/a24550.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "dd/d72/a24550.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "HandleProc", "dd/d72/a24550.html#ad47d6005c7fafce9fe5941d4c05cd6d0", null ],
+    [ "PrepareAuraScript", "dd/d72/a24550.html#afdfb44a437afb1329794fe4d0e8d3874", null ],
+    [ "Register", "dd/d72/a24550.html#a87e742cdb4d12b287607d8d7cb00e84b", null ],
+    [ "Validate", "dd/d72/a24550.html#a92286b3f92c332165ba5d850c7f1ec9b", null ]
 ];

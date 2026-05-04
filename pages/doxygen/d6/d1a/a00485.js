@@ -1,12 +1,8 @@
 var a00485 =
 [
-    [ "TicketScript", "d8/d4a/a10717.html", "d8/d4a/a10717" ],
-    [ "TicketHook", "d6/d1a/a00485.html#af2de2d4afd6c8a1968e6e4b055620b72", [
-      [ "TICKETHOOK_ON_TICKET_CREATE", "d6/d1a/a00485.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
-      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "d6/d1a/a00485.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
-      [ "TICKETHOOK_ON_TICKET_CLOSE", "d6/d1a/a00485.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
-      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "d6/d1a/a00485.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
-      [ "TICKETHOOK_ON_TICKET_RESOLVE", "d6/d1a/a00485.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
-      [ "TICKETHOOK_END", "d6/d1a/a00485.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
+    [ "LootScript", "d3/d32/a10702.html", "d3/d32/a10702" ],
+    [ "LootHook", "d6/d1a/a00485.html#a39ce94de1e8ce6b7055130ac7f40632b", [
+      [ "LOOTHOOK_ON_LOOT_MONEY", "d6/d1a/a00485.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1", null ],
+      [ "LOOTHOOK_END", "d6/d1a/a00485.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea", null ]
     ] ]
 ];

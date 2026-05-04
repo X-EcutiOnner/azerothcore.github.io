@@ -1,7 +1,6 @@
 var a14902 =
 [
-    [ "HandleOnHit", "da/d79/a14902.html#a9f1d78b4a98bc76877903b79923c1634", null ],
-    [ "PrepareSpellScript", "da/d79/a14902.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
-    [ "Register", "da/d79/a14902.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
-    [ "Validate", "da/d79/a14902.html#a57d85b1702e5c89d72972505121180ed", null ]
+    [ "HandleTriggerSpell", "da/d79/a14902.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
+    [ "PrepareSpellScript", "da/d79/a14902.html#a76a070da8e719198463010499f595599", null ],
+    [ "Register", "da/d79/a14902.html#ae237c4972167a5a17b59800983496a9d", null ]
 ];

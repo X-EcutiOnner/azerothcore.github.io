@@ -1,8 +1,14 @@
 var a00482 =
 [
-    [ "LootScript", "d0/dfd/a10673.html", "d0/dfd/a10673" ],
-    [ "LootHook", "db/d8e/a00482.html#a39ce94de1e8ce6b7055130ac7f40632b", [
-      [ "LOOTHOOK_ON_LOOT_MONEY", "db/d8e/a00482.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1", null ],
-      [ "LOOTHOOK_END", "db/d8e/a00482.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea", null ]
+    [ "AllMapScript", "dd/d82/a10590.html", "dd/d82/a10590" ],
+    [ "AllMapHook", "db/d8e/a00482.html#a78db4e64fe232d8b547270090d8e3b92", [
+      [ "ALLMAPHOOK_ON_PLAYER_ENTER_ALL", "db/d8e/a00482.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa", null ],
+      [ "ALLMAPHOOK_ON_PLAYER_LEAVE_ALL", "db/d8e/a00482.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae", null ],
+      [ "ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT", "db/d8e/a00482.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182", null ],
+      [ "ALLMAPHOOK_ON_DESTROY_INSTANCE", "db/d8e/a00482.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0", null ],
+      [ "ALLMAPHOOK_ON_CREATE_MAP", "db/d8e/a00482.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02", null ],
+      [ "ALLMAPHOOK_ON_DESTROY_MAP", "db/d8e/a00482.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5", null ],
+      [ "ALLMAPHOOK_ON_MAP_UPDATE", "db/d8e/a00482.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb", null ],
+      [ "ALLMAPHOOK_END", "db/d8e/a00482.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95", null ]
     ] ]
 ];

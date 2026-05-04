@@ -1,5 +1,11 @@
 var a17138 =
 [
-    [ "at_hor_shadow_throne", "d5/dd2/a17138.html#a342808808be75079acf6a2f930afe930", null ],
-    [ "OnTrigger", "d5/dd2/a17138.html#a0166b1a58f4171c4d9893010df5831c4", null ]
+    [ "npc_ghostly_priest", "d5/dd2/a17138.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
+    [ "AttackStart", "d5/dd2/a17138.html#acbc2eb708773500136deebb8542d36aa", null ],
+    [ "DoAction", "d5/dd2/a17138.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
+    [ "EnterEvadeMode", "d5/dd2/a17138.html#ac944330e3834bd4c65e30c595752746c", null ],
+    [ "JustDied", "d5/dd2/a17138.html#ae7ef06904aa2039d3552a2a62b846042", null ],
+    [ "JustEngagedWith", "d5/dd2/a17138.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
+    [ "Reset", "d5/dd2/a17138.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
+    [ "UpdateAI", "d5/dd2/a17138.html#a3722469ea1445f7dbaf834853a9ed654", null ]
 ];

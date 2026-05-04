@@ -1,9 +1,8 @@
 var a08890 =
 [
-    [ "EntryPointData", "df/d30/a08890.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "df/d30/a08890.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "df/d30/a08890.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "df/d30/a08890.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "df/d30/a08890.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "df/d30/a08890.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "EnchantDuration", "df/d30/a08890.html#a1ce5f81deaa60494c247673c113632d8", null ],
+    [ "EnchantDuration", "df/d30/a08890.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
+    [ "item", "df/d30/a08890.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
+    [ "leftduration", "df/d30/a08890.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
+    [ "slot", "df/d30/a08890.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
 ];

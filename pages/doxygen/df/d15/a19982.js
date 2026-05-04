@@ -1,8 +1,12 @@
 var a19982 =
 [
-    [ "OnApply", "df/d15/a19982.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "df/d15/a19982.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "df/d15/a19982.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "df/d15/a19982.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "df/d15/a19982.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "npc_freya_ward", "df/d15/a19982.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
+    [ "DoAction", "df/d15/a19982.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
+    [ "JustSummoned", "df/d15/a19982.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
+    [ "Reset", "df/d15/a19982.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
+    [ "SummonedCreatureDespawn", "df/d15/a19982.html#a20fde559565c47f4451581e5d1a61e99", null ],
+    [ "UpdateAI", "df/d15/a19982.html#a62122abe02ae9351617eb3af9e36e88e", null ],
+    [ "_castTimer", "df/d15/a19982.html#afe313ebbc5c711183a9e623d8213ae64", null ],
+    [ "_summoned", "df/d15/a19982.html#aecae1e0f3b84d97cef40023a36dd4254", null ],
+    [ "summons", "df/d15/a19982.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
 ];

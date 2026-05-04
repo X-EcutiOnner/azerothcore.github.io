@@ -1,9 +1,7 @@
 var a21650 =
 [
-    [ "npc_venture_co_stragglerAI", "d2/dd4/a21650.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "d2/dd4/a21650.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "d2/dd4/a21650.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "d2/dd4/a21650.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "d2/dd4/a21650.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "d2/dd4/a21650.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "npc_Apothecary_HanesAI", "df/da4/a21654.html", "df/da4/a21654" ],
+    [ "npc_apothecary_hanes", "d2/dd4/a21650.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
+    [ "GetAI", "d2/dd4/a21650.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
+    [ "OnQuestAccept", "d2/dd4/a21650.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
 ];

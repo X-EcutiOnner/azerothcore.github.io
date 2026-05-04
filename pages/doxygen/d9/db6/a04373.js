@@ -1,41 +1,58 @@
 var a04373 =
 [
-    [ "AzjolNerubScriptName", "d9/db6/a04373.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
-    [ "DataHeader", "d9/db6/a04373.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAzjolNerubCreatureAI", "d9/db6/a04373.html#a4a60f3abea9a1edadc00e60726067bba", null ],
-    [ "ANActions", "d9/db6/a04373.html#a353c804af4bd1bd2a5d5193704607689", [
-      [ "ACTION_MINION_DIED", "d9/db6/a04373.html#a353c804af4bd1bd2a5d5193704607689a185e4f622f3b411d7980209389e63777", null ]
+    [ "AuthResult", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fce", [
+      [ "WOW_SUCCESS", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688", null ],
+      [ "WOW_FAIL_BANNED", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630", null ],
+      [ "WOW_FAIL_UNKNOWN_ACCOUNT", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114", null ],
+      [ "WOW_FAIL_INCORRECT_PASSWORD", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3", null ],
+      [ "WOW_FAIL_ALREADY_ONLINE", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c", null ],
+      [ "WOW_FAIL_NO_TIME", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34", null ],
+      [ "WOW_FAIL_DB_BUSY", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96", null ],
+      [ "WOW_FAIL_VERSION_INVALID", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d", null ],
+      [ "WOW_FAIL_VERSION_UPDATE", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae", null ],
+      [ "WOW_FAIL_INVALID_SERVER", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d", null ],
+      [ "WOW_FAIL_SUSPENDED", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04", null ],
+      [ "WOW_FAIL_FAIL_NOACCESS", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8", null ],
+      [ "WOW_SUCCESS_SURVEY", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a", null ],
+      [ "WOW_FAIL_PARENTCONTROL", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d", null ],
+      [ "WOW_FAIL_LOCKED_ENFORCED", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3", null ],
+      [ "WOW_FAIL_TRIAL_ENDED", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6", null ],
+      [ "WOW_FAIL_USE_BATTLENET", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c", null ],
+      [ "WOW_FAIL_ANTI_INDULGENCE", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3", null ],
+      [ "WOW_FAIL_EXPIRED", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9", null ],
+      [ "WOW_FAIL_NO_GAME_ACCOUNT", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf", null ],
+      [ "WOW_FAIL_CHARGEBACK", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05", null ],
+      [ "WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9", null ],
+      [ "WOW_FAIL_GAME_ACCOUNT_LOCKED", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55", null ],
+      [ "WOW_FAIL_UNLOCKABLE_LOCK", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e", null ],
+      [ "WOW_FAIL_CONVERSION_REQUIRED", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739", null ],
+      [ "WOW_FAIL_DISCONNECTED", "d9/db6/a04373.html#a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65", null ]
     ] ],
-    [ "ANData", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365e", [
-      [ "DATA_KRIKTHIR", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c", null ],
-      [ "DATA_HADRONOX", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8", null ],
-      [ "DATA_ANUBARAK", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf", null ],
-      [ "MAX_ENCOUNTERS", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ],
-      [ "DATA_GASHRA", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f", null ],
-      [ "DATA_NARJIL", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6", null ],
-      [ "DATA_SILTHIK", "d9/db6/a04373.html#a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2", null ]
+    [ "ExpansionFlags", "d9/db6/a04373.html#aa4677c9d14c49d7eb90bf81f278756e2", [
+      [ "POST_BC_EXP_FLAG", "d9/db6/a04373.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb", null ],
+      [ "PRE_BC_EXP_FLAG", "d9/db6/a04373.html#aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64", null ],
+      [ "NO_VALID_EXP_FLAG", "d9/db6/a04373.html#aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d", null ]
     ] ],
-    [ "ANIds", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
-      [ "NPC_WATCHER_NARJIL", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f", null ],
-      [ "NPC_WATCHER_GASHRA", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8", null ],
-      [ "NPC_WATCHER_SILTHIK", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08", null ],
-      [ "NPC_ANUBAR_SKIRMISHER", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebaab6881c6b204dd808545bca2050e3fcf", null ],
-      [ "NPC_ANUBAR_SHADOWCASTER", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebacc327c02c47a2a2ad6994c7c87132127", null ],
-      [ "NPC_ANUBAR_WARRIOR", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba0e94bdd3b8ef0aba807bba8e440a07ca", null ],
-      [ "NPC_SKITTERING_SWARMER", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
-      [ "NPC_SKITTERING_INFECTIOR", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
-      [ "NPC_KRIKTHIR_THE_GATEWATCHER", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
-      [ "NPC_HADRONOX", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
-      [ "NPC_ANUBARAK", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3", null ],
-      [ "NPC_WORLD_TRIGGER_LAOI", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd", null ],
-      [ "NPC_ANUB_AR_CHAMPION", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
-      [ "NPC_ANUB_AR_NECROMANCER", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
-      [ "NPC_ANUB_AR_CRYPTFIEND", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],
-      [ "GO_KRIKTHIR_DOORS", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b", null ],
-      [ "GO_ANUBARAK_DOORS1", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316", null ],
-      [ "GO_ANUBARAK_DOORS2", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc", null ],
-      [ "GO_ANUBARAK_DOORS3", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0", null ],
-      [ "SPELL_WEB_WRAP_TRIGGER", "d9/db6/a04373.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b", null ]
+    [ "LoginResult", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5", [
+      [ "LOGIN_OK", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb", null ],
+      [ "LOGIN_FAILED", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0", null ],
+      [ "LOGIN_FAILED2", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56", null ],
+      [ "LOGIN_BANNED", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005", null ],
+      [ "LOGIN_UNKNOWN_ACCOUNT", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3", null ],
+      [ "LOGIN_UNKNOWN_ACCOUNT3", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc", null ],
+      [ "LOGIN_ALREADYONLINE", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5", null ],
+      [ "LOGIN_NOTIME", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342", null ],
+      [ "LOGIN_DBBUSY", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8", null ],
+      [ "LOGIN_BADVERSION", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c", null ],
+      [ "LOGIN_DOWNLOAD_FILE", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309", null ],
+      [ "LOGIN_FAILED3", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3", null ],
+      [ "LOGIN_SUSPENDED", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b", null ],
+      [ "LOGIN_FAILED4", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e", null ],
+      [ "LOGIN_CONNECTED", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae", null ],
+      [ "LOGIN_PARENTALCONTROL", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860", null ],
+      [ "LOGIN_LOCKED_ENFORCED", "d9/db6/a04373.html#a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02", null ]
     ] ],
-    [ "GetAzjolNerubAI", "d9/db6/a04373.html#a19b3f42ba299e1f42de805f494cd5812", null ]
+    [ "IsAcceptedClientBuild", "d9/db6/a04373.html#a50a906b5a3fdca3508aee0997881a717", null ],
+    [ "IsPostBCAcceptedClientBuild", "d9/db6/a04373.html#ad4f22daf9d88367d90d92416f470a28c", null ],
+    [ "IsPreBCAcceptedClientBuild", "d9/db6/a04373.html#a96896fc9dad2c304f681a24776f6726b", null ]
 ];

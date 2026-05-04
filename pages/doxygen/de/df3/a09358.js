@@ -1,10 +1,13 @@
 var a09358 =
 [
-    [ "GridObjectLoader", "de/df3/a09358.html#a57cd46fee6f747221761aa3114c40ba6", null ],
-    [ "AddObjectHelper", "de/df3/a09358.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
-    [ "LoadAllCellsInGrid", "de/df3/a09358.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
-    [ "LoadCreatures", "de/df3/a09358.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
-    [ "LoadGameObjects", "de/df3/a09358.html#ad577dbb6544e806d25b496796651ba5b", null ],
-    [ "_grid", "de/df3/a09358.html#abe551354634514fa3998eccb10fcbefe", null ],
-    [ "_map", "de/df3/a09358.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
+    [ "QuestPOI", "de/df3/a09358.html#af4ce75549d1fff2042e98683119214a6", null ],
+    [ "QuestPOI", "de/df3/a09358.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
+    [ "AreaId", "de/df3/a09358.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
+    [ "FloorId", "de/df3/a09358.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
+    [ "Id", "de/df3/a09358.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
+    [ "MapId", "de/df3/a09358.html#a851f8e6e62373d2592173534754d757b", null ],
+    [ "ObjectiveIndex", "de/df3/a09358.html#ad80f65110beacd44e667008387e6bb70", null ],
+    [ "points", "de/df3/a09358.html#aeb505cb061a00ecaa2acc749e391f207", null ],
+    [ "Unk3", "de/df3/a09358.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
+    [ "Unk4", "de/df3/a09358.html#aa8089160bb8e93ea79df96b956050b70", null ]
 ];

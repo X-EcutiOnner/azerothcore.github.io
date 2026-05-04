@@ -1,10 +1,6 @@
 var a10702 =
 [
-    [ "ArgsType", "d3/d32/a10702.html#a4ea4d3b165a196482ebe96af9c462658", null ],
-    [ "AuraScriptType", "d3/d32/a10702.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
-    [ "SpellScriptType", "d3/d32/a10702.html#a790a8ef2b59bfe6298486648858506ed", null ],
-    [ "GenericSpellAndAuraScriptLoader", "d3/d32/a10702.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
-    [ "GetAuraScript", "d3/d32/a10702.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
-    [ "GetSpellScript", "d3/d32/a10702.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
-    [ "_args", "d3/d32/a10702.html#aad6527f64ede0d896880ffa90d05a378", null ]
+    [ "LootScript", "d3/d32/a10702.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
+    [ "IsDatabaseBound", "d3/d32/a10702.html#ad60b605eac89be48efd339127e9cb9cd", null ],
+    [ "OnLootMoney", "d3/d32/a10702.html#a56a57baead49f6815a9979b181a55375", null ]
 ];

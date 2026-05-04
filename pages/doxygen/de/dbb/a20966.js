@@ -1,6 +1,6 @@
 var a20966 =
 [
-    [ "boss_archavonAI", "d7/d49/a20970.html", "d7/d49/a20970" ],
-    [ "boss_archavon", "de/dbb/a20966.html#a44e20480f8d86cf763afe67de49c6c33", null ],
-    [ "GetAI", "de/dbb/a20966.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
+    [ "npc_ritual_channelerAI", "d7/d49/a20970.html", "d7/d49/a20970" ],
+    [ "npc_ritual_channeler", "de/dbb/a20966.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "de/dbb/a20966.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

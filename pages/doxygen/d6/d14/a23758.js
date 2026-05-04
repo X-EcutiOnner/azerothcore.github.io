@@ -1,6 +1,7 @@
 var a23758 =
 [
-    [ "go_magtheridons_head", "d6/d14/a23758.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "d6/d14/a23758.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "d6/d14/a23758.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "npc_maxx_a_million_escortAI", "d9/d64/a23762.html", "d9/d64/a23762" ],
+    [ "npc_maxx_a_million_escort", "d6/d14/a23758.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "d6/d14/a23758.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "d6/d14/a23758.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

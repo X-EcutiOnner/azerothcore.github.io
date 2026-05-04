@@ -1,7 +1,6 @@
 var a20894 =
 [
-    [ "HandleScript", "db/d0d/a20894.html#ac8d984ac87f51050113f7ac1a4625785", null ],
-    [ "PrepareSpellScript", "db/d0d/a20894.html#a34f6166e27cb99e424dd081ffce704a5", null ],
-    [ "Register", "db/d0d/a20894.html#a0dd5b7a8cf086ee3b5a6f30326874ee3", null ],
-    [ "Validate", "db/d0d/a20894.html#a364c96f7253fde59e1a9a59a42c4d3a5", null ]
+    [ "npc_ravenous_furbolgAI", "d2/d66/a20898.html", "d2/d66/a20898" ],
+    [ "npc_ravenous_furbolg", "db/d0d/a20894.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "db/d0d/a20894.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

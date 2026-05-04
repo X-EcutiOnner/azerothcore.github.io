@@ -1,13 +1,19 @@
 var a15406 =
 [
-    [ "boss_cthun", "d7/d13/a15406.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "d7/d13/a15406.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "d7/d13/a15406.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "d7/d13/a15406.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "d7/d13/a15406.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "d7/d13/a15406.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "d7/d13/a15406.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "d7/d13/a15406.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "d7/d13/a15406.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "d7/d13/a15406.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "boss_bug_trio", "d7/d13/a15406.html#acfef187b77a745686cb64bec64398dd4", null ],
+    [ "CheckInRoom", "d7/d13/a15406.html#a9b78f1f7beee555460bd24338a25506d", null ],
+    [ "DamageTaken", "d7/d13/a15406.html#a41e1d62badcad8d360983f07b4101f7e", null ],
+    [ "DoAction", "d7/d13/a15406.html#a808939fbc1a9f2bc9e3a6dda5dce02f4", null ],
+    [ "DoFinalSpell", "d7/d13/a15406.html#a46b943e5d5f5b0972b42edc4134c1f98", null ],
+    [ "EnterCombatWithTrio", "d7/d13/a15406.html#af7d3159f505f5f3dd6e273d47fd9bc80", null ],
+    [ "EnterEvadeMode", "d7/d13/a15406.html#ae6809cc35969618ecfaf1767e8c9ae92", null ],
+    [ "EvadeAllBosses", "d7/d13/a15406.html#a09c60b117f2cb194eeb1a2b13b7e5d37", null ],
+    [ "JustDied", "d7/d13/a15406.html#a2d4d6a43de7ce16b6cf5b7603fbacd87", null ],
+    [ "MovementInform", "d7/d13/a15406.html#aa24ae95cbe50f24abef4ab4ac30278b8", null ],
+    [ "Reset", "d7/d13/a15406.html#a8f07a98ed21c3e362bec3c8d3bd5ea09", null ],
+    [ "UpdateAI", "d7/d13/a15406.html#a26896dd5f3f2e0ca6251bd96f8199e10", null ],
+    [ "_creatureDying", "d7/d13/a15406.html#a89dbaf8c1bba75369b978dd366806bb4", null ],
+    [ "_dying", "d7/d13/a15406.html#a4ad80d1c623a86396d180bc6a6f14bb5", null ],
+    [ "_isEating", "d7/d13/a15406.html#a331eb32e0713aee8d5a84ed32c72de12", null ],
+    [ "_scheduler", "d7/d13/a15406.html#a121d3abe2854c5b798ee1eebdaea699f", null ]
 ];

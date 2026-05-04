@@ -1,5 +1,5 @@
 var a27978 =
 [
-    [ "go_scourge_cage", "d3/d91/a27978.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
-    [ "OnGossipHello", "d3/d91/a27978.html#ab4e97cd290342d623d212cc7cec227d5", null ]
+    [ "item_disgusting_jar", "d3/d91/a27978.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "d3/d91/a27978.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

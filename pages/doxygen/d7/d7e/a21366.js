@@ -1,5 +1,6 @@
 var a21366 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d7/d7e/a21366.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "d7/d7e/a21366.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_dalaran_warriorAI", "d6/dc2/a21370.html", "d6/dc2/a21370" ],
+    [ "npc_dalaran_warrior", "d7/d7e/a21366.html#a13d44b85173232ddedcc35184d50549c", null ],
+    [ "GetAI", "d7/d7e/a21366.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
 ];

@@ -1,7 +1,8 @@
 var a20826 =
 [
-    [ "HandleOnEffectRemove", "d5/d4a/a20826.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d5/d4a/a20826.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d5/d4a/a20826.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d5/d4a/a20826.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "boss_keleseth", "d5/d4a/a20826.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "d5/d4a/a20826.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "d5/d4a/a20826.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "d5/d4a/a20826.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "d5/d4a/a20826.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

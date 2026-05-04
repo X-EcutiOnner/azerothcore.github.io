@@ -1,15 +1,5 @@
 var a29566 =
 [
-    [ "AuraStubBuilder", "d4/d3c/a29566.html#a534384a8763b8c95fab8158e83db2def", null ],
-    [ "Build", "d4/d3c/a29566.html#a7d5b970e591a239849e42a0c444f62d4", null ],
-    [ "BuildRaw", "d4/d3c/a29566.html#a6d18b0c3762b471fba8cf895e9a07b50", null ],
-    [ "WithCharges", "d4/d3c/a29566.html#a0e11ce060ed827bfc2b72d2b26a6693b", null ],
-    [ "WithDuration", "d4/d3c/a29566.html#ac5c74952acab3c54a79e28355f423a8f", null ],
-    [ "WithEffect", "d4/d3c/a29566.html#ad25896a25811e0e563dcac1c46e77ff3", null ],
-    [ "WithId", "d4/d3c/a29566.html#aa8dc59189364f6be82822588a47d32fd", null ],
-    [ "WithPassive", "d4/d3c/a29566.html#a056bd26636b67b54562306a42b3d7c3e", null ],
-    [ "WithPeriodicEffect", "d4/d3c/a29566.html#a93fd0ed97589e98446251f9b078a3f9d", null ],
-    [ "WithSpellFamilyName", "d4/d3c/a29566.html#afa4a16fb9c020c568472102fff972408", null ],
-    [ "WithStackAmount", "d4/d3c/a29566.html#a04b37ad66dde7b61695a80db00c9ab66", null ],
-    [ "_stub", "d4/d3c/a29566.html#a22cc8b0309b64c1ecc482d77170a2b09", null ]
+    [ "CalculateSpellTypeMask", "d4/d3c/a29566.html#ad4f136e69c7553ac32b1de047bf73c59", null ],
+    [ "SetUp", "d4/d3c/a29566.html#a57be47f0c3962451b527ffe247dee814", null ]
 ];

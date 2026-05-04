@@ -1,7 +1,6 @@
 var a25022 =
 [
-    [ "HandleDummy", "da/d02/a25022.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
-    [ "Load", "da/d02/a25022.html#a738318535196b3d55e8f1b3da4f76c95", null ],
-    [ "PrepareSpellScript", "da/d02/a25022.html#a941a097124ed9b4917faa18ff23fc366", null ],
-    [ "Register", "da/d02/a25022.html#aaf9d269e7d052515f31b463999e92cf4", null ]
+    [ "PrepareSpellScript", "da/d02/a25022.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "da/d02/a25022.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "da/d02/a25022.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

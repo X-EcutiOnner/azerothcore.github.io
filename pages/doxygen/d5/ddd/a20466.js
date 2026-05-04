@@ -1,12 +1,9 @@
 var a20466 =
 [
-    [ "boss_thorim_start_npcs", "d5/ddd/a20466.html#a3ed7da48fc86ea00124181bb943a778d", null ],
-    [ "DamageTaken", "d5/ddd/a20466.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
-    [ "JustDied", "d5/ddd/a20466.html#af5a00c3bc633464e9fd5d02991845294", null ],
-    [ "JustEngagedWith", "d5/ddd/a20466.html#a636dd7264dd01aa5fc3c69af17425103", null ],
-    [ "Reset", "d5/ddd/a20466.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
-    [ "UpdateAI", "d5/ddd/a20466.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
-    [ "_isCaster", "d5/ddd/a20466.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
-    [ "_playerAttack", "d5/ddd/a20466.html#ab1bf0c011692377fc591610c5131d5e2", null ],
-    [ "events", "d5/ddd/a20466.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
+    [ "npc_ulduar_dark_rune_watcher", "d5/ddd/a20466.html#aaddea3969eaab06df6b7e5d08f6ad626", null ],
+    [ "CanAIAttack", "d5/ddd/a20466.html#ae87ae4e671855f9e18eef6ba7f455463", null ],
+    [ "Reset", "d5/ddd/a20466.html#a66ac44c21691994b0b45c096dd7a0d56", null ],
+    [ "UpdateAI", "d5/ddd/a20466.html#a008399ff99fbf7c298485450cd3bd4e3", null ],
+    [ "timer1", "d5/ddd/a20466.html#a8e7520f4f33604ebd8177b12ca610ea3", null ],
+    [ "timer2", "d5/ddd/a20466.html#a1be016384a7fd92e96786ff6caf6c77d", null ]
 ];

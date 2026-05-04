@@ -1,5 +1,5 @@
 var a02597 =
 [
-    [ "item_commandscript", "d6/dc7/a12233.html", "d6/dc7/a12233" ],
-    [ "AddSC_item_commandscript", "de/d94/a02597.html#ad129450eb89b9c3e5c98717b2c44de8e", null ]
+    [ "HandleLearnSpellCommand", "de/d94/a02597.html#acbe37f872cbc981a27671ebdf10904de", null ],
+    [ "HandleUnlearnSpellCommand", "de/d94/a02597.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
 ];

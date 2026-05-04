@@ -1,9 +1,7 @@
 var a15290 =
 [
-    [ "npc_buru_egg", "d9/d5a/a15290.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "d9/d5a/a15290.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "d9/d5a/a15290.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "d9/d5a/a15290.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "d9/d5a/a15290.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "d9/d5a/a15290.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "npc_hive_zara_larva", "d9/d5a/a15290.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "d9/d5a/a15290.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "d9/d5a/a15290.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "d9/d5a/a15290.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

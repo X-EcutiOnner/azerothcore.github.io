@@ -1,6 +1,6 @@
 var a20946 =
 [
-    [ "boss_ymironAI", "da/d4e/a20950.html", "da/d4e/a20950" ],
-    [ "boss_ymiron", "dd/df0/a20946.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "dd/df0/a20946.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "CanBeAppliedOn", "dd/df0/a20946.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
+    [ "PrepareAuraScript", "dd/df0/a20946.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
+    [ "Register", "dd/df0/a20946.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
 ];

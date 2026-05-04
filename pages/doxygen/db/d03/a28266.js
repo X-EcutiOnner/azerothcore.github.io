@@ -1,6 +1,6 @@
 var a28266 =
 [
-    [ "npc_pet_trainerAI", "dc/db2/a28270.html", "dc/db2/a28270" ],
-    [ "npc_pet_trainer", "db/d03/a28266.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "db/d03/a28266.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_necropolis_proxy", "db/d03/a28266.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "db/d03/a28266.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "db/d03/a28266.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

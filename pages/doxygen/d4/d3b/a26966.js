@@ -1,6 +1,8 @@
 var a26966 =
 [
-    [ "HandleScript", "d4/d3b/a26966.html#a54c724bd8786c894ecaa584c164c2e53", null ],
-    [ "PrepareSpellScript", "d4/d3b/a26966.html#a4505b9196609ae9339fe7e5948963663", null ],
-    [ "Register", "d4/d3b/a26966.html#ae293d6a2a477f716f357516781246069", null ]
+    [ "AfterApply", "d4/d3b/a26966.html#a3299de0703ca1e14760e9f33b124ac44", null ],
+    [ "PeriodicTick", "d4/d3b/a26966.html#a34f2fd8d142083705101f8265297c20e", null ],
+    [ "PrepareAuraScript", "d4/d3b/a26966.html#a79c80876d5788a20a9f686548b70fd64", null ],
+    [ "Register", "d4/d3b/a26966.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
+    [ "Validate", "d4/d3b/a26966.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
 ];

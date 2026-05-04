@@ -1,5 +1,7 @@
 var a28302 =
 [
-    [ "npc_stable_masterAI", "d2/db2/a28302.html#a5c6f9bca1004af163ddb074b606330be", null ],
-    [ "sGossipSelect", "d2/db2/a28302.html#a09205661674dd011ffe425deaadde053", null ]
+    [ "HandleDummy", "d2/db2/a28302.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d2/db2/a28302.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d2/db2/a28302.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d2/db2/a28302.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

@@ -1,7 +1,18 @@
 var a20278 =
 [
-    [ "StoneGripTargetSelector", "d6/d16/a20278.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "d6/d16/a20278.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "d6/d16/a20278.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "d6/d16/a20278.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "boss_ignis", "d6/d16/a20278.html#a0e254ab7aadb175bdbeac0cffd7044f7", null ],
+    [ "EnterEvadeMode", "d6/d16/a20278.html#a738218ee23e2e0d1f3338f958a77aabc", null ],
+    [ "GetData", "d6/d16/a20278.html#a90c4bf03b702264356f5826030ac16de", null ],
+    [ "JustDied", "d6/d16/a20278.html#ae82a27c0483beae93d2386ff9af3377f", null ],
+    [ "JustEngagedWith", "d6/d16/a20278.html#a3abac1b16ae9f42d0349d6472f2e1071", null ],
+    [ "JustReachedHome", "d6/d16/a20278.html#a07e03344eb0f47fe9791e6273c04b3ea", null ],
+    [ "KilledUnit", "d6/d16/a20278.html#a43ab13fd49fbc98fd6c81b38cd6e6f1d", null ],
+    [ "MoveInLineOfSight", "d6/d16/a20278.html#af5873189f7e2d8c27e709d04a4cbee13", null ],
+    [ "Reset", "d6/d16/a20278.html#ab3519e58bcf9feb942412a370fa0e205", null ],
+    [ "SetData", "d6/d16/a20278.html#a2d6b02b607206f1144e96486d8890539", null ],
+    [ "SpellHit", "d6/d16/a20278.html#af9a8dc94e2aeead55ab824dee7a63578", null ],
+    [ "UpdateAI", "d6/d16/a20278.html#af8b0ccfce6876b85b12e51328d4ec39f", null ],
+    [ "bShattered", "d6/d16/a20278.html#a4dca823efebb77be49e52df5ce45f42e", null ],
+    [ "counter", "d6/d16/a20278.html#a5efc99a75040decc5fddb83e64cb3930", null ],
+    [ "lastShatterMSTime", "d6/d16/a20278.html#a8b1e02c682f5d14fc03f439180265407", null ]
 ];

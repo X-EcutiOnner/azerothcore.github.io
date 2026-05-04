@@ -1,7 +1,8 @@
 var a26050 =
 [
-    [ "HandleProc", "db/daf/a26050.html#ab422b4755673f8af691d2672b0cb28a1", null ],
-    [ "PrepareAuraScript", "db/daf/a26050.html#a16098a3b719adcf3c63a09deb5ca7c80", null ],
-    [ "Register", "db/daf/a26050.html#a56a8e3400c89867951305494964077a4", null ],
-    [ "Validate", "db/daf/a26050.html#a0843ac6c6171f1f22712175d96fbafba", null ]
+    [ "HandleProc", "db/daf/a26050.html#a89982759474f6f2d8f64ae406f722816", null ],
+    [ "OnRemove", "db/daf/a26050.html#a29dfea997f49052f683cabdf01295126", null ],
+    [ "PrepareAuraScript", "db/daf/a26050.html#a19094a96e052ec5b1b82aa9a124b30cc", null ],
+    [ "Register", "db/daf/a26050.html#a696b244e898a7aca0ead5ae5596eb192", null ],
+    [ "Validate", "db/daf/a26050.html#a5a9e58d16a055b3991e5f8b8ac5f1cad", null ]
 ];

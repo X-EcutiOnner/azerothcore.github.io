@@ -1,6 +1,5 @@
 var a09306 =
 [
-    [ "EmoteDelay", "df/d6f/a09306.html#a053adbedc95026b192360e13d32c9401", null ],
-    [ "EmoteType", "df/d6f/a09306.html#aa5189cb250b3f46086ecd69dee23414b", null ],
-    [ "Greeting", "df/d6f/a09306.html#a84aa5fced9b8989487d1468c4eccb976", null ]
+    [ "creatures", "df/d6f/a09306.html#a9ae0351e4964d22bcf7c454c8b1027fe", null ],
+    [ "gameobjects", "df/d6f/a09306.html#a14fee7108cb388abd1ec2057cc7ed2a1", null ]
 ];

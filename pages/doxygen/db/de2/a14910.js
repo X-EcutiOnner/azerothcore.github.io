@@ -1,6 +1,6 @@
 var a14910 =
 [
-    [ "FilterTargets", "db/de2/a14910.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
-    [ "PrepareSpellScript", "db/de2/a14910.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
-    [ "Register", "db/de2/a14910.html#a6375482bd9d1fc6c6941607273c506dc", null ]
+    [ "HandleScriptEffect", "db/de2/a14910.html#a2acaaf3716237f147429cb07779ae49e", null ],
+    [ "PrepareSpellScript", "db/de2/a14910.html#a55df717ede47b17a32ae33ecd64617cd", null ],
+    [ "Register", "db/de2/a14910.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
 ];

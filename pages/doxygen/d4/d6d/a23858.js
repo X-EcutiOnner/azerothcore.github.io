@@ -1,10 +1,13 @@
 var a23858 =
 [
-    [ "npc_infernal_attackerAI", "d4/d6d/a23858.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "d4/d6d/a23858.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "d4/d6d/a23858.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "d4/d6d/a23858.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "d4/d6d/a23858.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "d4/d6d/a23858.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "d4/d6d/a23858.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "npc_illidari_spawnAI", "d4/d6d/a23858.html#a704c1d3e07d028b04e2bddee37039941", null ],
+    [ "JustDied", "d4/d6d/a23858.html#a27277d90d4a58a89386a39f4affbaee8", null ],
+    [ "JustEngagedWith", "d4/d6d/a23858.html#add4ea6366614e9fb86e85613bfb910ba", null ],
+    [ "Reset", "d4/d6d/a23858.html#a5347858d5da4f0718479b1d702125366", null ],
+    [ "UpdateAI", "d4/d6d/a23858.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
+    [ "LordIllidanGUID", "d4/d6d/a23858.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
+    [ "SpellTimer1", "d4/d6d/a23858.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
+    [ "SpellTimer2", "d4/d6d/a23858.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
+    [ "SpellTimer3", "d4/d6d/a23858.html#a9889f9673292613dc46387862f3e8849", null ],
+    [ "Timers", "d4/d6d/a23858.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
 ];

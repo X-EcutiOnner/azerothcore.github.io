@@ -1,8 +1,7 @@
 var a22322 =
 [
-    [ "boss_pandemonius", "d5/d42/a22322.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d5/d42/a22322.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d5/d42/a22322.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d5/d42/a22322.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d5/d42/a22322.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "npc_voidtraveler", "d5/d42/a22322.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "d5/d42/a22322.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "d5/d42/a22322.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "d5/d42/a22322.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

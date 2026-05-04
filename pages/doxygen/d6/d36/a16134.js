@@ -1,7 +1,8 @@
 var a16134 =
 [
-    [ "HandleScript", "d6/d36/a16134.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "d6/d36/a16134.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "d6/d36/a16134.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "d6/d36/a16134.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "HandleAfterCast", "d6/d36/a16134.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "d6/d36/a16134.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "d6/d36/a16134.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "d6/d36/a16134.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "d6/d36/a16134.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

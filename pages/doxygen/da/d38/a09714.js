@@ -1,6 +1,9 @@
 var a09714 =
 [
-    [ "AllFriendlyCreaturesInGrid", "da/d38/a09714.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
-    [ "operator()", "da/d38/a09714.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
-    [ "unit", "da/d38/a09714.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
+    [ "NearestHostileUnitCheck", "da/d38/a09714.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "da/d38/a09714.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "da/d38/a09714.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "da/d38/a09714.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "da/d38/a09714.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "da/d38/a09714.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

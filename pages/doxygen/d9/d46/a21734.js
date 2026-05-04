@@ -1,7 +1,16 @@
 var a21734 =
 [
-    [ "HandleScript", "d9/d46/a21734.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
-    [ "PrepareSpellScript", "d9/d46/a21734.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
-    [ "Register", "d9/d46/a21734.html#a713b82bc3d82a8324ce4dd090059f463", null ],
-    [ "Validate", "d9/d46/a21734.html#ac8e362d9f76350da106e128138737c5c", null ]
+    [ "npc_tirions_gambit_tirionAI", "d9/d46/a21734.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
+    [ "DoAction", "d9/d46/a21734.html#a495e0762614020ef6d7b741447099326", null ],
+    [ "DoSummonAction", "d9/d46/a21734.html#a891b31661705ed4df634059e6165d499", null ],
+    [ "JustSummoned", "d9/d46/a21734.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
+    [ "Reset", "d9/d46/a21734.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
+    [ "SetData", "d9/d46/a21734.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
+    [ "SummonedCreatureDespawn", "d9/d46/a21734.html#aca05fee85997dffba6ec998b144b9495", null ],
+    [ "UpdateEscortAI", "d9/d46/a21734.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
+    [ "WaypointReached", "d9/d46/a21734.html#af5fd69b799c6227dba901f434e30c434", null ],
+    [ "WaypointReached", "d9/d46/a21734.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_eventOver", "d9/d46/a21734.html#ac3505c2a8d55afa351543def3e8839de", null ],
+    [ "events", "d9/d46/a21734.html#a711c55c26187ae695644b770a358766e", null ],
+    [ "summons", "d9/d46/a21734.html#af574a4b136ff42c597e30c83e4d463ca", null ]
 ];

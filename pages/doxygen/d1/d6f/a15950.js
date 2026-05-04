@@ -1,7 +1,7 @@
 var a15950 =
 [
-    [ "npc_lakota_windsongAI", "db/d79/a15954.html", "db/d79/a15954" ],
-    [ "npc_lakota_windsong", "d1/d6f/a15950.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "d1/d6f/a15950.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "d1/d6f/a15950.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "npc_giltharesAI", "db/d79/a15954.html", "db/d79/a15954" ],
+    [ "npc_gilthares", "d1/d6f/a15950.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "d1/d6f/a15950.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "d1/d6f/a15950.html#a018cc6240a79216acb371241f63e3234", null ]
 ];

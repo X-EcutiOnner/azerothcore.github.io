@@ -1,7 +1,5 @@
 var a11306 =
 [
-    [ "TrainerBuySucceeded", "d2/dfa/a11306.html#ae00367a55429030c107fc8f6bb7db288", null ],
-    [ "Write", "d2/dfa/a11306.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
-    [ "SpellID", "d2/dfa/a11306.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
-    [ "TrainerGUID", "d2/dfa/a11306.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
+    [ "DurabilityDamageDeath", "d2/dfa/a11306.html#a9b4350d37291b9b714be1563b28dcb43", null ],
+    [ "Write", "d2/dfa/a11306.html#a35a93d9abeeb029f3da080487423f495", null ]
 ];

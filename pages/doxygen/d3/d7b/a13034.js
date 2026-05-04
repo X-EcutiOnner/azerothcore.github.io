@@ -1,11 +1,20 @@
 var a13034 =
 [
-    [ "npc_kilrek", "d3/d7b/a13034.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
-    [ "JustDied", "d3/d7b/a13034.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
-    [ "JustEngagedWith", "d3/d7b/a13034.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
-    [ "Reset", "d3/d7b/a13034.html#ae0b375abe5ec909cfaff96c257da0325", null ],
-    [ "UpdateAI", "d3/d7b/a13034.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "d3/d7b/a13034.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "d3/d7b/a13034.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "d3/d7b/a13034.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "boss_shade_of_aran", "d3/d7b/a13034.html#a581351036c7e09de447f065a4ef82e03", null ],
+    [ "AttackStart", "d3/d7b/a13034.html#a140ec9e0f968c42f9f003d9a52693884", null ],
+    [ "CheckAranInRoom", "d3/d7b/a13034.html#a64779949875ab0d812746adb78123f7a", null ],
+    [ "DamageTaken", "d3/d7b/a13034.html#a837e9284a2e2b3fe5467cca4fd09c60f", null ],
+    [ "JustDied", "d3/d7b/a13034.html#ac79c249652f1de37b0c7d31a86dd0e51", null ],
+    [ "JustEngagedWith", "d3/d7b/a13034.html#a11a9b1a8a24b9bc9965d655a6f856ef0", null ],
+    [ "KilledUnit", "d3/d7b/a13034.html#ad7470576e9dd08d5fc47259d8de943b2", null ],
+    [ "OnPowerUpdate", "d3/d7b/a13034.html#a3ac487d431bc444cd8c39bb813260737", null ],
+    [ "Reset", "d3/d7b/a13034.html#a03def93f3e3f33d4f760e9f7c7c85d86", null ],
+    [ "SetGUID", "d3/d7b/a13034.html#ad9c71eebc6ba734e1e0d2684a19f1cda", null ],
+    [ "UpdateAI", "d3/d7b/a13034.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4", null ],
+    [ "_atieshReaction", "d3/d7b/a13034.html#a88c6677edc8a37ac1e36fe6f1688d847", null ],
+    [ "_currentNormalSpell", "d3/d7b/a13034.html#a4384769fb6eb868c612ed34cbb6b2409", null ],
+    [ "_drinking", "d3/d7b/a13034.html#a84a6941826c6c2f1f70965e8909f796e", null ],
+    [ "_drinkScheduler", "d3/d7b/a13034.html#a47e88dcf0027bd197350df7f80bc42d3", null ],
+    [ "_hasDrunk", "d3/d7b/a13034.html#a93bec133a8a1ba41aa9eb86ff19e5eca", null ],
+    [ "_lastSuperSpell", "d3/d7b/a13034.html#afe99b96811ff1e61ea6bbdce42fe8d7d", null ]
 ];

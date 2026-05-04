@@ -1,6 +1,6 @@
 var a23998 =
 [
-    [ "PrepareSpellScript", "d6/df3/a23998.html#a190f6dc3d9b336324da29f627a743fe9", null ],
-    [ "Register", "d6/df3/a23998.html#a3afc8035b852bc31abd3228e88d59819", null ],
-    [ "SetDest", "d6/df3/a23998.html#a85d66a58597954501305ad5b674cc8a2", null ]
+    [ "achievement", "d6/df3/a23998.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d6/df3/a23998.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d6/df3/a23998.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

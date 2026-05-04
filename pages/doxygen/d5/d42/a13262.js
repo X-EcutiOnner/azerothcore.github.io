@@ -1,6 +1,7 @@
 var a13262 =
 [
-    [ "HandleScriptEffect", "d5/d42/a13262.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "d5/d42/a13262.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "d5/d42/a13262.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "HandleScriptEffect", "d5/d42/a13262.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d5/d42/a13262.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d5/d42/a13262.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d5/d42/a13262.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

@@ -1,6 +1,10 @@
 var a28022 =
 [
-    [ "go_bellsAI", "d1/d55/a28026.html", "d1/d55/a28026" ],
-    [ "go_bells", "d5/d01/a28022.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "d5/d01/a28022.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "npc_prof_tailor", "d5/d01/a28022.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
+    [ "HasTailorSpell", "d5/d01/a28022.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
+    [ "OnGossipHello", "d5/d01/a28022.html#a686098ac43916ea2f82b7c321527863d", null ],
+    [ "OnGossipSelect", "d5/d01/a28022.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
+    [ "SendActionMenu", "d5/d01/a28022.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
+    [ "SendConfirmLearn", "d5/d01/a28022.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
+    [ "SendConfirmUnlearn", "d5/d01/a28022.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
 ];

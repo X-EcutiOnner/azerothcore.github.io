@@ -1,11 +1,8 @@
 var a01958 =
 [
-    [ "BanMgr", "d2/d2c/a10213.html", "d2/d2c/a10213" ],
-    [ "sBan", "d3/d67/a01958.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
-    [ "BanReturn", "d3/d67/a01958.html#a4dd4670ead55e2780d09a66ab39943a7", [
-      [ "BAN_SUCCESS", "d3/d67/a01958.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
-      [ "BAN_SYNTAX_ERROR", "d3/d67/a01958.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
-      [ "BAN_NOTFOUND", "d3/d67/a01958.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
-      [ "BAN_LONGER_EXISTS", "d3/d67/a01958.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
-    ] ]
+    [ "VisibilitySettingData", "db/d0e/a10246.html", "db/d0e/a10246" ],
+    [ "DynamicVisibilityMgr", "d6/d7b/a10250.html", "d6/d7b/a10250" ],
+    [ "VISIBILITY_SETTINGS_MAX_INTERVAL_NUM", "d3/d67/a01958.html#ae515340ce2037b26a80e4db46e653b59", null ],
+    [ "VISIBILITY_SETTINGS_PLAYER_INTERVAL", "d3/d67/a01958.html#a2733c1a6a4018078df00a4c426661436", null ],
+    [ "VisibilitySettings", "d3/d67/a01958.html#ab01e98c3eef9241e381bb20d29d66cbd", null ]
 ];

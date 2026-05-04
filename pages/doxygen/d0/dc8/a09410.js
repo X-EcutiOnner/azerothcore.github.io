@@ -1,12 +1,10 @@
 var a09410 =
 [
-    [ "flags", "d0/dc8/a09410.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
-    [ "fourcc", "d0/dc8/a09410.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
-    [ "height", "d0/dc8/a09410.html#ab064dde684394c3aa84f9b151749d524", null ],
-    [ "liquidFlags", "d0/dc8/a09410.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
-    [ "liquidLevel", "d0/dc8/a09410.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
-    [ "liquidType", "d0/dc8/a09410.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
-    [ "offsetX", "d0/dc8/a09410.html#a2ddee980eda8b7321b55ba44697688b5", null ],
-    [ "offsetY", "d0/dc8/a09410.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
-    [ "width", "d0/dc8/a09410.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
+    [ "GridObjectLoader", "d0/dc8/a09410.html#a57cd46fee6f747221761aa3114c40ba6", null ],
+    [ "AddObjectHelper", "d0/dc8/a09410.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
+    [ "LoadAllCellsInGrid", "d0/dc8/a09410.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
+    [ "LoadCreatures", "d0/dc8/a09410.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
+    [ "LoadGameObjects", "d0/dc8/a09410.html#ad577dbb6544e806d25b496796651ba5b", null ],
+    [ "_grid", "d0/dc8/a09410.html#abe551354634514fa3998eccb10fcbefe", null ],
+    [ "_map", "d0/dc8/a09410.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
 ];

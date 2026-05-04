@@ -1,10 +1,24 @@
 var a10570 =
 [
-    [ "ArenaTeamScript", "d5/df1/a10570.html#ab86543c6ce76ff21e4306c799b99c896", null ],
-    [ "IsDatabaseBound", "d5/df1/a10570.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
-    [ "OnGetArenaPoints", "d5/df1/a10570.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
-    [ "OnGetSlotByType", "d5/df1/a10570.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
-    [ "OnQueueIdToArenaType", "d5/df1/a10570.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
-    [ "OnSetArenaMaxPlayersPerTeam", "d5/df1/a10570.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
-    [ "OnTypeIDToQueueID", "d5/df1/a10570.html#abcdd905b695f926e503db610d80ada3c", null ]
+    [ "AllBattlegroundScript", "d5/df1/a10570.html#af2c4a52b8bfc4a0ac7ac1a081e4cdd03", null ],
+    [ "CanAddGroupToMatchingPool", "d5/df1/a10570.html#abc41913ad3720d0dcd6d04da2588c7e5", null ],
+    [ "CanFillPlayersToBG", "d5/df1/a10570.html#a3c70c7c71f2b941cf42607806ea19874", null ],
+    [ "CanSendMessageBGQueue", "d5/df1/a10570.html#a1407ab7e2b4630ec8def2f7e6e532831", null ],
+    [ "GetPlayerMatchmakingRating", "d5/df1/a10570.html#af4db50326e855d8fcfd9cbf2f216b934", null ],
+    [ "IsCheckNormalMatch", "d5/df1/a10570.html#a638cd6beb9edf2c538f4ac079560a07c", null ],
+    [ "IsDatabaseBound", "d5/df1/a10570.html#a91c57b646aae6467e06b4cc13b89cfb4", null ],
+    [ "OnAddGroup", "d5/df1/a10570.html#ae315ebbf606d85f59b6c0e6558283088", null ],
+    [ "OnBattlegroundAddPlayer", "d5/df1/a10570.html#aa6affc2d98448a93ac15a2a54327cba9", null ],
+    [ "OnBattlegroundBeforeAddPlayer", "d5/df1/a10570.html#a30ec158dc1fdc13712de9db261eac589", null ],
+    [ "OnBattlegroundCreate", "d5/df1/a10570.html#adea000f8e6470a2d69843c2894102086", null ],
+    [ "OnBattlegroundDestroy", "d5/df1/a10570.html#a1991c567eb8578f1874613987526ce10", null ],
+    [ "OnBattlegroundEnd", "d5/df1/a10570.html#a8c2588bb5b7c193b0c85b26de5210dd5", null ],
+    [ "OnBattlegroundEndReward", "d5/df1/a10570.html#a91225952a9567a2408ea8b1f52660599", null ],
+    [ "OnBattlegroundRemovePlayerAtLeave", "d5/df1/a10570.html#acf48de938b3535c1d64d5e69b7e4c3cc", null ],
+    [ "OnBattlegroundStart", "d5/df1/a10570.html#a00e6e5d7ec0925a28b84719f1ef32b8d", null ],
+    [ "OnBattlegroundUpdate", "d5/df1/a10570.html#a4a5c88793e3147af07482f5081106173", null ],
+    [ "OnBeforeSendExitMessageArenaQueue", "d5/df1/a10570.html#a53eb5af1d9dc2a4bfbba33ce75170f34", null ],
+    [ "OnBeforeSendJoinMessageArenaQueue", "d5/df1/a10570.html#a159e7e138cb75f57f013cd50a4a16a49", null ],
+    [ "OnQueueUpdate", "d5/df1/a10570.html#a46675aeb8e2d066d0efaf2559ec6754c", null ],
+    [ "OnQueueUpdateValidity", "d5/df1/a10570.html#a39a66e14a6e18f233ce33a86492142f7", null ]
 ];

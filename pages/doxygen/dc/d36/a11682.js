@@ -1,7 +1,7 @@
 var a11682 =
 [
-    [ "SpellImmune", "dc/d36/a11682.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "dc/d36/a11682.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "dc/d36/a11682.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "dc/d36/a11682.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "effectMask", "dc/d36/a11682.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
+    [ "processed", "dc/d36/a11682.html#aedfa36678be863a558ecd0ecc07cc544", null ],
+    [ "targetGUID", "dc/d36/a11682.html#a619f98bf094d2667048204f733d64d0c", null ],
+    [ "timeDelay", "dc/d36/a11682.html#ab552326c0780fe62ff95b02249458492", null ]
 ];

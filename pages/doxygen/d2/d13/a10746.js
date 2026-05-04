@@ -1,13 +1,10 @@
 var a10746 =
 [
-    [ "ScriptObject", "d2/d13/a10746.html#ae4ca97cf587379c94354e4889ff8c0c2", null ],
-    [ "~ScriptObject", "d2/d13/a10746.html#a80c704c939f54eee6655d68509598c42", null ],
-    [ "checkValidity", "d2/d13/a10746.html#a585e75e34aed7aa32205daad85f8fe08", null ],
-    [ "GetName", "d2/d13/a10746.html#a79588d839860d2f5caab60c5f1368f10", null ],
-    [ "GetTotalAvailableHooks", "d2/d13/a10746.html#a69ee35ec7d54226264efef558022c1c0", null ],
-    [ "isAfterLoadScript", "d2/d13/a10746.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
-    [ "IsDatabaseBound", "d2/d13/a10746.html#a37da453729d5c8fbe2d06f905563f47c", null ],
-    [ "ScriptMgr", "d2/d13/a10746.html#a7a753f61d57353451e90f3f23fec4851", null ],
-    [ "_name", "d2/d13/a10746.html#a90b63e382cac17922ae57fe22b84718c", null ],
-    [ "_totalAvailableHooks", "d2/d13/a10746.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
+    [ "TicketScript", "d2/d13/a10746.html#aec2b310ba0b26aa84a245207256edb0e", null ],
+    [ "IsDatabaseBound", "d2/d13/a10746.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
+    [ "OnTicketClose", "d2/d13/a10746.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
+    [ "OnTicketCreate", "d2/d13/a10746.html#a3436bbc78425bf5144c81f6309060b33", null ],
+    [ "OnTicketResolve", "d2/d13/a10746.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
+    [ "OnTicketStatusUpdate", "d2/d13/a10746.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
+    [ "OnTicketUpdateLastChange", "d2/d13/a10746.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
 ];

@@ -1,6 +1,28 @@
 var a12774 =
 [
-    [ "boss_lucifron", "df/d72/a12774.html#a632be7d3aaa9cc2360fce6871918a4b1", null ],
-    [ "ExecuteEvent", "df/d72/a12774.html#ae392b01817d9160ef0c80387406ad6fa", null ],
-    [ "JustEngagedWith", "df/d72/a12774.html#a9ebfc9877165aaadd2ea446995f4cf99", null ]
+    [ "instance_blackwing_lair", "df/d72/a12774.html#acc616ac1ebc0a30b223b56db6d1d194d", null ],
+    [ "CheckRequiredBosses", "df/d72/a12774.html#a5fe103f254c8eff91732c8241e564e6b", null ],
+    [ "GetData", "df/d72/a12774.html#a8aa2cb3ec0fb6ac894fe2386bb587cd6", null ],
+    [ "GetGuidData", "df/d72/a12774.html#a83845db9412c9db9020fe5cb916f15ed", null ],
+    [ "Initialize", "df/d72/a12774.html#a897fb61d904ece635288d79823847f19", null ],
+    [ "OnCreatureCreate", "df/d72/a12774.html#ab9d92beeef2b4cff728b3b07628be143", null ],
+    [ "OnGameObjectCreate", "df/d72/a12774.html#afadc17e8273352507021fe801540cfea", null ],
+    [ "OnGameObjectRemove", "df/d72/a12774.html#ad17a7e6c445a33ccf504e3346f4337d5", null ],
+    [ "OnUnitDeath", "df/d72/a12774.html#aa7d4423a1d3de7d1f28e03e1242ab29f", null ],
+    [ "ReadSaveDataMore", "df/d72/a12774.html#a44fc3e4344c72fa859f87ebec10f391a", null ],
+    [ "SetBossState", "df/d72/a12774.html#a71e2889ad19c4d445b1a9e3e852f5408", null ],
+    [ "SetData", "df/d72/a12774.html#a1a51777e7bdffcd5633d435c65aec5ad", null ],
+    [ "Update", "df/d72/a12774.html#abd4fe01494c20a4b413392011ee8b901", null ],
+    [ "WriteSaveDataMore", "df/d72/a12774.html#a9b5f810bdaacd35144a3a054f706fca2", null ],
+    [ "_events", "df/d72/a12774.html#a069b3a56def2564f026a3404bf0fd1c6", null ],
+    [ "addsCount", "df/d72/a12774.html#adb5f0436eca9ff1ae539590416a93994", null ],
+    [ "EggCount", "df/d72/a12774.html#a1ac13e5d1453f4ea0d01ccef32cdde04", null ],
+    [ "EggEvent", "df/d72/a12774.html#a7477504fa86afb6380234cf659c5f7d2", null ],
+    [ "EggList", "df/d72/a12774.html#a2e78bb7c91616d00af59b29af160d311", null ],
+    [ "guardList", "df/d72/a12774.html#ac396d405834c12dee713f9367a4d12db", null ],
+    [ "nefarianDoorGUID", "df/d72/a12774.html#a286d20f905bab05fae40019d2193169c", null ],
+    [ "nefarianGUID", "df/d72/a12774.html#af5e25c709a68da078cbaca38e4f692d8", null ],
+    [ "NefarianLeftTunnel", "df/d72/a12774.html#ae9dfe41953a427db9c3d87825dc4123b", null ],
+    [ "NefarianRightTunnel", "df/d72/a12774.html#aeb857871a07bea6822da067041c0a126", null ],
+    [ "razorgoreGUID", "df/d72/a12774.html#a96ca7c618cdf5d604e4b5700bffefadb", null ]
 ];

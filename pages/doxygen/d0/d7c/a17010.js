@@ -1,6 +1,8 @@
 var a17010 =
 [
-    [ "instance_drak_tharon_keep", "d0/d7c/a17010.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
-    [ "OnGameObjectCreate", "d0/d7c/a17010.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
-    [ "OnGameObjectRemove", "d0/d7c/a17010.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
+    [ "HandleEffectApply", "d0/d7c/a17010.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
+    [ "HandleEffectRemove", "d0/d7c/a17010.html#a04504220319ec562b1b6691f471c1b8d", null ],
+    [ "PrepareAuraScript", "d0/d7c/a17010.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
+    [ "Register", "d0/d7c/a17010.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
+    [ "Validate", "d0/d7c/a17010.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
 ];

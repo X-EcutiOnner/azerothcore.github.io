@@ -1,18 +1,12 @@
 var a13662 =
 [
-    [ "boss_kiljaeden", "df/dc8/a13662.html#a573b32098eac346f3f9485eb46792b1b", null ],
-    [ "AttackStart", "df/dc8/a13662.html#a9ad882dda480a564406628bfde386e57", null ],
-    [ "DamageTaken", "df/dc8/a13662.html#afd668a9d98182d7e05ca38040e55e908", null ],
-    [ "DoAction", "df/dc8/a13662.html#a53f78e51932d98886fadd9422adf96ce", null ],
-    [ "EmpowerOrb", "df/dc8/a13662.html#ade10c2e693f41d5d0240bce37d5c1168", null ],
-    [ "EnterEvadeMode", "df/dc8/a13662.html#a8e765740602b4f9efddafa5f2bdc8909", null ],
-    [ "InitializeAI", "df/dc8/a13662.html#ac72d5d9615040c981e8e4e932be8c362", null ],
-    [ "JustDied", "df/dc8/a13662.html#a82376e807061529bfd8fb4e52d409acf", null ],
-    [ "JustEngagedWith", "df/dc8/a13662.html#aac01e1f8b7b7dfb80a62f3eb0105ed10", null ],
-    [ "JustSummoned", "df/dc8/a13662.html#a3b983a903618b5bfebf7b45819207fde", null ],
-    [ "KilledUnit", "df/dc8/a13662.html#a220cf460466c44a82ce3933d2c5f27f8", null ],
-    [ "Reset", "df/dc8/a13662.html#aa45b8e5f598f68183b390e3239f0f75c", null ],
-    [ "ScheduleBasicAbilities", "df/dc8/a13662.html#a345f52703c9d72be2a67ff46ac1a0472", null ],
-    [ "UpdateAI", "df/dc8/a13662.html#aedcd604a535ce354881d7e59a05a79b9", null ],
-    [ "_phase", "df/dc8/a13662.html#a6878b5b88a45f1a5d70d866e9850041d", null ]
+    [ "boss_sathrovarr", "df/dc8/a13662.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "df/dc8/a13662.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "df/dc8/a13662.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "df/dc8/a13662.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "df/dc8/a13662.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "df/dc8/a13662.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "df/dc8/a13662.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "df/dc8/a13662.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "df/dc8/a13662.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

@@ -1,6 +1,6 @@
 var a21034 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d9/ddb/a21034.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "d9/ddb/a21034.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "d9/ddb/a21034.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "boss_koralonAI", "d0/df1/a21038.html", "d0/df1/a21038" ],
+    [ "boss_koralon", "d9/ddb/a21034.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "d9/ddb/a21034.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

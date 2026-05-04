@@ -1,20 +1,12 @@
 var a10182 =
 [
-    [ "KeyFrame", "db/d9b/a10182.html#a29de8ef0d2ba8671a00557782b5b3ba0", null ],
-    [ "IsStopFrame", "db/d9b/a10182.html#a5e5b3e61a5734a8cfcba1c8e9cfb6e33", null ],
-    [ "IsTeleportFrame", "db/d9b/a10182.html#a4197d8450563a6abd2826be37a2d0c0e", null ],
-    [ "ArriveTime", "db/d9b/a10182.html#afc5d26078e42a2170d43c864542f676f", null ],
-    [ "DepartureTime", "db/d9b/a10182.html#ac243e42c49063db26557d96b5fdf8a8f", null ],
-    [ "DistFromPrev", "db/d9b/a10182.html#a4271d37fac21d8c41758fc5edbf793e2", null ],
-    [ "DistSinceStop", "db/d9b/a10182.html#a60502cefa4387ffd815ba88530123ac6", null ],
-    [ "DistUntilStop", "db/d9b/a10182.html#a03f76647aa0c383bcd4b26ae93abe465", null ],
-    [ "Index", "db/d9b/a10182.html#a1176b2e4067a4e330db280514ca66d43", null ],
-    [ "InitialOrientation", "db/d9b/a10182.html#a9af26b07943f22473526463f7a0f7c6b", null ],
-    [ "NextArriveTime", "db/d9b/a10182.html#a51fb15713126d4890bfe99dc00e421f7", null ],
-    [ "NextDistFromPrev", "db/d9b/a10182.html#a23823648385abc72ffd8372468b98915", null ],
-    [ "Node", "db/d9b/a10182.html#ac628c537d5854ddf54d516eaf4471d7f", null ],
-    [ "Spline", "db/d9b/a10182.html#aee298cdd32a7593baf6ad00234120781", null ],
-    [ "Teleport", "db/d9b/a10182.html#ad57abe67a7e4771a35621b4204bfe347", null ],
-    [ "TimeFrom", "db/d9b/a10182.html#ae12ac1910a4aa13557e69bd5e066214b", null ],
-    [ "TimeTo", "db/d9b/a10182.html#ae4e0c37d26edb99017bf0042b3e0bad4", null ]
+    [ "MapReference", "db/d9b/a10182.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
+    [ "~MapReference", "db/d9b/a10182.html#a1e93b44871737991140718322fd1cd69", null ],
+    [ "next", "db/d9b/a10182.html#a352ef695a8968a17e921861b7d6242c1", null ],
+    [ "next", "db/d9b/a10182.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
+    [ "nocheck_prev", "db/d9b/a10182.html#a6cfff18295cf049ff554b0f140680890", null ],
+    [ "nockeck_prev", "db/d9b/a10182.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
+    [ "sourceObjectDestroyLink", "db/d9b/a10182.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
+    [ "targetObjectBuildLink", "db/d9b/a10182.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
+    [ "targetObjectDestroyLink", "db/d9b/a10182.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
 ];

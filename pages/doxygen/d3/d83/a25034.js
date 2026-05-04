@@ -1,7 +1,6 @@
 var a25034 =
 [
-    [ "HandleEffectApply", "d3/d83/a25034.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
-    [ "OnRemove", "d3/d83/a25034.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
-    [ "PrepareAuraScript", "d3/d83/a25034.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
-    [ "Register", "d3/d83/a25034.html#a473189971d0a03e7305b7b9e41dc5207", null ]
+    [ "OnApply", "d3/d83/a25034.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
+    [ "PrepareAuraScript", "d3/d83/a25034.html#a159ee8a9b0af729ed01f7632adb58863", null ],
+    [ "Register", "d3/d83/a25034.html#a0f33043317402119aa14e50a1eb6c227", null ]
 ];

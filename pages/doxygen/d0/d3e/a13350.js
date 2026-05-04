@@ -1,6 +1,8 @@
 var a13350 =
 [
-    [ "npc_valkyr_battle_maidenAI", "dd/d89/a13354.html", "dd/d89/a13354" ],
-    [ "npc_valkyr_battle_maiden", "d0/d3e/a13350.html#a4316dd483b262e637ea39ba9e972744b", null ],
-    [ "GetAI", "d0/d3e/a13350.html#ab067ea6f5f92039d471708039089e79c", null ]
+    [ "CheckCast", "d0/d3e/a13350.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
+    [ "HandleScriptEffect", "d0/d3e/a13350.html#a36bb2b95651889eaa0321a7a327e173f", null ],
+    [ "PrepareSpellScript", "d0/d3e/a13350.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
+    [ "Register", "d0/d3e/a13350.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
+    [ "Validate", "d0/d3e/a13350.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
 ];

@@ -1,9 +1,12 @@
 var a11294 =
 [
-    [ "TrainerList", "d0/d74/a11294.html#aebb173d4f46d00f383c4ed62e8b130a7", null ],
-    [ "Write", "d0/d74/a11294.html#a4d44b3310c3733ae56ffce9a84eff8d1", null ],
-    [ "Greeting", "d0/d74/a11294.html#ad88c53405b38f276815e0f013ce5261f", null ],
-    [ "Spells", "d0/d74/a11294.html#a6b3a33adeeab2c09ac83e7e430312158", null ],
-    [ "TrainerGUID", "d0/d74/a11294.html#ab5e93d6c38efd311c701401ec03f7958", null ],
-    [ "TrainerType", "d0/d74/a11294.html#a56a96a12b526f0e0cf89a6472c6a206b", null ]
+    [ "StartMirrorTimer", "d0/d74/a11294.html#a86039d4a721636477f266712682883f0", null ],
+    [ "StartMirrorTimer", "d0/d74/a11294.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
+    [ "Write", "d0/d74/a11294.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
+    [ "MaxValue", "d0/d74/a11294.html#a3f26c682d547be40d2800eff2189348d", null ],
+    [ "Paused", "d0/d74/a11294.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
+    [ "Scale", "d0/d74/a11294.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
+    [ "SpellID", "d0/d74/a11294.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
+    [ "Timer", "d0/d74/a11294.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
+    [ "Value", "d0/d74/a11294.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
 ];

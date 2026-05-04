@@ -1,6 +1,7 @@
 var a25454 =
 [
-    [ "HandleItemRemove", "da/d93/a25454.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "da/d93/a25454.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "da/d93/a25454.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "CalculateDamageAmount", "da/d93/a25454.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "da/d93/a25454.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "da/d93/a25454.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "da/d93/a25454.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

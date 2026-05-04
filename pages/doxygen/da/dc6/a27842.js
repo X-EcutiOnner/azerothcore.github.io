@@ -1,6 +1,7 @@
 var a27842 =
 [
-    [ "go_witherbark_totem_bundleAI", "da/d0a/a27846.html", "da/d0a/a27846" ],
-    [ "go_witherbark_totem_bundle", "da/dc6/a27842.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "da/dc6/a27842.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "go_darkmoon_faire_musicAI", "da/dc6/a27842.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "da/dc6/a27842.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "da/dc6/a27842.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "da/dc6/a27842.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

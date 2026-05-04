@@ -1,5 +1,8 @@
 var a27998 =
 [
-    [ "go_soulwellAI", "dd/d80/a27998.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "dd/d80/a27998.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "trigger_periodicAI", "dd/d80/a27998.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "dd/d80/a27998.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "dd/d80/a27998.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "dd/d80/a27998.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "dd/d80/a27998.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

@@ -1,10 +1,7 @@
 var a26570 =
 [
-    [ "CheckProc", "db/d23/a26570.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
-    [ "HandleProc", "db/d23/a26570.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
-    [ "Load", "db/d23/a26570.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
-    [ "PrepareAuraScript", "db/d23/a26570.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
-    [ "Register", "db/d23/a26570.html#a4cb08499767ab58f0e525c382b662fbd", null ],
-    [ "Validate", "db/d23/a26570.html#aa6165f28706d49940dd1f62065631119", null ],
-    [ "_procTarget", "db/d23/a26570.html#a7b9426e18b454bf631992518c2bdbde0", null ]
+    [ "HandleProc", "db/d23/a26570.html#a512ec25fe649e42930d64effa4f7868b", null ],
+    [ "PrepareAuraScript", "db/d23/a26570.html#ac1c7dcf63d7c67ec5fad424531519b58", null ],
+    [ "Register", "db/d23/a26570.html#a6118148ac0e641a6c3e4490c2cdd86c0", null ],
+    [ "Validate", "db/d23/a26570.html#a22dea9fb57d89b1d4813722968b5429f", null ]
 ];

@@ -1,6 +1,6 @@
 var a27386 =
 [
-    [ "HandleDummy", "dd/d50/a27386.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
-    [ "PrepareSpellScript", "dd/d50/a27386.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
-    [ "Register", "dd/d50/a27386.html#a27aece218c848064ae387491f9176099", null ]
+    [ "CheckProc", "dd/d50/a27386.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
+    [ "PrepareAuraScript", "dd/d50/a27386.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
+    [ "Register", "dd/d50/a27386.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
 ];

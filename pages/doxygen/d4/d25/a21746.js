@@ -1,7 +1,7 @@
 var a21746 =
 [
-    [ "npc_battle_at_valhalasAI", "d8/d83/a21750.html", "d8/d83/a21750" ],
-    [ "npc_battle_at_valhalas", "d4/d25/a21746.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "d4/d25/a21746.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "d4/d25/a21746.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "Absorb", "d4/d25/a21746.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "d4/d25/a21746.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "d4/d25/a21746.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "d4/d25/a21746.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

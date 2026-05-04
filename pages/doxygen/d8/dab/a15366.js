@@ -1,8 +1,6 @@
 var a15366 =
 [
-    [ "npc_obsidian_destroyer", "d8/dab/a15366.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "d8/dab/a15366.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "d8/dab/a15366.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "d8/dab/a15366.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "d8/dab/a15366.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "FilterTargets", "d8/dab/a15366.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
+    [ "PrepareSpellScript", "d8/dab/a15366.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
+    [ "Register", "d8/dab/a15366.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
 ];

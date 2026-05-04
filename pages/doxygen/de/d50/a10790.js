@@ -1,6 +1,5 @@
 var a10790 =
 [
-    [ "BuyBankSlotResult", "de/d50/a10790.html#a93b60814becc451c38f06f9702a9e027", null ],
-    [ "Write", "de/d50/a10790.html#a55a6609863b0d3ef966f222526268acb", null ],
-    [ "Result", "de/d50/a10790.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
+    [ "UpdatableScript", "de/d50/a10790.html#a2d6cf85d1eb98438b5022804296eff11", null ],
+    [ "OnUpdate", "de/d50/a10790.html#abf328325e08aa0d6adf36e6f70b02328", null ]
 ];

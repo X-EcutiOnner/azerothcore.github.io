@@ -1,7 +1,5 @@
 var a11078 =
 [
-    [ "GuildBankSetTabText", "d1/d3d/a11078.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
-    [ "Read", "d1/d3d/a11078.html#a24f580f6addcd08945c05016b3f0e544", null ],
-    [ "Tab", "d1/d3d/a11078.html#ada6707c2105410d78d4335dbf4747141", null ],
-    [ "TabText", "d1/d3d/a11078.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
+    [ "SocketEnchantID", "d1/d3d/a11078.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "d1/d3d/a11078.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

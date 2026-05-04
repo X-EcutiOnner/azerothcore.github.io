@@ -1,5 +1,5 @@
 var a27966 =
 [
-    [ "go_tele_to_violet_stand", "d5/de1/a27966.html#a63350db1dfd400c565e30775378d48cc", null ],
-    [ "OnGossipHello", "d5/de1/a27966.html#a4d075584f065501a2c3be9ef82387f43", null ]
+    [ "item_only_for_flight", "d5/de1/a27966.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d5/de1/a27966.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

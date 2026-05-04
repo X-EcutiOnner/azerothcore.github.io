@@ -1,7 +1,7 @@
 var a04289 =
 [
-    [ "instance_trial_of_the_champion", "d9/d5a/a16607.html", "d9/d5a/a16607" ],
-    [ "instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript", "d1/df8/a16611.html", "d1/df8/a16611" ],
-    [ "AddSC_instance_trial_of_the_champion", "db/d49/a04289.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd", null ],
-    [ "SpawnPosition", "db/d49/a04289.html#a70438d12d4153aa7d510c89551abf7c9", null ]
+    [ "go_transport_the_iron_eagle", "d8/dff/a28322.html", "d8/dff/a28322" ],
+    [ "go_transport_the_thundercaller", "d9/d59/a28326.html", "d9/d59/a28326" ],
+    [ "go_transport_the_purple_princess", "de/d08/a28330.html", "de/d08/a28330" ],
+    [ "AddSC_transport_zeppelins", "db/d49/a04289.html#a29051596b0a3382db98c6b72f7ff3173", null ]
 ];

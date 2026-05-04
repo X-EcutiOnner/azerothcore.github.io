@@ -1,6 +1,5 @@
 var a14310 =
 [
-    [ "FilterTargets", "d5/d1b/a14310.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "d5/d1b/a14310.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "d5/d1b/a14310.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "at_zulgurub_bridge_speech", "d5/d1b/a14310.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
+    [ "_OnTrigger", "d5/d1b/a14310.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
 ];

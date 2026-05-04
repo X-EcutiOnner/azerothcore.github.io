@@ -1,9 +1,7 @@
 var a11186 =
 [
-    [ "ItemEnchantTimeUpdate", "d0/da4/a11186.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
-    [ "Write", "d0/da4/a11186.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
-    [ "Duration", "d0/da4/a11186.html#ad576ce6011716519a70c6e00e0753a49", null ],
-    [ "ItemGuid", "d0/da4/a11186.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
-    [ "PlayerGuid", "d0/da4/a11186.html#a4623875e38909d8b7300e7d9c703b216", null ],
-    [ "Slot", "d0/da4/a11186.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
+    [ "AutoEquipItem", "d0/da4/a11186.html#a60accc2bf5c484753f94a8fe947e8f36", null ],
+    [ "Read", "d0/da4/a11186.html#a187bcedbc110adc332c0cb1de2bd7d9c", null ],
+    [ "SourceBag", "d0/da4/a11186.html#ad8fe37595168bc57fcd4af46bdbfafdc", null ],
+    [ "SourceSlot", "d0/da4/a11186.html#aee1f081b0775d7fc9eb67764a9249ec5", null ]
 ];

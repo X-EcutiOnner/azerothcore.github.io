@@ -1,6 +1,6 @@
 var a13926 =
 [
-    [ "CheckProc", "dc/d13/a13926.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "dc/d13/a13926.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "dc/d13/a13926.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "npc_rinjiAI", "d0/d65/a13930.html", "d0/d65/a13930" ],
+    [ "npc_rinji", "dc/d13/a13926.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
+    [ "GetAI", "dc/d13/a13926.html#a5457ac00ce0b195752640358b912af10", null ]
 ];

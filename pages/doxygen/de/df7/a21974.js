@@ -1,6 +1,6 @@
 var a21974 =
 [
-    [ "npc_icefangAI", "da/d10/a21978.html", "da/d10/a21978" ],
-    [ "npc_icefang", "de/df7/a21974.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "de/df7/a21974.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "HandleDamage", "de/df7/a21974.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "de/df7/a21974.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "de/df7/a21974.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

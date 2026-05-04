@@ -1,7 +1,6 @@
 var a19274 =
 [
-    [ "HandleScript", "da/db4/a19274.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "da/db4/a19274.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "da/db4/a19274.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "da/db4/a19274.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "FilterTargets", "da/db4/a19274.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "da/db4/a19274.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "da/db4/a19274.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

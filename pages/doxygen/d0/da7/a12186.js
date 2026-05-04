@@ -1,7 +1,8 @@
 var a12186 =
 [
-    [ "gear_commandscript", "d0/da7/a12186.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
-    [ "GetCommands", "d0/da7/a12186.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
-    [ "HandleGearRepairCommand", "d0/da7/a12186.html#a28cd5680f07f984326d79d91adbbfd70", null ],
-    [ "HandleGearStatsCommand", "d0/da7/a12186.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
+    [ "cache_commandscript", "d0/da7/a12186.html#a709e1d02632aed18113c1adb52e962b5", null ],
+    [ "GetCommands", "d0/da7/a12186.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
+    [ "HandleCacheDeleteCommand", "d0/da7/a12186.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
+    [ "HandleCacheInfoCommand", "d0/da7/a12186.html#aa9bce5578450a35909a4e481bc21867f", null ],
+    [ "HandleCacheRefreshCommand", "d0/da7/a12186.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
 ];

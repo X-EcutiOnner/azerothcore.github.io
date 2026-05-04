@@ -1,7 +1,8 @@
 var a21538 =
 [
-    [ "FilterTargets", "dc/d37/a21538.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "dc/d37/a21538.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "dc/d37/a21538.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "dc/d37/a21538.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "AfterApply", "dc/d37/a21538.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "dc/d37/a21538.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "dc/d37/a21538.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "dc/d37/a21538.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "dc/d37/a21538.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

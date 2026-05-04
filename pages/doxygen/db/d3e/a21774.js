@@ -1,6 +1,6 @@
 var a21774 =
 [
-    [ "npc_boneguard_footmanAI", "db/d3e/a21774.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "db/d3e/a21774.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "db/d3e/a21774.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_guardian_pavilionAI", "dc/d86/a21778.html", "dc/d86/a21778" ],
+    [ "npc_guardian_pavilion", "db/d3e/a21774.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "db/d3e/a21774.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

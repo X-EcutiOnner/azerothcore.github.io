@@ -1,6 +1,7 @@
 var a16678 =
 [
-    [ "npc_toc_paladinAI", "d3/d39/a16682.html", "d3/d39/a16682" ],
-    [ "npc_toc_paladin", "d0/dd6/a16678.html#af11025a2a4be2b2c982ad31241d47180", null ],
-    [ "GetAI", "d0/dd6/a16678.html#a15766ea4414701040c738251302177af", null ]
+    [ "HandleEffectPeriodic", "d0/dd6/a16678.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
+    [ "PrepareAuraScript", "d0/dd6/a16678.html#a4506f7d723b85c7555296f5ade11cd29", null ],
+    [ "Register", "d0/dd6/a16678.html#aeac7e6abc89209e14451439cdf1d416e", null ],
+    [ "Validate", "d0/dd6/a16678.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
 ];

@@ -1,18 +1,11 @@
 var a28998 =
 [
-    [ "getArmorMod", "d3/d48/a28998.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
-    [ "getDPSMod", "d3/d48/a28998.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
-    [ "getFeralBonus", "d3/d48/a28998.html#aa54c3d1add4a1b982c05138f876fd138", null ],
-    [ "getSpellBonus", "d3/d48/a28998.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
-    [ "getssdMultiplier", "d3/d48/a28998.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
-    [ "IsTwoHand", "d3/d48/a28998.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
-    [ "armorMod", "d3/d48/a28998.html#a742f8447dca5961fb39e50de8233fa86", null ],
-    [ "armorMod2", "d3/d48/a28998.html#a36dba32ea7febb8dab627fa992de878b", null ],
-    [ "dpsMod", "d3/d48/a28998.html#ace956cab0056bcf0e116ac0884ad3575", null ],
-    [ "Id", "d3/d48/a28998.html#aebc75b8f80cb210b6af081077bd88e85", null ],
-    [ "Level", "d3/d48/a28998.html#a5758f5152401efde26edf3110c0d11e2", null ],
-    [ "spellPower", "d3/d48/a28998.html#a03804cca02fd1146dffb762bcd1274f8", null ],
-    [ "ssdMultiplier", "d3/d48/a28998.html#a7559b9045268d8050372153c8c976946", null ],
-    [ "ssdMultiplier2", "d3/d48/a28998.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
-    [ "ssdMultiplier3", "d3/d48/a28998.html#ae78f00d5ed42704a4093b5df939498d7", null ]
+    [ "addToSpellBook", "d3/d48/a28998.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
+    [ "Col", "d3/d48/a28998.html#a0bc589c5b1425d5e889cd290b805169e", null ],
+    [ "DependsOn", "d3/d48/a28998.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
+    [ "DependsOnRank", "d3/d48/a28998.html#a608f232669981da3423b959479ca8683", null ],
+    [ "RankID", "d3/d48/a28998.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
+    [ "Row", "d3/d48/a28998.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
+    [ "TalentID", "d3/d48/a28998.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
+    [ "TalentTab", "d3/d48/a28998.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
 ];

@@ -1,9 +1,9 @@
 var a25718 =
 [
-    [ "CheckProc", "df/d43/a25718.html#a185159a5c83e8c65ef5b82f49a89dd8a", null ],
-    [ "HandleProc", "df/d43/a25718.html#a67db21e0293f336a31bf518c0fac85d1", null ],
-    [ "OnRemove", "df/d43/a25718.html#a1b51483738d5d3b73f50a78ef9fc1c57", null ],
-    [ "PrepareAuraScript", "df/d43/a25718.html#a3e549b8764c0f8efc5d110543c9944c7", null ],
-    [ "Register", "df/d43/a25718.html#abc4b88f104253b2b141ab0e3e22ee338", null ],
-    [ "Validate", "df/d43/a25718.html#a0b5b97081b7c897d451ef70c810bd7f1", null ]
+    [ "CheckRequirement", "df/d43/a25718.html#adab261a5221ca54b15cc414d291908fe", null ],
+    [ "HandleDummy", "df/d43/a25718.html#abb7a734244bb18d75304a0510f9efb8d", null ],
+    [ "Load", "df/d43/a25718.html#a418eef16d1e3aeff67013f45409c092a", null ],
+    [ "PrepareSpellScript", "df/d43/a25718.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
+    [ "Register", "df/d43/a25718.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
+    [ "Validate", "df/d43/a25718.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
 ];

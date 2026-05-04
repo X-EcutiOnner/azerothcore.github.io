@@ -1,8 +1,6 @@
 var a11930 =
 [
-    [ "CreatureTextId", "d9/de9/a11930.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "d9/de9/a11930.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "d9/de9/a11930.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "d9/de9/a11930.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "d9/de9/a11930.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "AuraProcHandler", "d9/de9/a11930.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
+    [ "Call", "d9/de9/a11930.html#abc0c3be9dee08e995c282f20900f3c46", null ],
+    [ "_HandlerScript", "d9/de9/a11930.html#ada8d7a5659598b0092739a91ba2653bd", null ]
 ];

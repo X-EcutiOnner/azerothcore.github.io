@@ -1,5 +1,10 @@
 var a27962 =
 [
-    [ "go_tele_to_dalaran_crystal", "d0/db1/a27962.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "d0/db1/a27962.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "guard_shattrath_aldorAI", "d0/db1/a27962.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "d0/db1/a27962.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "d0/db1/a27962.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "d0/db1/a27962.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "d0/db1/a27962.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "d0/db1/a27962.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "d0/db1/a27962.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

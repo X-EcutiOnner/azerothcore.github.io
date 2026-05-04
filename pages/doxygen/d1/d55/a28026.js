@@ -1,8 +1,10 @@
 var a28026 =
 [
-    [ "go_bellsAI", "d1/d55/a28026.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d1/d55/a28026.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d1/d55/a28026.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d1/d55/a28026.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d1/d55/a28026.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "go_evil_book_for_dummies", "d1/d55/a28026.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "d1/d55/a28026.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "d1/d55/a28026.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "d1/d55/a28026.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "d1/d55/a28026.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "d1/d55/a28026.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "d1/d55/a28026.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

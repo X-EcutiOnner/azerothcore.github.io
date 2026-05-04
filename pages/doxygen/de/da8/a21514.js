@@ -1,5 +1,6 @@
 var a21514 =
 [
-    [ "at_q24545_frostmourne_cavern", "de/da8/a21514.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "de/da8/a21514.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "npc_spiritual_insightAI", "de/da8/a21514.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "de/da8/a21514.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "de/da8/a21514.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

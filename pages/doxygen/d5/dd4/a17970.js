@@ -1,7 +1,6 @@
 var a17970 =
 [
-    [ "OnPeriodic", "d5/dd4/a17970.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "d5/dd4/a17970.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "d5/dd4/a17970.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "d5/dd4/a17970.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "npc_cult_fanaticAI", "d5/d0e/a17974.html", "d5/d0e/a17974" ],
+    [ "npc_cult_fanatic", "d5/dd4/a17970.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d5/dd4/a17970.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

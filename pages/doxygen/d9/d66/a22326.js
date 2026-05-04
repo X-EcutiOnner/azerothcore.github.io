@@ -1,8 +1,10 @@
 var a22326 =
 [
-    [ "boss_tavarok", "d9/d66/a22326.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "d9/d66/a22326.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "d9/d66/a22326.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "d9/d66/a22326.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "d9/d66/a22326.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "boss_murmur", "d9/d66/a22326.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CastSuppressionOOC", "d9/d66/a22326.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "EnterEvadeMode", "d9/d66/a22326.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "d9/d66/a22326.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "d9/d66/a22326.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "d9/d66/a22326.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
+    [ "ShouldCastResonance", "d9/d66/a22326.html#ade07217a85655a513d7a472d24589691", null ]
 ];

@@ -1,7 +1,7 @@
 var a21698 =
 [
-    [ "npc_Apothecary_HanesAI", "dc/deb/a21702.html", "dc/deb/a21702" ],
-    [ "npc_apothecary_hanes", "d9/de8/a21698.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "d9/de8/a21698.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "d9/de8/a21698.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "npc_battle_at_valhalasAI", "dc/deb/a21702.html", "dc/deb/a21702" ],
+    [ "npc_battle_at_valhalas", "d9/de8/a21698.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "d9/de8/a21698.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "d9/de8/a21698.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

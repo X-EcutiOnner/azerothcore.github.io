@@ -1,6 +1,7 @@
 var a20570 =
 [
-    [ "x", "db/d9f/a20570.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "db/d9f/a20570.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "db/d9f/a20570.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "npc_xt002_life_spark", "db/d9f/a20570.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
+    [ "Reset", "db/d9f/a20570.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
+    [ "UpdateAI", "db/d9f/a20570.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
+    [ "_attackTimer", "db/d9f/a20570.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
 ];

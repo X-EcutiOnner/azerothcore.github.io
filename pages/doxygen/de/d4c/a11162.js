@@ -1,7 +1,5 @@
 var a11162 =
 [
-    [ "BuybackItem", "de/d4c/a11162.html#a05dec559746537669fcf32f52a171b44", null ],
-    [ "Read", "de/d4c/a11162.html#aefe27701674c75f8937f72ee418a6692", null ],
-    [ "Slot", "de/d4c/a11162.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
-    [ "VendorGuid", "de/d4c/a11162.html#a6be9d8d3f564621780e458c4a785b709", null ]
+    [ "ResetInstances", "de/d4c/a11162.html#a64d9627a48ae2bfcda68b7d04273fe18", null ],
+    [ "Read", "de/d4c/a11162.html#a7f190f2bb133fa18e46830f68695b050", null ]
 ];

@@ -1,9 +1,6 @@
 var a04916 =
 [
-    [ "FactorySelector::PermissibleOrderPred< T >", "d1/d0b/a06458.html", "d1/d0b/a06458" ],
-    [ "GetPermitFor", "d1/d58/a04916.html#aaf9c138ae6c123d03859db553a39892d", null ],
-    [ "SelectAI", "d1/d58/a04916.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
-    [ "SelectFactory", "d1/d58/a04916.html#ad553c2186f078e696768d40d217738f8", null ],
-    [ "SelectGameObjectAI", "d1/d58/a04916.html#a2ce404e9b85f551638d8783c01a19860", null ],
-    [ "SelectMovementGenerator", "d1/d58/a04916.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
+    [ "SetupLibrariesForWindows", "d1/d58/a04916.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
+    [ "DefaultProvider", "d1/d58/a04916.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
+    [ "LegacyProvider", "d1/d58/a04916.html#a81b4206923925a193dca5c3acd946bc2", null ]
 ];

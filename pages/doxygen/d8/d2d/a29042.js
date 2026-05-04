@@ -1,7 +1,9 @@
 var a29042 =
 [
-    [ "ID", "d8/d2d/a29042.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d8/d2d/a29042.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d8/d2d/a29042.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d8/d2d/a29042.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "adtId", "d8/d2d/a29042.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
+    [ "areaId", "d8/d2d/a29042.html#a7f652c68036429350543fc5a2cc6861e", null ],
+    [ "Flags", "d8/d2d/a29042.html#a60f9a61948d1e28587c9d1a338730f37", null ],
+    [ "groupId", "d8/d2d/a29042.html#a09052bad3028899580ffedd556672b64", null ],
+    [ "Id", "d8/d2d/a29042.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
+    [ "rootId", "d8/d2d/a29042.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
 ];

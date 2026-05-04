@@ -1,8 +1,7 @@
 var a12506 =
 [
-    [ "CheckProc", "d9/d86/a12506.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d9/d86/a12506.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d9/d86/a12506.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d9/d86/a12506.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d9/d86/a12506.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_grizzle", "d9/d86/a12506.html#af5d864d2e06859a3c21506b8def424d0", null ],
+    [ "JustEngagedWith", "d9/d86/a12506.html#ad925b3a8190037e1768b1c5565656be7", null ],
+    [ "UpdateAI", "d9/d86/a12506.html#a72c28686adf331ed291585f830041041", null ],
+    [ "nextTremorTime", "d9/d86/a12506.html#a220d7e426d7bd2034cf2dc70d0a18f26", null ]
 ];

@@ -1,7 +1,6 @@
 var a22094 =
 [
-    [ "HandleScript", "d3/d7e/a22094.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d3/d7e/a22094.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d3/d7e/a22094.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d3/d7e/a22094.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_released_offspring_harkoaAI", "d3/d5a/a22098.html", "d3/d5a/a22098" ],
+    [ "npc_released_offspring_harkoa", "d3/d7e/a22094.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "d3/d7e/a22094.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

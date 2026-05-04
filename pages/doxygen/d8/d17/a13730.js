@@ -1,9 +1,7 @@
 var a13730 =
 [
-    [ "npc_dark_fiend", "d8/d17/a13730.html#a8c4ebf7ba2f991df7053d40108330609", null ],
-    [ "DamageTaken", "d8/d17/a13730.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
-    [ "Reset", "d8/d17/a13730.html#a5622d14f84ad8e47da773852f1778d56", null ],
-    [ "UpdateAI", "d8/d17/a13730.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
-    [ "_lastVictimGUID", "d8/d17/a13730.html#abcccb35701f21d417e3c13709cc24281", null ],
-    [ "_spellCast", "d8/d17/a13730.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
+    [ "HandleScriptEffect", "d8/d17/a13730.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "d8/d17/a13730.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "d8/d17/a13730.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "d8/d17/a13730.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

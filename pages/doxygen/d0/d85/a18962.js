@@ -1,7 +1,5 @@
 var a18962 =
 [
-    [ "HandleDummy", "d0/d85/a18962.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "d0/d85/a18962.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "d0/d85/a18962.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "d0/d85/a18962.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "at_icc_saurfang_portal", "d0/d85/a18962.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "d0/d85/a18962.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

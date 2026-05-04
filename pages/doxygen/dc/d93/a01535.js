@@ -1,10 +1,10 @@
 var a01535 =
 [
-    [ "AddPetScripts", "dc/d93/a01535.html#aaeb6a149e6495db19023f37a4f8bd882", null ],
-    [ "AddSC_deathknight_pet_scripts", "dc/d93/a01535.html#ac6a5b089240cd6b996928b3e7f9137b3", null ],
-    [ "AddSC_generic_pet_scripts", "dc/d93/a01535.html#a9852812a043673e45884dca938eff157", null ],
-    [ "AddSC_hunter_pet_scripts", "dc/d93/a01535.html#ab89117a79c55f003f82b06a1878e6534", null ],
-    [ "AddSC_mage_pet_scripts", "dc/d93/a01535.html#a689a4efb7777f4164aee994745a0e2d2", null ],
-    [ "AddSC_priest_pet_scripts", "dc/d93/a01535.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ],
-    [ "AddSC_shaman_pet_scripts", "dc/d93/a01535.html#ab07e634ed761985e07d5c0e10f329231", null ]
+    [ "TradeData", "d1/d37/a08970.html", "d1/d37/a08970" ],
+    [ "TradeSlots", "dc/d93/a01535.html#ad8fd978c4198825d89a1f02643d20c62", [
+      [ "TRADE_SLOT_COUNT", "dc/d93/a01535.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488", null ],
+      [ "TRADE_SLOT_TRADED_COUNT", "dc/d93/a01535.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79", null ],
+      [ "TRADE_SLOT_NONTRADED", "dc/d93/a01535.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f", null ],
+      [ "TRADE_SLOT_INVALID", "dc/d93/a01535.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4", null ]
+    ] ]
 ];

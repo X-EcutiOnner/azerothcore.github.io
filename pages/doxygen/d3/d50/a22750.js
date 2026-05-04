@@ -1,6 +1,11 @@
 var a22750 =
 [
-    [ "HandleEffectRemove", "d3/d50/a22750.html#a99f96034b5976615c38e13e5e55c61b6", null ],
-    [ "PrepareAuraScript", "d3/d50/a22750.html#a0515a72abd37df13606876021659b995", null ],
-    [ "Register", "d3/d50/a22750.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
+    [ "boss_doomwalker", "d3/d50/a22750.html#a47811086ff98b1a09af5300af94b6c0e", null ],
+    [ "JustDied", "d3/d50/a22750.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
+    [ "JustEngagedWith", "d3/d50/a22750.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
+    [ "KilledUnit", "d3/d50/a22750.html#a2335eb642940397f73ee2a8051624e8e", null ],
+    [ "MoveInLineOfSight", "d3/d50/a22750.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
+    [ "Reset", "d3/d50/a22750.html#aba08b227d629c9f35e59f465e29c267b", null ],
+    [ "UpdateAI", "d3/d50/a22750.html#a3105c50e512c6f709985cece619b131f", null ],
+    [ "_inEnrage", "d3/d50/a22750.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
 ];

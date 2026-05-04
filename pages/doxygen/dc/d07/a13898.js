@@ -1,17 +1,10 @@
 var a13898 =
 [
-    [ "npc_rinjiAI", "dc/d07/a13898.html#ab613818b92530269f0802077eccc92d0", null ],
-    [ "DoSpawnAmbush", "dc/d07/a13898.html#af2535d7364641fadc98bca91ace9c906", null ],
-    [ "JustEngagedWith", "dc/d07/a13898.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
-    [ "JustRespawned", "dc/d07/a13898.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
-    [ "JustSummoned", "dc/d07/a13898.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
-    [ "Reset", "dc/d07/a13898.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
-    [ "sQuestAccept", "dc/d07/a13898.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
-    [ "UpdateEscortAI", "dc/d07/a13898.html#a60f05b58b115f3f2ea11206778893547", null ],
-    [ "WaypointReached", "dc/d07/a13898.html#a9463060a57b85113b71482c8a0974f60", null ],
-    [ "WaypointReached", "dc/d07/a13898.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_IsByOutrunner", "dc/d07/a13898.html#adecc4eb9f90969621b52b97ff594558d", null ],
-    [ "postEventCount", "dc/d07/a13898.html#a601f142bd2a04ed303611044bac91035", null ],
-    [ "postEventTimer", "dc/d07/a13898.html#a5154e551143e81d431f706ad07b78ca0", null ],
-    [ "spawnId", "dc/d07/a13898.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
+    [ "npc_partygoer_pather", "dc/d07/a13898.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "dc/d07/a13898.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "dc/d07/a13898.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "dc/d07/a13898.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "dc/d07/a13898.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "dc/d07/a13898.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "dc/d07/a13898.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

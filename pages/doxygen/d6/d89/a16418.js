@@ -1,7 +1,7 @@
 var a16418 =
 [
-    [ "OnApply", "d6/d89/a16418.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d6/d89/a16418.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d6/d89/a16418.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d6/d89/a16418.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "HandlePeriodic", "d6/d89/a16418.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
+    [ "PrepareAuraScript", "d6/d89/a16418.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
+    [ "Register", "d6/d89/a16418.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
+    [ "Validate", "d6/d89/a16418.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
 ];

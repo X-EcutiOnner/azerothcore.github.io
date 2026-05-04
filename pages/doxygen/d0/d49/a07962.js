@@ -1,7 +1,6 @@
 var a07962 =
 [
-    [ "value_type", "d0/d49/a07962.html#a7a7bb2f2de595ea6ca37885da6f63b9f", null ],
-    [ "TryConsume", "d0/d49/a07962.html#ad98dd12bf2b9d4c5a3812d91232c4b8e", null ],
-    [ "_storage", "d0/d49/a07962.html#a0480bb23bf5c47ac03935901211952b5", null ],
-    [ "_string", "d0/d49/a07962.html#ae0538263243f423c8f86459300aec8d7", null ]
+    [ "operator bool", "d0/d49/a07962.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
+    [ "tail", "d0/d49/a07962.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
+    [ "token", "d0/d49/a07962.html#a55e214db8a01ac3c427874d03f1bda54", null ]
 ];

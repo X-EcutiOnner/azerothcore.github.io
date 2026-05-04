@@ -1,9 +1,6 @@
 var a21338 =
 [
-    [ "npc_bloodmage_laurithAI", "de/d15/a21338.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "de/d15/a21338.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "de/d15/a21338.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
-    [ "UpdateAI", "de/d15/a21338.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "de/d15/a21338.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "de/d15/a21338.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_archmage_landalockAI", "d5/d6f/a21342.html", "d5/d6f/a21342" ],
+    [ "npc_archmage_landalock", "de/d15/a21338.html#ac7379ff07740123312af66ead64df4c6", null ],
+    [ "GetAI", "de/d15/a21338.html#a92cfa8c2660413681297bfe12815c938", null ]
 ];

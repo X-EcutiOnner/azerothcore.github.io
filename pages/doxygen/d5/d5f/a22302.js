@@ -1,8 +1,6 @@
 var a22302 =
 [
-    [ "CalcPeriodic", "d5/d5f/a22302.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "d5/d5f/a22302.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "d5/d5f/a22302.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "d5/d5f/a22302.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "d5/d5f/a22302.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "de/dc7/a22306.html", "de/dc7/a22306" ],
+    [ "instance_sethekk_halls", "d5/d5f/a22302.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "d5/d5f/a22302.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

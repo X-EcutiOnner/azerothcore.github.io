@@ -1,7 +1,8 @@
 var a27478 =
 [
-    [ "HandleProc", "db/d7a/a27478.html#a9296b52700f070af311047166f6a913b", null ],
-    [ "PrepareAuraScript", "db/d7a/a27478.html#a067cc24e65f79bab10b9d1258fad3460", null ],
-    [ "Register", "db/d7a/a27478.html#affbd8840159048b6ea55ab98900d38c0", null ],
-    [ "Validate", "db/d7a/a27478.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
+    [ "HandleDamage", "db/d7a/a27478.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "db/d7a/a27478.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "db/d7a/a27478.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "db/d7a/a27478.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "db/d7a/a27478.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

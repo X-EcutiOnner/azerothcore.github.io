@@ -1,7 +1,7 @@
 var a12002 =
 [
-    [ "Command", "d8/dae/a12002.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "d8/dae/a12002.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "d8/dae/a12002.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "d8/dae/a12002.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "PlayerGuid", "d8/dae/a12002.html#a629a600c48376d04293c225390f747ff", null ],
+    [ "PrimaryKey", "d8/dae/a12002.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
+    [ "StoredType", "d8/dae/a12002.html#a9bea7cf549813010b55c23417d65edc6", null ],
+    [ "TableName", "d8/dae/a12002.html#a0f308af88812c110c490c94368bda482", null ]
 ];

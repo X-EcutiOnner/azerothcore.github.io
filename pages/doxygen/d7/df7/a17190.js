@@ -1,18 +1,8 @@
 var a17190 =
 [
-    [ "boss_garfrostAI", "d7/df7/a17190.html#af9f0a6bc8b982b025312d6b2c1f91549", null ],
-    [ "DamageTaken", "d7/df7/a17190.html#a7a033f54f2c994c74b7125fb549af513", null ],
-    [ "EnterEvadeMode", "d7/df7/a17190.html#acca25c3bf34760ed1f0e451d8d304ab6", null ],
-    [ "JustDied", "d7/df7/a17190.html#a6439d3163c49973b36ae10c85b9dd11e", null ],
-    [ "JustEngagedWith", "d7/df7/a17190.html#a06e1b8d8e0b1f0fd5fac0b2a4bad4ad6", null ],
-    [ "KilledUnit", "d7/df7/a17190.html#af3751410e925a20c21b282d1b2de3bf3", null ],
-    [ "MovementInform", "d7/df7/a17190.html#aadebdb2dd4402be150711f98dfab3f5f", null ],
-    [ "Reset", "d7/df7/a17190.html#a916fd78cf3fd309ab8b13c96325002f2", null ],
-    [ "SetData", "d7/df7/a17190.html#a3563e70e731836857837b1d4ac135130", null ],
-    [ "SpellHitTarget", "d7/df7/a17190.html#ab7a4941d3d4565215ab3ac200ee1d534", null ],
-    [ "UpdateAI", "d7/df7/a17190.html#a27cf76c48504dfb21f1a4a0caf9dd4cb", null ],
-    [ "bCanSayBoulderHit", "d7/df7/a17190.html#a587196314c341334418ea19c7f9ea597", null ],
-    [ "events", "d7/df7/a17190.html#addafeb61c54f95e71d9c45de3bddd25b", null ],
-    [ "phase", "d7/df7/a17190.html#a917a6a57e8c55b9be92f01e2e7422508", null ],
-    [ "pInstance", "d7/df7/a17190.html#a57ded0b0c7085ea978c01efa28e7d096", null ]
+    [ "npc_hor_risen_witch_doctor", "d7/df7/a17190.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "d7/df7/a17190.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "d7/df7/a17190.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "d7/df7/a17190.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "d7/df7/a17190.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

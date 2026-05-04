@@ -1,6 +1,5 @@
 var a18662 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d3/d54/a18666.html", "d3/d54/a18666" ],
-    [ "npc_green_dragon_combat_trigger", "d3/dff/a18662.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "d3/dff/a18662.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "achievement_been_waiting_long_time", "d3/dff/a18662.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "d3/dff/a18662.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

@@ -1,11 +1,9 @@
 var a13038 =
 [
-    [ "npc_demon_chain", "d6/d1c/a13038.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "d6/d1c/a13038.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "d6/d1c/a13038.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "d6/d1c/a13038.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "d6/d1c/a13038.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "d6/d1c/a13038.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "d6/d1c/a13038.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "d6/d1c/a13038.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "FilterTargets", "d6/d1c/a13038.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "d6/d1c/a13038.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "d6/d1c/a13038.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "d6/d1c/a13038.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "d6/d1c/a13038.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "d6/d1c/a13038.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

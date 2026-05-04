@@ -1,7 +1,8 @@
 var a16414 =
 [
-    [ "OnApply", "d0/d5d/a16414.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "d0/d5d/a16414.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "d0/d5d/a16414.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "d0/d5d/a16414.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "OnApply", "d0/d5d/a16414.html#a96321003a002be0e4838901f03f8a5d8", null ],
+    [ "OnRemove", "d0/d5d/a16414.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
+    [ "PrepareAuraScript", "d0/d5d/a16414.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
+    [ "Register", "d0/d5d/a16414.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
+    [ "Validate", "d0/d5d/a16414.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
 ];

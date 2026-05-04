@@ -1,6 +1,7 @@
 var a25906 =
 [
-    [ "OnPeriodic", "de/d5b/a25906.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
-    [ "PrepareAuraScript", "de/d5b/a25906.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
-    [ "Register", "de/d5b/a25906.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
+    [ "HandleDummy", "de/d5b/a25906.html#a787b5b1c0d0687bad944452c678f33b9", null ],
+    [ "Load", "de/d5b/a25906.html#a8d7e2821f74443292c43c40bbfb9ed92", null ],
+    [ "PrepareSpellScript", "de/d5b/a25906.html#a79dcac5234ca195488e647a280806e69", null ],
+    [ "Register", "de/d5b/a25906.html#ae9cbe89924c2578bb1ed21a55a48cf6b", null ]
 ];

@@ -1,7 +1,11 @@
 var a07486 =
 [
-    [ "attackText", "d4/dd9/a07486.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
-    [ "id", "d4/dd9/a07486.html#a7f28adc30e9293df2f2c124469550d75", null ],
-    [ "takenText", "d4/dd9/a07486.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
-    [ "worldstate", "d4/dd9/a07486.html#a342ef087df4f9326952728c2192a3da3", null ]
+    [ "gyid", "d4/dd9/a07486.html#a742fcc91d2daf1a9331f02a90496328c", null ],
+    [ "o", "d4/dd9/a07486.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
+    [ "startcontrol", "d4/dd9/a07486.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
+    [ "textid", "d4/dd9/a07486.html#a87d80377ad632b9d667eecf11ae8faae", null ],
+    [ "type", "d4/dd9/a07486.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
+    [ "x", "d4/dd9/a07486.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
+    [ "y", "d4/dd9/a07486.html#a405e8098772e77250683985f957ce5f3", null ],
+    [ "z", "d4/dd9/a07486.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
 ];

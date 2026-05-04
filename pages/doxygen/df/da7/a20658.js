@@ -1,8 +1,6 @@
 var a20658 =
 [
-    [ "FilterTargets", "df/da7/a20658.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "df/da7/a20658.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "df/da7/a20658.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "df/da7/a20658.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "df/da7/a20658.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_yoggsaron_influence_tentacle", "df/da7/a20658.html#ac5908d64a4749303a08d352d470995dd", null ],
+    [ "DamageTaken", "df/da7/a20658.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "df/da7/a20658.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

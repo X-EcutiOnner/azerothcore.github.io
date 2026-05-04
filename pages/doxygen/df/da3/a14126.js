@@ -1,20 +1,12 @@
 var a14126 =
 [
-    [ "boss_janalai", "df/da3/a14126.html#a6a049cb60b475b6c496862205d91c39f", null ],
-    [ "Boom", "df/da3/a14126.html#a902814fa472af7dde6096e6e1901bfd4", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "df/da3/a14126.html#a9320a91d93f1fc82ec863ecf767c0a8a", null ],
-    [ "DamageDealt", "df/da3/a14126.html#af29b99a31b38516815390087d76c9408", null ],
-    [ "FireWall", "df/da3/a14126.html#ac3cd768db0abbbe4b03a08f214afc5ba", null ],
-    [ "HatchAllEggs", "df/da3/a14126.html#a7caee2554fe4f6211589e3346d1865fd", null ],
-    [ "JustDied", "df/da3/a14126.html#a1dd381dbf7bdc25e6a5fc519b132c5e4", null ],
-    [ "JustEngagedWith", "df/da3/a14126.html#af16f7db848ff2ddcf060ba770d0df836", null ],
-    [ "JustSummoned", "df/da3/a14126.html#a37aacd788ee8206a8ffbaad7ba702736", null ],
-    [ "Reset", "df/da3/a14126.html#a8f42138403eb2ef6d1737539dd352e80", null ],
-    [ "SetData", "df/da3/a14126.html#a48636a0186d7a09e4e98d960bab5530e", null ],
-    [ "SpawnBombs", "df/da3/a14126.html#ab352cc1bb7f2fc04505de30fe041c9bd", null ],
-    [ "StartBombing", "df/da3/a14126.html#a9a32cbc9bb1c1542a19aea32f9a9addf", null ],
-    [ "ThrowBombs", "df/da3/a14126.html#a9a927462879c6c81b2c919c62336a08c", null ],
-    [ "_isBombing", "df/da3/a14126.html#a881f564fe75051c1c10e645d3f0b243b", null ],
-    [ "_isFlameBreathing", "df/da3/a14126.html#a0fc79fcdfdd27baa047d22b86135a653", null ],
-    [ "_sideHatched", "df/da3/a14126.html#ae5cb2bcdfd54a66f62dc807946249528", null ]
+    [ "npc_akilzon_eagle", "df/da3/a14126.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "df/da3/a14126.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "df/da3/a14126.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "df/da3/a14126.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "df/da3/a14126.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "df/da3/a14126.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "df/da3/a14126.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "df/da3/a14126.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "df/da3/a14126.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

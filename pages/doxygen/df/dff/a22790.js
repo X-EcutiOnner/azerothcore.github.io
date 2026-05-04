@@ -1,6 +1,6 @@
 var a22790 =
 [
-    [ "boss_doomlordkazzakAI", "d6/db8/a22794.html", "d6/db8/a22794" ],
-    [ "boss_doomlord_kazzak", "df/dff/a22790.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "df/dff/a22790.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "HandleEffectRemove", "df/dff/a22790.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
+    [ "PrepareAuraScript", "df/dff/a22790.html#a5fa56f4d61c63487919bb2080795e391", null ],
+    [ "Register", "df/dff/a22790.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
 ];

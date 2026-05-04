@@ -1,8 +1,7 @@
 var a29002 =
 [
-    [ "ClassMask", "db/d4e/a29002.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "db/d4e/a29002.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "db/d4e/a29002.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "db/d4e/a29002.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "db/d4e/a29002.html#ab6153043461b71336e12b00957499075", null ]
+    [ "ClassMask", "db/d4e/a29002.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "db/d4e/a29002.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "db/d4e/a29002.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "db/d4e/a29002.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

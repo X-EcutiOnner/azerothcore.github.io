@@ -1,6 +1,6 @@
 var a14878 =
 [
-    [ "HandleScriptEffect", "db/dcf/a14878.html#a2acaaf3716237f147429cb07779ae49e", null ],
-    [ "PrepareSpellScript", "db/dcf/a14878.html#a55df717ede47b17a32ae33ecd64617cd", null ],
-    [ "Register", "db/dcf/a14878.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
+    [ "PrepareAuraScript", "db/dcf/a14878.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "db/dcf/a14878.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "db/dcf/a14878.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

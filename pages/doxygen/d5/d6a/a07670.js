@@ -1,10 +1,9 @@
 var a07670 =
 [
-    [ "BattlegroundEYCapturingPointStruct", "d5/d6a/a07670.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
-    [ "DespawnNeutralObjectType", "d5/d6a/a07670.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
-    [ "GraveyardId", "d5/d6a/a07670.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
-    [ "MessageIdAlliance", "d5/d6a/a07670.html#af3295d59367354a4ddaac12258e793b8", null ],
-    [ "MessageIdHorde", "d5/d6a/a07670.html#a5c82eae433ee69b5bda8c96049a06422", null ],
-    [ "SpawnObjectTypeAlliance", "d5/d6a/a07670.html#aeeeecdf09990c74ffc868a135854d49b", null ],
-    [ "SpawnObjectTypeHorde", "d5/d6a/a07670.html#a4b25984504b15c7249d2e5866ad35962", null ]
+    [ "CapturePointInfo", "d5/d6a/a07670.html#a47ba3bbadd15909726e87dc5adc67686", null ],
+    [ "_captured", "d5/d6a/a07670.html#aac26833d9951853183095b3985254e03", null ],
+    [ "_iconCapture", "d5/d6a/a07670.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
+    [ "_iconNone", "d5/d6a/a07670.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
+    [ "_ownerTeamId", "d5/d6a/a07670.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
+    [ "_state", "d5/d6a/a07670.html#a98cb154218423e295b8007c62222831c", null ]
 ];

@@ -1,7 +1,8 @@
 var a12798 =
 [
-    [ "HandlePeriodic", "d6/d66/a12798.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "d6/d66/a12798.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "d6/d66/a12798.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "d6/d66/a12798.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_garr", "d6/d66/a12798.html#a12ac023b48fc20055cec9e7e8dbfa8a7", null ],
+    [ "JustEngagedWith", "d6/d66/a12798.html#abab82d2e00b373ea1f0e444de23f4987", null ],
+    [ "Reset", "d6/d66/a12798.html#a64bcae059cfa97def7e52a42d404a016", null ],
+    [ "UpdateAI", "d6/d66/a12798.html#a2a412224072b47de6780ea7b8d543743", null ],
+    [ "massEruptionTimer", "d6/d66/a12798.html#a6c428a4c92e4dcbe2fc2b97b5f377560", null ]
 ];

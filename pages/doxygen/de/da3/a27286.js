@@ -1,7 +1,6 @@
 var a27286 =
 [
-    [ "HandleProc", "de/da3/a27286.html#a8f2bbc26b297039a02a7f1a8ce7d79e3", null ],
-    [ "PrepareAuraScript", "de/da3/a27286.html#aa55d2774f59d8e8435facba876521236", null ],
-    [ "Register", "de/da3/a27286.html#a3fb6281aa70ce55d4b020e24c747a7f3", null ],
-    [ "Validate", "de/da3/a27286.html#a09492d02ca945634ca8c4620debbefa8", null ]
+    [ "HandleBanish", "de/da3/a27286.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
+    [ "PrepareSpellScript", "de/da3/a27286.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
+    [ "Register", "de/da3/a27286.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
 ];

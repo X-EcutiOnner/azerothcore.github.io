@@ -1,5 +1,5 @@
 var a08002 =
 [
-    [ "IsColorValid", "d6/dfc/a08002.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
-    [ "IsTextValid", "d6/dfc/a08002.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
+    [ "value_type", "d6/dfc/a08002.html#ae75362e108b0a7323fe92cae75c4729c", null ],
+    [ "TryConsume", "d6/dfc/a08002.html#a19112294c2e36c8e36fb3f77f2ccabba", null ]
 ];

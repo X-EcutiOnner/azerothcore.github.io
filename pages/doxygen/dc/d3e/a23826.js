@@ -1,6 +1,5 @@
 var a23826 =
 [
-    [ "CheckCast", "dc/d3e/a23826.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "dc/d3e/a23826.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "dc/d3e/a23826.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "creature", "dc/d3e/a23826.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
+    [ "Timer", "dc/d3e/a23826.html#a2be497dc190c1f01f939e12083739882", null ]
 ];

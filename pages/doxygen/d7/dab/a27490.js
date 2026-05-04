@@ -1,7 +1,6 @@
 var a27490 =
 [
-    [ "HandleProc", "d7/dab/a27490.html#a4294ab4682ea26f78eb4c90c59e86953", null ],
-    [ "PrepareAuraScript", "d7/dab/a27490.html#ac5d22623791d195aa767d5a28e9639b7", null ],
-    [ "Register", "d7/dab/a27490.html#a135abc0548ba189fcf6bd662d7ae8940", null ],
-    [ "Validate", "d7/dab/a27490.html#ac10227e6423f61b0fd67803f01fd4a0e", null ]
+    [ "FilterTargets", "d7/dab/a27490.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "d7/dab/a27490.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "d7/dab/a27490.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

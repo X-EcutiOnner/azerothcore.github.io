@@ -1,6 +1,5 @@
 var a12006 =
 [
-    [ "Command", "d3/d86/a12006.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "d3/d86/a12006.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "d3/d86/a12006.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "Name", "d3/d86/a12006.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
+    [ "Type", "d3/d86/a12006.html#aeacac864bd23dcb7b24efc484810f592", null ]
 ];

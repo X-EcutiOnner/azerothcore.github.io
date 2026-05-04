@@ -1,6 +1,7 @@
 var a24330 =
 [
-    [ "CheckTargets", "da/da3/a24330.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "da/da3/a24330.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "da/da3/a24330.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "HandleProc", "da/da3/a24330.html#a66726023cd4e12b2766db027623aacf1", null ],
+    [ "PrepareAuraScript", "da/da3/a24330.html#aaec1b616a6d57d5a2554ee7cc76d835d", null ],
+    [ "Register", "da/da3/a24330.html#a12bb8475758402da599ae8fbc2f28b31", null ],
+    [ "Validate", "da/da3/a24330.html#abba724498ed4e20d8ca028f270d0bbb4", null ]
 ];

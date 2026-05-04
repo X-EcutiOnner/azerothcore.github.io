@@ -1,5 +1,7 @@
 var a29558 =
 [
-    [ "CreateBasicProcEntry", "de/d63/a29558.html#a047473844c17b28cab20159721fc9ee8", null ],
-    [ "SetUp", "de/d63/a29558.html#ad9848a18a0b1fa950cabcfa1584e0103", null ]
+    [ "SetUp", "de/d63/a29558.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
+    [ "DAGGER_SPEED", "de/d63/a29558.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
+    [ "SWORD_SPEED", "de/d63/a29558.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
+    [ "TWO_HANDED_SPEED", "de/d63/a29558.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
 ];

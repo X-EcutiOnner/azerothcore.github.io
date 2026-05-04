@@ -1,7 +1,9 @@
 var a18766 =
 [
-    [ "OnApply", "d6/d7f/a18766.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "d6/d7f/a18766.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "d6/d7f/a18766.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "d6/d7f/a18766.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "npc_gluttonous_abominationAI", "d6/d7f/a18766.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "d6/d7f/a18766.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "d6/d7f/a18766.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "d6/d7f/a18766.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "d6/d7f/a18766.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "d6/d7f/a18766.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

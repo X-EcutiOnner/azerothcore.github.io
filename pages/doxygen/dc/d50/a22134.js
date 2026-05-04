@@ -1,9 +1,13 @@
 var a22134 =
 [
-    [ "npc_finklesteinAI", "dd/d80/a22138.html", "dd/d80/a22138" ],
-    [ "npc_finklestein", "dc/d50/a22134.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "dc/d50/a22134.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "dc/d50/a22134.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "dc/d50/a22134.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "dc/d50/a22134.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "OPvPCapturePointEP_CGT", "dc/d50/a22134.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
+    [ "ChangeState", "dc/d50/a22134.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
+    [ "FillInitialWorldStates", "dc/d50/a22134.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
+    [ "HandlePlayerEnter", "dc/d50/a22134.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
+    [ "HandlePlayerLeave", "dc/d50/a22134.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
+    [ "LinkGraveyard", "dc/d50/a22134.html#ada14179a31fb6235b7882a190dc96c40", null ],
+    [ "SendChangePhase", "dc/d50/a22134.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
+    [ "UpdateTowerState", "dc/d50/a22134.html#a764284d6143d4879b5bc003acc52048c", null ],
+    [ "m_GraveyardSide", "dc/d50/a22134.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
+    [ "m_TowerState", "dc/d50/a22134.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
 ];

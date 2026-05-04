@@ -1,9 +1,8 @@
 var a28922 =
 [
-    [ "itemId", "db/d83/a28922.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "db/d83/a28922.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "db/d83/a28922.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "db/d83/a28922.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "db/d83/a28922.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "db/d83/a28922.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "canLink", "db/d83/a28922.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "db/d83/a28922.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "db/d83/a28922.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "db/d83/a28922.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "db/d83/a28922.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

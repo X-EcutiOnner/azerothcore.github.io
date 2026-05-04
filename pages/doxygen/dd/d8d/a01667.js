@@ -1,17 +1,21 @@
 var a01667 =
 [
-    [ "SmartAI", "d3/d84/a06521.html", "d3/d84/a06521" ],
-    [ "SmartGameObjectAI", "da/de4/a06525.html", "da/de4/a06525" ],
-    [ "DISTANCING_CONSTANT", "dd/d8d/a01667.html#a9a381b0c4b9dc5403d4a93b3afb19dff", null ],
-    [ "SmartEscortState", "dd/d8d/a01667.html#a0911043eb49fd7958a828a60e0537d54", [
-      [ "SMART_ESCORT_NONE", "dd/d8d/a01667.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
-      [ "SMART_ESCORT_ESCORTING", "dd/d8d/a01667.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
-      [ "SMART_ESCORT_RETURNING", "dd/d8d/a01667.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
-      [ "SMART_ESCORT_PAUSED", "dd/d8d/a01667.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
+    [ "SummonList", "d5/df5/a06502.html", "d5/df5/a06502" ],
+    [ "EntryCheckPredicate", "dc/dc0/a06506.html", "dc/dc0/a06506" ],
+    [ "PlayerOrPetCheck", "d5/d44/a06510.html", "d5/d44/a06510" ],
+    [ "ScriptedAI", "d8/d63/a06514.html", "d8/d63/a06514" ],
+    [ "HealthCheckEventData", "dc/d82/a06518.html", "dc/d82/a06518" ],
+    [ "BossAI", "db/dc5/a06522.html", "db/dc5/a06522" ],
+    [ "WorldBossAI", "d4/d0a/a06526.html", "d4/d0a/a06526" ],
+    [ "ObjectList", "dd/d8d/a01667.html#acc68161fe019b33e9356ea1473fba71d", null ],
+    [ "HealthCheckStatus", "dd/d8d/a01667.html#a1384618281f5e166102c6c947f81ddee", [
+      [ "HEALTH_CHECK_PROCESSED", "dd/d8d/a01667.html#a1384618281f5e166102c6c947f81ddeeac0619e7e216f157ecace46cdd98b4b6d", null ],
+      [ "HEALTH_CHECK_SCHEDULED", "dd/d8d/a01667.html#a1384618281f5e166102c6c947f81ddeeadd90ee3dba1f8df8726a251aeb1cbc9c", null ],
+      [ "HEALTH_CHECK_PENDING", "dd/d8d/a01667.html#a1384618281f5e166102c6c947f81ddeeaa1fd3ee62e2876302ec5bd08ff822ec7", null ]
     ] ],
-    [ "SmartEscortVars", "dd/d8d/a01667.html#a598eb331d977fa893d589fe3e6cebfbf", [
-      [ "SMART_ESCORT_MAX_PLAYER_DIST", "dd/d8d/a01667.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
-      [ "SMART_MAX_AID_DIST", "dd/d8d/a01667.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
-    ] ],
-    [ "AddSC_SmartScripts", "dd/d8d/a01667.html#ab6012619ba76775b314475ec60f8c7d7", null ]
+    [ "GetClosestCreatureWithEntry", "dd/d8d/a01667.html#a9ffd6f6c01576a8d3369c3a4f6dbaa0b", null ],
+    [ "GetClosestGameObjectWithEntry", "dd/d8d/a01667.html#acaba34b4ac104e5289c265c1f8524b15", null ],
+    [ "GetCreatureListWithEntryInGrid", "dd/d8d/a01667.html#ab6a8246d473139627106be4651f6329d", null ],
+    [ "GetDeadCreatureListInGrid", "dd/d8d/a01667.html#a4a92c9585e18b56cdbe0d0c0976de7d1", null ],
+    [ "GetGameObjectListWithEntryInGrid", "dd/d8d/a01667.html#ae9abb80c4e811509bca88e65cf817276", null ]
 ];

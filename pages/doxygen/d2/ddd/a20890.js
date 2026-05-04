@@ -1,7 +1,13 @@
 var a20890 =
 [
-    [ "FilterTargets", "d2/ddd/a20890.html#aacfc70299b20cfef5b2feac954779f1c", null ],
-    [ "HandleDamageCalc", "d2/ddd/a20890.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
-    [ "PrepareSpellScript", "d2/ddd/a20890.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
-    [ "Register", "d2/ddd/a20890.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
+    [ "npc_ferocious_rhinoAI", "d2/ddd/a20890.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "d2/ddd/a20890.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "d2/ddd/a20890.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "d2/ddd/a20890.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "d2/ddd/a20890.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "d2/ddd/a20890.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "d2/ddd/a20890.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "d2/ddd/a20890.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "d2/ddd/a20890.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "d2/ddd/a20890.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

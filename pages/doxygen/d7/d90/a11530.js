@@ -1,7 +1,8 @@
 var a11530 =
 [
-    [ "Player", "d7/d90/a11530.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d7/d90/a11530.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "d7/d90/a11530.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "d7/d90/a11530.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "ServerPktHeader", "d7/d90/a11530.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "d7/d90/a11530.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "d7/d90/a11530.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "d7/d90/a11530.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "d7/d90/a11530.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

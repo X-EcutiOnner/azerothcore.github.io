@@ -1,8 +1,6 @@
 var a15458 =
 [
-    [ "npc_ouro_spawner", "d5/d33/a15458.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "d5/d33/a15458.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "d5/d33/a15458.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "d5/d33/a15458.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "d5/d33/a15458.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "FilterTargets", "d5/d33/a15458.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
+    [ "PrepareSpellScript", "d5/d33/a15458.html#a511e54100036307aa5d37bc959405c73", null ],
+    [ "Register", "d5/d33/a15458.html#a31d1d590f0e6fc2e56322d606961828f", null ]
 ];

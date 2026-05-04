@@ -1,6 +1,8 @@
 var a29594 =
 [
-    [ "lastExtraAttackSpell", "de/ddc/a29594.html#a0b7c47a0c1a328703648936a1da3245f", null ],
-    [ "triggeredSpellHasExtraAttacks", "de/ddc/a29594.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
-    [ "triggerSpellId", "de/ddc/a29594.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
+    [ "prepareLoadedData", "de/ddc/a29594.html#a696cfebd8fe66840b316919519e9b319", null ],
+    [ "fcc", "de/ddc/a29594.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
+    [ "fcc_txt", "de/ddc/a29594.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
+    [ "height_map", "de/ddc/a29594.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
+    [ "size", "de/ddc/a29594.html#add2809c6e520cf4aa43807d61f973f0e", null ]
 ];

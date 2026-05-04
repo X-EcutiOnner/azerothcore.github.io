@@ -1,12 +1,11 @@
 var a21090 =
 [
-    [ "boss_lavanthorAI", "da/d80/a21090.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "da/d80/a21090.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "da/d80/a21090.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "da/d80/a21090.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "da/d80/a21090.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "da/d80/a21090.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "da/d80/a21090.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "da/d80/a21090.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "da/d80/a21090.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "boss_erekem", "da/d80/a21090.html#a32a7d3b83f201bd77423da1a98e742ae", null ],
+    [ "EnterEvadeMode", "da/d80/a21090.html#a3d946004c120c6daec6565e7ba815fa1", null ],
+    [ "ExecuteEvent", "da/d80/a21090.html#a24100918d900f974144f94f399e429b3", null ],
+    [ "GetChainHealTargetGuid", "da/d80/a21090.html#a809a25ac441f1ef1c60273ac1094a3b2", null ],
+    [ "JustDied", "da/d80/a21090.html#a23ce09bbe023ebab5dbe1bf26cd84c7a", null ],
+    [ "JustEngagedWith", "da/d80/a21090.html#a82faaeb00a41745d331f97037e5b4800", null ],
+    [ "KilledUnit", "da/d80/a21090.html#acaa92e69b5d4ff536d8a0a3e965a93d5", null ],
+    [ "MoveInLineOfSight", "da/d80/a21090.html#ad89c95919671fd1ae2656ed468ee022a", null ]
 ];

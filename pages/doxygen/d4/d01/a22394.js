@@ -1,6 +1,7 @@
 var a22394 =
 [
-    [ "PrepareSpellScript", "d4/d01/a22394.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "d4/d01/a22394.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "d4/d01/a22394.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "HandleScriptEffect", "d4/d01/a22394.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
+    [ "PrepareSpellScript", "d4/d01/a22394.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
+    [ "Register", "d4/d01/a22394.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
+    [ "Validate", "d4/d01/a22394.html#a9ce122d497e72e3a46b1857d722af48d", null ]
 ];

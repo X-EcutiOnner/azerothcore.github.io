@@ -1,16 +1,12 @@
 var a21118 =
 [
-    [ "boss_zuramatAI", "d1/d2e/a21118.html#ab4c04fec01023295946d170a466d1c48", null ],
-    [ "EnterEvadeMode", "d1/d2e/a21118.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
-    [ "JustDied", "d1/d2e/a21118.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
-    [ "JustEngagedWith", "d1/d2e/a21118.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
-    [ "JustSummoned", "d1/d2e/a21118.html#a6e925207ddc112f7dd7044c08023f90e", null ],
-    [ "KilledUnit", "d1/d2e/a21118.html#adb79f8c244f57b88848dd44b592faf41", null ],
-    [ "MoveInLineOfSight", "d1/d2e/a21118.html#aa3ef3256d203d264dee12eff4491a28c", null ],
-    [ "Reset", "d1/d2e/a21118.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
-    [ "SummonedCreatureDespawn", "d1/d2e/a21118.html#a242f814bfec2e937e1338097e78080e3", null ],
-    [ "UpdateAI", "d1/d2e/a21118.html#adb591699b7d8ece0b1775afd40a4181b", null ],
-    [ "events", "d1/d2e/a21118.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
-    [ "pInstance", "d1/d2e/a21118.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
-    [ "summons", "d1/d2e/a21118.html#a42cb09654095c8a157720f99e7957102", null ]
+    [ "boss_xevozz", "d1/d2e/a21118.html#aea402ffbe689ca65e29b30899862a8bc", null ],
+    [ "EnterEvadeMode", "d1/d2e/a21118.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
+    [ "ExecuteEvent", "d1/d2e/a21118.html#af5b37fc643f2b22468a38655fce63d25", null ],
+    [ "JustDied", "d1/d2e/a21118.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
+    [ "JustEngagedWith", "d1/d2e/a21118.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
+    [ "JustSummoned", "d1/d2e/a21118.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
+    [ "KilledUnit", "d1/d2e/a21118.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
+    [ "MoveInLineOfSight", "d1/d2e/a21118.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
+    [ "SummonedCreatureDespawn", "d1/d2e/a21118.html#a1493a5acdfcca7d01446564db622239e", null ]
 ];

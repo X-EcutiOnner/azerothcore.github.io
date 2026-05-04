@@ -1,6 +1,8 @@
 var a21902 =
 [
-    [ "npc_jungle_punch_targetAI", "dd/d39/a21906.html", "dd/d39/a21906" ],
-    [ "npc_jungle_punch_target", "db/d5c/a21902.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "db/d5c/a21902.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "npc_time_lost_proto_drakeAI", "db/d5c/a21902.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "InitializeAI", "db/d5c/a21902.html#a6b99780951a126a97db88e7307c1d1b9", null ],
+    [ "JustEngagedWith", "db/d5c/a21902.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "Reset", "db/d5c/a21902.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "db/d5c/a21902.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

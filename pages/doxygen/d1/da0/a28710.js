@@ -1,14 +1,8 @@
 var a28710 =
 [
-    [ "IsFlyable", "d1/da0/a28710.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
-    [ "IsSanctuary", "d1/da0/a28710.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
-    [ "area_level", "d1/da0/a28710.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
-    [ "area_name", "d1/da0/a28710.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
-    [ "exploreFlag", "d1/da0/a28710.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
-    [ "flags", "d1/da0/a28710.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
-    [ "ID", "d1/da0/a28710.html#ad02bb9fce21f464e38223581074a9e21", null ],
-    [ "LiquidTypeOverride", "d1/da0/a28710.html#abe743a4b542c4356aab9d41f3fae7457", null ],
-    [ "mapid", "d1/da0/a28710.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
-    [ "team", "d1/da0/a28710.html#ae18e0efef83e663452715f6be15ecaef", null ],
-    [ "zone", "d1/da0/a28710.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
+    [ "DamagedDisplayId", "d1/da0/a28710.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
+    [ "DestroyedDisplayId", "d1/da0/a28710.html#afc891df0c9491a34f784e8f141434be5", null ],
+    [ "Id", "d1/da0/a28710.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
+    [ "RebuildingDisplayId", "d1/da0/a28710.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
+    [ "SmokeDisplayId", "d1/da0/a28710.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
 ];

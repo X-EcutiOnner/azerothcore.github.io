@@ -1,9 +1,7 @@
 var a23702 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/d58/a23702.html#a273d585416dc92d39d5ec3824c08504d", null ],
-    [ "IsSummonedBy", "d4/d58/a23702.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
-    [ "Reset", "d4/d58/a23702.html#a06fa50580efeab8d847a05f20956d175", null ],
-    [ "UpdateAI", "d4/d58/a23702.html#a8261a259cfbee0d3610ee441406fafcd", null ],
-    [ "playerGuid", "d4/d58/a23702.html#aab717dd49284c483759a6223dbd7e6ea", null ],
-    [ "timer", "d4/d58/a23702.html#afba1b71178c563a3db906057cd20de45", null ]
+    [ "npc_maghar_captiveAI", "d6/d9f/a23706.html", "d6/d9f/a23706" ],
+    [ "npc_maghar_captive", "d4/d58/a23702.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "d4/d58/a23702.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "d4/d58/a23702.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
 ];

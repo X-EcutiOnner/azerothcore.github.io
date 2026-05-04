@@ -1,8 +1,17 @@
 var a11734 =
 [
-    [ "target_mapId", "d5/d44/a11734.html#a6dbbb558810388e0d051d84a0279a444", null ],
-    [ "target_Orientation", "d5/d44/a11734.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
-    [ "target_X", "d5/d44/a11734.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
-    [ "target_Y", "d5/d44/a11734.html#a6f432d8770adebf513346713b7890b5c", null ],
-    [ "target_Z", "d5/d44/a11734.html#a3af706b81f8fbef12277c518964f717a", null ]
+    [ "StaticData", "d9/de2/a11738.html", "d9/de2/a11738" ],
+    [ "SpellImplicitTargetInfo", "d5/d44/a11734.html#a6eadac193f40d3a14db74d6e07552bdb", null ],
+    [ "SpellImplicitTargetInfo", "d5/d44/a11734.html#a8e746c8dd4956a1bedc78c932740dfca", null ],
+    [ "CalcDirectionAngle", "d5/d44/a11734.html#ac726d7df6103bc991e650c5d221ec4cc", null ],
+    [ "GetCheckType", "d5/d44/a11734.html#a1822c2908aff0701ab6e56ccf1c83a83", null ],
+    [ "GetDirectionType", "d5/d44/a11734.html#a094f5c6bc82196355aeded09cb469b7c", null ],
+    [ "GetExplicitTargetMask", "d5/d44/a11734.html#ad368870f99d85f27ae2a15ee75b4b5dd", null ],
+    [ "GetObjectType", "d5/d44/a11734.html#a964c185b1d3ed3563c6efa68e8bf9f42", null ],
+    [ "GetReferenceType", "d5/d44/a11734.html#a59769a12291673682e1b5c3650e8aff7", null ],
+    [ "GetSelectionCategory", "d5/d44/a11734.html#a5dd39484ccfed1e34b27d957614b45e6", null ],
+    [ "GetTarget", "d5/d44/a11734.html#ae5a138c973300efce4744ea260108097", null ],
+    [ "IsArea", "d5/d44/a11734.html#a263a4660dfdf8b77f69e5475048b414b", null ],
+    [ "_data", "d5/d44/a11734.html#a1a05bbd8400ec4451ca34b2754e056e9", null ],
+    [ "_target", "d5/d44/a11734.html#ab2cec29c53f0b9bc6a016ce177f97c1d", null ]
 ];

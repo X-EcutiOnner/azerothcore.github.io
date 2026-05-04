@@ -1,6 +1,6 @@
 var a13234 =
 [
-    [ "npc_dkc1_gothikAI", "d8/d3b/a13238.html", "d8/d3b/a13238" ],
-    [ "npc_dkc1_gothik", "d5/d8c/a13234.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
-    [ "GetAI", "d5/d8c/a13234.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
+    [ "boss_garaxxas", "d5/d8c/a13234.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "d5/d8c/a13234.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "d5/d8c/a13234.html#a56e6489ce49971cb066444888355626e", null ]
 ];

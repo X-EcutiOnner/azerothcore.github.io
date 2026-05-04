@@ -1,25 +1,7 @@
 var a12342 =
 [
-    [ "ticket_commandscript", "d2/d6f/a12342.html#a67842c302b12e19d41c74740db425a94", null ],
-    [ "GetCommands", "d2/d6f/a12342.html#a8db36489c60473f6f3fed73011c5f7ab", null ],
-    [ "HandleGMTicketAssignToCommand", "d2/d6f/a12342.html#a20e307317e082667b420562802b25eed", null ],
-    [ "HandleGMTicketCloseByIdCommand", "d2/d6f/a12342.html#a18a65dc2e01aa1bfbf9be20e312fb29f", null ],
-    [ "HandleGMTicketCommentCommand", "d2/d6f/a12342.html#a69d76ba54dc776f35a200b79d3383109", null ],
-    [ "HandleGMTicketCompleteCommand", "d2/d6f/a12342.html#a6fee1c90d90c733d2c554389e305a767", null ],
-    [ "HandleGMTicketDeleteByIdCommand", "d2/d6f/a12342.html#a5caaf9293917036dd957d2b0a4bb61d1", null ],
-    [ "HandleGMTicketEscalateCommand", "d2/d6f/a12342.html#a12b04f7113a53d5974e6faffe3286119", null ],
-    [ "HandleGMTicketGetByIdCommand", "d2/d6f/a12342.html#ae0686f933ff941c8ba36a727b703cdd9", null ],
-    [ "HandleGMTicketGetByNameCommand", "d2/d6f/a12342.html#af38ad7d982f8cf16523ed62677f2c0e1", null ],
-    [ "HandleGMTicketListClosedCommand", "d2/d6f/a12342.html#a5c6c12b2aa84984f2c2fada59673f29c", null ],
-    [ "HandleGMTicketListCommand", "d2/d6f/a12342.html#aa622eb1c1f53c41b2af78667800a5389", null ],
-    [ "HandleGMTicketListEscalatedCommand", "d2/d6f/a12342.html#a756a9a38b724526d6713dad186689090", null ],
-    [ "HandleGMTicketListOnlineCommand", "d2/d6f/a12342.html#a71491d4987e7e7a4b73f798d3d8ec81e", null ],
-    [ "HandleGMTicketResetCommand", "d2/d6f/a12342.html#a6bf98525629aa9d045abe84cf8e320c9", null ],
-    [ "HandleGMTicketResponseAppendCommand", "d2/d6f/a12342.html#a5596c5be64f75c0bf67e88fabb05a060", null ],
-    [ "HandleGMTicketResponseAppendLnCommand", "d2/d6f/a12342.html#a1f0f24f48a37726dbc7e5e6b89740261", null ],
-    [ "HandleGMTicketResponseDeleteCommand", "d2/d6f/a12342.html#acfcbea533c3306d9a2746c3ee318ddbd", null ],
-    [ "HandleGMTicketResponseShowCommand", "d2/d6f/a12342.html#a7bf924ff31d957220f15d2be0c5aeb8a", null ],
-    [ "HandleGMTicketUnAssignCommand", "d2/d6f/a12342.html#afc1a25ed1d1a966d5afaa6dbd1070fda", null ],
-    [ "HandleToggleGMTicketSystem", "d2/d6f/a12342.html#a5dcc80f5e050e0c5dced93bf8fa3c908", null ],
-    [ "TicketResponseAppend", "d2/d6f/a12342.html#aac1c7b72a4cea7da0965dfceb65039fc", null ]
+    [ "FoundObjects", "d2/d6f/a12342.html#a061c4e27b4a9646bc3636b7642ad9fce", null ],
+    [ "X", "d2/d6f/a12342.html#a9a184093c44a45addd7a7bae891496c0", null ],
+    [ "Y", "d2/d6f/a12342.html#a86ac02df716e991f629647941dcb29cb", null ],
+    [ "Z", "d2/d6f/a12342.html#a50477b2e983580c94b348f7e408a8363", null ]
 ];

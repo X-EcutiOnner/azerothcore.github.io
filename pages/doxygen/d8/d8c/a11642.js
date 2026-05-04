@@ -1,7 +1,12 @@
 var a11642 =
 [
-    [ "effectMask", "d8/d8c/a11642.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
-    [ "processed", "d8/d8c/a11642.html#aedfa36678be863a558ecd0ecc07cc544", null ],
-    [ "targetGUID", "d8/d8c/a11642.html#a619f98bf094d2667048204f733d64d0c", null ],
-    [ "timeDelay", "d8/d8c/a11642.html#ab552326c0780fe62ff95b02249458492", null ]
+    [ "UnitAura", "d8/d8c/a11642.html#ada4033955271dfb21d16a95b316087f5", null ],
+    [ "_ApplyForTarget", "d8/d8c/a11642.html#a920549cf55c8def37149b00ae971127d", null ],
+    [ "_UnapplyForTarget", "d8/d8c/a11642.html#af4d453cee6758e633bdcae0049581898", null ],
+    [ "FillTargetMap", "d8/d8c/a11642.html#add5ce04446338e078c5986420abfd16e", null ],
+    [ "GetDiminishGroup", "d8/d8c/a11642.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
+    [ "Remove", "d8/d8c/a11642.html#a28f714404942bb5c614ac844cf937546", null ],
+    [ "SetDiminishGroup", "d8/d8c/a11642.html#a6d858a153c5d3046574f3387ab852050", null ],
+    [ "Aura::Create", "d8/d8c/a11642.html#ae2c0fdfb409846fec5e861de60797112", null ],
+    [ "m_AuraDRGroup", "d8/d8c/a11642.html#a4b413c5e62eee76875a22345059e6124", null ]
 ];

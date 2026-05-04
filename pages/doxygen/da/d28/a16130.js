@@ -1,18 +1,15 @@
 var a16130 =
 [
-    [ "boss_taldaram", "da/d28/a16130.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
-    [ "DamageTaken", "da/d28/a16130.html#a2252fef717c2da047dc2d823e70660c0", null ],
-    [ "DoAction", "da/d28/a16130.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
-    [ "InitializeAI", "da/d28/a16130.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
-    [ "JustDied", "da/d28/a16130.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
-    [ "JustEngagedWith", "da/d28/a16130.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
-    [ "JustSummoned", "da/d28/a16130.html#a5ae9201a71fa665908f924647b262825", null ],
-    [ "KilledUnit", "da/d28/a16130.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
-    [ "MovementInform", "da/d28/a16130.html#a17ca98f742a06b1496b2216e984811d8", null ],
-    [ "OnAuraRemove", "da/d28/a16130.html#ab8c64f75675db04f9ed8a37939e882e4", null ],
-    [ "Reset", "da/d28/a16130.html#ae26fec572206d2f1f9acc229ee797496", null ],
-    [ "ScheduleCombatEvents", "da/d28/a16130.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
-    [ "SpellHitTarget", "da/d28/a16130.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
-    [ "vanishDamage", "da/d28/a16130.html#a85d8c95320e6f1f486a39043218f0350", null ],
-    [ "victimSperePos", "da/d28/a16130.html#a06efb376b0d08207a0efce74770f21dc", null ]
+    [ "boss_volazj", "da/d28/a16130.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
+    [ "CheckPhaseMinions", "da/d28/a16130.html#aa79bf97b6772956795bd2f16b85e061f", null ],
+    [ "GetPlrInsanityAuraId", "da/d28/a16130.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
+    [ "JustDied", "da/d28/a16130.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
+    [ "JustEngagedWith", "da/d28/a16130.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
+    [ "KilledUnit", "da/d28/a16130.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
+    [ "Reset", "da/d28/a16130.html#a0377375b89b02db3cae01390fdd13ee2", null ],
+    [ "ResetPlayersPhaseMask", "da/d28/a16130.html#afbfa62f2b72a95434348f74fdda46da6", null ],
+    [ "ScheduleTasks", "da/d28/a16130.html#a44a8aa836a45e5a9827814bb731d2882", null ],
+    [ "SetData", "da/d28/a16130.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
+    [ "UpdateAI", "da/d28/a16130.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
+    [ "insanityPhase", "da/d28/a16130.html#ae90de1e956eb3653c8c2f0c04d89585b", null ]
 ];

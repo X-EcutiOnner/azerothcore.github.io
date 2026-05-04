@@ -1,6 +1,6 @@
 var a21854 =
 [
-    [ "PrepareSpellScript", "dd/d4c/a21854.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "dd/d4c/a21854.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "dd/d4c/a21854.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "npc_jungle_punch_targetAI", "dc/dfc/a21858.html", "dc/dfc/a21858" ],
+    [ "npc_jungle_punch_target", "dd/d4c/a21854.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "dd/d4c/a21854.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

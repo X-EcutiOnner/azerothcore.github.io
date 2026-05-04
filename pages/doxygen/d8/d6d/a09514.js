@@ -1,9 +1,8 @@
 var a09514 =
 [
-    [ "GameObjectLastSearcher", "d8/d6d/a09514.html#a9f478f784f46fa502910f621f10238f2", null ],
-    [ "Visit", "d8/d6d/a09514.html#a2ba394a2da9f72c7621567092c175f0b", null ],
-    [ "Visit", "d8/d6d/a09514.html#a4298bd100890e61a34e827f96d70e752", null ],
-    [ "i_check", "d8/d6d/a09514.html#a06f8a6b33e26cdc17508198a9ee08f87", null ],
-    [ "i_object", "d8/d6d/a09514.html#a4573ba382a79a34f6c006b7c175f84f1", null ],
-    [ "i_phaseMask", "d8/d6d/a09514.html#a7130ecacc379e9f41779a8e0f422b32c", null ]
+    [ "AIRelocationNotifier", "d8/d6d/a09514.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
+    [ "Visit", "d8/d6d/a09514.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "d8/d6d/a09514.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "i_unit", "d8/d6d/a09514.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "isCreature", "d8/d6d/a09514.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

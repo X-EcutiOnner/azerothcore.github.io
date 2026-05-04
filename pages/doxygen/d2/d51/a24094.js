@@ -1,9 +1,7 @@
 var a24094 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "d2/d51/a24094.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "d2/d51/a24094.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "d2/d51/a24094.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "d2/d51/a24094.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "d2/d51/a24094.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "d2/d51/a24094.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "CheckCast", "d2/d51/a24094.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
+    [ "HandleDummy", "d2/d51/a24094.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
+    [ "PrepareSpellScript", "d2/d51/a24094.html#a465da282630352a289d5daae7ccb1d01", null ],
+    [ "Register", "d2/d51/a24094.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
 ];

@@ -1,16 +1,13 @@
 var a20982 =
 [
-    [ "boss_emalonAI", "d3/de6/a20982.html#ac87b3ea34e9781f3843321ef874321fe", null ],
-    [ "AttackStart", "d3/de6/a20982.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
-    [ "JustDied", "d3/de6/a20982.html#a79a05156b690140e955a6e850ac41e5b", null ],
-    [ "JustEngagedWith", "d3/de6/a20982.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
-    [ "JustSummoned", "d3/de6/a20982.html#a895f302d336faa0c3f93854314d3b427", null ],
-    [ "Reset", "d3/de6/a20982.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
-    [ "ResetSummons", "d3/de6/a20982.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
-    [ "SpellHitTarget", "d3/de6/a20982.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
-    [ "SummonedCreatureDies", "d3/de6/a20982.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
-    [ "UpdateAI", "d3/de6/a20982.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
-    [ "events", "d3/de6/a20982.html#a78312371e28b4be3c072dc870370b577", null ],
-    [ "pInstance", "d3/de6/a20982.html#af4cc6489905f9702999cc23fd6a920c2", null ],
-    [ "summons", "d3/de6/a20982.html#a1b6ccd418114e57a0c843cc980a56243", null ]
+    [ "MoveX", "d3/de6/a20982.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d3/de6/a20982.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d3/de6/a20982.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d3/de6/a20982.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d3/de6/a20982.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d3/de6/a20982.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d3/de6/a20982.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d3/de6/a20982.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d3/de6/a20982.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d3/de6/a20982.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

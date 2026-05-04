@@ -1,6 +1,17 @@
 var a15630 =
 [
-    [ "npc_death_ravagerAI", "dc/d38/a15634.html", "dc/d38/a15634" ],
-    [ "npc_death_ravager", "da/d48/a15630.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
-    [ "GetAI", "da/d48/a15630.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
+    [ "npc_muglashAI", "da/d48/a15630.html#af1988703aaaac04e5853c33e5b915ca2", null ],
+    [ "DoAction", "da/d48/a15630.html#afba6c4441ff4da54f89709b3c2bcd4d4", null ],
+    [ "DoWaveSummon", "da/d48/a15630.html#aaf862468f5ba0c6f99056a81a472c6e2", null ],
+    [ "JustDied", "da/d48/a15630.html#a5936dd183091c462e4835a00f81020f5", null ],
+    [ "JustEngagedWith", "da/d48/a15630.html#a587c8cb4562e93cecccb20e93cabba05", null ],
+    [ "JustSummoned", "da/d48/a15630.html#a07e451149dbf6b72e01f94dc8f07edf3", null ],
+    [ "Reset", "da/d48/a15630.html#a98933c32f2550989356b3e876d302b88", null ],
+    [ "sQuestAccept", "da/d48/a15630.html#a6c93a53a7b8bcd200ebca0e9d366f6fe", null ],
+    [ "UpdateAI", "da/d48/a15630.html#a6b479f50428536997faef96e510dbd84", null ],
+    [ "WaypointReached", "da/d48/a15630.html#a8f91b74c0d8778a73e0bc95dce339f2b", null ],
+    [ "WaypointReached", "da/d48/a15630.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_isBrazierExtinguished", "da/d48/a15630.html#aeec098d6a65b6852598a4e4b6888a410", null ],
+    [ "eventTimer", "da/d48/a15630.html#a548e142bb509b4606b6fcf98d926cd44", null ],
+    [ "waveId", "da/d48/a15630.html#a06c0af398e53b5ea6bfd6fa80256f845", null ]
 ];

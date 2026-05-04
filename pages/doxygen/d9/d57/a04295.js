@@ -1,9 +1,9 @@
 var a04295 =
 [
-    [ "PathMovementBase< T, P >", "d9/d14/a10334.html", "d9/d14/a10334" ],
-    [ "WaypointMovementGenerator< Creature >", "d6/d4e/a10342.html", "d6/d4e/a10342" ],
-    [ "FlightPathMovementGenerator", "df/d9f/a10346.html", "df/d9f/a10346" ],
-    [ "FlightPathMovementGenerator::TaxiNodeChangeInfo", "db/d4f/a10350.html", "db/d4f/a10350" ],
-    [ "FLIGHT_TRAVEL_UPDATE", "d9/d57/a04295.html#af2d292bdefbb6db76ff3201ac0c0cdd6", null ],
-    [ "TIMEDIFF_NEXT_WP", "d9/d57/a04295.html#afcff81f45a877feac68bf5bcae913560", null ]
+    [ "SecretInfo", "da/d9f/a29114.html", "da/d9f/a29114" ],
+    [ "SECRET_FLAG", "d9/d57/a04295.html#a70a4d0f8c2ee51e0b67794cea19657d1", null ],
+    [ "SECRET_FLAG_FOR", "d9/d57/a04295.html#a7e7cfdab68c3e6a9600329d157ed30e7", null ],
+    [ "SecretFlags", "d9/d57/a04295.html#a03463ea440a7f843bdf8415f362a49f5", null ],
+    [ "GetHexFromConfig", "d9/d57/a04295.html#a39b73180b1b7c528faf5774c3a2a7676", null ],
+    [ "secret_info", "d9/d57/a04295.html#a7a4c8b2d083fa8310d30aa4b21217766", null ]
 ];

@@ -1,6 +1,9 @@
 var a23754 =
 [
-    [ "go_beaconAI", "d6/d28/a23754.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d6/d28/a23754.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "d6/d28/a23754.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "npc_bessyAI", "d6/d28/a23754.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d6/d28/a23754.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d6/d28/a23754.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d6/d28/a23754.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d6/d28/a23754.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
+    [ "WaypointReached", "d6/d28/a23754.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

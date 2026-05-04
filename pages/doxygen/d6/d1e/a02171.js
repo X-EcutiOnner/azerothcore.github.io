@@ -1,6 +1,6 @@
 var a02171 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "d7/daa/a11509.html", "d7/daa/a11509" ],
-    [ "REMOVE_VIOLATING_FLAGS", "d6/d1e/a02171.html#a9d7c4eaedbb2a06f275a5f59222bc747", null ],
-    [ "DefaultPlayerName", "d6/d1e/a02171.html#a586e06ca0d339349e13d81197056bb5f", null ]
+    [ "WorldPackets::Packet", "d5/db1/a10806.html", "d5/db1/a10806" ],
+    [ "WorldPackets::ServerPacket", "d9/d7c/a10810.html", "d9/d7c/a10810" ],
+    [ "WorldPackets::ClientPacket", "df/d90/a10814.html", "df/d90/a10814" ]
 ];

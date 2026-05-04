@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Banner Namespace Reference</title>
+<title>AzerothCore: Bug List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -103,90 +103,21 @@ $(document).ready(function(){initNavTree('d4/d79/a05020.html','../../'); initRes
 </div>
 </div>
 
-<div class="header">
-  <div class="summary">
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Banner Namespace Reference</div></div>
+<div><div class="header">
+  <div class="headertitle"><div class="title">Bug List </div></div>
 </div><!--header-->
 <div class="contents">
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:af6170962feecf3d126a80593221a357d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d79/a05020.html#af6170962feecf3d126a80593221a357d">Show</a> (std::string_view applicationName, void(*log)(std::string_view text), void(*logExtraInfo)())</td></tr>
-<tr class="separator:af6170962feecf3d126a80593221a357d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="af6170962feecf3d126a80593221a357d" name="af6170962feecf3d126a80593221a357d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af6170962feecf3d126a80593221a357d">&#9670;&#160;</a></span>Show()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Acore::Banner::Show </td>
-          <td>(</td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>applicationName</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">void(*)(std::string_view text)&#160;</td>
-          <td class="paramname"><em>log</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">void(*)()&#160;</td>
-          <td class="paramname"><em>logExtraInfo</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
-<div class="line"><span class="lineno">   24</span>    log(<a class="code hl_function" href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(<span class="stringliteral">&quot;{} ({})&quot;</span>, <a class="code hl_function" href="../../de/dff/a05032.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a>(), applicationName));</div>
-<div class="line"><span class="lineno">   25</span>    log(<span class="stringliteral">&quot;&lt;Ctrl-C&gt; to stop.\n&quot;</span>);</div>
-<div class="line"><span class="lineno">   26</span>    log(<span class="stringliteral">&quot;   █████╗ ███████╗███████╗██████╗  ██████╗ ████████╗██╗  ██╗&quot;</span>);</div>
-<div class="line"><span class="lineno">   27</span>    log(<span class="stringliteral">&quot;  ██╔══██╗╚══███╔╝██╔════╝██╔══██╗██╔═══██╗╚══██╔══╝██║  ██║&quot;</span>);</div>
-<div class="line"><span class="lineno">   28</span>    log(<span class="stringliteral">&quot;  ███████║  ███╔╝ █████╗  ██████╔╝██║   ██║   ██║   ███████║&quot;</span>);</div>
-<div class="line"><span class="lineno">   29</span>    log(<span class="stringliteral">&quot;  ██╔══██║ ███╔╝  ██╔══╝  ██╔══██╗██║   ██║   ██║   ██╔══██║&quot;</span>);</div>
-<div class="line"><span class="lineno">   30</span>    log(<span class="stringliteral">&quot;  ██║  ██║███████╗███████╗██║  ██║╚██████╔╝   ██║   ██║  ██║&quot;</span>);</div>
-<div class="line"><span class="lineno">   31</span>    log(<span class="stringliteral">&quot;  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝&quot;</span>);</div>
-<div class="line"><span class="lineno">   32</span>    log(<span class="stringliteral">&quot;                                 ██████╗ ██████╗ ██████╗ ███████╗&quot;</span>);</div>
-<div class="line"><span class="lineno">   33</span>    log(<span class="stringliteral">&quot;                                ██╔════╝██╔═══██╗██╔══██╗██╔════╝&quot;</span>);</div>
-<div class="line"><span class="lineno">   34</span>    log(<span class="stringliteral">&quot;                                ██║     ██║   ██║██████╔╝█████╗&quot;</span>);</div>
-<div class="line"><span class="lineno">   35</span>    log(<span class="stringliteral">&quot;                                ██║     ██║   ██║██╔══██╗██╔══╝&quot;</span>);</div>
-<div class="line"><span class="lineno">   36</span>    log(<span class="stringliteral">&quot;                                ╚██████╗╚██████╔╝██║  ██║███████╗&quot;</span>);</div>
-<div class="line"><span class="lineno">   37</span>    log(<span class="stringliteral">&quot;                                 ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝\n&quot;</span>);</div>
-<div class="line"><span class="lineno">   38</span>    log(<span class="stringliteral">&quot;     AzerothCore 3.3.5a  -  www.azerothcore.org\n&quot;</span>);</div>
-<div class="line"><span class="lineno">   39</span> </div>
-<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">if</span> (logExtraInfo)</div>
-<div class="line"><span class="lineno">   41</span>    {</div>
-<div class="line"><span class="lineno">   42</span>        logExtraInfo();</div>
-<div class="line"><span class="lineno">   43</span>    }</div>
-<div class="line"><span class="lineno">   44</span> </div>
-<div class="line"><span class="lineno">   45</span>    log(<span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   46</span>}</div>
-<div class="ttc" id="aa05016_html_a1b97349dfcb88c6974882d7e34c55895"><div class="ttname"><a href="../../d5/d66/a05016.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatStringView fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:44</div></div>
-<div class="ttc" id="aa05032_html_ad68b75fc60314941c3cbade8eafcda23"><div class="ttname"><a href="../../de/dff/a05032.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a></div><div class="ttdeci">AC_COMMON_API char const * GetFullVersion()</div><div class="ttdef"><b>Definition:</b> GitRevision.cpp:82</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00082">GitRevision::GetFullVersion()</a>, and <a class="el" href="../../#l00044">Acore::StringFormat()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00069">main()</a>.</p>
-
-</div>
-</div>
-</div><!-- contents -->
+<div class="textblock"><dl class="reflist">
+<dt>Member <a class="el" href="../../d6/d9a/a08934.html#a407f3a3661e2b51f26ba73eb0e3dd6e2">Player::CanUseBattlegroundObject</a>  (<a class="el" href="../../d4/de6/a08486.html">GameObject</a> *gameobject) const</dt>
+<dd><a class="anchor" id="_bug000001"></a> sometimes when player clicks on flag in AB - client won't send gameobject_use, only gameobject_report_use packet Note: Mount, stealth and invisibility will be removed when used </dd>
+</dl>
+</div></div><!-- contents -->
+</div><!-- PageDoc -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/d66/a05016.html">Acore</a></li><li class="navelem"><a class="el" href="../../d4/d79/a05020.html">Banner</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 21:39:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 4 2026 21:41:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -104,21 +104,38 @@ $(document).ready(function(){initNavTree('df/d2d/a08142.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">ConditionSourceInfo Member List</div></div>
+  <div class="headertitle"><div class="title">PvPCombatReference Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../df/d2d/a08142.html">ConditionSourceInfo</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../df/d2d/a08142.html">PvPCombatReference</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../df/d2d/a08142.html#adc6441ec52fab3ab8d2b58a146a3fef3">ConditionSourceInfo</a>(WorldObject *target0, WorldObject *target1=nullptr, WorldObject *target2=nullptr)</td><td class="entry"><a class="el" href="../../df/d2d/a08142.html">ConditionSourceInfo</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../df/d2d/a08142.html#acb67deba44021698a447e8288bca0bd4">mConditionTargets</a></td><td class="entry"><a class="el" href="../../df/d2d/a08142.html">ConditionSourceInfo</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../df/d2d/a08142.html#a099d3457a0a15d8feeacc0dc8c32d439">mLastFailedCondition</a></td><td class="entry"><a class="el" href="../../df/d2d/a08142.html">ConditionSourceInfo</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d2d/a08142.html#accd9e37fa63f110daebb0086027f8ab6">_combatTimer</a></td><td class="entry"><a class="el" href="../../df/d2d/a08142.html">PvPCombatReference</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a0c0570a2acff79babb17f20a789b6a89">_isPvP</a></td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a4be6390bcfab905aa65a925194582dd4">_suppressFirst</a></td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a1c327a45889405e7d92d2eb468cb36cc">_suppressSecond</a></td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d2d/a08142.html#ae013513b37e5f4a92a90f8c59f9291c1">CombatManager</a></td><td class="entry"><a class="el" href="../../df/d2d/a08142.html">PvPCombatReference</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a6640ef9042145388483ee1b0ebba2142">CombatReference</a>(CombatReference const &amp;)=delete</td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a7872f44776ee0bc2716ca1406597bf58">CombatReference</a>(Unit *a, Unit *b, bool pvp=false)</td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a9cf5d802eb7e1eb51259e98fac1eb7f8">EndCombat</a>()</td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a353dd1fb9729fadb3dc6f3356f27373b">first</a></td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a61c70264912f26b7c5af5b11c1764626">GetOther</a>(Unit const *me) const</td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a5f0ae30ffd9015cded12c487ccaacbda">IsSuppressedFor</a>(Unit const *who) const</td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a51bdb6b52ff1ff0e0bd64e2aab68528e">operator=</a>(CombatReference const &amp;)=delete</td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d2d/a08142.html#ae7026b02e2701be7a84d6da26bd3a432">PVP_COMBAT_TIMEOUT</a></td><td class="entry"><a class="el" href="../../df/d2d/a08142.html">PvPCombatReference</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d2d/a08142.html#a1439519e8f8665e345cd1bd3d28031aa">PvPCombatReference</a>(Unit *first, Unit *second)</td><td class="entry"><a class="el" href="../../df/d2d/a08142.html">PvPCombatReference</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#aa5b1b591d371ff34bea9ffecbf76842f">Refresh</a>()</td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d2d/a08142.html#ad8d05318d995aca2196c06768695b48e">RefreshTimer</a>()</td><td class="entry"><a class="el" href="../../df/d2d/a08142.html">PvPCombatReference</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a226199d73dab2ac6b939a1900b338e09">second</a></td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a923ecc13bec9370a226d2052a8098c8d">Suppress</a>(Unit *who)</td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/da8/a08138.html#a3e90cc2c7cc3edddadd4d8d8a712b4be">SuppressFor</a>(Unit *who)</td><td class="entry"><a class="el" href="../../d9/da8/a08138.html">CombatReference</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d2d/a08142.html#a88d3291f9e29fa72f610b6c2a224fa4a">Update</a>(uint32 tdiff)</td><td class="entry"><a class="el" href="../../df/d2d/a08142.html">PvPCombatReference</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Apr 6 2026 21:08:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 4 2026 21:42:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

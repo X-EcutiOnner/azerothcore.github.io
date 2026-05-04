@@ -1,6 +1,7 @@
 var a28910 =
 [
-    [ "ID", "d4/de3/a28910.html#a7d40e334785d96a2e57d28f87a59778a", null ],
-    [ "maxCount", "d4/de3/a28910.html#a5edc6442e026b12dae654fa86440a11a", null ],
-    [ "mode", "d4/de3/a28910.html#a76553ecf9f880a5e5967f818123742fd", null ]
+    [ "Id", "d4/de3/a28910.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "d4/de3/a28910.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "d4/de3/a28910.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "d4/de3/a28910.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

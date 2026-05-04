@@ -1,12 +1,8 @@
 var a11614 =
 [
-    [ "SpellDestination", "de/dff/a11614.html#aa91f31101de3139b2e2d2976dac94686", null ],
-    [ "SpellDestination", "de/dff/a11614.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
-    [ "SpellDestination", "de/dff/a11614.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
-    [ "SpellDestination", "de/dff/a11614.html#a7b8949fa80249aee8bebc56620ec746c", null ],
-    [ "Relocate", "de/dff/a11614.html#ab565861d5013130639013e3c4d22d712", null ],
-    [ "RelocateOffset", "de/dff/a11614.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
-    [ "_position", "de/dff/a11614.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
-    [ "_transportGUID", "de/dff/a11614.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
-    [ "_transportOffset", "de/dff/a11614.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
+    [ "SkillDiscoveryEntry", "de/dff/a11614.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "de/dff/a11614.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "de/dff/a11614.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "de/dff/a11614.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "de/dff/a11614.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

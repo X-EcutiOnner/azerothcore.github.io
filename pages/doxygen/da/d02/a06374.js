@@ -1,8 +1,9 @@
 var a06374 =
 [
-    [ "PassiveAI", "da/d02/a06374.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
-    [ "AttackStart", "da/d02/a06374.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
-    [ "MoveInLineOfSight", "da/d02/a06374.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
-    [ "Permissible", "da/d02/a06374.html#a2960223799a5b3baedbdd7e664604865", null ],
-    [ "UpdateAI", "da/d02/a06374.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
+    [ "CasterAI", "da/d02/a06374.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
+    [ "AttackStart", "da/d02/a06374.html#a28386fd1a275c002445e5eaf90314a3d", null ],
+    [ "InitializeAI", "da/d02/a06374.html#a2a24cdc24b665c52363dae587572fc4d", null ],
+    [ "JustEngagedWith", "da/d02/a06374.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
+    [ "UpdateAI", "da/d02/a06374.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
+    [ "m_attackDist", "da/d02/a06374.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
 ];

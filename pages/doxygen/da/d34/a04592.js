@@ -1,8 +1,12 @@
 var a04592 =
 [
-    [ "LIQUID_TILE_SIZE", "da/d34/a04592.html#a1596e8a465c0638086c77467a2dde3a6", null ],
-    [ "readChunk", "da/d34/a04592.html#a166f3eeee53079ac9df4f15ccd577974", null ],
-    [ "GAMEOBJECT_MODELS", "da/d34/a04592.html#ada4191301386f881525b3f0b0760cb60", null ],
-    [ "RAW_VMAP_MAGIC", "da/d34/a04592.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],
-    [ "VMAP_MAGIC", "da/d34/a04592.html#aa7e5a571fdcb9d62ceefdcf5744746cb", null ]
+    [ "CSymbolInfoPackage", "dd/de0/a05478.html", "dd/de0/a05478" ],
+    [ "_NO_CVCONST_H", "da/d34/a04592.html#af8660cbefcf140a8992e862e401bc473", null ],
+    [ "CrashFolder", "da/d34/a04592.html#a55b3d8676a4478f058eeb12d4e8b35b2", null ],
+    [ "EXCEPTION", "da/d34/a04592.html#a04a8ef8e5d1a39a04fed031f53ffa2db", null ],
+    [ "WIN32_LEAN_AND_MEAN", "da/d34/a04592.html#ac7bef5d85e3dcd73eef56ad39ffc84a9", null ],
+    [ "ErrorMessage", "da/d34/a04592.html#a75b4eb6a99991d301f7d44683ce13c9e", null ],
+    [ "ToTchar", "da/d34/a04592.html#a9f2ce59205c508258855d0568854e367", null ],
+    [ "ToTchar", "da/d34/a04592.html#a74d70382aec7501d6df3dcb969b85902", null ],
+    [ "g_WheatyExceptionReport", "da/d34/a04592.html#a9fff8ce906026fe3179e50e97182d90d", null ]
 ];

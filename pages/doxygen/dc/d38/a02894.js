@@ -1,13 +1,14 @@
 var a02894 =
 [
-    [ "npc_underbat", "d3/dc1/a23061.html", "d3/dc1/a23061" ],
-    [ "spell_fungal_decay", "d7/d1b/a23065.html", "d7/d1b/a23065" ],
-    [ "spell_allergies", "d1/de9/a23069.html", "d1/de9/a23069" ],
-    [ "AllergiesEnum", "dc/d38/a02894.html#a597f861031d65ff9c7c3da68293f6847", [
-      [ "SPELL_SNEEZE", "dc/d38/a02894.html#a597f861031d65ff9c7c3da68293f6847aca231923ca4e3560754e0ead3753c7e3", null ]
+    [ "go_main_chambers_access_panel", "d8/d51/a23026.html", "d8/d51/a23026" ],
+    [ "instance_steam_vault", "de/dbe/a23030.html", "de/dbe/a23030" ],
+    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "dc/d6b/a23034.html", "dc/d6b/a23034" ],
+    [ "MainChambersAccessPanelSays", "dc/d38/a02894.html#aa8d293574a308aad41f620556eb63b6a", [
+      [ "SAY_FAINT_ECHO", "dc/d38/a02894.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
+      [ "SAY_LOUD_RUMBLE", "dc/d38/a02894.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
     ] ],
-    [ "UnderbatSpells", "dc/d38/a02894.html#aba9ed07daed7ae7df6becb96f5194f52", [
-      [ "SPELL_TENTACLE_LASH", "dc/d38/a02894.html#aba9ed07daed7ae7df6becb96f5194f52a8fb7d802a437e3e383ba2095ae12b96a", null ]
-    ] ],
-    [ "AddSC_underbog", "dc/d38/a02894.html#a8c9725cac978bfa0eb0405faa6588549", null ]
+    [ "AddSC_instance_steam_vault", "dc/d38/a02894.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
+    [ "creatureData", "dc/d38/a02894.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "minionData", "dc/d38/a02894.html#a6720238df140a3c574a711042b7f5bd3", null ],
+    [ "objectData", "dc/d38/a02894.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
 ];

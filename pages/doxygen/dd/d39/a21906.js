@@ -1,15 +1,7 @@
 var a21906 =
 [
-    [ "npc_jungle_punch_targetAI", "dd/d39/a21906.html#a04f09361f6bc4bc752ca773878187f79", null ],
-    [ "MoveInLineOfSight", "dd/d39/a21906.html#adc08551a256220bab144ef26d89c4263", null ],
-    [ "proceedCwEvent", "dd/d39/a21906.html#a54f8a5c7414f4a9fd019e02fede1970d", null ],
-    [ "Reset", "dd/d39/a21906.html#a56faff3edbe0d13969e8d20e6c3e03a2", null ],
-    [ "SpellHit", "dd/d39/a21906.html#a3515e873adf5a097f66764887e3cc5a3", null ],
-    [ "UpdateAI", "dd/d39/a21906.html#afa2a1bcdeef51e9f984307f576a1ff6e", null ],
-    [ "orphanGUID", "dd/d39/a21906.html#a5947a4415b63f8bbda4d53c44ccebf74", null ],
-    [ "phase", "dd/d39/a21906.html#a737a9016c93d621bf8cfa29d6b66b345", null ],
-    [ "playerGUID", "dd/d39/a21906.html#afbb4e4c74c2634a442171f06bb2eff08", null ],
-    [ "sayStep", "dd/d39/a21906.html#a1b1757dd6e0775f1f4791b4feafd86fb", null ],
-    [ "sayTimer", "dd/d39/a21906.html#a4edf558dbc54ff1acab15d6daf0a5613", null ],
-    [ "timer", "dd/d39/a21906.html#a0fa884bf3003267501f048d3f1287d42", null ]
+    [ "HandleDummy", "dd/d39/a21906.html#a68c638c6e056cbadb101ddd025909f54", null ],
+    [ "PrepareSpellScript", "dd/d39/a21906.html#a5a857bace5232d259145a0a095f70eec", null ],
+    [ "Register", "dd/d39/a21906.html#af9c657e1fac6ee630af0bea337fbff62", null ],
+    [ "Validate", "dd/d39/a21906.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
 ];

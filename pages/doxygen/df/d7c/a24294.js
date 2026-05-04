@@ -1,7 +1,7 @@
 var a24294 =
 [
-    [ "CalcDamage", "df/d7c/a24294.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "df/d7c/a24294.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "df/d7c/a24294.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "df/d7c/a24294.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "HandleProc", "df/d7c/a24294.html#a60def76554cd5cf94d84ec1240d651dc", null ],
+    [ "PrepareAuraScript", "df/d7c/a24294.html#ae78484c4af6ddfcd6bf60df191f9db48", null ],
+    [ "Register", "df/d7c/a24294.html#a276526f7f988ce579dc67dc37eebbe87", null ],
+    [ "Validate", "df/d7c/a24294.html#a65986abd9db0dcfb70c8c8b21ff208ac", null ]
 ];

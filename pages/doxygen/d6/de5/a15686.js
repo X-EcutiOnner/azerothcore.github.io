@@ -1,9 +1,7 @@
 var a15686 =
 [
-    [ "npc_prospector_remtravelAI", "d6/de5/a15686.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "d6/de5/a15686.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "d6/de5/a15686.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "d6/de5/a15686.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "d6/de5/a15686.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
-    [ "WaypointReached", "d6/de5/a15686.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_prophet_velen", "d6/de5/a15686.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "d6/de5/a15686.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "d6/de5/a15686.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "d6/de5/a15686.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

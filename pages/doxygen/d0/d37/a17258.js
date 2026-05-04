@@ -1,9 +1,13 @@
 var a17258 =
 [
-    [ "npc_pos_after_first_bossAI", "d0/d37/a17258.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d0/d37/a17258.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d0/d37/a17258.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d0/d37/a17258.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d0/d37/a17258.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d0/d37/a17258.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "boss_tyrannusAI", "d0/d37/a17258.html#a753de14d2cecaaed2c7b24e09397b008", null ],
+    [ "CanAIAttack", "d0/d37/a17258.html#a0cb60f308637cbd152faf274b3e5f636", null ],
+    [ "DoAction", "d0/d37/a17258.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
+    [ "EnterEvadeMode", "d0/d37/a17258.html#a9d18bab323c676020dede77a498a5b77", null ],
+    [ "JustDied", "d0/d37/a17258.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
+    [ "KilledUnit", "d0/d37/a17258.html#abf7c8909143dac641c00cca160bef964", null ],
+    [ "Reset", "d0/d37/a17258.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
+    [ "UpdateAI", "d0/d37/a17258.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
+    [ "events", "d0/d37/a17258.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
+    [ "pInstance", "d0/d37/a17258.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
 ];

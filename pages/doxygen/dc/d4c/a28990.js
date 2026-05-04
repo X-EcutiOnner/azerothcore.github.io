@@ -1,7 +1,5 @@
 var a28990 =
 [
-    [ "EpicPropertiesPoints", "dc/d4c/a28990.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "dc/d4c/a28990.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "dc/d4c/a28990.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "dc/d4c/a28990.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "Price", "dc/d4c/a28990.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
+    [ "Slot", "dc/d4c/a28990.html#aa53247914bda0ceca015b8b9ca117379", null ]
 ];

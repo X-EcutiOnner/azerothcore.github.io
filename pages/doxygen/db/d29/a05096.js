@@ -1,7 +1,12 @@
 var a05096 =
 [
-    [ "indices", "db/d29/a05096.html#a23cadbd54502fb4edc68e052e5774664", null ],
-    [ "maxPrims", "db/d29/a05096.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
-    [ "numPrims", "db/d29/a05096.html#a623b9ee05707ecdbaa816c797e358e86", null ],
-    [ "primBound", "db/d29/a05096.html#a3304ad5d821f178941fd44da897213de", null ]
+    [ "InstanceLockResponse", "de/df4/a11166.html", "de/df4/a11166" ],
+    [ "InstanceReset", "d3/d4b/a11134.html", "d3/d4b/a11134" ],
+    [ "InstanceResetFailed", "dd/dfb/a11138.html", "dd/dfb/a11138" ],
+    [ "ResetFailedNotify", "d3/dfc/a11150.html", "d3/dfc/a11150" ],
+    [ "ResetInstances", "de/d4c/a11162.html", "de/d4c/a11162" ],
+    [ "SetDungeonDifficulty", "d4/d25/a11142.html", "d4/d25/a11142" ],
+    [ "SetDungeonDifficultyClient", "d2/d4b/a11146.html", "d2/d4b/a11146" ],
+    [ "SetRaidDifficulty", "df/d70/a11154.html", "df/d70/a11154" ],
+    [ "SetRaidDifficultyClient", "dd/d1c/a11158.html", "dd/d1c/a11158" ]
 ];

@@ -1,6 +1,7 @@
 var a16026 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "d3/d47/a16030.html", "d3/d47/a16030" ],
-    [ "instance_zulfarrak", "d3/d7a/a16026.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "d3/d7a/a16026.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "npc_ringoAI", "d3/d47/a16030.html", "d3/d47/a16030" ],
+    [ "npc_ringo", "d3/d7a/a16026.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
+    [ "GetAI", "d3/d7a/a16026.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
+    [ "OnQuestAccept", "d3/d7a/a16026.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
 ];

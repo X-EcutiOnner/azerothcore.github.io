@@ -1,12 +1,9 @@
 var a07498 =
 [
-    [ "Arena", "d1/dd7/a07498.html#a74f105bc709d4728fb07f1984abfd345", null ],
-    [ "AddPlayer", "d1/dd7/a07498.html#ae24fe304d35c0c09379203135e936450", null ],
-    [ "CheckWinConditions", "d1/dd7/a07498.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
-    [ "EndBattleground", "d1/dd7/a07498.html#a2be61602189b530a16a9ca954d180914", null ],
-    [ "FillInitialWorldStates", "d1/dd7/a07498.html#a592100d0f0ed492a5cdf941e57db787f", null ],
-    [ "HandleKillPlayer", "d1/dd7/a07498.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
-    [ "RemovePlayer", "d1/dd7/a07498.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
-    [ "RemovePlayerAtLeave", "d1/dd7/a07498.html#acae21233e11b21b612e5c051bfa7720e", null ],
-    [ "UpdateArenaWorldState", "d1/dd7/a07498.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
+    [ "entryAlliance", "d1/dd7/a07498.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
+    [ "entryHorde", "d1/dd7/a07498.html#a374fff4b069e89489395246f378b4900", null ],
+    [ "o", "d1/dd7/a07498.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
+    [ "x", "d1/dd7/a07498.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
+    [ "y", "d1/dd7/a07498.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
+    [ "z", "d1/dd7/a07498.html#adebb903a00687e17d9088f5da2c97f4a", null ]
 ];

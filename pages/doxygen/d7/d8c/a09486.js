@@ -1,13 +1,12 @@
 var a09486 =
 [
-    [ "MessageDistDelivererToHostile", "d7/d8c/a09486.html#a4e1642660288eeb46867d4e19944cc78", null ],
-    [ "SendPacket", "d7/d8c/a09486.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
-    [ "Visit", "d7/d8c/a09486.html#af9c5269b0266e9e28a70118e62d25e58", null ],
-    [ "Visit", "d7/d8c/a09486.html#a224eeb339614d7a9f5e43d498b245958", null ],
-    [ "Visit", "d7/d8c/a09486.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
-    [ "Visit", "d7/d8c/a09486.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
-    [ "i_distSq", "d7/d8c/a09486.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
-    [ "i_message", "d7/d8c/a09486.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
-    [ "i_phaseMask", "d7/d8c/a09486.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
-    [ "i_source", "d7/d8c/a09486.html#a174aade6dc85233e8481a452f800ec0e", null ]
+    [ "GridTerrainLoader", "d7/d8c/a09486.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
+    [ "ExistMap", "d7/d8c/a09486.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
+    [ "ExistVMap", "d7/d8c/a09486.html#a17bdde445c48738ade280bd1cdda0619", null ],
+    [ "LoadMap", "d7/d8c/a09486.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
+    [ "LoadMMap", "d7/d8c/a09486.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
+    [ "LoadTerrain", "d7/d8c/a09486.html#a097556a8a778efa22ab9d50cbda2649a", null ],
+    [ "LoadVMap", "d7/d8c/a09486.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
+    [ "_grid", "d7/d8c/a09486.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
+    [ "_map", "d7/d8c/a09486.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
 ];

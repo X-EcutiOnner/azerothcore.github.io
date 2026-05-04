@@ -1,7 +1,5 @@
 var a28246 =
 [
-    [ "npc_sayge", "dc/d64/a28246.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "dc/d64/a28246.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "dc/d64/a28246.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "dc/d64/a28246.html#aed1988335672423d024546654aa95298", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "dc/d64/a28246.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "dc/d64/a28246.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

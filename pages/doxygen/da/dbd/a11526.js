@@ -1,11 +1,12 @@
 var a11526 =
 [
-    [ "Player", "da/dbd/a11526.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "da/dbd/a11526.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Face", "da/dbd/a11526.html#a6334464eea38be514f3faa7538b39a5a", null ],
-    [ "FacialHair", "da/dbd/a11526.html#a44643270b211d275eb94283842791407", null ],
-    [ "Gender", "da/dbd/a11526.html#a14321ea3595debe2836eceab8a82f944", null ],
-    [ "HairColor", "da/dbd/a11526.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
-    [ "HairStyle", "da/dbd/a11526.html#ade5b2dff213547ab4d707070f8979085", null ],
-    [ "Skin", "da/dbd/a11526.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
+    [ "PacketLog", "da/dbd/a11526.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
+    [ "~PacketLog", "da/dbd/a11526.html#a595a42f9aaa94d6c46d185955df801e0", null ],
+    [ "CanLogPacket", "da/dbd/a11526.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
+    [ "Initialize", "da/dbd/a11526.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
+    [ "instance", "da/dbd/a11526.html#a484418a51ca0bf150d17b23d97979bf4", null ],
+    [ "LogPacket", "da/dbd/a11526.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
+    [ "_file", "da/dbd/a11526.html#a03346a709f7586f6445e03b9a3b6af04", null ],
+    [ "_initializeFlag", "da/dbd/a11526.html#a490cafe009f7b2ecb303a76c781f8960", null ],
+    [ "_logPacketLock", "da/dbd/a11526.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
 ];

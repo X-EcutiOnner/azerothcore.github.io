@@ -1,6 +1,7 @@
 var a27198 =
 [
-    [ "CheckProc", "dc/d2b/a27198.html#a3b98aef2d745773a55ac10daded629e7", null ],
-    [ "PrepareAuraScript", "dc/d2b/a27198.html#ab49dc1c178c4089fe8f708da3cd22bf2", null ],
-    [ "Register", "dc/d2b/a27198.html#a5c0c53a39fdc770f8c6e9a86cd87c74a", null ]
+    [ "CheckProc", "dc/d2b/a27198.html#a982264a8ea20344b66269a3edd814db7", null ],
+    [ "HandleProc", "dc/d2b/a27198.html#adf79a132d1ae20e27b07dc77e103fb3c", null ],
+    [ "PrepareAuraScript", "dc/d2b/a27198.html#abd0ac0c324e3323140812c7d4c937e1e", null ],
+    [ "Register", "dc/d2b/a27198.html#ac24fe502aa899f953b694fe3ebf46012", null ]
 ];

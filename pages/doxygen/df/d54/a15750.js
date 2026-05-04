@@ -1,7 +1,6 @@
 var a15750 =
 [
-    [ "HandleDummy", "df/d54/a15750.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "df/d54/a15750.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "df/d54/a15750.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "df/d54/a15750.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "npc_tiger_matriarch_creditAI", "d2/d8f/a15754.html", "d2/d8f/a15754" ],
+    [ "npc_tiger_matriarch_credit", "df/d54/a15750.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "df/d54/a15750.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

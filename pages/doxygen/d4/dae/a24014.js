@@ -1,7 +1,8 @@
 var a24014 =
 [
-    [ "npc_isla_starmaneAI", "d0/d03/a24018.html", "d0/d03/a24018" ],
-    [ "npc_isla_starmane", "d4/dae/a24014.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "d4/dae/a24014.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "d4/dae/a24014.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "npc_pet_gen_valkyr_guardian", "d4/dae/a24014.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "d4/dae/a24014.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "d4/dae/a24014.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "d4/dae/a24014.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "d4/dae/a24014.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

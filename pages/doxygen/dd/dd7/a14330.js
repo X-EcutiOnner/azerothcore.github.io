@@ -1,9 +1,7 @@
 var a14330 =
 [
-    [ "npc_healing_ward", "dd/dd7/a14330.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "dd/dd7/a14330.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "dd/dd7/a14330.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "dd/dd7/a14330.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "dd/dd7/a14330.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "dd/dd7/a14330.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "OnRemove", "dd/dd7/a14330.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "dd/dd7/a14330.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "dd/dd7/a14330.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "dd/dd7/a14330.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

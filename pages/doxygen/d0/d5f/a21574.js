@@ -1,7 +1,6 @@
 var a21574 =
 [
-    [ "HandleDummy", "d0/d5f/a21574.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "d0/d5f/a21574.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "d0/d5f/a21574.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "d0/d5f/a21574.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "npc_ravenous_worgAI", "d9/dee/a21578.html", "d9/dee/a21578" ],
+    [ "npc_ravenous_worg", "d0/d5f/a21574.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d0/d5f/a21574.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

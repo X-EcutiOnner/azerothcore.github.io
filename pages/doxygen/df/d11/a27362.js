@@ -1,11 +1,10 @@
 var a27362 =
 [
-    [ "CalcPeriodic", "df/d11/a27362.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "df/d11/a27362.html#a55f649687813eb915c71ead6afb27276", null ],
-    [ "CalculateResistanceAmount", "df/d11/a27362.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "df/d11/a27362.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "df/d11/a27362.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "df/d11/a27362.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "df/d11/a27362.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "df/d11/a27362.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "CheckProc", "df/d11/a27362.html#a257202ac9b80a67ce58d9e3491164d22", null ],
+    [ "HandleProc", "df/d11/a27362.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
+    [ "HandleTick", "df/d11/a27362.html#a5e436c530e5ef70bc4de4305676ed196", null ],
+    [ "PrepareAuraScript", "df/d11/a27362.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
+    [ "Register", "df/d11/a27362.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
+    [ "RemoveEffect", "df/d11/a27362.html#a333ad80d8478f59713ee049f935d7885", null ],
+    [ "Validate", "df/d11/a27362.html#aed3cb37f0230463978b210add84bd31d", null ]
 ];

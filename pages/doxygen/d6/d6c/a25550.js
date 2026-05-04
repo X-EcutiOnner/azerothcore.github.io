@@ -1,6 +1,7 @@
 var a25550 =
 [
-    [ "OnRemove", "d6/d6c/a25550.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "d6/d6c/a25550.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "d6/d6c/a25550.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "HandleProc", "d6/d6c/a25550.html#a9d23a4c0986f56e08c5e687ddae621f9", null ],
+    [ "PrepareAuraScript", "d6/d6c/a25550.html#a37d8d2e9c4618ecbbf314b98286e28b9", null ],
+    [ "Register", "d6/d6c/a25550.html#a2e1b7aed322de7023075fdd69660f2f6", null ],
+    [ "Validate", "d6/d6c/a25550.html#a6e807b19f98f8237e5d6f254cb0987a6", null ]
 ];

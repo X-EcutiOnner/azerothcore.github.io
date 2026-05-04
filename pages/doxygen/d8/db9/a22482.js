@@ -1,8 +1,9 @@
 var a22482 =
 [
-    [ "Load", "d8/db9/a22482.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "d8/db9/a22482.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "d8/db9/a22482.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "d8/db9/a22482.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "d8/db9/a22482.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "HandleAfterCast", "d8/db9/a22482.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "d8/db9/a22482.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "d8/db9/a22482.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "d8/db9/a22482.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "d8/db9/a22482.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "d8/db9/a22482.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

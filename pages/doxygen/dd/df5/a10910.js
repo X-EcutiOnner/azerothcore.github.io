@@ -1,9 +1,6 @@
 var a10910 =
 [
-    [ "GuildRoster", "dd/df5/a10910.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
-    [ "Write", "dd/df5/a10910.html#a544a539999827d4eb8923cbbcdf42bac", null ],
-    [ "InfoText", "dd/df5/a10910.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
-    [ "MemberData", "dd/df5/a10910.html#a964fc72bf3ada77c171fd1f691449241", null ],
-    [ "RankData", "dd/df5/a10910.html#a67b0a12fae93c5807030c1062f328abb", null ],
-    [ "WelcomeText", "dd/df5/a10910.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
+    [ "SetSheathed", "dd/df5/a10910.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
+    [ "Read", "dd/df5/a10910.html#ae2158689450e3a9207b6992ea5223106", null ],
+    [ "CurrentSheathState", "dd/df5/a10910.html#a8363787ac7959f19234def2707ef0b32", null ]
 ];

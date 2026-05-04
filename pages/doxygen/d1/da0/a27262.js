@@ -1,6 +1,10 @@
 var a27262 =
 [
-    [ "CheckProc", "d1/da0/a27262.html#a705be9d078a9c7b04bcec0594cab9ac5", null ],
-    [ "PrepareAuraScript", "d1/da0/a27262.html#a68fd79f1f62bcc748f9cce4423632f7f", null ],
-    [ "Register", "d1/da0/a27262.html#acac1c6d063090bf191fcd202d7d07c20", null ]
+    [ "CalcPeriodic", "d1/da0/a27262.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
+    [ "CalculateAmount", "d1/da0/a27262.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
+    [ "HandleEffectCalcSpellMod", "d1/da0/a27262.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
+    [ "HandlePeriodic", "d1/da0/a27262.html#ae2c4de235fc727039a50f1b6ba729422", null ],
+    [ "Load", "d1/da0/a27262.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
+    [ "PrepareAuraScript", "d1/da0/a27262.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
+    [ "Register", "d1/da0/a27262.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
 ];

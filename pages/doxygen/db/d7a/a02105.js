@@ -1,8 +1,5 @@
 var a02105 =
 [
-    [ "WorldPackets::Bank::AutoBankItem", "db/d79/a10789.html", "db/d79/a10789" ],
-    [ "WorldPackets::Bank::AutoStoreBankItem", "d8/dce/a10793.html", "d8/dce/a10793" ],
-    [ "WorldPackets::Bank::BuyBankSlot", "d6/d8a/a10797.html", "d6/d8a/a10797" ],
-    [ "WorldPackets::Bank::BuyBankSlotResult", "dc/da0/a10801.html", "dc/da0/a10801" ],
-    [ "WorldPackets::Bank::ShowBank", "dc/dbb/a10805.html", "dc/dbb/a10805" ]
+    [ "operator<<", "db/d7a/a02105.html#ae8a45300d819957eb5ed8c659180c750", null ],
+    [ "operator<<", "db/d7a/a02105.html#abd3549ec2eebc439058205da8ae53eb3", null ]
 ];

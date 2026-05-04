@@ -1,9 +1,6 @@
 var a12674 =
 [
-    [ "FilterTargets", "df/d27/a12674.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "df/d27/a12674.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "df/d27/a12674.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "df/d27/a12674.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "df/d27/a12674.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "df/d27/a12674.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "FilterTargets", "df/d27/a12674.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "df/d27/a12674.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "df/d27/a12674.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

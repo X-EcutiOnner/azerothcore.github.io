@@ -1,6 +1,7 @@
 var a18486 =
 [
-    [ "npc_raging_spiritAI", "db/d13/a18490.html", "db/d13/a18490" ],
-    [ "npc_raging_spirit", "d4/db4/a18486.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "d4/db4/a18486.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "OnRemove", "d4/db4/a18486.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "d4/db4/a18486.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "d4/db4/a18486.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "d4/db4/a18486.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

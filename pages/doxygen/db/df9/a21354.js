@@ -1,13 +1,9 @@
 var a21354 =
 [
-    [ "npc_preparations_for_war_vehicle", "db/df9/a21354.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "MovementInform", "db/df9/a21354.html#a5380670d521c7805a045aeac26c7c686", null ],
-    [ "PassengerBoarded", "db/df9/a21354.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
-    [ "SpellHit", "db/df9/a21354.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
-    [ "UpdateAI", "db/df9/a21354.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "passenger_x", "db/df9/a21354.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
-    [ "passenger_y", "db/df9/a21354.html#afd99c49b3c3b996c92def21229f1ec87", null ],
-    [ "passenger_z", "db/df9/a21354.html#a18d051868134d8c62f64923905bf19db", null ],
-    [ "searchForShipTimer", "db/df9/a21354.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "db/df9/a21354.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_minigob_manabonk", "db/df9/a21354.html#aade5e005b68b25ede4e653629390ceb9", null ],
+    [ "Reset", "db/df9/a21354.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
+    [ "SelectTargetInDalaran", "db/df9/a21354.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
+    [ "SendMailToPlayer", "db/df9/a21354.html#a1973b7885c9fce15aab9843722bf112e", null ],
+    [ "UpdateAI", "db/df9/a21354.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
+    [ "playerGUID", "db/df9/a21354.html#ac8dccd333691f717fdbffe22126330d5", null ]
 ];

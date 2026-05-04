@@ -1,6 +1,9 @@
 var a23390 =
 [
-    [ "npc_millhouse_manastormAI", "dc/dfb/a23394.html", "dc/dfb/a23394" ],
-    [ "npc_millhouse_manastorm", "d3/d15/a23390.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "d3/d15/a23390.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "boss_high_botanist_freywinn", "d3/d15/a23390.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "d3/d15/a23390.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "d3/d15/a23390.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "d3/d15/a23390.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "d3/d15/a23390.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "d3/d15/a23390.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

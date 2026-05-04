@@ -1,5 +1,8 @@
 var a02114 =
 [
-    [ "list_commandscript", "df/d52/a12234.html", "df/d52/a12234" ],
-    [ "AddSC_list_commandscript", "da/d4a/a02114.html#a81af00772e7a06ad952109222b1f53a3", null ]
+    [ "WorldPackets::Bank::AutoBankItem", "d3/d26/a10818.html", "d3/d26/a10818" ],
+    [ "WorldPackets::Bank::AutoStoreBankItem", "db/d67/a10822.html", "db/d67/a10822" ],
+    [ "WorldPackets::Bank::BuyBankSlot", "d6/dd9/a10826.html", "d6/dd9/a10826" ],
+    [ "WorldPackets::Bank::BuyBankSlotResult", "dc/da5/a10830.html", "dc/da5/a10830" ],
+    [ "WorldPackets::Bank::ShowBank", "d3/dcf/a10834.html", "d3/dcf/a10834" ]
 ];

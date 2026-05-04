@@ -1,11 +1,6 @@
 var a11150 =
 [
-    [ "DestroyItem", "d3/dfc/a11150.html#a581e8c0f5f580e812bc0988e35786ee2", null ],
-    [ "Read", "d3/dfc/a11150.html#a9f7fa7614db176262437478b4d92e9f9", null ],
-    [ "Bag", "d3/dfc/a11150.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6", null ],
-    [ "Count", "d3/dfc/a11150.html#af18875aa85f12191a47d97380f459c45", null ],
-    [ "Data1", "d3/dfc/a11150.html#a34fa30122f101e15de6252c289b82680", null ],
-    [ "Data2", "d3/dfc/a11150.html#a227470a5932383e0ab7b9a369dfb3445", null ],
-    [ "Data3", "d3/dfc/a11150.html#a019a891e4906ce9dafef6e276d635df7", null ],
-    [ "Slot", "d3/dfc/a11150.html#af8274f1ded5565dc0f79e28948825ea2", null ]
+    [ "ResetFailedNotify", "d3/dfc/a11150.html#a82e12a0f207590b6176253cf36a22d2f", null ],
+    [ "Write", "d3/dfc/a11150.html#af03055514ef0e1e97f24c66d2cd94185", null ],
+    [ "MapId", "d3/dfc/a11150.html#a17f065fc6d5438d74f38bde67a841be7", null ]
 ];

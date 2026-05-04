@@ -1,7 +1,6 @@
 var a18266 =
 [
-    [ "HandleScript", "d8/d59/a18266.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "d8/d59/a18266.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "d8/d59/a18266.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "d8/d59/a18266.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "boss_sindragosaAI", "d9/dbe/a18270.html", "d9/dbe/a18270" ],
+    [ "boss_sindragosa", "d8/d59/a18266.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "d8/d59/a18266.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

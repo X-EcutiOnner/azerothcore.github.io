@@ -1,6 +1,5 @@
 var a10874 =
 [
-    [ "QueryGuildInfo", "d2/d74/a10874.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
-    [ "Read", "d2/d74/a10874.html#a0396a58ca114706f7de91f51c5ab949d", null ],
-    [ "GuildId", "d2/d74/a10874.html#ad221eecdb16233251306fff3d9801f38", null ]
+    [ "LogoutCancel", "d2/d74/a10874.html#a179fccf74fa969e6a32492f35d6f28c8", null ],
+    [ "Read", "d2/d74/a10874.html#a9ed27bc4472b7e4e225793b4f2e5a34d", null ]
 ];

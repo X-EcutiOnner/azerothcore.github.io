@@ -1,6 +1,6 @@
 var a21070 =
 [
-    [ "boss_ichoronAI", "d5/d82/a21074.html", "d5/d82/a21074" ],
-    [ "boss_ichoron", "d6/dfe/a21070.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "d6/dfe/a21070.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "npc_frozen_orb_stalkerAI", "d5/d82/a21074.html", "d5/d82/a21074" ],
+    [ "npc_frozen_orb_stalker", "d6/dfe/a21070.html#a7f025c829106aa6668427f913d07a722", null ],
+    [ "GetAI", "d6/dfe/a21070.html#af33e27138a70286bac561113ed09f350", null ]
 ];

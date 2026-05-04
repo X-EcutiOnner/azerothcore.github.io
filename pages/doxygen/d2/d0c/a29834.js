@@ -1,7 +1,5 @@
 var a29834 =
 [
-    [ "Paths", "d2/d0c/a29834.html#aff167c694a55441bcf5504f5d1933f41", null ],
-    [ "References", "d2/d0c/a29834.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
-    [ "Sets", "d2/d0c/a29834.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
-    [ "Spawns", "d2/d0c/a29834.html#a51f24c059516683f0744b81819186c0e", null ]
+    [ "max", "d2/d0c/a29834.html#a3d87d5fa5e887282fa76a4a4b77eb097", null ],
+    [ "min", "d2/d0c/a29834.html#a7277258d8bdc471a007814fadf91780a", null ]
 ];

@@ -1,6 +1,8 @@
 var a25574 =
 [
-    [ "PrepareSpellScript", "d2/df9/a25574.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "d2/df9/a25574.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "d2/df9/a25574.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "HandleProc", "d2/df9/a25574.html#ad92c7804b26bd29d135e55c8adad9093", null ],
+    [ "OnRemove", "d2/df9/a25574.html#afa8e065ed835243f3ebb95c10792adf8", null ],
+    [ "PrepareAuraScript", "d2/df9/a25574.html#a5e986f77b23fd0402089ea36f0360c79", null ],
+    [ "Register", "d2/df9/a25574.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
+    [ "Validate", "d2/df9/a25574.html#a51f81afec6ff0918530208d9de9dae24", null ]
 ];

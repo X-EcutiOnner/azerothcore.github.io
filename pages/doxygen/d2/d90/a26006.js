@@ -1,6 +1,7 @@
 var a26006 =
 [
-    [ "PrepareSpellScript", "d2/d90/a26006.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "d2/d90/a26006.html#a313abe6367e5494bd81a557ab42f9f50", null ],
-    [ "SecondaryEffect", "d2/d90/a26006.html#ac12d466f3aeb86a30dc498f10082aab1", null ]
+    [ "HandleProc", "d2/d90/a26006.html#ad96085df198965575061ab989195983a", null ],
+    [ "PrepareAuraScript", "d2/d90/a26006.html#a61a84072d467596b8b2b2704ecbca03a", null ],
+    [ "Register", "d2/d90/a26006.html#a357e5c8a332989f93276667da1adf9f6", null ],
+    [ "Validate", "d2/d90/a26006.html#aa1d3ef35912daa094bd9527280d0064b", null ]
 ];

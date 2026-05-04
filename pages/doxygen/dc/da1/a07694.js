@@ -1,8 +1,7 @@
 var a07694 =
 [
-    [ "NodeId", "dc/da1/a07694.html#a09d4904c622dd7810e154bc0f3bd7eaf", null ],
-    [ "TextAllianceTaken", "dc/da1/a07694.html#a20cb8eaefa0e45b45a57645c62409ba4", null ],
-    [ "TextAssaulted", "dc/da1/a07694.html#a2e49a6d7f8ca935800062d98f1c660de", null ],
-    [ "TextDefended", "dc/da1/a07694.html#a27ee2d5be23a110943438a8888b14202", null ],
-    [ "TextHordeTaken", "dc/da1/a07694.html#a835c00ebdc2fe61f7e7757b0ed26bd1d", null ]
+    [ "BattlegroundEYPointIconsStruct", "dc/da1/a07694.html#a322379024d155d293d1c0083c510d232", null ],
+    [ "WorldStateAllianceControlledIndex", "dc/da1/a07694.html#a449932bc2357e26c79520fcf01a71a2a", null ],
+    [ "WorldStateControlIndex", "dc/da1/a07694.html#a82e87048f934b67821bc8ba308ed101d", null ],
+    [ "WorldStateHordeControlledIndex", "dc/da1/a07694.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
 ];

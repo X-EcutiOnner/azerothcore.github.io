@@ -1,11 +1,7 @@
 var a25306 =
 [
-    [ "CalcPeriodic", "df/d03/a25306.html#ab5feede17fa79c9d02fa459586eaca41", null ],
-    [ "CalculateAPAmount", "df/d03/a25306.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
-    [ "CalculateResistanceAmount", "df/d03/a25306.html#a51828f07b0e099c5931161f7aeebaab7", null ],
-    [ "CalculateSPAmount", "df/d03/a25306.html#a255ed8f5158e715313e44b13f30b099f", null ],
-    [ "CalculateStatAmount", "df/d03/a25306.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
-    [ "HandlePeriodic", "df/d03/a25306.html#a136c8cedca7630543b8937e77571ead1", null ],
-    [ "PrepareAuraScript", "df/d03/a25306.html#a638a2544d9216bec90c433100c0663a0", null ],
-    [ "Register", "df/d03/a25306.html#a55605257006d8218250932357f325bb8", null ]
+    [ "HandleProc", "df/d03/a25306.html#a68f17c864f8b2138c73a2fea42b8a252", null ],
+    [ "PrepareAuraScript", "df/d03/a25306.html#a3722c927cf522685c08886338433964d", null ],
+    [ "Register", "df/d03/a25306.html#a38985baeb0c24c948747492bf1d1f546", null ],
+    [ "Validate", "df/d03/a25306.html#ac8bdbf36f0ccfa77de664d630540957d", null ]
 ];

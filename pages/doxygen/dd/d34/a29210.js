@@ -1,5 +1,6 @@
 var a29210 =
 [
-    [ "type", "dd/d34/a29210.html#af749459df7757d1bab17a54be813f6b6", null ],
-    [ "_type", "dd/d34/a29210.html#ab0344571616786baef4511c647a3abea", null ]
+    [ "auraName", "dd/d34/a29210.html#a953f930e046655ca0d8f373362d3f334", null ],
+    [ "isAlwaysTriggeredAura", "dd/d34/a29210.html#a05786c8e0daef9a2da98f832c230d99c", null ],
+    [ "procFlags", "dd/d34/a29210.html#aed48a1ad923118ac0a86d864e1e98519", null ]
 ];

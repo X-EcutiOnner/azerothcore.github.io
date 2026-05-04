@@ -1,7 +1,6 @@
 var a27818 =
 [
-    [ "FilterTargets", "d7/d90/a27818.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d7/d90/a27818.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d7/d90/a27818.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d7/d90/a27818.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "go_l70_etc_musicAI", "d7/d90/a27818.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
+    [ "UpdateAI", "d7/d90/a27818.html#a182a5a9bbe53ced25740de9a4a368469", null ],
+    [ "_events", "d7/d90/a27818.html#aa0cda672b4491b3cfc75214038aa2132", null ]
 ];

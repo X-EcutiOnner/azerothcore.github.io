@@ -1,7 +1,7 @@
 var a10650 =
 [
-    [ "InstanceMapScript", "d7/d7b/a10650.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
-    [ "checkValidity", "d7/d7b/a10650.html#a221dd91e2d2f761e66d990a6cae42306", null ],
-    [ "GetInstanceScript", "d7/d7b/a10650.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
-    [ "IsDatabaseBound", "d7/d7b/a10650.html#ab77651bb427813a7e119057c3dc53ca8", null ]
+    [ "DatabaseScript", "d7/d7b/a10650.html#aab34b85df1a5ccdf17fede64baca4994", null ],
+    [ "IsDatabaseBound", "d7/d7b/a10650.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
+    [ "OnAfterDatabaseLoadCreatureTemplates", "d7/d7b/a10650.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
+    [ "OnAfterDatabasesLoaded", "d7/d7b/a10650.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
 ];

@@ -1,6 +1,11 @@
 var a12554 =
 [
-    [ "OrcMoveEvent", "d5/da1/a12554.html#a71f7fe243741a1629bdd846fc97f0112", null ],
-    [ "Execute", "d5/da1/a12554.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
-    [ "_me", "d5/da1/a12554.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
+    [ "boss_gyth", "d5/da1/a12554.html#a18fea0e0fb6c734b818bb8989b1e66c9", null ],
+    [ "EnterEvadeMode", "d5/da1/a12554.html#a172ea902e3bd162bf8fe8b23e7b9dcfa", null ],
+    [ "IsSummonedBy", "d5/da1/a12554.html#ad7c64e772a8959ad0e58fc13512e0088", null ],
+    [ "JustDied", "d5/da1/a12554.html#a305bf5c4913f429b44592e4a7e99b8ae", null ],
+    [ "JustEngagedWith", "d5/da1/a12554.html#a16de6cf7e2925fd49df6a412c6df9533", null ],
+    [ "JustSummoned", "d5/da1/a12554.html#aab0152a90a341839279cb6d0e7e19eb6", null ],
+    [ "Reset", "d5/da1/a12554.html#aef0345d29833b13045b374a219335018", null ],
+    [ "UpdateAI", "d5/da1/a12554.html#a8829ad229ee09aea55f9603058d095e8", null ]
 ];

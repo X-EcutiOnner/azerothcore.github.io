@@ -1,36 +1,16 @@
 var a02459 =
 [
-    [ "npc_bunthen_plainswind", "d6/d70/a15773.html", "d6/d70/a15773" ],
-    [ "npc_silva_filnaveth", "d7/dc0/a15777.html", "d7/dc0/a15777" ],
-    [ "npc_clintar_spirit", "d5/d27/a15781.html", "d5/d27/a15781" ],
-    [ "npc_clintar_spirit::npc_clintar_spiritAI", "d4/dcf/a15785.html", "d4/dcf/a15785" ],
-    [ "npc_omen", "de/d86/a15789.html", "de/d86/a15789" ],
-    [ "npc_omen::npc_omenAI", "d3/d8b/a15793.html", "d3/d8b/a15793" ],
-    [ "npc_giant_spotlight", "da/dc9/a15797.html", "da/dc9/a15797" ],
-    [ "npc_giant_spotlight::npc_giant_spotlightAI", "dc/d75/a15801.html", "dc/d75/a15801" ],
-    [ "Bunthen", "dc/d5c/a02459.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
-      [ "QUEST_SEA_LION_HORDE", "dc/d5c/a02459.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
-      [ "QUEST_SEA_LION_ALLY", "dc/d5c/a02459.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
-      [ "TAXI_PATH_ID_ALLY", "dc/d5c/a02459.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
-      [ "TAXI_PATH_ID_HORDE", "dc/d5c/a02459.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
+    [ "npc_kaya_flathoof", "d0/d49/a15910.html", "d0/d49/a15910" ],
+    [ "npc_kaya_flathoof::npc_kaya_flathoofAI", "d6/d24/a15914.html", "d6/d24/a15914" ],
+    [ "Kaya", "dc/d5c/a02459.html#ab10ce9d7e7d19709d0e99ef45b935f15", [
+      [ "FACTION_ESCORTEE_H", "dc/d5c/a02459.html#ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f", null ],
+      [ "NPC_GRIMTOTEM_RUFFIAN", "dc/d5c/a02459.html#ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f", null ],
+      [ "NPC_GRIMTOTEM_BRUTE", "dc/d5c/a02459.html#ab10ce9d7e7d19709d0e99ef45b935f15ac4f5df2a1f9d7cd9aba151ebfa864967", null ],
+      [ "NPC_GRIMTOTEM_SORCERER", "dc/d5c/a02459.html#ab10ce9d7e7d19709d0e99ef45b935f15ac5803d139c1801ccfdba4b115381afd6", null ],
+      [ "SAY_START", "dc/d5c/a02459.html#ab10ce9d7e7d19709d0e99ef45b935f15a2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_AMBUSH", "dc/d5c/a02459.html#ab10ce9d7e7d19709d0e99ef45b935f15a68cb8abe7aeb84b5de4ba23b8f814d1e", null ],
+      [ "SAY_END", "dc/d5c/a02459.html#ab10ce9d7e7d19709d0e99ef45b935f15a40884932ffbbf14d6c380b9022bcfe97", null ],
+      [ "QUEST_PROTECT_KAYA", "dc/d5c/a02459.html#ab10ce9d7e7d19709d0e99ef45b935f15a4a8a823950ae7fb8722359672b427cc6", null ]
     ] ],
-    [ "ClintarSpirit", "dc/d5c/a02459.html#af06e96ced22feb1885564950e05417a2", [
-      [ "ASPECT_RAVEN", "dc/d5c/a02459.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
-      [ "CLINTAR_SPIRIT_SAY_START", "dc/d5c/a02459.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
-    ] ],
-    [ "Omen", "dc/d5c/a02459.html#a7fb152206db70a70437b235647a95793", [
-      [ "NPC_OMEN", "dc/d5c/a02459.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
-      [ "SPELL_OMEN_CLEAVE", "dc/d5c/a02459.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
-      [ "SPELL_OMEN_STARFALL", "dc/d5c/a02459.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
-      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "dc/d5c/a02459.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
-      [ "SPELL_ELUNE_CANDLE", "dc/d5c/a02459.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
-      [ "GO_ELUNE_TRAP_1", "dc/d5c/a02459.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
-      [ "GO_ELUNE_TRAP_2", "dc/d5c/a02459.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
-      [ "EVENT_CAST_CLEAVE", "dc/d5c/a02459.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
-      [ "EVENT_CAST_STARFALL", "dc/d5c/a02459.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
-      [ "EVENT_DESPAWN", "dc/d5c/a02459.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
-    ] ],
-    [ "AddSC_moonglade", "dc/d5c/a02459.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
-    [ "AspectRavenSummon", "dc/d5c/a02459.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
-    [ "Clintar_spirit_WP", "dc/d5c/a02459.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
+    [ "AddSC_stonetalon_mountains", "dc/d5c/a02459.html#a985f3fb3a28d1163b27b5de21b1ec6cf", null ]
 ];

@@ -1,4 +1,5 @@
 var a05830 =
 [
-    [ "operator()", "dd/d81/a05830.html#a4f528af97bd248dc4532b303f4f38a63", null ]
+    [ "FromString", "dd/d81/a05830.html#acfabf7e368302aa32ae96367f836edd2", null ],
+    [ "ToString", "dd/d81/a05830.html#a3a97bead5d1614412948b41fe499d50c", null ]
 ];

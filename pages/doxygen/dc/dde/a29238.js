@@ -1,16 +1,19 @@
 var a29238 =
 [
-    [ "AuraApplicationStub", "dc/dde/a29238.html#afaa194023ae92143078166c9a142a41d", null ],
-    [ "~AuraApplicationStub", "dc/dde/a29238.html#ada36445f6f090c6652e0567a5333bb53", null ],
-    [ "GetEffectMask", "dc/dde/a29238.html#ad74cccf28b56c1fe88988df229319dae", null ],
-    [ "GetSlot", "dc/dde/a29238.html#a30f0ddd6c6bbc974958a33ecee39135e", null ],
-    [ "HasEffect", "dc/dde/a29238.html#ad4040b722b12e54aa630abfa78cdaabd", null ],
-    [ "IsPositive", "dc/dde/a29238.html#a1bf6810ab9723ce50ddf46789d2a5045", null ],
-    [ "SetEffect", "dc/dde/a29238.html#a97383d45b0a015579a0f315474ecfcc5", null ],
-    [ "SetEffectMask", "dc/dde/a29238.html#a1fab3395f580b30fa7b2257cbcacd26a", null ],
-    [ "SetPositive", "dc/dde/a29238.html#a653fb81ddfa4c7ad855d9f1fefe172f4", null ],
-    [ "SetSlot", "dc/dde/a29238.html#a824a2ec07e911fdb02054eff2091f2ea", null ],
-    [ "_effectMask", "dc/dde/a29238.html#a9027c5f622263c32b6f7bc4a11883ddc", null ],
-    [ "_isPositive", "dc/dde/a29238.html#afc3220aa9f0403a987ad07cec1c42ced", null ],
-    [ "_slot", "dc/dde/a29238.html#aa4afd58cae5bcfd203d61a1044d72d57", null ]
+    [ "SpellProcEntryBuilder", "dc/dde/a29238.html#ad5df1abe27dde6d70c030bd19ed5c928", null ],
+    [ "Build", "dc/dde/a29238.html#a2a69603215e9fa526304f420bd5a490c", null ],
+    [ "WithAttributesMask", "dc/dde/a29238.html#ab9585e517adc231979ca5b817a2f2142", null ],
+    [ "WithChance", "dc/dde/a29238.html#a3c99a07866eb497717932af6b7f3a485", null ],
+    [ "WithCharges", "dc/dde/a29238.html#a6b8ecf0c38751be02b7003a7547d550f", null ],
+    [ "WithCooldown", "dc/dde/a29238.html#acd3a4b7ab057b5f36dd407acc11a4da4", null ],
+    [ "WithDisableEffectsMask", "dc/dde/a29238.html#ad414f75756b0fd284c636568dd74e57c", null ],
+    [ "WithHitMask", "dc/dde/a29238.html#a1cdd7bec2aa80d5036d614ad0296a695", null ],
+    [ "WithProcFlags", "dc/dde/a29238.html#acebcb2a676a7e8e6821854137e056fff", null ],
+    [ "WithProcsPerMinute", "dc/dde/a29238.html#aa373ae9df6697d722e7f6084a70c8b7a", null ],
+    [ "WithSchoolMask", "dc/dde/a29238.html#a713d576e3a6daf3c6f96b662b5789f14", null ],
+    [ "WithSpellFamilyMask", "dc/dde/a29238.html#a57a1699a8238dd535a44908734e3c7fd", null ],
+    [ "WithSpellFamilyName", "dc/dde/a29238.html#abf221ae8a8ef5e995bbe9b3f01f004c1", null ],
+    [ "WithSpellPhaseMask", "dc/dde/a29238.html#ae7ddfcb398c2f5e52834bd74d25754dc", null ],
+    [ "WithSpellTypeMask", "dc/dde/a29238.html#aa0691e03294c5317fdd173d4dd70edc1", null ],
+    [ "_entry", "dc/dde/a29238.html#a42632c6cb19221bbca3441f46e1f1b3c", null ]
 ];

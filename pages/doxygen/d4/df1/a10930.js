@@ -1,6 +1,5 @@
 var a10930 =
 [
-    [ "GuildInviteByName", "d4/df1/a10930.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
-    [ "Read", "d4/df1/a10930.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
-    [ "Name", "d4/df1/a10930.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
+    [ "GuildGetInfo", "d4/df1/a10930.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
+    [ "Read", "d4/df1/a10930.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
 ];

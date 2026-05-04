@@ -1,8 +1,11 @@
 var a11662 =
 [
-    [ "WorldObjectSpellAreaTargetCheck", "d3/d90/a11662.html#a0a6275bc4d2bbf7da27e4b0df7245ec2", null ],
-    [ "operator()", "d3/d90/a11662.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
-    [ "_position", "d3/d90/a11662.html#a680c45dd148161657da011a1772375ca", null ],
-    [ "_range", "d3/d90/a11662.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ],
-    [ "_searchReason", "d3/d90/a11662.html#aad544cdfe9423a7967dfed64aeaed995", null ]
+    [ "SpellValue", "d3/d90/a11662.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
+    [ "AuraDuration", "d3/d90/a11662.html#af44c190ba8a8636d78f8d271656bdd02", null ],
+    [ "AuraStackAmount", "d3/d90/a11662.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
+    [ "EffectBasePoints", "d3/d90/a11662.html#a4de44adea4dc620f0871215e4d4f611d", null ],
+    [ "ForcedCritResult", "d3/d90/a11662.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
+    [ "MaxAffectedTargets", "d3/d90/a11662.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
+    [ "MiscVal", "d3/d90/a11662.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
+    [ "RadiusMod", "d3/d90/a11662.html#a135bbce8300101411e87a70467dbbd57", null ]
 ];

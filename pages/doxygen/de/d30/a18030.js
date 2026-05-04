@@ -1,6 +1,6 @@
 var a18030 =
 [
-    [ "MalleableGooSelector", "de/d30/a18030.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
-    [ "operator()", "de/d30/a18030.html#adf73957539fdcc604f849944473e0015", null ],
-    [ "me", "de/d30/a18030.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
+    [ "npc_bone_spikeAI", "de/d09/a18034.html", "de/d09/a18034" ],
+    [ "npc_bone_spike", "de/d30/a18030.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "de/d30/a18030.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

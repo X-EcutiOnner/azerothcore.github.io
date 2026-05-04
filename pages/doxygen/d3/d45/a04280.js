@@ -1,21 +1,14 @@
 var a04280 =
 [
-    [ "item_only_for_flight", "d3/d2f/a27933.html", "d3/d2f/a27933" ],
-    [ "item_incendiary_explosives", "d8/d27/a27937.html", "d8/d27/a27937" ],
-    [ "item_mysterious_egg", "d3/de1/a27941.html", "d3/de1/a27941" ],
-    [ "item_disgusting_jar", "dd/d70/a27945.html", "dd/d70/a27945" ],
-    [ "item_petrov_cluster_bombs", "d9/d23/a27949.html", "d9/d23/a27949" ],
-    [ "item_captured_frog", "db/d89/a27953.html", "db/d89/a27953" ],
-    [ "item_generic_limit_chance_above_60", "d2/d96/a27957.html", "d2/d96/a27957" ],
-    [ "CapturedFrog", "d3/d45/a04280.html#a3a51d3f5cfd1964cbec23fcba5046cca", [
-      [ "QUEST_THE_PERFECT_SPIES", "d3/d45/a04280.html#a3a51d3f5cfd1964cbec23fcba5046ccaac3f8eeb86f6f3fe350b15b7a2d86bb04", null ],
-      [ "NPC_VANIRAS_SENTRY_TOTEM", "d3/d45/a04280.html#a3a51d3f5cfd1964cbec23fcba5046ccaac387e8b467655f50a7dbaa8bcd0de57f", null ]
+    [ "guard_shattrath_scryer", "df/d04/a27950.html", "df/d04/a27950" ],
+    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "d3/dad/a27954.html", "d3/dad/a27954" ],
+    [ "guard_shattrath_aldor", "df/d18/a27958.html", "df/d18/a27958" ],
+    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "d0/db1/a27962.html", "d0/db1/a27962" ],
+    [ "GuardShattrath", "d3/d45/a04280.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
+      [ "SPELL_BANISHED_SHATTRATH_A", "d3/d45/a04280.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
+      [ "SPELL_BANISHED_SHATTRATH_S", "d3/d45/a04280.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
+      [ "SPELL_BANISH_TELEPORT", "d3/d45/a04280.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
+      [ "SPELL_EXILE", "d3/d45/a04280.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
     ] ],
-    [ "OnlyForFlight", "d3/d45/a04280.html#afa5a0f3082f0a49fcc796209c7828151", [
-      [ "SPELL_ARCANE_CHARGES", "d3/d45/a04280.html#afa5a0f3082f0a49fcc796209c7828151aeefbb491736447da40481cf5a8742e2d", null ]
-    ] ],
-    [ "PetrovClusterBombs", "d3/d45/a04280.html#a5481d2bf1b9efa370833eed302f6f94c", [
-      [ "SPELL_PETROV_BOMB", "d3/d45/a04280.html#a5481d2bf1b9efa370833eed302f6f94ca52897b7254f1ac012c7e278d8dcbd8b6", null ]
-    ] ],
-    [ "AddSC_item_scripts", "d3/d45/a04280.html#a3e28ebf5a580887bb117f786689a34c6", null ]
+    [ "AddSC_guards", "d3/d45/a04280.html#acba582cbc90c710c629dd30926acdca4", null ]
 ];

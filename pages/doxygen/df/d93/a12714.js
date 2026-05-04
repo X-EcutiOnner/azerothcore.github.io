@@ -1,18 +1,13 @@
 var a12714 =
 [
-    [ "boss_vaelastrasz", "df/d93/a12714.html#a34f13f4de3f268c8fe034e8577186966", null ],
-    [ "BeginSpeech", "df/d93/a12714.html#aa6bbbbe76f890112fc1d2e4cd4159346", null ],
-    [ "Initialize", "df/d93/a12714.html#a8b3356d4fcc6c17c097890bbd98947d5", null ],
-    [ "JustEngagedWith", "df/d93/a12714.html#ac742f8acce5060e5496f43900b1e3cc0", null ],
-    [ "JustSummoned", "df/d93/a12714.html#a73f72d397a277301d1b5e2020f0f6146", null ],
-    [ "KilledUnit", "df/d93/a12714.html#abff4fd6f7f15771b8fccabf4f633c067", null ],
-    [ "Reset", "df/d93/a12714.html#ac496730fdeb5e55c125a1880626c76e4", null ],
-    [ "sGossipSelect", "df/d93/a12714.html#ae25b1d667393f9af0f3424137d78a9d0", null ],
-    [ "UpdateAI", "df/d93/a12714.html#a7a78dd37d5055212cc6d23dc3d831d6d", null ],
-    [ "_burningAdrenalineCast", "df/d93/a12714.html#acb5c8baf13a39d560447f3e16f07966c", null ],
-    [ "_eventsIntro", "df/d93/a12714.html#a7e3fb2f93d36789d1e123a73c619de23", null ],
-    [ "_introDone", "df/d93/a12714.html#a3d0d4ee1c9a47715e22f3567783dd11e", null ],
-    [ "HasYelled", "df/d93/a12714.html#aa73cdc2f26c0710d5d917c4f787a1793", null ],
-    [ "m_nefariusGuid", "df/d93/a12714.html#ae1a22491288380cb50264a51e0b624f6", null ],
-    [ "PlayerGUID", "df/d93/a12714.html#a8ba86f17a35448edd8d98f49c7d16fa6", null ]
+    [ "boss_nefarian", "df/d93/a12714.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
+    [ "JustDied", "df/d93/a12714.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
+    [ "JustEngagedWith", "df/d93/a12714.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
+    [ "KilledUnit", "df/d93/a12714.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
+    [ "MovementInform", "df/d93/a12714.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
+    [ "PathEndReached", "df/d93/a12714.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
+    [ "Reset", "df/d93/a12714.html#a5d687fce34b17e22c605c263395e823b", null ],
+    [ "UpdateAI", "df/d93/a12714.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
+    [ "_introDone", "df/d93/a12714.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
+    [ "classesPresent", "df/d93/a12714.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
 ];

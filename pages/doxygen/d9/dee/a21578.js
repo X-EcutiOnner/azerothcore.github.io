@@ -1,6 +1,8 @@
 var a21578 =
 [
-    [ "npc_torturer_lecraftAI", "da/d39/a21582.html", "da/d39/a21582" ],
-    [ "npc_torturer_lecraft", "d9/dee/a21578.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "d9/dee/a21578.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "npc_ravenous_worgAI", "d9/dee/a21578.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d9/dee/a21578.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d9/dee/a21578.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d9/dee/a21578.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d9/dee/a21578.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

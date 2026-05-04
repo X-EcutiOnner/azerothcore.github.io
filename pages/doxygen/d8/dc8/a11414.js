@@ -1,7 +1,6 @@
 var a11414 =
 [
-    [ "TimeQueryResponse", "d8/dc8/a11414.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
-    [ "Write", "d8/dc8/a11414.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
-    [ "ServerTime", "d8/dc8/a11414.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
-    [ "TimeResponse", "d8/dc8/a11414.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
+    [ "PetStopAttack", "d8/dc8/a11414.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "d8/dc8/a11414.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "d8/dc8/a11414.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

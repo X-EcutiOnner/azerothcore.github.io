@@ -1,16 +1,7 @@
 var a23366 =
 [
-    [ "boss_warchief_kargath_bladefist", "d2/dd3/a23366.html#a0957dbfd6c085575fa862f38c87b6b3d", null ],
-    [ "InitializeAI", "d2/dd3/a23366.html#a86d9b5b1500960235e76ae71337a6c90", null ],
-    [ "IsInRoom", "d2/dd3/a23366.html#af9d4bd9d94115a1040e1e4a4dbf8df83", null ],
-    [ "JustDied", "d2/dd3/a23366.html#a436b90336c90f6662f3ce704a62f0d90", null ],
-    [ "JustEngagedWith", "d2/dd3/a23366.html#ab3d7b0ebca4f8134e5c2f31422ff006b", null ],
-    [ "JustSummoned", "d2/dd3/a23366.html#aaa69f064d7eb3a0d107c835c806fa1de", null ],
-    [ "KilledUnit", "d2/dd3/a23366.html#a730bbd2f95a2919fba1a7300b4307b84", null ],
-    [ "MovementInform", "d2/dd3/a23366.html#a716eab9bda2b697252dde90aa513d7df", null ],
-    [ "Reset", "d2/dd3/a23366.html#a50fa7a5aed8d3f4916f0449c4fb075ac", null ],
-    [ "RespawnAssassins", "d2/dd3/a23366.html#a1397317259589ea69f77f52f60852043", null ],
-    [ "SummonedCreatureDies", "d2/dd3/a23366.html#a325da34f78d202708a58c1a543ecb8ca", null ],
-    [ "UpdateAI", "d2/dd3/a23366.html#acd463cac8e2fa8289ecb5567709db678", null ],
-    [ "_danceCount", "d2/dd3/a23366.html#af4a60caaef6388caff973295e3397a7d", null ]
+    [ "boss_zereketh_the_unbound", "d2/dd3/a23366.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "d2/dd3/a23366.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "d2/dd3/a23366.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "d2/dd3/a23366.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

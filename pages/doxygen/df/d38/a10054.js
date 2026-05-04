@@ -1,9 +1,25 @@
 var a10054 =
 [
-    [ "RectangleBoundary", "df/d38/a10054.html#af401f84700a15fa1d4fcf78358a74735", null ],
-    [ "IsWithinBoundaryArea", "df/d38/a10054.html#a2d6c735d080382263a401d91da37b934", null ],
-    [ "_maxX", "df/d38/a10054.html#a3eff421dfe942634814e7526334f1c07", null ],
-    [ "_maxY", "df/d38/a10054.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
-    [ "_minX", "df/d38/a10054.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
-    [ "_minY", "df/d38/a10054.html#af5a7e35d5d9ff23c722643141f01a916", null ]
+    [ "MailItemMap", "df/d38/a10054.html#afad4472f25a020fd6c8d6452840d021c", null ],
+    [ "MailDraft", "df/d38/a10054.html#a8a7a37890b6a280f2b08659e5e59b354", null ],
+    [ "MailDraft", "df/d38/a10054.html#adbadad7d9522146672759298c981f7db", null ],
+    [ "AddCOD", "df/d38/a10054.html#a8d863191bb48369359ad170aab7145e0", null ],
+    [ "AddItem", "df/d38/a10054.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a", null ],
+    [ "AddMoney", "df/d38/a10054.html#a4d0be4ea780f25c5302278b5748b6a6b", null ],
+    [ "deleteIncludedItems", "df/d38/a10054.html#a0b5a445213d5fcc598ed016f1cbf2cf8", null ],
+    [ "GetBody", "df/d38/a10054.html#ae60b40718fffcdda286161e342d1738d", null ],
+    [ "GetCOD", "df/d38/a10054.html#a2b4d799ab7ec945b60c07747981ad0a5", null ],
+    [ "GetMailTemplateId", "df/d38/a10054.html#ab5906ccf0213f8be241fbb177fef53bd", null ],
+    [ "GetMoney", "df/d38/a10054.html#a461ee77c1d85b07513d5f453c8c8507a", null ],
+    [ "GetSubject", "df/d38/a10054.html#a671268ee9b384c5c8c954bb62b3a41a0", null ],
+    [ "prepareItems", "df/d38/a10054.html#ad6481e16a4dbe15b30a942278943c1d2", null ],
+    [ "SendMailTo", "df/d38/a10054.html#aaee8965aaa66351954bdc7db246151d7", null ],
+    [ "SendReturnToSender", "df/d38/a10054.html#ab57f00b07519984be8e0f3eb03955ee2", null ],
+    [ "m_body", "df/d38/a10054.html#aea4413d56053710844b37518596e7b38", null ],
+    [ "m_COD", "df/d38/a10054.html#a73472d56d74d215494975e6ce6580008", null ],
+    [ "m_items", "df/d38/a10054.html#a58eef2cacd7834941404a366afc52a9d", null ],
+    [ "m_mailTemplateId", "df/d38/a10054.html#a8a7997191ebeaebbdd78677c99409278", null ],
+    [ "m_mailTemplateItemsNeed", "df/d38/a10054.html#aa8fced0ed98a18667c9d9a55027e99e9", null ],
+    [ "m_money", "df/d38/a10054.html#a8915b8116364db1265eba0ce0d0471c2", null ],
+    [ "m_subject", "df/d38/a10054.html#aa71d5223f51ffe20c1bf0c91f567d6f8", null ]
 ];

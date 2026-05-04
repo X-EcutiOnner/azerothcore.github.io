@@ -1,5 +1,6 @@
 var a12994 =
 [
-    [ "at_karazhan_atiesh_aran", "d5/de1/a12994.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
-    [ "OnTrigger", "d5/de1/a12994.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
+    [ "HandleApply", "d5/de1/a12994.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
+    [ "PrepareAuraScript", "d5/de1/a12994.html#ae908ad87781553cc3bed05ea510a4447", null ],
+    [ "Register", "d5/de1/a12994.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
 ];

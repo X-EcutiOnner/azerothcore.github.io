@@ -1,7 +1,5 @@
 var a25162 =
 [
-    [ "HandleScript", "d1/d4e/a25162.html#a27e2575e538732ac76add53f2f8f6832", null ],
-    [ "PrepareSpellScript", "d1/d4e/a25162.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
-    [ "Register", "d1/d4e/a25162.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
-    [ "Validate", "d1/d4e/a25162.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
+    [ "PrepareSpellScript", "d1/d4e/a25162.html#aa07fade62e79ccc8ad969de44b886332", null ],
+    [ "Register", "d1/d4e/a25162.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
 ];

@@ -1,8 +1,10 @@
 var a20678 =
 [
-    [ "FilterTargets", "d8/d1e/a20678.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "d8/d1e/a20678.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "d8/d1e/a20678.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "d8/d1e/a20678.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "d8/d1e/a20678.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "boss_yoggsaron_voice", "d8/d1e/a20678.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
+    [ "Reset", "d8/d1e/a20678.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "d8/d1e/a20678.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "d8/d1e/a20678.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "d8/d1e/a20678.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "d8/d1e/a20678.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "d8/d1e/a20678.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

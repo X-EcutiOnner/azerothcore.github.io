@@ -1,5 +1,5 @@
 var a20766 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "db/d0b/a20766.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "db/d0b/a20766.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "achievement_yogg_saron_kiss_and_make_up", "db/d0b/a20766.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
+    [ "OnCheck", "db/d0b/a20766.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
 ];

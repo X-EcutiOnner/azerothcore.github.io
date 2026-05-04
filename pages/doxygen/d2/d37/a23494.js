@@ -1,6 +1,6 @@
 var a23494 =
 [
-    [ "HandleCast", "d2/d37/a23494.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "d2/d37/a23494.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "d2/d37/a23494.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "HandlePeriodic", "d2/d37/a23494.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "d2/d37/a23494.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "d2/d37/a23494.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

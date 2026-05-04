@@ -1,7 +1,6 @@
 var a18466 =
 [
-    [ "CheckTargetCount", "d6/d89/a18466.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "d6/d89/a18466.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "d6/d89/a18466.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "d6/d89/a18466.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "HandleScript", "d6/d89/a18466.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
+    [ "PrepareSpellScript", "d6/d89/a18466.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
+    [ "Register", "d6/d89/a18466.html#a172490b953b958df354394e947b7cfd0", null ]
 ];

@@ -1,6 +1,8 @@
 var a15490 =
 [
-    [ "boss_veknilash", "d1/dbd/a15490.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "d1/dbd/a15490.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "d1/dbd/a15490.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "npc_ouro_spawner", "d1/dbd/a15490.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "d1/dbd/a15490.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "d1/dbd/a15490.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "d1/dbd/a15490.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "d1/dbd/a15490.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

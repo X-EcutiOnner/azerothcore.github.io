@@ -1,6 +1,7 @@
 var a11174 =
 [
-    [ "ListInventory", "d7/dc2/a11174.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
-    [ "Read", "d7/dc2/a11174.html#a2fd1298c1da842824fca7d971cb2028b", null ],
-    [ "VendorGuid", "d7/dc2/a11174.html#a9c6288866c870b4a82169fe7fbef4512", null ]
+    [ "SwapInventoryItem", "d7/dc2/a11174.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
+    [ "Read", "d7/dc2/a11174.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
+    [ "DestinationSlot", "d7/dc2/a11174.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
+    [ "SourceSlot", "d7/dc2/a11174.html#a59117b7ce21919acc55b3da079050dc3", null ]
 ];

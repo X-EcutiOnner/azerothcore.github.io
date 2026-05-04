@@ -1,11 +1,6 @@
 var a17482 =
 [
-    [ "npc_blood_queen_lana_thelAI", "db/d49/a17482.html#a7b099b90600e433e304dee1f356a9909", null ],
-    [ "MoveInLineOfSight", "db/d49/a17482.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
-    [ "MovementInform", "db/d49/a17482.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
-    [ "Reset", "db/d49/a17482.html#a539b0e158c800e1aade54f37aa99751e", null ],
-    [ "UpdateAI", "db/d49/a17482.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
-    [ "_events", "db/d49/a17482.html#a8ec7641bab991fc584b066fae55690bf", null ],
-    [ "_instance", "db/d49/a17482.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
-    [ "_introDone", "db/d49/a17482.html#a40c642758a751e072e41343bb75ad306", null ]
+    [ "ShockVortexExplodeEvent", "db/d49/a17482.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "db/d49/a17482.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "db/d49/a17482.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

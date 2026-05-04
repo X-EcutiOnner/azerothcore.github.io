@@ -1,8 +1,9 @@
 var a24926 =
 [
-    [ "AchievementCredit", "d7/df1/a24926.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "d7/df1/a24926.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "d7/df1/a24926.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "d7/df1/a24926.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "d7/df1/a24926.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "PrepareAuraScript", "d7/df1/a24926.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
+    [ "RefreshVisualShields", "d7/df1/a24926.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
+    [ "Register", "d7/df1/a24926.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
+    [ "RemoveDummyFromDriver", "d7/df1/a24926.html#a399641ce72b74038a4517868267bd86a", null ],
+    [ "RemoveVisualShields", "d7/df1/a24926.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
+    [ "Validate", "d7/df1/a24926.html#ae5799f72b7fbce82799fd730f1525948", null ]
 ];

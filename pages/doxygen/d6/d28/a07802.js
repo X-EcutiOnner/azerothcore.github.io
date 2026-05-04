@@ -1,17 +1,10 @@
 var a07802 =
 [
-    [ "ChatHandler", "d6/d28/a07802.html#aae585fad45749fd46fa28d36fdad9760", null ],
-    [ "ChatHandler", "d6/d28/a07802.html#a7ab2c0deb500bef6654274630815bb75", null ],
-    [ "IsHumanReadable", "d6/d28/a07802.html#acd17995bc95b6e449d5e185bfe523b84", null ],
-    [ "ParseCommands", "d6/d28/a07802.html#abd1bb7d3ca143479bd50d908dc1f4136", null ],
-    [ "Send", "d6/d28/a07802.html#a2961b609065a68245d1556d3b32af013", null ],
-    [ "SendAck", "d6/d28/a07802.html#a0e886c68796eb6a2a529186279dd778d", null ],
-    [ "SendFailed", "d6/d28/a07802.html#aa3a06fffce2472b941163d062f1b3569", null ],
-    [ "SendOK", "d6/d28/a07802.html#a8ece640cb81b50ed8e0b90c40ff71f47", null ],
-    [ "SendSysMessage", "d6/d28/a07802.html#a289a9806b8a083e063b8c83ea7016718", null ],
-    [ "SendSysMessage", "d6/d28/a07802.html#ac1ed346507097817b3f8e00f0ae657a0", null ],
-    [ "SendSysMessage", "d6/d28/a07802.html#a1f915beeda589704808dc727c3edcb63", null ],
-    [ "echo", "d6/d28/a07802.html#a9c87777b4249795b41163b2294f44746", null ],
-    [ "hadAck", "d6/d28/a07802.html#a8262279e3e11d7abc952b2ab3b67a99f", null ],
-    [ "humanReadable", "d6/d28/a07802.html#a85407d3478890e8f4c43377de7eb0993", null ]
+    [ "ChannelRights", "d6/d28/a07802.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
+    [ "ChannelRights", "d6/d28/a07802.html#ac689ce079b171bbbdbc062ad7521f21c", null ],
+    [ "flags", "d6/d28/a07802.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
+    [ "joinMessage", "d6/d28/a07802.html#af8797ef8c642f3a954b1581fb54ed545", null ],
+    [ "moderators", "d6/d28/a07802.html#ac80f92b9e633bf309970179b32e29cee", null ],
+    [ "speakDelay", "d6/d28/a07802.html#a9883582d36b8cc67ab5d649670441000", null ],
+    [ "speakMessage", "d6/d28/a07802.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
 ];

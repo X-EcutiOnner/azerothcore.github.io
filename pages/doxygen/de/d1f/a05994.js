@@ -1,10 +1,11 @@
 var a05994 =
 [
-    [ "Storage", "de/d1f/a05994.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
-    [ "AchievementCriteriaDataSet", "de/d1f/a05994.html#a5055f8710c48379035e132e8f20577dc", null ],
-    [ "Add", "de/d1f/a05994.html#a297f02665679b19961998fb529d064e4", null ],
-    [ "Meets", "de/d1f/a05994.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
-    [ "SetCriteriaId", "de/d1f/a05994.html#addedfd39d9948923a2704b51eaacecbc", null ],
-    [ "_criteria_id", "de/d1f/a05994.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
-    [ "_storage", "de/d1f/a05994.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
+    [ "DatabaseWorker", "de/d1f/a05994.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
+    [ "~DatabaseWorker", "de/d1f/a05994.html#a170c873cbc917ece6a87591450dbe5a9", null ],
+    [ "DatabaseWorker", "de/d1f/a05994.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
+    [ "operator=", "de/d1f/a05994.html#a15e753c757da609b55a66380f526091a", null ],
+    [ "WorkerThread", "de/d1f/a05994.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
+    [ "_connection", "de/d1f/a05994.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
+    [ "_queue", "de/d1f/a05994.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
+    [ "_workerThread", "de/d1f/a05994.html#ad02a90f600f1996c053f36e186edf292", null ]
 ];

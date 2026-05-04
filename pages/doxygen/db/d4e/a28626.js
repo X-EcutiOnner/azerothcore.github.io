@@ -1,6 +1,14 @@
 var a28626 =
 [
-    [ "npc_venomhide_hatchlingAI", "db/d4e/a28626.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "db/d4e/a28626.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "db/d4e/a28626.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "IsFlyable", "db/d4e/a28626.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
+    [ "IsSanctuary", "db/d4e/a28626.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
+    [ "area_level", "db/d4e/a28626.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
+    [ "area_name", "db/d4e/a28626.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
+    [ "exploreFlag", "db/d4e/a28626.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
+    [ "flags", "db/d4e/a28626.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
+    [ "ID", "db/d4e/a28626.html#ad02bb9fce21f464e38223581074a9e21", null ],
+    [ "LiquidTypeOverride", "db/d4e/a28626.html#abe743a4b542c4356aab9d41f3fae7457", null ],
+    [ "mapid", "db/d4e/a28626.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
+    [ "team", "db/d4e/a28626.html#ae18e0efef83e663452715f6be15ecaef", null ],
+    [ "zone", "db/d4e/a28626.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
 ];

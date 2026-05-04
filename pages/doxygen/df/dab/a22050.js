@@ -1,8 +1,7 @@
 var a22050 =
 [
-    [ "npc_oathbound_warder", "df/dab/a22050.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
-    [ "AttackStart", "df/dab/a22050.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
-    [ "InitializeAI", "df/dab/a22050.html#a62c4c568ad615013afa46c7da84d057a", null ],
-    [ "JustEngagedWith", "df/dab/a22050.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
-    [ "UpdateAI", "df/dab/a22050.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
+    [ "HandleScript", "df/dab/a22050.html#a1811115f1732912bdfaeeb8272db2304", null ],
+    [ "PrepareSpellScript", "df/dab/a22050.html#a50c24464dd88717bf78971d679715d7b", null ],
+    [ "Register", "df/dab/a22050.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
+    [ "Validate", "df/dab/a22050.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
 ];

@@ -1,8 +1,7 @@
 var a26586 =
 [
-    [ "CalculateAmount", "d3/d8a/a26586.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "d3/d8a/a26586.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "d3/d8a/a26586.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "d3/d8a/a26586.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "d3/d8a/a26586.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "HandleProc", "d3/d8a/a26586.html#ac65d59f4632194120b58b34561f2c812", null ],
+    [ "PrepareAuraScript", "d3/d8a/a26586.html#ac9ab849c618fb1172dbde50876a4f5f3", null ],
+    [ "Register", "d3/d8a/a26586.html#aea263594afe1d0e2fe3fac906dfb7e4e", null ],
+    [ "Validate", "d3/d8a/a26586.html#afe98e7e6dfbe3bcdaaa353e608dc69d6", null ]
 ];

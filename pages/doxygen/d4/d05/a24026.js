@@ -1,6 +1,8 @@
 var a24026 =
 [
-    [ "go_ancient_skull_pile", "d4/d05/a24026.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "d4/d05/a24026.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "d4/d05/a24026.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "npc_pet_gen_wind_rider_cub", "d4/d05/a24026.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "d4/d05/a24026.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "d4/d05/a24026.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "d4/d05/a24026.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "d4/d05/a24026.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

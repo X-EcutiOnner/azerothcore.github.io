@@ -1,6 +1,6 @@
 var a13686 =
 [
-    [ "FilterTargets", "dc/d7b/a13686.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "dc/d7b/a13686.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "dc/d7b/a13686.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "CastArmageddon", "dc/d7b/a13686.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "dc/d7b/a13686.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "dc/d7b/a13686.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

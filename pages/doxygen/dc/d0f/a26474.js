@@ -1,9 +1,7 @@
 var a26474 =
 [
-    [ "CheckProc", "dc/d0f/a26474.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
-    [ "HandleProc", "dc/d0f/a26474.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
-    [ "PrepareAuraScript", "dc/d0f/a26474.html#a9585ecde57ccfa26f59174732e3132fc", null ],
-    [ "Register", "dc/d0f/a26474.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
-    [ "Validate", "dc/d0f/a26474.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
-    [ "_triggeredSpellId", "dc/d0f/a26474.html#a560ade778e046213f60f48364ea3800c", null ]
+    [ "HandleScriptEffect", "dc/d0f/a26474.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
+    [ "Load", "dc/d0f/a26474.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
+    [ "PrepareSpellScript", "dc/d0f/a26474.html#ade09cd376d00df8b5e709026e353f409", null ],
+    [ "Register", "dc/d0f/a26474.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
 ];

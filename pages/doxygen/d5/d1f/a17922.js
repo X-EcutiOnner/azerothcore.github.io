@@ -1,6 +1,7 @@
 var a17922 =
 [
-    [ "DaranavanMoveEvent", "d5/d1f/a17922.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "d5/d1f/a17922.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "d5/d1f/a17922.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "FilterTargets", "d5/d1f/a17922.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
+    [ "HandleDummy", "d5/d1f/a17922.html#a04166e4e5a4ba082755433555855cb30", null ],
+    [ "PrepareSpellScript", "d5/d1f/a17922.html#aaefa58014db12fb76e3416ae807c69e8", null ],
+    [ "Register", "d5/d1f/a17922.html#a497ee30669d45341023abe549c91ddaf", null ]
 ];

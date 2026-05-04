@@ -1,6 +1,6 @@
 var a12434 =
 [
-    [ "boss_anubshiah", "d0/d73/a12434.html#aa8e436501ebf08465a9742dedb5901fc", null ],
-    [ "JustEngagedWith", "d0/d73/a12434.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
-    [ "UpdateAI", "d0/d73/a12434.html#a0a3cbdd6be45415723cbadb40478831a", null ]
+    [ "boss_galvangarAI", "de/daf/a12438.html", "de/daf/a12438" ],
+    [ "boss_galvangar", "d0/d73/a12434.html#a3949cfd3c987bdf52d313568de9379ba", null ],
+    [ "GetAI", "d0/d73/a12434.html#a9fd978eb38ae3e2d8d65cf4214e673e3", null ]
 ];

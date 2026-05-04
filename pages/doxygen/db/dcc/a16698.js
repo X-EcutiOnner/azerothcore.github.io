@@ -1,7 +1,7 @@
 var a16698 =
 [
-    [ "npc_toc_shadow_priestAI", "db/dcc/a16698.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "db/dcc/a16698.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "db/dcc/a16698.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "db/dcc/a16698.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "npc_toc_druidAI", "db/dcc/a16698.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "db/dcc/a16698.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "db/dcc/a16698.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "db/dcc/a16698.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

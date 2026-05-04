@@ -1,6 +1,6 @@
 var a13790 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d4/dc7/a13794.html", "d4/dc7/a13794" ],
-    [ "instance_the_stockade", "df/d5b/a13790.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "df/d5b/a13790.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "ChangeSummonPos", "df/d5b/a13790.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "df/d5b/a13790.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "df/d5b/a13790.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

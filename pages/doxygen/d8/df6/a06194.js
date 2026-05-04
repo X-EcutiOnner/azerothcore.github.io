@@ -1,4 +1,6 @@
 var a06194 =
 [
-    [ "operator()", "d8/df6/a06194.html#a7e4711e6ff92c3aca3a86fd911981786", null ]
+    [ "DirectoryEntry", "d8/df6/a06194.html#a02538aefc1b014b60957d4c67793000f", null ],
+    [ "path", "d8/df6/a06194.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
+    [ "state", "d8/df6/a06194.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
 ];

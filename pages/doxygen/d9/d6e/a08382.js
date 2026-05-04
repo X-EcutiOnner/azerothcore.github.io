@@ -1,12 +1,7 @@
 var a08382 =
 [
-    [ "QuestMenu", "d9/d6e/a08382.html#a60ba5b35499c6a9ed510300d3300421e", null ],
-    [ "~QuestMenu", "d9/d6e/a08382.html#a14df9b6699c327853121ae032704db8d", null ],
-    [ "AddMenuItem", "d9/d6e/a08382.html#ac8735756bbf9f2fa799c505bd740e070", null ],
-    [ "ClearMenu", "d9/d6e/a08382.html#ab3d3881aabe000694acab37a3774507e", null ],
-    [ "Empty", "d9/d6e/a08382.html#a1a850cb70956f299ea91cb0d732ad202", null ],
-    [ "GetItem", "d9/d6e/a08382.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
-    [ "GetMenuItemCount", "d9/d6e/a08382.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
-    [ "HasItem", "d9/d6e/a08382.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
-    [ "_questMenuItems", "d9/d6e/a08382.html#a49279a3943009f2d1475d792c2c3d21a", null ]
+    [ "CreatureSpellCooldown", "d9/d6e/a08382.html#a6d234a93951992640df5720a2885be3e", null ],
+    [ "CreatureSpellCooldown", "d9/d6e/a08382.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
+    [ "category", "d9/d6e/a08382.html#a27330a80d711087f1894b2ce816c33b8", null ],
+    [ "end", "d9/d6e/a08382.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
 ];

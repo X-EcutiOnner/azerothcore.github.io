@@ -1,6 +1,5 @@
 var a01772 =
 [
-    [ "CharacterCacheEntry", "d5/d7c/a07749.html", "d5/d7c/a07749" ],
-    [ "CharacterCache", "d8/d3f/a07753.html", "d8/d3f/a07753" ],
-    [ "sCharacterCache", "dd/d20/a01772.html#a7a32c898b33d6163d83a32f46d58517c", null ]
+    [ "MotdMap", "dd/d20/a01772.html#a5c662919d486ab6fdecf6195e172bc0d", null ],
+    [ "MotdPackets", "dd/d20/a01772.html#a58c795807a8c0ddf95b6dde3d1760c0a", null ]
 ];

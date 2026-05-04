@@ -1,7 +1,6 @@
 var a25134 =
 [
-    [ "HandleDummy", "d5/d44/a25134.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
-    [ "PrepareSpellScript", "d5/d44/a25134.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
-    [ "Register", "d5/d44/a25134.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
-    [ "Validate", "d5/d44/a25134.html#ad4bb369ef46122cd45c38d876884d350", null ]
+    [ "OnProc", "d5/d44/a25134.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
+    [ "PrepareAuraScript", "d5/d44/a25134.html#a6a7b011f151ff81672221b84eb4456b8", null ],
+    [ "Register", "d5/d44/a25134.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
 ];

@@ -1,6 +1,6 @@
 var a22098 =
 [
-    [ "HandleSummon", "d3/d5a/a22098.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "d3/d5a/a22098.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "d3/d5a/a22098.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "npc_released_offspring_harkoaAI", "d3/d5a/a22098.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "d3/d5a/a22098.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "d3/d5a/a22098.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

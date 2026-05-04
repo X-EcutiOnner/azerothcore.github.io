@@ -1,5 +1,6 @@
 var a10838 =
 [
-    [ "LogoutCancelAck", "d9/d64/a10838.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
-    [ "Write", "d9/d64/a10838.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
+    [ "GetEvent", "d9/d64/a10838.html#aabf338a9824038abbd0934a3bef0a269", null ],
+    [ "Read", "d9/d64/a10838.html#a344db9b28e7247dc0285a3468a789721", null ],
+    [ "EventId", "d9/d64/a10838.html#a31de21c2af87d174d139eef870cbb5fd", null ]
 ];

@@ -1,6 +1,8 @@
 var a28078 =
 [
-    [ "trigger_periodicAI", "da/d35/a28082.html", "da/d35/a28082" ],
-    [ "trigger_periodic", "db/d50/a28078.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "db/d50/a28078.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "npc_elder_clearwaterAI", "da/d35/a28082.html", "da/d35/a28082" ],
+    [ "npc_elder_clearwater", "db/d50/a28078.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "db/d50/a28078.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "db/d50/a28078.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "db/d50/a28078.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

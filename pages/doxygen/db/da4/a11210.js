@@ -1,11 +1,10 @@
 var a11210 =
 [
-    [ "LFGJoin", "db/da4/a11210.html#a50c79bdef7393907673a328bc36ff8ae", null ],
-    [ "Read", "db/da4/a11210.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
-    [ "Achievements", "db/da4/a11210.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
-    [ "Comment", "db/da4/a11210.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
-    [ "Needs", "db/da4/a11210.html#a313c16e84e2cd0b55551d16273e95917", null ],
-    [ "NoPartialClear", "db/da4/a11210.html#aad54be871d0978034fb69a464fd5b9df", null ],
-    [ "Roles", "db/da4/a11210.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
-    [ "Slots", "db/da4/a11210.html#aa14a07716504723283ad80c6357cf53f", null ]
+    [ "BuyItem", "db/da4/a11210.html#a3069d333bccadf53310ce86118b2c224", null ],
+    [ "Read", "db/da4/a11210.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
+    [ "Count", "db/da4/a11210.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
+    [ "Item", "db/da4/a11210.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
+    [ "Slot", "db/da4/a11210.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
+    [ "Unk", "db/da4/a11210.html#aaf2b6aefb11379325b8cf9931abff638", null ],
+    [ "VendorGuid", "db/da4/a11210.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
 ];

@@ -1,9 +1,6 @@
 var a16506 =
 [
-    [ "npc_memoryAI", "db/dce/a16506.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "db/dce/a16506.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "db/dce/a16506.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "db/dce/a16506.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "db/dce/a16506.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "db/dce/a16506.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "da/df6/a16510.html", "da/df6/a16510" ],
+    [ "instance_ruby_sanctum", "db/dce/a16506.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "db/dce/a16506.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

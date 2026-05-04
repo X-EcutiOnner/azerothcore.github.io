@@ -1,8 +1,10 @@
 var a04640 =
 [
-    [ "ModelIgnoreFlags", "d9/d32/a04640.html#a6996c44f3ac72cd9dc04515186d2da28", [
-      [ "Nothing", "d9/d32/a04640.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
-      [ "M2", "d9/d32/a04640.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
-    ] ],
-    [ "operator&", "d9/d32/a04640.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
+    [ "BoundsTrait< VMAP::GroupModel >", "da/da3/a05338.html", "da/da3/a05338" ],
+    [ "VMAP::TriBoundFunc", "dc/dbc/a05342.html", "dc/dbc/a05342" ],
+    [ "VMAP::GModelRayCallback", "d5/d30/a05346.html", "d5/d30/a05346" ],
+    [ "VMAP::WModelRayCallBack", "d7/d24/a05350.html", "d7/d24/a05350" ],
+    [ "VMAP::WModelAreaCallback", "d9/da3/a05354.html", "d9/da3/a05354" ],
+    [ "IntersectTriangle", "d9/d32/a04640.html#a4fa75e5ca5211394c63abc7ff28eb741", null ],
+    [ "IsInsideOrAboveBound", "d9/d32/a04640.html#a830eb7f04e05a094cc7cefbc43fa6f91", null ]
 ];

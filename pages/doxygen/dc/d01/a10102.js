@@ -1,10 +1,14 @@
 var a10102 =
 [
-    [ "ZoneDynamicInfo", "dc/d01/a10102.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
-    [ "DefaultWeather", "dc/d01/a10102.html#a8c2c7772596ec58413bee2077e46790f", null ],
-    [ "LightFadeInTime", "dc/d01/a10102.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
-    [ "MusicId", "dc/d01/a10102.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
-    [ "OverrideLightId", "dc/d01/a10102.html#a0d43acd5539d3449b7c36ee88518346e", null ],
-    [ "WeatherGrade", "dc/d01/a10102.html#a923c3231c49554addd1522f0ccc50e2d", null ],
-    [ "WeatherId", "dc/d01/a10102.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
+    [ "TriangleBoundary", "dc/d01/a10102.html#acd21a26ca6b830c4d4c6ed2b4a186a30", null ],
+    [ "IsWithinBoundaryArea", "dc/d01/a10102.html#aaebce21d60856976db921e22a871aae6", null ],
+    [ "_a", "dc/d01/a10102.html#a11a5e1e039d39205450e8fde526f23c9", null ],
+    [ "_abx", "dc/d01/a10102.html#a18ad05ab00e882af42a5dbc0cf10715b", null ],
+    [ "_aby", "dc/d01/a10102.html#a50c9a60be77846c736cf278eac263b44", null ],
+    [ "_b", "dc/d01/a10102.html#abcce62f1f187bc6e42f4534bfca855e8", null ],
+    [ "_bcx", "dc/d01/a10102.html#a043b7c018baed6b098f93b667f47baed", null ],
+    [ "_bcy", "dc/d01/a10102.html#afa03a5b23a6e0d3d4e134fe7b1599df0", null ],
+    [ "_c", "dc/d01/a10102.html#a8e037f96f40d81f6c426208efb0dcd1a", null ],
+    [ "_cax", "dc/d01/a10102.html#a7c8c6e8e40ec6249d672bb735d9fbdfa", null ],
+    [ "_cay", "dc/d01/a10102.html#acbb7a9e61dd4e6188837461821843b9a", null ]
 ];

@@ -1,7 +1,9 @@
 var a25794 =
 [
-    [ "HandleDummy", "dc/d63/a25794.html#ac3486a646322ef1b6098eeeedaec7d4b", null ],
-    [ "PrepareSpellScript", "dc/d63/a25794.html#a455bdb8fb98431d47b3e414dc3b59b13", null ],
-    [ "Register", "dc/d63/a25794.html#acdade97c38a75439b3da751a0c348e37", null ],
-    [ "Validate", "dc/d63/a25794.html#a2081334e6b7a4191801bc0556e26198c", null ]
+    [ "OnEffectHitTargetDisarm", "dc/d63/a25794.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "dc/d63/a25794.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "dc/d63/a25794.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "dc/d63/a25794.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "dc/d63/a25794.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "dc/d63/a25794.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

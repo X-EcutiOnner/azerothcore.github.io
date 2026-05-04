@@ -1,8 +1,7 @@
 var a11302 =
 [
-    [ "TrainerBuyFailed", "d2/da2/a11302.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
-    [ "Write", "d2/da2/a11302.html#a75c3bff5da4699fc412793caef1b75af", null ],
-    [ "SpellID", "d2/da2/a11302.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
-    [ "TrainerFailedReason", "d2/da2/a11302.html#a746ff497fba16adb16bbb647dff385df", null ],
-    [ "TrainerGUID", "d2/da2/a11302.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
+    [ "StopMirrorTimer", "d2/da2/a11302.html#aabd646c82f3dcdff2eef2158c6724dff", null ],
+    [ "StopMirrorTimer", "d2/da2/a11302.html#a25f930852c7124cdfbf73687e62a26d1", null ],
+    [ "Write", "d2/da2/a11302.html#ae99dab4406316eac99a6e0e0146d879e", null ],
+    [ "Timer", "d2/da2/a11302.html#a5e5cf56b83aca514cff34c1a17f2d3b1", null ]
 ];

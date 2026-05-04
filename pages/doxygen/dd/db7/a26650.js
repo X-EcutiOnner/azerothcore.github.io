@@ -1,7 +1,6 @@
 var a26650 =
 [
-    [ "HandleProc", "dd/db7/a26650.html#af27f9408725ff9c7ec17e8ae352234a9", null ],
-    [ "PrepareAuraScript", "dd/db7/a26650.html#a11c2e125d7a583966be3f8a64064a5ad", null ],
-    [ "Register", "dd/db7/a26650.html#a283f05b3649e3c137679ab92386f7a84", null ],
-    [ "Validate", "dd/db7/a26650.html#a4805c758dc85e065cdb9550a5856fe31", null ]
+    [ "HandleDummy", "dd/db7/a26650.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
+    [ "PrepareSpellScript", "dd/db7/a26650.html#a5efc666af2cb73c376706c20e41ace68", null ],
+    [ "Register", "dd/db7/a26650.html#a46e61697212a43532e148ccb12a7d8e5", null ]
 ];

@@ -1,11 +1,7 @@
 var a23718 =
 [
-    [ "npc_aeranasAI", "d0/d96/a23718.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "JustReachedHome", "d0/d96/a23718.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
-    [ "Reset", "d0/d96/a23718.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d0/d96/a23718.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "_defeated", "d0/d96/a23718.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
-    [ "envelopingWinds_Timer", "d0/d96/a23718.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d0/d96/a23718.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d0/d96/a23718.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_kurenai_captiveAI", "de/d67/a23722.html", "de/d67/a23722" ],
+    [ "npc_kurenai_captive", "d0/d96/a23718.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d0/d96/a23718.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d0/d96/a23718.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

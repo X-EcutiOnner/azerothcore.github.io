@@ -1,7 +1,5 @@
 var a12638 =
 [
-    [ "HandleScript", "db/d7f/a12638.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "db/d7f/a12638.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "db/d7f/a12638.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "db/d7f/a12638.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "at_dragonspire_hall", "db/d7f/a12638.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "db/d7f/a12638.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
 ];

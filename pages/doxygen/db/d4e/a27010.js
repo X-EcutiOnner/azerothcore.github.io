@@ -1,7 +1,8 @@
 var a27010 =
 [
-    [ "HandleEffectPeriodic", "db/d4e/a27010.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
-    [ "PrepareAuraScript", "db/d4e/a27010.html#ae151331af09510cc91b63b65a30bdcbf", null ],
-    [ "Register", "db/d4e/a27010.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
-    [ "Validate", "db/d4e/a27010.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
+    [ "CheckProc", "db/d4e/a27010.html#a2e564758a050827108955f73a08e72e7", null ],
+    [ "PrepareAuraScript", "db/d4e/a27010.html#a5993871d8837b43580818fa94e1bccc2", null ],
+    [ "Register", "db/d4e/a27010.html#a24faa9992523bc87df7f5ebccfb42233", null ],
+    [ "WasUsedByMutilate", "db/d4e/a27010.html#af31c8d77307f3cf3acee06e0b159925e", null ],
+    [ "_usedByMutilate", "db/d4e/a27010.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
 ];

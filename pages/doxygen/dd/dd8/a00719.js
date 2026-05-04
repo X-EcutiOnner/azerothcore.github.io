@@ -1,4 +1,4 @@
 var a00719 =
 [
-    [ "BattlegroundScript", "df/d04/a10597.html", "df/d04/a10597" ]
+    [ "ScriptRegistry< CommandScript >", "dd/dd8/a00719.html#a2d714ec85ac23255244ecf61e4f48244", null ]
 ];

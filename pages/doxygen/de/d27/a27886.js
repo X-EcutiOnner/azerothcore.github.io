@@ -1,6 +1,6 @@
 var a27886 =
 [
-    [ "go_heatAI", "de/d27/a27886.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "de/d27/a27886.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "de/d27/a27886.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "go_fel_crystalforge", "de/d27/a27886.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "de/d27/a27886.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "de/d27/a27886.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

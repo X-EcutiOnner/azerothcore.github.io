@@ -1,19 +1,9 @@
 var a12962 =
 [
-    [ "boss_malchezaar", "d0/d95/a12962.html#a68adb0f05177316f9e39a48669f60829", null ],
-    [ "clearweapons", "d0/d95/a12962.html#a354e07cb1f9ae86d96d07cb80f911474", null ],
-    [ "EnfeebleResetHealth", "d0/d95/a12962.html#a7fcaec7c991f9d6df816aef650e53855", null ],
-    [ "Initialize", "d0/d95/a12962.html#a1b48e2c117ac4c60f11310e43d34264b", null ],
-    [ "JustDied", "d0/d95/a12962.html#aee066b4a67c61ae70fc487adf0be00e0", null ],
-    [ "JustEngagedWith", "d0/d95/a12962.html#a5cfd1284c572f72ecde9d9ad94922d2b", null ],
-    [ "KilledUnit", "d0/d95/a12962.html#a0d91be1d9ad3a0876bec8b694edd44be", null ],
-    [ "MaxSpawns", "d0/d95/a12962.html#a25ef9558fcccee430ef92703af903d91", null ],
-    [ "PickTarget", "d0/d95/a12962.html#a2c825f7f116891601ef2c3809c7db15c", null ],
-    [ "Reset", "d0/d95/a12962.html#a72b54fd786c064114df3b8a09835e841", null ],
-    [ "SpawnInfernal", "d0/d95/a12962.html#a58d1823940988f6f55aec8a5da44fd54", null ],
-    [ "SpellHitTarget", "d0/d95/a12962.html#a9eb75b54ea480b38590695635a9cb4fe", null ],
-    [ "_enfeebleTargets", "d0/d95/a12962.html#adc405cdbcc17eabade5794a7801c5323", null ],
-    [ "_phase", "d0/d95/a12962.html#a94be6cf7bb8cd7857fe82638d0d0e853", null ],
-    [ "infernalTargets", "d0/d95/a12962.html#a55b8c2dd25af193e078fdb0315863783", null ],
-    [ "relays", "d0/d95/a12962.html#a7695c12779ada381cb04085dcf8dbb2c", null ]
+    [ "boss_curator", "d0/d95/a12962.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "d0/d95/a12962.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "d0/d95/a12962.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "d0/d95/a12962.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "d0/d95/a12962.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "d0/d95/a12962.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

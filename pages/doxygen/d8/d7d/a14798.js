@@ -1,11 +1,8 @@
 var a14798 =
 [
-    [ "HandleFinish", "d8/d7d/a14798.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
-    [ "HandleScript", "d8/d7d/a14798.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
-    [ "Load", "d8/d7d/a14798.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
-    [ "PrepareSpellScript", "d8/d7d/a14798.html#a9714f48de3982feb245f78efb8008f1b", null ],
-    [ "Register", "d8/d7d/a14798.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
-    [ "ThrowNextTorch", "d8/d7d/a14798.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
-    [ "Validate", "d8/d7d/a14798.html#a026fbf7123f6780459c19ff04b370b08", null ],
-    [ "handled", "d8/d7d/a14798.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
+    [ "OnApply", "d8/d7d/a14798.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
+    [ "OnRemove", "d8/d7d/a14798.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
+    [ "PrepareAuraScript", "d8/d7d/a14798.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
+    [ "Register", "d8/d7d/a14798.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
+    [ "Validate", "d8/d7d/a14798.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
 ];

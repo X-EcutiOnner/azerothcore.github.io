@@ -1,6 +1,5 @@
 var a12622 =
 [
-    [ "FilterTargets", "df/dba/a12622.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "df/dba/a12622.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "df/dba/a12622.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "at_the_beast_room", "df/dba/a12622.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
+    [ "OnTrigger", "df/dba/a12622.html#a366c5e35c4030f998404886f1526ae37", null ]
 ];

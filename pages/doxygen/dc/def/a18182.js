@@ -1,7 +1,5 @@
 var a18182 =
 [
-    [ "HandleScript", "dc/def/a18182.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "dc/def/a18182.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "dc/def/a18182.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "dc/def/a18182.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "RotfaceHeightCheck", "dc/def/a18182.html#aabdeaee465989c339fc7a3f186e20498", null ],
+    [ "operator()", "dc/def/a18182.html#a585743e0e76c64a5caa37acab46d04d5", null ]
 ];

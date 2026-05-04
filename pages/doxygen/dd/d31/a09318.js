@@ -1,7 +1,10 @@
 var a09318 =
 [
-    [ "QuestPOIPoint", "dd/d31/a09318.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
-    [ "QuestPOIPoint", "dd/d31/a09318.html#a2e80e5a83ab336a8b019f38297862efa", null ],
-    [ "x", "dd/d31/a09318.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
-    [ "y", "dd/d31/a09318.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
+    [ "PetLevelInfo", "dd/d31/a09318.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "dd/d31/a09318.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "dd/d31/a09318.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "dd/d31/a09318.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "dd/d31/a09318.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "dd/d31/a09318.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "dd/d31/a09318.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

@@ -1,6 +1,15 @@
 var a23294 =
 [
-    [ "HandleScriptEffect", "de/df5/a23294.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "de/df5/a23294.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "de/df5/a23294.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "npc_shattered_hand_scout", "de/df5/a23294.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
+    [ "DamageTaken", "de/df5/a23294.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
+    [ "FireArrows", "de/df5/a23294.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
+    [ "GetPorung", "de/df5/a23294.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
+    [ "MoveInLineOfSight", "de/df5/a23294.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
+    [ "MovementInform", "de/df5/a23294.html#a6f6198c2faf68823b1d4c8237044784b", null ],
+    [ "Reset", "de/df5/a23294.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
+    [ "SetData", "de/df5/a23294.html#a9416dd89c4728538971abc5975c7080f", null ],
+    [ "UpdateAI", "de/df5/a23294.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
+    [ "_firstZealots", "de/df5/a23294.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
+    [ "_scheduler", "de/df5/a23294.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
+    [ "_zealotGUIDs", "de/df5/a23294.html#a26381a05bb007fdb4b7da97a19a878da", null ]
 ];

@@ -1,4 +1,7 @@
 var a08646 =
 [
-    [ "Name", "dd/d5e/a08646.html#aab0b8fc04dcd6a8c551f5dfc4846b290", null ]
+    [ "EnchStoreItem", "dd/d5e/a08646.html#a89019e156774c5b978251479264e5463", null ],
+    [ "EnchStoreItem", "dd/d5e/a08646.html#aca83bb20eb6153faeaf599b07b97e357", null ],
+    [ "chance", "dd/d5e/a08646.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
+    [ "ench", "dd/d5e/a08646.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
 ];

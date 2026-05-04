@@ -1,7 +1,6 @@
 var a16090 =
 [
-    [ "HandleDummy", "d0/d0c/a16090.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "d0/d0c/a16090.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "d0/d0c/a16090.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "d0/d0c/a16090.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "npc_weegli_blastfuseAI", "dc/ded/a16094.html", "dc/ded/a16094" ],
+    [ "npc_weegli_blastfuse", "d0/d0c/a16090.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
+    [ "GetAI", "d0/d0c/a16090.html#a701681d8771756dac20d30c2e03a1349", null ]
 ];

@@ -1,10 +1,9 @@
 var a10470 =
 [
-    [ "QuestStatusData", "da/d14/a10470.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
-    [ "CreatureOrGOCount", "da/d14/a10470.html#aa5892dc0744a41ac565568307f12ad35", null ],
-    [ "Explored", "da/d14/a10470.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
-    [ "ItemCount", "da/d14/a10470.html#a466999cea52f65bf58916bc34750bf95", null ],
-    [ "PlayerCount", "da/d14/a10470.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
-    [ "Status", "da/d14/a10470.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
-    [ "Timer", "da/d14/a10470.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
+    [ "entry", "da/d14/a10470.html#a63e9b557b5e712d30580376ad811ff6c", null ],
+    [ "map", "da/d14/a10470.html#a762951c4230f0b40a59071e20852bf77", null ],
+    [ "o", "da/d14/a10470.html#a70e425f84949f6964a33250e6e9650ef", null ],
+    [ "x", "da/d14/a10470.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
+    [ "y", "da/d14/a10470.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
+    [ "z", "da/d14/a10470.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
 ];

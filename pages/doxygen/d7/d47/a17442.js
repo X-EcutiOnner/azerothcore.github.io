@@ -1,17 +1,12 @@
 var a17442 =
 [
-    [ "instance_gundrak_InstanceMapScript", "d7/d47/a17442.html#aab01abeae0f8df7c74c65c689c3c9f30", null ],
-    [ "Initialize", "d7/d47/a17442.html#a680e2b0263e64f4f0b0a71f011199202", null ],
-    [ "OnGameObjectCreate", "d7/d47/a17442.html#a03ace9a6ac87deb8c9d1f358e67697d1", null ],
-    [ "OnGameObjectRemove", "d7/d47/a17442.html#a816e18bd1725e9deaa9e50521ddd3c05", null ],
-    [ "OnUnitDeath", "d7/d47/a17442.html#a2d17fee7344a23b9bf6c47ee10f1e436", null ],
-    [ "SetBossState", "d7/d47/a17442.html#a2b703178ee848ebb7ab750d7560a7b1e", null ],
-    [ "SetData", "d7/d47/a17442.html#a39611dead845510e26b16e8eb54114a2", null ],
-    [ "Update", "d7/d47/a17442.html#a50b5e4d1ff3baf4698483f47828ee492", null ],
-    [ "_activateTimer", "d7/d47/a17442.html#a4457a3506a587d7337042eb489b441dc", null ],
-    [ "_bridgeGUIDs", "d7/d47/a17442.html#a3ed3ada72ca634b0888f182a93c9e657", null ],
-    [ "_drakkariAltarGUID", "d7/d47/a17442.html#a8e34281d52ac3199b90e1971899db6b1", null ],
-    [ "_keysInCount", "d7/d47/a17442.html#a9b014cab41720868f61028ef201cadaa", null ],
-    [ "_moorabiAltarGUID", "d7/d47/a17442.html#a39875572cef853eb3d3f624366e3f93f", null ],
-    [ "_sladRanAltarGUID", "d7/d47/a17442.html#a93b651e93e28c63272a8d06d0c521aef", null ]
+    [ "boss_moorabiAI", "d7/d47/a17442.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "EnterEvadeMode", "d7/d47/a17442.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
+    [ "JustDied", "d7/d47/a17442.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "d7/d47/a17442.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "d7/d47/a17442.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "d7/d47/a17442.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "d7/d47/a17442.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "d7/d47/a17442.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "d7/d47/a17442.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

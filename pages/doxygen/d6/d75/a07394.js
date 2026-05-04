@@ -1,6 +1,11 @@
 var a07394 =
 [
-    [ "AuctionSearchBidderListRequest", "d6/d75/a07394.html#a193c39468959c998a2ccae74342983d2", null ],
-    [ "outbiddedAuctionIds", "d6/d75/a07394.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
-    [ "ownerGuid", "d6/d75/a07394.html#a6fb69f4996993f264466c50e7485c4a6", null ]
+    [ "count", "d6/d75/a07394.html#a3fc02342ec2cdd81de7ef378edf30b54", null ],
+    [ "enchants", "d6/d75/a07394.html#af076353ee7ce0fd3665e13449c248629", null ],
+    [ "entry", "d6/d75/a07394.html#aa3332c4ea806c944c9c4e95ddb31efa9", null ],
+    [ "itemName", "d6/d75/a07394.html#a9184925bad61ad58f35c4e4b3dbccd81", null ],
+    [ "itemTemplate", "d6/d75/a07394.html#a356adde7f6574f697e02e6657f325baa", null ],
+    [ "randomPropertyId", "d6/d75/a07394.html#aa1c185178359f1cbd5afcedd38a0e69f", null ],
+    [ "spellCharges", "d6/d75/a07394.html#a73f9647b66aa316bdb97c50a20bc826f", null ],
+    [ "suffixFactor", "d6/d75/a07394.html#a650acd7b902fd4038f1ea384f595b058", null ]
 ];

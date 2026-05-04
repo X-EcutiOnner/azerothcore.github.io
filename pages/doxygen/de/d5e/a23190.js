@@ -1,11 +1,12 @@
 var a23190 =
 [
-    [ "boss_high_king_maulgar", "de/d5e/a23190.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
-    [ "DoAction", "de/d5e/a23190.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
-    [ "JustDied", "de/d5e/a23190.html#ad235febd755745313b72394c633c3723", null ],
-    [ "JustEngagedWith", "de/d5e/a23190.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
-    [ "KilledUnit", "de/d5e/a23190.html#a2059016597039929103c053d6524ebf7", null ],
-    [ "Reset", "de/d5e/a23190.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
-    [ "UpdateAI", "de/d5e/a23190.html#ae540909dbbb3cf93e37503cd755c3001", null ],
-    [ "_recentlySpoken", "de/d5e/a23190.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
+    [ "boss_omor_the_unscarred", "de/d5e/a23190.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "de/d5e/a23190.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "de/d5e/a23190.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "de/d5e/a23190.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "de/d5e/a23190.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "de/d5e/a23190.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "de/d5e/a23190.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "de/d5e/a23190.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "de/d5e/a23190.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

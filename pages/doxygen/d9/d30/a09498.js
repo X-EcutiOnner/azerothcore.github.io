@@ -1,14 +1,12 @@
 var a09498 =
 [
-    [ "WorldObjectLastSearcher", "d9/d30/a09498.html#af8baf5ff23a3167a963ade43faec09fc", null ],
-    [ "Visit", "d9/d30/a09498.html#ac011f150695eb1f3a83536175fd2a016", null ],
-    [ "Visit", "d9/d30/a09498.html#af5c5a533084c436e0d7de828e1ef82ad", null ],
-    [ "Visit", "d9/d30/a09498.html#a962a050f568dab037a9a48879eae0f86", null ],
-    [ "Visit", "d9/d30/a09498.html#a98967233e04c6223361897c02bc0edc5", null ],
-    [ "Visit", "d9/d30/a09498.html#a94d30e81eb509ff4fd3dac7c207c819b", null ],
-    [ "Visit", "d9/d30/a09498.html#a39a9d66014df641c0cb08f619f9d8434", null ],
-    [ "i_check", "d9/d30/a09498.html#a66afc21dd0fd740c2723516b8c33a319", null ],
-    [ "i_mapTypeMask", "d9/d30/a09498.html#a5689c8aa9120bc545c98ec0916d78d56", null ],
-    [ "i_object", "d9/d30/a09498.html#a765d65a90639b34a8cf9f42fdd6ae653", null ],
-    [ "i_phaseMask", "d9/d30/a09498.html#a966213d495a613f33aebaa8ebda7c380", null ]
+    [ "VisibleNotifier", "d9/d30/a09498.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "d9/d30/a09498.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "d9/d30/a09498.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "d9/d30/a09498.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "d9/d30/a09498.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "d9/d30/a09498.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "d9/d30/a09498.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "d9/d30/a09498.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "d9/d30/a09498.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

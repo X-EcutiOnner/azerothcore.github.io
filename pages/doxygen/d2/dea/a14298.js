@@ -1,7 +1,6 @@
 var a14298 =
 [
-    [ "OnRemove", "d2/dea/a14298.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "d2/dea/a14298.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "d2/dea/a14298.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "d2/dea/a14298.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "boss_hakkarAI", "d2/d82/a14302.html", "d2/d82/a14302" ],
+    [ "boss_hakkar", "d2/dea/a14298.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "d2/dea/a14298.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

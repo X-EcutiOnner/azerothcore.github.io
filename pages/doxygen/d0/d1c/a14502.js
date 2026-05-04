@@ -1,7 +1,11 @@
 var a14502 =
 [
-    [ "GetEmptyEntry", "d0/d1c/a14502.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "d0/d1c/a14502.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "d0/d1c/a14502.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "d0/d1c/a14502.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "npc_dark_iron_attack_mole_machine", "d0/d1c/a14502.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "d0/d1c/a14502.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "d0/d1c/a14502.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "d0/d1c/a14502.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "d0/d1c/a14502.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "d0/d1c/a14502.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "d0/d1c/a14502.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "d0/d1c/a14502.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

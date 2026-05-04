@@ -1,10 +1,18 @@
 var a08866 =
 [
-    [ "EquipmentSet", "d1/de9/a08866.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "d1/de9/a08866.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "d1/de9/a08866.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "d1/de9/a08866.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "d1/de9/a08866.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "d1/de9/a08866.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "d1/de9/a08866.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "PlayerInfo", "d1/de9/a08866.html#a8a26bdeb267824135b3f84baa2585baa", null ],
+    [ "action", "d1/de9/a08866.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
+    [ "areaId", "d1/de9/a08866.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
+    [ "castSpells", "d1/de9/a08866.html#a35ab273058db0828c91f01d823467e02", null ],
+    [ "customSpells", "d1/de9/a08866.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
+    [ "displayId_f", "d1/de9/a08866.html#adf14854368c9351fe2fba3215194f2f9", null ],
+    [ "displayId_m", "d1/de9/a08866.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
+    [ "item", "d1/de9/a08866.html#ad76819034c64c0c691561eff683b7e57", null ],
+    [ "levelInfo", "d1/de9/a08866.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
+    [ "mapId", "d1/de9/a08866.html#ad8d359374f74de40c1c591bb61976405", null ],
+    [ "orientation", "d1/de9/a08866.html#a041a37c356d50860cab9f1ced33a28d0", null ],
+    [ "positionX", "d1/de9/a08866.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
+    [ "positionY", "d1/de9/a08866.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
+    [ "positionZ", "d1/de9/a08866.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
+    [ "skills", "d1/de9/a08866.html#a3bec7891e115ab3cff40c3d95174981c", null ]
 ];

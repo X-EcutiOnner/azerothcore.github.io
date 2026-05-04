@@ -1,10 +1,5 @@
 var a16250 =
 [
-    [ "boss_sartharion_tenebron", "dc/dbe/a16250.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
-    [ "ClearInstance", "dc/dbe/a16250.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
-    [ "ExecuteEvent", "dc/dbe/a16250.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
-    [ "JustDied", "dc/dbe/a16250.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
-    [ "JustSummoned", "dc/dbe/a16250.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
-    [ "Reset", "dc/dbe/a16250.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
-    [ "summons2", "dc/dbe/a16250.html#a59b131fcd2298640390fcd0f662f132d", null ]
+    [ "achievement_watch_him_die", "dc/dbe/a16250.html#a0d885871eac61d859780e08c8518bb15", null ],
+    [ "OnCheck", "dc/dbe/a16250.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
 ];

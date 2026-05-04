@@ -1,6 +1,5 @@
 var a09414 =
 [
-    [ "AreaMapType", "d8/d10/a09414.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
-    [ "areaMap", "d8/d10/a09414.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
-    [ "gridArea", "d8/d10/a09414.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
+    [ "Visit", "d8/d10/a09414.html#aa0f56809b23b117bde869576ddaa9dbd", null ],
+    [ "Visit", "d8/d10/a09414.html#afab06305b5b3568b93d07f80efd616ae", null ]
 ];

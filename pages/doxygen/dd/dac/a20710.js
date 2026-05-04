@@ -1,7 +1,8 @@
 var a20710 =
 [
-    [ "HandleProc", "dd/dac/a20710.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "dd/dac/a20710.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "dd/dac/a20710.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "dd/dac/a20710.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "Absorb", "dd/dac/a20710.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "dd/dac/a20710.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "dd/dac/a20710.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "dd/dac/a20710.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "dd/dac/a20710.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

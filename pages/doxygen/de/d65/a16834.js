@@ -1,6 +1,6 @@
 var a16834 =
 [
-    [ "boss_gormokAI", "dc/dc7/a16838.html", "dc/dc7/a16838" ],
-    [ "boss_gormok", "de/d65/a16834.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "de/d65/a16834.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "npc_fel_infernalAI", "dc/dc7/a16838.html", "dc/dc7/a16838" ],
+    [ "npc_fel_infernal", "de/d65/a16834.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "de/d65/a16834.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

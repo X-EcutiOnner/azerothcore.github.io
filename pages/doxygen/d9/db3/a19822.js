@@ -1,8 +1,6 @@
 var a19822 =
 [
-    [ "HandlePeriodic", "d9/db3/a19822.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "d9/db3/a19822.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "d9/db3/a19822.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "d9/db3/a19822.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "d9/db3/a19822.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "dd/d12/a19826.html", "dd/d12/a19826" ],
+    [ "instance_halls_of_stone", "d9/db3/a19822.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d9/db3/a19822.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

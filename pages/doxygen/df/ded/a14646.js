@@ -1,6 +1,6 @@
 var a14646 =
 [
-    [ "HandleScript", "df/ded/a14646.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
-    [ "PrepareSpellScript", "df/ded/a14646.html#aab4303fff660c68db100e07a4423c39b", null ],
-    [ "Register", "df/ded/a14646.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d8/de4/a14650.html", "d8/de4/a14650" ],
+    [ "npc_grizzlemaw_cw_trigger", "df/ded/a14646.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
+    [ "GetAI", "df/ded/a14646.html#a1a834bda866033a3cca4fc4ece447313", null ]
 ];

@@ -1,6 +1,10 @@
 var a15074 =
 [
-    [ "npc_cos_chromie_start", "d4/d55/a15074.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "d4/d55/a15074.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
-    [ "OnQuestAccept", "d4/d55/a15074.html#a038e046773718f5cd55d2b4eb98b3d24", null ]
+    [ "boss_meathookAI", "d4/d55/a15074.html#abb35c98da760db634545b81d740cd51a", null ],
+    [ "JustDied", "d4/d55/a15074.html#a44ebee45de335ff6f653e9d60a364458", null ],
+    [ "JustEngagedWith", "d4/d55/a15074.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
+    [ "KilledUnit", "d4/d55/a15074.html#a54deac512294bb0901d072faef3166b1", null ],
+    [ "Reset", "d4/d55/a15074.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
+    [ "UpdateAI", "d4/d55/a15074.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
+    [ "events", "d4/d55/a15074.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
 ];

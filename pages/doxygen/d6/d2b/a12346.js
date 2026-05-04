@@ -1,9 +1,6 @@
 var a12346 =
 [
-    [ "titles_commandscript", "d6/d2b/a12346.html#ac088fd907013150a0508b79c99f6c2f3", null ],
-    [ "GetCommands", "d6/d2b/a12346.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
-    [ "HandleTitlesAddCommand", "d6/d2b/a12346.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
-    [ "HandleTitlesCurrentCommand", "d6/d2b/a12346.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
-    [ "HandleTitlesRemoveCommand", "d6/d2b/a12346.html#a2001bcc2eddc5688d57154f9906218e4", null ],
-    [ "HandleTitlesSetMaskCommand", "d6/d2b/a12346.html#a9517b10295b856779cdd067234f640c8", null ]
+    [ "CapturedGroups", "d6/d2b/a12346.html#a6842947e5fbe26c2c4aadc1209395902", null ],
+    [ "CurrentTemplate", "d6/d2b/a12346.html#a6915499b95c29a00cde15c5a7f562158", null ],
+    [ "ZoneName", "d6/d2b/a12346.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
 ];

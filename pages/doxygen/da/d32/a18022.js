@@ -1,6 +1,6 @@
 var a18022 =
 [
-    [ "AbominationDespawner", "da/d32/a18022.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "da/d32/a18022.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "da/d32/a18022.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "npc_coldflameAI", "da/dd5/a18026.html", "da/dd5/a18026" ],
+    [ "npc_coldflame", "da/d32/a18022.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "da/d32/a18022.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

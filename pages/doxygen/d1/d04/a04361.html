@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/apps/authserver/Authentication/AuthCodes.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/shared/DataStores/DBCStructure.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,325 +105,928 @@ $(document).ready(function(){initNavTree('d1/d04/a04361.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">AuthCodes.h File Reference</div></div>
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">DBCStructure.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DBCEnums.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
+<code>#include &lt;array&gt;</code><br />
+<code>#include &lt;map&gt;</code><br />
+<code>#include &lt;set&gt;</code><br />
+<code>#include &lt;unordered_map&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:de/dda/a05042"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dda/a05042.html">AuthHelper</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d77/a28358.html">AchievementEntry</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dae/a28362.html">AchievementCategoryEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df9/a28366.html">AchievementCriteriaEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4e/a28626.html">AreaTableEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a28630.html">AreaGroupEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df8/a28634.html">AreaPOIEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d45/a28638.html">AuctionHouseEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d92/a28642.html">BankBagSlotPricesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d45/a28646.html">BarberShopStyleEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d96/a28650.html">BattlemasterListEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/de8/a28654.html">CharStartOutfitEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/ddc/a28658.html">CharTitlesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d4d/a28662.html">ChatChannelsEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d83/a28666.html">ChrClassesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6e/a28670.html">ChrRacesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d94/a28674.html">CinematicCameraEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db0/a28678.html">CinematicSequencesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d94/a28682.html">CreatureDisplayInfoEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de4/a28686.html">CreatureDisplayInfoExtraEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d42/a28690.html">CreatureFamilyEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d4b/a28694.html">CreatureModelDataEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d7e/a28698.html">CreatureSpellDataEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df3/a28702.html">CreatureTypeEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d6d/a28706.html">CurrencyTypesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da0/a28710.html">DestructibleModelDataEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d51/a28714.html">DungeonEncounterEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a28718.html">DurabilityCostsEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db0/a28722.html">DurabilityQualityEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d77/a28726.html">EmotesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/da2/a28730.html">EmotesTextEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d64/a28734.html">FactionEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de8/a28738.html">FactionTemplateEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d27/a28742.html">GameObjectArtKitEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcc/a28746.html">GameObjectDisplayInfoEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d0d/a28750.html">GemPropertiesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db7/a28754.html">GlyphPropertiesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d34/a28758.html">GlyphSlotEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d36/a28762.html">GtBarberShopCostBaseEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d0e/a28766.html">GtCombatRatingsEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc0/a28770.html">GtChanceToMeleeCritBaseEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d59/a28774.html">GtChanceToMeleeCritEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d20/a28778.html">GtChanceToSpellCritBaseEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df0/a28782.html">GtNPCManaCostScalerEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d02/a28786.html">GtChanceToSpellCritEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d7d/a28790.html">GtOCTClassCombatRatingScalarEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d60/a28794.html">GtOCTRegenHPEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dd8/a28798.html">GtRegenHPPerSptEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6b/a28802.html">GtRegenMPPerSptEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d93/a28806.html">HolidaysEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dd8/a28810.html">ItemEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da0/a28814.html">ItemBagFamilyEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d3a/a28818.html">ItemDisplayInfoEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2c/a28822.html">ItemExtendedCostEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df7/a28826.html">ItemLimitCategoryEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dde/a28830.html">ItemRandomPropertiesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d32/a28834.html">ItemRandomSuffixEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d87/a28838.html">ItemSetEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db5/a28842.html">LFGDungeonEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/de2/a28846.html">LightEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dcf/a28850.html">LiquidTypeEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db3/a28854.html">LockEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d1e/a28858.html">MailTemplateEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfc/a28862.html">MapEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9b/a28866.html">MapDifficultyEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d96/a28870.html">MovieEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc3/a28874.html">NamesReservedEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d07/a28878.html">NamesProfanityEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/df6/a28882.html">OverrideSpellDataEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/de5/a28886.html">PowerDisplayEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df5/a28890.html">PvPDifficultyEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d6d/a28894.html">QuestSortEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcf/a28898.html">QuestXPEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d97/a28902.html">QuestFactionRewEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d99/a28906.html">RandomPropertiesPointsEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de3/a28910.html">ScalingStatDistributionEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/de1/a28914.html">ScalingStatValuesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d2b/a28918.html">SkillRaceClassInfoEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d83/a28922.html">SkillLineEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d77/a28926.html">SkillLineAbilityEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d85/a28930.html">SkillTiersEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/deb/a28934.html">SoundEntriesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d84/a28938.html">SpellEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d09/a28942.html">SpellCastTimesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d15/a28946.html">SpellCategoryEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d04/a28950.html">SpellDifficultyEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd2/a28954.html">SpellFocusObjectEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dda/a28958.html">SpellRadiusEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc8/a28962.html">SpellRangeEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d11/a28966.html">SpellRuneCostEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d4f/a28970.html">SpellShapeshiftFormEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd1/a28974.html">SpellDurationEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d50/a28978.html">SpellItemEnchantmentEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dc5/a28982.html">SpellItemEnchantmentConditionEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d21/a28986.html">SpellVisualEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d4c/a28990.html">StableSlotPricesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d85/a28994.html">SummonPropertiesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d48/a28998.html">TalentEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4e/a29002.html">TalentTabEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d87/a29006.html">TaxiNodesEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a29010.html">TaxiPathEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d31/a29014.html">TaxiPathNodeEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0f/a29018.html">TeamContributionPointsEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d34/a29022.html">TotemCategoryEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d85/a29026.html">TransportAnimationEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da1/a29030.html">TransportRotationEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc7/a29034.html">VehicleEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d66/a29038.html">VehicleSeatEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d2d/a29042.html">WMOAreaTableEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d22/a29046.html">WorldMapAreaEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da0/a29050.html">WorldMapOverlayEntry</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d63/a29054.html">MapDifficulty</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d82/a29058.html">TalentSpellPos</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:ab8e8a384bd12e49b286a3ee30ff11ff7"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#ab8e8a384bd12e49b286a3ee30ff11ff7">MAX_GROUP_AREA_IDS</a>&#160;&#160;&#160;6</td></tr>
+<tr class="separator:ab8e8a384bd12e49b286a3ee30ff11ff7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade532186d3fab018819b9718af66b6f8"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#ade532186d3fab018819b9718af66b6f8">MAX_OUTFIT_ITEMS</a>&#160;&#160;&#160;24</td></tr>
+<tr class="separator:ade532186d3fab018819b9718af66b6f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a84f97addb2541cd13960d71b99ac4f9c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a84f97addb2541cd13960d71b99ac4f9c">MAX_CREATURE_SPELL_DATA_SLOT</a>&#160;&#160;&#160;4</td></tr>
+<tr class="separator:a84f97addb2541cd13960d71b99ac4f9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba26b8226744809f550efa818f10b186"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#aba26b8226744809f550efa818f10b186">MAX_FACTION_RELATIONS</a>&#160;&#160;&#160;4</td></tr>
+<tr class="separator:aba26b8226744809f550efa818f10b186"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f11f6829a2ed728bfc49ad3b2f932ca"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a7f11f6829a2ed728bfc49ad3b2f932ca">GT_MAX_LEVEL</a>&#160;&#160;&#160;100</td></tr>
+<tr class="separator:a7f11f6829a2ed728bfc49ad3b2f932ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99aa40e9a3a154a942515839010d79ff"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a99aa40e9a3a154a942515839010d79ff">GT_MAX_RATING</a>&#160;&#160;&#160;32</td></tr>
+<tr class="separator:a99aa40e9a3a154a942515839010d79ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4bf557cbdd070d5483ea758ef1ef0f2"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#ae4bf557cbdd070d5483ea758ef1ef0f2">MAX_HOLIDAY_DURATIONS</a>&#160;&#160;&#160;10</td></tr>
+<tr class="separator:ae4bf557cbdd070d5483ea758ef1ef0f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9554dfb95ff901f440f4166cf1d04ab"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#ae9554dfb95ff901f440f4166cf1d04ab">MAX_HOLIDAY_DATES</a>&#160;&#160;&#160;26</td></tr>
+<tr class="separator:ae9554dfb95ff901f440f4166cf1d04ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac24517e5894a4a3cd7203781ea7e6304"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#ac24517e5894a4a3cd7203781ea7e6304">MAX_HOLIDAY_FLAGS</a>&#160;&#160;&#160;10</td></tr>
+<tr class="separator:ac24517e5894a4a3cd7203781ea7e6304"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a40412d1e32e215a5270cf717434ae108"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a40412d1e32e215a5270cf717434ae108">MAX_ITEM_EXTENDED_COST_REQUIREMENTS</a>&#160;&#160;&#160;5</td></tr>
+<tr class="separator:a40412d1e32e215a5270cf717434ae108"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af0d8d6c7748de71fbd87ae5d02985404"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#af0d8d6c7748de71fbd87ae5d02985404">MAX_ITEM_ENCHANTMENT_EFFECTS</a>&#160;&#160;&#160;5</td></tr>
+<tr class="separator:af0d8d6c7748de71fbd87ae5d02985404"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7efd6aeed170ce6a86c16bd1fa48518d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a7efd6aeed170ce6a86c16bd1fa48518d">MAX_ITEM_SET_ITEMS</a>&#160;&#160;&#160;10</td></tr>
+<tr class="separator:a7efd6aeed170ce6a86c16bd1fa48518d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d93d74d9cdf834a33735836824866e2"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a1d93d74d9cdf834a33735836824866e2">MAX_ITEM_SET_SPELLS</a>&#160;&#160;&#160;8</td></tr>
+<tr class="separator:a1d93d74d9cdf834a33735836824866e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1ebc07de85011e32e1cb7a2f1637f092"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a1ebc07de85011e32e1cb7a2f1637f092">MAX_LOCK_CASE</a>&#160;&#160;&#160;8</td></tr>
+<tr class="separator:a1ebc07de85011e32e1cb7a2f1637f092"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af5ab857719ce6437c52aee4b87c639f3"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#af5ab857719ce6437c52aee4b87c639f3">MAX_OVERRIDE_SPELL</a>&#160;&#160;&#160;10</td></tr>
+<tr class="separator:af5ab857719ce6437c52aee4b87c639f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae298a04d2c0b52f390ffb06d804ca9e9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#ae298a04d2c0b52f390ffb06d804ca9e9">MAX_SKILL_STEP</a>&#160;&#160;&#160;16</td></tr>
+<tr class="separator:ae298a04d2c0b52f390ffb06d804ca9e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac5733f5b58bf8a23a1919a005b5ec895"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#ac5733f5b58bf8a23a1919a005b5ec895">MAX_SPELL_EFFECTS</a>&#160;&#160;&#160;3</td></tr>
+<tr class="separator:ac5733f5b58bf8a23a1919a005b5ec895"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ac65d8635b4379f0d5b75a0e2dfd9c8"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a3ac65d8635b4379f0d5b75a0e2dfd9c8">MAX_EFFECT_MASK</a>&#160;&#160;&#160;7</td></tr>
+<tr class="separator:a3ac65d8635b4379f0d5b75a0e2dfd9c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7dfd9b5e0adb5c5e3ebf3173f80fbcce"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a7dfd9b5e0adb5c5e3ebf3173f80fbcce">MAX_SPELL_REAGENTS</a>&#160;&#160;&#160;8</td></tr>
+<tr class="separator:a7dfd9b5e0adb5c5e3ebf3173f80fbcce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c0b93bba896da1bb3ecaac8d847ee2d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a8c0b93bba896da1bb3ecaac8d847ee2d">MAX_SHAPESHIFT_SPELLS</a>&#160;&#160;&#160;8</td></tr>
+<tr class="separator:a8c0b93bba896da1bb3ecaac8d847ee2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab66cd5828c451f68f55f1b054c29a8fc"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#ab66cd5828c451f68f55f1b054c29a8fc">MAX_SPELL_ITEM_ENCHANTMENT_EFFECTS</a>&#160;&#160;&#160;3</td></tr>
+<tr class="separator:ab66cd5828c451f68f55f1b054c29a8fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d6d5cac52d7a437e341e9f6ebc21a21"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a8d6d5cac52d7a437e341e9f6ebc21a21">MAX_TALENT_RANK</a>&#160;&#160;&#160;5</td></tr>
+<tr class="separator:a8d6d5cac52d7a437e341e9f6ebc21a21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98ed02c281ef8b03f0092b73e6b99e33"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a98ed02c281ef8b03f0092b73e6b99e33">MAX_PET_TALENT_RANK</a>&#160;&#160;&#160;3</td></tr>
+<tr class="separator:a98ed02c281ef8b03f0092b73e6b99e33"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22f3ed43957e7cda0874bdf343b03d4b"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a22f3ed43957e7cda0874bdf343b03d4b">MAX_TALENT_TABS</a>&#160;&#160;&#160;3</td></tr>
+<tr class="separator:a22f3ed43957e7cda0874bdf343b03d4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5925e58fbd29a3a77ff05ab092fa1f77"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a5925e58fbd29a3a77ff05ab092fa1f77">MAX_VEHICLE_SEATS</a>&#160;&#160;&#160;8</td></tr>
+<tr class="separator:a5925e58fbd29a3a77ff05ab092fa1f77"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7b34f321cc6fb7b11aac46ef9b08897"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#aa7b34f321cc6fb7b11aac46ef9b08897">MAX_WORLD_MAP_OVERLAY_AREA_IDX</a>&#160;&#160;&#160;4</td></tr>
+<tr class="separator:aa7b34f321cc6fb7b11aac46ef9b08897"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:abec1611f7460fe442eeb44ec9c6e0338"><td class="memItemLeft" align="right" valign="top">typedef std::set&lt; std::pair&lt; bool, <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#abec1611f7460fe442eeb44ec9c6e0338">SpellCategorySet</a></td></tr>
+<tr class="separator:abec1611f7460fe442eeb44ec9c6e0338"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec458115a1262f91caf58114ea781708"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d1/d04/a04361.html#abec1611f7460fe442eeb44ec9c6e0338">SpellCategorySet</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#aec458115a1262f91caf58114ea781708">SpellCategoryStore</a></td></tr>
+<tr class="separator:aec458115a1262f91caf58114ea781708"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad93484e8f4ff5cbe27a41c4822b0c232"><td class="memItemLeft" align="right" valign="top">typedef std::set&lt; <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#ad93484e8f4ff5cbe27a41c4822b0c232">PetFamilySpellsSet</a></td></tr>
+<tr class="separator:ad93484e8f4ff5cbe27a41c4822b0c232"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e08729fa68ec0715f2af029e8a0d1d8"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d1/d04/a04361.html#ad93484e8f4ff5cbe27a41c4822b0c232">PetFamilySpellsSet</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a0e08729fa68ec0715f2af029e8a0d1d8">PetFamilySpellsStore</a></td></tr>
+<tr class="separator:a0e08729fa68ec0715f2af029e8a0d1d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec54003aaeeffeda4e99f6e9c019a29f"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../db/d82/a29058.html">TalentSpellPos</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#aec54003aaeeffeda4e99f6e9c019a29f">TalentSpellPosMap</a></td></tr>
+<tr class="separator:aec54003aaeeffeda4e99f6e9c019a29f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96a7676e14471f288073e4d2ce5fb580"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../db/db4/a29010.html">TaxiPathEntry</a> const  * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a96a7676e14471f288073e4d2ce5fb580">TaxiPathSetForSource</a></td></tr>
+<tr class="separator:a96a7676e14471f288073e4d2ce5fb580"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d9b837c2c4d75978949b5718741443a"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d1/d04/a04361.html#a96a7676e14471f288073e4d2ce5fb580">TaxiPathSetForSource</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a8d9b837c2c4d75978949b5718741443a">TaxiPathSetBySource</a></td></tr>
+<tr class="separator:a8d9b837c2c4d75978949b5718741443a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a696428ce320a7e4dd796c85fbf98b7f2"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../df/d31/a29014.html">TaxiPathNodeEntry</a> const  * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a696428ce320a7e4dd796c85fbf98b7f2">TaxiPathNodeList</a></td></tr>
+<tr class="separator:a696428ce320a7e4dd796c85fbf98b7f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a9bd32b40fdd19846034d6430c681cb"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../d1/d04/a04361.html#a696428ce320a7e4dd796c85fbf98b7f2">TaxiPathNodeList</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a0a9bd32b40fdd19846034d6430c681cb">TaxiPathNodesByPath</a></td></tr>
+<tr class="separator:a0a9bd32b40fdd19846034d6430c681cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a415cc3633225b2cfe241a12bce9aeb9b"><td class="memItemLeft" align="right" valign="top">typedef std::array&lt; <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d1/d04/a04361.html#af55b7730b9b6bf94de4604ce96e812c0">TaxiMaskSize</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a415cc3633225b2cfe241a12bce9aeb9b">TaxiMask</a></td></tr>
+<tr class="separator:a415cc3633225b2cfe241a12bce9aeb9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a87ba9bd5edfd749f4729620dbadd5fce"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fce">AuthResult</a> { <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688">WOW_SUCCESS</a> = 0x00
+<tr class="memitem:a86846f30ebbb1a9ce21222e1a3e26494"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a86846f30ebbb1a9ce21222e1a3e26494">ChrRacesFlags</a> { <br />
+&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a> = 0x01
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630">WOW_FAIL_BANNED</a> = 0x03
+&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d">CHRRACES_FLAGS_BARE_FEET</a> = 0x02
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114">WOW_FAIL_UNKNOWN_ACCOUNT</a> = 0x04
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3">WOW_FAIL_INCORRECT_PASSWORD</a> = 0x05
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c">WOW_FAIL_ALREADY_ONLINE</a> = 0x06
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34">WOW_FAIL_NO_TIME</a> = 0x07
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96">WOW_FAIL_DB_BUSY</a> = 0x08
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d">WOW_FAIL_VERSION_INVALID</a> = 0x09
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae">WOW_FAIL_VERSION_UPDATE</a> = 0x0A
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d">WOW_FAIL_INVALID_SERVER</a> = 0x0B
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04">WOW_FAIL_SUSPENDED</a> = 0x0C
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8">WOW_FAIL_FAIL_NOACCESS</a> = 0x0D
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a">WOW_SUCCESS_SURVEY</a> = 0x0E
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d">WOW_FAIL_PARENTCONTROL</a> = 0x0F
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3">WOW_FAIL_LOCKED_ENFORCED</a> = 0x10
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6">WOW_FAIL_TRIAL_ENDED</a> = 0x11
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c">WOW_FAIL_USE_BATTLENET</a> = 0x12
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3">WOW_FAIL_ANTI_INDULGENCE</a> = 0x13
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9">WOW_FAIL_EXPIRED</a> = 0x14
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf">WOW_FAIL_NO_GAME_ACCOUNT</a> = 0x15
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05">WOW_FAIL_CHARGEBACK</a> = 0x16
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9">WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET</a> = 0x17
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55">WOW_FAIL_GAME_ACCOUNT_LOCKED</a> = 0x18
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e">WOW_FAIL_UNLOCKABLE_LOCK</a> = 0x19
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739">WOW_FAIL_CONVERSION_REQUIRED</a> = 0x20
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65">WOW_FAIL_DISCONNECTED</a> = 0xFF
+&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b">CHRRACES_FLAGS_CAN_MOUNT</a> = 0x04
 <br />
  }</td></tr>
-<tr class="separator:a87ba9bd5edfd749f4729620dbadd5fce"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3b6904b8a00ed8f7a67396dee6e9aef5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5">LoginResult</a> { <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb">LOGIN_OK</a> = 0x00
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0">LOGIN_FAILED</a> = 0x01
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56">LOGIN_FAILED2</a> = 0x02
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005">LOGIN_BANNED</a> = 0x03
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3">LOGIN_UNKNOWN_ACCOUNT</a> = 0x04
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc">LOGIN_UNKNOWN_ACCOUNT3</a> = 0x05
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5">LOGIN_ALREADYONLINE</a> = 0x06
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342">LOGIN_NOTIME</a> = 0x07
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8">LOGIN_DBBUSY</a> = 0x08
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c">LOGIN_BADVERSION</a> = 0x09
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309">LOGIN_DOWNLOAD_FILE</a> = 0x0A
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3">LOGIN_FAILED3</a> = 0x0B
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b">LOGIN_SUSPENDED</a> = 0x0C
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e">LOGIN_FAILED4</a> = 0x0D
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae">LOGIN_CONNECTED</a> = 0x0E
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860">LOGIN_PARENTALCONTROL</a> = 0x0F
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02">LOGIN_LOCKED_ENFORCED</a> = 0x10
-<br />
+<tr class="separator:a86846f30ebbb1a9ce21222e1a3e26494"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94648e677bb402393465ccb4b0f96f20"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#a94648e677bb402393465ccb4b0f96f20">CreatureModelDataFlags</a> { <a class="el" href="../../d1/d04/a04361.html#a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900">CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</a> = 0x00000080
  }</td></tr>
-<tr class="separator:a3b6904b8a00ed8f7a67396dee6e9aef5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa4677c9d14c49d7eb90bf81f278756e2"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#aa4677c9d14c49d7eb90bf81f278756e2">ExpansionFlags</a> { <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb">POST_BC_EXP_FLAG</a> = 0x2
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64">PRE_BC_EXP_FLAG</a> = 0x1
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d04/a04361.html#aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d">NO_VALID_EXP_FLAG</a> = 0x0
-<br />
- }</td></tr>
-<tr class="separator:aa4677c9d14c49d7eb90bf81f278756e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a94648e677bb402393465ccb4b0f96f20"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a50a906b5a3fdca3508aee0997881a717"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dda/a05042.html#a50a906b5a3fdca3508aee0997881a717">AuthHelper::IsAcceptedClientBuild</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> build)</td></tr>
-<tr class="separator:a50a906b5a3fdca3508aee0997881a717"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad4f22daf9d88367d90d92416f470a28c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dda/a05042.html#ad4f22daf9d88367d90d92416f470a28c">AuthHelper::IsPostBCAcceptedClientBuild</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> build)</td></tr>
-<tr class="separator:ad4f22daf9d88367d90d92416f470a28c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96896fc9dad2c304f681a24776f6726b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dda/a05042.html#a96896fc9dad2c304f681a24776f6726b">AuthHelper::IsPreBCAcceptedClientBuild</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> build)</td></tr>
-<tr class="separator:a96896fc9dad2c304f681a24776f6726b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:af55b7730b9b6bf94de4604ce96e812c0"><td class="memItemLeft" align="right" valign="top">static constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#af55b7730b9b6bf94de4604ce96e812c0">TaxiMaskSize</a> = 14</td></tr>
+<tr class="separator:af55b7730b9b6bf94de4604ce96e812c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a7f11f6829a2ed728bfc49ad3b2f932ca" name="a7f11f6829a2ed728bfc49ad3b2f932ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f11f6829a2ed728bfc49ad3b2f932ca">&#9670;&#160;</a></span>GT_MAX_LEVEL</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define GT_MAX_LEVEL&#160;&#160;&#160;100</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a99aa40e9a3a154a942515839010d79ff" name="a99aa40e9a3a154a942515839010d79ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a99aa40e9a3a154a942515839010d79ff">&#9670;&#160;</a></span>GT_MAX_RATING</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define GT_MAX_RATING&#160;&#160;&#160;32</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a84f97addb2541cd13960d71b99ac4f9c" name="a84f97addb2541cd13960d71b99ac4f9c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a84f97addb2541cd13960d71b99ac4f9c">&#9670;&#160;</a></span>MAX_CREATURE_SPELL_DATA_SLOT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_CREATURE_SPELL_DATA_SLOT&#160;&#160;&#160;4</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3ac65d8635b4379f0d5b75a0e2dfd9c8" name="a3ac65d8635b4379f0d5b75a0e2dfd9c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3ac65d8635b4379f0d5b75a0e2dfd9c8">&#9670;&#160;</a></span>MAX_EFFECT_MASK</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_EFFECT_MASK&#160;&#160;&#160;7</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aba26b8226744809f550efa818f10b186" name="aba26b8226744809f550efa818f10b186"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba26b8226744809f550efa818f10b186">&#9670;&#160;</a></span>MAX_FACTION_RELATIONS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_FACTION_RELATIONS&#160;&#160;&#160;4</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab8e8a384bd12e49b286a3ee30ff11ff7" name="ab8e8a384bd12e49b286a3ee30ff11ff7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8e8a384bd12e49b286a3ee30ff11ff7">&#9670;&#160;</a></span>MAX_GROUP_AREA_IDS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_GROUP_AREA_IDS&#160;&#160;&#160;6</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae9554dfb95ff901f440f4166cf1d04ab" name="ae9554dfb95ff901f440f4166cf1d04ab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae9554dfb95ff901f440f4166cf1d04ab">&#9670;&#160;</a></span>MAX_HOLIDAY_DATES</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_HOLIDAY_DATES&#160;&#160;&#160;26</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae4bf557cbdd070d5483ea758ef1ef0f2" name="ae4bf557cbdd070d5483ea758ef1ef0f2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4bf557cbdd070d5483ea758ef1ef0f2">&#9670;&#160;</a></span>MAX_HOLIDAY_DURATIONS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_HOLIDAY_DURATIONS&#160;&#160;&#160;10</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac24517e5894a4a3cd7203781ea7e6304" name="ac24517e5894a4a3cd7203781ea7e6304"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac24517e5894a4a3cd7203781ea7e6304">&#9670;&#160;</a></span>MAX_HOLIDAY_FLAGS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_HOLIDAY_FLAGS&#160;&#160;&#160;10</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af0d8d6c7748de71fbd87ae5d02985404" name="af0d8d6c7748de71fbd87ae5d02985404"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af0d8d6c7748de71fbd87ae5d02985404">&#9670;&#160;</a></span>MAX_ITEM_ENCHANTMENT_EFFECTS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_ITEM_ENCHANTMENT_EFFECTS&#160;&#160;&#160;5</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a40412d1e32e215a5270cf717434ae108" name="a40412d1e32e215a5270cf717434ae108"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a40412d1e32e215a5270cf717434ae108">&#9670;&#160;</a></span>MAX_ITEM_EXTENDED_COST_REQUIREMENTS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_ITEM_EXTENDED_COST_REQUIREMENTS&#160;&#160;&#160;5</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7efd6aeed170ce6a86c16bd1fa48518d" name="a7efd6aeed170ce6a86c16bd1fa48518d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7efd6aeed170ce6a86c16bd1fa48518d">&#9670;&#160;</a></span>MAX_ITEM_SET_ITEMS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_ITEM_SET_ITEMS&#160;&#160;&#160;10</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1d93d74d9cdf834a33735836824866e2" name="a1d93d74d9cdf834a33735836824866e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d93d74d9cdf834a33735836824866e2">&#9670;&#160;</a></span>MAX_ITEM_SET_SPELLS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_ITEM_SET_SPELLS&#160;&#160;&#160;8</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1ebc07de85011e32e1cb7a2f1637f092" name="a1ebc07de85011e32e1cb7a2f1637f092"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1ebc07de85011e32e1cb7a2f1637f092">&#9670;&#160;</a></span>MAX_LOCK_CASE</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_LOCK_CASE&#160;&#160;&#160;8</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ade532186d3fab018819b9718af66b6f8" name="ade532186d3fab018819b9718af66b6f8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade532186d3fab018819b9718af66b6f8">&#9670;&#160;</a></span>MAX_OUTFIT_ITEMS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_OUTFIT_ITEMS&#160;&#160;&#160;24</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af5ab857719ce6437c52aee4b87c639f3" name="af5ab857719ce6437c52aee4b87c639f3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af5ab857719ce6437c52aee4b87c639f3">&#9670;&#160;</a></span>MAX_OVERRIDE_SPELL</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_OVERRIDE_SPELL&#160;&#160;&#160;10</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a98ed02c281ef8b03f0092b73e6b99e33" name="a98ed02c281ef8b03f0092b73e6b99e33"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a98ed02c281ef8b03f0092b73e6b99e33">&#9670;&#160;</a></span>MAX_PET_TALENT_RANK</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_PET_TALENT_RANK&#160;&#160;&#160;3</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8c0b93bba896da1bb3ecaac8d847ee2d" name="a8c0b93bba896da1bb3ecaac8d847ee2d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c0b93bba896da1bb3ecaac8d847ee2d">&#9670;&#160;</a></span>MAX_SHAPESHIFT_SPELLS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_SHAPESHIFT_SPELLS&#160;&#160;&#160;8</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae298a04d2c0b52f390ffb06d804ca9e9" name="ae298a04d2c0b52f390ffb06d804ca9e9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae298a04d2c0b52f390ffb06d804ca9e9">&#9670;&#160;</a></span>MAX_SKILL_STEP</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_SKILL_STEP&#160;&#160;&#160;16</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac5733f5b58bf8a23a1919a005b5ec895" name="ac5733f5b58bf8a23a1919a005b5ec895"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5733f5b58bf8a23a1919a005b5ec895">&#9670;&#160;</a></span>MAX_SPELL_EFFECTS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_SPELL_EFFECTS&#160;&#160;&#160;3</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab66cd5828c451f68f55f1b054c29a8fc" name="ab66cd5828c451f68f55f1b054c29a8fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab66cd5828c451f68f55f1b054c29a8fc">&#9670;&#160;</a></span>MAX_SPELL_ITEM_ENCHANTMENT_EFFECTS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_SPELL_ITEM_ENCHANTMENT_EFFECTS&#160;&#160;&#160;3</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7dfd9b5e0adb5c5e3ebf3173f80fbcce" name="a7dfd9b5e0adb5c5e3ebf3173f80fbcce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7dfd9b5e0adb5c5e3ebf3173f80fbcce">&#9670;&#160;</a></span>MAX_SPELL_REAGENTS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_SPELL_REAGENTS&#160;&#160;&#160;8</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8d6d5cac52d7a437e341e9f6ebc21a21" name="a8d6d5cac52d7a437e341e9f6ebc21a21"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8d6d5cac52d7a437e341e9f6ebc21a21">&#9670;&#160;</a></span>MAX_TALENT_RANK</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_TALENT_RANK&#160;&#160;&#160;5</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a22f3ed43957e7cda0874bdf343b03d4b" name="a22f3ed43957e7cda0874bdf343b03d4b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a22f3ed43957e7cda0874bdf343b03d4b">&#9670;&#160;</a></span>MAX_TALENT_TABS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_TALENT_TABS&#160;&#160;&#160;3</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5925e58fbd29a3a77ff05ab092fa1f77" name="a5925e58fbd29a3a77ff05ab092fa1f77"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5925e58fbd29a3a77ff05ab092fa1f77">&#9670;&#160;</a></span>MAX_VEHICLE_SEATS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_VEHICLE_SEATS&#160;&#160;&#160;8</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa7b34f321cc6fb7b11aac46ef9b08897" name="aa7b34f321cc6fb7b11aac46ef9b08897"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa7b34f321cc6fb7b11aac46ef9b08897">&#9670;&#160;</a></span>MAX_WORLD_MAP_OVERLAY_AREA_IDX</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_WORLD_MAP_OVERLAY_AREA_IDX&#160;&#160;&#160;4</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="ad93484e8f4ff5cbe27a41c4822b0c232" name="ad93484e8f4ff5cbe27a41c4822b0c232"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad93484e8f4ff5cbe27a41c4822b0c232">&#9670;&#160;</a></span>PetFamilySpellsSet</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::set&lt;<a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; <a class="el" href="../../d1/d04/a04361.html#ad93484e8f4ff5cbe27a41c4822b0c232">PetFamilySpellsSet</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0e08729fa68ec0715f2af029e8a0d1d8" name="a0e08729fa68ec0715f2af029e8a0d1d8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0e08729fa68ec0715f2af029e8a0d1d8">&#9670;&#160;</a></span>PetFamilySpellsStore</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d1/d04/a04361.html#ad93484e8f4ff5cbe27a41c4822b0c232">PetFamilySpellsSet</a> &gt; <a class="el" href="../../d1/d04/a04361.html#a0e08729fa68ec0715f2af029e8a0d1d8">PetFamilySpellsStore</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abec1611f7460fe442eeb44ec9c6e0338" name="abec1611f7460fe442eeb44ec9c6e0338"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abec1611f7460fe442eeb44ec9c6e0338">&#9670;&#160;</a></span>SpellCategorySet</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::set&lt;std::pair&lt;bool, <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; &gt; <a class="el" href="../../d1/d04/a04361.html#abec1611f7460fe442eeb44ec9c6e0338">SpellCategorySet</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aec458115a1262f91caf58114ea781708" name="aec458115a1262f91caf58114ea781708"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec458115a1262f91caf58114ea781708">&#9670;&#160;</a></span>SpellCategoryStore</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d1/d04/a04361.html#abec1611f7460fe442eeb44ec9c6e0338">SpellCategorySet</a>&gt; <a class="el" href="../../d1/d04/a04361.html#aec458115a1262f91caf58114ea781708">SpellCategoryStore</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aec54003aaeeffeda4e99f6e9c019a29f" name="aec54003aaeeffeda4e99f6e9c019a29f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec54003aaeeffeda4e99f6e9c019a29f">&#9670;&#160;</a></span>TalentSpellPosMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../db/d82/a29058.html">TalentSpellPos</a>&gt; <a class="el" href="../../d1/d04/a04361.html#aec54003aaeeffeda4e99f6e9c019a29f">TalentSpellPosMap</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a415cc3633225b2cfe241a12bce9aeb9b" name="a415cc3633225b2cfe241a12bce9aeb9b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a415cc3633225b2cfe241a12bce9aeb9b">&#9670;&#160;</a></span>TaxiMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::array&lt;<a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d1/d04/a04361.html#af55b7730b9b6bf94de4604ce96e812c0">TaxiMaskSize</a>&gt; <a class="el" href="../../d1/d04/a04361.html#a415cc3633225b2cfe241a12bce9aeb9b">TaxiMask</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a696428ce320a7e4dd796c85fbf98b7f2" name="a696428ce320a7e4dd796c85fbf98b7f2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a696428ce320a7e4dd796c85fbf98b7f2">&#9670;&#160;</a></span>TaxiPathNodeList</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::vector&lt;<a class="el" href="../../df/d31/a29014.html">TaxiPathNodeEntry</a> const*&gt; <a class="el" href="../../d1/d04/a04361.html#a696428ce320a7e4dd796c85fbf98b7f2">TaxiPathNodeList</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0a9bd32b40fdd19846034d6430c681cb" name="a0a9bd32b40fdd19846034d6430c681cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a9bd32b40fdd19846034d6430c681cb">&#9670;&#160;</a></span>TaxiPathNodesByPath</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::vector&lt;<a class="el" href="../../d1/d04/a04361.html#a696428ce320a7e4dd796c85fbf98b7f2">TaxiPathNodeList</a>&gt; <a class="el" href="../../d1/d04/a04361.html#a0a9bd32b40fdd19846034d6430c681cb">TaxiPathNodesByPath</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8d9b837c2c4d75978949b5718741443a" name="a8d9b837c2c4d75978949b5718741443a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8d9b837c2c4d75978949b5718741443a">&#9670;&#160;</a></span>TaxiPathSetBySource</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d1/d04/a04361.html#a96a7676e14471f288073e4d2ce5fb580">TaxiPathSetForSource</a>&gt; <a class="el" href="../../d1/d04/a04361.html#a8d9b837c2c4d75978949b5718741443a">TaxiPathSetBySource</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a96a7676e14471f288073e4d2ce5fb580" name="a96a7676e14471f288073e4d2ce5fb580"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96a7676e14471f288073e4d2ce5fb580">&#9670;&#160;</a></span>TaxiPathSetForSource</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../db/db4/a29010.html">TaxiPathEntry</a> const*&gt; <a class="el" href="../../d1/d04/a04361.html#a96a7676e14471f288073e4d2ce5fb580">TaxiPathSetForSource</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a87ba9bd5edfd749f4729620dbadd5fce" name="a87ba9bd5edfd749f4729620dbadd5fce"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a87ba9bd5edfd749f4729620dbadd5fce">&#9670;&#160;</a></span>AuthResult</h2>
+<a id="a86846f30ebbb1a9ce21222e1a3e26494" name="a86846f30ebbb1a9ce21222e1a3e26494"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a86846f30ebbb1a9ce21222e1a3e26494">&#9670;&#160;</a></span>ChrRacesFlags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fce">AuthResult</a></td>
+          <td class="memname">enum <a class="el" href="../../d1/d04/a04361.html#a86846f30ebbb1a9ce21222e1a3e26494">ChrRacesFlags</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688" name="a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688"></a>WOW_SUCCESS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630" name="a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630"></a>WOW_FAIL_BANNED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114" name="a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114"></a>WOW_FAIL_UNKNOWN_ACCOUNT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3" name="a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3"></a>WOW_FAIL_INCORRECT_PASSWORD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c" name="a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c"></a>WOW_FAIL_ALREADY_ONLINE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34" name="a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34"></a>WOW_FAIL_NO_TIME&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96" name="a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96"></a>WOW_FAIL_DB_BUSY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d" name="a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d"></a>WOW_FAIL_VERSION_INVALID&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae" name="a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae"></a>WOW_FAIL_VERSION_UPDATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d" name="a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d"></a>WOW_FAIL_INVALID_SERVER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04" name="a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04"></a>WOW_FAIL_SUSPENDED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8" name="a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8"></a>WOW_FAIL_FAIL_NOACCESS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a" name="a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a"></a>WOW_SUCCESS_SURVEY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d" name="a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d"></a>WOW_FAIL_PARENTCONTROL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3" name="a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3"></a>WOW_FAIL_LOCKED_ENFORCED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6" name="a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6"></a>WOW_FAIL_TRIAL_ENDED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c" name="a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c"></a>WOW_FAIL_USE_BATTLENET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3" name="a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3"></a>WOW_FAIL_ANTI_INDULGENCE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9" name="a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9"></a>WOW_FAIL_EXPIRED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf" name="a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf"></a>WOW_FAIL_NO_GAME_ACCOUNT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05" name="a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05"></a>WOW_FAIL_CHARGEBACK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9" name="a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9"></a>WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55" name="a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55"></a>WOW_FAIL_GAME_ACCOUNT_LOCKED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e" name="a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e"></a>WOW_FAIL_UNLOCKABLE_LOCK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739" name="a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739"></a>WOW_FAIL_CONVERSION_REQUIRED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65" name="a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65"></a>WOW_FAIL_DISCONNECTED&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c" name="a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c"></a>CHRRACES_FLAGS_NOT_PLAYABLE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d" name="a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d"></a>CHRRACES_FLAGS_BARE_FEET&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b" name="a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b"></a>CHRRACES_FLAGS_CAN_MOUNT&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688">WOW_SUCCESS</a>                                  = 0x00,</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630">WOW_FAIL_BANNED</a>                              = 0x03,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114">WOW_FAIL_UNKNOWN_ACCOUNT</a>                     = 0x04,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3">WOW_FAIL_INCORRECT_PASSWORD</a>                  = 0x05,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c">WOW_FAIL_ALREADY_ONLINE</a>                      = 0x06,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34">WOW_FAIL_NO_TIME</a>                             = 0x07,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96">WOW_FAIL_DB_BUSY</a>                             = 0x08,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d">WOW_FAIL_VERSION_INVALID</a>                     = 0x09,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae">WOW_FAIL_VERSION_UPDATE</a>                      = 0x0A,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d">WOW_FAIL_INVALID_SERVER</a>                      = 0x0B,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04">WOW_FAIL_SUSPENDED</a>                           = 0x0C,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8">WOW_FAIL_FAIL_NOACCESS</a>                       = 0x0D,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a">WOW_SUCCESS_SURVEY</a>                           = 0x0E,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d">WOW_FAIL_PARENTCONTROL</a>                       = 0x0F,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3">WOW_FAIL_LOCKED_ENFORCED</a>                     = 0x10,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6">WOW_FAIL_TRIAL_ENDED</a>                         = 0x11,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c">WOW_FAIL_USE_BATTLENET</a>                       = 0x12,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3">WOW_FAIL_ANTI_INDULGENCE</a>                     = 0x13,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9">WOW_FAIL_EXPIRED</a>                             = 0x14,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf">WOW_FAIL_NO_GAME_ACCOUNT</a>                     = 0x15,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05">WOW_FAIL_CHARGEBACK</a>                          = 0x16,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9">WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET</a>     = 0x17,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55">WOW_FAIL_GAME_ACCOUNT_LOCKED</a>                 = 0x18,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e">WOW_FAIL_UNLOCKABLE_LOCK</a>                     = 0x19,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739">WOW_FAIL_CONVERSION_REQUIRED</a>                 = 0x20,</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65">WOW_FAIL_DISCONNECTED</a>                        = 0xFF</div>
-<div class="line"><span class="lineno">   51</span>};</div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688">WOW_SUCCESS</a></div><div class="ttdeci">@ WOW_SUCCESS</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:25</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3">WOW_FAIL_LOCKED_ENFORCED</a></div><div class="ttdeci">@ WOW_FAIL_LOCKED_ENFORCED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:39</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6">WOW_FAIL_TRIAL_ENDED</a></div><div class="ttdeci">@ WOW_FAIL_TRIAL_ENDED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:40</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04">WOW_FAIL_SUSPENDED</a></div><div class="ttdeci">@ WOW_FAIL_SUSPENDED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:35</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05">WOW_FAIL_CHARGEBACK</a></div><div class="ttdeci">@ WOW_FAIL_CHARGEBACK</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:45</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55">WOW_FAIL_GAME_ACCOUNT_LOCKED</a></div><div class="ttdeci">@ WOW_FAIL_GAME_ACCOUNT_LOCKED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:47</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf">WOW_FAIL_NO_GAME_ACCOUNT</a></div><div class="ttdeci">@ WOW_FAIL_NO_GAME_ACCOUNT</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:44</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3">WOW_FAIL_INCORRECT_PASSWORD</a></div><div class="ttdeci">@ WOW_FAIL_INCORRECT_PASSWORD</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:28</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65">WOW_FAIL_DISCONNECTED</a></div><div class="ttdeci">@ WOW_FAIL_DISCONNECTED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:50</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114">WOW_FAIL_UNKNOWN_ACCOUNT</a></div><div class="ttdeci">@ WOW_FAIL_UNKNOWN_ACCOUNT</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:27</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630">WOW_FAIL_BANNED</a></div><div class="ttdeci">@ WOW_FAIL_BANNED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:26</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d">WOW_FAIL_PARENTCONTROL</a></div><div class="ttdeci">@ WOW_FAIL_PARENTCONTROL</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:38</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a">WOW_SUCCESS_SURVEY</a></div><div class="ttdeci">@ WOW_SUCCESS_SURVEY</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:37</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3">WOW_FAIL_ANTI_INDULGENCE</a></div><div class="ttdeci">@ WOW_FAIL_ANTI_INDULGENCE</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:42</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae">WOW_FAIL_VERSION_UPDATE</a></div><div class="ttdeci">@ WOW_FAIL_VERSION_UPDATE</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:33</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c">WOW_FAIL_ALREADY_ONLINE</a></div><div class="ttdeci">@ WOW_FAIL_ALREADY_ONLINE</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:29</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8">WOW_FAIL_FAIL_NOACCESS</a></div><div class="ttdeci">@ WOW_FAIL_FAIL_NOACCESS</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:36</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96">WOW_FAIL_DB_BUSY</a></div><div class="ttdeci">@ WOW_FAIL_DB_BUSY</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:31</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c">WOW_FAIL_USE_BATTLENET</a></div><div class="ttdeci">@ WOW_FAIL_USE_BATTLENET</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:41</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9">WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET</a></div><div class="ttdeci">@ WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:46</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e">WOW_FAIL_UNLOCKABLE_LOCK</a></div><div class="ttdeci">@ WOW_FAIL_UNLOCKABLE_LOCK</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:48</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739">WOW_FAIL_CONVERSION_REQUIRED</a></div><div class="ttdeci">@ WOW_FAIL_CONVERSION_REQUIRED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:49</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9">WOW_FAIL_EXPIRED</a></div><div class="ttdeci">@ WOW_FAIL_EXPIRED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:43</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34">WOW_FAIL_NO_TIME</a></div><div class="ttdeci">@ WOW_FAIL_NO_TIME</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:30</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d">WOW_FAIL_INVALID_SERVER</a></div><div class="ttdeci">@ WOW_FAIL_INVALID_SERVER</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:34</div></div>
-<div class="ttc" id="aa04361_html_a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d"><div class="ttname"><a href="../../d1/d04/a04361.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d">WOW_FAIL_VERSION_INVALID</a></div><div class="ttdeci">@ WOW_FAIL_VERSION_INVALID</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:32</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  672</span>{</div>
+<div class="line"><span class="lineno">  673</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a> = 0x01,</div>
+<div class="line"><span class="lineno">  674</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d">CHRRACES_FLAGS_BARE_FEET</a>    = 0x02,</div>
+<div class="line"><span class="lineno">  675</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b">CHRRACES_FLAGS_CAN_MOUNT</a>    = 0x04</div>
+<div class="line"><span class="lineno">  676</span>};</div>
+<div class="ttc" id="aa04361_html_a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c"><div class="ttname"><a href="../../d1/d04/a04361.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a></div><div class="ttdeci">@ CHRRACES_FLAGS_NOT_PLAYABLE</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:673</div></div>
+<div class="ttc" id="aa04361_html_a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b"><div class="ttname"><a href="../../d1/d04/a04361.html#a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b">CHRRACES_FLAGS_CAN_MOUNT</a></div><div class="ttdeci">@ CHRRACES_FLAGS_CAN_MOUNT</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:675</div></div>
+<div class="ttc" id="aa04361_html_a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d"><div class="ttname"><a href="../../d1/d04/a04361.html#a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d">CHRRACES_FLAGS_BARE_FEET</a></div><div class="ttdeci">@ CHRRACES_FLAGS_BARE_FEET</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:674</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="aa4677c9d14c49d7eb90bf81f278756e2" name="aa4677c9d14c49d7eb90bf81f278756e2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa4677c9d14c49d7eb90bf81f278756e2">&#9670;&#160;</a></span>ExpansionFlags</h2>
+<a id="a94648e677bb402393465ccb4b0f96f20" name="a94648e677bb402393465ccb4b0f96f20"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a94648e677bb402393465ccb4b0f96f20">&#9670;&#160;</a></span>CreatureModelDataFlags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d04/a04361.html#aa4677c9d14c49d7eb90bf81f278756e2">ExpansionFlags</a></td>
+          <td class="memname">enum <a class="el" href="../../d1/d04/a04361.html#a94648e677bb402393465ccb4b0f96f20">CreatureModelDataFlags</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb" name="aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb"></a>POST_BC_EXP_FLAG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64" name="aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64"></a>PRE_BC_EXP_FLAG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d" name="aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d"></a>NO_VALID_EXP_FLAG&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900" name="a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900"></a>CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   75</span>{</div>
-<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb">POST_BC_EXP_FLAG</a>                            = 0x2,</div>
-<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64">PRE_BC_EXP_FLAG</a>                             = 0x1,</div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d">NO_VALID_EXP_FLAG</a>                           = 0x0</div>
-<div class="line"><span class="lineno">   79</span>};</div>
-<div class="ttc" id="aa04361_html_aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb"><div class="ttname"><a href="../../d1/d04/a04361.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb">POST_BC_EXP_FLAG</a></div><div class="ttdeci">@ POST_BC_EXP_FLAG</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:76</div></div>
-<div class="ttc" id="aa04361_html_aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d"><div class="ttname"><a href="../../d1/d04/a04361.html#aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d">NO_VALID_EXP_FLAG</a></div><div class="ttdeci">@ NO_VALID_EXP_FLAG</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:78</div></div>
-<div class="ttc" id="aa04361_html_aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64"><div class="ttname"><a href="../../d1/d04/a04361.html#aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64">PRE_BC_EXP_FLAG</a></div><div class="ttdeci">@ PRE_BC_EXP_FLAG</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:77</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  770</span>{</div>
+<div class="line"><span class="lineno">  771</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900">CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</a>     = 0x00000080</div>
+<div class="line"><span class="lineno">  772</span>};</div>
+<div class="ttc" id="aa04361_html_a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900"><div class="ttname"><a href="../../d1/d04/a04361.html#a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900">CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</a></div><div class="ttdeci">@ CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:771</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a3b6904b8a00ed8f7a67396dee6e9aef5" name="a3b6904b8a00ed8f7a67396dee6e9aef5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3b6904b8a00ed8f7a67396dee6e9aef5">&#9670;&#160;</a></span>LoginResult</h2>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="af55b7730b9b6bf94de4604ce96e812c0" name="af55b7730b9b6bf94de4604ce96e812c0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af55b7730b9b6bf94de4604ce96e812c0">&#9670;&#160;</a></span>TaxiMaskSize</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5">LoginResult</a></td>
+          <td class="memname">constexpr std::size_t TaxiMaskSize = 14</td>
         </tr>
       </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb" name="a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb"></a>LOGIN_OK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0" name="a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0"></a>LOGIN_FAILED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56" name="a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56"></a>LOGIN_FAILED2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005" name="a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005"></a>LOGIN_BANNED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3" name="a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3"></a>LOGIN_UNKNOWN_ACCOUNT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc" name="a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc"></a>LOGIN_UNKNOWN_ACCOUNT3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5" name="a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5"></a>LOGIN_ALREADYONLINE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342" name="a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342"></a>LOGIN_NOTIME&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8" name="a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8"></a>LOGIN_DBBUSY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c" name="a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c"></a>LOGIN_BADVERSION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309" name="a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309"></a>LOGIN_DOWNLOAD_FILE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3" name="a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3"></a>LOGIN_FAILED3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b" name="a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b"></a>LOGIN_SUSPENDED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e" name="a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e"></a>LOGIN_FAILED4&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae" name="a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae"></a>LOGIN_CONNECTED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860" name="a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860"></a>LOGIN_PARENTALCONTROL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02" name="a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02"></a>LOGIN_LOCKED_ENFORCED&#160;</td><td class="fielddoc"></td></tr>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   54</span>{</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb">LOGIN_OK</a>                                     = 0x00,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0">LOGIN_FAILED</a>                                 = 0x01,</div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56">LOGIN_FAILED2</a>                                = 0x02,</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005">LOGIN_BANNED</a>                                 = 0x03,</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3">LOGIN_UNKNOWN_ACCOUNT</a>                        = 0x04,</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc">LOGIN_UNKNOWN_ACCOUNT3</a>                       = 0x05,</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5">LOGIN_ALREADYONLINE</a>                          = 0x06,</div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342">LOGIN_NOTIME</a>                                 = 0x07,</div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8">LOGIN_DBBUSY</a>                                 = 0x08,</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c">LOGIN_BADVERSION</a>                             = 0x09,</div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309">LOGIN_DOWNLOAD_FILE</a>                          = 0x0A,</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3">LOGIN_FAILED3</a>                                = 0x0B,</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b">LOGIN_SUSPENDED</a>                              = 0x0C,</div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e">LOGIN_FAILED4</a>                                = 0x0D,</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae">LOGIN_CONNECTED</a>                              = 0x0E,</div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860">LOGIN_PARENTALCONTROL</a>                        = 0x0F,</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02">LOGIN_LOCKED_ENFORCED</a>                        = 0x10</div>
-<div class="line"><span class="lineno">   72</span>};</div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e">LOGIN_FAILED4</a></div><div class="ttdeci">@ LOGIN_FAILED4</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:68</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3">LOGIN_UNKNOWN_ACCOUNT</a></div><div class="ttdeci">@ LOGIN_UNKNOWN_ACCOUNT</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:59</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae">LOGIN_CONNECTED</a></div><div class="ttdeci">@ LOGIN_CONNECTED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:69</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342">LOGIN_NOTIME</a></div><div class="ttdeci">@ LOGIN_NOTIME</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:62</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309">LOGIN_DOWNLOAD_FILE</a></div><div class="ttdeci">@ LOGIN_DOWNLOAD_FILE</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:65</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b">LOGIN_SUSPENDED</a></div><div class="ttdeci">@ LOGIN_SUSPENDED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:67</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56">LOGIN_FAILED2</a></div><div class="ttdeci">@ LOGIN_FAILED2</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:57</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02">LOGIN_LOCKED_ENFORCED</a></div><div class="ttdeci">@ LOGIN_LOCKED_ENFORCED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:71</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5">LOGIN_ALREADYONLINE</a></div><div class="ttdeci">@ LOGIN_ALREADYONLINE</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:61</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc">LOGIN_UNKNOWN_ACCOUNT3</a></div><div class="ttdeci">@ LOGIN_UNKNOWN_ACCOUNT3</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:60</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb">LOGIN_OK</a></div><div class="ttdeci">@ LOGIN_OK</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:55</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005">LOGIN_BANNED</a></div><div class="ttdeci">@ LOGIN_BANNED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:58</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0">LOGIN_FAILED</a></div><div class="ttdeci">@ LOGIN_FAILED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:56</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c">LOGIN_BADVERSION</a></div><div class="ttdeci">@ LOGIN_BADVERSION</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:64</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8">LOGIN_DBBUSY</a></div><div class="ttdeci">@ LOGIN_DBBUSY</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:63</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3">LOGIN_FAILED3</a></div><div class="ttdeci">@ LOGIN_FAILED3</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:66</div></div>
-<div class="ttc" id="aa04361_html_a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860"><div class="ttname"><a href="../../d1/d04/a04361.html#a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860">LOGIN_PARENTALCONTROL</a></div><div class="ttdeci">@ LOGIN_PARENTALCONTROL</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:70</div></div>
-</div><!-- fragment -->
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00116">PlayerTaxi::AppendTaximaskTo()</a>, <a class="el" href="../../#l07201">ObjectMgr::GetNearestTaxiNode()</a>, <a class="el" href="../../#l01985">WorldSession::HandleCharFactionOrRaceChangeCallback()</a>, <a class="el" href="../../#l00023">PlayerTaxi::InitTaxiNodesForLevel()</a>, and <a class="el" href="../../#l00089">PlayerTaxi::LoadTaxiMask()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -431,8 +1034,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_5048a8ff141d56662c703e95f88ef858.html">authserver</a></li><li class="navelem"><a class="el" href="../../dir_9cb3b0d623cd4274c7a9c8ac2a66c533.html">Authentication</a></li><li class="navelem"><a class="el" href="../../d1/d04/a04361.html">AuthCodes.h</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 21:36:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_777a9b9a3e1a361a798e834f8fa9f1dc.html">shared</a></li><li class="navelem"><a class="el" href="../../dir_df159a8f325d88d9d469ac728430a4fa.html">DataStores</a></li><li class="navelem"><a class="el" href="../../d1/d04/a04361.html">DBCStructure.h</a></li>
+    <li class="footer">Generated on Mon May 4 2026 21:41:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

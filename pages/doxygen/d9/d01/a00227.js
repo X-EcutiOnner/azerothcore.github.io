@@ -1,9 +1,15 @@
 var a00227 =
 [
-    [ "SQLElementData", "dd/d73/a06141.html", "dd/d73/a06141" ],
-    [ "SQLOperation", "d5/d6e/a06145.html", "d5/d6e/a06145" ],
-    [ "SQLElementDataType", "d9/d01/a00227.html#abb4a6cfcce013f18b29779f1f435e627", [
-      [ "SQL_ELEMENT_RAW", "d9/d01/a00227.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a", null ],
-      [ "SQL_ELEMENT_PREPARED", "d9/d01/a00227.html#abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d", null ]
-    ] ]
+    [ "MySQLType< T >", "d8/d89/a06054.html", null ],
+    [ "MySQLType< uint8 >", "d4/db5/a06058.html", null ],
+    [ "MySQLType< uint16 >", "d9/de2/a06062.html", null ],
+    [ "MySQLType< uint32 >", "d3/d23/a06066.html", null ],
+    [ "MySQLType< uint64 >", "db/dd3/a06070.html", null ],
+    [ "MySQLType< int8 >", "dc/d36/a06074.html", null ],
+    [ "MySQLType< int16 >", "d3/d26/a06078.html", null ],
+    [ "MySQLType< int32 >", "d6/d02/a06082.html", null ],
+    [ "MySQLType< int64 >", "d2/d6d/a06086.html", null ],
+    [ "MySQLType< float >", "dc/d9a/a06090.html", null ],
+    [ "MySQLType< double >", "d4/dc6/a06094.html", null ],
+    [ "ParamenterIndexAssertFail", "d9/d01/a00227.html#a4c2b053ff0b94326f3c01cc7c6e61e8a", null ]
 ];

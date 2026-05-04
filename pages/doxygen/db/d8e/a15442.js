@@ -1,9 +1,9 @@
 var a15442 =
 [
-    [ "boss_fankriss", "db/d8e/a15442.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "db/d8e/a15442.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "db/d8e/a15442.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "db/d8e/a15442.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "db/d8e/a15442.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "db/d8e/a15442.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "npc_eye_tentacle", "db/d8e/a15442.html#a106deeb95d74597377d32e81695dc3c9", null ],
+    [ "JustDied", "db/d8e/a15442.html#aac965d97034f4f623172297e4f82647e", null ],
+    [ "JustEngagedWith", "db/d8e/a15442.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
+    [ "Reset", "db/d8e/a15442.html#a715439dfa31b4cf9df7ddd678d912108", null ],
+    [ "UpdateAI", "db/d8e/a15442.html#a48f9067f27d61e609a014669c1daedb9", null ],
+    [ "_portalGUID", "db/d8e/a15442.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
 ];

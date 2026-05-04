@@ -1,7 +1,11 @@
 var a24618 =
 [
-    [ "HandleProc", "da/dd9/a24618.html#a8cdacf8f2562c0c35fafaa24ac9d18c2", null ],
-    [ "PrepareAuraScript", "da/dd9/a24618.html#a9cc42ed6528e9e6dd253808c59286e02", null ],
-    [ "Register", "da/dd9/a24618.html#a3d4b8bfcc77087533d9bb1b1d5f6f637", null ],
-    [ "Validate", "da/dd9/a24618.html#abe19ae79c5bf1b0104cc3bc16570853a", null ]
+    [ "spell_gen_relocaste_dest", "da/dd9/a24618.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
+    [ "PrepareSpellScript", "da/dd9/a24618.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
+    [ "Register", "da/dd9/a24618.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
+    [ "RelocateDest", "da/dd9/a24618.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
+    [ "_o", "da/dd9/a24618.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
+    [ "_x", "da/dd9/a24618.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
+    [ "_y", "da/dd9/a24618.html#a0152bc47b5950546d9e9505512ed842b", null ],
+    [ "_z", "da/dd9/a24618.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
 ];

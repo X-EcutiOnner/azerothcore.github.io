@@ -1,8 +1,10 @@
 var a29006 =
 [
-    [ "canLink", "d7/d87/a29006.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "d7/d87/a29006.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "d7/d87/a29006.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "d7/d87/a29006.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "d7/d87/a29006.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "ID", "d7/d87/a29006.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "d7/d87/a29006.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "d7/d87/a29006.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "d7/d87/a29006.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "d7/d87/a29006.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "d7/d87/a29006.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "d7/d87/a29006.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

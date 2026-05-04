@@ -1,5 +1,10 @@
 var a21254 =
 [
-    [ "npc_khunok_the_behemothAI", "da/dab/a21254.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "da/dab/a21254.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "npc_bonker_togglevoltAI", "da/dab/a21254.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "da/dab/a21254.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "da/dab/a21254.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "da/dab/a21254.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "da/dab/a21254.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "WaypointReached", "da/dab/a21254.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Bonker_agro", "da/dab/a21254.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

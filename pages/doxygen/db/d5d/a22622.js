@@ -1,8 +1,6 @@
 var a22622 =
 [
-    [ "HandleEffectApply", "db/d5d/a22622.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "db/d5d/a22622.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "db/d5d/a22622.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "db/d5d/a22622.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "db/d5d/a22622.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "npc_supremus_punch_invisible_stalker", "db/d5d/a22622.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "db/d5d/a22622.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "db/d5d/a22622.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

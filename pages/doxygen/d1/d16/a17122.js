@@ -1,11 +1,12 @@
 var a17122 =
 [
-    [ "npc_spectral_footman", "d1/d16/a17122.html#ab12174cbf246178b52c074024453015e", null ],
-    [ "AttackStart", "d1/d16/a17122.html#a0fe7529c47d56f67b15023bc432f0498", null ],
-    [ "DoAction", "d1/d16/a17122.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
-    [ "EnterEvadeMode", "d1/d16/a17122.html#afc51e0562045028af7161ea66e7be9f0", null ],
-    [ "JustDied", "d1/d16/a17122.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
-    [ "JustEngagedWith", "d1/d16/a17122.html#a9d8d723b403035660b78c332d5813d3f", null ],
-    [ "Reset", "d1/d16/a17122.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
-    [ "UpdateAI", "d1/d16/a17122.html#af76de9237937199dfa715a445b0060c3", null ]
+    [ "boss_marwyn", "d1/d16/a17122.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
+    [ "DoAction", "d1/d16/a17122.html#a7bd848b407d33942f05b48b6284506bb", null ],
+    [ "EnterEvadeMode", "d1/d16/a17122.html#a93849e995d62ba5a220e08157d8758fa", null ],
+    [ "JustDied", "d1/d16/a17122.html#a89fd620d0e74675d671cb69cc917d024", null ],
+    [ "JustEngagedWith", "d1/d16/a17122.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
+    [ "KilledUnit", "d1/d16/a17122.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
+    [ "Reset", "d1/d16/a17122.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
+    [ "UpdateAI", "d1/d16/a17122.html#ae8d1b8908983af8bff1f13641472817f", null ],
+    [ "_startingFight", "d1/d16/a17122.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
 ];

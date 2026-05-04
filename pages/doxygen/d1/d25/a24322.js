@@ -1,6 +1,7 @@
 var a24322 =
 [
-    [ "RaiseDeadCheck", "d1/d25/a24322.html#abc6439e5b457f2f6e832f504167a392d", null ],
-    [ "operator()", "d1/d25/a24322.html#a9647e6afd21e7397f05349e66bea4326", null ],
-    [ "_caster", "d1/d25/a24322.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
+    [ "CheckProc", "d1/d25/a24322.html#a841b1a19cafcbf3b3bf82867cbb23384", null ],
+    [ "HandleProc", "d1/d25/a24322.html#a1d2e356b47d793bf9193b03f635ce579", null ],
+    [ "PrepareAuraScript", "d1/d25/a24322.html#addfa11cf74409b4bb369c2bbf583c13c", null ],
+    [ "Register", "d1/d25/a24322.html#a180fbfc09087cb2cd919734c447fef10", null ]
 ];

@@ -1,6 +1,6 @@
 var a22534 =
 [
-    [ "CalculateAmount", "da/de5/a22534.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
-    [ "PrepareAuraScript", "da/de5/a22534.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
-    [ "Register", "da/de5/a22534.html#a0d2e97463f268892965e307628aaa931", null ]
+    [ "boss_reliquary_of_soulsAI", "d6/d1d/a22538.html", "d6/d1d/a22538" ],
+    [ "boss_reliquary_of_souls", "da/de5/a22534.html#a0c73fc6221da0b19903e534932ca6406", null ],
+    [ "GetAI", "da/de5/a22534.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
 ];

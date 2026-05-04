@@ -1,6 +1,6 @@
 var a16058 =
 [
-    [ "npc_weegli_blastfuseAI", "db/db5/a16062.html", "db/db5/a16062" ],
-    [ "npc_weegli_blastfuse", "d7/d3b/a16058.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "d7/d3b/a16058.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "db/db5/a16062.html", "db/db5/a16062" ],
+    [ "instance_zulfarrak", "d7/d3b/a16058.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "d7/d3b/a16058.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

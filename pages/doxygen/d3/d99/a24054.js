@@ -1,9 +1,10 @@
 var a24054 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "d3/d99/a24054.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "d3/d99/a24054.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHitTarget", "d3/d99/a24054.html#a6c0d3181b913c5022325f66586f66bfa", null ],
-    [ "UpdateAI", "d3/d99/a24054.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "d3/d99/a24054.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "d3/d99/a24054.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "npc_pet_hunter_snake_trap", "d3/d99/a24054.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "InitializeAI", "d3/d99/a24054.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
+    [ "JustEngagedWith", "d3/d99/a24054.html#a695af9c49daa05c787dac03c4af91645", null ],
+    [ "MoveInLineOfSight", "d3/d99/a24054.html#a099a34f12399fe24349644da3dafe7a4", null ],
+    [ "UpdateAI", "d3/d99/a24054.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_isViper", "d3/d99/a24054.html#ab49c69ca25014ef63e775b236255e4c1", null ],
+    [ "_spellTimer", "d3/d99/a24054.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

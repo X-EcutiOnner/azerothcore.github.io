@@ -1,11 +1,10 @@
 var a08450 =
 [
-    [ "MovableMapObject", "df/dc7/a08450.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
-    [ "GetCurrentCell", "df/dc7/a08450.html#a6d7d87cff5f00f3b370584675caf7870", null ],
-    [ "SetCurrentCell", "df/dc7/a08450.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
-    [ "Map", "df/dc7/a08450.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "ObjectGridLoader", "df/dc7/a08450.html#a9551c85ae0e43e4d212225c643da2262", null ],
-    [ "RandomMovementGenerator", "df/dc7/a08450.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
-    [ "_currentCell", "df/dc7/a08450.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
-    [ "_moveState", "df/dc7/a08450.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
+    [ "IsCastable", "df/dc7/a08450.html#a677b21866e24d2c94de28d96db07aafd", null ],
+    [ "MoneyCost", "df/dc7/a08450.html#af20caa962ba1f5edb376b78b6b35b119", null ],
+    [ "ReqAbility", "df/dc7/a08450.html#a101686190208be6fb46a46768ca779f9", null ],
+    [ "ReqLevel", "df/dc7/a08450.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
+    [ "ReqSkillLine", "df/dc7/a08450.html#a008ff0df36f2e19534a5fda97616f14f", null ],
+    [ "ReqSkillRank", "df/dc7/a08450.html#aa151d559cb276797a39dd203fd1b24c2", null ],
+    [ "SpellId", "df/dc7/a08450.html#ac289744925387c199fde756867bbfc57", null ]
 ];

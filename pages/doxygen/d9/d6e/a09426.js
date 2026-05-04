@@ -1,8 +1,9 @@
 var a09426 =
 [
-    [ "V8Type", "d9/d6e/a09426.html#a004cbcd4de33cc555da6f6036d735dc0", null ],
-    [ "V9Type", "d9/d6e/a09426.html#a3ec26bc3c9f2e579bf920bf169f3a223", null ],
-    [ "gridIntHeightMultiplier", "d9/d6e/a09426.html#a626b7ad6821722d17bab6e21db618615", null ],
-    [ "v8", "d9/d6e/a09426.html#a8b352fc11c1e705277f8d81b512e3103", null ],
-    [ "v9", "d9/d6e/a09426.html#a37d2628b9fd45b5d5a12baa9eb6efc3c", null ]
+    [ "GridReference", "d9/d6e/a09426.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
+    [ "~GridReference", "d9/d6e/a09426.html#afd6a4f88eb066818afde1b752600bb12", null ],
+    [ "next", "d9/d6e/a09426.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
+    [ "sourceObjectDestroyLink", "d9/d6e/a09426.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
+    [ "targetObjectBuildLink", "d9/d6e/a09426.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
+    [ "targetObjectDestroyLink", "d9/d6e/a09426.html#ac4c863d059b5c826e9597056dc7c887a", null ]
 ];

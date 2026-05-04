@@ -1,6 +1,6 @@
 var a23926 =
 [
-    [ "npc_enraged_spiritAI", "d6/d03/a23930.html", "d6/d03/a23930" ],
-    [ "npc_enraged_spirit", "d0/d14/a23926.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d0/d14/a23926.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "HandleSendEvent", "d0/d14/a23926.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "d0/d14/a23926.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "d0/d14/a23926.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

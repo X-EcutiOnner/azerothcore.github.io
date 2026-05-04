@@ -1,8 +1,10 @@
 var a11674 =
 [
-    [ "ReflectEvent", "dd/dce/a11674.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "dd/dce/a11674.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "dd/dce/a11674.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "dd/dce/a11674.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "dd/dce/a11674.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "TriggeredByAuraSpellData", "dd/dce/a11674.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "dd/dce/a11674.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "dd/dce/a11674.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "dd/dce/a11674.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "dd/dce/a11674.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "dd/dce/a11674.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "dd/dce/a11674.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

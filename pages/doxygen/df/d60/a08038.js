@@ -1,5 +1,5 @@
 var a08038 =
 [
-    [ "Glyph", "df/d60/a08038.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
-    [ "Slot", "df/d60/a08038.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
+    [ "IsColorValid", "df/d60/a08038.html#a537a2beaa8321095d2d67b8fb655acea", null ],
+    [ "IsTextValid", "df/d60/a08038.html#aeaa47302a91b5882afae3950ffc460cc", null ]
 ];

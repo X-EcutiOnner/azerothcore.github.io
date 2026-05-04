@@ -1,6 +1,7 @@
 var a12862 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d2/dd3/a12866.html", "d2/dd3/a12866" ],
-    [ "instance_deadmines", "d2/d0d/a12862.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
-    [ "GetInstanceScript", "d2/d0d/a12862.html#ac5cb65972d52324cedf662cc44dca626", null ]
+    [ "HandleScript", "d2/d0d/a12862.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
+    [ "PrepareSpellScript", "d2/d0d/a12862.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
+    [ "Register", "d2/d0d/a12862.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
+    [ "Validate", "d2/d0d/a12862.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
 ];

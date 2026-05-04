@@ -1,5 +1,7 @@
 var a24778 =
 [
-    [ "PrepareSpellScript", "db/db9/a24778.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "db/db9/a24778.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "HandleScript", "db/db9/a24778.html#a628fbc7ef23ce8f93d132f7bf518d4d8", null ],
+    [ "PrepareSpellScript", "db/db9/a24778.html#a8e5aa0a33907c5216299734a928de2fd", null ],
+    [ "Register", "db/db9/a24778.html#a9e25da03bbbea35f13420c14c6fab0d5", null ],
+    [ "Validate", "db/db9/a24778.html#a30cc03ed0c19074dc1fde4951a061815", null ]
 ];

@@ -1,14 +1,13 @@
 var a21058 =
 [
-    [ "boss_erekemAI", "dd/d61/a21058.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
-    [ "EnterEvadeMode", "dd/d61/a21058.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
-    [ "GetChainHealTargetGUID", "dd/d61/a21058.html#aa346cbaded883bbb3806acf9cb32579a", null ],
-    [ "JustDied", "dd/d61/a21058.html#a12e7fb5389977dcacb4e1eadda771467", null ],
-    [ "JustEngagedWith", "dd/d61/a21058.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
-    [ "KilledUnit", "dd/d61/a21058.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
-    [ "MoveInLineOfSight", "dd/d61/a21058.html#a5905809cba20d426c4d222b1e91055bc", null ],
-    [ "Reset", "dd/d61/a21058.html#a338bbc123b1d3adef4f014c3302c4590", null ],
-    [ "UpdateAI", "dd/d61/a21058.html#a234ae447260ae30a137a53fb986e5dc4", null ],
-    [ "events", "dd/d61/a21058.html#a8d4445b6d35f534061818f7708f39f7e", null ],
-    [ "pInstance", "dd/d61/a21058.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
+    [ "boss_toravonAI", "dd/d61/a21058.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "dd/d61/a21058.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "dd/d61/a21058.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "dd/d61/a21058.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "dd/d61/a21058.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "dd/d61/a21058.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "dd/d61/a21058.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "dd/d61/a21058.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "dd/d61/a21058.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "dd/d61/a21058.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

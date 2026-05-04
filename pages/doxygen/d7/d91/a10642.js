@@ -1,12 +1,5 @@
 var a10642 =
 [
-    [ "GroupScript", "d7/d91/a10642.html#a0680f82522424afc364e9b94e1c6f686", null ],
-    [ "CanGroupJoinBattlegroundQueue", "d7/d91/a10642.html#a931b4a94a2f95958579b37c0af6ece03", null ],
-    [ "IsDatabaseBound", "d7/d91/a10642.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
-    [ "OnAddMember", "d7/d91/a10642.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
-    [ "OnChangeLeader", "d7/d91/a10642.html#a64a1441fd3db3f25236691efcff4a80b", null ],
-    [ "OnCreate", "d7/d91/a10642.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
-    [ "OnDisband", "d7/d91/a10642.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
-    [ "OnInviteMember", "d7/d91/a10642.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
-    [ "OnRemoveMember", "d7/d91/a10642.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
+    [ "GenericCreatureScript", "d7/d91/a10642.html#a52157430320e253a5897612623eb796c", null ],
+    [ "GetAI", "d7/d91/a10642.html#a9e8eb28ece41af0c4159710c6eb51395", null ]
 ];

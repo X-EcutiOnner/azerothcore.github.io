@@ -1,6 +1,6 @@
 var a10722 =
 [
-    [ "WeatherScript", "dd/dfd/a10722.html#a4f86b051364c95f5389d7ed473429b7b", null ],
-    [ "IsDatabaseBound", "dd/dfd/a10722.html#a2547902149ce080711ccacb709b10e8a", null ],
-    [ "OnChange", "dd/dfd/a10722.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
+    [ "OutdoorPvPScript", "dd/dfd/a10722.html#ad7882db48419888c7968007e30c2f3f7", null ],
+    [ "GetOutdoorPvP", "dd/dfd/a10722.html#aa213974f384c88ab65f7b7308dadb026", null ],
+    [ "IsDatabaseBound", "dd/dfd/a10722.html#ac22c6a9945738270452848f997d2818f", null ]
 ];

@@ -1,7 +1,7 @@
 var a14534 =
 [
-    [ "npc_direbrew_minion", "d0/d1f/a14534.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "d0/d1f/a14534.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "d0/d1f/a14534.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "d0/d1f/a14534.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "GetEmptyEntry", "d0/d1f/a14534.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
+    [ "HandleAfterHit", "d0/d1f/a14534.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
+    [ "PrepareSpellScript", "d0/d1f/a14534.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
+    [ "Register", "d0/d1f/a14534.html#a25e1858e1f81891443f4b7de50a5d495", null ]
 ];

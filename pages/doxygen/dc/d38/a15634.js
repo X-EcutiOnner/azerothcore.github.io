@@ -1,8 +1,6 @@
 var a15634 =
 [
-    [ "npc_death_ravagerAI", "dc/d38/a15634.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "dc/d38/a15634.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "dc/d38/a15634.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "dc/d38/a15634.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "dc/d38/a15634.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "npc_draenei_survivorAI", "da/d4a/a15638.html", "da/d4a/a15638" ],
+    [ "npc_draenei_survivor", "dc/d38/a15634.html#a1dca668a7c3f868677a9bf306288430c", null ],
+    [ "GetAI", "dc/d38/a15634.html#aa8dde30279bb898a4412491faca79267", null ]
 ];

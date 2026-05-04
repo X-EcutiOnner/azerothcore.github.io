@@ -1,9 +1,7 @@
 var a25982 =
 [
-    [ "CheckCaster", "d6/d45/a25982.html#afc48d6f2d2d23b6ba996c76eda1d8d47", null ],
-    [ "OnApply", "d6/d45/a25982.html#a34e2585c500c5975d6549cd1b7602b18", null ],
-    [ "OnRemove", "d6/d45/a25982.html#a8d95ba91e4f358bd0abbecf2fe85dfb8", null ],
-    [ "PrepareAuraScript", "d6/d45/a25982.html#ad905a91348b92007774c69467c24d40e", null ],
-    [ "Register", "d6/d45/a25982.html#ada9610c7d5d1236ccb509ac7ca4a8b3d", null ],
-    [ "Validate", "d6/d45/a25982.html#a0f9174b9cf14dd8bf0c8c444600511b1", null ]
+    [ "HandleProc", "d6/d45/a25982.html#a6cf02cf1ae3c9b2c24be6dd0d5c13528", null ],
+    [ "PrepareAuraScript", "d6/d45/a25982.html#a97c9a39b38c3cd74962a1cc7102cbe70", null ],
+    [ "Register", "d6/d45/a25982.html#a18da1331c481cd3871194f8af735b6df", null ],
+    [ "Validate", "d6/d45/a25982.html#ab5ab7a31b40a88f147fae1e49bc4364e", null ]
 ];

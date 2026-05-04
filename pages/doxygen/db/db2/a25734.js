@@ -1,8 +1,10 @@
 var a25734 =
 [
-    [ "HandleDummy", "db/db2/a25734.html#a3db6982f1162ac6b03771a0e7e432e6d", null ],
-    [ "Load", "db/db2/a25734.html#a9671be7920dfd3bde2033f0ae43259b0", null ],
-    [ "PrepareSpellScript", "db/db2/a25734.html#ad50c9141d40b7089fd24a8657d496a8d", null ],
-    [ "Register", "db/db2/a25734.html#a249a857b1cf5b0c3be6018cb233c75d1", null ],
-    [ "Validate", "db/db2/a25734.html#ac209048bd5688417c391c2c9b8a72d8b", null ]
+    [ "CalcPeriodic", "db/db2/a25734.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "db/db2/a25734.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "db/db2/a25734.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "db/db2/a25734.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "db/db2/a25734.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "db/db2/a25734.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "db/db2/a25734.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

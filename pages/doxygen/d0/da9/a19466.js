@@ -1,6 +1,8 @@
 var a19466 =
 [
-    [ "HandleScript", "d0/da9/a19466.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
-    [ "PrepareSpellScript", "d0/da9/a19466.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
-    [ "Register", "d0/da9/a19466.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
+    [ "npc_scion_of_eternity", "d0/da9/a19466.html#ac1a9111bc835a3d2cffc43b840985763", null ],
+    [ "AttackStart", "d0/da9/a19466.html#a86b5e235096ad107217f36150c618d73", null ],
+    [ "JustDied", "d0/da9/a19466.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
+    [ "MoveInLineOfSight", "d0/da9/a19466.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
+    [ "UpdateAI", "d0/da9/a19466.html#a49be60ccd03d75cf56931b870ddf086c", null ]
 ];

@@ -1,6 +1,11 @@
 var a16362 =
 [
-    [ "npc_halion_controllerAI", "d6/d10/a16366.html", "d6/d10/a16366" ],
-    [ "npc_halion_controller", "da/d34/a16362.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "da/d34/a16362.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "boss_general_zarithrianAI", "da/d34/a16362.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "da/d34/a16362.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "da/d34/a16362.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "da/d34/a16362.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "da/d34/a16362.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "da/d34/a16362.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "da/d34/a16362.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "da/d34/a16362.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

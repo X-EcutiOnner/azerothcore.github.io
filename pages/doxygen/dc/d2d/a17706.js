@@ -1,5 +1,6 @@
 var a17706 =
 [
-    [ "achievement_flu_shot_shortage", "dc/d2d/a17706.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "dc/d2d/a17706.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "npc_icc_blood_beastAI", "da/d9b/a17710.html", "da/d9b/a17710" ],
+    [ "npc_icc_blood_beast", "dc/d2d/a17706.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "dc/d2d/a17706.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

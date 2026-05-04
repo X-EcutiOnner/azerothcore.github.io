@@ -1,7 +1,6 @@
 var a25818 =
 [
-    [ "HandleHeal", "d9/dc7/a25818.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "d9/dc7/a25818.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "d9/dc7/a25818.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "d9/dc7/a25818.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "CheckProc", "d9/dc7/a25818.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
+    [ "PrepareAuraScript", "d9/dc7/a25818.html#a3fa05a39b003805f405d814214f4366e", null ],
+    [ "Register", "d9/dc7/a25818.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
 ];

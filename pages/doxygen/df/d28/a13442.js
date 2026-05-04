@@ -1,8 +1,7 @@
 var a13442 =
 [
-    [ "npc_apothecary_baxter", "df/d28/a13442.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
-    [ "JustDied", "df/d28/a13442.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
-    [ "Reset", "df/d28/a13442.html#afee5103029bd761c48cbf6a11655c44a", null ],
-    [ "UpdateAI", "df/d28/a13442.html#ad06090f599d0fda3a88f3182c990a49f", null ],
-    [ "_scheduler", "df/d28/a13442.html#a6d813041e055f3c2b28be7cba3acde13", null ]
+    [ "HandleEffectApply", "df/d28/a13442.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "df/d28/a13442.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "df/d28/a13442.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "df/d28/a13442.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

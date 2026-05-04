@@ -1,13 +1,8 @@
 var a09322 =
 [
-    [ "QuestPOI", "d1/d6c/a09322.html#af4ce75549d1fff2042e98683119214a6", null ],
-    [ "QuestPOI", "d1/d6c/a09322.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
-    [ "AreaId", "d1/d6c/a09322.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
-    [ "FloorId", "d1/d6c/a09322.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
-    [ "Id", "d1/d6c/a09322.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
-    [ "MapId", "d1/d6c/a09322.html#a851f8e6e62373d2592173534754d757b", null ],
-    [ "ObjectiveIndex", "d1/d6c/a09322.html#ad80f65110beacd44e667008387e6bb70", null ],
-    [ "points", "d1/d6c/a09322.html#aeb505cb061a00ecaa2acc749e391f207", null ],
-    [ "Unk3", "d1/d6c/a09322.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
-    [ "Unk4", "d1/d6c/a09322.html#aa8089160bb8e93ea79df96b956050b70", null ]
+    [ "MailLevelReward", "d1/d6c/a09322.html#accd52642cbbab457b69dba54a6ffa23b", null ],
+    [ "MailLevelReward", "d1/d6c/a09322.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
+    [ "mailTemplateId", "d1/d6c/a09322.html#afdf6684bcd2751822bd00ba1509ef933", null ],
+    [ "raceMask", "d1/d6c/a09322.html#a341088acd89b79161d932367f4f1798d", null ],
+    [ "senderEntry", "d1/d6c/a09322.html#a2b678ac953209691b38d583cffab55b5", null ]
 ];

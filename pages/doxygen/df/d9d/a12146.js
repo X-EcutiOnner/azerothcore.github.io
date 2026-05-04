@@ -1,8 +1,7 @@
 var a12146 =
 [
-    [ "cache_commandscript", "df/d9d/a12146.html#a709e1d02632aed18113c1adb52e962b5", null ],
-    [ "GetCommands", "df/d9d/a12146.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
-    [ "HandleCacheDeleteCommand", "df/d9d/a12146.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
-    [ "HandleCacheInfoCommand", "df/d9d/a12146.html#aa9bce5578450a35909a4e481bc21867f", null ],
-    [ "HandleCacheRefreshCommand", "df/d9d/a12146.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
+    [ "map", "df/d9d/a12146.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
+    [ "pallid", "df/d9d/a12146.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
+    [ "pallidGuid", "df/d9d/a12146.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
+    [ "zoneId", "df/d9d/a12146.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
 ];

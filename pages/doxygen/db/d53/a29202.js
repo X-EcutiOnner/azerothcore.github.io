@@ -1,13 +1,13 @@
 var a29202 =
 [
-    [ "Secret", "d6/d15/a29206.html", "d6/d15/a29206" ],
-    [ "SecretMgr", "db/d53/a29202.html#a28ee0858a14656d7fc464eb604b127b7", null ],
-    [ "~SecretMgr", "db/d53/a29202.html#ae6f15def262312b17456583b4e548d99", null ],
-    [ "SecretMgr", "db/d53/a29202.html#ab48b891b84f116dc5efffe0a10a82f79", null ],
-    [ "AttemptLoad", "db/d53/a29202.html#a65c2fd304c0f851f81cd80037deac8fb", null ],
-    [ "AttemptTransition", "db/d53/a29202.html#a4b6cbe75e50ec3e4765fdb9e965ee84f", null ],
-    [ "GetSecret", "db/d53/a29202.html#aff0b6ca546a62a3d6e7da52c3a2752bd", null ],
-    [ "Initialize", "db/d53/a29202.html#a929de7b687d7c6bb91ef35306134ebac", null ],
-    [ "instance", "db/d53/a29202.html#a27e237503dc523367fa94bd28a289d97", null ],
-    [ "_secrets", "db/d53/a29202.html#a143bb8b3855a9f28df72abc9cfc94f3c", null ]
+    [ "attackType", "db/d53/a29202.html#a4715e7e37c120d791e6a32cd275b8cbd", null ],
+    [ "equippedItemClass", "db/d53/a29202.html#aceba901b7f666b4a3806c35b6d8697ad", null ],
+    [ "equippedItemSubClassMask", "db/d53/a29202.html#a3384bf3ae58fb0977f8fa81f84d940e2", null ],
+    [ "hasEquippedItem", "db/d53/a29202.html#a5d7780265fe18a0657f2a68d9c737fe7", null ],
+    [ "hasNoEquipRequirementAttr", "db/d53/a29202.html#ab754fdbbb49982e7152057341fc3e3af", null ],
+    [ "isInFeralForm", "db/d53/a29202.html#a3d8d88f4640c3100a88efee52ecf5822", null ],
+    [ "isPassive", "db/d53/a29202.html#ad56881b893a29dc5d6be193c6720c4e0", null ],
+    [ "isPlayer", "db/d53/a29202.html#a7de2ea9efe7606f26e2c11d8963357d0", null ],
+    [ "itemFitsRequirements", "db/d53/a29202.html#a760a3b39c124c3f408f0541744b6b34a", null ],
+    [ "itemIsBroken", "db/d53/a29202.html#a3b53871ecd10bd1f6d624431b0907b90", null ]
 ];

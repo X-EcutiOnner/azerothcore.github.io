@@ -1,20 +1,14 @@
 var a00080 =
 [
-    [ "SpellProcDisableEffectsTest", "df/d1b/a29393.html", "df/d1b/a29393" ],
-    [ "TEST_F", "da/dec/a00080.html#a83593ff4e5f0d4bbf17f3d89a11ad41b", null ],
-    [ "TEST_F", "da/dec/a00080.html#ada6aa7946b5b1650643d1101a7b0a6a1", null ],
-    [ "TEST_F", "da/dec/a00080.html#a209cf89313651785788473e379b84a84", null ],
-    [ "TEST_F", "da/dec/a00080.html#ac0f559af209178724eb3126d61ad07d7", null ],
-    [ "TEST_F", "da/dec/a00080.html#a1e3c33508c40282f4fc3283792e6e5a1", null ],
-    [ "TEST_F", "da/dec/a00080.html#a69a9541f9f5c5bc76d328b5b496acea4", null ],
-    [ "TEST_F", "da/dec/a00080.html#a82283c17501ab739171a9f29b6bfe746", null ],
-    [ "TEST_F", "da/dec/a00080.html#a37a87cb84048c2080f4612acc24521b7", null ],
-    [ "TEST_F", "da/dec/a00080.html#a168e46f935ad0b05479d64d810f07fac", null ],
-    [ "TEST_F", "da/dec/a00080.html#a47cb30ee310f6abc71de51474bf4d02e", null ],
-    [ "TEST_F", "da/dec/a00080.html#acf2364ee45cd14949ea8fa599d15207b", null ],
-    [ "TEST_F", "da/dec/a00080.html#a6352b8a0e0c72a3f03d64c5faf35e62b", null ],
-    [ "TEST_F", "da/dec/a00080.html#a8e4c6158dabe9042eea4f0aed6923dc7", null ],
-    [ "TEST_F", "da/dec/a00080.html#a830a4559543ce06e92f37f1cfccea55e", null ],
-    [ "TEST_F", "da/dec/a00080.html#a280de460557f0d5f4f03d2821c31ec8f", null ],
-    [ "TEST_F", "da/dec/a00080.html#aca9a42766818ffc52919d66ab1017745", null ]
+    [ "ExtraAttackChainProcTest", "d0/ddd/a29466.html", "d0/ddd/a29466" ],
+    [ "TEST_F", "da/dec/a00080.html#abc49b8d509a71311b8f4ab364e4da973", null ],
+    [ "TEST_F", "da/dec/a00080.html#a42dbae4a1b1bebe552097cb6d7192996", null ],
+    [ "TEST_F", "da/dec/a00080.html#a496682ab03245df2e7c1e539fe7a1b3c", null ],
+    [ "TEST_F", "da/dec/a00080.html#ae45135f1555115aa04a957f7786ef8eb", null ],
+    [ "TEST_F", "da/dec/a00080.html#a510139ca0dbe6b263f79cdf71e8f3104", null ],
+    [ "TEST_F", "da/dec/a00080.html#aca644b360370337d76d0d1f955f4bf91", null ],
+    [ "TEST_F", "da/dec/a00080.html#a9dbad8c1ef4a5f8cd46f58762938ef28", null ],
+    [ "TEST_F", "da/dec/a00080.html#ae32b028257e04cd926bd3c20a6a63a02", null ],
+    [ "SPELL_HAND_OF_JUSTICE", "da/dec/a00080.html#a82bc87ae06a613c804e98c7f1584cebd", null ],
+    [ "SPELL_RECKONING", "da/dec/a00080.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48", null ]
 ];

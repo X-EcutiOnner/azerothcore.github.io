@@ -1,8 +1,7 @@
 var a28682 =
 [
-    [ "npc_cultist_engineer", "d7/d94/a28682.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "d7/d94/a28682.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "d7/d94/a28682.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "d7/d94/a28682.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "d7/d94/a28682.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "Displayid", "d7/d94/a28682.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "d7/d94/a28682.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "d7/d94/a28682.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "d7/d94/a28682.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

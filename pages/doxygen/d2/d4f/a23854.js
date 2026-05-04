@@ -1,6 +1,6 @@
 var a23854 =
 [
-    [ "npc_infernal_attackerAI", "d4/d6d/a23858.html", "d4/d6d/a23858" ],
-    [ "npc_infernal_attacker", "d2/d4f/a23854.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d2/d4f/a23854.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "npc_illidari_spawnAI", "d4/d6d/a23858.html", "d4/d6d/a23858" ],
+    [ "npc_illidari_spawn", "d2/d4f/a23854.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "d2/d4f/a23854.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

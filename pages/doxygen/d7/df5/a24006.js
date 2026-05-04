@@ -1,6 +1,7 @@
 var a24006 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d2/d98/a24010.html", "d2/d98/a24010" ],
-    [ "npc_unkor_the_ruthless", "d7/df5/a24006.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "d7/df5/a24006.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "npc_pet_gen_target_following_bomb", "d7/df5/a24006.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "d7/df5/a24006.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "d7/df5/a24006.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "d7/df5/a24006.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

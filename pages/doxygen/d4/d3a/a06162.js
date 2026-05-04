@@ -1,11 +1,15 @@
 var a06162 =
 [
-    [ "AppenderDB", "d4/d3a/a06162.html#af8e48076d47a06c73f6b8ae054955a83", null ],
-    [ "~AppenderDB", "d4/d3a/a06162.html#a7da848083d02833acc632051a2d938bf", null ],
-    [ "_write", "d4/d3a/a06162.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
-    [ "getType", "d4/d3a/a06162.html#a96221ceed23435556df03c5f7ffab61e", null ],
-    [ "setRealmId", "d4/d3a/a06162.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
-    [ "enabled", "d4/d3a/a06162.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
-    [ "realmId", "d4/d3a/a06162.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
-    [ "type", "d4/d3a/a06162.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
+    [ "TransactionBase", "d4/d3a/a06162.html#a663d13ba0b22e0711d135073ff80ee47", null ],
+    [ "~TransactionBase", "d4/d3a/a06162.html#a6ce7e6ef81bb466463bace35cdd49476", null ],
+    [ "Append", "d4/d3a/a06162.html#a867b7a92080104278aef5fb4975a4a52", null ],
+    [ "Append", "d4/d3a/a06162.html#aa0a81814abe26d456018c3bc9153cd4d", null ],
+    [ "AppendPreparedStatement", "d4/d3a/a06162.html#a8e099a4f8775b5e5e3b95ad0273a716f", null ],
+    [ "Cleanup", "d4/d3a/a06162.html#a35e0ce11de325a1b286d90a2936d4aa3", null ],
+    [ "GetSize", "d4/d3a/a06162.html#a261ad9d7423562ccbe2cac6d75c203bd", null ],
+    [ "DatabaseWorkerPool", "d4/d3a/a06162.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
+    [ "MySQLConnection", "d4/d3a/a06162.html#a06fa417f69e0a67da8f249333b1d189d", null ],
+    [ "TransactionTask", "d4/d3a/a06162.html#a377add6d6b5e34e774d2497d58f4a180", null ],
+    [ "_cleanedUp", "d4/d3a/a06162.html#aa82af96128bfcee997423a54396d40d4", null ],
+    [ "m_queries", "d4/d3a/a06162.html#a156f1a8316358c05285778e5734eade1", null ]
 ];

@@ -1,6 +1,7 @@
 var a18998 =
 [
-    [ "npc_icc_valkyr_heraldAI", "d2/d94/a19002.html", "d2/d94/a19002" ],
-    [ "npc_icc_valkyr_herald", "df/d54/a18998.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "df/d54/a18998.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "HandleDummy", "df/d54/a18998.html#a4bfc155129bd80c94b4b59474f30d748", null ],
+    [ "PrepareSpellScript", "df/d54/a18998.html#a9c72772f9d17b34562bd11418d67872d", null ],
+    [ "Register", "df/d54/a18998.html#a10c9f511da4eb366117d356c118408c6", null ],
+    [ "Validate", "df/d54/a18998.html#a655f2081d17c06c155641efc45efc1f8", null ]
 ];

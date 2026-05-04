@@ -1,6 +1,5 @@
 var a08062 =
 [
-    [ "value_type", "d1/d21/a08062.html#a6ffbf1b2887c79b97a1804a601ea585e", null ],
-    [ "StoreTo", "d1/d21/a08062.html#a872daea2854f6243884ec35734f94d2e", null ],
-    [ "tag", "d1/d21/a08062.html#acbb2b3fc4989e4bb51e3440dcb753719", null ]
+    [ "IsColorValid", "d1/d21/a08062.html#a075621e69c80c128ec44cfb4f3ba0cf6", null ],
+    [ "IsTextValid", "d1/d21/a08062.html#a33f6c3e46c24571a8eec083087618fed", null ]
 ];

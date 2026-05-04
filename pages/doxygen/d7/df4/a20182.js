@@ -1,5 +1,8 @@
 var a20182 =
 [
-    [ "FlashFreezeCheck", "d7/df4/a20182.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
-    [ "operator()", "d7/df4/a20182.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
+    [ "npc_ulduar_flash_freeze", "d7/df4/a20182.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
+    [ "DamageTaken", "d7/df4/a20182.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "d7/df4/a20182.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "_instance", "d7/df4/a20182.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
+    [ "timer", "d7/df4/a20182.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

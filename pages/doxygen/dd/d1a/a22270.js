@@ -1,5 +1,8 @@
 var a22270 =
 [
-    [ "OutdoorPvP_zangarmarsh", "dd/d1a/a22270.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
-    [ "GetOutdoorPvP", "dd/d1a/a22270.html#a145ddfe383663ed3fb46960e39691f8f", null ]
+    [ "boss_tavarok", "dd/d1a/a22270.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "dd/d1a/a22270.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "dd/d1a/a22270.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "dd/d1a/a22270.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "dd/d1a/a22270.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

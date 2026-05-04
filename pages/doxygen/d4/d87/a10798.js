@@ -1,6 +1,9 @@
 var a10798 =
 [
-    [ "GetEvent", "d4/d87/a10798.html#aabf338a9824038abbd0934a3bef0a269", null ],
-    [ "Read", "d4/d87/a10798.html#a344db9b28e7247dc0285a3468a789721", null ],
-    [ "EventId", "d4/d87/a10798.html#a31de21c2af87d174d139eef870cbb5fd", null ]
+    [ "fX", "d4/d87/a10798.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d4/d87/a10798.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d4/d87/a10798.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d4/d87/a10798.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d4/d87/a10798.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d4/d87/a10798.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

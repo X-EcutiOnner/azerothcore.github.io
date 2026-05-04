@@ -1,10 +1,12 @@
 var a10226 =
 [
-    [ "CreateWorldPacket", "d9/d95/a10226.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
-    [ "GetMotd", "d9/d95/a10226.html#ab589dd8bfad950e02ee716ea9005253f", null ],
-    [ "GetMotdPacket", "d9/d95/a10226.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
-    [ "instance", "d9/d95/a10226.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
-    [ "LoadMotd", "d9/d95/a10226.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
-    [ "LoadMotdLocale", "d9/d95/a10226.html#a21aa89787d5b0bbf69158f799122edd5", null ],
-    [ "SetMotd", "d9/d95/a10226.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
+    [ "TransportTemplate", "d9/d95/a10226.html#aef4781a37808827e3ceaffc782c3af1e", null ],
+    [ "~TransportTemplate", "d9/d95/a10226.html#afc385d824c171d13a184bc0a16121110", null ],
+    [ "accelDist", "d9/d95/a10226.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
+    [ "accelTime", "d9/d95/a10226.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
+    [ "entry", "d9/d95/a10226.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
+    [ "inInstance", "d9/d95/a10226.html#a971c84762c229b01cab656945f0c16de", null ],
+    [ "keyFrames", "d9/d95/a10226.html#ac714531f226ca06c3586cf3f6cc06808", null ],
+    [ "mapsUsed", "d9/d95/a10226.html#a93899b0648871ed8ca32dfe8394347c1", null ],
+    [ "pathTime", "d9/d95/a10226.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
 ];

@@ -1,5 +1,8 @@
 var a23314 =
 [
-    [ "go_manticron_cube", "df/da3/a23314.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "df/da3/a23314.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "npc_warchief_portal", "df/da3/a23314.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "df/da3/a23314.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "df/da3/a23314.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "df/da3/a23314.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "df/da3/a23314.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

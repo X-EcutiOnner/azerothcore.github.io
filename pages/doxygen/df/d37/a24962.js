@@ -1,7 +1,8 @@
 var a24962 =
 [
-    [ "HandleDummy", "df/d37/a24962.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
-    [ "Load", "df/d37/a24962.html#a31075533c24011797bd0f99dce5e8330", null ],
-    [ "PrepareSpellScript", "df/d37/a24962.html#abf0acc8765f6e02674b8e93aca575a98", null ],
-    [ "Register", "df/d37/a24962.html#ad1bd05a154b506424954ef879e5b9fba", null ]
+    [ "CheckCast", "df/d37/a24962.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "df/d37/a24962.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "df/d37/a24962.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "df/d37/a24962.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "df/d37/a24962.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

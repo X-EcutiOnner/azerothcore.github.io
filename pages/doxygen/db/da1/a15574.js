@@ -1,6 +1,6 @@
 var a15574 =
 [
-    [ "HandleDummy", "db/da1/a15574.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "db/da1/a15574.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "db/da1/a15574.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "OnPeriodic", "db/da1/a15574.html#a5945e24db52c6bacae7221b085dc877b", null ],
+    [ "PrepareAuraScript", "db/da1/a15574.html#acc987aa864a8333de7bd0b770eb9018d", null ],
+    [ "Register", "db/da1/a15574.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
 ];

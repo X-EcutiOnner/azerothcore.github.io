@@ -1,8 +1,6 @@
 var a21294 =
 [
-    [ "npc_mootoo_the_youngerAI", "d6/d56/a21294.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d6/d56/a21294.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d6/d56/a21294.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d6/d56/a21294.html#ac758a992ed0d62a272930c84d617b348", null ],
-    [ "WaypointReached", "d6/d56/a21294.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "PrepareSpellScript", "d6/d56/a21294.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "d6/d56/a21294.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "d6/d56/a21294.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

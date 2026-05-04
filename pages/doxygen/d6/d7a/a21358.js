@@ -1,7 +1,6 @@
 var a21358 =
 [
-    [ "npc_warmage_violetstand", "d6/d7a/a21358.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d6/d7a/a21358.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d6/d7a/a21358.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d6/d7a/a21358.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_dalaran_mageAI", "d2/d62/a21362.html", "d2/d62/a21362" ],
+    [ "npc_dalaran_mage", "d6/d7a/a21358.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
+    [ "GetAI", "d6/d7a/a21358.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
 ];

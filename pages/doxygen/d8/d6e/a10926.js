@@ -1,5 +1,6 @@
 var a10926 =
 [
-    [ "GuildDeclineInvitation", "d8/d6e/a10926.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
-    [ "Read", "d8/d6e/a10926.html#ad034438e18a7feddbac376a599c1e01a", null ]
+    [ "GuildCreate", "d8/d6e/a10926.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
+    [ "Read", "d8/d6e/a10926.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
+    [ "GuildName", "d8/d6e/a10926.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
 ];

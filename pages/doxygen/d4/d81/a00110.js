@@ -1,15 +1,15 @@
 var a00110 =
 [
-    [ "SpellProcDBCValidationTest", "dc/d78/a29385.html", "dc/d78/a29385" ],
-    [ "SpellProcDBCValidationParamTest", "d5/d2a/a29389.html", null ],
-    [ "INSTANTIATE_TEST_SUITE_P", "d4/d81/a00110.html#a1bcaae4dcd5fec113966d51c2f6f60d0", null ],
-    [ "TEST_F", "d4/d81/a00110.html#a5d68edc629baf508a75ad0306d5a9123", null ],
-    [ "TEST_F", "d4/d81/a00110.html#aae6111f031cb367b403d6c1fae593245", null ],
-    [ "TEST_F", "d4/d81/a00110.html#a4dd4a9f2ad7b9f9c90f178e412d6853a", null ],
-    [ "TEST_F", "d4/d81/a00110.html#a3140cdc3c6be8230853a19725adce0df", null ],
-    [ "TEST_F", "d4/d81/a00110.html#a16d0dc4448f95f4d571e474baa22b657", null ],
-    [ "TEST_F", "d4/d81/a00110.html#a14eea23ad6fde730eac3ff84fdffc8ad", null ],
-    [ "TEST_F", "d4/d81/a00110.html#a67fce2ede01fc117b24ed6c0015ee5d5", null ],
-    [ "TEST_F", "d4/d81/a00110.html#a918f689a14967e97deeb88c36f959a81", null ],
-    [ "TEST_P", "d4/d81/a00110.html#a9c2b63e811e5bae6092ac12f33e514b8", null ]
+    [ "SpellProcCooldownTest", "d4/d70/a29514.html", "d4/d70/a29514" ],
+    [ "TEST_F", "d4/d81/a00110.html#ac30c03da32748e0bf7f658b9eff19f67", null ],
+    [ "TEST_F", "d4/d81/a00110.html#a877730b0890fd65b53503d867be13db2", null ],
+    [ "TEST_F", "d4/d81/a00110.html#a46fee264bedefac5bf751dc80e5175ca", null ],
+    [ "TEST_F", "d4/d81/a00110.html#a370529a902674d7c3d85a958b68f014a", null ],
+    [ "TEST_F", "d4/d81/a00110.html#a63a215a846e19ee49b60cd43e3a95dbb", null ],
+    [ "TEST_F", "d4/d81/a00110.html#af3b499c25e76cc981b8b7c898e661285", null ],
+    [ "TEST_F", "d4/d81/a00110.html#aa2595c13ca0ad6ce6afda0196d0c86ae", null ],
+    [ "TEST_F", "d4/d81/a00110.html#afba7de9d87f646093469d0f6820b2217", null ],
+    [ "TEST_F", "d4/d81/a00110.html#a64a32de59b301ddb3b2a8827bacd43cf", null ],
+    [ "TEST_F", "d4/d81/a00110.html#a4828c96b86819a1f862c5c123463c3f6", null ],
+    [ "TEST_F", "d4/d81/a00110.html#a980784573aa4ae1d2fda4349c9290425", null ]
 ];

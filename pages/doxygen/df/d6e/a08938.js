@@ -1,29 +1,10 @@
 var a08938 =
 [
-    [ "TradeData", "df/d6e/a08938.html#ac2bfab37acbdb9fd955d8f2ee8876b79", null ],
-    [ "GetItem", "df/d6e/a08938.html#a6c769042535c69e89bdc19234dd680e4", null ],
-    [ "GetMoney", "df/d6e/a08938.html#a54d3de8cb15ccc761d272295b19b7575", null ],
-    [ "GetSpell", "df/d6e/a08938.html#a99272f794179b17c50c722ae90ea78bf", null ],
-    [ "GetSpellCastItem", "df/d6e/a08938.html#a011acd6730c58aa75d3c27e793748afc", null ],
-    [ "GetTrader", "df/d6e/a08938.html#a3e3023cdf6deb5283ebbe844727cadef", null ],
-    [ "GetTraderData", "df/d6e/a08938.html#a91911ad105b24d6055a65b07ab6c269f", null ],
-    [ "GetTradeSlotForItem", "df/d6e/a08938.html#a2982777fbad962000c016309667104df", null ],
-    [ "HasItem", "df/d6e/a08938.html#a420249fcbb7394f16009861ccdb6962a", null ],
-    [ "HasSpellCastItem", "df/d6e/a08938.html#a27981abf9bddbfe87bf81836b57e0780", null ],
-    [ "IsAccepted", "df/d6e/a08938.html#a75b4970c1f26912bc24da528f226ca76", null ],
-    [ "IsInAcceptProcess", "df/d6e/a08938.html#abbae0b720c0b44a05f0625ebafd09cc8", null ],
-    [ "SetAccepted", "df/d6e/a08938.html#a6bc7a8ef2633aaff03381e3eeeb0b2af", null ],
-    [ "SetInAcceptProcess", "df/d6e/a08938.html#a4851016708b0e8336ec33c64ab41aa8a", null ],
-    [ "SetItem", "df/d6e/a08938.html#ab3eff66bb411bd22a11d8e29f7961507", null ],
-    [ "SetMoney", "df/d6e/a08938.html#a0dc996fdc9acab409833caff4e6b489b", null ],
-    [ "SetSpell", "df/d6e/a08938.html#a2afa4c75d1fe0b8a712f270166f838ef", null ],
-    [ "Update", "df/d6e/a08938.html#a970e3a0d295495973bda1ff5b4732055", null ],
-    [ "_accepted", "df/d6e/a08938.html#a83714687d004cf506b8478ab9fef03ec", null ],
-    [ "_money", "df/d6e/a08938.html#aade15c8c3f6b2a72349026a9acc85168", null ],
-    [ "_player", "df/d6e/a08938.html#a4d2719632d13db74da5f8246c48039e5", null ],
-    [ "_trader", "df/d6e/a08938.html#af1d6f26bafd7c56c35517ac81409b22c", null ],
-    [ "m_acceptProccess", "df/d6e/a08938.html#a1e585dd9ed486381a55e108a709e4db3", null ],
-    [ "m_items", "df/d6e/a08938.html#ac27f6047b7585f8b3ef069af68851965", null ],
-    [ "m_spell", "df/d6e/a08938.html#a291fdc4207d594982a780485b960f6fa", null ],
-    [ "m_spellCastItem", "df/d6e/a08938.html#adb76e2e7f01cc6f1ee4579ee177ba9c1", null ]
+    [ "Index", "df/d6e/a08938.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "df/d6e/a08938.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "df/d6e/a08938.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "df/d6e/a08938.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "df/d6e/a08938.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "df/d6e/a08938.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

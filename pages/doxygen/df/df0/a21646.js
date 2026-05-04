@@ -1,6 +1,6 @@
 var a21646 =
 [
-    [ "npc_venture_co_stragglerAI", "d2/dd4/a21650.html", "d2/dd4/a21650" ],
-    [ "npc_venture_co_straggler", "df/df0/a21646.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "df/df0/a21646.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "npc_attracted_reef_bullAI", "df/df0/a21646.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "df/df0/a21646.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "df/df0/a21646.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

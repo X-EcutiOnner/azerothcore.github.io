@@ -1,6 +1,8 @@
 var a19042 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d8/d00/a19046.html", "d8/d00/a19046" ],
-    [ "npc_icc_gauntlet_controller", "d9/d94/a19042.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "d9/d94/a19042.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "Class", "d9/d94/a19042.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d9/d94/a19042.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
+    [ "id", "d9/d94/a19042.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d9/d94/a19042.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d9/d94/a19042.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

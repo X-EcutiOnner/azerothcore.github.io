@@ -1,6 +1,7 @@
 var a27342 =
 [
-    [ "HandleAuraApply", "d1/d27/a27342.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d1/d27/a27342.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d1/d27/a27342.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "HandleDispel", "d1/d27/a27342.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "d1/d27/a27342.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "d1/d27/a27342.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "d1/d27/a27342.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

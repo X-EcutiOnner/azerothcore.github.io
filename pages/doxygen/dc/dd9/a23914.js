@@ -1,6 +1,7 @@
 var a23914 =
 [
-    [ "npc_illidari_spawnAI", "d8/d26/a23918.html", "d8/d26/a23918" ],
-    [ "npc_illidari_spawn", "dc/dd9/a23914.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
-    [ "GetAI", "dc/dd9/a23914.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
+    [ "HandleEffectRemove", "dc/dd9/a23914.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
+    [ "PrepareAuraScript", "dc/dd9/a23914.html#a19ce53b5731b0789896612fa55f38849", null ],
+    [ "Register", "dc/dd9/a23914.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
+    [ "Validate", "dc/dd9/a23914.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
 ];

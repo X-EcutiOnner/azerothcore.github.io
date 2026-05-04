@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcPipelineTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcTargetResolutionTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,96 +106,90 @@ $(document).ready(function(){initNavTree('d0/dc2/a00104.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">SpellProcPipelineTest.cpp File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">SpellProcTargetResolutionTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>End-to-end integration tests for the full proc pipeline.  
+<p>Tests for smart proc trigger target resolution.  
 <a href="#details">More...</a></p>
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AuraStub.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UnitStub.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
 <code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d9/d0b/a05125"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d0b/a05125.html">anonymous_namespace{SpellProcTargetResolutionTest.cpp}</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a19a74f2d1aaf27d22fa48f02d6b2d5f9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a19a74f2d1aaf27d22fa48f02d6b2d5f9">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, FullFlow_BasicProc_100Percent)</td></tr>
-<tr class="separator:a19a74f2d1aaf27d22fa48f02d6b2d5f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af1b16c6116add0a4321bbeea7a241688"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#af1b16c6116add0a4321bbeea7a241688">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, FullFlow_BasicProc_0Percent)</td></tr>
-<tr class="separator:af1b16c6116add0a4321bbeea7a241688"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96cc3a634c4f6bcce6debcc6e36f4d25"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a96cc3a634c4f6bcce6debcc6e36f4d25">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, FullFlow_WithCooldown)</td></tr>
-<tr class="separator:a96cc3a634c4f6bcce6debcc6e36f4d25"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a35e27540c06c06c8f59ef51bb1a9d42e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a35e27540c06c06c8f59ef51bb1a9d42e">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, FullFlow_WithCharges)</td></tr>
-<tr class="separator:a35e27540c06c06c8f59ef51bb1a9d42e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5cf9d910c9243364707c2f1dedd0582d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a5cf9d910c9243364707c2f1dedd0582d">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, FullFlow_WithStacks)</td></tr>
-<tr class="separator:a5cf9d910c9243364707c2f1dedd0582d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1e85b9df4ec0b3f7d770137f7b1184ec"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a1e85b9df4ec0b3f7d770137f7b1184ec">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, Combined_ChargesAndCooldown)</td></tr>
-<tr class="separator:a1e85b9df4ec0b3f7d770137f7b1184ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a485ca0c9676a25a6fd8b861c804696d7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a485ca0c9676a25a6fd8b861c804696d7">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, Combined_PPM_AndCooldown)</td></tr>
-<tr class="separator:a485ca0c9676a25a6fd8b861c804696d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa109507c0c4b2235951bbd288277f13c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#aa109507c0c4b2235951bbd288277f13c">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, Combined_Level60Reduction_WithCooldown)</td></tr>
-<tr class="separator:aa109507c0c4b2235951bbd288277f13c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4aea6e742bac43dda127936d36b603a8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a4aea6e742bac43dda127936d36b603a8">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, Scenario_OmenOfClarity)</td></tr>
-<tr class="separator:a4aea6e742bac43dda127936d36b603a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7bda89f7f74cbe336b48303ff1b672b1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a7bda89f7f74cbe336b48303ff1b672b1">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, Scenario_LeaderOfThePack)</td></tr>
-<tr class="separator:a7bda89f7f74cbe336b48303ff1b672b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad2fb2ff6f41f7e7771cb74d49a945a2f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#ad2fb2ff6f41f7e7771cb74d49a945a2f">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, Scenario_ArtOfWar)</td></tr>
-<tr class="separator:ad2fb2ff6f41f7e7771cb74d49a945a2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a121e660142edeb8b8867984871635142"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a121e660142edeb8b8867984871635142">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, Scenario_LightningShield)</td></tr>
-<tr class="separator:a121e660142edeb8b8867984871635142"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aee6d5257c9330329d3161f0da69ff4b7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#aee6d5257c9330329d3161f0da69ff4b7">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, Scenario_WanderingPlague)</td></tr>
-<tr class="separator:aee6d5257c9330329d3161f0da69ff4b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9b3f0e79a13fd923e704d971188beabf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a9b3f0e79a13fd923e704d971188beabf">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, EdgeCase_NoAura_NoProcPossible)</td></tr>
-<tr class="separator:a9b3f0e79a13fd923e704d971188beabf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad9d5ae60773ca5e0adec858f943d6219"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#ad9d5ae60773ca5e0adec858f943d6219">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, EdgeCase_ZeroCooldown_AllowsRapidProcs)</td></tr>
-<tr class="separator:ad9d5ae60773ca5e0adec858f943d6219"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abc9d5b5417f7a9db72bc69a6dee8991c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#abc9d5b5417f7a9db72bc69a6dee8991c">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, EdgeCase_VeryLongCooldown)</td></tr>
-<tr class="separator:abc9d5b5417f7a9db72bc69a6dee8991c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5e23f21d78acf55b11a3edfe0017068"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#aa5e23f21d78acf55b11a3edfe0017068">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, EdgeCase_ManyCharges)</td></tr>
-<tr class="separator:aa5e23f21d78acf55b11a3edfe0017068"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a84713952083e2b524a32cefc480858ee"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a84713952083e2b524a32cefc480858ee">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, ActorLevel_AffectsProcChance)</td></tr>
-<tr class="separator:a84713952083e2b524a32cefc480858ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abe1d49b795fc6def60b42b113cec4b6f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#abe1d49b795fc6def60b42b113cec4b6f">TEST_F</a> (<a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>, WeaponSpeed_AffectsPPMChance)</td></tr>
-<tr class="separator:abe1d49b795fc6def60b42b113cec4b6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0ceced3da7b46834d403b94be7bd498"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../dc/d3e/a09066.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a> (<a class="el" href="../../dc/d3e/a09066.html">Unit</a> *triggerCaster, <a class="el" href="../../d6/d4f/a09038.html">ProcEventInfo</a> &amp;eventInfo)</td></tr>
+<tr class="memdesc:ae0ceced3da7b46834d403b94be7bd498"><td class="mdescLeft">&#160;</td><td class="mdescRight">Applies the smart targeting expression from <a class="el" href="../../d0/da4/a01631.html">SpellAuraEffects.cpp</a>.  <a href="../../d0/dc2/a00104.html#ae0ceced3da7b46834d403b94be7bd498">More...</a><br /></td></tr>
+<tr class="separator:ae0ceced3da7b46834d403b94be7bd498"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6349a6956dcb722f54714e939b3ccb12"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a6349a6956dcb722f54714e939b3ccb12">TEST_F</a> (<a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>, ActorSide_HitPhase_TargetsEnemy)</td></tr>
+<tr class="separator:a6349a6956dcb722f54714e939b3ccb12"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc4f7536f5fbc531ee25c5e2e8aa823c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#adc4f7536f5fbc531ee25c5e2e8aa823c">TEST_F</a> (<a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>, ActorSide_FinishPhase_ReturnsNullptr)</td></tr>
+<tr class="separator:adc4f7536f5fbc531ee25c5e2e8aa823c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94bb580a1521b12b0dc26d91b4d9e3ca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a94bb580a1521b12b0dc26d91b4d9e3ca">TEST_F</a> (<a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>, ActorSide_CastPhase_TargetsEnemy)</td></tr>
+<tr class="separator:a94bb580a1521b12b0dc26d91b4d9e3ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc3e9713f51dc9d0659472c769da1073"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#adc3e9713f51dc9d0659472c769da1073">TEST_F</a> (<a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>, VictimSide_HitPhase_TargetsAttacker)</td></tr>
+<tr class="separator:adc3e9713f51dc9d0659472c769da1073"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d1c35ebc225b6f64d08e5748e6adbfe"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a8d1c35ebc225b6f64d08e5748e6adbfe">TEST_F</a> (<a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>, ActorSide_NullActionTarget_ReturnsNullptr)</td></tr>
+<tr class="separator:a8d1c35ebc225b6f64d08e5748e6adbfe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a65154972e92d7ebcbd52504ba1d20322"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#a65154972e92d7ebcbd52504ba1d20322">TEST_F</a> (<a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>, VictimSide_NullActionTarget_StillReturnsActor)</td></tr>
+<tr class="separator:a65154972e92d7ebcbd52504ba1d20322"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac01a72b5a8b9e24ce8306b05cca87dbb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc2/a00104.html#ac01a72b5a8b9e24ce8306b05cca87dbb">TEST_F</a> (<a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>, SelfProc_ActorIsActionTarget)</td></tr>
+<tr class="separator:ac01a72b5a8b9e24ce8306b05cca87dbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:aa56828182e47a5c051cfcc0318167b79"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d3e/a09066.html">Unit</a> *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a> = reinterpret_cast&lt;<a class="el" href="../../dc/d3e/a09066.html">Unit</a>*&gt;(uintptr_t(0x1000))</td></tr>
+<tr class="separator:aa56828182e47a5c051cfcc0318167b79"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a44641e393e88c869080a70e5d49c017c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d3e/a09066.html">Unit</a> *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d0b/a05125.html#a44641e393e88c869080a70e5d49c017c">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ENEMY</a> = reinterpret_cast&lt;<a class="el" href="../../dc/d3e/a09066.html">Unit</a>*&gt;(uintptr_t(0x2000))</td></tr>
+<tr class="separator:a44641e393e88c869080a70e5d49c017c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >End-to-end integration tests for the full proc pipeline. </p>
-<p >Tests the complete proc execution flow:</p><ol type="1">
-<li>Cooldown check (IsProcOnCooldown)</li>
-<li>Chance calculation (CalcProcChance)</li>
-<li><a class="el" href="../../d3/de7/a09797.html">Roll</a> check (rand_chance)</li>
-<li>Cooldown application</li>
-<li>Charge consumption (ConsumeProcCharges) </li>
-</ol>
+<div class="textblock"><p >Tests for smart proc trigger target resolution. </p>
+<p >Verifies the targeting expression used in HandleProcTriggerSpellAuraProc and HandleProcTriggerSpellWithValueAuraProc:</p>
+<p >triggerTarget = (triggerCaster == actor) ? actionTarget : actor</p>
+<p >This expression correctly resolves targets for all proc scenarios:</p><ul>
+<li>Actor-side HIT phase: triggerCaster==actor, returns enemy (actionTarget)</li>
+<li>Actor-side FINISH phase: triggerCaster==actor, returns nullptr (actionTarget is nullptr because FINISH phase passes no victim)</li>
+<li>Victim-side HIT phase: triggerCaster!=actor, returns attacker (actor) </li>
+</ul>
 
-<p class="definition">Definition in file <a class="el" href="../../">SpellProcPipelineTest.cpp</a>.</p>
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcTargetResolutionTest.cpp</a>.</p>
 </div><h2 class="groupheader">Function Documentation</h2>
-<a id="a84713952083e2b524a32cefc480858ee" name="a84713952083e2b524a32cefc480858ee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a84713952083e2b524a32cefc480858ee">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/19]</span></h2>
+<a id="ae0ceced3da7b46834d403b94be7bd498" name="ae0ceced3da7b46834d403b94be7bd498"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae0ceced3da7b46834d403b94be7bd498">&#9670;&#160;</a></span>ResolveProcTriggerTarget()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">static <a class="el" href="../../dc/d3e/a09066.html">Unit</a> * ResolveProcTriggerTarget </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype"><a class="el" href="../../dc/d3e/a09066.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>triggerCaster</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ActorLevel_AffectsProcChance&#160;</td>
-          <td class="paramname">&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d6/d4f/a09038.html">ProcEventInfo</a> &amp;&#160;</td>
+          <td class="paramname"><em>eventInfo</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -203,42 +197,31 @@ Functions</h2></td></tr>
           <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  418</span>{</div>
-<div class="line"><span class="lineno">  419</span>    _scenario-&gt;WithAura(12345);</div>
-<div class="line"><span class="lineno">  420</span>    _scenario-&gt;WithActorLevel(60);</div>
-<div class="line"><span class="lineno">  421</span> </div>
-<div class="line"><span class="lineno">  422</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  423</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(30.0f)</div>
-<div class="line"><span class="lineno">  424</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../dd/deb/a01628.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
-<div class="line"><span class="lineno">  425</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  426</span> </div>
-<div class="line"><span class="lineno">  427</span>    <span class="comment">// At level 60, full 30% chance</span></div>
-<div class="line"><span class="lineno">  428</span>    <span class="comment">// Roll of 25 should pass</span></div>
-<div class="line"><span class="lineno">  429</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry, 25.0f));</div>
-<div class="line"><span class="lineno">  430</span> </div>
-<div class="line"><span class="lineno">  431</span>    <span class="comment">// Reset</span></div>
-<div class="line"><span class="lineno">  432</span>    _scenario-&gt;GetAura()-&gt;ResetProcCooldown();</div>
-<div class="line"><span class="lineno">  433</span> </div>
-<div class="line"><span class="lineno">  434</span>    <span class="comment">// Change to level 80</span></div>
-<div class="line"><span class="lineno">  435</span>    _scenario-&gt;WithActorLevel(80);</div>
-<div class="line"><span class="lineno">  436</span> </div>
-<div class="line"><span class="lineno">  437</span>    <span class="comment">// At level 80, only 10% chance</span></div>
-<div class="line"><span class="lineno">  438</span>    <span class="comment">// Roll of 25 should fail</span></div>
-<div class="line"><span class="lineno">  439</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry, 25.0f));</div>
-<div class="line"><span class="lineno">  440</span>}</div>
-<div class="ttc" id="aa01628_html_a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc"><div class="ttname"><a href="../../dd/deb/a01628.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a></div><div class="ttdeci">@ PROC_ATTR_REDUCE_PROC_60</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:281</div></div>
-<div class="ttc" id="aa29205_html"><div class="ttname"><a href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a></div><div class="ttdoc">Builder class for creating SpellProcEntry test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:141</div></div>
-<div class="ttc" id="aa29205_html_a2a69603215e9fa526304f420bd5a490c"><div class="ttname"><a href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">SpellProcEntryBuilder::Build</a></div><div class="ttdeci">SpellProcEntry Build() const</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:226</div></div>
-<div class="ttc" id="aa29205_html_a3c99a07866eb497717932af6b7f3a485"><div class="ttname"><a href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">SpellProcEntryBuilder::WithChance</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithChance(float chance)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:208</div></div>
-<div class="ttc" id="aa29205_html_ab9585e517adc231979ca5b817a2f2142"><div class="ttname"><a href="../../d6/db7/a29205.html#ab9585e517adc231979ca5b817a2f2142">SpellProcEntryBuilder::WithAttributesMask</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithAttributesMask(uint32 attributesMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:190</div></div>
+
+<p>Applies the smart targeting expression from <a class="el" href="../../d0/da4/a01631.html">SpellAuraEffects.cpp</a>. </p>
+<p >This mirrors the logic in HandleProcTriggerSpellAuraProc: Unit* triggerCaster = aurApp-&gt;GetTarget(); // the aura owner Unit* triggerTarget = triggerCaster == eventInfo.GetActor() ? eventInfo.GetActionTarget() : eventInfo.GetActor(); </p>
+<div class="fragment"><div class="line"><span class="lineno">   56</span>{</div>
+<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">return</span> triggerCaster == eventInfo.<a class="code hl_function" href="../../d6/d4f/a09038.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>()</div>
+<div class="line"><span class="lineno">   58</span>        ? eventInfo.<a class="code hl_function" href="../../d6/d4f/a09038.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">GetActionTarget</a>()</div>
+<div class="line"><span class="lineno">   59</span>        : eventInfo.<a class="code hl_function" href="../../d6/d4f/a09038.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>();</div>
+<div class="line"><span class="lineno">   60</span>}</div>
+<div class="ttc" id="aa09038_html_a1b55684ec526bdc9b7d5d3b2ac4297a9"><div class="ttname"><a href="../../d6/d4f/a09038.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">ProcEventInfo::GetActionTarget</a></div><div class="ttdeci">Unit * GetActionTarget() const</div><div class="ttdef"><b>Definition:</b> Unit.h:460</div></div>
+<div class="ttc" id="aa09038_html_a89d8ab0bf0b01e3e1ca4ae10a3cbde10"><div class="ttname"><a href="../../d6/d4f/a09038.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">ProcEventInfo::GetActor</a></div><div class="ttdeci">Unit * GetActor()</div><div class="ttdef"><b>Definition:</b> Unit.h:459</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00281">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00460">ProcEventInfo::GetActionTarget()</a>, and <a class="el" href="../../#l00459">ProcEventInfo::GetActor()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00068">TEST_F()</a>.</p>
 
 </div>
 </div>
-<a id="a1e85b9df4ec0b3f7d770137f7b1184ec" name="a1e85b9df4ec0b3f7d770137f7b1184ec"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1e85b9df4ec0b3f7d770137f7b1184ec">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/19]</span></h2>
+<a id="a94bb580a1521b12b0dc26d91b4d9e3ca" name="a94bb580a1521b12b0dc26d91b4d9e3ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a94bb580a1521b12b0dc26d91b4d9e3ca">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -246,13 +229,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Combined_ChargesAndCooldown&#160;</td>
+          <td class="paramtype">ActorSide_CastPhase_TargetsEnemy&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -262,39 +245,41 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  147</span>{</div>
-<div class="line"><span class="lineno">  148</span>    _scenario-&gt;WithAura(12345, 5);  <span class="comment">// 5 charges</span></div>
-<div class="line"><span class="lineno">  149</span> </div>
-<div class="line"><span class="lineno">  150</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  151</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">  152</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(500ms)</div>
-<div class="line"><span class="lineno">  153</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  154</span> </div>
-<div class="line"><span class="lineno">  155</span>    <span class="comment">// First proc at t=0</span></div>
-<div class="line"><span class="lineno">  156</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  157</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 4);</div>
-<div class="line"><span class="lineno">  158</span> </div>
-<div class="line"><span class="lineno">  159</span>    <span class="comment">// Blocked at t=0 (cooldown)</span></div>
-<div class="line"><span class="lineno">  160</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  161</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 4);</div>
-<div class="line"><span class="lineno">  162</span> </div>
-<div class="line"><span class="lineno">  163</span>    <span class="comment">// Wait and proc again at t=600ms</span></div>
-<div class="line"><span class="lineno">  164</span>    _scenario-&gt;AdvanceTime(600ms);</div>
-<div class="line"><span class="lineno">  165</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  166</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 3);</div>
-<div class="line"><span class="lineno">  167</span> </div>
-<div class="line"><span class="lineno">  168</span>    <span class="comment">// Blocked at t=600ms</span></div>
-<div class="line"><span class="lineno">  169</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  170</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 3);</div>
-<div class="line"><span class="lineno">  171</span>}</div>
-<div class="ttc" id="aa29205_html_acd3a4b7ab057b5f36dd407acc11a4da4"><div class="ttname"><a href="../../d6/db7/a29205.html#acd3a4b7ab057b5f36dd407acc11a4da4">SpellProcEntryBuilder::WithCooldown</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithCooldown(Milliseconds cooldown)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:214</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  109</span>{</div>
+<div class="line"><span class="lineno">  110</span>    <span class="comment">// Scenario: Actor-side CAST phase proc (e.g., Nature&#39;s Grace).</span></div>
+<div class="line"><span class="lineno">  111</span>    <span class="comment">// actor=Rogue, actionTarget=Enemy</span></div>
+<div class="line"><span class="lineno">  112</span>    <span class="comment">// triggerCaster == actor, returns actionTarget</span></div>
+<div class="line"><span class="lineno">  113</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../d6/dff/a29234.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  114</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">  115</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<a class="code hl_variable" href="../../d9/d0b/a05125.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>)</div>
+<div class="line"><span class="lineno">  116</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  117</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a>)</div>
+<div class="line"><span class="lineno">  118</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  119</span> </div>
+<div class="line"><span class="lineno">  120</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>;</div>
+<div class="line"><span class="lineno">  121</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* result = <a class="code hl_function" href="../../d0/dc2/a00104.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">  122</span> </div>
+<div class="line"><span class="lineno">  123</span>    EXPECT_EQ(result, <a class="code hl_variable" href="../../d9/d0b/a05125.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>);</div>
+<div class="line"><span class="lineno">  124</span>}</div>
+<div class="ttc" id="aa00104_html_ae0ceced3da7b46834d403b94be7bd498"><div class="ttname"><a href="../../d0/dc2/a00104.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a></div><div class="ttdeci">static Unit * ResolveProcTriggerTarget(Unit *triggerCaster, ProcEventInfo &amp;eventInfo)</div><div class="ttdoc">Applies the smart targeting expression from SpellAuraEffects.cpp.</div><div class="ttdef"><b>Definition:</b> SpellProcTargetResolutionTest.cpp:55</div></div>
+<div class="ttc" id="aa01637_html_addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d"><div class="ttname"><a href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_CAST</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:248</div></div>
+<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:134</div></div>
+<div class="ttc" id="aa05125_html_a44641e393e88c869080a70e5d49c017c"><div class="ttname"><a href="../../d9/d0b/a05125.html#a44641e393e88c869080a70e5d49c017c">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ENEMY</a></div><div class="ttdeci">Unit *const FAKE_ENEMY</div><div class="ttdef"><b>Definition:</b> SpellProcTargetResolutionTest.cpp:43</div></div>
+<div class="ttc" id="aa05125_html_aa56828182e47a5c051cfcc0318167b79"><div class="ttname"><a href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a></div><div class="ttdeci">Unit *const FAKE_ROGUE</div><div class="ttdef"><b>Definition:</b> SpellProcTargetResolutionTest.cpp:42</div></div>
+<div class="ttc" id="aa09066_html"><div class="ttname"><a href="../../dc/d3e/a09066.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:664</div></div>
+<div class="ttc" id="aa29234_html"><div class="ttname"><a href="../../d6/dff/a29234.html">ProcEventInfoBuilder</a></div><div class="ttdoc">Builder class for creating ProcEventInfo test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:31</div></div>
+<div class="ttc" id="aa29234_html_a07d934345c43ecd6c8cebeb678e08dab"><div class="ttname"><a href="../../d6/dff/a29234.html#a07d934345c43ecd6c8cebeb678e08dab">ProcEventInfoBuilder::WithActionTarget</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithActionTarget(Unit *target)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:45</div></div>
+<div class="ttc" id="aa29234_html_a2247bbb4936f6d48c4214641a5a466af"><div class="ttname"><a href="../../d6/dff/a29234.html#a2247bbb4936f6d48c4214641a5a466af">ProcEventInfoBuilder::WithSpellPhaseMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithSpellPhaseMask(uint32 spellPhaseMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:69</div></div>
+<div class="ttc" id="aa29234_html_a4a2faf802f7ef682e7be2b7ada7a0ff5"><div class="ttname"><a href="../../d6/dff/a29234.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">ProcEventInfoBuilder::WithActor</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithActor(Unit *actor)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:39</div></div>
+<div class="ttc" id="aa29234_html_a83de461b19bd737c5aa2e7fd3ad2a302"><div class="ttname"><a href="../../d6/dff/a29234.html#a83de461b19bd737c5aa2e7fd3ad2a302">ProcEventInfoBuilder::WithTypeMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithTypeMask(uint32 typeMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:57</div></div>
+<div class="ttc" id="aa29234_html_ae0f8d3a43a218b4459db0aa3fee95bf0"><div class="ttname"><a href="../../d6/dff/a29234.html#ae0f8d3a43a218b4459db0aa3fee95bf0">ProcEventInfoBuilder::Build</a></div><div class="ttdeci">ProcEventInfo Build()</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:111</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00043">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ENEMY</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00134">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00248">PROC_SPELL_PHASE_CAST</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
 
 </div>
 </div>
-<a id="aa109507c0c4b2235951bbd288277f13c" name="aa109507c0c4b2235951bbd288277f13c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa109507c0c4b2235951bbd288277f13c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/19]</span></h2>
+<a id="adc4f7536f5fbc531ee25c5e2e8aa823c" name="adc4f7536f5fbc531ee25c5e2e8aa823c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc4f7536f5fbc531ee25c5e2e8aa823c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -302,13 +287,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Combined_Level60Reduction_WithCooldown&#160;</td>
+          <td class="paramtype">ActorSide_FinishPhase_ReturnsNullptr&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -318,36 +303,35 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  197</span>{</div>
-<div class="line"><span class="lineno">  198</span>    _scenario-&gt;WithAura(12345);</div>
-<div class="line"><span class="lineno">  199</span>    _scenario-&gt;WithActorLevel(80);</div>
-<div class="line"><span class="lineno">  200</span> </div>
-<div class="line"><span class="lineno">  201</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  202</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(30.0f)</div>
-<div class="line"><span class="lineno">  203</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../dd/deb/a01628.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
-<div class="line"><span class="lineno">  204</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(1000ms)</div>
-<div class="line"><span class="lineno">  205</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  206</span> </div>
-<div class="line"><span class="lineno">  207</span>    <span class="comment">// Level 80: 30% * (1 - 20/30) = 10% effective chance</span></div>
-<div class="line"><span class="lineno">  208</span>    <span class="comment">// Roll of 5 should pass</span></div>
-<div class="line"><span class="lineno">  209</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry, 5.0f));</div>
-<div class="line"><span class="lineno">  210</span> </div>
-<div class="line"><span class="lineno">  211</span>    <span class="comment">// Blocked by cooldown</span></div>
-<div class="line"><span class="lineno">  212</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry, 5.0f));</div>
-<div class="line"><span class="lineno">  213</span> </div>
-<div class="line"><span class="lineno">  214</span>    <span class="comment">// Wait and try again</span></div>
-<div class="line"><span class="lineno">  215</span>    _scenario-&gt;AdvanceTime(1100ms);</div>
-<div class="line"><span class="lineno">  216</span> </div>
-<div class="line"><span class="lineno">  217</span>    <span class="comment">// Roll of 15 should fail (10% chance)</span></div>
-<div class="line"><span class="lineno">  218</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry, 15.0f));</div>
-<div class="line"><span class="lineno">  219</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   89</span>{</div>
+<div class="line"><span class="lineno">   90</span>    <span class="comment">// Scenario: Rogue has Ruthlessness aura, finishes Eviscerate.</span></div>
+<div class="line"><span class="lineno">   91</span>    <span class="comment">// FINISH phase: actor=Rogue, actionTarget=nullptr (no victim passed)</span></div>
+<div class="line"><span class="lineno">   92</span>    <span class="comment">// triggerCaster is the aura owner (Rogue), which == actor</span></div>
+<div class="line"><span class="lineno">   93</span>    <span class="comment">// Result: returns nullptr (CastSpell handles this via implicit targeting)</span></div>
+<div class="line"><span class="lineno">   94</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../d6/dff/a29234.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">   95</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">   96</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<span class="keyword">nullptr</span>)</div>
+<div class="line"><span class="lineno">   97</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a>)</div>
+<div class="line"><span class="lineno">   98</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>)</div>
+<div class="line"><span class="lineno">   99</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">  100</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  101</span> </div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>; <span class="comment">// aura owner</span></div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* result = <a class="code hl_function" href="../../d0/dc2/a00104.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>    EXPECT_EQ(result, <span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">  106</span>}</div>
+<div class="ttc" id="aa01637_html_a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799"><div class="ttname"><a href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></div><div class="ttdeci">@ PROC_HIT_NORMAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:257</div></div>
+<div class="ttc" id="aa01637_html_addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b"><div class="ttname"><a href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_FINISH</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:250</div></div>
+<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:116</div></div>
+<div class="ttc" id="aa29234_html_ac8d9c890333158313fb6bd9bdcd14fcf"><div class="ttname"><a href="../../d6/dff/a29234.html#ac8d9c890333158313fb6bd9bdcd14fcf">ProcEventInfoBuilder::WithHitMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithHitMask(uint32 hitMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:75</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00281">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00116">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a>, <a class="el" href="../../#l00257">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00250">PROC_SPELL_PHASE_FINISH</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
 
 </div>
 </div>
-<a id="a485ca0c9676a25a6fd8b861c804696d7" name="a485ca0c9676a25a6fd8b861c804696d7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a485ca0c9676a25a6fd8b861c804696d7">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/19]</span></h2>
+<a id="a6349a6956dcb722f54714e939b3ccb12" name="a6349a6956dcb722f54714e939b3ccb12"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6349a6956dcb722f54714e939b3ccb12">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -355,13 +339,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Combined_PPM_AndCooldown&#160;</td>
+          <td class="paramtype">ActorSide_HitPhase_TargetsEnemy&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -371,391 +355,32 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  174</span>{</div>
-<div class="line"><span class="lineno">  175</span>    _scenario-&gt;WithAura(12345);</div>
-<div class="line"><span class="lineno">  176</span>    _scenario-&gt;WithWeaponSpeed(0, 2500);  <span class="comment">// BASE_ATTACK = 2500ms</span></div>
-<div class="line"><span class="lineno">  177</span> </div>
-<div class="line"><span class="lineno">  178</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  179</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)  <span class="comment">// 25% with 2500ms weapon</span></div>
-<div class="line"><span class="lineno">  180</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(1000ms)</div>
-<div class="line"><span class="lineno">  181</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  182</span> </div>
-<div class="line"><span class="lineno">  183</span>    <span class="comment">// First proc (roll 0 = always pass)</span></div>
-<div class="line"><span class="lineno">  184</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry, 0.0f));</div>
-<div class="line"><span class="lineno">  185</span> </div>
-<div class="line"><span class="lineno">  186</span>    <span class="comment">// Blocked by cooldown even if roll would pass</span></div>
-<div class="line"><span class="lineno">  187</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry, 0.0f));</div>
-<div class="line"><span class="lineno">  188</span> </div>
-<div class="line"><span class="lineno">  189</span>    <span class="comment">// Wait for cooldown</span></div>
-<div class="line"><span class="lineno">  190</span>    _scenario-&gt;AdvanceTime(1100ms);</div>
-<div class="line"><span class="lineno">  191</span> </div>
-<div class="line"><span class="lineno">  192</span>    <span class="comment">// Can proc again</span></div>
-<div class="line"><span class="lineno">  193</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry, 0.0f));</div>
-<div class="line"><span class="lineno">  194</span>}</div>
-<div class="ttc" id="aa29205_html_aa373ae9df6697d722e7f6084a70c8b7a"><div class="ttname"><a href="../../d6/db7/a29205.html#aa373ae9df6697d722e7f6084a70c8b7a">SpellProcEntryBuilder::WithProcsPerMinute</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithProcsPerMinute(float ppm)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:202</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
-
-</div>
-</div>
-<a id="aa5e23f21d78acf55b11a3edfe0017068" name="aa5e23f21d78acf55b11a3edfe0017068"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa5e23f21d78acf55b11a3edfe0017068">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/19]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EdgeCase_ManyCharges&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  396</span>{</div>
-<div class="line"><span class="lineno">  397</span>    _scenario-&gt;WithAura(12345, 100);  <span class="comment">// 100 charges</span></div>
-<div class="line"><span class="lineno">  398</span> </div>
-<div class="line"><span class="lineno">  399</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  400</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">  401</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  402</span> </div>
-<div class="line"><span class="lineno">  403</span>    <span class="comment">// Consume all charges</span></div>
-<div class="line"><span class="lineno">  404</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 100; i &gt; 0; --i)</div>
-<div class="line"><span class="lineno">  405</span>    {</div>
-<div class="line"><span class="lineno">  406</span>        EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), i);</div>
-<div class="line"><span class="lineno">  407</span>        EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  408</span>    }</div>
-<div class="line"><span class="lineno">  409</span> </div>
-<div class="line"><span class="lineno">  410</span>    EXPECT_TRUE(_scenario-&gt;GetAura()-&gt;IsRemoved());</div>
-<div class="line"><span class="lineno">  411</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
-
-</div>
-</div>
-<a id="a9b3f0e79a13fd923e704d971188beabf" name="a9b3f0e79a13fd923e704d971188beabf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9b3f0e79a13fd923e704d971188beabf">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/19]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EdgeCase_NoAura_NoProcPossible&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  350</span>{</div>
-<div class="line"><span class="lineno">  351</span>    <span class="comment">// Don&#39;t set up aura</span></div>
-<div class="line"><span class="lineno">  352</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  353</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">  354</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  355</span> </div>
-<div class="line"><span class="lineno">  356</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  357</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
-
-</div>
-</div>
-<a id="abc9d5b5417f7a9db72bc69a6dee8991c" name="abc9d5b5417f7a9db72bc69a6dee8991c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abc9d5b5417f7a9db72bc69a6dee8991c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/19]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EdgeCase_VeryLongCooldown&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  375</span>{</div>
-<div class="line"><span class="lineno">  376</span>    _scenario-&gt;WithAura(12345);</div>
-<div class="line"><span class="lineno">  377</span> </div>
-<div class="line"><span class="lineno">  378</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  379</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">  380</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(300000ms)  <span class="comment">// 5 minute cooldown</span></div>
-<div class="line"><span class="lineno">  381</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  382</span> </div>
-<div class="line"><span class="lineno">  383</span>    <span class="comment">// First proc</span></div>
-<div class="line"><span class="lineno">  384</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  385</span> </div>
-<div class="line"><span class="lineno">  386</span>    <span class="comment">// Blocked even after 4 minutes</span></div>
-<div class="line"><span class="lineno">  387</span>    _scenario-&gt;AdvanceTime(240000ms);</div>
-<div class="line"><span class="lineno">  388</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  389</span> </div>
-<div class="line"><span class="lineno">  390</span>    <span class="comment">// Allowed after 5 minutes</span></div>
-<div class="line"><span class="lineno">  391</span>    _scenario-&gt;AdvanceTime(60001ms);</div>
-<div class="line"><span class="lineno">  392</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  393</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
-
-</div>
-</div>
-<a id="ad9d5ae60773ca5e0adec858f943d6219" name="ad9d5ae60773ca5e0adec858f943d6219"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9d5ae60773ca5e0adec858f943d6219">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/19]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EdgeCase_ZeroCooldown_AllowsRapidProcs&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  360</span>{</div>
-<div class="line"><span class="lineno">  361</span>    _scenario-&gt;WithAura(12345);</div>
-<div class="line"><span class="lineno">  362</span> </div>
-<div class="line"><span class="lineno">  363</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  364</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">  365</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(0ms)</div>
-<div class="line"><span class="lineno">  366</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  367</span> </div>
-<div class="line"><span class="lineno">  368</span>    <span class="comment">// Multiple rapid procs should all succeed</span></div>
-<div class="line"><span class="lineno">  369</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  370</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  371</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  372</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
-
-</div>
-</div>
-<a id="af1b16c6116add0a4321bbeea7a241688" name="af1b16c6116add0a4321bbeea7a241688"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1b16c6116add0a4321bbeea7a241688">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/19]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">FullFlow_BasicProc_0Percent&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   67</span>{</div>
-<div class="line"><span class="lineno">   68</span>    _scenario-&gt;WithAura(12345);</div>
-<div class="line"><span class="lineno">   69</span> </div>
-<div class="line"><span class="lineno">   70</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">   71</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(0.0f)</div>
-<div class="line"><span class="lineno">   72</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">   73</span> </div>
-<div class="line"><span class="lineno">   74</span>    <span class="comment">// 0% chance should never proc (when roll is &gt; 0)</span></div>
-<div class="line"><span class="lineno">   75</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry, 50.0f));</div>
-<div class="line"><span class="lineno">   76</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
-
-</div>
-</div>
-<a id="a19a74f2d1aaf27d22fa48f02d6b2d5f9" name="a19a74f2d1aaf27d22fa48f02d6b2d5f9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19a74f2d1aaf27d22fa48f02d6b2d5f9">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/19]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">FullFlow_BasicProc_100Percent&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
-<div class="line"><span class="lineno">   56</span>    _scenario-&gt;WithAura(12345);</div>
-<div class="line"><span class="lineno">   57</span> </div>
-<div class="line"><span class="lineno">   58</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">   59</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">   60</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">   61</span> </div>
-<div class="line"><span class="lineno">   62</span>    <span class="comment">// 100% chance should always proc</span></div>
-<div class="line"><span class="lineno">   63</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">   64</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
-
-</div>
-</div>
-<a id="a35e27540c06c06c8f59ef51bb1a9d42e" name="a35e27540c06c06c8f59ef51bb1a9d42e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a35e27540c06c06c8f59ef51bb1a9d42e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/19]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">FullFlow_WithCharges&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
-<div class="line"><span class="lineno">  102</span>    _scenario-&gt;WithAura(12345, 3);  <span class="comment">// 3 charges</span></div>
-<div class="line"><span class="lineno">  103</span> </div>
-<div class="line"><span class="lineno">  104</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  105</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">  106</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  107</span> </div>
-<div class="line"><span class="lineno">  108</span>    <span class="comment">// First proc - 3 -&gt; 2 charges</span></div>
-<div class="line"><span class="lineno">  109</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  110</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 2);</div>
-<div class="line"><span class="lineno">  111</span> </div>
-<div class="line"><span class="lineno">  112</span>    <span class="comment">// Second proc - 2 -&gt; 1 charges</span></div>
-<div class="line"><span class="lineno">  113</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  114</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 1);</div>
-<div class="line"><span class="lineno">  115</span> </div>
-<div class="line"><span class="lineno">  116</span>    <span class="comment">// Third proc - 1 -&gt; 0 charges, aura removed</span></div>
-<div class="line"><span class="lineno">  117</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  118</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 0);</div>
-<div class="line"><span class="lineno">  119</span>    EXPECT_TRUE(_scenario-&gt;GetAura()-&gt;IsRemoved());</div>
-<div class="line"><span class="lineno">  120</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
-
-</div>
-</div>
-<a id="a96cc3a634c4f6bcce6debcc6e36f4d25" name="a96cc3a634c4f6bcce6debcc6e36f4d25"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a96cc3a634c4f6bcce6debcc6e36f4d25">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/19]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">FullFlow_WithCooldown&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   79</span>{</div>
-<div class="line"><span class="lineno">   80</span>    _scenario-&gt;WithAura(12345);</div>
+<div class="fragment"><div class="line"><span class="lineno">   69</span>{</div>
+<div class="line"><span class="lineno">   70</span>    <span class="comment">// Scenario: Rogue has Ruthlessness aura, casts Eviscerate on enemy.</span></div>
+<div class="line"><span class="lineno">   71</span>    <span class="comment">// HIT phase: actor=Rogue, actionTarget=Enemy</span></div>
+<div class="line"><span class="lineno">   72</span>    <span class="comment">// triggerCaster is the aura owner (Rogue), which == actor</span></div>
+<div class="line"><span class="lineno">   73</span>    <span class="comment">// Result: returns actionTarget (Enemy)</span></div>
+<div class="line"><span class="lineno">   74</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../d6/dff/a29234.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">   75</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">   76</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<a class="code hl_variable" href="../../d9/d0b/a05125.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>)</div>
+<div class="line"><span class="lineno">   77</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a>)</div>
+<div class="line"><span class="lineno">   78</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</div>
+<div class="line"><span class="lineno">   79</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">   80</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
 <div class="line"><span class="lineno">   81</span> </div>
-<div class="line"><span class="lineno">   82</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">   83</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">   84</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(1000ms)</div>
-<div class="line"><span class="lineno">   85</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>    <span class="comment">// First proc succeeds</span></div>
-<div class="line"><span class="lineno">   88</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>    <span class="comment">// Second proc blocked by cooldown</span></div>
-<div class="line"><span class="lineno">   91</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">   92</span> </div>
-<div class="line"><span class="lineno">   93</span>    <span class="comment">// Wait for cooldown</span></div>
-<div class="line"><span class="lineno">   94</span>    _scenario-&gt;AdvanceTime(1100ms);</div>
-<div class="line"><span class="lineno">   95</span> </div>
-<div class="line"><span class="lineno">   96</span>    <span class="comment">// Third proc succeeds</span></div>
-<div class="line"><span class="lineno">   97</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">   98</span>}</div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>; <span class="comment">// aura owner</span></div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* result = <a class="code hl_function" href="../../d0/dc2/a00104.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>    EXPECT_EQ(result, <a class="code hl_variable" href="../../d9/d0b/a05125.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>);</div>
+<div class="line"><span class="lineno">   86</span>}</div>
+<div class="ttc" id="aa01637_html_addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34"><div class="ttname"><a href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_HIT</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:249</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00043">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ENEMY</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00116">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a>, <a class="el" href="../../#l00257">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00249">PROC_SPELL_PHASE_HIT</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
 
 </div>
 </div>
-<a id="a5cf9d910c9243364707c2f1dedd0582d" name="a5cf9d910c9243364707c2f1dedd0582d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5cf9d910c9243364707c2f1dedd0582d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/19]</span></h2>
+<a id="a8d1c35ebc225b6f64d08e5748e6adbfe" name="a8d1c35ebc225b6f64d08e5748e6adbfe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8d1c35ebc225b6f64d08e5748e6adbfe">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -763,13 +388,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">FullFlow_WithStacks&#160;</td>
+          <td class="paramtype">ActorSide_NullActionTarget_ReturnsNullptr&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -779,32 +404,29 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  123</span>{</div>
-<div class="line"><span class="lineno">  124</span>    _scenario-&gt;WithAura(12345, 0, 5);  <span class="comment">// 5 stacks, no charges</span></div>
-<div class="line"><span class="lineno">  125</span> </div>
-<div class="line"><span class="lineno">  126</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  127</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">  128</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../dd/deb/a01628.html#a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>)</div>
-<div class="line"><span class="lineno">  129</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  130</span> </div>
-<div class="line"><span class="lineno">  131</span>    <span class="comment">// Each proc consumes one stack</span></div>
-<div class="line"><span class="lineno">  132</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 5; i &gt; 0; --i)</div>
-<div class="line"><span class="lineno">  133</span>    {</div>
-<div class="line"><span class="lineno">  134</span>        EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetStackAmount(), i);</div>
-<div class="line"><span class="lineno">  135</span>        EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  136</span>    }</div>
-<div class="line"><span class="lineno">  137</span> </div>
-<div class="line"><span class="lineno">  138</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetStackAmount(), 0);</div>
-<div class="line"><span class="lineno">  139</span>    EXPECT_TRUE(_scenario-&gt;GetAura()-&gt;IsRemoved());</div>
-<div class="line"><span class="lineno">  140</span>}</div>
-<div class="ttc" id="aa01628_html_a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74"><div class="ttname"><a href="../../dd/deb/a01628.html#a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74">PROC_ATTR_USE_STACKS_FOR_CHARGES</a></div><div class="ttdeci">@ PROC_ATTR_USE_STACKS_FOR_CHARGES</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:280</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  155</span>{</div>
+<div class="line"><span class="lineno">  156</span>    <span class="comment">// Generic test: when actor-side proc has nullptr actionTarget,</span></div>
+<div class="line"><span class="lineno">  157</span>    <span class="comment">// result is nullptr regardless of phase</span></div>
+<div class="line"><span class="lineno">  158</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../d6/dff/a29234.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  159</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">  160</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<span class="keyword">nullptr</span>)</div>
+<div class="line"><span class="lineno">  161</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>)</div>
+<div class="line"><span class="lineno">  162</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">  163</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  164</span> </div>
+<div class="line"><span class="lineno">  165</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>;</div>
+<div class="line"><span class="lineno">  166</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* result = <a class="code hl_function" href="../../d0/dc2/a00104.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">  167</span> </div>
+<div class="line"><span class="lineno">  168</span>    EXPECT_EQ(result, <span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">  169</span>}</div>
+<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_DONE_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:113</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00280">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00113">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00257">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
 
 </div>
 </div>
-<a id="ad2fb2ff6f41f7e7771cb74d49a945a2f" name="ad2fb2ff6f41f7e7771cb74d49a945a2f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad2fb2ff6f41f7e7771cb74d49a945a2f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/19]</span></h2>
+<a id="ac01a72b5a8b9e24ce8306b05cca87dbb" name="ac01a72b5a8b9e24ce8306b05cca87dbb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac01a72b5a8b9e24ce8306b05cca87dbb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -812,13 +434,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Scenario_ArtOfWar&#160;</td>
+          <td class="paramtype">SelfProc_ActorIsActionTarget&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -828,30 +450,30 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  277</span>{</div>
-<div class="line"><span class="lineno">  278</span>    <span class="comment">// Art of War: 2 charges (typically)</span></div>
-<div class="line"><span class="lineno">  279</span>    _scenario-&gt;WithAura(53486, 2);  <span class="comment">// Art of War</span></div>
-<div class="line"><span class="lineno">  280</span> </div>
-<div class="line"><span class="lineno">  281</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  282</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">  283</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  284</span> </div>
-<div class="line"><span class="lineno">  285</span>    <span class="comment">// First Exorcism - consumes charge</span></div>
-<div class="line"><span class="lineno">  286</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  287</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 1);</div>
-<div class="line"><span class="lineno">  288</span> </div>
-<div class="line"><span class="lineno">  289</span>    <span class="comment">// Second Exorcism - consumes last charge</span></div>
-<div class="line"><span class="lineno">  290</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  291</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 0);</div>
-<div class="line"><span class="lineno">  292</span>    EXPECT_TRUE(_scenario-&gt;GetAura()-&gt;IsRemoved());</div>
-<div class="line"><span class="lineno">  293</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  189</span>{</div>
+<div class="line"><span class="lineno">  190</span>    <span class="comment">// Edge case: actor == actionTarget (self-damage/self-heal)</span></div>
+<div class="line"><span class="lineno">  191</span>    <span class="comment">// triggerCaster == actor, returns actionTarget (which is also actor)</span></div>
+<div class="line"><span class="lineno">  192</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../d6/dff/a29234.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  193</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">  194</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">  195</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a>)</div>
+<div class="line"><span class="lineno">  196</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</div>
+<div class="line"><span class="lineno">  197</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">  198</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  199</span> </div>
+<div class="line"><span class="lineno">  200</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>;</div>
+<div class="line"><span class="lineno">  201</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* result = <a class="code hl_function" href="../../d0/dc2/a00104.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">  202</span> </div>
+<div class="line"><span class="lineno">  203</span>    EXPECT_EQ(result, <a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>);</div>
+<div class="line"><span class="lineno">  204</span>}</div>
+<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:131</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a>, <a class="el" href="../../#l00257">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00249">PROC_SPELL_PHASE_HIT</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
 
 </div>
 </div>
-<a id="a7bda89f7f74cbe336b48303ff1b672b1" name="a7bda89f7f74cbe336b48303ff1b672b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7bda89f7f74cbe336b48303ff1b672b1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/19]</span></h2>
+<a id="adc3e9713f51dc9d0659472c769da1073" name="adc3e9713f51dc9d0659472c769da1073"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc3e9713f51dc9d0659472c769da1073">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -859,13 +481,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Scenario_LeaderOfThePack&#160;</td>
+          <td class="paramtype">VictimSide_HitPhase_TargetsAttacker&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -875,37 +497,32 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  251</span>{</div>
-<div class="line"><span class="lineno">  252</span>    <span class="comment">// Leader of the Pack: 6 second ICD</span></div>
-<div class="line"><span class="lineno">  253</span>    _scenario-&gt;WithAura(24932);</div>
-<div class="line"><span class="lineno">  254</span> </div>
-<div class="line"><span class="lineno">  255</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  256</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">  257</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(6000ms)</div>
-<div class="line"><span class="lineno">  258</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  259</span> </div>
-<div class="line"><span class="lineno">  260</span>    <span class="comment">// First crit - procs</span></div>
-<div class="line"><span class="lineno">  261</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  262</span> </div>
-<div class="line"><span class="lineno">  263</span>    <span class="comment">// Second crit at 1 second - blocked</span></div>
-<div class="line"><span class="lineno">  264</span>    _scenario-&gt;AdvanceTime(1000ms);</div>
-<div class="line"><span class="lineno">  265</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  266</span> </div>
-<div class="line"><span class="lineno">  267</span>    <span class="comment">// Third crit at 5 seconds - blocked</span></div>
-<div class="line"><span class="lineno">  268</span>    _scenario-&gt;AdvanceTime(4000ms);</div>
-<div class="line"><span class="lineno">  269</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  270</span> </div>
-<div class="line"><span class="lineno">  271</span>    <span class="comment">// Fourth crit at 6.1 seconds - allowed</span></div>
-<div class="line"><span class="lineno">  272</span>    _scenario-&gt;AdvanceTime(1100ms);</div>
-<div class="line"><span class="lineno">  273</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  274</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  131</span>{</div>
+<div class="line"><span class="lineno">  132</span>    <span class="comment">// Scenario: Enemy has a &quot;when hit&quot; proc aura. Rogue hits Enemy.</span></div>
+<div class="line"><span class="lineno">  133</span>    <span class="comment">// HIT phase: actor=Rogue (attacker), actionTarget=Enemy (victim)</span></div>
+<div class="line"><span class="lineno">  134</span>    <span class="comment">// triggerCaster is the aura owner (Enemy), which != actor (Rogue)</span></div>
+<div class="line"><span class="lineno">  135</span>    <span class="comment">// Result: returns actor (Rogue) — the attacker</span></div>
+<div class="line"><span class="lineno">  136</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../d6/dff/a29234.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  137</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">  138</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<a class="code hl_variable" href="../../d9/d0b/a05125.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>)</div>
+<div class="line"><span class="lineno">  139</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>)</div>
+<div class="line"><span class="lineno">  140</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</div>
+<div class="line"><span class="lineno">  141</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">  142</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  143</span> </div>
+<div class="line"><span class="lineno">  144</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d9/d0b/a05125.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>; <span class="comment">// aura owner (victim)</span></div>
+<div class="line"><span class="lineno">  145</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* result = <a class="code hl_function" href="../../d0/dc2/a00104.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">  146</span> </div>
+<div class="line"><span class="lineno">  147</span>    EXPECT_EQ(result, <a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>);</div>
+<div class="line"><span class="lineno">  148</span>}</div>
+<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:114</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00043">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ENEMY</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00114">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00257">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00249">PROC_SPELL_PHASE_HIT</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
 
 </div>
 </div>
-<a id="a121e660142edeb8b8867984871635142" name="a121e660142edeb8b8867984871635142"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a121e660142edeb8b8867984871635142">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/19]</span></h2>
+<a id="a65154972e92d7ebcbd52504ba1d20322" name="a65154972e92d7ebcbd52504ba1d20322"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65154972e92d7ebcbd52504ba1d20322">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -913,13 +530,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dc/dd6/a29570.html">SpellProcTargetResolutionTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Scenario_LightningShield&#160;</td>
+          <td class="paramtype">VictimSide_NullActionTarget_StillReturnsActor&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -929,187 +546,23 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  296</span>{</div>
-<div class="line"><span class="lineno">  297</span>    <span class="comment">// Lightning Shield: 3 charges (orbs)</span></div>
-<div class="line"><span class="lineno">  298</span>    _scenario-&gt;WithAura(324, 3);  <span class="comment">// Lightning Shield Rank 1</span></div>
-<div class="line"><span class="lineno">  299</span> </div>
-<div class="line"><span class="lineno">  300</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  301</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">  302</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  303</span> </div>
-<div class="line"><span class="lineno">  304</span>    <span class="comment">// First hit - uses orb</span></div>
-<div class="line"><span class="lineno">  305</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  306</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 2);</div>
-<div class="line"><span class="lineno">  307</span> </div>
-<div class="line"><span class="lineno">  308</span>    <span class="comment">// Second hit - uses orb</span></div>
-<div class="line"><span class="lineno">  309</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  310</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 1);</div>
-<div class="line"><span class="lineno">  311</span> </div>
-<div class="line"><span class="lineno">  312</span>    <span class="comment">// Third hit - last orb, aura removed</span></div>
-<div class="line"><span class="lineno">  313</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  314</span>    EXPECT_TRUE(_scenario-&gt;GetAura()-&gt;IsRemoved());</div>
-<div class="line"><span class="lineno">  315</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  172</span>{</div>
+<div class="line"><span class="lineno">  173</span>    <span class="comment">// When victim-side proc has nullptr actionTarget, the expression</span></div>
+<div class="line"><span class="lineno">  174</span>    <span class="comment">// still returns actor (the attacker) since triggerCaster != actor</span></div>
+<div class="line"><span class="lineno">  175</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../d6/dff/a29234.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  176</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">  177</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<span class="keyword">nullptr</span>)</div>
+<div class="line"><span class="lineno">  178</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>)</div>
+<div class="line"><span class="lineno">  179</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">  180</span>        .<a class="code hl_function" href="../../d6/dff/a29234.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  181</span> </div>
+<div class="line"><span class="lineno">  182</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d9/d0b/a05125.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>; <span class="comment">// aura owner (victim), != actor</span></div>
+<div class="line"><span class="lineno">  183</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* result = <a class="code hl_function" href="../../d0/dc2/a00104.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">  184</span> </div>
+<div class="line"><span class="lineno">  185</span>    EXPECT_EQ(result, <a class="code hl_variable" href="../../d9/d0b/a05125.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>);</div>
+<div class="line"><span class="lineno">  186</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
-
-</div>
-</div>
-<a id="a4aea6e742bac43dda127936d36b603a8" name="a4aea6e742bac43dda127936d36b603a8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4aea6e742bac43dda127936d36b603a8">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/19]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Scenario_OmenOfClarity&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  226</span>{</div>
-<div class="line"><span class="lineno">  227</span>    <span class="comment">// Omen of Clarity: 6 PPM, no cooldown, no charges</span></div>
-<div class="line"><span class="lineno">  228</span>    _scenario-&gt;WithAura(16864);  <span class="comment">// Omen of Clarity</span></div>
-<div class="line"><span class="lineno">  229</span>    _scenario-&gt;WithWeaponSpeed(0, 2500);  <span class="comment">// Staff</span></div>
-<div class="line"><span class="lineno">  230</span> </div>
-<div class="line"><span class="lineno">  231</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  232</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)  <span class="comment">// 25% with 2500ms</span></div>
-<div class="line"><span class="lineno">  233</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  234</span> </div>
-<div class="line"><span class="lineno">  235</span>    <span class="comment">// Simulate multiple hits</span></div>
-<div class="line"><span class="lineno">  236</span>    <span class="keywordtype">int</span> procCount = 0;</div>
-<div class="line"><span class="lineno">  237</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; 10; ++i)</div>
-<div class="line"><span class="lineno">  238</span>    {</div>
-<div class="line"><span class="lineno">  239</span>        <span class="comment">// Roll values simulating ~25% success rate</span></div>
-<div class="line"><span class="lineno">  240</span>        <span class="keywordtype">float</span> roll = (i % 4 == 0) ? 10.0f : 50.0f;</div>
-<div class="line"><span class="lineno">  241</span>        <span class="keywordflow">if</span> (_scenario-&gt;SimulateProc(procEntry, roll))</div>
-<div class="line"><span class="lineno">  242</span>            procCount++;</div>
-<div class="line"><span class="lineno">  243</span>    }</div>
-<div class="line"><span class="lineno">  244</span> </div>
-<div class="line"><span class="lineno">  245</span>    <span class="comment">// With deterministic rolls, should have 3 procs (indexes 0, 4, 8)</span></div>
-<div class="line"><span class="lineno">  246</span>    <span class="comment">// But our test is roll &gt; chance check, so roll 10 fails against 25% chance</span></div>
-<div class="line"><span class="lineno">  247</span>    <span class="comment">// Actually roll 0 always passes, non-zero rolls check roll &gt; chance</span></div>
-<div class="line"><span class="lineno">  248</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
-
-</div>
-</div>
-<a id="aee6d5257c9330329d3161f0da69ff4b7" name="aee6d5257c9330329d3161f0da69ff4b7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aee6d5257c9330329d3161f0da69ff4b7">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/19]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Scenario_WanderingPlague&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  318</span>{</div>
-<div class="line"><span class="lineno">  319</span>    <span class="comment">// Wandering Plague: 1 second ICD</span></div>
-<div class="line"><span class="lineno">  320</span>    _scenario-&gt;WithAura(49217);</div>
-<div class="line"><span class="lineno">  321</span> </div>
-<div class="line"><span class="lineno">  322</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  323</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
-<div class="line"><span class="lineno">  324</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(1000ms)</div>
-<div class="line"><span class="lineno">  325</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  326</span> </div>
-<div class="line"><span class="lineno">  327</span>    <span class="comment">// First tick procs</span></div>
-<div class="line"><span class="lineno">  328</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  329</span> </div>
-<div class="line"><span class="lineno">  330</span>    <span class="comment">// Rapid ticks blocked</span></div>
-<div class="line"><span class="lineno">  331</span>    _scenario-&gt;AdvanceTime(200ms);</div>
-<div class="line"><span class="lineno">  332</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  333</span> </div>
-<div class="line"><span class="lineno">  334</span>    _scenario-&gt;AdvanceTime(200ms);</div>
-<div class="line"><span class="lineno">  335</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  336</span> </div>
-<div class="line"><span class="lineno">  337</span>    _scenario-&gt;AdvanceTime(200ms);</div>
-<div class="line"><span class="lineno">  338</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  339</span> </div>
-<div class="line"><span class="lineno">  340</span>    <span class="comment">// After 1 second total, can proc again</span></div>
-<div class="line"><span class="lineno">  341</span>    _scenario-&gt;AdvanceTime(600ms);</div>
-<div class="line"><span class="lineno">  342</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
-<div class="line"><span class="lineno">  343</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
-
-</div>
-</div>
-<a id="abe1d49b795fc6def60b42b113cec4b6f" name="abe1d49b795fc6def60b42b113cec4b6f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abe1d49b795fc6def60b42b113cec4b6f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/19]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d71/a29413.html">SpellProcPipelineTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">WeaponSpeed_AffectsPPMChance&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  443</span>{</div>
-<div class="line"><span class="lineno">  444</span>    _scenario-&gt;WithAura(12345);</div>
-<div class="line"><span class="lineno">  445</span> </div>
-<div class="line"><span class="lineno">  446</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d6/db7/a29205.html">SpellProcEntryBuilder</a>()</div>
-<div class="line"><span class="lineno">  447</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)</div>
-<div class="line"><span class="lineno">  448</span>        .<a class="code hl_function" href="../../d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
-<div class="line"><span class="lineno">  449</span> </div>
-<div class="line"><span class="lineno">  450</span>    <span class="comment">// Fast dagger (1400ms): 14% chance</span></div>
-<div class="line"><span class="lineno">  451</span>    _scenario-&gt;WithWeaponSpeed(0, 1400);</div>
-<div class="line"><span class="lineno">  452</span>    <span class="comment">// Roll of 10 should pass (&lt; 14%)</span></div>
-<div class="line"><span class="lineno">  453</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry, 10.0f));</div>
-<div class="line"><span class="lineno">  454</span> </div>
-<div class="line"><span class="lineno">  455</span>    <span class="comment">// Reset cooldown</span></div>
-<div class="line"><span class="lineno">  456</span>    _scenario-&gt;GetAura()-&gt;ResetProcCooldown();</div>
-<div class="line"><span class="lineno">  457</span> </div>
-<div class="line"><span class="lineno">  458</span>    <span class="comment">// Slow 2H (3300ms): 33% chance</span></div>
-<div class="line"><span class="lineno">  459</span>    _scenario-&gt;WithWeaponSpeed(0, 3300);</div>
-<div class="line"><span class="lineno">  460</span>    <span class="comment">// Roll of 30 should pass (&lt; 33%)</span></div>
-<div class="line"><span class="lineno">  461</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry, 30.0f));</div>
-<div class="line"><span class="lineno">  462</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00043">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ENEMY</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00114">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00257">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
 
 </div>
 </div>
@@ -1118,8 +571,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d0/dc2/a00104.html">SpellProcPipelineTest.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 21:37:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d0/dc2/a00104.html">SpellProcTargetResolutionTest.cpp</a></li>
+    <li class="footer">Generated on Mon May 4 2026 21:41:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

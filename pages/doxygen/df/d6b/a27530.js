@@ -1,6 +1,6 @@
 var a27530 =
 [
-    [ "HandleRemove", "df/d6b/a27530.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
-    [ "PrepareAuraScript", "df/d6b/a27530.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
-    [ "Register", "df/d6b/a27530.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
+    [ "HandleOnHit", "df/d6b/a27530.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "df/d6b/a27530.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "df/d6b/a27530.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

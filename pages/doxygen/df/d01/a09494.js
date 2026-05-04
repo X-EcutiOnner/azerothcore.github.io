@@ -1,14 +1,22 @@
 var a09494 =
 [
-    [ "WorldObjectSearcher", "df/d01/a09494.html#a4c8b6202710f1539e55eb8d30031ce62", null ],
-    [ "Visit", "df/d01/a09494.html#ace0642ee6949a06f9b94e350b49e64c1", null ],
-    [ "Visit", "df/d01/a09494.html#ac484deeb43ead6b9ea73182da97ff3ba", null ],
-    [ "Visit", "df/d01/a09494.html#a28a30052c55b2ffad85e8d2f4f008ff3", null ],
-    [ "Visit", "df/d01/a09494.html#a42fce9834443194e090e022f3f7618b0", null ],
-    [ "Visit", "df/d01/a09494.html#aae2b654236e3a85d9ba0b5ce48d5c315", null ],
-    [ "Visit", "df/d01/a09494.html#aa2742bc25a4773a487e9e8ff760644ea", null ],
-    [ "i_check", "df/d01/a09494.html#aa8af931f3d562aa1c31e774347db2e24", null ],
-    [ "i_mapTypeMask", "df/d01/a09494.html#a2910a3c0a932f2d3ea7d10d4541cbb39", null ],
-    [ "i_object", "df/d01/a09494.html#a8f705e476d2a32ca90d589d9b58b2c8d", null ],
-    [ "i_phaseMask", "df/d01/a09494.html#a5688db61fc9d297252987830eadb0ee5", null ]
+    [ "MapGridManager", "df/d01/a09494.html#af08729c03f8641a00ab1cc1b014214df", null ],
+    [ "CreateGrid", "df/d01/a09494.html#ac5daa221eb530e0b34a1950431cb4496", null ],
+    [ "GetCreatedCellsInGridCount", "df/d01/a09494.html#a322e14ef979b97017a7547194de6c1f0", null ],
+    [ "GetCreatedCellsInMapCount", "df/d01/a09494.html#a26255c8542bcfd6b706f73a401b4c5d2", null ],
+    [ "GetCreatedGridsCount", "df/d01/a09494.html#a7994a71cea924e66996161b049eb1d44", null ],
+    [ "GetGrid", "df/d01/a09494.html#a60c3abc9dbb707cee6d2c2ed02217c23", null ],
+    [ "GetLoadedGridsCount", "df/d01/a09494.html#a8acd42cf15f78053070102f530c443a2", null ],
+    [ "IsGridCreated", "df/d01/a09494.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a", null ],
+    [ "IsGridLoaded", "df/d01/a09494.html#a4cdf5925d6ebb358f501554c8b296424", null ],
+    [ "IsGridsFullyCreated", "df/d01/a09494.html#a479daebe69f976c11649c9c571eb18e0", null ],
+    [ "IsGridsFullyLoaded", "df/d01/a09494.html#ae2dd77cb2af985085103d49b4242f4a8", null ],
+    [ "IsValidGridCoordinates", "df/d01/a09494.html#a7d7957242615d753383e05a0ee5a1f82", null ],
+    [ "LoadGrid", "df/d01/a09494.html#aab0a821d9672cd485c4966034c2243d5", null ],
+    [ "UnloadGrid", "df/d01/a09494.html#ae381b54e599dce0c02815faf82711200", null ],
+    [ "_createdGridsCount", "df/d01/a09494.html#a6976d52c3af458e4d5885d2523cfafab", null ],
+    [ "_gridLock", "df/d01/a09494.html#aa2c2218a81a5d042925e5675948e242f", null ],
+    [ "_loadedGridsCount", "df/d01/a09494.html#a5a93290a0bbeec830a3223a72823ca4b", null ],
+    [ "_map", "df/d01/a09494.html#a16a35fb94355d6542a2ef634f5411243", null ],
+    [ "_mapGrid", "df/d01/a09494.html#acfac0df3926498e8a9aa581581f84e2c", null ]
 ];

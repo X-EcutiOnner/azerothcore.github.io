@@ -1,8 +1,7 @@
 var a24954 =
 [
-    [ "OnApply", "d0/d1c/a24954.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
-    [ "OnRemove", "d0/d1c/a24954.html#abd45d59ecd41274bd02c17fb066a521e", null ],
-    [ "PrepareAuraScript", "d0/d1c/a24954.html#af30811301599459bf2a99a68608a053f", null ],
-    [ "Register", "d0/d1c/a24954.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
-    [ "Validate", "d0/d1c/a24954.html#a29c5049e4455737ff96596a18af118d0", null ]
+    [ "PrepareSpellScript", "d0/d1c/a24954.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "d0/d1c/a24954.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "d0/d1c/a24954.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "d0/d1c/a24954.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

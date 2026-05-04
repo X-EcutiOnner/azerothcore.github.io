@@ -1,10 +1,15 @@
 var a15194 =
 [
-    [ "CurrId", "dc/dbb/a15194.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
-    [ "DestId", "dc/dbb/a15194.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
-    [ "o", "dc/dbb/a15194.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
-    [ "spellId", "dc/dbb/a15194.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
-    [ "x", "dc/dbb/a15194.html#a41c7bdb057d984f552a41835651d84f5", null ],
-    [ "y", "dc/dbb/a15194.html#abe083129d7a4e514e97eeae7cff40af5", null ],
-    [ "z", "dc/dbb/a15194.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
+    [ "npc_time_rift", "dc/dbb/a15194.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "dc/dbb/a15194.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "dc/dbb/a15194.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "dc/dbb/a15194.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "dc/dbb/a15194.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "dc/dbb/a15194.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "dc/dbb/a15194.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "dc/dbb/a15194.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "dc/dbb/a15194.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "dc/dbb/a15194.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "dc/dbb/a15194.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "dc/dbb/a15194.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

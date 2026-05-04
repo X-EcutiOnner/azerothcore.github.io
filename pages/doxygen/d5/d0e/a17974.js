@@ -1,5 +1,10 @@
 var a17974 =
 [
-    [ "at_lady_deathwhisper_entrance", "d5/d0e/a17974.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
-    [ "OnTrigger", "d5/d0e/a17974.html#a769c838c94a88af5492057909d88f3de", null ]
+    [ "npc_cult_fanaticAI", "d5/d0e/a17974.html#a766e536288b84110f88a8bd282e97932", null ],
+    [ "JustEngagedWith", "d5/d0e/a17974.html#a709b75f4b1519bc7c6988985a22d076f", null ],
+    [ "Reset", "d5/d0e/a17974.html#a772830df1d16d0463c8c00f14c337db0", null ],
+    [ "SpellHit", "d5/d0e/a17974.html#a17c02a83b522c9717de3d89517104e42", null ],
+    [ "UpdateAI", "d5/d0e/a17974.html#ac79afdab3721d78d2b7e5da360083cea", null ],
+    [ "_instance", "d5/d0e/a17974.html#a7448fdf85cccfcb12509b0274205bff4", null ],
+    [ "events", "d5/d0e/a17974.html#a9576978141062fa1babbbc5ed42483c4", null ]
 ];

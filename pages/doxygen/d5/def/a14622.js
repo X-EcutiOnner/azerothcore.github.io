@@ -1,13 +1,11 @@
 var a14622 =
 [
-    [ "go_firework_show", "d5/def/a14622.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "d5/def/a14622.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "d5/def/a14622.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "d5/def/a14622.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "d5/def/a14622.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "d5/def/a14622.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "d5/def/a14622.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "d5/def/a14622.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "d5/def/a14622.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "d5/def/a14622.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "npc_elder_kekek", "d5/def/a14622.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
+    [ "MoveInLineOfSight", "d5/def/a14622.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
+    [ "Reset", "d5/def/a14622.html#a97e615bdefba5baf459960fc2987cd69", null ],
+    [ "UpdateAI", "d5/def/a14622.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
+    [ "orphanGUID", "d5/def/a14622.html#a98c79e46e051c35819c6025828a519cb", null ],
+    [ "phase", "d5/def/a14622.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
+    [ "playerGUID", "d5/def/a14622.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
+    [ "timer", "d5/def/a14622.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
 ];

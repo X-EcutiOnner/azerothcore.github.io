@@ -1,5 +1,6 @@
 var a07390 =
 [
-    [ "AuctionSearchOwnerListRequest", "db/d0e/a07390.html#a1b774f8d2f77886669b8724be58713ef", null ],
-    [ "ownerGuid", "db/d0e/a07390.html#a37d5d9356fa738e8263fdf7eb9c015a5", null ]
+    [ "charges", "db/d0e/a07390.html#a583aee5baaad873bcbcc2acad403d0bf", null ],
+    [ "duration", "db/d0e/a07390.html#a36445b0d9d75886a0697c75513eb6c41", null ],
+    [ "id", "db/d0e/a07390.html#ab19975d2dd203aa1124f2e06fb637171", null ]
 ];

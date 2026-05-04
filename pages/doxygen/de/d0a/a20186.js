@@ -1,6 +1,6 @@
 var a20186 =
 [
-    [ "FilterTargets", "de/d0a/a20186.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "de/d0a/a20186.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "de/d0a/a20186.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "npc_ulduar_toasty_fire", "de/d0a/a20186.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
+    [ "DoAction", "de/d0a/a20186.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
+    [ "SpellHit", "de/d0a/a20186.html#ad1ac241490db52177ae13640d7ae3eec", null ]
 ];

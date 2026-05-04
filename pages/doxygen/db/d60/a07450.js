@@ -1,7 +1,7 @@
 var a07450 =
 [
-    [ "BfGraveyardWG", "db/d60/a07450.html#a040af569e6633e4ed4c7513b55d034ac", null ],
-    [ "GetTextId", "db/d60/a07450.html#a618b778d8bed11627150a88e2f4e349b", null ],
-    [ "SetTextId", "db/d60/a07450.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
-    [ "GossipTextId", "db/d60/a07450.html#af197f40de908ed650229bbf033836778", null ]
+    [ "AuctionSorter", "db/d60/a07450.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
+    [ "operator()", "db/d60/a07450.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
+    [ "_loc_idx", "db/d60/a07450.html#a11708aa660757db95c88d9dc7e9b9521", null ],
+    [ "_sort", "db/d60/a07450.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
 ];

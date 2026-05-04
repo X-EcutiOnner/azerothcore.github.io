@@ -1,5 +1,5 @@
 var a27666 =
 [
-    [ "achievement_bg_ic_glaive_grave", "d1/dcb/a27666.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "d1/dcb/a27666.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "AreaTrigger_at_nats_landing", "d1/dcb/a27666.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d1/dcb/a27666.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

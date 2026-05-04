@@ -1,7 +1,5 @@
 var a12758 =
 [
-    [ "HandleHit", "d7/de3/a12758.html#a18f86449945ade16140ee934a7d8703e", null ],
-    [ "PrepareSpellScript", "d7/de3/a12758.html#abaf09043858db27b05fbe544d7a15a8f", null ],
-    [ "Register", "d7/de3/a12758.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
-    [ "Validate", "d7/de3/a12758.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
+    [ "go_orb_of_domination", "d7/de3/a12758.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
+    [ "GossipHello", "d7/de3/a12758.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
 ];

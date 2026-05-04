@@ -1,7 +1,6 @@
 var a18894 =
 [
-    [ "HandleEvent", "d5/dc7/a18894.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
-    [ "PrepareSpellScript", "d5/dc7/a18894.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
-    [ "Register", "d5/dc7/a18894.html#a96c6a479141f765b9c0f96b5f148a428", null ],
-    [ "Validate", "d5/dc7/a18894.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
+    [ "npc_captain_rupertAI", "d5/dc7/a18894.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "d5/dc7/a18894.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "d5/dc7/a18894.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

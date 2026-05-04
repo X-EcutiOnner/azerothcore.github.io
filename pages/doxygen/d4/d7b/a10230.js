@@ -1,8 +1,9 @@
 var a10230 =
 [
-    [ "AbstractFollower", "d4/d7b/a10230.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
-    [ "~AbstractFollower", "d4/d7b/a10230.html#acb394f5326ab5ea5146c79788a085647", null ],
-    [ "GetTarget", "d4/d7b/a10230.html#a43f037557454528a956c379d9efb42ac", null ],
-    [ "SetTarget", "d4/d7b/a10230.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
-    [ "_target", "d4/d7b/a10230.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
+    [ "TransportAnimation", "d4/d7b/a10230.html#a775b84b54deefd38af40222afd82d572", null ],
+    [ "GetAnimNode", "d4/d7b/a10230.html#a73b56750c90afce38dbf57793bae16f3", null ],
+    [ "GetAnimRotation", "d4/d7b/a10230.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
+    [ "Path", "d4/d7b/a10230.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
+    [ "Rotations", "d4/d7b/a10230.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
+    [ "TotalTime", "d4/d7b/a10230.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
 ];

@@ -1,13 +1,6 @@
 var a13054 =
 [
-    [ "boss_roar", "dc/d37/a13054.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
-    [ "DoAction", "dc/d37/a13054.html#a9a2778a803d6d41b256759b29452cc51", null ],
-    [ "EnterEvadeMode", "dc/d37/a13054.html#a198044653632b93838c0f79c06cb7640", null ],
-    [ "JustDied", "dc/d37/a13054.html#a3c79bea69740601ad89f0765f3af99f2", null ],
-    [ "JustEngagedWith", "dc/d37/a13054.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
-    [ "JustReachedHome", "dc/d37/a13054.html#a632929b026815a524bd79748e768e3fc", null ],
-    [ "KilledUnit", "dc/d37/a13054.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
-    [ "UpdateAI", "dc/d37/a13054.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
-    [ "_scheduler", "dc/d37/a13054.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
-    [ "instance", "dc/d37/a13054.html#a67df04e89c877d565753ac077aa923c7", null ]
+    [ "npc_sanguine_spirit", "dc/d37/a13054.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
+    [ "Reset", "dc/d37/a13054.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
+    [ "UpdateAI", "dc/d37/a13054.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
 ];

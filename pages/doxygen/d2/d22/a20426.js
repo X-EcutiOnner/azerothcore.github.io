@@ -1,9 +1,5 @@
 var a20426 =
 [
-    [ "npc_ulduar_dark_rune_watcher", "d2/d22/a20426.html#aaddea3969eaab06df6b7e5d08f6ad626", null ],
-    [ "CanAIAttack", "d2/d22/a20426.html#ae87ae4e671855f9e18eef6ba7f455463", null ],
-    [ "Reset", "d2/d22/a20426.html#a66ac44c21691994b0b45c096dd7a0d56", null ],
-    [ "UpdateAI", "d2/d22/a20426.html#a008399ff99fbf7c298485450cd3bd4e3", null ],
-    [ "timer1", "d2/d22/a20426.html#a8e7520f4f33604ebd8177b12ca610ea3", null ],
-    [ "timer2", "d2/d22/a20426.html#a1be016384a7fd92e96786ff6caf6c77d", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "d2/d22/a20426.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "d2/d22/a20426.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

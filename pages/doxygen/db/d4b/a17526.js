@@ -1,6 +1,6 @@
 var a17526 =
 [
-    [ "ModAuraStack", "db/d4b/a17526.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "db/d4b/a17526.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "db/d4b/a17526.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "npc_ball_of_flameAI", "df/dc9/a17530.html", "df/dc9/a17530" ],
+    [ "npc_ball_of_flame", "db/d4b/a17526.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "db/d4b/a17526.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

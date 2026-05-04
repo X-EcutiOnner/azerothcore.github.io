@@ -1,10 +1,7 @@
 var a28090 =
 [
-    [ "npc_prof_alchemy", "d1/d77/a28090.html#a43ea842214fc507c34586d12df8f7fea", null ],
-    [ "HasAlchemySpell", "d1/d77/a28090.html#ac9df824e0923ca86189a53ae391b43c0", null ],
-    [ "OnGossipHello", "d1/d77/a28090.html#add760c538c7882e1ad8331b8ded74f5c", null ],
-    [ "OnGossipSelect", "d1/d77/a28090.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
-    [ "SendActionMenu", "d1/d77/a28090.html#a2d4c7337b40be323a384a9e755fc3145", null ],
-    [ "SendConfirmLearn", "d1/d77/a28090.html#a548224b30494636b9ee292a533fc7b39", null ],
-    [ "SendConfirmUnlearn", "d1/d77/a28090.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
+    [ "npc_riggle_bassbaitAI", "d1/d77/a28090.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d1/d77/a28090.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d1/d77/a28090.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d1/d77/a28090.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

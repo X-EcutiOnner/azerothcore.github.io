@@ -1,6 +1,6 @@
 var a17798 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d4/db2/a17798.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
-    [ "UpdateAI", "d4/db2/a17798.html#a33ac355c8f61907574a0736a24cbee82", null ],
-    [ "_events", "d4/db2/a17798.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
+    [ "npc_zafod_boomboxAI", "d5/d9c/a17802.html", "d5/d9c/a17802" ],
+    [ "npc_zafod_boombox", "d4/db2/a17798.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d4/db2/a17798.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

@@ -1,6 +1,6 @@
 var a21182 =
 [
-    [ "npc_azure_raiderAI", "d9/dd0/a21186.html", "d9/dd0/a21186" ],
-    [ "npc_azure_raider", "dc/d68/a21182.html#a249abee0df263e183341193b828a310c", null ],
-    [ "GetAI", "dc/d68/a21182.html#a88a45e3b117c5105f7541d640dda8470", null ]
+    [ "HandleEffectPeriodic", "dc/d68/a21182.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "dc/d68/a21182.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "dc/d68/a21182.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

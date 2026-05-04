@@ -1,6 +1,7 @@
 var a21998 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d6/d9b/a21998.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "d6/d9b/a21998.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "d6/d9b/a21998.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "npc_wg_demolisher_engineer", "d6/d9b/a21998.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d6/d9b/a21998.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d6/d9b/a21998.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d6/d9b/a21998.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

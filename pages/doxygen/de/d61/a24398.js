@@ -1,7 +1,9 @@
 var a24398 =
 [
-    [ "HandleProc", "de/d61/a24398.html#a393909e3765443aa4930d8036c36b132", null ],
-    [ "PrepareAuraScript", "de/d61/a24398.html#aeaacd337fd8a02e7c19ead8912fc68d9", null ],
-    [ "Register", "de/d61/a24398.html#af37fd1db3dc6cbbe985734853ea59109", null ],
-    [ "Validate", "de/d61/a24398.html#a0966b67c38486fb32c3e442f388320b1", null ]
+    [ "HandleApply", "de/d61/a24398.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "de/d61/a24398.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "de/d61/a24398.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "de/d61/a24398.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "de/d61/a24398.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "de/d61/a24398.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

@@ -1,6 +1,6 @@
 var a01565 =
 [
-    [ "GenerateEnchSuffixFactor", "d6/d82/a01565.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "d6/d82/a01565.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "d6/d82/a01565.html#a376fabf7bba54eaf928217f860f1c33b", null ]
+    [ "AddItemsSetItem", "d6/d82/a01565.html#a02944420353f8ba883b80737f8e63137", null ],
+    [ "ItemCanGoIntoBag", "d6/d82/a01565.html#a0c91640134a5241ec34f91bdec13c8ec", null ],
+    [ "RemoveItemsSetItem", "d6/d82/a01565.html#a402c3dd64769702b750f96adff4b3a14", null ]
 ];

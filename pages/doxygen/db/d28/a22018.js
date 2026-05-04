@@ -1,6 +1,7 @@
 var a22018 =
 [
-    [ "HandleScript", "db/d28/a22018.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "db/d28/a22018.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "db/d28/a22018.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "npc_wg_quest_giver", "db/d28/a22018.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "db/d28/a22018.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "db/d28/a22018.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "db/d28/a22018.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

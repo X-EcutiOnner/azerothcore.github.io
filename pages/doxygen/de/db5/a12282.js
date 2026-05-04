@@ -1,8 +1,10 @@
 var a12282 =
 [
-    [ "pet_commandscript", "de/db5/a12282.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "de/db5/a12282.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "de/db5/a12282.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetLearnCommand", "de/db5/a12282.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetUnlearnCommand", "de/db5/a12282.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "mail_commandscript", "de/db5/a12282.html#a213bedb9d8fd8cb3c4b5928b2c193c58", null ],
+    [ "GetCommands", "de/db5/a12282.html#a931c5f4d66e598886984458a4a7fd3b0", null ],
+    [ "GetItemListString", "de/db5/a12282.html#a6d5fc2ef156b3d6be01b3b62f9efb2c9", null ],
+    [ "GetMailStationeryString", "de/db5/a12282.html#af016c0c682c94250cdb26eea3377ec6e", null ],
+    [ "GetMailTypeString", "de/db5/a12282.html#aeadf09762c52e71d4b6ef2b248e21077", null ],
+    [ "HandleMailListCommand", "de/db5/a12282.html#aea68c55c26314abf0bb4040ad6de8e1b", null ],
+    [ "HandleMailReturnCommand", "de/db5/a12282.html#acbdb7a0ea15ed5202866355d4839948c", null ]
 ];

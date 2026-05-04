@@ -1,7 +1,7 @@
 var a27142 =
 [
-    [ "HandleDummy", "d3/d82/a27142.html#a96c5064738653ce16f06634196218a88", null ],
-    [ "PrepareSpellScript", "d3/d82/a27142.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
-    [ "Register", "d3/d82/a27142.html#a080969e035143ac8527443025dbacef2", null ],
-    [ "Validate", "d3/d82/a27142.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
+    [ "AfterRemove", "d3/d82/a27142.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "d3/d82/a27142.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "d3/d82/a27142.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "d3/d82/a27142.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

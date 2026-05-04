@@ -1,6 +1,6 @@
 var a11666 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "d4/db2/a11666.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "d4/db2/a11666.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "d4/db2/a11666.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "ChannelTargetData", "d4/db2/a11666.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "d4/db2/a11666.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "d4/db2/a11666.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

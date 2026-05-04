@@ -1,12 +1,13 @@
 var a10658 =
 [
-    [ "ItemScript", "d6/d12/a10658.html#a0ad18538a834261190356eab549ff192", null ],
-    [ "IsDatabaseBound", "d6/d12/a10658.html#ae0ae6754a17b88deaf3648b74a58bb9d", null ],
-    [ "OnCastItemCombatSpell", "d6/d12/a10658.html#a08a73378706fdfb0cee5e6214060ad1b", null ],
-    [ "OnExpire", "d6/d12/a10658.html#a2ac915f9f966df87a963a328363deb77", null ],
-    [ "OnGossipSelect", "d6/d12/a10658.html#a78b540902816ee3b3f9a6b108aa155ab", null ],
-    [ "OnGossipSelectCode", "d6/d12/a10658.html#a924268357fec1a667f1184c91ebcef33", null ],
-    [ "OnQuestAccept", "d6/d12/a10658.html#a87ab2f706bbb4e71921852d1ae6d78c7", null ],
-    [ "OnRemove", "d6/d12/a10658.html#a1c8d706593fce54b1e4627493c38a6d3", null ],
-    [ "OnUse", "d6/d12/a10658.html#a0e45d02f07def65de2eb94735189e7f5", null ]
+    [ "FormulaScript", "d6/d12/a10658.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
+    [ "OnAfterArenaRatingCalculation", "d6/d12/a10658.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
+    [ "OnBaseGainCalculation", "d6/d12/a10658.html#ab154eaf469d5fe3e86c364940816270a", null ],
+    [ "OnBeforeUpdatingPersonalRating", "d6/d12/a10658.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
+    [ "OnColorCodeCalculation", "d6/d12/a10658.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
+    [ "OnGainCalculation", "d6/d12/a10658.html#aa83fab65cc89bd03021da2805e935ffb", null ],
+    [ "OnGrayLevelCalculation", "d6/d12/a10658.html#affeb57234f961b9e01f5898c7738f38f", null ],
+    [ "OnGroupRateCalculation", "d6/d12/a10658.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
+    [ "OnHonorCalculation", "d6/d12/a10658.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
+    [ "OnZeroDifferenceCalculation", "d6/d12/a10658.html#a7755c35bc56e6645e36de08c12a4847d", null ]
 ];

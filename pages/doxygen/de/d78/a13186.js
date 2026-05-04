@@ -1,5 +1,6 @@
 var a13186 =
 [
-    [ "boss_apoko", "de/d78/a13186.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
-    [ "JustEngagedWith", "de/d78/a13186.html#a7ad52b258863bd818b3e5d1143de7629", null ]
+    [ "HandleProc", "de/d78/a13186.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "de/d78/a13186.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "de/d78/a13186.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

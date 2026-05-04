@@ -1,6 +1,6 @@
 var a27678 =
 [
-    [ "achievement_arena_by_type", "d4/d34/a27678.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d4/d34/a27678.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d4/d34/a27678.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d4/d34/a27678.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d4/d34/a27678.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d4/d34/a27678.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

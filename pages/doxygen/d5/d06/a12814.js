@@ -1,7 +1,6 @@
 var a12814 =
 [
-    [ "HandleScript", "d5/d06/a12814.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "d5/d06/a12814.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "d5/d06/a12814.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "d5/d06/a12814.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "boss_gehennas", "d5/d06/a12814.html#ab533dfd33dfcc42b1c282340e77ed979", null ],
+    [ "ExecuteEvent", "d5/d06/a12814.html#aa11c5e8facc17b03220595a61045036f", null ],
+    [ "JustEngagedWith", "d5/d06/a12814.html#af4f3b198a1a606efe829376b4515c7bc", null ]
 ];

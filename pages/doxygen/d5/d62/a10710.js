@@ -1,9 +1,23 @@
 var a10710 =
 [
-    [ "TransportScript", "d5/d62/a10710.html#a4b83123b122fa98831d304670a3de50a", null ],
-    [ "IsDatabaseBound", "d5/d62/a10710.html#a956f0d757e5d974566fa8fac0df731e5", null ],
-    [ "OnAddCreaturePassenger", "d5/d62/a10710.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
-    [ "OnAddPassenger", "d5/d62/a10710.html#a806f4829b47429900271f6dde7eaa625", null ],
-    [ "OnRelocate", "d5/d62/a10710.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
-    [ "OnRemovePassenger", "d5/d62/a10710.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
+    [ "MiscScript", "d5/d62/a10710.html#afbd758be34ed4b7045525250cb2cf5be", null ],
+    [ "CanApplySoulboundFlag", "d5/d62/a10710.html#a8918c758dd84f447f321f009030615ff", null ],
+    [ "CanItemApplyEquipSpell", "d5/d62/a10710.html#a3241973d4f8ff5d9e4eed8a0cc95e74d", null ],
+    [ "CanSendAuctionHello", "d5/d62/a10710.html#aac9b8415ab2002a1d4ad2f26211fa4e2", null ],
+    [ "GetDialogStatus", "d5/d62/a10710.html#a25d97a2c91563263da76e5d67358edce", null ],
+    [ "IsDatabaseBound", "d5/d62/a10710.html#a6eb3eb8a451ddc1abdf4a238b4e08253", null ],
+    [ "OnAfterLootTemplateProcess", "d5/d62/a10710.html#adcf037b59a970e43b99f1c8f4b35cde5", null ],
+    [ "OnConstructGroup", "d5/d62/a10710.html#a044e0a8f789c9cb8e19cfc82c87ab745", null ],
+    [ "OnConstructInstanceSave", "d5/d62/a10710.html#a7857523e8dec674efbec50f8bfdf108b", null ],
+    [ "OnConstructObject", "d5/d62/a10710.html#acdf0d559e38565bdb55ccb666f39d9f4", null ],
+    [ "OnConstructPlayer", "d5/d62/a10710.html#a14cf20bad86e743a0ddc225d780ed13c", null ],
+    [ "OnDestructGroup", "d5/d62/a10710.html#ae2977af97c42c0eedb4081a0d7984b01", null ],
+    [ "OnDestructInstanceSave", "d5/d62/a10710.html#a2c2b480dd47c6e8a2ebd4e19ead442fc", null ],
+    [ "OnDestructObject", "d5/d62/a10710.html#a2160ea9f05168a3018ab34ebddee18cc", null ],
+    [ "OnDestructPlayer", "d5/d62/a10710.html#a100f72c7b930788c5d3a4a0d2dd2d9d9", null ],
+    [ "OnInstanceSave", "d5/d62/a10710.html#a1434e3a2638144a9ddd4e2834a4983be", null ],
+    [ "OnItemCreate", "d5/d62/a10710.html#a52619636b636036f454dd0d9129754fa", null ],
+    [ "OnPlayerSetPhase", "d5/d62/a10710.html#a19700d3ee246e42852d3b9993157d2e8", null ],
+    [ "ValidateSpellAtCastSpell", "d5/d62/a10710.html#a40356d17f149920064ea1005920c4e45", null ],
+    [ "ValidateSpellAtCastSpellResult", "d5/d62/a10710.html#a3a45534d56665943fbcfd82e15a17753", null ]
 ];

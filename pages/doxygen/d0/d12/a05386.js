@@ -1,9 +1,8 @@
 var a05386 =
 [
-    [ "criticalOptionSeverity", "d0/d12/a05386.html#adfaae562c345965b96fa5f7c92da161e", null ],
-    [ "defaultSeverity", "d0/d12/a05386.html#a4d490930b6bbaa9c50570ff9808b1af9", null ],
-    [ "missingFileSeverity", "d0/d12/a05386.html#a8cd5da53d2cd0b5d0533741a2dcf651c", null ],
-    [ "missingOptionSeverity", "d0/d12/a05386.html#a3c64d5a1ac04533f27af53de8d688ec5", null ],
-    [ "unknownOptionSeverity", "d0/d12/a05386.html#ad41070de3cb2c7fa2916654b9e2a693e", null ],
-    [ "valueErrorSeverity", "d0/d12/a05386.html#a2c1a05a826289e1cc3f01a988718dda2", null ]
+    [ "ComputeCell", "d0/d12/a05386.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
+    [ "isValid", "d0/d12/a05386.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
+    [ "operator==", "d0/d12/a05386.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
+    [ "x", "d0/d12/a05386.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
+    [ "y", "d0/d12/a05386.html#af3d5ae020727d58286ef7725958063a9", null ]
 ];

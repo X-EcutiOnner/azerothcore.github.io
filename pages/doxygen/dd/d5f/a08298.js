@@ -1,10 +1,9 @@
 var a08298 =
 [
-    [ "CreatureModel", "dd/d5f/a08298.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
-    [ "CreatureModel", "dd/d5f/a08298.html#a02b05bf92c3341b90173b4aa998087ba", null ],
-    [ "CreatureDisplayID", "dd/d5f/a08298.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
-    [ "DefaultInvisibleModel", "dd/d5f/a08298.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
-    [ "DefaultVisibleModel", "dd/d5f/a08298.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
-    [ "DisplayScale", "dd/d5f/a08298.html#ad842b73233b84c451710767f5e58f10a", null ],
-    [ "Probability", "dd/d5f/a08298.html#a7736d6480dca65a68afb82a830b35874", null ]
+    [ "LFGGroupScript", "dd/d5f/a08298.html#adb7730ba67910121a255a6da535d2fc2", null ],
+    [ "OnAddMember", "dd/d5f/a08298.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
+    [ "OnChangeLeader", "dd/d5f/a08298.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
+    [ "OnDisband", "dd/d5f/a08298.html#a7d8d28f1919e407ed93474d970733d86", null ],
+    [ "OnInviteMember", "dd/d5f/a08298.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
+    [ "OnRemoveMember", "dd/d5f/a08298.html#a1385adec817221a83653a6fa03e57858", null ]
 ];

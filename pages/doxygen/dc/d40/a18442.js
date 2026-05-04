@@ -1,10 +1,6 @@
 var a18442 =
 [
-    [ "npc_shambling_horror_iccAI", "dc/d40/a18442.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
-    [ "CanAIAttack", "dc/d40/a18442.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
-    [ "DamageTaken", "dc/d40/a18442.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
-    [ "Reset", "dc/d40/a18442.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
-    [ "UpdateAI", "dc/d40/a18442.html#abae6058591022057e93d48da3db1b8bc", null ],
-    [ "_events", "dc/d40/a18442.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
-    [ "_frenzied", "dc/d40/a18442.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
+    [ "boss_the_lich_kingAI", "d5/d88/a18446.html", "d5/d88/a18446" ],
+    [ "boss_the_lich_king", "dc/d40/a18442.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "dc/d40/a18442.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

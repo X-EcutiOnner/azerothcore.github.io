@@ -1,6 +1,5 @@
 var a23862 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d2/ded/a23866.html", "d2/ded/a23866" ],
-    [ "npc_mature_netherwing_drake", "d3/d4f/a23862.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "d3/d4f/a23862.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "go_crystal_prison", "d3/d4f/a23862.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "d3/d4f/a23862.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

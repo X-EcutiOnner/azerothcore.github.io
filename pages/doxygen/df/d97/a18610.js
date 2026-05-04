@@ -1,8 +1,9 @@
 var a18610 =
 [
-    [ "npc_lk_spirit_bombAI", "df/d97/a18610.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "df/d97/a18610.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "df/d97/a18610.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "df/d97/a18610.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "df/d97/a18610.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "FilterTargets", "df/d97/a18610.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
+    [ "Load", "df/d97/a18610.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
+    [ "PrepareSpellScript", "df/d97/a18610.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
+    [ "Register", "df/d97/a18610.html#afad887fba0d97512a7a13a31977cf42d", null ],
+    [ "Validate", "df/d97/a18610.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
+    [ "_instance", "df/d97/a18610.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
 ];

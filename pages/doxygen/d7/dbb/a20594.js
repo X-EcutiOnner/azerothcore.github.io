@@ -1,6 +1,6 @@
 var a20594 =
 [
-    [ "boss_yoggsaron_death_orb", "d7/dbb/a20594.html#a8e967885da35381db767d941a2174a82", null ],
-    [ "UpdateAI", "d7/dbb/a20594.html#a9557c25da8cfdc6b7e62ff9b2b78714b", null ],
-    [ "_startTimer", "d7/dbb/a20594.html#a272b6b4c6c8f1f9fed933b9e1fd6f749", null ]
+    [ "OnRemove", "d7/dbb/a20594.html#a492bd9e9c82937e00897e19362b40901", null ],
+    [ "PrepareAuraScript", "d7/dbb/a20594.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
+    [ "Register", "d7/dbb/a20594.html#adfcaf82ff48225ea0e0314d421795644", null ]
 ];

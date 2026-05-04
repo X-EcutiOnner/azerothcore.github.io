@@ -1,5 +1,6 @@
 var a11038 =
 [
-    [ "SocketEnchantID", "d0/d6c/a11038.html#ae682a8405a5fa1c70033d190dde25d99", null ],
-    [ "SocketIndex", "d0/d6c/a11038.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
+    [ "GuildOfficerRemoveMember", "d0/d6c/a11038.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "d0/d6c/a11038.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "d0/d6c/a11038.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

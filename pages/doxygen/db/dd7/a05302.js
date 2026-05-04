@@ -1,7 +1,5 @@
 var a05302 =
 [
-    [ "GameobjectModelData", "db/dd7/a05302.html#a7d259df5a5541f95e0f548674d023fc8", null ],
-    [ "bound", "db/dd7/a05302.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
-    [ "isWmo", "db/dd7/a05302.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
-    [ "name", "db/dd7/a05302.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
+    [ "TileEntries", "db/dd7/a05302.html#ac982af8210389fe769d161a12d4cdb5f", null ],
+    [ "UniqueEntries", "db/dd7/a05302.html#a5ba6c948eedc6c070a7eb6aa3816d85c", null ]
 ];

@@ -1,10 +1,9 @@
 var a05206 =
 [
-    [ "AreaInfo", "d4/d56/a05206.html#a7cd6d0845a1fea33d4f51deb5890f9f1", null ],
-    [ "AreaInfo", "d4/d56/a05206.html#acdd6c482f37134fdc962a55771003b5c", null ],
-    [ "adtId", "d4/d56/a05206.html#aee38e987da24645d36792a1024235035", null ],
-    [ "groupId", "d4/d56/a05206.html#a6472ad95a025769da84943fc490860e1", null ],
-    [ "mogpFlags", "d4/d56/a05206.html#ae97f4c32ecee4844f2cb0fec92cb21ec", null ],
-    [ "rootId", "d4/d56/a05206.html#a5af47da55bdcb6a92356a33112a41da5", null ],
-    [ "uniqueId", "d4/d56/a05206.html#a4496a2c21c4bca0e8acbd563de282338", null ]
+    [ "DynamicTreeIntersectionCallback", "d4/d56/a05206.html#a77d71c68e20f4d19059317b307c27441", null ],
+    [ "didHit", "d4/d56/a05206.html#a616d15c3cce00574d604591bc8af4140", null ],
+    [ "operator()", "d4/d56/a05206.html#a9927d15de557ef58b7e4046e830f8dad", null ],
+    [ "_didHit", "d4/d56/a05206.html#a1805d508be79660d90f991e4453c2c9a", null ],
+    [ "_ignoreFlags", "d4/d56/a05206.html#a6559c66c8451c32078187a1c43b3a85e", null ],
+    [ "_phaseMask", "d4/d56/a05206.html#a52e7470145db9cc4c2369024fbf7bbb8", null ]
 ];

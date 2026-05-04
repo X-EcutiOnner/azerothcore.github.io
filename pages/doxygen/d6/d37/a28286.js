@@ -1,9 +1,7 @@
 var a28286 =
 [
-    [ "npc_fireworkAI", "d6/d37/a28286.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "d6/d37/a28286.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "d6/d37/a28286.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "d6/d37/a28286.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "d6/d37/a28286.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "d6/d37/a28286.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "npc_flameshocker", "d6/d37/a28286.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "d6/d37/a28286.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "d6/d37/a28286.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "d6/d37/a28286.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

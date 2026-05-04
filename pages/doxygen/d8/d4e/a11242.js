@@ -1,8 +1,6 @@
 var a11242 =
 [
-    [ "MinimapPing", "d8/d4e/a11242.html#a846074f55e6224bf322b96c7bfe9e008", null ],
-    [ "Write", "d8/d4e/a11242.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
-    [ "MapX", "d8/d4e/a11242.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
-    [ "MapY", "d8/d4e/a11242.html#a2f8504ddba41dd09f69763d66331373b", null ],
-    [ "SourceGuid", "d8/d4e/a11242.html#abf5d5980b360cbf9332460b01d5816f5", null ]
+    [ "ItemRefundInfo", "d8/d4e/a11242.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
+    [ "Read", "d8/d4e/a11242.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
+    [ "ItemGuid", "d8/d4e/a11242.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
 ];

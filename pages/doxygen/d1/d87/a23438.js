@@ -1,7 +1,6 @@
 var a23438 =
 [
-    [ "AfterApply", "d1/d87/a23438.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "d1/d87/a23438.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "d1/d87/a23438.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "d1/d87/a23438.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "HandleCast", "d1/d87/a23438.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "d1/d87/a23438.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "d1/d87/a23438.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

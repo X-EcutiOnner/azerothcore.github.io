@@ -1,7 +1,12 @@
 var a21422 =
 [
-    [ "npc_cosmetic_toy_plane", "d5/d22/a21422.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d5/d22/a21422.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d5/d22/a21422.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d5/d22/a21422.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_wintergarde_gryphon", "d5/d22/a21422.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
+    [ "getVillager", "d5/d22/a21422.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
+    [ "IsSummonedBy", "d5/d22/a21422.html#acd7cea6226034d53b854c5ed659ff949", null ],
+    [ "JustDied", "d5/d22/a21422.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
+    [ "MovementInform", "d5/d22/a21422.html#a8f2faf49533d27d971110681e050c060", null ],
+    [ "PassengerBoarded", "d5/d22/a21422.html#a16c01d26aef06358f979f59fe68c09ca", null ],
+    [ "SpellHit", "d5/d22/a21422.html#acf64143ea83321556156fde30e1a34d4", null ],
+    [ "UpdateAI", "d5/d22/a21422.html#aa161f280e7a7370696cecc27c51ee55c", null ],
+    [ "villagerGUID", "d5/d22/a21422.html#a56a7973a05061197192111ecf55ef14a", null ]
 ];

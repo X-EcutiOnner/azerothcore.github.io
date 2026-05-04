@@ -1,13 +1,12 @@
 var a15050 =
 [
-    [ "boss_salrammAI", "d2/d7f/a15050.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "d2/d7f/a15050.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "d2/d7f/a15050.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "d2/d7f/a15050.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "d2/d7f/a15050.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "d2/d7f/a15050.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "d2/d7f/a15050.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "d2/d7f/a15050.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "d2/d7f/a15050.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "d2/d7f/a15050.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "boss_epochAI", "d2/d7f/a15050.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
+    [ "JustDied", "d2/d7f/a15050.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "d2/d7f/a15050.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "d2/d7f/a15050.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "d2/d7f/a15050.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "d2/d7f/a15050.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "d2/d7f/a15050.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "events", "d2/d7f/a15050.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
+    [ "warps", "d2/d7f/a15050.html#a478113af1ce565c729604c6039f55551", null ]
 ];

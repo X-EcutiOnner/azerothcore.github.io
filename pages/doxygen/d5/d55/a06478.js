@@ -1,6 +1,6 @@
 var a06478 =
 [
-    [ "EntryCheckPredicate", "d5/d55/a06478.html#a23365e4591c0906f5d04db7dc6599fbf", null ],
-    [ "operator()", "d5/d55/a06478.html#ab384b205f8a719e1b5b0d0ab00575313", null ],
-    [ "_entry", "d5/d55/a06478.html#aa83f4537369e740de2d689252409d269", null ]
+    [ "CreatureAIFactory", "d5/d55/a06478.html#a978af64c2793b92ee2fe57763500f8d9", null ],
+    [ "Create", "d5/d55/a06478.html#ab5f691811cc23c5079a7a0a7f3503638", null ],
+    [ "Permit", "d5/d55/a06478.html#ae5e76ee1d1f8949214dd5421bf7e4deb", null ]
 ];

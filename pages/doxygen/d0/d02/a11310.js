@@ -1,6 +1,8 @@
 var a11310 =
 [
-    [ "InvalidStringValueException", "d0/d02/a11310.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
-    [ "GetInvalidValue", "d0/d02/a11310.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
-    [ "_value", "d0/d02/a11310.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
+    [ "CrossedInebriationThreshold", "d0/d02/a11310.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
+    [ "Write", "d0/d02/a11310.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
+    [ "Guid", "d0/d02/a11310.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
+    [ "ItemID", "d0/d02/a11310.html#a9e48a650bf21872099cdb0626e875fd7", null ],
+    [ "Threshold", "d0/d02/a11310.html#a87b756b64cbfb8f292f46cce38308095", null ]
 ];

@@ -1,6 +1,9 @@
 var a10950 =
 [
-    [ "GuildEventLogQueryResults", "df/daf/a10950.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
-    [ "Write", "df/daf/a10950.html#aa24738cdd040a883782b50189abdf240", null ],
-    [ "Entry", "df/daf/a10950.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
+    [ "GuildRoster", "df/daf/a10950.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
+    [ "Write", "df/daf/a10950.html#a544a539999827d4eb8923cbbcdf42bac", null ],
+    [ "InfoText", "df/daf/a10950.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
+    [ "MemberData", "df/daf/a10950.html#a964fc72bf3ada77c171fd1f691449241", null ],
+    [ "RankData", "df/daf/a10950.html#a67b0a12fae93c5807030c1062f328abb", null ],
+    [ "WelcomeText", "df/daf/a10950.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
 ];

@@ -1,17 +1,16 @@
 var a14442 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "d5/d40/a14442.html#aacbb3bb0d212ffafae475c74790d9c63", null ],
-    [ "GetData", "d5/d40/a14442.html#ae8c0fa463d3e5b5dafb7b14b5d32a4b1", null ],
-    [ "GetGuidData", "d5/d40/a14442.html#a0da827e64e90a1f97b75038621a195ff", null ],
-    [ "OnCreatureCreate", "d5/d40/a14442.html#a951c6f5e1dc460cd820fba49add52898", null ],
-    [ "OnGameObjectCreate", "d5/d40/a14442.html#a7649a9bcdfafd3c8d7001555e60910af", null ],
-    [ "RemoveHakkarPowerStack", "d5/d40/a14442.html#a0234565dc9c87e32bcd0a7f19e2336b6", null ],
-    [ "SetBossState", "d5/d40/a14442.html#aaf5d69e4993591e0f936e2109df1fb07", null ],
-    [ "_arlokkGUID", "d5/d40/a14442.html#a92d30a8e0691e5bc6a58ff26cc06df36", null ],
-    [ "_edgeOfMadnessGUID", "d5/d40/a14442.html#aa7bbbb942592651857f933503da0e808", null ],
-    [ "_gahzrankaGUID", "d5/d40/a14442.html#af0e854382a2316363c50d60f03095097", null ],
-    [ "_goGongOfBethekkGUID", "d5/d40/a14442.html#a1f33ff891c8289a49dd2b979a064c323", null ],
-    [ "_hakkarGUID", "d5/d40/a14442.html#aeca34a55f3c378311ae1b46313cf22de", null ],
-    [ "_jindoTheHexxerGUID", "d5/d40/a14442.html#a48ec95fa51ddf50aa0249a3798bbc898", null ],
-    [ "_vilebranchSpeakerGUID", "d5/d40/a14442.html#a07cff6b252eb9b08855bc8bd7e5d7735", null ]
+    [ "boss_renatakiAI", "d5/d40/a14442.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
+    [ "CanAIAttack", "d5/d40/a14442.html#af20dc14dc56500e568a3a11bfb34a227", null ],
+    [ "CanAlwaysBeDetectable", "d5/d40/a14442.html#af75108eacb982586f43a175beede78ef", null ],
+    [ "CanBeSeen", "d5/d40/a14442.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
+    [ "CanSeeAlways", "d5/d40/a14442.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
+    [ "DamageTaken", "d5/d40/a14442.html#a62d97adb310b55a2235737b854dc4aca", null ],
+    [ "JustEngagedWith", "d5/d40/a14442.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
+    [ "Reset", "d5/d40/a14442.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
+    [ "UpdateAI", "d5/d40/a14442.html#a3a1abaef460d9abe1298080080d74c9d", null ],
+    [ "_dynamicFlags", "d5/d40/a14442.html#a502bfa737cf97ae909144278a3e39bd0", null ],
+    [ "_enraged", "d5/d40/a14442.html#a71e717a2ea732729762aff7970439f74", null ],
+    [ "_thousandBladesCount", "d5/d40/a14442.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
+    [ "_thousandBladesTargets", "d5/d40/a14442.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
 ];

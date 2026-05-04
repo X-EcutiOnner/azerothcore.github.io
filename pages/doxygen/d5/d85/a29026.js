@@ -1,5 +1,8 @@
 var a29026 =
 [
-    [ "CastTime", "d5/d85/a29026.html#af0bf895b1a5d61974cb63230b786c55e", null ],
-    [ "ID", "d5/d85/a29026.html#a41b1059fc4059bd198925861a9414497", null ]
+    [ "TimeSeg", "d5/d85/a29026.html#ab94639ba8e26b215ebd31163967574d3", null ],
+    [ "TransportEntry", "d5/d85/a29026.html#a859d25b3c11839ad7e37facd40dc79df", null ],
+    [ "X", "d5/d85/a29026.html#a8fbd166503396e33a4ad77448bf307ea", null ],
+    [ "Y", "d5/d85/a29026.html#a67c279b26cebd8e5c81c36576b145af6", null ],
+    [ "Z", "d5/d85/a29026.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
 ];

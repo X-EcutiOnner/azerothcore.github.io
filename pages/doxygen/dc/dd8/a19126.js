@@ -1,6 +1,7 @@
 var a19126 =
 [
-    [ "boss_isle_of_conquestAI", "d8/d0e/a19130.html", "d8/d0e/a19130" ],
-    [ "boss_isle_of_conquest", "dc/dd8/a19126.html#ad4052d1b6865585d32016e1240449659", null ],
-    [ "GetAI", "dc/dd8/a19126.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
+    [ "DelayedCastMincharEvent", "dc/dd8/a19126.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "dc/dd8/a19126.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "dc/dd8/a19126.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "dc/dd8/a19126.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

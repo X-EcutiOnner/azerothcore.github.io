@@ -1,10 +1,8 @@
 var a00233 =
 [
-    [ "MySQLConnectionInfo", "db/db0/a06013.html", "db/db0/a06013" ],
-    [ "MySQLConnection", "d7/d72/a06017.html", "d7/d72/a06017" ],
-    [ "ConnectionFlags", "d6/de1/a00233.html#a008b1c9a9206a70569b89aea01ac321f", [
-      [ "CONNECTION_ASYNC", "d6/de1/a00233.html#a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9", null ],
-      [ "CONNECTION_SYNCH", "d6/de1/a00233.html#a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946", null ],
-      [ "CONNECTION_BOTH", "d6/de1/a00233.html#a008b1c9a9206a70569b89aea01ac321fa69536f08cbcdbe5a0ff0d89981fc6b39", null ]
-    ] ]
+    [ "TransactionBase", "d4/d3a/a06162.html", "d4/d3a/a06162" ],
+    [ "Transaction< T >", "d6/d4d/a05978.html", "d6/d4d/a05978" ],
+    [ "TransactionTask", "d0/d64/a06166.html", "d0/d64/a06166" ],
+    [ "TransactionWithResultTask", "d4/de0/a06170.html", "d4/de0/a06170" ],
+    [ "TransactionCallback", "d4/d17/a06174.html", "d4/d17/a06174" ]
 ];

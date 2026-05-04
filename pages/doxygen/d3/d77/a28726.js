@@ -1,5 +1,7 @@
 var a28726 =
 [
-    [ "ID", "d3/d77/a28726.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "d3/d77/a28726.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "EmoteType", "d3/d77/a28726.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "d3/d77/a28726.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "d3/d77/a28726.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "d3/d77/a28726.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

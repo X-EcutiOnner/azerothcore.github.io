@@ -1,6 +1,9 @@
 var a28838 =
 [
-    [ "Id", "d4/d87/a28838.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "d4/d87/a28838.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "d4/d87/a28838.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "itemId", "d4/d87/a28838.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "d4/d87/a28838.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "d4/d87/a28838.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "d4/d87/a28838.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "d4/d87/a28838.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "d4/d87/a28838.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

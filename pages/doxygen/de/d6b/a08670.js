@@ -1,7 +1,5 @@
 var a08670 =
 [
-    [ "AddToGrid", "de/d6b/a08670.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
-    [ "IsInGrid", "de/d6b/a08670.html#a996724d21d62e478f50031faa7637cd5", null ],
-    [ "RemoveFromGrid", "de/d6b/a08670.html#a29740a98fea7db66cdffd824940a2ec2", null ],
-    [ "_gridRef", "de/d6b/a08670.html#aa44ba47734267ac07b733f218623f3c5", null ]
+    [ "Description", "de/d6b/a08670.html#a4187f2b02014c83bc4f1b3d65d229311", null ],
+    [ "Name", "de/d6b/a08670.html#a787ca2c05ddac7ee5c3a5c28a02b8494", null ]
 ];

@@ -1,5 +1,6 @@
 var a25234 =
 [
-    [ "PrepareSpellScript", "de/dee/a25234.html#ac83289482a8f83a2af80e2f9f35b6716", null ],
-    [ "Register", "de/dee/a25234.html#a5e2cdc942b9972f79ff0a4fac2f0d77d", null ]
+    [ "PrepareAuraScript", "de/dee/a25234.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "de/dee/a25234.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "de/dee/a25234.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

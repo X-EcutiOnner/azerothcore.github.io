@@ -1,6 +1,7 @@
 var a25934 =
 [
-    [ "OnRemove", "db/d66/a25934.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "db/d66/a25934.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "db/d66/a25934.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "AfterRemove", "db/d66/a25934.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
+    [ "PrepareAuraScript", "db/d66/a25934.html#a13f11ec412f18d805282b3810aff5e90", null ],
+    [ "Register", "db/d66/a25934.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
+    [ "Validate", "db/d66/a25934.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
 ];

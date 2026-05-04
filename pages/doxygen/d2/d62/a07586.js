@@ -1,6 +1,9 @@
 var a07586 =
 [
-    [ "_Battlegrounds", "d2/d62/a07586.html#aa48f3a9d4a51e357055a0bc60ca41d7c", null ],
-    [ "_ClientBattlegroundIds", "d2/d62/a07586.html#a0526fab23b40ac1b33ce18243ad41132", null ],
-    [ "BGFreeSlotQueue", "d2/d62/a07586.html#a49fd7eb3a472894f233d309d35d509be", null ]
+    [ "Rank", "d2/d62/a07586.html#a9bcd8dc00437bcf015565eeb43263578", null ],
+    [ "Rating", "d2/d62/a07586.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
+    [ "SeasonGames", "d2/d62/a07586.html#a124c6d64f22c13707764eedd79fe1912", null ],
+    [ "SeasonWins", "d2/d62/a07586.html#ad274601b85ea634524b1c00979e09465", null ],
+    [ "WeekGames", "d2/d62/a07586.html#a1d0092200b2c9428e821473949cfda77", null ],
+    [ "WeekWins", "d2/d62/a07586.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
 ];

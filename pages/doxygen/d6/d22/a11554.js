@@ -1,9 +1,6 @@
 var a11554 =
 [
-    [ "EncryptableAndCompressiblePacket", "d6/d22/a11554.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "d6/d22/a11554.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "d6/d22/a11554.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "d6/d22/a11554.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "d6/d22/a11554.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "d6/d22/a11554.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "WorldSessionFilter", "d6/d22/a11554.html#aba91eb2dfd56201534743b2d458fa111", null ],
+    [ "~WorldSessionFilter", "d6/d22/a11554.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
+    [ "Process", "d6/d22/a11554.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
 ];

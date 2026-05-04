@@ -1,10 +1,7 @@
 var a07606 =
 [
-    [ "SelectionPool", "d3/dd4/a07606.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
-    [ "AddGroup", "d3/dd4/a07606.html#a87fe4747536355ad7affda76640a082e", null ],
-    [ "GetPlayerCount", "d3/dd4/a07606.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
-    [ "Init", "d3/dd4/a07606.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
-    [ "KickGroup", "d3/dd4/a07606.html#a74fb708546a8612ca52b24b8472b71ef", null ],
-    [ "PlayerCount", "d3/dd4/a07606.html#a0c08c47f68dbb45175efc524f4553e16", null ],
-    [ "SelectedGroups", "d3/dd4/a07606.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
+    [ "BattlegroundObjectInfo", "d3/dd4/a07606.html#a848f2b15f47ceeb91c40e916d5659486", null ],
+    [ "object", "d3/dd4/a07606.html#a6722b83d6969c1a34b4846f19865075a", null ],
+    [ "spellid", "d3/dd4/a07606.html#ae0233a1078bc735e40855ea7608f5f11", null ],
+    [ "timer", "d3/dd4/a07606.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
 ];

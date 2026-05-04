@@ -1,9 +1,6 @@
 var a22014 =
 [
-    [ "HandlePeriodic", "d5/d54/a22014.html#a0943e7887ff935ccea21d913429e25a0", null ],
-    [ "OnRemove", "d5/d54/a22014.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
-    [ "PrepareAuraScript", "d5/d54/a22014.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
-    [ "Register", "d5/d54/a22014.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
-    [ "_tickNumber", "d5/d54/a22014.html#a3f8943e288e96f639fb805869749879b", null ],
-    [ "_warning", "d5/d54/a22014.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
+    [ "npc_wg_queueAI", "d5/d54/a22014.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "d5/d54/a22014.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "d5/d54/a22014.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

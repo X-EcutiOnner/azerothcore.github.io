@@ -1,5 +1,5 @@
 var a02621 =
 [
-    [ "server_commandscript", "d7/deb/a12341.html", "d7/deb/a12341" ],
-    [ "AddSC_server_commandscript", "d6/d10/a02621.html#aaa97392c09b5045a6040d75b224bdf22", null ]
+    [ "mail_commandscript", "de/db5/a12282.html", "de/db5/a12282" ],
+    [ "AddSC_mail_commandscript", "d6/d10/a02621.html#a60390ceaf08c6b305bdc77fd27243938", null ]
 ];

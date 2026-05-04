@@ -1,7 +1,6 @@
 var a16958 =
 [
-    [ "HandleScript", "dc/d71/a16958.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "dc/d71/a16958.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "dc/d71/a16958.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "dc/d71/a16958.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "boss_dredAI", "d3/d7a/a16962.html", "d3/d7a/a16962" ],
+    [ "boss_dred", "dc/d71/a16958.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "dc/d71/a16958.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

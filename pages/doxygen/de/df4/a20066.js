@@ -1,7 +1,6 @@
 var a20066 =
 [
-    [ "boss_freya_lifebinder", "de/df4/a20066.html#a1784d6e975192a7442cabb14f688737d", null ],
-    [ "Reset", "de/df4/a20066.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
-    [ "UpdateAI", "de/df4/a20066.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
-    [ "_healTimer", "de/df4/a20066.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
+    [ "CheckCast", "de/df4/a20066.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "de/df4/a20066.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "de/df4/a20066.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

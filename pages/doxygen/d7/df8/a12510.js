@@ -1,8 +1,6 @@
 var a12510 =
 [
-    [ "boss_halycon", "d7/df8/a12510.html#a8a88f0d26b4702fd1b4f015cc1366362", null ],
-    [ "JustDied", "d7/df8/a12510.html#a48bd1245ac5b76dac543a4389a8b37be", null ],
-    [ "JustEngagedWith", "d7/df8/a12510.html#a3f6ca689777e1aa43a214e8082897db1", null ],
-    [ "Reset", "d7/df8/a12510.html#a3b972bfcac3498c921978eab1d8fec4f", null ],
-    [ "UpdateAI", "d7/df8/a12510.html#acc375743131ce5643d04ae355b6d68b4", null ]
+    [ "boss_hedrum", "d7/df8/a12510.html#adf610c943b7644aa2805934f54571492", null ],
+    [ "JustEngagedWith", "d7/df8/a12510.html#a18dd15e991417b68569b5a0e93499c0f", null ],
+    [ "UpdateAI", "d7/df8/a12510.html#a4af57f4f6d8bdaf1017788f343b5439d", null ]
 ];

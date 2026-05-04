@@ -1,6 +1,5 @@
 var a25402 =
 [
-    [ "CheckProc", "db/d8d/a25402.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
-    [ "PrepareAuraScript", "db/d8d/a25402.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
-    [ "Register", "db/d8d/a25402.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
+    [ "PrepareSpellScript", "db/d8d/a25402.html#a999d5173e12b643e0bdcefcd099f65d1", null ],
+    [ "Register", "db/d8d/a25402.html#afd92511fb578c1df33248dba5055315e", null ]
 ];

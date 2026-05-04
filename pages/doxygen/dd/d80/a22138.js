@@ -1,14 +1,13 @@
 var a22138 =
 [
-    [ "npc_finklesteinAI", "dd/d80/a22138.html#a075481689af110f8c20cd5ca13258ba3", null ],
-    [ "ClearPlayerOnTask", "dd/d80/a22138.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
-    [ "GetTaskAura", "dd/d80/a22138.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
-    [ "GetTaskCounter", "dd/d80/a22138.html#a240e8f556176b9571bd08407276402be", null ],
-    [ "GetTaskItemEntry", "dd/d80/a22138.html#a08a3005db6d192663a835b9ee192352b", null ],
-    [ "GetTaskItemName", "dd/d80/a22138.html#adce990629aa1833dc07c7dbb1297cead", null ],
-    [ "IsPlayerOnTask", "dd/d80/a22138.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
-    [ "RightClickCauldron", "dd/d80/a22138.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
-    [ "SelectRandomCode", "dd/d80/a22138.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
-    [ "StartNextTask", "dd/d80/a22138.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
-    [ "questList", "dd/d80/a22138.html#a5c3a3237579721b94dd433841b83bb02", null ]
+    [ "OPvPCapturePointEP_PWT", "dd/d80/a22138.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
+    [ "ChangeState", "dd/d80/a22138.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
+    [ "FillInitialWorldStates", "dd/d80/a22138.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
+    [ "HandlePlayerEnter", "dd/d80/a22138.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
+    [ "HandlePlayerLeave", "dd/d80/a22138.html#a5772e54263c613eee365856def5e74e6", null ],
+    [ "SendChangePhase", "dd/d80/a22138.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
+    [ "SummonFlightMaster", "dd/d80/a22138.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
+    [ "UpdateTowerState", "dd/d80/a22138.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
+    [ "m_FlightMasterSpawnedId", "dd/d80/a22138.html#afeefd804849b925e6d0a880d8efb5319", null ],
+    [ "m_TowerState", "dd/d80/a22138.html#a914dcbb37baf457750cfe9829d95d88c", null ]
 ];

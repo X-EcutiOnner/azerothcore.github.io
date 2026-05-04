@@ -1,5 +1,6 @@
 var a14826 =
 [
-    [ "npc_pilgrims_bounty_plate", "d2/d7a/a14826.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
-    [ "SpellHit", "d2/d7a/a14826.html#a7797b7a532336542ef37f0643df8dec0", null ]
+    [ "HandleAfterEffectRemove", "d2/d7a/a14826.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
+    [ "PrepareAuraScript", "d2/d7a/a14826.html#a3b54e232c0502eaa03b314a05dce1835", null ],
+    [ "Register", "d2/d7a/a14826.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
 ];

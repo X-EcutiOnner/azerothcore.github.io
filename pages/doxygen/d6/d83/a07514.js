@@ -1,15 +1,8 @@
 var a07514 =
 [
-    [ "ArenaSeasonRewardGroup", "d6/d83/a07514.html#a128e78db84f099d91e21da77b2147e82", null ],
-    [ "operator==", "d6/d83/a07514.html#a625ef69db8523e1a5e6e5ea16bdacc2f", null ],
-    [ "achievementRewards", "d6/d83/a07514.html#a1b89c847e86b29671f86dbbef1c9a1b6", null ],
-    [ "criteriaType", "d6/d83/a07514.html#a16261356df6f5aed35bc3ec06ab49560", null ],
-    [ "goldReward", "d6/d83/a07514.html#a582c7d51c2ab4bb5cf0e45b773dd20ee", null ],
-    [ "itemRewards", "d6/d83/a07514.html#a24e7afcf5a95fba7f2cdc5914baac392", null ],
-    [ "maxCriteria", "d6/d83/a07514.html#aa3cf9a0ad2ed2170542ec360e61682e2", null ],
-    [ "minCriteria", "d6/d83/a07514.html#a07507bd59265508a463aa328f343afa0", null ],
-    [ "rewardMailBody", "d6/d83/a07514.html#afa55d982d4f2ef5f2eccf48ed305b649", null ],
-    [ "rewardMailSubject", "d6/d83/a07514.html#a0574cf3fc910f13413ea7eb1c0f08166", null ],
-    [ "rewardMailTemplateID", "d6/d83/a07514.html#ade97a1ea3355cd19aaf65ab80a26e4bf", null ],
-    [ "season", "d6/d83/a07514.html#a2e6a5d2ca970d3921142b497d351c50f", null ]
+    [ "nbTowerCannonBottom", "d6/d83/a07514.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
+    [ "nbTurretTop", "d6/d83/a07514.html#a5a728dccad89da190131cd93b62390b7", null ],
+    [ "TowerCannonBottom", "d6/d83/a07514.html#a21fa09356b3349bf45865aa3f0920268", null ],
+    [ "towerEntry", "d6/d83/a07514.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
+    [ "TurretTop", "d6/d83/a07514.html#a6849ba6967fa275950da9fec16df9bec", null ]
 ];

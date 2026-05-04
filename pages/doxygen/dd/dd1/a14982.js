@@ -1,7 +1,12 @@
 var a14982 =
 [
-    [ "hyjalTyrandeAI", "df/d23/a14986.html", "df/d23/a14986" ],
-    [ "npc_hyjal_tyrande", "dd/dd1/a14982.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
-    [ "GetAI", "dd/dd1/a14982.html#a2f863e616352a98763eef9a717d73388", null ],
-    [ "OnGossipSelect", "dd/dd1/a14982.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
+    [ "boss_kazrogal", "dd/dd1/a14982.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
+    [ "DoAction", "dd/dd1/a14982.html#a7721debceeefaeb69e71855b8e8742f8", null ],
+    [ "GetMarkRepeatTimer", "dd/dd1/a14982.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
+    [ "JustDied", "dd/dd1/a14982.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
+    [ "JustEngagedWith", "dd/dd1/a14982.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
+    [ "KilledUnit", "dd/dd1/a14982.html#ab1439114a84d85947106d979f38d12fa", null ],
+    [ "Reset", "dd/dd1/a14982.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
+    [ "_markCounter", "dd/dd1/a14982.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
+    [ "_recentlySpoken", "dd/dd1/a14982.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
 ];

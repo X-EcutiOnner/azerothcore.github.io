@@ -1,11 +1,9 @@
 var a12142 =
 [
-    [ "bf_commandscript", "de/d76/a12142.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "de/d76/a12142.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "de/d76/a12142.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "de/d76/a12142.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldQueue", "de/d76/a12142.html#a23f6e8d14c511f3e9c3c070be14477e4", null ],
-    [ "HandleBattlefieldStart", "de/d76/a12142.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "de/d76/a12142.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "de/d76/a12142.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "map", "de/d76/a12142.html#a274c6d61203c24b3c680055244e1f590", null ],
+    [ "mouth", "de/d76/a12142.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
+    [ "mouthGuid", "de/d76/a12142.html#a2245c14e379c83bdd47165e829de2e41", null ],
+    [ "necropolisCount", "de/d76/a12142.html#aec44e315616920ba8224be8c4831f5e9", null ],
+    [ "remainingNecropoli", "de/d76/a12142.html#a3c18c61fcd44c32f9e0009479db85399", null ],
+    [ "zoneId", "de/d76/a12142.html#a98e1490705f74627cf9e5483857f3f25", null ]
 ];

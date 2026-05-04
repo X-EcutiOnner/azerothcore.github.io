@@ -1,5 +1,5 @@
 var a02546 =
 [
-    [ "player_settings_commandscript", "d3/d99/a12301.html", "d3/d99/a12301" ],
-    [ "AddSC_player_settings_commandscript", "d1/d1a/a02546.html#a366685affd5565d164c65f8cd4a20b61", null ]
+    [ "list_commandscript", "d5/d3c/a12274.html", "d5/d3c/a12274" ],
+    [ "AddSC_list_commandscript", "d1/d1a/a02546.html#a81af00772e7a06ad952109222b1f53a3", null ]
 ];

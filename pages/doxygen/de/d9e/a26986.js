@@ -1,10 +1,8 @@
 var a26986 =
 [
-    [ "Absorb", "de/d9e/a26986.html#aedee311aa77597674b3665eaf74e98c8", null ],
-    [ "CalculateAmount", "de/d9e/a26986.html#a5fdabb367ab86589d733d1da906446ab", null ],
-    [ "Load", "de/d9e/a26986.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
-    [ "PrepareAuraScript", "de/d9e/a26986.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
-    [ "Register", "de/d9e/a26986.html#abfc540163e9eb34cbf8a48d39bede840", null ],
-    [ "Validate", "de/d9e/a26986.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
-    [ "absorbChance", "de/d9e/a26986.html#a293be81af42d810126eda35b1d27e3bc", null ]
+    [ "CheckProc", "de/d9e/a26986.html#a6abcfe33cfddde117eb9d19bdf834c3f", null ],
+    [ "HandleProc", "de/d9e/a26986.html#a4ee92efd0a312f7b5b4e0e19184cd085", null ],
+    [ "PrepareAuraScript", "de/d9e/a26986.html#ac45288980b444c92daecc1392a2cd38c", null ],
+    [ "Register", "de/d9e/a26986.html#ac93280657ee8d64aced09b95dac270d4", null ],
+    [ "Validate", "de/d9e/a26986.html#ad7b22c7da5d72a392d342624c46b456b", null ]
 ];

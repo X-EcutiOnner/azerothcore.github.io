@@ -1,11 +1,12 @@
 var a23198 =
 [
-    [ "boss_kiggler_the_crazed", "d1/d36/a23198.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
-    [ "AttackStart", "d1/d36/a23198.html#a47c18487637dcb911852573e3aec85a2", null ],
-    [ "JustDied", "d1/d36/a23198.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
-    [ "JustEngagedWith", "d1/d36/a23198.html#acd10951a5b148579d0bd4196cc2e686e", null ],
-    [ "Reset", "d1/d36/a23198.html#a3bd8ca2488b2db298a198038a849189e", null ],
-    [ "UpdateAI", "d1/d36/a23198.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
-    [ "_scheduler", "d1/d36/a23198.html#af041c254910df663a03fcc815db635da", null ],
-    [ "instance", "d1/d36/a23198.html#aa78db443f19814c66b977fe008de74fa", null ]
+    [ "boss_nazan", "d1/d36/a23198.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "d1/d36/a23198.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "d1/d36/a23198.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "d1/d36/a23198.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "d1/d36/a23198.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "d1/d36/a23198.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "d1/d36/a23198.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "d1/d36/a23198.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "d1/d36/a23198.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

@@ -1,7 +1,13 @@
 var a15562 =
 [
-    [ "npc_anubisath_warder", "da/d8c/a15562.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "da/d8c/a15562.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "da/d8c/a15562.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "da/d8c/a15562.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "da/d8c/a15562.html#a454f677dddce956534d6f5a253ed587b", null ],
+    [ "GetData", "da/d8c/a15562.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
+    [ "Initialize", "da/d8c/a15562.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
+    [ "OnCreatureCreate", "da/d8c/a15562.html#affc7045f944251fb27683133f511029f", null ],
+    [ "OnGameObjectCreate", "da/d8c/a15562.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
+    [ "OnUnitDeath", "da/d8c/a15562.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
+    [ "SetBossState", "da/d8c/a15562.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
+    [ "SetData", "da/d8c/a15562.html#a25f4e12aad6325e87b31770c1243d746", null ],
+    [ "BugTrioDeathCount", "da/d8c/a15562.html#aab0191f5b31264f0632a24df0607d05b", null ],
+    [ "CThunGraspGUIDs", "da/d8c/a15562.html#aea180c0b623e919f56f9210ce15724e8", null ]
 ];

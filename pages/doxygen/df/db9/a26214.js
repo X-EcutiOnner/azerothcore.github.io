@@ -1,7 +1,7 @@
 var a26214 =
 [
-    [ "CalculateAmount", "df/db9/a26214.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "df/db9/a26214.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "df/db9/a26214.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "df/db9/a26214.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "HandleProc", "df/db9/a26214.html#a00e4e7a77373767f4a68f0ee209d4e7d", null ],
+    [ "PrepareAuraScript", "df/db9/a26214.html#a1b93f0cedfac153c2dab9d331d9fae0f", null ],
+    [ "Register", "df/db9/a26214.html#a6d171ec8688075496ec7d9f2325a5a1c", null ],
+    [ "Validate", "df/db9/a26214.html#a74be985272c75fff9592927ea010a9d9", null ]
 ];

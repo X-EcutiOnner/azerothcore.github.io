@@ -1,6 +1,8 @@
 var a28714 =
 [
-    [ "AreaGroupId", "d9/d51/a28714.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d9/d51/a28714.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d9/d51/a28714.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "difficulty", "d9/d51/a28714.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "d9/d51/a28714.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "d9/d51/a28714.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "d9/d51/a28714.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "d9/d51/a28714.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

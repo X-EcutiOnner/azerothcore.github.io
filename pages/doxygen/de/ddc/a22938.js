@@ -1,7 +1,7 @@
 var a22938 =
 [
-    [ "FilterTargets", "de/ddc/a22938.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "de/ddc/a22938.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "de/ddc/a22938.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "de/ddc/a22938.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "npc_ahune_ice_spear_bunny", "de/ddc/a22938.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "de/ddc/a22938.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "de/ddc/a22938.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "de/ddc/a22938.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

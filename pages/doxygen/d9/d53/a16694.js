@@ -1,6 +1,6 @@
 var a16694 =
 [
-    [ "npc_toc_shadow_priestAI", "db/dcc/a16698.html", "db/dcc/a16698" ],
-    [ "npc_toc_shadow_priest", "d9/d53/a16694.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
-    [ "GetAI", "d9/d53/a16694.html#a93b38d23759da3b7417dbb94b4a951da", null ]
+    [ "npc_toc_druidAI", "db/dcc/a16698.html", "db/dcc/a16698" ],
+    [ "npc_toc_druid", "d9/d53/a16694.html#a07321d5ee164b8e47f652f9bad65216b", null ],
+    [ "GetAI", "d9/d53/a16694.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
 ];

@@ -1,7 +1,9 @@
 var a21602 =
 [
-    [ "OnRemove", "d6/d2e/a21602.html#a335bc64860227122e0536f61144e2003", null ],
-    [ "PrepareAuraScript", "d6/d2e/a21602.html#ae38bdeb74493f73bed1246c011bb2076", null ],
-    [ "Register", "d6/d2e/a21602.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
-    [ "Validate", "d6/d2e/a21602.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
+    [ "npc_venture_co_stragglerAI", "d6/d2e/a21602.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "d6/d2e/a21602.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "d6/d2e/a21602.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "d6/d2e/a21602.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "d6/d2e/a21602.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "d6/d2e/a21602.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

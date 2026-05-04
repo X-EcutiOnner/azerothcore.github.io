@@ -1,6 +1,6 @@
 var a20730 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d2/d38/a20734.html", "d2/d38/a20734" ],
-    [ "instance_ulduar", "de/d3a/a20730.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "de/d3a/a20730.html#ae263428f4229c75b22f990dabe6b3c06", null ]
+    [ "OnEffect", "de/d3a/a20730.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "de/d3a/a20730.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "de/d3a/a20730.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

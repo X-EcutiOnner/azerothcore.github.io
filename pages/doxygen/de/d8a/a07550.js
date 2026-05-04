@@ -1,15 +1,19 @@
 var a07550 =
 [
-    [ "ModifyMatchmakerRating", "de/d8a/a07550.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
-    [ "ModifyPersonalRating", "de/d8a/a07550.html#a34401ea82507df97e540c698fa549b5f", null ],
-    [ "Class", "de/d8a/a07550.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
-    [ "Guid", "de/d8a/a07550.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
-    [ "MatchMakerRating", "de/d8a/a07550.html#ac91a344c7aecb72d17841413f5d935da", null ],
-    [ "MaxMMR", "de/d8a/a07550.html#afc86e111a1c699254c5ea761d0dda088", null ],
-    [ "Name", "de/d8a/a07550.html#a7917e705d8c15bbe2731c32375c34d16", null ],
-    [ "PersonalRating", "de/d8a/a07550.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
-    [ "SeasonGames", "de/d8a/a07550.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
-    [ "SeasonWins", "de/d8a/a07550.html#a7239187cef3a02839fe27577ad022ec9", null ],
-    [ "WeekGames", "de/d8a/a07550.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
-    [ "WeekWins", "de/d8a/a07550.html#a5b9e5e02d59569080d34abd9b9728693", null ]
+    [ "ArenaSeasonRewardGroupsBySeasonContainer", "de/d8a/a07550.html#a510f51e8cd7ad494dc2f0dd25640e924", null ],
+    [ "BroadcastUpdatedWorldState", "de/d8a/a07550.html#ae40b9d3ff73604045d1d7f6c59487f95", null ],
+    [ "CanDeleteArenaTeams", "de/d8a/a07550.html#a6d2302f89f8756d7ceaf210cdabea9e8", null ],
+    [ "ChangeCurrentSeason", "de/d8a/a07550.html#a05f9e4be327f8ecb65729cec2d811851", null ],
+    [ "DeleteArenaTeams", "de/d8a/a07550.html#ad28595c2f09c2cecd46ba8811374ae21", null ],
+    [ "GameEventForArenaSeason", "de/d8a/a07550.html#a3bef72c5136e9920f8b4e0438f3f1628", null ],
+    [ "GetCurrentSeason", "de/d8a/a07550.html#ae07db874a46e7d1cc8c60105635bbdf0", null ],
+    [ "GetSeasonState", "de/d8a/a07550.html#abff2ff6a3e08f37b00405f5f688cb08d", null ],
+    [ "instance", "de/d8a/a07550.html#ad9299d5394ee20830fe9aca038575ce0", null ],
+    [ "LoadActiveSeason", "de/d8a/a07550.html#a81c47f17e571dd5ba2c2617bdef09694", null ],
+    [ "LoadRewards", "de/d8a/a07550.html#a495f7d12cbe5a4bfb09a9a6de45c17e1", null ],
+    [ "RewardTeamsForTheSeason", "de/d8a/a07550.html#a4c1069779f69aa3eae885540fa2b31e6", null ],
+    [ "SetSeasonState", "de/d8a/a07550.html#a118910793bb11fba35b0cd6b28e248a8", null ],
+    [ "_arenaSeasonRewardGroupsStore", "de/d8a/a07550.html#a90d508c6ffb7c7277d0e6c6f27bafc33", null ],
+    [ "_currentSeason", "de/d8a/a07550.html#a168a36d3ae1818f22acfb168e932c10c", null ],
+    [ "_currentSeasonState", "de/d8a/a07550.html#af73eb610ed7b0e908c206aac14f2c452", null ]
 ];

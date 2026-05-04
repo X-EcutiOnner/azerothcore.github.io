@@ -1,6 +1,5 @@
 var a27906 =
 [
-    [ "go_brewfest_musicAI", "dd/d1f/a27910.html", "dd/d1f/a27910" ],
-    [ "go_brewfest_music", "de/dbb/a27906.html#a787963a5ee591933d62fdb52911f9a77", null ],
-    [ "GetAI", "de/dbb/a27906.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
+    [ "go_table_theka", "de/dbb/a27906.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
+    [ "OnGossipHello", "de/dbb/a27906.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
 ];

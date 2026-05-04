@@ -1,5 +1,5 @@
 var a13258 =
 [
-    [ "go_acherus_soul_prison", "d7/d7b/a13258.html#a13c858f74080b8f7963fdacc4b554019", null ],
-    [ "OnGossipHello", "d7/d7b/a13258.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "d7/d7b/a13258.html#ad083ab5aa00902987e18f4e9423a705a", null ],
+    [ "ProcessEvent", "d7/d7b/a13258.html#a8dbe1537ea00412a6fa366891204d645", null ]
 ];

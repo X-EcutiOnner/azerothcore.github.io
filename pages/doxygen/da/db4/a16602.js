@@ -1,6 +1,6 @@
 var a16602 =
 [
-    [ "HideNpcEvent", "da/db4/a16602.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "da/db4/a16602.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "da/db4/a16602.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "npc_toc5_grand_champion_minionAI", "de/d4c/a16606.html", "de/d4c/a16606" ],
+    [ "npc_toc5_grand_champion_minion", "da/db4/a16602.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "da/db4/a16602.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

@@ -1,6 +1,7 @@
 var a15974 =
 [
-    [ "HandleDummy", "d8/d94/a15974.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d8/d94/a15974.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d8/d94/a15974.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_wizzlecrank_shredderAI", "d4/d35/a15978.html", "d4/d35/a15978" ],
+    [ "npc_wizzlecrank_shredder", "d8/d94/a15974.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "d8/d94/a15974.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "d8/d94/a15974.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

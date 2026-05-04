@@ -1,9 +1,9 @@
 var a28202 =
 [
-    [ "npc_chicken_cluckAI", "d1/ddc/a28202.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d1/ddc/a28202.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d1/ddc/a28202.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d1/ddc/a28202.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d1/ddc/a28202.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d1/ddc/a28202.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_fireworkAI", "d1/ddc/a28202.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d1/ddc/a28202.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d1/ddc/a28202.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d1/ddc/a28202.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d1/ddc/a28202.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d1/ddc/a28202.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

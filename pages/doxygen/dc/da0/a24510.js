@@ -1,9 +1,8 @@
 var a24510 =
 [
-    [ "Absorb", "dc/da0/a24510.html#a8f6e773840274e07d685c891561f72d8", null ],
-    [ "CalculateAmount", "dc/da0/a24510.html#af337ef5d5cea283f4e43b943961838d6", null ],
-    [ "Load", "dc/da0/a24510.html#a65f51613dd3614f5b0e3e1dc938f56cf", null ],
-    [ "PrepareAuraScript", "dc/da0/a24510.html#a5c2eca05834a29fa6d5d7dd3c75e52ed", null ],
-    [ "Register", "dc/da0/a24510.html#a80982626e1b67374629cb6e0800ccaea", null ],
-    [ "absorbPct", "dc/da0/a24510.html#a7ce98d22bb4a28f94366b4c08f76b61a", null ]
+    [ "CheckProc", "dc/da0/a24510.html#a44d845f5cbfaf0fd33409ffd16fd4396", null ],
+    [ "HandleProc", "dc/da0/a24510.html#a946cb56cf0a525c0a44b638b28e5b3ad", null ],
+    [ "PrepareAuraScript", "dc/da0/a24510.html#a01c53cd13316af74cfe27603e70ab468", null ],
+    [ "Register", "dc/da0/a24510.html#a5bb2ca31f2e4477640578a305593bcb3", null ],
+    [ "Validate", "dc/da0/a24510.html#a307274a8f4e55ad15efc08711a7b8e8f", null ]
 ];

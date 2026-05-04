@@ -1,5 +1,6 @@
 var a10830 =
 [
-    [ "LogoutComplete", "dc/da5/a10830.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
-    [ "Write", "dc/da5/a10830.html#a0d958bc07b674ed3339833351fec7d3a", null ]
+    [ "BuyBankSlotResult", "dc/da5/a10830.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "dc/da5/a10830.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "dc/da5/a10830.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

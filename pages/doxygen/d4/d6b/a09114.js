@@ -1,8 +1,11 @@
 var a09114 =
 [
-    [ "Entry", "d4/d6b/a09114.html#ac9fa29db15e06513805124a56cd073e8", null ],
-    [ "ExtendedCost", "d4/d6b/a09114.html#ac826dc078ef456ed93bf23175bce243d", null ],
-    [ "Incrtime", "d4/d6b/a09114.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
-    [ "Item", "d4/d6b/a09114.html#aa500da847d94a9b70cb3a26b782059b3", null ],
-    [ "MaxCount", "d4/d6b/a09114.html#a04534ff42e5889995b5203a3257bc864", null ]
+    [ "VehicleSeatAddon", "d4/d6b/a09114.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "d4/d6b/a09114.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "d4/d6b/a09114.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "d4/d6b/a09114.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "d4/d6b/a09114.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "d4/d6b/a09114.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "d4/d6b/a09114.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "d4/d6b/a09114.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

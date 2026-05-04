@@ -1,11 +1,6 @@
 var a19934 =
 [
-    [ "boss_flame_leviathan_defense_turret", "d8/d42/a19934.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
-    [ "CanAIAttack", "d8/d42/a19934.html#a17020dc7facabb0cacac3209277a73f7", null ],
-    [ "DamageTaken", "d8/d42/a19934.html#ac15aadce1954d827b7e833ed761faf10", null ],
-    [ "JustDied", "d8/d42/a19934.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
-    [ "KilledUnit", "d8/d42/a19934.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
-    [ "UpdateAI", "d8/d42/a19934.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
-    [ "_instance", "d8/d42/a19934.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
-    [ "_setHealth", "d8/d42/a19934.html#a413187aa01c119d088846a216f093baa", null ]
+    [ "achievement_assembly_of_iron", "d8/d42/a19934.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "d8/d42/a19934.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "d8/d42/a19934.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

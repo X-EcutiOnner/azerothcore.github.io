@@ -1,11 +1,6 @@
 var a10762 =
 [
-    [ "PointMoveMap", "d9/d21/a10762.html#a777e97ebcf367638578d1c189480ad99", null ],
-    [ "SystemMgr", "d9/d21/a10762.html#ac7fd54676b46afcbc520e4c58fcdce75", null ],
-    [ "~SystemMgr", "d9/d21/a10762.html#ab192b30aa7ff1edd27bb23e87a7ac4c5", null ],
-    [ "GetPointMoveList", "d9/d21/a10762.html#af9f998f9778cebce3edb39b7296994d5", null ],
-    [ "instance", "d9/d21/a10762.html#a71b78a44a3656802d55211d68fb19e12", null ],
-    [ "LoadScriptWaypoints", "d9/d21/a10762.html#af8097171a2ffc49600397c6a519dddc3", null ],
-    [ "_empty", "d9/d21/a10762.html#a4c90cb038afeb09c107979348bd3ca01", null ],
-    [ "m_mPointMoveMap", "d9/d21/a10762.html#a3603d019adf647df9f314a7ca61a25dd", null ]
+    [ "WeatherScript", "d9/d21/a10762.html#a4f86b051364c95f5389d7ed473429b7b", null ],
+    [ "IsDatabaseBound", "d9/d21/a10762.html#a2547902149ce080711ccacb709b10e8a", null ],
+    [ "OnChange", "d9/d21/a10762.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
 ];

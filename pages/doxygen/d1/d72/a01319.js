@@ -1,46 +1,11 @@
 var a01319 =
 [
-    [ "GmTicket", "d4/dcc/a11953.html", "d4/dcc/a11953" ],
-    [ "TicketMgr", "d7/d43/a11957.html", "d7/d43/a11957" ],
-    [ "sTicketMgr", "d1/d72/a01319.html#a20db6dadbe20767eb03327894588c7be", null ],
-    [ "GmTicketList", "d1/d72/a01319.html#a697d75cf06a963bad84903696288001a", null ],
-    [ "GMTicketEscalationStatus", "d1/d72/a01319.html#a878f9ec26e56dd05dd8f956cfaba754d", [
-      [ "TICKET_UNASSIGNED", "d1/d72/a01319.html#a878f9ec26e56dd05dd8f956cfaba754daa6e0f9ce9a37b89b10577eafedb4226a", null ],
-      [ "TICKET_ASSIGNED", "d1/d72/a01319.html#a878f9ec26e56dd05dd8f956cfaba754daf84dc8de23735d2da3c608744476ea28", null ],
-      [ "TICKET_IN_ESCALATION_QUEUE", "d1/d72/a01319.html#a878f9ec26e56dd05dd8f956cfaba754da5a63c2f2fcec47a0eaad7a4724c604e1", null ],
-      [ "TICKET_ESCALATED_ASSIGNED", "d1/d72/a01319.html#a878f9ec26e56dd05dd8f956cfaba754da4c8da0f38bac21e259f2f077722c46d2", null ]
-    ] ],
-    [ "GMTicketOpenedByGMStatus", "d1/d72/a01319.html#aeedacb4a8f5a99f7c38b120ef230820d", [
-      [ "GMTICKET_OPENEDBYGM_STATUS_NOT_OPENED", "d1/d72/a01319.html#aeedacb4a8f5a99f7c38b120ef230820da0acf204e62a9ac335f4d8e519401a4cd", null ],
-      [ "GMTICKET_OPENEDBYGM_STATUS_OPENED", "d1/d72/a01319.html#aeedacb4a8f5a99f7c38b120ef230820dae8a849a379231ad568354acea3c1686a", null ]
-    ] ],
-    [ "GMTicketResponse", "d1/d72/a01319.html#adb4cde78a930d8f04d2f7ba4167a27d3", [
-      [ "GMTICKET_RESPONSE_ALREADY_EXIST", "d1/d72/a01319.html#adb4cde78a930d8f04d2f7ba4167a27d3a51361b1b513a3edf01f314b6c8c14921", null ],
-      [ "GMTICKET_RESPONSE_CREATE_SUCCESS", "d1/d72/a01319.html#adb4cde78a930d8f04d2f7ba4167a27d3a841b790fadbc9573dd25dc12bacc2780", null ],
-      [ "GMTICKET_RESPONSE_CREATE_ERROR", "d1/d72/a01319.html#adb4cde78a930d8f04d2f7ba4167a27d3a08c10cb4c26d717228a5697ead5bbbc2", null ],
-      [ "GMTICKET_RESPONSE_UPDATE_SUCCESS", "d1/d72/a01319.html#adb4cde78a930d8f04d2f7ba4167a27d3af30fa9cd9828f4254eac75bd01ca49f5", null ],
-      [ "GMTICKET_RESPONSE_UPDATE_ERROR", "d1/d72/a01319.html#adb4cde78a930d8f04d2f7ba4167a27d3af4d4cdba2bdbb81d2ca25b1f4864e18f", null ],
-      [ "GMTICKET_RESPONSE_TICKET_DELETED", "d1/d72/a01319.html#adb4cde78a930d8f04d2f7ba4167a27d3aa0b33c09a7035bef00e6d174383c0804", null ]
-    ] ],
-    [ "GMTicketStatus", "d1/d72/a01319.html#aa9bdef2d04cda42105b540072878a959", [
-      [ "GMTICKET_STATUS_HASTEXT", "d1/d72/a01319.html#aa9bdef2d04cda42105b540072878a959aae8e16aa9f969c6f6553c6237125d0ad", null ],
-      [ "GMTICKET_STATUS_DEFAULT", "d1/d72/a01319.html#aa9bdef2d04cda42105b540072878a959a251de6cd21e96c676566232e9625b5a0", null ]
-    ] ],
-    [ "GMTicketSystemStatus", "d1/d72/a01319.html#a620665e68b03e8238c0f67a7d156ff20", [
-      [ "GMTICKET_QUEUE_STATUS_DISABLED", "d1/d72/a01319.html#a620665e68b03e8238c0f67a7d156ff20a4a66517fc7ca7d2754a456d10fb795f3", null ],
-      [ "GMTICKET_QUEUE_STATUS_ENABLED", "d1/d72/a01319.html#a620665e68b03e8238c0f67a7d156ff20a061a48ce23122a2783e2b9f1df7d9417", null ]
-    ] ],
-    [ "LagReportType", "d1/d72/a01319.html#a8c967ea39ca26744000413d362c7c100", [
-      [ "LAG_REPORT_TYPE_LOOT", "d1/d72/a01319.html#a8c967ea39ca26744000413d362c7c100a39753ee340eb3a338b2e4d18171da9f7", null ],
-      [ "LAG_REPORT_TYPE_AUCTION_HOUSE", "d1/d72/a01319.html#a8c967ea39ca26744000413d362c7c100aaedf06863e987c9b3fd5226f17680023", null ],
-      [ "LAG_REPORT_TYPE_MAIL", "d1/d72/a01319.html#a8c967ea39ca26744000413d362c7c100a11af2b0c93f6e60a08c02ad20c846c83", null ],
-      [ "LAG_REPORT_TYPE_CHAT", "d1/d72/a01319.html#a8c967ea39ca26744000413d362c7c100afe144b0bc7321e1a1999ae69cd76fd90", null ],
-      [ "LAG_REPORT_TYPE_MOVEMENT", "d1/d72/a01319.html#a8c967ea39ca26744000413d362c7c100ae2cb2d020d3795c948745bc52332d007", null ],
-      [ "LAG_REPORT_TYPE_SPELL", "d1/d72/a01319.html#a8c967ea39ca26744000413d362c7c100a48ba55ab4e85d0930ac31a7727276e9d", null ]
-    ] ],
-    [ "TicketType", "d1/d72/a01319.html#a4c0ab886570eedf7c4ab55ac06a3ce40", [
-      [ "TICKET_TYPE_OPEN", "d1/d72/a01319.html#a4c0ab886570eedf7c4ab55ac06a3ce40a08a09aed9108054a1ffb663d6be0a95e", null ],
-      [ "TICKET_TYPE_CLOSED", "d1/d72/a01319.html#a4c0ab886570eedf7c4ab55ac06a3ce40abdad221a4e0aac30acd6b1989781f190", null ],
-      [ "TICKET_TYPE_CHARACTER_DELETED", "d1/d72/a01319.html#a4c0ab886570eedf7c4ab55ac06a3ce40a39e587cb50470c90ae82c9d1570e1896", null ]
-    ] ]
+    [ "BaseGain", "d1/d72/a01319.html#ada8e56c81ab672d85f2ff274d109e477", null ],
+    [ "Gain", "d1/d72/a01319.html#ab923dd9a0df7d75127965b40539d4a10", null ],
+    [ "GetColorCode", "d1/d72/a01319.html#a812c722ab7eb34807d8cad9659d34245", null ],
+    [ "GetGrayLevel", "d1/d72/a01319.html#a9c310a4423fd5ada14fac549e4b1a6fd", null ],
+    [ "GetZeroDifference", "d1/d72/a01319.html#a4152e9ef9972f6a20cbc990dce953c36", null ],
+    [ "hk_honor_at_level", "d1/d72/a01319.html#ad25519337dcc6370a39a072c53386f55", null ],
+    [ "hk_honor_at_level_f", "d1/d72/a01319.html#a218866625f1b3b8224fb44f5a0c8b416", null ],
+    [ "xp_in_group_rate", "d1/d72/a01319.html#a304088bebc0743c764589112d2ba3b7f", null ]
 ];

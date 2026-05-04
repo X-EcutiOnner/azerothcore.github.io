@@ -1,6 +1,8 @@
 var a14954 =
 [
-    [ "FilterTargets", "d1/dce/a14954.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "d1/dce/a14954.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "d1/dce/a14954.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "npc_doomfire_spirit", "d1/dce/a14954.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
+    [ "Reset", "d1/dce/a14954.html#a0600718fad91723eba74b903583c5942", null ],
+    [ "TryTeleportInDirection", "d1/dce/a14954.html#a7fc48df636df66a006a8179fd63e2a65", null ],
+    [ "UpdateAI", "d1/dce/a14954.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
+    [ "turnConstant", "d1/dce/a14954.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
 ];

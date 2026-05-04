@@ -1,11 +1,20 @@
 var a01460 =
 [
-    [ "Creature", "d0/d4d/a08281.html", "d0/d4d/a08281" ],
-    [ "AssistDelayEvent", "dc/d1b/a08289.html", "dc/d1b/a08289" ],
-    [ "ForcedDespawnDelayEvent", "d9/d95/a08293.html", "d9/d95/a08293" ],
-    [ "TemporaryThreatModifierEvent", "d3/da9/a08297.html", "d3/da9/a08297" ],
-    [ "CREATURE_Z_ATTACK_RANGE", "d2/d2f/a01460.html#a91a03a879f1b4df44968ae2f9f22fb0d", null ],
-    [ "MAX_VENDOR_ITEMS", "d2/d2f/a01460.html#a44c3a813b92331e325ba5aae11ed72a3", null ],
-    [ "CreatureTextRepeatGroup", "d2/d2f/a01460.html#aa92b7ce1a721a3955751ae25cf01b22a", null ],
-    [ "CreatureTextRepeatIds", "d2/d2f/a01460.html#a4a74e5d0af63228e47e1f663570018ae", null ]
+    [ "Corpse", "da/d2d/a08302.html", "da/d2d/a08302" ],
+    [ "CORPSE_RECLAIM_RADIUS", "d2/d2f/a01460.html#a1cebf109f41dcdac8a90086696642782", null ],
+    [ "MAX_CORPSE_TYPE", "d2/d2f/a01460.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
+    [ "CorpseFlags", "d2/d2f/a01460.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [
+      [ "CORPSE_FLAG_NONE", "d2/d2f/a01460.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca30260079b14373a47aef21b99e8757a2", null ],
+      [ "CORPSE_FLAG_BONES", "d2/d2f/a01460.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca47ec12fa0520573d7d8ff9231ca4eb8b", null ],
+      [ "CORPSE_FLAG_UNK1", "d2/d2f/a01460.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c", null ],
+      [ "CORPSE_FLAG_UNK2", "d2/d2f/a01460.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca769ec96151b713170c051ee6236bbd5e", null ],
+      [ "CORPSE_FLAG_HIDE_HELM", "d2/d2f/a01460.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca830d0cde7665a938cd48d4018ae0df79", null ],
+      [ "CORPSE_FLAG_HIDE_CLOAK", "d2/d2f/a01460.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca25bc5b9c02c2cce38be9bb32c2ad335a", null ],
+      [ "CORPSE_FLAG_LOOTABLE", "d2/d2f/a01460.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537caeb7f1630dc7c0b062b809e65cd4e5f80", null ]
+    ] ],
+    [ "CorpseType", "d2/d2f/a01460.html#a43260eb47484e62a16a868f79646c683", [
+      [ "CORPSE_BONES", "d2/d2f/a01460.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356", null ],
+      [ "CORPSE_RESURRECTABLE_PVE", "d2/d2f/a01460.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78", null ],
+      [ "CORPSE_RESURRECTABLE_PVP", "d2/d2f/a01460.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba", null ]
+    ] ]
 ];

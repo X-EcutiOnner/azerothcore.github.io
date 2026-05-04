@@ -1,6 +1,6 @@
 var a17558 =
 [
-    [ "boss_blood_queen_lana_thelAI", "d6/dc8/a17562.html", "d6/dc8/a17562" ],
-    [ "boss_blood_queen_lana_thel", "d3/d10/a17558.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "d3/d10/a17558.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "ModAuraStack", "d3/d10/a17558.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "d3/d10/a17558.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "d3/d10/a17558.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

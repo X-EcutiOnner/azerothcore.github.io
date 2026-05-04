@@ -1,10 +1,9 @@
 var a09386 =
 [
-    [ "iterator", "d1/d24/a09386.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
-    [ "begin", "d1/d24/a09386.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
-    [ "end", "d1/d24/a09386.html#a266acb421cfc6ccc56dc2acff3202971", null ],
-    [ "getFirst", "d1/d24/a09386.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
-    [ "getLast", "d1/d24/a09386.html#a46a36813eaf752815a3f8c739db88a5d", null ],
-    [ "rbegin", "d1/d24/a09386.html#ae69734978b5eec009a696861b7b7152b", null ],
-    [ "rend", "d1/d24/a09386.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
+    [ "CellArea", "d1/d24/a09386.html#ace8ca84753b4ec8681415386fb135053", null ],
+    [ "CellArea", "d1/d24/a09386.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
+    [ "operator!", "d1/d24/a09386.html#a386d4a562c27155012daedc361541e3b", null ],
+    [ "ResizeBorders", "d1/d24/a09386.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
+    [ "high_bound", "d1/d24/a09386.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
+    [ "low_bound", "d1/d24/a09386.html#a374fe9802c798e6ece359a8025b6e1df", null ]
 ];

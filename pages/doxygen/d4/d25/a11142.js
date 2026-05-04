@@ -1,9 +1,8 @@
 var a11142 =
 [
-    [ "SwapItem", "d4/d25/a11142.html#a603871bfd69a2bcc2083de350f48875a", null ],
-    [ "Read", "d4/d25/a11142.html#a475122a155c96446ecad1b92ef5c7a19", null ],
-    [ "DestinationBag", "d4/d25/a11142.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
-    [ "DestinationSlot", "d4/d25/a11142.html#a0cf0b21ebfccb843ee23831e17982081", null ],
-    [ "SourceBag", "d4/d25/a11142.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
-    [ "SourceSlot", "d4/d25/a11142.html#ab080d55f63eb07c8db090123260bee23", null ]
+    [ "SetDungeonDifficulty", "d4/d25/a11142.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
+    [ "Write", "d4/d25/a11142.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
+    [ "Difficulty", "d4/d25/a11142.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
+    [ "IsInGroup", "d4/d25/a11142.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
+    [ "Unk", "d4/d25/a11142.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
 ];

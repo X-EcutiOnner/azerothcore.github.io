@@ -1,6 +1,6 @@
 var a23558 =
 [
-    [ "lapseTeleport", "d8/d04/a23558.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "d8/d04/a23558.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "d8/d04/a23558.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "HandleAfterRemove", "d8/d04/a23558.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "d8/d04/a23558.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "d8/d04/a23558.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

@@ -1,7 +1,6 @@
 var a18774 =
 [
-    [ "FrostwingVrykulSearcher", "d9/db8/a18774.html#a10aa54184b42a0538dc4f325204399e9", null ],
-    [ "operator()", "d9/db8/a18774.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
-    [ "_range", "d9/db8/a18774.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
-    [ "_source", "d9/db8/a18774.html#af5d3c93f41698e71c867336d0453d40a", null ]
+    [ "HandleScript", "d9/db8/a18774.html#a930b8a515b5d156c16925dc218cf8172", null ],
+    [ "PrepareSpellScript", "d9/db8/a18774.html#a892b0ba0f6541b3557a0200be5028479", null ],
+    [ "Register", "d9/db8/a18774.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
 ];

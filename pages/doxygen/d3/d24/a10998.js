@@ -1,6 +1,11 @@
 var a10998 =
 [
-    [ "GuildOfficerRemoveMember", "d3/d24/a10998.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
-    [ "Read", "d3/d24/a10998.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
-    [ "Removee", "d3/d24/a10998.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
+    [ "GuildRankTabPermissions", "d4/d49/a11002.html", "d4/d49/a11002" ],
+    [ "GuildPermissionsQueryResults", "d3/d24/a10998.html#aa643af51780fc550f3947936266d54f5", null ],
+    [ "Write", "d3/d24/a10998.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
+    [ "Flags", "d3/d24/a10998.html#a368162426ab526adafc7ecb223fdf865", null ],
+    [ "NumTabs", "d3/d24/a10998.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
+    [ "RankID", "d3/d24/a10998.html#a795ba45650991bd5c1aa03c17886d86b", null ],
+    [ "Tab", "d3/d24/a10998.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
+    [ "WithdrawGoldLimit", "d3/d24/a10998.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
 ];

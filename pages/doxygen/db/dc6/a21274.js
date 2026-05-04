@@ -1,10 +1,6 @@
 var a21274 =
 [
-    [ "npc_jenny", "db/dc6/a21274.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "db/dc6/a21274.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "db/dc6/a21274.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "db/dc6/a21274.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "db/dc6/a21274.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "db/dc6/a21274.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "db/dc6/a21274.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "npc_hidden_cultistAI", "dc/df1/a21278.html", "dc/df1/a21278" ],
+    [ "npc_hidden_cultist", "db/dc6/a21274.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "db/dc6/a21274.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

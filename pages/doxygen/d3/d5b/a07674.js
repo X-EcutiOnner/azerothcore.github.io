@@ -1,9 +1,10 @@
 var a07674 =
 [
-    [ "BattlegroundEYScore", "d3/d5b/a07674.html#a91c17f1ff1924439b05840cd11ede36f", null ],
-    [ "BuildObjectivesBlock", "d3/d5b/a07674.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
-    [ "GetAttr1", "d3/d5b/a07674.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
-    [ "UpdateScore", "d3/d5b/a07674.html#afad034f453c54587b86532a37335ab18", null ],
-    [ "BattlegroundEY", "d3/d5b/a07674.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
-    [ "FlagCaptures", "d3/d5b/a07674.html#a057a335c7491c1031666e6d10cf314b2", null ]
+    [ "OwnerId", "d3/d5b/a07674.html#ae6203d7a867838b279825925841a99df", null ],
+    [ "PrevOwnerId", "d3/d5b/a07674.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
+    [ "PrevState", "d3/d5b/a07674.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
+    [ "State", "d3/d5b/a07674.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
+    [ "Timer", "d3/d5b/a07674.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
+    [ "TotalOwnerId", "d3/d5b/a07674.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
+    [ "Tower", "d3/d5b/a07674.html#a222db96ad937e31986c0c39a5a371dd7", null ]
 ];

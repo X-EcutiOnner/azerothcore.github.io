@@ -1,6 +1,9 @@
 var a16314 =
 [
-    [ "npc_xerestraszaAI", "d3/d7e/a16318.html", "d3/d7e/a16318" ],
-    [ "npc_xerestrasza", "d7/d89/a16314.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
-    [ "GetAI", "d7/d89/a16314.html#a5e0ede0054969d4787db56781dc55846", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d7/d89/a16314.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "d7/d89/a16314.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "d7/d89/a16314.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "d7/d89/a16314.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "m_uiPortalGUID", "d7/d89/a16314.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "portalCount", "d7/d89/a16314.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

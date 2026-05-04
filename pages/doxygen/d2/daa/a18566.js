@@ -1,11 +1,7 @@
 var a18566 =
 [
-    [ "npc_terenas_menethilAI", "d2/daa/a18566.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
-    [ "CanAIAttack", "d2/daa/a18566.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
-    [ "DamageTaken", "d2/daa/a18566.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
-    [ "DoAction", "d2/daa/a18566.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
-    [ "EnterEvadeMode", "d2/daa/a18566.html#ada5313b34e8c20c82ac97396e54e27df", null ],
-    [ "UpdateAI", "d2/daa/a18566.html#a6210ca6e5e954d5c66d2108359efc888", null ],
-    [ "_events", "d2/daa/a18566.html#ae61e4919b99a2b9195a389992947a125", null ],
-    [ "_instance", "d2/daa/a18566.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
+    [ "PrepareSpellScript", "d2/daa/a18566.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "d2/daa/a18566.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "d2/daa/a18566.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "d2/daa/a18566.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

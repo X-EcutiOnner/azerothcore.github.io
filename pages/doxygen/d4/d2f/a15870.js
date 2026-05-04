@@ -1,6 +1,6 @@
 var a15870 =
 [
-    [ "go_wind_stoneAI", "dd/dd6/a15874.html", "dd/dd6/a15874" ],
-    [ "go_wind_stone", "d4/d2f/a15870.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
-    [ "GetAI", "d4/d2f/a15870.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
+    [ "npc_anachronos_the_ancientAI", "dd/dd6/a15874.html", "dd/dd6/a15874" ],
+    [ "npc_anachronos_the_ancient", "d4/d2f/a15870.html#a720884359886e6f881190471005f4cfc", null ],
+    [ "GetAI", "d4/d2f/a15870.html#a345c801231907d98f2ab2425b1d35cbc", null ]
 ];

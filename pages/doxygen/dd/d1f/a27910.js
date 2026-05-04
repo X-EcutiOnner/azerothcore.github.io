@@ -1,7 +1,6 @@
 var a27910 =
 [
-    [ "go_brewfest_musicAI", "dd/d1f/a27910.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
-    [ "UpdateAI", "dd/d1f/a27910.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
-    [ "_currentMusicEvent", "dd/d1f/a27910.html#ad26a0309bdd4eafce4dfa310db929357", null ],
-    [ "_events", "dd/d1f/a27910.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
+    [ "go_soulwellAI", "df/d2f/a27914.html", "df/d2f/a27914" ],
+    [ "go_soulwell", "dd/d1f/a27910.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "dd/d1f/a27910.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

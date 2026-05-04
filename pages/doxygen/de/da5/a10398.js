@@ -1,9 +1,9 @@
 var a10398 =
 [
-    [ "entry", "de/da5/a10398.html#a63e9b557b5e712d30580376ad811ff6c", null ],
-    [ "map", "de/da5/a10398.html#a762951c4230f0b40a59071e20852bf77", null ],
-    [ "o", "de/da5/a10398.html#a70e425f84949f6964a33250e6e9650ef", null ],
-    [ "x", "de/da5/a10398.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
-    [ "y", "de/da5/a10398.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
-    [ "z", "de/da5/a10398.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
+    [ "counter", "de/da5/a10398.html#a0efb94229f4a9370dc5b256ba623385b", null ],
+    [ "getCurrent", "de/da5/a10398.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
+    [ "Increase", "de/da5/a10398.html#a463e0ba077c8398a6125e715afcd8860", null ],
+    [ "init", "de/da5/a10398.html#a0369662be009b781174021a2eb6b3202", null ],
+    [ "NewId", "de/da5/a10398.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
+    [ "m_counter", "de/da5/a10398.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
 ];

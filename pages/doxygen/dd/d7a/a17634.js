@@ -1,6 +1,6 @@
 var a17634 =
 [
-    [ "npc_saurfang_eventAI", "d4/d07/a17638.html", "d4/d07/a17638" ],
-    [ "npc_saurfang_event", "dd/d7a/a17634.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "dd/d7a/a17634.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "FilterTargets", "dd/d7a/a17634.html#a59255a2cee0f9d8a75ca183647851779", null ],
+    [ "PrepareSpellScript", "dd/d7a/a17634.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
+    [ "Register", "dd/d7a/a17634.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
 ];

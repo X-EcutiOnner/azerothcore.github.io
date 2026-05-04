@@ -1,9 +1,8 @@
 var a21402 =
 [
-    [ "npc_minigob_manabonk", "da/dd3/a21402.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "da/dd3/a21402.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "da/dd3/a21402.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "da/dd3/a21402.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "da/dd3/a21402.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "da/dd3/a21402.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "npc_future_youAI", "da/dd3/a21402.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "da/dd3/a21402.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "da/dd3/a21402.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "da/dd3/a21402.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "da/dd3/a21402.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

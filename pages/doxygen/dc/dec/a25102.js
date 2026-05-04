@@ -1,7 +1,5 @@
 var a25102 =
 [
-    [ "OnApply", "dc/dec/a25102.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "dc/dec/a25102.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "dc/dec/a25102.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "dc/dec/a25102.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "PrepareSpellScript", "dc/dec/a25102.html#a7478d96ac24bc4b70a10bc83335c9b76", null ],
+    [ "Register", "dc/dec/a25102.html#ab3ab9557cd1969fd977a3df6f2c59d7c", null ]
 ];

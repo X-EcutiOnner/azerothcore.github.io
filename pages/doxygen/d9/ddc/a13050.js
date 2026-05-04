@@ -1,8 +1,11 @@
 var a13050 =
 [
-    [ "npc_tito", "d9/ddc/a13050.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "d9/ddc/a13050.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "d9/ddc/a13050.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "d9/ddc/a13050.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "d9/ddc/a13050.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "boss_tenris_mirkblood", "d9/ddc/a13050.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
+    [ "DamageTaken", "d9/ddc/a13050.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
+    [ "EnterEvadeMode", "d9/ddc/a13050.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
+    [ "JustEngagedWith", "d9/ddc/a13050.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
+    [ "KilledUnit", "d9/ddc/a13050.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
+    [ "Reset", "d9/ddc/a13050.html#a88d46f6e972525979687b315db90dc30", null ],
+    [ "SpellHit", "d9/ddc/a13050.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
+    [ "_mirrorTarget", "d9/ddc/a13050.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
 ];

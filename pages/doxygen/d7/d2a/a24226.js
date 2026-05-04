@@ -1,6 +1,8 @@
 var a24226 =
 [
-    [ "CheckProc", "d7/d2a/a24226.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "d7/d2a/a24226.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "d7/d2a/a24226.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "HandleDamage", "d7/d2a/a24226.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "d7/d2a/a24226.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "d7/d2a/a24226.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "d7/d2a/a24226.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "d7/d2a/a24226.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

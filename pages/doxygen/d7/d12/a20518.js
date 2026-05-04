@@ -1,9 +1,11 @@
 var a20518 =
 [
-    [ "npc_xt002_pummeller", "d7/d12/a20518.html#a5e6fe72dbdedef5526704656c58a9e35", null ],
-    [ "Reset", "d7/d12/a20518.html#a6140f9b246abeba75c291aa7e9624217", null ],
-    [ "UpdateAI", "d7/d12/a20518.html#a90c16a2da7c6c28759a89580736d34e8", null ],
-    [ "_arcingSmashTimer", "d7/d12/a20518.html#ae6118dc72cac8f8f7509999fcdbc219e", null ],
-    [ "_trampleTimer", "d7/d12/a20518.html#a5999bcaf51e20265e7b74d6e47803c69", null ],
-    [ "_uppercutTimer", "d7/d12/a20518.html#a4a2427392e5531a4cab88243150f1ecf", null ]
+    [ "boss_thorim_ancient_rune_giant", "d7/d12/a20518.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
+    [ "DoAction", "d7/d12/a20518.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
+    [ "JustDied", "d7/d12/a20518.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
+    [ "JustEngagedWith", "d7/d12/a20518.html#a98fa309963245a0c57676ff019085fac", null ],
+    [ "Reset", "d7/d12/a20518.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
+    [ "UpdateAI", "d7/d12/a20518.html#a903d7448d9441866475d77fce8ca6d37", null ],
+    [ "_isInCombat", "d7/d12/a20518.html#a148ff1fa8010466de069032f660cd08e", null ],
+    [ "events", "d7/d12/a20518.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
 ];

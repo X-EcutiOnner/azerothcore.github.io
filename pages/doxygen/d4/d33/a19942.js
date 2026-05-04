@@ -1,12 +1,15 @@
 var a19942 =
 [
-    [ "npc_freya_ward", "d4/d33/a19942.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
-    [ "DoAction", "d4/d33/a19942.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
-    [ "JustSummoned", "d4/d33/a19942.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
-    [ "Reset", "d4/d33/a19942.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
-    [ "SummonedCreatureDespawn", "d4/d33/a19942.html#a20fde559565c47f4451581e5d1a61e99", null ],
-    [ "UpdateAI", "d4/d33/a19942.html#a62122abe02ae9351617eb3af9e36e88e", null ],
-    [ "_castTimer", "d4/d33/a19942.html#afe313ebbc5c711183a9e623d8213ae64", null ],
-    [ "_summoned", "d4/d33/a19942.html#aecae1e0f3b84d97cef40023a36dd4254", null ],
-    [ "summons", "d4/d33/a19942.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
+    [ "boss_auriaya", "d4/d33/a19942.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DoAction", "d4/d33/a19942.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "d4/d33/a19942.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "d4/d33/a19942.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "d4/d33/a19942.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "d4/d33/a19942.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "JustSummoned", "d4/d33/a19942.html#aaec8af440e83fd614041cb63115adc48", null ],
+    [ "KilledUnit", "d4/d33/a19942.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "d4/d33/a19942.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "SummonedCreatureDies", "d4/d33/a19942.html#a928a8d7c084125136bdef1ab0a3a4737", null ],
+    [ "_feralDied", "d4/d33/a19942.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "d4/d33/a19942.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

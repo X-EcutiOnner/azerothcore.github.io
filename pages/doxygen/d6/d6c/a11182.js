@@ -1,9 +1,9 @@
 var a11182 =
 [
-    [ "EnchantmentLog", "d6/d6c/a11182.html#a4427184d166b18e984dc301a6786aac3", null ],
-    [ "Write", "d6/d6c/a11182.html#a17752d3e862c1915f8479058a4be1eb7", null ],
-    [ "Caster", "d6/d6c/a11182.html#ae35a0c689357cf4b5a031f40314a7045", null ],
-    [ "EnchantId", "d6/d6c/a11182.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
-    [ "ItemId", "d6/d6c/a11182.html#ad393d5f227bb81738582572bd2601650", null ],
-    [ "Target", "d6/d6c/a11182.html#a9ef981f750bee2101c1f886fa2514913", null ]
+    [ "SwapItem", "d6/d6c/a11182.html#a603871bfd69a2bcc2083de350f48875a", null ],
+    [ "Read", "d6/d6c/a11182.html#a475122a155c96446ecad1b92ef5c7a19", null ],
+    [ "DestinationBag", "d6/d6c/a11182.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
+    [ "DestinationSlot", "d6/d6c/a11182.html#a0cf0b21ebfccb843ee23831e17982081", null ],
+    [ "SourceBag", "d6/d6c/a11182.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
+    [ "SourceSlot", "d6/d6c/a11182.html#ab080d55f63eb07c8db090123260bee23", null ]
 ];

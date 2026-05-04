@@ -1,6 +1,7 @@
 var a17934 =
 [
-    [ "npc_cult_fanaticAI", "db/def/a17938.html", "db/def/a17938" ],
-    [ "npc_cult_fanatic", "db/d39/a17934.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "db/d39/a17934.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "HandleScript", "db/d39/a17934.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "db/d39/a17934.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "db/d39/a17934.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "db/d39/a17934.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

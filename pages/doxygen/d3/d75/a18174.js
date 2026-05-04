@@ -1,10 +1,6 @@
 var a18174 =
 [
-    [ "FilterTargets", "d3/d75/a18174.html#aefba5226671b6217549bd34059519179", null ],
-    [ "Load", "d3/d75/a18174.html#af8a2b651782783dc29ac7266ed02c028", null ],
-    [ "NotifyTargets", "d3/d75/a18174.html#a618e98fbd5c6ae21047cc4f911099730", null ],
-    [ "PrepareSpellScript", "d3/d75/a18174.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
-    [ "Register", "d3/d75/a18174.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
-    [ "ReplaceTargets", "d3/d75/a18174.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
-    [ "_target", "d3/d75/a18174.html#a10c85fd3909e56f457d73add8021c0b7", null ]
+    [ "ExtraEffect", "d3/d75/a18174.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "d3/d75/a18174.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "d3/d75/a18174.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

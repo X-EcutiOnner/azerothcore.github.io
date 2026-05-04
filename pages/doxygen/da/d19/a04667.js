@@ -1,6 +1,4 @@
 var a04667 =
 [
-    [ "CinematicMgr", "d0/d6f/a08782.html", "d0/d6f/a08782" ],
-    [ "CINEMATIC_LOOKAHEAD", "da/d19/a04667.html#ae1b03a0a84708dbd9b5487f49762b4a9", null ],
-    [ "CINEMATIC_UPDATEDIFF", "da/d19/a04667.html#afdc341ad7f2f8cdfcf101e128dd7bbbb", null ]
+    [ "gVMapMgr", "da/d19/a04667.html#a3fb33e0008bbbabc087f99a45e512784", null ]
 ];

@@ -1,6 +1,13 @@
 var a14630 =
 [
-    [ "gameobjectId", "d5/da8/a14630.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d5/da8/a14630.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d5/da8/a14630.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "npc_alexstraza_the_lifebinder", "d5/da8/a14630.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d5/da8/a14630.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d5/da8/a14630.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d5/da8/a14630.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "sGossipSelect", "d5/da8/a14630.html#a642390a59ff46236dc3b429f371ea8cd", null ],
+    [ "UpdateAI", "d5/da8/a14630.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d5/da8/a14630.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d5/da8/a14630.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d5/da8/a14630.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d5/da8/a14630.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

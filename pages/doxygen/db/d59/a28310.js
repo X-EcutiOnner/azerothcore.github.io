@@ -1,6 +1,5 @@
 var a28310 =
 [
-    [ "npc_venomhide_hatchlingAI", "db/d59/a28310.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "db/d59/a28310.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "db/d59/a28310.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "ServerMailReward", "db/d59/a28310.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "db/d59/a28310.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

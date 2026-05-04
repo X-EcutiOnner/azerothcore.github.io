@@ -1,6 +1,6 @@
 var a23946 =
 [
-    [ "PrepareSpellScript", "d5/df2/a23946.html#aa858fff409e5c75d865c91cb5fbef679", null ],
-    [ "Register", "d5/df2/a23946.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
-    [ "SetDest", "d5/df2/a23946.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
+    [ "npc_unkor_the_ruthlessAI", "d1/d22/a23950.html", "d1/d22/a23950" ],
+    [ "npc_unkor_the_ruthless", "d5/df2/a23946.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "d5/df2/a23946.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

@@ -1,10 +1,16 @@
 var a04787 =
 [
-    [ "Acore::ACLogSink< T >", "dc/da3/a05797.html", "dc/da3/a05797" ],
-    [ "Acore::AsyncProcessResultImplementation", "d5/dc0/a05801.html", "d5/dc0/a05801" ],
-    [ "CreateChildProcess", "d2/df3/a04787.html#a18bbd8a6717e647e963654123259a033", null ],
-    [ "MakeACLogSink", "d2/df3/a04787.html#adcee37690522709ab4bd0b6f6e757dc5", null ],
-    [ "SearchExecutableInPath", "d2/df3/a04787.html#a9de098dac5e38f8c2cdbeb1d4d706881", null ],
-    [ "StartAsyncProcess", "d2/df3/a04787.html#a021f51138f5726e712f00bdddf9be729", null ],
-    [ "StartProcess", "d2/df3/a04787.html#acfaf2f89a55d299aa04c494719dfedc8", null ]
+    [ "RandomEngine", "d4/d98/a05782.html", "d4/d98/a05782" ],
+    [ "frand", "d2/df3/a04787.html#aa28484fcb823a22578601847e4b0ddb4", null ],
+    [ "irand", "d2/df3/a04787.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
+    [ "rand32", "d2/df3/a04787.html#ab91ed86274e1e52eb314784862b61696", null ],
+    [ "rand_chance", "d2/df3/a04787.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
+    [ "rand_norm", "d2/df3/a04787.html#ad552d8147f66d6ec0cd44271e8799599", null ],
+    [ "randtime", "d2/df3/a04787.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
+    [ "randtime", "d2/df3/a04787.html#ad7a1463dbba108f4bfc0d800fa6f99c1", null ],
+    [ "roll_chance_f", "d2/df3/a04787.html#a4b15099bc81731469c5078a778673c94", null ],
+    [ "roll_chance_i", "d2/df3/a04787.html#a50320d4edff86db31b25138ae72161ad", null ],
+    [ "urand", "d2/df3/a04787.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
+    [ "urandms", "d2/df3/a04787.html#a1a4ee564518371004a4d34135600bfa0", null ],
+    [ "urandweighted", "d2/df3/a04787.html#a673de62907a2657190e58678691d3b36", null ]
 ];

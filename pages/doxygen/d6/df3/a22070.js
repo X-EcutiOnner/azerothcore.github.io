@@ -1,6 +1,5 @@
 var a22070 =
 [
-    [ "npc_wg_queueAI", "d6/df3/a22070.html#a3760738d61b6148042fc30bd96b88fdc", null ],
-    [ "UpdateAI", "d6/df3/a22070.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
-    [ "events", "d6/df3/a22070.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "d6/df3/a22070.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "d6/df3/a22070.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

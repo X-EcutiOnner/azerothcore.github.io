@@ -1,24 +1,11 @@
 var a08386 =
 [
-    [ "PlayerMenu", "d0/dc6/a08386.html#a690175d52d57aa33ec8fac8c1f25972a", null ],
-    [ "~PlayerMenu", "d0/dc6/a08386.html#a764418c67a206ddfb783ea2f8a755bcc", null ],
-    [ "ClearMenus", "d0/dc6/a08386.html#a64e6ddbdb6e894f56578339efa62e752", null ],
-    [ "Empty", "d0/dc6/a08386.html#a7b8937a48631f9dab1ab117ea9e3dfaf", null ],
-    [ "GetGossipMenu", "d0/dc6/a08386.html#acc519746fa45290cde3967dc5f604158", null ],
-    [ "GetGossipOptionAction", "d0/dc6/a08386.html#afe2b7121b08000226986315ab2da007c", null ],
-    [ "GetGossipOptionSender", "d0/dc6/a08386.html#ab85bfb274849b70e5e49d9dfdd9ea414", null ],
-    [ "GetQuestMenu", "d0/dc6/a08386.html#a6129e728a42a0d74e462073ba7219eb1", null ],
-    [ "IsGossipOptionCoded", "d0/dc6/a08386.html#a74e2796d83f1643a98aa8107d496ca22", null ],
-    [ "SendCloseGossip", "d0/dc6/a08386.html#a1071f28b7138ecbd7e94d95175059ba1", null ],
-    [ "SendGossipMenu", "d0/dc6/a08386.html#a78a00a19e9e55fe5582dd70183b01e8b", null ],
-    [ "SendPointOfInterest", "d0/dc6/a08386.html#a192c3c40d28b331851fb36a8c936bde3", null ],
-    [ "SendQuestGiverOfferReward", "d0/dc6/a08386.html#afc3d8fc9f8fd2f20ea0068b101d90f91", null ],
-    [ "SendQuestGiverQuestDetails", "d0/dc6/a08386.html#a3961687838852446af0db40d6458fb41", null ],
-    [ "SendQuestGiverQuestList", "d0/dc6/a08386.html#a1995bf53009911627fbbcb20049a1fbf", null ],
-    [ "SendQuestGiverRequestItems", "d0/dc6/a08386.html#a61a5f8d9b8b9c4baa511028884011f89", null ],
-    [ "SendQuestGiverStatus", "d0/dc6/a08386.html#a873a174b6ef46140ff8d8acf0c683ffb", null ],
-    [ "SendQuestQueryResponse", "d0/dc6/a08386.html#a950ed922c39040db8a1fe16588c7c65a", null ],
-    [ "_gossipMenu", "d0/dc6/a08386.html#a7a31b60fd003326c8f975675168efd10", null ],
-    [ "_questMenu", "d0/dc6/a08386.html#a1d1d9ec0ac5fea6b1905390f0719073a", null ],
-    [ "_session", "d0/dc6/a08386.html#aa55a3dbe879c3d0166ba7a8deda0d6e0", null ]
+    [ "FormationInfo", "d0/dc6/a08386.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
+    [ "HasGroupFlag", "d0/dc6/a08386.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
+    [ "follow_angle", "d0/dc6/a08386.html#a928ce7047d511c316a5367faf7f96673", null ],
+    [ "follow_dist", "d0/dc6/a08386.html#a3b59ee5129e208cc3df407a921362393", null ],
+    [ "groupAI", "d0/dc6/a08386.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
+    [ "leaderGUID", "d0/dc6/a08386.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
+    [ "point_1", "d0/dc6/a08386.html#a84298ff533bebc633689742c7f9299ae", null ],
+    [ "point_2", "d0/dc6/a08386.html#acc308b497de18211b99eec4311b256a4", null ]
 ];

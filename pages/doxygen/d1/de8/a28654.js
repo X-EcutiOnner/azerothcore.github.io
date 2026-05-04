@@ -1,9 +1,7 @@
 var a28654 =
 [
-    [ "npc_herald_of_the_lich_king", "d1/de8/a28654.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "d1/de8/a28654.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "d1/de8/a28654.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "d1/de8/a28654.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "d1/de8/a28654.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "d1/de8/a28654.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "Class", "d1/de8/a28654.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d1/de8/a28654.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d1/de8/a28654.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d1/de8/a28654.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

@@ -1,12 +1,18 @@
 var a04712 =
 [
-    [ "EnumFlag< T >", "d1/dc7/a05733.html", "d1/dc7/a05733" ],
-    [ "DEFINE_ENUM_FLAG", "db/dcc/a04712.html#a9f556f9c539f21ae6fd639abe4c39c75", null ],
-    [ "IsFlag", "db/dcc/a04712.html#a7294b75cb336d554d5ce2b75b05c37d6", null ],
-    [ "IsEnumFlag", "db/dcc/a04712.html#ae0992e010612850442fc56bcf2d44b47", null ],
-    [ "operator&", "db/dcc/a04712.html#a27ef39aed098304d7387af8257f7cee3", null ],
-    [ "operator&=", "db/dcc/a04712.html#a24a78ca9e9dcd1b92829560e580c3134", null ],
-    [ "operator|", "db/dcc/a04712.html#ac8aaa198de31cb5a3b217d0968f30a3b", null ],
-    [ "operator|=", "db/dcc/a04712.html#a7808a2b72bed2b70553d802ed11e27c4", null ],
-    [ "operator~", "db/dcc/a04712.html#abe3f4d2eafbceebe9ec46ffcd15cfa76", null ]
+    [ "Days", "db/dcc/a04712.html#af5dc5e7ad7b3f6d8e84530de842d125b", null ],
+    [ "Hours", "db/dcc/a04712.html#aa0f87984d2b3835a61dffc22ae8bf083", null ],
+    [ "Microseconds", "db/dcc/a04712.html#a201a83ed0d59d2baf946daf42dac834f", null ],
+    [ "Milliseconds", "db/dcc/a04712.html#a1c3834b9e3853535027d58bf21bec81f", null ],
+    [ "Minutes", "db/dcc/a04712.html#af2161f9db850581e2228078614990df8", null ],
+    [ "Months", "db/dcc/a04712.html#a5f2ffeea2459944dfaa4443f1efb7f42", null ],
+    [ "Seconds", "db/dcc/a04712.html#a3cd82f1c195a0b935b4d66b02a41acd8", null ],
+    [ "SystemTimePoint", "db/dcc/a04712.html#ada798961abc5a533d616ff780f567bb6", null ],
+    [ "TimePoint", "db/dcc/a04712.html#ae5ca775e8d8c664b6edef818ce1251b9", null ],
+    [ "Weeks", "db/dcc/a04712.html#a983745490d3d3a0322c4ccf0f418f179", null ],
+    [ "Years", "db/dcc/a04712.html#ab4fa20b33a9b5ee358963159b01d72f3", null ],
+    [ "operator\"\"_days", "db/dcc/a04712.html#ae62919aa53468bfadd4984bdd0498c03", null ],
+    [ "operator\"\"_months", "db/dcc/a04712.html#a7f38d5f5e7db75251b49712f910059ac", null ],
+    [ "operator\"\"_weeks", "db/dcc/a04712.html#a7ff3ff81243ee7b2ce873364bb7ad676", null ],
+    [ "operator\"\"_years", "db/dcc/a04712.html#a25baa64022678f43cf423c945dbd0226", null ]
 ];

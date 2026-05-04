@@ -1,8 +1,9 @@
 var a25138 =
 [
-    [ "HandleApply", "d3/d74/a25138.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "d3/d74/a25138.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "d3/d74/a25138.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "d3/d74/a25138.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "d3/d74/a25138.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "spell_gen_translocate", "d3/d74/a25138.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "d3/d74/a25138.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "d3/d74/a25138.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "d3/d74/a25138.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "d3/d74/a25138.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "d3/d74/a25138.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

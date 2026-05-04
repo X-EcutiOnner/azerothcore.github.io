@@ -1,9 +1,12 @@
 var a22562 =
 [
-    [ "boss_mother_shahraz", "da/d19/a22562.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "da/d19/a22562.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "da/d19/a22562.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "da/d19/a22562.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "da/d19/a22562.html#ab9e4162ac92e786b84b6497c37251386", null ],
-    [ "_canTalk", "da/d19/a22562.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
+    [ "boss_essence_of_angerAI", "da/d19/a22562.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "da/d19/a22562.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "da/d19/a22562.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "da/d19/a22562.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "da/d19/a22562.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "da/d19/a22562.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "da/d19/a22562.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "_recentlySpoken", "da/d19/a22562.html#a056aa8fd704d832e83735cf2a1a22888", null ],
+    [ "targetGUID", "da/d19/a22562.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

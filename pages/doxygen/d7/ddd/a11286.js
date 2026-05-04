@@ -1,6 +1,7 @@
 var a11286 =
 [
-    [ "Hello", "d7/ddd/a11286.html#ad5db4a2f7844da17680932ef154f6ecc", null ],
-    [ "Read", "d7/ddd/a11286.html#a23da60884c312ba0c4da2aeba3385b53", null ],
-    [ "Unit", "d7/ddd/a11286.html#a611072003e33b830146fa158646e8ac5", null ]
+    [ "RandomRollClient", "d7/ddd/a11286.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
+    [ "Read", "d7/ddd/a11286.html#ab682763f35a40f776b1742927df0a336", null ],
+    [ "Max", "d7/ddd/a11286.html#a45a1e140ed402f54deb4c0798360a43a", null ],
+    [ "Min", "d7/ddd/a11286.html#a3cd07e7891b43b453b56013d76f51f71", null ]
 ];

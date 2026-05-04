@@ -1,7 +1,6 @@
 var a15270 =
 [
-    [ "HandleScript", "d7/d36/a15270.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "d7/d36/a15270.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "d7/d36/a15270.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "d7/d36/a15270.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "npc_idol_room_spawnerAI", "d0/ddc/a15274.html", "d0/ddc/a15274" ],
+    [ "npc_idol_room_spawner", "d7/d36/a15270.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "d7/d36/a15270.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

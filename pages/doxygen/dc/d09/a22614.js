@@ -1,6 +1,6 @@
 var a22614 =
 [
-    [ "boss_essence_of_angerAI", "d9/d89/a22618.html", "d9/d89/a22618" ],
-    [ "boss_essence_of_anger", "dc/d09/a22614.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "dc/d09/a22614.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "PrepareSpellScript", "dc/d09/a22614.html#ad786920d6180b8e2829f3a56ec50c488", null ],
+    [ "Register", "dc/d09/a22614.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
+    [ "SetDest", "dc/d09/a22614.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
 ];

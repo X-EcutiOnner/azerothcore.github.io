@@ -1,8 +1,13 @@
 var a16102 =
 [
-    [ "HandleAfterCast", "d6/d0c/a16102.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "d6/d0c/a16102.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "d6/d0c/a16102.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "d6/d0c/a16102.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "d6/d0c/a16102.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "npc_shadowpriest_sezzizAI", "d6/d0c/a16102.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
+    [ "AttackStart", "d6/d0c/a16102.html#a8278a73501ea33164cbdef8599144f4a", null ],
+    [ "Reset", "d6/d0c/a16102.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
+    [ "UpdateAI", "d6/d0c/a16102.html#a1c0236b52d4cd87634659991e0dfc728", null ],
+    [ "_missingHPForHealTimer", "d6/d0c/a16102.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
+    [ "_missingHPForRenewTimer", "d6/d0c/a16102.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
+    [ "_physicScreemTimer", "d6/d0c/a16102.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
+    [ "_shadowBoltTimer", "d6/d0c/a16102.html#a34a18991ff2c0aafac15694ed9667193", null ],
+    [ "_summmonAddsCount", "d6/d0c/a16102.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
+    [ "_summonAddsTimer", "d6/d0c/a16102.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
 ];

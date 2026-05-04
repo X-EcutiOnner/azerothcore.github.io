@@ -1,6 +1,6 @@
 var a16334 =
 [
-    [ "npc_onyx_flamecallerAI", "d2/d8c/a16338.html", "d2/d8c/a16338" ],
-    [ "npc_onyx_flamecaller", "d2/d0c/a16334.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "d2/d0c/a16334.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d2/d8c/a16338.html", "d2/d8c/a16338" ],
+    [ "npc_baltharus_the_warborn_clone", "d2/d0c/a16334.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "d2/d0c/a16334.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

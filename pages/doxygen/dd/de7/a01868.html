@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Movement/MovementGenerators/TargetedMovementGenerator.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Movement/MovementGenerators/TargetedMovementGenerator.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,391 +105,70 @@ $(document).ready(function(){initNavTree('dd/de7/a01868.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">TargetedMovementGenerator.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">TargetedMovementGenerator.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">TargetedMovementGenerator.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MoveSplineInit.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Pet.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AbstractFollower.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Optional.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PathGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a53d496abdea10dead20c7e6a9cb09cd6"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de7/a01868.html#a53d496abdea10dead20c7e6a9cb09cd6">IsMutualChase</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *owner, <a class="el" href="../../da/d68/a09041.html">Unit</a> *target)</td></tr>
-<tr class="separator:a53d496abdea10dead20c7e6a9cb09cd6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a24fd9652d12d1ba9d62b8d6273664c55"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de7/a01868.html#a24fd9652d12d1ba9d62b8d6273664c55">GetChaseRange</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> const *owner, <a class="el" href="../../da/d68/a09041.html">Unit</a> const *target)</td></tr>
-<tr class="separator:a24fd9652d12d1ba9d62b8d6273664c55"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a56719695683e0a1fbeaeb49d31f62d74"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de7/a01868.html#a56719695683e0a1fbeaeb49d31f62d74">GetTargetSpeedInMotion</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *target)</td></tr>
-<tr class="separator:a56719695683e0a1fbeaeb49d31f62d74"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a955c196fa9c96bf11e2d887d6cbac50c"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d56/a04790.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de7/a01868.html#a955c196fa9c96bf11e2d887d6cbac50c">GetVelocity</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *owner, <a class="el" href="../../da/d68/a09041.html">Unit</a> *target, G3D::Vector3 const &amp;dest, bool playerPet)</td></tr>
-<tr class="separator:a955c196fa9c96bf11e2d887d6cbac50c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ada5b031ff95410ba84fd734c95c68099"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d2/d90/a08741.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de7/a01868.html#ada5b031ff95410ba84fd734c95c68099">PredictPosition</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *target)</td></tr>
-<tr class="separator:ada5b031ff95410ba84fd734c95c68099"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a27995927630ed43ca4a79dff89cfb99c"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de7/a01868.html#a27995927630ed43ca4a79dff89cfb99c">IsValidPredictedPosition</a> (<a class="el" href="../../da/d68/a09041.html">Unit</a> *target, <a class="el" href="../../d2/d90/a08741.html">Position</a> const &amp;predicted)</td></tr>
-<tr class="separator:a27995927630ed43ca4a79dff89cfb99c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da6/a10366.html">ChaseMovementGenerator&lt; T &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/da0/a10370.html">FollowMovementGenerator&lt; T &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:af39517224af91107d618ec9d8131101d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101d">ChaseMovementMode</a> { <br />
+&#160;&#160;<a class="el" href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3">CHASE_MODE_NORMAL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd">CHASE_MODE_BACKPEDAL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337">CHASE_MODE_DISTANCING</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618">CHASE_MODE_FANNING</a>
+<br />
+ }</td></tr>
+<tr class="separator:af39517224af91107d618ec9d8131101d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a24fd9652d12d1ba9d62b8d6273664c55" name="a24fd9652d12d1ba9d62b8d6273664c55"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a24fd9652d12d1ba9d62b8d6273664c55">&#9670;&#160;</a></span>GetChaseRange()</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="af39517224af91107d618ec9d8131101d" name="af39517224af91107d618ec9d8131101d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af39517224af91107d618ec9d8131101d">&#9670;&#160;</a></span>ChaseMovementMode</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float GetChaseRange </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d68/a09041.html">Unit</a> const *&#160;</td>
-          <td class="paramname"><em>owner</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d68/a09041.html">Unit</a> const *&#160;</td>
-          <td class="paramname"><em>target</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">enum <a class="el" href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101d">ChaseMovementMode</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <span class="keywordtype">float</span> hitboxSum = owner-&gt;GetCombatReach() + target-&gt;GetCombatReach();</div>
-<div class="line"><span class="lineno">   38</span> </div>
-<div class="line"><span class="lineno">   39</span>    <span class="keywordtype">float</span> hoverDelta = owner-&gt;GetHoverHeight() - target-&gt;GetHoverHeight();</div>
-<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">if</span> (hoverDelta != 0.0f)</div>
-<div class="line"><span class="lineno">   41</span>        <span class="keywordflow">return</span> std::sqrt(std::max(hitboxSum * hitboxSum - hoverDelta * hoverDelta, 0.0f));</div>
-<div class="line"><span class="lineno">   42</span> </div>
-<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">return</span> hitboxSum;</div>
-<div class="line"><span class="lineno">   44</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00877">Unit::GetCombatReach()</a>, and <a class="el" href="../../#l01718">Unit::GetHoverHeight()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00153">ChaseMovementGenerator&lt; T &gt;::DoUpdate()</a>.</p>
-
-</div>
-</div>
-<a id="a56719695683e0a1fbeaeb49d31f62d74" name="a56719695683e0a1fbeaeb49d31f62d74"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a56719695683e0a1fbeaeb49d31f62d74">&#9670;&#160;</a></span>GetTargetSpeedInMotion()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static float GetTargetSpeedInMotion </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d68/a09041.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>target</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3" name="af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3"></a>CHASE_MODE_NORMAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd" name="af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd"></a>CHASE_MODE_BACKPEDAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337" name="af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337"></a>CHASE_MODE_DISTANCING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618" name="af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618"></a>CHASE_MODE_FANNING&#160;</td><td class="fielddoc"></td></tr>
 </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  436</span>{</div>
-<div class="line"><span class="lineno">  437</span>    <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_variable" href="../../da/d68/a09041.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../df/d90/a10385.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>())</div>
-<div class="line"><span class="lineno">  438</span>        <span class="keywordflow">return</span> target-&gt;<a class="code hl_variable" href="../../da/d68/a09041.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../df/d90/a10385.html#a1a0dc555de0f51e0b123eb60f5eb439c">Velocity</a>();</div>
-<div class="line"><span class="lineno">  439</span> </div>
-<div class="line"><span class="lineno">  440</span>    <span class="keywordflow">return</span> target-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#a1aa013dc05741dbd3bc5a13aca1f54df">GetSpeed</a>(target-&gt;<a class="code hl_variable" href="../../d1/d10/a08693.html#ad7f9a1627d3568f34c381027145f39ee">m_movementInfo</a>.<a class="code hl_function" href="../../d7/d9e/a08665.html#a6f0c8141058d03f214afbd779a3420ee">GetSpeedType</a>());</div>
-<div class="line"><span class="lineno">  441</span>}</div>
-<div class="ttc" id="aa08665_html_a6f0c8141058d03f214afbd779a3420ee"><div class="ttname"><a href="../../d7/d9e/a08665.html#a6f0c8141058d03f214afbd779a3420ee">MovementInfo::GetSpeedType</a></div><div class="ttdeci">UnitMoveType GetSpeedType() const</div><div class="ttdef"><b>Definition:</b> Object.h:348</div></div>
-<div class="ttc" id="aa08693_html_ad7f9a1627d3568f34c381027145f39ee"><div class="ttname"><a href="../../d1/d10/a08693.html#ad7f9a1627d3568f34c381027145f39ee">WorldObject::m_movementInfo</a></div><div class="ttdeci">MovementInfo m_movementInfo</div><div class="ttdef"><b>Definition:</b> Object.h:698</div></div>
-<div class="ttc" id="aa09041_html_a1805acabea4c9a75ad7c0bcab734f627"><div class="ttname"><a href="../../da/d68/a09041.html#a1805acabea4c9a75ad7c0bcab734f627">Unit::movespline</a></div><div class="ttdeci">Movement::MoveSpline * movespline</div><div class="ttdef"><b>Definition:</b> Unit.h:2115</div></div>
-<div class="ttc" id="aa09041_html_a1aa013dc05741dbd3bc5a13aca1f54df"><div class="ttname"><a href="../../da/d68/a09041.html#a1aa013dc05741dbd3bc5a13aca1f54df">Unit::GetSpeed</a></div><div class="ttdeci">float GetSpeed(UnitMoveType mtype) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11289</div></div>
-<div class="ttc" id="aa10385_html_a1a0dc555de0f51e0b123eb60f5eb439c"><div class="ttname"><a href="../../df/d90/a10385.html#a1a0dc555de0f51e0b123eb60f5eb439c">Movement::MoveSpline::Velocity</a></div><div class="ttdeci">float Velocity() const</div><div class="ttdef"><b>Definition:</b> MoveSpline.h:89</div></div>
-<div class="ttc" id="aa10385_html_a4c375981abbfa1ea7335cd9369fd93f6"><div class="ttname"><a href="../../df/d90/a10385.html#a4c375981abbfa1ea7335cd9369fd93f6">Movement::MoveSpline::Finalized</a></div><div class="ttdeci">bool Finalized() const</div><div class="ttdef"><b>Definition:</b> MoveSpline.h:118</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3">CHASE_MODE_NORMAL</a>,      <span class="comment">// chasing target</span></div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd">CHASE_MODE_BACKPEDAL</a>,   <span class="comment">// collision movement</span></div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337">CHASE_MODE_DISTANCING</a>,  <span class="comment">// running away from melee</span></div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618">CHASE_MODE_FANNING</a>,     <span class="comment">// mob collision movement</span></div>
+<div class="line"><span class="lineno">   34</span>};</div>
+<div class="ttc" id="aa01868_html_af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337"><div class="ttname"><a href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337">CHASE_MODE_DISTANCING</a></div><div class="ttdeci">@ CHASE_MODE_DISTANCING</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:32</div></div>
+<div class="ttc" id="aa01868_html_af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd"><div class="ttname"><a href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd">CHASE_MODE_BACKPEDAL</a></div><div class="ttdeci">@ CHASE_MODE_BACKPEDAL</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:31</div></div>
+<div class="ttc" id="aa01868_html_af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618"><div class="ttname"><a href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618">CHASE_MODE_FANNING</a></div><div class="ttdeci">@ CHASE_MODE_FANNING</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:33</div></div>
+<div class="ttc" id="aa01868_html_af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3"><div class="ttname"><a href="../../dd/de7/a01868.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3">CHASE_MODE_NORMAL</a></div><div class="ttdeci">@ CHASE_MODE_NORMAL</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:30</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00118">Movement::MoveSpline::Finalized()</a>, <a class="el" href="../../#l11289">Unit::GetSpeed()</a>, <a class="el" href="../../#l00348">MovementInfo::GetSpeedType()</a>, <a class="el" href="../../#l00698">WorldObject::m_movementInfo</a>, <a class="el" href="../../#l02115">Unit::movespline</a>, and <a class="el" href="../../#l00089">Movement::MoveSpline::Velocity()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00443">GetVelocity()</a>.</p>
-
-</div>
-</div>
-<a id="a955c196fa9c96bf11e2d887d6cbac50c" name="a955c196fa9c96bf11e2d887d6cbac50c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a955c196fa9c96bf11e2d887d6cbac50c">&#9670;&#160;</a></span>GetVelocity()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static <a class="el" href="../../d6/d56/a04790.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; float &gt; GetVelocity </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d68/a09041.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>owner</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d68/a09041.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>target</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::Vector3 const &amp;&#160;</td>
-          <td class="paramname"><em>dest</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>playerPet</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  444</span>{</div>
-<div class="line"><span class="lineno">  445</span>    <a class="code hl_typedef" href="../../d6/d56/a04790.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;float&gt;</a> speed = {};</div>
-<div class="line"><span class="lineno">  446</span>    <span class="keywordflow">if</span> (owner-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>() || owner-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#a0414b693087d7f3acc4a13eadb619660">IsVehicle</a>() || owner-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#a4af419c3eef4085ecaad8fd08e536800">HasUnitFlag</a>(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#affdd0d554c8bcaaa85a879f5a9d60934a59096e3d543ac78cc5b57c9b88b79c03">UNIT_FLAG_POSSESSED</a>))</div>
-<div class="line"><span class="lineno">  447</span>        <span class="keywordflow">return</span> speed;</div>
-<div class="line"><span class="lineno">  448</span> </div>
-<div class="line"><span class="lineno">  449</span>    <span class="keywordtype">bool</span> isPetLike = owner-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#a4ad2fdcc45e2c3c85ad59ff49268b58c">IsPet</a>() || owner-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#aad9476ff8867ed8013781b2601f12d1f">IsGuardian</a>() || owner-&gt;<a class="code hl_function" href="../../d4/d38/a08657.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() == target-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#aa48dad40872b2d815bb08306bc228882">GetCritterGUID</a>() || owner-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#aff6c755067d9a6c33c846482faf1b6f1">GetCharmerOrOwnerGUID</a>() == target-&gt;<a class="code hl_function" href="../../d4/d38/a08657.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
-<div class="line"><span class="lineno">  450</span> </div>
-<div class="line"><span class="lineno">  451</span>    <span class="comment">// For pets/guardians/critters or creature-to-creature follow: sync with target&#39;s speed</span></div>
-<div class="line"><span class="lineno">  452</span>    <span class="keywordflow">if</span> (isPetLike || (owner-&gt;<a class="code hl_function" href="../../d4/d38/a08657.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; target-&gt;<a class="code hl_function" href="../../d4/d38/a08657.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>()))</div>
-<div class="line"><span class="lineno">  453</span>    {</div>
-<div class="line"><span class="lineno">  454</span>        speed = <a class="code hl_function" href="../../dd/de7/a01868.html#a56719695683e0a1fbeaeb49d31f62d74">GetTargetSpeedInMotion</a>(target);</div>
-<div class="line"><span class="lineno">  455</span> </div>
-<div class="line"><span class="lineno">  456</span>        <span class="keywordflow">if</span> (playerPet)</div>
-<div class="line"><span class="lineno">  457</span>        {</div>
-<div class="line"><span class="lineno">  458</span>            <span class="keywordtype">float</span> distance = owner-&gt;<a class="code hl_function" href="../../d1/d10/a08693.html#a73f3c7fa817faebff6b2752ba3bb1a50">GetDistance2d</a>(dest.x, dest.y) - target-&gt;<a class="code hl_function" href="../../d1/d10/a08693.html#ae3ccd7ee8fcb156805c61b83e5c016ae">GetObjectSize</a>() - (*speed / 2.f);</div>
-<div class="line"><span class="lineno">  459</span>            <span class="keywordflow">if</span> (distance &gt; 0.f)</div>
-<div class="line"><span class="lineno">  460</span>            {</div>
-<div class="line"><span class="lineno">  461</span>                <span class="keywordtype">float</span> multiplier = 1.f + (distance / 10.f);</div>
-<div class="line"><span class="lineno">  462</span>                *speed *= multiplier;</div>
-<div class="line"><span class="lineno">  463</span>            }</div>
-<div class="line"><span class="lineno">  464</span>        }</div>
-<div class="line"><span class="lineno">  465</span>    }</div>
-<div class="line"><span class="lineno">  466</span> </div>
-<div class="line"><span class="lineno">  467</span>    <span class="keywordflow">return</span> speed;</div>
-<div class="line"><span class="lineno">  468</span>}</div>
-<div class="ttc" id="aa01421_html_affdd0d554c8bcaaa85a879f5a9d60934a59096e3d543ac78cc5b57c9b88b79c03"><div class="ttname"><a href="../../d4/d20/a01421.html#affdd0d554c8bcaaa85a879f5a9d60934a59096e3d543ac78cc5b57c9b88b79c03">UNIT_FLAG_POSSESSED</a></div><div class="ttdeci">@ UNIT_FLAG_POSSESSED</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:281</div></div>
-<div class="ttc" id="aa01868_html_a56719695683e0a1fbeaeb49d31f62d74"><div class="ttname"><a href="../../dd/de7/a01868.html#a56719695683e0a1fbeaeb49d31f62d74">GetTargetSpeedInMotion</a></div><div class="ttdeci">static float GetTargetSpeedInMotion(Unit *target)</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.cpp:435</div></div>
-<div class="ttc" id="aa04790_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../d6/d56/a04790.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
-<div class="ttc" id="aa08657_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../d4/d38/a08657.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
-<div class="ttc" id="aa08657_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d4/d38/a08657.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:114</div></div>
-<div class="ttc" id="aa08693_html_a73f3c7fa817faebff6b2752ba3bb1a50"><div class="ttname"><a href="../../d1/d10/a08693.html#a73f3c7fa817faebff6b2752ba3bb1a50">WorldObject::GetDistance2d</a></div><div class="ttdeci">float GetDistance2d(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1313</div></div>
-<div class="ttc" id="aa08693_html_ae3ccd7ee8fcb156805c61b83e5c016ae"><div class="ttname"><a href="../../d1/d10/a08693.html#ae3ccd7ee8fcb156805c61b83e5c016ae">WorldObject::GetObjectSize</a></div><div class="ttdeci">float GetObjectSize() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2837</div></div>
-<div class="ttc" id="aa09041_html_a0414b693087d7f3acc4a13eadb619660"><div class="ttname"><a href="../../da/d68/a09041.html#a0414b693087d7f3acc4a13eadb619660">Unit::IsVehicle</a></div><div class="ttdeci">bool IsVehicle() const</div><div class="ttdef"><b>Definition:</b> Unit.h:800</div></div>
-<div class="ttc" id="aa09041_html_a4ad2fdcc45e2c3c85ad59ff49268b58c"><div class="ttname"><a href="../../da/d68/a09041.html#a4ad2fdcc45e2c3c85ad59ff49268b58c">Unit::IsPet</a></div><div class="ttdeci">bool IsPet() const</div><div class="ttdef"><b>Definition:</b> Unit.h:797</div></div>
-<div class="ttc" id="aa09041_html_a4af419c3eef4085ecaad8fd08e536800"><div class="ttname"><a href="../../da/d68/a09041.html#a4af419c3eef4085ecaad8fd08e536800">Unit::HasUnitFlag</a></div><div class="ttdeci">bool HasUnitFlag(UnitFlags flags) const</div><div class="ttdef"><b>Definition:</b> Unit.h:747</div></div>
-<div class="ttc" id="aa09041_html_aa48dad40872b2d815bb08306bc228882"><div class="ttname"><a href="../../da/d68/a09041.html#aa48dad40872b2d815bb08306bc228882">Unit::GetCritterGUID</a></div><div class="ttdeci">ObjectGuid GetCritterGUID() const</div><div class="ttdef"><b>Definition:</b> Unit.h:725</div></div>
-<div class="ttc" id="aa09041_html_aad9476ff8867ed8013781b2601f12d1f"><div class="ttname"><a href="../../da/d68/a09041.html#aad9476ff8867ed8013781b2601f12d1f">Unit::IsGuardian</a></div><div class="ttdeci">bool IsGuardian() const</div><div class="ttdef"><b>Definition:</b> Unit.h:795</div></div>
-<div class="ttc" id="aa09041_html_af5e75d013dfa8a8b888d7714992e3f2a"><div class="ttname"><a href="../../da/d68/a09041.html#af5e75d013dfa8a8b888d7714992e3f2a">Unit::IsInCombat</a></div><div class="ttdeci">bool IsInCombat() const</div><div class="ttdef"><b>Definition:</b> Unit.h:935</div></div>
-<div class="ttc" id="aa09041_html_aff6c755067d9a6c33c846482faf1b6f1"><div class="ttname"><a href="../../da/d68/a09041.html#aff6c755067d9a6c33c846482faf1b6f1">Unit::GetCharmerOrOwnerGUID</a></div><div class="ttdeci">ObjectGuid GetCharmerOrOwnerGUID() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1295</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01295">Unit::GetCharmerOrOwnerGUID()</a>, <a class="el" href="../../#l00725">Unit::GetCritterGUID()</a>, <a class="el" href="../../#l01313">WorldObject::GetDistance2d()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02837">WorldObject::GetObjectSize()</a>, <a class="el" href="../../#l00435">GetTargetSpeedInMotion()</a>, <a class="el" href="../../#l00747">Unit::HasUnitFlag()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l00795">Unit::IsGuardian()</a>, <a class="el" href="../../#l00935">Unit::IsInCombat()</a>, <a class="el" href="../../#l00797">Unit::IsPet()</a>, <a class="el" href="../../#l00800">Unit::IsVehicle()</a>, and <a class="el" href="../../#l00281">UNIT_FLAG_POSSESSED</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00562">FollowMovementGenerator&lt; T &gt;::DoUpdate()</a>.</p>
-
-</div>
-</div>
-<a id="a53d496abdea10dead20c7e6a9cb09cd6" name="a53d496abdea10dead20c7e6a9cb09cd6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a53d496abdea10dead20c7e6a9cb09cd6">&#9670;&#160;</a></span>IsMutualChase()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static bool IsMutualChase </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d68/a09041.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>owner</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d68/a09041.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>target</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
-<div class="line"><span class="lineno">   29</span>    <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../df/d3f/a10253.html#a41e9fbf11fd1a17752bf68a4a14cc8e5">GetCurrentMovementGeneratorType</a>() != <a class="code hl_enumvalue" href="../../d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881">CHASE_MOTION_TYPE</a>)</div>
-<div class="line"><span class="lineno">   30</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   31</span> </div>
-<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">return</span> target-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>() == owner;</div>
-<div class="line"><span class="lineno">   33</span>}</div>
-<div class="ttc" id="aa01829_html_a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881"><div class="ttname"><a href="../../d6/dbd/a01829.html#a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881">CHASE_MOTION_TYPE</a></div><div class="ttdeci">@ CHASE_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:45</div></div>
-<div class="ttc" id="aa09041_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../da/d68/a09041.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1759</div></div>
-<div class="ttc" id="aa09041_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../da/d68/a09041.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:903</div></div>
-<div class="ttc" id="aa10253_html_a41e9fbf11fd1a17752bf68a4a14cc8e5"><div class="ttname"><a href="../../df/d3f/a10253.html#a41e9fbf11fd1a17752bf68a4a14cc8e5">MotionMaster::GetCurrentMovementGeneratorType</a></div><div class="ttdeci">MovementGeneratorType GetCurrentMovementGeneratorType() const</div><div class="ttdef"><b>Definition:</b> MotionMaster.cpp:961</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00045">CHASE_MOTION_TYPE</a>, <a class="el" href="../../#l00961">MotionMaster::GetCurrentMovementGeneratorType()</a>, <a class="el" href="../../#l01759">Unit::GetMotionMaster()</a>, and <a class="el" href="../../#l00903">Unit::GetVictim()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00153">ChaseMovementGenerator&lt; T &gt;::DoUpdate()</a>.</p>
-
-</div>
-</div>
-<a id="a27995927630ed43ca4a79dff89cfb99c" name="a27995927630ed43ca4a79dff89cfb99c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a27995927630ed43ca4a79dff89cfb99c">&#9670;&#160;</a></span>IsValidPredictedPosition()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static bool IsValidPredictedPosition </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d68/a09041.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>target</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/d90/a08741.html">Position</a> const &amp;&#160;</td>
-          <td class="paramname"><em>predicted</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  503</span>{</div>
-<div class="line"><span class="lineno">  504</span>    <a class="code hl_struct" href="../../d2/d90/a08741.html">Position</a> current = target-&gt;<a class="code hl_function" href="../../d2/d90/a08741.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>();</div>
-<div class="line"><span class="lineno">  505</span> </div>
-<div class="line"><span class="lineno">  506</span>    <span class="keywordflow">if</span> (current.<a class="code hl_function" href="../../d2/d90/a08741.html#a2c4639bb74233e1c02c99c465e28895e">GetExactDist2d</a>(&amp;predicted) &gt; 15.0f)</div>
-<div class="line"><span class="lineno">  507</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  508</span> </div>
-<div class="line"><span class="lineno">  509</span>    <span class="comment">// Check line of sight from current to predicted to avoid clipping through geometry</span></div>
-<div class="line"><span class="lineno">  510</span>    <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../d1/d10/a08693.html#a9ddb6dae0ed9e02166b45ea3c0a9d92d">IsWithinLOS</a>(predicted.GetPositionX(), predicted.GetPositionY(), predicted.GetPositionZ()))</div>
-<div class="line"><span class="lineno">  511</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  512</span> </div>
-<div class="line"><span class="lineno">  513</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  514</span>}</div>
-<div class="ttc" id="aa08693_html_a9ddb6dae0ed9e02166b45ea3c0a9d92d"><div class="ttname"><a href="../../d1/d10/a08693.html#a9ddb6dae0ed9e02166b45ea3c0a9d92d">WorldObject::IsWithinLOS</a></div><div class="ttdeci">bool IsWithinLOS(float x, float y, float z, VMAP::ModelIgnoreFlags ignoreFlags=VMAP::ModelIgnoreFlags::Nothing, LineOfSightChecks checks=LINEOFSIGHT_ALL_CHECKS) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1382</div></div>
-<div class="ttc" id="aa08741_html"><div class="ttname"><a href="../../d2/d90/a08741.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
-<div class="ttc" id="aa08741_html_a2c4639bb74233e1c02c99c465e28895e"><div class="ttname"><a href="../../d2/d90/a08741.html#a2c4639bb74233e1c02c99c465e28895e">Position::GetExactDist2d</a></div><div class="ttdeci">float GetExactDist2d(const float x, const float y) const</div><div class="ttdef"><b>Definition:</b> Position.h:170</div></div>
-<div class="ttc" id="aa08741_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../d2/d90/a08741.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition:</b> Position.h:126</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00170">Position::GetExactDist2d()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, and <a class="el" href="../../#l01382">WorldObject::IsWithinLOS()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00562">FollowMovementGenerator&lt; T &gt;::DoUpdate()</a>.</p>
-
-</div>
-</div>
-<a id="ada5b031ff95410ba84fd734c95c68099" name="ada5b031ff95410ba84fd734c95c68099"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ada5b031ff95410ba84fd734c95c68099">&#9670;&#160;</a></span>PredictPosition()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static <a class="el" href="../../d2/d90/a08741.html">Position</a> const PredictPosition </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d68/a09041.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>target</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  471</span>{</div>
-<div class="line"><span class="lineno">  472</span>    <a class="code hl_struct" href="../../d2/d90/a08741.html">Position</a> pos = target-&gt;<a class="code hl_function" href="../../d2/d90/a08741.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>();</div>
-<div class="line"><span class="lineno">  473</span>    <span class="comment">// 0.5 - it&#39;s time (0.5 sec) between starting movement opcode (e.g. MSG_MOVE_START_FORWARD) and MSG_MOVE_HEARTBEAT sent by client</span></div>
-<div class="line"><span class="lineno">  474</span>    <span class="keywordtype">float</span> speed = target-&gt;<a class="code hl_function" href="../../da/d68/a09041.html#a1aa013dc05741dbd3bc5a13aca1f54df">GetSpeed</a>(target-&gt;<a class="code hl_variable" href="../../d1/d10/a08693.html#ad7f9a1627d3568f34c381027145f39ee">m_movementInfo</a>.<a class="code hl_function" href="../../d7/d9e/a08665.html#a6f0c8141058d03f214afbd779a3420ee">GetSpeedType</a>()) * 0.5f;</div>
-<div class="line"><span class="lineno">  475</span>    <span class="keywordtype">float</span> orientation = target-&gt;<a class="code hl_function" href="../../d2/d90/a08741.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>();</div>
-<div class="line"><span class="lineno">  476</span> </div>
-<div class="line"><span class="lineno">  477</span>    <span class="keywordflow">if</span> (target-&gt;<a class="code hl_variable" href="../../d1/d10/a08693.html#ad7f9a1627d3568f34c381027145f39ee">m_movementInfo</a>.<a class="code hl_function" href="../../d7/d9e/a08665.html#ad9571cb899d58cc60fbe2412be79116e">HasMovementFlag</a>(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#a083358a25d084fb928e170c453128f9da3b4db548f48d036a58b0181343a07ba3">MOVEMENTFLAG_FORWARD</a>))</div>
-<div class="line"><span class="lineno">  478</span>    {</div>
-<div class="line"><span class="lineno">  479</span>        pos.<a class="code hl_variable" href="../../d2/d90/a08741.html#a4d45ff71d05bb3ff3d570905460f61cd">m_positionX</a> += cos(orientation) * speed;</div>
-<div class="line"><span class="lineno">  480</span>        pos.<a class="code hl_variable" href="../../d2/d90/a08741.html#a4f8bb54eef056fd5a230c314d24c2ca6">m_positionY</a> += std::sin(orientation) * speed;</div>
-<div class="line"><span class="lineno">  481</span>    }</div>
-<div class="line"><span class="lineno">  482</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (target-&gt;<a class="code hl_variable" href="../../d1/d10/a08693.html#ad7f9a1627d3568f34c381027145f39ee">m_movementInfo</a>.<a class="code hl_function" href="../../d7/d9e/a08665.html#ad9571cb899d58cc60fbe2412be79116e">HasMovementFlag</a>(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#a083358a25d084fb928e170c453128f9da4f594eeed0c7872fe36c885b032a4d00">MOVEMENTFLAG_BACKWARD</a>))</div>
-<div class="line"><span class="lineno">  483</span>    {</div>
-<div class="line"><span class="lineno">  484</span>        pos.<a class="code hl_variable" href="../../d2/d90/a08741.html#a4d45ff71d05bb3ff3d570905460f61cd">m_positionX</a> -= cos(orientation) * speed;</div>
-<div class="line"><span class="lineno">  485</span>        pos.<a class="code hl_variable" href="../../d2/d90/a08741.html#a4f8bb54eef056fd5a230c314d24c2ca6">m_positionY</a> -= std::sin(orientation) * speed;</div>
-<div class="line"><span class="lineno">  486</span>    }</div>
-<div class="line"><span class="lineno">  487</span> </div>
-<div class="line"><span class="lineno">  488</span>    <span class="keywordflow">if</span> (target-&gt;<a class="code hl_variable" href="../../d1/d10/a08693.html#ad7f9a1627d3568f34c381027145f39ee">m_movementInfo</a>.<a class="code hl_function" href="../../d7/d9e/a08665.html#ad9571cb899d58cc60fbe2412be79116e">HasMovementFlag</a>(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#a083358a25d084fb928e170c453128f9da4755c7b398f16571b751687cc628b348">MOVEMENTFLAG_STRAFE_LEFT</a>))</div>
-<div class="line"><span class="lineno">  489</span>    {</div>
-<div class="line"><span class="lineno">  490</span>        pos.<a class="code hl_variable" href="../../d2/d90/a08741.html#a4d45ff71d05bb3ff3d570905460f61cd">m_positionX</a> += cos(orientation + M_PI / 2.f) * speed;</div>
-<div class="line"><span class="lineno">  491</span>        pos.<a class="code hl_variable" href="../../d2/d90/a08741.html#a4f8bb54eef056fd5a230c314d24c2ca6">m_positionY</a> += std::sin(orientation + M_PI / 2.f) * speed;</div>
-<div class="line"><span class="lineno">  492</span>    }</div>
-<div class="line"><span class="lineno">  493</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (target-&gt;<a class="code hl_variable" href="../../d1/d10/a08693.html#ad7f9a1627d3568f34c381027145f39ee">m_movementInfo</a>.<a class="code hl_function" href="../../d7/d9e/a08665.html#ad9571cb899d58cc60fbe2412be79116e">HasMovementFlag</a>(<a class="code hl_enumvalue" href="../../d4/d20/a01421.html#a083358a25d084fb928e170c453128f9dac4485d26f363d8dcb2a0826e7067d645">MOVEMENTFLAG_STRAFE_RIGHT</a>))</div>
-<div class="line"><span class="lineno">  494</span>    {</div>
-<div class="line"><span class="lineno">  495</span>        pos.<a class="code hl_variable" href="../../d2/d90/a08741.html#a4d45ff71d05bb3ff3d570905460f61cd">m_positionX</a> += cos(orientation - M_PI / 2.f) * speed;</div>
-<div class="line"><span class="lineno">  496</span>        pos.<a class="code hl_variable" href="../../d2/d90/a08741.html#a4f8bb54eef056fd5a230c314d24c2ca6">m_positionY</a> += std::sin(orientation - M_PI / 2.f) * speed;</div>
-<div class="line"><span class="lineno">  497</span>    }</div>
-<div class="line"><span class="lineno">  498</span> </div>
-<div class="line"><span class="lineno">  499</span>    <span class="keywordflow">return</span> pos;</div>
-<div class="line"><span class="lineno">  500</span>}</div>
-<div class="ttc" id="aa01421_html_a083358a25d084fb928e170c453128f9da3b4db548f48d036a58b0181343a07ba3"><div class="ttname"><a href="../../d4/d20/a01421.html#a083358a25d084fb928e170c453128f9da3b4db548f48d036a58b0181343a07ba3">MOVEMENTFLAG_FORWARD</a></div><div class="ttdeci">@ MOVEMENTFLAG_FORWARD</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:372</div></div>
-<div class="ttc" id="aa01421_html_a083358a25d084fb928e170c453128f9da4755c7b398f16571b751687cc628b348"><div class="ttname"><a href="../../d4/d20/a01421.html#a083358a25d084fb928e170c453128f9da4755c7b398f16571b751687cc628b348">MOVEMENTFLAG_STRAFE_LEFT</a></div><div class="ttdeci">@ MOVEMENTFLAG_STRAFE_LEFT</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:374</div></div>
-<div class="ttc" id="aa01421_html_a083358a25d084fb928e170c453128f9da4f594eeed0c7872fe36c885b032a4d00"><div class="ttname"><a href="../../d4/d20/a01421.html#a083358a25d084fb928e170c453128f9da4f594eeed0c7872fe36c885b032a4d00">MOVEMENTFLAG_BACKWARD</a></div><div class="ttdeci">@ MOVEMENTFLAG_BACKWARD</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:373</div></div>
-<div class="ttc" id="aa01421_html_a083358a25d084fb928e170c453128f9dac4485d26f363d8dcb2a0826e7067d645"><div class="ttname"><a href="../../d4/d20/a01421.html#a083358a25d084fb928e170c453128f9dac4485d26f363d8dcb2a0826e7067d645">MOVEMENTFLAG_STRAFE_RIGHT</a></div><div class="ttdeci">@ MOVEMENTFLAG_STRAFE_RIGHT</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:375</div></div>
-<div class="ttc" id="aa08665_html_ad9571cb899d58cc60fbe2412be79116e"><div class="ttname"><a href="../../d7/d9e/a08665.html#ad9571cb899d58cc60fbe2412be79116e">MovementInfo::HasMovementFlag</a></div><div class="ttdeci">bool HasMovementFlag(uint32 flag) const</div><div class="ttdef"><b>Definition:</b> Object.h:346</div></div>
-<div class="ttc" id="aa08741_html_a4d45ff71d05bb3ff3d570905460f61cd"><div class="ttname"><a href="../../d2/d90/a08741.html#a4d45ff71d05bb3ff3d570905460f61cd">Position::m_positionX</a></div><div class="ttdeci">float m_positionX</div><div class="ttdef"><b>Definition:</b> Position.h:55</div></div>
-<div class="ttc" id="aa08741_html_a4f8bb54eef056fd5a230c314d24c2ca6"><div class="ttname"><a href="../../d2/d90/a08741.html#a4f8bb54eef056fd5a230c314d24c2ca6">Position::m_positionY</a></div><div class="ttdeci">float m_positionY</div><div class="ttdef"><b>Definition:</b> Position.h:56</div></div>
-<div class="ttc" id="aa08741_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../d2/d90/a08741.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition:</b> Position.h:124</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l11289">Unit::GetSpeed()</a>, <a class="el" href="../../#l00348">MovementInfo::GetSpeedType()</a>, <a class="el" href="../../#l00346">MovementInfo::HasMovementFlag()</a>, <a class="el" href="../../#l00698">WorldObject::m_movementInfo</a>, <a class="el" href="../../#l00055">Position::m_positionX</a>, <a class="el" href="../../#l00056">Position::m_positionY</a>, <a class="el" href="../../#l00373">MOVEMENTFLAG_BACKWARD</a>, <a class="el" href="../../#l00372">MOVEMENTFLAG_FORWARD</a>, <a class="el" href="../../#l00374">MOVEMENTFLAG_STRAFE_LEFT</a>, and <a class="el" href="../../#l00375">MOVEMENTFLAG_STRAFE_RIGHT</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00562">FollowMovementGenerator&lt; T &gt;::DoUpdate()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -497,8 +176,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_0787b0a4fdc11b0654465feaa92c32a3.html">Movement</a></li><li class="navelem"><a class="el" href="../../dir_5b912817ccf0063e74cbee75ff3a7169.html">MovementGenerators</a></li><li class="navelem"><a class="el" href="../../dd/de7/a01868.html">TargetedMovementGenerator.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 21:36:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_0787b0a4fdc11b0654465feaa92c32a3.html">Movement</a></li><li class="navelem"><a class="el" href="../../dir_5b912817ccf0063e74cbee75ff3a7169.html">MovementGenerators</a></li><li class="navelem"><a class="el" href="../../dd/de7/a01868.html">TargetedMovementGenerator.h</a></li>
+    <li class="footer">Generated on Mon May 4 2026 21:40:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

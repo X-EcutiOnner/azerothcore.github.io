@@ -1,6 +1,7 @@
 var a13274 =
 [
-    [ "npc_koltira_deathweaverAI", "d2/d7f/a13278.html", "d2/d7f/a13278" ],
-    [ "npc_koltira_deathweaver", "d1/d4e/a13274.html#a5e9fdbc8dc70ce3480906b86aed381a3", null ],
-    [ "GetAI", "d1/d4e/a13274.html#afddc561b88679f3dd6ca8b374807b0f0", null ]
+    [ "HandleScriptEffect", "d1/d4e/a13274.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "d1/d4e/a13274.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "d1/d4e/a13274.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "d1/d4e/a13274.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

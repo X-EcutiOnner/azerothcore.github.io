@@ -1,9 +1,7 @@
 var a21218 =
 [
-    [ "npc_azure_sorcerorAI", "d8/d71/a21218.html#a474a7144908d4820341dc56f77436b90", null ],
-    [ "Reset", "d8/d71/a21218.html#a4c637288f79e1da4bdace6516cd887b1", null ],
-    [ "UpdateAI", "d8/d71/a21218.html#a928d789e2cbd35b228857a23c4204ea1", null ],
-    [ "uiArcaneStreamTimer", "d8/d71/a21218.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
-    [ "uiArcaneStreamTimerStartingValueHolder", "d8/d71/a21218.html#af044879e8e064e28a491c87d0c6cde74", null ],
-    [ "uiManaDetonationTimer", "d8/d71/a21218.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
+    [ "npc_lurgglbrAI", "dd/dc7/a21222.html", "dd/dc7/a21222" ],
+    [ "npc_lurgglbr", "d8/d71/a21218.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "d8/d71/a21218.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "d8/d71/a21218.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

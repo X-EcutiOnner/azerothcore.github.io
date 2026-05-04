@@ -1,6 +1,6 @@
 var a19350 =
 [
-    [ "FilterTargets", "de/da7/a19350.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "de/da7/a19350.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "de/da7/a19350.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "boss_nothAI", "d1/dcc/a19354.html", "d1/dcc/a19354" ],
+    [ "boss_noth", "de/da7/a19350.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "de/da7/a19350.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

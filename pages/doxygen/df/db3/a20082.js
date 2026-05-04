@@ -1,5 +1,5 @@
 var a20082 =
 [
-    [ "achievement_freya_getting_back_to_nature", "df/db3/a20082.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "df/db3/a20082.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "achievement_flame_leviathan_unbroken", "df/db3/a20082.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
+    [ "OnCheck", "df/db3/a20082.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
 ];

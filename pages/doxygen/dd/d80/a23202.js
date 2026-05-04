@@ -1,10 +1,14 @@
 var a23202 =
 [
-    [ "boss_blindeye_the_seer", "dd/d80/a23202.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
-    [ "JustDied", "dd/d80/a23202.html#ad70a72b18587da82d26bde8f10d63700", null ],
-    [ "JustEngagedWith", "dd/d80/a23202.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
-    [ "Reset", "dd/d80/a23202.html#aabbda75266615f64ce88ce092e68bfa4", null ],
-    [ "UpdateAI", "dd/d80/a23202.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
-    [ "_scheduler", "dd/d80/a23202.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
-    [ "instance", "dd/d80/a23202.html#a74462f26d66da3ca370825858060b1c2", null ]
+    [ "boss_vazruden", "dd/d80/a23202.html#a9908d6082a09d55dd0d8bb801784a151", null ],
+    [ "DamageTaken", "dd/d80/a23202.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
+    [ "EnterEvadeMode", "dd/d80/a23202.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
+    [ "JustDied", "dd/d80/a23202.html#a525025b41b53a577bdff1eb818191ed7", null ],
+    [ "JustEngagedWith", "dd/d80/a23202.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
+    [ "KilledUnit", "dd/d80/a23202.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
+    [ "Reset", "dd/d80/a23202.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
+    [ "UpdateAI", "dd/d80/a23202.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
+    [ "_hasSpoken", "dd/d80/a23202.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
+    [ "_nazanCalled", "dd/d80/a23202.html#a44d53934c743e9beb539681719997852", null ],
+    [ "_scheduler", "dd/d80/a23202.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
 ];

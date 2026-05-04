@@ -1,6 +1,6 @@
 var a27266 =
 [
-    [ "PeriodicTick", "da/dab/a27266.html#a8765e8f662c4279669c955108ff356e3", null ],
-    [ "PrepareAuraScript", "da/dab/a27266.html#a15f077618950e4526ffcee9ee172d89f", null ],
-    [ "Register", "da/dab/a27266.html#aeeca3a2be368025147702c4aa8c518ce", null ]
+    [ "CheckCast", "da/dab/a27266.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "da/dab/a27266.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "da/dab/a27266.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

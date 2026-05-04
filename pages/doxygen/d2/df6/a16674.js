@@ -1,7 +1,11 @@
 var a16674 =
 [
-    [ "npc_toc_shamanAI", "d2/df6/a16674.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "d2/df6/a16674.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "d2/df6/a16674.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "d2/df6/a16674.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "npc_anubarak_spikeAI", "d2/df6/a16674.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
+    [ "DamageTaken", "d2/df6/a16674.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
+    [ "DoAction", "d2/df6/a16674.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
+    [ "Reset", "d2/df6/a16674.html#af5b4a1227467d86d9dbba57362fdf360", null ],
+    [ "SelectNewTarget", "d2/df6/a16674.html#ab9ed5d53703464c488267f578a214fb8", null ],
+    [ "UpdateAI", "d2/df6/a16674.html#af8d6d840785c718d963c7b150cd12d9c", null ],
+    [ "events", "d2/df6/a16674.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
+    [ "TargetGUID", "d2/df6/a16674.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
 ];

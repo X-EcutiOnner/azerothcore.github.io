@@ -1,8 +1,8 @@
 var a27330 =
 [
-    [ "CheckProc", "db/d59/a27330.html#aa78fae71c932b791104d7d2e6f4fb489", null ],
-    [ "HandleProc", "db/d59/a27330.html#a6fc689cee1b24bbd227beafd774c7fa0", null ],
-    [ "PrepareAuraScript", "db/d59/a27330.html#a32cfe704365230d40b02567c8a365e89", null ],
-    [ "Register", "db/d59/a27330.html#a252f09e27d1a9f17d1a6bb2ceb76cb68", null ],
-    [ "Validate", "db/d59/a27330.html#a74420515d0f05ae1414db1059effb3c0", null ]
+    [ "CheckProc", "db/d59/a27330.html#a610313f5085c7c0109b5936e94de00fe", null ],
+    [ "OnProc", "db/d59/a27330.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
+    [ "PrepareAuraScript", "db/d59/a27330.html#aae4d26e262f80681811c9b50c2a63642", null ],
+    [ "Register", "db/d59/a27330.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
+    [ "Validate", "db/d59/a27330.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
 ];

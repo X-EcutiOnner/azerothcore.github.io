@@ -1,4 +1,5 @@
 var a28886 =
 [
-    [ "ratio", "d6/de5/a28886.html#a614fdab0bf0be8c91775b49d020cdc7c", null ]
+    [ "Id", "d6/de5/a28886.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "d6/de5/a28886.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

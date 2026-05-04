@@ -1,8 +1,12 @@
 var a09330 =
 [
-    [ "DungeonEncounter", "db/d50/a09330.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
-    [ "creditEntry", "db/d50/a09330.html#a700a0792973678339f33ab85e7396918", null ],
-    [ "creditType", "db/d50/a09330.html#a66a077e193f099bb7aef363dc75672d6", null ],
-    [ "dbcEntry", "db/d50/a09330.html#a262bdd0ba443739456fc14bcad83ecda", null ],
-    [ "lastEncounterDungeon", "db/d50/a09330.html#a67e29b891887e339dbb40515d082e781", null ]
+    [ "IsTeamAward1", "db/d50/a09330.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
+    [ "IsTeamAward2", "db/d50/a09330.html#a053bd7825d0464ac322b449f3d243722", null ],
+    [ "RepFaction1", "db/d50/a09330.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
+    [ "RepFaction2", "db/d50/a09330.html#a5934590811c666d06b68216428574d8a", null ],
+    [ "ReputationMaxCap1", "db/d50/a09330.html#a292b78f629723c3993a796eb256dd9b8", null ],
+    [ "ReputationMaxCap2", "db/d50/a09330.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
+    [ "RepValue1", "db/d50/a09330.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
+    [ "RepValue2", "db/d50/a09330.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
+    [ "TeamDependent", "db/d50/a09330.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
 ];

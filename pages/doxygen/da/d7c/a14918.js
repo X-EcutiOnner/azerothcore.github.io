@@ -1,9 +1,15 @@
 var a14918 =
 [
-    [ "npc_ancient_wisp", "da/d7c/a14918.html#a70e45e500b3490a034b058ca2ec16d39", null ],
-    [ "DamageTaken", "da/d7c/a14918.html#ad7d96e6b54cdc23a5101338474125e71", null ],
-    [ "JustEngagedWith", "da/d7c/a14918.html#a755ed852b3149ada65c5750410776fc8", null ],
-    [ "Reset", "da/d7c/a14918.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
-    [ "UpdateAI", "da/d7c/a14918.html#a51ca214de826d7126f32e49f6852bca3", null ],
-    [ "_instance", "da/d7c/a14918.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "da/d7c/a14918.html#aef8e98b85dfc93a1e9405fbbce084e3f", null ],
+    [ "Initialize", "da/d7c/a14918.html#a11b698907ffea5dd1a165a35d2c23dd0", null ],
+    [ "IsFireEventDone", "da/d7c/a14918.html#aadba63a6fa6025858e78712892e4a343", null ],
+    [ "OnCreatureCreate", "da/d7c/a14918.html#ab5e452958bc474e60fd3f637595629c1", null ],
+    [ "OnGameObjectCreate", "da/d7c/a14918.html#ae96ecf6e1b4ca99f2b3fc3ace5cbf81b", null ],
+    [ "OnUnitDeath", "da/d7c/a14918.html#a163178ce8e79aa0bc082172465527173", null ],
+    [ "ReadSaveDataMore", "da/d7c/a14918.html#a1b045bbe6c337e726158e64375fa9fe7", null ],
+    [ "SetData", "da/d7c/a14918.html#a79fcee240fbd9190b0b66fd4bf7955d9", null ],
+    [ "WriteSaveDataMore", "da/d7c/a14918.html#abaa419d432ef6d0d96487c8d9ebcb630", null ],
+    [ "_akumaiPortalGUID", "da/d7c/a14918.html#a37b3647e927798d77a17f99976910b4b", null ],
+    [ "_encounters", "da/d7c/a14918.html#a4cfd6047351fd144ba96627889a3e9cd", null ],
+    [ "_requiredDeaths", "da/d7c/a14918.html#a3aade6e7fb756b84180876b4ba086376", null ]
 ];

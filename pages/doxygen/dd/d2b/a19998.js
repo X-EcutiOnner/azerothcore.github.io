@@ -1,6 +1,6 @@
 var a19998 =
 [
-    [ "OnPeriodic", "dd/d2b/a19998.html#a379c55df994c58932fef7e7a59fd8426", null ],
-    [ "PrepareAuraScript", "dd/d2b/a19998.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
-    [ "Register", "dd/d2b/a19998.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
+    [ "npc_pool_of_tar", "dd/d2b/a19998.html#a03de46dfa133992d094ab607a49b7236", null ],
+    [ "DamageTaken", "dd/d2b/a19998.html#ac72ad742cb16e27abf25fe0e88408315", null ],
+    [ "SpellHit", "dd/d2b/a19998.html#a61886862df88b41bf0c6959c9a564cea", null ]
 ];

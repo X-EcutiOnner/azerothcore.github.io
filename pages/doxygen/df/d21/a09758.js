@@ -1,7 +1,8 @@
 var a09758 =
 [
-    [ "ObjectGUIDCheck", "df/d21/a09758.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "df/d21/a09758.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "df/d21/a09758.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "df/d21/a09758.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "AllGameObjectsMatchingOneEntryInRange", "df/d21/a09758.html#ad64e96c8484be1354ad4a3c0b6754d95", null ],
+    [ "operator()", "df/d21/a09758.html#afc81f329be9d6d8eb8bfd2ade94c5665", null ],
+    [ "m_fRange", "df/d21/a09758.html#aa76b1a6c8a919c1e5b37c74b33859464", null ],
+    [ "m_pObject", "df/d21/a09758.html#ac2bae147199d0b1b592a560017128c4e", null ],
+    [ "m_uiEntries", "df/d21/a09758.html#a3eb95fd72147ab8195da44a46c2cf0e6", null ]
 ];

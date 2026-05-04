@@ -1,6 +1,7 @@
 var a11202 =
 [
-    [ "ItemRefundInfo", "da/d3e/a11202.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
-    [ "Read", "da/d3e/a11202.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
-    [ "ItemGuid", "da/d3e/a11202.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
+    [ "BuybackItem", "da/d3e/a11202.html#a05dec559746537669fcf32f52a171b44", null ],
+    [ "Read", "da/d3e/a11202.html#aefe27701674c75f8937f72ee418a6692", null ],
+    [ "Slot", "da/d3e/a11202.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
+    [ "VendorGuid", "da/d3e/a11202.html#a6be9d8d3f564621780e458c4a785b709", null ]
 ];

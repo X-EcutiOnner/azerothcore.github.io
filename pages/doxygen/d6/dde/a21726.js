@@ -1,8 +1,6 @@
 var a21726 =
 [
-    [ "AfterApply", "d6/dde/a21726.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "d6/dde/a21726.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "d6/dde/a21726.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "d6/dde/a21726.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "d6/dde/a21726.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "npc_boneguard_footmanAI", "d6/dde/a21726.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "d6/dde/a21726.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "d6/dde/a21726.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

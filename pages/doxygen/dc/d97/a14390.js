@@ -1,8 +1,6 @@
 var a14390 =
 [
-    [ "npc_spawn_of_marli", "dc/d97/a14390.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "dc/d97/a14390.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "dc/d97/a14390.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "dc/d97/a14390.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "dc/d97/a14390.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "npc_ohganAI", "dd/dc4/a14394.html", "dd/dc4/a14394" ],
+    [ "npc_ohgan", "dc/d97/a14390.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "dc/d97/a14390.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

@@ -1,6 +1,6 @@
 var a27994 =
 [
-    [ "go_soulwellAI", "dd/d80/a27998.html", "dd/d80/a27998" ],
-    [ "go_soulwell", "d0/d0a/a27994.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "d0/d0a/a27994.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "trigger_periodicAI", "dd/d80/a27998.html", "dd/d80/a27998" ],
+    [ "trigger_periodic", "d0/d0a/a27994.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "d0/d0a/a27994.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

@@ -1,6 +1,7 @@
 var a20110 =
 [
-    [ "FilterTargets", "d2/d5a/a20110.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d2/d5a/a20110.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d2/d5a/a20110.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "boss_freya_healthy_spore", "d2/d5a/a20110.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "d2/d5a/a20110.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "d2/d5a/a20110.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "d2/d5a/a20110.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

@@ -1,6 +1,6 @@
 var a22626 =
 [
-    [ "FilterTargets", "d9/d00/a22626.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "d9/d00/a22626.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "d9/d00/a22626.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "ShadowOfDeathSelector", "d9/d00/a22626.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d9/d00/a22626.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d9/d00/a22626.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

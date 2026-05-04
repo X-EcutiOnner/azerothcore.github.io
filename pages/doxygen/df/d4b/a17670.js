@@ -1,6 +1,6 @@
 var a17670 =
 [
-    [ "npc_icc_blood_beastAI", "d3/d2b/a17674.html", "d3/d2b/a17674" ],
-    [ "npc_icc_blood_beast", "df/d4b/a17670.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
-    [ "GetAI", "df/d4b/a17670.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
+    [ "npc_saurfang_eventAI", "d3/d2b/a17674.html", "d3/d2b/a17674" ],
+    [ "npc_saurfang_event", "df/d4b/a17670.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "df/d4b/a17670.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

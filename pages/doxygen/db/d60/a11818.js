@@ -1,6 +1,7 @@
 var a11818 =
 [
-    [ "ObjectTargetSelectHandler", "db/d60/a11818.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
-    [ "Call", "db/d60/a11818.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
-    [ "pObjectTargetSelectHandlerScript", "db/d60/a11818.html#a6982985537c0ddb8dd79647766c9ae70", null ]
+    [ "EffectNameCheck", "db/d60/a11818.html#aa82307388bdda7864bb085a349b63f29", null ],
+    [ "Check", "db/d60/a11818.html#a729d7f07669dedec50f009a87b8f32a4", null ],
+    [ "ToString", "db/d60/a11818.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
+    [ "effName", "db/d60/a11818.html#a905224fb028ea0eab350773b7230f871", null ]
 ];

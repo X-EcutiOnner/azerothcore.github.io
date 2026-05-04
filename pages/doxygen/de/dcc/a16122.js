@@ -1,5 +1,7 @@
 var a16122 =
 [
-    [ "achievement_volunteer_work", "de/dcc/a16122.html#a43db6e553b370f139ac376840fdf6d70", null ],
-    [ "OnCheck", "de/dcc/a16122.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
+    [ "HandleDummy", "de/dcc/a16122.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
+    [ "PrepareSpellScript", "de/dcc/a16122.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
+    [ "Register", "de/dcc/a16122.html#a4359ad73b513a368509a066a039ddf53", null ],
+    [ "_targetCount", "de/dcc/a16122.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
 ];

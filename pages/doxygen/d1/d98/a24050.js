@@ -1,6 +1,5 @@
 var a24050 =
 [
-    [ "HandleDamageCalc", "d1/d98/a24050.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "d1/d98/a24050.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "d1/d98/a24050.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "npc_pet_proto_drake_whelp", "d1/d98/a24050.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
+    [ "Reset", "d1/d98/a24050.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
 ];

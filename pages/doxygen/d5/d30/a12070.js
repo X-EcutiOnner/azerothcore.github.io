@@ -1,20 +1,16 @@
 var a12070 =
 [
-    [ "Weather", "d6/df3/a05008.html#gab528c044ef69c717d477eee8eac299b0", null ],
-    [ "~Weather", "d6/df3/a05008.html#ga8db480edb9459ebf73a1363c6fea0b27", null ],
-    [ "GetScriptId", "d6/df3/a05008.html#ga07ff1c03b6fb225388d418496c18d3be", null ],
-    [ "GetWeatherState", "d6/df3/a05008.html#gaed38cecb6af95222638b2177fa48757c", null ],
-    [ "GetZone", "d6/df3/a05008.html#ga5cf53e440c7da53eb6524ea1d658b0e6", null ],
-    [ "ReGenerate", "d6/df3/a05008.html#gaea61d86d9a64dd5dbc8ea843aad97eb6", null ],
-    [ "SendFineWeatherUpdateToPlayer", "d6/df3/a05008.html#gac976d0c6f66bd6ab52932a289e0f9551", null ],
-    [ "SendWeatherUpdateToPlayer", "d6/df3/a05008.html#gaf9ff2442cc875af4b6ca4bec7f41c965", null ],
-    [ "SetWeather", "d6/df3/a05008.html#ga32e650a32fc1e01bdb6fbfd960fd022f", null ],
-    [ "Update", "d6/df3/a05008.html#gaf7a3484daa8221287a4c325fb3a8080c", null ],
-    [ "UpdateWeather", "d6/df3/a05008.html#gad4885daeab81309a42c2c1fdebcf33ad", null ],
-    [ "m_grade", "d6/df3/a05008.html#ga5638d204d5986f64eed9d343d086895e", null ],
-    [ "m_map", "d6/df3/a05008.html#ga3495c619f0ddde94913cbaea0a6354fa", null ],
-    [ "m_timer", "d6/df3/a05008.html#gadba1100bafe6db8a242bdad35663e909", null ],
-    [ "m_type", "d6/df3/a05008.html#ga19d9ed53043ba2b9eb3bdc27921501eb", null ],
-    [ "m_weatherChances", "d6/df3/a05008.html#gaeb74bbd4568c726a2443318aea6313d0", null ],
-    [ "m_zone", "d6/df3/a05008.html#ga1fd12588331e8f86399378b7bb12317b", null ]
+    [ "CheckContainer", "d5/d30/a12070.html#a08e083224760d2bca1996da9cd9cb014", null ],
+    [ "CheckResultContainer", "d5/d30/a12070.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
+    [ "WardenCheckMgr", "d5/d30/a12070.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
+    [ "~WardenCheckMgr", "d5/d30/a12070.html#a0d89190f580435337c328da4bf2497b8", null ],
+    [ "GetMaxValidCheckId", "d5/d30/a12070.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
+    [ "GetWardenDataById", "d5/d30/a12070.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
+    [ "GetWardenResultById", "d5/d30/a12070.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
+    [ "instance", "d5/d30/a12070.html#aba9de1e123070338dc0049db8d8f0663", null ],
+    [ "LoadWardenChecks", "d5/d30/a12070.html#ad02847547a06d98c582d09992dce9d11", null ],
+    [ "LoadWardenOverrides", "d5/d30/a12070.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
+    [ "CheckIdPool", "d5/d30/a12070.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
+    [ "CheckResultStore", "d5/d30/a12070.html#a4f0224b8377827aced304b28fdefbda7", null ],
+    [ "CheckStore", "d5/d30/a12070.html#aac59e154d81b838f27c577af87b86bd1", null ]
 ];

@@ -1,4 +1,5 @@
 var a00329 =
 [
-    [ "AH_MINIMUM_DEPOSIT", "dd/d4e/a00329.html#ae6debe42dd0e5674dcf1b874cebafe98", null ]
+    [ "GetEnableModulesList", "dd/d4e/a00329.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7", null ],
+    [ "SetEnableModulesList", "dd/d4e/a00329.html#ac16569c9333f642e54fa7a4ec6a948e3", null ]
 ];

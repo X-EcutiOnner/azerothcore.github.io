@@ -1,9 +1,10 @@
 var a06026 =
 [
-    [ "itemId", "d0/dbe/a06026.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
-    [ "mailTemplate", "d0/dbe/a06026.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
-    [ "sender", "d0/dbe/a06026.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
-    [ "subject", "d0/dbe/a06026.html#a45644f308278529f822080f8274180d8", null ],
-    [ "text", "d0/dbe/a06026.html#a4d57dcb4d130552f5bf756308d79307c", null ],
-    [ "titleId", "d0/dbe/a06026.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
+    [ "MySQLConnectionInfo", "d0/dbe/a06026.html#ae60c54053d71eb9325df10701b1f42d3", null ],
+    [ "database", "d0/dbe/a06026.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
+    [ "host", "d0/dbe/a06026.html#a2659372561aae5feb8da121984354ef3", null ],
+    [ "password", "d0/dbe/a06026.html#af5a51bd38ce1d58f65444d69b0283966", null ],
+    [ "port_or_socket", "d0/dbe/a06026.html#a37b89660afb3ee085e817836e9d1d01f", null ],
+    [ "ssl", "d0/dbe/a06026.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
+    [ "user", "d0/dbe/a06026.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
 ];

@@ -1,4 +1,4 @@
 var a00620 =
 [
-    [ "BattlegroundMapScript", "d8/d12/a10593.html", "d8/d12/a10593" ]
+    [ "ScriptRegistry< CreatureScript >", "dc/d4d/a00620.html#adb066a45d02e899835d90ecde5d40ccd", null ]
 ];

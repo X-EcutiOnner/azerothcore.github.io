@@ -1,11 +1,7 @@
 var a12502 =
 [
-    [ "boss_gyth", "dc/d2e/a12502.html#a18fea0e0fb6c734b818bb8989b1e66c9", null ],
-    [ "EnterEvadeMode", "dc/d2e/a12502.html#a172ea902e3bd162bf8fe8b23e7b9dcfa", null ],
-    [ "IsSummonedBy", "dc/d2e/a12502.html#ad7c64e772a8959ad0e58fc13512e0088", null ],
-    [ "JustDied", "dc/d2e/a12502.html#a305bf5c4913f429b44592e4a7e99b8ae", null ],
-    [ "JustEngagedWith", "dc/d2e/a12502.html#a16de6cf7e2925fd49df6a412c6df9533", null ],
-    [ "JustSummoned", "dc/d2e/a12502.html#aab0152a90a341839279cb6d0e7e19eb6", null ],
-    [ "Reset", "dc/d2e/a12502.html#aef0345d29833b13045b374a219335018", null ],
-    [ "UpdateAI", "dc/d2e/a12502.html#a8829ad229ee09aea55f9603058d095e8", null ]
+    [ "boss_gorosh_the_dervish", "dc/d2e/a12502.html#a49b79326e3eae3f42be4955f30982ffe", null ],
+    [ "JustEngagedWith", "dc/d2e/a12502.html#ad3b7ab3db30d16549cd85c471bbb190b", null ],
+    [ "UpdateAI", "dc/d2e/a12502.html#adf24561c335f1023f44f76709e66bc83", null ],
+    [ "nextWhirlwindTime", "dc/d2e/a12502.html#a61b57a2db3d097a0da74a502fb272339", null ]
 ];

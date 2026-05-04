@@ -1,6 +1,7 @@
 var a24802 =
 [
-    [ "OnPeriodic", "de/da6/a24802.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "de/da6/a24802.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "de/da6/a24802.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "HandleScript", "de/da6/a24802.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
+    [ "Load", "de/da6/a24802.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
+    [ "PrepareSpellScript", "de/da6/a24802.html#a7616d761e7a7a708c88918302b488bb9", null ],
+    [ "Register", "de/da6/a24802.html#a8ca351c9e0e254369328865eefa3ff91", null ]
 ];

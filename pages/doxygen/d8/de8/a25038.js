@@ -1,7 +1,7 @@
 var a25038 =
 [
-    [ "HandleProc", "d8/de8/a25038.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
-    [ "PrepareAuraScript", "d8/de8/a25038.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
-    [ "Register", "d8/de8/a25038.html#af02b0af51a1fece0780414ab45c8d31e", null ],
-    [ "Validate", "d8/de8/a25038.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
+    [ "OnApply", "d8/de8/a25038.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "d8/de8/a25038.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "d8/de8/a25038.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "d8/de8/a25038.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

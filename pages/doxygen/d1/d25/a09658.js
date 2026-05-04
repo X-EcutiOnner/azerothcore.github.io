@@ -1,9 +1,8 @@
 var a09658 =
 [
-    [ "NearestAttackableUnitInObjectRangeCheck", "d1/d25/a09658.html#ae2f43e2036047622ec88de3db08ea668", null ],
-    [ "NearestAttackableUnitInObjectRangeCheck", "d1/d25/a09658.html#a8deef14a2c11f9ccd9613614124a7d8e", null ],
-    [ "operator()", "d1/d25/a09658.html#a2f966e38682e6a02a120ad90ba19f7a4", null ],
-    [ "i_funit", "d1/d25/a09658.html#a88be7342d10008fc394f21b9a5e14162", null ],
-    [ "i_obj", "d1/d25/a09658.html#a6c1c4e5b85f6f7958578afb6c6f2af98", null ],
-    [ "i_range", "d1/d25/a09658.html#a26242657d6f2eb61d6f8fcac30357381", null ]
+    [ "FriendlyMissingBuffInRange", "d1/d25/a09658.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
+    [ "operator()", "d1/d25/a09658.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
+    [ "i_obj", "d1/d25/a09658.html#aba43edf48b2b0184b52143707c3531f4", null ],
+    [ "i_range", "d1/d25/a09658.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
+    [ "i_spell", "d1/d25/a09658.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
 ];

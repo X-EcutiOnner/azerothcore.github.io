@@ -1,8 +1,23 @@
 var a10450 =
 [
-    [ "ownerGuid", "de/d72/a10450.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
-    [ "petitionGuid", "de/d72/a10450.html#a1bbf412a221b76c4a20765d9a6612182", null ],
-    [ "petitionId", "de/d72/a10450.html#afa16859ac671ff0410204ea30ebcf429", null ],
-    [ "petitionName", "de/d72/a10450.html#a91c81356e9aa77641eaa881cd04af5af", null ],
-    [ "petitionType", "de/d72/a10450.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
+    [ "LengthArray", "de/d72/a10450.html#a20cf3df436c8fc337019cb8dbd4fc74f", null ],
+    [ "LengthType", "de/d72/a10450.html#a5bbffaf9ea67b7747d5c0749d38162fb", null ],
+    [ "Spline", "de/d72/a10450.html#a9aaaf0914627ffdad08de010920fd626", null ],
+    [ "clear", "de/d72/a10450.html#a091e42262c66dff880bfa787c74a0bcc", null ],
+    [ "computeIndex", "de/d72/a10450.html#a69a59bf415f83e6770694799e3c905b1", null ],
+    [ "computeIndexInBounds", "de/d72/a10450.html#aa344531c5931b35d759830991174c6a0", null ],
+    [ "computeIndexInBounds", "de/d72/a10450.html#a97b872ca05f947444945860e04bb2651", null ],
+    [ "evaluate_derivative", "de/d72/a10450.html#ad4b8334bf969be613fdf68043b602fb1", null ],
+    [ "evaluate_derivative", "de/d72/a10450.html#ae0801ccc74dc971248f743cfadc248a3", null ],
+    [ "evaluate_percent", "de/d72/a10450.html#ae05046412e2825316172dc8b1cdac870", null ],
+    [ "evaluate_percent", "de/d72/a10450.html#a249fa3aa29b3baa59a5afec0e14c7ef5", null ],
+    [ "init_cyclic_spline", "de/d72/a10450.html#ada945b9cb6b0ec086679aba48aa79413", null ],
+    [ "init_spline", "de/d72/a10450.html#a4cc857f480a0a6531dac70fd520a89ed", null ],
+    [ "initLengths", "de/d72/a10450.html#ad1cdf5235b5a2a64f32125bcf9048094", null ],
+    [ "initLengths", "de/d72/a10450.html#a708b60c2b21178db578520dfd98af6f7", null ],
+    [ "length", "de/d72/a10450.html#aab929569bba2417387acd22f0634504d", null ],
+    [ "length", "de/d72/a10450.html#a6791d5411365109dffcc699170f03291", null ],
+    [ "length", "de/d72/a10450.html#a73b3a47713e07a5d07959a2eb17be87e", null ],
+    [ "set_length", "de/d72/a10450.html#a7c5aba567e41d196c8bf0faf175ed43e", null ],
+    [ "lengths", "de/d72/a10450.html#a307a7a746de042f0cd21f48797768afb", null ]
 ];

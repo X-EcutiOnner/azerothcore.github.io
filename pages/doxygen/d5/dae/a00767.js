@@ -1,4 +1,6 @@
 var a00767 =
 [
-    [ "validUtf8String", "d5/dae/a00767.html#a15c437e1d990c60d0d271ab1773b7d97", null ]
+    [ "GetWeatherData", "d5/dae/a00767.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+    [ "LoadWeatherData", "d5/dae/a00767.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
+    [ "_weatherData", "d5/dae/a00767.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
 ];

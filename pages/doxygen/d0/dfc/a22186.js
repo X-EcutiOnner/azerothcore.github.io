@@ -1,13 +1,14 @@
 var a22186 =
 [
-    [ "OPvPCapturePointEP_NPT", "d0/dfc/a22186.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
-    [ "ChangeState", "d0/dfc/a22186.html#a9e046ace6129ce67568ed7c15130b617", null ],
-    [ "FillInitialWorldStates", "d0/dfc/a22186.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
-    [ "HandlePlayerEnter", "d0/dfc/a22186.html#ace643b7f7bc793934972c61c618045eb", null ],
-    [ "HandlePlayerLeave", "d0/dfc/a22186.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
-    [ "SendChangePhase", "d0/dfc/a22186.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
-    [ "SummonGO", "d0/dfc/a22186.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
-    [ "UpdateTowerState", "d0/dfc/a22186.html#ad8cfefcc567346273914e8039b039835", null ],
-    [ "m_SummonedGOSideId", "d0/dfc/a22186.html#aa034240d169c9ab7276786bb188abc70", null ],
-    [ "m_TowerState", "d0/dfc/a22186.html#a703b68024362d13ceaf9012202b72e7d", null ]
+    [ "OutdoorPvPNA", "d0/dfc/a22186.html#acbdae42245c71e4274296649d8d08e9e", null ],
+    [ "FillInitialWorldStates", "d0/dfc/a22186.html#a49ac785929dd16bf0735b32b787763e9", null ],
+    [ "GetCapturePoint", "d0/dfc/a22186.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
+    [ "HandleKill", "d0/dfc/a22186.html#ab55683b771104878c69239314a9782f4", null ],
+    [ "HandleKillImpl", "d0/dfc/a22186.html#a2ede6e7dc54424d9729a094557b14792", null ],
+    [ "HandlePlayerEnterZone", "d0/dfc/a22186.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
+    [ "HandlePlayerLeaveZone", "d0/dfc/a22186.html#ae7dd540746946513cd7bf8e29296c068", null ],
+    [ "SendRemoveWorldStates", "d0/dfc/a22186.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
+    [ "SetupOutdoorPvP", "d0/dfc/a22186.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
+    [ "Update", "d0/dfc/a22186.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
+    [ "m_obj", "d0/dfc/a22186.html#a7538d64bb494644eae3cc7db03dd631f", null ]
 ];

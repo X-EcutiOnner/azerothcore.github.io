@@ -1,8 +1,9 @@
 var a12786 =
 [
-    [ "MajordomoAddData", "d5/d79/a12786.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "d5/d79/a12786.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "d5/d79/a12786.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "d5/d79/a12786.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "d5/d79/a12786.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "boss_baron_geddon", "d5/d79/a12786.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
+    [ "DamageTaken", "d5/d79/a12786.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
+    [ "ExecuteEvent", "d5/d79/a12786.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
+    [ "JustEngagedWith", "d5/d79/a12786.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
+    [ "Reset", "d5/d79/a12786.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
+    [ "armageddonCasted", "d5/d79/a12786.html#a4ea01568770a91e6734d45e3730c62cc", null ]
 ];

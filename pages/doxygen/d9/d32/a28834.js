@@ -1,6 +1,7 @@
 var a28834 =
 [
-    [ "color", "d9/d32/a28834.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "d9/d32/a28834.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "d9/d32/a28834.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "AllocationPct", "d9/d32/a28834.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "d9/d32/a28834.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "d9/d32/a28834.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "d9/d32/a28834.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

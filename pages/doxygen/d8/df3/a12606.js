@@ -1,6 +1,6 @@
 var a12606 =
 [
-    [ "OnEffect", "d8/df3/a12606.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "d8/df3/a12606.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "d8/df3/a12606.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "OrcMoveEvent", "d8/df3/a12606.html#a71f7fe243741a1629bdd846fc97f0112", null ],
+    [ "Execute", "d8/df3/a12606.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
+    [ "_me", "d8/df3/a12606.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
 ];

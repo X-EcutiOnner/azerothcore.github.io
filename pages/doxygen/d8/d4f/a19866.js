@@ -1,6 +1,6 @@
 var a19866 =
 [
-    [ "CastRunesEvent", "d8/d4f/a19866.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "d8/d4f/a19866.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "d8/d4f/a19866.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "HandlePeriodic", "d8/d4f/a19866.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "d8/d4f/a19866.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "d8/d4f/a19866.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

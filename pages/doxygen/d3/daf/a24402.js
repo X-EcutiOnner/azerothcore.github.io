@@ -1,7 +1,7 @@
 var a24402 =
 [
-    [ "HandleProc", "d3/daf/a24402.html#af3169e55f8dea7f0efffd11fbe8e06fe", null ],
-    [ "PrepareAuraScript", "d3/daf/a24402.html#abe4d50c9839defc99ca9806cd9d5445f", null ],
-    [ "Register", "d3/daf/a24402.html#a2eb1b84ad1af2437e298255b0499b03d", null ],
-    [ "Validate", "d3/daf/a24402.html#ae8fa6922908b4204e16a81b739d01fb1", null ]
+    [ "HandleScriptEffect", "d3/daf/a24402.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
+    [ "PrepareSpellScript", "d3/daf/a24402.html#ae29c4f69a34e71011192df12509e2935", null ],
+    [ "Register", "d3/daf/a24402.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
+    [ "Validate", "d3/daf/a24402.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
 ];

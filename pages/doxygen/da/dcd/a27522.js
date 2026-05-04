@@ -1,8 +1,6 @@
 var a27522 =
 [
-    [ "CheckProc", "da/dcd/a27522.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
-    [ "OnProc", "da/dcd/a27522.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
-    [ "PrepareAuraScript", "da/dcd/a27522.html#a8bf573bb900773d4669708536b0b8011", null ],
-    [ "Register", "da/dcd/a27522.html#ae8ddcb6329088f904cbae3292ff92023", null ],
-    [ "Validate", "da/dcd/a27522.html#a918c9334b7f20710c0d6448a33c94601", null ]
+    [ "CheckProc", "da/dcd/a27522.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "PrepareAuraScript", "da/dcd/a27522.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "da/dcd/a27522.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

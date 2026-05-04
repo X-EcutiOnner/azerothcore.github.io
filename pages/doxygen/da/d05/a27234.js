@@ -1,6 +1,7 @@
 var a27234 =
 [
-    [ "HandleKnockBack", "da/d05/a27234.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "da/d05/a27234.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "da/d05/a27234.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "HandleProc", "da/d05/a27234.html#aa28268bdb7e3063cff0880baefe02824", null ],
+    [ "PrepareAuraScript", "da/d05/a27234.html#a8b19c9d128d568be695f985e5ed28b2d", null ],
+    [ "Register", "da/d05/a27234.html#a5a0f0e1558c1d4c687b94fe8874512ef", null ],
+    [ "Validate", "da/d05/a27234.html#a8461f9dc90d1df9a91350d3e277fffeb", null ]
 ];

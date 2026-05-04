@@ -1,6 +1,6 @@
 var a13542 =
 [
-    [ "HandleActivateObject", "d0/d46/a13542.html#aedcb4513b7c53b9a9e972b9051da0e0f", null ],
-    [ "PrepareSpellScript", "d0/d46/a13542.html#afc844250ea7ba48330edfda305fa856c", null ],
-    [ "Register", "d0/d46/a13542.html#a6d77f6848397724e61c1db7a80de7139", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "dd/de2/a13546.html", "dd/de2/a13546" ],
+    [ "instance_sunken_temple", "d0/d46/a13542.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "d0/d46/a13542.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

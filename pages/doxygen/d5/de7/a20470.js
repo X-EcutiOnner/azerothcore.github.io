@@ -1,9 +1,9 @@
 var a20470 =
 [
-    [ "boss_thorim_gauntlet_npcs", "d5/de7/a20470.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
-    [ "JustEngagedWith", "d5/de7/a20470.html#af10a444bada5743c837a9979726c79c9", null ],
-    [ "Reset", "d5/de7/a20470.html#a22fcffcc05f155524cadade389ec3607", null ],
-    [ "UpdateAI", "d5/de7/a20470.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
-    [ "_isCaster", "d5/de7/a20470.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
-    [ "events", "d5/de7/a20470.html#aec35e2b91841c386f083681673e15598", null ]
+    [ "npc_ulduar_dark_rune_sentinel", "d5/de7/a20470.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
+    [ "CanAIAttack", "d5/de7/a20470.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
+    [ "Reset", "d5/de7/a20470.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
+    [ "UpdateAI", "d5/de7/a20470.html#ae0c37055a213f91a46b68d7286ef3867", null ],
+    [ "timer1", "d5/de7/a20470.html#a836d5ed8691a08303622389475380eae", null ],
+    [ "timer2", "d5/de7/a20470.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
 ];

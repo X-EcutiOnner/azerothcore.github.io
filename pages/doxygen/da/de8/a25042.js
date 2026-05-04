@@ -1,9 +1,7 @@
 var a25042 =
 [
-    [ "spell_gen_lifebloom", "da/de8/a25042.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
-    [ "AfterRemove", "da/de8/a25042.html#aea962f603e56c1bd33fccaef0c89d917", null ],
-    [ "PrepareAuraScript", "da/de8/a25042.html#ac11134bdc3588795ce6e256c5b02055f", null ],
-    [ "Register", "da/de8/a25042.html#ab4a552402ee9f90834320d6fc668cff3", null ],
-    [ "Validate", "da/de8/a25042.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
-    [ "_spellId", "da/de8/a25042.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
+    [ "PrepareAuraScript", "da/de8/a25042.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
+    [ "Register", "da/de8/a25042.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
+    [ "TriggerFoodBuff", "da/de8/a25042.html#a5d125413491dd377d61b8e30c4979fdd", null ],
+    [ "Validate", "da/de8/a25042.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
 ];

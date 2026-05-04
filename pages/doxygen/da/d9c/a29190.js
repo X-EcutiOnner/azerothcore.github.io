@@ -1,10 +1,8 @@
 var a29190 =
 [
-    [ "BugfixVersion", "da/d9c/a29190.html#a461f8c749a874405584dc1fd3fe1d805", null ],
-    [ "Build", "da/d9c/a29190.html#a6cc7aff1b397df7333b9bb0003282abd", null ],
-    [ "HotfixVersion", "da/d9c/a29190.html#a0df61c036a57b8a3efde5d180dc38131", null ],
-    [ "MacHash", "da/d9c/a29190.html#ad59772e86371318fe975760e303fa7d9", null ],
-    [ "MajorVersion", "da/d9c/a29190.html#a0eb78564680f771e325536a0ab77382a", null ],
-    [ "MinorVersion", "da/d9c/a29190.html#a7140f7ef9540eff08fabf74ded68b9cc", null ],
-    [ "WindowsHash", "da/d9c/a29190.html#a96abd69a458dfc4363c4e545fc7fabab", null ]
+    [ "auraHasCanProcFromProcs", "da/d9c/a29190.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
+    [ "isTriggered", "da/d9c/a29190.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
+    [ "procAuraSpellId", "da/d9c/a29190.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
+    [ "spellHasNotAProc", "da/d9c/a29190.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
+    [ "triggeredByAuraSpellId", "da/d9c/a29190.html#ad62562e342e1d090e3f26f7c40a35795", null ]
 ];

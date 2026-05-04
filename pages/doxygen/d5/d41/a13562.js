@@ -1,9 +1,9 @@
 var a13562 =
 [
-    [ "spell_eredar_twins_apply_touch", "d5/d41/a13562.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
-    [ "HandleApplyTouch", "d5/d41/a13562.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
-    [ "PrepareSpellScript", "d5/d41/a13562.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
-    [ "Register", "d5/d41/a13562.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
-    [ "Validate", "d5/d41/a13562.html#a36ff1d126191de7880d98242b3b714b5", null ],
-    [ "_touchSpell", "d5/d41/a13562.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
+    [ "boss_brutallus", "d5/d41/a13562.html#a501c898505eb4265edee1546bc54713e", null ],
+    [ "AttackStart", "d5/d41/a13562.html#a05edf7010f4e7364399bc81582502219", null ],
+    [ "JustDied", "d5/d41/a13562.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
+    [ "JustEngagedWith", "d5/d41/a13562.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
+    [ "KilledUnit", "d5/d41/a13562.html#a608607d83680da85f91324ce0035804b", null ],
+    [ "Reset", "d5/d41/a13562.html#a20ad64739072e39e7ff3132c6f637af7", null ]
 ];

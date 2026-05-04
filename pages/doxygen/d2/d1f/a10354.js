@@ -1,7 +1,6 @@
 var a10354 =
 [
-    [ "WriteCommonMonsterMovePart", "d2/d1f/a10354.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
-    [ "WriteCreate", "d2/d1f/a10354.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
-    [ "WriteMonsterMove", "d2/d1f/a10354.html#a4c4294e3fed32aca35078dd4975b057d", null ],
-    [ "WriteStopMovement", "d2/d1f/a10354.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
+    [ "AssistanceMovementGenerator", "d2/d1f/a10354.html#a649b7d2833aaf895a5f6f290131c88f5", null ],
+    [ "Finalize", "d2/d1f/a10354.html#af92bc6f83b1f4b1262736bf582b13ac3", null ],
+    [ "GetMovementGeneratorType", "d2/d1f/a10354.html#a0791e081895efd553ba2048fc5b851ea", null ]
 ];

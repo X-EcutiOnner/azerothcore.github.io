@@ -1,9 +1,11 @@
 var a11994 =
 [
-    [ "ClientKeySeed", "dd/d2f/a11994.html#a3e2df88e6fd716030d70a77850e96970", null ],
-    [ "ClientKeySeedHash", "dd/d2f/a11994.html#ae2523827d6f9abae5eed0b463c00062f", null ],
-    [ "Module", "dd/d2f/a11994.html#a1fcce28666a614c83d06729bc9c88bb4", null ],
-    [ "ModuleKey", "dd/d2f/a11994.html#ac34f4c4997f5f64a9dcf4ad7d914a215", null ],
-    [ "Seed", "dd/d2f/a11994.html#a3c8e1b5c642f12e29837800f0428f34e", null ],
-    [ "ServerKeySeed", "dd/d2f/a11994.html#ad29fe1f9ba6ef32f1d35657683b0e11b", null ]
+    [ "WorldUpdateTime", "dd/d2f/a11994.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "dd/d2f/a11994.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "dd/d2f/a11994.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "dd/d2f/a11994.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "dd/d2f/a11994.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "dd/d2f/a11994.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "dd/d2f/a11994.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "dd/d2f/a11994.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

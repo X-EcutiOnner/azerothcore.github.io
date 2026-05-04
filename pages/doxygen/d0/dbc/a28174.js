@@ -1,7 +1,8 @@
 var a28174 =
 [
-    [ "npc_riggle_bassbaitAI", "d0/dbc/a28174.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d0/dbc/a28174.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d0/dbc/a28174.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d0/dbc/a28174.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "npc_wormholeAI", "d4/df4/a28178.html", "d4/df4/a28178" ],
+    [ "npc_wormhole", "d0/dbc/a28174.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "d0/dbc/a28174.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "d0/dbc/a28174.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "d0/dbc/a28174.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

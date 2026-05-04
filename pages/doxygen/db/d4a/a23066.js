@@ -1,7 +1,8 @@
 var a23066 =
 [
-    [ "boss_hydromancer_thespia", "db/d4a/a23066.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "db/d4a/a23066.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "db/d4a/a23066.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "db/d4a/a23066.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "boss_the_black_stalker", "db/d4a/a23066.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "db/d4a/a23066.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "db/d4a/a23066.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "db/d4a/a23066.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "db/d4a/a23066.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

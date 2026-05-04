@@ -1,10 +1,6 @@
 var a28106 =
 [
-    [ "npc_prof_tailor", "d8/dd2/a28106.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "d8/dd2/a28106.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "d8/dd2/a28106.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "d8/dd2/a28106.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "d8/dd2/a28106.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "d8/dd2/a28106.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "d8/dd2/a28106.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "npc_air_force_botsAI", "de/de9/a28110.html", "de/de9/a28110" ],
+    [ "npc_air_force_bots", "d8/dd2/a28106.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "d8/dd2/a28106.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

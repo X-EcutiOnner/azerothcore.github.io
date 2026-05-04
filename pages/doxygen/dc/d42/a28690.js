@@ -1,14 +1,12 @@
 var a28690 =
 [
-    [ "FlameshockerCheck", "da/d4b/a28694.html", "da/d4b/a28694" ],
-    [ "npc_pallid_horror", "dc/d42/a28690.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
-    [ "CorpseRemoved", "dc/d42/a28690.html#a700af3062528a6c41f7f0985f1820b36", null ],
-    [ "InitializeAI", "dc/d42/a28690.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
-    [ "JustDied", "dc/d42/a28690.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
-    [ "JustSummoned", "dc/d42/a28690.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
-    [ "ScheduleTasks", "dc/d42/a28690.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
-    [ "SummonFlameshockers", "dc/d42/a28690.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
-    [ "UpdateAI", "dc/d42/a28690.html#a701b52b2977017c692368a5d363dd6bd", null ],
-    [ "UpdateWeather", "dc/d42/a28690.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
-    [ "_summons", "dc/d42/a28690.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
+    [ "ID", "dc/d42/a28690.html#a84ba697182123cb3e7dd3ba07241e971", null ],
+    [ "maxScale", "dc/d42/a28690.html#a23ca0ae7c45790a24f58546970194abf", null ],
+    [ "maxScaleLevel", "dc/d42/a28690.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
+    [ "minScale", "dc/d42/a28690.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
+    [ "minScaleLevel", "dc/d42/a28690.html#a49d9d7847cc4d54891d83166eb277740", null ],
+    [ "Name", "dc/d42/a28690.html#a937fc579ab2790f4a972f07d3453a762", null ],
+    [ "petFoodMask", "dc/d42/a28690.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
+    [ "petTalentType", "dc/d42/a28690.html#a802000cefb6c4d357edfc45cc291e21e", null ],
+    [ "skillLine", "dc/d42/a28690.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
 ];

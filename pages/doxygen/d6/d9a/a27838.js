@@ -1,5 +1,6 @@
 var a27838 =
 [
-    [ "go_seer_of_zebhalak", "d6/d9a/a27838.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
-    [ "OnGossipHello", "d6/d9a/a27838.html#a84009789ce8e8d0d7c42996fde161135", null ]
+    [ "go_darkmoon_faire_musicAI", "da/dc6/a27842.html", "da/dc6/a27842" ],
+    [ "go_darkmoon_faire_music", "d6/d9a/a27838.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "d6/d9a/a27838.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

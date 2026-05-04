@@ -1,8 +1,6 @@
 var a28758 =
 [
-    [ "ID", "d7/d34/a28758.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "d7/d34/a28758.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "d7/d34/a28758.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "d7/d34/a28758.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "d7/d34/a28758.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "Id", "d7/d34/a28758.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d7/d34/a28758.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d7/d34/a28758.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

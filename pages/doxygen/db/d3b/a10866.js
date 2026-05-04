@@ -1,10 +1,7 @@
 var a10866 =
 [
-    [ "EnvironmentalDamageLog", "db/d3b/a10866.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
-    [ "Write", "db/d3b/a10866.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
-    [ "Absorbed", "db/d3b/a10866.html#a443df04be3afe2021532716140ffb099", null ],
-    [ "Amount", "db/d3b/a10866.html#a073e22176d44f5806313c2a4bd3e263a", null ],
-    [ "Resisted", "db/d3b/a10866.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
-    [ "Type", "db/d3b/a10866.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
-    [ "Victim", "db/d3b/a10866.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
+    [ "LogoutResponse", "db/d3b/a10866.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
+    [ "Write", "db/d3b/a10866.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
+    [ "Instant", "db/d3b/a10866.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
+    [ "LogoutResult", "db/d3b/a10866.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
 ];

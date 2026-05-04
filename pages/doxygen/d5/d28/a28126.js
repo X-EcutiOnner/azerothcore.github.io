@@ -1,12 +1,10 @@
 var a28126 =
 [
-    [ "npc_preciousAI", "d5/d28/a28126.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "d5/d28/a28126.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "InitializeAI", "d5/d28/a28126.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "d5/d28/a28126.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "d5/d28/a28126.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "d5/d28/a28126.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "UpdateAI", "d5/d28/a28126.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "d5/d28/a28126.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "d5/d28/a28126.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "npc_dancing_flamesAI", "d5/d28/a28126.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d5/d28/a28126.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d5/d28/a28126.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d5/d28/a28126.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d5/d28/a28126.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d5/d28/a28126.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d5/d28/a28126.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

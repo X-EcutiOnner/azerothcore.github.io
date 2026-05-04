@@ -1,11 +1,10 @@
 var a14994 =
 [
-    [ "npc_hyjal_ground_trash", "dc/ddb/a14994.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
-    [ "AttackStart", "dc/ddb/a14994.html#a0ab86d651644dcc579585176c2b5c07e", null ],
-    [ "DoAction", "dc/ddb/a14994.html#aa92481bcf993c4eda5ef271145200d77", null ],
-    [ "GetNearbyFriendlyTrashCreature", "dc/ddb/a14994.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
-    [ "JustEngagedWith", "dc/ddb/a14994.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
-    [ "PathEndReached", "dc/ddb/a14994.html#a035610284a56e690200f978b0fd496ab", null ],
-    [ "Reset", "dc/ddb/a14994.html#aa38b45f63841c049a2add0a9832268ef", null ],
-    [ "UpdateAI", "dc/ddb/a14994.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
+    [ "boss_rage_winterchill", "dc/ddb/a14994.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "dc/ddb/a14994.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "dc/ddb/a14994.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "dc/ddb/a14994.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "dc/ddb/a14994.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "dc/ddb/a14994.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "dc/ddb/a14994.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

@@ -1,27 +1,7 @@
 var a10458 =
 [
-    [ "PetitionMgr", "d6/d6e/a10458.html#a2101165239e2f58faeb1ded69fb6d0b8", null ],
-    [ "~PetitionMgr", "d6/d6e/a10458.html#a110d7d33ff92a87b78cd132c6228bd03", null ],
-    [ "AddPetition", "d6/d6e/a10458.html#a396e38c3e63d544d5b9bf56413fa28f0", null ],
-    [ "AddSignature", "d6/d6e/a10458.html#a00f47487f06ced804371e63427f4afdb", null ],
-    [ "GeneratePetitionId", "d6/d6e/a10458.html#abf63ac05499b814d0d8f560803f57be4", null ],
-    [ "GetItemGuidByPetitionId", "d6/d6e/a10458.html#a7607d634c90090598138e4f6b827fec2", null ],
-    [ "GetPetition", "d6/d6e/a10458.html#a6532eb8de34893d4f63ea68180ca9038", null ],
-    [ "GetPetitionById", "d6/d6e/a10458.html#a3190c60fabad07a217b5e34b259f2057", null ],
-    [ "GetPetitionByOwnerWithType", "d6/d6e/a10458.html#a70ae6e41835983678bb9d37d2b766088", null ],
-    [ "GetPetitionIdByItemGuid", "d6/d6e/a10458.html#a8720d872b3d24c6d059555d0eaec6a24", null ],
-    [ "GetPetitionStore", "d6/d6e/a10458.html#ab23b6ae6303e2dabcde1981860da8873", null ],
-    [ "GetSignature", "d6/d6e/a10458.html#a90db48e86ad855a4f3c33347dc2991e6", null ],
-    [ "GetSignatureStore", "d6/d6e/a10458.html#af5f18d9200b61cd5e84652c51206f1d7", null ],
-    [ "instance", "d6/d6e/a10458.html#a3bda5778fbc38fefedd463b0b12893cd", null ],
-    [ "LoadPetitions", "d6/d6e/a10458.html#aa612824469e47955f3a231e4abd9bc84", null ],
-    [ "LoadSignatures", "d6/d6e/a10458.html#ad3fa9f06bda57a2ff4bac0f1650f5257", null ],
-    [ "RemovePetition", "d6/d6e/a10458.html#ad6ad64ff57918817def0f948a3c03717", null ],
-    [ "RemovePetitionByOwnerAndType", "d6/d6e/a10458.html#ab4284c466ee19dfb7d5214c598289441", null ],
-    [ "RemoveSignaturesByPlayer", "d6/d6e/a10458.html#a289f09d808c81b5ada9b26e98260f5be", null ],
-    [ "RemoveSignaturesByPlayerAndType", "d6/d6e/a10458.html#a8d30eb7c2d048ada34765193ee823a96", null ],
-    [ "_nextPetitionId", "d6/d6e/a10458.html#a9fd355d25fbfb54c6e48334280adafae", null ],
-    [ "PetitionIdToItemGuid", "d6/d6e/a10458.html#a09d887738b93816dc68df39f3294b063", null ],
-    [ "PetitionStore", "d6/d6e/a10458.html#a49bb11e33b39fa77f5394130e8405537", null ],
-    [ "SignatureStore", "d6/d6e/a10458.html#a784ff7990f17d4cfdc4f24b6f863e88e", null ]
+    [ "WaypointPath", "d6/d6e/a10458.html#a69a3981fa5b1672519124870513458b3", null ],
+    [ "WaypointPath", "d6/d6e/a10458.html#a65afbfc096b99361fcab26adad9cab7d", null ],
+    [ "Id", "d6/d6e/a10458.html#a553acc50411bbeabedbec3c9431212ad", null ],
+    [ "Nodes", "d6/d6e/a10458.html#a6326c73791542489c7f4d098b05887fb", null ]
 ];

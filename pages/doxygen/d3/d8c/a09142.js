@@ -1,10 +1,18 @@
 var a09142 =
 [
-    [ "mapId", "d3/d8c/a09142.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
-    [ "name", "d3/d8c/a09142.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
-    [ "orientation", "d3/d8c/a09142.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
-    [ "position_x", "d3/d8c/a09142.html#a65e7390a1dbb615a155c4f163b830e11", null ],
-    [ "position_y", "d3/d8c/a09142.html#a3d3f398cd23566dce721fefeae7af33c", null ],
-    [ "position_z", "d3/d8c/a09142.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
-    [ "wnameLow", "d3/d8c/a09142.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
+    [ "GameEventData", "d3/d8c/a09142.html#ab7963b01d9e138d79f06274ea57b9590", null ],
+    [ "isValid", "d3/d8c/a09142.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
+    [ "Announce", "d3/d8c/a09142.html#ae055378db69064ad4338ec2ddf6c7c75", null ],
+    [ "Conditions", "d3/d8c/a09142.html#a0915a0321c4c26bfb61824587a309cde", null ],
+    [ "Description", "d3/d8c/a09142.html#a5ab9afbc209e319839fd68de0cbc2207", null ],
+    [ "End", "d3/d8c/a09142.html#a4bae1cf480ee64f190e2f09640e8a8cd", null ],
+    [ "EventId", "d3/d8c/a09142.html#a6fe6513946fc98803fb816d2aabd8dcc", null ],
+    [ "HolidayId", "d3/d8c/a09142.html#a9c9979bdece8534af216b693a2a58a80", null ],
+    [ "HolidayStage", "d3/d8c/a09142.html#a44c52795eed59abdff72cdebdccc50ca", null ],
+    [ "Length", "d3/d8c/a09142.html#a72bff4c3a62db350460993d804a461ea", null ],
+    [ "NextStart", "d3/d8c/a09142.html#aafe5f4d5b9122f26442266c651ebd77e", null ],
+    [ "Occurence", "d3/d8c/a09142.html#ab4e80a88f30560a3af0c6381e974687d", null ],
+    [ "PrerequisiteEvents", "d3/d8c/a09142.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0", null ],
+    [ "Start", "d3/d8c/a09142.html#a3be91b7e00641ca6cb853104190845dc", null ],
+    [ "State", "d3/d8c/a09142.html#a6288a7c28aba2927c3e91f5d2f517a60", null ]
 ];

@@ -1,9 +1,7 @@
 var a21618 =
 [
-    [ "npc_mrfloppyAI", "dd/dbe/a21618.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
-    [ "EnterEvadeMode", "dd/dbe/a21618.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
-    [ "JustEngagedWith", "dd/dbe/a21618.html#a490bf07de00cc5c59b5f0024317d8125", null ],
-    [ "MoveInLineOfSight", "dd/dbe/a21618.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
-    [ "Reset", "dd/dbe/a21618.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
-    [ "UpdateAI", "dd/dbe/a21618.html#afad6db1ccd903fd18192f832a10a32f4", null ]
+    [ "HandleAfterEffectApply", "dd/dbe/a21618.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "dd/dbe/a21618.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "dd/dbe/a21618.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "dd/dbe/a21618.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

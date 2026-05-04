@@ -1,12 +1,32 @@
 var a07382 =
 [
-    [ "Type", "d6/de4/a07382.html#abfb75b18c4a43f1818cd78212c668109", [
-      [ "LIST", "d6/de4/a07382.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
-      [ "OWNER_LIST", "d6/de4/a07382.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
-      [ "BIDDER_LIST", "d6/de4/a07382.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
-    ] ],
-    [ "AuctionSearcherRequest", "d6/de4/a07382.html#afadcce053f82ae124263a501671f35e3", null ],
-    [ "~AuctionSearcherRequest", "d6/de4/a07382.html#a8122177f0ca9b5c2393e87998a15e950", null ],
-    [ "listFaction", "d6/de4/a07382.html#a1847f75715da2de1098d0f767163f62d", null ],
-    [ "requestType", "d6/de4/a07382.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
+    [ "ItemMap", "d6/de4/a07382.html#a22f05742b6db3f4443764d1bed08ea39", null ],
+    [ "AuctionHouseMgr", "d6/de4/a07382.html#a1ef76f9648207fc5fcfbfb1f8f82a66a", null ],
+    [ "~AuctionHouseMgr", "d6/de4/a07382.html#a9713bb223371ea0079beb46a5071f835", null ],
+    [ "AddAItem", "d6/de4/a07382.html#a126138c1ec4c43653b83feb4e68b44cf", null ],
+    [ "GetAItem", "d6/de4/a07382.html#afbc20e682c8fcee1db078fa93f6cd075", null ],
+    [ "GetAuctionDeposit", "d6/de4/a07382.html#a387a388dc4c90a86e1d2ea1d938239ff", null ],
+    [ "GetAuctionHouseEntryFromFactionTemplate", "d6/de4/a07382.html#a05b2d67660e0942a5d2f083e432472ca", null ],
+    [ "GetAuctionHouseEntryFromHouse", "d6/de4/a07382.html#ae61879cbfd46c3eb84b72bd6059240c1", null ],
+    [ "GetAuctionHouseFactionFromHouseId", "d6/de4/a07382.html#a35d326eba2fca31560be4766aad8094e", null ],
+    [ "GetAuctionHouseSearcher", "d6/de4/a07382.html#addaa65ce81fb5547ddc8a7e8cc78fe5b", null ],
+    [ "GetAuctionsMap", "d6/de4/a07382.html#a6b28b77dfc2819bf53147ca916de5184", null ],
+    [ "GetAuctionsMapByHouseId", "d6/de4/a07382.html#a143886cbcb793eac67b01cfbfb67aefa", null ],
+    [ "instance", "d6/de4/a07382.html#aeef11ff6ea7ca5986429329c76041b96", null ],
+    [ "LoadAuctionItems", "d6/de4/a07382.html#aafb5ac00b94fb9e16160898cf516be33", null ],
+    [ "LoadAuctions", "d6/de4/a07382.html#a7076326c9a902d8191a11032608c7eaa", null ],
+    [ "RemoveAItem", "d6/de4/a07382.html#aa62ae54f27e5bba27cdf9eca01aa7399", null ],
+    [ "SendAuctionCancelledToBidderMail", "d6/de4/a07382.html#a2c5c02f708a8f881c630f607bcc88cc0", null ],
+    [ "SendAuctionExpiredMail", "d6/de4/a07382.html#a47ccec580859ada01aed6884b1724c89", null ],
+    [ "SendAuctionOutbiddedMail", "d6/de4/a07382.html#a669389f13941410f8d3eaf9956559e54", null ],
+    [ "SendAuctionSalePendingMail", "d6/de4/a07382.html#ae722387d9731abd2f09f102fe308847e", null ],
+    [ "SendAuctionSuccessfulMail", "d6/de4/a07382.html#af286935d4668b00678e9851471a2b90c", null ],
+    [ "SendAuctionWonMail", "d6/de4/a07382.html#aedd4944743f8a1734b99d32eb847ea6a", null ],
+    [ "Update", "d6/de4/a07382.html#a26e1079bbb36a9593d5e8d31f7a51f7f", null ],
+    [ "_allianceAuctions", "d6/de4/a07382.html#a33a7d153e940d5816be7a8f40abf5053", null ],
+    [ "_auctionHouseSearcher", "d6/de4/a07382.html#ae0097712dd9b128139ad1ec6186adf21", null ],
+    [ "_hordeAuctions", "d6/de4/a07382.html#a2ade2e2add677f649bd2680955f64907", null ],
+    [ "_mAitems", "d6/de4/a07382.html#a6666f48b3add141878209f70379dd176", null ],
+    [ "_neutralAuctions", "d6/de4/a07382.html#a7c0a9061acf4edc412d300580bb1acb1", null ],
+    [ "_updateIntervalTimer", "d6/de4/a07382.html#a7a1bd61cac40d5dfa8a5fe80990be1a4", null ]
 ];

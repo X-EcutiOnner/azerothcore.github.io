@@ -1,10 +1,9 @@
 var a19686 =
 [
-    [ "npc_molten_golem", "d3/d1f/a19686.html#a38350948396b7df97837780531f79515", null ],
-    [ "DamageTaken", "d3/d1f/a19686.html#aa3521246b0c2bed18b5466879ec1d107", null ],
-    [ "DoAction", "d3/d1f/a19686.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
-    [ "Reset", "d3/d1f/a19686.html#a24e23d0959bcda5be05786381a35ac77", null ],
-    [ "UpdateAI", "d3/d1f/a19686.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
-    [ "events", "d3/d1f/a19686.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
-    [ "m_pInstance", "d3/d1f/a19686.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
+    [ "HandleOnEffectApply", "d3/d1f/a19686.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d3/d1f/a19686.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d3/d1f/a19686.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d3/d1f/a19686.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d3/d1f/a19686.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d3/d1f/a19686.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

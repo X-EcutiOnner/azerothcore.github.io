@@ -1,20 +1,27 @@
 var a00728 =
 [
-    [ "WorldScript", "dd/df3/a10745.html", "dd/df3/a10745" ],
-    [ "WorldHook", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493", [
-      [ "WORLDHOOK_ON_OPEN_STATE_CHANGE", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c", null ],
-      [ "WORLDHOOK_ON_AFTER_CONFIG_LOAD", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7", null ],
-      [ "WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213", null ],
-      [ "WORLDHOOK_ON_BEFORE_CONFIG_LOAD", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901", null ],
-      [ "WORLDHOOK_ON_MOTD_CHANGE", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN_INITIATE", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN_CANCEL", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6", null ],
-      [ "WORLDHOOK_ON_UPDATE", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca", null ],
-      [ "WORLDHOOK_ON_STARTUP", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176", null ],
-      [ "WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91", null ],
-      [ "WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e", null ],
-      [ "WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427", null ],
-      [ "WORLDHOOK_END", "df/d3b/a00728.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800", null ]
+    [ "UnitScript", "d1/d5e/a10754.html", "d1/d5e/a10754" ],
+    [ "UnitHook", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26", [
+      [ "UNITHOOK_ON_HEAL", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26afb576f10646cffe0868efddf3e7aa256", null ],
+      [ "UNITHOOK_ON_DAMAGE", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a62c0eeb1f01d869aab444cfe76e2116b", null ],
+      [ "UNITHOOK_MODIFY_PERIODIC_DAMAGE_AURAS_TICK", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a022b3554d4b0bded731bb10590f7abde", null ],
+      [ "UNITHOOK_MODIFY_MELEE_DAMAGE", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a740266abae12f6909df18d7f112b8bca", null ],
+      [ "UNITHOOK_MODIFY_SPELL_DAMAGE_TAKEN", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a9d3c4b797fc29f1adc4751d2fc6f507e", null ],
+      [ "UNITHOOK_MODIFY_HEAL_RECEIVED", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a46fbfaf61c3d0c65a02d8450baaae5cd", null ],
+      [ "UNITHOOK_ON_BEFORE_ROLL_MELEE_OUTCOME_AGAINST", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a5d1637c534db2ba75c473d0b4c225f49", null ],
+      [ "UNITHOOK_ON_AURA_APPLY", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26ac928edfab8c8b1fc13c8f8126f5440ae", null ],
+      [ "UNITHOOK_ON_AURA_REMOVE", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26aa3501eebed0af3d2470808a30f9c1a5e", null ],
+      [ "UNITHOOK_IF_NORMAL_REACTION", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26acf1161bacf692693081683ef22f09c5c", null ],
+      [ "UNITHOOK_CAN_SET_PHASE_MASK", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a1a63709d3c29f7cbdd99a4307bf8ed93", null ],
+      [ "UNITHOOK_IS_CUSTOM_BUILD_VALUES_UPDATE", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26ac14c60774f62f84baef5839831e875c7", null ],
+      [ "UNITHOOK_SHOULD_TRACK_VALUES_UPDATE_POS_BY_INDEX", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26ab6257ae823fecbde4bcb0c9c1cdf4762", null ],
+      [ "UNITHOOK_ON_PATCH_VALUES_UPDATE", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a4ed2a82b73990b4ba2e1d0c317df5d82", null ],
+      [ "UNITHOOK_ON_UNIT_UPDATE", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a2bc86ad3742f6fbc38e6030215587e6f", null ],
+      [ "UNITHOOK_ON_DISPLAYID_CHANGE", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a1f0200b57821e6e6bad8ea268ff4a6d1", null ],
+      [ "UNITHOOK_ON_UNIT_ENTER_EVADE_MODE", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a3cc39d8a6535a3347ce91048c9c7f27e", null ],
+      [ "UNITHOOK_ON_UNIT_ENTER_COMBAT", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a0b91b88b22f4354b14b1864afb187957", null ],
+      [ "UNITHOOK_ON_UNIT_DEATH", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26aa21248825ee1e2f7e9f3eac05561ab57", null ],
+      [ "UNITHOOK_ON_UNIT_SET_SHAPESHIFT_FORM", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26a6ade1eeb61b044e91d50f1f91c14bcd6", null ],
+      [ "UNITHOOK_END", "df/d3b/a00728.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352", null ]
     ] ]
 ];

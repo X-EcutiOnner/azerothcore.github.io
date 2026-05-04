@@ -1,9 +1,13 @@
 var a09086 =
 [
-    [ "VehicleAccessory", "d7/d5c/a09086.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
-    [ "AccessoryEntry", "d7/d5c/a09086.html#a6e3cd6b20680974235c146d34b16295a", null ],
-    [ "IsMinion", "d7/d5c/a09086.html#ace3fd27311370e4db4103f2c3ac70410", null ],
-    [ "SeatId", "d7/d5c/a09086.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
-    [ "SummonedType", "d7/d5c/a09086.html#afc843c62c580c860471b0e49f5901363", null ],
-    [ "SummonTime", "d7/d5c/a09086.html#a13a024b3ceacf38ce4907b079d732420", null ]
+    [ "MMapTargetData", "d7/d5c/a09086.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
+    [ "MMapTargetData", "d7/d5c/a09086.html#a8312ea3187617e78b28aab842a8284cc", null ],
+    [ "MMapTargetData", "d7/d5c/a09086.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
+    [ "MMapTargetData", "d7/d5c/a09086.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
+    [ "operator=", "d7/d5c/a09086.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
+    [ "operator=", "d7/d5c/a09086.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
+    [ "PosChanged", "d7/d5c/a09086.html#ade55876b7781b47a72dac9fea1f2e420", null ],
+    [ "_endTime", "d7/d5c/a09086.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
+    [ "_posOwner", "d7/d5c/a09086.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
+    [ "_posTarget", "d7/d5c/a09086.html#a7f089d873690e8ea549f6345b6598fc4", null ]
 ];

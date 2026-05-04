@@ -1,5 +1,6 @@
 var a15378 =
 [
-    [ "boss_kri", "d4/ddf/a15378.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
-    [ "JustEngagedWith", "d4/ddf/a15378.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
+    [ "HandleDamageCalc", "d4/ddf/a15378.html#a03eb92eff300872cd5fca452a99375ab", null ],
+    [ "PrepareSpellScript", "d4/ddf/a15378.html#ac07421b62bb6044dad89431839a70bd8", null ],
+    [ "Register", "d4/ddf/a15378.html#a70cbf764ab475e2358fa6630798cab9d", null ]
 ];

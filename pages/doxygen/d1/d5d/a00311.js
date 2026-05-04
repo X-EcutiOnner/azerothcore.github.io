@@ -1,10 +1,7 @@
 var a00311 =
 [
-    [ "SavedAddonsList", "d1/d5d/a00311.html#afa468163a23ed58507a89e5724c06eac", null ],
-    [ "GetAddonInfo", "d1/d5d/a00311.html#a65cb6a88902972060e44c57d7d9ec738", null ],
-    [ "GetBannedAddons", "d1/d5d/a00311.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "d1/d5d/a00311.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "d1/d5d/a00311.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
-    [ "m_bannedAddons", "d1/d5d/a00311.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
-    [ "m_knownAddons", "d1/d5d/a00311.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    [ "UpdateTime", "df/dc0/a11990.html", "df/dc0/a11990" ],
+    [ "WorldUpdateTime", "dd/d2f/a11994.html", "dd/d2f/a11994" ],
+    [ "AVG_DIFF_COUNT", "d1/d5d/a00311.html#ac09527fd6979f77130f2ef6be46850eb", null ],
+    [ "sWorldUpdateTime", "d1/d5d/a00311.html#a911ff49ac052e337a0927c080aec20b2", null ]
 ];

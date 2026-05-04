@@ -1,6 +1,6 @@
 var a22814 =
 [
-    [ "LeechingThrowSelector", "de/dad/a22814.html#a4308c7be06e2e70d3a269b6dc78420cb", null ],
-    [ "operator()", "de/dad/a22814.html#a76c7746a9b0aee52201881c4d9572bde", null ],
-    [ "_source", "de/dad/a22814.html#a22a123333a8fbd50ccd4c37afe28d2f0", null ]
+    [ "HandleScriptEffect", "de/dad/a22814.html#a766edc5924124c869b04ec82cd2bc693", null ],
+    [ "PrepareSpellScript", "de/dad/a22814.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
+    [ "Register", "de/dad/a22814.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
 ];

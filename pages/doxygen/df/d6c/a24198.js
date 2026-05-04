@@ -1,7 +1,7 @@
 var a24198 =
 [
-    [ "CheckProc", "df/d6c/a24198.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
-    [ "HandleProc", "df/d6c/a24198.html#a8ab07569658cf2fa02193691bcab14ac", null ],
-    [ "PrepareAuraScript", "df/d6c/a24198.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
-    [ "Register", "df/d6c/a24198.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
+    [ "CorpseExplosionCheck", "df/d6c/a24198.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "df/d6c/a24198.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "df/d6c/a24198.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "df/d6c/a24198.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

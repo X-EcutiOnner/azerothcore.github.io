@@ -1,7 +1,6 @@
 var a16378 =
 [
-    [ "HandleDummy", "d6/d9f/a16378.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d6/d9f/a16378.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d6/d9f/a16378.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d6/d9f/a16378.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "boss_halionAI", "de/d0c/a16382.html", "de/d0c/a16382" ],
+    [ "boss_halion", "d6/d9f/a16378.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
+    [ "GetAI", "d6/d9f/a16378.html#a142314efb4f45ec146ab0225271d29b1", null ]
 ];

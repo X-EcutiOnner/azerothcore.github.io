@@ -1,16 +1,11 @@
 var a23878 =
 [
-    [ "npc_dragonmaw_peonAI", "d6/d93/a23878.html#a6f1255fead5357001ec85fdaa6980249", null ],
-    [ "CreditPlayer", "d6/d93/a23878.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
-    [ "JustEngagedWith", "d6/d93/a23878.html#abd5b37793aa2fb150c808b7dc7270763", null ],
-    [ "MovementInform", "d6/d93/a23878.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
-    [ "Reset", "d6/d93/a23878.html#a9d876ec76b51f743c71e67749c21d939", null ],
-    [ "SpellHit", "d6/d93/a23878.html#abe5162608ba0acd7360a630562ff5935", null ],
-    [ "UpdateAI", "d6/d93/a23878.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
-    [ "events", "d6/d93/a23878.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
-    [ "PlayerGUID", "d6/d93/a23878.html#ad6838d98e34a32cbed42c77cdf096070", null ],
-    [ "Tapped", "d6/d93/a23878.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
-    [ "x", "d6/d93/a23878.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
-    [ "y", "d6/d93/a23878.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
-    [ "z", "d6/d93/a23878.html#a7722420716c030b5abe7b760199df14d", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d6/d93/a23878.html#af24a8d5ead256d158c86379e032aa889", null ],
+    [ "Reset", "d6/d93/a23878.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
+    [ "SetData", "d6/d93/a23878.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
+    [ "SpellHit", "d6/d93/a23878.html#a14523a24042d23efbafc7924f394dd04", null ],
+    [ "UpdateAI", "d6/d93/a23878.html#ae5cd38aa2a9cc1727141298323639660", null ],
+    [ "resetTimer", "d6/d93/a23878.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
+    [ "tapped", "d6/d93/a23878.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
+    [ "tuberGUID", "d6/d93/a23878.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
 ];

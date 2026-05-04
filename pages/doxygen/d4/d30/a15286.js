@@ -1,14 +1,14 @@
 var a15286 =
 [
-    [ "boss_buru", "d4/d30/a15286.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
-    [ "ChaseNewVictim", "d4/d30/a15286.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
-    [ "DamageTaken", "d4/d30/a15286.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
-    [ "EnterEvadeMode", "d4/d30/a15286.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
-    [ "JustDied", "d4/d30/a15286.html#a6d8f3265dca889bc49e747471da8597f", null ],
-    [ "JustEngagedWith", "d4/d30/a15286.html#a61eeeb3eb1684943e94367a9318b3035", null ],
-    [ "KilledUnit", "d4/d30/a15286.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
-    [ "ManipulateEggs", "d4/d30/a15286.html#a4f8a92eab729c975443579560edb03a3", null ],
-    [ "SpellHit", "d4/d30/a15286.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
-    [ "UpdateAI", "d4/d30/a15286.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
-    [ "_phase", "d4/d30/a15286.html#aa395967af50f2a422bf1e81a087efc43", null ]
+    [ "boss_ayamiss", "d4/d30/a15286.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "d4/d30/a15286.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "d4/d30/a15286.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "d4/d30/a15286.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "d4/d30/a15286.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "d4/d30/a15286.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "d4/d30/a15286.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "d4/d30/a15286.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "d4/d30/a15286.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "d4/d30/a15286.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "d4/d30/a15286.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

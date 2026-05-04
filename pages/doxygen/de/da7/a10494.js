@@ -1,4 +1,5 @@
 var a10494 =
 [
-    [ "RewardText", "de/da7/a10494.html#afa9f5200ef634323d719794e1d1aa4d2", null ]
+    [ "petitionGuid", "de/da7/a10494.html#adafc1020d722bd3885429041ce9a292c", null ],
+    [ "signatureMap", "de/da7/a10494.html#a70bd865a5b11ffc0ceed08b683548b42", null ]
 ];

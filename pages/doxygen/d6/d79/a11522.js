@@ -1,6 +1,5 @@
 var a11522 =
 [
-    [ "WorldSession", "d6/d79/a11522.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "d6/d79/a11522.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "d6/d79/a11522.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "SocketIPBytes", "d6/d79/a11522.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
+    [ "SocketPort", "d6/d79/a11522.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
 ];

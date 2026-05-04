@@ -1,7 +1,9 @@
 var a26634 =
 [
-    [ "CheckProc", "d1/dd7/a26634.html#a068e3d66059d0d34b39ef43bc259eb70", null ],
-    [ "HandleProc", "d1/dd7/a26634.html#ac3da721ff9df529738eeb33e95fb0dac", null ],
-    [ "PrepareAuraScript", "d1/dd7/a26634.html#ab346f33f7d467f89c9bc9ecc569a8c8c", null ],
-    [ "Register", "d1/dd7/a26634.html#afa041c16f5d6c80aa74402fbdbea1701", null ]
+    [ "HandleAfterCast", "d1/dd7/a26634.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "d1/dd7/a26634.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "d1/dd7/a26634.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "d1/dd7/a26634.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "d1/dd7/a26634.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "d1/dd7/a26634.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

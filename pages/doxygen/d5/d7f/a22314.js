@@ -1,14 +1,11 @@
 var a22314 =
 [
-    [ "boss_nexusprince_shaffar", "d5/d7f/a22314.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "d5/d7f/a22314.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "d5/d7f/a22314.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "d5/d7f/a22314.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "d5/d7f/a22314.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "d5/d7f/a22314.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "d5/d7f/a22314.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "d5/d7f/a22314.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "d5/d7f/a22314.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "d5/d7f/a22314.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "d5/d7f/a22314.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "boss_blackheart_the_inciter", "d5/d7f/a22314.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "d5/d7f/a22314.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "d5/d7f/a22314.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "d5/d7f/a22314.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "d5/d7f/a22314.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "d5/d7f/a22314.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "d5/d7f/a22314.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "d5/d7f/a22314.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

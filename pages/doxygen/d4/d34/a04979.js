@@ -1,4 +1,5 @@
 var a04979 =
 [
-    [ "Acore::Encoding::Base64", "df/d1e/a05593.html", "df/d1e/a05593" ]
+    [ "SessionKey", "d4/d34/a04979.html#a7cbcb71452529a2addaab3b112dba4d7", null ],
+    [ "SESSION_KEY_LENGTH", "d4/d34/a04979.html#accf22e06a217bb405f0ee6f240d2e263", null ]
 ];

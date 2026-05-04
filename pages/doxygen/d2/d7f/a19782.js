@@ -1,6 +1,6 @@
 var a19782 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "d7/df9/a19786.html", "d7/df9/a19786" ],
-    [ "instance_halls_of_stone", "d2/d7f/a19782.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "d2/d7f/a19782.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "d7/df9/a19786.html", "d7/df9/a19786" ],
+    [ "boss_sjonnir_iron_sludge", "d2/d7f/a19782.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
+    [ "GetAI", "d2/d7f/a19782.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
 ];

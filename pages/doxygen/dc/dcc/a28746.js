@@ -1,6 +1,11 @@
 var a28746 =
 [
-    [ "ChannelID", "dc/dcc/a28746.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "dc/dcc/a28746.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "dc/dcc/a28746.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "Displayid", "dc/dcc/a28746.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
+    [ "filename", "dc/dcc/a28746.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
+    [ "maxX", "dc/dcc/a28746.html#a10563ae885d34e516825a18db95b40e7", null ],
+    [ "maxY", "dc/dcc/a28746.html#a711286df6d2bd74246dee2170052c17a", null ],
+    [ "maxZ", "dc/dcc/a28746.html#acb74e32790b2c60cca5faef1caa225e4", null ],
+    [ "minX", "dc/dcc/a28746.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
+    [ "minY", "dc/dcc/a28746.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
+    [ "minZ", "dc/dcc/a28746.html#ac88aefc2530212b9dff10e018c4e9305", null ]
 ];

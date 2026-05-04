@@ -1,5 +1,5 @@
 var a28330 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "de/d08/a28330.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "de/d08/a28330.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "go_transport_the_purple_princess", "de/d08/a28330.html#ab0c79197964857d578036693a2c18e8a", null ],
+    [ "EventInform", "de/d08/a28330.html#ac5b73f1bea180797169138f8e9228783", null ]
 ];

@@ -1,8 +1,9 @@
 var a26294 =
 [
-    [ "CheckProc", "d6/d8b/a26294.html#a180edf3dd9f3abd42ae6cd43353451fe", null ],
-    [ "HandleProc", "d6/d8b/a26294.html#a9d6daf153d86cf93e35c43d05dda2459", null ],
-    [ "PrepareAuraScript", "d6/d8b/a26294.html#a874672016641a737a197588ea980c2c3", null ],
-    [ "Register", "d6/d8b/a26294.html#a3578470f10bb4c10868d02d62cafceac", null ],
-    [ "Validate", "d6/d8b/a26294.html#a4f496a310941e40c9c841772be3e6414", null ]
+    [ "Load", "d6/d8b/a26294.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "d6/d8b/a26294.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "d6/d8b/a26294.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "d6/d8b/a26294.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "d6/d8b/a26294.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "d6/d8b/a26294.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

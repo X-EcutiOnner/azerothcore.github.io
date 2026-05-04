@@ -1,7 +1,6 @@
 var a12682 =
 [
-    [ "HandlePeriodic", "d5/d22/a12682.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "d5/d22/a12682.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "d5/d22/a12682.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "d5/d22/a12682.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "go_chromaggus_lever", "d5/d22/a12682.html#aa592f93028e323ed10102121d2d6b20e", null ],
+    [ "GossipHello", "d5/d22/a12682.html#abfb91ccfeb90152dc252f0110fb51715", null ],
+    [ "_instance", "d5/d22/a12682.html#a481373f4c49d76d3d0a41efcf2821f8f", null ]
 ];

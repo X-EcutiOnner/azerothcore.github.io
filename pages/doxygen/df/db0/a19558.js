@@ -1,6 +1,8 @@
 var a19558 =
 [
-    [ "boss_uromAI", "d6/db9/a19562.html", "d6/db9/a19562" ],
-    [ "boss_urom", "df/db0/a19558.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
-    [ "GetAI", "df/db0/a19558.html#ac381b851f3cc746fb323ff238892c537", null ]
+    [ "npc_crystal_spike", "df/db0/a19558.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "df/db0/a19558.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "df/db0/a19558.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "df/db0/a19558.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "df/db0/a19558.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

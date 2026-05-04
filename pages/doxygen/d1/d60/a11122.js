@@ -1,5 +1,6 @@
 var a11122 =
 [
-    [ "ResetInstances", "d1/d60/a11122.html#a64d9627a48ae2bfcda68b7d04273fe18", null ],
-    [ "Read", "d1/d60/a11122.html#a7f190f2bb133fa18e46830f68695b050", null ]
+    [ "GuildSetGuildMaster", "d1/d60/a11122.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "d1/d60/a11122.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "d1/d60/a11122.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

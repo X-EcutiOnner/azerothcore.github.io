@@ -1,7 +1,8 @@
 var a28918 =
 [
-    [ "AllocationPct", "d7/d2b/a28918.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "d7/d2b/a28918.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "d7/d2b/a28918.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "d7/d2b/a28918.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "ClassMask", "d7/d2b/a28918.html#a563ba1618ffefa5470696e37f65c70d4", null ],
+    [ "Flags", "d7/d2b/a28918.html#af89c32a22f018557fe016e0784a82384", null ],
+    [ "RaceMask", "d7/d2b/a28918.html#acff47bf5c075d669f95b0d229674f9bc", null ],
+    [ "SkillID", "d7/d2b/a28918.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
+    [ "SkillTierID", "d7/d2b/a28918.html#ab6153043461b71336e12b00957499075", null ]
 ];

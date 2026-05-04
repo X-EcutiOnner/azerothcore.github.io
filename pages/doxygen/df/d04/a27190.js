@@ -1,7 +1,6 @@
 var a27190 =
 [
-    [ "HandleProc", "df/d04/a27190.html#a46726e3e05e386892ea86d74d161e8d0", null ],
-    [ "PrepareAuraScript", "df/d04/a27190.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
-    [ "Register", "df/d04/a27190.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
-    [ "Validate", "df/d04/a27190.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
+    [ "HandleProc", "df/d04/a27190.html#a933975b17f340d9f458dc95b77aa43ac", null ],
+    [ "PrepareAuraScript", "df/d04/a27190.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
+    [ "Register", "df/d04/a27190.html#a54dd9a2a6646282897cabec00f092525", null ]
 ];

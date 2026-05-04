@@ -1,6 +1,8 @@
 var a16630 =
 [
-    [ "npc_nerubian_burrowerAI", "d3/d8c/a16634.html", "d3/d8c/a16634" ],
-    [ "npc_nerubian_burrower", "d4/d8f/a16630.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "d4/d8f/a16630.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "npc_announcer_toc5AI", "d4/d8f/a16630.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "d4/d8f/a16630.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "d4/d8f/a16630.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "d4/d8f/a16630.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "d4/d8f/a16630.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

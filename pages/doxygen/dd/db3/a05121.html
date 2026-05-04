@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BIH::StackNode Struct Reference</title>
+<title>AzerothCore: anonymous_namespace{BinarySpellDetectionTest.cpp} Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,70 +105,66 @@ $(document).ready(function(){initNavTree('dd/db3/a05121.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
-<a href="../../d5/d87/a05118.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BIH::StackNode Struct Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">anonymous_namespace{BinarySpellDetectionTest.cpp} Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">BoundingIntervalHierarchy.h</a>&quot;</code></p>
+<p>Tests for the binary spell detection condition used in <a class="el" href="../../d6/d25/a11806.html#a57a52b9d7490bc3e73d5906c6c7780a0">SpellMgr::LoadSpellInfoCustomAttributes</a>.  
+<a href="../../dd/db3/a05121.html#details">More...</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a5b76f0ea514d55ed9ba8ea6c4bdf7491"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db3/a05121.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491">node</a></td></tr>
-<tr class="separator:a5b76f0ea514d55ed9ba8ea6c4bdf7491"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a938ca2ace2aa498abdda93ee824b6f09"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db3/a05121.html#a938ca2ace2aa498abdda93ee824b6f09">tnear</a></td></tr>
-<tr class="separator:a938ca2ace2aa498abdda93ee824b6f09"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad53b746617dd5a46930dae493d7488d9"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db3/a05121.html#ad53b746617dd5a46930dae493d7488d9">tfar</a></td></tr>
-<tr class="separator:ad53b746617dd5a46930dae493d7488d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ab2154405a408271aa60863454b0303fe"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db3/a05121.html#ab2154405a408271aa60863454b0303fe">ShouldMarkBinary</a> (<a class="el" href="../../d7/d7c/a11750.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex)</td></tr>
+<tr class="separator:ab2154405a408271aa60863454b0303fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a5b76f0ea514d55ed9ba8ea6c4bdf7491" name="a5b76f0ea514d55ed9ba8ea6c4bdf7491"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5b76f0ea514d55ed9ba8ea6c4bdf7491">&#9670;&#160;</a></span>node</h2>
+<div class="textblock"><p >Tests for the binary spell detection condition used in <a class="el" href="../../d6/d25/a11806.html#a57a52b9d7490bc3e73d5906c6c7780a0">SpellMgr::LoadSpellInfoCustomAttributes</a>. </p>
+<p >The condition determines whether a non-damage aura effect should mark a spell as binary (fully resistable via spell resistance).</p>
+<p >Correct logic: CalcValue() || ((INTERRUPT_CAST || DONT_BREAK_STEALTH) &amp;&amp; !NO_IMMUNITIES)</p>
+<p >A spell should be marked binary if:</p><ul>
+<li>Its effect has a non-zero CalcValue (e.g. Fear, Polymorph, Frost Nova), OR</li>
+<li>It is an interrupt/stealth spell without the NO_IMMUNITIES attribute </li>
+</ul>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="ab2154405a408271aa60863454b0303fe" name="ab2154405a408271aa60863454b0303fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab2154405a408271aa60863454b0303fe">&#9670;&#160;</a></span>ShouldMarkBinary()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BIH::StackNode::node</td>
+          <td class="memname">bool anonymous_namespace{BinarySpellDetectionTest.cpp}::ShouldMarkBinary </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d7c/a11750.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spellInfo</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00286">BIH::intersectPoint()</a>, and <a class="el" href="../../#l00123">BIH::intersectRay()</a>.</p>
-
-</div>
-</div>
-<a id="ad53b746617dd5a46930dae493d7488d9" name="ad53b746617dd5a46930dae493d7488d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad53b746617dd5a46930dae493d7488d9">&#9670;&#160;</a></span>tfar</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">float BIH::StackNode::tfar</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>effIndex</em>&#160;</td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00123">BIH::intersectRay()</a>.</p>
-
-</div>
-</div>
-<a id="a938ca2ace2aa498abdda93ee824b6f09" name="a938ca2ace2aa498abdda93ee824b6f09"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a938ca2ace2aa498abdda93ee824b6f09">&#9670;&#160;</a></span>tnear</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">float BIH::StackNode::tnear</td>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   42</span>    {</div>
+<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">return</span> spellInfo-&gt;Effects[effIndex].CalcValue() ||</div>
+<div class="line"><span class="lineno">   44</span>            ((spellInfo-&gt;Effects[effIndex].Effect == <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f">SPELL_EFFECT_INTERRUPT_CAST</a> ||</div>
+<div class="line"><span class="lineno">   45</span>              spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d4/d49/a01643.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>)) &amp;&amp;</div>
+<div class="line"><span class="lineno">   46</span>             !spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780">SPELL_ATTR0_NO_IMMUNITIES</a>));</div>
+<div class="line"><span class="lineno">   47</span>    }</div>
+<div class="ttc" id="aa01643_html_a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e"><div class="ttname"><a href="../../d4/d49/a01643.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a></div><div class="ttdeci">@ SPELL_ATTR0_CU_DONT_BREAK_STEALTH</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:183</div></div>
+<div class="ttc" id="aa04304_html_a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f"><div class="ttname"><a href="../../dd/deb/a04304.html#a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f">SPELL_EFFECT_INTERRUPT_CAST</a></div><div class="ttdeci">@ SPELL_EFFECT_INTERRUPT_CAST</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:834</div></div>
+<div class="ttc" id="aa04304_html_a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780"><div class="ttname"><a href="../../dd/deb/a04304.html#a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780">SPELL_ATTR0_NO_IMMUNITIES</a></div><div class="ttdeci">@ SPELL_ATTR0_NO_IMMUNITIES</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:399</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00417">SpellInfo::Effects</a>, <a class="el" href="../../#l00441">SpellInfo::HasAttribute()</a>, <a class="el" href="../../#l00183">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>, <a class="el" href="../../#l00399">SPELL_ATTR0_NO_IMMUNITIES</a>, and <a class="el" href="../../#l00834">SPELL_EFFECT_INTERRUPT_CAST</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00123">BIH::intersectRay()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00057">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -177,8 +173,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/dbd/a05113.html">BIH</a></li><li class="navelem"><a class="el" href="../../dd/db3/a05121.html">StackNode</a></li>
-    <li class="footer">Generated on Mon Mar 16 2026 21:09:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/db3/a05121.html">anonymous_namespace{BinarySpellDetectionTest.cpp}</a></li>
+    <li class="footer">Generated on Mon May 4 2026 21:43:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

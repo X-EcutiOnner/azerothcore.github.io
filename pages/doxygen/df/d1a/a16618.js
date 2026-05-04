@@ -1,12 +1,6 @@
 var a16618 =
 [
-    [ "npc_swarm_scarabAI", "df/d1a/a16618.html#a0d0cefd52543044773e7df772f90fd37", null ],
-    [ "CanAIAttack", "df/d1a/a16618.html#a95a27742f4f7fa1af45964b6270a9558", null ],
-    [ "DoAction", "df/d1a/a16618.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
-    [ "JustDied", "df/d1a/a16618.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
-    [ "JustEngagedWith", "df/d1a/a16618.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
-    [ "Reset", "df/d1a/a16618.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
-    [ "UpdateAI", "df/d1a/a16618.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
-    [ "despawnTimer", "df/d1a/a16618.html#a6d35e43af695ac112b972badb665f06d", null ],
-    [ "determinationTimer", "df/d1a/a16618.html#af319dbf16bc1d3939602465f0a87d30c", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d7/d99/a16622.html", "d7/d99/a16622" ],
+    [ "instance_trial_of_the_champion", "df/d1a/a16618.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "df/d1a/a16618.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

@@ -1,7 +1,6 @@
 var a14554 =
 [
-    [ "FilterTargets", "d4/d2c/a14554.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
-    [ "HandleDummy", "d4/d2c/a14554.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
-    [ "PrepareSpellScript", "d4/d2c/a14554.html#a6ac4db072beae6ae7a700774667da613", null ],
-    [ "Register", "d4/d2c/a14554.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
+    [ "CheckItem", "d4/d2c/a14554.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
+    [ "PrepareSpellScript", "d4/d2c/a14554.html#a0fa160f1218cf838444f894716cb8aed", null ],
+    [ "Register", "d4/d2c/a14554.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
 ];

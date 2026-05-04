@@ -1,7 +1,8 @@
 var a11298 =
 [
-    [ "TrainerBuySpell", "d5/d6a/a11298.html#a8afb92fb908d5efd54bcb78269069d39", null ],
-    [ "Read", "d5/d6a/a11298.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
-    [ "SpellID", "d5/d6a/a11298.html#ae342c806c8faabae54260a26659d49ea", null ],
-    [ "TrainerGUID", "d5/d6a/a11298.html#aca1d9dc89b96415a5065a67f7083423c", null ]
+    [ "PauseMirrorTimer", "d5/d6a/a11298.html#a05ccc52cb56d38cadb27fbde2563df45", null ],
+    [ "PauseMirrorTimer", "d5/d6a/a11298.html#ad6e7a6eb3edadc235dc5bb97802381ac", null ],
+    [ "Write", "d5/d6a/a11298.html#aea61f9e668173b65eac3b9f42ddd68a1", null ],
+    [ "Paused", "d5/d6a/a11298.html#a7adf6dcd7e712792ea94bad77f8be232", null ],
+    [ "Timer", "d5/d6a/a11298.html#a4a041bf772ef3f145bde6be9f8ecdc13", null ]
 ];

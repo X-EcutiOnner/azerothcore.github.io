@@ -1,7 +1,6 @@
 var a27798 =
 [
-    [ "npc_spirit_shadeAI", "d6/df5/a27798.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d6/df5/a27798.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d6/df5/a27798.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d6/df5/a27798.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "go_heatAI", "d1/d61/a27802.html", "d1/d61/a27802" ],
+    [ "go_heat", "d6/df5/a27798.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
+    [ "GetAI", "d6/df5/a27798.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
 ];

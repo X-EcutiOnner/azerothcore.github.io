@@ -1,10 +1,16 @@
 var a21702 =
 [
-    [ "npc_Apothecary_HanesAI", "dc/deb/a21702.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "dc/deb/a21702.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "dc/deb/a21702.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "dc/deb/a21702.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "dc/deb/a21702.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "WaypointReached", "dc/deb/a21702.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "PotTimer", "dc/deb/a21702.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "npc_battle_at_valhalasAI", "dc/deb/a21702.html#a2118bb3a502d2082297631e3dab298da", null ],
+    [ "EndBattle", "dc/deb/a21702.html#afe408345e99bfc27e3abf3335c72de5d", null ],
+    [ "JustReachedHome", "dc/deb/a21702.html#ac8f8ed2571587e8af65f92d0271d786c", null ],
+    [ "JustSummoned", "dc/deb/a21702.html#ac2c766dd298bf074f20968006a361036", null ],
+    [ "PrepareSummons", "dc/deb/a21702.html#a80e97ceef22290d241fa3f5894331c08", null ],
+    [ "Reset", "dc/deb/a21702.html#a303f268cbcc0e2c731c505c721c55da6", null ],
+    [ "ResetData", "dc/deb/a21702.html#a3bc670704f0e235ae4022ba796a333b9", null ],
+    [ "StartBattle", "dc/deb/a21702.html#a01dff1aba876527951d3c83ae8b240ff", null ],
+    [ "UpdateAI", "dc/deb/a21702.html#a3294ef4eb601df5156db0ba416d3aabe", null ],
+    [ "currentQuest", "dc/deb/a21702.html#a7c8a2c0710f68d617bd7edd71632c744", null ],
+    [ "events", "dc/deb/a21702.html#a74ac913100bb6ecd904f0b2f0e590271", null ],
+    [ "playerGUID", "dc/deb/a21702.html#aac5d72cbc9f07d43dc6d9b722d0626b8", null ],
+    [ "summons", "dc/deb/a21702.html#a3e894857fd5e3f4ccc5fc40c47a8cabe", null ]
 ];

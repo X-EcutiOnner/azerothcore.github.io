@@ -1,10 +1,10 @@
 var a15830 =
 [
-    [ "CreatureId", "d7/dfd/a15830.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
-    [ "DespTimer", "d7/dfd/a15830.html#a0dfec745982b346ac1cd0af672be31fb", null ],
-    [ "SpawnCount", "d7/dfd/a15830.html#ad5347ee83eaa00fe0721279099c48433", null ],
-    [ "SpawnTimer", "d7/dfd/a15830.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
-    [ "UsedSpawnPoint", "d7/dfd/a15830.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
-    [ "WaveTextId", "d7/dfd/a15830.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
-    [ "YellTimer", "d7/dfd/a15830.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
+    [ "npc_omenAI", "d7/dfd/a15830.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
+    [ "JustDied", "d7/dfd/a15830.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
+    [ "JustEngagedWith", "d7/dfd/a15830.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
+    [ "MovementInform", "d7/dfd/a15830.html#a92e59bde1f0da2ee537a836304a3c385", null ],
+    [ "SpellHit", "d7/dfd/a15830.html#a4e3960d506fd0435de055a365906a9c9", null ],
+    [ "UpdateAI", "d7/dfd/a15830.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
+    [ "events", "d7/dfd/a15830.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
 ];

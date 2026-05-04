@@ -1,5 +1,6 @@
 var a16886 =
 [
-    [ "boss_fjolaAI", "d7/d49/a16886.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "d7/d49/a16886.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "boss_dreadscaleAI", "d3/d58/a16890.html", "d3/d58/a16890" ],
+    [ "boss_dreadscale", "d7/d49/a16886.html#ab3276e515419303358b0ee59bc92c12e", null ],
+    [ "GetAI", "d7/d49/a16886.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
 ];

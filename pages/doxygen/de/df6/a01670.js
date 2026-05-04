@@ -1,5 +1,10 @@
 var a01670 =
 [
-    [ "SmartTrigger", "de/dda/a06517.html", "de/dda/a06517" ],
-    [ "AddSC_SmartScripts", "de/df6/a01670.html#ab6012619ba76775b314475ec60f8c7d7", null ]
+    [ "AddGossipItemFor", "de/df6/a01670.html#a21e32e886a589c9093660b3c4c58f72c", null ],
+    [ "AddGossipItemFor", "de/df6/a01670.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
+    [ "AddGossipItemFor", "de/df6/a01670.html#acd7e8e52a911742a99728cf9408e23b8", null ],
+    [ "ClearGossipMenuFor", "de/df6/a01670.html#af077a82741577a63a075c7d40b3b3dc5", null ],
+    [ "CloseGossipMenuFor", "de/df6/a01670.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
+    [ "SendGossipMenuFor", "de/df6/a01670.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
+    [ "SendGossipMenuFor", "de/df6/a01670.html#ab43ecd551b53630add88fbf882236f78", null ]
 ];

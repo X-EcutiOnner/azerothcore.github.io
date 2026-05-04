@@ -1,9 +1,10 @@
 var a07638 =
 [
-    [ "CapturePointInfo", "db/d7b/a07638.html#a47ba3bbadd15909726e87dc5adc67686", null ],
-    [ "_captured", "db/d7b/a07638.html#aac26833d9951853183095b3985254e03", null ],
-    [ "_iconCapture", "db/d7b/a07638.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
-    [ "_iconNone", "db/d7b/a07638.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
-    [ "_ownerTeamId", "db/d7b/a07638.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
-    [ "_state", "db/d7b/a07638.html#a98cb154218423e295b8007c62222831c", null ]
+    [ "SelectionPool", "db/d7b/a07638.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "db/d7b/a07638.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "db/d7b/a07638.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "db/d7b/a07638.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "db/d7b/a07638.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "db/d7b/a07638.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "db/d7b/a07638.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

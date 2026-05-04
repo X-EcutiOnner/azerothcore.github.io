@@ -1,14 +1,6 @@
 var a11406 =
 [
-    [ "NameQueryResponse", "da/dab/a11406.html#a04a03faa1ab655eb87d755b603f7b427", null ],
-    [ "Write", "da/dab/a11406.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
-    [ "Class", "da/dab/a11406.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
-    [ "Declined", "da/dab/a11406.html#abe147a5c99db99148cc3b76136eccb2b", null ],
-    [ "DeclinedNames", "da/dab/a11406.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
-    [ "Guid", "da/dab/a11406.html#ae45b2723b1b5a3313566df2d353114f9", null ],
-    [ "Name", "da/dab/a11406.html#ad2d16050d9229912105c8f2136538d91", null ],
-    [ "NameUnknown", "da/dab/a11406.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
-    [ "Race", "da/dab/a11406.html#a74463c6218d56c913df7f24b7491003f", null ],
-    [ "RealmName", "da/dab/a11406.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
-    [ "Sex", "da/dab/a11406.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
+    [ "DismissCritter", "da/dab/a11406.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "da/dab/a11406.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "da/dab/a11406.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

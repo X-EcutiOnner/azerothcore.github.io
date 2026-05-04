@@ -1,6 +1,6 @@
 var a19246 =
 [
-    [ "HandleHit", "de/dcd/a19246.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
-    [ "PrepareSpellScript", "de/dcd/a19246.html#a87b57541a36d711ecbca6f485915c9ab", null ],
-    [ "Register", "de/dcd/a19246.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
+    [ "npc_gothik_triggerAI", "d0/d4e/a19250.html", "d0/d4e/a19250" ],
+    [ "npc_gothik_trigger", "de/dcd/a19246.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
+    [ "GetAI", "de/dcd/a19246.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
 ];

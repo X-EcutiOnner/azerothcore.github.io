@@ -1,4 +1,5 @@
 var a12954 =
 [
-    [ "npc_nightbane_helper_target", "df/d9f/a12954.html#a688ebb85baad72e523be0dceb70a75fc", null ]
+    [ "npc_chess_move_trigger", "df/d9f/a12954.html#a6c0c37677db45ee11ebe158893d99632", null ],
+    [ "DamageTaken", "df/d9f/a12954.html#af413c7af2254c1cc06462b2a62ac88db", null ]
 ];

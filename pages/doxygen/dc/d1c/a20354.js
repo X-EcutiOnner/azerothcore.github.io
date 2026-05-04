@@ -1,7 +1,26 @@
 var a20354 =
 [
-    [ "HandleEffectPeriodic", "dc/d1c/a20354.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
-    [ "PrepareAuraScript", "dc/d1c/a20354.html#af432e810a46e35f95bb0b3b2eaada132", null ],
-    [ "Register", "dc/d1c/a20354.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
-    [ "Validate", "dc/d1c/a20354.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
+    [ "boss_mimiron", "dc/d1c/a20354.html#acb08d1e24173014a7c443dc2eaea76ce", null ],
+    [ "AttackStart", "dc/d1c/a20354.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
+    [ "CloseDoorAndButton", "dc/d1c/a20354.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
+    [ "EnterEvadeMode", "dc/d1c/a20354.html#a9f39f9afa3f561115c4f7e630364f566", null ],
+    [ "GetData", "dc/d1c/a20354.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
+    [ "JustEngagedWith", "dc/d1c/a20354.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
+    [ "JustReachedHome", "dc/d1c/a20354.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
+    [ "MoveInLineOfSight", "dc/d1c/a20354.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
+    [ "Reset", "dc/d1c/a20354.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
+    [ "ResetGameObjects", "dc/d1c/a20354.html#ac3a10be85349fc62ef14ecd937159e61", null ],
+    [ "SetData", "dc/d1c/a20354.html#aa9578fe08ab058a64e67935d262224ac", null ],
+    [ "SpellHit", "dc/d1c/a20354.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
+    [ "UpdateAI", "dc/d1c/a20354.html#adea87e321b4c401109ab4c37e314aca2", null ],
+    [ "_achievBombBot", "dc/d1c/a20354.html#a916517ab6ec6b4bfe0bcbb445312a9a0", null ],
+    [ "_achievProximityMine", "dc/d1c/a20354.html#a1fe4524d60414c100e0489bb77396033", null ],
+    [ "_achievRocketStrike", "dc/d1c/a20354.html#a406cf4b6b01e1fbd6e995173c5cade4a", null ],
+    [ "_allowedFlameSpreadTime", "dc/d1c/a20354.html#a34e2409dc2384851746d04301b926fdb", null ],
+    [ "_berserk", "dc/d1c/a20354.html#af85af0d10226de45a42a9d3317244e7a", null ],
+    [ "_changeAllowedFlameSpreadTime", "dc/d1c/a20354.html#a7d56123e4cc29207b53c0673084ee79e", null ],
+    [ "_hardmode", "dc/d1c/a20354.html#af4b21f8bb94becdd9082e39d81003a2b", null ],
+    [ "_isEvading", "dc/d1c/a20354.html#aa46c9828cdd36bb353ae75bea6d205b3", null ],
+    [ "_minutesTalkNum", "dc/d1c/a20354.html#a4dbed164732f74205cd248afbb2fb46e", null ],
+    [ "_outOfCombatTimer", "dc/d1c/a20354.html#a73c2e0d120706ec09638bbc20bda81b6", null ]
 ];

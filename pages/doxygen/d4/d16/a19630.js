@@ -1,6 +1,6 @@
 var a19630 =
 [
-    [ "PrepareSpellScript", "d4/d16/a19630.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "d4/d16/a19630.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "d4/d16/a19630.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "npc_oculus_drakeAI", "d0/dec/a19634.html", "d0/dec/a19634" ],
+    [ "npc_oculus_drake", "d4/d16/a19630.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "d4/d16/a19630.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

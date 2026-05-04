@@ -1,31 +1,12 @@
 var a07434 =
 [
-    [ "BfCapturePoint", "d8/d3e/a07434.html#a1eac786bb758ef6f3295e2241045dc32", null ],
-    [ "~BfCapturePoint", "d8/d3e/a07434.html#a309a0c2b2f3c5696aef46bb7bdf4dade", null ],
-    [ "ChangeTeam", "d8/d3e/a07434.html#a429037910b1a3108cdb753ba91230bf7", null ],
-    [ "DelCapturePoint", "d8/d3e/a07434.html#a67d01513cc9f41ce103f214a85bcf5c6", null ],
-    [ "FillInitialWorldStates", "d8/d3e/a07434.html#a0f35096b5f4fb611ff4e2dd398c87a12", null ],
-    [ "GetCapturePointGo", "d8/d3e/a07434.html#a605d9ced3b467ff21c638490b1f089f0", null ],
-    [ "GetCapturePointGo", "d8/d3e/a07434.html#a100e1b83863595f598cf40cfa6d9443f", null ],
-    [ "GetTeamId", "d8/d3e/a07434.html#a564f867d536944f729f63e4b773cc173", null ],
-    [ "HandlePlayerEnter", "d8/d3e/a07434.html#a1a4ed58f9874900d822305dd406b1c67", null ],
-    [ "HandlePlayerLeave", "d8/d3e/a07434.html#a02eab1f489ee817d0b0263a57eb71ed2", null ],
-    [ "IsInsideObjective", "d8/d3e/a07434.html#a5a375223e2be7103bf6d9b411bb95b2c", null ],
-    [ "SendChangePhase", "d8/d3e/a07434.html#a7c727552544f98f3ace8e42c2d1cca02", null ],
-    [ "SendObjectiveComplete", "d8/d3e/a07434.html#ab961bfe8934f89e6e454b8a74a280e3e", null ],
-    [ "SendUpdateWorldState", "d8/d3e/a07434.html#a887af016c482f532f38b3aa10ce6e546", null ],
-    [ "SetCapturePointData", "d8/d3e/a07434.html#a309d340d11c1712f5525438f31779671", null ],
-    [ "Update", "d8/d3e/a07434.html#a3620c3873aca6e90594a4ddc8345102d", null ],
-    [ "ActivePlayers", "d8/d3e/a07434.html#a04eb49f420c0c2ed61789331c6769909", null ],
-    [ "Bf", "d8/d3e/a07434.html#abd194abc04e9f60d5980a15d121cb13d", null ],
-    [ "CapturePoint", "d8/d3e/a07434.html#a828856e871ab12e7222f542fcfebf6e3", null ],
-    [ "CapturePointEntry", "d8/d3e/a07434.html#adc770791f08285d7bc5a4c59a0b8c542", null ],
-    [ "MaxSpeed", "d8/d3e/a07434.html#a8174a10f3afcadc9d86928fad6d7f143", null ],
-    [ "MaxValue", "d8/d3e/a07434.html#a124efffeeea68485676dac664f89aea3", null ],
-    [ "MinValue", "d8/d3e/a07434.html#a16f5d7c78671d14eb6f0800b67c52f62", null ],
-    [ "NeutralValuePct", "d8/d3e/a07434.html#aa4290b17ee300ad0779e67aad8b8c943", null ],
-    [ "OldState", "d8/d3e/a07434.html#afd5cbd6dd52834c59e119389b7e8a416", null ],
-    [ "State", "d8/d3e/a07434.html#a38e693844d00a27395a582baa4f0ade4", null ],
-    [ "Team", "d8/d3e/a07434.html#abb7bd0bdbe2834d3c2e702b8d2f3dd5f", null ],
-    [ "Value", "d8/d3e/a07434.html#aa5d1cf8097e181ffb0563c334a896f29", null ]
+    [ "Type", "d8/d3e/a07434.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "d8/d3e/a07434.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "d8/d3e/a07434.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "d8/d3e/a07434.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "d8/d3e/a07434.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "d8/d3e/a07434.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "d8/d3e/a07434.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "d8/d3e/a07434.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

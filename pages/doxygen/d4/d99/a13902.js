@@ -1,7 +1,9 @@
 var a13902 =
 [
-    [ "npc_king_magni_bronzebeard", "d4/d99/a13902.html#af100ccf11c9d266be439318519280a9a", null ],
-    [ "JustDied", "d4/d99/a13902.html#a3323285cc5c4cee9df001e83584b8114", null ],
-    [ "JustEngagedWith", "d4/d99/a13902.html#a8c92169605d30c82f4699ff2b29101a6", null ],
-    [ "UpdateAI", "d4/d99/a13902.html#ad23891becf07d991c5ffc4f89719fa04", null ]
+    [ "npc_partygoer", "d4/d99/a13902.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d4/d99/a13902.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d4/d99/a13902.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d4/d99/a13902.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d4/d99/a13902.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d4/d99/a13902.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

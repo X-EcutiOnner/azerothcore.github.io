@@ -1,8 +1,5 @@
 var a28950 =
 [
-    [ "areaTriggerText", "dd/d04/a28950.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "dd/d04/a28950.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "dd/d04/a28950.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "dd/d04/a28950.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "dd/d04/a28950.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "ID", "dd/d04/a28950.html#a0272b3c1130508a2681035c91ee416e6", null ],
+    [ "SpellID", "dd/d04/a28950.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
 ];

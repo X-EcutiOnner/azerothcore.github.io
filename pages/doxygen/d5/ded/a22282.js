@@ -1,17 +1,12 @@
 var a22282 =
 [
-    [ "OPvPCapturePointZM_Graveyard", "d5/ded/a22282.html#a78fe433ee7f86e42d9b9c24d4c47f870", null ],
-    [ "CanTalkTo", "d5/ded/a22282.html#ae16e1448e5c21daea0a56ede78b3174a", null ],
-    [ "ChangeState", "d5/ded/a22282.html#a6a066c902c6e8ac58950037e6c4934b6", null ],
-    [ "FillInitialWorldStates", "d5/ded/a22282.html#a8aea9e4a005f5c88e2c71cfd46d10058", null ],
-    [ "GetGraveyardState", "d5/ded/a22282.html#ac10fc817ba6d3c68310a6b0d68e52342", null ],
-    [ "HandleDropFlag", "d5/ded/a22282.html#a87fb109fcc88099406d9f189333aef7c", null ],
-    [ "HandleGossipOption", "d5/ded/a22282.html#a132a6beb8a265dc614763a5f8e510173", null ],
-    [ "HandleOpenGo", "d5/ded/a22282.html#abef3d9dfff4688e0c5a87cd7b2a847c4", null ],
-    [ "SetBeaconState", "d5/ded/a22282.html#a7d7fc3041c753918c6e13e49a691674a", null ],
-    [ "Update", "d5/ded/a22282.html#a19d09f296598b83079eb2545b3d2caff", null ],
-    [ "UpdateTowerState", "d5/ded/a22282.html#ae907325621c0c0a40fc1e7761b81e832", null ],
-    [ "m_BothControllingFactionId", "d5/ded/a22282.html#ad501fe77b1d678cb593be6a0a8afd0a8", null ],
-    [ "m_FlagCarrierGUID", "d5/ded/a22282.html#acb0c4738c28d48f2f0ccec090e4b96d4", null ],
-    [ "m_GraveyardState", "d5/ded/a22282.html#a20e5b236d87c0942d15a60d2eba1af83", null ]
+    [ "boss_anzu", "d5/ded/a22282.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "d5/ded/a22282.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "d5/ded/a22282.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "d5/ded/a22282.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "d5/ded/a22282.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "d5/ded/a22282.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "d5/ded/a22282.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "d5/ded/a22282.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "d5/ded/a22282.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

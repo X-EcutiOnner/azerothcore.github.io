@@ -1,6 +1,7 @@
 var a17198 =
 [
-    [ "boss_ickAI", "d0/d47/a17202.html", "d0/d47/a17202" ],
-    [ "boss_ick", "d2/d8a/a17198.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d2/d8a/a17198.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "HandleEffectPeriodic", "d2/d8a/a17198.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
+    [ "PrepareAuraScript", "d2/d8a/a17198.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
+    [ "Register", "d2/d8a/a17198.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
+    [ "Validate", "d2/d8a/a17198.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
 ];

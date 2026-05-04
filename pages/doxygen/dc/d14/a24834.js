@@ -1,8 +1,8 @@
 var a24834 =
 [
-    [ "CheckIfCorpseNear", "dc/d14/a24834.html#afdf1bca2e23057d99962fb1000e9245e", null ],
-    [ "HandleDummy", "dc/d14/a24834.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
-    [ "PrepareSpellScript", "dc/d14/a24834.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
-    [ "Register", "dc/d14/a24834.html#a22f4c5321769384b2b708f19edea1a66", null ],
-    [ "Validate", "dc/d14/a24834.html#a855fdba79c4fa087253505ed419b9966", null ]
+    [ "OnApply", "dc/d14/a24834.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
+    [ "OnRemove", "dc/d14/a24834.html#a3ced5941c25fce087699aa095cd487c9", null ],
+    [ "PrepareAuraScript", "dc/d14/a24834.html#a497776c6ffdda8670fa255b76057bf2c", null ],
+    [ "Register", "dc/d14/a24834.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
+    [ "Validate", "dc/d14/a24834.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
 ];

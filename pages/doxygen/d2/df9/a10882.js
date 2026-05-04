@@ -1,7 +1,5 @@
 var a10882 =
 [
-    [ "QueryGuildInfoResponse", "d2/df9/a10882.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "d2/df9/a10882.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "d2/df9/a10882.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "d2/df9/a10882.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "PlayerLogout", "d2/df9/a10882.html#afacee5b02c2adc4bec608b6f280fbcf1", null ],
+    [ "Read", "d2/df9/a10882.html#accbe1ced6a10ea2fa699df5e74575795", null ]
 ];

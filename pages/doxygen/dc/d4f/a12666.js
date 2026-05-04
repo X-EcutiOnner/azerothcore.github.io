@@ -1,10 +1,7 @@
 var a12666 =
 [
-    [ "npc_corrupted_totem", "dc/d4f/a12666.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "dc/d4f/a12666.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "dc/d4f/a12666.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "dc/d4f/a12666.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "dc/d4f/a12666.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "dc/d4f/a12666.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "dc/d4f/a12666.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
+    [ "boss_broodlord", "dc/d4f/a12666.html#a3194ef765e313daaa4a0e476ec3edafa", null ],
+    [ "JustDied", "dc/d4f/a12666.html#ac3f6f747fbe61e70562f14b9aa304765", null ],
+    [ "JustEngagedWith", "dc/d4f/a12666.html#acb7214857320945a646574b0130a9585", null ],
+    [ "UpdateAI", "dc/d4f/a12666.html#a5cdb166366938797de9d691096f0f155", null ]
 ];

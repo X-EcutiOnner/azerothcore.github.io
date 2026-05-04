@@ -1,7 +1,6 @@
 var a06418 =
 [
-    [ "NonTankTargetSelector", "df/d53/a06418.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce", null ],
-    [ "operator()", "df/d53/a06418.html#a3a4cf85033650b1d31e9f93ec8e74b22", null ],
-    [ "_playerOnly", "df/d53/a06418.html#a59a14629522e0a3850991b1852d368ee", null ],
-    [ "_source", "df/d53/a06418.html#a54f9bf9a14d2b39f5ef038675cfcc30f", null ]
+    [ "TriggerAI", "df/d53/a06418.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
+    [ "IsSummonedBy", "df/d53/a06418.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
+    [ "Permissible", "df/d53/a06418.html#aa979e7a4774b35bf83ed137543d517b1", null ]
 ];

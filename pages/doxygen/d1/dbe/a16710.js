@@ -1,6 +1,6 @@
 var a16710 =
 [
-    [ "npc_toc_mageAI", "d4/ddf/a16714.html", "d4/ddf/a16714" ],
-    [ "npc_toc_mage", "d1/dbe/a16710.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "d1/dbe/a16710.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "npc_toc_paladinAI", "d4/ddf/a16714.html", "d4/ddf/a16714" ],
+    [ "npc_toc_paladin", "d1/dbe/a16710.html#af11025a2a4be2b2c982ad31241d47180", null ],
+    [ "GetAI", "d1/dbe/a16710.html#a15766ea4414701040c738251302177af", null ]
 ];

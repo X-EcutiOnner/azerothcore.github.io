@@ -1,10 +1,9 @@
 var a17946 =
 [
-    [ "npc_cult_adherentAI", "db/d26/a17946.html#a1ea249a25b188a949213788614f4049e", null ],
-    [ "JustEngagedWith", "db/d26/a17946.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
-    [ "Reset", "db/d26/a17946.html#ab0b54e45468b5ebed0194c441cce434e", null ],
-    [ "SpellHit", "db/d26/a17946.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
-    [ "UpdateAI", "db/d26/a17946.html#ad89638cf5859615ba2e3a0deb6701751", null ],
-    [ "_instance", "db/d26/a17946.html#a970e99fba28d6e3e0cb759c87a866273", null ],
-    [ "events", "db/d26/a17946.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
+    [ "CheckAreaTarget", "db/d26/a17946.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
+    [ "HandleApply", "db/d26/a17946.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
+    [ "Load", "db/d26/a17946.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
+    [ "PrepareAuraScript", "db/d26/a17946.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
+    [ "Register", "db/d26/a17946.html#a8f476129e0678149463c4b16232f6cb6", null ],
+    [ "_teamIdInInstance", "db/d26/a17946.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
 ];

@@ -1,10 +1,11 @@
 var a06158 =
 [
-    [ "TransactionCallback", "d6/d0c/a06158.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
-    [ "TransactionCallback", "d6/d0c/a06158.html#adeff62976c11d9d90169e4650640118b", null ],
-    [ "AfterComplete", "d6/d0c/a06158.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
-    [ "InvokeIfReady", "d6/d0c/a06158.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
-    [ "operator=", "d6/d0c/a06158.html#ab73d1741c21ea9fd86f65a647768e972", null ],
-    [ "m_callback", "d6/d0c/a06158.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
-    [ "m_future", "d6/d0c/a06158.html#a381e889074bc5ca48574d37fe6eea00f", null ]
+    [ "SQLOperation", "d6/d0c/a06158.html#a0f69657715b7d24458227b22a3b40b1a", null ],
+    [ "~SQLOperation", "d6/d0c/a06158.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
+    [ "SQLOperation", "d6/d0c/a06158.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
+    [ "call", "d6/d0c/a06158.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
+    [ "Execute", "d6/d0c/a06158.html#aff1090554bc4a6fe7a33270e63416e19", null ],
+    [ "operator=", "d6/d0c/a06158.html#ac31349ed45ea051540ac345bd4b814d5", null ],
+    [ "SetConnection", "d6/d0c/a06158.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
+    [ "m_conn", "d6/d0c/a06158.html#adf322db48064fcf4528f713f857f1b40", null ]
 ];

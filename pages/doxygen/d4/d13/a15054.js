@@ -1,7 +1,6 @@
 var a15054 =
 [
-    [ "OnRemove", "d4/d13/a15054.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "d4/d13/a15054.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "d4/d13/a15054.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "d4/d13/a15054.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "boss_infinite_corruptorAI", "d4/dba/a15058.html", "d4/dba/a15058" ],
+    [ "boss_infinite_corruptor", "d4/d13/a15054.html#a78a939073ab44b818cefdb25419f92be", null ],
+    [ "GetAI", "d4/d13/a15054.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
 ];

@@ -1,6 +1,6 @@
 var a18518 =
 [
-    [ "ModDest", "df/d9f/a18518.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "df/d9f/a18518.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "df/d9f/a18518.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "HandleScript", "df/d9f/a18518.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
+    [ "PrepareSpellScript", "df/d9f/a18518.html#add6b78f0396a34c36e0dff1928889e43", null ],
+    [ "Register", "df/d9f/a18518.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
 ];

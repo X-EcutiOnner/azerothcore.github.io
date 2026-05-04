@@ -1,7 +1,5 @@
 var a22074 =
 [
-    [ "npc_wg_quest_giver", "d4/d54/a22074.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d4/d54/a22074.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d4/d54/a22074.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d4/d54/a22074.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "achievement_wg_within_our_grasp", "d4/d54/a22074.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "d4/d54/a22074.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

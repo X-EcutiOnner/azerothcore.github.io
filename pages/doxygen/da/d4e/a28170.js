@@ -1,8 +1,7 @@
 var a28170 =
 [
-    [ "npc_riggle_bassbaitAI", "d0/dbc/a28174.html", "d0/dbc/a28174" ],
-    [ "npc_riggle_bassbait", "da/d4e/a28170.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "da/d4e/a28170.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "da/d4e/a28170.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "da/d4e/a28170.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "npc_steam_tonkAI", "da/d4e/a28170.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "da/d4e/a28170.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "da/d4e/a28170.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "da/d4e/a28170.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

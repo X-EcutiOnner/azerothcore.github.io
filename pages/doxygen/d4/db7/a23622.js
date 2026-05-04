@@ -1,9 +1,7 @@
 var a23622 =
 [
-    [ "boss_nethermancer_sepethrea", "d4/db7/a23622.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "d4/db7/a23622.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d4/db7/a23622.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d4/db7/a23622.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d4/db7/a23622.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d4/db7/a23622.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "npc_daranelleAI", "d4/db7/a23622.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d4/db7/a23622.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d4/db7/a23622.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d4/db7/a23622.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

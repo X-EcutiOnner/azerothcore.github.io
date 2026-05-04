@@ -1,9 +1,8 @@
 var a09646 =
 [
-    [ "AnyFriendlyNotSelfUnitInObjectRangeCheck", "d6/d37/a09646.html#a213e07e67eefd1454be655e154380202", null ],
-    [ "operator()", "d6/d37/a09646.html#a8b3547500300e3b9d8de88c0b12b268e", null ],
-    [ "i_funit", "d6/d37/a09646.html#a43b531ac740cb263d347ece24ff675fc", null ],
-    [ "i_obj", "d6/d37/a09646.html#a5fe4b376f00d33554a9a263abc743e68", null ],
-    [ "i_playerOnly", "d6/d37/a09646.html#a16cd07545542916e0f49250c77fad304", null ],
-    [ "i_range", "d6/d37/a09646.html#ac087254cf99c5f845918998f369c176a", null ]
+    [ "MostHPMissingInRange", "d6/d37/a09646.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "d6/d37/a09646.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "d6/d37/a09646.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "d6/d37/a09646.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "d6/d37/a09646.html#acef63da9004997c7f25056651284efa9", null ]
 ];

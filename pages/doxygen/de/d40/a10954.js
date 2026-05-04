@@ -1,5 +1,6 @@
 var a10954 =
 [
-    [ "GuildPermissionsQuery", "de/d40/a10954.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
-    [ "Read", "de/d40/a10954.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
+    [ "GuildUpdateMotdText", "de/d40/a10954.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "de/d40/a10954.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "de/d40/a10954.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

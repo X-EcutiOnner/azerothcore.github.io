@@ -1,22 +1,9 @@
 var a29574 =
 [
-    [ "HealInfoStub", "d9/dc0/a29574.html#afa2b7c6e93b387f16e2b545adc4fa05c", null ],
-    [ "HealInfoStub", "d9/dc0/a29574.html#ae011c5a0f72cd5581e661793c3ac2fdc", null ],
-    [ "~HealInfoStub", "d9/dc0/a29574.html#ae599d81216cbcaa69f206ac6eca6d886", null ],
-    [ "GetAbsorb", "d9/dc0/a29574.html#aae8cd0f206d4dbd78b56838cdb49dad6", null ],
-    [ "GetEffectiveHeal", "d9/dc0/a29574.html#aa19e94b9523f803f2af09fb77382f3c2", null ],
-    [ "GetHeal", "d9/dc0/a29574.html#abc0ad944af22920bc105b1b4c71ad467", null ],
-    [ "GetHitMask", "d9/dc0/a29574.html#ac110638d1729fae0ba6594d7f092d4b0", null ],
-    [ "GetOverheal", "d9/dc0/a29574.html#a5af3db6eed10c8b2cd17f0509f6085fa", null ],
-    [ "GetSpellInfo", "d9/dc0/a29574.html#a05ce52ae6ea15c8043dfeae236466017", null ],
-    [ "SetAbsorb", "d9/dc0/a29574.html#a5f7988705654a3b6f460ddbbecb3992b", null ],
-    [ "SetEffectiveHeal", "d9/dc0/a29574.html#ad8c263f50edf324a72ca366f6caf4377", null ],
-    [ "SetHeal", "d9/dc0/a29574.html#a6dede4a2256ff21fde331ae05d257718", null ],
-    [ "SetHitMask", "d9/dc0/a29574.html#a4f50475819621d56efd4e359ed004483", null ],
-    [ "SetSpellInfo", "d9/dc0/a29574.html#a2e5ac0bb798710d33e0ff4c29c8507a0", null ],
-    [ "_absorb", "d9/dc0/a29574.html#a1b6726177d88f4da4b4fa36e96136711", null ],
-    [ "_effectiveHeal", "d9/dc0/a29574.html#aab54619f78456698c646d83ac448e1e2", null ],
-    [ "_heal", "d9/dc0/a29574.html#a44c86cf0c0d87d9ceb9574ced0990845", null ],
-    [ "_hitMask", "d9/dc0/a29574.html#a2228ffd4334cc5adff51e67394d19de9", null ],
-    [ "_spellInfo", "d9/dc0/a29574.html#a94cd95b537e2510047da23a7f9176aa6", null ]
+    [ "CreateSpellInfo", "d9/dc0/a29574.html#a83fe2676ce2ae1374600de46967aeae5", null ],
+    [ "SetUp", "d9/dc0/a29574.html#abd89fcaf8f8c38b5d992a21430f9ecdb", null ],
+    [ "TearDown", "d9/dc0/a29574.html#acb5697251398888a4cc282c359cfc4ec", null ],
+    [ "_originalWorld", "d9/dc0/a29574.html#ae44f699ee1acedae6ead179c3f012594", null ],
+    [ "_spellInfos", "d9/dc0/a29574.html#ac06654664782d249c4233f79990c817b", null ],
+    [ "_worldMock", "d9/dc0/a29574.html#a98d5f98dfc4d63705920b7b164530022", null ]
 ];

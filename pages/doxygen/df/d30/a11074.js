@@ -1,7 +1,7 @@
 var a11074 =
 [
-    [ "GuildBankTextQueryResult", "df/d30/a11074.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "df/d30/a11074.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "df/d30/a11074.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "df/d30/a11074.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "GuildBankWithdrawMoney", "df/d30/a11074.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
+    [ "Read", "df/d30/a11074.html#a420aac24befdc5ac26171faa15c3c350", null ],
+    [ "Banker", "df/d30/a11074.html#a68f9a4191c349702881774bff4069f03", null ],
+    [ "Money", "df/d30/a11074.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
 ];

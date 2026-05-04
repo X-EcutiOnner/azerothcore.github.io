@@ -1,6 +1,5 @@
 var a25526 =
 [
-    [ "HandleDummy", "da/dad/a25526.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
-    [ "PrepareSpellScript", "da/dad/a25526.html#a80b89fbd2506191b897dcf367ff11500", null ],
-    [ "Register", "da/dad/a25526.html#a522730e5ba844728c0b3d6f423cd123a", null ]
+    [ "PrepareSpellScript", "da/dad/a25526.html#a065d81d698c978bcdd234712807e9098", null ],
+    [ "Register", "da/dad/a25526.html#a3efcd145189b27272495110c799cf14f", null ]
 ];

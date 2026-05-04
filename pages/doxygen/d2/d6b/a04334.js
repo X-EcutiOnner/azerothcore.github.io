@@ -1,4 +1,4 @@
 var a04334 =
 [
-    [ "DBCDatabaseLoader", "d7/d5e/a28301.html", "d7/d5e/a28301" ]
+    [ "SocketMgr< SocketType >", "d1/dc0/a29074.html", "d1/dc0/a29074" ]
 ];

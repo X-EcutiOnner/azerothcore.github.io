@@ -1,6 +1,5 @@
 var a12802 =
 [
-    [ "HandleHit", "d1/ded/a12802.html#a5245f935c0cafd14e492214a51d85ad3", null ],
-    [ "PrepareSpellScript", "d1/ded/a12802.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
-    [ "Register", "d1/ded/a12802.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
+    [ "npc_garr_firesworn", "d1/ded/a12802.html#a5efff706f522accd5f8be0d29080dea4", null ],
+    [ "DamageTaken", "d1/ded/a12802.html#a172435821316d28c5b0043015c68595e", null ]
 ];

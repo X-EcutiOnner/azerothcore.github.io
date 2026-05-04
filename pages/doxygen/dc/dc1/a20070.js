@@ -1,7 +1,6 @@
 var a20070 =
 [
-    [ "boss_freya_healthy_spore", "dc/dc1/a20070.html#abc2492b9cf96cb00940b18fac549fb00", null ],
-    [ "Reset", "dc/dc1/a20070.html#abe3f794707aa722e73b1728700876083", null ],
-    [ "UpdateAI", "dc/dc1/a20070.html#ac8c952848687cd883aaefe466b799e3b", null ],
-    [ "_despawnTimer", "dc/dc1/a20070.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
+    [ "achievement_flame_leviathan_towers", "dc/dc1/a20070.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "dc/dc1/a20070.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "dc/dc1/a20070.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

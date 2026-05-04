@@ -1,6 +1,9 @@
 var a27046 =
 [
-    [ "HandleProc", "df/d3f/a27046.html#a34fc7c89e962791d76c24c40bbdba827", null ],
-    [ "PrepareAuraScript", "df/d3f/a27046.html#a3558a23d2d428ee4f0bec8ae6c1afba5", null ],
-    [ "Register", "df/d3f/a27046.html#aab998e808ec9f53e87d92e71b3cc1c30", null ]
+    [ "Absorb", "df/d3f/a27046.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
+    [ "CalculateAmount", "df/d3f/a27046.html#a820c27c2161063307a10903cbbc5c0fa", null ],
+    [ "Load", "df/d3f/a27046.html#a7b71990051faaa083110408c13b8401f", null ],
+    [ "PrepareAuraScript", "df/d3f/a27046.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
+    [ "Register", "df/d3f/a27046.html#aa443ab0eed74229883884fbced0426d7", null ],
+    [ "absorbPct", "df/d3f/a27046.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
 ];

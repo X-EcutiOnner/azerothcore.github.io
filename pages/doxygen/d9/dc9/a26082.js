@@ -1,6 +1,7 @@
 var a26082 =
 [
-    [ "CheckProc", "d9/dc9/a26082.html#a32944bc11db6436123d0ae58dc69049e", null ],
-    [ "PrepareAuraScript", "d9/dc9/a26082.html#a3ff37b99957c2b48b1794085a4043372", null ],
-    [ "Register", "d9/dc9/a26082.html#ada958db35d6079e25109cb06e5da209e", null ]
+    [ "CalcPeriodic", "d9/dc9/a26082.html#a404e5309016cfcaa3071c0216978699e", null ],
+    [ "PrepareAuraScript", "d9/dc9/a26082.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
+    [ "Register", "d9/dc9/a26082.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
+    [ "AuraEffectHandleModes", "d9/dc9/a26082.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
 ];

@@ -1,8 +1,15 @@
 var a14262 =
 [
-    [ "boss_grilekAI", "d5/d44/a14262.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
-    [ "JustEngagedWith", "d5/d44/a14262.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
-    [ "Reset", "d5/d44/a14262.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
-    [ "UpdateAI", "d5/d44/a14262.html#a19438103c9a582a7d36d805c80131e8c", null ],
-    [ "_pursuitTargetGUID", "d5/d44/a14262.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
+    [ "boss_arlokkAI", "d5/d44/a14262.html#adb598bf47620cd077fb689fb8f9a4ad8", null ],
+    [ "EnterEvadeMode", "d5/d44/a14262.html#a8553c4d173e7c39315f022f69587c6c0", null ],
+    [ "JustDied", "d5/d44/a14262.html#ac03a6599a5b41e01bd4ed9ebd55cc0ba", null ],
+    [ "JustEngagedWith", "d5/d44/a14262.html#ac4ee55299a9389c4fee1ad96140b00d0", null ],
+    [ "JustReachedHome", "d5/d44/a14262.html#ab0499a80ea8406457e6bfaac96eae975", null ],
+    [ "Reset", "d5/d44/a14262.html#a3ea2c720ac5c4b1fa6ea4d2eb8bf163f", null ],
+    [ "SetData", "d5/d44/a14262.html#a7eedf1d1b55740698c314d4afbb2b0b2", null ],
+    [ "UpdateAI", "d5/d44/a14262.html#a3a2d07d42be88244c0c72b998792dd28", null ],
+    [ "_summonCountA", "d5/d44/a14262.html#a77f83909fca59d1c5d72dc583d7ec22e", null ],
+    [ "_summonCountB", "d5/d44/a14262.html#a7e7d091ea00fb42e7f97cb79168e0dc3", null ],
+    [ "_triggersSideAGUID", "d5/d44/a14262.html#aedc8dda728ed849f33dc83396da51bce", null ],
+    [ "_triggersSideBGUID", "d5/d44/a14262.html#a0fc797fd56c4f12272b647087492670a", null ]
 ];

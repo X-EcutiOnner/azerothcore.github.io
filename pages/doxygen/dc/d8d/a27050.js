@@ -1,8 +1,8 @@
 var a27050 =
 [
-    [ "AfterApply", "dc/d8d/a27050.html#a3299de0703ca1e14760e9f33b124ac44", null ],
-    [ "PeriodicTick", "dc/d8d/a27050.html#a34f2fd8d142083705101f8265297c20e", null ],
-    [ "PrepareAuraScript", "dc/d8d/a27050.html#a79c80876d5788a20a9f686548b70fd64", null ],
-    [ "Register", "dc/d8d/a27050.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
-    [ "Validate", "dc/d8d/a27050.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
+    [ "ApplyDebuff", "dc/d8d/a27050.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "dc/d8d/a27050.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "dc/d8d/a27050.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "dc/d8d/a27050.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "dc/d8d/a27050.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

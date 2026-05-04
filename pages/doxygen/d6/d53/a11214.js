@@ -1,5 +1,6 @@
 var a11214 =
 [
-    [ "LFGLeave", "d6/d53/a11214.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
-    [ "Read", "d6/d53/a11214.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
+    [ "ListInventory", "d6/d53/a11214.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
+    [ "Read", "d6/d53/a11214.html#a2fd1298c1da842824fca7d971cb2028b", null ],
+    [ "VendorGuid", "d6/d53/a11214.html#a9c6288866c870b4a82169fe7fbef4512", null ]
 ];

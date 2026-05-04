@@ -1,6 +1,10 @@
 var a16846 =
 [
-    [ "boss_acidmawAI", "da/d72/a16850.html", "da/d72/a16850" ],
-    [ "boss_acidmaw", "dc/d5a/a16846.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
-    [ "GetAI", "dc/d5a/a16846.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
+    [ "npc_mistress_of_painAI", "dc/d5a/a16846.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "dc/d5a/a16846.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "dc/d5a/a16846.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "dc/d5a/a16846.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "dc/d5a/a16846.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "dc/d5a/a16846.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "dc/d5a/a16846.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

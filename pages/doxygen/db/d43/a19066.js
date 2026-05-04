@@ -1,5 +1,5 @@
 var a19066 =
 [
-    [ "at_icc_spire_frostwyrm", "db/d43/a19066.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "db/d43/a19066.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "npc_icc_buff_switcher", "db/d43/a19066.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "db/d43/a19066.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

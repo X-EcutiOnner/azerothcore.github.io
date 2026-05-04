@@ -1,7 +1,6 @@
 var a22494 =
 [
-    [ "HandleDummy", "d9/d70/a22494.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
-    [ "PrepareSpellScript", "d9/d70/a22494.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
-    [ "Register", "d9/d70/a22494.html#af5926d8570de13e66aa1870184620b94", null ],
-    [ "Validate", "d9/d70/a22494.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
+    [ "HandleSharedRule", "d9/d70/a22494.html#a94b783490dafae872b65e0bbfed156b9", null ],
+    [ "PrepareSpellScript", "d9/d70/a22494.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
+    [ "Register", "d9/d70/a22494.html#a31f2d90059e62da77a719a192d62328b", null ]
 ];

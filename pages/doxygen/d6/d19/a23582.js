@@ -1,6 +1,6 @@
 var a23582 =
 [
-    [ "HandleScriptEffect", "d6/d19/a23582.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
-    [ "PrepareSpellScript", "d6/d19/a23582.html#af475c0968aabaf56e8ca38950ad651f0", null ],
-    [ "Register", "d6/d19/a23582.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
+    [ "instance_mechanar_InstanceMapScript", "d4/d22/a23586.html", "d4/d22/a23586" ],
+    [ "instance_mechanar", "d6/d19/a23582.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d6/d19/a23582.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

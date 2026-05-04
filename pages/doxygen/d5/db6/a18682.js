@@ -1,13 +1,7 @@
 var a18682 =
 [
-    [ "npc_risen_archmageAI", "d5/db6/a18682.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
-    [ "CanAIAttack", "d5/db6/a18682.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
-    [ "DoAction", "d5/db6/a18682.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
-    [ "JustEnteredCombat", "d5/db6/a18682.html#a50bd33c1b28b3691f42a5f167f27e342", null ],
-    [ "JustSummoned", "d5/db6/a18682.html#aff6e86057086db1319bb680e52e41634", null ],
-    [ "Reset", "d5/db6/a18682.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
-    [ "UpdateAI", "d5/db6/a18682.html#ae78dc64f858573b234210ca175e5bdd9", null ],
-    [ "_events", "d5/db6/a18682.html#a6dff9ff5332c0bc337840882689f47ed", null ],
-    [ "_instance", "d5/db6/a18682.html#a1b4e12b199bf3ada517c895c5f387c4a", null ],
-    [ "_isInitialArchmage", "d5/db6/a18682.html#ac871eeab6510fa9f5e8f38f35f299149", null ]
+    [ "AuraRemoveEvent", "d5/db6/a18682.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "d5/db6/a18682.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "d5/db6/a18682.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "d5/db6/a18682.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

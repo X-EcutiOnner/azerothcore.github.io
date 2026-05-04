@@ -1,6 +1,6 @@
 var a17718 =
 [
-    [ "Cooldown", "d0/d83/a17718.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "d0/d83/a17718.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "d0/d83/a17718.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "boss_festergutAI", "dc/d2b/a17722.html", "dc/d2b/a17722" ],
+    [ "boss_festergut", "d0/d83/a17718.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d0/d83/a17718.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

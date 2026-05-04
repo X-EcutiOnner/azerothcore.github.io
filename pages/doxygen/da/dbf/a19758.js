@@ -1,7 +1,6 @@
 var a19758 =
 [
-    [ "creature", "da/dbf/a19758.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "da/dbf/a19758.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "da/dbf/a19758.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "da/dbf/a19758.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "boss_maiden_of_griefAI", "d8/d14/a19762.html", "d8/d14/a19762" ],
+    [ "boss_maiden_of_grief", "da/dbf/a19758.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
+    [ "GetAI", "da/dbf/a19758.html#af8d2e6392a0c73add801910945b2558e", null ]
 ];

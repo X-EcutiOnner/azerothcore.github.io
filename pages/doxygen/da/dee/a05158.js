@@ -1,6 +1,4 @@
 var a05158 =
 [
-    [ "node", "da/dee/a05158.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491", null ],
-    [ "tfar", "da/dee/a05158.html#ad53b746617dd5a46930dae493d7488d9", null ],
-    [ "tnear", "da/dee/a05158.html#a938ca2ace2aa498abdda93ee824b6f09", null ]
+    [ "Strand", "da/dee/a05158.html#afd0efbcfbbd1ff7ef26d7f8c476380dc", null ]
 ];

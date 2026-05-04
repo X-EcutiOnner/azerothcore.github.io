@@ -1,6 +1,11 @@
 var a17514 =
 [
-    [ "AddExtraDamage", "d2/d3e/a17514.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d2/d3e/a17514.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d2/d3e/a17514.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "npc_blood_queen_lana_thelAI", "d2/d3e/a17514.html#a7b099b90600e433e304dee1f356a9909", null ],
+    [ "MoveInLineOfSight", "d2/d3e/a17514.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
+    [ "MovementInform", "d2/d3e/a17514.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
+    [ "Reset", "d2/d3e/a17514.html#a539b0e158c800e1aade54f37aa99751e", null ],
+    [ "UpdateAI", "d2/d3e/a17514.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
+    [ "_events", "d2/d3e/a17514.html#a8ec7641bab991fc584b066fae55690bf", null ],
+    [ "_instance", "d2/d3e/a17514.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
+    [ "_introDone", "d2/d3e/a17514.html#a40c642758a751e072e41343bb75ad306", null ]
 ];

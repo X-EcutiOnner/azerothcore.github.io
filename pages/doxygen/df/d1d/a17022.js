@@ -1,14 +1,12 @@
 var a17022 =
 [
-    [ "boss_bronjahm", "df/d1d/a17022.html#a44666a47b298efe48c4e86b8677d9845", null ],
-    [ "DamageTaken", "df/d1d/a17022.html#ab89333e2ee43ad384bdc71ac6f83c92e", null ],
-    [ "EnterEvadeMode", "df/d1d/a17022.html#a5d515921e780974e2a70937ada8b232d", null ],
-    [ "JustDied", "df/d1d/a17022.html#ad50a7aee4ebf9d0d5d9141b96e154996", null ],
-    [ "JustEngagedWith", "df/d1d/a17022.html#a767d4a601d7f912cd71823a51b31af1f", null ],
-    [ "JustReachedHome", "df/d1d/a17022.html#af2146b1ddb8cdc3e27d1cf573fe65df0", null ],
-    [ "JustSummoned", "df/d1d/a17022.html#a47c7a8a8413b139cf2d217d33f39aa3d", null ],
-    [ "KilledUnit", "df/d1d/a17022.html#aaaf64571ce6a542be93c6efe105278e8", null ],
-    [ "Reset", "df/d1d/a17022.html#a313bd4510e18ecb529b6358d28a3dc3f", null ],
-    [ "SpellHitTarget", "df/d1d/a17022.html#a3be47710012bd75a71574f7a4c69f678", null ],
-    [ "UpdateAI", "df/d1d/a17022.html#a6d60b720210a9f196b1c006b557e7d25", null ]
+    [ "boss_trollgoreAI", "df/d1d/a17022.html#a958deb54a8460cc2dc61958bd9acb338", null ],
+    [ "CheckInRoom", "df/d1d/a17022.html#a6428a1c4fc7d3da4e016ed17ea3684df", null ],
+    [ "JustDied", "df/d1d/a17022.html#a32a309084b6b7c4b4e5db10d9c8a95bd", null ],
+    [ "JustEngagedWith", "df/d1d/a17022.html#a25414dc1b13aa1372e397c5cb11afdaa", null ],
+    [ "JustSummoned", "df/d1d/a17022.html#abd2199877e0e1465a7e5783b80ad2a44", null ],
+    [ "KilledUnit", "df/d1d/a17022.html#aa65d03d8879c6177753b8316c1343ad4", null ],
+    [ "Reset", "df/d1d/a17022.html#a4fe22aebe6e814196ac1914d158a62de", null ],
+    [ "UpdateAI", "df/d1d/a17022.html#a3fa3247442edb81136647f7fdf5834cf", null ],
+    [ "events2", "df/d1d/a17022.html#a94e8c9616ac332f33f2b976c074092af", null ]
 ];

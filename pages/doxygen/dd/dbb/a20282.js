@@ -1,7 +1,7 @@
 var a20282 =
 [
-    [ "FilterTargetsInitial", "dd/dbb/a20282.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "dd/dbb/a20282.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "dd/dbb/a20282.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "dd/dbb/a20282.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "HandleEffectPeriodic", "dd/dbb/a20282.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "dd/dbb/a20282.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "dd/dbb/a20282.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "dd/dbb/a20282.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

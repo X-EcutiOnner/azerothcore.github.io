@@ -1,10 +1,8 @@
 var a20606 =
 [
-    [ "boss_yoggsaron_constrictor_tentacle", "d8/dbf/a20606.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
-    [ "DoAction", "d8/dbf/a20606.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
-    [ "JustDied", "d8/dbf/a20606.html#aac8f5a80248c4616074e7ef88fb10395", null ],
-    [ "SelectConstrictTarget", "d8/dbf/a20606.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
-    [ "UpdateAI", "d8/dbf/a20606.html#a930b35c2385ba2977f2f2da3b4b38f07", null ],
-    [ "_checkTimer", "d8/dbf/a20606.html#aa6c76606c7c9e6ee71e94433cb721f96", null ],
-    [ "_playerGUID", "d8/dbf/a20606.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
+    [ "CheckProc", "d8/dbf/a20606.html#a2bbcd3aca15eb271759c2a64276bb9d3", null ],
+    [ "HandleProc", "d8/dbf/a20606.html#a6761dd910808090d78c9b9ad88ba7bda", null ],
+    [ "PrepareAuraScript", "d8/dbf/a20606.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60", null ],
+    [ "Register", "d8/dbf/a20606.html#a430a5c4d0e3f77d4d966a4bf8f629e1e", null ],
+    [ "Validate", "d8/dbf/a20606.html#a683a37c787ae5797d8c68aca1af0742a", null ]
 ];

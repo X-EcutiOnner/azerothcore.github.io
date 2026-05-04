@@ -1,6 +1,8 @@
 var a11838 =
 [
-    [ "EffectBase", "d5/d62/a11838.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "d5/d62/a11838.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "d5/d62/a11838.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "EffectHandler", "d5/d62/a11838.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "d5/d62/a11838.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "d5/d62/a11838.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "d5/d62/a11838.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "d5/d62/a11838.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

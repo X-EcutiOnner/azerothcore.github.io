@@ -1,6 +1,13 @@
 var a15082 =
 [
-    [ "npc_cos_stratholme_citizienAI", "dc/d2f/a15086.html", "dc/d2f/a15086" ],
-    [ "npc_cos_stratholme_citizien", "da/d01/a15082.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "da/d01/a15082.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "boss_salrammAI", "da/d01/a15082.html#ae1055878b3919e29d44ee26efcbe044f", null ],
+    [ "ExplodeGhoul", "da/d01/a15082.html#adc64d8b10b28b98254c528732fff0516", null ],
+    [ "JustDied", "da/d01/a15082.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
+    [ "JustEngagedWith", "da/d01/a15082.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
+    [ "JustSummoned", "da/d01/a15082.html#afd70403a8644f310f37335c6c9bf5b55", null ],
+    [ "KilledUnit", "da/d01/a15082.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
+    [ "Reset", "da/d01/a15082.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
+    [ "UpdateAI", "da/d01/a15082.html#aa2350dc05884593b1361f9f09b8d9392", null ],
+    [ "events", "da/d01/a15082.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
+    [ "summons", "da/d01/a15082.html#a813c09e121730d4ae2e623ac3c37d570", null ]
 ];

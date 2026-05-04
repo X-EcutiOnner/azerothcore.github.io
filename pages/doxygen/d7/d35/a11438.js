@@ -1,7 +1,7 @@
 var a11438 =
 [
-    [ "UpdateWorldState", "d7/d35/a11438.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "d7/d35/a11438.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "d7/d35/a11438.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "d7/d35/a11438.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "PetDismissSound", "d7/d35/a11438.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
+    [ "Write", "d7/d35/a11438.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
+    [ "ModelId", "d7/d35/a11438.html#aba65e6547adde55978ce7b2abb779d51", null ],
+    [ "ModelPosition", "d7/d35/a11438.html#a06e6bff9d70996ba890c31ea74363dad", null ]
 ];

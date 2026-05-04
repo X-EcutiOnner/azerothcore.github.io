@@ -1,7 +1,7 @@
 var a27410 =
 [
-    [ "HandleTeleport", "d1/d05/a27410.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
-    [ "PrepareAuraScript", "d1/d05/a27410.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
-    [ "Register", "d1/d05/a27410.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
-    [ "Validate", "d1/d05/a27410.html#adabf22bd591a10662ffbf0354a18a936", null ]
+    [ "HandleProc", "d1/d05/a27410.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
+    [ "PrepareAuraScript", "d1/d05/a27410.html#aadbaea984fedb04e77b92174efd5e83d", null ],
+    [ "Register", "d1/d05/a27410.html#aedd1652a571275a305db70fbbe6f725c", null ],
+    [ "Validate", "d1/d05/a27410.html#a28c281aeef80409b419753f71da80f92", null ]
 ];

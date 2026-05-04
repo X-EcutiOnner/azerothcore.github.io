@@ -1,5 +1,7 @@
 var a25078 =
 [
-    [ "PrepareSpellScript", "d4/d9a/a25078.html#a096abf53c6e622875c463060e986b5ef", null ],
-    [ "Register", "d4/d9a/a25078.html#a68905cc33f09dbb42db67139193530cb", null ]
+    [ "OnPeriodic", "d4/d9a/a25078.html#a58f13f947b4daac98651f7fa46d7d674", null ],
+    [ "PrepareAuraScript", "d4/d9a/a25078.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
+    [ "Register", "d4/d9a/a25078.html#ad0c688255e340c428624de7071b5df56", null ],
+    [ "Validate", "d4/d9a/a25078.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
 ];

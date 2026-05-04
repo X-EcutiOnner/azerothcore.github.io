@@ -1,10 +1,9 @@
 var a14970 =
 [
-    [ "hyjalJainaAI", "df/db1/a14970.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "df/db1/a14970.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "df/db1/a14970.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "df/db1/a14970.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "df/db1/a14970.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "df/db1/a14970.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "df/db1/a14970.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "boss_azgalor", "df/db1/a14970.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "df/db1/a14970.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "df/db1/a14970.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "df/db1/a14970.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "df/db1/a14970.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
+    [ "_recentlySpoken", "df/db1/a14970.html#abea34396ddde0aa02a073b2f3119fec9", null ]
 ];

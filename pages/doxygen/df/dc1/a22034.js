@@ -1,7 +1,8 @@
 var a22034 =
 [
-    [ "OnApply", "df/dc1/a22034.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "df/dc1/a22034.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "df/dc1/a22034.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "df/dc1/a22034.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "go_wg_vehicle_teleporterAI", "df/dc1/a22034.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "df/dc1/a22034.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "df/dc1/a22034.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "df/dc1/a22034.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "df/dc1/a22034.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

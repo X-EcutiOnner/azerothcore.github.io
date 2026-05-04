@@ -1,6 +1,7 @@
 var a23306 =
 [
-    [ "HandleHit", "df/d6f/a23306.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "df/d6f/a23306.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "df/d6f/a23306.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "HandleOnApply", "df/d6f/a23306.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "df/d6f/a23306.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "df/d6f/a23306.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "df/d6f/a23306.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

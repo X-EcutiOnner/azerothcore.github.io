@@ -1,7 +1,8 @@
 var a21710 =
 [
-    [ "npc_plaguehound_trackerAI", "d2/d0e/a21710.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "d2/d0e/a21710.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "d2/d0e/a21710.html#a67c345f49572cde76d9109a1baff6788", null ],
-    [ "WaypointReached", "d2/d0e/a21710.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_llod_genericAI", "d2/d0e/a21710.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d2/d0e/a21710.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d2/d0e/a21710.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d2/d0e/a21710.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d2/d0e/a21710.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

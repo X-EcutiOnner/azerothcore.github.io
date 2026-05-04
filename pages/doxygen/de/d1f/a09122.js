@@ -1,9 +1,9 @@
 var a09122 =
 [
-    [ "day", "de/d1f/a09122.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
-    [ "holidayId", "de/d1f/a09122.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
-    [ "month", "de/d1f/a09122.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
-    [ "offset", "de/d1f/a09122.html#aaa9bf14668239ea561aecc33104e245a", null ],
-    [ "type", "de/d1f/a09122.html#a25f2529332f23c93b37e5c918032eb3d", null ],
-    [ "weekday", "de/d1f/a09122.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
+    [ "VehicleAccessory", "de/d1f/a09122.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "de/d1f/a09122.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "de/d1f/a09122.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "de/d1f/a09122.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "de/d1f/a09122.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "de/d1f/a09122.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

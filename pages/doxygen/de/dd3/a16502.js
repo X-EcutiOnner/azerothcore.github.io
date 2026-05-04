@@ -1,6 +1,6 @@
 var a16502 =
 [
-    [ "npc_memoryAI", "db/dce/a16506.html", "db/dce/a16506" ],
-    [ "npc_memory", "de/dd3/a16502.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "de/dd3/a16502.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "HandleScript", "de/dd3/a16502.html#a647f39eb125537cd7545ab4115be1091", null ],
+    [ "PrepareSpellScript", "de/dd3/a16502.html#a55dec84643f9bd536c7c73b5909ab303", null ],
+    [ "Register", "de/dd3/a16502.html#a0077abbe11092b9636c3bb7b5c367946", null ]
 ];

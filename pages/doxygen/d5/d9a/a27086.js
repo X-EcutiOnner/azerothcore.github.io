@@ -1,6 +1,8 @@
 var a27086 =
 [
-    [ "FilterTargets", "d5/d9a/a27086.html#a34ca370993295225a779ee6537295112", null ],
-    [ "PrepareSpellScript", "d5/d9a/a27086.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
-    [ "Register", "d5/d9a/a27086.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
+    [ "CheckFireTotem", "d5/d9a/a27086.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d5/d9a/a27086.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d5/d9a/a27086.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d5/d9a/a27086.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d5/d9a/a27086.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

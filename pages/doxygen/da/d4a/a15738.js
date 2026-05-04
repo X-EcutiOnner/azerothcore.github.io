@@ -1,11 +1,7 @@
 var a15738 =
 [
-    [ "npc_troll_volunteerAI", "da/d4a/a15738.html#a7eb0c508122616a6781c8b23210e4062", null ],
-    [ "GetMountId", "da/d4a/a15738.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
-    [ "InitializeAI", "da/d4a/a15738.html#a1c758c7601624e0620778e13e8ec60a0", null ],
-    [ "MovementInform", "da/d4a/a15738.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
-    [ "Reset", "da/d4a/a15738.html#a31439533de41c2a459af2b4d3af76139", null ],
-    [ "SpellHit", "da/d4a/a15738.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
-    [ "_complete", "da/d4a/a15738.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
-    [ "_mountModel", "da/d4a/a15738.html#ae226345bd324b9c337dc96570117d82b", null ]
+    [ "npc_cork_gizeltonAI", "d2/dd6/a15742.html", "d2/dd6/a15742" ],
+    [ "npc_cork_gizelton", "da/d4a/a15738.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "da/d4a/a15738.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "da/d4a/a15738.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

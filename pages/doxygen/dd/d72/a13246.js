@@ -1,16 +1,14 @@
 var a13246 =
 [
-    [ "npc_unworthy_initiateAI", "dd/d72/a13246.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
-    [ "EventStart", "dd/d72/a13246.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
-    [ "JustEngagedWith", "dd/d72/a13246.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
-    [ "MovementInform", "dd/d72/a13246.html#afbf6d71b196067400256df98949ae963", null ],
-    [ "Reset", "dd/d72/a13246.html#aba37cb6291a2e7436f8af796c50dead9", null ],
-    [ "UpdateAI", "dd/d72/a13246.html#a485695877f48aea0bb191e8b312f9c99", null ],
-    [ "anchorGUID", "dd/d72/a13246.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
-    [ "anchorX", "dd/d72/a13246.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
-    [ "anchorY", "dd/d72/a13246.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
-    [ "events", "dd/d72/a13246.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
-    [ "phase", "dd/d72/a13246.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
-    [ "playerGUID", "dd/d72/a13246.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
-    [ "wait_timer", "dd/d72/a13246.html#a9270c6e57cf77805769cfe692beefbe0", null ]
+    [ "boss_selin_fireheart", "dd/d72/a13246.html#ae3270a227550391fd752d3f241e5ea46", null ],
+    [ "CanAIAttack", "dd/d72/a13246.html#a36f409a006a09812452052d554d5e810", null ],
+    [ "JustDied", "dd/d72/a13246.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
+    [ "JustEngagedWith", "dd/d72/a13246.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
+    [ "KilledUnit", "dd/d72/a13246.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
+    [ "MovementInform", "dd/d72/a13246.html#a8072412acc5f52fdeea3b4f740021a91", null ],
+    [ "OnPowerUpdate", "dd/d72/a13246.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
+    [ "Reset", "dd/d72/a13246.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
+    [ "SelectNearestCrystal", "dd/d72/a13246.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
+    [ "SpawnCrystals", "dd/d72/a13246.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
+    [ "SummonedCreatureDies", "dd/d72/a13246.html#a396341d39bead723a7c6f716c08aa447", null ]
 ];

@@ -1,5 +1,5 @@
 var a28902 =
 [
-    [ "ID", "dc/d97/a28902.html#a65acb5af9a688346cbb7dc144710c768", null ],
-    [ "inventoryIcon", "dc/d97/a28902.html#a26b43ee179bd546c6e956dd797fc0842", null ]
+    [ "id", "dc/d97/a28902.html#a4667f55651f20c85f5b3da9384bac078", null ],
+    [ "QuestRewFactionValue", "dc/d97/a28902.html#a9a42feddeef8e054cd52b72cfc812867", null ]
 ];

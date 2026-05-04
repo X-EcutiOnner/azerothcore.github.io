@@ -1,7 +1,7 @@
 var a22586 =
 [
-    [ "SuckBackEvent", "db/d7d/a22586.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "db/d7d/a22586.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "db/d7d/a22586.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "db/d7d/a22586.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "HandleEffectRemove", "db/d7d/a22586.html#a6adc572bb13dde9b83a44a1c27833019", null ],
+    [ "PrepareAuraScript", "db/d7d/a22586.html#a877c26735531508d1806273117f3e8bc", null ],
+    [ "Register", "db/d7d/a22586.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
+    [ "Validate", "db/d7d/a22586.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
 ];

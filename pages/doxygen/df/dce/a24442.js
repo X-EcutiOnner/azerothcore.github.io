@@ -1,7 +1,7 @@
 var a24442 =
 [
-    [ "OnRemove", "df/dce/a24442.html#aae9f02415a256ce01b81c3dd6fdafb33", null ],
-    [ "PrepareAuraScript", "df/dce/a24442.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "df/dce/a24442.html#a6c105609c1ee61a8f845018550b2e3ba", null ],
-    [ "Validate", "df/dce/a24442.html#ac1f03d22c5fdb1c07a0e0859e08bd561", null ]
+    [ "CalculateAmount", "df/dce/a24442.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
+    [ "Load", "df/dce/a24442.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
+    [ "PrepareAuraScript", "df/dce/a24442.html#a93df43072a344485c389160306b1fecd", null ],
+    [ "Register", "df/dce/a24442.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
 ];

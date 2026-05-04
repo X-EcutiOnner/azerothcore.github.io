@@ -1,5 +1,8 @@
 var a12566 =
 [
-    [ "at_trigger_the_beast_movement", "d4/d95/a12566.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
-    [ "OnTrigger", "d4/d95/a12566.html#a333d685d765497a950fde35067d876a1", null ]
+    [ "boss_highlord_omokk", "d4/d95/a12566.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
+    [ "JustDied", "d4/d95/a12566.html#a2a8931227eb65759ceebd27919976cb5", null ],
+    [ "JustEngagedWith", "d4/d95/a12566.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
+    [ "Reset", "d4/d95/a12566.html#ada6bf702dc1827e60b558b4fb752b789", null ],
+    [ "UpdateAI", "d4/d95/a12566.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
 ];

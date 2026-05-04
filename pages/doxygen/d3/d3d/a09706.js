@@ -1,7 +1,8 @@
 var a09706 =
 [
-    [ "AnyPlayerExactPositionInGameObjectRangeCheck", "d3/d3d/a09706.html#a51100c20d5b7f795f062dfaa5aa65017", null ],
-    [ "operator()", "d3/d3d/a09706.html#a0dd7216a026b7f90b293b2adf20a0191", null ],
-    [ "_go", "d3/d3d/a09706.html#a70e0b15948cf34a7c759885949560dcd", null ],
-    [ "_range", "d3/d3d/a09706.html#ad91342e50833e3b9d75c5e548248941f", null ]
+    [ "CallOfHelpCreatureInRangeDo", "d3/d3d/a09706.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
+    [ "operator()", "d3/d3d/a09706.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
+    [ "i_enemy", "d3/d3d/a09706.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
+    [ "i_funit", "d3/d3d/a09706.html#aff1768cd844e4e23821cf78f9d360e06", null ],
+    [ "i_range", "d3/d3d/a09706.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
 ];

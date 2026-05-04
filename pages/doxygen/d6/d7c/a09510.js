@@ -1,9 +1,7 @@
 var a09510 =
 [
-    [ "GameObjectSearcher", "d6/d7c/a09510.html#a6625a6afd81bea2f9cdd10fad6d4a5a4", null ],
-    [ "Visit", "d6/d7c/a09510.html#a16685c62e1e69fdc5df55b2b3920a579", null ],
-    [ "Visit", "d6/d7c/a09510.html#a1105dd396e4fe8c366fc453b5a4bec02", null ],
-    [ "i_check", "d6/d7c/a09510.html#a71152e100ea7c72eceb5cda470d5a2f3", null ],
-    [ "i_object", "d6/d7c/a09510.html#ad1c14442e0f1b5d9ee43639077c75876", null ],
-    [ "i_phaseMask", "d6/d7c/a09510.html#ac11e036da088f6e62556c42965530040", null ]
+    [ "CreatureRelocationNotifier", "d6/d7c/a09510.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "d6/d7c/a09510.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "d6/d7c/a09510.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "d6/d7c/a09510.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

@@ -1,10 +1,8 @@
 var a05954 =
 [
-    [ "BasicStatementTask", "d9/d23/a05954.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
-    [ "~BasicStatementTask", "d9/d23/a05954.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
-    [ "Execute", "d9/d23/a05954.html#a7f500736cc0ec4cddf94510927989d4d", null ],
-    [ "GetFuture", "d9/d23/a05954.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
-    [ "m_has_result", "d9/d23/a05954.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
-    [ "m_result", "d9/d23/a05954.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
-    [ "m_sql", "d9/d23/a05954.html#a9320235413d1c4736301070e1faeb161", null ]
+    [ "BaseSocketMgr", "d9/d23/a05954.html#a55ca5c800a783d89fbe05bd945374b84", null ],
+    [ "CreateThreads", "d9/d23/a05954.html#a98a0866ae616017010f639f0ad9fc72d", null ],
+    [ "Instance", "d9/d23/a05954.html#a9c56ed247f209709221a3e592f4d010f", null ],
+    [ "OnSocketAccept", "d9/d23/a05954.html#a02b81323eba1428f9b5eebf7f5edc393", null ],
+    [ "StartNetwork", "d9/d23/a05954.html#a345e4f8cc1c216ed7eb9c3e96748170f", null ]
 ];

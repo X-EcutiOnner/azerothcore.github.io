@@ -1,6 +1,6 @@
 var a10990 =
 [
-    [ "GuildDemoteMember", "d2/dc7/a10990.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "d2/dc7/a10990.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "d2/dc7/a10990.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "GuildEventLogQueryResults", "d2/dc7/a10990.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "d2/dc7/a10990.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "d2/dc7/a10990.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

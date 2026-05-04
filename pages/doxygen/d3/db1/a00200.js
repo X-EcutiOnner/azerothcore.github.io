@@ -1,6 +1,6 @@
 var a00200 =
 [
-    [ "CharacterDatabase", "d3/db1/a00200.html#a7e7534bc66d79434bd280b77cb124eec", null ],
-    [ "LoginDatabase", "d3/db1/a00200.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
-    [ "WorldDatabase", "d3/db1/a00200.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
+    [ "GetLibraryVersion", "d3/db1/a00200.html#aefa4bd51f34aad2d1a141c00a2310092", null ],
+    [ "Library_End", "d3/db1/a00200.html#aff44554b66bd7ef0e21f1db5beb0b81a", null ],
+    [ "Library_Init", "d3/db1/a00200.html#a70b74137156f0a22792c3cf95c54decc", null ]
 ];

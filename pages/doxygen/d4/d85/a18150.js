@@ -1,6 +1,7 @@
 var a18150 =
 [
-    [ "boss_rotfaceAI", "d7/d4f/a18154.html", "d7/d4f/a18154" ],
-    [ "boss_rotface", "d4/d85/a18150.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "d4/d85/a18150.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "CheckRequirement", "d4/d85/a18150.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
+    [ "CheckRequirementInternal", "d4/d85/a18150.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
+    [ "PrepareSpellScript", "d4/d85/a18150.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
+    [ "Register", "d4/d85/a18150.html#a95a250aeb3a41922c529f476d39f18e4", null ]
 ];

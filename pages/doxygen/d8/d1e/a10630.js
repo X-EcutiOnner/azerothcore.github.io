@@ -1,5 +1,5 @@
 var a10630 =
 [
-    [ "GenericGameObjectScript", "d8/d1e/a10630.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
-    [ "GetAI", "d8/d1e/a10630.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
+    [ "CommandScript", "d8/d1e/a10630.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
+    [ "GetCommands", "d8/d1e/a10630.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
 ];

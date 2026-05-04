@@ -1,7 +1,8 @@
 var a22526 =
 [
-    [ "boss_lady_malande", "dd/d67/a22526.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "dd/d67/a22526.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "dd/d67/a22526.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "dd/d67/a22526.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "FilterTargets", "dd/d67/a22526.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "dd/d67/a22526.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "dd/d67/a22526.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "dd/d67/a22526.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "dd/d67/a22526.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

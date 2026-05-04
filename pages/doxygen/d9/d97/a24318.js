@@ -1,10 +1,9 @@
 var a24318 =
 [
-    [ "HandleEffectRemove", "d9/d97/a24318.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
-    [ "HandleImprovedBloodPresence", "d9/d97/a24318.html#a020c0ae1f74856ae070ab2104232a079", null ],
-    [ "HandleImprovedFrostPresence", "d9/d97/a24318.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
-    [ "HandleImprovedUnholyPresence", "d9/d97/a24318.html#a5da86bb3686327787da5f46fc756f0a0", null ],
-    [ "PrepareAuraScript", "d9/d97/a24318.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
-    [ "Register", "d9/d97/a24318.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
-    [ "Validate", "d9/d97/a24318.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
+    [ "CheckProc", "d9/d97/a24318.html#a13245a545210eed1ddfd7c49c4a43f6b", null ],
+    [ "HandleProc", "d9/d97/a24318.html#aeec6c9e949d1edc09259a55583b3bae2", null ],
+    [ "Load", "d9/d97/a24318.html#ae3ffe29eef4f803f08ab728d959f1932", null ],
+    [ "PeriodicTick", "d9/d97/a24318.html#a1621c06bce0a28a2416385563b989cbf", null ],
+    [ "PrepareAuraScript", "d9/d97/a24318.html#a79a8c2a9ef00a9c1a2bba481e9cc522f", null ],
+    [ "Register", "d9/d97/a24318.html#ad47775cc21d4d5e0c28b68c68d595a39", null ]
 ];

@@ -1,4 +1,5 @@
 var a04379 =
 [
-    [ "CliThread", "d1/d91/a05009.html#ga2a2e263e5224262317a4728b5a4c18ac", null ]
+    [ "AuthSocketMgr", "d9/d23/a05954.html", "d9/d23/a05954" ],
+    [ "sAuthSocketMgr", "d7/d62/a04379.html#abd297ee25e8d77bf56f22d43561d9451", null ]
 ];

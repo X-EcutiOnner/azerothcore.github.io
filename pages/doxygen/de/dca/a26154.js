@@ -1,9 +1,8 @@
 var a26154 =
 [
-    [ "HandleAfterCast", "de/dca/a26154.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "de/dca/a26154.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "de/dca/a26154.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "de/dca/a26154.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "de/dca/a26154.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "de/dca/a26154.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "HandleDummy", "de/dca/a26154.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "de/dca/a26154.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "de/dca/a26154.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "de/dca/a26154.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "de/dca/a26154.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

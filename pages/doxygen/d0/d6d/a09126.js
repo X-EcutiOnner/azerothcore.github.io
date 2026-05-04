@@ -1,19 +1,9 @@
 var a09126 =
 [
-    [ "CalculateAutumnEquinox", "d0/d6d/a09126.html#a266780f29cf8969f74aa1e7ba56c71f6", null ],
-    [ "CalculateEasterSunday", "d0/d6d/a09126.html#a7877b9590552f951cebda62021634445", null ],
-    [ "CalculateHolidayDate", "d0/d6d/a09126.html#a101d5befdf785359441da4cf7b577b32", null ],
-    [ "CalculateLunarNewYear", "d0/d6d/a09126.html#a341be2e060a41c0be7a70fdabe608c6b", null ],
-    [ "CalculateNewMoon", "d0/d6d/a09126.html#a6db890c706217c35c8579a0d14e240c4", null ],
-    [ "CalculateNthWeekday", "d0/d6d/a09126.html#a4e98186819af811251e80e69ae96c13b", null ],
-    [ "CalculateWeekdayOnOrAfter", "d0/d6d/a09126.html#af29aa127743e914f29ed413a13fca808", null ],
-    [ "CalculateWinterSolstice", "d0/d6d/a09126.html#aeeb30fa2ae99b92963b2c7309d0314e7", null ],
-    [ "DateToJulianDay", "d0/d6d/a09126.html#a8895f79fb06caa15c3bd4b7341dc769d", null ],
-    [ "FindStartTimeForStage", "d0/d6d/a09126.html#ad67e9add59e743a47b087e62737eab7e", null ],
-    [ "GetDarkmoonFaireDates", "d0/d6d/a09126.html#a6e27a5ec3e65f21f17a9f2a61cc23022", null ],
-    [ "GetHolidayRules", "d0/d6d/a09126.html#af9cc71880618916280c3b783001f9a09", null ],
-    [ "GetPackedHolidayDate", "d0/d6d/a09126.html#a787a8a7a5316fee2f488ba60e62ac6ea", null ],
-    [ "JulianDayToDate", "d0/d6d/a09126.html#a133ee41b0b50d9eed90cd185aeec24c1", null ],
-    [ "PackDate", "d0/d6d/a09126.html#ab39f6c1b37867d57464a6243c14e3610", null ],
-    [ "UnpackDate", "d0/d6d/a09126.html#a9a1229709b2406953d4627e753a543b3", null ]
+    [ "TransportBase", "d0/d6d/a09126.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "d0/d6d/a09126.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "d0/d6d/a09126.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "d0/d6d/a09126.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "d0/d6d/a09126.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "d0/d6d/a09126.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

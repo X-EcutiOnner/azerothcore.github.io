@@ -1,6 +1,7 @@
 var a08254 =
 [
-    [ "LfgWaitTime", "d0/d0b/a08254.html#a1d80e0848c06c658a4c0587b686fe09d", null ],
-    [ "number", "d0/d0b/a08254.html#ae6bd7db37ac17752edbc8d336081b91e", null ],
-    [ "time", "d0/d0b/a08254.html#a0d0ef1b3552e5298763a3f28714bc864", null ]
+    [ "LfgProposalPlayer", "d0/d0b/a08254.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
+    [ "accept", "d0/d0b/a08254.html#acbf0ce1e12307569487096dc5ca544a6", null ],
+    [ "group", "d0/d0b/a08254.html#a900f24e9caaa1569eeea93b4284139a1", null ],
+    [ "role", "d0/d0b/a08254.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
 ];

@@ -1,11 +1,22 @@
 var a16642 =
 [
-    [ "npc_anubarak_spikeAI", "dd/d29/a16642.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
-    [ "DamageTaken", "dd/d29/a16642.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
-    [ "DoAction", "dd/d29/a16642.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
-    [ "Reset", "dd/d29/a16642.html#af5b4a1227467d86d9dbba57362fdf360", null ],
-    [ "SelectNewTarget", "dd/d29/a16642.html#ab9ed5d53703464c488267f578a214fb8", null ],
-    [ "UpdateAI", "dd/d29/a16642.html#af8d6d840785c718d963c7b150cd12d9c", null ],
-    [ "events", "dd/d29/a16642.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
-    [ "TargetGUID", "dd/d29/a16642.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
+    [ "boss_anubarak_trialAI", "dd/d29/a16642.html#a2b9b422807b2560a297a4b4ea878d98d", null ],
+    [ "CanAIAttack", "dd/d29/a16642.html#a97b230905713b3a01db532c91e69ec6b", null ],
+    [ "DoAction", "dd/d29/a16642.html#a141aa4e5169359962d0a229434cd010a", null ],
+    [ "EnterEvadeMode", "dd/d29/a16642.html#a1702bb381ff62d12b8bbef7b29469048", null ],
+    [ "JustDied", "dd/d29/a16642.html#addca5c80496dcc2e78d57e72ae043f6e", null ],
+    [ "JustEngagedWith", "dd/d29/a16642.html#a993cace98f8d01776294647f0bed3ec9", null ],
+    [ "JustReachedHome", "dd/d29/a16642.html#a18727c6c31f2b0366283f2a302cf08c4", null ],
+    [ "JustSummoned", "dd/d29/a16642.html#a7fe3f62c3765bd0ac9d70a279ccacb0d", null ],
+    [ "KilledUnit", "dd/d29/a16642.html#ac4b58e0076d41eb7352d0b9bbe2be425", null ],
+    [ "MoveInLineOfSight", "dd/d29/a16642.html#a53223573a01fa1090a76c34ded41b998", null ],
+    [ "Reset", "dd/d29/a16642.html#a96adc3d74fa30a29586f3cbaad704a03", null ],
+    [ "UpdateAI", "dd/d29/a16642.html#a428abed225aebdb715e7495af4db0ead", null ],
+    [ "bIntro", "dd/d29/a16642.html#a274d47932de9549bcf6b560e81f34475", null ],
+    [ "bPhase3", "dd/d29/a16642.html#a56778ef57482fd6b40110524a6771137", null ],
+    [ "BurrowGUID", "dd/d29/a16642.html#aa41fd65b3ab5fcdce31a977799224363", null ],
+    [ "events", "dd/d29/a16642.html#a98039ee036e7d0aa2ad3fd40f7cfacb1", null ],
+    [ "pInstance", "dd/d29/a16642.html#ab26458d5876c3c0104c7b4adf5a45333", null ],
+    [ "SphereGUID", "dd/d29/a16642.html#a1d0b62673e3317095b29a70196c9ce66", null ],
+    [ "summons", "dd/d29/a16642.html#a33b1f3105d175f066176cc6159884f45", null ]
 ];

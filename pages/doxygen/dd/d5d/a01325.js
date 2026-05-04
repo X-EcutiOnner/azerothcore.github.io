@@ -1,13 +1,4 @@
 var a01325 =
 [
-    [ "SkillPerfectItemEntry", "d8/d5b/a11589.html", "d8/d5b/a11589" ],
-    [ "SkillExtraItemEntry", "d0/d78/a11593.html", "d0/d78/a11593" ],
-    [ "SkillExtraItemMap", "dd/d5d/a01325.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
-    [ "SkillPerfectItemMap", "dd/d5d/a01325.html#ad732be66d93ed6e8f498077f27e2766b", null ],
-    [ "canCreateExtraItems", "dd/d5d/a01325.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "dd/d5d/a01325.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "dd/d5d/a01325.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "dd/d5d/a01325.html#a121df170a82be5ab5b05999a6be27b69", null ],
-    [ "SkillExtraItemStore", "dd/d5d/a01325.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
-    [ "SkillPerfectItemStore", "dd/d5d/a01325.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
+    [ "GetAge", "dd/d5d/a01325.html#a347e0449afd73dbcc6c084dbe72af6c8", null ]
 ];

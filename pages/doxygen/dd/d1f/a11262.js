@@ -1,7 +1,9 @@
 var a11262 =
 [
-    [ "StopMirrorTimer", "dd/d1f/a11262.html#aabd646c82f3dcdff2eef2158c6724dff", null ],
-    [ "StopMirrorTimer", "dd/d1f/a11262.html#a25f930852c7124cdfbf73687e62a26d1", null ],
-    [ "Write", "dd/d1f/a11262.html#ae99dab4406316eac99a6e0e0146d879e", null ],
-    [ "Timer", "dd/d1f/a11262.html#a5e5cf56b83aca514cff34c1a17f2d3b1", null ]
+    [ "LevelUpInfo", "dd/d1f/a11262.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "dd/d1f/a11262.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "dd/d1f/a11262.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "dd/d1f/a11262.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "dd/d1f/a11262.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "dd/d1f/a11262.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

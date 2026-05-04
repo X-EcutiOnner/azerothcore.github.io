@@ -1,11 +1,8 @@
 var a11622 =
 [
-    [ "SpellValue", "d0/db0/a11622.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
-    [ "AuraDuration", "d0/db0/a11622.html#af44c190ba8a8636d78f8d271656bdd02", null ],
-    [ "AuraStackAmount", "d0/db0/a11622.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
-    [ "EffectBasePoints", "d0/db0/a11622.html#a4de44adea4dc620f0871215e4d4f611d", null ],
-    [ "ForcedCritResult", "d0/db0/a11622.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
-    [ "MaxAffectedTargets", "d0/db0/a11622.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
-    [ "MiscVal", "d0/db0/a11622.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
-    [ "RadiusMod", "d0/db0/a11622.html#a135bbce8300101411e87a70467dbbd57", null ]
+    [ "SkillExtraItemEntry", "d0/db0/a11622.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "d0/db0/a11622.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "d0/db0/a11622.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "d0/db0/a11622.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "d0/db0/a11622.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

@@ -1,15 +1,6 @@
 var a21510 =
 [
-    [ "npc_q24545_lich_kingAI", "d1/dee/a21510.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
-    [ "CleanAll", "d1/dee/a21510.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
-    [ "JustSummoned", "d1/dee/a21510.html#a6049433795be30eb31e240a4939ad42f", null ],
-    [ "Reset", "d1/dee/a21510.html#aebd396de51edef790cd0b599c94f78a0", null ],
-    [ "SetData", "d1/dee/a21510.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
-    [ "SetGUID", "d1/dee/a21510.html#ac7c41ebfa7979907aea246af20bcf368", null ],
-    [ "SpellHitTarget", "d1/dee/a21510.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
-    [ "SummonedCreatureDespawn", "d1/dee/a21510.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
-    [ "UpdateAI", "d1/dee/a21510.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
-    [ "events", "d1/dee/a21510.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
-    [ "playerGUID", "d1/dee/a21510.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
-    [ "summons", "d1/dee/a21510.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
+    [ "npc_spiritual_insightAI", "de/da8/a21514.html", "de/da8/a21514" ],
+    [ "npc_spiritual_insight", "d1/dee/a21510.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "d1/dee/a21510.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

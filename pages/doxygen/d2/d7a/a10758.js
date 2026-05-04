@@ -1,9 +1,10 @@
 var a10758 =
 [
-    [ "fX", "d2/d7a/a10758.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
-    [ "fY", "d2/d7a/a10758.html#a9b158e247014eec0d35e465ab9469ac7", null ],
-    [ "fZ", "d2/d7a/a10758.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
-    [ "uiCreatureEntry", "d2/d7a/a10758.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
-    [ "uiPointId", "d2/d7a/a10758.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
-    [ "uiWaitTime", "d2/d7a/a10758.html#a305620aad71152c1139a88dea05a1887", null ]
+    [ "VehicleScript", "d2/d7a/a10758.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "d2/d7a/a10758.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "d2/d7a/a10758.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "d2/d7a/a10758.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "d2/d7a/a10758.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "d2/d7a/a10758.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "d2/d7a/a10758.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

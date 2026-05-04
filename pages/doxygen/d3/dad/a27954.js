@@ -1,5 +1,10 @@
 var a27954 =
 [
-    [ "go_sacred_fire_of_life", "d3/dad/a27954.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d3/dad/a27954.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "guard_shattrath_scryerAI", "d3/dad/a27954.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d3/dad/a27954.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d3/dad/a27954.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d3/dad/a27954.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d3/dad/a27954.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d3/dad/a27954.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d3/dad/a27954.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

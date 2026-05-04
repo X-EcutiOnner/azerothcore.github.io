@@ -1,10 +1,8 @@
 var a28094 =
 [
-    [ "npc_prof_blacksmith", "d5/d2c/a28094.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d5/d2c/a28094.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d5/d2c/a28094.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d5/d2c/a28094.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d5/d2c/a28094.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d5/d2c/a28094.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d5/d2c/a28094.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "npc_training_dummy", "d5/d2c/a28094.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
+    [ "DamageTaken", "d5/d2c/a28094.html#accd7c39cd7b22b30e654288b034f1319", null ],
+    [ "JustEnteredCombat", "d5/d2c/a28094.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
+    [ "UpdateAI", "d5/d2c/a28094.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
+    [ "_combatTimer", "d5/d2c/a28094.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
 ];

@@ -1,7 +1,17 @@
 var a13210 =
 [
-    [ "HandleScriptEffect", "da/d69/a13210.html#a1b196f3817c16fac48392981b58c1a05", null ],
-    [ "PrepareSpellScript", "da/d69/a13210.html#ad44566ff9a44057679e7ce8e1959776d", null ],
-    [ "Register", "da/d69/a13210.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
-    [ "Validate", "da/d69/a13210.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
+    [ "boss_priestess_lackey_commonAI", "da/d69/a13210.html#acf122076823631cef5d66e03a9f607aa", null ],
+    [ "AttackStart", "da/d69/a13210.html#a6056ef3425f39208e5731b25fc94a335", null ],
+    [ "EnterEvadeMode", "da/d69/a13210.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
+    [ "GetThreatMod", "da/d69/a13210.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
+    [ "JustDied", "da/d69/a13210.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
+    [ "JustEngagedWith", "da/d69/a13210.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
+    [ "JustSummoned", "da/d69/a13210.html#a9a7bcf641bae31827872faf7666635d5", null ],
+    [ "KilledUnit", "da/d69/a13210.html#a23aaa0a619470898dd617a18130ca17b", null ],
+    [ "RecalculateThreat", "da/d69/a13210.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
+    [ "Reset", "da/d69/a13210.html#aa2ef03d73c43668c97205fa72414e71b", null ],
+    [ "UpdateAI", "da/d69/a13210.html#adf87bd797da345e49700265319d808cc", null ],
+    [ "aiType", "da/d69/a13210.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
+    [ "instance", "da/d69/a13210.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
+    [ "summons", "da/d69/a13210.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
 ];

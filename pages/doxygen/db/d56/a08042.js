@@ -1,11 +1,5 @@
 var a08042 =
 [
-    [ "EnchantId", "db/d56/a08042.html#ad68d4f09195ba9c2a74bc9187e1cc1dd", null ],
-    [ "GemEnchantId", "db/d56/a08042.html#a680481a1dcc0a163cabeb02e426d89cd", null ],
-    [ "IsBuggedInspectLink", "db/d56/a08042.html#a1db96c31b140774302c633e99bcea93f", null ],
-    [ "Item", "db/d56/a08042.html#a89b08bf0a3fb31ef6c0f71919b05195e", null ],
-    [ "RandomProperty", "db/d56/a08042.html#a07871677ea967da347a6debafa7c91e7", null ],
-    [ "RandomSuffix", "db/d56/a08042.html#a39126c77bdd1d3d850a20cf02bb034ae", null ],
-    [ "RandomSuffixBaseAmount", "db/d56/a08042.html#aa9a99d071ee623b0df6f456199e1262a", null ],
-    [ "RenderLevel", "db/d56/a08042.html#acb1024455a3b847ea13390c05b79cd0c", null ]
+    [ "IsColorValid", "db/d56/a08042.html#a6fca3f0ea620fbef8ed532ddb26875a0", null ],
+    [ "IsTextValid", "db/d56/a08042.html#aef8ebbb11dc11311ba7152732a1ace58", null ]
 ];

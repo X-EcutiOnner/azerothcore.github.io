@@ -1,7 +1,6 @@
 var a27594 =
 [
-    [ "HandleGlyph", "d5/dad/a27594.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
-    [ "PrepareSpellScript", "d5/dad/a27594.html#adffd8b39adef397a886a66465e09f68b", null ],
-    [ "Register", "d5/dad/a27594.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
-    [ "Validate", "d5/dad/a27594.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
+    [ "achievement_arena_by_type", "d5/dad/a27594.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d5/dad/a27594.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d5/dad/a27594.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

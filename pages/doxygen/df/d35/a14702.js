@@ -1,10 +1,8 @@
 var a14702 =
 [
-    [ "boss_headless_horseman_pumpkin", "df/d35/a14702.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "df/d35/a14702.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "df/d35/a14702.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "df/d35/a14702.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "df/d35/a14702.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "df/d35/a14702.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "df/d35/a14702.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "HandleDummy", "df/d35/a14702.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
+    [ "Load", "df/d35/a14702.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
+    [ "PrepareSpellScript", "df/d35/a14702.html#af1d1ad32d41d79008d650b388353346b", null ],
+    [ "Register", "df/d35/a14702.html#a53a7c4c025324b205a29f92dd48aefde", null ],
+    [ "handled", "df/d35/a14702.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
 ];

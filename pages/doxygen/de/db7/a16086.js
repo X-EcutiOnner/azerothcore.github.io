@@ -1,7 +1,7 @@
 var a16086 =
 [
-    [ "npc_ahnkahar_nerubian", "de/db7/a16086.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "de/db7/a16086.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "de/db7/a16086.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "de/db7/a16086.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "go_troll_cageAI", "de/db7/a16086.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "de/db7/a16086.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "de/db7/a16086.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "de/db7/a16086.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

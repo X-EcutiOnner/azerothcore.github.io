@@ -1,4 +1,7 @@
 var a08318 =
 [
-    [ "Name", "d0/dc4/a08318.html#a624a1c1204cbc15acfc810a7720b8ea0", null ]
+    [ "ForcedDespawnDelayEvent", "d0/dc4/a08318.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
+    [ "Execute", "d0/dc4/a08318.html#a735c709b269458911bd93da1902cbe25", null ],
+    [ "m_owner", "d0/dc4/a08318.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
+    [ "m_respawnTimer", "d0/dc4/a08318.html#a5db78930a1fda07f2020b23158ebb93d", null ]
 ];

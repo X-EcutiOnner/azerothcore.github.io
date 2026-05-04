@@ -1,7 +1,5 @@
 var a25178 =
 [
-    [ "OnRemove", "df/de9/a25178.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
-    [ "PrepareAuraScript", "df/de9/a25178.html#ac2b1a2311f97ab427439b45fb0770063", null ],
-    [ "Register", "df/de9/a25178.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
-    [ "Validate", "df/de9/a25178.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
+    [ "PrepareSpellScript", "df/de9/a25178.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
+    [ "Register", "df/de9/a25178.html#ae176a1f643797b5367a593bbb2acc506", null ]
 ];

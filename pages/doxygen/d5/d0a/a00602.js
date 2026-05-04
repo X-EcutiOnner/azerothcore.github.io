@@ -1,8 +1,9 @@
 var a00602 =
 [
-    [ "GameObjectScript", "d6/d99/a10637.html", "d6/d99/a10637" ],
-    [ "GenericGameObjectScript< AI >", "dd/d76/a10641.html", "dd/d76/a10641" ],
-    [ "FactoryGameObjectScript< AI, AIFactory >", "df/d3c/a10645.html", "df/d3c/a10645" ],
-    [ "RegisterGameObjectAI", "d5/d0a/a00602.html#a87397a2ba2a1acd88f62793eae9aa30e", null ],
-    [ "RegisterGameObjectAIWithFactory", "d5/d0a/a00602.html#a1614f98721d8a94351c4be15a72e499f", null ]
+    [ "DatabaseScript", "d7/d7b/a10650.html", "d7/d7b/a10650" ],
+    [ "DatabaseHook", "d5/d0a/a00602.html#a5f7dd71299279ad5a845d4d4030e707e", [
+      [ "DATABASEHOOK_ON_AFTER_DATABASES_LOADED", "d5/d0a/a00602.html#a5f7dd71299279ad5a845d4d4030e707ea669793dd5bb736daf7bf4e7a57422171", null ],
+      [ "DATABASEHOOK_ON_AFTER_DATABASE_LOAD_CREATURETEMPLATES", "d5/d0a/a00602.html#a5f7dd71299279ad5a845d4d4030e707ea5da0ac4b05308347ca9a69286153d974", null ],
+      [ "DATABASEHOOK_END", "d5/d0a/a00602.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04", null ]
+    ] ]
 ];

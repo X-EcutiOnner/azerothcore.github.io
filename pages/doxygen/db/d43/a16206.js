@@ -1,5 +1,17 @@
 var a16206 =
 [
-    [ "achievement_hadronox_denied", "db/d43/a16206.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
-    [ "OnCheck", "db/d43/a16206.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
+    [ "npc_hadronox_crusherPackAI", "db/d43/a16206.html#a87d2baf69aecf42ad9b40ff993462e2c", null ],
+    [ "DoAction", "db/d43/a16206.html#a37b0af619fe374f809c0a41d340e5772", null ],
+    [ "DoEngagedWith", "db/d43/a16206.html#a4a6a7b835357fa63d3fc95b3676a5451", null ],
+    [ "DoEvent", "db/d43/a16206.html#a7ed620b7288a89f83150f49f0883f38b", null ],
+    [ "GetData", "db/d43/a16206.html#ae6a622e916a8e957eb3a4bf1b6563736", null ],
+    [ "JustEngagedWith", "db/d43/a16206.html#abc2842315c49bad32ea04b0d67e7d903", null ],
+    [ "MoveInLineOfSight", "db/d43/a16206.html#a1801b218fe0ad79b8e8710f2ffd177ad", null ],
+    [ "MovementInform", "db/d43/a16206.html#a810f890a7c57811e683f063f4c9fdcf4", null ],
+    [ "SetData", "db/d43/a16206.html#a99c1bcd23e068cba7e663fba2953b059", null ],
+    [ "UpdateAI", "db/d43/a16206.html#a0c84d3d559791416cdbc316cc3e8edfc", null ],
+    [ "_doFacing", "db/d43/a16206.html#a522540365169c2e73aa69914c350cbd0", null ],
+    [ "_instance", "db/d43/a16206.html#a050359a9f4a7556c6793337d7f654543", null ],
+    [ "_myPack", "db/d43/a16206.html#a4c297d590ec5e7e1efb079a61d34d437", null ],
+    [ "_positions", "db/d43/a16206.html#a811105fc340ac25bdc61ede98387e430", null ]
 ];

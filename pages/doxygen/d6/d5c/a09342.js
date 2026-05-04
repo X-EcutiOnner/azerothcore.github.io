@@ -1,5 +1,6 @@
 var a09342 =
 [
-    [ "MaxAllowedCount", "d6/d5c/a09342.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
-    [ "Policy", "d6/d5c/a09342.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
+    [ "EmoteDelay", "d6/d5c/a09342.html#a053adbedc95026b192360e13d32c9401", null ],
+    [ "EmoteType", "d6/d5c/a09342.html#aa5189cb250b3f46086ecd69dee23414b", null ],
+    [ "Greeting", "d6/d5c/a09342.html#a84aa5fced9b8989487d1468c4eccb976", null ]
 ];

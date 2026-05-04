@@ -1,6 +1,7 @@
 var a25602 =
 [
-    [ "HandleOnEffectHit", "d8/d44/a25602.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
-    [ "PrepareSpellScript", "d8/d44/a25602.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
-    [ "Register", "d8/d44/a25602.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
+    [ "HandleDummy", "d8/d44/a25602.html#a7a8016e1403caa0432242c5c3240f107", null ],
+    [ "PrepareSpellScript", "d8/d44/a25602.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
+    [ "Register", "d8/d44/a25602.html#abd09f5df3f31af619f24214f90791a53", null ],
+    [ "Validate", "d8/d44/a25602.html#ab14aedfdb61d54334f60e57968fcf081", null ]
 ];

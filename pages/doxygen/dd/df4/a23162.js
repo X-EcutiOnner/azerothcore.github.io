@@ -1,11 +1,8 @@
 var a23162 =
 [
-    [ "boss_gruul", "dd/df4/a23162.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "dd/df4/a23162.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "dd/df4/a23162.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "dd/df4/a23162.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "dd/df4/a23162.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "dd/df4/a23162.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "dd/df4/a23162.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "dd/df4/a23162.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "boss_broggok", "dd/df4/a23162.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "dd/df4/a23162.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "dd/df4/a23162.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "dd/df4/a23162.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "dd/df4/a23162.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

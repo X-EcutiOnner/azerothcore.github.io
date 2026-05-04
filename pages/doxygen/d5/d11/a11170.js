@@ -1,10 +1,10 @@
 var a11170 =
 [
-    [ "BuyItem", "d5/d11/a11170.html#a3069d333bccadf53310ce86118b2c224", null ],
-    [ "Read", "d5/d11/a11170.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
-    [ "Count", "d5/d11/a11170.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
-    [ "Item", "d5/d11/a11170.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
-    [ "Slot", "d5/d11/a11170.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
-    [ "Unk", "d5/d11/a11170.html#aaf2b6aefb11379325b8cf9931abff638", null ],
-    [ "VendorGuid", "d5/d11/a11170.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
+    [ "SplitItem", "d5/d11/a11170.html#a805c2c75e93d7ef839b3758ffd59f6c6", null ],
+    [ "Read", "d5/d11/a11170.html#a59edb1d3445897bfaff1e97d703b42bb", null ],
+    [ "Count", "d5/d11/a11170.html#a097ed361c33f7415ed4d7efe6ab985e8", null ],
+    [ "DestinationBag", "d5/d11/a11170.html#ac60d1b0b51ef1b91fd51d900bb825153", null ],
+    [ "DestinationSlot", "d5/d11/a11170.html#aaf03b2ba6c3519008515c75f6f09aa60", null ],
+    [ "SourceBag", "d5/d11/a11170.html#aa87bc282a672ae8f9a747ad65400ef03", null ],
+    [ "SourceSlot", "d5/d11/a11170.html#a82dbf4e94d9bb1a352bf03d76a14950b", null ]
 ];

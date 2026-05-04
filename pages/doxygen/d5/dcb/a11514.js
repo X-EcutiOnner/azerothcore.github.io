@@ -1,6 +1,12 @@
 var a11514 =
 [
-    [ "WorldSessionFilter", "d5/dcb/a11514.html#aba91eb2dfd56201534743b2d458fa111", null ],
-    [ "~WorldSessionFilter", "d5/dcb/a11514.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
-    [ "Process", "d5/dcb/a11514.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
+    [ "Build", "d5/dcb/a11514.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "d5/dcb/a11514.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "d5/dcb/a11514.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "d5/dcb/a11514.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "d5/dcb/a11514.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "d5/dcb/a11514.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "d5/dcb/a11514.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "d5/dcb/a11514.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "d5/dcb/a11514.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

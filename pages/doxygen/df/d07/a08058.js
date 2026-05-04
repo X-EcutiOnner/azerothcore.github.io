@@ -1,7 +1,5 @@
 var a08058 =
 [
-    [ "StoreTo", "df/d07/a08058.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
-    [ "StoreTo", "df/d07/a08058.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
-    [ "StoreTo", "df/d07/a08058.html#a071922c9c431637de3cb2d6b52def7bd", null ],
-    [ "StoreTo", "df/d07/a08058.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
+    [ "IsColorValid", "df/d07/a08058.html#a4bb1cd2a247136daadfa36f85b50a65d", null ],
+    [ "IsTextValid", "df/d07/a08058.html#a25b0d16c232ab67fc75a81a494fb5815", null ]
 ];

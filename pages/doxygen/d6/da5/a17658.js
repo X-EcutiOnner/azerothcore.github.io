@@ -1,9 +1,12 @@
 var a17658 =
 [
-    [ "FilterTargetsInitial", "d6/da5/a17658.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "d6/da5/a17658.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "d6/da5/a17658.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "d6/da5/a17658.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "d6/da5/a17658.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "d6/da5/a17658.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "npc_high_overlord_saurfangAI", "d6/da5/a17658.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "d6/da5/a17658.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "d6/da5/a17658.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "d6/da5/a17658.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "d6/da5/a17658.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "d6/da5/a17658.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "d6/da5/a17658.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "d6/da5/a17658.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "d6/da5/a17658.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

@@ -1,9 +1,6 @@
 var a26302 =
 [
-    [ "AllowT10Proc", "de/d1c/a26302.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
-    [ "OnRemove", "de/d1c/a26302.html#a52807f94eba44a9b574577a0b27acb22", null ],
-    [ "PrepareAuraScript", "de/d1c/a26302.html#a430303b7df445d38da9316324359c2d6", null ],
-    [ "Register", "de/d1c/a26302.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
-    [ "Validate", "de/d1c/a26302.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
-    [ "_canProcT10", "de/d1c/a26302.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
+    [ "HandleEffectCalcSpellMod", "de/d1c/a26302.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "de/d1c/a26302.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "de/d1c/a26302.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

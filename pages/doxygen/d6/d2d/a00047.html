@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/CascadeProcSuppressionTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellImmunityTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,94 +106,160 @@ $(document).ready(function(){initNavTree('d6/d2d/a00047.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">CascadeProcSuppressionTest.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">SpellImmunityTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><a class="el" href="../../da/d68/a09041.html">Unit</a> tests for cascade proc suppression via SPELL_ATTR3_INSTANT_TARGET_PROCS.  
+<p>Tests for spell immunity mechanics.  
 <a href="#details">More...</a></p>
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellInfoTestHelper.h</a>&quot;</code><br />
-<code>#include &quot;gtest/gtest.h&quot;</code><br />
+<div class="textblock"><code>#include &quot;gtest/gtest.h&quot;</code><br />
+<code>#include &lt;algorithm&gt;</code><br />
+<code>#include &lt;array&gt;</code><br />
+<code>#include &lt;cstdint&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0f/a29474.html">anonymous_namespace{SpellImmunityTest.cpp}::EffectDesc</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dd6/a29478.html">anonymous_namespace{SpellImmunityTest.cpp}::SpellDesc</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d35/a29321.html">CascadeProcRealSpellTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d4c/a29482.html">anonymous_namespace{SpellImmunityTest.cpp}::EffectApplyResult</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:dc/d0c/a05122"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html">anonymous_namespace{SpellImmunityTest.cpp}</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:ad4f0bfb68d839af88604b04ff47ee09b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09b">anonymous_namespace{SpellImmunityTest.cpp}::EffectType</a> : uint8_t { <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09ba24edc96a60f35387b2a916bbd47597b9">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_NONE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_SCHOOL_DAMAGE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09badf7d20f7f73744f8801a9e3722859857">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_HEALTH_LEECH</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09ba7f780b287e075a337dec7f1eff2f7fe6">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_POWER_DRAIN</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09baa3b002d33deb9b0c599313ec88fbacbe">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_POWER_BURN</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09bad0131549c4802cb811d2fabffcb09a86">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_NORMALIZED_WEAPON_DMG</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09ba789f2fcff65ef9724496bdd61374c413">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_WEAPON_PERCENT_DAMAGE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_APPLY_AURA</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09ba3beec166914f7490f010caa66eca7140">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_DUMMY</a>
+<br />
+ }</td></tr>
+<tr class="separator:ad4f0bfb68d839af88604b04ff47ee09b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3c8788e4514711f326743e17cf18f33"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#ab3c8788e4514711f326743e17cf18f33">anonymous_namespace{SpellImmunityTest.cpp}::AuraType</a> : uint8_t { <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c">anonymous_namespace{SpellImmunityTest.cpp}::AURA_NONE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ab3c8788e4514711f326743e17cf18f33a1bb3542c472e476df1856aac0f5ccf48">anonymous_namespace{SpellImmunityTest.cpp}::AURA_MOD_DECREASE_SPEED</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ab3c8788e4514711f326743e17cf18f33a6a2e2898c74255e2be848f8d851cd61b">anonymous_namespace{SpellImmunityTest.cpp}::AURA_PERIODIC_DAMAGE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ab3c8788e4514711f326743e17cf18f33a856d9e6ed0a25dd7d099adeed0e46680">anonymous_namespace{SpellImmunityTest.cpp}::AURA_TRANSFORM</a>
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d0c/a05122.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace">anonymous_namespace{SpellImmunityTest.cpp}::AURA_MOD_STUN</a>
+<br />
+ }</td></tr>
+<tr class="separator:ab3c8788e4514711f326743e17cf18f33"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:af2c476b9074527e551bb3e269ab0e14a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#af2c476b9074527e551bb3e269ab0e14a">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>, NormalSpellNormalAura_NotSuppressed)</td></tr>
-<tr class="separator:af2c476b9074527e551bb3e269ab0e14a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d712040cde4f4fc1498c86d1a8c1a2c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a1d712040cde4f4fc1498c86d1a8c1a2c">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>, ProcDisabledSpell_NormalAura_Suppressed)</td></tr>
-<tr class="separator:a1d712040cde4f4fc1498c86d1a8c1a2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab78bd7e3715bc34e2a980043d6ac2cae"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#ab78bd7e3715bc34e2a980043d6ac2cae">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>, ProcDisabledSpell_WithAttr_Suppressed)</td></tr>
-<tr class="separator:ab78bd7e3715bc34e2a980043d6ac2cae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a111eadd5b4ba536e22a70ee1ac1a8010"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a111eadd5b4ba536e22a70ee1ac1a8010">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>, NormalSpell_AuraWithAttr_Suppressed)</td></tr>
-<tr class="separator:a111eadd5b4ba536e22a70ee1ac1a8010"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae7f0c3a70baa5f99f17ebd2079eec6d6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#ae7f0c3a70baa5f99f17ebd2079eec6d6">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>, SpellInfo_WithAttr_HasAttributeReturnsTrue)</td></tr>
-<tr class="separator:ae7f0c3a70baa5f99f17ebd2079eec6d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16cd6603e2c42c8fb68258736fe6daf1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a16cd6603e2c42c8fb68258736fe6daf1">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>, SpellInfo_WithoutAttr_HasAttributeReturnsFalse)</td></tr>
-<tr class="separator:a16cd6603e2c42c8fb68258736fe6daf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acdeb87fc2a70920a25f69077f5b9f3bc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#acdeb87fc2a70920a25f69077f5b9f3bc">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>, SpellInfo_WithMixedBits_HasAttributeReturnsTrue)</td></tr>
-<tr class="separator:acdeb87fc2a70920a25f69077f5b9f3bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af27813ec1b49f5d720e19dabde2474bf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#af27813ec1b49f5d720e19dabde2474bf">TEST_P</a> (<a class="el" href="../../da/d35/a29321.html">CascadeProcRealSpellTest</a>, VerifySuppressionForRealSpell)</td></tr>
-<tr class="separator:af27813ec1b49f5d720e19dabde2474bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a567300126c458aa8f2a67a6b61cfe64b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a567300126c458aa8f2a67a6b61cfe64b">INSTANTIATE_TEST_SUITE_P</a> (CascadeProcSuppression, <a class="el" href="../../da/d35/a29321.html">CascadeProcRealSpellTest</a>, ::testing::Values(<a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a>{&quot;Seal Fate&quot;, 14195, true}, <a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a>{&quot;Sword Specialization&quot;, 12281, true}, <a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a>{&quot;Reckoning&quot;, 20178, true}, <a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a>{&quot;Flurry&quot;, 16257, true}, <a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a>{&quot;Eviscerate&quot;, 26865, false}), [](testing::TestParamInfo&lt; <a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a> &gt; const &amp;info) { std::string name=info.param.name;std::replace(name.begin(), name.end(), ' ', '_');return name;})</td></tr>
-<tr class="separator:a567300126c458aa8f2a67a6b61cfe64b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0fa51afabb656e204b564ca6fb0edc9c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a0fa51afabb656e204b564ca6fb0edc9c">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>, BothFlagsSet_StillSuppressed)</td></tr>
-<tr class="separator:a0fa51afabb656e204b564ca6fb0edc9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a693bf0209a8095129fc2244a0684ad9f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a693bf0209a8095129fc2244a0684ad9f">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>, OnlyOuterFlag_Suppressed)</td></tr>
-<tr class="separator:a693bf0209a8095129fc2244a0684ad9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa63b24064ef385ae513247b6228bc97d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#aa63b24064ef385ae513247b6228bc97d">TEST_F</a> (<a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>, OnlyPerAuraFlag_Suppressed)</td></tr>
-<tr class="separator:aa63b24064ef385ae513247b6228bc97d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a751e7c7dd00eb27194700629d22d50c6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#a751e7c7dd00eb27194700629d22d50c6">anonymous_namespace{SpellImmunityTest.cpp}::IsDamageEffect</a> (EffectType effect)</td></tr>
+<tr class="separator:a751e7c7dd00eb27194700629d22d50c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2464881723f07e073fd8ad85dbbaa61"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#ac2464881723f07e073fd8ad85dbbaa61">anonymous_namespace{SpellImmunityTest.cpp}::HasOnlyDamageEffects</a> (SpellDesc const &amp;spell)</td></tr>
+<tr class="separator:ac2464881723f07e073fd8ad85dbbaa61"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95ec40b4341833086e531ed73dba7147"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#a95ec40b4341833086e531ed73dba7147">anonymous_namespace{SpellImmunityTest.cpp}::IsStunSpell</a> (SpellDesc const &amp;spell)</td></tr>
+<tr class="separator:a95ec40b4341833086e531ed73dba7147"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accf0cc423cf1c4e9bf5ac0b660caed24"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#accf0cc423cf1c4e9bf5ac0b660caed24">anonymous_namespace{SpellImmunityTest.cpp}::IsEffectBlockedByStunImmunity</a> (EffectDesc const &amp;effect, bool immuneToStun)</td></tr>
+<tr class="separator:accf0cc423cf1c4e9bf5ac0b660caed24"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa953489abf2a825aea7d2aef9f904a3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#aaa953489abf2a825aea7d2aef9f904a3">anonymous_namespace{SpellImmunityTest.cpp}::IsFullyImmunedByStunImmunity</a> (SpellDesc const &amp;spell, bool immuneToStun)</td></tr>
+<tr class="separator:aaa953489abf2a825aea7d2aef9f904a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9048e95a3ceb76f45272b1240af4a2c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#aa9048e95a3ceb76f45272b1240af4a2c">anonymous_namespace{SpellImmunityTest.cpp}::IsBlockedBySchoolImmunity</a> (bool casterFriendly, bool immunityAppliesToFriendly)</td></tr>
+<tr class="separator:aa9048e95a3ceb76f45272b1240af4a2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a687cb216770a0868d03198480599bde5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult</a> (bool isImmunedToSpell, bool isImmunedToDamage, SpellDesc const &amp;spell, bool immuneToStun=false)</td></tr>
+<tr class="separator:a687cb216770a0868d03198480599bde5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f6167aede97490fe6c435b6e981ee31"><td class="memItemLeft" align="right" valign="top">EffectApplyResult&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#a3f6167aede97490fe6c435b6e981ee31">anonymous_namespace{SpellImmunityTest.cpp}::ApplyEffectsWithMovementImmunity</a> (SpellDesc const &amp;spell, bool immuneToMovementImpairing)</td></tr>
+<tr class="separator:a3f6167aede97490fe6c435b6e981ee31"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9b0d1a51efd792514de07f8af0268cd"><td class="memItemLeft" align="right" valign="top">SpellDesc&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#ac9b0d1a51efd792514de07f8af0268cd">anonymous_namespace{SpellImmunityTest.cpp}::MakeDamageOnlySpell</a> ()</td></tr>
+<tr class="separator:ac9b0d1a51efd792514de07f8af0268cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4ae8bc0e855177e9fb9212a0b24fa2c0"><td class="memItemLeft" align="right" valign="top">SpellDesc&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#a4ae8bc0e855177e9fb9212a0b24fa2c0">anonymous_namespace{SpellImmunityTest.cpp}::MakeFrostboltLikeSpell</a> ()</td></tr>
+<tr class="separator:a4ae8bc0e855177e9fb9212a0b24fa2c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6db007c75130da75c1510de68536e7fd"><td class="memItemLeft" align="right" valign="top">SpellDesc&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#a6db007c75130da75c1510de68536e7fd">anonymous_namespace{SpellImmunityTest.cpp}::MakeCycloneLikeSpell</a> ()</td></tr>
+<tr class="separator:a6db007c75130da75c1510de68536e7fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0dcf3406441c72889d7703c788095a6"><td class="memItemLeft" align="right" valign="top">SpellDesc&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#ae0dcf3406441c72889d7703c788095a6">anonymous_namespace{SpellImmunityTest.cpp}::MakeSlowOnlySpell</a> ()</td></tr>
+<tr class="separator:ae0dcf3406441c72889d7703c788095a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a113ef5bc9c956d6ddee3e2918c3ce3ab"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a113ef5bc9c956d6ddee3e2918c3ce3ab">TEST</a> (SpellImmunityTest, HasOnlyDamageEffects_TrueForPureDamage)</td></tr>
+<tr class="separator:a113ef5bc9c956d6ddee3e2918c3ce3ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a029b959e38d4926026f7dc1ba4d261"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a8a029b959e38d4926026f7dc1ba4d261">TEST</a> (SpellImmunityTest, HasOnlyDamageEffects_FalseForDamagePlusAura)</td></tr>
+<tr class="separator:a8a029b959e38d4926026f7dc1ba4d261"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa825e1abd2f35f0c5dd9ebacc11325f5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#aa825e1abd2f35f0c5dd9ebacc11325f5">TEST</a> (SpellImmunityTest, SpellImmunity_BlocksAllSpells)</td></tr>
+<tr class="separator:aa825e1abd2f35f0c5dd9ebacc11325f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7079e204a81977a4f3621da623fde93f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a7079e204a81977a4f3621da623fde93f">TEST</a> (SpellImmunityTest, DamageImmunity_BlocksDamageOnlySpell)</td></tr>
+<tr class="separator:a7079e204a81977a4f3621da623fde93f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a579210bd95da263d35a859c51af21bad"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a579210bd95da263d35a859c51af21bad">TEST</a> (SpellImmunityTest, SelfInvulnerability_BlocksMeleeDamage)</td></tr>
+<tr class="separator:a579210bd95da263d35a859c51af21bad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98b2939a7b596ecad1bfe7fc9eea3b10"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a98b2939a7b596ecad1bfe7fc9eea3b10">TEST</a> (SpellImmunityTest, DamageImmunity_DoesNotMissMixedSpell)</td></tr>
+<tr class="separator:a98b2939a7b596ecad1bfe7fc9eea3b10"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93e1a99e06e23b7f476361a13f400619"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a93e1a99e06e23b7f476361a13f400619">TEST</a> (SpellImmunityTest, HandOfFreedomStyle_MovementImmunity_AllowsDamageBlocksSlow)</td></tr>
+<tr class="separator:a93e1a99e06e23b7f476361a13f400619"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29cf4cb38c8eafbe22a418f0b08cda79"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a29cf4cb38c8eafbe22a418f0b08cda79">TEST</a> (SpellImmunityTest, NoMovementImmunity_FrostboltStyle_AppliesDamageAndSlow)</td></tr>
+<tr class="separator:a29cf4cb38c8eafbe22a418f0b08cda79"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ceea3be37a3fb8d89b3ef53f31ac777"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a0ceea3be37a3fb8d89b3ef53f31ac777">TEST</a> (SpellImmunityTest, CycloneLikeSpell_DivineShieldStyle_Immune)</td></tr>
+<tr class="separator:a0ceea3be37a3fb8d89b3ef53f31ac777"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a364c61e1fd8f2cced1b6473676301fdc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a364c61e1fd8f2cced1b6473676301fdc">TEST</a> (SpellImmunityTest, SpellImmunity_BlocksSlowOnlySpell)</td></tr>
+<tr class="separator:a364c61e1fd8f2cced1b6473676301fdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0300dc54f7b0fce3c749eea97288ce8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#ad0300dc54f7b0fce3c749eea97288ce8">TEST</a> (SpellImmunityTest, DamageImmunity_DoesNotBlockSlowOnlySpell)</td></tr>
+<tr class="separator:ad0300dc54f7b0fce3c749eea97288ce8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a101bdde4ca635021674b9c4d547289bf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a101bdde4ca635021674b9c4d547289bf">TEST</a> (SpellImmunityTest, ImmunityMask_PartialOverlapDoesNotCount)</td></tr>
+<tr class="separator:a101bdde4ca635021674b9c4d547289bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a44d3aa6c1687da3b2950b5426d1a72f6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a44d3aa6c1687da3b2950b5426d1a72f6">TEST</a> (SpellImmunityTest, ImmunityMask_FullCoverageAccepted)</td></tr>
+<tr class="separator:a44d3aa6c1687da3b2950b5426d1a72f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac84d48375a4e21b33f5c099b5ddba489"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#ac84d48375a4e21b33f5c099b5ddba489">TEST</a> (SpellImmunityTest, ImmunityMask_SupersetMatches)</td></tr>
+<tr class="separator:ac84d48375a4e21b33f5c099b5ddba489"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33ab344e5a5a3cd55aa736f4c4076e8d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a33ab344e5a5a3cd55aa736f4c4076e8d">TEST</a> (SpellImmunityTest, Bladestorm_ImmuneToStun)</td></tr>
+<tr class="separator:a33ab344e5a5a3cd55aa736f4c4076e8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48ed8d85023d0633bff5255d90e5d2be"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a48ed8d85023d0633bff5255d90e5d2be">TEST</a> (SpellImmunityTest, StunImmunity_DoesNotFullyBlockMixedSpell)</td></tr>
+<tr class="separator:a48ed8d85023d0633bff5255d90e5d2be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99d409636ad41ca419320a0f70bcb382"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a99d409636ad41ca419320a0f70bcb382">TEST</a> (SpellImmunityTest, SchoolImmunity_TemplateStyle_AllowsFriendlySpell)</td></tr>
+<tr class="separator:a99d409636ad41ca419320a0f70bcb382"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a385f0515f873116865149a063124ff11"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a385f0515f873116865149a063124ff11">TEST</a> (SpellImmunityTest, SchoolImmunity_ExplicitFriendlyBlockStillApplies)</td></tr>
+<tr class="separator:a385f0515f873116865149a063124ff11"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a4c71f3b9310c18fcf0fb7b0c14161a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2d/a00047.html#a9a4c71f3b9310c18fcf0fb7b0c14161a">TEST</a> (SpellImmunityTest, SchoolImmunity_BlocksHostileSpell)</td></tr>
+<tr class="separator:a9a4c71f3b9310c18fcf0fb7b0c14161a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p ><a class="el" href="../../da/d68/a09041.html">Unit</a> tests for cascade proc suppression via SPELL_ATTR3_INSTANT_TARGET_PROCS. </p>
-<p >Tests the logic from <a class="el" href="../../d9/d6e/a01409.html">Unit.cpp</a> TriggerAurasProcOnEvent:</p><ul>
-<li>Outer check: <a class="el" href="../../d7/da4/a11649.html#a56a6c8f6b797c49a06e33ee3e017712e">Spell::IsProcDisabled()</a> (TRIGGERED_DISALLOW_PROC_EVENTS) suppresses all cascade procs</li>
-<li>Per-aura check: SPELL_ATTR3_INSTANT_TARGET_PROCS (0x80000) suppresses cascade for that aura</li>
-<li>Normal spells/auras without these flags allow cascading</li>
-<li>Both flags set simultaneously still suppresses correctly </li>
-</ul>
+<div class="textblock"><p >Tests for spell immunity mechanics. </p>
 
-<p class="definition">Definition in file <a class="el" href="../../">CascadeProcSuppressionTest.cpp</a>.</p>
+<p class="definition">Definition in file <a class="el" href="../../">SpellImmunityTest.cpp</a>.</p>
 </div><h2 class="groupheader">Function Documentation</h2>
-<a id="a567300126c458aa8f2a67a6b61cfe64b" name="a567300126c458aa8f2a67a6b61cfe64b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a567300126c458aa8f2a67a6b61cfe64b">&#9670;&#160;</a></span>INSTANTIATE_TEST_SUITE_P()</h2>
+<a id="a33ab344e5a5a3cd55aa736f4c4076e8d" name="a33ab344e5a5a3cd55aa736f4c4076e8d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33ab344e5a5a3cd55aa736f4c4076e8d">&#9670;&#160;</a></span>TEST() <span class="overload">[1/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">INSTANTIATE_TEST_SUITE_P </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype">CascadeProcSuppression&#160;</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d35/a29321.html">CascadeProcRealSpellTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">::testing::Values(<a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a>{&quot;Seal Fate&quot;, 14195, true}, <a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a>{&quot;Sword Specialization&quot;, 12281, true}, <a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a>{&quot;Reckoning&quot;, 20178, true}, <a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a>{&quot;Flurry&quot;, 16257, true}, <a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a>{&quot;Eviscerate&quot;, 26865, false})&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">[] (testing::TestParamInfo&lt; <a class="el" href="../../df/d60/a29317.html">RealSpellTestCase</a> &gt; const &amp;info) { std::string name=info.param.name;std::replace(name.begin(), name.end(), ' ', '_');return name;}&#160;</td>
+          <td class="paramtype">Bladestorm_ImmuneToStun&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -203,62 +269,42 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0fa51afabb656e204b564ca6fb0edc9c" name="a0fa51afabb656e204b564ca6fb0edc9c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0fa51afabb656e204b564ca6fb0edc9c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">BothFlagsSet_StillSuppressed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  192</span>{</div>
-<div class="line"><span class="lineno">  193</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  194</span> </div>
-<div class="line"><span class="lineno">  195</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/d45/a29153.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">  196</span>        &lt;&lt; <span class="stringliteral">&quot;Both IsProcDisabled and INSTANT_TARGET_PROCS set should still suppress&quot;</span>;</div>
-<div class="line"><span class="lineno">  197</span>}</div>
-<div class="ttc" id="aa29153_html_ac0bc4afe7ed1254af740a59add4e9e85"><div class="ttname"><a href="../../df/d45/a29153.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a></div><div class="ttdeci">static bool ShouldSuppressCascadingProc(CascadeProcConfig const &amp;config)</div><div class="ttdoc">Returns true if cascading procs should be suppressed for this aura.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:518</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  346</span>{</div>
+<div class="line"><span class="lineno">  347</span>    SpellDesc stunSpell;</div>
+<div class="line"><span class="lineno">  348</span>    stunSpell.effects[0] = {<a class="code hl_enumvalue" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">EFFECT_APPLY_AURA</a>, <a class="code hl_enumvalue" href="../../dc/d0c/a05122.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace">AURA_MOD_STUN</a>};</div>
+<div class="line"><span class="lineno">  349</span> </div>
+<div class="line"><span class="lineno">  350</span>    <span class="comment">// without any special immunity the stun should land</span></div>
+<div class="line"><span class="lineno">  351</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a>(<span class="keyword">false</span>, <span class="keyword">false</span>, stunSpell), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>);</div>
+<div class="line"><span class="lineno">  352</span> </div>
+<div class="line"><span class="lineno">  353</span>    <span class="comment">// with a bladestorm‑style stun immunity it is blocked</span></div>
+<div class="line"><span class="lineno">  354</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a>(<span class="keyword">false</span>, <span class="keyword">false</span>, stunSpell, <span class="keyword">true</span>), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  355</span>}</div>
+<div class="ttc" id="aa04304_html_ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f"><div class="ttname"><a href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a></div><div class="ttdeci">@ SPELL_MISS_IMMUNE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1530</div></div>
+<div class="ttc" id="aa04304_html_ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096"><div class="ttname"><a href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a></div><div class="ttdeci">@ SPELL_MISS_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1523</div></div>
+<div class="ttc" id="aa05122_html_a687cb216770a0868d03198480599bde5"><div class="ttname"><a href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult</a></div><div class="ttdeci">SpellMissInfo ComputeSpellHitResult(bool isImmunedToSpell, bool isImmunedToDamage, SpellDesc const &amp;spell, bool immuneToStun=false)</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:137</div></div>
+<div class="ttc" id="aa05122_html_ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace"><div class="ttname"><a href="../../dc/d0c/a05122.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace">anonymous_namespace{SpellImmunityTest.cpp}::AURA_MOD_STUN</a></div><div class="ttdeci">@ AURA_MOD_STUN</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:51</div></div>
+<div class="ttc" id="aa05122_html_ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a"><div class="ttname"><a href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_APPLY_AURA</a></div><div class="ttdeci">@ EFFECT_APPLY_AURA</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:41</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00051">anonymous_namespace{SpellImmunityTest.cpp}::AURA_MOD_STUN</a>, <a class="el" href="../../#l00137">anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult()</a>, <a class="el" href="../../#l00041">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_APPLY_AURA</a>, <a class="el" href="../../#l01530">SPELL_MISS_IMMUNE</a>, and <a class="el" href="../../#l01523">SPELL_MISS_NONE</a>.</p>
 
 </div>
 </div>
-<a id="a111eadd5b4ba536e22a70ee1ac1a8010" name="a111eadd5b4ba536e22a70ee1ac1a8010"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a111eadd5b4ba536e22a70ee1ac1a8010">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/10]</span></h2>
+<a id="a0ceea3be37a3fb8d89b3ef53f31ac777" name="a0ceea3be37a3fb8d89b3ef53f31ac777"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ceea3be37a3fb8d89b3ef53f31ac777">&#9670;&#160;</a></span>TEST() <span class="overload">[2/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">NormalSpell_AuraWithAttr_Suppressed&#160;</td>
+          <td class="paramtype">CycloneLikeSpell_DivineShieldStyle_Immune&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -268,33 +314,33 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
-<div class="line"><span class="lineno">   86</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">false</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   87</span> </div>
-<div class="line"><span class="lineno">   88</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/d45/a29153.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">   89</span>        &lt;&lt; <span class="stringliteral">&quot;Aura with SPELL_ATTR3_INSTANT_TARGET_PROCS should suppress cascading procs&quot;</span>;</div>
-<div class="line"><span class="lineno">   90</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  286</span>{</div>
+<div class="line"><span class="lineno">  287</span>    SpellDesc cycloneLike = <a class="code hl_function" href="../../dc/d0c/a05122.html#a6db007c75130da75c1510de68536e7fd">MakeCycloneLikeSpell</a>();</div>
+<div class="line"><span class="lineno">  288</span> </div>
+<div class="line"><span class="lineno">  289</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a>(<span class="keyword">true</span>, <span class="keyword">false</span>, cycloneLike), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  290</span>}</div>
+<div class="ttc" id="aa05122_html_a6db007c75130da75c1510de68536e7fd"><div class="ttname"><a href="../../dc/d0c/a05122.html#a6db007c75130da75c1510de68536e7fd">anonymous_namespace{SpellImmunityTest.cpp}::MakeCycloneLikeSpell</a></div><div class="ttdeci">SpellDesc MakeCycloneLikeSpell()</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:199</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00137">anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult()</a>, <a class="el" href="../../#l00199">anonymous_namespace{SpellImmunityTest.cpp}::MakeCycloneLikeSpell()</a>, and <a class="el" href="../../#l01530">SPELL_MISS_IMMUNE</a>.</p>
 
 </div>
 </div>
-<a id="af2c476b9074527e551bb3e269ab0e14a" name="af2c476b9074527e551bb3e269ab0e14a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2c476b9074527e551bb3e269ab0e14a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/10]</span></h2>
+<a id="a7079e204a81977a4f3621da623fde93f" name="a7079e204a81977a4f3621da623fde93f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7079e204a81977a4f3621da623fde93f">&#9670;&#160;</a></span>TEST() <span class="overload">[3/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">NormalSpellNormalAura_NotSuppressed&#160;</td>
+          <td class="paramtype">DamageImmunity_BlocksDamageOnlySpell&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -304,33 +350,33 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
-<div class="line"><span class="lineno">   54</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">false</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   55</span> </div>
-<div class="line"><span class="lineno">   56</span>    EXPECT_FALSE(<a class="code hl_function" href="../../df/d45/a29153.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">   57</span>        &lt;&lt; <span class="stringliteral">&quot;Normal spell + normal aura should not suppress cascading procs&quot;</span>;</div>
-<div class="line"><span class="lineno">   58</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  237</span>{</div>
+<div class="line"><span class="lineno">  238</span>    SpellDesc damageOnly = <a class="code hl_function" href="../../dc/d0c/a05122.html#ac9b0d1a51efd792514de07f8af0268cd">MakeDamageOnlySpell</a>();</div>
+<div class="line"><span class="lineno">  239</span> </div>
+<div class="line"><span class="lineno">  240</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a>(<span class="keyword">false</span>, <span class="keyword">true</span>, damageOnly), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  241</span>}</div>
+<div class="ttc" id="aa05122_html_ac9b0d1a51efd792514de07f8af0268cd"><div class="ttname"><a href="../../dc/d0c/a05122.html#ac9b0d1a51efd792514de07f8af0268cd">anonymous_namespace{SpellImmunityTest.cpp}::MakeDamageOnlySpell</a></div><div class="ttdeci">SpellDesc MakeDamageOnlySpell()</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:184</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00137">anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult()</a>, <a class="el" href="../../#l00184">anonymous_namespace{SpellImmunityTest.cpp}::MakeDamageOnlySpell()</a>, and <a class="el" href="../../#l01530">SPELL_MISS_IMMUNE</a>.</p>
 
 </div>
 </div>
-<a id="a693bf0209a8095129fc2244a0684ad9f" name="a693bf0209a8095129fc2244a0684ad9f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a693bf0209a8095129fc2244a0684ad9f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/10]</span></h2>
+<a id="ad0300dc54f7b0fce3c749eea97288ce8" name="ad0300dc54f7b0fce3c749eea97288ce8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0300dc54f7b0fce3c749eea97288ce8">&#9670;&#160;</a></span>TEST() <span class="overload">[4/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">OnlyOuterFlag_Suppressed&#160;</td>
+          <td class="paramtype">DamageImmunity_DoesNotBlockSlowOnlySpell&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -340,33 +386,32 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  200</span>{</div>
-<div class="line"><span class="lineno">  201</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  202</span> </div>
-<div class="line"><span class="lineno">  203</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/d45/a29153.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">  204</span>        &lt;&lt; <span class="stringliteral">&quot;Only IsProcDisabled should be sufficient to suppress&quot;</span>;</div>
-<div class="line"><span class="lineno">  205</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  307</span>{</div>
+<div class="line"><span class="lineno">  308</span>    SpellDesc slowOnly = <a class="code hl_function" href="../../dc/d0c/a05122.html#ae0dcf3406441c72889d7703c788095a6">MakeSlowOnlySpell</a>();</div>
+<div class="line"><span class="lineno">  309</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a>(<span class="keyword">false</span>, <span class="keyword">true</span>, slowOnly), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>);</div>
+<div class="line"><span class="lineno">  310</span>}</div>
+<div class="ttc" id="aa05122_html_ae0dcf3406441c72889d7703c788095a6"><div class="ttname"><a href="../../dc/d0c/a05122.html#ae0dcf3406441c72889d7703c788095a6">anonymous_namespace{SpellImmunityTest.cpp}::MakeSlowOnlySpell</a></div><div class="ttdeci">SpellDesc MakeSlowOnlySpell()</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:206</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00137">anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult()</a>, <a class="el" href="../../#l00206">anonymous_namespace{SpellImmunityTest.cpp}::MakeSlowOnlySpell()</a>, and <a class="el" href="../../#l01523">SPELL_MISS_NONE</a>.</p>
 
 </div>
 </div>
-<a id="aa63b24064ef385ae513247b6228bc97d" name="aa63b24064ef385ae513247b6228bc97d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa63b24064ef385ae513247b6228bc97d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/10]</span></h2>
+<a id="a98b2939a7b596ecad1bfe7fc9eea3b10" name="a98b2939a7b596ecad1bfe7fc9eea3b10"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a98b2939a7b596ecad1bfe7fc9eea3b10">&#9670;&#160;</a></span>TEST() <span class="overload">[5/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">OnlyPerAuraFlag_Suppressed&#160;</td>
+          <td class="paramtype">DamageImmunity_DoesNotMissMixedSpell&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -376,33 +421,35 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  208</span>{</div>
-<div class="line"><span class="lineno">  209</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">false</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  210</span> </div>
-<div class="line"><span class="lineno">  211</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/d45/a29153.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">  212</span>        &lt;&lt; <span class="stringliteral">&quot;Only INSTANT_TARGET_PROCS should be sufficient to suppress&quot;</span>;</div>
-<div class="line"><span class="lineno">  213</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  257</span>{</div>
+<div class="line"><span class="lineno">  258</span>    <span class="comment">// This is the key fix: damage immunity must not force SPELL_MISS_IMMUNE</span></div>
+<div class="line"><span class="lineno">  259</span>    <span class="comment">// for mixed spells that include non-damage effects.</span></div>
+<div class="line"><span class="lineno">  260</span>    SpellDesc frostboltLike = <a class="code hl_function" href="../../dc/d0c/a05122.html#a4ae8bc0e855177e9fb9212a0b24fa2c0">MakeFrostboltLikeSpell</a>();</div>
+<div class="line"><span class="lineno">  261</span> </div>
+<div class="line"><span class="lineno">  262</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a>(<span class="keyword">false</span>, <span class="keyword">true</span>, frostboltLike), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>);</div>
+<div class="line"><span class="lineno">  263</span>}</div>
+<div class="ttc" id="aa05122_html_a4ae8bc0e855177e9fb9212a0b24fa2c0"><div class="ttname"><a href="../../dc/d0c/a05122.html#a4ae8bc0e855177e9fb9212a0b24fa2c0">anonymous_namespace{SpellImmunityTest.cpp}::MakeFrostboltLikeSpell</a></div><div class="ttdeci">SpellDesc MakeFrostboltLikeSpell()</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:191</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00137">anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult()</a>, <a class="el" href="../../#l00191">anonymous_namespace{SpellImmunityTest.cpp}::MakeFrostboltLikeSpell()</a>, and <a class="el" href="../../#l01523">SPELL_MISS_NONE</a>.</p>
 
 </div>
 </div>
-<a id="a1d712040cde4f4fc1498c86d1a8c1a2c" name="a1d712040cde4f4fc1498c86d1a8c1a2c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d712040cde4f4fc1498c86d1a8c1a2c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/10]</span></h2>
+<a id="a93e1a99e06e23b7f476361a13f400619" name="a93e1a99e06e23b7f476361a13f400619"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93e1a99e06e23b7f476361a13f400619">&#9670;&#160;</a></span>TEST() <span class="overload">[6/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ProcDisabledSpell_NormalAura_Suppressed&#160;</td>
+          <td class="paramtype">HandOfFreedomStyle_MovementImmunity_AllowsDamageBlocksSlow&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -412,33 +459,36 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   65</span>{</div>
-<div class="line"><span class="lineno">   66</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   67</span> </div>
-<div class="line"><span class="lineno">   68</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/d45/a29153.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">   69</span>        &lt;&lt; <span class="stringliteral">&quot;Triggered spell with DISALLOW_PROC_EVENTS should suppress all cascading procs&quot;</span>;</div>
-<div class="line"><span class="lineno">   70</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  266</span>{</div>
+<div class="line"><span class="lineno">  267</span>    SpellDesc frostboltLike = <a class="code hl_function" href="../../dc/d0c/a05122.html#a4ae8bc0e855177e9fb9212a0b24fa2c0">MakeFrostboltLikeSpell</a>();</div>
+<div class="line"><span class="lineno">  268</span> </div>
+<div class="line"><span class="lineno">  269</span>    EffectApplyResult result = <a class="code hl_function" href="../../dc/d0c/a05122.html#a3f6167aede97490fe6c435b6e981ee31">ApplyEffectsWithMovementImmunity</a>(frostboltLike, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  270</span> </div>
+<div class="line"><span class="lineno">  271</span>    EXPECT_TRUE(result.damageApplied);</div>
+<div class="line"><span class="lineno">  272</span>    EXPECT_FALSE(result.slowApplied);</div>
+<div class="line"><span class="lineno">  273</span>}</div>
+<div class="ttc" id="aa05122_html_a3f6167aede97490fe6c435b6e981ee31"><div class="ttname"><a href="../../dc/d0c/a05122.html#a3f6167aede97490fe6c435b6e981ee31">anonymous_namespace{SpellImmunityTest.cpp}::ApplyEffectsWithMovementImmunity</a></div><div class="ttdeci">EffectApplyResult ApplyEffectsWithMovementImmunity(SpellDesc const &amp;spell, bool immuneToMovementImpairing)</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:162</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00162">anonymous_namespace{SpellImmunityTest.cpp}::ApplyEffectsWithMovementImmunity()</a>, and <a class="el" href="../../#l00191">anonymous_namespace{SpellImmunityTest.cpp}::MakeFrostboltLikeSpell()</a>.</p>
 
 </div>
 </div>
-<a id="ab78bd7e3715bc34e2a980043d6ac2cae" name="ab78bd7e3715bc34e2a980043d6ac2cae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab78bd7e3715bc34e2a980043d6ac2cae">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/10]</span></h2>
+<a id="a8a029b959e38d4926026f7dc1ba4d261" name="a8a029b959e38d4926026f7dc1ba4d261"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a029b959e38d4926026f7dc1ba4d261">&#9670;&#160;</a></span>TEST() <span class="overload">[7/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ProcDisabledSpell_WithAttr_Suppressed&#160;</td>
+          <td class="paramtype">HasOnlyDamageEffects_FalseForDamagePlusAura&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -448,33 +498,32 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
-<div class="line"><span class="lineno">   74</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/d45/a29153.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">   77</span>        &lt;&lt; <span class="stringliteral">&quot;Both flags set should still suppress (double-suppress doesn&#39;t break)&quot;</span>;</div>
-<div class="line"><span class="lineno">   78</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  222</span>{</div>
+<div class="line"><span class="lineno">  223</span>    SpellDesc spell = <a class="code hl_function" href="../../dc/d0c/a05122.html#a4ae8bc0e855177e9fb9212a0b24fa2c0">MakeFrostboltLikeSpell</a>();</div>
+<div class="line"><span class="lineno">  224</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d0c/a05122.html#ac2464881723f07e073fd8ad85dbbaa61">HasOnlyDamageEffects</a>(spell));</div>
+<div class="line"><span class="lineno">  225</span>}</div>
+<div class="ttc" id="aa05122_html_ac2464881723f07e073fd8ad85dbbaa61"><div class="ttname"><a href="../../dc/d0c/a05122.html#ac2464881723f07e073fd8ad85dbbaa61">anonymous_namespace{SpellImmunityTest.cpp}::HasOnlyDamageEffects</a></div><div class="ttdeci">bool HasOnlyDamageEffects(SpellDesc const &amp;spell)</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:81</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellImmunityTest.cpp}::HasOnlyDamageEffects()</a>, and <a class="el" href="../../#l00191">anonymous_namespace{SpellImmunityTest.cpp}::MakeFrostboltLikeSpell()</a>.</p>
 
 </div>
 </div>
-<a id="ae7f0c3a70baa5f99f17ebd2079eec6d6" name="ae7f0c3a70baa5f99f17ebd2079eec6d6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae7f0c3a70baa5f99f17ebd2079eec6d6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/10]</span></h2>
+<a id="a113ef5bc9c956d6ddee3e2918c3ce3ab" name="a113ef5bc9c956d6ddee3e2918c3ce3ab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a113ef5bc9c956d6ddee3e2918c3ce3ab">&#9670;&#160;</a></span>TEST() <span class="overload">[8/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">SpellInfo_WithAttr_HasAttributeReturnsTrue&#160;</td>
+          <td class="paramtype">HasOnlyDamageEffects_TrueForPureDamage&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -484,41 +533,31 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
-<div class="line"><span class="lineno">   98</span>    <span class="keyword">auto</span> spellInfo = <a class="code hl_class" href="../../dd/df9/a29213.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">   99</span>        .<a class="code hl_function" href="../../dd/df9/a29213.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(99001)</div>
-<div class="line"><span class="lineno">  100</span>        .<a class="code hl_function" href="../../dd/df9/a29213.html#ab92a2a4b9be30a760ce90467c7dfa234">WithAttributesEx3</a>(<a class="code hl_enumvalue" href="../../d3/d31/a04292.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>)</div>
-<div class="line"><span class="lineno">  101</span>        .<a class="code hl_function" href="../../dd/df9/a29213.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a>();</div>
-<div class="line"><span class="lineno">  102</span> </div>
-<div class="line"><span class="lineno">  103</span>    EXPECT_TRUE(spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d3/d31/a04292.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>))</div>
-<div class="line"><span class="lineno">  104</span>        &lt;&lt; <span class="stringliteral">&quot;SpellInfo built with 0x80000 should report HasAttribute true&quot;</span>;</div>
-<div class="line"><span class="lineno">  105</span>}</div>
-<div class="ttc" id="aa04292_html_a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9"><div class="ttname"><a href="../../d3/d31/a04292.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a></div><div class="ttdeci">@ SPELL_ATTR3_INSTANT_TARGET_PROCS</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:500</div></div>
-<div class="ttc" id="aa29213_html"><div class="ttname"><a href="../../dd/df9/a29213.html">SpellInfoBuilder</a></div><div class="ttdoc">Builder class for creating SpellInfo test instances.</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:160</div></div>
-<div class="ttc" id="aa29213_html_a1f23f2372b8fd2e7ce8e6aad99868892"><div class="ttname"><a href="../../dd/df9/a29213.html#a1f23f2372b8fd2e7ce8e6aad99868892">SpellInfoBuilder::WithId</a></div><div class="ttdeci">SpellInfoBuilder &amp; WithId(uint32 id)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:164</div></div>
-<div class="ttc" id="aa29213_html_a96bd1eea56970fdc051fe3c494ee6396"><div class="ttname"><a href="../../dd/df9/a29213.html#a96bd1eea56970fdc051fe3c494ee6396">SpellInfoBuilder::BuildUnique</a></div><div class="ttdeci">std::unique_ptr&lt; SpellInfo &gt; BuildUnique()</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:256</div></div>
-<div class="ttc" id="aa29213_html_ab92a2a4b9be30a760ce90467c7dfa234"><div class="ttname"><a href="../../dd/df9/a29213.html#ab92a2a4b9be30a760ce90467c7dfa234">SpellInfoBuilder::WithAttributesEx3</a></div><div class="ttdeci">SpellInfoBuilder &amp; WithAttributesEx3(uint32 attr)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:212</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  216</span>{</div>
+<div class="line"><span class="lineno">  217</span>    SpellDesc spell = <a class="code hl_function" href="../../dc/d0c/a05122.html#ac9b0d1a51efd792514de07f8af0268cd">MakeDamageOnlySpell</a>();</div>
+<div class="line"><span class="lineno">  218</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d0c/a05122.html#ac2464881723f07e073fd8ad85dbbaa61">HasOnlyDamageEffects</a>(spell));</div>
+<div class="line"><span class="lineno">  219</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00256">SpellInfoBuilder::BuildUnique()</a>, <a class="el" href="../../#l00500">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>, <a class="el" href="../../#l00212">SpellInfoBuilder::WithAttributesEx3()</a>, and <a class="el" href="../../#l00164">SpellInfoBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellImmunityTest.cpp}::HasOnlyDamageEffects()</a>, and <a class="el" href="../../#l00184">anonymous_namespace{SpellImmunityTest.cpp}::MakeDamageOnlySpell()</a>.</p>
 
 </div>
 </div>
-<a id="acdeb87fc2a70920a25f69077f5b9f3bc" name="acdeb87fc2a70920a25f69077f5b9f3bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acdeb87fc2a70920a25f69077f5b9f3bc">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/10]</span></h2>
+<a id="a44d3aa6c1687da3b2950b5426d1a72f6" name="a44d3aa6c1687da3b2950b5426d1a72f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a44d3aa6c1687da3b2950b5426d1a72f6">&#9670;&#160;</a></span>TEST() <span class="overload">[9/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">SpellInfo_WithMixedBits_HasAttributeReturnsTrue&#160;</td>
+          <td class="paramtype">ImmunityMask_FullCoverageAccepted&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -528,37 +567,39 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  119</span>{</div>
-<div class="line"><span class="lineno">  120</span>    <span class="comment">// 0x80001 = SPELL_ATTR3_INSTANT_TARGET_PROCS | SPELL_ATTR3_PVP_ENABLING (bit 0)</span></div>
-<div class="line"><span class="lineno">  121</span>    <span class="keyword">auto</span> spellInfo = <a class="code hl_class" href="../../dd/df9/a29213.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">  122</span>        .<a class="code hl_function" href="../../dd/df9/a29213.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(99003)</div>
-<div class="line"><span class="lineno">  123</span>        .<a class="code hl_function" href="../../dd/df9/a29213.html#ab92a2a4b9be30a760ce90467c7dfa234">WithAttributesEx3</a>(0x00080001)</div>
-<div class="line"><span class="lineno">  124</span>        .<a class="code hl_function" href="../../dd/df9/a29213.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a>();</div>
-<div class="line"><span class="lineno">  125</span> </div>
-<div class="line"><span class="lineno">  126</span>    EXPECT_TRUE(spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d3/d31/a04292.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>))</div>
-<div class="line"><span class="lineno">  127</span>        &lt;&lt; <span class="stringliteral">&quot;Other bits in AttributesEx3 should not interfere with attribute detection&quot;</span>;</div>
-<div class="line"><span class="lineno">  128</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  324</span>{</div>
+<div class="line"><span class="lineno">  325</span>    <a class="code hl_enumeration" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> immune = <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc">SPELL_SCHOOL_MASK_MAGIC</a>; <span class="comment">// holy+spell</span></div>
+<div class="line"><span class="lineno">  326</span>    <a class="code hl_enumeration" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> checkMagic = <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc">SPELL_SCHOOL_MASK_MAGIC</a>;</div>
+<div class="line"><span class="lineno">  327</span>    <a class="code hl_enumeration" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> checkSpell = <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0">SPELL_SCHOOL_MASK_SPELL</a>;</div>
+<div class="line"><span class="lineno">  328</span> </div>
+<div class="line"><span class="lineno">  329</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d3e/a09066.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkMagic));</div>
+<div class="line"><span class="lineno">  330</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d3e/a09066.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkSpell));</div>
+<div class="line"><span class="lineno">  331</span>}</div>
+<div class="ttc" id="aa04304_html_aff6913cfd69489c107a071be9ec2ec8f"><div class="ttname"><a href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a></div><div class="ttdeci">SpellSchoolMask</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:283</div></div>
+<div class="ttc" id="aa04304_html_aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc"><div class="ttname"><a href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc">SPELL_SCHOOL_MASK_MAGIC</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_MAGIC</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:300</div></div>
+<div class="ttc" id="aa04304_html_aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0"><div class="ttname"><a href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0">SPELL_SCHOOL_MASK_SPELL</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_SPELL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:296</div></div>
+<div class="ttc" id="aa09066_html_afeb9e48c2b6a8628f17b45902c8e4c39"><div class="ttname"><a href="../../dc/d3e/a09066.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a></div><div class="ttdeci">static bool IsImmuneMaskFully(SpellSchoolMask immuneMask, SpellSchoolMask schoolMask)</div><div class="ttdef"><b>Definition:</b> Unit.h:1646</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00256">SpellInfoBuilder::BuildUnique()</a>, <a class="el" href="../../#l00500">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>, <a class="el" href="../../#l00212">SpellInfoBuilder::WithAttributesEx3()</a>, and <a class="el" href="../../#l00164">SpellInfoBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01646">Unit::IsImmuneMaskFully()</a>, <a class="el" href="../../#l00300">SPELL_SCHOOL_MASK_MAGIC</a>, and <a class="el" href="../../#l00296">SPELL_SCHOOL_MASK_SPELL</a>.</p>
 
 </div>
 </div>
-<a id="a16cd6603e2c42c8fb68258736fe6daf1" name="a16cd6603e2c42c8fb68258736fe6daf1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a16cd6603e2c42c8fb68258736fe6daf1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/10]</span></h2>
+<a id="a101bdde4ca635021674b9c4d547289bf" name="a101bdde4ca635021674b9c4d547289bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a101bdde4ca635021674b9c4d547289bf">&#9670;&#160;</a></span>TEST() <span class="overload">[10/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d62/a29313.html">CascadeProcSuppressionTest</a>&#160;</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">SpellInfo_WithoutAttr_HasAttributeReturnsFalse&#160;</td>
+          <td class="paramtype">ImmunityMask_PartialOverlapDoesNotCount&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -568,36 +609,36 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  108</span>{</div>
-<div class="line"><span class="lineno">  109</span>    <span class="keyword">auto</span> spellInfo = <a class="code hl_class" href="../../dd/df9/a29213.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">  110</span>        .<a class="code hl_function" href="../../dd/df9/a29213.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(99002)</div>
-<div class="line"><span class="lineno">  111</span>        .<a class="code hl_function" href="../../dd/df9/a29213.html#ab92a2a4b9be30a760ce90467c7dfa234">WithAttributesEx3</a>(0)</div>
-<div class="line"><span class="lineno">  112</span>        .<a class="code hl_function" href="../../dd/df9/a29213.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a>();</div>
-<div class="line"><span class="lineno">  113</span> </div>
-<div class="line"><span class="lineno">  114</span>    EXPECT_FALSE(spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d3/d31/a04292.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>))</div>
-<div class="line"><span class="lineno">  115</span>        &lt;&lt; <span class="stringliteral">&quot;SpellInfo built with 0 should report HasAttribute false&quot;</span>;</div>
-<div class="line"><span class="lineno">  116</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  315</span>{</div>
+<div class="line"><span class="lineno">  316</span>    <a class="code hl_enumeration" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> immune = <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce">SPELL_SCHOOL_MASK_FROST</a>;</div>
+<div class="line"><span class="lineno">  317</span>    <a class="code hl_enumeration" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> checkAll = <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8">SPELL_SCHOOL_MASK_ALL</a>;</div>
+<div class="line"><span class="lineno">  318</span> </div>
+<div class="line"><span class="lineno">  319</span>    <span class="comment">// a frost-only immunity should *not* make you immune to all damage</span></div>
+<div class="line"><span class="lineno">  320</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d3e/a09066.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkAll));</div>
+<div class="line"><span class="lineno">  321</span>}</div>
+<div class="ttc" id="aa04304_html_aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8"><div class="ttname"><a href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8">SPELL_SCHOOL_MASK_ALL</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_ALL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:303</div></div>
+<div class="ttc" id="aa04304_html_aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce"><div class="ttname"><a href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce">SPELL_SCHOOL_MASK_FROST</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_FROST</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:289</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00256">SpellInfoBuilder::BuildUnique()</a>, <a class="el" href="../../#l00500">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>, <a class="el" href="../../#l00212">SpellInfoBuilder::WithAttributesEx3()</a>, and <a class="el" href="../../#l00164">SpellInfoBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01646">Unit::IsImmuneMaskFully()</a>, <a class="el" href="../../#l00303">SPELL_SCHOOL_MASK_ALL</a>, and <a class="el" href="../../#l00289">SPELL_SCHOOL_MASK_FROST</a>.</p>
 
 </div>
 </div>
-<a id="af27813ec1b49f5d720e19dabde2474bf" name="af27813ec1b49f5d720e19dabde2474bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af27813ec1b49f5d720e19dabde2474bf">&#9670;&#160;</a></span>TEST_P()</h2>
+<a id="ac84d48375a4e21b33f5c099b5ddba489" name="ac84d48375a4e21b33f5c099b5ddba489"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac84d48375a4e21b33f5c099b5ddba489">&#9670;&#160;</a></span>TEST() <span class="overload">[11/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_P </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d35/a29321.html">CascadeProcRealSpellTest</a>&#160;</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">VerifySuppressionForRealSpell&#160;</td>
+          <td class="paramtype">ImmunityMask_SupersetMatches&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -607,32 +648,301 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  145</span>{</div>
-<div class="line"><span class="lineno">  146</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; tc = GetParam();</div>
-<div class="line"><span class="lineno">  147</span> </div>
-<div class="line"><span class="lineno">  148</span>    <span class="comment">// Build a SpellInfo mimicking the real spell&#39;s AttributesEx3</span></div>
-<div class="line"><span class="lineno">  149</span>    <span class="keyword">auto</span> spellInfo = <a class="code hl_class" href="../../dd/df9/a29213.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">  150</span>        .<a class="code hl_function" href="../../dd/df9/a29213.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(tc.spellId)</div>
-<div class="line"><span class="lineno">  151</span>        .<a class="code hl_function" href="../../dd/df9/a29213.html#ab92a2a4b9be30a760ce90467c7dfa234">WithAttributesEx3</a>(tc.hasAttr ? <a class="code hl_enumvalue" href="../../d3/d31/a04292.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a> : 0)</div>
-<div class="line"><span class="lineno">  152</span>        .<a class="code hl_function" href="../../dd/df9/a29213.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a>();</div>
-<div class="line"><span class="lineno">  153</span> </div>
-<div class="line"><span class="lineno">  154</span>    <span class="comment">// Verify attribute detection matches expectation</span></div>
-<div class="line"><span class="lineno">  155</span>    EXPECT_EQ(spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d3/d31/a04292.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>), tc.hasAttr)</div>
-<div class="line"><span class="lineno">  156</span>        &lt;&lt; tc.name &lt;&lt; <span class="stringliteral">&quot; (spell &quot;</span> &lt;&lt; tc.spellId &lt;&lt; <span class="stringliteral">&quot;) attribute detection mismatch&quot;</span>;</div>
-<div class="line"><span class="lineno">  157</span> </div>
-<div class="line"><span class="lineno">  158</span>    <span class="comment">// Verify cascade suppression matches attribute presence</span></div>
-<div class="line"><span class="lineno">  159</span>    <a class="code hl_struct" href="../../dc/d20/a29173.html">ProcChanceTestHelper::CascadeProcConfig</a> config;</div>
-<div class="line"><span class="lineno">  160</span>    config.<a class="code hl_variable" href="../../dc/d20/a29173.html#a38c3523c80d30ed10b8c3b5e19c083f6">triggeringSpellIsProcDisabled</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  161</span>    config.<a class="code hl_variable" href="../../dc/d20/a29173.html#aec81d4f80c7cb7749f860601c9e5aac8">auraHasDisableProcAttr</a> = tc.hasAttr;</div>
-<div class="line"><span class="lineno">  162</span> </div>
-<div class="line"><span class="lineno">  163</span>    EXPECT_EQ(<a class="code hl_function" href="../../df/d45/a29153.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config), tc.hasAttr)</div>
-<div class="line"><span class="lineno">  164</span>        &lt;&lt; tc.name &lt;&lt; <span class="stringliteral">&quot; (spell &quot;</span> &lt;&lt; tc.spellId &lt;&lt; <span class="stringliteral">&quot;) cascade suppression mismatch&quot;</span>;</div>
-<div class="line"><span class="lineno">  165</span>}</div>
-<div class="ttc" id="aa29173_html"><div class="ttname"><a href="../../dc/d20/a29173.html">ProcChanceTestHelper::CascadeProcConfig</a></div><div class="ttdoc">Configuration for simulating cascade proc suppression.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:507</div></div>
-<div class="ttc" id="aa29173_html_a38c3523c80d30ed10b8c3b5e19c083f6"><div class="ttname"><a href="../../dc/d20/a29173.html#a38c3523c80d30ed10b8c3b5e19c083f6">ProcChanceTestHelper::CascadeProcConfig::triggeringSpellIsProcDisabled</a></div><div class="ttdeci">bool triggeringSpellIsProcDisabled</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:508</div></div>
-<div class="ttc" id="aa29173_html_aec81d4f80c7cb7749f860601c9e5aac8"><div class="ttname"><a href="../../dc/d20/a29173.html#aec81d4f80c7cb7749f860601c9e5aac8">ProcChanceTestHelper::CascadeProcConfig::auraHasDisableProcAttr</a></div><div class="ttdeci">bool auraHasDisableProcAttr</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:509</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  334</span>{</div>
+<div class="line"><span class="lineno">  335</span>    <a class="code hl_enumeration" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> immune = <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8">SPELL_SCHOOL_MASK_ALL</a>;</div>
+<div class="line"><span class="lineno">  336</span>    <a class="code hl_enumeration" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> checkMagic = <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc">SPELL_SCHOOL_MASK_MAGIC</a>;</div>
+<div class="line"><span class="lineno">  337</span> </div>
+<div class="line"><span class="lineno">  338</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d3e/a09066.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkMagic));</div>
+<div class="line"><span class="lineno">  339</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00509">ProcChanceTestHelper::CascadeProcConfig::auraHasDisableProcAttr</a>, <a class="el" href="../../#l00256">SpellInfoBuilder::BuildUnique()</a>, <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>, <a class="el" href="../../#l00500">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>, <a class="el" href="../../#l00508">ProcChanceTestHelper::CascadeProcConfig::triggeringSpellIsProcDisabled</a>, <a class="el" href="../../#l00212">SpellInfoBuilder::WithAttributesEx3()</a>, and <a class="el" href="../../#l00164">SpellInfoBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01646">Unit::IsImmuneMaskFully()</a>, <a class="el" href="../../#l00303">SPELL_SCHOOL_MASK_ALL</a>, and <a class="el" href="../../#l00300">SPELL_SCHOOL_MASK_MAGIC</a>.</p>
+
+</div>
+</div>
+<a id="a29cf4cb38c8eafbe22a418f0b08cda79" name="a29cf4cb38c8eafbe22a418f0b08cda79"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a29cf4cb38c8eafbe22a418f0b08cda79">&#9670;&#160;</a></span>TEST() <span class="overload">[12/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NoMovementImmunity_FrostboltStyle_AppliesDamageAndSlow&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  276</span>{</div>
+<div class="line"><span class="lineno">  277</span>    SpellDesc frostboltLike = <a class="code hl_function" href="../../dc/d0c/a05122.html#a4ae8bc0e855177e9fb9212a0b24fa2c0">MakeFrostboltLikeSpell</a>();</div>
+<div class="line"><span class="lineno">  278</span> </div>
+<div class="line"><span class="lineno">  279</span>    EffectApplyResult result = <a class="code hl_function" href="../../dc/d0c/a05122.html#a3f6167aede97490fe6c435b6e981ee31">ApplyEffectsWithMovementImmunity</a>(frostboltLike, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  280</span> </div>
+<div class="line"><span class="lineno">  281</span>    EXPECT_TRUE(result.damageApplied);</div>
+<div class="line"><span class="lineno">  282</span>    EXPECT_TRUE(result.slowApplied);</div>
+<div class="line"><span class="lineno">  283</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00162">anonymous_namespace{SpellImmunityTest.cpp}::ApplyEffectsWithMovementImmunity()</a>, and <a class="el" href="../../#l00191">anonymous_namespace{SpellImmunityTest.cpp}::MakeFrostboltLikeSpell()</a>.</p>
+
+</div>
+</div>
+<a id="a9a4c71f3b9310c18fcf0fb7b0c14161a" name="a9a4c71f3b9310c18fcf0fb7b0c14161a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a4c71f3b9310c18fcf0fb7b0c14161a">&#9670;&#160;</a></span>TEST() <span class="overload">[13/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SchoolImmunity_BlocksHostileSpell&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  379</span>{</div>
+<div class="line"><span class="lineno">  380</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d0c/a05122.html#aa9048e95a3ceb76f45272b1240af4a2c">IsBlockedBySchoolImmunity</a>(<span class="keyword">false</span>, <span class="keyword">false</span>));</div>
+<div class="line"><span class="lineno">  381</span>}</div>
+<div class="ttc" id="aa05122_html_aa9048e95a3ceb76f45272b1240af4a2c"><div class="ttname"><a href="../../dc/d0c/a05122.html#aa9048e95a3ceb76f45272b1240af4a2c">anonymous_namespace{SpellImmunityTest.cpp}::IsBlockedBySchoolImmunity</a></div><div class="ttdeci">bool IsBlockedBySchoolImmunity(bool casterFriendly, bool immunityAppliesToFriendly)</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:128</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00128">anonymous_namespace{SpellImmunityTest.cpp}::IsBlockedBySchoolImmunity()</a>.</p>
+
+</div>
+</div>
+<a id="a385f0515f873116865149a063124ff11" name="a385f0515f873116865149a063124ff11"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a385f0515f873116865149a063124ff11">&#9670;&#160;</a></span>TEST() <span class="overload">[14/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SchoolImmunity_ExplicitFriendlyBlockStillApplies&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  374</span>{</div>
+<div class="line"><span class="lineno">  375</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d0c/a05122.html#aa9048e95a3ceb76f45272b1240af4a2c">IsBlockedBySchoolImmunity</a>(<span class="keyword">true</span>, <span class="keyword">true</span>));</div>
+<div class="line"><span class="lineno">  376</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00128">anonymous_namespace{SpellImmunityTest.cpp}::IsBlockedBySchoolImmunity()</a>.</p>
+
+</div>
+</div>
+<a id="a99d409636ad41ca419320a0f70bcb382" name="a99d409636ad41ca419320a0f70bcb382"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a99d409636ad41ca419320a0f70bcb382">&#9670;&#160;</a></span>TEST() <span class="overload">[15/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SchoolImmunity_TemplateStyle_AllowsFriendlySpell&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  369</span>{</div>
+<div class="line"><span class="lineno">  370</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d0c/a05122.html#aa9048e95a3ceb76f45272b1240af4a2c">IsBlockedBySchoolImmunity</a>(<span class="keyword">true</span>, <span class="keyword">false</span>));</div>
+<div class="line"><span class="lineno">  371</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00128">anonymous_namespace{SpellImmunityTest.cpp}::IsBlockedBySchoolImmunity()</a>.</p>
+
+</div>
+</div>
+<a id="a579210bd95da263d35a859c51af21bad" name="a579210bd95da263d35a859c51af21bad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a579210bd95da263d35a859c51af21bad">&#9670;&#160;</a></span>TEST() <span class="overload">[16/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SelfInvulnerability_BlocksMeleeDamage&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  249</span>{</div>
+<div class="line"><span class="lineno">  250</span>    SpellDesc meleeAttack = <a class="code hl_function" href="../../dc/d0c/a05122.html#ac9b0d1a51efd792514de07f8af0268cd">MakeDamageOnlySpell</a>();</div>
+<div class="line"><span class="lineno">  251</span>    <span class="comment">// simulate physical damage coming from a rogue melee ability</span></div>
+<div class="line"><span class="lineno">  252</span> </div>
+<div class="line"><span class="lineno">  253</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a>(<span class="keyword">false</span>, <span class="keyword">true</span>, meleeAttack), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  254</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00137">anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult()</a>, <a class="el" href="../../#l00184">anonymous_namespace{SpellImmunityTest.cpp}::MakeDamageOnlySpell()</a>, and <a class="el" href="../../#l01530">SPELL_MISS_IMMUNE</a>.</p>
+
+</div>
+</div>
+<a id="aa825e1abd2f35f0c5dd9ebacc11325f5" name="aa825e1abd2f35f0c5dd9ebacc11325f5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa825e1abd2f35f0c5dd9ebacc11325f5">&#9670;&#160;</a></span>TEST() <span class="overload">[17/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SpellImmunity_BlocksAllSpells&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  228</span>{</div>
+<div class="line"><span class="lineno">  229</span>    SpellDesc damageOnly = <a class="code hl_function" href="../../dc/d0c/a05122.html#ac9b0d1a51efd792514de07f8af0268cd">MakeDamageOnlySpell</a>();</div>
+<div class="line"><span class="lineno">  230</span>    SpellDesc cycloneLike = <a class="code hl_function" href="../../dc/d0c/a05122.html#a6db007c75130da75c1510de68536e7fd">MakeCycloneLikeSpell</a>();</div>
+<div class="line"><span class="lineno">  231</span> </div>
+<div class="line"><span class="lineno">  232</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a>(<span class="keyword">true</span>, <span class="keyword">false</span>, damageOnly), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  233</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a>(<span class="keyword">true</span>, <span class="keyword">false</span>, cycloneLike), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  234</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00137">anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult()</a>, <a class="el" href="../../#l00199">anonymous_namespace{SpellImmunityTest.cpp}::MakeCycloneLikeSpell()</a>, <a class="el" href="../../#l00184">anonymous_namespace{SpellImmunityTest.cpp}::MakeDamageOnlySpell()</a>, and <a class="el" href="../../#l01530">SPELL_MISS_IMMUNE</a>.</p>
+
+</div>
+</div>
+<a id="a364c61e1fd8f2cced1b6473676301fdc" name="a364c61e1fd8f2cced1b6473676301fdc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a364c61e1fd8f2cced1b6473676301fdc">&#9670;&#160;</a></span>TEST() <span class="overload">[18/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SpellImmunity_BlocksSlowOnlySpell&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  298</span>{</div>
+<div class="line"><span class="lineno">  299</span>    SpellDesc slowOnly = <a class="code hl_function" href="../../dc/d0c/a05122.html#ae0dcf3406441c72889d7703c788095a6">MakeSlowOnlySpell</a>();</div>
+<div class="line"><span class="lineno">  300</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a>(<span class="keyword">true</span>, <span class="keyword">false</span>, slowOnly), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  301</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00137">anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult()</a>, <a class="el" href="../../#l00206">anonymous_namespace{SpellImmunityTest.cpp}::MakeSlowOnlySpell()</a>, and <a class="el" href="../../#l01530">SPELL_MISS_IMMUNE</a>.</p>
+
+</div>
+</div>
+<a id="a48ed8d85023d0633bff5255d90e5d2be" name="a48ed8d85023d0633bff5255d90e5d2be"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a48ed8d85023d0633bff5255d90e5d2be">&#9670;&#160;</a></span>TEST() <span class="overload">[19/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">StunImmunity_DoesNotFullyBlockMixedSpell&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  358</span>{</div>
+<div class="line"><span class="lineno">  359</span>    SpellDesc mixedSpell;</div>
+<div class="line"><span class="lineno">  360</span>    mixedSpell.effects[0] = { <a class="code hl_enumvalue" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326">EFFECT_SCHOOL_DAMAGE</a>, <a class="code hl_enumvalue" href="../../dc/d0c/a05122.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c">AURA_NONE</a> };</div>
+<div class="line"><span class="lineno">  361</span>    mixedSpell.effects[1] = { <a class="code hl_enumvalue" href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09ba841daad67e5ce4267a3b709cb925597a">EFFECT_APPLY_AURA</a>, <a class="code hl_enumvalue" href="../../dc/d0c/a05122.html#ab3c8788e4514711f326743e17cf18f33a42c1557fe57b7d46ec7aaf73f8767ace">AURA_MOD_STUN</a> };</div>
+<div class="line"><span class="lineno">  362</span> </div>
+<div class="line"><span class="lineno">  363</span>    <span class="comment">// This models partial immunity: stun effect is blocked, damage still hits.</span></div>
+<div class="line"><span class="lineno">  364</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d0c/a05122.html#a95ec40b4341833086e531ed73dba7147">IsStunSpell</a>(mixedSpell));</div>
+<div class="line"><span class="lineno">  365</span>    EXPECT_EQ(<a class="code hl_function" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a>(<span class="keyword">false</span>, <span class="keyword">false</span>, mixedSpell, <span class="keyword">true</span>), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>);</div>
+<div class="line"><span class="lineno">  366</span>}</div>
+<div class="ttc" id="aa05122_html_a95ec40b4341833086e531ed73dba7147"><div class="ttname"><a href="../../dc/d0c/a05122.html#a95ec40b4341833086e531ed73dba7147">anonymous_namespace{SpellImmunityTest.cpp}::IsStunSpell</a></div><div class="ttdeci">bool IsStunSpell(SpellDesc const &amp;spell)</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:95</div></div>
+<div class="ttc" id="aa05122_html_ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c"><div class="ttname"><a href="../../dc/d0c/a05122.html#ab3c8788e4514711f326743e17cf18f33a6d4b017b9d6a47c80166fe40a50f7c0c">anonymous_namespace{SpellImmunityTest.cpp}::AURA_NONE</a></div><div class="ttdeci">@ AURA_NONE</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:47</div></div>
+<div class="ttc" id="aa05122_html_ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326"><div class="ttname"><a href="../../dc/d0c/a05122.html#ad4f0bfb68d839af88604b04ff47ee09ba8c7f6ace4b718c242badbdd606f2f326">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_SCHOOL_DAMAGE</a></div><div class="ttdeci">@ EFFECT_SCHOOL_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:35</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00051">anonymous_namespace{SpellImmunityTest.cpp}::AURA_MOD_STUN</a>, <a class="el" href="../../#l00047">anonymous_namespace{SpellImmunityTest.cpp}::AURA_NONE</a>, <a class="el" href="../../#l00137">anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult()</a>, <a class="el" href="../../#l00041">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_APPLY_AURA</a>, <a class="el" href="../../#l00035">anonymous_namespace{SpellImmunityTest.cpp}::EFFECT_SCHOOL_DAMAGE</a>, <a class="el" href="../../#l00095">anonymous_namespace{SpellImmunityTest.cpp}::IsStunSpell()</a>, and <a class="el" href="../../#l01523">SPELL_MISS_NONE</a>.</p>
 
 </div>
 </div>
@@ -641,8 +951,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d6/d2d/a00047.html">CascadeProcSuppressionTest.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 21:37:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d6/d2d/a00047.html">SpellImmunityTest.cpp</a></li>
+    <li class="footer">Generated on Mon May 4 2026 21:41:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

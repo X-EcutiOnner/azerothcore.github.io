@@ -1,5 +1,5 @@
 var a27670 =
 [
-    [ "achievement_bg_ic_mowed_down", "dc/d28/a27670.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "dc/d28/a27670.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "AreaTrigger_at_sentry_point", "dc/d28/a27670.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "dc/d28/a27670.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

@@ -1,6 +1,8 @@
 var a23506 =
 [
-    [ "AfterRemove", "d0/dad/a23506.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d0/dad/a23506.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d0/dad/a23506.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "HandleScriptEffect", "d0/dad/a23506.html#a7cde39fc0844f19604c8026a853e8216", null ],
+    [ "Load", "d0/dad/a23506.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
+    [ "PrepareSpellScript", "d0/dad/a23506.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
+    [ "Register", "d0/dad/a23506.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
+    [ "_currentSpellId", "d0/dad/a23506.html#a0ad25535ba345fe9672150af67687305", null ]
 ];

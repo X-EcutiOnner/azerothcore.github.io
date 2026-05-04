@@ -1,7 +1,5 @@
 var a09430 =
 [
-    [ "V8Type", "da/daa/a09430.html#a385ac15640b76e43eda077c451dcd745", null ],
-    [ "V9Type", "da/daa/a09430.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
-    [ "v8", "da/daa/a09430.html#a55d7b001e047c31686b110cc4b1aa295", null ],
-    [ "v9", "da/daa/a09430.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
+    [ "asChar", "da/daa/a09430.html#a3c1546425a9287498d23753f51e27de2", null ],
+    [ "asUInt", "da/daa/a09430.html#a87b4e38a5c10dba382bd0761b70c2234", null ]
 ];

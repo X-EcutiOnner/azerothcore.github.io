@@ -1,6 +1,6 @@
 var a17502 =
 [
-    [ "npc_kinetic_bombAI", "d1/df7/a17506.html", "d1/df7/a17506" ],
-    [ "npc_kinetic_bomb", "d7/d6a/a17502.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
-    [ "GetAI", "d7/d6a/a17502.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
+    [ "boss_prince_valanarAI", "d1/df7/a17506.html", "d1/df7/a17506" ],
+    [ "boss_prince_valanar_icc", "d7/d6a/a17502.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "d7/d6a/a17502.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

@@ -1,6 +1,10 @@
 var a19378 =
 [
-    [ "npc_teslaAI", "d5/d41/a19382.html", "d5/d41/a19382" ],
-    [ "npc_tesla", "d3/d16/a19378.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
-    [ "GetAI", "d3/d16/a19378.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
+    [ "boss_razuvious_minionAI", "d3/d16/a19378.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "d3/d16/a19378.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "d3/d16/a19378.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "d3/d16/a19378.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "d3/d16/a19378.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "d3/d16/a19378.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "d3/d16/a19378.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

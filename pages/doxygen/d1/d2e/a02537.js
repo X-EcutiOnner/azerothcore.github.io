@@ -1,5 +1,5 @@
 var a02537 =
 [
-    [ "modify_commandscript", "d4/d7c/a12273.html", "d4/d7c/a12273" ],
-    [ "AddSC_modify_commandscript", "d1/d2e/a02537.html#a9cbb6ad3c630cbeb9ba39b4552f72e87", null ]
+    [ "wp_commandscript", "dd/d3d/a12406.html", "dd/d3d/a12406" ],
+    [ "AddSC_wp_commandscript", "d1/d2e/a02537.html#afc6bb2ca7e993730a57350142f7e6fd5", null ]
 ];

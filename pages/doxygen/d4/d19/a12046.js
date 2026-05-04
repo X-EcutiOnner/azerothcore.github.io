@@ -1,12 +1,6 @@
 var a12046 =
 [
-    [ "WardenMac", "d4/d19/a12046.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
-    [ "~WardenMac", "d4/d19/a12046.html#a5f3832580c73a0af34fa83669a92ceab", null ],
-    [ "GetModuleForClient", "d4/d19/a12046.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
-    [ "HandleData", "d4/d19/a12046.html#a024be47d39641cb0e7654b0e0999e444", null ],
-    [ "HandleHashResult", "d4/d19/a12046.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
-    [ "Init", "d4/d19/a12046.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
-    [ "InitializeModule", "d4/d19/a12046.html#a4fceef34e83db1a357d9eadce35efdef", null ],
-    [ "RequestChecks", "d4/d19/a12046.html#a2437a3a5650305b05fc22d312d0006da", null ],
-    [ "RequestHash", "d4/d19/a12046.html#af031f18554c5a96b4eb39371a92b9c51", null ]
+    [ "Command", "d4/d19/a12046.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
+    [ "Data", "d4/d19/a12046.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
+    [ "DataSize", "d4/d19/a12046.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
 ];

@@ -1,7 +1,9 @@
 var a22046 =
 [
-    [ "HandleScript", "dd/d1c/a22046.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
-    [ "PrepareSpellScript", "dd/d1c/a22046.html#a8400fb2e0955444aee21b994d78b78c3", null ],
-    [ "Register", "dd/d1c/a22046.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
-    [ "Validate", "dd/d1c/a22046.html#aa9c2280cbb38db2620db9869e4959153", null ]
+    [ "HandleFinish", "dd/d1c/a22046.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "dd/d1c/a22046.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "dd/d1c/a22046.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "dd/d1c/a22046.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "dd/d1c/a22046.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "dd/d1c/a22046.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

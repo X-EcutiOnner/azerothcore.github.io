@@ -1,5 +1,6 @@
 var a25222 =
 [
-    [ "PrepareSpellScript", "d2/d2c/a25222.html#af2a8cfb5f732691622b4c633f4dde253", null ],
-    [ "Register", "d2/d2c/a25222.html#ae171d4b40e72498a5dbb4ac65ee1619d", null ]
+    [ "FilterTargets", "d2/d2c/a25222.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
+    [ "PrepareSpellScript", "d2/d2c/a25222.html#a9fb910382c89750e38cb36bed48a1597", null ],
+    [ "Register", "d2/d2c/a25222.html#a667b10129d2d23f72712be523dc93180", null ]
 ];

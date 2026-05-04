@@ -1,10 +1,10 @@
 var a28110 =
 [
-    [ "go_evil_book_for_dummies", "de/de9/a28110.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "de/de9/a28110.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "de/de9/a28110.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "de/de9/a28110.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "de/de9/a28110.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "de/de9/a28110.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "de/de9/a28110.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "npc_air_force_botsAI", "de/de9/a28110.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "de/de9/a28110.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "de/de9/a28110.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "de/de9/a28110.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "de/de9/a28110.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "de/de9/a28110.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "de/de9/a28110.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

@@ -1,7 +1,10 @@
 var a08390 =
 [
-    [ "entry", "db/dff/a08390.html#aabf7002fbd171e7f1832be5f066dbe44", null ],
-    [ "pos", "db/dff/a08390.html#aad6aa76796625075e4fcfb7d1a3eb88c", null ],
-    [ "time", "db/dff/a08390.html#a8a38eed04cdb2efb89e98f869e0d800d", null ],
-    [ "type", "db/dff/a08390.html#a40927a435b557e4c1e5c5eedbb5d5e5b", null ]
+    [ "FormationMgr", "db/dff/a08390.html#ade1aa22473c112aed65d537929b07908", null ],
+    [ "~FormationMgr", "db/dff/a08390.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
+    [ "AddCreatureToGroup", "db/dff/a08390.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
+    [ "instance", "db/dff/a08390.html#a871fec234a94e4adae07315a008acec3", null ],
+    [ "LoadCreatureFormations", "db/dff/a08390.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
+    [ "RemoveCreatureFromGroup", "db/dff/a08390.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
+    [ "CreatureGroupMap", "db/dff/a08390.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
 ];

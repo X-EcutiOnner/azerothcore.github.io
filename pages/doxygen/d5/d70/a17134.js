@@ -1,9 +1,10 @@
 var a17134 =
 [
-    [ "npc_hor_spiritual_reflection", "d5/d70/a17134.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
-    [ "EnterEvadeMode", "d5/d70/a17134.html#a3973e83b013df723849939635071324f", null ],
-    [ "JustDied", "d5/d70/a17134.html#a913d17e1534a5940b7841e38eae246f7", null ],
-    [ "JustEngagedWith", "d5/d70/a17134.html#ad47d12654c88cc94b7c17906e4096115", null ],
-    [ "Reset", "d5/d70/a17134.html#aa7dad28bbe53286ec298ba5480717e69", null ],
-    [ "UpdateAI", "d5/d70/a17134.html#a5093b6502bca95c22b2b0f0117f86047", null ]
+    [ "npc_hor_leaderAI", "d5/d70/a17134.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "d5/d70/a17134.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "d5/d70/a17134.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "d5/d70/a17134.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "d5/d70/a17134.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "instance", "d5/d70/a17134.html#aaf5ee73e8d3a52c51cbc64853843ed4e", null ],
+    [ "shortver", "d5/d70/a17134.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

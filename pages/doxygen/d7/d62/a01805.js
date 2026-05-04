@@ -1,10 +1,12 @@
 var a01805 =
 [
-    [ "MovementGenerator", "da/d1b/a10257.html", "da/d1b/a10257" ],
-    [ "MovementGeneratorMedium< T, D >", "d9/dfa/a10261.html", "d9/dfa/a10261" ],
-    [ "MovementGeneratorFactory< Movement >", "d3/dc2/a10265.html", "d3/dc2/a10265" ],
-    [ "IdleMovementFactory", "db/dba/a10269.html", "db/dba/a10269" ],
-    [ "sMovementGeneratorRegistry", "d7/d62/a01805.html#aa270c1b96e4671274975a07340ba687a", null ],
-    [ "MovementGeneratorCreator", "d7/d62/a01805.html#ae7a6c44762ef974149bfb8d00247a013", null ],
-    [ "MovementGeneratorRegistry", "d7/d62/a01805.html#ae78e82cd7b1aea7744a0dbb2e65f8e79", null ]
+    [ "CliCommandHolder", "d7/dee/a12114.html", "d7/dee/a12114" ],
+    [ "IWorld", "d4/dff/a12118.html", "d4/dff/a12118" ],
+    [ "ServerMessageType", "d7/d62/a01805.html#a08e6f7cfaf7929274a1908b0e95c798f", [
+      [ "SERVER_MSG_SHUTDOWN_TIME", "d7/d62/a01805.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c", null ],
+      [ "SERVER_MSG_RESTART_TIME", "d7/d62/a01805.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68", null ],
+      [ "SERVER_MSG_STRING", "d7/d62/a01805.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517", null ],
+      [ "SERVER_MSG_SHUTDOWN_CANCELLED", "d7/d62/a01805.html#a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b", null ],
+      [ "SERVER_MSG_RESTART_CANCELLED", "d7/d62/a01805.html#a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131", null ]
+    ] ]
 ];

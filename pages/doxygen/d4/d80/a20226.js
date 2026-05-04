@@ -1,5 +1,6 @@
 var a20226 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "d4/d80/a20226.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "d4/d80/a20226.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "FilterTargets", "d4/d80/a20226.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "d4/d80/a20226.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "d4/d80/a20226.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

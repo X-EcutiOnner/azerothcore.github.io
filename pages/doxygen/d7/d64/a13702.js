@@ -1,8 +1,6 @@
 var a13702 =
 [
-    [ "HandleApply", "d7/d64/a13702.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "d7/d64/a13702.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "d7/d64/a13702.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "d7/d64/a13702.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "d7/d64/a13702.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "FixOrientation", "d7/d64/a13702.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "d7/d64/a13702.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "d7/d64/a13702.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

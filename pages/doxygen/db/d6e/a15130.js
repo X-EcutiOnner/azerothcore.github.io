@@ -1,11 +1,14 @@
 var a15130 =
 [
-    [ "npc_tarethaAI", "db/d6e/a15130.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
-    [ "AttackStart", "db/d6e/a15130.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
-    [ "DoAction", "db/d6e/a15130.html#adbb40db0b70532a20731cf5039e44d0b", null ],
-    [ "MoveInLineOfSight", "db/d6e/a15130.html#afa0427372e43316851018bf78274707f", null ],
-    [ "Reset", "db/d6e/a15130.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
-    [ "WaypointReached", "db/d6e/a15130.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
-    [ "WaypointReached", "db/d6e/a15130.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "instance", "db/d6e/a15130.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
+    [ "boss_captain_skarloc", "db/d6e/a15130.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "db/d6e/a15130.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "db/d6e/a15130.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "db/d6e/a15130.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "db/d6e/a15130.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "db/d6e/a15130.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "db/d6e/a15130.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "db/d6e/a15130.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "db/d6e/a15130.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "db/d6e/a15130.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "db/d6e/a15130.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

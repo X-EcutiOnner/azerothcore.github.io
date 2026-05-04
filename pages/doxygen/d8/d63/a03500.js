@@ -1,28 +1,11 @@
 var a03500 =
 [
-    [ "tf_tower_world_state", "de/d3b/a22169.html", "de/d3b/a22169" ],
-    [ "OPvPCapturePointTF", "d6/d66/a22173.html", "d6/d66/a22173" ],
-    [ "OutdoorPvPTF", "d2/d33/a22177.html", "d2/d33/a22177" ],
-    [ "TF_CAPTURE_BUFF", "d8/d63/a03500.html#a82bc235ec6d43b48511d1b3d903a934b", null ],
-    [ "OutdoorPvPTF_TowerType", "d8/d63/a03500.html#a7a4347e10a530d56e3c3ae66a5eae999", [
-      [ "TF_TOWER_NW", "d8/d63/a03500.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16", null ],
-      [ "TF_TOWER_N", "d8/d63/a03500.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b", null ],
-      [ "TF_TOWER_NE", "d8/d63/a03500.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97", null ],
-      [ "TF_TOWER_SE", "d8/d63/a03500.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65", null ],
-      [ "TF_TOWER_S", "d8/d63/a03500.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0", null ],
-      [ "TF_TOWER_NUM", "d8/d63/a03500.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3", null ]
-    ] ],
-    [ "TFTowerStates", "d8/d63/a03500.html#a5815248809b8fd06bd664886846a7126", [
-      [ "TF_TOWERSTATE_N", "d8/d63/a03500.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f", null ],
-      [ "TF_TOWERSTATE_H", "d8/d63/a03500.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1", null ],
-      [ "TF_TOWERSTATE_A", "d8/d63/a03500.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d", null ]
-    ] ],
-    [ "OutdoorPvPTFBuffZones", "d8/d63/a03500.html#a6b09030102f8c0dbb4b0e6bbfdee9b24", null ],
-    [ "OutdoorPvPTFBuffZonesNum", "d8/d63/a03500.html#acde5c9331776adb4ed27c2319476e550", null ],
-    [ "TF_ALLY_QUEST", "d8/d63/a03500.html#a3967b7bb2df0e330fbd21a68d557b19a", null ],
-    [ "TF_HORDE_QUEST", "d8/d63/a03500.html#a1bbe00a4cf0ae9f6750d23ef10539c0a", null ],
-    [ "TF_LOCK_TIME", "d8/d63/a03500.html#a925c2f6bf9c7a6d1b694382b888fa85f", null ],
-    [ "TF_LOCK_TIME_UPDATE", "d8/d63/a03500.html#a9ef7be226d98726081fd3cb435d223b5", null ],
-    [ "TFCapturePoints", "d8/d63/a03500.html#a19e9cf9859a7578f154dcdcfa0670620", null ],
-    [ "TFTowerWorldStates", "d8/d63/a03500.html#ac5dbb8989285178cfea88af6f03dd6a6", null ]
+    [ "AddOutdoorPvPScripts", "d8/d63/a03500.html#a489bdfb4854732e561b6b13b70f67a0f", null ],
+    [ "AddSC_outdoorpvp_ep", "d8/d63/a03500.html#ac97adfc1efbcf82840cffa915a55fecb", null ],
+    [ "AddSC_outdoorpvp_gh", "d8/d63/a03500.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ],
+    [ "AddSC_outdoorpvp_hp", "d8/d63/a03500.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "AddSC_outdoorpvp_na", "d8/d63/a03500.html#a03015585e7619177355fefd05f85e1c7", null ],
+    [ "AddSC_outdoorpvp_si", "d8/d63/a03500.html#a6dfd2849f525333510ae4febbbc3ae1f", null ],
+    [ "AddSC_outdoorpvp_tf", "d8/d63/a03500.html#a6df553c8dd6e9b81e83110e7beab3646", null ],
+    [ "AddSC_outdoorpvp_zm", "d8/d63/a03500.html#a3077d08865fa83f84cf956c392a9091c", null ]
 ];

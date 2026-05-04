@@ -1,10 +1,14 @@
 var a02672 =
 [
-    [ "instance_sethekk_halls", "d8/deb/a22269.html", "d8/deb/a22269" ],
-    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "d1/df2/a22273.html", "d1/df2/a22273" ],
-    [ "AddSC_instance_sethekk_halls", "d0/d9f/a02672.html#a14325c1667938972a51bf364b00fe3c3", null ],
-    [ "anzuSummonEventId", "d0/d9f/a02672.html#aa1fc295d418ed62b1c08ea6d11e111e3", null ],
-    [ "creatureData", "d0/d9f/a02672.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d0/d9f/a02672.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d0/d9f/a02672.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "DataHeader", "d0/d9f/a02672.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "MTScriptName", "d0/d9f/a02672.html#a772413d8818d681e2261c99f58e1268c", null ],
+    [ "RegisterManaTombsCreatureAI", "d0/d9f/a02672.html#a7e2e8ea768842320ce5d953aeaddb176", null ],
+    [ "MTDataTypes", "d0/d9f/a02672.html#a9ffea4a6410ded9f327ba6e91f8766ee", [
+      [ "DATA_PANDEMONIUS", "d0/d9f/a02672.html#a9ffea4a6410ded9f327ba6e91f8766eeab1efde1b4aaad2daab0c383563a9f02a", null ],
+      [ "DATA_TAVAROK", "d0/d9f/a02672.html#a9ffea4a6410ded9f327ba6e91f8766eea9245929feb24a0840eeff34e8c87de57", null ],
+      [ "DATA_NEXUSPRINCE_SHAFFAR", "d0/d9f/a02672.html#a9ffea4a6410ded9f327ba6e91f8766eea07473250c26fb3874461362f93a75a97", null ],
+      [ "DATA_YOR", "d0/d9f/a02672.html#a9ffea4a6410ded9f327ba6e91f8766eea738b876feae2daf42423688ca0f13289", null ]
+    ] ],
+    [ "GetManaTombsAI", "d0/d9f/a02672.html#aaec5771a3ce0808b0a1bb0116b4fb9e3", null ],
+    [ "EncounterCount", "d0/d9f/a02672.html#a31d630c40753c29f94ceac2db5e451a8", null ]
 ];

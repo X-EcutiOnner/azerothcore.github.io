@@ -1,8 +1,8 @@
 var a14250 =
 [
-    [ "FilterTargets", "d5/ddb/a14250.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "d5/ddb/a14250.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "d5/ddb/a14250.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "d5/ddb/a14250.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "d5/ddb/a14250.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "HandleScriptEffect", "d5/ddb/a14250.html#af7f22d3b7ba136ec2af88656b9805168", null ],
+    [ "PrepareSpellScript", "d5/ddb/a14250.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
+    [ "Register", "d5/ddb/a14250.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
+    [ "Validate", "d5/ddb/a14250.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
+    [ "spells", "d5/ddb/a14250.html#a902fc17746af82a4c58fe599c9616ce2", null ]
 ];

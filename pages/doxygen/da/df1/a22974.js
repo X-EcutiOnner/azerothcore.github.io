@@ -1,6 +1,7 @@
 var a22974 =
 [
-    [ "HandlePeriodic", "da/df1/a22974.html#a25c698e911ec02d9cd7f757ba87281df", null ],
-    [ "PrepareAuraScript", "da/df1/a22974.html#a7bf79bc5e5f509b52965f03e998db399", null ],
-    [ "Register", "da/df1/a22974.html#ab3eec9f591384c7c1c684651c38aa614", null ]
+    [ "HandleProc", "da/df1/a22974.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "da/df1/a22974.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "da/df1/a22974.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "da/df1/a22974.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

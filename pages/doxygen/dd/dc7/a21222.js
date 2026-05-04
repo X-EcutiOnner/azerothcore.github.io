@@ -1,6 +1,10 @@
 var a21222 =
 [
-    [ "npc_azure_saboteurAI", "df/d91/a21226.html", "df/d91/a21226" ],
-    [ "npc_azure_saboteur", "dd/dc7/a21222.html#ae60362727a7a246b7c6c923ed96c7be7", null ],
-    [ "GetAI", "dd/dc7/a21222.html#a69b552fb6f725d00ac4b0303d36a7138", null ]
+    [ "npc_lurgglbrAI", "dd/dc7/a21222.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "dd/dc7/a21222.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "dd/dc7/a21222.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "dd/dc7/a21222.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "WaypointReached", "dd/dc7/a21222.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IntroPhase", "dd/dc7/a21222.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "dd/dc7/a21222.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

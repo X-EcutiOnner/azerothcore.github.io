@@ -1,11 +1,6 @@
 var a19430 =
 [
-    [ "npc_hover_disk", "de/db7/a19430.html#af6f8ef0df4b64540f99adebdd709b00e", null ],
-    [ "AttackStart", "de/db7/a19430.html#a3ea3d44f74f26115f0a29fad134fcfc8", null ],
-    [ "DoAction", "de/db7/a19430.html#ae4141e5aed3cfdbf8d76ad55ce4463d9", null ],
-    [ "MoveInLineOfSight", "de/db7/a19430.html#a0ad97e511bd01c269c04d2ccfe007f91", null ],
-    [ "MovementInform", "de/db7/a19430.html#a9d1c7ac28f2c597864cf2c70ab0fb943", null ],
-    [ "PassengerBoarded", "de/db7/a19430.html#ab7e712a9d5aec7c3112796316a7fe534", null ],
-    [ "UpdateAI", "de/db7/a19430.html#add98702312084df553e24bcd4b632bb3", null ],
-    [ "events", "de/db7/a19430.html#a073e1161eda3b714ad0d7ea96f865b6d", null ]
+    [ "DespawnTime", "de/db7/a19430.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "de/db7/a19430.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "de/db7/a19430.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

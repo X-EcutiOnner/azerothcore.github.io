@@ -1,4 +1,4 @@
 var a15250 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "d4/d0e/a15250.html#a60715ab6220e798f16b16bcaa3714ad9", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "d4/d0e/a15250.html#a4b55a59943c798b203a0a3c811588e7d", null ]
 ];

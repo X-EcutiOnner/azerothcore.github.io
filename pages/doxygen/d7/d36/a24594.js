@@ -1,8 +1,10 @@
 var a24594 =
 [
-    [ "CheckProc", "d7/d36/a24594.html#a1b9f36ea8dae6ad947a75bbe23f7fc2d", null ],
-    [ "HandleProc", "d7/d36/a24594.html#a506420e3e109bf8f4e7c83b101c80c3c", null ],
-    [ "PrepareAuraScript", "d7/d36/a24594.html#a5e81587c47cbb6f331b6d5f8f22d7616", null ],
-    [ "Register", "d7/d36/a24594.html#a38de7578466df47ebe6fc7b5bfab616b", null ],
-    [ "Validate", "d7/d36/a24594.html#ad81044da0924211cbbaccc671839983c", null ]
+    [ "HandleEffectApply", "d7/d36/a24594.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "d7/d36/a24594.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "d7/d36/a24594.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "d7/d36/a24594.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "d7/d36/a24594.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "d7/d36/a24594.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "d7/d36/a24594.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

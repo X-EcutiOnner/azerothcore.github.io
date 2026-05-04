@@ -1,6 +1,9 @@
 var a15718 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d6/da4/a15722.html", "d6/da4/a15722" ],
-    [ "npc_tiger_matriarch_credit", "d0/d35/a15718.html#a9d76e8e808c828da501551025eecd8ea", null ],
-    [ "GetAI", "d0/d35/a15718.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
+    [ "npc_prospector_remtravelAI", "d0/d35/a15718.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d0/d35/a15718.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d0/d35/a15718.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d0/d35/a15718.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d0/d35/a15718.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
+    [ "WaypointReached", "d0/d35/a15718.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

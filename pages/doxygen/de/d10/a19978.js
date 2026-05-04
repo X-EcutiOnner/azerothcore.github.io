@@ -1,8 +1,5 @@
 var a19978 =
 [
-    [ "FilterTargets", "de/d10/a19978.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "de/d10/a19978.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "de/d10/a19978.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "de/d10/a19978.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "de/d10/a19978.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "boss_flame_leviathan_overload_device", "de/d10/a19978.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
+    [ "OnSpellClick", "de/d10/a19978.html#a3f313a637fd95e28db1265ae84f349a8", null ]
 ];

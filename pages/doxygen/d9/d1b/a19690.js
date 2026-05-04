@@ -1,6 +1,7 @@
 var a19690 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d9/d7f/a19694.html", "d9/d7f/a19694" ],
-    [ "instance_halls_of_lightning", "d9/d1b/a19690.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "d9/d1b/a19690.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "HandleOnEffectApply", "d9/d1b/a19690.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "d9/d1b/a19690.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "d9/d1b/a19690.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "d9/d1b/a19690.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

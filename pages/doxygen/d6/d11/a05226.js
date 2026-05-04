@@ -1,9 +1,7 @@
 var a05226 =
 [
-    [ "MMapMgr", "d6/d11/a05226.html#abd4bd2ef84d57be5000ab37ed36ded8c", null ],
-    [ "~MMapMgr", "d6/d11/a05226.html#a0891f2313f7c78182334b43e304bafd0", null ],
-    [ "CreateNavMeshQuery", "d6/d11/a05226.html#affca526b45b63f9c827a52baa212f02c", null ],
-    [ "LoadNavMesh", "d6/d11/a05226.html#aead5607e8f61161464c388c889ca9938", null ],
-    [ "LoadTile", "d6/d11/a05226.html#a2b1efdb836189224a7ac1247b6c397e5", null ],
-    [ "packTileID", "d6/d11/a05226.html#ace3265c248ccf2a34ca4b7c43f294e43", null ]
+    [ "LiquidInfo", "d6/d11/a05226.html#a0caefac43d2f5c59446e2a9f7e565c11", null ],
+    [ "LiquidInfo", "d6/d11/a05226.html#abfae4e75223a93b5b71840f60710afb9", null ],
+    [ "level", "d6/d11/a05226.html#ade8f31cc9adc77ff82724134b5ebba24", null ],
+    [ "type", "d6/d11/a05226.html#a46eda7aed64f2a5b0bd5ce1f88942c20", null ]
 ];

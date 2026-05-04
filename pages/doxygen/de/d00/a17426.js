@@ -1,11 +1,7 @@
 var a17426 =
 [
-    [ "boss_slad_ranAI", "de/d00/a17426.html#ad85e2fd51d67739026a96bc757bc7801", null ],
-    [ "GetData", "de/d00/a17426.html#a58e1188a418acdc1f327e7df90c5c122", null ],
-    [ "JustDied", "de/d00/a17426.html#a636ca76497c33a5175986e80bbcda44a", null ],
-    [ "JustEngagedWith", "de/d00/a17426.html#ac30b38805d0421b1be509c7d5609c648", null ],
-    [ "KilledUnit", "de/d00/a17426.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
-    [ "Reset", "de/d00/a17426.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
-    [ "SetData", "de/d00/a17426.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
-    [ "_achievement", "de/d00/a17426.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
+    [ "HandleApplyAura", "de/d00/a17426.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
+    [ "PrepareSpellScript", "de/d00/a17426.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
+    [ "Register", "de/d00/a17426.html#a80638966202cb9e27d204ea621e379ef", null ],
+    [ "Validate", "de/d00/a17426.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
 ];

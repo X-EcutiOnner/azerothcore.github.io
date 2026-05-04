@@ -1,10 +1,8 @@
 var a29054 =
 [
-    [ "attackSpeed", "d1/d63/a29054.html#ab5242f7367e8799a556176178c72fc88", null ],
-    [ "creatureType", "d1/d63/a29054.html#a3dff9074b85261932ed8a8a550c5395b", null ],
-    [ "flags1", "d1/d63/a29054.html#a026745f2ce754d754858d69ee219b518", null ],
-    [ "ID", "d1/d63/a29054.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
-    [ "modelID_A", "d1/d63/a29054.html#a86dfa61342583d920b7d8496bce4b49d", null ],
-    [ "modelID_H", "d1/d63/a29054.html#a1ee597d6fd02507b682874929645e01d", null ],
-    [ "stanceSpell", "d1/d63/a29054.html#a08f54b905e905fb5a59e449f8c613c08", null ]
+    [ "MapDifficulty", "d1/d63/a29054.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "d1/d63/a29054.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "d1/d63/a29054.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "d1/d63/a29054.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "d1/d63/a29054.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

@@ -1,7 +1,7 @@
 var a18942 =
 [
-    [ "OnRemove", "dd/d0d/a18942.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "dd/d0d/a18942.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "dd/d0d/a18942.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "dd/d0d/a18942.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "HandleQuestComplete", "dd/d0d/a18942.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "dd/d0d/a18942.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "dd/d0d/a18942.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "dd/d0d/a18942.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

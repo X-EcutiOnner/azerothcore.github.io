@@ -1,6 +1,6 @@
 var a20978 =
 [
-    [ "boss_emalonAI", "d3/de6/a20982.html", "d3/de6/a20982" ],
-    [ "boss_emalon", "d3/dbe/a20978.html#a2dd481292e02337bebd450f5c9821886", null ],
-    [ "GetAI", "d3/dbe/a20978.html#a345b0663ba89de5e37b87a436c48e446", null ]
+    [ "CalculateAmount", "d3/dbe/a20978.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "d3/dbe/a20978.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "d3/dbe/a20978.html#a9bce52699983fe798c903385faa42462", null ]
 ];

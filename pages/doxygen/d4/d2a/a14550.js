@@ -1,7 +1,6 @@
 var a14550 =
 [
-    [ "HandleScriptEffect", "d4/d2a/a14550.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
-    [ "PrepareSpellScript", "d4/d2a/a14550.html#a3d906994c11e52e89c842189be73ddfd", null ],
-    [ "Register", "d4/d2a/a14550.html#a4cdab36e2265c696207a39e16549ab13", null ],
-    [ "Validate", "d4/d2a/a14550.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
+    [ "OnApply", "d4/d2a/a14550.html#a4a276b00d4912c210598057620368934", null ],
+    [ "PrepareAuraScript", "d4/d2a/a14550.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
+    [ "Register", "d4/d2a/a14550.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
 ];

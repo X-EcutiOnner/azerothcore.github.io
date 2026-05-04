@@ -1,7 +1,6 @@
 var a20654 =
 [
-    [ "OnApply", "db/dd2/a20654.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
-    [ "OnRemove", "db/dd2/a20654.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
-    [ "PrepareAuraScript", "db/dd2/a20654.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
-    [ "Register", "db/dd2/a20654.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
+    [ "boss_yoggsaron_descend_portal", "db/dd2/a20654.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "db/dd2/a20654.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "db/dd2/a20654.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

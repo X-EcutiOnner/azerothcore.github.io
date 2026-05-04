@@ -1,8 +1,7 @@
 var a27406 =
 [
-    [ "HandleDummyTick", "d6/d8d/a27406.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "d6/d8d/a27406.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "d6/d8d/a27406.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "d6/d8d/a27406.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "d6/d8d/a27406.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "HandleProc", "d6/d8d/a27406.html#a4294ab4682ea26f78eb4c90c59e86953", null ],
+    [ "PrepareAuraScript", "d6/d8d/a27406.html#ac5d22623791d195aa767d5a28e9639b7", null ],
+    [ "Register", "d6/d8d/a27406.html#a135abc0548ba189fcf6bd662d7ae8940", null ],
+    [ "Validate", "d6/d8d/a27406.html#ac10227e6423f61b0fd67803f01fd4a0e", null ]
 ];

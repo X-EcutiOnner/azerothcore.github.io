@@ -1,7 +1,8 @@
 var a11154 =
 [
-    [ "ReadItem", "df/d70/a11154.html#a099da7490ccf30ee0bde5f85e6197a76", null ],
-    [ "Read", "df/d70/a11154.html#a61ae8ba19d04f3001614f8dd2ad408ed", null ],
-    [ "Bag", "df/d70/a11154.html#a16c02f27e986ac3d093668092d67a3c9", null ],
-    [ "Slot", "df/d70/a11154.html#a1d181a1cec1021cf68a5d9b80d2753c3", null ]
+    [ "SetRaidDifficulty", "df/d70/a11154.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "df/d70/a11154.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "df/d70/a11154.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "df/d70/a11154.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "df/d70/a11154.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

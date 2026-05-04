@@ -1,13 +1,10 @@
 var a29622 =
 [
-    [ "AuraConfig", "db/d0e/a29626.html", "db/d0e/a29626" ],
-    [ "ProcRecord", "d0/dc7/a29630.html", "d0/dc7/a29630" ],
-    [ "ProcChainGuardSimulator", "d6/d9d/a29622.html#ad729e5f44922b9b6c44c9a4d732818e7", null ],
-    [ "CanProc", "d6/d9d/a29622.html#a267703c4a51bf3e8020e3298c85b74b3", null ],
-    [ "GetProcDeep", "d6/d9d/a29622.html#afe8e4320a882c474f883347860ad4d47", null ],
-    [ "GetRecords", "d6/d9d/a29622.html#ae21baa9f43fb78e30dedfc6608684e9e", null ],
-    [ "SetCantProc", "d6/d9d/a29622.html#ab479d1a30e547ce04775abe397cfea14", null ],
-    [ "SimulateTriggerAurasProc", "d6/d9d/a29622.html#ab0a0af1461f0f94a87273f468bc5454d", null ],
-    [ "_procDeep", "d6/d9d/a29622.html#a5fd0de564b32520971082df9620d40b4", null ],
-    [ "_records", "d6/d9d/a29622.html#abdecfb4d1da86f5a5d4cd7c92c228617", null ]
+    [ "adt_CELLS", "d0/dc7/a29630.html", "d0/dc7/a29630" ],
+    [ "getMCNK", "d6/d9d/a29622.html#a8330b7cb405146399d3d20e6952a8b40", null ],
+    [ "prepareLoadedData", "d6/d9d/a29622.html#adc7346499aa51f4422c810b7e757f835", null ],
+    [ "cells", "d6/d9d/a29622.html#a434ed0ca354ec27d5334cc63e5650038", null ],
+    [ "fcc", "d6/d9d/a29622.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
+    [ "fcc_txt", "d6/d9d/a29622.html#a514bae36851623daf76b26a9d63f1ae0", null ],
+    [ "size", "d6/d9d/a29622.html#a1a40f52ea9eef3add8207da89cb71210", null ]
 ];

@@ -1,7 +1,9 @@
 var a11978 =
 [
-    [ "FieldIndices", "d8/dd5/a11978.html#a06a366c804088e6fbb170881004a5cff", null ],
-    [ "TableFields", "d8/dd5/a11978.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
-    [ "TableName", "d8/dd5/a11978.html#ab00ee028c72660db98e8108583701471", null ],
-    [ "WhereFieldName", "d8/dd5/a11978.html#af1be82a21f6172504e310ae27b899e5b", null ]
+    [ "CreatureTextLocalizer", "d8/dd5/a11978.html#a799f1007b9977224d71da1451c3454e1", null ],
+    [ "~CreatureTextLocalizer", "d8/dd5/a11978.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
+    [ "operator()", "d8/dd5/a11978.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
+    [ "_builder", "d8/dd5/a11978.html#a1d8d97d3e423810d044a8155b182899d", null ],
+    [ "_msgType", "d8/dd5/a11978.html#adf9260955b0141e85ff47c66350244e2", null ],
+    [ "_packetCache", "d8/dd5/a11978.html#a660b352a1c1855f4b10a8aebef88133f", null ]
 ];

@@ -1,8 +1,7 @@
 var a12850 =
 [
-    [ "npc_lava_spawn", "d1/dc6/a12850.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d1/dc6/a12850.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d1/dc6/a12850.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d1/dc6/a12850.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d1/dc6/a12850.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "HandlePeriodic", "d1/dc6/a12850.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
+    [ "PrepareAuraScript", "d1/dc6/a12850.html#a5dca8e116c05d11961cbd7995314441e", null ],
+    [ "Register", "d1/dc6/a12850.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
+    [ "Validate", "d1/dc6/a12850.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
 ];

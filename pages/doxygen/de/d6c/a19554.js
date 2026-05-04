@@ -1,15 +1,11 @@
 var a19554 =
 [
-    [ "boss_eregosAI", "de/d6c/a19554.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
-    [ "DamageTaken", "de/d6c/a19554.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
-    [ "JustDied", "de/d6c/a19554.html#ade16be2804b857fc8e93a62d4be42380", null ],
-    [ "JustEngagedWith", "de/d6c/a19554.html#a1544782732beba5d7114c3bb70419ae1", null ],
-    [ "JustSummoned", "de/d6c/a19554.html#a33ef5a080e457f4e08e7997b467b0974", null ],
-    [ "KilledUnit", "de/d6c/a19554.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
-    [ "MoveInLineOfSight", "de/d6c/a19554.html#ac622481abb0190bdc7654b383766a9ed", null ],
-    [ "Reset", "de/d6c/a19554.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
-    [ "UpdateAI", "de/d6c/a19554.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
-    [ "events", "de/d6c/a19554.html#ae6f1f2e3146525596c3dbb646283b744", null ],
-    [ "pInstance", "de/d6c/a19554.html#abf0b366d7b0931ccc30711a33736dda8", null ],
-    [ "shiftNumber", "de/d6c/a19554.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
+    [ "boss_ormorok", "de/d6c/a19554.html#aa4862339ed41d5c593a93ef605d85a39", null ],
+    [ "JustDied", "de/d6c/a19554.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
+    [ "JustEngagedWith", "de/d6c/a19554.html#a22ac203db7c3b445e653798743e48764", null ],
+    [ "JustSummoned", "de/d6c/a19554.html#acc149b49e6658454610a7871e3c82b5e", null ],
+    [ "KilledUnit", "de/d6c/a19554.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
+    [ "Reset", "de/d6c/a19554.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
+    [ "UpdateAI", "de/d6c/a19554.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
+    [ "_spikesCount", "de/d6c/a19554.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
 ];

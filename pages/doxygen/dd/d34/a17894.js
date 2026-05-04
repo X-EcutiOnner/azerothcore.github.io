@@ -1,6 +1,6 @@
 var a17894 =
 [
-    [ "IgbArtilleryCheck", "dd/d34/a17894.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "dd/d34/a17894.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "dd/d34/a17894.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "IgbTeleportOnVictoryCheck", "dd/d34/a17894.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "dd/d34/a17894.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "dd/d34/a17894.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

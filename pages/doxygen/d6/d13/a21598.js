@@ -1,7 +1,6 @@
 var a21598 =
 [
-    [ "HandleScriptEffect", "d6/d13/a21598.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
-    [ "PrepareSpellScript", "d6/d13/a21598.html#adf6593e47a5766c40e7e3859fce00f81", null ],
-    [ "Register", "d6/d13/a21598.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
-    [ "Validate", "d6/d13/a21598.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
+    [ "npc_venture_co_stragglerAI", "d6/d2e/a21602.html", "d6/d2e/a21602" ],
+    [ "npc_venture_co_straggler", "d6/d13/a21598.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "d6/d13/a21598.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

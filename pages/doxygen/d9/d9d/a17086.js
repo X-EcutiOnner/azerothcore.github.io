@@ -1,13 +1,8 @@
 var a17086 =
 [
-    [ "boss_falric", "d9/d9d/a17086.html#ad157b74477a84d13ab1a5bd5d9275d17", null ],
-    [ "DoAction", "d9/d9d/a17086.html#a9acd7854d725b07df53ae60538df27b1", null ],
-    [ "EnterEvadeMode", "d9/d9d/a17086.html#addda2f3fe13801f533069c8e5b83cdbd", null ],
-    [ "JustDied", "d9/d9d/a17086.html#a4ade4a16095031988e2ae50602cd0da8", null ],
-    [ "JustEngagedWith", "d9/d9d/a17086.html#a68c6b3012bbb1e7542c9b4db2f596463", null ],
-    [ "KilledUnit", "d9/d9d/a17086.html#aa53d57dee3482ac2d186ecfdf4fa232d", null ],
-    [ "Reset", "d9/d9d/a17086.html#aa8c392ab5c6463e4061e381d2a6586ab", null ],
-    [ "UpdateAI", "d9/d9d/a17086.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a", null ],
-    [ "_hopelessnessCount", "d9/d9d/a17086.html#aaf36f9748993381c39b6b26bdfa33dca", null ],
-    [ "_startingFight", "d9/d9d/a17086.html#a099280eb7f2b40df3fbecfa9fe35fac4", null ]
+    [ "npc_fos_leaderAI", "de/d85/a17090.html", "de/d85/a17090" ],
+    [ "npc_fos_leader", "d9/d9d/a17086.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "d9/d9d/a17086.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "d9/d9d/a17086.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "d9/d9d/a17086.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

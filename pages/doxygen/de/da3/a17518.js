@@ -1,6 +1,6 @@
 var a17518 =
 [
-    [ "HandleScript", "de/da3/a17518.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
-    [ "PrepareSpellScript", "de/da3/a17518.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
-    [ "Register", "de/da3/a17518.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
+    [ "npc_dark_nucleusAI", "d2/deb/a17522.html", "d2/deb/a17522" ],
+    [ "npc_dark_nucleus", "de/da3/a17518.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "de/da3/a17518.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

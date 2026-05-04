@@ -1,7 +1,6 @@
 var a21918 =
 [
-    [ "HandleSendEvent", "d7/d6b/a21918.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "d7/d6b/a21918.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "d7/d6b/a21918.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "d7/d6b/a21918.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "npc_freed_protodrakeAI", "d0/d18/a21922.html", "d0/d18/a21922" ],
+    [ "npc_freed_protodrake", "d7/d6b/a21918.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "d7/d6b/a21918.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

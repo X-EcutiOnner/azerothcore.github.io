@@ -1,7 +1,6 @@
 var a27426 =
 [
-    [ "HandleDispel", "dc/dd0/a27426.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "dc/dd0/a27426.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "dc/dd0/a27426.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "dc/dd0/a27426.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "HandleOnHit", "dc/dd0/a27426.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
+    [ "PrepareSpellScript", "dc/dd0/a27426.html#a999b019665dec9b0690a1019be428072", null ],
+    [ "Register", "dc/dd0/a27426.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
 ];

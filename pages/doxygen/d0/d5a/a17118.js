@@ -1,11 +1,13 @@
 var a17118 =
 [
-    [ "npc_shadowy_mercenary", "d0/d5a/a17118.html#ae4e26a15f7ee0ba768a5ad6c18c8bc40", null ],
-    [ "AttackStart", "d0/d5a/a17118.html#a2851972b1fa6e3de4f79433e1308dd11", null ],
-    [ "DoAction", "d0/d5a/a17118.html#afba6e6565c04fe0b325a1ecf9d65ae80", null ],
-    [ "EnterEvadeMode", "d0/d5a/a17118.html#a71290c72bff2a91d7c5cc8d661f28bf9", null ],
-    [ "JustDied", "d0/d5a/a17118.html#a88cde525eb5d8db9fb2ffc30f18ddf61", null ],
-    [ "JustEngagedWith", "d0/d5a/a17118.html#aab9ac47fa72e7a7a6941aad190a18ebb", null ],
-    [ "Reset", "d0/d5a/a17118.html#aeedf803d4d6747ef505c11bb035c2c05", null ],
-    [ "UpdateAI", "d0/d5a/a17118.html#af36c113ac34b5e2db382c6d5f9d546e4", null ]
+    [ "boss_falric", "d0/d5a/a17118.html#ad157b74477a84d13ab1a5bd5d9275d17", null ],
+    [ "DoAction", "d0/d5a/a17118.html#a9acd7854d725b07df53ae60538df27b1", null ],
+    [ "EnterEvadeMode", "d0/d5a/a17118.html#addda2f3fe13801f533069c8e5b83cdbd", null ],
+    [ "JustDied", "d0/d5a/a17118.html#a4ade4a16095031988e2ae50602cd0da8", null ],
+    [ "JustEngagedWith", "d0/d5a/a17118.html#a68c6b3012bbb1e7542c9b4db2f596463", null ],
+    [ "KilledUnit", "d0/d5a/a17118.html#aa53d57dee3482ac2d186ecfdf4fa232d", null ],
+    [ "Reset", "d0/d5a/a17118.html#aa8c392ab5c6463e4061e381d2a6586ab", null ],
+    [ "UpdateAI", "d0/d5a/a17118.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a", null ],
+    [ "_hopelessnessCount", "d0/d5a/a17118.html#aaf36f9748993381c39b6b26bdfa33dca", null ],
+    [ "_startingFight", "d0/d5a/a17118.html#a099280eb7f2b40df3fbecfa9fe35fac4", null ]
 ];

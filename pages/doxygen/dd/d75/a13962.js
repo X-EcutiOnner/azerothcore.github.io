@@ -1,14 +1,6 @@
 var a13962 =
 [
-    [ "npc_lord_gregor_lescovarAI", "dd/d75/a13962.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
-    [ "DoGuardsDisappearAndDie", "dd/d75/a13962.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
-    [ "EnterEvadeMode", "dd/d75/a13962.html#a95e60614808191e4c1f909f5e38e4741", null ],
-    [ "JustEngagedWith", "dd/d75/a13962.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
-    [ "Reset", "dd/d75/a13962.html#a06df695e9acd96b07f4e58c9461a708c", null ],
-    [ "UpdateAI", "dd/d75/a13962.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
-    [ "WaypointReached", "dd/d75/a13962.html#ad91850dc72d0307e28b881717bfba6db", null ],
-    [ "WaypointReached", "dd/d75/a13962.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "MarzonGUID", "dd/d75/a13962.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
-    [ "uiPhase", "dd/d75/a13962.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
-    [ "uiTimer", "dd/d75/a13962.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
+    [ "npc_corporal_keeshanAI", "d3/dd5/a13966.html", "d3/dd5/a13966" ],
+    [ "npc_corporal_keeshan", "dd/d75/a13962.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "dd/d75/a13962.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

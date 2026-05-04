@@ -1,9 +1,12 @@
 var a14210 =
 [
-    [ "npc_amanishi_scout", "d7/d49/a14210.html#a74bed56c21c184e661f62c30ce6d9140", null ],
-    [ "JustEngagedWith", "d7/d49/a14210.html#a5969fadd871094e993c4d3fe0b08054c", null ],
-    [ "Reset", "d7/d49/a14210.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
-    [ "ScheduleCombat", "d7/d49/a14210.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
-    [ "UpdateAI", "d7/d49/a14210.html#a3740a4fde31e1e81edb34dde61403acc", null ],
-    [ "_drumGUID", "d7/d49/a14210.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
+    [ "npc_forest_frog", "d7/d49/a14210.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
+    [ "DoSpawnRandom", "d7/d49/a14210.html#aac140826b8c4b7ce55925b5abeee936e", null ],
+    [ "JustEngagedWith", "d7/d49/a14210.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
+    [ "MovementInform", "d7/d49/a14210.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
+    [ "SpellHit", "d7/d49/a14210.html#a9501955507e1f236bb48384928fd6a32", null ],
+    [ "UpdateAI", "d7/d49/a14210.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
+    [ "eventTimer", "d7/d49/a14210.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
+    [ "instance", "d7/d49/a14210.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
+    [ "PlayerGUID", "d7/d49/a14210.html#a3544a83bb22e12d247e562ef32e378c0", null ]
 ];

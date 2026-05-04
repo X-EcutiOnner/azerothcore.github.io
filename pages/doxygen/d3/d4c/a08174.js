@@ -1,5 +1,6 @@
 var a08174 =
 [
-    [ "number", "d3/d4c/a08174.html#af111e542d7a276e27d2b14757293bc42", null ],
-    [ "offset_elements", "d3/d4c/a08174.html#ad633b2e9afc82762c6b43675844f8fea", null ]
+    [ "ConditionSourceInfo", "d3/d4c/a08174.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
+    [ "mConditionTargets", "d3/d4c/a08174.html#acb67deba44021698a447e8288bca0bd4", null ],
+    [ "mLastFailedCondition", "d3/d4c/a08174.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
 ];

@@ -1,6 +1,6 @@
 var a11846 =
 [
-    [ "EffectUpdatePeriodicHandler", "db/d3d/a11846.html#a6b18a259aa84c847bcc064c5243eb590", null ],
-    [ "Call", "db/d3d/a11846.html#a38802863e7859453cbbe58ad91018c67", null ],
-    [ "pEffectHandlerScript", "db/d3d/a11846.html#a0e51245e089fcd9532d5789056ab944c", null ]
+    [ "HitHandler", "db/d3d/a11846.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "db/d3d/a11846.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "db/d3d/a11846.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

@@ -1,5 +1,6 @@
 var a27702 =
 [
-    [ "achievement_not_even_a_scratch", "d9/dcc/a27702.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d9/dcc/a27702.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "boss_lethonAI", "d1/d1c/a27706.html", "d1/d1c/a27706" ],
+    [ "boss_lethon", "d9/dcc/a27702.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "d9/dcc/a27702.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

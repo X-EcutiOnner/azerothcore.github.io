@@ -1,7 +1,6 @@
 var a08286 =
 [
-    [ "ForcedDespawnDelayEvent", "d8/d84/a08286.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
-    [ "Execute", "d8/d84/a08286.html#a735c709b269458911bd93da1902cbe25", null ],
-    [ "m_owner", "d8/d84/a08286.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
-    [ "m_respawnTimer", "d8/d84/a08286.html#a5db78930a1fda07f2020b23158ebb93d", null ]
+    [ "LfgWaitTime", "d8/d84/a08286.html#a1d80e0848c06c658a4c0587b686fe09d", null ],
+    [ "number", "d8/d84/a08286.html#ae6bd7db37ac17752edbc8d336081b91e", null ],
+    [ "time", "d8/d84/a08286.html#a0d0ef1b3552e5298763a3f28714bc864", null ]
 ];

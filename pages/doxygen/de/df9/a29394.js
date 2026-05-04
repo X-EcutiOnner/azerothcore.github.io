@@ -1,6 +1,4 @@
 var a29394 =
 [
-    [ "ForceInitValues", "de/df9/a29394.html#a51bcb2ec0bf6b92a0ed7a29abd675bf5", null ],
-    [ "Player", "de/df9/a29394.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
-    [ "UpdateObjectVisibility", "de/df9/a29394.html#a2b00c7bea40d5cbd4343d859555060a3", null ]
+    [ "SetType", "de/df9/a29394.html#ad2fd1d002f4a95b778a8d5ba819eba42", null ]
 ];

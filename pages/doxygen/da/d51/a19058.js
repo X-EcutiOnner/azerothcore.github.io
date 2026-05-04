@@ -1,5 +1,6 @@
 var a19058 =
 [
-    [ "at_icc_gauntlet_event", "da/d51/a19058.html#ae8790bad655661aeda887f56b9393847", null ],
-    [ "OnTrigger", "da/d51/a19058.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "d7/d3e/a19062.html", "d7/d3e/a19062" ],
+    [ "npc_icc_vengeful_fleshreaper", "da/d51/a19058.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "da/d51/a19058.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

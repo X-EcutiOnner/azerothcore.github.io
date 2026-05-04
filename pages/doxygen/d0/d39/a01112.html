@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Chat/Hyperlinks.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Events/HolidayDateCalculator.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,130 +105,297 @@ $(document).ready(function(){initNavTree('d0/d39/a01112.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">Hyperlinks.h File Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">HolidayDateCalculator.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">StringConvert.h</a>&quot;</code><br />
-<code>#include &lt;array&gt;</code><br />
-<code>#include &lt;string&gt;</code><br />
-<code>#include &lt;string_view&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">HolidayDateCalculator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &lt;cmath&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d5e/a08041.html">Acore::Hyperlinks::AchievementLinkData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d83/a08045.html">Acore::Hyperlinks::GlyphLinkData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d18/a08049.html">Acore::Hyperlinks::ItemLinkData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d92/a08053.html">Acore::Hyperlinks::QuestLinkData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a08057.html">Acore::Hyperlinks::TalentLinkData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a08061.html">Acore::Hyperlinks::TradeskillLinkData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dea/a08065.html">Acore::Hyperlinks::LinkTags::base_tag</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d1d/a08069.html">Acore::Hyperlinks::LinkTags::achievement</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d23/a08073.html">Acore::Hyperlinks::LinkTags::enchant</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d51/a08077.html">Acore::Hyperlinks::LinkTags::glyph</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d02/a08081.html">Acore::Hyperlinks::LinkTags::item</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da2/a08085.html">Acore::Hyperlinks::LinkTags::quest</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da6/a08089.html">Acore::Hyperlinks::LinkTags::spell</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d38/a08093.html">Acore::Hyperlinks::LinkTags::talent</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dac/a08097.html">Acore::Hyperlinks::LinkTags::trade</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dda/a08101.html">Acore::Hyperlinks::HyperlinkColor</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6e/a08105.html">Acore::Hyperlinks::HyperlinkInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d5/d66/a05016"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d66/a05016.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d6/de9/a05059"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/de9/a05059.html">Acore::Hyperlinks</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dc/d96/a05060"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html">Acore::Hyperlinks::LinkTags</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a73cc3b14b22adefd27d34c736cafa480"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d39/a01112.html#a73cc3b14b22adefd27d34c736cafa480">make_base_tag</a>(ltag,  type)&#160;&#160;&#160;struct ltag : public base_tag { using value_type = type; static constexpr std::string_view tag() { return #ltag; } }</td></tr>
-<tr class="separator:a73cc3b14b22adefd27d34c736cafa480"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a6ebb455ff3abbea4ad68bd1d7d05fd3a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a">Acore::Hyperlinks::LinkTags::make_base_tag</a> (area, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a6ebb455ff3abbea4ad68bd1d7d05fd3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0803de4bbc9edad4f5bb2afc3c242dca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#a0803de4bbc9edad4f5bb2afc3c242dca">Acore::Hyperlinks::LinkTags::make_base_tag</a> (areatrigger, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a0803de4bbc9edad4f5bb2afc3c242dca"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa8156f2996632fd42a2e39b974426995"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#aa8156f2996632fd42a2e39b974426995">Acore::Hyperlinks::LinkTags::make_base_tag</a> (creature, <a class="el" href="../../de/d62/a08709.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>)</td></tr>
-<tr class="separator:aa8156f2996632fd42a2e39b974426995"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a321da5d63921d41c561a1460929ac730"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#a321da5d63921d41c561a1460929ac730">Acore::Hyperlinks::LinkTags::make_base_tag</a> (creature_entry, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a321da5d63921d41c561a1460929ac730"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afc9dbd840048c0031231bcdb7b2fcf04"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#afc9dbd840048c0031231bcdb7b2fcf04">Acore::Hyperlinks::LinkTags::make_base_tag</a> (gameevent, <a class="el" href="../../dd/d7a/a04568.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>)</td></tr>
-<tr class="separator:afc9dbd840048c0031231bcdb7b2fcf04"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7083d48423b83ff39095030678b29877"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#a7083d48423b83ff39095030678b29877">Acore::Hyperlinks::LinkTags::make_base_tag</a> (gameobject, <a class="el" href="../../de/d62/a08709.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>)</td></tr>
-<tr class="separator:a7083d48423b83ff39095030678b29877"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aae3a6cd0fbf426755d93a387882ff767"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#aae3a6cd0fbf426755d93a387882ff767">Acore::Hyperlinks::LinkTags::make_base_tag</a> (gameobject_entry, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:aae3a6cd0fbf426755d93a387882ff767"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0ca4a111a856da9091a377934f8de93"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#aa0ca4a111a856da9091a377934f8de93">Acore::Hyperlinks::LinkTags::make_base_tag</a> (itemset, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:aa0ca4a111a856da9091a377934f8de93"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9990339040b491e108594df755f03a6c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#a9990339040b491e108594df755f03a6c">Acore::Hyperlinks::LinkTags::make_base_tag</a> (player, std::string_view)</td></tr>
-<tr class="separator:a9990339040b491e108594df755f03a6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0200f5ae02cb0b03a9ab7097ca2a2ec"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec">Acore::Hyperlinks::LinkTags::make_base_tag</a> (skill, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:aa0200f5ae02cb0b03a9ab7097ca2a2ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a32cfa3bc188d1b731f3e9e5dcc2de664"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#a32cfa3bc188d1b731f3e9e5dcc2de664">Acore::Hyperlinks::LinkTags::make_base_tag</a> (taxinode, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a32cfa3bc188d1b731f3e9e5dcc2de664"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae0c637d10c728f04dc2468c15c3f8dca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#ae0c637d10c728f04dc2468c15c3f8dca">Acore::Hyperlinks::LinkTags::make_base_tag</a> (tele, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:ae0c637d10c728f04dc2468c15c3f8dca"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abe0a588f1c0e66d33c8bc7a7d0a04459"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a05060.html#abe0a588f1c0e66d33c8bc7a7d0a04459">Acore::Hyperlinks::LinkTags::make_base_tag</a> (title, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:abe0a588f1c0e66d33c8bc7a7d0a04459"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2c5596879f4531eeedbe15d1e4987918"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d6e/a08105.html">HyperlinkInfo</a> <a class="el" href="../../dd/d7a/a04568.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/de9/a05059.html#a2c5596879f4531eeedbe15d1e4987918">Acore::Hyperlinks::ParseSingleHyperlink</a> (std::string_view str)</td></tr>
-<tr class="separator:a2c5596879f4531eeedbe15d1e4987918"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a02761d9aa335689ff1b8dc1155b2a3c6"><td class="memItemLeft" align="right" valign="top">bool <a class="el" href="../../dd/d7a/a04568.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/de9/a05059.html#a02761d9aa335689ff1b8dc1155b2a3c6">Acore::Hyperlinks::CheckAllLinks</a> (std::string_view str)</td></tr>
-<tr class="separator:a02761d9aa335689ff1b8dc1155b2a3c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6dd118cfa29609d98e0207909b863c88"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a> (double deg)</td></tr>
+<tr class="separator:a6dd118cfa29609d98e0207909b863c88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1cf1f3ca105c1ba63d7f783db70d91ae"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d39/a01112.html#a1cf1f3ca105c1ba63d7f783db70d91ae">IsLeapYear</a> (int year)</td></tr>
+<tr class="separator:a1cf1f3ca105c1ba63d7f783db70d91ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abff9a870b94032b446650ea043e9983b"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d39/a01112.html#abff9a870b94032b446650ea043e9983b">DaysInMonth</a> (int year, int month)</td></tr>
+<tr class="separator:abff9a870b94032b446650ea043e9983b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a867322206e11e2197b7815e7584eeaba"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a> (std::tm &amp;date)</td></tr>
+<tr class="separator:a867322206e11e2197b7815e7584eeaba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a299aabc5fc8285cbf99025330a3d0d0d"><td class="memItemLeft" align="right" valign="top">constexpr double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d39/a01112.html#a299aabc5fc8285cbf99025330a3d0d0d">PI</a> = 3.14159265358979323846</td></tr>
+<tr class="separator:a299aabc5fc8285cbf99025330a3d0d0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a410b5189721a469108e809fbf4f6e601"><td class="memItemLeft" align="right" valign="top">constexpr double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a> = <a class="el" href="../../d0/d39/a01112.html#a299aabc5fc8285cbf99025330a3d0d0d">PI</a> / 180.0</td></tr>
+<tr class="separator:a410b5189721a469108e809fbf4f6e601"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a629dd822786c11d06b417c4326ae30fe"><td class="memItemLeft" align="right" valign="top">static const std::vector&lt; <a class="el" href="../../d2/dd7/a09158.html">HolidayRule</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d39/a01112.html#a629dd822786c11d06b417c4326ae30fe">HolidayRules</a></td></tr>
+<tr class="separator:a629dd822786c11d06b417c4326ae30fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a73cc3b14b22adefd27d34c736cafa480" name="a73cc3b14b22adefd27d34c736cafa480"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a73cc3b14b22adefd27d34c736cafa480">&#9670;&#160;</a></span>make_base_tag</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="abff9a870b94032b446650ea043e9983b" name="abff9a870b94032b446650ea043e9983b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abff9a870b94032b446650ea043e9983b">&#9670;&#160;</a></span>DaysInMonth()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">#define make_base_tag</td>
+          <td class="memname">static int DaysInMonth </td>
           <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">ltag, </td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>year</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">type&#160;</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>month</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td>&#160;&#160;&#160;struct ltag : public base_tag { using value_type = type; static constexpr std::string_view tag() { return #ltag; } }</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
+<div class="line"><span class="lineno">   37</span>    <span class="keyword">static</span> <span class="keywordtype">int</span> <span class="keyword">const</span> table[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };</div>
+<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">return</span> (month == 2 &amp;&amp; <a class="code hl_function" href="../../d0/d39/a01112.html#a1cf1f3ca105c1ba63d7f783db70d91ae">IsLeapYear</a>(year)) ? 29 : table[month - 1];</div>
+<div class="line"><span class="lineno">   39</span>}</div>
+<div class="ttc" id="aa01112_html_a1cf1f3ca105c1ba63d7f783db70d91ae"><div class="ttname"><a href="../../d0/d39/a01112.html#a1cf1f3ca105c1ba63d7f783db70d91ae">IsLeapYear</a></div><div class="ttdeci">static bool IsLeapYear(int year)</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:30</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00030">IsLeapYear()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00041">NormalizeDate()</a>.</p>
+
+</div>
+</div>
+<a id="a1cf1f3ca105c1ba63d7f783db70d91ae" name="a1cf1f3ca105c1ba63d7f783db70d91ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1cf1f3ca105c1ba63d7f783db70d91ae">&#9670;&#160;</a></span>IsLeapYear()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool IsLeapYear </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>year</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">return</span> (year % 4 == 0 &amp;&amp; year % 100 != 0) || (year % 400 == 0);</div>
+<div class="line"><span class="lineno">   33</span>}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00035">DaysInMonth()</a>, and <a class="el" href="../../#l00694">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a867322206e11e2197b7815e7584eeaba" name="a867322206e11e2197b7815e7584eeaba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a867322206e11e2197b7815e7584eeaba">&#9670;&#160;</a></span>NormalizeDate()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void NormalizeDate </td>
+          <td>(</td>
+          <td class="paramtype">std::tm &amp;&#160;</td>
+          <td class="paramname"><em>date</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
+<div class="line"><span class="lineno">   43</span>    <span class="keywordtype">int</span> year = date.tm_year + 1900;</div>
+<div class="line"><span class="lineno">   44</span>    <span class="keywordtype">int</span> month = date.tm_mon + 1;</div>
+<div class="line"><span class="lineno">   45</span>    <span class="keywordtype">int</span> day = date.tm_mday;</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">while</span> (month &gt; 12)</div>
+<div class="line"><span class="lineno">   48</span>    {</div>
+<div class="line"><span class="lineno">   49</span>        month -= 12;</div>
+<div class="line"><span class="lineno">   50</span>        ++year;</div>
+<div class="line"><span class="lineno">   51</span>    }</div>
+<div class="line"><span class="lineno">   52</span>    <span class="keywordflow">while</span> (month &lt; 1)</div>
+<div class="line"><span class="lineno">   53</span>    {</div>
+<div class="line"><span class="lineno">   54</span>        month += 12;</div>
+<div class="line"><span class="lineno">   55</span>        --year;</div>
+<div class="line"><span class="lineno">   56</span>    }</div>
+<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">while</span> (day &gt; <a class="code hl_function" href="../../d0/d39/a01112.html#abff9a870b94032b446650ea043e9983b">DaysInMonth</a>(year, month))</div>
+<div class="line"><span class="lineno">   58</span>    {</div>
+<div class="line"><span class="lineno">   59</span>        day -= <a class="code hl_function" href="../../d0/d39/a01112.html#abff9a870b94032b446650ea043e9983b">DaysInMonth</a>(year, month);</div>
+<div class="line"><span class="lineno">   60</span>        ++month;</div>
+<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">if</span> (month &gt; 12)</div>
+<div class="line"><span class="lineno">   62</span>        {</div>
+<div class="line"><span class="lineno">   63</span>            month = 1;</div>
+<div class="line"><span class="lineno">   64</span>            ++year;</div>
+<div class="line"><span class="lineno">   65</span>        }</div>
+<div class="line"><span class="lineno">   66</span>    }</div>
+<div class="line"><span class="lineno">   67</span>    <span class="keywordflow">while</span> (day &lt; 1)</div>
+<div class="line"><span class="lineno">   68</span>    {</div>
+<div class="line"><span class="lineno">   69</span>        --month;</div>
+<div class="line"><span class="lineno">   70</span>        <span class="keywordflow">if</span> (month &lt; 1)</div>
+<div class="line"><span class="lineno">   71</span>        {</div>
+<div class="line"><span class="lineno">   72</span>            month = 12;</div>
+<div class="line"><span class="lineno">   73</span>            --year;</div>
+<div class="line"><span class="lineno">   74</span>        }</div>
+<div class="line"><span class="lineno">   75</span>        day += <a class="code hl_function" href="../../d0/d39/a01112.html#abff9a870b94032b446650ea043e9983b">DaysInMonth</a>(year, month);</div>
+<div class="line"><span class="lineno">   76</span>    }</div>
+<div class="line"><span class="lineno">   77</span> </div>
+<div class="line"><span class="lineno">   78</span>    date.tm_year = year - 1900;</div>
+<div class="line"><span class="lineno">   79</span>    date.tm_mon = month - 1;</div>
+<div class="line"><span class="lineno">   80</span>    date.tm_mday = day;</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    <span class="comment">// Zeller&#39;s congruence; remap 0=Sat to POSIX 0=Sun.</span></div>
+<div class="line"><span class="lineno">   83</span>    <span class="keywordtype">int</span> zy = year;</div>
+<div class="line"><span class="lineno">   84</span>    <span class="keywordtype">int</span> zm = month;</div>
+<div class="line"><span class="lineno">   85</span>    <span class="keywordflow">if</span> (zm &lt; 3)</div>
+<div class="line"><span class="lineno">   86</span>    {</div>
+<div class="line"><span class="lineno">   87</span>        zm += 12;</div>
+<div class="line"><span class="lineno">   88</span>        --zy;</div>
+<div class="line"><span class="lineno">   89</span>    }</div>
+<div class="line"><span class="lineno">   90</span>    <span class="keywordtype">int</span> <span class="keyword">const</span> K = zy % 100;</div>
+<div class="line"><span class="lineno">   91</span>    <span class="keywordtype">int</span> <span class="keyword">const</span> J = zy / 100;</div>
+<div class="line"><span class="lineno">   92</span>    <span class="keywordtype">int</span> <span class="keyword">const</span> h = (day + (13 * (zm + 1)) / 5 + K + K / 4 + J / 4 + 5 * J) % 7;</div>
+<div class="line"><span class="lineno">   93</span>    date.tm_wday = (h + 6) % 7;</div>
+<div class="line"><span class="lineno">   94</span>}</div>
+<div class="ttc" id="aa01112_html_abff9a870b94032b446650ea043e9983b"><div class="ttname"><a href="../../d0/d39/a01112.html#abff9a870b94032b446650ea043e9983b">DaysInMonth</a></div><div class="ttdeci">static int DaysInMonth(int year, int month)</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:35</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">DaysInMonth()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00378">HolidayDateCalculator::CalculateAutumnEquinox()</a>, <a class="el" href="../../#l00151">HolidayDateCalculator::CalculateEasterSunday()</a>, <a class="el" href="../../#l00482">HolidayDateCalculator::CalculateHolidayDate()</a>, <a class="el" href="../../#l00328">HolidayDateCalculator::CalculateLunarNewYear()</a>, <a class="el" href="../../#l00179">HolidayDateCalculator::CalculateNthWeekday()</a>, <a class="el" href="../../#l00199">HolidayDateCalculator::CalculateWeekdayOnOrAfter()</a>, <a class="el" href="../../#l00433">HolidayDateCalculator::CalculateWinterSolstice()</a>, and <a class="el" href="../../#l00621">HolidayDateCalculator::GetDarkmoonFaireDates()</a>.</p>
+
+</div>
+</div>
+<a id="a6dd118cfa29609d98e0207909b863c88" name="a6dd118cfa29609d98e0207909b863c88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6dd118cfa29609d98e0207909b863c88">&#9670;&#160;</a></span>sind()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">double sind </td>
+          <td>(</td>
+          <td class="paramtype">double&#160;</td>
+          <td class="paramname"><em>deg</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   27</span>{ <span class="keywordflow">return</span> std::sin(deg * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>); }</div>
+<div class="ttc" id="aa01112_html_a410b5189721a469108e809fbf4f6e601"><div class="ttname"><a href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a></div><div class="ttdeci">constexpr double DEG_TO_RAD</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:24</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00024">DEG_TO_RAD</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00255">HolidayDateCalculator::CalculateNewMoon()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a410b5189721a469108e809fbf4f6e601" name="a410b5189721a469108e809fbf4f6e601"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a410b5189721a469108e809fbf4f6e601">&#9670;&#160;</a></span>DEG_TO_RAD</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr double DEG_TO_RAD = <a class="el" href="../../d0/d39/a01112.html#a299aabc5fc8285cbf99025330a3d0d0d">PI</a> / 180.0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00378">HolidayDateCalculator::CalculateAutumnEquinox()</a>, <a class="el" href="../../#l00433">HolidayDateCalculator::CalculateWinterSolstice()</a>, and <a class="el" href="../../#l00027">sind()</a>.</p>
+
+</div>
+</div>
+<a id="a629dd822786c11d06b417c4326ae30fe" name="a629dd822786c11d06b417c4326ae30fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a629dd822786c11d06b417c4326ae30fe">&#9670;&#160;</a></span>HolidayRules</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::vector&lt;<a class="el" href="../../d2/dd7/a09158.html">HolidayRule</a>&gt; HolidayRules</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00146">HolidayDateCalculator::GetHolidayRules()</a>, and <a class="el" href="../../#l00608">HolidayDateCalculator::GetPackedHolidayDate()</a>.</p>
+
+</div>
+</div>
+<a id="a299aabc5fc8285cbf99025330a3d0d0d" name="a299aabc5fc8285cbf99025330a3d0d0d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a299aabc5fc8285cbf99025330a3d0d0d">&#9670;&#160;</a></span>PI</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr double PI = 3.14159265358979323846</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -238,8 +405,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_696eb3df8c264f77a3b72ba3d62ed649.html">Chat</a></li><li class="navelem"><a class="el" href="../../d0/d39/a01112.html">Hyperlinks.h</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 21:36:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_be7ddcf5a4570b7daa864eaef60ffbc7.html">Events</a></li><li class="navelem"><a class="el" href="../../d0/d39/a01112.html">HolidayDateCalculator.cpp</a></li>
+    <li class="footer">Generated on Mon May 4 2026 21:40:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

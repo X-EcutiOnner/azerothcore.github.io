@@ -1,5 +1,6 @@
 var a10898 =
 [
-    [ "GuildGetRoster", "d2/db6/a10898.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
-    [ "Read", "d2/db6/a10898.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
+    [ "EmoteClient", "d2/db6/a10898.html#af98c098cb1019057d8027f39c168e1a9", null ],
+    [ "Read", "d2/db6/a10898.html#abad5fca865b7b99e595ce95137e8105c", null ],
+    [ "EmoteID", "d2/db6/a10898.html#a24503de36535106220984ffbf6ba0338", null ]
 ];

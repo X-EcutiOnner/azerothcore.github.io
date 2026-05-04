@@ -1,8 +1,8 @@
 var a05938 =
 [
-    [ "BaseSocketMgr", "dc/d8f/a05938.html#a55ca5c800a783d89fbe05bd945374b84", null ],
-    [ "CreateThreads", "dc/d8f/a05938.html#a98a0866ae616017010f639f0ad9fc72d", null ],
-    [ "Instance", "dc/d8f/a05938.html#a9c56ed247f209709221a3e592f4d010f", null ],
-    [ "OnSocketAccept", "dc/d8f/a05938.html#a02b81323eba1428f9b5eebf7f5edc393", null ],
-    [ "StartNetwork", "dc/d8f/a05938.html#a345e4f8cc1c216ed7eb9c3e96748170f", null ]
+    [ "cmd", "dc/d8f/a05938.html#a14df856ae931474a7c58d0e35caf6ad0", null ],
+    [ "number_of_keys", "dc/d8f/a05938.html#aaa44734bb96b91894c038b3f34b4db0d", null ],
+    [ "R1", "dc/d8f/a05938.html#a054648a96d1c66bae6fdb9a174e7b1e6", null ],
+    [ "R2", "dc/d8f/a05938.html#a72fa4a4d0b6098fdf8e5c8f9a33f08ad", null ],
+    [ "R3", "dc/d8f/a05938.html#a819a5ba3a19583fd0cfd0558cf218e54", null ]
 ];

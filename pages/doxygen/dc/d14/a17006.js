@@ -1,5 +1,6 @@
 var a17006 =
 [
-    [ "achievement_consumption_junction", "dc/d14/a17006.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
-    [ "OnCheck", "dc/d14/a17006.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
+    [ "OnPeriodic", "dc/d14/a17006.html#ab71faf6fb2900e176aac245317113758", null ],
+    [ "PrepareAuraScript", "dc/d14/a17006.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
+    [ "Register", "dc/d14/a17006.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
 ];

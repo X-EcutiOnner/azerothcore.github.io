@@ -1,6 +1,9 @@
 var a25546 =
 [
-    [ "HandleScriptEffect", "d6/d33/a25546.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
-    [ "PrepareSpellScript", "d6/d33/a25546.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
-    [ "Register", "d6/d33/a25546.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
+    [ "spell_item_trigger_spell", "d6/d33/a25546.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
+    [ "HandleDummy", "d6/d33/a25546.html#a49613255eea28e34cf5ff8a06798f89a", null ],
+    [ "PrepareSpellScript", "d6/d33/a25546.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
+    [ "Register", "d6/d33/a25546.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
+    [ "Validate", "d6/d33/a25546.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
+    [ "_triggeredSpellId", "d6/d33/a25546.html#a610c5ac434fe788120ed101f7bf58f63", null ]
 ];

@@ -1,6 +1,7 @@
 var a11106 =
 [
-    [ "SetDungeonDifficultyClient", "dd/dec/a11106.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
-    [ "Read", "dd/dec/a11106.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
-    [ "Mode", "dd/dec/a11106.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
+    [ "GuildBankLogQueryResults", "dd/dec/a11106.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "dd/dec/a11106.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "dd/dec/a11106.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "dd/dec/a11106.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

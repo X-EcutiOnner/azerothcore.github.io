@@ -1,7 +1,6 @@
 var a20530 =
 [
-    [ "npc_xt002_life_spark", "d7/d23/a20530.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
-    [ "Reset", "d7/d23/a20530.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
-    [ "UpdateAI", "d7/d23/a20530.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
-    [ "_attackTimer", "d7/d23/a20530.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
+    [ "OnPeriodic", "d7/d23/a20530.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "d7/d23/a20530.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "d7/d23/a20530.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

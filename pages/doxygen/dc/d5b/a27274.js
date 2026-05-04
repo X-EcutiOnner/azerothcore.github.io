@@ -1,6 +1,8 @@
 var a27274 =
 [
-    [ "HandleProc", "dc/d5b/a27274.html#a933975b17f340d9f458dc95b77aa43ac", null ],
-    [ "PrepareAuraScript", "dc/d5b/a27274.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
-    [ "Register", "dc/d5b/a27274.html#a54dd9a2a6646282897cabec00f092525", null ]
+    [ "CalcPeriodic", "dc/d5b/a27274.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "dc/d5b/a27274.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "dc/d5b/a27274.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "dc/d5b/a27274.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "dc/d5b/a27274.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

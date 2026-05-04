@@ -1,8 +1,6 @@
 var a22342 =
 [
-    [ "npc_anzu_spirit", "d6/d3b/a22342.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "d6/d3b/a22342.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "d6/d3b/a22342.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "d6/d3b/a22342.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "d6/d3b/a22342.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "dd/de6/a22346.html", "dd/de6/a22346" ],
+    [ "instance_shadow_labyrinth", "d6/d3b/a22342.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
+    [ "GetInstanceScript", "d6/d3b/a22342.html#af9edf624413593a5cdf025dd9a1c3631", null ]
 ];

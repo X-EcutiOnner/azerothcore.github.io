@@ -1,13 +1,13 @@
 var a29602 =
 [
-    [ "attackType", "d5/dc6/a29602.html#a4715e7e37c120d791e6a32cd275b8cbd", null ],
-    [ "equippedItemClass", "d5/dc6/a29602.html#aceba901b7f666b4a3806c35b6d8697ad", null ],
-    [ "equippedItemSubClassMask", "d5/dc6/a29602.html#a3384bf3ae58fb0977f8fa81f84d940e2", null ],
-    [ "hasEquippedItem", "d5/dc6/a29602.html#a5d7780265fe18a0657f2a68d9c737fe7", null ],
-    [ "hasNoEquipRequirementAttr", "d5/dc6/a29602.html#ab754fdbbb49982e7152057341fc3e3af", null ],
-    [ "isInFeralForm", "d5/dc6/a29602.html#a3d8d88f4640c3100a88efee52ecf5822", null ],
-    [ "isPassive", "d5/dc6/a29602.html#ad56881b893a29dc5d6be193c6720c4e0", null ],
-    [ "isPlayer", "d5/dc6/a29602.html#a7de2ea9efe7606f26e2c11d8963357d0", null ],
-    [ "itemFitsRequirements", "d5/dc6/a29602.html#a760a3b39c124c3f408f0541744b6b34a", null ],
-    [ "itemIsBroken", "d5/dc6/a29602.html#a3b53871ecd10bd1f6d624431b0907b90", null ]
+    [ "liquid_data", "d7/de2/a29610.html", "d7/de2/a29610" ],
+    [ "prepareLoadedData", "d5/dc6/a29602.html#a999cde9ad5c0e4ee49e620c2ff52cb06", null ],
+    [ "data", "d5/dc6/a29602.html#aa3f6e6de7453b4a1acc7dfe4c83eac69", null ],
+    [ "fcc", "d5/dc6/a29602.html#ab0181729f82eb0f02da5cb95ec48cda1", null ],
+    [ "fcc_txt", "d5/dc6/a29602.html#a9a2576f7b8923089b3b6020d4f8d97fc", null ],
+    [ "flags", "d5/dc6/a29602.html#ac21d785a3a457baa84cbfd33ebb69bd4", null ],
+    [ "height1", "d5/dc6/a29602.html#a7b4a59ac372261c74236b2b4cfc3626a", null ],
+    [ "height2", "d5/dc6/a29602.html#ab03dc912a304c0585d2725596adb4b49", null ],
+    [ "liquid", "d5/dc6/a29602.html#aae29940e6fdf046f9a29cf519ef61936", null ],
+    [ "size", "d5/dc6/a29602.html#a11581f9fb52a4ca433765e6312168288", null ]
 ];

@@ -1,8 +1,6 @@
 var a02312 =
 [
-    [ "instance_temple_of_ahnqiraj", "d8/d42/a15521.html", "d8/d42/a15521" ],
-    [ "instance_temple_of_ahnqiraj::instance_temple_of_ahnqiraj_InstanceMapScript", "d5/df9/a15525.html", "d5/df9/a15525" ],
-    [ "AddSC_instance_temple_of_ahnqiraj", "df/d73/a02312.html#a60077e2c1e4137c99545119e5eeb1bb3", null ],
-    [ "creatureData", "df/d73/a02312.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "df/d73/a02312.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "instance_razorfen_downs", "db/d8c/a15254.html", "db/d8c/a15254" ],
+    [ "instance_razorfen_downs::instance_razorfen_downs_InstanceMapScript", "da/d94/a15258.html", "da/d94/a15258" ],
+    [ "AddSC_instance_razorfen_downs", "df/d73/a02312.html#a0db4d34b8ea594cf2808b93c362a49c4", null ]
 ];

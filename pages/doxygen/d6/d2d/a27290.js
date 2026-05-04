@@ -1,7 +1,7 @@
 var a27290 =
 [
-    [ "HandleBonus", "d6/d2d/a27290.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
-    [ "PrepareAuraScript", "d6/d2d/a27290.html#aebf4afa25b50be9b99900ef830f26f04", null ],
-    [ "Register", "d6/d2d/a27290.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
-    [ "Validate", "d6/d2d/a27290.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
+    [ "HandleScriptEffect", "d6/d2d/a27290.html#a328c1ba6ccd98e25e477a3f784cb47ff", null ],
+    [ "PrepareSpellScript", "d6/d2d/a27290.html#aa211032991d8fd11d574cb364533a515", null ],
+    [ "Register", "d6/d2d/a27290.html#a13315f197f2e6975dca00b53cbc599d2", null ],
+    [ "Validate", "d6/d2d/a27290.html#a3b752f07631223199ed7ac404ed1afed", null ]
 ];

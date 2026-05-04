@@ -1,7 +1,5 @@
 var a20270 =
 [
-    [ "FilterTargetsInitial", "da/d0a/a20270.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "da/d0a/a20270.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "da/d0a/a20270.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "da/d0a/a20270.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "achievement_staying_buffed_all_winter_25", "da/d0a/a20270.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "da/d0a/a20270.html#a36591082184bc8466e124bad9a910545", null ]
 ];

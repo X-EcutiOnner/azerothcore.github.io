@@ -1,9 +1,7 @@
 var a19798 =
 [
-    [ "npc_brann_bronzebeard_algalon", "d0/d0d/a19798.html#ac00755dca7e187b55516be889386c499", null ],
-    [ "DoAction", "d0/d0d/a19798.html#a6d44478868a74ed7baac757258334806", null ],
-    [ "MovementInform", "d0/d0d/a19798.html#a33af1a38ab2827aec38f95e57e54f589", null ],
-    [ "UpdateAI", "d0/d0d/a19798.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
-    [ "_currentPoint", "d0/d0d/a19798.html#a5403badf59f96111aefaddf78379e65f", null ],
-    [ "events", "d0/d0d/a19798.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
+    [ "creature", "d0/d0d/a19798.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "d0/d0d/a19798.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "d0/d0d/a19798.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "d0/d0d/a19798.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

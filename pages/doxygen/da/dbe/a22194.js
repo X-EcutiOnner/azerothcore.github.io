@@ -1,13 +1,17 @@
 var a22194 =
 [
-    [ "OPvPCapturePointEP_PWT", "da/dbe/a22194.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
-    [ "ChangeState", "da/dbe/a22194.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
-    [ "FillInitialWorldStates", "da/dbe/a22194.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
-    [ "HandlePlayerEnter", "da/dbe/a22194.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
-    [ "HandlePlayerLeave", "da/dbe/a22194.html#a5772e54263c613eee365856def5e74e6", null ],
-    [ "SendChangePhase", "da/dbe/a22194.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
-    [ "SummonFlightMaster", "da/dbe/a22194.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
-    [ "UpdateTowerState", "da/dbe/a22194.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
-    [ "m_FlightMasterSpawnedId", "da/dbe/a22194.html#afeefd804849b925e6d0a880d8efb5319", null ],
-    [ "m_TowerState", "da/dbe/a22194.html#a914dcbb37baf457750cfe9829d95d88c", null ]
+    [ "OutdoorPvPSI", "da/dbe/a22194.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
+    [ "FillInitialWorldStates", "da/dbe/a22194.html#a7392eed60ec3307bdea4ed35cd859077", null ],
+    [ "HandleAreaTrigger", "da/dbe/a22194.html#a7c6d70d7a611752456c55d13420ff840", null ],
+    [ "HandleCustomSpell", "da/dbe/a22194.html#a10853a2f5766b6fc75044a20b281a198", null ],
+    [ "HandleDropFlag", "da/dbe/a22194.html#a9238a5007253d84d66192bd340d8311a", null ],
+    [ "HandlePlayerEnterZone", "da/dbe/a22194.html#ad2cabd461406a61e40411850b3d31c0c", null ],
+    [ "HandlePlayerLeaveZone", "da/dbe/a22194.html#aa06088b1d80072577e6fc7653a214512", null ],
+    [ "SendRemoveWorldStates", "da/dbe/a22194.html#aae7deda0662b28f6fc0e16115a65304b", null ],
+    [ "SetupOutdoorPvP", "da/dbe/a22194.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
+    [ "Update", "da/dbe/a22194.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
+    [ "UpdateWorldState", "da/dbe/a22194.html#a81f4362ece83f37f14471926e9a85fb3", null ],
+    [ "m_Gathered_A", "da/dbe/a22194.html#ab532337ab7e66e1489221e3189e48bac", null ],
+    [ "m_Gathered_H", "da/dbe/a22194.html#abcd36fe918edbbea387573bd5fab89e7", null ],
+    [ "m_LastController", "da/dbe/a22194.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
 ];

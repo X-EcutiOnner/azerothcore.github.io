@@ -1,6 +1,7 @@
 var a28222 =
 [
-    [ "npc_injured_patientAI", "df/d25/a28226.html", "df/d25/a28226" ],
-    [ "npc_injured_patient", "de/d9b/a28222.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "de/d9b/a28222.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "npc_venomhide_hatchlingAI", "df/d25/a28226.html", "df/d25/a28226" ],
+    [ "npc_venomhide_hatchling", "de/d9b/a28222.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "de/d9b/a28222.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "de/d9b/a28222.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

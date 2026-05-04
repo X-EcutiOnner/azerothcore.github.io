@@ -1,9 +1,9 @@
 var a29114 =
 [
-    [ "TimeSeg", "da/d9f/a29114.html#a16782e722a5bada41691841fe594b7a6", null ],
-    [ "TransportEntry", "da/d9f/a29114.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
-    [ "W", "da/d9f/a29114.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
-    [ "X", "da/d9f/a29114.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
-    [ "Y", "da/d9f/a29114.html#a7f0ff898e752e2e904ebee1412643df6", null ],
-    [ "Z", "da/d9f/a29114.html#a87647d71a965e80154ca36dc05421585", null ]
+    [ "flags", "da/d9f/a29114.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "da/d9f/a29114.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "da/d9f/a29114.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "da/d9f/a29114.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "da/d9f/a29114.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "da/d9f/a29114.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

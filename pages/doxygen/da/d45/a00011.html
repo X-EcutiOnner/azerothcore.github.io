@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Battlegrounds/ArenaHookDefaultsTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Accounts/RBACTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,264 +106,339 @@ $(document).ready(function(){initNavTree('da/d45/a00011.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">ArenaHookDefaultsTest.cpp File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">RBACTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptDefines/ArenaScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptDefines/AllBattlegroundScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ArenaTeam.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldMock.h</a>&quot;</code><br />
+
+<p><a class="el" href="../../dc/d3e/a09066.html">Unit</a> tests for the Role-Based Access Control (RBAC) system.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AccountMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">RBAC.h</a>&quot;</code><br />
 <code>#include &quot;gtest/gtest.h&quot;</code><br />
+<code>#include &lt;memory&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db3/a29274.html">anonymous_namespace{RBACTest.cpp}::RBACPermissionTest</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tests for RBACPermission class functionality.  <a href="../../db/db3/a29274.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/a29278.html">anonymous_namespace{RBACTest.cpp}::RBACDataTest</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tests for RBACData class functionality with full server setup.  <a href="../../d7/d21/a29278.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d29/a29282.html">anonymous_namespace{RBACTest.cpp}::RBACCommandResultTest</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tests to verify all RBACCommandResult values are handled.  <a href="../../dd/d29/a29282.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dd8/a29286.html">anonymous_namespace{RBACTest.cpp}::RBACLinkedPermissionsTest</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tests for permission inheritance through linked permissions.  <a href="../../de/dd8/a29286.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d18/a29290.html">anonymous_namespace{RBACTest.cpp}::RBACSecurityLevelTest</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tests for security level accessor.  <a href="../../d1/d18/a29290.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d2d/a29294.html">anonymous_namespace{RBACTest.cpp}::RBACPermissionExpansionTest</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tests for permission expansion through linked permissions.  <a href="../../d8/d2d/a29294.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/a29298.html">anonymous_namespace{RBACTest.cpp}::RBACDefaultPermissionsTest</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tests for default permissions based on security level.  <a href="../../d2/d27/a29298.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dea/a29302.html">anonymous_namespace{RBACTest.cpp}::RBACDeniedExpansionTest</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tests for denied permission expansion.  <a href="../../d8/dea/a29302.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d32/a29306.html">anonymous_namespace{RBACTest.cpp}::RBACPermissionRemoveLinkedTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/db5/a29310.html">anonymous_namespace{RBACTest.cpp}::RBACGetPermissionsTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d6b/a29314.html">anonymous_namespace{RBACTest.cpp}::RBACRevokeEdgeCasesTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db2/a29318.html">anonymous_namespace{RBACTest.cpp}::RBACComplexHierarchyTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d61/a29322.html">anonymous_namespace{RBACTest.cpp}::RBACDenySpecificFromRoleTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d84/a29326.html">anonymous_namespace{RBACTest.cpp}::RBACDefaultPermissionsWithRolesTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1c/a29330.html">anonymous_namespace{RBACTest.cpp}::RBACPermissionEnumConsistencyTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d20/a29334.html">anonymous_namespace{RBACTest.cpp}::RBACEmptyAndBoundaryTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddf/a29338.html">anonymous_namespace{RBACTest.cpp}::RBACCircularLinkProtectionTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dcd/a29342.html">anonymous_namespace{RBACTest.cpp}::RBACFullRoleHierarchyTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d13/a29346.html">anonymous_namespace{RBACTest.cpp}::RBACPermissionDefaultConstructorTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da5/a29350.html">anonymous_namespace{RBACTest.cpp}::RBACAccountMgrPermissionLookupTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a29354.html">anonymous_namespace{RBACTest.cpp}::RBACAccountMgrTestHelperEdgeCasesTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d96/a29358.html">anonymous_namespace{RBACTest.cpp}::RBACExpandPermissionsDanglingLinkTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de9/a29362.html">anonymous_namespace{RBACTest.cpp}::RBACLoadFromDBCallbackSimulationTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0c/a29366.html">anonymous_namespace{RBACTest.cpp}::RBACDoubleRevokeTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d43/a29370.html">anonymous_namespace{RBACTest.cpp}::RBACMultipleInstancesIndependenceTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d39/a29374.html">anonymous_namespace{RBACTest.cpp}::RBACSetSecurityLevelForTestBehaviorTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d55/a29378.html">anonymous_namespace{RBACTest.cpp}::RBACDataAccessorsTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d5/d80/a05114"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html">anonymous_namespace{RBACTest.cpp}</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a6677d75c2b2c5b8a1b910e5b7a943867"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d45/a00011.html#a6677d75c2b2c5b8a1b910e5b7a943867">TEST_F</a> (<a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a>, CanSaveToDBDefaultsTrue)</td></tr>
-<tr class="separator:a6677d75c2b2c5b8a1b910e5b7a943867"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab81f733e33491c5907ae23252337725c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d45/a00011.html#ab81f733e33491c5907ae23252337725c">TEST_F</a> (<a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a>, OnBeforeArenaTeamMemberUpdateDefaultsTrue)</td></tr>
-<tr class="separator:ab81f733e33491c5907ae23252337725c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acede4c371594a1fd0528b8197fcc6cbb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d45/a00011.html#acede4c371594a1fd0528b8197fcc6cbb">TEST_F</a> (<a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a>, CanSaveArenaStatsForMemberDefaultsTrue)</td></tr>
-<tr class="separator:acede4c371594a1fd0528b8197fcc6cbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a107778bcf48a658ed6e9f2a52234d6d0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d45/a00011.html#a107778bcf48a658ed6e9f2a52234d6d0">TEST_F</a> (<a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a>, OnBeforeArenaCheckWinConditionsDefaultsTrue)</td></tr>
-<tr class="separator:a107778bcf48a658ed6e9f2a52234d6d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af7f1863961720e96f331f17dd1d7ad7a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d45/a00011.html#af7f1863961720e96f331f17dd1d7ad7a">TEST_F</a> (<a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a>, CanAddGroupToMatchingPoolDefaultsTrue)</td></tr>
-<tr class="separator:af7f1863961720e96f331f17dd1d7ad7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb810fe89abdcbd96e44ddf079e86cf3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d45/a00011.html#abb810fe89abdcbd96e44ddf079e86cf3">TEST_F</a> (<a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a>, MemberUpdateCallingConventionAllowsByDefault)</td></tr>
-<tr class="separator:abb810fe89abdcbd96e44ddf079e86cf3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2be017eacbcb5e72cb86038f37d35c73"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a2be017eacbcb5e72cb86038f37d35c73">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionTest, Constructor_SetsIdAndName)</td></tr>
+<tr class="separator:a2be017eacbcb5e72cb86038f37d35c73"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5f7d7e71fa45fefa462bcc9e137379a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#aa5f7d7e71fa45fefa462bcc9e137379a">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionTest, LinkedPermissions_InitiallyEmpty)</td></tr>
+<tr class="separator:aa5f7d7e71fa45fefa462bcc9e137379a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac12df8c9cedb55839aef9ae1d53885c2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ac12df8c9cedb55839aef9ae1d53885c2">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionTest, AddLinkedPermission_AddsToSet)</td></tr>
+<tr class="separator:ac12df8c9cedb55839aef9ae1d53885c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac503193443346900db789e426e74d89f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ac503193443346900db789e426e74d89f">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionTest, AddLinkedPermission_NoDuplicates)</td></tr>
+<tr class="separator:ac503193443346900db789e426e74d89f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acfb6d004d4bd0c3a0c4e16d3670ca0b4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#acfb6d004d4bd0c3a0c4e16d3670ca0b4">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, Constructor_SetsAccountData)</td></tr>
+<tr class="separator:acfb6d004d4bd0c3a0c4e16d3670ca0b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6aafbbf2028e96650ca1cdcb6f3b62e5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a6aafbbf2028e96650ca1cdcb6f3b62e5">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, InitialState_EmptyPermissions)</td></tr>
+<tr class="separator:a6aafbbf2028e96650ca1cdcb6f3b62e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a631a459e450a6d682b3cf5c06c9ba0d2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a631a459e450a6d682b3cf5c06c9ba0d2">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, GrantPermission_Success)</td></tr>
+<tr class="separator:a631a459e450a6d682b3cf5c06c9ba0d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af59b99c097c8815297cc98e42e0e85e4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#af59b99c097c8815297cc98e42e0e85e4">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, GrantPermission_AlreadyGranted_ReturnsError)</td></tr>
+<tr class="separator:af59b99c097c8815297cc98e42e0e85e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a78b0e6b785d408d69d1f03fa0c4fbcfd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a78b0e6b785d408d69d1f03fa0c4fbcfd">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, GrantPermission_WhenDenied_ReturnsError)</td></tr>
+<tr class="separator:a78b0e6b785d408d69d1f03fa0c4fbcfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5faa8a1fff85d4becc8bafff689ca35f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a5faa8a1fff85d4becc8bafff689ca35f">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, GrantPermission_InvalidId_ReturnsError)</td></tr>
+<tr class="separator:a5faa8a1fff85d4becc8bafff689ca35f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59368caeba684bc709364d54d1654633"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a59368caeba684bc709364d54d1654633">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, DenyPermission_Success)</td></tr>
+<tr class="separator:a59368caeba684bc709364d54d1654633"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd06247cf080abc4d959a320c589f053"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#acd06247cf080abc4d959a320c589f053">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, DenyPermission_AlreadyDenied_ReturnsError)</td></tr>
+<tr class="separator:acd06247cf080abc4d959a320c589f053"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a16a352dcff2532e4de4c30b46e11910d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a16a352dcff2532e4de4c30b46e11910d">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, DenyPermission_WhenGranted_ReturnsError)</td></tr>
+<tr class="separator:a16a352dcff2532e4de4c30b46e11910d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51076f0be98cf8f4caeb535fafe4e5bb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a51076f0be98cf8f4caeb535fafe4e5bb">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, DenyPermission_InvalidId_ReturnsError)</td></tr>
+<tr class="separator:a51076f0be98cf8f4caeb535fafe4e5bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b6912effb5738bdc291c9ba8bdd8299"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a1b6912effb5738bdc291c9ba8bdd8299">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, RevokePermission_FromGranted_Success)</td></tr>
+<tr class="separator:a1b6912effb5738bdc291c9ba8bdd8299"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a02b2408f551504a8daba4f1f5880e376"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a02b2408f551504a8daba4f1f5880e376">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, RevokePermission_FromDenied_Success)</td></tr>
+<tr class="separator:a02b2408f551504a8daba4f1f5880e376"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b4d6c41c56b601cb3df137a99d4bcc1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a3b4d6c41c56b601cb3df137a99d4bcc1">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, RevokePermission_NotInList_ReturnsError)</td></tr>
+<tr class="separator:a3b4d6c41c56b601cb3df137a99d4bcc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64f4e2c94cf2020e174f0ce4c9fd9ab6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a64f4e2c94cf2020e174f0ce4c9fd9ab6">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, HasPermission_WhenGranted_ReturnsTrue)</td></tr>
+<tr class="separator:a64f4e2c94cf2020e174f0ce4c9fd9ab6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a765d4f81248a7d9ad6727511c7abe0c0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a765d4f81248a7d9ad6727511c7abe0c0">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, HasPermission_WhenDenied_ReturnsFalse)</td></tr>
+<tr class="separator:a765d4f81248a7d9ad6727511c7abe0c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81b32c01ee2d459a03b4a379e3032238"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a81b32c01ee2d459a03b4a379e3032238">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, HasPermission_WhenNotSet_ReturnsFalse)</td></tr>
+<tr class="separator:a81b32c01ee2d459a03b4a379e3032238"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a21266fbb783cacdbaa5bac6e1edc3379"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a21266fbb783cacdbaa5bac6e1edc3379">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, MultiplePermissions_IndependentTracking)</td></tr>
+<tr class="separator:a21266fbb783cacdbaa5bac6e1edc3379"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f5013568df4fe12998e8b6e933ef65d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a7f5013568df4fe12998e8b6e933ef65d">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, RevokeAndRegrant_WorksCorrectly)</td></tr>
+<tr class="separator:a7f5013568df4fe12998e8b6e933ef65d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad83b69d70b6679bda03c44f01cb3a6e1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ad83b69d70b6679bda03c44f01cb3a6e1">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataTest, RevokeAndDeny_WorksCorrectly)</td></tr>
+<tr class="separator:ad83b69d70b6679bda03c44f01cb3a6e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d99073f07a17cb3ecc0e95450ffc684"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a9d99073f07a17cb3ecc0e95450ffc684">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACCommandResultTest, AllResultValuesAreDefined)</td></tr>
+<tr class="separator:a9d99073f07a17cb3ecc0e95450ffc684"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5843a193e9268ebf9fcbf1f73a7011b4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a5843a193e9268ebf9fcbf1f73a7011b4">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACLinkedPermissionsTest, GrantedPermission_IsInGrantedList)</td></tr>
+<tr class="separator:a5843a193e9268ebf9fcbf1f73a7011b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a884bbd3f3871c8470128bf67a0e4532a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a884bbd3f3871c8470128bf67a0e4532a">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACLinkedPermissionsTest, DeniedPermission_IsInDeniedList)</td></tr>
+<tr class="separator:a884bbd3f3871c8470128bf67a0e4532a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae18d20a5dcaf630509dd6d4cf80e1ecc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ae18d20a5dcaf630509dd6d4cf80e1ecc">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACLinkedPermissionsTest, DeniedPermission_OverridesGranted)</td></tr>
+<tr class="separator:ae18d20a5dcaf630509dd6d4cf80e1ecc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7cbc5629fa8c697d05346c9ba0fabe34"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a7cbc5629fa8c697d05346c9ba0fabe34">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACSecurityLevelTest, Constructor_PreservesSecurityLevel)</td></tr>
+<tr class="separator:a7cbc5629fa8c697d05346c9ba0fabe34"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39a1bac298c8f9b93ed3ff4ba0c31963"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a39a1bac298c8f9b93ed3ff4ba0c31963">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACSecurityLevelTest, SetSecurityLevelForTest_UpdatesLevel)</td></tr>
+<tr class="separator:a39a1bac298c8f9b93ed3ff4ba0c31963"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2fd6441c4bc2f38d139b1ba7af53086"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ad2fd6441c4bc2f38d139b1ba7af53086">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionExpansionTest, GrantRole_ExpandsLinkedPermissions)</td></tr>
+<tr class="separator:ad2fd6441c4bc2f38d139b1ba7af53086"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5992d160bdc5a6ff5a48fa1a50b1777"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ae5992d160bdc5a6ff5a48fa1a50b1777">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionExpansionTest, GrantRole_RecursiveExpansion)</td></tr>
+<tr class="separator:ae5992d160bdc5a6ff5a48fa1a50b1777"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51d8ee50759c033d98b71113168ba109"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a51d8ee50759c033d98b71113168ba109">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionExpansionTest, DenyRole_PreventsLinkedPermissions)</td></tr>
+<tr class="separator:a51d8ee50759c033d98b71113168ba109"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a994502737141b11879d465b50506694b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a994502737141b11879d465b50506694b">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionExpansionTest, DenyRole_OverridesIndividualGrant)</td></tr>
+<tr class="separator:a994502737141b11879d465b50506694b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace19d0d5c45046bbd47745a939683598"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ace19d0d5c45046bbd47745a939683598">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDefaultPermissionsTest, GetDefaultPermissions_ReturnsCorrectSet)</td></tr>
+<tr class="separator:ace19d0d5c45046bbd47745a939683598"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8edd27f8f6bc8bc9ab646a2fcf9e130e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a8edd27f8f6bc8bc9ab646a2fcf9e130e">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDefaultPermissionsTest, GetDefaultPermissions_EmptySecLevel_ReturnsEmpty)</td></tr>
+<tr class="separator:a8edd27f8f6bc8bc9ab646a2fcf9e130e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:addd00e5fc5431ad8aff56a21b6733050"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#addd00e5fc5431ad8aff56a21b6733050">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDefaultPermissionsTest, SecurityLevel_DeterminesDefaultPermissions)</td></tr>
+<tr class="separator:addd00e5fc5431ad8aff56a21b6733050"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e91e50bc0d0138e5d0579adc4f5fa12"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a7e91e50bc0d0138e5d0579adc4f5fa12">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDefaultPermissionsTest, HigherSecLevel_GetsOnlyOwnDefaults)</td></tr>
+<tr class="separator:a7e91e50bc0d0138e5d0579adc4f5fa12"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37cdd8066878184c1238398dc0d885b3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a37cdd8066878184c1238398dc0d885b3">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDeniedExpansionTest, DenyRole_ExpandsDeniedLinkedPermissions)</td></tr>
+<tr class="separator:a37cdd8066878184c1238398dc0d885b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a21db149689f0c0f9a6c9dca82638edcb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a21db149689f0c0f9a6c9dca82638edcb">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDeniedExpansionTest, GrantAndDenySameRole_DenyWins)</td></tr>
+<tr class="separator:a21db149689f0c0f9a6c9dca82638edcb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1836f602c9444fe999c09bce39cef1c7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a1836f602c9444fe999c09bce39cef1c7">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionRemoveLinkedTest, RemoveLinkedPermission_RemovesFromSet)</td></tr>
+<tr class="separator:a1836f602c9444fe999c09bce39cef1c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81634ebbe7f58e3c801706ed0ff25658"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a81634ebbe7f58e3c801706ed0ff25658">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionRemoveLinkedTest, RemoveNonExistent_IsNoOp)</td></tr>
+<tr class="separator:a81634ebbe7f58e3c801706ed0ff25658"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5914121653132dc17db8e0bec5c7119d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a5914121653132dc17db8e0bec5c7119d">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionRemoveLinkedTest, RemoveAll_LeavesEmpty)</td></tr>
+<tr class="separator:a5914121653132dc17db8e0bec5c7119d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af0ef0baba6c58b632921eaadd3c0615c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#af0ef0baba6c58b632921eaadd3c0615c">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACGetPermissionsTest, Empty_WhenNothingGranted)</td></tr>
+<tr class="separator:af0ef0baba6c58b632921eaadd3c0615c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a720fbf1111759a523534ba5a60aebf20"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a720fbf1111759a523534ba5a60aebf20">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACGetPermissionsTest, MatchesHasPermission)</td></tr>
+<tr class="separator:a720fbf1111759a523534ba5a60aebf20"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d15745b03d09735ab9433514d8e5709"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a1d15745b03d09735ab9433514d8e5709">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACGetPermissionsTest, ExcludesDeniedPermissions)</td></tr>
+<tr class="separator:a1d15745b03d09735ab9433514d8e5709"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a150d4b23b723a75145dd4e24178dd9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a1a150d4b23b723a75145dd4e24178dd9">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACGetPermissionsTest, IncludesExpandedLinkedPermissions)</td></tr>
+<tr class="separator:a1a150d4b23b723a75145dd4e24178dd9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeac71bcc916901ecd6d3dfa5b9f18273"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#aeac71bcc916901ecd6d3dfa5b9f18273">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACGetPermissionsTest, ReflectsStateAfterRecalculate)</td></tr>
+<tr class="separator:aeac71bcc916901ecd6d3dfa5b9f18273"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa36dbcdbc93755c6f266bcfda76edc8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#aaa36dbcdbc93755c6f266bcfda76edc8">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACRevokeEdgeCasesTest, RevokeUnregistered_ReturnsCantRevoke)</td></tr>
+<tr class="separator:aaa36dbcdbc93755c6f266bcfda76edc8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc157a4fc719317171e6e330b2c10624"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#acc157a4fc719317171e6e330b2c10624">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACRevokeEdgeCasesTest, RevokeFromEmpty_ReturnsError)</td></tr>
+<tr class="separator:acc157a4fc719317171e6e330b2c10624"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc69ec61a26d48f17a962b45f252bd70"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#acc69ec61a26d48f17a962b45f252bd70">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACRevokeEdgeCasesTest, RevokeGranted_ThenDeny)</td></tr>
+<tr class="separator:acc69ec61a26d48f17a962b45f252bd70"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af49c3828f2a451899087d251e7a4d97a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#af49c3828f2a451899087d251e7a4d97a">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACRevokeEdgeCasesTest, RevokeDenied_ThenGrant)</td></tr>
+<tr class="separator:af49c3828f2a451899087d251e7a4d97a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69fb8e3b4df1e5a979aea45801baa9b2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a69fb8e3b4df1e5a979aea45801baa9b2">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACRevokeEdgeCasesTest, RevokeDoesNotAffectOtherPermissions)</td></tr>
+<tr class="separator:a69fb8e3b4df1e5a979aea45801baa9b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03ba9591dfda9dfd08c599affc8b958d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a03ba9591dfda9dfd08c599affc8b958d">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACComplexHierarchyTest, ThreeLevelDeep)</td></tr>
+<tr class="separator:a03ba9591dfda9dfd08c599affc8b958d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55e87463a1203bc6d2f1834f8ee8d347"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a55e87463a1203bc6d2f1834f8ee8d347">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACComplexHierarchyTest, DiamondInheritance)</td></tr>
+<tr class="separator:a55e87463a1203bc6d2f1834f8ee8d347"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a649c5e5ddbd27887773d33bd2168a608"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a649c5e5ddbd27887773d33bd2168a608">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACComplexHierarchyTest, WideRole)</td></tr>
+<tr class="separator:a649c5e5ddbd27887773d33bd2168a608"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50a71607d2eb3ea48a7672678f34277d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a50a71607d2eb3ea48a7672678f34277d">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACComplexHierarchyTest, TwoOverlappingRoles_NoDuplicateInGetPermissions)</td></tr>
+<tr class="separator:a50a71607d2eb3ea48a7672678f34277d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad788a607d280e642a26850a174dcdf77"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ad788a607d280e642a26850a174dcdf77">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACComplexHierarchyTest, RevokeOneOverlappingRole_KeepsSharedFromOther)</td></tr>
+<tr class="separator:ad788a607d280e642a26850a174dcdf77"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a848b8211fe523bf98b033233fd23050f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a848b8211fe523bf98b033233fd23050f">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDenySpecificFromRoleTest, DenyOneChild_SiblingsStillGranted)</td></tr>
+<tr class="separator:a848b8211fe523bf98b033233fd23050f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1fa0455533db54fc8465505c382be304"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a1fa0455533db54fc8465505c382be304">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDenySpecificFromRoleTest, DenyPermNotInRole_RolePermsUnaffected)</td></tr>
+<tr class="separator:a1fa0455533db54fc8465505c382be304"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e49d26bc7b400bf1aff8bc14c10c10e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a5e49d26bc7b400bf1aff8bc14c10c10e">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDenySpecificFromRoleTest, GrantTwoRoles_DenyOneRole)</td></tr>
+<tr class="separator:a5e49d26bc7b400bf1aff8bc14c10c10e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6931dc5e89726eab102414da00b80206"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a6931dc5e89726eab102414da00b80206">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDefaultPermissionsWithRolesTest, DefaultRoleExpandsLinked)</td></tr>
+<tr class="separator:a6931dc5e89726eab102414da00b80206"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd758cc9935c7ab0b3bb9057ddde4c16"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#afd758cc9935c7ab0b3bb9057ddde4c16">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDefaultPermissionsWithRolesTest, DefaultRole_DenyLinkedChild)</td></tr>
+<tr class="separator:afd758cc9935c7ab0b3bb9057ddde4c16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc340821e002a8d6c41b0ac185748024"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#adc340821e002a8d6c41b0ac185748024">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDefaultPermissionsWithRolesTest, SecLevels_NoCrossContamination)</td></tr>
+<tr class="separator:adc340821e002a8d6c41b0ac185748024"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e0c7937103f5e2383965cbc67d3c631"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a0e0c7937103f5e2383965cbc67d3c631">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionEnumConsistencyTest, MaxGreaterThanHighestDefined)</td></tr>
+<tr class="separator:a0e0c7937103f5e2383965cbc67d3c631"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5f12b563461a618f6c694519f7f9608"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ab5f12b563461a618f6c694519f7f9608">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionEnumConsistencyTest, RoleIdsWithinRange)</td></tr>
+<tr class="separator:ab5f12b563461a618f6c694519f7f9608"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d1142c93d8373f065467fc48096aa02"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a5d1142c93d8373f065467fc48096aa02">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionEnumConsistencyTest, NonContiguousIds_Work)</td></tr>
+<tr class="separator:a5d1142c93d8373f065467fc48096aa02"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae75003b92d9ba1af0d988482f965912f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ae75003b92d9ba1af0d988482f965912f">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACEmptyAndBoundaryTest, FreshData_AllEmpty)</td></tr>
+<tr class="separator:ae75003b92d9ba1af0d988482f965912f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4c3a15a4175dab96fdcdc4e4713e998"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#aa4c3a15a4175dab96fdcdc4e4713e998">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACEmptyAndBoundaryTest, HasPermission_Zero_ReturnsFalse)</td></tr>
+<tr class="separator:aa4c3a15a4175dab96fdcdc4e4713e998"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abef0d3704b7c5279d758e659c94b56d2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#abef0d3704b7c5279d758e659c94b56d2">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACEmptyAndBoundaryTest, HasPermission_Max_ReturnsFalse)</td></tr>
+<tr class="separator:abef0d3704b7c5279d758e659c94b56d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad08c92fb86a0a8a5e3ece88f6b67ec32"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ad08c92fb86a0a8a5e3ece88f6b67ec32">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACEmptyAndBoundaryTest, GrantDenyRevokeSequence)</td></tr>
+<tr class="separator:ad08c92fb86a0a8a5e3ece88f6b67ec32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6acf829f7b7ebaa991f49f94a7450599"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a6acf829f7b7ebaa991f49f94a7450599">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACEmptyAndBoundaryTest, MultipleRecalculates_Idempotent)</td></tr>
+<tr class="separator:a6acf829f7b7ebaa991f49f94a7450599"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4355aa57a09e489f3a81aeaf1dca7d0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ae4355aa57a09e489f3a81aeaf1dca7d0">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACEmptyAndBoundaryTest, RecalculateOnEmpty_Safe)</td></tr>
+<tr class="separator:ae4355aa57a09e489f3a81aeaf1dca7d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e767d2e53a038d4d6ff4459e283cf2b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a8e767d2e53a038d4d6ff4459e283cf2b">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACCircularLinkProtectionTest, MutualLink_BothGranted)</td></tr>
+<tr class="separator:a8e767d2e53a038d4d6ff4459e283cf2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b3bcb01f27558ecab4f77eb36528bdd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a7b3bcb01f27558ecab4f77eb36528bdd">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACCircularLinkProtectionTest, SelfReferencing_Terminates)</td></tr>
+<tr class="separator:a7b3bcb01f27558ecab4f77eb36528bdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada16d541db3479c31d2877fed48899ca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ada16d541db3479c31d2877fed48899ca">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACCircularLinkProtectionTest, CircularChainOf3_AllGranted)</td></tr>
+<tr class="separator:ada16d541db3479c31d2877fed48899ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1bc037e4d01dd00096190828d4c2dde"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#af1bc037e4d01dd00096190828d4c2dde">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACFullRoleHierarchyTest, GrantPlayerRole_OnlyPlayerPerms)</td></tr>
+<tr class="separator:af1bc037e4d01dd00096190828d4c2dde"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ea4112f76c592b59a4836ffec8b9858"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a9ea4112f76c592b59a4836ffec8b9858">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACFullRoleHierarchyTest, GrantGMRole_FullChain)</td></tr>
+<tr class="separator:a9ea4112f76c592b59a4836ffec8b9858"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82dc88dbd325903b8ac6ec8ef632c36a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a82dc88dbd325903b8ac6ec8ef632c36a">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACFullRoleHierarchyTest, GrantAdminRole_AllPerms)</td></tr>
+<tr class="separator:a82dc88dbd325903b8ac6ec8ef632c36a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b86a7b4be44a2fac2e972a7ed5bbe4b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a1b86a7b4be44a2fac2e972a7ed5bbe4b">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACFullRoleHierarchyTest, GrantAdmin_DenyModRole_ModAndPlayerDenied)</td></tr>
+<tr class="separator:a1b86a7b4be44a2fac2e972a7ed5bbe4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a25983998cd2f3f7d7f205757318fb3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a5a25983998cd2f3f7d7f205757318fb3">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACFullRoleHierarchyTest, GrantAdmin_DenyOneCommandPerm)</td></tr>
+<tr class="separator:a5a25983998cd2f3f7d7f205757318fb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7320a548efd0f7570c81346b60d1cf2d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a7320a548efd0f7570c81346b60d1cf2d">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionDefaultConstructorTest, DefaultConstructor_ZeroIdEmptyName)</td></tr>
+<tr class="separator:a7320a548efd0f7570c81346b60d1cf2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd6b12955602572acbc7fe61ffa3022d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#acd6b12955602572acbc7fe61ffa3022d">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACPermissionDefaultConstructorTest, ConstructorWithIdOnly)</td></tr>
+<tr class="separator:acd6b12955602572acbc7fe61ffa3022d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa918f309ee2c58c8f76bbdd8441f2721"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#aa918f309ee2c58c8f76bbdd8441f2721">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACAccountMgrPermissionLookupTest, GetRBACPermission_ValidId_ReturnsPermission)</td></tr>
+<tr class="separator:aa918f309ee2c58c8f76bbdd8441f2721"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b5b73537515cd57c1327c221e7f6614"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a3b5b73537515cd57c1327c221e7f6614">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACAccountMgrPermissionLookupTest, GetRBACPermission_InvalidId_ReturnsNull)</td></tr>
+<tr class="separator:a3b5b73537515cd57c1327c221e7f6614"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac3b13978576ba57caaec31f6bdd41e2a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ac3b13978576ba57caaec31f6bdd41e2a">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACAccountMgrPermissionLookupTest, GetRBACPermissionList_ContainsRegistered)</td></tr>
+<tr class="separator:ac3b13978576ba57caaec31f6bdd41e2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a56ea33e6364323145be5a3affb354ced"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a56ea33e6364323145be5a3affb354ced">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACAccountMgrPermissionLookupTest, GetRBACPermissionList_SizeMatchesRegistered)</td></tr>
+<tr class="separator:a56ea33e6364323145be5a3affb354ced"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a321bafa8a596293d1b063f0281021830"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a321bafa8a596293d1b063f0281021830">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACAccountMgrTestHelperEdgeCasesTest, AddPermissionForTest_DuplicateIsNoOp)</td></tr>
+<tr class="separator:a321bafa8a596293d1b063f0281021830"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab52fa00018214a327256dfb2ebb4e42b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ab52fa00018214a327256dfb2ebb4e42b">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACAccountMgrTestHelperEdgeCasesTest, AddLinkedPermission_UnregisteredParent_NoOp)</td></tr>
+<tr class="separator:ab52fa00018214a327256dfb2ebb4e42b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5df8e81ea1cd029ab1ec4c70c9346601"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a5df8e81ea1cd029ab1ec4c70c9346601">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACAccountMgrTestHelperEdgeCasesTest, ClearPermissions_RemovesEverything)</td></tr>
+<tr class="separator:a5df8e81ea1cd029ab1ec4c70c9346601"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d4ddbdda33837059d411dda1df7b7e4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a4d4ddbdda33837059d411dda1df7b7e4">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACExpandPermissionsDanglingLinkTest, DanglingLink_SkippedGracefully)</td></tr>
+<tr class="separator:a4d4ddbdda33837059d411dda1df7b7e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a799213e86e9a904eb2adbd02a90c6352"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a799213e86e9a904eb2adbd02a90c6352">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACExpandPermissionsDanglingLinkTest, DenyDanglingLink_SkippedGracefully)</td></tr>
+<tr class="separator:a799213e86e9a904eb2adbd02a90c6352"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b8e0d1e8e1f76c4595a60f3ae53af58"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a7b8e0d1e8e1f76c4595a60f3ae53af58">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACLoadFromDBCallbackSimulationTest, NullResult_AppliesDefaultsAndRecalculates)</td></tr>
+<tr class="separator:a7b8e0d1e8e1f76c4595a60f3ae53af58"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b831810565bb4d7af8544b0f8ae3bf0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a3b831810565bb4d7af8544b0f8ae3bf0">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACLoadFromDBCallbackSimulationTest, NullResult_NoDefaultsForHighSecLevel)</td></tr>
+<tr class="separator:a3b831810565bb4d7af8544b0f8ae3bf0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97aa2ccefe35ecb4014b648772fdc298"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a97aa2ccefe35ecb4014b648772fdc298">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDoubleRevokeTest, RevokeGrantedTwice_SecondFails)</td></tr>
+<tr class="separator:a97aa2ccefe35ecb4014b648772fdc298"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab03aa70416e3d5175c933981adc8c61"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#aab03aa70416e3d5175c933981adc8c61">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDoubleRevokeTest, RevokeDeniedTwice_SecondFails)</td></tr>
+<tr class="separator:aab03aa70416e3d5175c933981adc8c61"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c431cb0963c1a6e1331b88357e8be88"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a6c431cb0963c1a6e1331b88357e8be88">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACMultipleInstancesIndependenceTest, TwoInstances_NoCrossContamination)</td></tr>
+<tr class="separator:a6c431cb0963c1a6e1331b88357e8be88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94a6f609406446487a0a0a0734fec153"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a94a6f609406446487a0a0a0734fec153">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACMultipleInstancesIndependenceTest, ModifyingOne_DoesNotAffectOther)</td></tr>
+<tr class="separator:a94a6f609406446487a0a0a0734fec153"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a09f6efa79579d4c4ef4c36fa5ba7b35d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a09f6efa79579d4c4ef4c36fa5ba7b35d">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACSetSecurityLevelForTestBehaviorTest, DoesNotRecalculate)</td></tr>
+<tr class="separator:a09f6efa79579d4c4ef4c36fa5ba7b35d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a286f60611727ed0b34b304057948da82"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a286f60611727ed0b34b304057948da82">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACSetSecurityLevelForTestBehaviorTest, UpdatesLevelOnly)</td></tr>
+<tr class="separator:a286f60611727ed0b34b304057948da82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1fef44b6e4ecc52f0567fb3323ddba60"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a1fef44b6e4ecc52f0567fb3323ddba60">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataAccessorsTest, GetName_ReturnsAccountName)</td></tr>
+<tr class="separator:a1fef44b6e4ecc52f0567fb3323ddba60"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8e8206b6b6437657f5861366bec336b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ac8e8206b6b6437657f5861366bec336b">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataAccessorsTest, GetName_EmptyString)</td></tr>
+<tr class="separator:ac8e8206b6b6437657f5861366bec336b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b1d4b360a96d52d7a36a9d180b25e07"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a4b1d4b360a96d52d7a36a9d180b25e07">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataAccessorsTest, GetId_ReturnsAccountId)</td></tr>
+<tr class="separator:a4b1d4b360a96d52d7a36a9d180b25e07"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7146ce45f4944986c15a02ab03e2858c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a7146ce45f4944986c15a02ab03e2858c">anonymous_namespace{RBACTest.cpp}::TEST_F</a> (RBACDataAccessorsTest, GrantedDeniedGlobal_AllConsistent)</td></tr>
+<tr class="separator:a7146ce45f4944986c15a02ab03e2858c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:ada25aee6430924f3dcbb6f40ea9121fc"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ada25aee6430924f3dcbb6f40ea9121fc">anonymous_namespace{RBACTest.cpp}::TEST_PERM_1</a> = 1</td></tr>
+<tr class="separator:ada25aee6430924f3dcbb6f40ea9121fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fa6301728a45708915250c9334a224b"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a7fa6301728a45708915250c9334a224b">anonymous_namespace{RBACTest.cpp}::TEST_PERM_2</a> = 2</td></tr>
+<tr class="separator:a7fa6301728a45708915250c9334a224b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39ae16e6c60e6cea38c96a4880bfbecb"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a39ae16e6c60e6cea38c96a4880bfbecb">anonymous_namespace{RBACTest.cpp}::TEST_PERM_3</a> = 3</td></tr>
+<tr class="separator:a39ae16e6c60e6cea38c96a4880bfbecb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a260c5836c722ac96316e1d86380c5e3c"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a260c5836c722ac96316e1d86380c5e3c">anonymous_namespace{RBACTest.cpp}::TEST_PERM_ROLE</a> = 100</td></tr>
+<tr class="separator:a260c5836c722ac96316e1d86380c5e3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d8b91e77b36742e17ae12aade6efde0"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a3d8b91e77b36742e17ae12aade6efde0">anonymous_namespace{RBACTest.cpp}::TEST_PERM_INVALID</a> = 99999</td></tr>
+<tr class="separator:a3d8b91e77b36742e17ae12aade6efde0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0cc95e431d4ed18ceb67453302faf112"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a0cc95e431d4ed18ceb67453302faf112">anonymous_namespace{RBACTest.cpp}::TEST_ACCOUNT_ID</a> = 1</td></tr>
+<tr class="separator:a0cc95e431d4ed18ceb67453302faf112"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a011747186a7affd435b8d1cae90caee9"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#a011747186a7affd435b8d1cae90caee9">anonymous_namespace{RBACTest.cpp}::TEST_REALM_ID</a> = 1</td></tr>
+<tr class="separator:a011747186a7affd435b8d1cae90caee9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab633336fb16c240b07928be7a8bfb267"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ab633336fb16c240b07928be7a8bfb267">anonymous_namespace{RBACTest.cpp}::TEST_SEC_LEVEL</a> = 3</td></tr>
+<tr class="separator:ab633336fb16c240b07928be7a8bfb267"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab160d66a2d03eb7988c6d49a4de91c03"><td class="memItemLeft" align="right" valign="top">const std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05114.html#ab160d66a2d03eb7988c6d49a4de91c03">anonymous_namespace{RBACTest.cpp}::TEST_ACCOUNT_NAME</a> = &quot;TestAccount&quot;</td></tr>
+<tr class="separator:ab160d66a2d03eb7988c6d49a4de91c03"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="af7f1863961720e96f331f17dd1d7ad7a" name="af7f1863961720e96f331f17dd1d7ad7a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7f1863961720e96f331f17dd1d7ad7a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/6]</span></h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p ><a class="el" href="../../dc/d3e/a09066.html">Unit</a> tests for the Role-Based Access Control (RBAC) system. </p>
+<p >Tests verify:</p><ol type="1">
+<li>RBACPermission class construction and accessors</li>
+<li>RBACData grant/deny/revoke operations</li>
+<li>Permission state transitions</li>
+<li>HasPermission checks with granted/denied lists </li>
+</ol>
 
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">CanAddGroupToMatchingPoolDefaultsTrue&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
-<div class="line"><span class="lineno">  106</span>    EXPECT_TRUE(<a class="code hl_define" href="../../d0/d0a/a00743.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;CanAddGroupToMatchingPool(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, 0, <span class="keyword">nullptr</span>, <a class="code hl_enumeration" href="../../d8/d59/a04337.html#a1ce5a7d59f519e0e96d66c360886e3eb">BattlegroundBracketId</a>(0)));</div>
-<div class="line"><span class="lineno">  107</span>}</div>
-<div class="ttc" id="aa00743_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d0/d0a/a00743.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:736</div></div>
-<div class="ttc" id="aa04337_html_a1ce5a7d59f519e0e96d66c360886e3eb"><div class="ttname"><a href="../../d8/d59/a04337.html#a1ce5a7d59f519e0e96d66c360886e3eb">BattlegroundBracketId</a></div><div class="ttdeci">BattlegroundBracketId</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:46</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00736">sScriptMgr</a>.</p>
-
-</div>
-</div>
-<a id="acede4c371594a1fd0528b8197fcc6cbb" name="acede4c371594a1fd0528b8197fcc6cbb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acede4c371594a1fd0528b8197fcc6cbb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/6]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">CanSaveArenaStatsForMemberDefaultsTrue&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   90</span>{</div>
-<div class="line"><span class="lineno">   91</span>    <a class="code hl_class" href="../../df/df4/a07565.html">ArenaTeam</a> team;</div>
-<div class="line"><span class="lineno">   92</span>    EXPECT_TRUE(<a class="code hl_define" href="../../d0/d0a/a00743.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;CanSaveArenaStatsForMember(&amp;team, <a class="code hl_variable" href="../../de/d62/a08709.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>));</div>
-<div class="line"><span class="lineno">   93</span>}</div>
-<div class="ttc" id="aa07565_html"><div class="ttname"><a href="../../df/df4/a07565.html">ArenaTeam</a></div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:137</div></div>
-<div class="ttc" id="aa08709_html_a14039d3f3df79203693f713495503165"><div class="ttname"><a href="../../de/d62/a08709.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></div><div class="ttdeci">static ObjectGuid const Empty</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:120</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, and <a class="el" href="../../#l00736">sScriptMgr</a>.</p>
-
-</div>
-</div>
-<a id="a6677d75c2b2c5b8a1b910e5b7a943867" name="a6677d75c2b2c5b8a1b910e5b7a943867"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6677d75c2b2c5b8a1b910e5b7a943867">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/6]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">CanSaveToDBDefaultsTrue&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   72</span>{</div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_class" href="../../df/df4/a07565.html">ArenaTeam</a> team;</div>
-<div class="line"><span class="lineno">   74</span>    EXPECT_TRUE(<a class="code hl_define" href="../../d0/d0a/a00743.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;CanSaveToDB(&amp;team));</div>
-<div class="line"><span class="lineno">   75</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00736">sScriptMgr</a>.</p>
-
-</div>
-</div>
-<a id="abb810fe89abdcbd96e44ddf079e86cf3" name="abb810fe89abdcbd96e44ddf079e86cf3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abb810fe89abdcbd96e44ddf079e86cf3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/6]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">MemberUpdateCallingConventionAllowsByDefault&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  117</span>{</div>
-<div class="line"><span class="lineno">  118</span>    <a class="code hl_class" href="../../df/df4/a07565.html">ArenaTeam</a> team;</div>
-<div class="line"><span class="lineno">  119</span>    <span class="keywordtype">bool</span> hookResult = <a class="code hl_define" href="../../d0/d0a/a00743.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBeforeArenaTeamMemberUpdate(</div>
-<div class="line"><span class="lineno">  120</span>        &amp;team, <span class="keyword">nullptr</span>, <span class="keyword">true</span>, 1500, 0);</div>
-<div class="line"><span class="lineno">  121</span> </div>
-<div class="line"><span class="lineno">  122</span>    <span class="comment">// This simulates the condition in Arena::EndBattleground.</span></div>
-<div class="line"><span class="lineno">  123</span>    <span class="comment">// MemberWon must be called when no scripts are registered.</span></div>
-<div class="line"><span class="lineno">  124</span>    <span class="keywordtype">bool</span> memberWonWouldExecute = hookResult; <span class="comment">// NOT !hookResult</span></div>
-<div class="line"><span class="lineno">  125</span>    EXPECT_TRUE(memberWonWouldExecute)</div>
-<div class="line"><span class="lineno">  126</span>        &lt;&lt; <span class="stringliteral">&quot;MemberWon/MemberLost must execute when no scripts override &quot;</span></div>
-<div class="line"><span class="lineno">  127</span>           <span class="stringliteral">&quot;OnBeforeArenaTeamMemberUpdate. Check Arena.cpp is using &quot;</span></div>
-<div class="line"><span class="lineno">  128</span>           <span class="stringliteral">&quot;if(sScriptMgr-&gt;OnBeforeArenaTeamMemberUpdate(...)) without negation.&quot;</span>;</div>
-<div class="line"><span class="lineno">  129</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00736">sScriptMgr</a>.</p>
-
-</div>
-</div>
-<a id="a107778bcf48a658ed6e9f2a52234d6d0" name="a107778bcf48a658ed6e9f2a52234d6d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a107778bcf48a658ed6e9f2a52234d6d0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/6]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">OnBeforeArenaCheckWinConditionsDefaultsTrue&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>{</div>
-<div class="line"><span class="lineno">   99</span>    EXPECT_TRUE(<a class="code hl_define" href="../../d0/d0a/a00743.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBeforeArenaCheckWinConditions(<span class="keyword">nullptr</span>));</div>
-<div class="line"><span class="lineno">  100</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00736">sScriptMgr</a>.</p>
-
-</div>
-</div>
-<a id="ab81f733e33491c5907ae23252337725c" name="ab81f733e33491c5907ae23252337725c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab81f733e33491c5907ae23252337725c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/6]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dff/a29241.html">ArenaHookDefaultsTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">OnBeforeArenaTeamMemberUpdateDefaultsTrue&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
-<div class="line"><span class="lineno">   82</span>    <a class="code hl_class" href="../../df/df4/a07565.html">ArenaTeam</a> team;</div>
-<div class="line"><span class="lineno">   83</span>    EXPECT_TRUE(<a class="code hl_define" href="../../d0/d0a/a00743.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBeforeArenaTeamMemberUpdate(&amp;team, <span class="keyword">nullptr</span>, <span class="keyword">true</span>, 1500, 0));</div>
-<div class="line"><span class="lineno">   84</span>    EXPECT_TRUE(<a class="code hl_define" href="../../d0/d0a/a00743.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBeforeArenaTeamMemberUpdate(&amp;team, <span class="keyword">nullptr</span>, <span class="keyword">false</span>, 1500, 0));</div>
-<div class="line"><span class="lineno">   85</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00736">sScriptMgr</a>.</p>
-
-</div>
-</div>
-</div><!-- contents -->
+<p class="definition">Definition in file <a class="el" href="../../">RBACTest.cpp</a>.</p>
+</div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_d68c8764f6b69d1180b66c35742ddf05.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../da/d45/a00011.html">ArenaHookDefaultsTest.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 21:37:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e09b2498ecb731f0e33a0d4703100d8f.html">Accounts</a></li><li class="navelem"><a class="el" href="../../da/d45/a00011.html">RBACTest.cpp</a></li>
+    <li class="footer">Generated on Mon May 4 2026 21:41:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

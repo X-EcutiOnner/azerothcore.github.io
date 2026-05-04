@@ -1,5 +1,5 @@
 var a00806 =
 [
-    [ "AddonHandler", "de/dc1/a09877.html", "de/dc1/a09877" ],
-    [ "sAddOnHandler", "d0/dad/a00806.html#a53c18d341aaa47d117be75333e4ab43d", null ]
+    [ "BuildPartyLockDungeonBlock", "d0/dad/a00806.html#ad66b117794d47e10cfd7ba8bd40d4291", null ],
+    [ "BuildPlayerLockDungeonBlock", "d0/dad/a00806.html#aded010efcdae2fc43acfab5ff8fbf4ad", null ]
 ];

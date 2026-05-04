@@ -1,6 +1,6 @@
 var a21478 =
 [
-    [ "CheckCast", "d1/d45/a21478.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "d1/d45/a21478.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "d1/d45/a21478.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_q24545_wretched_ghoulAI", "de/d30/a21482.html", "de/d30/a21482" ],
+    [ "npc_q24545_wretched_ghoul", "d1/d45/a21478.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "d1/d45/a21478.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

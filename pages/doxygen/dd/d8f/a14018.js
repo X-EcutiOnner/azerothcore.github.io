@@ -1,6 +1,7 @@
 var a14018 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d0/dcb/a14022.html", "d0/dcb/a14022" ],
-    [ "npc_jaina_proudmoore_bfu", "dd/d8f/a14018.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "dd/d8f/a14018.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_king_varian_wrynn", "dd/d8f/a14018.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
+    [ "JustDied", "dd/d8f/a14018.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
+    [ "OnQuestReward", "dd/d8f/a14018.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
+    [ "UpdateAI", "dd/d8f/a14018.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
 ];

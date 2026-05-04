@@ -1,5 +1,7 @@
 var a28658 =
 [
-    [ "npc_necropolis", "db/ddc/a28658.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
-    [ "SpellHit", "db/ddc/a28658.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
+    [ "bit_index", "db/ddc/a28658.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "db/ddc/a28658.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "db/ddc/a28658.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "db/ddc/a28658.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

@@ -1,6 +1,6 @@
 var a12870 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "d2/d6c/a12874.html", "d2/d6c/a12874" ],
-    [ "instance_gnomeregan", "d6/dbb/a12870.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "d6/dbb/a12870.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "boss_shazzrah", "d6/dbb/a12870.html#a9886c4c93017936beae1babacffa76a2", null ],
+    [ "ExecuteEvent", "d6/dbb/a12870.html#a2d8ab48c6abb3e0334ef54e0b918ff27", null ],
+    [ "JustEngagedWith", "d6/dbb/a12870.html#aa23aecbb28a9bb1fc138691f143f8e53", null ]
 ];

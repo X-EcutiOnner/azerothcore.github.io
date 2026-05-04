@@ -1,8 +1,10 @@
 var a21238 =
 [
-    [ "HandleEffectRemove", "dd/d92/a21238.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "dd/d92/a21238.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "dd/d92/a21238.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "dd/d92/a21238.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "dd/d92/a21238.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "dd/d92/a21238.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "dd/d92/a21238.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "dd/d92/a21238.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "dd/d92/a21238.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "dd/d92/a21238.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "dd/d92/a21238.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "dd/d92/a21238.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

@@ -1,12 +1,15 @@
 var a29266 =
 [
-    [ "HealInfoStubBuilder", "d6/d32/a29266.html#a57945de96ad065451cadb47edba287c8", null ],
-    [ "Build", "d6/d32/a29266.html#a291565d223df00ce9d09c0315e803448", null ],
-    [ "WithAbsorb", "d6/d32/a29266.html#aa09160afe48114a7a3566be328f64658", null ],
-    [ "WithEffectiveHeal", "d6/d32/a29266.html#a34a359322b018cffc5f54ca999c11b11", null ],
-    [ "WithHeal", "d6/d32/a29266.html#a812e06b07eeb18c1d379409b77a80b89", null ],
-    [ "WithHitMask", "d6/d32/a29266.html#ab788ddcc209140ed3c10b02785471dcb", null ],
-    [ "WithOverheal", "d6/d32/a29266.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
-    [ "WithSpellInfo", "d6/d32/a29266.html#a4dc784241fbe998437cceb953fb83e1f", null ],
-    [ "_stub", "d6/d32/a29266.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
+    [ "MOCK_METHOD", "d6/d32/a29266.html#ad315c9b44cd400050ba5d0ede0a6ed38", null ],
+    [ "MOCK_METHOD", "d6/d32/a29266.html#a70f7f432cdb5248e4d7538e989d45c11", null ],
+    [ "MOCK_METHOD", "d6/d32/a29266.html#ab1469fe474ab6290bfd8d8222392fdb1", null ],
+    [ "MOCK_METHOD", "d6/d32/a29266.html#a72198bd1a85cc6fea8665fb7e0b19ee5", null ],
+    [ "MOCK_METHOD", "d6/d32/a29266.html#aebca824eff5f8d2f7c210abdcdf1ed7d", null ],
+    [ "MOCK_METHOD", "d6/d32/a29266.html#afc487e92b80c573fd5b01400204401da", null ],
+    [ "MOCK_METHOD", "d6/d32/a29266.html#a5e71c6a07e54153dd5081af175031c18", null ],
+    [ "MOCK_METHOD", "d6/d32/a29266.html#af6fccda3c70d3ddb643dcae31d63c205", null ],
+    [ "MOCK_METHOD", "d6/d32/a29266.html#acccf2037a6b3dbccbadedfdcb7d4c95d", null ],
+    [ "MOCK_METHOD", "d6/d32/a29266.html#aff433673cca191db03810f378879eae1", null ],
+    [ "MOCK_METHOD", "d6/d32/a29266.html#a0cbd6994e0de9a0052bdcc8750881eac", null ],
+    [ "MOCK_METHOD", "d6/d32/a29266.html#a4d624c7be7180f8c85b624e87601d659", null ]
 ];

@@ -1,11 +1,14 @@
 var a28150 =
 [
-    [ "npc_franklinAI", "dd/d2c/a28150.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "dd/d2c/a28150.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "dd/d2c/a28150.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "dd/d2c/a28150.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "dd/d2c/a28150.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "dd/d2c/a28150.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "dd/d2c/a28150.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "dd/d2c/a28150.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "npc_garments_of_questsAI", "dd/d2c/a28150.html#a079f719ca488ed6fde2783b5db4f328b", null ],
+    [ "JustEngagedWith", "dd/d2c/a28150.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
+    [ "Reset", "dd/d2c/a28150.html#aaaaa3e41deae0057bd659be5c579d226", null ],
+    [ "SpellHit", "dd/d2c/a28150.html#ad22195dba70ced744b319bc1ad83c083", null ],
+    [ "UpdateAI", "dd/d2c/a28150.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
+    [ "WaypointReached", "dd/d2c/a28150.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
+    [ "WaypointReached", "dd/d2c/a28150.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "CanRun", "dd/d2c/a28150.html#a93c41781e4cb037b56773bbbf36181b7", null ],
+    [ "CasterGUID", "dd/d2c/a28150.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
+    [ "IsHealed", "dd/d2c/a28150.html#a96db66704eabf028362d5f8b5c424712", null ],
+    [ "RunAwayTimer", "dd/d2c/a28150.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
 ];

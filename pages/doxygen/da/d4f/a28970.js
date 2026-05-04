@@ -1,5 +1,10 @@
 var a28970 =
 [
-    [ "Id", "da/d4f/a28970.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
-    [ "PowerType", "da/d4f/a28970.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
+    [ "attackSpeed", "da/d4f/a28970.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "da/d4f/a28970.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "da/d4f/a28970.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "da/d4f/a28970.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "da/d4f/a28970.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "da/d4f/a28970.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "da/d4f/a28970.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

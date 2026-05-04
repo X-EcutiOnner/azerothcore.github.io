@@ -1,9 +1,6 @@
 var a27782 =
 [
-    [ "boss_ysondreAI", "db/d18/a27782.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
-    [ "DamageTaken", "db/d18/a27782.html#a99ee250e776001bb142815fc711ae75d", null ],
-    [ "ExecuteEvent", "db/d18/a27782.html#a88e3caa536a71730c757590be1bd3de1", null ],
-    [ "JustEngagedWith", "db/d18/a27782.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
-    [ "Reset", "db/d18/a27782.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
-    [ "_stage", "db/d18/a27782.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
+    [ "go_tadpole_cageAI", "dc/dbf/a27786.html", "dc/dbf/a27786" ],
+    [ "go_tadpole_cage", "db/d18/a27782.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "db/d18/a27782.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

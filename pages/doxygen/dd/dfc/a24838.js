@@ -1,6 +1,6 @@
 var a24838 =
 [
-    [ "HandleScript", "dd/dfc/a24838.html#aa6104370d5700e43223c7138e941ba05", null ],
-    [ "PrepareSpellScript", "dd/dfc/a24838.html#ae4177c84bf0c63aadaa7486603df04d0", null ],
-    [ "Register", "dd/dfc/a24838.html#a88a8534a1dd825a14fd6b10933986eb7", null ]
+    [ "PrepareSpellScript", "dd/dfc/a24838.html#a47d6dbe250410458fe54421158545efb", null ],
+    [ "Register", "dd/dfc/a24838.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
+    [ "SetDest", "dd/dfc/a24838.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
 ];

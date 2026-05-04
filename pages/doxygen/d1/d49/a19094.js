@@ -1,6 +1,5 @@
 var a19094 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "dc/d4b/a19098.html", "dc/d4b/a19098" ],
-    [ "instance_icecrown_citadel", "d1/d49/a19094.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "d1/d49/a19094.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "at_icc_gauntlet_event", "d1/d49/a19094.html#ae8790bad655661aeda887f56b9393847", null ],
+    [ "OnTrigger", "d1/d49/a19094.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
 ];

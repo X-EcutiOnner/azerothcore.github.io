@@ -1,9 +1,7 @@
 var a19946 =
 [
-    [ "npc_hodirs_fury", "da/db1/a19946.html#abda902842d76a0a5a17196a11654f5ab", null ],
-    [ "MovementInform", "da/db1/a19946.html#a4d82007c5b70edad74b461948629b9fb", null ],
-    [ "Reset", "da/db1/a19946.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
-    [ "UpdateAI", "da/db1/a19946.html#a58a8b1664bb00b930cce86e856facb8b", null ],
-    [ "_switchTargetTimer", "da/db1/a19946.html#a9736332e6f3d163f04aa12cbd6829670", null ],
-    [ "_timeToHit", "da/db1/a19946.html#a611d171dc27bd78d298040eabfc00e5f", null ]
+    [ "npc_auriaya_sanctum_sentry", "da/db1/a19946.html#ae5ed159c476c8b4569de7e2730edf447", null ],
+    [ "JustEngagedWith", "da/db1/a19946.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
+    [ "Reset", "da/db1/a19946.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
+    [ "UpdateAI", "da/db1/a19946.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
 ];

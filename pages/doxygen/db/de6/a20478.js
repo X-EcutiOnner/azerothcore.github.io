@@ -1,11 +1,5 @@
 var a20478 =
 [
-    [ "boss_thorim_ancient_rune_giant", "db/de6/a20478.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
-    [ "DoAction", "db/de6/a20478.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
-    [ "JustDied", "db/de6/a20478.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
-    [ "JustEngagedWith", "db/de6/a20478.html#a98fa309963245a0c57676ff019085fac", null ],
-    [ "Reset", "db/de6/a20478.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
-    [ "UpdateAI", "db/de6/a20478.html#a903d7448d9441866475d77fce8ca6d37", null ],
-    [ "_isInCombat", "db/de6/a20478.html#a148ff1fa8010466de069032f660cd08e", null ],
-    [ "events", "db/de6/a20478.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
+    [ "achievement_iron_dwarf_medium_rare", "db/de6/a20478.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "db/de6/a20478.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

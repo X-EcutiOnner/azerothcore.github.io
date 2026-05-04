@@ -1,7 +1,6 @@
 var a15810 =
 [
-    [ "npc_shenthulAI", "d4/db4/a15814.html", "d4/db4/a15814" ],
-    [ "npc_shenthul", "d5/d8c/a15810.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "d5/d8c/a15810.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "d5/d8c/a15810.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "npc_bunthen_plainswind", "d5/d8c/a15810.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "d5/d8c/a15810.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "d5/d8c/a15810.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

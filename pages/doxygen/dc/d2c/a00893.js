@@ -1,18 +1,9 @@
 var a00893 =
 [
-    [ "ChangeEmail", "dc/d2c/a00893.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
-    [ "ChangePassword", "dc/d2c/a00893.html#a6a9cb892c15d78b5de65738005234ff6", null ],
-    [ "ChangeUsername", "dc/d2c/a00893.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
-    [ "CheckPassword", "dc/d2c/a00893.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-    [ "CreateAccount", "dc/d2c/a00893.html#a761f39260d15a979ce0214f212b936b7", null ],
-    [ "DeleteAccount", "dc/d2c/a00893.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
-    [ "GetCharactersCount", "dc/d2c/a00893.html#a4fb760897161c3d463f842b28bcf7c20", null ],
-    [ "GetId", "dc/d2c/a00893.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
-    [ "GetName", "dc/d2c/a00893.html#af911e3860ec519c541d6df35468ee41b", null ],
-    [ "GetSecurity", "dc/d2c/a00893.html#a8280510b2564ec6ea76727218c1687b3", null ],
-    [ "GetSecurity", "dc/d2c/a00893.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
-    [ "IsAdminAccount", "dc/d2c/a00893.html#adb1b210137b09011677c74011addeefa", null ],
-    [ "IsConsoleAccount", "dc/d2c/a00893.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
-    [ "IsGMAccount", "dc/d2c/a00893.html#a2f5fb2cf0c24e610c09ac734be93c7a9", null ],
-    [ "IsPlayerAccount", "dc/d2c/a00893.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
+    [ "FactionState", "d0/d62/a10546.html", "d0/d62/a10546" ],
+    [ "ReputationMgr", "d6/d34/a10550.html", "d6/d34/a10550" ],
+    [ "FactionStateList", "dc/d2c/a00893.html#ad6532434415723ae38cfd01814db70c4", null ],
+    [ "ForcedReactions", "dc/d2c/a00893.html#a7f488a06b2477791f620e975ea444f4e", null ],
+    [ "RepListID", "dc/d2c/a00893.html#a5d6355bb0de767f549aeb8f1e6481624", null ],
+    [ "ReputationRankStrIndex", "dc/d2c/a00893.html#a6fbbe7a01d0d6b56a15a773ad0199b5b", null ]
 ];

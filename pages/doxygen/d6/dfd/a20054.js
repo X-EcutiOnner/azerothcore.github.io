@@ -1,11 +1,6 @@
 var a20054 =
 [
-    [ "boss_freya_elder_brightleaf", "d6/dfd/a20054.html#a7454f4dec1f1ccc471f42eeee513f272", null ],
-    [ "JustDied", "d6/dfd/a20054.html#a98aed4b2a4ebf10c807d9bb54c65a273", null ],
-    [ "JustEngagedWith", "d6/dfd/a20054.html#ad0f003e5b57b7c7df4b860df2f8e1e85", null ],
-    [ "KilledUnit", "d6/dfd/a20054.html#a3c45c1c87f793cb4dbd447065b09d108", null ],
-    [ "Reset", "d6/dfd/a20054.html#ae9687c330856da6d5e7bed9bccbe8e52", null ],
-    [ "UpdateAI", "d6/dfd/a20054.html#aa53a5a5ada35c8717c58553b397d58d9", null ],
-    [ "events", "d6/dfd/a20054.html#aaa459ae8f2e0f83330359d45259d9f79", null ],
-    [ "summons", "d6/dfd/a20054.html#a0c11c362ecc29e91f21c87ca0fb3d92e", null ]
+    [ "PrepareSpellScript", "d6/dfd/a20054.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "d6/dfd/a20054.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "d6/dfd/a20054.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

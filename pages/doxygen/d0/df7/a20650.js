@@ -1,9 +1,9 @@
 var a20650 =
 [
-    [ "HandleOnEffectApply", "d0/df7/a20650.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "d0/df7/a20650.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "d0/df7/a20650.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "d0/df7/a20650.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "d0/df7/a20650.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "d0/df7/a20650.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "boss_yoggsaron_keeper", "d0/df7/a20650.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "d0/df7/a20650.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "d0/df7/a20650.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "d0/df7/a20650.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "d0/df7/a20650.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "d0/df7/a20650.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

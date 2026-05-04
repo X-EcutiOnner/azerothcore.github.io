@@ -1,13 +1,6 @@
 var a10070 =
 [
-    [ "ParallelogramBoundary", "df/d2c/a10070.html#ace1e1ffbcb84343ca2641541fe000691", null ],
-    [ "IsWithinBoundaryArea", "df/d2c/a10070.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
-    [ "_a", "df/d2c/a10070.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
-    [ "_abx", "df/d2c/a10070.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
-    [ "_aby", "df/d2c/a10070.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
-    [ "_b", "df/d2c/a10070.html#a9d5d06cc3673f89644e45e62f96510db", null ],
-    [ "_c", "df/d2c/a10070.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
-    [ "_d", "df/d2c/a10070.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
-    [ "_dax", "df/d2c/a10070.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
-    [ "_day", "df/d2c/a10070.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
+    [ "ServerMailItems", "df/d2c/a10070.html#a95cb2278da300c6b0385241f5a3950c1", null ],
+    [ "item", "df/d2c/a10070.html#ae03738595a87a47e831bcbeea6f97d34", null ],
+    [ "itemCount", "df/d2c/a10070.html#a4475d65dd5721d4af323ae93d15f4170", null ]
 ];

@@ -1,7 +1,12 @@
 var a15362 =
 [
-    [ "npc_hivezara_stinger", "d7/dd7/a15362.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d7/dd7/a15362.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d7/dd7/a15362.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d7/dd7/a15362.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "npc_anubisath_guardian", "d7/dd7/a15362.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
+    [ "DamageTaken", "d7/dd7/a15362.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
+    [ "JustDied", "d7/dd7/a15362.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
+    [ "JustEngagedWith", "d7/dd7/a15362.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
+    [ "Reset", "d7/dd7/a15362.html#af87cc86141964c48f9c57ed5bade36a5", null ],
+    [ "UpdateAI", "d7/dd7/a15362.html#a9a9c805c92a3e8e96914d01accb01051", null ],
+    [ "_enraged", "d7/dd7/a15362.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
+    [ "_scheduler", "d7/dd7/a15362.html#ad44455c43d53426a152547d5b0770bbe", null ],
+    [ "_spells", "d7/dd7/a15362.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
 ];

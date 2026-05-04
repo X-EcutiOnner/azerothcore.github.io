@@ -1,9 +1,6 @@
 var a29366 =
 [
-    [ "SetUp", "d3/d0c/a29366.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
-    [ "TearDown", "d3/d0c/a29366.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
-    [ "_distributor", "d3/d0c/a29366.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
-    [ "_mockRewarder", "d3/d0c/a29366.html#ad466c2751d8e9739db56f9f82d15deff", null ],
-    [ "_previousWorld", "d3/d0c/a29366.html#aef822a2309df5d13af31ea5a5da74df7", null ],
-    [ "_worldMock", "d3/d0c/a29366.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
+    [ "SetUp", "d3/d0c/a29366.html#a60fc4f7f53b77970978550bc56069471", null ],
+    [ "TearDown", "d3/d0c/a29366.html#a8a288d56ca736bae3783789840c37d0e", null ],
+    [ "rbacData", "d3/d0c/a29366.html#acb1cc06942d4460d964fd507d5d33464", null ]
 ];

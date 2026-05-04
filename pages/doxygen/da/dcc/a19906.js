@@ -1,7 +1,6 @@
 var a19906 =
 [
-    [ "npc_auriaya_sanctum_sentry", "da/dcc/a19906.html#ae5ed159c476c8b4569de7e2730edf447", null ],
-    [ "JustEngagedWith", "da/dcc/a19906.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
-    [ "Reset", "da/dcc/a19906.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
-    [ "UpdateAI", "da/dcc/a19906.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
+    [ "CastRunesEvent", "da/dcc/a19906.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "da/dcc/a19906.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "da/dcc/a19906.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

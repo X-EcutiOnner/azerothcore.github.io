@@ -1,8 +1,7 @@
 var a16410 =
 [
-    [ "Load", "d5/d5f/a16410.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "d5/d5f/a16410.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "d5/d5f/a16410.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "d5/d5f/a16410.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "d5/d5f/a16410.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "HandleDummy", "d5/d5f/a16410.html#ad0782bfbd977954aac6170ee9111aef6", null ],
+    [ "PrepareSpellScript", "d5/d5f/a16410.html#ac456524856c4a3c4913423693a8fd50c", null ],
+    [ "Register", "d5/d5f/a16410.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
+    [ "Validate", "d5/d5f/a16410.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
 ];

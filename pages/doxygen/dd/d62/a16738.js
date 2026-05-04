@@ -1,7 +1,8 @@
 var a16738 =
 [
-    [ "npc_toc_warriorAI", "dd/d62/a16738.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
-    [ "myCanCast", "dd/d62/a16738.html#ac815e13cbbe9a8833330e15213420c65", null ],
-    [ "UpdateAI", "dd/d62/a16738.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
-    [ "events", "dd/d62/a16738.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
+    [ "npc_toc_warlockAI", "dd/d62/a16738.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "dd/d62/a16738.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "dd/d62/a16738.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "dd/d62/a16738.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "dd/d62/a16738.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

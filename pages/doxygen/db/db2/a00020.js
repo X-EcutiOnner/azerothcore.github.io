@@ -1,12 +1,10 @@
 var a00020 =
 [
-    [ "anonymous_namespace{PoolQuestReloadTest.cpp}::PoolQuestReloadTest", "d4/da5/a29297.html", "d4/da5/a29297" ],
-    [ "PoolQuestReloadFixTest", "d7/d4a/a29301.html", "d7/d4a/a29301" ],
-    [ "TEST_F", "db/db2/a00020.html#a3536d0c27abb116492165d7ab3dcaaaf", null ],
-    [ "TEST_F", "db/db2/a00020.html#ae965ec2c5a54532198d25c78231d7888", null ],
-    [ "TEST_F", "db/db2/a00020.html#ae1ebd88d38dd3fe29dacfb916249f401", null ],
-    [ "TEST_F", "db/db2/a00020.html#a88949b970cd89daff9f2c804fbbd30f8", null ],
-    [ "TEST_F", "db/db2/a00020.html#a51f076a8299a77b2bed17414ee1ab77d", null ],
-    [ "TEST_CREATURE_ID", "db/db2/a00020.html#a9d99cbff2ccde67787a3c4448497f949", null ],
-    [ "TEST_QUEST_ID", "db/db2/a00020.html#acd85c89c48bf6aa262bd81ed03493826", null ]
+    [ "MockArenaSeasonTeamRewarder", "da/dc9/a29386.html", "da/dc9/a29386" ],
+    [ "ArenaSeasonRewardDistributorTest", "d6/d00/a29390.html", "d6/d00/a29390" ],
+    [ "ArenaTeamWithRating", "db/db2/a00020.html#a74bb31c469b2f6e9691219589ac41a12", null ],
+    [ "TEST_F", "db/db2/a00020.html#acd40406191e1dacb6e7400210157262a", null ],
+    [ "TEST_F", "db/db2/a00020.html#a7bfddbb1d9978546d0eff10b29942b32", null ],
+    [ "TEST_F", "db/db2/a00020.html#a5a69347e03ab5eeea43bfcbffb063d52", null ],
+    [ "TEST_F", "db/db2/a00020.html#a1ba0a1dda2222e2d5931f54c84ed5162", null ]
 ];

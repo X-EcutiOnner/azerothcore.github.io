@@ -1,7 +1,6 @@
 var a12698 =
 [
-    [ "HandleDummy", "df/d4c/a12698.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "df/d4c/a12698.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "df/d4c/a12698.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "df/d4c/a12698.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "boss_firemaw", "df/d4c/a12698.html#a2d2be691020b8aa81f82ffab91a86e42", null ],
+    [ "JustEngagedWith", "df/d4c/a12698.html#a63d0f449d04ad3d86f4ede9a0f9696a9", null ],
+    [ "UpdateAI", "df/d4c/a12698.html#a13a672cc37175615068429f9a3282e07", null ]
 ];

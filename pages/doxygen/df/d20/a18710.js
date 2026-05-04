@@ -1,6 +1,12 @@
 var a18710 =
 [
-    [ "npc_suppresserAI", "d9/da2/a18714.html", "d9/da2/a18714" ],
-    [ "npc_suppresser", "df/d20/a18710.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "df/d20/a18710.html#a48869515abbac1491337a93b987231da", null ]
+    [ "npc_the_lich_king_controllerAI", "df/d20/a18710.html#a211c370e9c370e00fba3c83e51738886", null ],
+    [ "AttackStart", "df/d20/a18710.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
+    [ "DoAction", "df/d20/a18710.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
+    [ "JustSummoned", "df/d20/a18710.html#aa610e24316505165cbb826ff5bece5c5", null ],
+    [ "MoveInLineOfSight", "df/d20/a18710.html#a0ee33ab5733c12163e92213376e893e4", null ],
+    [ "Reset", "df/d20/a18710.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
+    [ "UpdateAI", "df/d20/a18710.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
+    [ "_events", "df/d20/a18710.html#a90c3d818318004c7c21ec66d4d080615", null ],
+    [ "_instance", "df/d20/a18710.html#a480a284881ba5f56bc6222607bd01a76", null ]
 ];

@@ -1,11 +1,14 @@
 var a12214 =
 [
-    [ "instance_commandscript", "dd/d16/a12214.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "dd/d16/a12214.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "dd/d16/a12214.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "dd/d16/a12214.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "dd/d16/a12214.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "dd/d16/a12214.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "dd/d16/a12214.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "dd/d16/a12214.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "deserter_commandscript", "dd/d16/a12214.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
+    [ "GetCommands", "dd/d16/a12214.html#ab5b48b9dde89c9215c51560f26324649", null ],
+    [ "HandleDeserterAdd", "dd/d16/a12214.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
+    [ "HandleDeserterBGAdd", "dd/d16/a12214.html#a11fba09d369e7244244887947a91369e", null ],
+    [ "HandleDeserterBGRemove", "dd/d16/a12214.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
+    [ "HandleDeserterBGRemoveAll", "dd/d16/a12214.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
+    [ "HandleDeserterInstanceAdd", "dd/d16/a12214.html#aabd2b23e2dc61fac10890077b41d8179", null ],
+    [ "HandleDeserterInstanceRemove", "dd/d16/a12214.html#a3197e5228284ba50da7f3a31b3e76060", null ],
+    [ "HandleDeserterInstanceRemoveAll", "dd/d16/a12214.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
+    [ "HandleDeserterRemove", "dd/d16/a12214.html#a210dc9a7eddede6fe976157d6b22b683", null ],
+    [ "HandleDeserterRemoveAll", "dd/d16/a12214.html#a6274f79b9884586069f94137b44d89e9", null ]
 ];

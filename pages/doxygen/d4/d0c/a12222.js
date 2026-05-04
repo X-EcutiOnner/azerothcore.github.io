@@ -1,10 +1,9 @@
 var a12222 =
 [
-    [ "item_commandscript", "d4/d0c/a12222.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
-    [ "GetCommands", "d4/d0c/a12222.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
-    [ "HandleItemMoveCommand", "d4/d0c/a12222.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
-    [ "HandleItemRefundCommand", "d4/d0c/a12222.html#af914e33be05148062abd89c754d939c9", null ],
-    [ "HandleItemRestoreCommand", "d4/d0c/a12222.html#a84c67a46c513c1aac2b9d2563d693929", null ],
-    [ "HandleItemRestoreListCommand", "d4/d0c/a12222.html#a40181310f4187a71a6f5f5f600a8f468", null ],
-    [ "HasItemDeletionConfig", "d4/d0c/a12222.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
+    [ "event_commandscript", "d4/d0c/a12222.html#a160db0ad8874b0834ef863043b1796ae", null ],
+    [ "GetCommands", "d4/d0c/a12222.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
+    [ "HandleEventActiveListCommand", "d4/d0c/a12222.html#a6752be35103bb585984083a449c85714", null ],
+    [ "HandleEventInfoCommand", "d4/d0c/a12222.html#a1f0815bccd6cef61826ada4e349708d9", null ],
+    [ "HandleEventStartCommand", "d4/d0c/a12222.html#ad46dbd8892db3548d889d4127461c8e3", null ],
+    [ "HandleEventStopCommand", "d4/d0c/a12222.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
 ];

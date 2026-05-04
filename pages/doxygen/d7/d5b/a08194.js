@@ -1,7 +1,5 @@
 var a08194 =
 [
-    [ "RBEntryInfo", "d7/d5b/a08194.html#aa720dd6cae9ee7163bb9b84918249644", null ],
-    [ "RBEntryInfo", "d7/d5b/a08194.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
-    [ "comment", "d7/d5b/a08194.html#a7284eac7208dba21a52b79257aad7dbc", null ],
-    [ "roles", "d7/d5b/a08194.html#ab891dec65b0070ede1233080eadd0190", null ]
+    [ "locations", "d7/d5b/a08194.html#a6470ea69a14e24337aa6b0c05093b6d2", null ],
+    [ "timeStamp", "d7/d5b/a08194.html#a5fed6b0484c1553a17b5303facaeb61b", null ]
 ];

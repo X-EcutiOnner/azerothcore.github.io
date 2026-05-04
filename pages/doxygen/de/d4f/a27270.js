@@ -1,8 +1,6 @@
 var a27270 =
 [
-    [ "CheckProc", "de/d4f/a27270.html#ad3f4c29626d91727b23e4992d984abaf", null ],
-    [ "HandleProc", "de/d4f/a27270.html#aeb207265b71b4d6ff44556a239560903", null ],
-    [ "PrepareAuraScript", "de/d4f/a27270.html#a5fef6925c2e68baef0802bf24c486be9", null ],
-    [ "Register", "de/d4f/a27270.html#a99052955844d5c4bfef701ea72713bc5", null ],
-    [ "Validate", "de/d4f/a27270.html#a4fd43180ce526dbe01748371cf226ede", null ]
+    [ "HandleAuraApply", "de/d4f/a27270.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
+    [ "PrepareAuraScript", "de/d4f/a27270.html#a6eedadacba366104fdca2791862be216", null ],
+    [ "Register", "de/d4f/a27270.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
 ];

@@ -1,6 +1,6 @@
 var a18746 =
 [
-    [ "PeriodicTick", "dd/d7a/a18746.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
-    [ "PrepareAuraScript", "dd/d7a/a18746.html#a0767ac60151517b803e871a0fcb25967", null ],
-    [ "Register", "dd/d7a/a18746.html#afd1e28b224035aef5ac109f38d7e118d", null ]
+    [ "npc_suppresserAI", "d0/d14/a18750.html", "d0/d14/a18750" ],
+    [ "npc_suppresser", "dd/d7a/a18746.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
+    [ "GetAI", "dd/d7a/a18746.html#a48869515abbac1491337a93b987231da", null ]
 ];

@@ -1,7 +1,6 @@
 var a17310 =
 [
-    [ "HandleEffectPeriodic", "d6/dff/a17310.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "d6/dff/a17310.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "d6/dff/a17310.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "d6/dff/a17310.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "npc_pos_collapsing_icicleAI", "d6/d89/a17314.html", "d6/d89/a17314" ],
+    [ "npc_pos_collapsing_icicle", "d6/dff/a17310.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "d6/dff/a17310.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

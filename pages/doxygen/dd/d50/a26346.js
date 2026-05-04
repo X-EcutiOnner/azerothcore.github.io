@@ -1,16 +1,9 @@
 var a26346 =
 [
-    [ "Spell", "dd/d50/a26346.html#ae62bcfdf7168a58818ffc8b302cffcb7", [
-      [ "PAL_SPELL_ARDENT_DEFENDER_DEBUFF", "dd/d50/a26346.html#ae62bcfdf7168a58818ffc8b302cffcb7a85895054b57340dab995dc14f826314b", null ],
-      [ "PAL_SPELL_ARDENT_DEFENDER_HEAL", "dd/d50/a26346.html#ae62bcfdf7168a58818ffc8b302cffcb7a717b484434bc8fda128b67bd90a123fe", null ]
-    ] ],
-    [ "spell_pal_ardent_defender", "dd/d50/a26346.html#a9bc7f72089287dbac352b308489c7781", null ],
-    [ "Absorb", "dd/d50/a26346.html#aee6b0b00078a880dc5ed6684991ee8c8", null ],
-    [ "CalculateAmount", "dd/d50/a26346.html#a749742ceb8be20f5d327becbea7c64d5", null ],
-    [ "Load", "dd/d50/a26346.html#a3718265890fad2a6c6d53b5f401d16dd", null ],
-    [ "PrepareAuraScript", "dd/d50/a26346.html#a33dd57579e724aee0c6f2a8d767fc3c8", null ],
-    [ "Register", "dd/d50/a26346.html#af405994d4be5f11ce63028d0dba1e1da", null ],
-    [ "Validate", "dd/d50/a26346.html#a74fafd4bde88c2e581cac555a131b39d", null ],
-    [ "absorbPct", "dd/d50/a26346.html#a408fe2ab57ae0adcf803c71b5f6cd724", null ],
-    [ "healPct", "dd/d50/a26346.html#a325024973959856c000f380b0bfc3bda", null ]
+    [ "CheckCast", "dd/d50/a26346.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "dd/d50/a26346.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "dd/d50/a26346.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "dd/d50/a26346.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "dd/d50/a26346.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "dd/d50/a26346.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

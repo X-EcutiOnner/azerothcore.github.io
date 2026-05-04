@@ -1,7 +1,6 @@
 var a27494 =
 [
-    [ "HandleProc", "dd/db9/a27494.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
-    [ "PrepareAuraScript", "dd/db9/a27494.html#aadbaea984fedb04e77b92174efd5e83d", null ],
-    [ "Register", "dd/db9/a27494.html#aedd1652a571275a305db70fbbe6f725c", null ],
-    [ "Validate", "dd/db9/a27494.html#a28c281aeef80409b419753f71da80f92", null ]
+    [ "CalculateAmount", "dd/db9/a27494.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "dd/db9/a27494.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "dd/db9/a27494.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

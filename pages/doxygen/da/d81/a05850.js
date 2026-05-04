@@ -1,9 +1,13 @@
 var a05850 =
 [
-    [ "TimeTrackerSmall", "da/d81/a05850.html#a38a962c928eac8546d1fd37a094077cc", null ],
-    [ "GetExpiry", "da/d81/a05850.html#a2ebcfabed1bf252b6afb6c3182142c7b", null ],
-    [ "Passed", "da/d81/a05850.html#af4455d0ebb784497e9fd1a08cc915062", null ],
-    [ "Reset", "da/d81/a05850.html#ab8a3c45ffe0e83132e708b5e87625c02", null ],
-    [ "Update", "da/d81/a05850.html#a6c10a37051caf7c16f1aa057bf2bf7da", null ],
-    [ "i_expiryTime", "da/d81/a05850.html#a332f650bcfc81fb4b0de1b58ff1e0c9b", null ]
+    [ "Clear", "da/d81/a05850.html#adc64d35670bf0d41519cb9998d3db17e", null ],
+    [ "First", "da/d81/a05850.html#a8bbd41b304f7e69df565af75f4846bda", null ],
+    [ "GetNextGroupOccurrence", "da/d81/a05850.html#af2cb38062e4d62558d520be75b01bedb", null ],
+    [ "IsEmpty", "da/d81/a05850.html#a151898f14e9a1628ddb52b6840fcc4fc", null ],
+    [ "IsGroupQueued", "da/d81/a05850.html#ada8edd51338da19db3f282ccc6229516", null ],
+    [ "ModifyIf", "da/d81/a05850.html#a0ad5b4de404b1f8312341a28a1a58b5b", null ],
+    [ "Pop", "da/d81/a05850.html#a5f5d6b5a4a5e4ec93ff94619485736cb", null ],
+    [ "Push", "da/d81/a05850.html#aff6bc8c7fae6640b555ddb027cf0f6ab", null ],
+    [ "RemoveIf", "da/d81/a05850.html#a6efe3145679913fde4d4cc1f8cc819e6", null ],
+    [ "container", "da/d81/a05850.html#acc56bddf7e586a3a950f608efb730498", null ]
 ];

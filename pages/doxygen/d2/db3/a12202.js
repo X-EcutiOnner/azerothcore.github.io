@@ -1,11 +1,13 @@
 var a12202 =
 [
-    [ "group_commandscript", "d2/db3/a12202.html#ad2890427cfe3649b2e0fe0896693372c", null ],
-    [ "GetCommands", "d2/db3/a12202.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
-    [ "HandleGroupDisbandCommand", "d2/db3/a12202.html#a538539340a697e02453ddcfa669fb646", null ],
-    [ "HandleGroupJoinCommand", "d2/db3/a12202.html#a382e8532c653464e90b45569e813ae37", null ],
-    [ "HandleGroupLeaderCommand", "d2/db3/a12202.html#a899858a63add3c68e0e1446d29216c00", null ],
-    [ "HandleGroupListCommand", "d2/db3/a12202.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "d2/db3/a12202.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "d2/db3/a12202.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "cheat_commandscript", "d2/db3/a12202.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "d2/db3/a12202.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "d2/db3/a12202.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "d2/db3/a12202.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "d2/db3/a12202.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "d2/db3/a12202.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "d2/db3/a12202.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "d2/db3/a12202.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "d2/db3/a12202.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "d2/db3/a12202.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

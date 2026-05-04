@@ -1,7 +1,7 @@
 var a12810 =
 [
-    [ "HandleScript", "d3/de0/a12810.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "d3/de0/a12810.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "d3/de0/a12810.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "d3/de0/a12810.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "HandleHit", "d3/de0/a12810.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "d3/de0/a12810.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "d3/de0/a12810.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "d3/de0/a12810.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

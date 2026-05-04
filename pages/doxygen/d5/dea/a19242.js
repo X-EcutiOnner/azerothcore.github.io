@@ -1,7 +1,12 @@
 var a19242 =
 [
-    [ "HandleRemove", "d5/dea/a19242.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d5/dea/a19242.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d5/dea/a19242.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d5/dea/a19242.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "npc_boss_gothik_minionAI", "d5/dea/a19242.html#aa719d87c65294fc483b424b125619a10", null ],
+    [ "IsOnSameSide", "d5/dea/a19242.html#a7d305be5e3d66c1317fa91e588223da0", null ],
+    [ "JustDied", "d5/dea/a19242.html#a752b6eab9cf1b016962c6f535586b59d", null ],
+    [ "JustEngagedWith", "d5/dea/a19242.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
+    [ "KilledUnit", "d5/dea/a19242.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
+    [ "Reset", "d5/dea/a19242.html#a309401236c254cd850759a0cbb4004e0", null ],
+    [ "UpdateAI", "d5/dea/a19242.html#a43744e96be00d8bc0afc34a570e79947", null ],
+    [ "events", "d5/dea/a19242.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
+    [ "livingSide", "d5/dea/a19242.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
 ];

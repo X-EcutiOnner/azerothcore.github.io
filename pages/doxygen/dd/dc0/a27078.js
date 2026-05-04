@@ -1,6 +1,6 @@
 var a27078 =
 [
-    [ "HandleEffectApply", "dd/dc0/a27078.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
-    [ "PrepareAuraScript", "dd/dc0/a27078.html#aed642c73ab31fb63aa497ada45863ae6", null ],
-    [ "Register", "dd/dc0/a27078.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
+    [ "FilterTargets", "dd/dc0/a27078.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
+    [ "PrepareSpellScript", "dd/dc0/a27078.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
+    [ "Register", "dd/dc0/a27078.html#abe63ec69fe15fd8924fb63235489e088", null ]
 ];

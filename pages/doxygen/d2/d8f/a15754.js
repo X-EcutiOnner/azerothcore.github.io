@@ -1,8 +1,6 @@
 var a15754 =
 [
-    [ "CheckRequirement", "d2/d8f/a15754.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d2/d8f/a15754.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d2/d8f/a15754.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d2/d8f/a15754.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d2/d8f/a15754.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_tiger_matriarch_creditAI", "d2/d8f/a15754.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "d2/d8f/a15754.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "d2/d8f/a15754.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

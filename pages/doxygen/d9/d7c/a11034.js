@@ -1,7 +1,6 @@
 var a11034 =
 [
-    [ "GuildBankWithdrawMoney", "d9/d7c/a11034.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
-    [ "Read", "d9/d7c/a11034.html#a420aac24befdc5ac26171faa15c3c350", null ],
-    [ "Banker", "d9/d7c/a11034.html#a68f9a4191c349702881774bff4069f03", null ],
-    [ "Money", "d9/d7c/a11034.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
+    [ "GuildPromoteMember", "d9/d7c/a11034.html#af623a381aa80e827c2c29987501626ae", null ],
+    [ "Read", "d9/d7c/a11034.html#a3350c1a8c81aa1368a254288849b462b", null ],
+    [ "Promotee", "d9/d7c/a11034.html#af8addf6e9bc45364f595582e8f285cde", null ]
 ];

@@ -1,9 +1,10 @@
 var a24502 =
 [
-    [ "Absorb", "db/d65/a24502.html#af7df70d0bd68d12032b5b57faa789a87", null ],
-    [ "CalculateAmount", "db/d65/a24502.html#a40f7cfe30b7bf2237d61665b167476fb", null ],
-    [ "Load", "db/d65/a24502.html#a1b3e5da38a6aba7cc163bf34848ed950", null ],
-    [ "PrepareAuraScript", "db/d65/a24502.html#ae63ad15db90ebe73d73e77e232f4d695", null ],
-    [ "Register", "db/d65/a24502.html#ac7316995b7682a6fafe47ff2547956b0", null ],
-    [ "absorbPct", "db/d65/a24502.html#ab5b59d975e71e0e12bf41e8d173b9491", null ]
+    [ "Load", "db/d65/a24502.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "db/d65/a24502.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "db/d65/a24502.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "db/d65/a24502.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "db/d65/a24502.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "db/d65/a24502.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "db/d65/a24502.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

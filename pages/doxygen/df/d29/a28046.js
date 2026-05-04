@@ -1,10 +1,8 @@
 var a28046 =
 [
-    [ "guard_shattrath_aldorAI", "df/d29/a28046.html#a88961dfe4100dfe207af693a1eed86ad", null ],
-    [ "Reset", "df/d29/a28046.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
-    [ "UpdateAI", "df/d29/a28046.html#ac87ee12d4487971b68c70f06f63eb410", null ],
-    [ "banishTimer", "df/d29/a28046.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
-    [ "canTeleport", "df/d29/a28046.html#af4d933b56431d2f2755d87fb05922458", null ],
-    [ "exileTimer", "df/d29/a28046.html#a8d56205206f3e14184922f96873456ad", null ],
-    [ "playerGUID", "df/d29/a28046.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
+    [ "npc_simoneAI", "d6/d71/a28050.html", "d6/d71/a28050" ],
+    [ "npc_simone", "df/d29/a28046.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
+    [ "GetAI", "df/d29/a28046.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
+    [ "OnGossipHello", "df/d29/a28046.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
+    [ "OnGossipSelect", "df/d29/a28046.html#ae2b1a653be3767881769b54607219757", null ]
 ];

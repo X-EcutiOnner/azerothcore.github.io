@@ -1,10 +1,13 @@
 var a08282 =
 [
-    [ "AssistDelayEvent", "df/d51/a08282.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
-    [ "AssistDelayEvent", "df/d51/a08282.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
-    [ "AddAssistant", "df/d51/a08282.html#a987303ec41927528e9a5abfd9ab75512", null ],
-    [ "Execute", "df/d51/a08282.html#a5afd295abeb1295e43f48b8951b24c35", null ],
-    [ "m_assistants", "df/d51/a08282.html#ac6de6befda582bd38f92afda01204e94", null ],
-    [ "m_owner", "df/d51/a08282.html#aabcce364c8009e8172b9d090059ce48c", null ],
-    [ "m_victim", "df/d51/a08282.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
+    [ "LfgQueueData", "df/d51/a08282.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd", null ],
+    [ "LfgQueueData", "df/d51/a08282.html#a363aa2cc53bce304893335ca93755103", null ],
+    [ "bestCompatible", "df/d51/a08282.html#a10fe592a7d0b3fc53701d1946d55f0af", null ],
+    [ "dps", "df/d51/a08282.html#ab78711eaf7285a5d4821e52354124646", null ],
+    [ "dungeons", "df/d51/a08282.html#a6b115f3a5e0ff996279db044f47f5823", null ],
+    [ "healers", "df/d51/a08282.html#a8b2049474102332ddca53f0892565216", null ],
+    [ "joinTime", "df/d51/a08282.html#a240fcc11f3fd9d27fa913f80828522f2", null ],
+    [ "lastRefreshTime", "df/d51/a08282.html#a727d35760b716270c5f326f343106d0c", null ],
+    [ "roles", "df/d51/a08282.html#a20218584ba5c3dbaf9ff7ae520eba9a3", null ],
+    [ "tanks", "df/d51/a08282.html#a500f93175d7a25f7c2e0dc0f3943e639", null ]
 ];

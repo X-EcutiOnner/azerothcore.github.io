@@ -1,14 +1,16 @@
 var a16830 =
 [
-    [ "npc_snobold_vassalAI", "d5/d1b/a16830.html#a2ecc5e8289252b2936f36de9921294e0", null ],
-    [ "AttackStart", "d5/d1b/a16830.html#a50afc82c80cede8dcf3240a116463411", null ],
-    [ "DoAction", "d5/d1b/a16830.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
-    [ "JustDied", "d5/d1b/a16830.html#aef408460584a17f15a84e8a6435c6348", null ],
-    [ "JustEngagedWith", "d5/d1b/a16830.html#a60c1704617e99239d60d24d6b7513c1a", null ],
-    [ "MoveInLineOfSight", "d5/d1b/a16830.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
-    [ "Reset", "d5/d1b/a16830.html#af794f46b1a7af97b52683954b556c27d", null ],
-    [ "UpdateAI", "d5/d1b/a16830.html#ac1d282da6f2d9133619a212a349c777f", null ],
-    [ "events", "d5/d1b/a16830.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
-    [ "pInstance", "d5/d1b/a16830.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
-    [ "TargetGUID", "d5/d1b/a16830.html#a0d36e4903448c5a03115df0dff3480c8", null ]
+    [ "boss_jaraxxusAI", "d5/d1b/a16830.html#af05dd6ee301cfe4fdfbc511b07f21b48", null ],
+    [ "EnterEvadeMode", "d5/d1b/a16830.html#a45fc8cbc3b1e59be8f13f1ebae73bfa1", null ],
+    [ "JustDied", "d5/d1b/a16830.html#a5fce156ec839c4799e3585e9674636c1", null ],
+    [ "JustEngagedWith", "d5/d1b/a16830.html#a59f21f25fbe83c9710ac6377753ce8d3", null ],
+    [ "JustReachedHome", "d5/d1b/a16830.html#a5961b5563c1d140f31a348a1ea8dc4ba", null ],
+    [ "JustSummoned", "d5/d1b/a16830.html#a6efea02e03c4d7e97c357afbc320b5bf", null ],
+    [ "MoveInLineOfSight", "d5/d1b/a16830.html#aee8b894518e9091f4e52c4048562d08a", null ],
+    [ "Reset", "d5/d1b/a16830.html#ad4a2bce95988f030387d74b5cf90f223", null ],
+    [ "SpellHit", "d5/d1b/a16830.html#a5103f7808134a67f06af4be1d848aa91", null ],
+    [ "UpdateAI", "d5/d1b/a16830.html#a5e733b9e5b63801a1ca2778e58fedb61", null ],
+    [ "events", "d5/d1b/a16830.html#a6aff4c78989d99d49d697e9900375e28", null ],
+    [ "pInstance", "d5/d1b/a16830.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0", null ],
+    [ "summons", "d5/d1b/a16830.html#abeddfd1bb9b5391da578f794d6c618b7", null ]
 ];

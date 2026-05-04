@@ -1,5 +1,7 @@
 var a18930 =
 [
-    [ "at_icc_shutdown_traps", "d4/d54/a18930.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "d4/d54/a18930.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "HandleEvent", "d4/d54/a18930.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
+    [ "PrepareSpellScript", "d4/d54/a18930.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
+    [ "Register", "d4/d54/a18930.html#a96c6a479141f765b9c0f96b5f148a428", null ],
+    [ "Validate", "d4/d54/a18930.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
 ];

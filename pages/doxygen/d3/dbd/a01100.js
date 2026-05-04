@@ -1,22 +1,11 @@
 var a01100 =
 [
-    [ "GameEventFinishCondition", "da/ded/a09105.html", "da/ded/a09105" ],
-    [ "GameEventQuestToEventConditionNum", "d3/d0f/a09109.html", "d3/d0f/a09109" ],
-    [ "GameEventData", "d9/de5/a09113.html", "d9/de5/a09113" ],
-    [ "ModelEquip", "de/dc6/a09117.html", "de/dc6/a09117" ],
-    [ "NPCVendorEntry", "d6/d5d/a09121.html", "d6/d5d/a09121" ],
-    [ "GameEventMgr", "df/d3b/a09125.html", "df/d3b/a09125" ],
-    [ "max_ge_check_delay", "d3/dbd/a01100.html#adaa73d920934a951856f7ce003ce2342", null ],
-    [ "sGameEventMgr", "d3/dbd/a01100.html#a3c1c916d94272dfe845b9cc5e8fc292a", null ],
-    [ "GameEventConditionMap", "d3/dbd/a01100.html#ac4262be385ac879bb433e00533d835c0", null ],
-    [ "GameEventState", "d3/dbd/a01100.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5", [
-      [ "GAMEEVENT_NORMAL", "d3/dbd/a01100.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921", null ],
-      [ "GAMEEVENT_WORLD_INACTIVE", "d3/dbd/a01100.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136", null ],
-      [ "GAMEEVENT_WORLD_CONDITIONS", "d3/dbd/a01100.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7", null ],
-      [ "GAMEEVENT_WORLD_NEXTPHASE", "d3/dbd/a01100.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0", null ],
-      [ "GAMEEVENT_WORLD_FINISHED", "d3/dbd/a01100.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf", null ],
-      [ "GAMEEVENT_INTERNAL", "d3/dbd/a01100.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81", null ]
-    ] ],
-    [ "IsEventActive", "d3/dbd/a01100.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
-    [ "IsHolidayActive", "d3/dbd/a01100.html#a429db26781d2673aa2f031fc1327ffaf", null ]
+    [ "CombatReference", "d9/da8/a08138.html", "d9/da8/a08138" ],
+    [ "PvPCombatReference", "df/d2d/a08142.html", "df/d2d/a08142" ],
+    [ "CombatManager", "d7/d40/a08146.html", "d7/d40/a08146" ],
+    [ "EvadeState", "d3/dbd/a01100.html#a330a2d238c7c7b5390c40e53436d0d74", [
+      [ "EVADE_STATE_NONE", "d3/dbd/a01100.html#a330a2d238c7c7b5390c40e53436d0d74a742a27c0e47bf6cbe51ea3d3485e1ee6", null ],
+      [ "EVADE_STATE_COMBAT", "d3/dbd/a01100.html#a330a2d238c7c7b5390c40e53436d0d74ac6bc3b656f0875f408ad159de8e47dab", null ],
+      [ "EVADE_STATE_HOME", "d3/dbd/a01100.html#a330a2d238c7c7b5390c40e53436d0d74a7179da8d8fc2a4fb8897c5febb10b6d8", null ]
+    ] ]
 ];

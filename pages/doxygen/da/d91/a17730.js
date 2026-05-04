@@ -1,7 +1,7 @@
 var a17730 =
 [
-    [ "DelayedMovementEvent", "da/d91/a17730.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "da/d91/a17730.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "da/d91/a17730.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "da/d91/a17730.html#a046942728282a997068de447271f3cbe", null ]
+    [ "ExtraEffect", "da/d91/a17730.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "da/d91/a17730.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "da/d91/a17730.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "da/d91/a17730.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

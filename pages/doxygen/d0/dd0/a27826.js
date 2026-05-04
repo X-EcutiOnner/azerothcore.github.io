@@ -1,7 +1,7 @@
 var a27826 =
 [
-    [ "HandlePeriodic", "d0/dd0/a27826.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d0/dd0/a27826.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d0/dd0/a27826.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d0/dd0/a27826.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "go_brewfest_musicAI", "d0/dd0/a27826.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "d0/dd0/a27826.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "d0/dd0/a27826.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "d0/dd0/a27826.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

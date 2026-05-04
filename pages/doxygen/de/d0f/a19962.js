@@ -1,7 +1,5 @@
 var a19962 =
 [
-    [ "npc_storm_beacon_spawn", "de/d0f/a19962.html#a999b6421a0ef6eec2987716a60352a5e", null ],
-    [ "UpdateAI", "de/d0f/a19962.html#a93dbd7a26d6333f18329142280cc743d", null ],
-    [ "_amount", "de/d0f/a19962.html#acb5d1f2b6590da32f36882339729c4e9", null ],
-    [ "_checkTimer", "de/d0f/a19962.html#a9717b52f26045707fd852b955d29a5e6", null ]
+    [ "achievement_auriaya_nine_lives", "de/d0f/a19962.html#a750304bc946a7ecefec29dc18c429d3b", null ],
+    [ "OnCheck", "de/d0f/a19962.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
 ];

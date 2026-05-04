@@ -1,7 +1,5 @@
 var a28318 =
 [
-    [ "npc_crashin_thrashin_robot", "d6/df1/a28318.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "d6/df1/a28318.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "d6/df1/a28318.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "d6/df1/a28318.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_sunwell_gate", "d6/df1/a28318.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "d6/df1/a28318.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
 ];

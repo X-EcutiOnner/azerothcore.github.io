@@ -1,7 +1,6 @@
 var a17326 =
 [
-    [ "HandleEffectPeriodic", "d1/d6d/a17326.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "d1/d6d/a17326.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "d1/d6d/a17326.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "d1/d6d/a17326.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "npc_pos_freed_slaveAI", "d9/da1/a17330.html", "d9/da1/a17330" ],
+    [ "npc_pos_freed_slave", "d1/d6d/a17326.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "d1/d6d/a17326.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

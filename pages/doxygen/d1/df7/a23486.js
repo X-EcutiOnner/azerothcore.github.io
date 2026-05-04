@@ -1,7 +1,6 @@
 var a23486 =
 [
-    [ "CastQuill", "d1/df7/a23486.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "d1/df7/a23486.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "d1/df7/a23486.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "d1/df7/a23486.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "HandleScriptEffect", "d1/df7/a23486.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
+    [ "PrepareSpellScript", "d1/df7/a23486.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
+    [ "Register", "d1/df7/a23486.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
 ];

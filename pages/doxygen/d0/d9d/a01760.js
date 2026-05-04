@@ -1,10 +1,8 @@
 var a01760 =
 [
-    [ "AutobroadcastMgr", "d7/dc5/a07437.html", "d7/dc5/a07437" ],
-    [ "sAutobroadcastMgr", "d0/d9d/a01760.html#a34abff2dadcb74370b0749fe9fda3878", null ],
-    [ "AnnounceType", "d0/d9d/a01760.html#a28a4ef2f64643c76d8be05bf9eafc731", [
-      [ "World", "d0/d9d/a01760.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
-      [ "Notification", "d0/d9d/a01760.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
-      [ "Both", "d0/d9d/a01760.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
-    ] ]
+    [ "SelectableAI", "dd/d80/a06474.html", "dd/d80/a06474" ],
+    [ "CreatureAIFactory< REAL_AI >", "d5/d55/a06478.html", "d5/d55/a06478" ],
+    [ "sCreatureAIRegistry", "d0/d9d/a01760.html#a08e073e90e01d97b74e2331f15bf6122", null ],
+    [ "CreatureAICreator", "d0/d9d/a01760.html#a0979444cdc957651f0b4bc9e3c24934b", null ],
+    [ "CreatureAIRegistry", "d0/d9d/a01760.html#a3eebee4b886bee76d38357a472a9a5ae", null ]
 ];

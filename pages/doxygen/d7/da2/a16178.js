@@ -1,9 +1,8 @@
 var a16178 =
 [
-    [ "npc_anub_ar_crusher", "d7/da2/a16178.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
-    [ "DamageTaken", "d7/da2/a16178.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
-    [ "DoEngagedWith", "d7/da2/a16178.html#a70238afe4b9ae58b99067581db6734c8", null ],
-    [ "DoEvent", "d7/da2/a16178.html#ac20630563a1869f56f538968cb8bb1ea", null ],
-    [ "JustDied", "d7/da2/a16178.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
-    [ "_hadFrenzy", "d7/da2/a16178.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
+    [ "instance_ahnkahet_InstanceScript", "d7/da2/a16178.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "d7/da2/a16178.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "d7/da2/a16178.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "d7/da2/a16178.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "d7/da2/a16178.html#a840ce69595c384be321c1167513d151e", null ]
 ];

@@ -1,7 +1,7 @@
 var a23774 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d7/d01/a23774.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "d7/d01/a23774.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "d7/d01/a23774.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "d7/d01/a23774.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "CheckRequirement", "d7/d01/a23774.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "d7/d01/a23774.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "d7/d01/a23774.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "d7/d01/a23774.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

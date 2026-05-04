@@ -1,6 +1,7 @@
 var a18118 =
 [
-    [ "OnRemove", "de/d37/a18118.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "de/d37/a18118.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "de/d37/a18118.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "HandleExtraEffect", "de/d37/a18118.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "de/d37/a18118.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "de/d37/a18118.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "de/d37/a18118.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

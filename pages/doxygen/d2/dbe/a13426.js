@@ -1,7 +1,7 @@
 var a13426 =
 [
-    [ "boss_apothecary_hummelAI", "df/d01/a13430.html", "df/d01/a13430" ],
-    [ "boss_apothecary_hummel", "d2/dbe/a13426.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "d2/dbe/a13426.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "d2/dbe/a13426.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "HandleScript", "d2/dbe/a13426.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "d2/dbe/a13426.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "d2/dbe/a13426.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "d2/dbe/a13426.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

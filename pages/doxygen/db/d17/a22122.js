@@ -1,5 +1,5 @@
 var a22122 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "db/d17/a22122.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "db/d17/a22122.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "db/d17/a22122.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "db/d17/a22122.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

@@ -1,6 +1,7 @@
 var a21558 =
 [
-    [ "npc_spiritual_insightAI", "d9/da4/a21562.html", "d9/da4/a21562" ],
-    [ "npc_spiritual_insight", "df/d6b/a21558.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "df/d6b/a21558.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "npc_emilyAI", "d9/da4/a21562.html", "d9/da4/a21562" ],
+    [ "npc_emily", "df/d6b/a21558.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "df/d6b/a21558.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "df/d6b/a21558.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

@@ -1,7 +1,15 @@
 var a11962 =
 [
-    [ "PlayerGuid", "d0/d4c/a11962.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "d0/d4c/a11962.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "d0/d4c/a11962.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "d0/d4c/a11962.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "BroadcastTextId", "d0/d4c/a11962.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
+    [ "duration", "d0/d4c/a11962.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
+    [ "emote", "d0/d4c/a11962.html#aad433a0bc12717103936e6f89b5b31ea", null ],
+    [ "entry", "d0/d4c/a11962.html#a3d1c888b73edee2474004de9d8714903", null ],
+    [ "group", "d0/d4c/a11962.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
+    [ "id", "d0/d4c/a11962.html#ab80181d53770a2f64bd6898498b3e76e", null ],
+    [ "lang", "d0/d4c/a11962.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
+    [ "probability", "d0/d4c/a11962.html#a9bec9c2053f2efbac076831d4e928045", null ],
+    [ "sound", "d0/d4c/a11962.html#af312efff61026445caeb4be4b52c4e66", null ],
+    [ "text", "d0/d4c/a11962.html#a82b3db36b60a343d340677e8df6c7925", null ],
+    [ "TextRange", "d0/d4c/a11962.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
+    [ "type", "d0/d4c/a11962.html#a5675f6bcf159e1da503029771557e2a6", null ]
 ];

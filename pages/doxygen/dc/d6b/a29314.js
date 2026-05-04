@@ -1,6 +1,6 @@
 var a29314 =
 [
-    [ "canProcDuringTrigger", "dc/d6b/a29314.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
-    [ "procDeepDuringTrigger", "dc/d6b/a29314.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
-    [ "spellId", "dc/d6b/a29314.html#ac63803a380695f311a39cd62a4f298b4", null ]
+    [ "SetUp", "dc/d6b/a29314.html#a30e0c9430db1751806a4af2042f6543c", null ],
+    [ "TearDown", "dc/d6b/a29314.html#aeac080e02cbd13c708e22cf93bf2d1d9", null ],
+    [ "rbacData", "dc/d6b/a29314.html#a64b87a54a5210ff2bb1c9a72c1be3736", null ]
 ];

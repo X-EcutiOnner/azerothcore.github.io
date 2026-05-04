@@ -1,6 +1,6 @@
 var a17350 =
 [
-    [ "boss_drakkari_colossusAI", "dd/df7/a17354.html", "dd/df7/a17354" ],
-    [ "boss_drakkari_colossus", "d5/d7a/a17350.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
-    [ "GetAI", "d5/d7a/a17350.html#a75c6c9c56fe11342dd8aece031059e77", null ]
+    [ "HandleDummy", "d5/d7a/a17350.html#aef592aafe931351186edf98f7aba7e22", null ],
+    [ "PrepareSpellScript", "d5/d7a/a17350.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
+    [ "Register", "d5/d7a/a17350.html#a7594952f23cba22b886c2c3b10f363d4", null ]
 ];

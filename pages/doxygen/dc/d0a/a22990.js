@@ -1,13 +1,5 @@
 var a22990 =
 [
-    [ "npc_earthen_ring_flamecaller", "dc/d0a/a22990.html#ab402dd321fa0df641b674324386d7591", null ],
-    [ "DoAction", "dc/d0a/a22990.html#af745c83529a34a89c430d6113703fff5", null ],
-    [ "LookOpening", "dc/d0a/a22990.html#adfc752e7700a816b66b639007a1a90fa", null ],
-    [ "MovementInform", "dc/d0a/a22990.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
-    [ "Reset", "dc/d0a/a22990.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
-    [ "SpellHit", "dc/d0a/a22990.html#ab9c5ad7e56033997042031566748ee2b", null ],
-    [ "UpdateAI", "dc/d0a/a22990.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
-    [ "_events", "dc/d0a/a22990.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
-    [ "_instance", "dc/d0a/a22990.html#a79aa6e628a50ed485cc55513c28362dc", null ],
-    [ "_mySpot", "dc/d0a/a22990.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
+    [ "boss_quagmirran", "dc/d0a/a22990.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "dc/d0a/a22990.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

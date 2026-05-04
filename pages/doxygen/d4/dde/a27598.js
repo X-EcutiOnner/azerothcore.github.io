@@ -1,7 +1,5 @@
 var a27598 =
 [
-    [ "HandleScript", "d4/dde/a27598.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "d4/dde/a27598.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "d4/dde/a27598.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "d4/dde/a27598.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "achievement_sickly_gazelle", "d4/dde/a27598.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "d4/dde/a27598.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

@@ -1,6 +1,6 @@
 var a21838 =
 [
-    [ "npc_blessed_bannerAI", "dc/dbc/a21842.html", "dc/dbc/a21842" ],
-    [ "npc_blessed_banner", "d3/d3e/a21838.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "d3/d3e/a21838.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "npc_bushwhackerAI", "dc/dbc/a21842.html", "dc/dbc/a21842" ],
+    [ "npc_bushwhacker", "d3/d3e/a21838.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "d3/d3e/a21838.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

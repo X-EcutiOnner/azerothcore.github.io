@@ -1,5 +1,7 @@
 var a21434 =
 [
-    [ "go_the_pearl_of_the_depths", "d3/d7b/a21434.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "d3/d7b/a21434.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "CheckRequirement", "d3/d7b/a21434.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "d3/d7b/a21434.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "d3/d7b/a21434.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "d3/d7b/a21434.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

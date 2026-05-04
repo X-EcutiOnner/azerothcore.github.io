@@ -1,5 +1,7 @@
 var a09938 =
 [
-    [ "entry", "d1/d49/a09938.html#a1105fbea33b497bca2a290431cb0f4ca", null ],
-    [ "type", "d1/d49/a09938.html#acaf1010ce0620ee99a2a6b2721a06b89", null ]
+    [ "InstancePlayerBind", "d1/d49/a09938.html#abc20bba094d04eb724d03b8290102981", null ],
+    [ "extended", "d1/d49/a09938.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
+    [ "perm", "d1/d49/a09938.html#ab35249eb791941b484ecc321b1102b24", null ],
+    [ "save", "d1/d49/a09938.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
 ];

@@ -1,9 +1,5 @@
 var a26718 =
 [
-    [ "HandleAfterCast", "d9/d25/a26718.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "d9/d25/a26718.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "d9/d25/a26718.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "d9/d25/a26718.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "d9/d25/a26718.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "d9/d25/a26718.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "spell_q11515_fel_siphon_dummy", "d9/d25/a26718.html#a80fa790a716d1ae950f43f9a298afd66", null ],
+    [ "GetSpellScript", "d9/d25/a26718.html#a0d122972fc036d1f1e49c49acda58be3", null ]
 ];

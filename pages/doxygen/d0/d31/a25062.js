@@ -1,6 +1,7 @@
 var a25062 =
 [
-    [ "CalculateAmount", "d0/d31/a25062.html#a0522f4bf54b4a71df4e09f97a28fda45", null ],
-    [ "PrepareAuraScript", "d0/d31/a25062.html#acf699e467734499dd992f401da38cf88", null ],
-    [ "Register", "d0/d31/a25062.html#a6e6396a162a532ff25b9bd7c551f05d8", null ]
+    [ "ModDest", "d0/d31/a25062.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "d0/d31/a25062.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "d0/d31/a25062.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "d0/d31/a25062.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

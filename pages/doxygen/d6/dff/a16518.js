@@ -1,6 +1,6 @@
 var a16518 =
 [
-    [ "FilterTargets", "d6/dff/a16518.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "d6/dff/a16518.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "d6/dff/a16518.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "boss_eadricAI", "d7/de7/a16522.html", "d7/de7/a16522" ],
+    [ "boss_eadric", "d6/dff/a16518.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
+    [ "GetAI", "d6/dff/a16518.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
 ];

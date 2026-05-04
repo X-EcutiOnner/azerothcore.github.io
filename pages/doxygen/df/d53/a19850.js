@@ -1,6 +1,8 @@
 var a19850 =
 [
-    [ "PrepareSpellScript", "df/d53/a19850.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "df/d53/a19850.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "df/d53/a19850.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "npc_algalon_worm_hole", "df/d53/a19850.html#a546bd0ede2586fcbe3812698b68528d4", null ],
+    [ "JustSummoned", "df/d53/a19850.html#a077425b35d86c007daa93fc8b1fd9717", null ],
+    [ "Reset", "df/d53/a19850.html#a363814abdee714faddfd966b11a4fddc", null ],
+    [ "UpdateAI", "df/d53/a19850.html#a16f644be53169adc67fc971bdeaa7263", null ],
+    [ "_summonTimer", "df/d53/a19850.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
 ];

@@ -1,7 +1,8 @@
 var a23834 =
 [
-    [ "CheckRequirement", "d0/d81/a23834.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d0/d81/a23834.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d0/d81/a23834.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d0/d81/a23834.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "CreatureId", "d0/d81/a23834.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "d0/d81/a23834.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "d0/d81/a23834.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "d0/d81/a23834.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "d0/d81/a23834.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

@@ -1,8 +1,8 @@
 var a14294 =
 [
-    [ "FilterTargets", "d4/d2c/a14294.html#a28450a72f3d8510bdf35390f56a67f71", null ],
-    [ "HandleScriptEffect", "d4/d2c/a14294.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
-    [ "PrepareSpellScript", "d4/d2c/a14294.html#ac9298a59bc8b9735c210b630c68a536e", null ],
-    [ "Register", "d4/d2c/a14294.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
-    [ "Validate", "d4/d2c/a14294.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
+    [ "boss_grilekAI", "d4/d2c/a14294.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "d4/d2c/a14294.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "d4/d2c/a14294.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "d4/d2c/a14294.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "d4/d2c/a14294.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

@@ -1,6 +1,7 @@
 var a20146 =
 [
-    [ "npc_ulduar_toasty_fire", "d2/dc7/a20146.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "d2/dc7/a20146.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "d2/dc7/a20146.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "HandleEffectPeriodic", "d2/dc7/a20146.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
+    [ "PrepareAuraScript", "d2/dc7/a20146.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
+    [ "Register", "d2/dc7/a20146.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
+    [ "Validate", "d2/dc7/a20146.html#a16c536c913d003826ef4b86c7a497fec", null ]
 ];

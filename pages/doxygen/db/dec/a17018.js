@@ -1,7 +1,6 @@
 var a17018 =
 [
-    [ "HandleScriptEffect", "db/dec/a17018.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "db/dec/a17018.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "db/dec/a17018.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "db/dec/a17018.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "boss_trollgoreAI", "df/d1d/a17022.html", "df/d1d/a17022" ],
+    [ "boss_trollgore", "db/dec/a17018.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "db/dec/a17018.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

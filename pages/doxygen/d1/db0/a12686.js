@@ -1,8 +1,7 @@
 var a12686 =
 [
-    [ "FilterTargets", "d1/db0/a12686.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
-    [ "FilterTargetsEff", "d1/db0/a12686.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
-    [ "PrepareSpellScript", "d1/db0/a12686.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
-    [ "Register", "d1/db0/a12686.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
-    [ "targetList", "d1/db0/a12686.html#a874dc7877ecfae332c9f826f01afce0f", null ]
+    [ "HandleScript", "d1/db0/a12686.html#a0d244cc1785b136bae0960d697dc761d", null ],
+    [ "PrepareSpellScript", "d1/db0/a12686.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
+    [ "Register", "d1/db0/a12686.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
+    [ "Validate", "d1/db0/a12686.html#a1413754f3a79caf8ec57d394c68f3499", null ]
 ];

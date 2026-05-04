@@ -1,12 +1,14 @@
 var a07402 =
 [
-    [ "Type", "dd/db0/a07402.html#a758c9729d907d872a5e5365539486408", [
-      [ "ADD", "dd/db0/a07402.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
-      [ "REMOVE", "dd/db0/a07402.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
-      [ "UPDATE_BID", "dd/db0/a07402.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
-    ] ],
-    [ "AuctionSearcherUpdate", "dd/db0/a07402.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
-    [ "~AuctionSearcherUpdate", "dd/db0/a07402.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
-    [ "listFaction", "dd/db0/a07402.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
-    [ "updateType", "dd/db0/a07402.html#af6ee8672029884bdbec327242ce5d5d2", null ]
+    [ "getAll", "dd/db0/a07402.html#a736642258b38fa05f04df4f4ac9069db", null ],
+    [ "inventoryType", "dd/db0/a07402.html#a521224ce63856745ed64c39f6cbdddc4", null ],
+    [ "itemClass", "dd/db0/a07402.html#a97bc36937a55f3e9a88dabf9a4e4f0b5", null ],
+    [ "itemSubClass", "dd/db0/a07402.html#acf154bf30417c1a202ae85b4dd1adead", null ],
+    [ "levelmax", "dd/db0/a07402.html#a902d715d89a5ca66072393ccefbb1ead", null ],
+    [ "levelmin", "dd/db0/a07402.html#ac437de5977b177a586381c8665439a56", null ],
+    [ "listfrom", "dd/db0/a07402.html#a2be6266f0bbc631d476710cbe291fab1", null ],
+    [ "quality", "dd/db0/a07402.html#a1f234ab443ed5e14aafa02ec3ba5cfde", null ],
+    [ "sorting", "dd/db0/a07402.html#a6f2e07af2aafb8eb53d845acd7f5ad71", null ],
+    [ "usable", "dd/db0/a07402.html#ad81a5f3c2c58e620673539b6271ff8e9", null ],
+    [ "wsearchedname", "dd/db0/a07402.html#a0a3764bd2ad869d9fe04aaced1f271ba", null ]
 ];

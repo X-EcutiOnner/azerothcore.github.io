@@ -1,6 +1,6 @@
 var a13958 =
 [
-    [ "npc_lord_gregor_lescovarAI", "dd/d75/a13962.html", "dd/d75/a13962" ],
-    [ "npc_lord_gregor_lescovar", "d8/d98/a13958.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "d8/d98/a13958.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "CheckProc", "d8/d98/a13958.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "d8/d98/a13958.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "d8/d98/a13958.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

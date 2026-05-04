@@ -1,6 +1,5 @@
 var a17950 =
 [
-    [ "npc_vengeful_shadeAI", "d1/d7d/a17954.html", "d1/d7d/a17954" ],
-    [ "npc_vengeful_shade", "dd/dee/a17950.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "dd/dee/a17950.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "achievement_im_on_a_boat", "dd/dee/a17950.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "dd/dee/a17950.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

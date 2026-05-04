@@ -1,12 +1,6 @@
 var a10566 =
 [
-    [ "ArenaScript", "df/dd4/a10566.html#acba88d9008e08873f3f20b92d69e8912", null ],
-    [ "CanAddMember", "df/dd4/a10566.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveArenaStatsForMember", "df/dd4/a10566.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
-    [ "CanSaveToDB", "df/dd4/a10566.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "df/dd4/a10566.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnArenaStart", "df/dd4/a10566.html#ae67b000b16f56309da56f672a9f2b423", null ],
-    [ "OnBeforeArenaCheckWinConditions", "df/dd4/a10566.html#a2b46190a3243f2306a74295975dca317", null ],
-    [ "OnBeforeArenaTeamMemberUpdate", "df/dd4/a10566.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
-    [ "OnGetPoints", "df/dd4/a10566.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "ALEScript", "df/dd4/a10566.html#a3949e8bd9d83297871c60778f3fe9f9e", null ],
+    [ "CanAreaTrigger", "df/dd4/a10566.html#ad5d8f66949b0f7638dd85ccba4c569d0", null ],
+    [ "OnWeatherChange", "df/dd4/a10566.html#a109b1cb14f602065ce4346d0370407a7", null ]
 ];

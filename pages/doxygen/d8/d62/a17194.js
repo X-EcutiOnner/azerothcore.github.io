@@ -1,9 +1,8 @@
 var a17194 =
 [
-    [ "FilterTargets", "d8/d62/a17194.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "d8/d62/a17194.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "d8/d62/a17194.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "d8/d62/a17194.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "d8/d62/a17194.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "d8/d62/a17194.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "npc_hor_lumbering_abomination", "d8/d62/a17194.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
+    [ "JustDied", "d8/d62/a17194.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
+    [ "JustEngagedWith", "d8/d62/a17194.html#a5380771abba095749e1e0b30fe070a73", null ],
+    [ "Reset", "d8/d62/a17194.html#afd56b698fac5f7f13e718d645608213f", null ],
+    [ "UpdateAI", "d8/d62/a17194.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
 ];

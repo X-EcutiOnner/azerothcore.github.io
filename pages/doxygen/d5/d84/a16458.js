@@ -1,6 +1,6 @@
 var a16458 =
 [
-    [ "boss_saviana_ragefireAI", "d6/d10/a16462.html", "d6/d10/a16462" ],
-    [ "boss_saviana_ragefire", "d5/d84/a16458.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "d5/d84/a16458.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "HandlePeriodic", "d5/d84/a16458.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "d5/d84/a16458.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "d5/d84/a16458.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

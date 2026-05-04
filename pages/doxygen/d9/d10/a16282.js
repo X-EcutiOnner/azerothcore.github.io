@@ -1,9 +1,10 @@
 var a16282 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "d9/d10/a16282.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
-    [ "CheckAchievementCriteriaMeet", "d9/d10/a16282.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
-    [ "DoAction", "d9/d10/a16282.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
-    [ "GetGuidData", "d9/d10/a16282.html#a01da8216f57e19b5bf8697700089118c", null ],
-    [ "m_uiPortalGUID", "d9/d10/a16282.html#a166db22fd409d0387085053852e5ad30", null ],
-    [ "portalCount", "d9/d10/a16282.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
+    [ "boss_sartharion_tenebron", "d9/d10/a16282.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
+    [ "ClearInstance", "d9/d10/a16282.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
+    [ "ExecuteEvent", "d9/d10/a16282.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
+    [ "JustDied", "d9/d10/a16282.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
+    [ "JustSummoned", "d9/d10/a16282.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
+    [ "Reset", "d9/d10/a16282.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
+    [ "summons2", "d9/d10/a16282.html#a59b131fcd2298640390fcd0f662f132d", null ]
 ];

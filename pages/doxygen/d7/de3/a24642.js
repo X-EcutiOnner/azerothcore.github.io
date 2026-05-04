@@ -1,6 +1,6 @@
 var a24642 =
 [
-    [ "HandleHeal", "d7/de3/a24642.html#a682a496d59201774de50951ffd2c7c0d", null ],
-    [ "PrepareSpellScript", "d7/de3/a24642.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
-    [ "Register", "d7/de3/a24642.html#abc29f509e703f3807241b63f728a69af", null ]
+    [ "PrepareSpellScript", "d7/de3/a24642.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
+    [ "Register", "d7/de3/a24642.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
+    [ "SelectTarget", "d7/de3/a24642.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
 ];

@@ -1,7 +1,6 @@
 var a26018 =
 [
-    [ "HandlePeriodicDummy", "d0/d54/a26018.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
-    [ "PrepareAuraScript", "d0/d54/a26018.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
-    [ "Register", "d0/d54/a26018.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
-    [ "Validate", "d0/d54/a26018.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
+    [ "CheckProc", "d0/d54/a26018.html#a26a6b40751b0c0b68932b9a6438a4571", null ],
+    [ "PrepareAuraScript", "d0/d54/a26018.html#a7bde487cba726ab6601e82db8e2a092a", null ],
+    [ "Register", "d0/d54/a26018.html#a60130890b5e10e2f29c7eadb20c057b7", null ]
 ];

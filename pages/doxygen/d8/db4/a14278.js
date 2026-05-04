@@ -1,5 +1,6 @@
 var a14278 =
 [
-    [ "at_zulgurub_bridge_speech", "d8/db4/a14278.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "d8/db4/a14278.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "boss_gahzranka", "d8/db4/a14278.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d8/db4/a14278.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d8/db4/a14278.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

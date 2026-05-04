@@ -1,8 +1,6 @@
 var a26518 =
 [
-    [ "CheckCast", "dd/d29/a26518.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "dd/d29/a26518.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "dd/d29/a26518.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "dd/d29/a26518.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "dd/d29/a26518.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "HandleDamage", "dd/d29/a26518.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "dd/d29/a26518.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "dd/d29/a26518.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

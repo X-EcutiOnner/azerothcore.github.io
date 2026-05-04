@@ -1,5 +1,7 @@
 var a23386 =
 [
-    [ "at_shattered_halls_execution", "d8/da5/a23386.html#a73f1d1f03960acd070b7996257f7a526", null ],
-    [ "OnTrigger", "d8/da5/a23386.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
+    [ "HandleCast", "d8/da5/a23386.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "d8/da5/a23386.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "d8/da5/a23386.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "d8/da5/a23386.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

@@ -1,7 +1,7 @@
 var a27226 =
 [
-    [ "AfterRemove", "d8/d85/a27226.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "d8/d85/a27226.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "d8/d85/a27226.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "d8/d85/a27226.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "HandleProc", "d8/d85/a27226.html#a4dbe9fedd6aabfd75f80c7ed6ab1d324", null ],
+    [ "PrepareAuraScript", "d8/d85/a27226.html#ae1ac0e47e529c729f04fb2e37ae4c1f9", null ],
+    [ "Register", "d8/d85/a27226.html#affb8d0a167e6f1bef1aaabd5eb99fe38", null ],
+    [ "Validate", "d8/d85/a27226.html#ae068298d60cdf9623748a8b6c77faabd", null ]
 ];

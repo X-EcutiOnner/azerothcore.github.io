@@ -1,8 +1,7 @@
 var a14134 =
 [
-    [ "FilterTargets", "d0/d7d/a14134.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d0/d7d/a14134.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d0/d7d/a14134.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d0/d7d/a14134.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d0/d7d/a14134.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "FilterTargets", "d0/d7d/a14134.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "d0/d7d/a14134.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "d0/d7d/a14134.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "d0/d7d/a14134.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

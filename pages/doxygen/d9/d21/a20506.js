@@ -1,18 +1,12 @@
 var a20506 =
 [
-    [ "boss_xt002", "d9/d21/a20506.html#afd9e4cbeadc453922b43d21dce621bd4", null ],
-    [ "AttachHeart", "d9/d21/a20506.html#a56cd1cb86b52bba527fd8610b5ec668e", null ],
-    [ "DoAction", "d9/d21/a20506.html#a5146e40e5530a014d552fbc92a62d595", null ],
-    [ "GetData", "d9/d21/a20506.html#a33d64c79af00c3e306fc0c63639d39fc", null ],
-    [ "JustDied", "d9/d21/a20506.html#a4afb96f905e61c8b35941a8481e19882", null ],
-    [ "JustEngagedWith", "d9/d21/a20506.html#a034de8d2644d5b1dfb07845faecc00a3", null ],
-    [ "JustReachedHome", "d9/d21/a20506.html#a31eae472c8da2f891e7d2c3424cf8075", null ],
-    [ "KilledUnit", "d9/d21/a20506.html#ae267d5941357b0e17061483103a8bb4c", null ],
-    [ "RescheduleEvents", "d9/d21/a20506.html#a3ff4223b4eecab9c8b193cd5f63d8f50", null ],
-    [ "Reset", "d9/d21/a20506.html#a0d33da735deae0fb5a22c4f7d6b19fa2", null ],
-    [ "UpdateAI", "d9/d21/a20506.html#a326eb111c3d94e1bb57e9fe6e1f38c57", null ],
-    [ "_gravityAchievement", "d9/d21/a20506.html#ae6fbbb1b43017878d74597bd95d51cd4", null ],
-    [ "_hardMode", "d9/d21/a20506.html#a2882a78918439bbc63902cab0179049c", null ],
-    [ "_healthCheck", "d9/d21/a20506.html#a82eedd2b45b0a67c3677ba398c24c540", null ],
-    [ "_nerfAchievement", "d9/d21/a20506.html#a19aeed1f8e5b3fb4ac34f752e5cb647d", null ]
+    [ "boss_thorim_start_npcs", "d9/d21/a20506.html#a3ed7da48fc86ea00124181bb943a778d", null ],
+    [ "DamageTaken", "d9/d21/a20506.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
+    [ "JustDied", "d9/d21/a20506.html#af5a00c3bc633464e9fd5d02991845294", null ],
+    [ "JustEngagedWith", "d9/d21/a20506.html#a636dd7264dd01aa5fc3c69af17425103", null ],
+    [ "Reset", "d9/d21/a20506.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
+    [ "UpdateAI", "d9/d21/a20506.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
+    [ "_isCaster", "d9/d21/a20506.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
+    [ "_playerAttack", "d9/d21/a20506.html#ab1bf0c011692377fc591610c5131d5e2", null ],
+    [ "events", "d9/d21/a20506.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
 ];

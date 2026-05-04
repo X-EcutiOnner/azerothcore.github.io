@@ -1,13 +1,14 @@
 var a07838 =
 [
-    [ "InvokerEntry", "d8/d39/a07842.html", "d8/d39/a07842" ],
-    [ "SubCommandEntry", "d5/dc1/a07838.html#a9a01b487be01e84573f7ebe99620541b", null ],
-    [ "ChatCommandBuilder", "d5/dc1/a07838.html#a894f6ae19d715d9d3f395736bf7cdb41", null ],
-    [ "ChatCommandBuilder", "d5/dc1/a07838.html#ad9b8a40b28eb5944512b6f3033b3a933", null ],
-    [ "ChatCommandBuilder", "d5/dc1/a07838.html#a4edc4cebdd26b55c0912b8ae0ed5fbaa", null ],
-    [ "ChatCommandBuilder", "d5/dc1/a07838.html#ac2c8cc88865de637f322b54bf6a47e13", null ],
-    [ "ChatCommandBuilder", "d5/dc1/a07838.html#a9ecbebaa3c839f57a90dcccca1473913", null ],
-    [ "Acore::Impl::ChatCommands::ChatCommandNode", "d5/dc1/a07838.html#a3b9ea3963b82697cbe5d6ca86ff29847", null ],
-    [ "_data", "d5/dc1/a07838.html#aff0a8c833c04f98abf46aaba4fbf9374", null ],
-    [ "_name", "d5/dc1/a07838.html#a4315363c5d25bb157481cbbd3fa0286f", null ]
+    [ "FilteredCommandListIterator", "d5/dc1/a07838.html#abd6dc5c1e3c56eb27856eddb46d5e6a6", null ],
+    [ "_skip", "d5/dc1/a07838.html#ac2f0e09b76eb9d40d1b78279a81a5e65", null ],
+    [ "operator bool", "d5/dc1/a07838.html#aaeb128830c7705a455343d173dc3ae5a", null ],
+    [ "operator!", "d5/dc1/a07838.html#a864e81c56946ca97bf24b392ff8f0b8f", null ],
+    [ "operator*", "d5/dc1/a07838.html#a7b1008103a94f6dc068d3e839c924ea6", null ],
+    [ "operator++", "d5/dc1/a07838.html#a6d4a54adde98e638428a8d314a6e4356", null ],
+    [ "operator->", "d5/dc1/a07838.html#ad83cb2c649a847d0cd04b5fd8ee8494c", null ],
+    [ "_end", "d5/dc1/a07838.html#a294c3b743ac4b1a1b878d02a6580d3ca", null ],
+    [ "_handler", "d5/dc1/a07838.html#a0c64270cd18f8988997882ceb3e10184", null ],
+    [ "_it", "d5/dc1/a07838.html#abbf6ac9d50ba494221addff9aba11b80", null ],
+    [ "_token", "d5/dc1/a07838.html#acb834f907b55195f2a27d69f89d84961", null ]
 ];

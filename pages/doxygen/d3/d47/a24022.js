@@ -1,8 +1,10 @@
 var a24022 =
 [
-    [ "go_skull_pile", "d3/d47/a24022.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "d3/d47/a24022.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "d3/d47/a24022.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "d3/d47/a24022.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "d3/d47/a24022.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "d3/d47/a24022.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "d3/d47/a24022.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "d3/d47/a24022.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "d3/d47/a24022.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "d3/d47/a24022.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "d3/d47/a24022.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "d3/d47/a24022.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

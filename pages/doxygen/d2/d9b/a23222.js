@@ -1,5 +1,6 @@
 var a23222 =
 [
-    [ "go_broggok_lever", "d2/d9b/a23222.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "d2/d9b/a23222.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "db/d45/a23226.html", "db/d45/a23226" ],
+    [ "instance_hellfire_ramparts", "d2/d9b/a23222.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d2/d9b/a23222.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

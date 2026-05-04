@@ -1,15 +1,17 @@
 var a05214 =
 [
-    [ "IVMapMgr", "d0/d19/a05214.html#a8fcc2ababfadc1bf662c56645c04841e", null ],
-    [ "~IVMapMgr", "d0/d19/a05214.html#adbc38672af6f30bc4887d2737e6097e5", null ],
-    [ "existsMap", "d0/d19/a05214.html#a5eaf056f98ad00308f22cad73ee80f15", null ],
-    [ "getDirFileName", "d0/d19/a05214.html#a6fb9bd31760b72279499e5e884d12a04", null ],
-    [ "isHeightCalcEnabled", "d0/d19/a05214.html#a0a3b250f0674709fac851c6e63bedd51", null ],
-    [ "isLineOfSightCalcEnabled", "d0/d19/a05214.html#a9b88973ec447dee3a990e11f1fa74873", null ],
-    [ "isMapLoadingEnabled", "d0/d19/a05214.html#ae327405db5140e3a27fe767be8ca8a66", null ],
-    [ "processCommand", "d0/d19/a05214.html#a8697455fead0cfed30ba955c9abf934f", null ],
-    [ "setEnableHeightCalc", "d0/d19/a05214.html#a5642a08f1cbd688985314fb821525c95", null ],
-    [ "setEnableLineOfSightCalc", "d0/d19/a05214.html#a7984e19b44c6f8ce16ecea8e823a4b14", null ],
-    [ "iEnableHeightCalc", "d0/d19/a05214.html#a3ce407c232386fbe00958660457474e4", null ],
-    [ "iEnableLineOfSightCalc", "d0/d19/a05214.html#a83c2317151591bf2c72d33e19007125a", null ]
+    [ "DynamicMapTree", "d0/d19/a05214.html#ae1abe2e5e0464f2cfc6b87338698983d", null ],
+    [ "~DynamicMapTree", "d0/d19/a05214.html#a6d33c22d53a1c2b8120e80c1f508cfb0", null ],
+    [ "balance", "d0/d19/a05214.html#a1af866551a1ea151551ebb856797528d", null ],
+    [ "contains", "d0/d19/a05214.html#a0d1cb7c5e805b637b392afe95ce0286a", null ],
+    [ "GetAreaAndLiquidData", "d0/d19/a05214.html#a1229eb7e83b481cb72ffc9ae4a3a28a8", null ],
+    [ "getHeight", "d0/d19/a05214.html#ac10680b14e3849bd17926cef24765d9d", null ],
+    [ "GetIntersectionTime", "d0/d19/a05214.html#a06e7f683147b9487dad5ca70f28e5aa6", null ],
+    [ "GetObjectHitPos", "d0/d19/a05214.html#ab664ac39063402dea9f587e9808a358d", null ],
+    [ "insert", "d0/d19/a05214.html#a28ccab96fd4249f15485c89501da597b", null ],
+    [ "isInLineOfSight", "d0/d19/a05214.html#a0e585c88cf1f457ad7018ad9c6a4c542", null ],
+    [ "remove", "d0/d19/a05214.html#af75f1e6b52135ca8a9b4b7cd9fb6f42e", null ],
+    [ "size", "d0/d19/a05214.html#aa97347b2172f8f80e360d6fcc132dbd9", null ],
+    [ "update", "d0/d19/a05214.html#a97597eac8b03eccf1f61a6f2b0a9e562", null ],
+    [ "impl", "d0/d19/a05214.html#a7d3a6c5c88df501d6d89e917fb44b1d0", null ]
 ];

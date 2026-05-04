@@ -1,6 +1,7 @@
 var a18158 =
 [
-    [ "npc_little_oozeAI", "df/dd3/a18162.html", "df/dd3/a18162" ],
-    [ "npc_little_ooze", "d3/ddd/a18158.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
-    [ "GetAI", "d3/ddd/a18158.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
+    [ "HandleSummon", "d3/ddd/a18158.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
+    [ "PrepareSpellScript", "d3/ddd/a18158.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
+    [ "Register", "d3/ddd/a18158.html#a01281869dc98a0af5027695391f1221f", null ],
+    [ "Validate", "d3/ddd/a18158.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
 ];

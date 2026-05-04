@@ -1,7 +1,6 @@
 var a21798 =
 [
-    [ "HandleDummy", "d2/d25/a21798.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "d2/d25/a21798.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "d2/d25/a21798.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "d2/d25/a21798.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "npc_frostbrood_skytalonAI", "d5/deb/a21802.html", "d5/deb/a21802" ],
+    [ "npc_frostbrood_skytalon", "d2/d25/a21798.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
+    [ "GetAI", "d2/d25/a21798.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
 ];

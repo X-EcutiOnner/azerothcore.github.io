@@ -1,7 +1,7 @@
 var a25410 =
 [
-    [ "FilterTargets", "d6/da1/a25410.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "d6/da1/a25410.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "d6/da1/a25410.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "d6/da1/a25410.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "CalcPeriodic", "d6/da1/a25410.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "d6/da1/a25410.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "d6/da1/a25410.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "d6/da1/a25410.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

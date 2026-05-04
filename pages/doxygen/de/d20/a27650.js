@@ -1,5 +1,5 @@
 var a27650 =
 [
-    [ "achievement_resilient_victory", "de/d20/a27650.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "de/d20/a27650.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "AreaTrigger_at_legion_teleporter", "de/d20/a27650.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "de/d20/a27650.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

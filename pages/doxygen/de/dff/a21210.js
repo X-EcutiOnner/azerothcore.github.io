@@ -1,8 +1,6 @@
 var a21210 =
 [
-    [ "npc_azure_captainAI", "de/dff/a21210.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "de/dff/a21210.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "de/dff/a21210.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "de/dff/a21210.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "de/dff/a21210.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "npc_nerubar_victimAI", "db/d1e/a21214.html", "db/d1e/a21214" ],
+    [ "npc_nerubar_victim", "de/dff/a21210.html#a4fe80597d3e56776f0f04965fc706097", null ],
+    [ "GetAI", "de/dff/a21210.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
 ];

@@ -1,9 +1,4 @@
 var a05538 =
 [
-    [ "Count", "df/de9/a05538.html#a05f606f459c905632d1452727bc93a0d", null ],
-    [ "GetElements", "df/de9/a05538.html#a260f2bd14ae022a5810539ba87cec51e", null ],
-    [ "GetElements", "df/de9/a05538.html#ae04b24e63268c7b60bea36beec148a8a", null ],
-    [ "Insert", "df/de9/a05538.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
-    [ "Remove", "df/de9/a05538.html#abfb5e987b1c711d259896708887ca6d7", null ],
-    [ "i_elements", "df/de9/a05538.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
+    [ "_element", "df/de9/a05538.html#a403e08c7eab60aab7441041845da8882", null ]
 ];

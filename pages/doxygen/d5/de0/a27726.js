@@ -1,7 +1,6 @@
 var a27726 =
 [
-    [ "CharacterDeleteActionIpLogger", "d5/de0/a27726.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d5/de0/a27726.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "d5/de0/a27726.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "d5/de0/a27726.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "boss_taerarAI", "d6/d60/a27730.html", "d6/d60/a27730" ],
+    [ "boss_taerar", "d5/de0/a27726.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d5/de0/a27726.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

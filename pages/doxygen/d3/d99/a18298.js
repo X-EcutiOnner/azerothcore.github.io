@@ -1,6 +1,7 @@
 var a18298 =
 [
-    [ "FilterTargets", "d3/d99/a18298.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "d3/d99/a18298.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "d3/d99/a18298.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "OnRemove", "d3/d99/a18298.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "d3/d99/a18298.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "d3/d99/a18298.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "d3/d99/a18298.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

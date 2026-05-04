@@ -1,8 +1,6 @@
 var a21594 =
 [
-    [ "OnRemove", "d7/d37/a21594.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "d7/d37/a21594.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "d7/d37/a21594.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "d7/d37/a21594.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "d7/d37/a21594.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "CheckRequirement", "d7/d37/a21594.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "d7/d37/a21594.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "d7/d37/a21594.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

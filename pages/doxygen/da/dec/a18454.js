@@ -1,11 +1,15 @@
 var a18454 =
 [
-    [ "AddMissingStack", "da/dec/a18454.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
-    [ "CheckAura", "da/dec/a18454.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
-    [ "FilterTargets", "da/dec/a18454.html#ab6c86c3680823329d5f3aad985aa316a", null ],
-    [ "Load", "da/dec/a18454.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
-    [ "PrepareSpellScript", "da/dec/a18454.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
-    [ "Register", "da/dec/a18454.html#af0e6f1fc6687de1abcc1689116150088", null ],
-    [ "_hadInitialAura", "da/dec/a18454.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
-    [ "_hadJumpingAura", "da/dec/a18454.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
+    [ "npc_tirion_fordringAI", "da/dec/a18454.html#aa0f94cef85e96cda4a2e280eaa7110de", null ],
+    [ "CanAIAttack", "da/dec/a18454.html#a1bdef323e9c7364fab789abc39ef00a0", null ],
+    [ "DoAction", "da/dec/a18454.html#a5fd5b3fde84ed04c794546d11fe946d7", null ],
+    [ "EnterEvadeMode", "da/dec/a18454.html#a1275cee8f49c67920041ad8d50c62aa4", null ],
+    [ "JustReachedHome", "da/dec/a18454.html#a6e6c7c2f4f8e60126fd4adc42fe3b4f4", null ],
+    [ "MovementInform", "da/dec/a18454.html#a7284240c4eafbc80748d5e2867a64a9f", null ],
+    [ "Reset", "da/dec/a18454.html#ac41e569535322bb5907fa4116bbac739", null ],
+    [ "sGossipSelect", "da/dec/a18454.html#a56599a97f019121160b2f6ac43019772", null ],
+    [ "SpellHit", "da/dec/a18454.html#ae68b900f87c646cfb3ece5518b59e687", null ],
+    [ "UpdateAI", "da/dec/a18454.html#a3f729624820266f1cf1e5577c5047c3b", null ],
+    [ "_events", "da/dec/a18454.html#a7bb0d243cc9b3e836dd99864f2a5e669", null ],
+    [ "_instance", "da/dec/a18454.html#a223a7f09ae03971487bb55e770503f7e", null ]
 ];

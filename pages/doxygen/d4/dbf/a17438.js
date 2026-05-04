@@ -1,6 +1,6 @@
 var a17438 =
 [
-    [ "instance_gundrak_InstanceMapScript", "d7/d47/a17442.html", "d7/d47/a17442" ],
-    [ "instance_gundrak", "d4/dbf/a17438.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
-    [ "GetInstanceScript", "d4/dbf/a17438.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
+    [ "boss_moorabiAI", "d7/d47/a17442.html", "d7/d47/a17442" ],
+    [ "boss_moorabi", "d4/dbf/a17438.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "d4/dbf/a17438.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

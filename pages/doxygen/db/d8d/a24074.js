@@ -1,8 +1,14 @@
 var a24074 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "db/d8d/a24074.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "db/d8d/a24074.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "db/d8d/a24074.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "db/d8d/a24074.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "db/d8d/a24074.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_pet_mage_mirror_image", "db/d8d/a24074.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
+    [ "EnterEvadeMode", "db/d8d/a24074.html#a858b070fb53112dc78554f0b20cd876a", null ],
+    [ "InitializeAI", "db/d8d/a24074.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
+    [ "MySelectNextTarget", "db/d8d/a24074.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
+    [ "Reset", "db/d8d/a24074.html#a79a8c153ab61c619d928ec5535e67077", null ],
+    [ "UpdateAI", "db/d8d/a24074.html#aa219b3adc38b625c6885089895b941b4", null ],
+    [ "_delayAttack", "db/d8d/a24074.html#ab65a74ef0f1e253bf9df4e4f7c6856a3", null ],
+    [ "_ebonGargoyleGUID", "db/d8d/a24074.html#a8be57d06114f108e74b850ce66722bf3", null ],
+    [ "checktarget", "db/d8d/a24074.html#a074611355768dc2072da69ed9d72242b", null ],
+    [ "dist", "db/d8d/a24074.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
+    [ "selectionTimer", "db/d8d/a24074.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
 ];

@@ -1,7 +1,6 @@
 var a23610 =
 [
-    [ "HandleDamage", "df/d43/a23610.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "df/d43/a23610.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "df/d43/a23610.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "df/d43/a23610.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "npc_nether_drakeAI", "d9/df4/a23614.html", "d9/df4/a23614" ],
+    [ "npc_nether_drake", "df/d43/a23610.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "df/d43/a23610.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

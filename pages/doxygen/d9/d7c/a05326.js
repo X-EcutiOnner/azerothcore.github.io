@@ -1,6 +1,27 @@
 var a05326 =
 [
-    [ "TriBoundFunc", "d9/d7c/a05326.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "d9/d7c/a05326.html#a026d443e9156f884a21351700b6c69dd", null ],
-    [ "vertices", "d9/d7c/a05326.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "GameObjectModel", "d9/d7c/a05326.html#aec1b2fdef131624210451e7cee7182ff", null ],
+    [ "~GameObjectModel", "d9/d7c/a05326.html#a9e54193b5c94283e838f66854a96b03e", null ],
+    [ "Create", "d9/d7c/a05326.html#ac47c77a56730f93ed14f131f34891f84", null ],
+    [ "disable", "d9/d7c/a05326.html#a09d7c38bf6b01fb8f743dbf7130df396", null ],
+    [ "enable", "d9/d7c/a05326.html#ac8ebd1a33e4127b9a0805701152ba0a2", null ],
+    [ "GetBounds", "d9/d7c/a05326.html#abcb428aaea61d38a171d9a4fda578cb6", null ],
+    [ "GetLiquidLevel", "d9/d7c/a05326.html#ad42269f6042c3aad8492d22d88e08edd", null ],
+    [ "GetLocationInfo", "d9/d7c/a05326.html#a391fd8d204b9b1039ef8cc42fa90019a", null ],
+    [ "GetPosition", "d9/d7c/a05326.html#a7b3023f2db0d728e5004c8b8828a2a98", null ],
+    [ "initialize", "d9/d7c/a05326.html#affb481343e6c849a3d133598749e0e70", null ],
+    [ "intersectRay", "d9/d7c/a05326.html#af99a6abe2b04df64590b8923cc72ed4e", null ],
+    [ "isEnabled", "d9/d7c/a05326.html#a77b0c074ae20733d663fdf73169c343d", null ],
+    [ "IsMapObject", "d9/d7c/a05326.html#af7d489ccfe12858633b24582be39ba63", null ],
+    [ "UpdatePosition", "d9/d7c/a05326.html#aa1c78a367e3706ac82f30b34ff100667", null ],
+    [ "iBound", "d9/d7c/a05326.html#ab8c4c51baf86d39e230ab8b8793658a3", null ],
+    [ "iInvRot", "d9/d7c/a05326.html#a8c9f3297a5779831d7ba9251f79eb2f0", null ],
+    [ "iInvScale", "d9/d7c/a05326.html#af41878cd24e4208de2630f5a91d001e3", null ],
+    [ "iModel", "d9/d7c/a05326.html#a6dd47cf6507ae2752d835ee00c6d9f32", null ],
+    [ "iPos", "d9/d7c/a05326.html#a6c290e3dbcfb5eab05771f4da5e717b0", null ],
+    [ "iScale", "d9/d7c/a05326.html#abbde1836561761b858f08b436edb3b53", null ],
+    [ "isWmo", "d9/d7c/a05326.html#a83c4f6f0c45910fb6b86288bb809e787", null ],
+    [ "name", "d9/d7c/a05326.html#ab20fa753c8967a4074798d6ded4f5925", null ],
+    [ "owner", "d9/d7c/a05326.html#af1b565e8ee52c9c19d6f945bfb06b889", null ],
+    [ "phasemask", "d9/d7c/a05326.html#ae33268fbdd1324f72895154e155e8345", null ]
 ];

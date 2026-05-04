@@ -1,14 +1,12 @@
 var a00077 =
 [
-    [ "ExtraAttackChainProcTest", "dd/de9/a29325.html", "dd/de9/a29325" ],
-    [ "TEST_F", "d1/d09/a00077.html#abc49b8d509a71311b8f4ab364e4da973", null ],
-    [ "TEST_F", "d1/d09/a00077.html#a42dbae4a1b1bebe552097cb6d7192996", null ],
-    [ "TEST_F", "d1/d09/a00077.html#a496682ab03245df2e7c1e539fe7a1b3c", null ],
-    [ "TEST_F", "d1/d09/a00077.html#ae45135f1555115aa04a957f7786ef8eb", null ],
-    [ "TEST_F", "d1/d09/a00077.html#a510139ca0dbe6b263f79cdf71e8f3104", null ],
-    [ "TEST_F", "d1/d09/a00077.html#aca644b360370337d76d0d1f955f4bf91", null ],
-    [ "TEST_F", "d1/d09/a00077.html#a9dbad8c1ef4a5f8cd46f58762938ef28", null ],
-    [ "TEST_F", "d1/d09/a00077.html#ae32b028257e04cd926bd3c20a6a63a02", null ],
-    [ "SPELL_HAND_OF_JUSTICE", "d1/d09/a00077.html#a82bc87ae06a613c804e98c7f1584cebd", null ],
-    [ "SPELL_RECKONING", "d1/d09/a00077.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48", null ]
+    [ "SpellProcSpellTypeMaskTest", "d4/d3c/a29566.html", "d4/d3c/a29566" ],
+    [ "TEST_F", "d1/d09/a00077.html#a0e299f1164a6c1e0f315da2c5551e58a", null ],
+    [ "TEST_F", "d1/d09/a00077.html#ae1ae997d3f0f1ba7825ae4b2e5436d44", null ],
+    [ "TEST_F", "d1/d09/a00077.html#a7a5da3689f4cd8516f8998a3eb8516f1", null ],
+    [ "TEST_F", "d1/d09/a00077.html#a0b4b6b9b08a21068764a01b658ede70d", null ],
+    [ "TEST_F", "d1/d09/a00077.html#abd75b3776c8e55bbc898c408aad3f34d", null ],
+    [ "TEST_F", "d1/d09/a00077.html#ab03489d280d80145880f52bc0a09c584", null ],
+    [ "TEST_F", "d1/d09/a00077.html#a6ae8c3849f8042eeff0379c4ea6d2adc", null ],
+    [ "TEST_F", "d1/d09/a00077.html#a790970fbe1cfb4df4e5ba38abf4c9bae", null ]
 ];

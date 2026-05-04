@@ -1,6 +1,6 @@
 var a14518 =
 [
-    [ "OnApply", "d5/d02/a14518.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "d5/d02/a14518.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "d5/d02/a14518.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "HandleEffectRemove", "d5/d02/a14518.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
+    [ "PrepareAuraScript", "d5/d02/a14518.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
+    [ "Register", "d5/d02/a14518.html#aa436788f638fedacb217ca508da5f426", null ]
 ];

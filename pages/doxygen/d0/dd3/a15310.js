@@ -1,7 +1,8 @@
 var a15310 =
 [
-    [ "FilterTargets", "d0/dd3/a15310.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "d0/dd3/a15310.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "d0/dd3/a15310.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "d0/dd3/a15310.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "HandleScript", "d0/dd3/a15310.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "d0/dd3/a15310.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "d0/dd3/a15310.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "d0/dd3/a15310.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "d0/dd3/a15310.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

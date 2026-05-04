@@ -1,6 +1,6 @@
 var a14430 =
 [
-    [ "boss_wushoolayAI", "d4/d85/a14434.html", "d4/d85/a14434" ],
-    [ "boss_wushoolay", "dd/d94/a14430.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "dd/d94/a14430.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "HandleOnHit", "dd/d94/a14430.html#a36909ef786940eb1a05539c968d78e80", null ],
+    [ "PrepareSpellScript", "dd/d94/a14430.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
+    [ "Register", "dd/d94/a14430.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
 ];

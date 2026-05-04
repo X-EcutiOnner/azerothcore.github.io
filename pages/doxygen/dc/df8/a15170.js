@@ -1,8 +1,9 @@
 var a15170 =
 [
-    [ "Load", "dc/df8/a15170.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "dc/df8/a15170.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "dc/df8/a15170.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "dc/df8/a15170.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "dc/df8/a15170.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "boss_chrono_lord_deja", "dc/df8/a15170.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "dc/df8/a15170.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "dc/df8/a15170.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "dc/df8/a15170.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "dc/df8/a15170.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "dc/df8/a15170.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

@@ -1,6 +1,6 @@
 var a16554 =
 [
-    [ "HandleSpellHit", "de/dec/a16554.html#a8c801b92f6e405668edae54989dd58e8", null ],
-    [ "PrepareSpellScript", "de/dec/a16554.html#abae02a74f626b890f61df551318dcc81", null ],
-    [ "Register", "de/dec/a16554.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
+    [ "FilterTargets", "de/dec/a16554.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
+    [ "PrepareSpellScript", "de/dec/a16554.html#a697a52cbc50eafd2b0377621afb01557", null ],
+    [ "Register", "de/dec/a16554.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
 ];

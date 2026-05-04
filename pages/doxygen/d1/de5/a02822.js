@@ -1,8 +1,10 @@
 var a02822 =
 [
-    [ "instance_the_botanica", "df/d93/a23377.html", "df/d93/a23377" ],
-    [ "instance_the_botanica::instance_the_botanica_InstanceMapScript", "d8/da1/a23381.html", "d8/da1/a23381" ],
-    [ "spell_botanica_call_of_the_falcon_aura", "d5/d79/a23385.html", "d5/d79/a23385" ],
-    [ "spell_botanica_shift_form_aura", "dd/dfd/a23389.html", "dd/dfd/a23389" ],
-    [ "AddSC_instance_the_botanica", "d1/de5/a02822.html#a42bac8d93a9aac296390fec4cb6b94cb", null ]
+    [ "instance_the_eye", "d1/d9e/a23534.html", "d1/d9e/a23534" ],
+    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "d7/dfa/a23538.html", "d7/dfa/a23538" ],
+    [ "AddSC_instance_the_eye", "d1/de5/a02822.html#a2edbd129d024cabd379cca055dd3e341", null ],
+    [ "boundaries", "d1/de5/a02822.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d1/de5/a02822.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d1/de5/a02822.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d1/de5/a02822.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
 ];

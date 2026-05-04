@@ -1,16 +1,13 @@
 var a14106 =
 [
-    [ "boss_halazzi", "d1/d1b/a14106.html#aed961a9e12b44dfd97bd31c981184be5", null ],
-    [ "AttackStart", "d1/d1b/a14106.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
-    [ "DamageTaken", "d1/d1b/a14106.html#aaa698dfa4d4a991968eebee3330e967a", null ],
-    [ "DoAction", "d1/d1b/a14106.html#a1685c7c99a797ec332b67797a294d83a", null ],
-    [ "EnterPhase", "d1/d1b/a14106.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
-    [ "JustDied", "d1/d1b/a14106.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
-    [ "JustEngagedWith", "d1/d1b/a14106.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
-    [ "JustSummoned", "d1/d1b/a14106.html#a152267cb31912106443ceea9488fee0a", null ],
-    [ "KilledUnit", "d1/d1b/a14106.html#a4d69fa8e754f823a599c52e227361600", null ],
-    [ "Reset", "d1/d1b/a14106.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
-    [ "SpellHit", "d1/d1b/a14106.html#a36141673391a423174db874ca425ea07", null ],
-    [ "_phase", "d1/d1b/a14106.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
-    [ "_transformCount", "d1/d1b/a14106.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
+    [ "npc_daphne_stilwellAI", "d1/d1b/a14106.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
+    [ "AttackStart", "d1/d1b/a14106.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
+    [ "JustSummoned", "d1/d1b/a14106.html#ae56554d30e9de7644efab891555c57e0", null ],
+    [ "Reset", "d1/d1b/a14106.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
+    [ "SummonedCreatureDies", "d1/d1b/a14106.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
+    [ "Update", "d1/d1b/a14106.html#a4099d75c4a6bca1525781a5753ef9972", null ],
+    [ "WaypointReached", "d1/d1b/a14106.html#a1035eb0a1696730d8304593b5fb079e4", null ],
+    [ "WaypointReached", "d1/d1b/a14106.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "summons", "d1/d1b/a14106.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
+    [ "textCounter", "d1/d1b/a14106.html#a62ab24169c1b7c3028ab33303b217f63", null ]
 ];

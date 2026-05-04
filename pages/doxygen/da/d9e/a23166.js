@@ -1,5 +1,5 @@
 var a23166 =
 [
-    [ "npc_invisible_tractor_beam_source", "da/d9e/a23166.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
-    [ "IsSummonedBy", "da/d9e/a23166.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
+    [ "go_broggok_lever", "da/d9e/a23166.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
+    [ "OnGossipHello", "da/d9e/a23166.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
 ];

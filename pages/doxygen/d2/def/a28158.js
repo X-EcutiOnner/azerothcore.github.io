@@ -1,6 +1,7 @@
 var a28158 =
 [
-    [ "npc_taxi", "d2/def/a28158.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d2/def/a28158.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d2/def/a28158.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_guardianAI", "d2/def/a28158.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "d2/def/a28158.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "d2/def/a28158.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "d2/def/a28158.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

@@ -1,8 +1,7 @@
 var a27094 =
 [
-    [ "CheckProc", "dd/dba/a27094.html#a2e564758a050827108955f73a08e72e7", null ],
-    [ "PrepareAuraScript", "dd/dba/a27094.html#a5993871d8837b43580818fa94e1bccc2", null ],
-    [ "Register", "dd/dba/a27094.html#a24faa9992523bc87df7f5ebccfb42233", null ],
-    [ "WasUsedByMutilate", "dd/dba/a27094.html#af31c8d77307f3cf3acee06e0b159925e", null ],
-    [ "_usedByMutilate", "dd/dba/a27094.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
+    [ "HandleDummy", "dd/dba/a27094.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
+    [ "PrepareSpellScript", "dd/dba/a27094.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
+    [ "Register", "dd/dba/a27094.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
+    [ "Validate", "dd/dba/a27094.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
 ];

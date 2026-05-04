@@ -1,7 +1,9 @@
 var a23994 =
 [
-    [ "HandlePeriodic", "d8/d4e/a23994.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d8/d4e/a23994.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d8/d4e/a23994.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d8/d4e/a23994.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "d8/d4e/a23994.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "d8/d4e/a23994.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "d8/d4e/a23994.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "d8/d4e/a23994.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "d8/d4e/a23994.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "d8/d4e/a23994.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

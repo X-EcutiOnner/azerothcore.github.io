@@ -1,5 +1,6 @@
 var a09934 =
 [
-    [ "bossId", "d9/d8b/a09934.html#ac7be12fc714b2760399185e96b01efe0", null ],
-    [ "entry", "d9/d8b/a09934.html#adae739bf9cf30d1a8ca5c5790dc61c01", null ]
+    [ "NpcTextLocale", "d9/d8b/a09934.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
+    [ "Text_0", "d9/d8b/a09934.html#adf17307b9d00e0b63b9c2827fca96320", null ],
+    [ "Text_1", "d9/d8b/a09934.html#a40f69a13a202c350fdce2177288727e9", null ]
 ];

@@ -1,7 +1,6 @@
 var a05374 =
 [
-    [ "operator()", "dc/ded/a05374.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
-    [ "closestEntity", "dc/ded/a05374.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "dc/ded/a05374.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "dc/ded/a05374.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "NodeArray", "dc/ded/a05374.html#ad14de28828d5dd9c425e47a261125423", null ],
+    [ "AddNode", "dc/ded/a05374.html#a370b6e8633c2c739ff68c0399e315a7e", null ],
+    [ "_nodes", "dc/ded/a05374.html#a581a71d15d245efc585297c218313134", null ]
 ];

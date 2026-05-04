@@ -1,12 +1,14 @@
 var a17778 =
 [
-    [ "gunship_npc_AI", "de/da1/a17778.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "de/da1/a17778.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "de/da1/a17778.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "de/da1/a17778.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "de/da1/a17778.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "de/da1/a17778.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "de/da1/a17778.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "de/da1/a17778.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "de/da1/a17778.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "npc_gunshipAI", "de/da1/a17778.html#a75444497ffd6b7365827eea57fd946f9", null ],
+    [ "DamageTaken", "de/da1/a17778.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
+    [ "GetData", "de/da1/a17778.html#a0142bec2427c1256431e55d3f74b8948", null ],
+    [ "JustDied", "de/da1/a17778.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
+    [ "SetGUID", "de/da1/a17778.html#a7f336843c54de072cf58bc87ff08b068", null ],
+    [ "UpdateAI", "de/da1/a17778.html#a8bab1a755c2262e9f36f295781d30909", null ],
+    [ "_died", "de/da1/a17778.html#af4480427460748bccae214737469ddb7", null ],
+    [ "_instance", "de/da1/a17778.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
+    [ "_shipVisits", "de/da1/a17778.html#a6f9730b746e195a99dc11357fd0387ba", null ],
+    [ "_summonedFirstMage", "de/da1/a17778.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
+    [ "_teamIdInInstance", "de/da1/a17778.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
 ];

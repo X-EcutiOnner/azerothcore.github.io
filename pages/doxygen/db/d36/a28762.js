@@ -1,5 +1,4 @@
 var a28762 =
 [
-    [ "cinematicCamera", "db/d36/a28762.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
-    [ "Id", "db/d36/a28762.html#a9c3dc0e60728c1c76594385d6860f265", null ]
+    [ "cost", "db/d36/a28762.html#a624313c8b56b9755593b2f4bacd306d7", null ]
 ];

@@ -1,6 +1,5 @@
 var a27614 =
 [
-    [ "HandleOnHit", "d4/db6/a27614.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "d4/db6/a27614.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "d4/db6/a27614.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "achievement_tilted", "d4/db6/a27614.html#a868d7b8a437434d6dc34b5000c429e66", null ],
+    [ "OnCheck", "d4/db6/a27614.html#a61d3eb78450383485699532d96f79d93", null ]
 ];

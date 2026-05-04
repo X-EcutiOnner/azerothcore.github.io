@@ -1,8 +1,6 @@
 var a14690 =
 [
-    [ "npc_hallows_end_train_fire", "db/d99/a14690.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "db/d99/a14690.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "db/d99/a14690.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "db/d99/a14690.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "db/d99/a14690.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "HandleDummy", "db/d99/a14690.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
+    [ "PrepareSpellScript", "db/d99/a14690.html#a87a787c6ab3804847c90266f570381c6", null ],
+    [ "Register", "db/d99/a14690.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
 ];

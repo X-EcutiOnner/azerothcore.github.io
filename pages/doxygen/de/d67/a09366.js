@@ -1,11 +1,8 @@
 var a09366 =
 [
-    [ "~GridCell", "de/d67/a09366.html#a042be8f85e83068d4bb39a0de0618146", null ],
-    [ "AddFarVisibleObject", "de/d67/a09366.html#a9a81bdbf151463b4687227df0fa39ece", null ],
-    [ "AddGridObject", "de/d67/a09366.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
-    [ "RemoveFarVisibleObject", "de/d67/a09366.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
-    [ "Visit", "de/d67/a09366.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
-    [ "Visit", "de/d67/a09366.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
-    [ "_farVisibleObjects", "de/d67/a09366.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
-    [ "_gridObjects", "de/d67/a09366.html#ac5a741aebc11124aa228e5107e664335", null ]
+    [ "DungeonEncounter", "de/d67/a09366.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "de/d67/a09366.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "de/d67/a09366.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "de/d67/a09366.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "de/d67/a09366.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

@@ -1,9 +1,6 @@
 var a12986 =
 [
-    [ "FilterTargets", "d8/d05/a12986.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "d8/d05/a12986.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "d8/d05/a12986.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "d8/d05/a12986.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "d8/d05/a12986.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "d8/d05/a12986.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "HandleDummy", "d8/d05/a12986.html#a9551867737eea27a9acf2d3d475e9b3c", null ],
+    [ "PrepareSpellScript", "d8/d05/a12986.html#a3e14dd6a6f26a163282846f714e2ffb5", null ],
+    [ "Register", "d8/d05/a12986.html#a7be884a657889e1b18d1499c8a053c18", null ]
 ];

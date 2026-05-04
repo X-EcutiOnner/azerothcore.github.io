@@ -1,11 +1,16 @@
 var a19910 =
 [
-    [ "npc_auriaya_feral_defender", "d6/d1d/a19910.html#a84425204b0ad06789edb331ed8495774", null ],
-    [ "DoAction", "d6/d1d/a19910.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
-    [ "JustDied", "d6/d1d/a19910.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
-    [ "JustEngagedWith", "d6/d1d/a19910.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
-    [ "Reset", "d6/d1d/a19910.html#a02b09b7dfdd4036827bb474a57296491", null ],
-    [ "UpdateAI", "d6/d1d/a19910.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
-    [ "_feralEssenceStack", "d6/d1d/a19910.html#a1ffc377dbad787a5eb132758124df534", null ],
-    [ "_summons", "d6/d1d/a19910.html#a0b7960f590ba76068c377cf08291ce35", null ]
+    [ "boss_runemaster_molgeim", "d6/d1d/a19910.html#ae465b567aeba025d2fde3baa94e55e1e", null ],
+    [ "JustDied", "d6/d1d/a19910.html#af278ce3237940684aa9909915e6d6962", null ],
+    [ "JustEngagedWith", "d6/d1d/a19910.html#a2d779d09adfd1f19ce3655d8e9740a9f", null ],
+    [ "JustReachedHome", "d6/d1d/a19910.html#a0597a7360c24899e9f74f1d3f289e9c5", null ],
+    [ "KilledUnit", "d6/d1d/a19910.html#a33c0a2d070cf6d3d850c840b048de251", null ],
+    [ "Reset", "d6/d1d/a19910.html#a9f8cca601307af0475141d6b8370199a", null ],
+    [ "SpellHit", "d6/d1d/a19910.html#a8d05dd3f38eb24cf5be700328a874ff1", null ],
+    [ "UpdateAI", "d6/d1d/a19910.html#ad8f1b523299c7a2c3dd9013fa211a090", null ],
+    [ "UpdatePhase", "d6/d1d/a19910.html#a40d0466bfbe6fae8435fb4921bca6c1a", null ],
+    [ "_phase", "d6/d1d/a19910.html#af1a8f1bf6dbf24890686c8acbf83dc2d", null ],
+    [ "events", "d6/d1d/a19910.html#a277b45a2b2399b91650907de2fb86b89", null ],
+    [ "pInstance", "d6/d1d/a19910.html#adfbc84f0922e69b38723ecbc7eeead62", null ],
+    [ "summons", "d6/d1d/a19910.html#a148c913fcc44c8dfd05260d76d389538", null ]
 ];

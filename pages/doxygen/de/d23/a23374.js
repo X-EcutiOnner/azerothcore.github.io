@@ -1,8 +1,10 @@
 var a23374 =
 [
-    [ "FilterTargets", "de/d23/a23374.html#ae366594b668331a19f384ceb48654c0c", null ],
-    [ "HandleOnHit", "de/d23/a23374.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
-    [ "PrepareSpellScript", "de/d23/a23374.html#a71aa4018d293391a73d3317c1e80951d", null ],
-    [ "Register", "de/d23/a23374.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
-    [ "Validate", "de/d23/a23374.html#a3747ad271dc659436ae7a8203b964554", null ]
+    [ "instance_arcatraz_InstanceMapScript", "de/d23/a23374.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "de/d23/a23374.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "de/d23/a23374.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "de/d23/a23374.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "de/d23/a23374.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "de/d23/a23374.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "de/d23/a23374.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

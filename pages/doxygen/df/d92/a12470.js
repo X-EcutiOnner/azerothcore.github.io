@@ -1,7 +1,9 @@
 var a12470 =
 [
-    [ "boss_moira_bronzebeard", "df/d92/a12470.html#aaab4b597fd97619c2a41e2a6425810de", null ],
-    [ "CastOnEmperorIfPossible", "df/d92/a12470.html#a413aab0c096319ea17d6c6a078b056ea", null ],
-    [ "JustEngagedWith", "df/d92/a12470.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
-    [ "UpdateAI", "df/d92/a12470.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
+    [ "npc_phalanx", "df/d92/a12470.html#a03c79151dcdc13fef4ce83957addd44a", null ],
+    [ "Reset", "df/d92/a12470.html#a9297d5fb869eb9a65ef9143a56347a53", null ],
+    [ "UpdateAI", "df/d92/a12470.html#aad01cc9d5ac167c21547e8b0b2bda4a7", null ],
+    [ "_fireballVolleyTimer", "df/d92/a12470.html#a54ad76cd7e8d3be058ad3d5153e5b144", null ],
+    [ "_mightyBlowTimer", "df/d92/a12470.html#ad59e6e32b53dbf797bc62e116ae2a12d", null ],
+    [ "_thunderClapTimer", "df/d92/a12470.html#a3b0c33207bf5090abeb9860585c222b4", null ]
 ];

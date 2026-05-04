@@ -1,6 +1,6 @@
 var a10914 =
 [
-    [ "GuildUpdateMotdText", "d1/d6c/a10914.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "d1/d6c/a10914.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "d1/d6c/a10914.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "QueryGuildInfo", "d1/d6c/a10914.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
+    [ "Read", "d1/d6c/a10914.html#a0396a58ca114706f7de91f51c5ab949d", null ],
+    [ "GuildId", "d1/d6c/a10914.html#ad221eecdb16233251306fff3d9801f38", null ]
 ];

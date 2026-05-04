@@ -1,6 +1,6 @@
 var a21754 =
 [
-    [ "npc_llod_genericAI", "dd/dcd/a21758.html", "dd/dcd/a21758" ],
-    [ "npc_llod_generic", "d1/d70/a21754.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "d1/d70/a21754.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "HandleDummy", "d1/d70/a21754.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "d1/d70/a21754.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "d1/d70/a21754.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

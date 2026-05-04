@@ -1,6 +1,26 @@
 var a20086 =
 [
-    [ "achievement_freya_knock_on_wood", "df/dc8/a20086.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "df/dc8/a20086.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "df/dc8/a20086.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "boss_freya", "df/dc8/a20086.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "df/dc8/a20086.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
+    [ "DamageTaken", "df/dc8/a20086.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
+    [ "DoAction", "df/dc8/a20086.html#a099f983a17e002990aaecbb0995bb3b0", null ],
+    [ "GetData", "df/dc8/a20086.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
+    [ "JustEngagedWith", "df/dc8/a20086.html#a85a00b03079df9ce9b8fa035820c959b", null ],
+    [ "JustReachedHome", "df/dc8/a20086.html#a577c8714fef829a57533c1cfbd400dc0", null ],
+    [ "JustSummoned", "df/dc8/a20086.html#a24e4d87c3007c1c17c0d3c7c9bf68d79", null ],
+    [ "KilledUnit", "df/dc8/a20086.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
+    [ "MovementInform", "df/dc8/a20086.html#a80b5910abe85c2f1350c5f91aabd3fa4", null ],
+    [ "Reset", "df/dc8/a20086.html#abadf6447f33116039e82065ce44f4322", null ],
+    [ "SpawnWave", "df/dc8/a20086.html#af1f486e8725a2710b237fe233f7fe181", null ],
+    [ "SpellHit", "df/dc8/a20086.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
+    [ "SpellHitTarget", "df/dc8/a20086.html#a22c4097731727de032fd6db3c9cef7cf", null ],
+    [ "UpdateAI", "df/dc8/a20086.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
+    [ "_backToNature", "df/dc8/a20086.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
+    [ "_deforestation", "df/dc8/a20086.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
+    [ "_elderGUID", "df/dc8/a20086.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
+    [ "_lumberjacked", "df/dc8/a20086.html#aa35101951b2d47848b69170ab36ae414", null ],
+    [ "_respawningTrio", "df/dc8/a20086.html#a9e0326bd0eff372fca2b5e0e310dd1da", null ],
+    [ "_spawnedAmount", "df/dc8/a20086.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
+    [ "_trioKilled", "df/dc8/a20086.html#ae141a7cf3554c606738774fe96a371dc", null ],
+    [ "_waveNumber", "df/dc8/a20086.html#af4e2576558c3c15303245f76c6e30aa0", null ]
 ];

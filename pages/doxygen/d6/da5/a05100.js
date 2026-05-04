@@ -1,7 +1,9 @@
 var a05100 =
 [
-    [ "SnakeTrapEvadeTest", "d4/daa/a29382.html", "d4/daa/a29382" ],
-    [ "TEST_F", "d6/da5/a05100.html#a01af681e20eff16b713dfdfe3b68721a", null ],
-    [ "TEST_F", "d6/da5/a05100.html#a9e98f2b89f631331e38138b445fb77c2", null ],
-    [ "TEST_F", "d6/da5/a05100.html#a5ce83093ca2163b3d1d02187741247d3", null ]
+    [ "Hello", "d0/dfa/a11326.html", "d0/dfa/a11326" ],
+    [ "TrainerBuyFailed", "d5/de4/a11342.html", "d5/de4/a11342" ],
+    [ "TrainerBuySpell", "d9/d07/a11338.html", "d9/d07/a11338" ],
+    [ "TrainerBuySucceeded", "d2/d11/a11346.html", "d2/d11/a11346" ],
+    [ "TrainerList", "de/d98/a11334.html", "de/d98/a11334" ],
+    [ "TrainerListSpell", "d5/d8e/a11330.html", "d5/d8e/a11330" ]
 ];

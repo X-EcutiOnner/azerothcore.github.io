@@ -1,11 +1,20 @@
 var a23850 =
 [
-    [ "npc_invis_infernal_casterAI", "dd/d51/a23850.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
-    [ "Reset", "dd/d51/a23850.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
-    [ "SetData", "dd/d51/a23850.html#aee88dc141757384f96da969fcdc20671", null ],
-    [ "SummonInfernal", "dd/d51/a23850.html#a78d53d09e5544b3fe8301da4415d297b", null ],
-    [ "UpdateAI", "dd/d51/a23850.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
-    [ "events", "dd/d51/a23850.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
-    [ "ground", "dd/d51/a23850.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
-    [ "infernalGUID", "dd/d51/a23850.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
+    [ "npc_lord_illidan_stormrageAI", "dd/d51/a23850.html#a3b48b42c72b51bbdb222f6cd03e50ec8", null ],
+    [ "AttackStart", "dd/d51/a23850.html#a5f73b83a07f24403cf55de7ef485c003", null ],
+    [ "CheckEventFail", "dd/d51/a23850.html#aef1607c2132ae78b45d4f209a4320a88", null ],
+    [ "JustEngagedWith", "dd/d51/a23850.html#af7166b3c7401a74615cdb5c0964200f6", null ],
+    [ "LiveCounter", "dd/d51/a23850.html#a625b2891d3f9807da7733f678ea29313", null ],
+    [ "MoveInLineOfSight", "dd/d51/a23850.html#a5c2313ac5767339cd26196f52ff05c5f", null ],
+    [ "Reset", "dd/d51/a23850.html#a035b85302d54adf9bd7af82cadfd0317", null ],
+    [ "SummonNextWave", "dd/d51/a23850.html#a240ee54d49248a1700e767568fe93648", null ],
+    [ "UpdateAI", "dd/d51/a23850.html#a9cf7d73c5f81980c08f785dc3af47dec", null ],
+    [ "Announced", "dd/d51/a23850.html#a448ba6e2b21273b8e07b6d0a79e856e2", null ],
+    [ "AnnounceTimer", "dd/d51/a23850.html#a7037e4b43f274f3e2ce45143c029b070", null ],
+    [ "EventStarted", "dd/d51/a23850.html#a41b3b39d2ea0eeca4b60960f3a903ee8", null ],
+    [ "Failed", "dd/d51/a23850.html#aba564e34f0358d6c2a3c6ae91e17bf10", null ],
+    [ "LiveCount", "dd/d51/a23850.html#ab86239a6470a82749f96eb5515c46c59", null ],
+    [ "PlayerGUID", "dd/d51/a23850.html#af30c5c09f0262479b8920269f7bf198a", null ],
+    [ "WaveCount", "dd/d51/a23850.html#abdd03400f582e9477bb376e2b34e7a0e", null ],
+    [ "WaveTimer", "dd/d51/a23850.html#ae727157e6b52817051fea075c2cb7cb1", null ]
 ];

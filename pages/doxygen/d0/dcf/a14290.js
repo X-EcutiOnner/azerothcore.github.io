@@ -1,5 +1,6 @@
 var a14290 =
 [
-    [ "at_zulgurub_edge_of_madness_speech", "d0/dcf/a14290.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
-    [ "_OnTrigger", "d0/dcf/a14290.html#a725de49be12116f2f7e77edd31a096ae", null ]
+    [ "boss_grilekAI", "d4/d2c/a14294.html", "d4/d2c/a14294" ],
+    [ "boss_grilek", "d0/dcf/a14290.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "d0/dcf/a14290.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

@@ -1,8 +1,6 @@
 var a24070 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "da/dc3/a24070.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "da/dc3/a24070.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "da/dc3/a24070.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "da/dc3/a24070.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "da/dc3/a24070.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "DeathEvent", "da/dc3/a24070.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "da/dc3/a24070.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "da/dc3/a24070.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

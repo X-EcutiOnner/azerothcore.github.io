@@ -1,6 +1,6 @@
 var a23238 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "d8/df4/a23242.html", "d8/df4/a23242" ],
-    [ "instance_blood_furnace", "da/df3/a23238.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "da/df3/a23238.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "HandleScriptEffect", "da/df3/a23238.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
+    [ "PrepareSpellScript", "da/df3/a23238.html#a287bff28e57a86f0176921500de78fa9", null ],
+    [ "Register", "da/df3/a23238.html#ad5fb101794dfdef0c08551dd9397b965", null ]
 ];

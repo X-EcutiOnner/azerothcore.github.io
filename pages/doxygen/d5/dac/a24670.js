@@ -1,8 +1,6 @@
 var a24670 =
 [
-    [ "HandleSchoolDMG", "d5/dac/a24670.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "d5/dac/a24670.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "d5/dac/a24670.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "d5/dac/a24670.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "d5/dac/a24670.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "CheckProc", "d5/dac/a24670.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
+    [ "PrepareAuraScript", "d5/dac/a24670.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
+    [ "Register", "d5/dac/a24670.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
 ];

@@ -1,9 +1,7 @@
 var a19502 =
 [
-    [ "HandleApply", "d4/df9/a19502.html#a29679ed64fc288dc0e85beed2971d4be", null ],
-    [ "HandleRemove", "d4/df9/a19502.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
-    [ "Load", "d4/df9/a19502.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
-    [ "PrepareAuraScript", "d4/df9/a19502.html#a2804f25643e59f3922291abcb055b641", null ],
-    [ "Register", "d4/df9/a19502.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
-    [ "Validate", "d4/df9/a19502.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
+    [ "Load", "d4/df9/a19502.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
+    [ "PrepareSpellScript", "d4/df9/a19502.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
+    [ "Register", "d4/df9/a19502.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
+    [ "SetDest", "d4/df9/a19502.html#a231a75702f4a98f51d1be45510c5d05f", null ]
 ];

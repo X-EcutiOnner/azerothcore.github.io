@@ -1,7 +1,6 @@
 var a27230 =
 [
-    [ "HandleScriptEffect", "d5/ddd/a27230.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
-    [ "PrepareSpellScript", "d5/ddd/a27230.html#a7462fbeab2254046e12a262418ec0d2c", null ],
-    [ "Register", "d5/ddd/a27230.html#ac14625182eb0289d8536ac322500ab45", null ],
-    [ "Validate", "d5/ddd/a27230.html#a190b802f3b09655886e5bbb9980375af", null ]
+    [ "PeriodicTick", "d5/ddd/a27230.html#a14e79a7bb4a5b11ddc74ab366e79a907", null ],
+    [ "PrepareAuraScript", "d5/ddd/a27230.html#a0448cdf379053396f8649946e52ce690", null ],
+    [ "Register", "d5/ddd/a27230.html#a2dab21ddb3c33341d560643d27042402", null ]
 ];

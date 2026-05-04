@@ -1,12 +1,5 @@
 var a16126 =
 [
-    [ "npc_taldaram_flamesphere", "d1/d57/a16126.html#aad7d6696b54e39c6abd27a7252353360", null ],
-    [ "DoAction", "d1/d57/a16126.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
-    [ "IsSummonedBy", "d1/d57/a16126.html#acb232931bc181eedf4b39d5519dd45e2", null ],
-    [ "JustDied", "d1/d57/a16126.html#ae6dfff3df39257c55495707934d5d38b", null ],
-    [ "SetVictimPos", "d1/d57/a16126.html#a51f1683806095c760d4accff9e23f8b6", null ],
-    [ "UpdateAI", "d1/d57/a16126.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
-    [ "instance", "d1/d57/a16126.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
-    [ "moveTimer", "d1/d57/a16126.html#afe50ac59ec441ab11745ca9461158a00", null ],
-    [ "victimPos", "d1/d57/a16126.html#ae681d84f2324faf22296dcb6e08484b0", null ]
+    [ "achievement_respect_your_elders", "d1/d57/a16126.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
+    [ "OnCheck", "d1/d57/a16126.html#a770922be3ab19848f7a8f43a82d78b88", null ]
 ];

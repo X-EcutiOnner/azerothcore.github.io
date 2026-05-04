@@ -1,12 +1,12 @@
 var a11654 =
 [
-    [ "WorldObjectSpellTargetCheck", "d5/d96/a11654.html#a370a66c484d486ac6d2d3419a019c7cd", null ],
-    [ "~WorldObjectSpellTargetCheck", "d5/d96/a11654.html#a1d519b04f171d230b21da3cc637497cf", null ],
-    [ "operator()", "d5/d96/a11654.html#a2ae263977948d2195b22a737c36bad20", null ],
-    [ "_caster", "d5/d96/a11654.html#ac090f8e47bcdfccb85fb791856355827", null ],
-    [ "_condList", "d5/d96/a11654.html#a70b9331b5871e2e4d92d642715c8192a", null ],
-    [ "_condSrcInfo", "d5/d96/a11654.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
-    [ "_referer", "d5/d96/a11654.html#a1a24eaafdf716de984a5943e049d10f7", null ],
-    [ "_spellInfo", "d5/d96/a11654.html#a66bd07338943ee307be19f22326b29b7", null ],
-    [ "_targetSelectionType", "d5/d96/a11654.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
+    [ "SpellDestination", "d5/d96/a11654.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "d5/d96/a11654.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "d5/d96/a11654.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "d5/d96/a11654.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "d5/d96/a11654.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "d5/d96/a11654.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "d5/d96/a11654.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "d5/d96/a11654.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "d5/d96/a11654.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

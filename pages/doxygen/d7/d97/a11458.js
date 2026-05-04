@@ -1,7 +1,6 @@
 var a11458 =
 [
-    [ "OpcodeHandler", "db/d5b/a05007.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "db/d5b/a05007.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "db/d5b/a05007.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "db/d5b/a05007.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "CorpseMapPositionQuery", "d7/d97/a11458.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "d7/d97/a11458.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "d7/d97/a11458.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

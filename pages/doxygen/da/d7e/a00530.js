@@ -1,4 +1,4 @@
 var a00530 =
 [
-    [ "WorldMapScript", "d8/d5d/a10737.html", "d8/d5d/a10737" ]
+    [ "ConditionScript", "db/d64/a10634.html", "db/d64/a10634" ]
 ];

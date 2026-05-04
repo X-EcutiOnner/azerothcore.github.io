@@ -1,9 +1,6 @@
 var a09350 =
 [
-    [ "CellArea", "d4/ddb/a09350.html#ace8ca84753b4ec8681415386fb135053", null ],
-    [ "CellArea", "d4/ddb/a09350.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
-    [ "operator!", "d4/ddb/a09350.html#a386d4a562c27155012daedc361541e3b", null ],
-    [ "ResizeBorders", "d4/ddb/a09350.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
-    [ "high_bound", "d4/ddb/a09350.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
-    [ "low_bound", "d4/ddb/a09350.html#a374fe9802c798e6ece359a8025b6e1df", null ]
+    [ "Conditions", "d4/ddb/a09350.html#a93edc2f0d71164b683c844b713befa85", null ],
+    [ "MenuID", "d4/ddb/a09350.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
+    [ "TextID", "d4/ddb/a09350.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
 ];

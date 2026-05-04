@@ -1,6 +1,8 @@
 var a21330 =
 [
-    [ "HandleEffect", "d3/dac/a21330.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
-    [ "PrepareSpellScript", "d3/dac/a21330.html#aec199e9f9651267fac88bd86be326bb4", null ],
-    [ "Register", "d3/dac/a21330.html#a14bd854db86750704c8377d457dea360", null ]
+    [ "npc_shandy_dalaranAI", "d4/d11/a21334.html", "d4/d11/a21334" ],
+    [ "npc_shandy_dalaran", "d3/dac/a21330.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "d3/dac/a21330.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "d3/dac/a21330.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "d3/dac/a21330.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

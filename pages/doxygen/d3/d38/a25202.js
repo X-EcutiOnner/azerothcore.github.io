@@ -1,9 +1,7 @@
 var a25202 =
 [
-    [ "spell_gen_translocate", "d3/d38/a25202.html#a56a3df0eba3e1521aa2898194c39e919", null ],
-    [ "HandleScript", "d3/d38/a25202.html#a67684fb76da60fdc13dbece055dae157", null ],
-    [ "PrepareSpellScript", "d3/d38/a25202.html#a6f0986e54ad410c2f42a7935645485ed", null ],
-    [ "Register", "d3/d38/a25202.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
-    [ "Validate", "d3/d38/a25202.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
-    [ "_spellId", "d3/d38/a25202.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
+    [ "HandleProc", "d3/d38/a25202.html#af2da4e2be8fbb73a398308a0cdc86112", null ],
+    [ "PrepareAuraScript", "d3/d38/a25202.html#af463b573b0202e74f77c46fadca3b5e0", null ],
+    [ "Register", "d3/d38/a25202.html#a6e435d0802370379fa0d1707442eaa58", null ],
+    [ "Validate", "d3/d38/a25202.html#a1fe293134b3f57386ab412357ce968e4", null ]
 ];

@@ -1,7 +1,6 @@
 var a14030 =
 [
-    [ "boss_blight_wormAI", "d0/df8/a14030.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "d0/df8/a14030.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "d0/df8/a14030.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "d0/df8/a14030.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_highborne_lamenterAI", "d5/dee/a14034.html", "d5/dee/a14034" ],
+    [ "npc_highborne_lamenter", "d0/df8/a14030.html#a40316cf73a688e34e95dd41feef8612a", null ],
+    [ "GetAI", "d0/df8/a14030.html#aad8ccb43b325b797f60a16e338458a1e", null ]
 ];

@@ -1,109 +1,156 @@
 var a03956 =
 [
-    [ "npc_vh_teleportation_portal", "df/d5f/a21097.html", "df/d5f/a21097" ],
-    [ "violet_hold_trashAI", "d3/dae/a21101.html", "d3/dae/a21101" ],
-    [ "npc_azure_invader", "dc/d37/a21105.html", "dc/d37/a21105" ],
-    [ "npc_azure_binder", "d1/d62/a21109.html", "d1/d62/a21109" ],
-    [ "npc_azure_mage_slayer", "d3/d77/a21113.html", "d3/d77/a21113" ],
-    [ "npc_azure_raider", "de/dce/a21117.html", "de/dce/a21117" ],
-    [ "npc_azure_stalker", "de/d49/a21121.html", "de/d49/a21121" ],
-    [ "npc_azure_spellbreaker", "d6/d27/a21125.html", "d6/d27/a21125" ],
-    [ "npc_azure_captain", "d8/d81/a21129.html", "d8/d81/a21129" ],
-    [ "npc_azure_sorceror", "d7/d3f/a21133.html", "d7/d3f/a21133" ],
-    [ "npc_azure_saboteur", "d3/dcc/a21137.html", "d3/dcc/a21137" ],
-    [ "spell_destroy_door_seal_aura", "da/d22/a21141.html", "da/d22/a21141" ],
-    [ "npc_violet_hold_defense_system", "dd/d3e/a21145.html", "dd/d3e/a21145" ],
-    [ "AzureBinderSpells", "d3/d8f/a03956.html#ac8ac5bae2b6aba2c00fdae1c893e94f0", [
-      [ "SPELL_ARCANE_BARRAGE", "d3/d8f/a03956.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a3afb459a719cb129b98a146ade206c97", null ],
-      [ "SPELL_ARCANE_EXPLOSION", "d3/d8f/a03956.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a6cef4c5e88133771f6b27aec8b8cfdce", null ],
-      [ "SPELL_FROST_NOVA", "d3/d8f/a03956.html#ac8ac5bae2b6aba2c00fdae1c893e94f0ab913503b67c5b8f901cfc4f207bcba03", null ],
-      [ "SPELL_FROSTBOLT", "d3/d8f/a03956.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a1c6a7f86c2818960d6f6f23a4554e39e", null ]
+    [ "DataHeader", "d3/d8f/a03956.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterVioletHoldCreatureAI", "d3/d8f/a03956.html#a7f25ee334f81084a21cbbe9079f27bed", null ],
+    [ "VioletHoldScriptName", "d3/d8f/a03956.html#a92b83fed6edd347210e482742fef71a6", null ],
+    [ "VHAchievCriteria", "d3/d8f/a03956.html#a895f0b1a53d4bf190879bf5ebcceef1e", [
+      [ "CRITERIA_DEFENSELESS", "d3/d8f/a03956.html#a895f0b1a53d4bf190879bf5ebcceef1ea2c7dcb6d482e7cda899509e5e91d3af9", null ],
+      [ "CRITERIA_A_VOID_DANCE", "d3/d8f/a03956.html#a895f0b1a53d4bf190879bf5ebcceef1eadf51f15d2ff829e0247ca376b02d71a2", null ],
+      [ "CRITERIA_DEHYDRATION", "d3/d8f/a03956.html#a895f0b1a53d4bf190879bf5ebcceef1ea6b837aacbdf0326bdb2026d8c373ed4d", null ]
     ] ],
-    [ "AzureCaptainSpells", "d3/d8f/a03956.html#af46bd9d15b0cae9e73316c52a10611b9", [
-      [ "SPELL_MORTAL_STRIKE", "d3/d8f/a03956.html#af46bd9d15b0cae9e73316c52a10611b9a7794ace87705e2898f8b60f1f5228110", null ],
-      [ "SPELL_WHIRLWIND_OF_STEEL", "d3/d8f/a03956.html#af46bd9d15b0cae9e73316c52a10611b9ad699aed428dc8515d66185aefa658efd", null ]
+    [ "VHActions", "d3/d8f/a03956.html#abe6992bac2d8052f606da958bd11d80e", [
+      [ "ACTION_START_INSTANCE", "d3/d8f/a03956.html#abe6992bac2d8052f606da958bd11d80ea555eabbe9272cf62392020f7d6cfa25a", null ],
+      [ "ACTION_PORTAL_DEFEATED", "d3/d8f/a03956.html#abe6992bac2d8052f606da958bd11d80ea03c212af733c1bcf555938b2559bc56c", null ],
+      [ "ACTION_RELEASE_BOSS", "d3/d8f/a03956.html#abe6992bac2d8052f606da958bd11d80eabdbdc5c3883b94b52ef81f9b5b238996", null ],
+      [ "ACTION_DECREASE_DOOR_HEALTH", "d3/d8f/a03956.html#abe6992bac2d8052f606da958bd11d80ead5b7e3328018464265ad7409eb25c7c6", null ]
     ] ],
-    [ "AzureInvaderSpells", "d3/d8f/a03956.html#ae59925ffe1ee1844f14b8f5192b50e50", [
-      [ "SPELL_CLEAVE", "d3/d8f/a03956.html#ae59925ffe1ee1844f14b8f5192b50e50a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
-      [ "SPELL_IMPALE", "d3/d8f/a03956.html#ae59925ffe1ee1844f14b8f5192b50e50aed97c932510c91b6057175b2df166f63", null ],
-      [ "SPELL_BRUTAL_STRIKE", "d3/d8f/a03956.html#ae59925ffe1ee1844f14b8f5192b50e50abd5215af7b4cc0aa95176300a5e47b0d", null ],
-      [ "SPELL_SUNDER_ARMOR", "d3/d8f/a03956.html#ae59925ffe1ee1844f14b8f5192b50e50a99eaf912c120c7fa6d85748ebf96aebb", null ]
+    [ "VHBosses", "d3/d8f/a03956.html#a93d4da7f36c949518d64ea14290a0d82", [
+      [ "DATA_1ST_BOSS", "d3/d8f/a03956.html#a93d4da7f36c949518d64ea14290a0d82a6404eb5c161ce3ee285a53f937d6fdf2", null ],
+      [ "DATA_2ND_BOSS", "d3/d8f/a03956.html#a93d4da7f36c949518d64ea14290a0d82a3d4c13e581a9bf2a26febabaa9401633", null ],
+      [ "DATA_CYANIGOSA", "d3/d8f/a03956.html#a93d4da7f36c949518d64ea14290a0d82a89e073ead98e9cfcbe9430e8054a14aa", null ],
+      [ "MAX_ENCOUNTER", "d3/d8f/a03956.html#a93d4da7f36c949518d64ea14290a0d82a7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "BOSS_MORAGG", "d3/d8f/a03956.html#a93d4da7f36c949518d64ea14290a0d82a49e70437ececa3de19d53862c9746494", null ],
+      [ "BOSS_EREKEM", "d3/d8f/a03956.html#a93d4da7f36c949518d64ea14290a0d82a68498e12112021ca3a8aa39f6db522c0", null ],
+      [ "BOSS_ICHORON", "d3/d8f/a03956.html#a93d4da7f36c949518d64ea14290a0d82afa4ecbdd24fa570eb2c7e25ea7290e44", null ],
+      [ "BOSS_LAVANTHOR", "d3/d8f/a03956.html#a93d4da7f36c949518d64ea14290a0d82a5270712ee1bea8386626d3fea30877c7", null ],
+      [ "BOSS_XEVOZZ", "d3/d8f/a03956.html#a93d4da7f36c949518d64ea14290a0d82a1b38cbc84502f5e31bced4ad1b052100", null ],
+      [ "BOSS_ZURAMAT", "d3/d8f/a03956.html#a93d4da7f36c949518d64ea14290a0d82a1e1505d04476f93c2464a92b3750cb4d", null ],
+      [ "MAX_BOSS", "d3/d8f/a03956.html#a93d4da7f36c949518d64ea14290a0d82a660b9e3ba81a13e961394b908fdd2fc6", null ]
     ] ],
-    [ "AzureMageSlayerSpells", "d3/d8f/a03956.html#ac78605d6efa18baead82e805c7f0f20f", [
-      [ "SPELL_ARCANE_EMPOWERMENT", "d3/d8f/a03956.html#ac78605d6efa18baead82e805c7f0f20fa2a0c7483481c9f46b5abace7844ce0c1", null ],
-      [ "SPELL_SPELL_LOCK", "d3/d8f/a03956.html#ac78605d6efa18baead82e805c7f0f20fa224d41981eead3a852d629c3d9a3c734", null ]
+    [ "VHCreatures", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fd", [
+      [ "NPC_TELEPORTATION_PORTAL", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fdae3a118d7269afc21b3398e745a6eaad2", null ],
+      [ "NPC_DEFENSE_SYSTEM", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda9132dbb7e224c1b476917674cae5dd28", null ],
+      [ "NPC_PRISON_DOOR_SEAL", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda13a3c71269462465269120eb901fed35", null ],
+      [ "NPC_DEFENSE_DUMMY_TARGET", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fdae574f06e115eeb0ad9aadd7f9e7ffc6f", null ],
+      [ "NPC_SINCLARI", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda8f7444b04596b5af383d74be70d97c13", null ],
+      [ "NPC_VIOLET_HOLD_GUARD", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda75d9a118fd53851181659a07edb75d35", null ],
+      [ "NPC_SABOTEOUR", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda3803083cea94934b848b3023dd91e1a0", null ],
+      [ "NPC_XEVOZZ", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda986d0b33665e5b760f9007f28dc3d382", null ],
+      [ "NPC_LAVANTHOR", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda496b42f58e0553ff3583bd8f8efe59e6", null ],
+      [ "NPC_ICHORON", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda833709b6f0f4420b7a0b7b059513e694", null ],
+      [ "NPC_ZURAMAT", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda87083a9f428ec24ea432fb05745279b9", null ],
+      [ "NPC_EREKEM", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda6b11507e7663b4faf60ca94a4a3a95a2", null ],
+      [ "NPC_EREKEM_GUARD", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda0cc4acf3fec9fdc88632063f505cc7ca", null ],
+      [ "NPC_MORAGG", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda6e4d926384ba52fc896c65b81c19b18c", null ],
+      [ "NPC_CYANIGOSA", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda7747b0a8a3bed4ad48b3579eedb5cb1f", null ],
+      [ "NPC_PORTAL_GUARDIAN", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fdae092e4fa982331f6b3c2feda0fa11cff", null ],
+      [ "NPC_PORTAL_KEEPER_1", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fdaea08ff310ee1bf320fb1248cfa315ab4", null ],
+      [ "NPC_PORTAL_KEEPER_2", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda52363eb739476da7d7513415a2ede492", null ],
+      [ "NPC_AZURE_INVADER_1", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fdaf20a3af8d218ff280bb0188c62a29672", null ],
+      [ "NPC_AZURE_INVADER_2", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda9fa07bf0069a05b4fd6dec3d83681b42", null ],
+      [ "NPC_AZURE_SPELLBREAKER_1", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fdaa75252b46a683eccfaaad37f1a843781", null ],
+      [ "NPC_AZURE_SPELLBREAKER_2", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda113fc6b3ce53913ebf02a9899637fe1d", null ],
+      [ "NPC_AZURE_BINDER_1", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda37098081d18f200d0e58fee5f2375735", null ],
+      [ "NPC_AZURE_BINDER_2", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda2e2b10f482a1411ba0903af45bca542d", null ],
+      [ "NPC_AZURE_MAGE_SLAYER_1", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda7c6bd12ae52986083ef52674b9faa0a9", null ],
+      [ "NPC_AZURE_MAGE_SLAYER_2", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda40d85fe945ae4821199dd432d391e5fe", null ],
+      [ "NPC_AZURE_CAPTAIN", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fdacf739e85d59c06eec4902f13bc565fe1", null ],
+      [ "NPC_AZURE_SORCEROR", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fda5915a0993a6885ea78af43a4a71ed158", null ],
+      [ "NPC_AZURE_RAIDER", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fdacdf52ce130a3859a52c6aab654d7290f", null ],
+      [ "NPC_AZURE_STALKER", "d3/d8f/a03956.html#a0f05f91fd722eb5a8cc993aaca3c15fdaae2978e3479a298d86d8c5c57b0c734c", null ]
     ] ],
-    [ "AzureRaiderSpells", "d3/d8f/a03956.html#a4d1c4ff51073f003f5d430153811d5d6", [
-      [ "SPELL_CONCUSSION_BLOW", "d3/d8f/a03956.html#a4d1c4ff51073f003f5d430153811d5d6a24c8037a8967fd1efcb106b022a3aa5b", null ],
-      [ "SPELL_MAGIC_REFLECTION", "d3/d8f/a03956.html#a4d1c4ff51073f003f5d430153811d5d6afd79f0e7035448d8f649e3282deb75dd", null ]
+    [ "VHData", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80", [
+      [ "DATA_SINCLARI", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80abc7225558086549c54bfcc3991418149", null ],
+      [ "DATA_DOOR_SEAL", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a6bec23f0ba4dfbe20cd1982b69f64b79", null ],
+      [ "DATA_TELEPORTATION_PORTAL", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a776b63418d45c9c3501049f754fc0bf0", null ],
+      [ "DATA_MAIN_DOOR", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a8203e2ecd1b07acc4b7536e641ee5029", null ],
+      [ "DATA_MORAGG_CELL", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80ae121092839706733b71c636b1ca9b9ab", null ],
+      [ "DATA_EREKEM_CELL", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a8abe13150647bf76807cf298ecc3b044", null ],
+      [ "DATA_EREKEM_GUARD_1_CELL", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a559b8fca2ceb7c12e45e184216ca7853", null ],
+      [ "DATA_EREKEM_GUARD_2_CELL", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80abf5bd33b0cef94dde21388be6dedb4cd", null ],
+      [ "DATA_ICHORON_CELL", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80ae8e4a359bfda90e3069bfedaeb0c9223", null ],
+      [ "DATA_LAVANTHOR_CELL", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a1e747f1696b47d01d4703c1a63c5ac9d", null ],
+      [ "DATA_XEVOZZ_CELL", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a8acd92e22bb16c14dee7a0d408adff63", null ],
+      [ "DATA_ZURAMAT_CELL", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a133ad5921853a9fc07440e31642cd63c", null ],
+      [ "DATA_ENCOUNTER_STATUS", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a06e771c0d2e0da47d4fd955db056b0c4", null ],
+      [ "DATA_ADD_TRASH_MOB", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a449b19f3bebee5f7f2217c277b0f894e", null ],
+      [ "DATA_DELETE_TRASH_MOB", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a0b6308febcdfd661a238367b497b7779", null ],
+      [ "DATA_WAVE_COUNT", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a862f0c9134c86e397112353ef49530a7", null ],
+      [ "DATA_PORTAL_LOCATION", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a9a478c99cb73b1b3495c4320ecdefce7", null ],
+      [ "DATA_ACHIEV", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a017589bf4c8a9c402a3a436adbd2a933", null ],
+      [ "DATA_EREKEM_GUARD_1_GUID", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80aab57a9aa19fb76748c2b8e8f3c310a64", null ],
+      [ "DATA_EREKEM_GUARD_2_GUID", "d3/d8f/a03956.html#a543dcb5e72bf511136d67291c2881f80a814d3c25fcbfae4755942da0fdab46c8", null ]
     ] ],
-    [ "AzureSaboteurSpells", "d3/d8f/a03956.html#a77eb14328c7227c669ae9a03984a5b97", [
-      [ "SABOTEUR_SHIELD_DISRUPTION", "d3/d8f/a03956.html#a77eb14328c7227c669ae9a03984a5b97ad925124be9a18f2a765337503fe1ffed", null ],
-      [ "SABOTEUR_SHIELD_EFFECT", "d3/d8f/a03956.html#a77eb14328c7227c669ae9a03984a5b97ac1041b30568f58695d6f34546f88b75c", null ],
-      [ "SPELL_TELEPORT_VISUAL", "d3/d8f/a03956.html#a77eb14328c7227c669ae9a03984a5b97a73cc106ecf58fcd3a75fa23f9ff7a21c", null ]
+    [ "VHGameObjects", "d3/d8f/a03956.html#a65f60397d6fe59dc180d39acd7a5a7af", [
+      [ "GO_MAIN_DOOR", "d3/d8f/a03956.html#a65f60397d6fe59dc180d39acd7a5a7afafa798689fdcee700c400c85cbfb2ee52", null ],
+      [ "GO_XEVOZZ_DOOR", "d3/d8f/a03956.html#a65f60397d6fe59dc180d39acd7a5a7afa0163c0b2425a6bc5658f01e6b42d4cdb", null ],
+      [ "GO_LAVANTHOR_DOOR", "d3/d8f/a03956.html#a65f60397d6fe59dc180d39acd7a5a7afa7e658f0f810fd3b4604c4efbdb19929f", null ],
+      [ "GO_ICHORON_DOOR", "d3/d8f/a03956.html#a65f60397d6fe59dc180d39acd7a5a7afa14871e5e8c321950cc6b5457377582ba", null ],
+      [ "GO_ZURAMAT_DOOR", "d3/d8f/a03956.html#a65f60397d6fe59dc180d39acd7a5a7afac4935b9ec527989b2941ca5459fd36ae", null ],
+      [ "GO_EREKEM_DOOR", "d3/d8f/a03956.html#a65f60397d6fe59dc180d39acd7a5a7afa8aa891807993047fd392a3656d0a0903", null ],
+      [ "GO_EREKEM_GUARD_1_DOOR", "d3/d8f/a03956.html#a65f60397d6fe59dc180d39acd7a5a7afaf94f5611649581554882afef0efcd78f", null ],
+      [ "GO_EREKEM_GUARD_2_DOOR", "d3/d8f/a03956.html#a65f60397d6fe59dc180d39acd7a5a7afaf1386241d0c621a54086d02c97abf596", null ],
+      [ "GO_MORAGG_DOOR", "d3/d8f/a03956.html#a65f60397d6fe59dc180d39acd7a5a7afaa6cfbb45ee0f66eb7d68aadcd8631b50", null ],
+      [ "GO_INTRO_ACTIVATION_CRYSTAL", "d3/d8f/a03956.html#a65f60397d6fe59dc180d39acd7a5a7afabb9c7599f6170b8bd46a3c9cafd38a39", null ],
+      [ "GO_ACTIVATION_CRYSTAL", "d3/d8f/a03956.html#a65f60397d6fe59dc180d39acd7a5a7afa2fdf0ea06d4af656c914d2723841253a", null ]
     ] ],
-    [ "AzureSorcerorSpells", "d3/d8f/a03956.html#a234a6cf28e39a194632aa43a77e92096", [
-      [ "SPELL_ARCANE_STREAM", "d3/d8f/a03956.html#a234a6cf28e39a194632aa43a77e92096a30a51557ca182650489da485f07a82b7", null ],
-      [ "SPELL_MANA_DETONATION", "d3/d8f/a03956.html#a234a6cf28e39a194632aa43a77e92096ae1f24b34bd2d1354627cad7f887d8b85", null ]
+    [ "VHInstanceEvents", "d3/d8f/a03956.html#af19b6dc055e892aff8cfd0b3039648b6", [
+      [ "EVENT_CHECK_PLAYERS", "d3/d8f/a03956.html#af19b6dc055e892aff8cfd0b3039648b6a6c1847babeb1b838631eee5b2af3dc2b", null ],
+      [ "EVENT_GUARDS_FALL_BACK", "d3/d8f/a03956.html#af19b6dc055e892aff8cfd0b3039648b6ab98bc03cbfa25651286bd8a813269a16", null ],
+      [ "EVENT_GUARDS_DISAPPEAR", "d3/d8f/a03956.html#af19b6dc055e892aff8cfd0b3039648b6a093de4c13a88dc9ec3007a651faac4bc", null ],
+      [ "EVENT_SINCLARI_FALL_BACK", "d3/d8f/a03956.html#af19b6dc055e892aff8cfd0b3039648b6aaa288f6b89cc47c34e2c5643fe0d64c5", null ],
+      [ "EVENT_START_ENCOUNTER", "d3/d8f/a03956.html#af19b6dc055e892aff8cfd0b3039648b6a087e31fd0821534fc9e9529338298d21", null ],
+      [ "EVENT_SUMMON_PORTAL", "d3/d8f/a03956.html#af19b6dc055e892aff8cfd0b3039648b6ab34f7af37adf5003774cf2ecf6a5f823", null ],
+      [ "EVENT_CYANIGOSA_TRANSFORM", "d3/d8f/a03956.html#af19b6dc055e892aff8cfd0b3039648b6a613c69bf33c5c71ff592594510b76dbb", null ],
+      [ "EVENT_CYANIGOSA_ATTACK", "d3/d8f/a03956.html#af19b6dc055e892aff8cfd0b3039648b6adaf30b69e230ca4dee420d88e93c588f", null ],
+      [ "EVENT_ARCANE_LIGHTNING", "d3/d8f/a03956.html#af19b6dc055e892aff8cfd0b3039648b6a2db5971980a15c0eee436c18a862a40b", null ],
+      [ "EVENT_ACTIVATE_CRYSTAL", "d3/d8f/a03956.html#af19b6dc055e892aff8cfd0b3039648b6afd29c05159f40497e07ee2f5231997d1", null ]
     ] ],
-    [ "AzureSpellbreakerSpells", "d3/d8f/a03956.html#a158603b6fe3ddb2baf3e95de37a5dcc2", [
-      [ "SPELL_ARCANE_BLAST", "d3/d8f/a03956.html#a158603b6fe3ddb2baf3e95de37a5dcc2af122c6c3fe00bd98cedb873409dc4803", null ],
-      [ "SPELL_SLOW", "d3/d8f/a03956.html#a158603b6fe3ddb2baf3e95de37a5dcc2a8c3d41eb1b68da0f3943e5df04bfcb5c", null ],
-      [ "SPELL_CHAINS_OF_ICE", "d3/d8f/a03956.html#a158603b6fe3ddb2baf3e95de37a5dcc2ae1f0efa4026f86ebb692786585cec455", null ],
-      [ "SPELL_CONE_OF_COLD", "d3/d8f/a03956.html#a158603b6fe3ddb2baf3e95de37a5dcc2ab066547e004691aae6b23d39f4c0da4b", null ]
+    [ "VHPersistentData", "d3/d8f/a03956.html#a7f7fea12c5fea5ba6f59b43e2ded013b", [
+      [ "PERSISTENT_DATA_FIRST_BOSS", "d3/d8f/a03956.html#a7f7fea12c5fea5ba6f59b43e2ded013baebd281c3cdd389c447a7ce71c0be8aca", null ],
+      [ "PERSISTENT_DATA_SECOND_BOSS", "d3/d8f/a03956.html#a7f7fea12c5fea5ba6f59b43e2ded013ba3b2311526eee5dbaab6dc94c2fc61c05", null ],
+      [ "PERSISTENT_DATA_COUNT", "d3/d8f/a03956.html#a7f7fea12c5fea5ba6f59b43e2ded013ba327cde1f8f9908a139da6e4deb38dc76", null ]
     ] ],
-    [ "AzureStalkerSpells", "d3/d8f/a03956.html#a79fc2957bc9c07cbe31064cd981b5663", [
-      [ "SPELL_BACKSTAB", "d3/d8f/a03956.html#a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68", null ],
-      [ "SPELL_TACTICAL_BLINK", "d3/d8f/a03956.html#a79fc2957bc9c07cbe31064cd981b5663a5f9f321e45ec4cf0e5e156021cd85402", null ]
+    [ "VHSpells", "d3/d8f/a03956.html#aa2d25b105d4377f355576c5ccb1dd302", [
+      [ "SPELL_CONTROL_CRYSTAL_ACTIVATION", "d3/d8f/a03956.html#aa2d25b105d4377f355576c5ccb1dd302a2591c22e9ce3ae7dd9c2109f970584ae", null ],
+      [ "SPELL_DEFENSE_SYSTEM_SPAWN_EFFECT", "d3/d8f/a03956.html#aa2d25b105d4377f355576c5ccb1dd302a24c1b5043c1527db8d6914a8fb02986f", null ],
+      [ "SPELL_DEFENSE_SYSTEM_VISUAL", "d3/d8f/a03956.html#aa2d25b105d4377f355576c5ccb1dd302aad8d3cf64b7974e076e0a462f65bce58", null ],
+      [ "SPELL_ARCANE_LIGHTNING", "d3/d8f/a03956.html#aa2d25b105d4377f355576c5ccb1dd302a4db5d8cf30f4034d12288b47f45efb20", null ],
+      [ "SPELL_ARCANE_LIGHTNING_VISUAL", "d3/d8f/a03956.html#aa2d25b105d4377f355576c5ccb1dd302a53154198d91f02a577bca9becc42372f", null ],
+      [ "SPELL_ARCANE_LIGHTNING_INSTAKILL", "d3/d8f/a03956.html#aa2d25b105d4377f355576c5ccb1dd302af916fe2f489b0184eabb968ba40548f6", null ],
+      [ "SPELL_PORTAL_CHANNEL", "d3/d8f/a03956.html#aa2d25b105d4377f355576c5ccb1dd302a8272276437fd40e37731f25ab91a0dca", null ],
+      [ "SPELL_DESTROY_DOOR_SEAL", "d3/d8f/a03956.html#aa2d25b105d4377f355576c5ccb1dd302a2ed27d2f164982bd3119a136ea526449", null ],
+      [ "SPELL_CYANIGOSA_TRANSFORM", "d3/d8f/a03956.html#aa2d25b105d4377f355576c5ccb1dd302aef6c1ad4826a0502ebf28acc6f6caf46", null ],
+      [ "SPELL_CYANIGOSA_BLUE_AURA", "d3/d8f/a03956.html#aa2d25b105d4377f355576c5ccb1dd302a12526c90ac8de37b7735c409f2712960", null ]
     ] ],
-    [ "BinderEvents", "d3/d8f/a03956.html#a4bb0a56f6436235bc98f40cfac8409e9", [
-      [ "EVENT_BINDER_ARCANE_EXPLOSION", "d3/d8f/a03956.html#a4bb0a56f6436235bc98f40cfac8409e9a63afe7fe626556d60ef561edbb5fd974", null ],
-      [ "EVENT_BINDER_ARCANE_BARRAGE", "d3/d8f/a03956.html#a4bb0a56f6436235bc98f40cfac8409e9ae6b06bad71b78733cf920fdeb54d9a97", null ],
-      [ "EVENT_BINDER_FROST_NOVA", "d3/d8f/a03956.html#a4bb0a56f6436235bc98f40cfac8409e9a5a64ff8ed1fd826b2619d44bec99dbe6", null ],
-      [ "EVENT_BINDER_FROSTBOLT", "d3/d8f/a03956.html#a4bb0a56f6436235bc98f40cfac8409e9a24c7bf49518fa324f3942699466e34df", null ]
-    ] ],
-    [ "CaptainEvents", "d3/d8f/a03956.html#a4dde00ab236b1d0505feebe5a51ece3c", [
-      [ "EVENT_CAPTAIN_MORTAL_STRIKE", "d3/d8f/a03956.html#a4dde00ab236b1d0505feebe5a51ece3caa792ffda443764c85bfe20bd3eb87172", null ],
-      [ "EVENT_CAPTAIN_WHIRLWIND", "d3/d8f/a03956.html#a4dde00ab236b1d0505feebe5a51ece3ca7b5e919f6bc10d86f528c593c08b60ae", null ]
-    ] ],
-    [ "InvaderEvents", "d3/d8f/a03956.html#a8b58b2b60d173f6f0229ce98da0f576d", [
-      [ "EVENT_INVADER_CLEAVE", "d3/d8f/a03956.html#a8b58b2b60d173f6f0229ce98da0f576dacab09c7df503347d7760f4d02e83472a", null ],
-      [ "EVENT_INVADER_IMPALE", "d3/d8f/a03956.html#a8b58b2b60d173f6f0229ce98da0f576dacc59cf0e666f4c5b8fadd48a5950d459", null ],
-      [ "EVENT_INVADER_BRUTAL_STRIKE", "d3/d8f/a03956.html#a8b58b2b60d173f6f0229ce98da0f576daace97d0d0843f602c01e225b1e1f990f", null ],
-      [ "EVENT_INVADER_SUNDER_ARMOR", "d3/d8f/a03956.html#a8b58b2b60d173f6f0229ce98da0f576daf5925e0fb11d845fe4f68963eb7121fd", null ]
-    ] ],
-    [ "MageSlayerEvents", "d3/d8f/a03956.html#a6006a65ff2a4b2635101fb8008f35437", [
-      [ "EVENT_MAGE_SLAYER_ARCANE_EMPOWERMENT", "d3/d8f/a03956.html#a6006a65ff2a4b2635101fb8008f35437aeb7e20e3f4f167e2468893cac3605e4a", null ],
-      [ "EVENT_MAGE_SLAYER_SPELL_LOCK", "d3/d8f/a03956.html#a6006a65ff2a4b2635101fb8008f35437ae5ca84c6982ea7e9178e71ea01b849fb", null ]
-    ] ],
-    [ "PortalEvents", "d3/d8f/a03956.html#a19f2c5217c4e583e2a2e3d499977a177", [
-      [ "EVENT_SUMMON_KEEPER_OR_GUARDIAN", "d3/d8f/a03956.html#a19f2c5217c4e583e2a2e3d499977a177aa892d532cfe73089b573009999e49707", null ],
-      [ "EVENT_SUMMON_KEEPER_TRASH", "d3/d8f/a03956.html#a19f2c5217c4e583e2a2e3d499977a177a518ebaf6b566ed755b032625f8ac973e", null ],
-      [ "EVENT_SUMMON_ELITES", "d3/d8f/a03956.html#a19f2c5217c4e583e2a2e3d499977a177a451936542d4fe56f8f10993c956007bc", null ],
-      [ "EVENT_SUMMON_SABOTEOUR", "d3/d8f/a03956.html#a19f2c5217c4e583e2a2e3d499977a177a94822388f728c343ac073a90c5d3a4f1", null ],
-      [ "EVENT_CHECK_DEATHS", "d3/d8f/a03956.html#a19f2c5217c4e583e2a2e3d499977a177a73f521266f6a8c0188f7ea4b61843c96", null ]
-    ] ],
-    [ "RaiderEvents", "d3/d8f/a03956.html#a06b78ef34eb909dec4b4e0770bf24120", [
-      [ "EVENT_RAIDER_CONCUSSION_BLOW", "d3/d8f/a03956.html#a06b78ef34eb909dec4b4e0770bf24120acf995c92e9446a8b511b40b1879ad123", null ],
-      [ "EVENT_RAIDER_MAGIC_REFLECTION", "d3/d8f/a03956.html#a06b78ef34eb909dec4b4e0770bf24120a0f7e587264c7b59c4b1079927493e3e3", null ]
-    ] ],
-    [ "SaboteurEvents", "d3/d8f/a03956.html#a61f0eb737d2d6575416d40c84f7d23ac", [
-      [ "EVENT_SABOTEUR_SHIELD_DISRUPTION", "d3/d8f/a03956.html#a61f0eb737d2d6575416d40c84f7d23aca3ba481a4a2d4cf944a28a5d7b532e84a", null ],
-      [ "EVENT_SABOTEUR_RELEASE_BOSS", "d3/d8f/a03956.html#a61f0eb737d2d6575416d40c84f7d23aca7a8d5de06f3e31793e053472a621017a", null ],
-      [ "EVENT_SABOTEUR_DISAPPEAR", "d3/d8f/a03956.html#a61f0eb737d2d6575416d40c84f7d23acad43be551fd59090d924f1dec36e7c5f6", null ]
-    ] ],
-    [ "SorcerorEvents", "d3/d8f/a03956.html#abc0f0004442b009bb45ce8c8843895f4", [
-      [ "EVENT_SORCEROR_ARCANE_STREAM", "d3/d8f/a03956.html#abc0f0004442b009bb45ce8c8843895f4a2eecd36baf3de97c8974655fd463d485", null ],
-      [ "EVENT_SORCEROR_MANA_DETONATION", "d3/d8f/a03956.html#abc0f0004442b009bb45ce8c8843895f4a005f809af6de7d14c536ca7c8b33a892", null ]
-    ] ],
-    [ "SpellbreakerEvents", "d3/d8f/a03956.html#a2b26d6e966b782d434f5f6b09f28259b", [
-      [ "EVENT_SPELLBREAKER_ARCANE_BLAST", "d3/d8f/a03956.html#a2b26d6e966b782d434f5f6b09f28259badc907fd55c6cef4620119afc8cd851f0", null ],
-      [ "EVENT_SPELLBREAKER_SLOW", "d3/d8f/a03956.html#a2b26d6e966b782d434f5f6b09f28259ba3765b2ca50fa7227baa4a70c376729da", null ],
-      [ "EVENT_SPELLBREAKER_CHAINS_OF_ICE", "d3/d8f/a03956.html#a2b26d6e966b782d434f5f6b09f28259baf193860ad6054383d811d863edd011d3", null ],
-      [ "EVENT_SPELLBREAKER_CONE_OF_COLD", "d3/d8f/a03956.html#a2b26d6e966b782d434f5f6b09f28259ba2f026f68218ae4e52c52f9549c8efc32", null ]
-    ] ],
-    [ "StalkerEvents", "d3/d8f/a03956.html#a0f792309511e4c2acaa38c7c4cacacbc", [
-      [ "EVENT_STALKER_BACKSTAB", "d3/d8f/a03956.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f", null ]
-    ] ],
-    [ "AddSC_violet_hold", "d3/d8f/a03956.html#a11e49713c62a5c479f14ca4d3e845eab", null ]
+    [ "GetVioletHoldAI", "d3/d8f/a03956.html#a584f552f8fb04cc894388a7c32771830", null ],
+    [ "BossStartMove1", "d3/d8f/a03956.html#aa9d2ed11fe7f59bd238c5cf47a20ab4a", null ],
+    [ "BossStartMove2", "d3/d8f/a03956.html#a69b132c1bacbcc1591f080036583f6ef", null ],
+    [ "BossStartMove21", "d3/d8f/a03956.html#a90bca3dc7382bcda57e0226aeacf3da0", null ],
+    [ "BossStartMove22", "d3/d8f/a03956.html#a0e79b9b50d9f175b1097eb1edcd0055e", null ],
+    [ "BossStartMove3", "d3/d8f/a03956.html#a01f9cd79d36cfca9abc3129f02ed93ba", null ],
+    [ "BossStartMove4", "d3/d8f/a03956.html#ab83b4dc1401a1b5075218c7fc686ab17", null ],
+    [ "BossStartMove5", "d3/d8f/a03956.html#ae1d5bc2122882bec7ab3cff2fd16cd59", null ],
+    [ "BossStartMove6", "d3/d8f/a03956.html#a3ae877d5b867fe1c1ed28d65b28f19b3", null ],
+    [ "CyanigosasSpawnLocation", "d3/d8f/a03956.html#adbebc0dba8cb500b215d34e244b2fe84", null ],
+    [ "FifthPortalTrashWPs", "d3/d8f/a03956.html#a0699cc64e4985a12f33575524379d1a2", null ],
+    [ "FirstPortalTrashWPs", "d3/d8f/a03956.html#a0437b19b38eb7bbfb24325997a21203a", null ],
+    [ "FourthPortalTrashWPs", "d3/d8f/a03956.html#a0257486d9d9588c10247981e15f01308", null ],
+    [ "guardMovePosition", "d3/d8f/a03956.html#a7d0750e294e26fe8a007038ed08fa29b", null ],
+    [ "MiddleRoomLocation", "d3/d8f/a03956.html#a942e6495b75db06e67187ad0b46bbfc3", null ],
+    [ "MiddleRoomPortalSaboLocation", "d3/d8f/a03956.html#ad3ddc774cef612b5d5fe691644ca9c5c", null ],
+    [ "playerTeleportPosition", "d3/d8f/a03956.html#a1c44ddf1b0d0773406cb480db91c54e3", null ],
+    [ "PLocWPCount", "d3/d8f/a03956.html#a5401c263ffd473e3c12ce4e91cffb50d", null ],
+    [ "PortalLocations", "d3/d8f/a03956.html#a08092587c172c89ac657ede7056068ec", null ],
+    [ "SaboteurFinalPos1", "d3/d8f/a03956.html#aa3f7332882e95d8ce6cdb145be5a5d5d", null ],
+    [ "SaboteurFinalPos2", "d3/d8f/a03956.html#a73bb2184cf843ed139cc6a19450220a1", null ],
+    [ "SaboteurFinalPos3", "d3/d8f/a03956.html#a0bb7365a02c1bb98957103454ceb870f", null ],
+    [ "SaboteurFinalPos4", "d3/d8f/a03956.html#add46717a907fb07ec5f444673edcc64a", null ],
+    [ "SaboteurFinalPos5", "d3/d8f/a03956.html#ae4817ecbeb00f941dba386d7b9e98456", null ],
+    [ "SaboteurFinalPos6", "d3/d8f/a03956.html#af0c417f307d0091d2f9b52b7ba1c5e5b", null ],
+    [ "SecondPortalTrashWPs1", "d3/d8f/a03956.html#a010ab021da28385aeeb36c541f954cdc", null ],
+    [ "SecondPortalTrashWPs2", "d3/d8f/a03956.html#a5012dcce247705cd082204f6dae90b04", null ],
+    [ "sinclariOutsidePosition", "d3/d8f/a03956.html#a4e6a7494b862bb68d38e8a8c7ffc7656", null ],
+    [ "SixthPoralTrashWPs", "d3/d8f/a03956.html#ad37ee1347e20f2d0b0106ec2ac90577f", null ],
+    [ "ThirdPortalTrashWPs", "d3/d8f/a03956.html#a83cc48a12cdb45ce381dc03f6b9f3afd", null ]
 ];

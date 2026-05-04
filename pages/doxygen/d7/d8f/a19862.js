@@ -1,16 +1,8 @@
 var a19862 =
 [
-    [ "boss_steelbreaker", "d7/d8f/a19862.html#a724e315f9508b02cadc5560f6525afc7", null ],
-    [ "DoAction", "d7/d8f/a19862.html#a2f945dac566b3d24009b486cb4e37cd3", null ],
-    [ "JustDied", "d7/d8f/a19862.html#af69b423bd844f946dede44e136344077", null ],
-    [ "JustEngagedWith", "d7/d8f/a19862.html#afa14e6571e7772d9c978d45a94a40afa", null ],
-    [ "JustReachedHome", "d7/d8f/a19862.html#ad73d9abcfdf9a2fcf3345a024db1f653", null ],
-    [ "KilledUnit", "d7/d8f/a19862.html#a153f72f75fc0758591b418fe82c2628d", null ],
-    [ "Reset", "d7/d8f/a19862.html#a66e5f9c30d30ed7dc42b8ae3ef4f46b6", null ],
-    [ "SpellHit", "d7/d8f/a19862.html#adf32e50b2fc6f8d373933cc0295c7d54", null ],
-    [ "UpdateAI", "d7/d8f/a19862.html#ad96ac1dcde103ddf71b2ded15e757834", null ],
-    [ "UpdatePhase", "d7/d8f/a19862.html#a42ab7be0d80ece19dd726ed29d425183", null ],
-    [ "_phase", "d7/d8f/a19862.html#a1b94dfb3b76278475aae50720a2e85c0", null ],
-    [ "events", "d7/d8f/a19862.html#add48973c02460691e0f32a3ae3897836", null ],
-    [ "pInstance", "d7/d8f/a19862.html#acf1e2229be9f931d0825ce252116b499", null ]
+    [ "HandlePeriodic", "d7/d8f/a19862.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "d7/d8f/a19862.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "d7/d8f/a19862.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "d7/d8f/a19862.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "d7/d8f/a19862.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

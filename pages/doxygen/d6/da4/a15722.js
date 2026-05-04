@@ -1,6 +1,6 @@
 var a15722 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d6/da4/a15722.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "d6/da4/a15722.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "d6/da4/a15722.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "npc_rabid_thistle_bearAI", "d4/d90/a15726.html", "d4/d90/a15726" ],
+    [ "npc_rabid_thistle_bear", "d6/da4/a15722.html#a34b20a4ea22d74352712dee105247d56", null ],
+    [ "GetAI", "d6/da4/a15722.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
 ];

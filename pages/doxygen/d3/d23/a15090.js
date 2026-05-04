@@ -1,6 +1,8 @@
 var a15090 =
 [
-    [ "instance_culling_of_stratholme_InstanceMapScript", "d3/dd4/a15094.html", "d3/dd4/a15094" ],
-    [ "instance_culling_of_stratholme", "d3/d23/a15090.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
-    [ "GetInstanceScript", "d3/d23/a15090.html#ad8cbcb198666d44d79d6255d066c8315", null ]
+    [ "npc_arthasAI", "d3/dd4/a15094.html", "d3/dd4/a15094" ],
+    [ "npc_arthas", "d3/d23/a15090.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "d3/d23/a15090.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "d3/d23/a15090.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "d3/d23/a15090.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

@@ -1,5 +1,7 @@
 var a13022 =
 [
-    [ "at_karazhan_mirkblood_entrance", "d4/d3f/a13022.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
-    [ "OnTrigger", "d4/d3f/a13022.html#ad99c85de36a369752fa61bab761a402e", null ]
+    [ "npc_malchezaar_axe", "d4/d3f/a13022.html#a1a5615f2def10add30e7917b770ebc74", null ],
+    [ "Initialize", "d4/d3f/a13022.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
+    [ "JustEngagedWith", "d4/d3f/a13022.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
+    [ "UpdateAI", "d4/d3f/a13022.html#a202ba6922a426f87909eefbccd070175", null ]
 ];

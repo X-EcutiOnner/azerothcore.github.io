@@ -1,24 +1,12 @@
 var a28358 =
 [
-    [ "npc_necrotic_shard", "d9/d77/a28358.html#a2992dbe8b0d18a7d41b28abd224fc697", null ],
-    [ "DamageTaken", "d9/d77/a28358.html#a86289f7c8ec1f3a52c7d88b1be15201d", null ],
-    [ "DespawnCultists", "d9/d77/a28358.html#a0d2d4526d484d7f173d24d5a92b1d3ea", null ],
-    [ "DespawnEventDoodads", "d9/d77/a28358.html#a65e2066192fa7c7fadc4aeaf8b0a9dd2", null ],
-    [ "DespawnShadowsOfDoom", "d9/d77/a28358.html#a5ea43bf63be68390a8bf5e193bc5d651", null ],
-    [ "HandleShardMinionSpawnerSmall", "d9/d77/a28358.html#a9a3dfceaa896a63cbf4b517acc243468", null ],
-    [ "HasCampTypeAura", "d9/d77/a28358.html#a83e16b403c352c29a4274d3641876e72", null ],
-    [ "HasMinion", "d9/d77/a28358.html#a1180dc1fa894886b492508afbc692667", null ],
-    [ "JustDied", "d9/d77/a28358.html#a2178a576224ff9bf33d76793356c5281", null ],
-    [ "Reset", "d9/d77/a28358.html#aecc545eefc308b525052f86bfab5b390", null ],
-    [ "ScheduleCultistSpawnTask", "d9/d77/a28358.html#aa71daa74d312f6da03ccd64a8141624b", null ],
-    [ "ScheduleMinionSpawnTask", "d9/d77/a28358.html#a469b1379d557096d2bf17f0eb9d9adad", null ],
-    [ "ScheduleTasks", "d9/d77/a28358.html#a302fd24804b81ee7aa538f66ec74150b", null ],
-    [ "SpellHit", "d9/d77/a28358.html#aef06aa96540360a9edf7006f6438ad5d", null ],
-    [ "SpellHitTarget", "d9/d77/a28358.html#aeea71f3ba1e79722280da9b7adf5c212", null ],
-    [ "SummonCultists", "d9/d77/a28358.html#a2db6786b77d0a3a2ec923e5eee7e3ce0", null ],
-    [ "UpdateAI", "d9/d77/a28358.html#a1b40f869dbf2d1d3d4cc9c26cb711600", null ],
-    [ "UpdateFindersAmount", "d9/d77/a28358.html#aa38be6224d7712e710861a4b3ba0424e", null ],
-    [ "_nearbyFinderCount", "d9/d77/a28358.html#a213d09001f9c498756e43a7fd6d49f10", null ],
-    [ "_spellCampType", "d9/d77/a28358.html#acf6c33a5b342e5a6a97e5f7565d8dc87", null ],
-    [ "_zapCount", "d9/d77/a28358.html#aa456d50b6e77bc86ecf0399474ced4d3", null ]
+    [ "categoryId", "d9/d77/a28358.html#a1de0e4302757f18c08b90b40e059737b", null ],
+    [ "count", "d9/d77/a28358.html#a93aac150067979467f56d9919ff665a4", null ],
+    [ "flags", "d9/d77/a28358.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
+    [ "ID", "d9/d77/a28358.html#a843fee247948d02f7aaf04144cb37ef5", null ],
+    [ "mapID", "d9/d77/a28358.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
+    [ "name", "d9/d77/a28358.html#a806cfeddc475994f1b421679bd9699e6", null ],
+    [ "points", "d9/d77/a28358.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
+    [ "refAchievement", "d9/d77/a28358.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
+    [ "requiredFaction", "d9/d77/a28358.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
 ];

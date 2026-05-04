@@ -1,7 +1,6 @@
 var a18762 =
 [
-    [ "HandleForceCast", "db/d63/a18762.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "db/d63/a18762.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "db/d63/a18762.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "db/d63/a18762.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_gluttonous_abominationAI", "d6/d7f/a18766.html", "d6/d7f/a18766" ],
+    [ "npc_gluttonous_abomination", "db/d63/a18762.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "db/d63/a18762.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

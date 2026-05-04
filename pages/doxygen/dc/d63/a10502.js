@@ -1,10 +1,5 @@
 var a10502 =
 [
-    [ "QuestStatusData", "dc/d63/a10502.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
-    [ "CreatureOrGOCount", "dc/d63/a10502.html#aa5892dc0744a41ac565568307f12ad35", null ],
-    [ "Explored", "dc/d63/a10502.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
-    [ "ItemCount", "dc/d63/a10502.html#a466999cea52f65bf58916bc34750bf95", null ],
-    [ "PlayerCount", "dc/d63/a10502.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
-    [ "Status", "dc/d63/a10502.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
-    [ "Timer", "dc/d63/a10502.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
+    [ "Description", "dc/d63/a10502.html#a1d49e1ff4533507cb64dfc8fc6790c37", null ],
+    [ "MaxLimit", "dc/d63/a10502.html#a38ba12a67e99cabba2388a63f12a2b53", null ]
 ];

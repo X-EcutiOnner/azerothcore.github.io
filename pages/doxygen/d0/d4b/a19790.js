@@ -1,6 +1,6 @@
 var a19790 =
 [
-    [ "CosmicSmashDamageEvent", "d0/d4b/a19790.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "d0/d4b/a19790.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "d0/d4b/a19790.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "de/ddd/a19794.html", "de/ddd/a19794" ],
+    [ "boss_sjonnir_malformed_ooze", "d0/d4b/a19790.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "d0/d4b/a19790.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

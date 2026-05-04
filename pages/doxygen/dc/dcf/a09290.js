@@ -1,10 +1,7 @@
 var a09290 =
 [
-    [ "creatureRate", "dc/dcf/a09290.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
-    [ "questDailyRate", "dc/dcf/a09290.html#a1798044bdf25ce774191b00e261add1e", null ],
-    [ "questMonthlyRate", "dc/dcf/a09290.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
-    [ "questRate", "dc/dcf/a09290.html#a914118aa28b3736ff4e6c5b61d738834", null ],
-    [ "questRepeatableRate", "dc/dcf/a09290.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
-    [ "questWeeklyRate", "dc/dcf/a09290.html#a0fb31ebc33d0ce11f392be845907e043", null ],
-    [ "spellRate", "dc/dcf/a09290.html#a508485f1e6833c58a11706667a2c24fd", null ]
+    [ "IsFitToRequirements", "dc/dcf/a09290.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "dc/dcf/a09290.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "dc/dcf/a09290.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "dc/dcf/a09290.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

@@ -1,5 +1,7 @@
 var a10922 =
 [
-    [ "AcceptGuildInvite", "d1/db8/a10922.html#a4453fc550871082f6295d9229eef265a", null ],
-    [ "Read", "d1/db8/a10922.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
+    [ "QueryGuildInfoResponse", "d1/db8/a10922.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
+    [ "Write", "d1/db8/a10922.html#abda9452eba38e76c460f910eb3aad5fa", null ],
+    [ "GuildId", "d1/db8/a10922.html#a04eec0531238fa55a91afa11c394fbce", null ],
+    [ "Info", "d1/db8/a10922.html#a749e992a19264b259f62d403b4925abe", null ]
 ];

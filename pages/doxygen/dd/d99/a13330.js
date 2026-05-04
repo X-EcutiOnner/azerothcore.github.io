@@ -1,8 +1,6 @@
 var a13330 =
 [
-    [ "DelayedSummonEvent", "dd/d99/a13330.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "dd/d99/a13330.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "dd/d99/a13330.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "dd/d99/a13330.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "dd/d99/a13330.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "npc_acherus_necromancerAI", "df/d68/a13334.html", "df/d68/a13334" ],
+    [ "npc_acherus_necromancer", "dd/d99/a13330.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "dd/d99/a13330.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

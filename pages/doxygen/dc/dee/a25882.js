@@ -1,6 +1,7 @@
 var a25882 =
 [
-    [ "CheckProc", "dc/dee/a25882.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
-    [ "PrepareAuraScript", "dc/dee/a25882.html#a3fa05a39b003805f405d814214f4366e", null ],
-    [ "Register", "dc/dee/a25882.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
+    [ "HandleProc", "dc/dee/a25882.html#ac162e47e5334e15865a315b1a30fc645", null ],
+    [ "PrepareAuraScript", "dc/dee/a25882.html#a0d30a007e3f67b78197ac0cae83e2976", null ],
+    [ "Register", "dc/dee/a25882.html#aad337f75e2132940ed3cfef209e1c73b", null ],
+    [ "Validate", "dc/dee/a25882.html#afc4741f952c253924de7397d991a24ac", null ]
 ];

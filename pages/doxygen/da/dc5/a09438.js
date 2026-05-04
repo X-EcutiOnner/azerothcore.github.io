@@ -1,5 +1,6 @@
 var a09438 =
 [
-    [ "HolesType", "da/dc5/a09438.html#a72531c15631ba45fe0c0ed962557e993", null ],
-    [ "holes", "da/dc5/a09438.html#a496f77513e47d89adfcc2f32d4bc1242", null ]
+    [ "flags", "da/dc5/a09438.html#a953acfd67349f028a839390ebe7fc398", null ],
+    [ "fourcc", "da/dc5/a09438.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
+    [ "gridArea", "da/dc5/a09438.html#a4ee571320d5d346bbf74709677bbee05", null ]
 ];

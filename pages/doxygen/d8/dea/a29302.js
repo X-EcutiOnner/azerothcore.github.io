@@ -1,16 +1,9 @@
 var a29302 =
 [
-    [ "ProcTestScenario", "d8/dea/a29302.html#aba69369df56d3d631a9a62bcde791537", null ],
-    [ "AdvanceTime", "d8/dea/a29302.html#a3b6e8c7f5207be98b7696b478559b24a", null ],
-    [ "GetActor", "d8/dea/a29302.html#a52dcbfa52c49f54ce29cb73253746f70", null ],
-    [ "GetActor", "d8/dea/a29302.html#a7b2084c740b51289f6e2f7ec74dacf17", null ],
-    [ "GetAura", "d8/dea/a29302.html#aa5e30fdf4a8b4912a48ce12aa7763624", null ],
-    [ "GetNow", "d8/dea/a29302.html#a014a9082421c022c2fac91070f8f062e", null ],
-    [ "SimulateProc", "d8/dea/a29302.html#af3f83abbfbd4a902689b232853fdbcfb", null ],
-    [ "WithActorLevel", "d8/dea/a29302.html#ad0ca3530818d3091ab420bd76aab8dcb", null ],
-    [ "WithAura", "d8/dea/a29302.html#a6c6dc6438b7503dcda2a89f1e53bc324", null ],
-    [ "WithWeaponSpeed", "d8/dea/a29302.html#a05d00a17b60c3fd94e85c75d896ca2bb", null ],
-    [ "_actor", "d8/dea/a29302.html#a8928fbb771f94e66af2a24c6c2a3351d", null ],
-    [ "_aura", "d8/dea/a29302.html#a81e71f6e78e8c715899c85dcb9423589", null ],
-    [ "_now", "d8/dea/a29302.html#ae20c57ecb893219e52fe055d1662e527", null ]
+    [ "SetUp", "d8/dea/a29302.html#a664590f345cd02660adef326355c7ca2", null ],
+    [ "TearDown", "d8/dea/a29302.html#a366e1170be6f12739b2688c71763c8f0", null ],
+    [ "PERM_BAN", "d8/dea/a29302.html#a393626fe7635a8452e69207085037782", null ],
+    [ "PERM_KICK", "d8/dea/a29302.html#aa9b8c1e73b4828100386186637e30e90", null ],
+    [ "rbacData", "d8/dea/a29302.html#a6e7cb23ddb2dc22611255dff42c85e89", null ],
+    [ "ROLE_GM", "d8/dea/a29302.html#ac5d61d965657eccc145d01670a6f27bc", null ]
 ];

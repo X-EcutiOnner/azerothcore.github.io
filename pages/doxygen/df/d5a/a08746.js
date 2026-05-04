@@ -1,5 +1,5 @@
 var a08746 =
 [
-    [ "PositionXYZOStreamer", "df/d5a/a08746.html#afddf48b02eea5399d818468cdf8795c5", null ],
-    [ "m_pos", "df/d5a/a08746.html#a6c2be4021912b753ed7da07f1c6a7464", null ]
+    [ "ObjectGuidGenerator", "df/d5a/a08746.html#a1d917989d9bf681546d0e3e9b20593e0", null ],
+    [ "Generate", "df/d5a/a08746.html#a43dfe501c5ec222bbd1f8687a1a103b9", null ]
 ];

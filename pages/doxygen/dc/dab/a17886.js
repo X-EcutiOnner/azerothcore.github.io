@@ -1,7 +1,6 @@
 var a17886 =
 [
-    [ "FilterTargets", "dc/dab/a17886.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
-    [ "HandleDummy", "dc/dab/a17886.html#a04166e4e5a4ba082755433555855cb30", null ],
-    [ "PrepareSpellScript", "dc/dab/a17886.html#aaefa58014db12fb76e3416ae807c69e8", null ],
-    [ "Register", "dc/dab/a17886.html#a497ee30669d45341023abe549c91ddaf", null ]
+    [ "IgbExplosionCheck", "dc/dab/a17886.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "dc/dab/a17886.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "dc/dab/a17886.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

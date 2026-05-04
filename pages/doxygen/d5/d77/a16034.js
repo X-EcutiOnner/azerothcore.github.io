@@ -1,6 +1,6 @@
 var a16034 =
 [
-    [ "HandleSummon", "d5/d77/a16034.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "d5/d77/a16034.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "d5/d77/a16034.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "SayerEntry", "d5/d77/a16034.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "d5/d77/a16034.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "d5/d77/a16034.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

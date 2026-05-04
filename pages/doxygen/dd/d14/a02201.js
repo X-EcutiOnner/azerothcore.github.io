@@ -1,25 +1,44 @@
 var a02201 =
 [
-    [ "npc_shenthul", "d8/d88/a15805.html", "d8/d88/a15805" ],
-    [ "npc_shenthul::npc_shenthulAI", "d4/db8/a15809.html", "d4/db8/a15809" ],
-    [ "npc_thrall_warchief", "d1/dc7/a15813.html", "d1/dc7/a15813" ],
-    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "d6/d48/a15817.html", "d6/d48/a15817" ],
-    [ "Shenthul", "dd/d14/a02201.html#a032512bb2693fda342f4d77dba794fbe", [
-      [ "QUEST_SHATTERED_SALUTE", "dd/d14/a02201.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
+    [ "WorldSession::DosProtection", "de/d1a/a11582.html", "de/d1a/a11582" ],
+    [ "GLOBAL_CACHE_MASK", "df/dab/a05022.html#gabaf56bd86a496e0886a553118d6ffb08", null ],
+    [ "NUM_ACCOUNT_DATA_TYPES", "df/dab/a05022.html#gafb353aeb5e84007c9b55aa50ba6e3ddc", null ],
+    [ "PER_CHARACTER_CACHE_MASK", "df/dab/a05022.html#ga38a03c6cd9103a9891842f233758fbe7", null ],
+    [ "AccountDataType", "df/dab/a05022.html#gadab21b8c7fecf26675a55eea7811812d", [
+      [ "GLOBAL_CONFIG_CACHE", "df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812daada79ad8567ef8c1839bb4aa1388f59c", null ],
+      [ "PER_CHARACTER_CONFIG_CACHE", "df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812da3199deafd9678b717f9357659ed271b0", null ],
+      [ "GLOBAL_BINDINGS_CACHE", "df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812da580bf2ae915070c0cb1dfa2a2c470936", null ],
+      [ "PER_CHARACTER_BINDINGS_CACHE", "df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812daaa2164f22e7a6cd3e9211bdd39c1c4e6", null ],
+      [ "GLOBAL_MACROS_CACHE", "df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812da2bffb16258c4258924334e7231928217", null ],
+      [ "PER_CHARACTER_MACROS_CACHE", "df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812da0d53cc3dcb154b042fe7a1b81404752c", null ],
+      [ "PER_CHARACTER_LAYOUT_CACHE", "df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812da8db107b5c382a0630b177b9f521dd87c", null ],
+      [ "PER_CHARACTER_CHAT_CACHE", "df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812da5dbeffe8a7f8c60877f3f41a4e813327", null ]
     ] ],
-    [ "ThrallWarchief", "dd/d14/a02201.html#a1cdad3bda3b93500c342a64dce6d15d9", [
-      [ "SPELL_CHAIN_LIGHTNING", "dd/d14/a02201.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_SHOCK", "dd/d14/a02201.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
-      [ "QUEST_FOR_THE_HORDE", "dd/d14/a02201.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
-      [ "SPELL_WARCHIEF_BLESSING", "dd/d14/a02201.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
-      [ "NPC_HERALD_OF_THRALL", "dd/d14/a02201.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
-      [ "ACTION_START_TALKING", "dd/d14/a02201.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
-      [ "SAY_THRALL_ON_QUEST_REWARD_0", "dd/d14/a02201.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
-      [ "SAY_THRALL_ON_QUEST_REWARD_1", "dd/d14/a02201.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
-      [ "GO_UNADORNED_SPIKE", "dd/d14/a02201.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
-      [ "QUEST_WHAT_THE_WIND_CARRIES", "dd/d14/a02201.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
-      [ "QUEST_WARCHIEFS_BLESSING", "dd/d14/a02201.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047", null ]
+    [ "BFLeaveReason", "df/dab/a05022.html#gae00b3f15198199be79029b7f245cba4e", [
+      [ "BF_LEAVE_REASON_CLOSE", "df/dab/a05022.html#ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7", null ],
+      [ "BF_LEAVE_REASON_EXITED", "df/dab/a05022.html#ggae00b3f15198199be79029b7f245cba4eac58152c3c20952288b738bbcd94b6e04", null ],
+      [ "BF_LEAVE_REASON_LOW_LEVEL", "df/dab/a05022.html#ggae00b3f15198199be79029b7f245cba4ea409833e268b63d87c8329740d22f8d6d", null ]
     ] ],
-    [ "AddSC_orgrimmar", "dd/d14/a02201.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
-    [ "heraldOfThrallPos", "dd/d14/a02201.html#a016aeee1d0eac9c78c522520663670f0", null ]
+    [ "CharterTypes", "df/dab/a05022.html#gae6a6780680157e01b09a257d84b150c7", [
+      [ "GUILD_CHARTER_TYPE", "df/dab/a05022.html#ggae6a6780680157e01b09a257d84b150c7abc99a46e1b6360a30376c4500292e27c", null ],
+      [ "ARENA_TEAM_CHARTER_2v2_TYPE", "df/dab/a05022.html#ggae6a6780680157e01b09a257d84b150c7a917d335b0e9d21fec525d5daed0c1356", null ],
+      [ "ARENA_TEAM_CHARTER_3v3_TYPE", "df/dab/a05022.html#ggae6a6780680157e01b09a257d84b150c7aed12afbbdd721e734868da792db28482", null ],
+      [ "ARENA_TEAM_CHARTER_5v5_TYPE", "df/dab/a05022.html#ggae6a6780680157e01b09a257d84b150c7afa2e8ef459ee0af6eea7b2be7ce30841", null ]
+    ] ],
+    [ "ChatRestrictionType", "df/dab/a05022.html#ga54cc6595f95ac4f430e8540afc94f13d", [
+      [ "ERR_CHAT_RESTRICTED", "df/dab/a05022.html#gga54cc6595f95ac4f430e8540afc94f13da86e568474f13bb72e15b8e92a270b1c9", null ],
+      [ "ERR_CHAT_THROTTLED", "df/dab/a05022.html#gga54cc6595f95ac4f430e8540afc94f13da34a062f33bdc742a4c6be1f28ef613e7", null ],
+      [ "ERR_USER_SQUELCHED", "df/dab/a05022.html#gga54cc6595f95ac4f430e8540afc94f13da9bbb4686187f6e5c88606f90f22b18c8", null ],
+      [ "ERR_YELL_RESTRICTED", "df/dab/a05022.html#gga54cc6595f95ac4f430e8540afc94f13da584e0c0e91185b9f8d415b89e5cbacd7", null ]
+    ] ],
+    [ "DeclinedNameResult", "df/dab/a05022.html#ga98490641bb011ba9187ee1ed5c94b406", [
+      [ "DECLINED_NAMES_RESULT_SUCCESS", "df/dab/a05022.html#gga98490641bb011ba9187ee1ed5c94b406add610d06699db29b6f69db8b69d87267", null ],
+      [ "DECLINED_NAMES_RESULT_ERROR", "df/dab/a05022.html#gga98490641bb011ba9187ee1ed5c94b406ae7ea9b45868387cbcd0f7aff13476683", null ]
+    ] ],
+    [ "PartyOperation", "df/dab/a05022.html#gaa4a0361b2172789575d5eac42ecb612a", [
+      [ "PARTY_OP_INVITE", "df/dab/a05022.html#ggaa4a0361b2172789575d5eac42ecb612aa8b30d82ca0b8d909d0445472f4003036", null ],
+      [ "PARTY_OP_UNINVITE", "df/dab/a05022.html#ggaa4a0361b2172789575d5eac42ecb612aaea450b61d9aa99430d227f2bc20ba66e", null ],
+      [ "PARTY_OP_LEAVE", "df/dab/a05022.html#ggaa4a0361b2172789575d5eac42ecb612aaf8c14598abfe7de9431f923cce924457", null ],
+      [ "PARTY_OP_SWAP", "df/dab/a05022.html#ggaa4a0361b2172789575d5eac42ecb612aac2c1d8e8f575d57bed2ae682d80c1a14", null ]
+    ] ]
 ];

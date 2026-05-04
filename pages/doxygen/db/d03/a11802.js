@@ -1,6 +1,7 @@
 var a11802 =
 [
-    [ "BeforeHitHandler", "db/d03/a11802.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
-    [ "Call", "db/d03/a11802.html#a393057cca72c41e193508bf150ed0b1f", null ],
-    [ "_pBeforeHitHandlerScript", "db/d03/a11802.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
+    [ "CategoryRecoveryTime", "db/d03/a11802.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "db/d03/a11802.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "db/d03/a11802.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "db/d03/a11802.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

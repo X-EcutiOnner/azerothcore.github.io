@@ -1,7 +1,8 @@
 var a26502 =
 [
-    [ "OnProc", "d7/d83/a26502.html#a0a85e641521f1e9b7fd074f7edde97ac", null ],
-    [ "PrepareAuraScript", "d7/d83/a26502.html#a4ff27309c8848a6155ad28809ace5cba", null ],
-    [ "Register", "d7/d83/a26502.html#a20b6a18ce3fac99689b958b384da7836", null ],
-    [ "Validate", "d7/d83/a26502.html#ac4275cca4f974a5a131e4dc1be8eed23", null ]
+    [ "CalculateAmount", "d7/d83/a26502.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "d7/d83/a26502.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "d7/d83/a26502.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "d7/d83/a26502.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "d7/d83/a26502.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

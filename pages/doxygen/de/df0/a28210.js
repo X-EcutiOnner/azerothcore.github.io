@@ -1,10 +1,13 @@
 var a28210 =
 [
-    [ "npc_dancing_flamesAI", "de/df0/a28210.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "de/df0/a28210.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "de/df0/a28210.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "de/df0/a28210.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "de/df0/a28210.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "de/df0/a28210.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "de/df0/a28210.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "npc_spring_rabbitAI", "de/df0/a28210.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
+    [ "DoAction", "de/df0/a28210.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
+    [ "JustEngagedWith", "de/df0/a28210.html#a0c36f1dfc094007990f067544a940538", null ],
+    [ "Reset", "de/df0/a28210.html#ac0f6b47044099016dd6453674b75b2c8", null ],
+    [ "UpdateAI", "de/df0/a28210.html#af9da118068234755fa9219b84050d2a3", null ],
+    [ "bunnyTimer", "de/df0/a28210.html#a99c2923194cf6a07bee8924abf98f470", null ],
+    [ "inLove", "de/df0/a28210.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
+    [ "jumpTimer", "de/df0/a28210.html#a5c17e00187ac87b23482dfbabb89809b", null ],
+    [ "rabbitGUID", "de/df0/a28210.html#af838b25c8442767aaef16e95022cb062", null ],
+    [ "searchTimer", "de/df0/a28210.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
 ];

@@ -1,6 +1,7 @@
 var a15006 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "d5/d3b/a15010.html", "d5/d3b/a15010" ],
-    [ "instance_hyjal", "dd/d34/a15006.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "dd/d34/a15006.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "hyjalThrallAI", "d5/d3b/a15010.html", "d5/d3b/a15010" ],
+    [ "npc_hyjal_thrall", "dd/d34/a15006.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "dd/d34/a15006.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "dd/d34/a15006.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

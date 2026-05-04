@@ -1,6 +1,8 @@
 var a12558 =
 [
-    [ "OrcDeathEvent", "df/dda/a12558.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "df/dda/a12558.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "df/dda/a12558.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "CheckProc", "df/dda/a12558.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "df/dda/a12558.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "df/dda/a12558.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "df/dda/a12558.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "df/dda/a12558.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

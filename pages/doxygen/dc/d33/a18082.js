@@ -1,7 +1,6 @@
 var a18082 =
 [
-    [ "HandleExtraEffect", "dc/d33/a18082.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "dc/d33/a18082.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "dc/d33/a18082.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "dc/d33/a18082.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "npc_volatile_oozeAI", "d6/d5e/a18086.html", "d6/d5e/a18086" ],
+    [ "npc_volatile_ooze", "dc/d33/a18082.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "dc/d33/a18082.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

@@ -1,6 +1,6 @@
 var a17446 =
 [
-    [ "StandUpEvent", "de/d88/a17446.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
-    [ "Execute", "de/d88/a17446.html#a56bc1071300ff8f81e62839685e8f53a", null ],
-    [ "_owner", "de/d88/a17446.html#a456a494140657d81b203834f7b88d5d1", null ]
+    [ "HandlePeriodic", "de/d88/a17446.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "de/d88/a17446.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "de/d88/a17446.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

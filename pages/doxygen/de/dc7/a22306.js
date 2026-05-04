@@ -1,6 +1,5 @@
 var a22306 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "db/d20/a22310.html", "db/d20/a22310" ],
-    [ "instance_auchenai_crypts", "de/dc7/a22306.html#a8b16924167c54a9d8120bac67bc10fed", null ],
-    [ "GetInstanceScript", "de/dc7/a22306.html#a99e47df95fde07d4a6e7687634805b93", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "de/dc7/a22306.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "de/dc7/a22306.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

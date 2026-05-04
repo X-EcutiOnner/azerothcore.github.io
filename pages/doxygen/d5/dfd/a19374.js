@@ -1,8 +1,6 @@
 var a19374 =
 [
-    [ "HandleAfterCast", "d5/dfd/a19374.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "d5/dfd/a19374.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "d5/dfd/a19374.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "d5/dfd/a19374.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "d5/dfd/a19374.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "boss_razuvious_minionAI", "d3/d16/a19378.html", "d3/d16/a19378" ],
+    [ "boss_razuvious_minion", "d5/dfd/a19374.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "d5/dfd/a19374.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

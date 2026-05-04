@@ -1,8 +1,7 @@
 var a17210 =
 [
-    [ "boss_krickAI", "d5/d92/a17210.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "d5/d92/a17210.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "d5/d92/a17210.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "d5/d92/a17210.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "d5/d92/a17210.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "UtherBatteredHiltEvent", "d5/d92/a17210.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d5/d92/a17210.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d5/d92/a17210.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d5/d92/a17210.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

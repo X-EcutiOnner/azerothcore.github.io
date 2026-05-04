@@ -1,11 +1,7 @@
 var a16462 =
 [
-    [ "boss_saviana_ragefireAI", "d6/d10/a16462.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "d6/d10/a16462.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "d6/d10/a16462.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "d6/d10/a16462.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "d6/d10/a16462.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "d6/d10/a16462.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "d6/d10/a16462.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "d6/d10/a16462.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "TwilightCutterSelector", "d6/d10/a16462.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
+    [ "operator()", "d6/d10/a16462.html#a6374425df156bdf202d53a2c73ef784c", null ],
+    [ "_caster", "d6/d10/a16462.html#a784c95ef6472e711f4200f194222d179", null ],
+    [ "_cutterCaster", "d6/d10/a16462.html#a7f713777a36a8d127c2865e4610b1288", null ]
 ];

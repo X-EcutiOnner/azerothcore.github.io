@@ -1,6 +1,6 @@
 var a23334 =
 [
-    [ "PrepareSpellScript", "d8/dbc/a23334.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d8/dbc/a23334.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d8/dbc/a23334.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "npc_millhouse_manastormAI", "d5/db8/a23338.html", "d5/db8/a23338" ],
+    [ "npc_millhouse_manastorm", "d8/dbc/a23334.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "d8/dbc/a23334.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

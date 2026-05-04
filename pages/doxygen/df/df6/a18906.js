@@ -1,7 +1,6 @@
 var a18906 =
 [
-    [ "HandleQuestComplete", "df/df6/a18906.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "df/df6/a18906.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "df/df6/a18906.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "df/df6/a18906.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "npc_impaling_spearAI", "df/d6f/a18910.html", "df/d6f/a18910" ],
+    [ "npc_impaling_spear", "df/df6/a18906.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "df/df6/a18906.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

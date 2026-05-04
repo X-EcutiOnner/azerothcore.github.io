@@ -1,6 +1,5 @@
 var a00809 =
 [
-    [ "clearAcceptTradeMode", "dd/d7e/a00809.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
-    [ "clearAcceptTradeMode", "dd/d7e/a00809.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
-    [ "setAcceptTradeMode", "dd/d7e/a00809.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
+    [ "AddonHandler", "d6/df3/a09906.html", "d6/df3/a09906" ],
+    [ "sAddOnHandler", "dd/d7e/a00809.html#a53c18d341aaa47d117be75333e4ab43d", null ]
 ];

@@ -1,5 +1,9 @@
 var a23882 =
 [
-    [ "npc_karynaku", "d4/d8d/a23882.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "d4/d8d/a23882.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "npc_korkron_or_wildhammer", "d4/d8d/a23882.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "d4/d8d/a23882.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "d4/d8d/a23882.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "d4/d8d/a23882.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "d4/d8d/a23882.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "d4/d8d/a23882.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

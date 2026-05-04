@@ -1,6 +1,5 @@
 var a27974 =
 [
-    [ "go_bashir_crystalforge", "d3/d29/a27974.html#a8b68a63933e14d82198580912fddc280", null ],
-    [ "OnGossipHello", "d3/d29/a27974.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
-    [ "OnGossipSelect", "d3/d29/a27974.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
+    [ "item_mysterious_egg", "d3/d29/a27974.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
+    [ "OnExpire", "d3/d29/a27974.html#a5ea72284626826b75819f89b3b91c540", null ]
 ];

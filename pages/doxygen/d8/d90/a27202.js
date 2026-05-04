@@ -1,7 +1,7 @@
 var a27202 =
 [
-    [ "HandleEffectProc", "d8/d90/a27202.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
-    [ "PrepareAuraScript", "d8/d90/a27202.html#a47d844a9700cd8add793e3f3088d1b82", null ],
-    [ "Register", "d8/d90/a27202.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
-    [ "Validate", "d8/d90/a27202.html#a97f5239399e7135b02000722eaf837ad", null ]
+    [ "HandleProc", "d8/d90/a27202.html#a8f2bbc26b297039a02a7f1a8ce7d79e3", null ],
+    [ "PrepareAuraScript", "d8/d90/a27202.html#aa55d2774f59d8e8435facba876521236", null ],
+    [ "Register", "d8/d90/a27202.html#a3fb6281aa70ce55d4b020e24c747a7f3", null ],
+    [ "Validate", "d8/d90/a27202.html#a09492d02ca945634ca8c4620debbefa8", null ]
 ];

@@ -1,9 +1,8 @@
 var a05758 =
 [
-    [ "IteratorPair", "d0/df9/a05758.html#ad2e586dfd291c34c82ec71d66e59f36c", null ],
-    [ "IteratorPair", "d0/df9/a05758.html#a446d4e8dd1146b053987d48d0dcef59d", null ],
-    [ "IteratorPair", "d0/df9/a05758.html#ae8b79501762f0c0ba6e2d769c56e9f8f", null ],
-    [ "begin", "d0/df9/a05758.html#a59ff07f1663a3f98f2e10a895ab37ae4", null ],
-    [ "end", "d0/df9/a05758.html#aa515ca48852213fb51a4d83e9d5c91d2", null ],
-    [ "_iterators", "d0/df9/a05758.html#a9b08728bc90076dd1db392982840c31e", null ]
+    [ "Event", "d0/df9/a05758.html#acd0d1988a60808384e2cc0dba8735cd3", null ],
+    [ "Event", "d0/df9/a05758.html#a0c6f6d46b2210c42e41fbeb1241c9e7d", null ],
+    [ "_groupMask", "d0/df9/a05758.html#a7f752259eafab986537db2d70c56d211", null ],
+    [ "_id", "d0/df9/a05758.html#a7b60d3d526fd45833d87165d8356f896", null ],
+    [ "_phaseMask", "d0/df9/a05758.html#afce8fa5e187a1c2110a06c70707db247", null ]
 ];

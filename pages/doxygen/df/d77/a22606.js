@@ -1,6 +1,7 @@
 var a22606 =
 [
-    [ "boss_essence_of_desireAI", "d3/dc6/a22610.html", "d3/dc6/a22610" ],
-    [ "boss_essence_of_desire", "df/d77/a22606.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "df/d77/a22606.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "npc_ashtongue_channeler", "df/d77/a22606.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "df/d77/a22606.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "df/d77/a22606.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "df/d77/a22606.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

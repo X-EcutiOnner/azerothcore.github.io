@@ -1,6 +1,8 @@
 var a26574 =
 [
-    [ "FilterTargets", "d8/def/a26574.html#a23c7b977f7e213322b3702367d6a28c7", null ],
-    [ "PrepareSpellScript", "d8/def/a26574.html#a7000b2fd940c914933c486e847932b62", null ],
-    [ "Register", "d8/def/a26574.html#a870ee08d0341f6640710a87c97a6b98b", null ]
+    [ "CheckProc", "d8/def/a26574.html#ae431b65ed505bbc483244ef50c2d35c8", null ],
+    [ "HandleProc", "d8/def/a26574.html#ab744f28533935c4a236f0635bbe6465c", null ],
+    [ "PrepareAuraScript", "d8/def/a26574.html#a7a531ef1c65bdb0d8001956454a43cd3", null ],
+    [ "Register", "d8/def/a26574.html#a8919dc1d487413f54e4a99002350f8d8", null ],
+    [ "Validate", "d8/def/a26574.html#aad134b5ef026a8a58ae233090ca01986", null ]
 ];

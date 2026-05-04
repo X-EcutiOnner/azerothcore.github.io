@@ -1,19 +1,17 @@
 var a14474 =
 [
-    [ "npc_dark_iron_guzzler", "d3/d2d/a14474.html#a53ce152d0bf8e727ed0b385bb2293363", null ],
-    [ "AttackStart", "d3/d2d/a14474.html#a47295b69eaecf3c001c43a1550dd1a80", null ],
-    [ "DamageTaken", "d3/d2d/a14474.html#affd1f78b5c1df26824b08416d6bd03a1", null ],
-    [ "FindNextKeg", "d3/d2d/a14474.html#ac063799097f89c09f30bed79151e8ed6", null ],
-    [ "GetTarget", "d3/d2d/a14474.html#a076305d37ce348b24b35f7956385e8fc", null ],
-    [ "JustEngagedWith", "d3/d2d/a14474.html#ae8142b745e493ab4a77b9df12ea9474d", null ],
-    [ "KilledUnit", "d3/d2d/a14474.html#a018513f23158fcd6f929a90cfecfde4c", null ],
-    [ "MoveInLineOfSight", "d3/d2d/a14474.html#aaa4df56f1f587029b24626ae1aca552a", null ],
-    [ "MovementInform", "d3/d2d/a14474.html#ada6c7f97e25eb545926d6531495bb397", null ],
-    [ "Reset", "d3/d2d/a14474.html#af608024d4b41fa218a7baeae9bee72ef", null ],
-    [ "SayText", "d3/d2d/a14474.html#a872bdd2e2ff2b72c983658c63d74e2c3", null ],
-    [ "SpellHit", "d3/d2d/a14474.html#ae195867416885e570c2c9a4837ac33c1", null ],
-    [ "UpdateAI", "d3/d2d/a14474.html#a5decab6f76369ec9ce037dd050898423", null ],
-    [ "attacking", "d3/d2d/a14474.html#a18a1d7e61b99819666366c6791154e01", null ],
-    [ "targetGUID", "d3/d2d/a14474.html#a620df1502373954020a910853cb6dd3a", null ],
-    [ "timer", "d3/d2d/a14474.html#a9748d587b61c148a27be690a6354473f", null ]
+    [ "instance_zulgurub_InstanceMapScript", "d3/d2d/a14474.html#aacbb3bb0d212ffafae475c74790d9c63", null ],
+    [ "GetData", "d3/d2d/a14474.html#ae8c0fa463d3e5b5dafb7b14b5d32a4b1", null ],
+    [ "GetGuidData", "d3/d2d/a14474.html#a0da827e64e90a1f97b75038621a195ff", null ],
+    [ "OnCreatureCreate", "d3/d2d/a14474.html#a951c6f5e1dc460cd820fba49add52898", null ],
+    [ "OnGameObjectCreate", "d3/d2d/a14474.html#a7649a9bcdfafd3c8d7001555e60910af", null ],
+    [ "RemoveHakkarPowerStack", "d3/d2d/a14474.html#a0234565dc9c87e32bcd0a7f19e2336b6", null ],
+    [ "SetBossState", "d3/d2d/a14474.html#aaf5d69e4993591e0f936e2109df1fb07", null ],
+    [ "_arlokkGUID", "d3/d2d/a14474.html#a92d30a8e0691e5bc6a58ff26cc06df36", null ],
+    [ "_edgeOfMadnessGUID", "d3/d2d/a14474.html#aa7bbbb942592651857f933503da0e808", null ],
+    [ "_gahzrankaGUID", "d3/d2d/a14474.html#af0e854382a2316363c50d60f03095097", null ],
+    [ "_goGongOfBethekkGUID", "d3/d2d/a14474.html#a1f33ff891c8289a49dd2b979a064c323", null ],
+    [ "_hakkarGUID", "d3/d2d/a14474.html#aeca34a55f3c378311ae1b46313cf22de", null ],
+    [ "_jindoTheHexxerGUID", "d3/d2d/a14474.html#a48ec95fa51ddf50aa0249a3798bbc898", null ],
+    [ "_vilebranchSpeakerGUID", "d3/d2d/a14474.html#a07cff6b252eb9b08855bc8bd7e5d7735", null ]
 ];

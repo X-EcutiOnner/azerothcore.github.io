@@ -1,4 +1,6 @@
 var a06462 =
 [
-    [ "SelectableGameObjectAI", "d2/df6/a06462.html#a185217e2cec7ff5b1395efc71dc6ca08", null ]
+    [ "PlayerAI", "d2/df6/a06462.html#a880c670caddc1f24e42f229457039c67", null ],
+    [ "OnCharmed", "d2/df6/a06462.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
+    [ "me", "d2/df6/a06462.html#a70a995521c55fb3d73d14e6be883eccc", null ]
 ];

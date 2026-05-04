@@ -1,5 +1,5 @@
 var a13550 =
 [
-    [ "at_sunwell_madrigosa", "d1/d8d/a13550.html#a489ddb537ef272f22bd69ced194762e7", null ],
-    [ "_OnTrigger", "d1/d8d/a13550.html#a137c231ea66d3781080a5617a2ffcc9e", null ]
+    [ "at_malfurion_stormrage", "d1/d8d/a13550.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "d1/d8d/a13550.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
 ];

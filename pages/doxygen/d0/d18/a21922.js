@@ -1,8 +1,8 @@
 var a21922 =
 [
-    [ "CheckCast", "d0/d18/a21922.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "d0/d18/a21922.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "d0/d18/a21922.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "d0/d18/a21922.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "d0/d18/a21922.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "npc_freed_protodrakeAI", "d0/d18/a21922.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d0/d18/a21922.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d0/d18/a21922.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d0/d18/a21922.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d0/d18/a21922.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

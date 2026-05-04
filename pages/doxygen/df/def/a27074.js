@@ -1,6 +1,5 @@
 var a27074 =
 [
-    [ "FilterTargets", "df/def/a27074.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
-    [ "PrepareSpellScript", "df/def/a27074.html#af41d6353088c5565b0027265c9bd4d8b", null ],
-    [ "Register", "df/def/a27074.html#a95e386af9016e598e932177cb400fd8b", null ]
+    [ "EarthenPowerTargetSelector", "df/def/a27074.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
+    [ "operator()", "df/def/a27074.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
 ];

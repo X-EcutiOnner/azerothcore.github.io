@@ -1,6 +1,7 @@
 var a17942 =
 [
-    [ "npc_cult_adherentAI", "db/d26/a17946.html", "db/d26/a17946" ],
-    [ "npc_cult_adherent", "d7/d51/a17942.html#a74496518cf30674044a4a8a166e4c345", null ],
-    [ "GetAI", "d7/d51/a17942.html#a2bfe464c738c983b9539f9216cabd63a", null ]
+    [ "PrepareSpellScript", "d7/d51/a17942.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "d7/d51/a17942.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "d7/d51/a17942.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "d7/d51/a17942.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

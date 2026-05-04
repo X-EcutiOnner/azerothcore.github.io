@@ -1,7 +1,10 @@
 var a07510 =
 [
-    [ "ArenaSeasonReward", "db/d12/a07510.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
-    [ "operator==", "db/d12/a07510.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
-    [ "entry", "db/d12/a07510.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
-    [ "type", "db/d12/a07510.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
+    [ "CreatureBottom", "db/d12/a07510.html#aaa8fe59aa58bf02934bf87f636582637", null ],
+    [ "CreatureTop", "db/d12/a07510.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
+    [ "GameObject", "db/d12/a07510.html#abc26a328692fc048d9040c44f360f4c4", null ],
+    [ "nbCreatureBottom", "db/d12/a07510.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
+    [ "nbCreatureTop", "db/d12/a07510.html#a38ab7536e0682efd7080b823569d504b", null ],
+    [ "nbObject", "db/d12/a07510.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
+    [ "towerEntry", "db/d12/a07510.html#a1c0edf97a599773b688954f2e966e794", null ]
 ];

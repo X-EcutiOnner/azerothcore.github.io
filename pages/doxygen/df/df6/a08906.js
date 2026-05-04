@@ -1,10 +1,6 @@
 var a08906 =
 [
-    [ "Index", "df/df6/a08906.html#a28b25d822326a1b7d5ec7f95ce084bac", [
-      [ "REGULAR", "df/df6/a08906.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
-      [ "ADDON", "df/df6/a08906.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
-      [ "MAX", "df/df6/a08906.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
-    ] ],
-    [ "Count", "df/df6/a08906.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
-    [ "Time", "df/df6/a08906.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
+    [ "SavedItem", "df/df6/a08906.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
+    [ "dstpos", "df/df6/a08906.html#af844c8b955858b1ead94798c6326fa03", null ],
+    [ "item", "df/df6/a08906.html#afaa651441e306c13acc3cd1aa3084170", null ]
 ];

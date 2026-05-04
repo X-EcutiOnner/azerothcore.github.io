@@ -1,9 +1,7 @@
 var a27130 =
 [
-    [ "Absorb", "dc/d22/a27130.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
-    [ "CalculateAmount", "dc/d22/a27130.html#a820c27c2161063307a10903cbbc5c0fa", null ],
-    [ "Load", "dc/d22/a27130.html#a7b71990051faaa083110408c13b8401f", null ],
-    [ "PrepareAuraScript", "dc/d22/a27130.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
-    [ "Register", "dc/d22/a27130.html#aa443ab0eed74229883884fbced0426d7", null ],
-    [ "absorbPct", "dc/d22/a27130.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
+    [ "PeriodicTick", "dc/d22/a27130.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
+    [ "PrepareAuraScript", "dc/d22/a27130.html#afd362a7dd0373e9480445a99023a5c8c", null ],
+    [ "Register", "dc/d22/a27130.html#a0332788648661d5c2665c5d1431e4ca7", null ],
+    [ "Validate", "dc/d22/a27130.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
 ];

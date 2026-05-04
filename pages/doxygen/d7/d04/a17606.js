@@ -1,7 +1,6 @@
 var a17606 =
 [
-    [ "achievement_once_bitten_twice_shy", "d7/d04/a17606.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
-    [ "OnCheck", "d7/d04/a17606.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
-    [ "_spawnMode", "d7/d04/a17606.html#a6f02f5ab07143ddff553279049714902", null ],
-    [ "_wasVampire", "d7/d04/a17606.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
+    [ "FilterTargets", "d7/d04/a17606.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
+    [ "PrepareSpellScript", "d7/d04/a17606.html#a8e9d81b34e05506569f4b910c1958de3", null ],
+    [ "Register", "d7/d04/a17606.html#aa80980c3f68abcb0fac7a41172f70012", null ]
 ];

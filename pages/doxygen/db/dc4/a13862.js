@@ -1,12 +1,12 @@
 var a13862 =
 [
-    [ "npc_eastvale_peasent", "db/dc4/a13862.html#a5282dac41228569d4431d84c1f160f05", null ],
-    [ "Initialize", "db/dc4/a13862.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
-    [ "PathEndReached", "db/dc4/a13862.html#a002ec21e0715b020aa19cd0839408033", null ],
-    [ "Reset", "db/dc4/a13862.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
-    [ "SetData", "db/dc4/a13862.html#add14d9505880727e208e7ef9428f5acd", null ],
-    [ "UpdateAI", "db/dc4/a13862.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
-    [ "_events", "db/dc4/a13862.html#a1b310b07481366042dc45f7a27ce6408", null ],
-    [ "_path", "db/dc4/a13862.html#a907db8e6148947248b5bcfdb35023e16", null ],
-    [ "_realenGUID", "db/dc4/a13862.html#aad06364be8698b5ba69cd229e2a5085b", null ]
+    [ "boss_twilight_corrupter", "db/dc4/a13862.html#afe140d6231d9ad8543e17c4a8a8230c0", null ],
+    [ "InitializeAI", "db/dc4/a13862.html#afe06461e9f3e1549da6631d2f89406c4", null ],
+    [ "JustEngagedWith", "db/dc4/a13862.html#a84803153e7e7d5d7efe0106139214b1f", null ],
+    [ "KilledUnit", "db/dc4/a13862.html#aa18d2fc90e1ccd322ec9d3128ba206d2", null ],
+    [ "MoveInLineOfSight", "db/dc4/a13862.html#a637cdd43f2f9a4f773b4b8e8f3c88730", null ],
+    [ "Reset", "db/dc4/a13862.html#a27720f58056206c09bce41ae50018a83", null ],
+    [ "UpdateAI", "db/dc4/a13862.html#a580fbaa55a5c0193c1ef2c6b281d8d9e", null ],
+    [ "_introSpoken", "db/dc4/a13862.html#a1924750c9d41ed588a29aace3c40742d", null ],
+    [ "_scheduler", "db/dc4/a13862.html#a6c49eee2be24199418096cc48c50d384", null ]
 ];

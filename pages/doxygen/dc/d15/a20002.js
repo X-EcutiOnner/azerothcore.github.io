@@ -1,7 +1,7 @@
 var a20002 =
 [
-    [ "HandleScript", "dc/d15/a20002.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "dc/d15/a20002.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "dc/d15/a20002.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "dc/d15/a20002.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "npc_storm_beacon_spawn", "dc/d15/a20002.html#a999b6421a0ef6eec2987716a60352a5e", null ],
+    [ "UpdateAI", "dc/d15/a20002.html#a93dbd7a26d6333f18329142280cc743d", null ],
+    [ "_amount", "dc/d15/a20002.html#acb5d1f2b6590da32f36882339729c4e9", null ],
+    [ "_checkTimer", "dc/d15/a20002.html#a9717b52f26045707fd852b955d29a5e6", null ]
 ];

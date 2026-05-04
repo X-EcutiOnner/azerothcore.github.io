@@ -1,15 +1,8 @@
 var a17242 =
 [
-    [ "npc_pos_leaderAI", "df/db2/a17242.html#a21973bccde394785f8619df7cae5270b", null ],
-    [ "AttackStart", "df/db2/a17242.html#a6dc4161441752b8ea9baab642d6a0684", null ],
-    [ "JustSummoned", "df/db2/a17242.html#a03bfcd0ea38073ff8481188d1b570553", null ],
-    [ "MoveInLineOfSight", "df/db2/a17242.html#ad28f607b313f7729649261969912eba5", null ],
-    [ "Reset", "df/db2/a17242.html#aee23a2835b84ac060a29b41c10116904", null ],
-    [ "SetData", "df/db2/a17242.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
-    [ "SummonedCreatureDespawn", "df/db2/a17242.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
-    [ "UpdateAI", "df/db2/a17242.html#a1507ab4bdade501cf92f843cec20842d", null ],
-    [ "counter", "df/db2/a17242.html#a7012a08c6409a40646dcd91a47eb6886", null ],
-    [ "events", "df/db2/a17242.html#a7ea570e98c7a70ae604861c2166eb429", null ],
-    [ "pInstance", "df/db2/a17242.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
-    [ "summons", "df/db2/a17242.html#a44b5ee694d96644da91167c7d793eeb3", null ]
+    [ "boss_krickAI", "df/db2/a17242.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "df/db2/a17242.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "df/db2/a17242.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "df/db2/a17242.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "df/db2/a17242.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

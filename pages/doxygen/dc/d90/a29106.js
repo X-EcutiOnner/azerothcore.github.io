@@ -1,6 +1,10 @@
 var a29106 =
 [
-    [ "categoryMask", "dc/d90/a29106.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "dc/d90/a29106.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "dc/d90/a29106.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "BugfixVersion", "dc/d90/a29106.html#a461f8c749a874405584dc1fd3fe1d805", null ],
+    [ "Build", "dc/d90/a29106.html#a6cc7aff1b397df7333b9bb0003282abd", null ],
+    [ "HotfixVersion", "dc/d90/a29106.html#a0df61c036a57b8a3efde5d180dc38131", null ],
+    [ "MacHash", "dc/d90/a29106.html#ad59772e86371318fe975760e303fa7d9", null ],
+    [ "MajorVersion", "dc/d90/a29106.html#a0eb78564680f771e325536a0ab77382a", null ],
+    [ "MinorVersion", "dc/d90/a29106.html#a7140f7ef9540eff08fabf74ded68b9cc", null ],
+    [ "WindowsHash", "dc/d90/a29106.html#a96abd69a458dfc4363c4e545fc7fabab", null ]
 ];

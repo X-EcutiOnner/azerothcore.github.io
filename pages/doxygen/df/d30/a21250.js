@@ -1,6 +1,7 @@
 var a21250 =
 [
-    [ "npc_khunok_the_behemothAI", "da/dab/a21254.html", "da/dab/a21254" ],
-    [ "npc_khunok_the_behemoth", "df/d30/a21250.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "df/d30/a21250.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_bonker_togglevoltAI", "da/dab/a21254.html", "da/dab/a21254" ],
+    [ "npc_bonker_togglevolt", "df/d30/a21250.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "df/d30/a21250.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "df/d30/a21250.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

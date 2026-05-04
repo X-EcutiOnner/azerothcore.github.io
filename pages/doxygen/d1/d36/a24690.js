@@ -1,9 +1,7 @@
 var a24690 =
 [
-    [ "PrepareAuraScript", "d1/d36/a24690.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "d1/d36/a24690.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "d1/d36/a24690.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "d1/d36/a24690.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "d1/d36/a24690.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "d1/d36/a24690.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "HandleEffectRemove", "d1/d36/a24690.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
+    [ "PrepareAuraScript", "d1/d36/a24690.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
+    [ "Register", "d1/d36/a24690.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
+    [ "AuraEffectHandleModes", "d1/d36/a24690.html#a97370dd3f7c3e58a719090176c397386", null ]
 ];

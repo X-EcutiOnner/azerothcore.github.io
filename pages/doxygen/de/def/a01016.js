@@ -1,6 +1,7 @@
 var a01016 =
 [
-    [ "DataHeader", "de/def/a01016.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ScarletMonasteryScriptName", "de/def/a01016.html#ac64beb71a88e1265849782b79406b585", null ],
-    [ "GetScarletMonasteryAI", "de/def/a01016.html#aecdcabc87b1cc31996b702fd11416f35", null ]
+    [ "BG_RV_CLOSE_FIRE_TIMER", "de/def/a01016.html#adea63e30cefe486dd1cbeb0353fdaeb2", null ],
+    [ "BG_RV_FIRE_TO_PILLAR_TIMER", "de/def/a01016.html#a20f119684cfae65594c4cb1fc59e60c1", null ],
+    [ "BG_RV_FIRST_TIMER", "de/def/a01016.html#abb49be7549db0a88e8b5fcd470741084", null ],
+    [ "BG_RV_PILLAR_SWITCH_TIMER", "de/def/a01016.html#a6ecc5972946e4de12babadf07ce85e2f", null ]
 ];

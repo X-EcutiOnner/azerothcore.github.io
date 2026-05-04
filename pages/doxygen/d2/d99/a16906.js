@@ -1,6 +1,6 @@
 var a16906 =
 [
-    [ "HandleEffectPeriodic", "d2/d99/a16906.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "d2/d99/a16906.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "d2/d99/a16906.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "boss_eydisAI", "d1/d97/a16910.html", "d1/d97/a16910" ],
+    [ "boss_eydis", "d2/d99/a16906.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "d2/d99/a16906.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

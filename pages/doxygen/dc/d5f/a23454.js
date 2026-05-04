@@ -1,8 +1,7 @@
 var a23454 =
 [
-    [ "boss_laj", "dc/d5f/a23454.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "dc/d5f/a23454.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "dc/d5f/a23454.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "dc/d5f/a23454.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "dc/d5f/a23454.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "OnApply", "dc/d5f/a23454.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "dc/d5f/a23454.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "dc/d5f/a23454.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "dc/d5f/a23454.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

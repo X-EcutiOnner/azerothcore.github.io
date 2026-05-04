@@ -1,6 +1,7 @@
 var a10662 =
 [
-    [ "LootScript", "db/d96/a10662.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
-    [ "IsDatabaseBound", "db/d96/a10662.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "db/d96/a10662.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "GameEventScript", "db/d96/a10662.html#ac43a9c70638ad56b69b5841ee8410374", null ],
+    [ "OnEventCheck", "db/d96/a10662.html#aadab9593da561e9b19202d09b53cba36", null ],
+    [ "OnStart", "db/d96/a10662.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
+    [ "OnStop", "db/d96/a10662.html#a4813f26f03e5ba79a740bf30558e604c", null ]
 ];

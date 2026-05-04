@@ -1,17 +1,12 @@
 var a22222 =
 [
-    [ "OutdoorPvPHP", "d2/da7/a22222.html#a19118d7facc4a745e391491fb7d95421", null ],
-    [ "FillInitialWorldStates", "d2/da7/a22222.html#a4ecc55395f1f792075e07026e1ccd171", null ],
-    [ "GetAllianceTowersControlled", "d2/da7/a22222.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
-    [ "GetHordeTowersControlled", "d2/da7/a22222.html#a9395b6966bcdd36b448ca1c403f17873", null ],
-    [ "HandleKillImpl", "d2/da7/a22222.html#aad7804f10c42f6643397d673ba4e9bee", null ],
-    [ "HandlePlayerEnterZone", "d2/da7/a22222.html#a117149e3db7fa02fdcfab05a6ff6de18", null ],
-    [ "HandlePlayerLeaveZone", "d2/da7/a22222.html#abf21499824ad64aa7a26a4b33090783e", null ],
-    [ "SendRemoveWorldStates", "d2/da7/a22222.html#ac94c44783b2141c751d5c16a24bce8d4", null ],
-    [ "SetAllianceTowersControlled", "d2/da7/a22222.html#a1f9bbc083ae0bb7c00a303909ab043f5", null ],
-    [ "SetHordeTowersControlled", "d2/da7/a22222.html#ae5de375e1ec88dc5ce0059490596a935", null ],
-    [ "SetupOutdoorPvP", "d2/da7/a22222.html#aee60f1d1da4d6eecd0e66cf975272979", null ],
-    [ "Update", "d2/da7/a22222.html#aeec44f41e6d6fe7c768bb738a3eafb47", null ],
-    [ "m_AllianceTowersControlled", "d2/da7/a22222.html#a90c41df874abfee0a4861cf923de9ab5", null ],
-    [ "m_HordeTowersControlled", "d2/da7/a22222.html#ada8244f57fe3a693d167689d3f921025", null ]
+    [ "OPvPCapturePointZM_Beacon", "d2/da7/a22222.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
+    [ "ChangeState", "d2/da7/a22222.html#a5bbe87c18c814358596a9648fd92b129", null ],
+    [ "FillInitialWorldStates", "d2/da7/a22222.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
+    [ "HandlePlayerEnter", "d2/da7/a22222.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
+    [ "HandlePlayerLeave", "d2/da7/a22222.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
+    [ "SendChangePhase", "d2/da7/a22222.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
+    [ "UpdateTowerState", "d2/da7/a22222.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
+    [ "m_TowerState", "d2/da7/a22222.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
+    [ "m_TowerType", "d2/da7/a22222.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
 ];

@@ -1,8 +1,6 @@
 var a23370 =
 [
-    [ "npc_warchief_portal", "dc/dbe/a23370.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "dc/dbe/a23370.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "dc/dbe/a23370.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "dc/dbe/a23370.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "dc/dbe/a23370.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "instance_arcatraz_InstanceMapScript", "de/d23/a23374.html", "de/d23/a23374" ],
+    [ "instance_arcatraz", "dc/dbe/a23370.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "dc/dbe/a23370.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

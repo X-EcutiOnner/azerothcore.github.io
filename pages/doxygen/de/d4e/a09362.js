@@ -1,5 +1,6 @@
 var a09362 =
 [
-    [ "Visit", "de/d4e/a09362.html#aa0f56809b23b117bde869576ddaa9dbd", null ],
-    [ "Visit", "de/d4e/a09362.html#afab06305b5b3568b93d07f80efd616ae", null ]
+    [ "lang_id", "de/d4e/a09362.html#a1fa900a467834103ac595a8a96dd28c0", null ],
+    [ "skill_id", "de/d4e/a09362.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
+    [ "spell_id", "de/d4e/a09362.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
 ];

@@ -1,7 +1,6 @@
 var a23710 =
 [
-    [ "HandleDummy", "dc/d7a/a23710.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "dc/d7a/a23710.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "dc/d7a/a23710.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "dc/d7a/a23710.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "db/d68/a23714.html", "db/d68/a23714" ],
+    [ "npc_creditmarker_visit_with_ancestors", "dc/d7a/a23710.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "dc/d7a/a23710.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

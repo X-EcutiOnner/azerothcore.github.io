@@ -1,7 +1,11 @@
 var a28810 =
 [
-    [ "EmoteType", "d1/dd8/a28810.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "d1/dd8/a28810.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "d1/dd8/a28810.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "d1/dd8/a28810.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "ClassID", "d1/dd8/a28810.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "d1/dd8/a28810.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "d1/dd8/a28810.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "d1/dd8/a28810.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "d1/dd8/a28810.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "d1/dd8/a28810.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "d1/dd8/a28810.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "d1/dd8/a28810.html#ac39254716573e335caf312f635353a2e", null ]
 ];

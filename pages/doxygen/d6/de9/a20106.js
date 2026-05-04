@@ -1,7 +1,7 @@
 var a20106 =
 [
-    [ "HandleEffectPeriodic", "d6/de9/a20106.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "d6/de9/a20106.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "d6/de9/a20106.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "d6/de9/a20106.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "boss_freya_lifebinder", "d6/de9/a20106.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "d6/de9/a20106.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "d6/de9/a20106.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_healTimer", "d6/de9/a20106.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
 ];

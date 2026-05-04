@@ -1,14 +1,10 @@
 var a22914 =
 [
-    [ "boss_the_lurker_below", "df/d25/a22914.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
-    [ "AttackStart", "df/d25/a22914.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
-    [ "DamageTaken", "df/d25/a22914.html#ae7c05744013753b29072ec1b5d9f2570", null ],
-    [ "DoAction", "df/d25/a22914.html#a30e07055aa632066a75ad48f3e8109e2", null ],
-    [ "EnterEvadeMode", "df/d25/a22914.html#a522164e819db5062225f7d5704cdaa36", null ],
-    [ "JustEngagedWith", "df/d25/a22914.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
-    [ "Reset", "df/d25/a22914.html#ae592707182d64689e6578813b3617ee3", null ],
-    [ "SchedulerPhaseOne", "df/d25/a22914.html#a42dd2ed36209e7be61788d054e2754b5", null ],
-    [ "SchedulerPhaseTwo", "df/d25/a22914.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
-    [ "SummonedCreatureDies", "df/d25/a22914.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
-    [ "UpdateAI", "df/d25/a22914.html#a92d854cb21b272bd09674c724b1aa862", null ]
+    [ "Spells", "df/d25/a22914.html#a70ca1841fb1db54e6f76b96331e05cf1", [
+      [ "SPELL_GROW", "df/d25/a22914.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
+      [ "SPELL_SPORE_CLOUD", "df/d25/a22914.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
+    ] ],
+    [ "npc_rancid_mushroom", "df/d25/a22914.html#a15896957b94de57de9eda5a199a05d4c", null ],
+    [ "InitializeAI", "df/d25/a22914.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
+    [ "UpdateAI", "df/d25/a22914.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
 ];

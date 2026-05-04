@@ -1,10 +1,6 @@
 var a25318 =
 [
-    [ "CheckProc", "d2/d1d/a25318.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
-    [ "HandleProc", "d2/d1d/a25318.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
-    [ "OnApply", "d2/d1d/a25318.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
-    [ "OnRemove", "d2/d1d/a25318.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
-    [ "PrepareAuraScript", "d2/d1d/a25318.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
-    [ "Register", "d2/d1d/a25318.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
-    [ "Validate", "d2/d1d/a25318.html#a91c5a0e10c308332e18dc40033049996", null ]
+    [ "CheckCast", "d2/d1d/a25318.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
+    [ "PrepareSpellScript", "d2/d1d/a25318.html#ad6867dad8bda358bd1479935c80b82e7", null ],
+    [ "Register", "d2/d1d/a25318.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
 ];

@@ -1,6 +1,6 @@
 var a16914 =
 [
-    [ "instance_trial_of_the_crusader_InstanceMapScript", "db/dc1/a16918.html", "db/dc1/a16918" ],
-    [ "instance_trial_of_the_crusader", "d7/dc0/a16914.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
-    [ "GetInstanceScript", "d7/dc0/a16914.html#a792034e9e5687bf5fa543175692bed66", null ]
+    [ "boss_fjolaAI", "db/dc1/a16918.html", "db/dc1/a16918" ],
+    [ "boss_fjola", "d7/dc0/a16914.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
+    [ "GetAI", "d7/dc0/a16914.html#a96d9ea0716199758b60ad933ade28de4", null ]
 ];

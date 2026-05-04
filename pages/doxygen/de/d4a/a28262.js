@@ -1,7 +1,9 @@
 var a28262 =
 [
-    [ "npc_wormholeAI", "de/d4a/a28262.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "de/d4a/a28262.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "de/d4a/a28262.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "de/d4a/a28262.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_necropolis_health", "de/d4a/a28262.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "de/d4a/a28262.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "de/d4a/a28262.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "de/d4a/a28262.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "de/d4a/a28262.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "de/d4a/a28262.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

@@ -1,9 +1,10 @@
 var a10770 =
 [
-    [ "ServerPacket", "dd/d60/a10770.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
-    [ "Clear", "dd/d60/a10770.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
-    [ "GetOpcode", "dd/d60/a10770.html#a639ab6c078d7c746bcb328526df705be", null ],
-    [ "Move", "dd/d60/a10770.html#a659397042201ae571bb564872e54d2c6", null ],
-    [ "Read", "dd/d60/a10770.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
-    [ "ShrinkToFit", "dd/d60/a10770.html#a6fa19a94d57484aaff3498be01495258", null ]
+    [ "WorldObjectScript", "dd/d60/a10770.html#af044c3699a591c137abc5e03c772890b", null ],
+    [ "IsDatabaseBound", "dd/d60/a10770.html#a48f037dd6152ff68ebef672de68df45e", null ],
+    [ "OnWorldObjectCreate", "dd/d60/a10770.html#a2b32bc661e5a377de98902f3bc16679b", null ],
+    [ "OnWorldObjectDestroy", "dd/d60/a10770.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
+    [ "OnWorldObjectResetMap", "dd/d60/a10770.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
+    [ "OnWorldObjectSetMap", "dd/d60/a10770.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
+    [ "OnWorldObjectUpdate", "dd/d60/a10770.html#abc139d1aa728f8a70886eed65d28f566", null ]
 ];

@@ -1,7 +1,6 @@
 var a17378 =
 [
-    [ "HandleDummy", "d3/d42/a17378.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
-    [ "PrepareSpellScript", "d3/d42/a17378.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
-    [ "Register", "d3/d42/a17378.html#a371073fb37337719115242fc8758026f", null ],
-    [ "Validate", "d3/d42/a17378.html#ad5df08da54defc89a7a552c39de089c3", null ]
+    [ "entry", "d3/d42/a17378.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "d3/d42/a17378.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "d3/d42/a17378.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

@@ -1,6 +1,6 @@
 var a02630 =
 [
-    [ "bg_commandscript", "d2/db2/a12145.html", "d2/db2/a12145" ],
-    [ "AddSC_bag_commandscript", "d0/d3f/a02630.html#a8fa1e803122341d611168b2b62fde4e5", null ],
-    [ "itemQualityToString", "d0/d3f/a02630.html#af266597924b9d3f439ffc9908001d2cb", null ]
+    [ "event_commandscript", "d4/d0c/a12222.html", "d4/d0c/a12222" ],
+    [ "EventEntry", "d0/d3f/a02630.html#accd9dac141ffd4618bb7d3f69e8eb716", null ],
+    [ "AddSC_event_commandscript", "d0/d3f/a02630.html#a4f3834f706dcb17ca67ce6513f6aecad", null ]
 ];

@@ -1,8 +1,11 @@
 var a04442 =
 [
-    [ "Vec3D", "d7/d9a/a29689.html", "d7/d9a/a29689" ],
-    [ "AaBox3D", "dd/d45/a29693.html", "dd/d45/a29693" ],
-    [ "Vec2D", "d7/d13/a29697.html", "d7/d13/a29697" ],
-    [ "Quaternion", "d8/d5f/a29701.html", "d8/d5f/a29701" ],
-    [ "rotate", "d9/d8d/a04442.html#a36f9f3de1d3e6935da68df2c6e347a4d", null ]
+    [ "ADT::MDDF", "da/d48/a29806.html", "da/d48/a29806" ],
+    [ "ADT::MODF", "d9/dd8/a29810.html", "d9/dd8/a29810" ],
+    [ "ADTFile", "df/d20/a29814.html", "df/d20/a29814" ],
+    [ "fixname2", "d9/d8d/a04442.html#ac0029be4572a61d00eb1435db5526a74", null ],
+    [ "fixnamen", "d9/d8d/a04442.html#abdc56edc46e0804c456749761cff8daf", null ],
+    [ "GetExtension", "d9/d8d/a04442.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
+    [ "GetPlainName", "d9/d8d/a04442.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
+    [ "GetPlainName", "d9/d8d/a04442.html#a05f8969fb6d17548033afc24b906a83f", null ]
 ];

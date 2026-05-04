@@ -1,12 +1,8 @@
 var a29786 =
 [
-    [ "Bounds", "d0/d7c/a29786.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
-    [ "DoodadSet", "d0/d7c/a29786.html#abbf6e50e76b120be17215cfcf227a524", null ],
-    [ "Flags", "d0/d7c/a29786.html#a06f5e96119239356eea45b9acdadf6e1", null ],
-    [ "Id", "d0/d7c/a29786.html#a952442c180e8d3710af31272b54eb6ec", null ],
-    [ "NameSet", "d0/d7c/a29786.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
-    [ "Position", "d0/d7c/a29786.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
-    [ "Rotation", "d0/d7c/a29786.html#a2c04715e800b9f375c287cced96643d1", null ],
-    [ "Scale", "d0/d7c/a29786.html#a142716fecae07abc013c7f3bd053c0ea", null ],
-    [ "UniqueId", "d0/d7c/a29786.html#a749e920740b9e91547fe1f87933d1c7d", null ]
+    [ "TileInfo", "d0/d7c/a29786.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "d0/d7c/a29786.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "d0/d7c/a29786.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "d0/d7c/a29786.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "d0/d7c/a29786.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

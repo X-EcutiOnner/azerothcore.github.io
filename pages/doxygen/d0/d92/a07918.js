@@ -1,4 +1,8 @@
 var a07918 =
 [
-    [ "TryConsume", "d0/d92/a07918.html#a6fe249c25aabf5f7eb70612982ac2b82", null ]
+    [ "SearchMap", "d0/d92/a07918.html#a21bc680abec11928000923003bbad93f", null ],
+    [ "MakeSearchMap", "d0/d92/a07918.html#a8dc3337ff2ed1427fa9efdf35e458d7d", null ],
+    [ "Match", "d0/d92/a07918.html#a9f447ee626e80d616c304a4d07f25987", null ],
+    [ "TryConsume", "d0/d92/a07918.html#ac5bc3cde0205d8a1b200989cf6eb09cb", null ],
+    [ "_map", "d0/d92/a07918.html#a97e69e0044967ebb5369bfa0f46bd7bf", null ]
 ];

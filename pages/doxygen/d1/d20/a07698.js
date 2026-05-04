@@ -1,13 +1,9 @@
 var a07698 =
 [
-    [ "banners", "d1/d20/a07698.html#a07c98125c64d119232fec9cc80050537", null ],
-    [ "faction", "d1/d20/a07698.html#ab3758f67da3dcb507bb1acab575e2836", null ],
-    [ "gameobject_entry", "d1/d20/a07698.html#ae80024986e048e05dca174d6b14964d3", null ],
-    [ "gameobject_type", "d1/d20/a07698.html#ac4760cba40ba8916d66cae3712f7c641", null ],
-    [ "last_entry", "d1/d20/a07698.html#a968d6f412ba88b9577429910ffa511a5", null ],
-    [ "needChange", "d1/d20/a07698.html#acecd97e26d19c82e934817ecbc2afce9", null ],
-    [ "nodeState", "d1/d20/a07698.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
-    [ "nodeType", "d1/d20/a07698.html#a3b303a427c4a2248dade5eada6774dc9", null ],
-    [ "timer", "d1/d20/a07698.html#a434605ed0efcc262057a65d7cd8d0128", null ],
-    [ "worldStates", "d1/d20/a07698.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
+    [ "BattlegroundEYLosingPointStruct", "d1/d20/a07698.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
+    [ "DespawnObjectTypeAlliance", "d1/d20/a07698.html#a210828d05ea9948484631b7408a3bb4b", null ],
+    [ "DespawnObjectTypeHorde", "d1/d20/a07698.html#a335205cb71b7055db4c01a5e562001b6", null ],
+    [ "MessageIdAlliance", "d1/d20/a07698.html#afe89eccc8c21351edb4ce943d937e521", null ],
+    [ "MessageIdHorde", "d1/d20/a07698.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
+    [ "SpawnNeutralObjectType", "d1/d20/a07698.html#a57c1a6f485ea6617b5218da411cae38f", null ]
 ];

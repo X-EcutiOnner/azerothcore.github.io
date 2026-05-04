@@ -1,20 +1,17 @@
 var a01127 =
 [
-    [ "instance_blackwing_lair", "d0/d87/a12722.html", "d0/d87/a12722" ],
-    [ "spell_bwl_shadowflame", "d2/d34/a12726.html", "d2/d34/a12726" ],
-    [ "at_orb_of_command", "db/d48/a12730.html", "db/d48/a12730" ],
-    [ "orb_of_command_misc", "d9/d5b/a01127.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [
-      [ "QUEST_BLACKHANDS_COMMAND", "d9/d5b/a01127.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ]
+    [ "GuidLinkType", "d9/d5b/a01127.html#a7c58fae67eb0c9a1b6f18b403121b2f5", [
+      [ "SPELL_LINK_PLAYER", "d9/d5b/a01127.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028", null ],
+      [ "SPELL_LINK_CREATURE", "d9/d5b/a01127.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8", null ],
+      [ "SPELL_LINK_GAMEOBJECT", "d9/d5b/a01127.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7", null ]
     ] ],
-    [ "ShadowFlame", "d9/d5b/a01127.html#a18a82309d32c08f1de5944fde20789fa", [
-      [ "SPELL_ONYXIA_SCALE_CLOAK", "d9/d5b/a01127.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0", null ],
-      [ "SPELL_SHADOW_FLAME_DOT", "d9/d5b/a01127.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e", null ]
+    [ "SpellLinkType", "d9/d5b/a01127.html#a39157073e48b2e925e7227a28d1f09f9", [
+      [ "SPELL_LINK_SPELL", "d9/d5b/a01127.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd", null ],
+      [ "SPELL_LINK_TALENT", "d9/d5b/a01127.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56", null ],
+      [ "SPELL_LINK_ENCHANT", "d9/d5b/a01127.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654", null ],
+      [ "SPELL_LINK_TRADE", "d9/d5b/a01127.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919", null ],
+      [ "SPELL_LINK_GLYPH", "d9/d5b/a01127.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e", null ]
     ] ],
-    [ "AddSC_instance_blackwing_lair", "d9/d5b/a01127.html#a942a9ad3e1b872492dfc7d62615df103", null ],
-    [ "creatureData", "d9/d5b/a01127.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d9/d5b/a01127.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "Entry", "d9/d5b/a01127.html#a79d118516d0621008a183666ffecc3ad", null ],
-    [ "objectData", "d9/d5b/a01127.html#a59ddfa91084111da23b5d47482e4ff8d", null ],
-    [ "orbOfCommandTP", "d9/d5b/a01127.html#a9ee49a7ad7d4b8e8f52533faa578370f", null ],
-    [ "SummonPosition", "d9/d5b/a01127.html#a2c79c628fd8c60d02dc0b2368a70be04", null ]
+    [ "guidKeys", "d9/d5b/a01127.html#ae39447b85bcee503ddb354d2950d638a", null ],
+    [ "spellKeys", "d9/d5b/a01127.html#a493fba30c4b66be28baeb971844ea593", null ]
 ];

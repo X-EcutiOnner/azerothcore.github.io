@@ -104,26 +104,41 @@ $(document).ready(function(){initNavTree('de/d93/a07374.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">AuctionHouseUsablePlayerInfo Member List</div></div>
+  <div class="headertitle"><div class="title">AuctionEntry Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../de/d93/a07374.html">AuctionHouseUsablePlayerInfo</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../de/d93/a07374.html">AuctionEntry</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a41a57c372871c84a572d2f3697cb18aa">classMask</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionHouseUsablePlayerInfo</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a>(uint32 skill) const</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionHouseUsablePlayerInfo</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a>(uint32 spell) const</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionHouseUsablePlayerInfo</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a870f632b54e4638b1f5a4e93b6bd9e52">level</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionHouseUsablePlayerInfo</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#aee11f4f45f83664483344e3bbfba7463">PlayerCanUseItem</a>(ItemTemplate const *proto) const</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionHouseUsablePlayerInfo</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a96e56943da42f1a1258fc1d716259e1a">raceMask</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionHouseUsablePlayerInfo</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a55c2ad9d1cdea4913cb35deb4adc87fd">skills</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionHouseUsablePlayerInfo</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#ac83cc019ceb1752ce8d6b5a3aa3d350f">spells</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionHouseUsablePlayerInfo</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a46668a8214d200bf508a157aa256e9ec">auctionHouseEntry</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a11521c90c74d1eba7d7d3ef55e960a93">bid</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a3d4e0baffa36cf643b0c645efe4bf3f4">bidder</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a146f034b64f65c03866ecc2f45a9b448">BuildAuctionMailBody</a>(ObjectGuid guid, uint32 bid, uint32 buyout, uint32 deposit=0, uint32 cut=0, uint32 moneyDelay=0, uint32 eta=0)</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a8e3dee79fd65c7f25ca1d74fe7924163">BuildAuctionMailSubject</a>(MailAuctionAnswers response) const</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#aa75d261f77460c16f98f211b481a9af0">buyout</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#aa6854cd3ccd30bafdac8e13f05f97c1d">CalculateAuctionOutBid</a>(uint32 bid)</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a13750d00897a07a57a881c3dcb1f6737">DeleteFromDB</a>(CharacterDatabaseTransaction trans) const</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c">deposit</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a8520c9664918d452d8e6b643df8486b5">expire_time</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#ab18794a9a9287cee3328625ae715a57e">GetAuctionCut</a>() const</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a0d34f5709de579b0eea0884598755adc">GetAuctionOutBid</a>() const</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#ac5f752011b382f3b37a155b13cb5cb69">GetFactionId</a>() const</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a2d5a849d817aaee17738aba2a53009f9">GetHouseId</a>() const</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a014be11a4e161eea637098a4e9243b6f">houseId</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#aa65a8b6b8be81f705378e2f510196c48">Id</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a9b1f40baa8c949995acdab008944f403">item_guid</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#ac8935b680716aa5c0d50d750fb934bab">item_template</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#aa67975f37a4ef343422a471ef65a98fd">itemCount</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#acca59324d63bc3eb7a0ffa22c6101770">LoadFromDB</a>(Field *fields)</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#adf2b61be66a9afc7114198fe993d526d">owner</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../de/d93/a07374.html#a62b83210cbde94626f6e092b454b83d8">SaveToDB</a>(CharacterDatabaseTransaction trans) const</td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../de/d93/a07374.html#aa1e6771187c237136d34645db9f852f9">startbid</a></td><td class="entry"><a class="el" href="../../de/d93/a07374.html">AuctionEntry</a></td><td class="entry"></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Apr 6 2026 21:07:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 4 2026 21:41:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

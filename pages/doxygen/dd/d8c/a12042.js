@@ -1,8 +1,7 @@
 var a12042 =
 [
-    [ "ironhand_guardianAI", "dd/d8c/a12042.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "dd/d8c/a12042.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "dd/d8c/a12042.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "dd/d8c/a12042.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "dd/d8c/a12042.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "Command", "dd/d8c/a12042.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
+    [ "ModuleId", "dd/d8c/a12042.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
+    [ "ModuleKey", "dd/d8c/a12042.html#aba0f236c39186022816bd86f8e8e9093", null ],
+    [ "Size", "dd/d8c/a12042.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
 ];

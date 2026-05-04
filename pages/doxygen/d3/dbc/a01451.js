@@ -1,20 +1,44 @@
 var a01451 =
 [
-    [ "Corpse", "d2/d2d/a08277.html", "d2/d2d/a08277" ],
-    [ "CORPSE_RECLAIM_RADIUS", "d3/dbc/a01451.html#a1cebf109f41dcdac8a90086696642782", null ],
-    [ "MAX_CORPSE_TYPE", "d3/dbc/a01451.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
-    [ "CorpseFlags", "d3/dbc/a01451.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [
-      [ "CORPSE_FLAG_NONE", "d3/dbc/a01451.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca30260079b14373a47aef21b99e8757a2", null ],
-      [ "CORPSE_FLAG_BONES", "d3/dbc/a01451.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca47ec12fa0520573d7d8ff9231ca4eb8b", null ],
-      [ "CORPSE_FLAG_UNK1", "d3/dbc/a01451.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c", null ],
-      [ "CORPSE_FLAG_UNK2", "d3/dbc/a01451.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca769ec96151b713170c051ee6236bbd5e", null ],
-      [ "CORPSE_FLAG_HIDE_HELM", "d3/dbc/a01451.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca830d0cde7665a938cd48d4018ae0df79", null ],
-      [ "CORPSE_FLAG_HIDE_CLOAK", "d3/dbc/a01451.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca25bc5b9c02c2cce38be9bb32c2ad335a", null ],
-      [ "CORPSE_FLAG_LOOTABLE", "d3/dbc/a01451.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537caeb7f1630dc7c0b062b809e65cd4e5f80", null ]
+    [ "GameObjectValue", "dc/d06/a08466.html", "dc/d06/a08466" ],
+    [ "GameObject", "d4/de6/a08486.html", "d4/de6/a08486" ],
+    [ "FISHING_BOBBER_READY_TIME", "d3/dbc/a01451.html#aa7242bc5664b993aa0dfe458bf845b13", null ],
+    [ "GameObjectAddonContainer", "d3/dbc/a01451.html#a7c5d40f7f9665e8525be2f1e94b0af47", null ],
+    [ "GameObjectQuestItemList", "d3/dbc/a01451.html#a85906ca8ea219640b7ed904559623a4a", null ],
+    [ "GameObjectQuestItemMap", "d3/dbc/a01451.html#a0695d839f891819d32d9cba1550e5ebb", null ],
+    [ "GameObjectTemplateAddonContainer", "d3/dbc/a01451.html#a43048463c1bc7ccdbb447dd3f791b2ba", null ],
+    [ "GameObjectTemplateContainer", "d3/dbc/a01451.html#a5997afee8ff417f22a5fc03453c0a3d8", null ],
+    [ "goEventFlag", "d3/dbc/a01451.html#a5d69fabbfa5abca4bb03fba46cd1bef0", null ],
+    [ "GameObjectActions", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837", [
+      [ "None", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "AnimateCustom0", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a85821009c4561ff2dd394e76875f41e4", null ],
+      [ "AnimateCustom1", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a20097ab004d5809f0181ff76c095d00d", null ],
+      [ "AnimateCustom2", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a6bd3a49dc3c0acde22f7fb6d717c5ba6", null ],
+      [ "AnimateCustom3", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a96ccf53c55fa14a630d1ebf1814d5500", null ],
+      [ "Disturb", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837ada8bbd8aa09878c8c831cfa4d16cb1e3", null ],
+      [ "Unlock", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a7e7123b0d269ad5d9ec8d12c52a8ed8a", null ],
+      [ "Lock", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837ab485167c5b0e59d47009a16f90fe2659", null ],
+      [ "Open", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837ac3bf447eabe632720a3aa1a7ce401274", null ],
+      [ "OpenAndUnlock", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a309e99e8adfb532df3ef87568ef7b4dd", null ],
+      [ "Close", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837ad3d2e617335f08df83599665eef8a418", null ],
+      [ "ToggleOpen", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a4918a8673999bfdede87be4025674076", null ],
+      [ "Destroy", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a0e181f89f47654b86f3beb42f5cc08b8", null ],
+      [ "Rebuild", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a1c6aac0280240c97962b30423f1f852b", null ],
+      [ "Creation", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a67d5168b4f2b5424a3d118ea9ef99372", null ],
+      [ "Despawn", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a573a38c8ee30e1c0d6ad84ce4f965cf0", null ],
+      [ "MakeInert", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837aabb80dcaf182e2078c504e15fee2a31f", null ],
+      [ "MakeActive", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a403b23a8bfa05cf441c3e9dd632d4974", null ],
+      [ "CloseAndLock", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a395c884e23324c8a881736508abb7d05", null ],
+      [ "UseArtKit0", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837ae2a0fa972f9687e4bc206809d3398c8c", null ],
+      [ "UseArtKit1", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a77d0a472e8fb879ecb2cb0f5e95d66be", null ],
+      [ "UseArtKit2", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837a7c616a85741d0083402758d77385cf12", null ],
+      [ "UseArtKit3", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837ac0d4e2c0fde8b58757dadda7ae262ca8", null ],
+      [ "SetTapList", "d3/dbc/a01451.html#af16a38362829ad78e87eae277ce8b837ab98a44aedde3ad68a77221bb4ba8d8e0", null ]
     ] ],
-    [ "CorpseType", "d3/dbc/a01451.html#a43260eb47484e62a16a868f79646c683", [
-      [ "CORPSE_BONES", "d3/dbc/a01451.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356", null ],
-      [ "CORPSE_RESURRECTABLE_PVE", "d3/dbc/a01451.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78", null ],
-      [ "CORPSE_RESURRECTABLE_PVP", "d3/dbc/a01451.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba", null ]
+    [ "LootState", "d3/dbc/a01451.html#a08733f20cea1f77cc9f1a549f8ce9f07", [
+      [ "GO_NOT_READY", "d3/dbc/a01451.html#a08733f20cea1f77cc9f1a549f8ce9f07aa7f58536a66a38d2bb42502424d69a79", null ],
+      [ "GO_READY", "d3/dbc/a01451.html#a08733f20cea1f77cc9f1a549f8ce9f07a8708de424ecaae41eb7271d399f1d5fc", null ],
+      [ "GO_ACTIVATED", "d3/dbc/a01451.html#a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e", null ],
+      [ "GO_JUST_DEACTIVATED", "d3/dbc/a01451.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5", null ]
     ] ]
 ];

@@ -1,11 +1,11 @@
 var a09022 =
 [
-    [ "SpellPeriodicAuraLogInfo", "da/d11/a09022.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
-    [ "absorb", "da/d11/a09022.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
-    [ "auraEff", "da/d11/a09022.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
-    [ "critical", "da/d11/a09022.html#a51041b901727b4f595d2a886520626ff", null ],
-    [ "damage", "da/d11/a09022.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
-    [ "multiplier", "da/d11/a09022.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
-    [ "overDamage", "da/d11/a09022.html#a51904be3790c99bded697b2cf7c8db23", null ],
-    [ "resist", "da/d11/a09022.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
+    [ "DispelInfo", "da/d11/a09022.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
+    [ "GetDispeller", "da/d11/a09022.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
+    [ "GetDispellerSpellId", "da/d11/a09022.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
+    [ "GetRemovedCharges", "da/d11/a09022.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
+    [ "SetRemovedCharges", "da/d11/a09022.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
+    [ "_chargesRemoved", "da/d11/a09022.html#a5b6105f37470acb57bbda3e14ee664be", null ],
+    [ "_dispellerSpell", "da/d11/a09022.html#a484e6d516c5de30413e97f2c4abb5515", null ],
+    [ "_dispellerUnit", "da/d11/a09022.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
 ];

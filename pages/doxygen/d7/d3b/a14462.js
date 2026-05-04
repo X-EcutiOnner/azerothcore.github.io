@@ -1,6 +1,6 @@
 var a14462 =
 [
-    [ "npc_brewfest_bark_trigger", "d7/d3b/a14462.html#a110d654792e1f5dae8b17f014ea3d425", null ],
-    [ "GetTextFor", "d7/d3b/a14462.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
-    [ "MoveInLineOfSight", "d7/d3b/a14462.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
+    [ "boss_wushoolayAI", "da/d8b/a14466.html", "da/d8b/a14466" ],
+    [ "boss_wushoolay", "d7/d3b/a14462.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "d7/d3b/a14462.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

@@ -1,8 +1,9 @@
 var a09478 =
 [
-    [ "AIRelocationNotifier", "d4/da8/a09478.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
-    [ "Visit", "d4/da8/a09478.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "d4/da8/a09478.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "i_unit", "d4/da8/a09478.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "isCreature", "d4/da8/a09478.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "LiquidData", "d4/da8/a09478.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "d4/da8/a09478.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "d4/da8/a09478.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "d4/da8/a09478.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "d4/da8/a09478.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "d4/da8/a09478.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

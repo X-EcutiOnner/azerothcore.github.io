@@ -1,8 +1,8 @@
 var a28114 =
 [
-    [ "npc_artoriusAI", "d5/d8a/a28118.html", "d5/d8a/a28118" ],
-    [ "npc_artorius", "de/d3f/a28114.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "de/d3f/a28114.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "de/d3f/a28114.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "de/d3f/a28114.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "npc_chicken_cluckAI", "d5/d8a/a28118.html", "d5/d8a/a28118" ],
+    [ "npc_chicken_cluck", "de/d3f/a28114.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "de/d3f/a28114.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "de/d3f/a28114.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "de/d3f/a28114.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

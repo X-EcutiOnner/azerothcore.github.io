@@ -1,4 +1,5 @@
 var a28882 =
 [
-    [ "ratio", "dc/df6/a28882.html#ad3cdf9a27817d39d05b8b785f5ba5ac7", null ]
+    [ "id", "dc/df6/a28882.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "dc/df6/a28882.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];

@@ -1,6 +1,5 @@
 var a19778 =
 [
-    [ "HandleApplyTouch", "da/d3c/a19778.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "da/d3c/a19778.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "da/d3c/a19778.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "boss_sjonnir_dwarfAI", "da/d3c/a19778.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
+    [ "UpdateAI", "da/d3c/a19778.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
 ];

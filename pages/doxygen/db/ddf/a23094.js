@@ -1,13 +1,8 @@
 var a23094 =
 [
-    [ "boss_ghazan", "db/ddf/a23094.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "db/ddf/a23094.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "db/ddf/a23094.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "db/ddf/a23094.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "db/ddf/a23094.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "db/ddf/a23094.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "db/ddf/a23094.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "db/ddf/a23094.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "db/ddf/a23094.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "db/ddf/a23094.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "npc_underbat", "db/ddf/a23094.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "db/ddf/a23094.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "db/ddf/a23094.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "db/ddf/a23094.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "db/ddf/a23094.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

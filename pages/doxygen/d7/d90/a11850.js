@@ -1,6 +1,10 @@
 var a11850 =
 [
-    [ "EffectCalcAmountHandler", "d7/d90/a11850.html#a4fe66bbf0433e80b602683a278e3a709", null ],
-    [ "Call", "d7/d90/a11850.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
-    [ "pEffectHandlerScript", "d7/d90/a11850.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
+    [ "TargetHook", "d7/d90/a11850.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
+    [ "CheckEffect", "d7/d90/a11850.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
+    [ "GetTarget", "d7/d90/a11850.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
+    [ "ToString", "d7/d90/a11850.html#a424e03e457dc15a2689f344e614a882f", null ],
+    [ "area", "d7/d90/a11850.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
+    [ "dest", "d7/d90/a11850.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
+    [ "targetType", "d7/d90/a11850.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
 ];

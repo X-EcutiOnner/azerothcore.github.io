@@ -1,6 +1,6 @@
 var a13846 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "df/df5/a13850.html", "df/df5/a13850" ],
-    [ "npc_balance_of_light_and_shadow", "dd/db6/a13846.html#a55229e3ea8dd9c52972185b36c08908b", null ],
-    [ "GetAI", "dd/db6/a13846.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
+    [ "HandleSendEvent", "dd/db6/a13846.html#a1be975f4440b823c34cc3e790fcff608", null ],
+    [ "PrepareSpellScript", "dd/db6/a13846.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
+    [ "Register", "dd/db6/a13846.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
 ];

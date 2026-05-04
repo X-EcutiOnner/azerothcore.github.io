@@ -1,7 +1,9 @@
 var a10934 =
 [
-    [ "GuildInvite", "dd/d3a/a10934.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
-    [ "Write", "dd/d3a/a10934.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
-    [ "GuildName", "dd/d3a/a10934.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
-    [ "InviterName", "dd/d3a/a10934.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
+    [ "GuildInfoResponse", "dd/d3a/a10934.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "dd/d3a/a10934.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "dd/d3a/a10934.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "dd/d3a/a10934.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "dd/d3a/a10934.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "dd/d3a/a10934.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

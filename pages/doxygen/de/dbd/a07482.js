@@ -1,8 +1,7 @@
 var a07482 =
 [
-    [ "nbTowerCannonBottom", "de/dbd/a07482.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
-    [ "nbTurretTop", "de/dbd/a07482.html#a5a728dccad89da190131cd93b62390b7", null ],
-    [ "TowerCannonBottom", "de/dbd/a07482.html#a21fa09356b3349bf45865aa3f0920268", null ],
-    [ "towerEntry", "de/dbd/a07482.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
-    [ "TurretTop", "de/dbd/a07482.html#a6849ba6967fa275950da9fec16df9bec", null ]
+    [ "BfGraveyardWG", "de/dbd/a07482.html#a040af569e6633e4ed4c7513b55d034ac", null ],
+    [ "GetTextId", "de/dbd/a07482.html#a618b778d8bed11627150a88e2f4e349b", null ],
+    [ "SetTextId", "de/dbd/a07482.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
+    [ "GossipTextId", "de/dbd/a07482.html#af197f40de908ed650229bbf033836778", null ]
 ];

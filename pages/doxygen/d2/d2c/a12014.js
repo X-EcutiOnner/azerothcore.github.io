@@ -1,7 +1,6 @@
 var a12014 =
 [
-    [ "CompressedData", "d2/d2c/a12014.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
-    [ "CompressedSize", "d2/d2c/a12014.html#ab57879b41c825623a989db13a53f2f4e", null ],
-    [ "Id", "d2/d2c/a12014.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
-    [ "Key", "d2/d2c/a12014.html#ad100540b5c6722a19c938b134a985aed", null ]
+    [ "FieldGuidType", "d2/d2c/a12014.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
+    [ "FieldName", "d2/d2c/a12014.html#a669f1ecf12148799e59e7b3e3124d681", null ],
+    [ "IsDependentField", "d2/d2c/a12014.html#a241b9e8f5672e30732f0b938b02046d4", null ]
 ];

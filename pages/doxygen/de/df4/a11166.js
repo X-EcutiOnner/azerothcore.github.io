@@ -1,11 +1,6 @@
 var a11166 =
 [
-    [ "BuyItemInSlot", "de/df4/a11166.html#a9a15be940d8eb216614dca5055be094a", null ],
-    [ "Read", "de/df4/a11166.html#a2608e83a41fb44c8469d2b9196702627", null ],
-    [ "BagGuid", "de/df4/a11166.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
-    [ "BagSlot", "de/df4/a11166.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
-    [ "Count", "de/df4/a11166.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
-    [ "Item", "de/df4/a11166.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
-    [ "Slot", "de/df4/a11166.html#aae1dba7644a82933a801f581551479bc", null ],
-    [ "VendorGuid", "de/df4/a11166.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
+    [ "InstanceLockResponse", "de/df4/a11166.html#a375d48ef2bc703f0223db82738016c6e", null ],
+    [ "Read", "de/df4/a11166.html#a954b3d4521bc48ba5ee9807cc935e484", null ],
+    [ "Accept", "de/df4/a11166.html#a23cd7f483abfaede6df7a51b083a4477", null ]
 ];

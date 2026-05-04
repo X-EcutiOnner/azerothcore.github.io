@@ -1,6 +1,7 @@
 var a22958 =
 [
-    [ "HandleApplyAura", "d5/df1/a22958.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d5/df1/a22958.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d5/df1/a22958.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "PeriodicTick", "d5/df1/a22958.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
+    [ "PrepareAuraScript", "d5/df1/a22958.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
+    [ "Register", "d5/df1/a22958.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
+    [ "Validate", "d5/df1/a22958.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
 ];

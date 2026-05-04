@@ -1,7 +1,6 @@
 var a05154 =
 [
-    [ "indices", "d9/dcb/a05154.html#a23cadbd54502fb4edc68e052e5774664", null ],
-    [ "maxPrims", "d9/dcb/a05154.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
-    [ "numPrims", "d9/dcb/a05154.html#a623b9ee05707ecdbaa816c797e358e86", null ],
-    [ "primBound", "d9/dcb/a05154.html#a3304ad5d821f178941fd44da897213de", null ]
+    [ "Resolver", "d9/dcb/a05154.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
+    [ "Resolve", "d9/dcb/a05154.html#ab190f885c84753fe65405db6fb04bf7c", null ],
+    [ "_impl", "d9/dcb/a05154.html#a08ed9183a6338606524c44f0fd5695a0", null ]
 ];

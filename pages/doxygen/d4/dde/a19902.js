@@ -1,15 +1,16 @@
 var a19902 =
 [
-    [ "boss_auriaya", "d4/dde/a19902.html#a2d946ada185a29bf00dc49d28089e64e", null ],
-    [ "DoAction", "d4/dde/a19902.html#aa58503020e3382e0c541047b233945a7", null ],
-    [ "ExecuteEvent", "d4/dde/a19902.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
-    [ "GetData", "d4/dde/a19902.html#a44781b758392f8f519b9684617757620", null ],
-    [ "JustDied", "d4/dde/a19902.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
-    [ "JustEngagedWith", "d4/dde/a19902.html#ac80d7bbc334e20df9e85540556b8714e", null ],
-    [ "JustSummoned", "d4/dde/a19902.html#aaec8af440e83fd614041cb63115adc48", null ],
-    [ "KilledUnit", "d4/dde/a19902.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
-    [ "Reset", "d4/dde/a19902.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
-    [ "SummonedCreatureDies", "d4/dde/a19902.html#a928a8d7c084125136bdef1ab0a3a4737", null ],
-    [ "_feralDied", "d4/dde/a19902.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
-    [ "_nineLives", "d4/dde/a19902.html#a26d80573eda1aa1005e1bc5453c182af", null ]
+    [ "boss_steelbreaker", "d4/dde/a19902.html#a724e315f9508b02cadc5560f6525afc7", null ],
+    [ "DoAction", "d4/dde/a19902.html#a2f945dac566b3d24009b486cb4e37cd3", null ],
+    [ "JustDied", "d4/dde/a19902.html#af69b423bd844f946dede44e136344077", null ],
+    [ "JustEngagedWith", "d4/dde/a19902.html#afa14e6571e7772d9c978d45a94a40afa", null ],
+    [ "JustReachedHome", "d4/dde/a19902.html#ad73d9abcfdf9a2fcf3345a024db1f653", null ],
+    [ "KilledUnit", "d4/dde/a19902.html#a153f72f75fc0758591b418fe82c2628d", null ],
+    [ "Reset", "d4/dde/a19902.html#a66e5f9c30d30ed7dc42b8ae3ef4f46b6", null ],
+    [ "SpellHit", "d4/dde/a19902.html#adf32e50b2fc6f8d373933cc0295c7d54", null ],
+    [ "UpdateAI", "d4/dde/a19902.html#ad96ac1dcde103ddf71b2ded15e757834", null ],
+    [ "UpdatePhase", "d4/dde/a19902.html#a42ab7be0d80ece19dd726ed29d425183", null ],
+    [ "_phase", "d4/dde/a19902.html#a1b94dfb3b76278475aae50720a2e85c0", null ],
+    [ "events", "d4/dde/a19902.html#add48973c02460691e0f32a3ae3897836", null ],
+    [ "pInstance", "d4/dde/a19902.html#acf1e2229be9f931d0825ce252116b499", null ]
 ];

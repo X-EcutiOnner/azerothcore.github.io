@@ -1,6 +1,6 @@
 var a25554 =
 [
-    [ "HandleActivateObject", "dc/d42/a25554.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "dc/d42/a25554.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "dc/d42/a25554.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "CalculateAmount", "dc/d42/a25554.html#ad80edf403addb2d907d0d3d778b6745f", null ],
+    [ "PrepareAuraScript", "dc/d42/a25554.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
+    [ "Register", "dc/d42/a25554.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
 ];

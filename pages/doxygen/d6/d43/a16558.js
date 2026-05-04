@@ -1,6 +1,7 @@
 var a16558 =
 [
-    [ "HandleSpellHit", "d6/d43/a16558.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "d6/d43/a16558.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "d6/d43/a16558.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "HandleAfterEffectAbsorb", "d6/d43/a16558.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d6/d43/a16558.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d6/d43/a16558.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d6/d43/a16558.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

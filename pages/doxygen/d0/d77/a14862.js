@@ -1,7 +1,7 @@
 var a14862 =
 [
-    [ "HandleScript", "d0/d77/a14862.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "d0/d77/a14862.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "d0/d77/a14862.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "d0/d77/a14862.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "GetVisualThrow", "d0/d77/a14862.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "d0/d77/a14862.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "d0/d77/a14862.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "d0/d77/a14862.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

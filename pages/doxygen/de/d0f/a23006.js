@@ -1,6 +1,5 @@
 var a23006 =
 [
-    [ "HandleScript", "de/d0f/a23006.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
-    [ "PrepareSpellScript", "de/d0f/a23006.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
-    [ "Register", "de/d0f/a23006.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
+    [ "at_quagmirran_lair", "de/d0f/a23006.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "de/d0f/a23006.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

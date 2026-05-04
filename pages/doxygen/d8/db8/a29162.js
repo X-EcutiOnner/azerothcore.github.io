@@ -1,7 +1,7 @@
 var a29162 =
 [
-    [ "~ByteBufferException", "d8/db8/a29162.html#a0ab73f9061c040127f70dbfc9a176509", null ],
-    [ "message", "d8/db8/a29162.html#ab1a64d8fc18565a04c347de29184f68c", null ],
-    [ "what", "d8/db8/a29162.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
-    [ "msg_", "d8/db8/a29162.html#a314bdbb7063219f8256df894602e6b02", null ]
+    [ "MockAuraStub", "d8/db8/a29162.html#a9f0561eabca5230f8fe27384e0deb6b8", null ],
+    [ "MOCK_METHOD", "d8/db8/a29162.html#a727233484b563f548c9f0e2d8a78b9a6", null ],
+    [ "MOCK_METHOD", "d8/db8/a29162.html#a9581f1887abbe708bc4e2da24e1996b5", null ],
+    [ "MOCK_METHOD", "d8/db8/a29162.html#abe2d675e124d5cb9115e8f726b1c7d8b", null ]
 ];

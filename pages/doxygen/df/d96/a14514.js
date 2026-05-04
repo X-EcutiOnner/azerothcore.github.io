@@ -1,9 +1,9 @@
 var a14514 =
 [
-    [ "npc_brew_bubble", "df/d96/a14514.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "df/d96/a14514.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "df/d96/a14514.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "df/d96/a14514.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "df/d96/a14514.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "df/d96/a14514.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "HandleEffectPeriodic", "df/d96/a14514.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
+    [ "HandleEffectRemove", "df/d96/a14514.html#a96ed7366e568b70e82d622586740aa56", null ],
+    [ "Load", "df/d96/a14514.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
+    [ "PrepareAuraScript", "df/d96/a14514.html#abd1f851112a50b79e815cdd894275bab", null ],
+    [ "Register", "df/d96/a14514.html#aa3cd85aed063017c4737e7660fa81f37", null ],
+    [ "questTick", "df/d96/a14514.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
 ];

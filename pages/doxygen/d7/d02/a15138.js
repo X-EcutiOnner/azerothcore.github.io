@@ -1,9 +1,12 @@
 var a15138 =
 [
-    [ "boss_chrono_lord_deja", "d7/d02/a15138.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "d7/d02/a15138.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "d7/d02/a15138.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "d7/d02/a15138.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "d7/d02/a15138.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "d7/d02/a15138.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "boss_lieutenant_drake", "d7/d02/a15138.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
+    [ "InitializeAI", "d7/d02/a15138.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
+    [ "JustDied", "d7/d02/a15138.html#aca7654e30aac96fa509f99f3447121ec", null ],
+    [ "JustEngagedWith", "d7/d02/a15138.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
+    [ "KilledUnit", "d7/d02/a15138.html#a833c889c28ea35a6198fe753b604a8ed", null ],
+    [ "MovementInform", "d7/d02/a15138.html#aec6e332bc5739552cbbec27569c55759", null ],
+    [ "UpdateAI", "d7/d02/a15138.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
+    [ "pathId", "d7/d02/a15138.html#ac63f9c885296a797799c0cd83b0ade64", null ],
+    [ "runSecondPath", "d7/d02/a15138.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
 ];

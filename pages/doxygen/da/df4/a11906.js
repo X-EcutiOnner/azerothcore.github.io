@@ -1,10 +1,6 @@
 var a11906 =
 [
-    [ "CustomChatTextBuilder", "da/df4/a11906.html#a47b3e24f7100d13180ad1946647999ae", null ],
-    [ "operator()", "da/df4/a11906.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
-    [ "_language", "da/df4/a11906.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
-    [ "_msgType", "da/df4/a11906.html#a0db1501da33fde77ab3c50943666b1fd", null ],
-    [ "_source", "da/df4/a11906.html#ad75f22d7eb6a62d59730918f4336768c", null ],
-    [ "_target", "da/df4/a11906.html#aa45be322836be588d8df2b253a22ee5c", null ],
-    [ "_text", "da/df4/a11906.html#ab59c9b938b564329483e38466169a92c", null ]
+    [ "EffectAbsorbHandler", "da/df4/a11906.html#a29bb773b8271acf651b08f33ce358720", null ],
+    [ "Call", "da/df4/a11906.html#a56bfb0fd0d860678920445d1182c09ef", null ],
+    [ "pEffectHandlerScript", "da/df4/a11906.html#a519489b8d951173a806e86cfe075faf1", null ]
 ];

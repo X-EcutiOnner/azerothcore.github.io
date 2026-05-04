@@ -1,6 +1,13 @@
 var a17538 =
 [
-    [ "OnAbsorb", "da/d7d/a17538.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "da/d7d/a17538.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "da/d7d/a17538.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "npc_kinetic_bombAI", "da/d7d/a17538.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
+    [ "DoAction", "da/d7d/a17538.html#a52e913b244e58f99745926d021dc0d95", null ],
+    [ "IsSummonedBy", "da/d7d/a17538.html#a03dc3870b23105bb1d0d207adefe2541", null ],
+    [ "Reset", "da/d7d/a17538.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
+    [ "UpdateAI", "da/d7d/a17538.html#a1ce9bf99879796652878990a773e6a2c", null ],
+    [ "_events", "da/d7d/a17538.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
+    [ "_groundZ", "da/d7d/a17538.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
+    [ "_x", "da/d7d/a17538.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
+    [ "_y", "da/d7d/a17538.html#a5d9f4039c87e1e57234af51cd4617022", null ],
+    [ "exploded", "da/d7d/a17538.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
 ];

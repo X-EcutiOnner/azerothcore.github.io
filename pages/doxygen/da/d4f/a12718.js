@@ -1,7 +1,10 @@
 var a12718 =
 [
-    [ "HandleRemove", "da/d4f/a12718.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "da/d4f/a12718.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "da/d4f/a12718.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "da/d4f/a12718.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "npc_corrupted_totem", "da/d4f/a12718.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "da/d4f/a12718.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "da/d4f/a12718.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "da/d4f/a12718.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "da/d4f/a12718.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "da/d4f/a12718.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "da/d4f/a12718.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

@@ -1,17 +1,23 @@
 var a00914 =
 [
-    [ "Arena", "da/d0a/a07505.html", "da/d0a/a07505" ],
-    [ "ArenaBroadcastTexts", "d3/dd1/a00914.html#a407f2036481e3d9e2def3daa50546c71", [
-      [ "ARENA_TEXT_START_ONE_MINUTE", "d3/dd1/a00914.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
-      [ "ARENA_TEXT_START_THIRTY_SECONDS", "d3/dd1/a00914.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
-      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "d3/dd1/a00914.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
-      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "d3/dd1/a00914.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
-    ] ],
-    [ "ArenaSpellIds", "d3/dd1/a00914.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
-      [ "SPELL_ALLIANCE_GOLD_FLAG", "d3/dd1/a00914.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
-      [ "SPELL_ALLIANCE_GREEN_FLAG", "d3/dd1/a00914.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
-      [ "SPELL_HORDE_GOLD_FLAG", "d3/dd1/a00914.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
-      [ "SPELL_HORDE_GREEN_FLAG", "d3/dd1/a00914.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
-      [ "SPELL_LAST_MAN_STANDING", "d3/dd1/a00914.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
+    [ "BattlegroundScore", "dd/d69/a07650.html", "dd/d69/a07650" ],
+    [ "ScoreType", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18", [
+      [ "SCORE_KILLING_BLOWS", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046", null ],
+      [ "SCORE_DEATHS", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412", null ],
+      [ "SCORE_HONORABLE_KILLS", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7", null ],
+      [ "SCORE_BONUS_HONOR", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f", null ],
+      [ "SCORE_DAMAGE_DONE", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527", null ],
+      [ "SCORE_HEALING_DONE", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2", null ],
+      [ "SCORE_FLAG_CAPTURES", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18a49ecbd479d11f177283e94e2b936b89b", null ],
+      [ "SCORE_FLAG_RETURNS", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18af4b88b5a6497049691b51da5367bec2a", null ],
+      [ "SCORE_BASES_ASSAULTED", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18a108feeea9c0953b1385ca31d65d252e1", null ],
+      [ "SCORE_BASES_DEFENDED", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408", null ],
+      [ "SCORE_GRAVEYARDS_ASSAULTED", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18a10d874c8aa6cc5f92f3c66ed2b09ec6b", null ],
+      [ "SCORE_GRAVEYARDS_DEFENDED", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18ae38155160e05accac751eb7b1c0d1a8a", null ],
+      [ "SCORE_TOWERS_ASSAULTED", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18a6289024a3ec4b3bbd713bb620962b027", null ],
+      [ "SCORE_TOWERS_DEFENDED", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18a2e13ab0e3b8c3865cdd00d826e7f818a", null ],
+      [ "SCORE_MINES_CAPTURED", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015", null ],
+      [ "SCORE_DESTROYED_DEMOLISHER", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e", null ],
+      [ "SCORE_DESTROYED_WALL", "d3/dd1/a00914.html#aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80", null ]
     ] ]
 ];

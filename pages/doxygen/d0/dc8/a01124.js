@@ -1,7 +1,16 @@
 var a01124 =
 [
-    [ "ChannelMgr", "d6/df3/a07789.html", "d6/df3/a07789" ],
-    [ "AllianceChannelMgr", "d8/d60/a07793.html", "d8/d60/a07793" ],
-    [ "HordeChannelMgr", "d6/d7b/a07797.html", "d6/d7b/a07797" ],
-    [ "MAX_CHANNEL_PASS_STR", "d0/dc8/a01124.html#a06f16ee81d2214d67575f108b76f6333", null ]
+    [ "LinkValidator< T >", "d0/d7a/a08030.html", "d0/d7a/a08030" ],
+    [ "LinkValidator< LinkTags::achievement >", "d9/d58/a08034.html", "d9/d58/a08034" ],
+    [ "LinkValidator< LinkTags::item >", "df/d60/a08038.html", "df/d60/a08038" ],
+    [ "LinkValidator< LinkTags::quest >", "db/d56/a08042.html", "db/d56/a08042" ],
+    [ "LinkValidator< LinkTags::spell >", "d3/d76/a08046.html", "d3/d76/a08046" ],
+    [ "LinkValidator< LinkTags::enchant >", "d3/d02/a08050.html", "d3/d02/a08050" ],
+    [ "LinkValidator< LinkTags::glyph >", "de/d82/a08054.html", "de/d82/a08054" ],
+    [ "LinkValidator< LinkTags::talent >", "df/d07/a08058.html", "df/d07/a08058" ],
+    [ "LinkValidator< LinkTags::trade >", "d1/d21/a08062.html", "d1/d21/a08062" ],
+    [ "TryValidateAs", "d0/dc8/a01124.html#af1c86bff85f30ff113d5f78421c280af", null ],
+    [ "toHex", "d0/dc8/a01124.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
+    [ "ValidateAs", "d0/dc8/a01124.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],
+    [ "ValidateLinkInfo", "d0/dc8/a01124.html#a7de61dd7d7c595063ae73f415e961cc9", null ]
 ];

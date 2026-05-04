@@ -1,7 +1,5 @@
 var a27926 =
 [
-    [ "go_darkmoon_faire_musicAI", "d3/df5/a27926.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "d3/df5/a27926.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "d3/df5/a27926.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "d3/df5/a27926.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "go_hive_pod", "d3/df5/a27926.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "d3/df5/a27926.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

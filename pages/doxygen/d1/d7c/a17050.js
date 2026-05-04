@@ -1,9 +1,7 @@
 var a17050 =
 [
-    [ "HandlePeriodicTick", "d1/d7c/a17050.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "d1/d7c/a17050.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "d1/d7c/a17050.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "d1/d7c/a17050.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "d1/d7c/a17050.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "d1/d7c/a17050.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "HandleScriptEffect", "d1/d7c/a17050.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "d1/d7c/a17050.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "d1/d7c/a17050.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "d1/d7c/a17050.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

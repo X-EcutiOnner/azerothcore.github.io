@@ -1,15 +1,6 @@
 var a17390 =
 [
-    [ "boss_gal_darah", "d2/dce/a17390.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
-    [ "GetData", "d2/dce/a17390.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
-    [ "JustDied", "d2/dce/a17390.html#a98f53f7131155114da1eeb19f5a50daa", null ],
-    [ "JustEngagedWith", "d2/dce/a17390.html#acf7696bdfa868808f29a90dbec4b0688", null ],
-    [ "JustReachedHome", "d2/dce/a17390.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
-    [ "JustSummoned", "d2/dce/a17390.html#a490e259cf452c417864c978510d06fd2", null ],
-    [ "KilledUnit", "d2/dce/a17390.html#a799e52cfe029164149017ea7f963937f", null ],
-    [ "Reset", "d2/dce/a17390.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
-    [ "ScheduleEvents", "d2/dce/a17390.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
-    [ "SpellHit", "d2/dce/a17390.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
-    [ "_stampedeVictim", "d2/dce/a17390.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
-    [ "impaledList", "d2/dce/a17390.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
+    [ "boss_drakkari_elementalAI", "db/dd1/a17394.html", "db/dd1/a17394" ],
+    [ "boss_drakkari_elemental", "d2/dce/a17390.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d2/dce/a17390.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

@@ -1,10 +1,8 @@
 var a24566 =
 [
-    [ "Load", "d3/d8a/a24566.html#a2c4e408e45995098b01a05815fffb34c", null ],
-    [ "OnApply", "d3/d8a/a24566.html#acae1047046bb8f555d1798ca024a2650", null ],
-    [ "OnRemove", "d3/d8a/a24566.html#aa01df2b86cf69508866f6e7d063c735a", null ],
-    [ "PrepareAuraScript", "d3/d8a/a24566.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
-    [ "Register", "d3/d8a/a24566.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
-    [ "Validate", "d3/d8a/a24566.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
-    [ "_casterGUID", "d3/d8a/a24566.html#a8047fb4309487c7a529047ec5148a2e3", null ]
+    [ "CheckProc", "d3/d8a/a24566.html#aa3b4d0bb214146b14d7a991c12f2f38d", null ],
+    [ "HandleProc", "d3/d8a/a24566.html#a020b3e9890b8ef88887ec3cf35f7ca6d", null ],
+    [ "PrepareAuraScript", "d3/d8a/a24566.html#aee9068453d0c16088eb120da65657903", null ],
+    [ "Register", "d3/d8a/a24566.html#ad87e455c7e09c040f574140921b4e406", null ],
+    [ "Validate", "d3/d8a/a24566.html#a1075a61443eba3609f4d0602fb4f1144", null ]
 ];

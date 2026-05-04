@@ -1,5 +1,5 @@
 var a02627 =
 [
-    [ "gear_commandscript", "d9/d6b/a12197.html", "d9/d6b/a12197" ],
-    [ "AddSC_gear_commandscript", "dc/d34/a02627.html#a8f5ae2609cea7d63d76141e1a5feaf27", null ]
+    [ "player_commandscript", "d7/def/a12326.html", "d7/def/a12326" ],
+    [ "AddSC_player_commandscript", "dc/d34/a02627.html#a3a4a77162d5b304dab9a8c8e397c3516", null ]
 ];

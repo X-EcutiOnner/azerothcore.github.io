@@ -1,6 +1,6 @@
 var a23874 =
 [
-    [ "npc_dragonmaw_peonAI", "d6/d93/a23878.html", "d6/d93/a23878" ],
-    [ "npc_dragonmaw_peon", "da/dc1/a23874.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "da/dc1/a23874.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d6/d93/a23878.html", "d6/d93/a23878" ],
+    [ "npc_shadowmoon_tuber_node", "da/dc1/a23874.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "da/dc1/a23874.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

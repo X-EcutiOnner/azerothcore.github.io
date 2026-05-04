@@ -1,9 +1,9 @@
 var a11222 =
 [
-    [ "LevelUpInfo", "d0/d8f/a11222.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
-    [ "Write", "d0/d8f/a11222.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
-    [ "HealthDelta", "d0/d8f/a11222.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
-    [ "Level", "d0/d8f/a11222.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
-    [ "PowerDelta", "d0/d8f/a11222.html#a697da64ac234c24fe73e68d408697ee6", null ],
-    [ "StatDelta", "d0/d8f/a11222.html#a580e4a3cd77631e960b7753542375d6d", null ]
+    [ "EnchantmentLog", "d0/d8f/a11222.html#a4427184d166b18e984dc301a6786aac3", null ],
+    [ "Write", "d0/d8f/a11222.html#a17752d3e862c1915f8479058a4be1eb7", null ],
+    [ "Caster", "d0/d8f/a11222.html#ae35a0c689357cf4b5a031f40314a7045", null ],
+    [ "EnchantId", "d0/d8f/a11222.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
+    [ "ItemId", "d0/d8f/a11222.html#ad393d5f227bb81738582572bd2601650", null ],
+    [ "Target", "d0/d8f/a11222.html#a9ef981f750bee2101c1f886fa2514913", null ]
 ];

@@ -1,10 +1,5 @@
 var a08206 =
 [
-    [ "LfgUpdateData", "da/de1/a08206.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
-    [ "LfgUpdateData", "da/de1/a08206.html#a656873ea6ef9b3f23791827617a000c6", null ],
-    [ "LfgUpdateData", "da/de1/a08206.html#a248682a712dd43b8c4601830aae4ddec", null ],
-    [ "comment", "da/de1/a08206.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
-    [ "dungeons", "da/de1/a08206.html#a0e9b49693248b438dbc508e230a870db", null ],
-    [ "state", "da/de1/a08206.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
-    [ "updateType", "da/de1/a08206.html#a146e43854f66bf57f703d7089a24481e", null ]
+    [ "number", "da/de1/a08206.html#af111e542d7a276e27d2b14757293bc42", null ],
+    [ "offset_elements", "da/de1/a08206.html#ad633b2e9afc82762c6b43675844f8fea", null ]
 ];

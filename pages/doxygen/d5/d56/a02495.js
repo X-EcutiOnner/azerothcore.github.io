@@ -1,5 +1,5 @@
 var a02495 =
 [
-    [ "cache_commandscript", "d6/d4d/a12157.html", "d6/d4d/a12157" ],
-    [ "AddSC_cache_commandscript", "d5/d56/a02495.html#a293f65606c1750692d4046d4fe4c4adc", null ]
+    [ "reload_commandscript", "d0/de8/a12366.html", "d0/de8/a12366" ],
+    [ "AddSC_reload_commandscript", "d5/d56/a02495.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
 ];

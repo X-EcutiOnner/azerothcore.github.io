@@ -1,7 +1,5 @@
 var a27918 =
 [
-    [ "go_pirate_day_musicAI", "d4/d0b/a27918.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "d4/d0b/a27918.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "d4/d0b/a27918.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "d4/d0b/a27918.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "go_dragonflayer_cage", "d4/d0b/a27918.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d4/d0b/a27918.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

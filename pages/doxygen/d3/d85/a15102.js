@@ -1,7 +1,6 @@
 var a15102 =
 [
-    [ "boss_epoch_hunter", "d3/d85/a15102.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "d3/d85/a15102.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "d3/d85/a15102.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "d3/d85/a15102.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "npc_crate_helperAI", "d3/d85/a15102.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "SpellHit", "d3/d85/a15102.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "_marked", "d3/d85/a15102.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];

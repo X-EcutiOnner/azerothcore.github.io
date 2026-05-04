@@ -1,8 +1,8 @@
 var a20142 =
 [
-    [ "npc_ulduar_flash_freeze", "da/d98/a20142.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
-    [ "DamageTaken", "da/d98/a20142.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "da/d98/a20142.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "_instance", "da/d98/a20142.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
-    [ "timer", "da/d98/a20142.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "OnApply", "da/d98/a20142.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "da/d98/a20142.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "da/d98/a20142.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "da/d98/a20142.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "da/d98/a20142.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

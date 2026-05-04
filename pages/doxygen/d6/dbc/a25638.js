@@ -1,8 +1,7 @@
 var a25638 =
 [
-    [ "HandleProc", "d6/dbc/a25638.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "d6/dbc/a25638.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "d6/dbc/a25638.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "d6/dbc/a25638.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "d6/dbc/a25638.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "HandleScript", "d6/dbc/a25638.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
+    [ "Load", "d6/dbc/a25638.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
+    [ "PrepareSpellScript", "d6/dbc/a25638.html#abfac1629b7724a3b17b94480c31867af", null ],
+    [ "Register", "d6/dbc/a25638.html#a62b9c194106e261245496441176c8d53", null ]
 ];

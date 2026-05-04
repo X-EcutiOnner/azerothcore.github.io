@@ -1,5 +1,5 @@
 var a11450 =
 [
-    [ "SocketIPBytes", "d5/df9/a11450.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
-    [ "SocketPort", "d5/df9/a11450.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
+    [ "TimeQuery", "d5/df9/a11450.html#a90c467ab19d96b96ace5b50bad617095", null ],
+    [ "Read", "d5/df9/a11450.html#aae26e83828fc6118dea64f8861170868", null ]
 ];

@@ -1,6 +1,7 @@
 var a25374 =
 [
-    [ "HandleStackDrop", "d8/dbe/a25374.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
-    [ "PrepareAuraScript", "d8/dbe/a25374.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
-    [ "Register", "d8/dbe/a25374.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
+    [ "HandleProc", "d8/dbe/a25374.html#a675a17a574539f2da85a5401afc18fec", null ],
+    [ "PrepareAuraScript", "d8/dbe/a25374.html#a9e5ea1da302356a41b4eff338956ab93", null ],
+    [ "Register", "d8/dbe/a25374.html#a2bade504b1ab2c2869ecaf8873864d19", null ],
+    [ "Validate", "d8/dbe/a25374.html#aec327c219229ae9d59cb491eef2d95d3", null ]
 ];

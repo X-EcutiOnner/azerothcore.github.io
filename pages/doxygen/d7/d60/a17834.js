@@ -1,6 +1,6 @@
 var a17834 =
 [
-    [ "PrepareSpellScript", "d7/d60/a17834.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d7/d60/a17834.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d7/d60/a17834.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "npc_gunship_boarding_add_realAI", "d7/d60/a17834.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "d7/d60/a17834.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "d7/d60/a17834.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

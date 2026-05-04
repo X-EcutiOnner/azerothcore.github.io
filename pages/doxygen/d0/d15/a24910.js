@@ -1,8 +1,6 @@
 var a24910 =
 [
-    [ "CheckRequirement", "d0/d15/a24910.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "d0/d15/a24910.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "d0/d15/a24910.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "d0/d15/a24910.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "d0/d15/a24910.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "HandleEffectPeriodic", "d0/d15/a24910.html#a248ba0e88498e36355491b2b89063e17", null ],
+    [ "PrepareAuraScript", "d0/d15/a24910.html#ac9aed434fe7602ef846e9f052402620e", null ],
+    [ "Register", "d0/d15/a24910.html#a039eec910c802276b9e979253141cdee", null ]
 ];

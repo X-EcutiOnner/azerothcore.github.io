@@ -1,8 +1,10 @@
 var a20098 =
 [
-    [ "npc_ulduar_saronite_animus", "d8/dd1/a20098.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
-    [ "JustDied", "d8/dd1/a20098.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
-    [ "UpdateAI", "d8/dd1/a20098.html#afc7899752e25669b37ab04b50fb2d604", null ],
-    [ "_instance", "d8/dd1/a20098.html#a6f2bf52c82185365efe88941b7922504", null ],
-    [ "timer", "d8/dd1/a20098.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
+    [ "boss_freya_elder_ironbranch", "d8/dd1/a20098.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
+    [ "JustDied", "d8/dd1/a20098.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
+    [ "JustEngagedWith", "d8/dd1/a20098.html#a34d87135b8dac114a8783941dba69559", null ],
+    [ "KilledUnit", "d8/dd1/a20098.html#a20b5a622ac233d1280169f54942c894f", null ],
+    [ "Reset", "d8/dd1/a20098.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
+    [ "UpdateAI", "d8/dd1/a20098.html#a00dade8af24a2240187fb4e52138c0d1", null ],
+    [ "events", "d8/dd1/a20098.html#a8693a800da6890004f3ae82fd9898480", null ]
 ];

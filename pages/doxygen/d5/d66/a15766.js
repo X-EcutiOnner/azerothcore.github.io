@@ -1,6 +1,6 @@
 var a15766 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d5/d66/a15766.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "d5/d66/a15766.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "d5/d66/a15766.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "npc_troll_volunteerAI", "d8/d3c/a15770.html", "d8/d3c/a15770" ],
+    [ "npc_troll_volunteer", "d5/d66/a15766.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
+    [ "GetAI", "d5/d66/a15766.html#aba0208b0910ace75686941c462ecca56", null ]
 ];

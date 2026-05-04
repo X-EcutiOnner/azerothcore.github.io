@@ -1,11 +1,7 @@
 var a13354 =
 [
-    [ "npc_valkyr_battle_maidenAI", "dd/d89/a13354.html#a859b63621c500c7a36150fadbb460b2b", null ],
-    [ "Reset", "dd/d89/a13354.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
-    [ "UpdateAI", "dd/d89/a13354.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
-    [ "FlyBackTimer", "dd/d89/a13354.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
-    [ "phase", "dd/d89/a13354.html#abd5d71272aa575be8583254217194e49", null ],
-    [ "x", "dd/d89/a13354.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
-    [ "y", "dd/d89/a13354.html#acccea63fedf38de14f7818016830a0a9", null ],
-    [ "z", "dd/d89/a13354.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
+    [ "CheckCast", "dd/d89/a13354.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
+    [ "HandleScriptEffect", "dd/d89/a13354.html#af265f0bba7028f45763a7f9afea2d051", null ],
+    [ "PrepareSpellScript", "dd/d89/a13354.html#a27518fd5482e65e0324100057e747d68", null ],
+    [ "Register", "dd/d89/a13354.html#a07789d7d092eb1b6633200442466c52b", null ]
 ];

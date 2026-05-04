@@ -1,10 +1,8 @@
 var a20638 =
 [
-    [ "boss_yoggsaron_voice", "d5/dc2/a20638.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
-    [ "Reset", "d5/dc2/a20638.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
-    [ "SpellHitTarget", "d5/dc2/a20638.html#aae3b82dbb871f0f297bdacf975958492", null ],
-    [ "UpdateAI", "d5/dc2/a20638.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
-    [ "_current", "d5/dc2/a20638.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
-    [ "_targets", "d5/dc2/a20638.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
-    [ "events", "d5/dc2/a20638.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "d5/dc2/a20638.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "d5/dc2/a20638.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "d5/dc2/a20638.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "d5/dc2/a20638.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "d5/dc2/a20638.html#ae22a12401dc98534da1cb771468a58ce", null ]
 ];

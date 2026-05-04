@@ -1,7 +1,7 @@
 var a20694 =
 [
-    [ "HandleScriptEffect", "d1/d02/a20694.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "d1/d02/a20694.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "d1/d02/a20694.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "d1/d02/a20694.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "OnApply", "d1/d02/a20694.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "d1/d02/a20694.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "d1/d02/a20694.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "d1/d02/a20694.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

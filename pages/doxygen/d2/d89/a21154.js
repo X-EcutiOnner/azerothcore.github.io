@@ -1,19 +1,7 @@
 var a21154 =
 [
-    [ "violet_hold_trashAI", "d2/d89/a21154.html#a87011739810f39291655bc835f9995bd", null ],
-    [ "AttackStart", "d2/d89/a21154.html#ab2d2157977ae2482217fa8ac344b30af", null ],
-    [ "ClearDoorSealAura", "d2/d89/a21154.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
-    [ "CreatureStartAttackDoor", "d2/d89/a21154.html#a1e64a9f7c82275969e099b5012a32924", null ],
-    [ "EnterEvadeMode", "d2/d89/a21154.html#ab189607a468514d6c472ac40e6f3d85b", null ],
-    [ "JustDied", "d2/d89/a21154.html#acd512cd3722a2edf0ca539272ded3c79", null ],
-    [ "JustEngagedWith", "d2/d89/a21154.html#a16e7677aa9597dda938a67c51febde6c", null ],
-    [ "JustReachedHome", "d2/d89/a21154.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
-    [ "MoveInLineOfSight", "d2/d89/a21154.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
-    [ "UpdateAI", "d2/d89/a21154.html#a8647797343650fcd4f6304bce3742883", null ],
-    [ "WaypointReached", "d2/d89/a21154.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
-    [ "WaypointReached", "d2/d89/a21154.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "bAddedWP", "d2/d89/a21154.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
-    [ "bAlt", "d2/d89/a21154.html#ad84ecad1a57f0af44af2795a252d2214", null ],
-    [ "pInstance", "d2/d89/a21154.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
-    [ "PLoc", "d2/d89/a21154.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
+    [ "npc_azure_mage_slayer", "d2/d89/a21154.html#a8f537bf85f7d50dda0f3e2e9cb7bd293", null ],
+    [ "Reset", "d2/d89/a21154.html#ad760e69d3246117726b2a2e066e6c5ce", null ],
+    [ "UpdateAI", "d2/d89/a21154.html#a412a23b56efad90af180dee17f9f2be3", null ],
+    [ "_events", "d2/d89/a21154.html#aadb7b09a9fbdd9ca8f04ba38e79901b3", null ]
 ];

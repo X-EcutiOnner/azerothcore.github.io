@@ -1,7 +1,10 @@
 var a26466 =
 [
-    [ "CheckProc", "d9/d51/a26466.html#ad9511694733ed76ed2e55ffc1005345e", null ],
-    [ "HandleProc", "d9/d51/a26466.html#a8021759730e413476d768495e856c544", null ],
-    [ "PrepareAuraScript", "d9/d51/a26466.html#a2d226a3b38dbe3da64f3ae9a3c47f9ea", null ],
-    [ "Register", "d9/d51/a26466.html#a2d8e2b52076b519e083c71b99b482c32", null ]
+    [ "Absorb", "d9/d51/a26466.html#ab4006b00d415a94e6a49856cee7e272b", null ],
+    [ "CalculateAmount", "d9/d51/a26466.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
+    [ "Load", "d9/d51/a26466.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
+    [ "PrepareAuraScript", "d9/d51/a26466.html#a456c1bd5b284f642d1e040de52eee24b", null ],
+    [ "Register", "d9/d51/a26466.html#a905994099dcc4ac9512d5f27b78a778c", null ],
+    [ "Validate", "d9/d51/a26466.html#ad99966111a1919c610a942a8eb133ea1", null ],
+    [ "healPct", "d9/d51/a26466.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
 ];

@@ -1,6 +1,5 @@
 var a27914 =
 [
-    [ "go_pirate_day_musicAI", "d4/d0b/a27918.html", "d4/d0b/a27918" ],
-    [ "go_pirate_day_music", "df/d2f/a27914.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "df/d2f/a27914.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "go_soulwellAI", "df/d2f/a27914.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "df/d2f/a27914.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

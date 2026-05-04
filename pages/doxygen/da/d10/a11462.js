@@ -1,6 +1,6 @@
 var a11462 =
 [
-    [ "ClientOpcodeHandler", "db/d5b/a05007.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
-    [ "Call", "db/d5b/a05007.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
-    [ "ProcessingPlace", "db/d5b/a05007.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
+    [ "TotemDestroyed", "da/d10/a11462.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
+    [ "Read", "da/d10/a11462.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
+    [ "Slot", "da/d10/a11462.html#a41eebde65aa696c2dec812da0aeab633", null ]
 ];

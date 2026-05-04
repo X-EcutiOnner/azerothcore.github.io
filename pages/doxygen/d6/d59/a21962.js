@@ -1,9 +1,6 @@
 var a21962 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d6/d59/a21962.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "d6/d59/a21962.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "d6/d59/a21962.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "d6/d59/a21962.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "d6/d59/a21962.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "d6/d59/a21962.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "HandleScript", "d6/d59/a21962.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
+    [ "PrepareSpellScript", "d6/d59/a21962.html#af0f5206d98dbc9de355abbeb03709c05", null ],
+    [ "Register", "d6/d59/a21962.html#a53d9d7de4922ed6509b6036921640352", null ]
 ];

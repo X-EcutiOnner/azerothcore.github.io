@@ -1,12 +1,10 @@
 var a11470 =
 [
-    [ "OpcodeTable", "db/d5b/a05007.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
-    [ "OpcodeTable", "db/d5b/a05007.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
-    [ "~OpcodeTable", "db/d5b/a05007.html#gac4e0724e0795156122c4fd8f07ade628", null ],
-    [ "Initialize", "db/d5b/a05007.html#gac64814869d378e5bb7fa18144693fac1", null ],
-    [ "operator=", "db/d5b/a05007.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
-    [ "operator[]", "db/d5b/a05007.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
-    [ "ValidateAndSetClientOpcode", "db/d5b/a05007.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
-    [ "ValidateAndSetServerOpcode", "db/d5b/a05007.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
-    [ "_internalTableClient", "db/d5b/a05007.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
+    [ "WorldStateInfo", "d4/d57/a11474.html", "d4/d57/a11474" ],
+    [ "InitWorldStates", "da/ddf/a11470.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
+    [ "Write", "da/ddf/a11470.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
+    [ "AreaID", "da/ddf/a11470.html#a98ac08c68b5c004fd352f38c7084531f", null ],
+    [ "MapID", "da/ddf/a11470.html#a657c3043204c6957e8438c3c3c7068f3", null ],
+    [ "Worldstates", "da/ddf/a11470.html#a29ffba2a130f0b93d61b2025255502fb", null ],
+    [ "ZoneID", "da/ddf/a11470.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
 ];

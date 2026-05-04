@@ -1,5 +1,5 @@
 var a27658 =
 [
-    [ "achievement_save_the_day", "dd/d1b/a27658.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "dd/d1b/a27658.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "dd/d1b/a27658.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "dd/d1b/a27658.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

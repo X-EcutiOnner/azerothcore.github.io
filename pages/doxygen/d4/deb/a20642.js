@@ -1,8 +1,7 @@
 var a20642 =
 [
-    [ "OnApply", "d4/deb/a20642.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "d4/deb/a20642.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "d4/deb/a20642.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "d4/deb/a20642.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "d4/deb/a20642.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_corruptor_tentacle", "d4/deb/a20642.html#afc092be8079630b1214c98b8896a22c3", null ],
+    [ "DoAction", "d4/deb/a20642.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
+    [ "SelectCorruptionTarget", "d4/deb/a20642.html#a8b868941372af612e269e013594a5c14", null ],
+    [ "UpdateAI", "d4/deb/a20642.html#a2f8911a615d32689088a6c358ac80d3f", null ]
 ];

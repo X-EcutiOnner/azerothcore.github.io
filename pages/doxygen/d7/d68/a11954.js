@@ -1,11 +1,12 @@
 var a11954 =
 [
-    [ "WorldUpdateTime", "d7/d68/a11954.html#a97552c4ce99bd40919f199c17fe203ed", null ],
-    [ "LoadFromConfig", "d7/d68/a11954.html#acb2b9d56504fc760e7df1c93621ab788", null ],
-    [ "RecordUpdateTime", "d7/d68/a11954.html#a88d773c8029cebeab6b99444c25c8379", null ],
-    [ "RecordUpdateTimeDuration", "d7/d68/a11954.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
-    [ "SetRecordUpdateTimeInterval", "d7/d68/a11954.html#ada81050229ccacc49d5b6a9f6101174c", null ],
-    [ "_lastRecordTime", "d7/d68/a11954.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
-    [ "_recordUpdateTimeInverval", "d7/d68/a11954.html#a5486477b0a604f0207336e423f42c2b1", null ],
-    [ "_recordUpdateTimeMin", "d7/d68/a11954.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
+    [ "CreatureTextBuilder", "d7/d68/a11954.html#a582eed3ab284675e72261a1db9808925", null ],
+    [ "operator()", "d7/d68/a11954.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
+    [ "_gender", "d7/d68/a11954.html#a615c3046f749bf44b036958fb1a50128", null ],
+    [ "_language", "d7/d68/a11954.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
+    [ "_msgType", "d7/d68/a11954.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
+    [ "_source", "d7/d68/a11954.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
+    [ "_target", "d7/d68/a11954.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
+    [ "_textGroup", "d7/d68/a11954.html#afcd842c1482980c6232f3f19d21a1481", null ],
+    [ "_textId", "d7/d68/a11954.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
 ];

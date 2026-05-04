@@ -1,6 +1,6 @@
 var a10886 =
 [
-    [ "GuildCreate", "d2/d3a/a10886.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
-    [ "Read", "d2/d3a/a10886.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
-    [ "GuildName", "d2/d3a/a10886.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
+    [ "PlayedTimeClient", "d2/d3a/a10886.html#a1c82d4d153606da9887d64599f319883", null ],
+    [ "Read", "d2/d3a/a10886.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
+    [ "TriggerScriptEvent", "d2/d3a/a10886.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
 ];

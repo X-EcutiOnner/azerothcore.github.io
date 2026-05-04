@@ -1,7 +1,5 @@
 var a13222 =
 [
-    [ "HandleScriptEffect", "dc/dc4/a13222.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
-    [ "PrepareSpellScript", "dc/dc4/a13222.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
-    [ "Register", "dc/dc4/a13222.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
-    [ "Validate", "dc/dc4/a13222.html#a20f7416465ba1cc04426f24037e8074e", null ]
+    [ "boss_eramas_brightblaze", "dc/dc4/a13222.html#a14d1528750036f27948f5de8a2b44bd3", null ],
+    [ "JustEngagedWith", "dc/dc4/a13222.html#ad34613d2795f7371a43891488044392a", null ]
 ];

@@ -1,8 +1,10 @@
 var a17162 =
 [
-    [ "npc_hor_lumbering_abomination", "d3/d94/a17162.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
-    [ "JustDied", "d3/d94/a17162.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
-    [ "JustEngagedWith", "d3/d94/a17162.html#a5380771abba095749e1e0b30fe070a73", null ],
-    [ "Reset", "d3/d94/a17162.html#afd56b698fac5f7f13e718d645608213f", null ],
-    [ "UpdateAI", "d3/d94/a17162.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
+    [ "boss_frostsworn_general", "d3/d94/a17162.html#adae1b1d60e78a33b875ac08312a454cf", null ],
+    [ "EnterEvadeMode", "d3/d94/a17162.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
+    [ "JustDied", "d3/d94/a17162.html#a14741cafce857fa819418ec3208c62fc", null ],
+    [ "JustEngagedWith", "d3/d94/a17162.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
+    [ "Reset", "d3/d94/a17162.html#a1576562e5fe2247235b152029aa8edce", null ],
+    [ "UpdateAI", "d3/d94/a17162.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
+    [ "instance", "d3/d94/a17162.html#ab04347cee4d7542171d622cfde936cb1", null ]
 ];

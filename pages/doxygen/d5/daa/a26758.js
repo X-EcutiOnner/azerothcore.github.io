@@ -1,5 +1,7 @@
 var a26758 =
 [
-    [ "PrepareSpellScript", "d5/daa/a26758.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
-    [ "Register", "d5/daa/a26758.html#a6318da4bfeb63dee75a971106bdc2146", null ]
+    [ "HandleDummy", "d5/daa/a26758.html#aef93741620dcf29179502f88891ad0b5", null ],
+    [ "Load", "d5/daa/a26758.html#ab8e5dcd009cca538c9921dcb9c5fe109", null ],
+    [ "PrepareSpellScript", "d5/daa/a26758.html#ac92fd133395705e4cb3730bc96e1f787", null ],
+    [ "Register", "d5/daa/a26758.html#a69336bea35240c0014693ae167d4124b", null ]
 ];

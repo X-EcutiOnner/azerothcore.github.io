@@ -1,7 +1,10 @@
 var a17522 =
 [
-    [ "HandleScript", "d2/deb/a17522.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "d2/deb/a17522.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "d2/deb/a17522.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "d2/deb/a17522.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "npc_dark_nucleusAI", "d2/deb/a17522.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "d2/deb/a17522.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "d2/deb/a17522.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "d2/deb/a17522.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "d2/deb/a17522.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "d2/deb/a17522.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "d2/deb/a17522.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

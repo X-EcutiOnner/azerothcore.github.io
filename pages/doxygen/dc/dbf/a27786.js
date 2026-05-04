@@ -1,6 +1,9 @@
 var a27786 =
 [
-    [ "boss_lethonAI", "d2/d1f/a27790.html", "d2/d1f/a27790" ],
-    [ "boss_lethon", "dc/dbf/a27786.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "dc/dbf/a27786.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "go_tadpole_cageAI", "dc/dbf/a27786.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "dc/dbf/a27786.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "dc/dbf/a27786.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "dc/dbf/a27786.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "dc/dbf/a27786.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "dc/dbf/a27786.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

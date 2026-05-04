@@ -1,6 +1,7 @@
 var a15542 =
 [
-    [ "OnPeriodic", "de/d2f/a15542.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "de/d2f/a15542.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "de/d2f/a15542.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "boss_glob_of_viscidus", "de/d2f/a15542.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "de/d2f/a15542.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "de/d2f/a15542.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "de/d2f/a15542.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

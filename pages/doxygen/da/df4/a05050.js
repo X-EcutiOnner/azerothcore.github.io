@@ -1,13 +1,7 @@
 var a05050 =
 [
-    [ "anonymous_namespace{AddonMgr.cpp}", "d6/d32/a05051.html", [
-      [ "SavedAddonsList", "d6/d32/a05051.html#afa468163a23ed58507a89e5724c06eac", null ],
-      [ "m_bannedAddons", "d6/d32/a05051.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
-      [ "m_knownAddons", "d6/d32/a05051.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
-    ] ],
-    [ "BannedAddonList", "da/df4/a05050.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
-    [ "GetAddonInfo", "da/df4/a05050.html#a65cb6a88902972060e44c57d7d9ec738", null ],
-    [ "GetBannedAddons", "da/df4/a05050.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "da/df4/a05050.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "da/df4/a05050.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
+    [ "For", "da/d1d/a05822.html", null ],
+    [ "For< bool, void >", "dd/d81/a05830.html", "dd/d81/a05830" ],
+    [ "For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "d5/dcd/a05834.html", "d5/dcd/a05834" ],
+    [ "For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "d7/d6f/a05826.html", "d7/d6f/a05826" ]
 ];

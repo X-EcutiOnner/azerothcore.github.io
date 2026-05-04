@@ -1,6 +1,7 @@
 var a15778 =
 [
-    [ "npc_bunthen_plainswind", "df/d40/a15778.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "df/d40/a15778.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "df/d40/a15778.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "HandleDummy", "df/d40/a15778.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "df/d40/a15778.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "df/d40/a15778.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "df/d40/a15778.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

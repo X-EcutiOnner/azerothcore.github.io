@@ -1,5 +1,11 @@
 var a29866 =
 [
-    [ "height", "d2/d86/a29866.html#a9ee8f132a89d37d9b202c7f49d2c3a49", null ],
-    [ "light", "d2/d86/a29866.html#a53c2edf09fb56334d1c3621d3630de5d", null ]
+    [ "material", "d2/d86/a29866.html#a7079e8817a9684602084eb224f2540fc", null ],
+    [ "pos_x", "d2/d86/a29866.html#ac4d971cc46506be14716124afbb5ad9c", null ],
+    [ "pos_y", "d2/d86/a29866.html#a6cd85f2a674d732e88371ffce5e46077", null ],
+    [ "pos_z", "d2/d86/a29866.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
+    [ "xtiles", "d2/d86/a29866.html#aca34dfa64624cfe04c314c13bbed0062", null ],
+    [ "xverts", "d2/d86/a29866.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
+    [ "ytiles", "d2/d86/a29866.html#a9901a7e9828ac840bc290b0768831d66", null ],
+    [ "yverts", "d2/d86/a29866.html#abf24042b85692cd0df05d65d734dd99e", null ]
 ];

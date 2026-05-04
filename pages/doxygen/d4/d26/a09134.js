@@ -1,5 +1,7 @@
 var a09134 =
 [
-    [ "NextPage", "d4/d26/a09134.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef", null ],
-    [ "Text", "d4/d26/a09134.html#a9c13498341adce66590cb198b720f96f", null ]
+    [ "Done", "d4/d26/a09134.html#abc88850d392fb4b62e778d09445de0be", null ],
+    [ "DoneWorldState", "d4/d26/a09134.html#a380755d90c958b6532bae7f8a4d70b44", null ],
+    [ "MaxWorldState", "d4/d26/a09134.html#a8c144531f876b6def613c0011e0efe47", null ],
+    [ "ReqNum", "d4/d26/a09134.html#ae1d182aef449388993e4965de447d971", null ]
 ];

@@ -1,6 +1,5 @@
 var a13074 =
 [
-    [ "npc_grandmother", "d9/d40/a13074.html#a6cffe8c574859779f6561dde0aef9666", null ],
-    [ "OnGossipHello", "d9/d40/a13074.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
-    [ "OnGossipSelect", "d9/d40/a13074.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
+    [ "at_karazhan_mirkblood_entrance", "d9/d40/a13074.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
+    [ "OnTrigger", "d9/d40/a13074.html#ad99c85de36a369752fa61bab761a402e", null ]
 ];

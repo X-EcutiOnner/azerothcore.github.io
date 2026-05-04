@@ -1,8 +1,7 @@
 var a10210 =
 [
-    [ "GetAINotifyDelay", "da/d7f/a10210.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "da/d7f/a10210.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "da/d7f/a10210.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "da/d7f/a10210.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "da/d7f/a10210.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "flags", "da/d7f/a10210.html#a7db863994aa6692d1e2359d2c6814cd2", null ],
+    [ "groupId", "da/d7f/a10210.html#ac7efc48c61e715027a8d651fda543ada", null ],
+    [ "mapId", "da/d7f/a10210.html#ad53e068ead632ca66fbebe81e783fc52", null ],
+    [ "name", "da/d7f/a10210.html#a55368217a847f946def13b2123b22ed3", null ]
 ];

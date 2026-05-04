@@ -1,7 +1,6 @@
 var a19122 =
 [
-    [ "npc_ioc_gunship_captainAI", "df/d22/a19122.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "df/d22/a19122.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "df/d22/a19122.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "df/d22/a19122.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "RespawnEvent", "df/d22/a19122.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "df/d22/a19122.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "df/d22/a19122.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

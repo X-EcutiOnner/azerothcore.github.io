@@ -1,9 +1,10 @@
 var a12322 =
 [
-    [ "send_commandscript", "db/de2/a12322.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
-    [ "GetCommands", "db/de2/a12322.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
-    [ "HandleSendItemsCommand", "db/de2/a12322.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
-    [ "HandleSendMailCommand", "db/de2/a12322.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
-    [ "HandleSendMessageCommand", "db/de2/a12322.html#a91017e6171ac9e4dfff6c2036228de47", null ],
-    [ "HandleSendMoneyCommand", "db/de2/a12322.html#a26938bb54bb3cb678c49737a92cadb56", null ]
+    [ "pet_commandscript", "db/de2/a12322.html#a84595dcb908398e80deee0b0aa47e335", null ],
+    [ "GetCommands", "db/de2/a12322.html#a01026a4936774d2225d10e0f6e27b08c", null ],
+    [ "HandlePetCreateCommand", "db/de2/a12322.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
+    [ "HandlePetDeleteCommand", "db/de2/a12322.html#a728201526e905b025aba5e6b030c288b", null ],
+    [ "HandlePetLearnCommand", "db/de2/a12322.html#a59a2a6bd9af23fe3a775319216337bda", null ],
+    [ "HandlePetListCommand", "db/de2/a12322.html#aeaa05b073553c0c0758ea99d982ce1cc", null ],
+    [ "HandlePetUnlearnCommand", "db/de2/a12322.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
 ];

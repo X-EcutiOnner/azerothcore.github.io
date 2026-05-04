@@ -1,7 +1,8 @@
 var a28098 =
 [
-    [ "npc_engineering_tele_trinket", "d4/d5d/a28098.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
-    [ "CanLearn", "d4/d5d/a28098.html#a8a35f1c09a9df609561e76f4ed578647", null ],
-    [ "OnGossipHello", "d4/d5d/a28098.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
-    [ "OnGossipSelect", "d4/d5d/a28098.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
+    [ "npc_target_dummy", "d4/d5d/a28098.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
+    [ "DamageTaken", "d4/d5d/a28098.html#ae137fc2935f306807128850e9761253e", null ],
+    [ "Reset", "d4/d5d/a28098.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
+    [ "UpdateAI", "d4/d5d/a28098.html#a32e9e139a54375b336c112deee3687cd", null ],
+    [ "_deathTimer", "d4/d5d/a28098.html#a304b79f8ec2afda669b43d2e248d026a", null ]
 ];

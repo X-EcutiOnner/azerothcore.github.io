@@ -1,6 +1,7 @@
 var a22942 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d6/d77/a22946.html", "d6/d77/a22946" ],
-    [ "instance_serpent_shrine", "d8/dfc/a22942.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "d8/dfc/a22942.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "go_ahune_ice_spear", "d8/dfc/a22942.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "d8/dfc/a22942.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "d8/dfc/a22942.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "d8/dfc/a22942.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

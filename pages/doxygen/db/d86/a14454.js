@@ -1,6 +1,10 @@
 var a14454 =
 [
-    [ "npc_brewfest_keg_thrower", "db/d86/a14454.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "db/d86/a14454.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "db/d86/a14454.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "npc_zealot_zath", "db/d86/a14454.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "db/d86/a14454.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "db/d86/a14454.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "db/d86/a14454.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "db/d86/a14454.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "db/d86/a14454.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "db/d86/a14454.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

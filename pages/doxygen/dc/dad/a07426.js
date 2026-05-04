@@ -1,15 +1,6 @@
 var a07426 =
 [
-    [ "AuctionHouseSearcher", "dc/dad/a07426.html#adee77153a7b9efeac149e6c951082986", null ],
-    [ "~AuctionHouseSearcher", "dc/dad/a07426.html#a84842935539c5ef8b02815cc8697e568", null ],
-    [ "AddAuction", "dc/dad/a07426.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
-    [ "NotifyAllWorkers", "dc/dad/a07426.html#a443577cfba0af003e7e0e8834474a6c1", null ],
-    [ "NotifyOneWorker", "dc/dad/a07426.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
-    [ "QueueSearchRequest", "dc/dad/a07426.html#a53caf3298638d325a8b9e97584296ad3", null ],
-    [ "RemoveAuction", "dc/dad/a07426.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
-    [ "Update", "dc/dad/a07426.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
-    [ "UpdateBid", "dc/dad/a07426.html#a7bb50e3e903c73a83469e7323917d40d", null ],
-    [ "_requestQueue", "dc/dad/a07426.html#ac221abeb9a760c90d6110310970e6463", null ],
-    [ "_responseQueue", "dc/dad/a07426.html#a772e65025ae498b8837222ae98f49c28", null ],
-    [ "_workerThreads", "dc/dad/a07426.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
+    [ "AuctionSearchBidderListRequest", "dc/dad/a07426.html#a193c39468959c998a2ccae74342983d2", null ],
+    [ "outbiddedAuctionIds", "dc/dad/a07426.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
+    [ "ownerGuid", "dc/dad/a07426.html#a6fb69f4996993f264466c50e7485c4a6", null ]
 ];

@@ -1,20 +1,10 @@
 var a07598 =
 [
-    [ "ArenaMatchmakerRating", "d9/da8/a07598.html#aebaba68d0d75e08eb909975d70ab7084", null ],
-    [ "ArenaTeamId", "d9/da8/a07598.html#a62d4963600711b2476d6de964fc51f5e", null ],
-    [ "ArenaTeamRating", "d9/da8/a07598.html#a167a97bcd0ee298dfc49cabc4193fd3e", null ],
-    [ "ArenaType", "d9/da8/a07598.html#a607a585ca374dc2cf9e8f5e460465f22", null ],
-    [ "BgTypeId", "d9/da8/a07598.html#aad98458292aca41fc7feb2e63ba5125f", null ],
-    [ "BracketId", "d9/da8/a07598.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4", null ],
-    [ "GroupType", "d9/da8/a07598.html#af4ad41d00ee448097eb4b7e468f336f8", null ],
-    [ "IsInvitedToBGInstanceGUID", "d9/da8/a07598.html#a0261df1066e01602f475e9a08e142883", null ],
-    [ "IsRated", "d9/da8/a07598.html#af6bac7c32a8e3e7faf647a4f6b6722a0", null ],
-    [ "JoinTime", "d9/da8/a07598.html#a44939a98ff1ec940e42e79faf31a2e9a", null ],
-    [ "OpponentsMatchmakerRating", "d9/da8/a07598.html#a558a2febf6dcc2aed2ddedfd1f5d342a", null ],
-    [ "OpponentsTeamRating", "d9/da8/a07598.html#adf219cc12cebeaddebf8c04c5004c30a", null ],
-    [ "Players", "d9/da8/a07598.html#ae5912a881a5ecaa761ea28c87e6c45ad", null ],
-    [ "PreviousOpponentsTeamId", "d9/da8/a07598.html#a2fac6fffa7bec4507fdde7632e2b4df0", null ],
-    [ "RealTeamID", "d9/da8/a07598.html#a972df7095f38b6f2617bc12a67ac30f7", null ],
-    [ "RemoveInviteTime", "d9/da8/a07598.html#aefe5994744194e7db9110fb36fa9c4bb", null ],
-    [ "teamId", "d9/da8/a07598.html#a2303f13880bbac9faf4b1fd4fc6334d5", null ]
+    [ "BattlegroundChatBuilder", "d9/da8/a07598.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
+    [ "do_helper", "d9/da8/a07598.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
+    [ "operator()", "d9/da8/a07598.html#ab84296c320b09a387de6e6e6a2326b83", null ],
+    [ "_args", "d9/da8/a07598.html#a32a72bf1110179cc58dcf2df914c7389", null ],
+    [ "_msgtype", "d9/da8/a07598.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
+    [ "_source", "d9/da8/a07598.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
+    [ "_textId", "d9/da8/a07598.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
 ];

@@ -1,7 +1,10 @@
 var a29046 =
 [
-    [ "Flags", "d8/d22/a29046.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d8/d22/a29046.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d8/d22/a29046.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d8/d22/a29046.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "area_id", "d8/d22/a29046.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "d8/d22/a29046.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "d8/d22/a29046.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "d8/d22/a29046.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "d8/d22/a29046.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "d8/d22/a29046.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "d8/d22/a29046.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

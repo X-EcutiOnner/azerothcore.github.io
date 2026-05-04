@@ -1,5 +1,6 @@
 var a28074 =
 [
-    [ "item_generic_limit_chance_above_60", "d1/d09/a28074.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "d1/d09/a28074.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "npc_taxi", "d1/d09/a28074.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "d1/d09/a28074.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "d1/d09/a28074.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

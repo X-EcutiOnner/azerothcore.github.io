@@ -1,8 +1,6 @@
 var a05766 =
 [
-    [ "result_type", "d7/dce/a05766.html#a20f96383bade76c6185d8f20f458784e", null ],
-    [ "Instance", "d7/dce/a05766.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
-    [ "max", "d7/dce/a05766.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
-    [ "min", "d7/dce/a05766.html#ab153ffca65139db4084745302dd4db7f", null ],
-    [ "operator()", "d7/dce/a05766.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
+    [ "LambdaBasicEvent", "d7/dce/a05766.html#a4244b5e91413d71076d9cc3af230aed8", null ],
+    [ "Execute", "d7/dce/a05766.html#a8771a49f00554372b5ed38816abbd253", null ],
+    [ "_callback", "d7/dce/a05766.html#a2660ba5053b9ad6a1c4231bd32359999", null ]
 ];

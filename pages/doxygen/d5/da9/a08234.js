@@ -1,8 +1,7 @@
 var a08234 =
 [
-    [ "cancelTime", "d5/da9/a08234.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
-    [ "inProgress", "d5/da9/a08234.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
-    [ "reason", "d5/da9/a08234.html#a279a5575ca0956266ae81b7a165874cf", null ],
-    [ "victim", "d5/da9/a08234.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
-    [ "votes", "d5/da9/a08234.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
+    [ "LfgJoinResultData", "d5/da9/a08234.html#a1d711d49a6b49f55eb3771352b294b95", null ],
+    [ "lockmap", "d5/da9/a08234.html#aff918b3c02ca76982a964402175f8ad7", null ],
+    [ "result", "d5/da9/a08234.html#aa713cbc1930962d520883523f6f6446c", null ],
+    [ "state", "d5/da9/a08234.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
 ];

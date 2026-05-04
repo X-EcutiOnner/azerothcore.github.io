@@ -1,5 +1,5 @@
 var a25158 =
 [
-    [ "PrepareSpellScript", "df/dcb/a25158.html#a5e100554f868649d4edea011fe767b8b", null ],
-    [ "Register", "df/dcb/a25158.html#a0ffb1cb313060770227621edb16c3a0d", null ]
+    [ "PrepareSpellScript", "df/dcb/a25158.html#af2a8cfb5f732691622b4c633f4dde253", null ],
+    [ "Register", "df/dcb/a25158.html#ae171d4b40e72498a5dbb4ac65ee1619d", null ]
 ];

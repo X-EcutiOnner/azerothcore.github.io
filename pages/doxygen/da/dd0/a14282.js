@@ -1,5 +1,8 @@
 var a14282 =
 [
-    [ "at_zulgurub_temple_speech", "da/dd0/a14282.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "da/dd0/a14282.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
+    [ "FilterTargets", "da/dd0/a14282.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "da/dd0/a14282.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "da/dd0/a14282.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "da/dd0/a14282.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "da/dd0/a14282.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

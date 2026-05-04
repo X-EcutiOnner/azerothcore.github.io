@@ -1,6 +1,5 @@
 var a05130 =
 [
-    [ "node", "d5/d8c/a05130.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491", null ],
-    [ "tfar", "d5/d8c/a05130.html#ad53b746617dd5a46930dae493d7488d9", null ],
-    [ "tnear", "d5/d8c/a05130.html#a938ca2ace2aa498abdda93ee824b6f09", null ]
+    [ "MODD", "d9/dc0/a29854.html", "d9/dc0/a29854" ],
+    [ "MODS", "da/da3/a29850.html", "da/da3/a29850" ]
 ];

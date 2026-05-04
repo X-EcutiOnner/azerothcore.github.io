@@ -1,6 +1,6 @@
 var a15834 =
 [
-    [ "SpellId", "d9/da4/a15834.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d9/da4/a15834.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d9/da4/a15834.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_giant_spotlightAI", "d3/da7/a15838.html", "d3/da7/a15838" ],
+    [ "npc_giant_spotlight", "d9/da4/a15834.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "d9/da4/a15834.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

@@ -1,7 +1,5 @@
 var a17374 =
 [
-    [ "HandleDummy", "df/ded/a17374.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "df/ded/a17374.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "df/ded/a17374.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "df/ded/a17374.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "entry", "df/ded/a17374.html#a44c7a625896d6fddc15da39988e0b042", null ],
+    [ "pathId", "df/ded/a17374.html#accd6af0ddfa248a972612d802a1e641e", null ]
 ];

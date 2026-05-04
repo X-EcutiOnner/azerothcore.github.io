@@ -1,6 +1,7 @@
 var a24378 =
 [
-    [ "CheckProc", "d2/d59/a24378.html#a4e1d93c20d0926d3ac93c23d9c139df6", null ],
-    [ "PrepareAuraScript", "d2/d59/a24378.html#a2e572b677ad3b754316066f3e53edbbb", null ],
-    [ "Register", "d2/d59/a24378.html#acecdc9e5079c49b312521a65682b602a", null ]
+    [ "OnRemove", "d2/d59/a24378.html#aae9f02415a256ce01b81c3dd6fdafb33", null ],
+    [ "PrepareAuraScript", "d2/d59/a24378.html#ad27880f797137cae09381e860727e2f7", null ],
+    [ "Register", "d2/d59/a24378.html#a6c105609c1ee61a8f845018550b2e3ba", null ],
+    [ "Validate", "d2/d59/a24378.html#ac1f03d22c5fdb1c07a0e0859e08bd561", null ]
 ];

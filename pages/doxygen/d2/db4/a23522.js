@@ -1,5 +1,6 @@
 var a23522 =
 [
-    [ "npc_lord_sanguinar", "d2/db4/a23522.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d2/db4/a23522.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "HandleScriptEffect", "d2/db4/a23522.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
+    [ "PrepareSpellScript", "d2/db4/a23522.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
+    [ "Register", "d2/db4/a23522.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
 ];

@@ -1,8 +1,8 @@
 var a09726 =
 [
-    [ "AllCreaturesOfEntryInRange", "db/d8d/a09726.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
-    [ "operator()", "db/d8d/a09726.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
-    [ "m_fRange", "db/d8d/a09726.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
-    [ "m_pObject", "db/d8d/a09726.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
-    [ "m_uiEntry", "db/d8d/a09726.html#abf653360d2ee482728fb137a37fe0512", null ]
+    [ "AnyAssistCreatureInRangeCheck", "db/d8d/a09726.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
+    [ "operator()", "db/d8d/a09726.html#a314a4800047f7e661cd011010b3f148e", null ],
+    [ "i_enemy", "db/d8d/a09726.html#a37318ae783e6cf4a658063aab149e8a3", null ],
+    [ "i_funit", "db/d8d/a09726.html#add1071091d1696c3f537483810dcb6f1", null ],
+    [ "i_range", "db/d8d/a09726.html#a4bcf67be5bae4649d82586349d30be04", null ]
 ];

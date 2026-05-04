@@ -1,6 +1,7 @@
 var a15334 =
 [
-    [ "FilterTargets", "df/dd9/a15334.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
-    [ "PrepareSpellScript", "df/dd9/a15334.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
-    [ "Register", "df/dd9/a15334.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
+    [ "go_sand_trap", "df/dd9/a15334.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "df/dd9/a15334.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "df/dd9/a15334.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "df/dd9/a15334.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

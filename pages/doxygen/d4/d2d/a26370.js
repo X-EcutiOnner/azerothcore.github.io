@@ -1,10 +1,8 @@
 var a26370 =
 [
-    [ "CheckProc", "d4/d2d/a26370.html#a23dfb39522f7a5437af439ef567d6ec6", null ],
-    [ "HandleEffectApply", "d4/d2d/a26370.html#ab83f17b45edc5dba8f4b3f3fbc88c626", null ],
-    [ "HandleEffectRemove", "d4/d2d/a26370.html#a7bab07fde0fb18e89388e1bc4c72c165", null ],
-    [ "HandleProc", "d4/d2d/a26370.html#a8352d7d9376f149fa227f7ca983e2660", null ],
-    [ "PrepareAuraScript", "d4/d2d/a26370.html#a309dabfa452d3279e7fb47a8e4784779", null ],
-    [ "Register", "d4/d2d/a26370.html#a3d020d3025f0ad086c43b4239205cd94", null ],
-    [ "Validate", "d4/d2d/a26370.html#ac3a5505808b3a7e718071f1202805ac5", null ]
+    [ "CheckProc", "d4/d2d/a26370.html#ad6222902fd6882322ba082981e151c45", null ],
+    [ "HandleProc", "d4/d2d/a26370.html#a4d90d29e4e11470076c759831836057d", null ],
+    [ "PrepareAuraScript", "d4/d2d/a26370.html#a5be2448ea5014c611dbaa262d49ff151", null ],
+    [ "Register", "d4/d2d/a26370.html#a4f78fb7ae8bef4e9dd2a29205bcec83e", null ],
+    [ "Validate", "d4/d2d/a26370.html#a9d0797992a6f3bfd5bd9f678c4465a4c", null ]
 ];

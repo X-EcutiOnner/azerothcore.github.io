@@ -1,6 +1,6 @@
 var a23738 =
 [
-    [ "npc_fel_guard_houndAI", "de/ddf/a23742.html", "de/ddf/a23742" ],
-    [ "npc_fel_guard_hound", "d7/de5/a23738.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d7/de5/a23738.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "npc_commander_dawnforgeAI", "de/ddf/a23742.html", "de/ddf/a23742" ],
+    [ "npc_commander_dawnforge", "d7/de5/a23738.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "d7/de5/a23738.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

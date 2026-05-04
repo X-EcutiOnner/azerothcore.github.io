@@ -1,5 +1,5 @@
 var a02615 =
 [
-    [ "player_commandscript", "d5/d15/a12297.html", "d5/d15/a12297" ],
-    [ "AddSC_player_commandscript", "dc/dcf/a02615.html#a3a4a77162d5b304dab9a8c8e397c3516", null ]
+    [ "pool_commandscript", "d2/d7d/a12334.html", "d2/d7d/a12334" ],
+    [ "AddSC_pool_commandscript", "dc/dcf/a02615.html#a933dbb3e5588f0735759e9409b716e55", null ]
 ];

@@ -1,14 +1,12 @@
 var a22242 =
 [
-    [ "OutdoorPvPNA", "df/df7/a22242.html#acbdae42245c71e4274296649d8d08e9e", null ],
-    [ "FillInitialWorldStates", "df/df7/a22242.html#a49ac785929dd16bf0735b32b787763e9", null ],
-    [ "GetCapturePoint", "df/df7/a22242.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
-    [ "HandleKill", "df/df7/a22242.html#ab55683b771104878c69239314a9782f4", null ],
-    [ "HandleKillImpl", "df/df7/a22242.html#a2ede6e7dc54424d9729a094557b14792", null ],
-    [ "HandlePlayerEnterZone", "df/df7/a22242.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
-    [ "HandlePlayerLeaveZone", "df/df7/a22242.html#ae7dd540746946513cd7bf8e29296c068", null ],
-    [ "SendRemoveWorldStates", "df/df7/a22242.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
-    [ "SetupOutdoorPvP", "df/df7/a22242.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
-    [ "Update", "df/df7/a22242.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
-    [ "m_obj", "df/df7/a22242.html#a7538d64bb494644eae3cc7db03dd631f", null ]
+    [ "boss_shirrak_the_dead_watcher", "df/df7/a22242.html#aaa6826de3b6563342b89544b38386d93", null ],
+    [ "EnterEvadeMode", "df/df7/a22242.html#a23768629c4ab48954880c3c29099f432", null ],
+    [ "getStackCount", "df/df7/a22242.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
+    [ "JustEngagedWith", "df/df7/a22242.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
+    [ "JustSummoned", "df/df7/a22242.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
+    [ "Reset", "df/df7/a22242.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
+    [ "SpellHitTarget", "df/df7/a22242.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
+    [ "UpdateAI", "df/df7/a22242.html#a855505f949f53f979187abcb5b2f617f", null ],
+    [ "focusGUID", "df/df7/a22242.html#a81a7eade42ef595c173d7828ce59ef88", null ]
 ];

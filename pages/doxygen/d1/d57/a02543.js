@@ -1,5 +1,6 @@
 var a02543 =
 [
-    [ "achievement_commandscript", "dd/d08/a12133.html", "dd/d08/a12133" ],
-    [ "AddSC_achievement_commandscript", "d1/d57/a02543.html#afeb482a8cffe8416071764bc4e78bff2", null ]
+    [ "RBACCommandData", "d5/de3/a12358.html", "d5/de3/a12358" ],
+    [ "rbac_commandscript", "db/d6b/a12362.html", "db/d6b/a12362" ],
+    [ "AddSC_rbac_commandscript", "d1/d57/a02543.html#ac877b170f7f12651a1d6c8252a8fc0ff", null ]
 ];

@@ -1,6 +1,5 @@
 var a20346 =
 [
-    [ "ModDest", "d6/d4b/a20346.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
-    [ "PrepareSpellScript", "d6/d4b/a20346.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
-    [ "Register", "d6/d4b/a20346.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
+    [ "achievement_kologarn_rubble_and_roll", "d6/d4b/a20346.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
+    [ "OnCheck", "d6/d4b/a20346.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
 ];

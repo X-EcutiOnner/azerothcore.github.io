@@ -1,6 +1,6 @@
 var a16150 =
 [
-    [ "HandlePeriodic", "d4/d00/a16150.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "d4/d00/a16150.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "d4/d00/a16150.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "ModDestHeight", "d4/d00/a16150.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "d4/d00/a16150.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "d4/d00/a16150.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

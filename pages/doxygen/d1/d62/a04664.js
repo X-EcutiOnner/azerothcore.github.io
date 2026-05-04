@@ -1,14 +1,16 @@
 var a04664 =
 [
-    [ "BeforeVisibilityDestroy", "d1/d62/a04664.html#a8172910e1dfdc7b56ca3931dd2fab1fb", null ],
-    [ "BeforeVisibilityDestroy< Creature >", "d1/d62/a04664.html#a62188ab6a72d08b62bf37442dbbfdaa6", null ],
-    [ "getProbabilityOfLevelUp", "d1/d62/a04664.html#aa890f698ac89e4049e1107c05d065495", null ],
-    [ "SkillGainChance", "d1/d62/a04664.html#a66adde9ba6a85d585f6e6e8355499aa6", null ],
-    [ "UpdateVisibilityOf_helper", "d1/d62/a04664.html#a74b7f95092456b1438f82ae741c77e3b", null ],
-    [ "UpdateVisibilityOf_helper", "d1/d62/a04664.html#ac66d5bddb2e8a54da47fa75b3fedc154", null ],
-    [ "UpdateVisibilityOf_helper", "d1/d62/a04664.html#a9ad7cb34613338094db01b886d54cf25", null ],
-    [ "UpdateVisibilityOf_helper", "d1/d62/a04664.html#a6b71c41b4869661630086bd26c35b630", null ],
-    [ "bonusSkillLevels", "d1/d62/a04664.html#a72b3624ee55553e28f82ef06d7c74c6a", null ],
-    [ "bonusSkillLevelsSize", "d1/d62/a04664.html#ad103e97f7db0cfd188ab64f5748c7464", null ],
-    [ "ZONE_UPDATE_INTERVAL", "d1/d62/a04664.html#afabbcd46bf6f03c5dca10b117810b710", null ]
+    [ "MMAP::NavMeshDeleter", "d6/de6/a05234.html", "d6/de6/a05234" ],
+    [ "MMAP::NavMeshQueryDeleter", "d6/d66/a05238.html", "d6/d66/a05238" ],
+    [ "MMAP::MMapMgr", "d6/d63/a05242.html", "d6/d63/a05242" ],
+    [ "ManagedNavMeshQuery", "d1/d62/a04664.html#aa9864ce68a669d59d8baee4cb742900b", null ],
+    [ "MMAP_LOAD_RESULT", "d1/d62/a04664.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "d1/d62/a04664.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d1/d62/a04664.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d1/d62/a04664.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88", null ]
+    ] ],
+    [ "dtCustomAlloc", "d1/d62/a04664.html#a8c3ce5a3a39694b1e2f88333bcf5b8c7", null ],
+    [ "dtCustomFree", "d1/d62/a04664.html#a2486cfb0dce2e78cd1bc4c379612e64b", null ],
+    [ "MAP_FILE_NAME_FORMAT", "d1/d62/a04664.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "TILE_FILE_NAME_FORMAT", "d1/d62/a04664.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
 ];

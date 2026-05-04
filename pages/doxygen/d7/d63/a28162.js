@@ -1,8 +1,7 @@
 var a28162 =
 [
-    [ "npc_elder_clearwaterAI", "d7/d24/a28166.html", "d7/d24/a28166" ],
-    [ "npc_elder_clearwater", "d7/d63/a28162.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "d7/d63/a28162.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "d7/d63/a28162.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "d7/d63/a28162.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "npc_sayge", "d7/d63/a28162.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "d7/d63/a28162.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "d7/d63/a28162.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "d7/d63/a28162.html#aed1988335672423d024546654aa95298", null ]
 ];

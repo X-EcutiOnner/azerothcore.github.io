@@ -1,13 +1,15 @@
 var a08434 =
 [
-    [ "AnimationInfo", "d1/d05/a08434.html#aa443028e95ae416e09f1acfef0575803", null ],
-    [ "Building", "d1/d05/a08434.html#aba59e5ea22700fd77295037cfd2380c8", null ],
-    [ "CapturePoint", "d1/d05/a08434.html#a5cceefb1bf9492ed09f353059a8b9260", null ],
-    [ "FishingHole", "d1/d05/a08434.html#aca12f8bd82b863fcdd17905c57014c46", null ],
-    [ "Health", "d1/d05/a08434.html#af70b72663064c9c4b88c93a824f1e14b", null ],
-    [ "MaxHealth", "d1/d05/a08434.html#ab606f11596c1dd3d1cf7588346338721", null ],
-    [ "MaxOpens", "d1/d05/a08434.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
-    [ "OPvPObj", "d1/d05/a08434.html#a565624b690fa7fabf21b175548765652", null ],
-    [ "PathProgress", "d1/d05/a08434.html#a9e07a147b2be08a78f052e0cdb817111", null ],
-    [ "Transport", "d1/d05/a08434.html#a1ea0693341cda113a9e717e16be4f86e", null ]
+    [ "Minion", "d1/d05/a08434.html#a3979ae40c594699ac2a276184543b2c5", null ],
+    [ "GetDebugInfo", "d1/d05/a08434.html#a1f9800abdfa2126e593a6ae169f20024", null ],
+    [ "GetFollowAngle", "d1/d05/a08434.html#a6b4a4409bd7a8ff455bb13f8c4e5560a", null ],
+    [ "GetOwner", "d1/d05/a08434.html#a4610f459936e40b530dae8429f139cfe", null ],
+    [ "InitStats", "d1/d05/a08434.html#ad11b2900e990e2b5ba7d10b811cd1e5d", null ],
+    [ "IsGuardianPet", "d1/d05/a08434.html#a63335ad34731e8a26ab027bf690f9d4d", null ],
+    [ "IsPetGhoul", "d1/d05/a08434.html#ae56acaeea6d1cf9735345cb784f3dcd3", null ],
+    [ "RemoveFromWorld", "d1/d05/a08434.html#a35f8314d0a4bafeba1987eb0b1ececf3", null ],
+    [ "setDeathState", "d1/d05/a08434.html#ab954627fc409e08616cf080974d30a82", null ],
+    [ "SetFollowAngle", "d1/d05/a08434.html#a3b7be3e8dc649b939056ee6a5a66c506", null ],
+    [ "m_followAngle", "d1/d05/a08434.html#a02806f2eae429a33e0d2b0c115892c77", null ],
+    [ "m_owner", "d1/d05/a08434.html#a135c4341d5f617d1f69ee9f7deeea755", null ]
 ];

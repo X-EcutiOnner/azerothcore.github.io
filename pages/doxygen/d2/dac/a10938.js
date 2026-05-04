@@ -1,8 +1,5 @@
 var a10938 =
 [
-    [ "GuildEvent", "d2/dac/a10938.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "d2/dac/a10938.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "d2/dac/a10938.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "d2/dac/a10938.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "d2/dac/a10938.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "GuildGetRoster", "d2/dac/a10938.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
+    [ "Read", "d2/dac/a10938.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
 ];

@@ -1,7 +1,9 @@
 var a11226 =
 [
-    [ "PlayMusic", "dc/dc7/a11226.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
-    [ "PlayMusic", "dc/dc7/a11226.html#ad3d833f70de5937365c2351aa5206bbf", null ],
-    [ "Write", "dc/dc7/a11226.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
-    [ "SoundKitID", "dc/dc7/a11226.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
+    [ "ItemEnchantTimeUpdate", "dc/dc7/a11226.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
+    [ "Write", "dc/dc7/a11226.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
+    [ "Duration", "dc/dc7/a11226.html#ad576ce6011716519a70c6e00e0753a49", null ],
+    [ "ItemGuid", "dc/dc7/a11226.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
+    [ "PlayerGuid", "dc/dc7/a11226.html#a4623875e38909d8b7300e7d9c703b216", null ],
+    [ "Slot", "dc/dc7/a11226.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
 ];

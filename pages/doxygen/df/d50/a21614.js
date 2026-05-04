@@ -1,6 +1,7 @@
 var a21614 =
 [
-    [ "npc_mrfloppyAI", "dd/dbe/a21618.html", "dd/dbe/a21618" ],
-    [ "npc_mrfloppy", "df/d50/a21614.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "df/d50/a21614.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "HandleScript", "df/d50/a21614.html#a95de3ae27cfd764380ab1648b49af38d", null ],
+    [ "Load", "df/d50/a21614.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
+    [ "PrepareSpellScript", "df/d50/a21614.html#a442138710213b9b120d8ce57b733205a", null ],
+    [ "Register", "df/d50/a21614.html#af9d8f764a6a02737f8b559f067156df6", null ]
 ];

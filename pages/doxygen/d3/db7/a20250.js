@@ -1,9 +1,5 @@
 var a20250 =
 [
-    [ "HandleEffectPeriodic", "d3/db7/a20250.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "d3/db7/a20250.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "d3/db7/a20250.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "d3/db7/a20250.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "d3/db7/a20250.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "d3/db7/a20250.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "achievement_cheese_the_freeze", "d3/db7/a20250.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
+    [ "OnCheck", "d3/db7/a20250.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
 ];

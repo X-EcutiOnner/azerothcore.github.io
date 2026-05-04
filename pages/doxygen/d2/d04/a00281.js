@@ -1,7 +1,8 @@
 var a00281 =
 [
-    [ "FieldTypeToString", "d2/d04/a00281.html#a9b1d39b7abfe176191c0ed27188ed310", null ],
-    [ "InitializeDatabaseFieldMetadata", "d2/d04/a00281.html#a5e0e57902060d1fcd32688acb949b98e", null ],
-    [ "MysqlTypeToFieldType", "d2/d04/a00281.html#a1a26932646b97d033efdf53078561a90", null ],
-    [ "SizeForType", "d2/d04/a00281.html#ae077e892df09ce687a0a50be949ad69f", null ]
+    [ "GetDefaultDatabaseInfo", "d2/d04/a00281.html#a5560c170776773a1a20d93060003e89d", null ],
+    [ "CHARACTER_DATABASE_INFO_DEFAULT", "d2/d04/a00281.html#a6854faf653c8b94d9e1b611db3269d1a", null ],
+    [ "EMPTY_DATABASE_INFO", "d2/d04/a00281.html#aa2920a017ca93e102f17b0ca20885c5b", null ],
+    [ "LOGIN_DATABASE_INFO_DEFAULT", "d2/d04/a00281.html#aa5457f479ebc812232cc3f0d67fabde1", null ],
+    [ "WORLD_DATABASE_INFO_DEFAULT", "d2/d04/a00281.html#ad2151db3d84513bc271cf642ad76bb80", null ]
 ];

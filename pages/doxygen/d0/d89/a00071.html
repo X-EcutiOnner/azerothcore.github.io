@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellScriptMissileBarrageTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcEquipmentTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,201 +106,117 @@ $(document).ready(function(){initNavTree('d0/d89/a00071.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">SpellScriptMissileBarrageTest.cpp File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">SpellProcEquipmentTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><a class="el" href="../../da/d68/a09041.html">Unit</a> tests for Missile Barrage (44404-44408) proc behavior.  
+<p><a class="el" href="../../dc/d3e/a09066.html">Unit</a> tests for equipment requirement validation in proc system.  
 <a href="#details">More...</a></p>
-<div class="textblock"><code>#include &quot;gtest/gtest.h&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d1/dbd/a05113"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dbd/a05113.html">MageSpellFlags</a></td></tr>
-<tr class="memdesc:d1/dbd/a05113"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the SpellFamilyFlags[0] for common Mage spells. <br /></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aefcad72982a8fa6f771f8bef56c3070c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellFamilyFlags0, int rollResult)</td></tr>
-<tr class="memdesc:aefcad72982a8fa6f771f8bef56c3070c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Simulates the CheckProc logic from <a class="el" href="../../df/d31/a26173.html">spell_mage_missile_barrage</a>.  <a href="../../d0/d89/a00071.html#aefcad72982a8fa6f771f8bef56c3070c">More...</a><br /></td></tr>
-<tr class="separator:aefcad72982a8fa6f771f8bef56c3070c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7adabded91ba82360d8d9b6b1d5132ea"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a7adabded91ba82360d8d9b6b1d5132ea">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, ArcaneBlast_AlwaysProcs_RegardlessOfRoll)</td></tr>
-<tr class="separator:a7adabded91ba82360d8d9b6b1d5132ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8fa33be2273b532d781422d25e8b6672"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a8fa33be2273b532d781422d25e8b6672">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, ArcaneBlast_Returns100PercentRate)</td></tr>
-<tr class="separator:a8fa33be2273b532d781422d25e8b6672"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeab0a3a6edde33d54feef5dd9ceea629"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#aeab0a3a6edde33d54feef5dd9ceea629">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, Fireball_ProcsOnLowRoll)</td></tr>
-<tr class="separator:aeab0a3a6edde33d54feef5dd9ceea629"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaae02d3218c11e06e93c5ee51f073546"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#aaae02d3218c11e06e93c5ee51f073546">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, Fireball_FailsOnHighRoll)</td></tr>
-<tr class="separator:aaae02d3218c11e06e93c5ee51f073546"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab581bb40fc8c18dc8273db253cad2d44"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#ab581bb40fc8c18dc8273db253cad2d44">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, Fireball_Returns50PercentRate)</td></tr>
-<tr class="separator:ab581bb40fc8c18dc8273db253cad2d44"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5db2f0c8c8e20002a5c60de95fbecda3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a5db2f0c8c8e20002a5c60de95fbecda3">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, ArcaneMissiles_Returns50PercentRate)</td></tr>
-<tr class="separator:a5db2f0c8c8e20002a5c60de95fbecda3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad0e7264881bbb5fe5752d47c56930961"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#ad0e7264881bbb5fe5752d47c56930961">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, OtherSpells_Returns50PercentRate)</td></tr>
-<tr class="separator:ad0e7264881bbb5fe5752d47c56930961"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac2dda4615e476c49664c332dfe3e309b"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a> (float dbcChance, float checkProcRate)</td></tr>
-<tr class="memdesc:ac2dda4615e476c49664c332dfe3e309b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculate the effective proc rate combining DBC chance and CheckProc.  <a href="../../d0/d89/a00071.html#ac2dda4615e476c49664c332dfe3e309b">More...</a><br /></td></tr>
-<tr class="separator:ac2dda4615e476c49664c332dfe3e309b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acd2cc80be83d1ce20f5f41d590dcbd82"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#acd2cc80be83d1ce20f5f41d590dcbd82">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, EffectiveRate_ArcaneBlast_Rank5)</td></tr>
-<tr class="separator:acd2cc80be83d1ce20f5f41d590dcbd82"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab39746f7c4ec98445dc62c1bc5cb7265"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#ab39746f7c4ec98445dc62c1bc5cb7265">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, EffectiveRate_Fireball_Rank5)</td></tr>
-<tr class="separator:ab39746f7c4ec98445dc62c1bc5cb7265"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab4a6da10f775c2bfa3a120cf6ec09973"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#ab4a6da10f775c2bfa3a120cf6ec09973">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, EffectiveRate_ArcaneBlast_Rank1)</td></tr>
-<tr class="separator:ab4a6da10f775c2bfa3a120cf6ec09973"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a574495213ded418bae43ebae94186bd0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a574495213ded418bae43ebae94186bd0">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, EffectiveRate_Fireball_Rank1)</td></tr>
-<tr class="separator:a574495213ded418bae43ebae94186bd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9d499aeaaf23a19ea19dd0175bc5df38"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a9d499aeaaf23a19ea19dd0175bc5df38">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, DBCProcChances_MatchExpectedValues)</td></tr>
-<tr class="separator:a9d499aeaaf23a19ea19dd0175bc5df38"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a70c0b2737c1badc539277422564cad49"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a70c0b2737c1badc539277422564cad49">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, BoundaryRoll_49_Succeeds)</td></tr>
-<tr class="separator:a70c0b2737c1badc539277422564cad49"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c89bbafdb493683c8e42950deff3582"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a9c89bbafdb493683c8e42950deff3582">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, BoundaryRoll_50_Fails)</td></tr>
-<tr class="separator:a9c89bbafdb493683c8e42950deff3582"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a06d413749aa2d93773f002946e384e45"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a06d413749aa2d93773f002946e384e45">TEST_F</a> (<a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>, ArcaneBlastFlag_ExactMatch)</td></tr>
-<tr class="separator:a06d413749aa2d93773f002946e384e45"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a3cf9b20a3fe729ee462b2431e9ba830f"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dbd/a05113.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a> = 0x20000000</td></tr>
-<tr class="separator:a3cf9b20a3fe729ee462b2431e9ba830f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab9ece6fbb0862f8f3dce9aa99843c805"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dbd/a05113.html#ab9ece6fbb0862f8f3dce9aa99843c805">MageSpellFlags::ARCANE_MISSILES</a> = 0x00000020</td></tr>
-<tr class="separator:ab9ece6fbb0862f8f3dce9aa99843c805"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae58d0c097ed2d1cccbf272f42b835d52"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dbd/a05113.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a> = 0x00000001</td></tr>
-<tr class="separator:ae58d0c097ed2d1cccbf272f42b835d52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae8bd1511afd5de6e1475292711b50296"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dbd/a05113.html#ae8bd1511afd5de6e1475292711b50296">MageSpellFlags::FROSTFIRE_BOLT</a> = 0x00000000</td></tr>
-<tr class="separator:ae8bd1511afd5de6e1475292711b50296"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abfd925917520301832811c8b3b1b8ae3"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dbd/a05113.html#abfd925917520301832811c8b3b1b8ae3">MageSpellFlags::ARCANE_BARRAGE</a> = 0x00000000</td></tr>
-<tr class="separator:abfd925917520301832811c8b3b1b8ae3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace39e46c5d8aa496edf55827a45ab831"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#ace39e46c5d8aa496edf55827a45ab831">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, NoEquipRequirement_AllowsProc)</td></tr>
+<tr class="separator:ace39e46c5d8aa496edf55827a45ab831"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae98f34a798ccbe023ff60c740baf668c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#ae98f34a798ccbe023ff60c740baf668c">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, NonPassiveAura_SkipsCheck)</td></tr>
+<tr class="separator:ae98f34a798ccbe023ff60c740baf668c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54a1f7f841d77484dea2bb6220b78752"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a54a1f7f841d77484dea2bb6220b78752">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, NonPlayerTarget_SkipsCheck)</td></tr>
+<tr class="separator:a54a1f7f841d77484dea2bb6220b78752"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b0aebac05d10989c3fef6121de2aaab"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a6b0aebac05d10989c3fef6121de2aaab">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, WeaponRequired_WithWeapon_AllowsProc)</td></tr>
+<tr class="separator:a6b0aebac05d10989c3fef6121de2aaab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a90735b3ce2720109328c57102ce1e440"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a90735b3ce2720109328c57102ce1e440">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, WeaponRequired_NoWeapon_BlocksProc)</td></tr>
+<tr class="separator:a90735b3ce2720109328c57102ce1e440"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1dedc3c517abe627a4a17990df4b62d2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a1dedc3c517abe627a4a17990df4b62d2">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, WeaponRequired_BrokenWeapon_BlocksProc)</td></tr>
+<tr class="separator:a1dedc3c517abe627a4a17990df4b62d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a26fcf5fd7d3724aa24e7a8cea3f510"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a1a26fcf5fd7d3724aa24e7a8cea3f510">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, WeaponRequired_WrongSubclass_BlocksProc)</td></tr>
+<tr class="separator:a1a26fcf5fd7d3724aa24e7a8cea3f510"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4ca0ffbde2d44686616ebf1bb9a7b59e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a4ca0ffbde2d44686616ebf1bb9a7b59e">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, ArmorRequired_WithArmor_AllowsProc)</td></tr>
+<tr class="separator:a4ca0ffbde2d44686616ebf1bb9a7b59e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ac72f13b7b7e3dd06a4a2233e0aeba0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a3ac72f13b7b7e3dd06a4a2233e0aeba0">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, ArmorRequired_NoArmor_BlocksProc)</td></tr>
+<tr class="separator:a3ac72f13b7b7e3dd06a4a2233e0aeba0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7767386979d852a619b6dbe82c19c6dd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a7767386979d852a619b6dbe82c19c6dd">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, ArmorRequired_BrokenArmor_BlocksProc)</td></tr>
+<tr class="separator:a7767386979d852a619b6dbe82c19c6dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9dc67df2d3b729985c729fdbcf0c2af0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a9dc67df2d3b729985c729fdbcf0c2af0">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, FeralForm_WeaponProc_BlocksProc)</td></tr>
+<tr class="separator:a9dc67df2d3b729985c729fdbcf0c2af0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a02ad41e8c2496c404229ab9fabe30a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a5a02ad41e8c2496c404229ab9fabe30a">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, FeralForm_ArmorProc_AllowsProc)</td></tr>
+<tr class="separator:a5a02ad41e8c2496c404229ab9fabe30a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a79ba391a641fd95efc3b6af237e3f1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a5a79ba391a641fd95efc3b6af237e3f1">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, NotInFeralForm_WeaponProc_AllowsProc)</td></tr>
+<tr class="separator:a5a79ba391a641fd95efc3b6af237e3f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9b1b2f9c2ec8710cd92e02376c5b8b56"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a9b1b2f9c2ec8710cd92e02376c5b8b56">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, NoEquipRequirementAttr_BypassesMissingItem)</td></tr>
+<tr class="separator:a9b1b2f9c2ec8710cd92e02376c5b8b56"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5ab5594e4cc85dab1e756dfa063cdd7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#aa5ab5594e4cc85dab1e756dfa063cdd7">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, NoEquipRequirementAttr_BypassesBrokenItem)</td></tr>
+<tr class="separator:aa5ab5594e4cc85dab1e756dfa063cdd7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f54777bb68422618b3d7d5b0ff645e5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a2f54777bb68422618b3d7d5b0ff645e5">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, NoEquipRequirementAttr_BypassesFeralForm)</td></tr>
+<tr class="separator:a2f54777bb68422618b3d7d5b0ff645e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a56006585b0a2ca26e4138423161a620a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a56006585b0a2ca26e4138423161a620a">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, SlotMapping_BaseAttack_MainHand)</td></tr>
+<tr class="separator:a56006585b0a2ca26e4138423161a620a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2749d0569090c64db21f620036c70c0c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a2749d0569090c64db21f620036c70c0c">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, SlotMapping_OffAttack_OffHand)</td></tr>
+<tr class="separator:a2749d0569090c64db21f620036c70c0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a25e1efe050d37679915c74c34d832fad"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a25e1efe050d37679915c74c34d832fad">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, SlotMapping_RangedAttack_Ranged)</td></tr>
+<tr class="separator:a25e1efe050d37679915c74c34d832fad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6e67189670b8ff19e187042fc35b9f1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#ae6e67189670b8ff19e187042fc35b9f1">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, SlotMapping_InvalidAttack_DefaultsToMainHand)</td></tr>
+<tr class="separator:ae6e67189670b8ff19e187042fc35b9f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8fcc51445a9700485ee8b28376c6c117"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a8fcc51445a9700485ee8b28376c6c117">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, Scenario_WeaponEnchant_Fiery)</td></tr>
+<tr class="separator:a8fcc51445a9700485ee8b28376c6c117"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0d10e4d4c80379c0962d1682186936ef"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a0d10e4d4c80379c0962d1682186936ef">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, Scenario_WeaponEnchant_FieryOffhand)</td></tr>
+<tr class="separator:a0d10e4d4c80379c0962d1682186936ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b75afb0407abe3b5beac5a91e7052aa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a3b75afb0407abe3b5beac5a91e7052aa">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, Scenario_Hunter_RangedProc)</td></tr>
+<tr class="separator:a3b75afb0407abe3b5beac5a91e7052aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5cd85585dc936ec2fb5a0b22c8cc838"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#ab5cd85585dc936ec2fb5a0b22c8cc838">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, Scenario_FeralDruid_WeaponEnchant)</td></tr>
+<tr class="separator:ab5cd85585dc936ec2fb5a0b22c8cc838"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8206c776b9fa437f90738f7a26407dd3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a8206c776b9fa437f90738f7a26407dd3">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, Scenario_BrokenWeapon_CombatUse)</td></tr>
+<tr class="separator:a8206c776b9fa437f90738f7a26407dd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a826e1a2b9df391b416c0bf8d9586a5ad"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a826e1a2b9df391b416c0bf8d9586a5ad">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, Scenario_WrongWeaponType)</td></tr>
+<tr class="separator:a826e1a2b9df391b416c0bf8d9586a5ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c3a0682e324a2a8779939d12357aee4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a9c3a0682e324a2a8779939d12357aee4">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, EdgeCase_AllConditionsMet)</td></tr>
+<tr class="separator:a9c3a0682e324a2a8779939d12357aee4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a38f6adc593e63ffbe81a955a145252b5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a38f6adc593e63ffbe81a955a145252b5">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, EdgeCase_AllBlockingConditions)</td></tr>
+<tr class="separator:a38f6adc593e63ffbe81a955a145252b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c1a392431b379bb8add03a542f6266e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d89/a00071.html#a1c1a392431b379bb8add03a542f6266e">TEST_F</a> (<a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>, EdgeCase_BypassOverridesAll)</td></tr>
+<tr class="separator:a1c1a392431b379bb8add03a542f6266e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p ><a class="el" href="../../da/d68/a09041.html">Unit</a> tests for Missile Barrage (44404-44408) proc behavior. </p>
-<p >Missile Barrage talent should proc:</p><ul>
-<li>100% chance when casting Arcane Blast (SpellFamilyFlags[0] &amp; 0x20000000)</li>
-<li>50% reduced chance when casting other spells (Arcane Barrage, Frostfire Bolt, etc.)</li>
+<div class="textblock"><p ><a class="el" href="../../dc/d3e/a09066.html">Unit</a> tests for equipment requirement validation in proc system. </p>
+<p >Tests the logic from <a class="el" href="../../d4/d99/a01634.html">SpellAuras.cpp</a>:2260-2298:</p><ul>
+<li>Weapon class requirement validation</li>
+<li>Armor class requirement validation</li>
+<li>Attack type to slot mapping</li>
+<li>Feral form blocking weapon procs</li>
+<li>Broken item blocking procs</li>
+<li>SPELL_ATTR3_NO_PROC_EQUIP_REQUIREMENT bypass</li>
+<li><a class="el" href="../../d8/dad/a08642.html">Item</a> subclass mask validation</li>
 </ul>
-<p >DBC Base proc chances by rank:</p><ul>
-<li>Rank 1 (44404): 4%</li>
-<li>Rank 2 (44405): 8%</li>
-<li>Rank 3 (44406): 12%</li>
-<li>Rank 4 (44407): 16%</li>
-<li>Rank 5 (44408): 20%</li>
+<hr  />
+ <h1><a class="anchor" id="autotoc_md7"></a>
+TEST DESIGN: Configuration-Based Testing</h1>
+<p >These tests use EquipmentConfig structs to simulate different equipment scenarios without requiring actual game objects. Each test configures:</p><ul>
+<li>isPassive: Whether the aura is passive (equipment check only applies to passive)</li>
+<li>isPlayer: Whether the target is a player (NPCs skip equipment checks)</li>
+<li>equippedItemClass: ITEM_CLASS_WEAPON, ITEM_CLASS_ARMOR, or ITEM_CLASS_ANY</li>
+<li>hasEquippedItem: Whether the required item slot has an item</li>
+<li>itemIsBroken: Whether the equipped item is broken (0 durability)</li>
+<li>itemFitsRequirements: Whether the item matches subclass mask requirements</li>
+<li>isInFeralForm: Whether a druid is in cat/bear form (blocks weapon procs)</li>
+<li>hasNoEquipRequirementAttr: SPELL_ATTR3_NO_PROC_EQUIP_REQUIREMENT bypass</li>
 </ul>
-<p >Effective proc rates:</p><ul>
-<li>Arcane Blast: Full DBC chance (4-20%)</li>
-<li>Other spells: 50% of DBC chance (2-10%) </li>
-</ul>
+<p >No GTEST_SKIP() is used in this file - all tests run with their configured </p>
+<h1><a class="anchor" id="autotoc_md8"></a>
+scenarios, testing both positive and negative cases explicitly.</h1>
 
-<p class="definition">Definition in file <a class="el" href="../../">SpellScriptMissileBarrageTest.cpp</a>.</p>
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcEquipmentTest.cpp</a>.</p>
 </div><h2 class="groupheader">Function Documentation</h2>
-<a id="ac2dda4615e476c49664c332dfe3e309b" name="ac2dda4615e476c49664c332dfe3e309b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac2dda4615e476c49664c332dfe3e309b">&#9670;&#160;</a></span>CalculateEffectiveProcRate()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float CalculateEffectiveProcRate </td>
-          <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>dbcChance</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>checkProcRate</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Calculate the effective proc rate combining DBC chance and CheckProc. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">dbcChance</td><td>Base proc chance from DBC (e.g., 20 for rank 5) </td></tr>
-    <tr><td class="paramname">checkProcRate</td><td>CheckProc pass rate (100 for Arcane Blast, 50 for others) </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>Effective proc rate as percentage </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  185</span>{</div>
-<div class="line"><span class="lineno">  186</span>    <span class="keywordflow">return</span> dbcChance * (checkProcRate / 100.0f);</div>
-<div class="line"><span class="lineno">  187</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00189">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="aefcad72982a8fa6f771f8bef56c3070c" name="aefcad72982a8fa6f771f8bef56c3070c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aefcad72982a8fa6f771f8bef56c3070c">&#9670;&#160;</a></span>SimulateMissileBarrageCheckProc()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool SimulateMissileBarrageCheckProc </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spellFamilyFlags0</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>rollResult</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Simulates the CheckProc logic from <a class="el" href="../../df/d31/a26173.html">spell_mage_missile_barrage</a>. </p>
-<p >This mirrors the actual script at: <a class="el" href="../../da/d3b/a03641.html">src/server/scripts/Spells/spell_mage.cpp</a>:1325-1338</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">spellFamilyFlags0</td><td>The SpellFamilyFlags[0] of the triggering spell </td></tr>
-    <tr><td class="paramname">rollResult</td><td>The result of roll_chance_i(50) - pass 0-49 to succeed, 50-99 to fail </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>true if the proc check passes </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
-<div class="line"><span class="lineno">   59</span>    <span class="comment">// Arcane Blast - full proc chance (100%)</span></div>
-<div class="line"><span class="lineno">   60</span>    <span class="comment">// Arcane Blast spell family flags: 0x20000000</span></div>
-<div class="line"><span class="lineno">   61</span>    <span class="keywordflow">if</span> (spellFamilyFlags0 &amp; 0x20000000)</div>
-<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   63</span> </div>
-<div class="line"><span class="lineno">   64</span>    <span class="comment">// Other spells - 50% proc chance</span></div>
-<div class="line"><span class="lineno">   65</span>    <span class="comment">// Simulates: return roll_chance_i(50);</span></div>
-<div class="line"><span class="lineno">   66</span>    <span class="keywordflow">return</span> rollResult &lt; 50;</div>
-<div class="line"><span class="lineno">   67</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00097">MissileBarrageTest::RunStatisticalTest()</a>, and <a class="el" href="../../#l00115">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a7adabded91ba82360d8d9b6b1d5132ea" name="a7adabded91ba82360d8d9b6b1d5132ea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7adabded91ba82360d8d9b6b1d5132ea">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/15]</span></h2>
+<a id="a7767386979d852a619b6dbe82c19c6dd" name="a7767386979d852a619b6dbe82c19c6dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7767386979d852a619b6dbe82c19c6dd">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -308,13 +224,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ArcaneBlast_AlwaysProcs_RegardlessOfRoll&#160;</td>
+          <td class="paramtype">ArmorRequired_BrokenArmor_BlocksProc&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -324,23 +240,21 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  116</span>{</div>
-<div class="line"><span class="lineno">  117</span>    <span class="comment">// Arcane Blast should always pass CheckProc, regardless of the roll result</span></div>
-<div class="line"><span class="lineno">  118</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 0; roll &lt; 100; roll++)</div>
-<div class="line"><span class="lineno">  119</span>    {</div>
-<div class="line"><span class="lineno">  120</span>        EXPECT_TRUE(<a class="code hl_function" href="../../d0/d89/a00071.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d1/dbd/a05113.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a>, roll))</div>
-<div class="line"><span class="lineno">  121</span>            &lt;&lt; <span class="stringliteral">&quot;Arcane Blast should always proc, but failed with roll=&quot;</span> &lt;&lt; roll;</div>
-<div class="line"><span class="lineno">  122</span>    }</div>
-<div class="line"><span class="lineno">  123</span>}</div>
-<div class="ttc" id="aa00071_html_aefcad72982a8fa6f771f8bef56c3070c"><div class="ttname"><a href="../../d0/d89/a00071.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a></div><div class="ttdeci">bool SimulateMissileBarrageCheckProc(uint32 spellFamilyFlags0, int rollResult)</div><div class="ttdoc">Simulates the CheckProc logic from spell_mage_missile_barrage.</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:57</div></div>
-<div class="ttc" id="aa05113_html_a3cf9b20a3fe729ee462b2431e9ba830f"><div class="ttname"><a href="../../d1/dbd/a05113.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a></div><div class="ttdeci">constexpr uint32 ARCANE_BLAST</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:74</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  189</span>{</div>
+<div class="line"><span class="lineno">  190</span>    <span class="keyword">auto</span> config = CreateArmorProcConfig();</div>
+<div class="line"><span class="lineno">  191</span>    config.itemIsBroken = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  192</span> </div>
+<div class="line"><span class="lineno">  193</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  194</span>        &lt;&lt; <span class="stringliteral">&quot;Broken armor should block proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  195</span>}</div>
+<div class="ttc" id="aa29186_html_ad4b553c3a909671e7ca72a8e5fe46b2a"><div class="ttname"><a href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a></div><div class="ttdeci">static bool ShouldBlockDueToEquipment(EquipmentConfig const &amp;config)</div><div class="ttdoc">Simulate equipment requirement check Returns true if proc should be blocked due to equipment requirem...</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:445</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00074">MageSpellFlags::ARCANE_BLAST</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
 
 </div>
 </div>
-<a id="a8fa33be2273b532d781422d25e8b6672" name="a8fa33be2273b532d781422d25e8b6672"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8fa33be2273b532d781422d25e8b6672">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/15]</span></h2>
+<a id="a3ac72f13b7b7e3dd06a4a2233e0aeba0" name="a3ac72f13b7b7e3dd06a4a2233e0aeba0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3ac72f13b7b7e3dd06a4a2233e0aeba0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -348,13 +262,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ArcaneBlast_Returns100PercentRate&#160;</td>
+          <td class="paramtype">ArmorRequired_NoArmor_BlocksProc&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -364,17 +278,20 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  126</span>{</div>
-<div class="line"><span class="lineno">  127</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d1/dbd/a05113.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a>);</div>
-<div class="line"><span class="lineno">  128</span>    EXPECT_NEAR(rate, 100.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Arcane Blast should have 100% CheckProc pass rate&quot;</span>;</div>
-<div class="line"><span class="lineno">  129</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  180</span>{</div>
+<div class="line"><span class="lineno">  181</span>    <span class="keyword">auto</span> config = CreateArmorProcConfig();</div>
+<div class="line"><span class="lineno">  182</span>    config.hasEquippedItem = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  183</span> </div>
+<div class="line"><span class="lineno">  184</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  185</span>        &lt;&lt; <span class="stringliteral">&quot;Missing armor should block proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  186</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00074">MageSpellFlags::ARCANE_BLAST</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
 
 </div>
 </div>
-<a id="a06d413749aa2d93773f002946e384e45" name="a06d413749aa2d93773f002946e384e45"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a06d413749aa2d93773f002946e384e45">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/15]</span></h2>
+<a id="a4ca0ffbde2d44686616ebf1bb9a7b59e" name="a4ca0ffbde2d44686616ebf1bb9a7b59e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4ca0ffbde2d44686616ebf1bb9a7b59e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -382,13 +299,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ArcaneBlastFlag_ExactMatch&#160;</td>
+          <td class="paramtype">ArmorRequired_WithArmor_AllowsProc&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -398,22 +315,19 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  266</span>{</div>
-<div class="line"><span class="lineno">  267</span>    <span class="comment">// Test that exactly the Arcane Blast flag triggers 100% rate</span></div>
-<div class="line"><span class="lineno">  268</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d0/d89/a00071.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000000, 99));</div>
-<div class="line"><span class="lineno">  269</span> </div>
-<div class="line"><span class="lineno">  270</span>    <span class="comment">// Combined flags should also work if Arcane Blast is present</span></div>
-<div class="line"><span class="lineno">  271</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d0/d89/a00071.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000001, 99));</div>
-<div class="line"><span class="lineno">  272</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d0/d89/a00071.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000020, 99));</div>
-<div class="line"><span class="lineno">  273</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d0/d89/a00071.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0xFFFFFFFF, 99));</div>
-<div class="line"><span class="lineno">  274</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  172</span>{</div>
+<div class="line"><span class="lineno">  173</span>    <span class="keyword">auto</span> config = CreateArmorProcConfig();</div>
+<div class="line"><span class="lineno">  174</span> </div>
+<div class="line"><span class="lineno">  175</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  176</span>        &lt;&lt; <span class="stringliteral">&quot;Armor requirement met should allow proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  177</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
 
 </div>
 </div>
-<a id="a5db2f0c8c8e20002a5c60de95fbecda3" name="a5db2f0c8c8e20002a5c60de95fbecda3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5db2f0c8c8e20002a5c60de95fbecda3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/15]</span></h2>
+<a id="a38f6adc593e63ffbe81a955a145252b5" name="a38f6adc593e63ffbe81a955a145252b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a38f6adc593e63ffbe81a955a145252b5">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -421,13 +335,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ArcaneMissiles_Returns50PercentRate&#160;</td>
+          <td class="paramtype">EdgeCase_AllBlockingConditions&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -437,18 +351,25 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  162</span>{</div>
-<div class="line"><span class="lineno">  163</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d1/dbd/a05113.html#ab9ece6fbb0862f8f3dce9aa99843c805">MageSpellFlags::ARCANE_MISSILES</a>);</div>
-<div class="line"><span class="lineno">  164</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Arcane Missiles should have 50% CheckProc pass rate&quot;</span>;</div>
-<div class="line"><span class="lineno">  165</span>}</div>
-<div class="ttc" id="aa05113_html_ab9ece6fbb0862f8f3dce9aa99843c805"><div class="ttname"><a href="../../d1/dbd/a05113.html#ab9ece6fbb0862f8f3dce9aa99843c805">MageSpellFlags::ARCANE_MISSILES</a></div><div class="ttdeci">constexpr uint32 ARCANE_MISSILES</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:75</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  379</span>{</div>
+<div class="line"><span class="lineno">  380</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  381</span>    <span class="comment">// Multiple blocking conditions</span></div>
+<div class="line"><span class="lineno">  382</span>    config.hasEquippedItem = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  383</span>    config.itemIsBroken = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  384</span>    config.itemFitsRequirements = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  385</span>    config.isInFeralForm = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  386</span> </div>
+<div class="line"><span class="lineno">  387</span>    <span class="comment">// Should be blocked (first check that fails)</span></div>
+<div class="line"><span class="lineno">  388</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  389</span>        &lt;&lt; <span class="stringliteral">&quot;Multiple blocking conditions should still block&quot;</span>;</div>
+<div class="line"><span class="lineno">  390</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00075">MageSpellFlags::ARCANE_MISSILES</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
 
 </div>
 </div>
-<a id="a70c0b2737c1badc539277422564cad49" name="a70c0b2737c1badc539277422564cad49"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a70c0b2737c1badc539277422564cad49">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/15]</span></h2>
+<a id="a9c3a0682e324a2a8779939d12357aee4" name="a9c3a0682e324a2a8779939d12357aee4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c3a0682e324a2a8779939d12357aee4">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -456,13 +377,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">BoundaryRoll_49_Succeeds&#160;</td>
+          <td class="paramtype">EdgeCase_AllConditionsMet&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -472,18 +393,27 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  254</span>{</div>
-<div class="line"><span class="lineno">  255</span>    <span class="comment">// Roll of 49 should succeed (&lt; 50)</span></div>
-<div class="line"><span class="lineno">  256</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d0/d89/a00071.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d1/dbd/a05113.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, 49));</div>
-<div class="line"><span class="lineno">  257</span>}</div>
-<div class="ttc" id="aa05113_html_ae58d0c097ed2d1cccbf272f42b835d52"><div class="ttname"><a href="../../d1/dbd/a05113.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a></div><div class="ttdeci">constexpr uint32 FIREBALL</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:76</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  363</span>{</div>
+<div class="line"><span class="lineno">  364</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  365</span>    <span class="comment">// All requirements met</span></div>
+<div class="line"><span class="lineno">  366</span>    config.isPassive = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  367</span>    config.isPlayer = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  368</span>    config.hasEquippedItem = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  369</span>    config.itemIsBroken = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  370</span>    config.itemFitsRequirements = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  371</span>    config.isInFeralForm = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  372</span>    config.hasNoEquipRequirementAttr = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  373</span> </div>
+<div class="line"><span class="lineno">  374</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  375</span>        &lt;&lt; <span class="stringliteral">&quot;All conditions met should allow proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  376</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
 
 </div>
 </div>
-<a id="a9c89bbafdb493683c8e42950deff3582" name="a9c89bbafdb493683c8e42950deff3582"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c89bbafdb493683c8e42950deff3582">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/15]</span></h2>
+<a id="a1c1a392431b379bb8add03a542f6266e" name="a1c1a392431b379bb8add03a542f6266e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c1a392431b379bb8add03a542f6266e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -491,13 +421,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">BoundaryRoll_50_Fails&#160;</td>
+          <td class="paramtype">EdgeCase_BypassOverridesAll&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -507,17 +437,25 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  260</span>{</div>
-<div class="line"><span class="lineno">  261</span>    <span class="comment">// Roll of 50 should fail (&gt;= 50)</span></div>
-<div class="line"><span class="lineno">  262</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d0/d89/a00071.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d1/dbd/a05113.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, 50));</div>
-<div class="line"><span class="lineno">  263</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  393</span>{</div>
+<div class="line"><span class="lineno">  394</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  395</span>    <span class="comment">// Multiple blocking conditions BUT bypass is set</span></div>
+<div class="line"><span class="lineno">  396</span>    config.hasEquippedItem = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  397</span>    config.itemIsBroken = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  398</span>    config.itemFitsRequirements = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  399</span>    config.isInFeralForm = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  400</span>    config.hasNoEquipRequirementAttr = <span class="keyword">true</span>;  <span class="comment">// Bypass</span></div>
+<div class="line"><span class="lineno">  401</span> </div>
+<div class="line"><span class="lineno">  402</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  403</span>        &lt;&lt; <span class="stringliteral">&quot;Bypass attribute should override all blocking conditions&quot;</span>;</div>
+<div class="line"><span class="lineno">  404</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
 
 </div>
 </div>
-<a id="a9d499aeaaf23a19ea19dd0175bc5df38" name="a9d499aeaaf23a19ea19dd0175bc5df38"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9d499aeaaf23a19ea19dd0175bc5df38">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/15]</span></h2>
+<a id="a5a02ad41e8c2496c404229ab9fabe30a" name="a5a02ad41e8c2496c404229ab9fabe30a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a02ad41e8c2496c404229ab9fabe30a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -525,139 +463,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">DBCProcChances_MatchExpectedValues&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  222</span>{</div>
-<div class="line"><span class="lineno">  223</span>    <span class="comment">// Expected DBC proc chances for each rank</span></div>
-<div class="line"><span class="lineno">  224</span>    <span class="comment">// Note: These should match the actual DBC values</span></div>
-<div class="line"><span class="lineno">  225</span>    <span class="keyword">struct </span>RankData</div>
-<div class="line"><span class="lineno">  226</span>    {</div>
-<div class="line"><span class="lineno">  227</span>        <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId;</div>
-<div class="line"><span class="lineno">  228</span>        <span class="keywordtype">int</span> expectedChance;</div>
-<div class="line"><span class="lineno">  229</span>    };</div>
-<div class="line"><span class="lineno">  230</span> </div>
-<div class="line"><span class="lineno">  231</span>    std::vector&lt;RankData&gt; ranks = {</div>
-<div class="line"><span class="lineno">  232</span>        { 44404, 4 },   <span class="comment">// Rank 1: 4% (actually 8% in some versions)</span></div>
-<div class="line"><span class="lineno">  233</span>        { 44405, 8 },   <span class="comment">// Rank 2</span></div>
-<div class="line"><span class="lineno">  234</span>        { 44406, 12 },  <span class="comment">// Rank 3</span></div>
-<div class="line"><span class="lineno">  235</span>        { 44407, 16 },  <span class="comment">// Rank 4</span></div>
-<div class="line"><span class="lineno">  236</span>        { 44408, 20 },  <span class="comment">// Rank 5</span></div>
-<div class="line"><span class="lineno">  237</span>    };</div>
-<div class="line"><span class="lineno">  238</span> </div>
-<div class="line"><span class="lineno">  239</span>    <span class="comment">// This documents the expected values - actual verification would require SpellMgr</span></div>
-<div class="line"><span class="lineno">  240</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rank : ranks)</div>
-<div class="line"><span class="lineno">  241</span>    {</div>
-<div class="line"><span class="lineno">  242</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Spell ID: &quot;</span> + std::to_string(rank.spellId));</div>
-<div class="line"><span class="lineno">  243</span>        <span class="comment">// The actual DBC lookup would be:</span></div>
-<div class="line"><span class="lineno">  244</span>        <span class="comment">// SpellInfo const* spellInfo = sSpellMgr-&gt;GetSpellInfo(rank.spellId);</span></div>
-<div class="line"><span class="lineno">  245</span>        <span class="comment">// EXPECT_EQ(spellInfo-&gt;ProcChance, rank.expectedChance);</span></div>
-<div class="line"><span class="lineno">  246</span>    }</div>
-<div class="line"><span class="lineno">  247</span>}</div>
-<div class="ttc" id="aa04568_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ab4a6da10f775c2bfa3a120cf6ec09973" name="ab4a6da10f775c2bfa3a120cf6ec09973"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab4a6da10f775c2bfa3a120cf6ec09973">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/15]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EffectiveRate_ArcaneBlast_Rank1&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  204</span>{</div>
-<div class="line"><span class="lineno">  205</span>    <span class="comment">// Rank 1: 4% base chance * 100% CheckProc = 4% effective</span></div>
-<div class="line"><span class="lineno">  206</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d0/d89/a00071.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(4.0f, 100.0f);</div>
-<div class="line"><span class="lineno">  207</span>    EXPECT_NEAR(effective, 4.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  208</span>}</div>
-<div class="ttc" id="aa00071_html_ac2dda4615e476c49664c332dfe3e309b"><div class="ttname"><a href="../../d0/d89/a00071.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a></div><div class="ttdeci">float CalculateEffectiveProcRate(float dbcChance, float checkProcRate)</div><div class="ttdoc">Calculate the effective proc rate combining DBC chance and CheckProc.</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:184</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00184">CalculateEffectiveProcRate()</a>.</p>
-
-</div>
-</div>
-<a id="acd2cc80be83d1ce20f5f41d590dcbd82" name="acd2cc80be83d1ce20f5f41d590dcbd82"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acd2cc80be83d1ce20f5f41d590dcbd82">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/15]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EffectiveRate_ArcaneBlast_Rank5&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  190</span>{</div>
-<div class="line"><span class="lineno">  191</span>    <span class="comment">// Rank 5: 20% base chance * 100% CheckProc = 20% effective</span></div>
-<div class="line"><span class="lineno">  192</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d0/d89/a00071.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(20.0f, 100.0f);</div>
-<div class="line"><span class="lineno">  193</span>    EXPECT_NEAR(effective, 20.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  194</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00184">CalculateEffectiveProcRate()</a>.</p>
-
-</div>
-</div>
-<a id="a574495213ded418bae43ebae94186bd0" name="a574495213ded418bae43ebae94186bd0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a574495213ded418bae43ebae94186bd0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/15]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EffectiveRate_Fireball_Rank1&#160;</td>
+          <td class="paramtype">FeralForm_ArmorProc_AllowsProc&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -668,17 +480,19 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  211</span>{</div>
-<div class="line"><span class="lineno">  212</span>    <span class="comment">// Rank 1: 4% base chance * 50% CheckProc = 2% effective</span></div>
-<div class="line"><span class="lineno">  213</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d0/d89/a00071.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(4.0f, 50.0f);</div>
-<div class="line"><span class="lineno">  214</span>    EXPECT_NEAR(effective, 2.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  215</span>}</div>
+<div class="line"><span class="lineno">  212</span>    <span class="keyword">auto</span> config = CreateArmorProcConfig();</div>
+<div class="line"><span class="lineno">  213</span>    config.isInFeralForm = <span class="keyword">true</span>;  <span class="comment">// Druid in cat/bear form</span></div>
+<div class="line"><span class="lineno">  214</span> </div>
+<div class="line"><span class="lineno">  215</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  216</span>        &lt;&lt; <span class="stringliteral">&quot;Feral form should NOT block armor procs&quot;</span>;</div>
+<div class="line"><span class="lineno">  217</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00184">CalculateEffectiveProcRate()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
 
 </div>
 </div>
-<a id="ab39746f7c4ec98445dc62c1bc5cb7265" name="ab39746f7c4ec98445dc62c1bc5cb7265"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab39746f7c4ec98445dc62c1bc5cb7265">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/15]</span></h2>
+<a id="a9dc67df2d3b729985c729fdbcf0c2af0" name="a9dc67df2d3b729985c729fdbcf0c2af0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9dc67df2d3b729985c729fdbcf0c2af0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -686,13 +500,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">EffectiveRate_Fireball_Rank5&#160;</td>
+          <td class="paramtype">FeralForm_WeaponProc_BlocksProc&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -702,18 +516,20 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  197</span>{</div>
-<div class="line"><span class="lineno">  198</span>    <span class="comment">// Rank 5: 20% base chance * 50% CheckProc = 10% effective</span></div>
-<div class="line"><span class="lineno">  199</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d0/d89/a00071.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(20.0f, 50.0f);</div>
-<div class="line"><span class="lineno">  200</span>    EXPECT_NEAR(effective, 10.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  201</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  202</span>{</div>
+<div class="line"><span class="lineno">  203</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  204</span>    config.isInFeralForm = <span class="keyword">true</span>;  <span class="comment">// Druid in cat/bear form</span></div>
+<div class="line"><span class="lineno">  205</span> </div>
+<div class="line"><span class="lineno">  206</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  207</span>        &lt;&lt; <span class="stringliteral">&quot;Feral form should block weapon procs&quot;</span>;</div>
+<div class="line"><span class="lineno">  208</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00184">CalculateEffectiveProcRate()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
 
 </div>
 </div>
-<a id="aaae02d3218c11e06e93c5ee51f073546" name="aaae02d3218c11e06e93c5ee51f073546"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaae02d3218c11e06e93c5ee51f073546">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/15]</span></h2>
+<a id="ace39e46c5d8aa496edf55827a45ab831" name="ace39e46c5d8aa496edf55827a45ab831"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace39e46c5d8aa496edf55827a45ab831">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -721,13 +537,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Fireball_FailsOnHighRoll&#160;</td>
+          <td class="paramtype">NoEquipRequirement_AllowsProc&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -737,21 +553,27 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  146</span>{</div>
-<div class="line"><span class="lineno">  147</span>    <span class="comment">// Rolls 50-99 should fail</span></div>
-<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 50; roll &lt; 100; roll++)</div>
-<div class="line"><span class="lineno">  149</span>    {</div>
-<div class="line"><span class="lineno">  150</span>        EXPECT_FALSE(<a class="code hl_function" href="../../d0/d89/a00071.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d1/dbd/a05113.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, roll))</div>
-<div class="line"><span class="lineno">  151</span>            &lt;&lt; <span class="stringliteral">&quot;Fireball should NOT proc with roll=&quot;</span> &lt;&lt; roll &lt;&lt; <span class="stringliteral">&quot; (&gt;= 50)&quot;</span>;</div>
-<div class="line"><span class="lineno">  152</span>    }</div>
-<div class="line"><span class="lineno">  153</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   94</span>{</div>
+<div class="line"><span class="lineno">   95</span>    <a class="code hl_struct" href="../../db/d53/a29202.html">ProcChanceTestHelper::EquipmentConfig</a> config;</div>
+<div class="line"><span class="lineno">   96</span>    config.<a class="code hl_variable" href="../../db/d53/a29202.html#ad56881b893a29dc5d6be193c6720c4e0">isPassive</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   97</span>    config.<a class="code hl_variable" href="../../db/d53/a29202.html#a7de2ea9efe7606f26e2c11d8963357d0">isPlayer</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   98</span>    config.<a class="code hl_variable" href="../../db/d53/a29202.html#aceba901b7f666b4a3806c35b6d8697ad">equippedItemClass</a> = <a class="code hl_variable" href="../../dc/d94/a29186.html#af1b7930d947922e39bb11e4414338a96">ProcChanceTestHelper::ITEM_CLASS_ANY</a>;  <span class="comment">// No requirement</span></div>
+<div class="line"><span class="lineno">   99</span> </div>
+<div class="line"><span class="lineno">  100</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  101</span>        &lt;&lt; <span class="stringliteral">&quot;No equipment requirement should allow proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  102</span>}</div>
+<div class="ttc" id="aa29186_html_af1b7930d947922e39bb11e4414338a96"><div class="ttname"><a href="../../dc/d94/a29186.html#af1b7930d947922e39bb11e4414338a96">ProcChanceTestHelper::ITEM_CLASS_ANY</a></div><div class="ttdeci">static constexpr int32 ITEM_CLASS_ANY</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:412</div></div>
+<div class="ttc" id="aa29202_html"><div class="ttname"><a href="../../db/d53/a29202.html">ProcChanceTestHelper::EquipmentConfig</a></div><div class="ttdoc">Configuration for simulating equipment requirements.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:425</div></div>
+<div class="ttc" id="aa29202_html_a7de2ea9efe7606f26e2c11d8963357d0"><div class="ttname"><a href="../../db/d53/a29202.html#a7de2ea9efe7606f26e2c11d8963357d0">ProcChanceTestHelper::EquipmentConfig::isPlayer</a></div><div class="ttdeci">bool isPlayer</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:427</div></div>
+<div class="ttc" id="aa29202_html_aceba901b7f666b4a3806c35b6d8697ad"><div class="ttname"><a href="../../db/d53/a29202.html#aceba901b7f666b4a3806c35b6d8697ad">ProcChanceTestHelper::EquipmentConfig::equippedItemClass</a></div><div class="ttdeci">int32 equippedItemClass</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:428</div></div>
+<div class="ttc" id="aa29202_html_ad56881b893a29dc5d6be193c6720c4e0"><div class="ttname"><a href="../../db/d53/a29202.html#ad56881b893a29dc5d6be193c6720c4e0">ProcChanceTestHelper::EquipmentConfig::isPassive</a></div><div class="ttdeci">bool isPassive</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:426</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00428">ProcChanceTestHelper::EquipmentConfig::equippedItemClass</a>, <a class="el" href="../../#l00426">ProcChanceTestHelper::EquipmentConfig::isPassive</a>, <a class="el" href="../../#l00427">ProcChanceTestHelper::EquipmentConfig::isPlayer</a>, <a class="el" href="../../#l00412">ProcChanceTestHelper::ITEM_CLASS_ANY</a>, and <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
 
 </div>
 </div>
-<a id="aeab0a3a6edde33d54feef5dd9ceea629" name="aeab0a3a6edde33d54feef5dd9ceea629"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeab0a3a6edde33d54feef5dd9ceea629">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/15]</span></h2>
+<a id="aa5ab5594e4cc85dab1e756dfa063cdd7" name="aa5ab5594e4cc85dab1e756dfa063cdd7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5ab5594e4cc85dab1e756dfa063cdd7">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -759,13 +581,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Fireball_ProcsOnLowRoll&#160;</td>
+          <td class="paramtype">NoEquipRequirementAttr_BypassesBrokenItem&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -775,21 +597,21 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  136</span>{</div>
-<div class="line"><span class="lineno">  137</span>    <span class="comment">// Rolls 0-49 should succeed</span></div>
-<div class="line"><span class="lineno">  138</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 0; roll &lt; 50; roll++)</div>
-<div class="line"><span class="lineno">  139</span>    {</div>
-<div class="line"><span class="lineno">  140</span>        EXPECT_TRUE(<a class="code hl_function" href="../../d0/d89/a00071.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d1/dbd/a05113.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, roll))</div>
-<div class="line"><span class="lineno">  141</span>            &lt;&lt; <span class="stringliteral">&quot;Fireball should proc with roll=&quot;</span> &lt;&lt; roll &lt;&lt; <span class="stringliteral">&quot; (&lt; 50)&quot;</span>;</div>
-<div class="line"><span class="lineno">  142</span>    }</div>
-<div class="line"><span class="lineno">  143</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  243</span>{</div>
+<div class="line"><span class="lineno">  244</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  245</span>    config.itemIsBroken = <span class="keyword">true</span>;  <span class="comment">// Would normally block</span></div>
+<div class="line"><span class="lineno">  246</span>    config.hasNoEquipRequirementAttr = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  247</span> </div>
+<div class="line"><span class="lineno">  248</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  249</span>        &lt;&lt; <span class="stringliteral">&quot;NO_PROC_EQUIP_REQUIREMENT should bypass broken item check&quot;</span>;</div>
+<div class="line"><span class="lineno">  250</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
 
 </div>
 </div>
-<a id="ab581bb40fc8c18dc8273db253cad2d44" name="ab581bb40fc8c18dc8273db253cad2d44"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab581bb40fc8c18dc8273db253cad2d44">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/15]</span></h2>
+<a id="a2f54777bb68422618b3d7d5b0ff645e5" name="a2f54777bb68422618b3d7d5b0ff645e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2f54777bb68422618b3d7d5b0ff645e5">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -797,13 +619,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Fireball_Returns50PercentRate&#160;</td>
+          <td class="paramtype">NoEquipRequirementAttr_BypassesFeralForm&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -813,17 +635,21 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  156</span>{</div>
-<div class="line"><span class="lineno">  157</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d1/dbd/a05113.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>);</div>
-<div class="line"><span class="lineno">  158</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Fireball should have 50% CheckProc pass rate&quot;</span>;</div>
-<div class="line"><span class="lineno">  159</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  253</span>{</div>
+<div class="line"><span class="lineno">  254</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  255</span>    config.isInFeralForm = <span class="keyword">true</span>;  <span class="comment">// Would normally block</span></div>
+<div class="line"><span class="lineno">  256</span>    config.hasNoEquipRequirementAttr = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  257</span> </div>
+<div class="line"><span class="lineno">  258</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  259</span>        &lt;&lt; <span class="stringliteral">&quot;NO_PROC_EQUIP_REQUIREMENT should bypass feral form check&quot;</span>;</div>
+<div class="line"><span class="lineno">  260</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
 
 </div>
 </div>
-<a id="ad0e7264881bbb5fe5752d47c56930961" name="ad0e7264881bbb5fe5752d47c56930961"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad0e7264881bbb5fe5752d47c56930961">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/15]</span></h2>
+<a id="a9b1b2f9c2ec8710cd92e02376c5b8b56" name="a9b1b2f9c2ec8710cd92e02376c5b8b56"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9b1b2f9c2ec8710cd92e02376c5b8b56">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -831,13 +657,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd8/a29445.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">OtherSpells_Returns50PercentRate&#160;</td>
+          <td class="paramtype">NoEquipRequirementAttr_BypassesMissingItem&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -847,12 +673,656 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  168</span>{</div>
-<div class="line"><span class="lineno">  169</span>    <span class="comment">// Any spell that doesn&#39;t have the Arcane Blast flag should get 50% rate</span></div>
-<div class="line"><span class="lineno">  170</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(0x00000000);</div>
-<div class="line"><span class="lineno">  171</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Other spells should have 50% CheckProc pass rate&quot;</span>;</div>
-<div class="line"><span class="lineno">  172</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  233</span>{</div>
+<div class="line"><span class="lineno">  234</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  235</span>    config.hasEquippedItem = <span class="keyword">false</span>;  <span class="comment">// Would normally block</span></div>
+<div class="line"><span class="lineno">  236</span>    config.hasNoEquipRequirementAttr = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  237</span> </div>
+<div class="line"><span class="lineno">  238</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  239</span>        &lt;&lt; <span class="stringliteral">&quot;NO_PROC_EQUIP_REQUIREMENT should bypass missing item check&quot;</span>;</div>
+<div class="line"><span class="lineno">  240</span>}</div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="ae98f34a798ccbe023ff60c740baf668c" name="ae98f34a798ccbe023ff60c740baf668c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae98f34a798ccbe023ff60c740baf668c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NonPassiveAura_SkipsCheck&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
+<div class="line"><span class="lineno">  106</span>    <a class="code hl_struct" href="../../db/d53/a29202.html">ProcChanceTestHelper::EquipmentConfig</a> config;</div>
+<div class="line"><span class="lineno">  107</span>    config.<a class="code hl_variable" href="../../db/d53/a29202.html#ad56881b893a29dc5d6be193c6720c4e0">isPassive</a> = <span class="keyword">false</span>;  <span class="comment">// Not a passive aura</span></div>
+<div class="line"><span class="lineno">  108</span>    config.<a class="code hl_variable" href="../../db/d53/a29202.html#a7de2ea9efe7606f26e2c11d8963357d0">isPlayer</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  109</span>    config.<a class="code hl_variable" href="../../db/d53/a29202.html#aceba901b7f666b4a3806c35b6d8697ad">equippedItemClass</a> = <a class="code hl_variable" href="../../dc/d94/a29186.html#addc4abaac2862092dec9206cf746a84a">ProcChanceTestHelper::ITEM_CLASS_WEAPON</a>;</div>
+<div class="line"><span class="lineno">  110</span>    config.<a class="code hl_variable" href="../../db/d53/a29202.html#a5d7780265fe18a0657f2a68d9c737fe7">hasEquippedItem</a> = <span class="keyword">false</span>;  <span class="comment">// Would normally block</span></div>
+<div class="line"><span class="lineno">  111</span> </div>
+<div class="line"><span class="lineno">  112</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  113</span>        &lt;&lt; <span class="stringliteral">&quot;Non-passive aura should skip equipment check&quot;</span>;</div>
+<div class="line"><span class="lineno">  114</span>}</div>
+<div class="ttc" id="aa29186_html_addc4abaac2862092dec9206cf746a84a"><div class="ttname"><a href="../../dc/d94/a29186.html#addc4abaac2862092dec9206cf746a84a">ProcChanceTestHelper::ITEM_CLASS_WEAPON</a></div><div class="ttdeci">static constexpr int32 ITEM_CLASS_WEAPON</div><div class="ttdoc">Item classes for equipment requirement checking.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:410</div></div>
+<div class="ttc" id="aa29202_html_a5d7780265fe18a0657f2a68d9c737fe7"><div class="ttname"><a href="../../db/d53/a29202.html#a5d7780265fe18a0657f2a68d9c737fe7">ProcChanceTestHelper::EquipmentConfig::hasEquippedItem</a></div><div class="ttdeci">bool hasEquippedItem</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:433</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00428">ProcChanceTestHelper::EquipmentConfig::equippedItemClass</a>, <a class="el" href="../../#l00433">ProcChanceTestHelper::EquipmentConfig::hasEquippedItem</a>, <a class="el" href="../../#l00426">ProcChanceTestHelper::EquipmentConfig::isPassive</a>, <a class="el" href="../../#l00427">ProcChanceTestHelper::EquipmentConfig::isPlayer</a>, <a class="el" href="../../#l00410">ProcChanceTestHelper::ITEM_CLASS_WEAPON</a>, and <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="a54a1f7f841d77484dea2bb6220b78752" name="a54a1f7f841d77484dea2bb6220b78752"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54a1f7f841d77484dea2bb6220b78752">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NonPlayerTarget_SkipsCheck&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  117</span>{</div>
+<div class="line"><span class="lineno">  118</span>    <a class="code hl_struct" href="../../db/d53/a29202.html">ProcChanceTestHelper::EquipmentConfig</a> config;</div>
+<div class="line"><span class="lineno">  119</span>    config.<a class="code hl_variable" href="../../db/d53/a29202.html#ad56881b893a29dc5d6be193c6720c4e0">isPassive</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  120</span>    config.<a class="code hl_variable" href="../../db/d53/a29202.html#a7de2ea9efe7606f26e2c11d8963357d0">isPlayer</a> = <span class="keyword">false</span>;  <span class="comment">// NPC/creature</span></div>
+<div class="line"><span class="lineno">  121</span>    config.<a class="code hl_variable" href="../../db/d53/a29202.html#aceba901b7f666b4a3806c35b6d8697ad">equippedItemClass</a> = <a class="code hl_variable" href="../../dc/d94/a29186.html#addc4abaac2862092dec9206cf746a84a">ProcChanceTestHelper::ITEM_CLASS_WEAPON</a>;</div>
+<div class="line"><span class="lineno">  122</span>    config.<a class="code hl_variable" href="../../db/d53/a29202.html#a5d7780265fe18a0657f2a68d9c737fe7">hasEquippedItem</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  123</span> </div>
+<div class="line"><span class="lineno">  124</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  125</span>        &lt;&lt; <span class="stringliteral">&quot;Non-player target should skip equipment check&quot;</span>;</div>
+<div class="line"><span class="lineno">  126</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00428">ProcChanceTestHelper::EquipmentConfig::equippedItemClass</a>, <a class="el" href="../../#l00433">ProcChanceTestHelper::EquipmentConfig::hasEquippedItem</a>, <a class="el" href="../../#l00426">ProcChanceTestHelper::EquipmentConfig::isPassive</a>, <a class="el" href="../../#l00427">ProcChanceTestHelper::EquipmentConfig::isPlayer</a>, <a class="el" href="../../#l00410">ProcChanceTestHelper::ITEM_CLASS_WEAPON</a>, and <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="a5a79ba391a641fd95efc3b6af237e3f1" name="a5a79ba391a641fd95efc3b6af237e3f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a79ba391a641fd95efc3b6af237e3f1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NotInFeralForm_WeaponProc_AllowsProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  220</span>{</div>
+<div class="line"><span class="lineno">  221</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  222</span>    config.isInFeralForm = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  223</span> </div>
+<div class="line"><span class="lineno">  224</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  225</span>        &lt;&lt; <span class="stringliteral">&quot;Non-feral form should allow weapon procs&quot;</span>;</div>
+<div class="line"><span class="lineno">  226</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="a8206c776b9fa437f90738f7a26407dd3" name="a8206c776b9fa437f90738f7a26407dd3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8206c776b9fa437f90738f7a26407dd3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_BrokenWeapon_CombatUse&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  339</span>{</div>
+<div class="line"><span class="lineno">  340</span>    <span class="comment">// Player&#39;s weapon breaks during combat</span></div>
+<div class="line"><span class="lineno">  341</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  342</span>    config.itemIsBroken = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  343</span> </div>
+<div class="line"><span class="lineno">  344</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  345</span>        &lt;&lt; <span class="stringliteral">&quot;Broken weapon procs should be blocked&quot;</span>;</div>
+<div class="line"><span class="lineno">  346</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="ab5cd85585dc936ec2fb5a0b22c8cc838" name="ab5cd85585dc936ec2fb5a0b22c8cc838"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab5cd85585dc936ec2fb5a0b22c8cc838">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_FeralDruid_WeaponEnchant&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  329</span>{</div>
+<div class="line"><span class="lineno">  330</span>    <span class="comment">// Druid with weapon enchant enters cat form</span></div>
+<div class="line"><span class="lineno">  331</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  332</span>    config.isInFeralForm = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  333</span> </div>
+<div class="line"><span class="lineno">  334</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  335</span>        &lt;&lt; <span class="stringliteral">&quot;Feral druid weapon enchant should be blocked&quot;</span>;</div>
+<div class="line"><span class="lineno">  336</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="a3b75afb0407abe3b5beac5a91e7052aa" name="a3b75afb0407abe3b5beac5a91e7052aa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b75afb0407abe3b5beac5a91e7052aa">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_Hunter_RangedProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  319</span>{</div>
+<div class="line"><span class="lineno">  320</span>    <span class="comment">// Hunter ranged weapon proc</span></div>
+<div class="line"><span class="lineno">  321</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  322</span>    config.attackType = <a class="code hl_variable" href="../../dc/d94/a29186.html#a37eb38df7f1ea2b2fa2f21d9f348e575">ProcChanceTestHelper::RANGED_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  323</span> </div>
+<div class="line"><span class="lineno">  324</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  325</span>        &lt;&lt; <span class="stringliteral">&quot;Ranged proc with ranged weapon should work&quot;</span>;</div>
+<div class="line"><span class="lineno">  326</span>}</div>
+<div class="ttc" id="aa29186_html_a37eb38df7f1ea2b2fa2f21d9f348e575"><div class="ttname"><a href="../../dc/d94/a29186.html#a37eb38df7f1ea2b2fa2f21d9f348e575">ProcChanceTestHelper::RANGED_ATTACK</a></div><div class="ttdeci">static constexpr uint8 RANGED_ATTACK</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:419</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00419">ProcChanceTestHelper::RANGED_ATTACK</a>, and <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="a8fcc51445a9700485ee8b28376c6c117" name="a8fcc51445a9700485ee8b28376c6c117"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8fcc51445a9700485ee8b28376c6c117">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_WeaponEnchant_Fiery&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  299</span>{</div>
+<div class="line"><span class="lineno">  300</span>    <span class="comment">// Fiery Weapon enchant - requires melee weapon</span></div>
+<div class="line"><span class="lineno">  301</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  302</span>    config.attackType = <a class="code hl_variable" href="../../dc/d94/a29186.html#af0f724a2ed57a03dab9a640b61ced974">ProcChanceTestHelper::BASE_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  303</span> </div>
+<div class="line"><span class="lineno">  304</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  305</span>        &lt;&lt; <span class="stringliteral">&quot;Fiery Weapon with main hand should proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  306</span>}</div>
+<div class="ttc" id="aa29186_html_af0f724a2ed57a03dab9a640b61ced974"><div class="ttname"><a href="../../dc/d94/a29186.html#af0f724a2ed57a03dab9a640b61ced974">ProcChanceTestHelper::BASE_ATTACK</a></div><div class="ttdeci">static constexpr uint8 BASE_ATTACK</div><div class="ttdoc">Attack types for weapon slot mapping.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:417</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00417">ProcChanceTestHelper::BASE_ATTACK</a>, and <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="a0d10e4d4c80379c0962d1682186936ef" name="a0d10e4d4c80379c0962d1682186936ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0d10e4d4c80379c0962d1682186936ef">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_WeaponEnchant_FieryOffhand&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  309</span>{</div>
+<div class="line"><span class="lineno">  310</span>    <span class="comment">// Fiery Weapon on off-hand</span></div>
+<div class="line"><span class="lineno">  311</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  312</span>    config.attackType = <a class="code hl_variable" href="../../dc/d94/a29186.html#a97323266b01f9dcf63a38b00684d12c9">ProcChanceTestHelper::OFF_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  313</span> </div>
+<div class="line"><span class="lineno">  314</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  315</span>        &lt;&lt; <span class="stringliteral">&quot;Fiery Weapon with off hand should proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  316</span>}</div>
+<div class="ttc" id="aa29186_html_a97323266b01f9dcf63a38b00684d12c9"><div class="ttname"><a href="../../dc/d94/a29186.html#a97323266b01f9dcf63a38b00684d12c9">ProcChanceTestHelper::OFF_ATTACK</a></div><div class="ttdeci">static constexpr uint8 OFF_ATTACK</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:418</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00418">ProcChanceTestHelper::OFF_ATTACK</a>, and <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="a826e1a2b9df391b416c0bf8d9586a5ad" name="a826e1a2b9df391b416c0bf8d9586a5ad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a826e1a2b9df391b416c0bf8d9586a5ad">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_WrongWeaponType&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  349</span>{</div>
+<div class="line"><span class="lineno">  350</span>    <span class="comment">// Enchant requires sword but player has mace</span></div>
+<div class="line"><span class="lineno">  351</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  352</span>    config.itemFitsRequirements = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  353</span> </div>
+<div class="line"><span class="lineno">  354</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  355</span>        &lt;&lt; <span class="stringliteral">&quot;Wrong weapon type should block proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  356</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="a56006585b0a2ca26e4138423161a620a" name="a56006585b0a2ca26e4138423161a620a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a56006585b0a2ca26e4138423161a620a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[22/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SlotMapping_BaseAttack_MainHand&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  267</span>{</div>
+<div class="line"><span class="lineno">  268</span>    <a class="code hl_typedef" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> slot = <a class="code hl_function" href="../../dc/d94/a29186.html#ab9fa7b4e963eef370817b26fc07a14e5">ProcChanceTestHelper::GetWeaponSlotForAttackType</a>(<a class="code hl_variable" href="../../dc/d94/a29186.html#af0f724a2ed57a03dab9a640b61ced974">ProcChanceTestHelper::BASE_ATTACK</a>);</div>
+<div class="line"><span class="lineno">  269</span>    EXPECT_EQ(slot, 15)  <span class="comment">// EQUIPMENT_SLOT_MAINHAND</span></div>
+<div class="line"><span class="lineno">  270</span>        &lt;&lt; <span class="stringliteral">&quot;BASE_ATTACK should map to main hand slot&quot;</span>;</div>
+<div class="line"><span class="lineno">  271</span>}</div>
+<div class="ttc" id="aa04580_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa29186_html_ab9fa7b4e963eef370817b26fc07a14e5"><div class="ttname"><a href="../../dc/d94/a29186.html#ab9fa7b4e963eef370817b26fc07a14e5">ProcChanceTestHelper::GetWeaponSlotForAttackType</a></div><div class="ttdeci">static uint8 GetWeaponSlotForAttackType(uint8 attackType)</div><div class="ttdoc">Get equipment slot for attack type.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:480</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00417">ProcChanceTestHelper::BASE_ATTACK</a>, and <a class="el" href="../../#l00480">ProcChanceTestHelper::GetWeaponSlotForAttackType()</a>.</p>
+
+</div>
+</div>
+<a id="ae6e67189670b8ff19e187042fc35b9f1" name="ae6e67189670b8ff19e187042fc35b9f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae6e67189670b8ff19e187042fc35b9f1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[23/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SlotMapping_InvalidAttack_DefaultsToMainHand&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  288</span>{</div>
+<div class="line"><span class="lineno">  289</span>    <a class="code hl_typedef" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> slot = <a class="code hl_function" href="../../dc/d94/a29186.html#ab9fa7b4e963eef370817b26fc07a14e5">ProcChanceTestHelper::GetWeaponSlotForAttackType</a>(255);  <span class="comment">// Invalid</span></div>
+<div class="line"><span class="lineno">  290</span>    EXPECT_EQ(slot, 15)  <span class="comment">// EQUIPMENT_SLOT_MAINHAND</span></div>
+<div class="line"><span class="lineno">  291</span>        &lt;&lt; <span class="stringliteral">&quot;Invalid attack type should default to main hand&quot;</span>;</div>
+<div class="line"><span class="lineno">  292</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00480">ProcChanceTestHelper::GetWeaponSlotForAttackType()</a>.</p>
+
+</div>
+</div>
+<a id="a2749d0569090c64db21f620036c70c0c" name="a2749d0569090c64db21f620036c70c0c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2749d0569090c64db21f620036c70c0c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[24/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SlotMapping_OffAttack_OffHand&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  274</span>{</div>
+<div class="line"><span class="lineno">  275</span>    <a class="code hl_typedef" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> slot = <a class="code hl_function" href="../../dc/d94/a29186.html#ab9fa7b4e963eef370817b26fc07a14e5">ProcChanceTestHelper::GetWeaponSlotForAttackType</a>(<a class="code hl_variable" href="../../dc/d94/a29186.html#a97323266b01f9dcf63a38b00684d12c9">ProcChanceTestHelper::OFF_ATTACK</a>);</div>
+<div class="line"><span class="lineno">  276</span>    EXPECT_EQ(slot, 16)  <span class="comment">// EQUIPMENT_SLOT_OFFHAND</span></div>
+<div class="line"><span class="lineno">  277</span>        &lt;&lt; <span class="stringliteral">&quot;OFF_ATTACK should map to off hand slot&quot;</span>;</div>
+<div class="line"><span class="lineno">  278</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00480">ProcChanceTestHelper::GetWeaponSlotForAttackType()</a>, and <a class="el" href="../../#l00418">ProcChanceTestHelper::OFF_ATTACK</a>.</p>
+
+</div>
+</div>
+<a id="a25e1efe050d37679915c74c34d832fad" name="a25e1efe050d37679915c74c34d832fad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a25e1efe050d37679915c74c34d832fad">&#9670;&#160;</a></span>TEST_F() <span class="overload">[25/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SlotMapping_RangedAttack_Ranged&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  281</span>{</div>
+<div class="line"><span class="lineno">  282</span>    <a class="code hl_typedef" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> slot = <a class="code hl_function" href="../../dc/d94/a29186.html#ab9fa7b4e963eef370817b26fc07a14e5">ProcChanceTestHelper::GetWeaponSlotForAttackType</a>(<a class="code hl_variable" href="../../dc/d94/a29186.html#a37eb38df7f1ea2b2fa2f21d9f348e575">ProcChanceTestHelper::RANGED_ATTACK</a>);</div>
+<div class="line"><span class="lineno">  283</span>    EXPECT_EQ(slot, 17)  <span class="comment">// EQUIPMENT_SLOT_RANGED</span></div>
+<div class="line"><span class="lineno">  284</span>        &lt;&lt; <span class="stringliteral">&quot;RANGED_ATTACK should map to ranged slot&quot;</span>;</div>
+<div class="line"><span class="lineno">  285</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00480">ProcChanceTestHelper::GetWeaponSlotForAttackType()</a>, and <a class="el" href="../../#l00419">ProcChanceTestHelper::RANGED_ATTACK</a>.</p>
+
+</div>
+</div>
+<a id="a1dedc3c517abe627a4a17990df4b62d2" name="a1dedc3c517abe627a4a17990df4b62d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1dedc3c517abe627a4a17990df4b62d2">&#9670;&#160;</a></span>TEST_F() <span class="overload">[26/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">WeaponRequired_BrokenWeapon_BlocksProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  150</span>{</div>
+<div class="line"><span class="lineno">  151</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  152</span>    config.itemIsBroken = <span class="keyword">true</span>;  <span class="comment">// Weapon is broken</span></div>
+<div class="line"><span class="lineno">  153</span> </div>
+<div class="line"><span class="lineno">  154</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  155</span>        &lt;&lt; <span class="stringliteral">&quot;Broken weapon should block proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  156</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="a90735b3ce2720109328c57102ce1e440" name="a90735b3ce2720109328c57102ce1e440"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a90735b3ce2720109328c57102ce1e440">&#9670;&#160;</a></span>TEST_F() <span class="overload">[27/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">WeaponRequired_NoWeapon_BlocksProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  141</span>{</div>
+<div class="line"><span class="lineno">  142</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  143</span>    config.hasEquippedItem = <span class="keyword">false</span>;  <span class="comment">// No weapon equipped</span></div>
+<div class="line"><span class="lineno">  144</span> </div>
+<div class="line"><span class="lineno">  145</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  146</span>        &lt;&lt; <span class="stringliteral">&quot;Missing weapon should block proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  147</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="a6b0aebac05d10989c3fef6121de2aaab" name="a6b0aebac05d10989c3fef6121de2aaab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b0aebac05d10989c3fef6121de2aaab">&#9670;&#160;</a></span>TEST_F() <span class="overload">[28/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">WeaponRequired_WithWeapon_AllowsProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  133</span>{</div>
+<div class="line"><span class="lineno">  134</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  135</span> </div>
+<div class="line"><span class="lineno">  136</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  137</span>        &lt;&lt; <span class="stringliteral">&quot;Weapon requirement met should allow proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  138</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
+</div>
+</div>
+<a id="a1a26fcf5fd7d3724aa24e7a8cea3f510" name="a1a26fcf5fd7d3724aa24e7a8cea3f510"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a26fcf5fd7d3724aa24e7a8cea3f510">&#9670;&#160;</a></span>TEST_F() <span class="overload">[29/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d72/a29538.html">SpellProcEquipmentTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">WeaponRequired_WrongSubclass_BlocksProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  159</span>{</div>
+<div class="line"><span class="lineno">  160</span>    <span class="keyword">auto</span> config = CreateWeaponProcConfig();</div>
+<div class="line"><span class="lineno">  161</span>    config.itemFitsRequirements = <span class="keyword">false</span>;  <span class="comment">// Wrong weapon type</span></div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ProcChanceTestHelper::ShouldBlockDueToEquipment</a>(config))</div>
+<div class="line"><span class="lineno">  164</span>        &lt;&lt; <span class="stringliteral">&quot;Wrong weapon subclass should block proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  165</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00445">ProcChanceTestHelper::ShouldBlockDueToEquipment()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -860,8 +1330,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d0/d89/a00071.html">SpellScriptMissileBarrageTest.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 21:37:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d0/d89/a00071.html">SpellProcEquipmentTest.cpp</a></li>
+    <li class="footer">Generated on Mon May 4 2026 21:41:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

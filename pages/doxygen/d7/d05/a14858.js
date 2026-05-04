@@ -1,5 +1,5 @@
 var a14858 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "d7/d05/a14858.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "d7/d05/a14858.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "npc_pilgrims_bounty_plate", "d7/d05/a14858.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "d7/d05/a14858.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

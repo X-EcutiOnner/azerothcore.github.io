@@ -1,5 +1,5 @@
 var a02525 =
 [
-    [ "lookup_commandscript", "df/da7/a12249.html", "df/da7/a12249" ],
-    [ "AddSC_lookup_commandscript", "db/de8/a02525.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
+    [ "learn_commandscript", "d0/d10/a12266.html", "d0/d10/a12266" ],
+    [ "AddSC_learn_commandscript", "db/de8/a02525.html#a8dd69858fd98c4630027654ecdcf92e7", null ]
 ];

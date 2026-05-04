@@ -1,6 +1,7 @@
 var a27338 =
 [
-    [ "HandleSchoolDMG", "d3/dc5/a27338.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "d3/dc5/a27338.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "d3/dc5/a27338.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "HandleRemove", "d3/dc5/a27338.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
+    [ "PrepareAuraScript", "d3/dc5/a27338.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
+    [ "Register", "d3/dc5/a27338.html#a338ee9c0eddd309ce2a791160059bad6", null ],
+    [ "Validate", "d3/dc5/a27338.html#ae8272b65a070fc959af003f701567c3c", null ]
 ];

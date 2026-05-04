@@ -1,6 +1,11 @@
 var a13326 =
 [
-    [ "OnRemove", "dd/d3d/a13326.html#aedad236b202300eee0925e3600b87bfa", null ],
-    [ "PrepareAuraScript", "dd/d3d/a13326.html#acfdeb98e274989e378d4d4c800306a24", null ],
-    [ "Register", "dd/d3d/a13326.html#a0d820ca108e3aabe87ab5867d997264c", null ]
+    [ "npc_a_special_surpriseAI", "dd/d3d/a13326.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
+    [ "MeetQuestCondition", "dd/d3d/a13326.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
+    [ "MoveInLineOfSight", "dd/d3d/a13326.html#af0b183b951f1eba8114da1f7a1284d09", null ],
+    [ "Reset", "dd/d3d/a13326.html#a9526f6b257eade275b828d2b30328533", null ],
+    [ "UpdateAI", "dd/d3d/a13326.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
+    [ "ExecuteSpeech_Counter", "dd/d3d/a13326.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
+    [ "ExecuteSpeech_Timer", "dd/d3d/a13326.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
+    [ "PlayerGUID", "dd/d3d/a13326.html#a683cdbd0ef9d0562842aace5b440594f", null ]
 ];

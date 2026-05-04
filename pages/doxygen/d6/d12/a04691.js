@@ -1,4 +1,6 @@
 var a04691 =
 [
-    [ "CircularBuffer< T >", "d0/d8e/a05717.html", "d0/d8e/a05717" ]
+    [ "IpLocationRecord", "dc/d69/a05614.html", "dc/d69/a05614" ],
+    [ "IpLocationStore", "d4/dff/a05618.html", "d4/dff/a05618" ],
+    [ "sIPLocation", "d6/d12/a04691.html#a85e62bd98f395189fea9c9514d44fc31", null ]
 ];

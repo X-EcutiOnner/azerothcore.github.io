@@ -1,6 +1,6 @@
 var a18654 =
 [
-    [ "boss_valithria_dreamwalkerAI", "df/db8/a18658.html", "df/db8/a18658" ],
-    [ "boss_valithria_dreamwalker", "d8/deb/a18654.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d8/deb/a18654.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "npc_lk_wicked_spiritAI", "df/db8/a18658.html", "df/db8/a18658" ],
+    [ "npc_lk_wicked_spirit", "d8/deb/a18654.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "d8/deb/a18654.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

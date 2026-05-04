@@ -1,8 +1,10 @@
 var a10082 =
 [
-    [ "BoundaryIntersectBoundary", "d2/d7a/a10082.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
-    [ "~BoundaryIntersectBoundary", "d2/d7a/a10082.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
-    [ "IsWithinBoundaryArea", "d2/d7a/a10082.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
-    [ "_b1", "d2/d7a/a10082.html#ab0239437fa92e39d144bf3856eb347c7", null ],
-    [ "_b2", "d2/d7a/a10082.html#a41e100c17db99990981293399660824c", null ]
+    [ "DoublePosition", "d7/de1/a10086.html", "d7/de1/a10086" ],
+    [ "~AreaBoundary", "d2/d7a/a10082.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d2/d7a/a10082.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d2/d7a/a10082.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d2/d7a/a10082.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d2/d7a/a10082.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d2/d7a/a10082.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

@@ -1,7 +1,9 @@
 var a24626 =
 [
-    [ "HandleProc", "d1/dbc/a24626.html#a1970f27ef7eda74a48fccbdf963be87a", null ],
-    [ "PrepareAuraScript", "d1/dbc/a24626.html#a435424c2bc9a2b491eb9535d5c13df60", null ],
-    [ "Register", "d1/dbc/a24626.html#a21c898e51a477c008f708254619d3fc6", null ],
-    [ "Validate", "d1/dbc/a24626.html#ad2607d8ce696536f32d0a6eb77af4664", null ]
+    [ "PrepareAuraScript", "d1/dbc/a24626.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "d1/dbc/a24626.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "d1/dbc/a24626.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "d1/dbc/a24626.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "d1/dbc/a24626.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "d1/dbc/a24626.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

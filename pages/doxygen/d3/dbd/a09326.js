@@ -1,6 +1,10 @@
 var a09326 =
 [
-    [ "lang_id", "d3/dbd/a09326.html#a1fa900a467834103ac595a8a96dd28c0", null ],
-    [ "skill_id", "d3/dbd/a09326.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
-    [ "spell_id", "d3/dbd/a09326.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
+    [ "creatureRate", "d3/dbd/a09326.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "d3/dbd/a09326.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "d3/dbd/a09326.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "d3/dbd/a09326.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "d3/dbd/a09326.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "d3/dbd/a09326.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "d3/dbd/a09326.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

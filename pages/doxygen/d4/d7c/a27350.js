@@ -1,6 +1,8 @@
 var a27350 =
 [
-    [ "CheckCast", "d4/d7c/a27350.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "d4/d7c/a27350.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "d4/d7c/a27350.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "ApplyEffect", "d4/d7c/a27350.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "d4/d7c/a27350.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "d4/d7c/a27350.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "d4/d7c/a27350.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "d4/d7c/a27350.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

@@ -1,7 +1,8 @@
 var a29854 =
 [
-    [ "MPQArchive", "d4/d07/a28878.html", "d4/d07/a28878" ],
-    [ "MPQFile", "dc/df6/a28882.html", "dc/df6/a28882" ],
-    [ "ArchiveSet", "d9/dc0/a29854.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d9/dc0/a29854.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "Color", "d9/dc0/a29854.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "d9/dc0/a29854.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "d9/dc0/a29854.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "d9/dc0/a29854.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "d9/dc0/a29854.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

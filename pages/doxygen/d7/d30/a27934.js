@@ -1,6 +1,5 @@
 var a27934 =
 [
-    [ "go_midsummer_musicAI", "d7/d30/a27934.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "d7/d30/a27934.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "d7/d30/a27934.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "go_veil_skith_cage", "d7/d30/a27934.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
+    [ "OnGossipHello", "d7/d30/a27934.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
 ];

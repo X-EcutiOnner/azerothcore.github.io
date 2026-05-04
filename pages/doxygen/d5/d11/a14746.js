@@ -1,5 +1,5 @@
 var a14746 =
 [
-    [ "MidsummerPlayerScript", "d5/d11/a14746.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
-    [ "OnPlayerUpdateZone", "d5/d11/a14746.html#af512e1744264ac69fe2b7f7ba3836760", null ]
+    [ "go_pumpkin_shrine", "d5/d11/a14746.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "d5/d11/a14746.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

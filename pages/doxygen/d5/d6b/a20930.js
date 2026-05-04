@@ -1,5 +1,7 @@
 var a20930 =
 [
-    [ "npc_ritual_channelerAI", "d5/d6b/a20930.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "d5/d6b/a20930.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "FilterTargets", "d5/d6b/a20930.html#aacfc70299b20cfef5b2feac954779f1c", null ],
+    [ "HandleDamageCalc", "d5/d6b/a20930.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
+    [ "PrepareSpellScript", "d5/d6b/a20930.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
+    [ "Register", "d5/d6b/a20930.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
 ];

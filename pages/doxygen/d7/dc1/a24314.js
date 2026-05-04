@@ -1,7 +1,6 @@
 var a24314 =
 [
-    [ "HandleScriptEffect", "d7/dc1/a24314.html#afaffd667477e286700dd7e5562423452", null ],
-    [ "PrepareSpellScript", "d7/dc1/a24314.html#a9c30d4d6427cfc96b88a1427afcedb00", null ],
-    [ "Register", "d7/dc1/a24314.html#ab8b68e02d05abceeb4b7eef00092e759", null ],
-    [ "Validate", "d7/dc1/a24314.html#a553f2f26a412d2060151b4f49055b847", null ]
+    [ "CheckProc", "d7/dc1/a24314.html#a4e1d93c20d0926d3ac93c23d9c139df6", null ],
+    [ "PrepareAuraScript", "d7/dc1/a24314.html#a2e572b677ad3b754316066f3e53edbbb", null ],
+    [ "Register", "d7/dc1/a24314.html#acecdc9e5079c49b312521a65682b602a", null ]
 ];

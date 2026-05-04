@@ -1,5 +1,7 @@
 var a28018 =
 [
-    [ "go_veil_skith_cage", "de/d5d/a28018.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
-    [ "OnGossipHello", "de/d5d/a28018.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
+    [ "npc_prof_leather", "de/d5d/a28018.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "de/d5d/a28018.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "de/d5d/a28018.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "de/d5d/a28018.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

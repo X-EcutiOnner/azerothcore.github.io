@@ -1,7 +1,9 @@
 var a21290 =
 [
-    [ "npc_mootoo_the_youngerAI", "d6/d56/a21294.html", "d6/d56/a21294" ],
-    [ "npc_mootoo_the_younger", "db/d50/a21290.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "db/d50/a21290.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "db/d50/a21290.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "npc_bloodmage_laurithAI", "db/d50/a21290.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "db/d50/a21290.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "db/d50/a21290.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
+    [ "UpdateAI", "db/d50/a21290.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "db/d50/a21290.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "db/d50/a21290.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

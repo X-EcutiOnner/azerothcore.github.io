@@ -1,7 +1,7 @@
 var a22698 =
 [
-    [ "CalculateAmount", "d0/ddd/a22698.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
-    [ "PrepareAuraScript", "d0/ddd/a22698.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
-    [ "Register", "d0/ddd/a22698.html#a6d0d47536e6ef74a88c97019843d478c", null ],
-    [ "Update", "d0/ddd/a22698.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
+    [ "HandleEffectRemove", "d0/ddd/a22698.html#a070e0dacb457d7dc0bd61594f0ed6d83", null ],
+    [ "PrepareAuraScript", "d0/ddd/a22698.html#ac30073d35c40385a24b694012776391e", null ],
+    [ "Register", "d0/ddd/a22698.html#ae66eceece2812aee47acb386735f50a0", null ],
+    [ "Validate", "d0/ddd/a22698.html#af26c0361e6b7e480f59563d8630d6736", null ]
 ];

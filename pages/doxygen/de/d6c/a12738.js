@@ -1,9 +1,8 @@
 var a12738 =
 [
-    [ "HandleAfterApply", "de/d6c/a12738.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "de/d6c/a12738.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "de/d6c/a12738.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "de/d6c/a12738.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "de/d6c/a12738.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "de/d6c/a12738.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "FilterTargets", "de/d6c/a12738.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "de/d6c/a12738.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "de/d6c/a12738.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "de/d6c/a12738.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "de/d6c/a12738.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

@@ -1,8 +1,7 @@
 var a20738 =
 [
-    [ "npc_ulduar_keeperAI", "d9/d49/a20742.html", "d9/d49/a20742" ],
-    [ "npc_ulduar_keeper", "db/de2/a20738.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "db/de2/a20738.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "db/de2/a20738.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "db/de2/a20738.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "HandleScriptEffect", "db/de2/a20738.html#a173ee086127655cdfcca507fd5b15b2e", null ],
+    [ "PrepareSpellScript", "db/de2/a20738.html#a005d47b18a820c35ec596b5539db94eb", null ],
+    [ "Register", "db/de2/a20738.html#a20a0d554e80707c1517422cb747f38e8", null ],
+    [ "Validate", "db/de2/a20738.html#a5ca44686e26def56adc2b98d88145235", null ]
 ];

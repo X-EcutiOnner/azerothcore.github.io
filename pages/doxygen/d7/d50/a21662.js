@@ -1,7 +1,7 @@
 var a21662 =
 [
-    [ "HandleScript", "d7/d50/a21662.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "d7/d50/a21662.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "d7/d50/a21662.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "d7/d50/a21662.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_plaguehound_trackerAI", "d7/d50/a21662.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d7/d50/a21662.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d7/d50/a21662.html#a67c345f49572cde76d9109a1baff6788", null ],
+    [ "WaypointReached", "d7/d50/a21662.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

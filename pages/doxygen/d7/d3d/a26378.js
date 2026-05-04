@@ -1,9 +1,6 @@
 var a26378 =
 [
-    [ "Load", "d7/d3d/a26378.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "d7/d3d/a26378.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "d7/d3d/a26378.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "d7/d3d/a26378.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "d7/d3d/a26378.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "d7/d3d/a26378.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "CheckCast", "d7/d3d/a26378.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "d7/d3d/a26378.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "d7/d3d/a26378.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

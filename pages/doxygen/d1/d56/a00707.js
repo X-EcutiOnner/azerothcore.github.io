@@ -1,4 +1,4 @@
 var a00707 =
 [
-    [ "ScriptRegistry< AchievementCriteriaScript >", "d1/d56/a00707.html#a691565a1335cabfa534300dece8e65e8", null ]
+    [ "ScriptRegistry< AuctionHouseScript >", "d1/d56/a00707.html#ac2271f3a8c4323137893dfd21d8d0003", null ]
 ];

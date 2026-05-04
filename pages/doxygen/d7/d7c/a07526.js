@@ -1,6 +1,11 @@
 var a07526 =
 [
-    [ "RewardTeamWithRewardGroup", "d7/d7c/a07526.html#a962da3fcdc2feb57ffd2a635d431939a", null ],
-    [ "RewardWithAchievements", "d7/d7c/a07526.html#a57e1ffbe543a93799d6c26d880e128ad", null ],
-    [ "RewardWithMail", "d7/d7c/a07526.html#a4f2dd956f1ffadbfb5b005c1fbeb5aee", null ]
+    [ "WGWorkshop", "d7/d7c/a07526.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
+    [ "GiveControlTo", "d7/d7c/a07526.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
+    [ "Save", "d7/d7c/a07526.html#adede1c780178f20dc8339320a021e4b6", null ],
+    [ "UpdateGraveyardAndWorkshop", "d7/d7c/a07526.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
+    [ "bf", "d7/d7c/a07526.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
+    [ "state", "d7/d7c/a07526.html#a279d47c85843e884edef1f82b9654cd8", null ],
+    [ "teamControl", "d7/d7c/a07526.html#a196c8d0094a34c18835840e046fd39ef", null ],
+    [ "workshopId", "d7/d7c/a07526.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
 ];
